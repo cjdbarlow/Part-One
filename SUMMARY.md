@@ -210,9 +210,7 @@
   * [Coagulopathy Testing](coagulopathy_testing.md)
 
 * Measurement and Monitoring
-  * Concepts in Mathematics and Physics
-    * [SI Units](si_units.md)
-
+  * [SI Units](si_units.md)
   * [Pressure Transduction](pressure_transduction.md)
   * [Electrical Safety](electrical_safety.md)
   * [Pulse Oximetry](pulse_oximetry.md)
