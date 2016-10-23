@@ -3,7 +3,8 @@
         "mathjax-beta",
         "wide",
         "ungrey",
-        "expandable-chapters-small"
+        "expandable-chapters-small",
+        "git-author"
     ],
     
     "title": "Part One",
