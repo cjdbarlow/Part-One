@@ -1,0 +1,49 @@
+#Respiratory Changes in the Newborn
+
+##Transition at Birth
+Transition from placental gas exchange to pulmonary gas exchange occurs within 20s after birth:
+* Compression of the thorax through the vaginal canal expels foetal lung water
+* Elastic recoil, combined with cooling of the skin and mechanical stimulation (which stimulate the respiratory centre), facilitate first breath
+
+* The rapid drop in pulmonary vascular resistance with spontaneous breathing drives the changes in the cardiac circulation
+
+##Neonates and Children
+* **Compliance**  
+Neonatal chest walls are highly compliant relative to their lungs (due to both a reduced lung compliance and increased chest wall compliance), as compared to adults where lung and chest compliance is equal. Therefore elastic work of breathing is largely determined by the lungs.
+
+
+* **Ventilation**  
+  * Obligate nose breathers
+  * Neonates have a high respiratory rate (25-40 breaths per minute) and low tidal volume, such that dead space ventilation is high.
+
+
+* **Oxygenation**  
+O<sub>2</sub> consumption is ~10ml.kg<sup>-1</sup>.min<sup>-1</sup>. In addition, there is a ~10% shunt after birth which contributes to a greater A-a gradient.
+
+* **Neurological control of breathing**  
+Respiratory patterns change following birth, and complete change to adult respiratory patterns may take some weeks. **Periodic breathing** is a slowly oscillating respiratory rate and V<sub>T</sub>, and **periodic apnoea** is intermittent apnoea interspersed with normal breathing.
+
+* **Volumes and capacities**  
+Closing capacity is increased relative to adults. Functional residual capacity is unchanged.
+
+
+* **Laryngeal anatomy**  
+  * Large head
+  * Large tongue
+  * Large, stiff, U-shaped epiglottis
+  * Elevated larynx  
+  Glottis is at C-3C4 (C6 in adults).
+  * Upper airway is narrowest at the cricoid ring (rather than the glottis).
+  * Trachea is shorter and narrower  
+  4-5cm long, 6mm diameter in the neonate.
+  
+  
+* **Small airways**  
+  * Reduced bronchial smooth muscle so bronchospasm is uncommon
+  * Bronchioles contribute 50% of airways resistance  
+  Bronchiolitis much more distressing in neonates and children.
+
+---
+##References
+Nunns
+CICM March/May 2013

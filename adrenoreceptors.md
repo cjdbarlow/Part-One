@@ -1,0 +1,75 @@
+# Adrenoreceptors
+> Understand the pharmacology of adrenoreceptor blocking drugs.
+
+*This covers the pharmacology of adrenoreceptors and the production and metabolism of endogenous catecholamines. Detailed information on specific agents is in the pharmacopeia.*
+
+Adrenoreceptors are classified by their varying sensitivity to different catecholamines. Additionally:
+* All adrenoreceptors are G protein-coupled receptors
+  * Each receptor contains seven transmembrane α-helical subunits, three extracellular loops, and three intracellular loops
+* Alpha receptors have different subunits and mechanisms of action
+* **All beta receptors** are:
+  * G<sub>s</sub> coupled
+  * Activate adenylate cyclase increasing cAMP
+
+
+##Adrenoreceptor Subtypes
+**α<sub>1</sub>-receptors**:
+  * Are present in smooth muscle  
+  Agonism causes vasoconstriction, relaxation of GIT muscle (via presynaptic receptors), and contruction of GU muscle.
+  * They are:
+    * G<sub>q</sub> coupled
+    * Phospholipase C activated increases IP<sub>3</sub>, increase calcium
+
+**α<sub>2</sub>-receptors**:
+  * Are present in the CNS, arterioles, pancreas  
+  Agonism causes sedation, analgesia, vasodilatation, and inhibition of insulin release.
+  * They are:
+    * G<sub>i</sub> coupled
+    * Inhibits adenylate cyclase, decreasing cAMP
+
+**β<sub>1</sub>-receptors**:
+  * Are present in cardiac muscle and the JGA
+    * Cardiac agonism increases inotropy, chronotropy, and dromotropy
+    * JGA agonism increases renin release
+  * Increase in cAMP increases intracellular calcium
+
+**β<sub>2</sub>-receptors**:
+  * Are present in skeletal vascular and bronchial smooth muscle, the liver, and on cell membranes  
+  * Agonism causes:
+    * Vasodilation and bronchodilation
+    * Hepatic glycogenolysis
+    * Increases activity of the Na<sup>+</sup>-K<sup>+</sup> ATPase pump, increasing intracellular potassium
+  * Increase in cAMP increases Na<sup>+</sup>/K<sup>+</sup> ATPase activity and hyperpolarisation
+
+**β<sub>3</sub>-receptors**:
+  * Are present in fat  
+  Agonism causes lipolysis and thermogenesis.
+
+
+##Production and Metabolism
+Naturally occurring catecholamines include **adrenaline**, **noradrenaline**, and **dopamine**. Synthesis:
+* Occurs in the **adrenal medulla**
+  * The medulla is a **modified sympathetic ganglion** composed of **chromaffin cells**  
+ Therefore synthesis is dependent on **ACh release** by the presynaptic neuron.
+* Is a stepwise process:
+  * **Tyrosine** is concentrated in the adrenal medulla
+  * Tyrosine is hydroxylated to DOPA by **tyrosine hydroxylase**  
+  This is the **rate-limiting** step, and is probably the best enzyme to remember.
+  * DOPA is decarboxylated to dopamine
+  * Dopamine is converted to noradrenaline
+  * Noradrenaline is converted to adrenaline
+
+Plasma half-lives of noradrenaline and adrenaline are small as a consequence of their metabolism and elimination.
+
+* Extraneuronal uptake in the lungs, liver, kidney, and GIT
+* Neuronal uptakeby sympathetic nerve endings
+* Inactivation by MAO in nerve cytoplasm
+* Inactivation by COMT in the liver and kidney
+
+---
+##References
+Power and Kam
+
+Ganong
+
+Basic physiology for anaesthetistss

@@ -1,0 +1,27 @@
+# Glycopeptides
+
+Non-β-lactam agents that inhibit cell wall synthesis. They are active against gram-positive anerobes and aerobes. They are bacteriostatic against enterocci and streptococci, and bacteriocidal against staphylocci.
+
+|Property|Vancomycin|
+|--|--|
+|**Uses**|MRSA, C. difficile
+|**Presentation**|Powder for reconstitution
+|**Route of Administration**|PO, IV, Intrathecal| 
+|**Dosing**|Peak levels determined by dose, trough levels by dose and interval
+|**Absorption**|No oral bioavailability. Poor CSF penetration|
+|**Distribution**|V<sub>D</sub> 4L.kg<sup>-1</sup>. Poor CSF penetration even with inflammed meninges - higher levels are required for CNS penetration. ~50% protein bound.
+|**Metabolism**|Minimal hepatic metabolism|
+|**Elimination**|90% secreted unchanged in urine - significantly prolonged in renal impairment|
+|**CVS**|Phlebitis, red man syndrome (profound non-anaphylactic histamine release with rapid injection)
+|**CNS**|Ototoxicity
+|**Renal**|Nephrotoxicity, typically temporary and resolves on cessation
+|**Haematological**|Thrombocytopenia
+|**Immunological**|'Red man syndrome' due to histamine release with rapid injection, with accompanying ↑ HR ↓ BP. Neutropenia.
+|**Other**|Synergistic action with cephalosporins, aminoglycosides, and rifampicin
+
+---
+##References
+peck and Hill
+Smith Scarth Sasada
+Wellington
+UpToDate

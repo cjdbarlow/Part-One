@@ -1,0 +1,94 @@
+# Innate Immunity
+> Describe the factors involved in the process of inflammation and the immune 
+response, including innate and acquired immunity
+
+The innate immune system consists of protective mechanisms which are present life-long, and typically forms the first line of defence against pathogens.
+
+Key features of innate immunity include:
+* Immediacy
+* Non-specific response
+* Not modified by repeat exposures
+
+The innate immune system consists of **three components**:
+* Physicochemical barriers
+* Humoral mechanisms
+* Cellular Mechanisms
+
+##Physicochemical Barriers
+These include:
+* Skin
+* Mucous membranes
+    * Mucous, and the mucociliary elevator
+* Gastric acid
+* Urination (including high flow rates and low residual bladder volumes)
+
+##Innate Humoral Mechanisms
+Humoral mechanisms describes the role of inflammatory proteins in innate immunity:
+* **Complement**  
+The complement system is a complex group of about **25 plasma proteins** important in both innate and adaptive immunity.
+  * The complement system is activated by:
+    * Antigen-antibody complexes  
+    The 'classical pathway.'
+    * Substances in the bacteria cell wall  
+    The 'alternative pathway.'
+  * The system has a number of inflammatory functions:
+      * Destruction of bacteria  
+      Several complment proteins come together to form a **membrane attack complex**, which creates large pores in cell membranes, causing water to diffuse in and bacteria to burst.  
+      * Opsonisation of bacteria  
+      Bound complement acts as a binding site for phagocytes.
+      * Activation of monocytes and phagocytes
+      * Chemotaxis  
+      Attracts leucocytes.
+      * Mast cell degranulation  
+      Augments inflammation.
+
+
+
+* **Acute-Phase Proteins**  
+Inflammatory proteins with a number of effects:
+    * Opsonisation
+    * Inflammatory mediators  
+    Increase blood flow and delivery of inflammatory cells via three mechanisms:
+        * Dilatation and increased capillary permeability
+        * Endothelial activation increasing leukcocyte adhesion
+        * Attraction of neutrophils and monocytes
+
+
+
+* **Protelytic enzymes**  
+Bactericidal enzymes located in saliva, tears, respiratory mucous, and neutrophils.
+
+##Innate Cellular Mechanisms
+Cellular components of the innate immune system include:
+* **Mast cells**  
+Exist in loose connective tissue and mucosa, and contain many intracellular granules of heparin and histamine.
+
+* **Natural Killer cells**  
+Lymphocyte subtype active against viral and tumour cells.
+
+
+* **Leukocytes**  
+    * Neutrophils (60% of all leukocytes)  
+    Phagocytose bacteria and fungi (15-20 per neutrophil). This process consists of a number of steps:
+        * Exist circulation **marginating** along capillary border when activated
+        * Migrate via **chemotaxis** towards the tissue insult
+        * **Phagocytose opsonised** bacteria and fungi
+        * Kill organisms with a **respiratory burst**:  
+        A granule containing hydrogen peroxide, hydroxyl and oxygen radicals fuses with the target cell membrane, destroying both the target and the neutrophil
+    * Monocytes  
+    Become macrophages when they leave circulation and enter tissue. Macrophages have a lifespan of 2-4 months, and can phagocytose up to 100 bacteria before it dies. Functions include:
+        * Phagocytosis and destruction of
+          Especially intracellular pathogens (listeria, mycobacteria), parasites, and fungi.
+        * Breakdown of damaged body cells
+        * Present antigen to T-helper cells
+        * Secretion of inflammatory mediators
+    * Eosinophils  
+    Kill multicellular parasites.
+    * Basophils  
+    Contain heparin and histamine.
+    * Lymphocyte  
+    Subtyle of leukocyte important in adaptive immunity.
+
+---
+##References
+Power and Kam

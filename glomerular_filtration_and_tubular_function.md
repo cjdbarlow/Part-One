@@ -1,0 +1,95 @@
+# Glomerular Filtration and Tubular Function
+> Describe glomerular filtration and tubular function.
+
+##Glomerulus
+* The **glomerulus** is a set of capillaries which invaginate **Bowman's capsule**
+* Fluid filters out of the capillary bed into Bowman's space based on:
+  * Starlings forces  
+  Competing hydrostatic and oncotic pressures.
+  * Membrane permeability  
+  Permeability is determined by the permeability of:  
+    *  **Capillary endothelium**
+    *  **Basement membrane**
+    *  **Foot processes** of podocytes
+
+###Glomerular Filtration Rate
+**Glomerular Filtration Rate** is the volume of *plasma* filtered by the glomerulus each minute. A typical value is **125ml.min<sup>-1</sup>**, though this falls with age (partially due to loss of nephron number). Normal renal *blood* flow is 1.1 L.min<sup>-1</sup>, however renal *plasma* flow is less at 600 ml.min<sup>-1</sup>. Therefore, the normal filtration fraction (proportion of renal blood flow which is filtered) is ~20%.
+
+GFR can be expressed as the **product** of **Net Filtration Pressure** and the combination of membrane permeability and membrane surface area, designated **K<sub>f</sub>** (the filtration coefficient):
+
+$$GFR = NFP \times K_f $$
+
+* **Net Filtration Pressure** is given by opposing **Starling Forces** across the glomerular membrane, with an **average capillary NFP of ~17mmHg**:
+
+    $$NFP = P_{Glomerular \ Hydrostatic} - P_{Bowman's \ Hydrostatic} -P_{Glomerular \ Oncotic}$$
+
+    As protein is not filtered, oncotic pressure in Bowman's space is trivial and it is not included.
+
+    * **Hydrostatic pressure**  
+    Determined by renal blood flow and the relative constriction of the **afferent** and **efferent** arterioles. Hydrostatic pressure **decreases along the capillary**.
+    Affected by:
+     * MAP
+        * Catecholamines
+        * Local autoregulation
+          * Myogenic
+          * Tubuloglomerular Feedback <br> <br>
+    * **Osmotic pressure**  
+    **Increases along the capillary**, as protein free-fluid is filtered leaving a higher concentration of protein within the capillary. This change in capillary oncotic pressure is proportional to the filtration fraction - a greater filtration fraction will cause a higher oncotic pressure of fluid in the capillary.
+
+
+* **Membrane permeability**  
+    Typically very high for water and solutes. Molecules **less** than **7000 Dalton** are **freely filtered**, whilst larger molecules are filtered less.
+    **Negatively charged** molecules have **reduced filtration** as the basement membrane is also negatively charged which opposes movement out of the capillary.  
+    Affected by:
+    * Glomerulonephritis
+        * Change in basement membrane or podocyte foot processes
+    * Angiotensin II causing contraction of mesangial cells
+
+
+##Tubular Function
+###Proximal Tubule
+The proximal tubule reaborbs 60% of glomerular filtrate. It **reabsorbs basically everything**, including protein, and secretes H<sup>+</sup>, organic ions, ammonium, and up to 60% of filtered urea load.
+
+
+###Loop of Henle
+The loop of Henle consists of a **thin descending limb** and a **thick ascending limb**. The descending limb reabsorbs water only. The thick ascending limb reaborbs common ions (Na<sup>+</sup>, K<sup>+</sup>, Cl<sup>-</sup>) and HCO<sub>3</sub><sup>-</sup>, and excretes H<sup>+</sup>. The function of the loop is to concentrate urine in states of water deprivation, which it does via the countercurrent mechanism.
+
+####Countercurrent Multiplier
+The countercurrent concentrating system is a formed from the loop of Henle and collecting ducts, and is driven entirely by the removal of NaCl from the ascending limb. The process of countercurrent concentration is most easily understood in stages:
+* NaCl is actively transported out of the thick ascending limb, increasing interstitial osmolality *at that level*.
+* Increased interstitial osmolality results in water reabsorption from the descending limb, increasing tubular osmolality *at that level*.
+* This more concentrated tubular fluid then flows to a deeper, more concentrated level, and more water is reabsorbed.
+* The effect is progressive concentration of tubular and interstitial fluid, but with a low and stable energy cost as the relative gradients that the transport pumps must work against are small.
+
+The end result is a dilute urine leaving the ascending limb, but a highly concentrated medullary interstitium.
+
+####Countercurrent Exchange
+The **vasa recta** are peritubular capillaries that:
+* Surround the loop of Henle of juxtamedullary nephrons
+* Follow the loop into the medulla
+* Have typically low blood flow  
+This prevents "washout" of the countercurrent multiplier, as the slow blood flow allows solute concentrations to equalise at each level of the loop.
+  * In hypovolaemic situations, renal blood flow falls and vasa recta flow decreases, further reducing washout
+  * When renal blood flow is high, vasa recta flow increases. This washes out part of the medullary concentration gradient and reduces the concentrating ability of the kidney.
+
+###Distal tubules
+Fluid entering the distal tubule has about **one-third** the **osmolarity** of plasma. The distal tubule:
+* Reabsorbs: Na<sup>+</sup>, Cl<sup>-</sup>, HCO<sub>3</sub><sup>-</sup>, Ca<sup>2+</sup>
+* Secretes: K<sup>+</sup>, H<sup>+</sup>
+
+###Collecting Ducts
+* The collecting ducts lie in the interstitium (concentrated by the loop of Henle)
+* In the absence of aquaporins, the collecting ducts are **impermeable to water**
+  * Osmolality can fall as low as **50 mmol.L<sup>-1</sup>** due to continued reabsorption of solute
+  * In the presence of aquaporins, water flows down the osmotic gradient into the concentrated interstitium, resulting in a highly concentrated urine
+  * ADH also **increases** collecting duct permeability of **urea**
+    * Urea moves via solvent drag with water
+
+---
+##References
+Power and Kam
+
+Comprehensive Human Physiology
+
+CICM March/May 2010
+

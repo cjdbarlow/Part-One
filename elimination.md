@@ -1,0 +1,37 @@
+#Elimination
+>**Describe the mechanisms of drug clearance** and metabolism.
+
+Drugs are eliminated in **urine** and **bile**. 
+
+##Renal Elimination
+Drugs can either be filtered at the glomerulus or secreted at the tubules.
+
+###Filtration
+Drugs which are filtered are:
+* **Non-protein bound**  
+  Only free drug present in filtered plasma will be excreted - the concentration of the drug will be the same in the *unfiltered* plasma. **Highly protein bound** drugs are therefore **poorly filtered**, as there is no concentration gradient encourages them to decouple from plasma proteins.
+* **Small**
+* **Hydrophilic/lipophobic**  
+  Lipophilic drugs will be reabsorbed during their passage down the tubule.
+
+###Proximal tubular secretion
+* **Active secretion** allows secretion **against concentration gradients**.
+* Separate mechanisms for acidic and alkaline drugs
+    * Saturation may occur of a basic transporter whilst still allowing excretion of acidic drugs
+
+###Distal tubular secretion
+* **Passive diffusion** down a concentration gradient
+* Therefore, acidic drugs have increased elimination in an alkaline urine, and vice versa
+    * This is the physiological justification for urinary alkalinisation
+
+##Biliary elimination
+* Biliary elimination occurs for drugs unable to be filtered by the glomerulus (>30,000 dalton) or secreted by the glomerulus.
+
+###Enterohepatic recirculation
+Biliary excreted drugs may be hydrolysed in the small bowel by bacteria and then reabsorbed, pass through the portal circulation and get metabolised again. This may occur many times.
+
+
+---
+
+##References
+ [^1]: Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  

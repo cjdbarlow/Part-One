@@ -1,0 +1,47 @@
+# Hormones
+
+A **hormone** is a chemical messenger produced by a **ductless gland** which has its action at a distant target cell via a specific receptor.
+
+* **Lipid hormones**, divided into:
+    * **Steroids**  
+    Steroids are synthesised from cholesterol, and are released as they are produced (they are not stored). They are highly lipid soluble and act on cytoplasmic and intra-nucleic receptors.
+        * Aldosterone
+        * Testosterone
+        * Oestrogen
+        * Cortisol
+    * **Eicosanoids**  
+    Eicosanoids are formed from cell membrane phospholipid.
+        * Prostaglandins
+        * Thromboxanes
+        * Leukotrienes
+
+
+* **Peptide hormones**  
+Peptide hormones are store in granules and released by exocytosis. They are divided into:
+    * **Short-chain**
+        * Insulin
+        * ADH
+        * Oxytocin
+        * ACTH
+    * **Long-chain**  
+        * GH
+        * Prolactin
+    * **Glycopeptides**  
+    Proteins with carbohydrate groups.
+        * LH
+        * FSH
+        * TSH
+
+
+* **Monoamine derivatives**  
+Derived from a single amino acid.
+    * Catecholamines  
+    Stored in granules and act at membrane receptors.
+        * Adrenaline
+        * Noradrenaline
+    * Serotonin
+    * Thyroxine
+
+---
+##References
+Chambers

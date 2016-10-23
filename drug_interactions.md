@@ -1,0 +1,95 @@
+#Drug Interactions
+>Classify and describe mechanisms of drug interaction.
+
+Drug interactions occur "when the action of one drug modifies that of another".[^1] 
+
+##Mechanisms of Drug Interaction
+
+Drug interactions are best classified into **three** categories:
+* **Pharmaceutic/Physicochemical**
+* **Pharmacokinetic**
+* **Pharmacodynamic**
+
+###Pharmaceutic
+Physicochemical interactions occur because of an incompatibility between chemical structures.
+
+> Thiopentone and many muscle relaxants will precipitate out of solution if prepared together or run in the same line[^2]
+
+###Pharmacokinetic
+Pharmacokinetic interactions can be sub-classified into those affecting absorption, distribution, metabolism, or elimination.
+
+####Absorption
+For oral medications, absorption may be affected by drugs which alter:
+* Gastric pH
+* Gastric emptying time
+
+> Metoclopramide resolves gastric stasis and improves absorption of orally administered drugs
+
+####Distribution
+Distribution may be affected by:
+* Competition for plasma protein binding  
+  Loss of albumin and α1-acid glycoprotein
+* Medications which alter cardiac output
+* Displacement from tissue binding sites
+  This typically occurs due to alteration of metabolic capacity of one drug by the other.
+* Chelation of drug from tissues  
+  Chelting agents bind toxic elements and prevent tissue damage
+
+>Phenytoin is usually highly (90%) protein bound. A reduction in protein binding to 80% will double the free phenytoin level. For drugs with first-order kinetics, metabolism will increase proportionally however phenytoin rapidly saturates the enzyme system, leading to zero-order kinetics and a high plasma level.
+
+<!--></!-->
+
+> β-blockers reduce cardiac output and will prolong the time to fasciculation of suxamethonium.
+
+
+####Metabolism
+Metabolism may be affected by changes to the CYP450 enzymes:
+* Enzyme induction
+    * Barbiturates
+    * Phenytoin
+    * Carbamazepine
+* Enzyme inhibition
+    * Amiodarone
+    * Diltiazem
+    * Verapamil
+    * Ciprofloxacin
+    * Macrolides
+    * Metronidazole
+    * Grapefruit juice
+
+> Amiodarone inhibits metabolism of S-warfarin by CYP2C9, leading to coagulopathy.
+
+####Elimination
+Renal elimination can be affected by:
+* Changes in urinary pH
+* Competition for active tubular transport mechanisms
+
+>Sodium bicarbonate increases urinary pH and enhances excretion of weak acids such as aspirin.
+
+###Pharmacodynamic
+Pharmacodynamic interactions can be **direct**, due to interaction on the same receptor system; or a **indirect**, when they act on different receptor system. These interactions can be classified as either:
+* **Additive**  
+  When the effects summate.
+* **Antagonistic**  
+  When the effects oppose each other.
+* **Synergistic**  
+  When the combined effect is greater than would be expected from summation alone.
+
+These three interactions can be graphically demonstrated using an **isobologram**, which draws a **line of equal activity** versus **concentration** of two drugs.
+
+
+> Administering midazolam with propofol reduces the amount of propofol required to generate an effect.
+
+<!--></!-->
+
+> Neostigmine indirectly antagonises the effect of NDMRs by increasing the level of ACh at the NMJ.
+
+<!--></!-->
+
+> Co-administration of remifentanil and propofol has a synergistic effect in maintenance of anaesthesia.
+
+
+---
+##References
+ [^1]: Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+ [^2]: Khan S, Stannard N, Greijn J. Precipitation of thiopental with muscle relaxants: a potential hazard. JRSM Short Reports. 2011;2(7):58. Available at: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3147238/
