@@ -2,7 +2,6 @@
 
 ## Introduction
 * [About Part One](README.md)
-* [The CICM Primary](the_cicm_primary_exam.md)
 * [The SAQ](the-saq.md)
 
 ## Curriculum
