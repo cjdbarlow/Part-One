@@ -5,8 +5,7 @@
         "ungrey",
         "expandable-chapters-small",
         "git-author"
-    ], 
-    "pluginsConfig": {
+    ], "pluginsConfig": {
           "git-author": {
               "position": "bottom",
               "modifyTpl": "Last modified by {user} {timeStamp}",
