@@ -49,7 +49,6 @@
     * [TCA Overdose](tricyclic_antidepressant_overdose.md)
     * [Organophosphates](organophosphate_poisoning.md)
 
-
 * [Cellular Physiology](cellularphysiology_md.md)
   * [The Cell Membrane](the_cell_membrane.md)
   * [Excitable Cells](excitable_cells.md)
@@ -100,7 +99,6 @@
   * [Respiratory Pharmacology](respiratorypharmacology_md.md)
     * [Anti-Asthma Drugs](anti-asthma_drugs.md)
 
-
 * [Cardiovascular System](cardiovascularsystem_md.md)
   * [Structure and Function](structureand_function_md.md)
     * [Cardiac Anatomy](cardiac_anatomy.md)
@@ -131,7 +129,6 @@
     * [Adrenoreceptors](adrenoreceptors.md)
     * [Antiarrhythmics](antiarrhythmics.md)
 
-
 * [Renal System](renalsystem_md.md)
   * [Renal Physiology](renalphysiology_md.md)
     * [Functional Anatomy and Control of Blood Flow](functional_anatomy_and_control_of_blood_flow.md)
@@ -146,7 +143,6 @@
     * [Sodium](sodium.md)
     * [Potassium](potassium.md)
 
-
 * [Acid-Base Physiology](acidbase.md)
   * [Buffers](buffers.md)
 
@@ -160,7 +156,6 @@
   * [Neuropharmacology](neuropharm.md)
     * [Anticonvulsants](anticonvulsantsmoa.md)
     * [Neuromuscular Blockers](neuromuscular_blockers.md)
-
 
 * [Endocrine](endocrinemd.md)
   * [A Brief Overview of Hormones](hormones.md)
@@ -213,7 +208,6 @@
     * [Functions of the Liver](functions_of_the_liver.md)
     * [Bile](bile.md)
 
-
 * [Haematological](haematological.md)
   * [Erythrocytes](erythrocytes.md)
   * [Iron Homeostasis](iron_homeostasis.md)
@@ -252,7 +246,6 @@
   * [Antidotes](antidotes.md)
     * [Naloxone](naloxone.md)
 
-
 * [Respiratory](respiratorypharm.md)
   * [Oxygen](oxygen.md)
   * [Helium](helium.md)
@@ -285,7 +278,6 @@
     * [Adenosine](adenosine.md)
     * [Magnesium](magnesium.md)
     * [Atropine](atropine.md)
-
 
 * [Diuretics](diuretics.md)
 * [Neuropharmacology](neuropharmacology.md)
@@ -329,7 +321,6 @@
   * [Hypoglycaemics](hypoglycaemics.md)
     * [Insulin](insulins.md)
     * [Oral Hypoglycaemics](oral_hypoglycaemics.md)
-
 
 * [Obstetric Pharmacology](obstetricpharm.md)
   * [Oxytocics](oxytocics.md)
