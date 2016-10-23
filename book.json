@@ -1,4 +1,8 @@
 {
+    "title": "Part One",
+
+    "description": "Notes for the CICM and ANZCA Primary Exams"
+
     "plugins": [
         "mathjax-beta",
         "wide",
@@ -14,8 +18,4 @@
               "timeStampFormat": "YYYY-MM-DD HH:mm:ss"
           }
     }
-
-    "title": "Part One",
-
-    "description": "Notes for the CICM and ANZCA Primary Exams"
 }
