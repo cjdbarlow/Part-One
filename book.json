@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "mathjax-beta",
+        "mathjax",
         "wide",
         "ungrey",
         "expandable-chapters-small"
