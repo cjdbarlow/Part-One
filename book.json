@@ -10,7 +10,7 @@
           "git-author": {
               "position": "bottom",
               "modifyTpl": "Last modified by {user} {timeStamp}",
-              "createTpl": "Created by {user} {timeStamp}",
+              "createTpl": false,
               "timeStampFormat": "YYYY-MM-DD HH:mm:ss"
           }
     }
