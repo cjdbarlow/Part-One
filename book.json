@@ -11,6 +11,7 @@
           "git-author":{
               "position": "bottom",
               "modifyTpl": "Last updated at {timeStamp}",
+              "timeStampFormat": "YYYY-MM-DD HH:mm:ss"
           }
     }
     "title": "Part One",
