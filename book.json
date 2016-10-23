@@ -1,9 +1,9 @@
 {
-    "title": "Part One",
+"title": "Part One",
 
-    "description": "Notes for the CICM and ANZCA Primary Exams"
+"description": "Notes for the CICM and ANZCA Primary Exams"
 
-    "plugins": [
+"plugins": [
         "mathjax-beta",
         "wide",
         "ungrey",
