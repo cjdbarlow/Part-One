@@ -9,7 +9,8 @@
     "pluginsConfig": {
           "git-author": {
               "position": "bottom",
-              "modifyTpl": "Last updated at {timeStamp}",
+              "modifyTpl": "Last modified by {user} {timeStamp}",
+              "createTpl": "Created by {user} {timeStamp}",
               "timeStampFormat": "YYYY-MM-DD HH:mm:ss"
           }
     }
