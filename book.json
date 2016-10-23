@@ -7,7 +7,7 @@
         "git-author"
     ],
     "pluginsConfig": {
-          "git-author":{
+          "git-author": {
               "position": "bottom",
               "modifyTpl": "Last modified by {user} {timeStamp}",
               "createTpl": "Created by {user} {timeStamp}",
