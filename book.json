@@ -3,9 +3,16 @@
         "mathjax-beta",
         "wide",
         "ungrey",
-        "expandable-chapters-small"
+        "expandable-chapters-small",
+        "git-author"
     ],
-    
+
+    "pluginsConfig": {
+          "git-author":{
+              "position": "bottom",
+              "modifyTpl": "Last updated at {timeStamp}",
+          }
+
     "title": "Part One",
     
     "description": "Notes for the CICM and ANZCA Primary Exams"
