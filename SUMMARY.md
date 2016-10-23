@@ -5,7 +5,7 @@
 
 ## Curriculum
 
-* [Research Methods and Statistics](#)
+* Research Methods and Statistics
   * [Evidence-Based Medicine](evidence-based_medicine.md)
   * [Study Types](study_types.md)
   * [Clinical Trial Design](clinical_trial_design.md)
