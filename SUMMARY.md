@@ -60,7 +60,6 @@
     * [Airway and Alveolus](airway_and_alveolar_anatomy.md)
     * [Chest Wall and Diaphragm](chest_wall_and_diaphragm.md)
     * [Variations in Anatomy](variations_in_anatomy.md)
-
   * [Control of Breathing](control_of_breathing.md)
   * Mechanics of Breathing
     * [Respiration](respiration.md)
@@ -71,21 +70,17 @@
     * [Volumes and Capacities](volumes_and_capacities.md)
     * [Spirometry](spirometry.md)
     * [Work of Breathing](work_of_breathing.md)
-
   * Diffusion of Gases
     * [Oxygen Cascade](oxygen_cascade.md)
     * [Diffusing Capacity and Limitation](diffusing_capacity_and_limitation.md)
-
   * V\Q Relationships
     * [West's Zones](wests_zones.md)
     * [Basics of V\/Q Matching](basics_of_vq_matching.md)
     * [Dead Space](dead_space.md)
     * [Shunt](shunt.md)
-
   * Gas Transport
     * [Oxygen Storage](oxygen_storage.md)
     * [Carbon Dioxide](carbon_dioxide_transport.md)
-
   * Applied Respiratory Physiology
     * [Hypoxia](hypoxia.md)
     * [Hypo and Hypercapnoea](hypo_and_hypercapnoea.md)
@@ -95,7 +90,6 @@
     * [Non-Respiratory Functions](non-respiratory_functions.md)
     * [Altitude Physiology](altitude_physiology.md)
     * [Respiratory Changes in the Newborn](changes_in_the_newborn.md)
-
   * Respiratory Pharmacology
     * [Anti-Asthma Drugs](anti-asthma_drugs.md)
 
