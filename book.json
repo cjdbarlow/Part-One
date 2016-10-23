@@ -5,7 +5,7 @@
         "ungrey",
         "expandable-chapters-small",
         "git-author"
-    ],
+    ]
 
     "pluginsConfig": {
           "git-author":{
