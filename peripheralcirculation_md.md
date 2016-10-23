@@ -1,2 +1,0 @@
-# Peripheral Circulation
-

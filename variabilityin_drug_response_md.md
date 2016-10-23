@@ -1,2 +1,0 @@
-# Variability in Drug Response
-

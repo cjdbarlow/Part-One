@@ -1,2 +1,0 @@
-# Applied Respiratory Physiology
-

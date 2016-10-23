@@ -1,2 +1,0 @@
-# Research Methods and Statistics
-

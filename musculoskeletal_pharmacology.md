@@ -1,2 +1,0 @@
-# Musculoskeletal Pharmacology
-
