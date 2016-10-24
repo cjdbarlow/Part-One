@@ -10,7 +10,7 @@ Very few people succeed in the written exams to fail at the viva.
 
 However, you still need to prepare appropriately. To do well at the viva:
 * Understand the viva is a performance piece  
-    * Requires structure, just like the SAQ
+The viva is a ritualised converation. Doing well requires you to know and understand the language and structure used, just like the SAQ.Requires structure, just like the SAQ
 * Structure your answer  
 As with the SAQ, categorise your answer.
     * Have a good opening statement
