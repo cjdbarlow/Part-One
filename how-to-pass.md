@@ -34,14 +34,17 @@ The curriculum provided is overwhelming, and probably not achievable for most of
 * Know the enemy
     * Syllabus  
     Read through it so you appreciate the breadth of knowledge required.
-    * Style of exam questions  
-    Including the style of answers - see [the SAQ](./the-saq.md).
-    * Graphs
-    * Style of vivas  
-        * Do practice vivas  
-            * Record yourself, so you know your tics.
-            * Do a dress rehearsal  
-            Make sure your suit still fits before the day.
+    * Know the style
+    This allows you to give answers **efficiently** - the key metric for both the vivas and the SAQs is **marks per unit time**.
+        * Style of exam questions  
+        Including the style of answers - see [the SAQ](./the-saq.md).
+        * Style of vivas  
+            * Do practice vivas  
+                * Record yourself, so you know your tics.
+                * Do a dress rehearsal  
+                Make sure your suit still fits before the day.
+        * Graphs  
+        Know the common ones.
 
 * **Do past questions**  
 I cannot stress this enough.
