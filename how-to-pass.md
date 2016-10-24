@@ -34,7 +34,7 @@ The curriculum provided is overwhelming, and probably not achievable for most of
     * Syllabus  
     Read through it so you appreciate the breadth of knowledge required.
     * Style of exam questions  
-    Including the style of answers - see [the SAQ](.
+    Including the style of answers - see [the SAQ](./the-saq.md).
 
 ---
 ##References
