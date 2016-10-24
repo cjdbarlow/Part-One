@@ -3,6 +3,7 @@
 * [About Part One](README.md)
 * [How to Pass](how-to-pass.md)
 * [The SAQ](the-saq.md)
+* [The Viva](the-viva.md)
 
 ## Curriculum
 * Research Methods and Statistics
