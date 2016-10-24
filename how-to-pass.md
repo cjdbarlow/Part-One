@@ -86,7 +86,6 @@ I did my flashcard deck (almost) every day, including work days. This would take
     * They resumed about 2 weeks after the written  
     Take a break after the written exams, they are exhausting.
 
-
 ---
 
 ##References
