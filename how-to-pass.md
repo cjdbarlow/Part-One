@@ -76,15 +76,30 @@ I did practice questions (and note making) on my days off.
     * In the weeks before the written, I moved up to 6 or 12 (a full CICM SAQ paper) questions at a time (still at 8 minutes per question)
 
 * Did a *lot* of flashcards  
-I did my flashcard deck (almost) every day, including work days. This would take about an hour.
+I did my flashcard deck (almost) every day, including work days. This would take about an hour. Flashcards are far less demanding than doing questions, and a simple form of revision.
     * This is the absolute best way of learning facts, in my opinion
-    * I used [anki](ankisrs.net)
+    * I used [anki](http:\\www.ankisrs.net), but use whatever works for you
 
 * Did practice vivas
     * These began about a month before the written
     This is absolutely worthwhile doing - there is a lot of crossover of skills between the viva and the written. Both require a structured approach, and good content knowledge.
     * They resumed about 2 weeks after the written  
     Take a break after the written exams, they are exhausting.
+
+##The Bottom Line
+* Pick a date, and commit to it
+* Work out which times work best for you with respect to study  
+Different times will be better for different things. I found:
+    * Days off (including weekends) were best for learning new content
+    * Work days were for revising
+    * Post night shift was always a write-off
+* Maintain a positive attitude  
+Study groups are good for this - share the suffering!
+* Split large topics into managable chunks
+* Don't lose your head  
+Set aside time for relaxation, and don't feel guilty about it.
+* You don't have to know everything  
+**The pass mark is 50%**
 
 ---
 
