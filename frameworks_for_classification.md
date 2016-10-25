@@ -1,4 +1,4 @@
-#Frameworks for Questions
+#Structures for SAQs
 Structured answers are vital:
 * Structure aids both learning and recall of information
 * A structured format is easy to follow less likely to irritate the drunk/tired/hungover mind of the examiner
@@ -25,77 +25,82 @@ Some questions lend themselves more easily to a particular structure than others
     * Heat/light stability
     * Routes of administration
     * Doses
-
-
 * **P**harmacokinetics
-    * **D**istribution
     * **A**bsorption
+    * **D**istribution
     * **M**etabolism
     * **E**limination
-
-
 * **P**harmacodynamics
     * Main Action
     * Mode of Action
-    * Effects (Consider a systems approach: ABC...):
-        * Respiratory
-            * Bronchodilation/constriction
-            * Vasodilation/constriction
-            * V<sub>T</sub>
-            * RR
-            * Secretion
-            * Laryngeal reflexes
-        * CVS
-            * Preload
-            * Contractility/Pump effects
-                * CO
-                * HR/Rhythm
-                * Nodal effects
-                * Coronary Blood Flow
-            * Afterload/Pipe effects
-                * SBP
-                * DBP
-                * MAP
-                * SVR
-                * PVR
-            * Intraarterial injection
-        * CNS
-            * Sedation
-            * Analgesia
-            * Pro/anticonvulsant
-            * Amnestic
-            * Cerebral Metabolic Rate
-            * Cerebral Blood Flow
-            * ICP
-            * IOP
-        * Musculocutaneous
-            * Blood Flow
-            * NMJ
-        * Endocrine
-            * Gynaecomastia
-            * Hair
-            * Bone
-        * Renal and GU
-            * Renal Blood Flow
-            * Nephrotoxicity
-            * Bladder tone
-            * Uterine tone
-        * GIT and Hepatic
-            * Hepatotoxicity/LFTs
-            * Secretions
-            * Gastric emptying
-            * N/V/D/C
-        * Haematological
-            * G6PD
-            * Porphyrias
-            * Bone marrow effects
-        * Immunological
-            * Analphylaxis
-            * Histaminergic
-            * Neutrophil function
-        * Metabolic
+    * Effects (See the physiological approach)
     * Side Effects
     * Toxic effects
+        * Allergic
+        * Dose-dependent
+        * Idiopathic
+        * Drug interactions
+
+##Describe the physiology of
+* Respiratory
+    * Bronchodilation/constriction
+    * Vasodilation/constriction
+    * V<sub>T</sub>
+    * RR
+    * Secretion
+    * Laryngeal reflexes
+* CVS
+    * Preload
+    * Contractility/Pump effects
+        * Inotropy
+        * Chronotropy/rhythm
+        * Dromotropy
+        * Lusitropy
+        * Bathmotropy
+        * Nodal effects
+        * Coronary Blood Flow
+    * Afterload/Pipe effects
+        * SBP
+        * DBP
+        * MAP
+        * SVR
+        * PVR
+    * Intraarterial injection
+* CNS
+    * Sedation
+    * Analgesia
+    * Pro/anticonvulsant
+    * Amnestic
+    * Cerebral Metabolic Rate
+    * Cerebral Blood Flow
+    * ICP
+    * IOP
+* Musculocutaneous
+    * Blood Flow
+    * NMJ
+* Endocrine
+    * Gynaecomastia
+    * Hair
+    * Bone
+* Renal and GU
+    * Renal Blood Flow
+    * Nephrotoxicity
+    * Bladder tone
+    * Uterine tone
+* GIT and Hepatic
+    * Hepatotoxicity/LFTs
+    * Secretions
+    * Gastric emptying
+    * N/V/D/C
+* Haematological
+    * G6PD
+    * Porphyrias
+    * Bone marrow effects
+* Immunological
+    * Analphylaxis
+    * Histaminergic
+    * Neutrophil function
+* Metabolic
 
 ##Anatomical Structure
 * Anatomy of the structure
@@ -103,6 +108,15 @@ Some questions lend themselves more easily to a particular structure than others
 * Relevant surface anatomy
 * Layers of dissection  
 
+##Physics and Measurement
+* Definition
+* Uses
+* Physical principles
+* Components
+* Calibration
+* Advantages/Disadvantages
+
 ---
 ##References
-Drunk, tired, and/or hungover examiners.
+* Dr. Podcast
+* Wisdom from drunk, tired, and/or hungover examiners.
