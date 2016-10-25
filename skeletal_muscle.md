@@ -1,4 +1,4 @@
-# Skeletal Muscle
+# Skeletal Muscle {#id}
 > Describe the anatomy and physiology of skeletal~~, smooth, and cardiac~~ muscle
 
 <!--></!-->

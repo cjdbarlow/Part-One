@@ -1,4 +1,4 @@
-# Anticonvulsants
+# Anticonvulsants {#id}
 > An understanding of the pharmacology of ~~anti-depressant, anti-psychotic,~~ anti-convulsant~~, and anti-Parkinsonian~~ medication
 
 Anticonvulsants work via a number of different mechanisms.

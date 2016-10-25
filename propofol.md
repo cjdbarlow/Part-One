@@ -1,4 +1,4 @@
-# Propofol
+# Propofol {#id}
 
 Propofol is a phenolic derivative which agonises GABA<sub>A</sub> receptors modulating its inhibitory action.
 

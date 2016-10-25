@@ -1,4 +1,4 @@
-#Adrenergic Drugs
+#Adrenergic Drugs {#id}
 
 Adrenergic drugs are sympathomimetic based on a **benzene ring**, with different amine side chains. When a hydroylgroup is present at the C3 and C4 positions, it is known as a **catecholamine**. All adrenergic act via either a dopamine (D) or adrenoreceptors (α and β). **Direct-acting** stimulate the receptor, whilst **indirect-acting** release noradrenaline to cause sympathomimetic effects.
 

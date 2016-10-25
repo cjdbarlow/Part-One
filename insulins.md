@@ -1,4 +1,4 @@
-# Insulins
+# Insulins {#id}
 
 Insulins are synthetic polypeptide hormones with a similar mechanism of action and pharmacodynamics of endogenous insulin.
 

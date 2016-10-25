@@ -1,4 +1,4 @@
-# Inotropes
+# Inotropes {#id}
 >Understand the detailed pharmacology of inotropes ~~and vasopressors~~
 
 Inotropes are agents which affect contractility - which is the sum of factors that affect myocardial performance independent of preload and afterload.

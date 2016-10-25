@@ -1,4 +1,4 @@
-# Opioids
+# Opioids {#id}
 
 ##Common Features
 |Property|Effect

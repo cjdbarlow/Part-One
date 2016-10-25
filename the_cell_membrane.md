@@ -1,4 +1,4 @@
-#The Cell Membrane
+#The Cell Membrane {#id}
 > Describe the cell membrane and cellular organelles and their properties.
 
 Cell membranes are formed by a **phospholipid bilayer** which separates intracellular and extracellular contents. The membrane is **semi-permeable**, which leads to different ionic concentrations (and therefore electrical charge) on either side of the membrane. The alteration in charge means the membrane acts as a **capacitor**, with most cells having a **resting potential 70-80mV lower** than extracellular fluid.

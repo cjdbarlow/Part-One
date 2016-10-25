@@ -1,4 +1,4 @@
-#Regulation of Body Temperature
+#Regulation of Body Temperature {#id}
 > Outline the mechanisms for heat transfer between the body and its environment.
 
 <!--></!-->

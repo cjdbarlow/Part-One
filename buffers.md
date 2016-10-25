@@ -1,4 +1,4 @@
-# Buffers
+# Buffers {#id}
 > Describe the chemistry of buffer mechanisms and explain their relevant roles in the body
 
 A **buffer** is a solution which consists of a **weak acid and its conjugate base**, that can **resist a change in pH** when a stronger acid or base is added.

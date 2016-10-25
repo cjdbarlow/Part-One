@@ -1,4 +1,4 @@
-# Anticoagulants
+# Anticoagulants {#id}
 
 **Warfarin** prevents the the return of vitamin K to its reduced form, and therefore the gamma-carboxylation of vitamin-K dependent clotting factors (II, VII, IX, X), as well as Protein C and Protein S). This prevents these clotting factors binding to endothelium.
 

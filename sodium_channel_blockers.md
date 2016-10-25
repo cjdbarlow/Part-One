@@ -1,4 +1,4 @@
-# Sodium Channel Blockers
+# Sodium Channel Blockers {#id}
 
 Sodium channel blockers include:
 * Class Ia:

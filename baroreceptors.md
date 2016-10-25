@@ -1,4 +1,4 @@
-#Baroreceptors
+#Baroreceptors {#id}
 > Describe the function of baroreceptors and to relate this knowledge to common clinical situations.
 
 Baroreceptors are **stretch receptors** which monitor changes in circulatory pressure. **Arterial pressure** is monitored by receptors in the **aortic arch** and **carotid sinus**, and respond to changes in pressure.

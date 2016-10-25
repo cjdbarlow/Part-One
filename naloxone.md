@@ -1,4 +1,4 @@
-# Naloxone
+# Naloxone {#id}
 
 Pure opioid antagonist used predominantly for opioid overdose.
 

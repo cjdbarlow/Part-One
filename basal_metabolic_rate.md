@@ -1,4 +1,4 @@
-# Basal Metabolic Rate
+# Basal Metabolic Rate {#id}
 > Describe basal metabolic rate and its measurement
 
 <!--><?!-->

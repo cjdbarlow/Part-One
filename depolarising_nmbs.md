@@ -1,4 +1,4 @@
-# Depolarising NMBs
+# Depolarising NMBs {#id}
 
 Succinylcholine binds to the nicotinic ACh receptor causing depolarisation. It cannot to be hydrolysed by acetylcholinesterase in the NMJ, and so produces a persistent depolarisation that rends the voltage-gated Na<sup>+</sup> channels inactive. Structually, it is two ACh groups joined at the acetyl groups.
 

@@ -1,4 +1,4 @@
-#Receptor theory
+#Receptor theory {#id}
 >To explain the concept of drug action with respect to: receptor theory
 
 <!--></!-->
