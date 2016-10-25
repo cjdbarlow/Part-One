@@ -1,4 +1,4 @@
-# Acid Suppression
+# Acid Suppression {#id}
 
 Mechanism of Action
 

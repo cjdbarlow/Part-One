@@ -1,4 +1,4 @@
-# Functions of the Liver
+# Functions of the Liver {#id}
 
 > Describe the storage, synthetic, metabolic and excretory functions of the liver
 

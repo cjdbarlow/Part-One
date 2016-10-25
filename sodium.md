@@ -1,4 +1,4 @@
-# Sodium
+# Sodium {#id}
 > Describe the function, distribution, regulation and physiological importance of sodium~~, chloride, potassium, magnesium, calcium and phosphate~~ ions
 
 Sodium is the dominant extracllular cation with a typical ECF [Na<sup>+</sup>] of 140mmol.L<sup>-1</sup>. ICF [Na<sup>+</sup>] varies with cell type, but is typically 12-20mmol.L<sup>-1</sup> and is kept low by the action of the 2Na<sup>+</sup>-3K<sup>+</sup> ATPase exchange pump and the low permeability of the cellular membrane to Na<sup>+</sup>.

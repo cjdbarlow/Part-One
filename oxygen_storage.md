@@ -1,4 +1,4 @@
-# Oxygen Storage
+# Oxygen Storage {#id}
 > Describe the oxygen ~~and carbon dioxide~~ stores in the body
 
 The standard textbook 70kg male contains **~1.5L** of oxygen, split between:

@@ -1,4 +1,4 @@
-# Antimuscarinics
+# Antimuscarinics {#id}
 
 *Atropine is covered in anti-arrhythmics*
 

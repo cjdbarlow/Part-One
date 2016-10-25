@@ -1,4 +1,4 @@
-#Classification of Microorganisms
+#Classification of Microorganisms {#id}
 > Describe the classification of micro-organisms, including viruses, bacteria, protozoa and fungi
 
 Microorganisms can be classified as prokaryotes (**bacteria**), **viruses**, or **eukaryotes** (which include **fungi**, **helminths**, and **protozoa**).

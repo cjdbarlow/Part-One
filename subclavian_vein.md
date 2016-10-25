@@ -1,4 +1,4 @@
-# Subclavian Vein
+# Subclavian Vein {#id}
 > Describe the anatomy relevant to central venous access (including ~~femoral, internal jugular, external jugular,~~ subclavian ~~and peripheral~~ veins)
 
 The subclavian vein is a continuation of the axillary vein as it crosses the **upper surface** of the **first rib**. It travels posterior to the clavicle, separated from the subclavian artery by the anterior scalene. It **joins** with the **internal jugular vein** to form the **brachiocephalic vein**.

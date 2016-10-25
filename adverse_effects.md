@@ -1,4 +1,4 @@
-#Adverse effects
+#Adverse effects {#id}
 >Classify and describe adverse drug effects.
 
 An **adverse effect** is a "noxious or unintended effect associated with administration of a drug at the **normal dose**" (i.e., not overdose)[^1].

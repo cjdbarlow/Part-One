@@ -1,4 +1,4 @@
-# West's Zones
+# West's Zones {#id}
 > Describe West's zones of the lung and explain the mechanisms responsible for them
 
 **West's Zones** take into account the effect of alveolar pressure on pulmonary blood flow. The lung is divided into **four zones**:

@@ -1,4 +1,4 @@
-# Beta Agonists
+# Beta Agonists {#id}
 
 *This covers the inhaled β-agonists used for bronchodilation
 

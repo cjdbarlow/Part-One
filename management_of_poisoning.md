@@ -1,4 +1,4 @@
-#General Management of Poisoning
+#General Management of Poisoning {#id}
 > Understanding of the general principles of poisoning and its management.
 
 ##Principles of management of poisoning:

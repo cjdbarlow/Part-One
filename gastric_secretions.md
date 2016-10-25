@@ -1,4 +1,4 @@
-# Gastric Secretions
+# Gastric Secretions {#id}
 > Describe the composition, volumes and regulation of gastrointestinal secretions
 
 The GIT produces a a number of substances which can be classified by region and function:

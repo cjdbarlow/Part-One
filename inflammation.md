@@ -1,4 +1,4 @@
-# Inflammation
+# Inflammation {#id}
 
 > Describe the factors involved in the process of inflammation and the immune 
 response, including innate and acquired immunity

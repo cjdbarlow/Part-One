@@ -1,4 +1,4 @@
-# Toxic Alcohols
+# Toxic Alcohols {#id}
 
 **Alcohols** include:
 * **Ethanol**
