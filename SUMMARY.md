@@ -24,7 +24,6 @@
 * Pharmacology
   * Pharmaceutics
     * [Isomerism](isomerism.md)
-
   * Pharmacokinetics
     * [Modelling](pharmacokinetic_modelling.md)
     * [Absorption](absorption.md)
@@ -33,19 +32,16 @@
     * [Elimination](elimination.md)
     * [Bolus and Infusion Kinetics](intravenous_bolus_and_infusion_kinetics.md)
     * [Drug Monitoring](drug_monitoring.md)
-
   * Pharmacodynamics
     * [Receptor Theory](receptor_theory.md)
     * [Receptor Types](receptor_types.md)
     * [Dose-Response Curves](dose-response_curves.md)
     * [Mechanisms of Action](mechanisms_of_drug_action.md)
-
   * Variability in Drug Response
     * [Adverse Effects](adverse_effects.md)
     * [Drug Interactions](drug_interactions.md)
     * [Alterations to Response](alterations_to_drug_response.md)
     * [Pharmacogenetics](pharmacogenetics.md)
-
   * Toxicology
     * [General Management](management_of_poisoning.md)
     * [TCA Overdose](tricyclic_antidepressant_overdose.md)
@@ -100,26 +96,21 @@
     * [Cardiac Anatomy](cardiac_anatomy.md)
     * [Coronary Circulation](coronary_circulation.md)
     * [Cardiac Cycle](cardiac_cycle.md)
-
   * Electrical Properties
     * [Cardiac Action Potential](cardiac_action_potential.md)
-
   * Cardiac Output
     * [Determinants of Cardiac Output](determinants_of_cardiac_output.md)
     * [Myocardial Oxygen Supply and Demand](myocardial_oxygen_supply_and_demand.md)
     * [Pressure-Volume Relationships](pressure-volume_relationships.md)
     * [Cardiac Reflexes](cardiac_reflexes.md)
-
   * Peripheral Circulation
     * [Starling Forces](starling_forces.md)
     * [Pulmonary Circulation](pulmonary_circulation.md)
     * [Cerebral Blood Flow](cerebral_blood_flow.md)
     * [Hepatic Blood Flow](hepatic_blood_flow.md)
-
   * Circulatory Control
     * [Baroreceptors](baroreceptors.md)
     * [Valsalva Manoeuvre](valsalva_manoeuvre.md)
-
   * Cardiovascular Pharmacology
     * [Inotropes](inotropes.md)
     * [Adrenoreceptors](adrenoreceptors.md)
@@ -134,7 +125,6 @@
     * [Endocrine Functions of the Kidney](endocrine_functions_of_the_kidney.md)
     * [Acid-Base Balance](acid-base_balance.md)
     * [Dialysis](dialysis.md)
-
   * Fluids and Electrolytes
     * [Sodium](sodium.md)
     * [Potassium](potassium.md)
@@ -212,9 +202,7 @@
   * [Coagulopathy Testing](coagulopathy_testing.md)
 
 * Measurement and Monitoring
-  * Concepts in Mathematics and Physics
-    * [SI Units](si_units.md)
-
+  * [SI Units](si_units.md)
   * [Pressure Transduction](pressure_transduction.md)
   * [Electrical Safety](electrical_safety.md)
   * [Pulse Oximetry](pulse_oximetry.md)
@@ -236,7 +224,6 @@
 * Toxicology
   * Recreational Drugs
     * [Toxic Alcohols](ethanol.md)
-
   * Antidotes
     * [Naloxone](naloxone.md)
 
@@ -248,7 +235,6 @@
     * [Antimuscarinics](antimuscarinics.md)
     * [Phosphodiesterase Inhibitors](phosphodiesterase_inhibitors.md)
     * [Leukotriene Antagonists](leukotriene_antagonists.md)
-
   * [Corticosteroids](corticosteroids.md)
   * [Pulmonary Vasodilators](pulmonary_vasodilators.md)
 
@@ -259,7 +245,6 @@
     * [Centrally Acting Agents](centrally_acting_anti-hypertensives.md)
     * [Calcium Channel Blockers](calcium_channel_blockers.md)
     * [Direct Vasodilators](direct_vasodilators.md)
-
   * [ACE Inhibitors](ace_inhibitors.md)
   * [Angiotensin Receptor Blockers](angiotensin_receptor_blockers.md)
   * [Potassium Channel Activators](potassium_channel_activators.md)
@@ -274,6 +259,7 @@
     * [Atropine](atropine.md)
 
 * [Diuretics](diuretics.md)
+
 * Neuropharmacology
   * [Propofol](propofol.md)
   * [Ketamine](ketamine.md)
@@ -324,7 +310,7 @@
   * [Acid Suppression](acid_suppression.md)
   * Antiemetics
     * [Serotonin Antagonists](serotonin_antagonists.md)
-
+
 
 ## Appendices
 
