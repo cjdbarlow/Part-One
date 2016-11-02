@@ -159,7 +159,7 @@
     * [Innate Immunity](innate_immunity.md)
     * [Adaptive Immunity](adaptive_immunity.md)
     * [Hypersensitivity](hypersensitivity.md)
-* [Microbiology](classification\_of\_micro-organisms.md\#id\)
+* [Microbiology](classification\_of\_micro-organisms.md#id)
     * [Classification of Microorganisms](classification_of_micro-organisms.md)
     * [Antimicrobial Resistance](antimicrobial_resistance.md)
 * [Obstetrics](respiratorypreg.md#id)
