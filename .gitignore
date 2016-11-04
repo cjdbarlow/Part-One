@@ -1,2 +1,4 @@
 .aws.json
 node_modules/
+_book
+grunt.js
