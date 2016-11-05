@@ -25,7 +25,7 @@
             });
 
         // Draw the axes
-        var plot = xkcdplot("Title", "Xaxis", "Yaxis");
+        var plot = xkcdplot("Title", "Xaxis", "Yaxis"); //Name each here
         plot("div.graphs");
 
         // Add the curves
