@@ -44,16 +44,11 @@ Without sensation.
 **Analogue Signal**  
 Where the output of the transducer varies with the input signal.
 
-**ANALYSIS OF VARIANCE (ANOVA)**  
-Set of statistical models that analyse > 2 groups.
+**Anion**
+Negatively charged ion.
 
- ANAPHYLAXIS - clinical syndrome produced by IgE type I hypersensitivity resulting from antigen-antibody reaction at surface of mast cells. The syndrome manifests as red rash/flush, bronchospasm, collapse, angioedema, GIT symptoms. Requires prior exposure to antigen.
-
-ANAPHYLACTOID REACTION - clinically indistinguishable from above but caused by complement activation or direct histamine release from mast cells.
-
-ANION - negatively  charged ion
-
-ANODE - positive electrode to which negative ions attract
+**Anode**  
+Electrode which (conventional) current flows into.
 
 ANREP EFFECT - intrinsic regulatory mechanism of the heart whereby an abrupt increase in afterload produces transient increase in  LVEPD and decrease in SV allowing prompt restoration to near baseline values. 
 
