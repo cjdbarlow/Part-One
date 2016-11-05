@@ -1,50 +1,10 @@
 #Graphs
-<head>
-    <script src="http://d3js.org/d3.v2.min.js?2.10.0"></script>
-    <script src="xkcd.js"></script>
 
-<style>
+<script src="http://d3js.org/d3.v2.min.js?2.10.0"></script>
+<script src="xkcd.js"></script>
 
-@font-face {
-    font-family: "xkcd";
-    src: url('http://antiyawn.com/uploads/Humor-Sans.ttf');
-}
-
-body {
-    font-family: "xkcd", sans-serif;
-    font-size: 16px;
-    color: #333;
-    text-align: center;
-    margin-top: 75px;
-}
-
-text.title {
-    font-size: 20px;
-}
-
-path {
-    fill: none;
-    stroke-width: 2.5px;
-    stroke-linecap: round;
-    stroke-linejoin: round;
-}
-
-path.axis {
-    stroke: black;
-}
-
-path.bgline {
-    stroke: white;
-    stroke-width: 6px;
-}
-
-</style>
-
-</head>
-<body>
-
+<div class="graphs">
     <script>
-
         // Generate some data.
         function f1 (x) {
             return Math.exp(-0.5 * (x - 1) * (x - 1)) * Math.sin(x + 0.2) + 0.05;
@@ -66,16 +26,13 @@ path.bgline {
 
         // Build the plot.
         var plot = xkcdplot();
-        plot("body");
+        plot("div.graphs");
 
         // Add the lines.
         plot.plot(data);
         plot.plot(data2, {stroke: "red"});
 
         // Render the image.
-        plot.xlim([-1.5, 7.5]).draw();
+        plot.xlim([xmin - 0.5, xmax + 0.5]).draw();
 
     </script>
-
-</body>
-
