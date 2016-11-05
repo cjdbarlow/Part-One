@@ -32,7 +32,7 @@
         plot.plot(data);
         plot.plot(data2, {stroke: "red"});
 
-        // Render the image.
+        // Render the graph
         plot.xlim([xmin - 0.5, xmax + 0.5]).draw();
 
     </script>
