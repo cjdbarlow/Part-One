@@ -48,21 +48,19 @@ Where the output of the transducer varies with the input signal.
 Negatively charged ion.
 
 **Anode**  
-Electrode which (conventional) current flows into.
+The electrode which conventional current flows into.
 
-ANREP EFFECT - intrinsic regulatory mechanism of the heart whereby an abrupt increase in afterload produces transient increase in  LVEPD and decrease in SV allowing prompt restoration to near baseline values. 
+**Anrep effect**  
+Method of myocardial autoregulation in which an increase in afterload causes an increase in contractility. 
 
-ANTAGONIST - interacts with receptor or other parts of effector mechanism to inhibit the action of an agonist, while initiating no effect themselves.
+**Antagonist**  
+Drug which produces no response at the receptor, but prevents other ligands binding.
 
-ATENUATE - reduce
+**Autoregulation**  
+Ability of an organ to maintain homeostasis in the presence of dynamic physiological conditions.
 
-ATPS - ambient temperature and pressure, saturated with water vapour  (T amb, Pb, PH2O)
-
-AUTOREGULATION - ability of organ/body to maintain homeostasis in the presence of altering physiological conditions.
-
-AVOGADRO’S HYPOTHESIS - equal volumes of different gases at the same temperature and pressure contain equal number of molecules. One mole of any gas comprises 6.022 x 1023 molecules and occupies 22.4 L at STP
-
-AZEOTROPE - a mixture of two substances that cannot be separated by fractional distillation given each component shares same boiling point (the boiling point of each is altered by the presence of the other). eg  mixture of ether and halothane in the ratio of  1:2
+**Azeotrope**  
+A mixture of two substances that cannot be separated by fractional distillation, as each component shares same boiling point. This is typically temperature dependent.
 
 ##B
 
