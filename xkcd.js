@@ -1,4 +1,4 @@
-function xkcdplot() {
+function xkcdplot(title, xlabel, ylabel) {
 
     // Default parameters.
     var width = 600,
@@ -8,9 +8,6 @@ function xkcdplot() {
         arrowAspect = 0.4,
         arrowOffset = 6,
         magnitude = 0.003,
-        xlabel = "Time of Day",
-        ylabel = "Awesomeness",
-        title = "The most important graph ever made",
         xlim,
         ylim;
 
