@@ -24,6 +24,21 @@ The search function is pretty good.
 
 
 ---
+
+###Acknowledgements + Technical
+Part One is built on a number of [open-source](https://opensource.org/) technologies:
+* Written in John Gruber's [Markdown](https://daringfireball.net/projects/markdown/)
+* Built and made pretty by the [GitBook toolchain](https://toolchain.gitbook.com/) from [Samy Pessé](https://github.com/SamyPesse) and [AaronO](https://github.com/AaronO)  
+With plugins from:
+    * [Ben Lau](https://github.com/L3au) for [automatic timestamps](https://github.com/L3au/gitbook-plugin-git-author)
+    * [Michael Jerger](https://github.com/jerger) for [collapsible menus](https://github.com/DomainDrivenArchitecture/gitbook-plugin-expandable-chapters)
+* With beautiful graphs based on [scripts](http://bl.ocks.org/dfm/3914862) written by [Dan Foreman-Mackey](http://dan.iel.fm/)
+
+
+
+
+---
+
 ###Copyright + Legal
 Copyright © 2015-2016 C. Jake Barlow
 
