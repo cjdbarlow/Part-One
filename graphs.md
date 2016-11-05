@@ -1,8 +1,5 @@
 #Graphs
-<html>
 <head>
-    <title>XKCD plots in d3</title>
-
     <script src="http://d3js.org/d3.v2.min.js?2.10.0"></script>
     <script src="xkcd.js"></script>
 
@@ -81,4 +78,4 @@ path.bgline {
     </script>
 
 </body>
-</html>
+
