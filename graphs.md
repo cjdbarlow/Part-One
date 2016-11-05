@@ -5,7 +5,7 @@
 
 <div class="graphs">
     <script>
-        // Generate some data.
+        // Curves go here
         function f1 (x) {
             return Math.exp(-0.5 * (x - 1) * (x - 1)) * Math.sin(x + 0.2) + 0.05;
         }
