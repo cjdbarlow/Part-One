@@ -24,11 +24,11 @@
                 return {x: d, y: f2(d)};
             });
 
-        // Build the plot.
+        // Draw the axes
         var plot = xkcdplot("Title", "Xaxis", "Yaxis");
         plot("div.graphs");
 
-        // Add the lines.
+        // Add the curves
         plot.plot(data);
         plot.plot(data2, {stroke: "red"});
 
