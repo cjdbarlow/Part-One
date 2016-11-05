@@ -41,11 +41,11 @@ A process which leads to a deficit of hydrogen ions, and *may* lead to alkalaemi
 **Anaesthesia**  
 Without sensation.
 
+**Analogue Signal**  
+Where the output of the transducer varies with the input signal.
 
-ANALOGUE SIGNAL - where the output of the transducer in either volts or amps varies directly with the input signal
-
-ANALYSIS OF VARIANCE (ANOVA) - approval to test 
-for > 2 groups 
+**ANALYSIS OF VARIANCE (ANOVA)**  
+Set of statistical models that analyse > 2 groups.
 
  ANAPHYLAXIS - clinical syndrome produced by IgE type I hypersensitivity resulting from antigen-antibody reaction at surface of mast cells. The syndrome manifests as red rash/flush, bronchospasm, collapse, angioedema, GIT symptoms. Requires prior exposure to antigen.
 
