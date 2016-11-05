@@ -25,7 +25,7 @@
             });
 
         // Build the plot.
-        var plot = xkcdplot();
+        var plot = xkcdplot("Title", "Xaxis", "Yaxis");
         plot("div.graphs");
 
         // Add the lines.
@@ -36,3 +36,4 @@
         plot.xlim([xmin - 0.5, xmax + 0.5]).draw();
 
     </script>
+</div>
