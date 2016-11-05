@@ -38,11 +38,9 @@ A process which leads to a deficit of hydrogen ions, and *may* lead to alkalaemi
     * **Respiratory acidosis**: PaCO<sub>2</sub> < 35
     * **Metabolic alkalosis**: HCO<sub>3</sub><sup>-</sup> > 26
 
+**Anaesthesia**  
+Without sensation.
 
-AMPLITUDE LINEARITY - amplifications of the signal should be equal throughout the entire signal range to prevent distortion.
-
-ANAESTHESIA - without sensation.
--General: controlled production of unconsciousness
 
 ANALOGUE SIGNAL - where the output of the transducer in either volts or amps varies directly with the input signal
 
@@ -81,3 +79,8 @@ AZEOTROPE - a mixture of two substances that cannot be separated by fractional d
   * Boiling point
   * Freezing point
   * Osmotic pressure
+
+##G
+* **General anaesthesia**  
+Controlled production of unconsciousness.
+
