@@ -1,7 +1,7 @@
 .aws.json
 node_modules/
 _book
-grunt.js
+gruntfile.js
 book.pdf
 book.epub
 book.mobi
