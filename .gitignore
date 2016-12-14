@@ -2,3 +2,6 @@
 node_modules/
 _book
 grunt.js
+book.pdf
+book.epub
+book.mobi
