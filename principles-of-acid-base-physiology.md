@@ -47,7 +47,8 @@ H<sup>+</sup> ions cannot cross the BBB, however CO<sub>2</sub> can.
  
 ###Change with Temperature
 pH is temperature dependant:
-* **pH increases** by **0.015** for every **1°C fall** in **temperature**
+* **pH increases** by **0.015** for every **1°C fall** in **temperature**  
+Due to decreased ionic dissociation of water.
 * **Gas solubility **almost always** increases** when **temperature falls**  
 Dissolving is typically (not always) an **exothermic** reaction. As the kinetic energy content of a molecule falls, its ability to dissociate from solution decreases.
  * As CO<sub>2</sub> dissolves, PaCO<sub>2</sub> falls
