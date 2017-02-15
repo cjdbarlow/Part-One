@@ -65,4 +65,9 @@ There are two common methods for **managing** pH of significantly hypothermic pa
 ####alpha-stat
 * pH and CO<sub>2</sub> values are allowed to drift, instead being maintained at 'normal for 37°C'
  * Though they will be higher than this
-* Unlike pH-stat, this does not cause cerebral vasodilation 
+* Unlike pH-stat, this does not cause cerebral vasodilation
+
+##Referenecs
+Chambers
+ANZCA 1999
+https://www.chem.fsu.edu/chemlab/chm1046course/solubility.html
