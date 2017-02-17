@@ -32,28 +32,40 @@ $$ F = {\Delta P \pi r^4 \over 8l.v}$$, where:
 * $$l$$ = Length
 * $$v$$ = Viscosity
 
+
 However, as in laminar conditions flow is proportional to the driving pressure and inversely proportional to resistance, flow can be substituted and the equation solved for resistance:
 
 $$ Resistance = { 8l.v \over r^4} $$
 
 As length and viscosity are constants, *causes of airways resistance in laminar flow** are due to changes in airway calibre. These can be divided by location as follows:
-* **Extraluminal compression**  
-  Haemorrhage, tumour, dynamic hyperinflation, atelectasis compressing airways, etc.
+* **Extraluminal factors**
+  * Compression:
+    * Haemorrhage, tumour, dynamic hyperinflation, atelectasis compressing airways, etc.
+  * Lung volume:
+    * Airway radius increases when lung volume expands due to radial traction on airways (until dynamic hyperinflation occurs, at which point airways are compressed again)
 * **Luminal constriction**  
   Bronchospasm, bronchoconstriction
 * **Intraluminal obstruction**  
   Sputum plugging, aspiration
+  
+Note that airway resistance:
+* **Peaks** at the **5<sup>th</sup> generation
+* Rapidly **decreases** with each airway division thereafter  
+This is due to the total cross-sectional area increasing dramatically.
+
+INSERT GRAPH OF AIRWAY RESISTANCE PER DIVISION
 
 ###Turbulent Flow
 High flow rates and branching of airways disrupt disciplined laminar flow. Turbulent flow is the norm in the upper airway (where velocity is high), and in early-generation airways due to regular branching, changes in diameter, and sharp angles. Only after the **11th generation** bronchioles does laminar flow become more common. Unlike laminar flow, turbulent conditions have:
 * Flow is proportional to the square root of the driving pressure
 * Driving pressure is proportional to gas density, and independent of viscosity
 
+Therefore, **resistance is higher in turbulent flow** than in laminar flow.
+
 Lowering resistance in turbulent flow is aimed at making gas flow less turbulent, by **reducing gas density** using helium mixtures. This is typically of more benefit in **upper airway resistance** such as obstruction, as opposed to **lower airway conditions** such as asthma.
 
 ###Transitional Flow
 Transitional flow occurs at branches and angles in the airways, as occur in most of the bronchial tree.
-
 
 ---
 ##References
