@@ -5,7 +5,7 @@
 
 > Describe the factors affecting airway resistance, and its measurement
 
-Resistance comprises the energy lost as frictional and inertial impedance to gas flow, where energy is lost as heat. Flow is a function of pressure gradient, resistance, and type of flow.
+Resistance (measured in cmH<sub>2</sub>O.L<sup>-1</sup>.sec<sup>-1</sup>) comprises the energy lost as frictional and inertial impedance to gas flow, where energy is lost as heat. Flow is a function of pressure gradient, resistance, and type of flow.
 
 ##Types of Flow
 Flow can be either laminar or turbulent. In laminar conditions flow is proportional to driving pressure, whilst in turbulent conditions flow is proportional to the square root of driving pressure.
