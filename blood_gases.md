@@ -18,18 +18,20 @@ Calculated using the Henderson-Haselbalch and Siggaard-Anderson equation. Can be
 
 ##Oxygen Tension
 Oxygen tension is measured with a **Clarke electrode**. This consists of:
+* A chamber for the blood sample  
+* A chamber containing a potassium chloride solution
+* Oxygen-permeable membrane separating the two 
+  This prevents blood being in direct contact with the cathode, which would lead to protein deposition on the cathode and incorrect measurement.
 * Platinum cathode
 * Silver/Silver Chloride anode
-* Potassium Chloride solution
-* Oxygen-permeable membrane  
-  This prevents blood being in direct contact with the cathode, which would lead to protein deposition on the cathode and incorrect measurement.
 * Battery
 
 ![](http://i.imgur.com/j4O4Ywg.png)
 
 ###Method
 * A voltage of **0.6V** is applied across the electrodes, and the current flow is measured
-  * At the anode, silver reacts with chloride to produce electrons
+  * At the anode, silver reacts with chloride to produce electrons  
+  $$4Ag + 4Cl<sup>-1</sup> \Rightarrow 4AgCl + 4e<sup>-</sup>$$
   * At the cathode, oxygen combines with electrons and water to produce hydroxyl ions:  
   $$O_2 + 4e^- + 2H_2O \Rightarrow 4OH^-$$
 
