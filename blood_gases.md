@@ -24,24 +24,24 @@ Oxygen tension is measured with a **Clarke electrode**. This consists of:
   This prevents blood being in direct contact with the cathode, which would lead to protein deposition on the cathode and incorrect measurement.
 * Platinum cathode
 * Silver/Silver Chloride anode
-* Battery
+* A battery applying 0.6V across the electrodes
 
 ![](http://i.imgur.com/j4O4Ywg.png)
 
 ###Method
-* A voltage of **0.6V** is applied across the electrodes, and the current flow is measured
-  * At the anode, silver reacts with chloride to produce electrons  
-  $$4Ag + 4Cl<sup>-1</sup> \Rightarrow 4AgCl + 4e<sup>-</sup>$$
-  * At the cathode, oxygen combines with electrons and water to produce hydroxyl ions:  
-  $$O_2 + 4e^- + 2H_2O \Rightarrow 4OH^-$$
-
-
+* A voltage of **0.6V** is applied across the electrodes, causing the silver to reactive with chloride in the solution to produce electrons:  
+$$4Ag + 4Cl^- \Rightarrow 4AgCl + 4e^-$$
+  * This potential difference is required to start the reaction
+  * 0.6V is chosen because it is enough to start the reaction but will have minimal effect on measured current flow
+* At the cathode, oxygen combines with electrons and water to produce hydroxyl ions: $$O_2 + 4e^- + 2H_2O \Rightarrow 4OH^-$$
 * For each oxygen molecule present at the cathode, four electrons can be consumed
 * Increasing the oxygen available at the cathode increases the number of electrons consumed, and therefore increases **current flow**
+  * Oxygen will move from the sample to the measuring chamber according to its partial pressure
 * Measured current flow is therefore proportional to oxygen tension in blood
 
 ###Calibration, Limitations, and Accuracy
-* Calibration is performed with standard gas mixtures
+* Calibration is performed with standard gas mixtures  
+Requires regular two-point calibration.
 * Cathode must be kept clean from protein and not damaged
 * Cathode must be kept at 37°C
 * May read falsely high with Halothane
@@ -103,3 +103,4 @@ Dr. Podcast Oxygen Measurement
 Dr. Podcast CO2 and pH measurement
 David and Kenny
 http://www.frca.co.uk/article.aspx?articleid=100389
+Aston
