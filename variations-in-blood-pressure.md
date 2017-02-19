@@ -24,7 +24,7 @@ This occurs due to reflections in arterial pressure waves.
 ##Physiological and Pathological Changes
 Changes in circulatory function:
 * **Inotropy**  
-The rate of systolic upstroke is related t $$\frac{\Delta P}{\Delta t}$$, and therefore contractility.
+The rate of systolic upstroke is related to $$\frac{\Delta P}{\Delta t}$$, and therefore contractility.
 * **SVR**  
 The gradient between the peak systolic pressure and the dicrotic notch gives an indiciation of SVR. E.g., a steep downstroke suggests a low SVR, as the pressure in the circulation rapidly falls when ejection ceases.
 * **Preload**  
