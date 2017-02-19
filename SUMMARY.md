@@ -101,6 +101,7 @@
     * [Cardiac Reflexes](cardiac_reflexes.md)
   * [Peripheral Circulation](starling_forces.md#id)
     * [Starling Forces](starling_forces.md)
+    * [Variations in Blood Pressure](variations-in-blood-pressure.md)
     * [Pulmonary Circulation](pulmonary_circulation.md)
     * [Cerebral Blood Flow](cerebral_blood_flow.md)
     * [Hepatic Blood Flow](hepatic_blood_flow.md)

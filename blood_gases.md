@@ -30,7 +30,7 @@ Oxygen tension is measured with a **Clarke electrode**. This consists of:
 
 ###Method
 * A voltage of **0.6V** is applied across the electrodes, causing the silver to reactive with chloride in the solution to produce electrons:  
-$$4Ag + 4Cl^- \Rightarrow 4AgCl + 4e^-$$
+$$Ag + Cl^- \Rightarrow AgCl + e^-$$
   * This potential difference is required to start the reaction
   * 0.6V is chosen because it is enough to start the reaction but will have minimal effect on measured current flow
 * At the cathode, oxygen combines with electrons and water to produce hydroxyl ions: $$O_2 + 4e^- + 2H_2O \Rightarrow 4OH^-$$
