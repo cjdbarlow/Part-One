@@ -91,10 +91,18 @@ $$ SE = {SD \over \sqrt n } $$
 It is used to calculate the **confidence interval**.
 
 ####Confidence Interval
-The **confidence interval** gives a range in which the true population parameter is likely to lie. The width of the interval is related to the **standard error**, and the degree of confidence (typically 95%).
+The **confidence interval** gives a range in which the true population parameter is likely to lie. The width of the interval is related to the **standard error**, and the degree of confidence (typically 95%):
+* $$ 95 \% \ CI \ of \  \bar{x} = \bar{x} \pm (1.96 \times  SE) $$
+* $$ 99 \% \ CI \ of \  \bar{x} = \bar{x} \pm (2.58 \times SE) $$
 
-$$ 95 \% \ CI \ of \  \bar{x} = \bar{x} \pm (1.96 \times  SE) $$
+The confidence interval is a function of the sample statistic (in this case the mean - different parameters have different equations), rather than the actual observations. 
 
+The confidence interval has several benefits over the *p*-value:
+* Indicates magnitude of the difference in a meaningful way
+* Indicates the precision of the estimate  
+The smaller the confidence interval, the more precise the estimate.
+* Allows statistical significance to be calculated  
+If the confidence interval crosses 1, then the result is insignificant.
 
 ---
 
