@@ -29,6 +29,7 @@ The *p*-value assumes that there is no real difference between groups.
         * Any study with significant results must therefore be interpreted in the context of:
             * Biological plausibility of those results
             * The previous evidence on the topic
+    * Additionally, many people think that the *p*-value estimates the chance that the result is true. This is not the case. It measures *how inconsistent the observed results are with the null hypothesis*.
             
             
 * A threshold of 0.05 is not always appropriate  
@@ -46,6 +47,9 @@ A significant *p*-value simply suggests a difference exists, it does not measure
 *p*-values are affected by sample size:
     * A large effect size may be hidden by an insigificant *p*-value if sample size is small
     * Similarly, a tiny effect size may be detected (i.e. a significant *p*-value) if sample size is large
+    
+* Does not account for bias  
+Like other statistical test, the *p*-value cannot account for bias or confounding.
 
 ##References
 http://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108
