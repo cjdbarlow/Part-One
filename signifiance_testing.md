@@ -43,7 +43,7 @@ A significant *p*-value simply suggests a difference exists, it does not measure
     * A result may be statistically significant but clinically unimportant, e.g. an antihypertensive medication causing a decrease in SBP by 2mmHg may be statistically significant, but clinically unimportant.
     
 * Related to sample size
-P-values are affected by sample size:
+*p*-values are affected by sample size:
     * A large effect size may be hidden by an insigificant *p*-value if sample size is small
     * Similarly, a tiny effect size may be detected (i.e. a significant *p*-value) if sample size is large
 
