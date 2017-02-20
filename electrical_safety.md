@@ -10,11 +10,14 @@
 * **Voltage** is the strength of the force that causes movement of electrons  
 By tradition, voltages are quoted relative to **ground** (or **earth**). If a potential difference exists, a current will flow from that object to the earth via the path of least resistance. If this path contains a person, an electrical injury may result.
 
+
 * **Resistance** describes to what extent a substance reduces the flow of electrons through it. Resistance is measured in ohms (Ω).
     * Substances with **high resistance** are **insulators**
     * Substances with **low resistance** are **conductors**
 
+
 * **Inductance** is the generation of current when a conductor moves through a magnetic field.
+
 
 * **Capacitance** is the ability of an object to store charge, and is measured in Fards (F). One farad is when one volt across the capacitor stores one coulomb of charge.
     * A capacitor is an electrical component consisting of two conductors separated by an insulator (called a dielectric)
@@ -50,8 +53,18 @@ A **microshock** is the current required to induce VF when applied directly to m
 ###Macroshock
 A **macroshock** is current required to induce VF from surface contact (**100mA**).
 
+Other effects will be seen at lower currents:
+
+|Current (mA)|Effect|
+|--|--|
+|1|Tingling|
+|5|Pain|
+|8|Burns|
+|15|Skeletal muscle tetany|
+|50|Skeletal muscle paralysis & respiratory arrest|
+
 ###Effect of Current Frequency
-The least amount of current required to induce VF occurs at 50Hz. AC current is more likely to induce VF than DC current.
+Excitable cells are most sensitive to AC current at 50Hz, which is the frequency of mains supply. AC current is more likely to induce VF than DC current.
 
 INSERT GRAPH
  
