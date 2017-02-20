@@ -4,7 +4,9 @@
 
 ##Electrical Principles
 * **Charge** is the property of a subatomic particle which causes it to experience a force when close to other charged particules. Charge is measured in coulombs (C).
+
 * **Current** is the flow of electrons through a conductor. Current is measured in amps (A).
+
 * **Voltage** is the strength of the force that causes movement of electrons  
 By tradition, voltages are quoted relative to **ground** (or **earth**). If a potential difference exists, a current will flow from that object to the earth via the path of least resistance. If this path contains a person, an electrical injury may result.
 
@@ -12,7 +14,9 @@ By tradition, voltages are quoted relative to **ground** (or **earth**). If a po
     * Substances with **high resistance** are **insulators**
     * Substances with **low resistance** are **conductors**
 
-* **Inductance** is the generation of current when a 
+* **Inductance** is the generation of current when a conductor moves through a magnetic field.
+
+* **Capacitance** is the ability of an object to store charge, and is measured in Fards (F). 
 
 ##Electrical Injury
 Potential electrical injuries can be divided into:
