@@ -14,7 +14,7 @@ Commit yourself early:
     * Pick a date ~9 months in advance
         * 6 months is probably pushing it
         * 9 months is achievable
-        * 12 months is almost too long - you will lose motivation and knowledge.
+        * 12 months is almost too long - you will lose motivation and knowledge will fade.
     * Accept that the time between now and the exam is not going to be the best time of your life
     * Consider paying the money as soon as possible - lock yourself in
     * Your family and friends will forgive you, eventually
