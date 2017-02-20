@@ -52,8 +52,9 @@ A **microshock** is the current required to induce VF when applied directly to m
 
 ###Macroshock
 A **macroshock** is current required to induce VF from surface contact (**100mA**).
+* This is much higher because most of this current is not going to the ventricle, and so the total current must be greater to achieve sufficient **current density** in the myocardium to induce VF
 
-Other effects will be seen at lower currents:
+Other detrimental effects will be seen at lower currents:
 
 |Current (mA)|Effect|
 |--|--|
