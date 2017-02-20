@@ -15,7 +15,6 @@ By tradition, voltages are quoted relative to **ground** (or **earth**). If a po
     * Substances with **high resistance** are **insulators**
     * Substances with **low resistance** are **conductors**
 
-
 * **Inductance** is the generation of current when a conductor moves through a magnetic field.
 
 
@@ -25,6 +24,13 @@ By tradition, voltages are quoted relative to **ground** (or **earth**). If a po
         * Current will flow until the build up of charge is equal to the voltage of the power source
         * Current can be **rapidly discharged** when the circuit is changed
     * An **alternating current** can flow freely across a capacitor, and causes no buildup of charge
+    
+* **Impedance** describes to what the flow of **alternating current** is reduced when passing through a substance. Impedance is analogous to resistance for AC circuits, and is the total of both **resistance **and **reactance**.
+    * Reactance is formed by two things:
+        * Induction of voltage in conductors by the alternating magnetic field of AC flow
+        * Capacitance induced by voltages between these conductors
+
+
 
 ##Electrical Injury
 Potential electrical injuries can be divided into:
@@ -93,18 +99,14 @@ Conductors are coated by a high-resistance substance, preventing current flowing
 
 * **Fuses**  
 Safety devices which cease all current flow when current exceeds a certain threshold (typically 20A). If there is a fault which greatly lowers resistance (i.e. insulation breaks, causing a device to become live and drain via the earth wire), a high current will flow and the fuse will be triggered.
-    * This requires:
+    * A fault requires:
         * A fault that causes a high current flow
         * The fuse to work correctly
     
 
-* **Floating power supply**
-Current is returned via the neutral line, rather than the ground. An individual touching the active power point will not receive an electric shock, as the circuit is not completed.
-
-
 * **Residual Current Devices**  
 An RCD measures the current difference between the active and neutral lines. In an non-fault situation, these will be equal. In a fault situation, current will be being delivered by the active line but not returned via the neutral (instead flowing to ground via faulty equipment/through the patient). The RCD will detect if there is a >10mA difference between the active and neutral lines, and disconnect power within 10ms if it does so.
-    * This requires:
+    * A fault requires:
         * Current to flow
         * A single fault will turn off the circuit        
     * Pros: Safe
@@ -112,8 +114,17 @@ An RCD measures the current difference between the active and neutral lines. In 
 
 
 * **Line Isolation Supply**, with a **line isolation monitor**  
-    * A line isolated supply has a 'transformer' with an equal number of windings, such that the voltage is the same on each side. However, the **powerpoint is not physically connected to the supply**. This creates an **earth-referenced floating supply**.
-    * A line-isolation monior
+    * A line isolated supply is a 'transformer' with an equal number of windings, such that the voltage produced is the same on each side. However, the **powerpoint is not physically connected to the supply**. This creates an **earth-referenced floating supply**. 
+    * A fault requires:
+        * **Two** faults  
+        This makes a failure with potential for shock much less likely.
+            * Active wire must be connected to ground
+            * Neutral wire must be connected to ground  
+            * A circuit then exists: active wire - ground - neutral wire, and a current could flow
+    * A line isolated supply is paired with a line isolation monitor  
+    This monitor states how much current *could* flow, *if* a second fault completed the circuit.
+        * This is called a **prospective hazard current**
+        * The line isolation monitor continuously checks the hazard current by evaluating the impedance between 
 
     * Pros: A single fault is not dangerous and will not result in a power loss which is important for vital equipment
     * Cons: Two or more faults are dangerous, and will still not result in a power loss
