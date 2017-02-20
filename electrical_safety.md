@@ -37,7 +37,9 @@ Potential electrical injuries can be divided into:
 Likelihood is a function of:
     * Current density
     * Frequency  
-    Lowest current density required is at 50Hz
+    Lowest current density required is at 50Hz.
+
+INSERT GRAPH
 
 * **Burns**  
 Function of current density. Burns typically occur at the entry and exit point as this is where current density is highest.
@@ -69,11 +71,7 @@ Other detrimental effects will be seen at lower currents:
 |15|Skeletal muscle tetany|
 |50|Skeletal muscle paralysis & respiratory arrest|
 
-###Effect of Current Frequency
-Excitable cells are most sensitive to AC current at 50Hz, which is the frequency of mains supply. AC current is more likely to induce VF than DC current.
 
-INSERT GRAPH
- 
 ##Principles of Electical Safety
 Power points contain three wires:
 * Active  
