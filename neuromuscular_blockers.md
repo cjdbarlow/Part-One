@@ -51,3 +51,4 @@ DIAGRAM PAGE 167 PECK AND HILL
 ##References
 http://www.anesthesiologynews.com/download/ANSE07_NeuroblockERWM.pdf
 http://www.icuadelaide.com.au/files/primary/pharmacology/neuromuscular.pdf
+http://austinpublishinggroup.com/anesthesia-analgesia/fulltext/ajaa-v2-id1030.php
