@@ -121,11 +121,12 @@ An RCD measures the current difference between the active and neutral lines. In 
     * A line isolated supply is paired with a line isolation monitor  
     This monitor states how much current *could* flow, *if* a second fault completed the circuit.
         * This is called a **prospective hazard current**
-        * The line isolation monitor continuously checks the hazard current by evaluating the impedance between 
-
+        * The line isolation monitor continuously checks the hazard current by evaluating the impedance between the active wire and ground, and the neutral wire and ground
+            * In a no-fault situation, both impedances should be the same and close to infinite (won't be absolutely infinite as there will always be a small current leak from devices)
+            * In a single-fault situation, then the calculated impedance for the affected line will be significantly lower, and therefore the prospective hazard current will increase
+                * An alarm will sound when the prospective hazard current exceeds 20mA
     * Pros: A single fault is not dangerous and will not result in a power loss which is important for vital equipment
     * Cons: Two or more faults are dangerous, and will still not result in a power loss
-    * Faults are monitored with a **line isolation monitor**, which evaluates whether the supply is not earth-referenced, and how much current would flow if the an earth circuit was present, alarming if there is the potential for a >5mA current.
 
 ###Classification of Electrically Safe Equipment
 These classifications are designed to limit macroshock:
