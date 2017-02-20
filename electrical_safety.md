@@ -25,7 +25,7 @@ By tradition, voltages are quoted relative to **ground** (or **earth**). If a po
         * Current can be **rapidly discharged** when the circuit is changed
     * An **alternating current** can flow freely across a capacitor, and causes no buildup of charge
     
-* **Impedance** describes to what the flow of **alternating current** is reduced when passing through a substance. Impedance is analogous to resistance for AC circuits, and is the total of both **resistance **and **reactance**.
+* **Impedance** describes to what extent the flow of **alternating current** is reduced when passing through a substance. Impedance can be thought of as 'resistance for AC circuits', and is the total of both **resistance **and **reactance**.
     * Reactance is formed by two things:
         * Induction of voltage in conductors by the alternating magnetic field of AC flow
         * Capacitance induced by voltages between these conductors
