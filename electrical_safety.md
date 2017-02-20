@@ -108,15 +108,14 @@ Any part that can contact the user is earthed to ground.
     * If a fault develops such that parts of the device that the user can touch are live, then there is a risk of shock. If the case is earthed, the path of least resistance should be via the earth wire. This will cause a large current to flow, and should blow a fuse, ceasing current flow.
 
 * **Class II: Double-insulated**  
-Two layers of insulation around device. Does not require earthing.
+All parts of the device that the user can touch have wwo layers of insulation around them. This reduces the chance of the device becoming liv.
 
 * **Class III: Low-voltage**  
-Device less than 40V DC.
-
+Device less than 40V DC/24V AC. This limits the severity of shock a device can deliver.
 
 
 ###Classification of Electrically Safe Areas
-
+This is an additional set of classifications for electrically safe areas.
 * **B areas**: Protection against macroshock
     * Residual Current Devices
     * Line Isolation Supply
