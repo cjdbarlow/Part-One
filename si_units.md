@@ -10,7 +10,7 @@ There are **seven base SI units**, with **many derived units** made from combina
 |**Time**|Second|s|Duration of 9,192,631,770 periods of the radiation corresponding to the transition between two hyperfine levels of the ground state of an atom of Cs-133
 |**Length**|Metre|m|Distance that light travels in a vacuum in  1/299,792,458<sup>th</sup> of a second
 |**Current**|Ampere|A|The constant current that would produce a force of 2x10<sup>-7</sup> Newton between two conductors of infinite length and negligible cross section in a vacuum
-|**Temperature**|Kelvin|°K|1/273.16<sup>th</sup> of the triple point of water
+|**Temperature**|Kelvin|°K|1/273.16<sup>th</sup> of the triple point of water. The triple point is the temperature at which a substance exists in equilibrium in all three phases (solid, liquid, gas).
 |**Amount**|Mole|mol|The amount of substance which contains as many elementary entities as in 0.012kg of Carbon 12
 |**Luminous Intensity**|Candella|cd|Luminous intensity of a source which emits monochromatic radiation at 540 x 10<sup>12</sup> Hz at radiant intensity of 1/683 watts per steradian
 |**Mass**|Kilogram|kg|Weight of the International Prototype Kilogram (IPK)
