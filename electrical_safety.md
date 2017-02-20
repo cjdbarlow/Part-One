@@ -3,7 +3,8 @@
 > Understand the concepts of patient safety as it applies to monitoring involving electrical devices
 
 ##Electrical Principles
-**Charge** is the property of a subatomic particle which causes it to experience a force when close to other charged particules. Charge is measured in coulombs (C).
+* **Charge** is the property of a subatomic particle which causes it to experience a force when close to other charged particules. Charge is measured in coulombs (C).
+* **Resistance** describes to what extent a substance reduces the flow of electrons through it. Resistance is measured in ohms (Ω).
 
 ##Electrical Injury
 Potential electrical injuries can be divided into:
