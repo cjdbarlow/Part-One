@@ -12,7 +12,7 @@ This is not an exam you want to have to sit more than once - try to give yoursel
 Commit yourself early:
 * Decide when you are going to sit
     * Pick a date ~9 months in advance
-        * 6 months is pushing it
+        * 6 months is probably pushing it
         * 9 months is achievable
         * 12 months is almost too long - you will lose motivation and knowledge.
     * Accept that the time between now and the exam is not going to be the best time of your life
