@@ -45,7 +45,7 @@ INSERT GRAPH
 ##Principles of Electical Safety
 Power points contain three wires:
 * Active  
-240V
+240V. Measuring voltage for AC current is not intuitive, as the voltage will be negative half the time. The **root mean square** (RMS) is used instead - each value for the voltage is squared (giving a positive number), and then divided by the number of samples to give an average.
 * Neutral  
 0V, relative to ground
 * Earth  
