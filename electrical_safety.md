@@ -8,20 +8,15 @@
     * Substances with **high resistance** are **insulators**
     * Substances with **low resistance** are **conductors**
 
-By tradition, voltages are quoted relative to **ground** (or **earth**). A current will flow by taking the path of least resistance.
-
-
+By tradition, voltages are quoted relative to **ground** (or **earth**). If a potential difference exists, a current will flow from that object to the earth via the path of least resistance. If this path contains a person, an electrical injury may result.
 
 ##Electrical Injury
-
-
 Potential electrical injuries can be divided into:
 * **Ventricular Fibrillation**  
 Likelihood is a function of:
     * Current density
     * Frequency  
     Lowest current density required is at 50Hz
-
 
 * **Burns**  
 Function of current density. Burns typically occur at the entry and exit point as this is where current density is highest.
@@ -42,9 +37,11 @@ A **microshock** is the current required to induce VF when applied directly to m
 ###Macroshock
 A **macroshock** is current required to induce VF from surface contact (**100mA**).
 
-###Effect of Current
+###Effect of Current Frequency
+The least amount of current required to induce VF occurs at 50Hz. AC current is more likely to induce VF than DC current.
 
-
+INSERT GRAPH
+ 
 ##Principles of Electical Safety
 Power points contain three wires:
 * Active  
