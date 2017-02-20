@@ -102,8 +102,9 @@ A line isolated supply has a 'transformer' with an equal number of windings, suc
     * Faults are monitored with a **line isolation monitor**, which evaluates whether the supply is not earth-referenced, and how much current would flow if the an earth circuit was present, alarming if there is the potential for a >5mA current.
 
 ###Classification of Electrically Safe Equipment
+These classifications are designed to limit macroshock:
 * **Class I: Earthed**  
-Device is earthed to ground.
+Any part that can contact the user is earthed to ground.
 
 * **Class II: Double-insulated**  
 Two layers of insulation around device. Does not require earthing.
