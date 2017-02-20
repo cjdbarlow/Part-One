@@ -86,7 +86,7 @@ An electrical circuit is completed between an appliance and the powerstation by 
 * High current drain through a wire generates heat and starts a fire  
     * Principle of fuses which trigger when current drain is >15A
 
-###Methods of Electrical Safety
+##Methods of Electrical Safety
 * **Floating power supply**
 Current is returned via the neutral line, rather than the ground. An individual touching the active power point will not receive an electric shock, as the circuit is not completed.
 
@@ -100,6 +100,18 @@ A line isolated supply has a 'transformer' with an equal number of windings, suc
     * Pros: A single fault is not dangerous and will not result in a power loss which is important for vital equipment
     * Cons: Two or more faults are dangerous, and will still not result in a power loss
     * Faults are monitored with a **line isolation monitor**, which evaluates whether the supply is not earth-referenced, and how much current would flow if the an earth circuit was present, alarming if there is the potential for a >5mA current.
+
+###Classification of Electrically Safe Equipment
+* **Class I: Earthed**  
+Device is earthed to ground.
+
+* **Class II: Double-insulated**  
+Two layers of insulation around device. Does not require earthing.
+
+* **Class III: Low-voltage**  
+Device less than 40V DC.
+
+
 
 ###Classification of Electrically Safe Areas
 
@@ -115,15 +127,7 @@ A line isolated supply has a 'transformer' with an equal number of windings, suc
 
 * **Z areas**: No particular protections
 
-###Classification of Electrically Safe Equipment
-* **Class I: Earthed**  
-Device is earthed to ground.
 
-* **Class II: Double-insulated**  
-Two layers of insulation around device. Does not require earthing.
-
-* **Class III: Low-voltage**  
-Device less than 40V DC.
 
 ###Electrical Devices which Attach to Patients
 Devices such as ECG and BIS require an electrical connection to the patient. Risk of electrocution by these devices is reduced by:
