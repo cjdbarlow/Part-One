@@ -23,7 +23,7 @@ There are **seven base SI units**, with **many derived units** made from combina
 |Acceleration|Metre per Second per Second|m.s<sup>-2</sup>|$$m \over s^2$$||
 |Force|Newton|N|$$N={kg.m \over s^2}$$|Force required to accelerate 1kg at 1m.s<sup>-2</sup>
 |Pressure|Pascal|Pa|$$Pa = {N \over m^2} = {kg \over m.s^2} $$|Force per area
-|Energy/Work/Quantity of Heat|Joule|J|$$J = N.m = {kg.m^2 \over s^2 }$$|Energy converted when 1N is applied over 1m
+|Energy/Work/Quantity of Heat|Joule|J|$$J = N.m = {kg.m^2 \over s^2 }$$|Energy converted when 1N is applied to 1kg over 1m
 |Dose Equivalence|Sievert|Sv|$$Sv = {J \over kg} = {m^2 \over s^2 }$$|Radiation dose per mass
 |Power|Watt|W|$$W = {J \over s} = {kg.m^2 \over s^3 }$$|Rate of energy conversion per second
 |Electromotive Force|Volt|V|$$ V = {W \over A} = {kg.m^2 \over A.s^3 }$$|Measure of electrical potential energy
