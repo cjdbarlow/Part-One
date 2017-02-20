@@ -2,8 +2,11 @@
 
 > Understand the concepts of patient safety as it applies to monitoring involving electrical devices
 
+##Electrical Principles
+**Charge** (measured in coulombs, C)is the property of a subatomic particle which causes it to experience a force when close to other charged particules.
+
 ##Electrical Injury
-Potential electrical injuries can be divided into
+Potential electrical injuries can be divided into:
 * **Ventricular Fibrillation**  
 Likelihood is a function of:
     * Current density
@@ -17,17 +20,21 @@ Function of current density. Burns typically occur at the entry and exit point a
 * **Tetanic Contraction**  
 Flexors are stronger than extensors, which may maintain grip on live wire. Death may result from either VF or asphyxiation from sustained respiratory muslce contraction.
 
+Electrical shocks are divided into two types, based on their ability to induce VF:
 
-###Types of Electrical Shock
-Electrical shock is divided into two types, based on its ability to induce VF:
-* **Microshock** - current required to induce VF when applied directly to myocardium (**0.05-0.1mA**). Potential causes:
-    * Guidewire
-    * Pacing lead
-    * Column of conducting fluid
-        * CVC
-        * PICC
+###Microshock
+A **microshock** is the current required to induce VF when applied directly to myocardium (**0.05-0.1mA**). This requires **skin breach**. Potential causes:
+* Guidewire
+* Pacing lead
+* Column of conducting fluid
+    * CVC
+    * PICC
 
-* **Macroshock** - current required to induce VF from surface contact (**100mA**)
+###Macroshock
+A **macroshock** is current required to induce VF from surface contact (**100mA**).
+
+###Effect of Current
+
 
 ##Principles of Electical Safety
 Power points contain three wires:

@@ -187,7 +187,7 @@
   * [Haemostasis](clotting.md)
   * [Haemostatic Regulation](unclotting.md)
   * [Coagulopathy Testing](coagulopathy_testing.md)
-* [Measurement and Monitoring](si_units.md#id)
+* [Equipment and Measurement](si_units.md#id)
   * [SI Units](si_units.md)
   * [Pressure Transduction](pressure_transduction.md)
   * [Electrical Safety](electrical_safety.md)
