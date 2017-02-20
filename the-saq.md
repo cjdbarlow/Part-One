@@ -17,7 +17,7 @@ This is stated *repeatedly* in examiner reports. If the question asks for a disc
 * **Not be perfect**  
 This is often-overlooked. The examiner reports (and some model answers), assume a perfect, 10/10, response by the candidate. Not only is this not feasible given the time allowed, it is also not actually expected - remember that **the pass mark is 50%**.
 
-    A good response will cover the major points in reasonable detail, and will generally focus on principles rather than specifics. Marks become progressively harder to acquire: Gaining the first one or two marks on a question should be easy - taking an 8/10 to a 10/10 will require time which you cannot spare.
+    A good response will cover the major points in reasonable detail, and will generally focus on principles rather than specifics. Marks become progressively harder to acquire: the first one or two marks on a question should be easy - taking an 8/10 to a 10/10 will require time which you likely cannot spare.
 
 ##Answering the Question
 * You have exactly **10 minutes** per SAQ

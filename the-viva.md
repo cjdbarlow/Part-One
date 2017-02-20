@@ -1,6 +1,6 @@
 # The Viva
 
-The viva is the part of the exam most candidates seem to be more stressed about. However:
+The viva is the part of the exam most candidates seem most stressed about. However:
 * If you make it to the written, you will most likely pass  
 Very few people succeed in the written exams to fail at the viva.
     * The knowledge is there
@@ -13,7 +13,7 @@ However, you still need to prepare appropriately. To do well at the viva:
 The viva is a ritualised converation. Doing well requires you to know and understand the language and structure used, just like the SAQ.
 * Structure your answer  
 As with the SAQ, categorise your answer.
-    * Have a good opening statement
+    * Have a good opening statement  
     Don't answer more than is asked.
     * Start broad  
     Often the viva will go into depth on only one or two areas of a topic. If you start going into detail on only parts of a topic, it makes it hard for the examiner to redirect you and scores you no marks.
@@ -35,7 +35,9 @@ Apologies:
     Remember, marks per unit-time.
 * Don't talk over the examiner  
 They are interrupting you because what you are saying is gaining no marks. If you keep talking, you will:
-    * Irritate them
-    * Not get marks
+    * Not be getting marks
+    * Irritate them  
+    Potentially losing future marks.
+
 
 ---
