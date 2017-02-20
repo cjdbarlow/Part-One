@@ -43,6 +43,7 @@ DIAGRAM PAGE 167 PECK AND HILL
 |Dose|Increased dose decreases time to onset|Greater concentration gradient
 |Cardiac Output|High output decreases time to onset|Increased drug delivery
 |Muscle group flow|High muscular flow decreases time to onset|Increased drug delivery
+|Priming Principle|(May) decrease time to onset|A 'priming' dose of non-depolarising blocker is to an awake patient given prior to induction. This occupies less than 70% of receptors, so does not cause significant neuromuscular blockade. After induction, a second dose is given to occupy the remaining receptors and complete blockade.|
 
 
 
