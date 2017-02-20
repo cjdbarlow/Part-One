@@ -15,7 +15,7 @@ Additionally, a good response will:
 This is stated *repeatedly* in examiner reports. If the question asks for a discussion of the respiratory changes of pregnancy, no marks will be awarded for cardiovascular changes.
 * **Be legible**
 * **Not be perfect**  
-This is often-overlooked. The examiner reports (and some model answers), assume a perfect, 10/10, response by the candidate. Not only is this not feasible given the time allowed, it is also not expected - remember that **the pass mark is 50%**.
+This is often-overlooked. The examiner reports (and some model answers), assume a perfect, 10/10, response by the candidate. Not only is this not feasible given the time allowed, it is also not actually expected - remember that **the pass mark is 50%**.
 
     A good response will cover the major points in reasonable detail, and will generally focus on principles rather than specifics. Marks become progressively harder to acquire
 
