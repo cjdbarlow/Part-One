@@ -19,9 +19,10 @@ Commit yourself early:
     * Consider paying the money as soon as possible - lock yourself in
     * Your family and friends will forgive you, eventually
 
+
 Don't lose faith:
 * There will be times that you question why you have to learn this
-    * Accept that much of this exam is an academic hazing ritual (rather than learning clinically applicable knowledge) you must pass through on your path to fellowship
+    * Accept that much of **this exam is an academic hazing** (rather than learning clinically applicable knowledge) you must pass through on your path to fellowship
 
 ##Be Strategic
 The curriculum provided is overwhelming, and probably not achievable for most of us. Have a plan about how you will approach it:
