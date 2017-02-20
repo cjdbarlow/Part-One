@@ -39,7 +39,7 @@ Likelihood is a function of:
     * Frequency  
     Lowest current density required is at 50Hz.
 
-INSERT GRAPH
+INSERT GRAPH of Hz vs current required
 
 * **Burns**  
 Function of current density. Burns typically occur at the entry and exit point as this is where current density is highest.
