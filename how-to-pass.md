@@ -35,7 +35,7 @@ The curriculum provided is overwhelming, and probably not achievable for most of
 * Know the enemy
     * Syllabus  
     Read through it so you appreciate the breadth of knowledge required.
-    * Know the style
+    * Know the style  
     This allows you to give answers **efficiently** - the key metric for both the vivas and the SAQs is **marks per unit time**.
         * Style of exam questions  
         Including the style of answers - see [the SAQ](./the-saq.md).
@@ -56,8 +56,8 @@ I cannot stress this enough.
         * Ensure you don't waste time learning things that will not be examined
         When I sat the CICM exam, I had done almost all the past questions, which covered ~60% of the curriculum. There was 1 (out of 24) of the SAQs on a topic I had not answered an SAQ on before.
 
-* **Remember the pass mark is 50%%**  
-Breadth over depth.
+* **Remember the pass mark is 50%**  
+You are not expected to know everything. Breadth tends to be rewarded over depth.
 
 ###What I did
 * Read Power & Kam to get an overview of the topic  
@@ -88,7 +88,7 @@ I did my flashcard deck (almost) every day, including work days. This would take
     Take a break after the written exams, they are exhausting.
 
 ##The Bottom Line
-* Pick a date, and commit to it
+* Pick a date, and commit
 * Work out which times work best for you with respect to study  
 Different times will be better for different things. I found:
     * Days off (including weekends) were best for learning new content
