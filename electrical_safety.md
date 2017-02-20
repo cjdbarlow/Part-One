@@ -7,7 +7,7 @@
 * **Resistance** describes to what extent a substance reduces the flow of electrons through it. Resistance is measured in ohms (Ω).
     * Substances with **high resistance** are **insulators**
     * Substances with **low resistance** are **conductors**
-
+* **Voltage** is the strength of the force that causes movement of electrons  
 By tradition, voltages are quoted relative to **ground** (or **earth**). If a potential difference exists, a current will flow from that object to the earth via the path of least resistance. If this path contains a person, an electrical injury may result.
 
 ##Electrical Injury
