@@ -8,7 +8,13 @@
     * Substances with **high resistance** are **insulators**
     * Substances with **low resistance** are **conductors**
 
+By tradition, voltages are quoted relative to **ground** (or **earth**). A current will flow by taking the path of least resistance.
+
+
+
 ##Electrical Injury
+
+
 Potential electrical injuries can be divided into:
 * **Ventricular Fibrillation**  
 Likelihood is a function of:
