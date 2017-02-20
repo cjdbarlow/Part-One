@@ -105,6 +105,7 @@ A line isolated supply has a 'transformer' with an equal number of windings, suc
 These classifications are designed to limit macroshock:
 * **Class I: Earthed**  
 Any part that can contact the user is earthed to ground.
+    * If a fault develops such that parts of the device that the user can touch are live, then there is a risk of shock. If the case is earthed, the path of least resistance should be via the earth wire. This will cause a large current to flow, and should blow a fuse, ceasing current flow.
 
 * **Class II: Double-insulated**  
 Two layers of insulation around device. Does not require earthing.
