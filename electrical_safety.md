@@ -16,7 +16,11 @@ By tradition, voltages are quoted relative to **ground** (or **earth**). If a po
 
 * **Inductance** is the generation of current when a conductor moves through a magnetic field.
 
-* **Capacitance** is the ability of an object to store charge, and is measured in Fards (F). 
+* **Capacitance** is the ability of an object to store charge, and is measured in Fards (F). One farad is when one volt across the capacitor stores one coulomb of charge.
+    * A capacitor is an electrical component consisting of two conductors separated by an insulator (called a dielectric)
+    * When a **direct current** flows, electrons (a negative charge) build up on one of these conductors (called a plate), whilst an electron deficit (positive charge) occurs on the other plate
+    * Current will flow until the build up of charge is equal to the voltage of the power source
+    * Current can be **rapidly discharged** when the circuit is changed
 
 ##Electrical Injury
 Potential electrical injuries can be divided into:
