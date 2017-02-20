@@ -5,6 +5,8 @@
 ##Electrical Principles
 * **Charge** is the property of a subatomic particle which causes it to experience a force when close to other charged particules. Charge is measured in coulombs (C).
 * **Resistance** describes to what extent a substance reduces the flow of electrons through it. Resistance is measured in ohms (Ω).
+    * Substances with **high resistance** are **insulators**
+    * Substances with **low resistance** are **conductors**
 
 ##Electrical Injury
 Potential electrical injuries can be divided into:
