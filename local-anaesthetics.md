@@ -75,6 +75,8 @@ Anything that increases peak [plasma] can lead to an increased risk of LA toxici
   Reduces clearance of amides, which may cause toxicity with repeated doses or use of infusions.
   * Age  
   Organ blood flow (and therefore clearance), as well as pharmacokinetic interactions may affect clearance of LA. Both **children and the elderly** have **reduced clearance** of LA.
+  * Acidosis  
+  Increases unionised portion.
 
 ###Cardiac Toxicity
 Cardiac toxicity occurs due to:
@@ -123,6 +125,8 @@ This causes inhibitory effects:
   * Coma
   * Apnoea
   
+* CNS toxicity is potentiated by other CNS depressants, and hypercarbia
+  
 ###Treatment
 Toxicity is managed with an **ABC approach**, though definitive management uses **intralipid emulsion**:
 * Intralipid is an emulsion of soya oil, glycerol, and egg phospholipids.  
@@ -138,6 +142,7 @@ Mechanism of action in uncertain, but theories include:
 * Dosing:
     * Give Intralipid 20% 1.5ml.kg<sup>-1</sup> over 1 minute
       * Followed by an infusion at 0.25ml.kg<sup>-1</sup>.min<sup>-1</sup>
+
 
 * Complications include **pancreatitis**  
 Note that ILE interferes with amylase and lipase assays, and so these will be unreliable.
