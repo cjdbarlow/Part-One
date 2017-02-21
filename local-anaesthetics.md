@@ -36,7 +36,10 @@ Local anaesthetics are:
 This occurs when the rate of drug entering the systemic circulation is greater than the drug leaving the systemic circulation due to redistribution and metabolism.
 
 Toxicity is related to the:
-* **Drug used**
+* **Drug used**  
+Agents are compared using the **CC/CNS ratio**:
+  * This is the ratio of the dose of drug required to cause cardiovascular collapse (CC) compared to the dose required to cause seizure (a crude alternative to the therapeutic index)
+
 * **Dose used**
 * **Site** of administration  
 This affects the rate of uptake into the systemic circulation. Ranked (from highest to lowest):
@@ -97,6 +100,14 @@ This causes excitatory effects:
 This causes inhibitory effects:
   * Coma
   * Apnoea
+  
+###Treatment
+Toxicity is managed with **intralipid**:
+* Intralipid 20% 1.5ml.kg<sup>-1</sup> over 1 minute
+* Followed by infusion at 0.25ml.kg<sup>-1</sup>.min<sup>-1</sup>.
+
+
+
 
 ##Common Features of Local Anaesthetics
 |Property|Action|
