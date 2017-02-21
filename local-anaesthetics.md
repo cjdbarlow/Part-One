@@ -35,10 +35,17 @@ Toxicity of local anaesthetics
 
 ###Cardiac Toxicity
 Cardiac toxicity occurs due to:
-* Blocking of the Na<sup>+</sup> channel  
+* Blocking of the cardiac Na<sup>+</sup> channel  
 Severity of toxicity will vary depending on how long the agent binds to the channel, with **less toxicity** caused by agents spending **less time bound**:
   * Lignocaine  
-  Spends the shortest time bound to the channel, so causes 
+  Spends the shortest time bound to the channel, so causes the least amount of toxicity. This is also why lignocaine can be used as an antiarrhythmic, but other agents can not.
+  * Buipivacaine  
+  Takes **10x as long** to dissociate as lignocaine. This can lead to re-entrant arrhythmias, and then VF. The **risk **of this is **increased in tachycardia**, as it potentiates use-dependent blockade.
+  * Ropivacaine  
+  Dissociates more rapidly from cardiac channels than bupivacaine.
+* Direct myocardial depressant effects  
+Local anaesthetics also have a direct depressant effect, which is proportional to the time they spend bound (?correct).
+Effects include:
 
 ##Common Features of Local Anaesthetics
 |Property|Action|
