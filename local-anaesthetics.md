@@ -76,6 +76,8 @@ Anything that increases peak [plasma] can lead to an increased risk of LA toxici
   Organ blood flow (and therefore clearance), as well as pharmacokinetic interactions may affect clearance of LA. Both **children and the elderly** have **reduced clearance** of LA.
   * Acidosis  
   Increases unionised portion.
+  * Hypercarbia  
+  Increases cerebral blood flow.
 
 ###Cardiac Toxicity
 Cardiac toxicity occurs due to:
@@ -123,10 +125,7 @@ This causes excitatory effects:
 This causes inhibitory effects:
   * Coma
   * Apnoea
-  
-  
-* CNS toxicity is potentiated by other CNS depressants, and hypercarbia
-  
+    
 ###Treatment
 Toxicity is managed with an **ABC approach**, though definitive management uses **intralipid emulsion**:
 * Intralipid is an emulsion of soya oil, glycerol, and egg phospholipids.  
