@@ -3,6 +3,11 @@
 
 Local anaesthetic drugs create a use-dependent temporary blockade of neuronal transmission by blocking the voltage-gated sodium channel in the cell membrane, preventing depolarisation. 
 
+All local anaesthetics consist of:
+* A hydrophilic component
+* A lipophilic aromatic ring
+* An amide or ester link connecting the two
+
 ##Mechanism of Action
 Action is dependent on blockade of the sodium channel. Two theories exist:
 * **Unionised** drug **passes through the cell membrane**, and then becomes **ionised intracellularly**
@@ -11,10 +16,6 @@ Action is dependent on blockade of the sodium channel. Two theories exist:
 * An alternative suggested mechanism of action is the drug enters the cell membrane and mechanically distorts the channel, rendering it ineffective
 
 
-* All local anaesthetics consist of:
-  * A hydrophilic component
-  * A lipophilic aromatic ring
-  * An amide or ester link connecting the two
 
 ##Key Characteristics of Local Anaethetics
 Characteristics are related to chemical structure. These include:
