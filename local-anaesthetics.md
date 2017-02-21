@@ -45,7 +45,14 @@ Severity of toxicity will vary depending on how long the agent binds to the chan
   Dissociates more rapidly from cardiac channels than bupivacaine.
 * Direct myocardial depressant effects  
 Local anaesthetics also have a direct depressant effect, which is proportional to the time they spend bound (?correct).
+
 Effects include:
+* Bradycardia
+* Re-entrant arrhythmias, progressing to VF
+* Increased threshold for defibrillation
+
+###CNS Toxicity
+
 
 ##Common Features of Local Anaesthetics
 |Property|Action|
