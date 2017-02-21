@@ -10,8 +10,8 @@ They will (hopefully) be revised in the coming months, as I get my head around J
 At the moment they are delivered as-is. Incomplete, but hopefully better than nothing.
 
 ##How to Use Part One
-I will have benefited far more from writing these notes than you will through reading them. However, you **should** use them:
-* To look up something you need an answer to quickly  
+I will have benefited far more from writing these notes than you will through reading them. However, they should be useful:
+* As a quick reference for something you need an answer to quickly  
 The search function is pretty good.
 * As a rough guide for the expected depth of knowledge required on a topic
 * As a method to correct your own written exam answers
