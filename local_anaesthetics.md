@@ -26,7 +26,7 @@
 |**Metabolism**|Amides are hepatically metabolised, esters are hydrolysed by plasma cholinesterases (giving a much shorter t<sub>1/2</sub>)
 |**CVS**|Vasodilatation at low concentrations, vasoconstriction at high concentrations. Inhibition of cardiac Na<sup>+</sup> channels, inhibiting maximum rate of rise of phase 0 of the cardiac action potential. Negative inotropy proportional to potency
 |**CNS**|Does-dependent CNS effects: circumoral tingling, visual disturbances, tinnitus, tremors, dizziness, slurred speech, convulsions, coma, apnoea. Potentiated by other CNS depressants and hypercarbia (due to ↑CBF and ↓ seizure threshold).
-|**Toxic Effects**|Esters have a higher incidence of **allergy**. Local anaesthetic toxicity is predominantly CNS and CVS. Toxicity is compared using the **CC/CNS ratio** - the ratio  of the dose of drug required to cause cardiovascular collapse (CC) compared to the dose required to cause seizure - a crude alternative to the therapeutic index as a tool to classify safety of local anaesthetic agents. Toxicity is treated with intralipid 20% 1.5ml.kg<sup>-1</sup> over 1 minute, followed by infusion at 0.25ml.kg<sup>-1</sup>.min<sup>-1</sup>.
+|**Toxic Effects**|Esters have a higher incidence of **allergy**. Local anaesthetic toxicity is predominantly CNS and CVS. 
 
 ##Comparison of Local Anaesthetics
 |Property|Lignocaine|Bupivacaine|Ropivacaine|Cocaine
