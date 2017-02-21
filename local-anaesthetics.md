@@ -53,7 +53,7 @@ This affects the rate of uptake into the systemic circulation. Ranked (from high
 
 ###Cardiac Toxicity
 Cardiac toxicity occurs due to:
-* Blocking of the cardiac Na<sup>+</sup> channel  
+* Blocking of the cardiac Na<sup>+</sup> channel (K<sup>+</sup> and Ca<sup>2+</sup> channels may also be involved)  
 Severity of toxicity will vary depending on how long the agent binds to the channel, with **less toxicity** caused by agents spending **less time bound**:
   * Lignocaine  
   Spends the shortest time bound to the channel, so causes the least amount of toxicity. This is also why lignocaine can be used as an antiarrhythmic, but other agents can not.
@@ -62,21 +62,38 @@ Severity of toxicity will vary depending on how long the agent binds to the chan
   * Ropivacaine  
   Dissociates more rapidly from cardiac channels than bupivacaine.
 * Direct myocardial depressant effects  
+Reduces cAMP levels by disrupting metabotropic receptors.
 Local anaesthetics also have a direct depressant effect, which is proportional to the time they spend bound (?correct).
 
-Effects include:
-* Bradycardia
-* Re-entrant arrhythmias, progressing to VF
-* Increased threshold for defibrillation
+**Cardiac **toxicity is **triphasic**:
+* Initial phase
+  * Hypertension
+  * Tachycardia
+* Intermediate phase:
+  * Hypotension
+  * Myocardial depression
+* Terminal phase:
+  * Severe hypotension
+  * Vasodilation
+  * Various arrhythmias  
+    * Sinus bradycardia
+    * Variable degree heart block
+    * VT
+    * VF
+    * Asystole
 
 ###CNS Toxicity
-Local anaesthetics in their unionised state can cross the BBB and interfere with CNS conduction. The toxicty is biphasic:
+Local anaesthetics in their unionised state can cross the BBB and interfere with CNS conduction. **CNS toxicty is biphasic**:
 * Initally, inhibitory interneurones are blocked  
 This causes excitatory effects:
-  * Circumoral tingling
+  * Perioral tingling
+  * Slurred speech
   * Visual disturbances
   * Tremulousness
   * Dizziness
+  * Confusion
+  * Convulsions  
+  Typically signifies the end of the excitatory phase.
 * Secondly, there is a general depression of all CNS neurons  
 This causes inhibitory effects:
   * Coma
@@ -97,4 +114,9 @@ This causes inhibitory effects:
 |**CVS**|Vasodilatation at low concentrations, vasoconstriction at high concentrations. Inhibition of cardiac Na<sup>+</sup> channels, inhibiting maximum rate of rise of phase 0 of the cardiac action potential. Negative inotropy proportional to potency
 |**CNS**|Does-dependent CNS effects: circumoral tingling, visual disturbances, tinnitus, tremors, dizziness, slurred speech, convulsions, coma, apnoea. Potentiated by other CNS depressants and hypercarbia (due to ↑CBF and ↓ seizure threshold).
 |**Toxic Effects**|Esters have a higher incidence of **allergy**. Local anaesthetic toxicity is predominantly CNS and CVS. Toxicity is compared using the **CC/CNS ratio** - the ratio  of the dose of drug required to cause cardiovascular collapse (CC) compared to the dose required to cause seizure - a crude alternative to the therapeutic index as a tool to classify safety of local anaesthetic agents. Toxicity is treated with intralipid 20% 1.5ml.kg<sup>-1</sup> over 1 minute, followed by infusion at 0.25ml.kg<sup>-1</sup>.min<sup>-1</sup>.
+
+---
+##References
+Peck and Hill
+https://academic.oup.com/bjaed/article/15/3/136/279390/Local-anaesthetic-systemic-toxicity
 
