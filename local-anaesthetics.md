@@ -36,23 +36,45 @@ Local anaesthetics are:
 This occurs when the rate of drug entering the systemic circulation is greater than the drug leaving the systemic circulation due to redistribution and metabolism.
 
 Toxicity is related to the:
-* **Drug used**  
+* **Drug factors**
+  * **Drug used**  
 Agents are compared using the **CC/CNS ratio**:
-  * This is the ratio of the dose of drug required to cause cardiovascular collapse (CC) compared to the dose required to cause seizure (a crude alternative to the therapeutic index)
+    * This is the ratio of the dose of drug required to cause cardiovascular collapse (CC) compared to the dose required to cause seizure (a crude alternative to the therapeutic index)
+  * **Dose used**  
+Continuous infusions are more likely to cause a delayed onset of local anaesthetic toxicity.
 
-* **Dose used**
-* **Site** of administration  
-This affects the rate of uptake into the systemic circulation. Ranked (from highest to lowest):
-  * Intravascular (obviously)  
-  This is the most common cause of LA toxicity.
-    * Site is also relevant here: an injection into the carotid artery will cause toxicity at a lower dose than if injected into a peripheral vein.
-  * Intercostal
-  * Caudal
-  * Epidural
-  * Brachial plexus
-  * Subcutaneous
-* Use of **adjuncts**
 
+* **Block factors**
+  * **Type of block**
+    * **Site** of administration  
+    This affects the rate of uptake into the systemic circulation, and the likelihood of inadvertent intravascular injection. Ranked (from highest to lowest):
+      * Intravascular (obviously)  
+    This is the most common cause of LA toxicity.
+        * Site is also relevant here: an injection into the carotid artery will cause toxicity at a lower dose than if injected into a peripheral vein.
+      * Intercostal
+      * Caudal
+      * Epidural
+      * Brachial plexus
+      * Subcutaneous
+  * Use of **adjuncts**
+  * Adrenaline  
+    Vasoconstrictor properties reduce systemic absorption of LA.
+  * **Technique**  
+    * Frequent aspiration
+    * Test dose
+    * Use of ultrasound
+
+
+* **Patient factors**  
+Anything that increases peak [plasma] can lead to an increased risk of LA toxicity.
+  * Blood flow to affected area
+  * α1-acid glycoprotein  
+  Low levels of this protein increase free drug fraction.  
+    * Neonates and infants have half the level of AAG than adults.
+  * Hepatic disease  
+  Reduces clearance of amides, which may cause toxicity with repeated doses or use of infusions.
+  * Age  
+  Organ blood flow (and therefore clearance), as well as pharmacokinetic interactions may affect clearance of LA. Both **children and the elderly** have **reduced clearance** of LA.
 
 ###Cardiac Toxicity
 Cardiac toxicity occurs due to:
@@ -102,12 +124,25 @@ This causes inhibitory effects:
   * Apnoea
   
 ###Treatment
-Toxicity is managed with **intralipid**:
-* Intralipid 20% 1.5ml.kg<sup>-1</sup> over 1 minute
-* Followed by infusion at 0.25ml.kg<sup>-1</sup>.min<sup>-1</sup>
+Toxicity is managed with an **ABC approach**, though definitive management uses **intralipid emulsion**:
+* Intralipid is an emulsion of soya oil, glycerol, and egg phospholipids.  
+Mechanism of action in uncertain, but theories include:
+  * Lipid sink  
+  ILE binds unionised LA, causing it to distribute off receptor sites.
+  * Fatty acid metabolism  
+  Cardiac fatty acid metabolism is interrupted by LA. ILE provides a source of fatty acids to allow metabolism to continue.
+  * Competitive antagonism  
+  ILE may directly inhibit LA binding.
+  
+  
+* Dosing:
+    * Give Intralipid 20% 1.5ml.kg<sup>-1</sup> over 1 minute
+      * Followed by an infusion at 0.25ml.kg<sup>-1</sup>.min<sup>-1</sup>
 
-
-
+* Complications include **pancreatitis**  
+Note that ILE interferes with amylase and lipase assays, and so these will be unreliable.
+    
+Note that whilst propfol can be used to treat seizures, the amount of lipid contained in propofol is inadequate to bind LA.
 
 ##Common Features of Local Anaesthetics
 |Property|Action|
