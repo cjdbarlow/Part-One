@@ -16,7 +16,7 @@
 |Property|Action|
 |--|--|
 |**Class**|Amide (-NHCO-) or Ester (-CCO-)
-|**Pharmaceutics**|Amides are stable in solution, esters are unstable in solution. Formulated as a chloride salt to become water-soluble.
+|**Pharmaceutics**|Amides are stable in solution, esters are unstable in solution. All are formulated as a hydrochloride salt to ensure water solubility.
 |**pKa**|All are weak bases, and have a pKa > 7.4
 |**Onset**|Onset is related to dose (Fick's Law) and pKa, with a **low pKa** giving a **faster onset** as there is more unionised drug present and therefore more drug able to cross the cell membrane. This is why local anaesthetics are poor at anaesthetising infected tissues, as the tissue pH is low resulting in a greater proportion of ionised drug, and less drug reaching the effect site.
 |**Duration of Action**|Duration of action is related to protein binding, with **greater protein binding** giving a **longer duration of action**
