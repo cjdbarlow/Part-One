@@ -104,7 +104,7 @@ This causes inhibitory effects:
 ###Treatment
 Toxicity is managed with **intralipid**:
 * Intralipid 20% 1.5ml.kg<sup>-1</sup> over 1 minute
-* Followed by infusion at 0.25ml.kg<sup>-1</sup>.min<sup>-1</sup>.
+* Followed by infusion at 0.25ml.kg<sup>-1</sup>.min<sup>-1</sup>
 
 
 
