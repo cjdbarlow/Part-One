@@ -48,7 +48,7 @@ This affects the rate of uptake into the systemic circulation. Ranked (from high
   * Epidural
   * Brachial plexus
   * Subcutaneous
-* **Adjuncts**
+* Use of **Adjuncts**
 
 
 ###Cardiac Toxicity
