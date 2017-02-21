@@ -15,8 +15,6 @@ Action is dependent on blockade of the sodium channel. Two theories exist:
   * This theory explains use-dependent blockade, as sodium channels can only be blocked in their open state
 * An alternative suggested mechanism of action is the drug enters the cell membrane and mechanically distorts the channel, rendering it ineffective
 
-
-
 ##Key Characteristics of Local Anaethetics
 Characteristics are related to chemical structure. These include:
 * **Potency**  
@@ -24,9 +22,23 @@ Potency is a function of **lipid solubility** and vasodilator properties.
 * **Duration of action**  
 Highly **protein bound** agents have an increased duration of action.
 * **Onset**  
-Speed of onset is related to **pK<sub>a</sub>**. Agents with a low pK<sub>a</sub> are less ionised at physiological pH (remember **b**ases are ionised **b**elow their pK<sub>a</sub>), and therefore have a faster onset of action.
+Speed of onset is related to **pK<sub>a</sub>** and **dose**.
+  * Agents with a low pK<sub>a</sub> are less ionised at physiological pH (remember **b**ases are ionised **b**elow their pK<sub>a</sub>), and therefore have a faster onset of action.
+    * This is also why anaesthetics are ineffective in anaesthetising infected tissue, as the low pH makes the majority of the LA ionised and unable to cross the cell membrane.
+  * Increasing the dose increases the speed of onset, as per Fick's Law
 * **Vasodilator activity**  
 In general, drugs cause vasodilation in low concentrations, and vasoconstriction at high concentrations (though there are exceptions, e.g. cocaine).
+
+##Toxicity
+Toxicity of local anaesthetics
+
+
+###Cardiac Toxicity
+Cardiac toxicity occurs due to:
+* Blocking of the Na<sup>+</sup> channel  
+Severity of toxicity will vary depending on how long the agent binds to the channel, with **less toxicity** caused by agents spending **less time bound**:
+  * Lignocaine  
+  Spends the shortest time bound to the channel, so causes 
 
 ##Common Features of Local Anaesthetics
 |Property|Action|
