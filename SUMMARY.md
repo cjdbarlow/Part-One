@@ -136,6 +136,7 @@
   * [Autonomic Nervous System](autonomic_nervous_system.md)
   * [Neuropharmacology](anticonvulsantsmoa.md#id)
     * [Anticonvulsants](anticonvulsantsmoa.md)
+    * [Local Anaesthetics](local-anaesthetics.md)
     * [Neuromuscular Blockers](neuromuscular_blockers.md)
 * [Endocrine](hormones.md#id)
   * [A Brief Overview of Hormones](hormones.md)
