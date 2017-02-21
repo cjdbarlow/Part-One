@@ -30,7 +30,19 @@ Speed of onset is related to **pK<sub>a</sub>** and **dose**.
 In general, drugs cause vasodilation in low concentrations, and vasoconstriction at high concentrations (though there are exceptions, e.g. cocaine).
 
 ##Toxicity
-Toxicity of local anaesthetics
+Local anaesthetics are toxic to both the **CNS** and **CVS**. Toxicity is related to:
+* **Drug used**
+* **Dose used**
+* **Site** of administration  
+This affects the rate of uptake into the systemic circulation. Ranked (from highest to lowest):
+  * Intravascular (obviously)
+    * Site is also relevant here: an injection into the carotid artery will cause toxicity at a lower dose than if injected into a peripheral vein.
+  * Intercostal
+  * Caudal
+  * Epidural
+  * Brachial plexus
+  * Subcutaneous
+* **Adjuncts**
 
 
 ###Cardiac Toxicity
