@@ -52,7 +52,17 @@ Effects include:
 * Increased threshold for defibrillation
 
 ###CNS Toxicity
-
+Local anaesthetics in their unionised state can cross the BBB and interfere with CNS conduction. The toxicty is biphasic:
+* Initally, inhibitory interneurones are blocked  
+This causes excitatory effects:
+  * Circumoral tingling
+  * Visual disturbances
+  * Tremulousness
+  * Dizziness
+* Secondly, there is a general depression of all CNS neurons  
+This causes inhibitory effects:
+  * Coma
+  * Apnoea
 
 ##Common Features of Local Anaesthetics
 |Property|Action|
