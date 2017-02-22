@@ -41,7 +41,7 @@ Some questions lend themselves more easily to a particular structure than others
         * Idiopathic
         * Drug interactions
 
-##Describe the physiology of
+##Describe the Physiology of...
 * Respiratory
     * Bronchodilation/constriction
     * Vasodilation/constriction
