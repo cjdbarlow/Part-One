@@ -67,6 +67,7 @@ Thiocyante is produced with hepatic metabolism of CN<sup>-</sup>. Toxicity occur
 Reduced clearance, may occur in 3-6 days.
 * Patients given thiosulfate for management of CN<sup>-</sup> toxicity.
 
+
 * **Effects**  
 Multisystemic, including:
         * Rash
