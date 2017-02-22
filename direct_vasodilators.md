@@ -80,9 +80,12 @@ Multisystemic, including:
 
 ###Methaemoglobinaemia
 Methaemoglobinaemia occurs when the Fe<sup>2+</sup> (ferrous) ion in haemoglobin is oxidised to the Fe<sup>3+</sup> (ferric) form, which is **unable** to **bind oxygen**. 
+
+
 ---
 ##References
 Smith Scarth Sasada
 Peck and Hill
 CICM Sep/Nov 2008
 http://lifeinthefastlane.com/ccc/cyanide-poisoning/
+https://academic.oup.com/bjaed/article/12/5/251/289041/Physiology-of-haemoglobin
