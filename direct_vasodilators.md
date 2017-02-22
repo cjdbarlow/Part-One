@@ -89,3 +89,4 @@ Peck and Hill
 CICM Sep/Nov 2008
 http://lifeinthefastlane.com/ccc/cyanide-poisoning/
 https://academic.oup.com/bjaed/article/12/5/251/289041/Physiology-of-haemoglobin
+http://www.sciencedirect.com/science/article/pii/S0196064499701678
