@@ -74,9 +74,12 @@ Multisystemic, including:
         * Weakness
         * CNS disturbance
 
+
 * **Treatment**  
         * Dialysis
 
+###Methaemoglobinaemia
+Methaemoglobinaemia occurs when the Fe<sup>2+</sup> (ferrous) ion in haemoglobin is oxidised to the Fe<sup>3+</sup> (ferric) form, which is **unable** to **bind oxygen**. 
 ---
 ##References
 Smith Scarth Sasada
