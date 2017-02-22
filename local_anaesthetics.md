@@ -41,6 +41,7 @@
 |**Distribution**|70% protein bound|Highly protein bound|Lower lipid solubility reduces motor block compared to bupivacaine|Highly protein bound
 |**Metabolism**|Hepatic with some active metabolites|Hepatic to inactive metabolites|Hepatic to active metabolites|Plasma esterases, some hepatic metabolism (unlike other esters)
 |**Elimination**|Reduced in hepatic or cardiac failure|||Elimination of active drug and inactive metabolites
+|**CC/CNS ratio**|7|3|5|||
 |**Other**||Most toxic of LA agents as it takes longer to dissociate from the myocardial Na<sup>+</sup> channel. **Levobupivacaine** is less cardiotoxic the racemic mixture, possibly as it has more intrinsic vasoconstrictive properties.||May cause ↑ BP, ↑ HR, coronary vasoconstriction, myocardial depression, VF, ↑ temperature due to ↑ SNS activation
 
 
