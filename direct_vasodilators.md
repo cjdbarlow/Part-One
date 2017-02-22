@@ -79,8 +79,17 @@ Multisystemic, including:
         * Dialysis
 
 ###Methaemoglobinaemia
-Methaemoglobinaemia occurs when the Fe<sup>2+</sup> (ferrous) ion in haemoglobin is oxidised to the Fe<sup>3+</sup> (ferric) form, which is **unable** to **bind oxygen**. 
-
+Methaemoglobinaemia occurs when the Fe<sup>2+</sup> (ferrous) ion in haemoglobin is oxidised to the Fe<sup>3+</sup> (ferric) form, which is **unable** to **bind oxygen**.
+* Due to the high concentration of oxygen in erythrocytes, methaemoglobin is continually being formed
+* Several endogenous reduction systems exist to keep MetHb levels stable at ~1%
+        * Predominantly cytochrome-*b*<sub>5</sub> reductase
+        * NADPH-MHb reductase  
+        This reduces methaemoglobinaemia in the presence of a reducing agent, clasically **methylene blue**.
+        * Reduced glutathione  
+        More important in preventing oxidative stress in other cells than the RBC.
+* Disease occurs due to the loss in oxygen-carrying capacity due to the loss of effective haemoglobin
+        * e.g. a 20% MetHb level gives a *theoretical* oxygen carrying capacity of 80% of the actual haemoglobin  
+        There is in fact a slight **left shift** of the **oxyhaemoglobin dissociation curve**, as oxygen binds more tightly to the partially-oxidised haemoglobin
 
 ---
 ##References
