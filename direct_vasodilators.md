@@ -18,7 +18,11 @@ Both GTN and SNP increase production of NO. This inhibits guanylate cyclase, inc
 |**CVS**|↓ SVR > venodilation. ↓ SBP and ↓ preload, ↑ HR maintains CO, ↓ MVO<sub>2</sub>|Vasodilation predominantly of capacitance vessels, ↓ preload, ↓ VR, ↓ EDP, ↓ wall tension improving subendocardial blood flow, ↓MVO<sub>2</sub>|Arteriolar vasodilation with compensatory tachycardia and increased CO
 |**CNS**|↑ CBF following cerebral v asodilatation|↑ CBF following cerebral vasodilatation, which may cause headache|Increased CBF
 |**Haematological**|Methaemoglobinaemia|Methanoglobinaemia||
-|**Toxic Effects**|Three mechanisms: hypotension, thiocynate toxicity, CN toxicity. CN toxicity causes a metabolic acidosis with an ↑CvO<sub>2</sub>, and occurs when free CN binds to cytochrome oxidase and prevents aerobic metabolism. This is treated by: stopping the SNP infusion, giving hydroxycobalamin to chelate CN, and nitrites to induce methaemoglobinaemia (which binds CN more avidly than regular Hb) giving sodium thosulfate (promotes conversion to SCN)|GTN patches may explode if left on during DC cardioversion.  Methaemoglobinaemia can be treated with methylene blue (1-2mg.kg<sup>-1</sup>|||
+|**Toxic Effects**|**Three** mechanisms: hypotension, thiocynate toxicity, CN toxicity. |Methaemoglobinaemia can occur with GTN <br><br> GTN patches may **explode** if left on during DC cardioversion. |||
+
+##Nitrate Toxicity
+CN toxicity causes a metabolic acidosis with an ↑CvO<sub>2</sub>, and occurs when free CN binds to cytochrome oxidase and prevents aerobic metabolism. This is treated by: stopping the SNP infusion, giving hydroxycobalamin to chelate CN, and nitrites to induce methaemoglobinaemia (which binds CN more avidly than regular Hb) giving sodium thosulfate (promotes conversion to SCN)
+
 
 ---
 ##References
