@@ -9,11 +9,13 @@
 
 > To explain the Law of Mass Action and describe affinity and dissociation constants
 
-A receptor is a component of a cell which interacts with a drug and initiates a sequence of events which lead to an observed change in function. Evidence of receptors is inferred from the response of tissues to drugs, genome sequencing, and molecular biology. A drug will bind to a receptor forming a **receptor-drug complex**, which will initiate a cascade of events to exert a pharmacological effect. 
+A **receptor** is a component of a cell which interacts with a drug and **initiates a sequence of events leading to an observed change in function**.
+* Existence of receptors is inferred from the response of tissues to drugs, genome sequencing, and molecular biology.
+* A drug binds to a receptor forming a **receptor-drug complex**, which initiates a cascade of events to exert a pharmacological effect. 
 
 ##Receptor-Drug Interaction
 ###Dissociation Constants
-Interaction between a receptor and a drug is based upon the **law of mass action**, which states the rate of a chemical reaction is proportional to the masses of reacting substances.[^2] This can be expressed as:
+Interaction between a receptor and a drug is based upon the **law of mass action**, which states the rate of a chemical reaction is proportional to the masses of reacting substances. This can be expressed as:
 
 $$ [Drug] + [Receptor] ⇌ [Drug-Receptor] $$
 
@@ -67,5 +69,5 @@ A drug which has a **negative activity** (between 0 and -1) producing the **oppo
 ---
 
 ##References
-  [^1]: Pinnock C, Lin T, Smith T. Fundamentals of Anaesthesia. 2nd Ed. Cambridge Universiy Press. 2003.
-[^2]: Encyclopaedia Britannica. Available at: https://www.britannica.com/science/law-of-mass-action
+1. Pinnock C, Lin T, Smith T. Fundamentals of Anaesthesia. 2nd Ed. Cambridge Universiy Press. 2003.
+2. Encyclopaedia Britannica. Available at: https://www.britannica.com/science/law-of-mass-action
