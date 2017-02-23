@@ -15,8 +15,7 @@ A **receptor** is a component of a cell which interacts with a drug and **initia
 
 ##Receptor-Drug Interaction
 ###Dissociation Constants
-Interaction between a receptor and a drug is based upon the **law of mass action**, which states the rate of a chemical reaction is proportional to the masses of reacting substances. This can be expressed as:
-
+Interaction between a receptor and a drug is based upon the **law of mass action**, which states the rate of a chemical reaction is proportional to the masses of reacting substances. This can be expressed as:  
 $$ [Drug] + [Receptor] ⇌ [Drug-Receptor] $$
 
 The ratio of the **rate constant** for the forwards reaction (**K<sub>association</sub>**) and the backwards reaction (**K<sub>dissociation</sub>**) is the **dissociation constant**. This is the concentration of drug when 50% of receptors are occupied:
@@ -34,34 +33,46 @@ $$ k = Ae^{-E_A \over RT} $$, where:
 * $$R$$ is the gas constant
 
 ###Properties of Drugs
-**Potency** refers to the **amount** of drug required to have an effect. A related concept is **Bowman's principle**, which states that the **least potent** anaesthetic agents have the **quickest onset**. This is because they are administered in **higher doses** (as they are less potent, and more is required to get an effect), which results in a **high concentration gradient** and a **rapid distribution** into tissues.
+Key properties of drugs include:
+* **Potency**  
+The **amount** of drug required to have an effect (typically the EC<sub>50</sub>).
+    * This relates to **Bowman's principle**, which states that the **least potent** anaesthetic agents have the **quickest onset**  
+    This is because they are administered in **higher doses** (as they are less potent, more is required to get an effect), which results in a **high concentration gradient** and a **rapid distribution** into tissues.
 
-**Efficacy** refers to the **maximal** effect that a drug can have.
 
-Drugs are often classified by their type of activity. **Intrinsic activity** refers to the size of effect a drug has when bound, and is graded from 0 to 1. This allows drugs to be subdivided into **agonists**, **antagonists**, **partial agonists**, and **inverse agonists**.
+* **Efficacy**  
+The **maximal** effect that a drug can generate.
+
+
+* **Intrinsic activity**  
+The size of effect a drug has when bound, which is graded from 0 to 1. This allows drugs to be subdivided into:
+    * **Agonists**
+    * **Antagonists**
+    * **Partial agonists**
+    * **Inverse agonists**.
 
 ####Agonist
-A drug which will have a **maximal** response at the receptor site. An agonist has **high affinity** and **activity of 1**. They can be compared by:
+An agonist will generate a **maximal** response at the receptor site. An agonist has **high affinity** and an **activity of 1**. Agonists can be compared by:
 * **Relative potency** implies that if two agonists are equally efficacious, a smaller dose of one is required to get an effect.
 * **Relative efficacy** implies that the maximal effect of one agonist is greater than the other.
 
 ####Antagonist 
-A drug which will produce no response at the receptor site, but will prevent other ligands from binding. Antagonists have **high affinity** and an **activity of 0**.
+An antagonist produces no response at the receptor site, and prevents other ligands binding. Antagonists have **high affinity** and an **activity of 0**.
 
-They can be subclassified into the **direct antagonists**, which can be either:
-* Competitive antagonists  
+Antagonists with these properties are also known as **direct antagonists**, which can be either:
+* **Competitive antagonists**  
 Displace other ligands from a binding site. The effect can be overriden by increasing the dose of agonist.
-* Non-competitive antagonists  
+* **Non-competitive antagonists**  
 Create a conformational change in the receptor. They cannot be overidden by increasing the dose of agonist.
 
-Other mechanisms of drug antagonism exist, w hich work in a more roundabout fashion. These are classed **indirect antagonists**, and include:
-* Chemical antagonists  
+Other mechanisms of drug antagonism exist, which work in a more roundabout fashion. These are classed **indirect antagonists**, and include:
+* **Chemical antagonists**  
 Where the drug binds directly to another. Examples include protamine and heparin, and sugammadex and rocuronium.
-* Physiologic antagonists  
+* **Physiologic antagonists**  
 A countering effect is produced by agonism of other pathways.
 
 ####Partial agonist
-A drug which will have **submaximal** response at the receptor site. A partial agonist has a **high affinity** and an **activity between 0 and 1**. A partial agonist can act as an effective antagonist in the presence of a full agonist, as it will prevent maximal binding at a receptor, even with a high agonist concentration.
+A partial agonist generates a **submaximal** response at the receptor. A partial agonist has a **high affinity** and an **activity between 0 and 1**. A partial agonist can act as an effective antagonist in the presence of a full agonist, as it will prevent maximal binding at a receptor, even with a high agonist concentration.
 
 ####Inverse agonist 
 A drug which has a **negative activity** (between 0 and -1) producing the **opposite** response (compared to the endogenous agonist) at receptor.
