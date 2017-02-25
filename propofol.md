@@ -1,12 +1,12 @@
 # Propofol {#id}
 
-Propofol is a phenolic derivative which agonises GABA<sub>A</sub> receptors modulating its inhibitory action.
+Propofol (2-6 di-isopropylphenol) is a phenolic derivative which agonises GABA<sub>A</sub> receptors modulating its inhibitory action.
 
 |Property|Action|
 |--|--|
 |**Class**|Phenolic derivative|
 |**Uses**|Induction of anaesthesia, sedation, TIVA|
-|**Presentation**| White oil-in-water emulsion containing 10mg.ml<sup>-1</sup> propofol, soybean oil, egg lecithin. Risk of bacterial contamination limits shelf life. Energy content is 1.1kcal.ml<sup>-1</sup>|
+|**Presentation**| White oil-in-water emulsion containing 10mg.ml<sup>-1</sup> propofol, soybean oil, egg lecithin at a pH of 7-8.5. Risk of bacterial contamination limits shelf life. Energy content is 1.1kcal.ml<sup>-1</sup>|
 |**pKa**| 11 - almost all is unionised (and active) at physiologic pH|
 |**Route of Administration**|IV only|
 |**Dosing**|Induction: 1-2.5mg.kg<sup>-1</sup> Maintenance: 4-12mg/kg/hr|
@@ -15,7 +15,7 @@ Propofol is a phenolic derivative which agonises GABA<sub>A</sub> receptors modu
 |**Elimination**|Renal elimination of inactive metabolites. Reduced clearance in renal failure.|
 |**Resp**|Respiratory depression, apnoea. Strong suppression of laryngeal reflexes.
 |**CVS**|↓ SVR (via stimulating NO release), ↓ BP, ↓ contractility, ↓ MVO<sub>2</sub>. Depresses baroreceptor reflex.|
-|**CNS**|Obtundation, anticonvulsant, paradoxical excitatory effects (~10%)|
+|**CNS**|Rapid LoC (within 1 arm-brain ciruclation time). ↓ CMRO2, CBF, and ICP. Anticonvulsant. Parodoxical excitatory effects in ~10%|
 |**MSK**|Pain on injection into small veins|
 |**Renal**|Green urine|
 |**GIT**|Anti-emetic|
