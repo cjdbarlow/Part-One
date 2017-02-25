@@ -67,5 +67,20 @@ Oxygen concentrators:
 * Built using two **zeolite lattices**
     * Pressurised air is filtered through one lattice
         * Nitrogen and water vapour are retained in the lattice
-        * Oxygen and argon are concentrated  
+        * Oxygen and **argon** are concentrated  
         Produces a 95% oxygen/5% argon mixture.
+    * The unused column is heated to release the bound nitrogen and water
+
+###Pros
+* Cheap
+* Reliable
+* Avoid need for oxygen deliery
+
+###Cons
+* Result in an accumulation of argon when used at low flows on a circle system
+* Require continuous power
+* Fire and explosion risk
+
+---
+##References
+Aston
