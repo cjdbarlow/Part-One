@@ -24,27 +24,22 @@ The search function is pretty good.
 ###Layout
 The book is divided into three sections:
 * **Curriculum**  
-This covers statistics, physiology, equipment and measurement, and anatomy.
+Covers statistics, physiology, equipment and measurement, and anatomy.
     * Pages are laid out using the section and topic titles and the order from the CICM curriculum (it is laid out better than the ANZCA curriculum)
     * When a topic is only examinable in the ANZCA curriculum, it has been slotted in somewhere sensible
     * Topics covered by the page are listed at the beginning of each page 
-    > A grey block indicates a topic is from the CICM or both curricula
+    > A grey block indicates a topic is from the CICM curriculum OR both curricula
     <!--></!-->
     > <p style="color:purple";>A purple block indicates a topic is ONLY from the ANZCA curriculum</p>
         
     
 * **Pharmacopia**  
-This covers drugs.
+Covers drugs.
     * For the sake of consistency, the "physiological" bits of pharmacology are found in the curriculum, i.e. "factors which affect neuromuscular blockade" will be found in the curriculum, whilst a "comparison of neuromuscular blockers" will be found in the pharmacopia. If lost, use the search box.
     
     
 * **Appendices**  
-This has a list of common abbreviations, definitions, graphs and equations you should know, and sample structures for SAQs.
-
-A  subheadings indicate which curriculum this topic is relevant too:
-> A grey subheading is either the CICM or both curricula
-> <p style="color:purple";>A purple topic </p>
-
+Has a list of common abbreviations, definitions, graphs and equations you should know, and sample structures for SAQs.
 
 ---
 
