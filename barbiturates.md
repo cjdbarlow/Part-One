@@ -13,7 +13,7 @@ Thiopentone acts increasing the duration of cloride channel opening at GABA<sub>
 |**Elimination**|Renal of metabolites
 |**Resp**|Respiratory depression, bronchospasm, laryngospasm
 |**CVS**|Vasodilation, ↓ inotropy, with compensatory tachycardia (baroreceptor response preserved)
-|**CNS**|Hyponosis and anaesthesia within 40 seconds of injection, with reliable loss of lash reflex. ↓ CBF, ↓ ICP, ↓ CMRO<sub>2</sub>, anticonvulsant, progressive flattening of EEG leading to burst suppression). Resolution of anaesthesia in 5-10 minutes due to redistibution.  
+|**CNS**|Hyponosis and anaesthesia within 40 seconds of injection, with reliable loss of lash reflex. ↓ CBF, ↓ ICP, ↓ CMRO<sub>2</sub>, anticonvulsant, progressive flattening of EEG leading to burst suppression). Resolution of anaesthesia in 5-10 minutes due to redistribution.  
 |**Endocrine**|↓ RBF causing ↓ UO
 |**GIT**|Hepatic enzyme induction
 |**Immune**|Analphylaxis ~1;20,000
