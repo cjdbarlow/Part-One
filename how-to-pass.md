@@ -62,6 +62,8 @@ You are not expected to know everything. Breadth tends to be rewarded over depth
 ###What I did
 * Read Power & Kam to get an overview of the topic  
 I would now avoid Power & Kam (it has a lot of errors), and instead read Basic Physiology for the Anaesthetist, by Chambers, Huang, and Matthews. Or this site.
+
+
 * Started doing practice questions:  
 I did practice questions (and note making) on my days off.
     * I started doing one question at a time  
@@ -77,9 +79,10 @@ I did practice questions (and note making) on my days off.
     * In the weeks before the written, I moved up to 6 or 12 (a full CICM SAQ paper) questions at a time (still at 8 minutes per question)
 
 * Did a *lot* of flashcards  
-I did my flashcard deck (almost) every day, including work days. This would take about an hour. Flashcards are far less demanding than doing questions, and a simple form of revision.
-    * This is the absolute best way of learning facts, in my opinion
+I did my flashcard deck every day (I missed ~5 days in 6 months). This would typically take about an hour. Flashcards are less demanding than doing questions, and a simple form of revision.
+    * This is the absolute best way of rote learning facts, in my opinion
     * I used [anki](http:\\www.ankisrs.net), but use whatever works for you
+
 
 * Did practice vivas
     * These began about a month before the written
