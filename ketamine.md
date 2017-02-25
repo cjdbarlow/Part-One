@@ -17,7 +17,7 @@ Ketamine is a **non-competetive antagonist** of the **NMDA receptor** in the CNS
 |**Elimination**|Renal eliminiation of inactive metabolites. Action of norketamine prolonged in renal failure.|
 |**Resp**|Bronchodilation, tachypnoea, relative presevation of laryngeal reflexes. Apnoea with rapid injection.|
 |**CVS**|↑ Sympathetic outflow: ↑ HR, ↑ BP ↑ SVR ↑ MVO<sub>2</sub>. Acts directly as a myocardial depressant. Depresses baroreceptor reflex.|
-|**CNS**|Dissociation, analgesia, emergence phenomena (hallucinations, delirium) reduced by concurrent BDZ administration (increasing risk with higher doses and rapid administration). Produces dissociative anaesthesia within 90 seconds by dissociating thalmaocortical and limbic systems on EEG. Purposeful movements unrelated to stimulus may occur even during surgical anaesthesia.|
+|**CNS**|Dissociation, analgesia, emergence phenomena (hallucinations, delirium) reduced by concurrent BDZ administration (increasing risk with higher doses and rapid administration). <br><br>Produces dissociative anaesthesia within 90 seconds by dissociating thalmaocortical and limbic systems on EEG. Purposeful movements unrelated to stimulus may occur even during surgical anaesthesia.|
 |**Renal**|Cystitis with long-term, high-dose use|
 |**GIT**|N/V|
 
