@@ -17,7 +17,7 @@ Thiopentone acts increasing the duration of cloride channel opening at GABA<sub>
 |**Endocrine**|↓ RBF causing ↓ UO
 |**GIT**|Hepatic enzyme induction
 |**Immune**|Analphylaxis ~1;20,000
-|**Metabolic**|May precipitate acute **porphyric** crises and is **contraindicated** in these patients
+|**Metabolic**|May precipitate acute **porphyric crises** and is **contraindicated** in these patients
 |**Other**|Intraarterial injection causes microembolisation and ischaemia
 
 ---

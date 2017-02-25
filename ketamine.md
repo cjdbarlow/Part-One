@@ -1,12 +1,12 @@
 # Ketamine
 
-Ketamine is a phencyclidine derivative used for induction, sedation, and analgesia. It may aslo be used as a bronchodilator in severe asthma.
+Ketamine is a phencyclidine derivative used for induction, sedation, and analgesia. It may also be used as a bronchodilator in severe asthma.
 
 |Property|Action|
 |--|--|
 |**Class**|Phencyclidine derivative and NMDA receptor antagonist|
 |**Uses**|Induction of anaesthesia, sedation, analgesia, asthma|
-|**Presentation**| Clear, colourless solution|
+|**Presentation**| Clear, colourless solution forming an acidic solution (pH 3.5-5.5)|
 |**Isomerism**| Racemic mixture or the single S(+) enantiomer, which is 2-3x as potent as the R(-) enantiomer|
 |**Route of Administration**|IV, IM|
 |**Dosing**|Induction: 1-2mg.kg<sup>-1</sup> IV, 5-10mg.kg<sup>-1</sup> IM, Sedation: 0.2-0.5mg.kg<sup>-1</sup> IV|
