@@ -14,6 +14,17 @@ Gas cylinders are:
 * The common cylinder used in hospital is **CD**  
 This contains **460 L** of oxygen at 15°C and 137 bar.
 
+* Cylinders are not completely filled, to reduce risk of overpressure and explosions if the temperature rises
+    * The **filling ratio** is the weight of liquid in a full cylinder compared to the weight of water that would completely fill the cylinder
+        * In cool climates, the filling ratio is ~0.75
+        * In warmer climates, the filling ratio is reduced to ~0.67
+
+* Cylinders are tested for safety every 5-10 years  
+Tests include:
+    * Endoscopic examination
+    * Tensile tests  
+    1% of cylinders are destroyed to perform testing on the metal.
+
 ###Pros
 * Portable
 * Reusable
@@ -80,6 +91,31 @@ Oxygen concentrators:
 * Result in an accumulation of argon when used at low flows on a circle system
 * Require continuous power
 * Fire and explosion risk
+
+##Safety in Medical Gas Supply
+Many systems exist to ensure safety:
+* Colour coding of cylinders and hoses
+    * Oxygen is white
+    * Air is black
+    * Nitrous oxide is blue
+* Labelling of connections
+* The **pin index system**  
+Used to prevent the wrong gas yoke being connected to a cylinder
+    * Pins protrude from the back of the yoke
+    * Holes exist on the valve block
+    * Pins and holes must line up for the cylinder to be connected
+    * There are six positions, divided into two groups of three  
+    Common combinations include:
+        * Oxygen: 2-5
+        * Air: 1-5
+        * Nitrous oxide: 3-5
+* **Non-Interchangeable Screw Thread** (NIST)  
+Used when connecting pipeline gases.
+    * NIST connectors have a probe and a nut
+    * Probe diameter is gas-specific, preventing the wrong gas from being connected
+
+
+
 
 ---
 ##References
