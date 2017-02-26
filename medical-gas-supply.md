@@ -3,7 +3,18 @@
 > <p style="color:purple";>Describe the supply of medical gases (bulk supply and cylinder) and features to ensure supply safety including pressure valves and regulators and connection systems</p>
 
 ##Production
-
+###Fractional Distillation
+Oxygen is produced on the industraial scale by fractional distillation of atmospheric air. This process:
+* Relies on the fact that **different gases** have **different boiling points**  
+By liquifying air and then heating it gradually, each gas can be removed separately.
+* Occurs in stages:    
+    * Atmospheric air  is filtered
+    Removes dust and other contaminants.
+    * Air is compressed to **6 atm** and then cooled to below ambient temperature  
+    Water vapour condenses and then can be removed.
+    * Compressed air passed through a **zeolite seive** which removes CO<sub>2</sub>
+    * Compressed air is allowed to reexpand  
+    As it does so it cools, as per **Gay-Lussac's Law**
 ###Oxygen Concentrator
 Oxygen concentrators:
 * Produce up to 95% oxygen from air by removing nitrogen
@@ -23,8 +34,6 @@ Oxygen concentrators:
 * Result in an accumulation of argon when used at low flows on a circle system
 * Require continuous power
 * Fire and explosion risk
-
-
 
 ##Storage
 ###Medical Gas Cylinders
