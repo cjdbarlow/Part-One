@@ -10,11 +10,23 @@ By liquifying air and then heating it gradually, each gas can be removed separat
 * Occurs in stages:    
     * Atmospheric air  is filtered
     Removes dust and other contaminants.
-    * Air is compressed to **6 atm** and then cooled to below ambient temperature  
+    * Air is **compressed** to **6 atm** and **then cooled** to below ambient temperature  
     Water vapour condenses and then can be removed.
     * Compressed air passed through a **zeolite seive** which removes CO<sub>2</sub>
     * Compressed air is allowed to reexpand  
-    As it does so it cools, as per **Gay-Lussac's Law**
+    As it does so it loses energy as per **Gay-Lussac's Law**, and liquifies.
+        * Air must be cooled below the boiling point of the desired gases
+        This requires getting gases very cold, and so the process may be mechanically assisted using a turbine, and/or a heat exchanger. Key boiling points (at 1 atm):
+            * Nitrogen: 77°K
+            * Oxygen:  90°K
+            * Helium: 4°K  
+            Helium *can* be produced by fractional distillation, but liquifying it is understandably difficult given the very, very low boiling point. Helium can be mined, as helium produced by alpha decay of radioactive materials may be trapped in gas pockets under the earth.
+    * Liquid air is then **fractionally distilled**  
+    Temperature of liquid air is raised slowly.
+        * As the boiling point of each gas is reached (e.g. 77°K for nitrogen), that gas will begin to vaporise from the liquid, and can be collected
+        * The remaining liquid can then be further heated, until the boiling point for the next gas is reached
+        * This process can be repeated until all the desired gases have been separated
+    
 ###Oxygen Concentrator
 Oxygen concentrators:
 * Produce up to 95% oxygen from air by removing nitrogen
@@ -134,3 +146,4 @@ Used when connecting pipeline gases.
 ---
 ##References
 Aston
+http://www.essentialchemicalindustry.org/chemicals/oxygen.html
