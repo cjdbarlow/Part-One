@@ -30,6 +30,7 @@
     * [Metabolism](metabolism.md)
     * [Elimination](elimination.md)
     * [Bolus and Infusion Kinetics](intravenous_bolus_and_infusion_kinetics.md)
+    * [Target Controlled Infusions](target-controlled-infusions.md)
     * [Drug Monitoring](drug_monitoring.md)
   * [Pharmacodynamics](receptor_theory.md#id)
     * [Receptor Theory](receptor_theory.md)
