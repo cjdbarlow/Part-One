@@ -33,21 +33,20 @@ At the end of pregnancy, the PO<sub>2</sub> of placental blood is 50mmHg, and th
 Contains **two gamma subunits** instead of beta subunits. These prevent the binding of 2,3-DPG, which result in a **left-shifted Oxy-Haemoglobin dissociation curve**, favouring oxygen loading at a low PaO<sub>2</sub>.
 
 * Foetal [Hb] is 50% greater than maternal [Hb]
+ 
 
-
-* The **Double-Bohr** effect:
-    * An increase in PaCO<sub>2</sub> right-shifts the oxyhaemoglobin dissociation curve, favouring O<sub>2</sub> (Bohr effect)
-    * In the placenta, foetal CO<sub>2</sub> diffuses to maternal blood down its concentration gradient
-    * This makes **foetal blood relatively alkaline, and maternal blood relatively acidic**
+* The **Double-Bohr** effect:  
+The Bohr effect states that an **increase** in **PaCO<sub>2</sub>** **right-shifts** the oxyhaemoglobin dissociation curve. Conversely, the affinity of Hb for O<sub>2</sub> increases in alkalaemia. The double Bohr effect refers to this happening in opposite directions in the foetal and maternal circulations:
+    * In the placenta, foetal CO<sub>2</sub> diffuses into maternal blood down its concentration gradient  
+    This makes **foetal blood relatively alkaline, and maternal blood relatively acidic**. Therefore:
       * O<sub>2</sub> unloading of maternal blood is favoured
       * O<sub>2</sub> loading of foetal blood is favoured
-      * Therefore the Bohr effect has twice the effect that it would in the lungs
-
 
 ####CO<sub>2</sub> Diffusion
 CO<sub>2</sub> is extremely lipid soluble, and so passes easily across membranes. Foetal PaCO<sub>2</sub> is ~50mmHg, and intervillous PCO<sub>2</sub> is ~37mmHg. CO<sub>2</sub> offloading is favoured in the foetus by:
 * A high Foetal [Hb] increases the amount of CO<sub>2</sub> that can be carried as carbaminohaemoglobin
-* The **Double-Haldane** effect:
+* The **Double-Haldane** effect:  
+The Haldane effect states that deoxygenated Hb binds CO<sub>2</sub> with more affinity than oxygenated Hb.
     * Deoxy-Hb has 3.5x the affinity for CO<sub>2</sub> than Oxy-Hb. This favours CO<sub>2</sub> loading at the tissues, and unloading at the lungs.
     * As maternal blood releases O<sub>2</sub>, this favours maternal loading of CO<sub>2</sub> without an increase in maternal PCO<sub>2</sub> (Haldane effect).
     * The release of CO<sub>2</sub> from the foetal Hb favours O<sub>2</sub> loading, which in turn favours further maternal O<sub>2</sub> release.
