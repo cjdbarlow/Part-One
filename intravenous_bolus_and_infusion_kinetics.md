@@ -32,31 +32,78 @@ As seen, above starting an infusion at the rate required to maintain steady stat
 $$ Loading \ dose = V_D.C_{target} $$
 
 ##Stopping an Infusion
-The decline in effect site concentration when an infusion is stopped is a function of:
-* Plasma concentration
-* The rate constant for the effect compartment (**k<sub>e0</sub>**)
+For a bi-exponential model (i.e. only one peripheral compartment), decline in plasma concentration can be modelled by the equation $$ C = Ae^{- \alpha t} + Be^{- \beta t}$$. In this model:
+* $$\alpha$$ is the time-constant for redistribution  
+If an infusion has reached steady state, then 
+* $$\beta$$ is the time-constant for **terminal elimination**
+* Neither $$\alpha$$ or $$\beta$$ correspond to any rate constant, but give rise to the terms redistribution half-life (t<sub>1/2α</sub>) and terminal elimination half-life (t<sub>1/2β</sub>)
 
-The decline in plasma concentration when an infusion is stopped is a function of:
-* The **rate constant** for **elimination** from plasma (k<sub>10</sub>)
-* The **amount of drug** in plasma
-* Rate constants for distribution to peripheral compartments (k<sub>12</sub> and k<sub>13</sub>)
-* The amount of drug in peripheral compartments
-* Rate constants for redistribution back to plasma (k<sub>21</sub> and k<sub>31</sub>)
+GRAPH PAGE 61 PECK AND HILL
 
+Factors affecting rate of offset of an infusion can be classified into pharmacokinetic, pharmacodynamic, and other drug factors:
+* **Pharmacokinetic factors**
+  * Distribution
+    * **V<sub>D</sub>**  
+    High V<sub>D</sub> will decrease clearance from central compartment. Factors affecting V<sub>D</sub> include:
+      * Ionisation  
+      Ion trapping can cause drug to be sequestered.
+      * Protein binding  
+      * Lipid solubility
+    * **Redistribution**  
+    During an infusion, peripheral compartments become saturated with drug. When an infusion ceases, drug is redistributed central compartment.
+      * This is related to **context-sensitive half time** (see below)
+  * Metabolism
+    * Route of clearance  
+      * Organ-dependent
+        * Organ failures
+        * Extraction ratio
+        * Organ blood flow
+      * Organ-independent
+      * Saturatable kinetics  
+      Zero-order kinetics.
+    * Presence of active metabolites
+  * Elimination  
+  Overlaps with metabolism.
+    * Route of clearance of active drug or active metabolites
+      * Organ failures
+* **Pharmacodynamic Factors**
+  * Age  
+    * Fat  
+    V<sub>D</sub>
+    * CO  
+    Organ blood flow.
+    * Sensitivity  
+    Dose required for effect and dose required for recovery.
+  * Sex  
+    * Fat
+  * Co-morbidities
+    * Organ failiures
+    * Pregnancy
+* **Other drug factors**  
+  * Pharmacokinetic interactions
+    * Enzyme inhibition/induction
+  * Pharmacodynamic interaction
+    * Drug tolerances
+      * Tachyphylaxis
+  * Drug action  
+  Drugs which alter gene or receptor expression, or bind irreversibly (e.g. clopidogrel) may show ongoing effects even after the drug has left the system.
+    
 
-##Context-sensitive half time
-Modeling the decline in plasma concentration on cessation of an infusion is complex, as it is dependent on multiple processes.
-
-**Context-sensitive half time** describes the variability in plasma concentrations after ceasing an infusion. It is used because terminal elimination half-life has little clinical utility for predicting drug offset.
-
-Context-sensitive half time is defined as the time for plasma concentration to fall to half of its value at the time of stopping an infusion. The "context" is the duration of infusion. It is dependent on:
-* **Duration of infusion**  
-  During an infusion, drugs distribute out of plasma into tissues. Following cessation, plasma drug is metabolised and tissue drug redistributes back into plasma. The longer an infusion, the more drug has distributed out of tissues, and the longer the redistribution phase will be. The longest context-sensitive half time occurs when an infusion is at steady-state.
-
-* **Redistribution**  
+###Context-sensitive half time
+**Context-sensitive half time** is:
+* A method to describe the variability in plasma concentrations after ceasing an infusion  
+The "**context**" is the **duration of infusion**.
+* Used because terminal elimination half-life has little clinical utility for predicting drug offset
+* **Defined** as the time for plasma concentration to fall to half of its value at the time of stopping an infusion  
+* Dependent on:
+  * **Duration of infusion**  
+  During an infusion, drugs distribute out of plasma into tissues. When the infusion ceases, drug is cleared from plasma and tissue drug redistributes back into plasma.
+    * The longer an infusion, the more drug has distributed out of tissues, and the longer the redistribution phase
+    * The longest context-sensitive half time occurs when an infusion is at steady-state
+  * **Redistribution**  
   The maximal CSHT reached depends on the:
-    * **V<sub>D</sub>ss**, i.e. the volume of distribution at steady state  
-    Drugs with a largeer volume of distribution have a longer CSHT, as only a small proportion of the drug in the body will be in plasma and be available to be cleared.
+    * **V<sub>D</sub><sup>ss</sup>**  
+    Drugs with a larger V<sub>D</sub><sup>ss</sup>* have a longer CSHT, as only a small proportion of the drug in the body will be in plasma and be is able to be cleared.
     * **Rate constant for elimination**  
     Drugs with a smaller rate constant for elimination have a longer CSHT.
 
@@ -64,11 +111,8 @@ Drugs with longer context-sensitive half-times will wear off less predictably.
 
 ![Context-sensitive half times: from: Hill SA. Pharmacokinetics of Drug Infusions. Contin Educ Anaesth Crit Care Pain (2004)](http://i.imgur.com/tfPtCad.jpg)[^3]
 
-> Propofol has a context sensitive half time of ~20 minutes.
-
-<!--></!-->
-
-> Remifentanil has little redistribution and small a small Vd in the peripheral compartments, and so has a very short context-**in**sensitive half time. It wears off reliably and quickly following cessation of infusion.
+* Propofol has a context sensitive half time of ~20 minutes.
+* Remifentanil has little redistribution and small a small Vd in the peripheral compartments, and so has a very short context-**in**sensitive half time. It wears off reliably and quickly following cessation of infusion.
 
 ---
 
