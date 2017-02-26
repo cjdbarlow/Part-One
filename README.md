@@ -30,11 +30,12 @@ Covers statistics, physiology, equipment and measurement, and anatomy.
     * Topics covered by the page are listed at the beginning of each page
 > A grey block indicates a topic is from the CICM curriculum OR both curricula
 > <p style="color:purple";>A purple block indicates a topic is ONLY from the ANZCA curriculum
-    
+
+        
 * **Pharmacopia**  
 Covers drugs.
     * For the sake of consistency, the "physiological" bits of pharmacology are found in the curriculum, i.e. "factors which affect neuromuscular blockade" will be found in the curriculum, whilst a "comparison of neuromuscular blockers" will be found in the pharmacopia. If lost, use the search box.
-    
+
     
 * **Appendices**  
 Has a list of common abbreviations, definitions, graphs and equations you should know, and sample structures for SAQs.
