@@ -28,8 +28,8 @@ Covers statistics, physiology, equipment and measurement, and anatomy.
     * Pages are laid out using the section and topic titles and the order from the CICM curriculum (it is laid out better than the ANZCA curriculum)
     * When a topic is only examinable in the ANZCA curriculum, it has been slotted in somewhere sensible
     * Topics covered by the page are listed at the beginning of each page
-<code>A grey block indicates a topic is from the CICM curriculum OR both curricula</code>
-<code><p style="color:purple";>A purple block indicates a topic is ONLY from the ANZCA curriculum</p></code>
+> A grey block indicates a topic is from the CICM curriculum OR both curricula
+> <p style="color:purple";>A purple block indicates a topic is ONLY from the ANZCA curriculum
     
 * **Pharmacopia**  
 Covers drugs.
