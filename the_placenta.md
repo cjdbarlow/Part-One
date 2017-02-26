@@ -47,7 +47,7 @@ CO<sub>2</sub> is extremely lipid soluble, and so passes easily across membranes
 * A high Foetal [Hb] increases the amount of CO<sub>2</sub> that can be carried as carbaminohaemoglobin
 * The **Double-Haldane** effect:  
 The Haldane effect states that deoxygenated Hb binds CO<sub>2</sub> with more affinity than oxygenated Hb.
-    * Deoxy-Hb has 3.5x the affinity for CO<sub>2</sub> than Oxy-Hb. This favours CO<sub>2</sub> loading at the tissues, and unloading at the lungs.
+
     * As maternal blood releases O<sub>2</sub>, this favours maternal loading of CO<sub>2</sub> without an increase in maternal PCO<sub>2</sub> (Haldane effect).
     * The release of CO<sub>2</sub> from the foetal Hb favours O<sub>2</sub> loading, which in turn favours further maternal O<sub>2</sub> release.
 
