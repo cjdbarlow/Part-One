@@ -2,7 +2,32 @@
 
 > <p style="color:purple";>Describe the supply of medical gases (bulk supply and cylinder) and features to ensure supply safety including pressure valves and regulators and connection systems</p>
 
-##Medical Gas Cylinders
+##Production
+
+###Oxygen Concentrator
+Oxygen concentrators:
+* Produce up to 95% oxygen from air by removing nitrogen
+* Built using two **zeolite lattices**
+    * Pressurised air is filtered through one lattice
+        * Nitrogen and water vapour are retained in the lattice
+        * Oxygen and **argon** are concentrated  
+        Produces a 95% oxygen/5% argon mixture.
+    * The unused column is heated to release the bound nitrogen and water
+
+####Pros
+* Cheap
+* Reliable
+* Avoid need for oxygen deliery
+
+####Cons
+* Result in an accumulation of argon when used at low flows on a circle system
+* Require continuous power
+* Fire and explosion risk
+
+
+
+##Storage
+###Medical Gas Cylinders
 Gas cylinders are:
 * Made from chromium molybdenum or aluminium
 * Used as:
@@ -25,28 +50,28 @@ Tests include:
     * Tensile tests  
     1% of cylinders are destroyed to perform testing on the metal.
 
-###Pros
+####Pros
 * Portable
 * Reusable
 
-###Cons
+####Cons
 * Heavy
 * Limited supply
 
-##Cylinder Manifolds
+###Cylinder Manifolds
 Cylinder manifolds are formed of sets of large gas cylinders used in parallel.
 * All cylinders in a group are used together
 * When the pressure falls below a level, a valve will start drawing gas from another cylinder group
 
-###Pros
+####Pros
 * Cheap
 * Useful as a backup supply
 
-###Cons
+####Cons
 * Less capacity than a VIE
 * Fire and explosion risk
 
-##Vacuum Insulated Evaporator
+###Vacuum Insulated Evaporator
 The VIE:
 * Stores **liquid oxygen**  
 It is **vacuum insulated** as it must keep oxygen below its critical temperature (-119°C). The VIE typically stores oxygen between -160°C and -180°C.
@@ -61,35 +86,15 @@ Instead it is cooled by:
     * This is simply an uninsulated pipe exposed to the outside temperature
 
 
-###Pros
+####Pros
 * Cheapest option for oxygen delivery and storage
     * Storing oxygen as a liquid is much more efficient than as a gas
     * Does not require power
 
-###Cons
+####Cons
 * Set-up costs are expensive
 * Requires a back-up setup
 * Will waste large volumes of oxygen if not being used continuously
-* Fire and explosion risk
-
-##Oxygen Concentrator
-Oxygen concentrators:
-* Produce up to 95% oxygen from air by removing nitrogen
-* Built using two **zeolite lattices**
-    * Pressurised air is filtered through one lattice
-        * Nitrogen and water vapour are retained in the lattice
-        * Oxygen and **argon** are concentrated  
-        Produces a 95% oxygen/5% argon mixture.
-    * The unused column is heated to release the bound nitrogen and water
-
-###Pros
-* Cheap
-* Reliable
-* Avoid need for oxygen deliery
-
-###Cons
-* Result in an accumulation of argon when used at low flows on a circle system
-* Require continuous power
 * Fire and explosion risk
 
 ##Safety in Medical Gas Supply
