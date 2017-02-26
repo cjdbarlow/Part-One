@@ -48,14 +48,11 @@ $$Hb + CO_2 \Leftrightarrow HbCOO^- + H^+ $$
   * The H<sup>+</sup> ion is then buffered by another plasma protein (also predominantly haemoglobin)  
     $$Hb + H^+ \Leftrightarrow HHb $$
 * Bound CO<sub>2</sub> no longer contributes to the partial pressure gradient
-* This is a small contributor to overall CO<sub>2</sub> carriage, but contributes about one third of the arterio-venous CO<sub>2</sub> difference due to the **Haldane effect**:  
-DeoxyHb binds CO<sub>2</sub> more effectively than oxyHb. This is because:
+* This is a small contributor to overall CO<sub>2</sub> carriage, but contributes about one third of the arterio-venous CO<sub>2</sub> difference due to the **Haldane effect**:  The Haldane effect states that deoxyHb binds CO<sub>2</sub> more effectively than oxyHb. This is because:
   * DeoxyHb is a **better buffer** of **H<sup>+</sup>**  
   pKa of deoxyHb is 8.2, compared to that of oxyHb which is 6.6.
   * DeoxyHb forms carbamino coumpounds more easily
   Deoxy-Hb has 3.5x the affinity for CO<sub>2</sub> than Oxy-Hb.
-  * The Haldane effect favours CO<sub>2</sub> loading at the tissues, and unloading at the lungs
-
 ###CO<sub>2</sub> Dissociation Curve
 This curve plots PCO<sub>2</sub> against blood CO<sub>2</sub> content in ml.100ml<sup>-1</sup>.
 
