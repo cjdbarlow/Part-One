@@ -34,7 +34,7 @@ Covers statistics, physiology, equipment and measurement, and anatomy.
         
 * **Pharmacopia**  
 Covers drugs.
-    * For the sake of consistency, the *general principles* of pharmacology are contained in the curriculum, whilst the specifics of different agents will be found in the pharmacopia. If lost, use the search box.
+    * For the sake of consistency, the *general principles* of pharmacology are covered in the curriculum, whilst the specifics of different agents will be found in the pharmacopia. If lost, use the search box.
 
     
 * **Appendices**  
