@@ -254,7 +254,7 @@
   * [Antidepressants](antidepressants.md)
   * [Antipsychotics](antipsychotics.md)
   * [Anticonvulsants](anticonvulsants.md)
-  * Inhalational Anaesthetics
+  * [Inhalational Anaesthetics](inhalational-anaesthetics.md)
 * [Analgesics](opioids.md#id)
   * [Opioids](opioids.md)
   * [COX Inhibitors](cox_inhibitors.md)
