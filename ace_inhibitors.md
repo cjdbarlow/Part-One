@@ -32,7 +32,6 @@ Ramipril
 Lisinopril
 
 ##Common Features of ACE Inhibitors
-
 |Property|Drug
 |--|--|
 |**Resp**|Bradykinin cough
