@@ -15,6 +15,10 @@
 
 <!--></!-->
 
+> Describe how the pharmacokinetics of drugs commonly used in anaesthesia in neonates and children differ from adults and the implications for anaesthesia
+
+<!--></!-->
+
 > <p style="color:purple";>Properties of an ideal inhalational anaesthetic agent</p>
  
 Inhaled anaesthetics are chemicals with general anaesthetic properties that can be delivered by inhalation. They can be divided into:
