@@ -30,6 +30,7 @@ Volatility refers to the tendency of a liquid to vaporise. Volatile agents inclu
     * Methoxyflurane
     * Enflurane
     * Halothane
+    * Ether
 * Anaesthetic gases
     * Nitrous oxide
     * Xenon
