@@ -35,19 +35,8 @@ Volatility refers to the tendency of a liquid to vaporise. Volatile agents inclu
     * Nitrous oxide
     * Xenon
     
-##Pharmacokinetics
+##Key Principles of Inhalational Agents
 Key principles:
-* A **partition coefficient** describes the **relative affinity** of an agent for two phases  
-The partition coefficient is **defined** as the **ratio of the concentration** of agent in each phase when the **partial pressures are in equilibrium**.
-    * The **blood-gas partition coefficient** describes the solubility of the agent in blood relative to air  
-    A **high** blood-gas partition coefficient: 
-        * Indicates an agent is more soluble in blood
-        * Leads to a greater uptake of agent into the pulmonary circulation and therefore a **reduction in P<sub>A</sub>**  
-        The fall in P<sub>A</sub> **prolongs** both **induction** and **recovery**.
-            * This might feel counterintuitive, but think of it like this:
-                * If the agent is highly soluble in blood, a lot of the delivered agent will be soaked up in blood, where it has no effect
-                * Conversely, if the agent is poorly soluble in blood, then the blood 'compartment' will be saturated quickly, and the agent will instead dissolve into the CNS    
-    
 * The **clinical effect** of an inhalational agent **is dependent on** its **partial pressure** within the CNS
 * **At equilibrium**, the partial pressure in the CNS (**P<sub>B</sub>**) **equals** the partial pressure in blood (**P<sub>a</sub>**), and in the alveoli (**P<sub>A</sub>**)  
 Reaching equilibrium is rarely achieved in practice as it takes many hours.
@@ -56,10 +45,77 @@ Reaching equilibrium is rarely achieved in practice as it takes many hours.
     * From the alveoli into blood
     * From blood into the CNS
 
-Increasing P<sub>A</sub> will increase the pressure gradient for diffusion into blood, and therefore CNS. P<sub>A</sub> is dependent on:
+###Minimum Alveolar Concentration (MAC)
+MAC is **defined** as the minimum alveolar concentration at **steady state** which prevents a movement response to a standard surgical stimulus (midline incision) in 50% of a population.
+
+Note that this definition:
+* Does not reflect lack of awareness  
+Reflects the action of an agent on spinal cord reflexes.
+* Consciousness is better estimated by MAC-awake  
+End-tidal concentration of agent that prevents appropriate responses to a verbal command in 50% of a population.
+    * Note that this technically measures *awareness* rather than memory.
+    * **MAC-awake** is typically **one-third** of **MAC**
+* Is only valid at **sea-level**  
+The **clinical effect** of an agent is **dependent** on its **partial pressure *not* **concentration**.
+    * At 1atm, these are almost the same  
+    1atm ≃ 100kPa; therefore 2% sevoflurane is ≃ 2kPa
+    * As altitude increases, the actual partial pressure will fall for any given concentration
+    i.e. 2% sevoflurane at 0.5atm is ≃ 1kPa of sevoflurane.
+
+MAC is:
+* A measure of potency  
+The MAC of an agent is inversely proportional to potency; i.e. more potent agents require smaller alveolar concentrations to produce anaesthesia.
+    * This gives rise to the **Meyer-Overton hypothesis**, which suggests that anaesthesia requires a sufficient number of molecules to dissolve into the neuronal cell membrane.
+        * If this was true, the product of the oil:gas partition coefficient and MAC would be constant, which is not the case.
+* Additive  
+The MACs of different agents used simultaneously are aditive.
+* Normally-distributed  
+Not all patients will be unresponsive at 1 MAC.
+* One of several related terms:
+    * MAC awake  
+    * MAC-BAR  
+    Minimum alveolar concentration required to **b**lock **a**drenergic **response**, i.e. to prevent a rise in HR or BP following skin incision.
+    * MAC<sub>95</sub>  
+    The MAC required to prevent a movement response to a standard surgical stimulus in 95% of the ppulation.
+* Estimated clinically using end-tidal gas measurement
+
+####Factors Affecting MAC
+|Decreases MAC|Increases MAC|
+|---|---|
+|Age (10%/10 years)|Youth
+|Hypothermia|Hyperthermia|
+|Hypocapnoea|Hypercapnoea|
+|Hyponatraemia|Hypernatraemia|
+|Hypothyroidism|Hyperthyroidism|
+|Hypovolaemia||
+|Hypoxia||
+|Anaemia||
+|Acute alcohol intoxication, and other CNS depressants|Chronic ETOH and CNS depressant abuse|
+|Pregnancy|SNS activation and anxiety
+||Increased P<sub>atm</sub>
+
+
+###Partition Coefficients
+A **partition coefficient** describes the **relative affinity** of an agent for two phases, and is **defined** as the **ratio of the concentration** of agent in each phase when the **partial pressures are in equilibrium**.
+    * The **blood:gas partition coefficient** describes the solubility of the agent in blood relative to air  
+    A **low** blood:gas partition coefficient indicates a **rapid** onset and offset. This is because:
+        * Poorly soluble agents generate a high P<sub>a</sub>, which creates a steep gradient between P<sub>a</sub> and P<sub>B</sub>, giving a rapid onset of action
+        * Conversely, soluble agents dissolve easily into pulmonary blood without substantially increasing P<sub>a</sub>.  
+        This causes leads to a slow onset due to:
+            * A large fall in P<sub>A</sub> as the agent leaves the alveolus, decreasing the gradient for further diffusion
+            * A small gradient between P<sub>a</sub> and P<sub>B</sub><br><br>
+    * The **oil:gas partition coefficient** describes the solubility of the agent in fat relative to air  
+    A **high** oil:gas partition coefficient indicates a greater potency, and therefore a low MAC.
+
+
+##Pharmacokinetics of Inhalational Agents
+Achieving the required P<sub>B</sub> requires maintaining P<sub>A</sub> at a high enough level. By increasing P<sub>A</sub>, the pressure gradient for diffusion into blood, and therefore CNS, is increased.
+
+The P<sub>A</sub> is dependent on:
 * **Alveolar concentration of agent**  
     * Inspired concentration  
     A high inspired concentration (*F*<sub>i</sub>) will increase the rate of increase of alveolar concentration (*F*<sub>A</sub>. Inspired concentration is dependent on:
+        * Delivered concentration in fresh gas
         * Fresh gas flow  
         **Increasing FGF** (and the concentration of agent in the added gas) *F*<sub>i</sub>.
         * Volume of the breathing system  
@@ -73,7 +129,7 @@ Increasing P<sub>A</sub> will increase the pressure gradient for diffusion into 
 
 * **Drug uptake from the lungs**  
     * Blood-gas partition coefficient  
-    A **high** blood-gas partition coefficient **prolongs** both induction and recovery. The blood-gas coefficient is affected by:
+    A **high** blood:gas partition coefficient **prolongs** both induction and recovery. The blood-gas coefficient is affected by:
         * Temperature
         * Haematocrit  
         Variable effect, which depends on the particular agents affinity for red cells or plasma (and serum constituents, e.g. albumin).
@@ -91,7 +147,12 @@ Increasing P<sub>A</sub> will increase the pressure gradient for diffusion into 
             * Fat has a much higher affinity for anaesthetic than muscle, but equilibrates very slowly due to the very low blood flow  
             This has a greater effect in obese people, especially during prolonged anaesthesia, as they have a longer equilibration time and therefore prolonged emergence.
     * Second gas effect  
-    Use of nitrous oxide with another agent will increase the P<sub>A</sub> of that agent.
+    Use of nitrous oxide with another agent will increase the P<sub>A</sub> of that agent. This is because:
+        * Nitrous oxide is **20x** as soluble in blood as either blood or nitrogen, and so is rapidly absorbed from alveoli
+        * If nitrous oxide is delivered at high concentrations, it's rapid absorption means that alveoli will **shrink**, causing:
+            * An increase in the fractional concentration of all other gases  
+            This increases the pressure gradient driving diffusion into blood, increasing speed of onset.
+            * Augmented ventilation as more inhalational agent is drawn in the alveoli.
     
 ###Alteration to Pharmacokinetics in Children and the Elderly
 Increased rate of induction in children due to:
@@ -129,28 +190,13 @@ Anaesthetic agents may alter the function of molecules within the CNS. These inc
     * Enhance the activity of two-pore K<sup>+</sup> channels  
     Increases the resting membrane potential of both pre-synaptic and post-synaptic CNS neurons.
 
-##Pharmacodynamics of Inhaled Anaesthetic Agents
-
-###Minimum Alveolar Concentration (MAC)
-MAC is **defined** as the minimum alveolar concentration at **steady state** which prevents a movement response to a standard surgical stimulus (midline incision) in 50% of a population. Note that this definition:
-* Does not reflect lack of awareness  
-Reflects the action of an agent on spinal cord reflexes.
-* Consciousness is better estimated by MAC-awake  
-End-tidal concentration of agent that prevents appropriate responses to a verbal command in 50% of a population.
-    * Note that this technically measures *awareness* rather than memory.
-    * **MAC-awake** is typically **one-third** of **MAC**
-* Is only valid at **sea-level**  
-The **clinical effect** of an agent is **dependent** on its **partial pressure *not* **concentration**.
-    * At 1atm, these are almost the same  
-    1atm ≃ 100kPa; therefore 2% sevoflurane is ≃ 2kPa
-    * As altitude increases, the actual partial pressure will fall for any given concentration  
-    i.e. 2% sevoflurane at 0.5atm is ≃ 1kPa of sevoflurane.
-MAC is:
-* A measure of potency
-
 ##The Ideal Inhaled Anaesthetic Agent
 From the properties discussed above, we can construct the following ideal agent:
 * Physicochemical
+    * Liquid at room temperature
+    * High SVP
+    * Low specific heat capacity
+    * Long shelf-life
     * Light stable
     * Heat stable
     * Does not react with the components in the breathing circuit
@@ -166,7 +212,8 @@ From the properties discussed above, we can construct the following ideal agent:
 * Pharmacokinetic
     * High oil:gas partition coefficient  
     Low MAC.
-    * Low blood:gas partition coefficient
+    * Low blood:gas partition coefficient  
+    Rapid onset and offset.
     * Not metabolised
     * Non-toxic
 * Pharmacodynamic
@@ -176,7 +223,12 @@ From the properties discussed above, we can construct the following ideal agent:
     * Hypnotic
     * Amnestic
     * Anti-epileptic
+    * No increase in ICP
+    * Skeletal muscle relaxation
     * Anti-emetic
+    * No tocolytic effects
+    * Not teratogenic or otherwise toxic
+* No drug interactions
 
 ##References
 Pharmacology of anaesthetic agents II: inhalation anaesthetic agents
