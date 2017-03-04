@@ -79,10 +79,21 @@ Increasing P<sub>A</sub> will increase the pressure gradient for diffusion into 
         As the CNS has a high blood flow, it will equilibrate more quickly.
         * Blood:tissue solubility coefficients
             * Muscle has a similar affinity as blood, but equilibrates more slowly than the CNS due to lower blood flow
-            * Fat has a much higher affinity for anaesthetic than muscle, but equilibrates very slowly due to the very low blood flow
-    * Second gas effect
+            * Fat has a much higher affinity for anaesthetic than muscle, but equilibrates very slowly due to the very low blood flow  
+            This has a greater effect in obese people, especially during prolonged anaesthesia, as they have a longer equilibration time and therefore prolonged emergence.
+    * Second gas effect  
+    Relates specifically to nitrous oxide.
     
-
+###Alteration to Pharmacokinetics in Children and the Elderly
+Increased rate of induction in children due to:
+* Increased V<sub>A</sub>/FRC ratio  
+Increases P<sub>A</sub>.
+* Lower albumin and cholesterol  
+Reduced blood-gas solubility coefficients.
+    
+Increased rate of induction in elderly due to:
+* Lower MAC requirement
+* Lower albumin
 
 
 ##Mechanism of Action
