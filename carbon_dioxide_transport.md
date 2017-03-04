@@ -13,7 +13,7 @@
 > Describe the movement of carbon dioxide from blood to the atmosphere
 
 CO<sub>2</sub> is produced in the mitochondria during the citric-acid cycle as a product of metabolism.
-* There is**~120L** of carbon dioxide in the body  
+* There is **~120L** of carbon dioxide in the body  
 1.8L.kg<sup>-1</sup>, 1.6L.kg<sup>-1</sup> of which is in relatively inaccessible compartments.
 * Normal elimination (and, at steady state, production) of carbon dioxide is **200ml.min<sup>-1</sup>**
 
