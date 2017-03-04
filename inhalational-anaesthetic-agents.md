@@ -82,7 +82,7 @@ Increasing P<sub>A</sub> will increase the pressure gradient for diffusion into 
             * Fat has a much higher affinity for anaesthetic than muscle, but equilibrates very slowly due to the very low blood flow  
             This has a greater effect in obese people, especially during prolonged anaesthesia, as they have a longer equilibration time and therefore prolonged emergence.
     * Second gas effect  
-    Relates specifically to nitrous oxide.
+    Use of nitrous oxide with another agent will increase the P<sub>A</sub> of that agent.
     
 ###Alteration to Pharmacokinetics in Children and the Elderly
 Increased rate of induction in children due to:
@@ -96,7 +96,7 @@ Increased rate of induction in elderly due to:
 * Lower albumin
 
 
-##Mechanism of Action
+##Mechanism of Action of Inhaled Anaesthetic Agents
 Mechanisms of action can be divided into:
 * **Macroscopic**  
 At the level of the brain and spinal cord.
@@ -120,9 +120,24 @@ Anaesthetic agents may alter the function of molecules within the CNS. These inc
     * Enhance the activity of two-pore K<sup>+</sup> channels  
     Increases the resting membrane potential of both pre-synaptic and post-synaptic CNS neurons.
 
-##Minimum Alveolar Concentration (MAC)
-The MAC is
+##Pharmacodynamics of Inhaled Anaesthetic Agents
 
+###Minimum Alveolar Concentration (MAC)
+MAC is **defined** as the minimum alveolar concentration at **steady state** which prevents a movement response to a standard surgical stimulus (midline incision) in 50% of a population. Note that this definition:
+* Does not reflect lack of awareness  
+Reflects the action of an agent on spinal cord reflexes.
+* Consciousness is better estimated by MAC-awake  
+End-tidal concentration of agent that prevents appropriate responses to a verbal command in 50% of a population.
+    * Note that this technically measures *awareness* rather than memory.
+    * **MAC-awake** is typically **one-third** of **MAC**
+* Is only valid at **sea-level**  
+The **clinical effect** of an agent is **dependent** on its **partial pressure *not* **concentration**.
+    * At 1atm, these are almost the same  
+    1atm ≃ 100kPa; therefore 2% sevoflurane is ≃ 2kPa
+    * As altitude increases, the actual partial pressure will fall for any given concentration  
+    i.e. 2% sevoflurane at 0.5atm is ≃ 1kPa of sevoflurane.
+MAC is:
+* A measure of potency
 
 ##The Ideal Inhaled Anaesthetic Agent
 From the properties discussed above, we can construct the following ideal agent:
