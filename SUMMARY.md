@@ -139,6 +139,7 @@
     * [Anticonvulsants](anticonvulsantsmoa.md)
     * [Local Anaesthetics](local-anaesthetics.md)
     * [Neuromuscular Blockers](neuromuscular_blockers.md)
+    * [Inhalational Anaesthetic Agents](inhalational-anaesthetic-agents.md)
 * [Endocrine](hormones.md#id)
   * [A Brief Overview of Hormones](hormones.md)
   * [Insulin, Glucagon, and Somatostatin](insulin,_glucagon,_and_somatostatin.md)
