@@ -176,3 +176,14 @@ From the properties discussed above, we can construct the following ideal agent:
     * Hypnotic
     * Amnestic
     * Anti-epileptic
+    * Anti-emetic
+
+##References
+Pharmacology of anaesthetic agents II: inhalation anaesthetic agents
+Petkov
+Peck and Hill
+Dr. Podcast
+Millers
+
+
+
