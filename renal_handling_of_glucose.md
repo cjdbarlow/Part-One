@@ -13,8 +13,8 @@ Substance is absorbed into tubular epithelium and then secreted into blood. This
 Substance passes through the matrix of tight junctions between epithelial cells.
 
 ###Rate Limitation
-There are functional upper limits on the rate of reabsorption of substances from the tubule. There are two types of limits:
-* **Tubular Maximum-Limited (T<sub>max</sub>)**  
+There are functional upper limits on the rate of reabsorption of substances from the tubule. There are two limits:
+* **Tubular Maximum (T<sub>max</sub>) Limited **  
 Saturation of transporters occur, so a further increase in solute concentration does not increase the rate of substance reabsorption.
 
   The maximum solute concentration for a T<sub>max</sub> system is a function of the transporter.
@@ -38,9 +38,29 @@ Glucose is:
     Slowly reabsorbs glucose, but remains effective even when glucose concentration is low. It is located late in the PCT, where glucose concentration is lower (having already been reabsorbed by the high-capacity transporter).
 
 
-* Glucose reabsorption is a T<sub>max</sub> system, and is overwhelmed when plasma (and therefore filtered) glucose concentrations exceed **11mmol.L<sup>-1</sup>**
+* As GFR increases, glucose filtration and therefore glucose absorption increase
+* As glucose is co-transported with Na<sup>+</sup>, absorption of Na<sup>+</sup> and H<sub>2</sub>O also increase
+* This phenomenon is known as **glomerulo-tubular balance**
+
+
+* Glucose reabsorption is a T<sub>max</sub> system, and is overwhelmed when filtered glucose exceeds 2mmol.min<sup>-1</sup>
+  * This typically occurs when plasma (and therefore filtered) glucose concentrations exceed **12mmol.L<sup>-1</sup>**
 
 GRAPH OF GLUCOSE FLUX PAGE 66 VANDERS
+
+
+###Consequences of Glycosuria
+Glycosuria occurs when filtered glucose exceeds the capacity of the PCT to reabsorb it, and causes:
+* Loss of volume
+  * Glucose acts as an osmotic diuretic, reducing water and salt reabsorption
+  * Impairs the formation of the medullary concentration gradient, limiting concentrating capacity
+  * Stimulates ADH release
+* Electrolyte derangements
+  * Hypokalaemia due to:
+    * Reduced K<sup>+</sup> reabsorption
+    * Aldosterone release due to hypovolaemia
+* Loss of substrate for ATP generation
+* Increase risk of urinary infections
 
 ##Nitrogenous Products
 * Amino acids are reabsorbed by amino-acid transporters  
