@@ -45,5 +45,12 @@
 
 ↓ HR, ↑
 
+##References
+Pharmacology of anaesthetic agents II: inhalation anaesthetic agents
+Petkov
+Peck and Hill
+Dr. Podcast
+Millers
+
 
 
