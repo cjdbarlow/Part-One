@@ -1,4 +1,4 @@
-#Inhalational Anaesthetic Agents
+#Inhalational Anaesthetics
 
 > <p style="color:purple";>Structure-activity relationships of inhalational agents</p>
 
