@@ -96,8 +96,7 @@ Urea excretion is complex, as it has an important role in the counter current mu
   * **Weak acids** are proportionally **more ionised at a pH above their pKa**
   * **Weak bases** are proportionally **more ionised at a pH below their pKa**
   * Unionised substances are lipid soluble, and able to diffuse into tubular cells down concentration gradients
-  * Ionised substances are trapped within the lumen
-* 
+  * Ionised substances are trapped within the lumen 
 
 ---
 ##References
