@@ -254,6 +254,7 @@
   * [Antipsychotics](antipsychotics.md)
   * [Anticonvulsants](anticonvulsants.md)
   * [Inhalational Anaesthetic Agents](inhalational-anaesthetics.md)
+  * [Nitrous Oxide](nitrous-oxide.md)
 * [Analgesics](opioids.md#id)
   * [Opioids](opioids.md)
   * [COX Inhibitors](cox_inhibitors.md)

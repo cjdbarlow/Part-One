@@ -11,16 +11,16 @@
 
  <!--></!-->
 
-> Describe the concept and clinical application of MAC in relation to inhaled anaesthetic agents  
+> <p style="color:purple";>Describe the concept and clinical application of MAC in relation to inhaled anaesthetic agents</p>
 
 <!--></!-->
 
-> Describe how the pharmacokinetics of drugs commonly used in anaesthesia in neonates and children differ from adults and the implications for anaesthesia
+> <p style="color:purple";>Describe how the pharmacokinetics of drugs commonly used in anaesthesia in neonates and children differ from adults and the implications for anaesthesia</p>
 
 <!--></!-->
 
 > <p style="color:purple";>Properties of an ideal inhalational anaesthetic agent</p>
- 
+
 Inhaled anaesthetics are chemicals with general anaesthetic properties that can be delivered by inhalation. They can be divided into:
 * **Volatile** anaesthetic agents  
 Volatility refers to the tendency of a liquid to vaporise. Volatile agents include:
@@ -82,16 +82,19 @@ Not all patients will be unresponsive at 1 MAC.
 ####Factors Affecting MAC
 |Decreases MAC|Increases MAC|
 |---|---|
-|Age (10%/10 years)|Youth
+|Age (10%/10 years ↑) and neonates|Youth
 |Hypothermia|Hyperthermia|
 |Hypocapnoea|Hypercapnoea|
 |Hyponatraemia|Hypernatraemia|
 |Hypothyroidism|Hyperthyroidism|
-|Hypovolaemia||
+|Acute alcohol and other CNS depressant intoxication|Chronic ETOH and CNS depressant abuse|
+|Chronic amphetamine intake|Acute amphetamine intake|
+|Hypovolaemia/Hypotension||
+|Lithium||
 |Hypoxia||
 |Anaemia||
-|Acute alcohol intoxication, and other CNS depressants|Chronic ETOH and CNS depressant abuse|
-|Pregnancy|SNS activation and anxiety
+|Pregnancy||
+||SNS activation and anxiety
 ||Increased P<sub>atm</sub>
 
 
@@ -113,8 +116,8 @@ Achieving the required P<sub>B</sub> requires maintaining P<sub>A</sub> at a hig
 
 The P<sub>A</sub> is dependent on:
 * **Alveolar concentration of agent**  
-    * Inspired concentration  
-    A high inspired concentration (*F*<sub>i</sub>) will increase the rate of increase of alveolar concentration (*F*<sub>A</sub>. Inspired concentration is dependent on:
+    * **Inspired concentration**  
+    A high inspired concentration (*F*<sub>i</sub>) will increase the rate of increase of alveolar concentration (*F*<sub>A</sub>). Inspired concentration is dependent on:
         * Delivered concentration in fresh gas
         * Fresh gas flow  
         **Increasing FGF** (and the concentration of agent in the added gas) *F*<sub>i</sub>.
@@ -122,23 +125,29 @@ The P<sub>A</sub> is dependent on:
         A **lower circuit volume** will increase the rate at which the patient reaches equilibrium with the circuit, and therefore **increase *F*<sub>i</sub>**.
         * Circuit absorption  
         **Absorption of agent** by the circuit will **decrease *F*<sub>i</sub>**.
-    * V<sub>A</sub>  
+    * **V<sub>A</sub>**  
     Increased alveolar ventilation increases *F*<sub>i</sub>, as it replenishes agent that has been taken up into the vasculature.
-    * FRC  
+    * **FRC**  
     A **large FRC** will dilute the amount of agent inspired with each breath, and so **reduce *F*<sub>i</sub>**.
 
+
 * **Drug uptake from the lungs**  
-    * Blood-gas partition coefficient  
-    A **high** blood:gas partition coefficient **prolongs** both induction and recovery. The blood-gas coefficient is affected by:
-        * Temperature
+    * **Blood:gas partition coefficient**  
+    Agents with a low blood:gas partition coefficient reach $$F_A \over F_I$$ equilibrium more rapidly. The blood:gas coefficient is affected by:
+        * Temperature  
+        Blood:gas partition coefficients decrease as temperature increases.
         * Haematocrit  
         Variable effect, which depends on the particular agents affinity for red cells or plasma (and serum constituents, e.g. albumin).
             * An agent that is less soluble in red cells (e.g. isoflurane) will have a decreased blood-gas partition coefficient in anaemia.
-    * Alveolar blood flow  
-    Increased alveolar blood flow increases uptake and delivery to tissues, including the CNS. However, the increased uptake causes a reduction in P<sub>A</sub>. Therfore, **rate of onset** is **reduced** when **alveolar blood flow** is **high**. Alveolar blood flow is a function of:
-        * Cardiac output  
-        * Shunt
-    * Alveolar-Venous partial pressure gradient  
+    * **Alveolar blood flow**  
+    Increased alveolar blood flow increases uptake and delivery to tissues, including the CNS.
+        * However, the increased uptake causes a reduction in P<sub>A</sub>  
+        Therefore, **rate of onset** is **reduced** when **alveolar blood flow** is **high**. 
+            * This effect is more pronounced with agents with a high blood:gas partition coefficient
+            * Alveolar blood flow is a function of:
+                * Cardiac output  
+                * Shunt
+    * **Alveolar-Venous partial pressure gradient**  
     The difference in partial pressure of agent in the alveolus and venous blood is due to the uptake of drug in tissues. Tissue uptake is dependent on:
         * Tissue blood flow  
         As the CNS has a high blood flow, it will equilibrate more quickly.
@@ -146,14 +155,19 @@ The P<sub>A</sub> is dependent on:
             * Muscle has a similar affinity as blood, but equilibrates more slowly than the CNS due to lower blood flow
             * Fat has a much higher affinity for anaesthetic than muscle, but equilibrates very slowly due to the very low blood flow  
             This has a greater effect in obese people, especially during prolonged anaesthesia, as they have a longer equilibration time and therefore prolonged emergence.
-    * Second gas effect  
-    Use of nitrous oxide with another agent will increase the P<sub>A</sub> of that agent. This is because:
-        * Nitrous oxide is **20x** as soluble in blood as either blood or nitrogen, and so is rapidly absorbed from alveoli
+    * **Second gas effect**  
+    Use of N<sub>2</sub>O with another agent will increase the P<sub>A</sub> of that agent. This is because:
+        * N<sub>2</sub>O is **20x** as soluble in blood as either blood or nitrogen, and is administered in high concentrations, so it is rapidly absorbed from alveoli
         * If nitrous oxide is delivered at high concentrations, it's rapid absorption means that alveoli will **shrink**, causing:
             * An increase in the fractional concentration of all other gases  
-            This increases the pressure gradient driving diffusion into blood, increasing speed of onset.
+            This is known as the **concentration effect**, and increases the pressure gradient driving diffusion into blood, increasing speed of onset.
+                * The concentration effect is the cause of the second gas effect.
             * Augmented ventilation as more inhalational agent is drawn in the alveoli.
-    
+        * The second gas effect also causes **diffusion hypoxia**  
+        When inspired N<sub>2</sub>O is reduced, N<sub>2</sub>O will leave blood and enter the alveolus, displacing other gases in the alveolus.
+            * This can cause a reduce in PAO<sub>2</sub>, and cause hypoxia
+            * Diffusion hypoxia is avoided by delivering 100% oxygen, which maintains an adequate PAO<sub>2</sub> as N<sub>2</sub>O is removed
+
 ###Alteration to Pharmacokinetics in Children and the Elderly
 Increased rate of induction in children due to:
 * Increased V<sub>A</sub>/FRC ratio  
@@ -236,6 +250,7 @@ Petkov
 Peck and Hill
 Dr. Podcast
 Millers
+https://www.ncbi.nlm.nih.gov/pubmed/11429373
 
 
 
