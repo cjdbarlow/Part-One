@@ -1,6 +1,8 @@
 #Nitrous Oxide
 > <p style="color:purple";> Describe the pharmacology of nitrous oxide </p>
 
+<!--></!-->
+
 > <p style="color:purple";> Describe the comparative pharmacology of nitrous oxide, ~~halothane, enflurane, isoflurane, desflurane, sevoflurane, xenon and ether~~</p>
 
 

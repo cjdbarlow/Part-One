@@ -27,42 +27,39 @@
 ##Comparison of Common Inhalational Agents
 |Property|Sevoflurane|Isoflurane|Desflurane|
 |--|--|
-|**Pharmaceutics**|Minimally soluble, light stable, not flammable|Soluble in rubber, light stable, not flammable|Light sensitive, flammable at 17%|
-|**Molecular Weight**|
-|**Boiling point**|||23.5°C|
-|**Critical Temperature/Pressure**||||
-|**SVP**|||
-|**Blood:gas coefficient**|0.7|1.4||
-|**Oil:gas coefficient**|53|98|19|
-|**MAC**|2|1.17|6.6|
-|**Metabolism**|3-5% hepatic metabolism|0.2% hepatic to nontoxic metabolites
-|**Resp**|Bronchodilation|Bronchodilation, airway irritability|Airway irritability, ↑ secretions|
-|**CVS**|↑ QT|
-|**CNS**||||
+|**Pharmaceutics**|Minimally soluble, light stable, not flammable. Formulated with 300ppm of H<sub>2</sub>O to prevent formation of HF acid by Lewis acids in glass|Soluble in rubber, light stable, not flammable|Light sensitive, flammable at 17%|
+|**Molecular Weight**|200.1|184.5|168.0
+|**Boiling point**|58.5°C|48.5°C|23.5°C|
+|**SVP** at 20°C|
+|**Blood:gas coefficient**|0.7|1.4|0.42|
+|**Oil:gas coefficient**|80|98|29|
+|**MAC**|1.8|1.17|6.6|
+|**Metabolism**|3-5% CYP2E1 metabolism to hexafluoroisopropanol and inorganic F<sup>-</sup> (which may be nephrotoxic)|0.2% hepatic to nontoxic metabolites
+|**Resp**|Bronchodilation, ↓ MV|Bronchodilation, airway irritability. ↓ MV (greater than halothane) with ↑ in RR|Airway irritability, ↑ secretions|
+|**CVS**|↑ QT, ↓ SVR causing ↓ MAP without a reflex ↑ HR. Inotropy unchanged.|Reflex ↑ HR due to ↓ MAP from ↓ SVR. Small ↓ inotropy and CO. May cause **coronary steal**.
+|**CNS**|↑ post-operative agitation in children compared to halothane|Best balance of ↓ CMRO<sub>2</sub> for ↑ in CBF ||
 |**GIT**||||
 |**Immune**|
 |**Metabolic**|
-|**Toxic Effects**|Sevoflurane interacts with soda lime to produce **Compound A**, which is nephrotoxic in rats (but not, it seems, in humans).|May react with soda lime to produce CO||
+|**Toxic Effects**|Sevoflurane interacts with soda lime to produce **Compound A** (as well as B through E, which are unimportant), which is nephrotoxic in rats (but not, it seems, in humans).|-CHF<sub>2</sub> group may react with dry soda lime to produce CO||
 
 ##Comparison of Uncommon Inhalational Agents
-|Property|Methoxyflurane|Enflurane|Halothane|Ether|Xenon|
+|Property|Enflurane|Halothane|Ether|Xenon|
 |--|--|
-|**Pharmaceutics**|||||Not flammable
-|**Molecular Weight**|
-|**Boiling point**|
-|**SVP**|||
-|**Blood:gas coefficient**|||||0.14
-|**Oil:gas coefficient**||98|224||1.9
-|**MAC**||1.68|0.75||71
-|**Metabolism**|||~25% undergoes oxidative phosphorylation by CYP450 systems, producing **trifluoroacetic acid**, which binds to protein and can cause a T-cell mediated hepatitis, which can be fatal in ~1/10,000 anaesthetics.
+|**Pharmaceutics**||Light unstable. Corrodes some metals and dissolves into rubber.||Not flammable.
+|**Molecular Weight**|184.5|197||131|
+|**Boiling point**|56.5°C|50.2°C||-108°C|
+|**SVP** at 20°C||||-|
+|**Blood:gas coefficient**|1.8|2.4||0.14
+|**Oil:gas coefficient**|98|224||1.9
+|**MAC**|1.68|0.75||71
+|**Metabolism**||~25% undergoes oxidative phosphorylation by CYP450 systems, producing **trifluoroacetic acid**, which binds to protein and can cause a T-cell mediated hepatitis, which can be fatal in ~1/10,000 anaesthetics.
 |**Resp**|
-|**CVS**|
-|**CNS**|||||Analgesic|
-|**MSK**|||||Muscle relaxation when >60%
+|**CVS**||Greatest ↓ in inotropy, HR, SVR, and MAP.
+|**CNS**||||Analgesic|
+|**MSK**||||Muscle relaxation when >60%
 |**Renal**|Direct nephrotoxicity, potentially related to fluoride (though this association is not present with other anaesthetic agents)
 
-
-↓ HR, ↑
 
 ##References
 Pharmacology of anaesthetic agents II: inhalation anaesthetic agents
