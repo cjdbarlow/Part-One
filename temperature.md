@@ -17,6 +17,20 @@ This is used in mercury thermometers. These consist of:
 
 When heated, the kinetic energy of the mercury increases and it expands, forcing it up the capillary. The speed that this occurs is related to the **time-constant** of the system, typically 30 seconds. Measurement takes ~4 time-constants, i.e. 2 minutes.
 
+####Pros
+* Easy to use
+* Accurate
+
+####Cons
+* Slow response
+* Glass can break  
+May cause release of mercury or alcohol.
+* Inaccurate at:
+    * Low temperatures with mercury  
+    Freezes at -38.8°C.
+    * High temperatures with alcohol  
+    Boils at 78.5°C. 
+
 ##Electrical
 These may be either a standard length of platinum wire, or a thermistor. Platinum wire increases electrical resistance with increasing temperature, and therefore the voltage drop across the wire will correspond to the temperature of the wire. However, these are expensive.
 
