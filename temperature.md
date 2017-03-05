@@ -13,16 +13,24 @@ Temperature is measured by a number of methods:
 This is used in mercury thermometers. These consist of:
 * A graduated **evacuated capillary** of negligible volume, attached to
 * A mercury resevoir, of much greater volume, separated by
-* A constriction ring, which prevents travel of mercury up the capillary by gravity
+* A constriction ring 
+Prevents travel of mercury up the capillary by gravity.
 
-When heated, the kinetic energy of the mercury increases and it expands, forcing it up the capillary. The speed that this occurs is related to the **time-constant** of the system, typically 30 seconds. Measurement takes ~4 time-constants, i.e. 2 minutes.
+Mechanism:
+* When heated, the kinetic energy of the mercury increases and it expands, forcing it up the capillary  
+As the thermal expansion coefficient for all liquids is very small, the capillary must be of a very small volume to create a useable device.
+* The speed that this occurs is related to the **time-constant** of the system, typically 30 seconds. Measurement takes ~4 time-constants, i.e. 2 minutes.
 
 ####Pros
 * Easy to use
 * Accurate
+* Reusable
+* Sterilisable
+* Cheap
 
 ####Cons
-* Slow response
+* Slow response  
+Only accurate once it has reached thermal equilibrium.
 * Glass can break  
 May cause release of mercury or alcohol.
 * Inaccurate at:
@@ -55,3 +63,5 @@ The wet thermometer is cooled due to evaporative cooling from the wick, as high 
 ---
 ##References
 * Notes from The Alfred Anaesthetic Primary Exam Tutorial Series
+* Aston
+* http://physics.csustan.edu/Ian/Help/Temperature/Thermometers/VolumeExapnsionThermometer.htm
