@@ -179,7 +179,7 @@
   * [Control of Gastric Emptying](control_of_gastric_emptying.md)
   * [Swallowing](swallowing.md)
   * [Physiology of Vomiting](physiology_of_vomiting.md)
-  * Liver Physiology\(functions\_of\_the\_liver.md\#id\)
+  * [Liver Physiology](functions_of_the_liver.md#id)
     * [Functions of the Liver](functions_of_the_liver.md)
     * [Bile](bile.md)
 * [Haematological](erythrocytes.md#id)
