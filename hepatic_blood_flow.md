@@ -24,7 +24,8 @@ As with other organs, blood flow is autoregulated via intrinsic and extrinsic me
 * Autonomic Nervous System  
   Both the hepatic and portal vasculature have sympathetic innervation:
     * The hepatic artery has D-, β-, and α-adrenoreceptors
-    * The portal vein has only α-adrenoreceptors
+    * The portal vein has only α-adrenoreceptors  
+    Activation of these receptors causes venoconstriction, reducing the compliance of the hepatic vasculature and mobilising up to **250ml** of blood in times of sympathetic stress.
 
 ###External Factors
 Flow in the hepatic vein is dependent on venous return. When venous return is increased (e.g. negative-intrathoracic pressure), hepatic flow is increased. When venous return is decreased (e.g. positive-pressure ventilation), hepatic flow is reduced, and in extreme cases may only occur intermittently thoughout the cardiac cycle.
