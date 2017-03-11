@@ -5,10 +5,10 @@
 ##Storage
 The liver is important in storage and release of:
 * Carbohydrates as glycogen  
-The adult liver stores ~100g of glycogen
+The adult liver stores ~100g of glycogen.
 * Fat as triglycerides
 * All fat-soluble vitamins (A, D, E, K)
-* Many water soluble vitamins incuding folica cid and B<sub>12</sub>
+* Many water soluble vitamins incuding folic acid and B<sub>12</sub>
 * Iron
 * Copper
 
