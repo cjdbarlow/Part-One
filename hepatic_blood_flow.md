@@ -1,5 +1,5 @@
 # Hepatic Blood Flow
-> Describe the distribution of blood volume and flow in the various regional circulations and explain the factors that influence them, including autoregulation. These include, but not limited to, ~~the cerebral and spinal cord,~~ hepatic and splachnic~~, coronary, renal and utero-placental circulations~~
+> Describe the distribution of blood volume and flow in the various regional circulations and explain the factors that influence them, including autoregulation. These include, but not limited to, ~~the cerebral and spinal cord,~~ hepatic and splachnic, ~~coronary, renal and utero-placental~~ circulations
 
 The liver serves as a blood resevoir (30ml per 100g, half of which may be mobilised in hypovolaemia), and receives **25%** of cardiac output from a unique dual blood supply:
 * Hepatic arterial system, which supplies about **one-third** of blood, but 40-50% of O<sub>2</sub>  
