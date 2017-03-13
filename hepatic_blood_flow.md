@@ -33,7 +33,7 @@ A number of substances affect portal flow:
   |Hormone|Portal Vein Effect|Hepatic Artery Effect|Overall Effect on Flow|
 |--|--|
 |**Adrenaline**|Constriction|Constriction (α), then dilation (β)|Reduced|
-|**Glucagon**|Increased|-|Increased|
+|**Glucagon**|Dilation|-|Increased|
 |**Secretin**|-|Dilation|Increased|
 |**Angiotensin II**|Constriction|Constriction|Reduced|
 |**Vasopressin**|Constriction|Constriction|Reduced|
@@ -43,12 +43,9 @@ A number of substances affect portal flow:
 ###External Factors
 Flow in the hepatic vein is dependent on venous return:
 *  Increased venous return (e.g. negative-intrathoracic pressure) increases hepatic flow
-* Decreased  venous return (e.g. positive-pressure ventilation, tamponade haemorrhage), reduces hepatic flow, and in extreme cases flow may only occur intermittently thoughout the cardiac cycle
+* Decreased  venous return (e.g. positive-pressure ventilation, tamponade, haemorrhage), reduces hepatic flow, and in extreme cases flow may only occur intermittently thoughout the cardiac cycle
 
-
-|**Exercise**|Reduced flow||Reduced|
-|**Haemorrhage**|Greatly reduced flow|Reduced flow|Reduced|
-
+**Exercise** reduces both portal vein and hepatic arterial flow.
 
 ##Microvasculature
 Hepatic arterioles and portal venules form the **hepatic triad** with a bile canaliculi. Hepatic arterioles and venules anastomose to form **sinusoids**, which create a specialised low-pressure (~2mmHg) capillary system which drains into the central veins of the hepatic acinus.
