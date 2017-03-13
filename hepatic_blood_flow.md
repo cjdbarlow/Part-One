@@ -26,20 +26,26 @@ As with other organs, blood flow is autoregulated via intrinsic and extrinsic me
     * The hepatic artery has D-, β-, and α-adrenoreceptors
     * The portal vein has only α-adrenoreceptors  
     Activation of these receptors causes venoconstriction, reducing the compliance of the hepatic vasculature and mobilising up to **250ml** of blood in times of sympathetic stress.
+    
+* Endocrine and hormonal effects
+A number of substances affect portal flow:  
 
-###External Factors
-Flow in the hepatic vein is dependent on venous return. When venous return is increased (e.g. negative-intrathoracic pressure), hepatic flow is increased. When venous return is decreased (e.g. positive-pressure ventilation), hepatic flow is reduced, and in extreme cases may only occur intermittently thoughout the cardiac cycle.
-
-It is also affected by a wide variety of other factors, including hormones:
-
-|Hormone|Portal Vein Effect|Hepatic Artery Effect|Overall Effect on Flow|
+  |Hormone|Portal Vein Effect|Hepatic Artery Effect|Overall Effect on Flow|
 |--|--|
 |**Adrenaline**|Constriction|Constriction (α), then dilation (β)|Reduced|
-|**Glucagon**|||Increased|
+|**Glucagon**|Increased|-|Increased|
 |**Secretin**|-|Dilation|Increased|
 |**Angiotensin II**|Constriction|Constriction|Reduced|
 |**Vasopressin**|Constriction|Constriction|Reduced|
 |**PCO<sub>2</sub>**|Constriction|-|Reduced|
+
+
+###External Factors
+Flow in the hepatic vein is dependent on venous return:
+*  Increased venous return (e.g. negative-intrathoracic pressure) increases hepatic flow
+* Decreased  venous return (e.g. positive-pressure ventilation, tamponade haemorrhage), reduces hepatic flow, and in extreme cases flow may only occur intermittently thoughout the cardiac cycle
+
+
 |**Exercise**|Reduced flow||Reduced|
 |**Haemorrhage**|Greatly reduced flow|Reduced flow|Reduced|
 
@@ -57,3 +63,4 @@ This arrangement:
 CICM March/May 2013
 Dr. Podcast Scripts for the FRCA
 Power and Kam
+Effect of gasric inhibitory polypeptide and glucagon on portal venous and hepatic arterial flow in conscious dogs
