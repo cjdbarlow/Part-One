@@ -61,10 +61,10 @@ The trunk is subdivided into four parts:
   * The **pelvic part** innervate the pelvic visceral and lower limb vasculature
 * Contain the sympathetic ganglion, which is a synapse between the:
   * **Short pre-ganglionic fibre**  
-  Connects descending sympathetic fibres in the lateral horn of the spinal cord to the sympathetic ganglion.
+  Cell body is located in the lateral horn of the spinal cord, and connects to the sympathetic ganglion.
     * Releases ACh to stimulate the post-ganglionic fibre.
   * **Long post-ganglionic fibre**  
-  Stimulates the effect site.
+  Cell body is located in the sympathetic ganglion, and stimulates the effect site.
     * Has a nicotinic ACh receptor
     * Releases NA at the effect site
     * Sensitivity (for ACh) and activity (for NA release) is modulated by a number of other substances:
@@ -106,7 +106,12 @@ From CN III, VII, IX, and (mostly) X.
 * **Hypogastric plexus**  
 Arises from S2-S4, and innervates the bladder, uterus, and gut distal to the splenic flexure.
 
-Parasympathetic ganglia sit close to their target organ, so the preganglionic fibre is long, whilst the post-ganglionic fibre is short. The neurotransmitter at the ganglionic synapse and at the effector organ is ACh.
+The parasympathetic nervous system ganglia site close to the target organ. This means that the:
+* Pre-ganglionic fibre is long  
+  * Preganglionic cell body sits within the brainstem (cranial nerves) or sacral grey matter (hypogastric plexus)
+  * Releases ACh to stimulate the post-ganglionic neurone
+* Post-ganglionic fibre is short
+  * Releases ACh to stimulate the target organ
 
 ###Effect
 
