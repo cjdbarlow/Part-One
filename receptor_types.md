@@ -13,7 +13,7 @@ A receptor is a protein, usually in the cellular membrane, to which a ligand may
 
 **Enzyme-linked** receptors are activated by a ligand and cause enzymatic activity on the intracellular side. They can be either **monomers** or **dimers** (where two proteins join, or diamerise, on binding of a ligand).
 
-**Ion-channel** receptors are able to create a channel through the membrane that allows electrolytes to flow down their electrical and concentration gradients. They can be **ligand-gated** or **voltage gated**.
+**Ion-channel** receptors (ionotropic) are able to create a channel through the membrane that allows electrolytes to flow down their electrical and concentration gradients. They can be **ligand-gated** or **voltage gated**.
 
 * **Ligand-gated** channels undergo conformational change when a ligand is bound. There are three important families of ligand channels:
     * Pentameric family  
@@ -32,12 +32,29 @@ A receptor is a protein, usually in the cellular membrane, to which a ligand may
 
 * **Voltage-gated** channels open when the **threshold voltage** is reached, and facilitate electrical conduction in excitable tissues.
 
-**G-protein** coupled (metabotropic) receptors activate intracellular **second messenger proteins**. This results in both transmission and **amplification** of a stimulus, as a single activated receptor can activate multiple proteins and each activated protein may activate several other intermediate proteins. This is known as a G-protein **cascade**.
 
-G-proteins are a group of heterotrimeric (containing three units; α, β, γ) proteins which bind GDP. When activated by a G-protein receptor, the GDP is replaced by GTP and the α-GTP subunit dissociates to active or inhibit an effector protein. These include:
-* Adenylyl cyclase (catalyses cAMP synthesis)
-* Guanylate cyclase (catalyses cGMP synthesis)
-* Phospholipase C
+
+**G-protein** coupled (metabotropic) receptors:
+* G-proteins are a group of heterotrimeric (containing three units; α, β, γ) proteins which bind GDP  
+When stimulated, the GDP is replaced by GTP and the α-GTP subunit dissociates to active or inhibit an effector protein. The effect depends on the type of α-subunit:
+  * G<sub>**s**</sub> proteins  
+  Are **stimulatory**. These
+    * Increase cAMP, leading to a biochemical effect.
+  * G<sub>**i**</sub> proteins  
+  Are **inhibitory**. These:
+    * Inhibit adenylyl cyclase, reducing cAMP.  
+  * G<sub>q</sub> proteins  
+  Have a variable effect, depending on the cell. These:
+    * Activate phospholipase C. This affets the production of:
+      * Inositol triphosphate (IP<sub>3</sub>)  
+      Stimulates Ca<sup>2+</sup> from the SR, affecting enzymatic function or causing membrane depolarisation.
+      * Diacylglycerol (DAG)    
+      Activates protein kinase C, which has cell-specfic effects.
+* Activate intracellular **second messenger proteins** when stimulated  
+Second messenger systems:
+  * Result in both transmission and **amplification** of a stimulus, as a single activated receptor can activate multiple proteins and each activated protein may activate several other intermediate proteins
+    * This is known as a G-protein **cascade**
+
 
 ##Enzyme interaction
 Drugs can interact with enzymes by **antagonism** or by being a **false substrate**.
