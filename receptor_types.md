@@ -36,7 +36,7 @@ A receptor is a protein, usually in the cellular membrane, to which a ligand may
 
 **G-protein** coupled (metabotropic) receptors:
 * G-proteins are a group of heterotrimeric (containing three units; α, β, γ) proteins which bind GDP  
-When stimulated, the GDP is replaced by GTP and the α-GTP subunit dissociates to active or inhibit an effector protein. The effect depends on the type of α-subunit:
+When stimulated, the GDP is replaced by GTP and the α-GTP subunit dissociates to activate or inhibit an effector protein. The effect depends on the type of α-subunit:
   * G<sub>**s**</sub> proteins  
   Are **stimulatory**. These
     * Increase cAMP, leading to a biochemical effect.
@@ -45,7 +45,7 @@ When stimulated, the GDP is replaced by GTP and the α-GTP subunit dissociates t
     * Inhibit adenylyl cyclase, reducing cAMP.  
   * G<sub>q</sub> proteins  
   Have a variable effect, depending on the cell. These:
-    * Activate phospholipase C. This affets the production of:
+    * Activate phospholipase C. This affects the production of:
       * Inositol triphosphate (IP<sub>3</sub>)  
       Stimulates Ca<sup>2+</sup> from the SR, affecting enzymatic function or causing membrane depolarisation.
       * Diacylglycerol (DAG)    
