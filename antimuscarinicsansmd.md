@@ -8,7 +8,7 @@ These can cross the blood-brain barrier, and have central effects.
     * Atropine
     * Hyoscine
 * Synthetic **quaternary amines**  
-Does not cross the blood-brain barrier.
+Do not cross the blood-brain barrier.
     * Glycopyrrolate
     
 
