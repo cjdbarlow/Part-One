@@ -14,7 +14,6 @@
   * [Data Types](data_types.md)
   * [Bias and Confounding](bias,_types_of_error,_and_confounding.md)
   * [Frequency Distributions](frequency_distributions_and_measures_of_central_tendency.md)
-  * [Selection of Statistical Tests](selection_of_statistical_tests.md)
   * [Sample Size Calculation](sample_size_calculation.md)
   * [Statistical Terms](statistical_terms.md)
   * [Risk and Odds](risk_and_odds.md)

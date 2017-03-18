@@ -1,7 +1,9 @@
 #Statistical terms
->**Understand the terms sensitivity, specificity, positive and negative predictive value and how these are affected by the prevalence of the disease in question**
+>Understand the terms sensitivity, specificity, positive and negative predictive value and how these are affected by the prevalence of the disease in question
 
->Describe bias, **types of error**, confounding factors and sample size calculations, **and the factors that influence them**
+<!--></!-->
+
+>Describe bias, types of error, ~~confounding factors and sample size calculations,!! and the factors that influence them
 
 All these terms refer to characteristics of **diagnostic tests**. The easiest way to approach this is via a 2x2 table, and has been recommended in previous exams as an approach to questions on this topic. 
 
@@ -19,7 +21,10 @@ Draw a 2x2 table of disease state versus test outcome:
 
 
 * A **Type I error** is a **false positive**, when we incorrectly reject the null hypothesis  
+  * The type I error rate can be decreased by decreasing α
 * A **Type II error** is a **false negative**, when we incorrectly accept the null hypothesis
+  * The type II error rate can be decreased by decreasing β, usually expressed as increasing **power**  
+  Power is the chance of detecting a difference if it exists. Power is equal to 1-β. 
 
 ##Sensitivity and Specificity
 ###Sensitivity

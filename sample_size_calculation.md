@@ -10,15 +10,22 @@ Due to chance, the sample mean will not equal the population mean. This is calle
 This is why large sample sizes are desirable in research. However, larger studies are also more costly and time consuming to run. Sample-size calculations are performed to find a happy medium.
 
 ##Sample size calculation
-All sample size calculations depend on **four** things:
+All sample size calculations depend on:
 * Acceptable **risk of Type I error (α)**, typically set at 0.05  
-  A **smaller α** (lower false positive risk) requires a larger sample size
+  A **smaller α** (lower false positive risk) requires a larger sample size.
 * Acceptable **risk of Type II error (β)**, typically set at 0.20  
-  A **smaller β** (lower false negative risk) requires a larger sample size
+  A **smaller β** (lower false negative risk) requires a larger sample size.
 * Expected **effect size**  
-  A **smaller effect size** requires a larger sample size, as the difference between groups will be smaller and harder to detect
+  A **smaller effect size** requires a larger sample size, as the difference between groups will be smaller and harder to detect.
 * Population **variance**  
-  A **larger population variance** requires a larger sample size, as there is more 'noise' in the sample
+  A **larger population variance** requires a larger sample size, as there is more 'noise' in the sample.
+* **Study design**  
+Certain trial designs (e.g. multiple arms) require a larger sample size for a given effect size and power.
+* Practical considerations
+  * **Cost**  
+  Increasing sample size increases the cost of a study.
+  * **Participant availability**  
+  Sample size is limited when the number of eligible participants for a study is small (e.g. rare diseases)
 
 Different formulas for sample size calculations exist for different studies, and can be adjusted for particular study designs, such as multiple or unequal groups.
 
