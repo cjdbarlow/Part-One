@@ -21,7 +21,7 @@ Does not cross the blood-brain barrier.
 |**Route of Administration**|IV/IM|PO, SC
 |**Dosing**|200-400μg|200-600μg|
 |**Absorption**|Minimal PO absorption| < 50% PO bioavailability
-|**Distribution**|Crosses placenta but not BBB||
+|**Distribution**|Crosses placenta but not BBB, V<sub>D</sub> 0.5L.kg<sup>-1</sup>|V<sub>D</sub> 2L.kg<sup>-1</sup>|
 |**Metabolism**|Minimal hepatic hydrolysis|Hepatic esterases
 |**Elimination**|Renal of largely unchanged drug|Renal of metabolites
 |**Resp**|Bronchodilation, antisialagogue|Bronchodilation, greatest antisialagogue effect
