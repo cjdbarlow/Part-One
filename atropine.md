@@ -9,7 +9,7 @@ Naturally occurring tertiary amine which competitively antagonises ACh at the mu
 |**Presentation**| Clear, colourless solution at 600μg.ml<sup>-1</sup>. Racemic mixture, with only the L-isomer active|
 |**Route of Administration**|IV|
 |**Dosing**|600μg-3mg|
-|**Distribution**|50% protein bound|
+|**Distribution**|50% protein bound, V<sub>D</sub> 3L.kg<sup>-1</sup>|
 |**Metabolism**|Extensive hepatic hydrolysis|
 |**Elimination**|Renal elimination of metabolites and unchanged drug|
 |**Resp**|Bronchodilation, ↓ secretions|
