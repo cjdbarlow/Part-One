@@ -27,9 +27,9 @@ Does not cross the blood-brain barrier.
 |**Resp**|Bronchodilation, antisialagogue|Bronchodilation, greatest antisialagogue effect
 |**CVS**|Initial bradycardia due to partial agonist effect. Reverses vagal causes of bradycardia, may cause tachycardia in doses >200μg. HR peaks at 3-9 minutes following administration.|Least likely anticholinergic to cause tachycardia
 |**CNS**||Most likely anticholinergic to cause central anticholinergic syndrome
-|**MSK**|Anhydrosis
+|**MSK**|Anhydrosis||
 |**GIT**|Reduced oral and gastric secretions, and gastric motility|Reduced oral and gastric secretions, and gastric motility|
-|**GU**|Difficult micturition|
+|**GU**|Difficult micturition||
 
 ---
 ##References
