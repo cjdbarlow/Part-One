@@ -261,10 +261,11 @@
   * [Tramadol](tramadol.md)
   * [Paracetamol](paracetamol.md)
 * [Autonomic](antimuscarinicsansmd.md#id)
+  * Indirect Muscarinic Stimulants
+  * [Antimuscarinics](antimuscarinicsansmd.md)
 * [Neuromuscular](depolarising_nmbs.md#id)
   * [Depolarising NMBs](depolarising_nmbs.md)
   * [Non-Depolarising NMBs](non-depolarising_nmbs.md)
-* [Antimuscarinics](antimuscarinicsansmd.md)
 * [Haematological](anticoagulants.md#id)
   * [Anticoagulants](anticoagulants.md)
   * [Direct Thrombin Inhibitors](direct_thrombin_inhibitors.md)
