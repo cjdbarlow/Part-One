@@ -2,24 +2,34 @@
 
 *Atropine is covered in anti-arrhythmics*
 
+Antimuscarinics are as competitive, reversible antagonists of ACh at the muscarinic receptor. They are divided into:
+* Naturally occurring **tertiary amines**  
+These can cross the blood-brain barrier, and have central effects.
+    * Atropine
+    * Hyoscine
+* Synthetic **quaternary amines**  
+Does not cross the blood-brain barrier.
+    * Glycopyrrolate
+    
 
-|Property|Glycopyrrolate
+
+|Property|Glycopyrrolate|Hyoscine
 |--|--|
-|**Class**|Competitive muscarinic antagonist
-|**Uses**|Bradycardia, anti-secretory
-|**Presentation**|Clear, colourless solution at 200μg.ml<sup>-1</sup>. Incompatible with diazepam and thiopentone.
-|**Route of Administration**|IV/IM
-|**Dosing**|200-400μg
-|**Absorption**|Very poor and erratic PO bioavailability
-|**Distribution**|Crosses placenta but not BBB
-|**Metabolism**|Minimal hepatic hydrolysis
-|**Elimination**|Renal of largely unchanged drug
-|**Mechanism of Action**|Competitviely antagonises ACh at the muscarinic receptor, acting as a parasympatholytic
-|**Resp**|Bronchodilation
-|**CVS**|Reversal of bradycardia, may cause tachycardia in doses >200μg
+|**Class**|Quaternary amine. Muscarinic antagonist|Tertiary amine
+|**Uses**|Bradycardia, antisialagogue|Antisialagogue, motion sickness
+|**Presentation**|Clear, colourless solution at 200μg.ml<sup>-1</sup>. Incompatible with diazepam and thiopentone.|Racemic, only L-isomer active
+|**Route of Administration**|IV/IM|PO, SC
+|**Dosing**|200-400μg|200-600μg|
+|**Absorption**|Minimal PO absorption| < 50% PO bioavailability
+|**Distribution**|Crosses placenta but not BBB||
+|**Metabolism**|Minimal hepatic hydrolysis|Hepatic esterases
+|**Elimination**|Renal of largely unchanged drug|Renal of metabolites
+|**Resp**|Bronchodilation, antisialagogue|Bronchodilation, greatest antisialagogue effect
+|**CVS**|Initial bradycardia due to partial agonist effect. Reverses vagal causes of bradycardia, may cause tachycardia in doses >200μg. HR peaks at 3-9 minutes following administration.|Least likely anticholinergic to cause tachycardia
+|**CNS**||Most likely anticholinergic to cause central anticholinergic syndrome
 |**MSK**|Anhydrosis
-|**GIT**|Reduced oral and gastric secretions
-|**GU**|Difficult micturition
+|**GIT**|Reduced oral and gastric secretions, and gastric motility|Reduced oral and gastric secretions, and gastric motility|
+|**GU**|Difficult micturition|
 
 ---
 ##References
