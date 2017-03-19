@@ -41,6 +41,7 @@ Initial blockade is termed **Phase I**, which is a partial depolarising block. S
 
 |Property|Phase I Block|Phase II Block
 |--|--|--|
+|**Block Amplitude**|Reduced|Reduced|
 |**Train-of-four ratio**| >0.7|< 0.7
 |**Post-tetanic potentiation**|No|Yes
 |**Effect of anticholinesterases**|Block augmented|Block inhibited
