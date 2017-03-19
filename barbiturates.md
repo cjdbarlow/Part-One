@@ -1,5 +1,8 @@
 # Barbiturates
-Thiopentone acts increasing the duration of cloride channel opening at GABA<sub>A</sub> receptors (at a separate site to benzodiazepines), enhancing the action of GABA.
+Thiopentone acts at GABA<sub>A</sub> receptors (at a separate site to benzodiazepines) in the CNS, causing:
+* Decreased rate of dissociation of GABA  
+Increases the duration of channel opening, causing effective hyperpolarisation due to increased Cl<sup>-</sup> conductance.
+* Direct activation of the channel at higher doses  
 
 |Property|Thiopentone
 |--|--|
@@ -14,7 +17,7 @@ Thiopentone acts increasing the duration of cloride channel opening at GABA<sub>
 |**Elimination**|Renal of metabolites
 |**Resp**|Respiratory depression, bronchospasm, laryngospasm
 |**CVS**|Vasodilation and venodilation (↓ MSFP), ↓ inotropy, with compensatory tachycardia (baroreceptor response preserved)
-|**CNS**|Hyponosis and anaesthesia within 40 seconds of injection, with reliable loss of lash reflex. ↓ CBF, ↓ ICP, ↓ CMRO<sub>2</sub>, anticonvulsant, progressive flattening of EEG leading to burst suppression). Resolution of anaesthesia in 5-10 minutes due to redistribution.  
+|**CNS**|Hyponosis and anaesthesia within 40 seconds of injection, with reliable loss of lash reflex. Anticonvulsant. Dose-dependent flattening of the EEG (β 🡒 α 🡒 θ 🡒 δ) ending with burst suppression, causing progressive ↓ CMRO<sub>2</sub> (55% of maximal during burst suppression), ↓ CBF, and ↓ ICP. <br><br> Resolution of anaesthesia in 5-10 minutes due to redistribution.  
 |**Endocrine**|↓ RBF causing ↓ UO
 |**GIT**|Hepatic enzyme induction
 |**Immune**|Analphylaxis ~1;20,000
