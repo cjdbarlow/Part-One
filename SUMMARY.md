@@ -200,6 +200,7 @@
   * [Principles of Ultrasound](principles_of_ultrasound.md)
   * [Temperature and Humidity](temperature.md)
   * [Medical Gas Supply](medical-gas-supply.md)
+  * [Neuromuscular Monitoring](neuromuscular-monitoring.md)
 * [Procedural Anatomy](subclavian_vein.md#id)
   * [Subclavian Vein](subclavian_vein.md)
   * [Internal Jugular Vein](internal_jugular_vein.md)
