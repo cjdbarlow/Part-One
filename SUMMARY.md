@@ -247,6 +247,7 @@
 * [Diuretics](diuretics.md)
 * [Neuropharmacology](propofol.md#id)
   * [Propofol](propofol.md)
+  * [Barbiturates](barbiturates.md)
   * [Ketamine](ketamine.md)
   * [Dexmedetomidine](dexmedetomidine.md)
   * [Local Anaesthetics](local_anaesthetics.md)
