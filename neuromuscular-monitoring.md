@@ -18,7 +18,13 @@ Using a nerve stimulator. Can be:
     * Visual/tactile  
     Monitoring of twitch height by anaesthetist.
     * Electrical  
-    Monitoring of twitch height by a device, e.g. accelerometer.
+    Monitoring of twitch height by a device:
+        * Accelerometer  
+        Acceleration is proportional to force for any given mass ($$F = ma$$), therefore an accelerometer taped to the thumb can be used to assess force of contraction.
+        * Mechanical force transducers  
+        Muscle tension is measured using a strain gauge. Requires control prior to administration.
+        * Electromyography  
+        EMG response is measured using electrodes over the muscle. The AUC of the response curve can be used to calculate degree of blockade.
     
 ##Nerve Stimulator
 A nerve stimulator:
@@ -82,16 +88,13 @@ Two 0.2ms 50Hz (tetanic) stimuli are applied 750ms apart.
     * Two identical contractions occur in normal muscle
     * Amplitude of the second burst is reduced in partially paralysed muscle  
     DB ratio is similar to the ToF ratio, but is easier to assess clinically.
-* Single twitch  
+    
+
+* **Single twitch**  
 A single stimulus lasting ~0.2ms is applied.
     * \> 75% blockade causes a depressed response
     * A twitch must be assessed prior to blockade so a baseline can be established
 
-
-####Train of Four
-
-
-####Single
 
 ---
 ##References
