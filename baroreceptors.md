@@ -1,27 +1,41 @@
 #Baroreceptors {#id}
 > Describe the function of baroreceptors and to relate this knowledge to common clinical situations.
 
-Baroreceptors are **stretch receptors** which monitor changes in circulatory pressure. **Arterial pressure** is monitored by receptors in the:
+Baroreceptors are **stretch receptors** which monitor changes in arterial pressure. **Arterial pressure** is monitored by receptors in the:
 * **Aortic arch**  
-* **Carotid sinus**, and respond to changes in pressure.
+Innervated by CNX.
+* **Carotid sinus**    
+Small dilation of the ICA at the level of the bifurcation. Innervated by CNIX.
 
-**Low-pressure** sensors exist in the **atrial walls**, at the entrance of the **SVC and IVC**, and in the **pulmonary circulation**. These receptors respond to an increase in venous return but are inhibited by positive pressure ventilation. Therefore they act by atrial stretch and typically described as **volume receptors**.
+**Low-pressure** stretch receptors respond to an increase in venous return and are inhibited by positive pressure ventilation. They act by atrial stretch and typically described as **volume receptors**. They are located in the:
+* **Atrial walls**
+* **SVC and IVC**  
+* **Pulmonary circulation**
+
 
 ##Baroreceptor Control
-The carotid sinus is a small dilation of the internal carotid at the bifurcation. Afferent fibres from the **carotid sinus** form a branch of the **glossopharyngeal nerve**. Afferent fibres from **aortic baroreceptors** in the wall of the vessel and **ventricular stretch receptors** form a branch of the **vagus nerve**.
+Afferent fibres from CNIX and CNX travel to the NTS in the **medulla**. Effector neurons from the RVLM are GABAergic and therefore inhibitory, i.e. increased baroreceptor discharge *reduces* tonic sympathetic tone and increases vagal tone.
 
-Fibres from both travel to the NTS in the **medulla**. Effector neurons from the RVLM are GABAergic and therefore inhibitory, i.e. increased baroreceptor discharge *reduces* tonic sympathetic tone and increases vagal tone.
+**Increased baroreceptor activity** therefore **results in:**
+* Arterial and venous vasodilation
+* Hpotension
+* Bradycardia
+* Decreased cardiac output
+* Decreased respiratory rate.
 
-**Increased baroreceptor activity** therefore **results in:** arterial and venous vasodilation, hypotension, bradycardia, decreased cardiac output, and decreased respiratory rate.
-
-Increased **low-pressure** stretch receptor activity results in an increase rather than a decrease in heart rate.
+**Increased** **low-pressure** stretch receptor activity results in an **increase** rather than a decrease in **heart rate**.
 
 ##Baroreceptor Activity
-The carotid sinus is active over the range from 50mmHg to 200mmHg. Baroreceptors are **more sensitive to pulsatile pressure** than constant pressure, so a decrease in pulse pressure without a change in MAP will decrease baroreceptor firing. They are active throughout the cardiac cycle and exhibit rapid compensatory responses. Consequently, they are vital in the short-term control of blood pressure as occurs with changes in position.
+Baroreceptors are:
+* **More sensitive to pulsatile pressure** than constant pressure  
+A decrease in pulse pressure without a change in MAP will decrease baroreceptor firing.
+* Active throughout the cardiac cycle  
+Rapid compensatory responses are vital in the short-term control of blood pressure as occurs with changes in position.
+* Active over the range from 50mmHg to 200mmHg
 
 ![](http://i.imgur.com/2nOKtB8.jpg?2)
 
-In chronic hypertension, the set point of the baroreceptor reflex is reset, though this is reversible.
+This curve is left-shifted in children and neonates, and right-shifted in chronic hypertension, though this is reversible.
 
 ##Hormonal control
 Atrial stretch receptors also excrete ANP (Atrial Natriuretic Peptide), which reduces blood pressure in the following ways:
