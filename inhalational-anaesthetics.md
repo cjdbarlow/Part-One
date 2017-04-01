@@ -18,6 +18,7 @@
 |**Resp**|All halogenated agents ↓ V<sub>T</sub> and ↑ RR, with an overall ↓ in MV and therefore cause PaCO<sub>2</sub> to ↑; and ↓ sensitivity of central respiratory centres to CO<sub>2</sub>.
 |**CVS**|↓ MAP (predominantly by ↓ in SVR), ↓ inotropy
 |**CNS**|↓ EEG frequency such that θ- and δ-wave dominate the EEG as depth ↑. May cause burst suppression. ↓ CMRO<sub>2</sub> and CBF. Cause cerebral vasodilation but **do not increase ICP** when MAC is < 1.
+|**Renal**|Dose dependent ↓ in RBF, GFR, and UO secondary to ↓ in MAP and CO. <br><br>Fluorinated ethers produce F<sup>-</sup> ions when hepatically metabolised, which may produce high-output renal failure at serum concentrations >50μmol/L. This is probably only a concern with methoxyflurane (as it has significant (>70%) hepatic metabolism) when used at anaesthetic doses.
 |**GIT**|↓ Hepatic blood flow. 
 |**GU**|Tocolysis
 |**Immune**|
