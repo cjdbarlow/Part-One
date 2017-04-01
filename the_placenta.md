@@ -28,7 +28,11 @@ Molecules < 600 Da in size more readily diffuse down concentration gradients.
 
 
 ####O<sub>2</sub> Diffusion
-At the end of pregnancy, the PO<sub>2</sub> of placental blood is 50mmHg, and the **PO<sub>2</sub> for foetal blood** leaving the placenta is **30mmHg**. The foetus is able to absorb a large enough volume of O<sub>2</sub> despite this low PaO<sub>2</sub> for three reasons:
+At the end of pregnancy, **PO<sub>2</sub> for foetal blood**:
+* Entering the placenta via the uterine artery is **18mmHg** (SpO2 45%)  
+* Leaving the placenta via uterine vein is **28mmHg** (SpO2 70%)
+
+The foetus is able to absorb a large enough volume of O<sub>2</sub> despite the low PO<sub>2</sub> for three reasons:
 * **Foetal Hb**  
 Contains **two gamma subunits** instead of beta subunits. These prevent the binding of 2,3-DPG, which result in a **left-shifted Oxy-Haemoglobin dissociation curve**, favouring oxygen loading at a low PaO<sub>2</sub>.
 
