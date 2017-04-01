@@ -1,13 +1,10 @@
 # Anticoagulants {#id}
-
-**Warfarin** prevents the the return of vitamin K to its reduced form, and therefore the gamma-carboxylation of vitamin-K dependent clotting factors (II, VII, IX, X), as well as Protein C and Protein S). This prevents these clotting factors binding to endothelium.
-
-**Heparin** is a mucopolysaccharide organic acid which occurs naturally in the liver and in mast cells. It has a highly variable molecular weight between 5,000 and 25,000 Da. Heparin accelerates the rate of formation of the (inactive) antithrombin-thromin complex, reducing circulating thrombin. It also inhibits factor Xa, and (in higher concentrations) IXa, XIa, XIIa, and platelet aggregation.
-
+    
 |Property|Warfarin|Heparin|Enoxaparin
 |--|--|
 |**Uses**|AF, DVT/PE, Prosthetic Valves|AF, DVT/PE, Extra-corporeal Circuit Anticoagulation|DVT Prophylaxis
-|**Pharmaceutics**|Marevan and coumadin may *potentially* have different bioavailabilities (it has not been assessed) and so should not be substituted|||
+|**Pharmaceutics**|Marevan and coumadin may *potentially* have different bioavailabilities (it has not been assessed) and so should not be substituted|Mucopolysaccharide organic acid which occurs naturally in the liver and in mast cells, with a highly variable molecular weight (between 5,000 and 25,000 Da)|Smaller fragments of heparin (prepared from UFH), with a mean molecular weight of 5,000 Da|
+|**Mechanism of Action**|Prevents the return of vitamin K to its reduced form, and therefore the gamma-carboxylation of vitamin-K dependent clotting factors (II, VII, IX, X), as well as Protein C and Protein S).|Accelerates the rate of formation of the (inactive) antithrombin-thrombin complex, reducing circulating thrombin. <br><br> Heparin also inhibits factor Xa, and (in higher concentrations) IXa, XIa, XIIa, and platelet aggregation.|Potentiates the action of ATIII, increasing inhibition of Xa (and to a lesser extent IIa)
 |**Absorption**|100% bioavailability|-|-|
 |**Distribution**|99% protein bound|Low lipid solubility, highly protein bound|Does not bind to heparin-binding proteins
 |**Metabolism**|Complete hepatic mestabolism. Significant pharmacokinetic|Hepatic interactions due to enzymatic induction (ETOH, amiodarone, salicylates, NSAIDs) and inhibition (OCP, barbiturates, carbamazepine)|Renal elimination of metabolites

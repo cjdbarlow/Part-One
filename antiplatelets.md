@@ -2,6 +2,25 @@
 
 *Note aspirin is included under COX inhibitors*
 
+##Classification of Antiplatelet Agents
+Antiplatelet agents can be classified into those which affect different stages of platelet function:
+* Adhesion
+    * vWF inhibitors
+    e.g. Dextran 70.
+* Activation
+    * Prostacyclins  
+    e.g. Epoprostenol.
+    * Phosphodiesterase inhibition  
+    e.g. Dipyridiamole.
+    * COX inhibitors  
+    Prevent thromboxane A2 production, e.g. aspirin.
+* Aggregation
+    * ADP receptor antagonists  
+    Prevent activation of GP IIb/IIIa receptors, e.g. clopidogrel.
+    * GP IIb/IIIa receptor antagonists  
+    Prevent platelet aggregation via fibrin linkages between GP IIb/IIIa receptors, e.g. tirofiban.
+
+##Comparison of Common Antiplatelet Agents
 |Property|Clopidogrel|Dipyridamole|Tirofiban
 |--|--|
 |**Class**|ADP antagonist|Phosphodisterase inhibitor|GP IIb/IIa antagonisits
