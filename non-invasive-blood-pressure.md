@@ -46,7 +46,7 @@ Components:
     * Measurement cuff
 * Tubing
 * Device for inflating the occlusive cuff and gradually deflating it
-* Pressure tranducer
+* Aneroid barometer for transducing pressure
 * Display
 
 Process:
@@ -64,3 +64,4 @@ When cuff pressure equals:
 ---
 ##References
 ANZCA July/August 2000
+Aston
