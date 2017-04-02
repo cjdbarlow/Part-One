@@ -81,7 +81,7 @@ For other antibodies.
 * Cross-match  
   Involves two processes:
     * Saline test
-    * Indirect Coomb's test
+    * Indirect Coomb's test  
     Identifies IgG antibody which would cause haemolysis of transfused red cells. This is typically no longer done, as it offers almost negligible extra safety over the above processes. Doing it however, involves:
         * Incubating, to bind IgG Ab to antigen on RBC membrane
         * Washing, to remove serum and unbound IgG
