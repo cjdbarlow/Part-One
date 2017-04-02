@@ -1,5 +1,11 @@
 # Pressure Transduction
 
+> Describe the principles of measurement, limitations, and potential sources of error for pressure transducers, and their calibration  
+
+<!--></!-->
+
+> Describe the invasive ~~and non-invasive measurement~~ of blood pressure ~~and cardiac output~~ including calibration, sources of errors and limitations
+
 A **transducer** converts one form of energy to another. Pressure transducers converts a pressure signal to an electrical signal, and require several components:
 * Catheter
 * Tubing
