@@ -58,31 +58,38 @@ Blood groups refer to the expression of surface antigens by red blood cells, as 
 These are additional antibodies that a patient may express in plasma, and include Kell, Lewis, Duffy, etc.
 
 ###ABO
-The ABO system refers to carbohydrate-based antigens, which may be either A or B. Patients may express one, both, or neither, giving four blood groups (A, B, AB, O).
-is the most important for blood transfusion as:
-* Individuals express antibody to foreign blood groups
+The ABO blood group is:
+* A complex carbohydrate-based antigens series  
+These may be either A or B antigen, and patients may express one, both, or neither, giving four blood groups (A, B, AB, O).
+* Expressed on the H-antigen stem of RBCs, and on the surface of tissue cells.
+* Individuals express IgM antibody to foreign blood groups
     This develops within 6 months of birth, likely due to environmental exposure to similar antigens.
-* An ABO-mismatch hypersensitivity reaction is severe
+* Associated with a severe hypersensitivity reaction if an ABO-mismatch occurs
 
 ###Rhesus
-There are fifty different Rhesus antigens, the most important of which is **D**. Rhesus status is therefore expressed as positive (D - 85% of the population) or negative (anything-but-D).
-
-Notably, Rhesus negative individuals do not naturally develop antibodies unless exposed:
-* Incompatible transfusion
-* Foetal-materal haemorrhage  
-If blood from an RhD positive foetus is exposed to an RhD negative mother (miscarriage, birth, placetal abruption), the maternal immune system will develop anti-RhD antibodies which (as they are IgG) can cross the placenta and haemolyse the foetus.
+The Rhesus blood group is the next most important group after ABO. The Rhesus system:
+* Consists of ~50 different antigens, the most important of which is **D**  
+Rhesus status is therefore expressed as positive (D - 85% of the population) or negative (anything-but-D).
+* Rhesus antibody does not naturally occur in Rh(-) individuals  
+    * This is relevant in Rhesus disease  
+    A Rh(-) mother exposed to Rh(+) blood will develop Anti-D antibody, which can cross placenta and induce abortion in a future Rh(+) foetus. This can occur with:
+        * Incompatible transfusion
+        * Foetal-materal haemorrhage  
 
 ##Compatibility Testing
 Donor blood must be tested with recipient blood to avoid a transfusion reaction. This involves three processes:
 * Blood Typing (ABO/Rh)  
-Blood is typed by mixing it with plasma (and plasma with erythrocytes) of known groups.
+Blood is typed by mixing it in vitro with plasma (and plasma with erythrocytes) of known groups (containing IgM antibody (Anti-A, Anti-B, Anti-AB)), and observing for agglutination.
 * Antibody Screen  
 For other antibodies.
+    * Testing is similar to ABO screening, except *plasma* is mixed with red cells containing known antigen (e.g. Kell, Duffy), and monitored for agglutination.
 * Cross-match  
   Involves two processes:
-    * Saline test
+    * Saline test  
+    Erythrocytes are suspended in saline and mixed with antibodies at room temperature, monitoring for agglutination.
+        * This confirms ABO type
     * Indirect Coomb's test  
-    Identifies IgG antibody which would cause haemolysis of transfused red cells. This is typically no longer done, as it offers almost negligible extra safety over the above processes. Doing it involves:
+    Identifies IgG antibody in host plasma which would cause haemolysis of transfused red cells. This is typically no longer done, as it offers negligible extra safety over the above processes. Doing it involves:
         * Incubating  
         Binds IgG Ab to antigen on RBC membrane.
         * Washing  
