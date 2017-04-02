@@ -82,13 +82,15 @@ For other antibodies.
   Involves two processes:
     * Saline test
     * Indirect Coomb's test  
-    Identifies IgG antibody which would cause haemolysis of transfused red cells. This is typically no longer done, as it offers almost negligible extra safety over the above processes. Doing it however, involves:
-        * Incubating, to bind IgG Ab to antigen on RBC membrane
-        * Washing, to remove serum and unbound IgG
+    Identifies IgG antibody which would cause haemolysis of transfused red cells. This is typically no longer done, as it offers almost negligible extra safety over the above processes. Doing it involves:
+        * Incubating  
+        Binds IgG Ab to antigen on RBC membrane.
+        * Washing  
+        Removes serum and unbound IgG.
         * Testing with an antibody *to* IgG, known as antiglobulin serum.
-            * A positive test will cause clumping of red cells, as each antiglobulin serum will bind two IgG molecules, which have in turn been bound to red cells.
-            * A negative test will cause no agglutination, as the IgG has not been bound to red cells.
-                * If negative, the antiglobulin serum is re-used on a control sample to ensure that it is not a false negative.
+            * A positive test will cause clumping of red cells, as each antiglobulin serum will bind two IgG molecules, which have in turn been bound to red cells
+            * A negative test will cause no agglutination, as the IgG has not been bound to red cells
+                * If negative, the antiglobulin serum is re-used on a control sample to ensure that it is not a false negative
 
 
 
