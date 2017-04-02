@@ -6,7 +6,7 @@
 Spirometers measure flow and (by integrating for time) volume. 
  
  
- 
+
 ##Basic Measurements
 Basic measurements obtained include:
 * Static lung volumes
@@ -51,8 +51,8 @@ FLOW VOLUME LOOPS
    
    
 * **Restrictive lung disease**
-  * TLC is limited
-  * Peak flow is limited
+  * TLC is reduced, but residual volume is unchanged
+  * Peak flow is reduced
   * Effort independent part is linear
 
 
@@ -60,18 +60,18 @@ FLOW VOLUME LOOPS
   * Peak inspiratory and expiratory flow rates are limited
 
 
-* **Variable extrathoracic obstruction**  
+* **Variable *extrathoracic* obstruction**  
   * Variable means the obstruction moves
-  * During inspiration the lesion is pulled into trachea and inspiratory flow is reduced
+  * During inspiration the lesion is pulled into trachea so inspiratory flow is reduced
   * During expiration the lesion is pushed out of the trachea  
   The way to remember this is an **extra**thoracic obstruction impedes **in**spiration
   * The reverse effect occurs in positive pressure ventilation
 
 
-* **Variable intrathoracic obstruction**  
+* **Variable *intrathoracic* obstruction**  
 The opposite to extrathoracic obstruction.
-  * During inspiration the airway calibre increases and the degree of obstruction reduced
-  * During expiration the airway calibre falls and the obstruction worsens
+  * During inspiration the airway calibre increases and inspiratory flow is unimpeded
+  * During expiration the airway calibre falls and expiratory flow is reduced
 
 ---
 ##References
