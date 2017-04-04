@@ -7,7 +7,7 @@ Sustained high (>25mmHg) can lead to blindness due to compression of axons of th
 ##Determinants of Intraocular Pressure
 Intraocular pressure is a function of:
 * Volume of aqueous humor  
-This is a function of:
+Aqueous humor is a clear fluid that fills the anterior and posterior chambers of the eye, and provides avascular tissues with nutrients and oxygen whilst still allowing light to pass freely between the lens and retina. Volume of aqueous humor is a function of:
     * Production  
     Aqueous humor is produced by filtration from capillaries in the ciliary body in the posterior chamber, and circulates through into the anterior chamber.
         * Production is accelerated by β2<sub>2</sub> agonism
