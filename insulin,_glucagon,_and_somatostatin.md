@@ -2,7 +2,13 @@
 > Describe the physiology of insulin, glucagon and somatostatin.
 
 ##Insulin
-Insulin is a **polypeptide** hormone synthesised in the rough endoplasmic reticulum of **B cells** in the **Islets of Langerhans**. It is synthesised from **proinsulin**, excreted via exocytosis, and has a circulatory **half-life** of **~5min**. Insulin has **minimal protein binding** and a **tiny volume of distribution** (V<sub>D</sub> 0.075 L.kg<sup>-1</sup>, increased to 0.146 L.kg<sup>-1</sup> in diabetics). It is **metabolised** in liver, muscle, and kidney **by glutathione insulin transhydrogenase**, with renal elimination of inactive metabolites.
+Insulin is a **polypeptide** hormone, and is:
+* Synthesised from **proinsulin** in the rough endoplasmic reticulum of **B cells** in the **Islets of Langerhans**
+* Excreted via exocytosisin response to an increase in intracellular Ca<sup>2+</sup>
+* **Minimally protein bound** witha **tiny volume of distribution** (V<sub>D</sub> 0.075 L.kg<sup>-1</sup>, increased to 0.146 L.kg<sup>-1</sup> in diabetics)
+* **Metabolised** in liver, muscle, and kidney **by glutathione insulin transhydrogenase**, with renal elimination of inactive metabolites  
+Circulatory **half-life** of **~5min**.
+
 
 ###Actions of Insulin
 Insulin binds to a specific insulin receptor (a membrane-spanning protein composed of α and β subunits)  on the cell membrane. The complex is internalised, and has its effects by way of tyrosine kinase activity.
