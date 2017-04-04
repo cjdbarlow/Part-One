@@ -16,7 +16,7 @@ Insulin binds to a specific insulin receptor (a membrane-spanning protein compos
 ||Seconds|Minutes|Hours|
 |--|--|--|--|
 |**Muscle**|Increased glucose, amino acid, ketone, and K<sup>+</sup> uptake|Increased anabolism, decreased catabolism||
-|**Fat**|Increased glucose, amino acid, and K<sup>+</sup> uptake|Increased glycerol phosphate synthesis|Increased fatty acid synthesis|
+|**Fat**|Increased glucose (via GLUT4), amino acid, and K<sup>+</sup> uptake|Increased glycerol phosphate synthesis|Increased fatty acid synthesis|
 |**Liver**||Decreased: gluconeogenesis, decreased ketogenesis. Increased: glycogen synthesis, glycolysis, protein synthesis, lipid synthesis||
 |**General**|||Increased cell growth|
 
