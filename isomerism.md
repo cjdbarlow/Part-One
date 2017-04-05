@@ -64,6 +64,6 @@ Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambr
 CICM. The Mock Exam. Available at: http://www.cicm.org.au/CICM_Media/CICMSite/CICM-Website/Trainees/Assessments%20and%20Examinations/First%20Part%20Exam/Mock-Exam-First-Part-Examination.pdf  
 Geometric isomerism. ChemGuide. Available at: http://www.chemguide.co.uk/basicorg/isomerism/geometric.html  
 ChEBI. Misoprostol. European Molecular Biology Laboratory. Available at: https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:63610
-
+ANZCA July/August 2000
 Get Through Primary FRCA: MTFs
 By James Day, Amy Thomson, Tamsin McAllister
