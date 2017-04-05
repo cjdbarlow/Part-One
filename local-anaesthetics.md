@@ -20,17 +20,23 @@ Characteristics are related to chemical structure. These include:
 * **Potency**  
 Potency is a function of:
   * Lipid solubility  
-  Potency increases with greater lipid solubility.
+  Potency (and also toxicity) increases with greater lipid solubility.
   * Vasodilator properties  
   In general, local anaesthetics cause vasodilation in low concentrations, and vasoconstriction at high concentrations (except cocaine, which causes vasoconstriction at all concentrations)
 * **Duration of action**  
 Duration of action is a function of:
-  * Protein binding  
-  Highly **protein bound** agents have an increased duration of action.
   * Vasodilator properties  
   Vasoconstriction increases the duration of block.
   * Use of additives  
   Addition of adrenaline to lignocaine increases duration of block.
+  * Site of administration  
+  Well vascularised tissue (e.g. intercostal area) will have greater systemic uptake of drug than vessel poor tissue.
+  * Protein binding  
+  Highly protein bound agents have an increased duration of action.
+    * Protein binding decreases with decreasing pH, increasing the fraction of unbound drug  
+    This is why agents such as bupivacaine are more cardiotoxic in acidotic patients.
+    * Local anaesthetics are predominantly bound to α-1-acid glycoprotein (AAG)  
+    AAG is reduced in pregancy, reducing the dose of LA in pregnant patients.
 * **Onset**  
 Speed of onset is related to:
   *  **pK<sub>a</sub>**  
