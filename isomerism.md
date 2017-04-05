@@ -40,7 +40,7 @@ Atoms are connected in the same order in each isomer, but differ in their spatia
        * Optical isomers are divided into:
            * **Enantiomers**  
            Possess one chiral centre.
-               * e.g. S-warfarin and R-warfarin
+               * e.g. levobupivacaine is less cardiotoxic than racemic bupivacaine.
            * **Diastereoisomers**  
            Possess multiple chiral centres, and may have multiple stereoisomers. Since not all are mirror images, these are not *enantiomers*.
                * For a molecule with *n* chiral centres up to *n<sup>2</sup>* isomers are possible, though some of these may be duplicates.
