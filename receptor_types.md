@@ -64,27 +64,18 @@ Most drugs which interact with enzymes inhibit their activity. This results in:
 * Increased concentration of enzymatic substrate
 * Decreased concentration of the product of the reaction
 
-Drugs can be competitive, non-competitive, or irreversible inhibitors of enzymatic activity.
-
-> Ramipril is a competitive inhibitor of angiotensin-converting enzyme.
-
-<!--></-->
-
-> Aspirin is an irreversible inhibitor of cyclo-oxygenase.
+Drugs can be competitive, non-competitive, or irreversible inhibitors of enzymatic activity. Examples include:
+* Ramipril is a competitive inhibitor of angiotensin-converting enzyme.
+* Aspirin is an irreversible inhibitor of cyclo-oxygenase.
 
 ###False substrates
-False substrates compete with the enzymatic binding site, and produce a product.
-
->Methyldopa is a false substrate of the enzyme dopamine decarboxylase.
+False substrates compete with the enzymatic binding site, and produce a product. Examples include:
+* Methyldopa is a false substrate of the enzyme dopamine decarboxylase.
 
 ##Physicochemical
-Drugs whose mechanism of action is due to their physicochemical properties.
-
->Mannitol reduces ICP because it increases tonicity of the extracellular compartment (and is unable to cross the BBB), drawing free water from the intracellular compartment as a consequence.
-
-<!--></-->
-
-> Aluminium hydroxide reacts with stomach acid to form aluminium chloride and water, reducing stomach pH. 
+Drugs whose mechanism of action is due to their physicochemical properties. Examples include:
+* Mannitol reduces ICP because it increases tonicity of the extracellular compartment (and is unable to cross the BBB), drawing free water from the intracellular compartment as a consequence.
+* Aluminium hydroxide reacts with stomach acid to form aluminium chloride and water, reducing stomach pH. 
 
 ---
 ##References
