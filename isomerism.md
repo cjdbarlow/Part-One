@@ -1,12 +1,21 @@
 #Isomerism {#id}
 >Describe isomerism and provide examples
 
-**Isomerism** is where molecules with the same chemical formula have different forms. Isomerism is revelant because different isomers may have different enzymatic and receptor affinities, altering their pharmacokinetic and pharmacodynamic properties.
+**Isomerism** describes groups of compounds which have the same chemical formula but different chemical stuctures. Isomerism is revelant because different isomers may have different enzymatic and receptor affinities, altering their pharmacokinetic and pharmacodynamic properties.
 
 ##Types of Isomerism
 Isomers can be divided into:
-* **Structural Isomers**
-* **Stereoisomers**
+* **Structural Isomers**  
+Atoms are connected in entirely different orders, and may contain different functional groups. Structural isomerism is subdivided into:
+    * Static  
+    Further subdivided into:
+        * Chain isomer  
+        The carbon skeleton varies, but position of functional groups is static.
+        * Position isomer  
+        The carbon skeleton is static, but the position of functional groups varies. e.g. butane vs. isobutane.
+    
+* **Stereoisomers**  
+Atoms are connected in the same order in each isomer, but differ in their spatial arrangement (i.e. through rotation).
 
 ###Structural Isomers
 Structural isomers have **different structural arrangements**.
@@ -73,3 +82,6 @@ Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambr
 CICM. The Mock Exam. Available at: http://www.cicm.org.au/CICM_Media/CICMSite/CICM-Website/Trainees/Assessments%20and%20Examinations/First%20Part%20Exam/Mock-Exam-First-Part-Examination.pdf  
 Geometric isomerism. ChemGuide. Available at: http://www.chemguide.co.uk/basicorg/isomerism/geometric.html  
 ChEBI. Misoprostol. European Molecular Biology Laboratory. Available at: https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:63610
+
+Get Through Primary FRCA: MTFs
+By James Day, Amy Thomson, Tamsin McAllister
