@@ -21,7 +21,7 @@ Diuretics are drugs that act on the kidney to increase urine production. There a
 
 
 ##Comparison of Diuretics
-||Thiazides|Loop Diuretics|Potassium Sparing|Aldosterone antagonists| Osmotic|Carbonic anhydrase inhibitors|
+||Thiazides|Loop Diuretics|Potassium Sparing|Aldosterone antagonists|Osmotic|Carbonic anhydrase inhibitors|
 |--|--|-----------|--|--|--|
 |**Example**|Chlorothiazide|Frusemide|Amiloride|Spironolactone|Mannitol|Acetazolamide|
 | **Site**|Distal tubule|Loop of Henle|Distal tubule|Distal tubule|Glomerulus|Proximal tubule|
