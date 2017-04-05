@@ -3,7 +3,7 @@
 
 Local anaesthetic drugs create a use-dependent temporary blockade of neuronal transmission by blocking the voltage-gated sodium channel in the cell membrane, preventing depolarisation. 
 
-All local anaesthetics consist of:
+All local anaesthetics are weak bases consisting of:
 * A hydrophilic component
 * A lipophilic aromatic ring
 * An amide or ester link connecting the two
@@ -18,16 +18,27 @@ Action is dependent on blockade of the sodium channel. Two theories exist:
 ##Key Characteristics of Local Anaethetics
 Characteristics are related to chemical structure. These include:
 * **Potency**  
-Potency is a function of **lipid solubility** and vasodilator properties.
+Potency is a function of:
+  * Lipid solubility  
+  Potency increases with greater lipid solubility.
+  * Vasodilator properties  
+  In general, local anaesthetics cause vasodilation in low concentrations, and vasoconstriction at high concentrations (except cocaine, which causes vasoconstriction at all concentrations)
 * **Duration of action**  
-Highly **protein bound** agents have an increased duration of action.
+Duration of action is a function of:
+  * Protein binding  
+  Highly **protein bound** agents have an increased duration of action.
+  * Vasodilator properties  
+  Vasoconstriction increases the duration of block.
+  * Use of additives  
+  Addition of adrenaline to lignocaine increases duration of block.
 * **Onset**  
-Speed of onset is related to **pK<sub>a</sub>** and **dose**.
-  * Agents with a low pK<sub>a</sub> are less ionised at physiological pH (remember **b**ases are ionised **b**elow their pK<sub>a</sub>), and therefore have a faster onset of action.
+Speed of onset is related to:
+  *  **pK<sub>a</sub>**  
+  Agents with a low pK<sub>a</sub> are less ionised at physiological pH (remember **b**ases are ionised **b**elow their pK<sub>a</sub>), and therefore have a faster onset of action.
     * This is also why anaesthetics are ineffective in anaesthetising infected tissue, as the low pH makes the majority of the LA ionised and unable to cross the cell membrane.
-  * Increasing the dose increases the speed of onset, as per Fick's Law
+  * Dose  
+  Increasing the dose increases the speed of onset, as per Fick's Law.
 * **Vasodilator activity**  
-In general, drugs cause vasodilation in low concentrations, and vasoconstriction at high concentrations (though there are exceptions, e.g. cocaine).
 
 ##Toxicity
 Local anaesthetics are:
