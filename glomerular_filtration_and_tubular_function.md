@@ -3,17 +3,19 @@
 
 ##Glomerulus
 * The **glomerulus** is a set of capillaries which invaginate **Bowman's capsule**
-* Fluid filters out of the capillary bed into Bowman's space based on:
-  * Starlings forces  
-  Competing hydrostatic and oncotic pressures.
-  * Membrane permeability  
-  Permeability is determined by the permeability of:  
-    *  **Capillary endothelium**
-    *  **Basement membrane**
-    *  **Foot processes** of podocytes
+* Fluid filters out of the capillary bed into Bowman's space based on **Starling forces**:
+  * Membrane permeability
+  * Hydrostatic pressure gradients
+  * Oncotic pressure gradient
+    * Reflection coefficient
+  * Membrane permeability
 
 ###Glomerular Filtration Rate
-**Glomerular Filtration Rate** is the volume of *plasma* filtered by the glomerulus each minute. A typical value is **125ml.min<sup>-1</sup>**, though this falls with age (partially due to loss of nephron number). Normal renal *blood* flow is 1.1 L.min<sup>-1</sup>, however renal *plasma* flow is less at 600 ml.min<sup>-1</sup>. Therefore, the normal filtration fraction (proportion of renal blood flow which is filtered) is ~20%.
+**Glomerular Filtration Rate** is:
+  * The volume of *plasma* filtered by the glomerulus each minute  
+  Normal renal *blood* flow is 1.1 L.min<sup>-1</sup>, however renal *plasma* flow is less at 600 ml.min<sup>-1</sup> for a normal haematocrit. Therefore, the normal filtration fraction (proportion of renal blood flow which is filtered) is ~20%.
+  * Typically **125ml.min<sup>-1</sup>**  
+    * Decreases with age (partially due to loss of nephron number). 
 
 GFR can be expressed as the **product** of **Net Filtration Pressure** and the combination of membrane permeability and membrane surface area, designated **K<sub>f</sub>** (the filtration coefficient):
 
@@ -23,7 +25,7 @@ $$GFR = NFP \times K_f $$
 
     $$NFP = P_{Glomerular \ Hydrostatic} - P_{Bowman's \ Hydrostatic} -P_{Glomerular \ Oncotic}$$
 
-    As protein is not filtered, oncotic pressure in Bowman's space is trivial and it is not included.
+    As protein is not filtered in normal states, the oncotic pressure in Bowman's Space is usually assumed to be 0mmHg.
 
     * **Hydrostatic pressure**  
     Determined by renal blood flow and the relative constriction of the **afferent** and **efferent** arterioles. Hydrostatic pressure **decreases along the capillary**.
@@ -32,18 +34,29 @@ $$GFR = NFP \times K_f $$
         * Catecholamines
         * Local autoregulation
           * Myogenic
-          * Tubuloglomerular Feedback <br> <br>
+          * Tubuloglomerular Feedback
+          * Hormones
+            * Angiotensin II constricts the efferent arteriole more than the afferent arteriole, causing an increase in renal resistance with only a small decrease in GFR.
+            * Prostaglandin E2 dilates the afferent arteriole, increasing GFR <br> <br>
     * **Osmotic pressure**  
     **Increases along the capillary**, as protein free-fluid is filtered leaving a higher concentration of protein within the capillary. This change in capillary oncotic pressure is proportional to the filtration fraction - a greater filtration fraction will cause a higher oncotic pressure of fluid in the capillary.
 
 
 * **Membrane permeability**  
-    Typically very high for water and solutes. Molecules **less** than **7000 Dalton** are **freely filtered**, whilst larger molecules are filtered less.
-    **Negatively charged** molecules have **reduced filtration** as the basement membrane is also negatively charged which opposes movement out of the capillary.  
-    Affected by:
-    * Glomerulonephritis
-        * Change in basement membrane or podocyte foot processes
-    * Angiotensin II causing contraction of mesangial cells
+Overall permeability is:
+  * A function of:
+    * Membrane permeability, in turn affected by:
+      * **Capillary endothelium**
+      * **Basement membrane**  
+      **Negatively charged** molecules have **reduced filtration** as the basement membrane is also negatively charged which opposes movement out of the capillary.  
+      * **Foot processes** of podocytes
+      Molecules **less** than **7000 Dalton** are **freely filtered**, whilst larger molecules are filtered less.
+    * Membrane Surface Area
+      Typically very high for water and solutes. 
+    * Affected by:
+      * Glomerulonephritis
+          * Change in basement membrane or podocyte foot processes
+      * Angiotensin II causing contraction of mesangial cells
 
 
 ##Tubular Function
