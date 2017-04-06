@@ -16,7 +16,7 @@
 |**Blood:gas coefficient**|0.47
 |**Oil:gas coefficient**|1.4
 |**MAC**|105
-|**Metabolism**|<0.01% metabolised.
+|**Metabolism**|< 0.01% hepatic reduction.
 |**Resp**|Diffusion hypoxia due to second gas effect. Small ↓ in V<sub>T</sub>, ↑ in RR such that MV is unchanged.
 |**CVS**|↑ SNS tone, mild myocardial depression.
 |**CNS**|Analgesic via endorphin and encephalin modulation, and on opioid receptors. ↑ CBF.

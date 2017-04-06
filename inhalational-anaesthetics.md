@@ -14,16 +14,17 @@
 
 |Property|Action|
 |--|--|
-|**Metabolism**|Hepatic CYP450 (CYP2E1) metabolises C-halogen bonds to release halogen ions (F<sup>-</sup>, Cl<sup>-</sup>, Br<sup>-</sup>), which can be nephrotoxic and hepatotoxic. The C-F bond is minimally metabolised compared to the C-Cl, C-Br, and C-I bonds.
+|**Metabolism**|Hepatic CYP450 (CYP2E1) metabolises C-halogen bonds to release halogen ions (F<sup>-</sup>, Cl<sup>-</sup>, Br<sup>-</sup>), which can be nephrotoxic and hepatotoxic. The C-F bond is minimally metabolised compared to the C-Cl, C-Br, and C-I bonds. All agents undergo hepatic oxidation, except for halothane which is reduced.
 |**Resp**|All halogenated agents ↓ V<sub>T</sub> and ↑ RR, with an overall ↓ in MV and therefore cause PaCO<sub>2</sub> to ↑; and ↓ sensitivity of central respiratory centres to CO<sub>2</sub>.
 |**CVS**|↓ MAP (predominantly by ↓ in SVR), ↓ inotropy
-|**CNS**|↓ EEG frequency such that θ- and δ-wave dominate the EEG as depth ↑. May cause burst suppression. ↓ CMRO<sub>2</sub> but generally ↑ CBF. Cause cerebral vasodilation but **do not increase ICP** when MAC is < 1. <br><br> All except halothane have some analgesic effect.
-|**Renal**|Dose dependent ↓ in RBF, GFR, and UO secondary to ↓ in MAP and CO. <br><br>Fluorinated ethers produce F<sup>-</sup> ions when hepatically metabolised, which may produce high-output renal failure at serum concentrations >50μmol/L. This is probably only a concern with methoxyflurane (as it has significant (>70%) hepatic metabolism) when used at anaesthetic doses.
+|**CNS**|Hypnosis. ↓ CMRO<sub>2</sub> but generally ↑ CBF. Cause cerebral vasodilation but **do not increase ICP** when MAC is < 1. Above this there is **uncoupling** of the CBF-CMRO<sub>2</sub> relationship, and ICP may mirror CBF changes. <br><br> All except halothane have some analgesic effect. ↓ EEG frequency such that θ- and δ-wave dominate the EEG as depth ↑. May cause burst suppression. 
+|**MSK**|Augment the effects of NMBD. May precipitte MH.
+|**Renal**|Dose dependent ↓ in RBF, GFR, and UO secondary to ↓ in MAP and CO. <br><br>Fluorinated ethers produce F<sup>-</sup> ions when hepatically metabolised, which may produce high-output renal failure at serum concentrations **>50μmol/L**. This is probably only a concern with methoxyflurane (as it has significant (>70%) hepatic metabolism) when used at anaesthetic doses.
 |**GIT**|↓ Hepatic blood flow. 
 |**GU**|Tocolysis
 |**Immune**|
 |**Metabolic**|
-|**Toxic Effects**|
+|**Toxic Effects**|Decreased fertility and increased risk of spontaneous abortion in operating theatre personnel.
 
 ##Comparison of Common Inhalational Agents
 |Property|Sevoflurane|Isoflurane|Desflurane|
@@ -31,10 +32,10 @@
 |**Pharmaceutics**|Minimally soluble, light stable, not flammable. Formulated with 300ppm of H<sub>2</sub>O to prevent formation of HF acid by Lewis acids in glass|Soluble in rubber, light stable, not flammable|Light sensitive, flammable at 17%|
 |**Molecular Weight**|200.1|184.5|168.0
 |**Boiling point**|58.5°C|48.5°C|23.5°C|
-|**SVP** at 20°C|
+|**SVP** (mmHg) at 20°C|158|248|652|
 |**Blood:gas coefficient**|0.7|1.4|0.42|
 |**Oil:gas coefficient**|80|98|29|
-|**MAC**|1.8|1.17|6.6|
+|**MAC**|2|1.15|6.6|
 |**Metabolism**|3-5% CYP2E1 metabolism to hexafluoroisopropanol and inorganic F<sup>-</sup> (which may be nephrotoxic)|0.2% hepatic to nontoxic metabolites
 |**Resp**|Bronchodilation, ↓ MV. Smallest ↓ in V<sub>T</sub> and therefore smallest ↑ in PaCO<sub>2</sub>|Bronchodilation, airway irritability. ↓ MV (greater than halothane) with ↑ in RR|Airway irritability manifest as coughing and breath-holding, ↑ secretions|
 |**CVS**|↑ QT, ↓ SVR causing ↓ MAP without a reflex ↑ HR. Inotropy unchanged. Smallest ↓ in BP of any inhalational agent.|Reflex ↑ HR due to ↓ MAP from ↓ SVR. Small ↓ inotropy and CO, equivalent to sevoflurane but greater than desflurane. May cause **coronary steal**.|Minimal ↓ inotropy (least of all inhalational agents), but greater ↓ in SVR and BP than sevoflurane. ↑ in HR, with a bigger increase at >1.5 MAC.
@@ -45,23 +46,23 @@
 |**Toxic Effects**|Sevoflurane interacts with soda lime to produce **Compound A** (as well as B through E, which are unimportant), which is nephrotoxic in rats (but not, it seems, in humans).|-CHF<sub>2</sub> group may react with dry soda lime to produce CO|Desflurane has much greater greenhouse gas effects than sevoflurane or isoflurane|
 
 ##Comparison of Uncommon Inhalational Agents
-|Property|Enflurane|Halothane|Ether|Xenon|
+|Property|Enflurane|Halothane|Xenon|
 |--|--|
-|**Pharmaceutics**||Light unstable. Corrodes some metals and dissolves into rubber.||Not flammable. Very expensive to produce.
-|**Molecular Weight**|184.5|197||131|
-|**Boiling point**|56.5°C|50.2°C||-108°C|
-|**SVP** at 20°C||||-|
-|**Blood:gas coefficient**|1.8|2.4||0.14
-|**Oil:gas coefficient**|98|224||1.9
-|**MAC**|1.68|0.75||71
-|**Metabolism**||~25% undergoes oxidative phosphorylation by CYP450 systems, producing **trifluoroacetic acid**, which binds to protein and can cause a T-cell mediated hepatitis, which can be fatal in ~1/10,000 anaesthetics.||Not metabolised.|
-|**Resp**|Largest ↓ in V<sub>T</sub>, therefore largest ↑ in PaCO<sub>2</sub>|↑ in RR, ↓ in V<sub>T</sub> with overall unchanged PaCO<sub>2</sub>||↓ RR, ↑ in V<sub>T</sub> such that MV is constant. 3x as dense and 1.5x as viscous as N<sub>2</sub>O, which increases effective airway resistance. Does not appear to cause diffusion hypoxia.|
-|**CVS**||Greatest ↓ in inotropy, HR, SVR, and MAP. Significant ↑ in catecholamine sensitivity.|||
-|**CNS**|Produces 3Hz "spike and wave" EEG pattern at high concentrations, resembling grand mal seizures|Greatest ↑ in CNS blood flow||Analgesic|
-|**MSK**||||Muscle relaxation when >60%
-|**Renal**|Direct nephrotoxicity, potentially related to fluoride (though this association is not present with other anaesthetic agents)||||
-|**GU**|Least tocolytic effect||||
-|**Toxic effects**|Produces F<sup>-</sup> ions|Hepatic damage may be: <br> - Reversible transaminitis <br> - Fulminant hepatic necrosis, with a mortality of 50-75%. 
+|**Pharmaceutics**||Light unstable. Corrodes some metals and dissolves into rubber.|Not flammable. Very expensive to produce.
+|**Molecular Weight**|184.5|197|131|
+|**Boiling point**|56.5°C|50.2°C|-108°C|
+|**SVP** (mmHg) at 20°C|172|240|-|
+|**Blood:gas coefficient**|1.8|2.4|0.14
+|**Oil:gas coefficient**|98|224|1.9
+|**MAC**|1.7|0.75|71
+|**Metabolism**||~25% undergoes oxidative phosphorylation by CYP450 systems, producing **trifluoroacetic acid**, which binds to protein and can cause a T-cell mediated hepatitis, which can be fatal in ~1/10,000 anaesthetics.|Not metabolised.|
+|**Resp**|Largest ↓ in V<sub>T</sub>, therefore largest ↑ in PaCO<sub>2</sub>|↑ in RR, ↓ in V<sub>T</sub> with overall unchanged PaCO<sub>2</sub>|↓ RR, ↑ in V<sub>T</sub> such that MV is constant. 3x as dense and 1.5x as viscous as N<sub>2</sub>O, which increases effective airway resistance. Does not appear to cause diffusion hypoxia.|
+|**CVS**||Greatest ↓ in inotropy, HR, SVR, and MAP. Significant ↑ in catecholamine sensitivity.||
+|**CNS**|Produces 3Hz "spike and wave" EEG pattern at high concentrations, resembling grand mal seizures|Greatest ↑ in CNS blood flow|Analgesic|
+|**MSK**|||Muscle relaxation when >60%. Does not trigger MH.
+|**Renal**|Direct nephrotoxicity, potentially related to fluoride (though this association is not present with other anaesthetic agents)|||
+|**GU**|Least tocolytic effect|||
+|**Toxic effects**|Produces F<sup>-</sup> ions|Hepatic damage may be: <br> - Reversible transaminitis <br> - Fulminant hepatic necrosis, with a mortality of 50-75%.||
 
 
 ##References
