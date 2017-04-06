@@ -251,7 +251,6 @@ Different chemical and physical properties alter the effect of inhalational agen
         * Decreases potency
     * Cl<sup>-</sup> content  
     Increased chloride increases potency.
-    * 
     * -CHE<sub>2</sub> (Di-fluor-methyl group)  
         * Produces CO in the presence of dry soda lime
 
