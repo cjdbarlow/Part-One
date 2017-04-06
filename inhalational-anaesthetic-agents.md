@@ -71,13 +71,16 @@ The MAC of an agent is inversely proportional to potency; i.e. more potent agent
 The MACs of different agents used simultaneously are aditive.
 * Normally-distributed  
 Not all patients will be unresponsive at 1 MAC.
+* Estimated clinically using end-tidal gas measurement
 * One of several related terms:
     * MAC awake  
+    Typically 1/3<sup>rd</sup> of MAC for most agents
     * MAC-BAR  
     Minimum alveolar concentration required to **b**lock **a**drenergic **response**, i.e. to prevent a rise in HR or BP following skin incision.
     * MAC<sub>95</sub>  
     The MAC required to prevent a movement response to a standard surgical stimulus in 95% of the ppulation.
-* Estimated clinically using end-tidal gas measurement
+    * MAC.hr<sup>-1</sup>  
+    The amount of time a patient is exposed to 1 MAC of an agent. Used to compare different agents.
 
 ####Factors Affecting MAC
 |Decreases MAC|Increases MAC|
@@ -114,7 +117,7 @@ A **high** oil:gas partition coefficient indicates a greater potency, and theref
 ##Pharmacokinetics of Inhalational Agents
 Achieving the required P<sub>B</sub> requires maintaining P<sub>A</sub> at a high enough level. By increasing P<sub>A</sub>, the pressure gradient for diffusion into blood, and therefore CNS, is increased.
 
-The P<sub>A</sub> is dependent on:
+The speed of onset of an inhalational agent is dependent on:
 * **Alveolar concentration of agent**  
     * **Inspired concentration**  
     A high inspired concentration (*F*<sub>i</sub>) will increase the rate of increase of alveolar concentration (*F*<sub>A</sub>). Inspired concentration is dependent on:
@@ -174,6 +177,23 @@ The P<sub>A</sub> is dependent on:
             * Fat has a much higher affinity for anaesthetic than muscle, but equilibrates very slowly due to the very low blood flow  
             This has a greater effect in obese people, especially during prolonged anaesthesia, as they have a longer equilibration time and therefore prolonged emergence.
 
+###Recovery from Anaesthesia
+Recovery is dependent on how quickly an inhalational agent can be eliminated from the effect site, and is affected by:
+* Drug factors
+    * Blood:gas partition coefficient  
+    Highly soluble agents will have an increased amount of drug dissolved in tissue, so a large resevoir of drug exists that will have to be removed.
+    * Metabolism  
+    Agents undergoing metabolism are eliminated more rapidly.
+* Patient factors  
+    * V<sub>A</sub>  
+    Increased alveolar ventilation increases elimination.
+    * Cardiac output  
+    Increased cardiac output increases elimination.
+    * Duration of anaesthetic  
+    Important for highly soluble agents used in long cases.
+* Machine factors
+    * Flow rate  
+    Affect the amount of gas being rebreathed.
 
 ###Alteration to Pharmacokinetics in Children and the Elderly
 Increased rate of induction in children due to:
