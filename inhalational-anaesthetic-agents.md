@@ -120,7 +120,7 @@ The P<sub>A</sub> is dependent on:
     A high inspired concentration (*F*<sub>i</sub>) will increase the rate of increase of alveolar concentration (*F*<sub>A</sub>). Inspired concentration is dependent on:
         * Delivered concentration in fresh gas
         * Fresh gas flow  
-        **Increasing FGF** (and the concentration of agent in the added gas) *F*<sub>i</sub>.
+        **Increasing FGF** (and the concentration of agent in the added gas) increases *F*<sub>i</sub>.
         * Volume of the breathing system  
         A **lower circuit volume** will increase the rate at which the patient reaches equilibrium with the circuit, and therefore **increase *F*<sub>i</sub>**.
         * Circuit absorption  
@@ -129,6 +129,22 @@ The P<sub>A</sub> is dependent on:
     Increased alveolar ventilation increases *F*<sub>i</sub>, as it replenishes agent that has been taken up into the vasculature.
     * **FRC**  
     A **large FRC** will dilute the amount of agent inspired with each breath, and so **reduce *F*<sub>i</sub>**.
+        * This is measured with the V<sub>A</sub>/FRC ratio  
+        Increased ratio increases speed of onset.
+            * Normal in adults: 1.5:1
+            * Normal in neonates: 5:1
+    * **Second gas effect**  
+    Use of N<sub>2</sub>O with another agent will increase the P<sub>A</sub> of that agent. This is because:
+        * N<sub>2</sub>O is **20x** as soluble in blood as either blood or nitrogen, and is administered in high concentrations, so it is rapidly absorbed from alveoli
+        * If nitrous oxide is delivered at high concentrations, it's rapid absorption means that alveoli will **shrink**, causing:
+            * An increase in the fractional concentration of all other gases  
+            This is known as the **concentration effect**, and increases the pressure gradient driving diffusion into blood, increasing speed of onset.
+                * The concentration effect is the cause of the second gas effect.
+            * Augmented ventilation as more inhalational agent is drawn in the alveoli.
+        * The second gas effect also causes **diffusion hypoxia**  
+    When inspired N<sub>2</sub>O is reduced, N<sub>2</sub>O will leave blood and enter the alveolus, displacing other gases in the alveolus.
+            * This can cause a reduction in PAO<sub>2</sub>, and therefore hypoxaemia
+            * Diffusion hypoxia is avoided by delivering 100% oxygen, which maintains an adequate PAO<sub>2</sub> as N<sub>2</sub>O is removed
 
 
 * **Drug uptake from the lungs**  
@@ -157,18 +173,7 @@ The P<sub>A</sub> is dependent on:
             * Muscle has a similar affinity as blood, but equilibrates more slowly than the CNS due to lower blood flow
             * Fat has a much higher affinity for anaesthetic than muscle, but equilibrates very slowly due to the very low blood flow  
             This has a greater effect in obese people, especially during prolonged anaesthesia, as they have a longer equilibration time and therefore prolonged emergence.
-    * **Second gas effect**  
-    Use of N<sub>2</sub>O with another agent will increase the P<sub>A</sub> of that agent. This is because:
-        * N<sub>2</sub>O is **20x** as soluble in blood as either blood or nitrogen, and is administered in high concentrations, so it is rapidly absorbed from alveoli
-        * If nitrous oxide is delivered at high concentrations, it's rapid absorption means that alveoli will **shrink**, causing:
-            * An increase in the fractional concentration of all other gases  
-            This is known as the **concentration effect**, and increases the pressure gradient driving diffusion into blood, increasing speed of onset.
-                * The concentration effect is the cause of the second gas effect.
-            * Augmented ventilation as more inhalational agent is drawn in the alveoli.
-        * The second gas effect also causes **diffusion hypoxia**  
-        When inspired N<sub>2</sub>O is reduced, N<sub>2</sub>O will leave blood and enter the alveolus, displacing other gases in the alveolus.
-            * This can cause a reduce in PAO<sub>2</sub>, and cause hypoxia
-            * Diffusion hypoxia is avoided by delivering 100% oxygen, which maintains an adequate PAO<sub>2</sub> as N<sub>2</sub>O is removed
+
 
 ###Alteration to Pharmacokinetics in Children and the Elderly
 Increased rate of induction in children due to:
