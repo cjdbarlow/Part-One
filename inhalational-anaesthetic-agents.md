@@ -100,14 +100,14 @@ Not all patients will be unresponsive at 1 MAC.
 
 ###Partition Coefficients
 A **partition coefficient** describes the **relative affinity** of an agent for two phases, and is **defined** as the **ratio of the concentration** of agent in each phase when the **partial pressures are in equilibrium**.
-* The **blood:gas partition coefficient** describes the solubility of the agent in blood relative to air  
+* The **blood:gas partition coefficient** describes the solubility of the agent in blood relative to air, when the two phases are of equal volume and in equilibrium at STP  
 A **low** blood:gas partition coefficient indicates a **rapid** onset and offset. This is because:
     * Poorly soluble agents generate a high P<sub>a</sub>, which creates a steep gradient between P<sub>a</sub> and P<sub>B</sub>, giving a rapid onset of action
     * Conversely, soluble agents dissolve easily into pulmonary blood without substantially increasing P<sub>a</sub>.  
     This causes leads to a slow onset due to:
-    * A large fall in P<sub>A</sub> as the agent leaves the alveolus, decreasing the gradient for further diffusion
-    * A small gradient between P<sub>a</sub> and P<sub>B</sub><br><br>
-* The **oil:gas partition coefficient** describes the solubility of the agent in fat relative to air  
+        * A large fall in P<sub>A</sub> as the agent leaves the alveolus, decreasing the gradient for further diffusion
+        * A small gradient between P<sub>a</sub> and P<sub>B</sub><br><br>
+* The **oil:gas partition coefficient** describes the solubility of the agent in fat relative to air, when both phases are of equal volume and in equilibrium at STP  
 A **high** oil:gas partition coefficient indicates a greater potency, and therefore a low MAC.
 
 
@@ -139,6 +139,8 @@ The P<sub>A</sub> is dependent on:
         * Haematocrit  
         Variable effect, which depends on the particular agents affinity for red cells or plasma (and serum constituents, e.g. albumin).
             * An agent that is less soluble in red cells (e.g. isoflurane) will have a decreased blood-gas partition coefficient in anaemia.
+        * Fat  
+        Blood:gas partition coefficient increases following fat ingestion.
     * **Alveolar blood flow**  
     Increased alveolar blood flow increases uptake and delivery to tissues, including the CNS.
         * However, the increased uptake causes a reduction in P<sub>A</sub>  
@@ -203,6 +205,31 @@ Anaesthetic agents may alter the function of molecules within the CNS. These inc
     This prolongs the time it spends open once activated, prolonging the inhibitory Cl<sup>-</sup> current and increasing the degree of hyperpolarisation.
     * Enhance the activity of two-pore K<sup>+</sup> channels  
     Increases the resting membrane potential of both pre-synaptic and post-synaptic CNS neurons.
+
+###Structure-Activity Realtionships of Inhaled Anaesthetics
+Different chemical and physical properties alter the effect of inhalational agents:
+* Physical
+    * Molecular weight  
+    A decrease in molecular weight:
+        * Decreases boiling point, therefore
+        * Increases SVP
+* Chemical
+    * H<sup>+</sup> content  
+    Greater hydrogen content:
+        * Increases flammability
+        * Increases potency
+    * F<sup>-</sup> content  
+    Greater fluoride content:
+        * Decreases flammability
+        * Decreases oxidative metabolism  
+        This decreases toxicity.
+        * Decreases potency
+    * Cl<sup>-</sup> content  
+    Increased chloride increases potency.
+    * 
+    * -CHE<sub>2</sub> (Di-fluor-methyl group)  
+        * Produces CO in the presence of dry soda lime
+
 
 ##The Ideal Inhaled Anaesthetic Agent
 From the properties discussed above, we can construct the following ideal agent:
