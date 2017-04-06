@@ -31,6 +31,9 @@ Duration of action is a function of:
   Addition of adrenaline to lignocaine increases duration of block.
   * Site of administration  
   Well vascularised tissue (e.g. intercostal area) will have greater systemic uptake of drug than vessel poor tissue.
+  * Lipid solubility  
+  Increased lipid solubility increases duration of action, as agent remains in the nerve for longer.
+    * Potency therefore has a positive correlation with duration of action
   * Protein binding  
   Highly protein bound agents have an increased duration of action.
     * Protein binding decreases with decreasing pH, increasing the fraction of unbound drug  
@@ -44,7 +47,7 @@ Speed of onset is related to:
     * This is also why anaesthetics are ineffective in anaesthetising infected tissue, as the low pH makes the majority of the LA ionised and unable to cross the cell membrane.
   * Dose  
   Increasing the dose increases the speed of onset, as per Fick's Law.
-* **Vasodilator activity**  
+
 
 ##Toxicity
 Local anaesthetics are:
