@@ -231,7 +231,7 @@ Anaesthetic agents may alter the function of molecules within the CNS. These inc
     * Enhance the activity of two-pore K<sup>+</sup> channels  
     Increases the resting membrane potential of both pre-synaptic and post-synaptic CNS neurons.
 
-###Structure-Activity Realtionships of Inhaled Anaesthetics
+###Structure-Activity Relationships of Inhaled Anaesthetics
 Different chemical and physical properties alter the effect of inhalational agents:
 * Physical
     * Molecular weight  
