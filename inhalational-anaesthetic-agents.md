@@ -100,15 +100,15 @@ Not all patients will be unresponsive at 1 MAC.
 
 ###Partition Coefficients
 A **partition coefficient** describes the **relative affinity** of an agent for two phases, and is **defined** as the **ratio of the concentration** of agent in each phase when the **partial pressures are in equilibrium**.
-    * The **blood:gas partition coefficient** describes the solubility of the agent in blood relative to air  
-    A **low** blood:gas partition coefficient indicates a **rapid** onset and offset. This is because:
-        * Poorly soluble agents generate a high P<sub>a</sub>, which creates a steep gradient between P<sub>a</sub> and P<sub>B</sub>, giving a rapid onset of action
-        * Conversely, soluble agents dissolve easily into pulmonary blood without substantially increasing P<sub>a</sub>.  
-        This causes leads to a slow onset due to:
-            * A large fall in P<sub>A</sub> as the agent leaves the alveolus, decreasing the gradient for further diffusion
-            * A small gradient between P<sub>a</sub> and P<sub>B</sub><br><br>
-    * The **oil:gas partition coefficient** describes the solubility of the agent in fat relative to air  
-    A **high** oil:gas partition coefficient indicates a greater potency, and therefore a low MAC.
+* The **blood:gas partition coefficient** describes the solubility of the agent in blood relative to air  
+A **low** blood:gas partition coefficient indicates a **rapid** onset and offset. This is because:
+    * Poorly soluble agents generate a high P<sub>a</sub>, which creates a steep gradient between P<sub>a</sub> and P<sub>B</sub>, giving a rapid onset of action
+    * Conversely, soluble agents dissolve easily into pulmonary blood without substantially increasing P<sub>a</sub>.  
+    This causes leads to a slow onset due to:
+    * A large fall in P<sub>A</sub> as the agent leaves the alveolus, decreasing the gradient for further diffusion
+    * A small gradient between P<sub>a</sub> and P<sub>B</sub><br><br>
+* The **oil:gas partition coefficient** describes the solubility of the agent in fat relative to air  
+A **high** oil:gas partition coefficient indicates a greater potency, and therefore a low MAC.
 
 
 ##Pharmacokinetics of Inhalational Agents
