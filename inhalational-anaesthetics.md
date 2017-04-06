@@ -8,7 +8,7 @@
 
 <!--></!-->
 
-> <p style="color:purple";> Describe the comparative pharmacology of ~~nitrous oxide~~, halothane, enflurane, isoflurane, desflurane, sevoflurane, xenon and ether</p>
+> <p style="color:purple";> Describe the comparative pharmacology of <s>nitrous oxide</s>, halothane, enflurane, isoflurane, desflurane, sevoflurane, xenon and ether</p>
 
 ##Common Features of Inhalational Agents
 
