@@ -31,7 +31,7 @@ Mechanism of action is by competitive antagonism of ACh at the NMJ, preventing e
 |**Elimination**|Biliary and renal elimination. Prolonged duration in hepatic and renal failure|Biliary elimination|Biliary elimination|||
 |**Resp**||||Slight risk of bronchospasm with rapid injection|Slight risk of bronchospasm with rapid injection|
 |**CVS**|↑HR at high doses|**No** ↑HR|↑HR|Slight risk of ↓BP with rapid injection|Slight risk of ↓BP with rapid injection|
-|**Immune**|High risk of anaphylaxis|||||
+|**Immune**|Higher risk of anaphylaxis, probably comparable with suxamethonium|||||
 |**Other**|Reversible with **sugammadex**||||||
 
 ---
