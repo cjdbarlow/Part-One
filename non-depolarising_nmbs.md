@@ -27,7 +27,7 @@ Mechanism of action is by competitive antagonism of ACh at the NMJ, preventing e
 |**Dosing**|0.6-1.2 mg.kg<sup>-1</sup>|0.1 mg.kg<sup>-1</sup>|0.1 mg.kg<sup>-1</sup>|0.5 mg.kg<sup>-1</sup>|0.15-0.2mg.kg<sup>-1</sup>|
 |**Onset**|45-90s|90-120s|90-150s|90-120s|60-180s|
 |**Duration**|~30 minutes with normal renal function, repeat doses may be more unpredictable|45-65 minutes|60-100 minutes|15-35 minutes|25 minutes|
-|**Metabolism**|Minimal hepatic metabolism to inactive metabolites|Hepatic metabolism|Hepatic metabolism|Ester hydrolysis and Hofmann Elimination|Hofmann elimination|
+|**Metabolism**|Minimal hepatic metabolism to inactive metabolites|Hepatic metabolism|Hepatic metabolism|2/3<sup>rds</sup> by ester hydrolysis, with remainder by Hofmann Elimination. Metabolised to **laudanosine**, which causes seizures in high concentrations (relevant when administered by long infusion)|Hofmann elimination|
 |**Elimination**|Biliary and renal elimination. Prolonged duration in hepatic and renal failure|Biliary elimination|Biliary elimination|||
 |**Resp**||||Slight risk of bronchospasm with rapid injection|Slight risk of bronchospasm with rapid injection|
 |**CVS**|↑HR at high doses|**No** ↑HR|↑HR|Slight risk of ↓BP with rapid injection|Slight risk of ↓BP with rapid injection|
