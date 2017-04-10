@@ -4,21 +4,23 @@
 Work of breathing is the energy used by the muscles for respiration. It is defined as:  
 $$Work = Pressure \times Volume$$, measured in Joules.
 
-* This gives the work for a single cycle
+* This gives the work for a single respiratory cycle  
+Energy expenditure over time is better described as the "power of breathing".
 * It does not take into account **respiratory rate** or **flow rate**  
 These factors have a significant effect on energy requirement.
   * This would be given by the **rate of work**, or **power**, where:  
   $$Power = {Work \over Time}$$, measured in Watts.
   * Tidal breathing is efficient and uses <2% of BMR
+* The oxygen requirement of breathing at rest is ~2-5% of VO<sub>2</sub>
 
 ##Determinants of Work of Breathing
 Work of breathing is divided into:
 * **Elastic work**  
-Energy required to overcome elastic forces:
+About 65% of total work, and is stored as elastic potential energy. Energy required to overcome elastic forces:
   * Lung elastic recoil
   * Surface tension of alveoli
 * **Resistive work**  
-Energy required to overcome frictional forces:
+About 35% of total work, and is lost as heat. Energy required to overcome frictional forces:
   * Between tissues
     * Increased with increased interstitial lung tissue
   * Between gas molecules
