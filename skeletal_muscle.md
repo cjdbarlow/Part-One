@@ -1,5 +1,5 @@
 # Skeletal Muscle {#id}
-> Describe the anatomy and physiology of skeletal~~, smooth, and cardiac~~ muscle
+> Describe the anatomy and physiology of skeletal ~~, smooth, and cardiac~~ muscle
 
 <!--></!-->
 
@@ -59,7 +59,7 @@ Muscle contraction normally requires the coordination of electrical (signaling) 
 
 * In response to ACh stimulating nicotinic receptors, the Na<sup>+</sup> and K<sup>+</sup> conductance of the end-plate increase and an **end-plate potential** is generated
 * Muscle fibres undergo successive depolarisation and an action potential is generated along T tubules
-* Ca<sup>2+</sup> is released from sarcoplasmic reticulum
+* Ca<sup>2+</sup> is released from sarcoplasmic reticulum  
 
 * Ca<sup>2+</sup> from he SR binds to **troponin C**, weakening the troponin I - actin link and uncovering myosin-binding sites on actin
 * Cross-linkages form between actin and myosin, which releases ADP
