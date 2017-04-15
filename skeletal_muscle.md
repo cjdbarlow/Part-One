@@ -58,10 +58,17 @@ Actin from adjacent sarcomeres are connected at the Z line.
 Muscle contraction normally requires the coordination of electrical (signaling) events with mechanical events.
 
 * In response to ACh stimulating nicotinic receptors, the Na<sup>+</sup> and K<sup>+</sup> conductance of the end-plate increase and an **end-plate potential** is generated
-* Muscle fibres undergo successive depolarisation and an action potential is generated along T tubules
+* Muscle fibres undergo successive depolarisation and an action potential is generated along T tubules  
+These deliver the AP deep into the cell, and close to the SR.
 * Ca<sup>2+</sup> is released from sarcoplasmic reticulum  
+This process involves:
+    * Dihydropyridine Receptor  
+    Specialised voltage-gated L-type Ca<sup>2+</sup> channel, activated by T-tubular depolarisation. Responsible for a small amount of Ca<sup>2+</sup> transport.
+    * Ryanodine Receptor  
+    A second Ca<sup>2+</sup> channel which is attached to, and activated by, the dihydropyridine receptor, causing a much larger release of Ca<sup>2+</sup>.
 
-* Ca<sup>2+</sup> from he SR binds to **troponin C**, weakening the troponin I - actin link and uncovering myosin-binding sites on actin
+
+* Ca<sup>2+</sup> is released from the SR (increasing intracellular Ca<sup>2+</sup> 2000x) and binds to **troponin C**, weakening the troponin I - actin link and uncovering myosin-binding sites on actin
 * Cross-linkages form between actin and myosin, which releases ADP
 * The release of ADP triggers a **power stroke**, which is a process of attachment, pulling, and detachment. Each cycle shortens the sarcomere by **~10nm**:
     * The myosin head rotates on its 'neck', moving to a new actin binding site
