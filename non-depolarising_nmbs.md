@@ -30,7 +30,7 @@ Mechanism of action is by competitive antagonism of ACh at the NMJ, preventing e
 |**Metabolism**|Minimal hepatic metabolism to inactive metabolites|Hepatic metabolism|Hepatic metabolism|2/3<sup>rds</sup> by ester hydrolysis, with remainder by Hofmann Elimination. Metabolised to **laudanosine**, which causes seizures in high concentrations (relevant when administered by long infusion)|Hofmann elimination|
 |**Elimination**|Biliary and renal elimination. Prolonged duration in hepatic and renal failure|Biliary elimination|Biliary elimination|||
 |**Resp**||||Slight risk of bronchospasm with rapid injection|Slight risk of bronchospasm with rapid injection|
-|**CVS**|↑HR at high doses|**No** ↑HR|↑HR|Slight risk of ↓BP with rapid injection|Slight risk of ↓BP with rapid injection|
+|**CVS**|↑HR at high doses|**No** ↑HR|↑HR due to muscarinic antagonism|Slight risk of ↓BP with rapid injection|Slight risk of ↓BP with rapid injection|
 |**Immune**|Higher risk of anaphylaxis, probably comparable with suxamethonium|||||
 |**Other**|Reversible with **sugammadex**||||||
 
