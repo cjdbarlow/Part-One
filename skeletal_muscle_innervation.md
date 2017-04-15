@@ -79,6 +79,7 @@ This allows modulation of signal. Responses are slower but more complex, e.g. wi
 * A **tetanic** contraction describes the sustained contraction produced by **repetitive stimulation** before relaxation can occur
   * This stimulation must be causing  above a **critical frequency**, which is dependent on the action potential duration for a cell
   * Repetitive stimulation causes repeated SR depolarisation, leading to sustained high intracellular Ca<sup>2+</sup> levels as Ca<sup>2+</sup> entry exceeds Ca<sup>2+</sup> exit
+  * Force from tetanic contraction is up to 4x greater than that of a twitch
 
 ---
 ##References
