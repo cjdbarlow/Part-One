@@ -11,7 +11,7 @@ These factors have a significant effect on energy requirement.
   * This would be given by the **rate of work**, or **power**, where:  
   $$Power = {Work \over Time}$$, measured in Watts.
   * Tidal breathing is efficient and uses <2% of BMR
-* The oxygen requirement of breathing at rest is ~2-5% of VO<sub>2</sub>
+* The oxygen requirement of breathing at rest is ~2-5% of VO<sub>2</sub>, or ~3ml.min<sup>-1</sup>
 
 ##Determinants of Work of Breathing
 Work of breathing is divided into:
@@ -60,6 +60,27 @@ WORK OF BREATHING LUNG COMPLIANCE CURVE
     * If this area falls within the area of elastic work of breathing, it is a purely passive process, using the stored elastic potential energy of inspiration
     * If part of this area falls outside the area of elastic work of breathing, it demonstrates additional **active work of expiration** which may occur in obstructive lung disease or when minute ventilation is high
 
+###Minimising Work of Breathing
+Work of breathing can be minimised by optimising the determinants:
+* Elastic work
+  * PEEP  
+  Keep lung volume at FRC and maximise number of ventilated alveoli.
+  * Positioning  
+  Optimise lung volume.
+  * Surfactant  
+  Minimising surface tension.
+  * Optimise respiratory rate  
+  Elastic work of breathing typically decreases with increased respiratory rate.
+* Resistive work  
+  * Decrease respiratory rate  
+  Respiratory rate is directly proportional to resistive work.
+  * Increase laminar flow  
+  Laminar flow is more efficient than turbulent flow. Laminar flow can be increased by:
+    * Reducing gas density  
+    Heliox.
+  * Increase Radius  
+    * Increase lung volume
+    * Bronchodilators  
 
 ---
 ##Derivation

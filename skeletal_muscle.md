@@ -82,7 +82,8 @@ This process involves:
 * Power strokes continue as long as there is ATP and Ca<sup>2+</sup> available
 
 * In relaxation:
-    * Ca<sup>2+</sup> is pumped back into the sarcoplasmic reticulum
+    * Ca<sup>2+</sup> is pumped back into the sarcoplasmic reticulum  
+    This is an ATP-dependent process, and is why muscle relaxation is active.
     * Troponin releases Ca<sup>2+</sup>
     * Binding sites are occluded by troponin, and no further contraction occurs
 
