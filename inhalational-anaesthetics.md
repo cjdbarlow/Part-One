@@ -32,7 +32,7 @@
 |**Pharmaceutics**|Minimally soluble, light stable, not flammable. Formulated with 300ppm of H<sub>2</sub>O to prevent formation of HF acid by Lewis acids in glass|Soluble in rubber, light stable, not flammable|Light sensitive, flammable at 17%|
 |**Molecular Weight**|200.1|184.5|168.0
 |**Boiling point**|58.5°C|48.5°C|23.5°C|
-|**SVP** (mmHg) at 20°C|158|248|652|
+|**SVP** (mmHg) at 20°C|158|239|669|
 |**Blood:gas coefficient**|0.7|1.4|0.42|
 |**Oil:gas coefficient**|80|98|29|
 |**MAC**|2|1.15|6.6|
@@ -51,7 +51,7 @@
 |**Pharmaceutics**||Light unstable. Corrodes some metals and dissolves into rubber.|Not flammable. Very expensive to produce.
 |**Molecular Weight**|184.5|197|131|
 |**Boiling point**|56.5°C|50.2°C|-108°C|
-|**SVP** (mmHg) at 20°C|172|240|-|
+|**SVP** (mmHg) at 20°C|175|243|-|
 |**Blood:gas coefficient**|1.8|2.4|0.14
 |**Oil:gas coefficient**|98|224|1.9
 |**MAC**|1.7|0.75|71
