@@ -4,7 +4,14 @@
 Gastric emptying is a neurally and hormonally mediated process which aims to present food to the small bowel in a controlled manner. Different drugs, hormones, and physiological states can either encourage or inhibit gastric emptying.
 
 ##Determinants of Gastric Emptying
-**Rate of gastric emptying** is a function of **antral pressure** versus **pyloric resistance**. Antral pump activity is the main determinant (pyloric resistance tends to be low), and is affected by signals from the **stomach**, **duodenum**, as well as **systemic factors**:
+**Rate of gastric emptying** is a function of:
+    * **Antral pressure**  
+    Main determinant as pyloric resistance tends to be low, and is affected by:
+        * Stomach
+        * Duodenum
+        * Systemic factors
+        * Drugs
+    * **Pyloric resistance**
 
 ###Stomach
 * Gastric **distension**  
