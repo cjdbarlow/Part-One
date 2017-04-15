@@ -1,6 +1,6 @@
 # Skeletal Muscle Innervation
 
->	Explain the concept of motor units
+> Explain the concept of motor units
 
 <!--></!-->
 
@@ -74,6 +74,11 @@ Monosynaptic reflexes are rapid, but only generate simple responoses. There are 
 * **Polysynaptic**: Motor neuron is separated from the sensory neuron by one or more interneurons in the dorsal horn  
 This allows modulation of signal. Responses are slower but more complex, e.g. withdrawal of a limb from a hot object.
 
+##Twitch and Tetany
+* A twitch is the response of a muscle to a single stimulus (action potential)
+* A tetanic contraction describes the response to repetitive stimulation above a critical frequency
+
 ---
 ##References
 Chambers
+ANZCA March/April 2000

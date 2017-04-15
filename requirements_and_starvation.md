@@ -1,21 +1,56 @@
 # Requirements and Starvation
 > Describe the normal nutritional requirements
 
+##Fasting
+Fasting is the metabolic state achieved after complete digestion and absorption of a meal.
+
+Fasting can be divided into:
+* **Early fasting**  
+Less than 24 hours.
+    * Plasma glucose falls due to consumption
+    Leads to hormonal changes:
+        * Insulin release decreases, causing:
+            * Liver  
+                * Decreased glycogenesis
+                * Increased gluconeogenesis
+            * Muscle  
+                * Decreased glucose utilisation
+                * Decreased glycogenesis
+                * Decreased protein synthesis
+            * Fat
+                * Decreased lipogenesis  
+                Due to:
+                    * Decreased glucose uptake
+                    * Decreased TG uptake
+                * Increased lipolysis
+        * Adrenaline release increases, causing:
+            * Decreased insulin release
+            * Increased lipolysis
+            * Increased muscle FFA use
+            * Increased hepatic glycogenolysis and gluconeogenesis
+        * Glucagon release increases
+    * Cellular metabolism alters:
+        * Decreased glucose uptake by non-obligate glucose utilisers  
+        e.g. muscle.
+        * Increased FFA and ketone body use  
+        β-oxidation of FFAs provides ATP requirements, causing ketone body formation.
+
+* **Sustained fasting**  
+Greater than 24 hours. See starvation below.
+
 ##Starvation
 Starvation is the failure to absorb sufficient calories to sustain normal body function, requiring the body to survive on endogenous stores.
 
-* **First 24-48 hours**:
-    * Plasma glucose falls
-       * Insulin level falls
-       * Glucagon level rises
-    * Lipolysis  
-Stimulated by high glucagon and low insulin levels. β-oxidation provides ATP requirements, causing ketone body formation.
-
-
 * **Days**:
-    * Increased gluconeogenesis, using glycerol, lactate, and amino acids
-    * Insulin concentraions fall further
-    * Energy is conserved trough reduction in movement
+    * Energy is conserved through reduction in movement
+    * Hormonal changes
+        * Increased gluconeogenesis, using glycerol, lactate, and amino acids
+        * Insulin concentrations fall further
+        * Cortisol levels increase
+        * Glucagon levels peak at 4 days
+    * Metabolic changes
+        * Glucose use continues to fall, and FFA use increases
+        * Further fall in muscle protein synthesis
 
 
 * **Weeks**:
@@ -42,3 +77,4 @@ Management is by slow institution of feeding and aggressive electrolyte manageme
 ---
 ##References
 Chambers
+ANZCA August/September 2001
