@@ -78,6 +78,7 @@ At <1 year of age, pharmacokinetics are significantly altered.
 * **Distribution**  
   * TBW is 70-75% (compared to 50-60% for an adult), and extracellular water is 40% (compared to 20%), which **increases the V<sub>D</sub>** for administered drugs.
   * Preterm infants have reduced body fat, which affects drug distribution.
+  * Greater proportion of cardiac output goes to head, increasing onset of centrally acting (e.g. anaesthetic) drugs
   
   
 * **Metabolism**  
@@ -208,9 +209,11 @@ Laxatives and prokinetics increase gastric emptying and reduce absorption of ora
 
 ---
 ##References
-  [^1]: Anderson C. Variability in Drug Response 1. ICU Primary Prep. 
+Anderson C. Variability in Drug Response 1. ICU Primary Prep. 
 
-[^2]: Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. Sixth Edition. Churchill Livingstone.
+Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. Sixth Edition. Churchill Livingstone.
 
 Essential Pharmacology for the ANZCA Primary Exam
 CICM Sep/Nov 2012
+
+Alfred Primary Anaesthetic tutorial
