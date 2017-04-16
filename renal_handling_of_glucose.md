@@ -51,33 +51,40 @@ GRAPH OF GLUCOSE FLUX PAGE 66 VANDERS
 
 ###Consequences of Glycosuria
 Glycosuria occurs when filtered glucose exceeds the capacity of the PCT to reabsorb it, and causes:
-* Loss of volume
-  * Glucose acts as an osmotic diuretic, reducing water and salt reabsorption in the Loop of Henle
-  * Impairs the formation of the medullary concentration gradient, limiting concentrating capacity
+* Increased urine volume
+  * Glucose acts as an osmotic diuretic by:
+    * Reducing Na<sup>+</sup> reabsorption in the PCT  
+    As some glucose is not absorbed, the sodium that would normally be reabsorbed with (tubuloglomerular balance) is remaining in the tubule.
+    * Reducing water and salt reabsorption in the Loop of Henle  
+    Due to high tubular flow rates.
+      * Impairs the formation of the medullary concentration gradient, limiting concentrating capacity
   * Stimulates ADH release
 * Electrolyte derangements
   * Hypokalaemia due to:
     * Reduced K<sup>+</sup> reabsorption due to high tubular flow rates
-    * Aldosterone release due to hypovolaemia, increasing Na<sup>+</sup> reabsorption and decreasing K<sup>+</sup> reabsorption
+    * Aldosterone release due to hypovolaemia, increasing Na<sup>+</sup> reabsorption and K<sup>+</sup> secretion
+  * ADH release in response to hypovolaemia
 * Loss of substrate for ATP generation
 * Increase risk of urinary infections
 
 ##Nitrogenous Products
 * Amino acids are reabsorbed by amino-acid transporters  
-* These are not (entirely) selective, and reabsorb several structurally similar amino acids
-* These shared pathways create competition for binding sites between amino acids
-* Excess of one substance will lead to both excretion of this substance in urine, as well as inappropriate excretion of related substances
+These are not (entirely) selective, and reabsorb several structurally similar amino acids.
+  * These shared pathways create competition for binding sites between amino acids
+  * Excess of one substance will lead to both excretion of this substance in urine, as well as inappropriate excretion of related substances
 
-* * Larger proteins (such as albumin) are in fact filtered at the glomerulus (though in very small amounts)
-* Reuptake occurs in several stages:
+
+* Larger proteins (such as albumin) are in fact filtered at the glomerulus (though in very small amounts)  
+Reuptake occurs in several stages:
   * Endocytosis at the luminal membrane  
   This is an energy-dependent process, requring protein to bind to membrane receptors.
   * Degradation of protein into individual amino acids
   * Reuptake across the basolateral membrane
 
+
 * Smaller proteins and peptides (e.g. insulin, angiotensin II) are completely filtered
-* Catabolisation occurs in the tubular lumen by membrane-surface peptidases
-* Amino acids are reabsorbed by standard amino-acid transporters
+  * Catabolisation occurs in the tubular lumen by membrane-surface peptidases
+  * Amino acids are reabsorbed by standard amino-acid transporters
 
 ###Urea
 Urea is a small, water soluble molecule produced in the liver from ammonia as a method for eliminating nitrogenous waste. 
