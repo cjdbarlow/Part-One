@@ -4,7 +4,13 @@
 ##Coagulation Factors
 All these tests measure how long it takes to make fibrin. They evaluate different parts of the coagulation cascade, which help localise where a coagulopathy may be occurring.
 
-In this test, blood is added to citrate to bind the calcium and prevent clotting, the sample is centrifuged and the plasma decanted. Calcium (to replace the calcium lost by binding to citrate) and a reagent is then added to the sample, and the time taken to clot measured.
+In this test:
+* Citrate is added to blood  
+Binds calcium and prevents clotting.
+* Sample is centrifuged
+* Plasma decanted
+* Calcium (to replace the calcium lost by binding to citrate) and a reagent is added
+* Time taken to clot measured
 
 ###Prothrombin Time (and INR)
 The prothrombin time measures the **extrinsic pathway**. Tissue factor has to be added to the sample in order start clotting - this is why it is known as the extrinsic pathway as a substance extrinsic to the sample must be added. There is a lot of variability between different labs on PT, so the INR is used to compare values from different labs.
