@@ -39,7 +39,7 @@
 |**Metabolism**|3-5% CYP2E1 metabolism to hexafluoroisopropanol and inorganic F<sup>-</sup> (which may be nephrotoxic)|0.2% hepatic to nontoxic metabolites
 |**Resp**|Bronchodilation, ↓ MV. Smallest ↓ in V<sub>T</sub> and therefore smallest ↑ in PaCO<sub>2</sub>|Bronchodilation, airway irritability. ↓ MV (greater than halothane) with ↑ in RR|Airway irritability manifest as coughing and breath-holding, ↑ secretions|
 |**CVS**|↑ QT, ↓ SVR causing ↓ MAP without a reflex ↑ HR. Inotropy unchanged. Smallest ↓ in BP of any inhalational agent.|Reflex ↑ HR due to ↓ MAP from ↓ SVR. Small ↓ inotropy and CO, equivalent to sevoflurane but greater than desflurane. May cause **coronary steal**.|Minimal ↓ inotropy (least of all inhalational agents), but greater ↓ in SVR and BP than sevoflurane. ↑ in HR, with a bigger increase at >1.5 MAC.
-|**CNS**|↑ post-operative agitation in children compared to halothane|Best balance of ↓ CMRO<sub>2</sub> for ↑ in CBF ||
+|**CNS**|↑ Post-operative agitation in children compared to halothane. Smallest ↑ in CBF at > 1.1 MAC, with no increase in ICP up to 1.5 MAC. Cerebral autoregulation intact up to 1.5 MAC.|Best balance of ↓ CMRO<sub>2</sub> for ↑ in CBF ||
 |**GIT**||||
 |**Immune**|
 |**Metabolic**|
@@ -58,7 +58,7 @@
 |**Metabolism**||~25% undergoes oxidative phosphorylation by CYP450 systems, producing **trifluoroacetic acid**, which binds to protein and can cause a T-cell mediated hepatitis, which can be fatal in ~1/10,000 anaesthetics.|Not metabolised.|
 |**Resp**|Largest ↓ in V<sub>T</sub>, therefore largest ↑ in PaCO<sub>2</sub>|↑ in RR, ↓ in V<sub>T</sub> with overall unchanged PaCO<sub>2</sub>|↓ RR, ↑ in V<sub>T</sub> such that MV is constant. 3x as dense and 1.5x as viscous as N<sub>2</sub>O, which increases effective airway resistance. Does not appear to cause diffusion hypoxia.|
 |**CVS**||Greatest ↓ in inotropy, HR, SVR, and MAP. Significant ↑ in catecholamine sensitivity.||
-|**CNS**|Produces 3Hz "spike and wave" EEG pattern at high concentrations, resembling grand mal seizures|Greatest ↑ in CNS blood flow|Analgesic|
+|**CNS**|Produces 3Hz "spike and wave" EEG pattern at high concentrations, resembling grand mal seizures|Greatest ↑ in CNS blood flow at > 1.1 MAC|Analgesic|
 |**MSK**|||Muscle relaxation when >60%. Does not trigger MH.
 |**Renal**|Direct nephrotoxicity, potentially related to fluoride (though this association is not present with other anaesthetic agents)|||
 |**GU**|Least tocolytic effect|||
