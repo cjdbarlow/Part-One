@@ -29,12 +29,12 @@ With other platelets - held together by fibrin - forming a plug.
   After some time platelets contract, retracting the clot and sealing the wall
 
 ##Secondary Haemostasis
-The coagulation cascade is an amplifification mechanism which circularly activates clotting factors in order to produce fibrin.
+The coagulation cascade is an amplification mechanism which activates clotting factors in order to produce fibrin.
 
 INSERT COAGULATION CASCADE
 
 Participating factors in the coagulation cascade can be either **enzymes** or **cofactors**:
-* Enzymes circulate in their inactive form, and become active (VII ⇒ VIIa) when hydrolysed by their precusor factor
+* Enzymes circulate in their inactive form, and become active (e.g. VII ⇒ VIIa) when hydrolysed by their precusor factor
 * Cofactors amplify the cascade
 
 ###Pathways
@@ -42,32 +42,44 @@ The cascade is divided into the **intrinsic pathway** and **extrinsic pathway**,
 
 ####Extrinsic Pathway
 The extrinsic pathway contains two factors:
-* Tissue Factor
+* Tissue Factor  
+Membrane protein on sub-endothelial cells, which is exposed when the vessel is damaged (it is found in a few other places as well). It binds to factor VII to form VIIa, and thus activates the extrinsic pathway.
 * Factor VII
-
-Tissue factor is a membrane protein on sub-endothelial cells, which is exposed when the vessel is damaged (it is found in a few other places as well). It binds to factor VII to form VIIa.
 
 ####Intrinsic Pathway
 The intrinsic pathway contains:
-* (HMWK)
-* (Factor XII)
+* Contact factors  
+Only important *in vitro* when conducting lab testing - deficiency of these factors does not cause a coagulopathy.
+  * HMWK  
+  HMWK activates factor XII.
+  * Factor XII  
+  Factor XIIa activates factor IX, as does thrombin.
 * Factor XI
 * Factor IX
 * Factor VIII  
-vWF is bound to factor VIII in circulation, preventing it from degradation.
+Factor VIII circulates in a complex with vWF, preventing it from degradation. When activated by thrombin, it acts as a cofactor for factor IXa to activate factor X.
 
-Thrombin is the main activator of the intrinsic pathway *in vivo*. The contact factors (HMWK, Factor XII) are only important *in vitro* when conducting lab testing - deficiency of these factors does not cause a coagulopathy.
-
-HMWK activates factor XII, factor XIIa activates factor IX (as does thrombin). Factor VIII circulates in a complex with vWF. When activated by thrombin, it acts as a cofactor for factor IXa to activate factor X.
+The intrinsic pathway is activated by:
+* Thrombin  
+Main activator of the intrinsic pathway *in vivo*.
+* Collagen
+* Glass  
+In vitro.
 
 ####Common Pathway
 The common pathway contains:
 * Factor X
-* Factor V
-* Factor II (prothrombin)
+* Factor V  
+Cofactor (similar to factor VIII), which when activated by thrombin allows factor Xa to convert prothrombin into thrombin.
+* Factor II (prothrombin)  
+Has several key roles:
+  * Cleaves fibrinogen to fibrin
+  * Activates factor XIII  
+  Factor XIIIa stabilises clot by forming crossbridges between fibrin in a platelet plug.
+  * Amplification of the clotting cascade by activating factors V and VIII
+  * Activates protein C  
+  Thrombin binds with thombomodulin to form a complex which inhibits coagulation.
 * Factor I (fibrinogen)
-
-Factor V is a cofactor (similar to factor VIII), which when activated by thrombin allows factor Xa to convert prothrombin into thrombin.
 
 
 ##The Cell-Based Model of Coagulation
