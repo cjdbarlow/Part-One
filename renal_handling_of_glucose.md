@@ -52,13 +52,13 @@ GRAPH OF GLUCOSE FLUX PAGE 66 VANDERS
 ###Consequences of Glycosuria
 Glycosuria occurs when filtered glucose exceeds the capacity of the PCT to reabsorb it, and causes:
 * Loss of volume
-  * Glucose acts as an osmotic diuretic, reducing water and salt reabsorption
+  * Glucose acts as an osmotic diuretic, reducing water and salt reabsorption in the Loop of Henle
   * Impairs the formation of the medullary concentration gradient, limiting concentrating capacity
   * Stimulates ADH release
 * Electrolyte derangements
   * Hypokalaemia due to:
-    * Reduced K<sup>+</sup> reabsorption
-    * Aldosterone release due to hypovolaemia
+    * Reduced K<sup>+</sup> reabsorption due to high tubular flow rates
+    * Aldosterone release due to hypovolaemia, increasing Na<sup>+</sup> reabsorption and decreasing K<sup>+</sup> reabsorption
 * Loss of substrate for ATP generation
 * Increase risk of urinary infections
 
