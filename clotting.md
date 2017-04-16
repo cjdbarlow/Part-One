@@ -41,13 +41,13 @@ Participating factors in the coagulation cascade can be either **enzymes** or **
 The cascade is divided into the **intrinsic pathway** and **extrinsic pathway**, which join to form the **common pathway**. *In vitro*, the intrinsic and extrinsic pathways operate separately. This is an artifact of lab measurement - *in vivo* **the pathways are co-dependent**.
 
 ####Extrinsic Pathway
-The extrinsic pathway contains two factors:
+The extrinsic pathway contains two factors, and the process of activation **occurs in seconds**:
 * Tissue Factor  
 Membrane protein on sub-endothelial cells, which is exposed when the vessel is damaged (it is found in a few other places as well). It binds to factor VII to form VIIa, and thus activates the extrinsic pathway.
 * Factor VII
 
 ####Intrinsic Pathway
-The intrinsic pathway contains:
+The intrinsic pathway is activated **over minutes**, and contains:
 * Contact factors  
 Only important *in vitro* when conducting lab testing - deficiency of these factors does not cause a coagulopathy.
   * HMWK  
@@ -93,6 +93,7 @@ Has several key roles:
     * Thrombin then activates factors V, VIII, and IX, accelerating Xa production and further thrombin generation
   * **Propagation phase**  
   Platelets bind activated clotting factors, causing high rates of thrombin formation around them.
+
 ---
 ##References
 Clot or Bleed
