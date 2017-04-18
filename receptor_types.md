@@ -59,8 +59,6 @@ Voltage gated channels:
     Transient refractory period where the pore is open, but ions cannot pass. This creates the **absolute refractory period** of a cell.
 
 
-
-
 **G-protein** coupled (metabotropic) receptors:
 * G-proteins are a group of heterotrimeric (containing three units; α, β, γ) proteins which bind GDP  
 When stimulated, the GDP is replaced by GTP and the α-GTP subunit dissociates to activate or inhibit an effector protein. The effect depends on the type of α-subunit:
