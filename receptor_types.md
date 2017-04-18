@@ -30,7 +30,34 @@ A receptor is a protein, usually in the cellular membrane, to which a ligand may
       Activated by ATP
 
 
-* **Voltage-gated** channels open when the **threshold voltage** is reached, and facilitate electrical conduction in excitable tissues.
+* **Voltage-gated** channels open when the **threshold voltage** is reached, facilitating electrical conduction in excitable tissues  
+Voltage gated channels:
+  * Have a common 4-subunit structure (each with 6 transmembrane segments) surrounding a central pore  
+  This pore is selective for the particular ion, which include:
+    * Na<sup>+</sup>
+      * Located in myocytes and neurons
+      * Important in generating and transmitting an action potential by permitting sodium influx into cells
+      * Inhibited by local anaesthetics, anti-epileptics, and some anti-arrhythmics
+    * Ca<sup>2+</sup>  
+    Divided into subtypes, including:
+      * L  
+      Muscular contraction.
+      * T  
+      Cardiac pacemaker.
+      * N/P/Q  
+      Neurotransmitter release.
+    * K<sup>+</sup>  
+      * Located in myocytes and important in repolarisation following an action potential.
+  * Undergo a conformational change when the threshold potential is reached  
+  This is sensed by the **S4 helix**, which acts to open and close the channel.
+  * Exist in one of three functional states:
+    * Resting  
+    Pore is closed.
+    * Active  
+    Pore is open, and ions can pass.
+    * Inactive  
+    Transient refractory period where the pore is open, but ions cannot pass. This creates the **absolute refractory period** of a cell.
+
 
 
 
@@ -81,3 +108,6 @@ Drugs whose mechanism of action is due to their physicochemical properties. Exam
 ##References
   [^1]: Chris Anderson. Pharmacodynamics 2. ICU Primary Prep. Available at: https://icuprimaryprep.files.wordpress.com/2012/05/pharmacodynamics-2.pdf  
 [^2]: Encyclopaedia Britannica. Available at: https://www.britannica.com/science/law-of-mass-action
+ANZCA August/September 2001
+Diaz SAQ answer
+https://perso.univ-rennes1.fr/francois.tiaho/M1-PTS-Tiaho/Bibliographie/1995-catterall.pdf
