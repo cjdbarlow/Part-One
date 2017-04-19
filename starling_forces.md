@@ -4,7 +4,7 @@
 
 Interstitial fluid is an ultrafiltrate of plasma, with the net filtration pressure determined by the net effect of opposing hydrostatic and oncotic pressures:
 
-$$NFP = P_{Capillary \ Hydrostatic} - P_{Interstitial \ Hydrostatic} - (P_{Capillary \ Oncotic} + P_{Interstitial \ Oncotic})$$
+$$NFP = Kf(P_{Capillary \ Hydrostatic} - P_{Interstitial \ Hydrostatic} - \theta(P_{Capillary \ Oncotic} - P_{Interstitial \ Oncotic}))$$
 
 These four variables are known as **Starling's forces**.
 
