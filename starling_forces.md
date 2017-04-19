@@ -10,10 +10,11 @@ These four variables are known as **Starling's forces**.
 
 Actual fluid movement is (of course) more complicated. **Hydrostatic pressure falls along the capillary**, and movement of solute and water are affected by other factors. Some of these are described by the:
 * **Reflection coefficient** (σ)  
-This describes the fact that a small amount of protein leaks from the capillary, slightly increasing interstitial oncotic pressure and slightly decreasing capillary oncotic pressure. It is dependent on the interstitial protein content, and has a value between 0 (low protein content, e.g. glomerular filtrate) and 1 (high protein content, e.g. hepatic sinusoids).
+This describes the fact that a small amount of protein leaks from the capillary, slightly increasing interstitial oncotic pressure and slightly decreasing capillary oncotic pressure. It is dependent on the interstitial protein content, and has a value between 0 and 1.
 
+    
 * **Filtration coefficient** (Kf)  
-Encompasses membrane permeability (to water) and membrane surface area.
+Encompasses membrane permeability (to water) and membrane surface area. Varies between tissues:
 
 The **Starling Equation** becomes:
 
@@ -30,11 +31,28 @@ $$Net \ Fluid \ Movement =  K_f(P_{CH} - P_{IH} - \theta(P_{CO} - P_{IO})$$
 |**Capillary oncotic pressure**|	25|	25
 |**Interstitial oncotic pressure**|	5|	5
 
+###Organ-specific Values
+In the kidney:
+* Reflection coefficient is close to 1 in the glomerulus due to the impermeability of the glomerulus to protein
+* Kf is high in the kidney due to both high permeability and a large surface area.
+
+
+In the liver:
+* Reflection coefficient is close to 1 in hepatic sinusoids
+
+
+
+In the lungs:
+* Reflection coefficient of ~0.5 in the lungs due to significant leak of protein
+
+
 
 ##Causes of Oedema
+Oedema can be localised or generalised, and in both cases caused by:
 * **Increased Filtration Pressure**  
     Occurs when capillary hydrostatic pressure exceeds interstitial hydrostatic pressure. Causes:
-    * Increased CVP
+    * Increased Venous pressure  
+    This includes an increase in CVP:
         * CCF
         * TR
         * Increased venoconstriction
@@ -60,7 +78,6 @@ $$Net \ Fluid \ Movement =  K_f(P_{CH} - P_{IH} - \theta(P_{CO} - P_{IO})$$
         * Histamine
         * Kinins
 
-
 * **Inadequate Lymph Flow**  
 
 
@@ -69,3 +86,4 @@ $$Net \ Fluid \ Movement =  K_f(P_{CH} - P_{IH} - \theta(P_{CO} - P_{IO})$$
 ##References
 Ganong 24th
 http://www.anaesthesiamcq.com/FluidBook/fl4_2.php
+ANZCA August/September 2001
