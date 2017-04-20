@@ -57,8 +57,8 @@
 |**MAC**|1.7|0.75|71
 |**Metabolism**||~25% undergoes oxidative phosphorylation by CYP450 systems, producing **trifluoroacetic acid**, which binds to protein and can cause a T-cell mediated hepatitis, which can be fatal in ~1/10,000 anaesthetics.|Not metabolised.|
 |**Resp**|Largest ↓ in V<sub>T</sub>, therefore largest ↑ in PaCO<sub>2</sub>|↑ in RR, ↓ in V<sub>T</sub> with overall unchanged PaCO<sub>2</sub>|↓ RR, ↑ in V<sub>T</sub> such that MV is constant. 3x as dense and 1.5x as viscous as N<sub>2</sub>O, which increases effective airway resistance. Does not appear to cause diffusion hypoxia.|
-|**CVS**||Greatest ↓ in inotropy, HR, SVR, and MAP. Significant ↑ in catecholamine sensitivity.||
-|**CNS**|Produces 3Hz "spike and wave" EEG pattern at high concentrations, resembling grand mal seizures|Greatest ↑ in CNS blood flow at > 1.1 MAC|Analgesic|
+|**CVS**||Greatest ↓ in inotropy, HR, SVR, and MAP. Significant ↑ in catecholamine sensitivity.|More stable MAP, ↓ HR|
+|**CNS**|Produces 3Hz "spike and wave" EEG pattern at high concentrations, resembling grand mal seizures|Greatest ↑ in CNS blood flow at > 1.1 MAC|Analgesic, ↑ PONV|
 |**MSK**|||Muscle relaxation when >60%. Does not trigger MH.
 |**Renal**|Direct nephrotoxicity, potentially related to fluoride (though this association is not present with other anaesthetic agents)|||
 |**GU**|Least tocolytic effect|||
@@ -71,7 +71,5 @@ Petkov
 Peck and Hill
 Dr. Podcast
 Millers
-
-
-
+Xenon Anaesthesia: A systematic review and meta-analysis of RCTs
 
