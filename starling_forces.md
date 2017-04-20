@@ -31,11 +31,12 @@ $$Net \ Fluid \ Movement =  K_f(P_{CH} - P_{IH} - \theta(P_{CO} - P_{IO})$$
 |**Capillary oncotic pressure**|	25|	25
 |**Interstitial oncotic pressure**|	5|	5
 
-###Organ-specific Values
-In the kidney:
-* Reflection coefficient is close to 1 in the glomerulus due to the impermeability of the glomerulus to protein
-* Kf is high in the kidney due to both high permeability and a large surface area.
-
+###Organ-Specific Values
+In the glomerulus:
+* Reflection coefficient is close to 1 due to the impermeability of the glomerulus to protein
+* Kf is high due to both high permeability and a large surface area.
+* Hydrostatic pressure is high
+* Glomerular oncotic pressure is essentially 0
 
 In the liver:
 * Reflection coefficient is close to 1 in hepatic sinusoids
@@ -44,6 +45,9 @@ In the liver:
 
 In the lungs:
 * Reflection coefficient of ~0.5 in the lungs due to significant leak of protein
+* The oncotic pressure gradient is small, and favours reabsorption
+* Hydrostatic pressure gradient is small, but favours extravasation of fluid
+    * Interstitial hydrostatic pressure becomes more negative closer to the hilum, drawing fluid into the pulmonary lymphatics
 
 
 
