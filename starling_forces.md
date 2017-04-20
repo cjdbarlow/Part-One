@@ -41,10 +41,9 @@ In the glomerulus:
 In the liver:
 * Reflection coefficient is close to 1 in hepatic sinusoids
 
-
-
 In the lungs:
 * Reflection coefficient of ~0.5 in the lungs due to significant leak of protein
+    * Protein leak decreases as interstitial oncotic pressure rises, limiting further oedema formation
 * The oncotic pressure gradient is small, and favours reabsorption
 * Hydrostatic pressure gradient is small, but favours extravasation of fluid
     * Interstitial hydrostatic pressure becomes more negative closer to the hilum, drawing fluid into the pulmonary lymphatics
