@@ -257,6 +257,23 @@ Anaesthetic agents may alter the function of molecules within the CNS. These inc
     This prolongs the time it spends open once activated, prolonging the inhibitory Cl<sup>-</sup> current and increasing the degree of hyperpolarisation.
     * Enhance the activity of two-pore K<sup>+</sup> channels  
     Increases the resting membrane potential of both pre-synaptic and post-synaptic CNS neurons.
+    
+###Incomplete Theories of Mechanism of Action of General Anaesthetic Agents
+**Meyer-Overton Hypothesis**:
+* Potency of anaesthetics relates to their lipid solubility  
+* Anaesthetic molecules dissolve into CNS membranes, disrupting their effect
+
+* Flaws:
+    * Not all lipid soluble drugs have general anaesthetic affects
+    * Other factors disrupt cell membranes without causing anaesthesia
+    
+** Volume expansion**, **pressure reversal**:
+* CNS cell membranes expand with general anaesthetic agents
+* Increased ambient pressure reverses general anaesthesia
+
+* Flaws:
+    * Does not account for stero-selectivity of drug-receptor interactions  
+    I.e. receptors select for one steroisomer over others.
 
 ###Structure-Activity Relationships of Inhaled Anaesthetics
 Different chemical and physical properties alter the effect of inhalational agents:
