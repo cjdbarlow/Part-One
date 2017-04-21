@@ -1,7 +1,32 @@
 #Metabolism
 > Describe the mechanisms of drug clearance and metabolism.
 
+Removal of drug from the body requires either:
+* Metabolism of active drug  
+Typically by the liver, but other organs (kidney, lungs) also metabolise some substances.
+* Excretion of active drug  
+Often by the kidneys, but may also be in bile, or exhaled.
 
+
+##Clearance
+Clearance describes the elimination of drug from the body. Clearance:
+* As discussed in modelling, clearance equals the **volume of plasma completely cleared of a drug per unit time**  
+Measured in ml.min<sup-1</sup>.
+* Does not include redistribution
+* Is calculated from the area under the concentration time curve:  
+$$Cl = {Dose \over AUC}$$
+
+Total clearance is the sum of clearances from individual organs, e.g.:  
+* $$ Cl_{total} = Cl_{renal} + Cl_{liver} + Cl_{lung} + Cl_{organ \ independent} + Cl_{other}$$, where:
+  * $$Cl_{renal} = {[U] \times V \over [P]}$$, where:
+    * $$[U]$$ is urine concentration in mmol.L<sup>-1</sup>  
+    Function of glomerular filtration, reabsorption, and secretion.
+    * $$V$$ is the urine flow in ml.min<sup>-1</sup>
+    * $$[P]$$ is the plasma concentration in mmol.L<sup>-1</sup>
+  * $$Cl_{hepatic} = HBF \times ER_{liver}$$, where:
+    * $$HBF$$ is the hepatic blood flow in ml.min<sup>-1</sup>
+    * $$$ER$$ is the extraction ratio
+  
 
 
 
