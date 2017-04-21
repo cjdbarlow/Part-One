@@ -25,7 +25,7 @@
 |**Distribution**|Amides are extensively protein bound, esters are minimally bound
 |**Metabolism**|Amides are hepatically metabolised, esters are hydrolysed by plasma cholinesterases (giving a much shorter t<sub>1/2</sub>)
 |**CVS**|Vasodilatation at low concentrations, vasoconstriction at high concentrations. Inhibition of cardiac Na<sup>+</sup> channels, inhibiting maximum rate of rise of phase 0 of the cardiac action potential. Negative inotropy proportional to potency
-|**CNS**|Does-dependent CNS effects: circumoral tingling, visual disturbances, tinnitus, tremors, dizziness, slurred speech, convulsions, coma, apnoea. Potentiated by other CNS depressants and hypercarbia (due to ↑CBF and ↓ seizure threshold).
+|**CNS**|Does-dependent CNS effects: circumoral tingling, visual disturbances, tinnitus, tremors, dizziness, slurred speech, convulsions, coma, apnoea. Potentiated by other CNS depressants and hypercarbia (due to ↑ CBF and ↓ seizure threshold).
 |**Toxic Effects**|Esters have a higher incidence of **allergy**. Local anaesthetic toxicity is predominantly CNS and CVS. 
 
 ##Comparison of Local Anaesthetics
@@ -43,6 +43,28 @@
 |**Elimination**|Reduced in hepatic or cardiac failure|||Elimination of active drug and inactive metabolites
 |**CC/CNS ratio**|7|3|5|||
 |**Other**||Most toxic of LA agents as it takes longer to dissociate from the myocardial Na<sup>+</sup> channel. **Levobupivacaine** is less cardiotoxic the racemic mixture, possibly as it has more intrinsic vasoconstrictive properties.||May cause ↑ BP, ↑ HR, coronary vasoconstriction, myocardial depression, VF, ↑ temperature due to ↑ SNS activation
+
+##Pharmaceutics of Topical Local Anaesthetics
+
+Effect of topical local anaesthetics is governed by **Fick's Law**.
+
+|Characteristic|Effect|
+|--|--|
+|**Pharmaceutic Factors**||
+|Presentation|Aerosol improves speed of onset by moisturising skin
+|Concentration of active component| Increase speed of onset
+|Stability|
+|pH|  ↑ pH ensures more local anaesthetic is in the unionised form, ↑ absorption.
+|Additives| Affect pH and vasoconstrictor activity
+|**Drug Factors**||
+|Molecular weight| Small molecules will diffuse more easily
+|pKa|Affects ionisation and therefore lipid solubility
+|Lipid solubility| ↑ lipid solubility improves speed of onset.
+|Potency| Determines amount of drug needed to produce an effect
+|Vasoconstrictor activity| Will affect both speed of onset and degree of systemic absorption
+|**Patient Factors**|
+|Site|Degree of vascularity of site
+|Skin|Skin thickness and area will affect onset
 
 
 ---
