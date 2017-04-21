@@ -14,20 +14,19 @@ $$ C = C_0 e^{-kt} $$
 
 Where:
 * $$C_0$$ is the concentration at time 0, and so determines peak concentration.
-* **k** is the **rate constant for elimination**, and determines the slope of the curve
-
+* **k** is the **rate constant for elimination**, and is the fraction of the Vd from which the drug is removed per unit time. This determines the slope of the curve.
 
 * The volume of this compartment is the **volume of distribution, Vd**
     * Units are ml.kg<sup>-1</sup> 
     * The volume of distribution is defined as the **theoretical volume into which an amount of drug would be distribute to produce the identified plasma concentration**
         * $$ Vd = {Total \ bioavailable \ drug \over Plasma \ concentration } $$ 
-    * Less confusingly, it is a measurement of what proportion of a drug is confined to plasma, and what proportion distributes to other tissues.
-        * A drug with a **high plasma concentration** will have a **low Vd**
-            * The lowest possible Vd will be ~40ml.kg<sup>-1</sup>, indicating a drug is completely confined to plasma[^2]
-        * A drug with a **low plasma concentration** will have a **high Vd**
+    * Less confusingly, it is a measurement of what proportion of a drug is confined to plasma, and what proportion distributes to other tissues. A V<sub>D</sub> of:
+        * Less than 40ml.kg<sup>-1</sup> indicates a drug is confined to plasma
+        * Up to 200ml.kg<sup>-1</sup> indicates a drug is confined to the ECF
+        * Up to 600ml.kg<sup>-1</sup> indicates a drug is dissolved into the TBW
+        * Greater than 1L.kg<sup>-1</sup> indicates a drug is highly protein bound or lipophilic
 
-
-* The rate constant for elimination, **k**, is the fraction of the Vd from which the drug is removed per unit time
+* The rate constant for elimination, 
 
 
 * **Time constants** ($$\tau$$) are used to model change in an exponential process. They are discussed in more detail in respiratory mechanics. LINK TO THE TIME CONSTANT THINGGGGGGYYYYYYY
@@ -45,6 +44,16 @@ Where:
 
 * **Rate of elimination** is the product of the clearance and the concentration:
     * $$ Rate \ of \ Elimination = Cl \times C $$, in mg.min<sup>-1</sup>
+
+
+####Non-Compartmental Modelling and Clearance
+Clearance is calculated by measuring the plasma concentration of a drug at different time intervals, and **plotting the area under the curve (AUC) to determine clearance**:
+* $$ Cl = {Dose \over AUC}$$
+* This technique does not require any assumptions to be made about compartments, and so is called non-compartmental modelling.
+    * **Bioavailability** is also calculated with non-compartmental models, and determined by the difference between the AUC of the same dose of drug administered IV and via another route.
+
+
+
 
 ###Steady state
 At steady state, **input is equal to output**. Therefore the concentration at steady state is proportional to the concentration of the infusion and infusion rate, and inversely proportional to the clearance:  
@@ -113,12 +122,6 @@ There are two concerns with zero-order kinetics:
 * Plasma concentrations will **rapidly increase** with only modest dose increase
 * There is essentially no **steady state**: if drug input exceeds output, plasma levels will continue to rise.
 
-##Non-compartmental modelling
-An alternative method to model drug elimination is be measuring plasma concentrations at multiple time points and **plotting the area under the curve (AUC) to determine clearance**:
-
-$$ Cl = {Dose \over AUC}$$
-
-**Bioavailability** is determined by the difference between the AUC of the same dose of drug administered IV and via another route.
 
 ---
 ##References
