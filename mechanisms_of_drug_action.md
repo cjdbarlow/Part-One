@@ -6,12 +6,13 @@ Drugs can act in three ways:
   * Ion Channels
   * GPCR
   * Intracellular
-    * Cytoplasmic
+    Cytoplasmic
     * Intranuclear  
       e.g. Steroids, which alter RNA expression
+
+            
 * **Enzyme interaction  **  
   An enzyme is a biological catalyst, increasing the speed of reaction. Enzyme interaction can be:
-
   * Irreversible inhibition  
     * e.g. Aspirin, which irreversibly inhibits platelet thromboxane production
   * Reversible inhibition
@@ -19,8 +20,9 @@ Drugs can act in three ways:
     * e.g. ACE-I
   * Non-competitive antagonism
 
-* **Physicochemically**
 
+
+* **Physicochemically**
   * Osmotic
     * e.g. mannitol
   * Acid-base
@@ -28,11 +30,9 @@ Drugs can act in three ways:
   * Chelation
   * Redox reactions
 
-## ---
+---
 
-
-
-\#\#References
+##References
 
 Peck and Hill
 
