@@ -8,12 +8,11 @@ There are several types of diffusion:
 * **Simple diffusion**  
 Molecules pass through the cell membrane or via a channel. This process is **passive**, and occurs down a concentration gradient.
   * Only lipid soluble molecules (gases, steroids) can pass directly through the lipid bilayer without a specialised channel
-
+  * Voltage-gated and ligand-gated channels facilitate simple diffusion
 
 * **Facilitated diffusion** (uniporters)  
 Molecules bind to a carrier protein, and move together through the lipid bilayer, before separating on the other side. Facilitated diffusion is **concentration gradient-dependent**, but are **limited by** the amount of **carrier protein** available..
 
-  Voltage-gated and ligand-gated channels facilitate simple diffusion.
 
 The rate and extent of diffusion is affected by:
 * Hydrostatic pressure gradients
@@ -23,9 +22,10 @@ The rate and extent of diffusion is affected by:
 ##Active Transport
 Substances that are moved against a concentration gradient require active transport, and requires energy in the form of ATP. Active transport mechanisms may be:
 * **Primary** active transport  
-The substance itself is moved
+The substance itself is moved.
 * **Secondary** active transport  
 The substance moves against a concentration gradient with another molecule that had a gradient established by active transport.
+  * This molecule is typically sodium
 
 Key transporters include:  
 * The **Na<sup>+</sup>-K<sup>+</sup> ATP-ase** pump  
