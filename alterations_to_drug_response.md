@@ -29,8 +29,12 @@ Can occur with ion-channel receptors and GPCRs:
     * GPCR become 'uncoupled' - phosphorylation of the receptor makes it unable to activate second messenger cascade, though it can still bind the ligand.
 
 
-* **Loss of receptors**  
+* **Receptor down-regulation**  
 Prolonged exposure to agonists causes transmembrane (typically hormone) receptors to become **internalised**. This occurs more slowly than uncoupling.
+
+* **Receptor up-regulation**  
+Prolonged exposure to antagonists causes an upregulation of receptor.
+    * Can lead to rebound effects when a drug is ceased (e.g. hypertension with cessation of clonidine)
 
 * **Exhaustation of mediators**  
 Similar to tachyphylaxis - depletion of a mediating substance decreases the effect.
