@@ -79,10 +79,34 @@ Redistribution refers to the movement of drug from the peripheral compartment(s)
     * Drugs which have a large Vd in a peripheral compartment tend to **distribute quickly** along this concentration gradient, and **redistribute slowly** back into plasma
     * Drugs which tend to **distribute slowly** tend to **redistribute quickly** once administration has ceased.
 
-
-
 * **Elimination**  
 Elimination is the loss of drug from the plasma compartment. 
+
+####Clearance in Two-Compartment Models
+Removal of drug in two-compartment models is via:
+* Distribution from the central to the peripheral compartment
+* Elimination from the central compartment
+* This produces a **bi-exponential** fall in plasma concentration  
+Consists of two phases:
+    * Phase α  
+    Distribution phase.
+        * A rapid decline in plasma concentration due to distribution to peripheral tissues
+    * Phase β  
+    Elimination phase.
+        * Slow decline in plasma concentration due to:
+            * Elimination from the body
+            * Redistribution into plasma
+
+BI EXPONENTIAL ELIMINATION GRAPH PAGE 57 PETKOV
+Given by the equation $$C = Ae^{-\alpha t} + Be^{-\Beta t}$$, where:
+* $$C$$ is the concentration of drug in plasma
+* $$A$$ is the y-intercept of the distribution exponent  
+Used to calculate distribution half-life.
+* $$B$$ is the y-intercept of the elimination exponent  
+Used to calculate elimination half-life.
+* $$\alpha$$ is the rate constant for distribution
+* $$\Beta$$ is the rate constant for elimination
+
 
 ####Effect Site
 * For many drugs, we are interested in targeting a particular effect-site concentration of drug (**Ce**)
