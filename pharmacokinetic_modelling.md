@@ -52,9 +52,6 @@ Clearance is calculated by measuring the plasma concentration of a drug at diffe
 * This technique does not require any assumptions to be made about compartments, and so is called non-compartmental modelling.
     * **Bioavailability** is also calculated with non-compartmental models, and determined by the difference between the AUC of the same dose of drug administered IV and via another route.
 
-
-
-
 ###Steady state
 At steady state, **input is equal to output**. Therefore the concentration at steady state is proportional to the concentration of the infusion and infusion rate, and inversely proportional to the clearance:  
 
