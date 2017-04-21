@@ -1,113 +1,128 @@
-#Absorption
->Describe absorption and factors that will influence it.
+# Absorption
+
+> Describe absorption and factors that will influence it.
 
 Absorption is dependent on the route of administration. Routes of administration are selected based on:
+
 * Effect site of the drug
 * Drug factors
-    * Bioavailability
-    * Available preparations
+  * Bioavailability
+  * Available preparations
 * Patient factors
-    * Ability to take or absorb oral medications
-    * Preference
+  * Ability to take or absorb oral medications
+  * Preference
 
+## Key concepts
 
-##Key concepts
 **Bioavailability** is the percentage of drug given which reaches the systemic circulation, compared to the IV form. It is affected by:
+
 * Formulation
 * Physicochemical: Interactions with other drugs and food
 * Patient: Malabsorption syndromes, gastric stasis
 * First-pass metabolism
 
-**First-pass ** (pre-systemic) ** metabolism**: Drugs which undergo metabolism by gut bacteria or enzymes, or in the liver (following absorption via the portal circulation) results in a smaller amount of drug reaching systemic circulation.
+**First-pass ** \(pre-systemic\) ** metabolism**: Drugs which undergo metabolism by gut bacteria or enzymes, or in the liver \(following absorption via the portal circulation\) results in a smaller amount of drug reaching systemic circulation.
 
-##Routes of administration
+## Routes of administration
 
-###Intravenous
+### Intravenous
+
 * Rapid Onset
-* 100% bioavailability (may have pulmonary first-pass metabolism for drugs which are metabolised in pulmonary circulation, such as fentanyl, lignocaine, propofol, and catecholamines)
+* 100% bioavailability \(may have pulmonary first-pass metabolism for drugs which are metabolised in pulmonary circulation, such as fentanyl, lignocaine, propofol, and catecholamines\)
 
-###Oral
+### Oral
+
 * Absorption is through gut mucosa, through either:
-    * Transport mechanisms
-    * Unionised (lipid soluble)
-        * Acidic drugs are absorbed more rapidly in the stomach
-        * The small bowel absorbs both acid and alkaline drugs due to high surface area
+  * Transport mechanisms
+  * Unionised \(lipid soluble\)
+    * Acidic drugs are absorbed more rapidly in the stomach
+    * The small bowel absorbs both acid and alkaline drugs due to high surface area
 * Lowest bioavailability of any route due to:
-    * First-pass metabolism
-    * Gut metabolism of drugs
-    * Bacterial metabolism of drugs
+  * First-pass metabolism
+  * Gut metabolism of drugs
+  * Bacterial metabolism of drugs
 * Drugs must be lipid soluble enough to cross cell-membranes and water soluble enough to cross interstitium
 
-####Factors affecting GIT Absorption
-* Drug Factors
-    * Molecular Weight
-    * Concentration Gradient
-    * Lipid solubility
-    * Pharmaceutical Preparation
-    * Physiochemical interactions
-        * Food
-        * Other drugs
+#### Factors affecting GIT Absorption
 
+* Drug Factors
+  * Molecular Weight
+  * Concentration Gradient
+  * Lipid solubility
+  * Pharmaceutical Preparation
+  * Physiochemical interactions
+    * Food
+    * Other drugs
 
 * Patient Factors
-    * GIT blood flow
-    * Surface Area
-        * SB has the largest surface area of any GIT organ
-    * pH
-    * Motility
-    * Digestive Enzymes
-    * GIT bacteria and subsequent metabolism
-    * Disease
-        * Critical Illness
-        * Bowel Obstruction
-        * Emesis/Diarrhoea
+  * GIT blood flow
+  * Surface Area
+    * SB has the largest surface area of any GIT organ
+  * pH
+  * Motility
+  * Digestive Enzymes
+  * GIT bacteria and subsequent metabolism
+  * Disease
+    * Critical Illness
+    * Bowel Obstruction
+    * Emesis/Diarrhoea
 
-###Epidural
+### Epidural
+
 * May be via bolus or infusion
 * Onset determined by proportion of unionised drug available
 * Additional factors include additives and intrinsic vasoactive properties of the delivered drug
 
-*This is why lignocaine can be used for rapid analgesia through an epidural, as it has a pKa of 7.7 and has a greater portion uninionised than bupivicaine (pKa 8.4) at physiological pH. *
-    
-###Subarachnoid/Intrathecal
+_This is why lignocaine can be used for rapid analgesia through an epidural, as it has a pKa of 7.7 and has a greater portion uninionised than bupivicaine \(pKa 8.4\) at physiological pH. _
+
+### Subarachnoid/Intrathecal
+
 * Very small dosing
 * Minimal systemic spread
 * Extent of subarachnoid spread is dependent on volume and type of solution
 * Appropriate positioning of the patient, with higher-specific gravity solutions, is required to avoid superior spread of the block
 * Additional factors include additives and intrinsic vasoactive properties of the delivered drug
 
-###Inhalation
+### Inhalation
+
 * Systemic absorption dependent on particle size
-    * <1 micron diameter may reach the alveolus
+  * &lt;1 micron diameter may reach the alveolus
 * Rapid diffusion to circulation due to high surface area and no first-pass metabolism
 
-###Transdermal
-* Systemic absorption dependent on:
-*   Surface area
-*   Regional blood flow
-*   Lipid solubility
+### Transdermal
 
-###Subcutaneous
+* Systemic absorption dependent on:
+* Surface area
+* Regional blood flow
+* Lipid solubility
+
+### Subcutaneous
+
 * Absorption dependent on regional blood flow
 
-###Sublingual
-* Rapid onset
-* Bypass portal circulation (drains into SVC)
+### Sublingual
 
-###Rectal
+* Rapid onset
+* Bypass portal circulation \(drains into SVC\)
+
+### Rectal
+
 * Slow and incomplete absorption
 * Partial bypass of the portal circulation - ~50% bioavailability
 
-###Intramuscular
+### Intramuscular
+
 * Bioavailability close to 1
 * Absorption dependent on regional blood flow
 * Potential local complications:
-    * Abscess
-    * Haematoma
+  * Abscess
+  * Haematoma
 
 ---
 
 ## References
- [^1]: Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
-[^2]: Chong CA, Denny NM. Local anaesthetic and additive drugs. http://www.frca.co.uk/documents/anaes.5.5.158.pdf
+
+[^1]: Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+[^2]: Chong CA, Denny NM. Local anaesthetic and additive drugs. [http://www.frca.co.uk/documents/anaes.5.5.158.pdf](http://www.frca.co.uk/documents/anaes.5.5.158.pdf)  
 Essential pharmacology for the ANZCA Primary
+
