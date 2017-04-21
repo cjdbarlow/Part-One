@@ -1,7 +1,13 @@
 #Elimination
->**Describe the mechanisms of drug clearance** and metabolism.
+> Describe the mechanisms of drug clearance and metabolism.
 
-Drugs are eliminated in **urine** and **bile**. 
+Drugs can be eliminated in:
+* **Urine**
+* **Bile**
+* Sweat
+* Breast milk
+* Tears
+* Exhaled gas
 
 ##Renal Elimination
 Drugs can either be filtered at the glomerulus or secreted at the tubules.

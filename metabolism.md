@@ -1,5 +1,12 @@
 #Metabolism
->**Describe the mechanisms of drug** clearance and **metabolism**.
+> Describe the mechanisms of drug clearance and metabolism.
+
+
+
+
+
+
+
 
 **Elimination** of drugs from the body is achieved predominantly through renal excretion of water-soluble compounds. As most drugs are lipophilic, metabolism to water soluble compounds is required to clear drugs from the body.
 
