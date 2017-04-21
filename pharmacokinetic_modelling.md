@@ -45,13 +45,6 @@ Where:
 * **Rate of elimination** is the product of the clearance and the concentration:
     * $$ Rate \ of \ Elimination = Cl \times C $$, in mg.min<sup>-1</sup>
 
-
-####Non-Compartmental Modelling and Clearance
-Clearance is calculated by measuring the plasma concentration of a drug at different time intervals, and **plotting the area under the curve (AUC) to determine clearance**:
-* $$ Cl = {Dose \over AUC}$$
-* This technique does not require any assumptions to be made about compartments, and so is called non-compartmental modelling.
-    * **Bioavailability** is also calculated with non-compartmental models, and determined by the difference between the AUC of the same dose of drug administered IV and via another route.
-
 ###Steady state
 At steady state, **input is equal to output**. Therefore the concentration at steady state is proportional to the concentration of the infusion and infusion rate, and inversely proportional to the clearance:  
 
@@ -114,6 +107,19 @@ Used to calculate elimination half-life.
 * The effect site is not represented in three-compartment models  
 It can be considered as a **compartment with no volume**, but a rate constant of elimination, **k<sub>e0</sub>**
   * The lag-time between Cp and Ce is described by the **half-life for equilibration, t<sub>1/2<sub>ke0</sub>**
+
+##Non-Compartmental Models
+Compartment models are not appropriate for describing the behaviours of all drugs. Non-compartmental models are used when drug:
+* Clearance is organ-independent
+* Elimination does not occur solely from the central compartment
+
+This instead use **AUC**, which is calculated by measuring the plasma concentration of a drug at different time intervals, and **plotting the area under the curve (AUC)**. This can be used to:
+* Determine clearance**  
+$$ Cl = {Dose \over AUC}$$
+* **Bioavailability**  
+Difference between the AUC of the same dose of drug administered IV and via another route.
+
+
 
 ##Kinetics
 ###First-order kinetics
