@@ -76,6 +76,7 @@ A partial agonist generates a **submaximal** response at the receptor. A partial
 
 ####Inverse agonist 
 A drug which has a **negative activity** (between 0 and -1) producing the **opposite** response (compared to the endogenous agonist) at receptor.
+* Occurs due to loss of **constitutive activity** at that receptor
 
 ---
 
