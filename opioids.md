@@ -30,9 +30,9 @@
 |**Equianalgesic Dose** (IV, to 10mg IV morphine)| 10mg|
 
 ##Comparison of Semisynthetic Opioids
-|Property|Oxycodone|
+|Property|Oxycodone|Buprenorphine
 |--|--|
-|**Receptor**|MOP, KOP, DOP|
+|**Receptor**|MOP, KOP, DOP|Partial MOP agonist, KOP antagonist (antanalgesic effect)
 |**Route of Administration**|PO/IV|
 |**pKa**|8.5, < 10% is unionised at physiologic pH.
 |**Absorption**|PO bioavailability 60-80%

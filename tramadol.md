@@ -8,7 +8,7 @@ Tramadol is an analgesic agent with a complicated mechanism of action:
 
 | Properties | Tramadol |
 | -- | -- |
-| **Class** | Cyclohexanol derivative |
+| **Class** | Cyclohexanol derivative. Racemic mixture of (+)Tramadol which has greater MOP and 5HT reuptake effects, and (-)Tramadol, which mediates NA reupake inhibition|
 | **Uses** | Analgesia |
 |**Presentation**| Racemic mixture - each isomer has complementary effects. IV solution is clear at 50mg.ml<sup>-1</sup>|
 | **Route of Administration** | PO/IV/Topical |
