@@ -4,13 +4,14 @@
 |Property|Effect
 |--|--|
 |**Uses**|Analgesia, sedation, elimination of sympathetic response to laryngoscopy/surgical stress response|
-|**Resp**|↓ CNS sensitivity to CO<sub>2</sub> causing respiratory depression - ↑ reliance on hypoxic drive (therefore respiratory depression may be potentiated by high FiO<sub>2</sub>)|
+|**Resp**|↓ CNS sensitivity to CO<sub>2</sub> causing respiratory depression (↓ RR > ↓ V<sub>T</sub>) - ↑ reliance on hypoxic drive (therefore respiratory depression may be potentiated by high FiO<sub>2</sub>)|
 |**CVS**|↓ HR. May ↓ BP due to histamine release (less with synthetic agents). ↑ PVR|
 |**CNS**|Sedation, euphoria. Nausea and vomiting due to CTZ stimulation. Meiosis due to stimulation of the Edinger-Westphal nucleus.|
-|**MSK**|Muscle rigidity
+|**Renal**|↓ RPF, ↑ ADH, ↑ ureteric and sphincter tone
+|**MSK**|Muscle rigidity, pruritis (especially with intrathecal administration)
 |**Metabolic**|↓ ACTH, prolactin, gonadotrophic hormone secretion. ↑ ADH secretion|
-|**GIT**|Sphincter constriction with subsequent constipation|
-|**Immunological**|Pruritis|
+|**GIT**|↓ Peristalsis and GIT secretions with subsequent constipation|
+|**Immunological**|Impaired: chemotaxis, lymphocyte proliferation, and antibody production|
 
 ##Comparison of Opioids
 
