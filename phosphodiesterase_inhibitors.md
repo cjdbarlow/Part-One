@@ -7,7 +7,7 @@ Methylxanthines non-selectively inhibit phosphodiesterase, which results in redu
 |**Class**|Methylxanthine/Non-selective phosphodiesterase inhibitor|
 |**Uses**|Asthma and COAD|
 |**Route of Administration**|IV or PO|
-|**Dosing**|4.6mg.kg<sup>-1</sup> IV load, then at 0.4mg.kg<sup>-1</sup>.hr<sup>-1</sup> targeting serum concentration of 10mcg.ml<sup>-1</sup>|
+|**Dosing**|4-6mg.kg<sup>-1</sup> IV load, then at 0.4mg.kg<sup>-1</sup>.hr<sup>-1</sup> targeting serum concentration of 10mcg.ml<sup>-1</sup>|
 |**Absorption**|High oral bioavailability|
 |**Distribution**|V<sub>D</sub> 0.5L.kg<sup>-1</sup>, 40% protein binding.|
 |**Metabolism**|Hepatic via CYP450 to active metabolites (caffeine and 3-methylxanthine), low hepatic extraction ratio|
