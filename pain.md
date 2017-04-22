@@ -31,23 +31,6 @@ Impulses are conducted by two types of **primary afferent fibres**:
 ###Gate Theory
 Aβ 'touch' fibres stimulate inhibitory interneurones in the dorsal horn, which cause **descending inhibition** and prevent signals from peripheral C fibres from rising ascending to the thalamus. Stimulation of touch neurons 'closes the gate' and reduces pain sensation.
 
-##Opioids
-Opiates are all naturally-occurring substances with morphine-like properties. Opioids is a more general term including all substances with an affinity for opioid receptors.
-
-###Receptor Classification[^1]
-All opioid receptors are pre-synaptic GPCRs. Activation causes an increase in adenylyl cyclase, reducing cAMP which stimulates K<sup>+</sup> efflux and reduces Ca<sup>2+</sup>, and causing subsequent hyperpolarisation of the membrane.
-
-|Receptor|Actions|Notable Properties
-|--|--|
-|MOP|Analgesia, euphoria, meiosis (via stimulation of the Edinger-Westphal nucleus), nausea and vomiting (via CTZ), sedation, bradycardia, inhibition of gut motility|Only opioid receptor to cause nausea/vomiting
-|KOP|Analgesia, sedation, meiosis|Less respiratory depression
-|DOP|Analgesia, respiratory depression
-|NOP|Anxiety, depression, change in appetite|Hyperalgesia at low doses
-
-**Respiratory depression** from opiates is due to reducing central chemoreceptor sensitivity to CO<sub>2</sub>.
-
-**Constipation** occurs due to stimulation of opioid receptors in the gut, which are normally activated by local endogenous opioids (used as neurotransmitters). Agonism of these receptors (µ, k, and to a smaller extent, δ) reduces GIT secretions and peristalsis.
-
 
 ##Response to a Painful Stimulus
 The response to a painful stimulus requires a cascade of processes:
@@ -85,11 +68,6 @@ Damage to the SNS can lead to abnormalities in autonomic function:
 * Reduced hair growth
 * Osteoporosis
 * Hyperalgesia and allodynia
-
----
-##Footnotes
-[^1]Multiple receptor classifications exist - this is one of them.
-
 
 ---
 ##References

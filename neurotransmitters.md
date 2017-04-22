@@ -40,8 +40,6 @@ Agonised by:
     * Ketamine
     * Xenon
     * N<sub>2</sub>
-
-
 ---
 
 ##References
