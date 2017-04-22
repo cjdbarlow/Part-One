@@ -14,20 +14,19 @@ $$ C = C_0 e^{-kt} $$
 
 Where:
 * $$C_0$$ is the concentration at time 0, and so determines peak concentration.
-* **k** is the **rate constant for elimination**, and determines the slope of the curve
-
+* **k** is the **rate constant for elimination**, and is the fraction of the Vd from which the drug is removed per unit time. This determines the slope of the curve.
 
 * The volume of this compartment is the **volume of distribution, Vd**
     * Units are ml.kg<sup>-1</sup> 
     * The volume of distribution is defined as the **theoretical volume into which an amount of drug would be distribute to produce the identified plasma concentration**
         * $$ Vd = {Total \ bioavailable \ drug \over Plasma \ concentration } $$ 
-    * Less confusingly, it is a measurement of what proportion of a drug is confined to plasma, and what proportion distributes to other tissues.
-        * A drug with a **high plasma concentration** will have a **low Vd**
-            * The lowest possible Vd will be ~40ml.kg<sup>-1</sup>, indicating a drug is completely confined to plasma[^2]
-        * A drug with a **low plasma concentration** will have a **high Vd**
+    * Less confusingly, it is a measurement of what proportion of a drug is confined to plasma, and what proportion distributes to other tissues. A V<sub>D</sub> of:
+        * Less than 40ml.kg<sup>-1</sup> indicates a drug is confined to plasma
+        * Up to 200ml.kg<sup>-1</sup> indicates a drug is confined to the ECF
+        * Up to 600ml.kg<sup>-1</sup> indicates a drug is dissolved into the TBW
+        * Greater than 1L.kg<sup>-1</sup> indicates a drug is highly protein bound or lipophilic
 
-
-* The rate constant for elimination, **k**, is the fraction of the Vd from which the drug is removed per unit time
+* The rate constant for elimination, 
 
 
 * **Time constants** ($$\tau$$) are used to model change in an exponential process. They are discussed in more detail in respiratory mechanics. LINK TO THE TIME CONSTANT THINGGGGGGYYYYYYY
@@ -73,10 +72,34 @@ Redistribution refers to the movement of drug from the peripheral compartment(s)
     * Drugs which have a large Vd in a peripheral compartment tend to **distribute quickly** along this concentration gradient, and **redistribute slowly** back into plasma
     * Drugs which tend to **distribute slowly** tend to **redistribute quickly** once administration has ceased.
 
-
-
 * **Elimination**  
 Elimination is the loss of drug from the plasma compartment. 
+
+####Clearance in Two-Compartment Models
+Removal of drug in two-compartment models is via:
+* Distribution from the central to the peripheral compartment
+* Elimination from the central compartment
+* This produces a **bi-exponential** fall in plasma concentration  
+Consists of two phases:
+    * Phase α  
+    Distribution phase.
+        * A rapid decline in plasma concentration due to distribution to peripheral tissues
+    * Phase β  
+    Elimination phase.
+        * Slow decline in plasma concentration due to:
+            * Elimination from the body
+            * Redistribution into plasma
+
+BI EXPONENTIAL ELIMINATION GRAPH PAGE 57 PETKOV
+Given by the equation $$C = Ae^{-\alpha t} + Be^{-\Beta t}$$, where:
+* $$C$$ is the concentration of drug in plasma
+* $$A$$ is the y-intercept of the distribution exponent  
+Used to calculate distribution half-life.
+* $$B$$ is the y-intercept of the elimination exponent  
+Used to calculate elimination half-life.
+* $$\alpha$$ is the rate constant for distribution
+* $$\Beta$$ is the rate constant for elimination
+
 
 ####Effect Site
 * For many drugs, we are interested in targeting a particular effect-site concentration of drug (**Ce**)
@@ -84,6 +107,19 @@ Elimination is the loss of drug from the plasma compartment.
 * The effect site is not represented in three-compartment models  
 It can be considered as a **compartment with no volume**, but a rate constant of elimination, **k<sub>e0</sub>**
   * The lag-time between Cp and Ce is described by the **half-life for equilibration, t<sub>1/2<sub>ke0</sub>**
+
+##Non-Compartmental Models
+Compartment models are not appropriate for describing the behaviours of all drugs. Non-compartmental models are used when drug:
+* Clearance is organ-independent
+* Elimination does not occur solely from the central compartment
+
+This instead use **AUC**, which is calculated by measuring the plasma concentration of a drug at different time intervals, and **plotting the area under the curve (AUC)**. This can be used to:
+* Determine clearance**  
+$$ Cl = {Dose \over AUC}$$
+* **Bioavailability**  
+Difference between the AUC of the same dose of drug administered IV and via another route.
+
+
 
 ##Kinetics
 ###First-order kinetics
@@ -113,12 +149,6 @@ There are two concerns with zero-order kinetics:
 * Plasma concentrations will **rapidly increase** with only modest dose increase
 * There is essentially no **steady state**: if drug input exceeds output, plasma levels will continue to rise.
 
-##Non-compartmental modelling
-An alternative method to model drug elimination is be measuring plasma concentrations at multiple time points and **plotting the area under the curve (AUC) to determine clearance**:
-
-$$ Cl = {Dose \over AUC}$$
-
-**Bioavailability** is determined by the difference between the AUC of the same dose of drug administered IV and via another route.
 
 ---
 ##References
