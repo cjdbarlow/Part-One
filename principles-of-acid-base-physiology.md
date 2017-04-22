@@ -57,14 +57,20 @@ As blood gas machines operate at 37°C, a measurement error will occur if a pati
 * A **hypothermic** patient will have a **higher pH** and **CO<sub>2</sub>** than measured
 
 There are two common methods for **managing** pH of significantly hypothermic patients (e.g., those on CPB): **pH-stat** and **alpha-stat**.
+
 ####pH-stat
 * CO<sub>2</sub> is added to the circuit so that pH and PaCO<sub>2</sub> are normal when corrected for temperature
 * This theoretically improves oxygen delivery by preventing the left-shift in the oxyhaemoglobin dissociation curve
-* The increased CO<sub>2</sub> also causes cerebral vasodilation and may cause an increased risk of cerebral embolic events
+* The increased CO<sub>2</sub> also causes cerebral vasodilation, which:
+ * Increases speed and uniformity of cerebral cooling
+ * Increases risk of cerebral embolic events
 
 ####alpha-stat
-* pH and CO<sub>2</sub> values are allowed to drift, instead being maintained at 'normal for 37°C'
- * Though they will be higher than this
+* pH and CO<sub>2</sub> values are maintained at 'normal for 37°C'
+ * Measured values will be different, as:
+   * pH will be increased
+   * CO<sub>2</sub> will be decreased
+* Cellular autoregulation is preserved
 * Unlike pH-stat, this does not cause cerebral vasodilation
 
 ##Referenecs

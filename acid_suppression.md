@@ -15,8 +15,9 @@ Mechanism of Action
 |**Elimination**|Faecal|Renal of active drug
 |**Mechanism of Action**|Irreversibly blocks the K<sup>+</sup>/H<sup>+</sup> ATPase in parietal cells|Competitively antagonises H<sub>2</sub> receptors, which decreases the action of gastrin and ACh on parietal cells
 |**Resp**||May increase incidence of VAP
+|**CVS**||↓ HR
 |**Renal**|Interstitial nephritis
-|**GIT**|↓ Acidity and volume of gastric secretions|↓ Acidity and volume of gastric secretions
+|**GIT**|↓ Acidity (pH ↑ by ~1) and volume of gastric secretions|↓ Acidity and volume of gastric secretions
 
 ---
 ##References
