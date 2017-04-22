@@ -39,7 +39,7 @@
 |**Distribution**|As lipid soluble as morphine, 45% protein bound, V<sub>D</sub> 3L.kg<sup>-1</sup>|
 |**Clearance** (ml.kg<sup>-1</sup>.min<sup>-1</sup>)|13||
 |**Metabolism**|Hepatic demethylation to noroxycodone and oxymorphone via CYP2D6. t<sub>1/2</sub>β 200 minutes.| Hepatic to active norbuprenorphine|
-|**Elimination**|Renal elimination of active drug and metabolites|Biliary and renal elimination, t<sub>1/2</sub>β 40 hours|
+|**Elimination**|Renal elimination of active drug and metabolites|70% biliary, 30% renal elimination, t<sub>1/2</sub>β 40 hours|
 |**Time to Peak Effect (IV)**|5 minutes||
 |**Duration (IV)**|4 hours||
 |**Equianalgesic Dose** (IV, to 10mg IV morphine)| 10mg|
