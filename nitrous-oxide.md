@@ -15,6 +15,7 @@
 |**Blood:gas coefficient**|0.47
 |**Oil:gas coefficient**|1.4
 |**MAC**|105
+|**Mechanism of Action**|- Stimulates dynorphin release (acts at KOP receptor) <br>- Positive allosteric modulator at GABA<sub>A</sub> receptor<br>- NMDA antagonist
 |**Metabolism**|< 0.01% hepatic reduction.
 |**Resp**|Diffusion hypoxia due to second gas effect. Small ↓ in V<sub>T</sub>, ↑ in RR such that MV is unchanged.
 |**CVS**|↑ SNS tone, mild myocardial depression. ↑ PVR - beware in pulmonary hypertension.
@@ -22,5 +23,11 @@
 |**GIT**|N/V.
 |**Immune**|
 |**Metabolic**|
-|**Toxic Effects**|High diffusing capacity means it will rapidly diffuse into air-filled cavities, increasing the volume of compliant cavities (PTHx, bowel), and increasing the pressure of non-compliant cavities (middle ear). <br><br> **Oxidates cobalt ion in vitamin B<sub>12</sub>**, **preventing its action as a cofactor** for **methionine synthetase**, preventing DNA synthesis. This leads to: <br>- Megaloblastic changes in bone marrow <br>-Agranulocytosis<br>-Peripheral neuropathy <br>- Possible teratogenicity - avoid in early pregnancy. <br><br> Greenhouse gas.
+|**Toxic Effects**|High diffusing capacity means it will rapidly diffuse into air-filled cavities, increasing the volume of compliant cavities (PTHx, bowel), and increasing the pressure of non-compliant cavities (middle ear). <br><br> **Oxidates cobalt ion in vitamin B<sub>12</sub>**, **preventing its action as a cofactor** for **methionine synthetase**, preventing DNA synthesis. This leads to: <br>- Megaloblastic changes in bone marrow <br>- Agranulocytosis<br>- Peripheral neuropathy <br>- Possible teratogenicity - avoid in early pregnancy. <br><br> Greenhouse gas.
 
+---
+
+##References
+Peck and Hill
+Petkov
+doi: 10.2344/0003-3006(2007)54[9:AIUTAO]2.0.CO;2
