@@ -33,18 +33,16 @@
 |Property|Oxycodone|Buprenorphine
 |--|--|
 |**Receptor**|MOP, KOP, DOP|Partial MOP agonist, KOP antagonist (antanalgesic effect)
-|**Route of Administration**|PO/IV|
-|**pKa**|8.5, < 10% is unionised at physiologic pH.
-|**Absorption**|PO bioavailability 60-80%
+|**Route of Administration**|PO/IV|Topical
+|**pKa**|8.5, < 10% is unionised at physiologic pH.||
+|**Absorption**|PO bioavailability 60-80%|Significant 1st pass metabolism|
 |**Distribution**|As lipid soluble as morphine, 45% protein bound, V<sub>D</sub> 3L.kg<sup>-1</sup>|
-|**Clearance** (ml.kg<sup>-1</sup>.min<sup>-1</sup>)|13|
-|**Metabolism**|Hepatic demethylation to noroxycodone and oxymorphone via CYP2D6. t<sub>1/2</sub>β 200 minutes.
-|**Elimination**|Renal elimination of active drug and metabolites
-|**Time to Peak Effect (IV)**|5 minutes|
-|**Duration (IV)**|4 hours|
-|**Equianalgesic Dose** (IV, to 10mg IV morphine)| 10mg
-
-
+|**Clearance** (ml.kg<sup>-1</sup>.min<sup>-1</sup>)|13||
+|**Metabolism**|Hepatic demethylation to noroxycodone and oxymorphone via CYP2D6. t<sub>1/2</sub>β 200 minutes.| Hepatic to active norbuprenorphine|
+|**Elimination**|Renal elimination of active drug and metabolites|Biliary and renal elimination, t<sub>1/2</sub>β 40 hours|
+|**Time to Peak Effect (IV)**|5 minutes||
+|**Duration (IV)**|4 hours||
+|**Equianalgesic Dose** (IV, to 10mg IV morphine)| 10mg|
 
 
 ##Comparison of Synthetic Opioids
@@ -61,12 +59,6 @@
 |**Time to Peak Effect (IV)**|5 minutes|90 seconds|1-3 minutes|
 |**Duration (IV)**|Variable depending on dose and distribution. With doses > 3μg.kg<sup>-1</sup> tissues become saturated and the duration of action is significantly prolonged|5-10 minutes|Offset 5-10 minutes from ceasing infusion|
 |**Equianalgesic Dose** (IV, to 10mg IV morphine)|150mcg|1mg|50mcg|
-
-
-
-
-
-
 
 
 ---
