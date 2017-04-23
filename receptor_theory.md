@@ -45,11 +45,17 @@ The **maximal** effect that a drug can generate.
 
 
 * **Intrinsic activity**  
-The size of effect a drug has when bound, which is graded from 0 to 1. This allows drugs to be subdivided into:
-    * **Agonists**
-    * **Antagonists**
-    * **Partial agonists**
-    * **Inverse agonists**.
+The size of effect a drug has when bound, which is graded from 0 to 1. 
+
+
+###Drug-Receptor Interactions
+Drugs can be classified by the way they interact with receptors into:
+* **Agonists**
+* **Antagonists**
+* **Partial agonists**
+* **Inverse agonists**
+* **Allosteric Modulator**
+* **Mixed Agonist-Antagonist**
 
 ####Agonist
 An agonist will generate a **maximal** response at the receptor site. An agonist has **high affinity** and an **activity of 1**. Agonists can be compared by:
@@ -61,7 +67,11 @@ An antagonist produces no response at the receptor site, and prevents other liga
 
 Antagonists with these properties are also known as **direct antagonists**, which can be either:
 * **Competitive antagonists**  
-Displace other ligands from a binding site. The effect can be overriden by increasing the dose of agonist.
+Displace other ligands from a binding site. Competitive antagonists can be:
+    * Reversible  
+    The effect can be overridden by increasing the dose of agonist.
+    * Irreversible  
+    Drug cannot be overriden by increasing dose of agonist. Dose-response curve appears similar to that of the non-competitive antagonist.
 * **Non-competitive antagonists**  
 Create a conformational change in the receptor. They cannot be overidden by increasing the dose of agonist.
 
@@ -77,6 +87,19 @@ A partial agonist generates a **submaximal** response at the receptor. A partial
 ####Inverse agonist 
 A drug which has a **negative activity** (between 0 and -1) producing the **opposite** response (compared to the endogenous agonist) at receptor.
 * Occurs due to loss of **constitutive activity** at that receptor
+
+####Allosteric Modulator
+A drug which binds to an allosteric site on the receptor and produces conformational change that alters the affinity of the receptor for the endogenous agonist.
+
+Allosteric modulators can be:
+    * Positive  
+    Increases affinity for endogenous agonist.
+        * e.g. benzodiazepines are positive allosteric modulators at the GABA<sub>A</sub> receptor
+    * Negative  
+    Decreases affinity for endogenous agonist.
+
+####Mixed Agonist-Antagonist
+A drug which has different effects on different receptors.
 
 ---
 
