@@ -16,6 +16,7 @@ These are related to the pharmacological action of the drug. They are:
 * Temporally associated with drug administration
 * Reproducible
 * Pharmacologically predictable based on understanding of the drug in question
+    * e.g hypokaleamia secondary to diuretic use
 
 They typically result in:
 * Organ-selective injury
@@ -23,11 +24,8 @@ They typically result in:
     * Extremes of age
     * Pregnancy
     * Renal failure
-* High morbidity but low mortality
-
+* High morbidity but low mortality  
 Treatment is to decrease dose.
-
-> Hypokalaemia secondary to diuretic use
 
 ##Type B Adverse Reactions
 These are patient-specific or idiosyncratic reactions. They are:
@@ -37,8 +35,9 @@ These are patient-specific or idiosyncratic reactions. They are:
 * Mechanism not pharmacologically predictable. Important causes include:
     * Acetylator status
     * CYP450 variants
+    * Receptor abnormalities
     * Enzyme alterations/deficiencies  
-    E.g. Suxamethonium apnoea
+        * e.g. Suxamethonium apnoea
 * Not necessarily reproducable
 
 They typically result in:
