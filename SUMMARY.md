@@ -267,6 +267,7 @@
   * [Tramadol](tramadol.md)
   * [Paracetamol](paracetamol.md)
 * [Autonomic](antimuscarinicsansmd.md#id)
+  * [Indirect Muscarinic Stimulants](indirect-muscarinic-stimulants.md)
   * [Antimuscarinics](antimuscarinicsansmd.md)
 * [Neuromuscular](depolarising_nmbs.md#id)
   * [Depolarising NMBs](depolarising_nmbs.md)
