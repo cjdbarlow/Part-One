@@ -62,6 +62,7 @@ An agonist will generate a **maximal** response at the receptor site. An agonist
 * **Relative potency** implies that if two agonists are equally efficacious, a smaller dose of one is required to get an effect.
 * **Relative efficacy** implies that the maximal effect of one agonist is greater than the other.
 
+
 ####Antagonist 
 An antagonist produces no response at the receptor site, and prevents other ligands binding. Antagonists have **high affinity** and an **activity of 0**.
 
@@ -106,3 +107,4 @@ A drug which has different effects on different receptors.
 ##References
 1. Pinnock C, Lin T, Smith T. Fundamentals of Anaesthesia. 2nd Ed. Cambridge Universiy Press. 2003.
 2. Encyclopaedia Britannica. Available at: https://www.britannica.com/science/law-of-mass-action
+3. Petkov
