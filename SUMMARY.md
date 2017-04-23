@@ -150,6 +150,7 @@
   * [Hypothalmus and Pituitary](pituitary_and_hypothalamus.md)
   * [Thyroid](thyroid.md)
   * [Calcium Homeostasis](calcium_homeostasis.md)
+  * [Histamine](histamine.md)
 * [Musculoskeletal System](skeletal_muscle.md#id)
   * [Musculoskeletal Physiology](skeletal_muscle.md#id)
     * [Skeletal Muscle Structure](skeletal_muscle.md)
