@@ -3,7 +3,7 @@
 
 <!--></!-->
 
-> <p style="color:purple";> Describe the comparative pharmacology of nitrous oxide, ~~halothane, enflurane, isoflurane, desflurane, sevoflurane, xenon and ether~~</p>
+> <p style="color:purple";> Describe the comparative pharmacology of nitrous oxide, <strike>halothane, enflurane, isoflurane, desflurane, sevoflurane, xenon and ether</strike></p>
 
 
 |Property|Nitrous Oxide|Entonox (50% O<sub>2</sub>, 50% N<sub>2</sub>O)
