@@ -22,7 +22,7 @@
 |**CNS**|Analgesic via endorphin and encephalin modulation, and on opioid receptors. ↑ CBF.
 |**GIT**|N/V.
 |**Immune**|
-|**Metabolic**|
+|**Metabolic**|↑ Homocysteine.
 |**Toxic Effects**|High diffusing capacity means it will rapidly diffuse into air-filled cavities, increasing the volume of compliant cavities (PTHx, bowel), and increasing the pressure of non-compliant cavities (middle ear). <br><br> **Oxidates cobalt ion in vitamin B<sub>12</sub>**, **preventing its action as a cofactor** for **methionine synthetase**, preventing DNA synthesis. This leads to: <br>- Megaloblastic changes in bone marrow <br>- Agranulocytosis<br>- Peripheral neuropathy <br>- Possible teratogenicity - avoid in early pregnancy. <br><br> Greenhouse gas.
 
 ---
@@ -30,4 +30,5 @@
 ##References
 Peck and Hill
 Petkov
+ANZCA Feb/April 2006
 doi: 10.2344/0003-3006(2007)54[9:AIUTAO]2.0.CO;2
