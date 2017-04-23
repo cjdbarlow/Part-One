@@ -80,6 +80,8 @@ Pharmacodynamic interactions can be **direct**, due to interaction on the same r
 
 These three interactions can be graphically demonstrated using an **isobologram**, which draws a **line of equal activity** versus **concentration** of two drugs.
 
+INSERT ISOBOLOGRAM GRAPH
+
 ---
 ##References
  [^1]: Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
