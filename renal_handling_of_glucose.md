@@ -90,10 +90,13 @@ Reuptake occurs in several stages:
 Urea is a small, water soluble molecule produced in the liver from ammonia as a method for eliminating nitrogenous waste. 
 
 Urea excretion is complex, as it has an important role in the counter current multiplier. This means that in the short term (hours to days) elimination may not match production, although over weeks they will be equal. Urea is:
-* Free filtered
-* 50% is reabsorbed in the PCT by solvent drag (with water reabsorption)
-* The urea reabsorbed in the PCT is then secreted into the Loop of Henle via UT uniporters
-* 50% is reabsorbed (again) in the collecting ducts
+* Freely filtered
+* ~50% of filtered load is reabsorbed in the PCT by solvent drag (with water reabsorption)  
+Urea concentration is slightly increased as more water is reabsorbed than urea.
+* The urea reabsorbed in the PCT is then secreted into the Loop of Henle via UT uniporters  
+  * Luminal concentration of urea is much higher in the ascending limb due to the absorption of water.
+* ~50% is reabsorbed (again) in the medullary collecting ducts  
+Here, urine becomes so concentrated that luminal concentration of urea exceeds medullary concentration.
   * Overall, 50% of filtered load is excreted
 
 
