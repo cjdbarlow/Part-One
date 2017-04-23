@@ -84,5 +84,5 @@ INSERT ISOBOLOGRAM GRAPH
 
 ---
 ##References
- [^1]: Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
- [^2]: Khan S, Stannard N, Greijn J. Precipitation of thiopental with muscle relaxants: a potential hazard. JRSM Short Reports. 2011;2(7):58. Available at: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3147238/
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. Khan S, Stannard N, Greijn J. Precipitation of thiopental with muscle relaxants: a potential hazard. JRSM Short Reports. 2011;2(7):58. Available at: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3147238/
