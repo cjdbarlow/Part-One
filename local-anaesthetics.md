@@ -76,7 +76,7 @@ Continuous infusions are more likely to cause a delayed onset of local anaesthet
     * Brachial plexus
     * Subcutaneous
   * Use of **adjuncts**
-  * Adrenaline  
+    * Adrenaline  
     Vasoconstrictor properties reduce systemic absorption of LA.
   * **Technique**  
     * Frequent aspiration
