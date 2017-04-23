@@ -1,19 +1,19 @@
 #Drug Interactions
 >Classify and describe mechanisms of drug interaction.
 
-Drug interactions occur "when the action of one drug modifies that of another".[^1] 
+Drug interactions occur "when the action of one drug modifies that of another".
 
 ##Mechanisms of Drug Interaction
 
 Drug interactions are best classified into **three** categories:
-* **Pharmaceutic/Physicochemical**
+* **Physicochemical**
 * **Pharmacokinetic**
 * **Pharmacodynamic**
 
-###Pharmaceutic
+###Physicochemical
 Physicochemical interactions occur because of an incompatibility between chemical structures.
 
-> Thiopentone and many muscle relaxants will precipitate out of solution if prepared together or run in the same line[^2]
+* e.g. Thiopentone and suxamethonium precipitate out of solution if prepared together or delivered together in the same line
 
 ###Pharmacokinetic
 Pharmacokinetic interactions can be sub-classified into those affecting absorption, distribution, metabolism, or elimination.
@@ -49,7 +49,8 @@ Metabolism may be affected by changes to the CYP450 enzymes:
     * Phenytoin
     * Carbamazepine
 * Enzyme inhibition
-    * Amiodarone
+    * Amiodarone  
+    Amiodarone inhibits metabolism of S-warfarin by CYP2C9, enhancing it's effect.
     * Diltiazem
     * Verapamil
     * Ciprofloxacin
@@ -57,7 +58,6 @@ Metabolism may be affected by changes to the CYP450 enzymes:
     * Metronidazole
     * Grapefruit juice
 
-> Amiodarone inhibits metabolism of S-warfarin by CYP2C9, leading to coagulopathy.
 
 ####Elimination
 Renal elimination can be affected by:
@@ -70,24 +70,15 @@ Renal elimination can be affected by:
 Pharmacodynamic interactions can be **direct**, due to interaction on the same receptor system; or a **indirect**, when they act on different receptor system. These interactions can be classified as either:
 * **Additive**  
   When the effects summate.
+  * e.g. Administering midazolam with propofol reduces the amount of propofol required to generate an effect.
 * **Antagonistic**  
   When the effects oppose each other.
+  * e.g. Neostigmine indirectly antagonises the effect of NDMRs by increasing the level of ACh at the NMJ.
 * **Synergistic**  
   When the combined effect is greater than would be expected from summation alone.
+  * e.g. Co-administration of remifentanil and propofol has a synergistic effect in maintenance of anaesthesia.
 
 These three interactions can be graphically demonstrated using an **isobologram**, which draws a **line of equal activity** versus **concentration** of two drugs.
-
-
-> Administering midazolam with propofol reduces the amount of propofol required to generate an effect.
-
-<!--></!-->
-
-> Neostigmine indirectly antagonises the effect of NDMRs by increasing the level of ACh at the NMJ.
-
-<!--></!-->
-
-> Co-administration of remifentanil and propofol has a synergistic effect in maintenance of anaesthesia.
-
 
 ---
 ##References
