@@ -9,7 +9,7 @@ Isomers can be divided into:
 Atoms are connected in entirely different orders, and may contain different functional groups. Structural isomerism is subdivided into:
     * **Static**  
     Further subdivided into:
-        * Chain isomer
+        * Chain isomer  
         The carbon skeleton varies, but position of functional groups is static.
         * Position isomer  
         The carbon skeleton is static, but the position of functional groups varies.
@@ -24,26 +24,28 @@ Atoms are connected in the same order in each isomer, but differ in their spatia
     * **Geometric Isomers**  
     Have a chemical structure (e.g. a carbon-carbon double-bond) prevents free rotation of groups, so different locations of chemical groups will create an isomer. Geometric isomers are known as **cis-** or **trans-** depending on whether the subgroups are on the same or opposite sides (respectively) of the chemical structure.
         * e.g. atracurium
-   * **Optical Isomers**  
-   Optical isomers are **chiral**. This means they have **no plane of symmetry**. Optical isomers:
-       * Were named based on how they rotated under polarised light:
-           * **Dextrorotatory** (d- or (+) isomers) molecules rotate **clockwise** under polarised light.
-           * **Levorotatory** (l- or (-) isomers) molecules rotate **counter-clockwise** under polarised light.
-           * Unfortunately, different molecules were found to rotate in different directions depending on the temperature. Therefore, a different classification scheme (R/S) is also used:
-               * Based on chemical structure
-               * "Priority" is assigned to each atom in the structure
-                   * Highest priority is usually those with the highest molecular weight, but other rules exist for ambiguous or very large molecules
-                   * The molecule is arranged in space such that the lowest priority atom is facing "away"
-                   * An arrow is then drawn from the highest priority to the lower priority atoms:
-                       * If this arrow travels **clockwise** it is the **R (Rectus)** isomer
-                       * If this arrow travels **counter-clockwise** it is the **S (Sinister)** isomer
-       * Optical isomers are divided into:
-           * **Enantiomers**  
-           Possess one chiral centre.
-               * e.g. levobupivacaine is less cardiotoxic than racemic bupivacaine.
-           * **Diastereoisomers**  
-           Possess multiple chiral centres, and may have multiple stereoisomers. Since not all are mirror images, these are not *enantiomers*.
-               * For a molecule with *n* chiral centres up to *n<sup>2</sup>* isomers are possible, though some of these may be duplicates.
+    * **Optical Isomers**  
+    Optical isomers are **chiral**. This means they have **no plane of symmetry**. Optical isomers:
+        * Were named based on how they rotated under polarised light:
+            * **Dextrorotatory**  
+            (d- or (+) isomers) molecules rotate **clockwise** under polarised light.
+            * **Levorotatory**  
+            (l- or (-) isomers) molecules rotate **counter-clockwise** under polarised light.
+        * Unfortunately, different molecules were found to rotate in different directions depending on the temperature. Therefore, a different classification scheme (R/S) is also used:
+            * Based on chemical structure
+            * "Priority" is assigned to each atom in the structure
+            * Highest priority is usually those with the highest molecular weight, but other rules exist for ambiguous or very large molecules
+            * The molecule is arranged in space such that the lowest priority atom is facing "away"
+            * An arrow is then drawn from the highest priority to the lower priority atoms:
+                * If this arrow travels **clockwise** it is the **R (Rectus)** isomer
+                * If this arrow travels **counter-clockwise** it is the **S (Sinister)** isomer
+        * Optical isomers are divided into:
+            * **Enantiomers**  
+            Possess one chiral centre.
+                * e.g. levobupivacaine is less cardiotoxic than racemic bupivacaine.
+            * **Diastereoisomers**  
+            Possess multiple chiral centres, and may have multiple stereoisomers. Since not all are mirror images, these are not *enantiomers*.
+                * For a molecule with *n* chiral centres up to *n<sup>2</sup>* isomers are possible, though some of these may be duplicates.
 
 ##Preparations
 **Racemic solutions**  
