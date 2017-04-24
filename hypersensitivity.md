@@ -19,8 +19,8 @@ The Gel and Coombs system classifies hypersensitivity reactions by the mechanism
 
 ###Type I Hypersensitivity
 * Antigen simulates a B lymphocyte to produce a specific IgE against it
-* This IgE then coats mast cells, sensitising them to this exposure
-* On re-exposure the antigen **cross-links** the IgE bound to mast cells, causing degranulation
+* This IgE then binds to Fc receptors on mast cells, sensitising them to this exposure
+* On re-exposure the antigen binds (**cross-links**) IgE on to mast cells, causing degranulation:
   * Histamine, leukotrienes, and prostaglandins are released
   * This may cause local or systemic effects, depending on method of exposure:
     * A systemic reaction is called **anaphylaxis**, and manifests as:
