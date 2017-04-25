@@ -39,7 +39,7 @@ Duration of action is a function of:
     * Protein binding decreases with decreasing pH, increasing the fraction of unbound drug  
     This is why agents such as bupivacaine are more cardiotoxic in acidotic patients.
     * Local anaesthetics are predominantly bound to α-1-acid glycoprotein (AAG)  
-    AAG is reduced in pregancy, reducing the dose of LA in pregnant patients.
+    AAG is reduced in pregancy, increasing the free drug fraction and therefore reducing the toxic dose of LA in pregnant patients.
 * **Onset**  
 Speed of onset is related to:
   *  **pK<sub>a</sub>**  
