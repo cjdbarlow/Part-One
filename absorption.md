@@ -140,4 +140,4 @@ _This is why lignocaine can be used for rapid analgesia through an epidural, as 
 [^1]: Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
 [^2]: Chong CA, Denny NM. Local anaesthetic and additive drugs. [http://www.frca.co.uk/documents/anaes.5.5.158.pdf](http://www.frca.co.uk/documents/anaes.5.5.158.pdf)  
 Essential pharmacology for the ANZCA Primary
-
+Petkov
