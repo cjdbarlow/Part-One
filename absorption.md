@@ -21,7 +21,22 @@ Absorption is dependent on the route of administration. Routes of administration
 * Patient: Malabsorption syndromes, gastric stasis
 * First-pass metabolism
 
-**First-pass ** \(pre-systemic\) ** metabolism**: Drugs which undergo metabolism by gut bacteria or enzymes, or in the liver \(following absorption via the portal circulation\) results in a smaller amount of drug reaching systemic circulation.
+**First-pass ** \(pre-systemic\) ** metabolism** is the extent to which drug concentration is reduced after its first passage through an organ before reaching the systemic circulation. First pass metabolism is:
+* Typically used when referring to passage of orally-adminstered drugs through the liver  
+May also refer to metabolism by the:
+  * Lungs  
+  First pass of intravenously injected drugs prior to entering the arterial side of the circulation
+  * Vascular endothelium
+* Relevant in:
+  * Understanding the difference between PO and IV dosing
+    * Alternative routes of adminsitration for drugs with low PO bioavailability
+  * Delivery of prodrugs via PO mechanisms  
+  Increases active drug concentration.
+  * Understanding enzyme interactions 
+  * Understanding the effects of hepatic disease
+    * Porto-systemic shunts decrease first pass metabolism
+    * Altered bioavailability of drugs with high hepatic extraction ratios
+    
 
 ## Routes of administration
 
