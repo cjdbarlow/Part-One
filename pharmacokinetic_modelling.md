@@ -13,8 +13,11 @@ In a one compartment model, the concentration of a drug ($$C$$) at time $$t$$ is
 $$ C = C_0 e^{-kt} $$
 
 Where:
-* $$C_0$$ is the concentration at time 0, and so determines peak concentration.
-* **k** is the **rate constant for elimination**, and is the fraction of the Vd from which the drug is removed per unit time. This determines the slope of the curve.
+* $$C_0$$ is the concentration at time 0  
+As drug is only eliminated from the compartment, this is also the peak concentration.
+* **k** is the **rate constant for elimination**  
+This is the fraction of the Vd from which the drug is removed per unit time. The rate constant **determines** the **slope** of the curve.
+
 
 * The volume of this compartment is the **volume of distribution, Vd**
     * Units are ml.kg<sup>-1</sup> 
@@ -26,7 +29,6 @@ Where:
         * Up to 600ml.kg<sup>-1</sup> indicates a drug is dissolved into the TBW
         * Greater than 1L.kg<sup>-1</sup> indicates a drug is highly protein bound or lipophilic
 
-* The rate constant for elimination, 
 
 
 * **Time constants** ($$\tau$$) are used to model change in an exponential process. They are discussed in more detail in respiratory mechanics. LINK TO THE TIME CONSTANT THINGGGGGGYYYYYYY
@@ -37,17 +39,19 @@ Where:
     * One half life is equivalent to 0.693 time constants
 
 ###Clearance
-* **Clearance** is the volume from which the drug is removed per unit time.
-* It is expressed as: $$ Cl = k.Vd $$ in ml.min<sup>-1</sup>.
-* As the **time constant** is the inverse of **k**, clearance can also be expressed as: $$ Cl = {Vd \over \tau } $$
-* Since **k** and **Vd** are constant, clearance is also a constant.
+Clearance is:
+* The volume from which the drug is removed per unit time
+* Expressed as: $$ Cl = k.Vd $$ in ml.min<sup>-1</sup>.
+    * As the **time constant** is the inverse of **k**, clearance can also be expressed as: $$ Cl = {Vd \over \tau } $$
+    * Since **k** and **Vd** are constant, clearance is also a constant.
 
-* **Rate of elimination** is the product of the clearance and the concentration:
-    * $$ Rate \ of \ Elimination = Cl \times C $$, in mg.min<sup>-1</sup>
+
+The **rate of elimination** of a drug is the product of the clearance and the current concentration: $$ Rate \ of \ Elimination = Cl \times C $$, in mg.min<sup>-1</sup>
 
 ###Steady state
-At steady state, **input is equal to output**. Therefore the concentration at steady state is proportional to the concentration of the infusion and infusion rate, and inversely proportional to the clearance:  
-
+At steady state, **input is equal to output**. Therefore the concentration at steady state is:
+* Proportional to the concentration of the infusion and infusion rate
+* Inversely proportional to the clearance:  
 $$ Input = Output \\ C_i.I = C_{ss}.Cl \\ C_{ss} = {C_i.I \over Cl}$$
 
 The concentration of drug can therefore be determined by the amount infused and the clearance.
@@ -127,7 +131,7 @@ In **first-order** kinetics, a constant **proportion** of the drug in the body i
 
 ![First-order kinetics](http://i.imgur.com/4g4wkD7.png)[^4]
 
-* This occurs in most circumstances, when metabolism is not rate limited by availability of enzymes
+* Most drugs are eliminated by first order kinetics, as the capacity of the elimination system exceeds the concentration of drug
 
 ###Zero-order kinetics
 In **zero-order** kinetics, a **constant amount of drug** is eliminated per unit time, independent of how much drug is in the body.[^5]

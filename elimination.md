@@ -10,28 +10,28 @@ Drugs can be eliminated in:
 * Exhaled gas
 
 ##Renal Elimination
-Drugs can either be filtered at the glomerulus or secreted at the tubules.
-
-###Filtration
-Drugs which are filtered are:
-* **Non-protein bound**  
+Drugs can either be:
+* Filtered at the glomerulus  
+  Filtered drugs are:
+  * **Non-protein bound**  
   Only free drug present in filtered plasma will be excreted - the concentration of the drug will be the same in the *unfiltered* plasma. **Highly protein bound** drugs are therefore **poorly filtered**, as there is no concentration gradient encourages them to decouple from plasma proteins.
-* **Small**
-* **Hydrophilic/lipophobic**  
-  Lipophilic drugs will be reabsorbed during their passage down the tubule.
-
-###Proximal tubular secretion
-* **Active secretion** allows secretion **against concentration gradients**.
-* Separate mechanisms for acidic and alkaline drugs
-    * Saturation may occur of a basic transporter whilst still allowing excretion of acidic drugs
-
-###Distal tubular secretion
-* **Passive diffusion** down a concentration gradient
+  * **Small**
+  * **Hydrophilic/lipophobic**  
+      Lipophilic drugs will be reabsorbed during their passage down the tubule.
+* Secreted at the glomerulus
+    * * **Active** process allows secretion **against concentration gradients**.
+    * Separate mechanisms for acidic and alkaline drugs
+        * Saturtable process  
+        Saturation may occur of a basic transporter whilst still allowing excretion of acidic drugs.
+* Tubular reabsorption  
+**Passive diffusion** down a concentration gradient.
 * Therefore, acidic drugs have increased elimination in an alkaline urine, and vice versa
     * This is the physiological justification for urinary alkalinisation
 
-##Biliary elimination
-* Biliary elimination occurs for drugs unable to be filtered by the glomerulus (>30,000 dalton) or secreted by the glomerulus.
+##Hepatic Elimination
+Biliary elimination occurs for drugs unable to be filtered by the glomerulus. These are typically:
+* Large >30,000 dalton
+* Lipid soluble
 
 ###Enterohepatic recirculation
 Biliary excreted drugs may be hydrolysed in the small bowel by bacteria and then reabsorbed, pass through the portal circulation and get metabolised again. This may occur many times.
