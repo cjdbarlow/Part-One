@@ -121,16 +121,23 @@ It is dependent on:
 * Enzyme capacity
     * Described by the **Michaelis Constant**: The concentration of a substrate which causes an enzyme to work at 50% of its maximum capacity
 
-
+Drugs can be either:
 * **High extraction ratio**  
-  These drugs have a rapid uptake and high capacity. Free drug is rapidly removed from plasma, bound drug is released from plasma proteins and a concentration gradient is maintained. Metabolism of drugs with a high extraction ratio  is **independent of protein binding** and **dependent on liver flow**. There is a **high variability** in plasma concentration between individuals due to the variation in liver blood flow.
+These drugs have a rapid uptake and high capacity, so elimination is **perfusion dependent**.
+  * Free drug is rapidly removed from plasma, bound drug is released from plasma proteins and a concentration gradient is maintained
+  * Metabolism of drugs with a high extraction ratio  is:
+    * **Independent of protein binding**
+    * **Dependent on liver flow**
+  * There is a **high variability** in plasma concentration between individuals due to the variation in liver blood flow
 
-    Drugs with a **high extraction ratio** have **perfusion-dependent elimination**.
 
 * **Low extraction ratio**  
-  The amount of free drug available for metabolism is greatly affected by the degree of protein binding. Metabolism is **largely independent of flow** and **dependent on hepatocyte function and protein binding**.
+Elimination is *capacity-dependent**.
+  * Amount of free drug available for metabolism is greatly affected by the degree of protein binding
+  * Metabolism is:
+    * Largely **independent of flow** 
+    * **Dependent on hepatocyte function and protein binding**.
 
-    Drugs with a **low extraction ratio** have **capacity-dependent elimination**.
 
 ###Factors Affecting Hepatic Metabolism
 
@@ -145,15 +152,19 @@ It is dependent on:
 ||Hepatic disease|
 ||Smoking, ETOH|
 
-##Hofmann Degradation
-**Hofmann degradation** refers to spontaneous degradation or metabolism of substances occurring in plasma.
-
->Cisatracurim undergoes Hofmann degradation
-
-##Plasma Estserases
-Plasma esterases are non-microsomal enzymes which hydrolyse ester bonds. They are typically synthetised in the liver and erythrocytes, and have a **high capacity** and **organ independent elimination**, so drugs metabolised by plasma esterases have a reliable offset.
+##Organ Independent Metabolism
+Mechanisms of organ indepedent metabolism include:
+* **Hofmann Degradation**  
+Spontaneous degradation or metabolism of substances occurring in plasma.
+  * e.g. Cisatracurim undergoes Hofmann degradation
+* **Plasma Estserases**  
+Plasma esterases are non-microsomal enzymes which hydrolyse ester bonds. They:
+  * Are typically synthetised in the liver and erythrocytes
+  * Have a **high capacity**  
+  This, combined with the organ-independent elimination, means drugs metabolised by plasma esterases have a reliable offset.
+  * e.g. Suxamethonium is hydrolysed by plasma esterases
 
 
 ##References
- [^1]: Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
- Essential pharmacology for the ANZCA primary exam
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. Essential pharmacology for the ANZCA primary exam
