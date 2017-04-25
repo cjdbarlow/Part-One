@@ -101,15 +101,35 @@ _This is why lignocaine can be used for rapid analgesia through an epidural, as 
 ### Inhalation
 
 * Systemic absorption dependent on particle size
-  * &lt;1 micron diameter may reach the alveolus
+  * Large particles reach the bronchioles
+  * < 1 micron diameter particles may reach the alveolus
 * Rapid diffusion to circulation due to high surface area and no first-pass metabolism
 
 ### Transdermal
 
 * Systemic absorption dependent on:
-* Surface area
-* Regional blood flow
-* Lipid solubility
+  * Dose requirement
+    * Large dose requirements cannot be effectively given transdermally
+  * Fick Principle
+   * Amount of drug given
+   * Amount of drug in skin
+     * Regional blood flow
+       * Histamine release
+   * Surface Area
+   * Skin thickness
+   * Lipid solubility
+     * pH of skin and emulsion
+     * pKa of drug
+   * Molecular weight
+ * Advantages
+   * Convenient
+   * Painless
+   * No first pass metabolism
+   * Steady plasma concentration once established
+ * Disadvantages
+   * Slow onset
+   * Variable plasma concentration initially
+   * Overdose and abuse potentials
 
 ### Subcutaneous
 
@@ -122,8 +142,11 @@ _This is why lignocaine can be used for rapid analgesia through an epidural, as 
 
 ### Rectal
 
-* Slow and incomplete absorption
-* Partial bypass of the portal circulation - ~50% bioavailability
+* Variable absorption
+  * Distal rectal absorption bypasses portal circulation
+  * Proximal rectal absorption does not and may result in hepaticfirst pass metabolism
+  * Small surface area for absorption
+
 
 ### Intramuscular
 
