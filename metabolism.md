@@ -36,46 +36,80 @@ Total clearance is the sum of clearances from individual organs, e.g.:
 **Elimination** of drugs from the body is achieved predominantly through renal excretion of water-soluble compounds. As most drugs are lipophilic, metabolism to water soluble compounds is required to clear drugs from the body.
 
 ##Hepatic Metabolism
-The principle organ of drug metabolism is the liver. Hepatic metabolism is broken up into **phases** and is dependent on the **extraction ratio** for a given drug.
+The principle organ of drug metabolism is the liver. Hepatic metabolism:
+* Usually decreases the function of a drug, though:
+  * **Prodrugs** are designed to only become pharmacologically active after having undergone liver metabolism
+  * Some drugs have active or toxic metabolites
+* Is divided into **two phases**
 
-###Phases of metabolism
-Metabolism usually decreases the function of a drug, though **prodrugs** are designed to only become pharmacologically active after having undergone liver metabolism.
+###Phase I
+Phase one reactions:
+* Occur in the **endoplasmic reticulum**
+* Improve water solubility by exposing a functional chemical group
+* Typically occur prior to phase II reactions for most drugs
+* Include:
+  * **Oxidation**  
+    Loss of electrons.
+    * Main phase I reaction
+    * CYP450 driven
+  * **Reduction**  
+    Gain of electrons.
+    * CYP450 driven
+  * **Hydrolysis**  
+    Addition of a water molecule, which may result in two new compounds.
+    * Esterase driven  
+    Therefore rapid, high capacity, organ-independent elimination.
+      * Butylcholinesterase
+      * Non-specific plasma cholinesterase
+      * RBC estearse
 
-####Phase I
-Phase one reactions occur in the **endoplasmic reticulum** predominantly by enzymes of the **cytochrome P450 system**. They improve water solubility by exposing a functional chemical group. They typically occur prior to phase II reactions for most drugs.
+####CYP450 System
+CYP450 enzymes are:
+* A superfamily of enzymes vital in drug metabolism
+* Named after the wavelength of light they absorb when:
+  * Reduced
+  * Combined with CO
+* Located in:
+  * Liver
+  * Lungs
+  * Kidney
+  * Gut
+  * Brain
+* Classified into:
+  * Families  
+  CYP1, CYP2, CYP3...
+  * Subfamilies  
+  CYP1A, CYP1B...
+  * Isoforms  
+  CYP1A1, CYP1A2...
 
-The most important is **CYP3A4**, which metabolises >50% of prescribed drugs (including many ICU staples) as well as being induced and inhibited by many other common drugs.
 
-| Metabolises | Inducers | Inhibitors |
-| -- | -- | -- |
-| Midazolam | Glucocorticoids | Macrolides |
-| Temazepam | Phenytoin | -azoles |
-| Diazepam | Carbamazepine | St. John's Wort |
-| Lignocaine | Barbituates |  |
-| Fentanyl | Rifampicin |  |
-| Alfentanil |  |  |
-| Vecuronium |  |  ||
+INSERT TABLE OF CYP450 enzymes here
 
-Phase I reactions include:
-* **Oxidation**  
-  Loss of electrons
-* **Reduction**  
-  Gain of electrons
-* **Hydrolysis**  
-  Addition of a water molecule. May result in two new compounds.
+Key CYP enzymes include:
+* CYP3A4
+  * Responsible for 60% of metabolic activity
+* CYP2D6
+  * Genetic polymorphism leads to significant inter-patient variability  
+  Results in significant over- or under-metabolism of drugs.
+
 
 ###Phase II
-Phase II reactions involve conjugation with another compound, resulting in a highly polar metabolite. They typically occur in the hepatic endoplasmic reticulum.
-* **Glucoronidaion**  
-  Addition of glucoronic acid
-* **Sulfation**  
-  Addition of a sulfuryl group
-* **Acetylation**  
-  Addition of an acetyl group  
-  Also occurs in the **lung** and **spleen**.
-* **Methylation**  
-  Addition of a methyl group
-
+Phase II reactions:
+* Involve conjugation with another compound, producing a highly polar metabolite  
+This increases water solubility and therefore renal elimination.
+* Typically occur in the hepatic endoplasmic reticulum
+* Include:
+  * **Glucoronidaion**  
+    Addition of glucoronic acid.
+  * **Sulfation**  
+    Addition of a sulfuryl group.
+  * **Acetylation**  
+    Addition of an acetyl group.
+    * Also occurs in the **lung** and **spleen**.
+  * **Methylation**  
+    Addition of a methyl group.
+  
 ###Extraction Ratio
 **Extraction ratio** is the proportion of a drug that is from circulation during each pass through the organ, typically the liver:
 
