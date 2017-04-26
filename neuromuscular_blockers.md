@@ -7,7 +7,7 @@ Nictotinic ACh receptors sit on the shoulders of junctional folds of muscle cell
 
 DIAGRAM PAGE 167 PECK AND HILL
 
-##Factors Affecting Potency of Neuromuscular Blockade
+##Factors Affecting Neuromuscular Blockade
 ###Patient Factors
 |Factor|Effect|Mechanism|
 |--|--|--|

@@ -25,30 +25,55 @@ Potency is a function of:
   In general, local anaesthetics cause vasodilation in low concentrations, and vasoconstriction at high concentrations (except cocaine, which causes vasoconstriction at all concentrations)
 * **Duration of action**  
 Duration of action is a function of:
-  * Vasodilator properties  
-  Vasoconstriction increases the duration of block.
-  * Use of additives  
-  Addition of adrenaline to lignocaine increases duration of block.
-  * Site of administration  
-  Well vascularised tissue (e.g. intercostal area) will have greater systemic uptake of drug than vessel poor tissue.
-  * Lipid solubility  
-  Increased lipid solubility increases duration of action, as agent remains in the nerve for longer.
-    * Potency therefore has a positive correlation with duration of action
-  * Protein binding  
-  Highly protein bound agents have an increased duration of action.
-    * Protein binding decreases with decreasing pH, increasing the fraction of unbound drug  
-    This is why agents such as bupivacaine are more cardiotoxic in acidotic patients.
-    * Local anaesthetics are predominantly bound to α-1-acid glycoprotein (AAG)  
-    AAG is reduced in pregancy, increasing the free drug fraction and therefore reducing the toxic dose of LA in pregnant patients.
+  * Drug factors
+    * Vasodilator properties  
+    Vasoconstriction increases the duration of block.
+    * Use of additives  
+    Addition of adrenaline to lignocaine increases duration of block.
+    * Lipid solubility  
+    Increased lipid solubility increases duration of action, as agent remains in the nerve for longer.
+      * Potency therefore has a positive correlation with duration of action
+      * Duration of action is increased when pH increases, as the ionised portion falls.  
+    * Protein binding  
+    Highly protein bound agents have an increased duration of action.
+      * Protein binding decreases with decreasing pH, increasing the fraction of unbound drug  
+      This is why agents such as bupivacaine are more cardiotoxic in acidotic patients.
+      * Local anaesthetics are predominantly bound to α-1-acid glycoprotein (AAG)  
+      AAG is reduced in pregancy, increasing the free drug fraction and therefore reducing the toxic dose of LA in pregnant patients.
+  * Patient factors
+    * Tissue pH  
+    Decreased duration of block when tissue pH is low.
+    * Metabolic impairment
+      * Hepatic failure increases duration of action of aminosteroids
+      * Butylcholinesterase deficiency increases duration of ester local anaesthetics
+    * Site of administration
+    Well vascularised tissue (e.g. intercostal area) will have greater systemic uptake of drug than vessel poor tissue.
 * **Onset**  
 Speed of onset is related to:
-  *  **pK<sub>a</sub>**  
-  Agents with a low pK<sub>a</sub> are less ionised at physiological pH (remember **b**ases are ionised **b**elow their pK<sub>a</sub>), and therefore have a faster onset of action.
-    * This is also why anaesthetics are ineffective in anaesthetising infected tissue, as the low pH makes the majority of the LA ionised and unable to cross the cell membrane.
-  * Dose  
-  Increasing the dose increases the speed of onset, as per Fick's Law.
-
-
+  * Drug factors
+    * Dose  
+    Increasing the dose increases the speed of onset, as per Fick's Law.
+      * Increased concentration will increase speed of onset and block density
+      * Increased volume (without increasing dose, resulting in decreased concentration) will decrease speed of onset
+    * Lipid solubility  
+    An increased lipid solubility increases the speed at which the local anaesthetic enters the nerve. **However**:
+      * Lipid solubility also correlates with potency
+      * Therefore, **in practice**, more lipid soluble agents are administered in lower doses, and so have a **reduced speed of onset**  
+      This is known as Bowman's Principle.
+    * Ionised portion  
+    Only unionised drug can cross cell membranes. Ionisation is a function of:
+      * pKa
+      * Tissue pH
+        * This is also why anaesthetics are ineffective in anaesthetising infected tissue, as the low pH makes the majority of the LA ionised and unable to cross the cell membrane.
+  * Patient factors
+    * Nerve activity  
+    Local anaesthetics produce a **frequency dependent blockade**. Therefore:
+      * Nerves firing frequently will be blocked more easily than quiescent nerves
+    * Nerve fibre size  
+    Larger nerves require an increased concentration of local anaesthetic to achieve blockade than smaller nerves.
+    * Hyperkalaemia  
+    Reduces onset of action.
+  
 ##Toxicity
 Local anaesthetics are:
 * Toxic to both the **CNS** and **CVS**
