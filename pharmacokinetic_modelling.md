@@ -108,9 +108,10 @@ Used to calculate elimination half-life.
 ####Effect Site
 * For many drugs, we are interested in targeting a particular effect-site concentration of drug (**Ce**)
 * This will be different from plasma concentration (**Cp**) prior to reaching steady state
-* The effect site is not represented in three-compartment models  
-It can be considered as a **compartment with no volume**, but a rate constant of elimination, **k<sub>e0</sub>**
-  * The lag-time between Cp and Ce is described by the **half-life for equilibration, t<sub>1/2<sub>ke0</sub>**
+* The effect site is often not represented in three-compartment models  
+It is modelled as a **compartment of no volume**, but a rate constant of elimination, **k<sub>e0</sub>**
+  * The lag-time between Cp and Ce is described by the **half-life for equilibration, t<sub>1/2<sub>ke0</sub>**  
+  A shorter t<sub>1/2<sub>ke0</sub> indicates a more rapid clinical effect following administration.
 
 ##Non-Compartmental Models
 Compartment models are not appropriate for describing the behaviours of all drugs. Non-compartmental models are used when drug:

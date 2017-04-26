@@ -19,7 +19,7 @@ DIAGRAM PAGE 167 PECK AND HILL
 |Hypermagnesaemia|Potentiates blockade|Decreases ACh release, decreases sensitivity of post-synaptic membrane|
 |Hypocalcaemia|Potentiates blockade|Decreases presynaptic ACH release, decreaeses sensitivity of post-synaptic membrane
 |Respiratory acidosis|Potentiates blockade|Enhances effect of NMB agents
-|Hypothermia|Potentiates blockade|Reduces hepatic metabolism, renal elimination, Hoffman degradation,
+|Hypothermia|Potentiates blockade|Reduces hepatic metabolism, renal elimination, Hoffman degradation
 |Hypovolaemia|Slows rate of onset and enhances duration|Prolonged circulation time
 |Myasthenia Gravis|Increased sensitivity to non-depolarising agents|Autoimmune blockade of receptors gives pre-existing level of block|
 |Eaton-Lambert Syndrome|Increased sensitivity to all NMBs|Autoimmune destruction of voltage-gated Ca<sup>2+</sup> channels prevent ACh vesicle exocytosis|
