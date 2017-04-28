@@ -57,7 +57,37 @@ Actions of a drug may be countered by a compensatory homeostatic response.
 Pharmacokinetics and pharmacodynamics are affected in pregnancy and at extremes of age.
 
 ###Pregnancy
-Drugs that cross the placenta can be teratogenic to the foetus, besides to exerting their usual pharmacological effects. Factors which affect drug use in pregnancy can be divided into **pharmacokinetic** and **pharmacodynamic** factors. **Pharmacokinetic** factors predominantly **affect placental transfer**, and include include:
+* Absorption
+    * Decreased gastric emptying
+    * Nausea and vomiting
+    * Increased cardiac output
+        * Increases IM and SC absorption
+    * Volatiles:
+        * Increased onset due to increased MV and reduced FRC
+        * Decreased onset due to increased CO
+* Distribution
+    * Increased V<sub>D</sub> due to:
+        * Increased TBW
+        * Increased plasma volume
+        * Increased fat mass
+    * Decreased albumin and α<sub>1</sub>-glycoprotein
+* Metabolism
+    * No change to HBF
+    * Progesterone induces enzymes
+    * Oestrogen competes for enzymes
+    * Decreased plasma cholinesterase activity
+* Elimination
+    * Increased RBF
+    * Increased GFR
+    
+* Pharmacodynamic
+    * Decreased MAC
+    * Increased LA sensitivity due to decreased α<sub>1</sub>-glycoprotein
+
+####Foetus
+Drugs that cross the placenta can be teratogenic to the foetus, besides to exerting their usual pharmacological effects.
+
+**Pharmacokinetic** factors predominantly **affect placental transfer**, and include:
 * **Lipid solubility**  
 Lipid soluble drugs diffuse more rapidly.
 * **Molecular size**  
@@ -68,35 +98,42 @@ Some medications are actively removed from foetal circulation.
 * **Placental metabolism**  
 The placenta can metabolise some medications, although in some cases results in toxic metabolites.
 
-Maternal **pharmacodynamic** factors predominantly affect the uterus and breast, but **major organ systems** are **not significantly affected**. Drugs that cross the placenta can have dramatic effects in the foetus. These include:
+Maternal **pharmacodynamic** factors predominantly affect the uterus and breast, but **major organ systems** are **not significantly affected**.
+
+Drugs that cross the placenta can have dramatic effects in the foetus. These include:
 * **Teratogenesis** - a drug which adversely affects foetal development causing a permanent abnormality. Multifactorial mechanisms that are not well understood.
 
 
 ###Neonates
-At <1 year of age, pharmacokinetics are significantly altered.
+At < 1 year of age, pharmacokinetics are significantly altered:
 * **Absorption**  
-  * **Gastric emptying time** is **prolonged**, increasing absorption of drugs metabolised in the stomach.
-  * **Reduced secretion** of **pancreatic enzymes** and **bile salts** impairs absorption of lipid soluble medications
+  * Delayed gastric emptying, increasing absorption of drugs metabolised in the stomach.
+  * Decreased secretion of pancreatic enzymes and bile salts impairs absorption of lipid soluble medications
+  * Smaller muscle mass and higher relative muscle blood flow increases IM onset
+  * Increased V<sub>A</sub>:FRC ratio increases onset of volatiles
 
 
 * **Distribution**  
   * TBW is 70-75% (compared to 50-60% for an adult), and extracellular water is 40% (compared to 20%), which **increases the V<sub>D</sub>** for administered drugs.
   * Preterm infants have reduced body fat, which affects drug distribution.
   * Greater proportion of cardiac output goes to head, increasing onset of centrally acting (e.g. anaesthetic) drugs
+  * Decreased albumin and α<sub>1</sub>-glycoprotein
+  * Immature BBB increases uptake of partially ionised drugs
   
   
 * **Metabolism**  
-  * **Enzymatic capacity of all pathways is reduced**, which prolongs elimination half-lives and reduces clearance. Hepatically metabolised drugs must be dose adjusted accordingly.
-    * The glucuronide pathway may not mature until age 4.
+  * Enzymatic capacity of all pathways is reduced, which prolongs elimination half-lives and reduces clearance. Hepatically metabolised drugs must be dose adjusted accordingly.
+    * The glucuronide pathway may not mature until age 4
     
     
 * **Excretion**  
-  * **GFR is proportionally lower** and dose not reach adult equivalence until 6-12 months.
-    * GFR is **further reduced** in **pre-term** infants.
-    * GFR is **increased** in **1-3 year** olds.
+  * **GFR is proportionally lower** and dose not reach adult equivalence until 6-12 months
+    * GFR is **further reduced** in **pre-term** infants
+    * GFR is increased in **1-3 year** olds
 
 * **Pharmacodynamic**
     * Smaller ACh reserves increase sensitivity to NMBs
+    * Increased MAC    
     * NSAIDs cause closures of ductus arteriosus
 
 ###Geriatric
@@ -115,7 +152,7 @@ Laxatives and prokinetics increase gastric emptying and reduce absorption of ora
 * **Metabolism**  
     * ↓ Hepatic blood flow 
     * ↓ Enzymatic activity  
-    Phase I > Phase II
+    Phase I > Phase II.
 
 * **Elimination**  
     * Loss of nephron number with age reduces renal clearance
@@ -124,6 +161,7 @@ Laxatives and prokinetics increase gastric emptying and reduce absorption of ora
     * Increased sensitivity to sedatives, opioids, and hypnotics
     * Decreased sensitivity to β-agonists and antagonists
     * Decreased MAC
+    * Polypharmacy increases potential for drug interactions
     
 ##Alterations in Drug Response: Disease Factors
 
@@ -182,6 +220,7 @@ Laxatives and prokinetics increase gastric emptying and reduce absorption of ora
 
 * Metabolism
     * Buildup of toxic metabolites may inhibit drug transporters
+    * Uraemic toxins inhibit enzymes and drug transporters
 
 
 * Elimination
@@ -190,7 +229,7 @@ Laxatives and prokinetics increase gastric emptying and reduce absorption of ora
 
 ###Obesity
 * Absorption:
-    * Increased gastric emptying
+    * Delayed gastric emptying
     * Decreased subcutaneous blood flow
     * Practical difficulty with IM administration
 
@@ -200,12 +239,14 @@ Laxatives and prokinetics increase gastric emptying and reduce absorption of ora
         * Dosing of lipid-soluble drugs by actual body weight
         * Dosing of water-soluble drugs by lean body weight
     * Increased CO
+    * Increased α<sub>1</sub>-glycoprotein
+    * Increased blood volume
     * Greater lipid binding to plasma proteins, increasing free drug fractions
 
 
 * Metabolism:
     * Increased plasma and tissue esterase levels
-    * Impairment to hepatic enzymes
+    * Normal or increased hepatic enzymes
 
 
 * Elimination
@@ -221,3 +262,5 @@ Essential Pharmacology for the ANZCA Primary Exam
 CICM Sep/Nov 2012
 
 Alfred Primary Anaesthetic tutorial
+
+Petkov
