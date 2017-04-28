@@ -15,23 +15,24 @@ Total intravenous anaesthesia involves using IV agents alone to achieve hypnosis
 
 
 ##Target Controlled Infusion
-TCI is the use of pharmacokinetic models (typically combined with microprocessor-controlled infusion pumps) to achieve a target plasma or effect site concentration of drug.
+TCI is the use of pharmacokinetic models (typically combined with microprocessor-controlled infusion pumps) to achieve a target concentration of drug in a particular body compartment.
 
-Method of TCI:
+TCI follows the BET (Bolus, Elimination, Transfer) principle, where:
 * A loading dose is given to saturate the volume of distribution to achieve target concentration  
 $$Loading \ Dose = V_D \times C_T$$
 * Infusion rate is then set to maintain a target plasma concentration:  
 $$Maintenance \ Infusion \ Rate \ (MIR) = Cl \times C_T$$
     * Rate compensates for:
         * Drug elimination
-        * Drug distribution
-* Adjusting $$C_T$$:
-    * For a higher concentration:
-        * A small bolus is given
-        * Infusion rate is increased
-    * For a lower concentration:
-        * Infusion is paused until desired level is reached
-        * Infusion rate restarts at a lower rate
+        * Drug distribution (transfer)
+
+Target $$C_T$$ can be adjusted:
+* For a higher concentration:
+    * A small bolus is given
+    * Infusion rate is increased
+* For a lower concentration:
+    * Infusion is paused until desired level is reached
+    * Infusion rate restarts at a lower rate
 
 ###TCI Models for Propofol
 The Bristol Model:
@@ -48,6 +49,18 @@ The Bristol Model:
         * 10mg.kg<sup>-1</sup>.hr<sup>-1</sup> for 10 minutes
         * 8mg.kg<sup>-1</sup>.hr<sup>-1</sup> for 10 minutes
         * 6mg.kg<sup>-1</sup>.hr<sup>-1</sup> thereafter
+
+
+|Property|Marsh|Schneider|
+|--|--|--|--|
+|Targets|
+|Unique Characteristics|
+|Required variables|TBW (overestimates in obese patients, consider using IBW), Age (but not used in calculation)|Age, height (to calculate lean body mass), TBW 
+|Fixed values|V<sub>1</sub> at 15.9L|V<sub>1</sub> at 4.27L
+|Calculated values|
+|Other|The 'modified Marsh' model uses a k<sub>eo</sub> of 0.2L.min<sup>-1</sup> instead of 0.26L.min<sup>-1</sup>, which decreases the $$C_P$$ required to achieve the target $$C_e$$ quickly. The modified Marsh is therefore preferable in patients at higher risk of overdose.
+
+
         
 The Marsh Model:
 * Targets $$C_P$$
@@ -66,3 +79,8 @@ The Marsh Model:
 
 The Schnider Model:
 * Targets $$C_e$$
+
+---
+
+##References
+http://anaesthetics.ukzn.ac.za/Libraries/Documents2011/D_Naidoo_Target_Controlled_Infusion.sflb.ashx
