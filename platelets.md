@@ -25,12 +25,17 @@ As the megakaryocyte cell volume increases, the cell wall invaginates and small 
     Facilitate platelet deformation when activated
 
 ##Activation
-* Platelets are activated by damaged endothelium, exposing substances like **collagen**  
+* Platelets are activated by:
+  * Collagen  
+  Exposed by damaged endothelium.
+  * Adrenaline
+  * ADP
+  * Thrombin
 * Activation results in several events:
   * Exocytosis of granules
   * Activation of membrane **phospholipase A<sub>2</sub>** to form **thromboxane A<sub>2</sub>**
-  * Deformation from a sphere to a disc with long projections
-  * Propmotion of the coagulation cascade
+  * Deformation from a disc to a sphere with long projections
+  * Promotion of the coagulation cascade
   * Change in glycoprotein (GP) expression by the action of ADP:  
   ADP antagonists (e.g. clopidogrel) prevent expression of the GPIIb/IIIa complex.
     * GP Ib/IIb/IIIa facilitate platelet attachment to vWF  
