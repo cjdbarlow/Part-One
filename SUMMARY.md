@@ -70,7 +70,7 @@
     * [Diffusing Capacity and Limitation](diffusing_capacity_and_limitation.md)
   * [V\Q Relationships](wests_zones.md#id)
     * [West's Zones](wests_zones.md)
-    * [Basics of V\/Q Matching](basics_of_vq_matching.md)
+    * [Basics of V/Q Matching](basics_of_vq_matching.md)
     * [Dead Space](dead_space.md)
     * [Shunt](shunt.md)
   * [Gas Transport](oxygen_storage.md#id)
