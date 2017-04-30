@@ -1,8 +1,9 @@
 #Oesophagus
 > Describe the control of gastrointestinal motility, including sphincter function.
 
-The oesophagus is a muscular tube connecting the pharynx to the stomach. The oesophagus:
-* Has **skeletal muscle** in its **upper third**, and **smooth muscle** in its **lower third**
+The oesophagus is a muscular tube connecting the pharynx to the stomach. The oesophagus has:
+* **Skeletal muscle** in its **upper third**
+* **Smooth muscle** in its **lower third**
 
 ##Lower Oesophageal Sphincter
 The LoS is:
@@ -12,28 +13,33 @@ The LoS is:
 * Tonically innervated by the vagus
 * Important in the prevention of reflux  
 Competency of the LoS is required to prevent reflux
-    * **Barrier pressure is** the pressure difference between the pressure at the lower oesophageal sphincter and the pressure in the stomach, and is typically **~20mmHg**  
+    * **Barrier pressure is** the pressure difference between the pressure at the lower oesophageal sphincter and the pressure in the stomach, and is typically **~15-25mmHg**  
     Barrier pressure is affected by:
         * Changes in lower oesophageal sphincter pressure
-            * Swallowing
+            * Swallowing  
             Barrier pressure decreases during swallowing, and transiently increases immediately afterwards.
             * Anatomical
-                * Age
+                * Age  
                 Sphincter tone is decreased in neonates and the elderly.
                 * Diaphgram  
-                An external sphincter is formed by diaphragmatic fibres, and exerts a **pinch-cock** action on the oesophagus.
+                An external sphincter is formed by the diaphragmatic crura, and exerts a **pinch-cock** action on the oesophagus.
                 * Stomach  
                 A fold in the stomach wall just distal to the GOJ creates a **flap valve**, which occludes the GOJ when gastric pressure rises.
             * Hormonal
                 * Gastrin, motilin, α-agonism **increase** LoS tone
                 * Progesterone, glucagon, vasoactive intestinal peptide (VIP) **decrease **LoS tone
-            * Drugs
+            * Drugs  
                 * ETOH, IV and volatile anaestetic agents, and anticholinergics **decrease **LoS tone
                 * Suxamethonium, metoclopramide, and anticholinesterases **increase **LoS tone
         * Changes in gastric pressure
             * Raised intraabdominal pressure
                 * Obesity
                 * Pregnancy  
+        * Disease
+            * Hiatus hernia  
+            GOJ moves into the thorax, causing:
+                * Loss of pinch-cock action
+                * Negative intrathoracic pressure reduces LoS pressure and therefore barrier pressure
                 
                 
 ##References

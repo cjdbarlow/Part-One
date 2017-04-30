@@ -26,13 +26,14 @@ Oxygen tension is measured with a **Clarke electrode**. This consists of:
 * Silver/Silver Chloride anode
 * A battery applying 0.6V across the electrodes
 
-![](http://i.imgur.com/j4O4Ywg.png)
+Insert O2 electrode picture.
+
 
 ###Method
 * A voltage of **0.6V** is applied across the electrodes, causing the silver to reactive with chloride in the solution to produce electrons:  
 $$Ag + Cl^- \Rightarrow AgCl + e^-$$
   * This potential difference is required to start the reaction
-  * 0.6V is chosen because it is enough to start the reaction but will have minimal effect on measured current flow
+  * 0.6V is chosen because it is enough to start the reaction but will have minimal effect on measured current flow 
 * At the cathode, oxygen combines with electrons and water to produce hydroxyl ions: $$O_2 + 4e^- + 2H_2O \Rightarrow 4OH^-$$
 * For each oxygen molecule present at the cathode, four electrons can be consumed
 * Increasing the oxygen available at the cathode increases the number of electrons consumed, and therefore increases **current flow**
@@ -54,18 +55,23 @@ pH is a measure of the hydrogen ion concentration[^1] in solution, and is define
   *  A change in pH of 0.3 is equal to doubling or halving the [H<sup>+</sup>]
 
 
-[H<sup>+</sup>] is measured using two electrodes:
-* **Measuring electrode** (Silver/Silver Chloride)  
-Surrounded by a Buffer solution, which is separated from the sample by H<sup>+</sup>-permeable glass
-* **Reference electrode** (Mercury/Mercury Chloride)  
-Surrounded by a Potassium Chloride Solution, which is separated from the sample by a membrane
+The pH electrode consists of:
+* A chamber for the blood sample
+* A measuring chamber, separated from the sample by H<sup>+</sup>-permeable glass, which contains:
+  * A buffer solution
+  * A silver/silver chloride measuring electrode
+* A reference chamber, also separated from the chamber by H<sup>+</sup>-permeable glass, which contains:
+  * A KCl solution  
+  Has no buffering properties.
+  * A mercury/mercury chloride reference electrode
 
 ###Method
-* Two solutions with different H<sup>+</sup> concentrations which are separated by a glass membrane will develop a potential difference between them (proportional to the concentration gradient) 
-* Reference electrode maintains a constant voltage, independent of arterial pH
-* Measuring electrode (in its buffer solution), and covered by a semipermeable membrane, is placed in the blood sample
-  * A potential difference between the blood and the measuring electrode will be generated
-  * This potential difference is measured by the reference electrode
+* Relies on the principle that two solutions with different H<sup>+</sup> activities will develop a potential difference between them (proportional to the concentration gradient) 
+* H<sup>+</sup> passes through the glass along a concentration gradient:
+  * A variable potential difference is generated in the measuring chamber, as H<sup>+</sup> ions are buffered and the concentration gradient is maintained  
+  * A constant potential difference is generated in the reference chamber, as there is no buffer of H<sup>+</sup> ions in the KCl solution
+* Once H<sup>+</sup> has equilibrated between blood and the KCl solution, the potential difference between the measuring and reference electrodes is proportional to the H<sup>+</sup> concentration in blood
+
 
 ###Calibration, Limitations, and Accuracy
 * Calibration is performed with two phosphate buffer solutions containing two different (known) [H<sup>+</sup>]
@@ -75,15 +81,23 @@ Surrounded by a Potassium Chloride Solution, which is separated from the sample 
 
 ##Carbon Dioxide Tension
 Carbon dioxide tension is measured with a **Severinghaus electrode**, which is based on the pH electrode, as PaCO2 is related to [H<sup>+</sup>]. The Severinghaus electrode consists of:
-*  [H<sup>+</sup>]-permeable measuring electrode (Glass)
-*  Reference electrode (Silver/Silver Chloride)
-*  CO<sub>2</sub>-permeable plastic membrane, kept in contact with the sample
-*  Nylon mesh impregnated with NaHCO<sub>3</sub>
+* A chamber for the blood sample, separated from the bicarbonate chamber by a CO<sub>2</sub> permeable membrane
+* A chamber containing bicarbonate solution in a nylon mesh, and separated from both the measuring and reference chambers by H<sup>+</sup>-permeable glass
+* A measuring chamber containing:
+  * A buffer solution
+  * A silver/silver chloride measuring electrode
+* A  reference chamber containing:
+  * A KCl solution
+  * A mercury/mercury chloride reference electrode
 
 ###Method
-* CO<sub>2</sub> diffuses across the plastic membrane into the mesh
-* CO<sub>2</sub> reacts with water to produce H<sup>+</sup> ions
-* The change in [H<sup>+</sup>] is measured by a pH electrode
+* CO<sub>2</sub> diffuses from blood into the bicarbonate chamber
+* CO<sub>2</sub> reacts with water in the bicarbonate chamber to produce H<sup>+</sup> ions
+* From here, the process is identical to the pH electrode, except bicaronate takes the place of blood:
+  * H<sup>+</sup> ions diffuse into the reference chamber until the H<sup>+</sup> ion concentration has equilibrated
+  * H<sup>+</sup> ions continually diffuse into the measuring chamber (as they are buffered)  
+    * This establishes a constant pH gradient  
+    This gradient is proportional the H<sup>+</sup> ion concentration in the bicarbonate chamber, which is proportional to the CO<sub>2</sub> content of blood.
 
 ###Calibration, Limitations, and Accuracy
 * Calibration is performed with solutions of known CO<sub>2</sub> concentration
