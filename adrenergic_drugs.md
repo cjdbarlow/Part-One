@@ -1,32 +1,37 @@
-    #Adrenergic Drugs {#id}
+#Adrenergic Drugs {#id}
 
-Adrenergic drugs are sympathomimetic based on a **benzene ring**, with different amine side chains. When a hydroylgroup is present at the C3 and C4 positions, it is known as a **catecholamine**. All adrenergic act via either a dopamine (D) or adrenoreceptors (α and β). **Direct-acting** stimulate the receptor, whilst **indirect-acting** release noradrenaline to cause sympathomimetic effects.
-
-##Receptor types and action
-All are G-protein coupled receptors, which **except in α1** receptors either enhance or inhibit adenylate cyclase to raise or lower (respectively) cAMP and cause the cellular effect.
-
-
-Sympathomimetics can be classified as **natural catecholamines**, **synthetic catecholamines**, or **"other"**.
+Adrenergic drugs:
+* Act via:
+ * Dopamine (D)
+ * Adrenoreceptors (α and β)
+* Can be:
+ * **Direct-acting**  
+ Stimulate the receptor.
+ * **Indirect-acting**  
+ Stimulate the release of noradrenaline to cause effects.
+* Classified as either:
+ * **Naturally-occurring catecholamines**
+ * **Synthetic catecholamines**
 
 ##Comparison of Commonly Used Adrenergic Agents
-|Properties|Noradrenaline|Adrenaline|Phenylephrine|Metaraminol|
+|Properties|Noradrenaline|Adrenaline|Phenylephrine|Metaraminol|Ephedrine|
 |--|--|--|--|--|--|--|--| 
-|**Class**|Natural Catecholamine|Natural Catecholamine|Synthetic sympathomimetic|Synthetic amine| 
-|**Uses**|↑ SVR|Cardiac arrest, anaphylaxis, inotropy, chronotropy, adjunct in local anaesthetics|↑ SVR|↑ SVR| 
-|**Dosing**| Start at 0.05µg/kg/min|Infusion starts at: 0.01µg/kg/min|Bolus start at 50-100mcg|Bolus 0.5-2mg|
-|**Route**|IV|IV/IM/ETT/SC|IV/IM/SC|IV| 
-|**Presentation**|Clear, colourless solution|A clear, colourless solution typically at 0.1-1mg/ml|Clear, colourless solution at 100mcg/ml || 
-|**Absorption**|IV only|Variable ETT and SC absorption|IM onset 15 minutes, duration up to 1 hour|
-|**Metabolism**| t<sub>1/2</sub> 2min. Metabolised by mitochondrial MAO and COMT within liver, kidney, and blood to VMA and metadrenaline. |t<sub>1/2</sub> 2min. Metabolised by mitochondrial MAO and COMT within liver, kidney, and blood to VMA and metadrenaline. |Hepatic by MAO||
-|**Elimination**| Urinary excretion of metabolites| Urinary excretion of metabolites||| 
-|**Mechanism of action** |α>β|β>α at lower doses|α1 only|α1 | 
-|**Respiratory**|| ↑ MV, bronchodilation|||
-|**CVS**|↑SVR, ↑ Myocardial O<sub>2</sub> consumption, ↑ Coronary flow.| Inotropy, ↑ HR, ↑ SVR, ↑ BP, ↑ myocardial O<sub>2</sub> consumption. Arrythmogenic.| ↑ SVR, potential reflex bradycardia. Not arrythmogenic.|↑ SVR, reflex bradycardia | 
-|**CNS**||↑ Pain threshold, ↑MAC||| 
-|**MSK**|Necrosis with extravasation|Necrosis with extravasation|||
-|**Renal**|↓RBF| ↓RBF and ↑ in sphincter tone||↓RBF|
-|**Metabolic**||↑BMR, ↑ lipolysis, ↑gluconeogenesis and BSL, ↑ Lactate|||
-|**GU**| ↓ Uterine blood flow and foetal bradycardia|||↓ Uterine blood flow|
+|**Class**|Natural Catecholamine|Natural Catecholamine|Synthetic sympathomimetic|Synthetic amine|Synthetic amine| 
+|**Uses**|↑ SVR|Cardiac arrest, anaphylaxis, inotropy, chronotropy, adjunct in local anaesthetics|↑ SVR|↑ SVR| ↑ SVR without ↓ in HR|
+|**Dosing**| Start at 0.05µg/kg/min|Infusion starts at: 0.01µg/kg/min|Bolus start at 50-100mcg|Bolus 0.5-2mg|3-6mg bolus
+|**Route**|IV|IV/IM/ETT/SC|IV/IM/SC|IV|IV 
+|**Presentation**|Clear, colourless solution|A clear, colourless solution typically at 0.1-1mg/ml|Clear, colourless solution at 100mcg/ml |Clear, colourless solution in ampoule at 10mg/ml, typically reconstituted to 0.5mg/ml|Clear, colourless solution in 30mg/ml ampoule 
+|**Absorption**|IV only|Variable ETT and SC absorption|IM onset 15 minutes, duration up to 1 hour|||
+|**Metabolism**| t<sub>1/2</sub> 2min. Metabolised by mitochondrial MAO and COMT within liver, kidney, and blood to VMA and metadrenaline. |t<sub>1/2</sub> 2min. Metabolised by mitochondrial MAO and COMT within liver, kidney, and blood to VMA and metadrenaline. |Hepatic by MAO||Hepatic (not metabolised by MAO and COMT), giving a longer (10-60 minute) duration of action and a t<sub>1/2</sub>β of 3-6 hours
+|**Elimination**| Urinary excretion of metabolites| Urinary excretion of metabolites|||50% unchanged in urine 
+|**Mechanism of action** |α>β|β>α at lower doses|α1 only|α1 |↑ NA release (indirect α) and direct α and β agonism
+|**Respiratory**|| ↑ MV, bronchodilation|||Bronchodilation
+|**CVS**|↑SVR, ↑ Myocardial O<sub>2</sub> consumption, ↑ Coronary flow.| Inotropy, ↑ HR, ↑ SVR, ↑ BP, ↑ myocardial O<sub>2</sub> consumption. Arrythmogenic.| ↑ SVR, potential reflex bradycardia. Not arrythmogenic.|↑ SVR, reflex bradycardia | Direct ↑ in HR, BP, and CO 
+|**CNS**||↑ Pain threshold, ↑MAC||| ↑ MAC, mydriasis. Arrhythmogenic.
+|**MSK**|Necrosis with extravasation|Necrosis with extravasation||||
+|**Renal**|↓ RBF|↓ RBF and ↑ in sphincter tone||↓ RBF|↓ RBF
+|**Metabolic**||↑ BMR, ↑ lipolysis, ↑gluconeogenesis and BSL, ↑ Lactate||||
+|**GU**| ↓ Uterine blood flow and foetal bradycardia|||↓ Uterine blood flow||
 
 
 ##Comparison of Less Common Adrenergic Agents
