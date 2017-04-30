@@ -19,11 +19,11 @@ Calculated using the Henderson-Haselbalch and Siggaard-Anderson equation. Can be
 ##Oxygen Tension
 Oxygen tension is measured with a **Clarke electrode**. This consists of:
 * A chamber for the blood sample  
-* A chamber containing a potassium chloride solution
-* Oxygen-permeable membrane separating the two 
+* A chamber containing a potassium chloride solution, which:
+  * Is separated from the blood chamber by an oxygen-permeable membrane 
   This prevents blood being in direct contact with the cathode, which would lead to protein deposition on the cathode and incorrect measurement.
-* Platinum cathode
-* Silver/Silver Chloride anode
+  * Contains a platinum cathode
+  * Contains a silver/silver Chloride anode
 * A battery applying 0.6V across the electrodes
 
 Insert O2 electrode picture.
@@ -93,7 +93,7 @@ Carbon dioxide tension is measured with a **Severinghaus electrode**, which is b
 ###Method
 * CO<sub>2</sub> diffuses from blood into the bicarbonate chamber
 * CO<sub>2</sub> reacts with water in the bicarbonate chamber to produce H<sup>+</sup> ions
-* From here, the process is identical to the pH electrode, except bicaronate takes the place of blood:
+* From here, the process is identical to the pH electrode, except bicarbonate takes the place of blood:
   * H<sup>+</sup> ions diffuse into the reference chamber until the H<sup>+</sup> ion concentration has equilibrated
   * H<sup>+</sup> ions continually diffuse into the measuring chamber (as they are buffered)  
     * This establishes a constant pH gradient  
