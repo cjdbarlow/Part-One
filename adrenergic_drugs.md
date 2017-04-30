@@ -20,17 +20,17 @@ Adrenergic drugs:
 |**Uses**|↑ SVR|Cardiac arrest, anaphylaxis, inotropy, chronotropy, adjunct in local anaesthetics|↑ SVR|↑ SVR| ↑ SVR without ↓ in HR|
 |**Dosing**| Start at 0.05µg/kg/min|Infusion starts at: 0.01µg/kg/min|Bolus start at 50-100mcg|Bolus 0.5-2mg|3-6mg bolus
 |**Route**|IV|IV/IM/ETT/SC|IV/IM/SC|IV|IV 
-|**Presentation**|Clear, colourless solution|A clear, colourless solution typically at 0.1-1mg/ml|Clear, colourless solution at 100mcg/ml |Clear, colourless solution in ampoule at 10mg/ml, typically reconstituted to 0.5mg/ml|Clear, colourless solution in 30mg/ml ampoule 
+|**Presentation**|Clear, colourless, light-sensitive solution. Sodium metabisulfite as excipient.|A clear, colourless solution typically at 0.1-1mg/ml|Clear, colourless solution at 100mcg/ml |Clear, colourless solution in ampoule at 10mg/ml, typically reconstituted to 0.5mg/ml|Clear, colourless solution in 30mg/ml ampoule 
 |**Absorption**|IV only|Variable ETT and SC absorption|IM onset 15 minutes, duration up to 1 hour|||
-|**Metabolism**| t<sub>1/2</sub> 2min. Metabolised by mitochondrial MAO and COMT within liver, kidney, and blood to VMA and metadrenaline. |t<sub>1/2</sub> 2min. Metabolised by mitochondrial MAO and COMT within liver, kidney, and blood to VMA and metadrenaline. |Hepatic by MAO||Hepatic (not metabolised by MAO and COMT), giving a longer (10-60 minute) duration of action and a t<sub>1/2</sub>β of 3-6 hours
-|**Elimination**| Urinary excretion of metabolites| Urinary excretion of metabolites|||50% unchanged in urine 
-|**Mechanism of action** |α>β|β>α at lower doses|α1 only|α1 |↑ NA release (indirect α) and direct α and β agonism
-|**Respiratory**|| ↑ MV, bronchodilation|||Bronchodilation
-|**CVS**|↑SVR, ↑ Myocardial O<sub>2</sub> consumption, ↑ Coronary flow.| Inotropy, ↑ HR, ↑ SVR, ↑ BP, ↑ myocardial O<sub>2</sub> consumption. Arrythmogenic.| ↑ SVR, potential reflex bradycardia. Not arrythmogenic.|↑ SVR, reflex bradycardia | Direct ↑ in HR, BP, and CO 
-|**CNS**||↑ Pain threshold, ↑MAC||| ↑ MAC, mydriasis. Arrhythmogenic.
+|**Metabolism**| t<sub>1/2</sub> 2min. Metabolised by mitochondrial MAO and COMT in liver, kidney, and blood to VMA and metadrenaline. |t<sub>1/2</sub> 2min. Metabolised by mitochondrial MAO and COMT within liver, kidney, and blood to VMA and metadrenaline. |Hepatic by MAO||Hepatic (not metabolised by MAO and COMT), giving a longer (10-60 minute) duration of action and a t<sub>1/2</sub>β of 3-6 hours
+|**Elimination**|Pulmonary uptake of up to 25%. Urinary excretion of metabolites| Urinary excretion of metabolites|||50% unchanged in urine 
+|**Mechanism of action** |α>>β|β>α at lower doses. At high doses α<sub>1</sub> effects dominate.|α<sub>1</sub>|α<sub>1</sub> |↑ NA release (indirect α<sub>1</sub>) and direct α and β agonism|
+|**Respiratory**|↑ MV, bronchodilation|↑ MV, bronchodilation|||Bronchodilation
+|**CVS**|↑ SVR, ↑ Myocardial O<sub>2</sub> consumption, ↑ Coronary flow.|↑ Inotropy, ↑ HR, ↑ SVR and PVR, ↑ BP, ↑ CO, ↑ myocardial O<sub>2</sub> consumption. Coronary vasodilation. Arrythmogenic.|↑ SVR, potential reflex bradycardia. Not arrythmogenic.|↑ SVR, reflex bradycardia | Direct ↑ in HR, BP, and CO|
+|**CNS**||↑ Pain threshold, ↑ MAC||| ↑ MAC, mydriasis. Arrhythmogenic.
 |**MSK**|Necrosis with extravasation|Necrosis with extravasation||||
 |**Renal**|↓ RBF|↓ RBF and ↑ in sphincter tone||↓ RBF|↓ RBF
-|**Metabolic**||↑ BMR, ↑ lipolysis, ↑gluconeogenesis and BSL, ↑ Lactate||||
+|**Metabolic**||↑ BMR, ↑ lipolysis, ↑ gluconeogenesis and BSL, ↑ Lactate. Initally ↑ insulin secretion (β), then ↓ (α)||||
 |**GU**| ↓ Uterine blood flow and foetal bradycardia|||↓ Uterine blood flow||
 
 
