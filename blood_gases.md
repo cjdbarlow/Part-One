@@ -104,8 +104,8 @@ Carbon dioxide tension is measured with a **Severinghaus electrode**, which is b
 * Must be kept at 37°C  
     Hypothermia decreases solubility of CO<sub>2</sub> and therefore decreases pH 
 * Electrodes must be kept clean from protein and not damaged
-* Slow response time due to time taken for diffusion of CO<sub>2</sub>  
-    This can be accelerated with carbonic anhydrase
+* Slow response time relative to pH electrode due to time taken for CO<sub>2</sub> to diffuse and react  
+This can be accelerated with carbonic anhydrase
 
 ##Footnotes
 [^1]: Technically pH is defined as the **activity** of H<sup>+</sup> in a solution. Clinically, activity is identical to concentration, so  these definitions are functionally the same.
