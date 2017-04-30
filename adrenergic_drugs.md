@@ -8,7 +8,7 @@ All are G-protein coupled receptors, which **except in α1** receptors either en
 
 Sympathomimetics can be classified as **natural catecholamines**, **synthetic catecholamines**, or **"other"**.
 
-##Adrenergic Agents
+##Comparison of Commonly Used Adrenergic Agents
 |Properties|Noradrenaline|Adrenaline|Dopamine|Phenylephrine|Isoprenaline|Dobutamine| Metaraminol|
 |--|--|--|--|--|--|--|--| 
 |**Class**|Natural Catecholamine|Natural Catecholamine                                                                                                     |Natural Catecholamine|Synthetic sympathomimetic|Synthetic Catecholamine|Synthetic Catecholamine|Synthetic amine| 
