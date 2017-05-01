@@ -57,7 +57,7 @@ Actions of a drug may be countered by a compensatory homeostatic response.
 Pharmacokinetics and pharmacodynamics are affected in pregnancy and at extremes of age.
 
 ###Pregnancy
-* Absorption
+* **Absorption**
     * Decreased gastric emptying
     * Nausea and vomiting
     * Increased cardiac output
@@ -65,22 +65,29 @@ Pharmacokinetics and pharmacodynamics are affected in pregnancy and at extremes 
     * Volatiles:
         * Increased onset due to increased MV and reduced FRC
         * Decreased onset due to increased CO
-* Distribution
+        
+        
+* **Distribution**
     * Increased V<sub>D</sub> due to:
         * Increased TBW
         * Increased plasma volume
         * Increased fat mass
     * Decreased albumin and α<sub>1</sub>-glycoprotein
-* Metabolism
+    
+    
+* **Metabolism**
     * No change to HBF
     * Progesterone induces enzymes
     * Oestrogen competes for enzymes
     * Decreased plasma cholinesterase activity
-* Elimination
+
+
+* **Elimination**
     * Increased RBF
     * Increased GFR
-    
-* Pharmacodynamic
+
+        
+* **Pharmacodynamic**
     * Decreased MAC
     * Increased LA sensitivity due to decreased α<sub>1</sub>-glycoprotein
 
@@ -131,6 +138,7 @@ At < 1 year of age, pharmacokinetics are significantly altered:
     * GFR is **further reduced** in **pre-term** infants
     * GFR is increased in **1-3 year** olds
 
+
 * **Pharmacodynamic**
     * Smaller ACh reserves increase sensitivity to NMBs
     * Increased MAC    
@@ -140,7 +148,8 @@ At < 1 year of age, pharmacokinetics are significantly altered:
 Though there is a linear decrease in functional capacity of major systems beginning at 45, alterations are predominantly a consequence of polypharmacy and drug interactions.
 
 * **Absorption**  
-Laxatives and prokinetics increase gastric emptying and reduce absorption of oral agents
+    * Laxatives and prokinetics increase gastric emptying and reduce absorption of oral agents
+
 
 * **Distribution**  
     * There is a proportional increase in fat  
@@ -149,13 +158,16 @@ Laxatives and prokinetics increase gastric emptying and reduce absorption of ora
         * Total body water
         * Albumin
 
+
 * **Metabolism**  
     * ↓ Hepatic blood flow 
     * ↓ Enzymatic activity  
     Phase I > Phase II.
 
+
 * **Elimination**  
     * Loss of nephron number with age reduces renal clearance
+
 
 * **Pharmacodynamic**  
     * Increased sensitivity to sedatives, opioids, and hypnotics
@@ -171,7 +183,7 @@ Laxatives and prokinetics increase gastric emptying and reduce absorption of ora
 
 
 * Distribution
-    * Prolonged arm-brain circulation time
+    * Decreased CO prolongs arm-brain circulation time
     * Increased α<sub>1</sub>-glycoprotein increasing binding of basic drugs
     * Decreased V<sub>D</sub>
 
@@ -252,6 +264,23 @@ Laxatives and prokinetics increase gastric emptying and reduce absorption of ora
 * Elimination
     * Increased renal clearance due to increased CO
 
+
+###Non-Specific Alterations to Drug Response
+* **Absorption**:
+    * Site of administration  
+    Drugs given centrally will act faster than those given into peripheral veins.
+    * Rate of administration  
+    Faster rate of administration will increase rate of onset.
+    
+* **Pharmacodynamic**  
+    * Drug tolerance
+    Increase requirement of drug.
+        * e.g. induction anaesthetic agents in patients tolerant to CNS depressants.
+     * Drug interaction  
+     May be:
+         * Synergistic
+         * Additive
+         * Antagonistic       
 ---
 ##References
 Anderson C. Variability in Drug Response 1. ICU Primary Prep. 
