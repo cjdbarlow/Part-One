@@ -37,7 +37,7 @@
 |**pKa**|7.9|8.1|8.1|8.6
 |**Route of Administration**|SC, epidural, IV|SC, epidural|SC, epidural|Topical
 |**Onset/Duration**|Rapid onset, short duration|Intermediate onset, long duration|Intermediate onset, long duration|20-30 minutes
-|**Maximum Dose**|Analgesia: 4mg.kg<sup>-1</sup> without adrenaline, 7mg.kg<sup>-1</sup> with adrenaline|2mg.kg<sup>-1</sup>|3mg.kg<sup>-1</sup>|1mg.kg<sup>-1</sup>
+|**Maximum Dose**|Analgesia: 4mg.kg<sup>-1</sup> without adrenaline, 7mg.kg<sup>-1</sup> with adrenaline|2mg.kg<sup>-1</sup>|3mg.kg<sup>-1</sup>|3mg.kg<sup>-1</sup>
 |**Distribution**|70% protein bound|Highly protein bound|Lower lipid solubility reduces motor block compared to bupivacaine|Highly protein bound
 |**Metabolism**|Hepatic with some active metabolites|Hepatic to inactive metabolites|Hepatic to active metabolites|Plasma esterases, some hepatic metabolism (unlike other esters)
 |**Elimination**|Reduced in hepatic or cardiac failure|||Elimination of active drug and inactive metabolites
