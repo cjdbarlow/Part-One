@@ -8,37 +8,48 @@ PATHWAY OF ARACHIDONIC ACID VIA COX AND LOX
 
 Arachidonic acid is converted into:
 * Leukotrienes by LOX
-* Cyclic endoperoxidases by COX  
-NSAIDs inhibit cyclooxygenase. Effects (including adverse) come from either the decrease in endoperoxidases (inhibited by cox), or an increase in other arachidonic-acid derived factors (due to the diversion of arichdonic acid down other pathways).
-  * There are two(ish) **isoenzymes** of COX:
-    * **COX-1**  
-    Important for homeostatic function, and controls the synthesis of:  
-      * **Thromboxane A<sub>2</sub>**  
-      Produced by platelets when exposed to collagen, adrenaline, or adenosine. It promotes haemostasis through:
-       *  Vasoconstriction
-       *  Platelet aggregation
-      * **PGE<sub>2</sub>**
-        * Afferent arteriolar dilation
-        * Bronchodilation
-        * Gastric mucous production
-        * Inhibition of platelet aggregation
-      * **PGF<sub>2α</sub>**
-        * Bronchoconstriction
-        * Pulmonary vasoconstriction
-        * Uterine contraction<br><br>
-    * **COX-2**  
-    **Induced** with tissue damage and contributes to inflammation. COX-2:
-      * Exists in the vascular endothelium where it synthesises prostacyclin (which opposes the action of thromboxanes)
-        * Inhibition may result in a relative abundance of thromboxane, causing platelet aggregation and vasoconstriction <br><br>
-    * **COX-3** is:
-      * A variant of COX-1 which exists centrally and mediates the analgesic and antipyretic effects of paracetamol
+* Cyclic endoperoxidases by COX enzymes  
+These undergo further metabolism to produce:
+  * **Thromboxane A<sub>2</sub>**  
+  Produced by platelets when exposed to collagen, adrenaline, or adenosine. It promotes haemostasis through:
+    * Vasoconstriction
+    * Platelet aggregation
+  * **PGI<sub>2</sub>**
+    * Vasodilation
+    * Platelet inhibition
+    * Bronchodilation
+  * **PGE<sub>2</sub>**
+    * Afferent arteriolar dilation
+    * Bronchodilation
+    * Gastric mucous production
+    * Inhibition of platelet aggregation
+  * **PGF<sub>2α</sub>**
+    * Bronchoconstriction
+    * Pulmonary vasoconstriction
+    * Uterine contraction<br><br>
+
+There are two(ish) **isoenzymes** of COX:
+* **COX-1**  
+Important for homeostatic function. 
+* **COX-2**  
+**Induced** with tissue damage and contributes to inflammation. COX-2:
+  * Exists in the vascular endothelium where it synthesises prostacyclin (which opposes the action of thromboxanes)
+  * Inhibition may result in a relative abundance of thromboxane, causing platelet aggregation and vasoconstriction
+* **COX-3**  
+Variant of COX-1 which exists centrally and mediates the analgesic and antipyretic effects of paracetamol.
  
 ###Effects 
-* COX inhibition has different effects in different tissues:
-  * Prevents subsequent conversion of prostaglandins to thromboxane A<sub>2</sub> and PGI<sub>2</sub>  
-  * Peripherally, inhibition of prostaglandin synthesis is anti-inflammatory
-  * Centrally, it is anti-pyretic
-  * In the stomach, it decreases mucous production and leads to mucosal ulceration
+Effects occur due to:
+* Decrease in endoperoxidases  
+Inhibited by COX.
+* Increase in other arachidonic-acid derived factors  
+Due to the diversion of arichdonic acid down other pathways.
+
+COX inhibition has different effects in different tissues:
+* Prevents subsequent conversion of prostaglandins to thromboxane A<sub>2</sub> and PGI<sub>2</sub>  
+* Peripherally, inhibition of prostaglandin synthesis is anti-inflammatory
+* Centrally, it is anti-pyretic
+* In the stomach, it decreases mucous production and leads to mucosal ulceration
 
 
 * Aspirin (a non-specific COX inhibitor), prevents production of both thromboxane A<sub>2</sub> and PGI<sub>2</sub>
@@ -47,17 +58,17 @@ NSAIDs inhibit cyclooxygenase. Effects (including adverse) come from either the 
 
 
 ###Adverse Effects
-* **Asthma**  
-Occurs in 20% of asthmatics with NSAID use.
-
-* **Thrombotic events**, including MI and CVA  
-Risk is greater with COX-2 inhibitors, with NNH for non-fatal MI being 500 patient-years, and NNH for fatal MI being 1000 patient-years.
+* **Asthma/Bronchospasm**  
+Secondary to increased leukotriene synthesis due to increased arachidonic acid levels. Occurs in 20% of asthmatics with NSAID use.
 
 * **Platelet dysfunction**  
 A consequence of COX-1 inhibiton only, and may result in increased perioperative bleeding risk (though decreased AMI and CVA risk).
 
+* **Thrombotic events**, including MI and CVA  
+Risk is greater with **COX-2** inhibitors, due to **selective inhibition of prostacyclin**. with NNH for non-fatal MI being 500 patient-years, and NNH for fatal MI being 1000 patient-years.
+
 * **Impaired GFR**  
-Occurs as a consequence of uninhibited afferent arteriolar constriction.
+Occurs as a consequence of uninhibited afferent arteriolar constriction. Worse with concurrent hypovolaemia, renal artery stenosis, or concurrent ACE-I use.
 
 * **Gastric erosion**  
 A consequence of impaired mucosal secretion through COX-1 inhibition. This can result in pain, anaemia, or fatal bleed. In general, risk of gastric erosion is (from highest to lowest risk):
