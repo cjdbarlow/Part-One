@@ -9,7 +9,7 @@ PATHWAY OF ARACHIDONIC ACID VIA COX AND LOX
 Arachidonic acid is converted into:
 * Leukotrienes by LOX
 * Cyclic endoperoxidases by COX  
-NSAIDs inhibit cyclooxygenase.
+NSAIDs inhibit cyclooxygenase. Effects (including adverse) come from either the decrease in endoperoxidases (inhibited by cox), or an increase in other arachidonic-acid derived factors (due to the diversion of arichdonic acid down other pathways).
   * There are two(ish) **isoenzymes** of COX:
     * **COX-1**  
     Important for homeostatic function, and controls the synthesis of:  
