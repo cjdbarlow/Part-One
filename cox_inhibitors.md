@@ -4,21 +4,34 @@ Cyclo-oxygenase inhibitors are typically **used** to treat **mild to moderate pa
 
 ##Common Features
 ###Mechanism of Action
-* NSAIDs inhibit cyclooxygenase, preventing conversion of arachidonic acid to prostaglandins
-* There are two(ish) **isoenzymes** of COX:
-  * **COX-1** is important in:  
-    * Thromboxane synthesis  
-      Thromboxane A<sub>2</sub> is produced by platelets when exposed to collagen, adrenaline, or adenosine. It promotes haemostasis through:
-     *  **Vasoconstriction**
-     *  **Platelet aggregation**
-    * Prostaglandins that control renal blood flow
-    * Prostaglandins that form mucosal barriers <br><br>
-  * **COX-2**:
-    * Is induced with tissue damage and contributes to inflammation
-    * Exists in the vascular endothelium where it synthesises prostacyclin (which opposes the action of thromboxanes)
-      * Inhibition may result in a relative abundance of thromboxane, causing platelet aggregation and vasoconstriction <br><br>
-  * **COX-3** is:
-    * A variant of COX-1 which exists centrally and mediates the analgesic and antipyretic effects of paracetamol
+PATHWAY OF ARACHIDONIC ACID VIA COX AND LOX
+
+Arachidonic acid is converted into:
+* Leukotrienes by LOX
+* Cyclic endoperoxidases by COX  
+NSAIDs inhibit cyclooxygenase.
+  * There are two(ish) **isoenzymes** of COX:
+    * **COX-1**  
+    Important for homeostatic function, and controls the synthesis of:  
+      * **Thromboxane A<sub>2</sub>**  
+      Produced by platelets when exposed to collagen, adrenaline, or adenosine. It promotes haemostasis through:
+       *  Vasoconstriction
+       *  Platelet aggregation
+      * **PGE<sub>2</sub>**
+        * Afferent arteriolar dilation
+        * Bronchodilation
+        * Gastric mucous production
+        * Inhibition of platelet aggregation
+      * **PGF<sub>2α</sub>**
+        * Bronchoconstriction
+        * Pulmonary vasoconstriction
+        * Uterine contraction<br><br>
+    * **COX-2**  
+    **Induced** with tissue damage and contributes to inflammation. COX-2:
+      * Exists in the vascular endothelium where it synthesises prostacyclin (which opposes the action of thromboxanes)
+        * Inhibition may result in a relative abundance of thromboxane, causing platelet aggregation and vasoconstriction <br><br>
+    * **COX-3** is:
+      * A variant of COX-1 which exists centrally and mediates the analgesic and antipyretic effects of paracetamol
  
 ###Effects 
 * COX inhibition has different effects in different tissues:
@@ -56,8 +69,8 @@ A consequence of impaired mucosal secretion through COX-1 inhibition. This can r
 
 * **Transaminitis** may occur following NSAID use
 
-##Differences
-| Characteristc | Aspirin| Diclofenac | Ketorolac|Ibuprofen|Celecoxib|Parecoxib|
+##Comparison of COX Inhibitors
+| Characteristic | Aspirin| Diclofenac | Ketorolac|Ibuprofen|Celecoxib|Parecoxib|
 |--|--|--|--|--|--|
 |**Mechanism of Action**| Irreversible inhibition of platelet thromboxane production. As platelets are anucleic, they are unable to regenerate thromboxane.|Non-selective COX inhibitor|Non-selective COX inhibition|Non-selective COX-inhibition|COX-2 inhibitor (30:1 in favour of COX-2)|COX-2 inhibitor (61:1 in favour of COX-2)|
 |**Uses**|Prevention of arterial thromboembolism, MI, CVA, migraine, analgesia, others (e.g. Still's disease| Mild-to-moderate pain|Potent anti-analgesic, minimal anti-inflammatory properties|Mild-to-moderate pain| Analgesi, particular chronic arthritic pain.|Acute inflammatory pain|
