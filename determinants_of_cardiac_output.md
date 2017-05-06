@@ -116,7 +116,7 @@ Transmural pressure is the difference between intrathoracic pressure and the ven
               * Decreased arterial compliance increases the speed of propagation of **reflected pressures waves** returning to the aortic root
                 * Wave arrival in diastole augments coronary blood flow
                 * Wave arrival during systole further increases afterload
-            * In diastole the arteries recoil and blood pressure and flow are maintained - the **Windkessel effec**t.
+            * In diastole the arteries recoil and blood pressure and flow are maintained - the **Windkessel effect**.
 
 
     
@@ -126,7 +126,7 @@ Transmural pressure is the difference between intrathoracic pressure and the ven
      
 
 * **Myocardial wall thickness**  
-  Increasing wall thickness (seen clinically as ventricular hypertrophy) *decreases* afterload by sharing wall tension (the product of pressure and radius) between a large number of sarcomeres.
+  Increasing wall thickness (seen clinically as ventricular hypertrophy) *decreases* afterload by sharing wall tension (the product of pressure and radius) between a larger number of sarcomeres.
 
 
 ##Contractility
