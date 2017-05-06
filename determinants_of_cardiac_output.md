@@ -84,28 +84,31 @@ $$ \theta \propto {P \times r \over T}$$, where:
 
 Each of these factors are in turn influenced by:
 * **Ventricular transmural systolic pressure**  
-Transmural pressure is the difference between intrathoracic pressure and the pressure required for ventricular ejection.
+Transmural pressure is the difference between intrathoracic pressure and the ventricular cavity pressure during ejection.
     * Intrathoracic Pressure  
     Negative intrathoracic pressure will increase afterload, as the ventricle has to generate a greater change in pressure to achieve ejection.
       * PEEP reduces LV afterload
       * Negative-pressure ventilation with a high work of breathing increases afterload  
       This is why APO deteriorates - increased work of breathing increases LV afterload and worsens LV failure, increased pulmonary oedema, causing increased work of breathing... <br><br>
-    * Pressure required for ventricular ejection  
-    Must overcome:
+    * Ventricular cavity pressure  
+    To facilitate ejection, the ventricle must overcome:
       * Outflow tract impedance
         * Valvular disease
-        * HOCM <br> <br>
-      * Systemic arterial impedance (determined by **resistance**, **inertia**, and **compliance**)
+          * e.g. aortic stenosis
+        * HOCM
+      * Systemic arterial impedance  
+      Determined by **resistance**, **inertia**, and **compliance**:  
           * Determinants of **resistance** are stated in the Poiseuille Equation:  
               $$ R = {8.η.l \over \pi.r^4}$$, where:
               * η = **Viscosity**  
               Affected by **haematocrit** (e.g. increased in polycythaemia) 
               * l = Vessel length  
-              Fixed
+              Essentially fixed.
               * r = Vessel **radius**  
                 * Greatest determinant
-                * Function of **degree of vasoconstriction** of resistance vessels <br><br>
-          * **Inertia** is given by the mass of blood in the column, and is affected by **heart rate** <br><br>
+                * Function of **degree of vasoconstriction** of resistance vessels
+          * **Inertia**  
+          Given by the mass of blood in the column, and is affected by **heart rate**.
           * Arterial **compliance**  
           Decreased arterial compliance increases afterload.
             * During ejection, the aorta and large arteries distend, reducing peak systolic pressure (impedance to further ejection)
