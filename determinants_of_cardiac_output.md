@@ -90,14 +90,14 @@ Transmural pressure is the difference between intrathoracic pressure and the ven
       * PEEP reduces LV afterload
       * Negative-pressure ventilation with a high work of breathing increases afterload  
       This is why APO deteriorates - increased work of breathing increases LV afterload and worsens LV failure, increased pulmonary oedema, causing increased work of breathing... <br><br>
-    * Ventricular cavity pressure  
+    * **Ventricular cavity pressure**  
     To facilitate ejection, the ventricle must overcome:
-      * Outflow tract impedance
+      * **Outflow tract impedance**
         * Valvular disease
           * e.g. aortic stenosis
         * HOCM
-      * Systemic arterial impedance  
-      Determined by **resistance (SVR)**, **inertia**, and **compliance**:  
+      * **Systemic arterial impedance**  
+      Determined by resistance (SVR), **inertia, and **compliance:  
           * Determinants of **resistance** are stated in the Poiseuille Equation:  
               $$ R = {8.η.l \over \pi.r^4}$$, where:
               * η = **Viscosity**  
@@ -108,7 +108,8 @@ Transmural pressure is the difference between intrathoracic pressure and the ven
                 * Greatest determinant
                 * Function of **degree of vasoconstriction** of resistance vessels
           * **Inertia**  
-          Given by the mass of blood in the column, and is affected by **heart rate**.
+            * Given by the mass of blood in the column
+            * Affected by **heart rate**
           * Arterial **compliance**  
           Decreased arterial compliance increases afterload.
             * During ejection, the aorta and large arteries distend, reducing peak systolic pressure (impedance to further ejection)
