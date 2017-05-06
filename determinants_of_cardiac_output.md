@@ -74,7 +74,16 @@ FRANK STARLING CURVE
   * This definition is a bit wordy but avoids using the words "resistance" and "impedance", which are strictly defined in physics (and crudely applied in medicine), and may be jumped on by a cruel examiner
 
 ###Determinants of Afterload
-Afterload is a function of:
+Afterload is equal to ventricular wall stress, given by the equation:
+ 
+$$ \theta \propto {P \times r \over T}$$, where:
+* $$\theta$$ is ventricular wall stress
+* $$P$$ is ventricular transmural pressure
+* $$r$$ is ventricular chamber radius
+* $$h$$ is ventricular wall thickness
+
+
+Each of these factors are in turn influenced by:
 * **Ventricular transmural systolic pressure**  
 Transmural pressure is the difference between intrathoracic pressure and the pressure required for ventricular ejection.
     * Intrathoracic Pressure  
