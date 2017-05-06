@@ -28,7 +28,7 @@ Calcium is regulated to maintain a stable **ionised** calcium level. Three hormo
 
 * **Parathyroid Hormone**  
 Protein hormone secreted by the four parathyroid glands, located on the posterior surface of the thyroid, in response to a fall in iCa<sup>2+</sup> levels, and acts to **increase plasma calcium**:
-  * Increase calcium reabsorption in the kidney
+  * Increase calcium reabsorption in the PCT and late DCT
   * Increase osteoclastic activity in bone
   * Increase vitamin D activation in the intestine, which in turn increases intestinal absorption of dietary calcium
 
