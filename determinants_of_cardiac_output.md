@@ -97,7 +97,7 @@ Transmural pressure is the difference between intrathoracic pressure and the ven
           * e.g. aortic stenosis
         * HOCM
       * Systemic arterial impedance  
-      Determined by **resistance**, **inertia**, and **compliance**:  
+      Determined by **resistance (SVR)**, **inertia**, and **compliance**:  
           * Determinants of **resistance** are stated in the Poiseuille Equation:  
               $$ R = {8.η.l \over \pi.r^4}$$, where:
               * η = **Viscosity**  
