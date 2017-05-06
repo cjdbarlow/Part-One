@@ -80,7 +80,7 @@ $$ \theta \propto {P \times r \over T}$$, where:
 * $$\theta$$ is ventricular wall stress
 * $$P$$ is ventricular transmural pressure
 * $$r$$ is ventricular chamber radius
-* $$h$$ is ventricular wall thickness
+* $$T$$ is ventricular wall thickness
 
 
 Each of these factors are in turn influenced by:
