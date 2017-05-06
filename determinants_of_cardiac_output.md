@@ -17,9 +17,8 @@ Stroke volume is a function of three factors:
 * These definitions are those which have appeared in old examiner reports, or given to me by cardiac anaesthetists
 
 ##Preload
-
-* **Preload** is defined as the **myocardial sarcomere length just prior to contraction**
-* This is not measurable without removing the heart and cutting it into tiny pieces, so clinically it is usually **approximated by EDV** or, less appropriately, by EDP
+**Preload** is defined as the **myocardial sarcomere length just prior to contraction**.
+* As his is not measurable without removing the heart and cutting it into tiny pieces, so clinically it is usually **approximated by EDV** or, less appropriately, by EDP
   * EDV is typically calculated on echocardiography
   * EDP is typically measured using a CVC or PAC
     * CVP ≈ RVEDP
@@ -70,11 +69,11 @@ FRANK STARLING CURVE
 
 
 ##Afterload
-* **Afterload** is  **the sum of forces, both elastic and kinetic, opposing ventricular ejection**
-  * This definition is a bit wordy but avoids using the words "resistance" and "impedance", which are strictly defined in physics (and crudely applied in medicine), and may be jumped on by a cruel examiner
+**Afterload** is  **the sum of forces, both elastic and kinetic, opposing ventricular ejection**
+* This definition is a bit wordy but avoids using the words "resistance" and "impedance", which are strictly defined in physics (and crudely applied in medicine), and may be jumped on by a cruel examiner
 
 ###Determinants of Afterload
-Afterload is equal to ventricular wall stress, given by the equation:
+Afterload is equal to **ventricular wall stress**, which is given by the equation:
  
 $$ \theta \propto {P \times r \over T}$$, where:
 * $$\theta$$ is ventricular wall stress
@@ -118,17 +117,17 @@ Transmural pressure is the difference between intrathoracic pressure and the pre
 
 
     
-* Ventricular systolic radius
+* **Ventricular chamber radius**
     * End-Diastolic Volume  
      Increased EDV increases ventricular radius and therefore wall tension.
      
 
-* Myocardial wall thickness  
-  Ventricular hypertrophy *decreases* afterload by sharing wall tension (the product of pressure and radius) between a large number of sarcomeres.
+* **Myocardial wall thickness**  
+  Increasing wall thickness (seen clinically as ventricular hypertrophy) *decreases* afterload by sharing wall tension (the product of pressure and radius) between a large number of sarcomeres.
 
 
 ##Contractility
-* **Contractility **describes the** factors other than heart rate, preload, and afterload that are responsible for for changes in myocardial performance**.
+**Contractility **describes the** factors other than heart rate, preload, and afterload that are responsible for for changes in myocardial performance**.
 
 ###Determinants of Contractility
 Contractility is primarily dependent on **intracellular Ca<sup>2+</sup>**.  Determinants include:
