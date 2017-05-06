@@ -34,23 +34,26 @@ These layers of connective tissue join at the end of a muscle to form a tendon o
 ###Sarcomere
 The sarcomere is the functional contractile unit of muscle. Average sarcomere length is 2.5μm.
 
-It has a number of components, each with a number of proteins:
-* A-band: Myosin (**thick**) filaments  
+The sarcomere contains two main proteins:
+* Myosin (**thick**) filaments  
 Myosin is a large protein with two heads, which bind actin and ATP. The mysosin head flexes on its neck during contraction.
-
-* H-band: The part of the myosin filaments which doesn't overlap with actin filaments
-
-* I-band: Actin (**thin**) filaments  
-  **Actin** is a smaller protein than myosin, and potentiates the ATPase of myosin. Actin filaments have a groove which contains another protein called **tropomyosin**, to which **troponin** attaches to. Troponin has three subunits:
+* Actin (**thin**) filaments
+**Actin** is a smaller protein than myosin, and potentiates the ATPase of myosin. Actin filaments have a groove which contains another protein called **tropomyosin**, to which **troponin** attaches to. Troponin has three subunits:
     * Troponin T - binds troponin to tropomyosin
     * Troponin I - prevents myosin binding to actin by physically obstructing the binding site
     * Troponin C - Binds Ca<sup>2+</sup> which initiates contraction
-
-
-* Z-line: Each end of the sarcomere  
-Actin from adjacent sarcomeres are connected at the Z line.
-
-* M-line: Band of connections between myosin filaments
+    
+These proteins are arranged to form three bands and two lines:
+* A-band  
+The myosin filaments.
+* H-band  
+The section of myosin filaments not overlapping with actin filaments.
+* I-band  
+The section of actin filaments not overlapping with myosin filaments.
+* Z-line  
+Each end of the sarcomere. Actin from adjacent sarcomeres are connected at the Z line.
+* M-line  
+Band of connections between myosin filaments.
 
 ![](http://www.lab.anhb.uwa.edu.au/mb140/corepages/muscle/Images/Mus1ani.gif)
 
