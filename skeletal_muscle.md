@@ -14,12 +14,25 @@ Abdominal wall and pelvic floor support viscera.
 * Voluntary sphincter control
 * Heat production
 
-##Structure
+##Structure and Contents
 Skeletal muscle consists of long tubular cells, known as muscle fibres, which run the length of the muscle. Skeletal muscle cells:
-* Are under voluntary control from the somatic nervous system via α-motor fibres
+* Are under voluntary control from the somatic nervous system via α-motor fibres  
+α-motor fibres may control multiple myofibres, forming a **motor unit**.
 * Are 10-100μm in diameter
 * Contain several hundred peripheral nuclei
-* Appear striated microscopically due to the arrangement of myofibrils
+* Contain multiple mitochondria
+    * Slow oxidative fibres (red fibres)  
+    Contain multiple mitochondria, produce sustained contraction, and are resistant to fatigue.
+    * Fast glycolytic fibres (white fibres)  
+    Contain low numbers of mitochondria and large amounts of glycogen, and produce strong contractions but are more easily fatigued.
+* Contain sarcoplasmic reticulum  
+* Contain large amounts of glycogen  
+~200g total.
+* Contain myoglobin
+* Appear striated microscopically due to the arrangement of myofibrils  
+    * Myofibrils are multiple myofilaments arranged in parallel
+    * Myofilaments are formed from multiple sarcomeres arranged in series
+    * A sarcomere is the functional unit of muscle
 
 Muscle fibres are surrounded by layers of connective tissue:
 * Endomysium  
