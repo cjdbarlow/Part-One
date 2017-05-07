@@ -24,6 +24,8 @@ pH disturbance affects many organ systems:
 * **Cardiovascular**
  * Inotropy  
   Inotropy falls in acidosis due to a direct myocardial depressant effect. May be offset by increased SNS tone in low-grade acidosis. Alkalosis may increase inotropy by increasing responsiveness to circulating catecholamines.
+ * Decreased response to catecholamines  
+ When pH < 7.2.
  * Arrhythmias  
  Secondary to altered SNS tone and electrolytes.
  * Vasodilation  
