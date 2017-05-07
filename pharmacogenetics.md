@@ -76,7 +76,7 @@ Leads to:
   * Cease administration of volatile
     * Start TIVA
   * Give **dantrolene**
-    * 1mg.kg<sup>-1</sup> increments up to 10mg.kg<sup>-1</sup>
+    * 2.5mg.kg<sup>-1</sup> increments up to 10mg.kg<sup>-1</sup>
     * 20mg vials reconstituted with 60ml sterile water
       * 3g mannitol as additive
       * Highly alkaline  
