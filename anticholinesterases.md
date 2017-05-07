@@ -29,11 +29,13 @@ Acetylcholinesterases can be:
 |**CNS**| N/V and analgesic when administered intrathecally|Central cholinergic syndrome
 |**MSK**| Reversal of NMB, ↑ fasciculations, ↑ sweating, may cause paralysis|Paralysis
 |**GIT**|↑ Peristalsis, ↑ LoS tone, N/V|↑ Peristalsis, ↑ LoS tone, N/V
-|**Other**||May be reversed in initial stages (before organophosphate-AChE complex has 'aged') with pralidoxime
+|**Other**|Muscarinic receptors affected at low dose, nicotinic receptors at high dose|May be reversed in initial stages (before organophosphate-AChE complex has 'aged') with pralidoxime
 
 ---
 
 ##References
 
 Peck and Hill
+ANZCA 2007 Feb/April
+Petkov
 
