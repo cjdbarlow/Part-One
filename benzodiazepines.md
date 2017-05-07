@@ -22,7 +22,7 @@ Benzodiazepines are double-ringed agonists of the GABA receptors in the CNS, sti
 |--|--|
 |**pKa**|6.5. Structure is dependent on surrounding pH - at a pH < 4 its ring structure closes and it comes lipid soluble|||
 |**Route of Administration**|PO/IV/IM|PO/IV/IM|PO|
-|**Metabolism**| Partially metabolised to oxazepam|Hepatic to all active metabolites|Hepatic to inactive metabolites|
+|**Metabolism**| Partially metabolised to oxazepam. Clearance ~7ml.kg<sup>-1</sup>.min<sup>-1</sup>|Hepatic to all active metabolites|Hepatic to inactive metabolites|
 
 ---
 ##References
