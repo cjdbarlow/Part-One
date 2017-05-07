@@ -18,7 +18,17 @@ Affected by:
 * CSF flow  
 Alters concentration gradient between epidural and subarachnoid space.
 
-
+##Intrathecal
+Factors important to intrathecal administration:
+* Dose  
+Much smaller doses required.
+* Volume  
+Affects extent of spread.
+* Baricity
+Affects direction of spread:
+    * Hyperbaric solutions will sink with gravity  
+    e.g. heavy bupivacaine (0.5% bupivacaine with 8% dextrose)
+    * Hypobaric solutions will rise against gravity
 
 ---
 
