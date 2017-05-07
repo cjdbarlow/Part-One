@@ -30,6 +30,7 @@
     * [Elimination](elimination.md)
     * [Bolus and Infusion Kinetics](intravenous_bolus_and_infusion_kinetics.md)
     * [Drug Monitoring](drug_monitoring.md)
+    * [Epidural and Intrathecal](epidural-and-intrathecal-administration.md)
     * [TIVA and TCI](tiva-and-tci.md)
   * [Pharmacodynamics](receptor_theory.md#id)
     * [Receptor Theory](receptor_theory.md)
