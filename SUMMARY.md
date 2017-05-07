@@ -274,6 +274,7 @@
 * [Neuromuscular](depolarising_nmbs.md#id)
   * [Depolarising NMBs](depolarising_nmbs.md)
   * [Non-Depolarising NMBs](non-depolarising_nmbs.md)
+  * [Dantrolene](dantrolene.md)
 * [Haematological](anticoagulants.md#id)
   * [Anticoagulants](anticoagulants.md)
   * [Direct Thrombin Inhibitors](direct_thrombin_inhibitors.md)
