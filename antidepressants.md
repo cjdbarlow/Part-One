@@ -3,7 +3,8 @@ Antidepressant drugs include:
 * Tricyclic Antidepressants (TCAs)  
 Mechanism of action by multiple effects, including:
   * Inhibit reuptake of NA and 5-HT
-  * Muscarinic antagonism
+  * Muscarinic antagonism  
+  Leads to anticholinergic side effects.
   * H<sub>1</sub> and H<sub>2</sub> antagonism
   * α<sub>1</sub> antagonism
   * NMDA antagonism
@@ -11,21 +12,21 @@ Mechanism of action by multiple effects, including:
 |Property|Amitriptyline|
 |--|--|
 |**Class**|TCA|
-|**Uses**|
-|**Presentation**|
-|**Dosing**|
-|**Absorption**|
-|**Distribution**|
-|**Metabolism**|
+|**Uses**|Depression, treatment of chronic pain and trigeminal neuralgia
+|**Absorption**|High PO bioavailability due.
+|**Distribution**|Highly lipid soluble: High V<sub>D</sub>
+|**Metabolism**|Hepatic with active metabolites and large interpatient variability
 |**Elimination**|
-|**Resp**|
-|**CVS**|
-|**CNS**|
+|**Resp**|Dry mouth
+|**CVS**|Postural hypotension, ↑ HR.<br>QT prolongation and widening QRS in overdose, with arrhythmia more likely when QRS exceeds 0.16s.
+|**CNS**|Sedation, blurred vision, lowered seizure threshold. Excitation, followed by seizures and depression in overdose.
 |**MSK**|
-|**Renal**|
-|**GIT**|
+|**Renal**|Urinary retention
+|**GU**|Sexual dysfunction
+|**GIT**|Constipation
 |**Haeme**|
 |**Immune**|
+|**Other**|Multiple compex drug interactions, including arrhythmias and variable BP with sympathomimetics, central anticholinergic syndrome, serotonin syndrome, and seizures.
 
 
 
