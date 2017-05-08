@@ -18,15 +18,17 @@ These undergo further metabolism to produce:
     * Vasodilation
     * Platelet inhibition
     * Bronchodilation
-  * **PGE<sub>2</sub>**
-    * Afferent arteriolar dilation
-    * Bronchodilation
-    * Gastric mucous production
-    * Inhibition of platelet aggregation
-  * **PGF<sub>2α</sub>**
-    * Bronchoconstriction
-    * Pulmonary vasoconstriction
-    * Uterine contraction<br><br>
+  * **Prostaglandins**  
+  These include:  
+    * **PGE<sub>2</sub>**
+      * Afferent arteriolar dilation
+      * Bronchodilation
+      * Gastric mucous production
+      * Inhibition of platelet aggregation
+    * **PGF<sub>2α</sub>**
+      * Bronchoconstriction
+      * Pulmonary vasoconstriction
+      * Uterine contraction
 
 There are two(ish) **isoenzymes** of COX:
 * **COX-1**  
