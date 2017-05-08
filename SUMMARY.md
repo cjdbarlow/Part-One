@@ -19,9 +19,9 @@
   * [Risk and Odds](risk_and_odds.md)
   * [Significance Testing](signifiance_testing.md)
   * [Drug Development](drug_approval_process.md)
-* [Pharmacology](isomerism.md#id)
-  * [Pharmaceutics](isomerism.md#id)
-    * Additives
+* [Pharmacology](additives.md#id)
+  * [Pharmaceutics](additives.md#id)
+    * [Additives](additives.md)
     * [Isomerism](isomerism.md)
   * [Pharmacokinetics](pharmacokinetic_modelling.md#id)
     * [Modelling](pharmacokinetic_modelling.md)
