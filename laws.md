@@ -8,6 +8,9 @@ PV = K, i.e. pressure and volume are inversely related at constant temperature a
 ##Charle's Law
 V = KT, i.e. volume and temperature are linearly related when pressure is constant.
 
+##Third Gas Laow
+$$P = k.T$$, i.e. pressure and temperature are linearly related when volume is constant.
+
 ##The Universal Gas Equation
 PV = nRT, i.e. combination of Boyle's, Charle's law combining each variable and the universal gas constant, R (8.13)
 
