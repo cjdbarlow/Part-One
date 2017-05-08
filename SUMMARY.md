@@ -21,6 +21,7 @@
   * [Drug Development](drug_approval_process.md)
 * [Pharmacology](isomerism.md#id)
   * [Pharmaceutics](isomerism.md#id)
+    * Additives
     * [Isomerism](isomerism.md)
   * [Pharmacokinetics](pharmacokinetic_modelling.md#id)
     * [Modelling](pharmacokinetic_modelling.md)
