@@ -65,6 +65,8 @@ A mixture of two substances that cannot be separated by fractional distillation,
 ##B
 * **Boiling Point**  
 The temperature at which the vapour pressure of a liquid equals the environmental pressure surrounding the liquid.
+    * Therefore boiling point decreases as environmental pressure falls, as there is less external pressure keeping molecules in their liquid state
+    * Boiling differs from evaporation as molecules anywhere in the liquid may enter the gaseous phase, whilst evaporation occurs only at the surface
 
 ##C
 * **Coronary Blood Flow** at rest is **~5%** of CO, or 225 ml.min<sup>-1</sup>, and may increase **3-4x** during exercise.
@@ -80,5 +82,10 @@ The temperature at which the vapour pressure of a liquid equals the environmenta
 Controlled production of unconsciousness.
 
 ##S
+* **Saturated Vapour**  
+Vapour which is in equilibrium with its own liquid state, i.e. there are as many molecules entering the vapour phase as there there are those condensing into the liquid phase.
+    * A saturated vapour contains the least amount of energy possible without condensing
+
+
 * **Saturated Vapour Pressure**  
 Pressure exerted by a vapour which is in equilibrium with its liquid state. Increases with temperature, since as the kinetic energy (heat) content of molecules increase, more of them enter the vapour phase.
