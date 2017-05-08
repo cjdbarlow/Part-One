@@ -63,6 +63,8 @@ Ability of an organ to maintain homeostasis in the presence of dynamic physiolog
 A mixture of two substances that cannot be separated by fractional distillation, as each component shares same boiling point. This is typically temperature dependent.
 
 ##B
+* **Boiling Point**  
+The temperature at which the vapour pressure of a liquid equals the environmental pressure surrounding the liquid.
 
 ##C
 * **Coronary Blood Flow** at rest is **~5%** of CO, or 225 ml.min<sup>-1</sup>, and may increase **3-4x** during exercise.
@@ -77,3 +79,6 @@ A mixture of two substances that cannot be separated by fractional distillation,
 * **General anaesthesia**  
 Controlled production of unconsciousness.
 
+##S
+* **Saturated Vapour Pressure**  
+Pressure exerted by a vapour which is in equilibrium with its liquid state. Increases with temperature, since as the kinetic energy (heat) content of molecules increase, more of them enter the vapour phase.
