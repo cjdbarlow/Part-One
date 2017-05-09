@@ -10,8 +10,10 @@ NO, prostacyclin, and adenosine diphosphate (which degrades ADP) inhibit platele
 
 
 * **Membrane-bound anticoagulant proteins**  
-    * **Hepar*an*** (not hepar*in*) activates antithrombin III
-    * **Thrombomodulin** binds thrombin, preventing cleavage of fibrinogen to fibrin. The thrombin-thrombomodulin complex activates protein C (which in turn inactivates factors Va and VIIIa).
+    * **Hepar*an*** (not hepar*in*)  
+    Activates antithrombin III.
+    * **Thrombomodulin**  
+    Binds thrombin, preventing cleavage of fibrinogen to fibrin. The thrombin-thrombomodulin complex activates protein C (which in turn inactivates factors Va and VIIIa).
 
 
 * **tPA secretion** (see 'Clot Lysis')
