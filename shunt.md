@@ -25,7 +25,7 @@ Venous admixture is **the amount of mixed venous blood that must be added to pul
   * Is a calculated, theoretical value
   * Assumes that alveoli have either complete shunt (no ventilation at all, i.e. V/Q = 0) or no shunt (V/Q = 1)
   * Is expressed as a ratio, or **shunt fraction**:  
-  $${\dot{Q}_S \over \dot{Q}_T }= $$ $$ {C_cO_2 - C_aO_2 \over C_cO_2 - C_vO_2 }$$, where:
+  $${\dot{Q}_S \over \dot{Q}_T }= {C_cO_2 - C_aO_2 \over C_cO_2 - C_vO_2 }$$, where:
     * $$\dot{Q}_S$$ = Shunt blood flow
     * $$\dot{Q}_T$$ = Cardiac output
     * $$C_cO_2$$ = Pulmonary end-capillary oxygen content, assumed to be 100% saturated with an oxygen tension equal to PAO<sub>2</sub>
