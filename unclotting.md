@@ -22,10 +22,12 @@ NO, prostacyclin, and adenosine diphosphate (which degrades ADP) inhibit platele
     * **Thrombomodulin**  
     Binds thrombin, preventing cleavage of fibrinogen to fibrin. The thrombin-thrombomodulin complex activates protein C (which in turn inactivates factors Va and VIIIa).
 
+
 * **Prevent exposure of procoagulant protein**  
     * Collagen
     * vWF
     * Tissue Factor
+
 
 * **tPA secretion** (see 'Clot Lysis')
 
