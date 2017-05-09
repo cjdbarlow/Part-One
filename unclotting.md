@@ -5,6 +5,13 @@ Haemostasis must be controlled to prevent rampant clotting of the vascular tree.
 
 ##Endothelial Regulation
 Intact endothelium and the glycocalyx prevent clotting in a number of ways:
+* **Minimise stasis**
+    * High blood flow  
+    Especially where flow is turbulent (large arteries).
+    * Maximise laminar flow  
+    Glycocalyx smoothes flow.
+
+
 * **Inhibition of platelet adhesion and activation**  
 NO, prostacyclin, and adenosine diphosphate (which degrades ADP) inhibit platelet activation.
 
@@ -15,6 +22,10 @@ NO, prostacyclin, and adenosine diphosphate (which degrades ADP) inhibit platele
     * **Thrombomodulin**  
     Binds thrombin, preventing cleavage of fibrinogen to fibrin. The thrombin-thrombomodulin complex activates protein C (which in turn inactivates factors Va and VIIIa).
 
+* **Prevent exposure of procoagulant protein**  
+    * Collagen
+    * vWF
+    * Tissue Factor
 
 * **tPA secretion** (see 'Clot Lysis')
 
