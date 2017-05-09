@@ -128,6 +128,7 @@
     * [Potassium](potassium.md)
 * [Acid-Base Physiology](principles-of-acid-base-physiology.md#id)
   * [Principles of Acid-Base Physiology](principles-of-acid-base-physiology.md)
+  * [Compensation](compensation.md)
   * [Buffers](buffers.md)
 * [Nervous System](csf.md#id)
   * [CSF](csf.md)
