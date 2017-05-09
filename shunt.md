@@ -28,7 +28,7 @@ Venous admixture is **the amount of mixed venous blood that must be added to pul
   $${\dot{Q}_S \over \dot{Q}_T }= {C_cO_2 - C_aO_2 \over C_cO_2 - C_vO_2 }$$, where:
     * $$\dot{Q}_S$$ = Shunt blood flow
     * $$\dot{Q}_T$$ = Cardiac output
-    * $$C_cO_2$$ = Pulmonary end-capillary oxygen content, assumed to be 100% saturated with an oxygen tension equal to PAO<sub>2</sub>
+    * $$C_cO_2$$ = Pulmonary end-capillary oxygen content, assumed to have an oxygen tension equal to PAO<sub>2</sub> (with the corresponding oxygen saturation)
     * $$C_aO_2$$ = Arterial oxygen content
     * $$C_vO_2$$ = Mixed venous oxygen content
 
