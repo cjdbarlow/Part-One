@@ -35,6 +35,7 @@ Less than 24 hours.
         * Increased FFA and ketone body use  
         β-oxidation of FFAs provides ATP requirements, causing ketone body formation.
 
+
 * **Sustained fasting**  
 Greater than 24 hours. See starvation below.
 
