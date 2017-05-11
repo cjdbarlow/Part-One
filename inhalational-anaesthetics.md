@@ -22,8 +22,6 @@
 |**Renal**|Dose dependent ↓ in RBF, GFR, and UO secondary to ↓ in MAP and CO. <br><br>Fluorinated ethers produce F<sup>-</sup> ions when hepatically metabolised, which may produce high-output renal failure at serum concentrations **>50μmol/L**. This is probably only a concern with methoxyflurane (as it has significant (>70%) hepatic metabolism) when used at anaesthetic doses.
 |**GIT**|↓ Hepatic blood flow. 
 |**GU**|Tocolysis
-|**Immune**|
-|**Metabolic**|
 |**Toxic Effects**|Decreased fertility and increased risk of spontaneous abortion in operating theatre personnel.
 
 ##Comparison of Common Inhalational Agents
@@ -40,9 +38,6 @@
 |**Resp**|Bronchodilation, ↓ MV. Smallest ↓ in V<sub>T</sub> and therefore smallest ↑ in PaCO<sub>2</sub>|Bronchodilation, airway irritability. ↓ MV (greater than halothane) with ↑ in RR|Airway irritability manifest as coughing and breath-holding, ↑ secretions|
 |**CVS**|↑ QT, ↓ SVR causing ↓ MAP without a reflex ↑ HR. Inotropy unchanged. Smallest ↓ in BP of any inhalational agent.|Reflex ↑ HR due to ↓ MAP from ↓ SVR. Small ↓ inotropy and CO, equivalent to sevoflurane but greater than desflurane. May cause **coronary steal**.|Minimal ↓ inotropy (least of all inhalational agents), but greater ↓ in SVR and BP than sevoflurane. ↑ in HR, with a bigger increase at >1.5 MAC.
 |**CNS**|↑ Post-operative agitation in children compared to halothane. Smallest ↑ in CBF at > 1.1 MAC, with no increase in ICP up to 1.5 MAC. Cerebral autoregulation intact up to 1.5 MAC.|Best balance of ↓ CMRO<sub>2</sub> for ↑ in CBF ||
-|**GIT**||||
-|**Immune**|
-|**Metabolic**|
 |**Toxic Effects**|Sevoflurane interacts with soda lime to produce **Compound A** (as well as B through E, which are unimportant), which is nephrotoxic in rats (but not, it seems, in humans).|-CHF<sub>2</sub> group may react with dry soda lime to produce CO|Desflurane has much greater greenhouse gas effects than sevoflurane or isoflurane|
 
 ##Comparison of Uncommon Inhalational Agents
