@@ -8,14 +8,15 @@
 |**Onset**|8-12 hours. Peak at 72 hours due to the half-life of existing clotting factors, and the total body stores of vitamin K|
 |**Absorption**|100% bioavailability|-|-|
 |**Distribution**|99% protein bound|Low lipid solubility, highly protein bound|Does not bind to heparin-binding proteins
-|**Metabolism**|Complete hepatic mestabolism. Significant pharmacokinetic|Hepatic interactions due to enzymatic induction (ETOH, amiodarone, salicylates, NSAIDs) and inhibition (OCP, barbiturates, carbamazepine)|Renal elimination of metabolites
-|**Elimination**|Faecal and renal elimination of metabolites|Renal of inactive metabolites|Renal of active drug and inactive metabolites
+|**Metabolism**|Complete hepatic mestabolism. Significant pharmacokinetic interaction with enzyme inducers and inhibitors.|Hepatic interactions due to enzymatic induction (ETOH, amiodarone, salicylates, NSAIDs) and inhibition (OCP, barbiturates, carbamazepine)|Renal elimination of metabolites
+|**Elimination**|Faecal and renal elimination of metabolites, t<sub>1/2</sub>β of 40 hours|Renal of inactive metabolites|Renal of active drug and inactive metabolites
 |**CVS**|Microthrombi|Hypotension with rapid IV administration||
 |**Metabolic**||Osteoporosis||
+|**GIT**|N/V
 |**Haeme**|Haemorrhage|Haemorrhage, HITTs|Haemorrhage, lower risk of HITTs than UFH
 |**Immune**|Hypersensitivity reactions|||
 |**Reversal**|- Waiting<br>- Vitamin K<br>- FFP<br>- Prothrombinex|Reversed with protamine (1mg per 100U).|Incomplete reversal with protamine.|
-|**Other**|Teratogenic. Complicated pharmacokinetics requiring monitoring using INR|Requires monitoring with APTT or ATIII levels. Large interpatient variability due to variable amounts of ATIII.|No monitoring required. |
+|**Other**|Teratogenic. Complicated pharmacokinetics requiring monitoring using INR|Requires monitoring with APTT or ATIII levels. Large interpatient variability due to variable amounts of ATIII.|No monitoring required.|
 
 
 ##HITTs
