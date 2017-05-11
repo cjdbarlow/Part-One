@@ -16,9 +16,9 @@ Potentiates the effect of GABA, prolonging Cl<sup-</sup> channel opening and hyp
 |**pKa**| 11 - almost all is unionised (and active) at physiologic pH|
 |**Route of Administration**|IV only|
 |**Dosing**|Induction: 1-2.5mg.kg<sup>-1</sup> Maintenance: 4-12mg/kg/hr. Target plasma concentration of 4-8μg.ml<sup>-1</sup> to maintain general anaesthesia|
-|**Distribution**|98% protein bound. Very high V<sub>D</sub> at 4L.kg<sup>-1</sup>. Rapid distribution: t<sub>1/2</sub>α 1-3 minutes. t<sub>1/2<sub>ke0</sub></sub> of **2.7** min.|
+|**Distribution**|98% protein bound. Very high V<sub>D</sub> at 4L.kg<sup>-1</sup>. Rapid initial distribution: t<sub>1/2</sub>α (fast) 1-3 minutes, intermediate distribution t<sub>1/2</sub>α (slow) 30-70 minutes. t<sub>1/2<sub>ke0</sub></sub> of **2.7** min.|
 |**Metabolism**| Hepatic and extra-hepatic metabolism to inactive glucuronides and sulphates; t<sub>1/2</sub>β 2-12 hours. **Clearance** of <strong>30-60ml.kg.min<sup>-1</sup></strong>, unaffected by renal and hepatic disease. Context sensitive half-time peaks at **50 minutes** following a 9 hour infusion.|
-|**Elimination**|Renal elimination of inactive metabolites. Reduced clearance in renal failure.|
+|**Elimination**|Tri-exponential. Renal elimination of inactive metabolites.|
 |**Resp**|Respiratory depression, apnoea. Strong suppression of laryngeal reflexes. ↓ Response to hypoxia and hypercapnoea. Bronchodilation.
 |**CVS**|↓ Arterial and venous vasodilation (via stimulating NO release) causing ↓ SVR and ↓ VR, with ↓ BP. ↓ Inotropy via ↓ in SNS tone, ↓ MVO<sub>2</sub>. Depresses baroreceptor reflex. Pain on injection due to lipid emulsion.|
 |**CNS**|Hyponosis. Rapid LoC (within 1 arm-brain ciruclation time). ↓ CMRO2, CBF, and ICP. Anticonvulsant. ↓ IOP. Parodoxical excitatory effects seen in ~10% - dystonic movements of subcortical origin. EEG demonstrates non-specific seizure-like activity.|
