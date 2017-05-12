@@ -223,6 +223,7 @@
     * [Toxic Alcohols](ethanol.md)
   * [Antidotes](naloxone.md#id)
     * [Naloxone](naloxone.md)
+    * [Flumazenil](flumazenil.md)
 * [Respiratory](oxygen.md#id)
   * [Oxygen](oxygen.md)
   * [Helium](helium.md)

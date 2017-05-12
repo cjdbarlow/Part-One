@@ -16,22 +16,23 @@ The mechanism varies between receptors:
 |**Uses**|Sedation, anxiolysis, hypnotic, anticonvulsants, amnestic, muscle relaxation|
 |**Absorption**|Highly lipid soluble|
 |**Distribution**|Highly protein bound, very low V<sub>D</sub>|
-|**Metabolism**|Generally active metabolites
-|**Elimination**|Renal elmination of active and inactive metabolites
-|**Resp**|↓ V<sub>T</sub>, ↑RR, apnoea
-|**CVS**|↓ SVR, ↓SBP, ↓ DBP, ↑HR
-|**CNS**| Hypnosis, sedation, anterograde amnesia, anticonvulsant
-|**Metabolic**|↓ Adrenergic stress response
+|**Metabolism**|Generally active metabolites.
+|**Elimination**|Renal elmination of active and inactive metabolites.
+|**Resp**|↓ V<sub>T</sub>, ↑RR, apnoea.
+|**CVS**|↓ SVR, ↓SBP, ↓ DBP, ↑HR. Typically stable CO.
+|**CNS**| Hypnosis, sedation, anterograde amnesia, anticonvulsant, ↓ CBF.
+|**MSK**|Skeletal muscle relaxation.
+|**Metabolic**|↓ Adrenergic stress response.
 
 ##Comparison of Benzodiazepines
 |Property|Midazolam|Diazepam|Clonazepam|
 |--|--|
-|**Physicochemical**|6.5. Structure is dependent on surrounding pH - at a pH < 4 its ring structure closes and it comes lipid soluble|40% propylene glycol||
-|**Route of Administration**|PO/IV/IM|PO/IV/IM|PO|
-|**Absorption**|50% PO bioavailability|Good PO bioavailability||
-|**Distribution**|V<sub>D</sub> 1.5L.kg<sup>-1</sup>, 95% protein bound|95% protein bound||
-|**Metabolism**| Partially metabolised to oxazepam and 1-α-hydroxy-midazolam. Clearance ~7ml.kg<sup>-1</sup>.min<sup>-1</sup>|Hepatic to all active metabolites including oxazepam, tempazepam, and des-methyl-diazepam (has t<sub>1/2</sub>β up to 100 hours)|Hepatic to inactive metabolites|
-|**Elimination**|t<sub>1/2</sub>β 2-4 hours, prolonged with cirrhosis, CHF, obesity and in the elderly.|t<sub>1/2</sub>β 20-45 hours|
+|**Physicochemical**|6.5. Structure is dependent on surrounding pH - at a pH < 4 its ring structure closes and it comes lipid soluble.|40% propylene glycol.||
+|**Route of Administration**|PO/IV/IM.|PO/IV/IM.|PO.|
+|**Absorption**|50% PO bioavailability.|Good PO bioavailability.||
+|**Distribution**|V<sub>D</sub> 1.5L.kg<sup>-1</sup>, 95% protein bound.|95% protein bound.||
+|**Metabolism**| Partially metabolised to oxazepam and 1-α-hydroxy-midazolam. Clearance ~7ml.kg<sup>-1</sup>.min<sup>-1</sup>.|Hepatic to all active metabolites including oxazepam, tempazepam, and des-methyl-diazepam (has t<sub>1/2</sub>β up to 100 hours).|Hepatic to inactive metabolites.|
+|**Elimination**|t<sub>1/2</sub>β 2-4 hours, prolonged with cirrhosis, CHF, obesity and in the elderly.|t<sub>1/2</sub>β 20-45 hours.|
 
 ---
 ##References
