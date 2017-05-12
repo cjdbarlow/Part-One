@@ -6,8 +6,7 @@ Competitive antagonist and inverse agonist of the benzodiazepine receptor.
 |--|--|
 |**Class**|Imidazo-benzodiazepine
 |**Uses**|Reversal of BDZ
-|**Presentation**|
-|**Route of Administration**|
+|**Route of Administration**|IV
 |**Dosing**|0.1mg boluses up to 2mg
 |**Onset**|Within 2 minutes
 |**Distribution**|Moderate lipid solubility, 50% protein bound. t<sub>1/2</sub>β < 1 hour - may require infusion.
