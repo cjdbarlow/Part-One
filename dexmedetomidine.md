@@ -10,8 +10,8 @@ Dexmedetomidine is the D-stereoisomer of medetomidine (the L-stereoisomer is ina
 |**Route of Administration**|IV only
 |**Dosing**|0.2-0.7µg.kg<sup>-1</sup>.hr<sup>-1</sup>
 |**Distribution**| 95% protein bound|
-|**Metabolism**|Hepatic|
-|**Elimination**|Renal|
+|**Metabolism**|Hepatic to inactive metabolites|
+|**Elimination**|Renal of metabolites, t<sub>1/2</sub>β of 2 hours|
 |**CVS**|↓ MAP, ↓ HR
 |**CNS**|Sedation, anxiolysis, amnesia
 
