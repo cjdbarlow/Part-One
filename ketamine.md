@@ -2,7 +2,7 @@
 
 Ketamine is a phencyclidine derivative used for induction, sedation, analgesia, and as a bronchodilator in severe asthma.
 
-Ketamine is a **non-competetive antagonist** of the **NMDA receptor** in the CNS. 
+Ketamine is a **non-competetive antagonist** of **NMDA** and **glutamate** receptors in the CNS. 
 
 |Property|Action|
 |--|--|
@@ -12,12 +12,12 @@ Ketamine is a **non-competetive antagonist** of the **NMDA receptor** in the CNS
 |**Isomerism**| Racemic mixture or the single S(+) enantiomer, which is 2-3x as potent as the R(-) enantiomer|
 |**Route of Administration**|IV, IM, PO, PR, PN, via epidural (with preservative-free solution)|
 |**Dosing**|Induction: 1-2mg.kg<sup>-1</sup> IV, 5-10mg.kg<sup>-1</sup> IM, Sedation: 0.2-0.5mg.kg<sup>-1</sup> IV|
-|**Distribution**|25% protein bound|
-|**Metabolism**| Hepatic metabolism to active norketamine by CYP450 and then to inactive metabolites|
+|**Distribution**|25% protein bound. t<sub>1/2</sub>α 10-15 minutes|
+|**Metabolism**| Hepatic metabolism to active norketamine by CYP450 and then to inactive metabolites, t<sub>1/2</sub>β 2-4 hours|
 |**Elimination**|Renal eliminiation of inactive metabolites. Action of norketamine prolonged in renal failure.|
-|**Resp**|Bronchodilation, tachypnoea, relative presevation of laryngeal reflexes. Apnoea with rapid injection.|
+|**Resp**|Bronchodilation, tachypnoea, relative presevation of laryngeal reflexes. Apnoea with rapid injection. Preserved central response to CO<sub>2</sub>.|
 |**CVS**|↑ Sympathetic outflow: ↑ HR, ↑ BP ↑ SVR ↑ MVO<sub>2</sub>. Acts directly as a myocardial depressant. Depresses baroreceptor reflex.|
-|**CNS**|Dissociation, analgesia, emergence phenomena (hallucinations, delirium) reduced by concurrent BDZ administration (increasing risk with higher doses and rapid administration). <br><br>Produces dissociative anaesthesia within 90 seconds by dissociating thalmaocortical and limbic systems on EEG. Purposeful movements unrelated to stimulus may occur even during surgical anaesthesia.|
+|**CNS**|Dissociation, analgesia, emergence phenomena (hallucinations, delirium) reduced by concurrent BDZ administration (increasing risk with higher doses and rapid administration). <br><br>Produces dissociative anaesthesia within 90 seconds by dissociating thalmaocortical and limbic systems on EEG. Purposeful movements unrelated to stimulus may occur even during surgical anaesthesia.<br><br>↑ IOP.|
 |**Renal**|Cystitis with long-term, high-dose use|
 |**GIT**|N/V|
 
