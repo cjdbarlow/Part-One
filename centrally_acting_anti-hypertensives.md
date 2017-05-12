@@ -2,7 +2,7 @@
 
 |Property|Clonidine
 |--|--|
-|**Class**|Central α<sub>2</sub>-agonist
+|**Class**|Central α<sub>2</sub>-agonist (200:1 α<sub>2</sub>:α<sub>1</sub>)
 |**Uses**| Analgesia, sedation, anti-hypertensive
 |**Presentation**| Clear colourless solution at 150μg.ml<sup>-1</sup>
 |**Route of Administration**| PO/IV at 10-200mcg up to QID. Can be added to neuraxial blockade at 1-2mcg.kg<sup>-1</sup> to decrease opioid requirement.

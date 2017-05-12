@@ -1,10 +1,11 @@
 # Dexmedetomidine
 
-Dexmedetomidine is the D-stereoisomer of medetomidine (the L-stereoisomer is inactive), and is a central α<sub>2</sub>-agonist used for its sedation and analgesic properties.
+Dexmedetomidine is a central α<sub>2</sub>-agonist (α<sub>2</sub>:α<sub>1</sub> activity 1600:1) used for its sedation and analgesic properties.
 
 |Property|Action|
 |--|--|
 |**Class**|Imidazole derivative
+|**Pharmaceutics**|D-stereoisomer of medetomidine (the L-stereoisomer is inactive)
 |**Uses**|Sedation without respiratory depression
 |**Presentation**|Clear colourless solution at 10µg.ml<sup>-1</sup>
 |**Route of Administration**|IV only
@@ -19,3 +20,4 @@ Dexmedetomidine is the D-stereoisomer of medetomidine (the L-stereoisomer is ina
 ##References
 Smith Scarth Sasada
 Peck and Hill
+Petkov
