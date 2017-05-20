@@ -38,7 +38,13 @@ The adverse effects of suxamethonium can be remembered as **three major, three m
     * Intragastric pressure
 
 ##Phase I and Phase II Blockade
-Initial blockade is termed **Phase I**, which is a partial depolarising block. Sustained use of suxamethonium may causes a Phase II block which appears similar to a non-depolarising block. Key differences include:
+Initial blockade is termed **Phase I**, which is a partial depolarising block. Sustained use of suxamethonium may causes a Phase II block which:
+* Appears similar to a non-depolarising block
+* May be due to:
+  * Presynaptic inhibition of ACh synthesis and release
+  * Desensitisation of the postjunctional receptor
+
+Key differences include:
 
 |Property|Phase I Block|Phase II Block
 |--|--|--|
@@ -62,3 +68,4 @@ Initial blockade is termed **Phase I**, which is a partial depolarising block. S
 ##References
 Peck and Hill
 Suxamethonium Chloride Injection BP PRODUCT INFORMATION
+https://academic.oup.com/bjaed/article/4/1/2/356873/Pharmacology-of-neuromuscular-blocking-drugs
