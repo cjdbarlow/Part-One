@@ -42,7 +42,7 @@
 |**Elimination**|Renal elimination of active drug and metabolites|70% biliary, 30% renal elimination, t<sub>1/2</sub>β 40 hours|
 |**Time to Peak Effect (IV)**|5 minutes||
 |**Duration (IV)**|4 hours||
-|**Equianalgesic Dose** (IV, to 10mg IV morphine)| 10mg|
+|**Equianalgesic Dose** (IV, to 10mg IV morphine)| 10mg. Note 10mg PO oxycodone is ≈ 15mg PO morphine due to higher first pass metabolism of morphine|
 
 
 ##Comparison of Synthetic Opioids
@@ -67,3 +67,4 @@ Peck and Hill
 Smith Scarth Sasada
 Petkov
 ANZCA opioid calculator
+ANZCA July/September 2010
