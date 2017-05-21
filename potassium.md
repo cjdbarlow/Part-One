@@ -63,7 +63,7 @@ Altering potassium secretion is the main method by which the kidney regulates se
  This changes in conditions of potassium depletion.
 
 ####Control of Tubular Secretion
-Tubular potassium secretion is a function of:
+Tubular potassium secretion is mainly a function of:
 * **Plasma [K<sup>+</sup>]**  
 Increased plasma [K<sup>+</sup>] stimulates the Na<sup>+</sup>-K<sup>+</sup> ATPase pump in the principal cells, and also stimulates aldosterone release from the adrenal cortex. 
 * **Tubular flow rate**  
@@ -71,14 +71,12 @@ Movement of potassium out of principal cells occurs down a passive concentration
 * **Aldosterone**  
 Aldosterone increases production of the Na<sup>+</sup>-K<sup>+</sup> ATPase pump, which increases potassium secretion and uptake into cells.
 
-
-
-####Effect of Sodium and Water
-Sodium and water do not directly affect the elimination of potassium. High sodium content inhibits aldosterone release which reduces potassium elimination. Similarly, high water content inhibits ADH excretion and reduces secretion of potassium. However, high Na and H<sub>2</sub>O content also increases flow through the renal tubule, which indirectly increases tubular secretion of potassium.
-
-
-####Effect of Alkalosis
-Alkalosis results in an increased elimination of potassium as the Na<sup>+</sup>-K<sup>+</sup> ATPase pump is stimulated by low H<sup>+</sup> ion concentration.
+Minor contributors include:
+* Sodium and water content  
+ * High sodium content inhibits aldosterone release, reducing potassium elimination
+ * High water content inhibits ADH excretion and reduces secretion of potassium, however high water content also increases flow through the renal tubule, which indirectly increases tubular secretion of potassium.
+* Alkalosis  
+Alkalosis increases elimination of potassium as the Na<sup>+</sup>-K<sup>+</sup> ATPase pump is stimulated by low H<sup>+</sup> ion concentration.
 
 ---
 ##References
