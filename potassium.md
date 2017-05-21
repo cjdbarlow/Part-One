@@ -63,9 +63,14 @@ Altering potassium secretion is the main method by which the kidney regulates se
  This changes in conditions of potassium depletion.
 
 ####Control of Tubular Secretion
-Tubular potassium secretion is controlled by **plasma [K<sup>+</sup>]** and **aldosterone**. An increased [K<sup>+</sup>] in plasma stimulates the Na<sup>+</sup>-K<sup>+</sup> ATPase pump in the principal cells, and also stimulates aldosterone release from the adrenal cortex. Aldosterone increases production of the Na<sup>+</sup>-K<sup>+</sup> ATPase pump, which also increases potassium secretion and uptake into cells.
+Tubular potassium secretion is a function of:
+* **Plasma [K<sup>+</sup>]**  
+Increased plasma [K<sup>+</sup>] stimulates the Na<sup>+</sup>-K<sup>+</sup> ATPase pump in the principal cells, and also stimulates aldosterone release from the adrenal cortex. 
+* **Tubular flow rate**  
+Movement of potassium out of principal cells occurs down a passive concentration gradient. Increasing tubular flow rate increases the concentration gradient for potassium.
+* **Aldosterone**  
+Aldosterone increases production of the Na<sup>+</sup>-K<sup>+</sup> ATPase pump, which increases potassium secretion and uptake into cells.
 
-Potassium secretion is affected by tubular flow rate, as the movement of potassium out of principal cells occurs down a passive concentration gradient.
 
 
 ####Effect of Sodium and Water
