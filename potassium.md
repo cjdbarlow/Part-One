@@ -51,7 +51,16 @@ Conversely, **cell lysis** may release a large amount of potassium into circulat
 ###Elimination
 Elimination of potassium occurs via the kidneys, and is dependent on production of large volumes of glomerular filtrate and secretion by the **distal convoluted tubule** and **collecting duct**.
 
-In normal conditions the PCT and ascending limb reabsorb the majority of absorbed potassium. The principal cells of the DCT and collecting duct secrete potassium, with the collecting duct having a much greater role than the DCT. With normal dietary intake, the net effect is potassium elimination, though this changes in conditions of potassium depletion.
+In normal conditions:
+* The PCT and ascending limb reabsorb the majority of absorbed potassium  
+This is essentially fixed.
+ * PCT absorbs ~55%
+ * Ascending limb absorbs ~30%
+* The principal cells of the DCT and collecting duct secrete potassium  
+Altering potassium secretion is the main method by which the kidney regulates serum potassium.
+ * The collecting duct has a much greater role than the DCT
+ * With normal dietary intake, more potassium is secreted than reabsorbed  
+ This changes in conditions of potassium depletion.
 
 ####Control of Tubular Secretion
 Tubular potassium secretion is controlled by **plasma [K<sup>+</sup>]** and **aldosterone**. An increased [K<sup>+</sup>] in plasma stimulates the Na<sup>+</sup>-K<sup>+</sup> ATPase pump in the principal cells, and also stimulates aldosterone release from the adrenal cortex. Aldosterone increases production of the Na<sup>+</sup>-K<sup>+</sup> ATPase pump, which also increases potassium secretion and uptake into cells.
