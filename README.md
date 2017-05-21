@@ -29,7 +29,7 @@ Covers statistics, physiology, equipment and measurement, and anatomy.
     * When a topic is only examinable in the ANZCA curriculum, it has been slotted in somewhere sensible
     * Topics covered by the page are listed at the beginning of each page
 > A grey block indicates a topic is from the CICM curriculum OR both curricula
-> <p style="color:purple";>A purple block indicates a topic is ONLY from the ANZCA curriculum
+> <p style="color:purple";>A purple block indicates a topic is ONLY from the ANZCA curriculum</p>
 
         
 * **Pharmacopia**  
