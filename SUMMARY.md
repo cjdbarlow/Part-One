@@ -254,6 +254,8 @@
     * [Adenosine](adenosine.md)
     * [Magnesium](magnesium.md)
     * [Atropine](atropine.md)
+* Renal Pharmacology
+  * Intravenous Fluids
 * [Diuretics](diuretics.md)
 * [Neuropharmacology](propofol.md#id)
   * [Propofol](propofol.md)
@@ -297,10 +299,7 @@
 * [Obstetric Pharmacology](oxytocics.md#id)
   * [Oxytocics](oxytocics.md)
   * [Tocolytics](tocolytics.md)
-* [GIT Pharmacology](acid_suppression.md#id)
-  * [Acid Suppression](acid_suppression.md)
-  * [Antiemetics](serotonin_antagonists.md#id)
-    * [Serotonin Antagonists](serotonin_antagonists.md)
+* Renal Pharmacology
 
 ## Appendices
 
