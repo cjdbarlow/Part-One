@@ -1,4 +1,4 @@
-#Diuretics
+#Diuretics {id}
 > An understanding of the pharmacology of diuretics.
 
 Diuretics are drugs that act on the kidney to increase urine production. There are six classes:
