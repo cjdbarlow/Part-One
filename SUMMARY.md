@@ -254,9 +254,9 @@
     * [Adenosine](adenosine.md)
     * [Magnesium](magnesium.md)
     * [Atropine](atropine.md)
-* Renal Pharmacology
+* [Renal Pharmacology](diuretics.md#id)
+  * [Diuretics](diuretics.md)
   * Intravenous Fluids
-* [Diuretics](diuretics.md)
 * [Neuropharmacology](propofol.md#id)
   * [Propofol](propofol.md)
   * [Barbiturates](barbiturates.md)
