@@ -14,4 +14,4 @@ Arteriolar and venous vasodilation in lower abdomen and lower limbs, causing a f
 * Upper thoracic  
 Loss of cardioaccelerator fibres above T5, causing a reduction in heart rate and contractility, compounding hypotension due to fall in SVR.
 * Brainstem  
-Inhibition of vasomotor centre with profound decrease in MAP.
+Inhibition of vasomotor centre with profound fall in CVS parameters.
