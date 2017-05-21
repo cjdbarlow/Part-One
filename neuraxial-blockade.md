@@ -21,3 +21,4 @@ Inhibition of vasomotor centre with profound fall in CVS parameters.
 ##References
 
 Diaz https://primarysaqs.files.wordpress.com/2009/12/2007b9briefly-explain-the-cvs-responses-to-central-neural-blockade.pdf
+ANZCA July/August 2007
