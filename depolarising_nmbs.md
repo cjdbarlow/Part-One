@@ -9,7 +9,7 @@ Succinylcholine binds to the nicotinic ACh receptor causing depolarisation. It c
 |**Presentation**|Colourless solution of pH 3, at 50mg.ml<sup>-1</sup>.
 |**Route of Administration**|IV, IM.
 |**Dosing**|1-2mg.kg<sup>-1</sup> IV, 3-4mg.kg<sup>-1</sup> IM up to 150mg.
-|**Onset and Duration**|IV onset in 30s to 1 minute, lasting 2-3 minutes, with offset typically within 10 minutes. Prolonged duration in patients with **pseudocholinesterase deficiency**. IM onset in 2-3 minues.
+|**Onset and Duration**|IV onset in 30s to 1 minute, lasting 2-3 minutes, with offset typically within 10 minutes. Offset occurs due to dissociation of drug out of NMJ into plasma, as a concentration gradient is established by drug breakdown in plasma. Prolonged duration in patients with **pseudocholinesterase deficiency**. IM onset in 2-3 minues.
 |**Distribution**|Nil redistribution due to rapid metabolism. Crosses placenta in very small amounts.
 |**Metabolism**|Rapid hydrolysis by plasma cholinesterases such that only **20%** of administered dose reaches the NMJ.
 |**Elimination**|Minimal renal elimination due to rapid metabolism.
