@@ -256,7 +256,7 @@
     * [Atropine](atropine.md)
 * [Renal Pharmacology](diuretics.md#id)
   * [Diuretics](diuretics.md)
-  * Intravenous Fluids
+  * [Intravenous Fluids](intravenous-fluids.md)
 * [Neuropharmacology](propofol.md#id)
   * [Propofol](propofol.md)
   * [Barbiturates](barbiturates.md)
