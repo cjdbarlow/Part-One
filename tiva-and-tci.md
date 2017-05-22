@@ -64,6 +64,11 @@ The Bristol Model:
         * 8mg.kg<sup>-1</sup>.hr<sup>-1</sup> for 10 minutes
         * 6mg.kg<sup>-1</sup>.hr<sup>-1</sup> thereafter
 
+Marsh and Schneider Models:
+* These are computer controlled models
+* Both were derived on very small groups of patients (18 and 24 respectively)
+* The models diverge most strongly in the first 10 minutes after induction, and progressively converge
+
 |Property|Marsh|Schneider|
 |--|--|--|--|
 |**Targets**|Typically target plasma concentration, but can target effect site. <br><br>Effect site targeting is usually done with the modified Marsh model, due to the large bolus dosing given by the standard Marsh model.|Typically effect site, but can target plasma concentration. <br><br>Plasma targeting gives inconsistent results, as the fixed size of V<sub>1</sub> means any increase in desired plasma concentration results in the same size bolus being given, irrespective of patient parameters.
@@ -71,9 +76,6 @@ The Bristol Model:
 |**Values**|Variable compartment sizes but bigger V<sub>1</sub>|Fixed V<sub>1</sub> (4.27L) and V<sub>3</sub>, variable V<sub>2</sub> and K<sub>eo</sub>
 |**Other**|The 'modified Marsh' model uses a k<sub>eo</sub> of 0.2L.min<sup>-1</sup> instead of 0.26L.min<sup>-1</sup>, which decreases the $$C_P$$ required to achieve the target $$C_e$$ quickly. The modified Marsh is therefore preferable in patients at higher risk of overdose.||
 |**Overall**|Faster induction due to larger V<sub>1</sub>, which results in a larger loading dose|Reduced rate of adverse events. Overall less propofol used.
-
-The Marsh and Schneider models diverge most strongly in the 10 minutes after induction, and progressively converge.
-
         
 
 ---
