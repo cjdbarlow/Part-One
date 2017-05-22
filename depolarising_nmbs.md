@@ -15,13 +15,13 @@ Structually, it is two ACh groups joined at the acetyl groups.
 |**Distribution**|30% protein bound. Nil distribution due to rapid metabolism - V<sub>D</sub> 0.25L.kg<sup>-1</sup>. Crosses placenta in very small amounts.
 |**Metabolism**|Rapid hydrolysis by plasma cholinesterases such that only **20%** of administered dose reaches the NMJ.
 |**Elimination**|Minimal renal elimination due to rapid metabolism.
-|**Resp**|Apnoea, and **suxamethonium apnoea**.
+|**Resp**|Apnoea, and **suxamethonium apnoea**. May cause **masseter spasm**. ↑ Salivation due to muscarinic effects.
 |**CVS**|Arrhythmia due to SA node stimulation, as well as secondary to hyperkalaemia. Bradycardia (due to muscarinic effects with second/large doses, or in children).
-|**CNS**|Increased ICP (due to contraction), increased IOP (by 10mmHg - this is **significant**) such that it is contraindicated in globe perforation.
+|**CNS**|↑ ICP (due to contraction), ↑ IOP (by 10mmHg - this is **significant**) such that it is contraindicated in globe perforation.
 |**Metabolic**|**Malignant Hyperthermia**.
 |**MSK**|Myalgias post depolarisation, particularly in young females. Prolonged blockade with pseudocholinesterase deficiency.
-|**Renal and Electrolyte**|Hyperkalaemia due to depolarisation causing K<sup>+</sup> efflux, increased in burns (>10%), paraplegia (first 6 months) and neuromuscular disorders including muscular dystrophy and myopathies (including **critical illness myopathy**).
-|**GIT**|Intragastric pressure increased by 10cmH<sub>2</sub>O.
+|**Renal and Electrolyte**|Hyperkalaemia (K<sup>+</sup> ↑ by ~0.5mmol.L<sup>-1</sup>) due to depolarisation causing K<sup>+</sup> efflux, ↑ in burns (>10%), paraplegia (first 6 months) and neuromuscular disorders including muscular dystrophy and myopathies (including **critical illness myopathy**).
+|**GIT**|Intragastric pressure ↑ by 10cmH<sub>2</sub>O, matched by ↑ in LoS pressure.
 |**Immunological**|Anaphylaxis - highest risk of all NMBs.
 
 ##Adverse Effects
