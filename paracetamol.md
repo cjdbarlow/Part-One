@@ -20,7 +20,7 @@ Paracetamol an analgesic and antipyretic which is typically classed as an NSAID,
 |**Dosing**|10-15mg.kg<sup>-1</sup> Q4H up to 90mg.kg<sup>-1</sup>.day<sup>-1</sup>
 |**Onset**|IV: 5 mins, peak at 40 mins <br> PO/PR: 40 mins, peak at 1 hour
 |**Absorption**|Rapid absorption (via small bowel, therefore proportional to gastric emptying), variable bioavailability (up to 90%) - greater by PR route
-|**Distribution**|Minimal protein binding and small V<sub>D</sub>: 0.5-1L.kg<sup>-1</sup>
+|**Distribution**|10% protein bound, small V<sub>D</sub>: 0.5-1L.kg<sup>-1</sup> (though larger than other NSAIDs)
 |**Metabolism**|Predominantly hepatic glucuronidation. However, 10% is metabolised to NAPQI by CYP2E1 which is hepatotoxic.
 |**Elimination**|Active secretion into renal tubules - consider dose reduction in renal impairment
 |**Resp**|May exacerbate analgesic asthma due to glutathione depletion
