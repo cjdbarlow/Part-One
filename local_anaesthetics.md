@@ -3,6 +3,7 @@
 * Local anaesthetic drugs deliver a use-dependent, temporary blockade of neuronal transmission
 * **Unionised** drug **passes through the cell membrane**, and then becomes **ionised intracellularly**
 * The ionised drug is then able to bind to the sodium channel, and prevent conduction of sodium and therefore generation of an action potential
+  * Local anaesthetics also display reduced affinity for K<sup>+</sup> and L-type Ca<sup>2+</sup> channels
 * An alternative suggested mechanism of action is the drug enters the cell membrane and mechanically distorts the channel
 
 
