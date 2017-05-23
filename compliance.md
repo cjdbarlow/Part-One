@@ -64,7 +64,7 @@ $$ C_S = {C_{Tot} \over FRC} $$
 
 ##Hysteresis
 * In general, hysteresis refers to any process where **the future state of a system is dependent on its current and previous state**
-* Specific to the lung ,it means the compliance of the lung is different in inspiration and expiration
+* Specific to the lung, it means the compliance of the lung is different in inspiration and expiration
 * There is hysteresis in both static and dynamic curves:
   * In dynamic compliance curves:  
   Airways resistance is a function of flow rate. Flow rate (therefore resistance) is maximal at the beginning of inspiration and end-expiration.
