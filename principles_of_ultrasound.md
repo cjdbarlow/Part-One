@@ -24,9 +24,9 @@ Sound travels through tissues at a **depth propotional to frequency**. At tissue
 **Attenuation** describes the loss of sound wave with increasing depth, and is a function of the above. It can be managed by increasing the **gain**, which is amplification of returned signal. **Time-gain compensation** refers to amplification of signals which have taken longer to return, thus amplifying signals returned from deep tissues.
 
 ##Modes
-**B-Mode** is the standard 2D ultrasound mode, and plots the measured amplitude of reflected ultrasound waves by the calculated depth from which they were reflected. 
+**B-Mode** (brightness mode) is the standard 2D ultrasound mode, and plots the measured amplitude of reflected ultrasound waves by the calculated depth from which they were reflected. 
 
-**M-Mode** reflects motion of the heart structures. 
+**M-Mode** (movement mode) selects a single vertical section of the image and displays changes over time (i.e. depth on the y-axis, and time on the x-axis).
 
 
 ##Doppler Effect
