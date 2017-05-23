@@ -33,7 +33,7 @@ Characteristics are related to chemical structure. These include:
     * Lipid solubility  
     Potency (and also toxicity) increases with greater lipid solubility.
     * Vasodilator properties  
-    In general, local anaesthetics cause vasodilation in low concentrations, and vasoconstriction at high concentrations (except cocaine, which causes vasoconstriction at all concentrations) 
+    In general, local anaesthetics cause vasodilation in low concentrations, and vasoconstriction at high concentrations (except cocaine, which causes vasoconstriction at all concentrations).
 * **Duration of action**  
 Duration of action is a function of:
   * Drug factors
