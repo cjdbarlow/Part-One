@@ -12,8 +12,17 @@ All local anaesthetics are weak bases consisting of:
 Action is dependent on blockade of the sodium channel. Two theories exist:
 * **Unionised** drug **passes through the cell membrane**, and then becomes **ionised intracellularly**
 * The ionised drug is then able to bind to the **open **sodium channel, and prevent conduction of sodium and therefore generation of an action potential
+  * Local anaesthetics also display reduced affinity for K<sup>+</sup> and L-type Ca<sup>2+</sup> channels
   * This theory explains use-dependent blockade, as sodium channels can only be blocked in their open state
 * An alternative suggested mechanism of action is the drug enters the cell membrane and mechanically distorts the channel, rendering it ineffective
+* Onset is inversely proportional to the size of the fibre  
+From fastest to slowest:
+  * Pain
+  * Temperature
+  * Touch
+  * Deep pressure
+  * Motor
+
 
 ##Key Characteristics of Local Anaethetics
 Characteristics are related to chemical structure. These include:
