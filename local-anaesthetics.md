@@ -27,11 +27,13 @@ From fastest to slowest:
 ##Key Characteristics of Local Anaethetics
 Characteristics are related to chemical structure. These include:
 * **Potency**  
-Potency is a function of:
-  * Lipid solubility  
-  Potency (and also toxicity) increases with greater lipid solubility.
-  * Vasodilator properties  
-  In general, local anaesthetics cause vasodilation in low concentrations, and vasoconstriction at high concentrations (except cocaine, which causes vasoconstriction at all concentrations)
+  * Potency is expressed with the minimum effective concentration of local anaesthetic (C<sub>m</sub>)  
+  This is the concentration of LA that results in complete block of a nerve fibre in 50% of subjects in standard conditions. More potent agents have a lower C<sub>m</sub>.
+  * Potency is a function of:
+    * Lipid solubility  
+    Potency (and also toxicity) increases with greater lipid solubility.
+    * Vasodilator properties  
+    In general, local anaesthetics cause vasodilation in low concentrations, and vasoconstriction at high concentrations (except cocaine, which causes vasoconstriction at all concentrations) 
 * **Duration of action**  
 Duration of action is a function of:
   * Drug factors
