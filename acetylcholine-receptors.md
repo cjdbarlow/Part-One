@@ -29,14 +29,15 @@ Acetylcholine is metabolised by acetylcholinesterase on the post-junctional memb
 
 
 
-##ACh Receptors
+##ACh Receptor Subtypes
 There are two types of ACh receptor:
 * **Nicotinic ACh receptors**
     * Ionotropic  
     Linked to an ion channel.
         * Non-specific - may allow Na<sup>+</sup>, K<sup>+</sup>, or Ca<sup>2+</sup> to cross
     * Consists of five subunits:
-        * Two α
+        * Two α  
+        Bind ACh.
         * One β
         * One δ
     * Located in:
@@ -44,6 +45,12 @@ There are two types of ACh receptor:
         * Preganglionic autonomic nervous system
         * Brain
     * Known as nicotinic because nicotine agonises this receptor
+    * Activation:
+        * 2 ACh molecules must bind to activate the receptor
+        * Once bound, receptor undergoes a conformational change which opens the central ion pore  
+        Permeability to Na<sup>+</sup> (and to a lesser extent, K<sup>+</sup> and Ca<sup>2+</sup>) increases, leading to depolarisation
+
+
 * **Muscarinic ACh receptors**  
     * Metabotropic  
     G-protein copuled.
