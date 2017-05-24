@@ -28,6 +28,8 @@ Chemical structure influences pharmacological behaviour:
 * Hydrophilic portion  
 Typically the tertiary amine.
   * Determines ionisation
+    * 3 bonds: Lipid soluble
+    * 4 bonds: Water soluble
 * Lipophilic portion  
 Typically aromatic ring.
   * Determines lipid solubility, and therefore potency, toxicity, and duration of action
