@@ -25,6 +25,12 @@ All local anaesthetics are weak bases consisting of:
 * An amide or ester link connecting the two
 
 Chemical structure influences pharmacological behaviour:
+* Hydrophilic portion  
+Typically the tertiary amine.
+  * Determines ionisation
+* Lipophilic portion  
+Typically aromatic ring.
+  * Determines lipid solubility, and therefore potency, toxicity, and duration of action
 * Ester vs. amide
   * Amides
     * Hepatically metabolised (hydroxylation and N-de-alkylation)  
@@ -37,8 +43,13 @@ Chemical structure influences pharmacological behaviour:
     Organ independent elimination.
     * Have a greater incidence of allergy  
     Due to the inactive metabolite PABA.
-
-
+* Amine group length
+  * Potency and toxicity increase as carbon-chain increases
+  * Toxicity (but not potency) continues to increase beyond 10 carbons
+* Isomerism  
+Alters behaviour:
+  * Levobupivacaine is less toxic
+  * R-ropivacaine is less potent and more toxic
 
 ##Key Characteristics of Local Anaethetics
 Characteristics are related to chemical structure. These include:
