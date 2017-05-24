@@ -3,11 +3,6 @@
 
 Local anaesthetic drugs create a use-dependent temporary blockade of neuronal transmission by blocking the voltage-gated sodium channel in the cell membrane, preventing depolarisation. 
 
-All local anaesthetics are weak bases consisting of:
-* A hydrophilic component
-* A lipophilic aromatic ring
-* An amide or ester link connecting the two
-
 ##Mechanism of Action
 Action is dependent on blockade of the sodium channel. Two theories exist:
 * **Unionised** drug **passes through the cell membrane**, and then becomes **ionised intracellularly**
@@ -22,6 +17,27 @@ From fastest to slowest:
   * Touch
   * Deep pressure
   * Motor
+
+##Chemical Structure of Local Anaesthetics
+All local anaesthetics are weak bases consisting of:
+* A hydrophilic component
+* A lipophilic aromatic ring
+* An amide or ester link connecting the two
+
+Chemical structure influences pharmacological behaviour:
+* Ester vs. amide
+  * Amides
+    * Hepatically metabolised (hydroxylation and N-de-alkylation)  
+    This is slower, therefore there is a **greater risk** of systemic toxicity.
+    * Stable in solution
+  * Esters
+    * Heat-sensitive  
+    Cannot be autoclaved.
+    * Rapidly hydrolysed in plasma  
+    Organ independent elimination.
+    * Have a greater incidence of allergy  
+    Due to the inactive metabolite PABA.
+
 
 
 ##Key Characteristics of Local Anaethetics
@@ -209,4 +225,6 @@ sup>.
 ##References
 Peck and Hill
 https://academic.oup.com/bjaed/article/15/3/136/279390/Local-anaesthetic-systemic-toxicity
+Petkov
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1693664/pdf/i0003-3006-53-3-98.pdf
 
