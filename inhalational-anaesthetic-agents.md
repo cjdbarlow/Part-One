@@ -259,18 +259,18 @@ Anaesthetic agents may alter the function of molecules within the CNS. These inc
 **Meyer-Overton Hypothesis**:
 * Potency of anaesthetics relates to their lipid solubility  
 * Anaesthetic molecules dissolve into CNS membranes, disrupting their effect
-
 * Flaws:
     * Not all lipid soluble drugs have general anaesthetic affects
     * Other factors disrupt cell membranes without causing anaesthesia
-    
+
+
 ** Volume expansion**, **pressure reversal**:
 * CNS cell membranes expand with general anaesthetic agents
 * Increased ambient pressure reverses general anaesthesia
-
 * Flaws:
     * Does not account for stero-selectivity of drug-receptor interactions  
     I.e. receptors select for one steroisomer over others.
+
 
 ###Structure-Activity Relationships of Inhaled Anaesthetics
 Different chemical and physical properties alter the effect of inhalational agents:
