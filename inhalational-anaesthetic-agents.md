@@ -4,10 +4,7 @@
 
 <!--></!-->
 
-> <p style="color:purple";>Describe the uptake, distribution and elimination of inhalational anaesthetic agents and the factors which influence induction and recovery from inhalational anaesthesia including the:
-- Concepts of partition coefficients, concentration effect and second gas effect
-- Relationships between inhaled and alveolar concentration
-- Significance of the distribution of cardiac output and tissue partition coefficients on uptake and distribution of volatile agents</p>
+> <p style="color:purple";>Describe the uptake, distribution and elimination of inhalational anaesthetic agents and the factors which influence induction and recovery from inhalational anaesthesia including the: <br>- Concepts of partition coefficients, concentration effect and second gas effect<br>- Relationships between inhaled and alveolar concentration<br>- Significance of the distribution of cardiac output and tissue partition coefficients on uptake and distribution of volatile agents</p>
 
  <!--></!-->
 
