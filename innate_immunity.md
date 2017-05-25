@@ -63,9 +63,6 @@ Cellular components of the innate immune system include:
 * **Mast cells**  
 Exist in loose connective tissue and mucosa, and contain many intracellular granules of heparin and histamine.
 
-* **Natural Killer cells**  
-Lymphocyte subtype active against viral and tumour cells.
-
 
 * **Leukocytes**  
     * Neutrophils (60% of all leukocytes)  
@@ -87,7 +84,14 @@ Lymphocyte subtype active against viral and tumour cells.
     * Basophils  
     Contain heparin and histamine.
     * Lymphocyte  
-    Subtyle of leukocyte important in adaptive immunity.
+    Subtype of leukocyte important in adaptive immunity. Include:
+        * **Natural Killer cells**  
+        Lymphocyte subtype active against viral and tumour cells.
+        * B cells
+        * T cells
+
+
+
 
 ---
 ##References
