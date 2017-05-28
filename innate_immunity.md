@@ -86,7 +86,7 @@ Exist in loose connective tissue and mucosa, and contain many intracellular gran
     * Lymphocyte  
     Subtype of leukocyte important in adaptive immunity. Include:
         * **Natural Killer cells**  
-        Lymphocyte subtype active against viral and tumour cells.
+        Active against viral and tumour cells.
         * B cells
         * T cells
 
