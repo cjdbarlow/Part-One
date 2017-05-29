@@ -50,6 +50,13 @@ Platelets are stored on an agitator which prevents clotting and ensures the plat
 * pH control  
 pH is kept between 6.2 to 7.8 to prevent degranulation.
 
+###Whole Blood
+Whole blood undergoes additional changes:
+* White cells become nonfunctional within 4-6 hours of collection, though antigenic properties remain
+* Platelets become non-functional within 48 hours of storage at 4°C
+* Factor levels decrease significantly after 21 days
+
+
 ##Blood Groups
 Blood groups refer to the expression of surface antigens by red blood cells, as well as any antibody in plasma. Blood groups can be divided into three types:
 * ABO

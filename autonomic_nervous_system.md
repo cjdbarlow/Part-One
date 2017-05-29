@@ -76,7 +76,7 @@ The trunk is subdivided into four parts:
       * GABA
       * Neurotensin
       
-There are thee exceptions to the above structure:
+There are three exceptions to the above structure:
 * The **adrenal gland** is a **modified sympathetic ganglion**. It is:
   * Directly innervated by preganglionic neurons releasing ACh
 * Sweat glands have muscarinic receptors, and are stimulated by ACh rather than noradrenaline
