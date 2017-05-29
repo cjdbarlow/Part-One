@@ -4,5 +4,53 @@
 
 > Explain the derived values from common methods of measurement of cardiac output (i.e. measures of vascular resistance)
 
+Cardiac output measurement can be performed:
+* Invasively
+    * Thermodilution
+    * TOE
+    * Arterial waveform analysis
+        * PiCCO
+        * Vigileo
+* Non-invasively
+    * TTE
+    * MRI
+    * Thoracic impedance
+
+##Thermodilution
+Thermodilution remains the gold standard of cardiac output measurement.
+
+This technique:
+* Requires a pulmonary artery catheter  
+Various different designs exist. For CO measurement, they require:
+    * A proximal port at the RA/SVC
+    * A temperature probe at the tip  
+    Typically a silicon oxide thermistor.
+    * A balloon at the tip  
+    To float it into position.
+    * A distal (PA) port is required for measuring PAP and the PCWP, but is not required for CO calculation
+* Uses the Fick Principle
+ 
+
+Method for intermittent cardiac output measurement:
+* A known volume of (typically dextrose) at a known temperature (classically cooled, but this is not required) is injected into the proximal port
+* The temperature of blood is measured at the tip  
+This produces a temperature-time curve.
+* The area under the curve can be used to calculate cardiac output, as per the modified Stewart-Hamilton Equation:  
+$$Q = {{V(T_B - T_I) \times k_1 \times k_2} \over {\int_{t_1}^{t_2} \Delta T dt}}$$, where:
+    * $$Q$$ = Cardiac output
+    * $$V$$ = Volume of injectate
+    * $$T_B$$ = Temperature of blood
+    * $$T_I$$ = Temperature of injectate
+    * $$k_1$$ = Density constant  
+    Relates to the specific heat and specific gravity of both injectate and blood.
+    * $$k_2$$ = Computation constant  
+    Accounts for catheter dead space and heat exchange during injection.
+    * $${\int_{t_1}^{t_2} \Delta T dt}$$ = Area under the change in temperature-time curve
+    
+
+---
+##References
+* Moise, S. F., Sinclair, C. J. and Scott, D. H. T. (2002), Pulmonary artery blood temperature and the measurement of cardiac output by thermodilution. Anaesthesia, 57: 562–566. doi:10.1046/j.1365-2044.2002.02513.x
+
 
 
