@@ -101,7 +101,11 @@ Parasympathetic innervation arises from the:
 * **Cranial nerves**  
 From CN III, VII, IX, and (mostly) X.
   * The vagus is the major cranial parasympathetic, innervating the:
-    * Heart and lungs via the pulmonary and cardiac plexuses
+    * Heart via the cardiac plexus
+      * The SA node is innervated by the right vagus
+      * The AV node is innervated by the left vagus  
+      The ventricles are also sparsely innervated from the left vagus.
+    * Lungs via the pulmonary plexus
     * Stomach, liver, spleen, and pancreas, and gut proximal to the splenic flexure via the gastric plexus.
 * **Hypogastric plexus**  
 Arises from S2-S4, and innervates the bladder, uterus, and gut distal to the splenic flexure.
