@@ -189,6 +189,7 @@
   * [Physiology of Vomiting](physiology_of_vomiting.md)
   * [Liver Physiology](functions_of_the_liver.md#id)
     * [Functions of the Liver](functions_of_the_liver.md)
+    * [Laboratory Assessment of Liver Function](laboratory-assessment-of-liver-function.md)
     * [Bile](bile.md)
 * [Haematological](erythrocytes.md#id)
   * [Erythrocytes](erythrocytes.md)
