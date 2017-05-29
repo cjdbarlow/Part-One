@@ -55,6 +55,9 @@ Cardiac output varies up to 10% with changes in intrathoracic pressure during re
 * Incorrect volume of injectate
     * Too much underestimates CO
     * Too little overestimates CO
+* Warm fluid  
+The closer the temperature of injectate is to blood, the greater degree of error introduced to the measurment.
+    * Colder injectate is more accurate, but carries the risk of inducing bradyarrhythmias
 * Poorly positioned PAC  
 The PAC must be positioned in West's Zone 3 for blood flow to occur past the tip, and for the measured temperature to be accurate.
 * Tricuspid regurgitation  
