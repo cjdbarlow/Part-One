@@ -118,7 +118,7 @@ Compartment models are not appropriate for describing the behaviours of all drug
 * Clearance is organ-independent
 * Elimination does not occur solely from the central compartment
 
-This instead use **AUC**, which is calculated by measuring the plasma concentration of a drug at different time intervals, and **plotting the area under the curve (AUC)**. This can be used to:
+These models use **AUC**, which is calculated by measuring the plasma concentration of a drug at different time intervals, and **plotting the area under the curve (AUC)**. This can be used to:
 * Determine clearance**  
 $$ Cl = {Dose \over AUC}$$
 * **Bioavailability**  
@@ -132,7 +132,7 @@ In **first-order** kinetics, a constant **proportion** of the drug in the body i
 
 ![First-order kinetics](http://i.imgur.com/4g4wkD7.png)[^4]
 
-* Most drugs are eliminated by first order kinetics, as the capacity of the elimination system exceeds the concentration of drug
+Most drugs are eliminated by first order kinetics, as the capacity of the elimination system exceeds the concentration of drug
 
 ###Zero-order kinetics
 In **zero-order** kinetics, a **constant amount of drug** is eliminated per unit time, independent of how much drug is in the body.[^5]
@@ -141,14 +141,9 @@ In **zero-order** kinetics, a **constant amount of drug** is eliminated per unit
 
 * **Zero order kinetics** occurs when there is saturation of enzyme systems  
 It is also known as **saturation kinetics** for this reason.
-
-
-> Phenytoin is the classic exam example, as it follows first order kinetics at lower doses, but zero-order kinetics at doses within the therapeutic range. This is clinically relevant as the narrow therapeutic index means that toxic levels may occur rapidly. Thus, small dosing adjustments are required. 
-
-<!-- -->
-
-> Ethanol also follows zero-order kinetics.  
-
+    * e.g. Phenytoin follows first order kinetics at lower doses, but zero-order kinetics at doses within the therapeutic range  
+    This is clinically relevant as the narrow therapeutic index means that toxic levels may occur rapidly with a small increase in dose.
+    * e.g. Ethanol also follows zero-order kinetics within the "therapeutic range", as it is a very weak (doses are in grams) positive allosteric modulator of the GABA<sub>A</sub> receptor
 
 There are two concerns with zero-order kinetics:  
 * Plasma concentrations will **rapidly increase** with only modest dose increase
