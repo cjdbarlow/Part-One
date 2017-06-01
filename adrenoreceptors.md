@@ -9,7 +9,7 @@ Adrenoreceptors are classified by their varying sensitivity to different catecho
 * Alpha receptors have different subunits and mechanisms of action
 * **All beta receptors** are:
   * G<sub>s</sub> coupled
-  * Activate adenylate cyclase increasing cAMP
+  * Activate adenylate cyclase increasing cAMP, leading to increased Na<sup+</sup>/K<sup+</sup> ATPase activity and hyperpolarisation
 
 
 ##Adrenoreceptor Subtypes
