@@ -36,7 +36,7 @@ Various different designs exist. For CO measurement, they require:
 * The temperature of blood is measured at the tip  
 This produces a temperature-time curve.
 * The area under the curve can be used to calculate cardiac output, as per the modified Stewart-Hamilton Equation:  
-$$Q = {{V(T_B - T_I) k_1 k_2} \over {\int_{t_1}^{t_2} \Delta T dt}}$$, where:
+$$Q = {V(T_B - T_I) k_1 k_2 \over \int_{t_1}^{t_2} \Delta T dt}$$, where:
     * $$Q$$ = Cardiac output
     * $$V$$ = Volume of injectate
     * $$T_B$$ = Temperature of blood
