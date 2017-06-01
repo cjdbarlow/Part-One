@@ -29,8 +29,26 @@
     * Immune mediated
     * Occurs within 4-14 days
     * Is associated with serious thrombosis and high mortality (typically from PE) and morbidity (from CVA nad limb ischaemia)
+    
+##Protamine
+Protamine is:
+* A basic cationic protein derived from salmon sperm which combines with the acidic anionic heparin to form a stable, inactive salt in solution
+* Cleared more rapidly than heparin  
+Rebound anticoagulation may occur.
+
+Adverse effects from protamine include:
+* Histamine release
+    * Bronchospasm
+    * Hypotension
+* Pulmonary hypertension  
+This can be profound and result in a dramatic increase in RV afterload and EDV, with a corresponding fall in LV preload (interventricular interdependence), leading to dramatic hypotension and arrest.
+    * Mediated by thromboxane
+* Anticoagulant
+
 
 ---
 ##References
 Peck and Hill
 Smith, Scarth, Sasada
+ANZCA August/September 2011
+Petkov
