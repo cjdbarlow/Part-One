@@ -101,8 +101,9 @@ Given by the equation $$C = Ae^{-\alpha t} + Be^{-\beta t}$$, where:
 Used to calculate distribution half-life.
 * $$B$$ is the y-intercept of the elimination exponent  
 Used to calculate elimination half-life.
-* $$\alpha$$ is the rate constant for distribution
-* $$\beta$$ is the rate constant for elimination
+* $$\alpha$$ is the rate constant for distribution  
+The value of $$\alpha$$ is dependent on the ratio of rate constants for distribution and redistribution (i.e. $$k_{12} \over k_{21}$$). If distribution greatly exceeds redistribution, the gradient of $$\alpha$$ will be very steep and plasma concentration will fall rapidly after administration.
+* $$\beta$$ is the rate constant for elimination  
 
 
 ####Effect Site
