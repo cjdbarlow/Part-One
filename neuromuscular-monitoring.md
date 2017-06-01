@@ -47,7 +47,7 @@ Not all muscle groups are affected equally by neuromuscular blockade.
 ###Stimulation Patterns
 There are five common stimulation patterns:
 * **Train of Four**  
-Four identical 2Hz stimuli 0.5s apart.
+Four single twitches (0.1ms) delivered at 2Hz (i.e. 1.5s for all 4).
     * Number of observed twitches gives an indication of receptor occupancy  
     With increasing blockade, the amplitude and number of observed twitches decreases.
         * **Fade** is the reduction of twitch height with repeated stimuli during a partial neuromuscular block  
@@ -88,6 +88,7 @@ Two 0.2ms 50Hz (tetanic) stimuli are applied 750ms apart.
     * Two identical contractions occur in normal muscle
     * Amplitude of the second burst is reduced in partially paralysed muscle  
     DB ratio is similar to the ToF ratio, but is easier to assess clinically.
+    * A ratio > 0.9 is required for adequate reversal
     
 
 * **Single twitch**  
