@@ -56,11 +56,11 @@ $$ Input = Output \\ C_i.I = C_{ss}.Cl \\ C_{ss} = {C_i.I \over Cl}$$
 
 The concentration of drug can therefore be determined by the amount infused and the clearance.
 
-###Multiple compartment models
-* Multiple compartment better represent experimental data than single compartment models
-  * Three-compartment models are typically used, as additional compartments typically offer no extra fidelity but are mathematically more complex
-    * A three-compartment model *can* conceptualised as a plasma (or central) compartment, a well-perfused compartment, and a poorly-perfused compartment
-      * This doesn't mean that they *should* be thought of in this way - they are a mathematical technique used to calculate plasma concentration at a given time
+###Multiple Compartment Models
+* Models with multiple compartments have a better fit with experimental data than single compartment models
+* Three-compartment models are typically used, as additional compartments typically offer no extra fidelity but are mathematically more complex
+* A three-compartment model *can* conceptualised as a plasma (or central) compartment, a well-perfused compartment, and a poorly-perfused compartment  
+This doesn't mean that they *should* be thought of in this way - they are a mathematical technique used to calculate plasma concentration at a given time.
 ![Three-compartment model](http://i.imgur.com/jfQ172d.png)[^3]
 
 * Plasma concentration in multicompartment model is predicted through the net effect of several negative exponential equations.
