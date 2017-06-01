@@ -95,14 +95,14 @@ Consists of two phases:
             * Redistribution into plasma
 
 BI EXPONENTIAL ELIMINATION GRAPH PAGE 57 PETKOV
-Given by the equation $$C = Ae^{-\alpha t} + Be^{-\Beta t}$$, where:
+Given by the equation $$C = Ae^{-\alpha t} + Be^{-\beta t}$$, where:
 * $$C$$ is the concentration of drug in plasma
 * $$A$$ is the y-intercept of the distribution exponent  
 Used to calculate distribution half-life.
 * $$B$$ is the y-intercept of the elimination exponent  
 Used to calculate elimination half-life.
 * $$\alpha$$ is the rate constant for distribution
-* $$\Beta$$ is the rate constant for elimination
+* $$\beta$$ is the rate constant for elimination
 
 
 ####Effect Site
