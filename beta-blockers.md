@@ -1,5 +1,20 @@
 # Beta-Blockers
 
+β-blockers are competitive (often highly selective) antagonists of β-adrenoreceptors. They are subclassified into into selective and non-selective agents:
+* Selective (β<sub>1</sub> antagonism) (BEAM)
+    * Bisoprolol
+    * Esmolol
+    * Atenolol
+    * Metoprolol
+* Non-selective (β<sub>1</sub> and β<sub>2</sub> antagonism)
+    * Propranolol
+    * Sotalol
+    * Timolol
+* Non-selective (β & α antagonism)
+    * Carvedilol
+    * Labetaolol
+
+
 ##Indications
 * Cardio
     * Angina
@@ -23,24 +38,7 @@
     * Anxiety
     * Migraine prophylaxis
 
-##Subclasses
-β-blockers are subdivided into selective and non-selective:
-* Selective (β<sub>1</sub> antagonism) (BEAM)
-    * Bisoprolol
-    * Esmolol
-    * Atenolol
-    * Metoprolol
 
-
-* Non-selective (β<sub>1</sub> and β<sub>2</sub> antagonism)
-    * Propranolol
-    * Sotalol
-    * Timolol
-
-
-* Non-selective (β & α antagonism)
-    * Carvedilol
-    * Labetaolol
 
 ##Common Features
 |Property|Action|
