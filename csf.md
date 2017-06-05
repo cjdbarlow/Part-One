@@ -32,7 +32,8 @@ Formation is relatively constant within normal parameters (altering the rate of 
 |Cl<sup>-</sup>|↑|124 mmol.L<sup>-1</sup>|
 |K<sup>+</sup>|↓|2.9 mmol.L<sup>-1</sup>|
 |Gluc|↓|3.7 mmol.L<sup>-1</sup>|
-|pH|↓|7.32|
+|pH|↓|7.33|
+|PCO<sub>2</sub>|↑|50mmHg|
 |Protein|↓|Variable*|
 |Ca<sup>2+</sup>|↓|1.12 mmol.L<sup>-1</sup>|
 |Mg<sup>2+</sup>|↑|1.2 mmol.L<sup>-1</sup>|
