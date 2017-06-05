@@ -72,7 +72,7 @@ PICTURE OF FOURIER ANALYSIS
 
 ###Damping
 A pressure tranduction system should be adequately damped:
-* An **optimally** damped waveform has a damping of **0.63**. It demonstrates:
+* An **optimally** damped waveform has a damping of **0.64**. It demonstrates:
   * A rapid return to baseline following a **step-change**, with **one overshoot and one undershoot**
 * A **critically damped** waveform has a damping cofficient of **1**. It demonstrates:
   * The most rapid return to baseline possible following a step-change **without overshooting**
