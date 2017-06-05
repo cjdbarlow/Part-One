@@ -85,7 +85,7 @@ Muscle is highly metabolically active and has a large O<sub>2</sub> demand. Myog
 * Contains one globin chain and one haeme group, and so **does not exhibit cooperative binding**. The myoglobin dissociation curve therefore has a **rapid upstroke** and an **early plateau**.
 * Has a **P<sub>50</sub> of 2.7mmHg**  
 This allows it to take up oxygen from haemoglobin (as the partial pressure gradient favours diffusion into the cell), and unload it into the cell (so it can actually be used).
-* Is located only in skeletal muscle
+* Is found in skeletal and cardiac muscle
 
 ---
 ##References

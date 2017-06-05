@@ -72,7 +72,8 @@ Pacemaker cells are responsible for automaticity and rhythmicity of the heart. T
     * SA node by right vagus  
     There is continual PNS input ("Vagal tone") via inhibitory ACh GPCR, reducing the SA node from its intrinsic rate of 90-120bpm to a more sedate 60-100bpm.
     * AV node by left vagus
-    * Atria is innervated by parasympathetic neurons, ventricle is not. Therefore **PNS stimulation has little effect on inotropy, but does affect chronotropy**.
+    * Atria is innervated by parasympathetic neurons, whilst the ventricle is only minimally innervated  
+    Therefore **PNS stimulation has little effect on inotropy, but does affect chronotropy*.
 
 
 * **Sympathetic Innervation**  
