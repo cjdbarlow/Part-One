@@ -15,14 +15,17 @@ INSERT PACEMAKER GRAPH https://icuprimaryprep.files.wordpress.com/2012/05/electr
 
 ###Phases of the Pacemaker Potential
 * **Phase 0**  
-  At the threshold potential of **-40mV**, voltage-gated L-type Ca<sup>2+</sup> channels open, causing an inward movement of ions. The membrane potential peaks at **20mV**.
+  At the threshold potential of **-40mV**, voltage-gated L-type (long-lasting) Ca<sup>2+</sup> channels open, causing an inward movement of ions. The membrane potential peaks at **20mV**.
 * **Phase 3**  
   Ca<sup>2+</sup> channels close and K<sup>+</sup> channels open, leading to repolarisation. The nadir is called the **maximum diastolic potential** and is -**65mV**.
 * **Phase 4**  
-  The funny curent is a mixed Na<sup>+</sup>/K<sup>+</sup> current which gradually depolarises the cell.
-    * Sympathetic stimulation increases the funny current, increasing the rate of depolarisation.
-    * Parasympathetic stimulation increases K<sup>+</sup> permeability, hyperpolarising the cell and flattens the gradient of phase 4.
-
+  Phase 4 consists of:
+    * The funny current  
+    A steady influx of Na<sup>+</sup>/K<sup>+</sup> which gradually depolarises the cell.
+      * Sympathetic stimulation increases the funny current, increasing the rate of depolarisation.
+      * Parasympathetic stimulation increases K<sup>+</sup> permeability, hyperpolarising the cell and flattens the gradient of phase 4.
+    * Calcium current
+    In phase 4, this is the transient calcium current, driven by T-type calcium channels. They open when the membrane potential reaches ~-50mV, also causing depolarisation.
 
 ##Ventricular Action Potential
 To prevent tetanic contraction (which would be bad) ventricular muscle has a long plateau prior to repolarisation, which lengthens the absolute refractory period to 250ms. The relative refractory period is 50ms.
@@ -67,7 +70,7 @@ Pacemaker cells are responsible for automaticity and rhythmicity of the heart. T
 ##Autonomic Control
 * **Parasympathetic Innervation**  
     * SA node by right vagus  
-    There is continual PNS input ("Vagal tone") via inhibitory ACh GPCR, reducing the SA node from its intrinsic rate of 90-120bpm.
+    There is continual PNS input ("Vagal tone") via inhibitory ACh GPCR, reducing the SA node from its intrinsic rate of 90-120bpm to a more sedate 60-100bpm.
     * AV node by left vagus
     * Atria is innervated by parasympathetic neurons, ventricle is not. Therefore **PNS stimulation has little effect on inotropy, but does affect chronotropy**.
 
