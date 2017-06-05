@@ -1,5 +1,27 @@
 # Anaerobic Metabolism
+> Describe the consequences of anaerobic metabolism and ketone production
 
+##Lactate
+The **Embden-Meyerhof** pathway:
+* Describes the conversion of glucose to pyruvate (and two ATP)
+* Does not consume O<sub>2</sub> or produce CO<sub>2</sub>  
+Therefore it occurs in both anaerobic and aerobic conditions.
+* Consumes two NAD<sup>+</sup> and produces two NADH
+
+In anaerobic conditions (in the erythrocyte, and in the setting of cellular hypoxia):
+* There is no oxygen available to allow further ATP production via the electron transport chain  
+There is also no regeneration of NAD<sup>+</sup> in the ETC.
+* In order for glycolysis to continue, NAD<sup>+</sup> is regenerated via production of lactate  
+$$Pyruvate + NADH  \rightarrow Lactate + NAD^+$$
+
+About 1400mmol of lactate is produced per day. Lactate is either:
+* Oxidised in the cell  
+This requires restoration of NAD<sup>+</sup>, e.g. resolution of cellular hypoxia.
+* Circulated to the liver  
+Lactate is then:
+    * Oxidised to pyruvate
+    * Converted to glucose  
+    This process is known as the **Cori cycle**.
 
 ##Ketones
 β-oxidation of fatty acids in the liver produces acetyl CoA, which usually enters the citric acid cycle and produces ATP. When large amounts of acetyl CoA are produced, they may instead condense to form **acetoacetate**, which can then be reduced to **β-hydroxybutyrate**. These substances are known as ketones.
