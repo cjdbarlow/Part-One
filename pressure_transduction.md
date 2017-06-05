@@ -92,9 +92,8 @@ DAMPING GRAPH
 Dynamic response can be tested by inducing a **step-change** in the system, which allows calculation of both the natural frequency and the damping coefficient. Clinically, this is performed by doing a **fast-flush test**.
 
 * Fast flush valve is opened during diastolic runoff period (minimises systemic interference)
-* Pressure artifact is examined
-  * The **distance between** oscillations gives the natural frequency  
-  This should be equal as it is the natural frequency of the measurement system.
+* The pressure wave produced indicates the natural frequency and damping coefficient of the system:
+  * The **distance between** successive oscillations should be identical and equal to the natural frequency of the system
   * The **ratio of amplitudes** of successive oscillations gives the damping coefficient
 
 ###Optimising Dynamic Response
@@ -110,3 +109,4 @@ Introducing an air bubble will increase damping (generally good, since most syst
 Brandis
 Measurement book thing
 Mark Langley lectures
+http://web.squ.edu.om/med-Lib/MED_CD/E_CDs/anesthesia/site/content/v03/030264r00.HTM
