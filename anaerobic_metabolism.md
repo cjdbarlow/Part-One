@@ -33,3 +33,4 @@ Production of ketones is accelerated by glucagon and adrenaline.
 ---
 ##References
 Power and Kam
+ANZCA August/September 2011
