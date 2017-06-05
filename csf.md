@@ -6,6 +6,8 @@ CSF is a **transcellular** fluid in the ventricles and subarachnoid space. ~150m
 ##Functions
 * **Mechanical Protection**  
   Due to its low specific gravity, CSF reduces the effective weight of the brain (by a factor of 30) and therefore reduces trauma caused by the acceleration and deceleration of the brain.
+* **Buffering of ICP**  
+CSF can be displaced to the spinal subarachnoid and have its rate of reabsorption increased in order to offset an increase in ICP by an increase in volume of blood or brain.
 * **Stable Extracellular Environment**  
   Neurons are sensitive to ionic changes in the extracellular environment. Ionic concentrations in CSF are tightly controlled, which ensures stable neuronal activity. Toxins are actively removed from CSF.
 * **pH Regulation**  
