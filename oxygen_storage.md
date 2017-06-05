@@ -82,7 +82,7 @@ Note that pulse oximetry doesn't measure either of these and is dependent on the
 
 ###Myoglobin
 Muscle is highly metabolically active and has a large O<sub>2</sub> demand. Myoglobin serves as an O<sub>2</sub> store for muscle. It is similar to Hb in that it is a large O<sub>2</sub>-binding iron-containing protein myoglobin, and is different because it:
-* Contains one globin chain and one haeme group, and so **does not exhibit cooperative binding**. The myoglobin dissociation curve therefore has a **rapid upstroke** and an **early plateau**.
+* Contains one globin chain and one haeme group (binding one O<sub>2</sub> molecule), and so **does not exhibit cooperative binding**. The myoglobin dissociation curve therefore has a **rapid upstroke** and an **early plateau**.
 * Has a **P<sub>50</sub> of 2.7mmHg**  
 This allows it to take up oxygen from haemoglobin (as the partial pressure gradient favours diffusion into the cell), and unload it into the cell (so it can actually be used).
 * Is found in skeletal and cardiac muscle
