@@ -49,7 +49,7 @@
 |Property|Fentanyl|Alfentanil|Remifentanil|
 |--|--|
 |**Receptor**|MOP|MOP|MOP|
-|**Route of Administration**|SC/IM/IV/Epidural/Intrathecal/Transdermal|IV|IV|
+|**Route of Administration**|SC/IM/IV/Epidural/Intrathecal/Transdermal|IV|IV (contains glycine, so cannot be administered intrathecally)|
 |**pKa**|8.4, < 10% unionised at pH 7.4|6.5, 90% unionised at pH 7.4 conferring rapid onset|7.3 means 58% unionised at physiologic pH.|
 |**Absorption**|Rapid onset of action (< 30s, peak at 5min) due to lipid solubility (600x that of morphine).|90x more lipid soluble than morphine, but more rapid onset than fentanyl. This is due to: <br>1. Low pKa means a greater proportion is unionised at physiological pH. <br> 2. Lower potency of alfentanil compared to fentanyl means a greater dose is required (Bowman's Principle)|20x more lipid soluble than morphine.|
 |**Distribution**|600x as lipid soluble as morphine conferring a larger V<sub>D</sub> (4L.kg<sup>-1</sup>). 85% protein bound.|90x as lipid soluble as morphine, small V<sub>D</sub> of 0.6L.kg<sup>-1</sup>. 90% protein bound|20x as lipid soluble as morphine, very small V<sub>D</sub> of 0.4L.kg<sup>-1</sup>. 70% protein bound. CSHT is constant due to rapid metabolism. |
