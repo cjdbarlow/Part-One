@@ -60,7 +60,7 @@ The **clinical effect** of an agent is **dependent** on its **partial pressure *
     i.e. 2% sevoflurane at 0.5atm is ≃ 1kPa of sevoflurane.
 
 MAC is:
-* A measure of potency  
+* A measure of potency (i.e. the EC<sub>50</sub> of the agent, where the outcome is movement)  
 The MAC of an agent is inversely proportional to potency; i.e. more potent agents require smaller alveolar concentrations to produce anaesthesia.
     * This gives rise to the **Meyer-Overton hypothesis**, which suggests that anaesthesia requires a sufficient number of molecules to dissolve into the neuronal cell membrane.
         * If this was true, the product of the oil:gas partition coefficient and MAC would be constant, which is not the case.
@@ -68,6 +68,7 @@ The MAC of an agent is inversely proportional to potency; i.e. more potent agent
 The MACs of different agents used simultaneously are aditive.
 * Normally-distributed  
 Not all patients will be unresponsive at 1 MAC.
+    * The standard deviation is **0.1**, so 95% of patients will not move in response to a stimulus at 1.2 MAC
 * Estimated clinically using **end-tidal** gas measurement  
 MAC is not based on arterial partial pressure (F<sub>a</sub>) of agent. 
     * This is an important difference, because at steady-state, <strong>F<sub>a</sub> ≠ F<sub>A</sub></strong>  
@@ -80,7 +81,14 @@ MAC is not based on arterial partial pressure (F<sub>a</sub>) of agent.
         * This means that, **at steady-state**, MAC is an accurate measure of 
 * One of several related terms:
     * MAC awake  
-    Typically 1/3<sup>rd</sup> of MAC for most agents
+    Concentration required to prevent response to a verbal stimuli in **absence of noxious stimuli**.  
+        * Typically ~1/3<sup>rd</sup> of MAC for most agents (sevoflurane, isoflurane, desflurane)
+        * Notably higher for nitrous oxide (MAC-awake ~2/3<sup>rds</sup> of MAC)
+        * MAC-awake is typically less than MAC-asleep as:
+            * Hysteresis between alveolar and effect site concentrations  
+            During induction, alveolar concentration is higher than effect site concentration, and so overestimates effect. During wash out, alveolar concentration is less than effect site concentration, and the reverse effect occurs.
+            * "Neural inertia"  
+            Intrinsic resistance of nerve cells to a change in their state.
     * MAC-BAR  
     Minimum alveolar concentration required to **b**lock **a**drenergic **response**, i.e. to prevent a rise in HR or BP following skin incision.
     * MAC<sub>95</sub>  
@@ -91,7 +99,7 @@ MAC is not based on arterial partial pressure (F<sub>a</sub>) of agent.
 ####Factors Affecting MAC
 |Decreases MAC|Increases MAC|
 |---|---|
-|Age (10%/10 years ↑) and neonates|Youth
+|Age (~6%/10 years ↑) and neonates|Youth
 |Hypothermia|Hyperthermia|
 |Hypocapnoea|Hypercapnoea|
 |Hyponatraemia|Hypernatraemia|
@@ -344,6 +352,7 @@ Dr. Podcast
 Millers
 https://www.ncbi.nlm.nih.gov/pubmed/11429373
 Inhaled Anaesthetics and nitrous oxide: Complexities overlooked: things may not be what they seem
+Minimum alveolar concentration: ongoing relevance and clinical utility.
 
 
 

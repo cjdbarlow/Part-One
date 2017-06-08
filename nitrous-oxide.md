@@ -14,7 +14,7 @@
 |**Critical Temperature/Pressure**|36.5°C / 72 bar| *Pseudo*critical temperature of **-7°C**, below which it will separate into **liquid** 50% N<sub>2</sub>O (with some dissolved O<sub>2</sub>), and gaseous O<sub>2</sub>. This is most likely to occur at 117 bar, and can lead to delivery of a hypoxic mixture. <br><br> Delivery of a hypoxic mix is prevented by: storing cylinders horizontally (↑ area for diffusion), at temperatures >5°C, and using a dip tube so that liquid 50% N<sub>2</sub>O is used before the gaseous mixture
 |**Blood:gas coefficient**|0.47||
 |**Oil:gas coefficient**|1.4||
-|**MAC**|105||
+|**MAC**|105 (MAC awake 68)||
 |**Mechanism of Action**|- Stimulates dynorphin release (acts at KOP receptor) <br>- Positive allosteric modulator at GABA<sub>A</sub> receptor<br>- NMDA antagonist||
 |**Metabolism**|< 0.01% hepatic reduction.||
 |**Resp**|Diffusion hypoxia due to second gas effect. Small ↓ in V<sub>T</sub>, ↑ in RR such that MV is unchanged.||

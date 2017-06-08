@@ -40,7 +40,7 @@ Temperature sensors are **central** and **peripheral**, whilst **regulation** oc
 ###Central sensation
 Central temperature sensors exist in abdomial viscera, spinal cord, hypothalamus, and brainstem. The area with greatest effect is the **anterior hypothalamus**, cells of which respond to both increased and decreased temperatures by **altering their rate of depolarisation**, eliciting an array of neuronal and hormonal responses.
 
-The **interthreshold range** - the range of core temperatures not triggering a response, - is only 0.2 to 0.4°C.
+The **interthreshold range** - the range of core temperatures not triggering a response - is only 0.2 to 0.4°C.
 
 ###Peripheral sensation
 Peripheral temperature sensors are **free nerve endings** (C-fibres) and may be **either cold or warm**. Both are extremely sensitive, and alter their rates of firing by orders of magnitude in response to temperature change.
