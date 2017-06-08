@@ -81,8 +81,25 @@ Temperature sensation runs from cutaneous receptors via the dorsal column and me
       * Interscapula
       * Suprarenal
 
+##Effect of Anaesthesia
+General anaesthesia causes a 1-3°C drop in core body temperature, which occurs in three phases:
+*  Rapid reduction  
+Core temperature falls by 1-1.5°C in the first 30 minutes.
+  * Predominantly due to vasodilation, in turn due to:  
+    * Reduction in SVR, with generalised vasodilation and increased skin blood flow
+    * Impairs thermoregulatory vasoconstriction
+* Gradual reduction  
+Further drop in core temperature of 1°C over following 2-3 hours.  
+  * Due to heat loss exceeding heat production
+* Plateau  
+Once core body temperature falls far enough, thermoregulatory responses are activated and further heat loss is attenuated by increased metabolic heat production.
+
+Neuraxial anaesthesia:
+* Hypothermia is less extreme as thermoregulation is only affected in areas covered by the blockade
+* Plateau does not occur as vasoconstrictive responses are inhibited by the blockade 
 
 ##References
 1. Auerbach. Wilderness Medicine. Sixth Edition. Chapter 4: Thermoregulation.
 2. Power and Kam.
 3. https://primarysaqs.files.wordpress.com/2009/12/2008a10-define-tmz-briefly-explain-how-the-body-regulates-temp-when-the-ambient-temp-exceeds-the-tmz.pdf
+Thermoregulation, mild perioperative hypothermia and postanaesthetic shivering.
