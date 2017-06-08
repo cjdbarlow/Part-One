@@ -27,8 +27,8 @@ DIAGRAM PAGE 167 PECK AND HILL
 ###Drug Factors
 |Drugs|Effect|Mechanism|
 |-----|--|
-|Frusemide|Potentiates blockade at low dose, reduces blockade at high dose|Inhibits protein kinases at low dose, inhibits PDE at high doses which increases ACh release
-|Inhalational anaesthetics|Potentiates blockade|Stabilise post-junctional membrane
+|Frusemide|Potentiates blockade at low dose, reduces blockade at high dose|Inhibits protein kinases (reducing AMP/ATP synthesis) at low dose, inhibits PDE at high doses which increases ACh release
+|Inhalational anaesthetics|Potentiates blockade|Stabilise post-junctional membrane, blockade of presynaptic ACh receptors
 |Antibiotics|Potentiate blockade|Variable. Aminoglycosides and tetracycles prolong blockade
 |Local anaesthetics|Potentiate blockade|Reduce ACh release and stabilise post-junctional membrane
 |Anticholinesterases|Reduces blockade|Increase ACH levels at the NMJ by decreasing breakdown
@@ -52,3 +52,4 @@ DIAGRAM PAGE 167 PECK AND HILL
 http://www.anesthesiologynews.com/download/ANSE07_NeuroblockERWM.pdf
 http://www.icuadelaide.com.au/files/primary/pharmacology/neuromuscular.pdf
 http://austinpublishinggroup.com/anesthesia-analgesia/fulltext/ajaa-v2-id1030.php
+ANZCA February/April 2011
