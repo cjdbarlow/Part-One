@@ -1,5 +1,5 @@
 # Barbiturates
-Thiopentone acts at GABA<sub>A</sub> receptors (at a separate site to benzodiazepines) in the CNS, causing:
+Thiopentone is a positive allosteric modulator at GABA<sub>A</sub> receptors (at a separate site to benzodiazepines) in the CNS, causing:
 * Decreased rate of dissociation of GABA  
 Increases the duration of channel opening, causing effective hyperpolarisation due to increased Cl<sup>-</sup> conductance.
 * Direct activation of the channel at higher doses  
