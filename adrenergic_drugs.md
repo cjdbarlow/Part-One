@@ -26,7 +26,7 @@ Adrenergic drugs:
 |**Elimination**|Pulmonary uptake of up to 25%. Urinary excretion of metabolites| Urinary excretion of metabolites|Renal of metabolites, t<sub>1/2</sub>β 2-3 hours||50% unchanged in urine 
 |**Mechanism of action** |α>>β|β>α at lower doses. At high doses α<sub>1</sub> effects dominate.|Direct α<sub>1</sub>|Direct α<sub>1</sub> |↑ NA release (indirect α<sub>1</sub>) and direct α and β agonism|
 |**Respiratory**|↑ MV, bronchodilation|↑ MV, bronchodilation|||Bronchodilation
-|**CVS**|↑ SVR, ↑ Myocardial O<sub>2</sub> consumption, ↑ Coronary flow.|↑ Inotropy, ↑ HR, ↑ SVR and PVR, ↑ BP, ↑ CO, ↑ myocardial O<sub>2</sub> consumption. Coronary vasodilation. Arrythmogenic.|↑ SVR and BP, potential reflex bradycardia. Not arrythmogenic.|↑ SVR/PVR, reflex bradycardia. Indirect ↑ in coronary flow.| Direct ↑ in HR, BP, and CO. Arrhythmogenic.|
+|**CVS**|↑ SVR, ↑ Myocardial O<sub>2</sub> consumption, ↑ Coronary flow.|↑ Inotropy, ↑ HR, ↑ SVR and PVR, ↑ BP, ↑ CO, ↑ myocardial O<sub>2</sub> consumption. Coronary vasodilation. Arrythmogenic.|↑ SVR and BP, potential reflex bradycardia. Not arrythmogenic.|↑ SVR/PVR, reflex bradycardia. Indirect ↑ in coronary flow.|Direct and indirect (via NA release) ↑ in HR, BP, and CO. Arrhythmogenic.|
 |**CNS**||↑ Pain threshold, ↑ MAC||| ↑ MAC, mydriasis.
 |**MSK**|Necrosis with extravasation|Necrosis with extravasation||||
 |**Renal**|↓ RBF|↓ RBF and ↑ in sphincter tone|↓ RBF|↓ RBF|↓ RBF

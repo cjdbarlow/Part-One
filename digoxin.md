@@ -27,7 +27,7 @@ It has a direct and indirect **mechanism of action**:
 |Interaction|Drug|
 |--|--|
 |**Increased level**|Amiodarone, captopril erythromycin, carbenoxolone, verapamil|
-|**Decreased level**|Antacids, cholestyramine, phneytoin, metoclopramide|
+|**Decreased level**|Antacids, cholestyramine, phenytoin, metoclopramide|
 
 ##References
 Peck and Hill

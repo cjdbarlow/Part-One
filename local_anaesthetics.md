@@ -44,6 +44,18 @@
 |**CC/CNS ratio**|7|3|5|||
 |**Other**||Most toxic of LA agents as it takes longer to dissociate from the myocardial Na<sup>+</sup> channel. **Levobupivacaine** is less cardiotoxic the racemic mixture, possibly as it has more intrinsic vasoconstrictive properties.||May cause ↑ BP, ↑ HR, coronary vasoconstriction, myocardial depression, VF, ↑ temperature due to ↑ SNS activation
 
+###Lignocaine Toxicity
+|Serum concentration (µg.ml<sup>-1</sup>)|Phase|Effect|
+|--|--|
+|2|Safe|Antiarrhythmic. May begin to have lightheadedness, circumoral tingling, numbness|
+|5|Excitatory|Dysarthria|
+|8|Excitatory|Visual changes|
+|10|Excitatory|Seizures|
+|12|Depressive|Loss of consciousness|
+|20|Depressive|Respiratory depression|
+|25|Depressive|CVS depression|
+
+
 ##Pharmaceutics of Topical Local Anaesthetics
 
 Effect of topical local anaesthetics is governed by **Fick's Law**.
