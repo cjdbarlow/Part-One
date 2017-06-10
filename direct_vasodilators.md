@@ -28,7 +28,7 @@ Nitrate toxicity can be related to:
 
 ###Cyanide Toxicity
 Cyanide toxicity occurs only with SNP, as CN<sup>-</sup> is produced as a byproduct of metabolism.
-* **Kinetics**
+* **Kinetics**  
 	* Rapid cellular uptake
 	* Small V<sub>D</sub>
 	* Hepatically metabolised to **thiocyanate**, using thiosulfate as a substrate
