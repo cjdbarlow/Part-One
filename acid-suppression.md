@@ -1,6 +1,6 @@
 #Acid Suppression
 
-|Property|Non-particulate Antacids|Particulate Antacids|Proton Pump Inhibitors|H<sub>2</sub> receptor antagonists|
+|Property|Non-Particulate Antacids|Particulate Antacids|Proton Pump Inhibitors|H<sub>2</sub> receptor antagonists|
 |---|---|
 |**Example**|Sodium citrate|Aluminium Hydroxide/Calcium carbonate|Pantoprazole|Ranitidine
 |**Uses**|Aspiration prophylaxis|Aspiration prophylaxis|Aspiration prophylaxis, GORD, peptic ulceration|Aspiration prophylaxis, GORD, peptic ulceration|
