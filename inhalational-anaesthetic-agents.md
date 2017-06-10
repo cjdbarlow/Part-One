@@ -117,7 +117,7 @@ MAC is not based on arterial partial pressure (F<sub>a</sub>) of agent.
 Note that addition of other agents (e.g. opioids) will affect different MAC subtypes (e.g. MAC<sub>50</sub> vs MAC<sub>BAR</sub>) differently.
 
 ###Partition Coefficients
-A **partition coefficient** describes the **relative affinity** of an agent for two phases, and is **defined** as the **ratio of the concentration** of agent in each phase when the **partial pressures are in equilibrium**.
+A **partition coefficient** describes the **relative affinity** of an agent for two phases, and is **defined** as the **ratio of the concentration** of agent in each phase, when both **phases are of equal volume** and the partial pressures are in **equilibrium at STP**.
 * The **blood:gas partition coefficient** describes the solubility of the agent in blood relative to air, when the two phases are of equal volume and in equilibrium at STP  
 A **low** blood:gas partition coefficient indicates a **rapid** onset and offset. This is because:
     * Poorly soluble agents generate a high P<sub>a</sub>, which creates a steep gradient between P<sub>a</sub> and P<sub>B</sub>, giving a rapid onset of action
