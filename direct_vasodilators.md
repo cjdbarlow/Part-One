@@ -4,6 +4,11 @@ Direct vasodilators include Ca<sup>2+</sup> channel blockers (see Calcium Channe
 
 Both GTN and SNP increase production of NO. This inhibits guanylate cyclase, increasing cGMP. This inhibits Ca<sup>2+</sup> uptake into smooth muscle and enhances its sequestration into smooth endoplasmic reticulum, causing a drop in cytoplasmic [Ca<sup>2+</sup>] and subsequent vasodilation.
 
+Hydralazine has a multimodal mechanism of action, including:
+* Opening K<sup>+</sup> channels, hyperpolarising vascular smooth muscle
+* Decreases intracellular Ca<sup>2+</sup> in vascular smooth muscle
+* Activation of gyanylate cyclase
+
 |Property|Sodium Nitroprusside|GTN|Hydralazine|
 |--|--|
 |**Class**|Inorganic Nitrate|Organic Nitrate|Direct vasodilator

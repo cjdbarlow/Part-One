@@ -45,7 +45,7 @@
 |--|--|
 |**Kinetics**|Variability primarily due to lipid solubility. Poor lipid solubility gives poor gut absorption and minimises need for hepatic metabolism. Lipid soluble agents will have CNS effects and be excreted in breast milk
 |**Respiratory**|Bronchospasm
-|**CVS**|↓ Inotropy, ↓HR, ↓MVO<sub>2</sub>, ↓ BP, ↑SVR (β<sub>2</sub> effect), worsen arrhythmia
+|**CVS**|↓ Inotropy, ↓ HR, ↓MVO<sub>2</sub>, ↓ BP, ↑ SVR (β<sub>2</sub> effect), worsen arrhythmia
 |**CNS**|Tiredness, nightmares, and sleep disturbance with lipid soluble agents. ↓ IOP
 |**Metabolic**|↓ Insulin release and blunted hypoglycaemic response (β<sub>2</sub> effect)
 |**Interactions**|Contraindicated with cardioselective Ca<sup>2+</sup> channel blockers due to extreme ↓ HR & ↓ inotropy|
@@ -62,7 +62,7 @@
 |**Distribution**|60% protein bound|20% protein bound. Lipid soluble|5% protein bound|95% protein bound|50% protein bound|
 |**Metabolism**|RBC esterases to an inactive metabolite and methyl alcohol. t<sub>1/2</sub> of 10 minutes|Hepatic with genetic variability in t<sub>1/2</sub> of active metabolites|Minimal metabolism - dose reduce in renal failure|Hepatic to active and inactive metabolites|Hepatic to inactive metabolites|
 |**Elimination**|||Renal elimination of active drug|Renal elimination of metabolites|Renal elimination of inactive metabolites|
-|**CVS**|Venous irritant||||||
+|**CVS**|Venous irritant|||||↓ SVR, ↓ HR, ↓ CO, ↓ BP (typically ~20%)|
 
 ---
 ##References
