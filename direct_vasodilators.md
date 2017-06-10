@@ -20,7 +20,7 @@ Both GTN and SNP increase production of NO. This inhibits guanylate cyclase, inc
 |**Haematological**|Methaemoglobinaemia|Methanoglobinaemia||
 |**Toxic Effects**|**Three** mechanisms: hypotension, thiocynate toxicity, CN toxicity. |Methaemoglobinaemia can occur with GTN <br><br> GTN patches may **explode** if left on during DC cardioversion. |||
 
-##Nitrate Toxicity
+#Nitrate Toxicity
 Nitrate toxicity can be related to:
 * Cyanide
 * Thiocyanate
@@ -29,35 +29,36 @@ Nitrate toxicity can be related to:
 ###Cyanide Toxicity
 Cyanide toxicity occurs only with SNP, as CN<sup>-</sup> is produced as a byproduct of metabolism.
 * **Kinetics**
-        * Rapid cellular uptake
-        * Small V<sub>D</sub>
-        * Hepatically metabolised to **thiocyanate**, using thiosulfate as a substrate
+	* Rapid cellular uptake
+	* Small V<sub>D</sub>
+	* Hepatically metabolised to **thiocyanate**, using thiosulfate as a substrate
 * **Mechanism**  
 CN<sup>-</sup> binds to cytochrome oxidase, preventing oxidative phosphorylation causing histotoxic hypoxia characterised by:
-        * Rapid loss of consciousness and seizures if inhaled
-        * Metabolic acidosis
-        * Lactataemia
-        * Arrhythmia
-        * Increased MVO<sub>2</sub>
-        * Hypertension  
-        Due to acute tachyphylaxis to SNP.
-    * Cyanide has a
-    * Risk of cyanide toxicity from SNP is related to:
-        * Infusion rate
-        * Infusion duration
+	* Rapid loss of consciousness and seizures if inhaled
+	* Metabolic acidosis
+	* Lactataemia
+	* Arrhythmia
+	* Increased MVO<sub>2</sub>
+	* Hypertension  
+	Due to acute tachyphylaxis to SNP.
+* Risk of cyanide toxicity from SNP is related to:
+	* Infusion rate
+	* Infusion duration
 * **Management**
-        * Supportive care, including inotropes
-        * Cyanide chelators  
-        Bind CN<sup></sup>, removing it from the circulation. Include:
-                * Dicobalt edetate  
-                * Hydroxycobalamin (Vitamin B<sub>12</sub>)
-        * Sulfur donors*  
-        Provide additional sulfhydryl groups, allowing further hepatic metabolism of CN<sup>-</sup> to SCN. Include:
-                * **Thiosulfate**
-        * Nitrites  
-        Converts Oxy-Hb to Met-Hb, which has a higher affinity for CN<sup>-</sup> than cytochrome oxidase. Include:
-                * Sodium nitrite
-                * Amyl nitrite
+	* Supportive care, including inotropes
+	* Cyanide chelators  
+	Bind CN<sup></sup>, removing it from the circulation. Include:
+		* Dicobalt edetate
+		* Hydroxycobalamin (Vitamin B<sub>12</sub>)
+		* Sulfur donors  
+		Provide additional sulfhydryl groups, allowing further hepatic metabolism of CN<sup>-</sup> to SCN. Include:
+		* **Thiosulfate**
+		* Nitrites  
+		Converts Oxy-Hb to Met-Hb, which has a higher affinity for CN<sup>-</sup> than cytochrome oxidase. Include:
+			* Sodium nitrite
+			* Amyl nitrite
+			
+
                 
 ###Thiocyanate Toxicity
 Thiocyante is produced with hepatic metabolism of CN<sup>-</sup>. Toxicity occurs when thiocyanate accumulates, which occurs in:
