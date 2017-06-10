@@ -302,6 +302,7 @@
   * [Oxytocics](oxytocics.md)
   * [Tocolytics](tocolytics.md)
 * Gastrointestinal
+  * [Acid Suppression](acid-suppression.md)
 
 ## Appendices
 
