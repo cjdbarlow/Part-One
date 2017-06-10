@@ -256,7 +256,7 @@
     * [Adenosine](adenosine.md)
     * [Magnesium](magnesium.md)
     * [Atropine](atropine.md)
-* [Renal Pharmacology](diuretics.md#id)
+* [Renal](diuretics.md#id)
   * [Diuretics](diuretics.md)
   * [Intravenous Fluids](intravenous-fluids.md)
 * [Neuropharmacology](propofol.md#id)
@@ -298,10 +298,10 @@
   * [Hypoglycaemics](insulins.md#id)
     * [Insulin](insulins.md)
     * [Oral Hypoglycaemics](oral_hypoglycaemics.md)
-* [Obstetric Pharmacology](oxytocics.md#id)
+* [Obstetric](oxytocics.md#id)
   * [Oxytocics](oxytocics.md)
   * [Tocolytics](tocolytics.md)
-* Renal Pharmacology
+* Gastrointestinal
 
 ## Appendices
 
