@@ -163,6 +163,7 @@ Use of N<sub>2</sub>O with another agent will increase the P<sub>A</sub> of that
         * An increase in the fractional concentration of all other gases  
         This is known as the **concentration effect**, and increases the pressure gradient driving diffusion into blood, increasing speed of onset.
             * The concentration effect is the cause of the second gas effect
+            * The concentration effect is **more pronouced as FiN<sub>2</sub>O increases**
             * The concentration effect is more profound in lung units with moderately **low V/Q ratios**, causing in a large increase in F<sub>a</sub>.  
             This results in a larger value of F<sub>a</sub> for any given F<sub>A</sub>, *even at steady state*.
         * Augmented ventilation as more inhalational agent is drawn in the alveoli
@@ -229,7 +230,7 @@ Increased rate of induction in elderly due to:
 * Lower MAC requirement
 * Lower albumin
 
-###Alteration to Pharmacokinetics with special means of administration
+###Alteration to Pharmacokinetics with Special Methods of Administration
 In **target-controlled anaesthesia**, FGF and agent F<sub>I</sub> are controlled by the machine to reach the target F<sub>A</sub> rapidly at low concentrations. This causes:
 * An initial over-pressure of F<sub>I</sub>, in order to fill the FRC and reach the desired F<sub>A</sub>
 * A more rapid induction, as the target F<sub>a</sub> is reached more rapidly
