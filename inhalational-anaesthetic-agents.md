@@ -166,7 +166,7 @@ Use of N<sub>2</sub>O with another agent will increase the P<sub>A</sub> of that
             * The concentration effect is **more pronouced as FiN<sub>2</sub>O increases**
             * The concentration effect is more profound in lung units with moderately **low V/Q ratios**, causing in a large increase in F<sub>a</sub>.  
             This results in a larger value of F<sub>a</sub> for any given F<sub>A</sub>, *even at steady state*.
-        * Augmented ventilation as more inhalational agent is drawn in the alveoli
+        * Augmented ventilation as more inhalational agent is drawn in the alveoli from dead space gas
     * The second gas effect also causes **diffusion hypoxia**  
     When inspired N<sub>2</sub>O is reduced, N<sub>2</sub>O will leave blood and enter the alveolus, displacing other gases in the alveolus
         * This can cause a reduction in PAO<sub>2</sub>, and therefore hypoxaemia
