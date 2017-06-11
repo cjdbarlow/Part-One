@@ -7,7 +7,7 @@ Both GTN and SNP increase production of NO. This inhibits guanylate cyclase, inc
 Hydralazine has a multimodal mechanism of action, including:
 * Opening K<sup>+</sup> channels, hyperpolarising vascular smooth muscle
 * Decreases intracellular Ca<sup>2+</sup> in vascular smooth muscle
-* Activation of gyanylate cyclase
+* Activation of guanylate cyclase
 
 |Property|Sodium Nitroprusside|GTN|Hydralazine|
 |--|--|
