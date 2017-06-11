@@ -102,6 +102,7 @@ Methaemoglobinaemia occurs when the Fe<sup>2+</sup> (ferrous) ion in haemoglobin
 ##References
 Smith Scarth Sasada
 Peck and Hill
+Petkov
 CICM Sep/Nov 2008
 http://lifeinthefastlane.com/ccc/cyanide-poisoning/
 https://academic.oup.com/bjaed/article/12/5/251/289041/Physiology-of-haemoglobin
