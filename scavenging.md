@@ -23,6 +23,8 @@ The structure of the scavenging interface depends on the type of scavenging syst
     **Passive** scavenging systems use a series of positive and negative pressure relief valves.
         * When gas pressure in the collection assembly exceeds **5cmH<sub>2</sub>O**, the positive relief valve opens and gas enters a resevoir bag
         * When gas pressure in the disposal assembly falls below **0.5cmH<sub>2</sub>O**, the negative relief valve opens and gas enters the disposal assembly
+* More transfer tubing
+* Disposal assembly
         
 ---
 
