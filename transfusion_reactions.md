@@ -68,10 +68,22 @@ These are additional antibodies that a patient may express in plasma, and includ
 The ABO blood group is:
 * A complex carbohydrate-based antigens series  
 These may be either A or B antigen, and patients may express one, both, or neither, giving four blood groups (A, B, AB, O).
-* Expressed on the H-antigen stem of RBCs, and on the surface of tissue cells.
+* Expressed on the **H-antigen stem** of RBCs, and on the surface of tissue cells.
+    * The **Bombay Blood Group** (or **hh** or **Oh** group) describes individuals who do not express the H antigen  
+    These individuals:
+        * Don't express A- or B-antigen (as there is no H-antigen stem) and are 'universal donors'
+        * Express H-antibody  
+        Can only receive blood from other individuals with the Bombay phenotype
 * Individuals express IgM antibody to foreign blood groups
     This develops within 6 months of birth, likely due to environmental exposure to similar antigens.
 * Associated with a severe hypersensitivity reaction if an ABO-mismatch occurs
+
+|Group|RBC|Plasma|
+|--|--|
+|A|A-antigen|B-antibody|
+|B|B-antigen|A-antibody|
+|O|-|A-antibody <br> B-antibody
+|AB|A-antigen <br> B-antigen|-|
 
 ###Rhesus
 The Rhesus blood group is the next most important group after ABO. The Rhesus system:
