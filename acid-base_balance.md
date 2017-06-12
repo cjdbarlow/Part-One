@@ -7,8 +7,9 @@ The kidney is responsible for excreting fixed acids. These include lactate, sulp
 
 Mechanisms for elimination of acid include:
 * Reabsorption of HCO<sub>3</sub><sup>-</sup>  
-  This is equivalent to the removal of the same amount of H<sup>+</sup>
+  This is equivalent to the removal of the same amount of H<sup>+</sup>.
     * As there is usually a net production of acid, under normal circumstances **all filtered HCO<sub>3</sub><sup>-</sup> is reabsorbed**
+    * Note that removal of an acid load is associated with greater HCO<sub>3</sub><sup>-</sup> generation and reabsorption, not increased H<sup>+</sup> secretion 
 * Bound to filtered buffers
 * As ammonium
 
@@ -49,17 +50,21 @@ Reabsorption of bicarbonate involves several steps:
 
 This complicated process allows HCO<sub>3</sub><sup>-</sup> to be moved from the tubule to the tubular cell and then to the capillary. **There is no net elimination of H<sup>+</sup>** by this method - the purpose of H<sup>+</sup> secretion is to facilitate the reabsorption[^1] of HCO<sub>3</sub><sup>-</sup> into the tubular cell.
 
-##Other Mechanisms for Acid Elimination
+##Bound to Filtered Buffers
 Secreted H<sup>+</sup> may also combine with a filtered buffer (e.g. PO<sub>4</sub><sup>3-</sup>). **These H<sup>+</sup> ions are not reabsorbed**. About **36mmol** of H<sup>+</sup> is eliminated with filtered PO<sub>4</sub><sup>3-</sup> each day, with each PO<sub>4</sub><sup>3-</sup> binding **two** H<sup>+</sup> ions.
 
-###Glutamine and Ammonia
-Metabolism of glutamine also provides a mechanism for elimination of a large number of H<sup>+</sup> ions. Filtered glutamine is absorbed into **proximal tubular cells** and metabolised to NH<sub>4</sub><sup>+</sup> (ammonium) and HCO<sub>3</sub><sup>-</sup>. The HCO<sub>3</sub><sup>-</sup> diffuses into blood, and the NH<sub>4</sub><sup>+</sup> is secreted into the tubule via the NH<sub>4</sub><sup>+</sup>-Na<sup>+</sup> antiporter and eliminated in urine.
-
-##Footnotes
-[^1] Or bound to another buffer - e.g. ammonium.
+###Ammonia
+Glutamine provides a mechanism for elimination of a large number of H<sup>+</sup> ions:
+* This is important in:
+  * Elimination of excess metabolic acid
+  * Renal compensation for acidosis
+* This occurs via:
+  * Filtered glutamine is absorbed into **proximal tubular cells** and metabolised to NH<sub>4</sub><sup>+</sup> (ammonium) and HCO<sub>3</sub><sup>-</sup>
+  * HCO<sub>3</sub><sup>-</sup> diffuses into blood, and the NH<sub>4</sub><sup>+</sup> is secreted into the tubule via the NH<sub>4</sub><sup>+</sup>-Na<sup>+</sup> antiporter and eliminated in urine
 
 ---
 ##References
 CICM Sep/Nov 2014
+ANZCA Feb/April 2012
 Power and Kam
 http://fitsweb.uchc.edu/student/selectives/TimurGraham/Bicarbonate_reabsorption.html
