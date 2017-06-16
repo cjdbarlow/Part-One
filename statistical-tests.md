@@ -13,18 +13,11 @@ Independent results are those when one value is not expected to influence anothe
     * A common example is repeated measures: when serial measures are taken from a patient or a hospital, the results cannot be treated as independent.
     * **Paired tests** are used when two dependent samples are compared
     * **Unpaired test** are used when two independent samples are compared
-    
-    
-    
-    
 
-
-
-
-
-
-
-
+Tests may be one-tailed or two-tailed:
+* A **two-tailed test** evaluates whether the sample mean is significantly greater or less than the population mean
+* A **one-tailed test** only evaluates the relationship in one direction  
+This doubles the power of the test to detect a difference, but should only be performed if there is a very good reason that the effect could only occur in one direction.
 
 Common parametric tests include:
 ###Z test
