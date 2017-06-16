@@ -11,6 +11,8 @@ Parametric tests are used when data is:
 * Observations within the group are independent  
 Independent results are those when one value is not expected to influence another value.
     * A common example is repeated measures: when serial measures are taken from a patient or a hospital, the results cannot be treated as independent.
+    * **Paired tests** are used when two dependent samples are compared
+    * **Unpaired test** are used when two independent samples are compared
 
 Common parametric tests include:
 ###Z test
