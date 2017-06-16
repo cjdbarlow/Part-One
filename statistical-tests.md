@@ -7,6 +7,7 @@ Parametric tests are used when data is:
 * Normally distributed
     * Remember that due to the central limit theorem - large data sets (n > 100) are typically amenable to parametric analysis, as sample means will follow a normal distribution
     * Non-normal data can be transformed so that they follow a normal distribution
+* Samples are taken randomly
 * Samples have the same variance
 * Observations within the group are independent  
 Independent results are those when one value is not expected to influence another value.
@@ -37,8 +38,13 @@ This is a variant of the Z test, used when the population standard deviation is 
 ###F Test
 Compares the ratio of variances ($$Var_1 \over Var_2$$) for two samples. If F deviates significantly from 1, then there is a significant difference in group variances.
 
+###Analysis of Variance (ANOVA)
+ANOVA tests for significant differences between means of multiple groups, in a more efficient manner than multiple comparisons (doing lots of T tests).
 
-Non-parametric tests:
+There are several types of ANOVA tests used in different situations.
+
+##Non-Parametric Tests
+Non-parametric tests are used when the assumptions for parametric tests are not met. Non-parametric tests:
 * Do not assume the data follows any particular deviation  
 This is required when:
     * Non-normality is obvious  
@@ -46,13 +52,37 @@ This is required when:
     * Possible non-normality  
     Typically small sample sizes.
     * Data is ordinal
-* Do not require measurement of population parameters
-* Not as powerful as parametric tests (a larger sample size is required to achieve the same error rate)
-* More broadly applicable than parametric tests as do not require the same assumptions
+* Are not as powerful as parametric tests (a larger sample size is required to achieve the same error rate)
+* Are more broadly applicable than parametric tests as do not require the same assumptions
 
-Logistic regression
-Mann Whitney U
-Wilcoxon Signed Rank
-Spearman correlation
+Non-parametric tests still require that data is:
+* Continuous or ordinal
+* Within-group observations are independent
+* Samples are taken randomly
 
 
+In general, non-parametric tests take each result and rank them. Calculations are then performed on each rank to find the test statistic. Common non-parametric tests include:
+
+###Mann-Whitney U Test/Wilcoxon Rank Sum Test
+Alternative to the unpaired T-test for non-parametric data.
+
+Process:
+* Data from both groups are combined, ordered, and given ranks
+    * Tied data are given identical ranks, where that rank is equal to the average rank of the tied observations
+* The data are then separated into their original group
+* Ranks in each group are added to give a test statistic for each group
+* A statistical test is performed to see if the sum of ranks in one group is different ot another
+
+###Wilcoxon Signed Ranks Test
+Alternative to the paired T-test for non-parametric data.
+
+Process:
+* As above (for the Wilcoxon Rank Sum Test), except absolute difference between paired observations are ranked  
+The sign (i.e. positive or negative) is preserved.
+* The sum of positive ranks is then compared with the sum of negative ranks  
+* If there is no difference between groups, we would expect the net value to be 0.
+
+---
+
+##References
+Myles and Gin
