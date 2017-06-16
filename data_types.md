@@ -1,5 +1,7 @@
 #Data Types
-Data: A series of observations or measurements. Can be either **qualitative** or **quantitative**.
+> Describe the different types of data
+
+Data are a series of observations or measurements. Can be either **qualitative** or **quantitative**.
 
 ##Qualitative Data
 Using words as data rather than numbers, evaluating meaning and process. Common in the social sciences.

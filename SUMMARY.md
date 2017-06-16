@@ -15,10 +15,11 @@
   * [Bias and Confounding](bias,_types_of_error,_and_confounding.md)
   * [Frequency Distributions](frequency_distributions_and_measures_of_central_tendency.md)
   * [Sample Size Calculation](sample_size_calculation.md)
+  * [Statistical Tests](statistical-tests.md)
   * [Statistical Terms](statistical_terms.md)
   * [Risk and Odds](risk_and_odds.md)
   * [Significance Testing](signifiance_testing.md)
-  * [Drug Development](drug_approval_process.md)
+  * Statistical Tests
 * [Pharmacology](additives.md#id)
   * [Pharmaceutics](additives.md#id)
     * [Additives](additives.md)
