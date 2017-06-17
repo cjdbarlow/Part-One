@@ -1,10 +1,10 @@
-V# Pulmonary Vasodilators
+# Pulmonary Vasodilators
 
 |Property|Nitric Oxide|Iloprost|Sildenafil
 |--|--|
-|**Class**|Inorganic gas|Synthetic prostaglandin
+|**Class**|Inorganic gas|Synthetic eicosanoid with prostacyclin activity
 |**Uses**|ARDS, RVF, PHTN|PHTN|PHTN, erectile dysfunction
-|**Presentation**|Aluminium cyclinders with 100/800ppm NO/N<sub>2</sub>|||
+|**Presentation**|Aluminium cyclinders with 100/800ppm NO/N<sub>2</sub>|Synthetic analog of epoprostenol||
 |**Route of Administration**|Inhaled|Inhaled|PO|
 |**Dosing**|1-40ppm, via inspiratory limb of ventilator||20mg TDS
 |**Absorption**|||40% PO bioavailability
@@ -22,3 +22,4 @@ V# Pulmonary Vasodilators
 ##References
 Peck and Hill
 Smith, Scarth, Sasada
+https://pubchem.ncbi.nlm.nih.gov
