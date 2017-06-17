@@ -45,7 +45,7 @@ There are several types of ANOVA tests used in different situations.
 
 ##Non-Parametric Tests
 Non-parametric tests are used when the assumptions for parametric tests are not met. Non-parametric tests:
-* Do not assume the data follows any particular deviation  
+* Do not assume the data follows any particular distribution  
 This is required when:
     * Non-normality is obvious  
     e.g. Multiple observations of 0
