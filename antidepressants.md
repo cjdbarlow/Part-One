@@ -4,16 +4,22 @@ Antidepressant drugs include:
 Mechanism of action by multiple effects, including:
   * Inhibit reuptake of NA and 5-HT
   * Muscarinic antagonism  
-  Leads to anticholinergic side effects.
+  Leads to anticholinergic side effects (dry mouth, blurred vision, constipation, urinary retention).
   * H<sub>1</sub> and H<sub>2</sub> antagonism
   * α<sub>1</sub> antagonism
   * NMDA antagonism
-  
+* Selective Serotonin Reuptake Inhibitors (SSRIs)
+  * Inhibit neural reuptake of 5-Ht
+  * Preferred over TCAs as:
+    * Similar effectiveness
+    * Better side effect profile
+    
+
 |Property|Amitriptyline|
 |--|--|
 |**Class**|TCA|
 |**Uses**|Depression, treatment of chronic pain and trigeminal neuralgia
-|**Absorption**|High PO bioavailability due.
+|**Absorption**|High PO bioavailability
 |**Distribution**|Highly lipid soluble: High V<sub>D</sub>
 |**Metabolism**|Hepatic with active metabolites and large interpatient variability
 |**Elimination**|
