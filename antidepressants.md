@@ -52,7 +52,7 @@ Serotonin syndrome is excessive serotonin in the CNS, typically as a consequence
   * Shivering
   * Fever
 
-Serotonin syndrome is typically self-limiting and resolvs with cessation of the drug.
+Serotonin syndrome is typically self-limiting and resolves with cessation of the drug.
 
 
 
