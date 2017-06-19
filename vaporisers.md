@@ -33,7 +33,7 @@ SVP of volatile agents increase non-linearly as temperature increases. Temperatu
 			* Aneroid bellows  
 			Connect to a cone in the opening of the bypass chamber. As temperature decreases, the bellows contract and the cone partially obstructs the bypass channel.
 
-###Difference between Plenum and Draw-Over Vaporisers
+###Difference Between Plenum and Draw-Over Vaporisers
 Plenum vaporisers are:
 * More accurate  
 Designed to deliver accurate agent concentrations over a wide range (0.25-15L.min<sup>-1</sup>) of flow rates
@@ -41,8 +41,11 @@ Designed to deliver accurate agent concentrations over a wide range (0.25-15L.mi
     * Above 15L.min<sup>-1</sup> gas may not be fully saturated
 * Heavier  
 Typically built of metals such as copper to maximise thermal stability.
+* High internal resistance 
+	* Must be used out-of-circle
+	* Must be used with positive-pressure
 
-Draw-Over Vaporisers re:
+Draw-Over Vaporisers are:
 * Less accurate
 	* Less use of baffles and wicks to minimise inspiratory resistance
 * Less thermally stable
