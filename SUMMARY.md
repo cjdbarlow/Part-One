@@ -210,13 +210,14 @@
   * [Non-Invasive Blood Pressure](non-invasive-blood-pressure.md)
   * [Cardiac Output Measurement](cardiac-output.md)
   * [Pulse Oximetry](pulse_oximetry.md)
+  * [Gas Analysis](gas-analysis.md)
   * [Capnography](end-tidal_co2.md)
   * [Blood Gas Analysis](blood_gases.md)
   * [Gas Flow](gas-flow.md)
   * [Principles of Ultrasound](principles_of_ultrasound.md)
   * [Temperature and Humidity](temperature.md)
   * [Medical Gas Supply](medical-gas-supply.md)
-  * Wheatstone Bridge
+  * Gas Analysis
 * [Procedural Anatomy](subclavian_vein.md#id)
   * [Subclavian Vein](subclavian_vein.md)
   * [Internal Jugular Vein](internal_jugular_vein.md)
