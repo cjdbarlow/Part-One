@@ -22,36 +22,32 @@ There are four mechanisms which result in variable response to drug:
 * **Idiosyncrasy** is an individual patient response to a drug. It is typically mediated by a reactive metabolite rather than the drug itself.
 
 ###Tolerance
-**Tolerance** is the requirement for a **larger dose** to achieve the **same effect**, due to altered sensitivity of the receptors to the stimulant. Proposed mechanisms include:
-* **Change in receptor morphology**  
-Can occur with ion-channel receptors and GPCRs:  
-    * Ion-channel receptors bind the ligand but do not open the channel
-    * GPCR become 'uncoupled' - phosphorylation of the receptor makes it unable to activate second messenger cascade, though it can still bind the ligand.
+**Tolerance** is the requirement for a **larger dose** to achieve the **same effect**, due to altered sensitivity of the receptors to the stimulant. Mechanisms can be classified into:
+* **Pharmacokinetic**
+    * **Altered drug metabolism**  
+    Metabolism may be **increased or decreased**:  
+        * Enzymatic induction and increased drug metabolism
+        Increased hepatic enzyme pathway capacity increases metabolism and lowers plasma concentration.
+        * Decreased metabolism  
+        Decreased metabolism of a drug can result in a reduced effect.
 
 
-* **Receptor down-regulation**  
-Prolonged exposure to agonists causes transmembrane (typically hormone) receptors to become **internalised**. This occurs more slowly than uncoupling.
 
-* **Receptor up-regulation**  
-Prolonged exposure to antagonists causes an upregulation of receptor.
-    * Can lead to rebound effects when a drug is ceased (e.g. hypertension with cessation of clonidine)
-
-* **Exhaustation of mediators**  
-Similar to tachyphylaxis - depletion of a mediating substance decreases the effect.
-
-
-* **Altered drug metabolism**  
-Metabolism may be **increased or decreased**:  
-    * Enzymatic induction and increased drug metabolism
-    Increased hepatic enzyme pathway capacity increases metabolism and lowers plasma concentration.
-    * Decreased metabolism  
-    Decreased metabolism of a drug can result in a reduced effect.
-
-
-* **Physiological adapation**  
-Actions of a drug may be countered by a compensatory homeostatic response.
-
-* **Active removal of the drug from the cell**
+* **Pharmacodynamic**
+    * **Change in receptor morphology**  
+    Can occur with ion-channel receptors and GPCRs:  
+        * Ion-channel receptors bind the ligand but do not open the channel
+        * GPCR become 'uncoupled' - phosphorylation of the receptor makes it unable to activate second messenger cascade, though it can still bind the ligand.
+    * **Receptor down-regulation**  
+    Prolonged exposure to agonists causes transmembrane (typically hormone) receptors to become **internalised**. This occurs more slowly than uncoupling.
+    * **Receptor up-regulation**  
+    Prolonged exposure to antagonists causes an upregulation of receptor.
+        * Can lead to rebound effects when a drug is ceased (e.g. hypertension with cessation of clonidine)
+    * **Exhaustation of mediators**  
+    Similar to tachyphylaxis - depletion of a mediating substance decreases the effect.
+    * **Physiological adapation**  
+    Actions of a drug may be countered by a compensatory homeostatic response.
+    * **Active removal of the drug from the cell**
 
 ##Alterations in Drug Response: Patient Factors
 Pharmacokinetics and pharmacodynamics are affected in pregnancy and at extremes of age.
