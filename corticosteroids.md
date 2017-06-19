@@ -14,13 +14,13 @@ They have multiple indications including:
 |System|Effect|
 |--|--|
 |**Resp**|↑ Bronchial smooth muscle response to circulating catecholamines, ↓ airway oedema|
-|**CVS**|↑ Inotropy, ↑ vascular smooth muscle response to circulating catecholamines (↑ receptor expression)|
+|**CVS**|↑ Inotropy, ↑ vascular smooth muscle response to circulating catecholamines (↑ receptor expression), ↑ BP secondary to mineralocorticoid effects|
 |**CNS**|Mood changes, sleep disturbance, psychosis|
 |**MSK**|Atropy, thinning of skin|
-|**Renal**|Glycosuria, fluid retention (due to mineralocorticoid activity)|
+|**Renal**|Glycosuria, Na<sup>+</sup> and fluid retention (due to mineralocorticoid activity), hypokalaemia|
 |**GIT**|Gastric ulceration|
 |**Metabolic**|↑ Gluconeogenesis, diabetes, ↑ protein catabolism, fat redistribution, adrenal suppression (negative feedback on ACTH), ↑ lipolytic response to circulating catecholamines|
-|**Immune**|↓ Transudate production, ↓ production of inflammatory mediators, ↓ macrophage function, ↓ transport of lymphocytes, ↓ antibody production, ↑ susceptibility to infection, 
+|**Immune**|↓ Transudate production, ↓ production of inflammatory mediators, ↓ macrophage function, ↓ transport of lymphocytes, ↓ T-cell function, ↓ antibody production, ↑ susceptibility to infection, 
 |**Toxic Effects**|Relative steroid deficiency in adrenal suppressed individuals with infection or surgery|
 
 ##Comparison of Corticosteroids
@@ -32,9 +32,11 @@ They have multiple indications including:
 |**Distribution**|Variable protein binding depending on concentration, V<sub>D</sub> 0.5 L.kg<sup>-1</sup>|Variable protein binding depending on concentration, V<sub>D</sub> 0.5 L.kg<sup>-1</sup>|V<sub>D</sub> 1 L.kg<sup>-1</sup>||
 |**Metabolism**|Hepatic|Hepatic|Hepatic|Hepatic|
 |**Elimination**|Elimination t<sub>0.5</sub> is 2 hours|Elimination t<sub>0.5</sub> is 3 hours|Elimination t<sub>0.5</sub> is 3 hours|Elimination t<sub>0.5</sub> is 4 hours|
+|**Relative mineralocorticoid effect**|+++|++|+|+
 
 ---
 ##References
 Peck and Hill
 Smith Scarth Sasada
 UpToDate Methylprednisolone Dexamethasone
+Petkov
