@@ -13,8 +13,8 @@
 |**CVS**|||May precipitate fluid retention||
 |**Renal**|Contraindicated in renal impairment due to increased risk of lactic acidosis|||Containdicated in renal impairment (< 60ml.min<sup>-1</sup>) as it has no benefit|
 |**MSK**||Photosensitivity|||
-|**Metabolic**||↑ Appetite, weight gain. Hypoglycaemia in fasting.|Weight loss, reduced insulin requirements||
-|**Renal**|||Increased UTI and thrush risk||
+|**Metabolic**||↑ Appetite, weight gain. Hypoglycaemia in fasting.||Weight loss, reduced insulin requirements|
+|**Renal**||||Increased UTI and thrush risk|
 |**GIT**|Nausea, Diarrhoea|Cholestasis|||
 |**Toxic**|Severe lactic acidosis secondary to inhibition of oxidative glucose metabolism, especially in renal failure and alcoholics|Cross placenta, causing foetal hypoglycaemia.|||
 
