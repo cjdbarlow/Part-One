@@ -60,7 +60,8 @@ Glutamine provides a mechanism for elimination of a large number of H<sup>+</sup
   * Renal compensation for acidosis
 * This occurs via:
   * Filtered glutamine is absorbed into **proximal tubular cells** and metabolised to NH<sub>4</sub><sup>+</sup> (ammonium) and HCO<sub>3</sub><sup>-</sup>
-  * HCO<sub>3</sub><sup>-</sup> diffuses into blood, and the NH<sub>4</sub><sup>+</sup> is secreted into the tubule via the NH<sub>4</sub><sup>+</sup>-Na<sup>+</sup> antiporter and eliminated in urine
+  * HCO<sub>3</sub><sup>-</sup> diffuses into blood, and the NH<sub>4</sub><sup>+</sup> is secreted into the tubule via the NH<sub>4</sub><sup>+</sup>-Na<sup>+</sup> antiporter and eliminated in urine  
+  As the $$NH_3 + H^+ \Leftrightarrow NH_4$$ reaction has a pKa of 9.2, it cannot act as an effective urinary buffer.
 
 ---
 ##References
