@@ -10,7 +10,7 @@ Vagus afferents have exquisitely sensitive light touch and corrosive chemical re
 Vagal afferents synapse in the medulla, triggering an autonomic sequence of events.
 
 ##Effector
-A series of processes occur:
+A series of processes occur in three phases:
 * Inspiration (close to vital capacity)
 * Effort closure of the epiglottis
 * Contraction of abdominal musculature and internal intercostals, causing a rapid rise in intrapleural pressure to >100mmHg.
