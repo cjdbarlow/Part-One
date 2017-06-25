@@ -49,7 +49,6 @@ For lipid soluble molecules only; e.g:
 For movement of larger/less soluble molecules down their concentration gradient, e.g:
     * Glucose
     * Water
-
 * Active transport  
 Responsible for movement of most small ions; e.g:
     * Na<sup>+</sup>

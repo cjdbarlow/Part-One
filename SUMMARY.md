@@ -155,6 +155,7 @@
   * [Control of Blood Glucose](control_of_blood_glucose.md)
   * [Hypothalmus and Pituitary](pituitary_and_hypothalamus.md)
   * [Thyroid](thyroid.md)
+  * [Adrenal Hormones](adrenal-hormones.md)
   * [Calcium Homeostasis](calcium_homeostasis.md)
   * [Histamine](histamine.md)
 * [Musculoskeletal System](skeletal_muscle.md#id)
