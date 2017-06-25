@@ -16,24 +16,26 @@ iPEEP refers to **intrinsic PEEP**, auto PEEP or dynamic hyperinflation. In all 
 
 ###Cardiovascular Effects
 ####Cardiac Effects
-* Reduction in VR due to RA compression, with consequent reduction RV filling pressure, LV filling, and CO
+* Reduction in VR due to increased CVP  
+Leads to reduction in RV filling pressure, LV filling, and CO.
     * This is the predominant reason why CO falls with the application of PEEP
     * These changes are more marked in hypovolaemia
 
 
-
-* However, PEEP also reduces LV afterload by reducing the LV transmural pressure. Effects in a normal patient are minimal, as PEEP is relatively small in magnitude compared to systemic arterial pressures. However, in dyspnoeic patients generating highly negative intrathoracic pressures, the LV transmural pressure can increase markedly, increasing LV afterload and reducing cardiac output.
-
-
 * Changes to pulmonary vascular resistance and RV afterload
-    * If lung volume is lower than optimal, then PVR will reduce as PEEP stretches open extra-alveolar vessels
-        * This may also reduce hypoxic-pulmonary vasoconstriction, further reducing PVR
-    * If lung volume is higher than optimal, then PVR will increase as PEEP compresses alveolar vessels
-    * Therefore, PEEP has *variable effects* on RV afterload depending on how it changes lung volume
+    * If lung volume is lower than FRC, then PVR will reduce as PEEP stretches open extra-alveolar vessels
+        * Alveolar recruitment will reduce hypoxic-pulmonary vasoconstriction, further reducing PVR
+    * If lung volume is higher than FRC, then PVR will increase as PEEP compresses alveolar vessels
+    * Therefore, PEEP has *variable effects* on RV afterload depending on how it changes lung volume with respect to FRC
 
 
-* Ventricular interdependence  
-  The ventricles share a common septum and myocardial fibres. Changes in physiology to one ventricle will affect the other - e.g. an increase in RV preload will reduce LV compliance and LVEDV.
+* Reduced LV preload due to increased RV afterload
+Increased RV afterload may lead to an increased RV EDV, displacing the interventricular septum into the LV, impeding LV diastolic function and reducing LV filling. This is an example of **ventricular interdependence**.
+
+
+* Reduced LV afterload due to reduced LV transmural pressure  
+    * Effects in a well patient are minimal, as PEEP is relatively small in magnitude compared to systemic arterial pressures
+    * In patients generating highly negative intrathoracic pressures, the LV transmural pressure can increase markedly, increasing LV afterload and reducing cardiac output
 
 ####Peripheral Vasculature Effects
 * Reduced urine output due to:
@@ -46,8 +48,10 @@ iPEEP refers to **intrinsic PEEP**, auto PEEP or dynamic hyperinflation. In all 
         * May result in circulation only intermittently throughout the cardiac cycle
 
 ##IPPV
-Physiological effects of IPPV are predominantly related to mean airway pressure, and so are generally similar to PEEP.
+IPPV is the generation of a positive (greater than atmospheric) airway pressure during inspiration. Physiological effects of IPPV are predominantly related to mean airway pressure, and so are generally similar to PEEP, but of reduced magnitude.
 
+###Respiratory
+* Reduced V/Q ratio
 
 
 ##References
