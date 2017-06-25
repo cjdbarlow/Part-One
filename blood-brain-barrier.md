@@ -28,7 +28,8 @@ Due to their function, several important CNS structures must exist outside of th
     * Subfornical organ  
     Role in CVS and fluid balance.
     * Organum vasculosum
-    
+
+        
 * Secreting structures
     * Pituitary  
     Secretes hormones.
@@ -36,6 +37,7 @@ Due to their function, several important CNS structures must exist outside of th
     Secretes melatonin.
     * Choroid plexus  
     Produces CSF via secretion and ultrafiltration of plasma.
+
 
 ###Movement of Substances
 Substances can move via:
