@@ -132,6 +132,7 @@
   * [Compensation](compensation.md)
   * [Buffers](buffers.md)
 * [Nervous System](csf.md#id)
+  * [Blood-Brain Barrier](blood-brain-barrier.md)
   * [CSF](csf.md)
   * [Spinal Cord Anatomy](spinal_cord_anatomy.md)
   * [Intracranial Pressure](intracranial_pressure.md)

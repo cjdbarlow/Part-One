@@ -1,0 +1,67 @@
+#Blood-Brain Barrier
+
+The blood-brain barrier is a **physiological barrier** which prevents substances in the ECF of the body moving freely into the ECF of the brain. The functions of the BBB are:
+* Maintain a stable extracellular milieu
+Optimises neuronal function by preventing fluctuations in plasma K<sup>+</sup>, Na<sup>+</sup>, and H<sup>+</sup> affecting cerebral cells.
+* Protection of the brain  
+Isolates the brain from toxis.
+* Protection of the body  
+Isolates the rest of the body from CNS neurotransmitters.
+
+
+##Anatomy
+The BBB occurs in three layers:
+* Capillary endothelial cells  
+Joined with **tight junctions**, preventing free movement of solvent and solute.
+    * Substances must move through capillary endothelium to reach the brain  
+    Capillary endothelial cells contain high numbers of mitochondria, due to the higher energy cost of the active transport mechanisms.
+* Basement membrane
+* Astrocytes  
+Glial cell whhich extends food processes around the basement membrane, and reduce permeability of endothelial cells.
+
+Due to their function, several important CNS structures must exist outside of the BBB. These include:
+* Sensing structures
+    * Chemoreceptor trigger zone (Area Postrema)  
+    Identifies toxins in the systemic circulation, triggering vomiting.
+    * Hypothalamus  
+    Osmoreceptors detect systemic osmolarity.
+
+* Secreting structures
+    * Pituitary  
+    Secretes hormones.
+    * Pineal gland  
+    Secretes melatonin.
+    * Choroid plexus  
+    Produces CSF via secretion and ultrafiltration of plasma.
+
+###Movement of Substances
+Substances can move via:
+* Diffusion  
+For lipid soluble molecules only; e.g:
+    * CO<sub>2</sub>
+    * O<sub>2</sub>
+* Facilitated diffusion  
+For movement of larger/less soluble molecules down their concentration gradient, e.g:
+    * Glucose
+    * Water
+
+* Active transport  
+Responsible for movement of most small ions; e.g:
+    * Na<sup>+</sup>
+    * Cl<sup>-</sup>
+    * K<sup>+</sup>
+    * Mg<sup>2+</sup>
+    * Ca<sup>2+</sup>
+    
+Other substances are specifically excluded:
+* Catecholamines  
+Metabolised by MAO in capillary endothelium, preventing their action as CNS neurotransmitters.
+* Amino acids  
+Prevent action as neurotransmitters.
+* Ammonia  
+Metabolised in astrocytes to glutamine, limiting its neurotoxic effects.
+
+
+---
+##References
+https://academic.oup.com/bjaed/article/11/4/128/266954/Blood-brain-barrier 
