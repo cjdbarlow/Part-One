@@ -51,6 +51,48 @@ Esterases (and other -ases) in erythrocytes metabolise many drugs, including:
     * SNP (reacts with Hb to form NO, CN, and Met-Hb)
     * Esmolol
 
+##Elimination
+Old red cells are removed from circulation via:
+* Phagocytosis by macrophages in:
+    * Spleen  
+    Major mechanism.
+    * Liver
+    * Bone marrow
+* Haemolysis  
+~10% of red cell breakdown occurs in ciruclation, where the Hb dimers are then bound to **haptoglobin** by haemopexin. This prevents glomerular filtration of haeme (and associated loss of iron).
+
+###Haemoglobin Metabolism
+**Haemoglobin** is broken down into:
+* Globin  
+Broken down into constituent amino acids.
+* Iron  
+Re-enters haemoglobin synthetic pathways.
+* Haeme  
+Complex metabolic pathway:
+* Metabolised to **biliverdin** by splenic macrophages in the reticuloendothelial system of the **spleen**
+    * Circulating erythrocytes are phagocytosed by splenic macrophages
+    * Haptoglobin binds circulating Hb, the Hb-Haptoglobin complex is then phagocytosed by splenic macrophages
+* **Biliverdin** is reduced **to unconjugated bilirubin**  
+This is fat soluble, and binds to albumin.
+* **Unconjugated bilirubin** is conjugated in the liver to **conjugated bilirubin**
+* **Conjugated bilirubin** is **secreted in bile** by active transport  
+This is impaired during hepatic disease, leading to increased bilirubin levels in plasma.
+* Secreted **conjugated bilirubin** is metabolised **to urobilinogen** by gut bacteria
+* **Urobilinogen** may have a number of fates:
+    * Enterohepatic recirculation and elimination in bile (again)
+    * Further metabolism by gut bacteria to **stercobilinogen** and then to **sterobilin**
+    * Enterohepatic recirculation and urinary excretion, where it is oxidised to **urobilin**
+
+
+####In Disease
+||Blood|Urine|Faeces|
+|--|--|--|
+|**Prehepatic disease**|↑ Unconjugated bilirubin| ↑ Urobilinogen, bilirubin not present|Normal|
+|**Intrahepatic disease**|↑ Conjugated bilirubin, ↑ Unconjugated bilirubin| Bilirubin present|May be pale due to decreased urobilinogen excreted in bile|
+|**Posthepatic disease**|↑ Conjugated bilirubin|↓ Urobilinogen, bilirubin present|Pale|
+
+
+
 ---
 ##References
 Ganong
