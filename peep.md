@@ -40,7 +40,8 @@ Increased RV afterload may lead to an increased RV EDV, displacing the intervent
 ####Peripheral Vasculature Effects
 * Reduced urine output due to:
     * Reduced CO and renal blood flow
-    * ADH release as a consequence of reduced atrial stretch and ANP release
+    * ADH release as a consequence of reduced atrial stretch and ANP release  
+    May worsen oedema in long-term ventilated patients.
 
 
 * Reduced hepatic blood flow due to:
