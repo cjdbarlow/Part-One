@@ -14,7 +14,8 @@
 
 * Functionally, **coronary artery flow is the determinant**. This is because:
   * Oxygen content in individuals without pulmonary disease is maximal
-  * Resting myocardial oxygen extraction is near-maximal (**~70%**)
+  * Resting myocardial oxygen extraction is near-maximal (**~70%**)  
+  This high ER makes the heart **less tolerant of anaemia** than organs with a low ER.
 
 
 * Therefore coronary blood flow is the limiting factor  
