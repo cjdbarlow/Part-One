@@ -49,10 +49,11 @@ Increased RV afterload may lead to an increased RV EDV, displacing the intervent
         * May result in circulation only intermittently throughout the cardiac cycle
 
 ##IPPV
-IPPV is the generation of a positive (greater than atmospheric) airway pressure during inspiration. Physiological effects of IPPV are predominantly related to mean airway pressure, and so are generally similar to PEEP, but of reduced magnitude.
-
-###Respiratory
-* Reduced V/Q ratio
+IPPV is the generation of a positive (greater than atmospheric) airway pressure during inspiration. Physiological effects of IPPV are:
+* Predominantly related to mean airway pressure  
+Are generally similar to PEEP.
+* Only occur in inspiration
+* Are typically of greater magnitude when they do occur (as P<sub>insp</sub> is generally much higher than PEEP)
 
 
 ##References
