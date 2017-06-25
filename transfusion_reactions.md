@@ -50,6 +50,12 @@ Platelets are stored on an agitator which prevents clotting and ensures the plat
 * pH control  
 pH is kept between 6.2 to 7.8 to prevent degranulation.
 
+As platelets do not contain antigen, there is not a *strict* requirement for platelets to be type matched. However:
+* Rh(+) platelets should be avoided in Rh(-) patients  
+The small amount of contaminanting red cells may precipitate rhesus disease.
+* Plasma incompatibility should be avoided as this may lead to haemolysis of recipient red cells
+    * Children are at greater risk due to their proportionally smaller blood volume
+
 ###Whole Blood
 Whole blood undergoes additional changes:
 * White cells become nonfunctional within 4-6 hours of collection, though antigenic properties remain
