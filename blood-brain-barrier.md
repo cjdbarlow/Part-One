@@ -25,7 +25,10 @@ Due to their function, several important CNS structures must exist outside of th
     Identifies toxins in the systemic circulation, triggering vomiting.
     * Hypothalamus  
     Osmoreceptors detect systemic osmolarity.
-
+    * Subfornical organ  
+    Role in CVS and fluid balance.
+    * Organum vasculosum
+    
 * Secreting structures
     * Pituitary  
     Secretes hormones.
