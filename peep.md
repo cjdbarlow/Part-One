@@ -41,7 +41,7 @@ Increased RV afterload may lead to an increased RV EDV, displacing the intervent
 * Reduced urine output due to:
     * Reduced CO and renal blood flow
     * ADH release as a consequence of reduced atrial stretch and ANP release  
-    May worsen oedema in long-term ventilated patients.
+    May worsen oedema in patients with prolonged periods of ventilation.
 
 
 * Reduced hepatic blood flow due to:
