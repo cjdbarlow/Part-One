@@ -19,7 +19,7 @@ Joined with **tight junctions**, preventing free movement of solvent and solute.
 * Astrocytes  
 Glial cell whhich extends food processes around the basement membrane, and reduce permeability of endothelial cells.
 
-Due to their function, several important CNS structures must exist outside of the BBB. These include:
+Due to their function, several important CNS structures must exist outside of the BBB. These are known as the **circumventricular organs**, and include:
 * Sensing structures
     * Chemoreceptor trigger zone (Area Postrema)  
     Identifies toxins in the systemic circulation, triggering vomiting.
@@ -64,4 +64,6 @@ Metabolised in astrocytes to glutamine, limiting its neurotoxic effects.
 
 ---
 ##References
-https://academic.oup.com/bjaed/article/11/4/128/266954/Blood-brain-barrier 
+https://academic.oup.com/bjaed/article/11/4/128/266954/Blood-brain-barrier
+
+Brandis 
