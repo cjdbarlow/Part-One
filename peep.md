@@ -1,4 +1,4 @@
-# PEEP
+# PEEP and IPPV
 > Describe the physiological consequences of ~~intermittent positive pressure ventilation and~~ positive end-expiratory pressure.
 
 PEEP is defined as a positive airway pressure at the end of expiration. It is distinct from positive airway pressure (which is not confined to a phase of the respiratory cycle) and CPAP (which is a mode of ventilation).
