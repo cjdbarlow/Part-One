@@ -80,7 +80,7 @@
     * [Oxygen Storage](oxygen_storage.md)
     * [Carbon Dioxide](carbon_dioxide_transport.md)
   * [Applied Respiratory Physiology](hypoxia.md#id)
-    * [PEEP](peep.md)
+    * [PEEP and IPPV](peep.md)
     * [Hypoxia](hypoxia.md)
     * [Hypo and Hypercapnoea](hypo_and_hypercapnoea.md)
     * [Humidification](humidification.md)
