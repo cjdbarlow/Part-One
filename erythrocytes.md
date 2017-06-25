@@ -68,7 +68,7 @@ Broken down into constituent amino acids.
 * Iron  
 Re-enters haemoglobin synthetic pathways.
 * Haeme  
-Complex metabolic pathway:
+Complex metabolic pathway, notable as it is the only metabolic process that produces **carbon monoxide**:
 * Metabolised to **biliverdin** by splenic macrophages in the reticuloendothelial system of the **spleen**
     * Circulating erythrocytes are phagocytosed by splenic macrophages
     * Haptoglobin binds circulating Hb, the Hb-Haptoglobin complex is then phagocytosed by splenic macrophages
