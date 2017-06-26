@@ -19,6 +19,8 @@ Aldosterone is the key mineralocorticoid hormone, accounting for 95% of mineralo
 * Release is stimulated by:
     * Increased serum K<sup>+</sup>
     * Increased Angiotensin II
+        * Hypovolaemia
+        * Decreased osmolarity
     * Increased ACTH
     * Decreased serum pH
 * Acts to increase sodium and water retention (and removal of potassium), via:
@@ -53,18 +55,18 @@ Naturally occurring catecholamines include:
 * Noradrenaline
 * Dopamine
 
-Synthesis of catecholamines:
-* Occurs in the **adrenal medulla**  
-Adrenal medulla is a **modified sympathetic ganglion** composed of **chromaffin cells**.
-    * Synthesis is dependent on **ACh release** by the presynaptic neuron
-* Has many precursors:
-  * **Tyrosine** is concentrated in the adrenal medulla
-  * Tyrosine is hydroxylated to DOPA by **tyrosine hydroxylase**  
-  This is the **rate-limiting** step, and is probably the best enzyme to remember.
-  * DOPA is decarboxylated to dopamine
-  * Dopamine is converted to noradrenaline
-  * Noradrenaline is converted to adrenaline by **PNMT** (Phenylethanolamine N-methyltransferase)  
-  This may only occur in the adrenal medulla.
+Synthesis of catecholamines occurs in the **adrenal medulla**, which is a **modified sympathetic ganglion** composed of **chromaffin cells**.
+    * Synthesis and release is dependent on **ACh release** by the presynaptic neuron  
+    Unlike many other hormones, catecholamine secretion is not a negative-feedback loop
+
+Process of catecholamine synthesis:
+* **Tyrosine** is concentrated in the adrenal medulla
+* Tyrosine is hydroxylated to DOPA by **tyrosine hydroxylase**  
+This is the **rate-limiting** step, and is probably the best enzyme to remember.
+* DOPA is decarboxylated to dopamine
+* Dopamine is converted to noradrenaline
+* Noradrenaline is converted to adrenaline by **PNMT** (Phenylethanolamine N-methyltransferase)  
+This may only occur in the adrenal medulla.
 
 Plasma half-lives of noradrenaline and adrenaline are small as a consequence of their metabolism and elimination.
 
@@ -73,6 +75,7 @@ Plasma half-lives of noradrenaline and adrenaline are small as a consequence of 
 * Inactivation by MAO in nerve cytoplasm
 * Inactivation by COMT in the liver and kidney
 
+###Catecholamine Regulation
 
 ---
 ##References
