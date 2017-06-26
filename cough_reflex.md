@@ -11,11 +11,13 @@ Vagal afferents synapse in the medulla, triggering an autonomic sequence of even
 
 ##Effector
 A series of processes occur in three phases:
-* Inspiration (close to vital capacity)
-* Effort closure of the epiglottis
-* Contraction of abdominal musculature and internal intercostals, causing a rapid rise in intrapleural pressure to >100mmHg.
-* Wide-opening of the cords and epiglottis, causing a violent expiration
-    * Compression of the lungs causes narrowing of the noncartilagenous airways, assisting exploding air pick up unwanted matter in the tracheobronchial tree
+* Inspiratory phase  
+A close to vital capacity breath is taken.
+* Compressive phase  
+Effort closure of the epiglottis to seal the larynx, followed by a violent contraction of abdominal musculature and internal intercostals, causing a rapid rise in intrapleural pressure to >100mmHg.
+* Expulsive phase  
+Wide-opening of the cords and epiglottis, causing a violent expiration
+    * Compression of the lungs causes narrowing of the noncartilagenous airways and increases turbulent flow, removing adherent material from the tracheobronchial tree
 
 ---
 ##References
