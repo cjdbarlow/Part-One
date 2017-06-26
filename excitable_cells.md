@@ -63,9 +63,26 @@ As these channels close slowly, the membrane potential slightly undershoots rest
 The **absolute refractory period** occurs when Na<sup>+</sup> channels are in their inactive state. No Na<sup>+</sup> can be conducted, regardless of the intensity of the stimulus, and so an action potential cannot be generated. It lasts **~1ms**.
 
 ###Propagation of the Action Potential
-An increase in Na<sup>+</sup> in one region of the axon will diffuse down the cell, raising the membrane potential above the resting potential in the adjacent membrane. This causes these fast Na<sup>+</sup> channels to open, resulting in a propagating wave of depolarisation and repolarisation.
+An increase in Na<sup>+</sup> in one region will diffuse down the cell, raising the membrane potential above the resting potential in the adjacent membrane. This causes these fast Na<sup>+</sup> channels to open, resulting in a propagating wave of depolarisation and repolarisation.
 
 Regions of a nerve cell covered by a myelin sheath do not have ion channels. In these cells, propagation is **saltatory**, as the action potential jumps between gaps in the myelin known as **nodes of Ranvier**. At these nodes, ion channels generate an action potential in the usual manner, whilst between nodes conduction is via local electrical currents. Myelination **increases conducting velocity**, **reduces energy expenditure** by reducing total ion flux.
+
+###Classification of Nerve Fibres
+Classified on their diameter and conduction velocity:
+* Type A  
+Myelinated, 12-20μm in diameter, conduct at 70-120m.s<sup>-1</sup>. Subdivided into:
+    * Aα  
+    Motor fibres.
+    * Aβ  
+    Touch fibres.
+    * Aγ  
+    Intrafusal (proprioceptive) muscle fibre.
+    * Aδ  
+    Pain fibres.
+* Type B  
+Myelinated, <3μm, conduct at 4-30m.s<sup>-1</sup>. Innervate pre-ganglionic neurons.
+* Type C  
+Unmyelinated, 1μm, conduct at 0.5-2m.s<sup>-1</sup>. Pain fibres. 
 
 ---
 ##References
