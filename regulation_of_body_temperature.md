@@ -75,11 +75,15 @@ Temperature sensation runs from cutaneous receptors via the dorsal column and me
     * Hormonal  
     Levels of thyroid hormone and adrenaline increase, raising metabolic rate in all cells
     * Brown fat  
-    Brown fat produces heat through **uncoupled oxidative phosphorylation**, which uses the electron transport chain to produce heat rather than ATP. It is a vital mechanism for heat production in the **neonate** (they have an **immature shivering response**), and forms ~5% of neonatal mass. Brown fat is located:
-      * Neck
-      * Supraclavicular
-      * Interscapula
-      * Suprarenal
+    Brown fat produces heat through **uncoupled oxidative phosphorylation**, which uses the electron transport chain to produce heat rather than ATP. Brown fat is:
+      * A vital mechanism for heat production in the **neonate** (they have an **immature shivering response**), and forms ~5% of neonatal mass
+      * Located in:
+        * Neck
+        * Supraclavicular
+        * Interscapula
+        * Suprarenal
+      * Sympathetically innervated  
+      Contains large numbers of β<sub>3</sub> receptors
 
 ##Effect of Anaesthesia
 General anaesthesia causes a 1-3°C drop in core body temperature, which occurs in three phases:
