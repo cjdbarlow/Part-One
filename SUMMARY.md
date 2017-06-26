@@ -50,6 +50,7 @@
     * [Organophosphates](organophosphate_poisoning.md)
 * [Cellular Physiology](the_cell_membrane.md#id)
   * [The Cell Membrane](the_cell_membrane.md)
+  * [Organelles](organelles.md)
   * [Excitable Cells](excitable_cells.md)
   * [Transport Across Cell Membranes](transport_across_cell_membranes.md)
   * [Cellular Respiration](cellular_respiration.md)
