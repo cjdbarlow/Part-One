@@ -45,27 +45,6 @@ Adrenoreceptors are classified by their varying sensitivity to different catecho
   * Are present in fat  
   Agonism causes lipolysis and thermogenesis.
 
-
-##Production and Metabolism
-Naturally occurring catecholamines include **adrenaline**, **noradrenaline**, and **dopamine**. Synthesis:
-* Occurs in the **adrenal medulla**
-  * The medulla is a **modified sympathetic ganglion** composed of **chromaffin cells**  
- Therefore synthesis is dependent on **ACh release** by the presynaptic neuron.
-* Is a stepwise process:
-  * **Tyrosine** is concentrated in the adrenal medulla
-  * Tyrosine is hydroxylated to DOPA by **tyrosine hydroxylase**  
-  This is the **rate-limiting** step, and is probably the best enzyme to remember.
-  * DOPA is decarboxylated to dopamine
-  * Dopamine is converted to noradrenaline
-  * Noradrenaline is converted to adrenaline
-
-Plasma half-lives of noradrenaline and adrenaline are small as a consequence of their metabolism and elimination.
-
-* Extraneuronal uptake in the lungs, liver, kidney, and GIT
-* Neuronal uptakeby sympathetic nerve endings
-* Inactivation by MAO in nerve cytoplasm
-* Inactivation by COMT in the liver and kidney
-
 ---
 ##References
 Power and Kam
