@@ -32,15 +32,7 @@ The RAAS is a signaling pathway involved in blood pressure control. It involves 
     * Stimulates **ADH release**, reducing renal water excretion
     * Stimulates release of angiotensinogen
 
-* **Aldosterone** is a mineralocorticoid hormone produced in the Zona Glomerulosa of the adrenal gland.
-    * Aldosterone release is stimulated by:
-        * Increased serum K<sup>+</sup>
-        * Increased Angiotensin II
-        * Decreased ECF osmolality
-        * Decreased intravascular volume
-    * Aldosterone increase sodium and water retention (and removal of potassium), via:
-        * Increases expression and activation of Na<sup>+</sup>/K<sup>+</sup> pumps on the basolateral membrane of DCT and CT cells, increasing Na<sup>+</sup> (and water) reabsorption, and increasing K<sup>+</sup> elimination
-        * Stimulates the Na<sup>+</sup>/H<sup>+</sup> pump in intercalated cells on the DCT
+* **Aldosterone** increases Na<sup>+</sup> (and water) reabsorption, and increasing K<sup>+</sup> elimination
         
     
 
