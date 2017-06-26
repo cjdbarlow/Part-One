@@ -26,4 +26,49 @@ Aldosterone is the key mineralocorticoid hormone:
     * Stimulation of the Na<sup>+</sup>/H<sup>+</sup> pump in intercalated cells on the DCT
 
 ###Glucocorticoids
-Cortisol
+Cortisol (hydrocortisone) is the primary glucocorticoid in the body, accounting for 95% of endogenous glucocorticoid effect. Cortisol is:
+* Produced at ~15-30mg.day<sup>-1</sup>
+* Released in response to ACTH  
+ACTH is released in response to CRH, which is:
+    * Released in response to stress
+    * Modulated by circadian rhythms, and demonstrates diurnal variation:
+        * CRH peaks just before waking
+        * CRH troughs during sleep
+
+Cortisol has effects on many organ systems, and in **physiological** amounts cause:
+* CVS
+    * Increased sensitivity to catecholamines
+    * Increases fluid retention
+* Metabolic  
+(Essentially anti-insuolin effects):
+    * Gluconeogenesis  
+    To provide substrates, it also stimulates:
+        * Proteolysis
+        * Lipolysis
+    * Decreased glucose uptake
+
+##Catecholamines
+Naturally occurring catecholamines include:
+* Adrenaline
+* Noradrenaline
+* Dopamine
+
+Synthesis of catecholamines:
+* Occurs in the **adrenal medulla**  
+Adrenal medulla is a **modified sympathetic ganglion** composed of **chromaffin cells**.
+    * Synthesis is dependent on **ACh release** by the presynaptic neuron
+* Has many precursors:
+  * **Tyrosine** is concentrated in the adrenal medulla
+  * Tyrosine is hydroxylated to DOPA by **tyrosine hydroxylase**  
+  This is the **rate-limiting** step, and is probably the best enzyme to remember.
+  * DOPA is decarboxylated to dopamine
+  * Dopamine is converted to noradrenaline
+  * Noradrenaline is converted to adrenaline by **PNMT** (Phenylethanolamine N-methyltransferase)
+
+Plasma half-lives of noradrenaline and adrenaline are small as a consequence of their metabolism and elimination.
+
+* Extraneuronal uptake in the lungs, liver, kidney, and GIT
+* Neuronal uptakeby sympathetic nerve endings
+* Inactivation by MAO in nerve cytoplasm
+* Inactivation by COMT in the liver and kidney
+
