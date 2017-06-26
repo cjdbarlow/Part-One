@@ -11,6 +11,7 @@ Transition from placental gas exchange to pulmonary gas exchange occurs within 2
 * **Compliance**  
 Neonatal chest walls are highly compliant relative to their lungs (due to both a reduced lung compliance and increased chest wall compliance), as compared to adults where lung and chest compliance is equal. Therefore elastic work of breathing is largely determined by the lungs.
 
+
 * **Oxygenation**  
   * O<sub>2</sub> consumption is ~10ml.kg<sup>-1</sup>.min<sup>-1</sup> in neonates, and 6ml.kg<sup>-1</sup>.min<sup>-1</sup> in children
   * There is a ~10% shunt after birth which contributes to a greater A-a gradient
