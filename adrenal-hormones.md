@@ -56,8 +56,8 @@ Naturally occurring catecholamines include:
 * Dopamine
 
 Synthesis of catecholamines occurs in the **adrenal medulla**, which is a **modified sympathetic ganglion** composed of **chromaffin cells**.
-    * Synthesis and release is dependent on **ACh release** by the presynaptic neuron  
-    Unlike many other hormones, catecholamine secretion is not a negative-feedback loop
+* Synthesis and release is dependent on **ACh release** by the presynaptic neuron  
+Unlike many other hormones, catecholamine secretion is not a negative-feedback loop.
 
 Process of catecholamine synthesis:
 * **Tyrosine** is concentrated in the adrenal medulla
@@ -75,7 +75,6 @@ Plasma half-lives of noradrenaline and adrenaline are small as a consequence of 
 * Inactivation by MAO in nerve cytoplasm
 * Inactivation by COMT in the liver and kidney
 
-###Catecholamine Regulation
 
 ---
 ##References
