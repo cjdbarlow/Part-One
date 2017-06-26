@@ -40,7 +40,7 @@ Cortisol has effects on many organ systems, and in **physiological** amounts cau
     * Increased sensitivity to catecholamines
     * Increases fluid retention
 * Metabolic  
-(Essentially anti-insuolin effects):
+(Essentially anti-insulin effects):
     * Gluconeogenesis  
     To provide substrates, it also stimulates:
         * Proteolysis
@@ -72,3 +72,8 @@ Plasma half-lives of noradrenaline and adrenaline are small as a consequence of 
 * Inactivation by MAO in nerve cytoplasm
 * Inactivation by COMT in the liver and kidney
 
+
+---
+##References
+Brandis
+Chambers
