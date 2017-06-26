@@ -80,7 +80,7 @@ Myelinated, 12-20μm in diameter, conduct at 70-120m.s<sup>-1</sup>. Subdivided 
     * Aδ  
     Pain fibres.
 * Type B  
-Myelinated, <3μm, conduct at 4-30m.s<sup>-1</sup>. Innervate pre-ganglionic neurons.
+Myelinated, < 3μm, conduct at 4-30m.s<sup>-1</sup>. Innervate pre-ganglionic neurons.
 * Type C  
 Unmyelinated, 1μm, conduct at 0.5-2m.s<sup>-1</sup>. Pain fibres. 
 
