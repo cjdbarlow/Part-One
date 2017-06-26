@@ -11,20 +11,27 @@ Transition from placental gas exchange to pulmonary gas exchange occurs within 2
 * **Compliance**  
 Neonatal chest walls are highly compliant relative to their lungs (due to both a reduced lung compliance and increased chest wall compliance), as compared to adults where lung and chest compliance is equal. Therefore elastic work of breathing is largely determined by the lungs.
 
+* **Oxygenation**  
+  * O<sub>2</sub> consumption is ~10ml.kg<sup>-1</sup>.min<sup>-1</sup> in neonates, and 6ml.kg<sup>-1</sup>.min<sup>-1</sup> in children
+  * There is a ~10% shunt after birth which contributes to a greater A-a gradient
+
 
 * **Ventilation**  
   * Obligate nose breathers
-  * Neonates have a high respiratory rate (25-40 breaths per minute) and low tidal volume, such that dead space ventilation is high.
+  * Increased CO<sub>2</sub> production due to higher metabolic rate
+  * Increased minute ventilation, which is due to increased respiratory rate (25-40 breaths per minute)
 
-
-* **Oxygenation**  
-O<sub>2</sub> consumption is ~10ml.kg<sup>-1</sup>.min<sup>-1</sup>. In addition, there is a ~10% shunt after birth which contributes to a greater A-a gradient.
 
 * **Neurological control of breathing**  
-Respiratory patterns change following birth, and complete change to adult respiratory patterns may take some weeks. **Periodic breathing** is a slowly oscillating respiratory rate and V<sub>T</sub>, and **periodic apnoea** is intermittent apnoea interspersed with normal breathing.
+Respiratory patterns change following birth, and complete change to adult respiratory patterns may take some weeks. Patterns include:
+  * **Periodic breathing** is a slowly oscillating respiratory rate and V<sub>T</sub>
+  * **Periodic apnoea** is intermittent apnoea interspersed with normal breathing.
+
 
 * **Volumes and capacities**  
-Closing capacity is increased relative to adults. Functional residual capacity is unchanged.
+  * Closing capacity is increased relative to adults, causing shunt
+  * Functional residual capacity is unchanged
+  * Tidal volume and dead space are unchanged
 
 
 * **Laryngeal anatomy**  
