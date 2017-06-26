@@ -63,7 +63,8 @@ Adrenal medulla is a **modified sympathetic ganglion** composed of **chromaffin 
   This is the **rate-limiting** step, and is probably the best enzyme to remember.
   * DOPA is decarboxylated to dopamine
   * Dopamine is converted to noradrenaline
-  * Noradrenaline is converted to adrenaline by **PNMT** (Phenylethanolamine N-methyltransferase)
+  * Noradrenaline is converted to adrenaline by **PNMT** (Phenylethanolamine N-methyltransferase)  
+  This may only occur in the adrenal medulla.
 
 Plasma half-lives of noradrenaline and adrenaline are small as a consequence of their metabolism and elimination.
 
