@@ -15,12 +15,12 @@ Produces catecholamines.
 
 ##Steroid Hormones
 ###Mineralocorticoids
-Aldosterone is the key mineralocorticoid hormone:
+Aldosterone is the key mineralocorticoid hormone, accounting for 95% of mineralocorticoid activity:
 * Release is stimulated by:
     * Increased serum K<sup>+</sup>
     * Increased Angiotensin II
-    * Decreased ECF osmolality
-    * Decreased intravascular volume
+    * Increased ACTH
+    * Decreased serum pH
 * Acts to increase sodium and water retention (and removal of potassium), via:
     * Increased expression and activation of Na<sup>+</sup>/K<sup>+</sup> pumps on the basolateral membrane of DCT and CT cells, causing increased Na<sup>+</sup> (and water) reabsorption and K<sup>+</sup> elimination
     * Stimulation of the Na<sup>+</sup>/H<sup>+</sup> pump in intercalated cells on the DCT
