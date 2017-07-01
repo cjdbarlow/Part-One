@@ -7,16 +7,19 @@
 
 *This covers the pharmacology of acetylcholine receptors and the production and metabolism of ACh. Detailed information on specific agents is in the pharmacopeia.*
 
-Acetylcholine is a neurotransmitter vital for CNS, ANS, and muscular function.
+Acetylcholine is a neurotransmitter vital for normal function of:
+* CNS
+* ANS
+* Muscule contraction
 
 ##Synthesis, Release, and Metabolism
 ACh is produced is the nerve cytoplasm by **acetyltransferase** from:
 * Choline  
-Diet and recycled ACh.
+From diet and recycled ACh.
 * Acetyl-coenzyme A  
-Produced in mitochondria.
+Produced in the inner mitochondrial matrix.
 
-Once synthesised, ACh is then packaged into vesicles (each containing ~10000 ACh molecules), which are **released in response to calcium** influx occurring at the culmination of an action potential.
+Once synthesised, ACh is then packaged into vesicles (each containing ~10,000 ACh molecules), which are **released in response to calcium** influx occurring at the culmination of an action potential.
 
 Acetylcholine is metabolised by acetylcholinesterase on the post-junctional membrane. AChE:
 * Has two binding sites:
@@ -25,8 +28,7 @@ Acetylcholine is metabolised by acetylcholinesterase on the post-junctional memb
     * Esteratic binding site    
     Binds the ester group of ACh.
 * Once bound, ACh is acetylated
-* Acetylated-ACh is then hydrolysed to produce acetic acid
-
+* Acetylated-ACh is then hydrolysed to produce **acetic acid**
 
 
 ##ACh Receptor Subtypes
@@ -62,7 +64,7 @@ There are two types of ACh receptor:
         Heart.
         * M<sub>3</sub>  
         Bronchial and arteriolar smooth muscle.
-        * M<sub>4</sub> and M<sub>5</sub>    
+        * M<sub>4</sub> and M<sub>5</sub>  
         CNS.
 
 
