@@ -12,24 +12,27 @@ Absorption is dependent on the route of administration. Routes of administration
   * Ability to take or absorb oral medications
   * Preference
 
-## Key concepts
+## Key Concepts
 
-**Bioavailability** is the percentage of drug given which reaches the systemic circulation, compared to the IV form. It is affected by:
+**Bioavailability** is the **proportion of drug given which reaches the systemic circulation unchanged**, compared to the IV form. It is affected by:
 
 * Formulation
-* Physicochemical: Interactions with other drugs and food
-* Patient: Malabsorption syndromes, gastric stasis
+* Physicochemical Interactions  
+Interactions with other drugs and food.
+* Patient Factors  
+  * Malabsorption syndrome
+  * Gastric stasis
 * First-pass metabolism
 
-**First-pass ** \(pre-systemic\) ** metabolism** is the extent to which drug concentration is reduced after its first passage through an organ before reaching the systemic circulation. First pass metabolism is:
+**First-pass ** \(pre-systemic\) ** metabolism** is the extent to which drug concentration is reduced after its first passage through an organ, prior to reaching the systemic circulation. First pass metabolism is:
 * Typically used when referring to passage of orally-adminstered drugs through the liver  
 May also refer to metabolism by the:
   * Lungs  
-  First pass of intravenously injected drugs prior to entering the arterial side of the circulation
+  First pass of intravenously injected drugs prior to entering the arterial side of the circulation, e.g. fentanyl.
   * Vascular endothelium
 * Relevant in:
-  * Understanding the difference between PO and IV dosing
-    * Alternative routes of adminsitration for drugs with low PO bioavailability
+  * Understanding differences between PO and IV dosing
+    * Alternative routes of administration for drugs with low PO bioavailability
   * Delivery of prodrugs via PO mechanisms  
   Increases active drug concentration.
   * Understanding enzyme interactions 
@@ -43,7 +46,8 @@ May also refer to metabolism by the:
 ### Intravenous
 
 * Rapid Onset
-* 100% bioavailability \(may have pulmonary first-pass metabolism for drugs which are metabolised in pulmonary circulation, such as fentanyl, lignocaine, propofol, and catecholamines\)
+* 100% bioavailability  
+Some drugs may still undergo metabolism in the pulmonary circulation, such as fentanyl, lignocaine, propofol, and catecholamines.
 
 ### Oral
 
@@ -51,7 +55,7 @@ May also refer to metabolism by the:
   * Transport mechanisms
   * Unionised \(lipid soluble\)
     * Acidic drugs are absorbed more rapidly in the stomach
-    * The small bowel absorbs both acid and alkaline drugs due to high surface area
+    * The small bowel absorbs both acid (despite being ionised) and alkaline drugs due to high surface area
 * Lowest bioavailability of any route due to:
   * First-pass metabolism
   * Gut metabolism of drugs
@@ -63,16 +67,17 @@ May also refer to metabolism by the:
 * Drug Factors
   * Molecular Weight
   * Concentration Gradient
-  * Lipid solubility
+  * Lipid Solubility
+    * pH and pKa
   * Pharmaceutical Preparation
-  * Physiochemical interactions
+  * Physiochemical Interactions
     * Food
     * Other drugs
 
 * Patient Factors
   * GIT blood flow
   * Surface Area
-    * SB has the largest surface area of any GIT organ
+    * Small bowel has the largest surface area of any GIT organ
   * pH
   * Motility
   * Digestive Enzymes
@@ -85,10 +90,12 @@ May also refer to metabolism by the:
 ### Epidural
 
 * May be via bolus or infusion
-* Onset determined by proportion of unionised drug available
+* Onset determined by proportion of unionised drug available  
+Lignocaine has a more rapid epidural onset than bupivacaine as it has a pKa of 7.7 (compared to 8.4) and therefore a greater unionised portion at physiologic pH.
+
+
 * Additional factors include additives and intrinsic vasoactive properties of the delivered drug
 
-_This is why lignocaine can be used for rapid analgesia through an epidural, as it has a pKa of 7.7 and has a greater portion uninionised than bupivicaine \(pKa 8.4\) at physiological pH. _
 
 ### Subarachnoid/Intrathecal
 
