@@ -1,6 +1,6 @@
 # ACE Inhibitors
 
-ACE inhibitors prevent the conversion of angiotensin I to angiotensin II by angiotensin converting enzyme (ACE) in the lungs, in turn reducing effects of angiotensin II. Thes effects include:
+ACE inhibitors prevent the conversion of angiotensin I to angiotensin II by angiotensin converting enzyme (ACE) in the lungs, in turn reducing effects of angiotensin II. These effects include:
 * Vasoconstriction
 * Noradrenaline reuptake inhibition
 * Thirst
@@ -25,11 +25,11 @@ All grades.
 ##Classification
 Can be divided into three groups based on pharmacokinetics:
 * Active drug with active metabolites  
-Captopril
+Captopril.
 * Prodrug  
-Ramipril
+Ramipril.
 * Not metabolised and excreted unchanged in urine  
-Lisinopril
+Lisinopril.
 
 ##Common Features of ACE Inhibitors
 |Property|Drug
@@ -40,8 +40,8 @@ Lisinopril
 |**Renal**|With a normal renal perfusion pressure, natriuresis results. However, a fall in renal perfusion pressure may cause pre-renal failure (e.g. renal artery stenosis).
 |**Haeme**|Agranulocytosis, thrombocytopenia
 |**Immune**|Angioedema
-|**Metabolic**| ↑ in renin release.
+|**Metabolic**| ↑ Renin release.
 |**Interactions**|↓ Aldosterone release, which ↑ the efficacy of spironolactone and may precipitate hyperkalaemia. Pharmacodynamic interaction with NSAIDs to drop renal perfusion pressure.
 
 ##References
-Peck and Hill
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
