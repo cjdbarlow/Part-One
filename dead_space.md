@@ -26,16 +26,17 @@ Dead space from equipment, such as tubes ventilator circuitry. Some apparatus de
   * **Pathological/Alveolar Dead Space**    
     Dead space caused by disease. Pathological dead space may be calculated by substracting physiological dead space (Bohr's Method) from anatomical (Fowler's method).
     * Causes of pathological dead space include:
-      * Decreased pulmonary artery pressure  
+      * Erect posture
+      * Decreased pulmonary artery pressure/impaired pulmonary blood flow  
         * Hypovolaemia
         * RV failure/Increased RV afterload:
-          * High intrathoracic pressures (e.g. PPV)
-          * PE
           * HPV
           * MI
-      * Increased alveolar pressure
+        * PE
+      * Increased alveolar pressure  
+      Increases West Zone 1 physiology.
         * PEEP
-        * Positioning
+      * COAD
 
 
 ##Calculation of Dead Space
