@@ -22,7 +22,7 @@ Acids produced by the body can be:
 ##Bicarbonate and the Kidney
 Buffer systems minimise changes in pH until the kidney can eliminate excess hydrogen.
 
-Bicarbonate is the predominant ECF buffer system (see [Acid-Base physiology](rinciples-of-acid-base-physiology.md) for more on buffers). By adjusting the level of HCO<sub>3</sub><sup>-</sup> the kidney is able to adjust pH, as per the Henderson-Hasselbalch equation:
+Bicarbonate is the predominant ECF buffer system (see [Acid-Base physiology](principles-of-acid-base-physiology.md) for more on buffers). By adjusting the level of HCO<sub>3</sub><sup>-</sup> the kidney is able to adjust pH, as per the Henderson-Hasselbalch equation:
 
 $$ \begin{align*}
 pH &= pK_a + log{[HCO_3^-] \over [CO_2]} \\
