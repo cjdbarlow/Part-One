@@ -37,7 +37,7 @@ Where:
 
 Bicarbonate is:
 * Freely filtered  
-  4320 mmol.day<sup>-1</sup> of HCO<sub>3</sub><sup>-</sup> is filtered (24mmol.L<sup>-1</sup> x 180 L.day<sup>-1</sup>)
+  4320 mmol.day<sup>-1</sup> of HCO<sub>3</sub><sup>-</sup> is filtered (24mmol.L<sup>-1</sup> x 180 L.day<sup>-1</sup>, normal range is 4-5mol.day<sup>-1</sup>)
 * Reabsorbed in the PCT (90%), thick ascending limb, DCT, and CT  
   Adjusting rate of absorption allows correction of an acidosis or alkalosis. All **HCO<sub>3</sub><sup>-</sup> reabsorption is equivalent to a loss of H<sup>+</sup>**.
 
