@@ -1,24 +1,28 @@
 # Acid-Base Balance
 > Describe the role of the kidneys in the maintenance of acid/base balance
 
-Acids produced by the body can be **volatile** (CO<sub>2</sub>) or **fixed** (everything else). The volatile acid load is removed by the lungs at the same rate as it is produced, so there is no net gain or loss of CO<sub>2</sub> and therefore no net gain or loss of H<sup>+</sup>.
-
-The kidney is responsible for excreting fixed acids. These include lactate, sulphate, phosphate, and ketones, of which the the body produces and eliminates **50-80mmol** of H<sup>+</sup> per day.
-
-Mechanisms for elimination of acid include:
-* Reabsorption of HCO<sub>3</sub><sup>-</sup>  
-  This is equivalent to the removal of the same amount of H<sup>+</sup>.
-    * As there is usually a net production of acid, under normal circumstances **all filtered HCO<sub>3</sub><sup>-</sup> is reabsorbed**
-    * Note that removal of an acid load is associated with greater HCO<sub>3</sub><sup>-</sup> generation and reabsorption, not increased H<sup>+</sup> secretion 
-* Bound to filtered buffers
-* As ammonium
-
-The rate and extent of these reactions is dependent on ECF pH and ion concentrations, which gives the kidney control over ion concentrations.
-
-Urinary pH can fall as low as ~4.4, before the active transport of H<sup>+</sup> is inhibited.
+Acids produced by the body can be:
+* **Volatile** (CO<sub>2</sub>)  
+  * Body produces and eliminates <strong>~13-20mol.day<sup>-1</sup></strong>
+  * Removed by the lungs
+* **Fixed** (everything else)
+  * Include lactate, sulphate, phosphate, and ketones
+  * Body produces and eliminates <strong>10mmol.kg<sup>-1</sup>.day<sup>-1</sup></strong>
+  * Eliminated by the kidney  
+  Mechanisms for elimination of acid include:
+    * Reabsorption of HCO<sub>3</sub><sup>-</sup>  
+      This is equivalent to the removal of the same amount of H<sup>+</sup>.
+      * As there is usually a net production of acid, under normal circumstances **all filtered HCO<sub>3</sub><sup>-</sup> is reabsorbed**
+      * Note that removal of an acid load is associated with greater HCO<sub>3</sub><sup>-</sup> generation and reabsorption, not increased H<sup>+</sup> secretion 
+    * Bound to filtered buffers
+    * As ammonium
+  * The rate and extent of these reactions is dependent on ECF pH and ion concentrations, which gives the kidney control over ion concentrations
+  * Urinary pH can fall as low as ~4.4, before the active transport of H<sup>+</sup> is inhibited
 
 ##Bicarbonate and the Kidney
-Buffer systems minimise changes in pH until the kidney can eliminate excess hydrogen. Bicarbonate is the predominant ECF buffer system (see Acid-Base physiology for more on buffers). By adjusting the level of HCO<sub>3</sub><sup>-</sup> the kidney is able to adjust pH, as per the Henderson-Hasselbalch equation:
+Buffer systems minimise changes in pH until the kidney can eliminate excess hydrogen.
+
+Bicarbonate is the predominant ECF buffer system (see [Acid-Base physiology](rinciples-of-acid-base-physiology.md) for more on buffers). By adjusting the level of HCO<sub>3</sub><sup>-</sup> the kidney is able to adjust pH, as per the Henderson-Hasselbalch equation:
 
 $$ \begin{align*}
 pH &= pK_a + log{[HCO_3^-] \over [CO_2]} \\
