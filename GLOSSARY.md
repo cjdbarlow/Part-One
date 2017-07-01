@@ -4,6 +4,12 @@
 
 The systematic distortion of the estimated intervention effect away from the “truth”, caused by inadequacies in the design, conduct, or analysis of a trial.
 
+##CT
+Collecting Duct.
+
+##DCT
+Distal Convoluted Tubule.
+
 ## duplicate publication
 
 Where the same set of results are published in multiple journals. Academically unethical, and will cause a systematic bias in a meta-analyses as the same set of patients are inclulded twice.
@@ -37,3 +43,10 @@ Phosphodiesterase
 
 ##PGDF
 Platelet-Derived Growth Factor
+
+##PCT
+Proximal Convoluted Tubule.
+
+
+##MAP
+Mean Arterial Pressure.
