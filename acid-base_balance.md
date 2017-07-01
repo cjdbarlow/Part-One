@@ -52,7 +52,7 @@ Reabsorption of bicarbonate involves several steps:
 * CO<sub>2</sub> and H<sub>2</sub>O are converted back into HCO<sub>3</sub><sup>-</sup> and H<sup>+</sup> in the tubular cell
 * HCO<sub>3</sub><sup>-</sup> is reabsorbed into the capillary via the HCO<sub>3</sub><sup>-</sup>-Cl<sup>-</sup> antiporter, and the H<sup>+</sup> ion is available to be secreted into the tubule (in exchange for K<sup>+</sup>
 
-This complicated process allows HCO<sub>3</sub><sup>-</sup> to be moved from the tubule to the tubular cell and then to the capillary. **There is no net elimination of H<sup>+</sup>** by this method - the purpose of H<sup>+</sup> secretion is to facilitate the reabsorption[^1] of HCO<sub>3</sub><sup>-</sup> into the tubular cell.
+This complicated process allows HCO<sub>3</sub><sup>-</sup> to be moved from the tubule to the tubular cell and then to the capillary. **There is no elimination of H<sup>+</sup>** by this method - the purpose of H<sup>+</sup> secretion is to facilitate the **reabsorption of HCO<sub>3</sub><sup>-</sup>** into the tubular cell.
 
 ##Bound to Filtered Buffers
 Secreted H<sup>+</sup> may also combine with a filtered buffer (e.g. PO<sub>4</sub><sup>3-</sup>). **These H<sup>+</sup> ions are not reabsorbed**. About **36mmol** of H<sup>+</sup> is eliminated with filtered PO<sub>4</sub><sup>3-</sup> each day, with each PO<sub>4</sub><sup>3-</sup> binding **two** H<sup>+</sup> ions.
@@ -69,7 +69,7 @@ Glutamine provides a mechanism for elimination of a large number of H<sup>+</sup
 
 ---
 ##References
-CICM Sep/Nov 2014
-ANZCA Feb/April 2012
-Power and Kam
-http://fitsweb.uchc.edu/student/selectives/TimurGraham/Bicarbonate_reabsorption.html
+1. CICM Sep/Nov 2014
+2. ANZCA Feb/April 2012
+3. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+4. [Acid-Base Online Tutorial, University of Conneticut](http://fitsweb.uchc.edu/student/selectives/TimurGraham/Bicarbonate_reabsorption.html)
