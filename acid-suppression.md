@@ -21,3 +21,4 @@
 ##References
 1. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
 2. ANZCA Feb/April 2012
+3. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. Oxford University Press. 4th Ed. 2011.
