@@ -17,9 +17,10 @@ These are also called rheologic factors.
 ##Factors Affecting Perfusion Pressure
 * Cerebral Perfusion Pressure is the difference between mean arterial pressure and intracranial pressure: $$CPP = MAP - ICP$$
 * A **normal CPP** is **~80mmHg**
-* In normal individuals, CBF is autoregulated over a **CPP range** of **60-160mmHg**
+* In normal individuals, CBF is classically thought to be autoregulated over a **CPP range** of **60-160mmHg**
   * This occurs by **myogenic means**, similar to the kidney
   * In normal circumstances, this is dependent on MAP (i.e., with a normal ICP <10mmHg, CBF is regulated over a MAP range of 50-150mmHg).
+* Note that more **recent evidence** would suggest that CBF is autoregulated over a much narrower range of perfusion pressures, and has a greater capacity to buffer an increased rather than decreased perfusion pressure
 
 AUTOREGULATION CURVE
 
@@ -31,6 +32,9 @@ AUTOREGULATION CURVE
 * The curve is probably inaccurate in the pathological conditions where it would otherwise be useful, such as malignancy, subarachnoid haemorrhage, CVA, or TBI
   * This may be due to damage to either the feedback mechanisms, or the effectors (vasculature)
   * **Flow may become pressure-dependent**, and small changes in MAP can have large changes in CBF
+
+###A Note on Perfusion Pressure
+Autore
 
 ##Factors Affecting Vessel Radius
 Vasodilation and constriction affect both cerebral blood flow and ICP, as vasodilatation increases cerebral blood volume and therefore may increase ICP through the Monroe-Kellie doctrine.
@@ -81,3 +85,4 @@ O2 AND CEREBRAL BLOOD FLOW GRAPH
 ##References
 Power and Kam
 http://www.frca.co.uk/Documents/170907%20Cerebral%20physiology%20I.pdf
+Integrative regulation of human brain blood flow, J physiol
