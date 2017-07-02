@@ -219,6 +219,7 @@
   * [Principles of Ultrasound](principles_of_ultrasound.md)
   * [Temperature and Humidity](temperature.md)
   * [Medical Gas Supply](medical-gas-supply.md)
+  * [Scavenging](scavenging.md)
   * [Vaporisers](vaporisers.md)
 * [Procedural Anatomy](subclavian_vein.md#id)
   * [Subclavian Vein](subclavian_vein.md)
