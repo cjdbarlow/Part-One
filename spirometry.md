@@ -2,33 +2,54 @@
 
 > Describe the pressure and flow-volume relationships of the lung, chest wall and the total respiratory system
 
+<!--></!-->
 
-Spirometers measure flow and (by integrating for time) volume. 
- 
- 
+> Describe the measurement and interpretation of pulmonary function tests, including diffusion capacity.
 
-##Basic Measurements
-Basic measurements obtained include:
-* Static lung volumes
-* Forced Expiratory Volume over one second (FEV<sub>1</sub>)  
-The volume of air that can be forcible exhaled in one second.
-* Forced Vital Capacity (FEV)  
-The volume of air which can be exhaled.
-  * Peak flow
-  * Flow-volume loops
- 
+Pulmonary function tests are performd with a **spirometer**, which measures either volume or flow (integrated for time) to quantify lung function.
+
+Basic spirometry can be used to quantify:
+* Lung volumes and capacities  
+All except residual volume (and therefore FRC and TLC).
+* Dynamic measurements
+    * FEV<sub>1</sub>  
+    Volume of air forcibly exhaled in one second.
+    * FVC  
+    Forced vital capacity.
+    * PEFR  
+    Peak expiratory flow rate.
+    * Flow-volume loop
+
+Additional testing can be performed to measure:
+* Residual volume  
+FRC and TLC can therefore be calculated.
+* Diffusion capacity
+
+##Basic Spirometry
+Basic spirometry includes:
+* Forced spirometry  
+Patient forcibly exhales a vital capacity breath, producing a exponential (wash-in) curve. This calculates:
+    * PEFR from the gradient at time 0 (assuming maximal effort)
+    * FEV<sub>1</sub> is the volume expired in 1s  
+    Normal is > 80% of predicted.
+    * FVC is the total volume exhaled.
+    * The FEV<sub>1</sub>/FVC ratio  
+    Normal is > 0.7.
+
  
  VOLUME TIME GRAPH PAGE 57 CHAMBERS
 
-   * In obstructive airways disease:
-     * FEV<sub>1</sub> <80% predicted
-     * FEV<sub>1</sub>/FVC ratio <0.7
-   * Restrictive disease:
-     * FEV<sub>1</sub> <80% predicted
-     * FVC <80% predicted
-     * FEV/FVC ratio >0.7  
-     The ratio is normal as the FEV<sub>1</sub> and FVC fall proportionally.
-     
+These values also quantify disease severity:
+* In obstructive airways disease:
+  * FEV<sub>1</sub> <80% predicted
+  * FEV<sub>1</sub>/FVC ratio <0.7
+* Restrictive disease:
+  * FEV<sub>1</sub> <80% predicted
+  * FVC <80% predicted
+  * FEV/FVC ratio >0.7  
+  The ratio is normal as the FEV<sub>1</sub> and FVC fall proportionally.
+
+
 ##Flow-Volume Loops
 FLOW VOLUME LOOPS
 
