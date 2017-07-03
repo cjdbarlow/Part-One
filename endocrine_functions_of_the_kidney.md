@@ -25,12 +25,15 @@ The RAAS is a signaling pathway involved in blood pressure control. It involves 
 
 * **Angiotensin II** increases blood pressure via a number of mechanisms:
     * Simulates **aldosterone release** from the renal cortex, increasing sodium and water retention
-    * **Vasoconstriction of afferent and efferent arterioles**, reducing renal blood flow and GFR
+    * **Vasoconstriction of efferent greater than the afferent arterioles**  
+    Results in relative preservation of GFR at a reduced renal blood flow.  
+        * NB: Different sources quote different changes (increase or decrease) in GFR.
     * **Reduces K<sub>f</sub>** through constriction of glomerular mesangial cells
     * Increased SNS activity and **central and peripheral vasoconstriction**
     * **Increases thirst** via hypothalamic stimulation
     * Stimulates **ADH release**, reducing renal water excretion
     * Stimulates release of angiotensinogen
+
 
 * **Aldosterone** increases Na<sup>+</sup> (and water) reabsorption, and increasing K<sup>+</sup> elimination
         
