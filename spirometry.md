@@ -35,20 +35,24 @@ Patient forcibly exhales a vital capacity breath, producing a exponential (wash-
     * FVC is the total volume exhaled.
     * The FEV<sub>1</sub>/FVC ratio  
     Normal is > 0.7.
+    * These values also quantify disease severity:
+      * In obstructive airways disease:
+        * FEV<sub>1</sub> <80% predicted
+        * FEV<sub>1</sub>/FVC ratio <0.7
+      * Restrictive disease:
+        * FEV<sub>1</sub> <80% predicted
+        * FVC <80% predicted
+        * FEV/FVC ratio >0.7  
+        The ratio is normal as the FEV<sub>1</sub> and FVC fall proportionally.
+
 
  
  VOLUME TIME GRAPH PAGE 57 CHAMBERS
 
-These values also quantify disease severity:
-* In obstructive airways disease:
-  * FEV<sub>1</sub> <80% predicted
-  * FEV<sub>1</sub>/FVC ratio <0.7
-* Restrictive disease:
-  * FEV<sub>1</sub> <80% predicted
-  * FVC <80% predicted
-  * FEV/FVC ratio >0.7  
-  The ratio is normal as the FEV<sub>1</sub> and FVC fall proportionally.
 
+
+
+A v
 
 ##Flow-Volume Loops
 FLOW VOLUME LOOPS
