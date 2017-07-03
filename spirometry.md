@@ -47,14 +47,16 @@ Patient forcibly exhales a vital capacity breath, producing a exponential (wash-
 
 
  
- VOLUME TIME GRAPH PAGE 57 CHAMBERS
+ FORCED SPIROMETRY GRAPH PAGE 57 CHAMBERS
 
 
 * Volume-Time graph  
-Calculates static lung volumes by having a patient perform:
+Quantifies static lung volumes by having a patient perform:
   * Normal tidal breathing
   * Vital capacity breath
   * Vital capacity exhalation
+  
+VOLUME TIME GRAPH
 
 ##Flow-Volume Loops
 FLOW VOLUME LOOPS
