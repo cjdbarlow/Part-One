@@ -81,6 +81,7 @@
     * [Oxygen Storage](oxygen_storage.md)
     * [Carbon Dioxide](carbon_dioxide_transport.md)
   * [Applied Respiratory Physiology](hypoxia.md#id)
+    * [Pulmonary Function Tests](pulmonary-function-tests.md)
     * [PEEP and IPPV](peep.md)
     * [Hypoxia](hypoxia.md)
     * [Hypo and Hypercapnoea](hypo_and_hypercapnoea.md)
