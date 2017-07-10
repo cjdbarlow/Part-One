@@ -114,8 +114,8 @@ Drugs with longer context-sensitive half-times will wear off less predictably.
 * Remifentanil has little redistribution and small a small Vd in the peripheral compartments, and so has a very short context-**in**sensitive half time. It wears off reliably and quickly following cessation of infusion.
 
 ####Context-Sensitive Decrement Time
-The Context-Sensitive Decrement Time:
-* Describes the time it takes for a drug level to fall to a particular percentage of its starting value following cessation of an infusion
+Context-Sensitive Decrement Times:
+* Describe the time it takes for a drug level to fall to a particular percentage of its starting value following cessation of an infusion
 * They are used because the half-times do not describe **monoexponential decay**  
 i.e. The time taken for drug concentration to reach 25% of its starting value is not twice the context sensitive half-time.
 * The context-sensitive half-time could also be described as the 50% context-sensitive decrement time 
