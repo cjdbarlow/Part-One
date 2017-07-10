@@ -19,6 +19,10 @@ Mechanism of action is by competitive antagonism of ACh at the NMJ, preventing e
 |**Renal**|↑ Duration in acidosis, ↑ duration in hypokalaemia, ↓ duration in hyperkalaemia, ↑ duration in hypermagnesaemia|
 |**Metabolic**|Critical Illness Myopathy in patients with long-term relaxant use|
 
+The ED<sub>95</sub> is:
+* The dose of a neuromuscular blocking drug required to produce a 95% reduction in twitch height
+* A commonly-used therapeutic end-point for neuromuscular blocking drugs  
+Typically, induction doses are 2-5x the ED<sub>95</sub>.
 
 ##Comparison of Neuromuscular Blockers
 |Property|Rocuronium|Vecuronium|Pancuronium|Atracurium|Cisatracurium|
