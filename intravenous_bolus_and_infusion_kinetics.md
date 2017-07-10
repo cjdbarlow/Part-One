@@ -89,7 +89,7 @@ Factors affecting rate of offset of an infusion can be classified into pharmacok
   Drugs which alter gene or receptor expression, or bind irreversibly (e.g. clopidogrel) may show ongoing effects even after the drug has left the system.
     
 
-###Context-sensitive half time
+###Context-Sensitive Half-Time
 **Context-sensitive half time** is:
 * A method to describe the variability in plasma concentrations after ceasing an infusion  
 The "**context**" is the **duration of infusion**.
@@ -111,8 +111,14 @@ Drugs with longer context-sensitive half-times will wear off less predictably.
 
 ![Context-sensitive half times: from: Hill SA. Pharmacokinetics of Drug Infusions. Contin Educ Anaesth Crit Care Pain (2004)](http://i.imgur.com/tfPtCad.jpg)[^3]
 
-* Propofol has a context sensitive half time of ~20 minutes.
 * Remifentanil has little redistribution and small a small Vd in the peripheral compartments, and so has a very short context-**in**sensitive half time. It wears off reliably and quickly following cessation of infusion.
+
+####Context-Sensitive Decrement Time
+Decrement times:
+* Describe the time it takes for a drug level to fall to a particular percentage of its starting value following cessation of an infusion
+* They are used because the half-times do not describe **monoexponential decay**  
+i.e. The time taken for drug concentration to reach 25% of its starting value is not twice the context sensitive half-time.
+* The context-sensitive half-time could also be described as the 50% context-sensitive decrement time 
 
 ---
 
