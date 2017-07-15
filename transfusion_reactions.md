@@ -145,7 +145,7 @@ Transfusion reactions can be classified as either acute (< 24 hours) or delayed 
 |--------|---------|---------|
 |Massive Transfusion Complications|Variable|See below
 |Non-immune mediated haemolysis|Rare|Due to physicochemical damage to RBCs (freezing, device malfunction). May lead to haemoglobinuria, haemoglobinaemia, tachycardia and fevers.
-|Sepsis|1:75,000 (platelets), 1:500,000 (RBC)|Contamination during collection or processing
+|Sepsis|1:75,000 (platelets), 1:500,000 (RBC)|Contamination during collection or processing. Most common organisms are those which use iron as a nutrient and reproduce at low temperatures, e.g. *Yersinia Pestis*.
 |Transfusion Related Circulatory Overload (TACO)|< 1:100|Rapid increase in intracellular volume in patients with poor circulatory compliance or chronic anaemia. May result in pulmonary oedema and be confused with TRALI.
 
 ###Delayed Immunological Reaction

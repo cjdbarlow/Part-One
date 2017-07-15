@@ -196,7 +196,7 @@
     * [Functions of the Liver](functions_of_the_liver.md)
     * [Laboratory Assessment of Liver Function](laboratory-assessment-of-liver-function.md)
     * [Bile](bile.md)
-* [Haematological](erythrocytes.md#id)
+* [Haematology](erythrocytes.md#id)
   * [Erythrocytes](erythrocytes.md)
   * [Iron Homeostasis](iron_homeostasis.md)
   * [Platelets](platelets.md)
