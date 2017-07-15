@@ -20,10 +20,11 @@ The steep section allows a large amount of oxygen to be delivered with only a sm
 
 * The sigmoid shape exists due to **cooperative binding**  
 Each oxygen which binds to Hb causes conformational changes which allow it bind dditional oxygen molcules more easily.
-  * When the fourth oxygen molecule has bound, Hb is said to be in the **relaxed conformation**
+  * When the fourth oxygen molecule has bound, Hb is said to be in the **relaxed conformation** (R state)
+  * When no oxygen is bound, Hb is said to be in the **tense state** (T state)
 
 ###Haemoglobin Species
-Can be physiological or pathological:
+Haemoglobin is a four-tetramer molecule, and its species can be physiological or pathological:
 * **Physiological**
   * **HbA**  
     * Most common
