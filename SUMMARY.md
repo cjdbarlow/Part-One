@@ -222,6 +222,7 @@
   * [Medical Gas Supply](medical-gas-supply.md)
   * [Scavenging](scavenging.md)
   * [Vaporisers](vaporisers.md)
+  * [Diathermy](diathermy.md)
 * [Procedural Anatomy](subclavian_vein.md#id)
   * [Subclavian Vein](subclavian_vein.md)
   * [Internal Jugular Vein](internal_jugular_vein.md)
