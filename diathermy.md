@@ -27,7 +27,8 @@ High-voltage mode producing a damped sine wave response.
 Mixture of cutting and coagulate on different tissues.
 
 ##Risks
-* Burns
+* Burns  
+From incorrectly applied unipolar plate.
 * Electrocution  
 May injure patient, staff, or damage equipment and implants.
 * Electrical Interference  
