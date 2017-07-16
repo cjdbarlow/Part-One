@@ -19,10 +19,11 @@ Characterised by EEG activity resembling that of awake individuals. REM sleep:
         * Dreaming occurs
         * Irregular HR and RR
         * Muscle contraction occurs (but muscle tone is decreased)
-    
+
+
 * **Non-REM sleep**  
 Deep sleep, characterised by depression of HR, SVR, BP, RR, and metabolic rate (~0.9 METs) It is divided into four stages on EEG:
-    * Stage 1: 4-6Hz θwaves replace α-waves  
+    * Stage 1: 4-6Hz θ waves replace α-waves  
     Dosing, easily roused.
     * Stage 2: Similar to stage 1 with occasional high frequency 50μV bursts (sleep spindles0
     * Stage 3: 1-2Hz high-voltage δ waves appear
@@ -39,6 +40,7 @@ GABAergic neurons depress the respiratory centre, causing:
 * Increased PaCO<sub>2</sub>
 * Decreased PO<sub>2</sub>  
 More pronounced in elderly.
+
 
 * Collapse of airway soft tissue  
 Due to reduced tonic activity of pharyngeal muscles.
