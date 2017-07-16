@@ -38,16 +38,19 @@ $$PO_2 = (P_B - P_{SVP \ of \ Water}) \times FiO_2$$, where:
 
 ##Alveolar Gas
 **Ideal alveolar PO<sub>2</sub>** is calculated using the **alveolar gas equation**:  
-$$P_AO_2 = P_iO_2 - {P_aCO_2 \over R} $$, where:
+$$P_AO_2 = P_iO_2 - {P_aCO_2 \over R}.F $$, where:
   * $$P_AO_2$$ is the alveolar partial pressure of oxygen
   * $$P_iO_2$$ is the inspired partial pressure of oxygen
   * $$P_aCO_2$$ is the arterial partial pressure of carbon dioxide
-  * $$R$$ is the respiratory quotient, where $$R = {Volume \ of \ CO_2 \ produced \over Volume \ of \ O_2 \ consumed}$$   
-  R is dependent on the metabolic substrates used for metabolism.
-    * Pure fat ≈ 0.7
-    * Pure protein ≈ 0.9
-    * Pure carbonhydrate ≈ 1
-    * The normal value for a Western diet is quoted as **0.8**
+  * $$R$$ is the respiratory quotient, where $$R = {Volume \ of \ CO_2 \ produced \over Volume \ of \ O_2 \ consumed}$$
+    * R is used in the alveolar gas equation to correct for the change in inspired relative to expired volume  
+    As generally less CO<sub>2</sub> is produced than O<sub>2</sub> consumed, expired volumes are typically less than inspired volumes
+    * R is dependent on the metabolic substrates used for metabolism: 
+      * Pure fat ≈ 0.7
+      * Pure protein ≈ 0.9
+      * Pure carbonhydrate ≈ 1
+      * The normal value for a Western diet is quoted as **0.8**
+  * $$F$$ is a correction factor, usually equal to ~2mmHg, and is given by $$F = P_ACO_2.FiO_2.{1 - R \over R}$$
 
 Alveolar oxgygen is therefore dependent on:
   * PiO<sub>2</sub>, which is a function of:
