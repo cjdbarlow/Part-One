@@ -25,7 +25,7 @@ Characterised by EEG activity resembling that of awake individuals. REM sleep:
 Deep sleep, characterised by depression of HR, SVR, BP, RR, and metabolic rate (~0.9 METs) It is divided into four stages on EEG:
     * Stage 1: 4-6Hz θ waves replace α-waves  
     Dosing, easily roused.
-    * Stage 2: Similar to stage 1 with occasional high frequency 50μV bursts (sleep spindles0
+    * Stage 2: Similar to stage 1 with occasional high frequency 50μV bursts (sleep spindles)
     * Stage 3: 1-2Hz high-voltage δ waves appear
     * Stage 4: Large δ waves become synchronised  
     Deep sleep.
