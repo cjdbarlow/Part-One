@@ -75,7 +75,7 @@ Where:
 * n is the viscosity in $$m^2 / s$$
 
 ###Hagan-Poiseuille Equation
-Models laminar flow - where a fluid moves steadily wihtout turbulence. This ususally occurs in smooth tubes at low rates. Flow is fasted in the **centre**, where it is about **twice the mean flow**, and approaches zero at the walls. In laminar flow states, flow is directly proportional to the driving pressure.
+Models laminar flow - where a fluid moves steadily wihtout turbulence. This ususally occurs in smooth tubes at low rates. Flow is fastest in the **centre**, where it is about **twice the mean flow**, and approaches zero at the walls. In laminar flow states, flow is directly proportional to the driving pressure.
 
 * Incompressible fluid
 * Laminar flow
@@ -91,7 +91,14 @@ Where:
 * L is the length of tubing
 * r is the radius
 
-From this it can be seen that flow is proportional to the 4th power of the diameter, and indirectly proportional to diameter.
+From this it can be seen that flow is proportional to the 4th power of the radius, and inversely proportional to viscosity.
+
+The Hagan-Poiseuille Equation is only valid for:
+* Incompressible fluid  
+Not technically valid for air, but provides a good approximation when used clinically.
+* Newtonian fluid
+* Laminar flow  
+* Flow in a cylinder
 
 ## References
 1. Davis & Kenny. Basic Physics and Measurement in Anaesthesia, 5th Edition.
