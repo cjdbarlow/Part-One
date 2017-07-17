@@ -61,6 +61,26 @@ The dry thermometer gives a measurement of surrounding air temperature, as would
 
 The wet thermometer is cooled due to evaporative cooling from the wick, as high energy water molecules become vapour, leaving only low energy molecules behind. The **temperature difference** between the thermometers is therefore a function of the latent heat of vaporisation of water, and how much evaporative cooling is occurring, which in turn is a function of humidity. In 100% relative humidity, no evaporative cooling will take place and the temperatures will be equal. As humidity decreases, the temperature difference will become more marked, and humidity can be calculated.
 
+##Humidification
+Humidification refers to increasing the water content of inspired patient gases. Methods of humidification can be:
+* Active
+* Passive
+
+###Heat-Moisture Exchange Filter
+* Small device placed into breathing circuit distal to patient y-piece
+* Constructed with several vanes of a **hygroscopic** material, causing water (and therefore heat) to be trapped on the patient side of the filter
+
+####Pros
+* Cheap
+* Easy to use
+* May contain anti-bacterial filter
+
+####Cons
+* Less effective than active methods
+* Increases dead space volume
+* Takes 15-20 minutes to become fully effective
+* May be blocked by secretions
+* Lasts 24 hours - inappropriate for long term ventilation
 
 ---
 ##References
