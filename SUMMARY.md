@@ -214,7 +214,7 @@
   * [Cardiac Output Measurement](cardiac-output.md)
   * [Pulse Oximetry](pulse_oximetry.md)
   * [Gas Analysis](gas-analysis.md)
-  * [Capnography](end-tidal_co2.md)
+  * [End-Tidal Gas Analysis](end-tidal_co2.md)
   * [Blood Gas Analysis](blood_gases.md)
   * [Gas Flow](gas-flow.md)
   * [Principles of Ultrasound](principles_of_ultrasound.md)

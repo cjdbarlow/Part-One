@@ -82,8 +82,22 @@ Humidification refers to increasing the water content of inspired patient gases.
 * May be blocked by secretions
 * Lasts 24 hours - inappropriate for long term ventilation
 
+###Active Humidification
+* Device which adds a heated sterile water bath to to the inspiratory limb of the circuit
+* Inspired gas typically achieves 100% relative humidity
+
+###Pros
+* Complete humidification achieved
+* Can be used indefinitely
+
+###Cons
+* Expensive
+* Water bath may lead to bacterial contamination
+
 ---
 ##References
 * Notes from The Alfred Anaesthetic Primary Exam Tutorial Series
 * Aston
 * http://physics.csustan.edu/Ian/Help/Temperature/Thermometers/VolumeExapnsionThermometer.htm
+* Deranged physiology
+* Draeger exam series
