@@ -75,6 +75,26 @@ Inaccurate when:
         * Change in gas mixture
     * Alteration in gas temperature
 
+##Hot Wire Flowmeter
+Components:
+* Two fine platium wires in the gas circuit  
+    * One heated to 180 at OL.min<sup>-1</sup>
+    * One at 0
+* Ammeter
+
+Method:
+* As gas flows, the wire cools
+* Rate of heat dissipation is proportional to gas flow
+* The amount of current required to return the wire to 180 is measured, and is proportional to flow
+
+###Pros
+* Accurate
+* Fast
+
+###Cons
+* Fragile
+
+
 ---
 
 ##References
