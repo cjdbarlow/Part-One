@@ -5,7 +5,12 @@ Humidification describes the amount of water vapour present in air:
 * **Absolute Humidity** is the amount of water vapour in a given volume of air (g.m<sup>-3</sup>)
 * **Relative Humidity** is the ratio between the amount of water vapour in a sample of air (absolute humidity) and the amount of water required to fully saturate that sample at its current pressure and temperature
 
-Humidification of inspired air is important to avoid drying out mucosa and sputum, which leads to tissue damage and failure of the mucociliary elevator. Optimal function requires a relative humidity of **greater than 75%**.
+
+* **Moisture** is the water produced by condensation when relative humidity exceeds 100%.
+
+
+* Humidification of inspired air is important to avoid drying out mucosa and sputum, which leads to tissue damage and failure of the mucociliary elevator
+* Optimal function requires a relative humidity of **greater than 75%**
 
 ##Mechanism
 The nose is optimised for humidification, as the **septum** and **turbinates** **increase surface area** and create **turbulent flow**, both of which increase the contact of air with mucosal surfaces.
