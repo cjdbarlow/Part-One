@@ -1,6 +1,14 @@
 #Gas Flow
 > Describe the measurement of flow, pressure and volume of gases
 
+Types of Flow:
+* Laminar flow  
+Fluid moving in a steady manner without turbulence.
+* Turbulent flow  
+Irregular fluid movement in radial, axial, and circumferential axes.
+    * Laminar flow is more efficient than turbulent flow, as it requires a smaller pressure gradient to generate the same flow
+    * For two fluids moving at the same speed, the velocity of individual particles in laminar flow will be both higher and lower 
+
 Devices used to measure gas flow include:
 * Variable-orifice Flowmeters
 * Pneumotachograph
