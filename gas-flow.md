@@ -78,8 +78,8 @@ Inaccurate when:
 ##Hot Wire Flowmeter
 Components:
 * Two fine platium wires in the gas circuit  
-    * One heated to 180 at OL.min<sup>-1</sup>
-    * One at 0
+    * One heated to 180°C at OL.min<sup>-1</sup>
+    * One at 0°C
 * Ammeter
 
 Method:
