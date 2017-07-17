@@ -1,12 +1,12 @@
 # Temperature and Humidity
 
+> Describe the measurement of temperature and humidity
+
 **Temperature** is the tendency of a body to transfer heat energy to another body, and is measured in degrees. It is distinct from **heat**, which is the kinetic energy content of a body, and is measured in Joules. The two are related by the **specific heat capacity**, which describes how much energy (J) must be applied to a body to raise its temperature from 14°C to 15°C, without a change in state.
 
 Humidity may be either **absolute** or **relative**:
 * **Absolute Humidity** is the mass of water vapour in a volume of air
 * **Relative Humidity** measures the percentage saturation of air at *current temperature*, or more formally: $$Relative \ Humidity = {mass \ of \ water \ vapour \ in \ volume \ of \ air \over mass \ of \ water \ vapour \ if \ air \ was \ fully \ saturated} = {absolute \ humidity \over mass \ of \ water \ if \ air \ was \ fully \ saturated} $$
-
-* **Moisture** is the water produced by condensation when relative humidity exceeds 100%.
 
 ##Measurement of Temperature
 Temperature is measured by a number of methods:
