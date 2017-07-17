@@ -219,6 +219,7 @@
   * [Gas Flow](gas-flow.md)
   * [Principles of Ultrasound](principles_of_ultrasound.md)
   * [Temperature and Humidity](temperature.md)
+  * [Bispectral Index](bispectral-index.md)
   * [Medical Gas Supply](medical-gas-supply.md)
   * [Scavenging](scavenging.md)
   * [Vaporisers](vaporisers.md)
