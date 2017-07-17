@@ -7,13 +7,15 @@ As oxygen is a molecule containing two similar atoms, its partial pressure canno
 
 ##Paramagnetic Analysis
 Principles of paramagnetic analysis:
-* Oxygen is attracted by magnetic fields (paramagnetic)  
-This is due to unpaired electrons in the outer shells of oxygen atoms spinning in the same direction.
+* Oxygen is paramagnetic  
+This means it is attracted by magnetic fields, but does not propagate the field. 
+    * This is because its two unpaired valent electrons have the same spin.
 * Many other gases weakly repelled by magnetic fields (diamagnetic)
 
 * The attaction of a gas mixture to a magnetic field is therefore proportional to its oxygen content
+* Many different methods exist use this property to determine oxygen content
 
-###Method
+###Pressure Method
 * Gas tested flows into a tube
 * A reference gas flows into a parallel tube
 * Both gases then pass through:
@@ -24,6 +26,12 @@ This is due to unpaired electrons in the outer shells of oxygen atoms spinning i
 * The greater the oxygen content of the gas, the more it will move into the magnetic field  
 This movement creates a negative pressure behind the gas.
 * The pressure difference between the tested gas and the reference gas is proportional to the oxygen content of the test gas.
+
+###Temperature Method
+Used in many modern devices.
+* Gas flows through a magnetic field, causing the particles to align  
+This changes the thermal conductivity of the oxygen molecules.
+* The change in thermal conductivity of the gas mixture is proportional to the oxygen content
 
 ###Pros
 * Accurate
@@ -42,7 +50,8 @@ Fuel cells rely on reduction of oxygen to measure oxygen partial pressure. They 
 * Oxygen permeable membrane
 * KOH solution  
 This contains:
-    * Lead anode
+    * Lead anode  
+    Lead is consumed as the fuel cell operates.
     * Gold cathode
 
 ###Method
@@ -59,7 +68,8 @@ $$Pb + 2OH^- \rightarrow PbO + H_2O + 2e^-$$
 * Accurate
 
 ###Cons
-* Will accumulate nitrogen in the presence of N<sub>2</sub>O
+* Will accumulate nitrogen in the presence of N<sub>2</sub>O  
+Results in an under-reading of PO<sub>2</sub>.
 * Must be replaced after 6-12 months
 * Requires regular two-point calibration  
 21% and 100% oxygen are used.

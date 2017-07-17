@@ -1,7 +1,5 @@
-#Capnography
+#End-Tidal Gas Analysis
 > Describe the principles of ~~pulse and tissue oximetry, co-oximetry and~~ capnography, including calibration, sources of errors and limitations 
-
-Capnography is the continuous measurement and graphical display of the partial pressure of CO<sub>2</sub> in expired gas.
 
 ##Principles
 Several mechanisms for E<sub>T</sub>CO<sub>2</sub> measurement exist:
@@ -11,6 +9,11 @@ Several mechanisms for E<sub>T</sub>CO<sub>2</sub> measurement exist:
 * Gas Chromatography
 
 ##Infrared Spectroscopy
+End-tidal gas analysis using infrared light is used in the measurement of:
+* CO<sub>2</sub>  
+Capnography is the continuous measurement and graphical display of the partial pressure of CO<sub>2</sub> in expired gas.
+* Anaesthetic agents
+
 This is the most common method to measure E<sub>T</sub>CO<sub>2</sub>. Gases with two or more different atoms will **absorb infrared radiation**, with **different gases absorbing different wavelengths** to different degrees.
 
 By **combining this knowledge** about absorbed wavelengths with the **likely composition** of a mixture, a system can be designed using a specific wavelength to measure gas concentrations and avoid interference.
