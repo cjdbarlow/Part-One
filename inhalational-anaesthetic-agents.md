@@ -213,11 +213,14 @@ Recovery is dependent on how quickly an inhalational agent can be eliminated fro
     Increased alveolar ventilation increases elimination.
     * Cardiac output  
     Increased cardiac output increases elimination.
-    * Duration of anaesthetic  
-    Important for highly soluble agents used in long cases.
-* Machine factors
+    * Percutaneous loss  
+    Loss of agent by diffusion from tissues into external environment.
+* Machine and case factors
     * Flow rate  
     Affect the amount of gas being rebreathed.
+    * Duration of anaesthetic
+    Important for highly soluble agents used in long cases.
+    * Depth of anaesthesia
 
 ###Alteration to Pharmacokinetics in Children and the Elderly
 Increased rate of induction in children due to:
