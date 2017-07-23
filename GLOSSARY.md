@@ -18,6 +18,9 @@ Where the same set of results are published in multiple journals. Academically u
 
 How well findings from one setting can be applied to another.
 
+## MALT
+Mucosa-Associated Lymphoid Tissue.
+
 ## heterogeneity
 
 Greater diversity among study results greater than would be expected by chance alone. 
