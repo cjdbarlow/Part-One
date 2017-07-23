@@ -40,7 +40,7 @@ Are produced in the bone marrow and migrate to the thymus where they mature. T c
         * Macrophage activation
     * Cytotoxic T-cells  
     Are identified by their **CD8** membrane protein. Functions include:
-        * Destruction of virally infected and tumour cells
+        * Destruction of virally infected and tumour cells  
         All cells **express proteins** that they are producing **on membrane MHC I molecules**, for inspection by immune cells. Infected or tumour cells will express foreign proteins, and cause activation of cytotoxic T cells:
             * **Induce apoptosis** in the target cell
             * **Rapid division** of cytotoxic T cell, which then inspects other cells for infection
