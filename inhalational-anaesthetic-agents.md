@@ -208,6 +208,7 @@ Recovery is dependent on how quickly an inhalational agent can be eliminated fro
     Highly soluble agents will have an increased amount of drug dissolved in tissue, so a large resevoir of drug exists that will have to be removed.
     * Metabolism  
     Agents undergoing metabolism are eliminated more rapidly.
+    * Absorption into breathing system
 * Patient factors  
     * V<sub>A</sub>  
     Increased alveolar ventilation increases elimination.
