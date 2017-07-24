@@ -1,5 +1,9 @@
 #Adrenergic Drugs {#id}
 
+*This covers the pharmacology of specific catecholamines and sympathomimetics. Detailed information on receptor effects is covered under [adrenoreceptors](adrenoreceptors.md).*
+
+
+
 Adrenergic drugs:
 * Act via:
  * Dopamine (D)
