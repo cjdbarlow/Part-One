@@ -75,4 +75,7 @@ Consists of:
 As the chain length increases, so does the beta selectivity.
 
 ##References
-Peck and Hill
+1. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.
+2. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+3. Yartsev A. [Deranged Physiology - Structure of Synthetic Catecholamines](http://www.derangedphysiology.com/main/core-topics-intensive-care/critical-care-pharmacology/Chapter%203.1.3/structure-synthetic-catecholamines)
+4. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
