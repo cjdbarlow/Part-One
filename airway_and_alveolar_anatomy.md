@@ -118,7 +118,7 @@ Alveoli have no cilia - inhaled particles are phagocytosed by alveolar macrophag
 
 ---
 ##References
-1. Lumb A. Nunn's Applied Respiratory Physiology. Elsevier. 7th Edition. 2010.
-2. West J. Respiratory Physiology: The Essentials. Lippincott Williams and Wilkins. 9th Edition. 2011.
+1. Lumb A. Nunn's Applied Respiratory Physiology. 7th Edition. Elsevier. 2010.
+2. West J. Respiratory Physiology: The Essentials. 9th Edition. Lippincott Williams and Wilkins. 2011.
 3. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
 
