@@ -57,14 +57,14 @@ Treatment is to cease the medication.
 
 ##Type C Adverse Reactions
 These are 'statistical effects' associated with monitoring. They are:
-* Typically an increased frequency of background disease
-* Atypical for drug reaction and not pharmacological predictable
+* Typically an increased frequency of background disease that is detected due to increased screening
+* Atypical for a drug reaction and not pharmacological predictable
 * No identifiable temporal relationship
 * Not reproducable
 
 ---
 ##References
-  [^1]: RHB Meyboom, M Lindquist, ACG Egberts. An ABC of Drug-Related Problems. Drug Safety 2000;22:415-23 Available at: http://www.who.int/medicines/areas/quality_safety/safety_efficacy/trainingcourses/abc_course.pdf
-  [^2]: Pirmohamed M, Breckenridge AM, Kitteringham NR, Park BK. Adverse drug
+1. RHB Meyboom, M Lindquist, ACG Egberts. An ABC of Drug-Related Problems. Drug Safety 2000;22:415-23 Available at: http://www.who.int/medicines/areas/quality_safety/safety_efficacy/trainingcourses/abc_course.pdf
+2. Pirmohamed M, Breckenridge AM, Kitteringham NR, Park BK. Adverse drug
 reactions. BMJ. 1998 Apr 25;316(7140):1295-8. Open Acces Review. Available at: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1113033/
-[^3]:  Lazarou J, Pomeranz BH, Corey PN. Incidence of adverse drug reactions in hospitalized patients—a meta-analysis of prospective studies. JAMA 1998;279: 1200-5.
+3. Lazarou J, Pomeranz BH, Corey PN. Incidence of adverse drug reactions in hospitalized patients—a meta-analysis of prospective studies. JAMA 1998;279: 1200-5.
