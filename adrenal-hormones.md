@@ -1,6 +1,8 @@
 #Adrenal Hormones
 > Describe the control, secretions and functions of ~~renal and~~ adrenal hormones
 
+*This covers the production of adrenal hormones. Information specific to catecholamines can be found under [adrenoreceptors](adrenoreceptors.md), whilst detailed information on specific agents is in the [pharmacopeia](adrenergic_drugs.md).*
+
 The adrenal glands are paired triangular glands at the superior pole of the kidney. The gland can be divided into:
 * Adrenal cortex  
 Consists of three layers which produce **steroid hormones** (A good mnemonic is GFR for the layers, and ACT(H) for hormones)
