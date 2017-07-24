@@ -85,5 +85,5 @@ Repeat invasion by the same pathogen is met with a much more rapid and aggressiv
 
 ---
 ##References
-Power and Kam
-Chambers
+1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+2. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
