@@ -1,13 +1,16 @@
 #Adverse effects {#id}
 >Classify and describe adverse drug effects.
 
-An **adverse effect** is a "noxious or unintended effect associated with administration of a drug at the **normal dose**" (i.e., not overdose)[^1].
+An **adverse effect** is:
+* A noxious or unintended effect associated with administration of a drug at the **normal dose**
+    * i.e., not an overdose
+    * Occur:
+        * Mainly in young and middle-aged individuals
+        * Twice as common in women
+        * May be exacerbated by asthma and pregnancy.
+* Distinct from an **adverse event**, which is an untoward occurance during treatment that does not necessarily have a causal relationship to drug administration
 
-It is distinct from an **adverse event**, which is an "untoward medical occurrence that may present during treatment with a drug but does not necessarily have a causal relationship"[^1].
-
-17% of hospital inpatients have an adverse effect to a drug[^2], and 7% have a serious adverse effect[^3]. They occur mainly in young and middle-aged individuals, and are twice as common in women. They may be exacerbated by asthma and pregnancy.
-
-Multiple mechanisms have been implicated but these are not fully understood. Adverse events can be **classified** by the **ABC system**[^1]:
+Adverse effects can be classified by mechanism as follows:
 
 ##Type A Adverse Reactions
 These are related to the pharmacological action of the drug. They are:
