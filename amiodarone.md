@@ -33,6 +33,5 @@ A **mnemonic** for some of the rarer effects is **BITCH**:
 * **H**epatic
 ---
 ##References
-Peck and hill
-Rang and Dale
-[Australian Prescriber](http://www.australianprescriber.com/magazine/28/6/150/4)
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014. Peck and hill
+2. Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.
