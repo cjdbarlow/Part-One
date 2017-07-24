@@ -47,7 +47,8 @@ Adrenoreceptors are classified by their varying sensitivity to different catecho
 
 ---
 ##References
-Power and Kam
+1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+2. Power and Kam
 
 Ganong
 
