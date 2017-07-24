@@ -58,21 +58,21 @@ Adrenergic drugs:
 Catecholamines consist of:
 * A catechol ring  
 A benzene ring with two hydroxyl groups in the 3 and 4 position.
- * Losing a hydroxyl group increases lipid solubility and decreases the potency 10-fold
-  * Losing both decreases the potency 100-fold
- * Losing a hydroxyl group prevents metabolism by COMT, prolonging duration of action
- * Changing the hydroxyl groups to the 3 and 5 position increases beta-2 selectivity when there is also a large substitution present on the amine group.
+	* Losing a hydroxyl group increases lipid solubility and decreases the potency 10-fold
+		* Losing both decreases the potency 100-fold
+	* Losing a hydroxyl group prevents metabolism by COMT, prolonging duration of action
+	* Changing the hydroxyl groups to the 3 and 5 position increases beta-2 selectivity when there is also a large substitution present on the amine group.
 * An ethylamine tail  
 Consists of:
- * Beta carbon
-  * Adding a hydroxyl group decreases lipid solubility and CNS penetration
-  * Adding any group increases alpha and beta effects
- * Alpha carbon
-  * Adding a group prevents metabolism by MAO, prolonging duration of action
-  * Methylation increases indirect activity
- * Amine group
-  * Addition of a methyl group generally increases beta selectivity  
-  As the chain length increases, so does the beta selectivity.
+	* Beta carbon
+		* Adding a hydroxyl group decreases lipid solubility and CNS penetration
+		* Adding any group increases alpha and beta effects
+ 	* Alpha carbon
+  		* Adding a group prevents metabolism by MAO, prolonging duration of action
+  		* Methylation increases indirect activity
+ 	* Amine group
+  		* Addition of a methyl group generally increases beta selectivity  
+  		As the chain length increases, so does the beta selectivity.
 
 ##References
 1. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.
