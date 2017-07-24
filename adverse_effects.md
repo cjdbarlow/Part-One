@@ -15,7 +15,7 @@ Adverse effects can be classified by mechanism as follows:
 ##Type A Adverse Reactions
 These are related to the pharmacological action of the drug. They are:
 * Common
-* Dose-response relationship
+* Related to dose (dose-response relationship)
 * Temporally associated with drug administration
 * Reproducible
 * Pharmacologically predictable based on understanding of the drug in question
