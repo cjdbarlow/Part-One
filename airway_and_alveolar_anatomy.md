@@ -16,7 +16,7 @@ Breathing can be oral or nasal. Nasal breathing offers:
   * High muscosal blood flow
   * Generate turbulent flow
 * High resistance to flow  
-At a **high minute ventilation**, oral breathing is favoured
+At a **high minute ventilation**, oral breathing is favoured.
 
 ###Structures
 * **Pharyngeal dilator muscles**  
@@ -66,12 +66,12 @@ The **first 16 divisions** constitute the **conducting zone**:
 
 * Flow in the conducting zone during inspiration is fast and turbulent
 * No gas exchange occurs in the conducting zone  
-The volume of the conducting zone therefore contributes to **anatomic dead space**
+The volume of the conducting zone therefore contributes to **anatomic dead space**.
 * Blood supply to the conducting zone is via the **bronchial circulation** 
 
 
 * **Mucous** is secreted by **goblet cells** in the bronchial walls to trap inhaled particles
-* **Cilia** in the bronchial walls move rhythmically to move the staircase of mucuous up to the epiglottis, where it is then swallowed.
+* **Cilia** in the bronchial walls move rhythmically to drive the mucociliary elevator, driving mucuous up to the epiglottis, where it is then swallowed or expectorated
 
 
 ![](http://i.imgur.com/qgajMA5.jpg)
