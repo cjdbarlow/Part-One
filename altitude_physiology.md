@@ -9,23 +9,26 @@ Altitude causes a number of physiological effects, related to:
 Reduced air pressure results in a proportional decrease in PO<sub>2</sub>:
 * At 3,000m, alveolar PO<sub>2</sub> is 60mmHg
 * At 5,400m, consciousness is lost in unacclimatised individuals
-* At 10,400m. Air pressure is 187mmHg. With 47mmHg of water vapour and an alveolar PCO<sub>2</sub> of 40, breathing 100% O<sub>2</sub> gives an alveolar PaO<sub>2</sub> of 100mmHg.
+* At 10,400m, air pressure is 187mmHg  
+With 47mmHg of water vapour and an alveolar PCO<sub>2</sub> of 40, breathing 100% O<sub>2</sub> gives an alveolar PO<sub>2</sub> of 100mmHg.
 * At 14,000m, consciousness is lost despite 100% O<sub>2</sub>
-* At 19,200m, the ambient pressure is so low that the boiling point of water is 37°C. This is the **Armstrong limit**.
+* At 19,200m, the ambient pressure is so low that the boiling point of water is 37°C  
+This is the **Armstrong limit**.
 
 ###Respiratory
 * Fall in PaO<sub>2</sub> is compensated by increasing minute ventilation, which decreases PACO<sub>2</sub> and therefore increases PAO<sub>2</sub>
-  * Limits of compensation are reached on 100% oxygen at 13,700m.
+  * Limits of compensation are reached on 100% oxygen at 13,700m
 * Effective compensation is limited by the respiratory alkalosis, this is known as the **braking effect**:
   * Peripheral chemoreceptors detect hypocapnoea
   * Central chemoreceptors detect alkalosis
-* The subsequent respiratory alkalosis generates a compensatory metabolic acidosis. This limits the braking effect and is one of the changes that occurs with acclimatisation.
+* The subsequent respiratory alkalosis generates a compensatory metabolic acidosis  
+This acidosis relaxes the braking effect and allows further hyperventilation, and is therefore am important part of acclimatisation.
 
 
 * There is an **initial left-shift** of the oxygen-haemoglobin dissociation curve due to alkalosis
 * This stimulates a comepnsatory increase in 2,3-DPG to right-shift the curve and return it to normal
 
-###Cardiovascular System
+###Cardiovascular
 * PVR increases due to HPV
 * Heart rate increases due to increased SNS outflow
 * Stroke volume falls (cardiac output remains the same) due to decreased preload:
