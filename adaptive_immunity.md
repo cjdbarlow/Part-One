@@ -63,7 +63,7 @@ Antibody-antigen complexes cause complement activation.
 ###Primary Immune Response
 The process of invasion of a new pathogen to antibody production takes ~5 days, and occurs in a number of steps:
 * APC phagocytose a pathogen  
-APCs include macrophages and dendritic cells
+APCs include macrophages and dendritic cells.
 * APC express antigen (bits of pathogen) on cell surface
 * APC travel to lymphoid tissue and present it to B and T cells
 * When an APC finds a B and T cell with a reciprocal antibody:
