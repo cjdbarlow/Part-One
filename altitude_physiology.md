@@ -44,4 +44,4 @@ Reduced air pressure results in a proportional decrease in PO<sub>2</sub>:
 
 ---
 ##References
-Chambers
+1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
