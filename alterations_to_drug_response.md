@@ -116,22 +116,23 @@ A drug which adversely affects foetal development causing a permanent abnormalit
 ###Neonates
 At < 1 year of age, pharmacokinetics are significantly altered:
 * **Absorption**  
-  * Delayed gastric emptying, increasing absorption of drugs metabolised in the stomach.
+  * Delayed gastric emptying, increasing absorption of drugs metabolised in the stomach
   * Decreased secretion of pancreatic enzymes and bile salts impairs absorption of lipid soluble medications
   * Smaller muscle mass and higher relative muscle blood flow increases IM onset
   * Increased V<sub>A</sub>:FRC ratio increases onset of volatiles
 
 
 * **Distribution**  
-  * TBW is 70-75% (compared to 50-60% for an adult), and extracellular water is 40% (compared to 20%), which **increases the V<sub>D</sub>** for administered drugs.
-  * Preterm infants have reduced body fat, which affects drug distribution.
+  * TBW is 70-75% (compared to 50-60% for an adult), and extracellular water is 40% (compared to 20%), which typically **increases V<sub>D</sub>**
+  * Preterm infants have reduced body fat
   * Greater proportion of cardiac output goes to head, increasing onset of centrally acting (e.g. anaesthetic) drugs
   * Decreased albumin and α<sub>1</sub>-glycoprotein
   * Immature BBB increases uptake of partially ionised drugs
   
   
 * **Metabolism**  
-  * Enzymatic capacity of all pathways is reduced, which prolongs elimination half-lives and reduces clearance. Hepatically metabolised drugs must be dose adjusted accordingly.
+  * Enzymatic capacity of all pathways is reduced, which prolongs elimination half-lives and reduces clearance.
+      * Hepatically metabolised drugs must be dose adjusted accordingly
     * The glucuronide pathway may not mature until age 4
     
     
@@ -143,7 +144,7 @@ At < 1 year of age, pharmacokinetics are significantly altered:
 
 * **Pharmacodynamic**
     * Smaller ACh reserves increase sensitivity to NMBs
-    * Increased MAC    
+    * Increased MAC but more rapid onset
     * NSAIDs cause closures of ductus arteriosus
 
 ###Geriatric
@@ -201,7 +202,7 @@ Though there is a linear decrease in functional capacity of major systems beginn
 ###Hepatic Disease
 * Absorption
     * Porto-caval shunting  
-    Decreased first pass metabolism
+    Decreased first pass metabolism.
 
 
 * Distribution
@@ -285,13 +286,8 @@ Though there is a linear decrease in functional capacity of major systems beginn
          * Antagonistic       
 ---
 ##References
-Anderson C. Variability in Drug Response 1. ICU Primary Prep. 
-
-Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. Sixth Edition. Churchill Livingstone.
-
-Essential Pharmacology for the ANZCA Primary Exam
-CICM Sep/Nov 2012
-
-Alfred Primary Anaesthetic tutorial
-
-Petkov
+1.     Anderson C. [Variability in Drug Response 1](https://icuprimaryprep.files.wordpress.com/2012/05/variability-in-drug-response-1.pdf). ICU Primary Prep. 
+2. Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. Sixth Edition. Churchill Livingstone.
+3. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+4. CICM Examiner Report: Sep/Nov 2012
+5. Alfred Anaesthetic Department Primary Exam Tutorial Series
