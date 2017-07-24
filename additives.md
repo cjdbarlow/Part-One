@@ -1,7 +1,9 @@
 #Additives {#id}
 > Describe the mechanisms of action and potential adverse effects of buffers, anti-oxidants, anti-microbial and solubilizing agents added to drugs
 
-Additives are components of a drug preparation which do not exert the pharmacological effect. They include:
+Additives are components of a drug preparation which do not exert the pharmacological effect.
+
+Additives include:
 * **Solvents**
     * Water  
     Appropriate for dissolving polar molecules.
@@ -13,13 +15,12 @@ Additives are components of a drug preparation which do not exert the pharmacolo
             With rapid injection.
             * Pain on injection
             * Thrombophlebitis
-
         * Mannitol
             * Diuresis
         * Soybeal oil
             * Pain on injection
             * Allergy
-        * Emulsion  
+        * **Emulsion**  
         Formed when drops of a liquid are dispersed throughout another liquid in which it is immiscible. Emulsions are:
             * Unstable  
             Emulsifers are used to enhance stability.
@@ -27,7 +28,9 @@ Additives are components of a drug preparation which do not exert the pharmacolo
             Due to the water component.
             * Prone to rancidity  
             Due to the oil component.
-* **Buffers  **
+
+
+* **Buffers**  
 Maintain pH in a particular range in order to:
     * Maximise stability  
     Preserve shelf life.
@@ -46,5 +49,5 @@ Maintain pH in a particular range in order to:
 
 ---
 ##References
-Pharmaceutics for the anaesthetist. Anaesthesia 2001.
-Petkov.
+1. MacPherson RD. [Pharmaceutics for the anaesthetist](https://www.ncbi.nlm.nih.gov/pubmed/11576099). Anaesthesia. 2001 Oct;56(10):965-79. 
+2. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
