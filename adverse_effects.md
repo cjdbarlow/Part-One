@@ -33,9 +33,12 @@ Treatment is to decrease dose.
 ##Type B Adverse Reactions
 These are patient-specific or idiosyncratic reactions. They are:
 * Rare  
-  Potentially genetic anomaly but poorly understood.
-* No dose-response relationship and occur with low doses
-* Mechanism not pharmacologically predictable. Important causes include:
+  Potentially genetic, but poorly understood.
+* Indepdendent of dose  
+    * Occur with low doses
+    * Do not have a dose-response relationship
+* Not pharmacologically predictable  
+Important causes include:
     * Acetylator status
     * CYP450 variants
     * Receptor abnormalities
@@ -48,10 +51,9 @@ They typically result in:
 * Pseudoallergy
 * Idiosyncratic reaction
 * Low morbidity but high mortality
+    * e.g. Stevens-Johnson Syndrome or anaphylaxis following penicillin administration
 
 Treatment is to cease the medication.
-
-> SJS or anaphylaxis following penicillin administration
 
 ##Type C Adverse Reactions
 These are 'statistical effects' associated with monitoring. They are:
