@@ -109,7 +109,7 @@ Thin-walled epithelial cells optimised for gas exchange.
 * **Type II pneumocytes**  
 Specialised secretory cells.
   * Secrete surfactant  
-  Alveoli are also inherently unstable, and surface tension of alveolar fluid favours collapse of the alveoli. **Surfactant** reduces surface tension, allowing the alveoli to expand.
+  Alveoli are inherently unstable, and surface tension of alveolar fluid favours collapse of the alveoli. **Surfactant** reduces surface tension, allowing the alveoli to expand.
   * Form ~10% of alveolar surface area
 
 
@@ -118,6 +118,6 @@ Alveoli have no cilia - inhaled particles are phagocytosed by alveolar macrophag
 
 ---
 ##References
-[^1]: Nunns
+1. 
 [^2]: West
 3. Chambers
