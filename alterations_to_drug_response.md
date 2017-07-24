@@ -4,32 +4,37 @@
 There are four mechanisms which result in variable response to drug:
 * Alteration in drug that reaches the receptor  
   This is typically due to pharmacokinetic factors.
-* Relative difference in presence of exogenous and endogenous ligands
+* Relative difference in presence of exogenous and endogenous ligands  
   Antagonists will have a greater effect in the presence of high endogenous ligand concentration.
-* Variation in receptor function and number
+* Variation in receptor function and number  
   Up-regulation and down-regulation of receptors may occur as a consequence of prolonged stimulus.
-* Alteration in function distal to the receptor
+* Alteration in function distal to the receptor  
 
 ##Key Terms
-* **Tachyphylaxis** is the **rapid decrease in response** to repeated dosing over a **short time period**, usually due to depletion of transmitter.
+* **Tachyphylaxis** is the **rapid decrease in response** to repeated dosing over a **short time period**, usually due to depletion of transmitter
 
-* **Desensitisation** is the **loss in response** over a **long time period**, usually due to change in receptor morphology or loss in receptor numbers. 
+* **Desensitisation** is the **loss in response** over a **long time period**, usually due to change in receptor morphology or loss in receptor numbers
 
-* **Withdrawal** is a pathological response when a drug is ceased. During administration receptors may be **up-regulated** in the continued presence of an antagonist, or **down-regulated** in the continued presence of an agonist. Loss of receptor numbers may precipitate withdrawal when the agonist or antagonist is ceased.
+* **Withdrawal** is a pathological response when a drug is ceased  
+    * During administration receptors may be:
+        * **Up-regulated** in the continued presence of an antagonist  
+        * **Down-regulated** in the continued presence of an agonist
+    * Loss of receptor numbers may precipitate withdrawal when the agonist or antagonist is ceased
 
-* **Addiction** is a behavioural pattern characterised by compulsive use and fixation on acquiring and using a drug.
+* **Addiction** is a behavioural pattern characterised by compulsive use and fixation on acquiring and using a drug
 
-* **Idiosyncrasy** is an individual patient response to a drug. It is typically mediated by a reactive metabolite rather than the drug itself.
+* **Idiosyncrasy** is an individual patient response to a drug  
+Typically mediated by a reactive metabolite rather than the drug itself.
 
 ###Tolerance
 **Tolerance** is the requirement for a **larger dose** to achieve the **same effect**, due to altered sensitivity of the receptors to the stimulant. Mechanisms can be classified into:
 * **Pharmacokinetic**
     * **Altered drug metabolism**  
     Metabolism may be **increased or decreased**:  
-        * Enzymatic induction and increased drug metabolism
+        * Enzymatic induction and increased drug metabolism  
         Increased hepatic enzyme pathway capacity increases metabolism and lowers plasma concentration.
         * Decreased metabolism  
-        Decreased metabolism of a drug can result in a reduced effect.
+        Decreased metabolism of a prodrug can result in a reduced effect.
 
 
 
@@ -88,7 +93,7 @@ Pharmacokinetics and pharmacodynamics are affected in pregnancy and at extremes 
     * Increased LA sensitivity due to decreased α<sub>1</sub>-glycoprotein
 
 ####Foetus
-Drugs that cross the placenta can be teratogenic to the foetus, besides to exerting their usual pharmacological effects.
+Drugs that cross the placenta can be teratogenic to the foetus, besides exerting their usual pharmacological effects.
 
 **Pharmacokinetic** factors predominantly **affect placental transfer**, and include:
 * **Lipid solubility**  
@@ -104,7 +109,8 @@ The placenta can metabolise some medications, although in some cases results in 
 Maternal **pharmacodynamic** factors predominantly affect the uterus and breast, but **major organ systems** are **not significantly affected**.
 
 Drugs that cross the placenta can have dramatic effects in the foetus. These include:
-* **Teratogenesis** - a drug which adversely affects foetal development causing a permanent abnormality. Multifactorial mechanisms that are not well understood.
+* **Teratogenesis**  
+A drug which adversely affects foetal development causing a permanent abnormality. Multifactorial mechanisms that are not well understood.
 
 
 ###Neonates
