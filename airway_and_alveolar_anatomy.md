@@ -49,6 +49,7 @@ The **first 16 divisions** constitute the **conducting zone**:
     * Mean diameter of 1.8 cm and a length of 11cm
     * D-shaped cross section  
     Curved cartilages anteriorly and longitudinal muscle (trachealis) posterioly. External pressure of 40cmH<sub>2</sub>O is sufficient to occlude the extrathoracic trachea.
+    * Flow is typically turbulent in the trachea and large airways
   *  **Bronchi**
     * Comprise the first four divisions of the trachea
     * Right main bronchus is wider and deviates less from the axis of the trachea (the left main bronchus has a tighter turn over the heart), which is why foreign bodies will tend to the right side
@@ -57,11 +58,13 @@ The **first 16 divisions** constitute the **conducting zone**:
       * These bronchi will collapse when intrathoracic pressure exceeds intraluminal pressure by ~5cmH<sub>2</sub>O.
       * Segmental bronchi travel with branches of the pulmonary artery and lymphatics  
       These are the bronchi that demonstrate peribronchial cuffing and perihilar haze in early pulmonary oedema.
+      * Flow is typically transitional in the smaller bronchi and bronchioles
   *  **Bronchioles**  
     * Embedded in the lung parenchyma
     * Do not have cartilage in their walls to maintain patency - are held open by lung volume
     * Resistance to flow tends to be negligible due to large cross sectional area, unless there is spasm of helical muscle bands in bronchial wall
   *  **Terminal bronchioles**
+    * Flow may become laminar in the smallest bronchioles as flow decreases
 
 
 * Flow in the conducting zone during inspiration is fast and turbulent
@@ -80,10 +83,10 @@ The volume of the conducting zone therefore contributes to **anatomic dead space
 ###Respiratory Zone
 The **remaining 7 divisions** make up the **respiratory zone**. This region:
 * Makes up the majority of lung volume  
-All non-anatomical dead space volume is in the respiratory zone, and is **~3L** (FRC) at rest
-* Blood supply to is via the pulmonary circulation
-* Gas flow in the respiratory zone is slow due to the exponential increase in cross-sectional area with each airway division
-  * Diffusion is the predominant mechanism of gas movement.
+All non-anatomical dead space volume is in the respiratory zone, and is **~30ml.kg<sup>-1</sup>** (FRC) at rest
+* Blood supply is via the pulmonary circulation
+* Gas flow in the terminal respiratory zone is slowdue to the exponential increase in cross-sectional area with each airway division
+  * Diffusion is the predominant mechanism of gas movement
 
 ##Alveolus
 The alveolus is optimised for gas exchange:
