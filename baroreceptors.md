@@ -30,7 +30,7 @@ Baroreceptors are:
 * **More sensitive to pulsatile pressure** than constant pressure  
 A decrease in pulse pressure without a change in MAP will decrease baroreceptor firing.
 * Active throughout the cardiac cycle  
-Rapid compensatory responses are vital in the short-term control of blood pressure as occurs with changes in position.
+Rapid compensatory responses are vital in the short-term control of blood pressure, e.g. with posture.
 * Active over the range from 50mmHg to 200mmHg
 
 ![](http://i.imgur.com/2nOKtB8.jpg?2)
