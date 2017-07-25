@@ -32,7 +32,7 @@
 |**Boiling point**|58.5°C|48.5°C|23.5°C|
 |**SVP** (mmHg) at 20°C|158|239|669|
 |**Blood:gas coefficient**|0.7|1.4|0.42|
-|**Oil:gas coefficient**|80|98|29|
+|**Oil:gas coefficient**|50|98|29|
 |**MAC**|2|1.15|6.6|
 |**Metabolism**|3-5% CYP2E1 metabolism to hexafluoroisopropanol and inorganic F<sup>-</sup> (which may be nephrotoxic)|0.2% hepatic to nontoxic metabolites
 |**Resp**|Bronchodilation, ↓ MV. Smallest ↓ in V<sub>T</sub> and therefore smallest ↑ in PaCO<sub>2</sub>|Bronchodilation, airway irritability. ↓ MV (greater than halothane) with ↑ in RR|Airway irritability manifest as coughing and breath-holding, ↑ secretions|
