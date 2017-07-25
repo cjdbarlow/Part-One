@@ -33,12 +33,13 @@ Volume of air that can be expired following tidal expiration.
 
 * **Residual volume** (RV)  
 Volume of air in the lungs following a maximal expiration.
-  * Normal is 15ml.kg<sup>-1</sup>, or **1500ml**
+  * Normal is 15-20ml.kg<sup>-1</sup>, or **1500ml**
 
 ##Capacities
 * **Functional Residual Capacity** (FRC)  
 FRC = RV + ERV.
   * Normal is **30ml.kg<sup>-1</sup>** or 3000ml
+  * FRC decreases 20% when supine, and a further 20% under general anaesthesia
 
 
 * **Vital Capacity** (VC)  
@@ -57,38 +58,56 @@ TLC = RV + ERV + V<sub>T</sub> + IRV.
 
 ###Functional Residual Capacity
 The FRC has many important physiological properties:
-* **Oxygen Reserve**  
+
+* **Gas exchange**  
 The FRC allows blood in the pulmonary circulation to become oxygenated throughout the respiratory cycle (if there was no FRC, then at expiration the lungs would be empty and no oxygenation would occur).
-  * This is especially relevant during apnoea
+
+* **Oxygen Reserve**  
+FRC is the only clinically modifiable oxygen store in the body, and allows continual oxygenation of blood during apnoeic periods.
+
+
 
 * **Minimise Work of Breathing**  
 Work of breathing is a function of lung resistance and compliance.
-  * Optimal lung compliance occurs at FRC
-  * Re-expansion of collapsed alveoli requires more work than expanding open alveoli.
+  * The lung sits on the **steepest** part of the **compliance occurs** at FRC  
+  **Compliance is optimised** as:
+    * Alveoli are open and minimally distended
+      * Below FRC, some alveoli collapse and the volume of lung available to receive the tidal volume decreases  
+      Re-expansion of collapsed alveoli requires more work than expanding open alveoli.
+      * Above FRC, some alveoli will become overdistended and their compliance will fall
+  * **Airway resistance decreases** as airway radius increases as lung volume increases
 
 
-* **Minmise RV Afterload**  
+* **Minimise RV Afterload**  
 PVR is minimal at FRC.
+  * Above FRC, compression of intraalveolar vessels occurs and PVR increases
+  * Below FRC, extra-alveolar vessels collapse and PVR increases
+
 
 * **Maintain lung volume above closing capacity**  
 If closing capacity (see below) exceeds FRC, then shunt will occur.
 
+
+
 Factors affecting FRC:
 * FRC is reduced by:
   * Supine positioning  
-  Falls by 1L.
+  Falls by ~20%.
+  * Anaesthesia  
+  Falls by ~20%.
   * Raised intra-abdominal pressure
   * Impaired lung and chest wall compliance
-  * Age  
-   Decreased in children.
-
 * FRC is increased by:
   * PEEP
     * Extrinsic
     * Intrinsic (gas trapping)
       * PEEP
   * Emphysema
-  * Age
+  * Acute asthma
+  * Age  
+  May increase slightly.
+ 
+ 
  
 ##Measurement of Lung Volumes and Capacities
 * ERV, V<sub>T</sub>, and IRV can all be measured directly using spirometry  
