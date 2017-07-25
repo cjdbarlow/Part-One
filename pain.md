@@ -69,6 +69,22 @@ Damage to the SNS can lead to abnormalities in autonomic function:
 * Osteoporosis
 * Hyperalgesia and allodynia
 
+##Pain in the Elderly
+Nervous System Changes:
+* **Peripheral Nervous System**  
+  * Nerve deterioration
+  * Decreased myelination
+  * Decreased conduction velocity
+  * Reduced range and speed of ANS responses
+  * Increased resting sympathetic tone
+* **Central Nervous System**  
+  * Increased sensitivity to anaesthetic and analgesics
+  * Degeneration of myelin  
+  Subsequent cognitive dysfunction due to neuronal circuit dysfunction.
+  * Generalised atropy
+  * Decreased neurotransmitter production
+
+
 ---
 ##References
 Peck and Hill
@@ -76,3 +92,4 @@ http://www.australianprescriber.com/magazine/19/3/63/5
 Ganong
 Power and Kam
 Chambers
+6. Halaszynski T. [Influences of the Aging Process on Acute Perioperative Pain Management in Elderly and Cognitively Impaired Patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3684333/). The Ochsner Journal. 2013;13(2):228-247.
