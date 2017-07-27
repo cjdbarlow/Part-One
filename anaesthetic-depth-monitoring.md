@@ -1,2 +1,0 @@
-#Anaesthetic Depth Monitoring
-
