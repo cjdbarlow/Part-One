@@ -49,7 +49,7 @@ Clearance is:
 * The volume of plasma completely cleared of a drug per unit time
 * Expressed as: $$ Cl = k.Vd $$ in ml.min<sup>-1</sup>.
     * As the **time constant** is the inverse of **k**, clearance can also be expressed as: $$ Cl = {Vd \over \tau } $$
-    * Since **k** and **Vd** are constant, clearance is also a constant.
+    * Since **k** and **Vd** are constant, clearance is also a constant
 
 
 The **rate of elimination** of a drug is the product of the clearance and the current concentration: $$ Rate \ of \ Elimination = Cl \times C $$, in mg.min<sup>-1</sup>
