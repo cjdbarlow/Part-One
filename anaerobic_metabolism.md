@@ -35,5 +35,5 @@ These substances are known as ketones
 
 ---
 ##References
-Power and Kam
-ANZCA August/September 2011
+1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+2. ANZCA August/September 2011
