@@ -22,4 +22,4 @@ Adenosine acts via A<sub>1</sub> adenosine receptors in the SA and AV node, whic
 
 ---
 ##References
-Peck and Hill
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
