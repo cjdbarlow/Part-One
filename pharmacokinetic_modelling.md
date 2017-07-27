@@ -19,7 +19,7 @@ As drug is only eliminated from the compartment, this is also the peak concentra
 This is the fraction of the Vd from which the drug is removed per unit time. The rate constant **determines** the **slope** of the curve.
 
 
-* The volume of this compartment is the **volume of distribution, Vd**
+* The volume of this compartment is the **volume of distribution, V<sub>D</sub>**
     * Units are ml.kg<sup>-1</sup> 
     * The volume of distribution is defined as the **theoretical volume into which an amount of drug would be distribute to produce the identified plasma concentration**
         * $$ Vd = {Total \ bioavailable \ drug \over Plasma \ concentration } $$ 
@@ -27,7 +27,13 @@ This is the fraction of the Vd from which the drug is removed per unit time. The
         * Less than 40ml.kg<sup>-1</sup> indicates a drug is confined to plasma
         * Up to 200ml.kg<sup>-1</sup> indicates a drug is confined to the ECF
         * Up to 600ml.kg<sup>-1</sup> indicates a drug is dissolved into the TBW
-        * Greater than 1L.kg<sup>-1</sup> indicates a drug is highly protein bound or lipophilic
+        * Greater than 1L.kg<sup>-1</sup> indicates a drug is highly protein bound or lipophilic  
+        Agents which cross the blood brain barrier typically have a V<sub>D</sub> of 1-2L.kg<sup>-1</sup.
+    * Different volumes of distribution are described for different stages of drug effect, and include:
+        * V<sub>D</sub>ss  
+        Volume of distribution at steady state.
+        * V<sub>d</sub>pe  
+        Volume of distribution at peak effect. 
 
 
 
