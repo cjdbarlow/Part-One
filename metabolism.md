@@ -135,7 +135,7 @@ These drugs have a rapid uptake and high capacity, so elimination is **perfusion
 
 
 * **Low extraction ratio**  
-Elimination is *capacity-dependent**.
+Elimination is **capacity-dependent**.
   * Amount of free drug available for metabolism is greatly affected by the degree of protein binding
   * Metabolism is:
     * Largely **independent of flow** 
