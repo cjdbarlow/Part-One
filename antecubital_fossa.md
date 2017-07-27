@@ -10,8 +10,8 @@ The triangular borders are formed:
 * Laterally by brachioradialis
 * Superiorly by an imaginary line between the medial and lateral epicondyles
 
-
-The roof of the fossa is formed by subcutaneous tissue, and the floor by brachialis and supinator.
+* The roof of the fossa is formed by subcutaneous tissue
+* The floor is formed by brachialis and supinator
 
 ##Contents
 From medial to lateral:
@@ -29,5 +29,4 @@ From medial to lateral:
 
 ---
 ##References
-http://www.frca.co.uk/article.aspx?articleid=100363
- 
+1. [FRCA - The Cubital Fossa](http://www.frca.co.uk/article.aspx?articleid=100363)
