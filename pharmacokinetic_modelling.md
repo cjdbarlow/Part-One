@@ -165,36 +165,8 @@ $$ Cl = {Dose \over AUC}$$
 * Determine **Bioavailability**  
 Difference between the AUC of the same dose of drug administered IV and via another route.
 
-
-
-##Kinetics
-###First-order kinetics
-In **first-order** kinetics, a constant **proportion** of the drug in the body is eliminated per unit time.[^5]
-
-![First-order kinetics](http://i.imgur.com/4g4wkD7.png)[^4]
-
-Most drugs are eliminated by first order kinetics, as the capacity of the elimination system exceeds the concentration of drug
-
-###Zero-order kinetics
-In **zero-order** kinetics, a **constant amount of drug** is eliminated per unit time, independent of how much drug is in the body.[^5]
-
-![Zero-order kinetics](http://i.imgur.com/NP6STlP.png)[^4]
-
-* **Zero order kinetics** occurs when there is saturation of enzyme systems  
-It is also known as **saturation kinetics** for this reason.
-    * e.g. Phenytoin follows first order kinetics at lower doses, but zero-order kinetics at doses within the therapeutic range  
-    This is clinically relevant as the narrow therapeutic index means that toxic levels may occur rapidly with a small increase in dose.
-    * e.g. Ethanol also follows zero-order kinetics within the "therapeutic range", as it is a very weak (doses are in grams) positive allosteric modulator of the GABA<sub>A</sub> receptor
-
-There are two concerns with zero-order kinetics:  
-* Plasma concentrations will **rapidly increase** with only modest dose increase
-* There is essentially no **steady state**: if drug input exceeds output, plasma levels will continue to rise.
-
-
 ---
 ##References
  [^1]: Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
  [^2]: Plasma Volume.  Mosby's Medical Dictionary, 8th edition. 2009.  
  [^3]: Made with draw.io  
- [^4]: Made with xkcdgraphs.com  
- [^5]: Australian Prescriber. Pharmacokinetics made easy 9: Non-linear pharmacokinetics. Available at: http://www.australianprescriber.com/magazine/17/2/36/8#qa

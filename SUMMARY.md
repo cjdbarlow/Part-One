@@ -28,7 +28,7 @@
     * [Modelling](pharmacokinetic_modelling.md)
     * [Absorption](absorption.md)
     * [Distribution](distribution.md)
-    * [Metabolism](metabolism.md)
+    * [Metabolism and Clearance](metabolism.md)
     * [Elimination](elimination.md)
     * [Bolus and Infusion Kinetics](intravenous_bolus_and_infusion_kinetics.md)
     * [Drug Monitoring](drug_monitoring.md)
