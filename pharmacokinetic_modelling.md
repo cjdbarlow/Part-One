@@ -39,20 +39,21 @@ Half life the time it takes for a process to be 50% complete. With respect to dr
 The time taken for a process to complete if it continued at its initial rate of change. Time constants are related to half-life, but are better suited when modelling change in exponential processes.
     * Time constants are discussed in more detail under [respiratory time constants](time-constants.md)
     * Elimination will be virtually complete after three time constants
-    * A time constant is also the **inverse of the rate constant for elimination**, i.e. $$ \tau = {1 \over k }$$
+    * A time constant is the **inverse of the rate constant for elimination**, i.e. $$ \tau = {1 \over k }$$
 
 
 * **Clearance**  
 The clearance is volume of plasma completely cleared of a drug per unit time.
-    * Expressed as: $$ Cl = k.Vd $$ in ml.min<sup>-1</sup>.
-        * As the **time constant** is the inverse of **k**, clearance can also be expressed as: $$ Cl = {Vd \over \tau } $$
-    * Since **k** and **V<sub>D</sub>** are constants, clearance is also a constant
+    * Expressed as: $$ Cl = k.V_D $$ in ml.min<sup>-1</sup>.
+        * As the **time constant** is the inverse of **k**, clearance can also be expressed as: $$ Cl = {V_D \over \tau } = {0.693 \times V_D \over t_{1/2}} $$
+    * Since $$k$$ and $$V_D$$ are constants, clearance is also a constant
     * Total clearance is a sum of the clearance of each individual clearance organ
 
 
 * **Rate of elimination**  
 Amount of drug removed by the body per unit time.
     * Rate of elimination is the product of the clearance and the current concentration: $$ Rate \ of \ Elimination = Cl \times C $$, in mg.min<sup>-1</sup>
+    * This is not the rate constant for elimination
 
 
 ##Compartmental Modelling
@@ -69,6 +70,8 @@ Where:
 As drug is only eliminated from the compartment, this is also the peak concentration.
 * **k** is the **rate constant for elimination**  
 This is the fraction of the Vd from which the drug is removed per unit time. The rate constant **determines** the **slope** of the curve.
+    * A high rate constant for elimination results in a steep curve and therefore a short time constant
+    * The rate constant for elimination can also be used to calculate the half-life, i.e. $$t_{1/2} = 0.693 \times \tau = {0.693 \over k_{e0}}$$
 
 
 
