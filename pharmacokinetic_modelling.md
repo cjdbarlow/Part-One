@@ -75,8 +75,6 @@ This is the fraction of the Vd from which the drug is removed per unit time. The
 
 
 
-
-
 ###Steady state
 At steady state, **input is equal to output**. Therefore concentration at steady state is:
 * Proportional to the concentration of the infusion and infusion rate
@@ -107,6 +105,7 @@ Distribution describes the movement of drug from the central compartment (V<sub>
 Redistribution refers to the movement of drug from the peripheral compartment(s) back into plasma.
     * Drugs which have a large V<sub>D</sub> in a peripheral compartment tend to **distribute quickly** along this concentration gradient, and **redistribute slowly** back into plasma
     * Drugs which tend to **distribute slowly** tend to **redistribute quickly** once administration has ceased
+
 
 * **Excretion**  
 Excretion is the removal of drug from the body. 
