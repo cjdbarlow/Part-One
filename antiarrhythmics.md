@@ -71,10 +71,10 @@ Due to the prolonged repolarisation, they will also cause a **long QT** (though 
 
 ##Class IV
 Class IV drugs **inhibit L-type Ca<sup>2+</sup> channels**, inhibiting the slow inward calcium current, which:
-* Slows SA and AV nodal conduction
+* Slows SA and AV nodal conduction  
 AV blockade slows transmission of supra-ventricular arrythmias.
 * Reduces inotropy
-* Prevents after-depolarisations
+* Prevents after-depolarisations  
 This suppresses ectopy by reducing calcium leak from sarcoplasmic reticulum.
 
 ##Alternatives to Vaughan Williams
@@ -89,6 +89,6 @@ As the Vaughan Williams classification system does not neatly divide agents, and
 
 ---
 ##References
-Rang and Dale
-Goodman and Gilman 12th
-Peck and Hill
+1. Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.
+2. Brunton L, Chabner BA, Knollman B. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill Education - Europe. 2011.
+3. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
