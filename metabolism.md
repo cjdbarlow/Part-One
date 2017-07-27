@@ -11,7 +11,7 @@ Often by the kidneys, but may also be in bile, or exhaled.
 ##Clearance
 Clearance describes the elimination of drug from the body. Clearance:
 * As discussed in modelling, clearance equals the **volume of plasma completely cleared of a drug per unit time**  
-Measured in ml.min<sup-1</sup>.
+Measured in ml.min<sup>-1</sup>.
 * Does not include redistribution
 * Is calculated from the area under the concentration time curve:  
 $$Cl = {Dose \over AUC}$$
@@ -115,11 +115,11 @@ This increases water solubility and therefore renal elimination.
 
 $$ ER = { Drug \ Absorbed - Drug \ reaching \ systemic \ circulation \over Drug \ Absorbed } $$
 
-It is dependent on:
+Extraction ratio is dependent on:
 * Blood flow
 * Hepatocyte uptake
-* Enzyme capacity
-    * Described by the **Michaelis Constant**: The concentration of a substrate which causes an enzyme to work at 50% of its maximum capacity
+* Enzyme capacity  
+Described by the **Michaelis Constant**: The concentration of a substrate which causes an enzyme to work at 50% of its maximum capacity.
 
 Drugs can be either:
 * **High extraction ratio**  
