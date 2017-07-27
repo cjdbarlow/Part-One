@@ -33,14 +33,19 @@ Half life the time it takes for a process to be 50% complete. With respect to dr
     * A process is considered to be complete after 5 half-lives  
     Concentration will decrease by 50% after each half-life, so after 5 half-lives concentration will be 3.125% of its starting value.
         * This also applies to wash in - it will take ~4-5 elimination half-lives of a drug for a constant-rate infusion to reach its final concentration
-    * One half life is equivalent to 0.693 time constants
+    * Half-life is mathematically related to many other key pharmacokinetic terms:  
+    $$t_{1/2} = 0.693 \times \tau = {0.693 \over k} = {0.693 \times V_D \over Cl}$$, where:
+        * $$\tau$$ is the time constant
+        * $$k$$ is the rate constant for elimination
+        * $$V_D$$ is the volume of distribution
+        * $$Cl$$ is the clearance
     * Various types of half-life are described:
         * t<sub>1/2</sub>α describes the rapidity of the distribution phase following drug administration
         * t<sub>1/2</sub>β describes the rapidity of the *elimination* phase occurring after drug distribution equilibrium  
         This only evaluates clearance from plasma, and so is a composite of both excretion from the body (e.g. renal and hepatic clearance) and ongoing distribution to peripheral tissues.
 
 
-* **Time-constant** (t)  
+* **Time-constant** ($$\tau$$)  
 The time taken for a process to complete if it continued at its initial rate of change. Time constants are related to half-life, but are better suited when modelling change in exponential processes.
     * Time constants are discussed in more detail under [respiratory time constants](time-constants.md)
     * Elimination will be virtually complete after three time constants
@@ -76,8 +81,6 @@ As drug is only eliminated from the compartment, this is also the peak concentra
 * **k** is the **rate constant for elimination**  
 This is the fraction of the Vd from which the drug is removed per unit time. The rate constant **determines** the **slope** of the curve.
     * A high rate constant for elimination results in a steep curve and therefore a short time constant
-    * The rate constant for elimination can also be used to calculate the half-life, i.e. $$t_{1/2} = 0.693 \times \tau = {0.693 \over k_{e0}}$$
-
 
 
 ###Steady state
@@ -86,6 +89,7 @@ At steady state, **input is equal to output**. Therefore concentration at steady
 * Inversely proportional to the clearance:  
 $$ Input = Output \\ C_i.I = C_{ss}.Cl \\ C_{ss} = {C_i.I \over Cl}$$  
 The concentration of drug can therefore be determined by the amount infused and the clearance.
+* Note steady state requires peripheral compartments to be saturated, and so will only occur after an infusion of many hours
 
 ###Multiple Compartment Models
 * Models with multiple compartments have a better fit with experimental data than single compartment models
