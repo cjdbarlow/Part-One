@@ -16,11 +16,16 @@ The volume of distribution is defined as the **theoretical volume into which an 
         * Up to 600ml.kg<sup>-1</sup> indicates a drug is dissolved into the TBW
         * Greater than 1L.kg<sup>-1</sup> indicates a drug is highly protein bound or lipophilic  
         Agents which cross the blood brain barrier typically have a V<sub>D</sub> of 1-2L.kg<sup>-1</sup.
-    * Different volumes of distribution are described for different stages of drug effect, and include:
-        * V<sub>D</sub>ss  
-        Volume of distribution at steady state.
-        * V<sub>d</sub>pe  
-        Volume of distribution at peak effect. 
+    * Different volumes of distribution are described for different stages of drug effect
+        * These include:
+            * V<sub>1</sub>  
+            Volume of central compartment.
+            * V<sub>D</sub>ss  
+            Volume of distribution at steady state.
+            * V<sub>D</sub>pe  
+            Volume of distribution at peak effect.
+        * Which volume to use depends on the pharmacological question
+            * e.g. Intubating dose for opioid should use a volume between V<sub>1</sub> (very small) and V<sub>D</sub>ss (very large) - V<sub>D</sub>pe is ideal as it will allow a target concentration to be selected for the time at which intubation will occur (ideally ~5 minutes after dosing)
 
 
 * **Half-life** (t<sub>1/2</sub>)  
@@ -140,12 +145,17 @@ The value of $$\alpha$$ is dependent on the ratio of rate constants for distribu
 
 
 ####Effect Site
-* For many drugs, we are interested in targeting a particular effect-site concentration of drug (**Ce**)
-* This will be different from plasma concentration (**Cp**) prior to reaching steady state
-* The effect site is often not represented in three-compartment models  
-It is modelled as a **compartment of no volume**, but does have rate constants
+Pharmacokinetic models typically display the plasma concentration.
+* Clinically however, we are interested in drug concentrations at the site of action (e.g. the brain)
+    * Concentration at the effect site (also known as biophase) is given by **Ce**
+        * This cannot be measured, and so is a calculated value
+    * Effect site concentration be different from plasma concentration (**Cp**) prior to reaching steady state  
+    The delay between plasma and effect site concentrations is an example of hysteresis.
+* The effect site can be modelled as an additional compartment in three-compartment models  
+The effect site is modelled as a **compartment of no volume**, but does have rate constants
     * The k<sub>e1</sub> is the rate constant for drug diffusion from plasma into the effect site
-    * The **k<sub>e0</sub>** is the rate constant for diffusion of drug **from the effect site into plasma**  
+    * The **k<sub>e0</sub>** is the rate constant for elimination of drug **from the effect site**  
+    This is a theoretical elimination pathway - drug is not usually metabolised at the effect site.
         * The t<sub>1/2<sub>ke0</sub></sub> describes the effect-site equilibration time  
         It describes how rapidly the effect site reaches equilibrium with plasma.
             * A large ke0 (rapid drug flow) gives a short t<sub>1/2<sub>ke0</sub></sub>
@@ -155,6 +165,10 @@ It is modelled as a **compartment of no volume**, but does have rate constants
             * The t<sub>1/2<sub>ke0</sub></sub> is not the time to peak effect
                 * Neither is k<sub>e0</sub>
             * For an infusion run at constant plasma concentration the peak effect will e seen at 3-5x the t<sub>1/2<sub>ke0</sub></sub>
+            * The time to peak effect is a function of both plasma kinetics and the t<sub>1/2<sub>ke0</sub></sub>
+                * e.g. adenosine has such a short elimination t<sub>1/2<sub> the effect site concentration will reach its peak rapidly regardless of the k<sub>e0</sub>
+
+GRAPH OF PLASMA AND EFFECT SITE CONCENTRATIONS WITH DIFFERENT VALUES FOR T1/2KEO FROM "BIOPHASE IN ANAESTHESIA"
 
 ##Non-Compartmental Models
 Compartment models are not appropriate for describing the behaviours of all drugs. Non-compartmental models are used when drug:
@@ -169,6 +183,7 @@ Difference between the AUC of the same dose of drug administered IV and via anot
 
 ---
 ##References
- [^1]: Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
- [^2]: Plasma Volume.  Mosby's Medical Dictionary, 8th edition. 2009.  
- [^3]: Made with draw.io  
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. Plasma Volume.  Mosby's Medical Dictionary, 8th edition. 2009.  
+3. Stanski RD, Shafer SL. The Biophase Concept and Intravenous Anesthesia.
+4. Made with draw.io  
