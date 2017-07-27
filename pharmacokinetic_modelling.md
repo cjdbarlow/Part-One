@@ -97,16 +97,15 @@ Plasma concentration becomes dependent on the effects of:
 Distribution describes the movement of drug from the central compartment (V<sub>1</sub>, typically plasma) to the peripheral compartment(s).
     * Rapid fall in plasma concentration of a drug after administration is generally due to distribution  
     Distribution is an important method for drug offset in short-acting drugs.
-    * This produces the **bi-exponential** curve seen in **two-compartment models**
 
 
 * **Redistribution**  
 Redistribution refers to the movement of drug from the peripheral compartment(s) back into plasma.
-    * Drugs which have a large Vd in a peripheral compartment tend to **distribute quickly** along this concentration gradient, and **redistribute slowly** back into plasma
-    * Drugs which tend to **distribute slowly** tend to **redistribute quickly** once administration has ceased.
+    * Drugs which have a large V<sub>D</sub> in a peripheral compartment tend to **distribute quickly** along this concentration gradient, and **redistribute slowly** back into plasma
+    * Drugs which tend to **distribute slowly** tend to **redistribute quickly** once administration has ceased
 
-* **Elimination**  
-Elimination is the loss of drug from the plasma compartment. 
+* **Excretion**  
+Excretion is the removal of drug from the body. 
 
 ####Clearance in Two-Compartment Models
 Removal of drug in two-compartment models is via:
@@ -117,6 +116,7 @@ Consists of two phases:
     * Phase α  
     Distribution phase.
         * A rapid decline in plasma concentration due to distribution to peripheral tissues
+        * The 
     * Phase β  
     Elimination phase.
         * Slow decline in plasma concentration due to:
@@ -131,7 +131,8 @@ Used to calculate distribution half-life.
 * $$B$$ is the y-intercept of the elimination exponent  
 Used to calculate elimination half-life.
 * $$\alpha$$ is the rate constant for distribution  
-The value of $$\alpha$$ is dependent on the ratio of rate constants for distribution and redistribution (i.e. $$k_{12} \over k_{21}$$). If distribution greatly exceeds redistribution, the gradient of $$\alpha$$ will be very steep and plasma concentration will fall rapidly after administration.
+The value of $$\alpha$$ is dependent on the ratio of rate constants for distribution and redistribution (i.e. $$k_{12} \over k_{21}$$).
+    * If distribution greatly exceeds redistribution, the gradient of $$\alpha$$ will be very steep and plasma concentration will fall rapidly after administration
 * $$\beta$$ is the rate constant for elimination  
 
 
