@@ -46,7 +46,7 @@ This is the fraction of the Vd from which the drug is removed per unit time. The
 
 ###Clearance
 Clearance is:
-* The volume from which the drug is removed per unit time
+* The volume of plasma completely cleared of a drug per unit time
 * Expressed as: $$ Cl = k.Vd $$ in ml.min<sup>-1</sup>.
     * As the **time constant** is the inverse of **k**, clearance can also be expressed as: $$ Cl = {Vd \over \tau } $$
     * Since **k** and **Vd** are constant, clearance is also a constant.
