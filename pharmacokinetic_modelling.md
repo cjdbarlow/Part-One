@@ -27,6 +27,7 @@ The volume of distribution is defined as the **theoretical volume into which an 
 Half life the time it takes for a process to be 50% complete. With respect to drug clearance, it is the time it takes for concentration to halve.
     * A process is considered to be complete after 5 half-lives  
     Concentration will decrease by 50% after each half-life, so after 5 half-lives concentration will be 3.125% of its starting value.
+        * This also applies to wash in - it will take ~4-5 elimination half-lives of a drug for a constant-rate infusion to reach its final concentration
     * One half life is equivalent to 0.693 time constants
     * Various types of half-life are described:
         * t<sub>1/2</sub>α describes the rapidity of the distribution phase following drug administration
@@ -140,9 +141,18 @@ The value of $$\alpha$$ is dependent on the ratio of rate constants for distribu
 * For many drugs, we are interested in targeting a particular effect-site concentration of drug (**Ce**)
 * This will be different from plasma concentration (**Cp**) prior to reaching steady state
 * The effect site is often not represented in three-compartment models  
-It is modelled as a **compartment of no volume**, but a rate constant of elimination, **k<sub>e0</sub>**
-  * The lag-time between Cp and Ce is described by the **half-life for equilibration, t<sub>1/2<sub>ke0</sub>**  
-  A shorter t<sub>1/2<sub>ke0</sub> indicates a more rapid clinical effect following administration.
+It is modelled as a **compartment of no volume**, but does have rate constants
+    * The k<sub>e1</sub> is the rate constant for drug diffusion from plasma into the effect site
+    * The **k<sub>e0</sub>** is the rate constant for diffusion of drug **from the effect site into plasma**  
+        * The t<sub>1/2<sub>ke0</sub></sub> describes the effect-site equilibration time  
+        It describes how rapidly the effect site reaches equilibrium with plasma.
+            * A large ke0 (rapid drug flow) gives a short t<sub>1/2<sub>ke0</sub></sub>
+            * After one t<sub>1/2<sub>ke0</sub></sub>, 50% of the final effect site concentration will be reached provided plasma concentration remains constant
+        * A shorter t<sub>1/2<sub>ke0</sub> indicates that that the effect site concentration will reach equilibrium with plasma more rapidly, and therefore a more rapid clinical effect following administration is seen
+        * Note that:
+            * The t<sub>1/2<sub>ke0</sub></sub> is not the time to peak effect
+                * Neither is k<sub>e0</sub>
+            * For an infusion run at constant plasma concentration the peak effect will e seen at 3-5x the t<sub>1/2<sub>ke0</sub></sub>
 
 ##Non-Compartmental Models
 Compartment models are not appropriate for describing the behaviours of all drugs. Non-compartmental models are used when drug:
