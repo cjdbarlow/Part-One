@@ -111,7 +111,7 @@ This increases water solubility and therefore renal elimination.
     Addition of a methyl group.
   
 ###Extraction Ratio
-**Extraction ratio** is the proportion of a drug that is from circulation during each pass through the organ, typically the liver:
+**Extraction ratio** is the proportion of a drug that is cleared from circulation during each pass through the organ, typically the liver:
 
 $$ ER = { Drug \ Absorbed - Drug \ reaching \ systemic \ circulation \over Drug \ Absorbed } $$
 
