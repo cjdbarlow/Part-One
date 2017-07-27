@@ -22,6 +22,15 @@ GRAPH OF CARDIAC ACTION POTENTIAL
 * Extent of block depends on the heart rate, membrane potential, and the subclass of drug
 * Sodium channel blockade **increases pacing threshold** and **defibrillation energy requirement**
 
+###Class Ia
+* Class Ia drugs have mixed properties of Ib and Ic, and also have Class III effects
+* As they **prolong the AV conduction** and **prolong the action potential** they **increase both QRS duration and the QT interval**
+* Examples include **procainamide**
+
+**Pro-arrhythmic effects** may result because AV nodal conduction may be increased, so despite decreased atrial activity increased ventricular conductance results in a potentially fatal shortening of diastolic time
+
+CLASS I A GRAPH
+
 ###Class Ib
 * Class Ib drugs bind to open sodium channel, and will **associate and dissociate** from a sodium channel **in the course of a normal beat**
 * Tachyarrhythmias are prevented because dissociation occurs too slowly for a further action potential to be generated
@@ -35,18 +44,11 @@ GRAPH OF CLASS Ib
 * Class Ic drugs **associate and dissociate slowly creating a steady-state level of block**
 * This causes indiscriminate blockade and general reduction in excitability
 * Class Ic agents are used to suppress unidirectional or intermittent conduction pathways
-* As they markedly slow conduction velocity they **increase QRS duration**. * Examples include **flecainaide**
+* As they markedly slow conduction velocity they **increase QRS duration**
+* Examples of Class Ic agents include **flecainaide**
 
 GRAPH OF CLASS Ic
 
-###Class Ia
-* Class Ia drugs have mixed properties of Ib and Ic, and also have Class III effects
-* As they **prolong the AV conduction** and **prolong the action potential** they **increase both QRS duration and the QT interval**
-* Examples include **procainamide**.
-
-**Pro-arrhythmic effects** may result because AV nodal conduction may be increased, so despite decreased atrial activity increased ventricular conductance results in a potentially fatal shortening of diastolic time
-
-CLASS I A GRAPH
 
 ##Class II
 Normal β-adrenergic stimulation has a number of pro-arrhythmic effects:
