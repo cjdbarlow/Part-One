@@ -32,13 +32,14 @@ Total clearance is the sum of clearances from individual organs, e.g.:
 
 
 ##Kinetics
-Drug clearance can follow either first order or zero-order kinetics.
+Drug clearance can follow either first order or zero-order kinetics:
+
 ###First-order kinetics
 In **first-order** kinetics, a constant **proportion** of the drug in the body is eliminated per unit time.[^5]
 
 ![First-order kinetics](http://i.imgur.com/4g4wkD7.png)[^4]
 
-Most drugs are eliminated by first order kinetics, as the capacity of the elimination system exceeds the concentration of drug
+Most drugs are eliminated by first order kinetics, as the capacity of the elimination system exceeds the concentration of drug.
 
 ###Zero-order kinetics
 In **zero-order** kinetics, a **constant amount of drug** is eliminated per unit time, independent of how much drug is in the body.[^5]
@@ -56,16 +57,12 @@ There are two concerns with zero-order kinetics:
 * There is essentially no **steady state**: if drug input exceeds output, plasma levels will continue to rise.
 
 
-
-
-
-
 ##Hepatic Metabolism
 The principle organ of drug metabolism is the liver. Hepatic metabolism:
 * Usually decreases the function of a drug, though:
   * **Prodrugs** are designed to only become pharmacologically active after having undergone liver metabolism
   * Some drugs have active or toxic metabolites
-* Is divided into **two phases**
+* Can be divided into **two phases**
 
 ###Phase I
 Phase one reactions:
@@ -198,3 +195,5 @@ Plasma esterases are non-microsomal enzymes which hydrolyse ester bonds. They:
 ##References
 1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
 2. Essential pharmacology for the ANZCA primary exam
+[^4]: Made with xkcdgraphs.com
+[^5]: Australian Prescriber. Pharmacokinetics made easy 9: Non-linear pharmacokinetics. Available at: http://www.australianprescriber.com/magazine/17/2/36/8#qa
