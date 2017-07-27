@@ -25,7 +25,7 @@ Total clearance is the sum of clearances from individual organs, e.g.:
     * $$[P]$$ is the plasma concentration in mmol.L<sup>-1</sup>
   * $$Cl_{hepatic} = HBF \times ER_{liver}$$, where:
     * $$HBF$$ is the hepatic blood flow in ml.min<sup>-1</sup>
-    * $$$ER$$ is the extraction ratio
+    * $$ER$$ is the extraction ratio
   
 
 
