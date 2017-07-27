@@ -121,14 +121,17 @@ Extraction ratio is dependent on:
 * Enzyme capacity  
 Described by the **Michaelis Constant**: The concentration of a substrate which causes an enzyme to work at 50% of its maximum capacity.
 
-Drugs can be either:
+Drugs can have either a high or low extraction ratio:
 * **High extraction ratio**  
 These drugs have a rapid uptake and high capacity, so elimination is **perfusion dependent**.
   * Free drug is rapidly removed from plasma, bound drug is released from plasma proteins and a concentration gradient is maintained
-  * Metabolism of drugs with a high extraction ratio  is:
+  * Metabolism of drugs with a high extraction ratio is:
     * **Independent of protein binding**
-    * **Dependent on liver flow**
+    * **Dependent on liver flow**  
+    Typically doubling liver blood flow will double hepatic clearance.
   * There is a **high variability** in plasma concentration between individuals due to the variation in liver blood flow
+  * Drugs with high extraction ratios are generally independent of enzyme activity - decreasing enzyme activity from 99% to 95% has a minimal effect on hepatic clearance
+    * The **key exception** is **first pass metabolism**, as the above change will result in a five-fold difference in dose reaching the systemic circulation
 
 
 * **Low extraction ratio**  
@@ -136,7 +139,9 @@ Elimination is *capacity-dependent**.
   * Amount of free drug available for metabolism is greatly affected by the degree of protein binding
   * Metabolism is:
     * Largely **independent of flow** 
-    * **Dependent on hepatocyte function and protein binding**.
+    * **Dependent on hepatocyte function and protein binding**
+    
+
 
 
 ###Factors Affecting Hepatic Metabolism
