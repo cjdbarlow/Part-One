@@ -25,7 +25,7 @@ Acetylcholinesterases can be:
 |**Elimination**|55% unchanged in urine|t<sub>1/2</sub>α of weeks
 |**Duration**|50 minutes|Until new AChE is synthesised
 |**Resp**|Bronchospasm, ↑ secretion|Bronchospasm, ↑ secretion
-|**CVS**|↓ HR, ↓ CO|↓ HR, ↓ CO
+|**CVS**|↓ HR (may be profound), ↓ CO|↓ HR, ↓ CO
 |**CNS**| N/V and analgesic when administered intrathecally|Central cholinergic syndrome
 |**MSK**| Reversal of NMB, ↑ fasciculations, ↑ sweating, may cause paralysis|Paralysis
 |**GIT**|↑ Peristalsis, ↑ LoS tone, N/V|↑ Peristalsis, ↑ LoS tone, N/V
