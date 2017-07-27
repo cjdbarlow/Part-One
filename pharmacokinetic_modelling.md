@@ -22,19 +22,23 @@ The volume of distribution is defined as the **theoretical volume into which an 
         * V<sub>d</sub>pe  
         Volume of distribution at peak effect. 
 
+
 * **Half-life** (t<sub>1/2</sub>)  
 Half life the time it takes for a process to be 50% complete. With respect to drug clearance, it is the time it takes for concentration to halve.
     * A process is considered to be complete after 5 half-lives  
     Concentration will decrease by 50% after each half-life, so after 5 half-lives concentration will be 3.125% of its starting value.
     * One half life is equivalent to 0.693 time constants
+    * Various types of half-life are described:
+        * t<sub>1/2</sub>α describes the rapidity of the distribution phase following drug administration
+        * t<sub>1/2</sub>β describes the rapidity of the *elimination* phase occurring after drug distribution equilibrium  
+        This only evaluates clearance from plasma, and so is a composite of both excretion from the body (e.g. renal and hepatic clearance) and ongoing distribution to peripheral tissues.
+
 
 * **Time-constant** (t)  
-The time taken for a process to finish if it continued at its initial rate of change. Time constants are an alternative to half-life, and are used to model change in exponential processes.
-    * Time constants are discussed in more detail in respiratory mechanics
-    * Elimination will be virtually **complete after three** time constants
+The time taken for a process to complete if it continued at its initial rate of change. Time constants are related to half-life, but are better suited when modelling change in exponential processes.
+    * Time constants are discussed in more detail under [respiratory time constants](time-constants.md)
+    * Elimination will be virtually complete after three time constants
     * A time constant is also the **inverse of the rate constant for elimination**, i.e. $$ \tau = {1 \over k }$$
-
-
 
 
 * **Clearance**  
@@ -42,15 +46,12 @@ The clearance is volume of plasma completely cleared of a drug per unit time.
     * Expressed as: $$ Cl = k.Vd $$ in ml.min<sup>-1</sup>.
         * As the **time constant** is the inverse of **k**, clearance can also be expressed as: $$ Cl = {Vd \over \tau } $$
     * Since **k** and **V<sub>D</sub>** are constants, clearance is also a constant
+    * Total clearance is a sum of the clearance of each individual clearance organ
 
 
 * **Rate of elimination**  
 Amount of drug removed by the body per unit time.
     * Rate of elimination is the product of the clearance and the current concentration: $$ Rate \ of \ Elimination = Cl \times C $$, in mg.min<sup>-1</sup>
-
-
-
-
 
 
 ##Compartmental Modelling
@@ -72,34 +73,31 @@ This is the fraction of the Vd from which the drug is removed per unit time. The
 
 
 
-
-
-
-
-###Clearance
-
-
 ###Steady state
-At steady state, **input is equal to output**. Therefore the concentration at steady state is:
+At steady state, **input is equal to output**. Therefore concentration at steady state is:
 * Proportional to the concentration of the infusion and infusion rate
 * Inversely proportional to the clearance:  
-$$ Input = Output \\ C_i.I = C_{ss}.Cl \\ C_{ss} = {C_i.I \over Cl}$$
-
+$$ Input = Output \\ C_i.I = C_{ss}.Cl \\ C_{ss} = {C_i.I \over Cl}$$  
 The concentration of drug can therefore be determined by the amount infused and the clearance.
 
 ###Multiple Compartment Models
 * Models with multiple compartments have a better fit with experimental data than single compartment models
 * Three-compartment models are typically used, as additional compartments typically offer no extra fidelity but are mathematically more complex
-* A three-compartment model *can* conceptualised as a plasma (or central) compartment, a well-perfused compartment, and a poorly-perfused compartment  
+* A three-compartment model *can* be conceptualised as a plasma (or central) compartment, a well-perfused compartment, and a poorly-perfused compartment  
 This doesn't mean that they *should* be thought of in this way - they are a mathematical technique used to calculate plasma concentration at a given time.
 ![Three-compartment model](http://i.imgur.com/jfQ172d.png)[^3]
 
-* Plasma concentration in multicompartment model is predicted through the net effect of several negative exponential equations.
+* Plasma concentration in multicompartment model is predicted through the net effect of several negative exponential equations
 
 SUM OF EXPONENTIAL EQUATIONS CLEARANCE GRAPH WITH INTERCEPTS
 
+
+Plasma concentration becomes dependent on the effects of:
 * **Distribution**   
-Distribution refers to the movement of drug from the central compartment (V<sub>1</sub>, typically plasma) to the peripheral compartment(s). Rapid fall in plasma concentration of a drug after administration is generally due to distribution. This produces the **bi-exponential** curve seen in **two-compartment models**.
+Distribution describes the movement of drug from the central compartment (V<sub>1</sub>, typically plasma) to the peripheral compartment(s).
+    * Rapid fall in plasma concentration of a drug after administration is generally due to distribution  
+    Distribution is an important method for drug offset in short-acting drugs.
+    * This produces the **bi-exponential** curve seen in **two-compartment models**
 
 
 * **Redistribution**  
