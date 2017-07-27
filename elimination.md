@@ -17,7 +17,7 @@ Drugs can either be:
   Only free drug present in filtered plasma will be excreted - the concentration of the drug will be the same in the *unfiltered* plasma. **Highly protein bound** drugs are therefore **poorly filtered**, as there is no concentration gradient encourages them to decouple from plasma proteins.
   * **Small**
   * **Hydrophilic/lipophobic**  
-      Lipophilic drugs will be reabsorbed during their passage down the tubule.
+      Lipophilic drugs may be filtered at the glomerus but will be freely reabsorbed during their passage down the tubule, such that only trivial amounts are eliminated in urine.
 * Secreted at the glomerulus
     * * **Active** process allows secretion **against concentration gradients**.
     * Separate mechanisms for acidic and alkaline drugs
