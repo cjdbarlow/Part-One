@@ -90,11 +90,12 @@ Factors affecting rate of offset of an infusion can be classified into pharmacok
     
 
 ###Context-Sensitive Half-Time
-**Context-sensitive half time** is:
+**Context-sensitive half time** is:  
+**Defined** as the time for plasma concentration to fall to half of its value at the time of stopping an infusion.
 * A method to describe the variability in plasma concentrations after ceasing an infusion  
 The "**context**" is the **duration of infusion**.
-* Used because terminal elimination half-life has little clinical utility for predicting drug offset
-* **Defined** as the time for plasma concentration to fall to half of its value at the time of stopping an infusion  
+* Used because terminal elimination half-life has little clinical utility for predicting drug offset  
+Half-lives are often misleading when discussing drug infusions.
 * Dependent on:
   * **Duration of infusion**  
   During an infusion, drugs distribute out of plasma into tissues. When the infusion ceases, drug is cleared from plasma and tissue drug redistributes back into plasma.
