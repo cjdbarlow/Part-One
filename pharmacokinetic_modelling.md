@@ -3,6 +3,56 @@
 
 **Pharmacokinetics** describes what the body does to a drug. Pharmacokinetic models are mathematical concepts used to predict plasma concentrations of drugs at different time points.
 
+##Basic Phamacokinetic Terms
+Key concepts in pharmacokinetics include:
+* **Volume of distribution, V<sub>D</sub>**  
+The volume of distribution is defined as the **theoretical volume into which an amount of drug would be distribute to produce the identified plasma concentration**.
+    * Units are ml.kg<sup>-1</sup> 
+        * $$ Vd = {Total \ bioavailable \ drug \over Plasma \ concentration } $$ 
+    * It is a way to describe proportion of a drug is confined to plasma, and what proportion distributes to other tissues
+    * It does not correspond to any particular volume, however a V<sub>D</sub> of:
+        * Less than 40ml.kg<sup>-1</sup> indicates a drug is confined to plasma
+        * Up to 200ml.kg<sup>-1</sup> indicates a drug is confined to the ECF
+        * Up to 600ml.kg<sup>-1</sup> indicates a drug is dissolved into the TBW
+        * Greater than 1L.kg<sup>-1</sup> indicates a drug is highly protein bound or lipophilic  
+        Agents which cross the blood brain barrier typically have a V<sub>D</sub> of 1-2L.kg<sup>-1</sup.
+    * Different volumes of distribution are described for different stages of drug effect, and include:
+        * V<sub>D</sub>ss  
+        Volume of distribution at steady state.
+        * V<sub>d</sub>pe  
+        Volume of distribution at peak effect. 
+
+* **Half-life** (t<sub>1/2</sub>)  
+Half life the time it takes for a process to be 50% complete. With respect to drug clearance, it is the time it takes for concentration to halve.
+    * A process is considered to be complete after 5 half-lives  
+    Concentration will decrease by 50% after each half-life, so after 5 half-lives concentration will be 3.125% of its starting value.
+    * One half life is equivalent to 0.693 time constants
+
+* **Time-constant** (t)  
+The time taken for a process to finish if it continued at its initial rate of change. Time constants are an alternative to half-life, and are used to model change in exponential processes.
+    * Time constants are discussed in more detail in respiratory mechanics
+    * Elimination will be virtually **complete after three** time constants
+    * A time constant is also the **inverse of the rate constant for elimination**, i.e. $$ \tau = {1 \over k }$$
+
+
+
+
+* **Clearance**  
+The clearance is volume of plasma completely cleared of a drug per unit time.
+    * Expressed as: $$ Cl = k.Vd $$ in ml.min<sup>-1</sup>.
+        * As the **time constant** is the inverse of **k**, clearance can also be expressed as: $$ Cl = {Vd \over \tau } $$
+    * Since **k** and **V<sub>D</sub>** are constants, clearance is also a constant
+
+
+* **Rate of elimination**  
+Amount of drug removed by the body per unit time.
+    * Rate of elimination is the product of the clearance and the current concentration: $$ Rate \ of \ Elimination = Cl \times C $$, in mg.min<sup>-1</sup>
+
+
+
+
+
+
 ##Compartmental Modelling
 The simplest model imagines the body a single, well-stirred compartment. 
 
@@ -19,40 +69,15 @@ As drug is only eliminated from the compartment, this is also the peak concentra
 This is the fraction of the Vd from which the drug is removed per unit time. The rate constant **determines** the **slope** of the curve.
 
 
-* The volume of this compartment is the **volume of distribution, V<sub>D</sub>**
-    * Units are ml.kg<sup>-1</sup> 
-    * The volume of distribution is defined as the **theoretical volume into which an amount of drug would be distribute to produce the identified plasma concentration**
-        * $$ Vd = {Total \ bioavailable \ drug \over Plasma \ concentration } $$ 
-    * Less confusingly, it is a measurement of what proportion of a drug is confined to plasma, and what proportion distributes to other tissues. A V<sub>D</sub> of:
-        * Less than 40ml.kg<sup>-1</sup> indicates a drug is confined to plasma
-        * Up to 200ml.kg<sup>-1</sup> indicates a drug is confined to the ECF
-        * Up to 600ml.kg<sup>-1</sup> indicates a drug is dissolved into the TBW
-        * Greater than 1L.kg<sup>-1</sup> indicates a drug is highly protein bound or lipophilic  
-        Agents which cross the blood brain barrier typically have a V<sub>D</sub> of 1-2L.kg<sup>-1</sup.
-    * Different volumes of distribution are described for different stages of drug effect, and include:
-        * V<sub>D</sub>ss  
-        Volume of distribution at steady state.
-        * V<sub>d</sub>pe  
-        Volume of distribution at peak effect. 
 
 
 
-* **Time constants** ($$\tau$$) are used to model change in an exponential process. They are discussed in more detail in respiratory mechanics. LINK TO THE TIME CONSTANT THINGGGGGGYYYYYYY
-    * Elimination will be virtually **complete after three** time constants
-    * A time constant is also the **inverse of the rate constant for elimination**, i.e. $$ \tau = {1 \over k }$$
-* The **half-life** (t<sub>1/2</sub>) is the time it takes concentration to halve
-    * Consequently, elimination will be virtually complete in **five half-lives**
-    * One half life is equivalent to 0.693 time constants
+
+
+
 
 ###Clearance
-Clearance is:
-* The volume of plasma completely cleared of a drug per unit time
-* Expressed as: $$ Cl = k.Vd $$ in ml.min<sup>-1</sup>.
-    * As the **time constant** is the inverse of **k**, clearance can also be expressed as: $$ Cl = {Vd \over \tau } $$
-    * Since **k** and **Vd** are constant, clearance is also a constant
 
-
-The **rate of elimination** of a drug is the product of the clearance and the current concentration: $$ Rate \ of \ Elimination = Cl \times C $$, in mg.min<sup>-1</sup>
 
 ###Steady state
 At steady state, **input is equal to output**. Therefore the concentration at steady state is:
