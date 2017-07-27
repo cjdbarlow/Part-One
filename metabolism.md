@@ -6,11 +6,13 @@ Removal of drug from the body requires either:
 Typically by the liver, but other organs (kidney, lungs) also metabolise some substances.
 * Excretion of active drug  
 Often by the kidneys, but may also be in bile, or exhaled.
+  * Removal of drugs from the body is achieved predominantly through renal excretion of water-soluble compounds
+  * As many drugs are lipophilic, metabolism to water soluble compounds is required to clear drugs from the body
 
 
 ##Clearance
 Clearance describes the elimination of drug from the body. Clearance:
-* As discussed in modelling, clearance equals the **volume of plasma completely cleared of a drug per unit time**  
+* As discussed in modelling, clearance is the **volume of plasma completely cleared of a drug per unit time**  
 Measured in ml.min<sup>-1</sup>.
 * Does not include redistribution
 * Is calculated from the area under the concentration time curve:  
@@ -29,11 +31,34 @@ Total clearance is the sum of clearances from individual organs, e.g.:
   
 
 
+##Kinetics
+Drug clearance can follow either first order or zero-order kinetics.
+###First-order kinetics
+In **first-order** kinetics, a constant **proportion** of the drug in the body is eliminated per unit time.[^5]
+
+![First-order kinetics](http://i.imgur.com/4g4wkD7.png)[^4]
+
+Most drugs are eliminated by first order kinetics, as the capacity of the elimination system exceeds the concentration of drug
+
+###Zero-order kinetics
+In **zero-order** kinetics, a **constant amount of drug** is eliminated per unit time, independent of how much drug is in the body.[^5]
+
+![Zero-order kinetics](http://i.imgur.com/NP6STlP.png)[^4]
+
+* **Zero order kinetics** occurs when there is saturation of enzyme systems  
+It is also known as **saturation kinetics** for this reason.
+    * e.g. Phenytoin follows first order kinetics at lower doses, but zero-order kinetics at doses within the therapeutic range  
+    This is clinically relevant as the narrow therapeutic index means that toxic levels may occur rapidly with a small increase in dose.
+    * e.g. Ethanol also follows zero-order kinetics within the "therapeutic range", as it is a very weak (doses are in grams) positive allosteric modulator of the GABA<sub>A</sub> receptor
+
+There are two concerns with zero-order kinetics:  
+* Plasma concentrations will **rapidly increase** with only modest dose increase
+* There is essentially no **steady state**: if drug input exceeds output, plasma levels will continue to rise.
 
 
 
 
-**Elimination** of drugs from the body is achieved predominantly through renal excretion of water-soluble compounds. As most drugs are lipophilic, metabolism to water soluble compounds is required to clear drugs from the body.
+
 
 ##Hepatic Metabolism
 The principle organ of drug metabolism is the liver. Hepatic metabolism:
