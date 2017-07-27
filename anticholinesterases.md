@@ -34,8 +34,6 @@ Acetylcholinesterases can be:
 ---
 
 ##References
-
-Peck and Hill
-ANZCA 2007 Feb/April
-Petkov
-
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. ANZCA 2007 Feb/April
+3. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
