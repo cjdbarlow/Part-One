@@ -160,9 +160,9 @@ Compartment models are not appropriate for describing the behaviours of all drug
 * Elimination does not occur solely from the central compartment
 
 These models use **AUC**, which is calculated by measuring the plasma concentration of a drug at different time intervals, and **plotting the area under the curve (AUC)**. This can be used to:
-* Determine clearance**  
+* Determine **clearance**  
 $$ Cl = {Dose \over AUC}$$
-* **Bioavailability**  
+* Determine **Bioavailability**  
 Difference between the AUC of the same dose of drug administered IV and via another route.
 
 
