@@ -66,6 +66,7 @@ Lung volume has a variable effect on PVR.
  Low **PAO<sub>2</sub>** causes a vasoconstriction in the vessels supplying that alveolus, increasing PVR and directing blood to better ventilated alveoli.
    * Low alveolar PO<sub>2</sub> is the primary determinant
    * Low mixed venous PO<sub>2</sub> also contributes
+   * Constriction begins when P<sub>A</sub>O<sub>2</sub> falls below 100mmHg, and becomes dramatic below 70mmHg
    * This is important in:
      * Foetal circulation
      * Alveolar consolidation
@@ -73,6 +74,10 @@ Lung volume has a variable effect on PVR.
        * Cardiogenic pulmonary oedema  
        Raised LVEDP increases pulmonary venous pressures. Basal alveoli are more affected. HPV causes constriction of basal vessels, increasing blood flow to apical alveoli and resulting in **upper lobe diversion** seen on chest x-ray.
      * High altitude 
+   * HPV is attenuated by:
+     * Elevated LAP  
+     Greater than 25mmHg.
+     * High CO
  
  
  * **Minor factors** which affect PVR:
@@ -106,6 +111,7 @@ It also has relevance in two specific circumstances:
 * In utero, PAO<sub>2</sub> is negligible, and PVR is therefore very high. This diverts blood from the pulmonary circulation into the left side of the heart via the foramen ovale. When the first breath is taken, pulmonary vessels dilate and the right-to-left shunt is reversed.
 
 ##References
+1. Dunn, PF. Physiology of the Lateral Decubitus Position and One-Lung Ventilation.  Thoracic Anaesthesia. Volume 38(1), Winter 2000, pp 25-53.
 Wests
 Nunns
 Brandis
