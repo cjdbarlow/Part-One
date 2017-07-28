@@ -85,11 +85,12 @@
     * [PEEP and IPPV](peep.md)
     * [Hypoxia](hypoxia.md)
     * [Hypo and Hypercapnoea](hypo_and_hypercapnoea.md)
+    * [Lateral Decubitus and OLV](lateral-decubitus-and-olv.md)
     * [Humidification](humidification.md)
     * [Cough Reflex](cough_reflex.md)
     * [Non-Respiratory Functions](non-respiratory_functions.md)
     * [Altitude Physiology](altitude_physiology.md)
-    * [Respiratory Changes in the Newborn](changes_in_the_newborn.md)
+    * Lateral Decubitus and OLV
   * [Respiratory Pharmacology](anti-asthma_drugs.md#id)
     * [Anti-Asthma Drugs](anti-asthma_drugs.md)
 * [Cardiovascular System](cardiac_anatomy.md#id)
