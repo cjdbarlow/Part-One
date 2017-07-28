@@ -10,21 +10,27 @@ In the lateral position in a **spontaneously ventilating** patient:
 
 In the lateral position in a **positive-pressure ventilated** patient:
 * The majority (~55%) of the tidal volume is delivered to the non-dependent lung
+* The majority of pulmonary blood flow is delivered to the dependent lung
 * The dependent lung compliance falls due to compression via the:
     * Mediastinum
     * Abdominal organs  
     These move cephalad in a paralysed patient.
 * The dependent lung typically receives greater blood flow due to the effect of gravity
     * This may worsen V/Q matching
-    * Blood flow is also affected by HPV  
-        * HPV 
-    
+    * Blood flow is also affected by:
+        * HPV  
+        * Anatomical factors  
+        Blood flow is greater in central than peripheral portions. 
+        * Lung volume  
+        Alterations is extra-alveolar and intra-alveolar pressures at FRC may alter regional blood flow.
+* When both lungs are being ventilated, V/Q matching can be improved with selective application of PEEP to the dependent lung, which improves compliance
 
 ##Thoracotomy
 Opening of a non-dependent hemithorax causes:
 * Increased compliance and FRC of the non-dependent lung
 * Reduced compliance and FRC of the dependent lung
 
+s
 
 ---
 
