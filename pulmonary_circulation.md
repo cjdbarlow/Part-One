@@ -89,12 +89,19 @@ Lung volume has a variable effect on PVR.
    * **Decrease** PVR:
      * Bronchodilators
      * Volatiles
+
+###Response to Substances
+Oxygen:
+* The pulmonary circulation constricts when PO<sub>2</sub> falls, whilst the systemic circulation dilates
+
+Carbon Dioxide:
+* The pulmonary circulation constrictions when PCO<sub>2</sub> rises, whilst the systemic circulation dilates
  
 
-###Distribution of Pulmonary Flow
+##Distribution of Pulmonary Flow
 In the upright lung, flow decreases almost linearly with height. In the supine lung, flow to posterior regions exceeds that of anterior regions. This occurs due to the low driving pressure of the pulmonary circulation, which means gravity has a significant affect on blood flow.
 
-####West's Zones
+###West's Zones
 In the upright lung, the hydrostatic pressure difference will be about 30cmH<sub>2</sub>O. Therefore, there may be a region where **alveolar pressure exceeds arterial pressure**. This does not occur in normal conditions, because a normal pulmonary artery pressure is normally (just) sufficient. However, if alveolar pressure is raised (e.g. IPPV), or arterial pressure falls (shock), this may occur. This is known as **West's Zone 1**, where:** PA > Pa > Pv**.
 
 The alternative is that arterial pressure exceeds alveolar pressure. This is **West's Zone 2**, where: **Pa > PA > Pv**. Here, flow is determined by the arterial-alveolar pressure gradient rather than the arterial-venous gradient. This forms a **Starling Resistor**, where **flow is independent of downstream pressure**.
@@ -103,12 +110,12 @@ The alternative is that arterial pressure exceeds alveolar pressure. This is **W
 
 **Zone 4** occurs at low lung volumes, as extra-alveolar vessels collapse and blood flow no longer occurs. Effectively, **Pa > Pint > Pv > PA**. In effect, the interstitium is acting as a Starling resistor.
 
-####Hypoxic Pulmonary Vasoconstriction
-Pulmonary resistance vessels constrict when the PO<sub>2</sub> of inspired gas is low. This is to prevent blood flow from poorly ventilated regions of the lung, and so improve V/Q mismatching. It has a powerful response, with PAO<sub>2</sub> of < 70mmHg causing marked vasoconstriction.
-
-It also has relevance in two specific circumstances:
+###Hypoxic Pulmonary Vasoconstriction
+As discussed above, HPV allows redirection of blood flow from poorly ventilated regions of the lung, and so improve V/Q matching. HPV is relevant in disease states, as well as specific physiologic circumstances:
 * At high altitude, the PAO<sub>2</sub> is globally reduced, leading to high pulmonary artery pressures
 * In utero, PAO<sub>2</sub> is negligible, and PVR is therefore very high. This diverts blood from the pulmonary circulation into the left side of the heart via the foramen ovale. When the first breath is taken, pulmonary vessels dilate and the right-to-left shunt is reversed.
+
+
 
 ##References
 1. Dunn, PF. Physiology of the Lateral Decubitus Position and One-Lung Ventilation.  Thoracic Anaesthesia. Volume 38(1), Winter 2000, pp 25-53.
