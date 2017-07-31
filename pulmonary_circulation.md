@@ -99,16 +99,33 @@ Carbon Dioxide:
  
 
 ##Distribution of Pulmonary Flow
-In the upright lung, flow decreases almost linearly with height. In the supine lung, flow to posterior regions exceeds that of anterior regions. This occurs due to the low driving pressure of the pulmonary circulation, which means gravity has a significant affect on blood flow.
+Gravity has a significant effect on pulmonary blood flow:
+* In the upright lung, flow decreases almost linearly with height
+* In the supine lung, flow to posterior regions exceeds that of anterior regions  
+This occurs due to the low driving pressure of the pulmonary circulation, which means gravity has a much more significant affect on pulmonary blood flow than systemic blood flow.
 
 ###West's Zones
-In the upright lung, the hydrostatic pressure difference will be about 30cmH<sub>2</sub>O. Therefore, there may be a region where **alveolar pressure exceeds arterial pressure**. This does not occur in normal conditions, because a normal pulmonary artery pressure is normally (just) sufficient. However, if alveolar pressure is raised (e.g. IPPV), or arterial pressure falls (shock), this may occur. This is known as **West's Zone 1**, where:** PA > Pa > Pv**.
+The lung is divided into four zones, based on the relationship between alveolar and vascular pressures:
+* **West's Zone 1**  
+In West's Zone 1, PA > Pa > Pv.
+  * This should not occur in normal conditions, because a normal pulmonary artery pressure is normally (just) sufficient  
+  This is because in the upright lung, the hydrostatic pressure difference will be about 30cmH<sub>2</sub>O.
+  * However, if alveolar pressure is raised (e.g. IPPV), or arterial pressure falls (shock), there may be a region where **alveolar pressure exceeds arterial pressure**
 
-The alternative is that arterial pressure exceeds alveolar pressure. This is **West's Zone 2**, where: **Pa > PA > Pv**. Here, flow is determined by the arterial-alveolar pressure gradient rather than the arterial-venous gradient. This forms a **Starling Resistor**, where **flow is independent of downstream pressure**.
 
-**Zone 3** occurs when alveolar pressure falls below venous pressure, i.e. **Pa > Pv > PA**. Flow is dependent on the arterial-venous pressure gradient. Capillary pressure increases along their length, increasing transmural pressure and mean width.
+* **West's Zone 2**  
+In West's Zone 2, **Pa > PA > Pv**.
+  * Here, flow is determined by the arterial-alveolar pressure gradient rather than the arterial-venous gradient  
+  Alveolar pressure acts as a **Starling Resistor**, where **flow is independent of downstream pressure**.
 
-**Zone 4** occurs at low lung volumes, as extra-alveolar vessels collapse and blood flow no longer occurs. Effectively, **Pa > Pint > Pv > PA**. In effect, the interstitium is acting as a Starling resistor.
+
+* **West's Zone 3**  
+Occurs when alveolar pressure falls below venous pressure, i.e. **Pa > Pv > PA**. Flow is dependent on the arterial-venous pressure gradient. Capillary pressure increases along their length, increasing transmural pressure and mean width.
+
+
+* **West's Zone 4**  
+Occurs at low lung volumes, as extra-alveolar vessels collapse and blood flow no longer occurs. Effectively, **Pa > Pint > Pv > PA**. In effect, the interstitium is acting as a Starling resistor.
+
 
 ###Hypoxic Pulmonary Vasoconstriction
 As discussed above, HPV allows redirection of blood flow from poorly ventilated regions of the lung, and so improve V/Q matching. HPV is relevant in disease states, as well as specific physiologic circumstances:
