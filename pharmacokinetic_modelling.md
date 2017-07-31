@@ -43,8 +43,8 @@ The time it takes for a process to be 50% complete. With respect to drug clearan
         * t<sub>1/2</sub>α describes the rapidity of the distribution phase following drug administration
         * t<sub>1/2</sub>β describes the rapidity of the *elimination* phase occurring after drug distribution equilibrium  
         This only evaluates clearance from plasma, and so is a composite of both excretion from the body (e.g. renal and hepatic clearance) and ongoing distribution to peripheral tissues.
-            * The elimination half-life is generally not useful to predict drug offset  
-            It sets an upper limit on how long it will take plasma concentration to fall by 50%.
+            * The elimination half-life is generally not useful to predict drug offset, as this is affected by many factors  
+            However, it does set an upper limit on how long it will take plasma concentration to fall by 50%.
 
 
 * **Time-constant** ($$\tau$$)  
