@@ -25,6 +25,8 @@ Competency of the LoS is required to prevent reflux
                 An external sphincter is formed by the diaphragmatic crura, and exerts a **pinch-cock** action on the oesophagus.
                 * Stomach  
                 A fold in the stomach wall just distal to the GOJ creates a **flap valve**, which occludes the GOJ when gastric pressure rises.
+                * Oeosophagus  
+                The oesophagus enters the stomach at an oblique angle, limiting retrograde flow.
             * Hormonal
                 * Gastrin, motilin, α-agonism **increase** LoS tone
                 * Progesterone, glucagon, vasoactive intestinal peptide (VIP) **decrease **LoS tone
@@ -47,3 +49,4 @@ Competency of the LoS is required to prevent reflux
 * Diaz Notes
 * ANZCA July/August 1999
 * http://www.nature.com/gimo/contents/pt1/full/gimo48.html#f15
+* ANZCA August/September 2015
