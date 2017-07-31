@@ -16,9 +16,9 @@
 |--|--|
 |**Metabolism**|Hepatic CYP450 (CYP2E1) metabolises C-halogen bonds to release halogen ions (F<sup>-</sup>, Cl<sup>-</sup>, Br<sup>-</sup>), which can be nephrotoxic and hepatotoxic. The C-F bond is minimally metabolised compared to the C-Cl, C-Br, and C-I bonds. All agents undergo hepatic oxidation, except for halothane which is reduced.
 |**Resp**|All halogenated agents ↓ V<sub>T</sub> and ↑ RR, with an overall ↓ in MV and therefore cause PaCO<sub>2</sub> to ↑; and ↓ sensitivity of central respiratory centres to CO<sub>2</sub>. Impairment of HPV may worsen V/Q matching and ↑ shunt.
-|**CVS**|↓ MAP (predominantly by ↓ in SVR), ↓ inotropy.
+|**CVS**|↓ MAP (predominantly by ↓ in SVR due to NO release and Ca<sup>2+</sup> channel blockade), ↓ inotropy due to Ca<sup>2+</sup> channel blockade.
 |**CNS**|Hypnosis. ↓ CMRO<sub>2</sub>. Above 1 MAC there is **uncoupling** of the CBF-CMRO<sub>2</sub> relationship, and CBF ↑ despite ↓ CMRO<sub>2</sub> due to cerebral vasodilation. ICP may mirror CBF changes. <br><br> All except halothane have some analgesic effect. ↓ EEG frequency such that θ- and δ-wave dominate the EEG as depth ↑. May cause burst suppression. 
-|**MSK**|Augment the effects of NMBD. May precipitate MH.
+|**MSK**|Muscle relaxation via blockade of Ca<sup>2+</sup> channels. Additional augmentation of the effects of NMBD due to skeletal muscle vasodilation. May precipitate MH.
 |**Renal**|Dose dependent ↓ in RBF, GFR, and UO secondary to ↓ in MAP and CO. <br><br>Fluorinated ethers produce F<sup>-</sup> ions when hepatically metabolised, which may produce high-output renal failure at serum concentrations **>50μmol/L**. This is probably only a concern with methoxyflurane (as it has significant (>70%) hepatic metabolism) when used at anaesthetic doses.
 |**GIT**|↓ Hepatic blood flow. 
 |**GU**|Tocolysis
