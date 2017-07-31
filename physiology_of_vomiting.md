@@ -9,7 +9,6 @@ It is a mechanism to expel toxic substances from the GIT.
 Stimulants to vomiting can act centrally, or directly in the bowel:
 * **Central stimulation**  
     Central stimuli may act directly on the vomiting centre. Others act via the CTZ, which is part of the area postrema located outside of the blood-brain barrier, and so it can be stimulated by circulating substances.
-
     Central vomiting stimuli include:
     * Direct:
         * Emotion
@@ -38,15 +37,19 @@ Stimulants to vomiting can act centrally, or directly in the bowel:
 
 
 ##Process of vomiting
-Vomiting consists of a set of processes coordinated by the **vomit centre** in the medulla oblongata, which are occur when activated by the above stimuli:
-* Prodromal nausea
-* Salivation
-* Deep inspiration and breath-holding to splint the chest
-* Epiglottic closure
-* Elevation of the soft palate (prevents nasal soiling)
-* Relaxation of oesophageal sphincters
-* Retrograde intestinal contraction which forces intestinal contents into the stomach
-* Violent contraction of the diaphragm and abdominal muscles
+Vomiting consists of a set of processes coordinated by the **vomit centre** in the medulla oblongata, and is divided into three phases:
+* **Pre-ejection phase**
+    * Prodromal nausea
+    * Salivation
+    * Retrograde intestinal contraction which forces intestinal contents into the stomach
+* **Retching Phase**
+    * Deep inspiration and breath-holding to splint the chest
+    * Epiglottic closure
+    * Elevation of the soft palate (prevents nasal soiling)
+* **Expulsive phase**
+    * Relaxation of oesophageal sphincters
+    * Pyloric contraction
+    * Violent contraction of the diaphragm and abdominal muscles
 
 
 ---
