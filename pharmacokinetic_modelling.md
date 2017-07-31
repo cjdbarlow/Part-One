@@ -43,6 +43,8 @@ Half life the time it takes for a process to be 50% complete. With respect to dr
         * t<sub>1/2</sub>α describes the rapidity of the distribution phase following drug administration
         * t<sub>1/2</sub>β describes the rapidity of the *elimination* phase occurring after drug distribution equilibrium  
         This only evaluates clearance from plasma, and so is a composite of both excretion from the body (e.g. renal and hepatic clearance) and ongoing distribution to peripheral tissues.
+            * The elimination half-life is generally not useful to predict drug offset  
+            It sets an upper limit on how long it will take plasma concentration to fall by 50%.
 
 
 * **Time-constant** ($$\tau$$)  
@@ -156,7 +158,8 @@ Pharmacokinetic models typically display the plasma concentration.
     * Effect site concentration be different from plasma concentration (**Cp**) prior to reaching steady state  
     The delay between plasma and effect site concentrations is an example of hysteresis.
 * The effect site can be modelled as an additional compartment in three-compartment models  
-The effect site is modelled as a **compartment of no volume**, but does have rate constants
+The effect site is modelled as a **compartment of negligible volume** contained **within V<sub>1</sub>**, but does have rate constants
+    * Effect site volume changes as V<sub>1</sub> changes
     * The k<sub>e1</sub> is the rate constant for drug diffusion from plasma into the effect site
     * The **k<sub>e0</sub>** is the rate constant for elimination of drug **from the effect site**  
     This is a theoretical elimination pathway - drug is not usually metabolised at the effect site.
