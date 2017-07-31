@@ -29,7 +29,7 @@ The volume of distribution is defined as the **theoretical volume into which an 
 
 
 * **Half-life** (t<sub>1/2</sub>)  
-The time it takes for a process to be 50% complete. With respect to drug clearance, it is the time it takes for concentration to halve.
+The time it takes for a process to be 50% complete. With respect to drug clearance, it is the time it takes for concentration (typically in plasma) to fall by 50%.
     * A process is considered to be complete after 5 half-lives  
     Concentration will decrease by 50% after each half-life, so after 5 half-lives concentration will be 3.125% of its starting value.
         * This also applies to wash in - it will take ~4-5 elimination half-lives of a drug for a constant-rate infusion to reach its final concentration
