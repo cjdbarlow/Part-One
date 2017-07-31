@@ -2,14 +2,19 @@
 
 Ketamine is a phencyclidine derivative used for induction, sedation, analgesia, and as a bronchodilator in severe asthma.
 
-Ketamine is a **non-competetive antagonist** of **NMDA** and **glutamate** receptors in the CNS. 
+Ketamine acts via:
+* **Non-competitive antagonist** of **NMDA** and **glutamate** receptors in the CNS
+* Reduces presynaptic glutamate release
+* Sodium channel inhibition  
+Local anaesthetic-like effect.
+* Potential monoaminergic, muscarinic, and nicotinic antagonism
 
 |Property|Action|
 |--|--|
-|**Class**|Phencyclidine derivative and NMDA receptor antagonist|
+|**Class**|Phencyclidine derivative|
 |**Uses**|Induction of anaesthesia, sedation, analgesia, asthma|
 |**Presentation**| Clear, colourless solution forming an acidic solution (pH 3.5-5.5)|
-|**Isomerism**| Racemic mixture or the single S(+) enantiomer, which is 2-3x as potent as the R(-) enantiomer|
+|**Isomerism**| Racemic mixture or the single S(+) enantiomer, which is 2-3x as potent as the R(-) enantiomer but has less bronchodilatory properties|
 |**Route of Administration**|IV, IM, PO, PR, PN, via epidural (with preservative-free solution)|
 |**Dosing**|Induction: 1-2mg.kg<sup>-1</sup> IV, 5-10mg.kg<sup>-1</sup> IM, Sedation: 0.2-0.5mg.kg<sup>-1</sup> IV|
 |**Distribution**|25% protein bound. t<sub>1/2</sub>α 10-15 minutes|
@@ -25,5 +30,6 @@ Ketamine is a **non-competetive antagonist** of **NMDA** and **glutamate** recep
 ---
 ##References
 Peck and Hill
+Smith, Scarth, Sasada
 CICM July/Sept 2007
 http://www.frca.co.uk/Documents/107%20-%20IV%20induction%20agents.pdf
