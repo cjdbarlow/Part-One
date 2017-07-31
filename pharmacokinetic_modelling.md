@@ -15,7 +15,7 @@ The volume of distribution is defined as the **theoretical volume into which an 
         * Up to 200ml.kg<sup>-1</sup> indicates a drug is confined to the ECF
         * Up to 600ml.kg<sup>-1</sup> indicates a drug is dissolved into the TBW
         * Greater than 1L.kg<sup>-1</sup> indicates a drug is highly protein bound or lipophilic  
-        Agents which cross the blood brain barrier typically have a V<sub>D</sub> of 1-2L.kg<sup>-1</sup.
+        Agents which cross the blood brain barrier typically have a V<sub>D</sub> of 1-2L.kg<sup>-1</sup>.
     * Different volumes of distribution are described for different stages of drug effect
         * These include:
             * V<sub>1</sub>  
