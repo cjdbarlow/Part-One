@@ -129,9 +129,11 @@ A line isolated supply is a 'transformer' with an equal number of windings, such
     * Cons: Two or more faults are dangerous, and will still not result in a power loss
 
 
-* **Equipotential earthing**
-
-
+* **Equipotential earthing**  
+This is the only method which prevents microshock.
+    * Ultra-low resistance earth cables are attached to electrical devices and the patients bed
+    * These cables are then attached to special wall earth connectors
+    * This ensures all equipment is referenced to a common ground, minimising the risk of leakage currents between devices and the patient
 
 ###Classification of Electrically Safe Equipment
 These classifications are designed to limit macroshock:
