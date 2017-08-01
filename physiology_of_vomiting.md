@@ -36,6 +36,33 @@ Stimulants to vomiting can act centrally, or directly in the bowel:
     * H<sub>1</sub> in NTS afferents
 
 
+###Postoperative Nausea and Vomiting
+Central structures involved include:
+* Chemoreceptor trigger zone
+* Nucleus of the tractus solitarius
+* Multiple pathways exist (similar to those described above), and neurotransmitters involved include:
+    * 5-HT<sub>3</sub>
+    * D<sub>2</sub>
+    * NK<sub>1</sub>
+    * H<sub>1</sub>
+    * mACh
+* Risk factors
+    * Patient factors
+        * Female
+        * Non-Smoker
+        * Young age
+        * History of PONV or motion sickness
+    * Anaesthetic factors
+        * Volatile use
+        * Nitrous oxide use  
+        Relative risk of 1.4.
+        * Opioid use
+        * Anaesthesia duration
+    * Surgical factors
+        * Gynaecological surgery  
+        Likely not an independent risk factor, and simply confounded by female gender.
+        * Strabismus surgery in children
+
 ##Process of vomiting
 Vomiting consists of a set of processes coordinated by the **vomit centre** in the medulla oblongata, and is divided into three phases:
 * **Pre-ejection phase**
@@ -57,3 +84,4 @@ Vomiting consists of a set of processes coordinated by the **vomit centre** in t
 Brandis
 Power and Kam
 Chambers
+https://academic.oup.com/bjaed/article/13/1/28/281153/Nausea-and-vomiting-after-surgery
