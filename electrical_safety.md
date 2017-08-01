@@ -111,7 +111,7 @@ An RCD measures the current difference between the active and neutral lines. In 
 
 
 * **Line Isolation Supply**, with a **line isolation monitor**  
-    * A line isolated supply is a 'transformer' with an equal number of windings, such that the voltage produced is the same on each side. However, the **powerpoint is not physically connected to the supply**. This creates an **earth-referenced floating supply**. 
+A line isolated supply is a 'transformer' with an equal number of windings, such that the voltage produced is the same on each side. However, the **powerpoint is not physically connected to the supply**, creating an **earth-referenced floating supply**. 
     * A fault requires:
         * **Two** faults  
         This makes a failure with potential for shock much less likely.
@@ -127,6 +127,11 @@ An RCD measures the current difference between the active and neutral lines. In 
                 * An alarm will sound when the prospective hazard current exceeds 20mA
     * Pros: A single fault is not dangerous and will not result in a power loss which is important for vital equipment
     * Cons: Two or more faults are dangerous, and will still not result in a power loss
+
+
+* **Equipotential earthing**
+
+
 
 ###Classification of Electrically Safe Equipment
 These classifications are designed to limit macroshock:
