@@ -21,7 +21,7 @@ Acetylcholinesterases can be:
 |**Dosing**|0.05mg.kg<sup>-1</sup> for reversal, 15-30mg PO for MG
 |**Absorption**|Low PO bioavailability|Rapid topical absorption due to high lipid solubility
 |**Distribution**|Does not cross BBB, V<sub>D</sub> 0.7L.kg<sup>-1</sup>|Crosses BBB
-|**Metabolism**|Partial hepatic metabolism|Not metabolised
+|**Metabolism**|Majority by plasma esterases to quaternary alcohol, with some hepatic metabolism|Not metabolised
 |**Elimination**|55% unchanged in urine|t<sub>1/2</sub>α of weeks
 |**Duration**|50 minutes|Until new AChE is synthesised
 |**Resp**|Bronchospasm, ↑ secretion|Bronchospasm, ↑ secretion
