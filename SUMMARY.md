@@ -317,6 +317,7 @@
   * [Tocolytics](tocolytics.md)
 * Gastrointestinal
   * [Acid Suppression](acid-suppression.md)
+  * [Antiemetics](antiemetics.md)
 
 ## Appendices
 
