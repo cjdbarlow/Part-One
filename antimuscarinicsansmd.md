@@ -1,4 +1,4 @@
-# Antimuscarinics  (Cardiac) {#id}
+# Antimuscarinics (Cardiac) {#id}
 
 *Antimuscarinics used for bronchodilation are covered under [Antimuscarinics (Respiratory)](antimuscarinics.md), whilst [atropine](atropine.md) is covered separately.*
 
