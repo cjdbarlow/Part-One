@@ -1,4 +1,10 @@
-# Antimuscarinics
+# Antimuscarinics (Respiratory)
+
+*Antimuscarinics with predominantly cardiac effects are covered at [Antimuscarinics (Cardiac)](antimuscarinicsansmd.md), whilst [atropine](atropine.md) is covered separately.*
+
+These agents competitively antagonise ACh at M<sub>3</sub> receptors in bronchial smooth muscle, preventing parasympathetic mediated bronchoconstriction.
+
+
 
 |Property|Ipratropium|Tiotropium|
 |--|--|
@@ -10,16 +16,11 @@
 |**Absorption**|5% bioavailability via inhaled route||
 |**Metabolism**|Hepatic to inactive metabolites||
 |**Elimination**|Equal renal and faecal elimination|||
-
-Antimuscarinic agents competitively antagonise ACh at M<sub>3</sub> receptors in bronchial smooth muscle, preventing parasympathetic mediated bronchoconstriction.
-
-|Pharmacodynamics|Antimuscarinics|
-|--|--|
-|**Resp**|Bronchodilation|
-|**GIT**|Decreased secretions in large doses|
-|**CNS**|Mydriasis if deposited in eye|
+|**Resp**|Bronchodilation|Bronchodilation
+|**GIT**|Decreased GI secretions in large doses|Decreased GI secretions in large doses
+|**CNS**|Mydriasis if deposited in eye|Mydriasis if deposited in eye
 
 ---
 ##References
-Peck and Hill
-Smith Scarth Sasada
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
