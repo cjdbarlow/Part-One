@@ -21,10 +21,10 @@ Do not cross the blood-brain barrier.
 |**Presentation**|Clear, colourless solution at 200μg.ml<sup>-1</sup>. Incompatible with diazepam and thiopentone.|Racemic, only L-isomer active
 |**Route of Administration**|IV/IM|PO, SC
 |**Dosing**|200-400μg|200-600μg|
-|**Absorption**|Minimal PO absorption| < 50% PO bioavailability
+|**Absorption**|Minimal PO absorption - not used via this route.| < 50% PO bioavailability
 |**Distribution**|Crosses placenta but not BBB, V<sub>D</sub> 0.5L.kg<sup>-1</sup>|V<sub>D</sub> 2L.kg<sup>-1</sup>|
-|**Metabolism**|Minimal hepatic hydrolysis|Hepatic esterases
-|**Elimination**|Renal of largely unchanged drug|Renal of metabolites
+|**Metabolism**|Minimal hepatic hydrolysis|Extensive metabolism by hepatic esterases
+|**Elimination**|Renal of 85% unchanged drug|Renal of metabolites
 |**Resp**|Bronchodilation, antisialagogue|Bronchodilation, greatest antisialagogue effect
 |**CVS**|Initial bradycardia due to partial agonist effect. Reverses vagal causes of bradycardia, may cause tachycardia in doses >200μg. HR peaks at 3-9 minutes following administration.|Least likely anticholinergic to cause tachycardia
 |**CNS**||Most likely anticholinergic to cause central anticholinergic syndrome
@@ -34,4 +34,5 @@ Do not cross the blood-brain barrier.
 
 ---
 ##References
-Smith Scarth Sasada
+1. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+2. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
