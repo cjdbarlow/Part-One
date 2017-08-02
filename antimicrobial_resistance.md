@@ -46,6 +46,8 @@ Specific mechanisms of resistance (which may be genetic alterations or changes i
 ---
 ##References
 Lippincotts
-CICM Sep/nov 2008
-http://www.microrao.com/micronotes/pg/antimicrobial_resistance.pdf
-Molecular mechanism of antibiotic resistance. Blair, Webber, Baylay, Ogbolu, Piddock.
+2. CICM September/November 2008
+3. Blair JM, Webber MA, Baylay AJ, Ogbolu DO, Piddock LJ. [Molecular mechanisms of
+antibiotic resistance](https://www.nature.com/nrmicro/journal/v13/n1/full/nrmicro3380.html?foxtrotcallback=true). Nat Rev Microbiol. 2015 Jan;13(1):42-51. doi:
+10.1038/nrmicro3380. 
+4. [Microrao - Mechanisms of Antimicrobial Resistance](http://www.microrao.com/micronotes/pg/antimicrobial_resistance.pdf)
