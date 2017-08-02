@@ -9,29 +9,26 @@ Mechanism of action by multiple effects, including:
   * α<sub>1</sub> antagonism
   * NMDA antagonism
 * Selective Serotonin Reuptake Inhibitors (SSRIs)
-  * Inhibit neural reuptake of 5-Ht
+  * Inhibit neural reuptake of 5-HT
   * Preferred over TCAs as:
     * Similar effectiveness
     * Better side effect profile
     
 
-|Property|Amitriptyline|
+|Property|Amitriptyline|Fluoxetine|
 |--|--|
-|**Class**|TCA|
-|**Uses**|Depression, treatment of chronic pain and trigeminal neuralgia
-|**Absorption**|High PO bioavailability
-|**Distribution**|Highly lipid soluble: High V<sub>D</sub>
-|**Metabolism**|Hepatic with active metabolites and large interpatient variability
-|**Elimination**|
+|**Class**|TCA|SSRI|
+|**Uses**|Depression, treatment of chronic pain and trigeminal neuralgia|Depression, anxiety|
+|**Absorption**|High PO bioavailability|High PO bioavailability
+|**Distribution**|Highly lipid soluble: High V<sub>D</sub>|Highly protein bound, high V<sub>D</sub>
+|**Metabolism**|Hepatic with active metabolites and large interpatient variability|Hepatic with non-linear kinetics
+|**Elimination**||Unaffected by renal impairment
 |**Resp**|Dry mouth
-|**CVS**|Postural hypotension, ↑ HR.<br>QT prolongation and widening QRS in overdose, with arrhythmia more likely when QRS exceeds 0.16s.
-|**CNS**|Sedation, blurred vision, lowered seizure threshold. Excitation, followed by seizures and depression in overdose.
-|**MSK**|
-|**Renal**|Urinary retention
-|**GU**|Sexual dysfunction
-|**GIT**|Constipation
-|**Haeme**|
-|**Immune**|
+|**CVS**|Postural hypotension, ↑ HR.<br>QT prolongation and widening QRS in overdose, with arrhythmia more likely when QRS exceeds 0.16s.|Less cardiotoxic than TCAs, may precipite serotonin syndrome
+|**CNS**|Sedation, blurred vision, lowered seizure threshold. Excitation, followed by seizures and depression in overdose.|Identical antidepressant effect to TCAs. Less sedation
+|**Renal**|Urinary retention||
+|**GU**|Sexual dysfunction|Greater incidence of sexual dysfunction compared with TCAs
+|**GIT**|Constipation|Greater incidence of N/V compared with TCAs
 |**Other**|Multiple compex drug interactions, including arrhythmias and variable BP with sympathomimetics, central anticholinergic syndrome, serotonin syndrome, and seizures.
 
 
@@ -54,8 +51,7 @@ Serotonin syndrome is excessive serotonin in the CNS, typically as a consequence
 
 Serotonin syndrome is typically self-limiting and resolves with cessation of the drug.
 
-
-
 ---
 ##References
-http://www.australianprescriber.com/magazine/25/1/artid/569
+1. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+2. Altamura AC, Moro AR, Percudani M. [Clinical pharmacokinetics of fluoxetine.](https://www.ncbi.nlm.nih.gov/pubmed/8194283) 1994 Mar;26(3):201-14.
