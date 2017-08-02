@@ -18,6 +18,5 @@ Antifibrinolytics include aprotonin, aminocaproic acid, and **transexamic acid**
 |**Immunological**|Allergic dermatitis
 ---
 ##References
-Peck and Hill
-http://lifeinthefastlane.com/book/critical-care-drugs/tranexamic-acid/
-http://www.anzca.edu.au/communications/anzca-e-newsletter/e-news-advertisements/Product%20information%20-%20Pfizer.pdf
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. (LITFL - Tranexamic Acid)[https://lifeinthefastlane.com/ccc/tranexamic-acid/]
