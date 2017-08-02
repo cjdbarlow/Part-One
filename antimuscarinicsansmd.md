@@ -1,6 +1,7 @@
 # Antimuscarinics  (Cardiac) {#id}
 
-*Atropine is covered in anti-arrhythmics*
+*Antimuscarinics with used for bronchodilation are covered under [Antimuscarinics (Respiratory)](antimuscarinics.md), whilst [atropine](atropine.md) is covered separately.*
+
 
 Antimuscarinics are as competitive, reversible antagonists of ACh at the muscarinic receptor. They are divided into:
 * Naturally occurring **tertiary amines**  
