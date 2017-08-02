@@ -11,7 +11,7 @@ In **general**, anticonvulsants are:
 |Property|Phenytoin|Sodium Valproate|Carbamazepine
 |--|--|
 |**Uses**|GTCS, partial seizures, trigeminal neuralgia, ventricular arrhythmias|Partial seizures|Antiepileptic, trigeminal neuralgia
-|**Presentation**|Capsules, syrup, solution. Incompatible with dextrose.|Tablets, syrup, solution|Tablets, suppositories, syrup|
+|**Presentation**|Capsules, syrup, solution. IV formulation incompatible with dextrose.|Tablets, syrup, solution|Tablets, suppositories, syrup|
 |**Route of Administration**|PO, IV, IM|PO, IV|PO|
 |**Dosing**|15-20mg.kg<sup>-1</sup> load, aiming plasma levels 10-20mcg.ml<sup>-1</sup>|300-1250mg BD|50-800mg BD|
 |**Mechanism of Action**|Stabilises Na<sup>+</sup> channels in their inactive state, inhibiting generation of further action potentials. |Stabilises Na<sup>+</sup> channels in their inactive state and GABAergic inhibition|Stabilises Na<sup>+</sup> channels in their inactive state and potentiates GABA|
