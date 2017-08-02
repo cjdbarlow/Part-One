@@ -45,7 +45,7 @@ Specific mechanisms of resistance (which may be genetic alterations or changes i
 
 ---
 ##References
-Lippincotts
+1. Harvey RA, Cornelissen CN, Fisher BD. Lippincott Illustrated Reviews: Microbiology (Lippincott Illustrated Reviews Series). 3rd Ed. LWW.
 2. CICM September/November 2008
 3. Blair JM, Webber MA, Baylay AJ, Ogbolu DO, Piddock LJ. [Molecular mechanisms of
 antibiotic resistance](https://www.nature.com/nrmicro/journal/v13/n1/full/nrmicro3380.html?foxtrotcallback=true). Nat Rev Microbiol. 2015 Jan;13(1):42-51. doi:
