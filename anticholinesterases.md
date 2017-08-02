@@ -16,9 +16,9 @@ Acetylcholinesterases can be:
 |--|--|
 |**Class**|Quaternary amine, forms carbamylated enzyme complex|Irreversible anticholinesterase
 |**Uses**|Reversal of ND NMB, myasthenia gravis, analgesia|Insecticides, pesticides, chemical weapons
-|**Presentation**|Clear, colourless, light stable solution at 2.5mg.ml<sup>-1</sup>|
+|**Presentation**|Clear, colourless, light stable solution at 2.5mg.ml<sup>-1</sup>||
 |**Route of Administration**|PO, IV, intrathecal|Topical
-|**Dosing**|0.05mg.kg<sup>-1</sup> for reversal, 15-30mg PO for MG
+|**Dosing**|0.05mg.kg<sup>-1</sup> for reversal, 15-30mg PO for MG||
 |**Absorption**|Low PO bioavailability|Rapid topical absorption due to high lipid solubility
 |**Distribution**|Does not cross BBB, V<sub>D</sub> 0.7L.kg<sup>-1</sup>|Crosses BBB
 |**Metabolism**|Majority by plasma esterases to quaternary alcohol, with some hepatic metabolism|Not metabolised

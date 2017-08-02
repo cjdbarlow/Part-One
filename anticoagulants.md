@@ -16,17 +16,17 @@
 |**Haeme**|Haemorrhage|Haemorrhage, HITTs|Haemorrhage, lower risk of HITTs than UFH. Less thrombocytopaenia.
 |**Immune**|Hypersensitivity reactions|||
 |**Reversal**|- Waiting<br>- Vitamin K<br>- FFP<br>- Prothrombinex|Reversed with protamine (1mg per 100U).|Incomplete reversal with protamine as only the anti-IIa effect is inhibited.|
-|**Other**|Teratogenic. Complicated pharmacokinetics requiring monitoring using INR|Requires monitoring with APTT or ATIII levels. Large interpatient variability due to variable amounts of ATIII.|No monitoring required.|
+|**Other**|Teratogenic. Complicated pharmacokinetics requiring monitoring using INR.|Requires monitoring with APTT or ATIII levels. Large interpatient variability due to variable amounts of ATIII.|No monitoring required.|
 
 
 ##HITTs
 **Heparin-Induced Thrombotic Thrombocytopenia** comes in two flavours:
-* **Type I** is:
-    * Non-immune mediated
+* **Type I**:
+    * Is non-immune mediated
     * Occurs within 4 days of anticoagulant doses
     * Is an isolated thrombocytopenia without clinical significance
-* **Type II** is:
-    * Immune mediated
+* **Type II**:
+    * Is immune mediated
     * Occurs within 4-14 days
     * Is associated with serious thrombosis and high mortality (typically from PE) and morbidity (from CVA nad limb ischaemia)
     
