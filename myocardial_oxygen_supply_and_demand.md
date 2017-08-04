@@ -62,8 +62,11 @@ Ventricular wall tension is **pressure work**, or the work done by the ventricle
 **Minor determinants** of myocardial work are:
 * **External work**  
 External work can also be thought of as **volume work**, or the kinetic energy imparted to blood ejected from the ventricle.
+  * This is encompassed by the area enclosed by the LV pressure-volume loop
   * This is a minor determinant because the majority of ventricular work is generating the pressure required to eject blood, not actually move volume
   * External work is of greater importance at high CO
+  * External work is used to calculate **cardiac efficiency**, given by the equation:  
+  $$Cardiac \ Efficiency = {External \ Work \over \ Myocardial \ O_2 \ Consumption }$$
 
 
 * **Basal oxygen consumption**   
