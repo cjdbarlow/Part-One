@@ -61,13 +61,13 @@ Ventricular wall tension is **pressure work**, or the work done by the ventricle
 
 **Minor determinants** of myocardial work are:
 * **External work**  
-External work can also be thought of as **volume work**, or the kinetic energy imparted to blood ejected from the ventricle.
-  * This is encompassed by the area enclosed by the LV pressure-volume loop
+External work can also be thought of as **volume work**, or the energy expected to eject blood from the ventricle.
+  * This is encompassed by the area enclosed by the pressure-volume loop
+    * Conversely, internal work is defined as the work required to change the shape of the ventricle and prepare it for ejection, and on the pressure-volume loop is represented by a triangle between the point of 0 pressure and volume, the end systolic point, and the beginning of rapid ventricular filling.
   * This is a minor determinant because the majority of ventricular work is generating the pressure required to eject blood, not actually move volume
   * External work is of greater importance at high CO
   * External work is used to calculate **cardiac efficiency**, given by the equation:  
   $$Cardiac \ Efficiency = {External \ Work \over \ Myocardial \ O_2 \ Consumption }$$
-
 
 * **Basal oxygen consumption**   
 Basal oxygen consumption (~8ml.min<sup>-1</sup>.100g<sup>-1</sup>) comprises ~25% of MVO<sub>2</sub>.
@@ -77,3 +77,4 @@ Basal oxygen consumption (~8ml.min<sup>-1</sup>.100g<sup>-1</sup>) comprises ~25
 Dr Podcast Scripts for the Final FRCA
 Power and Kam
 Grossman's Cardiac Catheterization, Angiography, and Intervention
+Millers
