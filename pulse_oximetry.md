@@ -53,14 +53,23 @@ $$ R =$$ $${Pulsatile_{660} / Non-Pulsatile_{660}} \over Pulsatile_{940} / Non-P
     * Body movements confound readings (shivering, seizing)
 
 
+* Low saturations  
+Inaccurate below 70%, and completely unreliable below 50%.
+
+
+* Venous pulsation  
+Detected as pulsatile flow, and erronously interpreted by the microprocessor as arterial flow.
+
+
 * Confounded by ambient light  
-The diodes are cycled at several hundred times per second which allows the detector to compensate for the effect of ambient light (the values when the diodes are off give the effect of ambient light)
+The diodes are cycled at several hundred times per second which allows the detector to compensate for the effect of ambient light (the values when the diodes are off give the effect of ambient light).
 
 
 * Absorption spectra confounded by haemoglobinopathies
     * Carboxyhaemoglobin causes the pulse oximeter to read artifically high due to as it also aborbs 660nm light
     * Methaemoglobinaaemia causes the SpO<sub>2</sub> to trend towards 85%, as though it absorbs 660nm light is also absorbs 940nm light to a greater degree
     * Methylene blue will cause the SpO<sub>2</sub> to read <65% for several minutes
+
 
 ---
 ##References
