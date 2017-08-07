@@ -41,7 +41,7 @@ GRAPH OF PROSTAGLANDIN SYNTHESIS
 |**PGE<sub>2</sub> EP<sub>2</sub>**|Gs|Bronchodilation|Closure of ductus arteriosus|Decreased contraction|Renal vasodilation||
 |**PGE<sub>2</sub> EP<sub>3</sub>**|Gi|||Gastric mucous production, GIT contraction|Uterine contraction||
 |**PGF<sub>2α</sub>**|Gq|Bronchoconstriction|Vasoconstriction||Uterine contraction||
-|**PGD<sub>2</sub>**|||||Renal vasodilation|Promotes sleep|
+|**PGD<sub>2</sub>**|Gs||||Renal vasodilation|Promotes sleep|
 
 
 ---
