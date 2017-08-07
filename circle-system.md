@@ -15,7 +15,7 @@ The circle breathing system is a highly efficient system which:
 
 ##Principles
 A circle circuit consists of:
-* A y-piece, connecting the circuit to the patient
+* A Y-piece, connecting the circuit to the patient
 * Expiratory and inspiratory valves, ensuring unidirectional flow
 * A means of generating pressure  
 In most systems this consists of both a ventilator and a resevoir bag with APL valve attached, with a bag/vent switch to swap between circuits.
