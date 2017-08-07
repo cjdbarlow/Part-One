@@ -9,7 +9,7 @@ Changes are most obvious below 1 year of age. They typically resolve by ~8 years
     * Proportionally **enlarged head** and occiput  
     Optimal intubating position is neutral rather than ramped.
     * Proportionally **short neck**  
-    Favours airway obstruction.
+    Favours airway obstruction when flexed.
 * Laryngeal changes
     * Disproportionately **large tongue** that complicates laryngoscopy
     * **Epiglottis** is **u-shaped**, **longer**, and **stiffer**
