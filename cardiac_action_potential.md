@@ -73,7 +73,8 @@ Pacemaker cells are responsible for automaticity and rhythmicity of the heart. T
     There is continual PNS input ("Vagal tone") via inhibitory ACh GPCR, reducing the SA node from its intrinsic rate of 90-120bpm to a more sedate 60-100bpm.
     * AV node by left vagus
     * Atria is innervated by parasympathetic neurons, whilst the ventricle is only minimally innervated  
-    Therefore **PNS stimulation has little effect on inotropy, but does affect chronotropy*.
+    PNS stimulation therefore has little effect on inotropy, but does affect chronotropy.
+      * PNS stimulation may have no direct effect on inotropy, instead acting indirectly via changes in chronotropy
 
 
 * **Sympathetic Innervation**  
@@ -95,3 +96,4 @@ The transplanted heart has no vagal/parasympathetic innervation but still expres
 ##References
 Power and Kam
 Chambers
+3. Matsuura W, Sugimachi M, Kawada T, Sato T, Shishido T, Miyano H, Nakahara T, Ikeda Y, Alexander J Jr, Sunagawa K. [Vagal stimulation decreases left ventricular contractility mainly through negative chronotropic effect](http://ajpheart.physiology.org/content/273/2/H534.long). Am J Physiol. 1997 Aug;273.

@@ -11,13 +11,10 @@ Arachidonic acid is converted into:
 * Cyclic endoperoxidases by COX enzymes  
 These undergo further metabolism to produce:
     * Thromboxanes  
-    Notably:
       * Thromboxane A<sub>2</sub>
     * Prostacyclins  
-    Notably:
       * PGI<sub>2</sub>
     * Prostaglandins  
-    Notably:
       * PGE<sub>2</sub>
         * EP<sub>1</sub>
         * EP<sub>2</sub>
