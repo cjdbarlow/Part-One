@@ -1,34 +1,11 @@
 #COX Inhibitors
 
-Cyclo-oxygenase inhibitors are typically **used** to treat **mild to moderate pain**. Oral COX inhibitors typically have **rapid absorption**, are **highly-protein bound**, and have a **low Vd**.
+Cyclo-oxygenase inhibitors are typically **used** to treat **mild to moderate pain**. Oral COX inhibitors typically have:
+* **Rapid absorption**
+* **High protein binding**
+* **Low V<sub>D</sub>**
 
 ##Common Features
-###Mechanism of Action
-PATHWAY OF ARACHIDONIC ACID VIA COX AND LOX
-
-Arachidonic acid is converted into:
-* Leukotrienes by LOX
-* Cyclic endoperoxidases by COX enzymes  
-These undergo further metabolism to produce:
-  * **Thromboxane A<sub>2</sub>**  
-  Produced by platelets when exposed to collagen, adrenaline, or adenosine. It promotes haemostasis through:
-    * Vasoconstriction
-    * Platelet aggregation
-  * **PGI<sub>2</sub>**
-    * Vasodilation
-    * Platelet inhibition
-    * Bronchodilation
-  * **Prostaglandins**  
-  These include:  
-    * **PGE<sub>2</sub>**
-      * Afferent arteriolar dilation
-      * Bronchodilation
-      * Gastric mucous production
-      * Inhibition of platelet aggregation
-    * **PGF<sub>2α</sub>**
-      * Bronchoconstriction
-      * Pulmonary vasoconstriction
-      * Uterine contraction
 
 There are two(ish) **isoenzymes** of COX:
 * **COX-1**  
@@ -40,7 +17,6 @@ Important for homeostatic function.
 * **COX-3**  
 Variant of COX-1 which exists centrally and mediates the analgesic and antipyretic effects of paracetamol.
  
-###Effects 
 Effects occur due to:
 * Decrease in endoperoxidases  
 Inhibited by COX.
