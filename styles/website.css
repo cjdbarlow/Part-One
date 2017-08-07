@@ -32,3 +32,7 @@ path.bgline {
     stroke: white;
     stroke-width: 6px;
 }
+
+table {
+    overflow-x: scroll;
+}
