@@ -5,7 +5,7 @@ Cyclo-oxygenase inhibitors are typically **used** to treat **mild to moderate pa
 * **High protein binding**
 * **Low V<sub>D</sub>**
 
-##Common Features
+##Mechanism of Action
 
 There are two(ish) **isoenzymes** of COX:
 * **COX-1**  

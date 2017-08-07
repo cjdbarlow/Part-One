@@ -1,2 +1,48 @@
-#Prostaglandins
+#Prostanoids
 
+Prostanoids are a diverse family of eicosanoids (20-carbon molecules), produced from arachadonic acid, and include:
+* Thromboxane
+* Prostacyclin
+* Prostaglandins
+
+##Synthesis
+Arachidonic acid is converted into:
+* Leukotrienes by LOX
+* Cyclic endoperoxidases by COX enzymes  
+These undergo further metabolism to produce:
+    * Thromboxanes  
+    Notably:
+      * Thromboxane A<sub>2</sub>
+    * Prostacyclins  
+    Notably:
+      * PGI<sub>2</sub>
+    * Prostaglandins  
+    Notably:
+      * PGE<sub>2</sub>
+        * EP<sub>1</sub>
+        * EP<sub>2</sub>
+        * EP<sub>3</sub>
+      * PGF<sub>2α</sub>
+      * PGD<sub>2</sub>
+
+GRAPH OF PROSTAGLANDIN SYNTHESIS
+
+
+
+
+##Effects
+
+
+|Receptor|Receptor|Respiratory|Vascular|GIT|GU|Other|
+|--|
+|**Thromboxane A<sub>2</sub>**|Gq||Vasoconstriction|||Platelet aggregation|
+|**PGI<sub>2</sub>**|Gs|Bronchodilation|Vasodilation (renal and pulmonary)||||
+|**PGE<sub>2</sub> EP<sub>1</sub>**|Gq|Bronchoconstriction||Increased contraction|Renal vasodilation||
+|**PGE<sub>2</sub> EP<sub>2</sub>**|Gs|Bronchodilation|Closure of ductus arteriosus|Decreased contraction|Renal vasodilation||
+|**PGE<sub>2</sub> EP<sub>3</sub>**|Gi|||Gastric mucous production, GIT contraction|Uterine contraction||
+|**PGF<sub>2α</sub>**|Gq|Bronchoconstriction|Vasoconstriction||Uterine contraction||
+|**PGD<sub>2</sub>**|||||Renal vasodilation|Promotes sleep|
+
+
+---
+##References
