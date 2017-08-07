@@ -1,4 +1,4 @@
-# Local Anaesthetics
+# Local Anaesthetic Agents
 
 * Local anaesthetic drugs deliver a use-dependent, temporary blockade of neuronal transmission
 * **Unionised** drug **passes through the cell membrane**, and then becomes **ionised intracellularly**
