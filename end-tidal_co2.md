@@ -9,30 +9,59 @@ Several mechanisms for E<sub>T</sub>CO<sub>2</sub> measurement exist:
 * Gas Chromatography
 
 ##Infrared Spectroscopy
+Infrared spectroscopy relies on the fact that:
+* Gases with two or more different atoms will **absorb infrared radiation**
+* **Different gases absorbing different wavelengths** to different degrees
+* Measuring the absorbed wavelengths and comparing with the **likely composition** of a mixture, a system can be designed using a specific wavelength to measure gas concentrations and avoid interference
+
+
 End-tidal gas analysis using infrared light is used in the measurement of:
 * CO<sub>2</sub>  
-Capnography is the continuous measurement and graphical display of the partial pressure of CO<sub>2</sub> in expired gas.
+Capnography is the continuous measurement and graphical display of the partial pressure of CO<sub>2</sub> in expired gas. This is the most common method to measure E<sub>T</sub>CO<sub>2</sub>. 
 * Anaesthetic agents
 
-This is the most common method to measure E<sub>T</sub>CO<sub>2</sub>. Gases with two or more different atoms will **absorb infrared radiation**, with **different gases absorbing different wavelengths** to different degrees.
+##Measurment of CO<sub>2</sub>
+Components:
+* Sapphire sampling chamber containing gas sample  
+    * CO<sub>2</sub> absorbs infrared radiation at a peak wavelength of 4.28μm
+    * The sapphire lens only allows 4.28μm light through
+* Emitter
+* Detector
+* Microprocessor
+* Display
 
-By **combining this knowledge** about absorbed wavelengths with the **likely composition** of a mixture, a system can be designed using a specific wavelength to measure gas concentrations and avoid interference.
 
-CO<sub>2</sub> absorbs infrared radiation at a peak wavelength of 4.28μm. A sapphire sampling chamber contains the gas sample, on either side of which exists an emitter and a detector. The chamber only allows infrared radiation of one particular wavelength through. Levels of radiation are measured on the other side of the chamber (using a lens to focus it, and a detector to measure it), and correspond to the amount of gas present in the sample. The less radiation that reaches the detector, the more gas there is in the sample absorbing it.
+Method:
+* Levels of radiation are measured on the other side of the chamber (using a lens to focus it, and a detector to measure it), and correspond to the amount of gas present in the sample
+* The less radiation that reaches the detector, the more gas there is in the sample absorbing it
+
 
 ###Equipment Errors
-* Variable amount of infrared radiation released
-* Variable sensitivity of the detector
-* Variable efficacy of the crystal window and lens system
+* Specific to technique
+    * The **collision broadening effect**  
+    Intermolecular forces vary depending on their proximity to other molecules in the gas mixture. A change in intermolecular forces may alter their bond-energy and the frequencies at which they absorb radiation. It can be overcome by correcting for the presence of other gases, or manually adjusting the obtained values.
+    * Crossover with other gas mixtures  
+    CO<sub>2</sub> and N<sub>2</sub>O have similar absorbance spectra, and may lead to error when a device is not designed to measure both wavelenghts.
 
-These can be overcome by use of **double-beam capnometer**. These use a reference chamber which contains CO<sub>2</sub>-free air, and the same emitter-detector system. All absorption from this system must occur due to artifact (as no gas is present). The artifactual component is then subtracted from the value detected in the main chamber.
 
-The **collision broadening effect** also may affect measurements. Intermolecular forces vary depending on their proximity to other molecules in the gas mixture. A change in intermolecular forces may alter their bond-energy and the frequencies at which they absorb radiation. It can be overcome by correcting for the presence of other gases, or manually adjusting the obtained values.
+* Failure of equipment  
+These can be overcome by use of **double-beam capnometer**. This uses a reference chamber which contains CO<sub>2</sub>-free air, and the same emitter-detector system. All absorption from this system must occur due to artifact (as no gas is present). The artifactual component is then subtracted from the value detected in the main chamber.
+    * Variable amount of infrared radiation released
+    * Variable sensitivity of the detector
+    * Variable efficacy of the crystal window and lens system
 
-###In Practice
+
+* Relating to type of capnometer used  
 E<sub>T</sub>CO<sub>2</sub> may be either **side-stream** or **in-line**.
-* Side-stream CO<sub>2</sub> involves a length of narrow tubing drawing gas from the expiratory limb of the breathing circuit (typically from the HME filter) to the capnograph. These require a flow of 150 ml.min<sup>-1</sup>, and have an insignificant delay (<1s) in measurement. They require use of a water trap to remove condensation, though may still become blocked with water.
-* In-line systems have a sampling chamber attached in-line with the ETT, which slightly increases the dead-space of the circuit. They also require heating to 41°C to avoid condensation.
+    * Side-stream CO<sub>2</sub> involves a length of narrow tubing drawing gas from the expiratory limb of the breathing circuit (typically from the HME filter) to the capnograph
+        * Side-stream requires a flow of 150 ml.min<sup>-1</sup>  
+        * They have a (pretty insignificant) delay (<1s) in measurement
+        * They may be blocked with water vapour, and require use of a water trap to remove condensation
+    * In-line systems have a sampling chamber attached in-line with the ETT
+        * The sampling chamber slightly increases the dead-space of the circuit  
+        May be relevant in children or very difficult to ventilate patients.
+        * Adds weight to patient end of the breathing circuit
+        * Require heating to 41°C to avoid condensation
 
 
 ###E<sub>T</sub>CO<sub>2</sub> Waveform and Variations
