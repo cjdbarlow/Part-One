@@ -159,7 +159,7 @@
   * [Adrenal Hormones](adrenal-hormones.md)
   * [Calcium Homeostasis](calcium_homeostasis.md)
   * [Histamine](histamine.md)
-  * [Prostaglandins](prostaglandins.md)
+  * [Prostanoids](prostaglandins.md)
 * [Musculoskeletal System](skeletal_muscle.md#id)
   * [Skeletal Muscle Structure](skeletal_muscle.md)
   * [Skeletal Muscle Innervation](skeletal_muscle_innervation.md)
