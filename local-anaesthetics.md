@@ -75,7 +75,7 @@ Duration of action is a function of:
       * Potency therefore has a positive correlation with duration of action
       * Duration of action is increased when pH increases, as the ionised portion falls.  
     * Protein binding  
-    Highly protein bound agents have an increased duration of action.
+    Highly protein bound agents have an increased duration of action due to increased tissue binding.
       * Protein binding decreases with decreasing pH, increasing the fraction of unbound drug  
       This is why agents such as bupivacaine are more cardiotoxic in acidotic patients.
       * Local anaesthetics are predominantly bound to α-1-acid glycoprotein (AAG)  
