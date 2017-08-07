@@ -20,7 +20,7 @@ End-tidal gas analysis using infrared light is used in the measurement of:
 Capnography is the continuous measurement and graphical display of the partial pressure of CO<sub>2</sub> in expired gas. This is the most common method to measure E<sub>T</sub>CO<sub>2</sub>. 
 * Anaesthetic agents
 
-##Measurment of CO<sub>2</sub>
+##Measurement of CO<sub>2</sub>
 Components:
 * Sapphire sampling chamber containing gas sample  
     * CO<sub>2</sub> absorbs infrared radiation at a peak wavelength of 4.28μm
