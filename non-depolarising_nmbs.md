@@ -37,12 +37,13 @@ Typically, induction doses used are 2-5x the ED<sub>95</sub>.
 |**Elimination**|60% biliary, 40% urinary. Prolonged duration in hepatic and renal failure|70% biliary, 30% urinary|80% biliary, 20% urinary|||
 |**Resp**||||Slight risk of bronchospasm with rapid injection|Slight risk of bronchospasm with rapid injection|
 |**CVS**|↑HR at high doses|**No** ↑HR|↑ HR and MAP due to muscarinic antagonism|Slight risk of ↓BP with rapid injection|Slight risk of ↓BP with rapid injection|
-|**Immune**|Higher risk of anaphylaxis, probably comparable with suxamethonium|||||
-|**Other**|Reversible with **sugammadex**||||||
+|**Immune**|Higher risk of anaphylaxis, probably comparable with suxamethonium. Anaphylaxis risk associated with use of pholcodeine in the previous 3 years.|||||
+|**Other**|Reversible with **sugammadex**|Reversible with **sugammadex**|||||
 
 ---
 ##References
 
-Peck and Hill
-Petkov
-Durations from UTD
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+3. Crilly H, Rose M. [Anaphylaxis and anaesthesia – can treating a cough kill?](https://www.nps.org.au/australian-prescriber/articles/anaphylaxis-and-anaesthesia-can-treating-a-cough-kill). Aust Prescr. 2014;37:74-6.
+4. Durations from UTD

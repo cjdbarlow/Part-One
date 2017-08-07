@@ -65,7 +65,7 @@ The trunk is subdivided into four parts:
     * Releases ACh to stimulate the post-ganglionic fibre.
   * **Long post-ganglionic fibre**  
   Cell body is located in the sympathetic ganglion, and stimulates the effect site.
-    * Has a nicotinic ACh receptor
+    * Has a **nicotinic** ACh receptor
     * Releases NA at the effect site
     * Sensitivity (for ACh) and activity (for NA release) is modulated by a number of other substances:
       * Enkephalin
@@ -113,9 +113,9 @@ Arises from S2-S4, and innervates the bladder, uterus, and gut distal to the spl
 The parasympathetic nervous system ganglia site close to the target organ. This means that the:
 * Pre-ganglionic fibre is long  
   * Preganglionic cell body sits within the brainstem (cranial nerves) or sacral grey matter (hypogastric plexus)
-  * Releases ACh to stimulate the post-ganglionic neurone
+  * Releases ACh to stimulate the post-ganglionic neurone at a **nicotinic ACh** receptor
 * Post-ganglionic fibre is short
-  * Releases ACh to stimulate the target organ
+  * Releases ACh to stimulate the target organ at a **muscarinic ACh** receptor
 
 ###Effect
 
@@ -126,6 +126,31 @@ The parasympathetic nervous system ganglia site close to the target organ. This 
 |**Heart**|CN X|↓ HR, ↓ inotropy, ↓ conduction velocity
 |**GIT**|CN VII (submaxillary and mandibular salivary glands), CNIX (parotid gland), CNX (stomach to proximal two-thirds of the transverse colon), hypogastric plexus (distal one-third of the transverse colon to rectum)|Salivation, decreased sphincter tone, increased motility
 |**GU**|Hypogastric plexus|Detrusor contraction, erection
+
+##Ganglion Blockade
+Blockade of the ganglion (at the nicotinic ACh receptor) blocks transmission and reduces sympathetic and parasympathetic impulse transmission. Clinical effect of ganglion blockade depends on which part of the ANS is dominant in that organ system:
+* SNS dominant organ systems  
+Effective sympatholysis:
+  * Vasculature  
+  Vasodilation, hypotension.
+  * Sweat glands  
+  Anhydrosis.
+* PNS dominant organ systems  
+Effective parasympatholysis:
+  * Heart  
+  Tachycardia.
+  * Iris  
+  Mydriasis.
+  * GIT  
+  Decreased ton.
+  * Bladder  
+  Urinary retention.
+  * Salivary  
+  Reduced secretions.
+
+
+
+
 
 ##Enteric Plexus
 The **enteric plexus** is a system of autonomic nerves in the GIT which is free of CNS control. It consists of sensory and integrative neurons as well as excitatory and inhibitory motor neurons which generate coordinated muscular activity.
