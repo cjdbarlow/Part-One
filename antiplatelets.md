@@ -1,11 +1,11 @@
 # Antiplatelets
 
-*Note aspirin is included under COX inhibitors*
+*Note aspirin is included under [COX inhibitors](cox_inhibitors.md)*.
 
 ##Classification of Antiplatelet Agents
-Antiplatelet agents can be classified into those which affect different stages of platelet function:
+Antiplatelet agents can be classified by which stage of platelet function they affect:
 * Adhesion
-    * vWF inhibitors
+    * vWF inhibitors  
     e.g. Dextran 70.
 * Activation
     * Prostacyclins  
@@ -30,14 +30,14 @@ Antiplatelet agents can be classified into those which affect different stages o
 |**Dosing**|300mg load, 75mg daily thereafter|200mg BD for CVA|Load 25 mcg.kg<sup>-1</sup>, maintenance 15mcg.kg<sup>-1</sup>
 |**Absorption**|Rapid absorption and onset within 2 hours|Variable depending on oral intake|IV only. Onset within 10 minutes
 |**Distribution**|Highly protein-bound drug and metabolites|Highly protein bound|65% protein bound
-|**Metabolism**|**Prodrug**. Majority hydrolysed by esterases to inactive drug, with a small proportion hepatically metabolised by **CYP450** to active form|Partial hepatic to inactive metabolites|No metabolism
+|**Metabolism**|**Prodrug**. Majority hydrolysed by esterases to inactive drug, with a small proportion hepatically metabolised by **CYP450** to active form. Prolonged duration of action due to irreversible ADP blockade rather than long elimination half-life.|Partial hepatic to inactive metabolites|Not metabolised.
 |**Elimination**|Urinary and faecal|Renal and faecal|Urinary as unchanged drug. Platelet aggregation returns to baseline within 4-8 hours
 |**CVS**||Vasodilatation may drop CPP in AS and recent MI|Coronary artery dissection
 |**GIT**|Mucosal irritation|||
 |**Haeme**|Haemorrhage|Thrombocytopaenia and haemorrhage|Haemorrhage
-|**Other**|Many pharmacokinetic interactions, including genetic variability and drug interactions with omeprazole||||
+|**Other**|Many pharmacokinetic interactions, including genetic variability. Previously thought to kinetically interact with omeprazole - more recently disproven.||||
 
 ---
 ##References
-Peck and Hill
-UpToDate
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.
