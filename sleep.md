@@ -33,9 +33,10 @@ Deep sleep, characterised by depression of HR, SVR, BP, RR, and metabolic rate (
 Periods of REM sleep alternate with non-REM sleep during the night, with an average of 4-5 cycles of REM slep per night.
 
 ##Respiratory Effects
-GABAergic neurons depress the respiratory centre, causing:
+GABAergic neurons depress the respiratory centre, leading to respiratory depression:
 * Decreased MV
-    * Decreased V<sub>T</sub>
+    * Decreased V<sub>T</sub>  
+    Greatest decrease occurs during REM sleep, where it falls by ~25%.
     * Unchanged RR
 * Increased PaCO<sub>2</sub>
 * Decreased PO<sub>2</sub>  
