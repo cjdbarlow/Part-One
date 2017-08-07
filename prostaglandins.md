@@ -46,3 +46,4 @@ GRAPH OF PROSTAGLANDIN SYNTHESIS
 
 ---
 ##References
+1. Ricciotti E, FitzGerald GA. [Prostaglandins and Inflammation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3081099/). Arteriosclerosis, thrombosis, and vascular biology. 2011;31(5):986-1000. doi:10.1161/ATVBAHA.110.207449.
