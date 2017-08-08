@@ -25,8 +25,8 @@ Potentiates the effect of GABA, prolonging Cl<sup-</sup> channel opening and hyp
 |**MSK**|Pain on injection into small veins|
 |**Renal**|Green urine|
 |**GIT**|Anti-emetic. ↓ Hepatic Blood Flow|
-|**Metabolic**|Fat overload syndrome, lipaemia following prolonged infusion|
-|**Toxic Effects**|Propofol infusion syndrome: Acidosis, bradycardia, and MODS following prolonged infusion (>24 hours), particularly with high doses (>4mg.kg<sup>-1</sup>.hr<sup>-1</sup>), and in children.|
+|**Metabolic**|Fat overload syndrome, lipaemia following prolonged infusion. Inhibits mitochondrial function.|
+|**Toxic Effects**|Propofol infusion syndrome: Acidosis, bradycardia, and MODS following prolonged infusion (>24 hours), particularly with high doses (>4mg.kg<sup>-1</sup>.hr<sup>-1</sup>), in children, and potentially in the presence of mitochondrial defects. Believed due to inhibition of mitochondrial function.|
 
 
 ---
@@ -34,3 +34,4 @@ Potentiates the effect of GABA, prolonging Cl<sup-</sup> channel opening and hyp
 Peck and Hill
 CICM July/Sept 2007
 http://ceaccp.oxfordjournals.org/content/4/3/76.full.pdf
+http://www2.pedsanesthesia.org/meetings/2007winter/pdfs/Morgan-Friday1130-1150am.pdf
