@@ -5,7 +5,9 @@
 CVS effects of ageing can be divided into cardiac, vascular, and autonomic changes:
 * Cardiac changes
     * Decreased receptor density and number
-    * Decreased maximum heart rate
+    * Decreased maximum heart rate  
+    Due to fibrosis of the SA node.
+        * Maxmimum heart rate ≈ 220 - Age
     * Decreased EF
     * Decreased diastolic compliance
 * Vascular changes
