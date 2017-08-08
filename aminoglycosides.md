@@ -31,6 +31,6 @@ Typically peak concentration must be 8-10x MIC.
 ---
 ##References
 1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014. 
-2. Stubbings W, Bostock J, Ingham E, Chopra I. [Mechanisms of the post-antibiotic 
-effects induced by rifampicin and gentamicin in Escherichia coli](https://www.ncbi.nlm.nih.gov/pubmed/16735423) . J Antimicrob
+2. Stubbings W, Bostock J, Ingham E, Chopra I [Mechanisms of the post-antibiotic 
+effects induced by rifampicin and gentamicin in Escherichia coli](https://www.ncbi.nlm.nih.gov/pubmed/16735423). J Antimicrob
 Chemother. 2006 Aug;58(2):444-8.
