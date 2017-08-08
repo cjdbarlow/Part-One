@@ -1,4 +1,4 @@
-#Acid Suppression
+#Acid Suppression {#id}
 
 |Property|Non-Particulate Antacids|Particulate Antacids|Proton Pump Inhibitors|H<sub>2</sub> receptor antagonists|
 |---|---|
