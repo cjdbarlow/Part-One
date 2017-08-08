@@ -1,16 +1,25 @@
 #Internal Jugular Vein
 > Describe the anatomy relevant to central venous access (including ~~femoral,~~ internal jugular, ~~external jugular, subclavian and peripheral~~ veins)
 
-The internal jugular vein begins at the **jugular bulb**, a dilatation formed by the confluence of the inferior petrosal sinus and the sigmoid sinus.
-
-The internal jugular vein exits the skull via the **jugular foramen**, and descends laterally to the internal carotid (and later the common carotid) in the **carotid sheath**.
-
-It **joins** with the **subclavian vein** to form the **brachiocephalic vein**.
+The internal jugular vein:
+* Originates at the **jugular bulb**  
+This is a dilatation formed by the confluence of the inferior petrosal sinus and the sigmoid sinus.
+* Exits the skull via the **jugular foramen**
+* Descends laterally to the internal carotid (and later the common carotid) in the **carotid sheath**
+* Teminates behind the sternal end of the clavicle, where it joins with the **subclavian vein** to form the **brachiocephalic vein**
 
 ##Borders
 * Anteriorly by SCM
 * Posteriorly by the lateral mass of C1, scalene muscles, and lung pleura
 * Medially by the internal carotid
+
+##Relationships
+* Vagus nerve lies behind/between the carotid and IJV
+* Cervical sympathetic plexus lies posterior to the carotid sheath
+* Deep cervical lymph nodes lie close to the vein
+* External jugular crosses the sternomastoid belly of SCM, running posteriorly and more superficial to the IJV, later perforating deep fascia to drain into the subclavian vein
+* Pleura rises above the clavicle, and is close to the vein at its termination
+
 
 ##Surface Anatomy
 Identify the triangle formed by the two heads of SCM and the clavicle. Palpate the artery, and ensure the site of entry is **lateral** to the carotid. Aim:
@@ -18,8 +27,26 @@ Identify the triangle formed by the two heads of SCM and the clavicle. Palpate t
 * Parallel to the sagittal plane
 * Towards the ipsilateral nipple
 
+
+##Ultrasound Anatomy
+Identify the vein deep to SCM, noting that it is (unlike the adjacent ICA):
+* Non-pulsatile  
+* Thin walled
+* Compressible  
+
+
+##Approaches
+* Anterior  
+At the medial border of SCM, 3-4cm above the clavicle. Requires retraction of the carotid medially.
+* Central approach  
+At the apex of the triangle formed by each muscle belly of SCM and the clavicle.
+* Posterior approach  
+At the posterior edge of SCM, just superior to where the EJV crosses the sternomastoid.
+
+
 ---
 ##References
-Lasts
-http://radiopaedia.org/articles/internal-jugular-vein
-http://www.frca.co.uk/article.aspx?articleid=100030
+1. Lasts
+2. http://radiopaedia.org/articles/internal-jugular-vein
+3. http://www.frca.co.uk/article.aspx?articleid=100030
+4. [Internal jugular vein catheterisation: Posterior and Central Approach](http://www.thecardiacicu.com/for_experts/jugular_intro_eng.html)
