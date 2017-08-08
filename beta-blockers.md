@@ -57,7 +57,7 @@
 |**Uses**|Short-term treatment of tachyarrythmia and HTN|MI, HTN, migraine, thyrotoxicosis|HTN, angina, tachyarrhythmias, acute MI|HTN, Angina, dysrrythmia, essential tremor, anxiety HOCM, phaeochromocytoma, migraine, oesophageal varicies|HTN, MI|
 |**Presentation**|Clear, colourless solution|Clear, colourless solution, 50mg Tablet.|25/50/100mg tablets, syrup, colourless solution.|Tablets and solution at 1mg.ml<sup>-1</sup>|Tablets and solution at 5mg.ml<sup>-1</sup>
 |**Route of Administration**|IV|PO/IV|PO/IV|PO/IV|PO/IV|
-|**Dosing**|50-200μg.kg<sup>-1</sup>.min<sup>-1</sup>|IV: 1mg boluses PO: 12.5-100mg BD|PO: 50-100mg daily IV: 2.5mg IV up to 10mg|PO: 10-100mg BD/TDS IV: 1mg boluses titrated to response|PO: 100-800mg BD|
+|**Dosing**|50-200μg.kg<sup>-1</sup>.min<sup>-1</sup>|IV: 1mg boluses PO: 12.5-100mg BD|PO: 50-100mg daily IV: 2.5mg IV up to 10mg|PO: 10-100mg BD/TDS IV: 1mg boluses titrated to response|PO: 100-800mg BD<br> IV: 10-20mg IV bolus, followed by 20-80mg Q30min up to 300mg. Alternatively by infusion at 1-2mg.min<sup>-1</sup>|
 |**Absorption**|IV only|50% bioavailability, improves with regular use|45% PO bioavailability|30% bioavailability|Highly variable bioavailability: 10-80%|
 |**Distribution**|60% protein bound|20% protein bound. Lipid soluble|5% protein bound|95% protein bound|50% protein bound|
 |**Metabolism**|RBC esterases to an inactive metabolite and methyl alcohol. t<sub>1/2</sub> of 10 minutes|Hepatic with genetic variability in t<sub>1/2</sub> of active metabolites|Minimal metabolism - dose reduce in renal failure|Hepatic to active and inactive metabolites|Hepatic to inactive metabolites|
