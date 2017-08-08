@@ -5,6 +5,7 @@ Bactericidal antimicrobials that prevent protein synthesis by irreversible bindi
 * As they are large, polar molecules, they must be actively transported into the cell by an oxygen dependent transporter
     * Therefore they are **not effective against anaerobes**
 * Transport is inhibited by increased Ca<sup>2+</sup>, Mg<sup>2+</sup>, low pH, and low O<sub>2</sub>
+* Aminoglycoside killing is dependent on the peak concentration over MIC
 <br><br>
 
 |Property|Gentamicin
