@@ -5,8 +5,15 @@ Bactericidal antimicrobials that prevent protein synthesis by irreversible bindi
 * As they are large, polar molecules, they must be actively transported into the cell by an oxygen dependent transporter
     * Therefore they are **not effective against anaerobes**
 * Transport is inhibited by increased Ca<sup>2+</sup>, Mg<sup>2+</sup>, low pH, and low O<sub>2</sub>
-* Aminoglycoside killing is dependent on the peak concentration over MIC
-<br><br>
+* Aminoglycoside killing is dependent on the peak concentration over MIC  
+Typically peak concentration must be 8-10x MIC.
+    * Exposure to aminoglycosides causes bacteria to down-regulate aminoglycoside uptake, and therefore increases MIC  
+    This effect disappears after ~24 hours, and is one justification for daily dosing of aminoglycosides. Additional justifications include:
+        * Allows larger single doses to be used, increasing bactericidal effect
+        * Aminoglycosides exhibit a post-antibiotic effect  
+        Ongoing bactericidal activity even after concentration falls.
+
+
 
 |Property|Gentamicin
 |--|--|
