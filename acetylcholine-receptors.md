@@ -44,7 +44,8 @@ There are two types of ACh receptor:
         * One δ
     * Located in:
         * Post-synaptic NMJ
-        * Preganglionic autonomic nervous system
+        * Preganglionic autonomic nervous system  
+        Antagonism causes **ganglion blockade**.
         * Brain
     * Known as nicotinic because nicotine agonises this receptor
     * Activation:
@@ -58,13 +59,13 @@ There are two types of ACh receptor:
     G-protein copuled.
     * Known as muscarinic because muscarine also agonises this receptor
     * Subdivided into:
-        * M<sub>1</sub>  
-        Secretory glands and CNS
-        * M<sub>2</sub>  
+        * M<sub>1</sub> (Gq)  
+        Secretory glands and CNS.
+        * M<sub>2</sub> (Gi)  
         Heart.
-        * M<sub>3</sub>  
+        * M<sub>3</sub> Gq  
         Bronchial and arteriolar smooth muscle.
-        * M<sub>4</sub> and M<sub>5</sub>  
+        * M<sub>4</sub> (Gi) and M<sub>5</sub> (Gq)  
         CNS.
 
 
