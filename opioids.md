@@ -36,9 +36,9 @@
 |**Route of Administration**|PO/IV|Topical
 |**pKa**|8.5, < 10% is unionised at physiologic pH.||
 |**Absorption**|PO bioavailability 60-80%|Significant 1st pass metabolism|
-|**Distribution**|As lipid soluble as morphine, 45% protein bound, V<sub>D</sub> 3L.kg<sup>-1</sup>|
+|**Distribution**|As lipid soluble as morphine, 45% protein bound, V<sub>D</sub> 3L.kg<sup>-1</sup>. More rapid onset than morphine despite higher pKa potentially due to active CNS uptake|
 |**Clearance** (ml.kg<sup>-1</sup>.min<sup>-1</sup>)|13||
-|**Metabolism**|Hepatic demethylation to noroxycodone and oxymorphone via CYP2D6. t<sub>1/2</sub>β 200 minutes.| Hepatic to active norbuprenorphine|
+|**Metabolism**|Hepatic demethylation to noroxycodone (80%, via CYP3A) and the more potent and active oxymorphone (20%, via CYP2D6). t<sub>1/2</sub>β 200 minutes.| Hepatic to active norbuprenorphine|
 |**Elimination**|Renal elimination of active drug and metabolites|70% biliary, 30% renal elimination, t<sub>1/2</sub>β 40 hours|
 |**Time to Peak Effect (IV)**|5 minutes||
 |**Duration (IV)**|4 hours||
@@ -68,3 +68,4 @@ Smith Scarth Sasada
 Petkov
 ANZCA opioid calculator
 ANZCA July/September 2010
+ANCA Pain book
