@@ -62,7 +62,7 @@
 |**Distribution**|60% protein bound|20% protein bound. Lipid soluble|5% protein bound|95% protein bound|50% protein bound|
 |**Metabolism**|RBC esterases to an inactive metabolite and methyl alcohol. t<sub>1/2</sub> of 10 minutes|Hepatic with genetic variability in t<sub>1/2</sub> of active metabolites|Minimal metabolism - dose reduce in renal failure|Hepatic to active and inactive metabolites|Hepatic to inactive metabolites|
 |**Elimination**|||Renal elimination of active drug|Renal elimination of metabolites|Renal elimination of inactive metabolites|
-|**CVS**|Venous irritant|||||↓ SVR, ↓ HR, ↓ CO, ↓ BP (typically ~20%)|
+|**CVS**|Venous irritant||||↓ SVR, ↓ HR, ↓ CO, ↓ BP (typically ~20%)|
 
 ---
 ##References
