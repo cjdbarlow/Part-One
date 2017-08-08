@@ -4,6 +4,19 @@
 Additives are components of a drug preparation which do not exert the pharmacological effect.
 
 Additives include:
+* **Preservatives**
+    * Benzyl alcohol
+        * Antimicrobial when > 2%
+        * Can be used as a solvent when > 5%
+        * Toxic
+
+
+* **Antioxidants**  
+    * Sulfites
+        * Hypersensitivity
+        * Neurotoxic if given intrathecally
+
+
 * **Solvents**
     * Water  
     Appropriate for dissolving polar molecules.
@@ -36,15 +49,7 @@ Maintain pH in a particular range in order to:
     Preserve shelf life.
     * Maintain solubility
     * Maximise preservative function
-* Antioxidants  
-    * Sulfites
-        * Hypersensitivity
-        * Neurotoxic if given intrathecally
-* Preservatives
-    * Benzyl alcohol
-        * Antimicrobial when > 2%
-        * Can be used as a solvent when > 5%
-        * Toxic
+
 
 
 ---
