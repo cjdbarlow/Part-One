@@ -16,7 +16,9 @@ CVS effects of ageing can be divided into cardiac, vascular, and autonomic chang
     * Reduced endothelial cell function (decreased NO)
 * Autonomic
     * Impaired autonomic function
+    * Impaired baroreceptor response
 
 
 ---
 ##References
+1. ANZCA February/April 2016
