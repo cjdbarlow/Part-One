@@ -318,7 +318,7 @@
 * [Obstetric](oxytocics.md#id)
   * [Oxytocics](oxytocics.md)
   * [Tocolytics](tocolytics.md)
-* Gastrointestinal
+* [Gastrointestinal](acid-suppression.md#id)
   * [Acid Suppression](acid-suppression.md)
   * [Antiemetics](antiemetics.md)
 
