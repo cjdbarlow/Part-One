@@ -95,8 +95,9 @@ Cylinder manifolds are formed of sets of large gas cylinders used in parallel.
 ###Vacuum Insulated Evaporator
 The VIE:
 * Stores **liquid oxygen**  
-It is **vacuum insulated** as it must keep oxygen below its critical temperature (-119°C). The VIE typically stores oxygen between -160°C and -180°C.
-    * The amount of oxygen remaining can therefore be calculated from its mass
+It is **vacuum insulated** as it must keep oxygen below its critical temperature (-119°C). The VIE typically stores oxygen between -160°C and -180°C, and at 700kPa.
+    * The gas is stored below its critical temperature and above its boiling point
+    * The amount of oxygen remaining is calculated from its mass
 * Does not require active cooling  
 Instead it is cooled by:
     * Insulation
@@ -141,9 +142,8 @@ Used when connecting pipeline gases.
     * Probe diameter is gas-specific, preventing the wrong gas from being connected
 
 
-
-
 ---
 ##References
-Aston
-http://www.essentialchemicalindustry.org/chemicals/oxygen.html
+1. Aston D, Rivers A, Dharmadasa A. Equipment in Anaesthesia and Intensive Care: A complete guide for the FRCA. Scion Publishing Ltd. 2014.
+2. ANZCA August/September 2016
+3. [The Essential Chemical Industry Online - Oxygen, Nitrogen, and the rare gases](http://www.essentialchemicalindustry.org/chemicals/oxygen.html)
