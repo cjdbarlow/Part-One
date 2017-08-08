@@ -33,14 +33,16 @@ Additives include:
         * Soybeal oil
             * Pain on injection
             * Allergy
-        * **Emulsion**  
-        Formed when drops of a liquid are dispersed throughout another liquid in which it is immiscible. Emulsions are:
-            * Unstable  
-            Emulsifers are used to enhance stability.
-            * Prone to contamination  
-            Due to the water component.
-            * Prone to rancidity  
-            Due to the oil component.
+
+
+* **Emulsion**  
+Formed when drops of a liquid are dispersed throughout another liquid in which it is immiscible. Emulsions are:
+    * Unstable  
+    Emulsifers are used to enhance stability.
+    * Prone to contamination  
+    Due to the water component.
+    * Prone to rancidity  
+    Due to the oil component.
 
 
 * **Buffers**  
