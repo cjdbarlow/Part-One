@@ -113,6 +113,7 @@
   * [Circulatory Control](baroreceptors.md#id)
     * [Baroreceptors](baroreceptors.md)
     * [Valsalva Manoeuvre](valsalva_manoeuvre.md)
+    * [CVS Effects of Ageing](cvs-ageing.md)
   * [Cardiovascular Pharmacology](inotropes.md#id)
     * [Inotropes](inotropes.md)
     * [Adrenoreceptors](adrenoreceptors.md)
