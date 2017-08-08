@@ -123,7 +123,7 @@ The parasympathetic nervous system ganglia site close to the target organ. This 
 |--|--|--|
 |**CNS**|CN III via the Edinger-Westphal nucleus, CN VII|Pupillary constriction (CN III), lacrimation (CN VII)
 |**Lungs**|CN X|Bronchoconstriction, increased mucous production
-|**Heart**|CN X|↓↓↓ Chronotropy, ↓↓↓ dromotropy, ↓ inotropy, ↓ luisotropy
+|**Heart**|CN X|↓↓↓ Chronotropy, ↓↓↓ dromotropy, ↓ inotropy, ↓ luisotropy (↓ in atrial inotropy and luisotropy is greater in the atria than the ventricles)
 |**GIT**|CN VII (submaxillary and mandibular salivary glands), CNIX (parotid gland), CNX (stomach to proximal two-thirds of the transverse colon), hypogastric plexus (distal one-third of the transverse colon to rectum)|Salivation, decreased sphincter tone, increased motility
 |**GU**|Hypogastric plexus|Detrusor contraction, erection
 
