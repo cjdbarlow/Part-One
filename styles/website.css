@@ -33,6 +33,8 @@ path.bgline {
     stroke-width: 6px;
 }
 
-.markdown-section tbody {
+.markdown-section table {
+    table-layout: fixed;
+    display:block;
     overflow-x: auto;
 }
