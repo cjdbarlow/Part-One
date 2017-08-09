@@ -44,7 +44,7 @@ Form of bias where negative studies are less likely to be accepted (or submitted
 ## PDE
 Phosphodiesterase
 
-##PGDF
+##PDGF
 Platelet-Derived Growth Factor
 
 ##PCT
