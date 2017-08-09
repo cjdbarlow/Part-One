@@ -18,22 +18,22 @@ $$Rate \ of \ Diffusion = {\Delta P \times A \times s \over T \times \sqrt{MW}}$
   * $$MW$$ is the molecular weight of the substance
 
 These can be divided into pressure, lung factors, and substance factors:
-* Pressure gradient
+* Pressure gradient  
 In the lung, this is a function of:
   * Partial pressure of the gas in the alveolus  
   This is affected by:
     * Atmospheric pressure
     * Ventilation  
     Alveolar hypoventilation will:
-      * Increase PA<sub>CO<sub>2</sub></sub>
-      * Decrease PA<sub>O<sub>2</sub></sub>
+      * Increase PA<sub>CO<sub>2</sub>
+      * Decrease PA<sub>O<sub>2</sub>
   * Partial pressure of the gas in blood  
   This is affected by:
     * Solubility of the gas in blood  
     CO<sub>2</sub> is **~20** times as soluble as O<sub>2</sub> in blood.
     * Binding of gas to protein:
       * Particularly **haemoglobin**  
-      Affects the rate of uptake of O<sub>2</sub> and CO, and is why calculated D<sub>L<sub>CO</sub></sub> is corrected for haemoglobin.
+      Affects the rate of uptake of O<sub>2</sub> and CO, and is why calculated DL<sub>CO</sub> is corrected for haemoglobin.
         * The shape of the oxy-haemoglobin dissociation curve allows a large volume of oxygen to be bound before PaO<sub>2</sub> begins to rise substantially.  
       * Formation of carbamino compounds
       * Anaesthetic agents to plasma contents  
@@ -104,17 +104,17 @@ This is why it is used to test for diffusion capacity
 
 ##Diffusion Capacity
 * Measurement of the ability of the lung to transfer gases
-* Measured as D<sub>L<sub>CO</sub></sub> or diffusing capacity of the lung for carbon monoxide
+* Measured as DL<sub>CO</sub> or diffusing capacity of the lung for carbon monoxide
 * Process:
   * Vital capacity breath of 0.3% CO
   * Held for 10s and exhaled
   * Inspired and expired CO are measured  
   * Difference is the amount of CO which is now bound to Hb
-  * D<sub>L<sub>CO</sub></sub> is corrected for:
+  * DL<sub>CO</sub> is corrected for:
     * Age
     * Sex
     * Hb
-* D<sub>L<sub>CO</sub></sub> is decreased in:
+* DL<sub>CO</sub> is decreased in:
   * Thickened alveolar-capillary barrier
     * Interstitial lung disease
   * Reduced surface area
