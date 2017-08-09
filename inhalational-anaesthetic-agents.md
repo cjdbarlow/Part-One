@@ -225,7 +225,7 @@ Recovery is dependent on how quickly an inhalational agent can be eliminated fro
     Important for highly soluble agents used in long cases.
     * Depth of anaesthesia
 
-###Alteration to Pharmacokinetics in Children and the Elderly
+###Alteration to Pharmacokinetics
 Increased rate of induction in children due to:
 * Increased V<sub>A</sub>/FRC ratio  
 Increases P<sub>A</sub>.
@@ -234,7 +234,16 @@ Reduced blood-gas solubility coefficients.
     
 Increased rate of induction in elderly due to:
 * Lower MAC requirement
+* Lower albumin  
+Reduced blood-gas solubility coefficients.
+* Lower cardiac output  
+More rapid establishment of P<sub>B</sub>
+
+Altered rate of induction in pregnancy due to:
+* Increased V<sub>A</sub>/FRC ratio  
+Increases P<sub>A</sub>, increasing P<sub>B</sub> and speed of onset.
 * Lower albumin
+
 
 ###Alteration to Pharmacokinetics with Special Methods of Administration
 In **target-controlled anaesthesia**, FGF and agent F<sub>I</sub> are controlled by the machine to reach the target F<sub>A</sub> rapidly at low concentrations. This causes:
