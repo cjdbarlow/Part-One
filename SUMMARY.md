@@ -215,7 +215,7 @@
   * [Non-Invasive Blood Pressure](non-invasive-blood-pressure.md)
   * [Cardiac Output Measurement](cardiac-output.md)
   * [Pulse Oximetry](pulse_oximetry.md)
-  * [Gas Analysis](gas-analysis.md)
+  * [Oxygen Analysis](gas-analysis.md)
   * [End-Tidal Gas Analysis](end-tidal_co2.md)
   * [Blood Gas Analysis](blood_gases.md)
   * [Gas Flow](gas-flow.md)
