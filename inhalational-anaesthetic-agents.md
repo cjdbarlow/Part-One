@@ -132,9 +132,11 @@ A **high** oil:gas partition coefficient indicates a greater potency, and theref
 ##Pharmacokinetics of Inhalational Agents
 Achieving the required P<sub>B</sub> requires maintaining P<sub>A</sub> at a high enough level. By increasing P<sub>A</sub>, the pressure gradient for diffusion into blood, and therefore CNS, is increased.
 
-The speed of onset of an inhalational agent is dependent on:
-* Alveolar concentration of agent
-* Drug uptake from the lungs
+As discussed above, rate of onset of an inhalational agent is dependent on rate of uptake:
+* Into the alveoli
+* From the alveoli into blood
+* From blood into the CNS
+
 
 
 Factors affecting **alveolar concentration of agent:**
