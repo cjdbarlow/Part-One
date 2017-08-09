@@ -242,7 +242,8 @@ More rapid establishment of P<sub>B</sub>
 
 Altered rate of induction in pregnancy due to:
 * Increased V<sub>A</sub>/FRC ratio
-    * Increased minute ventilation
+    * Increased minute ventilation  
+    This is of greater importance in spontaneous ventilation, as this is controlled by the anaesthetist during controlled ventilation.
     * Decreased FRC  
 Increases P<sub>A</sub>, increasing P<sub>B</sub> and speed of onset.
 * Lower albumin  
