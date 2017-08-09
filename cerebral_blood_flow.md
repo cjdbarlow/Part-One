@@ -33,9 +33,6 @@ AUTOREGULATION CURVE
   * This may be due to damage to either the feedback mechanisms, or the effectors (vasculature)
   * **Flow may become pressure-dependent**, and small changes in MAP can have large changes in CBF
 
-###A Note on Perfusion Pressure
-Autore
-
 ##Factors Affecting Vessel Radius
 Vasodilation and constriction affect both cerebral blood flow and ICP, as vasodilatation increases cerebral blood volume and therefore may increase ICP through the Monroe-Kellie doctrine.
 
@@ -78,11 +75,13 @@ O2 AND CEREBRAL BLOOD FLOW GRAPH
 
 ##Factors Affecting Blood Viscosity
 * Blood viscosity is dependent on haematocrit
-* Reduced haematocrit is associated with increased CBF, but reduced O<sub>2</sub>-carrying capacity
-* Optimal haematocrit is ~0.3
+* Reduced haematocrit is associated with increased CBF, but reduced O<sub>2</sub>-carrying capacity  
+The optimal haematocrit is ~0.3-0.35, which provides the best balance between reduction of viscosity to improve cerebral blood flow, without reducing DO<sub>2</sub>.
+
 
 ---
 ##References
 Power and Kam
 http://www.frca.co.uk/Documents/170907%20Cerebral%20physiology%20I.pdf
 Integrative regulation of human brain blood flow, J physiol
+4. Muizelaar JP. CBF and management of the head-injured patient. In: Narayan RK, Wilberger JE, Povlishock JT, eds. Neurotrauma. New York: McGraw-Hill, 1996:553–561
