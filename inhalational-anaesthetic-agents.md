@@ -247,6 +247,8 @@ Altered rate of induction in pregnancy due to:
 Increases P<sub>A</sub>, increasing P<sub>B</sub> and speed of onset.
 * Lower albumin  
 Reduces blood-gas solubility coefficients for some agents.
+* Increased CO  
+Reduces rate of rise of P<sub>A</sub>, reducing P<sub>B</sub> and therefore speed of onset.
 * Reduced MAC requirement
 
 
