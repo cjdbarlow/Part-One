@@ -175,6 +175,7 @@ Use of N<sub>2</sub>O with another agent will increase the P<sub>A</sub> of that
         * Diffusion hypoxia is avoided by delivering 100% oxygen, which maintains an adequate PAO<sub>2</sub> as N<sub>2</sub>O is removed
 
 INSERT FI/FA EQUILIBRIUJM GRAPH HERE.
+* Note that N<sub>2</sub>O reaches a higher ratio faster than desflurane, despite having a lower blood:gas partition coefficient, due to the concentration effect
 
 Factors affecting **drug uptake from the lungs:**  
 * **Blood:gas partition coefficient**  
@@ -230,19 +231,23 @@ Increased rate of induction in children due to:
 * Increased V<sub>A</sub>/FRC ratio  
 Increases P<sub>A</sub>.
 * Lower albumin and cholesterol  
-Reduced blood-gas solubility coefficients.
+Reduced blood-gas solubility coefficients for some agents.
     
 Increased rate of induction in elderly due to:
 * Lower MAC requirement
 * Lower albumin  
-Reduced blood-gas solubility coefficients.
+Reduces blood-gas solubility coefficients for some agents.
 * Lower cardiac output  
 More rapid establishment of P<sub>B</sub>
 
 Altered rate of induction in pregnancy due to:
-* Increased V<sub>A</sub>/FRC ratio  
+* Increased V<sub>A</sub>/FRC ratio
+    * Increased minute ventilation
+    * Decreased FRC  
 Increases P<sub>A</sub>, increasing P<sub>B</sub> and speed of onset.
-* Lower albumin
+* Lower albumin  
+Reduces blood-gas solubility coefficients for some agents.
+* 
 
 
 ###Alteration to Pharmacokinetics with Special Methods of Administration
@@ -369,6 +374,10 @@ Millers
 https://www.ncbi.nlm.nih.gov/pubmed/11429373
 Inhaled Anaesthetics and nitrous oxide: Complexities overlooked: things may not be what they seem
 Minimum alveolar concentration: ongoing relevance and clinical utility.
+9. Lerman J, Gregory GA, Willis MM, Eger EI 2nd. [Age and solubility of volatile anesthetics in blood](
+(http://anesthesiology.pubs.asahq.org/article.aspx?articleid=1956070)). Anesthesiology. 1984 Aug;61(2):139-43.
+
+(http://anesthesiology.pubs.asahq.org/article.aspx?articleid=1956070)
 
 
 
