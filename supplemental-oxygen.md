@@ -45,4 +45,9 @@ These are usually flow limited as well, and so FiO<sub>2</sub> may decrease at h
             The widening of the cone leads to an increase in fluid velocity and therefore a decrease in pressure, as per the Bernoulli principle.
         * Entrained air is proportional to flow rate, so the ratio of oxygen to air is constant for any given aperture size  
         This is known as the **entrainment ratio**.
-        * Will deliver the specified FiO<sub>2</sub> provided oxygen flow is above the minimum rate
+        * Will deliver the specified FiO<sub>2</sub> provided oxygen flow is above the minimum rate  
+        Therefore become variable performance devices when inspiratory flow greatly exceeds oxygen flow.
+        
+---
+##References
+1. Aston D, Rivers A, Dharmadasa A. Equipment in Anaesthesia and Intensive Care: A complete guide for the FRCA. Scion Publishing Ltd. 2014.
