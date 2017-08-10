@@ -9,7 +9,7 @@ Consists of three layers which produce **steroid hormones** (A good mnemonic is 
     * Zona Glomerulosa  
     Predominantly produces mineralocorticoids (aldosterone).
     * Zona Fasciculata  
-    Predominantly produces glucocorticoids (cortisone).
+    Predominantly produces glucocorticoids (cortisol).
     * Zona Reticularis  
     Predominantly produces sex steroids (testosterone).
 * Adrenal medulla  
