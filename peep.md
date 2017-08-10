@@ -18,6 +18,9 @@ PEEP has a much larger effect than the other factors.
 ###Respiratory Effects
 * Decreased work of breathing
     * Decreased VO<sub>2</sub>
+* Alteration in dead space  
+    * Intubation typically reduces dead space, as the additional apparatus dead space is of smaller volume than the anatomical dead space it replaces
+    * Non-invasive ventilation masks cause a large increase in dead space
 * Increases lung volume and FRC by an amount proportional to the compliance of the system
     * Improves oxygenation via alveolar recruitment
     * Improves lung compliance via alveolar recruitment, reducing work of breathing
