@@ -33,14 +33,15 @@ Ionised drugs are polar, and so are less lipid soluble.
           Urinary alkalinisation is used to accelerate elimination of acidic drugs, as they become ionised and trapped in urine.
     * Are typically renally excreted without undergoing metabolism
 * **Protein binding**  
-  * Almost all drugs are bound to plasma proteins:
+  * Almost all drugs have some degree of binding to plasma proteins:
     * Acid and neutral drugs bind to **albumin**
       * High capacity
       * Two major binding sites
         * Site I \(warfarin\)
         * Site II \(diazepam\)
     * Alkaline drugs bind to α1-acid glycoprotein
-      * Low capacity
+      * Low capacity  
+      Typically results in lower total binding (compared to albumin) of alkaline drugs, despite its increased affinity.
   * However, only unbound drugs are able to:
     * Cross cell membranes
     * Interact with receptors
