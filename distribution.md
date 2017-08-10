@@ -64,7 +64,7 @@ Ionised drugs are polar, and so are less lipid soluble.
     * Is important only when it is very high
     * Is important in duration of action as it also relates to affinity for *tissue* proteins
 * **Regional blood flow**  
-Affects concentration gradients between blood and tissue. Regions include:
+Affects concentration gradients between blood and tissue, and is affected by cardiac output. Regions include:
   * Vessel Rich Group
     * Brain
     * Heart
