@@ -18,20 +18,30 @@ Abdominal visceral fat secretes a large number of hormones which affect cardiova
 
         
 * Changes in cardiovascular parameters
-    * Increased Blood Volume
-    * Increased Stroke Volume
-    * Increased Cardiac Output
+    * Increased VO<sub>2</sub>  
+    Due to increased LBM and fat mass.
+    * Increased Blood Volume  
+    Due to increased angiotensin II and aldosterone.
+    * Increased Stroke Volume  
+    Due to:
+        * Increased preload (major factor)
+        * Increased contractility (minor factor)  
+        Due to increased circulating adrenal hormones.
+    * Increased Cardiac Output  
+    To maintain DO<sub>2</sub>.
         * Initially with preserved ejection fraction
 
 
 * Cardiac changes
-
-    * Myocardial fibrosis
+    * Diastolic dysfunction  
+    Due to myocardial fibrosis impairing relaxation.
     * Fatty infiltration of myocardium
     * Biventricular hypertrophy as a response to increased afterload
         * LV afterload increased due to systemic hypertension
         * RV hypertrophy due to increased PVR, in turn due to:
-            * Hypoxia
-            Due to increased shunt through collapsed lung bases.
+            * Hypoxia  
+            Due to:
+                * Effects of OSA
+                * Increased shunt through collapsed lung bases
             * Acidosis        
 
