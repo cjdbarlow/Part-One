@@ -30,11 +30,35 @@ PEEP has a much larger effect than the other factors.
 Airway resistance decreases as lung volume increases.
 
 ###Cardiovascular Effects
-####Cardiac Effects
-* Reduction in VR due to increased CVP  
-Leads to reduction in RV filling pressure, LV filling, and CO.
-    * This is the predominant reason why CO falls with the application of PEEP
-    * These changes are more marked in hypovolaemia
+* Alteration in cardiac output
+    * PEEP and IPPV generally decrease CO via decreasing VR due to the increase in intrathoracic pressure.    
+    Leads to reduction in RV filling pressure, LV filling, and CO.
+        * This is the predominant reason why CO falls with the application of PEEP  
+        In a well patient, CO falls by:
+            * 10% with IPPV and ZEEP
+            * 18% with IPPV and 9cmH<sub>2</sub>O of PEEP
+            * 36% with IPPV and 16cmH<sub>2</sub>O of PEEP
+        * These changes are:
+            * More marked in hypovolaemia  
+            Changes are reversed with volume expansion.
+            * Less severe with poor lung compliance  
+            Reduced compliance greatly reduces the effect of PEEP and IPPV on the vasculature, as the rise in intrapleural pressure is reduced.
+    * LV preload may also be reduced due to increased RV afterload  
+        * Increased RV afterload may increase RV EDV, displacing the interventricular septum into the LV
+        * The bulging septum decreases LVEDV, causing LV diastolic function and reduced LV filling  
+        This is an example of **ventricular interdependence**.
+    * Reduced LV afterload due to reduced LV transmural pressure  
+    In some cases, IPPV augments circulatory function by reducing LV afterload to a greater extent than preload. 
+        * Effects in a well patient are minimal, as PEEP is relatively small in magnitude compared to systemic arterial pressures
+        * In patients generating highly negative intrathoracic pressures, the LV transmural pressure can increase markedly, increasing LV afterload and reducing cardiac output
+
+
+* Reduction in MAP  
+MAP decreases as PEEP increases.
+
+
+* Changes to oxygen flux  
+PEEP will tend to improve PO<sub>2</sub> whilst reducing CO.
 
 
 * Changes to pulmonary vascular resistance and RV afterload
@@ -44,15 +68,8 @@ Leads to reduction in RV filling pressure, LV filling, and CO.
     * Therefore, PEEP has *variable effects* on RV afterload depending on how it changes lung volume with respect to FRC
 
 
-* Reduced LV preload due to increased RV afterload  
-Increased RV afterload may lead to an increased RV EDV, displacing the interventricular septum into the LV, impeding LV diastolic function and reducing LV filling. This is an example of **ventricular interdependence**.
 
-
-* Reduced LV afterload due to reduced LV transmural pressure  
-    * Effects in a well patient are minimal, as PEEP is relatively small in magnitude compared to systemic arterial pressures
-    * In patients generating highly negative intrathoracic pressures, the LV transmural pressure can increase markedly, increasing LV afterload and reducing cardiac output
-
-####Peripheral Vasculature Effects
+##End-Organ Effects
 * Reduced urine output due to:
     * Reduced CO and renal blood flow
     * ADH release as a consequence of reduced atrial stretch and ANP release  
