@@ -1,6 +1,6 @@
 #Respiratory Changes with Obesity
 
-> <p style="color:purple";>Discuss the effect of morbid obesity on ventilation </p>
+> Discuss the effect of morbid obesity on ventilation
 
 Morbid obesity causes several changes to the respiratory system:
 * Airway
