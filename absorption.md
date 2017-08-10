@@ -93,7 +93,7 @@ Some drugs may still undergo metabolism in the pulmonary circulation, such as fe
 
 * May be via bolus or infusion
 * Onset determined by proportion of unionised drug available  
-Lignocaine has a more rapid epidural onset than bupivacaine as it has a pKa of 7.7 (compared to 8.4) and therefore a greater unionised portion at physiologic pH.
+Lignocaine has a more rapid epidural onset than bupivacaine as it has a pKa of 7.9 (compared to 8.4) and therefore a greater unionised portion at physiologic pH.
 
 
 * Additional factors include additives and intrinsic vasoactive properties of the delivered drug
