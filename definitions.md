@@ -10,10 +10,13 @@ A proton donor.
 * **Acidaemia**  
 Arterial blood pH < 7.35.
 
+
 * **Acidosis**  
 A process which leads to an excess of hydrogen ions, and *may* lead to acidaemia if there is inadequate compensation. Can be subdivided into:
     * **Respiratory acidosis**: PaCO<sub>2</sub> > 45
     * **Metabolic alkalosis**: HCO<sub>3</sub><sup>-</sup> < 22
+
+
 
 * **Activity**  
 The *effective* concentration of a substance in a reacting system
@@ -30,36 +33,36 @@ Sum of impedances to ventricular ejection.
 * **Agonist**  
 Drug which produces a maximal response at receptor site.
 
-**Alkalaemia**  
+* **Alkalaemia**  
 Arterial blood pH > 7.45.
 
-**Alkalosis**  
+* **Alkalosis**  
 A process which leads to a deficit of hydrogen ions, and *may* lead to alkalaemia if there is inadequate compensation. Can be subdivided into:
     * **Respiratory acidosis**: PaCO<sub>2</sub> < 35
     * **Metabolic alkalosis**: HCO<sub>3</sub><sup>-</sup> > 26
 
-**Anaesthesia**  
+* **Anaesthesia**  
 Without sensation.
 
-**Analogue Signal**  
+* **Analogue Signal**  
 Where the output of the transducer varies with the input signal.
 
-**Anion**
+* **Anion**
 Negatively charged ion.
 
-**Anode**  
+* **Anode**  
 The electrode which conventional current flows into.
 
-**Anrep effect**  
+* **Anrep effect**  
 Method of myocardial autoregulation in which an increase in afterload causes an increase in contractility. 
 
-**Antagonist**  
+* **Antagonist**  
 Drug which produces no response at the receptor, but prevents other ligands binding.
 
-**Autoregulation**  
+* **Autoregulation**  
 Ability of an organ to maintain homeostasis in the presence of dynamic physiological conditions.
 
-**Azeotrope**  
+* **Azeotrope**  
 A mixture of two substances that cannot be separated by fractional distillation, as each component shares same boiling point. This is typically temperature dependent.
 
 ##B
@@ -76,6 +79,11 @@ The temperature at which the vapour pressure of a liquid equals the environmenta
   * Boiling point
   * Freezing point
   * Osmotic pressure
+
+
+        
+* **Critical Length**  
+The length of axon which must be blocked in order to prevent action potential transmission. It is dependent on myelination and fibre diameter.
 
 ##G
 * **General anaesthesia**  
