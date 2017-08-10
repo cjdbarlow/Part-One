@@ -18,14 +18,16 @@ PEEP has a much larger effect than the other factors.
 ###Respiratory Effects
 * Decreased work of breathing
     * Decreased VO<sub>2</sub>
-* Alteration in dead space  
+* Alteration in anatomical/apparatus dead space  
     * Intubation typically reduces dead space, as the additional apparatus dead space is of smaller volume than the anatomical dead space it replaces
     * Non-invasive ventilation masks cause a large increase in dead space
 * Increases lung volume and FRC by an amount proportional to the compliance of the system
     * Improves oxygenation via alveolar recruitment
     * Improves lung compliance via alveolar recruitment, reducing work of breathing
     * Elevated airway pressures may increase the proportion of West Zone 1 physiology and alveolar dead space  
-    In healthy lungs an increase in the $$V_D \over V_T$$ ratio is seen when PEEP exceeds 10-15cmH<sub>2</sub>O
+    In healthy lungs an increase in the $$V_D \over V_T$$ ratio is seen when PEEP exceeds 10-15cmH<sub>2</sub>O.
+* Reduces airway resistance  
+Airway resistance decreases as lung volume increases.
 
 ###Cardiovascular Effects
 ####Cardiac Effects
