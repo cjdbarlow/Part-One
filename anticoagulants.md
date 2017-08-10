@@ -12,7 +12,8 @@
 |**Elimination**|Faecal and renal elimination of metabolites, t<sub>1/2</sub>β of 40 hours|Renal of inactive metabolites|Renal of active drug and inactive metabolites
 |**CVS**|Microthrombi|Hypotension with rapid IV administration||
 |**Metabolic**|Less osteoporosis due to less protein (and therefore tissue) binding|Osteoporosis||
-|**GIT**|N/V
+|**Renal**||Inhibits aldosterone secretion||
+|**GIT**|N/V|||
 |**Haeme**|Haemorrhage|Haemorrhage, HITTs|Haemorrhage, lower risk of HITTs than UFH. Less thrombocytopaenia.
 |**Immune**|Hypersensitivity reactions|||
 |**Reversal**|- Waiting<br>- Vitamin K<br>- FFP<br>- Prothrombinex|Reversed with protamine (1mg per 100U).|Incomplete reversal with protamine as only the anti-IIa effect is inhibited.|
