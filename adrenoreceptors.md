@@ -1,7 +1,7 @@
 # Adrenoreceptors
 > Understand the pharmacology of adrenoreceptor blocking drugs.
 
-*This covers the pharmacology of adrenoreceptors and the production and metabolism of endogenous catecholamines. Detailed information on specific agents is in the [pharmacopeia](adrenergic_drugs.md).*
+*This covers the pharmacology of adrenoreceptors. The production and metabolism of endogenous catecholamines is covered under [adrenal hormones](adrenal-hormones.md). Detailed information on specific sympathomimetic agents is in the [pharmacopeia](adrenergic_drugs.md).*
 
 Adrenoreceptors are classified by their varying sensitivity to different catecholamines. Additionally:
 * All adrenoreceptors are G protein-coupled receptors
