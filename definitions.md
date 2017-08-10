@@ -92,7 +92,7 @@ The length of axon which must be blocked in order to prevent action potential tr
 
 ##G
 * **General anaesthesia**  
-Controlled production of unconsciousness.
+Drug induced, controlled, and reversible production of unconsciousness.
 
 ##S
 * **Saturated Vapour**  
