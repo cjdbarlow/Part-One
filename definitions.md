@@ -36,10 +36,12 @@ Drug which produces a maximal response at receptor site.
 * **Alkalaemia**  
 Arterial blood pH > 7.45.
 
+
 * **Alkalosis**  
 A process which leads to a deficit of hydrogen ions, and *may* lead to alkalaemia if there is inadequate compensation. Can be subdivided into:
     * **Respiratory acidosis**: PaCO<sub>2</sub> < 35
     * **Metabolic alkalosis**: HCO<sub>3</sub><sup>-</sup> > 26
+
 
 * **Anaesthesia**  
 Without sensation.
@@ -72,7 +74,8 @@ The temperature at which the vapour pressure of a liquid equals the environmenta
     * Boiling differs from evaporation as molecules anywhere in the liquid may enter the gaseous phase, whilst evaporation occurs only at the surface
 
 ##C
-* **Coronary Blood Flow** at rest is **~5%** of CO, or 225 ml.min<sup>-1</sup>, and may increase **3-4x** during exercise.
+* **Coronary Blood Flow**  
+At rest is **~5%** of CO, or 225 ml.min<sup>-1</sup>, and may increase **3-4x** during exercise.
 
 * **Colligative Properties** are the properties of a solution that depend on the ratio of solute to solvent, and not on the type of moelcules present. These include:
   * Vapour pressure
