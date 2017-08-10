@@ -11,7 +11,7 @@
 |**Metabolism**|Complete hepatic mestabolism. Significant pharmacokinetic interaction with enzyme inducers and inhibitors.|Hepatic interactions due to enzymatic induction (ETOH, amiodarone, salicylates, NSAIDs) and inhibition (OCP, barbiturates, carbamazepine)|Renal elimination of metabolites
 |**Elimination**|Faecal and renal elimination of metabolites, t<sub>1/2</sub>β of 40 hours|Renal of inactive metabolites|Renal of active drug and inactive metabolites
 |**CVS**|Microthrombi|Hypotension with rapid IV administration||
-|**Metabolic**||Osteoporosis||
+|**Metabolic**|Less osteoporosis due to less protein (and therefore tissue) binding|Osteoporosis||
 |**GIT**|N/V
 |**Haeme**|Haemorrhage|Haemorrhage, HITTs|Haemorrhage, lower risk of HITTs than UFH. Less thrombocytopaenia.
 |**Immune**|Hypersensitivity reactions|||
