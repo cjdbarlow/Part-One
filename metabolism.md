@@ -92,12 +92,14 @@ CYP450 enzymes are:
   * Reduced
   * Combined with CO
 * Located in:
-  * Liver
+  * Liver  
+  Endoplasmic reticulum of hepatocytes.
   * Lungs
   * Kidney
   * Gut
   * Brain
-* Classified into:
+* Over 1000 enzymes, with ~50 functionally active
+* Classified by the degree of shared amino-acid sequence into:
   * Families  
   CYP1, CYP2, CYP3...
   * Subfamilies  
@@ -109,11 +111,41 @@ CYP450 enzymes are:
 INSERT TABLE OF CYP450 enzymes here
 
 Key CYP enzymes include:
-* CYP3A4
-  * Responsible for 60% of metabolic activity
-* CYP2D6
-  * Genetic polymorphism leads to significant inter-patient variability  
-  Results in significant over- or under-metabolism of drugs.
+* CYP3A4  
+Responsible for 60% of metabolic activity.
+* CYP2D6  
+  * Important because genetic polymorphism leads to significant inter-patient variability  
+  May result in significant over- or under-metabolism of drugs, and therefore significant inter-individual variability in response.
+    * 5-10% of the population are poor metabolisers
+    * 2-10% are intermediate metabolisers
+    * 1-2% are ultra-rapid metabolisers
+    * Bulk of the population (70-90%) are extensive metabolisers
+  * Clinical effect will depend on the type of drug
+    * Pro-drugs  
+      * Extensive/ultra-rapid metabolisers will convert more drug to the active form, and see a greater effect  
+      May lead to overdose.
+      * Poor metabolisers will excrete more pro-drug prior to metabolism, and see a reduced clinical effect
+    * Active drug
+      * Extensive/ultra-rapid metabolisers will inactive more drug, and see a reduced effect
+      * Poor metabolisers will see a prolonged clinical effect
+  * Clinical effect may be altered by enzyme interactions
+    * e.g. Oxycodone use by an ultra-fast metaboliser, in combination with a CYP3A4 inhibitor (e.g. diltiazem) will result in a significant increase in the clinical effect of oxycodone
+  * Drugs metabolised by CYP2D6 include:
+    * Analgesics
+      * Codeine (prodrug)
+      * Oxycodone (metabolised to the significantly more potent oxymorphone)
+      * Methadone
+      * Tramadol (metabolised to form with greater MOP selectivity)
+    * Psychiatric drugs
+      * SSRIs
+      * TCAs
+      * Haloperidol
+    * Cardiovascular drugs
+      * Amiodarone
+      * Flecainide
+      * Mexilitine
+* CYP2E1  
+Metabolises volatiles and paracetamol.
 
 
 ###Phase II
