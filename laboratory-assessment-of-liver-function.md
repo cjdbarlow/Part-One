@@ -14,7 +14,9 @@ Main plasma protein.
             * Calcium
             * Drugs
     * Decreased in liver dysfunction and malnutrition
-    
+
+
+        
 * Coagulation Assays  
 Clotting factors are produced by the liver. Hepatic impairment may result in reduced production, and abnormality of clotting assays, although functional clotting function may be normal (as 
     * INR  
