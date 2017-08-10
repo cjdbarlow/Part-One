@@ -2,7 +2,7 @@
 
 > Describe factors influencing the distribution of drugs.
 
-Drug distribution is dependent on:
+Drug distribution is dependent on many factors, all of which can be related to Fick's Law of Diffusion:
 * **Concentration gradient**
 * **Tissue mass**
 * **Molecular Weight**  
@@ -59,6 +59,10 @@ Ionised drugs are polar, and so are less lipid soluble.
           Negative acute phase reactant.
         * Increased α1-acid glycoprotein    
           Acute phase reactant.
+  * Protein binding *typically*:
+    * Correlates with lipid solubility
+    * Is important only when it is very high
+    * Is important in duration of action as it also relates to affinity for *tissue* proteins
 * **Regional blood flow**  
 Affects concentration gradients between blood and tissue. Regions include:
   * Vessel Rich Group
