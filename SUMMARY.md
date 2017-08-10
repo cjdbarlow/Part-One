@@ -82,7 +82,7 @@
     * [Carbon Dioxide](carbon_dioxide_transport.md)
   * [Applied Respiratory Physiology](hypoxia.md#id)
     * [Pulmonary Function Tests](pulmonary-function-tests.md)
-    * [PEEP and IPPV](peep.md)
+    * [Positive Pressure Ventilation](peep.md)
     * [Hypoxia](hypoxia.md)
     * [Hypo and Hypercapnoea](hypo_and_hypercapnoea.md)
     * [Position and Ventilation](lateral-decubitus-and-olv.md)
