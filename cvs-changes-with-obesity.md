@@ -37,8 +37,9 @@ Abdominal visceral fat secretes a large number of hormones which affect cardiova
     Due to myocardial fibrosis impairing relaxation.
     * Fatty infiltration of myocardium
     * Biventricular hypertrophy as a response to increased afterload
-        * LV afterload increased due to systemic hypertension
-        * RV hypertrophy due to increased PVR, in turn due to:
+        * LV afterload increased due to systemic hypertension  
+        LVH is much more common than RVH.
+        * RV hypertrophy due to increased PVR secondary to:
             * Hypoxia  
             Due to:
                 * Effects of OSA
