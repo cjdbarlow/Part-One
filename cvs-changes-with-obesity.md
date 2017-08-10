@@ -13,7 +13,8 @@ Abdominal visceral fat secretes a large number of hormones which affect cardiova
         * Small amounts are produced in adipocytes, which increases as fat volume increases
     * Plasminogen activator inhibitor-1  
     Reduces fibrinolysis and predisposes to VTE.
-    
+    * Inflammatory adipokines  
+    Impair endothelial function, leading to increased SVR.
     
 * Circulatory changes
     * Increased Blood Volume
