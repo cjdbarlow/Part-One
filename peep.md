@@ -24,8 +24,8 @@ PEEP has a much larger effect than the other factors.
 * Increases lung volume and FRC by an amount proportional to the compliance of the system
     * Improves oxygenation via alveolar recruitment
     * Improves lung compliance via alveolar recruitment, reducing work of breathing
-    * May increase the proportion of West Zone 1 physiology  
-    When PA exceeds Pa, dead space is created.
+    * Elevated airway pressures may increase the proportion of West Zone 1 physiology and alveolar dead space  
+    In healthy lungs an increase in the $$V_D \over V_T$$ ratio is seen when PEEP exceeds 10-15cmH<sub>2</sub>O
 
 ###Cardiovascular Effects
 ####Cardiac Effects
@@ -42,7 +42,7 @@ Leads to reduction in RV filling pressure, LV filling, and CO.
     * Therefore, PEEP has *variable effects* on RV afterload depending on how it changes lung volume with respect to FRC
 
 
-* Reduced LV preload due to increased RV afterload
+* Reduced LV preload due to increased RV afterload  
 Increased RV afterload may lead to an increased RV EDV, displacing the interventricular septum into the LV, impeding LV diastolic function and reducing LV filling. This is an example of **ventricular interdependence**.
 
 
