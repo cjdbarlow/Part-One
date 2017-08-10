@@ -15,7 +15,7 @@ PEEP has a much larger effect than the other factors.
         * Application of external PEEP may limit the generation of iPEEP by maintaining airway patency in late expiration
 
 
-###Respiratory Effects
+##Respiratory Effects
 * Decreased work of breathing
     * Decreased VO<sub>2</sub>
 * Alteration in anatomical/apparatus dead space  
@@ -29,7 +29,7 @@ PEEP has a much larger effect than the other factors.
 * Reduces airway resistance  
 Airway resistance decreases as lung volume increases.
 
-###Cardiovascular Effects
+##Cardiovascular Effects
 * Alteration in cardiac output
     * PEEP and IPPV generally decrease CO via decreasing VR due to the increase in intrathoracic pressure.    
     Leads to reduction in RV filling pressure, LV filling, and CO.
