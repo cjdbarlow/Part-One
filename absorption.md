@@ -74,6 +74,8 @@ Some drugs may still undergo metabolism in the pulmonary circulation, such as fe
     * Food
     * Other drugs
 
+
+
 * Patient Factors
   * GIT blood flow
   * Surface Area
