@@ -25,7 +25,7 @@ Abdominal visceral fat is responsible for secreting a large number of hormones w
             Due to OSA.
 
         
-* Changes in cardiovascular parameters
+* Changes in key cardiovascular parameters
     * Increased VO<sub>2</sub>  
     Due to increased LBM and fat mass.
     * Increased Blood Volume  
@@ -58,3 +58,7 @@ Abdominal visceral fat is responsible for secreting a large number of hormones w
                     * Increased shunt through collapsed lung bases
                 * Acidosis        
 
+---
+##References
+
+1. Alvarez A, Brodsky J, Lemmens H, Morton J. Morbid Obesity: Peri-operative Management. Cambridge: Cambridge University Press. 2010.
