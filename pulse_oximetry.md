@@ -65,10 +65,13 @@ Detected as pulsatile flow, and erronously interpreted by the microprocessor as 
 The diodes are cycled at several hundred times per second which allows the detector to compensate for the effect of ambient light (the values when the diodes are off give the effect of ambient light).
 
 
-* Absorption spectra confounded by haemoglobinopathies
+* Absorption spectra confounded by:
+  * Haemoglobinopathies
     * Carboxyhaemoglobin causes the pulse oximeter to read artifically high due to as it also aborbs 660nm light
     * Methaemoglobinaaemia causes the SpO<sub>2</sub> to trend towards 85%, as though it absorbs 660nm light is also absorbs 940nm light to a greater degree
-    * Methylene blue will cause the SpO<sub>2</sub> to read <65% for several minutes
+  * Dyes
+    * Methylene blue will cause the SpO<sub>2</sub> to read < 65% for several minutes
+    * Indocyanine green will also cause a decreased SpO<sub>2</sub>
 
 
 ---
@@ -77,3 +80,4 @@ Basic Physics and Measurement in Anaes
 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2148612/pdf/anesthprog00255-0016.pdf
 CICM March/May 2014
 Pulse oximetry Tremper and Barker
+Williams GW, Williams ES. Basic Anaesthesiology Examination Review. Oxford University Press. 2016.
