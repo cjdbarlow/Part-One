@@ -5,7 +5,7 @@
 The effect of obesity on the cardiovascular system is complex, and can be classified into:
 
 * Hormonal changes  
-Abdominal visceral fat secretes a large number of hormones which affect cardiovascular pparameters:
+Abdominal visceral fat secretes a large number of hormones which affect cardiovascular parameters:
     * Increased leptin  
     Contributes to cardiac remodelling and LVH.
     * Angiotensinogen  
@@ -15,15 +15,17 @@ Abdominal visceral fat secretes a large number of hormones which affect cardiova
     Reduces fibrinolysis and predisposes to VTE.
     * Inflammatory adipokines  
     Impair endothelial function, leading to increased SVR.
-    
-* Circulatory changes
+
+        
+* Changes in cardiovascular parameters
     * Increased Blood Volume
-
-
-* General cardiac changes
     * Increased Stroke Volume
     * Increased Cardiac Output
         * Initially with preserved ejection fraction
+
+
+* Cardiac changes
+
     * Myocardial fibrosis
     * Fatty infiltration of myocardium
     * Biventricular hypertrophy as a response to increased afterload
@@ -33,12 +35,3 @@ Abdominal visceral fat secretes a large number of hormones which affect cardiova
             Due to increased shunt through collapsed lung bases.
             * Acidosis        
 
-                
-* Left heart changes
-    * LVH as an adaptive response to increased afterload  
-    Afterload is increased due to systemic hypertension.
-
-
-* Right heart changes
-    * RVH as an adaptive response to increased afterload  
-    Afterload increased due to increased PVR, secondary to:
