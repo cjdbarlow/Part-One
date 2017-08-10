@@ -18,7 +18,7 @@ Main plasma protein.
 
         
 * Coagulation Assays  
-Clotting factors are produced by the liver. Hepatic impairment may result in reduced production, and abnormality of clotting assays, although functional clotting function may be normal (as 
+Clotting factors are produced by the liver. Hepatic impairment may result in reduced production, and abnormality of clotting assays, although functional clotting function may be normal (as pro-coagulant proteins are affected to a similar extent).
     * INR  
     Test of the extrinsic pathway.
     * APTT
