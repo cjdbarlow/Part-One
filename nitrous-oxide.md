@@ -20,6 +20,7 @@
 |**Resp**|Diffusion hypoxia due to second gas effect. Small ↓ in V<sub>T</sub>, ↑ in RR such that MV is unchanged.|
 |**CVS**|↑ SNS tone, mild myocardial depression. ↑ PVR - beware in pulmonary hypertension.|
 |**CNS**|Powerful analgesic when > 20%, via endorphin and encephalin modulation, and on opioid receptors. ↑ CBF. Loss of consciousness common at 80%. 1.4x relative risk of PONV|
+|**GU**|Not tocolytic - useful adjuvant in GA caesarian section to reduce volatile anaesthetic use
 |**GIT**|Expansion|
 |**Metabolic**|↑ Homocysteine.|
 |**Toxic Effects**|High diffusing capacity means it will rapidly diffuse into air-filled cavities, increasing the volume of compliant cavities (PTHx, bowel), and increasing the pressure of non-compliant cavities (middle ear). <br><br> Prolonged use (> 6 hours) **oxidates cobalt ion in vitamin B<sub>12</sub>**, **preventing its action as a cofactor** for **methionine synthetase**, preventing DNA synthesis. This leads to: <br>- Megaloblastic changes in bone marrow <br>- Agranulocytosis<br>- Peripheral neuropathy <br>- Possible teratogenicity - avoid in early pregnancy. <br><br> Greenhouse gas.|

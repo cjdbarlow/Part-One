@@ -111,6 +111,14 @@ Speed of onset is related to:
       * Nerves firing frequently will be blocked more easily than quiescent nerves
     * Nerve fibre size  
     Larger nerves require an increased concentration of local anaesthetic to achieve blockade than smaller nerves.
+    * Nerve type  
+    Different nerve fibres are affected at different speeds.
+      * Small myelinated nerves have the shortest critical length, and are affected first  
+      These include Aδ (sharp pain, cold) fibres.
+      * Large myelinated nerves are affected second  
+      These include Aα (motor) and Aβ (touch) fibres.
+      * Unmyelinated nerves are affected last  
+      These include C (dull pain, heat) fibres.
     * Hyperkalaemia  
     Reduces onset of action.
   
