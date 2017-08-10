@@ -6,11 +6,11 @@ The effect of obesity on the cardiovascular system is complex, and can be classi
 
 * Hormonal changes  
 Abdominal visceral fat secretes a large number of hormones which affect cardiovascular pparameters:
-    * Increased leptin
-        * Initiate cardiac remodelling to produce LVH
+    * Increased leptin  
+    Contributes to cardiac remodelling and LVH.
     * Angiotensinogen  
-    Small amounts are produced in adipocytes, which increases as fat volume increases.
-        * Leads to systemic hypertension and LV remodelling
+    Leads to systemic hypertension and LV remodelling.
+        * Small amounts are produced in adipocytes, which increases as fat volume increases
     * Plasminogen activator inhibitor-1  
     Reduces fibrinolysis and predisposes to VTE.
     
