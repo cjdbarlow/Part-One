@@ -1,6 +1,13 @@
-# PEEP and IPPV
+# Positive Pressure Ventilation
 > Describe the physiological consequences of intermittent positive pressure ventilation and positive end-expiratory pressure.
 
+Physiological effects of positive pressure ventilation are mostly related to the **increased mean airway pressure**. This is a function of:
+* Ventilation mode
+* Tidal volume and peak (and plateau) airway pressure
+* Respiratory rate
+* I:E ratio
+* PEEP  
+PEEP has a much larger effect than the other factors.
 
 ##Physiological Effects of PEEP
 PEEP is defined as a positive airway pressure at the end of expiration. It is distinct from positive airway pressure (which is not confined to a phase of the respiratory cycle) and CPAP (which is a mode of ventilation).
@@ -47,13 +54,6 @@ Increased RV afterload may lead to an increased RV EDV, displacing the intervent
 * Reduced hepatic blood flow due to:
     * Increased CVP and decreased CO lowering the pressure gradient for hepatic flow
         * May result in circulation only intermittently throughout the cardiac cycle
-
-##IPPV
-IPPV is the generation of a positive (greater than atmospheric) airway pressure during inspiration. Physiological effects of IPPV are:
-* Predominantly related to mean airway pressure  
-Are generally similar to PEEP.
-* Only occur in inspiration
-* Are typically of greater magnitude when they do occur (as P<sub>insp</sub> is generally much higher than PEEP)
 
 
 ##References
