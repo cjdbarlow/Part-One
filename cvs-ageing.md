@@ -14,6 +14,8 @@ CVS effects of ageing can be divided into cardiac, vascular, and autonomic chang
     Reduced ventricular compliance increases the reliance on atrial kick to achieve adequate preload.
     * Decreased diastolic compliance
         * Due to hypertrophy from increased afterload
+        
+        
 * Vascular changes
     * Reduced compliance  
     Due to loss of elastic tissue in the large arteries.
@@ -26,6 +28,8 @@ CVS effects of ageing can be divided into cardiac, vascular, and autonomic chang
         Reduced elastic recoil causes diastolic run off and a fall in diastolic blood pressure.
     * Reduced catecholamine receptor density  
     Reduced responsiveness to (and increased number of) circulating catecholamines.
+    
+    
 * Autonomic
     * Impaired autonomic function  
     Due to decreased catecholamine responsiveness.

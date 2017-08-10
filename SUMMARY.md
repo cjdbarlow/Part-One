@@ -114,6 +114,7 @@
   * [Circulatory Control](baroreceptors.md#id)
     * [Baroreceptors](baroreceptors.md)
     * [Valsalva Manoeuvre](valsalva_manoeuvre.md)
+    * [CVS Changes with Obesity](cvs-changes-with-obesity.md)
     * [CVS Effects of Ageing](cvs-ageing.md)
   * [Cardiovascular Pharmacology](inotropes.md#id)
     * [Inotropes](inotropes.md)
