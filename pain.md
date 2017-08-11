@@ -110,7 +110,7 @@ The response to a painful stimulus requires a cascade of processes:
   These secondary afferents:
     * Cross within 1-2 vertebral segments and ascends in the spinothalamic tract
     * Receives input from descending fibres
-    * Opioids act post-synaptically to hyperpolarise second-order neurones
+    * **Opioids** act post-synaptically to hyperpolarise second-order neurones
 
   
     
