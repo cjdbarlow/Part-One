@@ -34,6 +34,7 @@ Painful response to a normally painless stimuli. Occurs due to pathological syna
 * **Anaesthesia dolorosa**  
 Pain in an area which is anaesthetised.
 
+
 ##Peripheral Nociception
 Nociceptors are receptors which respond to a noxious stimulus. Nociceptors:
 * Can be **stimulated** or **sensitised** by:
@@ -75,18 +76,20 @@ Impulses are conducted by two types of **primary afferent fibres**:
   * Synapse in laminae II in the DRG  
   Substance P is the neurotransmitter at the NK1 receptor.
 
-###Gate Theory
-Aβ 'touch' fibres stimulate inhibitory interneurones in the dorsal horn, which cause **descending inhibition** and prevent signals from peripheral C fibres from rising ascending to the thalamus. Stimulation of touch neurons 'closes the gate' and reduces pain sensation.
 
-
-##Response to a Painful Stimulus
+##Pain Pathway and Site of Action of Analgesics
 The response to a painful stimulus requires a cascade of processes:
 * **Activation of nociceptors**  
   Membrane depolarisation in response to stimulus. If the stimulus is great enough to reach the threshold potential, an action potential is generated.
+    * NSAIDS reduce nociceptor mediated inflammation
+    * Opiates act on peripheral MOP receptors
+    * Local anaesthetics prevent signal propagation
 * **Synapse in the dorsal horn**  
   Input from both Aδ and C fibres, and descending interneurons.
     * Descending inhibitory input reduces nociceptive transmission  
     Basis of "gate control" theory. Descending input increased with:
+      * Touch  
+      Aβ 'touch' fibres stimulate inhibitory interneurones in the dorsal horn, 'closing the gate' by increasing **descending inhibition** and prevent signals from peripheral C fibres from rising ascending to the thalamus.
       * Arousal
       * Opioid receptors  
       Particularly MOP (pre- and post-synaptically).
