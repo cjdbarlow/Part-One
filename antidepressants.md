@@ -1,8 +1,11 @@
 # Antidepressants
+
+*Symptoms and management of TCA overdose is covered under [Tricyclic Antidepressant Overdose](tricyclic_antidepressant_overdose.md).*
+
 Antidepressant drugs include:
 * Tricyclic Antidepressants (TCAs)  
 Mechanism of action by multiple effects, including:
-  * Inhibit reuptake of NA and 5-HT
+  * Competitively inhibit reuptake of NA and 5-HT
   * Muscarinic antagonism  
   Leads to anticholinergic side effects (dry mouth, blurred vision, constipation, urinary retention).
   * H<sub>1</sub> and H<sub>2</sub> antagonism
@@ -20,8 +23,8 @@ Mechanism of action by multiple effects, including:
 |**Class**|TCA|SSRI|
 |**Uses**|Depression, treatment of chronic pain and trigeminal neuralgia|Depression, anxiety|
 |**Absorption**|High PO bioavailability|High PO bioavailability
-|**Distribution**|Highly lipid soluble: High V<sub>D</sub>|Highly protein bound, high V<sub>D</sub>
-|**Metabolism**|Hepatic with active metabolites and large interpatient variability|Hepatic with non-linear kinetics
+|**Distribution**|Highly lipid soluble with High V<sub>D</sub>. Very highly protein bound - leads to interactions with warfarin, digoxin, and aspirin|Highly protein bound, high V<sub>D</sub>
+|**Metabolism**|Hepatic with active metabolites. Large interpatient variability|Hepatic with non-linear kinetics
 |**Elimination**||Unaffected by renal impairment
 |**Resp**|Dry mouth
 |**CVS**|Postural hypotension, ↑ HR.<br>QT prolongation and widening QRS in overdose, with arrhythmia more likely when QRS exceeds 0.16s.|Less cardiotoxic than TCAs, may precipite serotonin syndrome
