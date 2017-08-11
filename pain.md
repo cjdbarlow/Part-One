@@ -114,7 +114,7 @@ The response to a painful stimulus requires a cascade of processes:
 ##Neuropathic Pain
 Pain due to a lesion of the somatosensory system, rather than a stimulus itself. Neuropathic pain is divided into:
 * Central neuropathic pain  
-From CNS injury, e.g. spinal cord injury or multiple sclerosis.
+From CNS injury, e.g. spinal cord injury, CVA, multiple sclerosis.
 * Peripheral neuropathic pain  
 Damage from:
     * Diabetes  
@@ -122,16 +122,7 @@ Damage from:
     * Trauma  
     Transected axons may regrow with endings that spontaneously fire or that have altered threshold potentials.
 
-
-
-
-
-
-
-
-
-
-A variety of different mechanisms exist:
+###Mechanisms of Neuropathic Pain
 * Neuroma  
 Healing of damaged nerves leads to neuroma formation. Neuromas:
   * Are more sensitive to painful stimuli
@@ -139,8 +130,6 @@ Healing of damaged nerves leads to neuroma formation. Neuromas:
   * May sprout and innervate local tissues  
   Movement of these tissues may lead to pain.
 * Windup
-
-  
 * Phantom limb pain  
 Neurons damaged in removal of a limb develop additional synapses, leading to phantom sensations.
       
