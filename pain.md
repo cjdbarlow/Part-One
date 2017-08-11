@@ -81,9 +81,9 @@ Impulses are conducted by two types of **primary afferent fibres**:
 The response to a painful stimulus requires a cascade of processes:
 * **Activation of nociceptors**  
   Membrane depolarisation in response to stimulus. If the stimulus is great enough to reach the threshold potential, an action potential is generated.
-    * NSAIDS reduce nociceptor mediated inflammation
-    * Opiates act on peripheral MOP receptors
-    * Local anaesthetics prevent signal propagation
+    * **NSAIDS** reduce nociceptor mediated inflammation
+    * **Opiates** act on peripheral MOP receptors
+    * **Local anaesthetics** prevent signal propagation
 * **Synapse in the dorsal horn**  
   Input from both Aδ and C fibres, and descending interneurons.
     * Descending inhibitory input reduces nociceptive transmission  
@@ -93,20 +93,25 @@ The response to a painful stimulus requires a cascade of processes:
       * Arousal
       * Opioid receptors  
       Particularly MOP (pre- and post-synaptically).
+        * **Opioids** act presynaptically to reduce Substance P and glutamine release.
       * α<sub>2</sub> receptors  
-      Clonidine and endogenous catecholamines.
+      **Clonidine**, **tricyclic antidepressants**, **noradrenaline-reuptake inhibitors**, and endogenous catecholamines.
+      * **Gabapentin and pregabalin** inhibit presynaptic neurotransmitter release
     * **Wide dynamic range** neurones  
     Receive afferent input from chemical, thermal, and mechanoreceptors.  
       * Typically more difficult to stimulate
       * Important in **wind-up**  
       Mediated by NMDA agonism.
+        * **Ketamine** reduces windup and central sensitisation
       * Lead to secondary hyperalgesia
       * Lead to allodynia  
       Via additional synpases to sensory neurones in lamina III and IV.
-  * Interneuron synapses with a **secondary afferent** fibre  
-  Secondary afferents:
+  * Interneuron synapses with a **second-order neurones** fibre  
+  These secondary afferents:
     * Cross within 1-2 vertebral segments and ascends in the spinothalamic tract
     * Receives input from descending fibres
+    * Opioids act post-synaptically to hyperpolarise second-order neurones
+
   
     
 * **Reflex arc**  
