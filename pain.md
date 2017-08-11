@@ -1,19 +1,50 @@
 # Pain
 > Describe the physiology of pain, including the pathways and mediators
 
-Pain is an "unpleasant sensory or emotional experience associated with actual or potential tissue damage."
 
-Pain can be broadly classified by aetiology and chronicity:
-* **Nociceptive pain**  
-  Stimulation of nociceptors by noxious stimuli.
-* **Visceral pain**  
-* **Neuropathic pain**  
-  Nervous system dysfunction.
-* **Chronic pain**  
-  Pain that is no longer due to the initial insult.
+
+
+Key definitions:
+* **Pain**  
+Pain is an "unpleasant sensory or emotional experience associated with actual or potential tissue damage." Pain can be broadly classified by aetiology and chronicity:
+  * **Nociceptive pain**  
+    Stimulation of nociceptors by noxious stimuli.
+  * **Visceral pain**  
+  * **Neuropathic pain**  
+    Nervous system dysfunction.
+  * **Chronic pain**  
+    Pain that is no longer due to the initial insult.
+    
+    
+* **Hyperalgesia**  
+Increased response to a normally painful stimulus.
+  * Primary hyperalgesia  
+  Local reduction in pain threshold.
+  * Secondary hyperalgesia  
+  Hyperalgesia away from the site of injury due to alteration in spinal cord signaling.
+  
+  
+* **Allodynia**  
+Painful response to a normally painless stimuli. Occurs due to pathological synapse between second-order neurones in the spinal cord.
+
+* **Anaesthesia dolorosa**  
+Pain in an area which is anaesthetised.
 
 ##Peripheral Nociception
-Nociceptors can be **stimulated** or **sensitised** by chemical, mechanical, or thermal signals. Stimulation initiates a nervous impulse, whilst sensitisation increases a receptors sensitivity to a stimulating mediator. Some key mediators include:
+Nociceptors are receptors which respond to a noxious stimulus. Nociceptors:
+* Can be **stimulated** or **sensitised** by:
+  * Chemical signals  
+  See table.
+  * Mechanical signals
+    * Shear stress
+  * Thermal signals
+    * Hot nociceptors activate above 43°C
+    * Cold nociceptors activate below 26°C
+* Stimulation initiates a nervous impulse
+* Sensitisation increases a receptors sensitivity to a stimulating mediator  
+
+
+Key chemical stimulating and sensitising mediators include:
 
 |Stimulating Mediators|Sensitising Mediators|
 |--|--|
@@ -51,7 +82,7 @@ The response to a painful stimulus requires a cascade of processes:
     Pain perception occurs in the somatosensory cortex.
 
 ##Neuropathic Pain
-Pain caused by a lesion of the somatosensory system, rather than a stimulus itself. A variety of different mechanisms exist:
+Pain due to a lesion of the somatosensory system, rather than a stimulus itself. Neuropathic pain is divided into:
 * Central neuropathic pain  
 From CNS injury, e.g. spinal cord injury or multiple sclerosis.
 * Peripheral neuropathic pain  
@@ -60,6 +91,38 @@ Damage from:
     Ischaemia of Schwann cells causes demyelination, causing the exposed axon to generate action potentials inappropriately.
     * Trauma  
     Transected axons may regrow with endings that spontaneously fire or that have altered threshold potentials.
+
+
+
+
+
+
+
+
+
+
+A variety of different mechanisms exist:
+* Neuroma  
+Healing of damaged nerves leads to neuroma formation. Neuromas:
+  * Are more sensitive to painful stimuli
+  * Cause spontaneous pain
+  * May sprout and innervate local tissues  
+  Movement of these tissues may lead to pain.
+* Windup
+
+  
+* Phantom llimb pain  
+Neurons damaged in removal of a limb develop additional synapses, leading to phantom sensations.
+      
+
+
+
+###Features of Neuropathic Pain
+Neuropathic pain is associated with:
+* Injury or disease that causes nerve injury
+* Burning or electrical quality
+* Reduced or absent sensation
+* Poor response to typical analgesia
 
 ###Chronic Regional Pain Syndrome
 Damage to the SNS can lead to abnormalities in autonomic function:
@@ -93,3 +156,6 @@ Ganong
 Power and Kam
 Chambers
 6. Halaszynski T. [Influences of the Aging Process on Acute Perioperative Pain Management in Elderly and Cognitively Impaired Patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3684333/). The Ochsner Journal. 2013;13(2):228-247.
+Merskey & Bogduk. Classification of Chronic Pain. 1994
+Melzack R, Wall PD. Pain mechanisms: A new theory
+Gibson S. Pathophysiology of Pain.
