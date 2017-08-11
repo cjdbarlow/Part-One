@@ -12,8 +12,10 @@ Dietary iron comes in two forms:
 * Haeme groups  
 Directly absorbed via specialised transport proteins.
 * Dietary iron salts  
-Only ferric (Fe<sup>3+</sup>) can be absorbed by enterocytes. Ferrous (Fe<sup>2+</sup>) iron is reduced to ferric iron by stomach acid, which facilitates its absorption.
-  * Reduced acidity of the stomach will reduce the absorption of ferrous iron
+  * Ferrous (Fe<sup>2+</sup>) iron is soluble, and is absorbed via facilitated diffusion across the enterocyte membrane
+    * Reduced acidity of the stomach will reduce the absorption of ferrous iron
+  * Ferric (Fe<sup>3+</sup>) iron precipitates when pH > 3, and so cannot be absorbed independently by the small bowel.
+    * A pathway may exist for absorption of ferric iron from soluble chelates
 
 
 * Once in the enterocyte, iron can be:
