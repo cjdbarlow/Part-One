@@ -6,14 +6,18 @@
 
 Key definitions:
 * **Pain**  
-Pain is an "unpleasant sensory or emotional experience associated with actual or potential tissue damage." Pain can be broadly classified by aetiology and chronicity:
-  * **Nociceptive pain**  
-    Stimulation of nociceptors by noxious stimuli.
-  * **Visceral pain**  
-  * **Neuropathic pain**  
+Pain is an "unpleasant sensory or emotional experience associated with actual or potential tissue damage." Pain can be broadly classified by:
+  * Aetiology
+    * **Nociceptive pain**  
+      Stimulation of nociceptors by noxious stimuli.
+    * **Visceral pain**  
+    * **Neuropathic pain**  
     Nervous system dysfunction.
-  * **Chronic pain**  
-    Pain that is no longer due to the initial insult.
+  * Duration
+    * Acute pain  
+    Pain due to symptoms of current pathology.
+    * **Chronic pain**  
+    Pain occurring after the pathological process has resolved.
     
     
 * **Hyperalgesia**  
@@ -55,9 +59,21 @@ Key chemical stimulating and sensitising mediators include:
 |5-HT|Calcitonin GRP
 |Bradykinin|||
 
+###Nociceptors
 Impulses are conducted by two types of **primary afferent fibres**:
-* Aδ fibres are **2-5μm** diameter **myelinated** fibres that conduct sharp pain at 40m.s<sup>-1</sup>. They mediate initial reflex responses to acute pain.
-* C fibres are **<2μm** diameter **unmyelinated** fibres that conduct dull pain at 2m.s<sup>-1</sup>
+* Aδ fibres:
+  * Small (~**2-5μm** diameter)
+  * **Myelinated**
+  * Conduct sharp pain at up to 40m.s<sup>-1</sup>  
+  * Mediate initial reflex responses to acute pain
+  * Synapse in laminae I in the DRG  
+  Substance P is the neurotransmitter at the NK1 receptor.
+* C fibres:
+  * **<2μm** diameter
+  * **Unmyelinated**
+  * Conduct dull pain at 2m.s<sup>-1</sup>
+  * Synapse in laminae II in the DRG  
+  Substance P is the neurotransmitter at the NK1 receptor.
 
 ###Gate Theory
 Aβ 'touch' fibres stimulate inhibitory interneurones in the dorsal horn, which cause **descending inhibition** and prevent signals from peripheral C fibres from rising ascending to the thalamus. Stimulation of touch neurons 'closes the gate' and reduces pain sensation.
@@ -66,14 +82,28 @@ Aβ 'touch' fibres stimulate inhibitory interneurones in the dorsal horn, which 
 ##Response to a Painful Stimulus
 The response to a painful stimulus requires a cascade of processes:
 * **Activation of nociceptors**  
-  Respond to either mechanical, chemical, or thermal stimulation, causing membrane depolarisation. If the stimulus is great enough to reach the threshold potential, an action potential is generated.
-    * Upregulation of receptor sensitivity is associated with neuropathic pain
-
-
+  Membrane depolarisation in response to stimulus. If the stimulus is great enough to reach the threshold potential, an action potential is generated.
 * **Synapse in the dorsal horn**  
-  Aδ and C fibres synapse with an **interneuron** in the dorsal horn. In addition to innervation from peripheral fibres, the interneuron receives input from **descending fibres** from the brain which can increase or decrease its sensitivity. This is one mechanism for descending inhibition (or sensitisation).
-
-    This interneuron then synapses with a **secondary afferent** fibre, which crosses within 1-2 vertebral segments and ascends in the spinothalamic tract. The secondary afferent **also receives input from descending fibres**.
+  Input from both Aδ and C fibres, and descending interneurons.
+    * Descending inhibitory input reduces nociceptive transmission  
+    Basis of "gate control" theory. Descending input increased with:
+      * Arousal
+      * Opioid receptors  
+      Particularly MOP (pre- and post-synaptically).
+      * α<sub>2</sub> receptors  
+      Clonidine and endogenous catecholamines.
+    * **Wide dynamic range** neurones  
+    Receive afferent input from chemical, thermal, and mechanoreceptors.  
+      * Typically more difficult to stimulate
+      * Important in **wind-up**  
+      Mediated by NMDA agonism.
+      * Lead to secondary hyperalgesia
+      * Lead to allodynia  
+      Via additional synpases to sensory neurones in lamina III and IV.
+  * Interneuron synapses with a **secondary afferent** fibre  
+  Secondary afferents:
+    * Cross within 1-2 vertebral segments and ascends in the spinothalamic tract
+    * Receives input from descending fibres
   
     
 * **Reflex arc**  
@@ -111,7 +141,7 @@ Healing of damaged nerves leads to neuroma formation. Neuromas:
 * Windup
 
   
-* Phantom llimb pain  
+* Phantom limb pain  
 Neurons damaged in removal of a limb develop additional synapses, leading to phantom sensations.
       
 
