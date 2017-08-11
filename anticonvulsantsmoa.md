@@ -4,23 +4,41 @@
 Anticonvulsants work via a number of different mechanisms:
 
 ##Sodium Channel Blockers
-These drugs stabilise the inactive state of the channel, preventing return to the active state which prevents generation of further action potentials. This prevents post-tetanic potentiation and limits the development of seizure activity. These drugs may also have Class I antiarrhythmic properties, as a consequence of their Na<sup>+</sup> blocking effect.
-
-Sodium channel blockers include:
-* Phenytoin
-* Carbamazepine
-* Lamotrigine.
+Sodium channel blockers:
+* Stabilise the inactive state of the channel, preventing return to the active state and prevent generation of further action potentials  
+This halts post-tetanic potentiation and limits the development of seizure activity.
+* May also have Class I antiarrhythmic properties  
+Due to Na<sup>+</sup> blocking effects.
+* Include:
+    * Phenytoin
+    * Carbamazepine
+    * Lamotrigine
 
 ##GABA Mediators
-GABA is the key inhibitory neurotransmitter in the CNS. GABA mediators work in some way to increase the effect of GABA, either as direct GABA-receptor agonists (benzodiazepines and phenobarbital), GABA reuptake inhibition (Tiagabine), or as GABA transaminase inhibitors (vigabatrin).
-
-Sodium Valproate may increase GABA synthesis.
+GABA is the key inhibitory neurotransmitter in the CNS. GABA mediators:
+* Enhance the effect of GABA  
+Multiple potential mechanisms:
+    *  Direct GABA-receptor agonists  
+    e.g. Benzodiazepines and phenobarbital.
+    * Positive allosteric modulation  
+    e.g. Propofol and thiopentone.
+    * GABA reuptake inhibition  
+    e.g. Tiagabine.
+    * GABA transaminase inhibition  
+    e.g. Vigabatrin.
+    * Increase GABA synthesis  
+    e.g. Sodium Valproate.
 
 ##Glutamate Blockers
-Glutamate is an important CNS excitatory neurotransmitter. Glutamate antagonists have little use in practice due to the side effect profile, which includes psychosis and hallucinations. Glutamate blockers include topiramate.
+Glutamate is an important CNS excitatory neurotransmitter. Glutamate antagonists:
+* Are generally avoided due to their side effect profile, which includes psychosis and hallucinations
+* Include topiramate
 
 ##Other Agents
-Ironically gabapentin and pregabalin do not appear to mediate GABA, but they do have anticonvulsant properties via their inhibition of excitatory α<sub>2</sub>δ voltage-gated calcium channels in the CNS.
+Gabapentin and pregabalin:
+* Do not appear to mediate GABA
+* Inhibit of excitatory α<sub>2</sub>δ voltage-gated calcium channels in the CNS  
+This gives them anticonvulsant properties.
 
 
 ---
