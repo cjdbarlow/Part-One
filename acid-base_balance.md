@@ -76,3 +76,4 @@ Secreted H<sup>+</sup> may also combine with a filtered buffer (e.g. PO<sub>4</s
 2. ANZCA Feb/April 2012
 3. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
 4. [Acid-Base Online Tutorial, University of Conneticut](http://fitsweb.uchc.edu/student/selectives/TimurGraham/Bicarbonate_reabsorption.html)
+5. Brandis, K. [Renal Regulation of Acid-Base Balance](http://www.anaesthesiamcq.com/AcidBaseBook/ab2_4b.php), in 'Acid-base pHysiology'.
