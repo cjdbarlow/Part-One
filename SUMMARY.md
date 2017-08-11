@@ -231,6 +231,7 @@
   * [Scavenging](scavenging.md)
   * [Vaporisers](vaporisers.md)
   * [Diathermy](diathermy.md)
+  * [Lasers](lasers.md)
   * [Supplemental Oxygen](supplemental-oxygen.md)
 * [Procedural Anatomy](subclavian_vein.md#id)
   * [Subclavian Vein](subclavian_vein.md)
