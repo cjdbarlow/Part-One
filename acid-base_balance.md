@@ -54,10 +54,7 @@ Reabsorption of bicarbonate involves several steps:
 
 This complicated process allows HCO<sub>3</sub><sup>-</sup> to be moved from the tubule to the tubular cell and then to the capillary. **There is no elimination of H<sup>+</sup>** by this method - the purpose of H<sup>+</sup> secretion is to facilitate the **reabsorption of HCO<sub>3</sub><sup>-</sup>** into the tubular cell.
 
-##Bound to Filtered Buffers
-Secreted H<sup>+</sup> may also combine with a filtered buffer (e.g. PO<sub>4</sub><sup>3-</sup>). **These H<sup>+</sup> ions are not reabsorbed**. About **36mmol** of H<sup>+</sup> is eliminated with filtered PO<sub>4</sub><sup>3-</sup> each day, with each PO<sub>4</sub><sup>3-</sup> binding **two** H<sup>+</sup> ions.
-
-###Ammonia
+##Ammonia
 Glutamine provides a mechanism for elimination of a large number of H<sup>+</sup> ions:
 * This is important in:
   * Elimination of excess metabolic acid
@@ -65,7 +62,13 @@ Glutamine provides a mechanism for elimination of a large number of H<sup>+</sup
 * This occurs via:
   * Filtered glutamine is absorbed into **proximal tubular cells** and metabolised to NH<sub>4</sub><sup>+</sup> (ammonium) and HCO<sub>3</sub><sup>-</sup>
   * HCO<sub>3</sub><sup>-</sup> diffuses into blood, and the NH<sub>4</sub><sup>+</sup> is secreted into the tubule via the NH<sub>4</sub><sup>+</sup>-Na<sup>+</sup> antiporter and eliminated in urine  
-  As the $$NH_3 + H^+ \Leftrightarrow NH_4$$ reaction has a pKa of 9.2, it cannot act as an effective urinary buffer.
+  * The $$NH_3 + H^+ \Leftrightarrow NH_4$$ reaction has a pKa of 9.2 meaning:
+    * Ammonia cannot act as an effective urinary buffer
+    * Ammonia is not a **titrateable acid**, as it will not release H<sup>+</sup> ions as urinary pH increases  
+    This means filtered ammonia does not contribute to the lower limit of urinary pH (4.4), which is why it is so important in the renal correction of severe metabolic acidosis.
+
+##Bound to Filtered Buffers
+Secreted H<sup>+</sup> may also combine with a filtered buffer (e.g. PO<sub>4</sub><sup>3-</sup>). **These H<sup>+</sup> ions are not reabsorbed**. About **36mmol** of H<sup>+</sup> is eliminated with filtered PO<sub>4</sub><sup>3-</sup> each day, with each PO<sub>4</sub><sup>3-</sup> binding **two** H<sup>+</sup> ions.
 
 ---
 ##References
