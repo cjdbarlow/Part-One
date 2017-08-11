@@ -16,15 +16,51 @@ Mechanism of action by multiple effects, including:
   * Preferred over TCAs as:
     * Similar effectiveness
     * Better side effect profile
-    
+* Monoamine Oxidase Inhibitors (MAO-Is)
+  * Inhibit monoamine oxidase on external mitochondrial membrane, increasing the level of amine neurotransmitters in the CNS and PNS  
+  Two enzymes exist:
+    * MAO-A
+      * Dominant enzyme in CNS
+      * Acts on serotonin, noradrenaline, adrenaline
+    * MAO-B
+      * Dominant in GIT and platelets
+      * Responsible for 75% of MAO activity
+      * Preferential metabolism of non-polar amines
+  * MAO-Is classified by their mechanism and selectivity
+    * Nonselective, irreversible  
+    Bind covalently to the enzyme, permanently inactivating it.
+      * May lead to hypertensive crisis when catecholamine levels increased
+        * Tyramine in food  
+        Metabolised by MAO-B.
+        * Indirectly acting **sympathomimetics**  
+        Absolutely contraindicated.
+      * Risk of serotonin syndrome with serotonin reuptake inhibitors
+      * Include:
+        * Phenelzine
+        * Isocarboxazid
+        * Tranylcypromine
+      * Enzyme levels will take 2-3 weeks to recover following cessation
+    * MAO-A selective, reversible
+      * Hypertensive crisis is less common
+        * MAO-B unaffected - tyramine is metabolised
+        * Short acting  
+        Enzyme levels normalise after 24 hours of cessation.
+      * Include:
+        * Moclobemide
+    * MAO-B selective
+      * Much lower risk of hypertensive crisis
+      * Include:
+        * Selegiline
+  * Discontinuation syndrome may occur if abruptly ceased
+      
 
-|Property|Amitriptyline|Fluoxetine|
+|Property|Tricyclic Antidepressants|Selective Serotonin Reuptake Inhibitors|Monoamine Oxidase Inhibitors
 |--|--|
-|**Class**|TCA|SSRI|
-|**Uses**|Depression, treatment of chronic pain and trigeminal neuralgia|Depression, anxiety|
+|**Example**|Amitryptiline|Fluoxetine|
+|**Uses**|Depression, treatment of chronic pain and trigeminal neuralgia|Depression, anxiety|Treatment resistant depression. Now largely superseded due to side-effect profile
 |**Absorption**|High PO bioavailability|High PO bioavailability
 |**Distribution**|Highly lipid soluble with High V<sub>D</sub>. Very highly protein bound - leads to interactions with warfarin, digoxin, and aspirin|Highly protein bound, high V<sub>D</sub>
-|**Metabolism**|Hepatic with active metabolites. Large interpatient variability|Hepatic with non-linear kinetics
+|**Metabolism**|Hepatic with active metabolites. Large interpatient variability|Hepatic with non-linear kinetics <br><br>Venlafaxine does not affect CYP450 enzymes.
 |**Elimination**||Unaffected by renal impairment
 |**Resp**|Dry mouth
 |**CVS**|Postural hypotension, ↑ HR.<br>QT prolongation and widening QRS in overdose, with arrhythmia more likely when QRS exceeds 0.16s.|Less cardiotoxic than TCAs, may precipite serotonin syndrome
@@ -32,7 +68,7 @@ Mechanism of action by multiple effects, including:
 |**Renal**|Urinary retention||
 |**GU**|Sexual dysfunction|Greater incidence of sexual dysfunction compared with TCAs
 |**GIT**|Constipation|Greater incidence of N/V compared with TCAs
-|**Other**|Multiple compex drug interactions, including arrhythmias and variable BP with sympathomimetics, central anticholinergic syndrome, serotonin syndrome, and seizures.
+|**Other**|Multiple compex drug interactions, including arrhythmias and variable BP with sympathomimetics, central anticholinergic syndrome, serotonin syndrome, and seizures. <br><br>↑ Sensitivity to catecholamines - suggest avoiding:<br>-Indirectly acting sympathomimetics<br>-Ketamine<br>-Surgical stress|Continue during perioperaive period to avoid risk of discontinuation syndrome.
 
 
 
@@ -58,3 +94,4 @@ Serotonin syndrome is typically self-limiting and resolves with cessation of the
 ##References
 1. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
 2. Altamura AC, Moro AR, Percudani M. [Clinical pharmacokinetics of fluoxetine.](https://www.ncbi.nlm.nih.gov/pubmed/8194283) 1994 Mar;26(3):201-14.
+3. Bromhead H, Feeney A. [Anaesthesia & Psychiatric Drugs - Antidepressants](http://www.frca.co.uk/Documents/164%20Anaesthesia%20&%20psychiatric%20drugs%20part%201%20-%20antidepressants.pdf). Anaesthesia Tutorial of the Week (164). 2009.
