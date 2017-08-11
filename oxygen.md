@@ -13,7 +13,7 @@
 |**Elimination**|Exhalation as CO<sub>2</sub>, or combined with H<sub>2</sub>O to produce HCO<sub>3</sub><sup>-</sup> and eliminated in urine|
 |**Resp**|↓ Respiratory drive in all individuals. May result in a fatal ↓ in those dependent on hypoxic drive. **Pulmonary toxicity** due to free radial formation when PiO<sub>2</sub>>0.6bar - pneumonitis/ARDS due to lipid peroxidation of the alveolar-capillary membrane. Absorption atelectasis.|
 |**CVS**|Improvement in all CVS parameters in the setting of hypoxia. However, hyperoxia ↓ CO, ↓PVR, ↓PAP, and causes coronary vasoconstriction with prolonged administration|
-|**CNS**|CNS O<sub>2</sub> toxicity, typically at pressures >1.6 bar though this is variable. Presents with a variety of neurological symptoms, progressing to disorientation and seizure|
+|**CNS**|CNS O<sub>2</sub> toxicity, typically at pressures >1.6 bar though this is variable. Presents with a variety of neurological symptoms, progressing to disorientation and seizure. Retrolental fibroplasia in neonates exposed to high FiO<sub>2</sub>.|
 |**Other**|Fire risk|
 
 ---
