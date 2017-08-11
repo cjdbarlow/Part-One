@@ -18,11 +18,11 @@ As the megakaryocyte cell volume increases, the cell wall invaginates and small 
 
 ##Contents
 * **α-granules**  
-  Contain fibrin, vWF, PDGF
+  Contain fibrin, vWF, PDGF.
 * **δ-granules**  
-    Contain 5-HT, ATP, ADP, and Ca<sup>2+</sup>
+    Contain 5-HT, ATP, ADP, and Ca<sup>2+</sup>.
 * **Contractile proteins**  
-    Facilitate platelet deformation when activated
+    Facilitate platelet deformation when activated.
 
 ##Activation
 * Platelets are activated by:
