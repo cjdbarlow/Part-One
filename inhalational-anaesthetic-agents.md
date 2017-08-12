@@ -217,7 +217,7 @@ Of agent in patient.
     * The time constant for removal of agent from the patient is a function of FRC and minute ventilation, i.e.  
     $$\tau = {FRC \over MV}$$
 
-Factors affecting patient washout from:
+Factors affecting volatile washout:
 * Brain-Blood and Tissue-Blood
     * Tissue:Blood coefficient of agent
     * Duration and depth of anaesthesia  
@@ -226,9 +226,9 @@ Factors affecting patient washout from:
     * Blood:gas coefficient of agent  
     Highly soluble agents will have an increased amount of drug dissolved in tissue, so a large resevoir of drug exists that will have to be removed.
     * Cardiac output  
-    Increased cardiac output increases elimination.
+    **Decreased** cardiac output **increases** elimination.
 * Alveolus-Air
-    * V<sub>A</sub>/FRC
+    * MV<sub>A</sub>/FRC  
     Increased alveolar ventilation increases elimination. 
 * Other factors
     * Metabolism of agent  
