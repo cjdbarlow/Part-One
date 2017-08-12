@@ -204,27 +204,40 @@ The difference in partial pressure of agent in the alveolus and venous blood is 
         * Fat has a much higher affinity for anaesthetic than muscle, but equilibrates very slowly due to the very low blood flow  
         This has a greater effect in obese people, especially during prolonged anaesthesia, as they have a longer equilibration time and therefore prolonged emergence.
 
-###Recovery from Anaesthesia
-Recovery is dependent on how quickly an inhalational agent can be eliminated from the effect site, and is affected by:
-* Drug factors
-    * Blood:gas partition coefficient  
+###Wash-out of Inhalational Agents
+Recovery is dependent on how quickly an inhalational agent can be eliminated from the effect site.
+
+This can graphed as the F<sub>A</sub>/F<sub>A0</sub> ratio over time, and is a component of:
+* Rapid washout  
+Of agent in circuit and FRC.
+    * The time constant for removal of agent from the circuit is a function of circuit volume and fresh gas flow, i.e.  
+    $$\tau = {CV \over FGF}$$
+* Slow washout  
+Of agent in patient.
+    * The time constant for removal of agent from the patient is a function of FRC and minute ventilation, i.e.  
+    $$\tau = {FRC \over MV}$$
+
+Factors affecting patient washout from:
+* Brain-Blood and Tissue-Blood
+    * Tissue:Blood coefficient of agent
+    * Duration and depth of anaesthesia  
+    Important for highly soluble agents used in long cases.
+* Blood-Alveolus
+    * Blood:gas coefficient of agent  
     Highly soluble agents will have an increased amount of drug dissolved in tissue, so a large resevoir of drug exists that will have to be removed.
-    * Metabolism  
-    Agents undergoing metabolism are eliminated more rapidly.
-    * Absorption into breathing system
-* Patient factors  
-    * V<sub>A</sub>  
-    Increased alveolar ventilation increases elimination.
     * Cardiac output  
     Increased cardiac output increases elimination.
-    * Percutaneous loss  
-    Loss of agent by diffusion from tissues into external environment.
-* Machine and case factors
-    * Flow rate  
-    Affect the amount of gas being rebreathed.
-    * Duration of anaesthetic
-    Important for highly soluble agents used in long cases.
-    * Depth of anaesthesia
+* Alveolus-Air
+    * V<sub>A</sub>/FRC
+    Increased alveolar ventilation increases elimination. 
+* Other factors
+    * Metabolism of agent  
+    Agents undergoing metabolism are eliminated more rapidly.
+    * Absorption of agent into circuit
+    * Percutaneous loss
+    Loss of agent by diffusion from tissues into external environment.    
+
+
 
 ###Alteration to Pharmacokinetics
 Increased rate of induction in children due to:
