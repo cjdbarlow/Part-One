@@ -11,7 +11,7 @@ Automatic blood pressure cuff.
 ##DINAMAP
 Components:
 * One cuff  
-Performs both arterial occlusion and measuremnet.
+Performs both arterial occlusion and measurement.
 * Tubing
 * Device for inflating the occlusive cuff and gradually deflating it
 * Pressure tranducer
@@ -66,3 +66,4 @@ When cuff pressure equals:
 ##References
 ANZCA July/August 2000
 Aston
+Dr Podcast
