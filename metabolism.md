@@ -185,14 +185,16 @@ These drugs have a rapid uptake and high capacity, so elimination is **perfusion
     Typically doubling liver blood flow will double hepatic clearance.
   * There is a **high variability** in plasma concentration between individuals due to the variation in liver blood flow
   * Drugs with high extraction ratios are generally independent of enzyme activity - decreasing enzyme activity from 99% to 95% has a minimal effect on hepatic clearance
-    * The **key exception** is **first pass metabolism**, as the above change will result in a five-fold difference in dose reaching the systemic circulation
+    * The **key exception** is **first pass metabolism**, as the above change will result in a five-fold difference in dose reaching the systemic circulation  
+    Therefore drugs with a high extraction ratio havelow PO bioavailability.
 
 
 * **Low extraction ratio**  
 Elimination is **capacity-dependent**.
   * Amount of free drug available for metabolism is greatly affected by the degree of protein binding
   * Metabolism is:
-    * Largely **independent of flow** 
+    * Largely **independent of flow**  
+    Drugs have good PO bioavailability.
     * **Dependent on hepatocyte function and protein binding**
     
 
