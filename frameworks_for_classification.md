@@ -41,6 +41,25 @@ Some questions lend themselves more easily to a particular structure than others
         * Idiopathic
         * Drug interactions
 
+##Describe Why Two Drugs are Used in Combination
+* Definition  
+Brief, of each drug.
+    * Consider the components of anaesthesia that each provides
+* Pharmacokinetics
+    * Interactions
+    * Relative onset
+    * Metabolism
+        * No effect/Induces/Inhibits
+    * Elimination
+* Pharmacodynamics
+    * Isobologram  
+    Synergistic/additive/antagonistic.
+    * Then list the effects of each drug, and how they are modified by the other
+        * e.g. if drugs are synergistic, then decreased doses will be required
+            * Increases beneficial effects
+            * Decreases adverse effects
+            
+
 ##Describe the Physiology of...
 * Respiratory
     * Bronchodilation/constriction
