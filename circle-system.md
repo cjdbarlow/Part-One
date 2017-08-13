@@ -33,6 +33,30 @@ To absorb CO<sub>2</sub>.
     * When the vapouriser is out-of-circuit, all fresh gas flow will pass through the vapouriser prior to entering the circle
 * A separate high-pressure high-flow oxygen flush, which bypasses the vapouriser
 
+###Soda Lime
+Soda lime:
+* Consists of granules of:
+    * 81% Ca(OH)<sub>2</sub>
+    * 4% NaOH
+    * 15% H<sub>2</sub>O
+    * Silicates  
+    Hardens granules.
+    * pH indicator  
+    Visual representation of uptake of CO<sub>2</sub> by soda-lime.
+        * Phenopthaliein  
+        Red to white.
+        * Ethyl violet  
+        White to purple.
+* Granules are 4-8 mesh in size
+    * Will pass through a mesh with 4 holes per square inch, but not 8
+    * Balance between surface area (speed/efficacy of reaction) and resistance to flow
+* Absorbs CO<sub>2</sub> by following reaction:
+    $$ CO_2 + H_2O \rightarrow H_2CO_3 \\  
+    H_2CO_3 + 2NaOH \rightarrow Na_2CO_3 + 2H_2O + Heat \\
+    Na_2CO_3 + Ca(OH)_2 \rightarrow CaCO_3 + 2NaOH + Heat$$
+        * This increases the pH of the soda lime, causing the pH indicator to change colour
+* 100g of soda lime can absorb ~26L of CO<sub>2</sub>
+
 ###Pros
 * Cheaper to operate
 * Conserves gases, heat, and moisture
