@@ -6,6 +6,7 @@ Non-invasive blood pressure measurements is performed with either a:
 Automatic blood pressure cuff.
 * Von Recklinghausen's oscillotonometer  
 "Manual" blood pressure cuff.
+    * Uses two cuffs, and therefore two tubes
 
 ##DINAMAP
 Components:

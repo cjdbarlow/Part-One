@@ -68,6 +68,9 @@ Ability of an organ to maintain homeostasis in the presence of dynamic physiolog
 A mixture of two substances that cannot be separated by fractional distillation, as each component shares same boiling point. This is typically temperature dependent.
 
 ##B
+* **Bathmotropy**  
+Degree of myocardial excitability. Used with either positive or negative bathmotropy.
+
 * **Boiling Point**  
 The temperature at which the vapour pressure of a liquid equals the environmental pressure surrounding the liquid.
     * Therefore boiling point decreases as environmental pressure falls, as there is less external pressure keeping molecules in their liquid state
