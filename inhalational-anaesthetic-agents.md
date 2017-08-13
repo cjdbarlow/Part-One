@@ -263,7 +263,8 @@ Increases P<sub>A</sub>, increasing P<sub>B</sub> and speed of onset.
 Reduces blood-gas solubility coefficients for some agents.
 * Increased CO  
 Reduces rate of rise of P<sub>A</sub>, reducing P<sub>B</sub> and therefore speed of onset.
-* Reduced MAC requirement
+* Reduced MAC requirement  
+Progesterone has some sedative properties.
 
 
 ###Alteration to Pharmacokinetics with Special Methods of Administration
