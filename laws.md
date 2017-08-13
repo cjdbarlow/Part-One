@@ -3,16 +3,16 @@ The ratio of dead space to tidal volume ventilation equations the arterial - mix
 $$ {V_D \over V_T} = {PaCO_2 - PE'CO_2 \over PaCO_2}$$
 
 ##Boyle's Law
-PV = K, i.e. pressure and volume are inversely related at constant temperature and pressure
+$$PV = K$$, i.e. pressure and volume are inversely related at constant temperature and pressure
 
 ##Charle's Law
-V = KT, i.e. volume and temperature are linearly related when pressure is constant.
+$$V = KT$$, i.e. volume and temperature are linearly related when pressure is constant.
 
-##Third Gas Laow
+##Third Gas Low
 $$P = k.T$$, i.e. pressure and temperature are linearly related when volume is constant.
 
 ##The Universal Gas Equation
-PV = nRT, i.e. combination of Boyle's, Charle's law combining each variable and the universal gas constant, R (8.13)
+$$PV = nRT$$, i.e. combination of Boyle's, Charle's law combining each variable and the universal gas constant, R (8.13)
 
 ##Henry's Law
 The number of molecules of dissolved gas is equal to the partial pressure of the gas at the surface of the liquid
