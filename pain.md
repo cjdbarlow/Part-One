@@ -168,7 +168,9 @@ Nervous System Changes:
   * Reduced range and speed of ANS responses
   * Increased resting sympathetic tone
 * **Central Nervous System**  
-  * Increased sensitivity to anaesthetic and analgesics
+  * Decreased pain perception
+  * Increased sensitivity to anaesthetic and analgesics  
+  Reach maximal pain more rapidly.
   * Degeneration of myelin  
   Subsequent cognitive dysfunction due to neuronal circuit dysfunction.
   * Generalised atropy
