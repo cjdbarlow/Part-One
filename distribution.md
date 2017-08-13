@@ -4,10 +4,16 @@
 
 Drug distribution is dependent on many factors, all of which can be related to Fick's Law of Diffusion:
 * **Concentration gradient**
+
 * **Tissue mass**
+
 * **Molecular Weight**  
 Larger molecules are less able to cross cell membranes, and so a greater portion will remain in the compartment they are delivered to.
+
+
 * **Lipid Solubility**
+
+
 * **Ionisation**  
 Ionised drugs are polar, and so are less lipid soluble.
   * Ionisation is a function of:
@@ -32,25 +38,43 @@ Ionised drugs are polar, and so are less lipid soluble.
         * Renal elimination  
           Urinary alkalinisation is used to accelerate elimination of acidic drugs, as they become ionised and trapped in urine.
     * Are typically renally excreted without undergoing metabolism
+    
+    
 * **Protein binding**  
-  * Almost all drugs have some degree of binding to plasma proteins:
-    * Acid and neutral drugs bind to **albumin**
-      * High capacity
-      * Two major binding sites
-        * Site I \(warfarin\)
-        * Site II \(diazepam\)
-    * Alkaline drugs bind to α1-acid glycoprotein
-      * Low capacity  
-      Typically results in lower total binding (compared to albumin) of alkaline drugs, despite its increased affinity.
-  * However, only unbound drugs are able to:
-    * Cross cell membranes
-    * Interact with receptors
-    * Undergo metabolism  
-    Reduced protein binding increases clearance of drugs with low **extraction ratios**.
-    * Be filtered by the kidney
+Proteins and drugs may be bound together by weak bonds: ionic, van der Waal's forces, and hydrogen.
+  * May bind to proteins in:
+    * Plasma
+      * **Albumin**  
+      Binds acid and neutral drugs.
+        * High capacity
+        * Two major binding sites (six total)
+          * Site I \(warfarin\)
+          * Site II \(diazepam\)
+      * **α1-acid glycoprotein**  
+      Binds basic drugs.
+        * Single binding site
+        * Low capacity  
+        Typically results in lower total binding (compared to albumin) of alkaline drugs, despite its increased affinity.
+      * Lipoprotein  
+      For lipid soluble drugs.
+    * Tissue
+    * Receptor
+  * Protein binding is important as:
+    * Only unbound drugs are able to:
+      * Cross cell membranes
+      * Interact with receptors
+      * Undergo metabolism  
+      Reduced protein binding increases clearance of drugs with low **extraction ratios**.
+      * Be filtered by the kidney
+    * Highly tissue bound drugs:
+      * Have a long duration of action
+      * Have a volume of distribution, prolonging their elimination  
+      * May build up in tissues, leading to adverse effects  
+      e.g. Corneal deposition, lung fibrosis.
   * Protein binding is affected by:
     * Affinity of drug for protein
-      * Ionised drugs do not bind to protein
+      * Ionised drugs do not bind to protein  
+      pH.
       * Competition between drugs for binding sites
     * Amount of protein
       * Disease    
@@ -59,10 +83,16 @@ Ionised drugs are polar, and so are less lipid soluble.
           Negative acute phase reactant.
         * Increased α1-acid glycoprotein    
           Acute phase reactant.
+      * Competition  
+      Source of pharmacokinetic interactions.
   * Protein binding *typically*:
     * Correlates with lipid solubility
     * Is important only when it is very high
+    * Results in a decreased V<sub>Dss</sub> when plasma binding is high
+    * Results in an increased V<sub>Dss</sub> when tissue binding is high
     * Is important in duration of action as it also relates to affinity for *tissue* proteins
+    
+    
 * **Regional blood flow**  
 Affects concentration gradients between blood and tissue, and is affected by cardiac output. Regions include:
   * Vessel Rich Group
