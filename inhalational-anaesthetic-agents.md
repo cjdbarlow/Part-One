@@ -225,8 +225,10 @@ Factors affecting volatile washout:
 * Blood-Alveolus
     * Blood:gas coefficient of agent  
     Highly soluble agents will have an increased amount of drug dissolved in tissue, so a large resevoir of drug exists that will have to be removed.
-    * Cardiac output  
+    * Alveolar Cardiac output  
     **Decreased** cardiac output **increases** elimination.
+        * Shunt  
+        Decreases elimination.
 * Alveolus-Air
     * MV<sub>A</sub>/FRC  
     Increased alveolar ventilation increases elimination. 

@@ -31,9 +31,7 @@ $$PO_2 = P_B \times FiO_2$$, where:
 * Therefore:  
 $$PO_2 = (P_B - P_{SVP \ of \ Water}) \times FiO_2$$, where:
   * $$P_B$$ and $$FiO_2$$ are unchanged
-
-
-* Therefore, $$PO_2$$ is **149mmHg**
+  * $$PO_2$$ is **149mmHg**
 
 
 ##Alveolar Gas
