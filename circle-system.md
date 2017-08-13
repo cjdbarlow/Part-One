@@ -1,10 +1,14 @@
 #Circle System
 
 The circle breathing system is a highly efficient system which:
+* Has several key advantages
+    * Preserves anaesthetic gases makes volatile anaesthesia cost-effective
+    * Preserves medical gases (oxygen) which is useful in resource-limited settings (e.g. prehospital to reduce oxygen consumption)
+    * Preserves heat and moisture
+    * Reduces fire risk  
+    Particularly with older agents.
 * Requires **rebreathing** of expired gases  
-    * CO<sub>2</sub> is actively removed
-    * Rebreathing of anaesthetic gases makes volatile anaesthesia cost-effective
-    * Rebreathing of medical gases is important in resource-limited settings (e.g. prehospital to reduce oxygen consumption)
+CO<sub>2</sub> is actively removed.
 * Is a closed-circuit system
     * The only gases which must be replaced are those:
         * Consumed by the patient
