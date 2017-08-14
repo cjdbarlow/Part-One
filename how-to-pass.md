@@ -113,12 +113,12 @@ Start before the written. There is a lot of crossover of skills between the viva
     * Take a break after the written exams, it is  exhausting
 
 ##The Bottom Line
-* Pick a date, and commit
+* Pick a date, and commit to it
 * Work out which times work best for you with respect to study  
 Different times will be better for different things. I found:
     * Days off (including weekends) were best for learning new content
     * Work days were for revising
-    * Post night shift was always a write-off
+    * Post night shift was a write-off
 * Maintain a positive attitude  
 Study groups are good for this - share the suffering!
 * Split large topics into managable chunks
@@ -131,4 +131,4 @@ Set aside time for relaxation, and don't feel guilty about it.
 
 ##References
 
-* This is based on a talk I gave at the 2016 VPECC Course, still raw from the CICM primary
+* This is based on a talk I gave at the 2016 [VPECC](http://www.vpecc.com/) Course, still raw from the CICM primary
