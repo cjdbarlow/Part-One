@@ -3,35 +3,30 @@
 Part One is a reference for trainees preparing for the CICM and ANZCA Primary Exams.
 * Part One **is**:
     * Designed to cover the *assessed* sections of the CICM and ANZCA curricula
-    * Designed to do so in enough detail to pass
+    * Designed to bring together information from a wide variety of sources  
+    In enough depth to pass.  
+        * Use it as a rough guide for the expected depth of knowledge required on a topic
+        * Use it to correct your written answers
+        * Use it to find information you might find difficult to find elsewhere
 * Part One **is not**:
     * A medical textbook
+    * The definitive guide to the primary exam  
+    Do not use it as a sole resource. Read widely.
     * A complete reference  
     There will be errors. If you find any, please let us know.
     
 
-
-##How to Use Part One
-I will have benefited far more from writing these notes than you will through reading them. However, they should be useful:
-* As a quick reference for something you need an answer to quickly  
-The search function is pretty good.
-* As a rough guide for the expected depth of knowledge required on a topic
-* As a method to correct your own written exam answers
-
-
-**Don't** use them:
-* As a replacement for your own study
-* As a sole resource
-
-###Layout
+##Layout
 The book is divided into three sections:
 * **Curriculum**  
 Covers statistics, physiology, equipment and measurement, and anatomy.
-    * Pages are laid out using the section and topic titles and the order from the CICM curriculum (it is laid out better than the ANZCA curriculum)
+    * Pages are laid out using the section title, topic titles, and order from the CICM curriculum  
+    > A grey block indicates a topic is from the CICM curriculum OR both curricula
     * When a topic is only examinable in the ANZCA curriculum, it has been slotted in somewhere sensible
+    > <p style="color:purple";>A purple block indicates a topic is ONLY from the ANZCA curriculum</p>
     * Topics covered by the page are listed at the beginning of each page
-> A grey block indicates a topic is from the CICM curriculum OR both curricula
-> <p style="color:purple";>A purple block indicates a topic is ONLY from the ANZCA curriculum</p>
+
+
 
         
 * **Pharmacopia**  
