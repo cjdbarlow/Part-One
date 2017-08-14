@@ -99,21 +99,18 @@ This is the key to the exam. I suggest:
         This would take me ~1-2 hours for a new curriculum area.
     * Once you start doing questions which you know something about (having answered one similar previously), move up to three questions in 24 minutes.  
     This teaches you to keep time, which is vital for success in the SAQ.
-        * I would still check each answer afterwards, look over that area of the curriculum, and revise and refine my notes
+        * Still check each answer afterwards, look over that area of the curriculum, and revise and refine your notes
     * When you find yourself running out of time before you run out of things to write, give yourself 9 minutes per question  
     I would suggest not going beyond this - you need to allocate your time strategically on the day, and writing 
-    * As this gets easier, start doing 6 or more questions a
+    * As this gets easier, start doing 6 or more questions at a time to train your writing hand
+    * Do one or two full exams to time before game day <br><br>
 3. **Do a *lot* of flashcards**  
-I did my flashcard deck every day (I missed ~5 days in 6 months). This would typically take about an hour. Flashcards are less demanding than doing questions, and a simple form of revision.
-    * This is the absolute best way of rote learning facts, in my opinion
-    * I used [anki](http:\\www.ankisrs.net), but use whatever works for you
-
-
-* Did practice vivas
-    * These began about a month before the written
-    This is absolutely worthwhile doing - there is a lot of crossover of skills between the viva and the written. Both require a structured approach, and good content knowledge.
-    * They resumed about 2 weeks after the written  
-    Take a break after the written exams, they are exhausting.
+Flashcards are less demanding than doing questions, and a simple form of revision.
+    * They are the absolute best way of rote learning facts (in my opinion)
+    * I used [anki](http:\\www.ankisrs.net), but use whatever works for you  
+4. **Do practice vivas**  
+Start before the written. There is a lot of crossover of skills between the viva and the written. Both require a structured approach, and good content knowledge.
+    * Take a break after the written exams, it is  exhausting
 
 ##The Bottom Line
 * Pick a date, and commit
