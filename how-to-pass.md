@@ -3,34 +3,38 @@
 The first part exam is:
 * Painful  
 The knowledge demanded is huge, and cannot be avoided.
-* Eminently achievable  
+* **Eminently achievable**  
 Remember, it is not impossible - **everybody before you has completed it**.
 
 ##Plan for Success
-This is not an exam you want to have to sit more than once - try to give yourself the best chance of success the first time round.
+This is not an exam you want to have to sit more than once - try to give yourself the best chance of success the first time round:
 
-Commit yourself early:
-* Decide when you are going to sit
+* Commit yourself early  
+Decide when you are going to sit:
     * Pick a date ~9 months in advance
         * 6 months is probably pushing it
         * 9 months is achievable
         * 12 months is almost too long - you will lose motivation and knowledge will fade.
     * Accept that the time between now and the exam is not going to be the best time of your life
-    * Consider paying the money as soon as possible - lock yourself in
+    * Consider paying the money as soon as possible - lock yourself in  
     * Your family and friends will forgive you, eventually
-
-
-Don't lose faith:
-* There will be times that you question why you have to learn this
-    * Accept that much of **this exam is an academic hazing** (rather than learning clinically applicable knowledge) you must pass through on your path to fellowship
+* Don't lose faith  
+    * There will be times that you question why you have to learn this
+    * Those are very legitimate feelings
+    * Accept that part of **this exam is an academic hazing** you **must** pass through on your path to fellowship  
 
 ##Be Strategic
 The curriculum provided is overwhelming, and probably not achievable for most of us. Have a plan about how you will approach it:
 * Have a timetable
     * Content to cover each week  
-    I found that setting myself a weekly goal would allow me to plan around day-to-day variations (finishing late, good days, bad days, etc), whilst the daily timetable was often mangled by life, creating unnecessary stress.
+        * I found setting a weekly goal would allow me to plan around day-to-day variations (finishing late, good days, bad days, etc)
+        * A daily timetable was often mangled by life, creating unnecessary stress
     * Time to start viva practice  
-    Before the written.
+    Aim to start before the written.
+        * Topics that you can't explain, you probably don't understand fully  
+        This may not be apparent until you try and explain it.
+
+
 
 * Know the enemy
     * Syllabus  
@@ -41,44 +45,65 @@ The curriculum provided is overwhelming, and probably not achievable for most of
         Including the style of answers - see [the SAQ](./the-saq.md).
         * Style of vivas  
             * Do practice vivas  
-                * Record yourself, so you know your tics.
+                * Record yourself, so you know your tics
                 * Do a dress rehearsal  
                 Make sure your suit still fits before the day.
         * Graphs  
-        Know the common ones.
+        Be able to draw them while talking about them.
+
 
 * **Do past questions**  
-I cannot stress this enough.
+I cannot stress this enough. This is **the** key to preparing for this exam.
     * Past questions:
         * Teach you appropriate structure
         * Teach you to write to time
         * Ensure you learn the content in the way it will be recalled
-        * Ensure you don't waste time learning things that will not be examined
+        * Ensure you don't waste time learning things that are unlikely to be examined  
         When I sat the CICM exam, I had done almost all the past questions, which covered ~60% of the curriculum. There was 1 (out of 24) of the SAQs on a topic I had not answered an SAQ on before.
+    * Do questions to time  
+    Keeping to time is **vital**.
+     * It is almost impossible to write a perfect answer in 10 minutes
+     * In many cases you will need to move on to the next question despite still having things to say
+     * Remember that the marking follows a sigmoid distribution
+         * The first 30% of marks for a question are easy to get
+         * The last 30% of marks are very difficult to get
+         * Therefore, the most efficent use of your time is to aim to get ~60-70% of marks for each question.
+         
 
 * **Remember the pass mark is 50%**  
-You are not expected to know everything. Breadth tends to be rewarded over depth.
-
-###What I did
-* Read Power & Kam to get an overview of the topic  
-I would now avoid Power & Kam (it has a lot of errors), and instead read Basic Physiology for the Anaesthetist, by Chambers, Huang, and Matthews. Or this site.
+    * You are not expected to know everything
+    * Breadth tends to be rewarded over depth
+    * It is normal to sit the exam and have a question you have not thought about before
 
 
-* Started doing practice questions:  
-I did practice questions (and note making) on my days off.
-    * I started doing one question at a time  
-    In the beginning, I didn't know enough to write for 10 minutes.
-        * After doing the question, I would check my answer against available past answers  
-        This forces active learning, and is far more efficient than reading.
-        * I would then study the curriculum areas that question covered, and make notes  
-        This would take ~1-2 hours for a new curriculum area.
-    * Once I started doing questions which I knew about (having answered one similar previously), I moved up to three questions in 30 minutes  
-    This begins to teach you to keep time.
-        * I would still check each answer afterwards, look over that area of the curriculum, and revise and refine my notes.
-    * When this became easier, I cut myself down to 24 minutes (8 minutes per question)
-    * In the weeks before the written, I moved up to 6 or 12 (a full CICM SAQ paper) questions at a time (still at 8 minutes per question)
+###Suggested Approach
+There are many equally valid ways to approach these exams. This is how I would do it, if I had to do it again:
 
-* Did a *lot* of flashcards  
+1. **Read a general physiology and pharmacology textbook**  
+This will help you understand the scope of the undertaking. I would recommend spending 2-3 weeks reading:
+    * Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.  
+    In my opinion, this is **the** general physiology text. I believe that if you knew everything in this book, you would pass the physiology component of both exams.
+    * Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+    The first few chapters are a good introduction to pharmaceutics and pharmacokinetics, which will help you put later information from more complete texts into context.<br><br>
+2. **Start doing practice questions**:  
+This is the key to the exam. I suggest:
+    * Start doing one question at a time  
+    In the beginning, you will not know enough to write for 10 minutes.
+        * After doing the question, check your answer against available past answers  
+        This forces active learning, and is far more efficient than reading. Look at:
+            * Structure  
+            How did you structure your answer? What was the example structure?
+            * Content  
+            What did you miss? Are the numbers/graphs you used correct?
+        * Then study the curriculum areas that question covered, and make notes  
+        This would take me ~1-2 hours for a new curriculum area.
+    * Once you start doing questions which you know something about (having answered one similar previously), move up to three questions in 24 minutes.  
+    This teaches you to keep time, which is vital for success in the SAQ.
+        * I would still check each answer afterwards, look over that area of the curriculum, and revise and refine my notes
+    * When you find yourself running out of time before you run out of things to write, give yourself 9 minutes per question  
+    I would suggest not going beyond this - you need to allocate your time strategically on the day, and writing 
+    * As this gets easier, start doing 6 or more questions a
+3. **Do a *lot* of flashcards**  
 I did my flashcard deck every day (I missed ~5 days in 6 months). This would typically take about an hour. Flashcards are less demanding than doing questions, and a simple form of revision.
     * This is the absolute best way of rote learning facts, in my opinion
     * I used [anki](http:\\www.ankisrs.net), but use whatever works for you
