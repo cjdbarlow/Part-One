@@ -35,7 +35,7 @@ Covers drugs.
 
     
 * **Appendices**  
-Has a list of common abbreviations, definitions, graphs and equations you should know, and sample structures for SAQs.
+Includes the key definitions, graphs, and equations you should know, as well as sample structures for SAQs.
 
 ---
 
