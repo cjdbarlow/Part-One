@@ -3,10 +3,11 @@
 A good response to a short-answer question is constructed from two things:
 * **Structure**  
 Developing a structured approach to answering SAQs is essential to succeeding in this section of the exam. A structured approach:
-    * Lets you organise your thoughts, and is easily digested by the examiner
+    * Is easily digested by the examiner  
+    * Reduces the amount of filler you need to write, meaning you can write more facts  
+    * Typically lends itself to bullet points rather than paragraphs
     * Allows you to recall more information than you would otherwise  
 Especially if you learnt it **in the same format**. This is important for pharmacology.
-    * Typically lends itself to bullet points rather than paragraphs
 * **Knowledge**  
 Obviously.
 
