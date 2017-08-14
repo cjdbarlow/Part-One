@@ -1,13 +1,15 @@
 # Part One
 
-These are my notes for the CICM primary, which I sat in Feb/April 2016. At present, they are:
-* A bit incomplete
-* Not fully checked for typos
-* Lacking graphs
+Part One is a reference for trainees preparing for the CICM and ANZCA Primary Exams.
+* Part One **is**:
+    * Designed to cover the *assessed* sections of the CICM and ANZCA curricula
+    * Designed to do so in enough detail to pass
+* Part One **is not**:
+    * A medical textbook
+    * A complete reference  
+    There will be errors. If you find any, please let us know.
+    
 
-They will (hopefully) be revised in the coming months, as I get my head around JS and start the buildup for the anaesthetic primary exam.
-
-At the moment they are delivered as-is. Incomplete, but hopefully better than nothing.
 
 ##How to Use Part One
 I will have benefited far more from writing these notes than you will through reading them. However, they should be useful:
@@ -45,12 +47,10 @@ Has a list of common abbreviations, definitions, graphs and equations you should
 ###Acknowledgements + Technical
 Part One is built on a number of [open-source](https://opensource.org/) technologies:
 * Written in John Gruber's elegant [Markdown](https://daringfireball.net/projects/markdown/)
-* Built and made pretty by the [GitBook toolchain](https://toolchain.gitbook.com/) from [Samy Pessé](https://github.com/SamyPesse) and [AaronO](https://github.com/AaronO)  
+* Built and made pretty by the [GitBook toolchain](https://toolchain.gitbook.com/)    
 With plugins from:
     * [Ben Lau](https://github.com/L3au) for [automatic timestamps](https://github.com/L3au/gitbook-plugin-git-author)
     * [Michael Jerger](https://github.com/jerger) for [collapsible chapters](https://github.com/DomainDrivenArchitecture/gitbook-plugin-expandable-chapters)
-* With beautiful graphs based on [scripts](http://bl.ocks.org/dfm/3914862) written by [Dan Foreman-Mackey](http://dan.iel.fm/)
-
 
 
 
