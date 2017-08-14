@@ -2,7 +2,7 @@
 
 The first part exam is:
 * Painful  
-The knowledge requires is huge, and cannot be avoided.
+The knowledge demanded is huge, and cannot be avoided.
 * Eminently achievable  
 Remember, it is not impossible - **everybody before you has completed it**.
 
