@@ -13,7 +13,7 @@ Naturally occurring tertiary amine which competitively antagonises ACh at the mu
 |**Metabolism**|Extensive hepatic hydrolysis|
 |**Elimination**|Renal elimination of metabolites and unchanged drug|
 |**Resp**|Bronchodilation, ↓ secretions|
-|**CVS**|↑ HR due to ↓ AV nodal conduction, peaks within 2-4 minutes|
+|**CVS**|↑ HR due to ↓ AV nodal conduction, peaks within 2-4 minutes and lasts 2-3 hours|
 |**CNS**|Central angicholinergic syndrome, confusion, ↑IOP
 |**MSK**|Inhibits sweating|
 |**GIT**|↓ LoS tone
