@@ -20,5 +20,5 @@ Naturally occurring tertiary amine which competitively antagonises ACh at the mu
 
 ---
 ##References
-Smith Scarth Sasada
-Peck and Hill
+1. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+2. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
