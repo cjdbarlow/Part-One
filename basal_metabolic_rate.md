@@ -62,7 +62,7 @@ In general:
             * Protein ≈ 0.8
             * Fat ≈ 0.7
 
-Resting Energy Expenditure is given by the abbreviated Weir equation:
+Resting Energy Expenditure is given by the **abbreviated Weir equation**:
 
 $$ REE = 3.94 \times (FiO_2 - E_TO_2 ) + (1.1 \times VCO_2) $$ in Watts per unit time of measurement.
 
