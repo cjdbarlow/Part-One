@@ -3,10 +3,11 @@
 
 Baroreceptors are **stretch receptors** which monitor changes in arterial pressure. **Arterial pressure** is monitored by receptors in the:
 * **Aortic arch**  
-Innervated by CNX.
+  * Innervated by CNX
 * **Carotid sinus**    
-Small dilation of the ICA at the level of the bifurcation. Innervated by CNIX.
-  * Remember the carotid *body* is a chemoreceptor
+Small dilation of the ICA at the level of the bifurcation.
+  * Innervated by CNIX
+  * Remember the carotid *sinus* is a baroreceptor, the carotid *body* is a chemoreceptor
 
 **Low-pressure** stretch receptors:
   * Respond to increased venous return
