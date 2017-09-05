@@ -50,6 +50,14 @@ Platelet-Derived Growth Factor
 ##PCT
 Proximal Convoluted Tubule.
 
+#CNIX
+Glossopharyngeal Nerve
+
+#CNX
+Vagus Nerve
+
+#ANP
+Atrial Natriuretic Peptide
 
 ##MAP
 Mean Arterial Pressure.
