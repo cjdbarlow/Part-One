@@ -6,11 +6,16 @@ Baroreceptors are **stretch receptors** which monitor changes in arterial pressu
 Innervated by CNX.
 * **Carotid sinus**    
 Small dilation of the ICA at the level of the bifurcation. Innervated by CNIX.
+  * Remember the carotid *body* is a chemoreceptor
 
-**Low-pressure** stretch receptors respond to an increase in venous return and are inhibited by positive pressure ventilation. They act by atrial stretch and typically described as **volume receptors**. They are located in the:
-* **Atrial walls**
-* **SVC and IVC**  
-* **Pulmonary circulation**
+**Low-pressure** stretch receptors:
+  * Respond to increased venous return
+  * Are inhibited by positive pressure ventilation
+  * Act by stretch and typically described as **volume receptors**
+  * Are located in the:
+    * **Atrial walls**
+    * **SVC and IVC**  
+    * **Pulmonary circulation**
 
 
 ##Baroreceptor Control
