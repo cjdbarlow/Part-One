@@ -55,6 +55,6 @@ Atrial stretch receptors also excrete ANP, which reduces blood pressure in the f
 Ventricular stretch receptors secrete BNP, which has similar structure and function to ANP.
 
 ##References
-Ganong
-CICM September/November 2014
-ANZCA July/August 2000
+1. Barrett KE, Barman SM, Boitano S, Brooks HL. Ganong's Review of Medical Physiology. 24th Ed. McGraw Hill. 2012.
+2. CICM September/November 2014
+3. ANZCA July/August 2000
