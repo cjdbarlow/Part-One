@@ -9,6 +9,7 @@ Small dilation of the ICA at the level of the bifurcation.
   * Innervated by CNIX
   * Remember the carotid *sinus* is a baroreceptor, the carotid *body* is a chemoreceptor
 
+
 **Low-pressure** stretch receptors:
   * Respond to increased venous return
   * Are inhibited by positive pressure ventilation
@@ -24,7 +25,7 @@ Afferent fibres from CNIX and CNX travel to the NTS in the **medulla**. Effector
 
 **Increased baroreceptor activity** therefore **results in:**
 * Arterial and venous vasodilation
-* Hpotension
+* Hypotension
 * Bradycardia
 * Decreased cardiac output
 * Decreased respiratory rate.
