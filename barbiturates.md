@@ -13,7 +13,7 @@ Increases the duration of channel opening, causing effective hyperpolarisation d
 |**Isomerism**|Tautomer. pKa of 7.6, such that 60% is unionised at pH 7.4 (i.e. water solubility decreases once injected).
 |**Route of Administration**|IV
 |**Dosing**|3-7mg.kg<sup>-1</sup>. Consider 75mg boluses, assessing haemodynamic and neuronal effects.
-|**Distribution**|65-85% protein bound. High lipid solubility and CBF gives a rapid, reliable onset. Rapid offset due to redistribution. Prolonged elimination half life contribute to long CSHT. Increased unionised portion in acidosis. t<sub>1/2<sub>ke0</sub> of 1.2 minutes.
+|**Distribution**|65-85% protein bound. High lipid solubility and CBF gives a rapid, reliable onset. Rapid offset due to redistribution, with a fast t<sub>1/2</sub> of 8 minutes. Prolonged elimination half life contribute to long CSHT. Increased unionised portion in acidosis. t<sub>1/2<sub>ke0</sub> of 1.2 minutes.
 |**Metabolism**|Capacity dependent CYP450 metabolism - saturatable at high doses (long CSHT with infusion). Metabolised to (active) **pentobarbital**, which also increases the duration of its clinical effects.
 |**Elimination**|Renal of metabolites
 |**Resp**|Respiratory depression, bronchospasm, laryngospasm
