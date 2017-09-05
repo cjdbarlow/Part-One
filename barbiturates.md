@@ -18,7 +18,7 @@ Increases the duration of channel opening, causing effective hyperpolarisation d
 |**Elimination**|Renal of metabolites, < 1% excreted unchanged
 |**Resp**|Respiratory depression, bronchospasm, laryngospasm
 |**CVS**|Vasodilation and venodilation (↓ MSFP), ↓ inotropy, with compensatory tachycardia (baroreceptor response preserved)
-|**CNS**|Hyponosis and anaesthesia within 40 seconds of injection, with reliable loss of lash reflex. Anticonvulsant. Dose-dependent flattening of the EEG (β 🡒 α 🡒 θ 🡒 δ) ending with burst suppression, causing progressive ↓ CMRO<sub>2</sub> (55% of maximal during burst suppression), ↓ CBF, and ↓ ICP. <br><br> Resolution of anaesthesia in 5-10 minutes due to redistribution.  
+|**CNS**|Hyponosis and anaesthesia within 40 seconds of injection, with reliable loss of lash reflex. Anticonvulsant. Dose-dependent flattening of the EEG (β 🡒 α 🡒 θ 🡒 δ 🡒 burst suppression 🡒 isoelectric), causing progressive ↓ CMRO<sub>2</sub> (55% of maximal during burst suppression), ↓ CBF, and ↓ ICP. <br><br> Resolution of anaesthesia in 5-10 minutes due to redistribution.  
 |**Endocrine**|↓ RBF causing ↓ UO
 |**GIT**|Hepatic enzyme induction
 |**Immune**|Analphylaxis ~1;20,000
