@@ -9,7 +9,7 @@ Increases the duration of channel opening, causing effective hyperpolarisation d
 |--|--|
 |**Class**|Barbiturate
 |**Uses**|Induction of anaesthesia, status epilepticus, control of ICP refractory to other measures
-|**Presentation**|500mg of yellow powder with NaCO<sub>3</sub> for reconstitution as a 2.5% solution. Container uses nitrogen as a filler gas (to prevent HCO<sub>3</sub><sup>-1</sup> formation when CO<sub>2</sub> combines with water during reconstitution, which will reduces pH and therefore water solubility). pH of 11 when reconstituted - bacteriostatic solution.
+|**Presentation**|500mg of yellow powder with NaCO<sub>3</sub> for reconstitution as a 2.5% solution. Container uses nitrogen as a filler gas (to prevent HCO<sub>3</sub><sup>-1</sup> formation when CO<sub>2</sub> combines with water during reconstitution, which ↓ pH and therefore water solubility). pH of 11 when reconstituted - bacteriostatic solution.
 |**Isomerism**|Tautomer. pKa of 7.6, such that 60% is unionised at pH 7.4 (i.e. water solubility decreases once injected).
 |**Route of Administration**|IV
 |**Dosing**|3-7mg.kg<sup>-1</sup>. Consider 75mg boluses, assessing haemodynamic and neuronal effects.
