@@ -19,7 +19,7 @@
 ##Factors Affecting Metabolic Rate
 Metabolic Rate is affected by:
 * **Age**  
-BMR declines with increasing age
+BMR declines with increasing age.
     * Neonates have a BMR twice that of an adult
     * Children have an increased BMR relative to that of an adult
     * BMR declines by 2% for each decade of life
