@@ -27,6 +27,6 @@ Increases the duration of channel opening, causing effective hyperpolarisation d
 
 ---
 ##References
-Essential Pharmacology for the ANZCA primary
-http://lifeinthefastlane.com/book/critical-care-drugs/thiopentone/
-http://ceaccp.oxfordjournals.org/content/4/3/76.full.pdf
+1. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+2. [LITFL - Thiopentone](http://lifeinthefastlane.com/book/critical-care-drugs/thiopentone/)
+3. Hill, S. A. (2004). [Pharmacokinetics of drug infusions](http://ceaccp.oxfordjournals.org/content/4/3/76.full.pdf). Continuing Education in Anaesthesia.
