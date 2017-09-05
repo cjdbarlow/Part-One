@@ -52,7 +52,7 @@ Atrial stretch receptors also excrete ANP, which reduces blood pressure in the f
   ANP causes vasodilation of peripheral smooth muscle.
 
 
-Ventricular stretch receptors secrete BNP (Brain Natriuretic Peptide), which is similar to ANP and has similar function to ANP.
+Ventricular stretch receptors secrete BNP (Brain Natriuretic Peptide), which has similar structure and function to ANP.
 
 ##References
 Ganong
