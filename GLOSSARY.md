@@ -44,19 +44,22 @@ Form of bias where negative studies are less likely to be accepted (or submitted
 ## PDE
 Phosphodiesterase
 
+##GFR
+Glomerular Filtration Rate
+
 ##PDGF
 Platelet-Derived Growth Factor
 
 ##PCT
 Proximal Convoluted Tubule.
 
-#CNIX
+##CNIX
 Glossopharyngeal Nerve
 
-#CNX
+##CNX
 Vagus Nerve
 
-#ANP
+##ANP
 Atrial Natriuretic Peptide
 
 ##MAP
