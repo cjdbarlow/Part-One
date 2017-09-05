@@ -14,7 +14,7 @@
     * 70kcal.hr<sup>-1</sup>
     
     
-**Metabolic rate** is the actual energy consumption of an individual.
+**Metabolic rate** is the actual energy consumption of an individual, and is greater than BMR due to a number of factors.
 
 ##Factors Affecting Metabolic Rate
 Metabolic Rate is affected by:
