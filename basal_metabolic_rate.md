@@ -76,6 +76,6 @@ The **respiratory quotient** is the value of $$ VCO_2 \over VO_2 $$ at steady-st
 
 ---
 ##References
-Power and Kam
-ANZCA Feb/April 2006
-LITFL http://lifeinthefastlane.com/ccc/indirect-calorimetry/
+1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+2. ANZCA Feb/April 2006
+3. [LITFL - Indirect Calorimetry](http://lifeinthefastlane.com/ccc/indirect-calorimetry/)
