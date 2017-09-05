@@ -43,7 +43,7 @@ Rapid compensatory responses are vital in the short-term control of blood pressu
 This curve is left-shifted in children and neonates, and right-shifted in chronic hypertension, though this is reversible.
 
 ##Hormonal control
-Atrial stretch receptors also excrete ANP (Atrial Natriuretic Peptide), which reduces blood pressure in the following ways:
+Atrial stretch receptors also excrete ANP, which reduces blood pressure in the following ways:
 * Increased GFR  
   ANP constricts the efferent arteriole and dilates of the afferent arteriole. This subsequently inhibits renin secretion through increased hydrostatic pressure at the JGA and increased Na<sup>+</sup> and Cl<sup>-</sup> delivery to the macula densa.
 * Decreased aldosterone  
