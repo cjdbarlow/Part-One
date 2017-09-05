@@ -4,13 +4,17 @@
 
 The systematic distortion of the estimated intervention effect away from the “truth”, caused by inadequacies in the design, conduct, or analysis of a trial.
 
-##Brain Natriuretic Peptide
+##BNP
+Brain Natriuretic Peptide
+
+#BMR
+Basal Metabolic Rate
 
 ##CT
-Collecting Duct.
+Collecting Duct
 
 ##DCT
-Distal Convoluted Tubule.
+Distal Convoluted Tubule
 
 ## duplicate publication
 
@@ -21,7 +25,7 @@ Where the same set of results are published in multiple journals. Academically u
 How well findings from one setting can be applied to another.
 
 ## MALT
-Mucosa-Associated Lymphoid Tissue.
+Mucosa-Associated Lymphoid Tissue
 
 ## heterogeneity
 
@@ -46,14 +50,14 @@ Form of bias where negative studies are less likely to be accepted (or submitted
 ## PDE
 Phosphodiesterase
 
-##GFR
+##GF
 Glomerular Filtration Rate
 
 ##PDGF
 Platelet-Derived Growth Factor
 
 ##PCT
-Proximal Convoluted Tubule.
+Proximal Convoluted Tubule
 
 ##CNIX
 Glossopharyngeal Nerve
@@ -65,4 +69,4 @@ Vagus Nerve
 Atrial Natriuretic Peptide
 
 ##MAP
-Mean Arterial Pressure.
+Mean Arterial Pressure
