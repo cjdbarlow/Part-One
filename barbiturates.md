@@ -2,6 +2,7 @@
 Thiopentone is a positive allosteric modulator at GABA<sub>A</sub> receptors (at a separate site to benzodiazepines) in the CNS. Barbiturates cause:
 * Decreased rate of dissociation of GABA  
 Increases the duration of channel opening, causing effective hyperpolarisation due to increased Cl<sup>-</sup> conductance.
+    * Clinical effects differ from benzodiazepines as benzodiazepines increase *frequency* of opening, whilst barbiturates increase *duration*
 * Direct activation of the channel at higher doses  
 
 |Property|Thiopentone
