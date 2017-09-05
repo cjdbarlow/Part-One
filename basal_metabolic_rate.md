@@ -23,27 +23,27 @@ BMR decreases as age increases.
     * Neonates have a BMR twice that of an adult
     * Children have an increased BMR relative to that of an adult
     * BMR declines by 2% for each decade of life
-* Body Composition  
+* **Body Composition**  
 Lean muscle has a greater energy requirement than fat.
     * Higher body fat percentage results in a lower BMR
         * Females have a lower BMR for this reason - when adjusted for lean mass there is no difference
-* Diet
+* **Diet**
     * Digestion increases BMR by ~10% due to the energy required to assimilate nutrients  
     This is known as the **specific dynamic action** of food.
         * Protein > carbohydrate > fat  
         Note that the Specific Dynamic Action for each macromolecule is not related to the respiratory quotient for that food type.            
     * Starvation decreases the BMR
-* Exercise
+* **Exercise**
     * Skeletal muscle is the largest and most variable source of energy consumption
-* Environment
+* **Environment**
     * Cooler environments increase BMR 
     * Temperate environments decrease BMR up to 10%
-* Physiological states
+* **Physiological state**s
     * Pregnancy increases BMR up to 20% in 2nd and 3rd trimester
     * Lactation increases BMR
     * Catecholamines increase BMR
     * Corticosteroids increase BMR
-* Disease states
+* **Disease states**
     * Malignancy increases BMR
     * Sepsis increases BMR
     * Hyperthyroidism increases BMR    
