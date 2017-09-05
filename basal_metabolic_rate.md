@@ -5,17 +5,18 @@
 
 > Outline the factors that influence metabolic rate
 
-Basal Metabolic Rate is the energy output required to sustain life at rest. 'Resting' is defined as an individual who is:
+Basal Metabolic Rate is the **energy output required to sustain life at rest**. 'Resting' is defined as an individual who is:
 * Fasted for 12 hours
 * In a comfortable external environment
 * At mental and physical rest 
 
-
 Normal values are 100W.day<sup>-1</sup>, or 70kcal.hr<sup>-1</sup>.
+
+Metabolic rate is the actual energy consumption of an individual.
 
 ##Factors Affecting Metabolic Rate
 Metabolic Rate is affected by:
-* Age
+* **Age**
     * BMR declines with increasing age
         * Neonates have a BMR twice that of an adult
         * Children have an increased BMR relative to that of an adult
