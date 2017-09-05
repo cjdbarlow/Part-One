@@ -15,7 +15,7 @@ Increases the duration of channel opening, causing effective hyperpolarisation d
 |**Dosing**|3-7mg.kg<sup>-1</sup>. Consider 75mg boluses, assessing haemodynamic and neuronal effects.
 |**Distribution**|65-85% protein bound. High lipid solubility and CBF gives a rapid, reliable onset. Rapid offset due to redistribution, with a fast t<sub>1/2</sub> of 8 minutes. Prolonged elimination half life (11 hours) contributes to long CSHT. Increased unionised portion in acidosis. t<sub>1/2<sub>ke0</sub> of 1.2 minutes.
 |**Metabolism**|Capacity dependent CYP450 metabolism - saturatable at high doses (long CSHT with infusion). Metabolised to (active) **pentobarbital**, which also increases the duration of its clinical effects.
-|**Elimination**|Renal of metabolites
+|**Elimination**|Renal of metabolites, < 1% secreted unchanged
 |**Resp**|Respiratory depression, bronchospasm, laryngospasm
 |**CVS**|Vasodilation and venodilation (↓ MSFP), ↓ inotropy, with compensatory tachycardia (baroreceptor response preserved)
 |**CNS**|Hyponosis and anaesthesia within 40 seconds of injection, with reliable loss of lash reflex. Anticonvulsant. Dose-dependent flattening of the EEG (β 🡒 α 🡒 θ 🡒 δ) ending with burst suppression, causing progressive ↓ CMRO<sub>2</sub> (55% of maximal during burst suppression), ↓ CBF, and ↓ ICP. <br><br> Resolution of anaesthesia in 5-10 minutes due to redistribution.  
