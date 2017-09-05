@@ -28,7 +28,7 @@ Afferent fibres from CNIX and CNX travel to the NTS in the **medulla**. Effector
 * Hypotension
 * Bradycardia
 * Decreased cardiac output
-* Decreased respiratory rate.
+* Decreased respiratory rate
 
 **Increased** **low-pressure** stretch receptor activity results in an **increase** rather than a decrease in **heart rate**.
 
