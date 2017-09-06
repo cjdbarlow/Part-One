@@ -40,7 +40,7 @@ Optimal gas exchange occurs when regions of lung are ventilated in proportion to
   * **V/Q 0 to 1**  (V/Q scatter)  
    Perfusion in excess of ventilation.
      * Increasing in PAO<sub>2</sub> will increase PaO<sub>2</sub>
-     * This is often referred to as V/Q mismatch, but this is non-specific term <br><br>
+     * This is commonly referred to by the general term of V/Q mismatch<br><br>
   * **V/Q = 0** (Shunt)  
 Pulmonary blood reaches the systemic circulation without being oxygenated, and PaO<sub>2</sub> falls. 
 
