@@ -27,7 +27,8 @@
 
 
 * Vascular
-    * Hypertension (2<sup>nd</sup> line), though are useful for aggressive control of BP
+    * Hypertension (2<sup>nd</sup> line)  
+    Also useful for aggressive control of BP.
     * Hypotensive anaesthesia
     * Attenuate hypertensive response to laryngoscopy
 
