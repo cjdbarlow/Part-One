@@ -1,4 +1,4 @@
-#Adrenergic Drugs {#id}
+#Adrenergic Vasoactives {#id}
 
 *This covers the pharmacology of specific catecholamines and sympathomimetics. The synthesis of endogenous catecholamines is covered under [adrenal hormones](adrenal-hormones.md), whilst specific to catecholamines receptor function is covered under [adrenoreceptors](adrenoreceptors.md).*
 
