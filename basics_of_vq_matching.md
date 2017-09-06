@@ -1,7 +1,7 @@
 # Basics of V/Q Matching
 
-* Optimal gas exchange occurs when regions of lung are ventilated in proportion to their perfusion, i.e. V/Q = 1
-* Uneven distributions of ventilation and perfusion lead to inefficient gas exchange:
+Optimal gas exchange occurs when regions of lung are ventilated in proportion to their perfusion, i.e. V/Q = 1
+* Uneven distribution of ventilation and perfusion causes inefficient gas exchange:
   * Excessive ventilation causes excessive work
   * Inadequate ventilation causes inadequate gas exchange
 
