@@ -1,6 +1,6 @@
 # Beta Agonists {#id}
 
-*This covers the inhaled β-agonists used for bronchodilation
+*This covers the inhaled β-agonists used for bronchodilation.*
 
 ##Common Features
 |Pharmacodynamic Effects|β-agonists|
