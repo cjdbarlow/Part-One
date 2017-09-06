@@ -4,10 +4,10 @@ Benzodiazepines are double-ringed positive allosteric modulators of the GABA rec
 * Bind to the α/γ interface of the receptor, increasing affinity of the receptor for GABA
 * This leads to **hyperpolarisation** of the **cell membranes** and decreased neuronal transmission  
 The mechanism varies between receptors:
-    * GABA<sub>A</sub> is a **ligand gated** post-synaptic Cl<sup>-</sup> ion channel
-        * Activation **increases Cl<sup>-</sup> conductance** via **increasing frequency** of channel opening
-    * GABA<sub>B</sub> is a pre- and post-synaptic **G-protein coupled** receptor
-        * Activation **increases K<sup>+</sup> conductance**
+    * GABA<sub>A</sub> is a **ligand gated** post-synaptic Cl<sup>-</sup> ion channel  
+    Activation **increases Cl<sup>-</sup> conductance** via **increasing frequency** of channel opening.
+    * GABA<sub>B</sub> is a pre- and post-synaptic **G-protein coupled** receptor  
+    Activation **increases K<sup>+</sup> conductance**.
 
 
 ##Common Features of Benzodiazepines
