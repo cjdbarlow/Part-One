@@ -15,7 +15,7 @@
 |Property|Salbutamol|Salmeterol|
 |--|--|--|
 |**Class**|Synthetic sympathomimetic amine|Synthetic sympathomimetic amine|
-|**Uses**|Acute asthma, hyperkalaemia|Nocturnal and exercise-induced asthma|
+|**Uses**|Acute asthma/bronchospasm, hyperkalaemia|Nocturnal and exercise-induced asthma|
 |**Presentation**|MDI (100µg), solution at 2.5-5mg.ml<sup>-1</sup> for nebulisation|MDI|
 |**Route of Administration**|Inhaled, IV|Inhaled|
 |**Dosing**|1-2 puffs via MDI, 5mg nebulised. 0.5mcg.kg<sup>-</sup>.min<sup>-</sup> as IV infusion.||
@@ -29,5 +29,5 @@
 
 ---
 ##References
-Peck and Hill
-Smith Scarth Sasada
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
