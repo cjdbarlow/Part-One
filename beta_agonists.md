@@ -1,6 +1,6 @@
 # Beta Agonists {#id}
 
-*This covers the inhaled β-agonists used for bronchodilation.*
+*This covers the inhaled β-agonists used for bronchodilation. Information on catecholamines and sympathomimetics with activity on -receptors is covered under [adrenergic vasoactives](adrenergic_drugs.md).*
 
 ##Common Features
 |Pharmacodynamic Effects|β-agonists|
