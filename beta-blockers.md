@@ -44,17 +44,17 @@
 ##Common Features
 |Property|Action|
 |--|--|
-|**Kinetics**|Variability primarily due to lipid solubility. Poor lipid solubility gives poor gut absorption and minimises need for hepatic metabolism. Lipid soluble agents will have CNS effects and be excreted in breast milk
-|**Respiratory**|Bronchospasm
-|**CVS**|↓ Inotropy, ↓ HR, ↓MVO<sub>2</sub>, ↓ BP, ↑ SVR (β<sub>2</sub> effect), worsen arrhythmia
-|**CNS**|Tiredness, nightmares, and sleep disturbance with lipid soluble agents. ↓ IOP
-|**Metabolic**|↓ Insulin release and blunted hypoglycaemic response (β<sub>2</sub> effect)
-|**Interactions**|Contraindicated with cardioselective Ca<sup>2+</sup> channel blockers due to extreme ↓ HR & ↓ inotropy|
+|**Kinetics**|Variability primarily due to lipid solubility. Poor lipid solubility confers poor gut absorption and minimises need for hepatic metabolism. Lipid soluble agents will have CNS effects and be excreted in breast milk.
+|**Respiratory**|Bronchospasm.
+|**CVS**|↓ Inotropy, ↓ HR, ↓ MVO<sub>2</sub>, ↓ BP, ↑ SVR (β<sub>2</sub> effect), worsen arrhythmia.
+|**CNS**|Tiredness, nightmares, and sleep disturbance with lipid soluble agents. ↓ IOP.
+|**Metabolic**|↓ Insulin release and blunted hypoglycaemic response (β<sub>2</sub> effect).
+|**Interactions**|Contraindicated with cardioselective Ca<sup>2+</sup> channel blockers. due to extreme ↓ HR & ↓ inotropy.|
 
 ##Comparison of Beta Blockers
 |Property|Esmolol|Metoprolol|Atenolol|Propranolol|Labetalol|
 |--|--|
-|**Class**|Cardioselective|Cardioselective|Cardioselective|Non-selective|Non-selective|
+|**Class**|Cardioselective|Cardioselective|Cardioselective|β non-selective|β & α non-selective|
 |**Uses**|Short-term treatment of tachyarrythmia and HTN|MI, HTN, migraine, thyrotoxicosis|HTN, angina, tachyarrhythmias, acute MI|HTN, Angina, dysrrythmia, essential tremor, anxiety HOCM, phaeochromocytoma, migraine, oesophageal varicies|HTN, MI|
 |**Presentation**|Clear, colourless solution|Clear, colourless solution, 50mg Tablet.|25/50/100mg tablets, syrup, colourless solution.|Tablets and solution at 1mg.ml<sup>-1</sup>|Tablets and solution at 5mg.ml<sup>-1</sup>
 |**Route of Administration**|IV|PO/IV|PO/IV|PO/IV|PO/IV|
