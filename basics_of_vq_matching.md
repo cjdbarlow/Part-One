@@ -36,8 +36,8 @@ Optimal gas exchange occurs when regions of lung are ventilated in proportion to
 * V/Q mismatch occurs when V/Q ≠ 1:
   * **V/Q >1** (Dead Space)  
   Ventilation in excess of perfusion.
-    * However, all pulmonary blood is passing ventilated alveoli and PaO<sub>2</sub> is normal <br><br>
-  * **V/Q <1**  (V/Q scatter)  
+    * However, pulmonary blood is passing ventilated alveoli and PaO<sub>2</sub> is normal <br><br>
+  * **V/Q 0 to 1**  (V/Q scatter)  
    Perfusion in excess of ventilation.
      * Increasing in PAO<sub>2</sub> will increase PaO<sub>2</sub>
      * This is often referred to as V/Q mismatch, but this is non-specific term <br><br>
