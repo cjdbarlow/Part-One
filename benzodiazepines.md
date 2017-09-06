@@ -17,7 +17,7 @@ The mechanism varies between receptors:
 |**Absorption**||
 |**Distribution**|Highly lipid soluble and protein bound, very low V<sub>D</sub>|
 |**Metabolism**|Generally active metabolites.
-|**Elimination**|Renal elmination of active and inactive metabolites.
+|**Elimination**|Renal elimination of active and inactive metabolites.
 |**Resp**|↓ V<sub>T</sub>, ↑RR, apnoea.
 |**CVS**|↓ SVR, ↓SBP, ↓ DBP, ↑HR. Typically stable CO.
 |**CNS**| Hypnosis, sedation, anterograde amnesia, anticonvulsant, ↓ CBF.
