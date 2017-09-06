@@ -20,7 +20,7 @@ The mechanism varies between receptors:
 |**Elimination**|Renal elimination of active and inactive metabolites.
 |**Resp**|↓ V<sub>T</sub>, ↑RR, apnoea.
 |**CVS**|↓ SVR, ↓SBP, ↓ DBP, ↑HR. Typically stable CO.
-|**CNS**| Hypnosis, sedation, anterograde amnesia, anticonvulsant, ↓ CBF.
+|**CNS**| Hypnosis, sedation, anterograde amnesia, anticonvulsant, ↓ CBF. ↓ MAC.
 |**MSK**|Skeletal muscle relaxation.
 |**Metabolic**|↓ Adrenergic stress response.
 
@@ -32,7 +32,7 @@ The mechanism varies between receptors:
 |**Absorption**|50% PO bioavailability.|Good PO bioavailability.||
 |**Distribution**|V<sub>D</sub> 1.5L.kg<sup>-1</sup>, 95% protein bound.|95% protein bound.||
 |**Metabolism**| Partially metabolised to oxazepam and 1-α-hydroxy-midazolam. Clearance ~7ml.kg<sup>-1</sup>.min<sup>-1</sup>.|Hepatic to all active metabolites including oxazepam, tempazepam, and des-methyl-diazepam (has t<sub>1/2</sub>β up to 100 hours).|Hepatic to inactive metabolites.|
-|**Elimination**|t<sub>1/2</sub>β 2-4 hours, prolonged with cirrhosis, CHF, obesity and in the elderly.|t<sub>1/2</sub>β 20-45 hours.|
+|**Elimination**|t<sub>1/2</sub>β 2-4 hours, prolonged with cirrhosis, CHF, obesity and in the elderly.|t<sub>1/2</sub>β 20-45 hours.||
 
 ---
 ##References
