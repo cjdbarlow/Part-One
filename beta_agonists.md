@@ -25,8 +25,6 @@
 |**Elimination**|Urinary elimination of active (30%) drug and inactive metabolites|||
 
 
-
-
 ---
 ##References
 1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
