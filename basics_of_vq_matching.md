@@ -42,9 +42,9 @@ Optimal gas exchange occurs when regions of lung are ventilated in proportion to
      * Increasing in PAO<sub>2</sub> will increase PaO<sub>2</sub>
      * This is commonly referred to by the general term of V/Q mismatch<br><br>
   * **V/Q = 0** (Shunt)  
-Pulmonary blood reaches the systemic circulation without being oxygenated, and PaO<sub>2</sub> falls. 
+Mixed venous blood entering the systemic circulation without being oxygenated via passage through the lungs. PaO<sub>2</sub> falls. 
 
 ---
 ##References
-Wests
-Nunns
+1. West J. Respiratory Physiology: The Essentials. 9th Edition. Lippincott Williams and Wilkins. 2011.
+2. Lumb A. Nunn's Applied Respiratory Physiology. 7th Edition. Elsevier. 2010.
