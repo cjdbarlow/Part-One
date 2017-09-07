@@ -16,6 +16,7 @@
     * Major bile acids include:
       * Cholic acid
       * Chenodeoxycholic acid
+    * Are absorbed in the terminal ileum, and recycled by the portal circulation
   * Lipids
   * Electrolytes
 
