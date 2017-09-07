@@ -46,8 +46,7 @@ Trauma, GA caesarian section, cardiac surgery.
 * Proprietary algorithim
 * Expensive
 * May be inappropriately fall with use of muscle relaxants
-* May not fall appropriately with:
- * Non-GABAergic agents (e.g. ketamine, nitrous oxide)
+* May not fall appropriately with non-GABAergic agents (e.g. ketamine, nitrous oxide)
 
 
  ---
