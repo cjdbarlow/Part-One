@@ -4,6 +4,7 @@
 **Bile** is a dark green solution produced by the liver to facilitate absorption of fat and fat-soluble vitamins (ADEK) through emulsification. Bile is:
 * Produced by the liver at the rate of 1L per day
 * Concentrated in the gallbladder
+* Important in the absorbance of lipid and fat-soluble vitamins
 * Formed from:
   * Water
   * Protein
@@ -22,5 +23,5 @@
 
 ---
 ##References
-Guyton
-Power and Kam
+1. Hall, JE, and Guyton AC. Guyton and Hall Textbook of Medical Physiology. 11th Edition. Philadelphia, PA: Saunders Elsevier. 2011.
+2. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
