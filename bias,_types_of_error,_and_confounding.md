@@ -24,14 +24,14 @@ Error can be due to:
 | Hawthorne effect | When the process of actually doing the study improves the outcome | Control group, masking study intent from patients and observers |
 
 ##Confounder
-A confounder is **"a variable that, if removed, results in a change in the outcome variable by a clinically significant amount."**[^3] It is a type of bias which will result in a distortion of the measured effect.
+A confounder is **"a variable that, if removed, results in a change in the outcome variable by a clinically significant amount."** It is a type of bias which will result in a distortion of the measured effect.
 
 A confounding factor must be:
 * **Associated with the exposure** but **not a consequence of it**  
-  A confounding factor cannot be on the causal pathway between exposure and disease  
-  It must be present unevenly between groups to cause distortion of the measured effect
+    * A confounding factor cannot be on the causal pathway between exposure and disease  
+    * It must be present unevenly between groups to cause distortion of the measured effect
 * **An independent predictor of outcome**  
-  The confounding factor must also be a risk factor for the disease, but independently from exposure
+  The confounding factor must also be a risk factor for the disease, but independently from exposure.
 
 
 ###Controlling for confounding
