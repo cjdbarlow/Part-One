@@ -4,7 +4,12 @@
 ##Bias
 Bias is a **systematic deviation from truth**, and causes a study to lack **internal validity**.
 
-In a research study, an observed difference between groups may be the result of a true difference, or an error. Error can be due to normal random variation, i.e. chance; or a systematic difference, i.e. bias.
+In a research study, an observed difference between groups may be due to:
+* A true difference between groups
+* An error  
+Error can be due to:
+  * Normal random variation, i.e. chance
+  * A systematic difference, i.e. bias
 
 Unlike error due to chance, the effect of bias cannot be reduced by increasing the sample size. 
 
