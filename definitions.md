@@ -25,7 +25,7 @@ The *effective* concentration of a substance in a reacting system
 A process that occurs without transfer of heat or matter. For example, gases heat up when compressed (greater than the energy used to compress them), and cool when allowed to expand (adiabatic cooling).
 
 * **Affinity**  
-Ability of a drug to bind to a receptor.
+Ability of a drug to bind to a receptor.
 
 * **Afterload**
 Sum of impedances to ventricular ejection.
@@ -71,6 +71,9 @@ A mixture of two substances that cannot be separated by fractional distillation,
 * **Bathmotropy**  
 Degree of myocardial excitability. Used with either positive or negative bathmotropy.
 
+* **Bias**  
+The systematic distortion of the estimated intervention effect away from the “truth”, caused by inadequacies in the design, conduct, or analysis of a trial.
+
 * **Boiling Point**  
 The temperature at which the vapour pressure of a liquid equals the environmental pressure surrounding the liquid.
     * Therefore boiling point decreases as environmental pressure falls, as there is less external pressure keeping molecules in their liquid state
@@ -88,14 +91,34 @@ The properties of a solution that depend on the ratio of solute to solvent, and 
   * Freezing point
   * Osmotic pressure
 
-
         
 * **Critical Length**  
 The length of axon which must be blocked in order to prevent action potential transmission. It is dependent on myelination and fibre diameter.
 
+##D
+
+* **Duplicate Publication**  
+Where the same set of results are published in multiple journals. Academically unethical, and will cause a systematic bias in a meta-analyses as the same set of patients are inclulded twice.
+
+
+##E
+* **External Validity**  
+How well findings from one setting can be applied to another.
+
 ##G
 * **General anaesthesia**  
 Drug induced, controlled, and reversible production of unconsciousness.
+
+##I
+
+* **Internal Validity**  
+Where a causal relationship between variables has been properly demonstrated, i.e. a lack of bias.
+
+##O
+* **Odds Ratio**  
+Estimate of risk, where the OR is the ratio of odds of an outcome in those treated vs. those not treated. OR = 1 suggests no effect, <1 suggests reduced risk >1 suggests increased risk.
+
+
 
 ##S
 * **Saturated Vapour**  
@@ -105,3 +128,4 @@ Vapour which is in equilibrium with its own liquid state, i.e. there are as many
 
 * **Saturated Vapour Pressure**  
 Pressure exerted by a vapour which is in equilibrium with its liquid state. Increases with temperature, since as the kinetic energy (heat) content of molecules increase, more of them enter the vapour phase.
+
