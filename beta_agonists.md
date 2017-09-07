@@ -18,7 +18,7 @@
 |**Uses**|Acute asthma/bronchospasm, hyperkalaemia|Nocturnal and exercise-induced asthma|
 |**Presentation**|MDI (100µg), solution at 2.5-5mg.ml<sup>-1</sup> for nebulisation|MDI|
 |**Route of Administration**|Inhaled, IV|Inhaled|
-|**Dosing**|1-2 puffs via MDI, 5mg nebulised. 0.5mcg.kg<sup>-</sup>.min<sup>-</sup> as IV infusion.||
+|**Dosing**|1-2 puffs via MDI, 5mg nebulised. 0.5mcg.kg<sup>-1</sup>.min<sup>-1</sup> as IV infusion.||
 |**Onset**|Rapid|Slow|
 |**Distribution**|Low protein binding|
 |**Metabolism**|High first pass hepatic to inactive metabolites, t<sub>1/2</sub>β 6 hours.|Extensive hepatic via CYP3A4|
