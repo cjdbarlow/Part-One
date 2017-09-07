@@ -47,9 +47,10 @@ A confounding factor must be:
 
 ####By Analysis
 * **Standardisation**  
-  Adjust for differences by transforming data
+  Adjust for differences by transforming data.
 * **Stratification**  
-  Analyse the data in subgroups for each potential confounding factor
+  Analyse the data in subgroups for each potential confounding factor.
+
 ---
 
 ##References  
