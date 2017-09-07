@@ -10,7 +10,7 @@ They include:
   Atrial stretch receptor reflexes
 * Chemoreceptor reflex
   Decreased PaO<sub>2</sub> < 50mmHg or increased pH sensed by peripheral chemoreceptors causes subsequent tachycardia and hypertension
-* Cushing reflex
+* Cushing reflex  
   Brainstem compression causes ischaemia of the vasomotor centre leading to Cushings' Triad:
     * Hypertension  
     May have a wide pulse pressure.
