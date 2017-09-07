@@ -8,13 +8,13 @@ Blood gas machines directly measure three variables and calculate the remainder.
 
 Calculated variables include:
 * Bicarbonate  
-Using the pH, CO<sub>2</sub> and the Henderson-Hasselbalch equation  
+Using the pH, CO<sub>2</sub> and the Henderson-Hasselbalch equation.  
 * Base Excess  
-Calculated using the Henderson-Haselbalch and Siggaard-Anderson equation. Can be expressed in two ways:
+Calculated using the Henderson-Hasselbalch and Siggaard-Anderson equation. Can be expressed in two ways:
   * Base Excess  
   The amount of alkali that must be added to the sample to return it to a normal pH, at a temperature of 37°C and a PaCO<sub>2</sub> of 40mmHg.
   * Standardised Base Excess  
-  As base excess, but calculated for blood of a Hb of 50g.L<sup>-1</sup>, which is thought to better represent the ECF as a whole.
+  As base excess, but calculated for blood with a Hb concentration of 50g.L<sup>-1</sup>. This is thought to better represent the ECF as a whole.
 
 ##Oxygen Tension
 Oxygen tension is measured with a **Clarke electrode**. This consists of:
