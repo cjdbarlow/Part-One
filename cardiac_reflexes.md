@@ -5,11 +5,11 @@ Cardiac reflexes are fast-acting reflex loops between the CVS and CNS which cont
 
 They include:
 * Baroreceptor reflex  
-  Aortic arch and carotid body reflexes
-* Bainbridge reflex
-  Atrial stretch receptor reflexes
-* Chemoreceptor reflex
-  Decreased PaO<sub>2</sub> < 50mmHg or increased pH sensed by peripheral chemoreceptors causes subsequent tachycardia and hypertension
+  Aortic arch and carotid body reflexes.
+* Bainbridge reflex  
+  Atrial stretch receptor reflexes.
+* Chemoreceptor reflex  
+  Decreased PaO<sub>2</sub> < 50mmHg or increased pH sensed by peripheral chemoreceptors causes subsequent tachycardia and hypertension.
 * Cushing reflex  
   Brainstem compression causes ischaemia of the vasomotor centre leading to Cushings' Triad:
     * Hypertension  
