@@ -20,9 +20,9 @@
 |**Route of Administration**|Inhaled, IV|Inhaled|
 |**Dosing**|1-2 puffs via MDI, 5mg nebulised. 0.5mcg.kg<sup>-</sup>.min<sup>-</sup> as IV infusion.||
 |**Onset**|Rapid|Slow|
-|**Distribution**|Low protein binding. t<sub>1/2</sub>β 6 hours.|t<sub>1/2</sub>
-|**Metabolism**|High first pass hepatic to inactive metabolites||
-|**Elimination**|Urinary elimination of active (30%) drug and inactive metabolites|||
+|**Distribution**|Low protein binding|
+|**Metabolism**|High first pass hepatic to inactive metabolites, t<sub>1/2</sub>β 6 hours.|Extensive hepatic via CYP3A4|
+|**Elimination**|Urinary elimination of active (30%) drug and inactive metabolites|Renal of metabolites|
 
 
 ---
