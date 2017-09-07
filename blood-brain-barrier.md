@@ -4,7 +4,7 @@ The blood-brain barrier is a **physiological barrier** which prevents substances
 * Maintain a stable extracellular milieu  
 Optimises neuronal function by preventing fluctuations in plasma K<sup>+</sup>, Na<sup>+</sup>, and H<sup>+</sup> affecting cerebral cells.
 * Protection of the brain  
-Isolates the brain from toxis.
+Isolates the brain from toxins.
 * Protection of the body  
 Isolates the rest of the body from CNS neurotransmitters.
 
