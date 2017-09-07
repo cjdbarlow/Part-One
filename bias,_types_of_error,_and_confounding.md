@@ -9,9 +9,8 @@ In a research study, an observed difference between groups may be due to:
 * An error  
 Error can be due to:
   * Normal random variation, i.e. chance
-  * A systematic difference, i.e. bias
-
-Unlike error due to chance, the effect of bias cannot be reduced by increasing the sample size. 
+  * A systematic difference, i.e. bias  
+  Unlike error due to chance, the effect of bias cannot be reduced by increasing the sample size. 
 
 ####Some of the main types of bias
 | Type of bias | Description | Prevention |
