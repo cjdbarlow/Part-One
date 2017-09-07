@@ -1,7 +1,7 @@
 #Blood-Brain Barrier
 
 The blood-brain barrier is a **physiological barrier** which prevents substances in the ECF of the body moving freely into the ECF of the brain. The functions of the BBB are:
-* Maintain a stable extracellular milieu
+* Maintain a stable extracellular milieu  
 Optimises neuronal function by preventing fluctuations in plasma K<sup>+</sup>, Na<sup>+</sup>, and H<sup>+</sup> affecting cerebral cells.
 * Protection of the brain  
 Isolates the brain from toxis.
