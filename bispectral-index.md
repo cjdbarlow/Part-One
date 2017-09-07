@@ -19,6 +19,15 @@ Percentage of previous 63 seconds where EEG is isoelectric.
 
 ##Method
 Proprietary, but involves:
+* **Compressed Spectral Array**
+ * The signal over a short period (e.g. 5-10 seconds) of EEG recordings are analysed together  
+ Each period is known as an epoch.
+ * A fourier transformation is performed  
+ This breaks the EEG signal down into the sine waves used to produce it.  
+ * A histogram of each frequency is plotted
+ * As anaesthesia deepens, lower frequencies begin to dominate
+ * The **spectral edge frequency** is the frequency greater than 95% of the frequencies in the compressed spectral array  
+ It is an indicator of anaesthetic depth, but not of drug concentration.
 * Multivariate logistic regression of EEG features that correlate with clinical levels of sedation
 * Initial validation on a cohort of healthy volunteers, not undergoing surgery
 * Use of four frontotemporal EEG monitors
