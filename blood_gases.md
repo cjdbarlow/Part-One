@@ -1,7 +1,7 @@
 # Blood Gas Analysis
 > Describe the methods of measurement of oxygen and carbon dioxide tension in blood and blood pH
 
-Blood gas machines directly measure a handful of variables and calculate the rest. Measured variables include:
+Blood gas machines directly measure three variables and calculate the rest. Measured variables are:
 * PO<sub>2</sub>
 * CO<sub>2</sub>
 * pH
