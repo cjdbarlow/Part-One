@@ -53,6 +53,6 @@ A confounding factor must be:
 ---
 
 ##References  
- [^1]: Sackett, D. L. (1979). Bias in analytic research. Journal of Chronic Diseases 32 (1–2): 51–63.  
-[^2]: PS Myles, T Gin. Statistical methods for anaesthesia and intensive care. 1st ed. Oxford: Butterworth-Heinemann, 2001.   
-[^3]: Stats notes from my MPh. Probably a Timothy Schlub lecture, circa 2014.
+1. Sackett, D. L. (1979). Bias in analytic research. Journal of Chronic Diseases 32 (1–2): 51–63.  
+2. PS Myles, T Gin. Statistical methods for anaesthesia and intensive care. 1st ed. Oxford: Butterworth-Heinemann, 2001.   
+3. Stats notes from my MPh (University of Sydney). Probably a Timothy Schlub lecture, circa 2014.
