@@ -31,9 +31,10 @@ Analytic techniques:
  This breaks the EEG signal down into the sine waves used to produce it.  
  * A histogram of each frequency is plotted
  * As anaesthesia deepens, lower frequencies begin to dominate
- * The **spectral edge frequency** is the frequency greater than 95% of the frequencies in the compressed spectral array
-* Conherence
+ * The **spectral edge frequency** is the frequency greater than 95% of the frequencies in the compressed spectral array  
  It is an indicator of anaesthetic depth, but not of drug concentration.
+* **Coherence**  
+Under anaesthesia, the electrical activity in different sections of the brain falls out of phase.
 
 ##Pros
 * Reduced anaesthetic awareness in high risk patient groups  
