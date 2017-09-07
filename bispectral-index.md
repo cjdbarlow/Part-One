@@ -8,7 +8,7 @@ The BIS outputs four values:
 * BIS  
 Dimensionless index between 0 and 100 where:
     * 0 represents cortical electrical silence
-    * 100 represents normal cortical activity
+    * 85-100 represents normal awake cortical activity
     * 40-60 is consistent with general anaesthesia
 * Signal Quality Index (SQI)  
 Dimensionless index between 0 and 100 which gives an indication of the accuracy of the BIS value.
@@ -47,7 +47,7 @@ Trauma, GA caesarian section, cardiac surgery.
 * Expensive
 * Concerns about validity with:
  * Use of muscle relaxants
- * Non-GABAergic agents (e.g. ketamine)
+ * Non-GABAergic agents (e.g. ketamine, nitrous oxide)
 
  ---
  
