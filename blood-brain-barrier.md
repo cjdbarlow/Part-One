@@ -41,15 +41,15 @@ Due to their function, several important CNS structures must exist outside of th
 
 ###Movement of Substances
 Substances can move via:
-* Diffusion  
+* **Diffusion**  
 For lipid soluble molecules only; e.g:
     * CO<sub>2</sub>
     * O<sub>2</sub>
-* Facilitated diffusion  
+* **Facilitated diffusion**  
 For movement of larger/less soluble molecules down their concentration gradient, e.g:
     * Glucose
     * Water
-* Active transport  
+* **Active transport**  
 Responsible for movement of most small ions; e.g:
     * Na<sup>+</sup>
     * Cl<sup>-</sup>
@@ -58,11 +58,11 @@ Responsible for movement of most small ions; e.g:
     * Ca<sup>2+</sup>
     
 Other substances are specifically excluded:
-* Catecholamines  
+* **Catecholamines**  
 Metabolised by MAO in capillary endothelium, preventing their action as CNS neurotransmitters.
-* Amino acids  
+* **Amino acids**  
 Prevent action as neurotransmitters.
-* Ammonia  
+* **Ammonia**  
 Metabolised in astrocytes to glutamine, limiting its neurotoxic effects.
 
 
