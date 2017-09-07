@@ -11,7 +11,12 @@ They include:
 * Chemoreceptor reflex
   Decreased PaO<sub>2</sub> < 50mmHg or increased pH sensed by peripheral chemoreceptors causes subsequent tachycardia and hypertension
 * Cushing reflex
-  Brainstem compression causes ischaemia of the vasomotor centre leading to Cushings' Triad: Bradycardia, hypertension wide a wide pulse pressure, and irregular respirations
+  Brainstem compression causes ischaemia of the vasomotor centre leading to Cushings' Triad:
+    * Hypertension  
+    May have a wide pulse pressure.
+    * Bradycardia  
+    Secondary to baroreceptor response due to hypertension.
+    * Irregular respirations
 * Bezold-Jarisch reflex
 * Oculocardic reflex
 
