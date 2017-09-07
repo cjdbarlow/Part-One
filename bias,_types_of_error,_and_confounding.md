@@ -12,7 +12,7 @@ Error can be due to:
   * A systematic difference, i.e. bias  
   Unlike error due to chance, the effect of bias cannot be reduced by increasing the sample size. 
 
-####Some of the main types of bias
+###Types of Bias
 | Type of bias | Description | Prevention |
 | -- | -- | -- |
 | Selection | Where subject allocation results in treatment groups that are systematically different, apart from in the intervention being studied | Randomisation |
