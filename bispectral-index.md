@@ -49,7 +49,10 @@ Trauma, GA caesarian section, cardiac surgery.
  * Use of muscle relaxants
  * Non-GABAergic agents (e.g. ketamine, nitrous oxide)
 
+
  ---
  
  ##References
+ 1. Aston D, Rivers A, Dharmadasa A. Equipment in Anaesthesia and Intensive Care: A complete guide for the FRCA. Scion Publishing Ltd. 2014.
+
   
