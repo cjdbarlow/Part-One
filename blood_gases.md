@@ -8,7 +8,7 @@ Blood gas machines directly measure three variables and calculate the remainder.
 
 Calculated variables include:
 * Bicarbonate  
-Using the pH, CO<sub>2</sub> and the Henderson-Haselbalch equation  
+Using the pH, CO<sub>2</sub> and the Henderson-Hasselbalch equation  
 * Base Excess  
 Calculated using the Henderson-Haselbalch and Siggaard-Anderson equation. Can be expressed in two ways:
   * Base Excess  
