@@ -45,8 +45,14 @@ Trauma, GA caesarian section, cardiac surgery.
 ##Cons
 * Proprietary algorithim
 * Expensive
-* May be inappropriately fall with use of muscle relaxants
-* May not fall appropriately with non-GABAergic agents (e.g. ketamine, nitrous oxide)
+* May be inaccurate with:
+ * Hypothermia
+ * Hypercarbia
+ * Hypoxia
+ * Muscle relaxants  
+ BIS may fall inappropriately.
+ * Non-GABAergic agents (e.g. ketamine, nitrous oxide)    
+ May not fall appropriately.
 
 
  ---
