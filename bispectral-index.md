@@ -45,8 +45,8 @@ Trauma, GA caesarian section, cardiac surgery.
 ##Cons
 * Proprietary algorithim
 * Expensive
-* Concerns about validity with:
- * Use of muscle relaxants
+* May be inappropriately fall with use of muscle relaxants
+* May not fall appropriately with:
  * Non-GABAergic agents (e.g. ketamine, nitrous oxide)
 
 
