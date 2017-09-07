@@ -15,7 +15,7 @@ They include:
     * Hypertension  
     May have a wide pulse pressure.
     * Bradycardia  
-    Secondary to baroreceptor response due to hypertension.
+    Due to baroreceptor response from hypertension.
     * Irregular respirations
 * Bezold-Jarisch reflex
 * Oculocardic reflex
