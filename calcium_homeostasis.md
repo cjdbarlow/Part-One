@@ -5,7 +5,8 @@
 > Describe the control of plasma calcium.
 
 Calcium is a bivalent cation. Almost all (99%) of calcium is located in bone, with the remainder in plasma and soft tissues. Normal plasma levels are 2.2-2.55 mmol.L<sup>-1</sup>, which (in plasma) may be:
-* Ionised (free) calcium (50%, normal range 1.1 to 1.3mmol<sup>-1</sup>)
+* Ionised (free) calcium (50%)  
+Normal range 1.1 to 1.3mmol<sup>-1</sup>.
 * Bound to albumin (40%)
 * As calcium compounds (10%)
 
