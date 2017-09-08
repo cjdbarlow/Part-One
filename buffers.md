@@ -104,10 +104,9 @@ $$ H_2PO_4^- ⇌ H^+ + HPO_4^-$$
 * In prolonged acidosis, CaPO<sub>4</sub> can be mobilised from bones and can be considered as an alkali reserve
 
 ##Footnotes
-* Alex Yartsev offers an [excellent discussion on the buffering](http://www.derangedphysiology.com/main/core-topics-intensive-care/acid-base-disturbances/Chapter%202.0.3/buffering-acute-respiratory-acid-base-disturbances
+1. Alex Yartsev offers an [excellent discussion on the buffering](http://www.derangedphysiology.com/main/core-topics-intensive-care/acid-base-disturbances/Chapter%202.0.3/buffering-acute-respiratory-acid-base-disturbances
 ) in his excellent trademark prose at [Deranged Physiology](http://www.derangedphysiology.com)
-
-* Brandis's [anaesthesia MCQ](http://www.anaesthesiamcq.com/AcidBaseBook/ab2_2.php) is required reading
+2. Brandis's [anaesthesia MCQ](http://www.anaesthesiamcq.com/AcidBaseBook/ab2_2.php) is required reading
 
 ---
 ##References
