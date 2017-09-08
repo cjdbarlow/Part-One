@@ -44,7 +44,7 @@ $$Ag + Cl^- \Rightarrow AgCl + e^-$$
 Requires regular two-point calibration.
 * Cathode must be kept clean from protein and not damaged
 * Cathode must be kept at 37°C
-* May read falsely high with Halothane
+* May read falsely high with halothane
 
 ##pH Measurement
 pH is a measure of the hydrogen ion concentration[^1] in solution, and is defined as the negative logarithm to the base 10 of the [H<sup>+</sup>]:
@@ -110,7 +110,7 @@ Carbon dioxide tension is measured with a **Severinghaus electrode**, which is b
 This can be accelerated with carbonic anhydrase
 
 ##Footnotes
-1. Technically pH is defined as the **activity** of H<sup>+</sup> in a solution. Clinically, activity is identical to concentration, so in medicine these definitions are functionally the same.
+[^1]: Technically pH is defined as the **activity** of H<sup>+</sup> in a solution. Clinically, activity is identical to concentration, so in medicine these definitions are functionally the same.
 
 
 ---
