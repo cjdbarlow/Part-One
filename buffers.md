@@ -39,7 +39,9 @@ Carbonic acid is exceedingly short lived in any environment even remotely compat
 
 $$H_2CO_3 ⇌H CO_3^- + H^+  ⇌  CO_3^{2-} + 2H^+$$
 
-Each stage of the reaction has an individual pKa. As the pKa of the $$H_2CO_3 ⇌H CO_3^- + H^+ $$ system is 6.1, these substances predominate at physiological pH (the pKa for the second stage of the reaction is 9.3 and so essentially no CO<sub>3</sub><sup>2-</sup> exists in blood).
+Each stage of the reaction has an individual pKa:
+* As the pKa of the $$H_2CO_3 ⇌H CO_3^- + H^+ $$ system is 6.1, these substances predominate at physiological pH
+* The pKa for the second stage of the reaction is 9.3 and so essentially no CO<sub>3</sub><sup>2-</sup> exists in blood
 
 Practically, then, the last stage can be discarded. However, carbonic anhydrase (present in erythrocytes) converts H<sub>2</sub>O and CO<sub>2</sub> to H<sub>2</sub>CO<sub>3</sub> and back again. The reaction then becomes:
 
