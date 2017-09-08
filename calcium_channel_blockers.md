@@ -32,6 +32,6 @@ L-type channels exist in myocardium, nodal, and vascular smooth muscle.
 
 ---
 ##References
-Peck and Hill
-Smith Scarth Sasada
-Rang and Dale
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+3. Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.
