@@ -111,7 +111,7 @@ Carbon dioxide tension is measured with a **Severinghaus electrode**, which is b
 This can be accelerated with carbonic anhydrase
 
 ##Footnotes
-1. Technically pH is defined as the **activity** of H<sup>+</sup> in a solution. Clinically, activity is identical to concentration, so  these definitions are functionally the same.
+1. Technically pH is defined as the **activity** of H<sup>+</sup> in a solution. Clinically, activity is identical to concentration, so in medicine these definitions are functionally the same.
 
 
 ---
