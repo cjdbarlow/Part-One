@@ -3,7 +3,7 @@
 Ca<sup>2+</sup>-channel blockers:
 * Have affinity for L-type calcium channels  
 L-type channels exist in myocardium, nodal, and vascular smooth muscle.
-    * Variable affinity for each causes a preference for either nodal and inotropic effects, or vascular effects
+    * Variable affinity for each causes a preference for either nodal and inotropic, or vascular effects
 * Prevent Ca<sup>2+</sup> entry into cells in a use-dependent fashion
 
 |Class|Chemical Structure|Drugs|
