@@ -51,8 +51,10 @@ $$ H_2O + CO_2 ⇌ H_2CO_3 ⇌H CO_3^- + H^+ $$
 The bicarbonate is an effective buffer as it is:
 * Present in large amounts
 * **Open at both ends**  
-The speed of reaction can be adjusted by altering the products of reactants
-  * the body is capable of adjusting CO<sub>2</sub> by adjusting ventilation, and eliminating bicarbonate in the kidney. This prevents the bicarbonate buffer system from equilibrating (as the products of the reaction in either direction can be eliminated) and allows it to resist resist large changes in pH despite its low pKa. However, because it relies heavily on changes in pulmonary ventilation it is unable to buffer respiratory acid-base disturbances.
+  * CO<sub>2</sub> can be adjusted by changing ventilation
+  * Bicarbonate can be adjusted by changing renal elimination
+  * This prevents the bicarbonate buffer system from equilibrating and allows it to resist resist large changes in pH despite its low pKa  
+  However, because it relies heavily on changes in pulmonary ventilation it is **unable to effectively buffer respiratory acid-base disturbances**.
 
 Addition of a strong acid drives the above reaction to the left, forming (briefly) H<sub>2</sub>CO<sub>3</sub> before it dissociates to CO<sub>2</sub> and H<sub>2</sub>O. CO<sub>2</sub> is then able to be exhaled, which prevents equilbration and allows the system to buffer more acid.
 
