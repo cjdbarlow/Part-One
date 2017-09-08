@@ -68,9 +68,8 @@ This curve plots PCO<sub>2</sub> against blood CO<sub>2</sub> content in ml.100m
 Key points:
 * Mixed venous CO<sub>2</sub> content is 52ml.100ml<sup>-1</sup>, at a PCO<sub>2</sub> of 46mmHg
 * Arterial CO<sub>2</sub> content is 48ml.100ml<sup>-1</sup>, at a PCO<sub>2</sub> of 40mmHg
-
-
-This is influenced by PO<sub>2</sub>, as though dissolved CO<sub>2</sub> and bicarbonate are largely independent of PO<sub>2</sub>, the Haldane effect means that carbamino carriage of CO<sub>2</sub> is influenced by PO<sub>2</sub>.
+* Approximately 50% of the arterial-mixed venous difference occurs due to the upwards shift of the curve, which is due to the Haldane effect  
+This is the mechanism for changes in PO<sub>2</sub> affecting the CO<sub>2</sub> dissociation curve.
 
 
 ##Removal of CO<sub>2</sub>
