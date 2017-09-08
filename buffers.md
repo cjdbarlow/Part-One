@@ -95,13 +95,13 @@ In the cell:
     * This is the mechanism behind the **Haldane effect**, and why venous blood is only slightly more acidic than arterial blood
 
 ###Phosphate Buffer System
-Phosphoric acid is tribasic and can donate potentially three hydrogen ions, though only one of these reactions is relevant at physiological pH, with a pKa of 6.8:
-
+Phosphoric acid is:
+* Tribasic and can therefore potentially donate three hydrogen ions
+* However, only one of these reactions is relevant at physiological pH, with a pKa of 6.8:  
 $$ H_2PO_4^- ⇌ H^+ + HPO_4^-$$
-
-Though the pKa makes phosphate an optimal buffer system, as it is a closed system and the plasma concentration is low its quantitative effect the ECF is minor. At higher concentrations, such as intracellularly and in urine, it is a significant contributor.
-
-In prolonged acidosis, CaPO<sub>4</sub> can be mobilised from bones and can be considered as an alkali reserve.
+* The quantitative effect is low despite the optimal pKa due to the low plasma concentration of phosphate
+* At higher concentrations, such as intracellularly and in urine, it is a significant contributor
+* In prolonged acidosis, CaPO<sub>4</sub> can be mobilised from bones and can be considered as an alkali reserve
 
 ---
 ##References
