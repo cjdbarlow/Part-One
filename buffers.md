@@ -62,8 +62,12 @@ Bicarbonate is an effective buffer because it is:
 
 
 ###Protein Buffer System
-All proteins contain potential buffer groups, but the only one of use at physiological pH is the **imidazole groups** of the **histidine residues**. Extracellularly, they have are a small contributor due to the low pKa, but are effective intracellularly due to their much higher concentration and because intracellular pH (6.8) is much lower and closer to their pKa.
-
+* All proteins contain potential buffer groups  
+However, the only one of use at physiological pH is the **imidazole groups** of the **histidine residues**.
+* Extracellularly, proteins have a small contribution due to their low pKa
+* Intracellularly proteins have a much greater contribution because:
+  * Intracellular protein concentration is much greater than extracellular concentration
+  * Intracellular pH is much lower (~6.8) and closer to their pKa
 
 ####Haemoglobin Buffer System
 Haemoglobin is a protein buffer system, and quantitativly the most important non-bicarbonate buffer system of blood. This is because it exists in greater amounts than plasma proteins (150g.L<sup>-1</sup> compared to 70g.L<sup>-1</sup>), and because each molecule contains 38 histidine residues (which gives 1g of Hb ~3x the buffering capacity of 1g of plasma protein).
