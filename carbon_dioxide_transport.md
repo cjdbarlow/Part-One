@@ -14,7 +14,7 @@
 
 CO<sub>2</sub> is produced in the mitochondria during the citric-acid cycle as a product of metabolism.
 * There is **~120L** of carbon dioxide in the body  
-1.8L.kg<sup>-1</sup>, 1.6L.kg<sup>-1</sup> of which is in relatively inaccessible compartments.
+A total of 1.8L.kg<sup>-1</sup>, 1.6L.kg<sup>-1</sup> of which is in relatively inaccessible compartments.
 * Normal elimination (and, at steady state, production) of carbon dioxide is **200ml.min<sup>-1</sup>**
 
 ##Carbon Dioxide in Blood
@@ -30,12 +30,12 @@ In blood, CO<sub>2</sub> is stored as:
 |Carbamino compounds|5%|30%|
 
 ###Bicarbonate
-* CO<sub>2</sub> diffuses freely into erythrocytes, where it can be catalysed by carbonic anhydrase to produce bicarbonate  
+* CO<sub>2</sub> diffuses freely into erythrocytes, where it can be catalysed by carbonic anhydrase to produce bicarbonate:  
 $$CO_2 + H_2O \Leftrightarrow H_2CO_3 \Leftrightarrow H^+ + HCO_3^-$$
 * To maintain bicarbonate production, the products (H<sup>+</sup> and HCO<sub>3</sub><sup>-</sup>) are then removed:
   * **H<sup>+</sup>** ions are **buffered** to **haemoglobin**  
   $$HbO_2 + H^+ \Leftrightarrow HHb + O_2 $$
-  * Intracellular **HCO<sub>3</sub><sup>-</sup>** is then exchanged with extracellular **Cl-** via the BAND 3 membrane protein
+  * Intracellular **HCO<sub>3</sub><sup>-</sup>** is then exchanged with extracellular **Cl-** via the BAND3 membrane protein
     * This is called the Hamburger, or **Chloride Shift**
     * Chloride entering the cell draws water in along its osmotic gradient, **increasing the haematocrit of venous blood** relative to arterial blood
 
@@ -48,7 +48,7 @@ $$CO_2 + H_2O \Leftrightarrow H_2CO_3 \Leftrightarrow H^+ + HCO_3^-$$
 $$Hb + CO_2 \Leftrightarrow HbCOO^- + H^+ $$
   * The H<sup>+</sup> ion is then buffered by another plasma protein (also predominantly haemoglobin)  
     $$Hb + H^+ \Leftrightarrow HHb $$
-* Bound CO<sub>2</sub> no longer contributes to the partial pressure gradient
+* Bound CO<sub>2</sub> does not contribute to the partial pressure gradient
 * This is a small contributor to overall CO<sub>2</sub> carriage, but contributes about one third of the arterio-venous CO<sub>2</sub> difference due to the **Haldane effect**:  The Haldane effect states that deoxyHb binds CO<sub>2</sub> more effectively than oxyHb. This is because:
   * DeoxyHb is a **better buffer** of **H<sup>+</sup>**  
   pKa of deoxyHb is 8.2, compared to that of oxyHb which is 6.6.
