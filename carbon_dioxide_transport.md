@@ -57,7 +57,8 @@ $$Hb + CO_2 \Leftrightarrow HbCOO^- + H^+ $$
 ###CO<sub>2</sub> Dissociation Curve
 This curve plots PCO<sub>2</sub> against blood CO<sub>2</sub> content in ml.100ml<sup>-1</sup>.
 
-CO2 DISSOCIATION CURVE GRAPH PAGE 100 POWER AND KAM
+<object data="resources\co2-dissociation-curve.svg" type="image/svg+xml"></object>
+
 
 This is influenced by PO<sub>2</sub>, as though dissolved CO<sub>2</sub> and bicarbonate are largely independent of PO<sub>2</sub>, the Haldane effect means that carbamino carriage of CO<sub>2</sub> is influenced by PO<sub>2</sub>.
 
