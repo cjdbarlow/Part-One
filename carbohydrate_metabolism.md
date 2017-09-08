@@ -11,11 +11,8 @@ This cannot be released into circulation, and is for use only by the muscle.
 
 Production of glycogen is stimulated by insulin, which is released as plasma glucose levels rise following carbohydrate ingestion. When plasma glucose levels fall, the release of glucagon and adrenaline stimulates glycogenolysis.
 
-##Metabolism
-
-###Gluconeogenesis
-Gluconeogenesis is the production of glucose from other molecules. It:
-* Is a separate pathway
+##Gluconeogenesis
+Gluconeogenesis is the production of glucose from other molecules. Gluconeogenesis:
 * Requires ATP to perform  
 Some organs (heart, brain) rely on glucose for ATP
 * Has many potential substrates:
