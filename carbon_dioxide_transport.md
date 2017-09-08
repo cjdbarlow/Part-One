@@ -113,8 +113,7 @@ CO<sub>2</sub> in the body can be considered as a three-compartment model:
 * Alveolar CO<sub>2</sub> is then diluted by dead space gas, resulting in a lower ME'CO<sub>2</sub>
 
 
-
 ---
 ##References
-Nunns
-http://www.frca.co.uk/Documents/160%20Respiratory%20physiology%20-%20part%202%20compressed.pdf
+1. Lumb A. Nunn's Applied Respiratory Physiology. 7th Edition. Elsevier. 2010.
+2. [FRCA: Anaesthesia Tutorial of the Week - Respiratory Physiology](http://www.frca.co.uk/Documents/160%20Respiratory%20physiology%20-%20part%202%20compressed.pdf)
