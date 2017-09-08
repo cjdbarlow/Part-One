@@ -52,7 +52,7 @@ $$ H_2O + CO_2 ⇌ H_2CO_3 ⇌H CO_3^- + H^+ $$
 
 
 
-The bicarbonate is an effective buffer as it is:
+Bicarbonate is an effective buffer because it is:
 * Present in large amounts
 * **Open at both ends**  
   * CO<sub>2</sub> can be adjusted by changing ventilation
