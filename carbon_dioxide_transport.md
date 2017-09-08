@@ -83,7 +83,6 @@ $$PACO_2 \propto {1 \over \dot{V}_A}$$
 
 <object data="resources\paco2-vs-MV.svg" type="image/svg+xml"></object>
 
-
 ##Distribution of Carbon Dioxide
 CO<sub>2</sub> in the body can be considered as a three-compartment model:
 * Well-perfused (blood, brain, kidneys)
