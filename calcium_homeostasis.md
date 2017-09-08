@@ -16,11 +16,15 @@ Calcium has a number of roles in cell signaling:
   * Affects cell sodium permeability and therefore the RMP of excitable cells
   * Calcium triggers exocytosis of neurotransmitter vesicles
   * Calcium is an important second messenger for some G proteins
+  
+
 * **Bone**  
 Calcium has two functions in bone:
   * Physical structure
   * Alkali reserve  
-  Calcium phosphate can be mobilised to buffer a
+  Calcium phosphate can be mobilised to buffer acidosis.
+  
+  
 * **Enzymatic cofactor**  
 Calcium is an important cofactor in enzymatic pathways, including the coagulation cascade. Clinical hypocalcaemia does not cause coagulopathy however, as calcium levels low enough to prevent coagulation are not compatible with life.
 
