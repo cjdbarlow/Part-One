@@ -109,6 +109,7 @@ Carbon dioxide tension is measured with a **Severinghaus electrode**, which is b
 * Slow response time relative to pH electrode due to time taken for CO<sub>2</sub> to diffuse and react  
 This can be accelerated with carbonic anhydrase
 
+
 ##Footnotes
 [^1]: Technically pH is defined as the **activity** of H<sup>+</sup> in a solution. Clinically, activity is identical to concentration, so in medicine these definitions are functionally the same.
 
