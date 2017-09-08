@@ -115,8 +115,6 @@ This can be accelerated with carbonic anhydrase
 
 ---
 ##References
-Dr. Podcast Oxygen Measurement
-Dr. Podcast CO2 and pH measurement
-David and Kenny
-http://www.frca.co.uk/article.aspx?articleid=100389
-Aston
+1. Leslie RA, Johnson EK, Goodwin APL. Dr Podcast Scripts for the Primary FRCA. Cambridge University Press. 2011.
+2. (FRCA - Measurement of pO2, pCO2, pH, pulse oximetry and capnography)[http://www.frca.co.uk/article.aspx?articleid=100389]
+3. Aston D, Rivers A, Dharmadasa A. Equipment in Anaesthesia and Intensive Care: A complete guide for the FRCA. Scion Publishing Ltd. 2014.
