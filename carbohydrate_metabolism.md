@@ -11,6 +11,18 @@ This cannot be released into circulation, and is for use only by the muscle.
 
 Production of glycogen is stimulated by insulin, which is released as plasma glucose levels rise following carbohydrate ingestion. When plasma glucose levels fall, the release of glucagon and adrenaline stimulates glycogenolysis.
 
+##Metabolism
+
+##Glycolysis
+Glycolysis:
+* Describes the process of converting glucose into pyruvate  
+This is known as the Embden-Meyerhof pathway.
+* Occurs in the cytoplasm
+* Does not consume oxygen or produce carbon dioxide
+* Produces 2 ATP  
+Glycolysis allows production of ATP in anaerobic conditions.
+
+
 ##Gluconeogenesis
 Gluconeogenesis is the production of glucose from other molecules. Gluconeogenesis:
 * Requires ATP to perform  
