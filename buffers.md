@@ -29,7 +29,13 @@ All buffer systems are in equilibrium with the same amount of H<sup>+</sup>. Thi
 
 
 ###Bicarbonate Buffer System
-Bicarbonate is the most important ECF buffer system. In blood, bicarbonate is formed in the erythrocyte and then diffuses into plasma. Bicarbonate is also the dominant interstial fluid buffer. Bicarbonate and carbonic acid act as a buffer pair, though carbonic acid is exceedingly short lived in any environment even remotely compatible with life and it rapidly dissociates to HCO<sub>3</sub><sup>-</sup> and H<sup>+</sup>.
+The bicarbonate buffer system is:
+* The most important ECF buffer system
+  * Bicarbonate is formed in the erythrocyte and then secreted into plasma
+  * Bicarbonate diffuses into the interstitium and is also the dominant fluid buffer in interstitial space
+* Formed in the erythrocyte
+* A **buffer pair** consisting of bicarbonate and carbonic acid  
+Carbonic acid is exceedingly short lived in any environment even remotely compatible with life and it rapidly dissociates to HCO<sub>3</sub><sup>-</sup> and H<sup>+</sup>.
 
 $$H_2CO_3 ⇌H CO_3^- + H^+  ⇌  CO_3^{2-} + 2H^+$$
 
