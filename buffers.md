@@ -5,7 +5,10 @@ A **buffer** is a solution which consists of a **weak acid and its conjugate bas
 
 $$ Buffer + H^+ ⇌ H.Buffer $$
 
-Buffering is a key part of acid-base homeostasis. It allows compensation for large changes in acid or alkali load with minimal change in hydrogen ion concentration. In one experiment, dogs were infused with 14,000,000 nmol.L<sup>-1</sup> of H<sup>+</sup>, with a corresponding rise in H<sup>+</sup> of only 36 nmol.L<sup>-1</sup>.
+Buffering:
+* Is a key part of acid-base homeostasis
+* Allows compensation for large changes in acid or alkali load with minimal change in hydrogen ion concentration  
+  * In one experiment, dogs were infused with 14,000,000 nmol.L<sup>-1</sup> of H<sup>+</sup>, with a corresponding rise in H<sup>+</sup> of only 36 nmol.L<sup>-1</sup>
 
 Efficacy of a buffer system is determined by:
 * **pKa** of the buffer  
