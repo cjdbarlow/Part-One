@@ -12,6 +12,7 @@ L-type channels exist in myocardium, nodal, and vascular smooth muscle.
 |Class II|Dihydropyridines|Nifedipine, amlodipine, nimodipine|
 |Class III|Benzothiazepines|Diltiazem|
 
+##Comparison of Calcium Channel Blockers
 |Property|Verapamil|Amlodipine|Diltiazem|
 |--|--|
 |**Class**|Phenylalkylamine|Dihydropyridine|Benzothiazepine|
