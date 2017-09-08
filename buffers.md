@@ -63,7 +63,7 @@ Bicarbonate is an effective buffer because it is:
 
 ###Protein Buffer System
 * All proteins contain potential buffer groups  
-However, the only one of use at physiological pH is the **imidazole groups** of the **histidine residues**.
+However, the useful one at physiological pH is the **imidazole groups** of the **histidine residues**.
 * Extracellularly, proteins have a small contribution due to their low pKa
 * Intracellularly proteins have a much greater contribution because:
   * Intracellular protein concentration is much greater than extracellular concentration
