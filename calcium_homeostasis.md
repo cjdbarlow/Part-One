@@ -43,6 +43,7 @@ Once converted to calcitriol in the kidney (via stimulation from PTH), vitamin D
   * Increase calcium reabsorption from kidney and gut
   * Increase bone calcification
 
+
 * **Calcitonin**  
 Peptide hormone secreted by the C cells of the thyroid gland, in response to a rise in iCa<sup>2+</sup> greater than 2.4mmol.L<sup>-1</sup>. Calcitonin acts to:
   * Decrease absorption of calcium from gut and kidney
@@ -50,5 +51,5 @@ Peptide hormone secreted by the C cells of the thyroid gland, in response to a r
 
 ---
 ##References
-Brandis
-Chambers
+1. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.
+2. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
