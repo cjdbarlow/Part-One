@@ -36,7 +36,7 @@ $$Ag + Cl^- \Rightarrow AgCl + e^-$$
 * At the cathode, oxygen combines with electrons and water to produce hydroxyl ions: $$O_2 + 4e^- + 2H_2O \Rightarrow 4OH^-$$
 * For each oxygen molecule present at the cathode, four electrons can be consumed
 * Increasing the oxygen available at the cathode increases the number of electrons consumed, and therefore increases **current flow**
-  * Oxygen will move from the sample to the measuring chamber according to its partial pressure
+  * Oxygen will move from the sample chamber to the measuring chamber according to its partial pressure
 * Measured current flow is therefore proportional to oxygen tension in blood
 
 ###Calibration, Limitations, and Accuracy
