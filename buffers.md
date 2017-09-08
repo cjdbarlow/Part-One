@@ -37,15 +37,15 @@ The bicarbonate buffer system is:
 * A **buffer pair** consisting of bicarbonate and carbonic acid  
 Carbonic acid is exceedingly short lived in any environment even remotely compatible with life and it rapidly dissociates to HCO<sub>3</sub><sup>-</sup> and H<sup>+</sup>.
 
-$$H_2CO_3 ⇌H CO_3^- + H^+  ⇌  CO_3^{2-} + 2H^+$$
-
-Each stage of the reaction has an individual pKa:
-* As the pKa of the $$H_2CO_3 ⇌H CO_3^- + H^+ $$ system is 6.1, these substances predominate at physiological pH
-* The pKa for the second stage of the reaction is 9.3 and so essentially no CO<sub>3</sub><sup>2-</sup> exists in blood
-
-Practically, then, the last stage can be discarded. However, carbonic anhydrase (present in erythrocytes) converts H<sub>2</sub>O and CO<sub>2</sub> to H<sub>2</sub>CO<sub>3</sub> and back again. The reaction then becomes:
-
-$$ H_2O + CO_2 ⇌ H_2CO_3 ⇌H CO_3^- + H^+ $$
+Hydrogen ions are consumed or released by the following reaction:
+* $$H_2CO_3 ⇌H CO_3^- + H^+  ⇌  CO_3^{2-} + 2H^+$$
+* Carbonic anhydrase (present in erythrocytes) is an enzyme which allows rapid conversion of H<sub>2</sub>O and CO<sub>2</sub> to H<sub>2</sub>CO<sub>3</sub> (and back again)
+* Each stage of the reaction has an individual pKa:
+  * As the pKa of the $$H_2CO_3 ⇌H CO_3^- + H^+ $$ system is 6.1, these substances predominate at physiological pH
+  * The pKa for the second stage of the reaction is 9.3 and so essentially no CO<sub>3</sub><sup>2-</sup> exists in blood  
+  Clincically this reaction can be ignored.
+* In clinical conditions, the reaction becomes:
+* $$ H_2O + CO_2 ⇌ H_2CO_3 ⇌H CO_3^- + H^+ $$
 
 Therefore the bicarbonate buffer system is **open at both ends** as the body is capable of adjusting CO<sub>2</sub> by adjusting ventilation, and eliminating bicarbonate in the kidney. This prevents the bicarbonate buffer system from equilibrating (as the products of the reaction in either direction can be eliminated) and allows it to resist resist large changes in pH despite its low pKa. However, because it relies heavily on changes in pulmonary ventilation it is unable to buffer respiratory acid-base disturbances.
 
