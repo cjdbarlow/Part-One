@@ -1,6 +1,10 @@
 # Calcium Channel Blockers
 
-Ca<sup>2+</sup>-channel blockers prevent Ca<sup>2+</sup> entry into L-type calcium channels in a use-dependent fashion. L-type channels exist in myocardium, nodal, and vascular smooth muscle. Variable affinity for each causes a preference for either nodal and inotropic effects, or vascular effects, which has led to the following classification:
+Ca<sup>2+</sup>-channel blockers:
+* Have affinity for L-type calcium channels  
+L-type channels exist in myocardium, nodal, and vascular smooth muscle.
+    * Variable affinity for each causes a preference for either nodal and inotropic effects, or vascular effects
+* Prevent Ca<sup>2+</sup> entry into cells in a use-dependent fashion
 
 |Class|Chemical Structure|Drugs|
 |--|--|--|
