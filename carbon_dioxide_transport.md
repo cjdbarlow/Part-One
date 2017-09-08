@@ -81,8 +81,7 @@ Simplified, PaCO<sub>2</sub> is inversely proportional to alveolar ventilation:
 
 $$PACO_2 \propto {1 \over \dot{V}_A}$$
 
-
-GRAPH OF CO2 RESPONSE CURVES
+<object data="resources\paco2-vs-MV.svg" type="image/svg+xml"></object>
 
 
 ##Distribution of Carbon Dioxide
