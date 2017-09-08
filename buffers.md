@@ -111,6 +111,5 @@ $$ H_2PO_4^- ⇌ H^+ + HPO_4^-$$
 
 ---
 ##References
-Ganong
-
-Power and Kam
+1. Barrett KE, Barman SM, Boitano S, Brooks HL. Ganong's Review of Medical Physiology. 24th Ed. McGraw Hill. 2012.
+2. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
