@@ -47,6 +47,10 @@ Hydrogen ions are consumed or released by the following reaction:
   Clincically this reaction can be ignored.
 * In clinical conditions, the reaction becomes:  
 $$ H_2O + CO_2 ⇌ H_2CO_3 ⇌H CO_3^- + H^+ $$
+  * Addition of a strong acid drives the above reaction to the left, forming (briefly) H<sub>2</sub>CO<sub>3</sub> before it dissociates to CO<sub>2</sub> and H<sub>2</sub>O
+    * CO<sub>2</sub> is then able to be exhaled, which prevents equilbration and allows the system to buffer more acid
+
+
 
 The bicarbonate is an effective buffer as it is:
 * Present in large amounts
@@ -56,7 +60,6 @@ The bicarbonate is an effective buffer as it is:
   * This prevents the bicarbonate buffer system from equilibrating and allows it to resist resist large changes in pH despite its low pKa  
   However, because it relies heavily on changes in pulmonary ventilation it is **unable to effectively buffer respiratory acid-base disturbances**.
 
-Addition of a strong acid drives the above reaction to the left, forming (briefly) H<sub>2</sub>CO<sub>3</sub> before it dissociates to CO<sub>2</sub> and H<sub>2</sub>O. CO<sub>2</sub> is then able to be exhaled, which prevents equilbration and allows the system to buffer more acid.
 
 ###Protein Buffer System
 All proteins contain potential buffer groups, but the only one of use at physiological pH is the **imidazole groups** of the **histidine residues**. Extracellularly, they have are a small contributor due to the low pKa, but are effective intracellularly due to their much higher concentration and because intracellular pH (6.8) is much lower and closer to their pKa.
