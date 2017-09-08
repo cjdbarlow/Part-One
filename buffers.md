@@ -64,17 +64,35 @@ Bicarbonate is an effective buffer because it is:
 ###Protein Buffer System
 * All proteins contain potential buffer groups  
 However, the useful one at physiological pH is the **imidazole groups** of the **histidine residues**.
-* Extracellularly, proteins have a small contribution due to their low pKa
+* Extracellularly, proteins have a small contribution which is entirely due to their low pKa
 * Intracellularly proteins have a much greater contribution because:
   * Intracellular protein concentration is much greater than extracellular concentration
   * Intracellular pH is much lower (~6.8) and closer to their pKa
 
 ####Haemoglobin Buffer System
-Haemoglobin is a protein buffer system, and quantitativly the most important non-bicarbonate buffer system of blood. This is because it exists in greater amounts than plasma proteins (150g.L<sup>-1</sup> compared to 70g.L<sup>-1</sup>), and because each molecule contains 38 histidine residues (which gives 1g of Hb ~3x the buffering capacity of 1g of plasma protein).
+Haemoglobin is:
+* A protein buffer system
+* Quantitativly the most important non-bicarbonate buffer system of blood  
+This is because haemoglobin:
+  * Exists in greater amounts than plasma proteins (150g.L<sup>-1</sup> compared to 70g.L<sup>-1</sup>)
+  * Each molecule contains 38 histidine residues  
+  This results in 1g of Hb ~3x the buffering capacity of 1g of plasma protein.
 
-In the cell, haemoglobin exists as a weak acid ($$HHb$$) as well as its potassium salt ($$KHb$$). In acidosis, additional H<sup>+</sup> ions are bound to Hb molecules. HCO<sub>3</sub><sup>-</sup> diffuses down its concentration gradient into plasma. Electroneutrality is maintained through the inwards movement of Cl<sup>-</sup>. Dissolved CO<sub>2</sub> will also form carbamino compounds by binding to the terminal amino groups.
-
-The **pKa** of Hb is **variable** depending on whether it has bound oxygen. **Deoxyhaemoglobin** has a **pKa of 8.2**, and **oxyhaemoglobin** has a **pKa of 6.6**. Both are essentially equidistant from normal pH, and are equally effective buffers. Because of its higher pKa, deoxyhaemoglobin will more readily accept H<sup>+</sup> ions which makes it a better buffer of acidic solutions. Quantitatively, **per mmol of oxyhaemoglobin reduced, ~0.7mmol of H<sup>+</sup> can be buffered** and therefore 0.7mmol of CO<sub>2</sub> can enter blood without a change in pH. This is the mechanism behind the **Haldane effect**, and why venous blood is only slightly more acidic than arterial blood.
+In the cell:
+* Haemoglobin exists as a weak acid ($$HHb$$) as well as its potassium salt ($$KHb$$)
+* In acidosis:
+  * Additional H<sup>+</sup> ions are bound to Hb molecules
+  * HCO<sub>3</sub><sup>-</sup> diffuses down its concentration gradient into plasma  
+  Electroneutrality is maintained through the inwards movement of Cl<sup>-</sup>.
+  * Dissolved CO<sub>2</sub> will also form carbamino compounds by binding to the terminal amino groups
+* The **pKa** of Hb is **variable** depending on whether it has bound oxygen:
+  * **Deoxyhaemoglobin** has a **pKa of 8.2**  
+  Because of its higher pKa, deoxyhaemoglobin will more readily accept H<sup>+</sup> ions which makes it a better buffer of acidic solutions.
+  * **Oxyhaemoglobin** has a **pKa of 6.6**
+  * Both are essentially equidistant from normal pH, and are equally effective buffers
+  * Quantitatively, **per mmol of oxyhaemoglobin reduced, ~0.7mmol of H<sup>+</sup> can be buffered**  
+  Therefore 0.7mmol of CO<sub>2</sub> can enter blood **without a change in pH**.
+    * This is the mechanism behind the **Haldane effect**, and why venous blood is only slightly more acidic than arterial blood
 
 ###Phosphate Buffer System
 Phosphoric acid is tribasic and can donate potentially three hydrogen ions, though only one of these reactions is relevant at physiological pH, with a pKa of 6.8:
