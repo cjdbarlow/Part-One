@@ -13,9 +13,6 @@ This pattern of electrical activity is seen in the SA and AV nodes. It  **has no
 
 <object data="resources\pacemaker-currents.svg" type="image/svg+xml"></object>
 
-<object data="resources\pacemaker-shifts.svg" type="image/svg+xml"></object>
-
-
 ###Phases of the Pacemaker Potential
 * **Phase 0**  
   At the threshold potential of **-40mV**, voltage-gated L-type (long-lasting) Ca<sup>2+</sup> channels open, causing an inward movement of ions. The membrane potential peaks at **20mV**.
@@ -29,6 +26,11 @@ This pattern of electrical activity is seen in the SA and AV nodes. It  **has no
       * Parasympathetic stimulation increases K<sup>+</sup> permeability, hyperpolarising the cell and flattens the gradient of phase 4.
     * Calcium current
     In phase 4, this is the transient calcium current, driven by T-type calcium channels. They open when the membrane potential reaches ~-50mV, also causing depolarisation.
+
+<object data="resources\pacemaker-shifts.svg" type="image/svg+xml"></object>
+
+
+
 
 ##Ventricular Action Potential
 To prevent tetanic contraction (which would be bad) ventricular muscle has a long plateau prior to repolarisation, which lengthens the absolute refractory period to 250ms. The relative refractory period is 50ms.
