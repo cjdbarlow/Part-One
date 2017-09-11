@@ -23,7 +23,7 @@ This pattern of electrical activity is seen in the SA and AV nodes. It  **has no
   Ca<sup>2+</sup> channels close and K<sup>+</sup> channels open, leading to repolarisation. The nadir is called the **maximum diastolic potential** and is -**65mV**.
 * **Phase 4**  
   Phase 4 consists of:
-    * The funny current  
+    * The **funny current**  
     A steady influx of Na<sup>+</sup>/K<sup>+</sup> which gradually depolarises the cell.
       * Sympathetic stimulation increases the funny current, increasing the rate of depolarisation.
       * Parasympathetic stimulation increases K<sup>+</sup> permeability, hyperpolarising the cell and flattens the gradient of phase 4.
