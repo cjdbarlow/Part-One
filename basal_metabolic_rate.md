@@ -5,7 +5,8 @@
 
 > Outline the factors that influence metabolic rate
 
-**Basal Metabolic Rate** is the **energy output required to sustain life at rest**.             * 'Resting' is defined as an individual who is:
+**Basal Metabolic Rate** is the **energy output required to sustain life at rest**.
+* 'Resting' is defined as an individual who is:
     * Fasted for 12 hours
     * In a comfortable external environment
     * At mental and physical rest 
