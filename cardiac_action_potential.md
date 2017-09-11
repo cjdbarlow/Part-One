@@ -30,8 +30,6 @@ This pattern of electrical activity is seen in the SA and AV nodes. It  **has no
 <object data="resources\pacemaker-shifts.svg" type="image/svg+xml"></object>
 
 
-
-
 ##Ventricular Action Potential
 To prevent tetanic contraction (which would be bad) ventricular muscle has a long plateau prior to repolarisation, which lengthens the absolute refractory period to 250ms. The relative refractory period is 50ms.
 
