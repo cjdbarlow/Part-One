@@ -14,9 +14,8 @@ This pattern of electrical activity is seen in the SA and AV nodes. It  **has no
 <object data="resources\pacemaker-currents.svg" type="image/svg+xml"></object>
 
 ###Phases of the Pacemaker Potential
+
 <object data="resources\pacemaker-phases.svg" type="image/svg+xml"></object>
-
-
 
 * **Phase 0**  
   At the threshold potential of **-40mV**, voltage-gated L-type (long-lasting) Ca<sup>2+</sup> channels open, causing an inward movement of ions. The membrane potential peaks at **20mV**.
