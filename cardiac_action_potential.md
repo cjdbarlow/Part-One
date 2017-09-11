@@ -11,7 +11,11 @@ An action potential is a propagating change in the membrane potential of an exci
 ##Pacemaker Potential
 This pattern of electrical activity is seen in the SA and AV nodes. It  **has no resting state**, and is continually depolarising.
 
-INSERT PACEMAKER GRAPH https://icuprimaryprep.files.wordpress.com/2012/05/electrical-properties-of-the-heart.pdf
+<object data="resources\pacemaker-currents.svg" type="image/svg+xml"></object>
+
+<object data="resources\pacemaker-shifts.svg" type="image/svg+xml"></object>
+
+
 
 ###Phases of the Pacemaker Potential
 * **Phase 0**  
