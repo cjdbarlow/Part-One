@@ -6,7 +6,9 @@
 
 Cardiac output measurement can be performed:
 * Invasively
-    * Thermodilution
+    * Pulmonary Artery Catheter
+        * Thermodilution
+        * Fick Principle
     * TOE
     * Arterial waveform analysis
         * PiCCO
@@ -28,7 +30,6 @@ Various different designs exist. For CO measurement, they require:
     * A balloon at the tip  
     To float it into position.
     * A distal (PA) port is required for measuring PAP and the PCWP, but is not required for CO calculation
-* Uses the Fick Principle
  
 
 ###Method for Intermittent Cardiac Output Measurement by Thermodilution
@@ -63,6 +64,21 @@ The PAC must be positioned in West's Zone 3 for blood flow to occur past the tip
 * Tricuspid regurgitation  
 Results in retrograde ejection of injectate back past the valve.
 * Arrhythmia
+
+##Fick Principle
+Cardiac Output can also be measured using the Fick Principle. This technique:
+* Uses the Fick Principle  
+The flow of blood to an organ is equal to the uptake of a tracer substance divided by the arterio-venous concentration difference.
+    * In this case, the tracer substance is oxygen
+    * The 'organ' is the whole body
+    * This produces the equation: $$CO = {VO_2 \over C_a - C_v}$$, where:
+        * $$CO$$ is Cardiac Output
+        * $$VO_2$$ is the patients oxygen consumption  
+        Typically estimated as 3.5ml.kg<sup>-1</sup>
+.min<sup>-1</sup>
+        * $$C_a$$ is arterial oxygen content
+        * **C_v$$ is mixed venous oxygen content
+* Relies on mixed venous blood sampled from the pulmonary artery, and arterial blood sampled from a peripheral arterial line
 
 
 ---
