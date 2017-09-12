@@ -55,7 +55,7 @@ There is a similar spike in LA pressure as the mitral valve also bulges back int
 When ventricular pressure exceeds arterial pressure, the semilunar valves open and ejection occurs. **Initial ejection is rapid**, but as ventricular pressure falls and systemic pressure rises the gradient falls ejection becomes slower.
 
 During ejection:
-* **Arterial pressure rises rapidly**, and is equal to ventricular pressure during this stage
+* **Arterial pressure rises rapidly**, and is slightly less than ventricular pressure during this stage
 * The **CVP** waveform shows the **x descent**, as the shortening RV pulls the RA down, rapidly lowering CVP
 * The **ST segment** shows on the ECG as the ventricles are fully depolarised, though the  **T wave** may appear in late ejection
 
