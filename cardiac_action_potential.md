@@ -52,17 +52,25 @@ To prevent tetanic contraction (which would be bad) ventricular muscle has a lon
   Membrane potential returns to its resting **-85mV**.
 
 ##Propagation of the Cardiac Action Potential
-Pacemaker cells are responsible for automaticity and rhythmicity of the heart. The fastest pacemaker is the focus for myocardial conduction, and is typically the SA node. Should the SA node fail, the next fastest pacemaker will take over. This provides an element of redundancy.
+Pacemaker cells:
+* Are responsible for automaticity and rhythmicity of the heart
+* The fastest pacemaker is the focus for myocardial conduction  
+This is typically the SA node.
+  * Should the SA node fail, the next fastest pacemaker will take over
+  * This provides an element of redundancy
 
+Conduction pathway:
 * **Atrial Conduction**  
   From the SA node, the impulse travels at ~1m.s<sup>-1</sup>, depolarising the atria.
 
 * **AV node**  
-  The AV node is the only (normal) site of connection between the atria and ventricles. The AV node transmits with a delay of 0.1s, allowing time for atrial contraction to finish before ventricular contraction begins. AV nodal cells have a prolonged refractory period and cannot conduct more than **220** impulses per minute.
-
-    The refractory period is prolonged by vagal stimulation, which increases potassium permeability and hyperpolarises the cell. Conversely, sympathetic stimulation increases calcium permeability and allows more rapid transmission.
-    
-    The AV node conducts via three pathways:
+  The AV node is the only (normal) site of connection between the atria and ventricles. AV nodal cells:
+  * Transmits with a delay of 0.1s  
+  This allows time for atrial contraction to finish before ventricular contraction begins.
+  * Have a prolonged refractory period and cannot conduct more than **220** impulses per minute
+    * This period is prolonged by vagal stimulation, which increases potassium permeability and hyperpolarises the cell
+    * Conversely, sympathetic stimulation increases calcium permeability and allows more rapid transmission
+  * Conducts via three pathways:
     * Bachmann Pathway  
     Also conducts to the LA.
     * Wenckebach pathway
@@ -70,14 +78,20 @@ Pacemaker cells are responsible for automaticity and rhythmicity of the heart. T
 
 
 * **Ventricular Conduction**  
-  From the AV node, the signal via the bundle of His to the right and left bundles, and then to the Purkinje fibres which conduct at 1-4m.s<sup>-1</sup>. Endocardium, papillary muscle and septum contract first, followed by apex, followed by the chambers. Purkinje fibres have a long refractory period and can act as a pacemaker at 30-40 bpm.
+  From the AV node, the signal propagates:
+  * Initially via the **Bundle of His** to the right and left bundles
+  * Secondly via the **Purkinje fibres** which conduct at 1-4m.s<sup>-1</sup>  
+  Purkinje fibres have a long refractory period, and spontaneously depolarise with an intrinsic rate of 30-40 bpm.
+  * Lastly, ventricular muscle is depolarised  
+  Endocardium, papillary muscle and septum contract first, followed by apex, followed by the chambers.
+
 
 ##Autonomic Control
 * **Parasympathetic Innervation**  
-    * SA node by right vagus  
+    * SA node by the right vagus  
     There is continual PNS input ("Vagal tone") via inhibitory ACh GPCR, reducing the SA node from its intrinsic rate of 90-120bpm to a more sedate 60-100bpm.
-    * AV node by left vagus
-    * Atria is innervated by parasympathetic neurons, whilst the ventricle is only minimally innervated  
+    * AV node by the left vagus
+    * The atria are innervated by parasympathetic neurons, whilst the ventricles are only minimally innervated  
     PNS stimulation therefore has little effect on inotropy, but does affect chronotropy.
       * PNS stimulation may have no direct effect on inotropy, instead acting indirectly via changes in chronotropy
 
@@ -86,6 +100,7 @@ Pacemaker cells are responsible for automaticity and rhythmicity of the heart. T
     * SNS activity causes release of noradrenaline (at post-ganglionic synapse) and adrenaline from adrenal medulla which stimulate cardiac β<sub>1</sub> receptors causing:
         * Positive chronotropy at the SA node
         * Positive inotropy at ventricular muscle
+        * Positive luisotropy
         * Shorter action potential duration (due to opening of rectifying K<sup>+</sup> channels
         * Increased AV conduction
 
