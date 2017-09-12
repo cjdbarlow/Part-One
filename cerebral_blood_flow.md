@@ -69,7 +69,9 @@ Vessel calibre is affected primarily by four factors:
   The mechanism of action is complex, but involves local increase in H<sup>+</sup> ions
   * Changes to CBF with CO<sub>2</sub> are dependent on current arteriolar tone - vasodilatory effects of CO<sub>2</sub> are significantly reduced when the perfusing pressure is low.
 
-CO2 AND CEREBRAL BLOOD FLOW GRAPH
+<object data="resources\PaCO2-vsCBF.svg" type="image/svg+xml"></object>
+
+
 
 ###PaO<sub>2</sub>
 * CBF increases rapidly when PaO<sub>2</sub> falls below 60mmHg so that cerebral oxygen delivery is maintained
