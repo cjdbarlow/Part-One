@@ -72,7 +72,11 @@ Due to atria filling against closed AV valves.
 * The **end of the T wave** is visible on the ECG as ventricular repolarisation occurs
 
 ###Rapid Ventricular Filling
-As the ventricle relaxes and the atria fills, a point is reached where atrial pressure exceeds ventricular pressure. At this point the **AV valves open** and ventricular filling occurs. During early ventricular diastole the ventricle is **still relaxing** and so the **pressure gradient is maintained** and rapid filling occurs. Most of ventricular filling occurs in this phase.
+As the ventricle relaxes and the atria fills, a point is reached where atrial pressure exceeds ventricular pressure.
+
+During rapid ventricular filling:
+* The **AV valves open** and ventricular filling occurs  
+This occurs when atrial pressure exceeds ventricular pressure.During early ventricular diastole the ventricle is **still relaxing** and so the **pressure gradient is maintained** and rapid filling occurs. Most of ventricular filling occurs in this phase.
 
 * **Arterial pressure is falling**
 * The **y descent** occurs when the AV valves open, causing a rapid drop in CVP as the ventricles fill
