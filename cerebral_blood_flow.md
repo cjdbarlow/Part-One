@@ -55,6 +55,7 @@ Vessel calibre is affected primarily by four factors:
 * **Temperature**  
  CMRO<sub>2</sub> decreases linearly by ~7% per degree centigrade, allowing prolonged periods of reduced CBF without ischaemic complications.
 
+<object data="resources\temp-vs-CBF.svg" type="image/svg+xml"></object>
 
 
 ###PaCO<sub>2</sub>
