@@ -66,7 +66,7 @@ Vessel calibre is affected primarily by four factors:
   Additionally, the alkalosis causes a left-shift of the oxyhaemoglobin curve. This reduces offloading of oxygen, causing hypoxia and subsequent vasodilation.
   <br>
   * There is a right-shift in chronic hypercapnoea  
-  The mechanism of action is complex, but involves local increase in H<sup>+</sup> ions
+  The mechanism of action is complex, but involves local increase in H<sup>+</sup> ions.
   * Changes to CBF with CO<sub>2</sub> are dependent on current arteriolar tone - vasodilatory effects of CO<sub>2</sub> are significantly reduced when the perfusing pressure is low.
 
 <object data="resources\PaCO2-vsCBF.svg" type="image/svg+xml"></object>
@@ -74,7 +74,7 @@ Vessel calibre is affected primarily by four factors:
 
 
 ###PaO<sub>2</sub>
-* CBF increases rapidly when PaO<sub>2</sub> falls below 60mmHg so that cerebral oxygen delivery is maintained
+* CBF increases rapidly when PaO<sub>2</sub> falls below 60mmHg so that cerebral oxygen delivery is maintained  
 Hypoxia causes a release of adenosine and reduced calcium uptake, with subsequent vasodilation
 
 <object data="resources\PaO2-vs-CBF.svg" type="image/svg+xml"></object>
