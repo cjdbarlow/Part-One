@@ -83,5 +83,5 @@ This occurs when atrial pressure exceeds ventricular pressure.
 
 ---
 ##References
-Guyton
-Chambers Huang Matthews
+1. Hall, JE, and Guyton AC. Guyton and Hall Textbook of Medical Physiology. 11th Edition. Philadelphia, PA: Saunders Elsevier. 2011. 
+2. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
