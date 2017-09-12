@@ -10,7 +10,7 @@ Cellular respiration can be broken down into:
 * Electron Transport Chain
 
 ##Glycolysis
-**Glycolysis**, or the **Embden-Meyerhof pathway**, describes the production of pyruvate from glucose. It:
+**Glycolysis**, or the **Embden-Meyerhof pathway**, describes the production of pyruvate from glucose. Glycolysis:
 * Occurs in the cytoplasm
 * Begins with the **phosphorylation of glucose** to glucose-6-phosophate
 * Produces:
