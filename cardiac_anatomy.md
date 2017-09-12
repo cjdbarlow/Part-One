@@ -16,7 +16,7 @@ The first two planes are divided into six segments, which can be related in turn
     * Anterior
     * Antero-septal
 * LCx
-    * Inferolateral
+    * Inferolateral  
       Contains a papillary muscle
 
 The third plane is divided into four segments:
@@ -30,4 +30,4 @@ The fourth plane is the apical cap.
 
 ---
 ##References
-Ben Cardiac Anaesthetist Alfred anaesthetic primary tute
+1. Alfred Anaesthetic Department Primary Exam Tutorial Series
