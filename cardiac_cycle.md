@@ -1,7 +1,10 @@
 # Cardiac Cycle
 > Describe the normal pressure and flow patterns (including velocity profiles) of the cardiac cycle
 
-The cardiac cycle describes the **sequence of events** that occur in the heart during one beat. It consists of **two phases** divided into **six stages**. A cycle is typically said to begin in **late diastole** when the myocardium is relaxed and the ventricles are passively filling.
+The cardiac cycle:
+* Describes sequence of events that occur in the heart over one beat
+* Consists of **two phases** divided into **six stages**
+* Typically is descried as beginning in **late diastole** when the myocardium is relaxed and the ventricles are passively filling.
 
 Phases of the cardiac cycle:
 * Diastole
