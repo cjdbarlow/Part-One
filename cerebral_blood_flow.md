@@ -1,11 +1,15 @@
 # Cerebral Blood Flow
 > Describe the distribution of blood volume and flow in the various regional circulations and explain the factors that influence them, including autoregulation. These include, but not limited to, the cerebral and spinal cord~~, hepatic and splachnic, coronary, renal and utero-placental~~ circulations
 
-Normal cerebral blood flow is **750ml.min<sup>-1</sup>** (~15% of resting cardiac output), though the brain makes up only ~2% of body weight. This relatively high blood flow is required due to the high **cerebral metabolic rate for oxygen** (CMRO<sub>2</sub>) of **50ml.min<sup>-1</sup>**. The brain is sensitive to interruptions in flow as it has:
+With respect to cerebral blood flow:
+* Normal is ~**750ml.min<sup>-1</sup>** or ~15% of resting cardiac output  
+Note that the brain makes up only ~2% of body weight.
+  * A relatively high blood flow is required due to the high **cerebral metabolic rate for oxygen** (CMRO<sub>2</sub>) of **50ml.min<sup>-1</sup>**
+* The brain is sensitive to interruptions in flow as it has:
   *  A high metabolic rate
   *  No capacity to store energy substrates
 
-The factors affecting cerebral blood flow can be classified by the factors in the Hagan-Poiseuille Equation:
+The factors affecting cerebral blood flow can be classified by the factors in the **Hagan-Poiseuille Equation**:
 
 $$CBF \approx {\Delta P \pi R^4 \over 8 \eta L} $$, where:
 * $$\Delta P$$ is the pressure difference driving flow, i.e. CPP
