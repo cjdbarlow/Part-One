@@ -92,7 +92,8 @@ The optimal haematocrit is ~0.3-0.35, which provides the best balance between re
 
 ---
 ##References
-Power and Kam
-http://www.frca.co.uk/Documents/170907%20Cerebral%20physiology%20I.pdf
-Integrative regulation of human brain blood flow, J physiol
-4. Muizelaar JP. CBF and management of the head-injured patient. In: Narayan RK, Wilberger JE, Povlishock JT, eds. Neurotrauma. New York: McGraw-Hill, 1996:553–561
+1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+2. Hill L, Gwinnutt C. [Cerebral Blood Flow and Intracranial Pressure](http://www.frca.co.uk/Documents/170907%20Cerebral%20physiology%20I.pdf). FRCA Website.
+3. Willie CK, Tzeng YC, Fisher JA, Ainslie PN. Integrative regulation of human
+brain blood flow. J Physiol. 2014 Mar 1;592(5):841-59.
+4. Muizelaar JP. CBF and management of the head-injured patient. In: Narayan RK, Wilberger JE, Povlishock JT, eds. Neurotrauma. New York: McGraw-Hill, 1996:553–561.
