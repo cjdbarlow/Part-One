@@ -7,7 +7,8 @@ Transition from placental gas exchange to pulmonary gas exchange occurs within 2
 
 * The rapid drop in pulmonary vascular resistance with spontaneous breathing drives the changes in the cardiac circulation
 
-* The **first three breaths** establish functional residual capacity
+* The **first three breaths** establish functional residual capacity  
+Large changes in intrathoracic pressure compress amniotic fluid in the alveoli into the circulation, replacing alveolar water with air.
 
 <object data="resources\first-breath.svg" type="image/svg+xml"></object>
 
