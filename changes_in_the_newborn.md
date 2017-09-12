@@ -1,4 +1,4 @@
-#Respiratory Changes in the Newborn
+#Respiratory Changes in Neonates and Children
 
 ##Transition at Birth
 Transition from placental gas exchange to pulmonary gas exchange occurs within 20s after birth:
@@ -6,6 +6,8 @@ Transition from placental gas exchange to pulmonary gas exchange occurs within 2
 * Elastic recoil, combined with cooling of the skin and mechanical stimulation (which stimulate the respiratory centre), facilitate first breath
 
 * The rapid drop in pulmonary vascular resistance with spontaneous breathing drives the changes in the cardiac circulation
+
+* The **first three breaths** establish functional residual capacity
 
 ##Neonates and Children
 * **Compliance**  
