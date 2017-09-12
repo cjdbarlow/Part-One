@@ -23,7 +23,7 @@ These are also called rheologic factors.
 * A **normal CPP** is **~80mmHg**
 * In normal individuals, CBF is classically thought to be autoregulated over a **CPP range** of **60-160mmHg**
   * This occurs by **myogenic means**, similar to the kidney
-  * In normal circumstances, this is dependent on MAP (i.e., with a normal ICP <10mmHg, CBF is regulated over a MAP range of 50-150mmHg).
+  * In normal circumstances, this is dependent on MAP (i.e., with a normal ICP < 10mmHg, CBF is regulated over a MAP range of 50-150mmHg).
 * Note that more **recent evidence** would suggest that CBF is autoregulated over a much narrower range of perfusion pressures, and has a greater capacity to buffer an increased rather than decreased perfusion pressure
 
 <object data="resources\CPP-vs-CBF.svg" type="image/svg+xml"></object>
