@@ -47,6 +47,9 @@ Glomerular Filtration Rate
 ##heterogeneity
 Greater diversity among study results greater than would be expected by chance alone. 
 
+##ICP
+Intracranial Pressure
+
 ##IVC
 Inferior Vena Cava
 
