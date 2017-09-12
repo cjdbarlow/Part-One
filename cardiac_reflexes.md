@@ -36,6 +36,7 @@ They include:
     * Serotonin
     * Those produced in myocardial ischaemia
 
+
 * **Oculocardic reflex**  
 Pressure on the globe or traction on ocular muscles causes a decrease in heart rate. This is mediated by the:
   * Trigeminal nerve (afferent limb)
@@ -46,5 +47,5 @@ Pressure on the globe or traction on ocular muscles causes a decrease in heart r
 ---
 ##References
 1. CICM September/November 2013
-2. 
-https://www.openanesthesia.org/oculocardiac_reflex_afferent_path/
+2. Barrett KE, Barman SM, Boitano S, Brooks HL. Ganong's Review of Medical Physiology. 24th Ed. McGraw Hill. 2012.
+2. [Open Anaesthesia - Oculocardiac reflex: afferent path](https://www.openanesthesia.org/oculocardiac_reflex_afferent_path/)
