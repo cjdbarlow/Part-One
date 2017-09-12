@@ -60,11 +60,16 @@ During ejection:
 * The **ST segment** shows on the ECG as the ventricles are fully depolarised, though the  **T wave** may appear in late ejection
 
 ###Isovolumetric Relaxation
-When contraction is complete, the ventricles begin to relax. **Inertia** means thaT blood continues to eject for a short time, but when ventricular pressure falls below vascular pressure, the **semilunar valves close**. This gives rise to the second heart sound, S<sub>2</sub>. This marks the beginning of isovolumetric relaxation.
+When contraction is complete, the ventricles begin to relax. **Inertia** means that ejection continues for a short time.
 
+During isovolumentric relaxation:
+*  The **semilunar valves close**  
+This gives rise to the second heart sound, S<sub>2</sub>, and marks the beginning of isovolumetric relaxation.
+    * This occurs when ventricular pressure falls below vascular pressure
 * **Arterial pressure begins to fall**, interrupted by the **dicrotic notch** which is a brief increase in arterial pressure as the semilunar valves close
-* The **v wave** is visible on the CVP waveform occurs here as the atria fills against closed AV valves
-* Ventricular repolarisation is completing at this time - the **end of the T wave** is visible on the ECG
+* The **v wave** is visible on the CVP waveform  
+Due to atria filling against closed AV valves.
+* The **end of the T wave** is visible on the ECG as ventricular repolarisation occurs
 
 ###Rapid Ventricular Filling
 As the ventricle relaxes and the atria fills, a point is reached where atrial pressure exceeds ventricular pressure. At this point the **AV valves open** and ventricular filling occurs. During early ventricular diastole the ventricle is **still relaxing** and so the **pressure gradient is maintained** and rapid filling occurs. Most of ventricular filling occurs in this phase.
