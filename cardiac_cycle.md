@@ -38,16 +38,23 @@ In atrial contraction:
 * The **ECG** will show the **PR interval**
 
 ###Isovolumetric Ventricular Contraction
-Once the action potential passes through the AV node and bundle of His, ventricular contraction begins. Ventricular pressure rises, and the **AV valves close**. This gives rise to the first heart sound, S<sub>1</sub>. However, in this phase ventricular pressure is still less than systemic vascular pressure, and so the semilunar valves remain closed.
+Once the action potential passes through the AV node and bundle of His, ventricular contraction begins.
 
+In isovolumetric contraction:
+* Ventricular pressure rises, and the **AV valves close**  
+This gives rise to the first heart sound, S<sub>1</sub>.
+    * As ventricular pressure is still less than systemic vascular pressure, the semilunar valves remain closed
 * **Arterial pressure** is still **falling**
-* The **CVP** waveform shows the **C** (closure) wave, as the tricuspid valve herniates back into the RA during ventricular contraction. There is a similar spike in LA pressure as the mitral valve also bulges back into the LA.s
-* The **ECG** will show the remainder of the QRS or the start of the QT interval. Atrial repolarisation is seen at this stage.
+* The **CVP** waveform shows the **C** (closure) wave, as the tricuspid valve herniates back into the RA during ventricular contraction  
+There is a similar spike in LA pressure as the mitral valve also bulges back into the LA.
+* The **ECG** will show the remainder of the QRS or the start of the QT interval  
+    * Atrial repolarisation occurs at this stage, but is typically masked by ventricular depolarisation
 
 
 ###Ejection
 When ventricular pressure exceeds arterial pressure, the semilunar valves open and ejection occurs. **Initial ejection is rapid**, but as ventricular pressure falls and systemic pressure rises the gradient falls ejection becomes slower.
 
+During ejection:
 * **Arterial pressure rises rapidly**, and is equal to ventricular pressure during this stage
 * The **CVP** waveform shows the **x descent**, as the shortening RV pulls the RA down, rapidly lowering CVP.
 * The **ST segment** shows on the ECG as the ventricles are fully depolarised, though the  **T wave** may appear in late ejection.
