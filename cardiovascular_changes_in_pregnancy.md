@@ -30,11 +30,12 @@ Due to increased intravascular volume and MSFP.
 
 
 ##Changes During Labour
-* Uterine contraction boluses ~300ml of blood into the maternal circulation, causing an increase in CO by up to 30% during the active phase and 45% during ejection.
-    * Associated with corresponding increase in SBP and DBP by 10-20mmHg.
+* Uterine contraction boluses ~300ml of blood into the maternal circulation  
+Causes an increase in CO by up to 30% during the active phase and 45% during ejection.
+    * Associated with corresponding increase in SBP and DBP by 10-20mmHg
 
 
-* Post-partum CO is up to 80% of pre-labour values due to autotransfusion, and returns to normal within 2 weeks of delivery.
+* Post-partum CO is up to 80% of pre-labour values due to autotransfusion, and returns to normal within 2 weeks of delivery
 
 ---
 ##References
