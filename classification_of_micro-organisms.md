@@ -125,5 +125,5 @@ Eukaryotic organisms include fungi, protozoa, and helminths, as well as plants a
 
 ---
 ##References
-Lippincotts
-CICM Sept/Nov 2008
+1. Harvey RA, Cornelissen CN, Fisher BD. Lippincott Illustrated Reviews: Microbiology (Lippincott Illustrated Reviews Series). 3rd Ed. LWW.
+2. CICM September/November 2008
