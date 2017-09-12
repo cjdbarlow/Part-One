@@ -4,7 +4,7 @@
 The cardiac cycle:
 * Describes sequence of events that occur in the heart over one beat
 * Consists of **two phases** divided into **six stages**
-* Typically is descried as beginning in **late diastole** when the myocardium is relaxed and the ventricles are passively filling.
+* Typically is descried as beginning in **late diastole** when the myocardium is relaxed and the ventricles are passively filling
 
 Phases of the cardiac cycle:
 * Diastole
