@@ -10,7 +10,8 @@ Phases of the cardiac cycle:
 * Diastole
     * Isovolumetric Ventricular Relaxation
     * Rapid Ventricular Filling
-    * Slow Ventricular Filling  - the cycle begins here
+    * Slow Ventricular Filling  
+    (The cycle begins here).
     * Atrial Contraction
 * Systole
     * Isovolumetric Ventricular Contraction
@@ -18,15 +19,20 @@ Phases of the cardiac cycle:
 
 ##Phases of the Cardiac Cycle
 ###Slow Ventricular Filling (Diastasis)
-In slow ventricular filling, the AV valves are open and the semi-lunar valves are closed. The ventricle is **relaxed completely** and fills slowly (they have been largely filled during rapid ventricular filling and so the pressure gradient is reducing), and the pressure in each ventricle is almost zero.
-
-* **Arterial pressure is falling**, as it is end-diastole.
-* **CVP is slowly rising** as the ventricle and atria fill. This period occurs **after the y descent**.
-* The **ECG** will show the beginnings of a **P-wave** at the end of this phase.
+In slow ventricular filling:
+* The AV valves are open and the semi-lunar valves are closed
+* The ventricle is **relaxed completely** and fills slowly  
+The ventricles have been mostly filled during rapid ventricular filling and so the pressure gradient is reducing.
+    * The pressure in each ventricle is almost zero
+* **Arterial pressure is falling**, as it is end-diastole
+* **CVP is slowly rising** as the ventricle and atria fill  
+This period occurs **after the y descent**.
+* The **ECG** will show the beginnings of a **P-wave** at the end of this phase
 
 ###Atrial Contraction
 The atria contract, and remaining blood in the atria is ejected into the ventricle. This supplies **10%** of the ventricular **filling at rest**, but up to **40% in tachycardia**.
 
+In atrial contraction:
 * **Arterial pressure** is still **falling**
 * The **CVP** waveform demonstrates the **a** wave as atrial contraction also causes blood to reflux into the SVC
 * The **ECG** will show the **PR interval**
