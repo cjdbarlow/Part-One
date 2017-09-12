@@ -7,8 +7,6 @@ Slope anteroinferiorly, and are connected by the external, internal, and innermo
 * **Intercostal muscles**  
   * External intercostals slope anteroinferiorly
   * Internal and innermost intercostals slope inferoposteriory
-
-
 * **Diaphragm**  
 Complex dome-shaped membranous structure, consisting of a central tendon and peripheral muscles
   * Performs the majority of inspiratory work of breathing
@@ -50,5 +48,4 @@ Complex dome-shaped membranous structure, consisting of a central tendon and per
   * Once spastic paralysis ensues, the abdominal wall is rigid and the patient can be sat up
 
 ##References
-1. Wests chapter 7
-2. Lecture on spinal injury
+1. West J. Respiratory Physiology: The Essentials. 9th Edition. Lippincott Williams and Wilkins. 2011.
