@@ -66,3 +66,12 @@ Proximal Convoluted Tubule
 ##SBP
 Systolic Blood Pressure
 
+##SV
+Stroke Volume
+
+##SVR
+Systemic Vascular Resistance
+
+##VR
+Venous Return
+
