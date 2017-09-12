@@ -9,6 +9,9 @@ Transition from placental gas exchange to pulmonary gas exchange occurs within 2
 
 * The **first three breaths** establish functional residual capacity
 
+<object data="resources\first-breath.svg" type="image/svg+xml"></object>
+
+
 ##Neonates and Children
 * **Compliance**  
 Neonatal chest walls are highly compliant relative to their lungs (due to both a reduced lung compliance and increased chest wall compliance), as compared to adults where lung and chest compliance is equal. Therefore elastic work of breathing is largely determined by the lungs.
