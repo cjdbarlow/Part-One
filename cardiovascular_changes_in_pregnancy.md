@@ -13,9 +13,9 @@ Occurs via two mechanisms:
      * This decreases capillary oncotic pressure, predisposing to oedema  
           This may be exacerbated by the gravid uterus compressing the IVC, especially near-term
     * Increased **EPO** causes an **increased red cell volume**
-* Increased venous return VR  
+* Increased venous return
 Due to increased intravascular volume and MSFP.
-  * The gravid uterus may compress the IVC and impair venous return, hence pregant women are positioned with a left lateral tilt to displace the uterus off the IVC
+  * The gravid uterus may compress the IVC and impair VR, hence pregant women are positioned with a left lateral tilt to displace the uterus off the IVC
 * Increased VR causes an increase in CO (with both an increase in HR and SV, as well a decrease in SVR)
 * Decreased SVR results in SBP, DBP and MAP dropping (despite the increase in CO)
 
