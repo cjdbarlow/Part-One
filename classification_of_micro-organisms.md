@@ -10,7 +10,7 @@ Microorganisms can be classified as prokaryotes (**bacteria**), **viruses**, or 
   It cannot be used on organisms that lack a cell wall, such as mycoplasma.
     * A **crystal violet** followed by an **iodine** solution is applied to the slide, which is then **washed with a solvent**
       * **Gram +ve** organisms will **retain the stain** due to their **thick peptidoglycan cell wall**, whilst gram negative organisms become colourless
-    * A **safarnin stain** is then applied, which stains the **gram -ve** bacteria **pink**
+    * A **safarin pink stain** is then applied, which stains the **gram -ve** bacteria **pink**
   * Bacteria can also be classified by shape into:
     * **Cocci**  
     Appear round on microscopy.
