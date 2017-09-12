@@ -45,6 +45,6 @@ Pressure on the globe or traction on ocular muscles causes a decrease in heart r
 
 ---
 ##References
-CICM Sep/Nov 2013
-Ganong
+1. CICM September/November 2013
+2. 
 https://www.openanesthesia.org/oculocardiac_reflex_afferent_path/
