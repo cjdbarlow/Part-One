@@ -43,14 +43,13 @@ NADH exchanges electrons across the mitochondrial wall, regenerating NAD<sup>+</
 
 ##Electron Transport Chain
 * Final stage of carbohydrate, fat, and protein catabolism
-* e
 * ETC consists of five protein complexes
-* Electrons are passed along the chain and combine with oxygen ,releasing energy which stimulates the movement of hydrogen ions
+* Electrons are passed along the chain and combine with oxygen, releasing energy which stimulates the movement of hydrogen ions
 * Each time a hydrogen ion crosses the mitochondrial matrix, an ATP is produced
   * This is called **coupled phosphorylation**
   * Uncoupled phosphorylation allows hydrogen ions to travel down their gradient without generating ATP, which produces heat instead
-
 * 36 ATP are produced by aerobic glycolysis (2 from the Embden-Meyerhof pathway, 34 from the CAC and ETC)
+
 
 ---
 ##References
