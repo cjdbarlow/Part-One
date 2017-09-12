@@ -77,7 +77,8 @@ Vessel calibre is affected primarily by four factors:
 * CBF increases rapidly when PaO<sub>2</sub> falls below 60mmHg so that cerebral oxygen delivery is maintained
 Hypoxia causes a release of adenosine and reduced calcium uptake, with subsequent vasodilation
 
-O2 AND CEREBRAL BLOOD FLOW GRAPH
+<object data="resources\PaO2-vs-CBF.svg" type="image/svg+xml"></object>
+
 
 ###Neurohormonal
 * Autonomic control of cerebrovascular tone is limited, though is responsible for the right-shift in the autoregulation curve with sustained hypertension
