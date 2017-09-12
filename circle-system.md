@@ -50,7 +50,7 @@ Soda lime:
 * Granules are 4-8 mesh in size
     * Will pass through a mesh with 4 holes per square inch, but not 8
     * Balance between surface area (speed/efficacy of reaction) and resistance to flow
-* Absorbs CO<sub>2</sub> by following reaction:
+* Absorbs CO<sub>2</sub> by following reaction:  
     $$ CO_2 + H_2O \rightarrow H_2CO_3 \\  
     H_2CO_3 + 2NaOH \rightarrow Na_2CO_3 + 2H_2O + Heat \\
     Na_2CO_3 + Ca(OH)_2 \rightarrow CaCO_3 + 2NaOH + Heat$$
