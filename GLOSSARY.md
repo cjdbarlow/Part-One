@@ -15,6 +15,12 @@ Citric Acid Cycle
 ##DCT
 Distal Convoluted Tubule
 
+##IVC
+Inferior Vena Cava
+
+##MSFP
+Mean Systemic Filling Pressure
+
 ## MALT
 Mucosa-Associated Lymphoid Tissue
 
