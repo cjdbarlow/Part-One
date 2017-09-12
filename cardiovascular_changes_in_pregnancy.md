@@ -5,7 +5,7 @@
 
 > Physiological consequences of changes in posture during pregnancy 
 
-Pregnancy is a time of increased metabolic demand, which cardiovascular changes reflect.
+Pregnancy is a time of increased metabolic demand, which cardiovascular changes reflect. These changes include:
 
 * Intravascular volume is increased by two mechanisms:
     * Increased **oestrogen** causes an **increased plasma volume**
