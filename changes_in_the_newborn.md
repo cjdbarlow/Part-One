@@ -59,5 +59,5 @@ Respiratory patterns change following birth, and complete change to adult respir
 
 ---
 ##References
-Nunns
-CICM March/May 2013
+1. Lumb A. Nunn's Applied Respiratory Physiology. 7th Edition. Elsevier. 2010.
+2. CICM March/May 2013
