@@ -36,6 +36,10 @@ This pattern of electrical activity is seen in the SA and AV nodes. It  **has no
 ##Ventricular Action Potential
 To prevent tetanic contraction (which would be bad) ventricular muscle has a long plateau prior to repolarisation, which lengthens the absolute refractory period to 250ms. The relative refractory period is 50ms.
 
+<object data="resources\ventricular-ap.svg" type="image/svg+xml"></object>
+
+
+
 INSERT PACEMAKER GRAPH https://icuprimaryprep.files.wordpress.com/2012/05/electrical-properties-of-the-heart.pdf
 
 BETTER GRAPH IN CHAMBERS PAGE 252
