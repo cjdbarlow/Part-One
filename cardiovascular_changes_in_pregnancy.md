@@ -7,12 +7,14 @@
 
 Pregnancy is a time of increased metabolic demand, which cardiovascular changes reflect. These changes include:
 
-* Intravascular volume is increased by two mechanisms:
-    * Increased **oestrogen** causes an **increased plasma volume**
-        * This decreases capillary oncotic pressure, predisposing to oedema  
+* Increased intravascular volume
+Occurs via two mechanisms:
+  * Increased **oestrogen** causes an **increased plasma volume**
+     * This decreases capillary oncotic pressure, predisposing to oedema  
           This may be exacerbated by the gravid uterus compressing the IVC, especially near-term
     * Increased **EPO** causes an **increased red cell volume**
-* Increased intravascular volume increases VR  
+* Increased venous return VR  
+Due to increased intravascular volume and MSFP.
   * The gravid uterus may compress the IVC and impair venous return, hence pregant women are positioned with a left lateral tilt to displace the uterus off the IVC
 * Increased VR causes an increase in CO (with both an increase in HR and SV, as well a decrease in SVR)
 * Decreased SVR results in SBP, DBP and MAP dropping (despite the increase in CO)
