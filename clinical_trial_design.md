@@ -10,3 +10,8 @@
 7. Control for bias
 8. Data handling
 9. Statistical analysis plan (pre-specified)
+
+---
+
+##References
+
