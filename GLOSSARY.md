@@ -9,16 +9,16 @@ Atrial Natriuretic Peptide
 ##BNP
 Brain Natriuretic Peptide
 
-#BMR
+##BMR
 Basal Metabolic Rate
 
-#CAC
+##CAC
 Citric Acid Cycle
 
 ##CT
 Collecting Duct
 
-#CO
+##CO
 Cardiac Output
 
 ##CNIX
@@ -32,6 +32,9 @@ Distal Convoluted Tubule
 
 #DBP
 Diastolic Blood Pressure
+
+##ECT
+Electron Transport Chain
 
 ##GFR
 Glomerular Filtration Rate
