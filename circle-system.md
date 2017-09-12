@@ -2,8 +2,8 @@
 
 The circle breathing system is a highly efficient system which:
 * Has several key advantages
-    * Preserves anaesthetic gases makes volatile anaesthesia cost-effective
-    * Preserves medical gases (oxygen) which is useful in resource-limited settings (e.g. prehospital to reduce oxygen consumption)
+    * Preserves anaesthetic gases making volatile anaesthesia cost-effective
+    * Preserves medical gases (oxygen) which is useful in resource-limited settings (e.g. prehospital)
     * Preserves heat and moisture
     * Reduces fire risk  
     Particularly with older agents.
@@ -71,7 +71,7 @@ Settings affect the fresh gas flow mixture, whilst the patient respires gas from
 * Less portable than open-circuit systems
 * Increased circuit resistance
 * Requires soda lime, which can be toxic
-    * Produces compound A from sevoflurane
+    * Produces Compound A-E from sevoflurane
     * Produces carbon monoxide from desflurane and isoflurane/enflurane
     * Dangerous if aspirated
     
