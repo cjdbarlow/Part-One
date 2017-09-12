@@ -39,7 +39,7 @@ NADH exchanges electrons across the mitochondrial wall, regenerating NAD<sup>+</
 * Produces:
   * NADH
   * FADH<sub>2</sub>
-  * CO<sub>2</sub
+  * CO<sub>2</sub>
 
 ##Electron Transport Chain
 * Final stage of carbohydrate, fat, and protein catabolism
