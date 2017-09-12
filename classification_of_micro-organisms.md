@@ -101,7 +101,7 @@ Eukaryotic organisms include fungi, protozoa, and helminths, as well as plants a
 
 ---
 ##Footnotes
-[^1] This classification does not capture spirochetes, mycoplasmas, chlamydias, and other less commonnly encountered organisms. A more complete classification uses six properties:
+[^1]: This classification does not capture spirochetes, mycoplasmas, chlamydias, and other less commonnly encountered organisms. A more complete classification uses six properties:
 
 1. Cell Wall Stucture
     2. Flexible (e.g. Spirochetes)
