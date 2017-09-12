@@ -23,9 +23,6 @@ Cerebral Blood Flow
 ##CT
 Collecting Duct
 
-##CO
-Cardiac Output
-
 ##CNIX
 Glossopharyngeal Nerve
 
