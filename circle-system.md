@@ -54,7 +54,7 @@ Soda lime:
     $$ CO_2 + H_2O \rightarrow H_2CO_3 \\  
     H_2CO_3 + 2NaOH \rightarrow Na_2CO_3 + 2H_2O + Heat \\
     Na_2CO_3 + Ca(OH)_2 \rightarrow CaCO_3 + 2NaOH + Heat$$
-        * This increases the pH of the soda lime, causing the pH indicator to change colour
+    * This increases the pH of the soda lime, causing the pH indicator to change colour
 * 100g of soda lime can absorb ~26L of CO<sub>2</sub>
 
 ###Pros
