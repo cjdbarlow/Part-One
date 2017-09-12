@@ -55,6 +55,8 @@ Vessel calibre is affected primarily by four factors:
 * **Temperature**  
  CMRO<sub>2</sub> decreases linearly by ~7% per degree centigrade, allowing prolonged periods of reduced CBF without ischaemic complications.
 
+
+
 ###PaCO<sub>2</sub>
 **Carbon dioxide** acts as a cerebral vasodilator.
 * CBF is almost linear between **20mmHg and 80mmHg**
