@@ -26,7 +26,8 @@ These are also called rheologic factors.
   * In normal circumstances, this is dependent on MAP (i.e., with a normal ICP <10mmHg, CBF is regulated over a MAP range of 50-150mmHg).
 * Note that more **recent evidence** would suggest that CBF is autoregulated over a much narrower range of perfusion pressures, and has a greater capacity to buffer an increased rather than decreased perfusion pressure
 
-AUTOREGULATION CURVE
+<object data="resources\CPP-vs-CBF.svg" type="image/svg+xml"></object>
+
 
 * At the lower limit, the reduced perfusion pressure means flow cannot be maintained even with maximal vasodilation
 * At the upper limit, the high perfusion pressure overcomes maximal vasoconstriction
