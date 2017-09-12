@@ -39,11 +39,6 @@ To prevent tetanic contraction (which would be bad) ventricular muscle has a lon
 <object data="resources\ventricular-ap.svg" type="image/svg+xml"></object>
 
 
-
-INSERT PACEMAKER GRAPH https://icuprimaryprep.files.wordpress.com/2012/05/electrical-properties-of-the-heart.pdf
-
-BETTER GRAPH IN CHAMBERS PAGE 252
-
 ###Phases of the Ventricular Action Potential
 * **Phase 0**: Depolarisation  
   At the threshold potential, voltage-gated **fast-Na<sup>+</sup>** channels open briefly, causing depolarisation. The membrane potential peaks at **30mV**.
