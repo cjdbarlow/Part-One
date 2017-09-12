@@ -48,7 +48,9 @@ NADH exchanges electrons across the mitochondrial wall, regenerating NAD<sup>+</
 * Each time a hydrogen ion crosses the mitochondrial matrix, an ATP is produced
   * This is called **coupled phosphorylation**
   * Uncoupled phosphorylation allows hydrogen ions to travel down their gradient without generating ATP, which produces excess heat instead
-* 36 ATP are produced by aerobic glycolysis (2 from the Embden-Meyerhof pathway, 34 from the CAC and ETC)
+* 36 ATP are produced by aerobic glycolysis
+  * 2 from the Embden-Meyerhof pathway
+  * 34 from the CAC and ETC
 
 
 ---
