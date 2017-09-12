@@ -72,7 +72,7 @@ Settings affect the fresh gas flow mixture, whilst the patient respires gas from
 * Increased circuit resistance
 * Requires soda lime, which can be toxic
     * Produces Compound A-E from sevoflurane
-    * Produces carbon monoxide from desflurane and isoflurane/enflurane
+    * Produces carbon monoxide from desflurane, isoflurane, and enflurane
     * Dangerous if aspirated
     
 ---
