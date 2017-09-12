@@ -107,13 +107,13 @@ Conduction pathway:
 ###Cardiac Transplant
 The transplanted heart has no vagal/parasympathetic innervation but still expresses β<sub>1</sub> receptors, so it:
 * Defaults to a resting heart rate of ~100bpm
-* Becomes highly preload dependent as cannot respond quickly to changes in SVR
-* Not responsive to parasympatholytics (atropine, glycopyrrolate) or ephedrine (as this is indirectly-acting) to increase chronotropy - isoprenaline may be used.
+* Becomes highly preload dependent as it cannot respond quickly to changes in SVR
+* Not responsive to parasympatholytics (atropine, glycopyrrolate) or ephedrine (as this is indirectly-acting) to increase chronotropy - isoprenaline may be used
 * Gradual response to demands in exercise (lacks local SNS innervation, but will still respond to circulating catecholamines)
 * Increased sensitivity to catecholamines due to increased expression of β<sub>1</sub> receptors
 
 ---
 ##References
-Power and Kam
-Chambers
+1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+2. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
 3. Matsuura W, Sugimachi M, Kawada T, Sato T, Shishido T, Miyano H, Nakahara T, Ikeda Y, Alexander J Jr, Sunagawa K. [Vagal stimulation decreases left ventricular contractility mainly through negative chronotropic effect](http://ajpheart.physiology.org/content/273/2/H534.long). Am J Physiol. 1997 Aug;273.
