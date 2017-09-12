@@ -5,6 +5,8 @@
 ##ANP
 Atrial Natriuretic Peptide
 
+##ADH
+Anti-Diuretic Hormone
 
 ##BNP
 Brain Natriuretic Peptide
@@ -53,6 +55,9 @@ Mean Systemic Filling Pressure
 
 ##MALT
 Mucosa-Associated Lymphoid Tissue
+
+##MAC
+Mean Alveolar Concentration
 
 ##MAP
 Mean Arterial Pressure
