@@ -56,8 +56,8 @@ When ventricular pressure exceeds arterial pressure, the semilunar valves open a
 
 During ejection:
 * **Arterial pressure rises rapidly**, and is equal to ventricular pressure during this stage
-* The **CVP** waveform shows the **x descent**, as the shortening RV pulls the RA down, rapidly lowering CVP.
-* The **ST segment** shows on the ECG as the ventricles are fully depolarised, though the  **T wave** may appear in late ejection.
+* The **CVP** waveform shows the **x descent**, as the shortening RV pulls the RA down, rapidly lowering CVP
+* The **ST segment** shows on the ECG as the ventricles are fully depolarised, though the  **T wave** may appear in late ejection
 
 ###Isovolumetric Relaxation
 When contraction is complete, the ventricles begin to relax. **Inertia** means thaT blood continues to eject for a short time, but when ventricular pressure falls below vascular pressure, the **semilunar valves close**. This gives rise to the second heart sound, S<sub>2</sub>. This marks the beginning of isovolumetric relaxation.
