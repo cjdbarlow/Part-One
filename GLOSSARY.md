@@ -15,6 +15,9 @@ Basal Metabolic Rate
 ##CAC
 Citric Acid Cycle
 
+##CBF
+Cerebral Blood Flow
+
 ##CT
 Collecting Duct
 
