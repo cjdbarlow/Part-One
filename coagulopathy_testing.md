@@ -4,7 +4,7 @@
 ##Coagulation Factors
 All these tests measure how long it takes to make fibrin. They evaluate different parts of the coagulation cascade, which help localise where a coagulopathy may be occurring.
 
-In this test:
+In these tests:
 * Citrate is added to blood  
 Binds calcium and prevents clotting.
 * Sample is centrifuged
