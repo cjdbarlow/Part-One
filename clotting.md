@@ -97,6 +97,6 @@ Has several key roles:
 
 ---
 ##References
-1. Clot or Bleed.
+1. Krafts K. Clot or Bleed: A Painless Guide for People Who Hate Coag. Pathology Student.
 2. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
 3. [Clotting Cascade](https://en.wikipedia.org/wiki/File:Coagulation_full.svg) 22/4/2007. (Image). In *Wikipedia*.
