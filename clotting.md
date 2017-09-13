@@ -32,7 +32,7 @@ Following a vascular injury, the exposure of subendothelial proteins stimulates 
 With other platelets - held together by fibrin - forming a plug.
 
 * **Contraction**  
-  After some time platelets contract, retracting the clot and sealing the wall
+  After some time platelets contract, retracting the clot and sealing the wall.
 
 ##Secondary Haemostasis
 The coagulation cascade is an amplification mechanism which activates clotting factors in order to produce fibrin.

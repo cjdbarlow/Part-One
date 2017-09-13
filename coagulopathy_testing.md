@@ -51,5 +51,5 @@ Evaluate how well platelets aggregate in response to factors like ADP, collagen,
 In this test, the aggregating agent is added to a tube of platelets, and the change in turbidity measured. Different patterns of response (or non-response) can be diagnostic of different platelet function disorders.
 
 ##References
-Clot or Bleed
+1. Krafts K. Clot or Bleed: A Painless Guide for People Who Hate Coag. Pathology Student.
 http://practical-haemostasis.com/Miscellaneous/Miscellaneous%20Tests/act.html
