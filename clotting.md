@@ -85,7 +85,7 @@ Has several key roles:
 
 ##The Cell-Based Model of Coagulation
 * The cascade model (above) accurately describes the process of clotting *in vitro*, but not *in vivo*
-* The cell-based model has several changes, noting the central role of thep platelet:
+* The cell-based model has several changes, noting the central role of the platelet:
   * **Initiation phase**  
   Coagulation begins with tissue factor being exposed, which also activates platelets.
   * **Amplification phase**  
