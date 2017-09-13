@@ -22,7 +22,10 @@ Any disorder of the extrinsic or common pathways will prolong the PT, i.e. defic
 * Factor V
 * Factor I (fibrinogen)
 
-The reason why warfarin is measured using INR (even though it affects factors in all three pathways) is that factor VII has the shortest half-life and so its levels fall most quickly, meaning measuring factor VII levels gives the earliest indication of changes in coagulation status. As factor VII is only in the extrinsic pathway, the PT/INR are the only tests which can evaluate its function.
+Although warfarin affects factors in all three pathways, its clinical effects are measured using INR. This is because:
+* Factor VII has the shortest half-life and so its levels fall most quickly
+* Therefore a fall in Factor VII levels is the earliest indication of changes in coagulation status due to warfarin
+* As factor VII is only in the extrinsic pathway, the PT/INR are the only tests which can evaluate its function
 
 ###(Activated) Partial Thromboplastin Time
 The partial thromboplastin time measures the **intrinsic pathway**, which begins produce fibrin when activated by the addition of phospholipid to the sample (phospholipid is contained in platelets, and so is not technically "extrinsic"). The activated partial thromboplastin time is the same test, except an activating agent is added to speed up the reaction.
