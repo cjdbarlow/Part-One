@@ -27,7 +27,7 @@ This pattern of electrical activity is seen in the SA and AV nodes. It  **has no
     A steady influx of Na<sup>+</sup>/K<sup>+</sup> which gradually depolarises the cell.
       * Sympathetic stimulation increases the funny current, increasing the rate of depolarisation.
       * Parasympathetic stimulation increases K<sup>+</sup> permeability, hyperpolarising the cell and flattens the gradient of phase 4.
-    * Calcium current
+    * Calcium current  
     In phase 4, this is the transient calcium current, driven by T-type calcium channels. They open when the membrane potential reaches ~-50mV, also causing depolarisation.
 
 <object data="resources\pacemaker-shifts.svg" type="image/svg+xml"></object>
@@ -62,6 +62,7 @@ This is typically the SA node.
 Conduction pathway:
 * **Atrial Conduction**  
   From the SA node, the impulse travels at ~1m.s<sup>-1</sup>, depolarising the atria.
+  * Current travels down **Bachmann's Bundle**, which connects the right atrium to the left atrium
 
 * **AV node**  
   The AV node is the only (normal) site of connection between the atria and ventricles. AV nodal cells:
