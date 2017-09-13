@@ -31,7 +31,9 @@ With other platelets - held together by fibrin - forming a plug.
 ##Secondary Haemostasis
 The coagulation cascade is an amplification mechanism which activates clotting factors in order to produce fibrin.
 
-INSERT COAGULATION CASCADE
+<object data="resources\coagulation-full.svg" type="image/svg+xml"></object>
+
+
 
 Participating factors in the coagulation cascade can be either **enzymes** or **cofactors**:
 * Enzymes circulate in their inactive form, and become active (e.g. VII ⇒ VIIa) when hydrolysed by their precusor factor
