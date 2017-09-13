@@ -12,8 +12,8 @@ Binds calcium and prevents clotting.
 * Calcium (to replace the calcium lost by binding to citrate) and a reagent is added
 * Time taken to clot measured
 
-###Prothrombin Time (and INR)
-The prothrombin time measures the **extrinsic pathway**. Tissue factor has to be added to the sample in order start clotting - this is why it is known as the extrinsic pathway as a substance extrinsic to the sample must be added. There is a lot of variability between different labs on PT, so the INR is used to compare values from different labs.
+###Prothrombin Time/INR
+The prothrombin time measures the **extrinsic pathway**. Tissue factor has to be added to the sample in order start clotting - this is why it is known as the extrinsic pathway as a substance *extrinsic* to the sample must be added. There is a lot of variability between different labs on PT, so the INR is used to compare values from different labs.
 
 Any disorder of the extrinsic or common pathways will prolong the PT, i.e. deficiency or inhibition of:
 * Factor VII
