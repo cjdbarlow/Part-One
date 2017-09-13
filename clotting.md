@@ -34,7 +34,6 @@ The coagulation cascade is an amplification mechanism which activates clotting f
 <object data="resources\coagulation_full.svg" type="image/svg+xml"></object>
 
 
-
 Participating factors in the coagulation cascade can be either **enzymes** or **cofactors**:
 * Enzymes circulate in their inactive form, and become active (e.g. VII ⇒ VIIa) when hydrolysed by their precusor factor
 * Cofactors amplify the cascade
@@ -98,5 +97,6 @@ Has several key roles:
 
 ---
 ##References
-Clot or Bleed
-Chambers
+1. Clot or Bleed.
+2. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+3. [Clotting Cascade](https://en.wikipedia.org/wiki/File:Coagulation_full.svg) 22/4/2007. (Image). In *Wikipedia*.
