@@ -18,9 +18,14 @@ Following a vascular injury, the exposure of subendothelial proteins stimulates 
     vWF also binds to platelets.
 
 * **Activation**  
-    Metabolic activation via collagen, adrenaline, ADP, and thrombin, which activate phospholipase A<sub>2</sub> and phopholipase C, increasing platelet intracellular Ca<sup>2+</sup> and initiating a transformation from a disc to a sphere with long projections.
-
-    Platelets also release ADP and thromboxane A<sub>2</sub> from their **alpha granules** and **dense bodies**, amplifying further platelet aggregation and adhesion.
+  Metabolic activation, increasing phospholipase A<sub>2</sub> and phopholipase C, increasing platelet intracellular Ca<sup>2+</sup> and initiating a transformation from a disc to a sphere with long projections.
+    * Metabolic activation is stimulated by:
+        * Collagen
+        * Adrenaline
+        * ADP
+        * Thrombin 
+    * Additionally, platelets release ADP and thromboxane A<sub>2</sub> from their **alpha granules** and **dense bodies**, amplifying further platelet aggregation and adhesion
+    
     
 * **Aggregation**  
 With other platelets - held together by fibrin - forming a plug.
