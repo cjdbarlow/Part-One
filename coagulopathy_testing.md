@@ -23,7 +23,8 @@ Any disorder of the extrinsic or common pathways will prolong the PT, i.e. defic
 * Factor I (fibrinogen)
 
 Although warfarin affects factors in all three pathways, its clinical effects are measured using INR. This is because:
-* Factor VII has the shortest half-life and so its levels fall most quickly
+* Factor VII has the shortest half-life of the clotting factors affected by warfarin  
+Therefore so its levels will fall the quickest.
 * Therefore a fall in Factor VII levels is the earliest indication of changes in coagulation status due to warfarin
 * As factor VII is only in the extrinsic pathway, the PT/INR are the only tests which can evaluate its function
 
