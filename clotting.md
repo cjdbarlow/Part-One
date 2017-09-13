@@ -17,6 +17,7 @@ Following a vascular injury, the exposure of subendothelial proteins stimulates 
     Exposed collagen binds to GPIa receptor on platelets.  
     vWF also binds to platelets.
 
+
 * **Activation**  
   Metabolic activation, increasing phospholipase A<sub>2</sub> and phopholipase C, increasing platelet intracellular Ca<sup>2+</sup> and initiating a transformation from a disc to a sphere with long projections.
     * Metabolic activation is stimulated by:
