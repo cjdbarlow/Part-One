@@ -5,7 +5,7 @@
 Compliance is measured in ml.cmH<sub>2</sub>O<sup>-1</sup>
 * It occurs due to the tendency of a tissue to resume its original position after removal of an applied force
 * It is the inverse of **elastance**, which is the force at which the lung recoils for a given distension
-* A decreased compliance means the transpulmonary pressure must change by a greater amount for a given volume, which increases the work of breathing
+* A decreased compliance means the transpulmonary pressure must change by a greater amount for a given volume, which increases elastic work of breathing
 
 ##Compliance of the Respiratory System
 * Compliance of the respiratory system is a function of both lung and chest wall compliance:  
