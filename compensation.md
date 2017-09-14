@@ -22,7 +22,7 @@ Occurs in minutes.
     * Cannot compensate completely
 * Renal compensation  
 Occurs over days to weeks. Includes:
-    * Elimnination of H<sup>+</sup> bound to filtered buffers
+    * Elimination of H<sup>+</sup> bound to filtered buffers
         * Include ammonium, phosphate
     * Reabsorption of bicarbonate
     * Active secretion of H<sup>+</sup> in the DCT/CT  
