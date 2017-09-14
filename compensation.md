@@ -15,7 +15,7 @@ Occurs over minutes to hours. Includes:
         K<sup>+</sup> increases by 0.6mmol.L<sup>-1</sup> per 0.1 unit fall in pH.
     * Bone  
     Exchange of Na<sup>+</sup> and Ca<sup>2+</sup> in bone.  
-        * Leads to demineralisation and release of alkaline compounds.
+        * Leads to demineralisation and release of alkaline compounds
 * Respiratory compensation  
 Occurs in minutes.
     * Rapid response
