@@ -56,4 +56,4 @@ In this test, the aggregating agent is added to a tube of platelets, and the cha
 
 ##References
 1. Krafts K. Clot or Bleed: A Painless Guide for People Who Hate Coag. Pathology Student.
-http://practical-haemostasis.com/Miscellaneous/Miscellaneous%20Tests/act.html
+2. [Activated Clotting Time](http://practical-haemostasis.com/Miscellaneous/Miscellaneous%20Tests/act.html) - Practical Haemostasis.
