@@ -23,7 +23,10 @@ The **LCx**:
 * Gives off three **obtuse marginal** branches (OM<sub>1</sub>, OM<sub>2</sub>) which follow the left margin of the heart
 * Runs in close approximation with the coronary sinus for much of its course
 
-The **right** coronary artery arises from the anterior aortic sinus superior to the right coronary cusp of the aortic valve. The RCA courses vertically downwards in the **right atrioventricular groove** and supplies the RA and RV.
+The **RCA**:
+* Arises from the anterior aortic sinus, superior to the right coronary cusp of the aortic valve
+* Courses vertically downwards in the **right atrioventricular groove**
+* Supplies the RA and RV
 
 The LCx and RCA travel in opposite directions around the atrioventricular groove. The **posterior descending artery** has its origin from one of these vessels, and unsurprisingly descends in the posterior interventricular groove before coursing along the base to anastomose with the LAD at the apex of the heart.
 
