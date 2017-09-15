@@ -19,7 +19,7 @@ Here, it anastomoses with the posterior descending artery from the RCA.
 
 The **LCx**:
 * Courses along the **left antrioventricular** groove between the LA and LV in the epicardial fat pad
-* **Supplies** the **lateral and posterior** walls of the **LV**
+* **Supplies** the **inferolateral wall** of the **LV**
 * Gives off three **obtuse marginal** branches (OM<sub>1</sub>, OM<sub>2</sub>) which follow the left margin of the heart
 * Runs in close approximation with the coronary sinus for much of its course
 
