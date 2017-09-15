@@ -1,7 +1,10 @@
 # Control of Blood Glucose
 >Explain the control of blood glucose
 
-Normal blood glucose in the non-diabetic is 4-6 mmol.L<sup>-1</sup>, though will rise after consumption of carbohydrate. Short-term regulation of blood glucose is via secretion or inhibition of insulin and glucagon from the pancreatic islets. In long-term periods of hypoglycaemia, neuronal mechanisms (SNS activation) and other hormones (cortisol, GH) are also involved.
+Normal blood glucose in the non-diabetic is 4-6 mmol.L<sup>-1</sup>, though will rise after consumption of carbohydrate. Glucose regulation can be divided into:
+* Short-term  
+Regulation via secretion or inhibition of insulin and glucagon from the pancreatic islets. * Long-term  
+Regulation via both neuronal (SNS activation) and hormonal (cortisol, GH) mechanisms.
 
 ##Hormal Mechanisms
 ###Short Term
