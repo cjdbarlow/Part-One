@@ -3,9 +3,15 @@
 
 ##Vascular Anatomy
 ###Coronary Artery Anatomy
-The **left** coronary artery arises from the posterior aortic sinus superior to the left coronary cusp of the aortic valve. Eddy currents produced the **sinuses of Valsalva** (out-pockets of the aortic wall) prevent the valves from occluding the os of the LM and RCA during systole, and so they remains patent throughout the cardiac cycle. The **left main** is 5-10mm long, and bifurcates into the LAD and LCx. 
+The **left main** coronary artery:
+* Arises from the posterior aortic sinus superior to the left coronary cusp of the aortic valve  
+Eddy currents produced the **sinuses of Valsalva** (out-pouchings of the aortic wall) prevent the valves occluding the os of the LM and RCA during systole, so they remain patent throughout the cardiac cycle.
+* The **left main** is 5-10mm long, and bifurcates to form the LAD and LCx
 
-The **LAD** courses along the **anterior interventricular groove** to the apex of the herat, where it anastomoses with the posterior descending artery from the RCA. The LAD **supplies** the **anterolateral myocardium** and **anterior 2/3** of the interventricular **septum**. **Branches** of the LAD may be either **diagonal** or **septal perforators**. Branches are named successively from proximal to distal, i.e. LADD<sub>1</sub>, LADD<sub>2</sub>, etc.
+The **LAD**:
+* Courses along the **anterior interventricular groove** to the apex of the heart  
+Here, it anastomoses with the posterior descending artery from the RCA.
+* **Supplies** the **anterolateral myocardium** and **anterior 2/3** of the interventricular **septum**. **Branches** of the LAD may be either **diagonal** or **septal perforators**. Branches are named successively from proximal to distal, i.e. LADD<sub>1</sub>, LADD<sub>2</sub>, etc.
 
 The **LCx** courses along the **left antrioventricular** groove between the LA and LV in the epicardial fat pad. It **supplies** the **lateral and posterior** walls of the **LV**. The LCx gives off three **obtuse marginal** branches (OM<sub>1</sub>, OM<sub>2</sub>) which follow the left margin of the heart. It runs in close approximation with the coronary sinus for much of its course.
 
