@@ -74,6 +74,11 @@ CBF is affeted in systole due to the changes in perfusion pressure, and compress
   * RV CBF is less affected, as the force of contraction is significantly smaller and a pressure gradient is maintained
   * Tachycardia reduces diastolic time and subsequently LV CBF
 
+<object data="resources\lv-cbf.svg" type="image/svg+xml"></object>
+
+
+
+
 ###Control of Coronary Blood Flow
 CBF is **autoregulated**:
 * **Myogenic autoregulation**  
