@@ -16,11 +16,11 @@ Chemoreceptors act synergistically. Chemoreceptors are divided into:
 * Other effects
 
 ###Peripheral Chemoreceptors
-* Peripheral chemoreceptors include:
-  * The **carotid body**  
-  Located at the bifurcation of the common carotid artery, and are innervated by the glossopharyngeal nerve (CN IX).
-  * The **aortic body**  
-  Located in the aortic arch, and innervated by the vagus (CN X).
+Peripheral chemoreceptors are divided into:
+* The **carotid body**  
+Located at the bifurcation of the common carotid artery, and are innervated by the glossopharyngeal nerve (CN IX).
+* The **aortic body**  
+Located in the aortic arch, and innervated by the vagus (CN X).
 
 They are stimulated by:
 * **Low PaO<sub>2</sub>**  
