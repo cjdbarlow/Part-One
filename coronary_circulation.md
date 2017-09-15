@@ -3,6 +3,11 @@
 
 ##Vascular Anatomy
 ###Coronary Artery Anatomy
+<object data="resources\coronary.svg" type="image/svg+xml"></object>
+
+
+
+
 The **left main** coronary artery:
 * Arises from the posterior aortic sinus superior to the left coronary cusp of the aortic valve  
 Eddy currents produced the **sinuses of Valsalva** (out-pouchings of the aortic wall) prevent the valves occluding the os of the LM and RCA during systole, so they remain patent throughout the cardiac cycle.
@@ -33,7 +38,6 @@ The posterior descending artery:
 These vessels travel in opposite directions around the atrioventricular groove.
 * Descends in the posterior interventricular groove before coursing along the base to anastomose with the LAD at the apex of the heart
 
-<object data="resources\coronary.svg" type="image/svg+xml"></object>
 
 
 ####Coronary Dominance
