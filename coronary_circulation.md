@@ -6,8 +6,6 @@
 <object data="resources\coronary.svg" type="image/svg+xml"></object>
 
 
-
-
 The **left main** coronary artery:
 * Arises from the posterior aortic sinus superior to the left coronary cusp of the aortic valve  
 Eddy currents produced the **sinuses of Valsalva** (out-pouchings of the aortic wall) prevent the valves occluding the os of the LM and RCA during systole, so they remain patent throughout the cardiac cycle.
