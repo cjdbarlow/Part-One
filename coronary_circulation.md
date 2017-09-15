@@ -17,7 +17,11 @@ Here, it anastomoses with the posterior descending artery from the RCA.
   Branches are named successively from proximal to distal, i.e. LADD<sub>1</sub>, LADD<sub>2</sub>, etc.
   * **Septal perforators**
 
-The **LCx** courses along the **left antrioventricular** groove between the LA and LV in the epicardial fat pad. It **supplies** the **lateral and posterior** walls of the **LV**. The LCx gives off three **obtuse marginal** branches (OM<sub>1</sub>, OM<sub>2</sub>) which follow the left margin of the heart. It runs in close approximation with the coronary sinus for much of its course.
+The **LCx**:
+* Courses along the **left antrioventricular** groove between the LA and LV in the epicardial fat pad
+* **Supplies** the **lateral and posterior** walls of the **LV**
+* Gives off three **obtuse marginal** branches (OM<sub>1</sub>, OM<sub>2</sub>) which follow the left margin of the heart
+* Runs in close approximation with the coronary sinus for much of its course
 
 The **right** coronary artery arises from the anterior aortic sinus superior to the right coronary cusp of the aortic valve. The RCA courses vertically downwards in the **right atrioventricular groove** and supplies the RA and RV.
 
