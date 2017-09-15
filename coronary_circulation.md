@@ -102,7 +102,7 @@ Anaerobic metabolism results in production of vasoactive mediates such as **lact
   
 ---
 ##References
-Guyton
-CICM July/Sep 2007
+1. Hall, JE, and Guyton AC. Guyton and Hall Textbook of Medical Physiology. 11th Edition. Philadelphia, PA: Saunders Elsevier. 2011. 
+2. CICM July/September 2007
 Lasts 9th edition
 4. Coronary Artery Graph based on [Coronary Arterial Circulation - es](hhttps://commons.wikimedia.org/wiki/File:Coronary_arterial_circulation_-_es.svg). 2/3/2013. (Image). By Addicted04 (Own work) [CC BY 3.0](http://creativecommons.org/licenses/by/3.0), via Wikimedia Commons.
