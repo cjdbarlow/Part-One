@@ -13,7 +13,8 @@ The **right** coronary artery arises from the anterior aortic sinus superior to 
 
 The LCx and RCA travel in opposite directions around the atrioventricular groove. The **posterior descending artery** has its origin from one of these vessels, and unsurprisingly descends in the posterior interventricular groove before coursing along the base to anastomose with the LAD at the apex of the heart.
 
-LASTS FIGURE 4.28 PAGE 273
+<object data="resources\coronary.svg" type="image/svg+xml"></object>
+
 
 ####Coronary Dominance
 Coronary dominance refers to the variable coronary supply of the SA and AV node. The **SA node** is supplied by the **RCA in 60%** of individuals, whilst the **AV node** is supplied by the **RCA in 90%** of individuals. In a **right-dominant** circulation the PDA is supplied by the **RCA**, and the **LCx** in a **left-dominant** circulation.
