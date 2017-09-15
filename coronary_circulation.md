@@ -86,7 +86,7 @@ CBF is **autoregulated**:
   * Increasing transmural pressure increases the leakiness of smooth muscle membranes, depolarising them
   * Resistance increases proportionally to pressure, such that flow remains constant
 * **Metabolic autoregulation**  
-Anaerobic metabolism results in production of vasoactive mediates such as **lactate** and **adenosine**, which stimulate vasodilation and an increase in flow (and therefore oxygen delivery).
+Anaerobic metabolism results in production of vasoactive mediates such as **lactate** and **adenosine**, which stimulate vasodilation and therefore increase flow (and oxygen delivery).
   * This is the predominant means for autoregulation in the heart
   * Typical **myocardial oxygen extraction is 70%** and raising this further is difficult  
   Therefore, increasing oxygen supply requires an increase in blood flow.
@@ -94,12 +94,12 @@ Anaerobic metabolism results in production of vasoactive mediates such as **lact
 
 
 **Autonomic** mechanisms also control some aspects of coronary blood flow:  
-These autonomic local autoregulation.
 * **Direct** effects include:
   * Parasympathetic and sympathetic innervation of coronary vessels, with release of ACh or NA and A decreasing or increasing coronary blood flow
 *  **Indirect** effects
   *  Are more important than direct effects
   *  Are related to autoregulation occurring with changing levels of myocardial work in response to parasympathetic or sympathetic stimuli
+  
 ---
 ##References
 Guyton
