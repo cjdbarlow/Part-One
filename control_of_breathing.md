@@ -1,7 +1,10 @@
 # Control of Breathing
 > Describe the control of breathing
 
-Ventilation is controlled by a feedback loop involving **inputs**, **integration and control**, and **effector** (i.e. the muscles of respiration) centres.
+Ventilation is controlled by a feedback loop involving:
+* **Inputs**
+* **Integration and control** centres
+* **Effectors**
 
 ##Inputs
 Inputs to the respiratory centre comes from a number of sensors:
