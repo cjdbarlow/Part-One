@@ -32,8 +32,11 @@ Vagus Nerve
 ##DCT
 Distal Convoluted Tubule
 
-#DBP
+##DBP
 Diastolic Blood Pressure
+
+##DRG
+Dorsal Respiratory Group
 
 ##ECT
 Electron Transport Chain
@@ -62,6 +65,9 @@ Mean Alveolar Concentration
 ##MAP
 Mean Arterial Pressure
 
+##MV
+Minute Ventilation
+
 ##NTS
 Nucleus of the Tractus Solitarius
 
@@ -74,6 +80,9 @@ Platelet-Derived Growth Factor
 ##PCT
 Proximal Convoluted Tubule
 
+##RR
+Respiratory Rate
+
 ##SBP
 Systolic Blood Pressure
 
@@ -85,4 +94,7 @@ Systemic Vascular Resistance
 
 ##VR
 Venous Return
+
+##VRG
+Ventral Respiratory Group
 
