@@ -69,8 +69,8 @@ CBF is dependent on:
 The difference between aortic root pressure and the greater of RAP or intracavity pressure: i.e. $$ CBF = {P_{Aorta} - P_{Cavity} \ or \ RAP \over CVR } $$
   * Note that the pressure gradient is usually Aorta-Cavity rather than Aorta-RA  
   This is because the pressure in the ventricle acts as a Starling resistor - coronary flow is independent of RAP whilst $$RAP < P_{Cavity}$$
-
-LV CBF is reduced in systole as contracting myocardium compresses intramuscular vessels and increases CVR. RV CBF is less affected, as the force of contraction is significantly smaller and a pressure gradient is maintained. Tachycardia reduces diastolic time and subsequently LV CBF.
+* Heart rate  
+CBF is affeted in systole as contracting myocardium compresses intramuscular vessels and increases CVR. RV CBF is less affected, as the force of contraction is significantly smaller and a pressure gradient is maintained. Tachycardia reduces diastolic time and subsequently LV CBF.
 
 ###Control of Coronary Blood Flow
 CBF is **autoregulated**:
