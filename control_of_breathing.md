@@ -2,14 +2,16 @@
 > Describe the control of breathing
 
 Ventilation is controlled by a feedback loop involving:
-* **Inputs**
-* **Integration and control** centres
-* **Effectors**
+* Inputs
+* Integration and control centres
+* Effectors
 
 ##Inputs
 Inputs to the respiratory centre comes from a number of sensors:
-* Peripheral Chemoreceptors
-* Central Chemoreceptors
+* Chemoreceptors  
+Peripheral and central chemoreceptors are synergistic - i.e. responses sensed by both is greater than the sum of each effect.
+  * Peripheral
+  * Central
 * Mechanoreceptors
 * Other effects
 
