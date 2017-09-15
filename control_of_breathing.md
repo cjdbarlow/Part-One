@@ -9,13 +9,11 @@ Ventilation is controlled by a feedback loop involving:
 ##Inputs
 Inputs to the respiratory centre comes from a number of sensors:
 * Chemoreceptors  
-Peripheral and central chemoreceptors are synergistic - i.e. responses sensed by both is greater than the sum of each effect.
+Chemoreceptors act synergistically. Chemoreceptors are divided into:
   * Peripheral
   * Central
 * Mechanoreceptors
 * Other effects
-
-Peripheral and central chemoreceptors are synergistic - i.e. responses sensed by both is greater than the sum of each effect.
 
 ###Peripheral Chemoreceptors
 * Peripheral chemoreceptors include:
