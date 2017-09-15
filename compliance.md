@@ -57,7 +57,10 @@ In normal lungs at normal respiratory rates it approximates static compliance.
     * Due to incomplete filling of alveoli - the portion of pressure that is used to overcome airways resistance is therefore proportionally greater
 
 
-DYNAMIC COMPLIANCE CURVE
+<object data="resources\workofbreathing.svg" type="image/svg+xml"></object>
+
+
+
 
 ##Specific Compliance
 **Specific compliance** is the compliance per unit volume of lung, expressed as:  
