@@ -88,7 +88,7 @@ The respiratory centre is located in the **medulla** and the **pons**. It consis
 
 ---
 ##References
-CICM Feb 2015
-CICM March/May 2009
-Chambers, Huang, Matthews
-Anaesthesia MCQ Acid-Base Book
+1. CICM February/April 2015
+2. CICM March/May 2009
+3. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+4. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.
