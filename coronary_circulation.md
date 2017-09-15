@@ -70,7 +70,9 @@ The difference between aortic root pressure and the greater of RAP or intracavit
   * Note that the pressure gradient is usually Aorta-Cavity rather than Aorta-RA  
   This is because the pressure in the ventricle acts as a Starling resistor - coronary flow is independent of RAP whilst $$RAP < P_{Cavity}$$
 * Heart rate  
-CBF is affeted in systole as contracting myocardium compresses intramuscular vessels and increases CVR. RV CBF is less affected, as the force of contraction is significantly smaller and a pressure gradient is maintained. Tachycardia reduces diastolic time and subsequently LV CBF.
+CBF is affeted in systole due to the changes in perfusion pressure, and compression of intramuscular vessels (causing an increase in CVR).
+  * RV CBF is less affected, as the force of contraction is significantly smaller and a pressure gradient is maintained
+  * Tachycardia reduces diastolic time and subsequently LV CBF
 
 ###Control of Coronary Blood Flow
 CBF is **autoregulated**:
