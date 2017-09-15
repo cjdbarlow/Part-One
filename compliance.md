@@ -28,7 +28,7 @@ This is performed by measuring oesophageal pressure (using a balloon) with an **
 
 * Measurement of compliance of each system individually determines what proportion of plateau pressure is distributed to each
   * If the lung is significantly less compliant than the chest wall, a greater pressure is required to distend the lung
-  * Therefore, the alveolar-intrapleural gradient will be much greater than the intrapleural-ambient gradient.
+  * Therefore, the alveolar-intrapleural gradient will be much greater than the intrapleural-ambient gradient
   * This can be expressed by the equation:  
 $$ \Delta P_{Pl.} = P_{Plat.} \times {C_L \over C_L + C_W } $$
 
@@ -41,7 +41,9 @@ $$ \Delta P_{Pl.} = P_{Plat.} \times {C_L \over C_L + C_W } $$
   * Surface tension of alveoli  
 
 
-STATIC COMPLIANCE CURVE
+<object data="resources\coagulation_full.svg" type="image/svg+xml"></object>
+
+
 
 ##Dynamic Compliance
 
