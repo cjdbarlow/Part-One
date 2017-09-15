@@ -41,7 +41,7 @@ Peripheral chemoreceptors are stimulated by:
   * H<sup>+</sup> and HCO<sub>3</sub><sup>-</sup> are ionised, and cannot cross the BBB by diffusion
   * Because of this, central chemoreceptors **respond indirectly** to **changes in arterial PaCO<sub>2</sub>**
     * Carbon dioxide is lipid soluble and freely diffuses into CSF
-    * In CSF, carbon dioxide combines with water (catalysed by carbonic anydrase) to form H<sup>+</sup> and HCO<sub>3</sub><sup>-</sup>.
+    * In CSF, carbon dioxide combines with water (catalysed by carbonic anydrase) to form H<sup>+</sup> and HCO<sub>3</sub><sup>-</sup>
 
 
 * This slightly convoluted process gives the central chemoreceptors a number of special properties:
