@@ -11,7 +11,11 @@ Eddy currents produced the **sinuses of Valsalva** (out-pouchings of the aortic 
 The **LAD**:
 * Courses along the **anterior interventricular groove** to the apex of the heart  
 Here, it anastomoses with the posterior descending artery from the RCA.
-* **Supplies** the **anterolateral myocardium** and **anterior 2/3** of the interventricular **septum**. **Branches** of the LAD may be either **diagonal** or **septal perforators**. Branches are named successively from proximal to distal, i.e. LADD<sub>1</sub>, LADD<sub>2</sub>, etc.
+* **Supplies** the **anterolateral myocardium** and **anterior 2/3** of the interventricular **septum**
+* **Branches** of the LAD include:
+  * **Diagonal** vessels  
+  Branches are named successively from proximal to distal, i.e. LADD<sub>1</sub>, LADD<sub>2</sub>, etc.
+  * **Septal perforators**
 
 The **LCx** courses along the **left antrioventricular** groove between the LA and LV in the epicardial fat pad. It **supplies** the **lateral and posterior** walls of the **LV**. The LCx gives off three **obtuse marginal** branches (OM<sub>1</sub>, OM<sub>2</sub>) which follow the left margin of the heart. It runs in close approximation with the coronary sinus for much of its course.
 
