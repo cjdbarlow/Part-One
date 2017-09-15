@@ -37,7 +37,7 @@ Peripheral chemoreceptors are stimulated by:
 * **Hypotension**  
 
 ###Central Chemoreceptors
-* Central chemoreceptors are located on the **ventral medulla**, and are **stimulated** by a **fall** in **CSF pH**.
+* Central chemoreceptors are located on the **ventral medulla**, and are **stimulated** by a **fall** in **CSF pH**
   * H<sup>+</sup> and HCO<sub>3</sub><sup>-</sup> are ionised, and cannot cross the BBB by diffusion
   * Because of this, central chemoreceptors **respond indirectly** to **changes in arterial PaCO<sub>2</sub>**
     * Carbon dioxide is lipid soluble and freely diffuses into CSF
