@@ -59,7 +59,9 @@ Additionally:
 
 ##Coronary Blood Flow
 Coronary Blood Flow:
-* Normal is **~250ml.min<sup>-1</sup>** (~5% of resting CO), and may increase 4x during strenuous exercise. Myocardial work may increase up to 9x, though as myocardial oxygen extraction is unchanged efficiency is actually improved during exercise.
+* Normal is **~250ml.min<sup>-1</sup>** (~5% of resting CO)
+* May increase 4x during strenuous exercise  
+Myocardial *work* may increase up to 9x, though as myocardial oxygen extraction is unchanged efficiency is actually improved during exercise.
 
 GUYTON CORONARY BLOOD FLOW DIAGRAM pg 250
 
