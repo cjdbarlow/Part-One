@@ -40,7 +40,11 @@ These vessels travel in opposite directions around the atrioventricular groove.
 
 
 ####Coronary Dominance
-Coronary dominance refers to the variable coronary supply of the SA and AV node. The **SA node** is supplied by the **RCA in 60%** of individuals, whilst the **AV node** is supplied by the **RCA in 90%** of individuals. In a **right-dominant** circulation the PDA is supplied by the **RCA**, and the **LCx** in a **left-dominant** circulation.
+Coronary dominance refers to which vessel gives rise to the PDA:
+* In a **right-dominant** circulation the PDA is supplied by the **RCA**
+* In a **left-dominant** circulation the PDA is supplied by the **LCx**
+
+In a right the variable coronary supply of the SA and AV node. The **SA node** is supplied by the **RCA in 60%** of individuals, whilst the **AV node** is supplied by the **RCA in 90%** of individuals. 
 
 ###Venous Anatomy
 * 85% of venous drainage occurs via the **coronary sinus**, which is formed from the cardiac veins:
