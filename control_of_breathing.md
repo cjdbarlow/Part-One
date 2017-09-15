@@ -29,9 +29,8 @@ Peripheral chemoreceptors are stimulated by:
 
 
 * **High PaCO<sub>2</sub>**  
-  Peripheral receptors have a **rapid** (~1-3s) but **weaker** (~20% of response) to changes in CO<sub>2</sub>, compared to central chemoreceptors
-
-GRAPH OF RESPONSE TO CO2 (page 95 of Huang)
+  Peripheral receptors have a **rapid** (~1-3s) but **weaker** (~20% of response) to changes in CO<sub>2</sub>, compared to central chemoreceptors  
+<object data="resources\PaCO2-vs-MV.svg" type="image/svg+xml"></object>
 
 * **Acidaemia**  
   (Carotid bodies only)
