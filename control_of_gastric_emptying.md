@@ -14,8 +14,8 @@ Main determinant as pyloric resistance tends to be low, and is affected by:
 * **Pyloric resistance**
 
 ###Stomach
-* Gastric **distension**  
-  Vagal excitation from gastric stretch causes release of **gastrin**, increasing peristaltic frequency
+* Gastric **distension**    
+  Vagal excitation from gastric stretch causes release of **gastrin**, increasing peristaltic frequency.
 * Composition of chyme:
     * **Liquids** empty **faster** than **solids**
         * Liquids have a half-time of ~20 minutes, and empty in an exponential fashion
@@ -23,13 +23,15 @@ Main determinant as pyloric resistance tends to be low, and is affected by:
     * Protein independently stimulates gastrin release
 
 ###Duodenum
-The duodenum has hormonal mechanisms which have a negative feedback on gastric emptying. These include:
+The duodenum has hormonal mechanisms which have a **negative feedback** on gastric emptying. These include:
 * **Duodenal distension**
 * **Hypoosmolar and hyperosmolar** chyme
 * **Acid**ic chyme  
-  In reponse to acid the duodenum releases **secretin** and **somatostatin**. Secretin directly inhibits gastric smooth muscle, whilst somatostatin **inhibits** the release of **gastrin**.
+  In reponse to acid the duodenum releases **secretin** and **somatostatin**.
+      * Secretin directly inhibits gastric smooth muscle
+      * Somatostatin inhibits gastrin release
 * **Fat** and **protein**  
-  Fat and protein breakdown products stimulate release of **cholecystokinin**, which **inhibits gastrin**
+  Fat and protein breakdown products stimulate release of **cholecystokinin**, which **inhibits gastrin**.
     * Carbohydrate-rich meals empty faster than protein, which empty faster than fat.
 
 
@@ -38,7 +40,8 @@ The duodenum has hormonal mechanisms which have a negative feedback on gastric e
 * **Sympathetic** input from the coeliac plexus **inhibits** gastric emptying
 * Pregnancy has a number of effecs on gastric emptying:
     * Progesterone relaxes smooth muscle and inhibits gastric smooth muscle response to ACh and gastrin, as well as creating incompetence of the LoS leading to GORD
-    * Gastrin production increases (it is produced by the placenta)
+    * Gastrin production increases  
+    Some gastrin is produced by the placenta.
     * Gastric acid production is increased during the the third trimester
 * **Parasympathetic** input enhances gastric motility
 
