@@ -44,7 +44,7 @@ Peripheral chemoreceptors are stimulated by:
     * In CSF, carbon dioxide combines with water (catalysed by carbonic anydrase) to form H<sup>+</sup> and HCO<sub>3</sub><sup>-</sup>
 
 
-* This slightly convoluted process gives the central chemoreceptors a number of special properties:
+* This gives the central chemoreceptors a number of special properties:
   * **Increased sensitivity**  
   Increased relative to plasma due to minimal buffering (as there is less protein in CSF)
   * **Respond to respiratory acidosis**  
