@@ -117,5 +117,6 @@ Respiratory system compliance can be affected by changes to either lung or chest
 ---
 
 ##References
-Ganong
+1. Barrett KE, Barman SM, Boitano S, Brooks HL. Ganong's Review of Medical Physiology. 24th Ed. McGraw Hill. 2012.
+
 The Kenny Physiology Lectures
