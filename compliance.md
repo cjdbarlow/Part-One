@@ -22,8 +22,8 @@ In the normal range however, (-5 to -10cmH<sub>2</sub>O) compliance is typically
 
 * Measuring ambient and alveolar pressure is straightfoward, as is calculating compliance of the respiratory system
   * Alveolar pressure is measured by taking a plateau pressure
-* Separating lung and chest wall compliance requires measuring intrapleural pressure
-  * When the glottis is open, oesophageal pressure (measured using a balloon) approximates intrapleural pressure
+* Separating lung and chest wall compliance requires measurement of intrapleural pressure  
+This is performed by measuring oesophageal pressure (using a balloon) with an **open glottis**, as oesophageal pressure approximates intrapleural pressure.
 
 
 * Measurement of compliance of each system individually determines what proportion of plateau pressure is distributed to each
