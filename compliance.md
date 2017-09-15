@@ -2,7 +2,7 @@
 > Define compliance (static, dynamic and specific), its measurement, and relate this to the elastic properties of the respiratory system.
 
 * Compliance is the **change in volume** for a **given a change in pressure**  
-Compliance is measured in ml.cmH<sub>2</sub>O<sup>-1</sup>
+Compliance is measured in ml.cmH<sub>2</sub>O<sup>-1</sup>.x
 * It occurs due to the tendency of a tissue to resume its original position after removal of an applied force
 * It is the inverse of **elastance**, which is the force at which the lung recoils for a given distension
 * A decreased compliance means the transpulmonary pressure must change by a greater amount for a given volume, which increases elastic work of breathing
@@ -20,7 +20,7 @@ In the normal range however, (-5 to -10cmH<sub>2</sub>O) compliance is typically
 * Total compliance is calculated from the alveolar-ambient gradient
 
 
-* Measuring ambient and alveolar pressure is straightfoward, and calculating compliance of the respiratory system is similarly easy
+* Measuring ambient and alveolar pressure is straightfoward, as is calculating compliance of the respiratory system
   * Alveolar pressure is measured by taking a plateau pressure
 * Separating lung and chest wall compliance requires measuring intrapleural pressure
   * When the glottis is open, oesophageal pressure (measured using a balloon) approximates intrapleural pressure
