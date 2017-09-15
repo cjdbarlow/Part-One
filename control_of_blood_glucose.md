@@ -21,7 +21,9 @@ Glucose levels are sensed directly in the pancreas and will result in insulin re
 Conversely, a low glucose level stimulates secretion of glucagon. This is typically less important than the effect of insulin unless in situations of starvation or severe physiological stress.
 
 ###Long Term
-Sustained hypoglycaemia stimulates **growth hormone** and **cortisol** release, which **decreases glucose utilisation** and **increases fat utilisation**, limiting further reduction in blood glucose.
+Sustained hypoglycaemia increases fat utilisation and decreases glucose utilisation (limiting further drops in blood glucose), via stimulating release of:
+* GH
+* Cortisol
 
 ##Neuronal Mechanisms
 **Hypoglycaemia** has a direct **stimulatory** effect on the **hypothalamus**, resulting in increased **sympathetic** nervous system activity. This results in **adrenaline** release, which will in turn stimulate hepatic **glucose release**.
