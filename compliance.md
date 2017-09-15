@@ -41,7 +41,7 @@ $$ \Delta P_{Pl.} = P_{Plat.} \times {C_L \over C_L + C_W } $$
   * Surface tension of alveoli  
 
 
-<object data="resources\coagulation_full.svg" type="image/svg+xml"></object>
+<object data="resources\lung-pressure-volume.svg" type="image/svg+xml"></object>
 
 
 
