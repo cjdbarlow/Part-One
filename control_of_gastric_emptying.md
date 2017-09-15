@@ -57,5 +57,5 @@ Drugs which inhibit gastric emptying include:
 * Anticholinergic agents
 
 ##References
-CICM 2007
-Power and Kam
+1. CICM July/September 2007
+2. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
