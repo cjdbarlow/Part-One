@@ -58,7 +58,8 @@ Additionally:
 * A small proportion of blood from the left side of the heart is drained via the **thebesian veins** directly into the cardiac chambers
 
 ##Coronary Blood Flow
-At rest, CBF is **~250ml.min<sup>-1</sup>** (~5% of resting CO), and may increase 4x during strenuous exercise. Myocardial work may increase up to 9x, though as myocardial oxygen extraction is unchanged efficiency is actually improved during exercise.
+Coronary Blood Flow:
+* Normal is **~250ml.min<sup>-1</sup>** (~5% of resting CO), and may increase 4x during strenuous exercise. Myocardial work may increase up to 9x, though as myocardial oxygen extraction is unchanged efficiency is actually improved during exercise.
 
 GUYTON CORONARY BLOOD FLOW DIAGRAM pg 250
 
