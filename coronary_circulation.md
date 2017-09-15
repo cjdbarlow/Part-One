@@ -76,7 +76,7 @@ CBF is affeted in systole due to the changes in perfusion pressure, and compress
 
 <object data="resources\lv-cbf.svg" type="image/svg+xml"></object>
 
-
+<object data="resources\rv-cbf.svg" type="image/svg+xml"></object>
 
 
 ###Control of Coronary Blood Flow
