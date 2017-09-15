@@ -66,4 +66,4 @@ These autonomic local autoregulation.
 Guyton
 CICM July/Sep 2007
 Lasts 9th edition
-4. 
+4. Coronary Artery Graph based on [Coronary Arterial Circulation - es](hhttps://commons.wikimedia.org/wiki/File:Coronary_arterial_circulation_-_es.svg) 22/4/2007. (Image). In *Wikipedia*.
