@@ -41,7 +41,6 @@ Insulin and glucagon act on the liver to continually adjust the relative rates o
 
 
 
-
 ##Physiological Responses to Hypoglycaemia
 
 |BSL (mmol.L<sup>-1</sup>) |Symptoms|Endocrine Response|
@@ -56,5 +55,5 @@ Insulin and glucagon act on the liver to continually adjust the relative rates o
 ---
 
 ##References
-Ganong
-Guyton and Hall
+1. Barrett KE, Barman SM, Boitano S, Brooks HL. Ganong's Review of Medical Physiology. 24th Ed. McGraw Hill. 2012.
+2. Hall, JE, and Guyton AC. Guyton and Hall Textbook of Medical Physiology. 11th Edition. Philadelphia, PA: Saunders Elsevier. 2011. 
