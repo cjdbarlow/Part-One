@@ -63,10 +63,10 @@ Coronary Blood Flow:
 * May increase 4x during strenuous exercise  
 Myocardial *work* may increase up to 9x, though as myocardial oxygen extraction is unchanged efficiency is actually improved during exercise.
 
-GUYTON CORONARY BLOOD FLOW DIAGRAM pg 250
-
-
-CBF is dependent on coronary vascular resistance and coronary perfusion pressure, which is the difference between aortic root pressure and intracavity pressure: i.e. $$ CBF = {P_{Aorta} - P_{Cavity} \over CVR } $$
+CBF is dependent on:
+* Coronary vascular resistance
+* Coronary perfusion pressure  
+The difference between aortic root pressure and intracavity pressure: i.e. $$ CBF = {P_{Aorta} - P_{Cavity} \over CVR } $$
 
 Note that the pressure gradient is from Aorta-Cavity rather than Aorta-RA. The pressure in the ventricle acts as a Starling resistor - coronary flow is independent of RAP.
 
