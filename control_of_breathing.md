@@ -24,9 +24,8 @@ Located in the aortic arch, and innervated by the vagus (CN X).
 
 Peripheral chemoreceptors are stimulated by:
 * **Low PaO<sub>2</sub>**  
-  Peripheral chemoreceptors are stimulated by **low O<sub>2</sub> tension**
-
-GRAPH OF RESPONSE TO HYPOXIA (paO2 vs MV - page 94 of Huang)
+  Peripheral chemoreceptors are stimulated by **low O<sub>2</sub> tension**  
+  <object data="resources\PaO2-vs-MV.svg" type="image/svg+xml"></object>
 
 
 * **High PaCO<sub>2</sub>**  
