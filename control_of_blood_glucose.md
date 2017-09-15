@@ -26,7 +26,9 @@ Sustained hypoglycaemia increases fat utilisation and decreases glucose utilisat
 * Cortisol
 
 ##Neuronal Mechanisms
-**Hypoglycaemia** has a direct **stimulatory** effect on the **hypothalamus**, resulting in increased **sympathetic** nervous system activity. This results in **adrenaline** release, which will in turn stimulate hepatic **glucose release**.
+**Hypoglycaemia directly stimulates the hypothalamus**, causing:
+* Increased SNS tone  
+**Adrenaline** release in turn stimulates hepatic glucose release.
 
 ##Organ Effects
 Glucose levels are influenced by the:
