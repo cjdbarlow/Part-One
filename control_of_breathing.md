@@ -64,14 +64,14 @@ Other inputs which stimulate respiration include:
 * Juxtacapillary receptors (J-receptors)  
 Receptors in alveolar walls, potentially stimulated by oedema and emboli.
 * Irritant receptors  
-  Inhalation of noxious gases stimulates respiration
+  Inhalation of noxious gases stimulates respiration.
 * Pain receptors
 * Thalamus  
-  Increased core temperature
+  Increased core temperature stimulates respiration.
 * Limbic system  
-  Emotional responses
+  Emotional responses.
 * Cerebral cortex  
-  Conscious control of breathing
+  Conscious control of breathing.
 * Muscle spindles  
 Ventilatory response to exercise.
 
