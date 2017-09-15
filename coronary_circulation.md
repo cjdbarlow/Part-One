@@ -28,7 +28,10 @@ The **RCA**:
 * Courses vertically downwards in the **right atrioventricular groove**
 * Supplies the RA and RV
 
-The LCx and RCA travel in opposite directions around the atrioventricular groove. The **posterior descending artery** has its origin from one of these vessels, and unsurprisingly descends in the posterior interventricular groove before coursing along the base to anastomose with the LAD at the apex of the heart.
+The posterior descending artery:
+* Arises from either the LCx or RCA  
+These vessels travel in opposite directions around the atrioventricular groove.
+* Descends in the posterior interventricular groove before coursing along the base to anastomose with the LAD at the apex of the heart
 
 <object data="resources\coronary.svg" type="image/svg+xml"></object>
 
