@@ -118,4 +118,4 @@ Respiratory system compliance can be affected by changes to either lung or chest
 
 ##References
 1. Barrett KE, Barman SM, Boitano S, Brooks HL. Ganong's Review of Medical Physiology. 24th Ed. McGraw Hill. 2012.
-2. Kenny JE. [Heart-Lung Ineraction Lecture Series](http://www.heart-lung.org/lectures.html). From [heart-lung.org](http://www.heart-lung.org/).
+2. Kenny JE. [Heart-Lung Interaction Lecture Series](http://www.heart-lung.org/lectures.html). From [heart-lung.org](http://www.heart-lung.org/).
