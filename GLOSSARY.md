@@ -44,14 +44,17 @@ Electron Transport Chain
 ##GFR
 Glomerular Filtration Rate
 
-##heterogeneity
-Greater diversity among study results greater than would be expected by chance alone. 
-
 ##ICP
 Intracranial Pressure
 
 ##IVC
 Inferior Vena Cava
+
+##LAD
+Left Anterior Descending
+
+##LCx
+Left Circumflex
 
 ##MSFP
 Mean Systemic Filling Pressure
@@ -70,6 +73,9 @@ Minute Ventilation
 
 ##NTS
 Nucleus of the Tractus Solitarius
+
+##PDA
+Posterior Descending Artery
 
 ##PDE
 Phosphodiesterase
