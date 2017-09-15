@@ -22,7 +22,7 @@ Located at the bifurcation of the common carotid artery, and are innervated by t
 * The **aortic body**  
 Located in the aortic arch, and innervated by the vagus (CN X).
 
-They are stimulated by:
+Peripheral chemoreceptors are stimulated by:
 * **Low PaO<sub>2</sub>**  
   Peripheral chemoreceptors are stimulated by **low O<sub>2</sub> tension**
 
