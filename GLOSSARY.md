@@ -20,6 +20,12 @@ Citric Acid Cycle
 ##CBF
 Cerebral Blood Flow
 
+##COX
+Cyclo-Oxygenase
+
+##CSF
+Cerebrospinal Fluid
+
 ##CT
 Collecting Duct
 
@@ -70,6 +76,9 @@ Mean Arterial Pressure
 
 ##MV
 Minute Ventilation
+
+##NSAID
+Non-Steroidal Anti-Inflammatory Drug
 
 ##NTS
 Nucleus of the Tractus Solitarius
