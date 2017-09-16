@@ -51,8 +51,8 @@ Fowler's Method is a **single-breath nitrogen washout test**, used to calculate 
 
 Method:
 * At the end of a normal tidal breath (at FRC) a **vital-capacity breath of 100% oxygen** is taken
-* The patient the exhales to RV  
-Expired nitrogen and volume is measured
+* The patient then exhales to RV  
+Expired nitrogen concentration and volume is measured.
 * A plot of expired nitrogen concentration by volume is generated, producing a graph with four phases:
   * Phase 1  (Pure Dead Space)
   Gas from the anatomical dead space is expired. This contains 100% oxygen - no nitrogen is present.
