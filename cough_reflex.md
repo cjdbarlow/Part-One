@@ -24,4 +24,4 @@ Wide-opening of the cords and epiglottis, causing a violent expiration
 
 ---
 ##References
-Ganong
+1. Barrett KE, Barman SM, Boitano S, Brooks HL. Ganong's Review of Medical Physiology. 24th Ed. McGraw Hill. 2012.
