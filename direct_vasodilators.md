@@ -1,6 +1,7 @@
 # Direct Vasodilators
 
-Direct vasodilators include Ca<sup>2+</sup> channel blockers (see Calcium Channel Blockers), nitrates such as GTN and SNP, and hydralazine.
+Direct vasodilators include:
+* Ca<sup>2+</sup> channel blockers (covered under [Calcium Channel Blockers](calcium_channel_blockers.md), nitrates such as GTN and SNP, and hydralazine.
 
 Both GTN and SNP increase production of NO. This inhibits guanylate cyclase, increasing cGMP. This inhibits Ca<sup>2+</sup> uptake into smooth muscle and enhances its sequestration into smooth endoplasmic reticulum, causing a drop in cytoplasmic [Ca<sup>2+</sup>] and subsequent vasodilation.
 
