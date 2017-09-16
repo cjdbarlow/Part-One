@@ -114,5 +114,5 @@ The PaCO<sub>2</sub>-ETCO<sub>2</sub> difference is a consequence of dead space,
 
 ---
 ##References
-Nunns
-Wests
+1. Lumb A. Nunn's Applied Respiratory Physiology. 7th Edition. Elsevier. 2010.
+2. West J. Respiratory Physiology: The Essentials. 9th Edition. Lippincott Williams and Wilkins. 2011.
