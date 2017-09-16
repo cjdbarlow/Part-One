@@ -54,17 +54,17 @@ Method:
 * The patient then exhales to RV  
 Expired nitrogen concentration and volume is measured.
 * A plot of expired nitrogen concentration by volume is generated, producing a graph with four phases:
-  * Phase 1  (Pure Dead Space)
+  * Phase 1 (Pure Dead Space)  
   Gas from the anatomical dead space is expired. This contains 100% oxygen - no nitrogen is present.
   * Phase 2  
-  A mix of anatomical dead space and alveolar (lung units with short time constants) is expired. The midpoint of phase 2 is the volume of the **anatomical dead space**.
+  A mix of anatomical dead space and alveolar (lung units with short time constants) is expired. The midpoint of phase 2 (when area A = area B) is the volume of the **anatomical dead space**.
   * Phase 3  
   Expired nitrogen reaches a plateau as just alveolar gas is exhaled (lung units with variable time constants).
   * Phase 4  
-  Sudden increase in nitrogen concentration, which signals the **closing capacity**. This occurs because:
+  Sudden increase in nitrogen concentration, which indicates **closing capacity**. This increase occurs because:
     * Basal alveoli are more compliant than apical alveoli
-    * Therefore, in inspiration basal alveoli inflate more than apical alveoli
-    * The single 100% oxygen breath therefore preferentially inflates the basal alveoli
+    * Therefore, during inspiration basal alveoli inflate more than apical alveoli  
+    The single 100% oxygen breath therefore preferentially inflates the basal alveoli. At the end of the vital capacity breath, the oxygen concentration in basal alveoli is greater than that of apical alveoli.
     * In expiration, the process is reversed:
         * Basal alveoli preferentially exhale
         * At closing capacity, small basal airways close and now only apical alveoli (with a higher concentration of nitrogen) can exhale
