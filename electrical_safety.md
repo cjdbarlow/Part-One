@@ -3,30 +3,36 @@
 > Understand the concepts of patient safety as it applies to monitoring involving electrical devices
 
 ##Electrical Principles
-* **Charge** is the property of a subatomic particle which causes it to experience a force when close to other charged particules. Charge is measured in coulombs (C).
+* **Charge** is the property of a subatomic particle which causes it to experience a force when close to other charged particules  
+Charge is measured in coulombs (C).
 
-* **Current** is the flow of electrons through a conductor. Current is measured in amps (A).
+* **Current** is the flow of electrons through a conductor  
+Current is measured in amps (A).
 
 * **Voltage** is the strength of the force that causes movement of electrons  
 By tradition, voltages are quoted relative to **ground** (or **earth**). If a potential difference exists, a current will flow from that object to the earth via the path of least resistance. If this path contains a person, an electrical injury may result.
 
 
-* **Resistance** describes to what extent a substance reduces the flow of electrons through it. Resistance is measured in ohms (Ω).
+* **Resistance** describes to what extent a substance reduces the flow of electrons through it  
+Resistance is measured in ohms (Ω).
     * Substances with **high resistance** are **insulators**
     * Substances with **low resistance** are **conductors**
 
-* **Inductance** is the generation of current when a conductor moves through a magnetic field.
+* **Inductance** is the property of a conductor by which a change in current induces an electromotive force in the conductor, and any nearby conductors
 
 
-* **Capacitance** is the ability of an object to store charge, and is measured in Fards (F). One farad is when one volt across the capacitor stores one coulomb of charge.
+* **Capacitance** is the ability of an object to store electrical charge  
+Measured in Fards (F), where one farad is when one volt across the capacitor stores one coulomb of charge.
     * A capacitor is an electrical component consisting of two conductors separated by an insulator (called a dielectric)
     * When a **direct current** flows, electrons (a negative charge) build up on one of these conductors (called a plate), whilst an electron deficit (positive charge) occurs on the other plate
         * Current will flow until the build up of charge is equal to the voltage of the power source
         * Current can be **rapidly discharged** when the circuit is changed
     * An **alternating current** can flow freely across a capacitor, and causes no buildup of charge
     
-* **Impedance** describes to what extent the flow of **alternating current** is reduced when passing through a substance. Impedance can be thought of as 'resistance for AC circuits', and is a combination of **resistance **and **reactance**.
-    * Reactance is formed by two things:
+    
+* **Impedance** describes to what extent the flow of **alternating current** is reduced when passing through a substance  
+Impedance can be thought of as 'resistance for AC circuits', and is a combination of **resistance **and **reactance**.
+    * Reactance is a function of two things:
         * Induction of voltage in conductors by the alternating magnetic field of AC flow
         * Capacitance induced by voltages between these conductors
 
@@ -37,9 +43,8 @@ Potential electrical injuries can be divided into:
 Likelihood is a function of:
     * Current density
     * Frequency  
-    Lowest current density required is at 50Hz.
+    Lowest current density required is at **50Hz**.
 
-INSERT GRAPH of Hz vs current required
 
 * **Burns**  
 Function of current density. Burns typically occur at the entry and exit point as this is where current density is highest.
@@ -47,21 +52,25 @@ Function of current density. Burns typically occur at the entry and exit point a
 * **Tetanic Contraction**  
 Flexors are stronger than extensors, which may maintain grip on live wire. Death may result from either VF or asphyxiation from sustained respiratory muslce contraction.
 
+
+###Electrical Shock
 Electrical shocks are divided into two types, based on their ability to induce VF:
+* **Microshock**  
+Current required to induce VF when applied directly to myocardium.
+    * Typical current is **0.05-0.1mA**
+    * This requires **skin breach**  
+    Potential causes:
+        * Guidewire
+        * Pacing lead
+        * Column of conducting fluid
+        * CVC
+        * PICC
+* **Macroshock**  
+Current required to induce VF from surface contact.
+    * Typical current is **100mA**
+    * This is much higher because most of this current is not going to the ventricle, and so the total current must be greater to achieve sufficient **current density** in the myocardium to induce VF
 
-###Microshock
-A **microshock** is the current required to induce VF when applied directly to myocardium (**0.05-0.1mA**). This requires **skin breach**. Potential causes:
-* Guidewire
-* Pacing lead
-* Column of conducting fluid
-    * CVC
-    * PICC
-
-###Macroshock
-A **macroshock** is current required to induce VF from surface contact (**100mA**).
-* This is much higher because most of this current is not going to the ventricle, and so the total current must be greater to achieve sufficient **current density** in the myocardium to induce VF
-
-Other detrimental effects will be seen at lower currents:
+Other detrimental effects seen at lower currents include:
 
 |Current (mA)|Effect|
 |--|--|
@@ -77,9 +86,9 @@ Power points contain three wires:
 * Active  
 240V. Measuring voltage for AC current is not intuitive, as the voltage will be negative half the time. The **root mean square** (RMS) is used instead - each value for the voltage is squared (giving a positive number), and then divided by the number of samples to give an average.
 * Neutral  
-0V, relative to ground
+0V, relative to ground.
 * Earth  
-Direct pathway into ground
+Direct pathway into ground.
 
 An electrical circuit is completed between an appliance and the powerstation by returning current to the station via the earth. This is an **earth referenced power supply**.
 
@@ -102,12 +111,16 @@ Safety devices which cease all current flow when current exceeds a certain thres
     
 
 * **Residual Current Devices**  
-An RCD measures the current difference between the active and neutral lines. In an non-fault situation, these will be equal. In a fault situation, current will be being delivered by the active line but not returned via the neutral (instead flowing to ground via faulty equipment/through the patient). The RCD will detect if there is a >10mA difference between the active and neutral lines, and disconnect power within 10ms if it does so.
+An RCD measures the current difference between the active and neutral lines.
+    * In an non-fault situation, these will be equal
+    * In a fault situation, current will be being delivered by the active line but not returned via the neutral  
+    Current will instead flow to ground via faulty equipment/through the patient.
+        * The RCD will detect if there is a >10mA difference between the active and neutral lines, and disconnect power within 10ms if it does so
     * A fault requires:
         * Current to flow
         * A single fault will turn off the circuit        
     * Pros: Safe
-    * Cons: Will shut off power to the device, which is bad for ECMO/CPB/ventilators without battery backup.
+    * Cons: Will shut off power to the device, which is bad for ECMO/CPB/ventilators without battery backup
 
 
 * **Line Isolation Supply**, with a **line isolation monitor**  
@@ -122,15 +135,16 @@ A line isolated supply is a 'transformer' with an equal number of windings, such
     This monitor states how much current *could* flow, *if* a second fault completed the circuit.
         * This is called a **prospective hazard current**
         * The line isolation monitor continuously checks the hazard current by evaluating the impedance between the active wire and ground, and the neutral wire and ground
-            * In a no-fault situation, both impedances should be the same and close to infinite (won't be absolutely infinite as there will always be a small current leak from devices)
-            * In a single-fault situation, then the calculated impedance for the affected line will be significantly lower, and therefore the prospective hazard current will increase
+            * In a no-fault situation, both impedances should be the same and close to infinite  
+            (Impedance won't be absolutely infinite as there will always be a small current leak from devices).
+            * In a single-fault situation, the calculated impedance for the affected line will be significantly lower, and therefore the prospective hazard current will increase
                 * An alarm will sound when the prospective hazard current exceeds 20mA
-    * Pros: A single fault is not dangerous and will not result in a power loss which is important for vital equipment
+    * Pros: A single fault is not dangerous and will not result in a power loss (important for vital equipment)
     * Cons: Two or more faults are dangerous, and will still not result in a power loss
 
 
 * **Equipotential earthing**  
-This is the only method which prevents microshock.
+This is the **only method which prevents microshock**.
     * Ultra-low resistance earth cables are attached to electrical devices and the patients bed
     * These cables are then attached to special wall earth connectors
     * This ensures all equipment is referenced to a common ground, minimising the risk of leakage currents between devices and the patient
