@@ -70,7 +70,7 @@ A consequence of impaired mucosal secretion through COX-1 inhibition. This can r
 |**Dose**| Low-dose (100mg daily) selectively inhibits platelet COX, whilst preserving endothelial COX, resulting in decreased platlet aggregation whilst maintaining vasodilation. 300-900mg for analgesia/migraine.| 50mg BD/TDS|15-30mg IM/IV Q6H|400-800mg TDS, or 10mg/kg| 100-200mg BD|20-40mg BD|
 |**Route**| PO| PO/PR/IM/IV| IM/IV (off-label in Aus)|PO/PR|PO|IV|
 |**Respiratory**| Aspirin uncouples oxidative phosphorylation, increasing O<sub>2</sub> consumption and CO<sub>2</sub> production. It also may stimulate, and (at higher doses) depress the respiratory centre. In overdose, these are significant, and may result in a **mixed** respiratory and metabolic **acidosis**.||||||
-|**CVS**| MI and CVA risk reduction. Increased bleeding.|Risk of MI similar to COX-2 inhibitors. Local thrombus with IV injection.| |Lower dose not associated with prothrombotic events.|Unclear effect on CVA and MI, but recommendations avoid it in IHD/CVD|Unclear effect on CVA and MI, but recommendations avoid it in IHD/CVD|
+|**CVS**| MI and CVA risk reduction. Increased bleeding.|Risk of MI similar to COX-2 inhibitors. Local thrombus with IV injection.| |Lower dose not associated with prothrombotic events.|Unclear effect on CVA and MI, but recommended to avoid use in IHD/CVD|Unclear effect on CVA and MI, but recommended to avoid use in IHD/CVD|
 |**Metabolic**| **Reye's syndrome** is mitochondrial damage, hepatic failure, and cerebral oedema (and encephalopathy) in children <12. Mortality 40%.|||||||
 
 
@@ -78,4 +78,4 @@ A consequence of impaired mucosal secretion through COX-1 inhibition. This can r
 ---
 
 ##References
-Peck and Hill.
+Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
