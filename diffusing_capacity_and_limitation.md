@@ -146,8 +146,7 @@ Carbon monoxide is used as it is a diffusion limited gas.
    
 ---
 ##References
-Brandis
-Nunns
-ANZCA March-April 1999
-
-http://www.derangedphysiology.com/main/core-topics-intensive-care/acid-base-disturbances/Chapter%202.0.1/carbon-dioxide-storage-and-transport
+1. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.
+2. Lumb A. Nunn's Applied Respiratory Physiology. 7th Edition. Elsevier. 2010.
+3. ANZCA March/April 1999
+4. [Deranged Physiology - Carbon Dioxide Storage and Transport](http://www.derangedphysiology.com/main/core-topics-intensive-care/acid-base-disturbances/Chapter%202.0.1/carbon-dioxide-storage-and-transport)
