@@ -82,24 +82,25 @@ $${V_D \over V_T} = {PA_{CO_2} - P{\bar{E}_{CO_2}} \over PA_{CO_2}}$$
 Note that:
 * $$P{\bar{E}_{CO_2}}$$ is the mixed-expired carbon dioxide  
 Partial pressure of CO<sub>2</sub> in an expired tidal breath.
-* The Bohr equation requires alveolar PCO<sub>2</sub> to be measured
-As this is impractical, the **Enghoff modification** is typically used. This assumes that PACO<sub>2</sub> ≈ PaCO<sub>2</sub>. The equation then becomes:
-
+* The Bohr equation requires alveolar PCO<sub>2</sub> to be measured  
+As this is impractical, the **Enghoff modification** is typically used, which assumes that PACO<sub>2</sub> ≈ PaCO<sub>2</sub>. The equation then becomes:  
 $${V_D \over V_T} = {Pa_{CO_2} - P{\bar{E}_{CO_2}} \over Pa_{CO_2}}$$
-
-A **normal** value for physiological dead space during normal tidal breathing is 0.2-0.35.
+* A **normal** value for physiological dead space during normal tidal breathing is **0.2-0.35**
 
 ##Physiological Consequences of Increased Dead Space
-In dead space, the V/Q ratio approaches infinity and alveolar ventilation falls. This results in a rise in PaCO<sub>2</sub>, which stimulates the respiratory centre to increase minute ventilation to return alveolar ventilation (and therefore CO<sub>2</sub>) to normal.
-
-There is no effect on PaO<sub>2</sub>, as all blood is heading to other alveoli.
+In dead space:
+* The V/Q ratio approaches infinity as alveolar ventilation falls
+* This results in a rise in PaCO<sub>2</sub>
+* In a spontaneously-ventilating individual, this stimulates the respiratory centre to increase minute ventilation to return alveolar ventilation (and therefore CO<sub>2</sub>) to normal
+* There is minimal effect on PaO<sub>2</sub>, as in pure dead space all blood is passing through ventilated alveoli and therefore undergoes gas exchange
 
 ###Relationship between Alveolar Ventilation and PaCO<sub>2</sub>
-Atmospheric air contains negligible CO<sub>2</sub>. As MV increases, PaCO<sub>2</sub> will fall, as will the gradient for further CO<sub>2</sub> diffusion. Therefore:
-
+Atmospheric air contains negligible CO<sub>2</sub>. As MV increases, PaCO<sub>2</sub> will fall, as will the gradient for further CO<sub>2</sub> diffusion. This can be expressed by the equation:  
 $$PaCO_2 \propto {1 \over \dot{V}_A}$$
 
-GRAPH FROM PAGE 47 CHAMBERS
+<object data="resources\VA-vs-paco2.svg" type="image/svg+xml"></object>
+
+
 
 ---
 ##Footnotes
