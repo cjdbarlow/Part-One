@@ -1,4 +1,4 @@
-# CSF {#id}
+# Cerebrospinal Fluid {#id}
 > Describe the physiology of cerebrospinal fluid
 
 CSF is a **transcellular** fluid in the ventricles and subarachnoid space. ~150ml (2ml/kg) of CSF exist in a normal individual, divided evenly between the head and spinal column.
