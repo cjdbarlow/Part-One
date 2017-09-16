@@ -68,7 +68,7 @@ Expired nitrogen concentration and volume is measured.
     * In expiration, the process is reversed:
         * Basal alveoli preferentially exhale
         * At closing capacity, small basal airways close and now only apical alveoli (with a higher concentration of nitrogen) can exhale
-        * Expired nitrogen concentration increases
+        * Measured expired nitrogen concentration increases
 
 ###Bohr's Method
 Physiological dead space is measured using Bohr's method. This calculates dead space as a ratio, or proportion of tidal volume:
