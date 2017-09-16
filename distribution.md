@@ -39,6 +39,12 @@ Ionised drugs are polar, and so are less lipid soluble.
           Urinary alkalinisation is used to accelerate elimination of acidic drugs, as they become ionised and trapped in urine.
     * Are typically renally excreted without undergoing metabolism
     
+<object data="resources\pkas-acids.svg" type="image/svg+xml"></object>
+<object data="resources\pkas-bases.svg" type="image/svg+xml"></object>
+
+
+
+
     
 * **Protein binding**  
 Proteins and drugs may be bound together by weak bonds: ionic, van der Waal's forces, and hydrogen.
@@ -112,8 +118,7 @@ Affects concentration gradients between blood and tissue, and is affected by car
 ---
 
 ## References
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+2. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
 
-Petkov
-
-[^1]: Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
 
