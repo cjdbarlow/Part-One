@@ -134,15 +134,15 @@ Carbon monoxide is used as it is a diffusion limited gas.
     * Emphysema
     * PE
     * Lobectomy/pneumonectomy
- * DL<sub>CO</sub> is increased in:
-   * Exercise  
-   Recruitment and capillary distension.
-   * Alveolar haemorrhage  
-   Hb present within the lung binds CO.
-   * Asthma (may be normal)  
-   Potentially due to increased apical blood flow.
-   * Obesity (may be normal)   
-   Potentially due to increased cardiac output.
+* DL<sub>CO</sub> is increased in:
+ * Exercise  
+ Recruitment and capillary distension.
+ * Alveolar haemorrhage  
+ Hb present within the lung binds CO.
+ * Asthma (may be normal)  
+ Potentially due to increased apical blood flow.
+ * Obesity (may be normal)   
+ Potentially due to increased cardiac output.
    
 ---
 ##References

@@ -7,7 +7,10 @@ Digoxin has both a direct and indirect **mechanism of action**:
 Parasympathomimetic effects by increasing ACh release at cardiac muscarinic receptors.
  * Slows AV nodal conduction and ventricular response  
  This improves coronary blood flow, increasing time for ventricular filling, and improving cardiac output.
-* Inhibits cardiac Na<sup>+</sup>/K<sup>+</sup> ATPase increasing intracellular [Na<sup>+</sup>], causing increased exchange with extracellular Ca<sup>2+</sup>. Increased intracellular Ca<sup>2+</sup> results in increased inotropy, whilst decreased K<sup>+</sup> results in a prolonged refractory period of the AV node and bundle of His.
+* Indirect  
+Ihibits cardiac Na<sup>+</sup>/K<sup>+</sup> ATPase, causing:
+ * Increasing intracellular [Na<sup>+</sup>], causing increased exchange with extracellular Ca<sup>2+</sup>
+ * IIncreased intracellular Ca<sup>2+</sup> results in increased inotropy, whilst decreased K<sup>+</sup> results in a prolonged refractory period of the AV node and bundle of His.
 
 
 |Property|Action|
