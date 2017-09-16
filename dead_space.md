@@ -82,7 +82,7 @@ $${V_D \over V_T} = {PA_{CO_2} - P{\bar{E}_{CO_2}} \over PA_{CO_2}}$$
 Note that:
 * $$P{\bar{E}_{CO_2}}$$ is the mixed-expired carbon dioxide  
 Partial pressure of CO<sub>2</sub> in an expired tidal breath.
-* That this requires measuring alveolar PCO<sub>2</sub>  
+* The Bohr equation requires alveolar PCO<sub>2</sub> to be measured
 As this is impractical, the **Enghoff modification** is typically used. This assumes that PACO<sub>2</sub> ≈ PaCO<sub>2</sub>. The equation then becomes:
 
 $${V_D \over V_T} = {Pa_{CO_2} - P{\bar{E}_{CO_2}} \over Pa_{CO_2}}$$
