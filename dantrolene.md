@@ -1,6 +1,6 @@
 #Dantrolene
 
-Dantrolene is a ryanodine (RYR1) receptor antagonist, which prevents release of Ca<sup>2+</sup> from the sarcoplasmic reticulum, uncoupling the excitation-contraction process.
+Dantrolene is a ryanodine (RYR1) receptor antagonist, which prevents release of Ca<sup>2+</sup> from the sarcoplasmic reticulum, uncoupling the process of excitation-contraction.
 
 |Property|Dantrolene|
 |--|--|
