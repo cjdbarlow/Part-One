@@ -7,7 +7,7 @@ Diathermy is the use of an electrical current to cut tissue and coagulate blood 
 Frequencies between 300kHz and 2MHz are used, which have a negligible risk of inducing arrhythmia.
 * Heat energy produced is proportional to electrical power dissipated ($$I^2R$$)
 * Relies on the principle of current density  
-$$Current / Density = {Current \over Area}$$
+$$Current \ Density = {Current \over Area}$$
     * A high current density at the electrode causes tissue damage, a low current density (e.g. at the plate of a unipolar electrode) causes heating without damage.
 
 ##Diathermy Types
