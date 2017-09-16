@@ -3,7 +3,7 @@
 Glucocorticoids are endogenous (hydrocortisone) and synthetic (prednisolone, metylprednisolone, dexamethasone) steroid hormones with **metabolic**, **anti-inflammatory**, and **immunosuppressive** effects. They bind to specific intracellular receptors and translocate into the nucleus, where they regulate gene expression in a tissue-specific manner.
 
 Corticosteroids have multiple indications including:
-* Replacement in adrenal suppression or other corticoid-deficient states
+* Replacement in adrenal suppression or other cortisol-deficient states
 * Autoimmune disorders
 * Anaphylaxis and atopic disorders, including asthma
 * Hypercalcaemia
