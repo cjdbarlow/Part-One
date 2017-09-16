@@ -2,7 +2,7 @@
 >Describe the processes by which new drugs are approved for research and clinical use in Australia, and to outline the phases of human drug trials (Phase I-IV)
 
 ##Drug Approval
-The Therapeutic Goods Administration TGA approves medicine for both research and clinical use in Australia.
+The Therapeutic Goods Administration (TGA) approves medicine for both research and clinical use in Australia.
 
 ###Research
 Drug trials are approved for research purposes under two schemes:  
