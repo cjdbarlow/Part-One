@@ -54,7 +54,7 @@ Method:
 * The patient the exhales to RV  
 Expired nitrogen and volume is measured
 * A plot of expired nitrogen concentration by volume is generated, producing a graph with four phases:
-  * Phase 1  
+  * Phase 1  (Pure Dead Space)
   Gas from the anatomical dead space is expired. This contains 100% oxygen - no nitrogen is present.
   * Phase 2  
   A mix of anatomical dead space and alveolar (lung units with short time constants) is expired. The midpoint of phase 2 is the volume of the **anatomical dead space**.
