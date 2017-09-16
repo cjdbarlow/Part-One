@@ -153,13 +153,15 @@ This is the **only method which prevents microshock**.
 These classifications are designed to limit macroshock:
 * **Class I: Earthed**  
 Any part that can contact the user is earthed to ground.
-    * If a fault develops such that parts of the device that the user can touch are live, then there is a risk of shock. If the case is earthed, the path of least resistance should be via the earth wire. This will cause a large current to flow, and should blow a fuse, ceasing current flow.
+    * If a fault develops such that parts of the device that the user can touch are live, then there is a risk of shock
+    * If the case is earthed, the path of least resistance should be via the earth wire  
+    This will cause a large current to flow, and should blow a fuse, ceasing current flow.
 
 * **Class II: Double-insulated**  
-All parts of the device that the user can touch have wwo layers of insulation around them. This reduces the chance of the device becoming liv.
+All parts of the device that the user can touch have two layers of insulation around them, reducing the chance of the device becoming live.
 
 * **Class III: Low-voltage**  
-Device less than 40V DC/24V AC. This limits the severity of shock a device can deliver.
+Device operates at less than 40V DC/24V AC, limiting the severity of shock a device can deliver.
 
 
 ###Classification of Electrically Safe Areas
@@ -182,6 +184,6 @@ Devices such as ECG and BIS require an electrical connection to the patient. Ris
 
 ---
 ##References
-Anaesthesia med usyd edu lecture electricity and electrical hazards
-Ben Waldron Tute
-Aston
+1. [Electricity and Electrical Hazards](http://www.anaesthesia.med.usyd.edu.au/resources/lectures/electricity.html).
+2. Alfred Anaesthesia Primary Exam Tutorial Program
+3. Aston D, Rivers A, Dharmadasa A. Equipment in Anaesthesia and Intensive Care: A complete guide for the FRCA. Scion Publishing Ltd. 2014.
