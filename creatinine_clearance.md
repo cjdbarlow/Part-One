@@ -32,18 +32,19 @@ Creatinine is a byproduct of muscle catabolism.
         * Not metabolised
         * Freely filtered by the glomerulus
         * Minimally secreted  
-        This is a source of error with creatinine, especially as renal function deteriorates as a greater proportion of cleared creatinine will be secreted by the tubules, rather than filtered at the glomerulus.
+        As GFR fallsthe *proportion* of creatinine secreted by renal tubules increases, so plasma creatinine will overestimate GFR when GFR is low.
         * Not reabsorbed
     * GFR can be approximated by creatinine clearance  
-        * This is given by the following equation:
-        $$GFR \approx Cl_{Cr} = {U_{[Cr]}.U_Q \over P_{[Cr]}}$$
-        * **This is only true when both creatinine production and glomerular filtration are at steady-state**  
-        A sudden drop in glomerular filtration (e.g. aortic cross-clamp) will not result in an immediate rise in creatinine.
+    This is given by the equation: $$GFR \approx Cl_{Cr} = {U_{[Cr]}.U_Q \over P_{[Cr]}}$$
+    
+    
 
 
 ###Plasma Creatinine
-This formula demonstrates that GFR is inversely proportional to plasma creatinine concentration. Therefore, if plasma creatinine doubles GFR should approximately halve provided plasma creatinine **is in steady state**. During acute changes in GFR, serum creatinine will underestimate GFR until a new steady state is reached. In addition, as glomerular filtration deteriorates the proportion of creatinine secreted by renal tubules becomes larger, so creatinine will overestimate GFR when GFR is low.
-
+This formula demonstrates that GFR is inversely proportional to plasma creatinine concentration.
+* **This is only true when both creatinine production and glomerular filtration are at steady-state**  
+A sudden drop in glomerular filtration (e.g. aortic cross-clamp) will not result in an immediate rise in creatinine.
+    * During acute changes in GFR, serum creatinine will underestimate GFR until a new steady state is reached
 
 
 GUYTON GRAPH PAGE 345
