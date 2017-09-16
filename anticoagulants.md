@@ -17,7 +17,7 @@
 |**Haeme**|Haemorrhage|Haemorrhage, HITTs|Haemorrhage, lower risk of HITTs than UFH. Less thrombocytopaenia.
 |**Immune**|Hypersensitivity reactions|||
 |**Reversal**|- Waiting<br>- Vitamin K<br>- FFP<br>- Prothrombinex|Reversed with protamine (1mg per 100U).|Incomplete reversal with protamine as only the anti-IIa effect is inhibited.|
-|**Other**|Teratogenic. Complicated pharmacokinetics requiring monitoring using INR.|Requires monitoring with APTT or ATIII levels. Large interpatient variability due to variable amounts of ATIII.|No monitoring required.|
+|**Other**|Teratogenic. Complicated pharmacokinetics requiring monitoring using INR.|Requires monitoring with APTT or ATIII levels. Large interpatient variability due to variable amounts of ATIII.<br><br>1 unit is the amount of heparin required to prvent 1ml of blood clotting for 24 hours at 0°C|No monitoring required.|
 
 
 ##HITTs

@@ -20,8 +20,6 @@ A process which leads to an excess of hydrogen ions, and *may* lead to acidaemia
 * **Respiratory acidosis**: PaCO<sub>2</sub> > 45
 * **Metabolic alkalosis**: HCO<sub>3</sub><sup>-</sup> < 22
 
-
-
 * **Activity**
 The *effective* concentration of a substance in a reacting system
 
@@ -100,6 +98,12 @@ The properties of a solution that depend on the ratio of solute to solvent, and 
 * Boiling point
 * Freezing point
 * Osmotic pressure
+
+* **Conduction**  
+Direct transfer of heat from one body to another which it is in contact with.
+
+* **Convection**  
+Transfer of heat by conduction to a fluid moving over the body, such as air or water.
 
 * **Critical Length**
 The length of axon which must be blocked in order to prevent action potential transmission. It is dependent on myelination and fibre diameter.
@@ -239,6 +243,8 @@ Maximal effect produced by a drug. Analogous to efficacy.
 * **Impedance**  
 Resistance to alternating current.
 
+* **Interthreshold Range**  
+Range of core body temperatures outside of which an autonomic response will be generated.
 
 * **Internal Validity**
 Where a causal relationship between variables has been properly demonstrated, i.e. a lack of bias.
@@ -344,12 +350,15 @@ Pressure exerted by a vapour which is in equilibrium with its liquid state. Incr
 * **Second Gas Effect**  
 Disproportionately rapid rise in FA/Fi ratio seen when an anaesthetic agent is coadministered with nitrous oxide.
 
-* **Seebeck effect**  
+* **Seebeck Effect**  
 The generation of a potential difference at the junction of two dissimilar metals, with its value dependent on the temperature of the junction.
 
 
 * **Specific Heat Capacity**  
 Amount of heat energy required to raise the temperature of 1kg of a substance by 1°K without a change in state.
+
+* **Specific Latent Heat**  
+Energy required to convert one kg of a substance from one phase to another, without increasing temperature.
 
 * **Synergism**  
 When two drugs interact to produce a greater effect than would be expected.
@@ -357,6 +366,9 @@ When two drugs interact to produce a greater effect than would be expected.
 ##T
 * **Temperature**  
 Ability of a body to transfer heat energy to another body, as measured in degrees.
+
+* **Thermoneutral Zone**  
+Range of ambient temperatures in which core temperature will be maintained without expending additional energy to do so.
 
 * **Time constant**  
 Time it would take for an exponential function to complete if the initial rate of change continued. A process is:
