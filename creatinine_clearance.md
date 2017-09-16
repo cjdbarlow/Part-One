@@ -9,26 +9,36 @@ $$Cl = { U_C.U_Q \over P_C}$$, where:
 * $$U_Q$$ = Urine flow rate
 * $$P_C$$ = Plasma concentration
 
-As the elimination of most substances is dependent on glomerular filtration, clearance can be used to estimate GFR. **Inulin** is an exogenous molecule which is typically used for this purpose. It is not produced by the body, is freely filtered, and not reabsorbed. However, it has to be given by IV infusion which limits its clinical utility.
-
-##Creatinine
-Creatine is a byproduct of muscle catabolism, and has a number of properties that make it an optimal measure of renal function:
-* Produced at a relatively constant rate
-* Not metabolised
-* Freely filtered by the glomerulus
-* Minimally excreted
-* Not reabsorbed
+##Clearance and GFR
+As the elimination of most substances is dependent on glomerular filtration, clearance of a substance can be used to estimate GFR. Methods include:
+* **Inulin**  
+Inulin is a naturally occcurring polysaccharide.
+    * Inulin clearance accurately measures GFR as it is:
+        * Freely filtered by the glomerulus
+        * Not secreted at the tubules
+        * Not reabsorbed
+    * However, inulin is not produced by the body and so must be given by IV infusion  
+    This limits its clinical utility.
+* **Creatinine**  
+Creatinine is a byproduct of muscle catabolism. Creatinine is used clinically to measure renal function because it is:
+    * Produced at a relatively constant rate  
+    Factors affecting creatinine production include:
+        * Race
+        * Muscle mass
+            * Age
+            * Sex
+        * Diet
+    * Not metabolised
+    * Freely filtered by the glomerulus
+    * Minimally secreted  
+    This is a source of error with creatinine, especially as renal function deteriorates as a greater proportion of cleared creatinine will be secreted by the tubules, rather than filtered at the glomerulus.
+    * Not reabsorbed
 
 GFR can therefore be approximated by creatinine clearance (assuming steady-state):
 
 $$GFR \approx Cl_{Cr} = {U_{[Cr]}.U_Q \over P_{[Cr]}}$$
 
-Factors affecting creatinine production:
-* Race
-* Muscle mass
-    * Age
-    * Sex
-* Diet
+
 
 ###Plasma Creatinine
 This formula demonstrates that GFR is inversely proportional to plasma creatinine concentration. Therefore, if plasma creatinine doubles GFR should approximately halve provided plasma creatinine **is in steady state**. During acute changes in GFR, serum creatinine will underestimate GFR until a new steady state is reached. In addition, as glomerular filtration deteriorates the proportion of creatinine secreted by renal tubules becomes larger, so creatinine will overestimate GFR when GFR is low.
