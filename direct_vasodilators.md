@@ -1,14 +1,17 @@
 # Direct Vasodilators
 
 Direct vasodilators include:
-* Ca<sup>2+</sup> channel blockers (covered under [Calcium Channel Blockers](calcium_channel_blockers.md), nitrates such as GTN and SNP, and hydralazine.
-
-Both GTN and SNP increase production of NO. This inhibits guanylate cyclase, increasing cGMP. This inhibits Ca<sup>2+</sup> uptake into smooth muscle and enhances its sequestration into smooth endoplasmic reticulum, causing a drop in cytoplasmic [Ca<sup>2+</sup>] and subsequent vasodilation.
-
-Hydralazine has a multimodal mechanism of action, including:
-* Opening K<sup>+</sup> channels, hyperpolarising vascular smooth muscle
-* Decreases intracellular Ca<sup>2+</sup> in vascular smooth muscle
-* Activation of guanylate cyclase
+* Ca<sup>2+</sup> channel blockers (see [Calcium Channel Blockers](calcium_channel_blockers.md))
+* Nitrates  
+Increase production of NO:
+	* NO inhibits guanylate cyclase, increasing cGMP
+	* cGMP inhibits Ca<sup>2+</sup> uptake into smooth muscle and enhances its sequestration into smooth endoplasmic reticulum  
+	The decrease in cytoplasmic [Ca<sup>2+</sup>] causes smooth muscle relaxation and vasodilation
+* Hydralazine  
+Multimodal mechanism of action, including:
+	* Opens K<sup>+</sup> channels, hyperpolarising vascular smooth muscle
+	* Decreases intracellular Ca<sup>2+</sup> in vascular smooth muscle
+	* Activation of guanylate cyclase
 
 |Property|Sodium Nitroprusside|GTN|Hydralazine|
 |--|--|
@@ -20,9 +23,9 @@ Hydralazine has a multimodal mechanism of action, including:
 |**Absorption**||<5% PO bioavailability|30% bioavailability due to high first pass metabolism
 |**Metabolism**|Prodrug. Reacts with Oxy-Hb in RBC to form 1x NO, 5x CN<sup>-</sup>, and MetHb. MetHb reacts with CN to form cyanomethaemoglobin. CN is metabolised in the liver and kidney to form SCN, the majority of which is excreted in urine (though may be re-converted to CN). <br><br> CN may also combine with hydroxycobalamin (vitamin B<sub>12</sub>) to form cyanocobalamin, which is eliminated in urine.|Prodrug. Metabolised to NO and glycerol dinitrate (which is then also converted to NO) in the liver.|N-acetylated in gut and liver
 |**Elimination**|Renal elimination of SCN and cyanocobalamin. Impaired in renal failure which may worsen CN toxicity. t<sub>1/2</sub> for SCN is 2-7 days|t<sub>1/2</sub> 1-4mins. Urinary excretion|Dependent on acetylation rates
-|**Resp**|Inhibit hypoxic pulmonary vasoconstriction, ↑ shunt|Bronchodilation||
+|**Resp**|Inhibit hypoxic pulmonary vasoconstriction leading to ↑ shunt|Bronchodilation||
 |**CVS**|↓ SVR > venodilation. ↓ SBP and ↓ preload, ↑ HR maintains CO, ↓ MVO<sub>2</sub>|Vasodilation predominantly of capacitance vessels, ↓ preload, ↓ VR, ↓ EDP, ↓ wall tension improving subendocardial blood flow, ↓MVO<sub>2</sub>|Arteriolar vasodilation with compensatory tachycardia and increased CO
-|**CNS**|↑ CBF following cerebral v asodilatation|↑ CBF following cerebral vasodilatation, which may cause headache|Increased CBF
+|**CNS**|↑ CBF following cerebral vasodilatation|↑ CBF following cerebral vasodilatation, which may cause headache|Increased CBF
 |**Haematological**|Methaemoglobinaemia|Methanoglobinaemia||
 |**Toxic Effects**|**Three** mechanisms: hypotension, thiocynate toxicity, CN toxicity. |Methaemoglobinaemia can occur with GTN <br><br> GTN patches may **explode** if left on during DC cardioversion. |||
 
@@ -39,14 +42,14 @@ Cyanide toxicity occurs only with SNP, as CN<sup>-</sup> is produced as a byprod
 	* Small V<sub>D</sub>
 	* Hepatically metabolised to **thiocyanate**, using thiosulfate as a substrate
 * **Mechanism**  
-CN<sup>-</sup> binds to cytochrome oxidase, preventing oxidative phosphorylation causing histotoxic hypoxia characterised by:
-	* Rapid loss of consciousness and seizures if inhaled
+CN<sup>-</sup> binds to cytochrome oxidase, preventing oxidative phosphorylation. This causes histotoxic hypoxia, and is characterised by:
+	* Rapid loss of consciousness and seizures
 	* Metabolic acidosis
 	* Lactataemia
 	* Arrhythmia
 	* Increased MVO<sub>2</sub>
 	* Hypertension  
-	Due to acute tachyphylaxis to SNP.
+	Due to tachyphylaxis to SNP.
 * Risk of cyanide toxicity from SNP is related to:
 	* Infusion rate
 	* Infusion duration
@@ -58,7 +61,7 @@ CN<sup>-</sup> binds to cytochrome oxidase, preventing oxidative phosphorylation
 		* Hydroxycobalamin (Vitamin B<sub>12</sub>)
 		* Sulfur donors  
 		Provide additional sulfhydryl groups, allowing further hepatic metabolism of CN<sup>-</sup> to SCN. Include:
-		* **Thiosulfate**
+			* **Thiosulfate**
 		* Nitrites  
 		Converts Oxy-Hb to Met-Hb, which has a higher affinity for CN<sup>-</sup> than cytochrome oxidase. Include:
 			* Sodium nitrite
@@ -90,21 +93,22 @@ Methaemoglobinaemia occurs when the Fe<sup>2+</sup> (ferrous) ion in haemoglobin
 * Several endogenous reduction systems exist to keep MetHb levels stable at ~1%
 	* Predominantly cytochrome-*b*<sub>5</sub> reductase
 	* NADPH-MHb reductase  
-	This reduces methaemoglobinaemia in the presence of a reducing agent, clasically **methylene blue**.
+	This reduces methaemoglobinaemia in the presence of a reducing agent, classically **methylene blue**.
 	* Reduced glutathione  
 	More important in preventing oxidative stress in other cells than the RBC.
-* Disease occurs due to the loss in oxygen-carrying capacity due to the loss of effective haemoglobin  
+* Disease occurs due to the loss in oxygen-carrying capacity from the loss of effective haemoglobin  
 	* e.g. a 20% MetHb level gives a *theoretical* oxygen carrying capacity of 80% of the actual haemoglobin  
-	There is in fact a slight **left shift** of the **oxyhaemoglobin dissociation curve**, as oxygen binds more tightly to the partially-oxidised haemoglobin
+	There is in fact a slight **left shift** of the **oxyhaemoglobin dissociation curve**, as oxygen binds more tightly to the partially-oxidised haemoglobin.
 
 
 ---
 
 ##References
-Smith Scarth Sasada
-Peck and Hill
-Petkov
-CICM Sep/Nov 2008
-http://lifeinthefastlane.com/ccc/cyanide-poisoning/
-https://academic.oup.com/bjaed/article/12/5/251/289041/Physiology-of-haemoglobin
-http://www.sciencedirect.com/science/article/pii/S0196064499701678
+1. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+2. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+3. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+4. CICM September/November 2008
+5. [LITFL- Cyanide Poisoning](http://lifeinthefastlane.com/ccc/cyanide-poisoning)
+6. Thomas C, Lumb A. [Physiology of haemoglobin](https://academic.oup.com/bjaed/article/12/5/251/289041/Physiology-of-haemoglobin). Continuing Education in Anaesthesia Critical Care & Pain, Volume 12, Issue 5, 1 October 2012, Pages 251–256.
+7. Wright RO, Lewander WJ, Woolf AD. [Methemoglobinemia: Etiology, Pharmacology, and Clinical Management](http://www.sciencedirect.com/science/article/pii/S0196064499701678). Annals of Emergency Medicine, Volume 34, Issue 5, 1999, Pages 646-656.
+
