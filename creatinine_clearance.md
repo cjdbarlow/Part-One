@@ -41,7 +41,7 @@ Creatinine is a byproduct of muscle catabolism.
 
 
 ###Plasma Creatinine
-This formula demonstrates that GFR is inversely proportional to plasma creatinine concentration.
+This formula demonstrates that **GFR is inversely proportional to plasma creatinine** concentration.
 * **This is only true when both creatinine production and glomerular filtration are at steady-state**  
 A sudden drop in glomerular filtration (e.g. aortic cross-clamp) will not result in an immediate rise in creatinine.
     * During acute changes in GFR, serum creatinine will underestimate GFR until a new steady state is reached
