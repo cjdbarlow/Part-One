@@ -10,7 +10,7 @@ The sudden opening of the cords causes a violent rush of air at **>900km.h<sup>-
 Vagus afferents have exquisitely sensitive light touch and corrosive chemical receptors in the larynx, carina, terminal bronchioles, and alveoli.
 
 ##Integration
-Vagal afferents synapse in the medulla, triggering an autonomic sequence of events.
+Vagal afferents synapse in the medulla, which coordinates the effector response.
 
 ##Effector
 A series of processes occur in three phases:
