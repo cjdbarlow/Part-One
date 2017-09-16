@@ -49,8 +49,6 @@ A sudden drop in glomerular filtration (e.g. aortic cross-clamp) will not result
 
 <object data="resources\gfr-vs-creatinine.svg" type="image/svg+xml"></object>
 
-GRAPH FROM PAGE 346 GUYTON GFR vs PLASMA CREATININE
-
 ###Creatinine Clearance
 A better approximation is to use the whole formula above. This relies on a 24 hour urine collection to determine the volume of urine and the urinary creatinine concentration.
 
