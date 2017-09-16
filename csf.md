@@ -9,7 +9,7 @@ CSF is a **transcellular** fluid in the ventricles and subarachnoid space. ~150m
 * **Buffering of ICP**  
 CSF can be displaced to the spinal subarachnoid and have its rate of reabsorption increased in order to offset an increase in ICP by another space-occupying lesion.
 * **Stable Extracellular Environment**  
-  Neurons are sensitive to ionic changes in the extracellular environment. Ionic concentrations in CSF are tightly controlled, which ensures stable neuronal activity. Toxins are actively removed from CSF.
+  Neurons are sensitive to ionic changes in the extracellular environment. Ionic concentrations in CSF are tightly controlled, which ensures stable neuronal activity. Additionally, toxins are actively removed from CSF.
 * **pH Regulation**  
   pH of extracellular fluid is important in the control of respiration, and is also tightly regulated.
 * **Nutrition**  
