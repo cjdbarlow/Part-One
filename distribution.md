@@ -30,14 +30,15 @@ Ionised drugs are polar, and so are less lipid soluble.
     * Are typically hepatic metabolised
     * Are typically not renally eliminated
   * Ionised drugs:
-    * Are poorly lipid soluble and do not cross cell membranes readily
-      * This can lead to ion trapping, where drugs move across a membrane and then are trapped their by a change in pH causing a change in ionised fraction
-        * Placenta  
-          Foetal pH is lower than matenal pH, which can trap basic drugs \(e.g. LA, opioids\) in foetus.
-        * This becomes more significant with a greater divergence of pH \(e.g. placental insufficiency\)
-        * Renal elimination  
-          Urinary alkalinisation is used to accelerate elimination of acidic drugs, as they become ionised and trapped in urine.
     * Are typically renally excreted without undergoing metabolism
+    * Are poorly lipid soluble and do not cross cell membranes readily
+    * May be ion trapped  
+    This occurs when an unionised drug moves across a membrane and becomes ionised due to a change in pH. The now-insoluble drug is trapped in the new compartment. This is relevant in:
+      * Placenta  
+      Foetal pH is lower than matenal pH, which can trap basic drugs \(e.g. LA, opioids\) in foetus.
+        * This becomes more significant with a greater divergence of pH \(e.g. placental insufficiency\)
+      * Renal elimination  
+      Urinary alkalinisation is used to accelerate elimination of acidic drugs, as they become ionised and trapped in urine.
     
 <object data="resources\pkas-acids.svg" type="image/svg+xml"></object>
 <object data="resources\pkas-bases.svg" type="image/svg+xml"></object>
@@ -47,7 +48,7 @@ Ionised drugs are polar, and so are less lipid soluble.
 
     
 * **Protein binding**  
-Proteins and drugs may be bound together by weak bonds: ionic, van der Waal's forces, and hydrogen.
+Proteins and drugs may be bound together by weak bonds. These include ionic bonds, van der Waal's forces, and hydrogen.
   * May bind to proteins in:
     * Plasma
       * **Albumin**  
