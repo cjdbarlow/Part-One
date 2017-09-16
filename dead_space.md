@@ -47,6 +47,10 @@ Two methods exist to allow dead space volumes to be calculated:
 ###Fowler's Method
 Fowler's Method is a **single-breath nitrogen washout test**, used to calculate **anatomical dead space** and **closing capacity**.
 
+<object data="resources\fowlers-method.svg" type="image/svg+xml"></object>
+
+
+
 * At the end of a normal tidal breath (at FRC) a vital-capacity breath of 100% oxygen is taken
 * The patient the exhales to RV  
 Expired nitrogen and volume is measured
