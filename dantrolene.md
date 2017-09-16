@@ -20,6 +20,6 @@ Dantrolene is a ryanodine (RYR1) receptor antagonist, which prevents release of 
 ---
 
 ##References
-Peck and Hill
-Petkov
-ANZCA August/September 2011
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+3. ANZCA August/September 2011
