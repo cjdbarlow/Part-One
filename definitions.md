@@ -414,6 +414,9 @@ Drug which reversibly prevents the conduction of the nerve impulse in the region
 * **MAC**  
 The minimal alveolar concentration (measured in % of 1 atm) at steady state which prevents a movement response to a standard surgical stimulus (midline incision) in 50% of a population.
 
+* **Manometer**  
+Device which measures gas pressure.
+
 * **Mean Systemic Filling Pressure**  
 The pressure measured anywhere in the systemic circulation when all flow of blood is stopped.
 
