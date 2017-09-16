@@ -44,24 +44,22 @@ Creatinine is a byproduct of muscle catabolism.
 This formula demonstrates that **GFR is inversely proportional to plasma creatinine** concentration.
 * **This is only true when both creatinine production and glomerular filtration are at steady-state**  
 A sudden drop in glomerular filtration (e.g. aortic cross-clamp) will not result in an immediate rise in creatinine.
-    * During acute changes in GFR, serum creatinine will underestimate GFR until a new steady state is reached
+    * During acute changes in GFR, serum creatinine will underestimate GFR until a new steady state is reached  
+    Creatinine must be produced and not eliminated for it to rise.
 
 
 <object data="resources\gfr-vs-creatinine.svg" type="image/svg+xml"></object>
 
-###Creatinine Clearance
-A better approximation is to use the whole formula above. This relies on a 24 hour urine collection to determine the volume of urine and the urinary creatinine concentration.
-
-However, it also may over-estimate the GFR and AKI, as the change in plasma creatinine with GFR is delayed (creatinine must be produced and not eliminated for it to rise).
-
-####Estimating Creatinine Clearance
-Creatinine clearance requires a 24 hour urine collection. This is tedious, and so it can be estimated using the **Cockcroft-Gault formula**, which has a correlation of ~0.83 with creatinine clearance:
-
+###Estimating Creatinine Clearance
+Using the above formula requires measurement of urine volume. This is:
+* Typically performed by taking a 24 hour urine collection.
+* Tedious, and so creatinine clearance is often estimated  
+A common method is the **Cockcroft-Gault formula**, which has a correlation of ~0.83 with creatinine clearance:  
 $$Cl = (140-A) \times W  \times S  \times 72  \times Cr)$$, where:
-* $$Cl$$ = Clearance
-* $$A$$ = Age
-* $$S$$ = Sex coefficent (Male = 1, Female = 0.85)
-* $$Cr$$ = Creatinine in µmol.L<sup>-1</sup>
+    * $$Cl$$ = Clearance
+    * $$A$$ = Age
+    * $$S$$ = Sex coefficent (Male = 1, Female = 0.85)
+    * $$Cr$$ = Creatinine in µmol.L<sup>-1</sup>
 
 Alternative formulas are **MDRD** and **CKD-EPI**. These equations have two advantages of Cockroft-Gault:
 * They are better predictors of GFR
