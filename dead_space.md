@@ -49,8 +49,7 @@ Fowler's Method is a **single-breath nitrogen washout test**, used to calculate 
 
 <object data="resources\fowlers-method.svg" type="image/svg+xml"></object>
 
-
-
+Method:
 * At the end of a normal tidal breath (at FRC) a vital-capacity breath of 100% oxygen is taken
 * The patient the exhales to RV  
 Expired nitrogen and volume is measured
