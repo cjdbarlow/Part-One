@@ -35,11 +35,10 @@ Creatinine is a byproduct of muscle catabolism.
         This is a source of error with creatinine, especially as renal function deteriorates as a greater proportion of cleared creatinine will be secreted by the tubules, rather than filtered at the glomerulus.
         * Not reabsorbed
     * GFR can be approximated by creatinine clearance  
-    **This is only true when both creatinine production and glomerular filtration are at steady-state**.
-        * A sudden drop in renal function will not result in an immediate rise in creatinine
-        * This is given by the following equation:  
-$$GFR \approx Cl_{Cr} = {U_{[Cr]}.U_Q \over P_{[Cr]}}$$
-
+        * This is given by the following equation:
+        $$GFR \approx Cl_{Cr} = {U_{[Cr]}.U_Q \over P_{[Cr]}}$$
+        * **This is only true when both creatinine production and glomerular filtration are at steady-state**
+        A sudden drop in glomerular filtration (e.g. aortic cross-clamp) will not result in an immediate rise in creatinine.
 
 
 ###Plasma Creatinine
