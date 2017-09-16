@@ -33,4 +33,4 @@ Where data can assume any value (including fractions), e.g. white cell count.
 
 ---
 ##References
- [^1]: PS Myles, T Gin. Statistical methods for anaesthesia and intensive care. 1st ed. Oxford: Butterworth-Heinemann, 2001. 
+1. Myles PS, Gin T. Statistical methods for anaesthesia and intensive care. 1st ed. Oxford: Butterworth-Heinemann, 2001.
