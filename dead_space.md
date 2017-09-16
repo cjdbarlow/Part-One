@@ -71,11 +71,11 @@ Expired nitrogen concentration and volume is measured.
         * Measured expired nitrogen concentration increases
 
 ###Bohr's Method
-Physiological dead space is measured using Bohr's method. This calculates dead space as a ratio, or proportion of tidal volume:
+Physiological dead space is measured using the Bohr equation. This calculates dead space as a ratio, or proportion of tidal volume:
 
 $$ {V_D \over V_T} = {V_T - V_A \over V_T}$$
 
-The Bohr equation is a method of calculating the $$V_D \over V_T $$ ratio. It is based on the principle that **all CO<sub>2</sub> exhaled must come from ventilated alveoli**.
+The Bohr equation is based on the principle that **all CO<sub>2</sub> exhaled must come from ventilated alveoli**.
 
 $${V_D \over V_T} = {PA_{CO_2} - P{\bar{E}_{CO_2}} \over PA_{CO_2}}$$
 
