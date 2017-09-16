@@ -100,8 +100,10 @@ $$PaCO_2 \propto {1 \over \dot{V}_A}$$
 
 <object data="resources\VA-vs-paco2.svg" type="image/svg+xml"></object>
 
-
-
+Note that this graph:
+* Describes the change in PaCO<sub>2</sub> for a change in alveolar ventilation  
+A doubling of alveolar ventilation will halve PaCO<sub>2</sub>.
+* Does not describe the change in ventilatory drive for a given change in PaCO<sub>2</sub>.
 ---
 ##Footnotes
 Note that West Zone 1 (where PA > Pa > Pv) physiology is increased dead space.
