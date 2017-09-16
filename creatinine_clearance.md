@@ -20,21 +20,24 @@ Inulin is a naturally occcurring polysaccharide.
     * However, inulin is not produced by the body and so must be given by IV infusion  
     This limits its clinical utility.
 * **Creatinine**  
-Creatinine is a byproduct of muscle catabolism. Creatinine is used clinically to measure renal function because it is:
-    * Produced at a relatively constant rate  
-    Factors affecting creatinine production include:
-        * Race
-        * Muscle mass
-            * Age
-            * Sex
-        * Diet
-    * Not metabolised
-    * Freely filtered by the glomerulus
-    * Minimally secreted  
-    This is a source of error with creatinine, especially as renal function deteriorates as a greater proportion of cleared creatinine will be secreted by the tubules, rather than filtered at the glomerulus.
-    * Not reabsorbed
-
-GFR can be approximated by creatinine clearance, **provided both creatinine production and glomerular filtration are at steady-state** (a sudden drop in renal function will not result in an immediate rise in creatinine). This is given by the following equation:  
+Creatinine is a byproduct of muscle catabolism.
+    * Creatinine is used clinically to measure renal function because it is:
+        * Produced at a relatively constant rate  
+        Factors affecting creatinine production include:
+            * Race
+            * Muscle mass
+                * Age
+                * Sex
+            * Diet
+        * Not metabolised
+        * Freely filtered by the glomerulus
+        * Minimally secreted  
+        This is a source of error with creatinine, especially as renal function deteriorates as a greater proportion of cleared creatinine will be secreted by the tubules, rather than filtered at the glomerulus.
+        * Not reabsorbed
+    * GFR can be approximated by creatinine clearance  
+    **This is only true when both creatinine production and glomerular filtration are at steady-state**.
+        * A sudden drop in renal function will not result in an immediate rise in creatinine
+        * This is given by the following equation:  
 $$GFR \approx Cl_{Cr} = {U_{[Cr]}.U_Q \over P_{[Cr]}}$$
 
 
