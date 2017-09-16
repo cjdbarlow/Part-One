@@ -18,10 +18,11 @@ This curve:
 
 Responses can be either **graded** or **quantal**:
 * **Graded responses** demonstrate a **continuous increase** in effect with dose
+  * E.g. Blood pressure and noradrenaline dose
 * **Quantal responses** demonstrate a response once a certain proportion of receptors are occupied  
 Examples include:  
   * ED<sub>95</sub>  
-  Median dose required to produce a 95% loss of twitch height.
+  Median dose of neuromuscular blocker required to produce a 95% loss of twitch height.
   * MAC  
   Mean alveolar concentration of agent required to prevent movement in response to a surgical stimulus.
   
