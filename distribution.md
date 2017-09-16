@@ -84,11 +84,11 @@ Proteins and drugs may be bound together by weak bonds. These include ionic bond
       pH.
       * Competition between drugs for binding sites
     * Amount of protein
-      * Disease    
+      * Disease  
         Due to:
         * Hypoalbuminaemia  
           Negative acute phase reactant.
-        * Increased α1-acid glycoprotein    
+        * Increased α1-acid glycoprotein  
           Acute phase reactant.
       * Competition  
       Source of pharmacokinetic interactions.

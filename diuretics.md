@@ -1,7 +1,7 @@
 #Diuretics {#id}
 > An understanding of the pharmacology of diuretics.
 
-Diuretics are drugs that act on the kidney to increase urine production. There are six classes:
+Diuretics are drugs that act on the kidney to increase urine production. They can be classified by their mechanism of action into:
 * Thiazides
 * Loop diuretics
 * Potassium sparing
@@ -12,7 +12,7 @@ Diuretics are drugs that act on the kidney to increase urine production. There a
 ##Common Features of Diuretics
 |Property|Diuretics
 |--|--|
-|**Absorption**|Typically poor bioavailability (exception: **acetazolamide** is the exception)
+|**Absorption**|Typically poor bioavailability (exception: **acetazolamide**)
 |**Distribution**|Variable protein binding
 |**Metabolism**|Not metabolised (exception: a small amount of **frusemide** is metabolised to glucuronide)
 |**Elimination**|Renal elimination of unchanged drug
@@ -23,7 +23,7 @@ Diuretics are drugs that act on the kidney to increase urine production. There a
 ##Comparison of Diuretics
 ||Thiazides|Loop Diuretics|Potassium Sparing|Aldosterone antagonists|Osmotic|Carbonic anhydrase inhibitors|
 |--|--|-----------|--|--|--|
-|**Example**|Chlorothiazide|Frusemide|Amiloride|Spironolactone|Mannitol|Acetazolamide|
+|**Example**|Hydrochlorothiazide|Frusemide|Amiloride|Spironolactone|Mannitol|Acetazolamide|
 | **Site**|Distal tubule|Loop of Henle|Distal tubule|Distal tubule|Glomerulus|Proximal tubule|
 |**Mechanism of action**|Inhibit Na<sup>+</sup> and Cl<sup>-</sup> reabsorption, and increase Ca<sup>2+</sup> reabsorption in the DCT|Inhibit NKCC2, the Na<sup>+</sup>/K<sup>+</sup>/2.Cl<sup>-</sup> transport protein in the thick ascending limb, impeding the counter-current multiplier. This reduces the hypertonicity of the medulla, and subsequent water reabsorption in the collecting system.|Inhibits Na<sup>+</sup>/K<sup>+</sup> exchange pump. Weak effect.|Competitive aldosterone antagonist. Aldosterone stimulates Na<sup>+</sup> reabsorption, which in turn stimulates K<sup>+</sup> secretion.|Filtered at the glomerulus and not reabsorbed, increasing filtrate osmolarity and increases water excretion.|Non-competitive carbonic anhydrase inhibition, causing a bicarbonate diuresis. There is a loss of Na<sup>+</sup>, urinary HCO<sub>3</sub><sup>-</sup>, and a retention of H<sup>+</sup> |
 |**Resp**||||||↑ RR due to metabolic acidosis
