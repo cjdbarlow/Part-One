@@ -74,7 +74,7 @@ Proteins and drugs may be bound together by weak bonds. These include ionic bond
       Reduced protein binding increases clearance of drugs with low **extraction ratios**.
       * Be filtered by the kidney
     * Highly tissue bound drugs:
-      * Have a long duration of action
+      * Have a high long duration of action
       * Have a volume of distribution, prolonging their elimination  
       * May build up in tissues, leading to adverse effects  
       e.g. Corneal deposition, lung fibrosis.
