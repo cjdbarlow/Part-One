@@ -41,7 +41,7 @@ Dead space from equipment, such as tubes ventilator circuitry. Some apparatus de
 
 ##Calculation of Dead Space
 ###Fowler's Method
-Anatomical dead space is measured using Fowler's Method. This is a **single-breath nitrogen washout test**, which calculates **anatomical dead space** and **closing capacity.
+Anatomical dead space is measured using Fowler's Method. This is a **single-breath nitrogen washout test**, which calculates **anatomical dead space** and **closing capacity**.
 
 * At the end of a normal tidal breath (at FRC) a vital-capacity breath of 100% oxygen is taken
 * The patient the exhales to RV  
