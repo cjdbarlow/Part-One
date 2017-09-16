@@ -46,9 +46,9 @@ Formation is relatively constant within normal parameters (altering the rate of 
   This means CSF is a **poor buffer solution**, which increases its sensitivity to derangements in respiratory acid-base status.
 
 
-In summary: 
-* [Mg<sup>2+</sup>] and [Cl<sup>-</sup>] are increased
+In summary:
 * [Na<sup>+</sup>] is unchanged
+* [Mg<sup>2+</sup>] and [Cl<sup>-</sup>] are increased
 * Concentrations of everything else is less
 
 ##Circulation
