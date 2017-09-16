@@ -17,7 +17,7 @@ Corticosteroids have multiple indications including:
 |**CVS**|↑ Inotropy, ↑ vascular smooth muscle response to circulating catecholamines (↑ receptor expression), ↑ BP secondary to mineralocorticoid effects|
 |**CNS**|Mood changes, sleep disturbance, psychosis|
 |**MSK**|Atrophy, thinning of skin|
-|**Renal**|Glycosuria, Na<sup>+</sup> and fluid retention (due to mineralocorticoid activity), hypokalaemia|
+|**Renal**|Glycosuria, Na<sup>+</sup> and fluid retention (mineralocorticoid effect), hypokalaemia|
 |**GIT**|Gastric ulceration|
 |**Metabolic**|↑ Gluconeogenesis, diabetes, ↑ protein catabolism, fat redistribution, adrenal suppression (negative feedback on ACTH), ↑ lipolytic response to circulating catecholamines|
 |**Immune**|↓ Transudate production, ↓ production of inflammatory mediators, ↓ macrophage function, ↓ transport of lymphocytes, ↓ T-cell function, ↓ antibody production, ↑ susceptibility to infection, 
@@ -36,7 +36,7 @@ Corticosteroids have multiple indications including:
 
 ---
 ##References
-Peck and Hill
-Smith Scarth Sasada
-UpToDate Methylprednisolone Dexamethasone
-Petkov
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+3. Nieman LK, Lacroix A, Martin KA. Pharmacologic use of glucocorticoids. In: UpToDate, Post, TW (Ed), UpToDate, Waltham, MA, 2017.
+4. Petkov
