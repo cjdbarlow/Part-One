@@ -38,9 +38,18 @@ Formation is relatively constant within normal parameters (altering the rate of 
 |Protein|↓|Variable*|
 |Ca<sup>2+</sup>|↓|1.12 mmol.L<sup>-1</sup>|
 |Mg<sup>2+</sup>|↑|1.2 mmol.L<sup>-1</sup>|
-\* CSF [protein] is variable, being greatest in the lumbar sac and lowest in the ventricles, but is always lower than plasma [protein]. This means CSF is a **poor buffer solution**, which increases its sensitivity to derangements in respiratory acid-base status.
 
-In summary, [Mg<sup>2+</sup>] and [Cl<sup>-</sup>] is increased, [Na<sup>+</sup>] is unchanged, and everything else falls.
+\* CSF [protein] is variable:
+  * Highest in the lumbar sac
+  * Lowest in the ventricles
+  * Always lower than plasma [protein]  
+  This means CSF is a **poor buffer solution**, which increases its sensitivity to derangements in respiratory acid-base status.
+
+
+In summary: 
+* [Mg<sup>2+</sup>] and [Cl<sup>-</sup>] are increased
+* [Na<sup>+</sup>] is unchanged
+* Concentrations of everything else is less
 
 ##Circulation
 CSF flow is driven by respiratory oscillations, arterial pulsations, and ongoing production in the choroidal plexus.
