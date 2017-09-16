@@ -47,8 +47,7 @@ A sudden drop in glomerular filtration (e.g. aortic cross-clamp) will not result
     * During acute changes in GFR, serum creatinine will underestimate GFR until a new steady state is reached
 
 
-GUYTON GRAPH PAGE 345
-
+<object data="resources\gfr-vs-creatinine.svg" type="image/svg+xml"></object>
 
 GRAPH FROM PAGE 346 GUYTON GFR vs PLASMA CREATININE
 
