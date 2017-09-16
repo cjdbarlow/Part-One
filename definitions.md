@@ -44,7 +44,7 @@ Ability of a drug to bind to a receptor.
 
 
 * **Afterload**  
-Sum of impedances, both elastic and kinetic, to ventricular ejection.
+Sum of forces, both elastic and kinetic, opposing ventricular ejection.
 
 * **Ageing**  
 Naturally occurring, physiological decline in the structure and functional reserve of all organ systems.

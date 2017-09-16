@@ -35,6 +35,12 @@ Glossopharyngeal Nerve
 ##CNX
 Vagus Nerve
 
+##CVC
+Central Venous Catheter
+
+##CVP
+Central Venous Pressure
+
 ##DCT
 Distal Convoluted Tubule
 
@@ -47,8 +53,20 @@ Dorsal Respiratory Group
 ##ECT
 Electron Transport Chain
 
+##EDP
+End-Diastolic Pressure
+
+##EDV
+End-Diastolic Volume
+
+##ESV
+End-Systolic Volume
+
 ##GFR
 Glomerular Filtration Rate
+
+##HR
+Heart Rate
 
 ##ICP
 Intracranial Pressure
@@ -82,6 +100,12 @@ Non-Steroidal Anti-Inflammatory Drug
 
 ##NTS
 Nucleus of the Tractus Solitarius
+
+##PAC
+Pulmonary Artery Catheter
+
+##PCWP
+Pulmonary Capillary Wedge Pressure
 
 ##PDA
 Posterior Descending Artery

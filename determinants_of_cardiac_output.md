@@ -18,7 +18,7 @@ Stroke volume is a function of three factors:
 
 ##Preload
 **Preload** is defined as the **myocardial sarcomere length just prior to contraction**.
-* As his is not measurable without removing the heart and cutting it into tiny pieces, so clinically it is usually **approximated by EDV** or, less appropriately, by EDP
+* As this is not measurable without removing the heart and cutting it into tiny pieces, clinically it is usually **approximated by EDV** or, less appropriately, by EDP
   * EDV is typically calculated on echocardiography
   * EDP is typically measured using a CVC or PAC
     * CVP ≈ RVEDP
@@ -30,28 +30,30 @@ Preload is a function of:
 * **Venous Return**
   * Intrathoracic Pressure
   * MSFP
-    * Venous compliance 
-    A decrease in venous compliance will increase LVEDP
+    * Venous compliance  
+    A decrease in venous compliance will increase LVEDP.
     * Volume state
 * **Ventricular compliance**  
 Reduced in diastolic dysfunction.
 * **Pericardial compliance**
 * **Valvular disease**  
-  * AV valve disease will impair preload
-  * Semilunar valve disease will increase preload
+  * AV valve disease will **impair** preload
+  * Semilunar valve disease will **increase** preload
 * **Atrial kick**
 * **Wall thickness**  
-Increased ventricular wall thickness decreases preload
+Increased ventricular wall thickness decreases preload.
     * HOCM/Hypertrophy  
 
 
 ###Preload and the Respiratory Cycle
-* Negative pressure causes RAP and PCWP to fall
-* This increases RA filling and RVEDP and RVEDV increase relative to the pleural pressure (though absolute pressure is still low)
-* LV effects are more variable
-  * Negative intrapleural pressures:
-    * Decrease LV transmural pressure (impairing ejection)
-    * Cause bowing of the interventricular septum into the LV (reducing LVEDV)
+* Negative intrathoracic pressure causes RAP and PCWP to fall
+* This increases RA filling, so and RVEDP and RVEDV increase relative to the pleural pressure (though absolute pressure is still low)
+* LV effects are more variable  
+Negative intrapleural pressures:
+  * Decrease LV transmural pressure  
+  This impairs ejection.
+  * Cause bowing of the interventricular septum into the LV  
+  This reduces LVEDV.
 
 
 ###Frank-Starling Mechanism
@@ -59,18 +61,29 @@ Increased ventricular wall thickness decreases preload
 * At a cellular level, additional stretch increases:
   * The number of myofilament crossbridges that can interact
   * Myofilament Ca<sup>2+</sup> sensitivity
+  
 
-* It is represented by the **ventricular function curve**
-  * Plots preload against stroke volume (or cardiac output, assuming a constant heart rate)
+* This law is represented by the **ventricular function curve**  
+Plot of preload against stroke volume (or cardiac output, assuming a constant heart rate).
   * Right shift of the curve demonstrates negative inotropy
   * Left shift of the curve demonstrates positive inotropy
 
-FRANK STARLING CURVE
+
+<object data="resources\starling-curve.svg" type="image/svg+xml"></object>
+
+
+The failing ventricle:
+<object data="resources\starling-curve-failing.svg" type="image/svg+xml"></object>
+* In cardiac failure, the ventricle becomes overstretched  
+This reduces the number of overlapping crossbridges, reducing contractility.
+* This is limited in the acute setting by constriction of the pericardium, which prevents excessive ventricular dilation
+
+
 
 
 ##Afterload
-**Afterload** is  **the sum of forces, both elastic and kinetic, opposing ventricular ejection**
-* This definition is a bit wordy but avoids using the words "resistance" and "impedance", which are strictly defined in physics (and crudely applied in medicine), and may be jumped on by a cruel examiner
+**Afterload** is **the sum of forces, both elastic and kinetic, opposing ventricular ejection**
+* This definition is a bit wordy but avoids using the words "resistance" and "impedance", which are strictly defined in physics (and crudely applied in medicine), and may be leapt on by the cruel examiner
 
 ###Determinants of Afterload
 Afterload is equal to **ventricular wall stress**, which is given by the equation:
@@ -183,8 +196,8 @@ $$EF \ (\%) = {SV \over EDV } \times 100 = {EDV - ESV \over EDV} \times 100 $$
 
 ---
 ##References
-Physiology Viva
-Deranged Physiology
-Cardiovascular Haemodynamics, an introdutory guide
-http://advan.physiology.org/content/25/1/53.long
-ANZCA July/September 2006
+1. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.
+2. [Deranged Physiology - Haemodynamic changes during mechanical ventilation](http://www.derangedphysiology.com/main/core-topics-intensive-care/mechanical-ventilation-0/Chapter%202.1.8/haemodynamic-changes-during-mechanical-breath)
+3. Anwaruddin S, Martin JM, Stephens JC, Askari AT. Cardiovascular hemodynamics: an introductory guide, contemporary cardiology. New York: Springer; 2013. p. 29–51. 
+4. Norton JM. Toward Consistent Definitions for Preload and Afterload. Advances in Physiology Education Mar 2001, 25 (1) 53-61.
+5. ANZCA July/September 2006
