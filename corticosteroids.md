@@ -16,7 +16,7 @@ Corticosteroids have multiple indications including:
 |**Resp**|↑ Bronchial smooth muscle response to circulating catecholamines, ↓ airway oedema|
 |**CVS**|↑ Inotropy, ↑ vascular smooth muscle response to circulating catecholamines (↑ receptor expression), ↑ BP secondary to mineralocorticoid effects|
 |**CNS**|Mood changes, sleep disturbance, psychosis|
-|**MSK**|Atropy, thinning of skin|
+|**MSK**|Atrophy, thinning of skin|
 |**Renal**|Glycosuria, Na<sup>+</sup> and fluid retention (due to mineralocorticoid activity), hypokalaemia|
 |**GIT**|Gastric ulceration|
 |**Metabolic**|↑ Gluconeogenesis, diabetes, ↑ protein catabolism, fat redistribution, adrenal suppression (negative feedback on ACTH), ↑ lipolytic response to circulating catecholamines|
