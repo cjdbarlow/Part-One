@@ -32,7 +32,10 @@ Components:
 
 
 Method:
-* Levels of radiation are measured on the other side of the chamber (using a lens to focus it, and a detector to measure it), and correspond to the amount of gas present in the sample
+* Light is emitted and passes through the sampling chamber  
+A lens is used to focus emitted light.
+* Levels of radiation are measured on the other side of the chamber  
+* Levels correspond to the amount of gas present in the sample
 * The less radiation that reaches the detector, the more gas there is in the sample absorbing it
 
 
