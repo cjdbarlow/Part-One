@@ -72,7 +72,7 @@ Key points:
 This is the mechanism for changes in PO<sub>2</sub> affecting the CO<sub>2</sub> dissociation curve.
 
 
-##Removal of CO<sub>2</sub>
+##Removal of CO<sub>2</sub> {#transport}
 CO<sub>2</sub> dissolves from pulmonary arterial blood into the alveolus down a concentration gradient. As inspired CO<sub>2</sub> is negligible, PACO<sub>2</sub> is a function of alveolar ventilation and CO<sub>2</sub> output, given by the equation:
 
 $$PACO_2 = {CO_2 \ output \over \dot{V}_A}$$
