@@ -62,11 +62,16 @@ CSF flow is driven by respiratory oscillations, arterial pulsations, and ongoing
     * **Caudally**, to the **spinal subarachoid space** via the **central canal**
 
 ##Reabsorption
-Reabsorption of CSF occurs in the **arachnoid villi**, which are located in the **dural walls** of the **sagittal** and **sigmoid sinuses**. 85% of reabsorption occurs in intracranial arachnoid villi, with the remainder by spinal arachnoid villi. Reabsorption is predominantly via pinocytosis and opening of extracellular fluid spaces.
-
-CSF reabsorption is **pressure-dependent**, and reabsorption occurs when the CSF pressure is **1.5mmHg greater** than venous pressure. Typically an ICP <7mmHg results in minimal CSF reabsorption. Above this, CSF absorption increases in a linear fashion up to 22.5mmHg.
+Reabsorption of CSF:
+* Occurs in the **arachnoid villi**, which are located in the **dural walls** of the **sagittal** and **sigmoid sinuses**
+  * 85% of reabsorption occurs in intracranial arachnoid villi
+  * Remainder by spinal arachnoid villi
+* Is predominantly via pinocytosis and opening of extracellular fluid spaces
+* Is **pressure-dependent**
+  * Reabsorption occurs when the CSF pressure is **1.5mmHg greater** than venous pressure  
+  Typically an ICP <7mmHg results in minimal CSF reabsorption. Above this, CSF absorption increases in a linear fashion up to 22.5mmHg.
 
 ---
 ##References
-Power and Kam
-Guyton
+1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+2. Hall, JE, and Guyton AC. Guyton and Hall Textbook of Medical Physiology. 11th Edition. Philadelphia, PA: Saunders Elsevier. 2011. 
