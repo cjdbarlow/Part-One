@@ -24,13 +24,17 @@ Data exists in **discrete categories with an intrinsic order**, e.g. age groups 
 Data is an actual number. Can be subdivided into discrete or continuous:
   * **Discrete**  
 Can only be recorded as an integer (whole number), e.g. number of hospital admissions.
-    * **Dichotomous** or **binary** data, which occurs when there are only two categories.  
+    * **Dichotomous** or **binary** data, which occurs when there are only two categories  
   * **Continuous**  
   Where data can assume any value (including fractions), e.g. white cell count.
    * Continuous data can be further subdivided into **interval** or **ratio** data:
-     * **Ratio data** have a **0** which **means** there is **no measurement**  
-      Temperature in °K is a ratio variable, whilst temperature in °C is not. This is because 0°K means no temperature, whilst 0°C does not; e.g. 50°K is half the temperature of 100°K, but 50°C is not half the temperature of 100°C. Ratio variables can (unsurprisingly) be expressed as ratios, whilst interval variables can not.
-     * **Interval data** do not have a rational 0 - this is just another point on the line (e.g. temperature in °C)
+     * **Ratio data**  
+     Have a **0** which **means** there is **no measurement**. This is known as **rational zero**. 
+       * e.g. Temperature in °K is a ratio variable, whilst temperature in °C is not  
+       This is because 0°K means no temperature, whilst 0°C does not; e.g. 50°K is half the temperature of 100°K, but 50°C is not half the temperature of 100°C.
+       * Ratio variables can (unsurprisingly) be expressed as ratios, whilst interval variables can not
+     * **Interval data**  
+     Do not have a rational 0 - this is just another point on the line (e.g. temperature in °C).
 
 
 ---
