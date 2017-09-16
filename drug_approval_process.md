@@ -37,27 +37,23 @@ Assessed by the TGA for quality, safety, but not efficacy.
     * Most complementary medicines
 
 ##Phases of Drug Development
-###"Phase 0"
-* Pre-clinical R&D
-* *In vitro* and animal testing
-
-###Phase I
-* First administration in humans
-* Basic pharmacokinetic and toxicology data
-* 20 - 100 human subjects
-
-###Phase II
-* Administration to select patient groups
-* Aim to establish dose-response curve
-* Evidence of efficacy
-
-###Phase III
-* Full-scale evaluation of benefits, potential risks and costs analysis
-* 2000-3000 patients, usually treated in groups of several hundred for relatively short durations (3-6 months), regardless of the length of time the drug will be used in practice[^3]
+* **"Phase 0"**
+    * Pre-clinical R&D
+    * *In vitro* and animal testing
+* **Phase I**  
+    * First administration in humans
+    * Basic pharmacokinetic and toxicology data
+    * 20 - 100 human subjects
+* **Phase II**
+    * Administration to select patient groups
+    * Aim to establish dose-response curve
+    * Evidence of efficacy
+* **Phase III**  
+    * Full-scale evaluation of benefits, potential risks and costs analysis
+    * 2000-3000 patients, usually treated in groups of several hundred for relatively short durations (3-6 months), regardless of the length of time the drug will be used in practice[^3]
     * May not reveal uncommon or long-term risks
-
-###Phase IV
-* Post-marketing surveillance
+* **Phase IV**  
+    * Post-marketing surveillance
 
 ---
 ##References
