@@ -11,7 +11,7 @@ Uses numbers, or can be coded numerically. Divided into multiple types, each wit
 
 * **Categorical**  
 Data exist in **discrete categories without intrinsic order**.
-  * e.g. medical speciality (intensive care, emergency medicine, orthopaedics, cardiology)
+  * e.g. Medical speciality (intensive care, emergency medicine, orthopaedics, cardiology)
   * Descriptive statistics for categorical data can be reported using the absolute number for each category, percentages, or proportions
 
 
