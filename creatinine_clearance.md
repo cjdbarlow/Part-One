@@ -1,7 +1,7 @@
 #Measurement of GFR
 > Describe the principles of measurement of glomerular filtration rate ~~and renal blood flow~~
 
-Renal clearance of a substance quantifies the effectiveness of kidneys in excreting substances. The definition of clearance is a *volume* cleared of a drug per unit time and we ran state this as:
+Renal clearance of a substance quantifies the effectiveness of kidneys in excreting substances. The definition of clearance is the *volume* (typically of plasma) cleared of a drug per unit time. Renal clearance can therefore be expressed as:
 
 $$Cl = { U_C.U_Q \over P_C}$$, where:
 * $$Cl$$ = Clearance
