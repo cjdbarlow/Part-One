@@ -5,7 +5,7 @@ Dialysis is the **separation of particles in a liquid based on their ability to 
 Failure of normal renal functions, i.e.:
 * **A**cid
 * **E**lectrolyte derangement  
-Particularly hyperkalaemia
+Particularly hyperkalaemia.
 * **I**ntoxications
 * **O**verload
 * **U**reamia
@@ -44,8 +44,10 @@ Uses ultrafiltration.
   * Both a positive hydrostatic pressure in blood and a negative hydrostatic pressure in dialysate is generated, causing ultrafiltration and removal of solutes via solvent drag.
   * Elimination via bulk flow is **independent of solute concentration gradients across the membrane**.
   * Transport is dependent on Starling Forces:
-    * The transmembrane pressure generated
-      * Blood flow to the membrane
+    * The transmembrane pressure generated  
+    This is a function of:
+      * Blood flow to the membrane  
+      Determines hydrostatic pressure.
       * Oncotic pressure gradient
     * Porosity of the membrane
   * Additionally, a high filtration fraction will cause excessive haemoconcentration, and clotting of the filter
@@ -55,16 +57,16 @@ Uses ultrafiltration.
 * Renal Replacement Therapy (RTT) can be via:
    * Peritoneal dialysis (PD)
    * Intermittent haemodialysis (IHD)  
+   IHD causes greater cardiovascular instability compared to CRRT as the fluid and electrolyte shifts occur more rapidly.
    * Continuous Renal Replacement Therapy (CRRT)
      * Continuous Veno-Venous Haemofiltration (CVVH)
      * Continuous Veno-Venous Haemodiafiltration (CVVHDF)
 
-* IHD causes greater cardiovascular instability compared to CRRT as the fluid and electrolyte shifts occur more rapidly.
-
-* Small molecules (<500 Da) ad electrolytes can be removed by filtration or dialysis
+Method chosen depends desired effect:
+* Small molecules (<500 Da) and electrolytes can be removed by filtration or dialysis
 * Medium-sized molecules (500-5000 Da) are best removed by filtration
 * Low molecular weight proteins (5000-50000 Da) are removed by filtration  
-This includes removal of inflammatory proteins and may be benficial in sepsis.
+This includes removal of inflammatory proteins, which may be benficial in sepsis.
 * Water is best removed by filtration
 
 ##Pharmacokinetics of RRT
@@ -74,7 +76,7 @@ Drugs with a small proportion of free drug in plasma are (unsuprisingly) poorly 
   * Highly protein bound substances
   * Drugs with a V<sub>D</sub> greater than 1L.kg<sup>-1</sup>
 * **Size**  
-Small molecules (<500 Da) are more easily cleared by diffusive methods of RTT.
+Small molecules (< 500 Da) are more easily cleared by diffusive methods of RTT.
 * **Dose/Flow rates**  
 Reduced flow rates will reduce clearance.
 * **Membrane permeability**  
@@ -97,4 +99,4 @@ Drugs given between IHD or SLED sessions will not be cleared until the next sess
 
 ---
 ##References
-http://www.just.edu.jo/DIC/Manuals/Dialysis%20of%20Drugs.pdf
+1. Johnson CA, Simmons WD. [Dialysis of Drugs](http://www.just.edu.jo/DIC/Manuals/Dialysis%20of%20Drugs.pdf). Nephrology Pharmacy Associates.
