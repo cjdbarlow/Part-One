@@ -9,9 +9,9 @@ Dead space from equipment, such as tubes ventilator circuitry. Some apparatus de
 
 
 * **Physiological dead space**  
-  Dead space from the patient. Physiological dead space may be measured with **Bohr's method**. Physiological dead space is divided into:
+  Dead space from the patient. Physiological dead space is divided into:
   * **Anatomical dead space**  
-  The volume of the conducting zone of the lung. Anatomical dead space may be measured by **Fowlers method**. Anatomical dead space is affected by:
+  The volume of the conducting zone of the lung. Anatomical dead space is affected by:
     * Size and Age  
     3.3ml.kg<sup>-1</sup> in the infant, falls to 2.2ml.kg<sup>-1</sup> in the adult
     * Posture  
@@ -24,24 +24,28 @@ Dead space from equipment, such as tubes ventilator circuitry. Some apparatus de
     Bronchodilation increases airway diameter and therefore V<sub>D</sub>.
     <br>
   * **Pathological/Alveolar Dead Space**    
-    Dead space caused by disease. Pathological dead space may be calculated by substracting physiological dead space (Bohr's Method) from anatomical (Fowler's method).
-    * Causes of pathological dead space include:
-      * Erect posture
-      * Decreased pulmonary artery pressure/impaired pulmonary blood flow  
-        * Hypovolaemia
-        * RV failure/Increased RV afterload:
-          * HPV
-          * MI
-        * PE
-      * Increased alveolar pressure  
-      Increases West Zone 1 physiology.
-        * PEEP
-      * COAD
+  Dead space caused by disease. Causes of pathological dead space include:
+    * Erect posture
+    * Decreased pulmonary artery pressure/impaired pulmonary blood flow  
+      * Hypovolaemia
+      * RV failure/Increased RV afterload:
+        * HPV
+        * MI
+      * PE
+    * Increased alveolar pressure  
+    Increases West Zone 1 physiology.
+     * PEEP
+    * COAD
 
 
 ##Calculation of Dead Space
+Two methods exist to allow dead space volumes to be calculated:
+* Physiological dead space may be measured with **Bohr's method**
+* Anatomical dead space may be measured by **Fowlers method**
+* Pathological dead space may be calculated by substracting physiological dead space (Bohr's Method) from anatomical (Fowler's method)
+
 ###Fowler's Method
-Anatomical dead space is measured using Fowler's Method. This is a **single-breath nitrogen washout test**, which calculates **anatomical dead space** and **closing capacity**.
+Fowler's Method is a **single-breath nitrogen washout test**, used to calculate **anatomical dead space** and **closing capacity**.
 
 * At the end of a normal tidal breath (at FRC) a vital-capacity breath of 100% oxygen is taken
 * The patient the exhales to RV  
