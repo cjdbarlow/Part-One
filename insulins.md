@@ -49,11 +49,11 @@ Long-acting insulins include:
 |**Route of Administration**|SC, IM, IV
 |**Absorption**| Variable, as described
 |**Distribution**| Minimal protein binding and minimal redistribution out of ECF - V<sub>D</sub> 0.075L.kg<sup>-1</sup>
-|**Metabolism**| Glutathione insulin transhydrogenase
+|**Metabolism**| Glutathione insulin transhydrogenase. Metabolism is constant - duration of action is entirely due to different rates of subcutaneous absorption.
 |**Elimination**| Renal of inactive metabolites
 
 ---
 ##References
 http://dtc.ucsf.edu/types-of-diabetes/type2/treatment-of-type-2-diabetes/medications-and-therapies/type-2-insulin-rx/types-of-insulin/
-
+https://www.ncbi.nlm.nih.gov/m/pubmed/12196433/
 Smith Scarth Sasada
