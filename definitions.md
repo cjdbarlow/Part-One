@@ -4,7 +4,7 @@ This appendix is a list of key definitions that are common to many topics.
 ##A
 
 * **Absolute Humidity**  
-Mass of water vapour in a given volume of air. Measured in mg.L<sup>-1<.sup>.
+Mass of water vapour in a given volume of air. Measured in mg.L<sup>-1</sup>.
 
 * **Absorption**  
 The rate at which a drug leaves its site of administration and the extent to which this occurs.

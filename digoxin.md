@@ -8,16 +8,17 @@ Parasympathomimetic effects by increasing ACh release at cardiac muscarinic rece
  * Slows AV nodal conduction and ventricular response  
  This improves coronary blood flow, increasing time for ventricular filling, and improving cardiac output.
 * Indirect  
-Ihibits cardiac Na<sup>+</sup>/K<sup>+</sup> ATPase, causing:
- * Increasing intracellular [Na<sup>+</sup>], causing increased exchange with extracellular Ca<sup>2+</sup>
- * IIncreased intracellular Ca<sup>2+</sup> results in increased inotropy, whilst decreased K<sup>+</sup> results in a prolonged refractory period of the AV node and bundle of His.
+Inhibits cardiac Na<sup>+</sup>/K<sup>+</sup> ATPase, causing:
+ * Increasing intracellular [Na<sup>+</sup>], decreasing activity of the Na<sup>+</sup>/Ca<sup>2+</sup> pump
+ * Increased intracellular Ca<sup>2+</sup> increases inotropy
+ * Decreased K<sup>+</sup> results prolongs refractory period of the AV node and bundle of His
 
 
 |Property|Action|
 |--|--|
 |**Class**|Cardiac Glycoside|
 |**Uses**|Arrhythmia - particularly AF/Flutter, and CCF|
-|**Presentation**|Tablets, elixir, clear colourless solution at
+|**Presentation**|Tablets, elixir, clear colourless solution
 |**Route of Administration**|PO/IV|
 |**Dosing**|PO: 62.5μg-250μg, IV: 250-500μg load|
 |**Absorption**|>70% bioavailability though varies with formulation|
@@ -33,7 +34,7 @@ Ihibits cardiac Na<sup>+</sup>/K<sup>+</sup> ATPase, causing:
 ###Interactions
 |Interaction|Drug|
 |--|--|
-|**Increased level**|Amiodarone, captopril erythromycin, carbenoxolone, verapamil|
+|**Increased level**|Amiodarone, captopril, erythromycin, verapamil|
 |**Decreased level**|Antacids, cholestyramine, phenytoin, metoclopramide|
 
 ---
