@@ -18,6 +18,7 @@ Resistance is measured in ohms (Ω).
     * Substances with **high resistance** are **insulators**
     * Substances with **low resistance** are **conductors**
 
+
 * **Inductance** is the property of a conductor by which a change in current induces an electromotive force in the conductor, and any nearby conductors
 
 
