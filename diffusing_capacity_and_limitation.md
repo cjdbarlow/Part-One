@@ -18,15 +18,15 @@ $$Rate \ of \ Diffusion = {\Delta P \times A \times s \over T \times \sqrt{MW}}$
   * $$MW$$ is the molecular weight of the substance
 
 These can be divided into pressure, lung factors, and substance factors:
-* Pressure gradient  
+* **Pressure gradient**  
 In the lung, this is a function of:
   * Partial pressure of the gas in the alveolus  
   This is affected by:
     * Atmospheric pressure
     * Ventilation  
     Alveolar hypoventilation will:
-      * Increase PA<sub>CO<sub>2</sub>
-      * Decrease PA<sub>O<sub>2</sub>
+      * Increase PACO<sub>2</sub>
+      * Decrease PAO<sub>2</sub>
   * Partial pressure of the gas in blood  
   This is affected by:
     * Solubility of the gas in blood  
@@ -40,11 +40,11 @@ In the lung, this is a function of:
       e.g. albumin, cholesterol.
 
 
-* Lung factors:
+* **Lung factors**
   * Surface Area  
   Affected by:
     * Parenchyma volume  
-      * Body seize
+      * Body size
       * Pathology  
       Many lung diseases will reduce surface area for gas exchange.
     * V/Q mismatch  
@@ -59,32 +59,39 @@ In the lung, this is a function of:
   * Thickness  
   Increasing alveolar-capillary membrane thickness impedes gas exchange. Causes of this include:
     * Pathology  
-    Pulmonary oedema and cardiac filure.
+    e.g. Pulmonary oedema and cardiac failure.
   
 
-* Substance factors:
+* **Substance factors**
   * Solubility  
   More soluble substances will diffuse more quickly.
   * Molecular weight  
-  Smaller substances can diffuse more quickly.
+  Smaller substances will diffuse more quickly.
 
 ##Diffusion and Perfusion Limitation
 Limitation refers to what process limits gas uptake into blood:
 * Gases which are **diffusion limited** fail to equilibrate, i.e. the partial pressure of a substance in the alveolus does not equal that in the pulmonary capillary
+  * e.g. Carbon Monoxide
 * Gases which are **perfusion limited** have equal alveolar and pulmonary capillary partial pressures, so the amount of gas *content* transferred is dependent on blood flow
+  * e.g. Oxygen
 
-DIFFUSION CAPACITY GRAPH PAGE 41 CHAMBERS
+<object data="resources\diffusion-vs-perfusion-limitation.svg" type="image/svg+xml"></object>
+
+
 
 ###Oxygen
 * Oxygen diffusion takes **~0.25s**
 * Pulmonary capillary transit time is **0.75s**
 * Therefore, under normal conditions oxygen is a **perfusion limited** gas
-* However, oxygen may become diffusion limited when:
-  * **Alveolar-capillary barrier** disease, which decreases the rate of diffusion
+* However, **oxygen may become diffusion limited** in certain circumstances:
+  * **Alveolar-capillary barrier** disease  
+  Decreases the rate of diffusion.
     * Decreased surface area
     * Increased thickness
-  * **High cardiac output**, which decreases pulmonary transit time
-  * **Altitude**, which decreases PAO<sub>2</sub>
+  * **High cardiac output**  
+  Decreases pulmonary transit time.
+  * **Altitude**  
+  Decreases PAO<sub>2</sub>.
 
 ###Carbon Dioxide
 * Carbon dioxide is ventilation limited, rather than diffusion or perfusion limited
@@ -96,15 +103,21 @@ DIFFUSION CAPACITY GRAPH PAGE 41 CHAMBERS
 * Impairment of diffusion capacity causes type 1 respiratory failure as oxygen is affected to a much greater extent than carbon dioxide
 
 ###Other Gases
-* Due to its high affinity for haemoglobin **carbon monoxide** partial pressures in blood remain low during diffusion (as it has uptake onto haemoglobin)
-* **Carbon monoxide** is therefore **diffusion limited**  
-This is why it is used to test for diffusion capacity
+* **Carbon monoxide**  
+Diffusion limited due to:
+  * High affinity for haemoglobin  
+  Continual uptake into Hb results in a low partial pressures in blood.
 
-* **Nitrous oxide** is not bound to haemoglobin and is relatively insoluble, so equilibrium is reached quickly and it is therefore **perfusion limited**
+
+* **Nitrous oxide**
+Perfusion limited as equilibrium between alveolus and blood is rapidly reached as it is:
+  * Not bound to haemoglobin
+  * Relatively insoluble
 
 ##Diffusion Capacity
 * Measurement of the ability of the lung to transfer gases
-* Measured as DL<sub>CO</sub> or diffusing capacity of the lung for carbon monoxide
+* Measured as DL<sub>CO</sub> or diffusing capacity of the lung for carbon monoxide  
+Carbon monoxide is used as it is a diffusion limited gas.
 * Process:
   * Vital capacity breath of 0.3% CO
   * Held for 10s and exhaled
@@ -121,7 +134,7 @@ This is why it is used to test for diffusion capacity
     * Emphysema
     * PE
     * Lobectomy/pneumonectomy
- * D<sub>L<sub>CO</sub></sub> is increased in:
+ * DL<sub>CO</sub> is increased in:
    * Exercise  
    Recruitment and capillary distension.
    * Alveolar haemorrhage  
