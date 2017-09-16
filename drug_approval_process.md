@@ -61,6 +61,6 @@ Assessed by the TGA for quality, safety, but not efficacy.
 
 ---
 ##References
- 1. PS Myles, T Gin. Statistical methods for anaesthesia and intensive care. 1st ed. Oxford: Butterworth-Heinemann, 2001.  
+1. PS Myles, T Gin. Statistical methods for anaesthesia and intensive care. 1st ed. Oxford: Butterworth-Heinemann, 2001.  
 2. Medicines and TGA classifications. Therapeutic Goods Administration. Available at: https://www.tga.gov.au/medicines-and-tga-classifications  
 3. Chris Anderson. [Pharmaceutical Aspects and Drug Development](https://icuprimaryprep.files.wordpress.com/2012/05/drug-development-and-pharmaceuticals.pdf). ICU Primary Prep.
