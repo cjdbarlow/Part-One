@@ -1,7 +1,10 @@
 # Cough Reflex
 > Explain the pathways and importance of the cough reflex
 
-Coughing is an airway protective reflex. It involves a deep inspiration followed by **forced expiration against a closed glottis**.The sudden opening of the cords causes a violent rush of air at **>900km.h<sup>-1</sup>**, removing irritants and secretions from the airways.
+Coughing:
+* Is an airway protection reflex
+* Involves deep inspiration followed by **forced expiration against a closed glottis**  
+The sudden opening of the cords causes a violent rush of air at **>900km.h<sup>-1</sup>**, removing irritants and secretions from the airways.
 
 ##Sensation
 Vagus afferents have exquisitely sensitive light touch and corrosive chemical receptors in the larynx, carina, terminal bronchioles, and alveoli.
