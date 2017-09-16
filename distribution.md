@@ -48,8 +48,8 @@ Ionised drugs are polar, and so are less lipid soluble.
 
     
 * **Protein binding**  
-Proteins and drugs may be bound together by weak bonds. These include ionic bonds, van der Waal's forces, and hydrogen.
-  * May bind to proteins in:
+Proteins and drugs may be bound together by weak bonds. These include ionic bonds, van der Waal's forces, and hydrogen bonds.
+  * Drugs may bind to proteins in:
     * Plasma
       * **Albumin**  
       Binds acid and neutral drugs.
