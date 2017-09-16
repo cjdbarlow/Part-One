@@ -1,14 +1,15 @@
 # Depolarising NMBs {#id}
 
-Succinylcholine binds to the nicotinic ACh receptor causing depolarisation. It cannot be hydrolysed by acetylcholinesterase in the NMJ, and so produces a sustained depolarisation that prevents the post-junctional membrane from responding to further ACh release. 
+Succinylcholine binds to the nicotinic ACh receptor causing depolarisation. It cannot be hydrolysed by acetylcholinesterase in the NMJ, and so remains bound to the receptor. This:
+* Produces a sustained depolarisation which keeps voltage-gated sodium channels in their inactive state
+* Prevents the post-junctional membrane from responding to further ACh release
 
-Structually, it is two ACh groups joined at the acetyl groups.
 
 |Property|Succinylcholine
 |--|--|
 |**Class**|Depolarising muscle relaxant.
 |**Uses**|Facilitate tracheal intubation.
-|**Presentation**|Colourless solution of pH 3, at 50mg.ml<sup>-1</sup>.
+|**Presentation**|Colourless solution of pH 3, at 50mg.ml<sup>-1</sup>. Structually, it is two ACh groups joined at the acetyl groups.
 |**Route of Administration**|IV, IM.
 |**Dosing**|1-2mg.kg<sup>-1</sup> IV, 3-4mg.kg<sup>-1</sup> IM up to 150mg.
 |**Onset and Duration**|IV onset in 30s to 1 minute, lasting 2-3 minutes, with offset typically within 10 minutes. Offset occurs due to dissociation of drug out of NMJ into plasma, as a concentration gradient is established by drug breakdown in plasma. Prolonged duration in patients with **pseudocholinesterase deficiency**. IM onset in 2-3 minues.
@@ -68,6 +69,6 @@ Key differences include:
 * Can be treated with fresh frozen plasma
 ---
 ##References
-Peck and Hill
-Suxamethonium Chloride Injection BP PRODUCT INFORMATION
-https://academic.oup.com/bjaed/article/4/1/2/356873/Pharmacology-of-neuromuscular-blocking-drugs
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. [Suxamethonium Chloride Injection BP PRODUCT INFORMATION](https://gp2u.com.au/static/pdf/S/SUXAMETHONIUM_CHLORIDE_INJECTION_BP-PI.pdf)
+3. Appiah-Ankam J, Hunter JM. [Pharmacology of neuromuscular blocking drugs](https://academic.oup.com/bjaed/article/4/1/2/356873/Pharmacology-of-neuromuscular-blocking-drugs). Continuing Education in Anaesthesia Critical Care & Pain, Volume 4, Issue 1, 1 February 2004, Pages 2–7.
