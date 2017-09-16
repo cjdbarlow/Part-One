@@ -37,7 +37,7 @@ Creatinine is a byproduct of muscle catabolism.
     * GFR can be approximated by creatinine clearance  
         * This is given by the following equation:
         $$GFR \approx Cl_{Cr} = {U_{[Cr]}.U_Q \over P_{[Cr]}}$$
-        * **This is only true when both creatinine production and glomerular filtration are at steady-state**
+        * **This is only true when both creatinine production and glomerular filtration are at steady-state**  
         A sudden drop in glomerular filtration (e.g. aortic cross-clamp) will not result in an immediate rise in creatinine.
 
 
