@@ -76,8 +76,13 @@ These estimates have similar weaknesses to the above:
 ---
 ##References
 1. Hall, JE, and Guyton AC. Guyton and Hall Textbook of Medical Physiology. 11th Edition. Philadelphia, PA: Saunders Elsevier. 2011. 
+2. Cockcroft DW, Gault MH. [Prediction of Creatinine Clearance from Serum Creatinine](http://www.karger.com/Article/Abstract/180580). Nephron 1976;16:31-41
+3. Levey AS, Stevens LA, Schmid CH, Zhang YL, Castro AF 3rd, Feldman HI, Kusek
+JW, Eggers P, Van Lente F, Greene T, Coresh J; CKD-EPI (Chronic Kidney Disease
+Epidemiology Collaboration). A new equation to estimate glomerular filtration
+rate. Ann Intern Med. 2009 May 5;150(9):604-12. Erratum in: Ann Intern Med. 2011 
+Sep 20;155(6):408.
 2. MD Calc - [Cockcroft-Gault Equation](https://www.mdcalc.com/creatinine-clearance-cockcroft-gault-equation#about-equation).
 3. 
-http://www.karger.com/Article/Abstract/180580
 http://www.ncbi.nlm.nih.gov/pubmed/19414839
 http://www.niddk.nih.gov/health-information/health-communication-programs/nkdep/lab-evaluation/gfr/estimating/Pages/estimating.aspx#the-ckd-epi-equation
