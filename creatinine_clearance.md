@@ -52,7 +52,7 @@ A sudden drop in glomerular filtration (e.g. aortic cross-clamp) will not result
 
 ###Estimating Creatinine Clearance
 Using the above formula requires measurement of urine volume. This is:
-* Typically performed by taking a 24 hour urine collection.
+* Typically performed by taking a 24 hour urine collection
 * Tedious, and so creatinine clearance is often estimated  
 A common method is the **Cockcroft-Gault formula**, which has a correlation of ~0.83 with creatinine clearance:  
 $$Cl = (140-A) \times W  \times S  \times 72  \times Cr)$$, where:
@@ -61,9 +61,9 @@ $$Cl = (140-A) \times W  \times S  \times 72  \times Cr)$$, where:
     * $$S$$ = Sex coefficent (Male = 1, Female = 0.85)
     * $$Cr$$ = Creatinine in µmol.L<sup>-1</sup>
 
-Alternative formulas are **MDRD** and **CKD-EPI**. These equations have two advantages of Cockroft-Gault:
+Alternative formulas are **MDRD** and **CKD-EPI**. These equations have two advantages of Cockcroft-Gault:
 * They are better predictors of GFR
-* They do not require weight, and so can be calculated by the laboratory automatically (other data can be taken from hospital records)
+* They do not require weight, and so can be calculated by the laboratory automatically  Other required data (e.g. age) can be taken from hospital records.
 
 These estimates have similar weaknesses to the above:
 * Dependent on serum creatinine, which can be highly variable. Formulas are derived from average values of dependent variables, and so will be unreliable at extremes of:
@@ -75,8 +75,9 @@ These estimates have similar weaknesses to the above:
 
 ---
 ##References
-Guyton
-http://www.mdcalc.com/creatinine-clearance-cockcroft-gault-equation/#about-equation
+1. Hall, JE, and Guyton AC. Guyton and Hall Textbook of Medical Physiology. 11th Edition. Philadelphia, PA: Saunders Elsevier. 2011. 
+2. MD Calc - [Cockcroft-Gault Equation](https://www.mdcalc.com/creatinine-clearance-cockcroft-gault-equation#about-equation).
+3. 
 http://www.karger.com/Article/Abstract/180580
 http://www.ncbi.nlm.nih.gov/pubmed/19414839
 http://www.niddk.nih.gov/health-information/health-communication-programs/nkdep/lab-evaluation/gfr/estimating/Pages/estimating.aspx#the-ckd-epi-equation
