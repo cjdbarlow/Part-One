@@ -348,6 +348,7 @@ Mechanisms which alter myocardial performance independent of fibre length.
 * **Hormone**  
 Chemical messenger secrted by a **ductless gland** and has action on a distant target cell.
 
+
 * **Hyperalgesia**  
 Greater than normal amount of pain from a noxious stimulus. May be:
 	* Primary  
@@ -466,7 +467,7 @@ Proportion of osmotic pressure due to colloid.
 * **Opioid**  
 Describes any substance with activity at opioid receptors, and which can be reversed by naloxone.
 
-***Osmosis**  
+* **Osmosis**  
 Movement of a solvent across a semipermeable membrane to an area of greater solute concentration.
 
 * **Osmotic Pressure**  
@@ -536,7 +537,7 @@ Dimensionless index which predicts the likelihood of turbulent flow.
 ##S
 * **Saturated Vapour**  
 Vapour which is in equilibrium with its own liquid state, i.e. there are as many molecules entering the vapour phase as there there are those condensing into the liquid phase.
-* A saturated vapour contains the least amount of energy possible without condensing
+	* A saturated vapour contains the least amount of energy possible without condensing
 
 * **Saturated Vapour Pressure**  
 Pressure exerted by a vapour which is in equilibrium with its liquid state. Increases with temperature, since as the kinetic energy (heat) content of molecules increase, more of them enter the vapour phase.
