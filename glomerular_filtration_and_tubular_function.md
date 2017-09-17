@@ -13,17 +13,18 @@
 ###Glomerular Filtration Rate
 **Glomerular Filtration Rate** is:
   * The volume of *plasma* filtered by the glomerulus each minute  
-  Normal renal *blood* flow is 1.1 L.min<sup>-1</sup>, however renal *plasma* flow is less at 600 ml.min<sup>-1</sup> for a normal haematocrit. Therefore, the normal filtration fraction (proportion of renal blood flow which is filtered) is ~20%.
+  Normal renal *blood* flow is 1.1 L.min<sup>-1</sup>, however renal *plasma* flow is less (600 ml.min<sup>-1</sup> for a normal haematocrit). Therefore, the normal filtration fraction (proportion of renal blood flow which is filtered) is ~20%.
   * Typically **125ml.min<sup>-1</sup>**  
-    * Decreases with age (partially due to loss of nephron number). 
+    * Decreases with age (partially due to loss of nephron number)
 
 GFR can be expressed as the **product** of **Net Filtration Pressure** and the combination of membrane permeability and membrane surface area, designated **K<sub>f</sub>** (the filtration coefficient):
 
 $$GFR = NFP \times K_f $$
 
-* **Net Filtration Pressure** is given by opposing **Starling Forces** across the glomerular membrane, with an **average capillary NFP of ~17mmHg**:
+* **Net Filtration Pressure** is given by opposing **Starling Forces** across the glomerular membrane:
     $$NFP = P_{Glomerular \ Hydrostatic} - P_{Bowman's \ Hydrostatic} -P_{Glomerular \ Oncotic}$$  
     As protein is not filtered in normal states, the oncotic pressure in Bowman's Space is usually assumed to be 0mmHg.
+    * The average capillary NFP is ~17mmHg
     * **Hydrostatic pressure**  
     Determined by renal blood flow and the relative constriction of the **afferent** and **efferent** arterioles. Hydrostatic pressure **decreases along the capillary**.
     Affected by:
@@ -46,9 +47,9 @@ Overall permeability is:
       * **Capillary endothelium**
       * **Basement membrane**  
       **Negatively charged** molecules have **reduced filtration** as the basement membrane is also negatively charged which opposes movement out of the capillary.  
-      * **Foot processes** of podocytes
+      * **Foot processes** of podocytes  
       Molecules **less** than **7000 Dalton** are **freely filtered**, whilst larger molecules are filtered less.
-    * Membrane Surface Area
+    * Membrane Surface Area  
       Typically very high for water and solutes. 
     * Affected by:
       * Glomerulonephritis
@@ -62,16 +63,24 @@ The proximal tubule reaborbs 60% of glomerular filtrate. It **reabsorbs basicall
 
 
 ###Loop of Henle
-The loop of Henle consists of a **thin descending limb** and a **thick ascending limb**. The descending limb reabsorbs water only. The thick ascending limb reaborbs common ions (Na<sup>+</sup>, K<sup>+</sup>, Cl<sup>-</sup>) and HCO<sub>3</sub><sup>-</sup>, and excretes H<sup>+</sup>. The function of the loop is to concentrate urine in states of water deprivation, which it does via the countercurrent mechanism.
+The loop of Henle consists of a **thin descending limb** and a **thick ascending limb**;
+* The descending limb reabsorbs water only
+* The thick ascending limbL
+  * Reabsorbs common ions (Na<sup>+</sup>, K<sup>+</sup>, Cl<sup>-</sup>) and HCO<sub>3</sub><sup>-</sup>
+  * Excretes H<sup>+</sup>
+* The function of the loop is to concentrate urine in states of water deprivation  
+This is done via the countercurrent mechanism.
 
 ####Countercurrent Multiplier
-The countercurrent concentrating system is a formed from the loop of Henle and collecting ducts, and is driven entirely by the removal of NaCl from the ascending limb. The process of countercurrent concentration is most easily understood in stages:
-* NaCl is actively transported out of the thick ascending limb, increasing interstitial osmolality *at that level*.
-* Increased interstitial osmolality results in water reabsorption from the descending limb, increasing tubular osmolality *at that level*.
-* This more concentrated tubular fluid then flows to a deeper, more concentrated level, and more water is reabsorbed.
-* The effect is progressive concentration of tubular and interstitial fluid, but with a low and stable energy cost as the relative gradients that the transport pumps must work against are small.
-
-The end result is a dilute urine leaving the ascending limb, but a highly concentrated medullary interstitium.
+The countercurrent concentrating system is:
+* Formed from the loop of Henle and collecting ducts
+* Driven entirely by the removal of NaCl from the ascending limb
+* Most easily understood in stages:
+  * NaCl is actively transported out of the thick ascending limb, increasing interstitial osmolality *at that level*
+  * Increased interstitial osmolality results in water reabsorption from the descending limb, increasing tubular osmolality *at that level*
+  * This more concentrated tubular fluid then flows to a deeper, more concentrated level, and more water is reabsorbed
+  * The effect is progressive concentration of tubular and interstitial fluid, but with a low and stable energy cost as the relative gradients that each transport pump works against is small
+  * The end result is a dilute urine leaving the ascending limb, but a highly concentrated medullary interstitium
 
 ####Countercurrent Exchange
 The **vasa recta** are peritubular capillaries that:
@@ -80,7 +89,8 @@ The **vasa recta** are peritubular capillaries that:
 * Have typically low blood flow  
 This prevents "washout" of the countercurrent multiplier, as the slow blood flow allows solute concentrations to equalise at each level of the loop.
   * In hypovolaemic situations, renal blood flow falls and vasa recta flow decreases, further reducing washout
-  * When renal blood flow is high, vasa recta flow increases. This washes out part of the medullary concentration gradient and reduces the concentrating ability of the kidney.
+  * When renal blood flow is high, vasa recta flow increases  
+  This washes out part of the medullary concentration gradient and reduces the concentrating ability of the kidney.
 
 ###Distal tubules
 Fluid entering the distal tubule has about **one-third** the **osmolarity** of plasma. The distal tubule:
@@ -97,9 +107,7 @@ Fluid entering the distal tubule has about **one-third** the **osmolarity** of p
 
 ---
 ##References
-Power and Kam
-
-Comprehensive Human Physiology
-
-CICM March/May 2010
+1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+2. Greger R, Windhorst U. Comprehensive Human Physiology: From Cellular Mechanisms to Integration. Springer-Verlag Berlin Heidelberg. 1996. 
+3. CICM March/May 2010
 
