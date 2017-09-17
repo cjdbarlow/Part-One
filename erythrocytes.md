@@ -2,7 +2,8 @@
 > Outline the physiological production of blood and its constituents
 
 Erythrocytes:
-* Are **7.5μm diameter** (2um thick)
+* Are **7.5μm** in **diameter**  
+* Are 2um thick
 * Have a lifespan of **120 days**
 * Have:
     * No nucleus  
@@ -18,19 +19,10 @@ This maximises surface area (optimising gas transfer) and makes the cells flexib
     * Acid-Base balance
     * Metabolism of some drugs
 * Carry ~29pg of haemoglobin
-* Make up 40-50% of blood volume
+* Comprise 40-50% of blood volume
 
 ##Production
-Erythrocytes have a **myeloid progenitor** which differentiates into the myeloid line.
-* Erythrogenesis is stimulated by EPO  
-In the adult, EPO is released from the:
-  * 85% peritubular capillary fibroblasts
-  * 15% in the liver
-* EPO is released in response to:
-    * Hypoxia
-    * Hypotension
-    * Low Hct
-* EPO stimulates myeloid progenitor cells to:
+Erythrocytes have a **myeloid progenitor** which differentiates into the myeloid line. EPO (see [endorcrine functions of the kidney](endocrine_functions_of_the_kidney.md#epo) stimulates myeloid progenitor cells to:
   * Differentiate
   * Proliferate
 
