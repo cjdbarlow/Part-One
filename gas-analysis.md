@@ -13,7 +13,7 @@ This means it is attracted by magnetic fields, but does not propagate the field.
 * Many other gases weakly repelled by magnetic fields (diamagnetic)
 
 * The attaction of a gas mixture to a magnetic field is therefore proportional to its oxygen content
-* Many different methods exist use this property to determine oxygen content
+* Many different methods exist which use this property to determine oxygen content
 
 ###Pressure Method
 * Gas tested flows into a tube
@@ -32,6 +32,7 @@ Used in many modern devices.
 * Gas flows through a magnetic field, causing the particles to align  
 This changes the thermal conductivity of the oxygen molecules.
 * The change in thermal conductivity of the gas mixture is proportional to the oxygen content
+* This is detected by measuring current passing through a heated wire
 
 ###Pros
 * Accurate
