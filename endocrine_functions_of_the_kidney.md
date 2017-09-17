@@ -18,16 +18,17 @@ The RAAS is a signaling pathway involved in blood pressure control. It involves 
      * Various inflammatory proteins
 
 
-* **Renin** is a protease produced by the kidneys in response to β<sub>1</sub> stimulation or hypotension, and exists to **cleave angiotensinogen** to **angiotensin I**.
+* **Renin** is a protease produced by the kidneys in response to β<sub>1</sub> stimulation or hypotension, and exists to **cleave angiotensinogen** to **angiotensin I**
 
-* **ACE** cleaves angiotensin I to angiotensin II, and also cleaves bradykinin into inactive metabolites.
+* **ACE** cleaves angiotensin I to angiotensin II, and also cleaves bradykinin into inactive metabolites
 
 
 * **Angiotensin II** increases blood pressure via a number of mechanisms:
     * Simulates **aldosterone release** from the renal cortex, increasing sodium and water retention
     * **Vasoconstriction of efferent greater than the afferent arterioles**  
     Results in relative preservation of GFR at a reduced renal blood flow.  
-        * NB: Different sources quote different changes (increase or decrease) in GFR.
+        * NB: Different sources quote different changes (increase or decrease) in GFR  
+        The final effect may vary depending on the contribution of other autoregulatory processes.
     * **Reduces K<sub>f</sub>** through constriction of glomerular mesangial cells
     * Increased SNS activity and **central and peripheral vasoconstriction**
     * **Increases thirst** via hypothalamic stimulation
@@ -52,5 +53,5 @@ In adults, 85% of EPO comes from interstital cells in the perihilar capillaries 
 
 ---
 ##References
-Ganong
-Power and Kam
+1. Barrett KE, Barman SM, Boitano S, Brooks HL. Ganong's Review of Medical Physiology. 24th Ed. McGraw Hill. 2012.
+2. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
