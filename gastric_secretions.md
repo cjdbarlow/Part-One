@@ -61,47 +61,79 @@ For protection prior to vomiting.
 * **Antibacterial**
 
 ##Gastric Secretions
-The stomach produces **~2L** of secretions **per day**.
-###Acid Secretion
-**Parietal cells** contain an H<sup>+</sup>-K<sup>+</sup> exchange pump which facilitates acid release in response to increased levels of intracellular Ca<sup>2+</sup> from stimulation by **ACh**, **histamine** (H<sub>2</sub>), or **gastrin**. Secretion is inhibited by low gastric pH and somtostatin.
+The stomach produces **~2L** of secretions **per day**:
+* **Acid secretion**  
+**Parietal cells** contain an H<sup>+</sup>-K<sup>+</sup> exchange pump.
+    * H<sup>+</sup> is produced by carbonic anhydrase on CO<sub>2</sub> and water, with 'waste' HCO<sub>3</sub><sup>-</sup> removed from the cell in exchange for Cl<sup>-</sup>.
+        * High levels of acid production result in large amounts of bicarbonate being secreted into blood
+            * This creates an **alkaline tide** as portal venous pH increases dramatically
+            * Respiratory quotient of the stomach may become negative due to **consumption of CO<sub>2</sub>
+    * This pump is activated in response to increased levels of intracellular Ca<sup>2+</sup> from stimulation by:
+        * **ACh**
+        * **Histamine** (H<sub>2</sub>)
+        * **Gastrin**
+    * Inhibited by:
+        * Low gastric pH
+        * Somatostatin
 
-The supply of H<sup>+</sup> is due to the action of carbonic anhydrase on CO<sub>2</sub> and water, with 'waste' HCO<sub>3</sub><sup>-</sup> removed from the cell in exchange for Cl<sup>-</sup>.
 
-###Gastrin
-Gastin is a peptide family secreted from antral **G cells** predominantly in response to neural stimulation in the cephalic phase of digestion. Release is also stimulated by protein and amino acids in the stomach, alcohol, and caffeine. Secretion is inhibited by low pH, secretin, and glucagon. Gastrin has a number of pro-digestive effects:
-* Stimulates gastric acid secretion
-* Stimulates pancreatic secretion
-* Stimulates biliary secretion
-* Increases gastric and intestinal motility
+* **Gastric**  
+Gastin is a peptide family secreted from antral **G cells**.
+    * Secretion is stimulated by:
+        * Neural (vagal) stimulation in the cephalic phase of digestion  
+        Main mechanism.
+        * Protein and amino acids in the stomach
+        * Drugs  
+            * Alcohol
+            * Caffeine
+    * Secretion is inhibited by:
+        * Low pH
+        * Secretin
+        * Glucagon
+    * Gastrin has a number of pro-digestive effects:
+        * Stimulates gastric acid secretion
+        * Stimulates pancreatic secretion
+        * Stimulates biliary secretion
+        * Increases gastric and intestinal motility
 
-###Pepsinogens
-**Chief cells** secrete pepsinogen I and is released by ACh or β stimulation. It is cleaved to pepsin in the gastric lumen, and breaks down protein.
+* **Pepsinogens**  
+**Chief cells** secrete pepsinogen I and is released by ACh or β stimulation. Pepsinogen is cleaved to pepsin in the gastric lumen, and breaks down protein.
 
-###Intrinsic Factor
+* **Intrinsic Factor**  
 **Parietal cells** produce intrinsic factor, which forms a complex with B<sub>12</sub> which facilitates its later absorption in the terminal ileum.
 
-###Mucous
+* **Mucous**  
 **Neck cells** produce mucopolysaccharide, glycoprotein, and HCO<sub>3</sub><sup>-</sup> in response to stimulus by prostaglandins, which protects mucosa and lubricates food.
 
-##Pancreatic Secretions
-Exocrine pancreatic secretions are produced by the **acinar** and **ductal cells**, at the rate of **1.5L per day**. Release is stimulated by CCK, secretin, and ACh (via vagal stimulation).
-
-They consist of:
-* HCO<sub>3</sub><sup>-</sup>  
- To alkalinise gastric contents
-* Water
-* Enzymes
-    * Trypsinogen   
-      Proteolysis
-    * Amylase  
-      Hydrolysis of glycogen, starch, and complex carbohydrate
-    * Lipase  
-      Hydrolysis of dietary triglycerides
+* **Pancreatic Secretions**  
+Exocrine pancreatic secretions are produced by the **acinar** and **ductal cells**, at the rate of **1.5L per day**.
+    * Release is stimulated by:
+        * CCK
+        * Secretin
+        * ACh  
+        Via vagal stimulation.
+    * Consist of:
+        * HCO<sub>3</sub><sup>-</sup>  
+         To alkalinise gastric contents.
+             * Pancreatic bicarbonate production lowers venous pH, and neutralises the alkaline tide of the stomach.
+        * Water
+        * Enzymes
+            * Trypsinogen   
+              Proteolysis.
+            * Amylase  
+              Hydrolysis of glycogen, starch, and complex carbohydrate.
+            * Lipase  
+              Hydrolysis of dietary triglycerides.
 
 ##Endocrine Function
-* Cholecystokinin (**CCK**) is a peptide family secreted by pancreatic **acinar cells** which stimulates the gallbladder, duodenal secretions, and regulate satiety and leptin release from fat.
-* Secretin is released by the proximal duodenum in response to low pH, and stimulates pancreatic release.
-* Motilin is released **cyclically** from M cells in the small bowel and stimulates the migrating motor complex.
+* Cholecystokinin (**CCK**) is a peptide family secreted by pancreatic **acinar cells**. Cholecystokinine:
+    * Regulates satiety
+    * Regulates leptin release from fat
+    * Stimulates secretions from the gallbladder and duodenum 
+* Secretin stimulates pancreatic release. Secretin is:
+    * Released by the proximal duodenum in response to low pH
+* Motilin stimulates the migrating motor complex. Motilin is:
+    * Released **cyclically** from M cells in the small bowel
 
 ---
 ##References
