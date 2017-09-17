@@ -71,15 +71,18 @@ Measures of variability describe the degree of dispersion around the central val
 
 
 ###Variance and Standard Deviation
-**Variance** is a better measure of variability than the above methods. It evaluates how far each observation is from the mean, and penalises observations more the further they lie from the mean. It **sums the squares** of each difference and divides by the number of observations i.e:
-
+**Variance** is a better measure of variability than the above methods. Variance:
+* Evaluates how far each observation is from the mean, and penalises observations more the further they lie from the mean
+* **Sums the squares** of each difference and divides by the number of observations i.e:  
 $$ s^2 = {\sum(x - \bar{x})^2 \over n - 1}$$
-
-$$n-1$$ is used (instead of $$n$$) because the mean of the sample is known and therefore the last observation calculated must taken on a known quantity. This is known as a **degrees of freedom**, which is a mathematical restriction used when using one statistical test in order to estimate another. It is a confusing topic best illustrated with an example.
-
-You have been given a sample of two observations (say, ages of two individuals), and you know nothing about them. The degrees of freedom is **two**, since those observations can take on any value.
-
-Alternatively, imagine you have been given the same sample, but this time I tell you that the mean age of the sample is 20. The degrees of freedom is **one**, since if I tell you the value of one of the observations is 30, you know that the other must be 10. Therefore, only one of the observations is free to vary - as soon as its value is known then the value of the other observation is known as well.
+  * $$n-1$$ is used (instead of $$n$$) because the mean of the sample is known and therefore the last observation calculated must taken on a known quantity  
+    * This is known as a **degrees of freedom**, which is a mathematical restriction used when using one statistical test in order to estimate another
+    * It is a confusing topic best illustrated with an example:
+      * You have been given a sample of two observations (say, ages of two individuals), and you know nothing about them
+      * The degrees of freedom is **two**, since those observations can take on any value.
+      * Alternatively, imagine you have been given the same sample, but this time I tell you that the mean age of the sample is 20
+      * The degrees of freedom is **one**, since if I tell you the value of one of the observations is 30, you know that the other must be 10  
+      Therefore, only one of the observations is free to vary - as soon as its value is known then the value of the other observation is known as well.
 
 Different statistical tests may result in additional losses in degrees of freedom.
 
