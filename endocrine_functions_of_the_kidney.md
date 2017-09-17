@@ -46,9 +46,16 @@ Vitamin D has a complex metabolic pathway which meanders through a number of org
 * Vitamin D<sub>3</sub> is then hydrolysed in the liver by CYP450 enzymes to form 25-hydroxycholecalciferol (25-OHD<sub>3</sub>)
 * 25-OHD<sub>3</sub> is then converted in the proximal tubule to calcitriol - the active form
 
-##Erythropoietin
+##Erythropoietin {#epo}
 Erythropoiesis is stimulated EPO release:
-* In adults, 85% of EPO comes from interstital cells in the perihilar capillaries of the kidneys (the remainder is from the liver)  
+* In adults, EPO is released from the:
+  * Peritubular capillary fibroblasts (85%)
+  * Liver (15%)
+* EPO is released in response to:
+    * Hypoxia
+    * Hypotension
+    * Low Hct
+
 Production of EPO is decreased in renal failure, which is why patients with end-stage renal disease require exogenous EPO.
 * Erythropoiesis is stimulated by:
     * Hypoxia
