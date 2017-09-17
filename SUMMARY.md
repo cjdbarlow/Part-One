@@ -335,5 +335,4 @@
 * [Graphs](graphs.md)
 * [Structures for SAQs](frameworks_for_classification.md)
 * [References](references.md)
-* [Abbreviations](abbreviations.md)
 
