@@ -24,4 +24,4 @@ Reduced specific gravity results in a proportional reduction in  Reynolds Number
 
 ---
 ##References
-RAH Advanced Diving Medicine: Chapter 6 Oxygen and Carbon Dioxide Toxicity
+1. RAH Advanced Diving Medicine Course Notes: Chapter 6 Oxygen and Carbon Dioxide Toxicity
