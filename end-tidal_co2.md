@@ -77,7 +77,7 @@ The normal trace consists of four components:
 1. The **baseline**  
 This consists of:
     * Inspiratory time
-    * Early **dead-space exhalation**
+    * Early **dead-space exhalation**  
     This is the period immediately before phase 2, where some gas with a PCO<sub>2</sub> of **0** is exhaled.
 2. **Alveolar exhalation**, where PCO<sub>2</sub> **rises rapidly**
 3. **Alveolar plateau**, where PCO<sub>2</sub> **flattens**  
@@ -107,7 +107,7 @@ Normal E<sub>T</sub>CO<sub>2</sub> is 32-42 mmHg, whilst normal PaCO<sub>2</sub>
 This may be from:
 * Decreased ventilation
     * Decreased RR
-    * Decreased TV
+    * Decreased V<sub>T</sub>
     * Increased V<sub>D</sub> and therefore a greater V<sub>D</sub>:V<sub>T</sub> ratio
 * Increased production of CO<sub>2</sub>
     * Increased metabolic rate
@@ -129,7 +129,7 @@ This may be from:
     * Shock
 
 #####Gradual Loss of E<sub>T</sub>CO<sub>2</sub>
-* Increased V<sub>Alv</sub> (i.e. increased MV)
+* Increased V<sub>A</sub> (i.e. increased MV)
 * Decreased CO<sub>2</sub> production
     * Hypometabolic state
         * Hypothermia
@@ -153,6 +153,6 @@ Litmus paper which changes colour when exposed to hydrogen ions (produced by CO<
 
 
 ##References
-Cross & Plunket
-Davis & Kenny
-Dr. Podcast - Capnography
+1. Cross ME, Plunkett EVE. Physics, Pharmacology, and Physiology for Anaesthetists: Key Concepts for the FRCA. 2nd Ed. Cambridge University Press. 2014.
+2. Davis PD, Kenny D. Basic Physics and Measurement in Anaesthesia. 5th Ed. Elsevier. 2003.
+3. Leslie RA, Johnson EK, Goodwin APL. Dr Podcast Scripts for the Primary FRCA. Cambridge University Press. 2011.
