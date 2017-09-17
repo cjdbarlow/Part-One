@@ -62,6 +62,6 @@ This arrangement:
 1. CICM March/May 2013
 2. Leslie RA, Johnson EK, Goodwin APL. Dr Podcast Scripts for the Primary FRCA. Cambridge University Press. 2011.
 3. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
-4. Kogire M, Inoue K, Sumi S, Doi R, Yun M, Kaji H, Tobe T. [Effects of gastric
+4. Kogire M, Inoue K, Sumi S, Doi R, Yun M, Kaji H, Tobe T. [Effects of gastric 
 inhibitory polypeptide and glucagon on portal venous and hepatic arterial flow in
 conscious dogs](https://www.ncbi.nlm.nih.gov/pubmed/1425064). Dig Dis Sci. 1992 Nov;37(11):1666-70.
