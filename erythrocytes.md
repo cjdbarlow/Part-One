@@ -59,22 +59,22 @@ Old red cells are removed from circulation via:
 * Globin  
 Broken down into constituent amino acids.
 * Iron  
-Re-enters haemoglobin synthetic pathways.
+Re-enters haemoglobin synthetic pathway.
 * Haeme  
 Complex metabolic pathway, notable as it is the only metabolic process that produces **carbon monoxide**:
-* Metabolised to **biliverdin** by splenic macrophages in the reticuloendothelial system of the **spleen**
-    * Circulating erythrocytes are phagocytosed by splenic macrophages
-    * Haptoglobin binds circulating Hb, the Hb-Haptoglobin complex is then phagocytosed by splenic macrophages
-* **Biliverdin** is reduced **to unconjugated bilirubin**  
+    * Metabolised to **biliverdin** by splenic macrophages in the reticuloendothelial system of the **spleen**
+        * Circulating erythrocytes are phagocytosed by splenic macrophages
+        * Haptoglobin binds circulating Hb, the Hb-Haptoglobin complex is then phagocytosed by splenic macrophages
+    * **Biliverdin** is reduced **to unconjugated bilirubin**  
 This is fat soluble, and binds to albumin.
-* **Unconjugated bilirubin** is conjugated in the liver to **conjugated bilirubin**
-* **Conjugated bilirubin** is **secreted in bile** by active transport  
-This is impaired during hepatic disease, leading to increased bilirubin levels in plasma.
-* Secreted **conjugated bilirubin** is metabolised **to urobilinogen** by gut bacteria
-* **Urobilinogen** may have a number of fates:
-    * Enterohepatic recirculation and elimination in bile (again)
-    * Further metabolism by gut bacteria to **stercobilinogen** and then to **sterobilin**
-    * Enterohepatic recirculation and urinary excretion, where it is oxidised to **urobilin**
+    * **Unconjugated bilirubin** is conjugated in the liver to **conjugated bilirubin**
+    * **Conjugated bilirubin** is **secreted in bile** by active transport  
+    This is impaired during hepatic disease, leading to increased bilirubin levels in plasma.
+    * Secreted **conjugated bilirubin** is metabolised **to urobilinogen** by gut bacteria
+    * **Urobilinogen** may have a number of fates:
+        * Enterohepatic recirculation and elimination in bile (again)
+        * Further metabolism by gut bacteria to **stercobilinogen** and then to **sterobilin**
+        * Enterohepatic recirculation and urinary excretion, where it is oxidised to **urobilin**
 
 
 ####In Disease

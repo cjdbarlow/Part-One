@@ -5,17 +5,19 @@
 * **Methanol**
 * **Ethylene Glycol**
 
-* In toxicity:
-  * All present with symptoms of alcohol intoxication
-  * All contribute to the osmolar gap
-  * Different toxicities occur due to the different metabolites
+In toxicity:
+* All present with symptoms of alcohol intoxication
+* All contribute to the osmolar gap
+* Different toxicities occur due to the different metabolites
 
 ##Ethanol
-Ethanol is a weak alcohol with a complicated mechanism of action, which is similar to volatile anaesthetic agents:
-* Enhanced GABA-mediated inhibition (**reversible with flumazenil**)
+Ethanol is a weak alcohol with a complicated mechanism of action similar to volatile anaesthetic agents:
+* Enhanced GABA-mediated inhibition  
+This is **reversible with flumazenil**.
 * Inhibition of Ca<sup>2+</sup> entry
 * Inhibition of NMDA function
 * Inhibition of adenosine transport
+
 
 |Property|Drug
 |--|--|
@@ -36,7 +38,8 @@ Ethanol is a weak alcohol with a complicated mechanism of action, which is simil
 
 ##Methanol
 * Metabolised by alcohol dehydrogenase to formaldehyde and then formic acid
-* Formic acid is neurotoxic (retina, optic nerve)
+* Formic acid is neurotoxic  
+Damages retina and the optic nerve.
 
 ##Ethylene Glycol
 * Metabolised by alcohol dehydrogenase to glycoaldehyde, and (via several intermediate steps) to oxalic acid
@@ -49,6 +52,7 @@ Ethanol is a weak alcohol with a complicated mechanism of action, which is simil
 
 ---
 ##References
-Rang and Dale
-https://www.ncbi.nlm.nih.gov/pubmed/3319346
-http://lifeinthefastlane.com/toxic-alcohol-ingestion/
+1. Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.
+2. Holford NH. [Clinical pharmacokinetics of ethanol](https://www.ncbi.nlm.nih.gov/pubmed/3319346). Clin Pharmacokinet. 1987
+Nov;13(5):273-92.
+3. [LITFL- Toxic Alcohol Ingestion](http://lifeinthefastlane.com/toxic-alcohol-ingestion/)
