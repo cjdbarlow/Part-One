@@ -2,11 +2,11 @@
 
 Helium is an inert gas which is used to reduce the specific gravity of inhaled gas mixtures. It is typically provided as a 0.79/0.21 Helium-Oxygen (Heliox) mixture (though other dilutions exist).
 
-||Helium|Heliox|Oxygen|
+||Helium|Heliox (0.79/0.21)|Oxygen|
 |--|
 |**Specific Gravity** (as compared to air)|0.18|0.34|1.09|
 
-Reduced specific gravity results in a proportional reduction in  Reynolds Number, improving laminar flow within the airways.
+Reduced specific gravity results in a proportional reduction in Reynolds Number, improving laminar flow within the airways.
 
 |Property|Action|
 |--|--|
