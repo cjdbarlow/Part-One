@@ -11,7 +11,8 @@ The normal distribution is common in medicine for two reasons.
 * Much of the variation in biology follows a normal distribution
 * When multiple random samples are taken from a population, the **mean of these samples follows a normal distribution**, even if the characteristic being measured is not normally distributed. This is known as the **central limit theorem**. It is useful because many statistical tests are only valid when the data follow a normal distribution.
 
-![Normal distribution and scales". Licensed under Public Domain via Wikimedia Commons - https://commons.wikimedia.org/wiki/File:Normal_distribution_and_scales.gif#/media/File:Normal_distribution_and_scales.gif](http://i.imgur.com/8PLW7XQ.gif)
+<object data="resources\normaldist.svg" type="image/svg+xml"></object>
+
 
 The formula for the normal distribution is given by:
 
