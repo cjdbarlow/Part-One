@@ -105,4 +105,4 @@ They consist of:
 
 ---
 ##References
-Power and Kam
+1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
