@@ -1,5 +1,0 @@
-#Indirect Muscarinic Stimulants
-
-
-
-##References

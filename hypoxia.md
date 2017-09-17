@@ -2,7 +2,7 @@
 > Explain the physiological effects of hyperoxia, **hypoxaemia**, hypercapnia, hypocapnia, and carbon monoxide poisoning.
 
 * **Hypoxaemia** is a low partial pressure of oxygen in blood
-* **Hypoxia** is a oxygen deficiency at the **tissues**, due to:
+* **Hypoxia** is an oxygen deficiency at the **tissues**, due to:
   * Impaired **oxygen delivery**
   * Impaired **oxygen extraction**
  
@@ -44,7 +44,7 @@ Hypoxaemia occurs at high altitudes when the PO<sub>2</sub> is decreased.
 A fall in alveolar ventilation ($$ \dot{V_A} = Respiratory \ Rate \times (V_T - V_D)$$ ) causes a rise in PACO<sub>2</sub>, and therefore decreases PAO<sub>2</sub>. Decreased V<sub>A</sub> can occur with:  
 * Respiratory centre depression:
     * Drugs
-    * Head injury (CHI, raised ICP)S
+    * Head injury (Raised ICP, closed head injury)
     * Encephalopathy
     * Fatigue
 * Nerve dysfunction:
@@ -77,15 +77,16 @@ Shunt occurs when **blood reaches the systemic circulation without being oxygena
   * Oxygen content of shunted alveoli is identical to mixed venous content
   * Oxygen content of non-shunted alveoli does not increase appreciably at high partial partial pressures as haemoglobin is already fully saturated
 
-SEE SHUNT FOR MORE
+Shunt physiology is explored in more detail under [shunt](shunt.md).
 
 ####Increased Oxygen Extraction
 * Increased oxygen extraction (VO<sub>2</sub>) will not typically cause hypoxia
 * This is because:
   * Normal VO<sub>2</sub> is 250ml.min<sup>-1</sup>
   * Normal DO<sub>2</sub> is 1L.min<sup>-1</sup>  
-  Maximal oxygen extraction ratio is ~70% (though it varies between organs). Therefore VO<sub>2</sub can increase until it reaches 70% of the DO<sub>2</sub>, called critical DO<sub>2</sub>.
- * However, it may worsen hypoxia from supply-side (DO<sub>2</sub>) pathologies
+  * Maximal oxygen extraction ratio is ~70% (though it varies between organs)  
+  Therefore VO<sub>2</sub> can increase until it reaches 70% of the DO<sub>2</sub>, a point called critical DO<sub>2</sub>.
+* However, it may worsen hypoxia in the presence of a supply-side (DO<sub>2</sub>) pathology
 
 ###Anaemic Hypoxia
 * Impaired oxygen delivery due to low Hb
@@ -127,7 +128,7 @@ SEE SHUNT FOR MORE
 
 ---
 ##References
-Ganong
-Wests
-CIMC 2007 July September
-ICU BASIC
+1. West J. Respiratory Physiology: The Essentials. 9th Edition. Lippincott Williams and Wilkins. 2011.
+2. Barrett KE, Barman SM, Boitano S, Brooks HL. Ganong's Review of Medical Physiology. 24th Ed. McGraw Hill. 2012.
+3. CICM July/September 2007
+4. ICU Basic Book.
