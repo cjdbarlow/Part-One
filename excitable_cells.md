@@ -104,9 +104,21 @@ Cell is stable at resting membrane potential.
 
 
 ###Propagation of the Action Potential
-An increase in Na<sup>+</sup> in one region will diffuse down the cell, raising the membrane potential above the resting potential in the adjacent membrane. This causes these fast Na<sup>+</sup> channels to open, resulting in a propagating wave of depolarisation and repolarisation.
+* An increase in Na<sup>+</sup> in one region will diffuse down the cell, raising the membrane potential above the resting potential in the adjacent membrane
+* This causes local fast Na<sup>+</sup> channels to open, and the cell depolarises
+* This results in a propagating wave of depolarisation and repolarisation
 
-Regions of a nerve cell covered by a myelin sheath do not have ion channels. In these cells, propagation is **saltatory**, as the action potential jumps between gaps in the myelin known as **nodes of Ranvier**. At these nodes, ion channels generate an action potential in the usual manner, whilst between nodes conduction is via local electrical currents. Myelination **increases conducting velocity**, **reduces energy expenditure** by reducing total ion flux.
+
+* Regions of a nerve cell covered by a myelin sheath do not have ion channels
+* In these cells, propagation is **saltatory**  
+This describes the "jumping" of the action potential between gaps in the myelin sheath.
+    * These gaps are known as **nodes of Ranvier**  
+    Ion channels generate an action potential at the nodes in the usual manner.
+    * Between nodes, conduction is via local electrical currents 
+* Myelination:
+    * **Increases conducting velocity**
+    * **Reduces energy expenditure**  
+    Via reduction in total ion flux.
 
 ###Classification of Nerve Fibres
 Classified on their diameter and conduction velocity:
