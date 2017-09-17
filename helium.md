@@ -1,6 +1,6 @@
 # Helium
 
-Helium is an inert gas which is used to reduce the specific gravity of inhaled gas mixtures. It is typically provided as a 0.79/0.21 Helium-Oxygen (Heliox) mixture.
+Helium is an inert gas which is used to reduce the specific gravity of inhaled gas mixtures. It is typically provided as a 0.79/0.21 Helium-Oxygen (Heliox) mixture (though other dilutions exist).
 
 ||Helium|Heliox|Oxygen|
 |--|
