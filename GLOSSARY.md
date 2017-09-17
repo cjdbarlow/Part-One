@@ -18,13 +18,19 @@ Basal Metabolic Rate
 Citric Acid Cycle
 
 ##CBF
-Cerebral Blood Flow
+Cerebral/Coronary Blood Flow
+
+##CMRO2
+Cerebral Metabolic Rate for Oxygen
 
 ##COX
 Cyclo-Oxygenase
 
 ##CSF
 Cerebrospinal Fluid
+
+##CPP
+Cerebral/Coronary Perfusion Pressure
 
 ##CT
 Collecting Duct
@@ -59,11 +65,20 @@ End-Diastolic Pressure
 ##EDV
 End-Diastolic Volume
 
+##EPO
+Erythropoietin
+
 ##ESV
 End-Systolic Volume
 
 ##GFR
 Glomerular Filtration Rate
+
+##GH
+Growth Hormone
+
+##HPA
+Hypothalamic-Pituitary Axis
 
 ##HR
 Heart Rate
@@ -74,11 +89,23 @@ Intracranial Pressure
 ##IVC
 Inferior Vena Cava
 
+##IOP
+Intraocular Pressure
+
+##KOP
+K-type opioid receptor
+
 ##LAD
 Left Anterior Descending
 
 ##LCx
 Left Circumflex
+
+##LVEDP
+Left Ventricular End-Diastolic Pressure
+
+##LVEDV
+Left Ventricular End-Diastolic Volume
 
 ##MSFP
 Mean Systemic Filling Pressure
@@ -101,6 +128,19 @@ Non-Steroidal Anti-Inflammatory Drug
 ##NTS
 Nucleus of the Tractus Solitarius
 
+##NMB
+Neuromuscular Blocker
+
+##NMBD
+Neuromuscular Blocking Drug
+
+##NMJ
+Neuromuscular Junction
+
+##NOP
+N-type Opioid Receptor
+
+
 ##PAC
 Pulmonary Artery Catheter
 
@@ -119,11 +159,23 @@ Platelet-Derived Growth Factor
 ##PCT
 Proximal Convoluted Tubule
 
+##RAP
+Right Atrial Pressure
+
 ##RR
 Respiratory Rate
 
+##RVEDP
+Right Ventricular End-Diastolic Pressure
+
+##RVEDP
+Right Ventricular End-Diastolic Volume
+
 ##SBP
 Systolic Blood Pressure
+
+##STP
+Standard Temperature and Pressure
 
 ##SV
 Stroke Volume

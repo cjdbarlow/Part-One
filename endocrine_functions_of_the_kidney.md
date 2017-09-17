@@ -47,9 +47,16 @@ Vitamin D has a complex metabolic pathway which meanders through a number of org
 * 25-OHD<sub>3</sub> is then converted in the proximal tubule to calcitriol - the active form
 
 ##Erythropoietin
-Erythropoiesis is stimulated by hypoxia, haemorrhage, and low haematocrit, and inhibited by high red cell volume. These adjustments are mediated by erthropoietin.
+Erythropoiesis is stimulated EPO release:
+* In adults, 85% of EPO comes from interstital cells in the perihilar capillaries of the kidneys (the remainder is from the liver)  
+Production of EPO is decreased in renal failure, which is why patients with end-stage renal disease require exogenous EPO.
+* Erythropoiesis is stimulated by:
+    * Hypoxia
+    * Hypovolaemia
+    * Low haematocrit
+* Erythropoiesis is inhibited b
+ high red cell volume. These adjustments are mediated by .
 
-In adults, 85% of EPO comes from interstital cells in the perihilar capillaries of the kidneys (with the remainder from the liver). The production of EPO is decreased in renal failure, which is why patients with ESRD require exogenous EPO.
 
 ---
 ##References
