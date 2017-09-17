@@ -80,16 +80,28 @@ Voltage-gated K<sup>+</sup> channels:
 This increases potassium permeability and reduces membrane potential.
 
 ###Phases of the Action Potential
-1. Rising Phase  
-A stimulus which rises above the threshold potential opens fast Na<sup>+</sup> channels, increasing Na<sup>+</sup> influx. This additional Na<sup>+</sup> has a positive feedback effect, causing additional Na<sup>+</sup> channels to open and further depolarisation driving the membrane potential towards the Nernst equilibrium for Na<sup>+</sup>.
-2. Peak Phase  
-However, inactivation of fast-channels and delayed activation of K<sup>+</sup> channels slows depolarisation, and the membrane potential **peaks** at **30mV**.
-3. Falling Phase  
-As potassium exits the cell, membrane potential continues to fall. Voltage-gated K<sup>+</sup> channels start to close at **-50mV**.
-4. Hyperpolarisation  
-As these channels close slowly, the membrane potential slightly undershoots resting potential, and this causes a slight hyperpolarisation of the cell. This is the **relative refractory period**, where a large enough stimulus may overcome the relative hyperpolarisation and generate a second action potential. It lasts **10-15ms**.
+This describes the peripheral nerve action potential. The heart is covered under the [cardiac action potential](cardiac_action_potential.md).
+1. **Rising Phase** 
+A stimulus which rises above the threshold potential opens fast Na<sup>+</sup> channels, increasing Na<sup>+</sup> influx.
+    * Additional Na<sup>+</sup> has a positive feedback effect, causing additional Na<sup>+</sup> channels to open and further depolarisation
+    * This drives the membrane potential towards the Nernst equilibrium for Na<sup>+</sup>
+2. **Peak Phase ** 
+Inactivation of fast-channels and delayed activation of K<sup>+</sup> channels slows depolarisation.
+    * Membrane potential **peaks** at **30mV**
+3. **Falling Phase**  
+As potassium exits the cell, membrane potential continues to fall.
+    * Voltage-gated K<sup>+</sup> channels start to close at **-50mV**
+    * Inactivation of fast sodium channels defines the **absolute refractory period**  
+    No Na<sup>+</sup> can be conducted, regardless of the intensity of the stimulus, and so an action potential cannot be generated
+        * The absolute refractory perioid lasts **~1ms**
+4. **Hyperpolarisation**  
+As potassium channels close slowly, the membrane potential slightly undershoots resting potential, causing slight hyperpolarisation of the cell.
+    * This is the **relative refractory period**  
+    A large enough stimulus may overcome the additional hyperpolarisation and generate a second action potential.
+        * The relative refractory period lasts **10-15ms**
+5. **Resting**  
+Cell is stable at resting membrane potential.
 
-The **absolute refractory period** occurs when Na<sup>+</sup> channels are in their inactive state. No Na<sup>+</sup> can be conducted, regardless of the intensity of the stimulus, and so an action potential cannot be generated. It lasts **~1ms**.
 
 ###Propagation of the Action Potential
 An increase in Na<sup>+</sup> in one region will diffuse down the cell, raising the membrane potential above the resting potential in the adjacent membrane. This causes these fast Na<sup>+</sup> channels to open, resulting in a propagating wave of depolarisation and repolarisation.
