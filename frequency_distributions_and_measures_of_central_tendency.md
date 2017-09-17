@@ -9,7 +9,9 @@ The normal distribution is a **gaussian distribution**, where the majority of va
 
 The normal distribution is common in medicine for two reasons.
 * Much of the variation in biology follows a normal distribution
-* When multiple random samples are taken from a population, the **mean of these samples follows a normal distribution**, even if the characteristic being measured is not normally distributed. This is known as the **central limit theorem**. It is useful because many statistical tests are only valid when the data follow a normal distribution.
+* When multiple random samples are taken from a population, the **mean of these samples follows a normal distribution, even if the characteristic being measured is not normally distributed**  
+This is known as the **central limit theorem**.
+  * It is useful because many statistical tests are only valid when the data follow a normal distribution
 
 <object data="resources\normaldist.svg" type="image/svg+xml"></object>
 
@@ -18,9 +20,9 @@ The formula for the normal distribution is given by:
 
 $$ f(x) = { 1 \over \sigma \sqrt2 \pi } e^{-(x - \mu )^2 \over 2 \sigma ^ 2} $$
 
-From this, it can bet seen the two values which will determine the shape of the normal distribution are:
-* μ (mu): the mean
-* σ (sigma): the standard deviation
+From this, it can bet seen the two variables which will determine the shape of the normal distribution are:
+* μ (mu): The mean
+* σ (sigma): The standard deviation
 
 #### The Standard Normal Distribution
 The **standard normal distribution** is a normal distribution with a mean of 0 and a standard deviation of 1. The equation for the standard normal distribution is much simpler, which is why it is preferred.
