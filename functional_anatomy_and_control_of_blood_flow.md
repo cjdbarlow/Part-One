@@ -1,10 +1,16 @@
-# Functional Anatomy and Control of Blood Flow {#id}
+# Functional Anatomy and Control of Renal Blood Flow {#id}
 >Describe the functional anatomy of the kidneys and renal blood flow.
 
 ##Functional Anatomy
-The functional unit of the kidney is the **nephron**. Nephrons can be superficial, midcortical, or juxtamedullary, depending on the location of the glomerulus. **Superficial cortical** nephrons have **short loops** of Henle. **Juxtamedullary** nephrons have **long loops**, and the efferent arteriole forms the vasa recta for the kidney. Mid-cortical nephrons may have either long or short loops.
-
-Nephrons are composed of the glomerulus, proximal tubule, loop of Henle, distal tubule, and collecting duct.
+The functional unit of the kidney is the **nephron**. Nephrons:
+* Are composed of the glomerulus, proximal tubule, loop of Henle, distal tubule, and collecting duct
+* Are divided by their location into:
+    * **Superficial cortical** nephrons  
+    Have **short loops** of Henle.
+    * **Juxtamedullary** nephrons  
+    Have **long loops** of Henle, and the efferent arteriole forms the vasa recta for the kidney.
+    * **Mid-cortical nephrons**  
+    May have either long or short loops.
 
 ##Control of Renal Blood flow
 The kidneys receive **22% of cardiac output** at rest, though **extract** only **10% of delivered O<sub>2</sub>**. The **high renal blood flow** exceeds that required for metabolism, and is instead needed **to produce** the large volume of **glomerular filtrate** (125ml/min) required for excretion of waste. Afferent and efferent arterioles are the main resistance vessels which determine blood flow.

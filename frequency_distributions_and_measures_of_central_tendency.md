@@ -83,8 +83,7 @@ $$ s^2 = {\sum(x - \bar{x})^2 \over n - 1}$$
       * Alternatively, imagine you have been given the same sample, but this time I tell you that the mean age of the sample is 20
       * The degrees of freedom is **one**, since if I tell you the value of one of the observations is 30, you know that the other must be 10  
       Therefore, only one of the observations is free to vary - as soon as its value is known then the value of the other observation is known as well.
-
-Different statistical tests may result in additional losses in degrees of freedom.
+    * Different statistical tests may result in additional losses in degrees of freedom.
 
 ####Standard Deviation
 The standard deviation is the **positive square root of the variance**.
@@ -95,29 +94,31 @@ In a sample of normal distribution:
 * 3 SD either side of the mean should include ~99.7% of results
 
 ###Standard error and Confidence Intervals
-**Standard error of the mean** is a measure of the precision of the estimate of the mean. It is calculated from the standard deviation and the sample size. As the sample size grows, the SEM decreases (as the estimate becomes more precise).
-
+**Standard error of the mean** is:
+* A measure of the precision of the estimate of the mean
+* Calculated from the standard deviation and the sample size  
+As the sample size grows, the SEM decreases (as the estimate becomes more precise).
+* Given by the formula:  
 $$ SE = {SD \over \sqrt n } $$
-
-It is used to calculate the **confidence interval**.
+* Used to calculate the **confidence interval**
 
 ####Confidence Interval
-The **confidence interval** gives a range in which the true population parameter is likely to lie. The width of the interval is related to the **standard error**, and the degree of confidence (typically 95%):
-* $$ 95 \% \ CI \ of \  \bar{x} = \bar{x} \pm (1.96 \times  SE) $$
-* $$ 99 \% \ CI \ of \  \bar{x} = \bar{x} \pm (2.58 \times SE) $$
-
-The confidence interval is a function of the sample statistic (in this case the mean - different parameters have different equations), rather than the actual observations. 
-
-The confidence interval has several benefits over the *p*-value:
-* Indicates magnitude of the difference in a meaningful way
-* Indicates the precision of the estimate  
-The smaller the confidence interval, the more precise the estimate.
-* Allows statistical significance to be calculated  
-If the confidence interval crosses 1, then the result is insignificant.
+The **confidence interval**:
+* Gives a range **in which the true population parameter is likely to lie**  
+The width of the interval is related to the **standard error**, and the degree of confidence (typically 95%):
+  * $$ 95 \% \ CI \ of \  \bar{x} = \bar{x} \pm (1.96 \times  SE) $$
+  * $$ 99 \% \ CI \ of \  \bar{x} = \bar{x} \pm (2.58 \times SE) $$
+* Is a function of the sample statistic (in this case the mean), rather than the actual observations
+* Has several benefits over the *p*-value:
+  * Indicates magnitude of the difference in a meaningful way
+  * Indicates the precision of the estimate  
+  The smaller the confidence interval, the more precise the estimate.
+  * Allows statistical significance to be calculated  
+  If the confidence interval crosses 1, then the result is insignificant.
 
 ---
 
 ##References
 1. "Normal distribution". Licensed under Attribution 3.0 Unported (CC BY 3.0) via [SubSurfWiki](http://subsurfwiki.org/mediawiki/index.php?title=File:Normal_distribution.svg&page=1). 
-2. PS Myles, T Gin. Statistical methods for anaesthesia and intensive care. 1st ed. Oxford: Butterworth-Heinemann, 2001  
-[^3]: Course notes from "Introduction to Biostats", University of Sydney, School of Public Health, circa 2013.  
+2. Myles PS, Gin T. Statistical methods for anaesthesia and intensive care. 1st ed. Oxford: Butterworth-Heinemann, 2001  
+3. Course notes from "Introduction to Biostats", University of Sydney, School of Public Health, circa 2013.  
