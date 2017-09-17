@@ -25,7 +25,7 @@ From this, it can bet seen the two variables which will determine the shape of t
 * σ (sigma): The standard deviation
 
 #### The Standard Normal Distribution
-The **standard normal distribution** is a normal distribution with a mean of 0 and a standard deviation of 1. The equation for the standard normal distribution is much simpler, which is why it is preferred.
+The **standard normal distribution** is a normal distribution with a mean of 0 and a standard deviation of 1. The equation for the standard normal distribution is much simpler, which is why it is used.
 
 $$ f(x) = {1 \over \sqrt2 \pi} e ^ {-x^2 \over 2} $$
 
@@ -33,12 +33,11 @@ Any normal distribution can be transformed to fit a standard normal distribution
 
 $$ z = {x - \mu \over SD} $$
 
-The value of z then gives a **standardised score**, i.e. the number of standard deviations form the mean in a standardised curve, which can be then used to determine probability.
+The value of z then gives a **standardised score**, i.e. the number of standard deviations form the mean in a standardised curve. This can then be used to determine probability.
 
 
 ### Binomial distribution
-Where observations belong to one of two mutually exclusive categories, i.e.:
-
+Where observations belong to one of two mutually exclusive categories, i.e.:  
 If $$ P(A) = x $$ then $$ P(B) = 1 - x $$
 
 If the number of observations is very large and the probability of an event is small, a **poisson distribution** can be used to approximate a binomial distribution.
@@ -46,12 +45,14 @@ If the number of observations is very large and the probability of an event is s
 ##Measures of Central Tendency
 As noted above in the **normal distribution**, results tend to cluster around a central value. Quantification of the degree of clustering can be done using **measures of central tendency**, of which there are three:
 
-* **Mode**: The most common value in the sample.
-* **Median**: The middle value when the sample is ranked from lowest to highest.  
-  The median is the best measure of central tendency when the data is **skewed**.
-* **Arithmetic mean**: The average, i.e:
-  $$ \bar{x} = {\sum x \ \over n} $$  
-  The mean is common and reliable, though inaccurate if the distribution is **skewed**.
+* **Mode**  
+The most common value in the sample.
+* **Median**  
+The middle value when the sample is ranked from lowest to highest.
+  * The median is the best measure of central tendency when the data is **skewed**
+* **Arithmetic mean**  
+The average, i.e: $$ \bar{x} = {\sum x \ \over n} $$  
+The mean is common and reliable, though inaccurate if the distribution is **skewed**.
 
 ##Measures of Dispersion
 Measures of variability describe the degree of dispersion around the central value.
@@ -63,7 +64,9 @@ Measures of variability describe the degree of dispersion around the central val
   Better measure of spread than range.
 * **Interquartile range**: The 25th to 75th centile  
   A **box-and-whisker plot** graphically demonstrates the mean, 25th centile, 75th centile, and (usually), the 10th and 90th centiles. Outliers are represented by dots. Occasionally the range is plotted by the whiskers, and there are no outliers plotted.
-  ![A box-and-whisker plot from my kindergarten days](http://i.imgur.com/3noRqC9.png)
+
+<object data="resources\boxplot.svg" type="image/svg+xml"></object>
+
 
 ###Variance and Standard Deviation
 **Variance** is a better measure of variability than the above methods. It evaluates how far each observation is from the mean, and penalises observations more the further they lie from the mean. It **sums the squares** of each difference and divides by the number of observations i.e:
