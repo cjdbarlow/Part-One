@@ -3,10 +3,10 @@
 
 ### What is Evidence-Based Medicine?
 
-* Evidence-based medicine (EBM) is **"the conscientious, explicit, and judicious use and appraisal of current best evidence in making decisions about the care of individual patients."**[^1]
-* The purpose of EBM is to provide a framework for acquiring knowledge and making optimal decisions around medical care. It means integrating **individual clinical expertise with the best available external clinical evidence** from systematic research."[^2]
+* Evidence-based medicine (EBM) is **"the conscientious, explicit, and judicious use and appraisal of current best evidence in making decisions about the care of individual patients."**
+* The purpose of EBM is to provide a framework for acquiring knowledge and making optimal decisions around medical care. It means integrating **individual clinical expertise with the best available external clinical evidence** from systematic research."
 
-There are five stages of EBM [^1]:
+There are five stages of EBM:
 1. Ask an answerable question  
 2. Search
 3. Critically appraise the evidence
@@ -14,7 +14,7 @@ There are five stages of EBM [^1]:
 5. Evaluate the result
 
 ###Levels of Evidence
-Levels of evidence grade studies on liklihood of bias and internal validity. The NHMRC defines 6 levels of evidence, graded from I-IV (with three level III subtypes).[^3]
+Levels of evidence grade studies on liklihood of bias and internal validity. The NHMRC defines 6 levels of evidence, graded from I-IV (with three level III subtypes).
 
 *In general*:
 * Level I is evidence from a **systematic review** of RCTs
@@ -36,7 +36,7 @@ Note that expert opinion is **not** part of NHMRC levels of evidence, though it 
 | IV | Case series with either post-test or pre-test/post-test outcomes | Study of diagnostic yield (no reference standard) | Case series, or cohort study of persons at different stages of disease | A cross-sectional study or case series | Case series |
 
 ###Grades of evidence
-Evidence is graded to "indicate the strength of the body of evidence underpinning a recommendation"[^3] (e.g. in a clinical guideline). The NHMRC grades recommendations from A to D as follows:
+Evidence is graded to "indicate the strength of the body of evidence underpinning a recommendation" (e.g. in a clinical guideline). The NHMRC grades recommendations from A to D as follows:
 
 **A.** Body of evidence can be trusted to guide practice.  
 **B.** Body of evidence can be trusted to guide practice, in most situations.  
@@ -81,8 +81,10 @@ Due to trial design it would be inappropriate to pool the results.
 Where the methods used in different trials are too different to allow pooling of the data.
 
 ####Forest Plots
-Results of meta-analyses are presented in a blobbogram[^5], or more boringly, a **Forest Plot**.
-!["Generic forest plot" by James Grellier - Own work. Licensed under CC BY-SA 3.0 via Commons](https://i.imgur.com/mkjR8px.png) [^6]
+Results of meta-analyses are presented in a blobbogram, or more boringly, a **Forest Plot**.
+
+<object data="resources\forest.svg" type="image/svg+xml"></object>
+
 Where:
 * The **x-axis** plots the odds ratio, remembering that an OR of 1 indicates no difference
 * The **y-axis** lists the studies included, and the overall summary statistic
@@ -114,9 +116,9 @@ Because of these weaknesses, positive meta-analyses should be considered largely
 
 ---
 ##References
- [^1]: Sacket DL, Richardson WS, Rosenberg W, Haynes RB. Evidence-based Medicine: How to practice and teach EBM. Churchill Livingstone, London 1997.  
-[^2]: Sackett David L, Rosenberg William M C, Gray J A Muir, Haynes R Brian, Richardson W Scott. Evidence based medicine: what it is and what it isn't BMJ 1996; 312:71.  
-[^3]: NHMRC. NHMRC additional levels of evidence and grades for recommendations for developers of guidelines. National Health & Medical Research Council, 2009. Available at: https://www.nhmrc.gov.au/_files_nhmrc/file/guidelines/stage_2_consultation_levels_and_grades.pdf/  
-[^4]: PS Myles, T Gin. Statistical methods for anaesthesia and intensive care. 1st ed. Oxford: Butterworth-Heinemann, 2001.   
-[^5]: Lalkhen, AG. "Statistics V: Introduction to clinical trials and systematic reviews". Accessible at: http://ceaccp.oxfordjournals.org/content/8/4/143.full.pdf  
-[^6]: "Generic forest plot" by James Grellier - Own work. Licensed under CC BY-SA 3.0 via Commons - https://commons.wikimedia.org/wiki/File:Generic_forest_plot.png#/media/File:Generic_forest_plot.png
+1. Sacket DL, Richardson WS, Rosenberg W, Haynes RB. Evidence-based Medicine: How to practice and teach EBM. Churchill Livingstone, London 1997.  
+2. Sackett David L, Rosenberg William M C, Gray J A Muir, Haynes R Brian, Richardson W Scott. Evidence based medicine: what it is and what it isn't BMJ 1996; 312:71.  
+3. NHMRC. NHMRC additional levels of evidence and grades for recommendations for developers of guidelines. National Health & Medical Research Council, 2009. Available at: https://www.nhmrc.gov.au/_files_nhmrc/file/guidelines/stage_2_consultation_levels_and_grades.pdf/  
+4. Myles PS, Gin T. Statistical methods for anaesthesia and intensive care. 1st ed. Oxford: Butterworth-Heinemann, 2001.   
+5. Lalkhen, AG. "Statistics V: Introduction to clinical trials and systematic reviews". Accessible at: http://ceaccp.oxfordjournals.org/content/8/4/143.full.pdf  
+6. "Generic forest plot" by James Grellier - Own work. Licensed under CC BY-SA 3.0 via Commons - https://commons.wikimedia.org/wiki/File:Generic_forest_plot.png#/media/File:Generic_forest_plot.png
