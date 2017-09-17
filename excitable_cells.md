@@ -45,20 +45,39 @@ Note that:
 * The concentrations of negative ions are reversed relative to positive ions
 
 ##Action Potential
-Excitable cells can respond to a stimulus by a change in membrane potential. This may happen chemically (ACh receptors causing Na<sup>+</sup> channels to open), or physically (pressure receptors physically deforming and opening Na<sup>+</sup> channels).
+Excitable cells can respond to a stimulus by a changing their membrane potential. This may be mediated:
+* Chemically  
+e.g. ACh receptors causing Na<sup>+</sup> channels to open.
+* Physically  
+Pressure receptors physically deforming and opening Na<sup>+</sup> channels.
 
-Each stimulus will result in an increase in Na<sup>+</sup> permeability and increase (i.e. make less negative) membrane potential. If several stimuli, or a large enough stimuli raise the membrane potential above the **threshold potential**, then an action potential will be generated. This is due to **fast Na<sup>+</sup> channels**, which are known as **voltage-gated** channels as then open at a **membrane potential** of **-55mV**. This creates the **all-or-nothing** response - stimuli below the threshold potential do not generate an action potential, whilst stimuli above it do not affect the magnitude of it - the positive feedback of the fast sodium channels take over.
+
+* Stimulating an excitable cell increases Na<sup>+</sup> permeability  
+This increases (i.e. makes less negative) membrane potential
+* If several stimuli, or a large enough stimuli raises the membrane potential above the **threshold potential**, then an action potential will be generated
+* This is due to **fast Na<sup>+</sup> channels**
+    * Also known as **voltage-gated** Na<sup>+</sup> channels  
+    * Open when **membrane potential** exceeds **threshold potential**  
+    Threshold potential is typically -55mV.
+    * Fast sodium channels generate the **all-or-nothing** response:
+        * Stimuli below the threshold potential do not generate an action potential
+        * Stimuli above threshold potential generate an action potential  
+        The size of the stimulus does not affect the magnitude of the action potential, as this is determined by the fast sodium channels.
 
 ###Key Players in the Action Potential
 Fast Na<sup>+</sup> channels are responsible for depolarisation. They exist in three states:
 * Closed  
 Impermeable to Na<sup>+</sup>.
 * Open  
-Permeable to Na<sup>+</sup>. Occurs when the membrane potential reaches -55mV.
+Permeable to Na<sup>+</sup>. Occurs when the membrane potential reaches threshold potential.
+    * Different voltage-gated channels may have slightly different opening (threshold) potentials  
 * Inactivated  
 Impermeble to Na<sup>+</sup>. Occurs shortly after the open state, and lasts until the membrane potential falls below -50mV.
 
-Voltage-gated K<sup>+</sup> channels are vital for repolarisation. They **open slowly** with depolarisation, increasing potassium permeability and reducing membrane potential.
+Voltage-gated K<sup>+</sup> channels:
+* Are vital for repolarisation
+* **Open slowly** with depolarisation  
+This increases potassium permeability and reduces membrane potential.
 
 ###Phases of the Action Potential
 1. Rising Phase  
