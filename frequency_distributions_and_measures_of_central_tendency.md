@@ -108,6 +108,6 @@ If the confidence interval crosses 1, then the result is insignificant.
 ---
 
 ##References
- [^1]: "Normal distribution and scales". Licensed under Public Domain via Wikimedia Commons - https://commons.wikimedia.org/wiki/File:Normal_distribution_and_scales.gif#/media/File:Normal_distribution_and_scales.gif  
-[^2]: PS Myles, T Gin. Statistical methods for anaesthesia and intensive care. 1st ed. Oxford: Butterworth-Heinemann, 2001  
+1. "Normal distribution". Licensed under Attribution 3.0 Unported (CC BY 3.0) via [SubSurfWiki](http://subsurfwiki.org/mediawiki/index.php?title=File:Normal_distribution.svg&page=1). 
+2. PS Myles, T Gin. Statistical methods for anaesthesia and intensive care. 1st ed. Oxford: Butterworth-Heinemann, 2001  
 [^3]: Course notes from "Introduction to Biostats", University of Sydney, School of Public Health, circa 2013.  
