@@ -31,10 +31,9 @@ Metabolic functions include:
 ###Carbohydrates
 * Monosaccharides and disaccharides passively diffuse into hepatocytes  
 Gradient is maintained by converting glucose to glucose-6-phosphate which is used to produce glycogen. This maintains the gradient for diffusion.
-
-Glycogen is either synthesised (glyconeogenesis) or broken down (glycogenolysis/gluconeogensis) depending on plasma glucose and insulin:
-* Increased blood glucose stimulates insulin release, increasing the formation of glycogen through activation of glycogen synthetase
-* Decreased blood glucose stimulates glycogenolysis and gluconogenesis from amion acids.
+* Glycogen is either synthesised (glyconeogenesis) or broken down (glycogenolysis/gluconeogensis) depending on plasma glucose and insulin:
+  * Increased blood glucose stimulates insulin release, increasing the formation of glycogen through activation of glycogen synthetase
+  * Decreased blood glucose stimulates glycogenolysis and gluconogenesis from amion acids.
 
 ###Lipids
 * Fat can be:
@@ -85,6 +84,6 @@ Notably albumin
 
 ---
 ##References
-Power and Kam
-Chambers
-Brandis
+1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+2. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+3. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.
