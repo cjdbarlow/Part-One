@@ -51,7 +51,8 @@ Old red cells are removed from circulation via:
     * Liver
     * Bone marrow
 * Haemolysis  
-~10% of red cell breakdown occurs in ciruclation, where the Hb dimers are then bound to **haptoglobin** by haemopexin. This prevents glomerular filtration of haeme (and associated loss of iron).
+~10% of red cell breakdown occurs in ciruclation, where the Hb dimers are then bound to **haptoglobin** by haemopexin.
+    * This is important to prevent glomerular filtration of haeme, and loss of iron
 
 ###Haemoglobin Metabolism
 **Haemoglobin** is broken down into:
@@ -87,4 +88,4 @@ This is impaired during hepatic disease, leading to increased bilirubin levels i
 
 ---
 ##References
-Ganong
+1. Barrett KE, Barman SM, Boitano S, Brooks HL. Ganong's Review of Medical Physiology. 24th Ed. McGraw Hill. 2012.
