@@ -13,19 +13,37 @@ The functional unit of the kidney is the **nephron**. Nephrons:
     May have either long or short loops.
 
 ##Control of Renal Blood flow
-The kidneys receive **22% of cardiac output** at rest, though **extract** only **10% of delivered O<sub>2</sub>**. The **high renal blood flow** exceeds that required for metabolism, and is instead needed **to produce** the large volume of **glomerular filtrate** (125ml/min) required for excretion of waste. Afferent and efferent arterioles are the main resistance vessels which determine blood flow.
+The kidneys:
+* Receive **22% of cardiac output** at rest
+* Extract only **10% of delivered O<sub>2</sub>**
+* Have a **high renal blood flow** exceeds that required for metabolism  
+High flow is instead needed **to produce** the large volume of **glomerular filtrate** (125ml.min<sup>-1</sup>) required for excretion of waste.
 
 
 ###Autoregulation
-Renal blood flow is **autoregulated** over a wide range of mean arterial pressures (60-160mmHg) via **myogenic** and **tubuloglomerular** feedback.
+Renal blood flow is **autoregulated** over a wide range of mean arterial pressures (60-160mmHg) via:
+* **Myogenic** autoregulation
+* **Tubuloglomerular** feedback
 
-GRAPH OF AUTOREGULATION
 
-**Myogenic** autoregulation is the intrinsic constriction of the afferent arteriole in response to an increased transmural pressure. This increases vascular resistance in proportion to the increase in pressure, keeping flow constant.
 
-**Tubuloglomerular feedback** is more complicated, refers to the constriction or dilation of the afferent arteriole in response to adenosine or NO (respectively) release from the macula densa. The macula densa lies in the wall of the ascending limb of the loop of Henle, and detects change in tubular flow rate (probably via changing Na<sup>+</sup> flux across its membrane). Increase flow in the loop indicates an increased perfusion pressure, prompting release of adenosine and constriction of the afferent arteriole. Conversely, decreased flow indicates decreased perfusion pressure, reducing adenosine release and prompting the release of NO, which causes the afferent arteriole to dilate.
+**Myogenic** autoregulation:
+* Describes the intrinsic constriction of the afferent arteriole in response to an increased transmural pressure
+* This increases vascular resistance in proportion to the increase in pressure, keeping flow constant
 
-Notably, flow to juxtamedullary nephrons is not autoregulated. High blood pressure results in increased juxtamedullary flow, increasing GFR and impairing renal concentration, resulting in a **pressure diuresis**.
+<object data="resources\renal-autoregulation.svg" type="image/svg+xml"></object>
+
+
+
+
+**Tubuloglomerular feedback** is more complicated, and describes the constriction or dilation of the afferent arteriole in response to adenosine or NO (respectively) release from the macula densa:
+* The macula densa lies in the wall of the ascending limb of the loop of Henle
+* It detects change in tubular flow rate (probably via changing Na<sup>+</sup> flux across its membrane)
+    * Increased flow in the loop indicates an increased perfusion pressure, prompting release of adenosine and constriction of the afferent arteriole
+    * Decreased flow indicates a decreased perfusion pressure, reducing adenosine release and prompting the release of NO, which causes the afferent arteriole to dilate
+
+
+Notably, flow to **juxtamedullary** nephrons is **not autoregulated**. High blood pressure  increases juxtamedullary flow, increasing GFR and impairing renal concentration, resulting in a **pressure diuresis**.
 
 ###Neuronal Control
 The kidneys are innervated by noradrenergic sympathetic nerves, which cause afferent and efferent arteriolar constriction. This increases capillary hydrostatic pressure (increasing filtration) and also increases capillary oncotic pressure (decreasing filtration), resulting in an overall slight reduction in GFR.
