@@ -40,15 +40,18 @@ A lens is used to focus emitted light.
 
 
 ###Equipment Errors
+Errors can be classified into:
 * Specific to technique
     * The **collision broadening effect**  
-    Intermolecular forces vary depending on their proximity to other molecules in the gas mixture. A change in intermolecular forces may alter their bond-energy and the frequencies at which they absorb radiation. It can be overcome by correcting for the presence of other gases, or manually adjusting the obtained values.
+    Intermolecular forces vary depending on their proximity to other molecules in the gas mixture. A change in intermolecular forces may alter their bond-energy and the frequencies at which they absorb radiation. It can be overcome by:
+        * Correcting for the presence of other gases
+        * Manually adjusting the obtained values
     * Crossover with other gas mixtures  
-    CO<sub>2</sub> and N<sub>2</sub>O have similar absorbance spectra, and may lead to error when a device is not designed to measure both wavelenghts.
+    CO<sub>2</sub> and N<sub>2</sub>O have similar absorbance spectra, and may lead to error when a device is not designed to measure both wavelengths.
 
 
 * Failure of equipment  
-These can be overcome by use of **double-beam capnometer**. This uses a reference chamber which contains CO<sub>2</sub>-free air, and the same emitter-detector system. All absorption from this system must occur due to artifact (as no gas is present). The artifactual component is then subtracted from the value detected in the main chamber.
+These can be overcome by use of **double-beam capnometer**. This uses a reference chamber which contains CO<sub>2</sub>-free air, and the same emitter-detector system. All absorption from this system must occur due to artifact (as no CO<sub>2</sub> is present). The artifactual component is then subtracted from the value detected in the main chamber. This corrects for:
     * Variable amount of infrared radiation released
     * Variable sensitivity of the detector
     * Variable efficacy of the crystal window and lens system
@@ -58,8 +61,8 @@ These can be overcome by use of **double-beam capnometer**. This uses a referenc
 E<sub>T</sub>CO<sub>2</sub> may be either **side-stream** or **in-line**.
     * Side-stream CO<sub>2</sub> involves a length of narrow tubing drawing gas from the expiratory limb of the breathing circuit (typically from the HME filter) to the capnograph
         * Side-stream requires a flow of 150 ml.min<sup>-1</sup>  
-        * They have a (pretty insignificant) delay (<1s) in measurement
-        * They may be blocked with water vapour, and require use of a water trap to remove condensation
+        * Has a (pretty insignificant) delay (<1s) in measurement
+        * May be blocked by water vapour, and require use of a water trap to remove condensation
     * In-line systems have a sampling chamber attached in-line with the ETT
         * The sampling chamber slightly increases the dead-space of the circuit  
         May be relevant in children or very difficult to ventilate patients.
@@ -68,16 +71,34 @@ E<sub>T</sub>CO<sub>2</sub> may be either **side-stream** or **in-line**.
 
 
 ###E<sub>T</sub>CO<sub>2</sub> Waveform and Variations
+<object data="resources\capno-normal.svg" type="image/svg+xml"></object>
+
 The normal trace consists of four components:
-1. The **baseline** (with no respiratory effort) and **Dead-space exhalation**, where E<sub>T</sub>CO<sub>2</sub> should be **0**
-2. **Alveolar exhalation**, where E<sub>T</sub>CO<sub>2</sub> **rises rapidly**
-3. **Alveolar plateau**, where E<sub>T</sub>CO<sub>2</sub> **flattens**. The highest-point of this curve is the E<sub>T</sub>CO<sub>2</sub>-tension.
-4. **Inspiration**, where E<sub>T</sub>CO<sub>2</sub> returns to **0**
+1. The **baseline**  
+This consists of:
+    * Inspiratory time
+    * Early **dead-space exhalation**
+    This is the period immediately before phase 2, where some gas with a PCO<sub>2</sub> of **0** is exhaled.
+2. **Alveolar exhalation**, where PCO<sub>2</sub> **rises rapidly**
+3. **Alveolar plateau**, where PCO<sub>2</sub> **flattens**  
+The highest-point of this curve is labelled E<sub>T</sub>CO<sub>2</sub>.
+4. **Inspiration**, where PCO<sub>2</sub> returns to **0**
 
-GRAPHS FROM CROSS & PLUNKET pg 112 and CAPNOGRAPHY REFERENCE HANDBOOK (EVERNOTE)
+Airway obstruction:
+<object data="resources\capno-obstruction.svg" type="image/svg+xml"></object>
+* Occurs due to uneven emptying of alveoli with different time-constants
 
-Also obstruction
-- Due to uneven emptying of alveoli with different time-constants
+Hyperventilation:
+<object data="resources\capno-hyperventilation.svg" type="image/svg+xml"></object>
+* Lower E<sub>T</sub>CO<sub>2</sub> with shorter baseline
+* Plateau phase may not occur at very high respiratory rates
+
+Rebreathing:
+<object data="resources\capno-rebreathing.svg" type="image/svg+xml"></object>
+* Baseline increases as inspired CO<sub>2</sub> is measured from gas analyser
+
+
+
 
 ###Changes in E<sub>T</sub>CO<sub>2</sub>
 Normal E<sub>T</sub>CO<sub>2</sub> is 32-42 mmHg, whilst normal PaCO<sub>2</sub> is 35-45 mmHg.
