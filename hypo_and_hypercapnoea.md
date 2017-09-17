@@ -7,7 +7,6 @@ Carbon dioxide is lipid soluble and can rapidly cross membranes, allowing it aff
 * **Respiratory Effects**  
   * Increased respiratory drive via chemoreceptor stimulation
 
-
 * **CVS effects**  
   * Peripheral vasodilation
     * May cause tachycardia from sympathetic stimulation
@@ -19,7 +18,7 @@ Carbon dioxide is lipid soluble and can rapidly cross membranes, allowing it aff
 
 * **CNS effects**
   * Increased CBF
-  * Increased ICP secondray to increased CBF
+  * Increased ICP secondary to increased CBF
   * SNS activation
   * CNS depression  
   When PaCO<sub>2</sub> > 100mmHg
@@ -38,6 +37,13 @@ Carbon dioxide is lipid soluble and can rapidly cross membranes, allowing it aff
 * **CNS effects**  
   * Decreased cerebral blood flow
 
+* **Electrolyte effects**
+  * Decreased serum K<sup>+</sup>
+  * Decreased serum Ca<sup>2+</sup>  
+  Leads to paresthesias and twitches.
+    * Ca<sup>2+</sup> binds to H<sup>+</sup> binding site on albumin  
+    
+
 ---
 ##References
-Brandis
+1. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.
