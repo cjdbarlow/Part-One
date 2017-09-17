@@ -19,7 +19,7 @@ Basal Metabolic Rate
 Citric Acid Cycle
 
 ##CBF
-Cerebral/Coronary Blood Flow
+Cerebral Blood Flow
 
 ##CMRO2
 Cerebral Metabolic Rate for Oxygen
