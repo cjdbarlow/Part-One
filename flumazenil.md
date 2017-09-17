@@ -5,7 +5,7 @@ Competitive antagonist and inverse agonist of the benzodiazepine receptor.
 |Property|Action|
 |--|--|
 |**Class**|Imidazo-benzodiazepine
-|**Uses**|Reversal of BDZ
+|**Uses**|Reversal of BZD
 |**Route of Administration**|IV
 |**Dosing**|0.1mg boluses up to 2mg
 |**Onset**|Within 2 minutes
@@ -19,5 +19,6 @@ Competitive antagonist and inverse agonist of the benzodiazepine receptor.
 ---
 
 ##References
-Petkov
+1. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+
 
