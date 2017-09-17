@@ -8,6 +8,9 @@ Fluid moving in a steady manner without turbulence.
 Irregular fluid movement in radial, axial, and circumferential axes.
     * Laminar flow is more efficient than turbulent flow, as it requires a smaller pressure gradient to generate the same flow
     * For two fluids moving at the same speed, the velocity of individual particles in laminar flow will be both higher and lower 
+* Transitional flow  
+Mixture of laminar and turbulent flow. Flow is typically turbulent in the centre, and laminar at the edges.
+
 
 Devices used to measure gas flow include:
 * Variable-orifice Flowmeters
@@ -25,7 +28,7 @@ Method:
 * The bobbin obstructs flow  
 Therefore there is a **pressure difference** across it.
     * Remember: $$Pressure = {Force \over Area} = {Mass \times Acceleration \over Area}$$
-    * At equilibrium, the pressure exerted by the bobbin on the flow of gas ($$P = {Gravity \times Bobbin \ Mass \over Bobbin \ Cross-Sectional \ Area}$$) is equal to the pressure exerted by the gas on the bobbin
+    * **At equilibrium**, the pressure exerted by the bobbin on the flow of gas ($$P = {Gravity \times Bobbin \ Mass \over Bobbin \ Cross-Sectional \ Area}$$) is equal to the pressure exerted by the gas on the bobbin
 * As flow is increased, the bobbin is pushed further up the flowmeter due to the increased pressure
 * The bobbin will reach a new equilibrium position when the orifice of the flowmeter has become wide enough for the pressure on the bobbin to equal the pressure of gravity
 
@@ -98,4 +101,4 @@ Method:
 ---
 
 ##References
-Aston
+1. Aston D, Rivers A, Dharmadasa A. Equipment in Anaesthesia and Intensive Care: A complete guide for the FRCA. Scion Publishing Ltd. 2014.
