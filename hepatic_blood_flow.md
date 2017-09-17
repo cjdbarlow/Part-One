@@ -18,7 +18,9 @@ As with other organs, blood flow is autoregulated via intrinsic and extrinsic me
 ###Intrinsic Autoregulation
 * Myogenic autoregulation
 * Hepatic arterial buffer response  
-  This is also known as the "hepatic artery-portal venous semi-reciprocal interrelationship". Hepatic arterial resistance is proportional to portal venous blood flow, such that a reduction in portal venous flow causes a decrease in hepatic arterial resistance and increases hepatic arterial flow. This is probably mediated by adenosine.
+  This is also known as the "hepatic artery-portal venous semi-reciprocal interrelationship".
+    * Hepatic arterial resistance is proportional to portal venous blood flow, such that a reduction in portal venous flow causes a decrease in hepatic arterial resistance and increases hepatic arterial flow  
+    This is probably mediated by adenosine.
 
 ###Extrinsic Autoregulation
 * Autonomic Nervous System  
@@ -27,6 +29,7 @@ As with other organs, blood flow is autoregulated via intrinsic and extrinsic me
     * The portal vein has only α-adrenoreceptors  
     Activation of these receptors causes venoconstriction, reducing the compliance of the hepatic vasculature and mobilising up to **250ml** of blood in times of sympathetic stress.
     
+
 * Endocrine and hormonal effects
 A number of substances affect portal flow:  
 
