@@ -36,12 +36,11 @@ Note that expert opinion is **not** part of NHMRC levels of evidence, though it 
 | IV | Case series with either post-test or pre-test/post-test outcomes | Study of diagnostic yield (no reference standard) | Case series, or cohort study of persons at different stages of disease | A cross-sectional study or case series | Case series |
 
 ###Grades of evidence
-Evidence is graded to "indicate the strength of the body of evidence underpinning a recommendation" (e.g. in a clinical guideline). The NHMRC grades recommendations from A to D as follows:
-
-**A.** Body of evidence can be trusted to guide practice.  
-**B.** Body of evidence can be trusted to guide practice, in most situations.  
-**C.** Body of evidence provides some support, but care should be taken in its application.  
-**D.** Body of evidence is weak and recommendation must be applied with caution.
+Evidence is graded to "indicate the strength of the body of evidence underpinning a recommendation" (e.g. in a clinical guideline).The NHMRC grades recommendations from A to D as follows:
+* **A**: Body of evidence can be trusted to guide practice
+* **B**: Body of evidence can be trusted to guide practice, in most situations
+* **C**: Body of evidence provides some support, but care should be taken in its application
+* **D**: Body of evidence is weak and recommendation must be applied with caution
 
 ##Study types: Systematic Reviews and Meta-analyses
 ###Systematic Review
@@ -53,7 +52,7 @@ Mathematical technique of combining the results of different trials to derive a 
   * Pooling all of the raw data and conducting a reanalysis
 
 * Meta-analyses usually use **random-effects models**, which assumes there will be a variety of similar treatment effects
-* Individual trials are **summarised with an odds ratio**, and **weighted**, usually predominantly by sample size
+* Individual trials are **summarised with an odds ratio**, and **weighted**, usually by sample size
 
 ####Stages of a [meta-analysis] and systematic review:
 1. Inclusion and exclusion criteria are predefined
@@ -88,22 +87,21 @@ Results of meta-analyses are presented in a blobbogram, or more boringly, a **Fo
 Where:
 * The **x-axis** plots the odds ratio, remembering that an OR of 1 indicates no difference
 * The **y-axis** lists the studies included, and the overall summary statistic
-* The **square** indicates the **point estimate** (from its x-location) and the **weight** given to the study (by its size)
+* The **dot** (or square) indicates the **point estimate** (from its x-location) and the **weight** given to the study (by its size)
 * The **horizontal line** indicates the upper and lower bounds of the **confidence interval**
 * The **diamond** indicates the **overall point estimate** and (by its width) the **confidence interval** for the point estimate
-* The result of the heterogeneity test should also be displayed. P < 0.1 indicates significant heterogeneity.
+* The result of the heterogeneity test should also be displayed  
+P < 0.1 indicates significant heterogeneity.
 
 ####Funnel Plots
 Funnel plots are a **graphical tool to detect publication bias**.
-* Due to statistical power, larger studies should be a closer representation of the true effect.
-* Therefore, when evaluating an number of studies, one would expect that large studies cluster around the 'true effect', and smaller studies to  scatter further.
+* Due to statistical power, larger studies should be a closer representation of the true effect
+* Therefore, when evaluating an number of studies, one would expect that large studies cluster around the 'true effect', and smaller studies to scatter further
 * A graph is then plotted of OR on the x-axis, and standard error on the y-axis 
-
-<img src="http://i.imgur.com/r1dpJ7g.jpg =400x" alt="A high-fidelity rendering of funnel plots" style="width: 200px;"/>
-
-* A. A funnel plot with evidence of publication bias.
-* B. A funnel plot with no evidence of publication bias.
-
+  * Publication bias is suggested when results cluster on one side of the funnel plot
+  * No evidence of publication bias would have studies clustered around the true effect
+  
+  
 ####Strengths and weaknesses of meta-analyses
 | Strengths | Weaknesses |
 | -- | -- |
@@ -112,7 +110,9 @@ Funnel plots are a **graphical tool to detect publication bias**.
 | Generate clinically relevant measures (NNT, NNH) | Heterogeneity |
 |  | Inclusion of outdated studies |
 
-Because of these weaknesses, positive meta-analyses should be considered largely hypothesis-generating, and should be confirmed by (a large) RCT. Negative meta-analyses can probably be accepted.[^4]
+Because of these weaknesses:
+* Positive meta-analyses should be considered largely hypothesis-generating, and should be confirmed by (a large) RCT
+* Negative meta-analyses can probably be accepted
 
 ---
 ##References
