@@ -46,19 +46,21 @@ Renal blood flow is **autoregulated** over a wide range of mean arterial pressur
 Notably, flow to **juxtamedullary** nephrons is **not autoregulated**. High blood pressure  increases juxtamedullary flow, increasing GFR and impairing renal concentration, resulting in a **pressure diuresis**.
 
 ###Neuronal Control
-The kidneys are innervated by noradrenergic sympathetic nerves, which cause afferent and efferent arteriolar constriction. This increases capillary hydrostatic pressure (increasing filtration) and also increases capillary oncotic pressure (decreasing filtration), resulting in an overall slight reduction in GFR.
+The kidneys are innervated by noradrenergic sympathetic nerves, which causes:
+* Afferent and efferent arteriolar constriction  
+This increases capillary hydrostatic pressure (increasing filtration) and also increases capillary oncotic pressure (decreasing filtration).
+    * This leads to an overall slight reduction in GFR
 
 ###Hormonal Control
-**Renin** is released from the juxtaglomerular apparatus by β<sub>1</sub> stimulation, which catalyses the production of angiotensin I from circulating angiotensinogen. Angiotensin I is then converted into Angiotensin II by circulating ACE.
+**Renin**:
+* Is released from the juxtaglomerular apparatus by β<sub>1</sub> stimulation
+* Catalyses the production of angiotensin I from circulating angiotensinogen  
+Angiotensin I is then converted into Angiotensin II by circulating ACE.
 
-FIGURE 20-23 ON PAGE 374 of GANONG
-
-The actions of the RAAS are described in more detail in the endocrine functions of the kidney.
+The actions of the RAAS are described in more detail in the [endocrine functions of the kidney](endocrine_functions_of_the_kidney.md).
 
 ---
 ##References
-Ganong
-
-Power and Kam
-
-Guyton and Hall 11th Ed
+1. Barrett KE, Barman SM, Boitano S, Brooks HL. Ganong's Review of Medical Physiology. 24th Ed. McGraw Hill. 2012.
+2. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+3. Hall, JE, and Guyton AC. Guyton and Hall Textbook of Medical Physiology. 11th Edition. Philadelphia, PA: Saunders Elsevier. 2011. 
