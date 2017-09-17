@@ -139,5 +139,5 @@ Unmyelinated, 1μm, conduct at 0.5-2m.s<sup>-1</sup>. Pain fibres.
 
 ---
 ##References
-Power and Kam
-Basic physiology for anaesthetists
+1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+2. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
