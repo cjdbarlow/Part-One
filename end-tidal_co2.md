@@ -70,7 +70,7 @@ E<sub>T</sub>CO<sub>2</sub> may be either **side-stream** or **in-line**.
         * Require heating to 41°C to avoid condensation
 
 
-###E<sub>T</sub>CO<sub>2</sub> Waveform and Variations
+###Normal E<sub>T</sub>CO<sub>2</sub> Waveform
 <object data="resources\capno-normal.svg" type="image/svg+xml"></object>
 
 The normal trace consists of four components:
@@ -84,16 +84,17 @@ This consists of:
 The highest-point of this curve is labelled E<sub>T</sub>CO<sub>2</sub>.
 4. **Inspiration**, where PCO<sub>2</sub> returns to **0**
 
-Airway obstruction:
-<object data="resources\capno-obstruction.svg" type="image/svg+xml"></object>
+###E<sub>T</sub>CO<sub>2</sub> Waveform Variations
+**Airway obstruction:
+**<object data="resources\capno-obstruction.svg" type="image/svg+xml"></object>
 * Occurs due to uneven emptying of alveoli with different time-constants
 
-Hyperventilation:
-<object data="resources\capno-hyperventilation.svg" type="image/svg+xml"></object>
+**Hyperventilation:
+**<object data="resources\capno-hyperventilation.svg" type="image/svg+xml"></object>
 * Lower E<sub>T</sub>CO<sub>2</sub> with shorter baseline
 * Plateau phase may not occur at very high respiratory rates
 
-Rebreathing:
+**Rebreathing**:
 <object data="resources\capno-rebreathing.svg" type="image/svg+xml"></object>
 * Baseline increases as inspired CO<sub>2</sub> is measured from gas analyser
 
