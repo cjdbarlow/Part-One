@@ -63,8 +63,10 @@ Measures of variability describe the degree of dispersion around the central val
 * **Percentiles**: Rank observations into 100 equal parts, so that the median becomes the 50% percentile.  
   Better measure of spread than range.
 * **Interquartile range**: The 25th to 75th centile  
-  A **box-and-whisker plot** graphically demonstrates the mean, 25th centile, 75th centile, and (usually), the 10th and 90th centiles. Outliers are represented by dots. Occasionally the range is plotted by the whiskers, and there are no outliers plotted.
-
+  A **box-and-whisker plot** graphically demonstrates the mean, 25th centile, 75th centile, and (usually), the 10th and 90th centiles.
+    * Outliers are represented by dots
+    * Occasionally the range is plotted by the whiskers, and there are no outliers plotted
+    
 <object data="resources\boxplot.svg" type="image/svg+xml"></object>
 
 
