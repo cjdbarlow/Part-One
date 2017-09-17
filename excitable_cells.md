@@ -81,11 +81,11 @@ This increases potassium permeability and reduces membrane potential.
 
 ###Phases of the Action Potential
 This describes the peripheral nerve action potential. The heart is covered under the [cardiac action potential](cardiac_action_potential.md).
-1. **Rising Phase** 
+1. **Rising Phase**  
 A stimulus which rises above the threshold potential opens fast Na<sup>+</sup> channels, increasing Na<sup>+</sup> influx.
     * Additional Na<sup>+</sup> has a positive feedback effect, causing additional Na<sup>+</sup> channels to open and further depolarisation
     * This drives the membrane potential towards the Nernst equilibrium for Na<sup>+</sup>
-2. **Peak Phase ** 
+2. **Peak Phase**  
 Inactivation of fast-channels and delayed activation of K<sup>+</sup> channels slows depolarisation.
     * Membrane potential **peaks** at **30mV**
 3. **Falling Phase**  
