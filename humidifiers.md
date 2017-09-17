@@ -16,7 +16,7 @@ Passive humidifiers:
 * Do not require water
 
 The Heat and Moisture Exchange (HME) filter is the classic passive humidifier:
-* Placed between the patient and the patient Y
+* Placed between the patient and the patient Y-piece
 * Consists of:
     * A moisture exchange layer  
     Pleated, hygroscopically coated foam or paper.
@@ -43,11 +43,11 @@ The Heat and Moisture Exchange (HME) filter is the classic passive humidifier:
 
 ##Active Humidifiers
 Active Humidifiers:
-* Require:
+* Require either:
     * Power  
     Unpowered humidifiers are typically less effective, and only operate well at lower flow rates.
     * Water
-    * Both
+    * (Or both)
 * Consist of:
     * A water bath  
     Typically sterile water.

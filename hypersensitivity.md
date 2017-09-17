@@ -5,12 +5,12 @@
 
 > Understand the pharmacology of the drugs used in the treatment of anaphylaxis.
 
-Hypersensitivity reactions are **exaggerated immune responses** that injure the host.
+Hypersensitivity reactions are **exaggerated immune responses** that cause host injury.
 
 ##Classification of Hypersensivity Reactions
-The Gel and Coombs system classifies hypersensitivity reactions by the mechanism. It is commonly used but fails to classify more complex diseases.
+The **Gel and Coombs system** classifies hypersensitivity reactions by the mechanism. It is commonly used but fails to classify more complex diseases.
 
-| Type | Timing| Mediation | Pathophysiology | Disease example(s) |
+| Type | Timing| Mediator | Pathophysiology | Disease example(s) |
 | -- | -- | -- | -- | -- |
 | **Type I** - Immediate hypersensitivity | Seconds to minutes |IgE| Basophil and mast cell degranulation | Anaphylaxis (systemic), Atopy (local)|
 | **Type II** - Cellular hypersensitivity | 5-8 hours | IgM, IgG | Antibody binding to cell surface antigen, resulting in cell death via complement membrane attack complexes, or phagocytosis by macrophages | Transfusion reactions, hyperacute allograft rejection|
@@ -20,10 +20,10 @@ The Gel and Coombs system classifies hypersensitivity reactions by the mechanism
 ###Type I Hypersensitivity
 * Antigen simulates a B lymphocyte to produce a specific IgE against it
 * This IgE then binds to Fc receptors on mast cells, sensitising them to this exposure
-* On re-exposure the antigen binds (**cross-links**) IgE on to mast cells, causing degranulation:
+* On re-exposure the antigen binds (**cross-links**) IgE on mast cells, causing degranulation:
   * Histamine, leukotrienes, and prostaglandins are released
   * This may cause local or systemic effects, depending on method of exposure:
-    * A systemic reaction is called **anaphylaxis**, and manifests as:
+    * A systemic reaction is called **anaphylaxis**, and manifests as a combination of:
       * Hypotension
       * Bronchospasm
       * Layngeal oedema
@@ -35,17 +35,18 @@ The Gel and Coombs system classifies hypersensitivity reactions by the mechanism
       Nasopharyngeal mucosa.
       
 
- * **Non-immune anaphylaxis** or anaphylactoid reactions are characterised by a immediate generalised reaction clinically indistinguishable from true anaphalaxis, but the immune nature is unknown, or not due to a type I hypersensitivity reaction
+ * **Non-immune anaphylaxis** (also known as anaphylactoid) reactions are characterised by a immediate generalised reaction clinically indistinguishable from true anaphalaxis, but the immune nature is unknown, or not due to a type I hypersensitivity reaction
+
 
 ####Management of Anaphylaxis
 * **Adrenaline** is the drug of choice, as it treats cardiovascular collapse, bronchospasm, and decreases oedema formation.
     * In adults, 0.3-0.5mg IM Q5-15min
     * In children, 0.01mg/kg IM Q5-15min
-* **Glucagon** may be used in β-blocked patients resistant to adrenaline.
+* **Glucagon** *may* be used in β-blocked patients resistant to adrenaline.
     * In adults, 1-5mg IV over 5 minutes, followed by infusion at 5-15microg/min
     * In children, 20-30mcg/kg up to 1mg over 5 minutes
 * Non-pharmacological mangement includes early intubation to protect against airway obstruction due to angioedema. 
-* Adjunctive adjects include antihistamines and steroids. They are second line as none attenuate cardiovascular collapse, resolve airway obstruction, or have strong evidence behind their use. They include:
+* Adjunctive adjects include antihistamines and steroids. They are second line as they do not attenuate cardiovascular collapse, resolve airway obstruction, or have strong evidence behind their use. They include:
     * Diphenhydramine 25-50mg IV (Children: 1mg/kg up to 40mg) up to 200mg in 24/24
     * Salbutamol, for bronchodilation
     * Methylprednisolone 1-2mg/kg, ostensibly to protect against **rebound anaphylaxis** (though there is minimal evidence)
@@ -84,5 +85,5 @@ Clinical picture depends on affected organs. Examples include:
 * Gramulomatous vasculitis
 
 ##References
-1. CICM. 2007 July/September Exam.
-2. Power and Kam
+1. CICM July/September 2007
+2. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
