@@ -1,6 +1,10 @@
 # Glycopeptides
 
-Non-β-lactam agents that inhibit cell wall synthesis. They are active against gram-positive anerobes and aerobes. They are bacteriostatic against enterocci and streptococci, and bacteriocidal against staphylocci.
+Non-β-lactam agents that inhibit cell wall synthesis. They are:
+* Active against gram-positive anerobes and aerobes
+* Bacteriostatic against enterocci and streptococci
+* Bacteriocidal against staphylocci
+
 
 |Property|Vancomycin|
 |--|--|
@@ -21,7 +25,5 @@ Non-β-lactam agents that inhibit cell wall synthesis. They are active against g
 
 ---
 ##References
-peck and Hill
-Smith Scarth Sasada
-Wellington
-UpToDate
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. [Wellington ICU Drug Manual](http://drug.wellingtonicu.com/)
