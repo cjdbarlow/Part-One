@@ -12,7 +12,7 @@ Particularly abundant in those exposed to the outside environment:
     * Mast cells  
     Released by exocytosis during inflammatory and allergic reactions.
     * Basophils
-    * Histaminocytes in the Stomach
+    * Histaminocytes in the stomach
     * Histaminergic neurons in the CNS
 * Metabolised by:
     * Histaminase
@@ -21,7 +21,7 @@ Particularly abundant in those exposed to the outside environment:
 ##Histamine Receptors and Effects
 Histamine acts on:
 * H<sub>1</sub> receptors  
-Gq receptor involved broadly in inflammation.
+Gq receptor involved broadly in inflammation and vasodilation.
 * H<sub>2</sub> receptors
 Gs receptor involved in gastric acid secretion.
 * H<sub>3</sub> receptors  
@@ -41,8 +41,6 @@ Gi receptor located in bone marrow and other solid haematological organs (spleen
 ---
 
 ##References
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1760721/
-
-Rang and Dale
-
-http://www.vivo.colostate.edu/hbooks/pathphys/endocrine/otherendo/histamine.html
+1. Parsons ME, Ganellin CR. [Histamine and its receptors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1760721/). British Journal of Pharmacology. 2006;147(Suppl 1):S127-S135. doi:10.1038/sj.bjp.0706440.
+2. Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.
+3. Bowen R. [Histamine](http://www.vivo.colostate.edu/hbooks/pathphys/endocrine/otherendo/histamine.html). Vivo. Colorado State.
