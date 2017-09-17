@@ -118,7 +118,6 @@ Because of these weaknesses:
 ##References
 1. Sacket DL, Richardson WS, Rosenberg W, Haynes RB. Evidence-based Medicine: How to practice and teach EBM. Churchill Livingstone, London 1997.  
 2. Sackett David L, Rosenberg William M C, Gray J A Muir, Haynes R Brian, Richardson W Scott. Evidence based medicine: what it is and what it isn't BMJ 1996; 312:71.  
-3. NHMRC. NHMRC additional levels of evidence and grades for recommendations for developers of guidelines. National Health & Medical Research Council, 2009. Available at: https://www.nhmrc.gov.au/_files_nhmrc/file/guidelines/stage_2_consultation_levels_and_grades.pdf/  
+3. NHMRC. [NHMRC additional levels of evidence and grades for recommendations for developers of guidelines](https://www.nhmrc.gov.au/_files_nhmrc/file/guidelines/stage_2_consultation_levels_and_grades.pdf). National Health & Medical Research Council. 2009.
 4. Myles PS, Gin T. Statistical methods for anaesthesia and intensive care. 1st ed. Oxford: Butterworth-Heinemann, 2001.   
-5. Lalkhen, AG. "Statistics V: Introduction to clinical trials and systematic reviews". Accessible at: http://ceaccp.oxfordjournals.org/content/8/4/143.full.pdf  
-6. "Generic forest plot" by James Grellier - Own work. Licensed under CC BY-SA 3.0 via Commons - https://commons.wikimedia.org/wiki/File:Generic_forest_plot.png#/media/File:Generic_forest_plot.png
+5. Lalkhen AG, McCluskey A. [Statistics V: Introduction to clinical trials and systematic reviews](http://ceaccp.oxfordjournals.org/content/8/4/143.full.pdf). CEACP 2008.
