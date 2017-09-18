@@ -24,6 +24,9 @@ Cerebral Blood Flow
 ##CMRO2
 Cerebral Metabolic Rate for Oxygen
 
+##CNS
+Central Nervous System
+
 ##COX
 Cyclo-Oxygenase
 
