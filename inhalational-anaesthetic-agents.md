@@ -51,9 +51,9 @@ Reflects the action of an agent on spinal cord reflexes.
 * Consciousness is better estimated by MAC-awake  
 End-tidal concentration of agent that prevents appropriate responses to a verbal command in 50% of a population.
     * Note that this technically measures *awareness* rather than memory.
-    * **MAC-awake** is typically **one-third** of **MAC**
+    * **MAC-awake** is typically **one-third** of **MAC** for commonly-used agents
 * Is only valid at **sea-level**  
-The **clinical effect** of an agent is **dependent** on its **partial pressure *not* **concentration**.
+The **clinical effect** of an agent is **dependent** on its **partial pressure *not* concentration**.
     * At 1atm, these are almost the same  
     1atm ≃ 100kPa; therefore 2% sevoflurane is ≃ 2kPa
     * As altitude increases, the actual partial pressure will fall for any given concentration
@@ -65,20 +65,20 @@ The MAC of an agent is inversely proportional to potency; i.e. more potent agent
     * This gives rise to the **Meyer-Overton hypothesis**, which suggests that anaesthesia requires a sufficient number of molecules to dissolve into the neuronal cell membrane.
         * If this was true, the product of the oil:gas partition coefficient and MAC would be constant, which is not the case.
 * Additive  
-The MACs of different agents used simultaneously are aditive.
+The MACs of different agents used simultaneously are additive.
 * Normally-distributed  
 Not all patients will be unresponsive at 1 MAC.
     * The standard deviation is **0.1**, so 95% of patients will not move in response to a stimulus at 1.2 MAC
 * Estimated clinically using **end-tidal** gas measurement  
 MAC is not based on arterial partial pressure (F<sub>a</sub>) of agent. 
-    * This is an important difference, because at steady-state, <strong>F<sub>a</sub> ≠ F<sub>A</sub></strong>  
+    * This is an important difference, because **even at steady-state**, <strong>F<sub>a</sub> ≠ F<sub>A</sub></strong>  
     * This occurs due to:
         * V/Q mismatch  
         Shunted alveoli will not absorb anaesthetic agent, and unperfused alveoli will contain agent that is not being absorbed.
             * This is worsened by the effects of anaesthesia
         * Volatile agents are heavy and have finite diffusability
-    * However, the difference between F<sub>a</sub> and F<sub>A</sub> for any agent is the same at steady state (and in absence of nitrous oxide)
-        * This means that, **at steady-state**, MAC is an accurate measure of 
+    * However, the difference between F<sub>a</sub> and F<sub>A</sub> for any agent is the same at steady state (and in absence of nitrous oxide)  
+    This means that, **at steady-state**, MAC will be proportional to, and an accurate measure of, P<sub>a</sub>.
 * One of several related terms:
     * MAC awake  
     Concentration required to prevent response to a verbal stimuli in **absence of noxious stimuli**.  
@@ -92,7 +92,7 @@ MAC is not based on arterial partial pressure (F<sub>a</sub>) of agent.
     * MAC-BAR  
     Minimum alveolar concentration required to **b**lock **a**drenergic **response**, i.e. to prevent a rise in HR or BP following skin incision.
     * MAC<sub>95</sub>  
-    The MAC required to prevent a movement response to a standard surgical stimulus in 95% of the ppulation.
+    The MAC required to prevent a movement response to a standard surgical stimulus in 95% of the population.
     * MAC.hr<sup>-1</sup>  
     The amount of time a patient is exposed to 1 MAC of an agent. Used to compare different agents.
 
@@ -121,7 +121,7 @@ A **partition coefficient** describes the **relative affinity** of an agent for 
 * The **blood:gas partition coefficient** describes the solubility of the agent in blood relative to air, when the two phases are of equal volume and in equilibrium at STP  
 A **low** blood:gas partition coefficient indicates a **rapid** onset and offset. This is because:
     * Poorly soluble agents generate a high P<sub>a</sub>, which creates a steep gradient between P<sub>a</sub> and P<sub>B</sub>, giving a rapid onset of action
-    * Conversely, soluble agents dissolve easily into pulmonary blood without substantially increasing P<sub>a</sub>.  
+    * Conversely, soluble agents dissolve easily into pulmonary blood without substantially increasing P<sub>a</sub>  
     This causes leads to a slow onset due to:
         * A large fall in P<sub>A</sub> as the agent leaves the alveolus, decreasing the gradient for further diffusion
         * A small gradient between P<sub>a</sub> and P<sub>B</sub><br><br>
@@ -174,7 +174,8 @@ Use of N<sub>2</sub>O with another agent will increase the P<sub>A</sub> of that
         * This can cause a reduction in PAO<sub>2</sub>, and therefore hypoxaemia
         * Diffusion hypoxia is avoided by delivering 100% oxygen, which maintains an adequate PAO<sub>2</sub> as N<sub>2</sub>O is removed
 
-INSERT FI/FA EQUILIBRIUJM GRAPH HERE.
+<object data="resources\fa-fi.svg" type="image/svg+xml"></object>
+
 * Note that N<sub>2</sub>O reaches a higher ratio faster than desflurane, despite having a lower blood:gas partition coefficient, due to the concentration effect
 
 Factors affecting **drug uptake from the lungs:**  
