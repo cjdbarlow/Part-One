@@ -3,17 +3,16 @@
 Part One is a reference for trainees preparing for the CICM and ANZCA Primary Exams.
 * Part One **is**:
     * Designed to cover the *assessed* sections of the CICM and ANZCA curricula
-    * Designed to bring together information from a wide variety of sources  
-    In enough depth to pass.  
-        * Use it as a rough guide for the expected depth of knowledge required on a topic
-        * Use it to correct your written answers
-        * Use it to find information you might find difficult to find elsewhere
+    * Designed to do so **in enough detail to pass**  
+    Use it as:
+        * A rough guide for the expected depth of knowledge required on a topic
+        * A tool to correct your written answers
+        * A source of information you might find difficult to find elsewhere
 * Part One **is not**:
     * A medical textbook
     * The definitive guide to the primary exam  
-    Do not use it as a sole resource. Read widely.
     * A complete reference  
-    There will be errors. If you find any, please let us know.
+    There will be both omissions and errors. If you find any, please let us know.
     
 
 ##Layout
@@ -46,7 +45,10 @@ Part One is built on a number of [open-source](https://opensource.org/) technolo
 With plugins from:
     * [Ben Lau](https://github.com/L3au) for [automatic timestamps](https://github.com/L3au/gitbook-plugin-git-author)
     * [Michael Jerger](https://github.com/jerger) for [collapsible chapters](https://github.com/DomainDrivenArchitecture/gitbook-plugin-expandable-chapters)
-
+* Equations written in latex
+* Graphs have been:
+    * Written in [PGF/Tikz](https://ctan.org/pkg/pgf) using [texworks](https://www.tug.org/texworks/)
+    * Converted to vector graphics with [dvisvgm](http://dvisvgm.bplaced.net/)
 
 
 ---

@@ -75,6 +75,9 @@ Erythropoietin
 ##ESV
 End-Systolic Volume
 
+##FRC
+Functional Residual Capacity
+
 ##FSH
 Follicle Stimulating Hormone
 

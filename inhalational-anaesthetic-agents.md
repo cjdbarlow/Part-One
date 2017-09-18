@@ -170,13 +170,13 @@ Use of N<sub>2</sub>O with another agent will increase the P<sub>A</sub> of that
             This results in a larger value of F<sub>a</sub> for any given F<sub>A</sub>, *even at steady state*.
         * Augmented ventilation as more inhalational agent is drawn in the alveoli from dead space gas
     * The second gas effect also causes **diffusion hypoxia**  
-    When inspired N<sub>2</sub>O is reduced, N<sub>2</sub>O will leave blood and enter the alveolus, displacing other gases in the alveolus
+    When inspired N<sub>2</sub>O is reduced, N<sub>2</sub>O will leave blood and enter the alveolus, displacing other gases in the alveolus.
         * This can cause a reduction in PAO<sub>2</sub>, and therefore hypoxaemia
         * Diffusion hypoxia is avoided by delivering 100% oxygen, which maintains an adequate PAO<sub>2</sub> as N<sub>2</sub>O is removed
 
 <object data="resources\fa-fi.svg" type="image/svg+xml"></object>
 
-* Note that N<sub>2</sub>O reaches a higher ratio faster than desflurane, despite having a lower blood:gas partition coefficient, due to the concentration effect
+* Note that N<sub>2</sub>O reaches a higher ratio faster than desflurane, despite its lower blood:gas partition coefficient, due to the concentration effect
 
 Factors affecting **drug uptake from the lungs:**  
 * **Blood:gas partition coefficient**  
@@ -201,14 +201,17 @@ The difference in partial pressure of agent in the alveolus and venous blood is 
     * Tissue blood flow  
     As the CNS has a high blood flow, it will equilibrate more quickly.
     * Blood:tissue solubility coefficients
-        * Muscle has a similar affinity as blood, but equilibrates more slowly than the CNS due to lower blood flow
+        * Muscle has similar affinity to blood, but equilibrates more slowly than the CNS due to lower blood flow
         * Fat has a much higher affinity for anaesthetic than muscle, but equilibrates very slowly due to the very low blood flow  
-        This has a greater effect in obese people, especially during prolonged anaesthesia, as they have a longer equilibration time and therefore prolonged emergence.
+        This is of greater importance in the obese, especially during prolonged anaesthesia, as they have a longer equilibration time and therefore prolonged emergence.
 
 ###Wash-out of Inhalational Agents
-Recovery is dependent on how quickly an inhalational agent can be eliminated from the effect site.
+Recovery is dependent on how quickly an inhalational agent can be eliminated from the effect site, and can be graphed by the F<sub>A</sub>/F<sub>A0</sub> ratio over time:
 
-This can graphed as the F<sub>A</sub>/F<sub>A0</sub> ratio over time, and is a component of:
+<object data="resources\fa-fao.svg" type="image/svg+xml"></object>
+
+
+Washout can be divided into:
 * Rapid washout  
 Of agent in circuit and FRC.
     * The time constant for removal of agent from the circuit is a function of circuit volume and fresh gas flow, i.e.  

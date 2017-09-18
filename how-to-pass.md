@@ -21,7 +21,7 @@ Decide when you are going to sit:
 * Don't lose faith  
     * There will be times that you question why you have to learn this
     * Those are very legitimate feelings
-    * Accept that part of **this exam is an academic hazing** you **must** pass through on your path to fellowship  
+    * Accept that part of **this exam is an academic hazing you must pass** through on your path to fellowship  
 
 ##Be Strategic
 The curriculum provided is overwhelming, and probably not achievable for most of us. Have a plan about how you will approach it:
@@ -107,10 +107,11 @@ This is the key to the exam. I suggest:
 3. **Do a *lot* of flashcards**  
 Flashcards are less demanding than doing questions, and a simple form of revision.
     * They are the absolute best way of rote learning facts (in my opinion)
-    * I used [anki](http:\\www.ankisrs.net), but use whatever works for you  
+    * I used [anki](http:\\www.ankisrs.net), but use whatever works for you <br><br>
 4. **Do practice vivas**  
 Start before the written. There is a lot of crossover of skills between the viva and the written. Both require a structured approach, and good content knowledge.
     * Take a break after the written exams, it is  exhausting
+
 
 ##The Bottom Line
 * Pick a date, and commit to it
