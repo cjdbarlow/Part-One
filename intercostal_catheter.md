@@ -8,6 +8,7 @@ An ICC should be placed in the **safe triangle**:
 
 ![](http://www.oxfordmedicaleducation.com/wp-content/uploads/2014/11/Chest-drain-safe-triangle.png)
 
+This is bordered:
 * **Anteriorly** by pectoralis major
 * **Posteriorly** by latissimus dorsi  
     Too far posterior will injure the long thoracic nerve.
@@ -20,10 +21,10 @@ An ICC should be placed in the **safe triangle**:
 * Subcutaneous tissue
 * External intercostal
 * Internal and innermost intercostal muscles  
-  Note the **neurovascular bundle** which sits on the inferior aspect of the ribs, therefore aim to place the ICC at the bottom of the intercostal space - "above the rib below"
+  Note the **neurovascular bundle** which sits on the inferior aspect of the ribs, therefore aim to place the ICC at the bottom of the intercostal space - "above the rib below".
 * Parietal pleura
 
 
 ---
 ##References
-http://lifeinthefastlane.com/ccc/chest-drain/
+1. [LITFL - Chest Drain](http://lifeinthefastlane.com/ccc/chest-drain/)
