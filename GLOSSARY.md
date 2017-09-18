@@ -130,7 +130,7 @@ Mean Systemic Filling Pressure
 Mucosa-Associated Lymphoid Tissue
 
 ##MAC
-Mean Alveolar Concentration
+Minimum Alveolar Concentration
 
 ##MAP
 Mean Arterial Pressure
