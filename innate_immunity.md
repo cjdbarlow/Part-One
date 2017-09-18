@@ -18,9 +18,11 @@ The innate immune system consists of **three components**:
 These include:
 * Skin
 * Mucous membranes
-    * Mucous, and the mucociliary elevator
+    * Mucous
+    * Mucociliary elevator
 * Gastric acid
-* Urination (including high flow rates and low residual bladder volumes)
+* Urination  
+Optimised by high flow rates and low residual bladder volumes.
 
 ##Innate Humoral Mechanisms
 Humoral mechanisms describes the role of inflammatory proteins in innate immunity:
@@ -31,9 +33,9 @@ The complement system is a complex group of about **25 plasma proteins** importa
     The 'classical pathway.'
     * Substances in the bacteria cell wall  
     The 'alternative pathway.'
-  * The system has a number of inflammatory functions:
+  * Complement has a number of inflammatory functions:
       * Destruction of bacteria  
-      Several complment proteins come together to form a **membrane attack complex**, which creates large pores in cell membranes, causing water to diffuse in and bacteria to burst.  
+      Several complement proteins come together to form a **membrane attack complex**, which creates large pores in cell membranes, causing water to diffuse in and bacteria to burst.  
       * Opsonisation of bacteria  
       Bound complement acts as a binding site for phagocytes.
       * Activation of monocytes and phagocytes
@@ -67,15 +69,15 @@ Exist in loose connective tissue and mucosa, and contain many intracellular gran
 * **Leukocytes**  
     * Neutrophils (60% of all leukocytes)  
     Phagocytose bacteria and fungi (15-20 per neutrophil). This process consists of a number of steps:
-        * Exist circulation **marginating** along capillary border when activated
+        * Exit circulation by **marginating** along capillary border when activated
         * Migrate via **chemotaxis** towards the tissue insult
         * **Phagocytose opsonised** bacteria and fungi
         * Kill organisms with a **respiratory burst**:  
-        A granule containing hydrogen peroxide, hydroxyl and oxygen radicals fuses with the target cell membrane, destroying both the target and the neutrophil
+        A granule containing hydrogen peroxide, hydroxyl and oxygen radicals fuses with the target cell membrane, destroying both the target and the neutrophil.
     * Monocytes  
-    Become macrophages when they leave circulation and enter tissue. Macrophages have a lifespan of 2-4 months, and can phagocytose up to 100 bacteria before it dies. Functions include:
-        * Phagocytosis and destruction of
-          Especially intracellular pathogens (listeria, mycobacteria), parasites, and fungi.
+    Become **macrophages** when they leave circulation and enter tissue. Macrophages have a lifespan of 2-4 months, and can phagocytose up to 100 bacteria before it dies. Functions include:
+        * Phagocytosis and destruction of pathogen  
+        Especially intracellular pathogens (listeria, mycobacteria), parasites, and fungi.
         * Breakdown of damaged body cells
         * Present antigen to T-helper cells
         * Secretion of inflammatory mediators
@@ -91,8 +93,6 @@ Exist in loose connective tissue and mucosa, and contain many intracellular gran
         * T cells
 
 
-
-
 ---
 ##References
-Power and Kam
+1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
