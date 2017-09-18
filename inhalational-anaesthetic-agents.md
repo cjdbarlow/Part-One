@@ -240,26 +240,26 @@ Factors affecting volatile washout:
     * Metabolism of agent  
     Agents undergoing metabolism are eliminated more rapidly.
     * Absorption of agent into circuit
-    * Percutaneous loss
+    * Percutaneous loss  
     Loss of agent by diffusion from tissues into external environment.    
 
 
 
 ###Alteration to Pharmacokinetics
-Increased rate of induction in children due to:
+Increased rate of induction in **children** due to:
 * Increased V<sub>A</sub>/FRC ratio  
 Increases P<sub>A</sub>.
 * Lower albumin and cholesterol  
 Reduced blood-gas solubility coefficients for some agents.
     
-Increased rate of induction in elderly due to:
+Increased rate of induction in **elderly** due to:
 * Lower MAC requirement
 * Lower albumin  
 Reduces blood-gas solubility coefficients for some agents.
 * Lower cardiac output  
-More rapid establishment of P<sub>B</sub>
+P<sub>a</sub> and therefore P<sub>B</sub> is established more rapidly.
 
-Altered rate of induction in pregnancy due to:
+Altered rate of induction in **pregnancy** due to:
 * Increased V<sub>A</sub>/FRC ratio
     * Increased minute ventilation  
     This is of greater importance in spontaneous ventilation, as this is controlled by the anaesthetist during controlled ventilation.
@@ -279,9 +279,9 @@ In **target-controlled anaesthesia**, FGF and agent F<sub>I</sub> are controlled
 * A more rapid induction, as the target F<sub>a</sub> is reached more rapidly
 
 In **liquid injection**, anaesthetic agent is injected into the breathing system. This causes:
-* A very large degree of overpressure
+* A very large degree of overpressure  
 In this circumstance, the rate of rise of end-expired agent concentration is identical for different agents.
-    * i.e. onset is independent of the blood:gas coefficient.
+    * i.e. Onset is independent of the blood:gas coefficient
 
 ##Mechanism of Action of Inhaled Anaesthetic Agents
 Mechanisms of action can be divided into:
@@ -307,7 +307,7 @@ Anaesthetic agents may alter the function of molecules within the CNS. These inc
     * Enhance the activity of two-pore K<sup>+</sup> channels  
     Increases the resting membrane potential of both pre-synaptic and post-synaptic CNS neurons.
     
-###Incomplete Theories of Mechanism of Action of General Anaesthetic Agents
+###Incomplete Theories of the Mechanism of Action of General Anaesthetic Agents
 **Meyer-Overton Hypothesis**:
 * Potency of anaesthetics relates to their lipid solubility  
 * Anaesthetic molecules dissolve into CNS membranes, disrupting their effect
@@ -328,9 +328,7 @@ Anaesthetic agents may alter the function of molecules within the CNS. These inc
 Different chemical and physical properties alter the effect of inhalational agents:
 * Physical
     * Molecular weight  
-    A decrease in molecular weight:
-        * Decreases boiling point, therefore
-        * Increases SVP
+    A decrease in molecular weight decreases boiling point and therefore increases SVP.
 * Chemical
     * H<sup>+</sup> content  
     Greater hydrogen content:
@@ -344,7 +342,7 @@ Different chemical and physical properties alter the effect of inhalational agen
         * Decreases potency
     * Cl<sup>-</sup> content  
     Increased chloride increases potency.
-    * -CHE<sub>2</sub> (Di-fluor-methyl group)  
+    * -CHF<sub>2</sub> (Di-fluor-methyl group)  
         * Produces CO in the presence of dry soda lime
 
 
@@ -389,18 +387,22 @@ From the properties discussed above, we can construct the following ideal agent:
 * No drug interactions
 
 ##References
-Pharmacology of anaesthetic agents II: inhalation anaesthetic agents
-Petkov
-Peck and Hill
-Dr. Podcast
-Millers
-https://www.ncbi.nlm.nih.gov/pubmed/11429373
-Inhaled Anaesthetics and nitrous oxide: Complexities overlooked: things may not be what they seem
-Minimum alveolar concentration: ongoing relevance and clinical utility.
-9. Lerman J, Gregory GA, Willis MM, Eger EI 2nd. [Age and solubility of volatile anesthetics in blood](
-(http://anesthesiology.pubs.asahq.org/article.aspx?articleid=1956070)). Anesthesiology. 1984 Aug;61(2):139-43.
+1. Khan KS, Hayes I, Buggy DJ. [Pharmacology of anaesthetic agents II: inhalation anaesthetic agents](https://academic.oup.com/bjaed/article/14/3/106/340726/Pharmacology-of-anaesthetic-agents-II-inhalation). Continuing Education in Anaesthesia Critical Care & Pain, Volume 14, Issue 3, 1 June 2014, Pages 106–111.
+2. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+3. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+4. Leslie RA, Johnson EK, Goodwin APL. Dr Podcast Scripts for the Primary FRCA. Cambridge University Press. 2011.
+5. Miller RD, Eriksson LI, Fleisher LA, Weiner-Kronish JP, Cohen NH, Young WL. Miller's Anaesthesia. 8th Ed (Revised). Elsevier Health Sciences.
+6. Zhou JX, Liu J. [The effect of temperature on solubility of volatile
+ anesthetics in human tissues](https://www.ncbi.nlm.nih.gov/pubmed/11429373
+). Anesth Analg. 2001 Jul;93(1):234-8.
+7. Hendrickx J, Peyton P, Carette R, De Wolf A. [Inhaled anaesthetics and nitrous 
+oxide: Complexities overlooked: things may not be what they seem](https://www.ncbi.nlm.nih.gov/pubmed/27164016). Eur J
+Anaesthesiol. 2016 Sep;33(9):611-9.
+8. Aranake A, Mashour GA, Avidan MS. [Minimum alveolar concentration: ongoing
+relevance and clinical utility](https://www.ncbi.nlm.nih.gov/pubmed/23414556). Anaesthesia. 2013 May;68(5):512-22. doi:
+10.1111/anae.12168.
+9. Lerman J, Gregory GA, Willis MM, Eger EI 2nd. [Age and solubility of volatile anesthetics in blood](http://anesthesiology.pubs.asahq.org/article.aspx?articleid=1956070). Anesthesiology. 1984 Aug;61(2):139-43.
 
-(http://anesthesiology.pubs.asahq.org/article.aspx?articleid=1956070)
 
 
 
