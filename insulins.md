@@ -1,6 +1,8 @@
 # Insulins {#id}
 
-Insulins are synthetic polypeptide hormones with a similar mechanism of action and pharmacodynamics of endogenous insulin.
+Insulins are synthetic polypeptide hormones. They:
+* Have a similar mechanism of action and pharmacodynamics of endogenous insulin
+* One unit of insulin is defined as the amount required to make a previously healthy 2kg rabbit hypoglycaemic
 
 ##Types of Insulin
 Different insulins are categorised by their time of **onset**, **peak**, and **duration**, and are classified as either:
@@ -21,7 +23,7 @@ Fast acting insulins include:
 * Insulin Lispro (Humalog)
 
 ###Intermediate Acting
-Intermediate Acting insulins are used for control of BSL between meals as a pseudo-basal bolus. Administered subcutaneously they have an:
+Intermediate acting insulins are used for control of BSL between meals as a pseudo-basal bolus. Administered subcutaneously they have an:
 * Onset of 1-2 hours
 * Peak at 4-6 hours
 * Last >12 hours
@@ -47,13 +49,17 @@ Long-acting insulins include:
 |**Uses**| Diabetes, hyperglycaemia, hyperkalaemia, β-blocker toxicity, Ca<sup>2+</sup>-blocker toxicity
 |**Presentation**| Clear colourless solution typically at 100 IU.ml<sup>-1</sup>
 |**Route of Administration**|SC, IM, IV
-|**Absorption**| Variable, as described
+|**Absorption**| Variable, as described above. Insulin is complexed with different substances (e.g. protamine, zinc), which alter its rate of absorption
 |**Distribution**| Minimal protein binding and minimal redistribution out of ECF - V<sub>D</sub> 0.075L.kg<sup>-1</sup>
 |**Metabolism**| Glutathione insulin transhydrogenase. Metabolism is constant - duration of action is entirely due to different rates of subcutaneous absorption.
 |**Elimination**| Renal of inactive metabolites
 
 ---
 ##References
-http://dtc.ucsf.edu/types-of-diabetes/type2/treatment-of-type-2-diabetes/medications-and-therapies/type-2-insulin-rx/types-of-insulin/
-https://www.ncbi.nlm.nih.gov/m/pubmed/12196433/
-Smith Scarth Sasada
+1. Diabetes Education Online. [Types of Insulin](http://dtc.ucsf.edu/types-of-diabetes/type2/treatment-of-type-2-diabetes/medications-and-therapies/type-2-insulin-rx/types-of-insulin/). UCSF. Accessed January 2016.
+2. Graph of insulin activity profiles from: Diabetes Education Online. [Types of Insulin](http://dtc.ucsf.edu/types-of-diabetes/type2/treatment-of-type-2-diabetes/medications-and-therapies/type-2-insulin-rx/types-of-insulin/). UCSF. Accessed January 2016.
+3. Mudaliar S, Mohideen P, Deutsch R, Ciaraldi TP, Armstrong D, Kim B, Sha X,
+Henry RR. [Intravenous glargine and regular insulin have similar effects on
+endogenous glucose output and peripheral activation/deactivation kinetic
+profiles](https://www.ncbi.nlm.nih.gov/pubmed/12196433/?ncbi_mmode=std). Diabetes Care. 2002 Sep;25(9):1597-602.
+4. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
