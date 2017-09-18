@@ -110,7 +110,7 @@ Flashcards are less demanding than doing questions, and a simple form of revisio
     * I used [anki](http:\\www.ankisrs.net), but use whatever works for you <br><br>
 4. **Do practice vivas**  
 Start before the written. There is a lot of crossover of skills between the viva and the written. Both require a structured approach, and good content knowledge.
-    * Take a break after the written exams, it is  exhausting
+    * Remember to take a break after the written exams, it is exhausting
 
 
 ##The Bottom Line
