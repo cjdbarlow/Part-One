@@ -6,7 +6,7 @@ Sustained high (>25mmHg) can lead to blindness due to compression of axons of th
 
 ##Determinants of Intraocular Pressure
 As the globe has typically poor compliance, a small increase in volume can cause a large increase in intraocular pressure. Factors affecting volume include:
-* Volume of aqueous humor  
+* Volume of **aqueous humor**  
 Aqueous humor is a clear fluid that fills the anterior and posterior chambers of the eye, and provides avascular tissues with nutrients and oxygen whilst still allowing light to pass freely between the lens and retina. Volume of aqueous humor is a function of:
     * Production  
     Aqueous humor is produced by secretion and filtration from capillaries in the ciliary body in the posterior chamber, and circulates through into the anterior chamber.
@@ -28,22 +28,21 @@ Aqueous humor is a clear fluid that fills the anterior and posterior chambers of
             Relaxes ciliary muscle, increasing absorption.
     
                     
-* Volume of blood within the globe  
+* Volume of **blood** within the globe  
 Affected by:
     * MAP 
     * Venous obstruction
     
     
-* External factors
+* **External factors**  
 Other factors affecting volume or compliance of the globe:
     * Extraocular muscle tension
     * Extraocular compression
     
 
-
-
 ---
 ##Refrences
-ANZCA July/August 2000
-Guyton
-Goel, M., Picciani, R. G., Lee, R. K., & Bhattacharya, S. K. (2010). Aqueous Humor Dynamics: A Review. The Open Ophthalmology Journal, 4, 52–59. http://doi.org/10.2174/1874364101004010052
+1. ANZCA July/August 2000
+2. Hall, JE, and Guyton AC. Guyton and Hall Textbook of Medical Physiology. 11th Edition. Philadelphia, PA: Saunders Elsevier. 2011. 
+3. Goel M, Picciani RG, Lee RK, Bhattacharya SK. [Aqueous Humor Dynamics: A Review. The Open Ophthalmology Journal](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3032230/). 2010;4:52-59.
+
