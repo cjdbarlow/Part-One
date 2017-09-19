@@ -22,7 +22,7 @@ As peripheral compartments fill the concentration gradient between plasma and co
     $$ Route \ Dosing \ Rate  = {Cld.C_{target} \over Bioavailability }$$
     * If the dosing is given intermittently, then:  
     $$Dosing \ Rate = Dose.Dose \ Interval$$
-  * **Volume of distribution** at **steady state** is termed **V<sub>D</sub><sup>ss</sup> and is the apparent volume into which a drug will disperse during a prolonged infusion, and is the sum of all compartment volumes in the model.
+  * **Volume of distribution** at **steady state** is termed **V<sub>D</sub>ss** and is the apparent volume into which a drug will disperse during a prolonged infusion, and is the sum of all compartment volumes in the model.
 
 ####Continuous Rate Infusions with Bolus Dosing
 As seen, above starting an infusion at the rate required to maintain steady state is inefficient:
@@ -34,11 +34,12 @@ $$ Loading \ dose = V_D.C_{target} $$
 ##Stopping an Infusion
 For a bi-exponential model (i.e. only one peripheral compartment), decline in plasma concentration can be modelled by the equation $$ C = Ae^{- \alpha t} + Be^{- \beta t}$$. In this model:
 * $$\alpha$$ is the time-constant for redistribution  
-If an infusion has reached steady state, then 
-* $$\beta$$ is the time-constant for **terminal elimination**
-* Neither $$\alpha$$ or $$\beta$$ correspond to any rate constant, but give rise to the terms redistribution half-life (t<sub>1/2α</sub>) and terminal elimination half-life (t<sub>1/2β</sub>)
+* $$\beta$$ is the time-constant for **terminal elimination**  
+(Provided the infusion has reached steady-state).
+* Neither $$\alpha$$ or $$\beta$$ correspond to any individual rate constant
 
-GRAPH PAGE 61 PECK AND HILL
+<object data="resources\biexponent.svg" type="image/svg+xml"></object>
+
 
 Factors affecting rate of offset of an infusion can be classified into pharmacokinetic, pharmacodynamic, and other drug factors:
 * **Pharmacokinetic factors**
@@ -48,7 +49,11 @@ Factors affecting rate of offset of an infusion can be classified into pharmacok
       * Ionisation  
       Ion trapping can cause drug to be sequestered.
       * Protein binding  
-      * Lipid solubility
+      * Lipid solubility  
+      Affected by body fat.
+    * Speed of distribution  
+      * CO  
+      Affects organ blood flow.
     * **Redistribution**  
     During an infusion, peripheral compartments become saturated with drug. When an infusion ceases, drug is redistributed central compartment.
       * This is related to **context-sensitive half time** (see below)
@@ -63,22 +68,14 @@ Factors affecting rate of offset of an infusion can be classified into pharmacok
       Zero-order kinetics.
     * Presence of active metabolites
   * Elimination  
-  Overlaps with metabolism.
-    * Route of clearance of active drug or active metabolites
-      * Organ failures
+  Route of excretion of active drug or active metabolites.
+    * Organ failures
 * **Pharmacodynamic Factors**
   * Age  
-    * Fat  
-    V<sub>D</sub>
-    * CO  
-    Organ blood flow.
     * Sensitivity  
     Dose required for effect and dose required for recovery.
-  * Sex  
-    * Fat
-  * Co-morbidities
-    * Organ failiures
-    * Pregnancy
+  * Organ failures
+  * Pregnancy
 * **Other drug factors**  
   * Pharmacokinetic interactions
     * Enzyme inhibition/induction
@@ -91,7 +88,7 @@ Factors affecting rate of offset of an infusion can be classified into pharmacok
 
 ###Context-Sensitive Half-Time
 **Context-sensitive half time** is:  
-**Defined** as the time for plasma concentration to fall to half of its value at the time of stopping an infusion.
+* **Defined** as the time for plasma concentration to fall to half of its value at the time of stopping an infusion
 * A method to describe the variability in plasma concentrations after ceasing an infusion  
 The "**context**" is the **duration of infusion**.
 * Used because terminal elimination half-life has little clinical utility for predicting drug offset  
@@ -103,14 +100,16 @@ Half-lives are often misleading when discussing drug infusions.
     * The longest context-sensitive half time occurs when an infusion is at steady-state
   * **Redistribution**  
   The maximal CSHT reached depends on the:
-    * **V<sub>D</sub><sup>ss</sup>**  
+    * **V<sub>D</sub>ss**  
     Drugs with a larger V<sub>D</sub><sup>ss</sup>* have a longer CSHT, as only a small proportion of the drug in the body will be in plasma and be is able to be cleared.
     * **Rate constant for elimination**  
     Drugs with a smaller rate constant for elimination have a longer CSHT.
 
 Drugs with longer context-sensitive half-times will wear off less predictably.
 
-![Context-sensitive half times: from: Hill SA. Pharmacokinetics of Drug Infusions. Contin Educ Anaesth Crit Care Pain (2004)](http://i.imgur.com/tfPtCad.jpg)[^3]
+<object data="resources\csht.svg" type="image/svg+xml"></object>
+
+
 
 * Remifentanil has little redistribution and small a small Vd in the peripheral compartments, and so has a very short context-**in**sensitive half time. It wears off reliably and quickly following cessation of infusion.
 
