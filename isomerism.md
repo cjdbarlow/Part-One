@@ -62,10 +62,9 @@ A drug produced with a single isomer, which may be **more effiacious** or **less
 
 
 ##References
-Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
-CICM. The Mock Exam. Available at: http://www.cicm.org.au/CICM_Media/CICMSite/CICM-Website/Trainees/Assessments%20and%20Examinations/First%20Part%20Exam/Mock-Exam-First-Part-Examination.pdf  
-Geometric isomerism. ChemGuide. Available at: http://www.chemguide.co.uk/basicorg/isomerism/geometric.html  
-ChEBI. Misoprostol. European Molecular Biology Laboratory. Available at: https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:63610
-ANZCA July/August 2000
-Get Through Primary FRCA: MTFs
-By James Day, Amy Thomson, Tamsin McAllister
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. CICM. [The Mock Exam](http://www.cicm.org.au/CICM_Media/CICMSite/CICM-Website/Trainees/Assessments%20and%20Examinations/First%20Part%20Exam/Mock-Exam-First-Part-Examination.pdf). 
+2. ChemGuide. [Geometric isomerism](http://www.chemguide.co.uk/basicorg/isomerism/geometric.html)
+3. ChEBI. [Misoprostol](https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:63610). European Molecular Biology Laboratory.
+4. ANZCA July/August 2000
+5. Day J, Thomson A, McAllister T. Get Through Primary FRCA: MTFs. 2014. Taylor & Francis Ltd.
