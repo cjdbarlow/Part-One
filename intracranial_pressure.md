@@ -12,48 +12,60 @@ In addition, a second set of Lundberg waves are described:
 * **B waves** are variable spikes in ICP at 30-120 second intervals, suggestive of cerebral **vasospasm**
 * **C waves** are oscillations that occur 4-8 times per minute, and are a benign phenomena occurring with respiratory and blood pressure variations
 
-**Raised intracranial pressure** may cause focal ischaemia when ICP >20mmHg, and global ischaemia when the ICP >50mmHg.
+**Raised intracranial pressure** may cause focal ischaemia when ICP >20mmHg, and global ischaemia when the ICP >50mmHg:
 
-In brainstem herniation, the Cushing reflex (a triad of hypertension, bradycardia, and irregular respiration) may occur as a result of brainstem compression and SNS and PNS activation. This tends to restore blood flow to the medulla.
+<object data="resources\monroe-kellie.svg" type="image/svg+xml"></object>
+
 
 ##Monroe Kellie Doctrine
-This states that the skull is a rigid container of a fixed volume, containing approximately 8 parts brain, 1 part blood, and 1 part CSF. As it has negligible elastance[^1], any **increase in volume** of one substance must **be met with** a **decrease in volume** of another **or** a **rise in ICP**.
+This states that the skull is a rigid container of a fixed volume, containing approximately 8 parts brain, 1 part blood, and 1 part CSF. As it has negligible elastance, any **increase in volume** of one substance must **be met with** a **decrease in volume** of another **or** a **rise in ICP**.
 
 ###Physiological Responses to an Increase in ICP
 * Displacement of CSF into the spinal subarachnoid space
 * Compression of vascular bed
 * Increased CSF reabsorption
 
+
+* The Cushing reflex may occur in brainstem herniation  
+This is a triad of hypertension, bradycardia, and irregular respiration secondary to SNS activation, and is a reflexive response to medullary ischaemia.
+ * Hypertension  
+ To improve CPP.
+ * Bradycardia  
+ Due to a baroreceptor response.
+ * Irregular respiration  
+ Due to respiratory centre dysfunction.
+
+
+
 ##Physiological Basis of Treatment
 Treatment can be classified as per the Monroe Kellie doctrine:
 
 ###Brain
-**Osmotic agents** such as mannitol and hypertonic saline increase plasma osmolality and expand blood volume, creating an osmotic gradient between brain parenchyma and blood. A reduction in brain oedema and ICP results.
-
-Timely **evacuation** of mass lesions and intracranial haemorrhage is important in the management of brain injury.
+* **Osmotic agents** such as mannitol and hypertonic saline  
+Increase plasma osmolality and expand blood volume, creating an osmotic gradient between brain parenchyma and blood with a resulting reduction in brain oedema and ICP.
+* Timely **evacuation** of mass lesions and intracranial haemorrhage
 
 ###CSF
-Placement of an **External Ventricular Drain** facilitates removal of CSF with a concominant reduction in ICP.
+* **External Ventricular Drain**  
+Facilitates removal of CSF.
 
 ###Blood
-Due to **flow-metabolism coupling**, reduction of cerebral metabolic rate reduces O<sub>2</sub> demand and therefore required blood flow. This can be achieved in a number of ways:
-* **Drugs**, such as propofol, benzodiazepines, or barbiturates  
-Depress cerebral metabolism, reducing oxygen requirements and cerebral blood flow.
-    * Also reduces **seizure** risk, which is detrimental because it greatly increases cerebral O<sub>2</sub> demand and impairs venous return.
-
-* **Hypothermia**  
-Causes a reduction in cerebral metabolism, reducing oxygen requirements, cerebral blood flow, and risk of seizures.
-
-* **Prevention of hypoxia or hypocapnoea**  
-  Hypoxia and hypercapnoea both cause vasodilataion, with a subsequent increase in cerebral blood volume, blood flow, and ICP.
-
-Induced **hypocarbia** causes vasoconstriction and a subsequent reduction in cerebral blood flow and blood volume. This creates a reduction in ICP but also a reduction in cerebral oxygen delivery. Consequently, a low-normal ETCO<sub>2</sub> target is used.
-
-
-* Reduced O<sub>2</sub> requirements, bloodReduction of cerebral metabolic rate**Sedation** has a number of beneficial effects on ICP:
-* Improves ventilator dyssyncrhony, limiting coughing and bearing down, and subsequent rises in ICP
-* Minimse seizure risk, which also result in rises to ICP
-
+* Reducing cerebral metabolic rate  
+Results in reduced blood flow due to **flow-metabolism coupling**. May be achieved with:
+ * **CNS depressants** such as propofol, benzodiazepines, or barbiturates  
+ Have several beneficial effects:
+  * Depress cerebral metabolism which reduces oxygen requirements
+  * Reduce **seizure** risk, which is detrimental because it greatly increases cerebral O<sub>2</sub> demand and impairs venous return
+  * Improves ventilator dyssyncrhony, limiting coughing and bearing down, and subsequent rises in ICP
+ * **Hypothermia**  
+ Causes a reduction in cerebral metabolism and risk of seizures.
+ * **Prevention of hypoxia or hypocapnoea**  
+  Hypoxia and hypercapnoea both cause vasodilatation, with a subsequent increase in cerebral blood volume, blood flow, and ICP.
+   * Induced **hypocarbia**  
+   Causes vasoconstriction and a subsequent reduction in cerebral blood flow and blood volume. This leads to:
+     * Reduction in ICP
+     * Reduction in cerebral oxygen delivery  
+    Consequently, a low-normal ETCO<sub>2</sub> target is used to avoid tissue hypoxia.
 
 
 ##Footnotes
