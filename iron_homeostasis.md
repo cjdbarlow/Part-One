@@ -1,7 +1,7 @@
 # Iron Homeostasis
 >	Describe the normal nutritional requirements
 
-Approximately 3-5g of iron is found in the body
+Approximately 3-5g of iron is found in the body as:
 * **Oxygen-carrying globin molecules** (~70%)  
 Haemoglobin and myoglobin.
 * **Catalyst** for biological reactions (~30%)  
