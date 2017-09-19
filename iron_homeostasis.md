@@ -31,4 +31,4 @@ Directly absorbed via specialised transport proteins.
 
 ---
 ##References
-Chambers
+1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.

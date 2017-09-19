@@ -101,7 +101,7 @@ Half-lives are often misleading when discussing drug infusions.
   * **Redistribution**  
   The maximal CSHT reached depends on the:
     * **V<sub>D</sub>ss**  
-    Drugs with a larger V<sub>D</sub><sup>ss</sup>* have a longer CSHT, as only a small proportion of the drug in the body will be in plasma and be is able to be cleared.
+    Drugs with a larger V<sub>D</sub>ss have a longer CSHT, as only a small proportion of the drug in the body will be in plasma and able to be cleared.
     * **Rate constant for elimination**  
     Drugs with a smaller rate constant for elimination have a longer CSHT.
 
@@ -111,10 +111,10 @@ Drugs with longer context-sensitive half-times will wear off less predictably.
 
 
 
-* Remifentanil has little redistribution and small a small Vd in the peripheral compartments, and so has a very short context-**in**sensitive half time. It wears off reliably and quickly following cessation of infusion.
+* Remifentanil has little redistribution and small a small Vd in the peripheral compartments, and so has a very short context-**in**sensitive half time  
+It wears off reliably and quickly following cessation of infusion.
 
 ####Context-Sensitive Decrement Time
-Context-Sensitive Decrement Times:
 * Describe the time it takes for a drug level to fall to a particular percentage of its starting value following cessation of an infusion
 * They are used because the half-times do not describe **monoexponential decay**  
 i.e. The time taken for drug concentration to reach 25% of its starting value is not twice the context sensitive half-time.
@@ -123,6 +123,5 @@ i.e. The time taken for drug concentration to reach 25% of its starting value is
 ---
 
 ##References
-Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
-Hill SA. Pharmacokinetics of Drug Infusions. Contin Educ Anaesth Crit Care Pain (2004) 4 (3): 76-80. Open Access, available at: http://ceaccp.oxfordjournals.org/content/4/3/76.full
-Image credit: Hill SA. Pharmacokinetics of Drug Infusions. Contin Educ Anaesth Crit Care Pain (2004): Available at: http://ceaccp.oxfordjournals.org/content/4/3/76/F2.expansion.html. 
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. Hill SA. [Pharmacokinetics of Drug Infusions](http://ceaccp.oxfordjournals.org/content/4/3/76.full). Contin Educ Anaesth Crit Care Pain (2004) 4 (3): 76-80.
