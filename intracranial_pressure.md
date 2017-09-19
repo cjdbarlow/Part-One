@@ -18,7 +18,12 @@ In addition, a second set of Lundberg waves are described:
 
 
 ##Monroe Kellie Doctrine
-This states that the skull is a rigid container of a fixed volume, containing approximately 8 parts brain, 1 part blood, and 1 part CSF. As it has negligible elastance, any **increase in volume** of one substance must **be met with** a **decrease in volume** of another **or** a **rise in ICP**.
+This states that:
+* The skull is a rigid container of a fixed volume, containing approximately 8 parts brain, 1 part blood, and 1 part CSF
+* As it has negligible elastance, any **increase in volume** of one substance must **be met with** a **decrease in volume** of another **or** a **rise in ICP**
+ * Elastance is *technically* correct as we are discussing a change in *pressure* for a given change in volume  
+ Compliance is a change in *volume* for a given change in pressure.
+
 
 ###Physiological Responses to an Increase in ICP
 * Displacement of CSF into the spinal subarachnoid space
@@ -68,12 +73,10 @@ Results in reduced blood flow due to **flow-metabolism coupling**. May be achiev
     Consequently, a low-normal ETCO<sub>2</sub> target is used to avoid tissue hypoxia.
 
 
-##Footnotes
-[^1] Elastance is technically correct as we are discussing a change in *pressure* for a given change in volume. Compliance is a change in *volume* for a given change in pressure.
-
 ---
 ##References
-Power and Kam
-Physics, Pharmacology and Physiology for Anaesthetists
-NEJM Traumatic Intracranial Hypertension
-Ganong
+1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+2. Cross ME, Plunkett EVE. Physics, Pharmacology, and Physiology for Anaesthetists: Key Concepts for the FRCA. 2nd Ed. Cambridge University Press. 2014.
+3. Stocchetti N, Maas AI. [Traumatic intracranial hypertension](http://www.nejm.org/doi/full/10.1056/NEJMra1208708). N Engl J Med. 2014
+May 29;370(22):2121-30. 
+4. Barrett KE, Barman SM, Boitano S, Brooks HL. Ganong's Review of Medical Physiology. 24th Ed. McGraw Hill. 2012.
