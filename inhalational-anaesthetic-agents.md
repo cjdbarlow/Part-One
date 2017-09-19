@@ -151,7 +151,7 @@ Factors affecting **alveolar concentration of agent:**
     **Absorption of agent** by the circuit will **decrease *F*<sub>i</sub>**.
 * **V<sub>A</sub>**  
 Increased alveolar ventilation increases *F*<sub>i</sub>, as it replenishes agent that has been taken up into the vasculature.
-    * Similarly, increased **dead space** will prolong induction, as anaesthetic gas will be delivered to non-perfused alveoli.
+    * Similarly, increased **dead space** will prolong induction, as anaesthetic gas will be delivered to non-perfused alveoli
 * **FRC**  
 A **large FRC** will dilute the amount of agent inspired with each breath, and so **reduce *F*<sub>i</sub>**.
     * This is measured with the V<sub>A</sub>/FRC ratio  
@@ -166,7 +166,7 @@ Use of N<sub>2</sub>O with another agent will increase the P<sub>A</sub> of that
         This is known as the **concentration effect**, and increases the pressure gradient driving diffusion into blood, increasing speed of onset.
             * The concentration effect is the cause of the second gas effect
             * The concentration effect is **more pronouced as FiN<sub>2</sub>O increases**
-            * The concentration effect is more profound in lung units with moderately **low V/Q ratios**, causing in a large increase in F<sub>a</sub>.  
+            * The concentration effect is more profound in lung units with moderately **low V/Q ratios**, causing in a large increase in F<sub>a</sub>  
             This results in a larger value of F<sub>a</sub> for any given F<sub>A</sub>, *even at steady state*.
         * Augmented ventilation as more inhalational agent is drawn in the alveoli from dead space gas
     * The second gas effect also causes **diffusion hypoxia**  
