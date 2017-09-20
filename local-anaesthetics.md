@@ -9,7 +9,11 @@ Action is dependent on blockade of the sodium channel. Two theories exist:
 * The ionised drug is then able to bind to the **open **sodium channel, and prevent conduction of sodium and therefore generation of an action potential
   * Local anaesthetics also display reduced affinity for K<sup>+</sup> and L-type Ca<sup>2+</sup> channels
   * This theory explains use-dependent blockade, as sodium channels can only be blocked in their open state
+  
+  
 * An alternative suggested mechanism of action is the drug enters the cell membrane and mechanically distorts the channel, rendering it ineffective
+
+
 * Onset is inversely proportional to the size of the fibre  
 From fastest to slowest:
   * Pain
@@ -73,7 +77,7 @@ Duration of action is a function of:
     * Lipid solubility  
     Increased lipid solubility increases duration of action, as agent remains in the nerve for longer.
       * Potency therefore has a positive correlation with duration of action
-      * Duration of action is increased when pH increases, as the ionised portion falls.  
+      * Duration of action is increased when pH increases, as the ionised portion falls  
     * Protein binding  
     Highly protein bound agents have an increased duration of action due to increased tissue binding.
       * Protein binding decreases with decreasing pH, increasing the fraction of unbound drug  
@@ -107,8 +111,7 @@ Speed of onset is related to:
         * This is also why anaesthetics are ineffective in anaesthetising infected tissue, as the low pH makes the majority of the LA ionised and unable to cross the cell membrane.
   * Patient factors
     * Nerve activity  
-    Local anaesthetics produce a **frequency dependent blockade**. Therefore:
-      * Nerves firing frequently will be blocked more easily than quiescent nerves
+    Local anaesthetics produce a **frequency dependent blockade**, meaning nerves firing frequently will be blocked more rapidly than quiescent nerves
     * Nerve fibre size  
     Larger nerves require an increased concentration of local anaesthetic to achieve blockade than smaller nerves.
     * Nerve type  
@@ -131,8 +134,7 @@ This occurs when the rate of drug entering the systemic circulation is greater t
 Toxicity is related to the:
 * **Drug factors**
   * **Drug used**  
-Agents are compared using the **CC/CNS ratio**:
-    * This is the ratio of the dose of drug required to cause cardiovascular collapse (CC) compared to the dose required to cause seizure (a crude alternative to the therapeutic index)
+Agents are compared using the **CC/CNS ratio**, which is the ratio of the dose of drug required to cause cardiovascular collapse (CC) compared to the dose required to cause seizure. It is a crude alternative to the therapeutic index.
   * **Dose used**  
 Continuous infusions are more likely to cause a delayed onset of local anaesthetic toxicity.
 
@@ -179,7 +181,7 @@ Severity of toxicity will vary depending on how long the agent binds to the chan
   * Lignocaine  
   Spends the shortest time bound to the channel, so causes the least amount of toxicity. This is also why lignocaine can be used as an antiarrhythmic, but other agents can not.
   * Buipivacaine  
-  Takes **10x as long** to dissociate as lignocaine. This can lead to re-entrant arrhythmias, and then VF. The **risk **of this is **increased in tachycardia**, as it potentiates use-dependent blockade.
+  Takes **10x as long** to dissociate as lignocaine. This can lead to re-entrant arrhythmias, and then VF. The **risk **of this is **increased in tachycardia** due to use-dependent blockade.
   * Ropivacaine  
   Dissociates more rapidly from cardiac channels than bupivacaine.
 * Direct myocardial depressant effects  
@@ -231,21 +233,20 @@ Mechanism of action in uncertain, but theories include:
   ILE may directly inhibit LA binding.
   
   
-* Dosing:
-    * Give Intralipid 20% 1.5ml.kg<sup>-1</sup> over 1 minute
-      * Followed by an infusion at 0.25ml.kg<sup>-1</sup>.min<sup>-1</sup>
+* Dosing of intralipid 20%:
+    * Bolus of 1.5ml.kg<sup>-1</sup> over 1 minute
+    * Infusion at 15ml.kg<sup>-1</sup>.hr<sup>-1</sup>
 
 
 * Complications include **pancreatitis**  
 Note that ILE interferes with amylase and lipase assays, and so these will be unreliable.
     
-Note that whilst propfol can be used to treat seizures, the amount of lipid contained in propofol is inadequate to bind LA.
-sup>.
+* Note that whilst propfol can be used to treat seizures, the amount of lipid contained in propofol is inadequate to bind LA
+
 
 ---
 ##References
-Peck and Hill
-https://academic.oup.com/bjaed/article/15/3/136/279390/Local-anaesthetic-systemic-toxicity
-Petkov
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1693664/pdf/i0003-3006-53-3-98.pdf
-
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. Christie LE, Picard J, Weinberg GL. [Local anaesthetic systemic toxicity](https://academic.oup.com/bjaed/article/15/3/136/279390/Local-anaesthetic-systemic-toxicity). Continuing Education in Anaesthesia Critical Care & Pain, Volume 15, Issue 3, 1 June 2015, Pages 136–142.
+3. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+4. Becker DE, Reed KL. [Essentials of Local Anesthetic Pharmacology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1693664/pdf/i0003-3006-53-3-98.pdf). Anesthesia Progress. 2006;53(3):98-109.
