@@ -2,7 +2,7 @@
 > Describe the mechanisms of drug clearance and metabolism.
 
 Removal of drug from the body requires either:
-* Metabolism of active drug  
+* Metabolism of active drug to an inactive substance  
 Typically by the liver, but other organs (kidney, lungs) also metabolise some substances.
 * Excretion of active drug  
 Often by the kidneys, but may also be in bile, or exhaled.
@@ -11,9 +11,10 @@ Often by the kidneys, but may also be in bile, or exhaled.
 
 
 ##Clearance
-Clearance describes the elimination of drug from the body. Clearance:
-* As discussed in modelling, clearance is the **volume of plasma completely cleared of a drug per unit time**  
+Clearance describes the elimination of drug from the body. Clearance is:
+* The **volume of plasma completely cleared of a drug per unit time**  
 Measured in ml.min<sup>-1</sup>.
+  * Discussed further in [modelling](pharmacokinetic_modelling.md)
 * Does not include redistribution
 * Is calculated from the area under the concentration time curve:  
 $$Cl = {Dose \over AUC}$$
