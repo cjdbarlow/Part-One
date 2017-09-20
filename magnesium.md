@@ -1,6 +1,12 @@
 # Magnesium
 
-MgSO<sub>4</sub> is a cation that is important for neurotransmission and neuromuscular excitability. It inhibits ACh release at the NMJ, and is a cofactor in multiple enzyme systems and for ATP, DNA, and RNA production.
+Mg<sup>2+</sup> is a cation that is important for neurotransmission and neuromuscular excitability. Magnesium:
+* Inhibits ACh release at the NMJ
+* Acts a cofactor in multiple enzyme systems
+* Is important in the production of:
+    * ATP
+    * DNA
+    * RNA
 
 
 |[Plasma]|Effect|
