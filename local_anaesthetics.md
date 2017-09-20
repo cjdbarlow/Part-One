@@ -3,7 +3,6 @@
 * Local anaesthetic drugs deliver a use-dependent, temporary blockade of neuronal transmission
 * **Unionised** drug **passes through the cell membrane**, and then becomes **ionised intracellularly**
 * The ionised drug is then able to bind to the ion channel, and prevent conduction of sodium and therefore generation of an action potential
-* An alternative suggested mechanism of action is the drug enters the cell membrane and mechanically distorts the channel
 
 
 * All local anaesthetics consist of:
@@ -15,7 +14,7 @@
 ##Common Features of Local Anaesthetics
 |Property|Action|
 |--|--|
-|**Class**|Amide (-NHCO-) or Ester (-CCO-)
+|**Class**|Amide (-NHCO-) or Ester (-COOH-)
 |**Pharmaceutics**|Amides are stable in solution, esters are unstable in solution. All are formulated as a hydrochloride salt to ensure water solubility.
 |**pKa**|All are weak bases, and have a pKa > 7.4
 |**Onset**|Onset is related to dose (Fick's Law) and pKa, with a **low pKa** giving a **faster onset** as there is more unionised drug present and therefore more drug able to cross the cell membrane. This is why local anaesthetics are poor at anaesthetising infected tissues, as the tissue pH is low resulting in a greater proportion of ionised drug, and less drug reaching the effect site.
@@ -24,16 +23,16 @@
 |**Absorption**|Systemic absorption **varies with site of entry** (from highest absorption to lowest: IV, intercostal, caudal epidural, lumbar epidural, brachial plexus, subcutaneous), **dose**, and **presence of vasoconstrictors**
 |**Distribution**|Amides are extensively protein bound, esters are minimally bound
 |**Metabolism**|Amides are hepatically metabolised, esters are hydrolysed by plasma cholinesterases (giving a much shorter t<sub>1/2</sub>)
-|**CVS**|Vasodilatation at low concentrations, vasoconstriction at high concentrations. Inhibition of cardiac Na<sup>+</sup> channels, inhibiting maximum rate of rise of phase 0 of the cardiac action potential. Negative inotropy proportional to potency
+|**CVS**|Vasodilatation at low concentrations, vasoconstriction at high concentrations. Inhibition of cardiac Na<sup>+</sup> channels, inhibiting maximum rate of rise of phase 0 of the cardiac action potential. Negative inotropy proportional to potency.
 |**CNS**|Does-dependent CNS effects: circumoral tingling, visual disturbances, tinnitus, tremors, dizziness, slurred speech, convulsions, coma, apnoea. Potentiated by other CNS depressants and hypercarbia (due to ↑ CBF and ↓ seizure threshold).
-|**Toxic Effects**|Esters have a higher incidence of **allergy**. Local anaesthetic toxicity is predominantly CNS and CVS. 
+|**Toxic Effects**|Esters have a higher incidence of **allergy** due to their metabolite para-amino benzoic acid (PABA). Local anaesthetic toxicity is predominantly CNS and CVS. 
 
 ##Comparison of Local Anaesthetics
 |Property|Lignocaine|Bupivacaine|Ropivacaine|Cocaine
 |--|--|
 |**Class**|Amide|Amide|Amide|Ester
 |**Uses**|Local/regional/epidural, ventricular dysrhythmia|Local/regional/epidural|Local/regional/epidural|Topical anaesthesia and vasoconstriction
-|**Presentation**| Clear, colourless solution at 0.5/1/2% with or without adrenaline. Spray. Ointmment. 4% solution.|Clear, colourless solution at 0.25/0.5%|Clear, colourless solution|1-4% solution
+|**Presentation**| Clear, colourless solution at 0.5/1/2% with or without adrenaline. Spray. Ointment. 4% solution.|Clear, colourless solution at 0.25/0.5%|Clear, colourless solution|1-4% solution, Moffat's solution (8% cocaine, 1% NaCO<sub>3</sub>, 1:2 000 adrenaline)
 |**pKa**|7.9|8.1|8.1|8.6
 |**Route of Administration**|SC, epidural, IV|SC, epidural|SC, epidural|Topical
 |**Onset/Duration**|Rapid onset, short duration|Intermediate onset, long duration|Intermediate onset, long duration|20-30 minutes
@@ -81,10 +80,10 @@ Effect of topical local anaesthetics is governed by **Fick's Law**.
 
 ---
 ##References
-CICM March/May 2009
-Peck and Hill
-Smith Scarth Sasada
-https://www.openanesthesia.org/local_anesthetics_systemic_toxicity/
-http://www.nysora.com/regional-anesthesia/foundations-of-ra/3492-local-anesthetics-clinical-pharmacology-and-rational-selection.html
-Dr. Podcast Local Anaesthetics
-https://academic.oup.com/bjaed/article/15/3/136/279390/Local-anaesthetic-systemic-toxicity
+1. CICM March/May 2009
+2. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+3. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+4. Open Anaesthesia. [Local Anaesthetics Systemic Toxicity](https://www.openanesthesia.org/local_anesthetics_systemic_toxicity/)
+5. Gadsden J. [Local Anaesthetics: Clinical Pharmacology and Rational Selection](http://www.nysora.com/regional-anesthesia/foundations-of-ra/3492-local-anesthetics-clinical-pharmacology-and-rational-selection.html). NYSORA.
+6. Leslie RA, Johnson EK, Goodwin APL. Dr Podcast Scripts for the Primary FRCA. Cambridge University Press. 2011.
+7. Christie LE, Picard J, Weinberg GL. [Local anaesthetic systemic toxicity](https://academic.oup.com/bjaed/article/15/3/136/279390/Local-anaesthetic-systemic-toxicity). Continuing Education in Anaesthesia Critical Care & Pain, Volume 15, Issue 3, 1 June 2015, Pages 136–142.
