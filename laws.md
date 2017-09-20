@@ -47,8 +47,13 @@ $$ E \ (mV) = {R.T \over z.F}ln{[ion]_{outside} \over [ion]_{inside}} $$, where:
     * $$F$$ is Faraday's Constant
     * $$z$$ is the ionic valency (e.g. +2 for Mg<sup>+2</sup>, -1 for Cl<sup>-</sup>)
 
-
-
+* **Henderson-Hasselbalch**
+Calculates the pH of a buffer solution:  
+$$pH = pK_a + log{[A^-] \over [HA]}$$, where:
+    * $$pH$$ is the pH of the solution
+    * $$pK_a$$ is the pKa of the buffer
+    * $$A^-$$ is the concentration of base
+    * $$HA$$ is the concentration of acid
 
 ##Respiratory Laws
 * **Modified Bohr Equation**  
