@@ -30,7 +30,7 @@ Sound travels through tissues at a **depth propotional to frequency**. At tissue
 
 
 ##Doppler Effect
-The doppler effect is the change in observed frequency when a wave is reflected (or emitted from) a moving object, relative to the position of the receiver. In medical ultrasound, it is the change in frequency of sound reflected from a moving erythrocyte. It is given by the equation:
+The doppler effect is the change in observed frequency when a wave is reflected off (or emitted from) a moving object, relative to the position of the receiver. In echocardiography, this is the change in frequency of sound reflected from a moving particle. It is given by the equation:
 
 $$ V = { \Delta Fs \over 2F_0cos\theta} $$ where: 
 

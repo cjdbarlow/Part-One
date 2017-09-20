@@ -16,4 +16,4 @@ Selectively inhibit the cysteiny leukotriene receptor, increased activity of whi
 
 ---
 ##References
-UpToDate: Montelukast
+1. . Lexicomp. Montelukast: Drug information. In: UpToDate, Post, TW (Ed), UpToDate, Waltham, MA, 2017.

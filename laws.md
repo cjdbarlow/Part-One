@@ -47,7 +47,16 @@ $$ E \ (mV) = {R.T \over z.F}ln{[ion]_{outside} \over [ion]_{inside}} $$, where:
     * $$F$$ is Faraday's Constant
     * $$z$$ is the ionic valency (e.g. +2 for Mg<sup>+2</sup>, -1 for Cl<sup>-</sup>)
 
-* **Henderson-Hasselbalch**
+
+* **Goldman-Hodgkin-Katz Equation**  
+Calculates the membrane potential for given vlaues of intracellular and extracellular ionic concentrations:  
+ $$ E \ (mV) = {R.T \over F }ln{P_K[K^+]_o \ + \ P_{Na}[Na^+]_o \ + \ P_{Cl}[Cl^-]_i \over P_K[K^+]_i + \ P_{Na}[Na^+]_i \ + \ P_{Cl}[Cl^-]_o}$$, where:
+    * $$P_x$$ is the permeability constant for the ion, $$x$$  
+    If the membrane is impermeable to $$x$$, then $$P_x = 0 $$.
+
+
+
+* **Henderson-Hasselbalch**  
 Calculates the pH of a buffer solution:  
 $$pH = pK_a + log{[A^-] \over [HA]}$$, where:
     * $$pH$$ is the pH of the solution
@@ -108,6 +117,16 @@ $$ Net \ flow \ out = K[(P_c - P_i) - \sigma (\pi_c - \pi_i))] $$
 * **Venous Admixture**  
 Calculates the shunt fraction by identifying how much mixed venous blood must be added to ideal pulmonary capillary blood to produce the identified arterial oxygen content. 
 $${\dot{Q}_S \over \dot{Q}_T} = {Cc'_{O_2} - Ca'_{O_2} \over Cc'_{O_2} - C\bar{v}'_{O_2}}$$
+
+##Equipment
+* **Doppler equation**  
+Calculates the velocity of an object based on the change in observed frequency when a wave is reflected off (or emitted from) the object:  
+$$ V = { \Delta Fs \over 2F_0cos\theta} $$ where: 
+    * $$ V $$ = Velocity of object  
+    * $$ F $$ = Frequency shift  
+    * $$ s $$ = Speed of sound (in blood)  
+    * $$ F_0 $$ = Frequency of the emitted sound  
+    * $$ \theta $$ = Angle between the sound wave and the object
 
 
 
