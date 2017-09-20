@@ -17,5 +17,5 @@ Inhibit protein synthesis by disrupting the 50S ribosomal subunit. May be bacter
 
 ---
 ##References
-Peck and Hill
-UpToDate
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. Lexicomp. Clindamycin (systemic): Drug Information. In: UpToDate, Post, TW (Ed), UpToDate, Waltham, MA, 2017.

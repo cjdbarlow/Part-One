@@ -1,6 +1,6 @@
 # Leukotriene Antagonists
 
-Selectively inhibit the cysteiny leukotriene receptor, increased activity of which is involved in airway oedema and bronchial smooth muscle constriction.
+Selectively inhibit the cysteinyl leukotriene receptor, increased activity of which is involved in airway oedema and bronchial smooth muscle constriction.
 
 |Property|Montelukast|
 |--|--|
