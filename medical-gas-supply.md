@@ -125,8 +125,12 @@ Instead it is cooled by:
 Many systems exist to ensure safety:
 * Colour coding of cylinders and hoses
     * Oxygen is white
-    * Air is black
+    * Nitrogen is black
+        * Air is black with white shoulders  
     * Nitrous oxide is blue
+    * Helium is brown
+        * Heliox is brown with white shoulders
+    * Carbon dioxide is grey-green
 * Labelling of connections
 * The **pin index system**  
 Used to prevent the wrong gas yoke being connected to a cylinder
