@@ -8,14 +8,6 @@ Mg<sup>2+</sup> is a cation that is important for neurotransmission and neuromus
     * DNA
     * RNA
 
-
-|[Plasma]|Effect|
-|--|--|
-|< 0.7 mmol.L<sup>-1</sup>| Arrhythmia|
-|4-6 mmol.L<sup>-1</sup>|Nausea, **hyporeflexia**, speech impairment|
-|6-10 mmol.L<sup>-1</sup>|Weakness, respiratory depression, bradycardia|
-|> 10 mmol.L<sup>-1</sup>|Cardiac arrest|
-
 |Property|Action|
 |--|--|
 |**Uses**|HypoMg, arrhythmia, eclampsia, tocolysis, barium poisoning, asthma, tetanus, autonomic hyperreflexia|
@@ -29,8 +21,16 @@ Mg<sup>2+</sup> is a cation that is important for neurotransmission and neuromus
 |**CNS**|CNS depression, anticonvulsant|
 |**GU**|↓ Uterine tone and contractility|
 
+##Clinical Effects of Magnesium
+|[Plasma]|Effect|
+|--|--|
+|< 0.7 mmol.L<sup>-1</sup>| Arrhythmia|
+|4-6 mmol.L<sup>-1</sup>|Nausea, **hyporeflexia**, speech impairment|
+|6-10 mmol.L<sup>-1</sup>|Weakness, respiratory depression, bradycardia|
+|> 10 mmol.L<sup>-1</sup>|Cardiac arrest|
+
 ---
 ##References
-Smith Scarth Sasada
-Peck and Hill
-Rang and Dale
+1. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+2. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+3. Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.
