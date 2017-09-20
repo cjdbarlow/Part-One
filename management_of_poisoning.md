@@ -12,7 +12,7 @@
 * **Resuscitation**
     * A: Control in any patient with significantly impaired conscious state
     * B: Oxygen if not previously applied. Mechanical ventilation if required.
-    * C: intravenous access is always required. Central venous access may be required.
+    * C: Intravenous access is always required. Central venous access may be required.
     * D: Glucose level. Control seizures.
     * E: Control hypothermia
 
@@ -27,7 +27,7 @@
 
 
 * **Decontamination**
-    * Activated charcoal may be appropriate if recent ingestion (<1 hour) and the airway is secured
+    * Activated charcoal *may* be appropriate if recent ingestion (<1 hour) and the airway is secured
 * **Enhanced Elimination**
     * Used in severe poisoining when supportive care is likely to be inadequate. Includes:
       * Urinary alkalinsation
@@ -42,5 +42,5 @@
 
 ---
 ##References
-  [^1]: Chris Nickson. Approach to the Acute Poisoning. LITFL. Available at: http://lifeinthefastlane.com/ccc/approach-to-acute-poisoning/  
-  [^2]: Benzodiazepines. Dr. Podcast Primary FRCA Pharmacology.
+1. Nickson, C. [Approach to the Acute Poisoning](http://lifeinthefastlane.com/ccc/approach-to-acute-poisoning/). LITFL.
+2. Leslie RA, Johnson EK, Goodwin APL. Dr Podcast Scripts for the Primary FRCA. Cambridge University Press. 2011.

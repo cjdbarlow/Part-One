@@ -1,16 +1,20 @@
 # Mechanisms of Action
 
-Drugs can act in three ways:
+Drugs can act in four ways:
 
 * **Receptors**
-  * Ion Channels
   * GPCR
   * Intracellular
-    Cytoplasmic
-    * Intranuclear  
+      * Cytoplasmic
+      * Intranuclear  
       e.g. Steroids, which alter RNA expression.
 
-            
+
+* **Ion Channels**  
+  * Blockade
+  * Allosteric modulation
+
+                        
 * **Enzyme interaction  **  
   An enzyme is a biological catalyst, increasing the speed of reaction. Enzyme interaction can be:
   * Irreversible inhibition  
@@ -19,7 +23,6 @@ Drugs can act in three ways:
   * Competitive antagonism  
     * e.g. ACE-I.
   * Non-competitive antagonism
-
 
 
 * **Physicochemically**
@@ -33,8 +36,7 @@ Drugs can act in three ways:
 ---
 
 ##References
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
 
-Peck and Hill
-
-Petkov
 
