@@ -214,6 +214,9 @@ Systemic Vascular Resistance
 ##TSH
 Thyroid Stimulating Hormone
 
+##VIE
+Vacuum Insulated Evaporator
+
 ##VR
 Venous Return
 
