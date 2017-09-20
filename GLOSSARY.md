@@ -3,11 +3,17 @@
 ##ACTH
 Adrenocorticotrophic Hormone
 
-##ANP
-Atrial Natriuretic Peptide
+##ADP
+Adenosine diphosphate
 
 ##ADH
 Anti-Diuretic Hormone
+
+##ANP
+Atrial Natriuretic Peptide
+
+##ATP
+Adenosine Triphosphate
 
 ##BNP
 Brain Natriuretic Peptide
@@ -59,6 +65,9 @@ Diastolic Blood Pressure
 
 ##DRG
 Dorsal Respiratory Group
+
+##DNA
+Deoxyribonucleic Acid
 
 ##ECT
 Electron Transport Chain
@@ -180,6 +189,9 @@ Right Atrial Pressure
 
 ##RR
 Respiratory Rate
+
+##RNA
+Ribonucleic Acid
 
 ##RVEDP
 Right Ventricular End-Diastolic Pressure
