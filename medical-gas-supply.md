@@ -133,7 +133,7 @@ Many systems exist to ensure safety:
     * Carbon dioxide is grey-green
 * Labelling of connections
 * The **pin index system**  
-Used to prevent the wrong gas yoke being connected to a cylinder
+Used to prevent the wrong gas yoke being connected to a cylinder.
     * Pins protrude from the back of the yoke
     * Holes exist on the valve block
     * Pins and holes must line up for the cylinder to be connected
@@ -142,14 +142,30 @@ Used to prevent the wrong gas yoke being connected to a cylinder
         * Oxygen: 2-5
         * Air: 1-5
         * Nitrous oxide: 3-5
+* **Sleeve Index System**  
+Used in Australia when connecting pipeline gases.
+    * Wall block contains a sleeve when prevents fitting the incorrect gas hose to the wall
+    * Screw thread is identical in all cases
 * **Non-Interchangeable Screw Thread** (NIST)  
-Used when connecting pipeline gases.
+Used (but not in Australia) when connecting pipeline gases.
     * NIST connectors have a probe and a nut
     * Probe diameter is gas-specific, preventing the wrong gas from being connected
+
+
+* **Testing**  
+    * Must demonstrate
+        * Correct oxygen concentrations
+        * Absence of contaminatiaon
+        * Delivery of adequate pressure when several other systems on the same pipeline are in use
+    * Testing must be performed twice on a new installation:
+        * First by engineers
+        * Second by a medical officer  
+        In theatres, this should be the director of the anaesthetic department or their delegate, who should hold fellowship of ANZCA.
 
 
 ---
 ##References
 1. Aston D, Rivers A, Dharmadasa A. Equipment in Anaesthesia and Intensive Care: A complete guide for the FRCA. Scion Publishing Ltd. 2014.
 2. ANZCA August/September 2016
-3. [The Essential Chemical Industry Online - Oxygen, Nitrogen, and the rare gases](http://www.essentialchemicalindustry.org/chemicals/oxygen.html)
+3. The Essential Chemical Industry Online - [Oxygen, Nitrogen, and the rare gases](http://www.essentialchemicalindustry.org/chemicals/oxygen.html).
+4. Thompson, C. [The Anaesthetic Machine - Gas Supplies](http://www.anaesthesia.med.usyd.edu.au/resources/lectures/gas_supplies_clt/gas_supplies.html). University of Sydney.
