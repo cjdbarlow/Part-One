@@ -30,4 +30,4 @@ Occurs over days to weeks. Includes:
 
 ---
 ##References
-1. [Describe how the body handles metabolic acidosis](https://primarysaqs.files.wordpress.com/2009/12/2007a1105a15describe-how-the-body-handles-a-metabolic-acidosis.pdf) - Diaz Notes.
+1. Diaz, A. [Describe how the body handles metabolic acidosis](https://primarysaqs.files.wordpress.com/2009/12/2007a1105a15describe-how-the-body-handles-a-metabolic-acidosis.pdf). Primary SAQs.

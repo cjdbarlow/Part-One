@@ -6,27 +6,28 @@
 ##Types of Isomerism
 Isomers can be divided into:
 * **Structural Isomers**  
-Atoms are connected in entirely different orders, and may contain different functional groups. Structural isomerism is subdivided into:
+Identical chemical formula but different arrangement of atoms. Structural isomerism is subdivided into:
     * **Static**  
     Further subdivided into:
         * Chain isomer  
         The carbon skeleton varies, but position of functional groups is static.
         * Position isomer  
         The carbon skeleton is static, but the position of functional groups varies.
-            * e.g. isoflurane vs. enflurane
+            * e.g. Isoflurane vs. enflurane
     * **Dynamic** (also known as tautomere)  
     The molecule exists in a different molecular structures depending on the environment.
-        * e.g. midazolam has pH dependent imidazole ring opening. When the pH is less than 4 the ring remains open, maintaining water solubility. Midazolam is supplied at pH of 3.5, and so is water soluble on injection but (due to its pKa of 6.5) becomes 89% unionised at physiological pH therefore able to cross lipid membranes.
+        * e.g. Midazolam has pH dependent imidazole ring opening. When the pH is less than 4 the ring remains open, maintaining water solubility. Midazolam is supplied at pH of 3.5, and so is water soluble on injection but (due to its pKa of 6.5) becomes 89% unionised at physiological pH therefore able to cross lipid membranes.
 
 
 * **Stereoisomers**  
-Atoms are connected in the same order in each isomer, but differ in their spatial arrangement (i.e. through rotation). Stereoisomers are **not-superimposable** - the different isomers can't be rotated so that they look the same. Stereoisomers are divided into:
+Atoms are connected in the same order in each isomer, but different orientation of functional groups. Stereoisomers are **not-superimposable**, meaning the different isomers can't be rotated so that they look the same. Stereoisomers are divided into:
     * **Geometric Isomers**  
     Have a chemical structure (e.g. a carbon-carbon double-bond) prevents free rotation of groups, so different locations of chemical groups will create an isomer. Geometric isomers are known as **cis-** or **trans-** depending on whether the subgroups are on the same or opposite sides (respectively) of the chemical structure.
-        * e.g. atracurium
+        * e.g. Atracurium
     * **Optical Isomers**  
     Optical isomers are **chiral**. This means they have **no plane of symmetry**. Optical isomers:
-        * Were named based on how they rotated under polarised light:
+        * Were initially named based on how they rotated under polarised light:  
+        (Note this is *different* from D- and L- molecules, where the D-isomer refers to the molecule synthesised from (+)glyceraldehyde).
             * **Dextrorotatory**  
             (d- or (+) isomers) molecules rotate **clockwise** under polarised light.
             * **Levorotatory**  
@@ -48,18 +49,15 @@ Atoms are connected in the same order in each isomer, but differ in their spatia
                 * For a molecule with *n* chiral centres up to *n<sup>2</sup>* isomers are possible, though some of these may be duplicates.
 
 ##Preparations
-**Racemic solutions**  
+Drugs can be provided as:
+* **Racemic solutions**  
 A **racemic** solution is one which where the different enantiomers are present in equal proportions.
 
-**Enantiopure preparations**  
+* **Enantiopure preparations**  
 A drug produced with a single isomer, which may be **more effiacious** or **less toxic** (and definitely more expensive) than the racemic preparation.
 
 
 ---
-
-##Footnotes
-[^1]: Note this is *different* from D- and L- molecules, where the D-isomer refers to the molecule synthesised from (+)glyceraldehyde.
-
 
 ##References
 1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  

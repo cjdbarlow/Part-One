@@ -4,7 +4,7 @@
 
 ##Synthetic Function
 Measures of synthetic function include:
-*  Albumin  
+*  **Albumin**  
 Main plasma protein.
     * Normal range 28-58g.L<sup>-1</sup>
     * Half-life ~20 days
@@ -17,19 +17,19 @@ Main plasma protein.
 
 
         
-* Coagulation Assays  
-Clotting factors are produced by the liver. Hepatic impairment may result in reduced production, and abnormality of clotting assays, although functional clotting function may be normal (as pro-coagulant proteins are affected to a similar extent).
+* **Coagulation Assays**  
+Clotting factors are produced by the liver. Hepatic impairment may result in reduced production and abnormality of clotting assays, although functional clotting function may be normal (as pro-coagulant proteins are affected to a similar extent).
     * INR  
     Test of the extrinsic pathway.
-    * APTT
+    * APTT  
     Test of intrinsic pathway.
     
 ##Metabolic Function
 Transaminases are released when liver parenchyma is damaged, and are used to evaluate metabolic function:
-* ALT
-    * Normal range < 54 U.L<sup>-1</sup>
-* AST
-    * Normal range < 35 U.L<sup>-1</sup>
+* ALT  
+Normal range < 54 U.L<sup>-1</sup>.
+* AST  
+Normal range < 35 U.L<sup>-1</sup>.
 
 ##Obstructive Tests
 * ALP (Alkaline Phosphatase)  
@@ -45,4 +45,4 @@ Byproduct of haemaglobin metabolism. May be measured as total, or as conjugated 
 
 ---
 ##References
-https://primarysaqs.files.wordpress.com/2009/12/2010b16outline-the-clinical-laboratory-assessment-of-liver-function.pdf
+Diaz, A. [Outline the clinical laboratory assessment of liver function](https://primarysaqs.files.wordpress.com/2009/12/2010b16outline-the-clinical-laboratory-assessment-of-liver-function.pdf). Primary SAQs.

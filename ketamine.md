@@ -19,9 +19,9 @@ Local anaesthetic-like effect.
 |**Dosing**|Induction: 1-2mg.kg<sup>-1</sup> IV, 5-10mg.kg<sup>-1</sup> IM, Sedation: 0.2-0.5mg.kg<sup>-1</sup> IV|
 |**Distribution**|25% protein bound. t<sub>1/2</sub>α 10-15 minutes|
 |**Metabolism**| Hepatic metabolism to active norketamine by CYP450 and then to inactive metabolites, t<sub>1/2</sub>β 2-4 hours|
-|**Elimination**|Renal eliminiation of inactive metabolites. Action of norketamine prolonged in renal failure.|
-|**Resp**|Bronchodilation, tachypnoea, relative presevation of laryngeal reflexes. Apnoea with rapid injection. Preserved central response to CO<sub>2</sub>.|
-|**CVS**|↑ Sympathetic outflow: ↑ HR, ↑ BP ↑ SVR ↑ MVO<sub>2</sub>. Acts directly as a myocardial depressant. Depresses baroreceptor reflex.|
+|**Elimination**|Renal elimination of inactive metabolites. Action of norketamine prolonged in renal failure.|
+|**Resp**|Bronchodilation, tachypnoea, relative preservation of laryngeal reflexes. Apnoea with rapid injection. Preserved central response to CO<sub>2</sub>.|
+|**CVS**|↑ Sympathetic outflow: ↑ HR, ↑ BP, ↑ SVR, ↑ MVO<sub>2</sub>. Acts directly as a myocardial depressant - beware maximally stimulated patient. Depresses baroreceptor reflex.|
 |**CNS**|Dissociation, analgesia, emergence phenomena (hallucinations, delirium) reduced by concurrent BDZ administration (increasing risk with higher doses and rapid administration). <br><br>Produces dissociative anaesthesia within 90 seconds by dissociating thalmaocortical and limbic systems on EEG. Purposeful movements unrelated to stimulus may occur even during surgical anaesthesia.<br><br>↑ IOP.|
 |**Renal**|Cystitis with long-term, high-dose use|
 |**GIT**|N/V|
@@ -29,7 +29,7 @@ Local anaesthetic-like effect.
 
 ---
 ##References
-Peck and Hill
-Smith, Scarth, Sasada
-CICM July/Sept 2007
-http://www.frca.co.uk/Documents/107%20-%20IV%20induction%20agents.pdf
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+3. CICM July/Sept 2007
+4. Lupton T, Pratt O. [Intravenous drugs used for the induction of anaesthesia](http://www.frca.co.uk/Documents/107%20-%20IV%20induction%20agents.pdf). 
