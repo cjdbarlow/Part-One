@@ -6,21 +6,21 @@
 ###Fractional Distillation
 Oxygen is produced on the industraial scale by fractional distillation of atmospheric air. This process:
 * Relies on the fact that **different gases** have **different boiling points**  
-By liquifying air and then heating it gradually, each gas can be removed separately.
+By liquifying air and then heating it gradually, each gas can be removed separately as it boils.
 * Occurs in stages:    
-    * Atmospheric air  is filtered
+    * Atmospheric air  is filtered  
     Removes dust and other contaminants.
     * Air is **compressed** to **6 atm** and **then cooled** to below ambient temperature  
-    Water vapour condenses and then can be removed.
+    Water vapour condenses and is removed.
     * Compressed air passed through a **zeolite seive** which removes CO<sub>2</sub>
-    * Compressed air is allowed to reexpand  
-    As it does so it loses energy as per **Gay-Lussac's Law**, and liquifies.
-        * Air must be cooled below the boiling point of the desired gases
+    * Compressed air is allowed to re-expand  
+    As it does so it loses heat energy as per **Gay-Lussac's Law**, and liquifies.
+        * Air must be cooled below the boiling point of the desired gases  
         This requires getting gases very cold, and so the process may be mechanically assisted using a turbine, and/or a heat exchanger. Key boiling points (at 1 atm):
             * Nitrogen: 77°K
             * Oxygen:  90°K
             * Helium: 4°K  
-            Helium *can* be produced by fractional distillation, but liquifying it is understandably difficult given the very, very low boiling point. Helium can be mined, as helium produced by alpha decay of radioactive materials may be trapped in gas pockets under the earth.
+            Helium *can* be produced by fractional distillation, but liquifying it is understandably difficult given the very, very low boiling point. Helium can also be mined, as helium produced by alpha decay of radioactive materials may be trapped in gas pockets under the earth.
     * Liquid air is then **fractionally distilled**  
     Temperature of liquid air is raised slowly.
         * As the boiling point of each gas is reached (e.g. 77°K for nitrogen), that gas will begin to vaporise from the liquid, and can be collected
@@ -40,7 +40,7 @@ Oxygen concentrators:
 ####Pros
 * Cheap
 * Reliable
-* Avoid need for oxygen deliery
+* Avoid need for oxygen delivery
 
 ####Cons
 * Result in an accumulation of argon when used at low flows on a circle system
@@ -54,22 +54,23 @@ Gas cylinders are:
 * Used as:
     * Backup for a piped supply
     * When a piped supply is not available (transports)
-    * When the gas is uncommonly used (e.g. nitric)
+    * When the gas is uncommonly used (e.g. nitric oxide)
 
 
 * The common cylinder used in hospital is **CD**  
 This contains **460 L** of oxygen at 15°C and 137 bar.
 
+
 * Cylinders are not completely filled, to reduce risk of overpressure and explosions if the temperature rises
     * The **filling ratio** is the weight of liquid in a full cylinder compared to the weight of water that would completely fill the cylinder
         * In cool climates, the filling ratio is ~0.75
         * In warmer climates, the filling ratio is reduced to ~0.67
-
 * Cylinders are tested for safety every 5-10 years  
 Tests include:
     * Endoscopic examination
     * Tensile tests  
     1% of cylinders are destroyed to perform testing on the metal.
+
 
 ####Pros
 * Portable
@@ -82,7 +83,8 @@ Tests include:
 ###Cylinder Manifolds
 Cylinder manifolds are formed of sets of large gas cylinders used in parallel.
 * All cylinders in a group are used together
-* When the pressure falls below a level, a valve will start drawing gas from another cylinder group
+* When the pressure falls below a set level, a pressure valve will switch and gas will be drawn from another cylinder group
+* The first (now empty) cylinder group is exchanged full full cylinders
 
 ####Pros
 * Cheap
