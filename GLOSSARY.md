@@ -203,7 +203,7 @@ Right Ventricular End-Diastolic Volume
 Systolic Blood Pressure
 
 ##STP
-Standard Temperature and Pressure
+Standard Temperature and Pressure (0°C at 100kPa)
 
 ##SV
 Stroke Volume
