@@ -99,6 +99,6 @@ A single stimulus lasting ~0.2ms is applied.
 
 ---
 ##References
-Dr. Podcast
-http://emedicine.medscape.com/article/2009530-overview#a3
-https://academic.oup.com/bjaed/article/6/1/7/347026/Monitoring-of-neuromuscular-block
+1. Leslie RA, Johnson EK, Goodwin APL. Dr Podcast Scripts for the Primary FRCA. Cambridge University Press. 2011.
+2. Saenz, AD. [Peripheral Nerve Stimulator - Train of Four Monitoring](http://emedicine.medscape.com/article/2009530-overview#a3). 2015. Medscape.
+3. McGrath CD, Hunter JM. [Monitoring of neuromuscular block](https://academic.oup.com/bjaed/article/6/1/7/347026/Monitoring-of-neuromuscular-block). Continuing Education in Anaesthesia Critical Care & Pain, Volume 6, Issue 1, 1 February 2006, Pages 7–12.
