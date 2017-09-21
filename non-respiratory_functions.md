@@ -36,11 +36,15 @@ The pulmonary endothelium has a variety of effects on drugs and endogenous hormo
 The highly compliant pulmonary circulation contains a resevoir of ~500ml of blood which acts as a **volume reserve** for the LV.
 
 ##Defence
-The large surface area required for gas exchange leaves the lung vulnerable to invasion by airborn substances. This risk is attentuated by a number of mechanisms:
+The large surface area required for gas exchange leaves the lung vulnerable to invasion by airborn substances. This is attentuated by:
 * Mucous  
- A mucous layer protects large airways, as large (>8μm) particles impact into the mucous. It is exocytosed by goblet cells in reponse to noxious stimuli including chemical irritation as well as inflammatory and neuronal stimulation. The efficacy of the mucous-cilia system is enhanced by bronchoconstriction, which reduces flow velocity and causes particulate matter to settle.
+ A mucous layer protects large airways, as large (>8μm) particles impact into the mucous.   
+  * Mucous is exocytosed by goblet cells in reponse to noxious stimuli including chemical irritation as well as inflammatory and neuronal stimulation
+  * The efficacy of the mucous-cilia system is enhanced by bronchoconstriction, which reduces flow velocity and causes particulate matter to settle
 * Cilia  
-  Cilia are projections from epithelium which beat rhythmically at ~12Hz to propel mucous out of the airway at a rate of ~4mm.min<sup>-1</sup>. Ciliary function can be impeded by pollutants, smoke, and infection, and stimulated by anaesthetic agents.
+  Cilia are projections from epithelium which beat rhythmically at ~12Hz to propel mucous out of the airway at a rate of ~4mm.min<sup>-1</sup>.
+   * Ciliary function can be impeded by pollutants, smoke, and infection
+   * Ciliary function is stimulated by anaesthetic agents
 * Inhaled particles which reach the respiratory zone are not trapped by mucous, but instead phagocytosed by alveolar macrophages
 * Bronchoconstriction reduces flow velocity and causes particlate particles to settle in the mucous
 
@@ -54,3 +58,7 @@ Important endocrine functions of the lung include:
 * Release of inflammatory mediators such as histamine, endothelin, and eicosanoids
 * Release of nitric oxide to regulate smooth muscle
 * ACE metabolises angiotensin I to angiotensin II
+
+---
+##References
+1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
