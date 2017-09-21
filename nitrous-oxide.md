@@ -32,14 +32,14 @@ Entonox is a 50/50 mixture of nitrous oxide and oxygen, used as analgesia in lab
 |Property|Entonox (50% O<sub>2</sub>, 50% N<sub>2</sub>O)
 |--|--|
 |**Pharmaceutics**| The gases dissolve each other and behave differently than would be expected from their individual properties. This is the **Poynting effect**.
-|**Critical Temperature/Pressure**| *Pseudo*critical temperature of **-7°C**, below which it will separate into **liquid** 50% N<sub>2</sub>O (with some dissolved O<sub>2</sub>), and gaseous O<sub>2</sub>. This is most likely to occur at 117 bar, and can lead to delivery of a hypoxic mixture. <br><br> Delivery of a hypoxic mix is prevented by: storing cylinders horizontally (↑ area for diffusion), at temperatures >5°C, and using a dip tube so that liquid 50% N<sub>2</sub>O is used before the gaseous mixture
+|**Critical Temperature/Pressure**| *Pseudo*critical temperature of **-7°C**, below which it will separate into **liquid** 50% N<sub>2</sub>O (with some dissolved O<sub>2</sub>), and gaseous O<sub>2</sub>. This is most likely to occur at 117 bar, and can lead to delivery of a hypoxic mixture. <br><br> Delivery of a hypoxic mix is prevented by: <br>-Storing cylinders horizontally (↑ area for diffusion)<br> Storing cylinders at temperatures > 5°C <br>-Using a dip tube so that liquid 50% N<sub>2</sub>O is used before the gaseous mixture
 
 ---
 
 ##References
-Peck and Hill
-Petkov
-ANZCA Feb/April 2006
-doi: 10.2344/0003-3006(2007)54[9:AIUTAO]2.0.CO;2
-Smith, Scarth, Sasada
-Antiemetic paper with N2O and PONV
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+3. ANZCA February/April 2006
+4. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+5. Emmanouil DE, Quock RM. [Advances in Understanding the Actions of Nitrous Oxide](http://www.anesthesiaprogress.org/doi/abs/10.2344/0003-3006%282007%2954%5B9%3AAIUTAO%5D2.0.CO%3B2). Anesthesia Progress. 2007;54(1):9-18. doi:10.2344/0003-3006(2007)54[9:AIUTAO]2.0.CO;2.
+6. Hendrickx, J., Peyton, P., Carette, R., & De Wolf, A. (2016). [Inhaled anaesthetics and nitrous oxide](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2614651/). European Journal of Anaesthesiology, 33(9), 611–619.
