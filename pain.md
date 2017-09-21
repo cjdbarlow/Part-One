@@ -87,7 +87,7 @@ The response to a painful stimulus requires a cascade of processes:
     * Descending inhibitory input reduces nociceptive transmission  
     Basis of "gate control" theory. Descending input increased with:
       * Touch  
-      Aβ 'touch' fibres stimulate inhibitory interneurones in the dorsal horn, 'closing the gate' by increasing **descending inhibition** and prevent signals from peripheral C fibres from rising ascending to the thalamus.
+      Aβ 'touch' fibres stimulate inhibitory interneurones in the dorsal horn, 'closing the gate' by increasing **descending inhibition** and prevent signals from peripheral C fibres from rising to the thalamus.
       * Arousal
       * Opioid receptors  
       Particularly MOP (pre- and post-synaptically).
@@ -168,7 +168,7 @@ Nervous System Changes:
 * **Central Nervous System**  
   * Decreased pain perception
   * Increased sensitivity to anaesthetic and analgesics  
-  Reach maximal pain more rapidly.
+  Reach ceiling effects more rapidly.
   * Degeneration of myelin  
   Subsequent cognitive dysfunction due to neuronal circuit dysfunction.
   * Generalised atropy
@@ -177,12 +177,11 @@ Nervous System Changes:
 
 ---
 ##References
-Peck and Hill
-http://www.australianprescriber.com/magazine/19/3/63/5
-Ganong
-Power and Kam
-Chambers
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. Schug SA, Palmer GM, Scott DA, Halliwell R, Trinca J. [Acute Pain Management: Scientific Evidence](http://fpm.anzca.edu.au/documents/apmse4_2015_final). 4th Ed. 2015. Australian and New Zealand College of Anaesthetists and Faculty of Pain Medicine.
+3. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+4. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+5. Merskey H, Bogduk N. Classification of Chronic Pain. 2nd Ed. 1994. IASP Task Force on Taxonomy. IASP Press, Seattle. 
 6. Halaszynski T. [Influences of the Aging Process on Acute Perioperative Pain Management in Elderly and Cognitively Impaired Patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3684333/). The Ochsner Journal. 2013;13(2):228-247.
-Merskey & Bogduk. Classification of Chronic Pain. 1994
-Melzack R, Wall PD. Pain mechanisms: A new theory
-Gibson S. Pathophysiology of Pain.
+7. Melzack R, Wall PD. [Pain mechanisms: a new theory](https://www.ncbi.nlm.nih.gov/pubmed/5320816). Science. 1965. 19;150(3699):971-9.
+8. Gibson S. Pathophysiology of Pain.

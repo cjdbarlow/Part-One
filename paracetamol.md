@@ -35,9 +35,9 @@ Paracetamol an analgesic and antipyretic which is typically classed as an NSAID,
   * NAPQI then bonds with sulfylhydrl groups on hepatocytes, causing centriolobular hepatic necrosis and cell death
   
   
-  * Toxic dose:
-    * **>200mg.kg<sup>-1</sup>**, or
-    * Repeated ingestion of >150mg.kg<sup>-1</sup>.day<sup>-1</sup> for two days, or
+  * Toxic doses:
+    * **>200mg.kg<sup>-1</sup>** in a single ingestion
+    * Repeated ingestion of >150mg.kg<sup>-1</sup>.day<sup>-1</sup> for two days
     * \>100mg.kg<sup>-1</sup>.day<sup>-1</sup> for three days
 
 * Risk factors for toxicty:
@@ -60,7 +60,7 @@ Paracetamol an analgesic and antipyretic which is typically classed as an NSAID,
 * Haemolytic anaemia
 * Distributive shock
 * Hyperglycaemia
-* Late (>48 hours) heaptic failure
+* Late (>48 hours) hepatic failure
 * Later (3-5 days) coagulopathy
 * Fulminant hepatic failure (3-7 days)
 
@@ -73,6 +73,6 @@ Paracetamol an analgesic and antipyretic which is typically classed as an NSAID,
 
 ---
 ##References
-Smith Scarth Sasada
-Peck and Hill
-http://www.rch.org.au/clinicalguide/guideline_index/Paracetamol_Poisoning/
+1. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+2. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+3. [Paracetamol Poisoning](http://www.rch.org.au/clinicalguide/guideline_index/Paracetamol_Poisoning/). Royal Children's Hospital.
