@@ -36,7 +36,8 @@ Nictotinic ACh receptors sit on the shoulders of junctional folds of muscle cell
 |Lithium|Potentiates blockade|Augments action of NMBs
 
 ###Additional Factors Affecting Onset of Neuromuscular Blockade
-Most of these can be related to Fick's Law.
+Most of these can be related to Fick's Law:
+
 |Factor|Effect|Mechanism|
 |--|--|--|
 |Potency|Low potency decreases time to onset|Bowman's principle: Less potent drugs must be administered in higher doses, and so have a greater concentration gradient driving diffusion to the effect site
