@@ -21,15 +21,13 @@
 * Therefore coronary blood flow is the limiting factor  
   * Coronary blood flow is given by the equation:  
   $$CBF = {P_{Aortic \ Root} - P_{Cavity} \over Coronary \ Vascular \ Resistance}$$
-    * Aortic *root* pressure is the driving pressure for coronary flow
+    * Aortic *root* pressure is the driving pressure for coronary flow  
     * Cavity (ventricular) pressure acts as a **Starling resistor** for coronary flow  
-    * Coronary vascular resistance
- 
- 
- * Note that **cavity and aortic root pressure change throughout the cardiac cycle**, therefore:
-   * The flow to each ventricle is different during the cardiac cycle
-   * The left ventricle is **best perfused in diastole**  
-   Therefore **heart rate** is an important determinant of coronary blood flow, as **tachycardia will decrease coronary blood flow**
+      * Note that if RAP exceeds cavity pressure, RAP will be the pressure opposing coronary flow (due to downstream pressure at the coronary sinus)
+   * Note that **cavity and aortic root pressure change throughout the cardiac cycle**, therefore:
+     * The flow to each ventricle is different during the cardiac cycle
+     * The left ventricle is **best perfused in diastole**  
+     Therefore **heart rate** is an important determinant of coronary blood flow, as **tachycardia will decrease coronary blood flow**
 
 Flow to each ventricle can be graphed as these relationships change over the cardiac cycle:
 
@@ -44,7 +42,7 @@ A change in heart rate will change the number of tension-generating cycles, caus
 
 
 * **Contractility**  
-Refers to the **rate** of tension development as well as its **magnitude**. Changing $$\Delta P \over \Delta t $$ will change MVO<sub>2</sub>.
+Refers to the **rate** of tension development as well as its **magnitude**. Changing $$\Delta P \over \Delta t \ $$ will change MVO<sub>2</sub>.
 
 
 * **Ventricular wall tension**  
