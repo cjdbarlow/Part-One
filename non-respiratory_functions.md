@@ -1,13 +1,21 @@
 # Non-Respiratory Functions
 >Outline the non-ventilatory functions of the lungs
 
-The lungs are a unique organ in that the entire cardiac output passes though the pulmonary circulation, they have a huge capillary bed which blood is in contact with, and a large interface with the external environment. Consequently they are adapted to a number of non-respiratory functions, which include:
-* Filtration
-* Metabolism
-* Blood resevoir
-* Immune defence
-* Drug delivery
-* Endocrine
+The lungs are a unique organ as:
+* The entire cardiac output passes though the pulmonary circulation
+* They have a huge capillary bed which blood is in contact with
+* They have a large interface with the external environment
+
+Consequently they are adapted to a number of non-respiratory functions, which include:
+* **F**iltration
+* **I**mmune defence
+* Blood **r**esevoir
+* **M**etabolism
+* Drug Delivery
+ * (**T**aking up drugs)
+ * **I**nhalational Anaesthetics
+* **S**ynthetic 
+ * Endocrine
 
 ##Filtration
 The entire cardiac output passes through the 7μm pulmonary capillaries, which act as an effective sieve for particulate matter. This function may be impaired by intra-cardiac shunting (e.g. PFO) or pre-capillary anastomses.
