@@ -72,6 +72,9 @@ Dorsal Respiratory Group
 ##DNA
 Deoxyribonucleic Acid
 
+##DOP
+D-type (δ) opioid receptor
+
 ##ECT
 Electron Transport Chain
 
@@ -118,7 +121,7 @@ Inferior Vena Cava
 Intraocular Pressure
 
 ##KOP
-K-type opioid receptor
+K-type (κ) opioid receptor
 
 ##LAD
 Left Anterior Descending
@@ -146,6 +149,9 @@ Minimum Alveolar Concentration
 
 ##MAP
 Mean Arterial Pressure
+
+##MOP
+M-type (μ) opioid receptor
 
 ##MV
 Minute Ventilation

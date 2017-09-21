@@ -23,32 +23,6 @@ Respiratory effects predominantly due to increased fat load and its distribution
     * FRC may approach closing capacity
     * Shunt may worsen during anaesthesia
 
-##Cardiovascular Effects
-Increased fat bed causes increased:
-* V̇O<sub>2</sub> and V̇CO<sub>2</sub>
-* Cardiac output  
-To meet increased V̇O<sub>2</sub> requirements.
-* Stroke volume  
-Main method of increasing CO.
-* Blood volume  
-Due to RAAS activation.
-
-Additionally:
-* Increased PVR  
-Reduction in FRC due to hypoxic pulmonary vasoconstriction increases right ventricular afterload.
-
-Compensatory changes result, causing:
-* Systemic and pulmonary hypertension
-* Ventricular remodeling
-    * Ventricular hypertrophy  
-    Due to pressure overload.
-    * Ventriculr dilation  
-    Due to volume overload.
-    
-These compensatory changes lead to:
-* Arrhythmias  
-Due to change in myocardial architecture and hypoxia.
-* Increased circulating catecholamines
 
 ##GIT Effects
 Increased risk of:
