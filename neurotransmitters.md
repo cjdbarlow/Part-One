@@ -31,7 +31,7 @@ N-methyl D-aspartate receptor is an ionotropic receptor that is:
 * Agonised by glutamate
     * Glycine is co-agonist
 * Voltage dependent  
-    * Central pore usually blocked by an Mg<sup2+</sup> ion
+    * Central pore usually blocked by an Mg<sup>2+</sup> ion
     * Becomes unblocked when partially depolarised
 * Important in the action of drugs which do not act at the GABA<sub>A</sub> receptor   
 Agonised by:
