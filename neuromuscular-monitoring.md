@@ -4,7 +4,7 @@
 
 <!--></!-->
 
-> <p style="color:purple";>Describe the clinical features ~~and management~~ of inadequate reversal of neuromuscular blockade</p>
+> <p style="color:purple";>Describe the clinical features <strike>and management</strike> of inadequate reversal of neuromuscular blockade</p>
 
 The degree of neuromuscular blockade can be assessed:
 * Clinically  
