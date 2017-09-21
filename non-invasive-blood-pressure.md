@@ -17,14 +17,14 @@ Performs both arterial occlusion and measurement.
 * Pressure tranducer
 * Display
 
-Process:
+Method:
 * Cuff is inflated above SBP
 * Cuff deflates at a rate of 2-3mmHg.s<sup>-1</sup>  
 When cuff pressure equals:
     * SBP  
     Turbulent flow occurs past the cuff, creating pressure oscillations. The pressure at which these are **first detected** is the **SBP**.
     * MAP  
-    The **amplitude** of pressure oscillations is maximal.
+    The pressure at which **amplitude** of oscillations is maximal.
 * DBP is calculated from MAP and DBP
 
 ###Cons
@@ -64,6 +64,6 @@ When cuff pressure equals:
 
 ---
 ##References
-ANZCA July/August 2000
-Aston
-Dr Podcast
+1. ANZCA July/August 2000
+2. Aston D, Rivers A, Dharmadasa A. Equipment in Anaesthesia and Intensive Care: A complete guide for the FRCA. Scion Publishing Ltd. 2014.
+3. Leslie RA, Johnson EK, Goodwin APL. Dr Podcast Scripts for the Primary FRCA. Cambridge University Press. 2011.
