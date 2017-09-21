@@ -47,9 +47,9 @@ All opioid receptors are Gi receptors. Activation:
 
 Mechanism of effects:
 * **Respiratory depression**  
-Due to reducing central chemoreceptor sensitivity to CO<sub>2</sub>.
+Decreases central chemoreceptor sensitivity to CO<sub>2</sub>.
 * **Constipation**  
-Occurs due to stimulation of opioid receptors in the gut.
+Stimulation of opioid receptors in the gut.
     * Normally activated by local endogenous opioids (used as neurotransmitters)
     * Agonism of these receptors (µ, k, and to a smaller extent, δ) reduces GIT secretions and peristalsis
 

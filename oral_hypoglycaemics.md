@@ -20,7 +20,7 @@
 
 ---
 ##References
-Peck and Hill
-Petkov
-https://www.nps.org.au/australian-prescriber/articles/dapagliflozin
-http://www.racgp.org.au/afp/2013/october/sglt2-inhibition-with-dapagliflozin/
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+3. [Dapaglifozin for Type 2 Diabetes](https://www.nps.org.au/australian-prescriber/articles/dapagliflozin). 2013. Aust Prescr 2013;36:174-9.
+4. Kilov G, Leow S, Thomas M. [SGLT2 inhibition with dapagliflozin: A novel approach for the management of type 2 diabetes](http://www.racgp.org.au/afp/2013/october/sglt2-inhibition-with-dapagliflozin/). American Family Physician. Volume 42, No.10, October 2013 Pages 706-710.
