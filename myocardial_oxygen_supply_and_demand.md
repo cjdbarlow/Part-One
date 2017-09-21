@@ -61,20 +61,22 @@ Ventricular wall tension is **pressure work**, or the work done by the ventricle
 
 **Minor determinants** of myocardial work are:
 * **External work**  
-External work can also be thought of as **volume work**, or the energy expected to eject blood from the ventricle.
+External work can also be thought of as **volume work**, or the energy expended to eject blood from the ventricle.
   * This is encompassed by the area enclosed by the pressure-volume loop
-    * Conversely, internal work is defined as the work required to change the shape of the ventricle and prepare it for ejection, and on the pressure-volume loop is represented by a triangle between the point of 0 pressure and volume, the end systolic point, and the beginning of rapid ventricular filling.
+    * Conversely, internal work is defined as the work required to change the shape of the ventricle and prepare it for ejection  
+    On the pressure-volume loop internal work is represented by a triangle between the point of 0 pressure and volume, the end systolic point, and the beginning of rapid ventricular filling.
   * This is a minor determinant because the majority of ventricular work is generating the pressure required to eject blood, not actually move volume
   * External work is of greater importance at high CO
   * External work is used to calculate **cardiac efficiency**, given by the equation:  
   $$Cardiac \ Efficiency = {External \ Work \over \ Myocardial \ O_2 \ Consumption }$$
+
 
 * **Basal oxygen consumption**   
 Basal oxygen consumption (~8ml.min<sup>-1</sup>.100g<sup>-1</sup>) comprises ~25% of MVO<sub>2</sub>.
 
 ---
 ##References
-Dr Podcast Scripts for the Final FRCA
-Power and Kam
-Grossman's Cardiac Catheterization, Angiography, and Intervention
-Millers
+1. Grossman W, Baim DS. Grossman's Cardiac Catheterization, Angiography, and Intervention. 7th Ed (revised). 2006. Lippincott Williams and Wilkins.
+2. Leslie RA, Johnson EK, Goodwin APL. Dr Podcast Scripts for the Primary FRCA. Cambridge University Press. 2011.
+3. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+4. Miller RD, Eriksson LI, Fleisher LA, Weiner-Kronish JP, Cohen NH, Young WL. Miller's Anaesthesia. 8th Ed (Revised). Elsevier Health Sciences.
