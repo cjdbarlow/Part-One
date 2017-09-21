@@ -4,7 +4,7 @@
 |--|--|
 |**Class**|Naturally occuring gas|
 |**Uses**|Improve FiO<sub>2</sub>, CO poisoning, hyperbaric O<sub>2</sub> therapy|
-|**Presentation**|Clear, colourless, odourless gas at STP. Critical temperature **-119°C**, manufactured by fractional distillation.|
+|**Pharmaceutics**|Clear, colourless, odourless gas at STP. Critical temperature **-119°C**, manufactured by fractional distillation. Highly flammable.|
 |**Route of Administration**|Inhaled|
 |**Dosing**|0.21-1.0 FiO<sub>2</sub>|
 |**Absorption**|Diffusion across the alveolar capillary membrane in proportion to its pressure gradient, and inversely proportional to the area and thickness of the membrane|
