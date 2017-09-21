@@ -1,7 +1,6 @@
 # Metronidazole
 
-* Metronidazole interrupts cellular metabolism by **preferential reduction**, capturing electrons that would be usually transferred to other molecules
-  * Causes a build up of cytotoxic intermediate metabolic compounds and free radicals, that result in DNA breakage and subsequent cell death
+Metronidazole interrupts cellular metabolism by **preferential reduction**, capturing electrons that would be usually transferred to other molecules. This leads to a build up of cytotoxic intermediate metabolic compounds and free radicals, that result in DNA breakage and subsequent cell death.
 
 |Property|Drug
 |--|--|
