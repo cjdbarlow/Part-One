@@ -3,9 +3,8 @@
 
 The neuromuscular junction is a chemical communication between the motor neuron and the muscle cell. Vesicles containing ACh are released when activated by Ca<sup>2+</sup>, and influx of which occurs when the action potential reaches the nerve terminal.
 
-Nictotinic ACh receptors sit on the shoulders of junctional folds of muscle cells, whilst acetylcholinesterase are buried in the clefts.
+Nictotinic ACh receptors sit on the shoulders of junctional folds of muscle cells, whilst acetylcholinesterase is buried in the clefts.
 
-DIAGRAM PAGE 167 PECK AND HILL
 
 ##Factors Affecting Neuromuscular Blockade
 ###Patient Factors
@@ -14,10 +13,10 @@ DIAGRAM PAGE 167 PECK AND HILL
 |Hepatic Disease|Prolonged duration of aminosteroids and suxamethonium|Decreased metabolism, decreased production of succinylcholine in severe disease|
 |Pseudocholinesterase deficiency|Prolonged duration of suxamethonium|Decreased metabolism|
 |Age|Increased sensitivity in neonates, particularly premature infants|Incomplete maturation of NMJ
-|Hypokalaemia|Potentiates non-depolarising blockade, reduces depolarising blockade|Increases magnitude stimulus required to depolarise cell
+|Hypokalaemia|Potentiates non-depolarising blockade, reduces depolarising blockade|Increases magnitude of stimulus required to depolarise cell
 |Hyperkalaemia|Potentiate depolarising blockade, reduce non-depolarising blockade|Decreases magnitude of stimulus required to depolarise cell
 |Hypermagnesaemia|Potentiates blockade|Decreases ACh release, decreases sensitivity of post-synaptic membrane|
-|Hypocalcaemia|Potentiates blockade|Decreases presynaptic ACH release, decreaeses sensitivity of post-synaptic membrane
+|Hypocalcaemia|Potentiates blockade|Decreases presynaptic ACH release, decreases sensitivity of post-synaptic membrane
 |Respiratory acidosis|Potentiates blockade|Enhances effect of NMB agents
 |Hypothermia|Potentiates blockade|Reduces hepatic metabolism, renal elimination, Hoffman degradation
 |Hypovolaemia|Slows rate of onset and enhances duration|Prolonged circulation time
@@ -34,9 +33,10 @@ DIAGRAM PAGE 167 PECK AND HILL
 |Anticholinesterases|Reduces blockade|Increase ACH levels at the NMJ by decreasing breakdown
 |OCP|Potentiates depolarising blockade|Competes for binding sites on plasma cholinesterases|
 |Ca<sup>2+</sup>-channel blockers|Potentiate blockade|Inhibit Ca<sup>2+</sup> dependent ACh release|
-|Lithium|Potentiates Blockade|Augments action of NMBs
+|Lithium|Potentiates blockade|Augments action of NMBs
 
 ###Additional Factors Affecting Onset of Neuromuscular Blockade
+Most of these can be related to Fick's Law.
 |Factor|Effect|Mechanism|
 |--|--|--|
 |Potency|Low potency decreases time to onset|Bowman's principle: Less potent drugs must be administered in higher doses, and so have a greater concentration gradient driving diffusion to the effect site
@@ -49,7 +49,7 @@ DIAGRAM PAGE 167 PECK AND HILL
 
 ---
 ##References
-http://www.anesthesiologynews.com/download/ANSE07_NeuroblockERWM.pdf
-http://www.icuadelaide.com.au/files/primary/pharmacology/neuromuscular.pdf
-http://austinpublishinggroup.com/anesthesia-analgesia/fulltext/ajaa-v2-id1030.php
-ANZCA February/April 2011
+1. Sterling E, Winstead PS, Fahy BG. [Guide to Neuromuscular Blocking Agents](http://www.anesthesiologynews.com/download/ANSE07_NeuroblockERWM.pdf). 2007. Anesthesiology News. 
+2. ICU Adelaide. [Neuromuscular Blockers](https://icuadelaide.com.au/files/primary/pharmacology/neuromuscular.pdf).
+3. Pino RM. [Revisiting the Priming Principle for Neuromuscular Blockers: Usefulness for Rapid Sequence Inductions](http://austinpublishinggroup.com/anesthesia-analgesia/fulltext/ajaa-v2-id1030.php). Austin J Anesthesia and Analgesia. 2014;2(5): 1030.
+4. ANZCA February/April 2011
