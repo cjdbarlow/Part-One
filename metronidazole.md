@@ -20,6 +20,5 @@
 
 ---
 ##References
-Peck and Hill
-
-UpToDate
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. Lexicomp. Metronidazole (systemic): Drug information. In: UpToDate, Post, TW (Ed), UpToDate, Waltham, MA, 2017.
