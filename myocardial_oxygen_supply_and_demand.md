@@ -31,9 +31,9 @@
    * The left ventricle is **best perfused in diastole**  
    Therefore **heart rate** is an important determinant of coronary blood flow, as **tachycardia will decrease coronary blood flow**
 
-LV CBF DIAGRAM
+<object data="resources\lv-cbf.svg" type="image/svg+xml"></object>
 
-RV CBF DIAGRAM
+<object data="resources\rv-cbf.svg" type="image/svg+xml"></object>
 
 ##Myocardial Oxygen Demand
 Normal myocardial oxygen consumption (MVO<sub>2</sub>) is 21-27ml.min<sup>-1</sup>. The **three major determinants** are:
