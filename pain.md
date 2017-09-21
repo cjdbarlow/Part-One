@@ -2,11 +2,9 @@
 > Describe the physiology of pain, including the pathways and mediators
 
 
-
-
 Key definitions:
 * **Pain**  
-Pain is an "unpleasant sensory or emotional experience associated with actual or potential tissue damage." Pain can be broadly classified by:
+Pain is an "unpleasant sensory or emotional experience associated with actual or potential tissue damage, or described in such terms." Pain can be broadly classified by:
   * Aetiology
     * **Nociceptive pain**  
       Stimulation of nociceptors by noxious stimuli.
