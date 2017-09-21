@@ -46,4 +46,8 @@ Typically, induction doses used are 2-5x the ED<sub>95</sub>.
 1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
 2. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
 3. Crilly H, Rose M. [Anaphylaxis and anaesthesia – can treating a cough kill?](https://www.nps.org.au/australian-prescriber/articles/anaphylaxis-and-anaesthesia-can-treating-a-cough-kill). Aust Prescr. 2014;37:74-6.
-4. Durations from UTD
+4. Lexicomp. Rocuronium: Drug information. In: UpToDate, Post, TW (Ed), UpToDate, Waltham, MA, 2017.
+5. Lexicomp. Vecuronium: Drug information. In: UpToDate, Post, TW (Ed), UpToDate, Waltham, MA, 2017.
+6. Lexicomp. Pancuronium: Drug information. In: UpToDate, Post, TW (Ed), UpToDate, Waltham, MA, 2017.
+7. Lexicomp. Atracurium: Drug information. In: UpToDate, Post, TW (Ed), UpToDate, Waltham, MA, 2017.
+8. Lexicomp. Cisatracurium: Drug information. In: UpToDate, Post, TW (Ed), UpToDate, Waltham, MA, 2017.
