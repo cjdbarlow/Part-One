@@ -21,7 +21,7 @@ Only method of aerobic metabolism in the body.
         * Outer membrane separates mitochondria from cytoplasm, but contains pores allowing some substances (pyruvate, amino acids, fatty acids) to pass
         * Inner membrane:
             * Isolates the electron transport chain from the intermembrane (space between inner and outer membranes) space.
-            * Proteins on the inner membrane conduct redox reactions important in ATP production
+            * Proteins on the inner membrane conduct the redox reactions important for ATP production
             * Electron transport chain pumps hydrogen ions into the intermembrane space
     * Inner mitochondrial matrix  
     Contents important in many metabolic processes:
@@ -33,5 +33,6 @@ Only method of aerobic metabolism in the body.
 
 ---
 ##References
-Chambers
+1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+
 
