@@ -6,28 +6,28 @@ Non-depolarising NMBs are muscle relaxants used to:
 *  Improve respiratory system compliance
 *  Improve patient safety on transportation
 
-Mechanism of action is by competitive antagonism of ACh at the NMJ, preventing end-plate potentials from being generated. Effective pharmacodynamic response requires >70% receptor occupation.
+Mechanism of action is by competitive antagonism of ACh at the NMJ, preventing generation of end-plate potentials. Effective pharmacodynamic response requires >70% receptor occupation.
 
 ##Common Features of Neuromuscular Blockers
 |Property|Action|
 |--|--|
 |**Route of Administration**| IV/IM|
 |**Distribution**|Small V<sub>D</sub> as they are polar and unable to cross lipid membranes|
-|**Elimination**|Reduced urinary clearance therefore prolonged mechanism of action of aminosteroids in renal failure
+|**Elimination**|Reduced urinary clearance which prolongs the mechanism of action of aminosteroids in renal failure
 |**Resp**|Apnoea|
 |**MSK**|↑ Duration in hypothermia|
 |**Renal**|↑ Duration in acidosis, ↑ duration in hypokalaemia, ↓ duration in hyperkalaemia, ↑ duration in hypermagnesaemia|
 |**Metabolic**|Critical Illness Myopathy in patients with long-term relaxant use|
 
 The ED<sub>95</sub> is:
-* The dose of a neuromuscular blocking drug required to produce a 95% reduction in twitch height
+* The dose of a neuromuscular blocking drug required to produce a 95% reduction in twitch height in 50% of the population
 * A commonly-used therapeutic end-point for neuromuscular blocking drugs  
 Typically, induction doses used are 2-5x the ED<sub>95</sub>.
 
 ##Comparison of Neuromuscular Blockers
 |Property|Rocuronium|Vecuronium|Pancuronium|Atracurium|Cisatracurium|
 |--|--|
-|**Class**|Aminosteroid|Aminosteroid|Bis-quaternary aminosteroid|Benzolisoquinolinium|Benzolisoquinolinium|
+|**Class**|Aminosteroid|Aminosteroid|Bis-quaternary aminosteroid|Benzylisoquinolinium derivative|Benzylisoquinolinium derivative|
 |**Presentation**|Clear, colourless solution at 10 mg.ml<sup>-1</sup> |10mg powder for reconstitution in water. Contains mannitol and NaOH.|Colourless solution at 2 mg.ml<sup>-1</sup>, which must be stored at 4°C|Colourless solution at 10mg.ml<sup>1</sup>, which should be stored at 4°C. Mixture of all ten extant diastereoisomers.|R-Cis, R'-Cis isomer of atracurium, which is 15% of atracurium by weight but provides 50% of its NMBD action. <br><br>Colourless solution at 2-5mg.ml<sup>-1</sup>, which should be stored at 4°C|
 |**Intubating Dose**|0.6-1.2 mg.kg<sup>-1</sup>|0.1 mg.kg<sup>-1</sup>|0.05-0.1 mg.kg<sup>-1</sup>|0.5 mg.kg<sup>-1</sup>|0.15-0.2mg.kg<sup>-1</sup>|
 |**ED<sub>95</sub>**|0.3 mg.kg<sup>-1</sup>|0.05 mg.kg<sup>-1</sup>|0.07 mg.kg<sup>-1</sup>|0.25 mg.kg<sup>-1</sup>|0.05 mg.kg<sup>-1</sup>|
