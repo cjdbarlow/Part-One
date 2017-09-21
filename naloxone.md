@@ -20,5 +20,5 @@ Pure opioid antagonist used predominantly for opioid overdose.
 
 ---
 ##References
-Peck and Hill
-Smith Scarth Sasada
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
