@@ -221,7 +221,7 @@ Mechanisms of organ indepedent metabolism include:
 * **Hofmann Degradation**  
 Spontaneous degradation or metabolism of substances occurring in plasma.
   * e.g. Cisatracurim undergoes Hofmann degradation
-* **Plasma Estserases**  
+* **Plasma Esterases**  
 Plasma esterases are non-microsomal enzymes which hydrolyse ester bonds. They:
   * Are typically synthetised in the liver and erythrocytes
   * Have a **high capacity**  
