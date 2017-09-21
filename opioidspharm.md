@@ -56,6 +56,6 @@ Occurs due to stimulation of opioid receptors in the gut.
 ---
 
 ##References
-Peck and Hill
-Katzung
-Petkov
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. Katzung BG, Trevor AJ. Basic and Clinical Pharmacology. 13th Ed. McGraw-Hill Education Europe. 2015.
+3. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
