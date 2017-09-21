@@ -13,8 +13,13 @@ It demonstrates that oxygen delivery to tissues relies on the **passive transfer
   * Venous blood
   
 
-* Oxygen **content** is what is important for cellular function
+Remember:
 * **Partial pressure** determines rate and extent of gas transfer
+* Oxygen **content** is what is important for cellular function
+
+
+<object data="resources\o2cascade.svg" type="image/svg+xml"></object>
+
 
 ##Atmospheric Gas
 Atmospheric partial pressure of oxygen is a function of barometric pressure and the FiO<sub>2</sub>:  
