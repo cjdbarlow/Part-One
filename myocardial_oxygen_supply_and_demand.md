@@ -31,7 +31,7 @@
    * The left ventricle is **best perfused in diastole**  
    Therefore **heart rate** is an important determinant of coronary blood flow, as **tachycardia will decrease coronary blood flow**
 
-Flow to each ventricle can be graphed as follows:
+Flow to each ventricle can be graphed as these relationships change over the cardiac cycle:
 
 <object data="resources\lv-cbf.svg" type="image/svg+xml"></object>
 
