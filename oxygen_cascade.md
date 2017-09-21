@@ -23,10 +23,9 @@ Remember:
 
 ##Atmospheric Gas
 Atmospheric partial pressure of oxygen is a function of barometric pressure and the FiO<sub>2</sub>:  
-$$PO_2 = P_B \times FiO_2$$, where:
-* $$P_B$$ is 760mmHg
-* $$FiO_2$$ is 0.21
-
+* $$PO_2 = P_B \times FiO_2$$, where:
+  * $$P_B$$ is 760mmHg
+  * $$FiO_2$$ is 0.21
 * Therefore, $$PO_2$$ = **160mmHg**
 
 ##Humidified Tracheal Gas
@@ -35,7 +34,7 @@ $$PO_2 = P_B \times FiO_2$$, where:
 * The **saturated vapour pressure** of water at 37°C is **47mmHg**
 * Therefore:  
 $$PO_2 = (P_B - P_{SVP \ of \ Water}) \times FiO_2$$, where:
-  * $$P_B$$ and $$FiO_2$$ are unchanged
+  * $$P_B$$ and $$FiO_2$$ are as above
   * $$PO_2$$ is **149mmHg**
 
 
@@ -83,5 +82,5 @@ Mixed venous blood typically quoted as 40mmHg.
 
 ---
 ##References
-Chambers
-Brandis
+1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+2. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.

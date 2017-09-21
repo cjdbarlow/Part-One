@@ -2,19 +2,19 @@
 > Describe the oxygen ~~and carbon dioxide~~ stores in the body
 
 The standard textbook 70kg male contains **~1.5L** of oxygen, split between:
-* 850ml in blood  
+* ~850ml in blood  
   There is 20.4ml of oxygen per 100ml of blood, divided up as:
   * 20.1ml bound to haemoglobin
   * 0.3ml dissolved
-* 250ml bound to myoglobin
-* 450ml contained in FRC (21% of 2.4L)   
+* ~250ml bound to myoglobin
+* ~450ml contained in FRC (21% of 2.4L)   
 This is why preoxygenation increases safe apnoea times, as the nitrogen washout increases the volume of oxygen stored.
 
 ##Oxygen-Haemoglobin Dissociation Curve
 The sigmoid shape of the oxygen-haemoglobin dissociation curve offers many physiological advantages:
 * Buffering in case of low PaO<sub>2</sub>  
 The plateau allows oxygen **content** to remain high, even if the PaO<sub>2</sub> falls
-* Maintenance of gradient  
+* Maintenance of diffusion gradient to tissues  
 The steep section allows a large amount of oxygen to be delivered with only a small drop in PaO<sub>2</sub>, which allows the rate of oxygen delivery to be maintained (as the blood-tissue partial pressure gradient is steep) with an increase in oxygen demand.
 
 
@@ -28,15 +28,14 @@ Haemoglobin is a four-tetramer molecule, and its species can be physiological or
 * **Physiological**
   * **HbA**  
     * Most common
-    * 2 alpha ad 2 beta subunits (α<sub>2</sub>β<sub>2</sub>)
+    * 2 alpha and 2 beta subunits (α<sub>2</sub>β<sub>2</sub>)
   * **HbA<sub>2</sub>**
     * Less common
     * 2 alpha and 2 delta subunits (α<sub>2</sub>δ<sub>2</sub>)
   * **HbF**
     * Foetal Hb
     * Higher affinity for oxygen due to lack of 2,3-DPG
-    * 2 alpha and 2 gamma subunits 
-    * 2 alpha and 2 delta subunits (α<sub>2</sub>γ<sub>2</sub>) <br> <br>
+    * 2 alpha and 2 gamma subunits (α<sub>2</sub>γ<sub>2</sub>)<br> <br>
 * **Pathological**
   * **HbS**  
   Sickle-cell disease.
@@ -47,7 +46,7 @@ Haemoglobin is a four-tetramer molecule, and its species can be physiological or
       * Reduced red cell lifespan to 10-20 days <br> <br>
   * **MetHb**  
   Methaemoglobinaemia.
-    * Ferrous iron (Fe<sup>2+</sup>) is oxidised to ferric iron (Fe<sup>3+</sup>
+    * Ferrous iron (Fe<sup>2+</sup>) is oxidised to ferric iron (Fe<sup>3+</sup>)
     * Cannot bind oxygen, and left-shifts the oxyHb curve for normal Hb which reduces oxygen offloading at tissues
     * Normally prevented by:
       * Glutathione in red cell reduces oxidising agents
@@ -58,7 +57,7 @@ Haemoglobin is a four-tetramer molecule, and its species can be physiological or
         * NO
         * Amide local anaesthetics
         * Sulphonamides
-      * Failure of the methaemoglobinaemia reducase enzyme
+      * Failure of the methaemoglobinaemia reductase enzyme
         * G6PD      <br> <br>
   * **COHb**  
   Carboxyhaemoglobin.
@@ -83,12 +82,13 @@ Note that pulse oximetry doesn't measure either of these and is dependent on the
 
 ###Myoglobin
 Muscle is highly metabolically active and has a large O<sub>2</sub> demand. Myoglobin serves as an O<sub>2</sub> store for muscle. It is similar to Hb in that it is a large O<sub>2</sub>-binding iron-containing protein myoglobin, and is different because it:
-* Contains one globin chain and one haeme group (binding one O<sub>2</sub> molecule), and so **does not exhibit cooperative binding**. The myoglobin dissociation curve therefore has a **rapid upstroke** and an **early plateau**.
+* Contains one globin chain and one haeme group (binding one O<sub>2</sub> molecule), and so **does not exhibit cooperative binding**  
+The myoglobin dissociation curve therefore has a **rapid upstroke** and an **early plateau**.
 * Has a **P<sub>50</sub> of 2.7mmHg**  
 This allows it to take up oxygen from haemoglobin (as the partial pressure gradient favours diffusion into the cell), and unload it into the cell (so it can actually be used).
 * Is found in skeletal and cardiac muscle
 
 ---
 ##References
-Chambers
-Brandis
+1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+2. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.
