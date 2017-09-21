@@ -17,14 +17,18 @@ and 'M' for the nicotinic effects:
 * **M**uscular spasm
 
 ##Management
-Management is aimed at reducing ACh burden.
-
-**Atropine** is an anticholinergic agent which directly antagonises ACh. It is preferred over glycopyrrolate as it will cross the blood brain barrier and treat central ACh toxicity.
-
-**Pralidoxime** reactivates ACh by luring the organophosphate away from the enzyme with a tantalising oxime group. However, pralidoxime must be used within the first few hours of poisoning (after which the organophosphate-enzyme group 'ages' and is no longer susceptible) to be effective, and does not cross the blood-brain barrier and so cannot treat central effects.
+Management is aimed at reducing ACh burden:
+* **Atropine**  
+Competitive antagonises ACh at the muscarinic receptor.
+    * Atropine is preferred over glycopyrrolate as it will cross the blood brain barrier and treat central ACh toxicity
+* **Pralidoxime**  
+Reactivates acetylcholinesterase by luring the organophosphate away from the enzyme with a tantalising oxime group.
+    * Pralidoxime must be used within the first few hours of poisoning  
+    Aafter which the organophosphate-enzyme group 'ages' and is no longer susceptible.
+    * Does not cross the blood-brain barrier and so cannot treat central effects
 
 
 ---
 ##References
-CICM March/May 2009
-Rang and Dale
+1. CICM March/May 2009
+2. Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.
