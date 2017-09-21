@@ -6,7 +6,7 @@ Physiological effects of positive pressure ventilation are mostly related to the
 * Tidal volume and peak (and plateau) airway pressure
 * Respiratory rate
 * I:E ratio
-* PEEP  
+* **PEEP**  
 PEEP has a much larger effect than the other factors.
     * PEEP is defined as a positive airway pressure at the end of expiration
     * PEEP is distinct from positive airway pressure (which is not confined to a phase of the respiratory cycle) and CPAP (which is a mode of ventilation)
@@ -17,7 +17,8 @@ PEEP has a much larger effect than the other factors.
 
 ##Respiratory Effects
 * Decreased work of breathing
-    * Decreased VO<sub>2</sub>
+    * Decreased VO<sub>2</sub>  
+    More important when work of breathing is high.
 * Alteration in anatomical/apparatus dead space  
     * Intubation typically reduces dead space, as the additional apparatus dead space is of smaller volume than the anatomical dead space it replaces
     * Non-invasive ventilation masks cause a large increase in dead space
