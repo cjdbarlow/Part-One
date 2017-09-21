@@ -19,6 +19,5 @@ Inhibition of vasomotor centre with profound fall in CVS parameters.
 
 ---
 ##References
-
-Diaz https://primarysaqs.files.wordpress.com/2009/12/2007b9briefly-explain-the-cvs-responses-to-central-neural-blockade.pdf
-ANZCA July/August 2007
+1. Diaz, A. [Cardiovascular Response to Central Neuraxial Blockade](https://primarysaqs.files.wordpress.com/2009/12/2007b9briefly-explain-the-cvs-responses-to-central-neural-blockade.pdf). Primary SAQs.
+2. ANZCA July/August 2007
