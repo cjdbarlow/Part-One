@@ -35,33 +35,33 @@ Total clearance is the sum of clearances from individual organs, e.g.:
 ##Kinetics
 Drug clearance can follow either first order or zero-order kinetics:
 
-###First-order kinetics
-In **first-order** kinetics, a constant **proportion** of the drug in the body is eliminated per unit time.[^5]
+* **First-order Kinetics**  
+A constant **proportion** of the drug in the body is eliminated per unit time.
+  * Most drugs are eliminated by first order kinetics, as the capacity of the elimination system exceeds the concentration of drug
 
-![First-order kinetics](http://i.imgur.com/4g4wkD7.png)[^4]
+<object data="resources\first-order-kinetics.svg" type="image/svg+xml"></object>
 
-Most drugs are eliminated by first order kinetics, as the capacity of the elimination system exceeds the concentration of drug.
 
-###Zero-order kinetics
-In **zero-order** kinetics, a **constant amount of drug** is eliminated per unit time, independent of how much drug is in the body.[^5]
-
-![Zero-order kinetics](http://i.imgur.com/NP6STlP.png)[^4]
-
-* **Zero order kinetics** occurs when there is saturation of enzyme systems  
-It is also known as **saturation kinetics** for this reason.
+* **Zero-order kinetics**  
+A **constant amount of drug** is eliminated per unit time, independent of how much drug is in the body.
+  * Occurs when there is saturation of enzyme systems  
+  It is also known as **saturation kinetics** for this reason.
     * e.g. Phenytoin follows first order kinetics at lower doses, but zero-order kinetics at doses within the therapeutic range  
     This is clinically relevant as the narrow therapeutic index means that toxic levels may occur rapidly with a small increase in dose.
     * e.g. Ethanol also follows zero-order kinetics within the "therapeutic range", as it is a very weak (doses are in grams) positive allosteric modulator of the GABA<sub>A</sub> receptor
+  * Zero-order kinetics is concerning as:
+    * Plasma concentrations will **rapidly increase** with only modest dose increase
+    * There is essentially **no steady state**: if drug input exceeds output, plasma levels will continue to rise
 
-There are two concerns with zero-order kinetics:  
-* Plasma concentrations will **rapidly increase** with only modest dose increase
-* There is essentially no **steady state**: if drug input exceeds output, plasma levels will continue to rise.
+<object data="resources\zero-order-kinetics.svg" type="image/svg+xml"></object>
+
+
 
 
 ##Hepatic Metabolism
 The principle organ of drug metabolism is the liver. Hepatic metabolism:
 * Usually decreases the function of a drug, though:
-  * **Prodrugs** are designed to only become pharmacologically active after having undergone liver metabolism
+  * **Prodrugs** have increased pharmacologically activity after liver metabolism
   * Some drugs have active or toxic metabolites
 * Can be divided into **two phases**
 
@@ -108,10 +108,13 @@ CYP450 enzymes are:
   * Isoforms  
   CYP1A1, CYP1A2...
 
-
-INSERT TABLE OF CYP450 enzymes here
+|CYP2B6|CYP2C9|CYP2C19|CYP2D6|CYP2E1|CYP3A4|CYP3A5|
+|--|
+|Propofol|Propofol, Parecoxib, Warfarin|Diazepam, Omeprazole, Clopidogrel, Phenytoin|Codeine, Metoprolol, Flecainide|Volatile anaesthetic agents, parcetamol|Common benzodiazepines, Fentanyl, Alfentanil, Lignocaine, Vecuronium|Diazepam
 
 Key CYP enzymes include:
+* CYP2E1  
+Metabolises volatiles and paracetamol.
 * CYP3A4  
 Responsible for 60% of metabolic activity.
 * CYP2D6  
@@ -145,8 +148,7 @@ Responsible for 60% of metabolic activity.
       * Amiodarone
       * Flecainide
       * Mexilitine
-* CYP2E1  
-Metabolises volatiles and paracetamol.
+
 
 
 ###Phase II
@@ -155,10 +157,10 @@ Phase II reactions:
 This increases water solubility and therefore renal elimination.
 * Typically occur in the hepatic endoplasmic reticulum
 * Include:
-  * **Glucoronidaion**  
-    Addition of glucoronic acid.
+  * **Glucuronidation**  
+    Addition of glucuronic acid.
   * **Sulfation**  
-    Addition of a sulfuryl group.
+    Addition of a sulfo group.
   * **Acetylation**  
     Addition of an acetyl group.
     * Also occurs in the **lung** and **spleen**.
@@ -187,7 +189,7 @@ These drugs have a rapid uptake and high capacity, so elimination is **perfusion
   * There is a **high variability** in plasma concentration between individuals due to the variation in liver blood flow
   * Drugs with high extraction ratios are generally independent of enzyme activity - decreasing enzyme activity from 99% to 95% has a minimal effect on hepatic clearance
     * The **key exception** is **first pass metabolism**, as the above change will result in a five-fold difference in dose reaching the systemic circulation  
-    Therefore drugs with a high extraction ratio havelow PO bioavailability.
+    Therefore drugs with a high extraction ratio have low PO bioavailability.
 
 
 * **Low extraction ratio**  
@@ -230,5 +232,4 @@ Plasma esterases are non-microsomal enzymes which hydrolyse ester bonds. They:
 ##References
 1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
 2. Essential pharmacology for the ANZCA primary exam
-[^4]: Made with xkcdgraphs.com
-[^5]: Australian Prescriber. Pharmacokinetics made easy 9: Non-linear pharmacokinetics. Available at: http://www.australianprescriber.com/magazine/17/2/36/8#qa
+3. Birkett, DJ. [Pharmacokinetics made easy 9: Non-linear pharmacokinetics](https://www.nps.org.au/australian-prescriber/articles/pharmacokinetics-made-easy-9-non-linear-pharmacokinetics). 1994. Australian Prescriber.
