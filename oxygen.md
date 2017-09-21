@@ -18,5 +18,5 @@
 
 ---
 ##References
-Peck and Hill
-RAH Advanced Diving Medicine: Chapter 6 Oxygen and Carbon Dioxide Toxicity
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. RAH Advanced Diving Medicine Course Notes: Chapter 6 Oxygen and Carbon Dioxide Toxicity
