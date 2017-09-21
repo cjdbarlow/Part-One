@@ -110,8 +110,7 @@ Flow of blood through an organ equals the uptake of a tracer substance by the or
 $$ \dot{Q} = {\dot{V}_{O_2} \over Ca_{O_2} - C\bar{v}_{O_2}} $$
 
 * **Starling's Law of Fluid Exchange**  
-Flow of fluid across the capillaries is proportional to the hydrostatic pressure difference and the oncotic pressure difference (times the reflection coefficient), all times by the filtraiton coefficient, i.e.:
-
+Flow of fluid across the capillaries is proportional to the hydrostatic pressure difference and the oncotic pressure difference (times the reflection coefficient), all times by the filtraiton coefficient, i.e.:  
 $$ Net \ flow \ out = K[(P_c - P_i) - \sigma (\pi_c - \pi_i))] $$
 
 * **Venous Admixture**  
