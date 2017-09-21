@@ -7,11 +7,11 @@ Oxytocics are agents which increase the force of uterine contraction.
 |**Class**|Endogenous (typically synthetic version used) posterior pituitary hormone|Ergot alkaloid|Prostaglandin
 |**Uses**|Augmentation of labour, increase uterine tone (PPH)|PPH|PPH
 |**Presentation**|Clear liquid at 5-10 U.ml<sup>-1</sup>|||
-|**Route of Administration**|IV||Intramyometrial injection
-|**Dosing**|1.5-12mU.min<sup>-1</sup>|||
+|**Route of Administration**|IV|IV, IM|Intramyometrial injection, IM
+|**Dosing**|1.5-12mU.min<sup>-1</sup>|250μg IM (IV in emergency via slow push)||
 |**Metabolism**|Oxytocinases in liver and kidney|||
 |**Mechanism of Action**|Oxytocin GPCR in the uterus, increase Ca<sup>2+</sup> influx. Structurally similar to ADH.|Acts on α and 5HT<sub>2</sub> receptors on uterine and vascular smooth muscle||
-|**Resp**|||Bronchospasm
+|**Resp**||Bronchospasm (may be severe)|Bronchospasm (severe if IV so this route is contraindicated)
 |**CVS**|↑ HR, ↓ BP following boluses |↑ SVR, ↑ BP (may cause, ↓ HR) coronary vasoconstriction| ↑ BP
 |**CNS**|Headache, nausea, comiting|Headache, nausea|Nausea, vomiting
 |**Renal**|↓ UO due to ADH-like effects with prolonged infusions|||
