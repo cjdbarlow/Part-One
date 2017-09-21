@@ -2,6 +2,20 @@
 
 > Describe the cardiovascular changes that occur with morbid obesity
 
+Obesity is a multisystem disorder defined by an elevated body mass index (BMI):
+* Normal: BMI < 25
+* Overweight: BMI 25 - 30
+* Obese: BMI > 30
+* Morbidly Obese:  
+    * Obesity related disease and a BMI > 35
+    * BMI > 40
+    
+Characteristics of obesity include:
+* Complex genetic and environmental causes
+* Increased caloric intake
+* Increased metabolic rate (normal for BSA)
+
+
 The effect of obesity on the cardiovascular system is complex, and can be classified into:
 
 * Hormonal changes  
@@ -43,7 +57,9 @@ Abdominal visceral fat is responsible for secreting a large number of hormones w
 * Cardiac changes
     * Diastolic dysfunction  
     Due to myocardial fibrosis impairing relaxation.
-    * Fatty infiltration of myocardium
+    * Fatty infiltration of myocardium and conducting system
+        * Predisposes to arrhythmias  
+        Risk is worsened by change in myocardial architecture, hypoxia, and increased circulating catecholamines.
     * Biventricular hypertrophy as a response to increased afterload
         * LV afterload increased due to systemic hypertension  
         LVH is much more common than RVH.
@@ -62,3 +78,4 @@ Abdominal visceral fat is responsible for secreting a large number of hormones w
 ##References
 
 1. Alvarez A, Brodsky J, Lemmens H, Morton J. Morbid Obesity: Peri-operative Management. Cambridge: Cambridge University Press. 2010.
+2. Lotia S, Bellamy MC. [Anaesthesia and morbid obesity](https://academic.oup.com/bjaed/article/8/5/151/268305/Anaesthesia-and-morbid-obesity). Contin Educ Anaesth Crit Care Pain 2008; 8 (5): 151-156.

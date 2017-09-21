@@ -5,7 +5,7 @@ Key definitions:
 * **Opium** is a mixture of alkaloids from the poppy plant
 
 ##Classification of Opioids
-* Naurally occurring
+* **Naurally occurring**  
     * Endogenous opioids
         * Endorphins
         * Encephalins
@@ -14,12 +14,12 @@ Key definitions:
     * Phenanthrenes
         * Morphine
         * Codeine
-* Semisynthetic  
+* **Semisynthetic**  
 Simple modifications to morphine.
     * Diacetylmorphine
     * Buprenorphine
     * Oxycodone
-* Synthetic
+* **Synthetic**
     * Phenylpiperidines
         * Fentanyl
         * Alfentanil
@@ -30,8 +30,7 @@ Simple modifications to morphine.
 
 ##Opioid Receptor Classification
 All opioid receptors are Gi receptors. Activation:
-* Increases adenylyl cyclase
-* Reducing cAMP
+* Increases adenylyl cyclase, reducing cAMP
     * Presynaptically inhibits voltage-gated Ca<sup>2+</sup> channels
         * Decreases Ca<sup>2+</sup> influx
         * Reduces neurotransmitter release

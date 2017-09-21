@@ -45,8 +45,7 @@ Competency of the LoS is required to prevent reflux
                 
                 
 ##References
-* Chambers
-* Diaz Notes
-* ANZCA July/August 1999
-* http://www.nature.com/gimo/contents/pt1/full/gimo48.html#f15
-* ANZCA August/September 2015
+1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+2. ANZCA July/August 1999
+3. Kahrilas PJ, Pandolfino JE. [Hiatus hernia](https://www.nature.com/gimo/contents/pt1/full/gimo48.html?foxtrotcallback=true#f15). GI Motility online. 2006.
+4. ANZCA August/September 2015

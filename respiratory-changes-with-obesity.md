@@ -2,6 +2,20 @@
 
 > Discuss the effect of morbid obesity on ventilation
 
+Obesity is a multisystem disorder defined by an elevated body mass index (BMI):
+* Normal: BMI < 25
+* Overweight: BMI 25 - 30
+* Obese: BMI > 30
+* Morbidly Obese:  
+    * Obesity related disease and a BMI > 35
+    * BMI > 40
+    
+Characteristics of obesity include:
+* Complex genetic and environmental causes
+* Increased caloric intake
+* Increased metabolic rate (normal for BSA)
+
+
 Morbid obesity causes several changes to the respiratory system:
 * Airway
     * Increased risk of OSA
@@ -50,3 +64,4 @@ Morbid obesity causes several changes to the respiratory system:
 ##References
 
 1. Alvarez A, Brodsky J, Lemmens H, Morton J. Morbid Obesity: Peri-operative Management. Cambridge: Cambridge University Press. 2010.
+2. Lotia S, Bellamy MC. [Anaesthesia and morbid obesity](https://academic.oup.com/bjaed/article/8/5/151/268305/Anaesthesia-and-morbid-obesity). Contin Educ Anaesth Crit Care Pain 2008; 8 (5): 151-156.

@@ -6,7 +6,7 @@
 |**Uses**|Analgesia, sedation, elimination of sympathetic response to laryngoscopy/surgical stress response|
 |**Resp**|↓ CNS sensitivity to CO<sub>2</sub> causing respiratory depression (↓ RR > ↓ V<sub>T</sub>) - ↑ reliance on hypoxic drive (therefore respiratory depression may be potentiated by high FiO<sub>2</sub>)|
 |**CVS**|↓ HR. May ↓ BP due to histamine release (less with synthetic agents). ↑ PVR|
-|**CNS**|Sedation, euphoria. Nausea and vomiting due to CTZ stimulation. Meiosis due to stimulation of the Edinger-Westphal nucleus. ↓ MAC up to 90%|
+|**CNS**|Sedation, euphoria. Nausea and vomiting due to CTZ stimulation. Miosis due to stimulation of the Edinger-Westphal nucleus. ↓ MAC up to 90%|
 |**Renal**|↓ RPF, ↑ ADH, ↑ ureteric and sphincter tone
 |**MSK**|Muscle rigidity, pruritis (especially with intrathecal administration)
 |**Metabolic**|↓ ACTH, prolactin, gonadotrophic hormone secretion. ↑ ADH secretion|
@@ -23,7 +23,7 @@
 |**Absorption**|Low (relative) lipid solubility - slower onset and SC absorption. PO preparations absorbed in small bowel, bioavailability 30% - high first pass metabolism.|
 |**Distribution**|~35% protein binding. V<sub>D</sub> 3.5L.kg<sup>-1</sup>|
 |**Clearance** (ml.kg<sup>-1</sup>.min<sup>-1</sup>)|15
-|**Metabolism**|Hepatic glucuronidation to 70% inactive morphine-3-glucoronide and 10% active morphine-6-glucoronide, which is 13x as potent as morphine. t<sub>1/2</sub>β of 160 minutes.|
+|**Metabolism**|Hepatic glucuronidation to 70% inactive morphine-3-glucuronide and 10% active morphine-6-glucuronide, which is 13x as potent as morphine. t<sub>1/2</sub>β of 160 minutes.|
 |**Elimination**|Renal elimination of active metabolites - accumulation in renal failure
 |**Time to Peak Effect (IV)**|10-30 minutes|
 |**Duration (IV)**|3-4 hours|
@@ -42,7 +42,7 @@
 |**Elimination**|Renal elimination of active drug and metabolites|70% biliary, 30% renal elimination, t<sub>1/2</sub>β 40 hours|
 |**Time to Peak Effect (IV)**|5 minutes||
 |**Duration (IV)**|4 hours||
-|**Equianalgesic Dose** (IV, to 10mg IV morphine)| 10mg. Note 10mg PO oxycodone is ≈ 15mg PO morphine due to higher first pass metabolism of morphine|
+|**Equianalgesic Dose** (IV, to 10mg IV morphine)| 10mg. Note 10mg PO oxycodone is ≈ 15mg PO morphine due to higher first pass metabolism of morphine||
 
 
 ##Comparison of Synthetic Opioids
@@ -63,9 +63,8 @@
 
 ---
 ##References
-Peck and Hill
-Smith Scarth Sasada
-Petkov
-ANZCA opioid calculator
-ANZCA July/September 2010
-ANCA Pain book
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+3. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+4. ANZCA July/September 2010
+5. Schug SA, Palmer GM, Scott DA, Halliwell R, Trinca J. [Acute Pain Management: Scientific Evidence](http://fpm.anzca.edu.au/documents/apmse4_2015_final). 4th Ed. 2015. Australian and New Zealand College of Anaesthetists and Faculty of Pain Medicine.
