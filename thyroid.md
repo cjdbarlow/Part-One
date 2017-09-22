@@ -45,5 +45,5 @@ Effects of thyroid hormone are predominantly metabolic
 
 ---
 ##References
-Power and Kam
-CICM Sep/Nov 2008
+1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+2. CICM September/November 2008
