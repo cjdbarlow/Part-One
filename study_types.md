@@ -79,12 +79,7 @@ Where:
 ###Funnel Plots
 A graphical tool to detect publication bias. Due to statistical power, larger studies should be a closer representation of the true effect. When evaluating an number of studies, one would expect that large studies cluster around the 'true effect' and smaller studies to have more scatter.
 
-<img src="http://i.imgur.com/r1dpJ7g.jpg =400x" alt="A high-fidelity rendering of funnel plots" style="width: 200px;"/>
-
-* A. A funnel plot with evidence of publication bias.
-* B. A funnel plot with no evidence of publication bias.
-
-####Strengths and weaknesses of meta-analyses
+###Strengths and weaknesses of meta-analyses
 | Strengths | Weaknesses |
 | -- | -- |
 | Enhanced precision of estimates of effect | Publication bias |
@@ -96,6 +91,4 @@ Because of these weaknesses, positive meta-analyses should be considered largely
 
 ---
 ##References
-PS Myles, T Gin. Statistical methods for anaesthesia and intensive care. 1st ed. Oxford: Butterworth-Heinemann, 2001.
-
-[^1]: "Generic forest plot" by James Grellier - Own work. Licensed under CC BY-SA 3.0 via Commons - https://commons.wikimedia.org/wiki/File:Generic_forest_plot.png#/media/File:Generic_forest_plot.png
+1. Myles PS, Gin T. Statistical methods for anaesthesia and intensive care. 1st ed. Oxford: Butterworth-Heinemann, 2001.
