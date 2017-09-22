@@ -107,4 +107,5 @@ A drug which has different effects on different receptors.
 ##References
 1. Pinnock C, Lin T, Smith T. Fundamentals of Anaesthesia. 2nd Ed. Cambridge Universiy Press. 2003.
 2. Encyclopaedia Britannica. Available at: https://www.britannica.com/science/law-of-mass-action
-3. Petkov
+3. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+
