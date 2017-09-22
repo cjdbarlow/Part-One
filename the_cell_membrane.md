@@ -1,16 +1,23 @@
 #The Cell Membrane {#id}
 > Describe the cell membrane and cellular organelles and their properties.
 
-Cell membranes are formed by a **phospholipid bilayer** which separates intracellular and extracellular contents. The membrane is **semi-permeable**, which leads to different ionic concentrations (and therefore electrical charge) on either side of the membrane. The alteration in charge means the membrane acts as a **capacitor**, with most cells having a **resting potential 70-80mV lower** than extracellular fluid.
+Cell membranes are:
+* Formed by a **phospholipid bilayer**  
+Separates intracellular and extracellular contents.
+* **Semi-permeable**  
+Leads to different ionic concentrations (and therefore electrical charge) on either side of the membrane.
+    * Alteration in charge means the membrane acts as a **capacitor**, with most cells having a **resting potential 70-80mV lower** than extracellular fluid
 
 ##Ion Permeability
 At rest, the cell is:
 * Permeable to **potassium**
-* Impermeable to other cations
-
-As the membrane is permeable to potassium, it flows out against its concentration gradient. As this occurs the resting potential becomes more negative. This negative charge opposes the further movement of potassium and so an equilibrium between opposing electrical and chemical gradients.
-
-The membrane is not perfectly impermeable to sodium, and so a Na<sup>+</sup>-K<sup>+</sup> pump transports **three sodium ions** outside in exchange for **two potassium ions** in order to maintain these gradients. As there is an unequal exchange of charge, this pump is **electrogenic**.
+    * Potassium flows out against its concentration gradient
+    This makes the resting potential becomes more negative.
+        * This negative charge opposes the further movement of potassium and so an equilibrium is established between opposing electrical and chemical gradients
+* Impermeable to other cations  
+The membrane is not perfectly impermeable to sodium, and Na<sup>+</sup> will leak in down its concentration gradient.
+    * The 3Na<sup>+</sup>-2K<sup>+</sup> ATPase pumps **three sodium ions** outside in exchange for **two potassium ions** in order to maintain these gradients  
+    As there is an unequal exchange of charge, this pump is **electrogenic**.
 
 | Ion | [Intracellular] | [Extracellular] | 
 | -- | -- | -- | -- |
