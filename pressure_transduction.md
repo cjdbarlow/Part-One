@@ -81,7 +81,8 @@ A pressure tranduction system should be adequately damped:
   * Systolic pressure overshoot
   * Artifactual bumps
 
-DAMPING GRAPH
+<object data="resources\damping.svg" type="image/svg+xml"></object>
+
 
 ###Testing Dynamic Response
 Dynamic response can be tested by inducing a **step-change** in the system, which allows calculation of both the natural frequency and the damping coefficient. Clinically, this is performed by doing a **fast-flush test**.
