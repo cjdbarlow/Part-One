@@ -1,6 +1,9 @@
 # Potassium Channel Activators
 
-Potassium channel activators stimulate ATP sensitive K<sup>+</sup> channels in the heart, venous capacitance vessels, and arterioles, causing an increase in intracellular cGMP and subsequent relaxation of smooth muscle.
+Potassium channel activators stimulate ATP sensitive K<sup>+</sup> channels, causing an increase in intracellular cGMP and subsequent relaxation of smooth muscle in the:
+* Heart
+* Venous capacitance vessels
+* Arterioles
 
 |Property|Nicorandil
 |--|--|
