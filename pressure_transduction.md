@@ -105,7 +105,6 @@ Introducing an air bubble will increase damping (generally good, since most syst
 
 ---
 ##References
-Brandis
-Measurement book thing
-Mark Langley lectures
-http://web.squ.edu.om/med-Lib/MED_CD/E_CDs/anesthesia/site/content/v03/030264r00.HTM
+1. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.
+2. Alfred Anaesthetic Department Primary Exam Program
+3. Miller, RD. [Clinical Measurement of Natural Frequency and Damping Coefficient](http://web.squ.edu.om/med-Lib/MED_CD/E_CDs/anesthesia/site/content/v03/030264r00.HTM). In: Anesthesia. 5th Ed. Churchill Livingstone.
