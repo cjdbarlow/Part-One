@@ -9,12 +9,15 @@ This is how the probe interprets reflected waves.
 
 
 ##Basic principles
-* **Spatial resolution** is how close two separate objects can be to each other and still be distinguishable. It is divided into:
+* **Spatial resolution**  
+How close two separate objects can be to each other and still be distinguishable. It is divided into:
     * **Axial resolution**, how far apart two objects can be when one is above the other (in the direction of the beam)
     * **Lateral resolution**, how far apart two objects can be when side side-by-side
 * Contrast resolution is how similar two objects can appear (in echogenic appearance) and still be distinguishable
 
-**Higher frequency** settings offer **greater spatial resolution** but **decreased penentration**. **Lower frequency** settings offer **reduced spatial resolution** but **increased penetration**, and are used for visualising deep structures. 
+* **Higher frequency** settings offer greater spatial resolution but decreased penentration
+* **Lower frequency** settings offer reduced spatial resolution but increased penetration  
+They are used for visualising deep structures.
 
 ##Affect of Tissues on Ultrasound
 Sound travels through tissues at a **depth propotional to frequency**. At tissue interfaces, the wave may be **absorbed**, **reflected**, **transmitted** through the interface, or **scattered**.
