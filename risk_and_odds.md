@@ -10,10 +10,10 @@
 * **Absolute Risk Reduction** is the decrease in risk provided by an exposure: 
   $$ ARR = Risk \ in \ Exposed \ - \ Risk \ in \ Unexposed $$  
   Is a clinical useful measure of the value of an intervention, however is better expressed as:
-    * **Number Needed to Treat (NNT)** is the number of individuals who must receive a treatment to prevent one event.  
+    * **Number Needed to Treat (NNT)** is the number of individuals who must receive a treatment to prevent one event:  
   $$ NNT = {1 \over ARR} $$
 * **Relative Risk Reduction** is the decrease in incidence provided by treatment.
-  It is not as useful a measure of the value of an intervention, but companies like it because the numbers are bigger than ARR.
+  It is not as useful a measure of the value of an intervention, but drug companies like it because the numbers are bigger than absolute risk reduction.
 
 ##Odds
 * **Odds** are the probability of an event happening compared to the probability of it not happening, usually expressed as a fraction
@@ -26,7 +26,7 @@
 
 
 * In general, the OR overstates risk compared to the RR.
-* It is approximately equal to the RR when the outcome is rare (<10%)
+* It is approximately equal to the RR when the outcome is rare (< 10%)
 * It is used when:
     * The denominator is uncertain, i.e.:
         * In retrospective designs, such as case-control studies when patients with the disease were identified, and then exposures ascertained
@@ -35,7 +35,7 @@
         * Systematic Reviews
 
 ##Risk versus Odds
-**Relative Risk** and **Odds Ratios** are both methods of comparing the likelihood of an outcome occurring between two groups. The difference, and particularly the concept of odds ratios, are **commonly confused**. Relative risk tends be much more intuitive than odds ratios. Imagine a trial has been performed, where group A was exposed group[^3]:
+**Relative Risk** and **Odds Ratios** are both methods of comparing the likelihood of an outcome occurring between two groups. The difference, and particularly the concept of odds ratios, are **commonly confused**. Relative risk tends be much more intuitive than odds ratios. Imagine a trial has been performed, where group A was exposed group:
 * In group A, the mortality was 50%
 * In group B, the mortality was 25%
 
