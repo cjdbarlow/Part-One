@@ -36,11 +36,11 @@ How rapidly an oscillating system will come to rest.
     * Describes to what extent the magnitude of an oscillation falls with each successive oscillation
     * Calculated from the ratio of the amplitudes of successive oscillations in a convoluted fashion:  
       $$ D = \sqrt{(\ln{D_2 \over D_1})^2 \over \pi^2 + (\ln{D_2 \over D_1})^2 }$$, where:  
-        * $$D_x$$ are the magnitudes of successive oscillations  
 
 
 * **Resonant Frequency**  
-How rapidly a system will oscillate when disturbed and left alone. When damping is low, it will be close to the **natural frequency** (or undamped resonant frequency).
+How rapidly a system will oscillate when disturbed and left alone.
+  * When damping is low, it will be close to the **natural frequency** (or undamped resonant frequency)
 
 
 * Damping and natural frequency are used (rather than the physical characteristics) as they are both **easily measured** and **accurate** in describing the dynamic response
@@ -53,15 +53,12 @@ How rapidly a system will oscillate when disturbed and left alone. When damping 
 
 * An arterial pressure waveform is a periodic (repeating) complex wave, that can be represented mathematically by **Fourier analysis**
 * Fourier analysis involves expressing a complex (arterial) wave as the sum of many simple sine waves of varying frequencies and amplitudes
-
-PICTURE OF FOURIER ANALYSIS
-
-* The frequency of the arterial wave (i.e., the pulse rate) is known as the **fundamental frequency**
-* The sine waves used to reproduce it must have a frequency that is a *multiple* (or **harmonic**) of the fundamental frequency
-  * Increasing the number of harmonics allows better reproduction of high-frequency components, such as rapid heart rates or a steep systolic upstroke
-* Accurate reproduction of an **arterial** waveform requires up to **10 harmonics** - or **10 times the pulse rate**
-* An arterial pressure transducer should therefore have a dynamic response of **30Hz**
-  * This allows accurate reproduction of blood pressure in heart rates up to 180bpm (180 bpm = 3Hz, 3Hz x 10 = 30Hz)
+  * The frequency of the arterial wave (i.e., the pulse rate) is known as the **fundamental frequency**
+  * The sine waves used to reproduce it must have a frequency that is a *multiple* (or **harmonic**) of the fundamental frequency
+    * Increasing the number of harmonics allows better reproduction of high-frequency components, such as a steep systolic upstroke
+  * Accurate reproduction of an **arterial** waveform requires up to **10 harmonics** - or **10 times the pulse rate**
+  * An arterial pressure transducer should therefore have a dynamic response of **30Hz**
+    * This allows accurate reproduction of blood pressure in heart rates up to 180bpm (180 bpm = 3Hz, 3Hz x 10 = 30Hz)
 
 
 ###Resonance
