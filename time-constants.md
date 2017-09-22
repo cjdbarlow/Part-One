@@ -7,7 +7,7 @@ The time-constant is:
 * Relevant when modeling a process using exponential functions
     * Remember an **exponential function** is a curve where **the rate of change is proportional to the current value**
     
-For a quantity that decreases overtime, the general case is:
+For a quantity that decreases[^1] overtime, the general case is:
 
 $$ y = y_0e^{-kt} $$, where:
 * $$y_0$$ is the value of $$y$$ at $$t=0$$
@@ -47,7 +47,7 @@ Uneven time-constants affects ventilation as long-time constant units may still 
 
 ---
 ##Footnotes
-[^1]For a curve that grows overtime, the time constant is the time it would take for $$y$$ to reach **63% of its final value**, i.e. $$1 - {1 \over e }$$.
+[^1]: For a curve that grows overtime, the time constant is the time it would take for $$y$$ to reach **63% of its final value**, i.e. $$1 - {1 \over e }$$.
 
 ---
 ##References
