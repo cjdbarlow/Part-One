@@ -84,8 +84,5 @@ This system measures both temperature and relative humidity.
 
 ---
 ##References
-* Notes from The Alfred Anaesthetic Primary Exam Tutorial Series
-* Aston
-* http://physics.csustan.edu/Ian/Help/Temperature/Thermometers/VolumeExapnsionThermometer.htm
-* Deranged physiology
-* Draeger exam series
+1. Aston D, Rivers A, Dharmadasa A. Equipment in Anaesthesia and Intensive Care: A complete guide for the FRCA. Scion Publishing Ltd. 2014.
+2. Alfred Anaesthetic Department Primary Exam Tutorial Series

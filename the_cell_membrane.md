@@ -17,3 +17,8 @@ The membrane is not perfectly impermeable to sodium, and so a Na<sup>+</sup>-K<s
 | Na<sup>+</sup> | 15 | 140 |
 | K<sup>+</sup> | 150 | 4.5 |
 | Cl<sup>-</sup> | 10 | 100 |
+
+---
+##References
+1. Barrett KE, Barman SM, Boitano S, Brooks HL. Ganong's Review of Medical Physiology. 24th Ed. McGraw Hill. 2012.
+2. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
