@@ -63,6 +63,9 @@ Lung volume has a variable effect on PVR.
     * Resistance in small intra-alveolar vessels increases as they are compressed by the high lung volumes
   * At small lung volumes, the reverse occurs
  
+ <object data="resources\lungvol-vs-pvr.svg" type="image/svg+xml"></object>
+
+
  
  * **Hypoxic Pulmonary Vasoconstriction**  
  Low **PAO<sub>2</sub>** causes a vasoconstriction in the vessels supplying that alveolus, increasing PVR and directing blood to better ventilated alveoli.
@@ -126,13 +129,14 @@ Occurs when alveolar pressure falls below venous pressure, i.e. **Pa > Pv > PA**
 
 
 * **West's Zone 4**  
-Occurs at low lung volumes, as extra-alveolar vessels collapse and blood flow no longer occurs. Effectively, **Pa > Pint > Pv > PA**. In effect, the interstitium is acting as a Starling resistor.
+Occurs at low lung volumes, as extra-alveolar vessels collapse and shunt occurs. The interstitium is acting as a Starling resistor, which can be expressed as: **Pa > Pint > Pv > PA**.
 
 
 ###Hypoxic Pulmonary Vasoconstriction
 As discussed above, HPV allows redirection of blood flow from poorly ventilated regions of the lung, and so improve V/Q matching. HPV is relevant in disease states, as well as specific physiologic circumstances:
 * At high altitude, the PAO<sub>2</sub> is globally reduced, leading to high pulmonary artery pressures
-* In utero, PAO<sub>2</sub> is negligible, and PVR is therefore very high. This diverts blood from the pulmonary circulation into the left side of the heart via the foramen ovale. When the first breath is taken, pulmonary vessels dilate and the right-to-left shunt is reversed.
+* In utero, PAO<sub>2</sub> is negligible, and PVR is therefore very high  
+This diverts blood from the pulmonary circulation into the left side of the heart via the foramen ovale. When the first breath is taken, pulmonary vessels dilate and the right-to-left shunt is reversed.
 
 
 
