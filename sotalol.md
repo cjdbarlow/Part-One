@@ -15,7 +15,7 @@ The D-isomer of sotalol is a **class III antiarrhythmic**, whilst the L-isomer a
 |**Metabolism**|Not metabolised|
 |**Elimination**|Excreted unchanged in urine|
 |**Resp**|Bronchospasm|
-|**CVS**|TDP (<2%), more common with high doses, long QT, and electrolyte imbalances|
+|**CVS**|Torsades (< 2%) - more common with high doses, long QT, and electrolyte imbalances|
 |**CNS**|Masking symptoms of hypoglycaemia|
 |**GU**|Sexual dysfunction|
 
