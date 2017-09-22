@@ -9,13 +9,15 @@ Potassium is the major intracellular cation, with 90% of total body potassium pr
 Potassium is important for:
 * Regulation of intracellular pH
 * Control of intracellular volume
-* DNA and protien synthesis
+* DNA and protein synthesis
 * Enzymatic function
 * Resting membrane potential
 
-The **resting membrane potential** is determined by the ratio of intracellular:extracellular potassium, as per the Nernst equation. Small changes in extracellular ion concentration produce large changes in voltage, with significant effect on excitable tissues.
-
-Rapid changes in potassium concentration cause symptoms at lower levels than chronic changes. Symptoms are related to the change in generation of action potentials
+The **resting membrane potential** is determined by the ratio of intracellular:extracellular potassium, as per the Nernst equation:
+* Small changes in extracellular ion concentration produce large changes in voltage  
+This has significant effect on excitable tissues.
+* Rapid changes in potassium concentration cause symptoms at lower levels than chronic changes  
+Symptoms are related to the change in action potential generation.
  
 ###Hyperkalaemia
 Hyperkalaemia results in a less negative resting membrane potential, as per the Nernst equation). This brings the resting membrane potential closer to the threshold potential, causing 'instability' of excitable cell membranes as the cell cell is more likely to depolarise and increasing the liklihood of a spontaneous action potential. Action potentials exhibit a prolonged depolarisation phase, Symptoms of hyperkalaemia include weakness, paralysis, and parasthesias. ECG findings are those of **prolonged depolarisation** and **rapid repolarisation**.
