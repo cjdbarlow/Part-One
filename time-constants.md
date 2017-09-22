@@ -57,15 +57,31 @@ In ventilation:
 
 In general:
 * **Rate of filling is determined by time constants**
+    * **High-resistance** lung units have **longer time constants** and take longer to fill
 * **Final volume** (assuming an indefinite inspiration) **is a function of compliance**
- At a sustained inflation pressure, a low-resistance unit shows initial greater volume change but rapidly approaches equilibrium volume, whilst a high-compliance unit takes a greater overall volume over a longer period. At end-inspiration, pressure-build up in units with a shorter time-constant occurs more rapidly and if a breath is held will result in redistribution to those units with a longer time-constant.
+    * Poorly compliant units with **empty and fill rapidly**  
+    This creates the concept of **fast** and **slow alveoli**, depending on their time constants.
 
-More simply, **high-resistance** lung units have **longer time constants** and take longer to fill. Similarly, units with **poor compliance empty and fill rapidly**. This creates the concept of **fast** and **slow alveoli**, depending on their time constants. 
+
+* At a sustained inflation pressure:
+    * A low-resistance unit shows initial greater volume change but rapidly approaches equilibrium volume
+    * A high-compliance unit takes a greater overall volume over a longer period
+* At end-inspiration:
+    * Pressure in units with a shorter time-constant rises more rapidly and if a breath is held will result in redistribution to those units with a longer time-constant.
+
 
 ##Clinical Signifiance
-If time-constants are equal, the pressure in each unit is identical throughout inspiration and distribution and dynamic compliance will be independent of respiratory rate.
+If time-constants are equal:
+* The pressure in each unit is identical throughout inspiration and distribution  
+Therefore, dynamic compliance will be independent of respiratory rate.
 
-Uneven time-constants affects ventilation as long-time constant units may still be inhaling whilst the rest of the lung has stopped, or begun exhalation. This is called **pendelluft**. In this setting, the distribution of inspired gas are dependent on respiratory rate. As respiratory rate increases, the proportion of the tidal volume that is delivered to the region with a long time-constant decreases as the fast alveoli are preferentially inflated creating an effective shunt in slow alveoli. Similarly, dynamic compliance will decrease as respiratory rate rises and be markedly different from static compliance.
+If time-constants are unequal:
+* Long-time constant units may still be inhaling whilst the rest of the lung has stopped, or begun exhalation  
+This is called **pendelluft**.
+* In pendelluft, distribution of inspired gas is dependent on respiratory rate
+    * As respiratory rate increases, the proportion of the tidal volume that is delivered to the region with a long time-constant decreases  
+    Fast alveoli are preferentially inflated, causing V/Q scatter or shunt in the unventilated slow alveoli.     
+    * Dynamic compliance will decrease as respiratory rate rises and be markedly different from static compliance
 
 ---
 ##Footnotes
