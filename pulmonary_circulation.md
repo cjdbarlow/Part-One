@@ -136,6 +136,6 @@ As discussed above, HPV allows redirection of blood flow from poorly ventilated 
 
 ##References
 1. Dunn, PF. Physiology of the Lateral Decubitus Position and One-Lung Ventilation.  Thoracic Anaesthesia. Volume 38(1), Winter 2000, pp 25-53.
-Wests
-Nunns
-Brandis
+2. West J. Respiratory Physiology: The Essentials. 9th Edition. Lippincott Williams and Wilkins. 2011.
+3. Lumb A. Nunn's Applied Respiratory Physiology. 7th Edition. Elsevier. 2010.
+4. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.

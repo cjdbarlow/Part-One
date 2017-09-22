@@ -6,7 +6,7 @@
 ##Metabolism
 Protein **catabolism** involves the **deamination** of amino acids. Deamination can occur in one of two ways:
 * **Oxidative deamination**  
-Hepatic deamination, removing the amino group to create a ketoacid and ammonia. Ammonia produced in the liver[^1] enters the urea cycle and becomes urea, which requires **3 ATP**.
+Hepatic deamination, removing the amino group to create a ketoacid and ammonia. Ammonia produced in the liver enters the urea cycle and becomes urea, which requires **3 ATP**.
 * **Transamination**  
 Amino group is transferred by aminotransferases to another amino acid or a ketoacid to produce:
     * Keto acids, which:
@@ -17,7 +17,10 @@ Amino group is transferred by aminotransferases to another amino acid or a ketoa
 
 ---
 ##Footnotes
-[^1]: Ammonia can also be produced in the kidney by the deamination of glutamate in the kidney. In this instance it is eliminated directly in urine as ammonia (or ammonium) and does not consume ATP.
+Ammonia can also be produced in the kidney by the deamination of glutamate in the kidney. In this instance:
+* It is eliminated directly in urine as ammoniium
+* Does not enter the urea cycle
 
+--
 ##References
 1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
