@@ -50,7 +50,10 @@ Dibucaine is:
     
   
 ##G6PD  
-A common x-linked recessive condition that may cause haemolysis following administration of oxidative drugs including: aspirin, sulfonamides, and some antibiotics.
+A common x-linked recessive condition that may cause haemolysis following administration of oxidative drugs. These include:
+* Aspirin
+* Sulfonamides
+* Some antibiotics
 
 ##Malignant Hyperthermia  
 Autosomal dominant deficiency in the skeletal muscle ryanodine receptor gene resulting in a defect of intracellular calcium regulation. This mutation:
@@ -59,13 +62,13 @@ Leads to:
   * Increased muscle activity
   * Rapid increase in body temperature and lactic acidosis
   * High mortality from hyperthermia, hyperkalaemia/rhabdomyolysis, leading to ventricular arrhythmia and cardiac arrest
-* Mutationresent in 1:5,000 - 1:50,000
+* Mutation present in 1:5,000 - 1:50,000
 * Presents with:
   * Initially:
     * Tachycardia
     * Masseter spasm
     * Hypercapnoea
-    * Arrythmia
+    * Arrhythmia
   * Intermediate:
     * Hyperthermia
     * Sweating
