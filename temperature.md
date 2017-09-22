@@ -61,19 +61,25 @@ At the junction of two dissimilar metals, a potential difference will be produce
 
 
 ##Measurement of Humidity
-Humidity can be measured by a number of methods. The following are measures of **relative humidity**:
+Humidity can be measured by a number of methods:
 
-##Hair Hygrometer
+* **Hair Hygrometer**  
 Hair (actual hair) changes elasticity depending on the humidity of air. Changes in elasticity can be related to changes in humidity.
 
-##Wet and Dry Bulb
+* **Wet and Dry Bulb**  
 This system measures both temperature and relative humidity.
-
-Two thermometers are used. One is wrapped in a wick, which is attached to a water resevoir. This is the wet thermometer.
-
-The dry thermometer gives a measurement of surrounding air temperature, as would be expected.
-
-The wet thermometer is cooled due to evaporative cooling from the wick, as high energy water molecules become vapour, leaving only low energy molecules behind. The **temperature difference** between the thermometers is therefore a function of the latent heat of vaporisation of water, and how much evaporative cooling is occurring, which in turn is a function of humidity. In 100% relative humidity, no evaporative cooling will take place and the temperatures will be equal. As humidity decreases, the temperature difference will become more marked, and humidity can be calculated.
+    * Two thermometers are used
+        * One is wrapped in a wick, which is attached to a water reservoir  
+        This is the wet thermometer.
+        * The dry thermometer gives a measurement of surrounding air temperature
+    * The wet thermometer is cooled due to evaporative cooling from the wick  
+    High energy water molecules become vapour, leaving only low energy molecules behind.
+    * The **temperature difference** between the thermometers is a function of:
+        * Latent heat of vaporisation of water
+        * How much evaporative cooling is occurring  
+        This is function of humidity.
+            * At 100% relative humidity, no evaporative cooling will take place and the temperatures will be equal
+            * As humidity decreases, the temperature difference will become more marked, and humidity can be calculated
 
 ##Humidification
 Humidification refers to increasing the water content of inspired patient gases. Methods of humidification can be:
