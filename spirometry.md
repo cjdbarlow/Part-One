@@ -60,7 +60,6 @@ Quantifies static lung volumes by having a patient perform:
 
 
 ##Flow-Volume Loops
-FLOW VOLUME LOOPS
 
 * **Normal**
   * Peak expiratory flow of **~8L.s<sup>-1</sup>**  
@@ -105,4 +104,4 @@ The opposite to extrathoracic obstruction.
 
 ---
 ##References
-Chambers
+1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
