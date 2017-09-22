@@ -93,7 +93,7 @@ The placenta develops simulanteously from foetus and mother:
 * Surface area of 14m<sup>2</sup>
 * Weight of ~500g
 * Blood flow of 600mL.min<sup>-1</sup> at term  
-  It is reduced during contractions due to increased uterine pressure and also with α-adrenergic stimulation
+  Flow is reduced during contractions due to increased uterine pressure and also with α-adrenergic stimulation.
 
 
 
