@@ -96,6 +96,9 @@ Erythropoietin
 ##ESV
 End-Systolic Volume
 
+##FFA
+Free Fatty Acid
+
 ##FRC
 Functional Residual Capacity
 

@@ -95,7 +95,7 @@ Urea excretion is complex, as it has an important role in the counter current mu
 * ~50% of filtered load is reabsorbed in the PCT by solvent drag (with water reabsorption)  
 Urea concentration is slightly increased as more water is reabsorbed than urea.
 * The urea reabsorbed in the PCT is then secreted into the Loop of Henle via UT uniporters  
-  * Luminal concentration of urea is much higher in the ascending limb due to the absorption of water.
+  * Luminal concentration of urea is much higher in the ascending limb due to the absorption of water
 * ~50% is reabsorbed (again) in the medullary collecting ducts  
 Here, urine becomes so concentrated that luminal concentration of urea exceeds medullary concentration.
   * Overall, 50% of filtered load is excreted
@@ -111,4 +111,4 @@ Here, urine becomes so concentrated that luminal concentration of urea exceeds m
 
 ---
 ##References
-Vanders
+1. Eaton DC, Pooler JP. Vander's Renal Physiology. 6th Ed (Revised). McGraw-Hill Education - Europe. 2004.
