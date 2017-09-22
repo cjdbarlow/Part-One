@@ -78,6 +78,9 @@ D-type (δ) opioid receptor
 ##ECT
 Electron Transport Chain
 
+##ECF
+Extracellular Fluid
+
 ##EDP
 End-Diastolic Pressure
 
@@ -110,6 +113,9 @@ Hypothalamic-Pituitary Axis
 
 ##HR
 Heart Rate
+
+##ICF
+Intracellular Fluid
 
 ##ICP
 Intracranial Pressure
@@ -225,6 +231,9 @@ Stroke Volume
 
 ##SVR
 Systemic Vascular Resistance
+
+##TBW
+Total Body Water
 
 ##TSH
 Thyroid Stimulating Hormone
