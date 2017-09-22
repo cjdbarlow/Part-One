@@ -63,7 +63,13 @@ For the pooling of results to be valid, the trials need to be similar. Differenc
 
 ###Forest Plots
 Results of meta-analyses are presented in a blobbogram[^5], or more boringly, a **Forest Plot**.
-!["Generic forest plot" by James Grellier - Own work. Licensed under CC BY-SA 3.0 via Commons](https://i.imgur.com/mkjR8px.png) [^1]
+
+<object data="resources\forest.svg" type="image/svg+xml"></object>
+
+
+
+
+
 Where:
 * The **x-axis** plots the odds ratio, remembering that an OR of 1 indicates no difference
 * The **y-axis** lists the studies included, and the overall summary statistic
