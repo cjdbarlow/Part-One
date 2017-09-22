@@ -16,12 +16,12 @@ Feelings of hunger are modulated by glucose, CCK, glucagon, and leptin.
 Balance between anterior and posterior hypothalamic stimulation controls sleep-wake cycle.
 * **Pituitary control** 
     * Anterior pituitary by hormone secretion into the long portal vein. Secreted hormones include:
-        * GnRH, stimulate FSH and LH release
+        * GnRH, stimulates FSH and LH release
         * CRH, stimulates ACTH release
         * GHRH, stimulates GH release
         * TRH, stimulates TSH release
         * Somatostatin, inhibits GH and TSH release
-        * Dopamine, inhibits RPL release
+        * Dopamine, inhibits prolactin release
     * Posterior pituitary by neuronal innervation
 * **Behaviour**  
 Punishment and reward centres.
