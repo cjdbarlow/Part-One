@@ -46,7 +46,8 @@ Glucose is:
 * Glucose reabsorption is a T<sub>max</sub> system, and is overwhelmed when filtered glucose exceeds 300mg.min<sup>-1</sup> or 16mmol.min<sup>-1</sup>
   * This typically occurs when plasma (and therefore filtered) glucose concentrations exceed **12mmol.L<sup>-1</sup>**
 
-GRAPH OF GLUCOSE FLUX PAGE 66 VANDERS
+<object data="resources\glucoseflux.svg" type="image/svg+xml"></object>
+
 
 
 ###Consequences of Glycosuria
