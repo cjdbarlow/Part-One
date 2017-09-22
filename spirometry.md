@@ -49,13 +49,15 @@ Patient forcibly exhales a vital capacity breath, producing a exponential (wash-
 <object data="resources\fev1-vs-fvc.svg" type="image/svg+xml"></object>
 
 
-* Volume-Time graph  
+* Volume-Time Graph (Spirogram)  
 Quantifies static lung volumes by having a patient perform:
   * Normal tidal breathing
   * Vital capacity breath
   * Vital capacity exhalation
   
-VOLUME TIME GRAPH
+<object data="resources\fev1-vs-fvc.svg" type="image/svg+xml"></object>
+
+
 
 ##Flow-Volume Loops
 FLOW VOLUME LOOPS
