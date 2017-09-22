@@ -7,7 +7,7 @@
 ##Receptor types
 A receptor is a protein, usually in the cellular membrane, to which a ligand may bind to generate a response.
 
-![Receptor types and methods of signalling. Used without permission from icuprimaryprep.com](http://i.imgur.com/2eIedIv.png)[^1]
+![Receptor types and methods of signalling. Used without permission from icuprimaryprep.com](/resources/receptors.png)[^1]
 
 **Intracellular** receptors may be either **cytoplasmic** or **intra-nuclear**. Intranuclear receptors are activated by lipid soluble molecules (such as steroids and thyroxine) to alter DNA and RNA expression. This results in an alteration of production of cellular proteins, so the effects tend to be slow acting.
 
