@@ -124,7 +124,5 @@ This must be multipled by the atmospheric pressure to find the partial pressure 
 
 ---
 ##References
-Millers
-
-https://academic.oup.com/bjaed/article/11/6/199/263839/Understanding-vaporizers
-
+1. Miller RD, Eriksson LI, Fleisher LA, Weiner-Kronish JP, Cohen NH, Young WL. Miller's Anaesthesia. 8th Ed (Revised). Elsevier Health Sciences.
+2. Boumphrey S, Marshall N. [Understanding vaporizers](https://academic.oup.com/bjaed/article/11/6/199/263839/Understanding-vaporizers). Continuing Education in Anaesthesia Critical Care & Pain. Volume 11, Issue 6, 1 December 2011, Pages 199–203,
