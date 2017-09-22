@@ -43,9 +43,20 @@ May cause release of mercury or alcohol.
     Boils at 78.5°C. 
 
 ##Electrical
-These may be either a standard length of platinum wire, or a thermistor. Platinum wire increases electrical resistance with increasing temperature, and therefore the voltage drop across the wire will correspond to the temperature of the wire. However, these are expensive.
+Electrical methods include:
+* **Resistance thermometer**  
+Platinum wire increases electrical resistance with increasing temperatur.
+    * Therefore the voltage drop across the wire will correspond to the temperature of the wire
+    * Change in resistance is linear across the temperature range
+    * However, these are expensive.
+* **Thermistor**  
+Metal (e.g. SiO<sub>2</sub>) semiconductor which changes its resistance in a **predictably non-linear fashion** with temperature.
+    * Can be manufactured so that change is linear over the clinical range
+    * Much cheaper than wire resistance methods
+    * The degree of voltage drop is usually very small, however this can be amplified using a **wheatstone bridge**
+* **Thermocouple**  
+At the junction of two dissimilar metals, a potential difference will be produced proportional to their temperature. This is known as the Seebeck effect.
 
-A **thermistor** is a metallic oxide (e.g. SiO<sub>2</sub>) electical component which changes its resistance in a **predictably non-linear fashion** with temperature. The degree of voltage drop is usually very small, however this can be amplified using a **wheatstone bridge**.
 
 ##Measurement of Humidity
 Humidity can be measured by a number of methods. The following are measures of **relative humidity**:
