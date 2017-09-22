@@ -20,12 +20,22 @@ How close two separate objects can be to each other and still be distinguishable
 They are used for visualising deep structures.
 
 ##Affect of Tissues on Ultrasound
-Sound travels through tissues at a **depth propotional to frequency**. At tissue interfaces, the wave may be **absorbed**, **reflected**, **transmitted** through the interface, or **scattered**.
-
-* **Absorbed** sound is lost as heat, and increases with decreased water content of tissues.
-* **Reflected** sound bounces back from the tissue interface, and returns to the probe. Reflection is dependent upon the **difference in sound conduction** between the two tissues, the **angle of incidence** (close to 90° improves reflection), and the **smoothness** of the tissue plane.
-    * The amplitude of sound returning to the probe determines echogenicity, or how white the object will be displayed.
-    * The time taken for the sound to return determines depth. As $$s = {d \over t} $$, then $$ d = st $$. Speed of sound in the body is assumed to be 1540 ms<sup>-1</sup>, therefore the time taken for a wave to return is proportional to **twice** the distance of the object from the probe.
+At tissue interfaces, the wave may be:
+* **Absorbed**  
+Sound is lost as heat, and increases with decreased water content of tissues.
+* **Reflected**  
+Sound bounces back from the tissue interface, and returns to the probe.
+    * Reflection is dependent on the:
+        * **Difference in sound conduction** between the two tissues
+        * **Angle of incidence** (close to 90° improves reflection)
+        * **Smoothness** of the tissue plane
+    * The amplitude of sound returning to the probe determines echogenicity, or how white the object will be displayed
+    * The time taken for the sound to return determines depth
+        * The time taken for a wave to return is proportional to **twice** the distance of the object from the probe
+        * Depth can be calculated using $$ d = vt $$, where:
+            * $$d$$ is Depth
+            * $$v$$ is the speed of sound in tissue, and is assumed to be 1540 ms<sup>-1</sup>
+            * **t** is Time
 * **Transmitted** sound passes through the tissue, and may be reflected or absorbed at deeper tissues.
 * **Scattered** sound is reflected from tissue but is not received by the probe.
 
