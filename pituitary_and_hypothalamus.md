@@ -50,8 +50,6 @@ Secretes **six** hormones in response to hypothalamic endocrine stimulus. These 
         Glycoprotein gonadotropin with different effects depending on sex:  
             * Females: Rapid increase stimulates ovulation and corpus luteum development.
             * Males: Stimulates testosterone synthesis.
-<br>
-<br>
     * **Direct acting** hormones:
         * **GH**  
         Long-chain peptide released in a pulsatile fashion. Release is stimulated by GHRH and is typically high with exercise, hypoglycaemia, and stress. Release is inhibited by somatostatin and IGF-1. GH has generally anabolic effects:
@@ -78,5 +76,5 @@ Secretes **two** hormones, in response to hypothalamic neural stimulus:
 
 ---
 ##References
-Chambers
-http://lifeinthefastlane.com/ccc/vasopressin/
+1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+2. Nickson, C. [Vasopressin](http://lifeinthefastlane.com/ccc/vasopressin/). LITFL.
