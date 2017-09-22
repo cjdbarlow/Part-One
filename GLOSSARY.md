@@ -87,6 +87,9 @@ End-Diastolic Pressure
 ##EDV
 End-Diastolic Volume
 
+##EEG
+Electroencephalogram
+
 ##EPO
 Erythropoietin
 
