@@ -1,19 +1,24 @@
 # Sodium {#id}
 > Describe the function, distribution, regulation and physiological importance of sodium~~, chloride, potassium, magnesium, calcium and phosphate~~ ions
 
-Sodium is the dominant extracllular cation with a typical ECF [Na<sup>+</sup>] of 140mmol.L<sup>-1</sup>. ICF [Na<sup>+</sup>] varies with cell type, but is typically 12-20mmol.L<sup>-1</sup> and is kept low by the action of the 2Na<sup>+</sup>-3K<sup>+</sup> ATPase exchange pump and the low permeability of the cellular membrane to Na<sup>+</sup>.
-
 Normal total body Na<sup>+</sup> is 60mmol.kg<sup>-1</sup> 70% of which is exchangeable. Total body Na<sup>+</sup> is distributed as:
-* 50% in ECF
+* 50% in ECF  
+Sodium is the dominant extracellular cation.
+  * Typical ECF [Na<sup>+</sup>] of 140mmol.L<sup>-1</sup>.
 * 45% in bone
-* 5% in ICF
+* 5% in ICF  
+A minor intracellular cation.  
+  * ICF [Na<sup>+</sup>] varies with cell type, but is typically 12-20mmol.L<sup>-1</sup>.
+  * Concentration is kept low by the action of the 2Na<sup>+</sup>-3K<sup>+</sup> ATPase exchange pump and the low permeability of the cellular membrane to Na<sup>+</sup>
+
+
 
 ##Function
 * **Regulation of ECF volume**  
-  Principal ECF cation. Changes in sodium levels cause compensatory fluid shifts. Loss of sodium *content* will result in hypotension/hypovolaemia, with consequent baroreceptor stimulation and activation of the RAAS. Baroreceptors will activate with a **7% change in osmolality**.
+  Principal ECF cation. Changes in sodium levels cause compensatory fluid shifts. Loss of sodium *content* will result in hypotension/hypovolaemia, with consequent baroreceptor stimulation and activation of the RAAS. Baroreceptors will activate with a **7-10% change in volume**.
 
 * **Osmolarity**  
-  Changes in sodium *concentration* affect osmoreceptors and will affect ADH and thirst mechanisms. Osmoreceptors will activate with a **2-3% change in osmolality**.
+  Changes in sodium *concentration* affect osmoreceptors and will affect ADH and thirst mechanisms. Osmoreceptors will activate with a **1-2% change in osmolality**.
 * **Acid-Base balance**  
   Na<sup>+</sup>-H<sup>+</sup> exchange pumps in the kidney are stimulated in acidosis.
 
