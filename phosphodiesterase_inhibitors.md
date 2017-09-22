@@ -20,6 +20,6 @@ Methylxanthines non-selectively inhibit phosphodiesterase, which results in redu
 
 ---
 ##References
-UpToDate
-Peck and Hill
-Essential Pharmacology
+1. Lexicomp. Theophylline: Drug Information. In: UpToDate, Post, TW (Ed), UpToDate, Waltham, MA, 2017.
+2. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+3. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
