@@ -46,8 +46,7 @@ Patient forcibly exhales a vital capacity breath, producing a exponential (wash-
         The ratio is normal as the FEV<sub>1</sub> and FVC fall proportionally.
 
 
- 
- FORCED SPIROMETRY GRAPH PAGE 57 CHAMBERS
+<object data="resources\fev1-vs-fvc.svg" type="image/svg+xml"></object>
 
 
 * Volume-Time graph  
