@@ -11,7 +11,7 @@
 > Describe the monosynaptic stretch reflex, single twitch, tetanus and the Treppe effect   
 
 ##Motor Units
-* A motor unit is an α-motor neuron and the group of muscle cells that it innervates
+* A motor unit consists of an α-motor neuron and the group of muscle cells that it innervates
   * An action potential in this neuron will cause contraction of all the myocytes in the unit
   * Large muscles have many myocytes per unit
   * Small, precise muscles (e.g. extraocular) have few myocytes per unit
@@ -60,7 +60,7 @@ A reflex is an involuntary, predictable movement in response to a stimulus. Ther
 * **Monosynaptic**: Motor neuron synapses directly with the sensory neuron  
 Monosynaptic reflexes are rapid, but only generate simple responoses. There are five components to a monosynaptic reflex:  
   * Sensory receptor  
-  Typically muscle spindles
+  Typically muscle spindles.
   * Afferent neuron  
   Type Ia afferents relay signal from muscle spindle to ventral horn via the dorsal root.
   * Synapse between afferent and efferent neuron  
@@ -83,5 +83,5 @@ This allows modulation of signal. Responses are slower but more complex, e.g. wi
 
 ---
 ##References
-Chambers
-ANZCA March/April 2000
+1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+2. ANZCA March/April 2000
