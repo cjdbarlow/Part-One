@@ -6,7 +6,7 @@
 ##Basic Phamacokinetic Terms
 Key concepts in pharmacokinetics include:
 * **Volume of distribution, V<sub>D</sub>**  
-The volume of distribution is defined as the **theoretical volume into which an amount of drug would be distribute to produce the identified plasma concentration**.
+The volume of distribution is defined as the **theoretical volume into which an amount of drug would be distribute to produce the observed plasma concentration**.
     * Units are ml.kg<sup>-1</sup> 
         * $$ Vd = {Total \ bioavailable \ drug \over Plasma \ concentration } $$ 
     * It is a way to describe proportion of a drug is confined to plasma, and what proportion distributes to other tissues
