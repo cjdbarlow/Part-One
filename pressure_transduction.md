@@ -29,9 +29,7 @@ A change in tranducer level will change the blood pressure due to the change in 
   A change in measured pressure when the transducer is open to air is due to **drift**, an artifactual measurement error due to damage to the cable, tranducer, or monitor.
   
 ##Dynamic Calibration
-Dynamic calibration ensures the operating characteristics of the system (or **dynamic response**) are accurate.
-
-Dynamic response is a function of:
+Dynamic calibration ensures the operating characteristics of the system (or **dynamic response**) are accurate. Dynamic response is a function of:
 * **Damping**  
 How rapidly an oscillating system will come to rest.
   * Damping is quantified by the **damping coefficient** or **damping ratio**
