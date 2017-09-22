@@ -31,35 +31,44 @@ Gas may reach the end of the tube when the volume of flow is less than the volum
 
 
 In a straight unbranched tube, flow can be quantified by the **Hagen-Poiseuille Equation**:  
-$$ F = {\Delta P \pi r^4 \over 8l.v}$$, where:
+$$ F = {\Delta P \pi r^4 \over 8l.\eta}$$, where:
 * $$F$$ = Flow
 * $$\Delta P$$ = Driving pressure
 * $$r$$ = Radius
 * $$l$$ = Length
-* $$v$$ = Viscosity
+* $$\eta$$ = Viscosity
 
 
 However, as in laminar conditions flow is proportional to the driving pressure and inversely proportional to resistance, flow can be substituted and the equation solved for resistance:
 
-$$ Resistance = { 8l.v \over r^4} $$
+$$ Resistance = { 8l.v \over \pi r^4} $$
 
-As length and viscosity are constants, *causes of airways resistance in laminar flow** are due to changes in airway calibre. These can be divided by location as follows:
-* **Extraluminal factors**
-  * Compression:
-    * Haemorrhage, tumour, dynamic hyperinflation, atelectasis compressing airways, etc.
-  * Lung volume:
-    * Airway radius increases when lung volume expands due to radial traction on airways (until dynamic hyperinflation occurs, at which point airways are compressed again)
-* **Luminal constriction**  
-  Bronchospasm, bronchoconstriction
-* **Intraluminal obstruction**  
-  Sputum plugging, aspiration
+This can be used to describe the factors affecting resistance:
+* Length  
+Fixed constant.
+* Viscosity  
+Varies with the particular gas mixture being used.
+* Radius  
+Main determinant. May be divided into:
+  * **Extraluminal factors**
+    * Compression:
+      * Haemorrhage, tumour, dynamic hyperinflation, atelectasis compressing airways, etc.
+    * Lung volume:
+      * Airway radius increases when lung volume expands due to radial traction on airways (until dynamic hyperinflation occurs, at which point airways are compressed again)
+  * **Luminal constriction**  
+    Bronchospasm, bronchoconstriction.
+  * **Intraluminal obstruction**  
+    Sputum plugging, aspiration.
   
 Note that airway resistance:
 * **Peaks** at the **5<sup>th</sup> generation
 * Rapidly **decreases** with each airway division thereafter  
 This is due to the total cross-sectional area increasing dramatically.
 
-INSERT GRAPH OF AIRWAY RESISTANCE PER DIVISION
+<object data="resources\airway-gen-vs-resistance.svg" type="image/svg+xml"></object>
+
+
+
 
 ###Turbulent Flow
 High flow rates and branching of airways disrupt disciplined laminar flow. Turbulent flow is the norm in the upper airway (where velocity is high), and in early-generation airways due to regular branching, changes in diameter, and sharp angles. Only after the **11th generation** bronchioles does laminar flow become more common. Unlike laminar flow, turbulent conditions have:

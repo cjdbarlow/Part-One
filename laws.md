@@ -14,10 +14,10 @@ $$\dot{V} = {A \times D \times \Delta P \over T} $$ , where:
 * **Hagan-Poiseuille Equation**  
 Calculates the flow for a given pressure different of a particular fluid. May also be rearranged to calculate pressure or resistance.
     * Given by the equation:  
-    $$ Q = {\pi P r^4 \over 8 v l} $$, where:
+    $$ Q = {\pi P r^4 \over 8 \eta l} $$, where:
         * Q is the flow
         * P is the driving pressure
-        * v is the dynamic viscosity
+        * η is the dynamic viscosity
         * L is the length of tubing
         * r is the radius
     * Has several limitations:
