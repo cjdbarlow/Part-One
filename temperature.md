@@ -79,7 +79,7 @@ This system measures both temperature and relative humidity.
         * How much evaporative cooling is occurring  
         This is function of humidity.
             * At 100% relative humidity, no evaporative cooling will take place and the temperatures will be equal
-            * As humidity decreases, the temperature difference will become more marked, and humidity can be calculated
+            * As humidity decreases, evaporative cooling will cool the wet thermometer, and the temperature difference allows humidity to be determined
 
 ##Humidification
 Humidification refers to increasing the water content of inspired patient gases. Methods of humidification can be:
