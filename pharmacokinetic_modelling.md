@@ -108,7 +108,7 @@ Plasma concentration in multicompartment models is:
 This is covered under two-compartment models below.
 * Dependent on the effects of:
     * **Distribution**   
-    Distribution describes the movement of drug from the central compartment (V<sub>1</sub>, typically plasma) to the peripheral compartment(s).
+    Distribution describes the movement of drug from the central compartment (V<sub>1</sub>) to the peripheral compartment(s).
         * Rapid fall in plasma concentration of a drug after administration is generally due to distribution  
         Distribution is an important method for drug offset in short-acting drugs.
     * **Redistribution**  
@@ -125,16 +125,18 @@ Removal of drug in two-compartment models is via:
 * This produces a **bi-exponential** fall in plasma concentration  
 Consists of two phases:
     * Phase α  
-    Distribution phase.
-        * A rapid decline in plasma concentration due to distribution to peripheral tissues
-        * The 
+    Distribution phase: A rapid decline in plasma concentration due to distribution to peripheral tissues.
     * Phase β  
-    Elimination phase.
-        * Slow decline in plasma concentration due to:
-            * Elimination from the body
-            * Redistribution into plasma
+    Elimination phase: Slow decline in plasma concentration due to:
+        * Elimination from the body
+        * Redistribution into plasma
 
-BI EXPONENTIAL ELIMINATION GRAPH PAGE 57 PETKOV
+<object data="resources\3compartment.svg" type="image/svg+xml"></object>
+
+
+
+
+
 Given by the equation $$C = Ae^{-\alpha t} + Be^{-\beta t}$$, where:
 * $$C$$ is the concentration of drug in plasma
 * $$A$$ is the y-intercept of the distribution exponent  
