@@ -4,8 +4,6 @@
 ##Spinal Cord Anatomy
 The spinal cord in transverse section consists of a central section of grey matter containing neuronal cell bodies and synapses, and a peripheral section of white matter containing myelinated ascending and descending pathways. Important pathways are:
 
-SPINAL CORD CROSS SECTION FROM CLINICAL NEUROANATOMY pg 19
-
 * **Corticospinal tract**  
   Motor function. Crosses at the brain stem.
 * **Dorsal column**  
@@ -15,8 +13,6 @@ SPINAL CORD CROSS SECTION FROM CLINICAL NEUROANATOMY pg 19
 
 * **Spinocerebellar tract**  
   Unconscious proprioception. Does not cross.
-
-FIGURE 15 FROM CLINICAL NEUROANATOMY pg 20
 
 ##Spinal Cord Syndromes
 Lesions to certain anatomical regions of the spinal cord produce a particular constellations of findings.
