@@ -131,13 +131,8 @@ Consists of two phases:
         * Elimination from the body
         * Redistribution into plasma
 
-<object data="resources\3compartment.svg" type="image/svg+xml"></object>
-
-
-
-
-
-Given by the equation $$C = Ae^{-\alpha t} + Be^{-\beta t}$$, where:
+<object data="resources\biexponent.svg" type="image/svg+xml"></object>
+This curve is given by the equation $$C = Ae^{-\alpha t} + Be^{-\beta t}$$, where:
 * $$C$$ is the concentration of drug in plasma
 * $$A$$ is the y-intercept of the distribution exponent  
 Used to calculate distribution half-life.
@@ -149,6 +144,10 @@ The value of $$\alpha$$ is dependent on the ratio of rate constants for distribu
 * $$\beta$$ is the rate constant for elimination  
 
 
+* Note that the distribution and elimination curves appear straight because the y-axis is log-transformed
+    * If plasma concentration was plotted on the y-axis, then each of these curves would be a negative exponential (wash-out curve)
+    
+    
 ####Effect Site
 Pharmacokinetic models typically display the plasma concentration.
 * Clinically however, we are interested in drug concentrations at the site of action (e.g. the brain)
@@ -162,16 +161,16 @@ The effect site is modelled as a **compartment of negligible volume** contained 
     * The k<sub>e1</sub> is the rate constant for drug diffusion from plasma into the effect site
     * The **k<sub>e0</sub>** is the rate constant for elimination of drug **from the effect site**  
     This is a theoretical elimination pathway - drug is not usually metabolised at the effect site.
-        * The t<sub>1/2<sub>ke0</sub></sub> describes the effect-site equilibration time  
+        * The t<sub>1/2</sub>ke0 describes the effect-site equilibration time  
         It describes how rapidly the effect site reaches equilibrium with plasma.
             * A large ke0 (rapid drug flow) gives a short t<sub>1/2<sub>ke0</sub></sub>
-            * After one t<sub>1/2<sub>ke0</sub></sub>, 50% of the final effect site concentration will be reached provided plasma concentration remains constant
-        * A shorter t<sub>1/2<sub>ke0</sub> indicates that that the effect site concentration will reach equilibrium with plasma more rapidly, and therefore a more rapid clinical effect following administration is seen
+            * After one t<sub>1/2</sub>ke0, 50% of the final effect site concentration will be reached provided plasma concentration remains constant
+        * A shorter t<sub>1/2</sub>ke0 indicates that that the effect site concentration will reach equilibrium with plasma more rapidly, and therefore a more rapid clinical effect following administration is seen
         * Note that:
-            * The t<sub>1/2<sub>ke0</sub></sub> is not the time to peak effect
+            * The tt<sub>1/2</sub>ke0 is not the time to peak effect
                 * Neither is k<sub>e0</sub>
-            * For an infusion run at constant plasma concentration the peak effect will e seen at 3-5x the t<sub>1/2<sub>ke0</sub></sub>
-            * The time to peak effect is a function of both plasma kinetics and the t<sub>1/2<sub>ke0</sub></sub>
+            * For an infusion run at constant plasma concentration the peak effect will e seen at 3-5x the t<sub>1/2</sub>ke0
+            * The time to peak effect is a function of both plasma kinetics and the t<sub>1/2</sub>ke0
                 * e.g. adenosine has such a short elimination t<sub>1/2<sub> the effect site concentration will reach its peak rapidly regardless of the k<sub>e0</sub>
 
 GRAPH OF PLASMA AND EFFECT SITE CONCENTRATIONS WITH DIFFERENT VALUES FOR T1/2KEO FROM "BIOPHASE IN ANAESTHESIA"
