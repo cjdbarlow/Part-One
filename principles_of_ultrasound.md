@@ -36,19 +36,28 @@ Sound bounces back from the tissue interface, and returns to the probe.
             * $$d$$ is Depth
             * $$v$$ is the speed of sound in tissue, and is assumed to be 1540 ms<sup>-1</sup>
             * **t** is Time
-* **Transmitted** sound passes through the tissue, and may be reflected or absorbed at deeper tissues.
-* **Scattered** sound is reflected from tissue but is not received by the probe.
+* **Transmitted**  
+Sound passes through the tissue, and may be reflected or absorbed at deeper tissues.
+* **Scattered**  
+Sound is reflected from tissue but is not received by the probe.
 
-**Attenuation** describes the loss of sound wave with increasing depth, and is a function of the above. It can be managed by increasing the **gain**, which is amplification of returned signal. **Time-gain compensation** refers to amplification of signals which have taken longer to return, thus amplifying signals returned from deep tissues.
+
+* **Attenuated**  
+Attenuation describes the loss of sound wave with increasing depth, and is a function of the above fctors.
+    * Attenuation is managed by increasing the **gain**  
+    Gain refers to amplification of returned signal.
+    * **Time-gain compensation** refers to amplification of signals which have taken longer to return, which amplifies signals returned from deep tissues
 
 ##Modes
-**B-Mode** (brightness mode) is the standard 2D ultrasound mode, and plots the measured amplitude of reflected ultrasound waves by the calculated depth from which they were reflected. 
-
-**M-Mode** (movement mode) selects a single vertical section of the image and displays changes over time (i.e. depth on the y-axis, and time on the x-axis).
+Ultrasound modes include:
+* **B-Mode** (brightness mode)  
+The standard 2D ultrasound mode, and plots the measured amplitude of reflected ultrasound waves by the calculated depth from which they were reflected. 
+* **M-Mode** (movement mode)  
+Selects a single vertical section of the image and displays changes over time (i.e. depth on the y-axis, and time on the x-axis).
 
 
 ##Doppler Effect
-The doppler effect is the change in observed frequency when a wave is reflected off (or emitted from) a moving object, relative to the position of the receiver. In echocardiography, this is the change in frequency of sound reflected from a moving particle. It is given by the equation:
+The doppler effect is the change in observed frequency when a wave is reflected off (or emitted from) a moving object, relative to the position of the receiver. In medical ultrasound, this is the change in frequency of sound reflected from a moving tissue (e.g. an erythrocyte). It is given by the equation:
 
 $$ V = { \Delta Fs \over 2F_0cos\theta} $$ where: 
 
@@ -63,5 +72,5 @@ Reflected frequencies are **higher towards the probe** and **lower away**.
 Knowledge of the above allows velocity to be determined (θ is assumed). Combined with knowledge of the cross-sectional area of a vessel (obtained by measuring the diameter using ultrasound), flow can be determined.
 
 ##References
-1. Cross ME, Plunkett EVE. Physics, Pharmacology, and Physiology for Anaesthetists.
-2. CICM exam feedback 2007.
+1. Cross ME, Plunkett EVE. Physics, Pharmacology, and Physiology for Anaesthetists: Key Concepts for the FRCA. 2nd Ed. Cambridge University Press. 2014.
+2. CICM July/September 2007.
