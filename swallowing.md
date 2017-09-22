@@ -6,7 +6,8 @@ Swallowing is divided into three phases:
     * Voluntary
     * Food is pushed against hard palate by tongue
 * **Pharyngeal Phase**  
-    * Involuntary - coordinated by medulla
+    * Involuntary  
+    Coordinated by medulla.
     * Closure of nasopharynx
     * Adduction of vocal cords
     * Hyoid elevation and deflection of epiglottis
@@ -15,7 +16,7 @@ Swallowing is divided into three phases:
 * **Oesophageal phase**  
     * Involuntary
     * Closure of UoS  
-    Resting **barrier pressure 100mmHg**
+    Resting **barrier pressure 100mmHg**.
     * Relaxation of LoS  
     Resting **barrier pressure 20mmHg**, which is a balance between:
         * LoS pressure (30mmHg)
@@ -24,7 +25,7 @@ Swallowing is divided into three phases:
 
 Impairment of any of these processes increases risk of aspiration:
 * Obundation  
-Reduced cough reflex
+Reduced cough reflex.
 * Muscular weakness
 * Impaired medullary coordination
 
