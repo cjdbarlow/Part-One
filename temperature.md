@@ -81,38 +81,6 @@ This system measures both temperature and relative humidity.
             * At 100% relative humidity, no evaporative cooling will take place and the temperatures will be equal
             * As humidity decreases, evaporative cooling will cool the wet thermometer, and the temperature difference allows humidity to be determined
 
-##Humidification
-Humidification refers to increasing the water content of inspired patient gases. Methods of humidification can be:
-* Active
-* Passive
-
-###Heat-Moisture Exchange Filter
-* Small device placed into breathing circuit distal to patient y-piece
-* Constructed with several vanes of a **hygroscopic** material, causing water (and therefore heat) to be trapped on the patient side of the filter
-
-####Pros
-* Cheap
-* Easy to use
-* May contain anti-bacterial filter
-
-####Cons
-* Less effective than active methods
-* Increases dead space volume
-* Takes 15-20 minutes to become fully effective
-* May be blocked by secretions
-* Lasts 24 hours - inappropriate for long term ventilation
-
-###Active Humidification
-* Device which adds a heated sterile water bath to to the inspiratory limb of the circuit
-* Inspired gas typically achieves 100% relative humidity
-
-###Pros
-* Complete humidification achieved
-* Can be used indefinitely
-
-###Cons
-* Expensive
-* Water bath may lead to bacterial contamination
 
 ---
 ##References
