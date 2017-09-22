@@ -21,4 +21,4 @@ The D-isomer of sotalol is a **class III antiarrhythmic**, whilst the L-isomer a
 
 ---
 ##References
-Peck and Hill
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
