@@ -73,5 +73,5 @@ Increased plasma ion concentration increases oncotic pressure
 
 ---
 ##References
-Power and Kam
-Vanders
+1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+2. Eaton DC, Pooler JP. Vander's Renal Physiology. 6th Ed (Revised). McGraw-Hill Education - Europe. 2004.

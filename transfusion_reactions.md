@@ -80,7 +80,7 @@ These may be either A or B antigen, and patients may express one, both, or neith
         * Don't express A- or B-antigen (as there is no H-antigen stem) and are 'universal donors'
         * Express H-antibody  
         Can only receive blood from other individuals with the Bombay phenotype
-* Individuals express IgM antibody to foreign blood groups
+* Individuals express IgM antibody to foreign blood groups  
     This develops within 6 months of birth, likely due to environmental exposure to similar antigens.
 * Associated with a severe hypersensitivity reaction if an ABO-mismatch occurs
 
@@ -133,7 +133,7 @@ Transfusion reactions can be classified as either acute (< 24 hours) or delayed 
 
 |Reaction|Incidence|Mechanism|
 |--------|---------|---------|
-|ABO Mismatch|1:40000|ABO incompatibility causing rapid intravascular haemolysis, which may cause chest pain, jaundice, shock, and DIC. RhD-reactions tend to cause extravascular haemolysis.
+|ABO Mismatch|1:40,000|ABO incompatibility causing rapid intravascular haemolysis, which may cause chest pain, jaundice, shock, and DIC. RhD-reactions tend to cause extravascular haemolysis.
 |Haemolytic (acute)|1:76,000 (1:1.8 million fatal)|Immunological destruction of transfused cells (Type II hypersensitivity). Presents with fever, tachycardia, pain, progressing to distributive shock|
 |Febrile, non-haemolytic|~1:100|Cytokine release from stored cells causing a mild inflammatory reaction, with temperature rising to ≥38ºC or ≥1ºC above baseline (if >37ºC). Benign - but requires exclusion of a haemolytic reaction.
 |Urticaria|1:100|Hypersensitivity to plasma proteins in the transfused unit
@@ -190,6 +190,6 @@ Risk of complication from a massive transfusion is influenced by:
 
 ---
 ##References
-http://www.transfusion.com.au/adverse_transfusion_reactions/classification_and_incidence
-http://www.blood.gov.au/pbm-guidelines
-Chambers
+1. Blood Service. [Classification & Incidence of Adverse Events](http://www.transfusion.com.au/adverse_transfusion_reactions/classification_and_incidence). Australian Red Cross.
+2. National Blood Authority. [Patient Blood Management Guidelines](http://www.blood.gov.au/pbm-guidelines). Australian Red Cross.
+3. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
