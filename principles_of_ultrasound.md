@@ -69,7 +69,13 @@ $$ \theta $$ = Angle between the sound wave and the object
 
 Reflected frequencies are **higher towards the probe** and **lower away**.
 
-Knowledge of the above allows velocity to be determined (θ is assumed). Combined with knowledge of the cross-sectional area of a vessel (obtained by measuring the diameter using ultrasound), flow can be determined.
+Calculation of Cardiac Output:
+* Heart rate is measured
+* Stroke volume is calculated by:
+    * Measuring the cross-sectional area of a vessel  
+    Obtained by measuring the diameter using ultrasound.
+    * Measuring the stroke distance  
+    Obtained via integrating the flow-time waveform for distance across the left ventricular outflow tract (LVOT VTI)
 
 ##References
 1. Cross ME, Plunkett EVE. Physics, Pharmacology, and Physiology for Anaesthetists: Key Concepts for the FRCA. 2nd Ed. Cambridge University Press. 2014.
