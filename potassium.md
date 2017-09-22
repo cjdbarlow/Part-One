@@ -32,8 +32,7 @@ As per the Nernst equation.
   * Weakness
   * Paralysis
   * Parasthesias
-  * ECG findings are those of **prolonged depolarisation** and **rapid repolarisation**
-
+  * ECG findings are those of **prolonged depolarisation** and **rapid repolarisation**:  
 |Serum [K<sup>+</sup>] (mmol/L)|ECG Findings|
 |--|--|
 |5.5-6.5|Tall tented T waves|
@@ -45,7 +44,19 @@ As per the Nernst equation.
 
 
 ###Hypokalaemia
-Hypokalaemia results in a more-negative resting membrane potential. This makes it more difficult for a stimulus to reach the threshold potential, and therefore it is harder to generate and propagate action potential. ECG findings are those of **rapid depolarisation** and **prolonged repolarisation**, and include prolonged PR, long QT, flat T waves or TWI, U waves, and ST depression. Severe hypokalaemia may result in frequent supraventricular and ventricular ectopics, supraventricular arrythmias, and severe arrythmias.
+Hypokalaemia:
+* Causes the resting membrane potential to become more-negative  
+This makes it more difficult for a stimulus to reach the threshold potential, and therefore it is harder to generate and propagate action potential.
+* ECG findings are those of **rapid depolarisation** and **prolonged repolarisation**, and include:
+ * Prolonged PR
+ * Long QT
+ * Flat T waves or TWI
+ * U waves
+ * ST depression
+ * Severe hypokalaemia may result in:
+  * Frequent supraventricular and ventricular ectopics
+  * Supraventricular arrhythmias
+  * Ventricular arrhythmias
 
 
 ##Regulation
