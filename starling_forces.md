@@ -4,7 +4,7 @@
 
 Interstitial fluid is an ultrafiltrate of plasma, with the net filtration pressure determined by the net effect of opposing hydrostatic and oncotic pressures:
 
-$$NFP = P_{Capillary \ Hydrostatic} - P_{Interstitial \ Hydrostatic} - (P_{Capillary \ Oncotic} - P_{Interstitial \ Oncotic}))$$
+$$NFP = P_{Capillary \ Hydrostatic} - P_{Interstitial \ Hydrostatic} - (P_{Capillary \ Oncotic} - P_{Interstitial \ Oncotic})$$
 
 These four variables are known as **Starling's forces**.
 
@@ -39,7 +39,7 @@ In the glomerulus:
 * Glomerular oncotic pressure is essentially 0
 
 In the liver:
-* Reflection coefficient is close to 1 in hepatic sinusoids
+* Reflection coefficient is close to 0 in hepatic sinusoids as they are very permeable to protein
 
 In the lungs:
 * Reflection coefficient of ~0.5 in the lungs due to significant leak of protein
@@ -87,6 +87,6 @@ Oedema can be localised or generalised, and in both cases caused by:
 
 ---
 ##References
-Ganong 24th
-http://www.anaesthesiamcq.com/FluidBook/fl4_2.php
-ANZCA August/September 2001
+1. Barrett KE, Barman SM, Boitano S, Brooks HL. Ganong's Review of Medical Physiology. 24th Ed. McGraw Hill. 2012.
+2. Brandis, K. [Starling's Hypothesis](http://www.anaesthesiamcq.com/FluidBook/fl4_2.php). Anaesthesia MCQ.
+3. ANZCA August/September 2001

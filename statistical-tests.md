@@ -11,7 +11,7 @@ Parametric tests are used when data is:
 * Samples have the same variance
 * Observations within the group are independent  
 Independent results are those when one value is not expected to influence another value.
-    * A common example is repeated measures: when serial measures are taken from a patient or a hospital, the results cannot be treated as independent.
+    * A common example is repeated measures: when serial measures are taken from a patient or a hospital, the results cannot be treated as independent
     * **Paired tests** are used when two dependent samples are compared
     * **Unpaired test** are used when two independent samples are compared
 
@@ -53,15 +53,19 @@ This is required when:
     Typically small sample sizes.
     * Data is ordinal
 * Are not as powerful as parametric tests (a larger sample size is required to achieve the same error rate)
-* Are more broadly applicable than parametric tests as do not require the same assumptions
+* Are more broadly applicable than parametric tests as they do not require the same assumptions
 
-Non-parametric tests still require that data is:
-* Continuous or ordinal
+Non-parametric tests still require that data:
+* Is continuous or ordinal
 * Within-group observations are independent
 * Samples are taken randomly
 
 
-In general, non-parametric tests take each result and rank them. Calculations are then performed on each rank to find the test statistic. Common non-parametric tests include:
+In general, non-parametric tests;
+* Take each result and rank them
+* Calculations are then performed on each rank to find the test statistic
+
+Common non-parametric tests include:
 
 ###Mann-Whitney U Test/Wilcoxon Rank Sum Test
 Alternative to the unpaired T-test for non-parametric data.
@@ -71,7 +75,7 @@ Process:
     * Tied data are given identical ranks, where that rank is equal to the average rank of the tied observations
 * The data are then separated into their original group
 * Ranks in each group are added to give a test statistic for each group
-* A statistical test is performed to see if the sum of ranks in one group is different ot another
+* A statistical test is performed to see if the sum of ranks in one group is different to another
 
 ###Wilcoxon Signed Ranks Test
 Alternative to the paired T-test for non-parametric data.
@@ -80,9 +84,9 @@ Process:
 * As above (for the Wilcoxon Rank Sum Test), except absolute difference between paired observations are ranked  
 The sign (i.e. positive or negative) is preserved.
 * The sum of positive ranks is then compared with the sum of negative ranks  
-* If there is no difference between groups, we would expect the net value to be 0.
+* If there is no difference between groups, we would expect the net value to be 0
 
 ---
 
 ##References
-Myles and Gin
+1. Myles PS, Gin T. Statistical methods for anaesthesia and intensive care. 1st ed. Oxford: Butterworth-Heinemann, 2001.
