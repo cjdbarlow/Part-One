@@ -163,13 +163,13 @@ The effect site is modelled as a **compartment of negligible volume** contained 
     This is a theoretical elimination pathway - drug is not usually metabolised at the effect site.
         * The t<sub>1/2</sub>ke0 describes the effect-site equilibration time  
         It describes how rapidly the effect site reaches equilibrium with plasma.
-            * A large ke0 (rapid drug flow) gives a short t<sub>1/2<sub>ke0</sub></sub>
+            * A large ke0 (rapid drug flow) gives a short t<sub>1/2</sub>ke0
             * After one t<sub>1/2</sub>ke0, 50% of the final effect site concentration will be reached provided plasma concentration remains constant
         * A shorter t<sub>1/2</sub>ke0 indicates that that the effect site concentration will reach equilibrium with plasma more rapidly, and therefore a more rapid clinical effect following administration is seen
         * Note that:
-            * The tt<sub>1/2</sub>ke0 is not the time to peak effect
+            * The t<sub>1/2</sub>ke0 is not the time to peak effect
                 * Neither is k<sub>e0</sub>
-            * For an infusion run at constant plasma concentration the peak effect will e seen at 3-5x the t<sub>1/2</sub>ke0
+            * For an infusion run at constant plasma concentration the peak effect will be seen at 3-5x the t<sub>1/2</sub>ke0
             * The time to peak effect is a function of both plasma kinetics and the t<sub>1/2</sub>ke0
                 * e.g. adenosine has such a short elimination t<sub>1/2<sub> the effect site concentration will reach its peak rapidly regardless of the k<sub>e0</sub>
 
@@ -190,5 +190,4 @@ Difference between the AUC of the same dose of drug administered IV and via anot
 ##References
 1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
 2. Plasma Volume.  Mosby's Medical Dictionary, 8th edition. 2009.  
-3. Stanski RD, Shafer SL. The Biophase Concept and Intravenous Anesthesia.
-4. Made with draw.io  
+3. Stanski RD, Shafer SL. [The Biophase Concept and Intravenous Anesthesia](https://web.stanford.edu/~sshafer/LECTURES.DIR/Notes/Biophase%20in%20Anesthesia.doc).
