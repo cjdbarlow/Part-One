@@ -19,10 +19,20 @@ This has significant effect on excitable tissues.
 * Rapid changes in potassium concentration cause symptoms at lower levels than chronic changes  
 Symptoms are related to the change in action potential generation.
  
-###Hyperkalaemia
-Hyperkalaemia results in a less negative resting membrane potential, as per the Nernst equation). This brings the resting membrane potential closer to the threshold potential, causing 'instability' of excitable cell membranes as the cell cell is more likely to depolarise and increasing the liklihood of a spontaneous action potential. Action potentials exhibit a prolonged depolarisation phase, Symptoms of hyperkalaemia include weakness, paralysis, and parasthesias. ECG findings are those of **prolonged depolarisation** and **rapid repolarisation**.
+Ventricular Action Potential in Hyperkalaemia:
+<object data="resources\ventricular-ap-hyperk.svg" type="image/svg+xml"></object>
 
-FIGURE 3 FROM NCBI ARTICLE IN PAPER BELOW
+ 
+###Hyperkalaemia
+Hyperkalaemia causes:
+* The resting membrane potential to become less negative  
+As per the Nernst equation.
+ * This results in the resting membrane potential being closer to the threshold potential, increasing irritability
+ * Several symptoms, including:
+  * Weakness
+  * Paralysis
+  * Parasthesias
+  * ECG findings are those of **prolonged depolarisation** and **rapid repolarisation**
 
 |Serum [K<sup>+</sup>] (mmol/L)|ECG Findings|
 |--|--|
@@ -30,6 +40,9 @@ FIGURE 3 FROM NCBI ARTICLE IN PAPER BELOW
 |6.5-7.5|Loss of P wave, lengthening PR interval|
 |7.5-8.5|Widening QRS|
 |>8.5|Sine-wave QRS|
+
+
+
 
 ###Hypokalaemia
 Hypokalaemia results in a more-negative resting membrane potential. This makes it more difficult for a stimulus to reach the threshold potential, and therefore it is harder to generate and propagate action potential. ECG findings are those of **rapid depolarisation** and **prolonged repolarisation**, and include prolonged PR, long QT, flat T waves or TWI, U waves, and ST depression. Severe hypokalaemia may result in frequent supraventricular and ventricular ectopics, supraventricular arrythmias, and severe arrythmias.
