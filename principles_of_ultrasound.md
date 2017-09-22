@@ -1,7 +1,12 @@
 #Principles of Ultrasound
 > Describe the physical principles of ultrasound and the Doppler Effect.
 
-Ultrasound is an imaging technique where high-frequency sound waves (2-15MHz) are used to generate an image. An ultrasound wave is produced by a probe using the **piezoelectric effect**. Certain crystalline structures will generate a voltage when they vibrate at a particular frequency. Similarly, they will vibrate at a particular frequency when a certain voltage is applied across them. The conversion of electrical energy to kinetic energy allows the ultrasound probe to create an ultrasound wave.
+Ultrasound is an imaging technique where high-frequency sound waves (2-15MHz) are used to generate an image. An ultrasound wave is produced by a probe using the **piezoelectric effect**:
+* Certain crystalline structures will vibrate at a particular frequency when a certain voltage is applied across them  
+The conversion of electrical energy to kinetic energy is how the ultrasound probe creates an ultrasound wave.
+* Similarly, they can generate a voltage when a fibration is induced in them  
+This is how the probe interprets reflected waves.
+
 
 ##Basic principles
 * **Spatial resolution** is how close two separate objects can be to each other and still be distinguishable. It is divided into:
