@@ -53,7 +53,7 @@ $$ OR = {Odds \ of \ death \ in \ exposed \over Odds \ of \ death \ in \ unexpos
 
 The relative risk is 9, but the OR is 81!
 
-So why use odds ratios at all? Odds ratios are required when research subjects are selected on the basis of outcome rather than the basis of exposure.[^3] Many statistical tests also require the use odds ratios because the log odds ratio has a normal distribution[^4].
+So why use odds ratios at all? Odds ratios are required when research subjects are selected on the basis of outcome rather than the basis of exposure. Many statistical tests also require the use odds ratios because the log odds ratio is normally distributed.
 
 Relative Risk has a weakness as well - it is dependent on how the question is framed. Using the first trial above, we calculated that RR for death was 2 and the OR was 3. Rather than calculating mortality, an alternative method could be to look at survival:
 * In group A, the survival was 50%
