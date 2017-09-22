@@ -45,9 +45,12 @@ Thyroid hormones are:
     * 55% of T<sub>4</sub> will be first deiodinated to T<sub>3</sub>
 
 ##Physiological Effects
-Thyroid hormones act on thyroid receptors in the **cell nucleus**, increasing gene transcription, protein synthesis, and mitochondria size and number. **T<sub>3</sub> is 3-5x more active than T<sub>4</sub>**.
+Thyroid hormones:
+* Act on thyroid receptors in the **cell nucleus**  
+Increasing gene transcription, protein synthesis, and mitochondria size and number. 
+* **T<sub>3</sub> is 3-5x more active than T<sub>4</sub>**
 
-Effects of thyroid hormone are predominantly metabolic
+Effects of thyroid hormone are predominantly metabolic:
 
 |System|Effect|
 |--|--|
@@ -57,7 +60,7 @@ Effects of thyroid hormone are predominantly metabolic
 |**MSK**|↑ Osteoblastic activity
 |**GU**|Impotence (men), oligomenorrhoea (women)
 |**GIT**|↑ GIT motility
-|**Metabolic**|↑BMR up to 100%, ↑ carbohydrate metabolism (↑ glucose uptake, ↑ glycolysis, ↑ gluconeogenesis), ↑ fat metabolism (↑ lipolysis, ↑ non-shivering thermogenesis, ↓ plasma cholesterol, ↓ plasma phospholipids, ↓ triglycerides), ↑ protein metabolism (↑ anabolism at physiological levels, ↑ catabolism at high levels)
+|**Metabolic**|↑ BMR up to 100%, ↑ carbohydrate metabolism (↑ glucose uptake, ↑ glycolysis, ↑ gluconeogenesis), ↑ fat metabolism (↑ lipolysis, ↑ non-shivering thermogenesis, ↓ plasma cholesterol, ↓ plasma phospholipids, ↓ triglycerides), ↑ protein metabolism (↑ anabolism at physiological levels, ↑ catabolism at high levels)
 
 ---
 ##References
