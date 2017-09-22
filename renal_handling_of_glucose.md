@@ -22,7 +22,7 @@ Saturation of transporters occur, so a further increase in solute concentration 
 * **Gradient Limited**  
 Leaks in the tight junctions will result in solute moving from the interstitium back into the tubule if the tubular concentration falls too low.
 
-  The maximum solute concentration for a gradient-i system is related to the permeability of the tight junctions.
+  The maximum solute concentration for a gradient limited system is related to the permeability of the tight junctions.
 
 
 ##Glucose
@@ -33,9 +33,9 @@ Glucose is:
   * Secondary active transport (down the established Sodium gradient)
   * There are two subtypes of the SGLUT protein:
     * Low-affinity, high-capacity  
-    Rapidly reabsorbs glucose, but is ineffective when glucose concentration is low. It is located early in the PCT.
+    Rapidly reabsorbs glucose, but is ineffective when glucose concentration is low. It is located early in the PCT, and reabsorbs ~90% of filtered glucose.
     * High-affinity, low-capacity  
-    Slowly reabsorbs glucose, but remains effective even when glucose concentration is low. It is located late in the PCT, where glucose concentration is lower (having already been reabsorbed by the high-capacity transporter).
+    Slowly reabsorbs glucose, but remains effective even when glucose concentration is low. It is located late in the PCT, where glucose concentration is lower (having already been reabsorbed by the high-capacity transporter), and reabsorbs ~10% of filtered glucose. 
 
 
 * As GFR increases, glucose filtration and therefore glucose absorption increase
@@ -43,7 +43,7 @@ Glucose is:
 * This phenomenon is known as **glomerulo-tubular balance**
 
 
-* Glucose reabsorption is a T<sub>max</sub> system, and is overwhelmed when filtered glucose exceeds 2mmol.min<sup>-1</sup>
+* Glucose reabsorption is a T<sub>max</sub> system, and is overwhelmed when filtered glucose exceeds 300mg.min<sup>-1</sup> or 16mmol.min<sup>-1</sup>
   * This typically occurs when plasma (and therefore filtered) glucose concentrations exceed **12mmol.L<sup>-1</sup>**
 
 GRAPH OF GLUCOSE FLUX PAGE 66 VANDERS
