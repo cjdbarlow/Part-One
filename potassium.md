@@ -2,8 +2,8 @@
 > Describe the function, distribution, regulation and physiological importance of ~~sodium, chloride,~~ potassium, ~~magnesium, calcium and phosphate~~ ions.
 
 Potassium is the major intracellular cation, with 90% of total body potassium present in the ICF. A further 8% is sequestered in bone, with 2% present in the ECF.
-
-Normal ECF concentration is 3.5-5mmol.L<sup>-1</sup>. Normal ICF concentration is ~150mmol.L<sup>-1</sup>.
+* Normal ECF concentration is 3.5-5mmol.L<sup>-1</sup>
+* Normal ICF concentration is ~150mmol.L<sup>-1</sup>
 
 ##Function and Dysfunction
 Potassium is important for:
