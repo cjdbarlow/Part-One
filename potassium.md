@@ -108,4 +108,4 @@ Alkalosis increases elimination of potassium as the Na<sup>+</sup>-K<sup>+</sup>
 1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
 2. Hall, JE, and Guyton AC. Guyton and Hall Textbook of Medical Physiology. 11th Edition. Philadelphia, PA: Saunders Elsevier. 2011. 
 3. Nickson,C. [Hyperkalaemia](http://lifeinthefastlane.com/hyperkalemia/). Life in the Fast Lane.
-http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1413606/
+4. Parham WA, Mehdirad AA, Biermann KM, Fredman CS. [Hyperkalemia Revisited](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1413606/). Texas Heart Institute Journal. 2006;33(1):40-47.
