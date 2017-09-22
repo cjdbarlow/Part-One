@@ -52,9 +52,10 @@ Arrythmias should be managed with drugs that do not prolong the action potential
 Seizures should be managed with benzodiazepines, phenytoin, propfol, and phenobarbital. Avoid agents which result in QRS prolongation.
 
 ##References
-1. Peck and Hill
-2. Rang and Dale - chapter 39 the nervous system.
-3. CICM. Exam feedback July-September 2007.
-4. LITFL http://lifeinthefastlane.com/toxicology-conundrum-022/
-5. http://lifeinthefastlane.com/ccc/tricyclic-antidepressant-toxicity/
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.
+3. CICM July/September 2007
+4. Salhanick SD, Traub SJ, Grayzel J. Tricyclic Antidepressant Poisoning. In: UpToDate, Post, TW (Ed), UpToDate, Waltham, MA, 2017.
+4. Nickson, C. [Toxicology Conundrum 22](http://lifeinthefastlane.com/toxicology-conundrum-022/). LITFL.
+5. Nickson, C. [Tricyclic Antidepressant Toxicity](http://lifeinthefastlane.com/ccc/tricyclic-antidepressant-toxicity/). LITFL.
 6. UpToDate. Tricyclic antidepressant poisoning
