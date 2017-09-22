@@ -46,5 +46,5 @@ Cauda Equina syndrome results from compression of lumbosacral nerve roots below 
 
 ---
 ##References
-CLinical neuroanatomy made ridiculously simple edition 3
-Lasts 9th edition
+1. Goldber S. Clinical Neuroanatomy Made Ridiculously Simple. 3rd Ed. Medmaster. 2005.
+2. McMinn, RMH. Last's Anatomy: Regional and Applied. 9th Ed. Elsevier. 2003.
