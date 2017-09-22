@@ -33,6 +33,9 @@ The Heat and Moisture Exchange (HME) filter is the classic passive humidifier:
 * Cheap
 * Lightweight
 * Straightforward
+* May contain anti-bacterial filter
+
+
 
 ###Cons
 * May be blocked with vomit and secretions
@@ -40,6 +43,8 @@ The Heat and Moisture Exchange (HME) filter is the classic passive humidifier:
 * Increase dead space
 * Not as effective as powered active systems
 * Only last 24 hours
+* Takes 15-20 minutes to become fully effective
+
 
 ##Active Humidifiers
 Active Humidifiers:
@@ -62,12 +67,12 @@ Active Humidifiers:
 * Greater humidification
 * Appropriate for long-term ventilation
 
-
 ###Cons
 * Bulky
 * Expensive
 * Require power
 * Infection risk from water bath
+
 
 
 ---
