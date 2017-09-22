@@ -73,15 +73,13 @@ The simplest model imagines the body a single, well-stirred compartment.
 
 <object data="resources\1compartment.svg" type="image/svg+xml"></object>
 
-
-
 In a one compartment model, the concentration of a drug ($$C$$) at time $$t$$ is given by the equation:
 
 $$ C = C_0 e^{-kt} $$
 
 Where:
 * $$C_0$$ is the concentration at time 0  
-As drug is only eliminated from the compartment, this is also the peak concentration.
+As drug can only be eliminated from the compartment, this is also the peak concentration.
 * **k** is the **rate constant for elimination**  
 This is the fraction of the Vd from which the drug is removed per unit time. The rate constant **determines** the **slope** of the curve.
     * A high rate constant for elimination results in a steep curve and therefore a short time constant
@@ -92,7 +90,7 @@ At steady state, **input is equal to output**. Therefore concentration at steady
 * Proportional to the concentration of the infusion and infusion rate
 * Inversely proportional to the clearance:  
 $$ Input = Output \\ C_i.I = C_{ss}.Cl \\ C_{ss} = {C_i.I \over Cl}$$  
-The concentration of drug can therefore be determined by the amount infused and the clearance.
+    * Concentration of drug can therefore be determined by the amount infused and the clearance
 * Note steady state requires peripheral compartments to be saturated, and so will only occur after an infusion of many hours
 
 ###Multiple Compartment Models
@@ -100,28 +98,25 @@ The concentration of drug can therefore be determined by the amount infused and 
 * Three-compartment models are typically used, as additional compartments typically offer no extra fidelity but are mathematically more complex
 * A three-compartment model *can* be conceptualised as a plasma (or central) compartment, a well-perfused compartment, and a poorly-perfused compartment  
 This doesn't mean that they *should* be thought of in this way - they are a mathematical technique used to calculate plasma concentration at a given time.
-![Three-compartment model](http://i.imgur.com/jfQ172d.png)[^3]
 
-* Plasma concentration in multicompartment model is predicted through the net effect of several negative exponential equations
-
-SUM OF EXPONENTIAL EQUATIONS CLEARANCE GRAPH WITH INTERCEPTS
+<object data="resources\3compartment.svg" type="image/svg+xml"></object>
 
 
-Plasma concentration becomes dependent on the effects of:
-* **Distribution**   
-Distribution describes the movement of drug from the central compartment (V<sub>1</sub>, typically plasma) to the peripheral compartment(s).
-    * Rapid fall in plasma concentration of a drug after administration is generally due to distribution  
-    Distribution is an important method for drug offset in short-acting drugs.
 
-
-* **Redistribution**  
-Redistribution refers to the movement of drug from the peripheral compartment(s) back into plasma.
-    * Drugs which have a large V<sub>D</sub> in a peripheral compartment tend to **distribute quickly** along this concentration gradient, and **redistribute slowly** back into plasma
-    * Drugs which tend to **distribute slowly** tend to **redistribute quickly** once administration has ceased
-
-
-* **Excretion**  
-Excretion is the removal of drug from the body. 
+Plasma concentration in multicompartment models is:
+* Predicted through the net effect of several negative exponential equations  x
+This is covered under two-compartment models below.
+* Dependent on the effects of:
+    * **Distribution**   
+    Distribution describes the movement of drug from the central compartment (V<sub>1</sub>, typically plasma) to the peripheral compartment(s).
+        * Rapid fall in plasma concentration of a drug after administration is generally due to distribution  
+        Distribution is an important method for drug offset in short-acting drugs.
+    * **Redistribution**  
+    Redistribution refers to the movement of drug from the peripheral compartment(s) back into plasma.
+        * Drugs which have a large V<sub>D</sub> in a peripheral compartment tend to **distribute quickly** along this concentration gradient, and **redistribute slowly** back into plasma
+        * Drugs which tend to **distribute slowly** tend to **redistribute quickly** once administration has ceased
+    * **Excretion**  
+    Excretion is the removal of drug from the body. 
 
 ####Clearance in Two-Compartment Models
 Removal of drug in two-compartment models is via:
