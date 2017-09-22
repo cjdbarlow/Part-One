@@ -3,7 +3,7 @@
 
 <!--></!-->
 
->Describe bias, types of error, ~~confounding factors and sample size calculations,!! and the factors that influence them
+>Describe bias, types of error, ~~confounding factors and sample size calculations,~~ and the factors that influence them
 
 All these terms refer to characteristics of **diagnostic tests**. The easiest way to approach this is via a 2x2 table, and has been recommended in previous exams as an approach to questions on this topic. 
 
