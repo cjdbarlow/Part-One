@@ -18,13 +18,10 @@ $$\dot{V} = {A \times D \times \Delta P \over T }$$, where:
 * $$\dot{V}$$ = Flow of substance across the membrane
 * $$A$$ = Area of the membrane
 * $$D$$ = Diffusion constant for the substance, where $$ D \propto {Lipid \ Solubility \over \sqrt{Molecular \ Weight}} $$
-* $$\Delta P$$ = Pressure difference across the membrane
+  * Molecules < 600 Da in size more readily diffuse down concentration gradients
+* $$\Delta P$$ = Concentration difference across the membrane  
+    * Maternal placental flow is ~600mL.min<sup>-1</sup> at term - double that of foetal flow - which improves diffusion by increasing the concentration gradient for solutes
 * $$T$$ = Thickness of the membrane
-
-Maternal placental flow is ~600mL.min<sup>-1</sup> at term - double that of foetal flow - which improves diffusion by increasing the concentration gradient for solutes.
-
-Molecules < 600 Da in size more readily diffuse down concentration gradients.
-
 
 
 ####O<sub>2</sub> Diffusion
@@ -32,7 +29,10 @@ At the end of pregnancy, **PO<sub>2</sub> for foetal blood**:
 * Entering the placenta via the uterine artery is **18mmHg** (SpO2 45%)  
 * Leaving the placenta via uterine vein is **28mmHg** (SpO2 70%)
 
-The foetus is able to absorb a large enough volume of O<sub>2</sub> despite the low PO<sub>2</sub> for three reasons:
+The foetus is able to have adequate delivery of O<sub>2</sub> despite the low PO<sub>2</sub> for four reasons:
+* **High Cardiac Index**  
+Increased cardiac output increases DO<sub>2</sub>.
+
 * **Foetal Hb**  
 Contains **two gamma subunits** instead of beta subunits. These prevent the binding of 2,3-DPG, which result in a **left-shifted Oxy-Haemoglobin dissociation curve**, favouring oxygen loading at a low PaO<sub>2</sub>.
 
@@ -45,6 +45,11 @@ The Bohr effect states that an **increase** in **PaCO<sub>2</sub>** **right-shif
     This makes **foetal blood relatively alkaline, and maternal blood relatively acidic**. Therefore:
       * O<sub>2</sub> unloading of maternal blood is favoured
       * O<sub>2</sub> loading of foetal blood is favoured
+
+<object data="resources\Oxyhb-curve-double-bohr.svg.svg" type="image/svg+xml"></object>
+
+
+
 
 ####CO<sub>2</sub> Diffusion
 CO<sub>2</sub> is extremely lipid soluble, and so passes easily across membranes. Foetal PaCO<sub>2</sub> is ~50mmHg, and intervillous PCO<sub>2</sub> is ~37mmHg. CO<sub>2</sub> offloading is favoured in the foetus by:
