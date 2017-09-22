@@ -1,16 +1,20 @@
 # Thyroid
 > Describe the control, secretions and functions of the thyroid.
 
-The thyroid gland produces and secretes two hormones, T<sub>4</sub> (thyroxine, 93%) and T<sub>3</sub> (tri-iodothyronine, 7%), in response to TSH. This is controlled via a negative-feedback loop on the hypothalamic-pituitary-thyroid axis. Increased TSH results in:
-* Increased iodine uptake
-* Increased iodination to form T<sub>4</sub> and T<sub>3</sub>
-* Increased proteolysis of thyroglobulin, which releases T<sub>4</sub> and T<sub>3</sub>
-
-
-Conversely, decreasing these mechanisms decreases thyroid hormone synthesis:
-* Decreased iodine uptake
-  * Percholate (blocks Na<sup>+</sup>/I<sup>-</sup> symporter
-  * Wolff-Chaikoff effect: A reduction in uptake due to a high circulating [iodide]
+The thyroid gland:
+* Produces and secretes two hormones in response to TSH:
+  * T<sub>4</sub> (thyroxine, 93%)
+  * T<sub>3</sub> (tri-iodothyronine, 7%)
+* Secretions are controlled via a negative-feedback loop on the hypothalamic-pituitary-thyroid axis  
+Increased TSH results in:
+  * Increased iodine uptake
+  * Increased iodination to form T<sub>4</sub> and T<sub>3</sub>
+  * Increased proteolysis of thyroglobulin, which releases T<sub>4</sub> and T<sub>3</sub>
+* Secretions are decreased with decreased iodine uptake
+  * Percholate  
+  Blocks Na<sup>+</sup>/I<sup>-</sup> symporter.
+  * Wolff-Chaikoff effect  
+  A reduction in thyroid hormone production due to a high circulating [iodide].
 
 
 ##Synthesis
