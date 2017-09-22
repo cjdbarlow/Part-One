@@ -20,4 +20,4 @@ Amino group is transferred by aminotransferases to another amino acid or a ketoa
 [^1]: Ammonia can also be produced in the kidney by the deamination of glutamate in the kidney. In this instance it is eliminated directly in urine as ammonia (or ammonium) and does not consume ATP.
 
 ##References
-Chambers
+1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
