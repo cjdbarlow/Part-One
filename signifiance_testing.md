@@ -42,18 +42,21 @@ The cost of being wrong must be included when interpreting a p-value. If this is
 * Vulnerable to multiple comparisons  
 Conducting repeated analyses will eventually find a 'significant' result. At an α of 0.05, we would expect 1/20 analyses to be a false positive. Conducting 20 analyses would therefore generate one false positive result. 
 
+
 * Does not quantify effect size  
 A significant *p*-value simply suggests a difference exists, it does not measure how big this difference is.
     * A result may be statistically significant but clinically unimportant, e.g. an antihypertensive medication causing a decrease in SBP by 2mmHg may be statistically significant, but clinically unimportant.
-    
+
+
 * Related to sample size
 *p*-values are affected by sample size:
     * A large effect size may be hidden by an insigificant *p*-value if sample size is small
     * Similarly, a tiny effect size may be detected (i.e. a significant *p*-value) if sample size is large
-    
+
+
 * Does not account for bias  
 Like other statistical test, the *p*-value cannot account for bias or confounding.
 
 ##References
-http://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108
+1. Wasserstein RL, Lazar NA. [The ASA's Statement on p-Values: Context, Process, and Purpose](http://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108). The American Statistician. 2016 vol: 70 (2) pp: 129-133.
     
