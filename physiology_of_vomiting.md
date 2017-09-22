@@ -39,7 +39,7 @@ Stimulants to vomiting can act centrally, or directly in the bowel:
 ###Postoperative Nausea and Vomiting
 Central structures involved include:
 * Chemoreceptor trigger zone
-* Nucleus of the tractus solitarius
+* NTS
 * Multiple pathways exist (similar to those described above), and neurotransmitters involved include:
     * 5-HT<sub>3</sub>
     * D<sub>2</sub>
@@ -81,7 +81,7 @@ Vomiting consists of a set of processes coordinated by the **vomit centre** in t
 
 ---
 ##References
-Brandis
-Power and Kam
-Chambers
-https://academic.oup.com/bjaed/article/13/1/28/281153/Nausea-and-vomiting-after-surgery
+1. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.
+2. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+3. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+4. Pierre S, Whelan R. [Nausea and vomiting after surgery](https://academic.oup.com/bjaed/article/13/1/28/281153/Nausea-and-vomiting-after-surgery). Continuing Education in Anaesthesia Critical Care & Pain, Volume 13, Issue 1, 1 February 2013, Pages 28–32.
