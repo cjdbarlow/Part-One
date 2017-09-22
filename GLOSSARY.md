@@ -15,6 +15,9 @@ Atrial Natriuretic Peptide
 ##ATP
 Adenosine Triphosphate
 
+##APL
+Adjustable Pressure Limiting
+
 ###BBB
 Blood-Brain Barrier
 

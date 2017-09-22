@@ -9,13 +9,14 @@ Shunt is blood reaching the systemic circulation without being oxygenated via pa
         * Thebesian beins, which drain directly into the left cardiac chambers
         * Bronchial circulations, which drain into the pulmonary veins
     * Functional shunt  
-    Blood draining through alveoli with a V/Q between 0 and 1. Note this is **not true shunt**.
-* Pathological shunt
+    Blood draining through alveoli with a V/Q between 0 and 1.
+      * This may not be true shunt, as blood may have some oxygen content but not be maximally oxygenated
+* Pathological shunt  
+Pathological shunting can be anatomical (e.g congential cardiac malformations), or physiological (e.g. pneumonia causing alveolar consolidation).
     * Intra-cardiac
       e.g. VSD
     * Extra-cardiac  
-      e.g. Pulmonary AVM, PDA
-  Pathological shunting can be anatomical (e.g congential cardiac malformations), or otherwise (e.g. pneumonia causing alveolar consolidation)
+      e.g. Pulmonary AVM, PDA  
 
 ##Calculation of Shunt
 * Shunt cannot be directly measured
@@ -61,7 +62,10 @@ This is where technical definitions become important to avoid confusion.
 * Iso-shunt diagram plots the relationship between FiO<sub>2</sub> and PaO<sub>2</sub> against a set of 'virtual shunt lines'
 * These 'shunt fractions' are calculated from the above equation and so are actually V/Q admixture fractions
 
-INSERT ISOSHUNT DIAGRAM PAGE 135 NUNNS
+<object data="resources\isoshunt.svg" type="image/svg+xml"></object>
+
+
+
 
 
 ---
