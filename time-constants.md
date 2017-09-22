@@ -89,4 +89,4 @@ This is called **pendelluft**.
 
 ---
 ##References
-Nunns
+1. Lumb A. Nunn's Applied Respiratory Physiology. 7th Edition. Elsevier. 2010.
