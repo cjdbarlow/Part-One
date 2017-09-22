@@ -43,7 +43,7 @@ Airway resistance decreases as lung volume increases.
             * More marked in hypovolaemia  
             Changes are reversed with volume expansion.
             * Less severe with poor lung compliance  
-            Reduced compliance greatly reduces the effect of PEEP and IPPV on the vasculature, as the rise in intrapleural pressure is reduced.
+            Reduced compliance greatly reduces the effect of PEEP and IPPV on the vasculature, as the change in intrapleural pressure is reduced.
     * LV preload may also be reduced due to increased RV afterload  
         * Increased RV afterload may increase RV EDV, displacing the interventricular septum into the LV
         * The bulging septum decreases LVEDV, causing LV diastolic function and reduced LV filling  
@@ -83,6 +83,12 @@ PEEP will tend to improve PO<sub>2</sub> whilst reducing CO.
 
 
 ##References
-Nunns
-Deranged Physiology PEEP series
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1414045/
+1. Lumb A. Nunn's Applied Respiratory Physiology. 7th Edition. Elsevier. 2010.
+2. Luecke T, Pelosi P. [Clinical review: Positive end-expiratory pressure and cardiac output](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1414045/). Critical Care. 2005;9(6):607-621. doi:10.1186/cc3877.
+3. Yartsev, A. [Positive End-Expiratory Pressure and it's consequences](http://derangedphysiology.com/files/PEEP%20positive%20end%20expiratory%20pressure%20and%20its%20consequences.pdf). Deranged Physiology.
+4. Yartsev, A. [Positive Pressure and PEEP](http://www.derangedphysiology.com/main/core-topics-intensive-care/mechanical-ventilation-0/Chapter%202.1.1/positive-pressure-and-positive-end-expiratory-pressure-peep). Deranged Physiology.
+5. Yartsev, A. [Indications and Contraindications for PEEP](http://www.derangedphysiology.com/main/core-topics-intensive-care/mechanical-ventilation-0/Chapter%206.1.2/indications-and-contraindications-peep). Deranged Physiology.
+6. Yartsev, A. [Effects of Positive Pressure and PEEP on Alveolar Volume](http://www.derangedphysiology.com/main/core-topics-intensive-care/mechanical-ventilation-0/Chapter%202.1.3/effects-positive-pressure-and-peep-alveolar-volume). Deranged Physiology.
+7. Yartsev, A. [PEEP and Intrinsic PEEP}(http://www.derangedphysiology.com/main/core-topics-intensive-care/mechanical-ventilation-0/Chapter%202.1.6/peep-and-intrinsic-peep). Deranged Physiology.
+
+

@@ -2,7 +2,7 @@
 
 * Penicillins are **bactericidal** antibiotics that prevent cell-wall synthesis by preventing cross-linking of peptidoglycans by replacing the natural substrate with their β-lactam ring
 * Penicillins bind to penicillin binding proteins (**PDPs**) in the bacterial wall
-* Penicllins only rarely achieve complete eradication of sensitive organisms without addition of a **synergistic antibiotic**, such as gentamicin
+* Penicillins only rarely achieve complete eradication of sensitive organisms without addition of a **synergistic antibiotic** (such as gentamicin)
 
 ##Common Features
 |Property|Effect
