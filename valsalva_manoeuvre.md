@@ -7,8 +7,6 @@ A Valsalva is forced expiration against a closed glottis. This can be achieved b
 ##Phases
 A Valsalva manouvere consists of four phases:
 
-INSERT VALSALVA GRAPH PG 178 POWER & KAM OR THE GRAPHS FROM THE PAPER WHICH ARE MUCH PRETTIER
-
 ###Phase I
 * P<sub>AW</sub> is increased to 40cmH<sub>2</sub>O, with a corresponding increase in P<sub>Thoracic</sub>
 * SBP and DBP increase due to:
@@ -45,12 +43,14 @@ INSERT VALSALVA GRAPH PG 178 POWER & KAM OR THE GRAPHS FROM THE PAPER WHICH ARE 
 Abnormal responses occur in cardiac failure and autonomic neuropathy.
 
 ###CCF
-In CCF a square-wave patten is produced, with increasing P<sub>AW</sub> resulting in a sustained **increase** in SBP and DBP. There is a slight decrease in SBP and DBP for the few seconds in phase III when airway pressure is released.
+In CCF a square-wave patten is produced:
+* Increasing P<sub>AW</sub> resulting in a sustained **increase** in SBP and DBP
+* There is a slight decrease in SBP and DBP for the few seconds in phase III when airway pressure is released
 
-This appears to be due to the increased circulating volume, as this difference resolves in venesected cardiac patients, and is demonstrated in normal individuals who are transfused to a high circulating volume.
+Appears to be due to the increased circulating volume, as this difference resolves in venesected cardiac patients, and is demonstrated in normal individuals who are transfused to a high circulating volume.
 
 ###Autonomic Neuropathy
-Baroreceptor response to the Valsalva is minimal in both phase II and IV.
+Baroreceptor response to the Valsalva is minimal in both phase II and IV:
 * In phase II, there is no compensatory increase in sympathetic outflow, so BP continues to fall until P<sub>AW</sub> returns to 0mmHg
 * In phase IV, there is no compensatory increase in vagal tone and so BP returns to normal without overshooting
 
