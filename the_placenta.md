@@ -95,5 +95,5 @@ The maternal sinuses are supplied by **spiral arteries**.
 
 ---
 ##References
-Guyton and Hall
-Power and Kam
+1. Hall, JE, and Guyton AC. Guyton and Hall Textbook of Medical Physiology. 11th Edition. Philadelphia, PA: Saunders Elsevier. 2011. 
+2. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
