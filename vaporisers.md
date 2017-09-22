@@ -22,7 +22,8 @@ Variable bypass vaporisers aim to deliver the same concentration of anaesthetic 
 SVP of volatile agents increase non-linearly as temperature increases. Temperature changes:
 	* Occur through:
 		* Changes in ambient temperature
-		* Loss through latent heat of vaporisation
+		* Loss through latent heat of vaporisation  
+		Liquid agent from the vaporiser will cool over the course of an anaesthetic.
 	* Are managed with:
 		* Temperature stabilisation  
 		Use of materials with both a high thermal conductivity and specific heat capacity allow the vaporising chamber to buffer changes in surrounding temperature.
