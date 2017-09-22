@@ -7,7 +7,7 @@
 
 Skeletal muscle has a number of functions:
 * Facilitate movement
-* Maintenance of posture  
+* Posture  
 Via tonic contraction of antagonistic muscle groups.
 * Soft tissue support  
 Abdominal wall and pelvic floor support viscera.
@@ -49,12 +49,13 @@ The sarcomere is the functional contractile unit of muscle. Average sarcomere le
 
 The sarcomere contains two main proteins:
 * Myosin (**thick**) filaments  
-Myosin is a large protein with two heads, which bind actin and ATP. The mysosin head flexes on its neck during contraction.
-* Actin (**thin**) filaments
-**Actin** is a smaller protein than myosin, and potentiates the ATPase of myosin. Actin filaments have a groove which contains another protein called **tropomyosin**, to which **troponin** attaches to. Troponin has three subunits:
-    * Troponin T - binds troponin to tropomyosin
-    * Troponin I - prevents myosin binding to actin by physically obstructing the binding site
-    * Troponin C - Binds Ca<sup>2+</sup> which initiates contraction
+Myosin is a large protein with two heads, which bind actin and ATP. The myosin head flexes on its neck during contraction.
+* Actin (**thin**) filaments  
+**Actin** is a smaller protein than myosin, and potentiates the ATPase of myosin. Actin filaments have a groove which contains another protein called **tropomyosin**, to which **troponin** attaches to.
+    * Troponin has three subunits:
+        * Troponin T - binds troponin to tropomyosin
+        * Troponin I - prevents myosin binding to actin by physically obstructing the binding site
+        * Troponin C - Binds Ca<sup>2+</sup> which initiates contraction
     
 These proteins are arranged to form three bands and two lines:
 * A-band  
@@ -73,9 +74,9 @@ Band of connections between myosin filaments.
 ##Excitation-Contraction Coupling
 Muscle contraction normally requires the coordination of electrical (signaling) events with mechanical events.
 
-* In response to ACh stimulating nicotinic receptors, the Na<sup>+</sup> and K<sup>+</sup> conductance of the end-plate increase and an **end-plate potential** is generated
+* In response to ACh stimulating nicotinic receptors, the Na<sup>+</sup> and K<sup>+</sup> conductance of the end-plate increases and an **end-plate potential** is generated
 * Muscle fibres undergo successive depolarisation and an action potential is generated along T tubules  
-These deliver the AP deep into the cell, and close to the SR.
+These deliver the AP deep into the cell, and close to the sarcoplasmic reticulum.
 * Ca<sup>2+</sup> is released from sarcoplasmic reticulum  
 This process involves:
     * Dihydropyridine Receptor  
@@ -86,10 +87,12 @@ This process involves:
 
 * Ca<sup>2+</sup> is released from the SR (increasing intracellular Ca<sup>2+</sup> 2000x) and binds to **troponin C**, weakening the troponin I - actin link and uncovering myosin-binding sites on actin
 * Cross-linkages form between actin and myosin, which releases ADP
-* The release of ADP triggers a **power stroke**, which is a process of attachment, pulling, and detachment. Each cycle shortens the sarcomere by **~10nm**:
+* The release of ADP triggers a **power stroke**, which is a process of attachment, pulling, and detachment  
+Each cycle shortens the sarcomere by **~10nm**:
     * The myosin head rotates on its 'neck', moving to a new actin binding site
     * ATP binds to the (now free) binding site on the mysoin
-    * ATP is hydrolysed to ADP, in the process "re-cocking" the myosin head. This process causes the thick and think filaments to slide on each other, with the myosin heads pulling the actin filaments to the centre of the sarcomere. Therefore:
+    * ATP is hydrolysed to ADP, in the process "re-cocking" the myosin head  
+    This process causes the thick and think filaments to slide on each other, with the myosin heads pulling the actin filaments to the centre of the sarcomere. Therefore, over the course of a power stroke:
         * The A-band is unchanged
         * The H-band shortens
         * The I-band shortens
@@ -105,6 +108,6 @@ This process involves:
 
 
 ##References
-Power and Kam
-Ganong
-http://www.lab.anhb.uwa.edu.au/mb140/corepages/muscle/muscle.htm
+1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+2. Barrett KE, Barman SM, Boitano S, Brooks HL. Ganong's Review of Medical Physiology. 24th Ed. McGraw Hill. 2012.
+3. Slomianka, L. [Muscle](http://www.lab.anhb.uwa.edu.au/mb140/corepages/muscle/muscle.htm). University of Western Australia - School of Anatomy and Human Biology.
