@@ -65,11 +65,8 @@ This is where technical definitions become important to avoid confusion.
 <object data="resources\isoshunt.svg" type="image/svg+xml"></object>
 
 
-
-
-
 ---
 ##References
-Wests
-Nunns
-Chambers
+1. Lumb A. Nunn's Applied Respiratory Physiology. 7th Edition. Elsevier. 2010.
+2. West J. Respiratory Physiology: The Essentials. 9th Edition. Lippincott Williams and Wilkins. 2011.
+3. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
