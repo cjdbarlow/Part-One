@@ -18,9 +18,17 @@ Increased TSH results in:
 
 
 ##Synthesis
-Thyroid hormones are **synthesised** in **follicles**, formed of a single layer of cuboidal epithelium around a central lumen (follicular cavity) containing thyroglobulin. **Iodide** is transported into follicular cells via a **secondary active transport** mechanism, using an Na<sup>+</sup>/K<sup>+</sup>-ATPase pump to remove Na<sup>+</sup> from the cell, and a Na<sup>+</sup>/I<sup>-</sup> co-transporter to transport iodine down the Na<sup>+</sup> concentration gradient.
-
-Iodide is then **oxidised to iodine**. Thyroglobulin is synthesised in the endoplasmic reticulum of the follicular cell and excreted into the follicular cavity. Iodine is excreted into the follicular cavity using a chloride exchange pump. In the cavity, **thyroid peroxidase** catalyses the iodination of thyroglobulin, forming mono-iodotyrosine and di-iodotyrosine. These are subsequently **oxidised**, forming T<sub>4</sub> and T<sub>3</sub> respectively.
+Thyroid hormones are:
+* **Synthesised** in **follicles**  
+A follicle is formed of a single layer of cuboidal epithelium around a central lumen (follicular cavity) containing thyroglobulin.
+  * **Iodide** is transported into follicular cells via a **secondary active transport** mechanism  
+  Na<sup>+</sup>/I<sup>-</sup> co-transporter.
+  * Iodide is then **oxidised to iodine**
+  * Thyroglobulin is synthesised in the endoplasmic reticulum of the follicular cell and excreted into the follicular cavity
+  * Iodine is excreted into the follicular cavity using a chloride exchange pump
+  * In the follicular cavity:
+    * **Thyroid peroxidase** catalyses the iodination of thyroglobulin, forming mono-iodotyrosine and di-iodotyrosine
+    * These are subsequently **oxidised**, forming T<sub>4</sub> and T<sub>3</sub> respectively
 
 ###In summary:
 * Iodide is taken into the thyroid follicles by secondary active transport, and oxidised to iodine
@@ -28,9 +36,13 @@ Iodide is then **oxidised to iodine**. Thyroglobulin is synthesised in the endop
 * Iodine is secreted into the follicular cavity, where it combines with thyroglobulin to produce T<sub>4</sub> and T<sub>3</sub>
 
 ##Secretion and Metabolism
-Thyroid hormones are secreted in vesicles via endocytosis into the surrounding capillaries.
-
-Both are highly protein bound to albumin and thyroxine-binding globulin. T<sub>4</sub> has a t<sub>1/2</sub> of 7 days, whilst T<sub>3</sub> has a t<sub>1/2</sub> of 24 hours. Both are deiodinated in the liver, kidney, and muscle. 55% of T<sub>4</sub> will be deiodinated first to T<sub>3</sub>.
+Thyroid hormones are:
+* Secreted in vesicles via endocytosis into the surrounding capillaries
+* Highly protein bound to albumin and thyroxine-binding globulin
+  * T<sub>4</sub> has a t<sub>1/2</sub> of 7 days
+  * T<sub>3</sub> has a t<sub>1/2</sub> of 24 hours
+  * Both are deiodinated in the liver, kidney, and muscle
+    * 55% of T<sub>4</sub> will be first deiodinated to T<sub>3</sub>
 
 ##Physiological Effects
 Thyroid hormones act on thyroid receptors in the **cell nucleus**, increasing gene transcription, protein synthesis, and mitochondria size and number. **T<sub>3</sub> is 3-5x more active than T<sub>4</sub>**.
