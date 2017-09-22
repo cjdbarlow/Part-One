@@ -34,8 +34,8 @@ Draw a 2x2 table of disease state versus test outcome:
 * Therefore, a **negative** result on a **sensitive test** gives a **high likelihood the disease is not present**
     * The mnemonic for this is **SNOUT** - Sensitive, Negative, rule OUT
 
-Sensitivity is the **true positive rate**, and can be expressed mathematically as:
 
+* Sensitivity is the **true positive rate**, and can be expressed mathematically as:  
 $$ Sensitivity = {True \ Positives \over All \ Disease \ Positives } = {True \ Positives \over True \ Positives \ + \ False \ Negatives}$$
 
 ###Specificity
@@ -45,8 +45,8 @@ $$ Sensitivity = {True \ Positives \over All \ Disease \ Positives } = {True \ P
 * Therefore a **positive** result on a **specific test** gives a **high likelihood the disease is present**
   * The mnemonic for this is **SPIN** - Sensitive, Positive, rule IN
 
-Specificity is the **true negative rate**, and can be expressed mathematically as:
 
+* Specificity is the **true negative rate**, and can be expressed mathematically as:  
 $$ Specificity = {True \ Negatives \over All \ Disease \ Negatives } = {True \ Negatives \over True \ Negatives \ + \ False \ Positives} $$
 
 ##Positive and Negative predictive Values
@@ -54,41 +54,39 @@ $$ Specificity = {True \ Negatives \over All \ Disease \ Negatives } = {True \ N
 * A high value indicates accuracy of the test
 * Because of how they are derived,** they are dependent on population prevalence of the disease**
 
-**Positive Predictive Value** (PPV) is the probability that the **disease is present** when the **test is positive**.
 
+* **Positive Predictive Value** (PPV) is the probability that the **disease is present** when the **test is positive**:  
 $$ Positive \ Predictive \  Value = {Disease \ Positives \over All \ Test \ Positives} = {Disease \ Positives \over Disease \ Positives \ + \ False \ Positives} $$
 
-**Negative Predictive Value** (NPV) is the probability that the **disease is absent** when the **test is negative**.   
 
+* **Negative Predictive Value** (NPV) is the probability that the **disease is absent** when the **test is negative**:  
 $$ Negative \ Predictive \ Value = {Disease \ Negatives \over All \ Test \ Negatives} = {Disease \ Nevatives \over Disease \ Negatives \ + \ False \ Negatives} $$
 
 ###Remembering the Difference
 * Rote learning these formulas is hard
 * Remember that:
   * Sensitivity and specificity are **the same** for any given prevalence of disease  
-  Therefore they look at columns (disease positive or disease negative)
+  Therefore they look at columns (disease positive or disease negative).
   * PPV and NPV are not  
-  Therefore they look at rows (test positve or test negative)
+  Therefore they look at rows (test positive or test negative).
 
 ##Likelihood Ratios
 The weakness of PPV and NPV as tools of evaluating the utility of a test in clinical practice is that they do not take into account the population prevalence, i.e. the *prior probability*, of a condition.
 
 A classic example is the urine bHCG, which has a high positive predictive value for pregnancy. Tested on an exclusively male group however, the true positive rate will be 0 (since there are no pregnancies), and so all test positives will be false positives.
 
-Therefore, the actual utility of a test in decision making is dependent upon the **prior probability** of the disease being present. Likelihood Ratios relate the **pre-test odds** to the **post-test odds** and are useful because, unlike the above characteristics, do not assume that the patient you are applying them to is identical to the sample from which the statistic was derived.
-
-The likelihood ratio multipled by the pre-test odds gives the post-test odds of the disease being present.
-
-A **positive likelihood ratio** is used when the test is positive.
-
-$$ LR(+) = {sensitivity \over 1 \ - \ specificity}$$
-
-A **negative likelihood ratio** is used when the test is negative.
-
-$$ LR(-) = {1 \ - \ sensitivity \over specificity} $$
+Therefore:
+* The actual utility of a test in decision making is dependent upon the **prior probability** of the disease being present
+* Likelihood Ratios relate the **pre-test odds** to the **post-test odds**  
+They are useful because (unlike the above values) they do not assume that the patient you are applying them to is identical to the sample from which the statistic was derived.
+* The likelihood ratio multipled by the pre-test odds gives the post-test odds of the disease being present
+  * A **positive likelihood ratio** is used when the test is positive:  
+  $$ LR(+) = {sensitivity \over 1 \ - \ specificity}$$
+  * A **negative likelihood ratio** is used when the test is negative:  
+  $$ LR(-) = {1 \ - \ sensitivity \over specificity} $$
 
 ---
 
 ##References  
- [^1]: PS Myles, T Gin. Statistical methods for anaesthesia and intensive care. 1st ed. Oxford: Butterworth-Heinemann, 2001.  
-[^2]: Course notes from "Introduction to Biostats", University of Sydney, School of Public Health, circa 2013.
+1. Myles PS, Gin T. Statistical methods for anaesthesia and intensive care. 1st ed. Oxford: Butterworth-Heinemann, 2001.
+2. Course notes from "Introduction to Biostats", University of Sydney, School of Public Health, circa 2013.
