@@ -51,27 +51,39 @@ These processes describe the formation of a vesicle (typically from membrane pho
 * **Exocytosis**  
 Vesicle containing a substance to be secreted fuses with the cell membrane when activated by calcium, depositing the substance outside the cell.
 
+
 * **Endocytosis**  
 The cell membrane invaginates around the substance, absorbing the substance into the cell. A vesicle (or vacuole) may or may not be created. Endocytosis may be subdivided into:
   * Phagocytosis, where leukocytes engulf bacteria into a vacuole
   * Pinocytosis, where substances are endocytosed but not into a vacuole
 
+
 ##Gibbs-Donnan Effect
-If a semi-permeable membrane separates two solutions, and at least one of those solutions contains a non-diffusable ion, the distribution of other ions across the membrane will be altered. The distribution of permeable charged ions will be influenced by both their valence and the distribution of uncharged ions.
+Describes the tendency of diffusable ions to distribute themselves such that the ratios of the concentrations are equal when they are in the presence of non-diffusable ions.
 
-At equilibrium, the products of the concentrations of paired ions on each side of the membrane will be equal:
-
+The Gibbs-Donnan Effect:
+* Occurs when:
+  * A semi-permeable membrane separates two solutions
+  * At least one of those solutions contains a non-diffusable ion
+* The distribution of permeable charged ions will be influenced by both their valence and the distribution of uncharged ions, such that at equilibrium **the products of the concentrations of paired ions on each side of the membrane will be equal**:  
 $$[Na^+]_A \times [Cl^-]_A = [Na^+]_B \times [Cl^-]_B$$
+* Alters tonicity on either side of the cell membrane, causing movement of water which then upsets the Gibbs-Donnan effect  
+This results in no 'steady' stable state.
 
-Cell membranes are impermeable to protein (of which there is a large intracellular concentration). Due to the Na<sup>+</sup>-K<sup>+</sup> ATP-ase pump, cell membranes are also effectively impermeable to sodium. This sets up two Gibbs-Donnan equilibirums, where proteins are the extracelleular impermeable ion and sodium is the impermeable intracellular ion.
+The two main contributors to the Gibbs-Donnan effect in the body are sodium and protein. This occurs because cell membranes:
+* Are impermeable to protein  
+Intracellular protein concentration is high.
+* Effectively impermeable to sodium  
+Due to the Na<sup>+</sup>-K<sup>+</sup> ATP-ase pump.
 
-The changing Gibbs-Donnan equilibriums also change the tonicity on each side of the cell membrane, causing movement of water which then upsets the Gibbs-Donnan effect - therefore there is no stable state.
+
+Changing Gibbs-Donnan equilibriums also change the tonicity on each side of the cell membrane, causing movement of water which then upsets the Gibbs-Donnan effect - therefore there is no stable state.
 
 The Gibbs-Donnan Effect is important for:
 * Maintenance of cell volume  
-Na<sup>+</sup> acts as an effective osmole, reducing cellular swelling
+Na<sup>+</sup> acts as an effective osmole, reducing cellular swelling.
 * Plasma oncotic pressure  
-Increased plasma ion concentration increases oncotic pressure
+Increased plasma ion concentration increases oncotic pressure.
 * Resting Membrane Potential  
 
 ---
