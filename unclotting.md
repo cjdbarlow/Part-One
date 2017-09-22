@@ -13,7 +13,7 @@ Intact endothelium and the glycocalyx prevent clotting in a number of ways:
 
 
 * **Inhibition of platelet adhesion and activation**  
-NO, prostacyclin, and adenosine diphosphate (which degrades ADP) inhibit platelet activation.
+NO, prostacyclin, and ectonucleotides (which degrade ADP) inhibit platelet activation.
 
 
 * **Membrane-bound anticoagulant proteins**  
@@ -59,4 +59,4 @@ FDPs conveniently inhibit further thrombin and fibrin formation.
 ---
 ##References
 Clot or Bleed
-Chambers
+2. Van Hinsbergh VWM. [Endothelium—role in regulation of coagulation and inflammation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3233666/). Seminars in Immunopathology. 2012;34(1):93-106.
