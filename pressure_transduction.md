@@ -21,7 +21,7 @@ Accurate representation of changes in the system.
 
 ##Static Calibration
 Static calibration involves:
-* Leveling the transducer (typically to the level of the RA or EAM)  
+* Leveling the transducer (typically to the level of the phlebostatic axis at the right atrium, or the external auditory meatus)  
 A change in tranducer level will change the blood pressure due to the change in hydrostatic pressure (in cmH<sub>2</sub>O).
 * **Zeroing** the transducer
   * Opening the tranducer to air
