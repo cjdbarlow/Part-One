@@ -66,13 +66,12 @@ Serum potassium is dependent on intake, sequestration, and elimination.
 Dietary intake may be highly variable. Potassium is completely absorbed from the upper GI tract.
 
 ###Sequestration
-**Insulin** and **β<sub>2</sub>-agonism** results in increase activity of the Na<sup>+</sup>-K<sup>+</sup> ATPase pump, shifting potassium into cells following a meal and during exercise.
-
-**Acidosis** causes an **extracellular** shift of potassium, as hydrogen ions are exchanged for potassium ions. The reverse occurs in alkalosis.
-
-Conversely, **cell lysis** may release a large amount of potassium into circulation and cause significant hyperkalaemia if a large number of cells are destroyed.
-
-**Aldosterone** increases uptake of potassium into cells.
+Several factors affect potassium sequestration:
+* **Insulin** and **β<sub>2</sub>-agonism** results in increase activity of the Na<sup>+</sup>-K<sup>+</sup> ATPase pump, shifting potassium into cells following a meal and during exercise
+* **Acidosis** causes an **extracellular** shift of potassium, as hydrogen ions are exchanged for potassium ions  
+The reverse occurs in alkalosis.
+* **Cell lysis** may release a large amount of potassium into circulation and cause significant hyperkalaemia if a large number of cells are destroyed
+* **Aldosterone** increases uptake of potassium into cells
 
 ###Elimination
 Elimination of potassium occurs via the kidneys, and is dependent on production of large volumes of glomerular filtrate and secretion by the **distal convoluted tubule** and **collecting duct**.
@@ -93,7 +92,7 @@ Tubular potassium secretion is mainly a function of:
 * **Plasma [K<sup>+</sup>]**  
 Increased plasma [K<sup>+</sup>] stimulates the Na<sup>+</sup>-K<sup>+</sup> ATPase pump in the principal cells, and also stimulates aldosterone release from the adrenal cortex. 
 * **Tubular flow rate**  
-Movement of potassium out of principal cells occurs down a passive concentration gradient. Increasing tubular flow rate increases the concentration gradient for potassium.
+Movement of potassium out of principal cells occurs down a passive concentration gradient. Increasing tubular flow rate increases the concentration gradient for potassium
 * **Aldosterone**  
 Aldosterone increases production of the Na<sup>+</sup>-K<sup>+</sup> ATPase pump, which increases potassium secretion and uptake into cells.
 
@@ -106,7 +105,7 @@ Alkalosis increases elimination of potassium as the Na<sup>+</sup>-K<sup>+</sup>
 
 ---
 ##References
-Power and Kam
-Guyton and Hall
-[LITFL](http://lifeinthefastlane.com/hyperkalemia/)
+1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+2. Hall, JE, and Guyton AC. Guyton and Hall Textbook of Medical Physiology. 11th Edition. Philadelphia, PA: Saunders Elsevier. 2011. 
+3. Nickson,C. [Hyperkalaemia](http://lifeinthefastlane.com/hyperkalemia/). Life in the Fast Lane.
 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1413606/
