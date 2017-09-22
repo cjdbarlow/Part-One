@@ -43,5 +43,5 @@ As the megakaryocyte cell volume increases, the cell wall invaginates and small 
     * GP IIb/IIIa are also receptors for fibinogen, which encourages platelet aggregation
 
 ##References
-Power and Kam
-Clot or Bleed
+1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+2. Krafts K. Clot or Bleed: A Painless Guide for People Who Hate Coag. Pathology Student.
