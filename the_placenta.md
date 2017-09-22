@@ -49,14 +49,12 @@ The Bohr effect states that an **increase** in **PaCO<sub>2</sub>** **right-shif
 <object data="resources\Oxyhb-curve-double-bohr.svg.svg" type="image/svg+xml"></object>
 
 
-
-
 ####CO<sub>2</sub> Diffusion
 CO<sub>2</sub> is extremely lipid soluble, and so passes easily across membranes. Foetal PaCO<sub>2</sub> is ~50mmHg, and intervillous PCO<sub>2</sub> is ~37mmHg. CO<sub>2</sub> offloading is favoured in the foetus by:
 * A high Foetal [Hb] increases the amount of CO<sub>2</sub> that can be carried as carbaminohaemoglobin
 * The **Double Haldane** effect:  
 The Haldane effect states that deoxygenated Hb binds CO<sub>2</sub> with more affinity than oxygenated Hb. The double Haldane effect describes this happening in opposite directions in the maternal and foetal circulations, favouring CO<sub>2</sub> transfer to the mother:
-    * As maternal blood releases O<sub>2</sub>, this favours maternal loading of CO<sub>2</sub> without an increase in maternal PCO<sub>2</sub> (Haldane effect).
+    * As maternal blood releases O<sub>2</sub>, this favours maternal loading of CO<sub>2</sub> without an increase in maternal PCO<sub>2</sub> (Haldane effect)
     * The release of CO<sub>2</sub> from the foetal Hb favours O<sub>2</sub> loading, which in turn favours further maternal O<sub>2</sub> release.
 
 ####Nutrient Diffusion
@@ -76,21 +74,24 @@ Synthesises:
 - Progesterone
 
 ##Development
-The placenta develops simulanteously from foetus and mother. From the uterine wall, the mother produces **blood sinuses** around the trophoblastic cords, which in turn send out **placental villi**. The end result is a sinus of maternal blood invaginated by multiple foetal villi.
+The placenta develops simulanteously from foetus and mother:
+* From the uterine wall, the mother produces **blood sinuses** around the trophoblastic cords
+  * These  in turn send out **placental villi**
+* This creates a sinus of maternal blood invaginated by multiple foetal villi
 
-The foetal villi are supplied by **two umbilical arteries** and a **single umbilical vein**, whilst maternal sinuses are filled from the **uterine arteries**.
-
-The maternal sinuses are supplied by **spiral arteries**.
+* Foetal villi are supplied by **two umbilical arteries** and a **single umbilical vein**
+* Maternal sinuses are filled from the **uterine arteries**
+* The maternal sinuses are supplied by **spiral arteries**
 
 ##Properties of the Developing Placenta
 * Thick(er) membrane impairs permeability  
-  Placental membrane cpermeability is small in early-to-mid pregnancy, reaching maximum at ~34 weeks GUYTON FIGURE 82.4 on PAGE 1029
+  Placental membrane permeability is small in early-to-mid pregnancy, reaching maximum at ~34 weeks
 * Smaller surface area
 
 ##Properties of the Mature Placenta
-* Think membrane - improved permeability
-* Surface area of 
-* Weight of
+* Thick membrane - improved permeability
+* Surface area of 14m<sup>2</sup>
+* Weight of ~500g
 * Blood flow of 600mL.min<sup>-1</sup> at term  
   It is reduced during contractions due to increased uterine pressure and also with α-adrenergic stimulation
 
