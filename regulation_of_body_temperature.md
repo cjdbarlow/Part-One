@@ -8,8 +8,8 @@
 * Regulation of body temperature is done by **balancing heat loss and heat production**, predominantly through behavioural mechanisms and skin
 * The body is able to maintain a relatively constant core temperature under a wide range of environmental conditions
   * The **thermoneutral zone** is the range across which the basal rate heat production (and oxygen consumption) is balanced by the rate of heat loss
-    * For an adult this is **typically 27-31°C**
-    * In neonates this is higher, **typically 32-34°C**.
+    * For an adult it is **typically 27-31°C**
+    * In neonates it is higher, **typically 32-34°C**.
 
 ##Principles
 Net flux of heat is determined by the balance of metabolic heat production and the contribution of four mechanisms of heat loss:
@@ -19,35 +19,57 @@ Net flux of heat is determined by the balance of metabolic heat production and t
 * **Evaporation**
 
 ###Radiative
-Radiative heat exchange is the loss of heat through EMR (black body radiation) by all objects above 0°K - it does not require a transfer medium. It makes up ~45% of heat loss under thermoneutral conditions.
-
-The temperature differential between an individual and their environment is also important in radiant heat flux - a cold environment (e.g. operating theatre) is an important source of radiant heat loss (as the heat loss from the patient is greater than the heat gain from the surrounding environment).
+Radiative heat exchange:
+* Describes the loss of heat through EMR by all objects above 0°K  
+  * Radiative heat loss is proportional to temperature
+  * Radiative heat loss does not require a transfer medium
+* Makes up ~45% of heat loss under thermoneutral conditions.
+* Depends on the temperature differential between an individual and their environmen
+  * A cold environment (e.g. operating theatre) causes a large radiant heat loss  
+  The heat loss from the patient is greater than the heat gain from the surrounding environment.
 
 ###Conduction
-**Conduction** is the **transfer of heat (as kinetic energy) by direct contact**, and occurs from the higher temperature object to the lower temperature one. Bodies must be in contact to conduct heat, so solids conduct heat better than gases, and there is no conduction in a vacuum.
-
-Therefore, heat loss via conduction is minimal in air but is a major cause of heat loss in immersion. As fat is a poorer conductor of heat than muscle, increased body fat will slow heat loss by conduction.
+**Conduction** is the **transfer of heat (as kinetic energy) by direct contact** from a higher temperature object to the lower temperature one. Conduction:
+* Requires physical contact between bodies to conduct heat
+  * Solids conduct heat better than gases
+  * There is no conduction in a vacuum
+* Heat loss via conduction is minimal in air but is a major cause of heat loss in immersion  
+* As fat is a poorer conductor of heat than muscle, increased body fat will slow heat loss by conduction
 
 ###Convection
-**Convection** is loss of heat by conduction by a moving object. It is the predominant mechanism of heat loss in the naked human, with greater effects at higher wind speeds.
+**Convection** is loss of heat by conduction by a moving object. Convection is:
+* The predominant mechanism of heat loss in the naked human  
+Effects are greater effects at higher wind speeds.
 
 ###Evaporation
-**Evaporation** is the loss of energy when water changes state. Evaporation of 100ml of water will reduce body temperature by ~1°C.
+**Evaporative losses** describe the loss of heat energy due to the latent heat of vaporisation of water. Evaporation of 100ml of water will reduce body temperature by ~1°C.
 
 ##Temperature Sensation and Regulation
 Temperature sensors are **central** and **peripheral**, whilst **regulation** occurs centrally. 
 
 ###Central sensation
-Central temperature sensors exist in abdomial viscera, spinal cord, hypothalamus, and brainstem. The area with greatest effect is the **anterior hypothalamus**, cells of which respond to both increased and decreased temperatures by **altering their rate of depolarisation**, eliciting an array of neuronal and hormonal responses.
+Central temperature sensors exist in the:
+* Abdomial viscera
+* Spinal cord
+* Hypothalamus  
+**Anterior hypothalamus** is the most important central theroreceptor, and responds to  both increased and decreased temperatures by **altering their rate of depolarisation**, eliciting an array of neuronal and hormonal responses.
+* Brainstem  
 
-The **interthreshold range** - the range of core temperatures not triggering a response - is only 0.2 to 0.4°C.
+The **interthreshold range** is the range of core temperatures not triggering a response.
+* Normal is 0.2 to 0.4°C.
+* Widens under anaesthesia to ~4°C
+
 
 ###Peripheral sensation
-Peripheral temperature sensors are **free nerve endings** (C-fibres) and may be **either cold or warm**. Both are extremely sensitive, and alter their rates of firing by orders of magnitude in response to temperature change.
-
-**Cold receptors** lie beneath the epidermis, and are excited by cooling (inhibited by warming), active from 10-40°C, with a static maxima at 25°C.
-
-**Warm receptors** lie deep to the dermis, are excited by warming (and inhibited by cooling), active from 30-50°C, with a static maxima at 44°C.
+Peripheral temperature sensors are:
+* **Free nerve endings**
+* Extremely sensitive  
+Alter their rates of firing by orders of magnitude in response to temperature change.
+* Divided into:
+  * **Cold receptors**  
+  Lie beneath the epidermis, and are excited by cooling (inhibited by warming), active from 10-40°C, with a static maxima at 25°C.
+  * **Warm receptors**  
+  Lie deep to the dermis, are excited by warming (and inhibited by cooling), active from 30-50°C, with a static maxima at 44°C.
 
 
 ###Regulation
@@ -65,12 +87,13 @@ Temperature sensation runs from cutaneous receptors via the dorsal column and me
 * When environmental temperature exceeds body temperature, conduction and convection result in heat gain - **evaporative cooling via sweating** is the only way to reduce body temperature
 * Efficacy of sweating is related to **relative humidity**
 
-* Piloerection (hair standing on end) traps a layer of warm air close to the body to act as an insulator. This is of more importance in other primates than in man, as they have enough body hair to make it functional. 
+* Piloerection (hair standing on end) traps a layer of warm air close to the body to act as an insulator  
+This is of more importance in other primates than in man, as they have enough body hair to make it effective. 
 
 
 * Increasing basal metabolic rate and 'waste' heat production is essential to maintain temperature in cold environments. This can be through:
   * Shivering  
-    The simultaneous contraction of agonistic and antagonistic muscles
+    The simultaneous contraction of agonistic and antagonistic muscles.
   * Non-shivering thermogenesis:
     * Hormonal  
     Levels of thyroid hormone and adrenaline increase, raising metabolic rate in all cells
@@ -104,6 +127,10 @@ Once core body temperature falls far enough, thermoregulatory responses are acti
 Neuraxial anaesthesia:
 * Hypothermia is less extreme as thermoregulation is only affected in areas covered by the blockade
 * Plateau does not occur as vasoconstrictive responses are inhibited by the blockade 
+
+<object data="resources\heat-loss.svg" type="image/svg+xml"></object>
+
+---
 
 ##References
 1. Auerbach. Wilderness Medicine. Sixth Edition. Chapter 4: Thermoregulation.
