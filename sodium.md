@@ -64,7 +64,7 @@ The remaining 10% of sodium reabsorption occurs in the DCT and CT. As it is unde
 
 ---
 ##References
-Brandis
-CICM September/November 2014
-Chambers
-Recommended Dietary Allowances, 10th Ed
+1. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.
+2. CICM September/November 2014
+3. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+4. National Research Council. [Recommended Dietary Allowances](https://www.nap.edu/catalog/1349/recommended-dietary-allowances-10th-edition). 10th Ed. 1989. National Academies Press.
