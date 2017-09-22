@@ -77,6 +77,7 @@ Calculation of Cardiac Output:
     * Measuring the stroke distance  
     Obtained via integrating the flow-time waveform for distance across the left ventricular outflow tract (LVOT VTI)
 
+---
 ##References
 1. Cross ME, Plunkett EVE. Physics, Pharmacology, and Physiology for Anaesthetists: Key Concepts for the FRCA. 2nd Ed. Cambridge University Press. 2014.
 2. CICM July/September 2007.

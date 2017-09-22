@@ -139,7 +139,7 @@ As discussed above, HPV allows redirection of blood flow from poorly ventilated 
 This diverts blood from the pulmonary circulation into the left side of the heart via the foramen ovale. When the first breath is taken, pulmonary vessels dilate and the right-to-left shunt is reversed.
 
 
-
+---
 ##References
 1. Dunn, PF. Physiology of the Lateral Decubitus Position and One-Lung Ventilation.  Thoracic Anaesthesia. Volume 38(1), Winter 2000, pp 25-53.
 2. West J. Respiratory Physiology: The Essentials. 9th Edition. Lippincott Williams and Wilkins. 2011.

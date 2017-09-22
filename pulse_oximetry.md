@@ -8,7 +8,6 @@ Light of **660nm** and **940nm** is used.
   * Oxyhaemoglobin has a greater absorbance of red (940nm) light than deoxyhaemoglobin
   * The relative absorbance of each allows determination of the proportions of oxygenated and deoxygenated haemoglobin
 
-WAVELENGTH/EXTINCTION COEFFICIENT/ISOBESTIC POINT graph:
 
 * The **Beer-Lambert Law(s)**:  
 Absorption of light passing through a substance is directly proportional to both the distance it travels through the substance and the concentration of attenuating species within the substance. It is a composite of:
@@ -20,7 +19,6 @@ Absorption of light passing through a substance is directly proportional to both
  
 * **Blood is pulsatile**  
 
-GRAPH PAGE 111 CROSS & PLUNKETT
 
 
 ###Method
@@ -49,7 +47,7 @@ $$ R =$$ $${Pulsatile_{660} / Non-Pulsatile_{660}} \over Pulsatile_{940} / Non-P
         
 ##Limitations
 * Requires detectable pulsatile flow
-    * Limited by poor peripheral perfusion (shock, hypotension, hypothermia) and non-pulsatile flow (ECMO)
+    * Limited by poor peripheral perfusion (shock, hypotension, hypothermia) and non-pulsatile flow (ECMO, CPB)
     * Body movements confound readings (shivering, seizing)
 
 
@@ -76,8 +74,8 @@ The diodes are cycled at several hundred times per second which allows the detec
 
 ---
 ##References
-Basic Physics and Measurement in Anaes
-http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2148612/pdf/anesthprog00255-0016.pdf
-CICM March/May 2014
-Pulse oximetry Tremper and Barker
-Williams GW, Williams ES. Basic Anaesthesiology Examination Review. Oxford University Press. 2016.
+1. Davis PD, Kenny D. Basic Physics and Measurement in Anaesthesia. 5th Ed. Elsevier. 2003.
+2. Mardirossian G, Schneider RE. [Limitations of Pulse Oximetry](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2148612/pdf/anesthprog00255-0016.pdf). Anesth Prog 39:194-196 1992.
+3. CICM March/May 2014
+4. Tremper KK, Barker SJ. [Pulse oximetry](https://www.ncbi.nlm.nih.gov/pubmed/2643368). Anesthesiology. 1989 Jan;70(1):98-108.
+5. Williams GW, Williams ES. Basic Anaesthesiology Examination Review. Oxford University Press. 2016.
