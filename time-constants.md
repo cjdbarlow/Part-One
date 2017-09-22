@@ -2,18 +2,26 @@
 > Explain the concepts of time constants
 
 ##A Refresher on Time Constants
-The time-constant is the time that a process would be complete if its initial rate of change remained constant. It is relevant when modeling a process using exponential functions. Remember an **exponential function** is a curve where **the rate of change is proportional to the current value**. For a quantity that decreases overtime, the general case is:
+The time-constant is:
+* The time that a process would be complete if its initial rate of change remained unchanged
+* Relevant when modeling a process using exponential functions
+    * Remember an **exponential function** is a curve where **the rate of change is proportional to the current value**
+    
+For a quantity that decreases overtime, the general case is:
 
 $$ y = y_0e^{-kt} $$, where:
 * $$y_0$$ is the value of $$y$$ at $$t=0$$
 * $$-k$$ is the rate constant ($$k$$ plots a curve that **grows**)
 * $$t$$ is time
 
-Importantly, $$k$$ is the **reciprocal of the time constant**, $$\tau$$. The **time-constant** equals the time it would take for $$y$$ to reach 0[^1] if the original rate of change was maintained. This may sound confusing but it is mathematically intuitive property - the tangent to the curve at this point is by definition a straight line. Other fun facts about the time constant (for an exponential decay) include:
-* After 1 $$\tau$$, $$y \ $$will be 37% ($$1\over e$$) of its initial value
-* After 2 $$\tau$$, $$y \$$will be 13.5% ($$1\over e^2$$) of its initial value
-* After 3 $$\tau$$, $$y \$$will be 95% ($$1\over e^3$$) of its initial value
-* After 5 $$\tau$$, $$y \$$will be 1% ($$1 \over e^5$$) of its initial value
+Importantly:
+* $$k$$ is the **reciprocal of the time constant**, $$\tau$$
+* In a negative exponential, **time-constant** is the time it would take for $$y$$ to reach 0 if the original rate of change was maintained.
+* Other fun facts about the time constant (for an exponential decay) include:
+    * After 1 $$\tau$$, $$y \ $$will be 37% ($$1\over e$$) of its initial value
+    * After 2 $$\tau$$, $$y \$$will be 13.5% ($$1\over e^2$$) of its initial value
+    * After 3 $$\tau$$, $$y \$$will be 5% ($$1\over e^3$$) of its initial value
+    * After 5 $$\tau$$, $$y \$$will be 1% ($$1 \over e^5$$) of its initial value
 
 ##Physiological Signifiance
 The time-constant is used in respiratory physiology in:
