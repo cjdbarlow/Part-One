@@ -35,7 +35,8 @@ $$ k = Ae^{-E_A \over RT} $$, where:
 ###Properties of Drugs
 Key properties of drugs include:
 * **Potency**  
-The **amount** of drug required to have an effect (typically the EC<sub>50</sub>).
+The **amount** of drug required to have an effect.
+    * Given by the (typically the E<sub>D</sub>50)
     * This relates to **Bowman's principle**, which states that the **least potent** anaesthetic agents have the **quickest onset**  
     This is because they are administered in **higher doses** (as they are less potent, more is required to get an effect), which results in a **high concentration gradient** and a **rapid distribution** into tissues.
 
