@@ -2,7 +2,7 @@
 
 Propofol (2-6 di-isopropylphenol) is a phenolic derivative with effects on many receptors including:
 * GABA<sub>A</sub>  
-Potentiates the effect of GABA, prolonging Cl<sup-</sup> channel opening and hyperpolarising the cell.
+Potentiates the effect of GABA, prolonging Cl<sup>-</sup> channel opening and hyperpolarising the cell.
 * Glycine
 * Nicotinic ACh
 * D<sub>2</sub> receptors
@@ -31,7 +31,7 @@ Potentiates the effect of GABA, prolonging Cl<sup-</sup> channel opening and hyp
 
 ---
 ##References
-Peck and Hill
-CICM July/Sept 2007
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+2. CICM July/September 2007
 http://ceaccp.oxfordjournals.org/content/4/3/76.full.pdf
 http://www2.pedsanesthesia.org/meetings/2007winter/pdfs/Morgan-Friday1130-1150am.pdf
