@@ -25,18 +25,40 @@ Importantly:
 
 ##Physiological Signifiance
 The time-constant is used in respiratory physiology in:
-* Time of inspiration and expiration
+* Timing inspiration and expiration
 * Elimination of inhalational anaesthetics
 * The change in PaO<sub>2</sub> and PaCO<sub>2</sub> after changes in ventilation
 
-Mostly, we care about ventilation. In this setting, the **time-constant is affected by lung compliance, resistance, and inflation pressure**. Different regions of the lung will have different compliance and resistances, which will affect how quickly each inflate. At a **constant inflation pressure**, the **time constant is equal to the product of resistance and compliance**, i.e. $$ \tau = C \times R $$.
+In ventilation:
+* The time constant is affected by:
+    * Compliance
+    * Resistance
+    * Inflation pressure  
+    At a **constant inflation pressure**, the **time constant is equal to the product of resistance and compliance**, i.e. $$ \tau = C \times R $$.
+* For two lung units of **equal compliance and resistance**
+    * Inflation will occur as per the exponential growth function
+    * Time-constants of each lung unit will be equal
+    * No redistribution of gas will occur at end-inspiration as the pressure and volume of each unit is the same
+* For two lung units, where **one has half the compliance but twice the resistance**
+    * The time constants are equal, therefore both reach peak filling at the same time
+        * However, the poorly compliant unit will only reach half the volume
+    * No redistribution of gas will occur at end-inspiration as the pressure and volume of each unit is the same
+* For two lung units, where one has **twice the resistance** of the other
+    * The time-constants are unequal
+    * The resistant unit will fill at half the rate of the other  
+        * If inspiration is prolonged both will reach the same volume
+        * If inspiration his halted early, and expiration prevented, there will be a pressure gradient between the units (as compliance is the same), and gas will redistribute from the low-resistant unit to the high-resistant unit
+* For two lung units where one has **half the compliance**
+    * The time constants are unequal
+    * The poorly compliant unit will fill at half the rate of the other
+        * If inspiration is prolonged they will both reach the same pressure  
+        The volume in the poorly compliant unit will be half that of the more compliant unit.
+    * During inspiration, the pressure rises more rapidly in the poorly compliant unit, and if inspiration is stopped and expiration prevented, this will result in redistribution into the more compliant unit until pressures are equal
 
-* For two lung units of **equal compliance and resistance**, inflation will occur as per the exponential growth function. The **time-constants will be equal**, and as the pressure and volume of each unit is the same **no redistribution** will occur at end-inspiration.
-* For two lung units, where **one has half the compliance but twice the resistance**, the time constants are equal and so they will both reach peak filling at the same time. However, the poorly compliant unit will only reach half the volume. As the pressures are the same at end-inspiration, no redistribution will occur.
-* For two lung units, where one has **twice the resistance** of the other, the time-constants are unequal. The resistant unit will fill at half the rate of the other, though if prolonged both will reach the same volume. If inspiration his halted early, and expiration is prevented, there will be a pressure gradient between the units (as compliance is the same), and gas will redistribute from the low-resistant unit to the high-resistant unit.
-* For two lung units where one has **half the compliance**, the time constants are unequal. The poorly compliant unit will fill at half the rate of the other, though if inspiration is prolonged they will both reach the same pressure (the volume in the poorly compliant unit will be half that of the other). During inspiration, the pressure rises more rapidly in the poorly compliant unit, and if inspiration is stopped and expiration prevented, this will result in redistribution into the more compliant unit until pressures are equal.
-
-In general, **rate of filling is determined by time constants** whilst the **final volume** (assuming an indefinite inspiration) **is a function of compliance**. At a sustained inflation pressure, a low-resistance unit shows initial greater volume change but rapidly approaches equilibrium volume, whilst a high-compliance unit takes a greater overall volume over a longer period. At end-inspiration, pressure-build up in units with a shorter time-constant occurs more rapidly and if a breath is held will result in redistribution to those units with a longer time-constant.
+In general:
+* **Rate of filling is determined by time constants**
+* **Final volume** (assuming an indefinite inspiration) **is a function of compliance**
+ At a sustained inflation pressure, a low-resistance unit shows initial greater volume change but rapidly approaches equilibrium volume, whilst a high-compliance unit takes a greater overall volume over a longer period. At end-inspiration, pressure-build up in units with a shorter time-constant occurs more rapidly and if a breath is held will result in redistribution to those units with a longer time-constant.
 
 More simply, **high-resistance** lung units have **longer time constants** and take longer to fill. Similarly, units with **poor compliance empty and fill rapidly**. This creates the concept of **fast** and **slow alveoli**, depending on their time constants. 
 
