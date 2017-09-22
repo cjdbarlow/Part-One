@@ -17,4 +17,4 @@ All tocolytics are discussed in more detail elsewhere - this covers just the mec
 
 ---
 ##References
-https://icuprimaryprep.files.wordpress.com/2015/01/q24-describe-the-mechanism-of-action-and-side-effects-of-three-3-classes-of-drugs-that-are-used-to-increase-uterine-tone-and-three-3-classes-of-drugs-used-to-decrease-uterine-tone.pdf
+1. Diaz, A. [4	Describe the mechanism of action and side effects of three classes of drugs that are used to increase uterine tone, and three classes of drugs used to decrease uterine tone](https://icuprimaryprep.files.wordpress.com/2015/01/q24-describe-the-mechanism-of-action-and-side-effects-of-three-3-classes-of-drugs-that-are-used-to-increase-uterine-tone-and-three-3-classes-of-drugs-used-to-decrease-uterine-tone.pdf).
