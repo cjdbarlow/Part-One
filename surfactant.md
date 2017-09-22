@@ -11,7 +11,7 @@
 
 
 * This relationship is described by **La Place's Law**  
-$$ P = {2T \over r}$$[^1], where:
+$$ P = {2T \over r}$$, where:
   * $$P$$ is pressure
   * $$T$$ is surface tension
   * $$r$$ is radius
@@ -30,7 +30,7 @@ $$ P = {2T \over r}$$[^1], where:
  * Overall, high surface tension is detrimental to the lungs
 
 ##Surfactant
-* Surfactant is substance which substantially reduces work of breathing by reducing alveolar surface tension
+* Surfactant is a substance which substantially reduces work of breathing by reducing alveolar surface tension
 * Surfactant is produced by type II alveolar cells in response to lung inflation and respiration
 * It is composed of:
   *  85% phopholipid
@@ -41,10 +41,10 @@ Each component has a hydrophobic and hydrophlic end.
   * This causes the molecules to orient themselves along the air-liquid interface, disrupting the attractive bonds between water molecules
   * Surface tension is reduced in proportion to the concentration of molecules
 * The concentration of surfactant changes throughout the respiratory cycle
-  * During expiration alveoli collapse
-  * The decrease in vessel radius is offset by the increase in surfactant concentration, so the fall in radius is mitigated by the drop in surface tension
+  * During expiration alveoli collapse  
+  The decrease in alveolar radius is offset by the increase in surfactant concentration, so the fall in radius is mitigated by the drop in surface tension.
 
 ---
 ##References
-CICM Sep/Nov 2012
-Nunns
+1. CICM September/November 2012
+2. Lumb A. Nunn's Applied Respiratory Physiology. 7th Edition. Elsevier. 2010.

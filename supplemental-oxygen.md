@@ -26,7 +26,7 @@ Variable performance devices:
         * Cheap
         * Less well tolerated
         * Rebreathing may occur
-    * Non-rebreather Mask  
+    * Non-Rebreather Mask  
     Modified version of the Hudson mask, containing a reservoir bag.
         * Reservoir bag is filled during expiration
         * Gas is drawn from the reservoir bag during inspiration, increasing FiO<sub>2</sub>  
