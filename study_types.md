@@ -30,14 +30,19 @@ Randomisation controls for both known and *unknown* confounding factors, as thes
 
 
 ##Systematic Review
-Process of evaluating all of the (quality) literature to answer a specific clinical question. Does not necessarily involve statistical analysis. If it involves statistical analysis of multiple trials to generate a combined estimate of effect, it is known as a **meta-analysis**.
+The process of evaluating all of the (quality) literature to answer a specific clinical question. This:
+  * Does not necessarily involve statistical analysis  
+  If it involves statistical analysis of multiple trials to generate a combined estimate of effect, it is known as a **meta-analysis**.
 
 ##Meta-analysis
-Mathematical technique of combining the results of different trials to derive a single pooled estimate of effect. Can be done either by pooling the results of each trial, or (if the data is accessible), combining all of the raw data and conducting a reanalysis.
+Mathematical technique of combining the results of different trials to derive a single pooled estimate of effect. Can be performed by:
+* Pooling the results of each trial  
+* Combining all of the raw data and conducting a reanalysis
 
-Meta-analyses usually use **random-effects models**, which assumes there will be a variety of similar treatment effects.
 
-Individual trials are **summarised with an odds ratio**, and **weighted**, usually predominantly by sample size.
+* Meta-analyses usually use **random-effects models**, which assumes there will be a variety of similar treatment effects
+* Individual trials are **summarised with an odds ratio**, and **weighted**, usually predominantly by sample size
+
 
 ###Stages of a [meta-analysis] and systematic review:
 1. Inclusion and exclusion criteria are predefined
