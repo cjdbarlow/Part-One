@@ -8,7 +8,7 @@ Air that is fully saturated with gas is mixed with a 'bypass' stream of gas, dil
 	* Plenum  
 	Requires supra-atmospheric pressure to operate.
     	* More accurate
-	* Draw-over 
+	* Draw-over  
 	Driven by the patients inspiratory effort.
 	    * Portable
 
