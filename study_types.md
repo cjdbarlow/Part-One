@@ -62,11 +62,9 @@ For the pooling of results to be valid, the trials need to be similar. Differenc
 * **Methodological**; Where the methods used in different trials are too different to allow pooling of the data.
 
 ###Forest Plots
-Results of meta-analyses are presented in a blobbogram[^5], or more boringly, a **Forest Plot**.
+Results of meta-analyses are presented in a blobbogram, or more boringly, a **Forest Plot**.
 
 <object data="resources\forest.svg" type="image/svg+xml"></object>
-
-
 
 
 
