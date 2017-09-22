@@ -19,12 +19,18 @@ $$ Reynolds' \ Number = {2r.d.v \over \eta} $$, where:
 * $$v$$ = Velocity
 * $$\eta$$ = Gas viscosity
 
-A Reynolds' Number of <2000 is predominantly laminar flow, whilst >4000 is predominantly turbulent.
+A Reynolds' Number of < 2000 is predominantly laminar flow, whilst >4000 is predominantly turbulent.
 
 ###Laminar Flow
-In laminar flow, gas moves in a series of concentric cylinders which slide over one another, with gas moving **twice as fast** in the centre of the cylinder as the outside, where it is almost stationary. As a result, it appears in cross-section as an **advancing cone**, and may reach the end of the tube when the volume of flow is less than the volume of the tube. This is the mechanism of alveolar ventilation when tidal volumes are less than anatomical dead space volume.
+In laminar flow:
+* Gas moves in a series of concentric cylinders which slide over one another  
+  * Gas in the centre moves **twice as fast** compared to the outside, where it is almost stationary
+* Gas appears in cross-section as an **advancing cone**  
+Gas may reach the end of the tube when the volume of flow is less than the volume of the tube.
+  * This is the mechanism of alveolar ventilation when tidal volumes are less than anatomical dead space volume
 
-In a straight unbranched tube, flow can be quantified by the Hagen-Poiseuille Equation:  
+
+In a straight unbranched tube, flow can be quantified by the **Hagen-Poiseuille Equation**:  
 $$ F = {\Delta P \pi r^4 \over 8l.v}$$, where:
 * $$F$$ = Flow
 * $$\Delta P$$ = Driving pressure

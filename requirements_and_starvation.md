@@ -7,7 +7,7 @@ Fasting is the metabolic state achieved after complete digestion and absorption 
 Fasting can be divided into:
 * **Early fasting**  
 Less than 24 hours.
-    * Plasma glucose falls due to consumption
+    * Plasma glucose falls due to consumption  
     Leads to hormonal changes:
         * Insulin release decreases, causing:
             * Liver  
@@ -31,9 +31,9 @@ Less than 24 hours.
         * Glucagon release increases
     * Cellular metabolism alters:
         * Decreased glucose uptake by non-obligate glucose utilisers  
-        e.g. muscle.
+        e.g. Muscle.
         * Increased FFA and ketone body use  
-        β-oxidation of FFAs provides ATP requirements, causing ketone body formation.
+        β-oxidation of FFAs to meet ATP requirements, leading to formation of ketone body.
 
 
 * **Sustained fasting**  
@@ -59,7 +59,7 @@ Starvation is the failure to absorb sufficient calories to sustain normal body f
         * The brain still requires 100g of glucose per day
     * BMR falls
     * All but life-saving movement ceases
-    * Death typically occurs after 30-60 days, when muscle catabolisation weaknens the respiratory muscles such that secretions can no longer be cleared, and pneumonia occurs.
+    * Death typically occurs after 30-60 days, when muscle catabolisation weaknens the respiratory muscles such that secretions can no longer be cleared, and pneumonia occurs
 
 ###Refeeding Syndrome
 Refeeding syndrome is a deranged metabolic state that occurs with feeding after a period of prolonged fasting, typically >5 days.
@@ -77,5 +77,5 @@ Management is by slow institution of feeding and aggressive electrolyte manageme
 
 ---
 ##References
-Chambers
-ANZCA August/September 2001
+1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+2. ANZCA August/September 2001
