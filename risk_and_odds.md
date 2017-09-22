@@ -53,7 +53,9 @@ $$ OR = {Odds \ of \ death \ in \ exposed \over Odds \ of \ death \ in \ unexpos
 
 The relative risk is 9, but the OR is 81!
 
-So why use odds ratios at all? Odds ratios are required when research subjects are selected on the basis of outcome rather than the basis of exposure. Many statistical tests also require the use odds ratios because the log odds ratio is normally distributed.
+So why use odds ratios at all? Odds ratios are:
+* Required when research subjects are selected on the basis of outcome rather than the basis of exposure
+* Used by many statistical tests because the log odds ratio is normally distributed, which is a mathematically useful property
 
 Relative Risk has a weakness as well - it is dependent on how the question is framed. Using the first trial above, we calculated that RR for death was 2 and the OR was 3. Rather than calculating mortality, an alternative method could be to look at survival:
 * In group A, the survival was 50%
@@ -68,7 +70,7 @@ Note that the relative risk is not 0.5 (as you may initially assume), however th
 ---
 
 ##References
- [^1]: PS Myles, T Gin. Statistical methods for anaesthesia and intensive care. 1st ed. Oxford: Butterworth-Heinemann, 2001.  
-[^2]: Course notes from "Introduction to Biostats", University of Sydney, School of Public Health, circa 2013.  
-[^3]: Steve Simon PhD. Odds ratio vs. relative risk. "Steve's Attempt to Teach Statistics (StATS)", Children's Mercy Hospital,  2006. Once available at: http://www.childrens-mercy.org/stats/journal/oddsratio.asp . Email me if you want the pdf.  
-[^4]: Bland JM, Altman D. Bland J Martin, Altman Douglas G. The odds ratio BMJ 2000; 320 :1468. Available at: http://www.bmj.com/content/320/7247/1468.1
+1. Myles PS, Gin T. Statistical methods for anaesthesia and intensive care. 1st ed. Oxford: Butterworth-Heinemann, 2001.
+2. Course notes from "Introduction to Biostats", University of Sydney, School of Public Health, circa 2013.  
+3. Simon S. Odds ratio vs. relative risk. ["Steve's Attempt to Teach Statistics (StATS)"](http://www.childrens-mercy.org/stats/journal/oddsratio.asp). Children's Mercy Hospital,  2006. 
+4. Bland JM, Altman D. Bland J Martin, Altman Douglas G. [The odds ratio](http://www.bmj.com/content/320/7247/1468.1). BMJ 2000; 320 :1468.
