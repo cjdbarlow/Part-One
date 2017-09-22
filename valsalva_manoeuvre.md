@@ -57,5 +57,5 @@ Baroreceptor response to the Valsalva is minimal in both phase II and IV.
 
 ---
 ##References
-Power and Kam
-http://circ.ahajournals.org/content/11/6/889.full.pdf+html
+1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+2. Judson WE, Hatcher JD, Wilkins RW. [Blood Pressure Responses to the Valsalva Maneuver in Cardiac Patients with and without Congestive Failure](http://circ.ahajournals.org/content/11/6/889). Circulation. 1955;11:889-899.

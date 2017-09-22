@@ -51,12 +51,12 @@ NO, prostacyclin, and ectonucleotides (which degrade ADP) inhibit platelet activ
 ##Clot Lysis
 Clot breakdown is performed by:
 * Tissue Plasminogen Activator (**tPA**)  
-Binds to fibrin, and then cleaves plasminogen to plasmin. This keeps the plasmin formation in the vicinity of the clot, limiting systemic spread of plasmin.
+Binds to fibrin, and then cleaves plasminogen to plasmin. This keeps the plasmin formation in the vicinity of the clot, limiting its systemic spread of.
 
 * **Plasmin** cleaves fibrin into **fibrin degradation products**  
 FDPs conveniently inhibit further thrombin and fibrin formation.
 
 ---
 ##References
-Clot or Bleed
+1. Krafts K. Clot or Bleed: A Painless Guide for People Who Hate Coag. Pathology Student.
 2. Van Hinsbergh VWM. [Endothelium—role in regulation of coagulation and inflammation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3233666/). Seminars in Immunopathology. 2012;34(1):93-106.
