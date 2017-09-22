@@ -16,7 +16,7 @@ The volume of distribution is defined as the **theoretical volume into which an 
         * Up to 600ml.kg<sup>-1</sup> indicates a drug is dissolved into the TBW
         * Greater than 1L.kg<sup>-1</sup> indicates a drug is highly protein bound or lipophilic  
         Agents which cross the blood brain barrier typically have a V<sub>D</sub> of 1-2L.kg<sup>-1</sup>.
-    * Different volumes of distribution are described for different stages of drug effect
+    * Subtypes of the volume of distribution are used to describe drug distribution at different times or with different models
         * These include:
             * V<sub>1</sub>  
             Volume of central compartment.
@@ -25,7 +25,7 @@ The volume of distribution is defined as the **theoretical volume into which an 
             * V<sub>D</sub>pe  
             Volume of distribution at peak effect.
         * Which volume to use depends on the pharmacological question
-            * e.g. Intubating dose for opioid should use a volume between V<sub>1</sub> (very small) and V<sub>D</sub>ss (very large) - V<sub>D</sub>pe is ideal as it will allow a target concentration to be selected for the time at which intubation will occur (ideally ~5 minutes after dosing)
+            * e.g. Intubating dose for opioid should use a volume between V<sub>1</sub> (very small) and V<sub>D</sub>ss (very large) - V<sub>D</sub>pe is ideal as it will allow a target concentration to be selected for the time at which intubation will occur relative to drug administration
 
 
 * **Half-life** (t<sub>1/2</sub>)  
