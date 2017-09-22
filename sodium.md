@@ -30,12 +30,12 @@ Total body Na<sup>+</sup> content is regulated to within 2%. Regulation of any s
 
 
 Sodium is eliminated in:
-* Sweat
+* Sweat and GIT  
+Obligatory and not amenable to regulation.
+  * Acclimatisation to hot environments improves the efficiency of sweating by reducing its tonicity, reducing sodium loss
 * GIT
-* Urine
-
-
-Sweat and GIT losses are obligatory and not amenable to regulation (although acclimatisation to hot environments improves the efficiency of sweating by reducing its tonicity). Therefore, elimination of sodium occurs primarily though the actions of the kidney, which is driven by **aldosterone**.
+* Urine  
+Regulation of sodium is predominantly via adjusting renal elimination, and is mediated primarily by **aldosterone**.
 
 ###Urinary Elimination of Sodium
 Urinary elimination can be adjusted in two ways:
