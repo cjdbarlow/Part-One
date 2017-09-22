@@ -30,7 +30,7 @@ The volume of distribution is defined as the **theoretical volume into which an 
 
 * **Half-life** (t<sub>1/2</sub>)  
 The time it takes for a process to be 50% complete. With respect to drug clearance, it is the time it takes for concentration (typically in plasma) to fall by 50%.
-    * A process is considered to be complete after 5 half-lives  
+    * A process is considered to be complete after 4-5 half-lives  
     Concentration will decrease by 50% after each half-life, so after 5 half-lives concentration will be 3.125% of its starting value.
         * This also applies to wash in - it will take ~4-5 elimination half-lives of a drug for a constant-rate infusion to reach its final concentration
     * Half-life is mathematically related to many other key pharmacokinetic terms:  
@@ -44,7 +44,7 @@ The time it takes for a process to be 50% complete. With respect to drug clearan
         * t<sub>1/2</sub>β describes the rapidity of the *elimination* phase occurring after drug distribution equilibrium  
         This only evaluates clearance from plasma, and so is a composite of both excretion from the body (e.g. renal and hepatic clearance) and ongoing distribution to peripheral tissues.
             * The elimination half-life is generally not useful to predict drug offset, as this is affected by many factors  
-            However, it does set an upper limit on how long it will take plasma concentration to fall by 50%.
+            However, it does set an **upper limit** on how long it will take plasma concentration to fall by 50%.
 
 
 * **Time-constant** ($$\tau$$)  
@@ -56,7 +56,7 @@ The time taken for a process to complete if it continued at its initial rate of 
 
 * **Clearance**  
 The clearance is volume of plasma completely cleared of a drug per unit time.
-    * Expressed as: $$ Cl = k.V_D $$ in ml.min<sup>-1</sup>.
+    * In a one compartment model, this can be expressed as: $$ Cl = k.V_D $$ in ml.min<sup>-1</sup>.
         * As the **time constant** is the inverse of **k**, clearance can also be expressed as: $$ Cl = {V_D \over \tau } = {0.693 \times V_D \over t_{1/2}} $$
     * Since $$k$$ and $$V_D$$ are constants, clearance is also a constant
     * Total clearance is a sum of the clearance of each individual clearance organ
@@ -71,7 +71,9 @@ Amount of drug removed by the body per unit time.
 ##Compartmental Modelling
 The simplest model imagines the body a single, well-stirred compartment. 
 
-![One-compartment model](http://i.imgur.com/vBX4znL.png)
+<object data="resources\1compartment.svg" type="image/svg+xml"></object>
+
+
 
 In a one compartment model, the concentration of a drug ($$C$$) at time $$t$$ is given by the equation:
 
