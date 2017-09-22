@@ -71,17 +71,21 @@ This is due to the total cross-sectional area increasing dramatically.
 
 
 ###Turbulent Flow
-High flow rates and branching of airways disrupt disciplined laminar flow. Turbulent flow is the norm in the upper airway (where velocity is high), and in early-generation airways due to regular branching, changes in diameter, and sharp angles. Only after the **11th generation** bronchioles does laminar flow become more common. Unlike laminar flow, turbulent conditions have:
-* Flow is proportional to the square root of the driving pressure
+High flow rates and branching of airways disrupt disciplined laminar flow. Turbulent flow is the norm in the upper airway (where velocity is high), and in early-generation airways due to regular branching, changes in diameter, and sharp angles. Only after the **11th generation** bronchioles does laminar flow become more common. Unlike laminar flow, in turbulent flow:
+* Flow is proportional to the square root of the driving pressure  
+Therefore, **resistance is higher in turbulent flow** than in laminar flow.
 * Driving pressure is proportional to gas density, and independent of viscosity
 
-Therefore, **resistance is higher in turbulent flow** than in laminar flow.
-
-Lowering resistance in turbulent flow is aimed at making gas flow less turbulent, by **reducing gas density** using helium mixtures. This is typically of more benefit in **upper airway resistance** such as obstruction, as opposed to **lower airway conditions** such as asthma.
+Resistance is turbulent flow:
+* Is managed by making flow less turbulent  
+By reducing Reynolds number.
+  * Helium mixtures reduce gas density  
+  Of greater benefit in upper airway than lower airway disease.
 
 ###Transitional Flow
 Transitional flow occurs at branches and angles in the airways, as occur in most of the bronchial tree.
 
 ---
 ##References
-Nunns
+1. Lumb A. Nunn's Applied Respiratory Physiology. 7th Edition. Elsevier. 2010.
+
