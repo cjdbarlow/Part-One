@@ -10,8 +10,9 @@ Molecules pass through the cell membrane or via a channel. This process is **pas
   * Only lipid soluble molecules (gases, steroids) can pass directly through the lipid bilayer without a specialised channel
   * Voltage-gated and ligand-gated channels facilitate simple diffusion
 
+
 * **Facilitated diffusion** (uniporters)  
-Molecules bind to a carrier protein, and move together through the lipid bilayer, before separating on the other side. Facilitated diffusion is **concentration gradient-dependent**, but are **limited by** the amount of **carrier protein** available..
+Molecules bind to a carrier protein, and move together through the lipid bilayer, before separating on the other side. Facilitated diffusion is **concentration gradient-dependent**, and **limited by** the amount of **carrier protein** available..
 
 
 The rate and extent of diffusion is affected by:
@@ -27,21 +28,23 @@ The substance itself is moved.
 The substance moves against a concentration gradient with another molecule that had a gradient established by active transport.
   * This molecule is typically sodium
 
+
+* **Co-transporters** (symporters)  
+Uses carrier proteins and moves two substances (e.g. sodium and an amino acid) across a membrane.
+  * This process will be passive if the energy gained moving one substance down its concentration gradient is greater than the energy required to move the other substance up its concentration gradient
+* **Counter-transporters** (antiporters)  
+Use carrier proteins and moves two substances in opposite directions across the membrane.
+  * May be active or passive
+  
+
 Key transporters include:  
 * The **Na<sup>+</sup>-K<sup>+</sup> ATP-ase** pump  
 This moves three sodium ions out of a cell and two potassium ions in, cleaving one ATP in the process. This pump has many functions:
-   * Maintenance of celluar volume (which would otherwise burst from the influx of water with changing ECF tonicities) by net loss of osmoles
+   * Maintenance of cellular volume (which would otherwise burst from the influx of water with changing ECF tonicities) by net loss of osmoles
    * Maintenance of the potential difference across the membrane
    * Establishment of chemical gradients to be used in secondary active transport mechanism
        * e.g. Reabsorption of glucose in the kidney via the S-GLUT transporter
 
-**Co-transporters** (symporters)  
-Use carrier proteins and move two substances (e.g. sodium and an amino acid) across a membrane.
-  * This process will be passive if the energy gained moving one substance down its concentration gradient is greater than the energy required to move the other substance up its concentration gradient.
-
-**Counter-transporters** (antiporters)  
-Use carrier proteins and moves two substances in opposite directions across the membrane.
-  * This process has the same 
 
 ##Exo- and Endocytosis
 These processes describe the formation of a vesicle (typically from membrane phospholipid) to transport substances:
