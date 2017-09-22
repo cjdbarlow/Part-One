@@ -22,7 +22,9 @@ These undergo further metabolism to produce:
       * PGF<sub>2α</sub>
       * PGD<sub>2</sub>
 
-GRAPH OF PROSTAGLANDIN SYNTHESIS
+<object data="resources\pgsynth.svg" type="image/svg+xml"></object>
+
+
 
 
 
