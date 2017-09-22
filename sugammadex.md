@@ -20,4 +20,4 @@
 ---
 
 ##References
-1. [Sugammadex Full Prescribing Information](https://www.accessdata.fda.gov/drugsatfda_docs/label/2015/022225lbl.pdf)
+1. [Sugammadex Full Prescribing Information](https://www.accessdata.fda.gov/drugsatfda_docs/label/2015/022225lbl.pdf). FDA.
