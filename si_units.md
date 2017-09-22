@@ -1,6 +1,6 @@
 # SI Units {#id}
 
-The International System of Units (**SI**, or *Système International d'Unités*, is a set of  measurement standards which defines (almost) all standards in terms of uniform natural phenomena, and form the base of the metric system. 
+The International System of Units (**SI**, or *Système International d'Unités*), is a set of  measurement standards which defines (almost) all standards in terms of uniform natural phenomena, and form the base of the metric system. 
 
 ##Base SI Units
 There are **seven base SI units**, with **many derived units** made from combinations of these. Base SI units are mutually independent. They consist of:
@@ -30,4 +30,5 @@ There are **seven base SI units**, with **many derived units** made from combina
 
 ---
 ##References
-http://physics.nist.gov/, and various subpages
+1. [Physical Measurement Laboratory](http://physics.nist.gov/). National Institute of Standards and Technology.
+    * And various subpages
