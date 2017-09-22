@@ -1,12 +1,11 @@
 #Principles of Acid-Base Physiology {#id}
 > Explain the principles underlying acid-base chemistry
 
-There have been several different theories of acid-base chemistry. The one most relevant for Brønsted–Lowry definition**, which defines:
+There have been several different theories of acid-base chemistry. The one most relevant for the primary exam is the **Brønsted–Lowry definition**, which defines:
 * An **acid** as a **proton donor**
 * A **base** as a **proton acceptor**
 
 ##pH
-pH:
 * Stands for the **power of hydrogen**
 * Is a measure of **hydrogen ion activity** in a solution
  * Activity can be approximated by concentration
@@ -54,9 +53,8 @@ Due to decreased ionic dissociation of water.
 * **Gas solubility **almost always** increases** when **temperature falls**  
 Dissolving is typically (not always) an **exothermic** reaction. As the kinetic energy content of a molecule falls, its ability to dissociate from solution decreases.
  * As CO<sub>2</sub> dissolves, PaCO<sub>2</sub> falls
- 
-As blood gas machines operate at 37°C, a measurement error will occur if a patient is not close to 37°C:
-* A **hypothermic** patient will have a **higher pH** and **CO<sub>2</sub>** than measured
+* As blood gas machines operate at 37°C, a measurement error will occur if a patient is  not close to 37°C
+ * A **hypothermic** patient will have a **higher pH** and **CO<sub>2</sub>** than measured
 
 There are two common methods for **managing** pH of significantly hypothermic patients (e.g., those on CPB): **pH-stat** and **alpha-stat**.
 
@@ -76,6 +74,6 @@ There are two common methods for **managing** pH of significantly hypothermic pa
 * Unlike pH-stat, this does not cause cerebral vasodilation
 
 ##Referenecs
-Chambers
-ANZCA 1999
-https://www.chem.fsu.edu/chemlab/chm1046course/solubility.html
+1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+2. ANZCA July/August 1999
+3. Chemlab. [Solubility](https://www.chem.fsu.edu/chemlab/chm1046course/solubility.html). Florida State University.
