@@ -6,22 +6,21 @@
 > Explain the mechanisms and significance of pharmacogenetic disorders
 (eg malignant hyperpyrexia, porphyria, atypical cholinesterase and disturbance of cytochrome function).
 
+**Genetic polymorphism** occurs when several functionally distinct genes exist within a population. Genetic polymorphism is:
+* Common
+* Important in determining an individuals susceptibility to adverse drug reactions
+* A goal of **personalised medicine**  
+Aims to adjust drug therapies for interpatient variability.
 
-##Genetic variability
-A **genetic polymorphism** is where several functionally distinct genes exist within a population. This is common, and may affect an individuals susceptibility to adverse drug reactions.
 
-Understanding of genetic variability is a goal of **personalised medicine**, where drugs can be selected based on an understanding of what will be efficacious and tolerable.
-
-It is also the cause of some adverse drug reactions.
-
-##Pharmacogenetic disorders
-###Pseudocholinesterase  
+#Pharmacogenetic disorders
+##Pseudocholinesterase  
 A condition where plasma cholinesterase is unable to breakdown suxamethonium, prolonging its duration of action. This mutation:
 * Has four alleles
   * Usual
   * Atypical (dibucaine-resistant)
   * Silent (absent)
-  * Fluorie-resistance
+  * Fluoride-resistance
 * May be congenital or acquired
   * Congenital is autosomal recessive
     * Homozygotes: Prolonged paralysis
@@ -42,11 +41,18 @@ A condition where plasma cholinesterase is unable to breakdown suxamethonium, pr
       * Lignocaine and ester local anaesthetics
       * Metoclopramide
       * Lithium
+* Has been traditionally measured using the **dibucaine number**  
+Dibucaine is:
+  * An amide local anaesthetic which **inhibtis plasma cholinesterase**  
+  Different forms are inhibited to different extents, with greater inhibition indicating a less severe mutation.
+    * Percentage inhibition correlates with different genotypes, e.g.:
+      * Normal (Eu:Eu) has a dibucaine number of 80 (80% inhibited)
+      * Dibucaine resistant (Ea:Ea) has a dibucaine number of 20 (20% inhibited)
       
-###G6PD  
+##G6PD  
 A common x-linked recessive condition that may cause haemolysis following administration of oxidative drugs including: aspirin, sulfonamides, and some antibiotics.
 
-###Malignant Hyperthermia  
+##Malignant Hyperthermia  
 Autosomal dominant deficiency in the skeletal muscle ryanodine receptor gene resulting in a defect of intracellular calcium regulation. This mutation:
 * Causes massive calcium release from sarcoplasmic reticulum in the presence of volatile anaesthetic agents (and potentially suxamethonium)  
 Leads to:
@@ -88,7 +94,7 @@ Leads to:
     * Arrhythmias
     * Renal failure
 
-###Porphyria
+##Porphyria
 Autosomal dominant deficiency in the first step of haeme synthesis. These mutations:
 * Result in a partial deficiency of enzymes
 * Lead to accumultion of porphyrin precursors
@@ -104,4 +110,5 @@ Autosomal dominant deficiency in the first step of haeme synthesis. These mutati
 ---
 ##References
 1. Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. Sixth Edition. Churchill Livingstone.
-2. Petkov
+2. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
+3. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.

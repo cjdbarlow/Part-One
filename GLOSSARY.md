@@ -178,6 +178,9 @@ N-type Opioid Receptor
 ##PAC
 Pulmonary Artery Catheter
 
+##PBP
+Penicillin Binding Protein
+
 ##PCWP
 Pulmonary Capillary Wedge Pressure
 
