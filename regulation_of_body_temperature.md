@@ -134,6 +134,9 @@ Neuraxial anaesthesia:
 
 ##References
 1. Auerbach. Wilderness Medicine. Sixth Edition. Chapter 4: Thermoregulation.
-2. Power and Kam.
-3. https://primarysaqs.files.wordpress.com/2009/12/2008a10-define-tmz-briefly-explain-how-the-body-regulates-temp-when-the-ambient-temp-exceeds-the-tmz.pdf
-Thermoregulation, mild perioperative hypothermia and postanaesthetic shivering.
+2. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+3. Diaz A. [ Define "thermoneutral zone". Briefly explain how the body
+regulates temperature when the ambient temperature exceeds the
+thermoneutral zone](https://primarysaqs.files.wordpress.com/2009/12/2008a10-define-tmz-briefly-explain-how-the-body-regulates-temp-when-the-ambient-temp-exceeds-the-tmz.pdf). Primary SAQs.
+4. Buggy DJ, Crossley AW. [Thermoregulation, mild perioperative hypothermia and
+postanaesthetic shivering](https://academic.oup.com/bja/article-pdf/84/5/615/928512/840615.pdf). Br J Anaesth. 2000 May;84(5):615-28.
