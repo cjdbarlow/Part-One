@@ -57,6 +57,7 @@ Metal (e.g. SiO<sub>2</sub>) semiconductor which changes its resistance in a **p
 * **Thermocouple**  
 At the junction of two dissimilar metals, a potential difference will be produced proportional to their temperature. This is known as the Seebeck effect.
     * Non-linear (wash in exponent)
+    * Degrade over time
 
 
 ##Measurement of Humidity
