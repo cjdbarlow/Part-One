@@ -30,7 +30,7 @@ Deep sleep, characterised by depression of HR, SVR, BP, RR, and metabolic rate (
     * Stage 4: Large δ waves become synchronised  
     Deep sleep.
 
-Periods of REM sleep alternate with non-REM sleep during the night, with an average of 4-5 cycles of REM slep per night.
+Periods of REM sleep alternate with non-REM sleep during the night, with an average of 4-5 cycles of REM sleep per night.
 
 ##Respiratory Effects
 GABAergic neurons depress the respiratory centre, leading to respiratory depression:
@@ -48,6 +48,6 @@ Due to reduced tonic activity of pharyngeal muscles.
 
 ---
 ##References
-Power and Kam
-Dr Podcast Exercise Physiology
-Nunns
+1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+2. Leslie RA, Johnson EK, Goodwin APL. Dr Podcast Scripts for the Primary FRCA. Cambridge University Press. 2011.
+3. Lumb A. Nunn's Applied Respiratory Physiology. 7th Edition. Elsevier. 2010.
