@@ -16,6 +16,6 @@ The subclavian vein is a continuation of the axillary vein as it crosses the **u
 The subclavicular begins with the needle in the deltopectroal groove, inferior and lateral to the middle third of the clavicle. The needle is inserted at a shallow angle, passing under the middle third of the clavicle aiming at the sternal notch.
 
 
---
+---
 ##References
-Lasts
+1. McMinn, RMH. Last's Anatomy: Regional and Applied. 9th Ed. Elsevier. 2003.
