@@ -15,16 +15,14 @@ Aims to adjust drug therapies for interpatient variability.
 
 #Pharmacogenetic disorders
 ##Pseudocholinesterase  
-A condition where plasma cholinesterase is unable to breakdown suxamethonium, prolonging its duration of action. This mutation:
-* Has four alleles
-  * Usual
-  * Atypical (dibucaine-resistant)
-  * Silent (absent)
-  * Fluoride-resistance
+A condition where plasma cholinesterase is unable to breakdown suxamethonium, prolonging its duration of action. This disease:
 * May be congenital or acquired
-  * Congenital is autosomal recessive
-    * Homozygotes: Prolonged paralysis
-    * Heterozygotes: Slightly prolonged paralysis
+  * Congenital is autosomal recessive  
+  Has four alleles
+    * Usual
+    * Atypical (dibucaine-resistant)
+    * Silent (absent)
+    * Fluoride-resistance
   * Acquired is due to a loss of plasma cholinesterase
     * Pregnancy
     * Organ failure
@@ -48,7 +46,9 @@ Dibucaine is:
     * Percentage inhibition correlates with different genotypes, e.g.:
       * Normal (Eu:Eu) has a dibucaine number of 80 (80% inhibited)
       * Dibucaine resistant (Ea:Ea) has a dibucaine number of 20 (20% inhibited)
-      
+    * Note that acquired disease will have a normal dibucaine number, as the enzyme itself is working correctly, however does not exist in a large enough quantity to metabolise suxamethonium rapidly 
+    
+  
 ##G6PD  
 A common x-linked recessive condition that may cause haemolysis following administration of oxidative drugs including: aspirin, sulfonamides, and some antibiotics.
 
