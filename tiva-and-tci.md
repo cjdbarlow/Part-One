@@ -6,6 +6,7 @@ Total intravenous anaesthesia involves using IV agents alone to achieve hypnosis
     * Avoids adverse effects of anaesthetic agents
         * Nausea/vomiting
         * Pollution
+        * Increased cerebral blood flow
 * Disadvantages
     * Drug must be metabolised
     * Potential increased liklihood of awareness
@@ -20,7 +21,7 @@ TCI is the use of pharmacokinetic models (typically combined with microprocessor
 TCI-systems:
 * Are **open-loop**  
 Effects of drug are not measured (unlike with end-tidal gas monitoring), which introduces a vulnerability that can lead to awareness.  
-    * e.g. compared to inhalational anaesthetics, where the loop is closed by using end-tidal drug monitoring
+    * e.g. Compared to inhalational anaesthetics, where the loop is closed by using end-tidal drug monitoring
 * Follows the BET (Bolus, Elimination, Transfer) principle:  
 A loading dose is given to saturate the volume of distribution to achieve target concentration
     * $$Loading \ Dose = V_D \times C_P$$
@@ -46,7 +47,7 @@ A loading dose is given to saturate the volume of distribution to achieve target
 
 
 ###TCI Models for Propofol
-The Bristol Model:
+**The Bristol Model:**
 * First pharmacokinetic model
 * Based on three-compartment model of health patients
 * Assumes:
@@ -61,10 +62,10 @@ The Bristol Model:
         * 8mg.kg<sup>-1</sup>.hr<sup>-1</sup> for 10 minutes
         * 6mg.kg<sup>-1</sup>.hr<sup>-1</sup> thereafter
 
-Marsh and Schnider Models:
+**Marsh and Schnider Models:**
 * These are computer controlled models
 * Both were derived on very small groups of patients (18 and 24 respectively)
-* The models diverge most strongly in the first 10 minutes after induction, and progressively converge  
+* The models differ mostly in the first 10 minutes after induction, and progressively converge  
 The intial behaviour of the model is key in deciding which model to apply to any particular patient.
 
 |Property|Marsh|Schnider|
