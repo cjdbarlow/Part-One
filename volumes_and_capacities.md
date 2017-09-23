@@ -13,7 +13,8 @@ The lung has four volumes and four (main) capacities:
 * A **volume** is measured directly
 * A **capacity** is a **sum of volumes**
 
-SPIROGRAM FROM PAGE 50 CHAMBERS
+<object data="resources\spirograph.svg" type="image/svg+xml"></object>
+
 
 ##Volumes
 * **Tidal volume** (V<sub>T</sub>)   
