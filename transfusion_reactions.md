@@ -43,10 +43,10 @@ Preservatives are used to extend the time blood can be stored:
 Platelets require particular storage conditions to remain functional:
 * Temperature ~22°C  
 Below this, platelets deform and become non-functional
-* Gas exchange
+* Gas exchange  
 Platelets are stored in a bag which allows gas exchange to occur, minimising lactic acid and carbon dioxide production
 * Agitation  
-Platelets are stored on an agitator which prevents clotting and ensures the platelets are well mixed, maximising the diffusion gradient for gas exchange
+Platelets are stored on an agitator which prevents clotting and ensures the platelets are well mixed, which maximises the diffusion gradient for gas exchange
 * pH control  
 pH is kept between 6.2 to 7.8 to prevent degranulation.
 
