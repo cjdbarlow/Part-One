@@ -26,7 +26,7 @@ Each oxygen which binds to Hb causes conformational changes which allow it bind 
   * When no oxygen is bound, Hb is said to be in the **tense state** (T state)
 
 
-* Note that the mixed venous point does not actually exist on the arterial curve (such as is displayed above), as the venous dissociation curve is right-shifted relative to the arterial curve
+* Note that the **mixed venous point is not on the arterial curve** (unlike how it is displayed above), as the venous dissociation curve is right-shifted relative to the arterial curve
 
 ###Haemoglobin Species
 Haemoglobin is a four-tetramer molecule, and its species can be physiological or pathological:
