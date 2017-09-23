@@ -44,6 +44,7 @@
     * [Drug Interactions](drug_interactions.md)
     * [Alterations to Response](alterations_to_drug_response.md)
     * [Pharmacogenetics](pharmacogenetics.md)
+    * [Drugs in Pregnancy](drugs-in-pregnancy.md)
   * [Toxicology](management_of_poisoning.md#id)
     * [General Management](management_of_poisoning.md)
     * [TCA Overdose](tricyclic_antidepressant_overdose.md)
