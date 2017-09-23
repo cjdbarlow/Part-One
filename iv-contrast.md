@@ -55,6 +55,10 @@ Risk factors include:
 Defined as an increase in creatinine by 25% above baseline within three days of IV contrast administration.
     * It is theorised that osmotic stress and direct tubular toxic effects lead to renal tubular injury, and may cause acute tubular necrosis
     * Typically is benign, with creatinine returning to baseline within 10-14 days
+    * Significant uncertainty as to whether contrast media do cause acute kidney injury  
+    IF this risk is present, it is probably only relevant in patients who have:
+        * Impaired renal function
+        * Arterial contrast
     * Rehydration and volume correction are effective in preventing a rise in creatinine
     
     
@@ -62,4 +66,5 @@ Defined as an increase in creatinine by 25% above baseline within three days of 
 ##References
 1. Dickinson MC, Kam PC. [Intravascular iodinated contrast media and the
 anaesthetist](https://www.ncbi.nlm.nih.gov/pubmed/18477275). Anaesthesia. 2008 Jun;63(6):626-34.
+2. 
     
