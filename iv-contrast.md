@@ -66,5 +66,6 @@ Defined as an increase in creatinine by 25% above baseline within three days of 
 ##References
 1. Dickinson MC, Kam PC. [Intravascular iodinated contrast media and the
 anaesthetist](https://www.ncbi.nlm.nih.gov/pubmed/18477275). Anaesthesia. 2008 Jun;63(6):626-34.
-2. 
+2. The Royal Australian and New Zealand College of Radiologists. [Iodinated
+Contrast Media Guideline](https://www.ranzcr.com/documents/573-iodinated-contrast-guidelines-2016/file). Sydney: RANZCR; 2016.
     
