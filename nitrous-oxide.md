@@ -12,6 +12,7 @@
 |**Molecular Weight**|44|
 |**Boiling point**|-88°C|
 |**Critical Temperature/Pressure**|36.5°C / 72 bar| 
+|**SVP** (at 20°C)|39,000 mmHg
 |**Blood:gas coefficient**|0.47|
 |**Oil:gas coefficient**|1.4|
 |**MAC**|105 (MAC awake 68)|
