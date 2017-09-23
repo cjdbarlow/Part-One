@@ -192,7 +192,17 @@ Difference between the AUC of the same dose of drug administered IV and via anot
 ##Footnotes
 The formula for half-life can be derived from the equation for a wash-in exponential as follows:
 * Wash in exponential is given by: $$C = 1 - e^{-kt}$$  
-* $$y = 0.5$$ can then be substituted and the equation solved for $$t$$ as follows:
+* $$y = 0.5$$ can then be substituted and the equation solved for $$t$$ as follows:  
+$$ \begin{align*}
+0.5 &= 1 - e^{-kt} \\
+ -0.5 &= e^{-kt} \\
+\ln-0.5 &= -kt \\
+\ln 2 &= kt \\
+{\ln 2 \over k} &= t \\
+{0.693 \over k} &= t
+
+\end{align*}$$
+
 
 ---
 ##References
