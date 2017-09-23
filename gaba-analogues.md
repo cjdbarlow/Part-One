@@ -25,5 +25,3 @@ Gabapentin and pregabalin:
 pregabalin: the calcium channel alpha2-delta (alpha2-delta) subunit as a target
 for antiepileptic drug discovery](https://www.ncbi.nlm.nih.gov/pubmed/17126531). Epilepsy Res. 2007 Feb;73(2):137-50. Epub 2006 Nov 28. 
 2. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
-
-3.
