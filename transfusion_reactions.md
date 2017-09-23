@@ -56,6 +56,12 @@ The small amount of contaminanting red cells may precipitate rhesus disease.
 * Plasma incompatibility should be avoided as this may lead to haemolysis of recipient red cells
     * Children are at greater risk due to their proportionally smaller blood volume
 
+###Fresh Frozen Plasma
+
+
+###Cryoprecipitate
+Cryoprecipitate is prepared by removing the precipitate from FFP which forms at 1–6°C.
+
 ###Whole Blood
 Whole blood undergoes additional changes:
 * White cells become nonfunctional within 4-6 hours of collection, though antigenic properties remain
