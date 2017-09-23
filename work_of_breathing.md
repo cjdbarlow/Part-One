@@ -63,6 +63,11 @@ Work of breathing can be evaluated with a dynamic lung compliance curve:
     * If this area falls within the area of elastic work of breathing, it is a purely passive process, using the stored elastic potential energy of inspiration
     * If part of this area falls outside the area of elastic work of breathing, it demonstrates additional **active work of expiration** which may occur in obstructive lung disease or when minute ventilation is high
 
+Active expiratory work:
+<object data="resources\workofbreathing-obstructive.svg" type="image/svg+xml"></object>
+
+
+
 ###Minimising Work of Breathing
 Work of breathing can be minimised by optimising the determinants:
 * Elastic work
