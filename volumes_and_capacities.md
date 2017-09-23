@@ -81,7 +81,7 @@ Work of breathing is a function of lung resistance and compliance.
 
 * **Minimise RV Afterload**  
 PVR is minimal at FRC.
-  * Above FRC, compression of intraalveolar vessels occurs and PVR increases
+  * Above FRC, compression of intra-alveolar vessels occurs and PVR increases
   * Below FRC, extra-alveolar vessels collapse and PVR increases
 
 
@@ -175,7 +175,7 @@ Factors affecting FRC:
 * Closing capacity is **volume at which small airways begin to close**  
 Closing capacity is the sum of residual volume and closing volume.
   * Because dependent lung is compressed by gravity, dependent (typically basal) airways are of smaller calibre than non-dependent (typically apical) airways
-  * During expiration, these airways are compressed first
+  * During expiration, these airways are compressed first  
   Alveoli connected to these airways are isolated, and **V/Q scatter or shunt** occurs.
   * If **closing capacity exceeds FRC**, then airway closure occurs during normal tidal breathing  
   This occurs when:
@@ -186,7 +186,9 @@ Closing capacity is the sum of residual volume and closing volume.
         * CC exceeds FRC in the erect patient at 66
   * This is clinically relevant during **preoxygenation**, as it will limit the denitrogenation that can occur
 
-CLOSING CAPACITY GRAPH
+<object data="resources\closing-capacity-vs-age.svg.svg" type="image/svg+xml"></object>
+
+
 
 ###Measurement of Closing Capacity
 Closing capacity is measured using Fowlers Method (see Dead Space).
