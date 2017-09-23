@@ -58,7 +58,7 @@ TLC = RV + ERV + V<sub>T</sub> + IRV.
   * Normal is 6000ml
 
 ###Functional Residual Capacity
-The FRC has many important physiological properties:
+The FRC has many important physiological functions:
 
 * **Gas exchange**  
 The FRC allows blood in the pulmonary circulation to become oxygenated throughout the respiratory cycle (if there was no FRC, then at expiration the lungs would be empty and no oxygenation would occur).
