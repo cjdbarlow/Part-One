@@ -10,8 +10,6 @@ Distends the elastic walls of the large arteries during systole, which then reco
     * This is what is felt when pulses are palpated
     
 ##Changes by Site of Measurement
-FIGURE 33.2 FROM CHAMBERS PAGE 151
-
 Measured pressure changes predictably at more distal sites:
 * All gradients are increased  
 Arterial upstroke and falloff are both steeper.
@@ -21,7 +19,7 @@ Arterial upstroke and falloff are both steeper.
 * The dicrotic notch occurs later and becomes less sharp  
 This occurs due to reflections in arterial pressure waves.
 
-##Physiological and Pathological Changes
+##Physiological Changes
 Changes in circulatory function:
 * **Inotropy**  
 The rate of systolic upstroke is related to $$\frac{\Delta P}{\Delta t}$$, and therefore contractility.
@@ -30,7 +28,7 @@ The gradient between the peak systolic pressure and the dicrotic notch gives an 
 * **Preload**  
 A beat-to-beat variation is seen with the respiratory cycle, due to the change in preload occurring with changes in intrathoracic pressure.
 
-Pathological changes:
+##Pathological Changes
 * **Aortic Stenosis**  
 Causes a reduction in:
     * Pulse pressure  
@@ -42,3 +40,7 @@ Causes a reduction in:
     Combination of:
         * Increased SBP due to the increased force of ejection due to increased preload (Starlings Law), which occurs due to high ESV
         * Decreased DBP due to part of the stroke volume flowing back into the ventricle through the incompetent valve
+
+---
+##References
+1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
