@@ -83,10 +83,10 @@ $$ PA_{O_2} = Pi_{O_2} - {PA_{CO_2} \over R}$$
 * **Boyle's Law**  
 $$PV = K$$, i.e. pressure and volume are inversely related at constant temperature and pressure.
     * Boyles Law can be used to work out how many litres of gas are remaining in gas cylinder, e.g.:
-        * A standard C cylinder is 2L in size
-        * Normal cylinder pressure is ~230bar, and atmospheric pressure is ~1bar  
-        $$ \begin{align*} P_1 . V_1 &= P_2 . V_2 \\ 230 . 2  &= 460 \\ \end{align*}$$
-        * Therefore, the cylinder contains 460L of oxygen
+        * A standard C cylinder is 1.2L in size
+        * Normal cylinder pressure is ~137bar, and atmospheric pressure is ~1bar  
+        $$ \begin{align*} P_1 . V_1 &= P_2 . V_2 \\ 137 . 1.2  &= 164 \\ \end{align*}$$
+        * Therefore, the cylinder contains 164L of oxygen
         * By substituting the cylinder pressure (and using appropriate units), the volume of gas in the cylinder can also be calculated
 
 
