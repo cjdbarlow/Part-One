@@ -15,7 +15,7 @@ Acetylcholinesterases can be:
 |Property|Neostigmine|Organophosphates
 |--|--|
 |**Class**|Quaternary amine, forms carbamylated enzyme complex|Irreversible anticholinesterase
-|**Uses**|Reversal of ND NMB, myasthenia gravis, analgesia|Insecticides, pesticides, chemical weapons
+|**Uses**|Reversal of non-depolarising NMB, myasthenia gravis, analgesia|Insecticides, pesticides, chemical weapons
 |**Presentation**|Clear, colourless, light stable solution at 2.5mg.ml<sup>-1</sup>||
 |**Route of Administration**|PO, IV, intrathecal|Topical
 |**Dosing**|0.05mg.kg<sup>-1</sup> for reversal, 15-30mg PO for MG||
