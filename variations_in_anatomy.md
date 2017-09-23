@@ -22,8 +22,8 @@ Changes are most obvious below 1 year of age. They typically resolve by ~8 years
     * Left and right bronchi arise at similar angles, so endobronchial intubation may occur on either side
     * Airways themselves are narrower, and have a higher resistance to flow. 
 
-
+---
 ##References
 1. http://lifeinthefastlane.com/ccc/paediatric-airway/
-2. Anderson. Anatomy of the Respiratory system.
+2. Anderson, C. [Anatomy of the Respiratory system.](https://icuprimaryprep.files.wordpress.com/2012/05/anatomy-of-the-respiratory-system-22.pdf). ICU Primary Prep.
 3. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
