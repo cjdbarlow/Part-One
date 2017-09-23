@@ -29,6 +29,7 @@ The gradient between the peak systolic pressure and the dicrotic notch gives an 
 A beat-to-beat variation is seen with the respiratory cycle, due to the change in preload occurring with changes in intrathoracic pressure.
 
 ##Pathological Changes
+Some pathological causes include:
 * **Aortic Stenosis**  
 Causes a reduction in:
     * Pulse pressure  
