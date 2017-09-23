@@ -104,6 +104,25 @@ The lower the natural frequency of a monitoring system, the smaller the range of
 Introducing an air bubble will increase damping (generally good, since most systems are under-damped), however it will lower the natural frequency and is detrimental overall.
 
 ---
+##Footnotes
+###Fundamentals of Pressure Measurement
+Pressure exerted by a static fluid is due to the weight of the fluid, and is a function of:
+* Fluid density (in kg.L<sup>-1</sup>)
+* Acceleration (effect of gravity, in m.s<sup>-2</sup>)
+* Height of the fluid column
+
+This can be derived as follows:  
+* $$Pressure = {Force \over Area} = {Mass \times Acceleration \over Area}$$
+* $$Density = {Mass \over Volume}$$, therefore $$Mass = Volume \times Density$$
+* Combining the above equations:  
+$$Pressure = {Density \times Volume \times Acceleration \over Area} = Density \times Length \times Acceleration$$
+  * This is usually expressed as:  $$Pressure = \rho .h.g$$
+  
+
+* Note that this expression does not require the mass or volume of the liquid to be known
+* This is why pressure is often measured in height-substance units (e.g. mmHg, cmH<sub>2</sub>O)
+
+---
 ##References
 1. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.
 2. Alfred Anaesthetic Department Primary Exam Program
