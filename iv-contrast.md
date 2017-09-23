@@ -23,3 +23,37 @@ Gd<sup>3+</sup>, due to its seven unpaired electrons, is paramagetic and will al
     * Free gadolinium is nephrotoxic and must be chelated
     * This increases its solubility and allows it to be renally eliminated
     * Gadolinuim also attenuates x-rays, but is not used as x-ray contrast as doses required would be toxic
+    
+##Adverse Reactions
+Adverse reactions to low-osmolarity agents are uncommon (3%), with severe reactions being very rare (0.04%) and fatal reactions being extremely rare (1:170,000).
+
+###General Adverse Reactions
+Adverse ractions include:
+* Chemotoxicity
+    * Platelet inhibition
+    * Increased vagal tone
+        * Negative inotropy
+        * Negative chromotropy
+* Ionic toxicity
+    * Cellular membrane dysfunction  
+    May worsen myasthenia gravis.
+* Osmotoxicity
+    * Pain
+    * Emesis
+    * Increased PAP
+    * Decreased PVR
+* Hypersensitivity reaction  
+Typically occur within 20 minutes of injection.
+    
+Risk factors include:
+* Asthma or atopy
+* Critically ill
+* Cardiac disease
+* Renal disease
+
+###Contrast Nephropathy
+Defined as an increase in creatinine by 25% above baseline within three days of IV contrast administration.
+    * Osmotic stress and direct tubular toxic effects lead to renal tubular injury, and may cause acute tubular necrosis
+    * Typically is benign, with creatinine returning to baseline within 10-14 days
+
+    
