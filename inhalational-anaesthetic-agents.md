@@ -316,8 +316,9 @@ Anaesthetic agents may alter the function of molecules within the CNS. These inc
     * Other factors disrupt cell membranes without causing anaesthesia
 
 
-** Volume expansion**, **pressure reversal**:
-* CNS cell membranes expand with general anaesthetic agents
+** Volume Expansion**, **Pressure Reversal** (Mullin's Critical Volume Hypothesis):
+* CNS cell membranes expand with general anaesthetic agents  
+This distorts channels responsible for maintaining membrane potential and generating action potentials.
 * Increased ambient pressure reverses general anaesthesia
 * Flaws:
     * Does not account for stero-selectivity of drug-receptor interactions  
