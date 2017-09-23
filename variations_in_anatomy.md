@@ -24,6 +24,6 @@ Changes are most obvious below 1 year of age. They typically resolve by ~8 years
 
 ---
 ##References
-1. Nickson, C. [Paediatric Airway](http://lifeinthefastlane.com/ccc/paediatric-airway/). LITFL>
+1. Nickson, C. [Paediatric Airway](http://lifeinthefastlane.com/ccc/paediatric-airway/). LITFL.
 2. Anderson, C. [Anatomy of the Respiratory system.](https://icuprimaryprep.files.wordpress.com/2012/05/anatomy-of-the-respiratory-system-22.pdf). ICU Primary Prep.
 3. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
