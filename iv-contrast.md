@@ -22,3 +22,4 @@ These agents are all based on a tri-iodinated benzene ring, which absorbs x-ray 
 Gd<sup>3+</sup>, due to its seven unpaired electrons, is paramagetic and will alters the magnetic field of an MRI machine.
     * Free gadolinium is nephrotoxic and must be chelated
     * This increases its solubility and allows it to be renally eliminated
+    * Gadolinuim also attenuates x-rays, but is not used as x-ray contrast as doses required would be toxic
