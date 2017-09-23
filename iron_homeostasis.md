@@ -2,8 +2,8 @@
 >	Describe the normal nutritional requirements
 
 Approximately 3-5g of iron is found in the body as:
-* **Oxygen-carrying globin molecules** (~70%)  
-Haemoglobin and myoglobin.
+* **Oxygen-carrying globin molecules**  
+Haemoglobin (~70%) and myoglobin (~5%).
 * **Catalyst** for biological reactions (~30%)  
 Catalase, peroxidase, and cytochromes all require iron.
 
