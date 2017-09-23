@@ -26,7 +26,7 @@ When more than 50% of electrons are at a higher energy level, **population inver
     * A spontaneous emission occurs when an electron enters its resting state spontaneously
     * A stimulated emission occurs when an electron enters its resting state after being struck by a photon released from a spontaneous emission
         * Stimulated emissions result in amplification of light release
-* The mirrors in the resonating chamber mean that most light is reflected back into the chamber to cause more stimulated emissions
+* The mirrors in the resonating chamber enxure most light is reflected back into the chamber, causing more stimulated emissions
 * The exit from the chamber can be be adjusted so only certain polarities of light are emitted
 * A lens may be used to focus the laser beam
 
