@@ -113,11 +113,11 @@ CYP450 enzymes are:
 |Propofol|Propofol, Parecoxib, Warfarin|Diazepam, Omeprazole, Clopidogrel, Phenytoin|Codeine, Metoprolol, Flecainide|Volatile anaesthetic agents, parcetamol|Common benzodiazepines, Fentanyl, Alfentanil, Lignocaine, Vecuronium|Diazepam
 
 Key CYP enzymes include:
-* CYP2E1  
+* **CYP2E1**  
 Metabolises volatiles and paracetamol.
-* CYP3A4  
+* **CYP3A4**  
 Responsible for 60% of metabolic activity.
-* CYP2D6  
+* **CYP2D6**  
   * Important because genetic polymorphism leads to significant inter-patient variability  
   May result in significant over- or under-metabolism of drugs, and therefore significant inter-individual variability in response.
     * 5-10% of the population are poor metabolisers
