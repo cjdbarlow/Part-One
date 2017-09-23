@@ -16,17 +16,18 @@ Air that is fully saturated with gas is mixed with a 'bypass' stream of gas, dil
 ##Variable Bypass Vaporiser
 Variable bypass vaporisers aim to deliver the same concentration of anaesthetic agent over a range of flows. They achieve this by:
 * Flow management
-    * Baffles and wicks increase the surface area of the liquid/gas interface, increasing and the rate of vaporisation (which may still be exceeded by the gas flow rate)  
-    These are less effective in draw-over vaporisers, as resistance must be minimised.
+    * Baffles and wicks increase the surface area of the liquid/gas interface, increasing the rate of vaporisation.
+    	* Excessively high flow rates may result in gas not being fully saturated with agent when it exits the vaporiser stream
+    	* These are less effective in draw-over vaporisers, as resistance must be minimised
 * Temperature management  
-SVP of volatile agents increase non-linearly as temperature increases. Temperature changes:
+The SVP of volatile agents increases non-linearly as temperature increases. Temperature changes:
 	* Occur through:
 		* Changes in ambient temperature
 		* Loss through latent heat of vaporisation  
 		Liquid agent from the vaporiser will cool over the course of an anaesthetic.
 	* Are managed with:
 		* Temperature stabilisation  
-		Use of materials with both a high thermal conductivity and specific heat capacity allow the vaporising chamber to buffer changes in surrounding temperature.
+		Use of materials with both a high thermal conductivity and specific heat capacity, allowing the vaporising chamber to buffer changes in surrounding temperature.
 		* Temperature compensation  
 		Adjusts flow into either the vaporising chamber or bypass chamber to account for changes in environmental temperature. Methods include:
 			* Bimetallic strip  
@@ -114,7 +115,7 @@ Altitude:
 * A vaporiser set at 2% will deliver 4% gas at 0.5atm pressure, however as the atmospheric pressure is reduced the same partial pressure of vapour is delivered
 
 * The delivered concentration of an agent at altitude is given by the equation:  
-$$ Delivered \ Concentration (%) = Intended \ Concentration \times {P_{cal} \over P_{alt}}$$, where:
+$$ Delivered \ Concentration \ (\%) = Intended \ Concentration \times {P_{cal} \over P_{alt}}$$, where:
 * $$ Actual \ Delivered \ Concentration$$ is the concentration of agent in the gas delivered to the patient  
 This must be multipled by the atmospheric pressure to find the partial pressure of agent delivered to the patient.
 * $$ Intended \ Concentration$$ is the concentration dialed up on the vaporiser
