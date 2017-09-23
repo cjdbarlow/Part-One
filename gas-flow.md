@@ -13,8 +13,21 @@ Mixture of laminar and turbulent flow. Flow is typically turbulent in the centre
 
 
 Devices used to measure gas flow include:
-* Variable-orifice Flowmeters
-* Pneumotachograph
+* Variable-Orifice Flowmeters
+* Fixed-Orifice Flowmeters  
+Pneumotachograph.
+* Hot wire flowmeter
+
+
+Note orifice based flowmeters rely on the **Hagan-Poiseuille Equation**:  
+$$ Q = {\Delta P r^4 \pi \over 8 \eta l} $$
+    * Viscosity ($$\eta$$) and length ($$l$$) are fixed by both devices
+    * Fixed orifice flowmeters also fix radius ($$r$$), such that the change in pressure must therefore be proportional to flow:  
+    $$Q= {\Delta P \pi k}$$, where $$k$$ is a constant
+    * Variable orifice flowmeters also fix pressure ($$\Delta P$$), such that flow can be calculated from the radius:  
+    $$Q= r^4 \pi k$$
+
+
 
 ##Flowmeters
 **Constant pressure, variable orifice** flowmeters are found on wall and cylinder gases. They consist of:
