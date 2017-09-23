@@ -191,8 +191,8 @@ Closing capacity is the sum of residual volume and closing volume.
 
 
 ###Measurement of Closing Capacity
-Closing capacity is measured using Fowlers Method (see Dead Space).
+Closing capacity is measured using Fowlers Method, and is covered under [Dead Space](dead_space.md).
 
 ---
 ##References
-Chambers
+1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
