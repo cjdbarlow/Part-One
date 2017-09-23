@@ -57,10 +57,19 @@ The small amount of contaminanting red cells may precipitate rhesus disease.
     * Children are at greater risk due to their proportionally smaller blood volume
 
 ###Fresh Frozen Plasma
+Fresh Frozen Plasma is prepared either via separation from whole blood or via apheresis (removal of a large volume (typically 800ml) of plasma from a single patient, with return of red cells to the donor.
 
+Fresh frozen plasma is then frozen, and rethawed in a water bath prior to use.
 
 ###Cryoprecipitate
-Cryoprecipitate is prepared by removing the precipitate from FFP which forms at 1–6°C.
+Cryoprecipitate is prepared by removing the precipitate from FFP which forms at 1–6°C. Cryoprecipitate:
+* Contains predominantly:
+    * Fibrinogen
+    * Fibronectin
+    * vWF
+    * Factor VIII
+    * Factor XII
+    
 
 ###Whole Blood
 Whole blood undergoes additional changes:
