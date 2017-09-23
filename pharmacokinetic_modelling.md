@@ -189,6 +189,12 @@ $$ Cl = {Dose \over AUC}$$
 Difference between the AUC of the same dose of drug administered IV and via another route.
 
 ---
+##Footnotes
+The formula for half-life can be derived from the equation for a wash-in exponential as follows:
+* Wash in exponential is given by: $$C = 1 - e^{-kt}$$  
+* $$y = 0.5$$ can then be substituted and the equation solved for $$t$$ as follows:
+
+---
 ##References
 1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
 2. Plasma Volume.  Mosby's Medical Dictionary, 8th edition. 2009.  
