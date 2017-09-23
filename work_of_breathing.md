@@ -90,7 +90,6 @@ Work of breathing can be minimised by optimising the determinants:
     * Increase lung volume
     * Bronchodilators  
 
-WORK OF BREATHING VS RESPIRATORY RATE GRAPH
 
 ---
 ##Derivation
