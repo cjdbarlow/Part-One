@@ -34,6 +34,8 @@ Radiative heat exchange:
   * Solids conduct heat better than gases
   * There is no conduction in a vacuum
 * Heat loss via conduction is minimal in air but is a major cause of heat loss in immersion  
+  * As arteries and veins typically run next to each other, arterial heat tends to be transferred to the (cooler) veins, limiting further heat loss  
+  This is similar to counter-current exchange in the kidney.
 * As fat is a poorer conductor of heat than muscle, increased body fat will slow heat loss by conduction
 
 ###Convection
