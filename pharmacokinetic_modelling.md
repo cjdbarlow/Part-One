@@ -132,6 +132,8 @@ Consists of two phases:
         * Redistribution into plasma
 
 <object data="resources\biexponent.svg" type="image/svg+xml"></object>
+
+
 This curve is given by the equation $$C = Ae^{-\alpha t} + Be^{-\beta t}$$, where:
 * $$C$$ is the concentration of drug in plasma
 * $$A$$ is the y-intercept of the distribution exponent  
