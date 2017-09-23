@@ -28,5 +28,4 @@ This equation can be re-arranged to solve for $$R_4$$, $$R_4 = {R_2 \over R_1}.R
 ---
 
 ##References
-Mark Langley Tute
-
+1. Alfred Anaesthetic Department Primary Exam Tutorial Series
