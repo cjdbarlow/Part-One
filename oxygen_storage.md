@@ -17,11 +17,16 @@ The plateau allows oxygen **content** to remain high, even if the PaO<sub>2</sub
 * Maintenance of diffusion gradient to tissues  
 The steep section allows a large amount of oxygen to be delivered with only a small drop in PaO<sub>2</sub>, which allows the rate of oxygen delivery to be maintained (as the blood-tissue partial pressure gradient is steep) with an increase in oxygen demand.
 
+<object data="resources\oxyhb.svg" type="image/svg+xml"></object>
+
 
 * The sigmoid shape exists due to **cooperative binding**  
 Each oxygen which binds to Hb causes conformational changes which allow it bind dditional oxygen molcules more easily.
   * When the fourth oxygen molecule has bound, Hb is said to be in the **relaxed conformation** (R state)
   * When no oxygen is bound, Hb is said to be in the **tense state** (T state)
+
+
+* Note that the mixed venous point does not actually exist on the arterial curve (such as is displayed above), as the venous dissociation curve is right-shifted relative to the arterial curve
 
 ###Haemoglobin Species
 Haemoglobin is a four-tetramer molecule, and its species can be physiological or pathological:
