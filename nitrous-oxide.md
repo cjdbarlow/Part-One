@@ -33,7 +33,7 @@ Entonox is a 50/50 mixture of nitrous oxide and oxygen, used as analgesia in lab
 |Property|Entonox (50% O<sub>2</sub>, 50% N<sub>2</sub>O)
 |--|--|
 |**Pharmaceutics**| The gases dissolve each other and behave differently than would be expected from their individual properties. This is the **Poynting effect**.
-|**Critical Temperature/Pressure**| *Pseudo*critical temperature of **-7°C**, below which it will separate into **liquid** 50% N<sub>2</sub>O (with some dissolved O<sub>2</sub>), and gaseous O<sub>2</sub>. This is most likely to occur at 117 bar, and can lead to delivery of a hypoxic mixture. <br><br> Delivery of a hypoxic mix is prevented by: <br>-Storing cylinders horizontally (↑ area for diffusion)<br> Storing cylinders at temperatures > 5°C <br>-Using a dip tube so that liquid 50% N<sub>2</sub>O is used before the gaseous mixture
+|**Critical Temperature/Pressure**| *Pseudo*critical temperature of **-7°C**, below which it will separate into **liquid** 50% N<sub>2</sub>O (with some dissolved O<sub>2</sub>), and gaseous O<sub>2</sub>. This is most likely to occur at 117 bar, and can lead to delivery of a hypoxic mixture. <br><br> Delivery of a hypoxic mix is prevented by: <br>- Storing cylinders horizontally (↑ area for diffusion)<br> - Storing cylinders at temperatures > 5°C <br>- Using a dip tube so that liquid 50% N<sub>2</sub>O is used before the gaseous mixture
 
 ---
 
