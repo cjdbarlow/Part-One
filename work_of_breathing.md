@@ -110,4 +110,6 @@ $$Work = Pressure \times Volume$$
 
 ---
 ##References
-Chambers
+1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+2. Lumb A. Nunn's Applied Respiratory Physiology. 7th Edition. Elsevier. 2010.
+  
