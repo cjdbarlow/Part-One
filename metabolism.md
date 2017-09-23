@@ -130,7 +130,7 @@ Responsible for 60% of metabolic activity.
       May lead to overdose.
       * Poor metabolisers will excrete more pro-drug prior to metabolism, and see a reduced clinical effect
     * Active drug
-      * Extensive/ultra-rapid metabolisers will inactive more drug, and see a reduced effect
+      * Extensive/ultra-rapid metabolisers will inactivate more drug, and see a reduced effect
       * Poor metabolisers will see a prolonged clinical effect
   * Clinical effect may be altered by enzyme interactions
     * e.g. Oxycodone use by an ultra-fast metaboliser, in combination with a CYP3A4 inhibitor (e.g. diltiazem) will result in a significant increase in the clinical effect of oxycodone
