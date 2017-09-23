@@ -188,11 +188,18 @@ Factors affecting myocardial performance, independent of preload and afterload.
 * **Critical Length**  
 The length of axon which must be blocked in order to prevent action potential transmission. It is dependent on myelination and fibre diameter.
 
+* **Critical Point**  
+The point on a phase diagram where the liquid and gas phases of a substance have the same density, and are therefore indistinguishable.  
+	* This point is where a substance is at both its critical temperature and critical pressure
+
 * **Critical Pressure**  
 Pressure required to liquify a vapour at its critical temperature.
 
 * **Critical Temperature**  
 Temperature above which a substance cannot be liquified, irrespective of how much pressure is applied.
+
+* **Critical Volume**  
+The volume occupied by a given amount of substance at its critical point.
 
 ##D
 * **Dalton**  
@@ -397,6 +404,9 @@ How easily an excitable cell can be stimulated. Given by how close the resting m
 
 * **Isomer**  
 Compound with the same chemical formula, but different chemical structure or arrangement of atoms.
+
+* **Isotherm**  
+Line of constant temperature drawn on a pressure-volume graph for a gas, which describes the relationship between pressure, temperature, and volume for a particular gas.
 
 ##J
 * **Joule**  
