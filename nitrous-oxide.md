@@ -44,3 +44,4 @@ Entonox is a 50/50 mixture of nitrous oxide and oxygen, used as analgesia in lab
 4. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
 5. Emmanouil DE, Quock RM. [Advances in Understanding the Actions of Nitrous Oxide](http://www.anesthesiaprogress.org/doi/abs/10.2344/0003-3006%282007%2954%5B9%3AAIUTAO%5D2.0.CO%3B2). Anesthesia Progress. 2007;54(1):9-18. doi:10.2344/0003-3006(2007)54[9:AIUTAO]2.0.CO;2.
 6. Hendrickx, J., Peyton, P., Carette, R., & De Wolf, A. (2016). [Inhaled anaesthetics and nitrous oxide](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2614651/). European Journal of Anaesthesiology, 33(9), 611–619.
+7. Brown S, Sneyd J. [Nitrous oxide in modern anaesthetic practice](https://academic.oup.com/bjaed/article-pdf/16/3/87/9436668/mkv019.pdf). 2016. BJA Education, 16(3), 87–91.
