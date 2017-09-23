@@ -18,7 +18,7 @@ As the megakaryocyte cell volume increases, the cell wall invaginates and small 
 
 ##Contents
 * **α-granules**  
-  Contain fibrin, vWF, PDGF.
+  Contain fibrin, vWF, PDGF, and thrombin.
 * **δ-granules**  
     Contain 5-HT, ATP, ADP, and Ca<sup>2+</sup>.
 * **Contractile proteins**  
