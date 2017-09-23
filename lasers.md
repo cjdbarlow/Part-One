@@ -42,7 +42,7 @@ When more than 50% of electrons are at a higher energy level, **population inver
 
 ##Cons
 * Require multiple safety precautions
-    * Laser safety offier
+    * Laser safety officer
     * Eye protection
     * Warning signs on doors
     * Cover theatre windows
