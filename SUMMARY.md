@@ -292,6 +292,7 @@
   * [Antidepressants](antidepressants.md)
   * [Antipsychotics](antipsychotics.md)
   * [Anticonvulsants](anticonvulsants.md)
+  * [GABA Analogues](gaba-analogues.md)
   * [Inhalational Anaesthetic Agents](inhalational-anaesthetics.md)
   * [Nitrous Oxide](nitrous-oxide.md)
 * [Analgesics](opioids.md#id)
