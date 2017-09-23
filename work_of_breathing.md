@@ -10,7 +10,7 @@ Energy expenditure over time is better described as the "power of breathing".
 These factors have a significant effect on energy requirement.
   * This would be given by the **rate of work**, or **power**, where:  
   $$Power = {Work \over Time}$$, measured in Watts.
-  * Tidal breathing is efficient and uses <2% of BMR
+  * Tidal breathing is efficient and uses < 2% of BMR
 * The oxygen requirement of breathing at rest is ~2-5% of VO<sub>2</sub>, or ~3ml.min<sup>-1</sup>
 
 ##Determinants of Work of Breathing
@@ -20,7 +20,7 @@ About 65% of total work, and is stored as elastic potential energy. Energy requi
   * Lung elastic recoil
   * Surface tension of alveoli
 * **Resistive work**  
-About 35% of total work, and is lost as heat. Energy required to overcome frictional forces:
+About 35% of total work, and is lost as heat. This is due to the energy required to overcome frictional forces:
   * Between tissues
     * Increased with increased interstitial lung tissue
   * Between gas molecules
@@ -43,8 +43,11 @@ About 35% of total work, and is lost as heat. Energy required to overcome fricti
         * HME filters
       * Airway resistance varies depending on airway division:
         * Resistance peaks at the 3rd airway division (lobar bronchi)
-        * Falls with increasing airway divisions due to increased cross-sectional area
-        * GRAPH OF AIRWAY RESISTANCE BY DIVISION
+        * Falls with increasing airway divisions due to increased cross-sectional area  
+        <object data="resources\airway-gen-vs-resistance.svg.svg" type="image/svg+xml"></object>
+
+
+
 
 ###Graphing Work of Breathing
 Work of breathing can be evaluated with a dynamic lung compliance curve:
