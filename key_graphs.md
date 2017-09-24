@@ -244,6 +244,15 @@ Half-life progressively shortens, as the time taken to go from 50% to 25% is hal
 **Ventricular Action Potential - Hyperkalaemia:**
 <object data="resources\ventricular-ap-hyperk.svg" type="image/svg+xml"></object>
 
+###Basic Pressure-Volume Loops
+
+###Advanced-Pressure Volume Loops
+When drawing changes to more left-field pressure-volume loops which you may not have seen before approach them in the following way:
+* How is preload changed?
+* How is afterload changed?
+* How is contractility changed?
+* How are isovolumetric contraction and isovolumetric relaxation changed?
+
 ###Antiarrhythmics
 **Ventricular Action Potential - Class Ia:**
 <object data="resources\ventricular-ap-Ia.svg" type="image/svg+xml"></object>
@@ -301,7 +310,7 @@ Half-life progressively shortens, as the time taken to go from 50% to 25% is hal
 
 
 ##Haematology
-**Coagulation Cascade:*  
+**Coagulation Cascade:**  
 <object data="resources\Coagulation_full.svg" type="image/svg+xml"></object>
 
 
