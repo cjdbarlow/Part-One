@@ -2,7 +2,7 @@
 Graphs:
 * Help you to convey knowledge and understanding efficiently in the written
 * Are often a feature of the viva as they allow examiners to assess depth of understanding
-                   * You will be asked to demonstrate how they change under different physiological states
+* You will be asked to demonstrate how they change under different physiological states
 
 It is easy to get distracted by the curve, and forget the basics (especially in the written). To avoid this, approach them in the same way each time:
 * **Axis**  
