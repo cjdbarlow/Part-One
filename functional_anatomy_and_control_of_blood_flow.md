@@ -40,7 +40,7 @@ Renal blood flow is **autoregulated** over a wide range of mean arterial pressur
 * The macula densa lies in the wall of the ascending limb of the loop of Henle
 * It detects change in tubular flow rate (probably via changing Na<sup>+</sup> flux across its membrane)
     * Increased flow in the loop indicates an increased perfusion pressure, prompting release of adenosine and constriction of the afferent arteriole
-    * Decreased flow indicates a decreased perfusion pressure, reducing adenosine release and prompting the release of NO, which causes the afferent arteriole to dilate
+    * Decreased flow indicates a decreased perfusion pressure, reducing adenosine release and prompting the release of NO and renin, which causes the afferent arteriole to dilate
 
 
 Notably, flow to **juxtamedullary** nephrons is **not autoregulated**. High blood pressure  increases juxtamedullary flow, increasing GFR and impairing renal concentration, resulting in a **pressure diuresis**.
