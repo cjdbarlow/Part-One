@@ -1,4 +1,4 @@
-#Graphs
+#Key Graphs
 Graphs:
 * Allow you to convey knowledge and understanding efficiently in the written
 * Are often a feature of the viva as they allow examiners to assess depth of understanding
