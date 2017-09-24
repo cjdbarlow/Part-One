@@ -94,6 +94,8 @@ Half-life progressively shortens, as the time taken to go from 50% to 25% is hal
 [**First-Order Kinetics:**](metabolism.md#kin)  
 
 <object data="resources\first-order-kinetics.svg" type="image/svg+xml"></object>
+
+
 * A constant proportion of drug is eliminated per unit time
 * Half-life is a constant value
 
