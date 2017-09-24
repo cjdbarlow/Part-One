@@ -52,6 +52,8 @@ The time taken for a process to complete if it continued at its initial rate of 
     * Time constants are discussed in more detail under [respiratory time constants](time-constants.md)
     * Elimination will be virtually complete after three time constants
     * A time constant is the **inverse of the rate constant for elimination**, i.e. $$ \tau = {1 \over k }$$
+    * Illustration of the relationship between half-life and time constant:  
+    <object data="resources\half-life-and-time-constants.svg" type="image/svg+xml"></object>  
 
 
 * **Clearance**  
