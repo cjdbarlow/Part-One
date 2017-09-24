@@ -135,8 +135,6 @@ Draw the curve.
 
 <object data="resources\cardiac-function.svg" type="image/svg+xml"></object>
 
-<object data="resources\coronary.svg" type="image/svg+xml"></object>
-
 <object data="resources\Wiggers.svg" type="image/svg+xml"></object>
 
 <object data="resources\starling-curve.svg" type="image/svg+xml"></object>
