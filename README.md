@@ -1,10 +1,7 @@
 # Part One
 
 Part One is a reference for trainees preparing for the CICM and ANZCA Primary Exams.
-* Part One **is**:
-    * Designed to cover the *assessed* sections of the CICM and ANZCA curricula
-    * Designed to do so **in enough detail to pass**  
-    Use it as:
+* Part One **is** designed to cover the *assessed* sections of the CICM and ANZCA curricula **in enough detail to pass**. Use it as:
         * A rough guide for the expected depth of knowledge required on a topic
         * A tool to correct your written answers
         * A source of information you might find difficult to find elsewhere
@@ -49,7 +46,7 @@ With plugins from:
 * Graphs have been:
     * Written in [PGF/Tikz](https://ctan.org/pkg/pgf) using [texworks](https://www.tug.org/texworks/)
     * Converted to vector graphics with [dvisvgm](http://dvisvgm.bplaced.net/)
-
+* Chemical structures have been built in [MarvinSketch](https://www.chemaxon.com/products/marvin/marvinsketch/)
 
 ---
 
