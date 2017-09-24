@@ -34,14 +34,19 @@ Identify the key points of the curve and label these points. These include:
 * Log-transform of dose allows different drugs to be compared
 * Both red and blue drugs are full agonists (as they both reach 100% response), however the blue drug is more potent as it has a lower E<sub>D</sub>50
 
-<object data="resources\affinity.svg" type="image/svg+xml"></object>
-
+**Agonists**:
 <object data="resources\agonists-FA-IA-PA.svg" type="image/svg+xml"></object>
+* Partial agonists do not reach 100% response
+* Inverse agonists have a negative response
 
+**Antagonists**:
 <object data="resources\FA-with-nca-and-ca.svg" type="image/svg+xml"></object>
+* Non-competitive antagonists prevent maximal response being reached
+* Competitive agonists right shift the curve, as they can be overcome with increasing dose of agonist
 
+**Therapeutic Index**:
 <object data="resources\therapeutic-index.svg" type="image/svg+xml"></object>
-
+* Can be calculated from the ratio of the LD<sub>50</sub> and ED<sub>50</sub>.
 
 
 ###Models
