@@ -24,29 +24,34 @@ Identify the key points of the curve and label these points. These include:
 	e.g. The mixed venous point.
 
 ##Pharmacology
-**Dose-Response:
-**<object data="resources\dose-response.svg" type="image/svg+xml"></object>
+**Dose-Response:**
+<object data="resources\dose-response.svg" type="image/svg+xml"></object>
+
 * Dose response curve is a wash-in exponential
 * Difficult to compare different drugs using this curve
 
 **Log<sub>Dose</sub>-Response:**
 <object data="resources\fatex.svg" type="image/svg+xml"></object>
+
 * Log-transform of dose allows different drugs to be compared
 * Both red and blue drugs are full agonists (as they both reach 100% response), however the blue drug is more potent as it has a lower E<sub>D</sub>50
 
 **Agonists**:
 <object data="resources\agonists-FA-IA-PA.svg" type="image/svg+xml"></object>
+
 * Partial agonists do not reach 100% response
 * Inverse agonists have a negative response
 
 **Antagonists**:
 <object data="resources\FA-with-nca-and-ca.svg" type="image/svg+xml"></object>
+
 * Non-competitive antagonists prevent maximal response being reached
 * Competitive agonists right shift the curve, as they can be overcome with increasing dose of agonist
 
 **Therapeutic Index**:
 <object data="resources\therapeutic-index.svg" type="image/svg+xml"></object>
-* Can be calculated from the ratio of the LD<sub>50</sub> and ED<sub>50</sub>.
+
+* Can be calculated from the ratio of the LD<sub>50</sub> and ED<sub>50</sub>
 
 
 ###Models
@@ -60,6 +65,7 @@ There is no distribution possible.
 
 **Three-Compartment Model:**
 <object data="resources\3compartment.svg" type="image/svg+xml"></object>
+
 * Drug is added to and removed from the central compartment
 * Drug will also distribute to (and redistribute from) the peripheral compartments
 * Plasma concentration will depend on:
@@ -69,6 +75,7 @@ There is no distribution possible.
 
 **Effect-Site:**
 <object data="resources\3compartment+effect.svg" type="image/svg+xml"></object>
+
 * Drug distributes to the effect site from the central compartment
 * Effect site has no volume, but does have rate constants
 * t<sub>1/2</sub>ke0 is generally drawn with drug being eliminated from the effect site, however in reality this does not occur as drug should only be eliminated from the central compartment
