@@ -6,26 +6,33 @@ Graphs:
 
 It is easy to get distracted by the curve, and forget the basics (especially in the written). To avoid this, approach them in the same way each time:
 * **Axis**  
-First draw, the axis.
+First draw the axis.
 	* If the axis is continuous (e.g. PaO<sub>2</sub>), ensure you place an arrow at the far end
 	* If the axis ends at a fixed point (e.g. SpO<sub>2</sub>), ensure you place a bar at the end to signify it does not continue indefinitely
+* **Labels**  
+Label each axis with what it is representing.
 * **Units**  
-Label each axis **with appropriate units**.
-	* In the viva, you can just say this out loud
+Give each label **appropriate units**.
+	* In the viva, you can just say this out loud as you're drawing the axes
 * **Curve**  
 Draw the curve.
+* **Special Points**  
+Identify the key points of the curve and label these points. These include:
+	* Intercepts
+	* Inflection points 
+	* Important values  
+	e.g. The mixed venous point.
 
 ##Pharmacology
-<object data="resources\1compartment.svg" type="image/svg+xml"></object>
+**Dose-Response:
+**<object data="resources\dose-response.svg" type="image/svg+xml"></object>
+* Dose response curve is a wash-in exponential
+* Difficult to compare different drugs using this curve
 
-<object data="resources\3compartment+effect.svg" type="image/svg+xml"></object>
-
-<object data="resources\3compartment.svg" type="image/svg+xml"></object>
-
-<object data="resources\dose-response.svg" type="image/svg+xml"></object>
-
+**Log<sub>Dose</sub>-Response:**
 <object data="resources\fatex.svg" type="image/svg+xml"></object>
-
+* Log-transform of dose allows different drugs to be compared
+* Both red and blue drugs are full agonists (as they both reach 100% response), however the blue drug is more potent as it has a lower E<sub>D</sub>50
 
 <object data="resources\affinity.svg" type="image/svg+xml"></object>
 
@@ -34,6 +41,36 @@ Draw the curve.
 <object data="resources\FA-with-nca-and-ca.svg" type="image/svg+xml"></object>
 
 <object data="resources\therapeutic-index.svg" type="image/svg+xml"></object>
+
+
+
+###Models
+**The One-Compartment Model:**
+<object data="resources\1compartment.svg" type="image/svg+xml"></object>
+
+* Drug is added to and removed from the single central compartment  
+There is no distribution possible.
+* V<sub>1</sub> is equal to the volume of distribution
+* k<sub>10<sub> is the rate constant for elimination
+
+**Three-Compartment Model:**
+<object data="resources\3compartment.svg" type="image/svg+xml"></object>
+* Drug is added to and removed from the central compartment
+* Drug will also distribute to (and redistribute from) the peripheral compartments
+* Plasma concentration will depend on:
+	* Rate of drug delivery
+	* Rate of drug distribution and redistribution
+	* Rate of drug elimination
+
+**Effect-Site:**
+<object data="resources\3compartment+effect.svg" type="image/svg+xml"></object>
+* Drug distributes to the effect site from the central compartment
+* Effect site has no volume, but does have rate constants
+* t<sub>1/2</sub>ke0 is generally drawn with drug being eliminated from the effect site, however in reality this does not occur as drug should only be eliminated from the central compartment
+
+
+
+
 
 
 
