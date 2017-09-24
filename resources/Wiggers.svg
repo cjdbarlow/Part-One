@@ -49,8 +49,8 @@
 	<text x="53.659077" y="322.5506"  transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" id="text99"  style="font-size:19.99980736px;font-family:Nimbus Sans L">Isovolumetric contraction</text>
 	<text x="100.55453" y="369.44489" transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" id="text103" style="font-size:19.99980736px;font-family:Nimbus Sans L">Ejection</text>
 	<text x="148.01144" y="416.90179" transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" id="text101" style="font-size:19.99980736px;font-family:Nimbus Sans L">Isovolumetric relaxation</text>
-	<text x="185.25137" y="454.14032" transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" id="text201" style="font-size:19.99980736px;font-family:Nimbus Sans L">Rapid inflow</text>
-	<text x="235.84599" y="504.73633" transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" id="text199" style="font-size:19.99980736px;font-family:Nimbus Sans L">Diastasis</text>
+	<text x="185.25137" y="454.14032" transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" id="text201" style="font-size:19.99980736px;font-family:Nimbus Sans L">Rapid Ventricular Filling</text>
+	<text x="235.84599" y="504.73633" transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" id="text199" style="font-size:19.99980736px;font-family:Nimbus Sans L">Slow Ventricular Filling</text>
 	<text x="288.34244" y="557.2312"  transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" id="text109" style="font-size:19.99980736px;font-family:Nimbus Sans L">Atrial systole</text>
 	<text x="858.67676" y="267.53058" id="text151" style="font-size:20px;font-family:Nimbus Sans L">Aortic pressure</text>
 	<text x="858.67676" y="413.54138" id="text177" style="font-size:20px;font-family:Nimbus Sans L">Atrial pressure</text>
