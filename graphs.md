@@ -37,7 +37,7 @@ Draw the curve.
 
 
 
-<object data="resources\half-life-and-time-constants.svg" type="image/svg+xml"></object>  
+<object data="resources\zero-order-kinetics.svg" type="image/svg+xml"></object>  
 
 <object data="resources\first-order-kinetics.svg" type="image/svg+xml"></object>              
 
