@@ -1,6 +1,6 @@
 #Key Graphs
 Graphs:
-* Allow you to convey knowledge and understanding efficiently in the written
+* Help you to convey knowledge and understanding efficiently in the written
 * Are often a feature of the viva as they allow examiners to assess depth of understanding
                    * You will be asked to demonstrate how they change under different physiological states
 
