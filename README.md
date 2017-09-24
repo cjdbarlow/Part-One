@@ -2,9 +2,9 @@
 
 Part One is a reference for trainees preparing for the CICM and ANZCA Primary Exams.
 * Part One **is** designed to cover the *assessed* sections of the CICM and ANZCA curricula **in enough detail to pass**. Use it as:
-        * A rough guide for the expected depth of knowledge required on a topic
-        * A tool to correct your written answers
-        * A source of information you might find difficult to find elsewhere
+    * A rough guide for the expected depth of knowledge required on a topic
+    * A tool to correct your written answers
+    * A source of information you might find difficult to find elsewhere
 * Part One **is not**:
     * A medical textbook
     * The definitive guide to the primary exam  
