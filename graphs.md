@@ -159,11 +159,14 @@ Draw the curve.
 
 <object data="resources\ventricular-ap-hyperk.svg" type="image/svg+xml"></object>             
 
+###Antiarrhythmics
 <object data="resources\ventricular-ap-Ia.svg" type="image/svg+xml"></object>                 
 
 <object data="resources\ventricular-ap-Ib.svg" type="image/svg+xml"></object>                 
 
 <object data="resources\ventricular-ap-Ic.svg" type="image/svg+xml"></object>                 
+
+<object data="resources\pacemaker-betablock.svg" type="image/svg+xml"></object>
 
 <object data="resources\ventricular-ap-III.svg" type="image/svg+xml"></object>                
 
