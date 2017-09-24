@@ -113,7 +113,10 @@ Half-life progressively shortens, as the time taken to go from 50% to 25% is hal
 
 ###Pharmacodynamics
 **Isobologram:**  
+
 <object data="resources\isobologram.svg" type="image/svg+xml"></object>
+
+
 * Plots a line of equal clinical effect between two drug concentrations
 
 **Plasma-Site Targeting:**
