@@ -105,7 +105,6 @@ Half-life progressively shortens, as the time taken to go from 50% to 25% is hal
 <object data="resources\biexponent.svg" type="image/svg+xml"></object>
 
 
-
 * Note that concentration has been log-transformed
 * This describes the elimination of drug from a two compartment model
 
