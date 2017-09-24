@@ -82,7 +82,10 @@ There is no distribution possible.
 
 ###Pharmacokinetics
 [**Zero-order kinetics:**](metabolism.md#kin)  
+
 <object data="resources\zero-order-kinetics.svg" type="image/svg+xml"></object>
+
+
 * A constant amount of drug is eliminated per unit time
 * Half-life is not a constant value  
 Half-life progressively shortens, as the time taken to go from 50% to 25% is half the time it took to go from 100% to 50%.
