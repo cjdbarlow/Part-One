@@ -335,7 +335,7 @@
 ## Appendices
 
 * [Definitions](definitions.md)
-* [Key Graphs](graphs.md)
+* [Key Graphs](key_graphs.md)
 * [Laws and Equations](laws.md)
 * [Structures for SAQs](frameworks_for_classification.md)
 
