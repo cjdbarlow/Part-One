@@ -170,6 +170,7 @@ Draw the curve.
 
 <object data="resources\ventricular-ap-III.svg" type="image/svg+xml"></object>                
 
+<object data="resources\pacemaker-cablock.svg" type="image/svg+xml"></object>
 
 ##CNS
 <object data="resources\monroe-kellie.svg" type="image/svg+xml"></object>                     
