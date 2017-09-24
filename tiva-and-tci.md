@@ -38,24 +38,18 @@ A loading dose is given to saturate the volume of distribution to achieve target
             * Infusion is paused until desired level is reached
             * Infusion rate restarts at a lower rate
 
-Models can target either:
-* Plasma concentration, $$C_P$$  
+Models can **target** either:
+* **Plasma concentration**, $$C_P$$  
 Will not approximate $$C_E$$ until stead state is reached. Therefore:
     * Increase $$C_P$$ during induction, so that $$C_E$$ will rise more quickly
     * $$C_P$$ should be adjusted to the level of the surgical stimulus
         
 <object data="resources\plasma-site-targeting.svg" type="image/svg+xml"></object>
         
-* Effect-site concentration, $$C_E$$  
+* **Effect-site** concentration, $$C_E$$  
 Over-pressure occurs automatically, so there is no requirement to increase target during induction.
 
 <object data="resources\effect-site-targeting.svg" type="image/svg+xml"></object>
-
-
-
-
-
-
 
 
 ###TCI Models for Propofol
