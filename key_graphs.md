@@ -102,12 +102,14 @@ Half-life progressively shortens, as the time taken to go from 50% to 25% is hal
 
 
 ###Pharmacodynamics
-**Isobologram:**
+**Isobologram:**  
 <object data="resources\isobologram.svg" type="image/svg+xml"></object>
 * Plots a line of equal clinical effect between two drug concentrations
 
+**Plasma-Site Targeting:**
 <object data="resources\plasma-site-targeting.svg" type="image/svg+xml"></object>
 
+**Effect-Site Targeting:**
 <object data="resources\effect-site-targeting.svg" type="image/svg+xml"></object>
 
 
@@ -115,19 +117,17 @@ Half-life progressively shortens, as the time taken to go from 50% to 25% is hal
 
 
 ##Statistics
-<object data="resources\normaldist.svg" type="image/svg+xml"></object>
-
-
+**Boxplot:**  
 <object data="resources\boxplot.svg" type="image/svg+xml"></object>
-
-<object data="resources\forest.svg" type="image/svg+xml"></object>
 
 
 
 ##Respiratory
 ###Oxygen
+**Oxygen Cascade**:
 <object data="resources\o2cascade.svg" type="image/svg+xml"></object>
 
+**Oxyhaemoglobin Dissociation Curve:**
 <object data="resources\oxyhb-curve.svg" type="image/svg+xml"></object>
 
 <object data="resources\oxy-hb-curve-shifts.svg" type="image/svg+xml"></object>
