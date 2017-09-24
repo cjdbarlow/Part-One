@@ -274,36 +274,4 @@ Draw the curve.
 
 <object data="resources\Propofol.svg" type="image/svg+xml"></object>                          
 
-
-
-                    
-
-
-<object data="resources\LV-cbf.svg" type="image/svg+xml"></object>                            
-
-                 
-
-
-
-
-
-
-<object data="resources\regional-ventilation-and-perfusion.svg" type="image/svg+xml"></object>
-
-
-
-
-               
-
-
-
-
-                 
-
-
-
-                 
-
-<object data="resources\zero-order-kinetics.svg" type="image/svg+xml"></object>               
-
 ---
