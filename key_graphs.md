@@ -132,18 +132,20 @@ Half-life progressively shortens, as the time taken to go from 50% to 25% is hal
 
 <object data="resources\oxy-hb-curve-shifts.svg" type="image/svg+xml"></object>
 
+**Double-Bohr Effect:**  
 <object data="resources\Oxyhb-curve-double-bohr.svg" type="image/svg+xml"></object>
 
+**PaO<sub>2</sub> and Minute Ventilation:**  
 <object data="resources\PaO2-vs-MV.svg" type="image/svg+xml"></object>
 
+**Isoshunt Diagram:**  
 <object data="resources\isoshunt.svg" type="image/svg+xml"></object>
 
 
 ###Carbon Dioxide
-
+**Carbon Dioxide Dissociation Curve:**  
 <object data="resources\co2-dissociation-curve.svg" type="image/svg+xml"></object>
 
-<object data="resources\fev1-and-fvc.svg" type="image/svg+xml"></object>
 
 <object data="resources\paco2-vs-MV.svg" type="image/svg+xml"></object>
 
@@ -171,6 +173,11 @@ Half-life progressively shortens, as the time taken to go from 50% to 25% is hal
 <object data="resources\workofbreathing-obstructive.svg" type="image/svg+xml"></object>
 
 <object data="resources\First-Breath.svg" type="image/svg+xml"></object>
+
+###Spirometry
+<object data="resources\fev1-and-fvc.svg" type="image/svg+xml"></object>
+
+<object data="resources\spirograph.svg" type="image/svg+xml"></object>
 
 
 
