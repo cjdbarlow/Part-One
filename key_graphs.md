@@ -87,14 +87,18 @@ There is no distribution possible.
 * Half-life is not a constant value  
 Half-life progressively shortens, as the time taken to go from 50% to 25% is half the time it took to go from 100% to 50%.
 
+
 [**First-Order Kinetics:**](metabolism.md#kin)  
+
 <object data="resources\first-order-kinetics.svg" type="image/svg+xml"></object>
 * A constant proportion of drug is eliminated per unit time
 * Half-life is a constant value
 
 	
-[**Biexponential elimination:**](pharmacokinetic_modelling#bi)
+[**Biexponential elimination:**](pharmacokinetic_modelling.md#bi)  
+
 <object data="resources\biexponent.svg" type="image/svg+xml"></object>
+
 * Note that concentration has been log-transformed
 * This describes the elimination of drug from a two compartment model
 
