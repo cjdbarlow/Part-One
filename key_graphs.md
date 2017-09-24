@@ -81,40 +81,30 @@ There is no distribution possible.
 * t<sub>1/2</sub>ke0 is generally drawn with drug being eliminated from the effect site, however in reality this does not occur as drug should only be eliminated from the central compartment
 
 ###Pharmacokinetics
-**Zero-order kinetics:**  
+[**Zero-order kinetics:**](metabolism.md#kin)  
 <object data="resources\zero-order-kinetics.svg" type="image/svg+xml"></object>
 * A constant amount of drug is eliminated per unit time
 * Half-life is not a constant value  
 Half-life progressively shortens, as the time taken to go from 50% to 25% is half the time it took to go from 100% to 50%.
 
-**First-Order Kinetics:**  
+[**First-Order Kinetics:**](metabolism.md#kin)  
 <object data="resources\first-order-kinetics.svg" type="image/svg+xml"></object>
 * A constant proportion of drug is eliminated per unit time
 * Half-life is a constant value
 
-**Half-life and Time
-
-
-<object data="resources\michalis-menten.svg" type="image/svg+xml"></object>
-
+	
+[**Biexponential elimination:**](pharmacokinetic_modelling#bi)
 <object data="resources\biexponent.svg" type="image/svg+xml"></object>
-
+* Note that concentration has been log-transformed
+* This describes the elimination of drug from a two compartment model
 
 
 
 
 ###Pharmacodynamics
-
-
-
-
-
-
-
-
-
-
+**Isobologram:**
 <object data="resources\isobologram.svg" type="image/svg+xml"></object>
+* Plots a line of equal clinical effect between two drug concentrations
 
 <object data="resources\plasma-site-targeting.svg" type="image/svg+xml"></object>
 

@@ -120,7 +120,7 @@ This is covered under two-compartment models below.
     * **Excretion**  
     Excretion is the removal of drug from the body. 
 
-####Clearance in Two-Compartment Models
+####Clearance in Two-Compartment Models{#bi}
 Removal of drug in two-compartment models is via:
 * Distribution from the central to the peripheral compartment
 * Elimination from the central compartment

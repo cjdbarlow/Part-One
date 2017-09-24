@@ -32,7 +32,7 @@ Total clearance is the sum of clearances from individual organs, e.g.:
   
 
 
-##Kinetics
+##Kinetics{#kin}
 Drug clearance can follow either first order or zero-order kinetics:
 
 * **First-order Kinetics**  
@@ -55,7 +55,12 @@ A **constant amount of drug** is eliminated per unit time, independent of how mu
 
 <object data="resources\zero-order-kinetics.svg" type="image/svg+xml"></object>
 
+###Michaelis-Menten
+The Michaelis-Menten equation describes the transition from first order to zero order kinetics as drug concentration increases:
 
+<object data="resources\michalis-menten.svg" type="image/svg+xml"></object>
+* Metabolism increases proportionally with concentration as long as the concentration of drug leaving the organ of metabolism (e.g. in the hepatic vein) is less than half of the maximal concentration of drug that organ can metabolise
+  * This is ~1/3<sup>rd</sup> of the maximal rate of metabolism
 
 
 ##Hepatic Metabolism
