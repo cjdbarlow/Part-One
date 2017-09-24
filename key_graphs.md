@@ -152,8 +152,12 @@ Half-life progressively shortens, as the time taken to go from 50% to 25% is hal
 <object data="resources\PaO2-vs-MV.svg" type="image/svg+xml"></object>
 
 **Isoshunt Diagram:**  
+
 <object data="resources\isoshunt.svg" type="image/svg+xml"></object>
 
+
+* At 50% shunt, PaO2 is essentially independent of PAO2
+* At 30% shunt, PaO2 cannot increase above 100mmHg
 
 ###Carbon Dioxide
 **Carbon Dioxide Dissociation Curve:**  
