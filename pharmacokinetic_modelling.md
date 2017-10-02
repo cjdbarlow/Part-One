@@ -73,7 +73,7 @@ Amount of drug removed by the body per unit time.
 ##Compartmental Modelling
 The simplest model imagines the body a single, well-stirred compartment. 
 
-<img src="resources\1compartment.svg">
+<img src="resources\1compartment.svg" style="width: 10pc;">
 
 In a one compartment model, the concentration of a drug ($$C$$) at time $$t$$ is given by the equation:
 
