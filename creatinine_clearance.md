@@ -48,7 +48,7 @@ A sudden drop in glomerular filtration (e.g. aortic cross-clamp) will not result
     Creatinine must be produced and not eliminated for it to rise.
 
 
-<object data="resources\gfr-vs-creatinine.svg" type="image/svg+xml"></object>
+<img src="resources\gfr-vs-creatinine.svg">
 
 ###Estimating Creatinine Clearance
 Using the above formula requires measurement of urine volume. This is:

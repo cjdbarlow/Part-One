@@ -26,7 +26,7 @@ Oxygen tension is measured with a **Clarke electrode**. This consists of:
   * Contains a silver/silver Chloride anode
 * A battery applying 0.6V across the electrodes
 
-<object data="resources\clark-electrode.svg" type="image/svg+xml"></object>
+<img src="resources\clark-electrode.svg">
 
 ###Method
 * A voltage of **0.6V** is applied across the electrodes, causing the silver to reactive with chloride in the solution to produce electrons:  
@@ -53,7 +53,7 @@ pH is a measure of the hydrogen ion concentration[^1] in solution, and is define
   *  A change in a pH unit of 1 is equivalent to a 10-fold change in the [H<sup>+</sup>]
   *  A change in pH of 0.3 is equal to doubling or halving the [H<sup>+</sup>]
 
-<object data="resources\ph-electrode.svg" type="image/svg+xml"></object>
+<img src="resources\ph-electrode.svg">
 
 The pH electrode consists of:
 * A chamber for the blood sample
@@ -90,7 +90,7 @@ Carbon dioxide tension is measured with a **Severinghaus electrode**, which is b
   * A KCl solution
   * A mercury/mercury chloride reference electrode
 
-<object data="resources\severinghaus.svg" type="image/svg+xml"></object>
+<img src="resources\severinghaus.svg">
 
 ###Method
 * CO<sub>2</sub> diffuses from blood into the bicarbonate chamber

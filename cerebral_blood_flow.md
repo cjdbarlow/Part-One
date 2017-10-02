@@ -26,7 +26,7 @@ These are also called rheologic factors.
   * In normal circumstances, this is dependent on MAP (i.e., with a normal ICP < 10mmHg, CBF is regulated over a MAP range of 50-150mmHg).
 * Note that more **recent evidence** would suggest that CBF is autoregulated over a much narrower range of perfusion pressures, and has a greater capacity to buffer an increased rather than decreased perfusion pressure
 
-<object data="resources\CPP-vs-CBF.svg" type="image/svg+xml"></object>
+<img src="resources\CPP-vs-CBF.svg">
 
 
 * At the lower limit, the reduced perfusion pressure means flow cannot be maintained even with maximal vasodilation
@@ -55,7 +55,7 @@ Vessel calibre is affected primarily by four factors:
 * **Temperature**  
  CMRO<sub>2</sub> decreases linearly by ~7% per degree centigrade, allowing prolonged periods of reduced CBF without ischaemic complications.
 
-<object data="resources\temp-vs-CBF.svg" type="image/svg+xml"></object>
+<img src="resources\temp-vs-CBF.svg">
 
 
 ###PaCO<sub>2</sub>
@@ -69,7 +69,7 @@ Vessel calibre is affected primarily by four factors:
   The mechanism of action is complex, but involves local increase in H<sup>+</sup> ions.
   * Changes to CBF with CO<sub>2</sub> are dependent on current arteriolar tone - vasodilatory effects of CO<sub>2</sub> are significantly reduced when the perfusing pressure is low.
 
-<object data="resources\PaCO2-vsCBF.svg" type="image/svg+xml"></object>
+<img src="resources\PaCO2-vsCBF.svg">
 
 
 
@@ -77,7 +77,7 @@ Vessel calibre is affected primarily by four factors:
 * CBF increases rapidly when PaO<sub>2</sub> falls below 60mmHg so that cerebral oxygen delivery is maintained  
 Hypoxia causes a release of adenosine and reduced calcium uptake, with subsequent vasodilation
 
-<object data="resources\PaO2-vs-CBF.svg" type="image/svg+xml"></object>
+<img src="resources\PaO2-vs-CBF.svg">
 
 
 ###Neurohormonal

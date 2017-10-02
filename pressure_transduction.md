@@ -81,10 +81,10 @@ A pressure tranduction system should be adequately damped:
   * Systolic pressure overshoot
   * Artifactual bumps
 
-<object data="resources\damping2.svg" type="image/svg+xml"></object>
+<img src="resources\damping2.svg">
 
 
-<object data="resources\damping.svg" type="image/svg+xml"></object>
+<img src="resources\damping.svg">
 
 
 ###Testing Dynamic Response

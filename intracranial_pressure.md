@@ -14,7 +14,7 @@ In addition, a second set of Lundberg waves are described:
 
 **Raised intracranial pressure** may cause focal ischaemia when ICP >20mmHg, and global ischaemia when the ICP >50mmHg:
 
-<object data="resources\monroe-kellie.svg" type="image/svg+xml"></object>
+<img src="resources\monroe-kellie.svg">
 
 
 ##Monroe Kellie Doctrine

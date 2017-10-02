@@ -38,3 +38,11 @@ path.bgline {
     display:block;
     overflow-x: auto;
 }
+
+@media (min-width:801px) {
+    img {
+        display: block;
+        margin: left;
+        width: 50%;
+    }
+}

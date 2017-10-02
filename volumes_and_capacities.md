@@ -13,7 +13,7 @@ The lung has four volumes and four (main) capacities:
 * A **volume** is measured directly
 * A **capacity** is a **sum of volumes**
 
-<object data="resources\spirograph.svg" type="image/svg+xml"></object>
+<img src="resources\spirograph.svg">
 
 
 ##Volumes
@@ -186,7 +186,7 @@ Closing capacity is the sum of residual volume and closing volume.
         * CC exceeds FRC in the erect patient at 66
   * This is clinically relevant during **preoxygenation**, as it will limit the denitrogenation that can occur
 
-<object data="resources\closing-capacity-vs-age.svg.svg" type="image/svg+xml"></object>
+<img src="resources\closing-capacity-vs-age.svg.svg">
 
 
 

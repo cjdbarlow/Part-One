@@ -25,12 +25,12 @@ Located in the aortic arch, and innervated by the vagus (CN X).
 Peripheral chemoreceptors are stimulated by:
 * **Low PaO<sub>2</sub>**  
   Peripheral chemoreceptors are stimulated by **low O<sub>2</sub> tension**  
-  <object data="resources\PaO2-vs-MV.svg" type="image/svg+xml"></object>
+  <img src="resources\PaO2-vs-MV.svg">
 
 
 * **High PaCO<sub>2</sub>**  
   Peripheral receptors have a **rapid** (~1-3s) but **weaker** (~20% of response) to changes in CO<sub>2</sub>, compared to central chemoreceptors  
-<object data="resources\PaCO2-vs-MV.svg" type="image/svg+xml"></object>
+<img src="resources\PaCO2-vs-MV.svg">
 
 * **Acidaemia**  
   (Carotid bodies only)

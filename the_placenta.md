@@ -46,7 +46,7 @@ The Bohr effect states that an **increase** in **PaCO<sub>2</sub>** **right-shif
       * O<sub>2</sub> unloading of maternal blood is favoured
       * O<sub>2</sub> loading of foetal blood is favoured
 
-<object data="resources\Oxyhb-curve-double-bohr.svg.svg" type="image/svg+xml"></object>
+<img src="resources\Oxyhb-curve-double-bohr.svg.svg">
 
 
 ####CO<sub>2</sub> Diffusion

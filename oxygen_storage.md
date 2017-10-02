@@ -17,7 +17,7 @@ The plateau allows oxygen **content** to remain high, even if the PaO<sub>2</sub
 * Maintenance of diffusion gradient to tissues  
 The steep section allows a large amount of oxygen to be delivered with only a small drop in PaO<sub>2</sub>, which allows the rate of oxygen delivery to be maintained (as the blood-tissue partial pressure gradient is steep) with an increase in oxygen demand.
 
-<object data="resources\oxyhb.svg" type="image/svg+xml"></object>
+<img src="resources\oxyhb.svg">
 
 
 * The sigmoid shape exists due to **cooperative binding**  

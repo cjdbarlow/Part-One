@@ -25,38 +25,38 @@ Identify the key points of the curve and label these points. These include:
 
 ##Pharmacology
 **Dose-Response:**  
-<object data="resources\dose-response.svg" type="image/svg+xml" width="500"></object>
+<img src="resources\dose-response.svg" type="image/svg+xml" width="500"></object>
 
 * Dose response curve is a wash-in exponential
 * Difficult to compare different drugs using this curve
 
 **Log<sub>Dose</sub>-Response:**  
-<object data="resources\fatex.svg" type="image/svg+xml"></object>
+<img src="resources\fatex.svg">
 
 * Log-transform of dose allows different drugs to be compared
 * Both red and blue drugs are full agonists (as they both reach 100% response), however the blue drug is more potent as it has a lower E<sub>D</sub>50
 
 **Agonists:**  
-<object data="resources\agonists-FA-IA-PA.svg" type="image/svg+xml"></object>
+<img src="resources\agonists-FA-IA-PA.svg">
 
 * Partial agonists do not reach 100% response
 * Inverse agonists have a negative response
 
 **Antagonists:**  
-<object data="resources\FA-with-nca-and-ca.svg" type="image/svg+xml"></object>
+<img src="resources\FA-with-nca-and-ca.svg">
 
 * Non-competitive antagonists prevent maximal response being reached
 * Competitive agonists right shift the curve, as they can be overcome with increasing dose of agonist
 
 **Therapeutic Index:**  
-<object data="resources\therapeutic-index.svg" type="image/svg+xml"></object>
+<img src="resources\therapeutic-index.svg">
 
 * Can be calculated from the ratio of the LD<sub>50</sub> and ED<sub>50</sub>
 
 
 ###Models
 **The One-Compartment Model:**  
-<object data="resources\1compartment.svg" type="image/svg+xml"></object>
+<img src="resources\1compartment.svg">
 
 * Drug is added to and removed from the single central compartment  
 There is no distribution possible.
@@ -64,7 +64,7 @@ There is no distribution possible.
 * k<sub>10<sub> is the rate constant for elimination
 
 **Three-Compartment Model:**  
-<object data="resources\3compartment.svg" type="image/svg+xml"></object>
+<img src="resources\3compartment.svg">
 
 * Drug is added to and removed from the central compartment
 * Drug will also distribute to (and redistribute from) the peripheral compartments
@@ -74,7 +74,7 @@ There is no distribution possible.
 	* Rate of drug elimination
 
 **Effect-Site:**  
-<object data="resources\3compartment+effect.svg" type="image/svg+xml"></object>
+<img src="resources\3compartment+effect.svg">
 
 * Drug distributes to the effect site from the central compartment
 * Effect site has no volume, but does have rate constants
@@ -83,7 +83,7 @@ There is no distribution possible.
 ###Pharmacokinetics
 [**Zero-order kinetics:**](metabolism.md#kin)  
 
-<object data="resources\zero-order-kinetics.svg" type="image/svg+xml"></object>
+<img src="resources\zero-order-kinetics.svg">
 
 
 * A constant amount of drug is eliminated per unit time
@@ -93,7 +93,7 @@ Half-life progressively shortens, as the time taken to go from 50% to 25% is hal
 
 [**First-Order Kinetics:**](metabolism.md#kin)  
 
-<object data="resources\first-order-kinetics.svg" type="image/svg+xml"></object>
+<img src="resources\first-order-kinetics.svg">
 
 
 * A constant proportion of drug is eliminated per unit time
@@ -102,7 +102,7 @@ Half-life progressively shortens, as the time taken to go from 50% to 25% is hal
 	
 [**Biexponential elimination:**](pharmacokinetic_modelling.md#bi)  
 
-<object data="resources\biexponent.svg" type="image/svg+xml"></object>
+<img src="resources\biexponent.svg">
 
 
 * Note that concentration has been log-transformed
@@ -115,7 +115,7 @@ Half-life progressively shortens, as the time taken to go from 50% to 25% is hal
 [**Isobologram:**](drug_interactions.md#iso)  
 
 
-<object data="resources\isobologram.svg" type="image/svg+xml"></object>
+<img src="resources\isobologram.svg">
 
 
 * Plots lines of equal activity versus concentratin of two drugs
@@ -124,7 +124,7 @@ Half-life progressively shortens, as the time taken to go from 50% to 25% is hal
 [**Plasma-Site Targeting:**](tiva-and-tci.md#tci)
 
 
-<object data="resources\plasma-site-targeting.svg" type="image/svg+xml"></object>
+<img src="resources\plasma-site-targeting.svg">
 
 
 TCI graphs are easy to draw if you remember that:
@@ -144,7 +144,7 @@ Therefore in plasma site targeting:
 [**Effect-Site Targeting:**](tiva-and-tci.md#tci)
 
 
-<object data="resources\effect-site-targeting.svg" type="image/svg+xml"></object>
+<img src="resources\effect-site-targeting.svg">
 
 
 * Plasma concentration overshoots effect-site target and then declines rapidly
@@ -157,7 +157,7 @@ Therefore in plasma site targeting:
 **Boxplot:**  
 
 
-<object data="resources\boxplot.svg" type="image/svg+xml"></object>
+<img src="resources\boxplot.svg">
 
 
 * Box is defined by the 25<sup>th</sup> and 75<sup>th</sup> centiles
@@ -172,7 +172,7 @@ Therefore in plasma site targeting:
 **Oxygen Cascade**:
 
 
-<object data="resources\o2cascade.svg" type="image/svg+xml"></object>
+<img src="resources\o2cascade.svg">
 
 
 * Graph of location versus oxygen partial pressure
@@ -192,7 +192,7 @@ Greater than tissue PO<sub>2</sub> as not all oxygen in blood diffuses into or i
 **Oxyhaemoglobin Dissociation Curve:**
 
 
-<object data="resources\oxyhb-curve.svg" type="image/svg+xml"></object>
+<img src="resources\oxyhb-curve.svg">
 
 
 * Graph of PaO<sub>2</sub> versus oxygen saturation
@@ -207,7 +207,7 @@ Greater than tissue PO<sub>2</sub> as not all oxygen in blood diffuses into or i
 	* The arterial point is 97% saturated at 100mmHg
 
 
-<object data="resources\oxy-hb-curve-shifts.svg" type="image/svg+xml"></object>
+<img src="resources\oxy-hb-curve-shifts.svg">
 
 
 * The curve may be right-shifted by:
@@ -221,7 +221,7 @@ Greater than tissue PO<sub>2</sub> as not all oxygen in blood diffuses into or i
 **Double-Bohr Effect:**  
 
 
-<object data="resources\Oxyhb-curve-double-bohr.svg" type="image/svg+xml"></object>
+<img src="resources\Oxyhb-curve-double-bohr.svg">
 
 * The double Bohr effect can easily become confusing, especially when you are under pressure and only allowed one colour (as in the written exam)  
 Here is a straightforward method which minimises the confusion:
@@ -233,11 +233,11 @@ Here is a straightforward method which minimises the confusion:
 
 
 **PaO<sub>2</sub> and Minute Ventilation:**  
-<object data="resources\PaO2-vs-MV.svg" type="image/svg+xml"></object>
+<img src="resources\PaO2-vs-MV.svg">
 
 **Isoshunt Diagram:**  
 
-<object data="resources\isoshunt.svg" type="image/svg+xml"></object>
+<img src="resources\isoshunt.svg">
 
 
 * At 50% shunt, PaO2 is essentially independent of PAO2
@@ -245,105 +245,105 @@ Here is a straightforward method which minimises the confusion:
 
 ###Carbon Dioxide
 **Carbon Dioxide Dissociation Curve:**  
-<object data="resources\co2-dissociation-curve.svg" type="image/svg+xml"></object>
+<img src="resources\co2-dissociation-curve.svg">
 
 **PaCO<sub>2</sub> and Minute Ventilation:**
-<object data="resources\paco2-vs-MV.svg" type="image/svg+xml"></object>
+<img src="resources\paco2-vs-MV.svg">
 
 **Alveolar Ventilation and PaCO<sub>2</sub>:** 
-<object data="resources\VA-vs-paco2.svg" type="image/svg+xml"></object>
+<img src="resources\VA-vs-paco2.svg">
 
 
 
 ###Anatomical and Physiological Interactions
 **Closing Capacity and Age:**  
-<object data="resources\closing-capacity-vs-age.svg" type="image/svg+xml"></object>
+<img src="resources\closing-capacity-vs-age.svg">
 
 **Diffusion and Perfusion Limitation:**
-<object data="resources\diffusion-vs-perfusion-limitation.svg" type="image/svg+xml"></object>
+<img src="resources\diffusion-vs-perfusion-limitation.svg">
 
 **Regional Ventilation and Perfusion:**  
-<object data="resources\regional-ventilation-and-perfusion.svg" type="image/svg+xml"></object>
+<img src="resources\regional-ventilation-and-perfusion.svg">
 
 **Airway Resistance and Airway Generation:**
-<object data="resources\airway-gen-vs-resistance.svg" type="image/svg+xml"></object>
+<img src="resources\airway-gen-vs-resistance.svg">
 
 **Airway Resistance and Lung Volume:**
-<object data="resources\lungvol-vs-airway-resistance.svg" type="image/svg+xml"></object>
+<img src="resources\lungvol-vs-airway-resistance.svg">
 
 **Pulmonary Vascular Resistance and Pulmonary Artery Pressure:**  
-<object data="resources\pap-vs-pvr.svg" type="image/svg+xml"></object>
+<img src="resources\pap-vs-pvr.svg">
 
 **Lung and Chest Wall Volume and Pressure Relationships:**
-<object data="resources\lung-pressure-volume.svg" type="image/svg+xml"></object>
+<img src="resources\lung-pressure-volume.svg">
 
 **Lung Volume and Intrapleural Pressure:**  
-<object data="resources\workofbreathing.svg" type="image/svg+xml"></object>
+<img src="resources\workofbreathing.svg">
 
 **Lung Volume and Intrapleural Pressure with Forced Expiration:**  
-<object data="resources\workofbreathing-obstructive.svg" type="image/svg+xml"></object>
+<img src="resources\workofbreathing-obstructive.svg">
 
 
 **Neonatal First Breath:**  
-<object data="resources\First-Breath.svg" type="image/svg+xml"></object>
+<img src="resources\First-Breath.svg">
 
 ###Spirometry
 **Forced Vital Capacity:**  
-<object data="resources\fev1-and-fvc.svg" type="image/svg+xml"></object>
+<img src="resources\fev1-and-fvc.svg">
 
 
 **Spirometry:**  
-<object data="resources\spirograph.svg" type="image/svg+xml"></object>
+<img src="resources\spirograph.svg">
 
 
 
 ###Anaesthetic Agents
 **F<sub>A</sub>/F<sub>I</sub>:**  
-<object data="resources\fa-fi.svg" type="image/svg+xml"></object>
+<img src="resources\fa-fi.svg">
 
 **F<sub>A</sub>/F<sub>A0</sub>:**
-<object data="resources\fa-fao.svg" type="image/svg+xml"></object>
+<img src="resources\fa-fao.svg">
 
 
 ##Cardiovascular
 **Left Ventricular Coronary Blood Flow:**  
-<object data="resources\LV-cbf.svg" type="image/svg+xml"></object>
+<img src="resources\LV-cbf.svg">
 
 **Right Ventricular Coronary Blood Flow:**  
-<object data="resources\RV-cbf.svg" type="image/svg+xml"></object>
+<img src="resources\RV-cbf.svg">
 
 **Baroreceptors:**  
-<object data="resources\baroreceptors.svg" type="image/svg+xml"></object>
+<img src="resources\baroreceptors.svg">
 
 **Starling Curve:**  
-<object data="resources\starling-curve.svg" type="image/svg+xml"></object>
+<img src="resources\starling-curve.svg">
 
 **Starling Curve - Failing:**
-<object data="resources\starling-curve-failing.svg" type="image/svg+xml"></object>
+<img src="resources\starling-curve-failing.svg">
 
 **Cardiac Function Curve:**
-<object data="resources\cardiac-function.svg" type="image/svg+xml"></object>
+<img src="resources\cardiac-function.svg">
 
 **Wiggers Diagram:**
-<object data="resources\Wiggers.svg" type="image/svg+xml"></object>
+<img src="resources\Wiggers.svg">
 
 
 
 ###Action Potentials
 **Pacemaker Potential:**  
-<object data="resources\pacemaker-phases.svg" type="image/svg+xml"></object>
+<img src="resources\pacemaker-phases.svg">
 
 **Pacemaker Potential - Ion Flux:**
-<object data="resources\pacemaker-currents.svg" type="image/svg+xml"></object>
+<img src="resources\pacemaker-currents.svg">
 
 **Pacemaker Potential - Autonomic Tone:**
-<object data="resources\pacemaker-shifts.svg" type="image/svg+xml"></object>
+<img src="resources\pacemaker-shifts.svg">
 
 **Ventricular Action Potential:**
-<object data="resources\ventricular-ap.svg" type="image/svg+xml"></object>
+<img src="resources\ventricular-ap.svg">
 
 **Ventricular Action Potential - Hyperkalaemia:**
-<object data="resources\ventricular-ap-hyperk.svg" type="image/svg+xml"></object>
+<img src="resources\ventricular-ap-hyperk.svg">
 
 ###Basic Pressure-Volume Loops
 
@@ -356,148 +356,148 @@ When drawing changes to more left-field pressure-volume loops which you may not 
 
 ###Antiarrhythmics
 **Ventricular Action Potential - Class Ia:**
-<object data="resources\ventricular-ap-Ia.svg" type="image/svg+xml"></object>
+<img src="resources\ventricular-ap-Ia.svg">
 
 **Ventricular Action Potential - Class Ib:**
-<object data="resources\ventricular-ap-Ib.svg" type="image/svg+xml"></object>
+<img src="resources\ventricular-ap-Ib.svg">
 
 **Ventricular Action Potential - Class Ic:**
-<object data="resources\ventricular-ap-Ic.svg" type="image/svg+xml"></object>
+<img src="resources\ventricular-ap-Ic.svg">
 
 **Pacemaker Potential - Beta-Blockade:**  
-<object data="resources\pacemaker-betablock.svg" type="image/svg+xml"></object>
+<img src="resources\pacemaker-betablock.svg">
 
 **Ventricular Action Potential - Class III:**
-<object data="resources\ventricular-ap-III.svg" type="image/svg+xml"></object>
+<img src="resources\ventricular-ap-III.svg">
 
 **Pacemaker Potential - Calcium Channel Blockade:**  
-<object data="resources\pacemaker-cablock.svg" type="image/svg+xml"></object>
+<img src="resources\pacemaker-cablock.svg">
 
 ##CNS
 **Monroe-Kellie Doctrine:**  
-<object data="resources\monroe-kellie.svg" type="image/svg+xml"></object>
+<img src="resources\monroe-kellie.svg">
 
 **Cerebral Blood Flow and Cerebral Perfusion Pressure:**  
-<object data="resources\CPP-vs-CBF.svg" type="image/svg+xml"></object>
+<img src="resources\CPP-vs-CBF.svg">
 
 **Cerebral Blood Flow and PaCO<sub>2</sub>:**
-<object data="resources\PaCO2-vsCBF.svg" type="image/svg+xml"></object>
+<img src="resources\PaCO2-vsCBF.svg">
 
 **Cerebral Blood Flow and PaO<sub>2</sub>:**
-<object data="resources\PaO2-vs-CBF.svg" type="image/svg+xml"></object>
+<img src="resources\PaO2-vs-CBF.svg">
 
 **Cerebral Blood Flow and Temperature:**
-<object data="resources\temp-vs-CBF.svg" type="image/svg+xml"></object>
+<img src="resources\temp-vs-CBF.svg">
 
 
 
 ##Renal & Acid-Base
 **Ionised potential vs pH - Acids:**
-<object data="resources\pkas-acids.svg" type="image/svg+xml"></object>
+<img src="resources\pkas-acids.svg">
 
 **Ionised potential vs pH - Bases:**
-<object data="resources\pkas-bases.svg" type="image/svg+xml"></object>
+<img src="resources\pkas-bases.svg">
 
 **Glomerular Filtration and Mean Arterial Pressure:**  
-<object data="resources\renal-autoregulation.svg" type="image/svg+xml"></object>
+<img src="resources\renal-autoregulation.svg">
 
 **Glomerular Filtration and Creatinine:**  
-<object data="resources\gfr-vs-creatinine.svg" type="image/svg+xml"></object>
+<img src="resources\gfr-vs-creatinine.svg">
 
 **Glucose Flux:**  
-<object data="resources\glucoseflux.svg" type="image/svg+xml"></object>
+<img src="resources\glucoseflux.svg">
 
 
 
 
 ##Haematology
 **Coagulation Cascade:**  
-<object data="resources\Coagulation_full.svg" type="image/svg+xml"></object>
+<img src="resources\Coagulation_full.svg">
 
 
 ##Other
 **Heat Loss Under Anaesthesia:**  
-<object data="resources\heat-loss.svg" type="image/svg+xml"></object>
+<img src="resources\heat-loss.svg">
 
 
 
 ##Equipment & Measurement
 **Einthoven's Triangle:**  
-<object data="resources\einthovens.svg" type="image/svg+xml"></object>
+<img src="resources\einthovens.svg">
 
 **Damping and Resonance:**  
-<object data="resources\damping.svg" type="image/svg+xml"></object>
+<img src="resources\damping.svg">
 
 **Damping Coefficients:**  
-<object data="resources\damping2.svg" type="image/svg+xml"></object>
+<img src="resources\damping2.svg">
 
 **Wheatstone Bridge:**  
-<object data="resources\wheatstone.svg" type="image/svg+xml"></object>
+<img src="resources\wheatstone.svg">
 
 
 ###Gas Analysis
 **Clark Electrode:**  
-<object data="resources\clark-electrode.svg" type="image/svg+xml"></object>
+<img src="resources\clark-electrode.svg">
 
 **pH Electrode:**  
-<object data="resources\ph-electrode.svg" type="image/svg+xml"></object>
+<img src="resources\ph-electrode.svg">
 
 **Severinghaus Electrode:**  
-<object data="resources\severinghaus.svg" type="image/svg+xml"></object>
+<img src="resources\severinghaus.svg">
 
 
 
 ###Capnography
 **Capnograph:**  
-<object data="resources\capno-normal.svg" type="image/svg+xml"></object>
+<img src="resources\capno-normal.svg">
 
 **Capnograph - Obstructive:**  
-<object data="resources\capno-obstruction.svg" type="image/svg+xml"></object>
+<img src="resources\capno-obstruction.svg">
 
 **Capnograph - Rebreathing:**  
-<object data="resources\capno-rebreathing.svg" type="image/svg+xml"></object>
+<img src="resources\capno-rebreathing.svg">
 
 **Capnograph - Hyperventilation:**  
-<object data="resources\capno-hyperventilation.svg" type="image/svg+xml"></object>
+<img src="resources\capno-hyperventilation.svg">
 
 
 ##Structure-Activity Relationships
 ###Sympathomimetics
-<object data="resources\phenylethylamine.svg" type="image/svg+xml"></object>
+<img src="resources\phenylethylamine.svg">
 
-<object data="resources\dopamine bare.svg" type="image/svg+xml"></object>
+<img src="resources\dopamine bare.svg">
 
-<object data="resources\dopamine.svg" type="image/svg+xml"></object>
+<img src="resources\dopamine.svg">
 
-<object data="resources\noradrenaline bare.svg" type="image/svg+xml"></object>
+<img src="resources\noradrenaline bare.svg">
 
-<object data="resources\noradrenaline.svg" type="image/svg+xml"></object>
+<img src="resources\noradrenaline.svg">
 
-<object data="resources\adrenaline bare.svg" type="image/svg+xml"></object>
+<img src="resources\adrenaline bare.svg">
 
-<object data="resources\adrenaline.svg" type="image/svg+xml"></object>
+<img src="resources\adrenaline.svg">
 
-<object data="resources\metaraminol bare.svg" type="image/svg+xml"></object>
+<img src="resources\metaraminol bare.svg">
 
-<object data="resources\metaraminol.svg" type="image/svg+xml"></object>
+<img src="resources\metaraminol.svg">
 
-<object data="resources\ephedrine bare.svg" type="image/svg+xml"></object>
+<img src="resources\ephedrine bare.svg">
 
-<object data="resources\ephedrine.svg" type="image/svg+xml"></object>
+<img src="resources\ephedrine.svg">
 
-<object data="resources\phenylephrine bare.svg" type="image/svg+xml"></object>
+<img src="resources\phenylephrine bare.svg">
 
-<object data="resources\phenylephrine.svg" type="image/svg+xml"></object>
+<img src="resources\phenylephrine.svg">
 
 ###Anaesthetic Agents
-<object data="resources\desflurane.svg" type="image/svg+xml"></object>
+<img src="resources\desflurane.svg">
 
-<object data="resources\sevoflurane 2.svg" type="image/svg+xml"></object>
+<img src="resources\sevoflurane 2.svg">
 
-<object data="resources\isoflurane 1.svg" type="image/svg+xml"></object>
+<img src="resources\isoflurane 1.svg">
 
-<object data="resources\enflurane.svg" type="image/svg+xml"></object>
+<img src="resources\enflurane.svg">
 
-<object data="resources\Propofol.svg" type="image/svg+xml"></object>
+<img src="resources\Propofol.svg">
 
 ---

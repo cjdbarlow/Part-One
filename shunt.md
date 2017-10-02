@@ -62,7 +62,7 @@ This is where technical definitions become important to avoid confusion.
 * Iso-shunt diagram plots the relationship between FiO<sub>2</sub> and PaO<sub>2</sub> against a set of 'virtual shunt lines'
 * These 'shunt fractions' are calculated from the above equation and so are actually V/Q admixture fractions
 
-<object data="resources\isoshunt.svg" type="image/svg+xml"></object>
+<img src="resources\isoshunt.svg">
 
 
 ---

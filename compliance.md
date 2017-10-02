@@ -41,7 +41,7 @@ $$ \Delta P_{Pl.} = P_{Plat.} \times {C_L \over C_L + C_W } $$
   * Surface tension of alveoli  
 
 
-<object data="resources\lung-pressure-volume.svg" type="image/svg+xml"></object>
+<img src="resources\lung-pressure-volume.svg">
 
 
 
@@ -57,7 +57,7 @@ In normal lungs at normal respiratory rates it approximates static compliance.
     * Due to incomplete filling of alveoli - the portion of pressure that is used to overcome airways resistance is therefore proportionally greater
 
 
-<object data="resources\workofbreathing.svg" type="image/svg+xml"></object>
+<img src="resources\workofbreathing.svg">
 
 
 

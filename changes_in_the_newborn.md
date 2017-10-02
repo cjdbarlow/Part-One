@@ -10,7 +10,7 @@ Transition from placental gas exchange to pulmonary gas exchange occurs within 2
 * The **first three breaths** establish functional residual capacity  
 Large changes in intrathoracic pressure compress amniotic fluid in the alveoli into the circulation, replacing alveolar water with air.
 
-<object data="resources\first-breath.svg" type="image/svg+xml"></object>
+<img src="resources\first-breath.svg">
 
 
 ##Neonates and Children
