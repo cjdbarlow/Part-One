@@ -75,7 +75,7 @@ Limitation refers to what process limits gas uptake into blood:
 * Gases which are **perfusion limited** have equal alveolar and pulmonary capillary partial pressures, so the amount of gas *content* transferred is dependent on blood flow
   * e.g. Oxygen
 
-<object data="resources\diffusion-vs-perfusion-limitation.svg" type="image/svg+xml"></object>
+<img src="resources\diffusion-vs-perfusion-limitation.svg">
 
 
 

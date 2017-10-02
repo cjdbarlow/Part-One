@@ -64,7 +64,7 @@ For the pooling of results to be valid, the trials need to be similar. Differenc
 ###Forest Plots
 Results of meta-analyses are presented in a blobbogram, or more boringly, a **Forest Plot**.
 
-<object data="resources\forest.svg" type="image/svg+xml"></object>
+<img src="resources\forest.svg">
 
 
 

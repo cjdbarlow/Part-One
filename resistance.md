@@ -65,7 +65,7 @@ Note that airway resistance:
 * Rapidly **decreases** with each airway division thereafter  
 This is due to the total cross-sectional area increasing dramatically.
 
-<object data="resources\airway-gen-vs-resistance.svg" type="image/svg+xml"></object>
+<img src="resources\airway-gen-vs-resistance.svg">
 
 
 

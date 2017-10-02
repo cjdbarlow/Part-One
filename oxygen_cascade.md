@@ -18,7 +18,7 @@ Remember:
 * Oxygen **content** is what is important for cellular function
 
 
-<object data="resources\o2cascade.svg" type="image/svg+xml"></object>
+<img src="resources\o2cascade.svg">
 
 
 ##Atmospheric Gas

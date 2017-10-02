@@ -46,7 +46,7 @@ Patient forcibly exhales a vital capacity breath, producing a exponential (wash-
         The ratio is normal as the FEV<sub>1</sub> and FVC fall proportionally.
 
 
-<object data="resources\fev1-vs-fvc.svg" type="image/svg+xml"></object>
+<img src="resources\fev1-vs-fvc.svg">
 
 
 * Volume-Time Graph (also known as a spirograph or spirogram)  
@@ -55,7 +55,7 @@ Quantifies static lung volumes by having a patient perform:
   * Vital capacity breath
   * Vital capacity exhalation
   
-<object data="resources\spirogram.svg" type="image/svg+xml"></object>
+<img src="resources\spirogram.svg">
 
 
 

@@ -31,9 +31,9 @@
 
 Flow to each ventricle can be graphed as these relationships change over the cardiac cycle:
 
-<object data="resources\lv-cbf.svg" type="image/svg+xml"></object>
+<img src="resources\lv-cbf.svg">
 
-<object data="resources\rv-cbf.svg" type="image/svg+xml"></object>
+<img src="resources\rv-cbf.svg">
 
 ##Myocardial Oxygen Demand
 Normal myocardial oxygen consumption (MVO<sub>2</sub>) is 21-27ml.min<sup>-1</sup>. The **three major determinants** are:

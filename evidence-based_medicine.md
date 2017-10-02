@@ -82,7 +82,7 @@ Where the methods used in different trials are too different to allow pooling of
 ####Forest Plots
 Results of meta-analyses are presented in a blobbogram, or more boringly, a **Forest Plot**.
 
-<object data="resources\forest.svg" type="image/svg+xml"></object>
+<img src="resources\forest.svg">
 
 Where:
 * The **x-axis** plots the odds ratio, remembering that an OR of 1 indicates no difference

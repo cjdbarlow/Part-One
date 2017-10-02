@@ -22,7 +22,7 @@ These undergo further metabolism to produce:
       * PGF<sub>2α</sub>
       * PGD<sub>2</sub>
 
-<object data="resources\pgsynth.svg" type="image/svg+xml"></object>
+<img src="resources\pgsynth.svg">
 
 
 

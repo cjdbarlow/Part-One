@@ -20,7 +20,7 @@ This has significant effect on excitable tissues.
 Symptoms are related to the change in action potential generation.
  
 Ventricular Action Potential in Hyperkalaemia:
-<object data="resources\ventricular-ap-hyperk.svg" type="image/svg+xml"></object>
+<img src="resources\ventricular-ap-hyperk.svg">
 
  
 ###Hyperkalaemia

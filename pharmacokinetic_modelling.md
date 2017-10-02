@@ -53,7 +53,7 @@ The time taken for a process to complete if it continued at its initial rate of 
     * Elimination will be virtually complete after three time constants
     * A time constant is the **inverse of the rate constant for elimination**, i.e. $$ \tau = {1 \over k }$$
     * Illustration of the relationship between half-life and time constant:  
-    <object data="resources\half-life-and-time-constants.svg" type="image/svg+xml"></object>  
+    <img src="resources\half-life-and-time-constants.svg">  
 
 
 * **Clearance**  
@@ -73,7 +73,7 @@ Amount of drug removed by the body per unit time.
 ##Compartmental Modelling
 The simplest model imagines the body a single, well-stirred compartment. 
 
-<object data="resources\1compartment.svg" type="image/svg+xml"></object>
+<img src="resources\1compartment.svg">
 
 In a one compartment model, the concentration of a drug ($$C$$) at time $$t$$ is given by the equation:
 
@@ -101,7 +101,7 @@ $$ Input = Output \\ C_i.I = C_{ss}.Cl \\ C_{ss} = {C_i.I \over Cl}$$
 * A three-compartment model *can* be conceptualised as a plasma (or central) compartment, a well-perfused compartment, and a poorly-perfused compartment  
 This doesn't mean that they *should* be thought of in this way - they are a mathematical technique used to calculate plasma concentration at a given time.
 
-<object data="resources\3compartment.svg" type="image/svg+xml"></object>
+<img src="resources\3compartment.svg">
 
 
 
@@ -133,7 +133,7 @@ Consists of two phases:
         * Elimination from the body
         * Redistribution into plasma
 
-<object data="resources\biexponent.svg" type="image/svg+xml"></object>
+<img src="resources\biexponent.svg">
 
 
 This curve is given by the equation $$C = Ae^{-\alpha t} + Be^{-\beta t}$$, where:
@@ -177,7 +177,7 @@ The effect site is modelled as a **compartment of negligible volume** contained 
             * The time to peak effect is a function of both plasma kinetics and the t<sub>1/2</sub>ke0
                 * e.g. adenosine has such a short elimination t<sub>1/2<sub> the effect site concentration will reach its peak rapidly regardless of the k<sub>e0</sub>
 
-<object data="resources\3compartment+effect.svg" type="image/svg+xml"></object>
+<img src="resources\3compartment+effect.svg">
 
 ##Non-Compartmental Models
 Compartment models are not appropriate for describing the behaviours of all drugs. Non-compartmental models are used when drug:

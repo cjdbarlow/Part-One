@@ -71,7 +71,7 @@ E<sub>T</sub>CO<sub>2</sub> may be either **side-stream** or **in-line**.
 
 
 ###Normal E<sub>T</sub>CO<sub>2</sub> Waveform
-<object data="resources\capno-normal.svg" type="image/svg+xml"></object>
+<img src="resources\capno-normal.svg">
 
 The normal trace consists of four components:
 1. The **baseline**  
@@ -86,16 +86,16 @@ The highest-point of this curve is labelled E<sub>T</sub>CO<sub>2</sub>.
 
 ###E<sub>T</sub>CO<sub>2</sub> Waveform Variations
 **Airway obstruction:
-**<object data="resources\capno-obstruction.svg" type="image/svg+xml"></object>
+**<img src="resources\capno-obstruction.svg">
 * Occurs due to uneven emptying of alveoli with different time-constants
 
 **Hyperventilation:
-**<object data="resources\capno-hyperventilation.svg" type="image/svg+xml"></object>
+**<img src="resources\capno-hyperventilation.svg">
 * Lower E<sub>T</sub>CO<sub>2</sub> with shorter baseline
 * Plateau phase may not occur at very high respiratory rates
 
 **Rebreathing**:
-<object data="resources\capno-rebreathing.svg" type="image/svg+xml"></object>
+<img src="resources\capno-rebreathing.svg">
 * Baseline increases as inspired CO<sub>2</sub> is measured from gas analyser
 
 

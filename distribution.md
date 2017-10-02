@@ -40,8 +40,8 @@ Ionised drugs are polar, and so are less lipid soluble.
       * Renal elimination  
       Urinary alkalinisation is used to accelerate elimination of acidic drugs, as they become ionised and trapped in urine.
     
-<object data="resources\pkas-acids.svg" type="image/svg+xml"></object>
-<object data="resources\pkas-bases.svg" type="image/svg+xml"></object>
+<img src="resources\pkas-acids.svg">
+<img src="resources\pkas-bases.svg">
 
 
 

@@ -3,7 +3,7 @@
 
 ##Vascular Anatomy
 ###Coronary Artery Anatomy
-<object data="resources\coronary.svg" type="image/svg+xml"></object>
+<img src="resources\coronary.svg">
 
 
 The **left main** coronary artery:
@@ -74,9 +74,9 @@ CBF is affeted in systole due to the changes in perfusion pressure, and compress
   * RV CBF is less affected, as the force of contraction is significantly smaller and a pressure gradient is maintained
   * Tachycardia reduces diastolic time and subsequently LV CBF
 
-<object data="resources\lv-cbf.svg" type="image/svg+xml"></object>
+<img src="resources\lv-cbf.svg">
 
-<object data="resources\rv-cbf.svg" type="image/svg+xml"></object>
+<img src="resources\rv-cbf.svg">
 
 
 ###Control of Coronary Blood Flow

@@ -44,7 +44,7 @@ About 35% of total work, and is lost as heat. This is due to the energy required
       * Airway resistance varies depending on airway division:
         * Resistance peaks at the 3rd airway division (lobar bronchi)
         * Falls with increasing airway divisions due to increased cross-sectional area  
-        <object data="resources\airway-gen-vs-resistance.svg" type="image/svg+xml"></object>
+        <img src="resources\airway-gen-vs-resistance.svg">
 
 
 
@@ -52,7 +52,7 @@ About 35% of total work, and is lost as heat. This is due to the energy required
 ###Graphing Work of Breathing
 Work of breathing can be evaluated with a dynamic lung compliance curve:
 
-<object data="resources\workofbreathing.svg" type="image/svg+xml"></object>
+<img src="resources\workofbreathing.svg">
 
 * If there **were no resistive forces**, then this curve would be a straight line
   * The triangular area is the elastic work done
@@ -64,7 +64,7 @@ Work of breathing can be evaluated with a dynamic lung compliance curve:
     * If part of this area falls outside the area of elastic work of breathing, it demonstrates additional **active work of expiration** which may occur in obstructive lung disease or when minute ventilation is high
 
 Active expiratory work:
-<object data="resources\workofbreathing-obstructive.svg" type="image/svg+xml"></object>
+<img src="resources\workofbreathing-obstructive.svg">
 
 
 

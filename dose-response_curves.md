@@ -4,13 +4,13 @@
 ##Standard Dose-Response Curves
 A dose-response curve is a graph of concentration against the fraction of receptors occupied by a drug. 
 
-<object data="resources\dose-response.svg" type="image/svg+xml"></object>
+<img src="resources\dose-response.svg">
 
 
 ##Log-Dose Response Curves
 It is difficult to compare drugs using standard dose-response curves. Therefore, dose is commonly log-transformed to produce a log-dose response curve.
 
-<object data="resources\fatex.svg" type="image/svg+xml"></object>
+<img src="resources\fatex.svg">
 
 This curve:
 * Compares log-dose versus clinical effect

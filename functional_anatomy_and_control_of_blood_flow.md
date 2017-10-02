@@ -31,7 +31,7 @@ Renal blood flow is **autoregulated** over a wide range of mean arterial pressur
 * Describes the intrinsic constriction of the afferent arteriole in response to an increased transmural pressure
 * This increases vascular resistance in proportion to the increase in pressure, keeping flow constant
 
-<object data="resources\renal-autoregulation.svg" type="image/svg+xml"></object>
+<img src="resources\renal-autoregulation.svg">
 
 
 

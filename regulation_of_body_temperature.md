@@ -130,7 +130,7 @@ Neuraxial anaesthesia:
 * Hypothermia is less extreme as thermoregulation is only affected in areas covered by the blockade
 * Plateau does not occur as vasoconstrictive responses are inhibited by the blockade 
 
-<object data="resources\heat-loss.svg" type="image/svg+xml"></object>
+<img src="resources\heat-loss.svg">
 
 ---
 
