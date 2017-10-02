@@ -56,6 +56,8 @@ Identify the key points of the curve and label these points. These include:
 
 ###Models
 **The One-Compartment Model:**  
+
+
 <img src="resources\1compartment.svg">
 
 * Drug is added to and removed from the single central compartment  
@@ -64,6 +66,8 @@ There is no distribution possible.
 * k<sub>10<sub> is the rate constant for elimination
 
 **Three-Compartment Model:**  
+
+
 <img src="resources\3compartment.svg">
 
 * Drug is added to and removed from the central compartment
@@ -74,6 +78,8 @@ There is no distribution possible.
 	* Rate of drug elimination
 
 **Effect-Site:**  
+
+
 <img src="resources\3compartment+effect.svg">
 
 * Drug distributes to the effect site from the central compartment
@@ -82,6 +88,7 @@ There is no distribution possible.
 
 ###Pharmacokinetics
 [**Zero-order kinetics:**](metabolism.md#kin)  
+
 
 <img src="resources\zero-order-kinetics.svg">
 
@@ -93,6 +100,7 @@ Half-life progressively shortens, as the time taken to go from 50% to 25% is hal
 
 [**First-Order Kinetics:**](metabolism.md#kin)  
 
+
 <img src="resources\first-order-kinetics.svg">
 
 
@@ -101,6 +109,7 @@ Half-life progressively shortens, as the time taken to go from 50% to 25% is hal
 
 	
 [**Biexponential elimination:**](pharmacokinetic_modelling.md#bi)  
+
 
 <img src="resources\biexponent.svg">
 
@@ -233,7 +242,13 @@ Here is a straightforward method which minimises the confusion:
 
 
 **PaO<sub>2</sub> and Minute Ventilation:**  
+
+
 <img src="resources\PaO2-vs-MV.svg">
+
+
+* Exponent 
+
 
 **Isoshunt Diagram:**  
 
