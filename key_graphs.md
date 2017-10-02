@@ -25,7 +25,7 @@ Identify the key points of the curve and label these points. These include:
 
 ##Pharmacology
 **Dose-Response:**  
-<object data="resources\dose-response.svg" type="image/svg+xml"></object>
+<object data="resources\dose-response.svg" type="image/svg+xml" width="500"></object>
 
 * Dose response curve is a wash-in exponential
 * Difficult to compare different drugs using this curve
