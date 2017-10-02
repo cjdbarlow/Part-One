@@ -66,7 +66,7 @@ Renal elimination can be affected by:
 
 >Sodium bicarbonate increases urinary pH and enhances excretion of weak acids such as aspirin.
 
-###Pharmacodynamic
+###Pharmacodynamic{#iso}
 Pharmacodynamic interactions can be **direct**, due to interaction on the same receptor system; or a **indirect**, when they act on different receptor system. These interactions can be classified as either:
 * **Additive**  
   When the effects summate.
