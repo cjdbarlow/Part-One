@@ -112,19 +112,43 @@ Half-life progressively shortens, as the time taken to go from 50% to 25% is hal
 
 
 ###Pharmacodynamics
-**Isobologram:**  
+[**Isobologram:**](drug_interactions.md#iso)  
+
 
 <object data="resources\isobologram.svg" type="image/svg+xml"></object>
 
 
-* Plots a line of equal clinical effect between two drug concentrations
+* Plots lines of equal activity versus concentratin of two drugs
 
-**Plasma-Site Targeting:**
+
+[**Plasma-Site Targeting:**](tiva-and-tci.md#tci)
+
+
 <object data="resources\plasma-site-targeting.svg" type="image/svg+xml"></object>
 
-**Effect-Site Targeting:**
+
+TCI graphs are easy to draw if you remember that:
+* The pump aims to achieve the targeted concentration:
+	* As rapidly as possible
+	* Without overshoot
+* Effect site concentrations fall slower than plasma site concentrations
+Drug can only redistribute back to plasma when effect site concentration is greater than plasma concentration.  
+
+Therefore in plasma site targeting:
+* Plasma concentration rises rapidly with initial bolus dose
+* Does not overshoot
+* Effect site concentration rises more slowly
+	* Exponential wash in curve as the concentration gradient between plasma and effect site falls over time  
+
+
+[**Effect-Site Targeting:**](tiva-and-tci.md#tci)
+
+
 <object data="resources\effect-site-targeting.svg" type="image/svg+xml"></object>
 
+
+* Plasma concentration overshoots effect-site target and then declines rapidly
+* Effect site concentration rises rapidly, and is achieved more quickly compared with plasma-site targeted model
 
 
 
