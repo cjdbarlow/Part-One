@@ -46,3 +46,13 @@ path.bgline {
         width: 50%;
     }
 }
+
+sup { 
+    vertical-align: super;
+    font-size: smaller;
+}
+
+sub { 
+    vertical-align: super;
+    font-size: smaller;
+}
