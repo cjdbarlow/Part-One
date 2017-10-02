@@ -156,7 +156,11 @@ Therefore in plasma site targeting:
 ##Statistics
 **Boxplot:**  
 <object data="resources\boxplot.svg" type="image/svg+xml"></object>
-
+* Box is defined by the 25<sup>th</sup> and 75<sup>th</sup> centiles
+* Line in the middle of the box is the median ("50<sup>th</sup> centile")
+* "Whiskers" either side of the box define the 10<sup>th</sup> and 90<sup>th</sup> centiles
+	* These may also refer to the 5<sup>th</sup> and 95<sup>th</sup> centiles
+* Results outside of whiskers are defined as outliers, and are represented by single dots 
 
 
 ##Respiratory
