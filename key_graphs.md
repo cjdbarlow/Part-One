@@ -155,7 +155,11 @@ Therefore in plasma site targeting:
 
 ##Statistics
 **Boxplot:**  
+
+
 <object data="resources\boxplot.svg" type="image/svg+xml"></object>
+
+
 * Box is defined by the 25<sup>th</sup> and 75<sup>th</sup> centiles
 * Line in the middle of the box is the median ("50<sup>th</sup> centile")
 * "Whiskers" either side of the box define the 10<sup>th</sup> and 90<sup>th</sup> centiles
@@ -166,15 +170,67 @@ Therefore in plasma site targeting:
 ##Respiratory
 ###Oxygen
 **Oxygen Cascade**:
+
+
 <object data="resources\o2cascade.svg" type="image/svg+xml"></object>
 
+
+* Graph of location versus oxygen partial pressure
+* Atmospheric (dry) air has a PO<sub>2</sub> of 160mmHg
+* Tracheal (humidified) gas has a PO<sub>2</sub> of 149mmHg  
+Reduced due to saturated vapour pressure of water.
+* Alveolar gas has a PO<sub>2</sub> of 105mmHg  
+Reduced to the presence of CO<sub>2</sub>, as per the alveolar gas equation.
+* Arterial blood has a PO<sub>2</sub> of ~100mmHg  
+Reduced to the Alveolar-arterial oxygen gradient.  
+* Tissues have a PO<sub>2</sub> of ~5mmHg
+* Mixed venous blood has a PO<sub>2</sub> of ~40mmHg  
+Greater than tissue PO<sub>2</sub> as not all oxygen in blood diffuses into or is consumed by tissues.
+
+
+
 **Oxyhaemoglobin Dissociation Curve:**
+
+
 <object data="resources\oxyhb-curve.svg" type="image/svg+xml"></object>
+
+
+* Graph of PaO<sub>2</sub> versus oxygen saturation
+* Note that PaO2<sub>2</sub> is continuous, and so an arrow should be drawn at the tip of the x-axis, whilst saturation is finite and so the y-axis should be capped at 100%
+* The curve is a sigmoid shape
+* Key points:
+	* At 10mmHg, saturation is 10%
+	* The p50 is at 27mmHg
+	* The mixed venous point is at 40mmHg, where haemoglobin is 75% saturated  
+	Note that due to the Haldane effect, the mixed venous point does not technically exist on the arterial curve. This is a small point and is ignored in most graphs (including this one), but may be worth stating if you're feeling confident in the viva.
+	* The "ICU point" (the upper inflection) is at 60mmHg where haemoglobin is 93% saturated  
+	* The arterial point is 97% saturated at 100mmHg
+
 
 <object data="resources\oxy-hb-curve-shifts.svg" type="image/svg+xml"></object>
 
+
+* The curve may be right-shifted by:
+	* Increased H<sup>+</sup>
+	* Increased PaCO<sub>2</sub>
+	* Increased temperature
+	* Increased 2-3 DPG
+* These shifts are defined by a movement of the p50
+
+
 **Double-Bohr Effect:**  
+
+
 <object data="resources\Oxyhb-curve-double-bohr.svg" type="image/svg+xml"></object>
+
+* The double Bohr effect can easily become confusing, especially when you are under pressure and only allowed one colour (as in the written exam)  
+Here is a straightforward method which minimises the confusion:
+	1. Draw an adult curve with a p50 of 27mmHg
+	2. Draw a foetal curve with a p50 of 17mmHg
+	3. Draw a right-shifted adult curve
+	4. Draw a left-shifted foetal curve
+
+
 
 **PaO<sub>2</sub> and Minute Ventilation:**  
 <object data="resources\PaO2-vs-MV.svg" type="image/svg+xml"></object>
