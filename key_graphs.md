@@ -407,7 +407,7 @@ This is an approach to make it as easy as possible:
 
 
 
-**Lung Volume and Intrapleural Pressure:**  
+**Work of Breathing:**  
 
 
 <img src="resources\workofbreathing.svg">
@@ -415,15 +415,31 @@ This is an approach to make it as easy as possible:
 
 * Graph of lung volume (above FRC) versus intrapleural pressure  
 Note that intrapleural pressure becomes more negative along the x-axis.
-* 
+* The area under different sections of this curve give the work of breathing
+	* Elastic inspiratory work of breathing is given the blue triangle
+	* Resistive work of expiration is given by the red area  
+	Note that as this is entirely contained within the area of elastic inspiratory work, expiration is passive and does not require additional energy expenditure.
+	* Resistive work of inspiration is given by the green area
 
 
-**Lung Volume and Intrapleural Pressure with Forced Expiration:**  
+**Work of Breathing - Active Expiration:**  
+
+
 <img src="resources\workofbreathing-obstructive.svg">
 
 
-**Neonatal First Breath:**  
+* When resistive expiratory work exceeds elastic inspiratory work, active expiration must occur
+* In this graph, active expiration is given by the red area not contained with the blue triangle
+
+
+**Neonatal First Breath:**
+
+    
 <img src="resources\First-Breath.svg">
+
+
+* This graph describes the pressure-volume changes of the neonate as it takes its first breaths and establishes FRC
+* This graph is easy to draw provided you remember that prior to the first breath, lung volume is minimal
 
 ###Spirometry
 **Forced Vital Capacity:**  
