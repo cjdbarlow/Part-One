@@ -58,7 +58,7 @@ Identify the key points of the curve and label these points. These include:
 **The One-Compartment Model:**  
 
 
-<img src="resources\1compartment.svg">
+<img src="resources\1compartment.svg" width="10pc">
 
 * Drug is added to and removed from the single central compartment  
 There is no distribution possible.
