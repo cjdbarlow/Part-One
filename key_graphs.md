@@ -63,7 +63,7 @@ Identify the key points of the curve and label these points. These include:
 * Drug is added to and removed from the single central compartment  
 There is no distribution possible.
 * V<sub>1</sub> is equal to the volume of distribution
-* k<sub>10<sub> is the rate constant for elimination
+* k<sub>10</sub> is the rate constant for elimination
 
 **Three-Compartment Model:**  
 
