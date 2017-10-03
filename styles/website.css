@@ -54,5 +54,5 @@ sup {
 
 sub { 
     vertical-align: sub;
-    font-size: smaller;
+    font-size: small;
 }
