@@ -368,16 +368,55 @@ This has the lowest total cross-sectional area.
 
 <img src="resources\lungvol-vs-airway-resistance.svg">
 
+* Airway resistance decreases as lung volume increases, as this distends airways, increasing their cross-sectional area and lowering airway resistance
 
 
 **Pulmonary Vascular Resistance and Pulmonary Artery Pressure:**  
+
+
 <img src="resources\pap-vs-pvr.svg">
 
+* Pulmonary vascular resistance decreases as pulmonary artery pressure increases
+* Arterial pressure has a greater effect on PVR than venous pressure
+
+
 **Lung and Chest Wall Volume and Pressure Relationships:**
+
+
 <img src="resources\lung-pressure-volume.svg">
 
+
+* Graph of lung volume versus **recoil pressure**
+	* Expressing lung volume as a percentage of total lung capacity may make it easier to remember the key points on this graph
+	* Note that recoil pressure is the pressure generated **between the lung and the chest wall** when they are distended, it is not intrapleural pressure
+* This graph is complex and it is easy to draw incorrectly  
+This is an approach to make it as easy as possible:
+	1. Draw a sigmoid graph for the pressure-volume relationship of the respiratory system as a whole
+		* As recoil pressure is 0 at FRC this will be the y-intercept
+		* The graph will asymptote at residual volume, as volume (by definition) cannot become lower than this volume
+	2. Draw a steep run-away exponential for the pressure-volume relationship of the chest wall
+		* Recoil pressure should be ~-5cmH<sub>2</sub>O at FRC
+		* Recoil pressure should be 0cmH<sub>2</sub>O at ~75% of TLC
+		* Recoil pressure should not exceed ~5cmH<sub>2</sub>O at TLC
+	3. Draw a steep wash-in exponential for the pressure-volume relationship of the lung
+		* Remember lung volume cannot fall below residual volume
+		* Recoil pressure should be ~5cmH<sub>2</sub>O at FRC  
+		This should be equal and opposite to the recoil pressure for the chest wall, as the sum of these must be 0 at FRC.
+		* Note that this curve should slightly exceed the curve for the respiratory system as recoil pressure increases
+		
+
+
+
 **Lung Volume and Intrapleural Pressure:**  
+
+
 <img src="resources\workofbreathing.svg">
+
+
+* Graph of lung volume (above FRC) versus intrapleural pressure  
+Note that intrapleural pressure becomes more negative along the x-axis.
+* 
+
 
 **Lung Volume and Intrapleural Pressure with Forced Expiration:**  
 <img src="resources\workofbreathing-obstructive.svg">
