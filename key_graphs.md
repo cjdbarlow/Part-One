@@ -439,14 +439,33 @@ Note that intrapleural pressure becomes more negative along the x-axis.
 
 
 * This graph describes the pressure-volume changes of the neonate as it takes its first breaths and establishes FRC
-* This graph is easy to draw provided you remember that prior to the first breath, lung volume is minimal
+* This graph is easy to draw provided you remember that:
+	* Prior to the first breath, lung volume is 0
+	* As the lung initially has very poor compliance, the intrapleural pressure must become very negative more lung volume increases substantially
+	* At the end of each breath, intrathoracic pressure is close to 0
+	* With each subsequent breath:
+		* Lung compliance improves  
+		Therefore the magnitude of pressure swings is reduced.
+		* FRC increases  
+		Lung volume at end-inspiration is increased.
 
 ###Spirometry
+
 **Forced Vital Capacity:**  
+
+
 <img src="resources\fev1-and-fvc.svg">
 
 
+* Graph of expired volume (vital capacity) over time
+* ~80% of total volume is expired within the first second (FEV<sub>1</sub>)
+* Total FVC is 4.5L in the 70kg Guyton Man
+* The gradient of initial expiration is the peak expiratory flow rate 
+
+
 **Spirometry:**  
+
+
 <img src="resources\spirograph.svg">
 
 
