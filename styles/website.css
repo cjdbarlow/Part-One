@@ -53,6 +53,6 @@ sup {
 }
 
 sub { 
-    vertical-align: super;
+    vertical-align: sub;
     font-size: smaller;
 }
