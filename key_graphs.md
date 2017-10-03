@@ -466,7 +466,7 @@ Note that intrapleural pressure becomes more negative along the x-axis.
 **Spirometry:**  
 
 
-<img src="resources\spirograph.svg">
+<img src="resources\Spirograph.svg">
 
 
 
