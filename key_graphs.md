@@ -308,16 +308,54 @@ From this, the relationship to other states can be derived:
 
 ###Anatomical and Physiological Interactions
 **Closing Capacity and Age:**  
+
+
 <img src="resources\closing-capacity-vs-age.svg">
 
+
+* Note that although FRC increases slightly with age, this is not generally shown on this graph
+* Closing capacity increases with increasing age  
+Key intersections are:
+	* Greater than FRC when supine at 44 years of age
+	* Greater than FRC when erect at 66 years of age
+	
+
 **Diffusion and Perfusion Limitation:**
+
+
 <img src="resources\diffusion-vs-perfusion-limitation.svg">
 
+* Classically drawn as partial pressure versus distance along the capillary  
+Time along capillary may also be used, however note that total transit time will change with cardiac output.
+* Note that at the beginning of the capillary, oxygen partial pressure will be equal to that of mixed venous blood
+	* In perfusion limitation, PaO<sub>2</sub> will equal PAO<sub>2</sub> before the end of the capillary
+	* In diffusion limitation, partial pressures will not be equal at the end of the capillary
+	* In normal circumstances, PaO<sub>2</sub> equals PAO<sub>2</sub> at ~1/3<sup>2</sup> of the distance along the capillary  
+	If time is being graphed on the x-axis, then this will occur at ~0.25s, as total capillary transit time is ~0.75s.
+* Nitrous oxide rapidly diffuses into blood and is and not typically present in mixed venous blood, so this curve begins at the origin and PaN<sub>2</sub>O will rapidly reach PAN<sub>2</sub>O (in this instance 100mmHg)
+* Carbon monoxide binds avidly to haemoglobin and so PaCO increases slowly, resulting in diffusion limitation
+
 **Regional Ventilation and Perfusion:**  
+
+
 <img src="resources\regional-ventilation-and-perfusion.svg">
 
+
+* Graph of alveolar ventilation and alveolar blood flow versus rib number in the **erect** person
+* Basal alveolar have greater perfusion and ventilation than apical alveoli
+* Note the perfusion gradient is steeper than the ventilation gradient
+* Note that the V/Q ratio is:
+	* ~1 at the 3<sup>rd</sup> rib
+	* ~3.3 at the apex
+	* ~0.63 at the base
+
+
 **Airway Resistance and Airway Generation:**
+
+
 <img src="resources\airway-gen-vs-resistance.svg">
+
+
 
 **Airway Resistance and Lung Volume:**
 <img src="resources\lungvol-vs-airway-resistance.svg">
