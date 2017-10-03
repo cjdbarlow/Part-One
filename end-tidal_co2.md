@@ -84,7 +84,7 @@ This consists of:
 The highest-point of this curve is labelled E<sub>T</sub>CO<sub>2</sub>.
 4. **Inspiration**, where PCO<sub>2</sub> returns to **0**
 
-###E<sub>T</sub>CO<sub>2</sub> Waveform Variations
+###E<sub>T</sub>CO<sub>2</sub> Waveform Variations{#var}
 **Airway obstruction:
 **<img src="resources\capno-obstruction.svg">
 * Occurs due to uneven emptying of alveoli with different time-constants
