@@ -25,7 +25,7 @@ Identify the key points of the curve and label these points. These include:
 
 ##Pharmacology
 **Dose-Response:**  
-<img src="resources\dose-response.svg" type="image/svg+xml" width="500">
+<img src="resources\dose-response.svg">
 
 * Dose response curve is a wash-in exponential
 * Difficult to compare different drugs using this curve
@@ -58,7 +58,7 @@ Identify the key points of the curve and label these points. These include:
 **The One-Compartment Model:**  
 
 
-<img src="resources\1compartment.svg" width="10pc">
+<img src="resources\1compartment.svg" style="width: 10pc;">
 
 * Drug is added to and removed from the single central compartment  
 There is no distribution possible.
