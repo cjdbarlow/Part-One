@@ -356,9 +356,19 @@ Time along capillary may also be used, however note that total transit time will
 <img src="resources\airway-gen-vs-resistance.svg">
 
 
+* Graph of airway resistance versus airway generation  
+* Airway generations are from 1 to 23, and so this graph should not extend outside these values
+* Airway resistance is maximal at the 5<sup>th</sup> generation  
+This has the lowest total cross-sectional area.
+* Airway resistance is negligible in the respiratory zone, which exists after the 15<sup>th</sup> generation
+
 
 **Airway Resistance and Lung Volume:**
+
+
 <img src="resources\lungvol-vs-airway-resistance.svg">
+
+
 
 **Pulmonary Vascular Resistance and Pulmonary Artery Pressure:**  
 <img src="resources\pap-vs-pvr.svg">
