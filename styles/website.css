@@ -48,11 +48,10 @@ path.bgline {
 }
 
 sup { 
-    vertical-align: super;
-    font-size: small;
+    vertical-align: 0.2em !important;
+    font-size: 0.8em !important;
 }
-
 sub { 
-    vertical-align: sub;
-    font-size: small;
+    bottom: -0.2em !important;
+    font-size: 0.8em !important;
 }
