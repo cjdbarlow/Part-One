@@ -67,6 +67,10 @@ How rapidly a system will oscillate when disturbed and left alone.
 
 ###Damping
 A pressure tranduction system should be adequately damped:
+
+<img src="resources\damping2.svg">
+
+
 * An **optimally** damped waveform has a damping of **0.64**. It demonstrates:
   * A rapid return to baseline following a **step-change**, with **one overshoot and one undershoot**
 * A **critically damped** waveform has a damping cofficient of **1**. It demonstrates:
@@ -81,8 +85,8 @@ A pressure tranduction system should be adequately damped:
   * Systolic pressure overshoot
   * Artifactual bumps
 
-<img src="resources\damping2.svg">
 
+Optimally damped waveforms are accurate for the widest range of frequency responses:
 
 <img src="resources\damping.svg">
 
