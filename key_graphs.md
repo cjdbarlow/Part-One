@@ -247,27 +247,63 @@ Here is a straightforward method which minimises the confusion:
 <img src="resources\PaO2-vs-MV.svg">
 
 
-* Exponent 
+* Exponential curve
+* Minute ventilation doubles as PaO<sub>2</sub> decreases from 100mmHg to 60mmHg
+* Inflection point is ~50-60mmHg  
+Below this there is a large increase in ventilation.
+* Hypercapnoea leads to a greater minute ventilation for any given PaO<sub>2</sub>
+
 
 
 **Isoshunt Diagram:**  
 
 <img src="resources\isoshunt.svg">
 
-
-* At 50% shunt, PaO2 is essentially independent of PAO2
-* At 30% shunt, PaO2 cannot increase above 100mmHg
+* Plots the relationship between PAO<sub>2</sub> versus PaO<sub>2</sub> for different (fixed) shunt fractions
+* These are known as isoshunt lines
+* Key isoshunt lines are:
+	* At 50% shunt, PaO2 is essentially independent of PAO2
+	* At 30% shunt, PaO2 will not increase above 100mmHg on 100% oxygen at atmospheric pressure
 
 ###Carbon Dioxide
 **Carbon Dioxide Dissociation Curve:**  
+
+
 <img src="resources\co2-dissociation-curve.svg">
 
+
+* Graph of carbon dioxide content versus partial pressure
+* Key points on this curve:
+	* Arterial CO<sub>2</sub> content is 48mls.100ml<sup>-1</sup> of blood at 40mmHg
+	* Mixed venous CO<sub>2</sub> content is 52.mls.100ml<sup>-1</sup> of blood at 46mmHg
+* Note that the mixed venous curve is up-shifted due to the Haldane effect  
+Remember that 50% of the difference in CO<sub>2</sub> content is due to the Haldane effect. Therefore:
+	* The mixed venous curve should be drawn such that CO<sub>2</sub> content is 50mls.100ml<sup>-1</sup> at 40mmHg
+	* The arterial curve should be drawn such that CO<sub>2</sub> content is 50mls.100ml<sup>-1</sup> at 46mmHg
+
 **PaCO<sub>2</sub> and Minute Ventilation:**
+
+
 <img src="resources\paco2-vs-MV.svg">
 
+
+* Graphs the change in minute ventilation for **primary change in PaCO<sub>2</sub>**
+* Remember that minute ventilation increases by ~3L.min<sup>-1</sup> for every 1mmHg increase in PaCO<sub>2</sub>  
+From this, the relationship to other states can be derived:
+	* Minute ventilation is reduced during sleep, but the central response to CO<sub>2</sub> is only minimally affected
+	* The central response to CO<sub>2</sub> is heavily affected during anaesthesia
+	* Minute ventilation is increased for any given PaCO<sub>2</sub> in the setting of acidosis
+
+
 **Alveolar Ventilation and PaCO<sub>2</sub>:** 
+
+
 <img src="resources\VA-vs-paco2.svg">
 
+
+* Graphs the change in PaCO<sub>2</sub> for a **primary change in minute ventilation**
+* Exponential curve as PaCO<sub>2</sub> is inversely proportional to minute ventilation
+* Minute ventilation is increased for any given PaCO<sub>2</sub> during exercise
 
 
 ###Anatomical and Physiological Interactions
