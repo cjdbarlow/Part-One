@@ -47,6 +47,7 @@ With plugins from:
     * Written in [PGF/Tikz](https://ctan.org/pkg/pgf) using [texworks](https://www.tug.org/texworks/)
     * Converted to vector graphics with [dvisvgm](http://dvisvgm.bplaced.net/)
     * Refined with [svgo](https://github.com/svg/svgo)
+    * (Some graphs have been stolen from open-source sites such as [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page). These have been credited where used.)
 * Chemical structures have been built in [MarvinSketch](https://www.chemaxon.com/products/marvin/marvinsketch/)
 
 ---
