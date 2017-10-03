@@ -6,7 +6,7 @@ Part One is a reference for trainees preparing for the CICM and ANZCA Primary Ex
     * A tool to correct your written answers
     * A source of information you might find difficult to find elsewhere
 * Part One **is not**:
-    * A medical textbook
+    * A textbook
     * The definitive guide to the primary exam  
     * A complete reference  
     There will be both omissions and errors. If you find any, please let us know.
