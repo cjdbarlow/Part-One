@@ -77,7 +77,7 @@ The flow of blood to an organ is equal to the uptake of a tracer substance divid
         Typically estimated as 3.5ml.kg<sup>-1</sup>
 .min<sup>-1</sup>
         * $$C_a$$ is arterial oxygen content
-        * **C_v$$ is mixed venous oxygen content
+        * $$C_v$$ is mixed venous oxygen content
 * Relies on mixed venous blood sampled from the pulmonary artery, and arterial blood sampled from a peripheral arterial line
 
 
