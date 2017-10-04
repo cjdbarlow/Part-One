@@ -18,7 +18,7 @@ $$CBF \approx {\Delta P \pi R^4 \over 8 \eta L} $$, where:
 These are also called rheologic factors.
 * $$L$$ is the length of the tube, a fixed quantity
 
-##Factors Affecting Perfusion Pressure
+##Factors Affecting Perfusion Pressure{#cpp)
 * Cerebral Perfusion Pressure is the difference between mean arterial pressure and intracranial pressure: $$CPP = MAP - ICP$$
 * A **normal CPP** is **~80mmHg**
 * In normal individuals, CBF is classically thought to be autoregulated over a **CPP range** of **60-160mmHg**
@@ -48,7 +48,7 @@ Vessel calibre is affected primarily by four factors:
 * Neurohormonal factors
 * Temperature
 
-###Cerebral Metabolism
+###Cerebral Metabolism{#temp}
 **Cerebral metabolism** (typically given by the cerebral metabolic requirement for oxgygen, CMRO<sub>2</sub>) has a linear association with cerebral blood flow - this is known as **flow-metabolism coupling**. This is controlled locally through the release of vasoactive mediators, such as H<sup>+</sup>, adenosine, and NO. Determinants of cerebral metabolism include:
 * **Drugs**  
   Cerebral metabolism may be decreased by use of drugs such as benzodiazepines, barbiturates, and propofol.
@@ -58,7 +58,7 @@ Vessel calibre is affected primarily by four factors:
 <img src="resources\temp-vs-CBF.svg">
 
 
-###PaCO<sub>2</sub>
+###PaCO<sub>2</sub>{#o2}
 **Carbon dioxide** acts as a cerebral vasodilator.
 * CBF is almost linear between **20mmHg and 80mmHg**
   * Above 80mmHg, the circulation is maximally dilated
@@ -73,7 +73,7 @@ Vessel calibre is affected primarily by four factors:
 
 
 
-###PaO<sub>2</sub>
+###PaO<sub>2</sub>{#co2}
 * CBF increases rapidly when PaO<sub>2</sub> falls below 60mmHg so that cerebral oxygen delivery is maintained  
 Hypoxia causes a release of adenosine and reduced calcium uptake, with subsequent vasodilation
 
