@@ -37,7 +37,7 @@ Includes the key definitions, graphs, and equations you should know, as well as 
 ---
 
 ###Acknowledgements + Technical Stuff
-Part One is built on a number of [open-source](https://opensource.org/) technologies:
+Part One is built with a number of [open-source](https://opensource.org/) tools:
 * Written in John Gruber's elegant [Markdown](https://daringfireball.net/projects/markdown/)
 * Built and made pretty by the [GitBook toolchain](https://toolchain.gitbook.com/)    
 With plugins from:
@@ -48,8 +48,10 @@ With plugins from:
     * Written in [PGF/Tikz](https://ctan.org/pkg/pgf) using [texworks](https://www.tug.org/texworks/)
     * Converted to vector graphics with [dvisvgm](http://dvisvgm.bplaced.net/)
     * Refined with [svgo](https://github.com/svg/svgo)
-    * (Some graphs have been stolen from open-source sites such as [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page). These have been credited where used.)
-* Chemical structures have been built in [MarvinSketch](https://www.chemaxon.com/products/marvin/marvinsketch/)
+    * (Some graphs have been taken from open-source sites such as [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page). These have been credited where used.)
+    
+    
+* Additionally, chemical structures have been built in [MarvinSketch](https://www.chemaxon.com/products/marvin/marvinsketch/)
 
 ---
 
