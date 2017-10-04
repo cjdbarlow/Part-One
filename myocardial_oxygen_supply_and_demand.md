@@ -28,12 +28,18 @@
      * The flow to each ventricle is different during the cardiac cycle
      * The left ventricle is **best perfused in diastole**  
      Therefore **heart rate** is an important determinant of coronary blood flow, as **tachycardia will decrease coronary blood flow**
+* Flow to each ventricle is a function of how relationships change over the cardiac cycle
 
-Flow to each ventricle can be graphed as these relationships change over the cardiac cycle:
+Left Ventricular Coronary Blood Flow:
 
 <img src="resources\LV-cbf.svg">
 
+Right Ventricular Coronary Blood Flow:
+
 <img src="resources\RV-cbf.svg">
+
+
+
 
 ##Myocardial Oxygen Demand
 Normal myocardial oxygen consumption (MVO<sub>2</sub>) is 21-27ml.min<sup>-1</sup>. The **three major determinants** are:
