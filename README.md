@@ -1,7 +1,8 @@
 # Part One
 
 Part One is a reference for trainees preparing for the CICM and ANZCA Primary Exams.
-* Part One **is** designed to cover the *assessed* sections of the CICM and ANZCA curricula **in enough detail to pass**. Use it as:
+* Part One **is**:
+    * Designed to cover the ***assessed*** sections of the CICM and ANZCA curricula **in enough detail to pass**
     * A rough guide for the expected depth of knowledge required on a topic
     * A tool to correct your written answers
     * A source of information you might find difficult to find elsewhere
@@ -35,14 +36,14 @@ Includes the key definitions, graphs, and equations you should know, as well as 
 
 ---
 
-###Acknowledgements + Technical
+###Acknowledgements + Technical Stuff
 Part One is built on a number of [open-source](https://opensource.org/) technologies:
 * Written in John Gruber's elegant [Markdown](https://daringfireball.net/projects/markdown/)
 * Built and made pretty by the [GitBook toolchain](https://toolchain.gitbook.com/)    
 With plugins from:
     * [Ben Lau](https://github.com/L3au) for [automatic timestamps](https://github.com/L3au/gitbook-plugin-git-author)
     * [Michael Jerger](https://github.com/jerger) for [collapsible chapters](https://github.com/DomainDrivenArchitecture/gitbook-plugin-expandable-chapters)
-* Equations written in latex
+* Equations written in [<span class="texhtml" style="font-family: 'CMU Serif', cmr10, LMRoman10-Regular, 'Nimbus Roman No9 L', 'Times New Roman', Times, serif;">L<span style="text-transform: uppercase; font-size: 70%; margin-left: -0.36em; vertical-align: 0.3em; line-height: 0; margin-right: -0.15em;">a</span>T<span style="text-transform: uppercase; margin-left: -0.1667em; vertical-align: -0.5ex; line-height: 0; margin-right: -0.125em;">e</span>X</span>](https://www.latex-project.org/about/)
 * Graphs have been:
     * Written in [PGF/Tikz](https://ctan.org/pkg/pgf) using [texworks](https://www.tug.org/texworks/)
     * Converted to vector graphics with [dvisvgm](http://dvisvgm.bplaced.net/)
