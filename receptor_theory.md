@@ -52,19 +52,29 @@ The size of effect a drug has when bound, which is graded from 0 to 1.
 ##Drug-Receptor Interactions
 Drugs can be classified by the way they interact with receptors into:
 * **Agonists**
+    * Partial agonists
+    * Inverse agonists
 * **Antagonists**
-* **Partial agonists**
-* **Inverse agonists**
+    * Indirect antagonists
 * **Allosteric Modulators**
 * **Mixed Agonist-Antagonists**
 
-###Agonist
+##Agonists{#agon}
 An agonist will generate a **maximal** response at the receptor site. An agonist has **high affinity** and an **activity of 1**. Agonists can be compared by:
 * **Relative potency** implies that if two agonists are equally efficacious, a smaller dose of one is required to get an effect
 * **Relative efficacy** implies that the maximal effect of one agonist is greater than the other
 
+<img src="resources\agonists-FA-IA-PA.svg">
 
-###Antagonist 
+
+###Partial agonist
+A partial agonist generates a **submaximal** response at the receptor. A partial agonist has a **high affinity** and an **activity between 0 and 1**. A partial agonist can act as an effective antagonist in the presence of a full agonist, as it will prevent maximal binding at a receptor, even with a high agonist concentration.
+
+###Inverse agonist 
+A drug which has a **negative activity** (between 0 and -1) producing the **opposite** response (compared to the endogenous agonist) at receptor.
+* Occurs due to loss of **constitutive activity** at that receptor
+
+##Antagonist{#antagon} 
 An antagonist produces no response at the receptor site, and prevents other ligands binding. Antagonists have **high affinity** and an **activity of 0**.
 
 Antagonists with these properties are also known as **direct antagonists**, which can be either:
@@ -77,6 +87,10 @@ Displace other ligands from a binding site. Competitive antagonists can be:
 * **Non-competitive antagonists**  
 Create a conformational change in the receptor. They cannot be overidden by increasing the dose of agonist.
 
+
+<img src="resources\FA-with-nca-and-ca.svg">
+
+
 ####Indirect Antagonist
 Indirect antagonists reduce the clinical effect of a drug, but do so via means other than receptor interaction. They include:
 * **Chemical antagonists**  
@@ -84,14 +98,9 @@ Where the drug binds directly to another. Examples include protamine and heparin
 * **Physiologic antagonists**  
 A countering effect is produced by agonism of other pathways.
 
-###Partial agonist
-A partial agonist generates a **submaximal** response at the receptor. A partial agonist has a **high affinity** and an **activity between 0 and 1**. A partial agonist can act as an effective antagonist in the presence of a full agonist, as it will prevent maximal binding at a receptor, even with a high agonist concentration.
 
-###Inverse agonist 
-A drug which has a **negative activity** (between 0 and -1) producing the **opposite** response (compared to the endogenous agonist) at receptor.
-* Occurs due to loss of **constitutive activity** at that receptor
 
-###Allosteric Modulator
+##Allosteric Modulator
 A drug which binds to an allosteric site on the receptor and produces conformational change that alters the affinity of the receptor for the endogenous agonist.
 
 Allosteric modulators can be:
@@ -101,7 +110,7 @@ Increases affinity for endogenous agonist.
 * Negative  
 Decreases affinity for endogenous agonist.
 
-###Mixed Agonist-Antagonist
+##Mixed Agonist-Antagonist
 A drug which has different effects on different receptors.
 
 ---

@@ -70,7 +70,7 @@ Amount of drug removed by the body per unit time.
     * This is not the rate constant for elimination
 
 
-##Compartmental Modelling
+##Compartmental Modelling{#one}
 The simplest model imagines the body a single, well-stirred compartment. 
 
 <img src="resources\1compartment.svg" style="width: 10pc;">
@@ -95,7 +95,7 @@ $$ Input = Output \\ C_i.I = C_{ss}.Cl \\ C_{ss} = {C_i.I \over Cl}$$
     * Concentration of drug can therefore be determined by the amount infused and the clearance
 * Note steady state requires peripheral compartments to be saturated, and so will only occur after an infusion of many hours
 
-###Multiple Compartment Models
+###Multiple Compartment Models{#multi}
 * Models with multiple compartments have a better fit with experimental data than single compartment models
 * Three-compartment models are typically used, as additional compartments typically offer no extra fidelity but are mathematically more complex
 * A three-compartment model *can* be conceptualised as a plasma (or central) compartment, a well-perfused compartment, and a poorly-perfused compartment  
@@ -152,7 +152,7 @@ The value of $$\alpha$$ is dependent on the ratio of rate constants for distribu
     * If plasma concentration was plotted on the y-axis, then each of these curves would be a negative exponential (wash-out curve)
     
     
-####Effect Site
+####Effect Site{#effect}
 Pharmacokinetic models typically display the plasma concentration.
 * Clinically however, we are interested in drug concentrations at the site of action (e.g. the brain)
     * Concentration at the effect site (also known as biophase) is given by **Ce**

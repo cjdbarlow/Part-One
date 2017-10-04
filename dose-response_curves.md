@@ -1,13 +1,14 @@
 #Dose-Response Curves
 >To define and explain dose-effect relationships of drugs, including dose-response curves with reference to: graded and quantal response.
 
-##Standard Dose-Response Curves
+##Standard Dose-Response Curves{#stan}
+
 A dose-response curve is a graph of concentration against the fraction of receptors occupied by a drug. 
 
 <img src="resources\dose-response.svg">
 
 
-##Log-Dose Response Curves
+##Log-Dose Response Curves{#log}
 It is difficult to compare drugs using standard dose-response curves. Therefore, dose is commonly log-transformed to produce a log-dose response curve.
 
 <img src="resources\fatex.svg">

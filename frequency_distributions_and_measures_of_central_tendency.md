@@ -57,7 +57,7 @@ The mean is common and reliable, though inaccurate if the distribution is **skew
 ##Measures of Dispersion
 Measures of variability describe the degree of dispersion around the central value.
 
-###Basic measures of deviation
+###Basic Measures of Deviation{#box}
 * **Range**: The lowest and highest values in the sample  
   Highly influenced by outliers
 * **Percentiles**: Rank observations into 100 equal parts, so that the median becomes the 50% percentile.  

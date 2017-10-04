@@ -26,7 +26,11 @@ This acidosis relaxes the braking effect and allows further hyperventilation, an
 
 
 * There is an **initial left-shift** of the oxygen-haemoglobin dissociation curve due to alkalosis
-* This stimulates a comepnsatory increase in 2,3-DPG to right-shift the curve and return it to normal
+* This stimulates a comepensatory increase in 2,3-DPG to right-shift the curve and improve oxygen offloading at the tissues
+
+
+<img src="resources\oxy-hb-curve-shifts.svg">
+
 
 ###Cardiovascular
 * PVR increases due to HPV

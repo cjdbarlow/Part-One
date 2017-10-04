@@ -26,6 +26,9 @@ From these levels two related terms are derived:
 $$ Therapeutic \ Index = {LD_{50} \over ED_{50}} $$
   * A higher therapeutic index gives a greater margin for safety
 
+<img src="resources\therapeutic-index.svg">
+
+
 ##Indications
 Drugs are monitored in order to:
 * Avoid **toxicity**
