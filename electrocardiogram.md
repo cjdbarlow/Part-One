@@ -15,7 +15,7 @@ Shielded to prevent currents being induced and electrocuting the patient.
 * Processor
 * Monitor
 
-###ECG Leads
+###ECG Leads{#eint}
 ECG **leads** are created by taking the **potential difference** between two electrodes, which varies by **0.5-2mV** through the cardiac cycle as myocardium depolarises. ECG leads are divided into:
 * Limb leads  
 Potential difference between limb electrodes:
@@ -28,6 +28,12 @@ Potential difference between the average of the limb leads (called the **indiffe
     * Three augmented leads exist (one for each limb electrode)
 * Precordial leads  
 Potential difference between the indifferent electrode and one of the six additional electrodes placed on the chest wall.
+
+
+The relationship between electrodes and leads is described with **Einthoven's Triangle**:
+
+<img src="resources\einthovens.svg" style="width: 25pc;">
+
 
 ##Method
 * As the myocardial membrane potential changes across the cardiac cycle, a potential difference can be measured at the skin.

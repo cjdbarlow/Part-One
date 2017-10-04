@@ -25,7 +25,7 @@ Leaks in the tight junctions will result in solute moving from the interstitium 
   The maximum solute concentration for a gradient limited system is related to the permeability of the tight junctions.
 
 
-##Glucose
+##Glucose{#flux}
 Glucose is:
 * Freely filtered at the glomerulus
 * Completely reabsorbed via the **transcellular route** in the proximal convoluted tubule under normal circumstances

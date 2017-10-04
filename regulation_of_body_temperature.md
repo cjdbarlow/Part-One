@@ -110,7 +110,7 @@ This is of more importance in other primates than in man, as they have enough bo
       * Sympathetically innervated  
       Contains large numbers of β<sub>3</sub> receptors
 
-##Effect of Anaesthesia
+##Effect of Anaesthesia{#anaes}
 General anaesthesia causes a 1-3°C drop in core body temperature, which occurs in three phases:
 *  Rapid reduction  
 Core temperature falls by 1-1.5°C in the first 30 minutes.

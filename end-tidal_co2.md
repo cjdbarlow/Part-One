@@ -70,7 +70,7 @@ E<sub>T</sub>CO<sub>2</sub> may be either **side-stream** or **in-line**.
         * Require heating to 41°C to avoid condensation
 
 
-###Normal E<sub>T</sub>CO<sub>2</sub> Waveform
+###Normal E<sub>T</sub>CO<sub>2</sub> Waveform{#capno}
 <img src="resources\capno-normal.svg">
 
 The normal trace consists of four components:
