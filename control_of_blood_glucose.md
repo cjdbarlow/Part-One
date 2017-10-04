@@ -3,7 +3,8 @@
 
 Normal blood glucose in the non-diabetic is 4-6 mmol.L<sup>-1</sup>, though will rise after consumption of carbohydrate. Glucose regulation can be divided into:
 * Short-term  
-Regulation via secretion or inhibition of insulin and glucagon from the pancreatic islets. * Long-term  
+Regulation via secretion or inhibition of insulin and glucagon from the pancreatic islets.
+* Long-term  
 Regulation via both neuronal (SNS activation) and hormonal (cortisol, GH) mechanisms.
 
 ##Hormal Mechanisms
