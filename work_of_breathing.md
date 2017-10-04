@@ -49,7 +49,7 @@ About 35% of total work, and is lost as heat. This is due to the energy required
 
 
 
-###Graphing Work of Breathing
+###Graphing Work of Breathing{#wob}
 Work of breathing can be evaluated with a dynamic lung compliance curve:
 
 <img src="resources\workofbreathing.svg">

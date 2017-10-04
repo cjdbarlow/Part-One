@@ -21,7 +21,7 @@ $$ Reynolds' \ Number = {2r.d.v \over \eta} $$, where:
 
 A Reynolds' Number of < 2000 is predominantly laminar flow, whilst >4000 is predominantly turbulent.
 
-###Laminar Flow
+###Laminar Flow{#res}
 In laminar flow:
 * Gas moves in a series of concentric cylinders which slide over one another  
   * Gas in the centre moves **twice as fast** compared to the outside, where it is almost stationary
@@ -61,26 +61,31 @@ Main determinant. May be divided into:
     Sputum plugging, aspiration.
   
 Note that airway resistance:
-* **Peaks** at the **5<sup>th</sup> generation
+* **Peaks** at the **5<sup>th</sup>** generation
 * Rapidly **decreases** with each airway division thereafter  
 This is due to the total cross-sectional area increasing dramatically.
 
 <img src="resources\airway-gen-vs-resistance.svg">
 
 
+* Reduces with increasing lung volume, as radial tension distends airways, increasing their cross sectional area
+
+<img src="resources\lungvol-vs-airway-resistance.svg">
 
 
 ###Turbulent Flow
-High flow rates and branching of airways disrupt disciplined laminar flow. Turbulent flow is the norm in the upper airway (where velocity is high), and in early-generation airways due to regular branching, changes in diameter, and sharp angles. Only after the **11th generation** bronchioles does laminar flow become more common. Unlike laminar flow, in turbulent flow:
-* Flow is proportional to the square root of the driving pressure  
+High flow rates and branching of airways disrupt disciplined laminar flow. Turbulent flow: is:
+* Dominant in the upper airway (where velocity is high)
+* Dominant in early-generation airways due to regular branching, changes in diameter, and sharp angles
+* Reduces after the **11th generation** bronchioles
+* Proportional to the square root of the driving pressure  
 Therefore, **resistance is higher in turbulent flow** than in laminar flow.
-* Driving pressure is proportional to gas density, and independent of viscosity
+  * Driving pressure is proportional to gas density, and independent of viscosity
 
-Resistance is turbulent flow:
-* Is managed by making flow less turbulent  
-By reducing Reynolds number.
-  * Helium mixtures reduce gas density  
-  Of greater benefit in upper airway than lower airway disease.
+Resistance in turbulent flow is managed by making flow less turbulent:
+  * Achieved by reducing Reynolds number
+    * Helium mixtures reduce gas density  
+    Of greater benefit in upper airway than lower airway disease.
 
 ###Transitional Flow
 Transitional flow occurs at branches and angles in the airways, as occur in most of the bronchial tree.

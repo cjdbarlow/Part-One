@@ -27,13 +27,13 @@ Optimal gas exchange occurs when regions of lung are ventilated in proportion to
     * Becoming more pronounced at TLC (with apical perfusion falling precipitously)
     * Reversing slightly at RV
 
-##V/Q Ratios
+##V/Q Ratios{#reg}
 <img src="resources\regional-ventilation-and-perfusion.svg">
 
 * The global V/Q ratio for normal resting lung is **0.9**
 * The global V/Q ratio improves to 1.0 during exercise
 
-###V/Q Mismatching and Etymology
+###V/Q Mismatch and Etymology
 * V/Q mismatch occurs when V/Q ≠ 1:
   * **V/Q >1** (Dead Space)  
   Ventilation in excess of perfusion.

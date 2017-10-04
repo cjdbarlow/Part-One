@@ -1,6 +1,6 @@
 #Respiratory Changes in Neonates and Children
 
-##Transition at Birth
+##Transition at Birth{#trans}
 Transition from placental gas exchange to pulmonary gas exchange occurs within 20s after birth:
 * Compression of the thorax through the vaginal canal expels foetal lung water
 * Elastic recoil, combined with cooling of the skin and mechanical stimulation (which stimulate the respiratory centre), facilitate first breath
@@ -8,7 +8,7 @@ Transition from placental gas exchange to pulmonary gas exchange occurs within 2
 * The rapid drop in pulmonary vascular resistance with spontaneous breathing drives the changes in the cardiac circulation
 
 * The **first three breaths** establish functional residual capacity  
-Large changes in intrathoracic pressure compress amniotic fluid in the alveoli into the circulation, replacing alveolar water with air.
+Large changes in intrathoracic pressure in the first three breaths pressure drive alveolar amniotic fluid into the circulation, and establish FRC.
 
 <img src="resources\first-breath.svg">
 

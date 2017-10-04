@@ -57,7 +57,7 @@ Additionally:
 * Most of the remainder is via **anterior cardiac veins** which drain directly into the RA
 * A small proportion of blood from the left side of the heart is drained via the **thebesian veins** directly into the cardiac chambers
 
-##Coronary Blood Flow
+##Coronary Blood Flow{#flow}
 Coronary Blood Flow:
 * Normal is **~250ml.min<sup>-1</sup>** (~5% of resting CO)
 * May increase 4x during strenuous exercise  
@@ -70,13 +70,13 @@ The difference between aortic root pressure and the greater of RAP or intracavit
   * Note that the pressure gradient is usually Aorta-Cavity rather than Aorta-RA  
   This is because the pressure in the ventricle acts as a Starling resistor - coronary flow is independent of RAP whilst $$RAP < P_{Cavity}$$
 * Heart rate  
-CBF is affeted in systole due to the changes in perfusion pressure, and compression of intramuscular vessels (causing an increase in CVR).
+LV CBF is affected in systole due to the changes in perfusion pressure, and compression of intramuscular vessels (causing an increase in CVR).
   * RV CBF is less affected, as the force of contraction is significantly smaller and a pressure gradient is maintained
   * Tachycardia reduces diastolic time and subsequently LV CBF
 
-<img src="resources\lv-cbf.svg">
+<img src="resources\LV-cbf.svg">
 
-<img src="resources\rv-cbf.svg">
+<img src="resources\RV-cbf.svg">
 
 
 ###Control of Coronary Blood Flow

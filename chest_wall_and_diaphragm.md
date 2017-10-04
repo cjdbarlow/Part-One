@@ -20,6 +20,8 @@ Complex dome-shaped membranous structure, consisting of a central tendon and per
     * **T10** for the **oesophagus** (ten letters)
     * **T12** for the **aorta**, thoracic duct, and azygos vein
 
+<img src="resources\lung-pressure-volume.svg">
+
 ##Inspiration
 * During **inspiration**, the **diaphragm** and **external intercostal** muscles **contract**
   * Diaphragm pushes the intrabdominal contents down, increasing thoracic volume and generating a negative intrathoracic pressure
@@ -33,10 +35,13 @@ Complex dome-shaped membranous structure, consisting of a central tendon and per
 
 ##Expiration
 * Expiration is passive during quiet breathing as elastic recoil of the lung will return them to FRC
-* At high minute ventilation, expiration becomes an an active process:
+* When minute ventilation is high, expiration becomes an an active process:
   * **Abdominal wall** muscles (rectus abdominis, internal oblique, external oblique, transversus abdominis) contract, raising intrabdominal pressure and forcing the diaphragm up
   * **Internal** and **innermost** intercostals contract, pulling the ribs **downwards** and **inwards**, further decreasing thoracic volume
 
+
+
+##Respiratory Mechanics in Spinal Injury
 
 * Paralysis of the abdominal wall muscles (e.g. spinal injury) has significant affect on respiratory mechanics:
   * In the initial phases of injury, spinal shock results in a flaccid paralysis of the abdominal wall

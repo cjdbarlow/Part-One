@@ -129,7 +129,7 @@ A **low** blood:gas partition coefficient indicates a **rapid** onset and offset
 A **high** oil:gas partition coefficient indicates a greater potency, and therefore a low MAC.
 
 
-##Pharmacokinetics of Inhalational Agents
+##Pharmacokinetics of Inhalational Agents{#pk}
 Achieving the required P<sub>B</sub> requires maintaining P<sub>A</sub> at a high enough level. By increasing P<sub>A</sub>, the pressure gradient for diffusion into blood, and therefore CNS, is increased.
 
 As discussed above, rate of onset of an inhalational agent is dependent on rate of uptake:
@@ -205,7 +205,7 @@ The difference in partial pressure of agent in the alveolus and venous blood is 
         * Fat has a much higher affinity for anaesthetic than muscle, but equilibrates very slowly due to the very low blood flow  
         This is of greater importance in the obese, especially during prolonged anaesthesia, as they have a longer equilibration time and therefore prolonged emergence.
 
-###Wash-out of Inhalational Agents
+###Wash-out of Inhalational Agents{#wash}
 Recovery is dependent on how quickly an inhalational agent can be eliminated from the effect site, and can be graphed by the F<sub>A</sub>/F<sub>A0</sub> ratio over time:
 
 <img src="resources\fa-fao.svg">

@@ -32,7 +32,7 @@ Afferent fibres from CNIX and CNX travel to the NTS in the **medulla**. Effector
 
 **Increased** **low-pressure** stretch receptor activity results in an **increase** rather than a decrease in **heart rate**.
 
-##Baroreceptor Activity
+##Baroreceptor Activity{#baro}
 Baroreceptors are:
 * **More sensitive to pulsatile pressure** than constant pressure  
 A decrease in pulse pressure without a change in MAP will decrease baroreceptor firing.
@@ -40,7 +40,9 @@ A decrease in pulse pressure without a change in MAP will decrease baroreceptor 
 Rapid compensatory responses are vital in the short-term control of blood pressure, e.g. with posture.
 * Active over the range from 50mmHg to 200mmHg
 
-This curve is left-shifted in children and neonates, and right-shifted in chronic hypertension, though this is reversible.
+<img src="resources\baroreceptors.svg">
+
+* This curve is left-shifted in children and neonates, and right-shifted in chronic hypertension, though this is reversible
 
 ##Hormonal control
 Atrial stretch receptors also excrete ANP, which reduces blood pressure in the following ways:

@@ -171,7 +171,7 @@ Factors affecting FRC:
        $$P_1 \times FRC = P_2(FRC + \Delta V)$$  
        $$FRC = {P_2 \Delta V \over P_3 - P_4}$$
 
-##Closing Capacity
+##Closing Capacity{#closing}
 * Closing capacity is **volume at which small airways begin to close**  
 Closing capacity is the sum of residual volume and closing volume.
   * Because dependent lung is compressed by gravity, dependent (typically basal) airways are of smaller calibre than non-dependent (typically apical) airways

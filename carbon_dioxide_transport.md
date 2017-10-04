@@ -60,7 +60,7 @@ The Haldane effect states that deoxyHb binds CO<sub>2</sub> more effectively tha
 
 
 
-###CO<sub>2</sub> Dissociation Curve
+###CO<sub>2</sub> Dissociation Curve{#curve}
 This curve plots PCO<sub>2</sub> against blood CO<sub>2</sub> content in ml.100ml<sup>-1</sup>.
 
 <img src="resources\co2-dissociation-curve.svg">
@@ -83,7 +83,7 @@ $$PACO_2 \propto {1 \over \dot{V}_A}$$
 
 <img src="resources\paco2-vs-MV.svg">
 
-##Distribution of Carbon Dioxide
+##Distribution of Carbon Dioxide{#vent}
 CO<sub>2</sub> in the body can be considered as a three-compartment model:
 * Well-perfused (blood, brain, kidneys)
 * Moderately-perfused (resting muscle)

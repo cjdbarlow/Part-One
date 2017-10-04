@@ -37,7 +37,7 @@ Conversely, the pulmonary circulation must:
 * Consequently, pulmonary vessels are thin walled and contain minimal smooth muscle
 * This makes the pulmonary circulation **highly compliant** - the volume of blood is able to change substantially with minimal change in pressure
 
-###Vascular Resistance
+###Pulmonary Vascular Resistance{#pvr}
 Vascular resistance follows Ohms law, i.e.:  
 $$ Vascular \ Resistance = {P_{In} - P_{Out} \over Flow }$$
 
