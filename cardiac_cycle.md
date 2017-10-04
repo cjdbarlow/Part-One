@@ -17,7 +17,16 @@ Phases of the cardiac cycle:
     * Isovolumetric Ventricular Contraction
     * Ejection
 
-##Phases of the Cardiac Cycle
+
+
+##Phases of the Cardiac Cycle{#wig}
+
+Events during each phase of the cardiac cycle are represented on **Wigger's Diagram**:
+
+<img src="resources\Wiggers.svg" style="width: 70pc;">
+
+
+
 ###Slow Ventricular Filling (Diastasis)
 In slow ventricular filling:
 * The AV valves are open and the semi-lunar valves are closed
@@ -85,3 +94,4 @@ This occurs when atrial pressure exceeds ventricular pressure.
 ##References
 1. Hall, JE, and Guyton AC. Guyton and Hall Textbook of Medical Physiology. 11th Edition. Philadelphia, PA: Saunders Elsevier. 2011. 
 2. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+3. Wigger's Diagram (with some modifictions) from [Wigger's Diagram](https://commons.wikimedia.org/wiki/File:Wiggers_Diagram.svg). 21/3/2012. (Image). By DanielChangMD (revised original work of DestinyQx); Redrawn as SVG by xavax. [CC BY 3.0 ](http://creativecommons.org/licenses/by/3.0), via Wikimedia Commons.

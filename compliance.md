@@ -32,7 +32,7 @@ This is performed by measuring oesophageal pressure (using a balloon) with an **
   * This can be expressed by the equation:  
 $$ \Delta P_{Pl.} = P_{Plat.} \times {C_L \over C_L + C_W } $$
 
-##Static Compliance
+##Static Compliance{#comp}
 * **Static compliance** is the compliance of the system at a given volume when there is no flow
 * Therefore there is no pressure component due to resistance
 * A static compliance curve is made by measuring the pressure across a range of lung volumes, with patient taking incremental breaths

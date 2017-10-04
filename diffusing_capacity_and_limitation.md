@@ -68,7 +68,7 @@ In the lung, this is a function of:
   * Molecular weight  
   Smaller substances will diffuse more quickly.
 
-##Diffusion and Perfusion Limitation
+##Diffusion and Perfusion Limitation{#limit}
 Limitation refers to what process limits gas uptake into blood:
 * Gases which are **diffusion limited** fail to equilibrate, i.e. the partial pressure of a substance in the alveolus does not equal that in the pulmonary capillary
   * e.g. Carbon Monoxide

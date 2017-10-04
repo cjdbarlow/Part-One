@@ -58,8 +58,8 @@ This is where technical definitions become important to avoid confusion.
   * For an alveoli with a V/Q of 0 (true shunt)
     * There is no perfusion. Regardless of the increase in PAO<sub>2</sub>, PaO<sub>2</sub> will not improve.
 
-####The Iso-Shunt Diagram
-* Iso-shunt diagram plots the relationship between FiO<sub>2</sub> and PaO<sub>2</sub> against a set of 'virtual shunt lines'
+####The Isoshunt Diagram{#iso}
+* Isoshunt diagram plots the relationship between FiO<sub>2</sub> and PaO<sub>2</sub> against a set of 'virtual shunt lines'
 * These 'shunt fractions' are calculated from the above equation and so are actually V/Q admixture fractions
 
 <img src="resources\isoshunt.svg">
