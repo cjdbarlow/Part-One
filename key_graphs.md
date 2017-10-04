@@ -266,7 +266,7 @@ Below this there is a large increase in ventilation.
 
 
 
-[**Isoshunt Diagram:**]{shunt.md#iso}  
+[**Isoshunt Diagram:**](shunt.md#iso)  
 
 <img src="resources\isoshunt.svg">
 
@@ -277,7 +277,7 @@ Below this there is a large increase in ventilation.
 	* At 30% shunt, PaO2 will not increase above 100mmHg on 100% oxygen at atmospheric pressure
 
 ###Carbon Dioxide
-[**Carbon Dioxide Dissociation Curve:**]{#carbon_dioxide_transport.md#curve}  
+[**Carbon Dioxide Dissociation Curve:**](carbon_dioxide_transport.md#curve)  
 
 
 <img src="resources\co2-dissociation-curve.svg">
@@ -306,7 +306,7 @@ From this, the relationship to other states can be derived:
 	* Minute ventilation is increased for any given PaCO<sub>2</sub> in the setting of acidosis
 
 
-[**Alveolar Ventilation and PaCO<sub>2</sub>:**]{#carbon_dioxide_transport.md#vent}   
+[**Alveolar Ventilation and PaCO<sub>2</sub>:**](carbon_dioxide_transport.md#vent)   
 
 
 <img src="resources\VA-vs-paco2.svg">
