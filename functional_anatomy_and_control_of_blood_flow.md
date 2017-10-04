@@ -20,7 +20,7 @@ The kidneys:
 High flow is instead needed **to produce** the large volume of **glomerular filtrate** (125ml.min<sup>-1</sup>) required for excretion of waste.
 
 
-###Autoregulation
+###Autoregulation{#auto}
 Renal blood flow is **autoregulated** over a wide range of mean arterial pressures (60-160mmHg) via:
 * **Myogenic** autoregulation
 * **Tubuloglomerular** feedback

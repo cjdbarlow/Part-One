@@ -16,7 +16,7 @@ Calculated using the Henderson-Hasselbalch and Siggaard-Anderson equation. Can b
   * Standardised Base Excess  
   As base excess, but calculated for blood with a Hb concentration of 50g.L<sup>-1</sup>. This is thought to better represent the ECF as a whole.
 
-##Oxygen Tension
+##Oxygen Tension{#clarke}
 Oxygen tension is measured with a **Clarke electrode**. This consists of:
 * A chamber for the blood sample  
 * A chamber containing a potassium chloride solution, which:
@@ -46,7 +46,7 @@ Requires regular two-point calibration.
 * Cathode must be kept at 37°C
 * May read falsely high with halothane
 
-##pH Measurement
+##pH Measurement{#ph}
 pH is a measure of the hydrogen ion concentration[^1] in solution, and is defined as the negative logarithm to the base 10 of the [H<sup>+</sup>]:
 * $$ pH = -log_{10}[H^+]$$
 * A pH of **7.4** is a [H<sup>+</sup>] of **40nmol.L<sup>-1</sup>** at 37°C
@@ -79,7 +79,7 @@ The pH electrode consists of:
     Hypothermia decreases solubility of CO<sub>2</sub> and therefore decreases pH 
 * Electrodes must be kept clean from protein and not damaged
 
-##Carbon Dioxide Tension
+##Carbon Dioxide Tension{#sever}
 Carbon dioxide tension is measured with a **Severinghaus electrode**, which is based on the pH electrode, as PaCO2 is related to [H<sup>+</sup>]. The Severinghaus electrode consists of:
 * A chamber for the blood sample, separated from the bicarbonate chamber by a CO<sub>2</sub> permeable membrane
 * A chamber containing bicarbonate solution in a nylon mesh, and separated from both the measuring and reference chambers by H<sup>+</sup>-permeable glass

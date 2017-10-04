@@ -65,7 +65,7 @@ How rapidly a system will oscillate when disturbed and left alone.
 * If high frequency components of the pressure waveform approach the natural frequency of the system, then the system will resonate
 * This results in a distorted output signal and a small **overshoot in systolic pressure**.
 
-###Damping
+###Damping{#damp}
 A pressure tranduction system should be adequately damped:
 
 <img src="resources\damping2.svg">
