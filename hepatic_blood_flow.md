@@ -30,8 +30,9 @@ As with other organs, blood flow is autoregulated via intrinsic and extrinsic me
     Activation of these receptors causes venoconstriction, reducing the compliance of the hepatic vasculature and mobilising up to **250ml** of blood in times of sympathetic stress.
     
 
-* Endocrine and hormonal effects
+* Endocrine and hormonal effects  
 A number of substances affect portal flow:  
+
 |Hormone|Portal Vein Effect|Hepatic Artery Effect|Overall Effect on Flow|
 |--|--|
 |**Adrenaline**|Constriction|Constriction (α), then dilation (β)|Reduced|
