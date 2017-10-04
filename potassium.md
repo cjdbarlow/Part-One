@@ -33,6 +33,7 @@ As per the Nernst equation.
   * Paralysis
   * Parasthesias
   * ECG findings are those of **prolonged depolarisation** and **rapid repolarisation**:  
+  
 |Serum [K<sup>+</sup>] (mmol/L)|ECG Findings|
 |--|--|
 |5.5-6.5|Tall tented T waves|
