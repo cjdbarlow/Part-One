@@ -15,7 +15,7 @@ Chemoreceptors act synergistically. Chemoreceptors are divided into:
 * Mechanoreceptors
 * Other effects
 
-###Peripheral Chemoreceptors
+###Peripheral Chemoreceptors{#chemo}
 Peripheral chemoreceptors are divided into:
 * The **carotid body**  
 Located at the bifurcation of the common carotid artery, and are innervated by the glossopharyngeal nerve (CN IX).
@@ -30,7 +30,7 @@ Peripheral chemoreceptors are stimulated by:
 
 * **High PaCO<sub>2</sub>**  
   Peripheral receptors have a **rapid** (~1-3s) but **weaker** (~20% of response) to changes in CO<sub>2</sub>, compared to central chemoreceptors  
-<img src="resources\PaCO2-vs-MV.svg">
+<img src="resources\paco2-vs-MV.svg">
 
 * **Acidaemia**  
   (Carotid bodies only)
