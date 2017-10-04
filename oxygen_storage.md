@@ -10,20 +10,25 @@ The standard textbook 70kg male contains **~1.5L** of oxygen, split between:
 * ~450ml contained in FRC (21% of 2.4L)   
 This is why preoxygenation increases safe apnoea times, as the nitrogen washout increases the volume of oxygen stored.
 
-##Oxygen-Haemoglobin Dissociation Curve
+##Oxygen-Haemoglobin Dissociation Curve{#curve}
 The sigmoid shape of the oxygen-haemoglobin dissociation curve offers many physiological advantages:
 * Buffering in case of low PaO<sub>2</sub>  
 The plateau allows oxygen **content** to remain high, even if the PaO<sub>2</sub> falls
 * Maintenance of diffusion gradient to tissues  
 The steep section allows a large amount of oxygen to be delivered with only a small drop in PaO<sub>2</sub>, which allows the rate of oxygen delivery to be maintained (as the blood-tissue partial pressure gradient is steep) with an increase in oxygen demand.
 
-<img src="resources\oxyhb.svg">
+<img src="resources\oxyhb-curve.svg">
 
 
 * The sigmoid shape exists due to **cooperative binding**  
 Each oxygen which binds to Hb causes conformational changes which allow it bind dditional oxygen molcules more easily.
   * When the fourth oxygen molecule has bound, Hb is said to be in the **relaxed conformation** (R state)
   * When no oxygen is bound, Hb is said to be in the **tense state** (T state)
+
+
+* The curve can be right or left-shifted by changes in temperature, pH, CO<sub>2</sub>, and 2-3 DPG
+
+<img src="resources\oxy-hb-curve-shifts.svg">
 
 
 * Note that the **mixed venous point is not on the arterial curve** (unlike how it is displayed above), as the venous dissociation curve is right-shifted relative to the arterial curve
