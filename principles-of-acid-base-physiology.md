@@ -9,9 +9,32 @@ There have been several different theories of acid-base chemistry. The one most 
 * Stands for the **power of hydrogen**
 * Is a measure of **hydrogen ion activity** in a solution
  * Activity can be approximated by concentration
-  * Therefore, pH can be expressed as a function of hydrogen ion concentration:  $$pH = -log_{10}[H^+]$$
+ * Therefore, pH can be expressed as a function of hydrogen ion concentration:  $$pH = -log_{10}[H^+]$$  
+ Using pH rather than concentration makes it easier to compare different solutions.
   
-##Systemic Effects
+##pKa{#pka}
+* Strong acids (and bases) dissociate completely in solution
+* Weak acids (and bases) only partially dissociate  
+They have a dissociated state (A-) and an undissociate state (HA)
+* The ratio of concentrations on each side can be used to calculate the **acid dissociation constant**, **Ka**  
+$$ Ka = {[A^-] \times [H^+] \over [HA]}$$  
+This equation describes the strength of an acid by indicating how readily the acid gives up its hydrogen.
+* Similar to pH, this value is often log transformed to **pKa** produce an index, which allows easy comparison of different substances:  
+$$ pKa = -log_{10}Ka$$  
+* pKa has several useful properties:
+ * An acid of base will be 50% ionised when the pH of its solution equals its pKa
+  * **A**cids are more **i**onised **a**bove their pKa
+  * **B**ases are more **i**onised **b**elow their pKa
+ * An increase in pH of 1 above the pKa will result in that substance being either 90% (for an acid) or 10 % (for a base) ionised
+ 
+<img src="resources\pkas-acids.svg">
+
+<img src="resources\pkas-bases.svg">
+
+
+
+  
+##Systemic Effects of Acid-Base Disorders
 pH disturbance affects many organ systems:
 * **Respiratory**
  * Increased $$\dot{V}_A$$  

@@ -8,12 +8,12 @@
 
 An action potential is a propagating change in the membrane potential of an excitable cell, used in cellular communication and to initiate intracellular processes. It is caused by altering the permeability of a membrane to different ions.
 
-##Pacemaker Potential
+##Pacemaker Potential{#pace}
 This pattern of electrical activity is seen in the SA and AV nodes. It  **has no resting state**, and is continually depolarising.
 
 <img src="resources\pacemaker-currents.svg">
 
-###Phases of the Pacemaker Potential
+###Phases of the Pacemaker Potential{#pacephase}
 
 <img src="resources\pacemaker-phases.svg">
 
@@ -33,7 +33,7 @@ This pattern of electrical activity is seen in the SA and AV nodes. It  **has no
 <img src="resources\pacemaker-shifts.svg">
 
 
-##Ventricular Action Potential
+##Ventricular Action Potential{#vent}
 To prevent tetanic contraction (which would be bad) ventricular muscle has a long plateau prior to repolarisation, which lengthens the absolute refractory period to 250ms. The relative refractory period is 50ms.
 
 <img src="resources\ventricular-ap.svg">
@@ -63,6 +63,7 @@ Conduction pathway:
 * **Atrial Conduction**  
   From the SA node, the impulse travels at ~1m.s<sup>-1</sup>, depolarising the atria.
   * Current travels down **Bachmann's Bundle**, which connects the right atrium to the left atrium
+
 
 * **AV node**  
   The AV node is the only (normal) site of connection between the atria and ventricles. AV nodal cells:
