@@ -24,7 +24,7 @@ $$\dot{V} = {A \times D \times \Delta P \over T }$$, where:
 * $$T$$ = Thickness of the membrane
 
 
-####O<sub>2</sub> Diffusion
+####O<sub>2</sub> Diffusion{#bohr}
 At the end of pregnancy, **PO<sub>2</sub> for foetal blood**:
 * Entering the placenta via the uterine artery is **18mmHg** (SpO2 45%)  
 * Leaving the placenta via uterine vein is **28mmHg** (SpO2 70%)
@@ -46,7 +46,7 @@ The Bohr effect states that an **increase** in **PaCO<sub>2</sub>** **right-shif
       * O<sub>2</sub> unloading of maternal blood is favoured
       * O<sub>2</sub> loading of foetal blood is favoured
 
-<img src="resources\Oxyhb-curve-double-bohr.svg.svg">
+<img src="resources\Oxyhb-curve-double-bohr.svg">
 
 
 ####CO<sub>2</sub> Diffusion
