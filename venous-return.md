@@ -41,3 +41,11 @@ Venous return will be altered by any of the variables in the above equation:
 * Other factors affecting venous return
     * Skeletal muscle pump  
     Contraction of leg muscles in combination with an intact venous system propels blood back towards the heart.
+    
+
+---
+
+##References
+
+1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+2. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.
