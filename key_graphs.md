@@ -583,7 +583,7 @@ Note that the RR interval is inversely proportional to heart rate.
 * Altering resistance to venous return (e.g. during pregnancy, or laparascopic surgery) will alter venous return without changing mean systemic filling pressure
 
 
-**Cardiac Function Curve:**
+[**Circulatory Function Curve:**](venous-return.md#sup)
 
 
 <img src="resources\cardiac-function.svg">

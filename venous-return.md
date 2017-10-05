@@ -58,6 +58,12 @@ Venous return will be altered by any of the variables in the above equation:
     * Skeletal muscle pump  
     Contraction of leg muscles in combination with an intact venous system propels blood back towards the heart.
     
+##Interaction between Venous Return and Cardiac Function{#sup}
+Guyton's curve can be superimposed on Starling's curve to examine the interaction between venous and cardiac function over a range of conditions:
+
+<img src="resources\cardiac-function.svg">
+
+
 
 ---
 
@@ -65,3 +71,4 @@ Venous return will be altered by any of the variables in the above equation:
 
 1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
 2. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.
+3. Henderson WR, Griesdale DE, Walley KR, Sheel AW. [Clinical review: Guyton - the role of mean circulatory filling pressure and right atrial pressure in controlling cardiac output.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3220048/) Critical Care. 2010;14(6):243. doi:10.1186/cc9247.
