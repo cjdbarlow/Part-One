@@ -105,6 +105,9 @@ Erythropoietin
 ##ESV
 End-Systolic Volume
 
+##FEV1
+Forced Expiratory Volume in 1 second
+
 ##FFA
 Free Fatty Acid
 
@@ -113,6 +116,9 @@ Functional Residual Capacity
 
 ##FSH
 Follicle Stimulating Hormone
+
+##FVC
+Forced Vital Capacity
 
 ##GFR
 Glomerular Filtration Rate
@@ -202,6 +208,9 @@ Pulmonary Artery Catheter
 ##PBP
 Penicillin Binding Protein
 
+##PCT
+Proximal Convoluted Tubule
+
 ##PCWP
 Pulmonary Capillary Wedge Pressure
 
@@ -211,14 +220,14 @@ Posterior Descending Artery
 ##PDE
 Phosphodiesterase
 
-##PDGF
-Platelet-Derived Growth Factor
-
-##PCT
-Proximal Convoluted Tubule
-
 ##PEEP
 Positive End-Expiratory Pressure
+
+##PEFR
+Peak Expiratory Flow Rate
+
+##PDGF
+Platelet-Derived Growth Factor
 
 ##RAP
 Right Atrial Pressure
@@ -252,6 +261,9 @@ Saturated Vapour Pressure
 
 ##TBW
 Total Body Water
+
+##TLC
+Total Lung Capacity
 
 ##TSH
 Thyroid Stimulating Hormone
