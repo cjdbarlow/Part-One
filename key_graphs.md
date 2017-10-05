@@ -23,6 +23,7 @@ Identify the key points of the curve and label these points. These include:
 	* Important values  
 	e.g. The mixed venous point.
 
+
 ##Pharmacology
 [**Dose-Response:**](dose-response_curves.md#stan)  
 
@@ -461,7 +462,7 @@ Note that intrapleural pressure becomes more negative along the x-axis.
 
 ###Spirometry
 
-[**Forced Vital Capacity:**](spirometry.md#spir)  
+[**Forced Vital Capacity:**](spirometry.md#basic)  
 
 
 <img src="resources\fev1-and-fvc.svg">
@@ -473,13 +474,40 @@ Note that intrapleural pressure becomes more negative along the x-axis.
 * The gradient of initial expiration is the peak expiratory flow rate 
 
 
-[**Spirometry:**](spirometry.md#spir)  
+[**Spirometry:**](spirometry.md#basic)  
 
 
 <img src="resources\Spirograph.svg">
 
 * Graph of lung volume over time
 * Includes a normal tidal breath and a vital capacity breath
+
+
+###Flow-Volume Loops
+
+[Normal loop:](spirometry.md#spir) 
+<img src="resources\flow-volume.svg">
+
+
+Obstructive Disease:](spirometry.md#spir) 
+
+<img src="resources\flow-volume-obs.svg">
+
+
+Restrictive Disease:](spirometry.md#spir) 
+
+<img src="resources\flow-volume-res.svg">
+
+
+Fixed Upper Airway Obstruction:](spirometry.md#spir) 
+
+
+<img src="resources\flow-volume-fixed.svg">
+
+<img src="resources\flow-volume-extra.svg">
+
+<img src="resources\flow-volume-intra.svg">
+
 
 ###Anaesthetic Agents
 [**F<sub>A</sub>/F<sub>I</sub>:**](inhalational-anaesthetic-agents.md#pk)  
