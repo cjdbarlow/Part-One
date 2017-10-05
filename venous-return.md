@@ -16,6 +16,22 @@ This is the mean pressure of the circulation when there is no flow. It is an ind
 * $$RAP$$ is the right atrial pressure  
 An elevated RAP reduces rvenous return.
 * $$RVR$$ is the resistance to venous return
+
+This relationship can be expressed graphically:
+
+<img src="resources\venous-return.svg">
+
+* When venous return is 0, the measured right atrial pressure is an indication of mean systemic filling pressure
+
+
+<img src="resources\venous-return-comp.svg">
+
+* Alterations to circulating volume and compliance affect both venous return and mean systemic filling pressure
+
+
+<img src="resources\venous-return-rvr.svg">
+
+* Alterations to the resistance to venous return affect venous return but mean systemic filling pressure is unchanged
     
 ##Factors Affecting Venous Return
 Venous return will be altered by any of the variables in the above equation:
