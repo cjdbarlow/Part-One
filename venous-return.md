@@ -58,7 +58,7 @@ Venous return will be altered by any of the variables in the above equation:
     * Skeletal muscle pump  
     Contraction of leg muscles in combination with an intact venous system propels blood back towards the heart.
     
-##Interaction between Venous Return and Cardiac Function{#sup}
+##Interaction between Venous Return and Cardiac Function Curves{#sup}
 Guyton's curve can be superimposed on Starling's curve to examine the interaction between venous and cardiac function over a range of conditions:
 
 <img src="resources\cardiac-function.svg">
