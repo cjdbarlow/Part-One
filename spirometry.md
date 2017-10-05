@@ -25,7 +25,7 @@ Additional testing can be performed to measure:
 FRC and TLC can therefore be calculated.
 * Diffusion capacity
 
-##Basic Spirometry
+##Basic Spirometry{#basic}
 Basic spirometry includes:
 * Forced spirometry  
 Patient forcibly exhales a vital capacity breath, producing a exponential (wash-in) curve. This calculates:
@@ -59,7 +59,7 @@ Quantifies static lung volumes by having a patient perform:
 
 
 
-##Flow-Volume Loops
+##Flow-Volume Loops{#loop}
 
 * **Normal**
   * Peak expiratory flow of **~8L.s<sup>-1</sup>**  
@@ -69,38 +69,54 @@ Quantifies static lung volumes by having a patient perform:
     * Lungs collapse, and airway calibre falls
     * Small airways are compressed  
     Any increase in expiratory pressure will increase airway resistance proportionally.
-      * This creates a uniform flow rate, and is called **dynamic airways compression**
-      * This is also known as the **effort independent** part of the curve
+      * This is called **dynamic airways compression**, and results in a uniform flow rate that is **independent of expiratory effort*  
+      This is therefore labelled the **effort independent** part of the curve.
+  
+<img src="resources\flow-volume.svg">
   
   
 * **Obstructive lung disease**  
-  * RV is increased due to gas trapping
+  * RV and TLC are increased due to gas trapping
   * Peak flow is limited
   * Effort-independent portion becomes concave
-   
+  
+<img src="resources\flow-volume-obs.svg">
+
    
 * **Restrictive lung disease**
   * TLC is reduced, but residual volume is unchanged
-  * Peak flow is reduced
+  * Peak flow may be reduced (as seen here)  
+  However, this reduction is **proportional** to the decrease in volume, such that the FEV<sub>1</sub>:FVC ratio is normal. If peak flow is preserved, the FEV<sub>1</sub>:FVC ratio will be increased.
   * Effort independent part is linear
 
+<img src="resources\flow-volume-res.svg">
 
-* **Fixed airway obstruction**  
-  * Peak inspiratory and expiratory flow rates are limited
+
+* **Fixed upper airway obstruction**  
+Describes an upper airway obstruction that does not change calibre during the respiratory cycle.
+  * Peak inspiratory and expiratory flow rates are limited by the stenosis
+
+<img src="resources\flow-volume-fixed.svg">
 
 
 * **Variable *extrathoracic* obstruction**  
-  * Variable means the obstruction moves
-  * During inspiration the lesion is pulled into trachea so inspiratory flow is reduced
+Variable as the obstruction changes during the respiratory cycle:
+  * During (negative pressure) inspiration the lesion is pulled into trachea, reducing inspiratory flow
   * During expiration the lesion is pushed out of the trachea  
   The way to remember this is an **extra**thoracic obstruction impedes **in**spiration
   * The reverse effect occurs in positive pressure ventilation
+
+<img src="resources\flow-volume-extra.svg">
 
 
 * **Variable *intrathoracic* obstruction**  
 The opposite to extrathoracic obstruction.
   * During inspiration the airway calibre increases and inspiratory flow is unimpeded
   * During expiration the airway calibre falls and expiratory flow is reduced
+
+<img src="resources\flow-volume-intra.svg">
+
+
 
 ---
 ##References
