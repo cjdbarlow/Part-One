@@ -485,28 +485,59 @@ Note that intrapleural pressure becomes more negative along the x-axis.
 
 ###Flow-Volume Loops
 
-[Normal loop:](spirometry.md#spir) 
+[**Normal loop:**](spirometry.md#spir) 
+
 <img src="resources\flow-volume.svg">
 
+* Peak expiratory flow is ~8L.s<sup>-1</sup>
+* Peak inspiratory flow is ~6L.s<sup>-1</sup>
+* Effort independent expiration occurs during expiration
 
-Obstructive Disease:](spirometry.md#spir) 
+
+[**Obstructive Disease:**](spirometry.md#spir) 
 
 <img src="resources\flow-volume-obs.svg">
 
+* Residual volume and total lung capacity are increased due to gas trapping
+* Peak expiratory flow is reduced
+* There is scalloping of the effort-independent portion of the curve  
+Also known as a concave curve.
 
-Restrictive Disease:](spirometry.md#spir) 
+
+[**Restrictive Disease:**](spirometry.md#spir) 
 
 <img src="resources\flow-volume-res.svg">
 
+* Total lung capacity is reduced
+* Residual volume is normal
+* Peak expiratory flow *may* be reduced (as seen here)  
+However the FEV<sub>1</sub>:FVC ratio will be normal in purely restrictive lung disease.
+* Effort-independent expiration is linear and will join with the normal curve
 
-Fixed Upper Airway Obstruction:](spirometry.md#spir) 
+
+[**Fixed Upper Airway Obstruction:**](spirometry.md#spir) 
 
 
 <img src="resources\flow-volume-fixed.svg">
 
+* Obstruction that does not change calibre throughout the respiratory cycle
+* Peak expiratory and inspiratory flow rates are limited
+
+
+[**Extrathoracic Obstruction**](spirometry.md#spir) 
+
 <img src="resources\flow-volume-extra.svg">
 
+* Obstruction worsens during inspiration as it is 'pulled in' by negative intrathoracic pressure
+
+
+
+[**Intrathoracic Obstruction**](spirometry.md#spir)
+
 <img src="resources\flow-volume-intra.svg">
+
+
+* Obstruction worsens during expiration as it is compressed by dynamic airways compression
 
 
 ###Anaesthetic Agents
