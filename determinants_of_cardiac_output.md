@@ -161,7 +161,7 @@ Contractility improves at faster heart rates. This is because the myocardium doe
 * Anrep Effect  
 Contractility increases as afterload increases.
 
-###Measuring Contractility
+###Measuring Contractility{#cont}
  * As with the other determinants of cardiac output, there has been some difficulty in developing measurable indicies for contractility
  * All measures of contractility are affected by preload or afterload to some extent
 

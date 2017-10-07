@@ -67,7 +67,7 @@ The stomach produces **~2L** of secretions **per day**:
     * H<sup>+</sup> is produced by carbonic anhydrase on CO<sub>2</sub> and water, with 'waste' HCO<sub>3</sub><sup>-</sup> removed from the cell in exchange for Cl<sup>-</sup>.
         * High levels of acid production result in large amounts of bicarbonate being secreted into blood
             * This creates an **alkaline tide** as portal venous pH increases dramatically
-            * Respiratory quotient of the stomach may become negative due to **consumption of CO<sub>2</sub>
+            * Respiratory quotient of the stomach may become negative due to **consumption of CO<sub>2</sub>**
     * This pump is activated in response to increased levels of intracellular Ca<sup>2+</sup> from stimulation by:
         * **ACh**
         * **Histamine** (H<sub>2</sub>)
