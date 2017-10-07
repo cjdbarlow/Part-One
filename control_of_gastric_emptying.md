@@ -27,9 +27,9 @@ The duodenum has hormonal mechanisms which have a **negative feedback** on gastr
 * **Duodenal distension**
 * **Hypoosmolar and hyperosmolar** chyme
 * **Acid**ic chyme  
-  In reponse to acid the duodenum releases **secretin** and **somatostatin**.
-      * Secretin directly inhibits gastric smooth muscle
-      * Somatostatin inhibits gastrin release
+  In reponse to acid the duodenum releases **secretin** and **somatostatin**:  
+  * Secretin directly inhibits gastric smooth muscle
+  * Somatostatin inhibits gastrin release
 * **Fat** and **protein**  
   Fat and protein breakdown products stimulate release of **cholecystokinin**, which **inhibits gastrin**.
     * Carbohydrate-rich meals empty faster than protein, which empty faster than fat.

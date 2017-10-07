@@ -738,22 +738,24 @@ This is due to the funny current.
 	* The duration of the action potential is shorter, increasing the chance for a re-entrant arrhythmia
 
 ###Basic Pressure-Volume Loops
-[**Left Ventricular P-V Loop:**](pressure-volume_relationship.md#base)
+Pressure-volume loops are covered in detail under [pressure-volume relationships](pressure-volume_relationships.md).
+
+[**Left Ventricular P-V Loop:**](pressure-volume_relationships.md#base)
 
 <img src="resources\lv-pv-loop.svg">
 
-[**Left Ventricular P-V Loop - Increased Preload:**](pressure-volume_relationship.md#base)
+[**Left Ventricular P-V Loop - Increased Preload:**](pressure-volume_relationships.md#base)
 
 <img src="resources\lv-pv-loop-preload.svg">
 
 
-[**Left Ventricular P-V Loop - Increased Afterload:**](pressure-volume_relationship.md#base)
+[**Left Ventricular P-V Loop - Increased Afterload:**](pressure-volume_relationships.md#base)
 
 
 <img src="resources\lv-pv-loop-afterload.svg">
 
 
-[**Left Ventricular P-V Loop - Increased Contractility:**](pressure-volume_relationship.md#base)
+[**Left Ventricular P-V Loop - Increased Contractility:**](pressure-volume_relationships.md#base)
 
 
 <img src="resources\lv-pv-loop-contractility.svg">
@@ -767,29 +769,32 @@ When drawing changes to more left-field pressure-volume loops which you may not 
 * How is contractility changed?
 * How are isovolumetric contraction and isovolumetric relaxation changed?
 
-[**Right Ventricular P-V Loop:**](pressure-volume_relationship.md#adv)
+Advanced pressure-volume loops are covered in detail under [pressure-volume relationships](pressure-volume_relationships.md#adv).
+
+
+[**Right Ventricular P-V Loop:**](pressure-volume_relationships.md#adv)
 
 <img src="resources\rv-pv-loop.svg">
 
 
-[**Left Ventricular P-V Loop - Aortic Stenosis:**](pressure-volume_relationship.md#adv)
+[**Left Ventricular P-V Loop - Aortic Stenosis:**](pressure-volume_relationships.md#adv)
 
 <img src="resources\lv-pv-aorticstenosis.svg">
 
 
-[**Left Ventricular P-V Loop - Aortic Regurgitation:**](pressure-volume_relationship.md#adv)
+[**Left Ventricular P-V Loop - Aortic Regurgitation:**](pressure-volume_relationships.md#adv)
 
 <img src="resources\lv-pv-aorticregurg.svg">
 
 
-[**Left Ventricular P-V Loop - Mitral Stenosis:**](pressure-volume_relationship.md#adv)
+[**Left Ventricular P-V Loop - Mitral Stenosis:**](pressure-volume_relationships.md#adv)
 
 
 <img src="resources\lv-pv-loop-ms.svg">
 
 
 
-[**Left Ventricular P-V Loop - Mitral Regurgitation:**](pressure-volume_relationship.md#adv)
+[**Left Ventricular P-V Loop - Mitral Regurgitation:**](pressure-volume_relationships.md#adv)
 
 
 <img src="resources\lv-pv-loop-mr.svg">
