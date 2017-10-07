@@ -325,7 +325,9 @@ This distorts channels responsible for maintaining membrane potential and genera
     I.e. receptors select for one steroisomer over others.
 
 
-###Structure-Activity Relationships of Inhaled Anaesthetics
+###Structure-Activity Relationships of Inhaled Anaesthetics{#sa}
+* Chemical structures of different volatile anaesthetics are covered in the [pharmacopeia](inhalational-anaesthetic-agents.md).
+
 Different chemical and physical properties alter the effect of inhalational agents:
 * Physical
     * Molecular weight  
