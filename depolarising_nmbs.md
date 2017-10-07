@@ -67,6 +67,8 @@ Key differences include:
 * A deficiency of butylcholinesterase causes suxamethonium to not be metabolsied
 * May be congenital (genetic) or acquired (hepatic failure)
 * Can be treated with fresh frozen plasma
+
+
 ---
 ##References
 1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  

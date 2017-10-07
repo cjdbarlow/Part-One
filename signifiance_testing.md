@@ -57,6 +57,8 @@ A significant *p*-value simply suggests a difference exists, it does not measure
 * Does not account for bias  
 Like other statistical test, the *p*-value cannot account for bias or confounding.
 
+---
+
 ##References
 1. Wasserstein RL, Lazar NA. [The ASA's Statement on p-Values: Context, Process, and Purpose](http://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108). The American Statistician. 2016 vol: 70 (2) pp: 129-133.
     
