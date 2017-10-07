@@ -58,7 +58,9 @@ Adrenergic drugs:
 |**Renal**|||↑ RBF and ↑ urinary output with no improvement in renal function|
 |**GIT**|Mesenteric vasodilation|||
 
-##Structure-Activity Relationships of Catecholamines
+##Structure-Activity Relationships of Sympathomimetics
+<img src="resources\dopamine.svg">
+
 Catecholamines consist of:
 * A catechol ring  
 A benzene ring with two hydroxyl groups in the 3 and 4 position.
@@ -69,15 +71,46 @@ A benzene ring with two hydroxyl groups in the 3 and 4 position.
 	* Changing the hydroxyl groups to the 3 and 5 position increases beta-2 selectivity when there is also a large substitution present on the amine group
 * An ethylamine tail  
 Consists of:
- * Beta carbon
-  * Adding a hydroxyl group decreases lipid solubility and CNS penetration
-  * Adding any group increases alpha and beta effects
- * Alpha carbon
-  * Adding a group prevents metabolism by MAO, prolonging duration of action
-  * Methylation increases indirect activity
- * Amine group
-  * Addition of a methyl group generally increases beta selectivity  
-  As the chain length increases, so does the beta selectivity.
+ * Beta carbon  
+ The first carbon.
+   * Adding a hydroxyl group decreases lipid solubility and CNS penetration
+   * Adding any group increases alpha and beta selectiviy
+ * Alpha carbon  
+ The second carbon.
+   * Adding a group prevents metabolism by MAO, prolonging duration of action
+   * Methylation increases indirect activity
+ * Amine group  
+ The terminal nitrogen.
+   * Addition of a methyl group generally increases beta selectivity  
+   As the chain length increases, so does the beta selectivity.
+
+###Dopamine
+<img src="resources\dopamine.svg">
+
+* Dopamine is the prototypical catecholamine, to which others are compared
+
+###Noradrenaline
+
+<img src="resources\noradrenaline.svg">
+
+* Noradrenaline has a hydroxyl group added to the beta carbon, increasing its alpha selectivity
+
+###Adrenaline
+<img src="resources\adrenaline.svg">
+
+* Adrenaline is similar to noradrenaline with an additional hydroxyl group on the beta carbon
+* Adrenaline also has a methyl group added to the terminal amine, increasing beta selectivity
+
+###Metaraminol
+<img src="resources\metaraminol.svg">
+
+* Metaraminol has an additional hydroxyl group on the beta carbon
+* Metaraminol has only one hydroxyl group on the phenol ring, so:
+  * It is no longer classified as a catecholamine
+  * It is not metabolised by COMT, prolonging its duration of action
+  * It has reduced potency, requiring administration in higher doses
+* Metaraminol has an additional methyl group on the alpha carbon, preventing metabolism by MAO and further prolonging its duration of action
+
 
 ---
 
