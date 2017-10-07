@@ -30,7 +30,7 @@
 |Property|Sevoflurane|Isoflurane|Desflurane|
 |--|--|
 |**Pharmaceutics**|Minimally soluble, light stable, not flammable. Formulated with 300ppm of H<sub>2</sub>O to prevent formation of HF acid by Lewis acids in glass.|Soluble in rubber, light stable, not flammable.|Light sensitive, flammable at 17%.|
-|**Structure**|<img src="resources\sevoflurane-1.svg" style="width: 15pc;">|
+|**Structure**|<img src="resources\sevoflurane-1.svg" style="width: 15pc;">|<img src="resources\isoflurane-2.svg" style="width: 15pc;">|<img src="resources\desflurane2.svg" style="width: 15pc;">|
 |**Molecular Weight**|200.1|184.5|168.0
 |**Boiling point**|58.5°C|48.5°C|23.5°C|
 |**SVP** (mmHg) at 20°C|158|239|669|
@@ -46,7 +46,8 @@
 ##Comparison of Uncommon Inhalational Agents
 |Property|Enflurane|Halothane|Xenon|
 |--|--|
-|**Pharmaceutics**||Light unstable. Corrodes some metals and dissolves into rubber.|Not flammable. Very expensive to produce.
+|**Pharmaceutics**|Structural isomer of isoflurane with different physical properties|Light unstable. Corrodes some metals and dissolves into rubber.|Not flammable. Very expensive to produce.
+|**Structure**|<img src="resources\enflurane.svg" style="width: 15pc;">|||
 |**Molecular Weight**|184.5|197|131|
 |**Boiling point**|56.5°C|50.2°C|-108°C|
 |**SVP** (mmHg) at 20°C|175|243|-|
