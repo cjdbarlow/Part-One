@@ -326,7 +326,7 @@ This distorts channels responsible for maintaining membrane potential and genera
 
 
 ###Structure-Activity Relationships of Inhaled Anaesthetics{#sa}
-* Chemical structures of different volatile anaesthetics are covered in the [pharmacopeia](inhalational-anaesthetic-agents.md).
+* Chemical structures of different volatile anaesthetics are covered in the [pharmacopeia](inhalational-anaesthetic.md).
 
 Different chemical and physical properties alter the effect of inhalational agents:
 * Physical
