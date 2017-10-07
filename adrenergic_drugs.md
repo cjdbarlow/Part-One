@@ -111,6 +111,13 @@ Consists of:
   * It has reduced potency, requiring administration in higher doses
 * Metaraminol has an additional methyl group on the alpha carbon, preventing metabolism by MAO and further prolonging its duration of action
 
+##Ephedrine
+<img src="resources\ephedrine.svg">
+
+* Like metaraminol, ephedrine has a hydroxyl group on the beta carbon and a methyl group on the alpha carbon
+* Ephedrine has no hydroxyl groups on the phenol ring, further reducing its potency and increasing its elimination half-life
+* Ephedrine has a methyl group on the amine, increasing its beta selectivity
+
 
 ---
 
