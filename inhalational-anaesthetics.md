@@ -30,6 +30,7 @@
 |Property|Sevoflurane|Isoflurane|Desflurane|
 |--|--|
 |**Pharmaceutics**|Minimally soluble, light stable, not flammable. Formulated with 300ppm of H<sub>2</sub>O to prevent formation of HF acid by Lewis acids in glass.|Soluble in rubber, light stable, not flammable.|Light sensitive, flammable at 17%.|
+|**Structure**<img src="resources\sevoflurane-1.svg" style="width: 10pc;">|
 |**Molecular Weight**|200.1|184.5|168.0
 |**Boiling point**|58.5°C|48.5°C|23.5°C|
 |**SVP** (mmHg) at 20°C|158|239|669|
