@@ -779,12 +779,12 @@ Advanced pressure-volume loops are covered in detail under [pressure-volume rela
 
 [**Left Ventricular P-V Loop - Aortic Stenosis:**](pressure-volume_relationships.md#adv)
 
-<img src="resources\lv-pv-aorticstenosis.svg">
+<img src="resources\lv-pv-loop-aorticstenosis.svg">
 
 
 [**Left Ventricular P-V Loop - Aortic Regurgitation:**](pressure-volume_relationships.md#adv)
 
-<img src="resources\lv-pv-aorticregurg.svg">
+<img src="resources\lv-pv-loop-aorticregurg.svg">
 
 
 [**Left Ventricular P-V Loop - Mitral Stenosis:**](pressure-volume_relationships.md#adv)
