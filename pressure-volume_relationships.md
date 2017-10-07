@@ -30,7 +30,7 @@ This is also known as the **End-Diastolic Pressure Volume Relationship (EDPVR)**
 	* *Technically given* by the pressure-volume relationship throughout the entirety of ejection  
 	i.e. the slope D-A.
 		* This comes from La Place's law:  
-		$$Afterload = {P_{ejection} \times {Radius_{ejection} \over 2 \times Wall \ Thickness}$$ 
+		$$Afterload = {P_{ejection} \times Radius_{ejection} \over 2 \times Wall \ Thickness}$$ 
 	* Usually *assumed to given* by the slope of a line drawn from the EDV (on the x-axis) to the **end-systolic point** (point A)  
 	This is also known as the arterial elastance line, or end-systolic pressure-volume relationship.
 		* The gradient of the arterial elastance line can be worked out from the loops $$ E_A = {Pressure_{End-Systole} \over Stroke \ Volume}$$
