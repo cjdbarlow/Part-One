@@ -1077,45 +1077,6 @@ This is given by the dotted blue line.
 * Variations on the waveform are covered under [E<sub>T</sub>CO<sub>2</sub> Waveform Variations](end-tidal_co2.md#var)
 
 
-##Structure-Activity Relationships
-###Sympathomimetics
-<img src="resources\phenylethylamine.svg">
-
-<img src="resources\dopamine bare.svg">
-
-<img src="resources\dopamine.svg">
-
-<img src="resources\noradrenaline bare.svg">
-
-<img src="resources\noradrenaline.svg">
-
-<img src="resources\adrenaline bare.svg">
-
-<img src="resources\adrenaline.svg">
-
-<img src="resources\metaraminol bare.svg">
-
-<img src="resources\metaraminol.svg">
-
-<img src="resources\ephedrine bare.svg">
-
-<img src="resources\ephedrine.svg">
-
-<img src="resources\phenylephrine bare.svg">
-
-<img src="resources\phenylephrine.svg">
-
-###Anaesthetic Agents
-<img src="resources\desflurane.svg">
-
-<img src="resources\sevoflurane 2.svg">
-
-<img src="resources\isoflurane 1.svg">
-
-<img src="resources\enflurane.svg">
-
-<img src="resources\Propofol.svg">
-
 ---
 
 ##References
