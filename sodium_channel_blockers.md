@@ -32,6 +32,9 @@ In general:
 |**Immune**|Lupoid syndrome in 20-30%, reduces antimicrobial effect of sulfonamides|||
 |**Interactions**|||Pharmacokinetic interactions with digoxin, propranolol, amiodarone|
 
+
+---
+
 ##References
 1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
 2. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

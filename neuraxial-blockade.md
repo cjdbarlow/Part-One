@@ -36,7 +36,8 @@ Pupillary dilation due to CN III blockade.
 * Brainstem and Cerebral Cortex 
 Anaesthesia due to blockade of the reticular activating system and thalamus. 
 
---
+---
+
 ##References
 1. Diaz, A. [Cardiovascular Response to Central Neuraxial Blockade](https://primarysaqs.files.wordpress.com/2009/12/2007b9briefly-explain-the-cvs-responses-to-central-neural-blockade.pdf). Primary SAQs.
 2. ANZCA July/August 2007

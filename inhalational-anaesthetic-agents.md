@@ -387,6 +387,8 @@ From the properties discussed above, we can construct the following ideal agent:
     * Not teratogenic or otherwise toxic
 * No drug interactions
 
+---
+
 ##References
 1. Khan KS, Hayes I, Buggy DJ. [Pharmacology of anaesthetic agents II: inhalation anaesthetic agents](https://academic.oup.com/bjaed/article/14/3/106/340726/Pharmacology-of-anaesthetic-agents-II-inhalation). Continuing Education in Anaesthesia Critical Care & Pain, Volume 14, Issue 3, 1 June 2014, Pages 106–111.
 2. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.

@@ -29,10 +29,10 @@ Competency of the LoS is required to prevent reflux
                 The oesophagus enters the stomach at an oblique angle, limiting retrograde flow.
             * Hormonal
                 * Gastrin, motilin, α-agonism **increase** LoS tone
-                * Progesterone, glucagon, vasoactive intestinal peptide (VIP) **decrease **LoS tone
+                * Progesterone, glucagon, vasoactive intestinal peptide (VIP) **decrease** LoS tone
             * Drugs  
-                * ETOH, IV and volatile anaestetic agents, and anticholinergics **decrease **LoS tone
-                * Suxamethonium, metoclopramide, and anticholinesterases **increase **LoS tone
+                * ETOH, IV and volatile anaestetic agents, and anticholinergics **decrease** LoS tone
+                * Suxamethonium, metoclopramide, and anticholinesterases **increase** LoS tone
         * Changes in gastric pressure
             * Raised intraabdominal pressure
                 * Obesity
@@ -42,7 +42,8 @@ Competency of the LoS is required to prevent reflux
             GOJ moves into the thorax, causing:
                 * Loss of pinch-cock action
                 * Negative intrathoracic pressure reduces LoS pressure and therefore barrier pressure
-                
+
+--                
                 
 ##References
 1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.

@@ -106,6 +106,7 @@ Each cycle shortens the sarcomere by **~10nm**:
     * Troponin releases Ca<sup>2+</sup>
     * Binding sites are occluded by troponin, and no further contraction occurs
 
+---
 
 ##References
 1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.

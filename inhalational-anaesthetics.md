@@ -59,6 +59,7 @@
 |**GU**|Least tocolytic effect|||
 |**Toxic effects**|Produces F<sup>-</sup> ions|Hepatic damage may be: <br> - Reversible transaminitis <br> - Fulminant hepatic necrosis, with a mortality of 50-75%.||
 
+---
 
 ##References
 1. Khan KS, Hayes I, Buggy DJ. [Pharmacology of anaesthetic agents II: inhalation anaesthetic agents](https://academic.oup.com/bjaed/article/14/3/106/340726/Pharmacology-of-anaesthetic-agents-II-inhalation). Continuing Education in Anaesthesia Critical Care & Pain, Volume 14, Issue 3, 1 June 2014, Pages 106–111.

@@ -51,6 +51,8 @@ Arrythmias should be managed with drugs that do not prolong the action potential
 ###Central toxicity
 Seizures should be managed with benzodiazepines, phenytoin, propfol, and phenobarbital. Avoid agents which result in QRS prolongation.
 
+---
+
 ##References
 1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
 2. Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.

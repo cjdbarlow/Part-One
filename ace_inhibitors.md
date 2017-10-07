@@ -43,5 +43,7 @@ Lisinopril.
 |**Metabolic**| ↑ Renin release.
 |**Interactions**|↓ Aldosterone release, which ↑ the efficacy of spironolactone and may precipitate hyperkalaemia. Pharmacodynamic interaction with NSAIDs to drop renal perfusion pressure.
 
+---
+
 ##References
 1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
