@@ -10,6 +10,8 @@
 
 > <p style="color:purple";> Describe the comparative pharmacology of <s>nitrous oxide</s>, halothane, enflurane, isoflurane, desflurane, sevoflurane, xenon and ether</p>
 
+*This section covers features and structures of inhalational anaesthetics. Structure-activity relationships are covered under [inhalational anaesthetics](inhalational-anaesthetic-agents.md#sa).*
+
 ##Common Features of Inhalational Agents
 
 |Property|Action|
