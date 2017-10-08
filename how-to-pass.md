@@ -107,7 +107,8 @@ This is the key to the exam. I suggest:
 3. **Do a *lot* of flashcards**  
 Flashcards are less demanding than doing questions, and a simple form of revision.
     * They are the absolute best way of rote learning facts (in my opinion)
-    * I used [anki](http:\\www.ankisrs.net), but use whatever works for you <br><br>
+    * I used [anki](http:\\www.ankisrs.net), but use whatever works for you
+    * My anki deck is [available here](\resources\Part-One.apkg) <br><br>
 4. **Do practice vivas**  
 Start before the written. There is a lot of crossover of skills between the viva and the written. Both require a structured approach, and good content knowledge.
     * Remember to take a break after the written exams, it is exhausting
