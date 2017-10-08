@@ -286,7 +286,7 @@ Though there is a linear decrease in functional capacity of major systems beginn
          * Antagonistic       
 ---
 ##References
-1.     Anderson C. [Variability in Drug Response 1](https://icuprimaryprep.files.wordpress.com/2012/05/variability-in-drug-response-1.pdf). ICU Primary Prep. 
+1. Anderson C. [Variability in Drug Response 1](https://icuprimaryprep.files.wordpress.com/2012/05/variability-in-drug-response-1.pdf). ICU Primary Prep. 
 2. Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. Sixth Edition. Churchill Livingstone.
 3. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
 4. CICM Examiner Report: Sep/Nov 2012

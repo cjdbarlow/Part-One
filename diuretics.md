@@ -33,6 +33,8 @@ Diuretics are drugs that act on the kidney to increase urine production. They ca
 |**Metabolic**|Hypokalaemic, hypochloraemic alkalosis. Hyperglycaemia. |Hypochloraemia, hyponatraemia, hypokalaemia, hypomagnesaemia. Occasional **hyper**uricaemia precipitating gout.|Hyperkalaemia.|Hyperkalaemia, hyponatraemia.||Hyperchloraemic acidosis|
 |**Miscellaneous**|Blood dyscrasias|Deafness, typically following large doses. More common in kidney impairment and with aminoglycoside use.||Gynaecomastia and menstrual irregularity due to anti-androgenism from aldosterone antagonism|||| 
 
+---
+
 ##References
 1. Peck and Hill
 2. Rand and Dale. Chapter 24 - the kidney.
