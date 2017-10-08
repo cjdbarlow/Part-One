@@ -152,6 +152,7 @@ The normal gradient between PaCO<sub>2</sub> and E<sub>T</sub>CO<sub>2</sub> is 
 ##Colourimetric Methods
 Litmus paper which changes colour when exposed to hydrogen ions (produced by CO<sub>2</sub>) can be used to confirm endo-tracheal intubation, though they may generate false-positive results due to gastric pH.
 
+---
 
 ##References
 1. Cross ME, Plunkett EVE. Physics, Pharmacology, and Physiology for Anaesthetists: Key Concepts for the FRCA. 2nd Ed. Cambridge University Press. 2014.
