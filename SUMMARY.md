@@ -243,7 +243,7 @@
   * [Antecubital Fossa](antecubital_fossa.md)
   * [Tracheostomy](tracheostomy.md)
 
-## Pharmacopeia
+## Pharmacopoeia
 
 * [Toxicology](ethanol.md#id)
   * [Recreational Drugs](ethanol.md#id)
