@@ -11,7 +11,8 @@
         "wide",
         "ungrey",
         "expandable-chapters-small",
-        "git-author"
+        "git-author",
+        "ga"
     ],
     "pluginsConfig": {
           "git-author": {
@@ -20,6 +21,9 @@
               "createTpl": false,
               "timeStampFormat": "YYYY-MM-DD"
           }
+        "ga": {
+            "token": "UA-108884301-1"
+        }
     }
 
 
