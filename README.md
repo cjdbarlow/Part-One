@@ -43,6 +43,7 @@ Part One is built with a number of [open-source](https://opensource.org/) tools:
 With plugins from:
     * [Ben Lau](https://github.com/L3au) for [automatic timestamps](https://github.com/L3au/gitbook-plugin-git-author)
     * [Michael Jerger](https://github.com/jerger) for [collapsible chapters](https://github.com/DomainDrivenArchitecture/gitbook-plugin-expandable-chapters)
+    * [Rishabh Garg](https://github.com/rishabhgrg) for [top navigation](https://github.com/hypertrack/gitbook-plugin-top-nav)
 * Equations written in [<span class="texhtml" style="font-family: 'CMU Serif', cmr10, LMRoman10-Regular, 'Nimbus Roman No9 L', 'Times New Roman', Times, serif;">L<span style="text-transform: uppercase; font-size: 70%; margin-left: -0.36em; vertical-align: 0.3em; line-height: 0; margin-right: -0.15em;">a</span>T<span style="text-transform: uppercase; margin-left: -0.1667em; vertical-align: -0.5ex; line-height: 0; margin-right: -0.125em;">e</span>X](https://www.latex-project.org/about/)
 * Graphs have been:
     * Written in [PGF/Tikz](https://ctan.org/pkg/pgf) using [texworks](https://www.tug.org/texworks/)
