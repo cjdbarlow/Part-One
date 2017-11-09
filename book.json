@@ -12,7 +12,10 @@
         "ungrey",
         "expandable-chapters-small",
         "git-author",
-        "ga"
+        "analytics",
+        "favicon",
+        "litfl",
+        "theme-partone"
     ],
     "pluginsConfig": {
           "git-author": {
@@ -20,9 +23,16 @@
               "modifyTpl": "Last updated {timeStamp}",
               "createTpl": false,
               "timeStampFormat": "YYYY-MM-DD"
+          },
+
+          "analytics": {
+            "google": "UA-108884301-1"
+          },
+          "favicon": {
+            "shortcut": "resources/favicon-32.ico",
+            "bookmark": "resources/favicon-32.ico",
+            "appleTouch": "resources/favicon-192.png"
           }
-          "ga": {
-            "token": "UA-108884301-1"
-           }
     }
 }
+
