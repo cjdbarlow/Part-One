@@ -7,7 +7,7 @@
 |**Pharmaceutics**|Clear, colourless, odourless gas at STP. Critical temperature **-119°C**, manufactured by fractional distillation. Highly flammable.|
 |**Route of Administration**|Inhaled|
 |**Dosing**|0.21-1.0 FiO<sub>2</sub>|
-|**Absorption**|Diffusion across the alveolar capillary membrane in proportion to its pressure gradient, and inversely proportional to the area and thickness of the membrane|
+|**Absorption**|Diffusion across the alveolar capillary membrane in proportion to membrane area and partial pressure gradient, and inversely proportional to membrane thickness|
 |**Distribution**|Bound to plasma Hb, and dissolved in plasma|
 |**Metabolism**|Metabolised in mitochondria of cells during the citric acid cycle to produce ATP, creating CO<sub>2</sub>|
 |**Elimination**|Exhalation as CO<sub>2</sub>, or combined with H<sub>2</sub>O to produce HCO<sub>3</sub><sup>-</sup> and eliminated in urine|

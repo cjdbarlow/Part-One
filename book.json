@@ -7,7 +7,6 @@
 
 
     "plugins": [
-        "mathjax",
         "wide",
         "ungrey",
         "expandable-chapters-small",
@@ -15,7 +14,8 @@
         "analytics",
         "favicon",
         "litfl",
-        "theme-partone"
+        "theme-partone",
+        "mathjax"
     ],
     "pluginsConfig": {
           "git-author": {

@@ -11,7 +11,7 @@ Leads to different ionic concentrations (and therefore electrical charge) on eit
 ##Ion Permeability
 At rest, the cell is:
 * Permeable to **potassium**
-    * Potassium flows out against its concentration gradient
+    * Potassium flows out down its concentration gradient  
     This makes the resting potential becomes more negative.
         * This negative charge opposes the further movement of potassium and so an equilibrium is established between opposing electrical and chemical gradients
 * Impermeable to other cations  

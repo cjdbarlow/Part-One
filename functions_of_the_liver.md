@@ -31,7 +31,7 @@ Metabolic functions include:
 ###Carbohydrates
 * Monosaccharides and disaccharides passively diffuse into hepatocytes  
 Gradient is maintained by converting glucose to glucose-6-phosphate which is used to produce glycogen. This maintains the gradient for diffusion.
-* Glycogen is either synthesised (glyconeogenesis) or broken down (glycogenolysis/gluconeogensis) depending on plasma glucose and insulin:
+* Glycogen is either synthesised (glycogenesis) or broken down (glycogenolysis) depending on plasma glucose and insulin:
   * Increased blood glucose stimulates insulin release, increasing the formation of glycogen through activation of glycogen synthetase
   * Decreased blood glucose stimulates glycogenolysis and gluconogenesis from amion acids.
 

@@ -12,7 +12,7 @@ Platelets are small cell fragments which are vital in haemostasis via forming a 
 ##Production
 Platelets are:
 * Anuclear circulating cell bodies, which bud from megakaryotes  
-As the megakaryocyte cell volume increases, the cell wall invaginates and small platelets bud off.
+As the megakaryocyte cell volume increases, the cell membrane invaginates and small platelets bud off.
   * The time from stem cell to platelet is **~10 days**, and is stimulated by **thrombopoietin**
 * New platelets are held in the spleen for 36 hours until they mature
 

@@ -6,7 +6,7 @@ Shunt is blood reaching the systemic circulation without being oxygenated via pa
 ##Factors Contributing to Shunt
 * Normal shunt
     * Anatomical shunt  
-        * Thebesian beins, which drain directly into the left cardiac chambers
+        * Thebesian veins, which drain directly into the left cardiac chambers
         * Bronchial circulations, which drain into the pulmonary veins
     * Functional shunt  
     Blood draining through alveoli with a V/Q between 0 and 1.
@@ -32,6 +32,7 @@ Venous admixture is **the amount of mixed venous blood that must be added to pul
     * $$C_cO_2$$ = Pulmonary end-capillary oxygen content, assumed to have an oxygen tension equal to PAO<sub>2</sub> (with the corresponding oxygen saturation)
     * $$C_aO_2$$ = Arterial oxygen content
     * $$C_vO_2$$ = Mixed venous oxygen content
+
 
 ##Physiological Consequences of Shunt
 ###Effect on Carbon Dioxide
