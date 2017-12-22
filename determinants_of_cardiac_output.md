@@ -50,7 +50,7 @@ Increased ventricular wall thickness decreases preload.
 * This increases RA filling, so and RVEDP and RVEDV increase relative to the pleural pressure (though absolute pressure is still low)
 * LV effects are more variable  
 Negative intrapleural pressures:
-  * Decrease LV transmural pressure  
+  * Increase LV transmural pressure  
   This impairs ejection.
   * Cause bowing of the interventricular septum into the LV  
   This reduces LVEDV.

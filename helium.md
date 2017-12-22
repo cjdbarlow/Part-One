@@ -15,7 +15,7 @@ Reduced specific gravity results in a proportional reduction in Reynolds Number,
 |**Presentation**|Clear, colourless solution|
 |**Route of Administration**|Inhaled|
 |**Dosing**|Typically as Heliox: 79% He/21% O<sub>2</sub>|
-|**Absorption**|Diffusion across the alveolar membrane directly proportion to its pressure gradient and inversely proportional to area and membrane thickness.|
+|**Absorption**|Diffusion across the alveolar capillary membrane in proportion to membrane area and partial pressure gradient, and inversely proportional to membrane thickness|
 |**Distribution**|Distributes proportionally to solubility and tissue partial pressures|
 |**Metabolism**|Not metabolised|
 |**Elimination**|Respiratory exhalation along a pressure gradient|

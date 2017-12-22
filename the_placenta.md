@@ -26,8 +26,8 @@ $$\dot{V} = {A \times D \times \Delta P \over T }$$, where:
 
 ####O<sub>2</sub> Diffusion{#bohr}
 At the end of pregnancy, **PO<sub>2</sub> for foetal blood**:
-* Entering the placenta via the uterine artery is **18mmHg** (SpO2 45%)  
-* Leaving the placenta via uterine vein is **28mmHg** (SpO2 70%)
+* Entering the placenta via the umbilical artery is **18mmHg** (SpO2 45%)  
+* Leaving the placenta via umbilical vein is **28mmHg** (SpO2 70%)
 
 The foetus is able to have adequate delivery of O<sub>2</sub> despite the low PO<sub>2</sub> for four reasons:
 * **High Cardiac Index**  

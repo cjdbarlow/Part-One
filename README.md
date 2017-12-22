@@ -10,7 +10,7 @@ Part One is a reference for trainees preparing for the CICM and ANZCA Primary Ex
     * A textbook
     * The definitive guide to the primary exam  
     * A complete reference  
-    There will be both omissions and errors. If you find any, please let us know.
+    There will be both omissions and errors. If you find any, please <a href="mailto:jake@jakebarlow.me?Subject=Part%20One" target="_top">let me know</a>.
     
 
 ##Layout
@@ -53,6 +53,11 @@ With plugins from:
     
     
 * Additionally, chemical structures have been built in [MarvinSketch](https://www.chemaxon.com/products/marvin/marvinsketch/)
+
+
+###About the Author
+
+Jake Barlow is an Anaesthetic and Intensive Care Registrar from Melbourne, Australia. Interested in all things critical care (with a particular fascination for physiology), as well as biotech, physical computing, teaching, analytics, and outcome prediction in intensive care. Send all comments, criticism, and complaints about Part One to him <a href="mailto:jake@jakebarlow.me?Subject=Part%20One" target="_top">here</a>.
 
 ---
 
