@@ -5,7 +5,7 @@ Cardiac reflexes are fast-acting reflex loops between the CVS and CNS which cont
 
 They include:
 * **Baroreceptor reflex**  
-  Aortic arch and carotid body reflexes.
+  Aortic arch and carotid sinus reflexes.
   
   
 * **Bainbridge reflex**  
@@ -27,7 +27,7 @@ They include:
     
 * **Bezold-Jarisch reflex**  
   Stimulation of C fibres of the vagus nerve in the cardiopulmonary region.
-    * This causescausing:
+    * This causes:
       * Significant bradycardia
       * Hypotension
       * Apnoea, followed by rapid shallow breathing.
