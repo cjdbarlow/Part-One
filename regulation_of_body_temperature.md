@@ -54,7 +54,7 @@ Central temperature sensors exist in the:
 * Abdomial viscera
 * Spinal cord
 * Hypothalamus  
-**Anterior hypothalamus** is the most important central theroreceptor, and responds to  both increased and decreased temperatures by **altering their rate of depolarisation**, eliciting an array of neuronal and hormonal responses.
+**Anterior hypothalamus** is the most important central thermoreceptor, and responds to  both increased and decreased temperatures by **altering their rate of depolarisation**, eliciting an array of neuronal and hormonal responses.
 * Brainstem  
 
 The **interthreshold range** is the range of core temperatures not triggering a response.

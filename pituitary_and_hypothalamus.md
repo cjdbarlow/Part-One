@@ -29,7 +29,7 @@ Punishment and reward centres.
 
 ##Pituitary
 The **hypothalamic-pituitary axis** describes the complex feedback loops between these endocrine organs:
-* **Short-loop feedback** describes negative feedback from the pituitary on the hypothalamus, e.g. thyroxine inhibiting TSH release.
+* **Short-loop feedback** describes negative feedback from the pituitary on the hypothalamus, e.g. GH inhibiting GHRH release
 * **Long-loop feedback** describes negative feedback from a pituitary target gland (i.e. thyroid, adrenal, gonads) on the hypothalamus, e.g. cortisol inhibiting CRH (as well as ACTH) release.
     * These axes are also named with target gland, e.g. hypothalamic-pituitary-adrenal axis
 

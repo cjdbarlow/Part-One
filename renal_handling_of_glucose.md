@@ -78,7 +78,7 @@ These are not (entirely) selective, and reabsorb several structurally similar am
 * Larger proteins (such as albumin) are in fact filtered at the glomerulus (though in very small amounts)  
 Reuptake occurs in several stages:
   * Endocytosis at the luminal membrane  
-  This is an energy-dependent process, requring protein to bind to membrane receptors.
+  This is an energy-dependent process, requiring protein to bind to membrane receptors.
   * Degradation of protein into individual amino acids
   * Reuptake across the basolateral membrane
 

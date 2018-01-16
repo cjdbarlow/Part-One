@@ -4,7 +4,7 @@
 Ultrasound is an imaging technique where high-frequency sound waves (2-15MHz) are used to generate an image. An ultrasound wave is produced by a probe using the **piezoelectric effect**:
 * Certain crystalline structures will vibrate at a particular frequency when a certain voltage is applied across them  
 The conversion of electrical energy to kinetic energy is how the ultrasound probe creates an ultrasound wave.
-* Similarly, they can generate a voltage when a fibration is induced in them  
+* Similarly, they can generate a voltage when a vibration is induced in them  
 This is how the probe interprets reflected waves.
 
 
