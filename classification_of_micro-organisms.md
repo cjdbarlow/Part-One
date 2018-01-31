@@ -32,7 +32,7 @@ Hydrogen peroxide is added to a bacterial sample, and in the presence of catalas
 
 
 * **Coagulase** testing is performed on Staphylococcal species  
-Coagulase is an enzyme which cleavs fibrinogen to fibrin. The staphylococcal colony is added to rabbit plasma and incubated. In the presence of coagulase, fibrin is formed.
+Coagulase is an enzyme which cleaves fibrinogen to fibrin. The staphylococcal colony is added to rabbit plasma and incubated. In the presence of coagulase, fibrin is formed.
   * Coagulase positive strongly suggests *S. Aureus*
   * Coagulase negative examples include *S. epidermidis* or *S. saprophyticus* 
 
@@ -53,7 +53,7 @@ Bacterial colonies are added to blood agar, and the colour change (due to haemol
 * Additionally, gram negative rods should be further classified into **pseudomonal** and **non-pseudomonal** organisms
 
 ##Viruses
-Viruses consist of molecules of either DNA or RNA shielded in a protein coat. They require the use of host cell stuctures for reproduction and are therefore **obligate intracellular parasites**. They can be classified by **five** properties:
+Viruses consist of molecules of either DNA or RNA shielded in a protein coat. They require the use of host cell structures for reproduction and are therefore **obligate intracellular parasites**. They can be classified by **five** properties:
 1. **DNA/RNA**  
   DNA viruses replicate in the cell nucleus using a host polymerase.
 2. Double-**stranded** or single-stranded  
