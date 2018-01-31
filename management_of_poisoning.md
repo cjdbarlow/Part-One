@@ -22,7 +22,7 @@
 * **Supportive care**
 * **Investigations**
     * ECG
-    * Invasive monitoring may be required in haemodynamics are unstable. 
+    * Invasive monitoring may be required if haemodynamics are unstable. 
     * Drug levels
 
 

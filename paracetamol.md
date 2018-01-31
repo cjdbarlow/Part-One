@@ -32,7 +32,7 @@ Paracetamol an analgesic and antipyretic which is typically classed as an NSAID,
 * Paracetamol is partially metabolised to the toxic N-acetyl-p-amino-benzoquinone imine (**NAPQI**)
   * In normal circumstances this rapidly conjugated with glutathione
   * In toxicity,  glutathione is exhausted
-  * NAPQI then bonds with sulfylhydrl groups on hepatocytes, causing centriolobular hepatic necrosis and cell death
+  * NAPQI then covalently binds to critical proteins in hepatocytes, causing centriolobular hepatic necrosis and cell death
   
   
   * Toxic doses:
@@ -76,3 +76,4 @@ Paracetamol an analgesic and antipyretic which is typically classed as an NSAID,
 1. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
 2. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
 3. [Paracetamol Poisoning](http://www.rch.org.au/clinicalguide/guideline_index/Paracetamol_Poisoning/). Royal Children's Hospital.
+4. Hinson JA, Roberts DW, James LP. [Mechanisms of Acetaminophen-Induced Liver Necrosis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2836803/). Handbook of experimental pharmacology. 2010;(196):369-405.
