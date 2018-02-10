@@ -4,7 +4,7 @@ Paracetamol an analgesic and antipyretic which is typically classed as an NSAID,
 * **Non-selective COX inhibition**, including COX-3  
   This confers some of the analgesic properties
 * **Inhibition of central prostaglandin synthesis**  
-  This confers the angipyretic effect by inhibiting prostaglandin E synthesis in the anterior hypothalamus in response to pyrogens
+  This confers the antipyretic effect by inhibiting prostaglandin E synthesis in the anterior hypothalamus in response to pyrogens
 * **Serotonergic inhibition**  
   Provides some additional analgesic action
 * **Cannabinoid inhibition**  

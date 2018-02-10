@@ -19,7 +19,7 @@ This is a dilatation formed by the confluence of the inferior petrosal sinus and
 * Deep cervical lymph nodes lie close to the vein
 * External jugular crosses the sternomastoid belly of SCM, running posteriorly and more superficial to the IJV, later perforating deep fascia to drain into the subclavian vein
 * Pleura rises above the clavicle, and is close to the vein at its termination
-* Thoracic duct passes lateral to the confluence of the left IJV and SCR, and may be injured during **left** IJV cannulation
+* Thoracic duct passes lateral to the confluence of the left IJV and SCV, and may be injured during **left** IJV cannulation
     * The right lymphatic duct may be injured during right IJV cannulation, but due to its smaller size this is less common
 
 
