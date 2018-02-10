@@ -34,7 +34,7 @@ Sustained hypoglycaemia increases fat utilisation and decreases glucose utilisat
 ##Organ Effects
 Glucose levels are influenced by the:
 * Liver  
-Insulin and glucagon act on the liver to continually adjust the relative rates of glycolysis and glycogenesis, allowing it to function as an effective **buffer** of **blood glucose**.
+Insulin and glucagon act on the liver to continually adjust the relative rates of glycogenolysis and glycogenesis, allowing it to function as an effective **buffer** of **blood glucose**.
     * Hepatic disease significantly limits the efficacy of this system, and results in a widely-fluctuating blood glucose level
 * Kidney  
     * A transient glycosuria may be seen as hyperglycaemia decreases renal absorption of glucose

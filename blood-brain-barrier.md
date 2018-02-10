@@ -17,7 +17,7 @@ Joined with **tight junctions**, preventing free movement of solvent and solute.
     Capillary endothelial cells contain high numbers of mitochondria, due to the higher energy cost of the active transport mechanisms.
 * Basement membrane
 * Astrocytes  
-Glial cell which extends food processes around the basement membrane, and reduce permeability of endothelial cells.
+Glial cell which extends foot processes around the basement membrane, and reduce permeability of endothelial cells.
 
 Due to their function, several important CNS structures must exist outside of the BBB. These are known as the **circumventricular organs**, and include:
 * Sensing structures

@@ -23,7 +23,7 @@
 
 ||Narrow spectrum, naturally occurring|Narrow spectrum, synthetic|Extended-spectrum|Antipseudomonal|
 |--|--|--|--|--|
-|**Examples**|**Benzylpenicillin**, phemoxymethylpenicillin|**Flucloxacillin**|**Ampicillin**, amoxycillin| **Piperacillin**, ticarcillin|
+|**Examples**|**Benzylpenicillin**, phenoxymethylpenicillin|**Flucloxacillin**|**Ampicillin**, amoxycillin| **Piperacillin**, ticarcillin|
 |**Indications**|Gram positives and anaerobes, particularly *streptococci* and meningococci. Also listeria, clostridia, and treponemma.| Gram positive cocci, particularly *staphlococci* but also streptococci. | Gram positive, particularly *enterococci*. Some gram negative.|Gram positive, gram negative including pseudomonas.|
 |**Other bits**| Highly bactericidal|Less active than benzypenicillin on organisms sensitive to both.|Can penetrate some gram-negatives.|Gram negative cover.||
 

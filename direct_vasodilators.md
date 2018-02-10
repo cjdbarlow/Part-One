@@ -4,7 +4,7 @@ Direct vasodilators include:
 * Ca<sup>2+</sup> channel blockers (see [Calcium Channel Blockers](calcium_channel_blockers.md))
 * Nitrates  
 Increase production of NO:
-	* NO inhibits guanylate cyclase, increasing cGMP
+	* NO activates guanylate cyclase, increasing cGMP
 	* cGMP inhibits Ca<sup>2+</sup> uptake into smooth muscle and enhances its sequestration into smooth endoplasmic reticulum  
 	The decrease in cytoplasmic [Ca<sup>2+</sup>] causes smooth muscle relaxation and vasodilation
 * Hydralazine  
@@ -111,4 +111,4 @@ Methaemoglobinaemia occurs when the Fe<sup>2+</sup> (ferrous) ion in haemoglobin
 5. [LITFL- Cyanide Poisoning](http://lifeinthefastlane.com/ccc/cyanide-poisoning)
 6. Thomas C, Lumb A. [Physiology of haemoglobin](https://academic.oup.com/bjaed/article/12/5/251/289041/Physiology-of-haemoglobin). Continuing Education in Anaesthesia Critical Care & Pain, Volume 12, Issue 5, 1 October 2012, Pages 251–256.
 7. Wright RO, Lewander WJ, Woolf AD. [Methemoglobinemia: Etiology, Pharmacology, and Clinical Management](http://www.sciencedirect.com/science/article/pii/S0196064499701678). Annals of Emergency Medicine, Volume 34, Issue 5, 1999, Pages 646-656.
-
+8. Russwurm M, Koesling D. [NO activation of guanylyl cyclase](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC526456/). The EMBO Journal. 2004;23(22):4443-4450.

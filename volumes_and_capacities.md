@@ -13,7 +13,7 @@ The lung has four volumes and four (main) capacities:
 * A **volume** is measured directly
 * A **capacity** is a **sum of volumes**
 
-<img src="resources\spirograph.svg">
+<img src="resources\Spirograph.svg">
 
 
 ##Volumes
@@ -24,7 +24,7 @@ Volume of air during normal, quiet breathing.
 
 * **Inspiratory reserve volume** (IRV)  
 Volume of air that can be inspired **above tidal volume**.
-  * Normal is 4515ml.kg<sup>-1</sup>, or **2500ml**
+  * Normal is 45ml.kg<sup>-1</sup>, or **2500ml**
 
 
 * **Expiratory reserve volume** (ERV)  
