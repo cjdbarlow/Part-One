@@ -4,7 +4,7 @@
 ##Insulin
 Insulin is a **polypeptide** hormone, and is:
 * Synthesised from **proinsulin** in the rough endoplasmic reticulum of **B cells** in the **Islets of Langerhans**
-* Excreted via exocytosisin response to an increase in intracellular Ca<sup>2+</sup>
+* Excreted via exocytosis in response to an increase in intracellular Ca<sup>2+</sup>
 * **Minimally protein bound** with a **tiny volume of distribution**  
 V<sub>D</sub> 0.075 L.kg<sup>-1</sup>, increased to 0.146 L.kg<sup>-1</sup> in diabetics.
 * **Metabolised** in liver, muscle, and kidney **by glutathione insulin transhydrogenase**, with renal elimination of inactive metabolites  
