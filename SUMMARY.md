@@ -320,6 +320,7 @@
   * [Aminoglycosides](aminoglycosides.md)
   * [Lincosamides](lincosamides.md)
   * [Metronidazole](metronidazole.md)
+  * [Antifungals](antifungals.md)
 * [Endocrine](insulins.md#id)
   * [Hypoglycaemics](insulins.md#id)
     * [Insulin](insulins.md)

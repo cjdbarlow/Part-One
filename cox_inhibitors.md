@@ -63,7 +63,7 @@ A consequence of impaired mucosal secretion through COX-1 inhibition. This can r
 |--|--|--|--|--|--|
 |**Mechanism of Action**| Irreversible inhibition of platelet thromboxane production. As platelets are anucleic, they are unable to regenerate thromboxane.|Non-selective COX inhibitor|Non-selective COX inhibition|Non-selective COX-inhibition|COX-2 inhibitor (30:1 in favour of COX-2)|COX-2 inhibitor (61:1 in favour of COX-2)|
 |**Uses**|Prevention of arterial thromboembolism, MI, CVA, migraine, analgesia, others (e.g. Still's disease)| Mild-to-moderate pain|Potent anti-analgesic, minimal anti-inflammatory properties|Mild-to-moderate pain| Analgesia, particular chronic arthritic pain|Acute inflammatory pain|
-|**Distribution**| 85% protein bound. Weak acid with a pKa of 3, unionised in the stomach and unionised at physiological pH||||97% protein bound||
+|**Distribution**| 85% protein bound. Weak acid with a pKa of 3, unionised in the stomach and ionised at physiological pH||||97% protein bound||
 |**Absorption**|Gastric absorption (pKa 3) leads to rapid onset.||||||
 |**Metabolism**|Hepatic metabolism to salicyluric acid and glucuronides. May have zero-order eliminiation in overdose.|||CYP to inactive metabolites |CYP2C9 to inactive metabolites|CYP2C9 to inactive metabolites|
 |**Elimination**|Renal. Elimination may be increased with urinary alkalinisation.|||||||

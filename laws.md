@@ -49,7 +49,7 @@ $$ E \ (mV) = {R.T \over z.F}ln{[ion]_{outside} \over [ion]_{inside}} $$, where:
 
 
 * **Goldman-Hodgkin-Katz Equation**  
-Calculates the membrane potential for given vlaues of intracellular and extracellular ionic concentrations:  
+Calculates the membrane potential for given values of intracellular and extracellular ionic concentrations:  
  $$ E \ (mV) = {R.T \over F }ln{P_K[K^+]_o \ + \ P_{Na}[Na^+]_o \ + \ P_{Cl}[Cl^-]_i \over P_K[K^+]_i + \ P_{Na}[Na^+]_i \ + \ P_{Cl}[Cl^-]_o}$$, where:
     * $$P_x$$ is the permeability constant for the ion, $$x$$  
     If the membrane is impermeable to $$x$$, then $$P_x = 0 $$.

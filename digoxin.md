@@ -4,15 +4,14 @@ Digoxin is a cardiac glycoside used in the treat of atrial arrhythmias and in ca
 
 Digoxin has both a direct and indirect **mechanism of action**:
 * Direct  
-Parasympathomimetic effects by increasing ACh release at cardiac muscarinic receptors.
- * Slows AV nodal conduction and ventricular response  
- This improves coronary blood flow, increasing time for ventricular filling, and improving cardiac output.
-* Indirect  
 Inhibits cardiac Na<sup>+</sup>/K<sup>+</sup> ATPase, causing:
- * Increasing intracellular [Na<sup>+</sup>], decreasing activity of the Na<sup>+</sup>/Ca<sup>2+</sup> pump
- * Increased intracellular Ca<sup>2+</sup> increases inotropy
- * Decreased K<sup>+</sup> results prolongs refractory period of the AV node and bundle of His
-
+	* Increasing intracellular [Na<sup>+</sup>], decreasing activity of the Na<sup>+</sup>/Ca<sup>2+</sup> pump
+	* Increased intracellular Ca<sup>2+</sup> increases inotropy
+	* Decreased K<sup>+</sup> results prolongs refractory period of the AV node and bundle of His
+* Indirect  
+Parasympathomimetic effects by increasing ACh release at cardiac muscarinic receptors.
+	* Slows AV nodal conduction and ventricular response  
+	This improves coronary blood flow, increasing time for ventricular filling, and improving cardiac output.
 
 |Property|Action|
 |--|--|

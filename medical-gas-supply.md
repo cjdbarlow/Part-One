@@ -4,17 +4,17 @@
 
 ##Production
 ###Fractional Distillation
-Oxygen is produced on the industraial scale by fractional distillation of atmospheric air. This process:
+Oxygen is produced on the industrial scale by fractional distillation of atmospheric air. This process:
 * Relies on the fact that **different gases** have **different boiling points**  
-By liquifying air and then heating it gradually, each gas can be removed separately as it boils.
+By liquefying air and then heating it gradually, each gas can be removed separately as it boils.
 * Occurs in stages:    
     * Atmospheric air  is filtered  
     Removes dust and other contaminants.
     * Air is **compressed** to **6 atm** and **then cooled** to below ambient temperature  
     Water vapour condenses and is removed.
-    * Compressed air passed through a **zeolite seive** which removes CO<sub>2</sub>
+    * Compressed air passed through a **zeolite sieve** which removes CO<sub>2</sub>
     * Compressed air is allowed to re-expand  
-    As it does so it loses heat energy as per **Gay-Lussac's Law**, and liquifies.
+    As it does so it loses heat energy as per **Gay-Lussac's Law**, and liquefies.
         * Air must be cooled below the boiling point of the desired gases  
         This requires getting gases very cold, and so the process may be mechanically assisted using a turbine, and/or a heat exchanger. Key boiling points (at 1 atm):
             * Nitrogen: 77°K
@@ -84,7 +84,7 @@ Tests include:
 Cylinder manifolds are formed of sets of large gas cylinders used in parallel.
 * All cylinders in a group are used together
 * When the pressure falls below a set level, a pressure valve will switch and gas will be drawn from another cylinder group
-* The first (now empty) cylinder group is exchanged full full cylinders
+* The first (now empty) cylinder group is exchanged for full cylinders
 
 ####Pros
 * Cheap

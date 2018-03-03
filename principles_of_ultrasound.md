@@ -15,7 +15,7 @@ How close two separate objects can be to each other and still be distinguishable
     * **Lateral resolution**, how far apart two objects can be when side side-by-side
 * Contrast resolution is how similar two objects can appear (in echogenic appearance) and still be distinguishable
 
-* **Higher frequency** settings offer greater spatial resolution but decreased penentration
+* **Higher frequency** settings offer greater spatial resolution but decreased penetration
 * **Lower frequency** settings offer reduced spatial resolution but increased penetration  
 They are used for visualising deep structures.
 
@@ -43,7 +43,7 @@ Sound is reflected from tissue but is not received by the probe.
 
 
 * **Attenuated**  
-Attenuation describes the loss of sound wave with increasing depth, and is a function of the above fctors.
+Attenuation describes the loss of sound wave with increasing depth, and is a function of the above factors.
     * Attenuation is managed by increasing the **gain**  
     Gain refers to amplification of returned signal.
     * **Time-gain compensation** refers to amplification of signals which have taken longer to return, which amplifies signals returned from deep tissues
