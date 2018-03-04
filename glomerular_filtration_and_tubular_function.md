@@ -8,7 +8,6 @@
   * Hydrostatic pressure gradients
   * Oncotic pressure gradient
     * Reflection coefficient
-  * Membrane permeability
 
 ###Glomerular Filtration Rate
 **Glomerular Filtration Rate** is:

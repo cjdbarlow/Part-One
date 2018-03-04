@@ -65,13 +65,13 @@ Impulses are conducted by two types of **primary afferent fibres**:
   * **Myelinated**
   * Conduct sharp pain at up to 40m.s<sup>-1</sup>  
   * Mediate initial reflex responses to acute pain
-  * Synapse in laminae I in the DRG  
+  * Synapse in laminae I in the dorsal horn  
   Substance P is the neurotransmitter at the NK1 receptor.
 * C fibres:
   * **<2μm** diameter
   * **Unmyelinated**
   * Conduct dull pain at 2m.s<sup>-1</sup>
-  * Synapse in laminae II in the DRG  
+  * Synapse in laminae II in the dorsal horn  
   Substance P is the neurotransmitter at the NK1 receptor.
 
 

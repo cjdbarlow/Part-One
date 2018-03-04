@@ -13,7 +13,7 @@ They include:
   
   
 * **Chemoreceptor reflex**  
-  Decreased PaO<sub>2</sub> < 50mmHg or increased pH sensed by peripheral chemoreceptors causes subsequent tachycardia and hypertension.
+  Decreased PaO<sub>2</sub> < 50mmHg or decreased pH sensed by peripheral chemoreceptors causes subsequent tachycardia and hypertension.
   
   
 * **Cushing reflex**  

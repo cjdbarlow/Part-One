@@ -18,9 +18,9 @@ This pattern of electrical activity is seen in the SA and AV nodes. It  **has no
 <img src="resources\pacemaker-phases.svg">
 
 * **Phase 0**  
-  At the threshold potential of **-40mV**, voltage-gated L-type (long-lasting) Ca<sup>2+</sup> channels open, causing an inward movement of ions. The membrane potential peaks at **20mV**.
+  Begins at the threshold potential of **-40mV**, with a peak membrane potential of **20mV**. Driven predominantly by the voltage-gated L-type (long-lasting) Ca<sup>2+</sup> channels causing an influx of calcium ions. 
 * **Phase 3**  
-  Ca<sup>2+</sup> channels close and K<sup>+</sup> channels open, leading to repolarisation. The nadir is called the **maximum diastolic potential** and is -**65mV**.
+  Repolarisation phase, which occurs as K<sup>+</sup> channels open and Ca<sup>2+</sup> channels close. The nadir is called the **maximum diastolic potential** and is -**65mV**.
 * **Phase 4**  
   Phase 4 consists of:
     * The **funny current**  
