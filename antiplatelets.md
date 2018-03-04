@@ -26,7 +26,7 @@ Antiplatelet agents can be classified by which stage of platelet function they a
 |**Class**|ADP antagonist|Phosphodisterase inhibitor|GP IIb/IIa antagonisits
 |**Uses**|PVD, STEMI, NSTEMI, stent prophylaxis|CVA|UA, NSTEMI
 |**Route of Administration**|PO only|PO/IV|IV only
-|**Mechanism of Action**|Irreversibly prevents ADP from binding to its receptor on the platelet, preventing activation of the IIb/IIIa receptor|Inhibits platelet adhision to walls, potentiates prostacyclin activity and increases platelet cAMP, ↓ Ca<sup>2+</sup> and inhibiting platelet aggregation and deformation. Also acts as a coronary vasodilator.|Reversible antagonism of IIb/IIIa receptor, preventing platelet aggregation
+|**Mechanism of Action**|Irreversibly prevents ADP from binding to its receptor on the platelet, preventing activation of the IIb/IIIa receptor|Inhibits platelet adhesion to walls, potentiates prostacyclin activity and increases platelet cAMP, ↓ Ca<sup>2+</sup> and inhibiting platelet aggregation and deformation. Also acts as a coronary vasodilator.|Reversible antagonism of IIb/IIIa receptor, preventing platelet aggregation
 |**Dosing**|300mg load, 75mg daily thereafter|200mg BD for CVA|Load 25 mcg.kg<sup>-1</sup>, maintenance 15mcg.kg<sup>-1</sup>
 |**Absorption**|Rapid absorption and onset within 2 hours|Variable depending on oral intake|IV only. Onset within 10 minutes
 |**Distribution**|Highly protein-bound drug and metabolites|Highly protein bound|65% protein bound
