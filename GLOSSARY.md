@@ -215,7 +215,7 @@ Proximal Convoluted Tubule
 Pulmonary Capillary Wedge Pressure
 
 ##PDA
-Posterior Descending Artery
+Posterior Descending Artery/Patent Ductus Arteriosus
 
 ##PDE
 Phosphodiesterase

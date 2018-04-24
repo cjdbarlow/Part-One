@@ -19,10 +19,11 @@
 	When ventricular pressure exceeds aortic pressure, blood is ejected into the aorta and ventricular volume decreases.
 * The slope of the line B-C gives the elastance of the ventricle  
 This is also known as the **End-Diastolic Pressure Volume Relationship (EDPVR)**, and is often (erronously) referred to as ventricular compliance.
-	* Elastance of the ventricle decreases as it is filled  
-	This is demonstrated by the dashed line.
+	* **Elastance** of the ventricle **increases as it is filled**  
+	This is demonstrated by the dashed line.  
 		* The ventricle only overfills at high filling pressures
-	* Decreased elastance (such as in **diastolic dysfunction**) is demonstrated by an **increased slope** of this line, such that ventricular pressure will be higher at any given volume
+	* Increased elastance (such as in **diastolic dysfunction**) is demonstrated by an **increased slope** of this line, such that ventricular pressure will be higher at any given volume  
+	Both ventricular and arterial elastances are low in normal circumstances (a state known as ventricular-arterial coupling), as this allows the ventricle to achieve a wide range of volume transfers in ejection with minimal change in filling pressure.
 * The horizontal distance between point B (ESV) and C (EDV) give the stroke volume  
 **Ejection fraction** can then be calculated.
 * **Preload** is given by the EDV
@@ -35,7 +36,8 @@ This is also known as the **End-Diastolic Pressure Volume Relationship (EDPVR)**
 	This is also known as the arterial elastance line, or end-systolic pressure-volume relationship.
 		* The gradient of the arterial elastance line can be worked out from the loops $$ E_A = {Pressure_{End-Systole} \over Stroke \ Volume}$$
 		* This is different from the above formula because it only considers the pressure-volume relationship at end-systole, not throughout the entirety of ejection
-		* $$E_A$$ is a good substitute for afterload because it is relatively independent of preload and contractility, and will vary with changes in afterload
+		* $$E_A$$ is a good substitute for afterload because it is relatively independent of preload and contractility, and will vary with changes in afterload  
+		i.e. For a given stroke volume, an increase in $$E_a$$ leads to an increase in SBP. Similarly, if the ventricle is unable to maintain a given stroke volume as $$E_a$$ increases, then SBP will fall.
 * **Contractility** is given by the slope of the end-systolic pressure volume-relationship  
 Also known as elastance at end-systole, or $$E_{es}$$, and is given by the tangent to the curve at end-systole.
 	* This measurement is not entirely independent of other factors, as it is influenced by afterload
@@ -160,3 +162,4 @@ The Khan Academy series [Changing the Pressure-Volume Loop](https://www.khanacad
 2. Klabunde, RE. [Ventricular Pressure-Volume Relationship(http://www.cvphysiology.com/Cardiac%20Function/CF024). Cardiovascular Physiology Concepts. 2015.
 3. Desai, R. [Arterial elastance (Ea) and afterload](https://www.khanacademy.org/science/health-and-medicine/circulatory-system/changing-the-pv-loop-nm/v/arterial-elastance-ea-and-afterload). Khan Academy. 
 4. Redington, AN. [Cardiopulmonary and Right–Left Heart Interactions](https://thoracickey.com/cardiopulmonary-and-right-left-heart-interactions/). Thoracic Key.
+5. Borlaug BA, Kass DA. [Ventricular-Vascular Interaction in Heart Failure](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2586173/pdf/nihms45916.pdf). Heart failure clinics. 2008;4(1):23-36.
