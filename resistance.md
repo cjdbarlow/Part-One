@@ -41,7 +41,7 @@ $$ F = {\Delta P \pi r^4 \over 8l.\eta}$$, where:
 
 However, as in laminar conditions flow is proportional to the driving pressure and inversely proportional to resistance, flow can be substituted and the equation solved for resistance:
 
-$$ Resistance = { 8l.v \over \pi r^4} $$
+$$ Resistance = { 8l. \eta \over \pi r^4} $$
 
 This can be used to describe the factors affecting resistance:
 * Length  

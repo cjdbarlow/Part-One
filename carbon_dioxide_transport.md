@@ -81,7 +81,7 @@ Simplified, PaCO<sub>2</sub> is inversely proportional to alveolar ventilation:
 
 $$PACO_2 \propto {1 \over \dot{V}_A}$$
 
-<img src="resources\paco2-vs-MV.svg">
+<img src="resources\VA-vs-paco2.svg">
 
 ##Distribution of Carbon Dioxide{#vent}
 CO<sub>2</sub> in the body can be considered as a three-compartment model:
