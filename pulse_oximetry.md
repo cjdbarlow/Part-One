@@ -4,8 +4,8 @@
 Pulse oximetry relies on several principles:
 * Oxygenated and deoxygenated haemoglobin **absorb light of different wavelengths** to different extents  
 Light of **660nm** and **940nm** is used.
-  * Deoxyhaemoglobin has a greater absorbance of infrared (660nm) light than oxyhaemoglobin
-  * Oxyhaemoglobin has a greater absorbance of red (940nm) light than deoxyhaemoglobin
+  * Deoxyhaemoglobin has a greater absorbance of red (660nm) light than oxyhaemoglobin
+  * Oxyhaemoglobin has a greater absorbance of infrared (940nm) light than deoxyhaemoglobin
   * The relative absorbance of each allows determination of the proportions of oxygenated and deoxygenated haemoglobin
 
 
@@ -17,7 +17,7 @@ Absorption of light passing through a substance is directly proportional to both
   Absorption is proportional to the thickness of the solution, or more precisely, that each layer of equal thickness absorbs an equal proportion of radiation that passes through it
  
  
-* **Blood is pulsatile**  
+* **Blood flow is pulsatile**  
 
 
 
