@@ -186,7 +186,7 @@ Closing capacity is the sum of residual volume and closing volume.
         * CC exceeds FRC in the erect patient at 66
   * This is clinically relevant during **preoxygenation**, as it will limit the denitrogenation that can occur
 
-<img src="resources\closing-capacity-vs-age.svg.svg">
+<img src="resources\closing-capacity-vs-age.svg">
 
 
 
