@@ -15,7 +15,7 @@ Adrenoreceptors are classified by their varying sensitivity to different catecho
 ##Adrenoreceptor Subtypes
 **α<sub>1</sub>-receptors**:
   * Are present in smooth muscle  
-  Agonism causes vasoconstriction, relaxation of GIT muscle (via presynaptic receptors), and contruction of GU muscle.
+  Agonism causes vasoconstriction, relaxation of GIT muscle (via presynaptic receptors), and contraction of GU muscle.
   * They are:
     * G<sub>q</sub> coupled
     * Phospholipase C activated increases IP<sub>3</sub>, increase calcium
