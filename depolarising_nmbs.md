@@ -23,7 +23,7 @@ Succinylcholine binds to the nicotinic ACh receptor causing depolarisation. It c
 |**MSK**|Myalgias post depolarisation, particularly in young females. Prolonged blockade with pseudocholinesterase deficiency.
 |**Renal and Electrolyte**|Hyperkalaemia (K<sup>+</sup> ↑ by ~0.5mmol.L<sup>-1</sup>) due to depolarisation causing K<sup>+</sup> efflux, ↑ in burns (>10%), paraplegia (first 6 months) and neuromuscular disorders including muscular dystrophy and myopathies (including **critical illness myopathy**).
 |**GIT**|Intragastric pressure ↑ by 10cmH<sub>2</sub>O, matched by ↑ in LoS pressure.
-|**Immunological**|Anaphylaxis - highest risk of all NMBs.
+|**Immunological**|Anaphylaxis - highest risk of all NMBs at ~11/100,000
 
 ##Adverse Effects
 The adverse effects of suxamethonium can be remembered as **three major, three minor, and three pressures**:
@@ -74,3 +74,4 @@ Key differences include:
 1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
 2. [Suxamethonium Chloride Injection BP PRODUCT INFORMATION](https://gp2u.com.au/static/pdf/S/SUXAMETHONIUM_CHLORIDE_INJECTION_BP-PI.pdf)
 3. Appiah-Ankam J, Hunter JM. [Pharmacology of neuromuscular blocking drugs](https://academic.oup.com/bjaed/article/4/1/2/356873/Pharmacology-of-neuromuscular-blocking-drugs). Continuing Education in Anaesthesia Critical Care & Pain, Volume 4, Issue 1, 1 February 2004, Pages 2–7.
+4. Cook T, Harper N. [Anaesthesia, Surgery, and Life-Threatening Allergic Reactions: Report and findings of the Royal College of Anaesthetists' 6th National Audit Project: Perioperative Anaphylaxis](https://niaa.org.uk/NAP6Report#pt). Royal College of Anaesthetists'. 2018.

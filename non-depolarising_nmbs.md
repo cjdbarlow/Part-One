@@ -37,7 +37,7 @@ Typically, induction doses used are 2-5x the ED<sub>95</sub>.
 |**Elimination**|60% biliary, 40% urinary. Prolonged duration in hepatic and renal failure|70% biliary, 30% urinary|80% biliary, 20% urinary|||
 |**Resp**||||Slight risk of bronchospasm with rapid injection|Slight risk of bronchospasm with rapid injection|
 |**CVS**|↑ HR at high doses|**No** ↑ HR|↑ HR and MAP due to muscarinic antagonism|Risk of ↓ BP with rapid injection|Risk of ↓ BP with rapid injection|
-|**Immune**|Higher risk of anaphylaxis, probably comparable with suxamethonium. Anaphylaxis risk associated with use of pholcodeine in the previous 3 years.|||||
+|**Immune**|Higher risk of anaphylaxis, ~6/100,000. Anaphylaxis risk associated with use of pholcodeine in the previous 3 years.|Notably no anaphylaxis recorded in NAP 6||Anaphylaxis ~ 4/100,000.||
 |**Other**|Reversible with **sugammadex**|Reversible with **sugammadex**|||||
 
 ---
@@ -51,3 +51,4 @@ Typically, induction doses used are 2-5x the ED<sub>95</sub>.
 6. Lexicomp. Pancuronium: Drug information. In: UpToDate, Post, TW (Ed), UpToDate, Waltham, MA, 2017.
 7. Lexicomp. Atracurium: Drug information. In: UpToDate, Post, TW (Ed), UpToDate, Waltham, MA, 2017.
 8. Lexicomp. Cisatracurium: Drug information. In: UpToDate, Post, TW (Ed), UpToDate, Waltham, MA, 2017.
+9. Cook T, Harper N. [Anaesthesia, Surgery, and Life-Threatening Allergic Reactions: Report and findings of the Royal College of Anaesthetists' 6th National Audit Project: Perioperative Anaphylaxis](https://niaa.org.uk/NAP6Report#pt). Royal College of Anaesthetists'. 2018.
