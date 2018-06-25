@@ -3,7 +3,7 @@
 
 Cell membranes are:
 * Formed by a **phospholipid bilayer**  
-Separates intracellular and extracellular contents.
+Separates the intracellular and extracellular fluid.
 * **Semi-permeable**  
 Leads to different ionic concentrations (and therefore electrical charge) on either side of the membrane.
     * Alteration in charge means the membrane acts as a **capacitor**, with most cells having a **resting potential 70-80mV lower** than extracellular fluid

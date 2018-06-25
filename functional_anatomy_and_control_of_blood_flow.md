@@ -56,8 +56,7 @@ This increases capillary hydrostatic pressure (increasing filtration) and also i
 * Is released from the juxtaglomerular apparatus by β<sub>1</sub> stimulation
 * Catalyses the production of angiotensin I from circulating angiotensinogen  
 Angiotensin I is then converted into Angiotensin II by circulating ACE.
-
-The actions of the RAAS are described in more detail in the [endocrine functions of the kidney](endocrine_functions_of_the_kidney.md).
+	* *The actions of the RAAS are described in more detail in the [endocrine functions of the kidney](endocrine_functions_of_the_kidney.md#raas)*.
 
 ---
 ##References

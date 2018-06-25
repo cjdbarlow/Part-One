@@ -1,6 +1,7 @@
-# Cellular Respiration
+# Cell Homeostasis
 
-> To describe the composition and control of intracellular fluid and the mechanisms by which cells maintain their homeostasis and integrity
+> To describe the ~composition and control of intracellular fluid and the~ mechanisms by which cells maintain their homeostasis and integrity
+
 
 Cellular respiration describes the production of ATP through a series of redox reactions. Oxygen is used as the oxidising agent, whilst the catabolic fuel may be glucose, fat, or protein.
 

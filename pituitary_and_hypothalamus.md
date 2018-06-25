@@ -33,13 +33,13 @@ The **hypothalamic-pituitary axis** describes the complex feedback loops between
 * **Long-loop feedback** describes negative feedback from a pituitary target gland (i.e. thyroid, adrenal, gonads) on the hypothalamus, e.g. cortisol inhibiting CRH (as well as ACTH) release.
     * These axes are also named with target gland, e.g. hypothalamic-pituitary-adrenal axis
 
-###Pituitary Hormones
+###Pituitary Hormones{#pit}
 The pituitary gland secretes **eight hormones** from **two lobes**:
 * **Anterior Pituitary**  
 Secretes **six** hormones in response to hypothalamic endocrine stimulus. These are classified as:
     * **Stimulating** hormones, which act at another gland:
         * **ACTH**  
-        Short-chain peptide that stimulates cortisol release from the zona fasciculata. Release is stimulated by CRH, and inhibited by cortisol.
+        Short-chain peptide that stimulates cortisol release from the zona fasciculata. Release is stimulated by CRH, and inhibi  ted by cortisol.
         * **TSH**  
         Glycoprotein that stimulates synthesis and release of T<sub>3</sub> and T<sub>4</sub>. Release is stimulated by TRH, and inhibited by T<sub>3</sub>.
         * **FSH**  
@@ -60,12 +60,17 @@ Secretes **six** hormones in response to hypothalamic endocrine stimulus. These 
 
 
 * **Posterior pituitary**  
-Secretes **two** hormones, in response to hypothalamic neural stimulus:
+Secretes **two** hormones:
     * **ADH**  
-    Short-chain peptide which acts on:
-        * V<sub>1</sub> receptors in vascular smooth muscle, causing vasoconstriction
-        * V<sub>2</sub> receptors in kidney collecting ducts to increase water reabsorption, and on endothelium to increase vWF and factor VIII release
-        * V<sub>3</sub> receptors in the pituitary to stimulate ACTH release
+    Short-chain peptide which is:
+        * Released in response to osmoreceptors in the circumventricular organs detecting a change in osmolality  
+        ADH release is:
+            * Reduced when osmolality is <275 mOsm.L<sup>-1</sup>
+            * Increased when osmolality is >290 mOsm.L<sup>-1</sup>
+        * Effective at:
+            * V<sub>1</sub> receptors in vascular smooth muscle, causing vasoconstriction
+            * V<sub>2</sub> receptors in kidney collecting ducts to increase water reabsorption, and on endothelium to increase vWF and factor VIII release
+            * V<sub>3</sub> receptors in the pituitary to stimulate ACTH release
     * **Oxytocin**  
     Short-chain peptide, structually similar to ADH, which causes:
         * Uterine contraction
