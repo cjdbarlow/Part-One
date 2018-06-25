@@ -30,7 +30,7 @@ Afferent fibres from CNIX and CNX travel to the NTS in the **medulla**. Effector
 * Decreased cardiac output
 * Decreased respiratory rate
 
-**Increased** **low-pressure** stretch receptor activity results in an **increase** rather than a decrease in **heart rate**.
+Conversely, **increased** activity of **low-pressure** stretch receptors results in an **increase** rather than a decrease in **heart rate**.
 
 ##Baroreceptor Activity{#baro}
 Baroreceptors are:
@@ -45,16 +45,13 @@ Rapid compensatory responses are vital in the short-term control of blood pressu
 * This curve is left-shifted in children and neonates, and right-shifted in chronic hypertension, though this is reversible
 
 ##Hormonal control
-Atrial stretch receptors also excrete ANP, which reduces blood pressure in the following ways:
+Activation of atrial/ventricular stretch receptors stimulates ANP/BNP release respectively, which act to reduce blood pressure in the following ways:
 * Increased GFR  
-  ANP constricts the efferent arteriole and dilates of the afferent arteriole. This subsequently inhibits renin secretion through increased hydrostatic pressure at the JGA and increased Na<sup>+</sup> and Cl<sup>-</sup> delivery to the macula densa.
+Act to constrict the efferent arteriole and dilates of the afferent arteriole. This subsequently inhibits renin secretion through increased hydrostatic pressure at the JGA and increased Na<sup>+</sup> and Cl<sup>-</sup> delivery to the macula densa.
 * Decreased aldosterone  
-  ANP inhibits aldosterone secretion.
+Via inhibition of aldosterone secretion.
 * Vasodilation  
-  ANP causes vasodilation of peripheral smooth muscle.
-
-
-Ventricular stretch receptors secrete BNP, which has similar structure and function to ANP.
+Causes vasodilation of peripheral smooth muscle.
 
 ---
 

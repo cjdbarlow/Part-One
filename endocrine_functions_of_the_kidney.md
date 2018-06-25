@@ -7,7 +7,7 @@ The kidney is involved in a number of endocrine processes and produces or metabo
 * EPO
 * Prostaglandins
 
-##Renin-Angiotensin-Aldosterone System
+##Renin-Angiotensin-Aldosterone System {#raas}
 The RAAS is a signaling pathway involved in blood pressure control. It involves a number of hormones:
 
 * **Angiotensinogen** is produced by the liver in response to:
@@ -36,7 +36,9 @@ The RAAS is a signaling pathway involved in blood pressure control. It involves 
     * Stimulates release of angiotensinogen
 
 
-* **Aldosterone** increases Na<sup>+</sup> (and water) reabsorption, and increasing K<sup>+</sup> elimination
+* **Aldosterone** acts on the distal convulted tubule to:
+    * Increase reabsorption of Na<sup>+</sup> and water
+    * Increase elimination of K<sup>+</sup> and H<sup>+</sup>
         
     
 
@@ -45,6 +47,7 @@ Vitamin D has a complex metabolic pathway which meanders through a number of org
 * Vitamin D<sub>3</sub> may be absorbed in diet or produced in skin by the action of UV light on 7-dehydrocholesterol
 * Vitamin D<sub>3</sub> is then hydrolysed in the liver by CYP450 enzymes to form 25-hydroxycholecalciferol (25-OHD<sub>3</sub>)
 * 25-OHD<sub>3</sub> is then converted in the proximal tubule to calcitriol - the active form
+
 
 ##Erythropoietin {#epo}
 Erythropoiesis is stimulated by EPO release:
@@ -57,10 +60,8 @@ Erythropoiesis is stimulated by EPO release:
     * Low Hct
 * Erythropoiesis is inhibited by:  
     * High red cell volume
-
-
-
-Production of EPO is decreased in renal failure, which is why patients with end-stage renal disease require exogenous EPO.
+    * Renal failure  
+    Production of EPO is decreased in renal failure, which is why patients with end-stage renal disease require exogenous EPO.
 
 ---
 ##References

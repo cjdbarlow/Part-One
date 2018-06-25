@@ -1,7 +1,7 @@
-# Sodium {#id}
+# Sodium and Water{#id}
 > Describe the function, distribution, regulation and physiological importance of sodium~~, chloride, potassium, magnesium, calcium and phosphate~~ ions
 
-Normal total body Na<sup>+</sup> is 60mmol.kg<sup>-1</sup> 70% of which is exchangeable. Total body Na<sup>+</sup> is distributed as:
+Normal total body Na<sup>+</sup> is 60mmol.kg<sup>-1</sup>, 70% of which is exchangeable. Total body Na<sup>+</sup> is distributed as:
 * 50% in ECF  
 Sodium is the dominant extracellular cation.
   * Typical ECF [Na<sup>+</sup>] of 140mmol.L<sup>-1</sup>.
@@ -13,7 +13,7 @@ A minor intracellular cation.
 
 
 
-##Function
+##Function of Sodium
 * **Regulation of ECF volume**  
   Principal ECF cation. Changes in sodium levels cause compensatory fluid shifts. Loss of sodium *content* will result in hypotension/hypovolaemia, with consequent baroreceptor stimulation and activation of the RAAS. Baroreceptors will activate with a **7-10% change in volume**.
 
@@ -25,27 +25,32 @@ A minor intracellular cation.
 * **Resting Membrane Potential**  
 Alterations in sodium concentration will affect intracellular potassium to a similar degree, which will alter the RMP.
 
-##Regulation
-Total body Na<sup>+</sup> content is regulated to within 2%. Regulation of any system is typically a balance between **input** and **output**, however sodium intake is **essentially unregulated**. Sodium is therefore regulated by adjusting methods of elimination.
+##Regulation of Sodium and Water
+Regulation of any system is typically a balance between **input** and **output**:
+* Sodium intake is **essentially unregulated**
+* Therefore, sodium concentration is a function of:
+	* Sodium elimination
+	* Sodium reabsorption
+	* **Water homestasis**  
+	Control of total body water is a major mechanism to regulate sodium concentration.
 
 
+###Sodium Elimination
 Sodium is eliminated in:
 * Sweat and GIT  
 Obligatory and not amenable to regulation.
   * Acclimatisation to hot environments improves the efficiency of sweating by reducing its tonicity, reducing sodium loss
 * GIT
 * Urine  
-Regulation of sodium is predominantly via adjusting renal elimination, and is mediated primarily by **aldosterone**.
+	* Adjust renal elimination is the main mechanism to regulate sodium concentration  
+	Can be performed in two ways:
+		* **Changes in GFR**  
+		Changes in GFR due to hyper or hypovolaemia will (indirectly) adjust sodium elimination. Increased plasma volume increases GFR, and vice versa.
+		* **Changes in sodium reabsorption**  
+		This is the main mechanism for controlling sodium in euvolaemia, and is mediated primarily by **aldosterone**.
 
-###Urinary Elimination of Sodium
-Urinary elimination can be adjusted in two ways:
-* **Changes in GFR**  
-Changes in GFR due to hyper or hypovolaemia will (indirectly) adjust sodium elimination. Increased plasma volume increases GFR, and vice versa.
 
-* **Changes in sodium reabsorption**  
-This is the main mechanism for controlling sodium in euvolaemia.
-
-####Sodium Reabsorption
+###Sodium Reabsorption
 Given that:
 * Normal glomerular filtrate is ~180L.day<sup>-1</sup> 
 * The dominant osmole in glomerular filtrate is sodium
@@ -61,6 +66,22 @@ The remaining 10% of sodium reabsorption occurs in the DCT and CT. As it is unde
 * Na<sup>+</sup>-Cl<sup>-</sup> pumps in the DCT
 * Na<sup>+</sup>-K<sup>+</sup> ATPase pumps in **principal cells** of the DCT
 * Na<sup>+</sup>-H<sup>+</sup> pumps in **intercalated cells** of the CT
+
+
+###Water Homeostasis
+Body water homeostasis involves:
+* Sensors  
+Osmoreceptors present in the:
+	* Macula densa  
+	* Circumventricular organs  
+	Subfornical organ and the vascular organ of the lamina terminalis.
+		* Change in cellular volume secondary to changes in osmolality alter hormone secretion.
+* Effectors  
+Predominantly hormonal:
+	* [ADH](pituitary_and_hypothalamus.md#pit)  
+	* [RAAS](endocrine_functions_of_the_kidney.md#raas)
+	* [Natriuretic peptides](adrenal-hormones.md#min)
+
 
 ---
 ##References
