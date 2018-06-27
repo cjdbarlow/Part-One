@@ -30,7 +30,7 @@ Adrenergic drugs:
 |**Absorption**|IV only|Variable ETT and SC absorption|IM onset 15 minutes, duration up to 1 hour|IV only|IV or IM|
 |**Metabolism**| t<sub>1/2</sub> 2min. Metabolised by mitochondrial MAO and COMT in liver, kidney, and blood to VMA and metadrenaline. |t<sub>1/2</sub> 2min. Metabolised by mitochondrial MAO and COMT within liver, kidney, and blood to VMA and metadrenaline. |Hepatic by MAO|Some uptake into adrenergic nerve endings|Hepatic (not metabolised by MAO and COMT), giving a longer (10-60 minute) duration of action and a t<sub>1/2</sub>β of 3-6 hours
 |**Elimination**|Pulmonary uptake of up to 25%. Urinary excretion of metabolites| Urinary excretion of metabolites|Renal of metabolites, t<sub>1/2</sub>β 2-3 hours||50% unchanged in urine 
-|**Mechanism of action** |α>>β|β>α at lower doses. At high doses α<sub>1</sub> effects dominate.|Direct α<sub>1</sub>|Direct α<sub>1</sub> |↑ NA release (indirect α<sub>1</sub>) and direct α and β agonism|
+|**Mechanism of action** |α>>β|β>α at lower doses. At high doses α<sub>1</sub> effects dominate.|Direct α<sub>1</sub>|Direct and indirect (via ↑ NA release) α<sub>1</sub> agonism|↑ NA release (indirect α<sub>1</sub>) and direct α and β agonism|
 |**Respiratory**|↑ MV, bronchodilation|↑ MV, bronchodilation|||Bronchodilation
 |**CVS**|↑ SVR, ↑ Myocardial O<sub>2</sub> consumption, ↑ Coronary flow.|↑ Inotropy, ↑ HR, ↑ SVR and PVR, ↑ BP, ↑ CO, ↑ myocardial O<sub>2</sub> consumption. Coronary vasodilation. Arrythmogenic.|↑ SVR and BP, potential reflex bradycardia. Not arrythmogenic.|↑ SVR/PVR, reflex bradycardia. Indirect ↑ in coronary flow.|Direct and indirect (via NA release) ↑ in HR, BP, and CO. Arrhythmogenic.|
 |**CNS**||↑ Pain threshold, ↑ MAC||| ↑ MAC, mydriasis.
