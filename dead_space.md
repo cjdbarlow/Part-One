@@ -77,14 +77,15 @@ $$ {V_D \over V_T} = {V_T - V_A \over V_T}$$
 
 The Bohr equation is based on the principle that **all CO<sub>2</sub> exhaled must come from ventilated alveoli**.
 
-$${V_D \over V_T} = {PA_{CO_2} - P{\bar{E}_{CO_2}} \over PA_{CO_2}}$$
+$${V_D \over V_T} = {PA_{CO_2} - P\bar{E}_{CO_2} \over PA_{CO_2}}$$
 
-Note that:
-* $$P{\bar{E}_{CO_2}}$$ is the mixed-expired carbon dioxide  
+
+Note that:  
+* $$P\bar{E}_{CO_2}$$ is the mixed-expired carbon dioxide  
 Partial pressure of CO<sub>2</sub> in an expired tidal breath.
 * The Bohr equation requires alveolar PCO<sub>2</sub> to be measured  
 As this is impractical, the **Enghoff modification** is typically used, which assumes that PACO<sub>2</sub> ≈ PaCO<sub>2</sub>. The equation then becomes:  
-$${V_D \over V_T} = {Pa_{CO_2} - P{\bar{E}_{CO_2}} \over Pa_{CO_2}}$$
+$${V_D \over V_T} = {Pa_{CO_2} - P\bar{E}_{CO_2} \over Pa_{CO_2}}$$  
 * A **normal** value for physiological dead space during normal tidal breathing is **0.2-0.35**
 
 ##Physiological Consequences of Increased Dead Space
