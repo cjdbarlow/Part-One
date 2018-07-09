@@ -25,7 +25,7 @@ Arterial pressure exceeds alveolar pressure, which exceeds venous pressure.
 * **West Zone 3: P<sub>a</sub> > P<sub>v</sub> > P<sub>A</sub>**  
 Arterial pressure exceeds venous pressure which exceeds alveolar pressure.
   * Blood flow occurs throughout the cardiac cycle  
-  Flow is proportional to the a</sub> - P<sub>v</sub>  gradient.
+  Flow is proportional to the P<sub>a</sub> - P<sub>v</sub>  gradient.
   * For an accurate measure of PCWP, a PAC must be placed in West Zone 3 (so there is a continual column of blood)
   * This tends to happen naturally as the majority of pulmonary flow is to this region
 
