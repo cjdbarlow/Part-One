@@ -42,7 +42,7 @@ Dead space from equipment, such as tubes ventilator circuitry. Some apparatus de
 Two methods exist to allow dead space volumes to be calculated:
 * Physiological dead space may be measured with **Bohr's method**
 * Anatomical dead space may be measured by **Fowlers method**
-* Pathological dead space may be calculated by substracting physiological dead space (Bohr's Method) from anatomical (Fowler's method)
+* Pathological dead space may be calculated by substracting anatomical dead space (Fowler's method) from physiological dead space (Bohr's Method)
 
 ###Fowler's Method
 Fowler's Method is a **single-breath nitrogen washout test**, used to calculate **anatomical dead space** and **closing capacity**.

@@ -57,7 +57,7 @@ Bicarbonate is an effective buffer because it is:
 * **Open at both ends**  
   * CO<sub>2</sub> can be adjusted by changing ventilation
   * Bicarbonate can be adjusted by changing renal elimination
-  * This prevents the bicarbonate buffer system from equilibrating and allows it to resist resist large changes in pH despite its low pKa  
+  * This prevents the bicarbonate buffer system from equilibrating and allows it to resist large changes in pH despite its low pKa  
   However, because it relies heavily on changes in pulmonary ventilation it is **unable to effectively buffer respiratory acid-base disturbances**.
 
 
@@ -72,7 +72,7 @@ However, the useful one at physiological pH is the **imidazole groups** of the *
 ####Haemoglobin Buffer System
 Haemoglobin is:
 * A protein buffer system
-* Quantitativly the most important non-bicarbonate buffer system of blood  
+* Quantitatively the most important non-bicarbonate buffer system of blood  
 This is because haemoglobin:
   * Exists in greater amounts than plasma proteins (150g.L<sup>-1</sup> compared to 70g.L<sup>-1</sup>)
   * Each molecule contains 38 histidine residues  

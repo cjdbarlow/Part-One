@@ -23,7 +23,7 @@ Amiodarone is an antiarrythmic agent with a complex mechanism of action and many
 |**MSK**|Photosensitivity, grey skin.|
 |**Endocrine**|Hyperthyroidism (1%) and hypothyroidism (6%).|
 |**GIT**|Nausea, vomiting, cirrhosis, hepatitis, and jaundice.|
-|**Other**|Amiodarone has potential to cause a number of drug interactions due to its inhibition of CYP3A4 and its high protein binding. A selection include: Digoxin, statins, warfarin, phenytoin, and other antiarrhythmics. <br> Contraindicated in **porophyria**.
+|**Other**|Amiodarone has potential to cause a number of drug interactions due to its inhibition of CYP3A4 and its high protein binding. A selection include: Digoxin, statins, warfarin, phenytoin, and other antiarrhythmics. <br> Contraindicated in **porphyria**.
 
 A **mnemonic** for some of the rarer effects is **BITCH**:
 * **B**lue skin

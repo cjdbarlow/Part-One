@@ -9,7 +9,7 @@ Key concepts in pharmacokinetics include:
 The volume of distribution is defined as the **theoretical volume into which an amount of drug would be distribute to produce the observed plasma concentration**.
     * Units are ml.kg<sup>-1</sup> 
         * $$ Vd = {Total \ bioavailable \ drug \over Plasma \ concentration } $$ 
-    * It is a way to describe proportion of a drug is confined to plasma, and what proportion distributes to other tissues
+    * It is a way to describe what proportion of a drug is confined to plasma, and what proportion distributes to other tissues
     * It does not correspond to any particular volume, however a V<sub>D</sub> of:
         * Less than 40ml.kg<sup>-1</sup> indicates a drug is confined to plasma
         * Up to 200ml.kg<sup>-1</sup> indicates a drug is confined to the ECF
