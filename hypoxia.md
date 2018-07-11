@@ -13,7 +13,8 @@ $$ DO_2 = HR \times SV \times (1.34 \times[Hb] \times SpO_2 + PaO_2 \times 0.003
   This is the oxygen carrying capacity of haemoglobin, in ml.g<sup>-1</sup> (of Hb).
     * The theoretical maximum is 1.39
     * *In vivo* it is 1.34 due to the effect of carboxyhaemoglobin and methaemoglobin compounds, which limit O<sub>2</sub> binding
-* 0.003 is the solubility coefficient of O<sub>2</sub> in water at 37ºC, in mls.mmHg<sup>-1</sup>
+* 0.03 is the solubility coefficient of O<sub>2</sub> in water at 37ºC, in mls.mmHg<sup>-1</sup>  
+Can also be expressed as 0.003 mls.dL<sup>-1</sup>.mmHg<sup>-1</sup> (mls per deciliter per mmHg). Different texts use different values, depending on whether haemoglobin is reported in g.L<sup>-1</sup> or g.100ml<sup>-1</sup>.
 
 ##Classifications and Causes of Hypoxia
 Hypoxia can be categorised into four types:

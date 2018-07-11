@@ -85,7 +85,7 @@ The **remaining 7 divisions** make up the **respiratory zone**. This region:
 * Makes up the majority of lung volume  
 All non-anatomical dead space volume is in the respiratory zone, and is **~30ml.kg<sup>-1</sup>** (FRC) at rest
 * Blood supply is via the pulmonary circulation
-* Gas flow in the terminal respiratory zone is slowdue to the exponential increase in cross-sectional area with each airway division
+* Gas flow in the terminal respiratory zone is slow due to the exponential increase in cross-sectional area with each airway division
   * Diffusion is the predominant mechanism of gas movement
 
 ##Alveolus

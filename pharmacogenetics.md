@@ -102,7 +102,7 @@ Autosomal dominant deficiency in the first step of haeme synthesis. These mutati
 * Result in a partial deficiency of enzymes
 * Lead to accumultion of porphyrin precursors
 * May be precipitated by many drugs:
-  * Ketmine
+  * Ketamine
   * Clonidine
   * Ketorolac
   * Diclofenac

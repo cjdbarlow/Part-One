@@ -26,7 +26,7 @@ Complex dome-shaped membranous structure, consisting of a central tendon and per
 * During **inspiration**, the **diaphragm** and **external intercostal** muscles **contract**
   * Diaphragm pushes the intrabdominal contents down, increasing thoracic volume and generating a negative intrathoracic pressure
     * Diaphragm is supplied by the phrenic nerves from C3/4/5. 
-  * External intercostals pull the ribs anterosuperiorly, which increses the cross-sectional area of the chest, further increasing thoracic volume (and negative pressure)
+  * External intercostals pull the ribs anterosuperiorly, which increases the cross-sectional area of the chest, further increasing thoracic volume (and negative pressure)
     * Intercostal muscles are supplied by intercostal nerves from the same spinal level
     * Paralysis of the external intercostals does not have a dramatic effect on inspiratory function provided the diaphragm is intact
 

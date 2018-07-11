@@ -102,7 +102,7 @@ $$P = k.T$$, i.e. pressure and temperature are linearly related when volume is c
 $$PV = nRT$$, i.e. combination of Boyle's, Charle's law combining each variable and the universal gas constant, R (8.13).
 
 * **Henry's Law**  
-The number of molecules of dissolved gas is equal to the partial pressure of the gas at the surface of the liquid
+The number of molecules of dissolved gas is proportional to the partial pressure of the gas at the surface of the liquid
 
 * **Graham's Law of Diffusion**  
 Diffusion rates through orifices are inversely proportional to the square root of the molecular weight

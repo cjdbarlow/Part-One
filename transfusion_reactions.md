@@ -20,7 +20,7 @@ Preservatives are used to extend the time blood can be stored:
           Substrate for RBC glycolysis
           * Mannitol
       * CPDA1 (citrate-phosphate-dextrose-adenine) was traditionally used
-          * Citrate binds calcium, preventing clottting
+          * Citrate binds calcium, preventing clotting
           * Phosphate acts as a buffer and phosphate source for metabolism
           * Dextrose 
           * Adenine 

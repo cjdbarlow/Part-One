@@ -86,12 +86,12 @@ Eukaryotic organisms include fungi, protozoa, and helminths, as well as plants a
       * Non-albicans
       More difficult to treat.
     * Cryptococcus
-  *  **Molds**  
-  Molds are are filamentous.
+  *  **Moulds**  
+  Moulds are are filamentous.
     * Aspergillus
     * Penicillium
   * **Dimorphus**
-  Have characteristics of both yeasts and molds.
+  Have characteristics of both yeasts and moulds.
     * Histoplasma
 
 
