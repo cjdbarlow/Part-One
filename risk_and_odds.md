@@ -4,7 +4,7 @@
 ##Risk
 * **Absolute Risk** is the risk of an event occurring in the exposed group
 * **Relative Risk** (or risk ratio) is the risk of an event occurring in the exposed group relative to the unexposed group.  
-  $$ Relative \ Risk = {Risk \ in \ Exposed \over Risk \ in \ Unexposed} = \$$$${Exposed \ individuals \ with \ outcome \over Number \ of \ exposed }\over {Unexposed \ individuals \ with \ outcome \over Number \ of \ unexposed} $$
+  $$ Relative \ Risk = {Risk \ in \ Exposed \over Risk \ in \ Unexposed} = $$$${Exposed \ individuals \ with \ outcome \over Number \ of \ exposed }\over {Unexposed \ individuals \ with \ outcome \over Number \ of \ unexposed} $$
 
 
 * **Absolute Risk Reduction** is the decrease in risk provided by an exposure: 
