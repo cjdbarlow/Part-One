@@ -16,7 +16,7 @@ Multimodal mechanism of action, including:
 |Property|Sodium Nitroprusside|GTN|Hydralazine|
 |--|--|
 |**Class**|Inorganic Nitrate|Organic Nitrate|Direct vasodilator
-|**Uses**|Afterload reduction|Afterload reduction, angina|HTN
+|**Uses**|Afterload (with some preload) reduction|Afterload & preload reduction, angina|HTN
 |**Presentation**|Solution at 10mg.ml<sup>-1</sup>, must be protected from light|Spray, tablets, patch, IV solution which is absorbed into PVC - requires a polyethylene administration set|20mg ampoule or powder. Should not be reconstituted with dextrose.
 |**Route of Administration**| IV only| IV, topical, sublingual| PO, IV
 |**Dosing**|0.5-6µg.kg<sup>-1</sup>.min<sup>-1</sup>|10-200µg.min<sup>-1</sup>|5-20mg IV|

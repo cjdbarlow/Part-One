@@ -51,11 +51,15 @@ Soda lime:
     * Will pass through a mesh with 4 holes per square inch, but not 8
     * Balance between surface area (speed/efficacy of reaction) and resistance to flow
 * Absorbs CO<sub>2</sub> by following reaction:  
-    $$ CO_2 + H_2O \rightarrow H_2CO_3 \\  
+    $$\begin{aligned}
+CO_2 + H_2O \rightarrow H_2CO_3 \\  
     H_2CO_3 + 2NaOH \rightarrow Na_2CO_3 + 2H_2O + Heat \\
-    Na_2CO_3 + Ca(OH)_2 \rightarrow CaCO_3 + 2NaOH + Heat$$
+    Na_2CO_3 + Ca(OH)_2 \rightarrow CaCO_3 + 2NaOH + Heat
+\end{aligned}$$
+
     * This increases the pH of the soda lime, causing the pH indicator to change colour
 * 100g of soda lime can absorb ~26L of CO<sub>2</sub>
+
 
 ###Pros
 * Cheaper to operate

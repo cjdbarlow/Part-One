@@ -3,7 +3,7 @@
 
 A **buffer** is a solution which consists of a **weak acid and its conjugate base**, that can **resist a change in pH** when a stronger acid or base is added.
 
-$$ Buffer + H^+ ⇌ H.Buffer $$
+$$ Buffer + H^+ \Leftrightarrow H.Buffer $$
 
 Buffering:
 * Is a key part of acid-base homeostasis
@@ -39,14 +39,14 @@ The bicarbonate buffer system is:
 Carbonic acid is exceedingly short lived in any environment even remotely compatible with life and it rapidly dissociates to HCO<sub>3</sub><sup>-</sup> and H<sup>+</sup>.
 
 Hydrogen ions are consumed or released by the following reaction:
-* $$H_2CO_3 ⇌H CO_3^- + H^+  ⇌  CO_3^{2-} + 2H^+$$
+* $$H_2CO_3 \Leftrightarrow H CO_3^- + H^+  \Leftrightarrow  CO_3^{2-} + 2H^+$$
 * Carbonic anhydrase (present in erythrocytes) is an enzyme which allows rapid conversion of H<sub>2</sub>O and CO<sub>2</sub> to H<sub>2</sub>CO<sub>3</sub> (and back again)
 * Each stage of the reaction has an individual pKa:
-  * As the pKa of the $$H_2CO_3 ⇌H CO_3^- + H^+ $$ system is 6.1, these substances predominate at physiological pH
+  * As the pKa of the $$H_2CO_3 \Leftrightarrow H CO_3^- + H^+ $$ system is 6.1, these substances predominate at physiological pH
   * The pKa for the second stage of the reaction is 9.3 and so essentially no CO<sub>3</sub><sup>2-</sup> exists in blood  
   Clincically this reaction can be ignored.
 * In clinical conditions, the reaction becomes:  
-$$ H_2O + CO_2 ⇌ H_2CO_3 ⇌H CO_3^- + H^+ $$
+$$ H_2O + CO_2 \Leftrightarrow H_2CO_3 \Leftrightarrow H CO_3^- + H^+ $$
   * Addition of a strong acid drives the above reaction to the left, forming (briefly) H<sub>2</sub>CO<sub>3</sub> before it dissociates to CO<sub>2</sub> and H<sub>2</sub>O
     * CO<sub>2</sub> is then able to be exhaled, which prevents equilbration and allows the system to buffer more acid
 
@@ -68,6 +68,7 @@ However, the useful one at physiological pH is the **imidazole groups** of the *
 * Intracellularly proteins have a much greater contribution because:
   * Intracellular protein concentration is much greater than extracellular concentration
   * Intracellular pH is much lower (~6.8) and closer to their pKa
+
 
 ####Haemoglobin Buffer System
 Haemoglobin is:
@@ -98,7 +99,7 @@ In the cell:
 Phosphoric acid is:
 * Tribasic and can therefore potentially donate three hydrogen ions
 * However, only one of these reactions is relevant at physiological pH, with a pKa of 6.8:  
-$$ H_2PO_4^- ⇌ H^+ + HPO_4^-$$
+$$ H_2PO_4^- \Leftrightarrow H^+ + HPO_4^-$$
 * The quantitative effect is low despite the optimal pKa due to the low plasma concentration of phosphate
 * At higher concentrations, such as intracellularly and in urine, it is a significant contributor
 * In prolonged acidosis, CaPO<sub>4</sub> can be mobilised from bones and can be considered as an alkali reserve

@@ -91,7 +91,11 @@ This is the fraction of the Vd from which the drug is removed per unit time. The
 At steady state, **input is equal to output**. Therefore concentration at steady state is:
 * Proportional to the concentration of the infusion and infusion rate
 * Inversely proportional to the clearance:  
-$$ Input = Output \\ C_i.I = C_{ss}.Cl \\ C_{ss} = {C_i.I \over Cl}$$  
+$$ \begin{aligned}
+Input = Output \\  
+C_i.I = C_{ss}.Cl \\
+C_{ss} = {C_i.I \over Cl}
+\end{aligned}$$
     * Concentration of drug can therefore be determined by the amount infused and the clearance
 * Note steady state requires peripheral compartments to be saturated, and so will only occur after an infusion of many hours
 
@@ -195,7 +199,7 @@ Difference between the AUC of the same dose of drug administered IV and via anot
 The formula for half-life can be derived from the equation for a wash-in exponential as follows:
 * Wash in exponential is given by: $$C = 1 - e^{-kt}$$  
 * $$y = 0.5$$ can then be substituted and the equation solved for $$t$$ as follows:  
-$$ \begin{align*}
+$$ \begin{aligned}
 0.5 &= 1 - e^{-kt} \\
  -0.5 &= e^{-kt} \\
 \ln-0.5 &= -kt \\
@@ -203,7 +207,8 @@ $$ \begin{align*}
 {\ln 2 \over k} &= t \\
 {0.693 \over k} &= t
 
-\end{align*}$$
+\end{aligned}$$
+
 
 
 ---
