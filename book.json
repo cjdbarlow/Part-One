@@ -15,7 +15,7 @@
         "favicon",
         "litfl",
         "theme-partone",
-        "mathjax"
+        "mathjax@https://github.com/OrgVue/gitbook-plugin-mathjax.git#speech-fix"
     ],
     "pluginsConfig": {
           "git-author": {
