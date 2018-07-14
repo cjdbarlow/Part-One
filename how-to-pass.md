@@ -23,6 +23,7 @@ Decide when you are going to sit:
     * Those are very legitimate feelings
     * Accept that part of **this exam is an academic hazing you must pass** through on your path to fellowship  
 
+
 ##Be Strategic
 The curriculum provided is overwhelming, and probably not achievable for most of us. Have a plan about how you will approach it:
 * Have a timetable
