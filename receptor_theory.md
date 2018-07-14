@@ -15,7 +15,7 @@ A **receptor** is a component of a cell which interacts with a drug and **initia
 
 ##Dissociation Constants
 Interaction between a receptor and a drug is based upon the **law of mass action**, which states the rate of a chemical reaction is proportional to the masses of reacting substances. This can be expressed as:  
-$$ [Drug] + [Receptor] ⇌ [Drug-Receptor] $$
+$$ [Drug] + [Receptor] \Leftrightarrow [Drug-Receptor] $$
 
 The ratio of the **rate constant** for the forwards reaction (**K<sub>association</sub>**) and the backwards reaction (**K<sub>dissociation</sub>**) is the **dissociation constant**. This is the concentration of drug when 50% of receptors are occupied:
 

@@ -24,11 +24,11 @@ Buffer systems minimise changes in pH until the kidney can eliminate excess hydr
 
 Bicarbonate is the predominant ECF buffer system (see [Acid-Base physiology](principles-of-acid-base-physiology.md) for more on buffers). By adjusting the level of HCO<sub>3</sub><sup>-</sup> the kidney is able to adjust pH, as per the Henderson-Hasselbalch equation:
 
-$$ \begin{align*}
+$$ \begin{aligned}
 pH &= pK_a + log{[HCO_3^-] \over [CO_2]} \\
 &= 6.1 + log{24 \over 1.2} \\
 &= 7.4
-\end{align*}$$
+\end{aligned}$$
 
 Where:
 * $$pK_a$$ = 6.1, the pKa of HCO<sub>3</sub><sup>-</sup>

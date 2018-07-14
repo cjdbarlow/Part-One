@@ -25,7 +25,7 @@ As with other organs, blood flow is autoregulated via intrinsic and extrinsic me
 ###Extrinsic Autoregulation
 * Autonomic Nervous System  
   Both the hepatic and portal vasculature have sympathetic innervation:
-    * The hepatic artery has D-, β-, and α-adrenoreceptors
+    * The hepatic artery has dopamine receptors, as well as β- and α-adrenoreceptors
     * The portal vein has only α-adrenoreceptors  
     Activation of these receptors causes venoconstriction, reducing the compliance of the hepatic vasculature and mobilising up to **250ml** of blood in times of sympathetic stress.
     

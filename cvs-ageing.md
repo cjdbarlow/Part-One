@@ -7,7 +7,7 @@ CVS effects of ageing can be divided into cardiac, vascular, and autonomic chang
     * Decreased receptor density and number
     * Decreased maximum heart rate  
     Due to fibrosis of the SA node causing reduced pacemaker cell number and funtion, and reduction in catecholamine receptor density.
-        * $$Maximum \ heart \ rate ≈ 220 - Age$$
+        * $$Maximum \ heart \ rate \approx 220 - Age$$
     * Decreased inotropy  
     Minor.
     * Increased reliance on atrial kick  

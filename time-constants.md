@@ -18,10 +18,10 @@ Importantly:
 * $$k$$ is the **reciprocal of the time constant**, $$\tau$$
 * In a negative exponential, **time-constant** is the time it would take for $$y$$ to reach 0 if the original rate of change was maintained.
 * Other fun facts about the time constant (for an exponential decay) include:
-    * After 1 $$\tau$$, $$y \ $$will be 37% ($$1\over e$$) of its initial value
-    * After 2 $$\tau$$, $$y \$$will be 13.5% ($$1\over e^2$$) of its initial value
-    * After 3 $$\tau$$, $$y \$$will be 5% ($$1\over e^3$$) of its initial value
-    * After 5 $$\tau$$, $$y \$$will be 1% ($$1 \over e^5$$) of its initial value
+    * After 1 $$\tau$$, $$y$$ will be 37% ($$1\over e$$) of its initial value
+    * After 2 $$\tau$$, $$y$$ will be 13.5% ($$1\over e^2$$) of its initial value
+    * After 3 $$\tau$$, $$y$$ will be 5% ($$1\over e^3$$) of its initial value
+    * After 5 $$\tau$$, $$y$$ will be 1% ($$1 \over e^5$$) of its initial value
 
 ##Physiological Signifiance
 The time-constant is used in respiratory physiology in:
