@@ -1,7 +1,7 @@
 # Summary
 
 * [About Part One](README.md)
-* [Downloads](downloads.md)
+* [Download Part One](downloads.md)
 * [How to Pass](how-to-pass.md)
 * [The SAQ](the-saq.md)
 * [The Viva](the-viva.md)
