@@ -69,7 +69,7 @@ Reabsorption of CSF:
 * Is predominantly via pinocytosis and opening of extracellular fluid spaces
 * Is **pressure-dependent**
   * Reabsorption occurs when the CSF pressure is **1.5mmHg greater** than venous pressure  
-  Typically an ICP <7mmHg results in minimal CSF reabsorption. Above this, CSF absorption increases in a linear fashion up to 22.5mmHg.
+  Typically an ICP < 7mmHg results in minimal CSF reabsorption. Above this, CSF absorption increases in a linear fashion up to 22.5mmHg.
 
 ---
 ##References

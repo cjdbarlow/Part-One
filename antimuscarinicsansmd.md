@@ -19,8 +19,8 @@ Do not cross the blood-brain barrier.
 |**Class**|Quaternary amine. Muscarinic antagonist|Tertiary amine
 |**Uses**|Bradycardia, antisialagogue|Antisialagogue, motion sickness
 |**Presentation**|Clear, colourless solution at 200μg.ml<sup>-1</sup>. Incompatible with diazepam and thiopentone.|Racemic, only L-isomer active
-|**Route of Administration**|IV/IM|PO, SC
-|**Dosing**|200-400μg|200-600μg|
+|**Route of Administration**|IV/IM|PO, SC, IV/IM
+|**Dosing**|200-400μg|20-40mg IV slow push or IM|
 |**Absorption**|Minimal PO absorption - not used via this route.| < 50% PO bioavailability
 |**Distribution**|Crosses placenta but not BBB, V<sub>D</sub> 0.5L.kg<sup>-1</sup>|V<sub>D</sub> 2L.kg<sup>-1</sup>|
 |**Metabolism**|Minimal hepatic hydrolysis|Extensive metabolism by hepatic esterases
@@ -29,7 +29,7 @@ Do not cross the blood-brain barrier.
 |**CVS**|Initial bradycardia due to partial agonist effect. Reverses vagal causes of bradycardia, may cause tachycardia in doses >200μg. HR peaks at 3-9 minutes following administration.|Least likely anticholinergic to cause tachycardia
 |**CNS**||Most likely anticholinergic to cause central anticholinergic syndrome
 |**MSK**|Anhydrosis||
-|**GIT**|Reduced oral and gastric secretions, and gastric motility|Reduced oral and gastric secretions, and gastric motility|
+|**GIT**|Reduced oral and gastric secretions, and gastric motility|Reduced oral and gastric secretions, and gastric motility. Increases biliary peristalsis|
 |**GU**|Difficult micturition||
 
 ---
