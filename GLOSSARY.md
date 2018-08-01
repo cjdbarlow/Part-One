@@ -232,6 +232,9 @@ Platelet-Derived Growth Factor
 ##RAP
 Right Atrial Pressure
 
+##RCA
+Right Coronary Artery
+
 ##RR
 Respiratory Rate
 
