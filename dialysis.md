@@ -71,19 +71,35 @@ This includes removal of inflammatory proteins, which may be benficial in sepsis
 
 ##Pharmacokinetics of RRT
 Pharmacokinetics are unpredictable, but are broadly affected by:
-* **Free drug in plasma**  
-Drugs with a small proportion of free drug in plasma are (unsuprisingly) poorly removed by RRT. These include:
-  * Highly protein bound substances
-  * Drugs with a V<sub>D</sub> greater than 1L.kg<sup>-1</sup>
-* **Size**  
-Small molecules (< 500 Da) are more easily cleared by diffusive methods of RTT.
-* **Dose/Flow rates**  
-Reduced flow rates will reduce clearance.
-* **Membrane permeability**  
-* **Residual renal function**  
-Patients residual GFR will also affect pharmacokinetics.
-* **Timing**  
-Drugs given between IHD or SLED sessions will not be cleared until the next session.s
+* **Drug factors**
+  * **Free drug in plasma**  
+  Drugs with a small proportion of free drug in plasma are (unsuprisingly) poorly removed by RRT (but **may be removed via plasmapheresis**). These include:
+    * Highly (> 80%) protein bound substances  
+    Examples included phenytoin, warfarin, and many antibiotics.
+      * Not that this **may not apply in overdose**  
+      Once protein binding sites are saturated, both free drug fraction and efficacy of dialysis is increased.
+    * Drugs with a V<sub>D</sub> greater than 1L.kg<sup>-1</sup>
+  * **Size/Molecular Weight**  
+    * Small molecules (< 500 Da) are more easily cleared by diffusive methods of RTT
+    * Molecules > 15kDa are poorly dialysed  
+    This includes proteins, heparins, and monoclonal antibodies.
+  * **Volume of distribution**  
+  Drugs with high volumes of distribution are poorly dialysed, as removal of drug from plasma only removes a small proportion of total-body drug content.
+
+
+* **Dialysis factors** 
+  * **Dose/Flow rates**  
+  Reduced flow rates will reduce clearance.
+    * Conventional high-flux haemodialysis has more rapid clearance compared to lower-flux haemoperfusion or CRRT
+  * **Membrane permeability**  
+  * **Timing**  
+  Drugs given between IHD or SLED sessions will not be cleared until the next session.s
+
+
+* **Patient factors**
+  * **Residual renal function**  
+  Patients residual GFR will also affect pharmacokinetics.
+
 
 ###An Incomplete List of Drugs 
 |Drugs Removed on RRT|Drugs not removed on RRT|

@@ -75,7 +75,7 @@ Alter their rates of firing by orders of magnitude in response to temperature ch
 
 
 ###Regulation
-Temperature sensation runs from cutaneous receptors via the dorsal column and medulla to the hypothalamus. Cortical input is received via the thalamocortical relay, whilst primitive responses are effected via the midbrain.
+Temperature sensation runs from cutaneous receptors via the spinothalamic tracts and medulla to the hypothalamus. Cortical input is received via the thalamocortical relay, whilst primitive responses are effected via the midbrain.
 
 ##Effector Reponses
 |  | Increase heat loss | Reduce heat loss/Increase heat gain |
