@@ -38,7 +38,7 @@ Drugs are monitored in order to:
 Drugs that typically require monitoring have a:
 * Narrow target range
 * Significant pharmacokinetic variability
-* Relationship between the concentration in plasma and clinical effets
+* Relationship between the concentration in plasma and clinical effects
 * Determined concentration range
 * Validated monitoring assay
 

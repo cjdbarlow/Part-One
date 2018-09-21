@@ -13,7 +13,7 @@
 	* B-C is rapid and slow ventricular filling, followed by atrial systole  
 	Atrial systole is sometimes demonstrated by a sharp 'bump' towards C, as ventricular pressure will briefly rise out of proportion to ventricular volume
 	* C-D is isovolumetric contraction  
-	The ventricle contracts. As ventricular pressure is greater than atrial pressure but less than aortic pressure, the mitral valve closes (point B) and the aortic valve remains closed. Pressure increases without a change in volume.
+	The ventricle contracts. As ventricular pressure is greater than atrial pressure but less than aortic pressure, the mitral valve closes (point C) and the aortic valve remains closed. Pressure increases without a change in volume.
 		* This slope of this line is known as the **dP/dt<sub>max</sub>** ($$\Delta P \over \Delta T$$), and is an index of [contractility](determinants_of_cardiac_output.md#cont)
 	* D-A is ventricular ejection  
 	When ventricular pressure exceeds aortic pressure, blood is ejected into the aorta and ventricular volume decreases.

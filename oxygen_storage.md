@@ -21,7 +21,7 @@ The steep section allows a large amount of oxygen to be delivered with only a sm
 
 
 * The sigmoid shape exists due to **cooperative binding**  
-Each oxygen which binds to Hb causes conformational changes which allow it bind dditional oxygen molcules more easily.
+Each oxygen which binds to Hb causes conformational changes which allow it bind additional oxygen molcules more easily.
   * When the fourth oxygen molecule has bound, Hb is said to be in the **relaxed conformation** (R state)
   * When no oxygen is bound, Hb is said to be in the **tense state** (T state)
 
@@ -50,7 +50,7 @@ Haemoglobin is a four-tetramer molecule, and its species can be physiological or
   * **HbS**  
   Sickle-cell disease.
     * Abnormal beta subunit
-    * Unable to deform s they pass through capillaries
+    * Unable to deform as they pass through capillaries
       * Increases blood viscosity, thrombus, and ischaemia through capillary occlusion
         * Often causes splenic infarction
       * Reduced red cell lifespan to 10-20 days <br> <br>

@@ -64,7 +64,7 @@ The proximal tubule reaborbs 60% of glomerular filtrate. It **reabsorbs basicall
 ###Loop of Henle
 The loop of Henle consists of a **thin descending limb** and a **thick ascending limb**;
 * The descending limb reabsorbs water only
-* The thick ascending limbL
+* The thick ascending limb:
   * Reabsorbs common ions (Na<sup>+</sup>, K<sup>+</sup>, Cl<sup>-</sup>) and HCO<sub>3</sub><sup>-</sup>
   * Excretes H<sup>+</sup>
 * The function of the loop is to concentrate urine in states of water deprivation  

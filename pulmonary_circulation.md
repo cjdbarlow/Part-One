@@ -42,7 +42,7 @@ Vascular resistance follows Ohms law, i.e.:
 $$ Vascular \ Resistance = {P_{In} - P_{Out} \over Flow }$$
 
  * Pulmonary vascular resistance is ~1/10<sup>th</sup> that of the systemic circulation
-   * This is because the pressure drop across the pulmonary circulation is  10mmHg (MPAP - RAP), ~1/10<sup>th</sup> that of the systemic circulation, and flow is the same
+   * This is because the pressure drop across the pulmonary circulation is  10mmHg (MPAP - LAP), ~1/10<sup>th</sup> that of the systemic circulation, and flow is the same
 
 Determinants of pulmonary vascular resistance are:
 * **Pulmonary Artery Pressure**  

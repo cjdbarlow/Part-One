@@ -50,7 +50,7 @@ Adrenergic drugs:
 |**Presentation**|Clear, colourless solution with 200mg or 800mg in water |Clear solution at 1mg/ml| 250mg dobutamine in 20ml water|
 |**Metabolism**|t<sub>1/2</sub> 3 min. 25% of dose converted to noradrenaline. Remainder is metabolised by MAO and COMT similar to nor/adrenaline. |Hepatic by COMT|t<sub>1/2</sub> 2 min. COMT to inactive metabolites.|
 |**Elimination**|Renal, t<sub>1/2</sub>β 3 minutes|| Urinary excetion of unchanged drug and metabolites|
-|**Mechanism of action** |D<sub>1</sub>, D<sub>2</sub>; β>α at lower dose||β<sub>1</sub>>>β<sub>2</sub>, D<sub>2</sub>|
+|**Mechanism of action** |D<sub>1</sub>, D<sub>2</sub>; β>α at lower dose|β<sub>1</sub>>β<sub>2</sub>|β<sub>1</sub>>>β<sub>2</sub>, D<sub>2</sub>|
 |**Respiratory**||Potent bronchodilation|Bronchodilation|
 |**CVS**|↑ Inotropy, ↑ HR, ↑ CO, coronary vasodilation. At high doses, ↑ SVR and PVR, ↑ VR.|↑ SVR, potential reflex bradycardia. Not arrythmogenic. | ↑ HR, CO, contractility, and automaticity. Β<sub>2</sub> effects may ↓ SVR and BP.
 |**CNS**|Inhibits prolactin. Nausea.|Stimulant|Tremor|

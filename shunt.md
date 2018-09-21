@@ -47,17 +47,18 @@ Venous admixture is **the amount of mixed venous blood that must be added to pul
 
 ###Effect on Oxygen
 * **PaO<sub>2</sub> falls proportionally to shunt fraction**
-* As shunted alveoli are ventilated but not perfused, **true shunt** is said to be **unresponsive to an increase in FiO<sub>2</sub>**  
+* As shunted alveoli are perfused but not ventilated, **true shunt** is said to be **unresponsive to an increase in FiO<sub>2</sub>**  
 This is where technical definitions become important to avoid confusion.
   * For an alveoli with a V/Q between 0-1 (V/Q mismatch or V/Q scatter, but not true shunt):
-    * There is ventilation, but *relatively less* perfusion
+    * There is perfusion, but *relatively less* ventilation
     * Therefore blood passing through this alveoli will be *partially* oxygenated
     * Increasing PAO<sub>2</sub> will improve oxygenation (assuming no diffusion limitation):
       * Administration of supplemental oxygen
       * Hyperventilation  
       * As per the alveolar gas equation
-  * For an alveoli with a V/Q of 0 (true shunt)
-    * There is no perfusion. Regardless of the increase in PAO<sub>2</sub>, PaO<sub>2</sub> will not improve.
+  * For an alveoli with a V/Q of 0 (true shunt)  
+  There is no ventilation. Regardless of the increase in PAO<sub>2</sub>, PaO<sub>2</sub> will not improve.
+
 
 ####The Isoshunt Diagram{#iso}
 * Isoshunt diagram plots the relationship between FiO<sub>2</sub> and PaO<sub>2</sub> against a set of 'virtual shunt lines'

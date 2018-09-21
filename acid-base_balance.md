@@ -50,7 +50,7 @@ Reabsorption of bicarbonate involves several steps:
 * Secreted H<sup>+</sup> combines with filtered HCO<sub>3</sub><sup>-</sup> to form CO<sub>2</sub> and H<sub>2</sub>O
 * CO<sub>2</sub> and H<sub>2</sub>O diffuse into the tubular cell
 * CO<sub>2</sub> and H<sub>2</sub>O are converted back into HCO<sub>3</sub><sup>-</sup> and H<sup>+</sup> in the tubular cell
-* HCO<sub>3</sub><sup>-</sup> is reabsorbed into the capillary via the HCO<sub>3</sub><sup>-</sup>-Cl<sup>-</sup> antiporter, and the H<sup>+</sup> ion is available to be secreted into the tubule (in exchange for K<sup>+</sup>
+* HCO<sub>3</sub><sup>-</sup> is reabsorbed into the capillary via the HCO<sub>3</sub><sup>-</sup>-Cl<sup>-</sup> antiporter, and the H<sup>+</sup> ion is available to be secreted into the tubule (in exchange for K<sup>+</sup> in the collecting ducts and Na<sup>+</sup> in the proximal tubule)
 
 This complicated process allows HCO<sub>3</sub><sup>-</sup> to be moved from the tubule to the tubular cell and then to the capillary. **There is no elimination of H<sup>+</sup>** by this method - the purpose of H<sup>+</sup> secretion is to facilitate the **reabsorption of HCO<sub>3</sub><sup>-</sup>** into the tubular cell.
 

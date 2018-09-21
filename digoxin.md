@@ -5,7 +5,7 @@ Digoxin is a cardiac glycoside used in the treat of atrial arrhythmias and in ca
 Digoxin has both a direct and indirect **mechanism of action**:
 * Direct  
 Inhibits cardiac Na<sup>+</sup>/K<sup>+</sup> ATPase, causing:
-	* Increasing intracellular [Na<sup>+</sup>], decreasing activity of the Na<sup>+</sup>/Ca<sup>2+</sup> pump
+	* Increasing intracellular [Na<sup>+</sup>], increasing activity of the Na<sup>+</sup>/Ca<sup>2+</sup> pump
 	* Increased intracellular Ca<sup>2+</sup> increases inotropy
 	* Decreased K<sup>+</sup> results prolongs refractory period of the AV node and bundle of His
 * Indirect  
@@ -24,7 +24,7 @@ Parasympathomimetic effects by increasing ACh release at cardiac muscarinic rece
 |**Distribution**|25% protein bound. V<sub>D</sub> 5-11L.kg<sup>-1</sup>, dependent on lean mass|
 |**Metabolism**|Minimal hepatic metabolism|
 |**Elimination**|Renal elimination of active metabolites t<sub>1/2</sub> 35 hours - increased in renal failure|
-|**CVS**|↓ HR, ↑ inotropy, arrhythmia, bigemini, PVCs, 1<sup>st</sup>/2<sup>nd</sup>/3<sup>rd</sup> degree AV block, SVT, VT
+|**CVS**|↓ HR, ↑ inotropy, arrhythmias including; bigeminy, PVCs, 1<sup>st</sup>/2<sup>nd</sup>/3<sup>rd</sup> degree AV block, SVT, VT
 |**CNS**|Deranged red-green colour perception, visual disturbances, headache|
 |**Immune**|Eosinophilia and rash
 |**Metabolic**|Gynaecomastia

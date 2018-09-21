@@ -22,7 +22,7 @@ This maximises surface area (optimising gas transfer) and makes the cells flexib
 * Comprise 40-50% of blood volume
 
 ##Production
-Erythrocytes have a **myeloid progenitor** which differentiates into the myeloid line. EPO (see [endorcrine functions of the kidney](endocrine_functions_of_the_kidney.md#epo) stimulates myeloid progenitor cells to:
+Erythrocytes have a **myeloid progenitor** which differentiates into the myeloid line. EPO (see [endocrine functions of the kidney](endocrine_functions_of_the_kidney.md#epo) stimulates myeloid progenitor cells to:
   * Differentiate
   * Proliferate
 
@@ -73,7 +73,7 @@ This is fat soluble, and binds to albumin.
     * Secreted **conjugated bilirubin** is metabolised **to urobilinogen** by gut bacteria
     * **Urobilinogen** may have a number of fates:
         * Enterohepatic recirculation and elimination in bile (again)
-        * Further metabolism by gut bacteria to **stercobilinogen** and then to **sterobilin**
+        * Further metabolism by gut bacteria to **stercobilinogen** and then to **stercobilin**
         * Enterohepatic recirculation and urinary excretion, where it is oxidised to **urobilin**
 
 

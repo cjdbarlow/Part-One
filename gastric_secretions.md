@@ -126,7 +126,7 @@ Exocrine pancreatic secretions are produced by the **acinar** and **ductal cells
               Hydrolysis of dietary triglycerides.
 
 ##Endocrine Function
-* Cholecystokinin (**CCK**) is a peptide family secreted by pancreatic **acinar cells**. Cholecystokinine:
+* Cholecystokinin (**CCK**) is a peptide family secreted by intestinal enteroendocrine cells (I cells) in the mucosa of the duodenum and jejunum. Cholecystokinin:
     * Regulates satiety
     * Regulates leptin release from fat
     * Stimulates secretions from the gallbladder and duodenum 

@@ -1,7 +1,7 @@
 # Glossary
 
 ##ACTH
-Adrenocorticotrophic Hormone
+Adrenocorticotropic Hormone
 
 ##ACh
 Acetylcholine

@@ -28,7 +28,6 @@ Anti-cholinergic effects tend to occur prior to cardiac effects, and include:
 * Agitation
 * Seizures
 * Pupillary dilatation and blurred vision
-* Seizures
 
 Antihistaminergic effects include obtundation.
 

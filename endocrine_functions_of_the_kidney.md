@@ -36,7 +36,7 @@ The RAAS is a signaling pathway involved in blood pressure control. It involves 
     * Stimulates release of angiotensinogen
 
 
-* **Aldosterone** acts on the distal convulted tubule to:
+* **Aldosterone** acts on the distal convoluted tubule to:
     * Increase reabsorption of Na<sup>+</sup> and water
     * Increase elimination of K<sup>+</sup> and H<sup>+</sup>
         

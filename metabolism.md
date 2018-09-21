@@ -115,7 +115,7 @@ CYP450 enzymes are:
 
 |CYP2B6|CYP2C9|CYP2C19|CYP2D6|CYP2E1|CYP3A4|CYP3A5|
 |--|
-|Propofol|Propofol, Parecoxib, Warfarin|Diazepam, Omeprazole, Clopidogrel, Phenytoin|Codeine, Metoprolol, Flecainide|Volatile anaesthetic agents, parcetamol|Common benzodiazepines, Fentanyl, Alfentanil, Lignocaine, Vecuronium|Diazepam
+|Propofol|Propofol, Parecoxib, Warfarin|Diazepam, Omeprazole, Clopidogrel, Phenytoin|Codeine, Metoprolol, Flecainide|Volatile anaesthetic agents, paracetamol|Common benzodiazepines, Fentanyl, Alfentanil, Lignocaine, Vecuronium|Diazepam
 
 Key CYP enzymes include:
 * **CYP2E1**  

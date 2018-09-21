@@ -27,7 +27,7 @@ The mechanism varies between receptors:
 ##Comparison of Benzodiazepines
 |Property|Midazolam|Diazepam|Clonazepam|
 |--|--|
-|**Physicochemical**|pKa 6.5. Structure is dependent on surrounding pH - at a pH < 4 its ring structure opens and it comes lipid soluble.|40% propylene glycol.||
+|**Physicochemical**|pKa 6.5. Structure is dependent on surrounding pH - at a pH < 4 its ring structure opens and it becomes water soluble.|40% propylene glycol.||
 |**Route of Administration**|PO/IV/IM.|PO/IV/IM.|PO.|
 |**Absorption**|50% PO bioavailability.|Good PO bioavailability.||
 |**Distribution**|V<sub>D</sub> 1.5L.kg<sup>-1</sup>, 95% protein bound.|95% protein bound.||

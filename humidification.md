@@ -29,10 +29,10 @@ Method of humidification:
 * In inspiration:
  * Relatively dry air is evaporates water from the airway lining
  * Relative humidity is increased to 90% in the nasopharynx and 100% BTPS by the second generation of bronchi  
- This gives a water vapour pressure of **44mmHg** at BTPS, with an absolute humidity of **44g.m<sup>-3</sup>**.
+ This gives a water vapour pressure of **47mmHg** at BTPS, with an absolute humidity of **44g.m<sup>-3</sup>**.
 * In expiration:
  * Air cools in the upper airway  
- As cooler air has a lower saturated vapour pressure, moisture contdenses on the airway.
+ As cooler air has a lower saturated vapour pressure, moisture condenses on the airway.
  * Moisture is reabsorbed  
  This reduces potential water losses from the airway from **300ml.day<sup>-1</sup>** to **150ml.day<sup>-1</sup>**.
 

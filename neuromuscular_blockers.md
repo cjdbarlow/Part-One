@@ -10,7 +10,7 @@ Nictotinic ACh receptors sit on the shoulders of junctional folds of muscle cell
 ###Patient Factors
 |Factor|Effect|Mechanism|
 |--|--|--|
-|Hepatic Disease|Prolonged duration of aminosteroids and suxamethonium|Decreased metabolism, decreased production of succinylcholine in severe disease|
+|Hepatic Disease|Prolonged duration of aminosteroids and suxamethonium|Decreased metabolism, decreased production of pseudocholinesterase in severe disease|
 |Pseudocholinesterase deficiency|Prolonged duration of suxamethonium|Decreased metabolism|
 |Age|Increased sensitivity in neonates, particularly premature infants|Incomplete maturation of NMJ
 |Hypokalaemia|Potentiates non-depolarising blockade, reduces depolarising blockade|Increases magnitude of stimulus required to depolarise cell

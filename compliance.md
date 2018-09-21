@@ -12,7 +12,8 @@ Compliance is measured in ml.cmH<sub>2</sub>O<sup>-1</sup>.
 $$ {1 \over C_T \ } = {1 \over C_L} + {1 \over C_W \ } $$. 
 
 * The curve is not linear as compliance varies with lung volume
-In the normal range however, (-5 to -10cmH<sub>2</sub>O) compliance is typically stated as **~200ml.cmH<sub>2</sub>O<sup>-1</sup>**.
+In the normal range however, (-5 to -10cmH<sub>2</sub>O) compliance of the lung and chest wall **independently** is typically stated as **~200ml.cmH<sub>2</sub>O<sup>-1</sup>**.
+  * **Compliance of the respiratory system** as a whole is therefore **~100ml.cmH<sub>2</sub>O<sup>-1</sup>**
 
 ###Measurement of Lung and Chest Wall Compliance
 * Lung compliance is calculated form the alveolar-intrapleural pressure gradient
@@ -97,7 +98,7 @@ Respiratory system compliance can be affected by changes to either lung or chest
 * Increased surface tension
     * **Reduced surfactant**
         * Hyaline Membrane Disease
-* **Impaired elasticity**
+* **Impaired parenchymal compliance**
     * Pulmonary fibrosis
 
 ###Increased Chest Wall Compliance

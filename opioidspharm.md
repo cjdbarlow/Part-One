@@ -30,7 +30,7 @@ Simple modifications to morphine.
 
 ##Opioid Receptor Classification
 All opioid receptors are Gi receptors. Activation:
-* Increases adenylyl cyclase, reducing cAMP
+* Inhibits adenylyl cyclase, reducing cAMP
     * Presynaptically inhibits voltage-gated Ca<sup>2+</sup> channels
         * Decreases Ca<sup>2+</sup> influx
         * Reduces neurotransmitter release
