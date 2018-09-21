@@ -20,7 +20,7 @@ At a **high minute ventilation**, oral breathing is favoured.
 
 ###Structures
 * **Pharyngeal dilator muscles**  
-Including glenioglossus and levator palate. Prevent pharnygeal collapse during negative-pressure ventilation and during sleep.
+Including glenioglossus and levator palati. Prevent pharnygeal collapse during negative-pressure ventilation and during sleep.
 
 
 * **Larynx**  
@@ -74,7 +74,7 @@ The volume of the conducting zone therefore contributes to **anatomic dead space
 
 
 * **Mucous** is secreted by **goblet cells** in the bronchial walls to trap inhaled particles
-* **Cilia** in the bronchial walls move rhythmically to drive the mucociliary elevator, driving mucuous up to the epiglottis, where it is then swallowed or expectorated
+* **Cilia** in the bronchial walls move rhythmically to drive the mucociliary elevator, driving mucous up to the epiglottis, where it is then swallowed or expectorated
 
 
 ![](http://i.imgur.com/qgajMA5.jpg)

@@ -42,6 +42,7 @@ There are two types of ACh receptor:
         Bind ACh.
         * One β
         * One δ
+        * One γ
     * Located in:
         * Post-synaptic NMJ
         * Preganglionic autonomic nervous system  
@@ -56,7 +57,7 @@ There are two types of ACh receptor:
 
 * **Muscarinic ACh receptors**  
     * Metabotropic  
-    G-protein copuled.
+    G-protein coupled.
     * Known as muscarinic because muscarine also agonises this receptor
     * Subdivided into:
         * M<sub>1</sub> (Gq)  

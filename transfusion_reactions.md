@@ -65,13 +65,12 @@ Fresh Frozen Plasma is:
 * Once collected, it is frozen and rethawed in a water bath prior to use
 
 ###Cryoprecipitate
-Cryoprecipitate is prepared by removing the precipitate from FFP which forms at 1–6°C. Cryoprecipitate:
-* Contains predominantly:
-    * Fibrinogen
-    * Fibronectin
-    * vWF
-    * Factor VIII
-    * Factor XII
+Cryoprecipitate is prepared by removing the precipitate from FFP which forms at 1–6°C. Cryoprecipitate contains predominantly:
+* Fibrinogen
+* Fibronectin
+* vWF
+* Factor VIII
+* Factor XIII
     
 
 ###Whole Blood

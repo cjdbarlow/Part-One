@@ -32,7 +32,7 @@ Creatinine is a byproduct of muscle catabolism.
         * Not metabolised
         * Freely filtered by the glomerulus
         * Minimally secreted  
-        As GFR fallsthe *proportion* of creatinine secreted by renal tubules increases, so plasma creatinine will overestimate GFR when GFR is low.
+        As GFR falls the *proportion* of creatinine secreted by renal tubules increases, so plasma creatinine will overestimate GFR when GFR is low.
         * Not reabsorbed
     * GFR can be approximated by creatinine clearance  
     This is given by the equation: $$GFR \approx Cl_{Cr} = {U_{[Cr]}.U_Q \over P_{[Cr]}}$$
@@ -41,7 +41,7 @@ Creatinine is a byproduct of muscle catabolism.
 
 
 ###Serum Creatinine{#cr}
-This formula demonstrates that **GFR is inversely proportional to serumcreatinine** concentration.
+This formula demonstrates that **GFR is inversely proportional to serum creatinine** concentration.
 * **This is only true when both creatinine production and glomerular filtration are at steady-state**  
 A sudden drop in glomerular filtration (e.g. aortic cross-clamp) will not result in an immediate rise in creatinine.
     * During acute changes in GFR, serum creatinine will underestimate GFR until a new steady state is reached  
@@ -55,7 +55,7 @@ Using the above formula requires measurement of urine volume. This is:
 * Typically performed by taking a 24 hour urine collection
 * Tedious, and so creatinine clearance is often estimated  
 A common method is the **Cockcroft-Gault formula**, which has a correlation of ~0.83 with creatinine clearance:  
-$$Cl = (140-A) \times W  \times S  \times 72  \times Cr)$$, where:
+$$Cl = {(140-A) \times W  \times S \over 72  \times Cr}$$, where:
     * $$Cl$$ = Clearance
     * $$A$$ = Age
     * $$S$$ = Sex coefficent (Male = 1, Female = 0.85)

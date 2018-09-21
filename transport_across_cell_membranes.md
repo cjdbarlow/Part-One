@@ -65,7 +65,7 @@ The Gibbs-Donnan Effect:
 * Occurs when:
   * A semi-permeable membrane separates two solutions
   * At least one of those solutions contains a non-diffusable ion
-* The distribution of permeable charged ions will be influenced by both their valence and the distribution of uncharged ions, such that at equilibrium **the products of the concentrations of paired ions on each side of the membrane will be equal**:  
+* The distribution of permeable charged ions will be influenced by both their valence and the distribution of non-diffusable ions, such that at equilibrium **the products of the concentrations of paired ions on each side of the membrane will be equal**:  
 $$[Na^+]_A \times [Cl^-]_A = [Na^+]_B \times [Cl^-]_B$$
 * Alters tonicity on either side of the cell membrane, causing movement of water which then upsets the Gibbs-Donnan effect  
 This results in no 'steady' stable state.

@@ -28,7 +28,7 @@ Remove pathogens and cellular debris.
 
 * Local inflammatory response  
     * Histamine causes arteriolar and post-capillary venule dilatation and subsequent extravasation
-    * Release of chemotactic molecules attacts circulating inflammatory cells
+    * Release of chemotactic molecules attracts circulating inflammatory cells
 
 
 * Systemic inflammatory response  

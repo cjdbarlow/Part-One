@@ -38,6 +38,10 @@ A follicle is formed of a single layer of cuboidal epithelium around a central l
 ##Secretion and Metabolism
 Thyroid hormones are:
 * Secreted in vesicles via endocytosis into the surrounding capillaries
+  * Colloid enters thyroid cell via pinocytosis at the apical membrane
+  * Vesicles then fuse with lysosomes
+  * Thyroid hormone cleaved from thyroglobulin by proteases
+  * Free T<sub>3</sub> and T<sub>4</sub> diffuse through the base of the thyroid cell into surrounding capillaries
 * Highly protein bound to albumin and thyroxine-binding globulin
   * T<sub>4</sub> has a t<sub>1/2</sub> of 7 days
   * T<sub>3</sub> has a t<sub>1/2</sub> of 24 hours

@@ -31,8 +31,8 @@ Create a channel through the membrane that allows electrolytes to flow down thei
      * Nicotinic ACh receptor
      * GABA<sub>A</sub> receptor
      * 5-HT<sub>3</sub> receptor
-    * Inotropic glutamate
-      Binds glutamate, a CNS excitatory neurotransmitter. Include:
+    * Inotropic glutamate receptors
+      Bind glutamate, a CNS excitatory neurotransmitter. Include:
      * NMDA receptor  
        High Ca<sup>2+</sup> permeability
     * Inotropic purinergic receptors  

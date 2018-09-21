@@ -6,7 +6,7 @@
 The foetal circulation has a number of structural differences:
 * Two **umbilical arteries**  
 The umbilical artery returns deoxygenated blood to the placenta.
-  * PaO<sub>2</sub> of 18mmhg (SpO<sub>2</sub> 45%)
+  * PO<sub>2</sub> of 18mmhg (SpO<sub>2</sub> 45%)
 * One **umbilical vein**  
 The umbilical vein supplies oxygenated blood to the foetus.
   * Has a PaO<sub>2</sub> of 28mmHg (SpO<sub>2</sub> 70%)

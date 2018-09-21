@@ -14,7 +14,7 @@ Diuretics are drugs that act on the kidney to increase urine production. They ca
 |--|--|
 |**Absorption**|Typically poor bioavailability (exception: **acetazolamide**)
 |**Distribution**|Variable protein binding
-|**Metabolism**|Not metabolised (exception: a small amount of **frusemide** is metabolised to glucuronide)
+|**Metabolism**|Generally not metabolised. Key exceptions: Spironolactone is extensively metabolised with active metabolites, and a small amount of **frusemide** is metabolised to glucuronide.
 |**Elimination**|Renal elimination of unchanged drug
 |**CVS**|Reduced intra and extravascular volume
 |**Renal**|Any diuretic which inhibits sodium reabsorption can precipitate hypokalaemia (as a greater intra-luminal concentration of sodium results in exchange of sodium for potassium ions), hyponatraemia (as there is still a net loss of sodium), and alkalosis (from loss of hydrogen ions exchanged for sodium, or the overall raised strong ion difference). 
@@ -36,6 +36,6 @@ Diuretics are drugs that act on the kidney to increase urine production. They ca
 ---
 
 ##References
-1. Peck and Hill
-2. Rand and Dale. Chapter 24 - the kidney.
-3. Auerbac
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+2. Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.
+3. Auerbach. Wilderness Medicine. Sixth Edition.

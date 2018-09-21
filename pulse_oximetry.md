@@ -66,7 +66,7 @@ The diodes are cycled at several hundred times per second which allows the detec
 * Absorption spectra confounded by:
   * Haemoglobinopathies
     * Carboxyhaemoglobin causes the pulse oximeter to read artifically high due to as it also aborbs 660nm light
-    * Methaemoglobinaaemia causes the SpO<sub>2</sub> to trend towards 85%, as though it absorbs 660nm light is also absorbs 940nm light to a greater degree
+    * Methaemoglobinaemia causes the SpO<sub>2</sub> to trend towards 85%, as though it absorbs 660nm light is also absorbs 940nm light to a greater degree
   * Dyes
     * Methylene blue will cause the SpO<sub>2</sub> to read < 65% for several minutes
     * Indocyanine green will also cause a decreased SpO<sub>2</sub>

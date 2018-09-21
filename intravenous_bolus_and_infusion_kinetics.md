@@ -111,7 +111,7 @@ Drugs with longer context-sensitive half-times will wear off less predictably.
 
 
 
-* Remifentanil has little redistribution and small a small Vd in the peripheral compartments, and so has a very short context-**in**sensitive half time  
+* Remifentanil has little redistribution and a small Vd, and so has a very short context-**in**sensitive half time  
 It wears off reliably and quickly following cessation of infusion.
 
 ####Context-Sensitive Decrement Time

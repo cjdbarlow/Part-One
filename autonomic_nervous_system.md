@@ -1,7 +1,7 @@
 # Autonomic Nervous System
 >Describe the autonomic nervous system, including anatomy, receptors, subtypes and transmitters (including their synthesis, release and fate)
 
-The ANS controls is the part of the nervous system which regulates involuntary and visceral functions. These include:
+The ANS is the section of the nervous system which regulates involuntary and visceral functions. These include:
 * Haemodynamics
 * Digestion
 * Urination and defecation
@@ -28,7 +28,7 @@ The hypothalamus controls autonomic functions by neural and endocrine mechanisms
 * **Lateral hypothalamus**  
   Contains the thirst centre and drive to seek food.
 * **Posterior hypothalamus**  
-  Controls vasomotor centres, modulating sympathetic vasoconstriction, as well as positive and negative inotropy and chronotropy. Also modulates wakefulness in response to sympathetic stimulii.
+  Controls vasomotor centres, modulating sympathetic vasoconstriction, as well as positive and negative inotropy and chronotropy. Also modulates wakefulness in response to sympathetic stimuli.
 
 Signals from the hypothalamus have a tonic output to:
 * All smooth muscle
@@ -43,9 +43,9 @@ In the grey matter of the spinal cord, efferent nerves synapse with two other ne
 
 FIGURE FROM PAGE 67 - POWER AND KAM
 
-**Efferent** nerves exit the spinal root anteriorly, and form the **ventral root ganglion**.
+**Efferent** nerves exit the spinal root anteriorly, and form the **ventral root**.
 
-Conversely, **afferent** nerves enter the root posteriorly, forming the **dorsal root ganglion** before synapsing in the spinal cord.
+Conversely, **afferent** nerves exit posteriorly, forming the **dorsal root** and then **dorsal root ganglion**, before synapsing in the spinal cord.
 
 ##Sympathetic Nervous System
 The sympathetic nervous system optimises the body for short-term survival.
@@ -123,7 +123,7 @@ The parasympathetic nervous system ganglia site close to the target organ. This 
 |--|--|--|
 |**CNS**|CN III via the Edinger-Westphal nucleus, CN VII|Pupillary constriction (CN III), lacrimation (CN VII)
 |**Lungs**|CN X|Bronchoconstriction, increased mucous production
-|**Heart**|CN X|↓↓↓ Chronotropy, ↓↓↓ dromotropy, ↓ inotropy, ↓ luisotropy (↓ in atrial inotropy and luisotropy is greater in the atria than the ventricles)
+|**Heart**|CN X|↓↓↓ Chronotropy, ↓↓↓ dromotropy, ↓ inotropy, ↓ luisotropy (↓ in inotropy and luisotropy is greater in the atria than the ventricles)
 |**GIT**|CN VII (submaxillary and mandibular salivary glands), CNIX (parotid gland), CNX (stomach to proximal two-thirds of the transverse colon), hypogastric plexus (distal one-third of the transverse colon to rectum)|Salivation, decreased sphincter tone, increased motility
 |**GU**|Hypogastric plexus|Detrusor contraction, erection
 

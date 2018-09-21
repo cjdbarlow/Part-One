@@ -18,7 +18,7 @@ As the megakaryocyte cell volume increases, the cell membrane invaginates and sm
 
 ##Contents
 * **α-granules**  
-  Contain fibrin, vWF, PDGF, and thrombin.
+  Contain fibronectin, fibrinogen, vWF, PDGF, and thrombospondin, platelet factor 4.
 * **δ-granules**  
     Contain 5-HT, ATP, ADP, and Ca<sup>2+</sup>.
 * **Contractile proteins**  

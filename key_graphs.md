@@ -139,7 +139,7 @@ Half-life progressively shortens, as the time taken to go from 50% to 25% is hal
 <img src="resources\isobologram.svg">
 
 
-* Plots lines of equal activity versus concentratin of two drugs
+* Plots lines of equal activity versus concentration of two drugs
 
 
 [**Plasma-Site Targeting:**](tiva-and-tci.md#tci)

@@ -16,7 +16,7 @@
 |**Metabolic**||↑ Appetite, weight gain. Hypoglycaemia in fasting.||Weight loss, reduced insulin requirements|
 |**Renal**||||Increased UTI and thrush risk|
 |**GIT**|Nausea, Diarrhoea|Cholestasis|||
-|**Toxic**|Severe lactic acidosis secondary to inhibition of oxidative glucose metabolism, especially in renal failure and alcoholics|Cross placenta, causing foetal hypoglycaemia.|||
+|**Toxic**|Severe lactic acidosis secondary to inhibition of oxidative glucose metabolism, especially in renal failure and alcoholics|Cross placenta, causing foetal hypoglycaemia.||May lead to **euglycaemic diabetic ketoacidosis** due to blunted insulin production in the face of stress hormones. Consider in patients with DKA symptoms (drowsiness, abdominal pain, nausea/vomiting), elevated ketones, and metabolic acidosis in the setting of a normal BSL.|
 
 ---
 ##References
@@ -24,3 +24,4 @@
 2. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
 3. [Dapaglifozin for Type 2 Diabetes](https://www.nps.org.au/australian-prescriber/articles/dapagliflozin). 2013. Aust Prescr 2013;36:174-9.
 4. Kilov G, Leow S, Thomas M. [SGLT2 inhibition with dapagliflozin: A novel approach for the management of type 2 diabetes](http://www.racgp.org.au/afp/2013/october/sglt2-inhibition-with-dapagliflozin/). American Family Physician. Volume 42, No.10, October 2013 Pages 706-710.
+5. ANZCA. [Severe Euglycaemic Ketoacidosis with SGLT2 Inhibitor Use in the Perioperative Period](http://www.anzca.edu.au/documents/alert-dka-and-oral-hypoglycaemics-20180215.pdf). 2018.

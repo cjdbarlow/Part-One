@@ -4,7 +4,7 @@
 ##Membrane Potential
 At rest, membranes are:
 * Permeable to potassium
-* Impermeable to other ions
+* Impermeable to other cations
 
 Generation of membrane potential:
 * Intracellular potassium concentration is much higher than extracellular potassium concentration  

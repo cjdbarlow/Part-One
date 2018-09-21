@@ -79,7 +79,7 @@ $$ PA_{O_2} = Pi_{O_2} - {PA_{CO_2} \over R}$$
 
 
 
-##Gas Laws
+##Gas Laws{#gas}
 * **Boyle's Law**  
 $$PV = K$$, i.e. pressure and volume are inversely related at constant temperature and pressure.
     * Boyles Law can be used to work out how many litres of gas are remaining in gas cylinder, e.g.:
@@ -88,8 +88,6 @@ $$PV = K$$, i.e. pressure and volume are inversely related at constant temperatu
         $$ \begin{align*} P_1 . V_1 &= P_2 . V_2 \\ 137 . 1.2  &= 164 \\ \end{align*}$$
         * Therefore, the cylinder contains ~164L of oxygen
         * This can be used to calculate the volume of gas remaining in the cylinder during use, using the volume of the cylinder (fixed) and the current pressure as measured at the regulator
-
-
 
 
 * **Charle's Law**  
@@ -120,7 +118,7 @@ $$ \dot{Q} = {\dot{V}_{O_2} \over Ca_{O_2} - C\bar{v}_{O_2}} $$
 
 * **Starling's Law of Fluid Exchange**  
 Flow of fluid across the capillaries is proportional to the hydrostatic pressure difference and the oncotic pressure difference (times the reflection coefficient), all times by the filtraiton coefficient, i.e.:  
-$$ Net \ flow \ out = K[(P_c - P_i) - \sigma (\pi_c - \pi_i))] $$
+$$ Net \ flow \ out = K[(P_c - P_i) - \sigma (\pi_c - \pi_i)] $$
 
 * **Venous Admixture**  
 Calculates the shunt fraction by identifying how much mixed venous blood must be added to ideal pulmonary capillary blood to produce the identified arterial oxygen content. 

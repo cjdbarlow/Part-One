@@ -76,7 +76,9 @@ The pH electrode consists of:
 ###Calibration, Limitations, and Accuracy
 * Calibration is performed with two phosphate buffer solutions containing two different (known) [H<sup>+</sup>]
 * Must be kept at 37°C  
-    Hypothermia decreases solubility of CO<sub>2</sub> and therefore decreases pH 
+    **Hypothermia increases solubility of CO<sub>2</sub>** and therefore *lowers* PaCO<sub>2</sub>  
+    A reduced partial pressure of CO<sub>2</sub> is required to keep the same number of molecules dissolved (as per [Henry's Law](laws.md#gas))
+    * Therefore, as blood cools its pH will increase
 * Electrodes must be kept clean from protein and not damaged
 
 ##Carbon Dioxide Tension{#sever}
