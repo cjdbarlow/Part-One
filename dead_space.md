@@ -90,7 +90,7 @@ $${V_D \over V_T} = {Pa_{CO_2} - P\bar{E}_{CO_2} \over Pa_{CO_2}}$$
 
 ##Physiological Consequences of Increased Dead Space
 In dead space:
-* The V/Q ratio approaches infinity as alveolar ventilation falls
+* The V/Q ratio approaches infinity as alveolar **perfusion** falls
 * This results in a rise in PaCO<sub>2</sub>
 * In a spontaneously-ventilating individual, this stimulates the respiratory centre to increase minute ventilation to return alveolar ventilation (and therefore CO<sub>2</sub>) to normal
 * There is minimal effect on PaO<sub>2</sub>, as in pure dead space all blood is passing through ventilated alveoli and therefore undergoes gas exchange

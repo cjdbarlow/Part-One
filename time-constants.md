@@ -3,7 +3,7 @@
 
 ##A Refresher on Time Constants
 The time-constant is:
-* The time that a process would be complete if its initial rate of change remained unchanged
+* The **time** that a **process would take to complete *if*** its **initial rate of change** remained constant
 * Relevant when modeling a process using exponential functions
     * Remember an **exponential function** is a curve where **the rate of change is proportional to the current value**
     
