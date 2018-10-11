@@ -35,7 +35,7 @@ Causes a reduction in:
     * Pulse pressure  
     Due to reduced stroke volume.
     * Gradient of upstroke  
-    Due to reduced stroke volume and reduced velocity of ejection.
+    Due to reduced stroke volume.
 * **Aortic Regurgitation**  
     * Wide pulse pressure  
     Combination of:
@@ -45,3 +45,4 @@ Causes a reduction in:
 ---
 ##References
 1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+2. Buteler, Benjamin S. [The relation of systolic upstroke time and pulse pressure in aortic stenosis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1017932/pdf/brheartj00358-0129.pdf). British Heart Journal. 1962.
