@@ -28,7 +28,7 @@ Hypoxic hypoxia, or **hypoxaemia**, is hypoxia due to low PaO<sub>2</sub> (and t
 
 Causes of hypoxaemia can be further classified based on their A-a gradient:
 * Causes of hypoxaemia with a **normal A-a gradient**:
-  * Low FiO<sub>2</sub>
+  * Low PiO<sub>2</sub>
   * Decreased alveolar ventilation
 * Causes of hypoxaemia with a **raised A-a gradient**:
   * Diffusion limitation

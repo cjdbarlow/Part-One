@@ -74,7 +74,7 @@ Consists of:
  * Beta carbon  
  The first carbon.
    * Adding a hydroxyl group decreases lipid solubility and CNS penetration
-   * Adding any group increases alpha and beta selectiviy
+   * Adding any group increases alpha and beta selectivity
  * Alpha carbon  
  The second carbon.
    * Adding a group prevents metabolism by MAO, prolonging duration of action

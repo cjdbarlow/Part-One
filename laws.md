@@ -29,7 +29,7 @@ Calculates the flow for a given pressure different of a particular fluid. May al
 
 
 * **Reynolds Number**  
-Reynolds Number is a dimensionless index used to predict the liklihood of turbulent flow. R < 2000 is likely to be laminar, R > 2000 is likely to be turbulent. Given by the equation:  
+Reynolds Number is a dimensionless index used to predict the likelihood of turbulent flow. R < 2000 is likely to be laminar, R > 2000 is likely to be turbulent. Given by the equation:  
     * $$ Reynolds \ Number = {2rvd \over n} $$, where:
         * v is the linear velocity of fluid in $$m/s$$
         * d is the fluid density in $$Pa S$$

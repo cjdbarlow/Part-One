@@ -55,7 +55,8 @@ Additionally:
   * The **small cardiac vein** runs with the RCA
   * The **oblique vein** follows the posterior part of the LA
 * Most of the remainder is via **anterior cardiac veins** which drain directly into the RA
-* A small proportion of blood from the left side of the heart is drained via the **thebesian veins** directly into the cardiac chambers
+* A small proportion of blood from the heart is drained via the **thebesian veins** directly into four the cardiac chambers  
+Most into the right atrium, and least into the left ventricle. The portion of blood draining into the left side of the circulation contributes to **physiological shunt**.
 
 ##Coronary Blood Flow{#flow}
 Coronary Blood Flow:
