@@ -22,7 +22,7 @@ Insulin binds to a specific insulin receptor (a membrane-spanning protein compos
 |**General**|||Increased cell growth|
 
 ###Glucose Tolerance
-Hyperglycaemia occurs in diabetes due to **decreased peripheral utilisation** as a glucose uptake is reduced due to absence of or resistance to insulin. In addition, the suppressive effect of insulin on hepatic gluconeogenesis is absent or reduced. 
+Hyperglycaemia occurs in diabetes due to **decreased peripheral utilisation** as glucose uptake is reduced due to absence of or resistance to insulin. In addition, the suppressive effect of insulin on hepatic gluconeogenesis is absent or reduced. 
 
 ##Glucagon
 Glucagon is a **polypeptide** hormone, and is:

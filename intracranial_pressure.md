@@ -64,7 +64,7 @@ Results in reduced blood flow due to **flow-metabolism coupling**. May be achiev
   * Improves ventilator dyssyncrhony, limiting coughing and bearing down, and subsequent rises in ICP
  * **Hypothermia**  
  Causes a reduction in cerebral metabolism and risk of seizures.
- * **Prevention of hypoxia or hypocapnoea**  
+ * **Prevention of hypoxia or hypercapnoea**  
   Hypoxia and hypercapnoea both cause vasodilatation, with a subsequent increase in cerebral blood volume, blood flow, and ICP.
    * Induced **hypocarbia**  
    Causes vasoconstriction and a subsequent reduction in cerebral blood flow and blood volume. This leads to:

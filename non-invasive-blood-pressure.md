@@ -25,7 +25,7 @@ When cuff pressure equals:
     Turbulent flow occurs past the cuff, creating pressure oscillations. The pressure at which these are **first detected** is the **SBP**.
     * MAP  
     The pressure at which **amplitude** of oscillations is maximal.
-* DBP is calculated from MAP and DBP
+* DBP is calculated from MAP and SBP
 
 ###Cons
 * Requires an appropriately sized cuff  
@@ -39,6 +39,7 @@ Cuff should be ~20% greater than arm diameter.
     * Heavily calcified vessels
     * When applied to forearm/foreleg
 * May cause neuropraxia
+
 
 ##Von Recklinghausen's Oscillotonometer
 Components:
