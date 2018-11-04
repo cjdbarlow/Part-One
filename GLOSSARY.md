@@ -229,6 +229,9 @@ Peak Expiratory Flow Rate
 ##PDGF
 Platelet-Derived Growth Factor
 
+##PPV
+Pulse Pressure Variation
+
 ##RAP
 Right Atrial Pressure
 
@@ -261,6 +264,9 @@ Systemic Vascular Resistance
 
 ##SVP
 Saturated Vapour Pressure
+
+##SVV
+Stroke Volume Variation
 
 ##TBW
 Total Body Water
