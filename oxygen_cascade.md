@@ -40,7 +40,7 @@ $$PO_2 = (P_B - P_{SVP \ of \ Water}) \times FiO_2$$, where:
 
 ##Alveolar Gas
 **Ideal alveolar PO<sub>2</sub>** is calculated using the **alveolar gas equation**:  
-$$P_AO_2 = P_iO_2 - {P_aCO_2 \over R}.F $$, where:
+$$P_AO_2 = P_iO_2 - {P_aCO_2 \over R} + F $$, where:
   * $$P_AO_2$$ is the alveolar partial pressure of oxygen
   * $$P_iO_2$$ is the inspired partial pressure of oxygen
   * $$P_aCO_2$$ is the arterial partial pressure of carbon dioxide

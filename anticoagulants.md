@@ -43,7 +43,9 @@ Adverse effects from protamine include:
     * Hypotension
 * Pulmonary hypertension  
 This can be profound and result in a dramatic increase in RV afterload and EDV, with a corresponding fall in LV preload (interventricular interdependence), leading to dramatic hypotension and arrest.
-    * Mediated by thromboxane
+    * Mediated by thromboxanes
+    * Due to **protamine-heparin complexes**, rather than protamine alone  
+    Administration of protamine in absence of heparin does not lead to pulmonary hypertension.
 * Anticoagulation  
 When given in excess.
 
