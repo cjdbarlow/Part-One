@@ -980,6 +980,22 @@ This is given by the dotted blue line.
 * The coagulation cascade is covered in detail under [clotting](clotting.md#sec)
 
 
+
+[**Thromboelastography:**](coagulpathy_testing.md#teg)
+
+<img src="resources\teg.svg">
+
+
+*  TEG/ROTEM can be used to guide coagulopathy treatment as:
+	* Prolonged R time  
+	Indicates decreased clotting factor concentration; **give FFP**.
+	* Decreased α-angle/prolonged K time  
+	Decreased rapidity of fibrinogen cross-linking; **give fibrinogen**.
+	* Decreased MA (may be associated with prolonged K time)  
+	Decreased maximal clot strength; **give platelets** or **DDAVP**.
+	* Decreased CL 30/CL 60  
+	Fibronlysis; **give antifibrinolytic**.
+
 ##Other
 [**Heat Loss Under Anaesthesia:**](regulation_of_body_temperature.md#anaes)  
 
