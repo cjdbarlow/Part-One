@@ -47,7 +47,7 @@ With plugins from:
 * Equations written in [<span class="texhtml" style="font-family: 'CMU Serif', cmr10, LMRoman10-Regular, 'Nimbus Roman No9 L', 'Times New Roman', Times, serif;">L<span style="text-transform: uppercase; font-size: 70%; margin-left: -0.36em; vertical-align: 0.3em; line-height: 0; margin-right: -0.15em;">a</span>T<span style="text-transform: uppercase; margin-left: -0.1667em; vertical-align: -0.5ex; line-height: 0; margin-right: -0.125em;">e</span>X](https://www.latex-project.org/about/)
 * Graphs have been:
     * Written in [PGF/Tikz](https://ctan.org/pkg/pgf) using [texworks](https://www.tug.org/texworks/)
-    * Converted to vector graphics with [dvisvgm](http://dvisvgm.bplaced.net/)
+    * Converted to vector graphics with [dvisvgm](https://dvisvgm.de/)
     * Refined with [svgo](https://github.com/svg/svgo)
     * (Some graphs have been taken from open-source sites such as [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page). These have been credited where used.)
     
