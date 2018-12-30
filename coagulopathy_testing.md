@@ -101,11 +101,8 @@ Modified version of TEG:
 |Rapid compared with traditional testing|Still measures coagulation in artificial conditions|
 |Uses whole blood, providing a more complete picture of plasma-RBC-platelet interaction|Does not measure contribution of endothelium and therefore conditions affecting platelet adhesion (e.g. von Willebrand's disease)|
 |Real-time display of clot evolution|Harder to institute QA outside of laboratory|
-
 |Reduces non-evidence-based transfusion|Measurement methodology is not yet standardised between institutions|
-
 |Predictive of post-operative *hyper*coagulable states|Baseline measurement does not predict post-operative bleeding|
-
 |Very sensitive to heparin effect|Does not measure effect of hypothermia|
 ||Requires training and competency of non-lab staff|
 ||More expensive than traditional testing|
@@ -120,6 +117,9 @@ Note that reference ranges are not included here, and will vary depending on the
 e.g. Citrated vs. recalcified samples.
 
 
+<img src="resources\teg.svg">
+
+
 |Parameter (TEG)|Parameter (ROTEM)|Definition|Relevance|
 |--|--|
 |**R** (reaction) **time**|**CT** (clotting time)|Time until 2mm amplitude|Time until initial fibrin formation, **dependent on plasma concentration of clotting factors**|
@@ -127,9 +127,6 @@ e.g. Citrated vs. recalcified samples.
 |**α angle**|**α angle**|Angle between the tangent to the tracing at 2mm and the midline|Rapidity of fibrin formation and cross-linking. Alternate measure of clot kinetics, **dependent on fibrinogen**|
 |**MA** (maximum amplitude)|**MCF** (maximum clot thickness)|Greatest amplitude|Indicates point of maximal clot strength, **dependent *predominantly* on platelets (80%)** and **fibrinogen (20%)**, binding via **GPIIb/IIIa**. Treatment with **platelets** or **DDAVP**.|
 |**CL 30** (clot lysis 30)|**LY 30**|Percent decrease in amplitude 30 minutes after MA|Clot stabilit, dependent on **fibrinolysis**. Reduced CL 30 can be treated with an **antifibrinolytic**, such as TXA|
-
-
-<img src="resources\teg.svg">
 
 
 ---
