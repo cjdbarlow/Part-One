@@ -18,7 +18,7 @@ Cardiac output measurement can be performed:
     * MRI
     * Thoracic impedance
 
-##Thermodilution
+##Thermodilution{#therm}
 Thermodilution remains the gold standard of cardiac output measurement.
 
 This technique:
@@ -32,7 +32,7 @@ Various different designs exist. For CO measurement, they require:
     * A distal (PA) port is required for measuring PAP and the PCWP, but is not required for CO calculation
  
 
-###Method for Intermittent Cardiac Output Measurement by Thermodilution
+###Method for Intermittent Cardiac Output Measurement by Thermodilution{#stew}
 * A known volume of (typically dextrose) at a known temperature (classically cooled, but this is not required) is injected into the proximal port
 * The temperature of blood is measured at the tip  
 This produces a temperature-time curve.

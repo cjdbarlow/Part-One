@@ -141,6 +141,9 @@ Intracellular Fluid
 ##ICP
 Intracranial Pressure
 
+##IJV
+Internal Jugular Vein
+
 ##IVC
 Inferior Vena Cava
 
@@ -152,6 +155,9 @@ K-type (κ) opioid receptor
 
 ##LAD
 Left Anterior Descending
+
+##LBM
+Lean Body Mass
 
 ##LCx
 Left Circumflex
@@ -253,11 +259,17 @@ Right Ventricular End-Diastolic Volume
 ##SBP
 Systolic Blood Pressure
 
+##SCV
+Subclavian Vein
+
 ##STP
 Standard Temperature and Pressure (0°C at 100kPa)
 
 ##SV
 Stroke Volume
+
+##SVC
+Superior Vena Cava
 
 ##SVR
 Systemic Vascular Resistance

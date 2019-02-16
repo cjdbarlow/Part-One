@@ -219,6 +219,7 @@
   * [Wheatstone Bridge](wheatstone-bridge.md)
   * [Neuromuscular Monitoring](neuromuscular-monitoring.md)
   * [Pressure Transduction](pressure_transduction.md)
+  * [Pressure Waveform Analysis](pulsecontour.md)
   * [Non-Invasive Blood Pressure](non-invasive-blood-pressure.md)
   * [Cardiac Output Measurement](cardiac-output.md)
   * [Pulse Oximetry](pulse_oximetry.md)
