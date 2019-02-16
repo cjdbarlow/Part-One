@@ -69,13 +69,17 @@ $$ \theta $$ = Angle between the sound wave and the object
 
 Reflected frequencies are **higher towards the probe** and **lower away**.
 
-Calculation of Cardiac Output:
+###Calculation of Cardiac Output{#co}
+Remember, $$CO = HR \times SV$$.
 * Heart rate is measured
 * Stroke volume is calculated by:
-    * Measuring the cross-sectional area of a vessel  
+    * Measuring the **cross-sectional area** of the **left ventricular outflow tract** 
     Obtained by measuring the diameter using ultrasound.
-    * Measuring the stroke distance  
-    Obtained via integrating the flow-time waveform for distance across the left ventricular outflow tract (LVOT VTI)
+    * Measuring the **stroke distance**  
+    Obtained via integrating the velocity-time waveform for time across the left ventricular outflow tract (LVOT VTI).
+        * The integral of flow (m.s<sup>-1</sup> and time (s)) for time (s), produces a distance (m)
+    * Mutiplying the LVOT cross-sectional area (m<sup>2</sup>) by the stroke distance (m), produces a volume (m<sup>3</sup>)  
+    This is the stroke volume.
 
 ---
 ##References
