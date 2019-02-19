@@ -12,7 +12,7 @@ All tocolytics are discussed in more detail elsewhere - this covers just the mec
 
 |Drug|β<sub>2</sub>-agonists|Ca<sup>2+</sup>-channel antagonists|COX Inhibitors|
 |--|--|
-|**Example**|Salbutamol|Nifedipine|Indomethacin
+|**Example**|Salbutamol, Terbutaline|Nifedipine|Indomethacin
 |**Mechanism of Action**|Activate GPCR, ↑ cAMP, which activiates protein kinase A and leads to inhibition of myosin light chain kinase and relaxation|Block L-type Ca<sup>2+</sup> channels, causing relaxation|Inhibit prostaglandin synthesis, which are vital for uterine contraction
 
 ---

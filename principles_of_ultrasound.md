@@ -73,7 +73,7 @@ Reflected frequencies are **higher towards the probe** and **lower away**.
 Remember, $$CO = HR \times SV$$.
 * Heart rate is measured
 * Stroke volume is calculated by:
-    * Measuring the **cross-sectional area** of the **left ventricular outflow tract** 
+    * Measuring the **cross-sectional area** of the **left ventricular outflow tract**  
     Obtained by measuring the diameter using ultrasound.
     * Measuring the **stroke distance**  
     Obtained via integrating the velocity-time waveform for time across the left ventricular outflow tract (LVOT VTI).
