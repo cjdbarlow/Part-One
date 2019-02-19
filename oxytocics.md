@@ -2,24 +2,25 @@
 
 Oxytocics are agents which increase the force of uterine contraction.
 
-|Property|Oxytocin|Ergometrine|PGF<sub>2α</sub>
+|Property|Oxytocin|Ergometrine|PGF<sub>2α</sub> (Dinoprost)|Carboprost
 |--|--|
 |**Class**|Endogenous (typically synthetic version used) posterior pituitary hormone|Ergot alkaloid|Prostaglandin
-|**Uses**|Augmentation of labour, increase uterine tone (PPH)|PPH|PPH
-|**Presentation**|Clear liquid at 5-10 U.ml<sup>-1</sup>|||
-|**Route of Administration**|IV|IV, IM|Intramyometrial injection, IM
-|**Dosing**|1.5-12mU.min<sup>-1</sup>|250μg IM (IV in emergency via slow push)||
-|**Metabolism**|Oxytocinases in liver and kidney|||
-|**Mechanism of Action**|Oxytocin GPCR in the uterus, increase Ca<sup>2+</sup> influx. Structurally similar to ADH.|Acts on α and 5HT<sub>2</sub> receptors on uterine and vascular smooth muscle||
-|**Resp**||Bronchospasm (may be severe)|Bronchospasm (severe if IV so this route is contraindicated)
-|**CVS**|↑ HR, ↓ BP following boluses |↑ SVR, ↑ BP (may cause, ↓ HR) coronary vasoconstriction| ↑ BP
-|**CNS**|Headache, nausea, comiting|Headache, nausea|Nausea, vomiting
-|**Renal**|↓ UO due to ADH-like effects with prolonged infusions|||
-|**GU**|↑ Uterine tone (↑ frequency at low dose, tetanic contraction at high dose), foetal distress, lactation|↑ Uterine contraction frequency and tone||
-|**Other**|May be metabolised by oxytocinases in blood products if coadministered on the same line|Contraindicated in pre-eclampsia due to HTN||
+|**Uses**|Augmentation of labour, increase uterine tone (PPH)|PPH|Severe PPH|Severe PPH|
+|**Presentation**|Clear liquid at 5-10 U.ml<sup>-1</sup>|||Clear liquid at 250μg.ml<sup>-1</sup>, up to 8 doses (2mg)|
+|**Route of Administration**|IV|IV, IM|Intramyometrial injection, IM|Intramyometrial, IM|
+|**Dosing**|1.5-12mU.min<sup>-1</sup>|250μg IM (IV in emergency via slow push)||500μg IM|
+|**Metabolism**|Oxytocinases in liver and kidney||||
+|**Mechanism of Action**|Oxytocin GPCR in the uterus, increase Ca<sup>2+</sup> influx. Structurally similar to ADH.|Acts on α and 5HT<sub>2</sub> receptors on uterine and vascular smooth muscle|||
+|**Resp**||Bronchospasm (may be severe)|Bronchospasm (severe if IV so this route is contraindicated)|Bronchospasm, APO due to ↑  PVR with subsequent hypoxia|
+|**CVS**|↑ HR, ↓ BP following boluses |↑ SVR, ↑ BP (may cause, ↓ HR) coronary vasoconstriction|↑ SVR, ↑ BP |↑ SVR, ↑ BP (usually transient)|
+|**CNS**|Headache, nausea, vomiting|Headache, nausea|Nausea, vomiting|Headache|
+|**Renal**|↓ UO due to ADH-like effects with prolonged infusions||||
+|**GU**|↑ Uterine tone (↑ frequency at low dose, tetanic contraction at high dose), foetal distress, lactation|↑ Uterine contraction frequency and tone|↑ Uterine contraction frequency and tone|↑ Uterine contraction frequency and tone, contraindicated in pelvic inflammatory disease|
+|**Other**|May be metabolised by oxytocinases in blood products if coadministered on the same line|Contraindicated in pre-eclampsia due to HTN|Deprecated by carboprost, increased body temperature|
 
 ---
 ##References
 1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
 2. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
 3. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+4. Royal Women's Hospita. [Postpartum Haemorrhage - Carboprost](https://thewomens.r.worldssl.net/images/uploads/downloadable-records/clinical-guidelines/postpartum-haemorrhage-carboprost_270217.pdf). 2017.
