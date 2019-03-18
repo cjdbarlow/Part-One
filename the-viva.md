@@ -1,7 +1,7 @@
 # The Viva
 
 The viva is the part of the exam most candidates seem most stressed about. However:
-* If you make it to the written, you will most likely pass  
+* If you make it through the written, you will most likely pass  
 Very few people succeed in the written exams to fail at the viva.
     * The knowledge is there
     * Examiners want you to pass  
