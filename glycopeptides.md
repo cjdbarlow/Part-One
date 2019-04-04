@@ -13,7 +13,7 @@ Non-β-lactam agents that inhibit cell wall synthesis. They are:
 |**Route of Administration**|PO, IV, Intrathecal| 
 |**Dosing**|Peak levels determined by dose, trough levels by dose and interval
 |**Absorption**|No oral bioavailability. Poor CSF penetration|
-|**Distribution**|V<sub>D</sub> 4L.kg<sup>-1</sup>. Poor CSF penetration even with inflammed meninges - higher levels are required for CNS penetration. ~50% protein bound.
+|**Distribution**|V<sub>D</sub> 0.4-1 L.kg<sup>-1</sup>. Poor CSF penetration even with inflammed meninges - higher levels are required for CNS penetration. ~50% protein bound.
 |**Metabolism**|Minimal hepatic metabolism|
 |**Elimination**|90% secreted unchanged in urine - significantly prolonged in renal impairment|
 |**CVS**|Phlebitis, red man syndrome (profound non-anaphylactic histamine release with rapid injection)
@@ -27,3 +27,4 @@ Non-β-lactam agents that inhibit cell wall synthesis. They are:
 ##References
 1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
 2. [Wellington ICU Drug Manual](http://drug.wellingtonicu.com/)
+3. Rybak MJ. [The pharmacokinetic and pharmacodynamic properties of vancomycin](https://academic.oup.com/cid/article/42/Supplement_1/S35/275535). Clin Infect Dis. 2006 Jan 1;42 Suppl 1:S35-9.
