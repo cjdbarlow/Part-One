@@ -188,9 +188,11 @@ Factors affecting myocardial performance, independent of preload and afterload.
 * **Critical Length**  
 The length of axon which must be blocked in order to prevent action potential transmission. It is dependent on myelination and fibre diameter.
 
+
 * **Critical Point**  
 The point on a phase diagram where the liquid and gas phases of a substance have the same density, and are therefore indistinguishable.  
 	* This point is where a substance is at both its critical temperature and critical pressure
+
 
 * **Critical Pressure**  
 Pressure required to liquify a vapour at its critical temperature.
@@ -463,7 +465,7 @@ Neural process of encoding a noxious stimulus.
 
 ##O
 * **Odds Ratio**  
-Estimate of risk, where the OR is the ratio of odds of an outcome in those treated vs. those not treated. OR = 1 suggests no effect, <1 suggests reduced risk >1 suggests increased risk.
+Estimate of risk, where the OR is the ratio of odds of an outcome in those treated vs. those not treated. OR = 1 suggests no effect, ≤1 suggests reduced risk >1 suggests increased risk.
 
 * **Ohm**  
 Resistance which will allow one ampere of current to flow per volt of potential difference.
@@ -548,6 +550,7 @@ Dimensionless index which predicts the likelihood of turbulent flow.
 * **Saturated Vapour**  
 Vapour which is in equilibrium with its own liquid state, i.e. there are as many molecules entering the vapour phase as there there are those condensing into the liquid phase.
 	* A saturated vapour contains the least amount of energy possible without condensing
+
 
 * **Saturated Vapour Pressure**  
 Pressure exerted by a vapour which is in equilibrium with its liquid state. Increases with temperature, since as the kinetic energy (heat) content of molecules increase, more of them enter the vapour phase.

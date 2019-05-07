@@ -75,6 +75,9 @@ Distal Convoluted Tubule
 ##DBP
 Diastolic Blood Pressure
 
+##DIC
+Disseminated Intravascular Coagulopathy
+
 ##DRG
 Dorsal Respiratory Group
 
