@@ -28,7 +28,7 @@ A follicle is formed of a single layer of cuboidal epithelium around a central l
   * Iodine is excreted into the follicular cavity using a chloride exchange pump
   * In the follicular cavity:
     * **Thyroid peroxidase** catalyses the iodination of thyroglobulin, forming mono-iodotyrosine and di-iodotyrosine
-    * These are subsequently **oxidised**, forming T<sub>4</sub> and T<sub>3</sub> respectively
+    * These are subsequently **oxidised**, forming T<sub>3</sub> and T<sub>4</sub> respectively
 
 ###In summary:
 * Iodide is taken into the thyroid follicles by secondary active transport, and oxidised to iodine
