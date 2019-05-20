@@ -54,19 +54,21 @@
 ##Comparison of Beta Blockers
 |Property|Esmolol|Metoprolol|Atenolol|Propranolol|Labetalol|
 |--|--|
-|**Class**|Cardioselective|Cardioselective|Cardioselective|β non-selective|β & α non-selective|
+|**Class**|Cardioselective|Cardioselective|Cardioselective|β non-selective|Nonselective β & selective α<sub>1</sub> <br> Ratio of β:α antagonism is 3:1 after PO and 7:1 after IV administration|
 |**Uses**|Short-term treatment of tachyarrythmia and HTN|MI, HTN, migraine, thyrotoxicosis|HTN, angina, tachyarrhythmias, acute MI|HTN, Angina, dysrrythmia, essential tremor, anxiety HOCM, phaeochromocytoma, migraine, oesophageal varicies|HTN, MI|
 |**Presentation**|Clear, colourless solution|Clear, colourless solution, 50mg Tablet.|25/50/100mg tablets, syrup, colourless solution.|Tablets and solution at 1mg.ml<sup>-1</sup>|Tablets and solution at 5mg.ml<sup>-1</sup>
 |**Route of Administration**|IV|PO/IV|PO/IV|PO/IV|PO/IV|
 |**Dosing**|50-200μg.kg<sup>-1</sup>.min<sup>-1</sup>|IV: 1mg boluses PO: 12.5-100mg BD|PO: 50-100mg daily IV: 2.5mg IV up to 10mg|PO: 10-100mg BD/TDS IV: 1mg boluses titrated to response|PO: 100-800mg BD<br> IV: 10-20mg IV bolus, followed by 20-80mg Q30min up to 300mg. Alternatively by infusion at 1-2mg.min<sup>-1</sup>|
 |**Absorption**|IV only|50% bioavailability, improves with regular use|45% PO bioavailability|30% bioavailability|Highly variable bioavailability: 10-80%|
 |**Distribution**|60% protein bound|20% protein bound. Lipid soluble|5% protein bound|95% protein bound|50% protein bound|
-|**Metabolism**|RBC esterases to an inactive metabolite and methyl alcohol. t<sub>1/2</sub> of 10 minutes|Hepatic with genetic variability in t<sub>1/2</sub> of active metabolites|Minimal metabolism - dose reduce in renal failure|Hepatic to active and inactive metabolites|Hepatic to inactive metabolites|
+|**Metabolism**|RBC esterases to an inactive metabolite and methyl alcohol. t<sub>1/2</sub> of 10 minutes|Hepatic with genetic variability in t<sub>1/2</sub> of active metabolites|Minimal metabolism - dose reduce in renal failure|Hepatic to active and inactive metabolites|Considerabe hepatic first pass metabolism with inactive metabolites|
 |**Elimination**|||Renal elimination of active drug|Renal elimination of metabolites|Renal elimination of inactive metabolites|
-|**CVS**|Venous irritant||||↓ SVR, ↓ HR, ↓ CO, ↓ BP (typically ~20%)|
+|**CVS**|Venous irritant||||↓ SVR, ↓ BP. Does not tend to ↓ HR or ↓ CO when given acutely.|
+|**CNS**|||||Orthostatic dizziness|
 
 ---
 ##References
 1. Leslie RA, Johnson EK, Goodwin APL. Dr Podcast Scripts for the Primary FRCA. Cambridge University Press. 2011.
 2. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
 3. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+4. MacCarthy EP, Bloomfield SS. [Labetalol: a review of its pharmacology, pharmacokinetics, clinical uses and adverse effects.](https://www.ncbi.nlm.nih.gov/pubmed/6310529) Pharmacotherapy. 1983. Jul-Aug;3(4):193-219.
