@@ -234,6 +234,7 @@
   * [Bispectral Index](bispectral-index.md)
   * [Medical Gas Supply](medical-gas-supply.md)
   * [Vaporisers](vaporisers.md)
+  * [Breathing Systems](circuits.md)
   * [Circle System](circle-system.md)
   * [Scavenging](scavenging.md)
   * [Diathermy](diathermy.md)
