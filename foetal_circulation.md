@@ -7,6 +7,7 @@ The foetal circulation has a number of structural differences:
 * Two **umbilical arteries**  
 The umbilical artery returns deoxygenated blood to the placenta.
   * PO<sub>2</sub> of 18mmhg (SpO<sub>2</sub> 45%)
+  * Over 50% of the combined output of both foetal ventricles enters the placenta
 * One **umbilical vein**  
 The umbilical vein supplies oxygenated blood to the foetus.
   * Has a PaO<sub>2</sub> of 28mmHg (SpO<sub>2</sub> 70%)
@@ -46,13 +47,20 @@ There is a transition from circulation in parallel to circulation in series.
 * An **FRC is established**  
 Reversal of hypoxic pulmonary vasoconstriction results in a rapid drop in PVR.
 * The cord is clamped  
-The systemic vascular bed volume falls, and SVR increases.
+The systemic vascular bed volume falls, and SVR increases due to the loss of the low-resistance placental circulation.
 
 * The fall in PVR lowers RV afterload  
-RAP falls
+RAP falls due to the loss of hypoxic pulmonary vasoconstriction.
 * The rise in SVR increases LV afterload  
-LAP rises
-* When LAP exceeds RAP, the foramen ovale closes
+LAP rises as the LV moves up the Starling curve.
+* When LAP exceeds RAP, the foramen ovale closes  
+A degree (~10%) of residual shunt remains. Shunt is:
+  * Bidirectional  
+    * Left-to-right shunt is unconcerning
+    * Right-to-left shunt has usually only minor effects on systemic SpO<sub>2</sub>  
+    Will be increased with ↑ PaCO<sub>2</sub>, excessive PEEP, ↓ pH.
+      * Beware **embolic material**  
+      Don't forget the bubbles.
 
 * Increased left sided afterload causes **flow reversal** in the ductus arteriosus  
 There is progressive closure of the ductus over hours to days, under the influence of prostaglandins and oxygenated blood flowing through the duct.
