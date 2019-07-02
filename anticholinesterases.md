@@ -26,7 +26,7 @@ Acetylcholinesterases can be:
 |**Duration**|50 minutes|Until new AChE is synthesised
 |**Resp**|Bronchospasm, ↑ secretion|Bronchospasm, ↑ secretion
 |**CVS**|↓ HR (may be profound), ↓ CO|↓ HR, ↓ CO
-|**CNS**| N/V and analgesic when administered intrathecally|Central cholinergic syndrome
+|**CNS**| N/V and analgesic when administered intrathecally, cerebral vasoconstriction|Central cholinergic syndrome
 |**MSK**| Reversal of NMB, ↑ fasciculations, ↑ sweating, may cause paralysis|Paralysis
 |**GIT**|↑ Peristalsis, ↑ LoS tone, N/V|↑ Peristalsis, ↑ LoS tone, N/V
 |**Other**|Muscarinic receptors affected at low dose, nicotinic receptors at high dose|May be reversed in initial stages (before organophosphate-AChE complex has 'aged') with pralidoxime
@@ -37,3 +37,4 @@ Acetylcholinesterases can be:
 1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
 2. ANZCA 2007 Feb/April
 3. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+4. Mahmoud, Ahmed Abdelaal Ahmed, Amr Zaki Mansour, Hany Mahmoud Yassin, Hazem Abdelwahab Hussein, Ahmed Moustafa Kamal, Mohamed Elayashy, Mohamed Farid Elemady, et al. ‘Addition of Neostigmine and Atropine to Conventional Management of Postdural Puncture Headache: A Randomized Controlled Trial’ 127, no. 6 (2018): 6.
