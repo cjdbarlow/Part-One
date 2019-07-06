@@ -34,10 +34,10 @@ N-methyl D-aspartate receptor is an ionotropic receptor that is:
     * Central pore usually blocked by an Mg<sup>2+</sup> ion
     * Becomes unblocked when partially depolarised
 * Important in the action of drugs which do not act at the GABA<sub>A</sub> receptor   
-Agonised by:
+Antagonised by:
     * Ketamine
     * Xenon
-    * N<sub>2</sub>
+    * N<sub>2</sub>O
 ---
 
 ##References
