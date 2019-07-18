@@ -62,7 +62,7 @@ Characterises the arterial tree as having three major features:
 		* Cuff inflates and deflates throughout the cardiac cycle, keeping the volume of the arteries constant  
 		Arterial pressure is proportional to cuff pressure.
 		* **Inaccurate** in:
-			* Periopehral oedema  
+			* Peripheral oedema  
 			* Vasoconstricted states
 
 
@@ -73,9 +73,9 @@ Characterises the arterial tree as having three major features:
 	* 3-element Windkessel
 	* Mechanism:
 		* Calculates area under systolic part of the arterial curve
-		* Divides calcualted area by aortic compliance  
+		* Divides calculated area by aortic compliance  
 		Compliance estimated by proprietary algorithm each time the device is calibrated.
-	* SVR is continuosly estimated from calculated CO and measured BP
+	* SVR is continuously estimated from calculated CO and measured BP
 * LiDCO
 	* Calibrated
 	* Invasive

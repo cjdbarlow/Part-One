@@ -1,6 +1,6 @@
 # Lincosamides
 
-Inhibit protein synthesis by disrupting the 50S ribosomal subunit. May be bacterostatic or bacteriocidal, depending on the concentration and the particular organism.
+Inhibit protein synthesis by disrupting the 50S ribosomal subunit. May be bacteriostatic or bacteriocidal, depending on the concentration and the particular organism.
 
 |Property|Clindamycin
 |--|--|

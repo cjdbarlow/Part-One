@@ -48,7 +48,7 @@ Hydrogen ions are consumed or released by the following reaction:
 * In clinical conditions, the reaction becomes:  
 $$ H_2O + CO_2 \Leftrightarrow H_2CO_3 \Leftrightarrow H CO_3^- + H^+ $$
   * Addition of a strong acid drives the above reaction to the left, forming (briefly) H<sub>2</sub>CO<sub>3</sub> before it dissociates to CO<sub>2</sub> and H<sub>2</sub>O
-    * CO<sub>2</sub> is then able to be exhaled, which prevents equilbration and allows the system to buffer more acid
+    * CO<sub>2</sub> is then able to be exhaled, which prevents equilibration and allows the system to buffer more acid
 
 
 

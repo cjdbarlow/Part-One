@@ -2,7 +2,7 @@
 > Describe the anatomy relevant to the performance of a ~~naso, or endo, tracheal intubation, a cricothyroidotomy or~~ tracheostomy
 
 ##Trachea
-The trachea is fibrocatilagenous tube which:
+The trachea is fibrocartilagenous tube which:
 * Extends from the larynx superiorly to the Plane of Louis inferiorly
 * Terminates by division into the right and left mainstem bronchi
 * Runs at 15 degrees parallel to the surface of the neck, such that the distal trachea is deeper than the proximal trachea
@@ -27,7 +27,7 @@ The trachea is fibrocatilagenous tube which:
 
 ##Surface Anatomy
 Midline neck structures are relevant surface anatomy:
-* Layngeal structures  
+* Laryngeal structures  
 Including: Hyoid, thyroid cartilage, cricothyroid membrane, cricoid cartilage.
 * Sternal notch
 * Thyroid lobes  

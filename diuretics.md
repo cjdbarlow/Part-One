@@ -31,7 +31,7 @@ Diuretics are drugs that act on the kidney to increase urine production. They ca
 |**CNS**|||||↓ ICP|↓ IOP, ↓ ICP|
 |**Renal**| Reduced renal blood flow and GFR|Increased renal blood flow and GFR|||Increased renal blood flow|Urinary alkalinisation and diuresis. In the tubule, prevents conversion of HCO<sub>3</sub><sup>-</sup> and H<sup>+</sup> to CO<sub>2</sub>, causing HCO<sub>3</sub><sup>-</sup> elimination. In the tubular epithelium, prevents conversion of CO<sub>2</sub> to HCO<sub>3</sub><sup>-</sup> and H<sup>+</sup>, which supplies hydrogen ions usually secreted into the proximal tubule in exchange for Na<sup>+</sup>. This causes both a retention of acid and loss of Na<sup>+</sup> and H<sub>2</sub>O.|
 |**Metabolic**|Hypokalaemic, hypochloraemic alkalosis. Hyperglycaemia. |Hypochloraemia, hyponatraemia, hypokalaemia, hypomagnesaemia. Occasional **hyper**uricaemia precipitating gout.|Hyperkalaemia.|Hyperkalaemia, hyponatraemia.||Hyperchloraemic acidosis|
-|**Miscellaneous**|Blood dyscrasias|Deafness, typically following large doses. More common in kidney impairment and with aminoglycoside use.||Gynaecomastia and menstrual irregularity due to anti-androgenism from aldosterone antagonism|||| 
+|**Miscellaneous**|Blood dyscrasias|Deafness, typically following large doses. More common in kidney impairment and with aminoglycoside use.||Gynaecomastia and menstrual irregularity due to anti-androgynism from aldosterone antagonism|||| 
 
 ---
 

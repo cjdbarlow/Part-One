@@ -263,7 +263,7 @@ Here is a straightforward method which minimises the confusion:
 * Minute ventilation doubles as PaO<sub>2</sub> decreases from 100mmHg to 60mmHg
 * Inflection point is ~50-60mmHg  
 Below this there is a large increase in ventilation.
-* Hypercapnoea leads to a greater minute ventilation for any given PaO<sub>2</sub>
+* Hypercapnea leads to a greater minute ventilation for any given PaO<sub>2</sub>
 
 
 
@@ -550,7 +550,7 @@ However the FEV<sub>1</sub>:FVC ratio will be normal in purely restrictive lung 
 * Graph of the alveolar over inspired agent fraction versus time for various volatile agents
 * Indicates the relative speed of onset of different agents
 * Uptake of agent is proportional to solubility in blood, and therefore is in order of their blood:gas coefficients
-	* The exception is nitrous oxide, which has a faster rate of rise than desflurane despite its greater blood:gas coefficent due to the concentration effect
+	* The exception is nitrous oxide, which has a faster rate of rise than desflurane despite its greater blood:gas coefficient due to the concentration effect
 
 
 [**F<sub>A</sub>/F<sub>A0</sub>:**](inhalational-anaesthetic-agents.md#wash)
@@ -639,7 +639,7 @@ Note that the RR interval is inversely proportional to heart rate.
 
 <img src="resources\venous-return-rvr.svg">
 
-* Altering resistance to venous return (e.g. during pregnancy, or laparascopic surgery) will alter venous return without changing mean systemic filling pressure
+* Altering resistance to venous return (e.g. during pregnancy, or laparoscopic surgery) will alter venous return without changing mean systemic filling pressure
 
 
 [**Circulatory Function Curve:**](venous-return.md#sup)
@@ -650,7 +650,7 @@ Note that the RR interval is inversely proportional to heart rate.
 
 * Plotting the venous return curve and the Starling curve on the same axes generates this graph
 	* This is only valid at steady state, i.e. when CO = VR
-* Note that as steady-state exists when CO=VR, the interecept of these two curves is the operating point of the circulation
+* Note that as steady-state exists when CO=VR, the intercept of these two curves is the operating point of the circulation
 
 [**Wiggers Diagram:**](cardiac_cycle.md#wig)
 
@@ -909,7 +909,7 @@ Note that overall volume is *not* correct, as this is unchanged - if overall vol
 
 
 * Cerebral metabolic rate falls by ~6% per °C decrease in temperature
-* This results in a concominant reduction in CBF  
+* This results in a concomitant reduction in CBF  
 This is an *almost* linear response.
 
 
@@ -929,7 +929,7 @@ This is an *almost* linear response.
 <img src="resources\pkas-bases.svg">
 
 
-* **B**ases are ionised **b**elow their pka
+* **B**ases are ionised **b**elow their pKa
 
 
 [**Glomerular Filtration and Mean Arterial Pressure:**](functional_anatomy_and_control_of_blood_flow.md#auto)  
@@ -958,9 +958,9 @@ During this period, estimates of GFR using serum creatinine will be less accurat
 <img src="resources\glucoseflux.svg">
 
 
-* As glucose is frely filtered at the glomerulus, filtered plasma glucose will be directly proportional to serum glucose  
+* As glucose is freely filtered at the glomerulus, filtered plasma glucose will be directly proportional to serum glucose  
 This relationship is given by the dotted black line.
-* Under normal cirumstances, all filtered glucose will be reabsorbed  
+* Under normal circumstances, all filtered glucose will be reabsorbed  
 This relationship is given by the overlap of the red and dotted black lines.
 * When glucose filtration exceeds glucose reabsorption, glucose will begin to be excreted in urine.  
 This is given by the dotted blue line.
@@ -994,7 +994,7 @@ This is given by the dotted blue line.
 	* Decreased MA (may be associated with prolonged K time)  
 	Decreased maximal clot strength; **give platelets** or **DDAVP**.
 	* Decreased CL 30/CL 60  
-	Fibronlysis; **give antifibrinolytic**.
+	Fibrinolysis; **give antifibrinolytic**.
 
 ##Other
 [**Heat Loss Under Anaesthesia:**](regulation_of_body_temperature.md#anaes)  
@@ -1034,9 +1034,9 @@ This is given by the dotted blue line.
 
 * Following a step-change:
 	* An optimally-damped waveform will return to baseline with one overshoot and one undershoot
-	* An underdamped waveform returns to baseline rapidly but overshoots and undershoots several times
+	* An under-damped waveform returns to baseline rapidly but overshoots and undershoots several times
 	* A critically damped waveform returns to baseline as fast as possible without overshooting
-	* An overdamped waveform returns to baseline slower than a critically damped waveform, and does not overshoot
+	* An over-damped waveform returns to baseline slower than a critically damped waveform, and does not overshoot
 
 
 [**Wheatstone Bridge:**](wheatstone-bridge.md)  
@@ -1097,5 +1097,5 @@ This is given by the dotted blue line.
 
 ##References
 
-1. Wigger's Diagram (with some modifictions) from [Wigger's Diagram](https://commons.wikimedia.org/wiki/File:Wiggers_Diagram.svg). 21/3/2012. (Image). By DanielChangMD (revised original work of DestinyQx); Redrawn as SVG by xavax. [CC BY 3.0 ](http://creativecommons.org/licenses/by/3.0), via Wikimedia Commons.
+1. Wigger's Diagram (with some modifications) from [Wigger's Diagram](https://commons.wikimedia.org/wiki/File:Wiggers_Diagram.svg). 21/3/2012. (Image). By DanielChangMD (revised original work of DestinyQx); Redrawn as SVG by xavax. [CC BY 3.0 ](http://creativecommons.org/licenses/by/3.0), via Wikimedia Commons.
 2. [Clotting Cascade](https://en.wikipedia.org/wiki/File:Coagulation_full.svg) 22/4/2007. (Image). By Joe D (Own work). [CC BY 3.0 ](http://creativecommons.org/licenses/by/3.0), via Wikimedia Commons.

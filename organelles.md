@@ -1,7 +1,7 @@
 #Organelles
 > Describe the cell membrane and cellular organelles and their properties
 
-Organelles are specialised fucntional subunits within a cell, typically contained within their own lipid bilayer.
+Organelles are specialised functional subunits within a cell, typically contained within their own lipid bilayer.
 
 Key organelles include:
 * Mitochondria
@@ -12,7 +12,7 @@ Key organelles include:
 Mitochondria:
 * Produce ATP via aerobic metabolism  
 Only method of aerobic metabolism in the body.
-    * Mitrochondria exist in greater numbers in more metabolically active cells
+    * Mitochondria exist in greater numbers in more metabolically active cells
 * Consist of two membranes (outer and inner), which create three spaces, 
     * Cytoplasm  
     Outside the outer membrane.

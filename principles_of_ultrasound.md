@@ -8,7 +8,7 @@ The conversion of electrical energy to kinetic energy is how the ultrasound prob
 This is how the probe interprets reflected waves.
 
 
-##Basic principles
+##Basic Principles
 * **Spatial resolution**  
 How close two separate objects can be to each other and still be distinguishable. It is divided into:
     * **Axial resolution**, how far apart two objects can be when one is above the other (in the direction of the beam)
@@ -78,7 +78,7 @@ Remember, $$CO = HR \times SV$$.
     * Measuring the **stroke distance**  
     Obtained via integrating the velocity-time waveform for time across the left ventricular outflow tract (LVOT VTI).
         * The integral of flow (m.s<sup>-1</sup> and time (s)) for time (s), produces a distance (m)
-    * Mutiplying the LVOT cross-sectional area (m<sup>2</sup>) by the stroke distance (m), produces a volume (m<sup>3</sup>)  
+    * Multiplying the LVOT cross-sectional area (m<sup>2</sup>) by the stroke distance (m), produces a volume (m<sup>3</sup>)  
     This is the stroke volume.
 
 ---

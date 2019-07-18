@@ -55,7 +55,7 @@ A fall in alveolar ventilation ($$ \dot{V_A} = Respiratory \ Rate \times (V_T - 
 * NMJ dysfunction:
     * Paralysis
     * MG
-* Musular dysfunction:
+* Muscular dysfunction:
     * Myopathy
     * Fatigue
     * Malnutrition
@@ -89,6 +89,7 @@ Shunt physiology is explored in more detail under [shunt](shunt.md).
   Therefore VO<sub>2</sub> can increase until it reaches 70% of the DO<sub>2</sub>, a point called critical DO<sub>2</sub>.
 * However, it may worsen hypoxia in the presence of a supply-side (DO<sub>2</sub>) pathology
 
+
 ###Anaemic Hypoxia
 * Impaired oxygen delivery due to low Hb
 * Typically asymptomatic at rest but limits exercise tolerance
@@ -105,9 +106,9 @@ Shunt physiology is explored in more detail under [shunt](shunt.md).
 * Ischaemic hypoxia is due to impaired cardiac output resulting in impaired oxygen delivery
 
 ###Histotoxic Hypoxia
-* Histotoxic hypoxia is due to impaired tissue oxidative processes, preventing utilisatioin of delivered oxygen
+* Histotoxic hypoxia is due to impaired tissue oxidative processes, preventing utilisation of delivered oxygen
 * Most common cause of histotoxic hypoxia is cyanide poisoning, which inhibits cytochrome oxidase and prevents oxidative phosphorylation
-* Managed by using methylene blue or nitrites, which form methhaemoglobin, in turn reacting with cyanide to form the non-toxic cyanmethaemoglobin
+* Managed by using methylene blue or nitrites, which form methaemoglobin, in turn reacting with cyanide to form the non-toxic cyanmethaemoglobin
 
 ##Effects of Hypoxia
 * With a normal PaCO<sub>2</sub>, PaO<sub>2</sub> must fall to 50mmHg before an increase in ventilation occurs

@@ -8,7 +8,7 @@ The liver is important in storage and release of:
 The adult liver stores ~100g of glycogen.
 * Fat as triglycerides
 * All fat-soluble vitamins (A, D, E, K)
-* Many water soluble vitamins incuding folic acid and B<sub>12</sub>
+* Many water soluble vitamins including folic acid and B<sub>12</sub>
 * Iron
 * Copper
 
@@ -33,7 +33,7 @@ Metabolic functions include:
 Gradient is maintained by converting glucose to glucose-6-phosphate which is used to produce glycogen. This maintains the gradient for diffusion.
 * Glycogen is either synthesised (glycogenesis) or broken down (glycogenolysis) depending on plasma glucose and insulin:
   * Increased blood glucose stimulates insulin release, increasing the formation of glycogen through activation of glycogen synthetase
-  * Decreased blood glucose stimulates glycogenolysis and gluconogenesis from amion acids.
+  * Decreased blood glucose stimulates glycogenolysis and gluconeogenesis from amino acids.
 
 ###Lipids
 * Fat can be:

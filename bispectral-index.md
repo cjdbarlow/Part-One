@@ -27,7 +27,7 @@ Analytic techniques:
 * **Compressed Spectral Array**
  * The signal over a short period (e.g. 5-10 seconds) of EEG recordings are analysed together  
  Each period is known as an epoch.
- * A fourier transformation is performed  
+ * A Fourier transformation is performed  
  This breaks the EEG signal down into the sine waves used to produce it.  
  * A histogram of each frequency is plotted
  * As anaesthesia deepens, lower frequencies begin to dominate
@@ -43,7 +43,7 @@ Trauma, GA caesarian section, cardiac surgery.
 * Use appears to result in reduced anaesthetic use and more rapid emergence
 
 ##Cons
-* Proprietary algorithim
+* Proprietary algorithm
 * Expensive
 * May be inaccurate with:
  * Hypothermia

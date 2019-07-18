@@ -60,7 +60,7 @@ $$ Positive \ Predictive \  Value = {Disease \ Positives \over All \ Test \ Posi
 
 
 * **Negative Predictive Value** (NPV) is the probability that the **disease is absent** when the **test is negative**:  
-$$ Negative \ Predictive \ Value = {Disease \ Negatives \over All \ Test \ Negatives} = {Disease \ Nevatives \over Disease \ Negatives \ + \ False \ Negatives} $$
+$$ Negative \ Predictive \ Value = {Disease \ Negatives \over All \ Test \ Negatives} = {Disease \ Negatives \over Disease \ Negatives \ + \ False \ Negatives} $$
 
 ###Remembering the Difference
 * Rote learning these formulas is hard
@@ -79,7 +79,7 @@ Therefore:
 * The actual utility of a test in decision making is dependent upon the **prior probability** of the disease being present
 * Likelihood Ratios relate the **pre-test odds** to the **post-test odds**  
 They are useful because (unlike the above values) they do not assume that the patient you are applying them to is identical to the sample from which the statistic was derived.
-* The likelihood ratio multipled by the pre-test odds gives the post-test odds of the disease being present
+* The likelihood ratio multiplied by the pre-test odds gives the post-test odds of the disease being present
   * A **positive likelihood ratio** is used when the test is positive:  
   $$ LR(+) = {sensitivity \over 1 \ - \ specificity}$$
   * A **negative likelihood ratio** is used when the test is negative:  

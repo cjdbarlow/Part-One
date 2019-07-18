@@ -7,7 +7,7 @@ Increases muscle strength.
 * Muscarinic receptor  
 Increases parasympathetic tone.
 
-Acetylcholinesterases can be:
+Anticholinesterases can be:
 * Reversible
 * Form a carbamylated enzyme complex
 * Irreversible

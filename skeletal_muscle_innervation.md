@@ -58,7 +58,7 @@ Golgi tendon organs are stretch receptors located between muscle and tendon. The
 ##Reflexes
 A reflex is an involuntary, predictable movement in response to a stimulus. There are two types:
 * **Monosynaptic**: Motor neuron synapses directly with the sensory neuron  
-Monosynaptic reflexes are rapid, but only generate simple responoses. There are five components to a monosynaptic reflex:  
+Monosynaptic reflexes are rapid, but only generate simple responses. There are five components to a monosynaptic reflex:  
   * Sensory receptor  
   Typically muscle spindles.
   * Afferent neuron  

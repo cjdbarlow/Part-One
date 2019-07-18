@@ -17,7 +17,7 @@ The triangular borders are formed:
 From medial to lateral:
 * Median nerve
 * Brachial artery
-* Biceps tendon and anoneurosis
+* Biceps tendon and aponeurosis
 * Radial and posterior interosseous nerves
 * Veins
     * Basilic vein

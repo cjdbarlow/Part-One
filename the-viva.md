@@ -12,7 +12,7 @@ Very few people succeed in the written exams to fail at the viva.
 ##Understanding the Viva
 To do well at the viva:
 * Understand **the viva is a performance piece**  
-The viva is a ritualised converation. Success requires you to know and understand the language and structure used, just like the SAQ.
+The viva is a ritualised conversation. Success requires you to know and understand the language and structure used, just like the SAQ.
 * **Structure your answer**  
 As with the SAQ, categorise your answer.
     * Have a good opening statement  
@@ -27,7 +27,7 @@ The viva assesses knowledge in a different way to the SAQs.
     * This is also important for delivering a sound answer based on incomplete knowledge
 * It's okay to say "I don't know"  
 But probably not on the first question.
-    * If you don't know immmediately, can you work it out from first principles?  
+    * If you don't know immediately, can you work it out from first principles?  
 * Don't get angry  
     * With yourself
     * With the examiner  

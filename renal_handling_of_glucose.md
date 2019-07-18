@@ -84,7 +84,7 @@ Reuptake occurs in several stages:
 
 
 * Smaller proteins and peptides (e.g. insulin, angiotensin II) are completely filtered
-  * Catabolisation occurs in the tubular lumen by membrane-surface peptidases
+  * Catabolism occurs in the tubular lumen by membrane-surface peptidases
   * Amino acids are reabsorbed by standard amino-acid transporters
 
 ###Urea
@@ -94,7 +94,7 @@ Urea excretion is complex, as it has an important role in the counter current mu
 * Freely filtered
 * ~50% of filtered load is reabsorbed in the PCT by solvent drag (with water reabsorption)  
 Urea concentration is slightly increased as more water is reabsorbed than urea.
-* The urea reabsorbed in the PCT is then secreted into the Loop of Henle via UT uniporters  
+* The urea reabsorbed in the PCT is then secreted into the Loop of Henle via UT uniporters 
   * Luminal concentration of urea is much higher in the ascending limb due to the absorption of water
 * ~50% is reabsorbed (again) in the medullary collecting ducts  
 Here, urine becomes so concentrated that luminal concentration of urea exceeds medullary concentration.

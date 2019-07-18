@@ -8,7 +8,7 @@
 * Formed from:
   * Water
   * Protein
-  * Bilirbuin
+  * Bilirubin
   * Bile salts  
   The sodium and potassium salts of bile acids. Bile acids:
     * Are are produced from cholesterol

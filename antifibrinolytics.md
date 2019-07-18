@@ -1,6 +1,6 @@
 # Antifibrinolytics
 
-Antifibrinolytics include aprotonin, aminocaproic acid, and **transexamic acid**. All prevent the breakdown of fibrin (!) by various mechanisms. TXA competitively inhibits plasminogen activator, reducing rate of fibrinolysis.
+Antifibrinolytics include aprotinin, aminocaproic acid, and **tranexamic acid**. All prevent the breakdown of fibrin (!) by various mechanisms. TXA competitively inhibits plasminogen activator, reducing rate of fibrinolysis.
 
 |Property|Tranexamic Acid (TXA)|
 |--|--|

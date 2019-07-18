@@ -87,11 +87,11 @@ The response to a painful stimulus requires a cascade of processes:
     * Descending inhibitory input reduces nociceptive transmission  
     Basis of "gate control" theory. Descending input increased with:
       * Touch  
-      Aβ 'touch' fibres stimulate inhibitory interneurones in the dorsal horn, 'closing the gate' by increasing **descending inhibition** and prevent signals from peripheral C fibres from rising to the thalamus.
+      Aβ 'touch' fibres stimulate inhibitory interneurons in the dorsal horn, 'closing the gate' by increasing **descending inhibition** and prevent signals from peripheral C fibres from rising to the thalamus.
       * Arousal
       * Opioid receptors  
       Particularly MOP (pre- and post-synaptically).
-        * **Opioids** act presynaptically to reduce Substance P and glutamine release.
+        * **Opioids** act pre-synaptically to reduce Substance P and glutamine release.
       * α<sub>2</sub> receptors  
       **Clonidine**, **tricyclic antidepressants**, **noradrenaline-reuptake inhibitors**, and endogenous catecholamines.
       * **Gabapentin and pregabalin** inhibit presynaptic neurotransmitter release
@@ -103,7 +103,7 @@ The response to a painful stimulus requires a cascade of processes:
         * **Ketamine** reduces windup and central sensitisation
       * Lead to secondary hyperalgesia
       * Lead to allodynia  
-      Via additional synpases to sensory neurones in lamina III and IV.
+      Via additional synapses to sensory neurones in lamina III and IV.
   * Interneuron synapses with a **second-order neurones** fibre  
   These secondary afferents:
     * Cross within 1-2 vertebral segments and ascends in the spinothalamic tract
@@ -171,7 +171,7 @@ Nervous System Changes:
   Reach ceiling effects more rapidly.
   * Degeneration of myelin  
   Subsequent cognitive dysfunction due to neuronal circuit dysfunction.
-  * Generalised atropy
+  * Generalised atrophy
   * Decreased neurotransmitter production
 
 

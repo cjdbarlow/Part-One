@@ -21,13 +21,13 @@ Multimodal mechanism of action, including:
 |**Route of Administration**| IV only| IV, topical, sublingual| PO, IV
 |**Dosing**|0.5-6µg.kg<sup>-1</sup>.min<sup>-1</sup>|10-200µg.min<sup>-1</sup>|5-20mg IV|
 |**Absorption**||<5% PO bioavailability|30% bioavailability due to high first pass metabolism
-|**Metabolism**|Prodrug. Reacts with Oxy-Hb in RBC to form 1x NO, 5x CN<sup>-</sup>, and MetHb. MetHb reacts with CN to form cyanomethaemoglobin. CN is metabolised in the liver and kidney to form SCN, the majority of which is excreted in urine (though may be re-converted to CN). <br><br> CN may also combine with hydroxycobalamin (vitamin B<sub>12</sub>) to form cyanocobalamin, which is eliminated in urine.|Prodrug. Metabolised to NO and glycerol dinitrate (which is then also converted to NO) in the liver.|N-acetylated in gut and liver
+|**Metabolism**|Prodrug. Reacts with Oxy-Hb in RBC to form 1x NO, 5x CN<sup>-</sup>, and MetHb. MetHb reacts with CN to form cyanomethaemoglobin. CN is metabolised in the liver and kidney to form SCN, the majority of which is excreted in urine (though may be re-converted to CN). <br><br> CN may also combine with hydroxocobalamin (vitamin B<sub>12</sub>) to form cyanocobalamin, which is eliminated in urine.|Prodrug. Metabolised to NO and glycerol dinitrate (which is then also converted to NO) in the liver.|N-acetylated in gut and liver
 |**Elimination**|Renal elimination of SCN and cyanocobalamin. Impaired in renal failure which may worsen CN toxicity. t<sub>1/2</sub> for SCN is 2-7 days|t<sub>1/2</sub> 1-4mins. Urinary excretion|Dependent on acetylation rates
 |**Resp**|Inhibit hypoxic pulmonary vasoconstriction leading to ↑ shunt|Bronchodilation||
 |**CVS**|↓ SVR > venodilation. ↓ SBP and ↓ preload, ↑ HR maintains CO, ↓ MVO<sub>2</sub>|Vasodilation predominantly of capacitance vessels, ↓ preload, ↓ VR, ↓ EDP, ↓ wall tension improving subendocardial blood flow, ↓MVO<sub>2</sub>|Arteriolar vasodilation with compensatory tachycardia and increased CO
 |**CNS**|↑ CBF following cerebral vasodilatation|↑ CBF following cerebral vasodilatation, which may cause headache|Increased CBF
-|**Haematological**|Methaemoglobinaemia|Methanoglobinaemia||
-|**Toxic Effects**|**Three** mechanisms: hypotension, thiocynate toxicity, CN toxicity. |Methaemoglobinaemia can occur with GTN <br><br> GTN patches may **explode** if left on during DC cardioversion. |||
+|**Haematological**|Methaemoglobinemia|Methanoglobinaemia||
+|**Toxic Effects**|**Three** mechanisms: hypotension, thiocyanate toxicity, CN toxicity. |Methaemoglobinaemia can occur with GTN <br><br> GTN patches may **explode** if left on during DC cardioversion. |||
 
 #Nitrate Toxicity
 Nitrate toxicity can be related to:

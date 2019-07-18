@@ -1,5 +1,5 @@
 # Cerebral Blood Flow
-> Describe the distribution of blood volume and flow in the various regional circulations and explain the factors that influence them, including autoregulation. These include, but not limited to, the cerebral and spinal cord~~, hepatic and splachnic, coronary, renal and utero-placental~~ circulations
+> Describe the distribution of blood volume and flow in the various regional circulations and explain the factors that influence them, including autoregulation. These include, but not limited to, the cerebral and spinal cord~~, hepatic and splanchnic, coronary, renal and utero-placental~~ circulations
 
 With respect to cerebral blood flow:
 * Normal is ~**750ml.min<sup>-1</sup>** or ~15% of resting cardiac output  
@@ -49,7 +49,7 @@ Vessel calibre is affected primarily by four factors:
 * Temperature
 
 ###Cerebral Metabolism{#temp}
-**Cerebral metabolism** (typically given by the cerebral metabolic requirement for oxgygen, CMRO<sub>2</sub>) has a linear association with cerebral blood flow - this is known as **flow-metabolism coupling**. This is controlled locally through the release of vasoactive mediators, such as H<sup>+</sup>, adenosine, and NO. Determinants of cerebral metabolism include:
+**Cerebral metabolism** (typically given by the cerebral metabolic requirement for oxygen, CMRO<sub>2</sub>) has a linear association with cerebral blood flow - this is known as **flow-metabolism coupling**. This is controlled locally through the release of vasoactive mediators, such as H<sup>+</sup>, adenosine, and NO. Determinants of cerebral metabolism include:
 * **Drugs**  
   Cerebral metabolism may be decreased by use of drugs such as benzodiazepines, barbiturates, and propofol.
 * **Temperature**  
@@ -65,7 +65,7 @@ Vessel calibre is affected primarily by four factors:
   * Below 20mmHg, the circulation is maximally constricted  
   Additionally, the alkalosis causes a left-shift of the oxyhaemoglobin curve. This reduces offloading of oxygen, causing hypoxia and subsequent vasodilation.
   <br>
-  * There is a right-shift in chronic hypercapnoea  
+  * There is a right-shift in chronic hypercapnea  
   The mechanism of action is complex, but involves local increase in H<sup>+</sup> ions.
   * Changes to CBF with CO<sub>2</sub> are dependent on current arteriolar tone - vasodilatory effects of CO<sub>2</sub> are significantly reduced when the perfusing pressure is low.
 

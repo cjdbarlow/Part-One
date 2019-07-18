@@ -33,7 +33,7 @@ This is **reversible with flumazenil**.
 |**GIT**|Gastritis. Fatty liver, progressing to hepatitis, necrosis, fibrosis and cirrhosis
 |**GU**|Tocolytic effect
 |**Haeme**|Inhibition of platelet aggregation
-|**Metabolic**|High energy content comparble with fat (29kJ.g<sup>-1</sup>)
+|**Metabolic**|High energy content comparable with fat (29kJ.g<sup>-1</sup>)
 |**Other**|Synergistic with other CNS depressants. Metabolic interactions with warfarin, phenobarbitone, and steroids
 
 ##Methanol

@@ -39,11 +39,11 @@ The pituitary gland secretes **eight hormones** from **two lobes**:
 Secretes **six** hormones in response to hypothalamic endocrine stimulus. These are classified as:
     * **Stimulating** hormones, which act at another gland:
         * **ACTH**  
-        Short-chain peptide that stimulates cortisol release from the zona fasciculata. Release is stimulated by CRH, and inhibi  ted by cortisol.
+        Short-chain peptide that stimulates cortisol release from the zona fasciculata. Release is stimulated by CRH, and inhibited by cortisol.
         * **TSH**  
         Glycoprotein that stimulates synthesis and release of T<sub>3</sub> and T<sub>4</sub>. Release is stimulated by TRH, and inhibited by T<sub>3</sub>.
         * **FSH**  
-        Glycoprotein gonadotropin. Release is stimulated by GnRH, and inhibted by circulating sex steroids. Has different effects depending on sex:
+        Glycoprotein gonadotropin. Release is stimulated by GnRH, and inhibited by circulating sex steroids. Has different effects depending on sex:
             * Females: Stimulates oestrogen synthesis and ovarian follicle development.
             * Males: Stimulates sperm maturation.
         * **LH**  
@@ -72,7 +72,7 @@ Secretes **two** hormones:
             * V<sub>2</sub> receptors in kidney collecting ducts to increase water reabsorption, and on endothelium to increase vWF and factor VIII release
             * V<sub>3</sub> receptors in the pituitary to stimulate ACTH release
     * **Oxytocin**  
-    Short-chain peptide, structually similar to ADH, which causes:
+    Short-chain peptide, structurally similar to ADH, which causes:
         * Uterine contraction
         * Let-down reflex  
         Stimulates milk release on suckling.

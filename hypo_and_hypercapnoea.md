@@ -1,9 +1,9 @@
-# Hypo and Hypercapnoea
+# Hypo and Hypercapnea
 > Explain the physiological effects of ~~hyperoxia, hypoxaemia~~, hypercapnia, hypocapnia~~, and carbon monoxide poisoning~~
 
 Carbon dioxide is lipid soluble and can rapidly cross membranes, allowing it affect acid-base status in any compartment.
 
-##Hypercapnoea
+##Hypercapnea
 * **Respiratory Effects**  
   * Increased respiratory drive via chemoreceptor stimulation
 
@@ -13,7 +13,7 @@ Carbon dioxide is lipid soluble and can rapidly cross membranes, allowing it aff
   * Pulmonary vasoconstriction
   * Myocardial depression  
   Intracellular acidosis.
-  * Arrythmogenic
+  * Arrhythmogenic
 
 
 * **CNS effects**
@@ -23,7 +23,7 @@ Carbon dioxide is lipid soluble and can rapidly cross membranes, allowing it aff
   * CNS depression  
   When PaCO<sub>2</sub> > 100mmHg
 
-##Hypocapnoea
+##Hypocapnea
 * **Respiratory Effects**
   * Left-shift of oxyhaemoglobin dissociation curve
   * Respiratory depression

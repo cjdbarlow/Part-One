@@ -31,7 +31,7 @@ Regulation of any system is typically a balance between **input** and **output**
 * Therefore, sodium concentration is a function of:
 	* Sodium elimination
 	* Sodium reabsorption
-	* **Water homestasis**  
+	* **Water homeostasis**  
 	Control of total body water is a major mechanism to regulate sodium concentration.
 
 

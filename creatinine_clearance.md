@@ -12,7 +12,7 @@ $$Cl = { U_C.U_Q \over P_C}$$, where:
 ##Clearance and GFR
 As the elimination of most substances is dependent on glomerular filtration, clearance of a substance can be used to estimate GFR. Methods include:
 * **Inulin**  
-Inulin is a naturally occcurring polysaccharide.
+Inulin is a naturally occurring polysaccharide.
     * Inulin clearance accurately measures GFR as it is:
         * Freely filtered by the glomerulus
         * Not secreted at the tubules
@@ -58,7 +58,7 @@ A common method is the **Cockcroft-Gault formula**, which has a correlation of ~
 $$Cl = {(140-A) \times W  \times S \over 72  \times Cr}$$, where:
     * $$Cl$$ = Clearance
     * $$A$$ = Age
-    * $$S$$ = Sex coefficent (Male = 1, Female = 0.85)
+    * $$S$$ = Sex coefficient (Male = 1, Female = 0.85)
     * $$Cr$$ = Creatinine in µmol.L<sup>-1</sup>
 
 Alternative formulas are **MDRD** and **CKD-EPI**. These equations have two advantages of Cockcroft-Gault:

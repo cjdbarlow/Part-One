@@ -76,7 +76,7 @@ High frequency (50-200Hz) supramaximal stimulus for 5 seconds.
 Used in deep blockade when there is no response to ToF. A tetanic stimulus is given, followed 3s later by single twitches at 1Hz.
     * No response may be seen in very deep blockade
     * However, twitches may be seen prior to the return of a ToF response.  
-    This is called **post-tetanic facilitation**, and occurs due to the tetanic stimulus mobilising ACh vesicles into the prejunctional area.
+    This is called **post-tetanic facilitation**, and occurs due to the tetanic stimulus mobilising ACh vesicles into the pre-junctional area.
         * Typically, a ToF of 1 will occur when the PTC ≈ 9
     * Should not be repeated faster than every 6 minutes  
     Due to residual post-tetanic potentiation.

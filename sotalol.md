@@ -1,6 +1,6 @@
 # Sotalol
 
-The D-isomer of sotalol is a **class III antiarrhythmic**, whilst the L-isomer also has **class  II activity**.
+The D-isomer of sotalol is a **class III antiarrhythmic**, whilst the L-isomer also has **class II activity**.
 
 |Property|Action|
 |--|--|

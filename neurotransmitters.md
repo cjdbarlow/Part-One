@@ -6,7 +6,7 @@
 
 Gamma aminobutyric acid is the major inhibitory CNS neurotransmitter. GABA receptors have three subtypes:
 * GABA<sub>A</sub>  
-Ionotropic receptor important for the action of many drugs.
+Inotropic receptor important for the action of many drugs.
     * Pentameric structure
         * 2 α  
         Bind GABA.
@@ -22,12 +22,12 @@ Ionotropic receptor important for the action of many drugs.
 * GABA<sub>B</sub>  
 Metabotropic receptor.
 * GABA<sub>C</sub>  
-Ionotropic receptor located only in the retina.
+Inotropic receptor located only in the retina.
 
 
 ##NMDA
 
-N-methyl D-aspartate receptor is an ionotropic receptor that is:
+N-methyl D-aspartate receptor is an inotropic receptor that is:
 * Agonised by glutamate
     * Glycine is co-agonist
 * Voltage dependent  
@@ -38,6 +38,7 @@ Antagonised by:
     * Ketamine
     * Xenon
     * N<sub>2</sub>O
+
 ---
 
 ##References

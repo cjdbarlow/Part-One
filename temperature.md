@@ -14,15 +14,16 @@ Temperature is measured by a number of methods:
 ###Liquid Expansion Thermometry
 This is used in mercury thermometers. These consist of:
 * A graduated **evacuated capillary** of negligible volume, attached to
-* A mercury resevoir, of much greater volume, separated by
+* A mercury reservoir, of much greater volume, separated by
 * A constriction ring  
 Prevents travel of mercury up the capillary by gravity.
 
 Mechanism:
 * When heated, the kinetic energy of the mercury increases and it expands, forcing it up the capillary  
-As the thermal expansion coefficient for all liquids is very small, the capillary must be of a very small volume to create a useable device.
+As the thermal expansion coefficient for all liquids is very small, the capillary must be of a very small volume to create a usable device.
 * The speed that this occurs is related to the **time-constant** of the system  
 This is typically 30 seconds. Measurement therefore takes ~4 time-constants, or 2 minutes.
+
 
 ####Pros
 * Easy to use
@@ -45,7 +46,7 @@ May cause release of mercury or alcohol.
 ##Electrical
 Electrical methods include:
 * **Resistance thermometer**  
-Platinum wire increases electrical resistance with increasing temperatur.
+Platinum wire increases electrical resistance with increasing temperature.
     * Therefore the voltage drop across the wire will correspond to the temperature of the wire
     * Change in resistance is linear across the temperature range
     * However, these are expensive.
@@ -53,7 +54,7 @@ Platinum wire increases electrical resistance with increasing temperatur.
 Metal (e.g. SiO<sub>2</sub>) semiconductor which changes its resistance in a **predictably non-linear fashion** (run-away exponent) with temperature.
     * Can be manufactured so that change is linear over the clinical range
     * Much cheaper than wire resistance methods
-    * The degree of voltage drop is usually very small, however this can be amplified using a **wheatstone bridge**
+    * The degree of voltage drop is usually very small, however this can be amplified using a **Wheatstone bridge**
 * **Thermocouple**  
 At the junction of two dissimilar metals, a potential difference will be produced proportional to their temperature. This is known as the Seebeck effect.
     * Non-linear (wash in exponent)
@@ -75,7 +76,7 @@ This system measures both temperature and relative humidity.
     * The wet thermometer is cooled due to evaporative cooling from the wick  
     High energy water molecules become vapour, leaving only low energy molecules behind.
     * The **temperature difference** between the thermometers is a function of:
-        * Latent heat of vaporisation of water
+        * Latent heat of vapourisation of water
         * How much evaporative cooling is occurring  
         This is function of humidity.
             * At 100% relative humidity, no evaporative cooling will take place and the temperatures will be equal

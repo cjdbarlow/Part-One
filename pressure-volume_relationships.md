@@ -18,12 +18,12 @@
 	* D-A is ventricular ejection  
 	When ventricular pressure exceeds aortic pressure, blood is ejected into the aorta and ventricular volume decreases.
 * The slope of the line B-C gives the elastance of the ventricle  
-This is also known as the **End-Diastolic Pressure Volume Relationship (EDPVR)**, and is often (erronously) referred to as ventricular compliance.
+This is also known as the **End-Diastolic Pressure Volume Relationship (EDPVR)**, and is often (erroneously) referred to as ventricular compliance.
 	* **Elastance** of the ventricle **increases as it is filled**  
 	This is demonstrated by the dashed line.  
 		* The ventricle only overfills at high filling pressures
 	* Increased elastance (such as in **diastolic dysfunction**) is demonstrated by an **increased slope** of this line, such that ventricular pressure will be higher at any given volume  
-	Both ventricular and arterial elastances are low in normal circumstances (a state known as ventricular-arterial coupling), as this allows the ventricle to achieve a wide range of volume transfers in ejection with minimal change in filling pressure.
+	Both ventricular and arterial elastance are low in normal circumstances (a state known as ventricular-arterial coupling), as this allows the ventricle to achieve a wide range of volume transfers in ejection with minimal change in filling pressure.
 * The horizontal distance between point B (ESV) and C (EDV) give the stroke volume  
 **Ejection fraction** can then be calculated.
 * **Preload** is given by the EDV
@@ -55,7 +55,7 @@ In reality:
 
 <img src="resources\lv-pv-loop-preload.svg">
 
-* EDV is increasd, by definition
+* EDV is increased, by definition
 * The slope of the ESPVR remains unchanged (as contractility is unchanged)
 * The slope of the afterload line ($$E_{ea}$$) is unchanged (as afterload is unchanged), but it is right-shifted due to the increased end-diastolic volume
 * ESV is increased, though less than EDV, such that stroke volume increases
@@ -99,7 +99,7 @@ These show the loop for the primary physiological change, *without compensatory 
 * Preload is increased due to the higher ESV, as the ventricle starts filling from a higher point
 * Outflow tract impedance increases ventricular wall stress and therefore afterload  
 This leads to the decrease in stroke volume.
-* Contactility is unchanged
+* Contractility is unchanged
 
 **Left Ventricular P-V Loop - Aortic Regurgitation:**
 
@@ -117,7 +117,7 @@ This leads to the decrease in stroke volume.
 <img src="resources\lv-pv-loop-ms.svg">
 
 
-* Preload is reduced due to the increased gradient aross the mitral valve  
+* Preload is reduced due to the increased gradient across the mitral valve  
 The effect of this is heart rate dependent, and will worsen as heart rate increases.
 * Afterload is unchanged  
 Afterload may fall due to the reduction in ventricular wall stress.

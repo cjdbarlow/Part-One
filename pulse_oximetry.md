@@ -32,7 +32,7 @@ A pulse oximeter consists of:
 
 * Non-pulsatile elements are due to tissues and venous blood
 * These are subtracted from the total, leaving the pulsatile element which represents the arterial component
-* The **ratio of absorbances** of the **pulsatile** elements and the **non-pulsatile elements** is called **R**, and is calculated as:  
+* The **ratio of absorbance** of the **pulsatile** elements and the **non-pulsatile elements** is called **R**, and is calculated as:  
 $$ R =$$ $${Pulsatile_{660} / Non-Pulsatile_{660}} \over Pulsatile_{940} / Non-Pulsatile_{940}$$
   * R is compared with a set of standardised values to deliver a calculated SpO<sub>2</sub>
     * An R of 1 gives an SpO<sub>2</sub> of 85%
@@ -56,7 +56,7 @@ Inaccurate below 70%, and completely unreliable below 50%.
 
 
 * Venous pulsation  
-Detected as pulsatile flow, and erronously interpreted by the microprocessor as arterial flow.
+Detected as pulsatile flow, and erroneously interpreted by the microprocessor as arterial flow.
 
 
 * Confounded by ambient light  
@@ -65,7 +65,7 @@ The diodes are cycled at several hundred times per second which allows the detec
 
 * Absorption spectra confounded by:
   * Haemoglobinopathies
-    * Carboxyhaemoglobin causes the pulse oximeter to read artifically high due to as it also aborbs 660nm light
+    * Carboxyhaemoglobin causes the pulse oximeter to read artificially high due to as it also absorbs 660nm light
     * Methaemoglobinaemia causes the SpO<sub>2</sub> to trend towards 85%, as though it absorbs 660nm light is also absorbs 940nm light to a greater degree
   * Dyes
     * Methylene blue will cause the SpO<sub>2</sub> to read < 65% for several minutes

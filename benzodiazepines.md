@@ -31,7 +31,7 @@ The mechanism varies between receptors:
 |**Route of Administration**|PO/IV/IM.|PO/IV/IM.|PO.|
 |**Absorption**|50% PO bioavailability.|Good PO bioavailability.||
 |**Distribution**|V<sub>D</sub> 1.5L.kg<sup>-1</sup>, 95% protein bound.|95% protein bound.||
-|**Metabolism**| Partially metabolised to oxazepam and 1-α-hydroxy-midazolam. Clearance ~7ml.kg<sup>-1</sup>.min<sup>-1</sup>.|Hepatic to all active metabolites including oxazepam, tempazepam, and des-methyl-diazepam (has t<sub>1/2</sub>β up to 100 hours).|Hepatic to inactive metabolites.|
+|**Metabolism**| Partially metabolised to oxazepam and 1-α-hydroxy-midazolam. Clearance ~7ml.kg<sup>-1</sup>.min<sup>-1</sup>.|Hepatic to all active metabolites including oxazepam, temazepam, and des-methyl-diazepam (has t<sub>1/2</sub>β up to 100 hours).|Hepatic to inactive metabolites.|
 |**Elimination**|t<sub>1/2</sub>β 2-4 hours, prolonged with cirrhosis, CHF, obesity and in the elderly.|t<sub>1/2</sub>β 20-45 hours.||
 
 ---

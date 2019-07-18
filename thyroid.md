@@ -11,7 +11,7 @@ Increased TSH results in:
   * Increased iodination to form T<sub>4</sub> and T<sub>3</sub>
   * Increased proteolysis of thyroglobulin, which releases T<sub>4</sub> and T<sub>3</sub>
 * Secretions are decreased with decreased iodine uptake
-  * Percholate  
+  * Perchlorate  
   Blocks Na<sup>+</sup>/I<sup>-</sup> symporter.
   * Wolff-Chaikoff effect  
   A reduction in thyroid hormone production due to a high circulating [iodide].

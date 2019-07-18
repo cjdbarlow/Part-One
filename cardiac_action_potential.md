@@ -102,7 +102,7 @@ Conduction pathway:
     * SNS activity causes release of noradrenaline (at post-ganglionic synapse) and adrenaline from adrenal medulla which stimulate cardiac β<sub>1</sub> receptors causing:
         * Positive chronotropy at the SA node
         * Positive inotropy at ventricular muscle
-        * Positive luisotropy
+        * Positive lusitropy
         * Shorter action potential duration (due to opening of rectifying K<sup>+</sup> channels
         * Increased AV conduction
 

@@ -15,7 +15,7 @@ Direct thrombin inhibitors prevent cleavage of fibrinogen to fibrin, and are the
 |**Elimination**|Renal elimination of active drug
 |**Haeme**|Haemorrhage
 |**Immune**|Allergy
-|**Other**|Significant interactions with amiodarone, quinidine, St. John's Wort, as well as other anticoagulant and antiplatelet agents. Dialysable. Potentially reversible with Idarucizumab.
+|**Other**|Significant interactions with amiodarone, quinidine, St. John's Wort, as well as other anticoagulant and antiplatelet agents. Dialysable. Potentially reversible with idarucizumab.
 
 ---
 ##References

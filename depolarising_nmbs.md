@@ -9,10 +9,10 @@ Succinylcholine binds to the nicotinic ACh receptor causing depolarisation. It c
 |--|--|
 |**Class**|Depolarising muscle relaxant.
 |**Uses**|Facilitate tracheal intubation.
-|**Presentation**|Colourless solution of pH 3, at 50mg.ml<sup>-1</sup>. Structually, it is two ACh groups joined at the acetyl groups.
+|**Presentation**|Colourless solution of pH 3, at 50mg.ml<sup>-1</sup>. Structurally, it is two ACh groups joined at the acetyl groups.
 |**Route of Administration**|IV, IM.
 |**Dosing**|1-2mg.kg<sup>-1</sup> IV, 3-4mg.kg<sup>-1</sup> IM up to 150mg.
-|**Onset and Duration**|IV onset in 30s to 1 minute, lasting 2-3 minutes, with offset typically within 10 minutes. Offset occurs due to dissociation of drug out of NMJ into plasma, as a concentration gradient is established by drug breakdown in plasma. Prolonged duration in patients with **pseudocholinesterase deficiency**. IM onset in 2-3 minues.
+|**Onset and Duration**|IV onset in 30s to 1 minute, lasting 2-3 minutes, with offset typically within 10 minutes. Offset occurs due to dissociation of drug out of NMJ into plasma, as a concentration gradient is established by drug breakdown in plasma. Prolonged duration in patients with **pseudocholinesterase deficiency**. IM onset in 2-3 minutes.
 |**Distribution**|30% protein bound. Nil distribution due to rapid metabolism - V<sub>D</sub> 0.25L.kg<sup>-1</sup>. Crosses placenta in very small amounts.
 |**Metabolism**|Rapid hydrolysis by plasma cholinesterases such that only **20%** of administered dose reaches the NMJ.
 |**Elimination**|Minimal renal elimination due to rapid metabolism.
@@ -45,7 +45,7 @@ Initial blockade is termed **Phase I**, which is a partial depolarising block. S
 * Appears similar to a non-depolarising block
 * May be due to:
   * Presynaptic inhibition of ACh synthesis and release
-  * Desensitisation of the postjunctional receptor
+  * Desensitisation of the post-junctional receptor
 
 Key differences include:
 
@@ -64,7 +64,7 @@ Key differences include:
   * Cell lysis with myoglobulinaemia and hyperkalaemia results
 
 ##Suxamethonium Apnoea
-* A deficiency of butylcholinesterase causes suxamethonium to not be metabolsied
+* A deficiency of butylcholinesterase causes suxamethonium to not be metabolised
 * May be congenital (genetic) or acquired (hepatic failure)
 * Can be treated with fresh frozen plasma
 

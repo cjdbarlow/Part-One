@@ -8,7 +8,7 @@ An **adverse effect** is:
         * Mainly in young and middle-aged individuals
         * Twice as common in women
         * May be exacerbated by asthma and pregnancy.
-* Distinct from an **adverse event**, which is an untoward occurance during treatment that does not necessarily have a causal relationship to drug administration
+* Distinct from an **adverse event**, which is an untoward occurrence during treatment that does not necessarily have a causal relationship to drug administration
 
 Adverse effects can be classified by mechanism as follows:
 
@@ -19,7 +19,7 @@ These are related to the pharmacological action of the drug. They are:
 * Temporally associated with drug administration
 * Reproducible
 * Pharmacologically predictable based on understanding of the drug in question
-    * e.g hypokaleamia secondary to diuretic use
+    * e.g hypokalaemia secondary to diuretic use
 
 They typically result in:
 * Organ-selective injury
@@ -34,7 +34,7 @@ Treatment is to decrease dose.
 These are patient-specific or idiosyncratic reactions. They are:
 * Rare  
   Potentially genetic, but poorly understood.
-* Indepdendent of dose  
+* Independent of dose  
     * Occur with low doses
     * Do not have a dose-response relationship
 * Not pharmacologically predictable  
@@ -44,11 +44,11 @@ Important causes include:
     * Receptor abnormalities
     * Enzyme alterations/deficiencies  
         * e.g. Suxamethonium apnoea
-* Not necessarily reproducable
+* Not necessarily reproducible
 
 They typically result in:
-* Immunoallergic reactions
-* Pseudoallergy
+* Immuno-allergic reactions
+* Pseudo-allergy
 * Idiosyncratic reaction
 * Low morbidity but high mortality
     * e.g. Stevens-Johnson Syndrome or anaphylaxis following penicillin administration
@@ -60,7 +60,7 @@ These are 'statistical effects' associated with monitoring. They are:
 * Typically an increased frequency of background disease that is detected due to increased screening
 * Atypical for a drug reaction and not pharmacological predictable
 * No identifiable temporal relationship
-* Not reproducable
+* Not reproducible
 
 ---
 ##References

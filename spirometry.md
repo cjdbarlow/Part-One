@@ -6,7 +6,7 @@
 
 > Describe the measurement and interpretation of pulmonary function tests, including diffusion capacity.
 
-Pulmonary function tests are performd with a **spirometer**, which measures either volume or flow (integrated for time) to quantify lung function.
+Pulmonary function tests are performed with a **spirometer**, which measures either volume or flow (integrated for time) to quantify lung function.
 
 Basic spirometry can be used to quantify:
 * Lung volumes and capacities  
@@ -70,7 +70,7 @@ Quantifies static lung volumes by having a patient perform:
     * Small airways are compressed  
     Any increase in expiratory pressure will increase airway resistance proportionally.
       * This is called **dynamic airways compression**, and results in a uniform flow rate that is **independent of expiratory effort*  
-      This is therefore labelled the **effort independent** part of the curve.
+      This is therefore labeled the **effort independent** part of the curve.
   
 <img src="resources\flow-volume.svg">
   

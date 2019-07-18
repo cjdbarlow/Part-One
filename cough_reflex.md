@@ -20,7 +20,7 @@ A close to vital capacity breath is taken.
 Effort closure of the epiglottis to seal the larynx, followed by a violent contraction of abdominal musculature and internal intercostals, causing a rapid rise in intrapleural pressure to >100mmHg.
 * Expulsive phase  
 Wide-opening of the cords and epiglottis, causing a violent expiration.
-    * Compression of the lungs causes narrowing of the noncartilagenous airways and increases turbulent flow, removing adherent material from the tracheobronchial tree
+    * Compression of the lungs causes narrowing of the noncartilaginous airways and increases turbulent flow, removing adherent material from the tracheobronchial tree
 
 ---
 ##References

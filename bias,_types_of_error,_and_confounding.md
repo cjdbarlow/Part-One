@@ -40,7 +40,7 @@ A confounding factor must be:
   All confounders (known and unknown) are distributed evenly between groups.
 * **Restriction**  
   Restricts participants to remove confounders.
-    * Results in reduced generalisablility and does not control all factors
+    * Results in reduced generalisability and does not control all factors
 * **Matching**  
   Pairing of similar subjects between groups.
     * May introduce additional confounding, and matching by multiple characteristics is difficult

@@ -52,12 +52,12 @@ Inflammatory proteins with a number of effects:
     * Inflammatory mediators  
     Increase blood flow and delivery of inflammatory cells via three mechanisms:
         * Dilatation and increased capillary permeability
-        * Endothelial activation increasing leukcocyte adhesion
+        * Endothelial activation increasing leukocyte adhesion
         * Attraction of neutrophils and monocytes
 
 
 
-* **Protelytic enzymes**  
+* **Proteolytic enzymes**  
 Bactericidal enzymes located in saliva, tears, respiratory mucous, and neutrophils.
 
 ##Innate Cellular Mechanisms
@@ -77,7 +77,7 @@ Exist in loose connective tissue and mucosa, and contain many intracellular gran
     * Monocytes  
     Become **macrophages** when they leave circulation and enter tissue. Macrophages have a lifespan of 2-4 months, and can phagocytose up to 100 bacteria before it dies. Functions include:
         * Phagocytosis and destruction of pathogen  
-        Especially intracellular pathogens (listeria, mycobacteria), parasites, and fungi.
+        Especially intracellular pathogens (*listeria*, *mycobacteria*), parasites, and fungi.
         * Breakdown of damaged body cells
         * Present antigen to T-helper cells
         * Secretion of inflammatory mediators

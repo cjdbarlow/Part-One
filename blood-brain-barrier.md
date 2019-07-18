@@ -69,5 +69,4 @@ Metabolised in astrocytes to glutamine, limiting its neurotoxic effects.
 ---
 ##References
 1. Lawther BK, Kumar S, Krovvidi H. [Blood–brain barrier](https://academic.oup.com/bjaed/article/11/4/128/266954/Blood-brain-barrier). Continuing Education in Anaesthesia Critical Care & Pain, Volume 11, Issue 4, 1 August 2011, Pages 128–132. 
-
 2. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.

@@ -27,7 +27,7 @@ Mechanism of action by multiple effects, including:
       * Responsible for 75% of MAO activity
       * Preferential metabolism of non-polar amines
   * MAO-Is classified by their mechanism and selectivity
-    * Nonselective, irreversible  
+    * Non-selective, irreversible  
     Bind covalently to the enzyme, permanently inactivating it.
       * May lead to hypertensive crisis when catecholamine levels increased
         * Tyramine in food  
@@ -56,19 +56,19 @@ Mechanism of action by multiple effects, including:
 
 |Property|Tricyclic Antidepressants|Selective Serotonin Reuptake Inhibitors|Monoamine Oxidase Inhibitors
 |--|--|
-|**Example**|Amitryptiline|Fluoxetine|
+|**Example**|Amitriptyline|Fluoxetine|
 |**Uses**|Depression, treatment of chronic pain and trigeminal neuralgia|Depression, anxiety|Treatment resistant depression. Now largely superseded due to side-effect profile
 |**Absorption**|High PO bioavailability|High PO bioavailability
 |**Distribution**|Highly lipid soluble with High V<sub>D</sub>. Very highly protein bound - leads to interactions with warfarin, digoxin, and aspirin|Highly protein bound, high V<sub>D</sub>
 |**Metabolism**|Hepatic with active metabolites. Large interpatient variability|Hepatic with non-linear kinetics <br><br>Venlafaxine does not affect CYP450 enzymes.
 |**Elimination**||Unaffected by renal impairment
 |**Resp**|Dry mouth
-|**CVS**|Postural hypotension, ↑ HR.<br>QT prolongation and widening QRS in overdose, with arrhythmia more likely when QRS exceeds 0.16s.|Less cardiotoxic than TCAs, may precipite serotonin syndrome
+|**CVS**|Postural hypotension, ↑ HR.<br>QT prolongation and widening QRS in overdose, with arrhythmia more likely when QRS exceeds 0.16s.|Less cardiotoxic than TCAs, may precipitate serotonin syndrome
 |**CNS**|Sedation, blurred vision, lowered seizure threshold. Excitation, followed by seizures and depression in overdose.|Identical antidepressant effect to TCAs. Less sedation
 |**Renal**|Urinary retention||
 |**GU**|Sexual dysfunction|Greater incidence of sexual dysfunction compared with TCAs
 |**GIT**|Constipation|Greater incidence of N/V compared with TCAs
-|**Other**|Multiple compex drug interactions, including arrhythmias and variable BP with sympathomimetics, central anticholinergic syndrome, serotonin syndrome, and seizures. <br><br>↑ Sensitivity to catecholamines - suggest avoiding:<br>-Indirectly acting sympathomimetics<br>-Ketamine<br>-Surgical stress|Continue during perioperaive period to avoid risk of discontinuation syndrome.
+|**Other**|Multiple complex drug interactions, including arrhythmias and variable BP with sympathomimetics, central anticholinergic syndrome, serotonin syndrome, and seizures. <br><br>↑ Sensitivity to catecholamines - suggest avoiding:<br>-Indirectly acting sympathomimetics<br>-Ketamine<br>-Surgical stress|Continue during perioperative period to avoid risk of discontinuation syndrome.
 
 
 

@@ -46,7 +46,7 @@ Ability of a drug to bind to a receptor.
 * **Afterload**  
 Sum of forces, both elastic and kinetic, opposing ventricular ejection.
 
-* **Ageing**  
+* **Aging**  
 Naturally occurring, physiological decline in the structure and functional reserve of all organ systems.
 
 * **Agonist**  
@@ -164,7 +164,7 @@ Substance evenly dispersed throughout another solution in which it is insoluble.
 
 
 * **Colligative Properties**  
-The properties of a solution that depend on the ratio of solute to solvent, and not on the type of moelcules present. These include:
+The properties of a solution that depend on the ratio of solute to solvent, and not on the type of molecules present. These include:
 	* Vapour pressure
 	* Boiling point
 	* Freezing point
@@ -195,7 +195,7 @@ The point on a phase diagram where the liquid and gas phases of a substance have
 
 
 * **Critical Pressure**  
-Pressure required to liquify a vapour at its critical temperature.
+Pressure required to liquefy a vapour at its critical temperature.
 
 * **Critical Temperature**  
 Temperature above which a substance cannot be liquified, irrespective of how much pressure is applied.
@@ -227,7 +227,7 @@ Inspired gas not participating in gas exchange. Includes:
 Mass per unit of volume.
 
 * **Dependence**  
-When a charcteristic withdrawal syndrome occurs when a drug is withdrawn, or an antagonist administered.
+When a characteristic withdrawal syndrome occurs when a drug is withdrawn, or an antagonist administered.
 
 * **Diffusion**  
 Passive movement of a substance down an activity gradient by Brownian motion.
@@ -255,7 +255,7 @@ A fixed deviation from the true value at all points in the measured range.
 Substance administered to cause a change in a physiological system.
 
 * **Duplicate Publication**  
-Where the same set of results are published in multiple journals. Academically unethical, and will cause a systematic bias in a meta-analyses as the same set of patients are inclulded twice.
+Where the same set of results are published in multiple journals. Academically unethical, and will cause a systematic bias in a meta-analyses as the same set of patients are included twice.
 
 
 * **Dyne**  
@@ -266,7 +266,7 @@ Force required to accelerate 1g by 1cm.sec<sup>-2</sup>.
 Maximal effect produced by a drug. Analogous to intrinsic activity.
 
 * **Electrocardiogram**  
-Grapical recording of the vector sum of cardiac electrical activity, as measured by electrodes on the skin.
+Graphical recording of the vector sum of cardiac electrical activity, as measured by electrodes on the skin.
 
 * **Emulsion**  
 A fine dispersion of minute droplets of one liquid in another in which it is not soluble or miscible.
@@ -355,13 +355,13 @@ Change in ventricular function based on myocardial fibre length. Also known as *
 Mechanisms which alter myocardial performance independent of fibre length.
 
 * **Hormone**  
-Chemical messenger secrted by a **ductless gland** and has action on a distant target cell.
+Chemical messenger secreted by a **ductless gland** and has action on a distant target cell.
 
 
 * **Hyperalgesia**  
 Greater than normal amount of pain from a noxious stimulus. May be:
 	* Primary  
-	Occurring in the region of tissue damage, e.g. in an inflammed area around a wound.
+	Occurring in the region of tissue damage, e.g. in an inflamed area around a wound.
 	* Secondary  
 	Extending beyond the region of tissue damage.
 
@@ -373,13 +373,13 @@ When PaO<sub>2</sub> is less than 60mmHg.
 The point at which inadequate oxygenation of tissues results in anaerobic metabolism.
 
 * **Hysteresis**  
-When the future state of a system depends not only on its current state, but on the states preceeding it.
+When the future state of a system depends not only on its current state, but on the states preceding it.
 
 ##I
 * **Ideal Gas**  
 A gas which will obey the ideal gas law. An ideal gas must have:
 	* Negligible intermolecular attraction
-	* A small molecular volume compared to the space between the molcules
+	* A small molecular volume compared to the space between the molecules
 
 
 * **Idiosyncrasy**  
@@ -437,7 +437,7 @@ The pressure measured anywhere in the systemic circulation when all flow of bloo
 Blood from the IVC, SVC and coronary sinus, which has been mixed by the pumping action of the RV and is typically sampled from the pulmonary artery.
 
 * **Mole**  
-Amount of a substance which contains as many representative particules as there are atoms in 12g of carbon-12.
+Amount of a substance which contains as many representative particles as there are atoms in 12g of carbon-12.
 
 * **Molality**  
 Number of moles of solute per kg of solvent.
@@ -493,7 +493,7 @@ Volume of oxygen delivered to the tissues per minute.
 The partial pressure at which an oxygen-carrying protein is 50% saturated.
 
 * **Pain**  
-Unpleasant sensory and emotional experience associated with actual or ptential tissue damage, or expressed in terms of such damage.
+Unpleasant sensory and emotional experience associated with actual or potential tissue damage, or expressed in terms of such damage.
 
 * **Partition Coefficient**  
 Describe the relative affinity of an agent for two phases. It is defined as the ratio of the concentration of agent in each phase, when both phases are of equal volume and the partial pressures are in equilibrium at STP.
@@ -556,7 +556,7 @@ Vapour which is in equilibrium with its own liquid state, i.e. there are as many
 Pressure exerted by a vapour which is in equilibrium with its liquid state. Increases with temperature, since as the kinetic energy (heat) content of molecules increase, more of them enter the vapour phase.
 
 * **Second Gas Effect**  
-Disproportionately rapid rise in FA/Fi ratio seen when an anaesthetic agent is coadministered with nitrous oxide.
+Disproportionately rapid rise in FA/Fi ratio seen when an anaesthetic agent is co-administered with nitrous oxide.
 
 * **Seebeck effect**  
 The generation of a potential difference at the junction of two dissimilar metals, with its value dependent on the temperature of the junction.
@@ -617,14 +617,14 @@ Increase in contractility with an increase in HR. Also known as the Bowditch eff
 Irregular movement in radial, axial, and circumferential axes.
 
 ##V
-* **Valsalva Manouvre**  
+* **Valsalva Maneuvre**  
 Forced expiration against a closed glottis.
 
 * **Vapour**  
 Substance in a gaseous phase below its critical temperature.
 
 * **Vapour pressure**  
-Presure experted by a vapour.
+Pressure experted by a vapour.
 
 * **Venous admixture**  
 Amount of mixed venous blood that must be added to pulmonary end-capillary blood to give the observed arterial oxygen **content**.

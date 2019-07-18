@@ -7,7 +7,7 @@ Regulation via secretion or inhibition of insulin and glucagon from the pancreat
 * Long-term  
 Regulation via both neuronal (SNS activation) and hormonal (cortisol, GH) mechanisms.
 
-##Hormal Mechanisms
+##Hormonal Mechanisms
 ###Short Term
 Glucose levels are sensed directly in the pancreas and will result in insulin release when the **BGL is >5.6** mmol.L<sup>-1</sup>. **Pancreatic B cells** respond directly to glucose by secreting insulin in a biphasic fashion:
 * An initial, rapid increase in release  

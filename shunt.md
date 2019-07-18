@@ -12,7 +12,7 @@ Shunt is blood reaching the systemic circulation without being oxygenated via pa
     Blood draining through alveoli with a V/Q between 0 and 1.
       * This may not be true shunt, as blood may have some oxygen content but not be maximally oxygenated
 * Pathological shunt  
-Pathological shunting can be anatomical (e.g congential cardiac malformations), or physiological (e.g. pneumonia causing alveolar consolidation).
+Pathological shunting can be anatomical (e.g congenital cardiac malformations), or physiological (e.g. pneumonia causing alveolar consolidation).
     * Intra-cardiac
       e.g. VSD
     * Extra-cardiac  

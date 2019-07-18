@@ -21,6 +21,7 @@ This maximises surface area (optimising gas transfer) and makes the cells flexib
 * Carry ~29pg of haemoglobin
 * Comprise 40-50% of blood volume
 
+
 ##Production
 Erythrocytes have a **myeloid progenitor** which differentiates into the myeloid line. EPO (see [endocrine functions of the kidney](endocrine_functions_of_the_kidney.md#epo) stimulates myeloid progenitor cells to:
   * Differentiate
@@ -51,8 +52,9 @@ Old red cells are removed from circulation via:
     * Liver
     * Bone marrow
 * Haemolysis  
-~10% of red cell breakdown occurs in ciruclation, where the Hb dimers are then bound to **haptoglobin** by haemopexin.
+~10% of red cell breakdown occurs in circulation, where the Hb dimers are then bound to **haptoglobin** by haemopexin.
     * This is important to prevent glomerular filtration of haeme, and loss of iron
+
 
 ###Haemoglobin Metabolism
 **Haemoglobin** is broken down into:

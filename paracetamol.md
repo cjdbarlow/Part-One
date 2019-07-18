@@ -32,7 +32,7 @@ Paracetamol an analgesic and antipyretic which is typically classed as an NSAID,
 * Paracetamol is partially metabolised to the toxic N-acetyl-p-amino-benzoquinone imine (**NAPQI**)
   * In normal circumstances this rapidly conjugated with glutathione
   * In toxicity,  glutathione is exhausted
-  * NAPQI then covalently binds to critical proteins in hepatocytes, causing centriolobular hepatic necrosis and cell death
+  * NAPQI then covalently binds to critical proteins in hepatocytes, causing centrilobular hepatic necrosis and cell death
   
   
   * Toxic doses:
@@ -40,7 +40,7 @@ Paracetamol an analgesic and antipyretic which is typically classed as an NSAID,
     * Repeated ingestion of >150mg.kg<sup>-1</sup>.day<sup>-1</sup> for two days
     * \>100mg.kg<sup>-1</sup>.day<sup>-1</sup> for three days
 
-* Risk factors for toxicty:
+* Risk factors for toxicity:
   * Glutathione deficiency
     * Extremes of age
     * Malnutrition
@@ -49,7 +49,7 @@ Paracetamol an analgesic and antipyretic which is typically classed as an NSAID,
     * Anti-epileptics
       * Carbamazepine
       * Phenytoin
-      * Phenobarbitione
+      * Phenobarbitone
     * Rifampicin
     * ETOH
     * OCP

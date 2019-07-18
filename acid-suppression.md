@@ -9,7 +9,7 @@
 |**Metabolism**|||Prodrug, activated within parietal cell. CYP450 metabolised, inhibits CYP2C19 (reducing, among other things, the antiplatelet effect of clopidogrel)|Partial hepatic by CYP450
 |**Elimination**|||Renal of metabolites and active drug|Renal of metabolites and active drug
 |**Mechanism of Action**|Base reacts with gastric acid to produce salt and water|Base reacts with gastric acid to produce salt and water|Irreversible antagonism of the parietal H<sup>+</sup>/K<sup>+</sup> ATPase|Competitive antagonism of the (Gs) H<sub>2</sub> receptor, which ↓ cAMP production, ↓ intracellular Ca<sup>2+</sup>, and ↓ activity of the H<sup>+</sup>/K<sup>+</sup> ATPase
-|**Resp**|Lower risk of pneumonitis if aspirated|Greater risk of pneumonitis if aspirated|Potentially increased severity of pneumonia if aspiration occurs (risk with microaspiration in long-term intubated patients)|Pneumonitis/pneumonia as per PPI
+|**Resp**|Lower risk of pneumonitis if aspirated|Greater risk of pneumonitis if aspirated|Potentially increased severity of pneumonia if aspiration occurs (risk with micro-aspiration in long-term intubated patients)|Pneumonitis/pneumonia as per PPI
 |**CVS**||||↓ HR, ↓ BP, and arrhythmogenic with rapid IV administration
 |**Renal**|Potential metabolic alkalosis|No risk of alkalosis|Interstitial nephritis||
 |**GIT**|↑ Gastric pH|↑ Gastric pH|↑ Gastric pH (pH ↑ by ~1), ↓ volume of secretions||

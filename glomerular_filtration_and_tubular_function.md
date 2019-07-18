@@ -58,7 +58,7 @@ Overall permeability is:
 
 ##Tubular Function
 ###Proximal Tubule
-The proximal tubule reaborbs 60% of glomerular filtrate. It **reabsorbs basically everything**, including protein, and secretes H<sup>+</sup>, organic ions (such as uric acid and salicylates), ammonium, and up to 60% of filtered urea load.
+The proximal tubule reabsorbs 60% of glomerular filtrate. It **reabsorbs basically everything**, including protein, and secretes H<sup>+</sup>, organic ions (such as uric acid and salicylates), ammonium, and up to 60% of filtered urea load.
 
 
 ###Loop of Henle

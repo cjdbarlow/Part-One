@@ -16,7 +16,7 @@ CSF can be displaced to the spinal subarachnoid and have its rate of reabsorptio
   Supply of O<sub>2</sub> and simple sugars and amino acids, and removal of CO<sub>2</sub> occurs occurs in CSF.
 
 ##Formation
-CSF is produced in the **choroid plexus** (70%) and brain **capillary endotheilial cells** (30%) at a rate of 0.4 ml.min<sup>-1</sup> (**500ml.day<sup>-1</sup>**). It is produced by a combination of  **ultrafiltration** and **secretion** from plasma:
+CSF is produced in the **choroid plexus** (70%) and brain **capillary endothelial cells** (30%) at a rate of 0.4 ml.min<sup>-1</sup> (**500ml.day<sup>-1</sup>**). It is produced by a combination of  **ultrafiltration** and **secretion** from plasma:
 * Na<sup>+</sup> is actively transported  
 Drives flow of Cl<sup>-</sup> ions and water.
 * Glucose is transported via facilitated diffusion down its concentration gradient
@@ -59,7 +59,7 @@ CSF flow is driven by respiratory oscillations, arterial pulsations, and ongoing
 * To the **cisterna magna** via the two lateral **Foramina of Luschka** and the midline **Foramen of Magendie**
 * It may now pass either:
     * **Cranially**, to the **basilar cisterns** and via the **Sylvian fissure** to the **cortical regions**
-    * **Caudally**, to the **spinal subarachoid space** via the **central canal**
+    * **Caudally**, to the **spinal subarachnoid space** via the **central canal**
 
 ##Reabsorption
 Reabsorption of CSF:

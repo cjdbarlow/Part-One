@@ -21,7 +21,7 @@ The steep section allows a large amount of oxygen to be delivered with only a sm
 
 
 * The sigmoid shape exists due to **cooperative binding**  
-Each oxygen which binds to Hb causes conformational changes which allow it bind additional oxygen molcules more easily.
+Each oxygen which binds to Hb causes conformational changes which allow it bind additional oxygen molecules more easily.
   * When the fourth oxygen molecule has bound, Hb is said to be in the **relaxed conformation** (R state)
   * When no oxygen is bound, Hb is said to be in the **tense state** (T state)
 
@@ -60,13 +60,13 @@ Haemoglobin is a four-tetramer molecule, and its species can be physiological or
     * Cannot bind oxygen, and left-shifts the oxyHb curve for normal Hb which reduces oxygen offloading at tissues
     * Normally prevented by:
       * Glutathione in red cell reduces oxidising agents
-      * Methaemogobin reductase enzyme uses NADH to reduce MetHb
+      * Methaemoglobin reductase enzyme uses NADH to reduce MetHb
     * Occurs due to:
       * Oxidising agents overwhelm capacity of glutathione system, e.g.:
         * SNP
         * NO
         * Amide local anaesthetics
-        * Sulphonamides
+        * Sulfonamides
       * Failure of the methaemoglobinaemia reductase enzyme
         * G6PD      <br> <br>
   * **COHb**  
@@ -74,7 +74,7 @@ Haemoglobin is a four-tetramer molecule, and its species can be physiological or
     * Haemoglobin binds carbon monoxide with greater affinity than oxygen<br> <br>
   * **CyanoHb**  
     * Haemoglobin **irreversibly** binds cyanide molecules, causing a **functional anaemia**
-    * Cyanide inhibtis cytochrome oxidase in the electron transport chain, preventing oxidative phosphorylation occuring
+    * Cyanide inhibits cytochrome oxidase in the electron transport chain, preventing oxidative phosphorylation occurring
     
 ###Oxygen Saturation
 Oxygen Saturation can be defined in two ways:

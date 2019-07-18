@@ -2,7 +2,7 @@
 
 |Property|Action|
 |--|--|
-|**Class**|Naturally occuring gas|
+|**Class**|Naturally occurring gas|
 |**Uses**|Improve FiO<sub>2</sub>, CO poisoning, hyperbaric O<sub>2</sub> therapy|
 |**Pharmaceutics**|Clear, colourless, odourless gas at STP. Critical temperature **-119°C**, manufactured by fractional distillation. Highly flammable.|
 |**Route of Administration**|Inhaled|

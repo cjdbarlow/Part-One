@@ -10,7 +10,7 @@
 Acetylcholine is a neurotransmitter vital for normal function of:
 * CNS
 * ANS
-* Muscule contraction
+* Muscle contraction
 
 ##Synthesis, Release, and Metabolism
 ACh is produced is the nerve cytoplasm by **acetyltransferase** from:
@@ -34,7 +34,7 @@ Acetylcholine is metabolised by acetylcholinesterase on the post-junctional memb
 ##ACh Receptor Subtypes
 There are two types of ACh receptor:
 * **Nicotinic ACh receptors**
-    * Ionotropic  
+    * Inotropic  
     Linked to an ion channel.
         * Non-specific - may allow Na<sup>+</sup>, K<sup>+</sup>, or Ca<sup>2+</sup> to cross
     * Consists of five subunits:

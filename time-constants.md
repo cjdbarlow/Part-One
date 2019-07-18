@@ -23,7 +23,7 @@ Importantly:
     * After 3 $$\tau$$, $$y$$ will be 5% ($$1\over e^3$$) of its initial value
     * After 5 $$\tau$$, $$y$$ will be 1% ($$1 \over e^5$$) of its initial value
 
-##Physiological Signifiance
+##Physiological Significance
 The time-constant is used in respiratory physiology in:
 * Timing inspiration and expiration
 * Elimination of inhalational anaesthetics
@@ -70,7 +70,7 @@ In general:
     * Pressure in units with a shorter time-constant rises more rapidly and if a breath is held will result in redistribution to those units with a longer time-constant.
 
 
-##Clinical Signifiance
+##Clinical Significance
 If time-constants are equal:
 * The pressure in each unit is identical throughout inspiration and distribution  
 Therefore, dynamic compliance will be independent of respiratory rate.

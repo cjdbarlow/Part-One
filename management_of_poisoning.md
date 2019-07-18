@@ -18,7 +18,7 @@
 
 
 * **Risk assessment**
-    * History including timing, amount, coadministered drugs, current patient status.    
+    * History including timing, amount, co-administered drugs, current patient status.    
 * **Supportive care**
 * **Investigations**
     * ECG
@@ -29,8 +29,8 @@
 * **Decontamination**
     * Activated charcoal *may* be appropriate if recent ingestion (<1 hour) and the airway is secured
 * **Enhanced Elimination**
-    * Used in severe poisoining when supportive care is likely to be inadequate. Includes:
-      * Urinary alkalinsation
+    * Used in severe poisoning when supportive care is likely to be inadequate. Includes:
+      * Urinary alkalinisation
       * Filtration
 * **Antidotes**
     * E.g. naloxone for opiates

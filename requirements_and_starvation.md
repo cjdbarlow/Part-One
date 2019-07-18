@@ -30,7 +30,7 @@ Less than 24 hours.
             * Increased hepatic glycogenolysis and gluconeogenesis
         * Glucagon release increases
     * Cellular metabolism alters:
-        * Decreased glucose uptake by non-obligate glucose utilisers  
+        * Decreased glucose uptake by non-obligate glucose consumers  
         e.g. Muscle.
         * Increased FFA and ketone body use  
         β-oxidation of FFAs to meet ATP requirements, leading to formation of ketone body.
@@ -59,7 +59,7 @@ Starvation is the failure to absorb sufficient calories to sustain normal body f
         * The brain still requires 100g of glucose per day
     * BMR falls
     * All but life-saving movement ceases
-    * Death typically occurs after 30-60 days, when muscle catabolisation weaknens the respiratory muscles such that secretions can no longer be cleared, and pneumonia occurs
+    * Death typically occurs after 30-60 days, when muscle catabolism weakens the respiratory muscles such that secretions can no longer be cleared, and pneumonia occurs
 
 ###Refeeding Syndrome
 Refeeding syndrome is a deranged metabolic state that occurs with feeding after a period of prolonged fasting, typically >5 days.

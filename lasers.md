@@ -20,13 +20,13 @@ Opthalmology.
 ##Principles
 Method:
 * An energy source is passed through a **lasing medium**, housed in a **resonator** made of mirrors
-* As the lasing medium is excited, electons enter a higher energy level  
+* As the lasing medium is excited, electrons enter a higher energy level  
 When more than 50% of electrons are at a higher energy level, **population inversion** has occurred.
 * As electrons fall back to their resting state, they release a photon
     * A spontaneous emission occurs when an electron enters its resting state spontaneously
     * A stimulated emission occurs when an electron enters its resting state after being struck by a photon released from a spontaneous emission
         * Stimulated emissions result in amplification of light release
-* The mirrors in the resonating chamber enxure most light is reflected back into the chamber, causing more stimulated emissions
+* The mirrors in the resonating chamber ensure most light is reflected back into the chamber, causing more stimulated emissions
 * The exit from the chamber can be be adjusted so only certain polarities of light are emitted
 * A lens may be used to focus the laser beam
 

@@ -20,7 +20,7 @@
 
 Inhaled anaesthetics are chemicals with general anaesthetic properties that can be delivered by inhalation. They can be divided into:
 * **Volatile** anaesthetic agents  
-Volatility refers to the tendency of a liquid to vaporise. Volatile agents include:
+Volatility refers to the tendency of a liquid to vapourise. Volatile agents include:
     * Sevoflurane
     * Isoflurane
     * Desflurane
@@ -76,7 +76,7 @@ MAC is not based on arterial partial pressure (F<sub>a</sub>) of agent.
         * V/Q mismatch  
         Shunted alveoli will not absorb anaesthetic agent, and unperfused alveoli will contain agent that is not being absorbed.
             * This is worsened by the effects of anaesthesia
-        * Volatile agents are heavy and have finite diffusability
+        * Volatile agents are heavy and have finite diffusibility
     * However, the difference between F<sub>a</sub> and F<sub>A</sub> for any agent is the same at steady state (and in absence of nitrous oxide)  
     This means that, **at steady-state**, MAC will be proportional to, and an accurate measure of, P<sub>a</sub>.
 * One of several related terms:
@@ -101,7 +101,7 @@ MAC is not based on arterial partial pressure (F<sub>a</sub>) of agent.
 |---|---|
 |Age (~6%/10 years ↑) and neonates|Youth
 |Hypothermia|Hyperthermia|
-|Hypocapnoea|Hypercapnoea|
+|Hypocapnea|Hypercapnea|
 |Hyponatraemia|Hypernatraemia|
 |Hypothyroidism|Hyperthyroidism|
 |Acute alcohol and other CNS depressant intoxication|Chronic ETOH and CNS depressant abuse|
@@ -165,7 +165,7 @@ Use of N<sub>2</sub>O with another agent will increase the P<sub>A</sub> of that
         * An increase in the fractional concentration of all other gases  
         This is known as the **concentration effect**, and increases the pressure gradient driving diffusion into blood, increasing speed of onset.
             * The concentration effect is the cause of the second gas effect
-            * The concentration effect is **more pronouced as FiN<sub>2</sub>O increases**
+            * The concentration effect is **more pronounced as FiN<sub>2</sub>O increases**
             * The concentration effect is more profound in lung units with moderately **low V/Q ratios**, causing in a large increase in F<sub>a</sub>  
             This results in a larger value of F<sub>a</sub> for any given F<sub>A</sub>, *even at steady state*.
         * Augmented ventilation as more inhalational agent is drawn in the alveoli from dead space gas
@@ -228,7 +228,7 @@ Factors affecting volatile washout:
     Important for highly soluble agents used in long cases.
 * Blood-Alveolus
     * Blood:gas coefficient of agent  
-    Highly soluble agents will have an increased amount of drug dissolved in tissue, so a large resevoir of drug exists that will have to be removed.
+    Highly soluble agents will have an increased amount of drug dissolved in tissue, so a large reservoir of drug exists that will have to be removed.
     * Alveolar Cardiac output  
     **Decreased** cardiac output **increases** elimination.
         * Shunt  
@@ -322,7 +322,7 @@ This distorts channels responsible for maintaining membrane potential and genera
 * Increased ambient pressure reverses general anaesthesia
 * Flaws:
     * Does not account for stero-selectivity of drug-receptor interactions  
-    I.e. receptors select for one steroisomer over others.
+    I.e. receptors select for one stereoisomer over others.
 
 
 ###Structure-Activity Relationships of Inhaled Anaesthetics{#sa}
@@ -397,15 +397,9 @@ From the properties discussed above, we can construct the following ideal agent:
 3. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
 4. Leslie RA, Johnson EK, Goodwin APL. Dr Podcast Scripts for the Primary FRCA. Cambridge University Press. 2011.
 5. Miller RD, Eriksson LI, Fleisher LA, Weiner-Kronish JP, Cohen NH, Young WL. Miller's Anaesthesia. 8th Ed (Revised). Elsevier Health Sciences.
-6. Zhou JX, Liu J. [The effect of temperature on solubility of volatile
- anesthetics in human tissues](https://www.ncbi.nlm.nih.gov/pubmed/11429373
-). Anesth Analg. 2001 Jul;93(1):234-8.
-7. Hendrickx J, Peyton P, Carette R, De Wolf A. [Inhaled anaesthetics and nitrous 
-oxide: Complexities overlooked: things may not be what they seem](https://www.ncbi.nlm.nih.gov/pubmed/27164016). Eur J
-Anaesthesiol. 2016 Sep;33(9):611-9.
-8. Aranake A, Mashour GA, Avidan MS. [Minimum alveolar concentration: ongoing
-relevance and clinical utility](https://www.ncbi.nlm.nih.gov/pubmed/23414556). Anaesthesia. 2013 May;68(5):512-22. doi:
-10.1111/anae.12168.
+6. Zhou JX, Liu J. [The effect of temperature on solubility of volatile anesthetics in human tissues](https://www.ncbi.nlm.nih.gov/pubmed/11429373). Anesth Analg. 2001 Jul;93(1):234-8.
+7. Hendrickx J, Peyton P, Carette R, De Wolf A. [Inhaled anaesthetics and nitrous oxide: Complexities overlooked: things may not be what they seem](https://www.ncbi.nlm.nih.gov/pubmed/27164016). Eur J Anaesthesiol. 2016 Sep;33(9):611-9.
+8. Aranake A, Mashour GA, Avidan MS. [Minimum alveolar concentration: ongoing relevance and clinical utility](https://www.ncbi.nlm.nih.gov/pubmed/23414556). Anaesthesia. 2013 May;68(5):512-22. doi: 10.1111/anae.12168.
 9. Lerman J, Gregory GA, Willis MM, Eger EI 2nd. [Age and solubility of volatile anesthetics in blood](http://anesthesiology.pubs.asahq.org/article.aspx?articleid=1956070). Anesthesiology. 1984 Aug;61(2):139-43.
 
 

@@ -7,6 +7,7 @@ Drug distribution is dependent on many factors, all of which can be related to F
 
 * **Tissue mass**
 
+
 * **Molecular Weight**  
 Larger molecules are less able to cross cell membranes, and so a greater portion will remain in the compartment they are delivered to.
 
@@ -35,7 +36,7 @@ Ionised drugs are polar, and so are less lipid soluble.
     * May be ion trapped  
     This occurs when an unionised drug moves across a membrane and becomes ionised due to a change in pH. The now-insoluble drug is trapped in the new compartment. This is relevant in:
       * Placenta  
-      Foetal pH is lower than matenal pH, which can trap basic drugs \(e.g. LA, opioids\) in foetus.
+      Foetal pH is lower than maternal pH, which can trap basic drugs \(e.g. LA, opioids\) in foetus.
         * This becomes more significant with a greater divergence of pH \(e.g. placental insufficiency\)
       * Renal elimination  
       Urinary alkalinisation is used to accelerate elimination of acidic drugs, as they become ionised and trapped in urine.

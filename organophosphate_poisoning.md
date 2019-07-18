@@ -1,10 +1,10 @@
 # Organophosphate Poisoning
 
-Organophosphates are substances bind **irreversibly** to **acetylcholinestersase**, causing cholinergic excess. Examples include fertilisers and sarin gas.
+Organophosphates are substances bind **irreversibly** to **acetylcholinesterase**, causing cholinergic excess. Examples include fertilisers and sarin gas.
 
 
 ##Toxicity
-Effects (as expected) are signs of muscarininc and nicotinic overactivation. This can be remembered by 'BLUDGES' for the muscarinic effects:
+Effects (as expected) are signs of muscarinic and nicotinic over-activation. This can be remembered by 'BLUDGES' for the muscarinic effects:
 * **B**radycardia (and subsequent hypotension)
 * **L**acrimation
 * **U**rination
@@ -24,7 +24,7 @@ Competitive antagonises ACh at the muscarinic receptor.
 * **Pralidoxime**  
 Reactivates acetylcholinesterase by luring the organophosphate away from the enzyme with a tantalising oxime group.
     * Pralidoxime must be used within the first few hours of poisoning  
-    Aafter which the organophosphate-enzyme group 'ages' and is no longer susceptible.
+    After which the organophosphate-enzyme group 'ages' and is no longer susceptible.
     * Does not cross the blood-brain barrier and so cannot treat central effects
 
 

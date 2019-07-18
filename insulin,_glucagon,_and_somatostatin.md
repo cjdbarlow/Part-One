@@ -36,7 +36,7 @@ Secreted directly into the portal vein, and **undergoes first-pass metabolism** 
 |**Liver**|Glycogenolysis, gluconeogenesis, glucose release, ketone formation|
 |**CVS**| Inotropy|
 |**Fat**|Lipolysis|
-|**Metabolic**|Increased metabolic rate, GH release, somatosatin release, insulin release|
+|**Metabolic**|Increased metabolic rate, GH release, somatostatin release, insulin release|
 
 Secretion of glucagon is influenced by a number of factors:
 

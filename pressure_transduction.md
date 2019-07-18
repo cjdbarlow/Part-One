@@ -11,7 +11,7 @@ A **transducer** converts one form of energy to another. Pressure transducers co
 * Tubing
 * Stopcock
 * Flush
-* Tranducer
+* Transducer
 
 This system must be calibrated in two ways:
 * **Static calibration**  
@@ -22,11 +22,11 @@ Accurate representation of changes in the system.
 ##Static Calibration
 Static calibration involves:
 * Leveling the transducer (typically to the level of the phlebostatic axis at the right atrium, or the external auditory meatus)  
-A change in tranducer level will change the blood pressure due to the change in hydrostatic pressure (in cmH<sub>2</sub>O).
+A change in transducer level will change the blood pressure due to the change in hydrostatic pressure (in cmH<sub>2</sub>O).
 * **Zeroing** the transducer
-  * Opening the tranducer to air
-  * Zeroing the tranducer on the monitor  
-  A change in measured pressure when the transducer is open to air is due to **drift**, an artifactual measurement error due to damage to the cable, tranducer, or monitor.
+  * Opening the transducer to air
+  * Zeroing the transducer on the monitor  
+  A change in measured pressure when the transducer is open to air is due to **drift**, an artifactual measurement error due to damage to the cable, transducer, or monitor.
   
 ##Dynamic Calibration
 Dynamic calibration ensures the operating characteristics of the system (or **dynamic response**) are accurate. Dynamic response is a function of:
@@ -66,21 +66,21 @@ How rapidly a system will oscillate when disturbed and left alone.
 * This results in a distorted output signal and a small **overshoot in systolic pressure**.
 
 ###Damping{#damp}
-A pressure tranduction system should be adequately damped:
+A pressure transduction system should be adequately damped:
 
 <img src="resources\damping2.svg">
 
 
 * An **optimally** damped waveform has a damping of **0.64**. It demonstrates:
   * A rapid return to baseline following a **step-change**, with **one overshoot and one undershoot**
-* A **critically damped** waveform has a damping cofficient of **1**. It demonstrates:
+* A **critically damped** waveform has a damping coefficient of **1**. It demonstrates:
   * The most rapid return to baseline possible following a step-change **without overshooting**
-* An **overdamped** waveform has a damping coefficient of **>1**. It demonstrates:
+* An **over-damped** waveform has a damping coefficient of **>1**. It demonstrates:
   * A slow return to baseline following a step-change  with no oscillations
   * Slurred upstroke
   * Absent dicrotic notch
   * Loss of fine detail
-* An **underdamped** waveform has a damping coefficient close to 0 (e.g. **0.03**). It demonstrates:
+* An **under-damped** waveform has a damping coefficient close to 0 (e.g. **0.03**). It demonstrates:
   * A very rapid return to baseline following a step-change  with several oscillations
   * Systolic pressure overshoot
   * Artifactual bumps

@@ -14,7 +14,7 @@ Components:
 Performs both arterial occlusion and measurement.
 * Tubing
 * Device for inflating the occlusive cuff and gradually deflating it
-* Pressure tranducer
+* Pressure transducer
 * Display
 
 Method:
@@ -54,7 +54,7 @@ Components:
 Process:
 * Cuff is inflated until the radial pressure is no longer palpable  
 This is approximates SBP.
-* Cuff is deflated, and reinflated to 20mmHg above the estimated SBP
+* Cuff is deflated, and re-inflated to 20mmHg above the estimated SBP
 * Cuff is deflated at a rate of 2-3mmHg.s<sup>-1</sup> whilst auscultating the brachial artery  
 When cuff pressure equals:
     * SBP  

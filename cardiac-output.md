@@ -57,7 +57,7 @@ Cardiac output varies up to 10% with changes in intrathoracic pressure during re
     * Too much underestimates CO
     * Too little overestimates CO
 * Warm fluid  
-The closer the temperature of injectate is to blood, the greater degree of error introduced to the measurment.
+The closer the temperature of injectate is to blood, the greater degree of error introduced to the measurement.
     * Colder injectate is more accurate, but carries the risk of inducing bradyarrhythmias
 * Poorly positioned PAC  
 The PAC must be positioned in West's Zone 3 for blood flow to occur past the tip, and for the measured temperature to be accurate.
@@ -83,8 +83,6 @@ The flow of blood to an organ is equal to the uptake of a tracer substance divid
 
 ---
 ##References
-1.  Moise, S. F., Sinclair, C. J. and Scott, D. H. T. (2002), Pulmonary artery blood temperature and the measurement of cardiac output by thermodilution. Anaesthesia, 57: 562–566. doi:10.1046/j.1365-2044.2002.02513.x
-
-2. Nishikawa, T. & Dohi, S. Errors in the measurement of cardiac output by thermodilution
- Can J Anaesth (1993) 40: 142. 
+1.  Moise, S. F., Sinclair, C. J. and Scott, D. H. T. (2002), Pulmonary artery blood temperature and the measurement of cardiac output by thermodilution. Anaesthesia, 57: 562–566.
+2. Nishikawa, T. & Dohi, S. Errors in the measurement of cardiac output by thermodilution. Can J Anaesth (1993) 40: 142. 
 

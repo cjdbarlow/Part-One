@@ -1,4 +1,4 @@
-p#Significance Testing'
+#Significance Testing'
 > Understand concept of significance and testing of significance
 
 Significance testing is:
@@ -50,7 +50,7 @@ A significant *p*-value simply suggests a difference exists, it does not measure
 
 * Related to sample size
 *p*-values are affected by sample size:
-    * A large effect size may be hidden by an insigificant *p*-value if sample size is small
+    * A large effect size may be hidden by an insignificant *p*-value if sample size is small
     * Similarly, a tiny effect size may be detected (i.e. a significant *p*-value) if sample size is large
 
 

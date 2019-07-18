@@ -33,7 +33,7 @@ Abdominal visceral fat is responsible for secreting a large number of hormones w
     Increased contractility, SVR, and worsen endothelial function.
         * Released with:
             * Hypoxia
-            * Hypercapnoea
+            * Hypercapnea
             * Negative intrathoracic pressure
             * Fragmented sleep  
             Due to OSA.

@@ -37,7 +37,7 @@ They include:
     * Those produced in myocardial ischaemia
 
 
-* **Oculocardic reflex**  
+* **Oculocardiac reflex**  
 Pressure on the globe or traction on ocular muscles causes a decrease in heart rate. This is mediated by the:
   * Trigeminal nerve (afferent limb)
   * Vagus nerve (efferent limb)  

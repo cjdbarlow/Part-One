@@ -7,7 +7,7 @@
 
 Hypersensitivity reactions are **exaggerated immune responses** that cause host injury.
 
-##Classification of Hypersensivity Reactions
+##Classification of Hypersensitivity Reactions
 The **Gel and Coombs system** classifies hypersensitivity reactions by the mechanism. It is commonly used but fails to classify more complex diseases.
 
 | Type | Timing| Mediator | Pathophysiology | Disease example(s) |
@@ -26,7 +26,7 @@ The **Gel and Coombs system** classifies hypersensitivity reactions by the mecha
     * A systemic reaction is called **anaphylaxis**, and manifests as a combination of:
       * Hypotension
       * Bronchospasm
-      * Layngeal oedema
+      * Laryngeal oedema
       * Rashes
     * Local reactions depend on the route of exposure, and include
       * Asthma  
@@ -35,7 +35,7 @@ The **Gel and Coombs system** classifies hypersensitivity reactions by the mecha
       Nasopharyngeal mucosa.
       
 
- * **Non-immune anaphylaxis** (also known as anaphylactoid) reactions are characterised by a immediate generalised reaction clinically indistinguishable from true anaphalaxis, but the immune nature is unknown, or not due to a type I hypersensitivity reaction
+ * **Non-immune anaphylaxis** (also known as anaphylactoid) reactions are characterised by a immediate generalised reaction clinically indistinguishable from true anaphylaxis, but the immune nature is unknown, or not due to a type I hypersensitivity reaction
 
 
 ####Management of Anaphylaxis
@@ -45,8 +45,8 @@ The **Gel and Coombs system** classifies hypersensitivity reactions by the mecha
 * **Glucagon** *may* be used in β-blocked patients resistant to adrenaline.
     * In adults, 1-5mg IV over 5 minutes, followed by infusion at 5-15microg/min
     * In children, 20-30mcg/kg up to 1mg over 5 minutes
-* Non-pharmacological mangement includes early intubation to protect against airway obstruction due to angioedema. 
-* Adjunctive adjects include antihistamines and steroids. They are second line as they do not attenuate cardiovascular collapse, resolve airway obstruction, or have strong evidence behind their use. They include:
+* Non-pharmacological management includes early intubation to protect against airway obstruction due to angioedema. 
+* Adjuncts include antihistamines and steroids. They are second line as they do not attenuate cardiovascular collapse, resolve airway obstruction, or have strong evidence behind their use. They include:
     * Diphenhydramine 25-50mg IV (Children: 1mg/kg up to 40mg) up to 200mg in 24/24
     * Salbutamol, for bronchodilation
     * Methylprednisolone 1-2mg/kg, ostensibly to protect against **rebound anaphylaxis** (though there is minimal evidence)
@@ -63,7 +63,7 @@ The **Gel and Coombs system** classifies hypersensitivity reactions by the mecha
 Clinical picture depends on affected organs. Examples include:
 * Hyperacute allograft rejection
 * Transfusion reactions and haemolytic disease of the newborn
-* Goodpasteur's syndrome
+* Goodpasture's syndrome
 * Autoimmune cytopaenias
 * Myasthenia Gravis
 
@@ -82,7 +82,7 @@ Clinical picture depends on affected organs. Examples include:
 * T-cells then release cytokines, attracting macrophages and leading to local inflammation
 * During prolonged exposure, macrophages may fuse to form giant cells and form a granuloma. Examples include:
 * TB
-* Gramulomatous vasculitis
+* Granulomatous vasculitis
 
 ##References
 1. CICM July/September 2007

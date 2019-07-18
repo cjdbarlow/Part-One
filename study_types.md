@@ -51,13 +51,13 @@ Mathematical technique of combining the results of different trials to derive a 
 4. [Heterogeneity Analysis]
 5. [Meta-analysis]
 5. Reliability of result determined  
-  i.e. Consistency accross studies, statistical significance, large effect size, biological plausibility.
+  i.e. Consistency across studies, statistical significance, large effect size, biological plausibility.
 6. Sensitivity analysis  
   Repeating the analysis with an alternative model, excluding borderline trials or outliers. If the result is unchanged, then the findings are **robust**.
 
 ###Heterogeneity
 For the pooling of results to be valid, the trials need to be similar. Differences between trials is known as **heterogeneity**. Heterogeneity can be either:
-* **Statistical**; where the effects of the intervention are more different than would be expected to occur through chance alone. Heterogenety analysis affects the type of model that can be used (**fixed** or **mixed effects**) and highly heterogenous data is not appropriate for meta-analysis.
+* **Statistical**; where the effects of the intervention are more different than would be expected to occur through chance alone. Heterogeneity analysis affects the type of model that can be used (**fixed** or **mixed effects**) and highly heterogenous data is not appropriate for meta-analysis.
 * **Clinical**; where, due to trial design, it would be inappropriate to pool the results. For example, conducting a meta-analysis on the effects of the same drug in a paediatric and adult population would be inappropriate, as these are two different populations.
 * **Methodological**; Where the methods used in different trials are too different to allow pooling of the data.
 

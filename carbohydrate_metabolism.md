@@ -6,12 +6,10 @@ Carbohydrates are stored in liver and muscle as glucose polymers known as **glyc
 
 * The liver contains ~100g of glycogen  
 This can maintain plasma glucose for ~24 hours.
-* Skeletal muscle cotains ~200g of glycogen  
+* Skeletal muscle contains ~200g of glycogen  
 This cannot be released into circulation, and is for use only by the muscle.
 
 Production of glycogen is stimulated by insulin, which is released as plasma glucose levels rise following carbohydrate ingestion. When plasma glucose levels fall, the release of glucagon and adrenaline stimulates glycogenolysis.
-
-##Metabolism
 
 ##Glycolysis
 Glycolysis:

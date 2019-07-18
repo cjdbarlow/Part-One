@@ -24,7 +24,7 @@ Radiative heat exchange:
   * Radiative heat loss is proportional to temperature
   * Radiative heat loss does not require a transfer medium
 * Makes up ~45% of heat loss under thermoneutral conditions.
-* Depends on the temperature differential between an individual and their environmen
+* Depends on the temperature differential between an individual and their environment
   * A cold environment (e.g. operating theatre) causes a large radiant heat loss  
   The heat loss from the patient is greater than the heat gain from the surrounding environment.
 
@@ -44,25 +44,25 @@ Radiative heat exchange:
 Effects are greater effects at higher wind speeds.
 
 ###Evaporation
-**Evaporative losses** describe the loss of heat energy due to the latent heat of vaporisation of water. Evaporation of 100ml of water will reduce body temperature by ~1°C.
+**Evaporative losses** describe the loss of heat energy due to the latent heat of vapourisation of water. Evaporation of 100ml of water will reduce body temperature by ~1°C.
 
 ##Temperature Sensation and Regulation
 Temperature sensors are **central** and **peripheral**, whilst **regulation** occurs centrally. 
 
-###Central sensation
+###Central Sensation
 Central temperature sensors exist in the:
-* Abdomial viscera
+* Abdominal viscera
 * Spinal cord
 * Hypothalamus  
 **Anterior hypothalamus** is the most important central thermoreceptor, and responds to  both increased and decreased temperatures by **altering their rate of depolarisation**, eliciting an array of neuronal and hormonal responses.
 * Brainstem  
 
-The **interthreshold range** is the range of core temperatures not triggering a response.
+The **inter-threshold range** is the range of core temperatures not triggering a response.
 * Normal is 0.2 to 0.4°C.
 * Widens under anaesthesia to ~4°C
 
 
-###Peripheral sensation
+###Peripheral Sensation
 Peripheral temperature sensors are:
 * **Free nerve endings**
 * Extremely sensitive  
@@ -77,7 +77,7 @@ Alter their rates of firing by orders of magnitude in response to temperature ch
 ###Regulation
 Temperature sensation runs from cutaneous receptors via the spinothalamic tracts and medulla to the hypothalamus. Cortical input is received via the thalamocortical relay, whilst primitive responses are effected via the midbrain.
 
-##Effector Reponses
+##Effector Responses
 |  | Increase heat loss | Reduce heat loss/Increase heat gain |
 | -- | -- | -- |
 | CNS | Remove clothing, sprawl, reduce activity. | Huddle, seek shelter, add clothing |
@@ -105,10 +105,11 @@ This is of more importance in other primates than in man, as they have enough bo
       * Located in:
         * Neck
         * Supraclavicular
-        * Interscapula
+        * Interscapular
         * Suprarenal
       * Sympathetically innervated  
       Contains large numbers of β<sub>3</sub> receptors
+
 
 ##Effect of Anaesthesia{#anaes}
 General anaesthesia causes a 1-3°C drop in core body temperature, which occurs in three phases:
@@ -118,7 +119,7 @@ Core temperature falls by 1-1.5°C in the first 30 minutes.
     * Reduction in SVR, with generalised vasodilation and increased skin blood flow  
     Heat redistribution is the major initial factor (rather than heat loss), as vasodilation leads to increased heat content of peripheries.
     * Impairs thermoregulatory vasoconstrictive responses  
-    Interthreshold range is widened to 4°C (up from 0.4°C) 
+    Inter-threshold range is widened to 4°C (up from 0.4°C) 
 * Gradual reduction  
 Further drop in core temperature of 1°C over following 2-3 hours.  
   * Due to heat loss exceeding heat production  

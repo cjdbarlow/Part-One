@@ -19,14 +19,14 @@ This is the **Armstrong limit**.
 * Fall in PaO<sub>2</sub> is compensated by increasing minute ventilation, which decreases PACO<sub>2</sub> and therefore increases PAO<sub>2</sub>
   * Limits of compensation are reached on 100% oxygen at 13,700m
 * Effective compensation is limited by the respiratory alkalosis, this is known as the **braking effect**:
-  * Peripheral chemoreceptors detect hypocapnoea
+  * Peripheral chemoreceptors detect hypocapnea
   * Central chemoreceptors detect alkalosis
 * The subsequent respiratory alkalosis generates a compensatory metabolic acidosis  
 This acidosis relaxes the braking effect and allows further hyperventilation, and is therefore am important part of acclimatisation.
 
 
 * There is an **initial left-shift** of the oxygen-haemoglobin dissociation curve due to alkalosis
-* This stimulates a comepensatory increase in 2,3-DPG to right-shift the curve and improve oxygen offloading at the tissues
+* This stimulates a compensatory increase in 2,3-DPG to right-shift the curve and improve oxygen offloading at the tissues
 
 
 <img src="resources\oxy-hb-curve-shifts.svg">

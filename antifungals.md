@@ -2,7 +2,7 @@
 
 Antimicrobial agents targeting eukaryotic and heterotrophic microbes. Can be divided by class into:
 * Azoles  
-Inhibit erosterol synthesis.
+Inhibit ergosterol synthesis.
 Subdivided into:
 	* Triazoles
 		* Fluconazole

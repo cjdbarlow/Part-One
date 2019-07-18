@@ -83,9 +83,9 @@ Displace other ligands from a binding site. Competitive antagonists can be:
     * Reversible  
     The effect can be overridden by increasing the dose of agonist.
     * Irreversible  
-    Drug cannot be overriden by increasing dose of agonist. Dose-response curve appears similar to that of the non-competitive antagonist.
+    Drug cannot be overridden by increasing dose of agonist. Dose-response curve appears similar to that of the non-competitive antagonist.
 * **Non-competitive antagonists**  
-Create a conformational change in the receptor. They cannot be overidden by increasing the dose of agonist.
+Create a conformational change in the receptor. They cannot be overridden by increasing the dose of agonist.
 
 
 <img src="resources\FA-with-nca-and-ca.svg">
@@ -94,7 +94,7 @@ Create a conformational change in the receptor. They cannot be overidden by incr
 ####Indirect Antagonist
 Indirect antagonists reduce the clinical effect of a drug, but do so via means other than receptor interaction. They include:
 * **Chemical antagonists**  
-Where the drug binds directly to another. Examples include protamine and heparin, and sugammadex and rocuronium.
+Where the drug binds directly to another. Examples include protamine and heparin, and sugammedex and rocuronium.
 * **Physiologic antagonists**  
 A countering effect is produced by agonism of other pathways.
 

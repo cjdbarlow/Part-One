@@ -18,7 +18,7 @@ This classification is notably incomplete, as some drugs (such as amiodarone) fi
 
 ##Class I
 * Na<sup>+</sup>-channel blockade inhibits action potential prolongation by blocking  **active and refractory** sodium channels in a **use-dependent fashion**
-* This inhibits tachyarrythmias whilst allowing normal conduction
+* This inhibits tachyarrhythmias whilst allowing normal conduction
 * Extent of block depends on the heart rate, membrane potential, and the subclass of drug
 * Sodium channel blockade **increases pacing threshold** and **defibrillation energy requirement**
 
@@ -45,7 +45,7 @@ This classification is notably incomplete, as some drugs (such as amiodarone) fi
 * This causes indiscriminate blockade and general reduction in excitability
 * Class Ic agents are used to suppress unidirectional or intermittent conduction pathways
 * As they markedly slow conduction velocity they **increase QRS duration**
-* Examples of Class Ic agents include **flecainaide**
+* Examples of Class Ic agents include **flecainide**
 
 <img src="resources\ventricular-ap-Ic.svg">
 
@@ -58,7 +58,7 @@ Normal β-adrenergic stimulation has a number of pro-arrhythmic effects:
 * Increased Ca<sup>2+</sup> stored in the sarcoplasmic reticulum, which may be spontaneously released causing a delayed-after-depolarisations
 * Reduced serum [K<sup>+</sup>]*
 
-β-blockers have an antiarrhythmic effect by antagonising these mechanisms. They are useful for treatment of arrhythmias occuring with sympathetic overactivation, such as post MI.
+β-blockers have an antiarrhythmic effect by antagonising these mechanisms. They are useful for treatment of arrhythmias occurring with sympathetic over-activation, such as post MI.
 
 <img src="resources\pacemaker-betablock.svg">
 
@@ -77,7 +77,7 @@ Due to the prolonged repolarisation, they will also cause a **long QT** (though 
 ##Class IV{#iv}
 Class IV drugs **inhibit L-type Ca<sup>2+</sup> channels**, inhibiting the slow inward calcium current, which:
 * Slows SA and AV nodal conduction  
-AV blockade slows transmission of supra-ventricular arrythmias.
+AV blockade slows transmission of supra-ventricular arrhythmias.
 * Reduces inotropy
 * Prevents after-depolarisations  
 This suppresses ectopy by reducing calcium leak from sarcoplasmic reticulum.

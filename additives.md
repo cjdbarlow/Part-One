@@ -30,7 +30,7 @@ Additives include:
             * Thrombophlebitis
         * Mannitol
             * Diuresis
-        * Soybeal oil
+        * Soybean oil
             * Pain on injection
             * Allergy
 
@@ -38,7 +38,7 @@ Additives include:
 * **Emulsion**  
 Formed when drops of a liquid are dispersed throughout another liquid in which it is immiscible. Emulsions are:
     * Unstable  
-    Emulsifers are used to enhance stability.
+    Emulsifiers are used to enhance stability.
     * Prone to contamination  
     Due to the water component.
     * Prone to rancidity  

@@ -1,6 +1,6 @@
-#Sugammadex
+#Sugammedex
 
-|Property|Sugammadex
+|Property|Sugammedex
 |--|--|
 |**Class**|Gamma cyclodextrin.
 |**Uses**| Reversal of neuromuscular block induced by rocuronium and vecuronium.
@@ -13,8 +13,8 @@
 |**Elimination**|Renal elimination of active drug and complex.
 |**Mechanism of Action**|Forms a complex with rocuronium and vecuronium, causing reversal of neuromuscular blockade.
 |**CVS**|Rarely may precipitate bradycardia - can result in cardiac arrest.
-|**Immune**|Analphylaxis.
-|**Other**|Interacts with OCP - treat as missed pill <br> Shortened duration of rocuronium and vecuronium when used within 24 hours of sugammadex administration. Onset is delayed up to 5 minutes, and duration shortened by 10-15 minutes. This period may be extended in renal failure.
+|**Immune**|Anaphylaxis.
+|**Other**|Interacts with OCP - treat as missed pill <br> Shortened duration of rocuronium and vecuronium when used within 24 hours of sugammedex administration. Onset is delayed up to 5 minutes, and duration shortened by 10-15 minutes. This period may be extended in renal failure.
 
 
 ---

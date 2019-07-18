@@ -16,7 +16,7 @@ Oxytocics are agents which increase the force of uterine contraction.
 |**CNS**|Headache, nausea, vomiting|Headache, nausea|Nausea, vomiting|Headache|
 |**Renal**|↓ UO due to ADH-like effects with prolonged infusions||||
 |**GU**|↑ Uterine tone (↑ frequency at low dose, tetanic contraction at high dose), foetal distress, lactation|↑ Uterine contraction frequency and tone|↑ Uterine contraction frequency and tone|↑ Uterine contraction frequency and tone, contraindicated in pelvic inflammatory disease|
-|**Other**|May be metabolised by oxytocinases in blood products if coadministered on the same line|Contraindicated in pre-eclampsia due to HTN|Deprecated by carboprost, increased body temperature|
+|**Other**|May be metabolised by oxytocinases in blood products if co-administered on the same line|Contraindicated in pre-eclampsia due to HTN|Deprecated by carboprost, increased body temperature|
 
 ---
 ##References

@@ -71,7 +71,7 @@ During ejection:
 ###Isovolumetric Relaxation
 When contraction is complete, the ventricles begin to relax. **Inertia** means that ejection continues for a short time.
 
-During isovolumentric relaxation:
+During isovolumetric relaxation:
 *  The **semilunar valves close**  
 This gives rise to the second heart sound, S<sub>2</sub>, and marks the beginning of isovolumetric relaxation.
     * This occurs when ventricular pressure falls below vascular pressure

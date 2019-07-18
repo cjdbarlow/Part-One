@@ -1,6 +1,6 @@
 #Prostanoids
 
-Prostanoids are a diverse family of eicosanoids (20-carbon molecules), produced from arachadonic acid, and include:
+Prostanoids are a diverse family of eicosanoids (20-carbon molecules), produced from arachidonic acid, and include:
 * Thromboxane
 * Prostacyclin
 * Prostaglandins
@@ -23,11 +23,6 @@ These undergo further metabolism to produce:
       * PGD<sub>2</sub>
 
 <img src="resources\pgsynth.svg">
-
-
-
-
-
 
 ##Effects
 
