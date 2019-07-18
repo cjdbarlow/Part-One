@@ -25,7 +25,7 @@ Interactions with other drugs and food.
 * First-pass metabolism
 
 **First-pass ** \(pre-systemic\) ** metabolism** is the extent to which drug concentration is reduced after its first passage through an organ, prior to reaching the systemic circulation. First pass metabolism is:
-* Typically used when referring to passage of orally-adminstered drugs through the liver  
+* Typically used when referring to passage of orally-administered drugs through the liver  
 May also refer to metabolism by the:
   * Lungs  
   First pass of intravenously injected drugs prior to entering the arterial side of the circulation, e.g. fentanyl.
@@ -153,7 +153,7 @@ Lignocaine has a more rapid epidural onset than bupivacaine as it has a pKa of 7
 
 * Variable absorption
   * Distal rectal absorption bypasses portal circulation
-  * Proximal rectal absorption does not and may result in hepaticfirst pass metabolism
+  * Proximal rectal absorption does not and may result in hepatic first pass metabolism
   * Small surface area for absorption
 
 

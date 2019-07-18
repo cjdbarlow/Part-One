@@ -115,7 +115,7 @@ Exocrine pancreatic secretions are produced by the **acinar** and **ductal cells
     * Consist of:
         * HCO<sub>3</sub><sup>-</sup>  
          To alkalinise gastric contents.
-             * Pancreatic bicarbonate production lowers venous pH, and neutralises the alkaline tide of the stomach.
+             * Pancreatic bicarbonate production lowers venous pH, and neutralise's the alkaline tide of the stomach.
         * Water
         * Enzymes
             * Trypsinogen   

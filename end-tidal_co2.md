@@ -81,7 +81,7 @@ This consists of:
     This is the period immediately before phase 2, where some gas with a PCO<sub>2</sub> of **0** is exhaled.
 2. **Alveolar exhalation**, where PCO<sub>2</sub> **rises rapidly**
 3. **Alveolar plateau**, where PCO<sub>2</sub> **flattens**  
-The highest-point of this curve is labelled E<sub>T</sub>CO<sub>2</sub>.
+The highest-point of this curve is labeled E<sub>T</sub>CO<sub>2</sub>.
 4. **Inspiration**, where PCO<sub>2</sub> returns to **0**
 
 ###E<sub>T</sub>CO<sub>2</sub> Waveform Variations{#var}
@@ -113,7 +113,7 @@ This may be from:
 * Increased production of CO<sub>2</sub>
     * Increased metabolic rate
         * Sepsis
-    * Torniquet release
+    * Tourniquet release
     * ROSC following arrest
 * Increased inspired 
     * Rebreathing (i.e. equipment/ventilator malfunction)

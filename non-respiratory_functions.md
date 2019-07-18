@@ -18,7 +18,7 @@ Consequently they are adapted to a number of non-respiratory functions, which in
  * Endocrine
 
 ##Filtration
-The entire cardiac output passes through the 7μm pulmonary capillaries, which act as an effective sieve for particulate matter. This function may be impaired by intra-cardiac shunting (e.g. PFO) or pre-capillary anastomses.
+The entire cardiac output passes through the 7μm pulmonary capillaries, which act as an effective sieve for particulate matter. This function may be impaired by intra-cardiac shunting (e.g. PFO) or pre-capillary anastomoses.
 
 Complementing this role, the lungs are able to clear thrombi more rapidly than other organs as pulmonary endothelium has a high concentration of plasmin activator and heparin.
 
@@ -32,21 +32,21 @@ The pulmonary endothelium has a variety of effects on drugs and endogenous hormo
 |**Arachidonic acid derivatives**|Arachidonic acid|Many prostaglandins|
 |**Other Drugs**||Lignocaine, fentanyl|
 
-##Blood Resevoir
+##Blood Reservoir
 The highly compliant pulmonary circulation contains a resevoir of ~500ml of blood which acts as a **volume reserve** for the LV.
 
 ##Defence
 The large surface area required for gas exchange leaves the lung vulnerable to invasion by airborn substances. This is attentuated by:
 * Mucous  
  A mucous layer protects large airways, as large (>8μm) particles impact into the mucous.   
-  * Mucous is exocytosed by goblet cells in reponse to noxious stimuli including chemical irritation as well as inflammatory and neuronal stimulation
+  * Mucous is exocytosed by goblet cells in response to noxious stimuli including chemical irritation as well as inflammatory and neuronal stimulation
   * The efficacy of the mucous-cilia system is enhanced by bronchoconstriction, which reduces flow velocity and causes particulate matter to settle
 * Cilia  
   Cilia are projections from epithelium which beat rhythmically at ~12Hz to propel mucous out of the airway at a rate of ~4mm.min<sup>-1</sup>.
    * Ciliary function can be impeded by pollutants, smoke, and infection
    * Ciliary function is stimulated by anaesthetic agents
 * Inhaled particles which reach the respiratory zone are not trapped by mucous, but instead phagocytosed by alveolar macrophages
-* Bronchoconstriction reduces flow velocity and causes particlate particles to settle in the mucous
+* Bronchoconstriction reduces flow velocity and causes particulate particles to settle in the mucous
 
 ##Drug Delivery
 The same properties that optimise the lung for gas exchange optimise it for delivery of inhaled agents. Drugs absorbed in the pulmonary circulation are:

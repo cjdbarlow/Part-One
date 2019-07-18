@@ -15,7 +15,7 @@ Metronidazole interrupts cellular metabolism by **preferential reduction**, capt
 |**Metabolic**|Significant rash, nausea, vomiting, headache, flushing
 |**GIT**|Nausea, vomiting, metallic taste
 |**Immunological**|Hypersensitivity reactions
-|**Interactions**|Disulfram-like reaction with ETOH
+|**Interactions**|Disulfiram-like reaction with ETOH
 
 ---
 ##References

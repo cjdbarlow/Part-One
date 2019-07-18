@@ -32,11 +32,11 @@ Adrenergic drugs:
 |**Elimination**|Pulmonary uptake of up to 25%. Urinary excretion of metabolites| Urinary excretion of metabolites|Renal of metabolites, t<sub>1/2</sub>β 2-3 hours||50% unchanged in urine 
 |**Mechanism of action** |α>>β|β>α at lower doses. At high doses α<sub>1</sub> effects dominate.|Direct α<sub>1</sub>|Direct and indirect (via ↑ NA release) α<sub>1</sub> agonism|↑ NA release (indirect α<sub>1</sub>) and direct α and β agonism|
 |**Respiratory**|↑ MV, bronchodilation|↑ MV, bronchodilation|||Bronchodilation
-|**CVS**|↑ SVR, ↑ Myocardial O<sub>2</sub> consumption, ↑ Coronary flow.|↑ Inotropy, ↑ HR, ↑ SVR and PVR, ↑ BP, ↑ CO, ↑ myocardial O<sub>2</sub> consumption. Coronary vasodilation. Arrythmogenic.|↑ SVR and BP, potential reflex bradycardia. Not arrythmogenic.|↑ SVR/PVR, reflex bradycardia. Indirect ↑ in coronary flow.|Direct and indirect (via NA release) ↑ in HR, BP, and CO. Arrhythmogenic.|
+|**CVS**|↑ SVR, ↑ Myocardial O<sub>2</sub> consumption, ↑ Coronary flow.|↑ Inotropy, ↑ HR, ↑ SVR and PVR, ↑ BP, ↑ CO, ↑ myocardial O<sub>2</sub> consumption. Coronary vasodilation. Arrhythmogenic.|↑ SVR and BP, potential reflex bradycardia. Not arrhythmogenic.|↑ SVR/PVR, reflex bradycardia. Indirect ↑ in coronary flow.|Direct and indirect (via NA release) ↑ in HR, BP, and CO. Arrhythmogenic.|
 |**CNS**||↑ Pain threshold, ↑ MAC||| ↑ MAC, mydriasis.
 |**MSK**|Necrosis with extravasation|Necrosis with extravasation||||
 |**Renal**|↓ RBF|↓ RBF and ↑ in sphincter tone|↓ RBF|↓ RBF|↓ RBF
-|**Metabolic**||↑ BMR, ↑ lipolysis, ↑ gluconeogenesis and BSL, ↑ Lactate. Initally ↑ insulin secretion (β), then ↓ (α)||||
+|**Metabolic**||↑ BMR, ↑ lipolysis, ↑ gluconeogenesis and BSL, ↑ Lactate. Initially ↑ insulin secretion (β), then ↓ (α)||||
 |**GU**| ↓ Uterine blood flow and foetal bradycardia||↓ Uterine blood flow |↓ Uterine blood flow||
 
 
@@ -49,10 +49,10 @@ Adrenergic drugs:
 |**Route**|IV|IV|IV|
 |**Presentation**|Clear, colourless solution with 200mg or 800mg in water |Clear solution at 1mg/ml| 250mg dobutamine in 20ml water|
 |**Metabolism**|t<sub>1/2</sub> 3 min. 25% of dose converted to noradrenaline. Remainder is metabolised by MAO and COMT similar to nor/adrenaline. |Hepatic by COMT|t<sub>1/2</sub> 2 min. COMT to inactive metabolites.|
-|**Elimination**|Renal, t<sub>1/2</sub>β 3 minutes|| Urinary excetion of unchanged drug and metabolites|
+|**Elimination**|Renal, t<sub>1/2</sub>β 3 minutes|| Urinary excretion of unchanged drug and metabolites|
 |**Mechanism of action** |D<sub>1</sub>, D<sub>2</sub>; β>α at lower dose|β<sub>1</sub>>β<sub>2</sub>|β<sub>1</sub>>>β<sub>2</sub>, D<sub>2</sub>|
 |**Respiratory**||Potent bronchodilation|Bronchodilation|
-|**CVS**|↑ Inotropy, ↑ HR, ↑ CO, coronary vasodilation. At high doses, ↑ SVR and PVR, ↑ VR.|↑ SVR, potential reflex bradycardia. Not arrythmogenic. | ↑ HR, CO, contractility, and automaticity. Β<sub>2</sub> effects may ↓ SVR and BP.
+|**CVS**|↑ Inotropy, ↑ HR, ↑ CO, coronary vasodilation. At high doses, ↑ SVR and PVR, ↑ VR.|↑ SVR, potential reflex bradycardia. Not arrhythmogenic. | ↑ HR, CO, contractility, and automaticity. Β<sub>2</sub> effects may ↓ SVR and BP.
 |**CNS**|Inhibits prolactin. Nausea.|Stimulant|Tremor|
 |**MSK**|Necrosis with extravasation|||
 |**Renal**|||↑ RBF and ↑ urinary output with no improvement in renal function|

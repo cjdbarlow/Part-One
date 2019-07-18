@@ -1,7 +1,7 @@
 #GABA Analogues
 
 Gabapentin and pregabalin:
-* Are both **structual analogues** of GABA
+* Are both **structural analogues** of GABA
 * Have no direct action on the GABA<sub>A</sub> receptor
 * **Act on the α<sub>2</sub>δ subunit of voltage gated Ca<sup>2+</sup> channels** in the CNS, inhibiting neurotransmitter release
 * May have some NMDA receptor activity

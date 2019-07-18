@@ -20,9 +20,9 @@ Local anaesthetic-like effect.
 |**Distribution**|25% protein bound. t<sub>1/2</sub>α 10-15 minutes|
 |**Metabolism**| Hepatic metabolism to active norketamine by CYP450 and then to inactive metabolites, t<sub>1/2</sub>β 2-4 hours|
 |**Elimination**|Renal elimination of inactive metabolites. Action of norketamine prolonged in renal failure.|
-|**Resp**|Bronchodilation, tachypnoea, relative preservation of laryngeal reflexes. Apnoea with rapid injection. Preserved central response to CO<sub>2</sub>.|
+|**Resp**|Bronchodilation, tachypnea, relative preservation of laryngeal reflexes. Apnoea with rapid injection. Preserved central response to CO<sub>2</sub>.|
 |**CVS**|↑ Sympathetic outflow: ↑ HR, ↑ BP, ↑ SVR, ↑ MVO<sub>2</sub>. Acts directly as a myocardial depressant - beware maximally stimulated patient. Depresses baroreceptor reflex.|
-|**CNS**|Dissociation, analgesia, emergence phenomena (hallucinations, delirium) reduced by concurrent BDZ administration (increasing risk with higher doses and rapid administration). <br><br>Produces dissociative anaesthesia within 90 seconds by dissociating thalmaocortical and limbic systems on EEG. Purposeful movements unrelated to stimulus may occur even during surgical anaesthesia.<br><br>↑ IOP.|
+|**CNS**|Dissociation, analgesia, emergence phenomena (hallucinations, delirium) reduced by concurrent BDZ administration (increasing risk with higher doses and rapid administration). <br><br>Produces dissociative anaesthesia within 90 seconds by dissociating thalamocortical and limbic systems on EEG. Purposeful movements unrelated to stimulus may occur even during surgical anaesthesia.<br><br>↑ IOP.|
 |**Renal**|Cystitis with long-term, high-dose use|
 |**GIT**|N/V|
 

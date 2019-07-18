@@ -162,7 +162,7 @@ Contractility improves at faster heart rates. This is because the myocardium doe
 Contractility increases as afterload increases.
 
 ###Measuring Contractility{#cont}
- * As with the other determinants of cardiac output, there has been some difficulty in developing measurable indicies for contractility
+ * As with the other determinants of cardiac output, there has been some difficulty in developing measurable indices for contractility
  * All measures of contractility are affected by preload or afterload to some extent
 
 
@@ -171,7 +171,7 @@ Contractility increases as afterload increases.
    * This index is **preload dependent** but **afterload independent**
    * Typically, the dP/dt<sub>max</sub> in isovolumetric ventricular contraction is used
    * A greater rate of rise indicates a more forceful contraction
-   * Measurement requires LV catheterisastion
+   * Measurement requires LV catheterisation
 
 
 * **End-Systolic Pressure-Volume Relationship**

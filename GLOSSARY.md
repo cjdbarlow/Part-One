@@ -166,7 +166,7 @@ Lean Body Mass
 Left Circumflex
 
 ##LH
-Lutenising Hormone
+Luteinising Hormone
 
 ##LVEDP
 Left Ventricular End-Diastolic Pressure

@@ -14,7 +14,7 @@ There are five stages of EBM:
 5. Evaluate the result
 
 ###Levels of Evidence
-Levels of evidence grade studies on liklihood of bias and internal validity. The NHMRC defines 6 levels of evidence, graded from I-IV (with three level III subtypes).
+Levels of evidence grade studies on likelihood of bias and internal validity. The NHMRC defines 6 levels of evidence, graded from I-IV (with three level III subtypes).
 
 *In general*:
 * Level I is evidence from a **systematic review** of RCTs
@@ -61,7 +61,7 @@ Mathematical technique of combining the results of different trials to derive a 
 4. [Heterogeneity Analysis]
 5. [Meta-analysis]
 5. Reliability of result determined  
-  i.e. Consistency accross studies, statistical significance, large effect size, biological plausibility.
+  i.e. Consistency across studies, statistical significance, large effect size, biological plausibility.
 6. Sensitivity analysis  
   Repeating the analysis with an alternative model, excluding borderline trials or outliers. If the result is unchanged, then the findings are **robust**.
 

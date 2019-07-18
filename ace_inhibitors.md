@@ -13,7 +13,7 @@ ACE inhibitors prevent the conversion of angiotensin I to angiotensin II by angi
  * **Hypertension**  
   * Particularly in insulin dependent diabetes with diabetic nephropathy
   * Less effective for this indication in the black population
-  * Contribute to post-operative hypertension and may be witheld perioperatively
+  * Contribute to post-operative hypertension and may be withheld perioperatively
  
  
  * **Cardiac failure**  

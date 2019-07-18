@@ -15,7 +15,7 @@ Drugs can act in four ways:
   * Allosteric modulation
 
                         
-* **Enzyme interaction  **  
+* **Enzyme interaction**  
   An enzyme is a biological catalyst, increasing the speed of reaction. Enzyme interaction can be:
   * Irreversible inhibition  
     * e.g. Aspirin, which irreversibly inhibits platelet thromboxane production.
@@ -25,7 +25,7 @@ Drugs can act in four ways:
   * Non-competitive antagonism
 
 
-* **Physicochemically**
+* **Physicochemical**
   * Osmotic
     * e.g. mannitol.
   * Acid-base

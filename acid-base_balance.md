@@ -19,6 +19,7 @@ Acids produced by the body can be:
   * The rate and extent of these reactions is dependent on ECF pH and ion concentrations, which gives the kidney control over ion concentrations
   * Urinary pH can fall as low as ~4.4, before the active transport of H<sup>+</sup> is inhibited
 
+
 ##Bicarbonate and the Kidney
 Buffer systems minimise changes in pH until the kidney can eliminate excess hydrogen.
 
@@ -64,7 +65,7 @@ Glutamine provides a mechanism for elimination of a large number of H<sup>+</sup
   * HCO<sub>3</sub><sup>-</sup> diffuses into blood, and the NH<sub>4</sub><sup>+</sup> is secreted into the tubule via the NH<sub>4</sub><sup>+</sup>-Na<sup>+</sup> antiporter and eliminated in urine  
   * The $$NH_3 + H^+ \Leftrightarrow NH_4$$ reaction has a pKa of 9.2 meaning:
     * Ammonia cannot act as an effective urinary buffer
-    * Ammonia is not a **titrateable acid**, as it will not release H<sup>+</sup> ions as urinary pH increases  
+    * Ammonia is not a **titratable acid**, as it will not release H<sup>+</sup> ions as urinary pH increases  
     This means filtered ammonia does not contribute to the lower limit of urinary pH (4.4), which is why it is so important in the renal correction of severe metabolic acidosis.
 
 ##Bound to Filtered Buffers

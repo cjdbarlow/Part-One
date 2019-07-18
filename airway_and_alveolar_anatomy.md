@@ -13,14 +13,14 @@ The upper airway consists of the:
 Breathing can be oral or nasal. Nasal breathing offers:
 * Good **humidification** and **filtration** of inhaled particles because the septum and turbinates have:
   * High mucosal surface area
-  * High muscosal blood flow
+  * High mucosal blood flow
   * Generate turbulent flow
 * High resistance to flow  
 At a **high minute ventilation**, oral breathing is favoured.
 
 ###Structures
 * **Pharyngeal dilator muscles**  
-Including glenioglossus and levator palati. Prevent pharnygeal collapse during negative-pressure ventilation and during sleep.
+Including genioglossus and levator palati. Prevent pharyngeal collapse during negative-pressure ventilation and during sleep.
 
 
 * **Larynx**  
@@ -48,7 +48,7 @@ The **first 16 divisions** constitute the **conducting zone**:
   *  **Trachea**  
     * Mean diameter of 1.8 cm and a length of 11cm
     * D-shaped cross section  
-    Curved cartilages anteriorly and longitudinal muscle (trachealis) posterioly. External pressure of 40cmH<sub>2</sub>O is sufficient to occlude the extrathoracic trachea.
+    Curved cartilages anteriorly and longitudinal muscle (trachealis) posteriorly. External pressure of 40cmH<sub>2</sub>O is sufficient to occlude the extrathoracic trachea.
     * Flow is typically turbulent in the trachea and large airways
   *  **Bronchi**
     * Comprise the first four divisions of the trachea

@@ -41,8 +41,8 @@ Enzyme found in biliary duct.
         * Males: 11-50 U.L<sup>-1</sup>
         * Females: 7-30 U.L<sup>-1</sup>
 * Bilirubin  
-Byproduct of haemaglobin metabolism. May be measured as total, or as conjugated and unconjugated bilirubin.
+Byproduct of haemoglobin metabolism. May be measured as total, or as conjugated and unconjugated bilirubin.
 
 ---
 ##References
-Diaz, A. [Outline the clinical laboratory assessment of liver function](https://primarysaqs.files.wordpress.com/2009/12/2010b16outline-the-clinical-laboratory-assessment-of-liver-function.pdf). Primary SAQs.
+1. Diaz, A. [Outline the clinical laboratory assessment of liver function](https://primarysaqs.files.wordpress.com/2009/12/2010b16outline-the-clinical-laboratory-assessment-of-liver-function.pdf). Primary SAQs.

@@ -18,7 +18,7 @@ Adaptive immunity may be:
 
 Components of the active immune system include:
 * **Cellular**  
-Predominantlny T lymphocytes
+Predominantly T lymphocytes
 * **Humoral**  
 Including complement and antibody.
 
@@ -26,7 +26,7 @@ Including complement and antibody.
 Lymphocytes are divided into two types:
 * **B lymphocytes**  
 Are produced in the bone marrow, and migrate to lymphoid (nodes, spleen, MALT) where they are renamed **plasma cells** and produce antibody. Functions include:
-    * Production of antiody against specific antigens
+    * Production of antibody against specific antigens
     * Presentation of antigen to T-cells to active them
     * Proliferation to form memory cells
 
@@ -74,7 +74,7 @@ APCs include macrophages and dendritic cells.
     * B cells rapidly proliferate
         * Proportion become memory cells
         * Proportion become **plasma cells**
-            * Plasma cells produce antibody at a rate of 2000 molecules per *second*, which overrides normal cellular homestasis, causing death within a week.
+            * Plasma cells produce antibody at a rate of 2000 molecules per *second*, which overrides normal cellular homeostasis, causing death within a week.
             * Antibody produced in a primary immune response is IgM, with some IgG produced later on.
 
 ###Secondary Immune Response

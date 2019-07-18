@@ -26,22 +26,19 @@ Peripheral chemoreceptors are stimulated by:
 * **Low PaO<sub>2</sub>**  
   Peripheral chemoreceptors are stimulated by **low O<sub>2</sub> tension**  
   <img src="resources\PaO2-vs-MV.svg">
-
-
 * **High PaCO<sub>2</sub>**  
   Peripheral receptors have a **rapid** (~1-3s) but **weaker** (~20% of response) to changes in CO<sub>2</sub>, compared to central chemoreceptors  
 <img src="resources\paco2-vs-MV.svg">
-
 * **Acidaemia**  
   (Carotid bodies only)
-* **Hypotension**  
+* **Hypotension** 
 
 ###Central Chemoreceptors
 * Central chemoreceptors are located on the **ventral medulla**, and are **stimulated** by a **fall** in **CSF pH**
   * H<sup>+</sup> and HCO<sub>3</sub><sup>-</sup> are ionised, and cannot cross the BBB by diffusion
   * Because of this, central chemoreceptors **respond indirectly** to **changes in arterial PaCO<sub>2</sub>**
     * Carbon dioxide is lipid soluble and freely diffuses into CSF
-    * In CSF, carbon dioxide combines with water (catalysed by carbonic anydrase) to form H<sup>+</sup> and HCO<sub>3</sub><sup>-</sup>
+    * In CSF, carbon dioxide combines with water (catalysed by carbonic anhydrase) to form H<sup>+</sup> and HCO<sub>3</sub><sup>-</sup>
 
 
 * This gives the central chemoreceptors a number of special properties:
@@ -82,7 +79,7 @@ The respiratory centre is located in the **medulla** and the **pons**. It consis
 * **Ventral Respiratory Group (VRG)**  
   Controls the intercostal muscles, and so is involved in inspiration and expiration.
 * **Apneustic Centre**  
-  Modulates DRG function to prevent overexpansion. Loss of this area causes **abneusis** - long, deep breaths.
+  Modulates DRG function to prevent over-expansion. Loss of this area causes **apneusis** - long, deep breaths.
 * **Pneumotaxic Centre**  
  Also modulates the DRG, increasing RR and decreasing V<sub>T</sub> to maintain MV.
 

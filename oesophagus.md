@@ -21,17 +21,17 @@ Competency of the LoS is required to prevent reflux
             * Anatomical
                 * Age  
                 Sphincter tone is decreased in neonates and the elderly.
-                * Diaphgram  
+                * Diaphragm  
                 An external sphincter is formed by the diaphragmatic crura, and exerts a **pinch-cock** action on the oesophagus.
                 * Stomach  
                 A fold in the stomach wall just distal to the GOJ creates a **flap valve**, which occludes the GOJ when gastric pressure rises.
-                * Oeosophagus  
+                * Oesophagus  
                 The oesophagus enters the stomach at an oblique angle, limiting retrograde flow.
             * Hormonal
                 * Gastrin, motilin, α-agonism **increase** LoS tone
                 * Progesterone, glucagon, vasoactive intestinal peptide (VIP) **decrease** LoS tone
             * Drugs  
-                * ETOH, IV and volatile anaestetic agents, and anticholinergics **decrease** LoS tone
+                * ETOH, IV and volatile anaesthetic agents, and anticholinergics **decrease** LoS tone
                 * Suxamethonium, metoclopramide, and anticholinesterases **increase** LoS tone
         * Changes in gastric pressure
             * Raised intraabdominal pressure

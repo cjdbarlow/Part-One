@@ -1,7 +1,7 @@
 #Isomerism {#id}
 >Describe isomerism and provide examples
 
-**Isomerism** describes groups of compounds which have the same chemical formula but different chemical stuctures. Isomerism is revelant because different isomers may have different enzymatic and receptor affinities, altering their pharmacokinetic and pharmacodynamic properties.
+**Isomerism** describes groups of compounds which have the same chemical formula but different chemical structures. Isomerism is relevant because different isomers may have different enzymatic and receptor affinities, altering their pharmacokinetic and pharmacodynamic properties.
 
 ##Types of Isomerism
 Isomers can be divided into:
@@ -14,13 +14,13 @@ Identical chemical formula but different arrangement of atoms. Structural isomer
         * Position isomer  
         The carbon skeleton is static, but the position of functional groups varies.
             * e.g. Isoflurane vs. enflurane
-    * **Dynamic** (also known as tautomere)  
+    * **Dynamic** (also known as tautomer)  
     The molecule exists in a different molecular structures depending on the environment.
         * e.g. Midazolam has pH dependent imidazole ring opening. When the pH is less than 4 the ring remains open, maintaining water solubility. Midazolam is supplied at pH of 3.5, and so is water soluble on injection but (due to its pKa of 6.5) becomes 89% unionised at physiological pH therefore able to cross lipid membranes.
 
 
 * **Stereoisomers**  
-Atoms are connected in the same order in each isomer, but different orientation of functional groups. Stereoisomers are **not-superimposable**, meaning the different isomers can't be rotated so that they look the same. Stereoisomers are divided into:
+Atoms are connected in the same order in each isomer, but different orientation of functional groups. Stereoisomers are **not super-imposable**, meaning the different isomers can't be rotated so that they look the same. Stereoisomers are divided into:
     * **Geometric Isomers**  
     Have a chemical structure (e.g. a carbon-carbon double-bond) prevents free rotation of groups, so different locations of chemical groups will create an isomer. Geometric isomers are known as **cis-** or **trans-** depending on whether the subgroups are on the same or opposite sides (respectively) of the chemical structure.
         * e.g. Atracurium
@@ -54,7 +54,7 @@ Drugs can be provided as:
 A **racemic** solution is one which where the different enantiomers are present in equal proportions.
 
 * **Enantiopure preparations**  
-A drug produced with a single isomer, which may be **more effiacious** or **less toxic** (and definitely more expensive) than the racemic preparation.
+A drug produced with a single isomer, which may be **more efficacious** or **less toxic** (and definitely more expensive) than the racemic preparation.
 
 
 ---

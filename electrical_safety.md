@@ -3,7 +3,7 @@
 > Understand the concepts of patient safety as it applies to monitoring involving electrical devices
 
 ##Electrical Principles
-* **Charge** is the property of a subatomic particle which causes it to experience a force when close to other charged particules  
+* **Charge** is the property of a subatomic particle which causes it to experience a force when close to other charged particles  
 Charge is measured in coulombs (C).
 
 * **Current** is the flow of electrons through a conductor  
@@ -23,7 +23,7 @@ Resistance is measured in ohms (Ω).
 
 
 * **Capacitance** is the ability of an object to store electrical charge  
-Measured in Fards (F), where one farad is when one volt across the capacitor stores one coulomb of charge.
+Measured in Farads (F), where one farad is when one volt across the capacitor stores one coulomb of charge.
     * A capacitor is an electrical component consisting of two conductors separated by an insulator (called a dielectric)
     * When a **direct current** flows, electrons (a negative charge) build up on one of these conductors (called a plate), whilst an electron deficit (positive charge) occurs on the other plate
         * Current will flow until the build up of charge is equal to the voltage of the power source
@@ -51,7 +51,7 @@ Likelihood is a function of:
 Function of current density. Burns typically occur at the entry and exit point as this is where current density is highest.
 
 * **Tetanic Contraction**  
-Flexors are stronger than extensors, which may maintain grip on live wire. Death may result from either VF or asphyxiation from sustained respiratory muslce contraction.
+Flexors are stronger than extensors, which may maintain grip on live wire. Death may result from either VF or asphyxiation from sustained respiratory muscle contraction.
 
 
 ###Electrical Shock
@@ -82,7 +82,7 @@ Other detrimental effects seen at lower currents include:
 |50|Skeletal muscle paralysis & respiratory arrest|
 
 
-##Principles of Electical Safety
+##Principles of Electrical Safety
 Power points contain three wires:
 * Active  
 240V. Measuring voltage for AC current is not intuitive, as the voltage will be negative half the time. The **root mean square** (RMS) is used instead - each value for the voltage is squared (giving a positive number), and then divided by the number of samples to give an average.
@@ -91,7 +91,7 @@ Power points contain three wires:
 * Earth  
 Direct pathway into ground.
 
-An electrical circuit is completed between an appliance and the powerstation by returning current to the station via the earth. This is an **earth referenced power supply**.
+An electrical circuit is completed between an appliance and the power station by returning current to the station via the earth. This is an **earth referenced power supply**.
 
 ###Electrical Dangers
 * Active wire shorts to equipment casing

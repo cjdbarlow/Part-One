@@ -24,7 +24,7 @@ Swallowing is divided into three phases:
     * Oesophageal peristalsis
 
 Impairment of any of these processes increases risk of aspiration:
-* Obundation  
+* Obtundation  
 Reduced cough reflex.
 * Muscular weakness
 * Impaired medullary coordination

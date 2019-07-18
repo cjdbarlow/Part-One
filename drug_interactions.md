@@ -33,7 +33,7 @@ Distribution may be affected by:
 * Displacement from tissue binding sites
   This typically occurs due to alteration of metabolic capacity of one drug by the other.
 * Chelation of drug from tissues  
-  Chelting agents bind toxic elements and prevent tissue damage
+  Chelating agents bind toxic elements and prevent tissue damage
 
 >Phenytoin is usually highly (90%) protein bound. A reduction in protein binding to 80% will double the free phenytoin level. For drugs with first-order kinetics, metabolism will increase proportionally however phenytoin rapidly saturates the enzyme system, leading to zero-order kinetics and a high plasma level.
 

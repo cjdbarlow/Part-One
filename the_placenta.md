@@ -12,7 +12,7 @@ The placenta has three broad functions:
 ###Nutrient and Waste Exchange Functions
 The primary purpose of the placenta is **diffusion of nutrients and oxygen**, and **removal of waste**.
 
-As with the lung, diffusion is dependent on Ficks Principle, i.e.:
+As with the lung, diffusion is dependent on Fick's Principle, i.e.:
 
 $$\dot{V} = {A \times D \times \Delta P \over T }$$, where:  
 * $$\dot{V}$$ = Flow of substance across the membrane
@@ -74,7 +74,7 @@ Synthesises:
 - Progesterone
 
 ##Development
-The placenta develops simulanteously from foetus and mother:
+The placenta develops simultaneously from foetus and mother:
 * From the uterine wall, the mother produces **blood sinuses** around the trophoblastic cords
   * These  in turn send out **placental villi**
 * This creates a sinus of maternal blood invaginated by multiple foetal villi

@@ -7,7 +7,7 @@
 ##Receptor Types
 A receptor is a protein, usually in the cellular membrane, to which a ligand may bind to generate a response.
 
-![Receptor types and methods of signalling. Used without permission from icuprimaryprep.com](/resources/receptors.png)[^1]
+![Receptor types and methods of signaling. Used without permission from icuprimaryprep.com](/resources/receptors.png)[^1]
 
 * **Intracellular** receptors  
 May be either **cytoplasmic** or **intra-nuclear**.
@@ -22,7 +22,7 @@ Are activated by a ligand and cause enzymatic activity on the intracellular side
   Where two proteins join, or diamerise, on binding of a ligand.
 
 
-* **Ion-channel** receptors (ionotropic)  
+* **Ion-channel** receptors (inotropic)  
 Create a channel through the membrane that allows electrolytes to flow down their electrical and concentration gradients. They can be either:
   * **Ligand-gated** channels  
   Undergo conformational change when a ligand is bound. There are three important families of ligand channels:
@@ -71,7 +71,7 @@ Create a channel through the membrane that allows electrolytes to flow down thei
 * **G-protein** coupled (metabotropic) receptors:  
 G-proteins are a group of heterotrimeric (containing three units; α, β, γ) proteins which bind GDP. When stimulated, the GDP is replaced by GTP and the α-GTP subunit dissociates to activate or inhibit an effector protein. The effect depends on the type of α-subunit:
   * G<sub>**s**</sub> proteins  
-  Are **stimulatory**. These
+  Are **stimulatorly**. These
     * Increase cAMP, leading to a biochemical effect
   * G<sub>**i**</sub> proteins  
   Are **inhibitory**. These:
@@ -83,7 +83,7 @@ G-proteins are a group of heterotrimeric (containing three units; α, β, γ) pr
       * Inositol triphosphate (IP<sub>3</sub>)  
       Stimulates Ca<sup>2+</sup> from the SR, affecting enzymatic function or causing membrane depolarisation.
       * Diacylglycerol (DAG)    
-      Activates protein kinase C, which has cell-specfic effects.
+      Activates protein kinase C, which has cell-specific effects.
 * Activate intracellular **second messenger proteins** when stimulated  
 Second messenger systems:
   * Result in both transmission and **amplification** of a stimulus, as a single activated receptor can activate multiple proteins and each activated protein may activate several other intermediate proteins

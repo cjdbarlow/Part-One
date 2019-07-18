@@ -7,7 +7,7 @@ Central neuraxial blockade refers to blockade of fibres in the spinal cord by ad
 An increasing level of block will lead to greater effects:
 * Thoracic  
     * Impediment to active expiration and expectoration due to blockade of intercostals and abdominal wall musculature
-    * Loss of vital capcity
+    * Loss of vital capacity
     * Loss of some accessory muscle use
 * Cervical  
 Impediment due to diaphragmatic blockade.
@@ -30,7 +30,7 @@ Inhibition of vasomotor centre with profound fall in CVS parameters.
 ##CNS Responses
 An increasing level of block will lead to greater effects:
 * Cervical  
-Horners syndrome (miosis, anhydrosis, ptosis) due to loss of sympathetic trunks.
+Horner's syndrome (miosis, anhidrosis, ptosis) due to loss of sympathetic trunks.
 * Cranial nerve
 Pupillary dilation due to CN III blockade.
 * Brainstem and Cerebral Cortex 

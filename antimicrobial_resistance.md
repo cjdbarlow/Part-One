@@ -25,7 +25,7 @@ Specific mechanisms of resistance (which may be genetic alterations or changes i
   Increased efficiency or expression of efflux pumps. Can be:
     * Removed from cell
     * Trapped between cell wall layers  
-    e.g. glycopeptide resistance in VRSA.
+    e.g. Glycopeptide resistance in VRSA.
 
 
 * **Alter antibiotic target site**

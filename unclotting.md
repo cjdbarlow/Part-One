@@ -9,11 +9,11 @@ Intact endothelium and the glycocalyx prevent clotting in a number of ways:
     * High blood flow  
     Especially where flow is turbulent (large arteries).
     * Maximise laminar flow  
-    Glycocalyx smoothes flow.
+    Glycocalyx smooths flow.
 
 
 * **Inhibition of platelet adhesion and activation**  
-NO, prostacyclin, and ectonucleotides (which degrade ADP) inhibit platelet activation.
+NO, prostacyclin, and ectonucleotidases  (which degrade ADP) inhibit platelet activation.
 
 
 * **Membrane-bound anticoagulant proteins**  

@@ -3,10 +3,10 @@
 
 The chest wall is formed by the ribs and intercostal muscles:
 * **Ribs**  
-Slope anteroinferiorly, and are connected by the external, internal, and innermost intercostal muscles.
+Slope antero-inferiorly, and are connected by the external, internal, and innermost intercostal muscles.
 * **Intercostal muscles**  
-  * External intercostals slope anteroinferiorly
-  * Internal and innermost intercostals slope inferoposteriory
+  * External intercostals slope antero-inferiorly
+  * Internal and innermost intercostals slope infero-posteriorly
 * **Diaphragm**  
 Complex dome-shaped membranous structure, consisting of a central tendon and peripheral muscles
   * Performs the majority of inspiratory work of breathing
@@ -24,9 +24,9 @@ Complex dome-shaped membranous structure, consisting of a central tendon and per
 
 ##Inspiration
 * During **inspiration**, the **diaphragm** and **external intercostal** muscles **contract**
-  * Diaphragm pushes the intrabdominal contents down, increasing thoracic volume and generating a negative intrathoracic pressure
+  * Diaphragm pushes the intraabdominal contents down, increasing thoracic volume and generating a negative intrathoracic pressure
     * Diaphragm is supplied by the phrenic nerves from C3/4/5. 
-  * External intercostals pull the ribs anterosuperiorly, which increases the cross-sectional area of the chest, further increasing thoracic volume (and negative pressure)
+  * External intercostals pull the ribs antero-superiorly, which increases the cross-sectional area of the chest, further increasing thoracic volume (and negative pressure)
     * Intercostal muscles are supplied by intercostal nerves from the same spinal level
     * Paralysis of the external intercostals does not have a dramatic effect on inspiratory function provided the diaphragm is intact
 
@@ -36,7 +36,7 @@ Complex dome-shaped membranous structure, consisting of a central tendon and per
 ##Expiration
 * Expiration is passive during quiet breathing as elastic recoil of the lung will return them to FRC
 * When minute ventilation is high, expiration becomes an an active process:
-  * **Abdominal wall** muscles (rectus abdominis, internal oblique, external oblique, transversus abdominis) contract, raising intrabdominal pressure and forcing the diaphragm up
+  * **Abdominal wall** muscles (rectus abdominis, internal oblique, external oblique, transversus abdominis) contract, raising intraabdominal pressure and forcing the diaphragm up
   * **Internal** and **innermost** intercostals contract, pulling the ribs **downwards** and **inwards**, further decreasing thoracic volume
 
 
@@ -45,7 +45,7 @@ Complex dome-shaped membranous structure, consisting of a central tendon and per
 
 * Paralysis of the abdominal wall muscles (e.g. spinal injury) has significant affect on respiratory mechanics:
   * In the initial phases of injury, spinal shock results in a flaccid paralysis of the abdominal wall
-    * Intrabdominal pressure is low, and so the diaphragm moves inferiorly  
+    * Intraabdominal pressure is low, and so the diaphragm moves inferiorly  
     This results in a higher FRC but limits tidal volumes, as contraction of the diaphragm only increase thoracic volume by a small fraction.
     * Nursing in a supine position causes the abdominal contents to push the diaphragm superiorly, causing:
       * Lower FRC

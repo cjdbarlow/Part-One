@@ -18,7 +18,7 @@ Amino group is transferred by aminotransferases to another amino acid or a ketoa
 ---
 ##Footnotes
 Ammonia can also be produced in the kidney by the deamination of glutamate in the kidney. In this instance:
-* It is eliminated directly in urine as ammoniium
+* It is eliminated directly in urine as ammonium
 * Does not enter the urea cycle
 
 --

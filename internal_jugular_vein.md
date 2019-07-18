@@ -6,7 +6,7 @@ The internal jugular vein:
 This is a dilatation formed by the confluence of the inferior petrosal sinus and the sigmoid sinus.
 * Exits the skull via the **jugular foramen**
 * Descends laterally to the internal carotid (and later the common carotid) in the **carotid sheath**
-* Teminates behind the sternal end of the clavicle, where it joins with the **subclavian vein** to form the **brachiocephalic vein**
+* Terminates behind the sternal end of the clavicle, where it joins with the **subclavian vein** to form the **brachiocephalic vein**
 
 ##Borders
 * Anteriorly by SCM

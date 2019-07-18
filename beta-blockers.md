@@ -1,6 +1,6 @@
 # Beta-Blockers
 
-β-blockers are competitive (often highly selective) antagonists of β-adrenoreceptors. They are subclassified into into selective and non-selective agents:
+β-blockers are competitive (often highly selective) antagonists of β-adrenoreceptors. They are sub-classified into into selective and non-selective agents:
 * Selective (β<sub>1</sub> antagonism) (BEAM)
     * Bisoprolol
     * Esmolol
@@ -12,13 +12,13 @@
     * Timolol
 * Non-selective (β & α antagonism)
     * Carvedilol
-    * Labetaolol
+    * Labetalol
 
 
 ##Indications
 * Cardio
     * Angina
-    * Arrythmia
+    * Arhythmia
         * Rate-control in AF
         * Paroxysmal SVT
         * Sinus tachycardia from ↑ catecholamines
@@ -54,14 +54,14 @@
 ##Comparison of Beta Blockers
 |Property|Esmolol|Metoprolol|Atenolol|Propranolol|Labetalol|
 |--|--|
-|**Class**|Cardioselective|Cardioselective|Cardioselective|β non-selective|Nonselective β & selective α<sub>1</sub> <br> Ratio of β:α antagonism is 3:1 after PO and 7:1 after IV administration|
-|**Uses**|Short-term treatment of tachyarrythmia and HTN|MI, HTN, migraine, thyrotoxicosis|HTN, angina, tachyarrhythmias, acute MI|HTN, Angina, dysrrythmia, essential tremor, anxiety HOCM, phaeochromocytoma, migraine, oesophageal varicies|HTN, MI|
+|**Class**|Cardioselective|Cardioselective|Cardioselective|β non-selective|Non-selective β & selective α<sub>1</sub> <br> Ratio of β:α antagonism is 3:1 after PO and 7:1 after IV administration|
+|**Uses**|Short-term treatment of tachyarrhythmia and HTN|MI, HTN, migraine, thyrotoxicosis|HTN, angina, tachyarrhythmias, acute MI|HTN, Angina, dysrhythmia, essential tremor, anxiety HOCM, phaeochromocytoma, migraine, oesophageal varices|HTN, MI|
 |**Presentation**|Clear, colourless solution|Clear, colourless solution, 50mg Tablet.|25/50/100mg tablets, syrup, colourless solution.|Tablets and solution at 1mg.ml<sup>-1</sup>|Tablets and solution at 5mg.ml<sup>-1</sup>
 |**Route of Administration**|IV|PO/IV|PO/IV|PO/IV|PO/IV|
 |**Dosing**|50-200μg.kg<sup>-1</sup>.min<sup>-1</sup>|IV: 1mg boluses PO: 12.5-100mg BD|PO: 50-100mg daily IV: 2.5mg IV up to 10mg|PO: 10-100mg BD/TDS IV: 1mg boluses titrated to response|PO: 100-800mg BD<br> IV: 10-20mg IV bolus, followed by 20-80mg Q30min up to 300mg. Alternatively by infusion at 1-2mg.min<sup>-1</sup>|
 |**Absorption**|IV only|50% bioavailability, improves with regular use|45% PO bioavailability|30% bioavailability|Highly variable bioavailability: 10-80%|
 |**Distribution**|60% protein bound|20% protein bound. Lipid soluble|5% protein bound|95% protein bound|50% protein bound|
-|**Metabolism**|RBC esterases to an inactive metabolite and methyl alcohol. t<sub>1/2</sub> of 10 minutes|Hepatic with genetic variability in t<sub>1/2</sub> of active metabolites|Minimal metabolism - dose reduce in renal failure|Hepatic to active and inactive metabolites|Considerabe hepatic first pass metabolism with inactive metabolites|
+|**Metabolism**|RBC esterases to an inactive metabolite and methyl alcohol. t<sub>1/2</sub> of 10 minutes|Hepatic with genetic variability in t<sub>1/2</sub> of active metabolites|Minimal metabolism - dose reduce in renal failure|Hepatic to active and inactive metabolites|Considerable hepatic first pass metabolism with inactive metabolites|
 |**Elimination**|||Renal elimination of active drug|Renal elimination of metabolites|Renal elimination of inactive metabolites|
 |**CVS**|Venous irritant||||↓ SVR, ↓ BP. Does not tend to ↓ HR or ↓ CO when given acutely.|
 |**CNS**|||||Orthostatic dizziness|

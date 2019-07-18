@@ -22,11 +22,11 @@ Drugs can be:
       * Substances less than 7,000 Da are freely filtered
       * Substances greater than 70,000 Da are essentially impermeable
   * **Hydrophilic/lipophobic**  
-      Lipophilic drugs may be filtered at the glomerus but will be freely reabsorbed during their passage down the tubule, such that only trivial amounts are eliminated in urine.
+      Lipophilic drugs may be filtered at the glomerulus but will be freely reabsorbed during their passage down the tubule, such that only trivial amounts are eliminated in urine.
 * Secreted in the tubules
     * **Active** process allows secretion **against concentration gradients**
     * Separate mechanisms for acidic and alkaline drugs
-        * Saturtable process  
+        * Saturatable process  
         Saturation may occur of a basic transporter whilst still allowing excretion of acidic drugs, and vice versa.
 * Reabsorbed in the tubules  
 **Passive diffusion** down a concentration gradient.

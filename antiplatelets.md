@@ -11,7 +11,7 @@ Antiplatelet agents can be classified by which stage of platelet function they a
     * Prostacyclins  
     e.g. Epoprostenol.
     * Phosphodiesterase inhibition  
-    e.g. Dipyridiamole.
+    e.g. Dipyridamole.
     * COX inhibitors  
     Prevent thromboxane A2 production, e.g. aspirin.
 * Aggregation
@@ -23,7 +23,7 @@ Antiplatelet agents can be classified by which stage of platelet function they a
 ##Comparison of Common Antiplatelet Agents
 |Property|Clopidogrel|Dipyridamole|Tirofiban
 |--|--|
-|**Class**|ADP antagonist|Phosphodisterase inhibitor|GP IIb/IIa antagonisits
+|**Class**|ADP antagonist|Phosphodiesterase inhibitor|GP IIb/IIa antagonists
 |**Uses**|PVD, STEMI, NSTEMI, stent prophylaxis|CVA|UA, NSTEMI
 |**Route of Administration**|PO only|PO/IV|IV only
 |**Mechanism of Action**|Irreversibly prevents ADP from binding to its receptor on the platelet, preventing activation of the IIb/IIIa receptor|Inhibits platelet adhesion to walls, potentiates prostacyclin activity and increases platelet cAMP, ↓ Ca<sup>2+</sup> and inhibiting platelet aggregation and deformation. Also acts as a coronary vasodilator.|Reversible antagonism of IIb/IIIa receptor, preventing platelet aggregation
@@ -35,7 +35,7 @@ Antiplatelet agents can be classified by which stage of platelet function they a
 |**CVS**||Vasodilatation may drop CPP in AS and recent MI|Coronary artery dissection
 |**GIT**|Mucosal irritation|||
 |**Haeme**|Haemorrhage|Thrombocytopaenia and haemorrhage|Haemorrhage
-|**Other**|Many pharmacokinetic interactions, including genetic variability. Previously thought to kinetically interact with omeprazole - more recently disproven.||||
+|**Other**|Many pharmacokinetic interactions, including genetic variability. Previously thought to kinetically interact with omeprazole - more recently disproved.||||
 
 ---
 ##References

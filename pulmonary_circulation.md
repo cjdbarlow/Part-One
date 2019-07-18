@@ -31,7 +31,7 @@ Conversely, the pulmonary circulation must:
 * **Minimise extravasation** of fluid  
     * As per Starlings Law, fluid movement out of the capillary is given by the difference in hydrostatic gradients and oncotic gradients
     * The net oncotic gradient is small (but favours reabsorption), however the pulmonary interstitium has **no hydrostatic pressure**
-    * Increased pulmonary capillary presure therefore causes extravasation of large volumes of fluid
+    * Increased pulmonary capillary pressure therefore causes extravasation of large volumes of fluid
 
 
 * Consequently, pulmonary vessels are thin walled and contain minimal smooth muscle

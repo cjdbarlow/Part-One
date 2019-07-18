@@ -1,6 +1,6 @@
 # Amiodarone
 
-Amiodarone is an antiarrythmic agent with a complex mechanism of action and many effects.
+Amiodarone is an antiarrhythmic agent with a complex mechanism of action and many effects.
 * K<sup>+</sup> channel blockade in cardiac myocytes, inhibiting the slow outward current and slowing repolarisation (Class III)
 * β-blocker-like activity on SA and AV nodes, decreasing automaticity and slowing nodal conduction (Class II)
 * Ca<sup>2+</sup> channel blocker-like activity on L-type Ca<sup>2+</sup> channels, decreasing the slow inward Ca<sup>2+</sup> current, increasing depolarisation time and decreasing nodal conduction (Class IV)
@@ -31,6 +31,7 @@ A **mnemonic** for some of the rarer effects is **BITCH**:
 * **T**hyroid
 * **C**orneal
 * **H**epatic
+
 ---
 ##References
 1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014. Peck and hill

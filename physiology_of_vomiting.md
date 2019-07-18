@@ -1,7 +1,7 @@
 #Physiology of Vomiting
 > Describe the control of gastrointestinal motility, including sphincter function
 
-Vomiting is the active, forceful expulsion of gastric contents from the stomach. It is different from regurgiation which is a passive process.
+Vomiting is the active, forceful expulsion of gastric contents from the stomach. It is different from regurgitation which is a passive process.
 
 It is a mechanism to expel toxic substances from the GIT.
 

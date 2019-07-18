@@ -66,14 +66,14 @@ Method chosen depends desired effect:
 * Small molecules (<500 Da) and electrolytes can be removed by filtration or dialysis
 * Medium-sized molecules (500-5000 Da) are best removed by filtration
 * Low molecular weight proteins (5000-50000 Da) are removed by filtration  
-This includes removal of inflammatory proteins, which may be benficial in sepsis.
+This includes removal of inflammatory proteins, which may be beneficial in sepsis.
 * Water is best removed by filtration
 
 ##Pharmacokinetics of RRT
 Pharmacokinetics are unpredictable, but are broadly affected by:
 * **Drug factors**
   * **Free drug in plasma**  
-  Drugs with a small proportion of free drug in plasma are (unsuprisingly) poorly removed by RRT (but **may be removed via plasmapheresis**). These include:
+  Drugs with a small proportion of free drug in plasma are (unsurprisingly) poorly removed by RRT (but **may be removed via plasmapheresis**). These include:
     * Highly (> 80%) protein bound substances  
     Examples included phenytoin, warfarin, and many antibiotics.
       * Not that this **may not apply in overdose**  

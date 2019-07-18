@@ -18,7 +18,7 @@ Composes the remaining 1/3<sup>rd</sup> of total body water, and is further divi
 	Composes ~20% of ECF. This refers solely to plasma volume (as the volume of blood from cellular components is ICF). The ICF is:
 		* Vital for transporting nutrients, waste, and chemical messengers between the plasma and cells
 	* Transcellular fluid  
-	Composes ~7% of ECF, and describes the volume of CSF, urine, synovial fluid, gastric secretions, and aqueous humour.
+	Composes ~7% of ECF, and describes the volume of CSF, urine, synovial fluid, gastric secretions, and aqueous humor.
 	* Interstitial fluid  
 	Composes the bulk of ECF volume, and describes the fluid that occupies the volume between cells.
 
@@ -42,11 +42,11 @@ All methods rely on the indicator-dilution method:
 
 Indicators used for calculation of:
 * Plasma volume  
-A colloid that will be retained in the vascular compartment; e.g. radio-labelled albumin.
+A colloid that will be retained in the vascular compartment; e.g. radio-labeled albumin.
 * ECF volume  
-A substance which can enter the interstitium but not cells; e.g. thiosulphate.
+A substance which can enter the interstitium but not cells; e.g. thiosulfate.
 * Total body water  
-A substance which can enter all compartments frelly; e.g. heavy water ($$^2H_2O$$).
+A substance which can enter all compartments freely; e.g. heavy water ($$^2H_2O$$).
 * ICF volume  
 Can be measured by the difference between calculated ECF volume and TVW.
 

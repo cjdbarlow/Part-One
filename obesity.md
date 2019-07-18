@@ -18,7 +18,7 @@ Obesity is associated with many diseases (hypertension, ischaemic heart disease,
 ##Respiratory Effects
 Respiratory effects predominantly due to increased fat load and its distribution:
 * Increased neck fat predisposes to airway collapse in negative pressure ventilation (OSA) and increases difficulty of surgical airway and IJ CVC insertion
-* Abdominal fat increases intrabdominal fat and reduces FRC, increasing shunt and causing resting hypoxia  
+* Abdominal fat increases intraabdominal fat and reduces FRC, increasing shunt and causing resting hypoxia  
     * FRC typically decreased to ~1L when BMI > 40.
     * FRC may approach closing capacity
     * Shunt may worsen during anaesthesia

@@ -1,9 +1,9 @@
-#Modelling {#id}
+#Modeling {#id}
 >Explain the concept of pharmacokinetic modeling of single and multiple compartment models.
 
 **Pharmacokinetics** describes what the body does to a drug. Pharmacokinetic models are mathematical concepts used to predict plasma concentrations of drugs at different time points.
 
-##Basic Phamacokinetic Terms
+##Basic Pharmacokinetic Terms
 Key concepts in pharmacokinetics include:
 * **Volume of distribution, V<sub>D</sub>**  
 The volume of distribution is defined as the **theoretical volume into which an amount of drug would be distribute to produce the observed plasma concentration**.
@@ -48,7 +48,7 @@ The time it takes for a process to be 50% complete. With respect to drug clearan
 
 
 * **Time-constant** ($$\tau$$)  
-The time taken for a process to complete if it continued at its initial rate of change. Time constants are related to half-life, but are better suited when modelling change in exponential processes.
+The time taken for a process to complete if it continued at its initial rate of change. Time constants are related to half-life, but are better suited when modeling change in exponential processes.
     * Time constants are discussed in more detail under [respiratory time constants](time-constants.md)
     * Elimination will be virtually complete after three time constants
     * A time constant is the **inverse of the rate constant for elimination**, i.e. $$ \tau = {1 \over k }$$
@@ -70,7 +70,7 @@ Amount of drug removed by the body per unit time.
     * This is not the rate constant for elimination
 
 
-##Compartmental Modelling{#one}
+##Compartmental Modeling{#one}
 The simplest model imagines the body a single, well-stirred compartment. 
 
 <img src="resources\1compartment.svg" style="width: 10pc;">
@@ -109,7 +109,7 @@ This doesn't mean that they *should* be thought of in this way - they are a math
 
 
 
-Plasma concentration in multicompartment models is:
+Plasma concentration in multi-compartment models is:
 * Predicted through the net effect of several negative exponential equations  x
 This is covered under two-compartment models below.
 * Dependent on the effects of:
@@ -163,8 +163,8 @@ Pharmacokinetic models typically display the plasma concentration.
         * This cannot be measured, and so is a calculated value
     * Effect site concentration be different from plasma concentration (**Cp**) prior to reaching steady state  
     The delay between plasma and effect site concentrations is an example of hysteresis.
-* The effect site can be modelled as an additional compartment in three-compartment models  
-The effect site is modelled as a **compartment of negligible volume** contained **within V<sub>1</sub>**, but does have rate constants
+* The effect site can be modeled as an additional compartment in three-compartment models  
+The effect site is modeled as a **compartment of negligible volume** contained **within V<sub>1</sub>**, but does have rate constants
     * Effect site volume changes as V<sub>1</sub> changes
     * The k<sub>e1</sub> is the rate constant for drug diffusion from plasma into the effect site
     * The **k<sub>e0</sub>** is the rate constant for elimination of drug **from the effect site**  

@@ -1,12 +1,12 @@
 #Cardiovascular Effects of Ageing
 
-> Describe the cardiovascular changes that occur with ageing.
+> Describe the cardiovascular changes that occur with aging.
 
-CVS effects of ageing can be divided into cardiac, vascular, and autonomic changes:
+CVS effects of aging can be divided into cardiac, vascular, and autonomic changes:
 * **Cardiac changes**
     * Decreased receptor density and number
     * Decreased maximum heart rate  
-    Due to fibrosis of the SA node causing reduced pacemaker cell number and funtion, and reduction in catecholamine receptor density.
+    Due to fibrosis of the SA node causing reduced pacemaker cell number and function, and reduction in catecholamine receptor density.
         * $$Maximum \ heart \ rate \approx 220 - Age$$
     * Decreased inotropy  
     Minor.
@@ -41,5 +41,4 @@ CVS effects of ageing can be divided into cardiac, vascular, and autonomic chang
 ---
 ##References
 1. ANZCA February/April 2016
-2. Cheitlin MD. [Cardiovascular physiology-changes with aging](http://onlinelibrary.wiley.com/doi/10.1111/j.1076-7460.2003.01751.x/abstract). Am J Geriatr
-Cardiol. 2003 Jan-Feb;12(1):9-13.
+2. Cheitlin MD. [Cardiovascular physiology-changes with aging](http://onlinelibrary.wiley.com/doi/10.1111/j.1076-7460.2003.01751.x/abstract). Am J Geriatr Cardiol. 2003 Jan-Feb;12(1):9-13.

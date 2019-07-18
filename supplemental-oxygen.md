@@ -18,7 +18,7 @@ Variable performance devices:
     * Nasal Cannulae  
     Prongs delivering gas at 1-4L.min<sup>-1</sup>.
         * Higher flows may dry mucosa, and lead to epistaxis
-        * Nasopharynx acts as an oxygen resevoir, somewhat increasing FiO<sub>2</sub>
+        * Nasopharynx acts as an oxygen reservoir, somewhat increasing FiO<sub>2</sub>
         * Well tolerated
             * Allow eating, drinking, and talking
     * Hudson Mask  

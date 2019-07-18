@@ -14,7 +14,7 @@ Often by the kidneys, but may also be in bile, or exhaled.
 Clearance describes the elimination of drug from the body. Clearance is:
 * The **volume of plasma completely cleared of a drug per unit time**  
 Measured in ml.min<sup>-1</sup>.
-  * Discussed further in [modelling](pharmacokinetic_modelling.md)
+  * Discussed further in [modeling](pharmacokinetic_modelling.md)
 * Does not include redistribution
 * Is calculated from the area under the concentration time curve:  
 $$Cl = {Dose \over AUC}$$
@@ -89,7 +89,7 @@ Phase one reactions:
     Therefore rapid, high capacity, organ-independent elimination.
       * Butylcholinesterase
       * Non-specific plasma cholinesterase
-      * RBC estearse
+      * RBC esterase
 
 ####CYP450 System
 CYP450 enzymes are:
@@ -152,7 +152,7 @@ Responsible for 60% of metabolic activity.
     * Cardiovascular drugs
       * Amiodarone
       * Flecainide
-      * Mexilitine
+      * Mexiletine
 
 
 
@@ -165,7 +165,7 @@ This increases water solubility and therefore renal elimination.
   * **Glucuronidation**  
     Addition of glucuronic acid.
   * **Sulfation**  
-    Addition of a sulfo group.
+    Addition of a sulfa group.
   * **Acetylation**  
     Addition of an acetyl group.
     * Also occurs in the **lung** and **spleen**.
@@ -222,17 +222,18 @@ Elimination is **capacity-dependent**.
 ||Smoking, ETOH|
 
 ##Organ Independent Metabolism
-Mechanisms of organ indepedent metabolism include:
+Mechanisms of organ independent metabolism include:
 * **Hofmann Degradation**  
 Spontaneous degradation or metabolism of substances occurring in plasma.
-  * e.g. Cisatracurim undergoes Hofmann degradation
+  * e.g. Cisatracurium undergoes Hofmann degradation
 * **Plasma Esterases**  
 Plasma esterases are non-microsomal enzymes which hydrolyse ester bonds. They:
-  * Are typically synthetised in the liver and erythrocytes
+  * Are typically synthesised in the liver and erythrocytes
   * Have a **high capacity**  
   This, combined with the organ-independent elimination, means drugs metabolised by plasma esterases have a reliable offset.
   * e.g. Suxamethonium is hydrolysed by plasma esterases
 
+---
 
 ##References
 1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  

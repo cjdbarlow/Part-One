@@ -20,10 +20,10 @@ By liquefying air and then heating it gradually, each gas can be removed separat
             * Nitrogen: 77°K
             * Oxygen:  90°K
             * Helium: 4°K  
-            Helium *can* be produced by fractional distillation, but liquifying it is understandably difficult given the very, very low boiling point. Helium can also be mined, as helium produced by alpha decay of radioactive materials may be trapped in gas pockets under the earth.
+            Helium *can* be produced by fractional distillation, but liquefying it is understandably difficult given the very, very low boiling point. Helium can also be mined, as helium produced by alpha decay of radioactive materials may be trapped in gas pockets under the earth.
     * Liquid air is then **fractionally distilled**  
     Temperature of liquid air is raised slowly.
-        * As the boiling point of each gas is reached (e.g. 77°K for nitrogen), that gas will begin to vaporise from the liquid, and can be collected
+        * As the boiling point of each gas is reached (e.g. 77°K for nitrogen), that gas will begin to vapourise from the liquid, and can be collected
         * The remaining liquid can then be further heated, until the boiling point for the next gas is reached
         * This process can be repeated until all the desired gases have been separated
     
@@ -131,7 +131,7 @@ Many systems exist to ensure safety:
     * Helium is brown
         * Heliox is brown with white shoulders
     * Carbon dioxide is grey-green
-* Labelling of connections
+* Labeling of connections
 * The **pin index system**  
 Used to prevent the wrong gas yoke being connected to a cylinder.
     * Pins protrude from the back of the yoke
@@ -155,7 +155,7 @@ Used (but not in Australia) when connecting pipeline gases.
 * **Testing**  
     * Must demonstrate
         * Correct oxygen concentrations
-        * Absence of contaminatiaon
+        * Absence of contamination
         * Delivery of adequate pressure when several other systems on the same pipeline are in use
     * Testing must be performed twice on a new installation:
         * First by engineers

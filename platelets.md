@@ -11,14 +11,14 @@ Platelets are small cell fragments which are vital in haemostasis via forming a 
 
 ##Production
 Platelets are:
-* Anuclear circulating cell bodies, which bud from megakaryotes  
+* Anuclear circulating cell bodies, which bud from megakaryocytes  
 As the megakaryocyte cell volume increases, the cell membrane invaginates and small platelets bud off.
   * The time from stem cell to platelet is **~10 days**, and is stimulated by **thrombopoietin**
 * New platelets are held in the spleen for 36 hours until they mature
 
 ##Contents
 * **α-granules**  
-  Contain fibronectin, fibrinogen, vWF, PDGF, and thrombospondin, platelet factor 4.
+  Contain fibronectin, fibrinogen, vWF, PDGF, and Thrombospondin, platelet factor 4.
 * **δ-granules**  
     Contain 5-HT, ATP, ADP, and Ca<sup>2+</sup>.
 * **Contractile proteins**  
@@ -40,7 +40,7 @@ As the megakaryocyte cell volume increases, the cell membrane invaginates and sm
   ADP antagonists (e.g. clopidogrel) prevent expression of the GPIIb/IIIa complex.
     * GP Ib/IIb/IIIa facilitate platelet attachment to vWF  
     vWF also binds to sub-endothelial connective tissue.
-    * GP IIb/IIIa are also receptors for fibinogen, which encourages platelet aggregation
+    * GP IIb/IIIa are also receptors for fibrinogen, which encourages platelet aggregation
 
 ---
 

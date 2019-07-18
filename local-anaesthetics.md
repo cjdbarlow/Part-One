@@ -57,7 +57,7 @@ Alters behaviour:
   * Levobupivacaine is less toxic
   * R-ropivacaine is less potent and more toxic
 
-##Key Characteristics of Local Anaethetics
+##Key Characteristics of Local Anaesthetics
 Characteristics are related to chemical structure. These include:
 * **Potency**  
   * Potency is expressed with the minimum effective concentration of local anaesthetic (C<sub>m</sub>)  
@@ -83,7 +83,7 @@ Duration of action is a function of:
       * Protein binding decreases with decreasing pH, increasing the fraction of unbound drug  
       This is why agents such as bupivacaine are more cardiotoxic in acidotic patients.
       * Local anaesthetics are predominantly bound to α-1-acid glycoprotein (AAG)  
-      AAG is reduced in pregancy, increasing the free drug fraction and therefore reducing the toxic dose of LA in pregnant patients.
+      AAG is reduced in pregnancy, increasing the free drug fraction and therefore reducing the toxic dose of LA in pregnant patients.
   * Patient factors
     * Tissue pH  
     Decreased duration of block when tissue pH is low.
@@ -180,7 +180,7 @@ Cardiac toxicity occurs due to:
 Severity of toxicity will vary depending on how long the agent binds to the channel, with **less toxicity** caused by agents spending **less time bound**:
   * Lignocaine  
   Spends the shortest time bound to the channel, so causes the least amount of toxicity. This is also why lignocaine can be used as an antiarrhythmic, but other agents can not.
-  * Buipivacaine  
+  * Bupivacaine  
   Takes **10x as long** to dissociate as lignocaine. This can lead to re-entrant arrhythmias, and then VF. The **risk **of this is **increased in tachycardia** due to use-dependent blockade.
   * Ropivacaine  
   Dissociates more rapidly from cardiac channels than bupivacaine.
@@ -205,8 +205,8 @@ Reduces cAMP levels by disrupting metabotropic receptors.
     * Asystole
 
 ###CNS Toxicity
-Local anaesthetics in their unionised state can cross the BBB and interfere with CNS conduction. **CNS toxicty is biphasic**:
-* Initally, inhibitory interneurones are blocked  
+Local anaesthetics in their unionised state can cross the BBB and interfere with CNS conduction. **CNS toxicity is biphasic**:
+* Initially, inhibitory interneurons are blocked  
 This causes excitatory effects:
   * Perioral tingling
   * Slurred speech
@@ -222,7 +222,7 @@ This causes inhibitory effects:
   * Apnoea
     
 ###Treatment
-Toxicity is managed with an **ABC approach**, though definitive management uses **intralipid emulsion**:
+Toxicity is managed with an **ABC approach**, though definitive management uses **Intralipid emulsion**:
 * Intralipid is an emulsion of soya oil, glycerol, and egg phospholipids.  
 Mechanism of action in uncertain, but theories include:
   * Lipid sink  
@@ -233,7 +233,7 @@ Mechanism of action in uncertain, but theories include:
   ILE may directly inhibit LA binding.
   
   
-* Dosing of intralipid 20%:
+* Dosing of Intralipid 20%:
     * Bolus of 1.5ml.kg<sup>-1</sup> over 1 minute
     * Infusion at 15ml.kg<sup>-1</sup>.hr<sup>-1</sup>
 
@@ -241,7 +241,7 @@ Mechanism of action in uncertain, but theories include:
 * Complications include **pancreatitis**  
 Note that ILE interferes with amylase and lipase assays, and so these will be unreliable.
     
-* Note that whilst propfol can be used to treat seizures, the amount of lipid contained in propofol is inadequate to bind LA
+* Note that whilst propofol can be used to treat seizures, the amount of lipid contained in propofol is inadequate to bind LA
 
 
 ---

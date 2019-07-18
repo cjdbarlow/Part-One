@@ -15,7 +15,7 @@ Due to the action of the Na<sup>+</sup>-K<sup>+</sup> pump.
     * Negative electrical charge pulling it in
 * This equilibrium is the **resting membrane potential**  
     * RMP is determined by:
-        * Permebility of the membrane to different ions
+        * Permeability of the membrane to different ions
         * Relative ionic concentrations on either side of the membrane
     * Impermeable ions do not contribute to the resting membrane potential  
     Altering membrane permeability causes a flow of ions and a change in voltage.
@@ -72,7 +72,7 @@ Impermeable to Na<sup>+</sup>.
 Permeable to Na<sup>+</sup>. Occurs when the membrane potential reaches threshold potential.
     * Different voltage-gated channels may have slightly different opening (threshold) potentials  
 * Inactivated  
-Impermeble to Na<sup>+</sup>. Occurs shortly after the open state, and lasts until the membrane potential falls below -50mV.
+Impermeable to Na<sup>+</sup>. Occurs shortly after the open state, and lasts until the membrane potential falls below -50mV.
 
 Voltage-gated K<sup>+</sup> channels:
 * Are vital for repolarisation
@@ -93,7 +93,7 @@ As potassium exits the cell, membrane potential continues to fall.
     * Voltage-gated K<sup>+</sup> channels start to close at **-50mV**
     * Inactivation of fast sodium channels defines the **absolute refractory period**  
     No Na<sup>+</sup> can be conducted, regardless of the intensity of the stimulus, and so an action potential cannot be generated
-        * The absolute refractory perioid lasts **~1ms**
+        * The absolute refractory period lasts **~1ms**
 4. **Hyperpolarisation**  
 As potassium channels close slowly, the membrane potential slightly undershoots resting potential, causing slight hyperpolarisation of the cell.
     * This is the **relative refractory period**  

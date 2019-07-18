@@ -31,7 +31,7 @@
     * The denominator is uncertain, i.e.:
         * In retrospective designs, such as case-control studies when patients with the disease were identified, and then exposures ascertained
     * When it statistically appropriate (ORs are much easier to use in statistical tests), i.e.:
-        * Multivariable regression
+        * Multivariate regression
         * Systematic Reviews
 
 ##Risk versus Odds

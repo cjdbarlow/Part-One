@@ -3,7 +3,7 @@
 
 The ECG is a graphical representation of the electrical activity of the heart, as measured by the sum of electrical vectors at the patients skin.
 
-##Componenents
+##Components
 An ECG consists of:
 * Electrodes  
 Disposable, sticky components which act as conductors due to a silver/silver chloride coating. To reduce electrode impedance, skin should be:
@@ -37,7 +37,7 @@ The relationship between electrodes and leads is described with **Einthoven's Tr
 
 ##Method
 * As the myocardial membrane potential changes across the cardiac cycle, a potential difference can be measured at the skin.
-    * A depolarisation wave travelling towards the positive electrode (or a repolarisation wave travelling away) will cause an upward deflection in the ECG
+    * A depolarisation wave traveling towards the positive electrode (or a repolarisation wave traveling away) will cause an upward deflection in the ECG
 * These potential differences are very small, and therefore need to be:
     * Distinguished from background interference  
     Several techniques exist:
@@ -60,7 +60,7 @@ The relationship between electrodes and leads is described with **Einthoven's Tr
     * Good adherence
     * Optimal skin contact  
     Ensure dry and hairless.
-* Minimise external elecrostatic forces
+* Minimise external electrostatic forces
     * Earthed
     * Diathermy
     * Shivering

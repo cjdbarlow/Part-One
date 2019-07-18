@@ -5,7 +5,7 @@ Haemostasis describes the physiological processes that occur to stop bleeding. I
 * **Vessel constriction**  
   Decreases flow, which limits further haemorrhage and reduces the shear stresses which break up forming clot
 * **Platelet plug formation** or Primary Haemostasis  
-    Platlets adhere to the damaged vessel wall and aggregate
+    Platelets adhere to the damaged vessel wall and aggregate
 * **Fibrin formation** or Secondary Haemostasis  
     Fibrin is formed from fibrinogen (via the coagulation cascade), which stabilises the platelet plug
 
@@ -19,7 +19,7 @@ Following a vascular injury, the exposure of subendothelial proteins stimulates 
 
 
 * **Activation**  
-  Metabolic activation, increasing phospholipase A<sub>2</sub> and phopholipase C, increasing platelet intracellular Ca<sup>2+</sup> and initiating a transformation from a disc to a sphere with long projections.
+  Metabolic activation, increasing Phospholipase A<sub>2</sub> and Phospholipase C, increasing platelet intracellular Ca<sup>2+</sup> and initiating a transformation from a disc to a sphere with long projections.
     * Metabolic activation is stimulated by:
         * Collagen
         * Adrenaline
@@ -41,7 +41,7 @@ The coagulation cascade is an amplification mechanism which activates clotting f
 
 
 Participating factors in the coagulation cascade can be either **enzymes** or **cofactors**:
-* Enzymes circulate in their inactive form, and become active (e.g. VII ⇒ VIIa) when hydrolysed by their precusor factor
+* Enzymes circulate in their inactive form, and become active (e.g. VII ⇒ VIIa) when hydrolysed by their precursor factor
 * Cofactors amplify the cascade
 
 ###Pathways
@@ -82,10 +82,10 @@ Cofactor (similar to factor VIII), which when activated by thrombin allows facto
 Has several key roles:
   * Cleaves fibrinogen to fibrin
   * Activates factor XIII  
-  Factor XIIIa stabilises clot by forming crossbridges between fibrin in a platelet plug.
+  Factor XIIIa stabilises clot by forming cross-bridges between fibrin in a platelet plug.
   * Amplification of the clotting cascade by activating factors V and VIII
   * Activates protein C  
-  Thrombin binds with thombomodulin to form a complex which inhibits coagulation.
+  Thrombin binds with thrombomodulin to form a complex which inhibits coagulation.
 * Factor I (fibrinogen)
 
 

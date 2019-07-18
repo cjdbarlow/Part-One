@@ -40,7 +40,7 @@ The value of z then gives a **standardised score**, i.e. the number of standard 
 Where observations belong to one of two mutually exclusive categories, i.e.:  
 If $$ P(A) = x $$ then $$ P(B) = 1 - x $$
 
-If the number of observations is very large and the probability of an event is small, a **poisson distribution** can be used to approximate a binomial distribution.
+If the number of observations is very large and the probability of an event is small, a **Poisson distribution** can be used to approximate a binomial distribution.
 
 ##Measures of Central Tendency
 As noted above in the **normal distribution**, results tend to cluster around a central value. Quantification of the degree of clustering can be done using **measures of central tendency**, of which there are three:

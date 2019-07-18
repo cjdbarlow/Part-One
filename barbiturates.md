@@ -14,14 +14,14 @@ Increases the duration of channel opening, causing effective hyperpolarisation d
 |**Route of Administration**|IV
 |**Dosing**|3-7mg.kg<sup>-1</sup>. Consider 75mg boluses, assessing haemodynamic and neuronal effects.
 |**Distribution**|65-85% protein bound. High lipid solubility and CBF gives a rapid, reliable onset. Rapid offset due to redistribution, with a fast t<sub>1/2</sub>α of 8 minutes. Prolonged elimination half life (11 hours) contributes to long CSHT. Increased unionised portion in acidosis. t<sub>1/2<sub>ke0</sub> of 1.2 minutes.
-|**Metabolism**|Capacity dependent CYP450 metabolism - saturatable at high doses (long CSHT with infusion). Metabolised to (active) **pentobarbital**, which also increases the duration of its clinical effects.
+|**Metabolism**|Capacity dependent CYP450 metabolism - saturates at high doses (long CSHT with infusion). Metabolised to (active) **pentobarbital**, which also increases the duration of its clinical effects.
 |**Elimination**|Renal of metabolites, < 1% excreted unchanged
 |**Resp**|Respiratory depression, bronchospasm, laryngospasm
 |**CVS**|Vasodilation and venodilation (↓ MSFP), ↓ inotropy, with compensatory tachycardia (baroreceptor response preserved)
-|**CNS**|Hyponosis and anaesthesia within 40 seconds of injection, with reliable loss of lash reflex. Anticonvulsant. Dose-dependent flattening of the EEG (β 🡒 α 🡒 θ 🡒 δ 🡒 burst suppression 🡒 isoelectric), causing progressive ↓ CMRO<sub>2</sub> (55% of maximal during burst suppression), ↓ CBF, and ↓ ICP. <br><br> Resolution of induction dose in 5-10 minutes due to redistribution.  
+|**CNS**|Hypnosis and anaesthesia within 40 seconds of injection, with reliable loss of lash reflex. Anticonvulsant. Dose-dependent flattening of the EEG (β 🡒 α 🡒 θ 🡒 δ 🡒 burst suppression 🡒 isoelectric), causing progressive ↓ CMRO<sub>2</sub> (55% of maximal during burst suppression), ↓ CBF, and ↓ ICP. <br><br> Resolution of induction dose in 5-10 minutes due to redistribution.  
 |**Endocrine**|↓ RBF causing ↓ UO
 |**GIT**|Hepatic enzyme induction
-|**Immune**|Analphylaxis ~1;20,000
+|**Immune**|Anaphylaxis ~1;20,000
 |**Metabolic**|May precipitate acute **porphyric crises** and is **contraindicated** in these patients
 |**Other**|Intraarterial injection causes precipitation as water solubility decreases at blood pH. Microembolisation and ischaemia result, which should be treated with intraarterial local anaesthesia, analgesia, anticoagulation, and sympathetic blockade of the limb. <br><br> Tissue necrosis on extravasation.
 

@@ -41,7 +41,7 @@ A condition where plasma cholinesterase is unable to breakdown suxamethonium, pr
       * Lithium
 * Has been traditionally measured using the **dibucaine number**  
 Dibucaine is:
-  * An amide local anaesthetic which **inhibtis plasma cholinesterase**  
+  * An amide local anaesthetic which **inhibits plasma cholinesterase**  
   Different forms are inhibited to different extents, with greater inhibition indicating a less severe mutation.
     * Percentage inhibition correlates with different genotypes, e.g.:
       * Normal (Eu:Eu) has a dibucaine number of 80 (80% inhibited)
@@ -67,7 +67,7 @@ Leads to:
   * Initially:
     * Tachycardia
     * Masseter spasm
-    * Hypercapnoea
+    * Hypercapnea
     * Arrhythmia
   * Intermediate:
     * Hyperthermia
@@ -100,7 +100,7 @@ Leads to:
 ##Porphyria
 Autosomal dominant deficiency in the first step of haeme synthesis. These mutations:
 * Result in a partial deficiency of enzymes
-* Lead to accumultion of porphyrin precursors
+* Lead to accumulation of porphyrin precursors
 * May be precipitated by many drugs:
   * Ketamine
   * Clonidine

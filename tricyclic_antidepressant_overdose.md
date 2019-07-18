@@ -10,18 +10,18 @@ Cardiac toxicity is due to antagonism of α-adrenoreceptors use-dependent blocka
 
 **α-antagonism** results in vasodilatation and subsequent **hypotension**. Hypotension may also be due to myocardial depression from sodium channel blockade.
 
-Blockade of fast sodium channels occurs in the His-Purkinje system, as well as the atrial and ventricular myocardium. This results in **decreased myocardial impulse conduction**. They block channels in the inactivated state, resulting in a **use-dependent blockade** such that the **effect is greater at faster heart rates**. This results in an increased depolarisation and repolarisation time. ECG findings are consistent with this and are essentially pathognomnic:
+Blockade of fast sodium channels occurs in the His-Purkinje system, as well as the atrial and ventricular myocardium. This results in **decreased myocardial impulse conduction**. They block channels in the inactivated state, resulting in a **use-dependent blockade** such that the **effect is greater at faster heart rates**. This results in an increased depolarisation and repolarisation time. ECG findings are consistent with this and are essentially pathognomonic:
 * Widened QRS
-* Right axis deviaiton of the terminal QRS  
+* Right axis deviation of the terminal QRS  
   \>3mm terminal R wave in aVR
 
 Additional ECG findings include:
 * Tachycardia
 * Any degree of heart block
-* Ventricular arrythmias
+* Ventricular arrhythmias
 
 ###Central toxicity
-Central toxicity is predominantly due to anticholinergic effects, though antihistamingergic effects contribute.
+Central toxicity is predominantly due to anticholinergic effects, though antihistaminic effects contribute.
 
 Anti-cholinergic effects tend to occur prior to cardiac effects, and include:
 * Confusion
@@ -29,13 +29,13 @@ Anti-cholinergic effects tend to occur prior to cardiac effects, and include:
 * Seizures
 * Pupillary dilatation and blurred vision
 
-Antihistaminergic effects include obtundation.
+Antihistaminic effects include obtundation.
 
 ##Management
-Standard management of poisoning applies. TCAs are not dialysable and as they are weak bases are not amenable to urinary alkalinsation.
+Standard management of poisoning applies. TCAs are not dialysable and as they are weak bases are not amenable to urinary alkalinisation.
 
 ###Cardiac toxicity
-NaHCO<sub>3</sub> and hyperventilation to a pH >7.5 is used to manage cardiac toxicity. There are a number of proposed mechanisms of action for the benefit of alkalinsation:
+NaHCO<sub>3</sub> and hyperventilation to a pH >7.5 is used to manage cardiac toxicity. There are a number of proposed mechanisms of action for the benefit of alkalinisation:
 * Plasma **alkalosis** results in **less ionised drug** and **increases distribution** into tissues
 * Plasma **alkalosis increases protein binding** of drug
 * Intracellular alkalosis results in less bound intracellular drug, favouring its movement out of cells
@@ -45,10 +45,10 @@ NaHCO<sub>3</sub> and hyperventilation to a pH >7.5 is used to manage cardiac to
 
 α-adrenoreceptor antagonism can be countered with use of an α-agonist such as noradrenaline.
 
-Arrythmias should be managed with drugs that do not prolong the action potential - so amiodarone and beta-blockers are contraindicated. Initial management should be using NaHCO<sub>3</sub>, though MgSO<sub>4</sub> and lignocaine can be considered in refractory cases.
+Arrhythmias should be managed with drugs that do not prolong the action potential - so amiodarone and beta-blockers are contraindicated. Initial management should be using NaHCO<sub>3</sub>, though MgSO<sub>4</sub> and lignocaine can be considered in refractory cases.
 
 ###Central toxicity
-Seizures should be managed with benzodiazepines, phenytoin, propfol, and phenobarbital. Avoid agents which result in QRS prolongation.
+Seizures should be managed with benzodiazepines, phenytoin, propofol, and phenobarbital. Avoid agents which result in QRS prolongation.
 
 ---
 

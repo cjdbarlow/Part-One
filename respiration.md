@@ -29,7 +29,7 @@ Balance between the:
 * Diaphragmatic and external intercostal/accessory muscle contraction causes an increase in the volume of the thorax
 * Intrapleural pressure becomes more negative, typically to **-8cmH<sub>2</sub>O**
 * When P<sub>pl</sub> > P<sub>el</sub>, the lungs expands
-* Alveolar pressure (P<sub>A</sub>) becomes subatmospheric, and inspiration occurs
+* Alveolar pressure (P<sub>A</sub>) becomes sub-atmospheric, and inspiration occurs
 * At end inspiration:
   * P<sub>pl</sub> = P<sub>el</sub>
   * P<sub>A</sub> = P<sub>atmospheric</sub>

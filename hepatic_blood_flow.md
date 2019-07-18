@@ -1,7 +1,7 @@
 # Hepatic Blood Flow
-> Describe the distribution of blood volume and flow in the various regional circulations and explain the factors that influence them, including autoregulation. These include, but not limited to, ~~the cerebral and spinal cord,~~ hepatic and splachnic, ~~coronary, renal and utero-placental~~ circulations
+> Describe the distribution of blood volume and flow in the various regional circulations and explain the factors that influence them, including autoregulation. These include, but not limited to, ~~the cerebral and spinal cord,~~ hepatic and splanchnic, ~~coronary, renal and utero-placental~~ circulations
 
-The liver serves as a blood resevoir (30ml per 100g, half of which may be mobilised in hypovolaemia), and receives **25%** of cardiac output from a unique dual blood supply:
+The liver serves as a blood reservoir (30ml per 100g, half of which may be mobilised in hypovolaemia), and receives **25%** of cardiac output from a unique dual blood supply:
 * Hepatic arterial system, which supplies about **one-third** of blood, but 40-50% of O<sub>2</sub>  
   Hepatic arterial blood has an **SpO<sub>2</sub>** of **~98%**, as would be expected. It is a high-pressure, high-resistance, high-flow system (average velocity 18cm.s<sup>-1</sup>), with the capacity to autoregulate.
 
@@ -46,7 +46,7 @@ A number of substances affect portal flow:
 ###External Factors
 Flow in the hepatic vein is dependent on venous return:
 * Increased venous return (e.g. negative-intrathoracic pressure) increases hepatic flow
-* Decreased  venous return (e.g. positive-pressure ventilation, tamponade, haemorrhage), reduces hepatic flow, and in extreme cases flow may only occur intermittently thoughout the cardiac cycle
+* Decreased  venous return (e.g. positive-pressure ventilation, tamponade, haemorrhage), reduces hepatic flow, and in extreme cases flow may only occur intermittently throughout the cardiac cycle
 
 * **Exercise** reduces both portal vein and hepatic arterial flow
 

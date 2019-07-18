@@ -56,7 +56,7 @@ Work of breathing can be evaluated with a dynamic lung compliance curve:
 
 * If there **were no resistive forces**, then this curve would be a straight line
   * The triangular area is the elastic work done
-* The resistive work of brathing causes the deviation of the inspiratory and expiratory lines:
+* The resistive work of breathing causes the deviation of the inspiratory and expiratory lines:
   * The area between the compliance line and the inspiratory line is additional **resistive inspiratory** work done
   * The area between the compliance line and expiratory line is additional **resistive expiratory** work done
     * This work is typically done by elastic recoil of the lungs

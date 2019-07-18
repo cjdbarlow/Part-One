@@ -1,7 +1,7 @@
 # Sleep
 > Describe the physiology of sleep
 
-Sleep is a naturally occuring state of unconsciousness from which one can be aroused by an external stimuli.
+Sleep is a naturally occurring state of unconsciousness from which one can be aroused by an external stimuli.
 
 Sleep is important in:
 * Homeostasis of many organ systems

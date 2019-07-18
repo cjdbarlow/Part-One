@@ -16,7 +16,7 @@ L-type channels exist in myocardium, nodal, and vascular smooth muscle.
 |Property|Verapamil|Amlodipine|Diltiazem|
 |--|--|
 |**Class**|Phenylalkylamine|Dihydropyridine|Benzothiazepine|
-|**Uses**|SVT, excluding AF with WPW|HTN, Angina|Angina, HTN, SVT, Raynauds, migraine, oesophageal dysmotility|
+|**Uses**|SVT, excluding AF with WPW|HTN, Angina|Angina, HTN, SVT, Raynaud's, migraine, oesophageal dysmotility|
 |**Presentation**|20-240mg tablet, PO solution, IV at 2.5mg.ml<sup>-1</sup>|Tablet|Tablet|
 |**Isomerism**|Racemic preparation. The D-isomer also has some local anaesthetic activity|||
 |**Route of Administration**|PO/IV|PO|PO|

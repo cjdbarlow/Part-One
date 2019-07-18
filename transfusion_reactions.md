@@ -52,7 +52,7 @@ pH is kept between 6.2 to 7.8 to prevent degranulation.
 
 As platelets do not contain antigen, there is not a *strict* requirement for platelets to be type matched. However:
 * Rh(+) platelets should be avoided in Rh(-) patients  
-The small amount of contaminanting red cells may precipitate rhesus disease.
+The small amount of contaminating red cells may precipitate rhesus disease.
 * Plasma incompatibility should be avoided as this may lead to haemolysis of recipient red cells
     * Children are at greater risk due to their proportionally smaller blood volume
 
@@ -62,7 +62,7 @@ Fresh Frozen Plasma is:
     * Separation from whole blood
     * Apheresis  
     Removal of a large volume (typically 800ml) of plasma from a single patient, with return of red cells to the donor.
-* Once collected, it is frozen and rethawed in a water bath prior to use
+* Once collected, it is frozen and re-thawed in a water bath prior to use
 
 ###Cryoprecipitate
 Cryoprecipitate is prepared by removing the precipitate from FFP which forms at 1–6°C. Cryoprecipitate contains predominantly:
@@ -116,7 +116,7 @@ Rhesus status is therefore expressed as positive (D - 85% of the population) or 
     * This is relevant in Rhesus disease  
     A Rh(-) mother exposed to Rh(+) blood will develop Anti-D antibody, which can cross placenta and induce abortion in a future Rh(+) foetus. This can occur with:
         * Incompatible transfusion
-        * Foetal-materal haemorrhage  
+        * Foetal-maternal haemorrhage  
 
 ##Compatibility Testing
 Donor blood must be tested with recipient blood to avoid a transfusion reaction. This involves three processes:
@@ -130,7 +130,7 @@ For other antibodies.
     * Saline test  
     Erythrocytes are suspended in saline and mixed with antibodies at room temperature, monitoring for agglutination.
         * This confirms ABO type
-    * Indirect Coomb's test  
+    * Indirect Coombs' test  
     Identifies IgG antibody in host plasma which would cause haemolysis of transfused red cells. This is typically no longer done, as it offers negligible extra safety over the above processes. Doing it involves:
         * Incubating  
         Binds IgG Ab to antigen on RBC membrane.
@@ -154,8 +154,8 @@ Transfusion reactions can be classified as either acute (< 24 hours) or delayed 
 |Haemolytic (acute)|1:76,000 (1:1.8 million fatal)|Immunological destruction of transfused cells (Type II hypersensitivity). Presents with fever, tachycardia, pain, progressing to distributive shock|
 |Febrile, non-haemolytic|~1:100|Cytokine release from stored cells causing a mild inflammatory reaction, with temperature rising to ≥38ºC or ≥1ºC above baseline (if >37ºC). Benign - but requires exclusion of a haemolytic reaction.
 |Urticaria|1:100|Hypersensitivity to plasma proteins in the transfused unit
-|Anaphylaxis|1:20,000|Type I hypersensitivity reaction to plasma protein in transfused uni
-|TRALI|Variable|Donor plasma HLA activate recipient leukocyte antigen activating pulmonary neutrophils, causing fever, shock, and non-cardiogenic pulmonary oedema
+|Anaphylaxis|1:20,000|Type I hypersensitivity reaction to plasma protein in transfused unit
+|TRALI|Variable|Donor plasma HLA activates recipient pulmonary neutrophils, causing fever, shock, and non-cardiogenic pulmonary oedema
 
 ###Non-Immunological Acute Reactions
 |Reaction|Incidence|Mechanism|
@@ -169,10 +169,10 @@ Transfusion reactions can be classified as either acute (< 24 hours) or delayed 
 |Reaction|Incidence|Mechanism|
 |--------|---------|---------|
 |Delayed haemolytic transfusion reaction|1:2,500|Development of sensitisation with the reaction occurring 2-14 days after a single exposure. Typically Kidd, Duffy, Kell antibodies.
-|Post-tranfusion Purpura|Rare|Alloimmunisation to Human Platelet Antigen causing sudden self-limiting thrombocytopenia
+|Post-transfusion Purpura|Rare|Alloimmunisation to Human Platelet Antigen causing sudden self-limiting thrombocytopenia
 |TA-GVHD|Rare|Transfused lymphocytes recognise host HLA as positive causing marrow aplasia, with mortality >90%
 |Alloimmunisation| 1:100 (RBC antigens), 1:10 (HLA antigens)|Previous sensitisation leading to  antibody production on re-exposure.
-|Transfusion-related Immune Modulation|Not known|Transient immunosuprression following transfusion potentially due to cytokine release from leukocytes
+|Transfusion-related Immune Modulation|Not known|Transient immunosuppression following transfusion potentially due to cytokine release from leukocytes
 
 ###Delayed Non-Immunological Reaction
 |Reaction|Incidence|Mechanism|
@@ -193,13 +193,13 @@ Risk of complication from a massive transfusion is influenced by:
 
 |Complication|Mechanism|
 |------|-----------|
-|Air embolism|Inadvertant infusion
+|Air embolism|Inadvertent infusion
 |Hypothermia|Cooled products
 |Hypocalcaemia|Consumption with coagulopathy and bound to citrate added to transfused units
 |Hypomagnesaemia|Bound to citrate in transfused units
 |Citrate toxicity|Citrate is added to stored units as an anticoagulant
 |Lactic acidosis|Hyperlactataemia due to anaerobic metabolism in stored units
-|Hyperkalaemia|Potassium migratrates from stored erythrocytes into plasma whilst in storage
+|Hyperkalaemia|Potassium migrates from stored erythrocytes into plasma whilst in storage
 
 
 

@@ -27,7 +27,7 @@ The duodenum has hormonal mechanisms which have a **negative feedback** on gastr
 * **Duodenal distension**
 * **Hypoosmolar and hyperosmolar** chyme
 * **Acid**ic chyme  
-  In reponse to acid the duodenum releases **secretin** and **somatostatin**:  
+  In response to acid the duodenum releases **secretin** and **somatostatin**:  
   * Secretin directly inhibits gastric smooth muscle
   * Somatostatin inhibits gastrin release
 * **Fat** and **protein**  
@@ -38,7 +38,7 @@ The duodenum has hormonal mechanisms which have a **negative feedback** on gastr
 ###Systemic
 * **Motilin** released by the small bowel enhances the strength of the **migrating motor complex**, a peristaltic wave of contraction through the whole GIT which occurs every 60-90 minutes
 * **Sympathetic** input from the coeliac plexus **inhibits** gastric emptying
-* Pregnancy has a number of effecs on gastric emptying:
+* Pregnancy has a number of effects on gastric emptying:
     * Progesterone relaxes smooth muscle and inhibits gastric smooth muscle response to ACh and gastrin, as well as creating incompetence of the LoS leading to GORD
     * Gastrin production increases  
     Some gastrin is produced by the placenta.

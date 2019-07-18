@@ -1,6 +1,6 @@
 # Corticosteroids
 
-Glucocorticoids are endogenous (hydrocortisone) and synthetic (prednisolone, metylprednisolone, dexamethasone) steroid hormones with **metabolic**, **anti-inflammatory**, and **immunosuppressive** effects. They bind to specific intracellular receptors and translocate into the nucleus, where they regulate gene expression in a tissue-specific manner.
+Glucocorticoids are endogenous (hydrocortisone) and synthetic (prednisolone, methylprednisolone, dexamethasone) steroid hormones with **metabolic**, **anti-inflammatory**, and **immunosuppressive** effects. They bind to specific intracellular receptors and translocate into the nucleus, where they regulate gene expression in a tissue-specific manner.
 
 Corticosteroids have multiple indications including:
 * Replacement in adrenal suppression or other cortisol-deficient states
@@ -8,7 +8,7 @@ Corticosteroids have multiple indications including:
 * Anaphylaxis and atopic disorders, including asthma
 * Hypercalcaemia
 * Chemotherapy
-* Immunosupression following transplantation
+* Immunosuppression following transplantation
 
 ##Common Features
 |System|Effect|

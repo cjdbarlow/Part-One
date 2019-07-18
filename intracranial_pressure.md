@@ -61,11 +61,11 @@ Results in reduced blood flow due to **flow-metabolism coupling**. May be achiev
  Have several beneficial effects:
   * Depress cerebral metabolism which reduces oxygen requirements
   * Reduce **seizure** risk, which is detrimental because it greatly increases cerebral O<sub>2</sub> demand and impairs venous return
-  * Improves ventilator dyssyncrhony, limiting coughing and bearing down, and subsequent rises in ICP
+  * Improves ventilator dyssynchrony, limiting coughing and bearing down, and subsequent rises in ICP
  * **Hypothermia**  
  Causes a reduction in cerebral metabolism and risk of seizures.
- * **Prevention of hypoxia or hypercapnoea**  
-  Hypoxia and hypercapnoea both cause vasodilatation, with a subsequent increase in cerebral blood volume, blood flow, and ICP.
+ * **Prevention of hypoxia or hypercapnea**  
+  Hypoxia and hypercapnea both cause vasodilatation, with a subsequent increase in cerebral blood volume, blood flow, and ICP.
    * Induced **hypocarbia**  
    Causes vasoconstriction and a subsequent reduction in cerebral blood flow and blood volume. This leads to:
      * Reduction in ICP

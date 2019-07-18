@@ -49,6 +49,7 @@ Lean muscle has a greater energy requirement than fat.
     * Sepsis increases BMR
     * Hyperthyroidism increases BMR    
 
+
 ##Measurement of BMR using Indirect Calorimetry
 BMR is measured using **indirect calorimetry**, which calculates heat production via measurement of VO<sub>2</sub> and VCO<sub>2</sub>. A number of methods exists depending on whether the patient is intubated or not, or whether they are requiring supplementary oxygen.
 

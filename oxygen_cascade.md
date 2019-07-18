@@ -50,16 +50,18 @@ $$P_AO_2 = P_iO_2 - {P_aCO_2 \over R} + F $$, where:
     * R is dependent on the metabolic substrates used for metabolism: 
       * Pure fat ≈ 0.7
       * Pure protein ≈ 0.9
-      * Pure carbonhydrate ≈ 1
+      * Pure carbohydrate ≈ 1
       * The normal value for a Western diet is quoted as **0.8**
   * $$F$$ is a correction factor, usually equal to ~2mmHg, and is given by $$F = P_ACO_2.FiO_2.{1 - R \over R}$$
 
-Alveolar oxgygen is therefore dependent on:
+
+Alveolar oxygen is therefore dependent on:
   * PiO<sub>2</sub>, which is a function of:
     * FiO<sub>2</sub>
     * Air pressure
   * Alveolar ventilation  
   As $$P_aO_2 \propto {1 \over \dot{V}_A}$$.
+
 
 ##Arterial Blood
 The difference in partial pressure of oxygen between alveolar and arterial blood is called the **A-a gradient**:

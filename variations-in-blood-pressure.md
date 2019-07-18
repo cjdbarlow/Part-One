@@ -36,7 +36,7 @@ Average pressure in the circulation throughout the cardiac cycle, as measured by
         * Systolic blood pressure
         * Diastolic blood pressure
         * **Heart rate**  
-        Increasing HR will tend to increase MAP, as overall systolic time (and therefore time spent at higher circulator pressure) is increased.
+        Increasing HR will tend to increase MAP, as overall systolic time (and therefore time spent at higher pressure) is increased.
         * Shape of the arterial waveform/diastolic runoff  
         The slow decrease in pressure after peak systolic pressure represent elastic recoil of large arteries, increasing the pressure driving blood into the peripheral circulation. A longer diastolic runoff period leads to a larger area under the curve, and a higher MAP.
     * Relevant for:
@@ -63,7 +63,7 @@ Increased intrathoracic pressure during inspiration results in a decreased venou
 * When this change is **>10mmHg**, it is known as **pulsus paradoxus**
 * The magnitude of this effect varies with:
     * Magnitude of intrathoracic pressure change  
-    Large changes in intrathoracic pressure cause correpondingly larger changes in ventricular filling.
+    Large changes in intrathoracic pressure cause correspondingly larger changes in ventricular filling.
     * Other factors affecting cardiovascular function
         * Preload
             * Volume state
@@ -128,7 +128,7 @@ Changes in circulatory function:
 * **Inotropy**  
 The rate of systolic upstroke is related to $$\frac{\Delta P}{\Delta t}$$, and therefore contractility.
 * **SVR**  
-The gradient between the peak systolic pressure and the dicrotic notch gives an indiciation of SVR. E.g., a steep downstroke suggests a low SVR, as the pressure in the circulation rapidly falls when ejection ceases.
+The gradient between the peak systolic pressure and the dicrotic notch gives an indication of SVR. E.g., a steep downstroke suggests a low SVR, as the pressure in the circulation rapidly falls when ejection ceases.
 * **Preload**  
 A beat-to-beat variation is seen with the respiratory cycle, due to the change in preload occurring with changes in intrathoracic pressure.
 

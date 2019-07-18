@@ -8,7 +8,7 @@
 |**CVS**|↓ HR. May ↓ BP due to histamine release (less with synthetic agents). ↑ PVR|
 |**CNS**|Sedation, euphoria. Nausea and vomiting due to CTZ stimulation. Meiosis due to stimulation of the Edinger-Westphal nucleus. ↓ MAC up to 90%|
 |**Renal**|↓ RPF, ↑ ADH, ↑ ureteric and sphincter tone
-|**MSK**|Muscle rigidity, pruritis (especially with intrathecal administration)
+|**MSK**|Muscle rigidity, pruritus (especially with intrathecal administration)
 |**Metabolic**|↓ ACTH, prolactin, gonadotrophic hormone secretion. ↑ ADH secretion|
 |**GIT**|↓ Peristalsis and GIT secretions with subsequent constipation|
 |**Immunological**|Impaired: chemotaxis, lymphocyte proliferation, and antibody production|
@@ -54,7 +54,7 @@
 |**Absorption**|Rapid onset of action (< 30s, peak at 5min) due to lipid solubility (600x that of morphine).|90x more lipid soluble than morphine, but more rapid onset than fentanyl. This is due to: <br>1. Low pKa means a greater proportion is unionised at physiological pH. <br> 2. Lower potency of alfentanil compared to fentanyl means a greater dose is required (Bowman's Principle)|20x more lipid soluble than morphine.|
 |**Distribution**|600x as lipid soluble as morphine conferring a larger V<sub>D</sub> (4L.kg<sup>-1</sup>). 85% protein bound.|90x as lipid soluble as morphine, small V<sub>D</sub> of 0.6L.kg<sup>-1</sup>. 90% protein bound|20x as lipid soluble as morphine, very small V<sub>D</sub> of 0.4L.kg<sup>-1</sup>. 70% protein bound. CSHT is constant due to rapid metabolism. |
 |**Clearance** (ml.kg<sup>-1</sup>.min<sup>-1</sup>)|13|6|40|
-|**Metabolism**|Significant first pass pulmonary endothelial uptake. Hepatic demthylation to inactive norfentanyl. t<sub>1/2</sub>β of 190 minutes, longer than morphine due to higher lipid solubility and V<sub>D</sub>.|Shorter elimination t<sub>1/2</sub>β than fentanyl (100 minutes) despite lower clearance due to lower V<sub>D</sub>. Prolonged with administration of midazolam due to CYP3A3/4 competition. |Rapid metabolism by plasma and tissue esterases - t<sub>1/2</sub>β 10 minutes|
+|**Metabolism**|Significant first pass pulmonary endothelial uptake. Hepatic demethylation to inactive norfentanyl. t<sub>1/2</sub>β of 190 minutes, longer than morphine due to higher lipid solubility and V<sub>D</sub>.|Shorter elimination t<sub>1/2</sub>β than fentanyl (100 minutes) despite lower clearance due to lower V<sub>D</sub>. Prolonged with administration of midazolam due to CYP3A3/4 competition. |Rapid metabolism by plasma and tissue esterases - t<sub>1/2</sub>β 10 minutes|
 |**Elimination**|Renal elimination of inactive metabolites|Renal elimination of metabolites|Renal of inactive metabolites|
 |**Time to Peak Effect (IV)**|5 minutes|90 seconds|1-3 minutes|
 |**Duration (IV)**|Variable depending on dose and distribution. With doses > 3μg.kg<sup>-1</sup> tissues become saturated and the duration of action is significantly prolonged|5-10 minutes|Offset 5-10 minutes from ceasing infusion|

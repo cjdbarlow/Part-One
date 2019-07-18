@@ -36,7 +36,7 @@ From ~20 weeks until term:
 ##Labour and Postpartum
 During labour:
 * MV increases 70% due to pain and increased oxygen demand
-* This causes hypocapnoea, so cessation of uterine contractions (and the associated pain and oxygen demand) are followed by a hypoventilatory period producing desaturation
+* This causes hypocapnea, so cessation of uterine contractions (and the associated pain and oxygen demand) are followed by a hypoventilatory period producing desaturation
 
 FRC and RV return to normal within 48 hours of delivery.
 

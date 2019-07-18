@@ -21,7 +21,7 @@ In the normal range however, (-5 to -10cmH<sub>2</sub>O) compliance of the lung 
 * Total compliance is calculated from the alveolar-ambient gradient
 
 
-* Measuring ambient and alveolar pressure is straightfoward, as is calculating compliance of the respiratory system
+* Measuring ambient and alveolar pressure is straightforward, as is calculating compliance of the respiratory system
   * Alveolar pressure is measured by taking a plateau pressure
 * Separating lung and chest wall compliance requires measurement of intrapleural pressure  
 This is performed by measuring oesophageal pressure (using a balloon) with an **open glottis**, as oesophageal pressure approximates intrapleural pressure.

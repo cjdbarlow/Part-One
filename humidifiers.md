@@ -21,7 +21,7 @@ The Heat and Moisture Exchange (HME) filter is the classic passive humidifier:
     * A moisture exchange layer  
     Pleated, hygroscopically coated foam or paper.
         * Expired gas cools as it passes, condensing onto the foam, with condensation promoted by hygroscopic coating (usually this is NaCl)
-        * The latent heat of vaporisation results in a decreased temperature of expired gas  
+        * The latent heat of vapourisation results in a decreased temperature of expired gas  
     * A filter layer  
     Typically a electrostatic or hydrophobic material.
 * Expired gas is cooled and dried

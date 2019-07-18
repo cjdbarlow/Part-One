@@ -4,14 +4,14 @@
 |--|--|
 |**Example**|Metformin|Gliclazide|Pioglitazone|Dapagliflozin
 |**Uses**|T2DM|T2DM|T2DM|T2DM
-|**Mechanism of Action**|Delay glucose absorption, increase peripheral insulin sensitivity, inhibit hepatic gluconeogenesis|Increase insulin secretion from pancreatic β-cells. May increase insulin sensitivity|Activates the intranucleic PPARγ receptor, affecting gene translation and increasing insulin sensitivity|Inhibits glucose reabsorption by the S-GLUT<sub>2</sub> co-transporter in the kidney, increasing glucose elimination in urine
+|**Mechanism of Action**|Delay glucose absorption, increase peripheral insulin sensitivity, inhibit hepatic gluconeogenesis|Increase insulin secretion from pancreatic β-cells. May increase insulin sensitivity|Activates the intranuclear PPARγ receptor, affecting gene translation and increasing insulin sensitivity|Inhibits glucose reabsorption by the S-GLUT<sub>2</sub> co-transporter in the kidney, increasing glucose elimination in urine
 |**Dosing**|500mg-2g BD|40-160mg BD|15-30mg daily|5-10mg daily|
 |**Absorption**|Bioavailability 60%|Bioavailability 80%|High bioavailability. Delayed onset and late peak effect given MoA|Bioavailability > 75%
 |**Distribution**|Minimally protein bound|Extensively bound to albumin by non-ionic forces, such that they do not tend to displace other highly protein bound drugs|Low V<sub>D</sub> (0.6L.kg<sup>-1</sup>)||
 |**Metabolism**|Not metabolised|Partial hepatic to inactive metabolites|Extensive hepatic phase I to inactive and active metabolites|Extensive hepatic to inactive metabolites
 |**Elimination**|Renal elimination of active drug|Renal elimination of active drug and inactive metabolites|Renal and GI elimination of active and inactive metabolites|Renal of inactive drug
 |**CVS**|||May precipitate fluid retention||
-|**Renal**|Contraindicated in renal impairment due to increased risk of lactic acidosis|||Containdicated in renal impairment (< 60ml.min<sup>-1</sup>) as it has no benefit|
+|**Renal**|Contraindicated in renal impairment due to increased risk of lactic acidosis|||Contraindicated in renal impairment (< 60ml.min<sup>-1</sup>) as it has no benefit|
 |**MSK**||Photosensitivity|||
 |**Metabolic**||↑ Appetite, weight gain. Hypoglycaemia in fasting.||Weight loss, reduced insulin requirements|
 |**Renal**||||Increased UTI and thrush risk|

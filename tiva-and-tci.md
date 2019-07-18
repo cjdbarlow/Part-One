@@ -9,10 +9,10 @@ Total intravenous anaesthesia involves using IV agents alone to achieve hypnosis
         * Increased cerebral blood flow
 * Disadvantages
     * Drug must be metabolised
-    * Potential increased liklihood of awareness
+    * Potential increased likelihood of awareness
         * Likely related to poor application of technique rather than the technique itself
             * Mostly related to disconnection of infusion without EEG monitoring
-        * Varible plasma concentration
+        * Variable plasma concentration
 
 
 ##Target Controlled Infusion{#tci}
@@ -68,13 +68,13 @@ Over-pressure occurs automatically, so there is no requirement to increase targe
         * 8mg.kg<sup>-1</sup>.hr<sup>-1</sup> for 10 minutes
         * 6mg.kg<sup>-1</sup>.hr<sup>-1</sup> thereafter
 
-**Marsh and Schnider Models:**
+**Marsh and Schneider Models:**
 * These are computer controlled models
 * Both were derived on very small groups of patients (18 and 24 respectively)
 * The models differ mostly in the first 10 minutes after induction, and progressively converge  
-The intial behaviour of the model is key in deciding which model to apply to any particular patient.
+The initial behaviour of the model is key in deciding which model to apply to any particular patient.
 
-|Property|Marsh|Schnider|
+|Property|Marsh|Schneider|
 |--|--|--|--|
 |**Targets**|Typically target plasma concentration, but can target effect site. <br><br>Effect site targeting is usually done with the modified Marsh model, due to the large bolus dosing given by the standard Marsh model.|Typically effect site, but can target plasma concentration. <br><br>Plasma targeting gives inconsistent results, as the fixed size of V<sub>1</sub> means any increase in desired plasma concentration results in the same size bolus being given, irrespective of patient parameters.
 |**Required variables**|TBW (overestimates induction (but not maintenance) in obese patients, consider using IBW), Age (but not used in calculation)|Age, height (to calculate lean body mass), TBW 

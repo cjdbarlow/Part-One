@@ -8,7 +8,7 @@ The circle breathing system is a highly efficient system which:
     * Preserves heat and moisture
     * Reduces fire risk  
     Particularly with older agents.
-* Requires **rebreathing** of expired gases  
+* Requires **re-breathing** of expired gases  
 CO<sub>2</sub> is actively removed.
 * Is a closed-circuit system
     * The only gases which must be replaced are those:
@@ -23,7 +23,7 @@ A circle circuit consists of:
 * A Y-piece, connecting the circuit to the patient
 * Expiratory and inspiratory valves, ensuring unidirectional flow
 * A means of generating pressure  
-In most systems this consists of both a ventilator and a resevoir bag with APL valve attached, with a bag/vent switch to swap between circuits.
+In most systems this consists of both a ventilator and a reservoir bag with APL valve attached, with a bag/vent switch to swap between circuits.
     * These are typically placed on the expiratory limb so that gas can be removed via scavenging prior to passage through soda lime  
     This reduces soda lime consumption, as some CO<sub>2</sub> will be scavenged.
 * Soda lime  
@@ -44,7 +44,7 @@ Soda lime:
     Hardens granules.
     * pH indicator  
     Visual representation of uptake of CO<sub>2</sub> by soda-lime.
-        * Phenopthaliein  
+        * Phenolphthalein  
         Red to white.
         * Ethyl violet  
         White to purple.

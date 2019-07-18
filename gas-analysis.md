@@ -12,7 +12,7 @@ This means it is attracted by magnetic fields, but does not propagate the field.
     * This is because its two unpaired valent electrons have the same spin.
 * Many other gases weakly repelled by magnetic fields (diamagnetic)
 
-* The attaction of a gas mixture to a magnetic field is therefore proportional to its oxygen content
+* The attraction of a gas mixture to a magnetic field is therefore proportional to its oxygen content
 * Many different methods exist which use this property to determine oxygen content
 
 ###Pressure Method
@@ -26,6 +26,7 @@ This means it is attracted by magnetic fields, but does not propagate the field.
 * The greater the oxygen content of the gas, the more it will move into the magnetic field  
 This movement creates a negative pressure behind the gas.
 * The pressure difference between the tested gas and the reference gas is proportional to the oxygen content of the test gas.
+
 
 ###Temperature Method
 Used in many modern devices.
@@ -76,6 +77,7 @@ Results in an under-reading of PO<sub>2</sub>.
 21% and 100% oxygen are used.
 * Relatively slow response time compared to paramagnetic analysers  
 ~20s.
+
 
 ---
 

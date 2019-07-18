@@ -3,7 +3,7 @@
 
 The neuromuscular junction is a chemical communication between the motor neuron and the muscle cell. Vesicles containing ACh are released when activated by Ca<sup>2+</sup>, and influx of which occurs when the action potential reaches the nerve terminal.
 
-Nictotinic ACh receptors sit on the shoulders of junctional folds of muscle cells, whilst acetylcholinesterase is buried in the clefts.
+Nicotinic ACh receptors sit on the shoulders of junctional folds of muscle cells, whilst acetylcholinesterase is buried in the clefts.
 
 
 ##Factors Affecting Neuromuscular Blockade
@@ -28,7 +28,7 @@ Nictotinic ACh receptors sit on the shoulders of junctional folds of muscle cell
 |-----|--|
 |Frusemide|Potentiates blockade at low dose, reduces blockade at high dose|Inhibits protein kinases (reducing AMP/ATP synthesis) at low dose, inhibits PDE at high doses which increases ACh release
 |Inhalational anaesthetics|Potentiates blockade|Stabilise post-junctional membrane, blockade of presynaptic ACh receptors
-|Antibiotics|Potentiate blockade|Variable. Aminoglycosides and tetracycles prolong blockade
+|Antibiotics|Potentiate blockade|Variable. Aminoglycosides and tetracyclines prolong blockade
 |Local anaesthetics|Potentiate blockade|Reduce ACh release and stabilise post-junctional membrane
 |Anticholinesterases|Reduces blockade|Increase ACH levels at the NMJ by decreasing breakdown
 |OCP|Potentiates depolarising blockade|Competes for binding sites on plasma cholinesterases|

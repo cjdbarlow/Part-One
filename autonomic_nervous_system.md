@@ -80,7 +80,7 @@ There are three exceptions to the above structure:
 * The **adrenal gland** is a **modified sympathetic ganglion**. It is:
   * Directly innervated by preganglionic neurons releasing ACh
 * Sweat glands have muscarinic receptors, and are stimulated by ACh rather than noradrenaline
-* Skeletal muscle metarterioles also have muscarinic ACh receptors, and are stimulated by ACh
+* Skeletal muscle arterioles also have muscarinic ACh receptors, and are stimulated by ACh
 
 ###Effect
 Sympathetic stimulation has a number of effects by either direct neural innervation or adrenaline release. They are consistent with a 'fight or flight' response, and optimise the body for short-term stress conditions.
@@ -89,7 +89,7 @@ Sympathetic stimulation has a number of effects by either direct neural innervat
 |--|--|--|
 |**Eye**|Cervical|Pupillary dilatation
 |**Lungs**|Thoracic|Bronchodilation
-|**Heart**|Thoracic|↑↑↑ Chronotropy, ↑↑↑ inotropy, ↑↑↑ lusiotropy, ↑↑ dromotropy
+|**Heart**|Thoracic|↑↑↑ Chronotropy, ↑↑↑ inotropy, ↑↑↑ lusitropy, ↑↑ dromotropy
 |**Vasculature**|Sacral|Constriction
 |**MSK**|Sacral|Sweating, contraction, lipolysis
 |**Endocrine**|Lower thoracic|Adrenaline and noradrenaline release
@@ -123,7 +123,7 @@ The parasympathetic nervous system ganglia site close to the target organ. This 
 |--|--|--|
 |**CNS**|CN III via the Edinger-Westphal nucleus, CN VII|Pupillary constriction (CN III), lacrimation (CN VII)
 |**Lungs**|CN X|Bronchoconstriction, increased mucous production
-|**Heart**|CN X|↓↓↓ Chronotropy, ↓↓↓ dromotropy, ↓ inotropy, ↓ luisotropy (↓ in inotropy and luisotropy is greater in the atria than the ventricles)
+|**Heart**|CN X|↓↓↓ Chronotropy, ↓↓↓ dromotropy, ↓ inotropy, ↓ lusitropy (↓ in inotropy and lusitropy is greater in the atria than the ventricles)
 |**GIT**|CN VII (submaxillary and mandibular salivary glands), CNIX (parotid gland), CNX (stomach to proximal two-thirds of the transverse colon), hypogastric plexus (distal one-third of the transverse colon to rectum)|Salivation, decreased sphincter tone, increased motility
 |**GU**|Hypogastric plexus|Detrusor contraction, erection
 
@@ -134,7 +134,7 @@ Effective sympatholysis:
   * Vasculature  
   Vasodilation, hypotension.
   * Sweat glands  
-  Anhydrosis.
+  Anhidrosis.
 * PNS dominant organ systems  
 Effective parasympatholysis:
   * Heart  
@@ -158,6 +158,6 @@ The **enteric plexus** is a system of autonomic nerves in the GIT which is free 
 ---
 
 ##References
-Power and Kam
-Ganong
-http://www.cvphysiology.com/Blood%20Pressure/BP009
+1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+2. Barrett KE, Barman SM, Boitano S, Brooks HL. Ganong's Review of Medical Physiology. 24th Ed. McGraw Hill. 2012.
+3. Klabunde, RE. [Neural Activation of the Heart and Blood Vessels](http://www.cvphysiology.com/Blood%20Pressure/BP009). Accessed 2016.

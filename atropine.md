@@ -5,7 +5,7 @@ Naturally occurring tertiary amine which competitively antagonises ACh at the mu
 |Property|Atropine|
 |--|--|
 |**Class**|Naturally occurring tertiary amine. Muscarinic antagonist.|
-|**Uses**|Bradycardia, organophosphate poisoning, antisialogogue, treatment of PDPH|
+|**Uses**|Bradycardia, organophosphate poisoning, antisialagogue, treatment of PDPH|
 |**Presentation**| Clear, colourless solution at 600μg.ml<sup>-1</sup>. Racemic mixture, with only the L-isomer active|
 |**Route of Administration**|IV|
 |**Dosing**|600μg-3mg|

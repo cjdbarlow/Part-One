@@ -14,7 +14,7 @@ Once emulsified, triglycerides can be hydrolysed by **lipase** into fatty acids 
 
 ##Absorption
 Absorption occurs in a number of stages:
-* Mixed micelles, free fatty acids, monoacylgylcerol, and cholesterols are absorbed via facilitated diffusion into the enterocyte
+* Mixed micelles, free fatty acids, monoacylglycerol, and cholesterols are absorbed via facilitated diffusion into the enterocyte
 * From the enterocyte:
   * Short-chain fatty acids (those with < 12 carbon atoms) enter the portal vein and travel directly to the liver
   * Long-chain fatty acids are re-esterified and packaged with a layer of **protein** and **cholesterol** to form a ** chylomicron**  
@@ -22,12 +22,12 @@ Absorption occurs in a number of stages:
     * Chylomicrons are ejected from the cell into the lymphatics and travel to the systemic circulation
     * Chylomicrons are removed from circulation by **lipoprotein lipase**  
     Lipoprotein lipase is found on capillary endothelium and bound to albumin.
-    * Lipoprotein lipase breaks down triglylceride in chylomicrons and VLDL to free fatty acids and glycerol  
+    * Lipoprotein lipase breaks down triglyceride in chylomicrons and VLDL to free fatty acids and glycerol  
     This reaction uses **heparin** as a **cofactor**.
     * Free fatty acids and glycerol are then free to enter adipose tissue
 
 ##Storage
-Fat is stored as **trigylcerides**, and forms the bulk of energy storage of the body.
+Fat is stored as **triglycerides**, and forms the bulk of energy storage of the body.
 
 Triglycerides are synthesised by the liver:
 * Occurs when insulin levels are high and glycogen stores are full
@@ -35,7 +35,7 @@ Triglycerides are synthesised by the liver:
 These are converted to fatty acids and glycerol, and then esterified to form triglyceride. This is known as lipogenesis.
 
 ##Metabolism
-Free fatty acids can be absorbed by adiopocytes for storage, or be **β-oxidised to acetyl CoA** in the liver, which can enter the citric acid cycle to produce ATP. 
+Free fatty acids can be absorbed by adipocytes for storage, or be **β-oxidised to acetyl CoA** in the liver, which can enter the citric acid cycle to produce ATP. 
 
 ---
 ##References

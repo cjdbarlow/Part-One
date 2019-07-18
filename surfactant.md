@@ -33,11 +33,11 @@ $$ P = {2T \over r}$$, where:
 * Surfactant is a substance which substantially reduces work of breathing by reducing alveolar surface tension
 * Surfactant is produced by type II alveolar cells in response to lung inflation and respiration
 * It is composed of:
-  *  85% phopholipid
+  *  85% phospholipid
   *  5% neutral lipid
   *  10% protein
 * Surfactant is **amphipathic**  
-Each component has a hydrophobic and hydrophlic end.
+Each component has a hydrophobic and hydrophilic end.
   * This causes the molecules to orient themselves along the air-liquid interface, disrupting the attractive bonds between water molecules
   * Surface tension is reduced in proportion to the concentration of molecules
 * The concentration of surfactant changes throughout the respiratory cycle

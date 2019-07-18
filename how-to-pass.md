@@ -68,7 +68,7 @@ I cannot stress this enough. This is **the** key to preparing for this exam.
      * Remember that the marking follows a sigmoid distribution
          * The first 30% of marks for a question are easy to get
          * The last 30% of marks are very difficult to get
-         * Therefore, the most efficent use of your time is to aim to get ~60-70% of marks for each question.
+         * Therefore, the most efficient use of your time is to aim to get ~60-70% of marks for each question.
          
 
 * **Remember the pass mark is 50%**  
@@ -124,7 +124,7 @@ Different times will be better for different things. I found:
     * Post night shift was a write-off
 * Maintain a positive attitude  
 Study groups are good for this - share the suffering!
-* Split large topics into managable chunks
+* Split large topics into manageable chunks
 * Don't lose your head  
 Set aside time for relaxation, and don't feel guilty about it.
 * You don't have to know everything  

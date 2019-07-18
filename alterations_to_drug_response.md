@@ -46,11 +46,11 @@ Typically mediated by a reactive metabolite rather than the drug itself.
     * **Receptor down-regulation**  
     Prolonged exposure to agonists causes transmembrane (typically hormone) receptors to become **internalised**. This occurs more slowly than uncoupling.
     * **Receptor up-regulation**  
-    Prolonged exposure to antagonists causes an upregulation of receptor.
+    Prolonged exposure to antagonists causes an up-regulation of receptor.
         * Can lead to rebound effects when a drug is ceased (e.g. hypertension with cessation of clonidine)
-    * **Exhaustation of mediators**  
+    * **Exhaustion of mediators**  
     Similar to tachyphylaxis - depletion of a mediating substance decreases the effect.
-    * **Physiological adapation**  
+    * **Physiological adaptation**  
     Actions of a drug may be countered by a compensatory homeostatic response.
     * **Active removal of the drug from the cell**
 
@@ -151,7 +151,7 @@ At < 1 year of age, pharmacokinetics are significantly altered:
 Though there is a linear decrease in functional capacity of major systems beginning at 45, alterations are predominantly a consequence of polypharmacy and drug interactions.
 
 * **Absorption**  
-    * Laxatives and prokinetics increase gastric emptying and reduce absorption of oral agents
+    * Laxatives and prokinetic increase gastric emptying and reduce absorption of oral agents
 
 
 * **Distribution**  

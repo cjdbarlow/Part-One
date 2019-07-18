@@ -64,7 +64,7 @@ The FRC has many important physiological functions:
 The FRC allows blood in the pulmonary circulation to become oxygenated throughout the respiratory cycle (if there was no FRC, then at expiration the lungs would be empty and no oxygenation would occur).
 
 * **Oxygen Reserve**  
-FRC is the only clinically modifiable oxygen store in the body, and allows continual oxygenation of blood during apnoeic periods.
+FRC is the only clinically modifiable oxygen store in the body, and allows continual oxygenation of blood during apneic periods.
 
 
 
@@ -151,7 +151,7 @@ Factors affecting FRC:
  
 ###Body Plethysmography
 * Body plethysmography relies on:
-  * Boyles law  
+  * Boyle's law  
   Pressure and volume are inversely proportional at a constant temperature, i.e. ($$P \times V = k$$).
 
 
@@ -191,7 +191,7 @@ Closing capacity is the sum of residual volume and closing volume.
 
 
 ###Measurement of Closing Capacity
-Closing capacity is measured using Fowlers Method, and is covered under [Dead Space](dead_space.md).
+Closing capacity is measured using Fowler's Method, and is covered under [Dead Space](dead_space.md).
 
 ---
 ##References

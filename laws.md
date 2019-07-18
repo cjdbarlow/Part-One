@@ -124,6 +124,7 @@ $$ Net \ flow \ out = K[(P_c - P_i) - \sigma (\pi_c - \pi_i)] $$
 Calculates the shunt fraction by identifying how much mixed venous blood must be added to ideal pulmonary capillary blood to produce the identified arterial oxygen content. 
 $${\dot{Q}_S \over \dot{Q}_T} = {Cc'_{O_2} - Ca'_{O_2} \over Cc'_{O_2} - C\bar{v}'_{O_2}}$$
 
+
 ##Equipment
 * **Doppler equation**  
 Calculates the velocity of an object based on the change in observed frequency when a wave is reflected off (or emitted from) the object:  
@@ -134,7 +135,7 @@ $$ V = { \Delta Fs \over 2F_0cos\theta} $$ where:
     * $$ F_0 $$ = Frequency of the emitted sound  
     * $$ \theta $$ = Angle between the sound wave and the object
 
-
+---
 
 ## References
 1. Davis & Kenny. Basic Physics and Measurement in Anaesthesia, 5th Edition.

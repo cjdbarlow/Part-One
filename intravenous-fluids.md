@@ -19,8 +19,8 @@ Substance evenly dispersed throughout another solution in which it is insoluble.
         Heat-treated human albumin.
             * Produced at low pH but not technically sterile  
             Use within 3 hours of opening.
-            * Contibutes to plasma oncotic pressure
-            * Contibutes to drug and endogenous substance binding
+            * Contributes to plasma oncotic pressure
+            * Contributes to drug and endogenous substance binding
     * Synthetic
         * Dextrans  
         High molecular weight sugars synthesised from sucrose by bacteria.  

@@ -20,7 +20,7 @@
 |**Metabolism**|< 0.01% hepatic reduction.|
 |**Resp**|Diffusion hypoxia due to second gas effect. Small ↓ in V<sub>T</sub>, ↑ in RR such that MV is unchanged.|
 |**CVS**|↑ SNS tone, mild myocardial depression. ↑ PVR - beware in pulmonary hypertension.|
-|**CNS**|Powerful analgesic when > 20%, via endorphin and encephalin modulation, and on opioid receptors. ↑ CBF. Loss of consciousness common at 80%. 1.4x relative risk of PONV|
+|**CNS**|Powerful analgesic when > 20%, via endorphin and enkephalin modulation, and on opioid receptors. ↑ CBF. Loss of consciousness common at 80%. 1.4x relative risk of PONV|
 |**GU**|Not tocolytic - useful adjuvant in GA caesarian section to reduce volatile anaesthetic use
 |**GIT**|Expansion|
 |**Metabolic**|↑ Homocysteine.|

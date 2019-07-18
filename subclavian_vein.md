@@ -16,7 +16,7 @@ The subclavian vein:
 * Laterally by the axillary vein
 
 ##Surface Anatomy
-The needle is placed in the deltopectroal groove, inferior and lateral to the middle third of the clavicle. The needle is inserted at a shallow angle, passing under the middle third of the clavicle aiming at the sternal notch.
+The needle is placed in the deltopectoral groove, inferior and lateral to the middle third of the clavicle. The needle is inserted at a shallow angle, passing under the middle third of the clavicle aiming at the sternal notch.
 
 
 ---

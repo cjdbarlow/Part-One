@@ -10,7 +10,7 @@ Microorganisms can be classified as prokaryotes (**bacteria**), **viruses**, or 
   It cannot be used on organisms that lack a cell wall, such as mycoplasma.
     * A **crystal violet** followed by an **iodine** solution is applied to the slide, which is then **washed with a solvent**
       * **Gram +ve** organisms will **retain the stain** due to their **thick peptidoglycan cell wall**, whilst gram negative organisms become colourless
-    * A **safarin pink stain** is then applied, which stains the **gram -ve** bacteria **pink**
+    * A **safranin pink stain** is then applied, which stains the **gram -ve** bacteria **pink**
   * Bacteria can also be classified by shape into:
     * **Cocci**  
     Appear round on microscopy.
@@ -73,12 +73,12 @@ Eukaryotic organisms include fungi, protozoa, and helminths, as well as plants a
 | Property| Prokaryotes | Eukaryotes |
 | -- | -- | -- |
 | Chromosomes | Single, circular | Multiple |
-| Nucleus and Organelles | None | Membrane bound nucleus and orangelles|
+| Nucleus and Organelles | None | Membrane bound nucleus and organelles|
 | Cell wall | Usually | In plants |
 | Ribosome | 70S | 80S in cell, 70S in organelles |
 | Size | 0.2-2mm | 10-100mmm |
 
-* **Fungi** typically feed on dead/decomposing/the immmunocompromised and produce spores. They are subclassified into:
+* **Fungi** typically feed on dead/decomposing/the immunocompromised and produce spores. They are subclassified into:
   * **Yeasts**  
   Yeasts are unicellular. They are divided into:
     * Candida
@@ -86,24 +86,24 @@ Eukaryotic organisms include fungi, protozoa, and helminths, as well as plants a
       * Non-albicans
       More difficult to treat.
     * Cryptococcus
-  *  **Moulds**  
-  Moulds are are filamentous.
+  *  **Molds**  
+  Molds are are filamentous.
     * Aspergillus
     * Penicillium
-  * **Dimorphus**
-  Have characteristics of both yeasts and moulds.
+  * **Dimorphous**
+  Have characteristics of both yeasts and molds.
     * Histoplasma
 
 
-* **Protozoa** are parasitic single-celled eukaryotes. They can be intracellular or extacellular.
+* **Protozoa** are parasitic single-celled eukaryotes. They can be intracellular or extracellular.
 
-* **Helminths** are parasitic multi-celled eukaryotes. They can be intracellular or extacellular. They are subdivided into tapeworms (cestodes), flukes (trematodes), and roundworms (nematodes).
+* **Helminths** are parasitic multi-celled eukaryotes. They can be intracellular or extracellular. They are subdivided into tapeworms (cestodes), flukes (trematodes), and roundworms (nematodes).
 
 ---
 ##Footnotes
-[^1]: This classification does not capture spirochetes, mycoplasmas, chlamydias, and other less commonnly encountered organisms. A more complete classification uses six properties:
+[^1]: This classification does not capture spirochetes, mycoplasmas, chlamydias, and other less commonly encountered organisms. A more complete classification uses six properties:
 
-1. Cell Wall Stucture
+1. Cell Wall Structure
     2. Flexible (e.g. Spirochetes)
     3. Rigid
     4. Non-existent (e.g. *Mycoplasma spp.*)

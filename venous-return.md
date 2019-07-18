@@ -3,8 +3,8 @@
 > Define the components and determinants of cardiac output
 
 The venous system has two key cardiovascular functions:
-* Blood resevoir  
-Contains 65% of blood ovolume.
+* Blood reservoir  
+Contains 65% of blood volume.
 * Conduit for return of blood to the heart
 
 Venous return is the rate at which blood is returned to the heart (in L.min<sup>-1</sup>). **At steady state**, venous return is equal to cardiac output, and can be expressed as:  
@@ -14,7 +14,7 @@ $$ VR = {MSFP - RAP \over RVR}$$, where:
 This is the mean pressure of the circulation when there is no flow. It is an indicator of circulatory filling, and is a function of circulating volume and vascular compliance.
     * Normal mean systemic filling pressure is **~7mmHg**  
 * $$RAP$$ is the right atrial pressure  
-An elevated RAP reduces rvenous return.
+An elevated RAP reduces venous return.
 * $$RVR$$ is the resistance to venous return
 
 This relationship can be expressed graphically:

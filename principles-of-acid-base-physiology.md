@@ -15,7 +15,7 @@ There have been several different theories of acid-base chemistry. The one most 
 ##pKa{#pka}
 * Strong acids (and bases) dissociate completely in solution
 * Weak acids (and bases) only partially dissociate  
-They have a dissociated state (A-) and an undissociate state (HA)
+They have a dissociated state (A-) and an undissociated state (HA)
 * The ratio of concentrations on each side can be used to calculate the **acid dissociation constant**, **Ka**  
 $$ Ka = {[A^-] \times [H^+] \over [HA]}$$  
 This equation describes the strength of an acid by indicating how readily the acid gives up its hydrogen.
@@ -42,7 +42,7 @@ pH disturbance affects many organ systems:
  * Oxyhaemoglobin-Dissociation Curve  
  Right-shifted by a fall in pH.
  * Bronchoconstriction  
- Hypercapnoea causes parasympathetically-mediated bronchoconstriction.
+ Hypercapnea causes parasympathetically-mediated bronchoconstriction.
 * **Cardiovascular**
  * Inotropy  
   Inotropy falls in acidosis due to a direct myocardial depressant effect. May be offset by increased SNS tone in low-grade acidosis. Alkalosis may increase inotropy by increasing responsiveness to circulating catecholamines.
@@ -51,7 +51,7 @@ pH disturbance affects many organ systems:
  * Arrhythmias  
  Secondary to altered SNS tone and electrolytes.
  * Vasodilation  
- Directly due to hypercapnoea.
+ Directly due to hypercapnea.
 * **CNS**  
 H<sup>+</sup> ions cannot cross the BBB, however CO<sub>2</sub> can.
 * **Fluid and Electrolyte**  
@@ -70,7 +70,7 @@ H<sup>+</sup> ions cannot cross the BBB, however CO<sub>2</sub> can.
  Change in ion permeability will alter RMP, and therefore how easy it is to generate an action potential.
  
 ###Change with Temperature
-pH is temperature dependant:
+pH is temperature dependent:
 * **pH increases** by **0.015** for every **1°C fall** in **temperature**  
 Due to decreased ionic dissociation of water.
 * **Gas solubility **almost always** increases** when **temperature falls**  
@@ -97,7 +97,7 @@ There are two common methods for **managing** pH of significantly hypothermic pa
 * Unlike pH-stat, this does not cause cerebral vasodilation
 
 ---
-##Referenecs
+##References
 1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
 2. ANZCA July/August 1999
 3. Chemlab. [Solubility](https://www.chem.fsu.edu/chemlab/chm1046course/solubility.html). Florida State University.

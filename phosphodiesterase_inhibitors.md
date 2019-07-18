@@ -13,10 +13,10 @@ Methylxanthines non-selectively inhibit phosphodiesterase, which results in redu
 |**Metabolism**|Hepatic via CYP450 to active metabolites (caffeine and 3-methylxanthine), low hepatic extraction ratio|
 |**Elimination**|Highly variable elimination affected by age, renal disease, hepatic disease|
 |**Resp**|Bronchodilation, ↑ Diaphragmatic contractility|
-|**CVS**|↑ Inotropy, ↑ chronotropy. Narrow therapeutic range due to arrythmogenic (VF) properties|
+|**CVS**|↑ Inotropy, ↑ chronotropy. Narrow therapeutic range due to arrhythmogenic (VF) properties|
 |**CNS**|↓ Seizure threshold|
 |**Renal**|Natriuresis and hypokalaemia|
-|**Toxic Effects**|Low therapeutic index, with toxicity manifested as tachyarrythmias including VF, tremor, insomnia and seizures|
+|**Toxic Effects**|Low therapeutic index, with toxicity manifested as tachyarrhythmias including VF, tremor, insomnia and seizures|
 
 ---
 ##References

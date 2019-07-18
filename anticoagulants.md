@@ -8,7 +8,7 @@
 |**Onset**|8-12 hours. Peak at 72 hours due to the half-life of existing clotting factors, and the total body stores of vitamin K|Immediate IV onset||
 |**Absorption**|100% bioavailability|IV, SC|SC only|
 |**Distribution**|99% protein bound|Low lipid solubility, highly protein bound|Does not bind to heparin-binding proteins
-|**Metabolism**|Complete hepatic mestabolism. Significant pharmacokinetic interaction with enzyme inducers and inhibitors.|Hepatic interactions due to enzymatic induction (ETOH, amiodarone, salicylates, NSAIDs) and inhibition (OCP, barbiturates, carbamazepine)|Renal elimination of metabolites
+|**Metabolism**|Complete hepatic metabolism. Significant pharmacokinetic interaction with enzyme inducers and inhibitors.|Hepatic interactions due to enzymatic induction (ETOH, amiodarone, salicylates, NSAIDs) and inhibition (OCP, barbiturates, carbamazepine)|Renal elimination of metabolites
 |**Elimination**|Faecal and renal elimination of metabolites, t<sub>1/2</sub>β of 40 hours|Renal of inactive metabolites|Renal of active drug and inactive metabolites
 |**CVS**|Microthrombi|Hypotension with rapid IV administration||
 |**Metabolic**|Less osteoporosis due to less protein (and therefore tissue) binding|Osteoporosis||

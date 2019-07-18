@@ -74,7 +74,7 @@ Continuous measurement and display of viscoelastic properties of a blood sample 
 	Torsion on the pin is converted (by a transducer) into a TEG tracing.
 	* Cuvette rotates through 4°45′ in alternate directions  
 	Each rotation takes 10s.
-	* Pin initially remains stationary as it rotates through the unclotted blood  
+	* Pin initially remains stationary as it rotates through the un-clotted blood  
 	This is represented by a straight line on the tracing.
 	* **As blood clots, cup rotation exerts torque on the pin**
 	* The stronger the blood clot, the greater the torque exerted on the pin
@@ -126,7 +126,7 @@ e.g. Citrated vs. recalcified samples.
 |**K time**|**CFT** (clot formation time)|Time for amplitude to increase from 2-20mm|Measurement of clot kinetics (clot amplification), **dependent on fibrinogen**|
 |**α angle**|**α angle**|Angle between the tangent to the tracing at 2mm and the midline|Rapidity of fibrin formation and cross-linking. Alternate measure of clot kinetics, **dependent on fibrinogen**|
 |**MA** (maximum amplitude)|**MCF** (maximum clot thickness)|Greatest amplitude|Indicates point of maximal clot strength, **dependent *predominantly* on platelets (80%)** and **fibrinogen (20%)**, binding via **GPIIb/IIIa**. Treatment with **platelets** or **DDAVP**.|
-|**CL 30** (clot lysis 30)|**LY 30**|Percent decrease in amplitude 30 minutes after MA|Clot stabilit, dependent on **fibrinolysis**. Reduced CL 30 can be treated with an **antifibrinolytic**, such as TXA|
+|**CL 30** (clot lysis 30)|**LY 30**|Percent decrease in amplitude 30 minutes after MA|Clot stability, dependent on **fibrinolysis**. Reduced CL 30 can be treated with an **antifibrinolytic**, such as TXA|
 
 
 ---

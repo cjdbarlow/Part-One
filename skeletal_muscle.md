@@ -90,7 +90,7 @@ This process involves:
 * The release of ADP triggers a **power stroke**, which is a process of attachment, pulling, and detachment  
 Each cycle shortens the sarcomere by **~10nm**:
     * The myosin head rotates on its 'neck', moving to a new actin binding site
-    * ATP binds to the (now free) binding site on the mysoin
+    * ATP binds to the (now free) binding site on the myosin
     * ATP is hydrolysed to ADP, in the process "re-cocking" the myosin head  
     This process causes the thick and think filaments to slide on each other, with the myosin heads pulling the actin filaments to the centre of the sarcomere. Therefore, over the course of a power stroke:
         * The A-band is unchanged

@@ -25,7 +25,7 @@ Have greater effect on negative symptoms.
 |**Uses**| Behavioural emergencies, schizophrenia/psychosis
 |**CVS**|QT prolongation
 |**CNS**|Apathy, ↓ initiative, ↓ response to external stimuli, ↓ aggression. No loss of intellectual function. 
-|**Endocrine**|↑ Prolactin (typicals)
+|**Endocrine**|↑ Prolactin (typical antipsychotics)
 |**Haeme**|Leukopenia and agranulocytosis (predominantly clozapine, but can be all)
 |**Metabolic**|Weight gain, diabetes, hypercholesterolaemia (all atypical > typical)
 |**Other Toxicities**|Neuroleptic malignant syndrome, EPSE
@@ -60,7 +60,7 @@ Motor disturbances from antipsychotic use are termed EPSEs, and are divided into
 |**Metabolism**|Hepatic to largely inactive metabolites|Hepatic to inactive metabolites|May obey **zero-order** kinetics at the upper limit of the dose range
 |**Elimination**|Renal of metabolites|Renal of inactive metabolites|Renal of active drug (~25%) and inactive metabolites
 |**CVS**|Hypotension||Myocarditis (potentially fatal)|
-|**CNS**|||Seziures|
+|**CNS**|||Seizures|
 |**GIT**|Antiemetic||Hepatitis|
 |**Haeme**|||Agranulocytosis, thromboembolic disease
 

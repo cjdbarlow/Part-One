@@ -32,7 +32,7 @@ As seen, above starting an infusion at the rate required to maintain steady stat
 $$ Loading \ dose = V_D.C_{target} $$
 
 ##Stopping an Infusion
-For a bi-exponential model (i.e. only one peripheral compartment), decline in plasma concentration can be modelled by the equation $$ C = Ae^{- \alpha t} + Be^{- \beta t}$$. In this model:
+For a bi-exponential model (i.e. only one peripheral compartment), decline in plasma concentration can be modeled by the equation $$ C = Ae^{- \alpha t} + Be^{- \beta t}$$. In this model:
 * $$\alpha$$ is the time-constant for redistribution  
 * $$\beta$$ is the time-constant for **terminal elimination**  
 (Provided the infusion has reached steady-state).
@@ -116,7 +116,7 @@ It wears off reliably and quickly following cessation of infusion.
 
 ####Context-Sensitive Decrement Time
 * Describe the time it takes for a drug level to fall to a particular percentage of its starting value following cessation of an infusion
-* They are used because the half-times do not describe **monoexponential decay**  
+* They are used because the half-times do not describe **mono-exponential decay**  
 i.e. The time taken for drug concentration to reach 25% of its starting value is not twice the context sensitive half-time.
 * The context-sensitive half-time could also be described as the 50% context-sensitive decrement time 
 
