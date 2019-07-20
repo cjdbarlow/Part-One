@@ -38,7 +38,7 @@ Typically, induction doses used are 2-5x the ED<sub>95</sub>.
 |**Resp**||||Slight risk of bronchospasm with rapid injection|Slight risk of bronchospasm with rapid injection|
 |**CVS**|↑ HR at high doses|**No** ↑ HR|↑ HR and MAP due to muscarinic antagonism|Risk of ↓ BP with rapid injection|Risk of ↓ BP with rapid injection|
 |**Immune**|Higher risk of anaphylaxis, ~6/100,000. Anaphylaxis risk associated with use of pholcodine in the previous 3 years.|Notably no anaphylaxis recorded in NAP 6||Anaphylaxis ~ 4/100,000.||
-|**Other**|Reversible with **sugammedex**|Reversible with **sugammedex**|||||
+|**Other**|Reversible with **sugammadex**|Reversible with **sugammadex**|||||
 
 ---
 ##References

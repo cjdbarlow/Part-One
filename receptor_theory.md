@@ -94,7 +94,7 @@ Create a conformational change in the receptor. They cannot be overridden by inc
 ####Indirect Antagonist
 Indirect antagonists reduce the clinical effect of a drug, but do so via means other than receptor interaction. They include:
 * **Chemical antagonists**  
-Where the drug binds directly to another. Examples include protamine and heparin, and sugammedex and rocuronium.
+Where the drug binds directly to another. Examples include protamine and heparin, and sugammadex and rocuronium.
 * **Physiologic antagonists**  
 A countering effect is produced by agonism of other pathways.
 

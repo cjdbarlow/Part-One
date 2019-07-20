@@ -617,7 +617,7 @@ Increase in contractility with an increase in HR. Also known as the Bowditch eff
 Irregular movement in radial, axial, and circumferential axes.
 
 ##V
-* **Valsalva Maneuvre**  
+* **Valsalva Manoeuvre**  
 Forced expiration against a closed glottis.
 
 * **Vapour**  

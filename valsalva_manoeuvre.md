@@ -1,11 +1,11 @@
-# Valsalva Maneuvre
+# Valsalva Manoeuvre
 
-> Explain the response of the circulation to situations such as ~~changes in posture haemorrhage, hypovolaemia, anaemia, intermittent positive pressure ventilation, positive end-expiratory pressure, and~~ the Valsalva maneuvre.
+> Explain the response of the circulation to situations such as ~~changes in posture haemorrhage, hypovolaemia, anaemia, intermittent positive pressure ventilation, positive end-expiratory pressure, and~~ the Valsalva manoeuvre.
 
 A Valsalva is forced expiration against a closed glottis. This can be achieved by increasing P<sub>AW</sub> to 40mmHg for 15 seconds. This increase in intrathoracic pressure alters many haemodynamic parameters.
 
 ##Phases
-A Valsalva maneuvre consists of four phases:
+A Valsalva manoeuvre consists of four phases:
 
 ###Phase I
 * P<sub>AW</sub> is increased to 40cmH<sub>2</sub>O, with a corresponding increase in P<sub>Thoracic</sub>

@@ -68,13 +68,13 @@ Over-pressure occurs automatically, so there is no requirement to increase targe
         * 8mg.kg<sup>-1</sup>.hr<sup>-1</sup> for 10 minutes
         * 6mg.kg<sup>-1</sup>.hr<sup>-1</sup> thereafter
 
-**Marsh and Schneider Models:**
+**Marsh and Schnider Models:**
 * These are computer controlled models
 * Both were derived on very small groups of patients (18 and 24 respectively)
 * The models differ mostly in the first 10 minutes after induction, and progressively converge  
 The initial behaviour of the model is key in deciding which model to apply to any particular patient.
 
-|Property|Marsh|Schneider|
+|Property|Marsh|Schnider|
 |--|--|--|--|
 |**Targets**|Typically target plasma concentration, but can target effect site. <br><br>Effect site targeting is usually done with the modified Marsh model, due to the large bolus dosing given by the standard Marsh model.|Typically effect site, but can target plasma concentration. <br><br>Plasma targeting gives inconsistent results, as the fixed size of V<sub>1</sub> means any increase in desired plasma concentration results in the same size bolus being given, irrespective of patient parameters.
 |**Required variables**|TBW (overestimates induction (but not maintenance) in obese patients, consider using IBW), Age (but not used in calculation)|Age, height (to calculate lean body mass), TBW 

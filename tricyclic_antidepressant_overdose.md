@@ -13,7 +13,7 @@ Cardiac toxicity is due to antagonism of α-adrenoreceptors use-dependent blocka
 Blockade of fast sodium channels occurs in the His-Purkinje system, as well as the atrial and ventricular myocardium. This results in **decreased myocardial impulse conduction**. They block channels in the inactivated state, resulting in a **use-dependent blockade** such that the **effect is greater at faster heart rates**. This results in an increased depolarisation and repolarisation time. ECG findings are consistent with this and are essentially pathognomonic:
 * Widened QRS
 * Right axis deviation of the terminal QRS  
-  \>3mm terminal R wave in aVR
+⩾3mm terminal R wave in aVR.
 
 Additional ECG findings include:
 * Tachycardia

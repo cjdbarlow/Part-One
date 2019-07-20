@@ -7,7 +7,7 @@ Anaesthetic gases not confined to the circuit.
 	* Limited current practical application  
 	Expensive, environmental contamination.
 	* e.g. Ether masks
-* Non-re-breathing  
+* Non-rebreathing  
 No expired gas is re-inspired; requires a one-way valve.
 	* Limited practical application
 	* Requires a low-resistance draw-over vapouriser

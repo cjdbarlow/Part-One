@@ -81,7 +81,7 @@ $$ C_S = {C_{Tot} \over FRC} $$
 Respiratory system compliance can be affected by changes to either lung or chest wall compliance, and can be increased or decreased.
 
 ###Increased Lung Compliance
-* Normal aging
+* Normal ageing
 * Asthma attack
 * Emphysema
 
