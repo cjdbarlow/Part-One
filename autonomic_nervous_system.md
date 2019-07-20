@@ -134,7 +134,7 @@ Effective sympatholysis:
   * Vasculature  
   Vasodilation, hypotension.
   * Sweat glands  
-  Anhidrosis.
+  Anhydrosis.
 * PNS dominant organ systems  
 Effective parasympatholysis:
   * Heart  

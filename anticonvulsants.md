@@ -19,7 +19,7 @@ In **general**, anticonvulsants are:
 |**Distribution**|Highly protein bound|Highly protein bound|Highly protein bound|Nil significant protein binding, V<sub>D</sub> ~0.5L.kg<sup>-1</sup>
 |**Metabolism**| Hepatic hydroxylation with highly individual variation in dosing. Obeys first-order kinetics in the therapeutic range, and **zero-order kinetics just above the therapeutic range**. Metabolised by **CYP450**. Induces warfarin, benzodiazepines, OCP metabolism. Inhibited by metronidazole, chloramphenicol, isoniazid. **Genetic polymorphism** results in reduced metabolism in 5-15% of patients. |Hepatic to inactive and active metabolites|Hepatic|Hepatic hydrolysis to inactive metabolites
 |**Elimination**|Renal elimination of inactive metabolites and active drug|Renal elimination of metabolites and active drug|Renal elimination|Renal of active drug (major route) and metabolite (minor route)
-|**CVS**|↓ BP, heart block, and asystole with rapid administration, antiarrythmics properties||Antiarrhythmic||
+|**CVS**|↓ BP, heart block, and asystole with rapid administration, antiarrhythmic properties||Antiarrhythmic||
 |**CNS**|↑ Seizure threshold, paraesthesia, ataxia, nystagmus, slurred speech, tremor, vertigo.|↑ Seizure threshold|↑ Seizure threshold|↑ Seizure threshold, anxiolytic. Minimal ↓ in seizure threshold on cessation.
 |**Renal**|||Water retention from ADH-like effects|Rarely precipitates AKI|
 |**GIT**|Hepatotoxicity (idiosyncratic). Nausea and vomiting.||Hepatotoxicity.||

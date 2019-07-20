@@ -30,7 +30,7 @@ Inhibition of vasomotor centre with profound fall in CVS parameters.
 ##CNS Responses
 An increasing level of block will lead to greater effects:
 * Cervical  
-Horner's syndrome (miosis, anhidrosis, ptosis) due to loss of sympathetic trunks.
+Horner's syndrome (miosis, anhydrosis, ptosis) due to loss of sympathetic trunks.
 * Cranial nerve
 Pupillary dilation due to CN III blockade.
 * Brainstem and Cerebral Cortex 
