@@ -62,7 +62,7 @@ Jake Barlow is an Anaesthetic and Intensive Care Registrar from Melbourne, Austr
 ---
 
 ###Copyright + Legal
-Copyright © 2015-2017 C. Jake Barlow
+Copyright © 2015-2019 C. Jake Barlow
 
 This page is part of Part One.
 
