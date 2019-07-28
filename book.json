@@ -15,7 +15,8 @@
         "favicon",
         "litfl-2",
         "theme-partone",
-        "mathjax@https://github.com/OrgVue/gitbook-plugin-mathjax.git#speech-fix"
+        "mathjax@https://github.com/OrgVue/gitbook-plugin-mathjax.git#speech-fix",
+        "inline-toc",
     ],
     "pluginsConfig": {
           "git-author": {
@@ -32,6 +33,9 @@
             "shortcut": "resources/favicon-32.ico",
             "bookmark": "resources/favicon-32.ico",
             "appleTouch": "resources/favicon-192.png"
+          },
+          "inline-toc": {
+            "label" : "Contents"
           }
     }
 }
