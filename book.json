@@ -16,7 +16,7 @@
         "litfl-2",
         "theme-partone",
         "mathjax@https://github.com/OrgVue/gitbook-plugin-mathjax.git#speech-fix",
-        "inline-toc",
+        "inline-toc"
     ],
     "pluginsConfig": {
           "git-author": {
