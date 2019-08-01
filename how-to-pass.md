@@ -102,7 +102,7 @@ This is the key to the exam. I suggest:
     This teaches you to keep time, which is vital for success in the SAQ.
         * Still check each answer afterwards, look over that area of the curriculum, and revise and refine your notes
     * When you find yourself running out of time before you run out of things to write, give yourself 9 minutes per question  
-    I would suggest not going beyond this - you need to allocate your time strategically on the day, and writing 
+    I would suggest not going beyond this - you need to allocate your time strategically on the day, and writing to time is critical.
     * As this gets easier, start doing 6 or more questions at a time to train your writing hand
     * Do one or two full exams to time before game day <br><br>
 3. **Do a *lot* of flashcards**  
