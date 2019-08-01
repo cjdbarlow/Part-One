@@ -16,7 +16,7 @@
         "litfl-2",
         "theme-partone",
         "mathjax@https://github.com/OrgVue/gitbook-plugin-mathjax.git#speech-fix",
-        "inline-toc"
+        "intopic-toc"
     ],
     "pluginsConfig": {
           "git-author": {
@@ -34,7 +34,7 @@
             "bookmark": "resources/favicon-32.ico",
             "appleTouch": "resources/favicon-192.png"
           },
-          "inline-toc": {
+          "intopic-toc": {
             "label" : "Contents"
           }
     }
