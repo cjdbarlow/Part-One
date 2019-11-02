@@ -28,28 +28,25 @@ Draw a 2x2 table of disease state versus test outcome:
 
 ##Sensitivity and Specificity
 ###Sensitivity
-* **Sensitivity** is the probability those with the disease test positive, i.e. the **true positive rate**.  
+* **Sensitivity** is the probability those with the disease test positive, i.e. the **true positive rate**, and expressed mathematically as:  
+$$ Sensitivity = {True \ Positives \over All \ Disease \ Positives } = {True \ Positives \over True \ Positives \ + \ False \ Negatives}$$
 * It refers to the ability of a test to **detect the condition**  
 * A highly sensitive test will likely be positive if the condition is present
 * Therefore, a **negative** result on a **sensitive test** gives a **high likelihood the disease is not present**
-    * The mnemonic for this is **SNOUT** - Sensitive, Negative, rule OUT
+  * The mnemonic for this is **SNOUT** - Sensitive, Negative, rule OUT
 
 
-* Sensitivity is the **true positive rate**, and can be expressed mathematically as:  
-$$ Sensitivity = {True \ Positives \over All \ Disease \ Positives } = {True \ Positives \over True \ Positives \ + \ False \ Negatives}$$
 
 ###Specificity
-* **Specificity** is the probability those without the disease test negative, i.e. the **true negative rate**
+* **Specificity** is the probability those without the disease test negative, i.e. the **true negative rate** ,and expressed mathematically as:  
+$$ Specificity = {True \ Negatives \over All \ Disease \ Negatives } = {True \ Negatives \over True \ Negatives \ + \ False \ Positives} $$
 * It refers to the ability of a test to **detect *absence* of the condition**  
 * A highly specific test will likely be negative if the condition is not present
 * Therefore a **positive** result on a **specific test** gives a **high likelihood the disease is present**
   * The mnemonic for this is **SPIN** - Sensitive, Positive, rule IN
 
 
-* Specificity is the **true negative rate**, and can be expressed mathematically as:  
-$$ Specificity = {True \ Negatives \over All \ Disease \ Negatives } = {True \ Negatives \over True \ Negatives \ + \ False \ Positives} $$
-
-##Positive and Negative predictive Values
+##Positive and Negative Predictive Values
 * Positive and negative predictive values describe **the proportion of test results which are true**
 * A high value indicates accuracy of the test
 * Because of how they are derived,** they are dependent on population prevalence of the disease**
