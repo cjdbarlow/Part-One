@@ -14,8 +14,8 @@ Changes are most obvious below 1 year of age. They typically resolve by ~8 years
     * Disproportionately **large tongue** that complicates laryngoscopy
     * **Epiglottis** is **u-shaped**, **longer**, and **stiffer**
     * **Larynx lies at C4** (rather than C6 in adults)
-    * Narrowest part of the upper airway is at the cricoid  
-    Oedema due to trauma may rapidly cause airway obstruction.
+    * Narrowest part of the upper airway is **the transverse diameter of the vocal cords**  
+    Not at the cricoid.
 * Intrathoracic changes
     * Intrathoracic trachea is also shorter  
     May be only 4cm long, so there is little margin for error in tube placement.
@@ -27,3 +27,4 @@ Changes are most obvious below 1 year of age. They typically resolve by ~8 years
 1. Nickson, C. [Paediatric Airway](http://lifeinthefastlane.com/ccc/paediatric-airway/). LITFL.
 2. Anderson, C. [Anatomy of the Respiratory system.](https://icuprimaryprep.files.wordpress.com/2012/05/anatomy-of-the-respiratory-system-22.pdf). ICU Primary Prep.
 3. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+4. Tobias JD. Pediatric airway anatomy may not be what we thought: implications for clinical practice and the use of cuffed endotracheal tubes. Paediatr Anaesth. 2015 Jan;25(1):9-19.
