@@ -23,7 +23,8 @@ As with the SAQ, categorise your answer.
 Enjoy it if you can.
 * Learn to think on your feet  
 The viva assesses knowledge in a different way to the SAQs.
-    * The knowledge will be there, but it may require a different approach to access it   This requires **practice**.
+    * The knowledge will be there, but it may require a different approach to access it  
+    This requires **practice**.
     * This is also important for delivering a sound answer based on incomplete knowledge
 * It's okay to say "I don't know"  
 But probably not on the first question.

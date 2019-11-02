@@ -273,6 +273,7 @@
     * [Direct Vasodilators](direct_vasodilators.md)
     * [ACE Inhibitors](ace_inhibitors.md)
     * [Angiotensin Receptor Blockers](angiotensin_receptor_blockers.md)
+    * [Neprilysin Inhibitors](neprilysin_inhibiors.md)
     * [Potassium Channel Activators](potassium_channel_activators.md)
   * [Antiarrhythmics](sodium_channel_blockers.md#id)
     * [Sodium Channel Blockers](sodium_channel_blockers.md)
