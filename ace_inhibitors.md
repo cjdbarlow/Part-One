@@ -1,4 +1,4 @@
-# ACE Inhibitors
+# Angiotensin Converting Enzyme Inhibitors
 
 ACE inhibitors prevent the conversion of angiotensin I to angiotensin II by angiotensin converting enzyme (ACE) in the lungs, in turn reducing effects of angiotensin II. These effects include:
 * Vasoconstriction
