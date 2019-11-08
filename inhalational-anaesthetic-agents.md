@@ -43,11 +43,12 @@ Reaching equilibrium is rarely achieved in practice as it takes many hours.
     * From blood into the CNS
 
 ###Minimum Alveolar Concentration (MAC)
-MAC is **defined** as the minimum alveolar concentration at **steady state** which prevents a movement response to a standard surgical stimulus (midline incision) in 50% of a population.
+MAC is **defined** as the minimum alveolar concentration at **steady state** which prevents a movement response to a standard surgical stimulus (1cm forearm incision) in 50% of a population.
 
 Note that this definition:
 * Does not reflect lack of awareness  
-Reflects the action of an agent on spinal cord reflexes.
+* Does reflect the action of an agent on spinal cord reflexes  
+This is why 1 MAC is adequate for the majority of patients, as awareness and recall are suppressed at lower MAC values than are required for immobility.
 * Consciousness is better estimated by MAC-awake  
 End-tidal concentration of agent that prevents appropriate responses to a verbal command in 50% of a population.
     * Note that this technically measures *awareness* rather than memory.
