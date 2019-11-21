@@ -57,9 +57,23 @@ This occurs due to reflections in arterial pressure waves.
 ##Respiratory Variation
 Ventilation causes variation in peak systolic pressure due to dynamic changes in cardiac loading conditions:
 * **Negative pressure respiration** (i.e. regular breathing) generates a negative intrathoracic pressure during inspiration  
-Leads to increased VR, but also pooling of blood in the pulmonary circulation and relative underfilling of the LV, leading to a decrease in SV and peak systolic blood pressure.
-* **Positive pressure ventilation** causes the reverse  
-Increased intrathoracic pressure during inspiration results in a decreased venous return but increases LV filling via compression of the pulmonary circulation.
+This:
+    * **Augments right** ventricular function
+        * Increased VR  
+        Via negative intrathoracic pressure.
+        * Increases RVEDV  
+        RV moves up the Starling curve.
+    * **Impedes left** ventricular function
+        * Pooling of blood in the pulmonary circulation
+        * Decreased LVEDV  
+        LV filling restricted by increased RV EDV; this is an example of **intraventricular interdependence**.
+        * Increased afterload  
+        Negative intrathoracic pressure increases LV transmural pressure, increasing wall tension, and therefore afterload.
+        * Decrease in SV and SBP
+* **Positive pressure ventilation** causes *generally* opposite effects
+Increased intrathoracic pressure during inspiration:
+    * Decreases VR but increases LV filling via compression of the pulmonary circulation
+    * Note that LV afterload is reduced throughout the respiratory cycle with the application of PEEP
 * When this change is **>10mmHg**, it is known as **pulsus paradoxus**
 * The magnitude of this effect varies with:
     * Magnitude of intrathoracic pressure change  
@@ -97,7 +111,7 @@ $$PPV = {Pulse \ Pressure_{maximum} - Pulse \ Pressure_{minimum} \over Pulse \ P
     * Note that this does not necessarily mean a fluid responsive patient needs fluid.
 * Reliant on several assumptions:
     * Regular sinus rhythm  
-    Irregular heart rates (particularly AF) lead to significant alterations in ventricular filling and therefore pulse pressure, independent of the respiratory cycle.
+    Irregular heart rates (particularly AF) lead to significant alterations in ventricular filling and therefore pules pressure, independent of the respiratory cycle.
     * Controlled mechanical ventilation  
     No spontaneous efforts.
     * Adequate tidal volumes  
@@ -112,7 +126,7 @@ SVV is:
     * The percent change in stroke volume during inspiration and expiration over the previous **20 seconds**
     * Variation of beat-to-beat SV from the **mean value** over the previous 20 seconds  
     $$SVV = {SV_{max} - SV_{min} \over SV_{mean}} \times 100$$
-* Calculated by specialised devices from an invasive arterial waveform
+* Calculated by specialised devices from an invasive arterial waveform  
 Calculation incorporates:
     * Pulse pressure
     * Vascular compliance  
