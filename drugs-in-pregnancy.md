@@ -17,16 +17,13 @@ Taken by *large number* of women without detrimental effects.
 
 
 * **Category B**  
-Subclassified into:
-    * Category B1
-        * Taken by a *limited number* of women without detrimental effect
-        * Animal studies show no evidence of detrimental effect to the foetus
-    * Category B2
-        * Taken by a *limited number* of women without detrimental effect
-        * Animal studies are inadequate or lacking, but available data shows no evidence of detrimental effect to the foetus
-    * Category B3
-        * Taken by a *limited number* of women without detrimental effect
-        * Animal studies show evidence of foetal damage, but the significance of this in humans is unknown
+Taken by a *limited number* of women without detrimental effect. Subclassified by results from animal studies into:
+    * Category B1  
+    Animal studies show no evidence of detrimental effect to the foetus.
+    * Category B2  
+    Animal studies are inadequate or lacking, but available data shows no evidence of detrimental effect to the foetus.
+    * Category B3  
+    Animal studies show evidence of foetal damage, but the significance of this in humans is unknown.
         
         
 * **Category C**  
@@ -38,10 +35,12 @@ Subclassified into:
     * Drugs which have caused (or are suspected to cause) an increased incidence of foetal malformations or damage
     * May also have detrimental effects
     
+
 * **Category X**  
     * Drugs which have a high risk of causing permanent damage
     * Should not be used in pregnancy, or when pregnancy is possible
     
+
 ---
 ##References
 1. [Australian categorisation system for prescribing medicines in pregnancy](https://www.tga.gov.au/australian-categorisation-system-prescribing-medicines-pregnancy). Therapeutic Goods Administration.

@@ -14,7 +14,7 @@ Eddy currents produced in the **sinuses of Valsalva** (outpouchings of the aorti
 The **LAD**:
 * Courses along the **anterior interventricular groove** to the apex of the heart  
 Here, it anastomoses with the posterior descending artery from the RCA.
-* **Supplies** the **anterolateral myocardium** and **anterior 2/3** of the interventricular **septum**
+* **Supplies** the **anterolateral myocardium** and **anterior 2/3<sup>rds</sup>** of the interventricular **septum**
 * **Branches** of the LAD include:
   * **Diagonal** vessels  
   Branches are named successively from proximal to distal, i.e. LADD<sub>1</sub>, LADD<sub>2</sub>, etc.
@@ -75,7 +75,13 @@ LV CBF is affected in systole due to the changes in perfusion pressure, and comp
   * RV CBF is less affected, as the force of contraction is significantly smaller and a pressure gradient is maintained
   * Tachycardia reduces diastolic time and subsequently LV CBF
 
+
+**Left Ventricular** coronary flow, demonstrating diastolic-dependent perfusion:
+
 <img src="resources\LV-cbf.svg">
+
+
+**Right Ventricular** coronary flow, demonstrating flow throughout the cardiac cycle:
 
 <img src="resources\RV-cbf.svg">
 
