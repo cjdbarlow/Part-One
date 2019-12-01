@@ -33,6 +33,7 @@ Marks become progressively harder to acquire:
 * You should practice to **8-9 minutes** per SAQ  
 In many cases, the last question (or questions) goes unanswered. This demonstrates poor time management, as easy marks were thrown away by candidates reaching for harder marks on earlier questions.
 
+
 * During reading time, you should evaluate each question to:
     * Decide what part of the curriculum it is assessing
     * Work out the context, if any
