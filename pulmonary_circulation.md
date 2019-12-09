@@ -109,6 +109,10 @@ Gravity has a significant effect on pulmonary blood flow:
 * In the supine lung, flow to posterior regions exceeds that of anterior regions  
 This occurs due to the low driving pressure of the pulmonary circulation, which means gravity has a much more significant affect on pulmonary blood flow than systemic blood flow.
 
+Due to difference in lung size:
+* The **right lung** receives **~55%** of cardiac output
+* The **left lung** receives **~45%** of cardiac output
+
 ###West's Zones
 The lung is divided into four zones, based on the relationship between alveolar and vascular pressures:
 * **West's Zone 1**  

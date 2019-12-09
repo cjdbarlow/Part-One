@@ -20,7 +20,7 @@ Data exists in **discrete categories with an intrinsic order**, e.g. age groups 
   * Descriptive statistics for ordinal data are the same for categorical data, but they can also be summarised by the median and the range (e.g. median age group, age group range).
 
 
-* **Numerical**  
+* **Numeric**  
 Data is an actual number. Can be subdivided into discrete or continuous:
   * **Discrete**  
 Can only be recorded as an integer (whole number), e.g. number of hospital admissions.

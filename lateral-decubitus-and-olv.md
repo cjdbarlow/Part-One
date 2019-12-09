@@ -1,39 +1,75 @@
-#Position and ventilation
+#Position and Ventilation
 
 > Explain the effect of changes in posture on ventilatory function
 
-Altered patient position can cause significant changes to V/Q matching.
+Altered patient position can cause significant changes to V/Q matching. In general:
+* The dependent lung has increased perfusion independent of anaesthesia, paralysis, or ventilation method
+* The independent lung has progressively more ventilation through each of:
+    * Spontaneous ventilation
+    * Controlled ventilation
+    * Thoracotomy
 
-##Lateral Decubitus
-In the lateral position in a **spontaneously ventilating** patient:
-* Dependent lung ventilation improves by ~10%  
-Due to impaired compliance of the non-dependent lung (it hyperinflates) and improved compliance of the dependent lung (it is less expanded).
-    * Dependent lung corresponds more to West Zone 3
-    * Non-dependent lung corresponds more to West Zone 2
-* Dependent lung perfusion improves by ~10%  
-Due to the effect of gravity.
 
-In the lateral position in a **positive-pressure ventilated** patient:
-* The majority (~55%) of the tidal volume is delivered to the non-dependent lung
-* The majority of pulmonary blood flow is delivered to the dependent lung
-* The compliance of the dependent lung falls due to compression from the:
-    * Mediastinum
-    * Abdominal organs  
-    These move cephalad in a paralysed patient.
-* The dependent lung typically receives greater blood flow due to the effect of gravity
-    * This may worsen V/Q matching
-    * Blood flow is also affected by:
-        * HPV  
-        * Anatomical factors  
-        Blood flow is greater in central than peripheral portions. 
+
+##Factors Affecting Distribution of Blood Flow
+Key factors:
+* Gravity  
+* HPV
+* Anatomy
+Blood flow is greater in central than peripheral portions. 
+* Airway pressures  
+Due to effects on:
+    * Volume  
+    Via:
+        * Altering vascular distension and subsequently PVR
+        * Alterations is extra-alveolar and intra-alveolar pressures at FRC may alter regional blood flow.
+    * Right ventricular afterload
         * Lung volume  
-        Alterations is extra-alveolar and intra-alveolar pressures at FRC may alter regional blood flow.
 * When both lungs are being ventilated, V/Q matching can be improved with selective application of PEEP to the dependent lung, which improves compliance
 
-##Thoracotomy
-Opening of a non-dependent hemithorax causes:
-* Increased compliance and FRC of the non-dependent lung
-* Reduced compliance and FRC of the dependent lung
+##Factors Affecting Distribution of Ventilation
+Key factors:
+* Gravity  
+Intrapleural pressure is more negative in the elevated portions of the lung, due to the weight of the lung pulling down. This results in:
+    * **Larger intra-alveolar volume** of the upper portion of the lung, and **reduced compliance**
+    * **Smaller intra-alveolar volume** of the dependent portion of the lung, and **improved compliance**
+    * Which results in the upper portion of the lung being higher on the compliance curve
+    * Reducing the relative contribution of this portion of the lung to a tidal volume, and relatively reduced ventilation  
+    These changes may be exaggerated in disease, e.g. COPD.
+
+##Lateral Decubitus
+Effects depends on the method of ventilation:
+* In the **spontaneously ventilating** patient:
+    * Dependent lung ventilation and perfusion improves by ~10%  
+    Due to the effect of gravity.
+    * Dependent lung corresponds more to West Zone 3
+    * Non-dependent lung corresponds more to West Zone 2
+* In the **anaesthetised patient**:
+    * FRC ↓ by ~20% in both lungs due to reduced muscle tone  
+    Each lung therefore changes in compliance:
+        * Non-dependent lung falls to the steep portion of the curve, and compliance improves  
+        * The dependent lung falls from the steep position to the lower shallow segment, and compliance decreases  
+        **Ventilation** is now directed preferentially to the **non-dependent lung**.
+        * Perfusion is unchanged
+* In the paralysed and **positively-pressure ventilated** patient:
+    * FRC reduces further due to cephalad movement of:
+        * Mediastinum
+        * Abdominal organs  
+    * Ventilation is further directed to the non-dependent lung
+    * Distribution of perfusion is unaffected, but the application of PEEP increases dead space and further worsens V/Q matching
+
+
+###Thoracotomy
+Opening the non-dependent hemithorax causes:
+* No change in perfusion pressure  
+Unless mediastinal structures move.
+* Variable effects on the lung:  
+    * If lung isolation:
+        * Lung will collapse under its own elastic recoil  
+        Improved V/Q matching, as there is no ventilation, and perfusion will decrease as the lung collapses.
+    * If no lung isolation:
+        * Expansion of the lung, now unrestrained by the chest wall  
+        Worse V/Q matching.
 
 ---
 

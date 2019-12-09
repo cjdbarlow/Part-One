@@ -54,6 +54,8 @@ The **first 16 divisions** constitute the **conducting zone**:
     * Comprise the first four divisions of the trachea
     * Right main bronchus is wider and deviates less from the axis of the trachea (the left main bronchus has a tighter turn over the heart), which is why foreign bodies will tend to the right side
     * The two main bronchi divide into a total of 5 lobar bronchi, which in turn divide into a total of 18 segmental bronchi
+      * Right main bronchi is **~2cm** long
+      * Left main bronchi is **~5cm** long
       * Cross-sectional area of the respiratory tract is lowest at the third division
       * These bronchi will collapse when intrathoracic pressure exceeds intraluminal pressure by ~5cmH<sub>2</sub>O.
       * Segmental bronchi travel with branches of the pulmonary artery and lymphatics  
@@ -100,6 +102,7 @@ The alveolar-capillary barrier consists of three layers:
   * Extracellular matrix
   * Pulmonary capillary endothelium
 
+
 Alveoli are composed of three types of cells:
 * **Type I pneumocytes**  
 Thin-walled epithelial cells optimised for gas exchange.
@@ -115,6 +118,7 @@ Specialised secretory cells.
 
 * **Alveolar macrophages**  
 Alveoli have no cilia - inhaled particles are phagocytosed by alveolar macrophages in alveolar septa and lung interstitium.
+
 
 ---
 ##References
