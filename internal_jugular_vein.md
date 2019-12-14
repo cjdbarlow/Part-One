@@ -48,7 +48,7 @@ At the posterior edge of SCM, just superior to where the EJV crosses the sternom
 
 ---
 ##References
-1. Lasts
+1. McMinn, RMH. Last's Anatomy: Regional and Applied. 9th Ed. Elsevier. 2003.
 2. http://radiopaedia.org/articles/internal-jugular-vein
 3. http://www.frca.co.uk/article.aspx?articleid=100030
 4. [Internal jugular vein catheterisation: Posterior and Central Approach](http://www.thecardiacicu.com/for_experts/jugular_intro_eng.html)

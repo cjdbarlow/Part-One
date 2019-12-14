@@ -18,6 +18,7 @@ Affected by:
 * CSF flow  
 Alters concentration gradient between epidural and subarachnoid space.
 
+
 ##Intrathecal
 Factors important to intrathecal administration:
 * Dose  
