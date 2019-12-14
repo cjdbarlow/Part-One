@@ -245,7 +245,7 @@
   * [Intercostal Catheter](intercostal_catheter.md)
   * [Antecubital Fossa](antecubital_fossa.md)
   * [Tracheostomy](tracheostomy.md)
-  * [Epidural and Intrathecal](lp.md)
+  * [Neuraxial](lp.md)
 
 ## Pharmacopoeia
 

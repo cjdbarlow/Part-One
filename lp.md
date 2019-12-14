@@ -1,4 +1,4 @@
-#Lumbar Puncture
+#Neuraxial Anatomy
 > Describe the anatomy relevant to the performance of a lumbar puncture.
 
 The spinal **epidural space** is:
