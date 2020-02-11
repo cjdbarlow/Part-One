@@ -9,7 +9,7 @@
 
 * **Absolute Risk Reduction** is the decrease in risk provided by an exposure: 
   $$ ARR = Risk \ in \ Exposed \ - \ Risk \ in \ Unexposed $$  
-  Is a clinical useful measure of the value of an intervention, however is better expressed as:
+  Is a clinically useful measure of the value of an intervention because contextualises the efficacy of the intervention with the prevalence of the outcome. ARR is better (more intuitively) expressed as:
     * **Number Needed to Treat (NNT)** is the number of individuals who must receive a treatment to prevent one event:  
   $$ NNT = {1 \over ARR} $$
 * **Relative Risk Reduction** is the decrease in incidence provided by treatment.

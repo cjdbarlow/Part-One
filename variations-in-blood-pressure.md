@@ -111,11 +111,11 @@ $$PPV = {Pulse \ Pressure_{maximum} - Pulse \ Pressure_{minimum} \over Pulse \ P
     * Note that this does not necessarily mean a fluid responsive patient needs fluid.
 * Reliant on several assumptions:
     * Regular sinus rhythm  
-    Irregular heart rates (particularly AF) lead to significant alterations in ventricular filling and therefore pules pressure, independent of the respiratory cycle.
+    Irregular heart rates (particularly AF) lead to significant alterations in ventricular filling and therefore pulse pressure, independent of the respiratory cycle.
     * Controlled mechanical ventilation  
     No spontaneous efforts.
     * Adequate tidal volumes  
-    Must be >8ml.kg<sup>-1</sup>.
+    Must be >8mL.kg<sup>-1</sup>.
     * Normal chest wall compliance  
     Requires a closed chest.
 

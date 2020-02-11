@@ -114,7 +114,7 @@ The width of the interval is related to the **standard error**, and the degree o
   * Indicates the precision of the estimate  
   The smaller the confidence interval, the more precise the estimate.
   * Allows statistical significance to be calculated  
-  If the confidence interval crosses 1, then the result is insignificant.
+  If the confidence interval crosses 1, then the result is insignificant. Note that the **inverse is not true**; a result is not necessarily significant because the CI does not cross 1.
 
 ---
 

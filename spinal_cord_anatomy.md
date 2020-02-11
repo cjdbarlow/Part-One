@@ -10,9 +10,36 @@ The spinal cord in transverse section consists of a central section of grey matt
   Light touch and proprioception. Crosses at the brain stem.
 * **Spinothalamic tract**  
   Pain and temperature. Crosses within two vertebral segments.
-
 * **Spinocerebellar tract**  
   Unconscious proprioception. Does not cross.
+
+
+##Spinal Cord Blood Supply
+Supply is predominantly from **three** major arteries:
+* **One** anterior (median) spinal artery
+	* Located along anterior midline of cord
+	* Arises from the vertebral arteries caudal to the basilar  
+	A branch from each vertebral join between C1 and C6 and form the single vessel.
+	* Supplies **75%** of arterial blood to the spinal cord.
+	* Reinforced by supply from:
+		* Unpaired radicular arteries
+			* Usually **5-10** total but only one in midthoracic regions  
+			* Originate from posterior intercostal arteries
+		* Artery of Adamkiewicz
+			* Variable origin between T7 and L4
+			* Left sided in the majority of patients
+			* Principle supply to the lower two-thirds of the cord
+	**Anterior** cord **supply** is much **more vulnerable** than the posterior portion.
+* **Two** posterior (lateral) spinal arteries
+	* Fed by smaller radicular arteries at almost every spinal levels
+* An **arteriolar plexus** is formed by both anterior and posterior arteries, and forms a fine pial plexus known as the **vasa corona**  
+This plexus is not able to compensate for a loss of supply to either anterior or posterior vessels.
+
+
+Additional perfusion to the cervical region from:
+* Posterior inferior cerebellar arteries
+* Segmental branches
+
 
 ##Spinal Cord Syndromes
 Lesions to certain anatomical regions of the spinal cord produce a particular constellations of findings.

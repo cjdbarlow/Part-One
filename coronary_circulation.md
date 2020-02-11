@@ -10,6 +10,8 @@ The **left main** coronary artery:
 * Arises from the posterior aortic sinus superior to the left coronary cusp of the aortic valve  
 Eddy currents produced in the **sinuses of Valsalva** (outpouchings of the aortic wall) prevent the valves occluding the os of the LM and RCA during systole, so they remain patent throughout the cardiac cycle.
 * The **left main** is 5-10mm long, and bifurcates to form the LAD and LCx
+* The **intermediate** artery is an anatomical variant that arises from the bifurcation o
+
 
 The **LAD**:
 * Courses along the **anterior interventricular groove** to the apex of the heart  
@@ -17,19 +19,25 @@ Here, it anastomoses with the posterior descending artery from the RCA.
 * **Supplies** the **anterolateral myocardium** and **anterior 2/3<sup>rds</sup>** of the interventricular **septum**
 * **Branches** of the LAD include:
   * **Diagonal** vessels  
-  Branches are named successively from proximal to distal, i.e. LADD<sub>1</sub>, LADD<sub>2</sub>, etc.
-  * **Septal perforators**
+  Branches are named successively from proximal to distal (i.e. LADD<sub>1</sub>, LADD<sub>2</sub>, etc), and wrap around the anterior wall of the ventricle.
+    * Proximal LAD is defined as the area of LAD between the origin and D<sub>1</sub>, mid LAD is between D<sub>1</sub> and D<sub>2</sub>
+  * **Septal perforators**  
+  Penetrate into the myocardium.
 
 The **LCx**:
 * Courses along the **left atrioventricular** groove between the LA and LV in the epicardial fat pad
 * **Supplies** the **inferolateral wall** of the **LV**
-* Gives off three **obtuse marginal** branches (OM<sub>1</sub>, OM<sub>2</sub>) which follow the left margin of the heart
+* Gives off three **obtuse marginal** branches (OM<sub>1</sub>, OM<sub>2</sub>, etc) which follow the left margin of the heart
 * Runs in close approximation with the coronary sinus for much of its course
 
 The **RCA**:
 * Arises from the anterior aortic sinus, superior to the right coronary cusp of the aortic valve
 * Courses vertically downwards in the **right atrioventricular groove**
 * Supplies the RA and RV
+* RCA gives off:
+  * **Acute marginal arteries**  
+  Almost never grafted.
+  * **Posterior branch to the LV** (PLV)
 
 The **posterior descending artery**:
 * Arises from either the LCx or RCA  
