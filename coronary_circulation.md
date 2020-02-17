@@ -24,11 +24,13 @@ Here, it anastomoses with the posterior descending artery from the RCA.
   * **Septal perforators**  
   Penetrate into the myocardium.
 
+
 The **LCx**:
 * Courses along the **left atrioventricular** groove between the LA and LV in the epicardial fat pad
 * **Supplies** the **inferolateral wall** of the **LV**
 * Gives off three **obtuse marginal** branches (OM<sub>1</sub>, OM<sub>2</sub>, etc) which follow the left margin of the heart
 * Runs in close approximation with the coronary sinus for much of its course
+
 
 The **RCA**:
 * Arises from the anterior aortic sinus, superior to the right coronary cusp of the aortic valve
@@ -57,11 +59,13 @@ Additionally:
 * The **AV node** is supplied by the **RCA in 90%** of individuals
 
 ###Venous Anatomy
-* 85% of venous drainage occurs via the **coronary sinus**, which is formed from the cardiac veins:
-  * The **great cardiac vein** runs with the LAD
-  * The **middle cardiac vein** follows the PDA
-  * The **small cardiac vein** runs with the RCA
-  * The **oblique vein** follows the posterior part of the LA
+* 85% of venous drainage occurs via the **coronary sinus**
+  * Drains the **LV**
+  * Formed from the cardiac veins:
+    * The **great cardiac vein** runs with the LAD
+    * The **middle cardiac vein** follows the PDA
+    * The **small cardiac vein** runs with the RCA
+    * The **oblique vein** follows the posterior part of the LA
 * Most of the remainder is via **anterior cardiac veins** which drain directly into the RA
 * A small proportion of blood from the heart is drained via the **thebesian veins** directly into four the cardiac chambers  
 Most into the right atrium, and least into the left ventricle. The portion of blood draining into the left side of the circulation contributes to **physiological shunt**.
