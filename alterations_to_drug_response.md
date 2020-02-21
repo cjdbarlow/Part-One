@@ -13,7 +13,9 @@ There are four mechanisms which result in variable response to drug:
 ##Key Terms
 * **Tachyphylaxis** is the **rapid decrease in response** to repeated dosing over a **short time period**, usually due to depletion of transmitter
 
+
 * **Desensitisation** is the **loss in response** over a **long time period**, usually due to change in receptor morphology or loss in receptor numbers
+
 
 * **Withdrawal** is a pathological response when a drug is ceased  
     * During administration receptors may be:
@@ -21,10 +23,13 @@ There are four mechanisms which result in variable response to drug:
         * **Down-regulated** in the continued presence of an agonist
     * Loss of receptor numbers may precipitate withdrawal when the agonist or antagonist is ceased
 
+
 * **Addiction** is a behavioural pattern characterised by compulsive use and fixation on acquiring and using a drug
+
 
 * **Idiosyncrasy** is an individual patient response to a drug  
 Typically mediated by a reactive metabolite rather than the drug itself.
+
 
 ###Tolerance
 **Tolerance** is the requirement for a **larger dose** to achieve the **same effect**, due to altered sensitivity of the receptors to the stimulant. Mechanisms can be classified into:
@@ -275,6 +280,7 @@ Though there is a linear decrease in functional capacity of major systems beginn
     * Rate of administration  
     Faster rate of administration will increase rate of onset.
     
+
 * **Pharmacodynamic**  
     * Drug tolerance
     Increase requirement of drug.
@@ -283,7 +289,8 @@ Though there is a linear decrease in functional capacity of major systems beginn
      May be:
          * Synergistic
          * Additive
-         * Antagonistic       
+         * Antagonistic      
+          
 ---
 ##References
 1. Anderson C. [Variability in Drug Response 1](https://icuprimaryprep.files.wordpress.com/2012/05/variability-in-drug-response-1.pdf). ICU Primary Prep. 
