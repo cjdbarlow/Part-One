@@ -2,14 +2,53 @@
 >Describe the stages in design of a clinical trial
 
 1. Determine research question
-2. Determine target population
-3. Specify outcomes
-4. Determine requirement for control group
-5. Sample size estimation
-6. Control for confounding
-7. Control for bias
-8. Data handling
-9. Statistical analysis plan (pre-specified)
+	* Literature review
+		* Current evidence on topic
+		* Unanswered questions
+	* Define the question
+		* Aim
+		* Significance  
+		Is the outcome of interest, and is the result implementable?
+		* Endpoint  
+			* Hard endpoints
+			* Patient-centered
+			* Surrogate
+			* Composite
+2. Determine target population  
+Inclusion and exclusion criteria, and justifications for each.
+4. Study methodology
+	* Protocol  
+	Should be strict and highly prescriptive to minimise number of protocol violations.
+	* Statistical analysis
+		* Randomisation
+			* Need for control group
+			* Treatment allocation and concealment
+		* Missing data analysis plan
+		* Sensitivity analysis
+		* Adverse event reporting method
+		* Sample size estimation  
+		Should be powered adequately for desired outcome.
+		* Identify sources of:
+			* Confounding
+			* Bias
+		* Pre-specify analysis plan
+	* Data collection and storage  
+		* Issue with multi-centre, international trials
+		* National Privacy Principles compliance
+ 	* Funding
+ 	* Ethics committee review and approval
+5. Register study in an online database
+6. Perform pilot study
+7. Refine methodology based on pilot study  
+Determine if doing the definitive study is feasible. Potential issues:
+	* Patient recruitment
+	* Event rate as predicted
+	* Group separation
+	* Feasibility of methodology
+8. Perform definitive study
+9. Publish  
+CONSORT methodology or similar.
+
 
 ---
 

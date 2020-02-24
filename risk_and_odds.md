@@ -25,8 +25,9 @@
 
 
 
-* In general, the OR overstates risk compared to the RR.
-* It is approximately equal to the RR when the outcome is rare (< 10%)
+* In general, the OR overstates risk compared to the RR
+* It is approximately equal to the RR when the outcome is rare (< 10%)  
+This is because **when the event rate is small, the number of non-events in a group is very similar to the overall number of individuals in the group**.
 * It is used when:
     * The denominator is uncertain, i.e.:
         * In retrospective designs, such as case-control studies when patients with the disease were identified, and then exposures ascertained
