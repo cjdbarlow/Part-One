@@ -1,7 +1,7 @@
 # Intracranial Pressure
 > Explain the control of intra-cranial pressure
 
-Normal ICP is <13mmHg, with some rhythmic variation occurring on the transduced waveform:
+Normal ICP is ≤13mmHg, with some rhythmic variation occurring on the transduced waveform:
 * **P1** is the first peak, and represents arterial pulsation
 * **P2** is the second peak, and represents intracranial compliance  
 If P2>P1, this is suggestive of poor intracranial compliance
@@ -62,11 +62,11 @@ Results in reduced blood flow due to **flow-metabolism coupling**. May be achiev
   * Depress cerebral metabolism which reduces oxygen requirements
   * Reduce **seizure** risk, which is detrimental because it greatly increases cerebral O<sub>2</sub> demand and impairs venous return
   * Improves ventilator dyssynchrony, limiting coughing and bearing down, and subsequent rises in ICP
- * **Hypothermia**  
- Causes a reduction in cerebral metabolism and risk of seizures.
+ * **Avoid hyperthermia**  
+ Causes a reduction in cerebral metabolism and risk of seizures. 
  * **Prevention of hypoxia or hypercapnea**  
   Hypoxia and hypercapnea both cause vasodilatation, with a subsequent increase in cerebral blood volume, blood flow, and ICP.
-   * Induced **hypocarbia**  
+   * Aim **low-normal CO<sub>2</sub>**  
    Causes vasoconstriction and a subsequent reduction in cerebral blood flow and blood volume. This leads to:
      * Reduction in ICP
      * Reduction in cerebral oxygen delivery  
