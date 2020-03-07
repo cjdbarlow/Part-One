@@ -210,6 +210,8 @@ Unit of mass equal to 1/12<sup>th</sup> of the mass of Carbon-12.
 * **Dalton's Law**  
 The partial pressure of a gas in a mixture is equal to the pressure that gas would exert if it occupied the volume alone.
 
+* **Damping**  
+How quickly an oscillating system will come to rest.
 
 * **Dead Space**  
 Inspired gas not participating in gas exchange. Includes:  
@@ -452,7 +454,7 @@ Number of moles of solute per L of solvent. Varies with:
 
 ##N
 * **Natural Frequency**  
-Frequency at which a system will oscillate at if disturbed and left alone.
+Frequency at which a system will oscillate freely if disturbed and left alone.
 
 * **Nausea**  
 Unpleasant subjective sensation associated with urge to vomit.
@@ -535,6 +537,9 @@ Passive passage of gastric contents into the mouth.
 
 * **Relative Humidity**  
 Ratio of mass of water vapour in a given volume of air, to the mass required to saturate that volume at that temperature. Expressed as a percentage.
+
+* **Resonance**  
+Resonance describes the amplification of a signal that occurs when the frequency of the stimulus approaches the natural frequency of the system.  
 
 * **Respiratory Exchange Ratio**  
 Ratio of CO<sub>2</sub> produced to O<sub>2</sub> consumed at any given point.
