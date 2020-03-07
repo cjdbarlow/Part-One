@@ -19,8 +19,6 @@ Calibrates to a known zero.
 * **Dynamic calibration**  
 Accurate representation of changes in the system.
 
-
-
 ##Static Calibration
 Static calibration involves:
 * Leveling the transducer (typically to the level of the phlebostatic axis at the right atrium, or the external auditory meatus)  
@@ -35,15 +33,14 @@ Dynamic calibration ensures the operating characteristics of the system (or **dy
 * **Damping**  
 How rapidly an oscillating system will come to rest.
   * Damping is quantified by the **damping coefficient** or **damping ratio**
-    * Describes to **what extent the magnitude of an oscillation falls with each successive oscillation**
+    * Describes to what extent the magnitude of an oscillation falls with each successive oscillation
     * Calculated from the ratio of the amplitudes of successive oscillations in a convoluted fashion:  
       $$ D = \sqrt{(\ln{D_2 \over D_1})^2 \over \pi^2 + (\ln{D_2 \over D_1})^2 }$$, where:  
 
 
 * **Resonant Frequency**  
 How rapidly a system will oscillate when disturbed and left alone.
-  * When damping is low, it will be close to the **natural frequency**, or undamped resonant frequency  
-  The natural frequency is the frequency at which the system will oscillate freely once set in motion.
+  * When damping is low, it will be close to the **natural frequency** (or undamped resonant frequency)
 
 
 * Damping and natural frequency are used (rather than the physical characteristics) as they are both **easily measured** and **accurate** in describing the dynamic response
@@ -60,18 +57,13 @@ How rapidly a system will oscillate when disturbed and left alone.
   * The sine waves used to reproduce it must have a frequency that is a *multiple* (or **harmonic**) of the fundamental frequency
     * Increasing the number of harmonics allows better reproduction of high-frequency components, such as a steep systolic upstroke
   * Accurate reproduction of an **arterial** waveform requires up to **10 harmonics** - or **10 times the pulse rate**
-    * 5 harmonics will provide accurate measurement of pulse pressure
-    * 8 harmonics allows visualisation of the dicrotic notch
   * An arterial pressure transducer should therefore have a dynamic response of **30Hz**
     * This allows accurate reproduction of blood pressure in heart rates up to 180bpm (180 bpm = 3Hz, 3Hz x 10 = 30Hz)
 
 
 ###Resonance
-* Resonance describes the amplification of a signal that occurs when the frequency of a stimulus approaches the natural frequency of the system  
-Think of a child on a swing. The swing will move at a certain frequency (natural frequency), and pushing the child in time with the swing will cause the swing to get progressively higher (resonance).
-* With respect to pressure monitoring, if high frequency components of the pressure waveform approach the natural frequency of the system, then the system will resonate  
+* If high frequency components of the pressure waveform approach the natural frequency of the system, then the system will resonate
 * This results in a distorted output signal and a small **overshoot in systolic pressure**.
-
 
 ###Damping{#damp}
 A pressure transduction system should be adequately damped:
