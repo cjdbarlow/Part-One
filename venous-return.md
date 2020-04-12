@@ -1,5 +1,7 @@
 #Venous Return
 
+*This section describes determinants of cardiac output from the perspective of venous return. The relationship to and importance of [myocardial function](determinants_of_cardiac_output.md) is covered elsewhere.*
+
 > Define the components and determinants of cardiac output
 
 The venous system has two key cardiovascular functions:
