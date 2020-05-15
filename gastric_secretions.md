@@ -1,7 +1,7 @@
 # Gastric Secretions {#id}
 > Describe the composition, volumes and regulation of gastrointestinal secretions
 
-The GIT produces a a number of substances which can be classified by region and function:
+The GIT produces a number of substances which can be classified by region and function:
 * Saliva
     * H<sub>2</sub>O (98%)
     * Digestive proteins
@@ -77,8 +77,8 @@ The stomach produces **~2L** of secretions **per day**:
         * Somatostatin
 
 
-* **Gastric**  
-Gastin is a peptide family secreted from antral **G cells**.
+* **Gastrin**  
+Gastrin is a peptide family secreted from antral **G cells**.
     * Secretion is stimulated by:
         * Neural (vagal) stimulation in the cephalic phase of digestion  
         Main mechanism.
@@ -97,7 +97,8 @@ Gastin is a peptide family secreted from antral **G cells**.
         * Increases gastric and intestinal motility
 
 * **Pepsinogens**  
-**Chief cells** secrete pepsinogen I and is released by ACh or β stimulation. Pepsinogen is cleaved to pepsin in the gastric lumen, and breaks down protein.
+**Chief cells** secrete pepsinogen which is released by ACh or β stimulation. 
+Pepsinogen is cleaved by hydrochloric acid in the stomach to become pepsin. Pepsin breaks down protein.
 
 * **Intrinsic Factor**  
 **Parietal cells** produce intrinsic factor, which forms a complex with B<sub>12</sub> which facilitates its later absorption in the terminal ileum.
@@ -115,10 +116,10 @@ Exocrine pancreatic secretions are produced by the **acinar** and **ductal cells
     * Consist of:
         * HCO<sub>3</sub><sup>-</sup>  
          To alkalinise gastric contents.
-             * Pancreatic bicarbonate production lowers venous pH, and neutralise's the alkaline tide of the stomach.
+             * Pancreatic bicarbonate production lowers venous pH, and neutralises the alkaline tide of the stomach.
         * Water
         * Enzymes
-            * Trypsinogen   
+            * Trypsinogen: activated to **trypsin** by duodenal enteropeptidases.   
               Proteolysis.
             * Amylase  
               Hydrolysis of glycogen, starch, and complex carbohydrate.

@@ -54,7 +54,7 @@ Pressure receptors physically deforming and opening Na<sup>+</sup> channels.
 
 * Stimulating an excitable cell increases Na<sup>+</sup> permeability  
 This increases (i.e. makes less negative) membrane potential
-* If several stimuli, or a large enough stimuli raises the membrane potential above the **threshold potential**, then an action potential will be generated
+* If several stimuli, or a large enough stimulus raises the membrane potential above the **threshold potential**, then an action potential will be generated
 * This is due to **fast Na<sup>+</sup> channels**
     * Also known as **voltage-gated** Na<sup>+</sup> channels  
     * Open when **membrane potential** exceeds **threshold potential**  
