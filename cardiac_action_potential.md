@@ -94,7 +94,7 @@ Conduction pathway:
     There is continual PNS input ("Vagal tone") via inhibitory ACh GPCR, reducing the SA node from its intrinsic rate of 90-120bpm to a more sedate 60-100bpm.
     * AV node by the left vagus
     * The atria are innervated by parasympathetic neurons, whilst the ventricles are only minimally innervated  
-      * PNS stimulation therefore has little effect on inotropy, but does affect chronotropy.
+    * PNS stimulation may have no direct effect on inotropy, instead acting indirectly via changes in chronotropy
 
 
 * **Sympathetic Innervation**  
