@@ -13,26 +13,25 @@ Production of glycogen is stimulated by insulin, which is released as plasma glu
 
 ##Glycolysis
 Glycolysis:
+* Also known as the Embden-Meyerhof pathway
 * Describes the process of converting glucose into pyruvate  
-This is known as the Embden-Meyerhof pathway.
 * Occurs in the cytoplasm
-* Does not consume oxygen or produce carbon dioxide
 * Produces 2 ATP  
-Glycolysis allows production of ATP in anaerobic conditions.
+* Does not consume oxygen or produce carbon dioxide
+Glycolysis can therefore occur under both aerobic and anaerobic conditions.
 
 
 ##Gluconeogenesis
-Gluconeogenesis is the production of glucose from other molecules. Gluconeogenesis:
-* Requires ATP to perform  
-Some organs (heart, brain) rely on glucose for ATP
-* Has many potential substrates:
+Gluconeogenesis is a process that uses ATP to produce glucose from other molecules.
+Some organs (heart, brain) rely solely on glucose for ATP.
+Other organs, such as the liver, can generate glucose from:
     * Lactate
     * Pyruvate
     * Glycerol
     * Amino acids
     * CAC-intermediates
-* Is stimulated by glucagon
-* Is inhibited by biguanides (metformin)
+* Simulated by glucagon
+* Inhibited by biguanides (metformin)
 
 
 ---

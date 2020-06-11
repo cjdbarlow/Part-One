@@ -52,10 +52,7 @@ Secretion of glucagon is influenced by a number of factors:
 
 ##Somatostatin
 Somatostatin is a **polypeptide** hormone that:
-* Inhibits secretion of other hormones including:
- * Glucagon
- * Insulin
- * Other pancreatic peptides
+* Inhibits secretion pancreatic polypeptides including insulin and glucagon
 * May function as a neurotransmitter in the CNS
 
 

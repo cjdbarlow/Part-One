@@ -1,8 +1,8 @@
 # Anaerobic Metabolism
-> Describe the consequences of anaerobic metabolism and ketone production
+> Describe anaerobic metabolism and ketone production
 
 ##Lactate
-The **Embden-Meyerhof** pathway:
+Glycolysis (also known as the **Embden-Meyerhof** pathway):
 * Describes the conversion of glucose to pyruvate (and two ATP)
 * Does not consume O<sub>2</sub> or produce CO<sub>2</sub>  
 Therefore it occurs in both anaerobic and aerobic conditions.
@@ -20,8 +20,7 @@ This requires restoration of NAD<sup>+</sup>, e.g. resolution of cellular hypoxi
 * Circulated to the liver  
 Lactate is then:
     * Oxidised to pyruvate
-    * Converted to glucose  
-    This process is known as the **Cori cycle**.
+    * Converted to glucose via the **Cori cycle**
 
 ##Ketones
 Ketones:

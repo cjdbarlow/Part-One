@@ -52,6 +52,7 @@ Platinum wire increases electrical resistance with increasing temperature.
     * However, these are expensive.
 * **Thermistor**  
 Metal (e.g. SiO<sub>2</sub>) semiconductor which changes its resistance in a **predictably non-linear fashion** (run-away exponent) with temperature.
+e.g. Pulmonary artery catheter, oesophageal probe
     * Can be manufactured so that change is linear over the clinical range
     * Much cheaper than wire resistance methods
     * The degree of voltage drop is usually very small, however this can be amplified using a **Wheatstone bridge**
