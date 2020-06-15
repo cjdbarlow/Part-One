@@ -119,28 +119,34 @@ Rhesus status is therefore expressed as positive (D - 85% of the population) or 
         * Foetal-maternal haemorrhage  
 
 ##Compatibility Testing
-Donor blood must be tested with recipient blood to avoid a transfusion reaction. This involves three processes:
-* Blood Typing (ABO/Rh)  
-Blood is typed by mixing it in vitro with plasma (and plasma with erythrocytes) of known groups (containing IgM antibody (Anti-A, Anti-B, Anti-AB)), and observing for agglutination.
-* Antibody Screen  
-For other antibodies.
-    * Testing is similar to ABO screening, except *plasma* is mixed with red cells containing known antigen (e.g. Kell, Duffy), and monitored for agglutination.
-* Cross-match  
-  Involves two processes:
-    * Saline test  
-    Erythrocytes are suspended in saline and mixed with antibodies at room temperature, monitoring for agglutination.
-        * This confirms ABO type
-    * Indirect Coombs' test  
-    Identifies IgG antibody in host plasma which would cause haemolysis of transfused red cells. This is typically no longer done, as it offers negligible extra safety over the above processes. Doing it involves:
-        * Incubating  
-        Binds IgG Ab to antigen on RBC membrane.
-        * Washing  
-        Removes serum and unbound IgG.
-        * Testing with an antibody *to* IgG, known as antiglobulin serum.
-            * A positive test will cause clumping of red cells, as each antiglobulin serum will bind two IgG molecules, which have in turn been bound to red cells
-            * A negative test will cause no agglutination, as the IgG has not been bound to red cells
-                * If negative, the antiglobulin serum is re-used on a control sample to ensure that it is not a false negative
 
+Donor blood must be tested with recipient blood to avoid a transfusion reaction. This involves three steps:
+* **Blood Typing** (ABO/Rh)  
+  * Patient's blood is mixed with samples of plasma known to contain Anti-A, Anti-B, or Anti-AB antibodies.
+  * Agglutination occurs when antibodies in the plasma react with the antigen on the RBC surface, and indicates a mismatch
+* **Antibody Screen**  
+For minor (non-ABO/Rh) group antibodies.
+  * Testing is similar to ABO screening, but now patient *plasma* is mixed with several samples of red cells which contain a known non-ABO/Rh antigen (e.g. Kell, Duffy), and monitored for agglutination
+* **Cross-match**  
+Two methods:
+  * Electronic cross-match  
+  Used if the antibody screen is negative and the patient has had no previous blood transfusion, as it is quicker and cheaper.
+  * Serological cross match  
+  Indicated if the antibody screen is positive, or the patient has had previous exposure to blood (prior transfusion, pregnancy), as this gives the patient a risk of exposure to non-ABO or Rh antigens.
+    * Performed by mixing patient plasma with a small sample of donor RBC and monitoring for agglutination
+      If there is no agglutination, the transfusion can proceed with the tested specimen **only**.
+
+
+###Indirect Coomb's Test
+Method of cross-matching that is now deprecated as it provides negligible additional safety over the above processes. Testing identifies IgG antibody in host *plasma* which would haemolyse transfused red cells, and involves:
+* Incubating  
+  Binds IgG Ab to antigen on RBC membrane.
+* Washing  
+  Removes serum and unbound IgG.
+* Testing with an antibody *to* IgG, known as antiglobulin serum.
+  * A positive test will cause clumping of red cells, as each antiglobulin serum will bind two IgG molecules, which have in turn been bound to red cells
+  * A negative test will cause no agglutination, as the IgG has not been bound to red cells
+  * If negative, the antiglobulin serum is re-used on a control sample to ensure that it is not a false negative
 
 
 ##Transfusion Reactions

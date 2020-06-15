@@ -55,6 +55,7 @@ Metal (e.g. SiO<sub>2</sub>) semiconductor which changes its resistance in a **p
     * Can be manufactured so that change is linear over the clinical range
     * Much cheaper than wire resistance methods
     * The degree of voltage drop is usually very small, however this can be amplified using a **Wheatstone bridge**
+    * e.g. Pulmonary artery catheter, oesophageal probe
 * **Thermocouple**  
 At the junction of two dissimilar metals, a potential difference will be produced proportional to their temperature. This is known as the Seebeck effect.
     * Non-linear (wash in exponent)

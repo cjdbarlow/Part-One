@@ -74,7 +74,7 @@ This is due to the total cross-sectional area increasing dramatically.
 
 
 ###Turbulent Flow
-High flow rates and branching of airways disrupt disciplined laminar flow. Turbulent flow: is:
+High flow rates and branching of airways disrupt disciplined laminar flow. Turbulent flow is:
 * Dominant in the upper airway (where velocity is high)
 * Dominant in early-generation airways due to regular branching, changes in diameter, and sharp angles
 * Reduces after the **11th generation** bronchioles
@@ -88,7 +88,8 @@ Resistance in turbulent flow is managed by making flow less turbulent:
     Of greater benefit in upper airway than lower airway disease.
 
 ###Transitional Flow
-Transitional flow occurs at branches and angles in the airways, as occur in most of the bronchial tree.
+Transitional flow is the change between laminar and turbulent flow. 
+It occurs at branches and angles in the airways, seen in most of the bronchial tree.
 
 ---
 ##References

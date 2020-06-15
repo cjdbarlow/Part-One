@@ -59,7 +59,7 @@ Viruses consist of molecules of either DNA or RNA shielded in a protein coat. Th
 2. Double-**stranded** or single-stranded  
     3. *Most* DNA viruses are double-stranded (dsDNA)
     4. *Most* RNA viruses are single-stranded (ssRNA)
-3. Negative-**sense** or positive-sense (**RNA viruses only**)  
+3. Negative-**sense** or positive-sense (**single-stranded viruses only**) 
     4. Positive-sense genomes may be translated directly into mRNA
     5. Negative-sense genomes require an RNA-dependent RNA polymerase to translate them to a positive-sense strand prior to translation.
 4. **Capsid Symmetry **  
@@ -87,7 +87,7 @@ Eukaryotic organisms include fungi, protozoa, and helminths, as well as plants a
       More difficult to treat.
     * Cryptococcus
   *  **Moulds**  
-  Moulds are are filamentous.
+  Moulds are filamentous.
     * Aspergillus
     * Penicillium
   * **Dimorphous**

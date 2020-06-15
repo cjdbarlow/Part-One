@@ -55,7 +55,7 @@ Starvation is the failure to absorb sufficient calories to sustain normal body f
 
 
 * **Weeks**:
-    * Tissues adapt to metabolise ketones (with plasma levels rising up to 7 mmol.L<sup>-1</sup>, and gluconeogenesis falls
+    * Tissues adapt to metabolise ketones (with plasma levels rising up to 7 mmol.L<sup>-1</sup>), and gluconeogenesis falls
         * The brain still requires 100g of glucose per day
     * BMR falls
     * All but life-saving movement ceases
