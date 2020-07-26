@@ -1,5 +1,5 @@
 #Sample Size Calculation
-> Describe bias, types of error, confounding factors and **sample size calculations, and the factors that influence them**
+> <p style="color:purple";>Describe bias, types of error, confounding factors and **sample size calculations, and the factors that influence them**</p>
 
 ##Samples
 A sample is a subset of a population that we wish to investigate. We take measurements on our sample with the aim to make inferences on the general population. An optimal sample (in quantitative research) will be **representative**, that is, it has the same characteristics of the population it is drawn from.

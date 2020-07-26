@@ -166,7 +166,7 @@ Pharmacokinetic models typically display the plasma concentration.
 * The effect site can be modeled as an additional compartment in three-compartment models  
 The effect site is modeled as a **compartment of negligible volume** contained **within V<sub>1</sub>**, but does have rate constants
     * Effect site volume changes as V<sub>1</sub> changes
-    * The k<sub>e1</sub> is the rate constant for drug diffusion from plasma into the effect site
+    * The k<sub>1e</sub> is the rate constant for drug diffusion from plasma into the effect site
     * The **k<sub>e0</sub>** is the rate constant for elimination of drug **from the effect site**  
     This is a theoretical elimination pathway - drug is not usually metabolised at the effect site.
         * The t<sub>1/2</sub>ke0 describes the effect-site equilibration time  

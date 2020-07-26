@@ -1,5 +1,5 @@
 # Study Types
->Describe the features of evidence-based medicine, including ~~levels of evidence (e.g. NHMRC),~~ meta-analysis, and systematic review
+> <p style="color:purple";>Describe the features of evidence-based medicine, including ~~levels of evidence (e.g. NHMRC),~~ meta-analysis, and systematic review</p>
 
 ##Randomised Control Trial
 A prospective randomised controlled trial is the **gold standard** of experimental research.

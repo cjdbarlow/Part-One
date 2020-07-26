@@ -1,5 +1,5 @@
 #Risk and Odds
-> Understand the concepts of risk and Odds Ratio
+> <p style="color:purple";>Understand the concepts of risk and Odds Ratio</p>
 
 ##Risk
 * **Absolute Risk** is the risk of an event occurring in the exposed group

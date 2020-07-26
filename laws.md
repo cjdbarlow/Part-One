@@ -7,6 +7,7 @@ Diffusion of a substance across a membrane is given by:
 $$\dot{V} = {A \times D \times \Delta P \over T} $$ , where:
     * $$A$$ = Area of the sheet
     * $$D$$ = Diffusion constant, which is proportional to the **solubility** of the gas and inversely proportional to the square root of the molecular weight, i.e. $$ D \propto {Sol \over \sqrt{MW}}$$
+    * $$Delta P$$ = Pressure gradient
     * $$T$$ = Thickness of the sheet
 
 

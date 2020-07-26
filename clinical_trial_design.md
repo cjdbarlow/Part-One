@@ -1,5 +1,5 @@
 #Clinical Trial Design
->Describe the stages in design of a clinical trial
+> <p style="color:purple";> Describe the stages in design of a clinical trial</p>
 
 1. Determine research question
 	* Literature review

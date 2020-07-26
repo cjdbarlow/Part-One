@@ -1,5 +1,5 @@
 #Significance Testing'
-> Understand concept of significance and testing of significance
+> <p style="color:purple";>Understand concept of significance and testing of significance</p>
 
 Significance testing is:
 * The process of determining whether a difference between groups in a study is due to a real difference, or chance alone

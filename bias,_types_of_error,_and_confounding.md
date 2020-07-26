@@ -1,5 +1,5 @@
 #Bias and Confounding
-> Describe bias, ~~types of error,~~ confounding factors and sample size calculations, and the factors that influence them
+> <p style="color:purple";>Describe bias, ~~types of error,~~ confounding factors and sample size calculations, and the factors that influence them</p>
 
 ##Bias
 Bias is a **systematic deviation from truth**, and causes a study to lack **internal validity**.

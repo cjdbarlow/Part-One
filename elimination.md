@@ -1,7 +1,10 @@
-#Elimination
+#Excretion
 > Describe the mechanisms of drug clearance and metabolism.
 
-Drugs can be eliminated in:
+*Elimination* is the removal of drug from the plasma and includes distribution and metabolism.
+*Excretion* refers to the removal of the drug from the body.
+
+Drugs can be excreted in:
 * **Urine**
 * **Bile**
 * Sweat
@@ -9,7 +12,7 @@ Drugs can be eliminated in:
 * Tears
 * Exhaled gas
 
-##Renal Elimination
+##Renal Excretion
 Drugs can be:
 * Filtered at the glomerulus  
   Filtered drugs are:
@@ -34,7 +37,7 @@ Drugs can be:
         * Acidic drugs will be become ionised in an alkaline urine (and vice versa), reducing their solubility    
     This is the physiological justification for urinary alkalinisation.
 
-##Hepatic Elimination
+##Hepatic Excretion
 Biliary elimination occurs for drugs unable to be filtered by the glomerulus. These are typically:
 * Large  
 Greater than 30,000 dalton.
