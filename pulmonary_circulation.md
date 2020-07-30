@@ -107,7 +107,7 @@ Carbon Dioxide:
 Gravity has a significant effect on pulmonary blood flow:
 * In the upright lung, flow decreases almost linearly with height
 * In the supine lung, flow to posterior regions exceeds that of anterior regions  
-This occurs due to the low driving pressure of the pulmonary circulation, which means gravity has a much more significant affect on pulmonary blood flow than systemic blood flow.
+This occurs due to the low driving pressure of the pulmonary circulation, which means gravity has a much more significant effect on pulmonary blood flow than systemic blood flow.
 
 Due to difference in lung size:
 * The **right lung** receives **~55%** of cardiac output

@@ -12,7 +12,7 @@ Typically peak concentration must be 8-10x MIC.
     This effect disappears after ~24 hours, and is one justification for daily dosing of aminoglycosides. Additional justifications include:
         * Allows larger single doses to be used, increasing bactericidal effect
         * Aminoglycosides exhibit a post-antibiotic effect  
-        Ongoing bactericidal activity even after concentration falls in the forest..
+        Ongoing bactericidal activity even after concentration falls.
 
 
 

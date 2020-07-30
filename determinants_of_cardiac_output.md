@@ -1,4 +1,7 @@
 # Determinants of Cardiac Output {#id}
+
+*This section covers determinants of cardiac output from the perspective of the heart. The relationship to and importance of [venous return](venous-return.md) is covered elsewhere.*
+
 > Define the components and determinants of cardiac output
 
 Cardiac output a function of Heart Rate (HR) and Stroke Volume (SV):  
@@ -85,62 +88,61 @@ This reduces the number of overlapping crossbridges, reducing contractility.
 **Afterload** is **the sum of forces, both elastic and kinetic, opposing ventricular ejection**
 * This definition is a bit wordy but avoids using the words "resistance" and "impedance", which are strictly defined in physics (and crudely applied in medicine), and may be leapt on by the cruel examiner
 
-###Determinants of Afterload
-Afterload is equal to **ventricular wall stress**, which is given by the equation:
+This equates to **ventricular wall stress**, which is given by the equation:
  
 $$ \theta \propto {P \times r \over T}$$, where:
 * $$\theta$$ is ventricular wall stress
+* $$r$$ is ventricular chamber radius  
+This is a proxy for ventricular size, or end-diastolic volume.
 * $$P$$ is ventricular transmural pressure
-* $$r$$ is ventricular chamber radius
 * $$T$$ is ventricular wall thickness
 
 
-Each of these factors are in turn influenced by:
-* **Ventricular transmural systolic pressure**  
-Transmural pressure is the difference between intrathoracic pressure and the ventricular cavity pressure during ejection.
-    * Intrathoracic Pressure  
-    Negative intrathoracic pressure will increase afterload, as the ventricle has to generate a greater change in pressure to achieve ejection.
-      * PEEP reduces LV afterload
-      * Negative-pressure ventilation with a high work of breathing increases afterload  
-      This is why APO deteriorates - increased work of breathing increases LV afterload and worsens LV failure, increased pulmonary oedema, causing increased work of breathing... <br><br>
-    * **Ventricular cavity pressure**  
-    To facilitate ejection, the ventricle must overcome:
-      * **Outflow tract impedance**
-        * Valvular disease
-          * e.g. aortic stenosis
-        * HOCM
-      * **Systemic arterial impedance**  
-      Determined by resistance (SVR), **inertia, and **compliance:  
-          * Determinants of **resistance** are stated in the Poiseuille Equation:  
-              $$ R = {8.\eta.l \over \pi.r^4}$$, where:
-              * η = **Viscosity**  
-              Affected by **haematocrit** (e.g. increased in polycythaemia) 
-              * l = Vessel length  
-              Essentially fixed.
-              * r = Vessel **radius**  
-                * Greatest determinant
-                * Function of **degree of vasoconstriction** of resistance vessels
-          * **Inertia**  
-            * Given by the mass of blood in the column
-            * Affected by **heart rate**
-          * Arterial **compliance**  
-          Decreased arterial compliance increases afterload.
-            * During ejection, the aorta and large arteries distend, reducing peak systolic pressure (impedance to further ejection)
-              * Decreased arterial compliance increases the change in pressure for any given volume, increasing afterload during ejection
-              * Decreased arterial compliance increases the speed of propagation of **reflected pressures waves** returning to the aortic root
-                * Wave arrival in diastole augments coronary blood flow
-                * Wave arrival during systole further increases afterload
-            * In diastole the arteries recoil and blood pressure and flow are maintained - the **Windkessel effect**.
 
-
-    
-* **Ventricular chamber radius**
-    * End-Diastolic Volume  
-     Increased EDV increases ventricular radius and therefore wall tension.
+###End-Diastolic Volume 
+An increase in EDV increases ventricular radius and therefore wall tension.
      
 
-* **Myocardial wall thickness**  
-  Increasing wall thickness (seen clinically as ventricular hypertrophy) *decreases* afterload by sharing wall tension (the product of pressure and radius) between a larger number of sarcomeres.
+###Myocardial wall thickness
+Increasing wall thickness (seen clinically as ventricular hypertrophy) *decreases* afterload by sharing wall tension (the product of pressure and radius) between a larger number of sarcomeres.
+
+
+###Ventricular transmural systolic pressure
+Transmural pressure is the difference between intrathoracic pressure and the ventricular cavity pressure during ejection. Transmural pressure is dependent on:
+* **Intrathoracic Pressure**  
+Negative intrathoracic pressure will increase afterload, as the ventricle has to generate a greater change in pressure to achieve ejection.
+  * PEEP reduces LV afterload
+  * Negative-pressure ventilation with a high work of breathing increases afterload  
+  This is why APO deteriorates - increased work of breathing increases LV afterload and worsens LV failure, increased pulmonary oedema, causing increased work of breathing... <br><br>
+* **Ventricular cavity pressure**  
+To facilitate ejection, the ventricle must overcome:
+  * **Outflow tract impedance**
+    * Valvular disease
+      * e.g. aortic stenosis
+    * HOCM
+  * **Systemic arterial impedance**  
+  Determined by resistance (SVR), **inertia, and **compliance:  
+      * Determinants of **resistance** are stated in the Poiseuille Equation:  
+          $$ R = {8.\eta.l \over \pi.r^4}$$, where:
+          * η = **Viscosity**  
+          Affected by **haematocrit** (e.g. increased in polycythaemia) 
+          * l = Vessel length  
+          Essentially fixed.
+          * r = Vessel **radius**  
+            * Greatest determinant
+            * Function of **degree of vasoconstriction** of resistance vessels
+      * **Inertia**  
+        * Given by the mass of blood in the column
+        * Affected by **heart rate**
+      * Arterial **compliance**  
+      Decreased arterial compliance increases afterload.
+        * During ejection, the aorta and large arteries distend, reducing peak systolic pressure (impedance to further ejection)
+          * Decreased arterial compliance increases the change in pressure for any given volume, increasing afterload during ejection
+          * Decreased arterial compliance increases the speed of propagation of **reflected pressures waves** returning to the aortic root
+            * Wave arrival in diastole augments coronary blood flow
+            * Wave arrival during systole further increases afterload
+        * In diastole the arteries recoil and blood pressure and flow are maintained - the **Windkessel effect**.
+
 
 
 ##Contractility

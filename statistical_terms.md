@@ -1,4 +1,5 @@
 #Statistical terms
+
 > <p style="color:purple";>Understand the terms sensitivity, specificity, positive and negative predictive value and how these are affected by the prevalence of the disease in question</p>
 
 <!--></!-->
@@ -26,7 +27,9 @@ Draw a 2x2 table of disease state versus test outcome:
   * The type II error rate can be decreased by decreasing β, usually expressed as increasing **power**  
   Power is the chance of detecting a difference if it exists. Power is equal to 1-β. 
 
-##Sensitivity and Specificity
+##Sensitivity, Specificity, and Predictive Values
+
+
 ###Sensitivity
 * **Sensitivity** is the probability those with the disease test positive, i.e. the **true positive rate**, and expressed mathematically as:  
 $$ Sensitivity = {True \ Positives \over All \ Disease \ Positives } = {True \ Positives \over True \ Positives \ + \ False \ Negatives}$$
@@ -46,10 +49,10 @@ $$ Specificity = {True \ Negatives \over All \ Disease \ Negatives } = {True \ N
   * The mnemonic for this is **SPIN** - Sensitive, Positive, rule IN
 
 
-##Positive and Negative Predictive Values
+###Positive and Negative Predictive Values
 * Positive and negative predictive values describe **the proportion of test results which are true**
 * A high value indicates accuracy of the test
-* Because of how they are derived,** they are dependent on population prevalence of the disease**
+* Because of how they are derived, **they are dependent on population prevalence of the disease**
 
 
 * **Positive Predictive Value** (PPV) is the probability that the **disease is present** when the **test is positive**:  
@@ -60,11 +63,21 @@ $$ Positive \ Predictive \  Value = {Disease \ Positives \over All \ Test \ Posi
 $$ Negative \ Predictive \ Value = {Disease \ Negatives \over All \ Test \ Negatives} = {Disease \ Negatives \over Disease \ Negatives \ + \ False \ Negatives} $$
 
 ###Remembering the Difference
+|  | Disease  Positive | Disease Negative |Derived Variable|
+| -- | -- | -- ||
+| **Test Positive** | **TP** | FP|PPV|
+| **Test Negative** | FN| **TN** |NPV|
+|Derived Variable|Sensitivity|Specificity||
+
 * Rote learning these formulas is hard
-* Remember that:
+* Just remember:
+  * The above table
+  * That the **numerator** will **always** be (for the type of stats that is assessed) **true**, i.e. either a true positives or true negatives
+* The equations are easy to derive from here
+* Other hints:
   * Sensitivity and specificity are **the same** for any given prevalence of disease  
   Therefore they look at columns (disease positive or disease negative).
-  * PPV and NPV are not  
+  * PPV and NPV **depend on the population**  
   Therefore they look at rows (test positive or test negative).
 
 ##Likelihood Ratios
