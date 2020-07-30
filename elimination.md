@@ -1,16 +1,16 @@
-#Excretion
+#Elimination and Excretion
 > Describe the mechanisms of drug clearance and metabolism.
 
-*Elimination* is the removal of drug from the plasma and includes distribution and metabolism.
-*Excretion* refers to the removal of the drug from the body.
-
-Drugs can be excreted in:
-* **Urine**
-* **Bile**
-* Sweat
-* Breast milk
-* Tears
-* Exhaled gas
+Drug:
+* *Elimination* is the removal of drug from the plasma, and includes distribution and metabolism
+* *Excretion* is the removal of the drug from the body  
+Via:
+  * **Urine**
+  * **Bile**
+  * Sweat
+  * Breast milk
+  * Tears
+  * Exhaled gas
 
 ##Renal Excretion
 Drugs can be:
