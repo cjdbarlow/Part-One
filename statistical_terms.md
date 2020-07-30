@@ -1,5 +1,6 @@
-#Statistical Terms
->Understand the terms sensitivity, specificity, positive and negative predictive value and how these are affected by the prevalence of the disease in question
+#Statistical terms
+
+> <p style="color:purple";>Understand the terms sensitivity, specificity, positive and negative predictive value and how these are affected by the prevalence of the disease in question</p>
 
 <!--></!-->
 

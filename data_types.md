@@ -1,5 +1,5 @@
 #Data Types
-> Describe the different types of data
+> <p style="color:purple";>Describe the different types of data </p>
 
 Data are a series of observations or measurements. Can be either **qualitative** or **quantitative**.
 

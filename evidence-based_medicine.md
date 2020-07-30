@@ -1,5 +1,5 @@
 #Evidence-Based Medicine {#id}
->Describe the features of evidence-based medicine, including levels of evidence (e.g. NHMRC)~~, meta-analysis, and systematic review~~
+> <p style="color:purple";>Describe the features of evidence-based medicine, including levels of evidence (e.g. NHMRC)~~, meta-analysis, and systematic review~~</p>
 
 ### What is Evidence-Based Medicine?
 

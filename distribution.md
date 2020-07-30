@@ -108,12 +108,12 @@ Affects concentration gradients between blood and tissue, and is affected by car
     * Heart
     * Liver
     * Kidneys
-  * Vessel Poor Group
-    * Connective tissue
-      * Bones
-      * Ligament
-      * Teeth
-      * Hair
+  * Vessel Poor Group  
+  Connective tissues:
+    * Bones
+    * Ligament
+    * Teeth
+    * Hair
   * Muscle groups
   * Fat
 

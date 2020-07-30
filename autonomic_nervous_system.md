@@ -45,7 +45,7 @@ FIGURE FROM PAGE 67 - POWER AND KAM
 
 **Efferent** nerves exit the spinal root anteriorly, and form the **ventral root**.
 
-Conversely, **afferent** nerves exit posteriorly, forming the **dorsal root** and then **dorsal root ganglion**, before synapsing in the spinal cord.
+Conversely, **afferent** nerves enter posteriorly, forming the **dorsal root** and then **dorsal root ganglion**, before synapsing in the spinal cord.
 
 ##Sympathetic Nervous System
 The sympathetic nervous system optimises the body for short-term survival.
@@ -110,7 +110,7 @@ From CN III, VII, IX, and (mostly) X.
 * **Hypogastric plexus**  
 Arises from S2-S4, and innervates the bladder, uterus, and gut distal to the splenic flexure.
 
-The parasympathetic nervous system ganglia site close to the target organ. This means that the:
+The parasympathetic nervous system ganglia sit close to the target organ. This means that the:
 * Pre-ganglionic fibre is long  
   * Preganglionic cell body sits within the brainstem (cranial nerves) or sacral grey matter (hypogastric plexus)
   * Releases ACh to stimulate the post-ganglionic neurone at a **nicotinic ACh** receptor
@@ -142,7 +142,7 @@ Effective parasympatholysis:
   * Iris  
   Mydriasis.
   * GIT  
-  Decreased ton.
+  Decreased tone.
   * Bladder  
   Urinary retention.
   * Salivary  

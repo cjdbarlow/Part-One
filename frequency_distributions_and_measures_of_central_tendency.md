@@ -1,5 +1,5 @@
 #Frequency Distributions and Measures of Central Tendency
->Describe frequency distributions and measures of central tendency and dispersion
+> <p style="color:purple";>Describe frequency distributions and measures of central tendency and dispersion</p>
 
 ##Frequency Distributions
 Frequency distributions are a method of tabulating or graphically displaying a number of observations.

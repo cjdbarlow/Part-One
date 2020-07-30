@@ -1,5 +1,5 @@
 #Statistical Tests
-> Describe the appropriate selection of non-parametric and parametric tests and tests that examine relationships (e.g. correlation, regression)
+> <p style="color:purple";>Describe the appropriate selection of non-parametric and parametric tests and tests that examine relationships (e.g. correlation, regression)</p>
 
 ##Parametric Tests
 Parametric tests are used when data is:
