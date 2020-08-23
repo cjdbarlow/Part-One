@@ -69,7 +69,7 @@ Quantifies static lung volumes by having a patient perform:
     * Lungs collapse, and airway calibre falls
     * Small airways are compressed  
     Any increase in expiratory pressure will increase airway resistance proportionally.
-      * This is called **dynamic airways compression**, and results in a uniform flow rate that is **independent of expiratory effort*  
+      * This is called **dynamic airways compression**, and results in a uniform flow rate that is **independent of expiratory effort**  
       This is therefore labeled the **effort independent** part of the curve.
   
 <img src="resources\flow-volume.svg">
