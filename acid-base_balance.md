@@ -72,7 +72,7 @@ Glutamine provides a mechanism for elimination of a large number of H<sup>+</sup
 Secreted H<sup>+</sup> may also combine with a filtered buffer (e.g. PO<sub>4</sub><sup>3-</sup>). **These H<sup>+</sup> ions are not reabsorbed**. About **36mmol** of H<sup>+</sup> is eliminated with filtered PO<sub>4</sub><sup>3-</sup> each day, with each PO<sub>4</sub><sup>3-</sup> binding **two** H<sup>+</sup> ions.
 
 ---
-##References
+## References
 1. CICM Sep/Nov 2014
 2. ANZCA Feb/April 2012
 3. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.

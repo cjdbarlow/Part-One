@@ -3,7 +3,7 @@
 
 Anticonvulsants work via a number of different mechanisms:
 
-##Sodium Channel Blockers
+## Sodium Channel Blockers
 Sodium channel blockers:
 * Stabilise the inactive state of the channel, preventing return to the active state and prevent generation of further action potentials  
 This halts post-tetanic potentiation and limits the development of seizure activity.
@@ -14,7 +14,7 @@ Due to Na<sup>+</sup> blocking effects.
     * Carbamazepine
     * Lamotrigine
 
-##GABA Mediators
+## GABA Mediators
 GABA is the key inhibitory neurotransmitter in the CNS. GABA mediators:
 * Enhance the effect of GABA  
 Multiple potential mechanisms:
@@ -29,12 +29,12 @@ Multiple potential mechanisms:
     * Increase GABA synthesis  
     e.g. Sodium Valproate.
 
-##Glutamate Blockers
+## Glutamate Blockers
 Glutamate is an important CNS excitatory neurotransmitter. Glutamate antagonists:
 * Are generally avoided due to their side effect profile, which includes psychosis and hallucinations
 * Include topiramate
 
-##Other Agents
+## Other Agents
 Gabapentin and pregabalin:
 * Do not appear to mediate GABA
 * Inhibit of excitatory α<sub>2</sub>δ voltage-gated calcium channels in the CNS  
@@ -42,7 +42,8 @@ This gives them anticonvulsant properties.
 
 
 ---
-##References
+
+## References
 1. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
 2. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.  
 3. [Medscape - Antiepileptic Drugs](http://emedicine.medscape.com/article/1187334-overview#showall). Accessed December 2015.

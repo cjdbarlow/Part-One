@@ -37,7 +37,7 @@ The GIT produces a number of substances which can be classified by region and fu
             * Secretin
             * Somatostatin
 
-##Control of Secretions
+## Control of Secretions
 Secretion occurs in three phases:
 * Cephalic  
   Thought/sight/taste/smell of food, resulting in vagal-mediated stimulus to release gastrin. Accounts for ~30% of production.
@@ -46,7 +46,7 @@ Secretion occurs in three phases:
 * Intestinal  
   A drop in pH of the proximal duodenum releases **secretin** to stimulate the exocrine pancreas.
 
-##Salivary Secretions
+## Salivary Secretions
 Approximately **1L** of saliva is produced by the parotid, submandibular, and sublingual glands each day.
 
 Saliva has four main functions:
@@ -60,8 +60,9 @@ Saliva has four main functions:
 For protection prior to vomiting.
 * **Antibacterial**
 
-##Gastric Secretions
+## Gastric Secretions
 The stomach produces **~2L** of secretions **per day**:
+
 * **Acid secretion**  
 **Parietal cells** contain an H<sup>+</sup>-K<sup>+</sup> exchange pump.
     * H<sup>+</sup> is produced by carbonic anhydrase on CO<sub>2</sub> and water, with 'waste' HCO<sub>3</sub><sup>-</sup> removed from the cell in exchange for Cl<sup>-</sup>.
@@ -96,15 +97,19 @@ Gastrin is a peptide family secreted from antral **G cells**.
         * Stimulates biliary secretion
         * Increases gastric and intestinal motility
 
+
 * **Pepsinogens**  
 **Chief cells** secrete pepsinogen which is released by ACh or β stimulation. 
 Pepsinogen is cleaved by hydrochloric acid in the stomach to become pepsin. Pepsin breaks down protein.
 
+
 * **Intrinsic Factor**  
 **Parietal cells** produce intrinsic factor, which forms a complex with B<sub>12</sub> which facilitates its later absorption in the terminal ileum.
 
+
 * **Mucous**  
 **Neck cells** produce mucopolysaccharide, glycoprotein, and HCO<sub>3</sub><sup>-</sup> in response to stimulus by prostaglandins, which protects mucosa and lubricates food.
+
 
 * **Pancreatic Secretions**  
 Exocrine pancreatic secretions are produced by the **acinar** and **ductal cells**, at the rate of **1.5L per day**.
@@ -126,7 +131,8 @@ Exocrine pancreatic secretions are produced by the **acinar** and **ductal cells
             * Lipase  
               Hydrolysis of dietary triglycerides.
 
-##Endocrine Function
+
+## Endocrine Function
 * Cholecystokinin (**CCK**) is a peptide family secreted by intestinal enteroendocrine cells (I cells) in the mucosa of the duodenum and jejunum. Cholecystokinin:
     * Regulates satiety
     * Regulates leptin release from fat
@@ -136,6 +142,8 @@ Exocrine pancreatic secretions are produced by the **acinar** and **ductal cells
 * Motilin stimulates the migrating motor complex. Motilin is:
     * Released **cyclically** from M cells in the small bowel
 
+
 ---
-##References
+
+## References
 1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
