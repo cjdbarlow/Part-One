@@ -92,15 +92,18 @@ Limitation refers to what process limits gas uptake into blood:
   Decreases pulmonary transit time.
   * **Altitude**  
   Decreases PAO<sub>2</sub>.
+* Impairment of diffusion capacity causes type 1 respiratory failure as oxygen is affected to a much greater extent than carbon dioxide
 
 ###Carbon Dioxide
-* Carbon dioxide is ventilation limited, rather than diffusion or perfusion limited
-* This is because it is:
-  * 20x more soluble in blood than oxygen
-  * Rapidly produced from bicarbonate and carbamino compounds
-  * Present in far greater amounts than oxygen  
-  1.8L.kg<sup>-1</sup> exist in the body (though 1.6L<sup>-1</sup> of this are in bone and other relatively inaccessible compartments).
-* Impairment of diffusion capacity causes type 1 respiratory failure as oxygen is affected to a much greater extent than carbon dioxide
+* Carbon dioxide is an exception to these categories and limited by *ventilation*, rather than diffusion or perfusion.
+* This is becaues CO<sub>2</sub> is constantly being produced by the body, and needs to be *removed* - it therefore moves in the opposite direction to the other gases.
+* There is a large amount of carbon dioxide in venous blood, present in various forms:
+  * Dissolved in plasma (CO<sub>2</sub> is 20x more soluble in blood than oxygen)
+  * Bicarbonate ions (part of the CO<sub>2</sub> and pH buffer system)
+  * Carbamino compounds (largely bound to Hb for carriage to the alveolus)
+* This means that although CO<sub>2</sub> readily diffuses into the alveolus, the partial pressure in the blood does not change because it is constantly being replenished both from the above stores, and ongoing production by cellular metabolism.
+* If equilibrium is reached across the alveolar-capillary membrane, CO<sub>2</sub> transfer will stop *regardless* of speed of diffusion or ongoing perfusion.
+* Therefore, the only way to ensure ongoing removal of CO<sub>2</sub> from the blood is to clear it from the alveolus i.e. by maintaining alveolar ventilation.
 
 ###Other Gases
 * **Carbon monoxide**  

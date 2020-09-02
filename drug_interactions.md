@@ -50,7 +50,7 @@ Metabolism may be affected by changes to the CYP450 enzymes:
     * Carbamazepine
 * Enzyme inhibition
     * Amiodarone  
-    Amiodarone inhibits metabolism of S-warfarin by CYP2C9, enhancing it's effect.
+    Amiodarone inhibits metabolism of S-warfarin by CYP2C9, enhancing its effect.
     * Diltiazem
     * Verapamil
     * Ciprofloxacin
@@ -67,7 +67,7 @@ Renal elimination can be affected by:
 >Sodium bicarbonate increases urinary pH and enhances excretion of weak acids such as aspirin.
 
 ###Pharmacodynamic{#iso}
-Pharmacodynamic interactions can be **direct**, due to interaction on the same receptor system; or a **indirect**, when they act on different receptor system. These interactions can be classified as either:
+Pharmacodynamic interactions can be **direct**, due to interaction on the same receptor system; or **indirect**, when they act on different receptor system. These interactions can be classified as either:
 * **Additive**  
   When the effects summate.
   * e.g. Administering midazolam with propofol reduces the amount of propofol required to generate an effect.

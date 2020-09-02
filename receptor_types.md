@@ -22,7 +22,7 @@ Are activated by a ligand and cause enzymatic activity on the intracellular side
   Where two proteins join, or diamerise, on binding of a ligand.
 
 
-* **Ion-channel** receptors (inotropic)  
+* **Ion-channel** receptors (ionotropic)  
 Create a channel through the membrane that allows electrolytes to flow down their electrical and concentration gradients. They can be either:
   * **Ligand-gated** channels  
   Undergo conformational change when a ligand is bound. There are three important families of ligand channels:
