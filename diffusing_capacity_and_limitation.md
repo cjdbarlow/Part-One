@@ -92,15 +92,14 @@ Limitation refers to what process limits gas uptake into blood:
   Decreases pulmonary transit time.
   * **Altitude**  
   Decreases PAO<sub>2</sub>.
+* Reduced diffusion capacity leads to Type 1 respiratory failure as oxygen is affected to a greater extent than carbon dioxide
 
 ###Carbon Dioxide
-* Carbon dioxide is ventilation limited, rather than diffusion or perfusion limited
-* This is because it is:
-  * 20x more soluble in blood than oxygen
-  * Rapidly produced from bicarbonate and carbamino compounds
-  * Present in far greater amounts than oxygen  
-  1.8L.kg<sup>-1</sup> exist in the body (though 1.6L<sup>-1</sup> of this are in bone and other relatively inaccessible compartments).
-* Impairment of diffusion capacity causes type 1 respiratory failure as oxygen is affected to a much greater extent than carbon dioxide
+* Carbon dioxide is an exception to these categories and limited by *ventilation*, rather than diffusion or perfusion.
+* This is becaues CO<sub>2</sub> needs to be *removed*, and therefore moves in the opposite direction to other gases
+* Due to the large amount of CO<sub>2</sub> present in venous blood (both dissolved, as well as bicarbonate and carbamino compounds), the partial pressure does not change markedly despite the ready diffusion of CO<sub>2</sub> into the alveolus
+* If the pressure gradient driving CO<sub>2</sub> into the alveolus equalises, then diffusion of CO<sub>2</sub> transfer will cease
+* Therefore, the only way to ensure ongoing removal of CO<sub>2</sub> from the blood is to continually remove it from the alveolus by maintaining alveolar ventilation
 
 ###Other Gases
 * **Carbon monoxide**  
@@ -149,4 +148,4 @@ Carbon monoxide is used as it is a diffusion limited gas.
 1. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.
 2. Lumb A. Nunn's Applied Respiratory Physiology. 7th Edition. Elsevier. 2010.
 3. ANZCA March/April 1999
-4. [Deranged Physiology - Carbon Dioxide Storage and Transport](http://www.derangedphysiology.com/main/core-topics-intensive-care/acid-base-disturbances/Chapter%202.0.1/carbon-dioxide-storage-and-transport)
+4. Yartsev, A. [Carbon Dioxide Storage and Transport](http://www.derangedphysiology.com/main/core-topics-intensive-care/acid-base-disturbances/Chapter%202.0.1/carbon-dioxide-storage-and-transport).
