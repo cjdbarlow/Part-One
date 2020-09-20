@@ -598,7 +598,7 @@ Conscious sensation of the physiological urge to drink.
 Time it would take for an exponential function to complete if the initial rate of change continued. A process is:
 	* 63% complete at 1T
 	* 86.5% complete at 2T
-	* 95% complete at 3%
+	* 95% complete at 3T
 
 
 * **Tonicity**  
