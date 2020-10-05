@@ -11,7 +11,7 @@ Several mechanisms for E<sub>T</sub>CO<sub>2</sub> measurement exist:
 ##Infrared Spectroscopy
 Infrared spectroscopy relies on the fact that:
 * Gases with two or more different atoms will **absorb infrared radiation**
-* **Different gases absorbing different wavelengths** to different degrees
+* **Different gases absorb different wavelengths** to different degrees
 * Measuring the absorbed wavelengths and comparing with the **likely composition** of a mixture, a system can be designed using a specific wavelength to measure gas concentrations and avoid interference
 
 
