@@ -96,7 +96,7 @@ Limitation refers to what process limits gas uptake into blood:
 
 ###Carbon Dioxide
 * Carbon dioxide is an exception to these categories and limited by *ventilation*, rather than diffusion or perfusion.
-* This is becaues CO<sub>2</sub> is constantly being produced by the body, and needs to be *removed* - it therefore moves in the opposite direction to the other gases.
+* This is because CO<sub>2</sub> is constantly being produced by the body, and needs to be *removed* - it therefore moves in the opposite direction to the other gases.
 * There is a large amount of carbon dioxide in venous blood, present in various forms:
   * Dissolved in plasma (CO<sub>2</sub> is 20x more soluble in blood than oxygen)
   * Bicarbonate ions (part of the CO<sub>2</sub> and pH buffer system)
