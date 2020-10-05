@@ -92,7 +92,7 @@ Limitation refers to what process limits gas uptake into blood:
   Decreases pulmonary transit time.
   * **Altitude**  
   Decreases PAO<sub>2</sub>.
-* Impairment of diffusion capacity causes type 1 respiratory failure as oxygen is affected to a much greater extent than carbon dioxide
+* Reduced diffusion capacity leads to Type 1 respiratory failure as oxygen is affected to a greater extent than carbon dioxide
 
 ###Carbon Dioxide
 * Carbon dioxide is an exception to these categories and limited by *ventilation*, rather than diffusion or perfusion.
@@ -152,4 +152,4 @@ Carbon monoxide is used as it is a diffusion limited gas.
 1. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.
 2. Lumb A. Nunn's Applied Respiratory Physiology. 7th Edition. Elsevier. 2010.
 3. ANZCA March/April 1999
-4. [Deranged Physiology - Carbon Dioxide Storage and Transport](http://www.derangedphysiology.com/main/core-topics-intensive-care/acid-base-disturbances/Chapter%202.0.1/carbon-dioxide-storage-and-transport)
+4. Yartsev, A. [Carbon Dioxide Storage and Transport](http://www.derangedphysiology.com/main/core-topics-intensive-care/acid-base-disturbances/Chapter%202.0.1/carbon-dioxide-storage-and-transport).
