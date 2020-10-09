@@ -42,7 +42,7 @@ Substance evenly dispersed throughout another solution in which it is insoluble.
 |--|--|
 |Na<sup>+</sup>|154|130|140
 |Cl<sup>-</sup>|154|109|98|
-|K<sup>+</sup>||4||
+|K<sup>+</sup>||4|5|
 |Ca<sup>2+</sup>||3||
 |Mg<sup>2+</sup>|||1.5|
 |Lactate||28||
