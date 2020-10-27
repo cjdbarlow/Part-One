@@ -46,7 +46,7 @@ $$ Specificity = {True \ Negatives \over All \ Disease \ Negatives } = {True \ N
 * It refers to the ability of a test to **detect *absence* of the condition**  
 * A highly specific test will likely be negative if the condition is not present
 * Therefore a **positive** result on a **specific test** gives a **high likelihood the disease is present**
-  * The mnemonic for this is **SPIN** - Sensitive, Positive, rule IN
+  * The mnemonic for this is **SPIN** - Specific, Positive, rule IN
 
 
 ###Positive and Negative Predictive Values
