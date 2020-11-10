@@ -10,7 +10,7 @@ The **left main** coronary artery:
 * Arises from the posterior aortic sinus superior to the left coronary cusp of the aortic valve  
 Eddy currents produced in the **sinuses of Valsalva** (outpouchings of the aortic wall) prevent the valves occluding the os of the LM and RCA during systole, so they remain patent throughout the cardiac cycle.
 * The **left main** is 5-10mm long, and bifurcates to form the LAD and LCx
-* The **intermediate** artery is an anatomical variant that arises from the bifurcation o
+* The **intermediate** artery is an anatomical variant that arises from the bifurcation, creating a trifurcation
 
 
 The **LAD**:

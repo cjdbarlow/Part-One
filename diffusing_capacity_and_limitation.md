@@ -96,10 +96,14 @@ Limitation refers to what process limits gas uptake into blood:
 
 ###Carbon Dioxide
 * Carbon dioxide is an exception to these categories and limited by *ventilation*, rather than diffusion or perfusion.
-* This is becaues CO<sub>2</sub> needs to be *removed*, and therefore moves in the opposite direction to other gases
-* Due to the large amount of CO<sub>2</sub> present in venous blood (both dissolved, as well as bicarbonate and carbamino compounds), the partial pressure does not change markedly despite the ready diffusion of CO<sub>2</sub> into the alveolus
-* If the pressure gradient driving CO<sub>2</sub> into the alveolus equalises, then diffusion of CO<sub>2</sub> transfer will cease
-* Therefore, the only way to ensure ongoing removal of CO<sub>2</sub> from the blood is to continually remove it from the alveolus by maintaining alveolar ventilation
+* This is because CO<sub>2</sub> is constantly being produced by the body, and needs to be *removed* - it therefore moves in the opposite direction to the other gases.
+* There is a large amount of carbon dioxide in venous blood, present in various forms:
+  * Dissolved in plasma (CO<sub>2</sub> is 20x more soluble in blood than oxygen)
+  * Bicarbonate ions (part of the CO<sub>2</sub> and pH buffer system)
+  * Carbamino compounds (largely bound to Hb for carriage to the alveolus)
+* This means that although CO<sub>2</sub> readily diffuses into the alveolus, the partial pressure in the blood does not change because it is constantly being replenished both from the above stores, and ongoing production by cellular metabolism.
+* If equilibrium is reached across the alveolar-capillary membrane, CO<sub>2</sub> transfer will stop *regardless* of speed of diffusion or ongoing perfusion.
+* Therefore, the only way to ensure ongoing removal of CO<sub>2</sub> from the blood is to clear it from the alveolus i.e. by maintaining alveolar ventilation.
 
 ###Other Gases
 * **Carbon monoxide**  

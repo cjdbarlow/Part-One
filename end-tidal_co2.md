@@ -11,7 +11,7 @@ Several mechanisms for E<sub>T</sub>CO<sub>2</sub> measurement exist:
 ##Infrared Spectroscopy
 Infrared spectroscopy relies on the fact that:
 * Gases with two or more different atoms will **absorb infrared radiation**
-* **Different gases absorbing different wavelengths** to different degrees
+* **Different gases absorb different wavelengths** to different degrees
 * Measuring the absorbed wavelengths and comparing with the **likely composition** of a mixture, a system can be designed using a specific wavelength to measure gas concentrations and avoid interference
 
 
@@ -51,7 +51,7 @@ Errors can be classified into:
 
 
 * Failure of equipment  
-These can be overcome by use of **double-beam capnometer**. This uses a reference chamber which contains CO<sub>2</sub>-free air, and the same emitter-detector system. All absorption from this system must occur due to artifact (as no CO<sub>2</sub> is present). The artifactual component is then subtracted from the value detected in the main chamber. This corrects for:
+These can be overcome by use of **double-beam capnometer**. This uses a reference chamber which contains CO<sub>2</sub>-free air, and the same emitter-detector system. All absorption from this system must occur due to artefact (as no CO<sub>2</sub> is present). The artefactual component is then subtracted from the value detected in the main chamber. This corrects for:
     * Variable amount of infrared radiation released
     * Variable sensitivity of the detector
     * Variable efficacy of the crystal window and lens system

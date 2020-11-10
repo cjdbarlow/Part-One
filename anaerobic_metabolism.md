@@ -12,9 +12,9 @@ In anaerobic conditions (in the erythrocyte, and in the setting of cellular hypo
 * There is no oxygen available to allow further ATP production via the electron transport chain  
 There is also no regeneration of NAD<sup>+</sup> in the ETC.
 * In order for glycolysis to continue, NAD<sup>+</sup> is regenerated via production of lactate  
-$$Pyruvate + NADH  \rightarrow Lactate + NAD^+$$
+$$Pyruvate + NADH + H^+ \rightarrow Lactate + NAD^+$$
 
-About 1400mmol of lactate is produced per day. Lactate is either:
+About 1400mmol (20mmol/kg) of lactate is produced per day. Lactate is either:
 * Oxidised in the cell  
 This requires restoration of NAD<sup>+</sup>, e.g. resolution of cellular hypoxia.
 * Circulated to the liver  

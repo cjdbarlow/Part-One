@@ -26,7 +26,7 @@ In general:
 |**Absorption**|75% bioavailability|IV only for arrhythmia|90% orally bioavailable|
 |**Distribution**||33% unionised, 70% protein bound|50% protein bound|
 |**Metabolism**|Hepatic to active metabolites via acetylation - slow acetylators at increased risk of side effects|Hepatic amidases to inactive metabolites|Hepatic to active metabolites|
-|**Mechanism of Action**| Reduces the rate of rise of phase 0, raises the threshold potential, and prolongs the refractory period without prolonging the action potential|Reduces the rate of rise of phase 0 of the action potential. Repolarisation phase is shortened.|Reduces the rate of rise of phase 0 of the action potential. Repolarisation is unchanged.|
+|**Mechanism of Action**| Reduces the rate of rise of phase 0, raises the threshold potential, and prolongs the refractory period and the action potential|Reduces the rate of rise of phase 0 of the action potential. Repolarisation phase is shortened.|Reduces the rate of rise of phase 0 of the action potential. Repolarisation is unchanged.|
 |**CVS**|↓ HR, ↓SVR, ↓BP, ↓CO, heart block, may ↑HR when used for SVT, ↑QT with risk of TDP|AV block, myocardial depression causing unresponsive ↓BP|Precipitate pre-existing conduction disorders, ↓ inotropy, ↑ pacing and defibrillation threshold|
 |**CNS**||Circumoral tingling, dizziness, parasthesia, confusion, seizures, coma|Dizziness, parasthesia, headache|
 |**Immune**|Lupoid syndrome in 20-30%, reduces antimicrobial effect of sulfonamides|||
