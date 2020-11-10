@@ -51,7 +51,7 @@ Errors can be classified into:
 
 
 * Failure of equipment  
-These can be overcome by use of **double-beam capnometer**. This uses a reference chamber which contains CO<sub>2</sub>-free air, and the same emitter-detector system. All absorption from this system must occur due to artifact (as no CO<sub>2</sub> is present). The artifactual component is then subtracted from the value detected in the main chamber. This corrects for:
+These can be overcome by use of **double-beam capnometer**. This uses a reference chamber which contains CO<sub>2</sub>-free air, and the same emitter-detector system. All absorption from this system must occur due to artefact (as no CO<sub>2</sub> is present). The artefactual component is then subtracted from the value detected in the main chamber. This corrects for:
     * Variable amount of infrared radiation released
     * Variable sensitivity of the detector
     * Variable efficacy of the crystal window and lens system

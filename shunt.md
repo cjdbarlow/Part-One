@@ -49,9 +49,9 @@ Venous admixture is **the amount of mixed venous blood that must be added to pul
 * **PaO<sub>2</sub> falls proportionally to shunt fraction**
 * As shunted alveoli are perfused but not ventilated, **true shunt** is said to be **unresponsive to an increase in FiO<sub>2</sub>**  
 This is where technical definitions become important to avoid confusion.
-  * For an alveoli with a V/Q between 0-1 (V/Q mismatch or V/Q scatter, but not true shunt):
+  * For an alveolus with a V/Q between 0-1 (V/Q mismatch or V/Q scatter, but not true shunt):
     * There is perfusion, but *relatively less* ventilation
-    * Therefore blood passing through this alveoli will be *partially* oxygenated
+    * Therefore blood passing through this alveolus will be *partially* oxygenated
     * Increasing PAO<sub>2</sub> will improve oxygenation (assuming no diffusion limitation):
       * Administration of supplemental oxygen
       * Hyperventilation  
