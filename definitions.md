@@ -343,7 +343,7 @@ Deoxygenated blood forms carbamino compounds and buffers H<sup>+</sup> better th
 Time taken for drug concentration (typically in plasma) to fall by half.
 
 * **Heat**  
-Kinetic energy content of a body, as measured in joules.
+Describes the transfer of thermal energy from one body to another body; measured in Joules.
 
 * **Henry's Law**  
 Amount of gas dissolved in a substance is directly proportional to the partial pressure of gas at the gas-liquid interface.
@@ -588,7 +588,7 @@ When two drugs interact to produce a greater effect than would be expected.
 
 ##T
 * **Temperature**  
-Ability of a body to transfer heat energy to another body, as measured in degrees.
+Average kinetic energy of molecules within a material, measured in degrees.
 
 * **Thirst**  
 Conscious sensation of the physiological urge to drink.

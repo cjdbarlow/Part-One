@@ -108,6 +108,9 @@ Electroencephalogram
 ##EPO
 Erythropoietin
 
+##ERP
+Effective Refractory Period
+
 ##ESV
 End-Systolic Volume
 
@@ -255,6 +258,9 @@ Right Coronary Artery
 
 ##RR
 Respiratory Rate
+
+##RRP
+Relative Refractory Period
 
 ##RNA
 Ribonucleic Acid
