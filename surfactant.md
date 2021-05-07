@@ -10,10 +10,11 @@
   * Why multiple droplets will tend to coalesce into a single larger droplet
 
 
-* This relationship is described by **La Place's Law**  
-$$ P = {2T \over r}$$, where:
+* This relationship is described by **Laplace's Law**  
+$$ P = {2T\Theta \over r}$$, where:
   * $$P$$ is pressure
-  * $$T$$ is surface tension
+  * $$T$$ is wall thickness  
+  * $$\Theta$$ is surface tension
   * $$r$$ is radius
 
 

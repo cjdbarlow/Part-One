@@ -44,7 +44,7 @@ Ability of a drug to bind to a receptor.
 
 
 * **Afterload**  
-Sum of forces, both elastic and kinetic, opposing ventricular ejection.
+Ventricular wall stress at the onset of systole.
 
 * **Aging**  
 Naturally occurring, physiological decline in the structure and functional reserve of all organ systems.

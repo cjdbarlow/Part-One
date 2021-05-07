@@ -70,7 +70,7 @@ $$pH = pK_a + log{[A^-] \over [HA]}$$, where:
 The ratio of dead space to tidal volume ventilation equations the arterial - mixed-expired CO2 difference, over the arterial CO2.
 $$ {V_D \over V_T} = {PaCO_2 - PE'CO_2 \over PaCO_2}$$
 
-* **La Place's Law**  
+* **Laplace's Law**  
 The larger the vessel radius, the larger the wall tension required to withstand a given internal fluid pressure. For a thin-walled sphere, Wall Tension (T) is half the product of pressure and radius, i.e. $$ T = {P.r \over 2}$$
 
 * **Alveolar Gas Equation**  

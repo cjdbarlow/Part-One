@@ -85,11 +85,7 @@ This reduces the number of overlapping crossbridges, reducing contractility.
 
 
 ##Afterload
-**Afterload** is **the sum of forces, both elastic and kinetic, opposing ventricular ejection**
-* This definition is a bit wordy but avoids using the words "resistance" and "impedance", which are strictly defined in physics (and crudely applied in medicine), and may be leapt on by the cruel examiner
-
-This equates to **ventricular wall stress**, which is given by the equation:
- 
+**Afterload** is **the ventricular wall stress at the onset of systole.** This is given by the **Law of Laplace**, 
 $$ \theta \propto {P \times r \over T}$$, where:
 * $$\theta$$ is ventricular wall stress
 * $$r$$ is ventricular chamber radius  
