@@ -16,10 +16,12 @@ Insulin binds to a specific insulin receptor (a membrane-spanning protein compos
 
 ||Seconds|Minutes|Hours|
 |--|--|--|--|
-|**Muscle**|Increased glucose, amino acid, ketone, and K<sup>+</sup> uptake|Increased anabolism, decreased catabolism||
-|**Fat**|Increased glucose (via GLUT4), amino acid, and K<sup>+</sup> uptake|Increased glycerol phosphate synthesis|Increased fatty acid synthesis|
+|**Muscle**|Increased glucose (active transport via GLUT<sub>4</sub>), amino acid, ketone, and K<sup>+</sup> uptake|Increased anabolism, decreased catabolism||
+|**Fat**|Increased glucose (active transport via GLUT<sub>4</sub>), amino acid, and K<sup>+</sup> uptake|Increased glycerol phosphate synthesis|Increased fatty acid synthesis|
 |**Liver**||**Decreased**: gluconeogenesis, ketogenesis. <br><br>**Increased**: glycogen synthesis, glycolysis, protein synthesis, lipid synthesis||
 |**General**|||Increased cell growth|
+
+> Note that cells do not require insulin to take up glucose. GLUT<sub>1</sub> receptors allow free entry of glucose into cells via facilitated diffusion; i.e. **Metabolism drives glucose uptake**. Active transport of insulin in fat and muscle leads to triglyceride and glycogen production, respectively. Incidentally, the **hyperglycaemia** seen in **diabetes** is due **uninhibited hepatic gluconeogenesis**, and the acidosis due to uninhibited hepatic ketogenesis.
 
 ###Glucose Tolerance
 Hyperglycaemia occurs in diabetes due to **decreased peripheral utilisation** as glucose uptake is reduced due to absence of or resistance to insulin. In addition, the suppressive effect of insulin on hepatic gluconeogenesis is absent or reduced. 
