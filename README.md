@@ -55,13 +55,18 @@ With plugins from:
 * Additionally, chemical structures have been built in [MarvinSketch](https://www.chemaxon.com/products/marvin/marvinsketch/)
 
 
-###About the Author
+### About the Author
 
 Jake Barlow is an Anaesthetic and Intensive Care Registrar from Melbourne, Australia. Interested in all things critical care (with a particular fascination for physiology), as well as biotech, physical computing, teaching, analytics, and outcome prediction in intensive care. Send all comments, criticism, and complaints about Part One to him <a href="mailto:jake@jakebarlow.me?Subject=Part%20One" target="_top">here</a>.
 
+
+### Major Contributors
+
+Stuart Watson is an anaesthetic registrar and Renton Prize winner from St. Vincent's Hospital, Melbourne. He has kindly provided his brilliant primary exam question answers to be included in Part One (the originals can be found on his website [Ketamine Nightmares](https://ketaminenightmares.com/pex/)).
+
 ---
 
-###Copyright + Legal
-Copyright © 2015-2019 C. Jake Barlow
+### Copyright + Legal
+Copyright © 2015-2021 C. Jake Barlow
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0;max-width:81px;max-height:100px" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

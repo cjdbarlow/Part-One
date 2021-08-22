@@ -21,7 +21,8 @@ Decide when you are going to sit:
 * Don't lose faith  
     * There will be times that you question why you have to learn this
     * Those are very legitimate feelings
-    * Accept that part of **this exam is an academic hazing you must pass** through on your path to fellowship  
+    * Accept that part of **this exam is an academic hazing you must pass** through on your path to fellowship
+* There is no substitute for knowledge
 
 
 ##Be Strategic
@@ -130,8 +131,26 @@ Set aside time for relaxation, and don't feel guilty about it.
 * You don't have to know everything  
 **The pass mark is 50%**
 
+## Prizewinners Perspective
+> Key thoughts from those who won the prize; for those of you feeling anxious, wanting to excel, or are Renton-inclined
+
+* Spend 12 months learning content, and 6 months revising
+* Manage expectations of friends, family, and partner early
+* Learn from good quality texts and credible online resources
+* Preference and use multiple references for core topics, and minimise time spent on peripheral topics
+* Engage in rote-learning on a regular basis
+* Reinforce knowledge in other ways besides re-reading
+* Heed the examiners reports
+* Focus on the SAQ  
+Practice:
+    * Under exam conditions
+    * Recently asked questions
+    * Poorly answered questions
+    * Repeatedly
+
 ---
 
 ##References
 
-* This is based on a talk I gave at the 2016 [VPECC](http://www.vpecc.com/) Course, still raw from the CICM primary
+1. A talk I gave at the 2016 [VPECC](http://www.vpecc.com/) Course, still raw from the CICM primary.
+2. Periodic updates from talking to colleagues, and guiding junior trainees through the academic crucible.

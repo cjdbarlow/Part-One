@@ -1,0 +1,28 @@
+# How to Fail
+
+Alternatively, for those of you who wish to donate large sums of money to the college coffers in a tax-deductible way, there are a series of tried-and-true techniques for failing the primary. These factors are common among trainees who have had repeated unsuccessful attempts:
+
+* Leave gaps in the curriculum
+* Don’t distinguish between the things you ought to know in great detail and the things where a superficial knowledge is sufficient
+* Don’t identify where the “one thousand hours” of study is going to come from
+* Don’t use several resources
+* Don’t ask questions when you don’t know the answers
+* Accept other people’s answers for MCQs
+* Don’t practise SAQs
+* Don’t practise vivas until after you get an invitation
+* Only ask “nice” people for assessments
+* Don’t seek out a past or current primary examiner in your region
+* Don’t buy any books
+* Buy lots of books but don’t read them
+* Mistake familiarity for knowledge
+* Don’t have a plan or, if you do, don’t stick to it
+* Don’t decide on the purpose of a study group before embarking on it
+* Don’t think about how any of what you study might influence your clinical practice
+* Don’t cultivate any curiosity you might have about your chosen specialty
+
+
+---
+
+## References
+
+1. Reeves, M. [A Primary for the Primary FANZCA Examination](https://docs.google.com/document/d/1l5Jp5rywxCQ9euXH11EWvKL7TXmFHzRdIwrrE1uAfWM/edit). 2018.
