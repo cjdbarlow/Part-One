@@ -72,6 +72,11 @@ Key points:
 This is the mechanism for changes in PO<sub>2</sub> affecting the CO<sub>2</sub> dissociation curve.
 
 
+### Comparison Curve
+Comparison of gas content of both oxygen and carbon dioxide per 100mL of blood:
+<img src="resources\o2-and-co2-curve.svg">
+
+
 ##Removal of CO<sub>2</sub> {#tr}
 CO<sub>2</sub> dissolves from pulmonary arterial blood into the alveolus down a concentration gradient. As inspired CO<sub>2</sub> is negligible, PACO<sub>2</sub> is a function of alveolar ventilation and CO<sub>2</sub> output, given by the equation:
 

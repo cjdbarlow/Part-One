@@ -109,6 +109,7 @@ Instead it is cooled by:
 * Has an evaporator to evaporate large volumes of oxygen rapidly if demand is high
     * This is simply an uninsulated pipe exposed to the outside temperature
 
+<img src="resources\vie.svg">
 
 ####Pros
 * Cheapest option for oxygen delivery and storage

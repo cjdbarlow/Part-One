@@ -12,19 +12,22 @@
 
 *This section covers features and structures of inhalational anaesthetics. Structure-activity relationships are covered under [inhalational anaesthetics](inhalational-anaesthetic-agents.md#sa).*
 
-##Common Features of Inhalational Agents
+## Common Features of Inhalational Agents
 
 |Property|Action|
 |--|--|
 |**Metabolism**|Hepatic CYP450 (CYP2E1) metabolises C-halogen bonds to release halogen ions (F<sup>-</sup>, Cl<sup>-</sup>, Br<sup>-</sup>), which can be nephrotoxic and hepatotoxic. The C-F bond is minimally metabolised compared to the C-Cl, C-Br, and C-I bonds. All agents undergo hepatic oxidation, except for halothane which is reduced.
-|**Resp**|All halogenated agents ↓ V<sub>T</sub> and ↑ RR, with an overall ↓ in MV and therefore cause PaCO<sub>2</sub> to ↑; and ↓ sensitivity of central respiratory centres to CO<sub>2</sub>. Impairment of HPV may worsen V/Q matching and ↑ shunt.
+|**Resp**|All halogenated agents ↓ V<sub>T</sub> and ↑ RR, with an overall ↓ in MV and therefore cause PaCO<sub>2</sub> to ↑; and ↓ sensitivity of central respiratory centres to CO<sub>2</sub>. Impairment of HPV may worsen V/Q matching and ↑ shunt.<p><img src="resources\volatile-po2-response.svg"></p>
 |**CVS**|↓ MAP (predominantly by ↓ in SVR due to NO release and Ca<sup>2+</sup> channel blockade), ↓ inotropy due to Ca<sup>2+</sup> channel blockade.
-|**CNS**|Hypnosis. ↓ CMRO<sub>2</sub>. Above 1 MAC there is **uncoupling** of the CBF-CMRO<sub>2</sub> relationship, and CBF ↑ despite ↓ CMRO<sub>2</sub> due to cerebral vasodilation. ICP may mirror CBF changes. <br><br> All except halothane have some analgesic effect. ↓ EEG frequency such that θ- and δ-wave dominate the EEG as depth ↑. May cause burst suppression. 
+|**CNS**|Hypnosis. ↓ CMRO<sub>2</sub>. Above 1 MAC there is **uncoupling** of the CBF-CMRO<sub>2</sub> relationship, and CBF ↑ despite ↓ CMRO<sub>2</sub> due to cerebral vasodilation. ICP may mirror CBF changes. <br><br> All except halothane have some analgesic effect. ↓ EEG frequency such that θ- and δ-wave dominate the EEG as depth ↑. May cause burst suppression. <p><img src="resources\cbf-cmro2-volatile.svg"></p><p><img src="resources\cbf-cmro2-sevo.svg"></p>
 |**MSK**|Muscle relaxation via blockade of Ca<sup>2+</sup> channels. Additional augmentation of the effects of NMBD due to skeletal muscle vasodilation. May precipitate MH.
 |**Renal**|Dose dependent ↓ in RBF, GFR, and UO secondary to ↓ in MAP and CO. <br><br>Fluorinated ethers produce F<sup>-</sup> ions when hepatically metabolised, which may produce high-output renal failure at serum concentrations **>50μmol/L**. This is probably only a concern with methoxyflurane (as it has significant (>70%) hepatic metabolism) when used at anaesthetic doses.
 |**GIT**|↓ Hepatic blood flow. 
 |**GU**|Tocolysis.
 |**Toxic Effects**|Decreased fertility and increased risk of spontaneous abortion in operating theatre personnel.
+
+
+
 
 ##Comparison of Common Inhalational Agents
 |Property|Sevoflurane|Isoflurane|Desflurane|
@@ -42,6 +45,9 @@
 |**CVS**|↑ QT, ↓ SVR causing ↓ MAP without a reflex ↑ HR. Inotropy unchanged. Smallest ↓ in BP of any inhalational agent.|Reflex ↑ HR due to ↓ MAP from ↓ SVR. Small ↓ inotropy and CO, equivalent to sevoflurane but greater than desflurane. May cause **coronary steal**.|Minimal ↓ inotropy (least of all inhalational agents), but greater ↓ in SVR and BP than sevoflurane. ↑ in HR, with a bigger increase at >1.5 MAC.<br><br>Large ↑ in SNS tone with rapid ↑ in desflurane concentration.
 |**CNS**|↑ Post-operative agitation in children compared to halothane. Smallest ↑ in CBF at > 1.1 MAC, with no increase in ICP up to 1.5 MAC. Cerebral autoregulation intact up to 1.5 MAC.|Best balance of ↓ CMRO<sub>2</sub> for ↑ in CBF.||
 |**Toxic Effects**|Sevoflurane interacts with soda lime to produce **Compound A** (as well as B through E, which are unimportant), which is nephrotoxic in rats (but not, it seems, in humans).|-CHF<sub>2</sub> group may react with dry soda lime to produce CO.|Desflurane has much greater greenhouse gas effects than sevoflurane or isoflurane.|
+
+<img src="resources\desflurane-washout.svg">
+
 
 ##Comparison of Uncommon Inhalational Agents
 |Property|Enflurane|Halothane|Xenon|

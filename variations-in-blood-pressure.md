@@ -54,6 +54,9 @@ Arterial upstroke and falloff are both steeper.
 * The dicrotic notch occurs later and becomes less sharp  
 This occurs due to reflections in arterial pressure waves.
 
+<img src="resources\arterial-waveform.svg">
+
+
 ##Respiratory Variation
 Ventilation causes variation in peak systolic pressure due to dynamic changes in cardiac loading conditions:
 * **Negative pressure respiration** (i.e. regular breathing) generates a negative intrathoracic pressure during inspiration  

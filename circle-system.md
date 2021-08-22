@@ -18,7 +18,7 @@ CO<sub>2</sub> is actively removed.
         * Lost via leak
         
 
-##Principles
+## Components
 A circle circuit consists of:
 * A Y-piece, connecting the circuit to the patient
 * Expiratory and inspiratory valves, ensuring unidirectional flow
@@ -33,6 +33,8 @@ To absorb CO<sub>2</sub>.
     * Oxygen enters the back-bar last
     * When the vapouriser is out-of-circuit, all fresh gas flow will pass through the vapouriser prior to entering the circle
 * A separate high-pressure high-flow oxygen flush, which bypasses the vapouriser
+
+<img src="resources\circle-system.svg">
 
 ###Soda Lime
 Soda lime:

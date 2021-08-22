@@ -108,7 +108,7 @@ Factors affecting FRC:
   * Age  
   May increase slightly.
  
- 
+<img src="resources\frc-ageing.svg"> 
  
 ##Measurement of Lung Volumes and Capacities
 * ERV, V<sub>T</sub>, and IRV can all be measured directly using spirometry  

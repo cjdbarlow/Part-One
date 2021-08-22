@@ -16,6 +16,9 @@ Consists of three layers which produce **steroid hormones** (A good mnemonic is 
 Produces catecholamines.
 
 ##Steroid Hormones
+
+<img src="resources\cortisol.svg">
+
 ###Mineralocorticoids{#min}
 Aldosterone is the key mineralocorticoid hormone, accounting for 95% of mineralocorticoid activity:
 * Release is stimulated by:

@@ -35,6 +35,9 @@ The SVP of volatile agents increases non-linearly as temperature increases. Temp
 			* Aneroid bellows  
 			Connect to a cone in the opening of the bypass chamber. As temperature decreases, the bellows contract and the cone partially obstructs the bypass channel.
 
+<img src="resources\tec5.svg">
+
+
 ###Difference Between Plenum and Draw-Over Vapourisers
 Plenum vapourisers are:
 * More accurate  
@@ -78,6 +81,9 @@ The amount added depends on:
 	* Desired concentration
 	* Fresh gas flow rate  
 	As flow increases the resistance to flow of desflurane vapour decreases. 
+
+<img src="resources\tec6.svg">
+
 
 ##General Safety Features of Vapourisers
 Agent specificity:

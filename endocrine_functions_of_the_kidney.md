@@ -7,8 +7,10 @@ The kidney is involved in a number of endocrine processes and produces or metabo
 * EPO
 * Prostaglandins
 
-##Renin-Angiotensin-Aldosterone System {#raas}
+## Renin-Angiotensin-Aldosterone System {#raas}
 The RAAS is a signaling pathway involved in blood pressure control. It involves a number of hormones:
+
+<img src="resources\angiotensin.svg">
 
 * **Angiotensinogen** is produced by the liver in response to:
      * Glucocorticoids

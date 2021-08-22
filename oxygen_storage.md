@@ -33,6 +33,12 @@ Each oxygen which binds to Hb causes conformational changes which allow it bind 
 
 * Note that the **mixed venous point is not on the arterial curve** (unlike how it is displayed above), as the venous dissociation curve is right-shifted relative to the arterial curve
 
+
+### Comparison Curve
+Comparison of gas content of both oxygen and carbon dioxide per 100mL of blood:
+<img src="resources\o2-and-co2-curve.svg">
+
+
 ###Haemoglobin Species
 Haemoglobin is a four-tetramer molecule, and its species can be physiological or pathological:
 * **Physiological**

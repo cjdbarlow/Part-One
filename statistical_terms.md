@@ -62,6 +62,23 @@ $$ Positive \ Predictive \  Value = {Disease \ Positives \over All \ Test \ Posi
 * **Negative Predictive Value** (NPV) is the probability that the **disease is absent** when the **test is negative**:  
 $$ Negative \ Predictive \ Value = {Disease \ Negatives \over All \ Test \ Negatives} = {Disease \ Negatives \over Disease \ Negatives \ + \ False \ Negatives} $$
 
+
+### Receiver Operating Characteristic
+<img src="resources\roc.svg">
+
+
+The ROC curve:
+* Plots the diagnostic ability of any **binary classifier**
+* Graphically demonstrates the relationship between true and false positive rates at variable threshold settings  
+This allows cut-points to be made at different levels, depending on the relative trade-off between sensitivity and false-positive rate.
+* Has an area under the curve (AUC), which estimates the test performance  
+The higher the AUC, the better the test:
+  * 0.5 is no better than chance
+  * 0.7-0.8 is acceptable
+  * 0.8-0.9 is excellent
+  * 1 is perfect prediction
+
+
 ###Remembering the Difference
 |  | Disease  Positive | Disease Negative |Derived Variable|
 | -- | -- | -- ||

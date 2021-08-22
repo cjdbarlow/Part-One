@@ -1,4 +1,5 @@
-#Key Graphs
+# Key Graphs
+
 Graphs:
 * Help you to convey knowledge and understanding efficiently in the written
 * Are often a feature of the viva as they allow examiners to assess depth of understanding
@@ -188,8 +189,31 @@ Therefore in plasma site targeting:
 * Results outside of whiskers are defined as outliers, and are represented by single dots 
 
 
-##Respiratory
-###Oxygen
+## Cellular Physiology
+
+### Action Potential
+[**Action Potential**:](excitable_cells.md#ap)
+
+
+<img src="resources\dose-response.svg">
+
+* Graph of membrane potential versus time
+* Resting membrane potential is ~-70mV
+* Consists of **five phases**:
+	* Rising Phase  
+	A stimulus which rises above the threshold potential opens fast Na+ channels, increasing Na+ influx.
+	* Peak Phase  
+	Inactivation of fast-channels and delayed activation of K+ channels slows depolarisation, which peaks at 30mV.
+	* Falling Phase  
+	Membrane potential falls with potassium efflux.
+	* Hyperpolarisation  
+	As potassium channels close slowly, the membrane potential slightly undershoots resting potential - this is the relative refractory period which lasts 10-15ms.
+	* Resting  
+	Cell is stable at resting membrane potential.
+
+
+## Respiratory
+### Oxygen
 [**Oxygen Cascade**:](oxygen_cascade.md)
 
 

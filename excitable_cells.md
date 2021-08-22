@@ -44,7 +44,7 @@ Note that:
 * This model does not consider valency
 * The concentrations of negative ions are reversed relative to positive ions
 
-##Action Potential
+##Action Potential{#ap}
 Excitable cells can respond to a stimulus by a changing their membrane potential. This may be mediated:
 * Chemically  
 e.g. ACh receptors causing Na<sup>+</sup> channels to open.
@@ -63,6 +63,9 @@ This increases (i.e. makes less negative) membrane potential
         * Stimuli below the threshold potential do not generate an action potential
         * Stimuli above threshold potential generate an action potential  
         The size of the stimulus does not affect the magnitude of the action potential, as this is determined by the fast sodium channels.
+
+<img src="resources\action-potential.svg">
+
 
 ###Key Players in the Action Potential
 Fast Na<sup>+</sup> channels are responsible for depolarisation. They exist in three states:

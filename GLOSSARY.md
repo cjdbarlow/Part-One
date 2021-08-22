@@ -21,6 +21,9 @@ Atrial Natriuretic Peptide
 ##ATP
 Adenosine Triphosphate
 
+##AUC
+Area Under the Curve
+
 ##APL
 Adjustable Pressure Limiting
 

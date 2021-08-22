@@ -49,6 +49,8 @@ $$Q = {V(T_B - T_I) k_1 k_2 \over \int_{t_1}^{t_2} \Delta T dt}$$, where:
     * $${\int_{t_1}^{t_2} \Delta T dt}$$ = Area under the change in temperature-time curve
 
 ###Errors in Thermodilution
+> Any factor that spuriously reduces the area under the thermodilution curve will result in an overestimation of CO.
+
 * Natural variability  
 Cardiac output varies up to 10% with changes in intrathoracic pressure during respiration. Therefore:
     * A mean of 3-5 measurements should be taken
@@ -61,9 +63,13 @@ The closer the temperature of injectate is to blood, the greater degree of error
     * Colder injectate is more accurate, but carries the risk of inducing bradyarrhythmias
 * Poorly positioned PAC  
 The PAC must be positioned in West's Zone 3 for blood flow to occur past the tip, and for the measured temperature to be accurate.
-* Tricuspid regurgitation  
-Results in retrograde ejection of injectate back past the valve.
+* Tricuspid regurgitation or Pulmonary regurgitation
+Results in retrograde ejection of injectate back past the valve, resulting in a prolonged decay time of the thermodilution curve. This *usually* results in **underestimation of CO**, but can result in overestimation depending on the severity of regurgitation and the true CO.
+* Shunts  
+Thermodilution measures RV CO only. LV CO and RV CO are likely to not be equal in the presence of intra- or extra-cardiac shunts. This can be corrected for by calculating shunt fraction, but is not performed by bedside CO computers.
 * Arrhythmia
+* Fluctuation in BP  
+Rapid changes in temperature result in unreliable measurements; classically seen in the few minutes after weaning from cardiopulmonary bypass when the core is rewarming.
 
 ##Fick Principle
 Cardiac Output can also be measured using the Fick Principle. This technique:
@@ -74,8 +80,7 @@ The flow of blood to an organ is equal to the uptake of a tracer substance divid
     * This produces the equation: $$CO = {VO_2 \over C_a - C_v}$$, where:
         * $$CO$$ is Cardiac Output
         * $$VO_2$$ is the patients oxygen consumption  
-        Typically estimated as 3.5ml.kg<sup>-1</sup>
-.min<sup>-1</sup>
+        Typically estimated as 3.5ml.kg<sup>-1</sup>.min<sup>-1</sup>
         * $$C_a$$ is arterial oxygen content
         * $$C_v$$ is mixed venous oxygen content
 * Relies on mixed venous blood sampled from the pulmonary artery, and arterial blood sampled from a peripheral arterial line

@@ -38,6 +38,8 @@ A lens is used to focus emitted light.
 * Levels correspond to the amount of gas present in the sample
 * The less radiation that reaches the detector, the more gas there is in the sample absorbing it
 
+<img src="resources\capnograph-diagram.svg">
+
 
 ###Equipment Errors
 Errors can be classified into:
