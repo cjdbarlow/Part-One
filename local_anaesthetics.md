@@ -4,7 +4,7 @@
 * **Unionised** drug **passes through the cell membrane**, and then becomes **ionised intracellularly**
 * The ionised drug is then able to bind to the ion channel, and prevent conduction of sodium and therefore generation of an action potential
 
-<img src="resources\ap-with-la.svg">
+<img src="\resources\ap-with-la.svg">
 
 
 * All local anaesthetics consist of:

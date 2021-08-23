@@ -40,7 +40,7 @@ A decrease in pulse pressure without a change in MAP will decrease baroreceptor 
 Rapid compensatory responses are vital in the short-term control of blood pressure, e.g. with posture.
 * Active over the range from 50mmHg to 200mmHg
 
-<img src="resources\baroreceptors.svg">
+<img src="\resources\baroreceptors.svg">
 
 * This curve is left-shifted in children and neonates, and right-shifted in chronic hypertension, though this is reversible
 

@@ -52,7 +52,7 @@ Increased PAP causes a decrease in PVR. This occurs because:
   * Vessels distend at higher pressures  
   This is more important when MPAP is high.
 
-<img src="resources\pap-vs-pvr.svg">
+<img src="\resources\pap-vs-pvr.svg">
 
 
 
@@ -63,7 +63,7 @@ Lung volume has a variable effect on PVR.
     * Resistance in small intra-alveolar vessels increases as they are compressed by the high lung volumes
   * At small lung volumes, the reverse occurs
  
- <img src="resources\lungvol-vs-pvr.svg">
+ <img src="\resources\lungvol-vs-pvr.svg">
 
 
  

@@ -27,9 +27,9 @@ $$ pKa = -log_{10}Ka$$
   * **B**ases are more **i**onised **b**elow their pKa
  * An increase in pH of 1 above the pKa will result in that substance being either 90% (for an acid) or 10 % (for a base) ionised
  
-<img src="resources\pkas-acids.svg" style="width: 30pc;">
+<img src="\resources\pkas-acids.svg" style="width: 30pc;">
 
-<img src="resources\pkas-bases.svg" style="width: 30pc;">
+<img src="\resources\pkas-bases.svg" style="width: 30pc;">
 
 
 

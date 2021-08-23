@@ -25,7 +25,7 @@ Stimulants to vomiting can act centrally, or directly in the bowel:
             * μ-opioid receptors
 
 
-<img src="resources\nausea-coordination.svg"> 
+<img src="\resources\nausea-coordination.svg"> 
 
 
 * **GIT stimulation**  

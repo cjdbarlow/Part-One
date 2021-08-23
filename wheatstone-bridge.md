@@ -8,7 +8,7 @@ The Wheatstone bridge is an electrical device used to accurately measure very sm
 As it does not increase current amplitude.
 
 ##Mechanism
-<img src="resources\wheatstone.svg">
+<img src="\resources\wheatstone.svg">
 
 
 The Wheatstone bridge consists of:

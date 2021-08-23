@@ -68,7 +68,7 @@ Adrenergic drugs:
 
 
 ##Structure-Activity Relationships of Sympathomimetics
-<img src="resources\dopamine.svg">
+<img src="\resources\dopamine.svg">
 
 Catecholamines consist of:
 * A catechol ring  
@@ -94,24 +94,24 @@ Consists of:
    As the chain length increases, so does the beta selectivity.
 
 ###Dopamine
-<img src="resources\dopamine.svg">
+<img src="\resources\dopamine.svg">
 
 * Dopamine is the prototypical catecholamine, to which others are compared
 
 ###Noradrenaline
 
-<img src="resources\noradrenaline.svg">
+<img src="\resources\noradrenaline.svg">
 
 * Noradrenaline has a hydroxyl group added to the beta carbon, increasing its alpha selectivity
 
 ###Adrenaline
-<img src="resources\adrenaline.svg">
+<img src="\resources\adrenaline.svg">
 
 * Adrenaline is similar to noradrenaline with an additional hydroxyl group on the beta carbon
 * Adrenaline also has a methyl group added to the terminal amine, increasing beta selectivity
 
 ###Metaraminol
-<img src="resources\metaraminol.svg">
+<img src="\resources\metaraminol.svg">
 
 * Metaraminol has an additional hydroxyl group on the beta carbon
 * Metaraminol has only one hydroxyl group on the phenol ring, so:
@@ -121,7 +121,7 @@ Consists of:
 * Metaraminol has an additional methyl group on the alpha carbon, preventing metabolism by MAO and further prolonging its duration of action
 
 ##Ephedrine
-<img src="resources\ephedrine.svg">
+<img src="\resources\ephedrine.svg">
 
 * Like metaraminol, ephedrine has a hydroxyl group on the beta carbon and a methyl group on the alpha carbon
 * Ephedrine has no hydroxyl groups on the phenol ring, further reducing its potency and increasing its elimination half-life

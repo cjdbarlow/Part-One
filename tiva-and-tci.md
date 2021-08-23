@@ -44,12 +44,12 @@ Will not approximate $$C_E$$ until stead state is reached. Therefore:
     * Increase $$C_P$$ during induction, so that $$C_E$$ will rise more quickly
     * $$C_P$$ should be adjusted to the level of the surgical stimulus
         
-<img src="resources\plasma-site-targeting.svg">
+<img src="\resources\plasma-site-targeting.svg">
         
 * **Effect-site** concentration, $$C_E$$  
 Over-pressure occurs automatically, so there is no requirement to increase target during induction.
 
-<img src="resources\effect-site-targeting.svg">
+<img src="\resources\effect-site-targeting.svg">
 
 
 ###TCI Models for Propofol

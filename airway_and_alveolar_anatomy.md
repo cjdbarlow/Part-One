@@ -79,7 +79,7 @@ The volume of the conducting zone therefore contributes to **anatomic dead space
 * **Cilia** in the bronchial walls move rhythmically to drive the mucociliary elevator, driving mucous up to the epiglottis, where it is then swallowed or expectorated
 
 
-<img src="resources\tracheobronchialtree.jpg">
+<img src="\resources\tracheobronchialtree.jpg">
 
 
 ###Respiratory Zone

@@ -68,7 +68,7 @@ How rapidly a system will oscillate when disturbed and left alone.
 ###Damping{#damp}
 A pressure transduction system should be adequately damped:
 
-<img src="resources\damping2.svg">
+<img src="\resources\damping2.svg">
 
 
 * An **optimally** damped waveform has a damping of **0.64**. It demonstrates:
@@ -88,7 +88,7 @@ A pressure transduction system should be adequately damped:
 
 Optimally damped waveforms are accurate for the widest range of frequency responses:
 
-<img src="resources\damping.svg">
+<img src="\resources\damping.svg">
 
 
 ###Testing Dynamic Response

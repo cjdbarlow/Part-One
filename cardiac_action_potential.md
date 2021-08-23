@@ -11,11 +11,11 @@ An action potential is a propagating change in the membrane potential of an exci
 ##Pacemaker Potential{#pace}
 This pattern of electrical activity is seen in the SA and AV nodes. It  **has no resting state**, and is continually depolarising.
 
-<img src="resources\pacemaker-currents.svg">
+<img src="\resources\pacemaker-currents.svg">
 
 ###Phases of the Pacemaker Potential{#pacephase}
 
-<img src="resources\pacemaker-phases.svg">
+<img src="\resources\pacemaker-phases.svg">
 
 * **Phase 0**  
   Begins at the threshold potential of **-40mV**, with a peak membrane potential of **20mV**. Driven predominantly by the voltage-gated L-type (long-lasting) Ca<sup>2+</sup> channels causing an influx of calcium ions. 
@@ -30,13 +30,13 @@ This pattern of electrical activity is seen in the SA and AV nodes. It  **has no
     * Calcium current  
     In phase 4, this is the transient calcium current, driven by T-type calcium channels. They open when the membrane potential reaches ~-50mV, also causing depolarisation.
 
-<img src="resources\pacemaker-shifts.svg">
+<img src="\resources\pacemaker-shifts.svg">
 
 
 ##Ventricular Action Potential{#vent}
 To prevent tetanic contraction (which would be bad) ventricular muscle has a long plateau prior to repolarisation, which lengthens the absolute refractory period to 250ms. The relative refractory period is 50ms.
 
-<img src="resources\ventricular-ap.svg">
+<img src="\resources\ventricular-ap.svg">
 
 
 ###Phases of the Ventricular Action Potential

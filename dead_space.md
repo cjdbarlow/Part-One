@@ -47,7 +47,7 @@ Two methods exist to allow dead space volumes to be calculated:
 ###Fowler's Method
 Fowler's Method is a **single-breath nitrogen washout test**, used to calculate **anatomical dead space** and **closing capacity**.
 
-<img src="resources\fowlers-method.svg">
+<img src="\resources\fowlers-method.svg">
 
 Method:
 * At the end of a normal tidal breath (at FRC) a **vital-capacity breath of 100% oxygen** is taken
@@ -99,7 +99,7 @@ In dead space:
 Atmospheric air contains negligible CO<sub>2</sub>. As MV increases, PaCO<sub>2</sub> will fall, as will the gradient for further CO<sub>2</sub> diffusion. This can be expressed by the equation:  
 $$PaCO_2 \propto {1 \over \dot{V}_A}$$
 
-<img src="resources\VA-vs-paco2.svg">
+<img src="\resources\VA-vs-paco2.svg">
 
 Note that this graph:
 * Describes the change in PaCO<sub>2</sub> for a change in alveolar ventilation  

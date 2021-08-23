@@ -3,7 +3,7 @@
 
 ##Vascular Anatomy
 ###Coronary Artery Anatomy
-<img src="resources\coronary.svg">
+<img src="\resources\coronary.svg">
 
 
 The **left main** coronary artery:
@@ -90,12 +90,12 @@ LV CBF is affected in systole due to the changes in perfusion pressure, and comp
 
 **Left Ventricular** coronary flow, demonstrating diastolic-dependent perfusion:
 
-<img src="resources\LV-cbf.svg">
+<img src="\resources\LV-cbf.svg">
 
 
 **Right Ventricular** coronary flow, demonstrating flow throughout the cardiac cycle:
 
-<img src="resources\RV-cbf.svg">
+<img src="\resources\RV-cbf.svg">
 
 
 ###Control of Coronary Blood Flow

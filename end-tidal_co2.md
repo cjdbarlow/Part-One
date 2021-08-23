@@ -38,7 +38,7 @@ A lens is used to focus emitted light.
 * Levels correspond to the amount of gas present in the sample
 * The less radiation that reaches the detector, the more gas there is in the sample absorbing it
 
-<img src="resources\capnograph-diagram.svg">
+<img src="\resources\capnograph-diagram.svg">
 
 
 ###Equipment Errors
@@ -73,7 +73,7 @@ E<sub>T</sub>CO<sub>2</sub> may be either **side-stream** or **in-line**.
 
 
 ###Normal E<sub>T</sub>CO<sub>2</sub> Waveform{#capno}
-<img src="resources\capno-normal.svg">
+<img src="\resources\capno-normal.svg">
 
 The normal trace consists of four components:
 1. The **baseline**  
@@ -88,16 +88,16 @@ The highest-point of this curve is labeled E<sub>T</sub>CO<sub>2</sub>.
 
 ###E<sub>T</sub>CO<sub>2</sub> Waveform Variations{#var}
 **Airway obstruction:
-**<img src="resources\capno-obstruction.svg">
+**<img src="\resources\capno-obstruction.svg">
 * Occurs due to uneven emptying of alveoli with different time-constants
 
 **Hyperventilation:
-**<img src="resources\capno-hyperventilation.svg">
+**<img src="\resources\capno-hyperventilation.svg">
 * Lower E<sub>T</sub>CO<sub>2</sub> with shorter baseline
 * Plateau phase may not occur at very high respiratory rates
 
 **Rebreathing**:
-<img src="resources\capno-rebreathing.svg">
+<img src="\resources\capno-rebreathing.svg">
 * Baseline increases as inspired CO<sub>2</sub> is measured from gas analyser
 
 

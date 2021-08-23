@@ -203,7 +203,7 @@ Drug clearance can follow either first order or zero-order kinetics:
 A constant **proportion** of the drug in the body is eliminated per unit time.
   * Most drugs are eliminated by first order kinetics, as the capacity of the elimination system exceeds the concentration of drug
 
-<img src="resources\first-order-kinetics.svg">
+<img src="\resources\first-order-kinetics.svg">
 
 
 * **Zero-order kinetics**  
@@ -217,12 +217,12 @@ A **constant amount of drug** is eliminated per unit time, independent of how mu
     * Plasma concentrations will **rapidly increase** with only modest dose increase
     * There is essentially **no steady state**: if drug input exceeds output, plasma levels will continue to rise
 
-<img src="resources\zero-order-kinetics.svg">
+<img src="\resources\zero-order-kinetics.svg">
 
 ###Michaelis-Menten
 The Michaelis-Menten equation describes the transition from first order to zero order kinetics as drug concentration increases:
 
-<img src="resources\michalis-menten.svg">
+<img src="\resources\michalis-menten.svg">
 * Metabolism increases proportionally with concentration as long as the concentration of drug leaving the organ of metabolism (e.g. in the hepatic vein) is less than half of the maximal concentration of drug that organ can metabolise
   * This is ~1/3<sup>rd</sup> of the maximal rate of metabolism
 

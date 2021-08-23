@@ -21,17 +21,17 @@ An elevated RAP reduces venous return.
 
 This relationship can be expressed graphically:
 
-<img src="resources\venous-return.svg">
+<img src="\resources\venous-return.svg">
 
 * When venous return is 0, the measured right atrial pressure is an indication of mean systemic filling pressure
 
 
-<img src="resources\venous-return-comp.svg">
+<img src="\resources\venous-return-comp.svg">
 
 * Alterations to circulating volume and compliance affect both venous return and mean systemic filling pressure
 
 
-<img src="resources\venous-return-rvr.svg">
+<img src="\resources\venous-return-rvr.svg">
 
 * Alterations to the resistance to venous return affect venous return but mean systemic filling pressure is unchanged
     
@@ -63,7 +63,7 @@ Venous return will be altered by any of the variables in the above equation:
 ##Interaction between Venous Return and Cardiac Function Curves{#sup}
 Guyton's curve can be superimposed on Starling's curve to examine the interaction between venous and cardiac function over a range of conditions:
 
-<img src="resources\cardiac-function.svg">
+<img src="\resources\cardiac-function.svg">
 
 
 

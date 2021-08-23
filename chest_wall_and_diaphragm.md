@@ -20,7 +20,7 @@ Complex dome-shaped membranous structure, consisting of a central tendon and per
     * **T10** for the **oesophagus** (ten letters)
     * **T12** for the **aorta**, thoracic duct, and azygos vein
 
-<img src="resources\lung-pressure-volume.svg">
+<img src="\resources\lung-pressure-volume.svg">
 
 ##Inspiration
 * During **inspiration**, the **diaphragm** and **external intercostal** muscles **contract**

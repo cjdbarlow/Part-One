@@ -64,7 +64,7 @@ $$ Negative \ Predictive \ Value = {Disease \ Negatives \over All \ Test \ Negat
 
 
 ### Receiver Operating Characteristic
-<img src="resources\roc.svg">
+<img src="\resources\roc.svg">
 
 
 The ROC curve:

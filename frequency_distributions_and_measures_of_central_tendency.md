@@ -13,7 +13,7 @@ The normal distribution is common in medicine for two reasons.
 This is known as the **central limit theorem**.
   * It is useful because many statistical tests are only valid when the data follow a normal distribution
 
-<img src="resources\normaldist.svg">
+<img src="\resources\normaldist.svg">
 
 
 The formula for the normal distribution is given by:
@@ -67,7 +67,7 @@ Measures of variability describe the degree of dispersion around the central val
     * Outliers are represented by dots
     * Occasionally the range is plotted by the whiskers, and there are no outliers plotted
     
-<img src="resources\boxplot.svg">
+<img src="\resources\boxplot.svg">
 
 
 ###Variance and Standard Deviation

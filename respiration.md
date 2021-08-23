@@ -41,7 +41,7 @@ Balance between the:
 * P<sub>pl</sub> falls to -5cmH<sub>2</sub>O
 * The elastic recoil of the lung causes it to collapse until P<sub>A</sub> = P<sub>atmospheric</sub>
 
-<img src="resources\workofbreathing.svg">
+<img src="\resources\workofbreathing.svg">
 
 
 ---

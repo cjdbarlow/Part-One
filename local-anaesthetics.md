@@ -22,7 +22,7 @@ From fastest to slowest:
   * Deep pressure
   * Motor
 
-<img src="resources\ap-with-la.svg">
+<img src="\resources\ap-with-la.svg">
 
 ##Chemical Structure of Local Anaesthetics
 All local anaesthetics are weak bases consisting of:

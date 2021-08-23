@@ -32,7 +32,7 @@ Potential difference between the indifferent electrode and one of the six additi
 
 The relationship between electrodes and leads is described with **Einthoven's Triangle**:
 
-<img src="resources\einthovens.svg" style="width: 25pc;">
+<img src="\resources\einthovens.svg" style="width: 25pc;">
 
 
 ##Method

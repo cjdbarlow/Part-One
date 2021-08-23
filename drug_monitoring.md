@@ -28,7 +28,7 @@ $$ Therapeutic \ Index = {LD_{50} \over ED_{50}} $$
 
 
 
-<img src="resources\therapeutic-index.svg">
+<img src="\resources\therapeutic-index.svg">
 
 
 ##Indications

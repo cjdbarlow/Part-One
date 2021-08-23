@@ -38,7 +38,7 @@ For a bi-exponential model (i.e. only one peripheral compartment), decline in pl
 (Provided the infusion has reached steady-state).
 * Neither $$\alpha$$ or $$\beta$$ correspond to any individual rate constant
 
-<img src="resources\biexponent.svg">
+<img src="\resources\biexponent.svg">
 
 
 Factors affecting rate of offset of an infusion can be classified into pharmacokinetic, pharmacodynamic, and other drug factors:
@@ -107,7 +107,7 @@ Half-lives are often misleading when discussing drug infusions.
 
 Drugs with longer context-sensitive half-times will wear off less predictably.
 
-<img src="resources\csht.svg">
+<img src="\resources\csht.svg">
 
 
 

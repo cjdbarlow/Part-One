@@ -29,7 +29,7 @@ This acidosis relaxes the braking effect and allows further hyperventilation, an
 * This stimulates a compensatory increase in 2,3-DPG to right-shift the curve and improve oxygen offloading at the tissues
 
 
-<img src="resources\oxy-hb-curve-shifts.svg">
+<img src="\resources\oxy-hb-curve-shifts.svg">
 
 
 ###Cardiovascular

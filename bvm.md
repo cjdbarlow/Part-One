@@ -1,6 +1,6 @@
 # Bag-Valve-Mask
 
-<img src="resources\bvm.svg">
+<img src="\resources\bvm.svg">
 
 ## Components
 Essential components:

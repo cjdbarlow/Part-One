@@ -80,7 +80,7 @@ Pharmacodynamic interactions can be **direct**, due to interaction on the same r
 
 These three interactions can be graphically demonstrated using an **isobologram**, which draws a **line of equal activity** versus **concentration** of two drugs.
 
-<img src="resources\isobologram.svg">
+<img src="\resources\isobologram.svg">
 
 
 

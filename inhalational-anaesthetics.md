@@ -17,9 +17,9 @@
 |Property|Action|
 |--|--|
 |**Metabolism**|Hepatic CYP450 (CYP2E1) metabolises C-halogen bonds to release halogen ions (F<sup>-</sup>, Cl<sup>-</sup>, Br<sup>-</sup>), which can be nephrotoxic and hepatotoxic. The C-F bond is minimally metabolised compared to the C-Cl, C-Br, and C-I bonds. All agents undergo hepatic oxidation, except for halothane which is reduced.
-|**Resp**|All halogenated agents ↓ V<sub>T</sub> and ↑ RR, with an overall ↓ in MV and therefore cause PaCO<sub>2</sub> to ↑; and ↓ sensitivity of central respiratory centres to CO<sub>2</sub>. Impairment of HPV may worsen V/Q matching and ↑ shunt.<p><img src="resources\volatile-po2-response.svg"></p>
+|**Resp**|All halogenated agents ↓ V<sub>T</sub> and ↑ RR, with an overall ↓ in MV and therefore cause PaCO<sub>2</sub> to ↑; and ↓ sensitivity of central respiratory centres to CO<sub>2</sub>. Impairment of HPV may worsen V/Q matching and ↑ shunt.<p><img src="\resources\volatile-po2-response.svg"></p>
 |**CVS**|↓ MAP (predominantly by ↓ in SVR due to NO release and Ca<sup>2+</sup> channel blockade), ↓ inotropy due to Ca<sup>2+</sup> channel blockade.
-|**CNS**|Hypnosis. ↓ CMRO<sub>2</sub>. Above 1 MAC there is **uncoupling** of the CBF-CMRO<sub>2</sub> relationship, and CBF ↑ despite ↓ CMRO<sub>2</sub> due to cerebral vasodilation. ICP may mirror CBF changes. <br><br> All except halothane have some analgesic effect. ↓ EEG frequency such that θ- and δ-wave dominate the EEG as depth ↑. May cause burst suppression. <p><img src="resources\cbf-cmro2-volatile.svg"></p><p><img src="resources\cbf-cmro2-sevo.svg"></p>
+|**CNS**|Hypnosis. ↓ CMRO<sub>2</sub>. Above 1 MAC there is **uncoupling** of the CBF-CMRO<sub>2</sub> relationship, and CBF ↑ despite ↓ CMRO<sub>2</sub> due to cerebral vasodilation. ICP may mirror CBF changes. <br><br> All except halothane have some analgesic effect. ↓ EEG frequency such that θ- and δ-wave dominate the EEG as depth ↑. May cause burst suppression. <p><img src="\resources\cbf-cmro2-volatile.svg"></p><p><img src="\resources\cbf-cmro2-sevo.svg"></p>
 |**MSK**|Muscle relaxation via blockade of Ca<sup>2+</sup> channels. Additional augmentation of the effects of NMBD due to skeletal muscle vasodilation. May precipitate MH.
 |**Renal**|Dose dependent ↓ in RBF, GFR, and UO secondary to ↓ in MAP and CO. <br><br>Fluorinated ethers produce F<sup>-</sup> ions when hepatically metabolised, which may produce high-output renal failure at serum concentrations **>50μmol/L**. This is probably only a concern with methoxyflurane (as it has significant (>70%) hepatic metabolism) when used at anaesthetic doses.
 |**GIT**|↓ Hepatic blood flow. 
@@ -33,7 +33,7 @@
 |Property|Sevoflurane|Isoflurane|Desflurane|
 |--|--|
 |**Pharmaceutics**|Minimally soluble, light stable, not flammable. Formulated with 300ppm of H<sub>2</sub>O to prevent formation of HF acid by Lewis acids in glass.|Soluble in rubber, light stable, not flammable.|Light sensitive, flammable at 17%.|
-|**Structure**|<img src="resources\sevoflurane-1.svg" style="width: 15pc;">|<img src="resources\isoflurane-2.svg" style="width: 15pc;">|<img src="resources\desflurane2.svg" style="width: 15pc;">|
+|**Structure**|<img src="\resources\sevoflurane-1.svg" style="width: 15pc;">|<img src="\resources\isoflurane-2.svg" style="width: 15pc;">|<img src="\resources\desflurane2.svg" style="width: 15pc;">|
 |**Molecular Weight**|200.1|184.5|168.0
 |**Boiling point**|58.5°C|48.5°C|23.5°C|
 |**SVP** (mmHg) at 20°C|158|239|669|
@@ -46,14 +46,14 @@
 |**CNS**|↑ Post-operative agitation in children compared to halothane. Smallest ↑ in CBF at > 1.1 MAC, with no increase in ICP up to 1.5 MAC. Cerebral autoregulation intact up to 1.5 MAC.|Best balance of ↓ CMRO<sub>2</sub> for ↑ in CBF.||
 |**Toxic Effects**|Sevoflurane interacts with soda lime to produce **Compound A** (as well as B through E, which are unimportant), which is nephrotoxic in rats (but not, it seems, in humans).|-CHF<sub>2</sub> group may react with dry soda lime to produce CO.|Desflurane has much greater greenhouse gas effects than sevoflurane or isoflurane.|
 
-<img src="resources\desflurane-washout.svg">
+<img src="\resources\desflurane-washout.svg">
 
 
 ##Comparison of Uncommon Inhalational Agents
 |Property|Enflurane|Halothane|Xenon|
 |--|--|
 |**Pharmaceutics**|Structural isomer of isoflurane with different physical properties|Light unstable. Corrodes some metals and dissolves into rubber.|Not flammable. Very expensive to produce.
-|**Structure**|<img src="resources\enflurane.svg" style="width: 15pc;">|||
+|**Structure**|<img src="\resources\enflurane.svg" style="width: 15pc;">|||
 |**Molecular Weight**|184.5|197|131|
 |**Boiling point**|56.5°C|50.2°C|-108°C|
 |**SVP** (mmHg) at 20°C|175|243|-|

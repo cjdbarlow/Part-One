@@ -195,6 +195,9 @@ Minimum Alveolar Concentration
 ##MAP
 Mean Arterial Pressure
 
+##MLAC
+Maximum Local Anaesthetic Concentration
+
 ##MOP
 M-type (μ) opioid receptor
 

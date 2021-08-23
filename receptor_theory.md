@@ -64,7 +64,7 @@ An agonist will generate a **maximal** response at the receptor site. An agonist
 * **Relative potency** implies that if two agonists are equally efficacious, a smaller dose of one is required to get an effect
 * **Relative efficacy** implies that the maximal effect of one agonist is greater than the other
 
-<img src="resources\agonists-FA-IA-PA.svg">
+<img src="\resources\agonists-FA-IA-PA.svg">
 
 
 ###Partial agonist
@@ -88,7 +88,7 @@ Displace other ligands from a binding site. Competitive antagonists can be:
 Create a conformational change in the receptor. They cannot be overridden by increasing the dose of agonist.
 
 
-<img src="resources\FA-with-nca-and-ca.svg">
+<img src="\resources\FA-with-nca-and-ca.svg">
 
 
 ####Indirect Antagonist

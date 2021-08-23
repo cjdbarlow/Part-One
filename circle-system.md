@@ -34,7 +34,7 @@ To absorb CO<sub>2</sub>.
     * When the vapouriser is out-of-circuit, all fresh gas flow will pass through the vapouriser prior to entering the circle
 * A separate high-pressure high-flow oxygen flush, which bypasses the vapouriser
 
-<img src="resources\circle-system.svg">
+<img src="\resources\circle-system.svg">
 
 ###Soda Lime
 Soda lime:

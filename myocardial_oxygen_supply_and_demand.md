@@ -32,11 +32,11 @@
 
 Left Ventricular Coronary Blood Flow:
 
-<img src="resources\LV-cbf.svg">
+<img src="\resources\LV-cbf.svg">
 
 Right Ventricular Coronary Blood Flow:
 
-<img src="resources\RV-cbf.svg">
+<img src="\resources\RV-cbf.svg">
 
 
 

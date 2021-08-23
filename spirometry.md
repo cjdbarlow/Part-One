@@ -45,7 +45,7 @@ Patient forcibly exhales a vital capacity breath, producing a exponential (wash-
         * FEV/FVC ratio >0.7  
         The ratio is normal as the FEV<sub>1</sub> and FVC fall proportionally.
 
-<img src="resources\fev1-and-fvc.svg">
+<img src="\resources\fev1-and-fvc.svg">
 
 
 * Volume-Time Graph (also known as a spirograph or spirogram)  
@@ -55,7 +55,7 @@ Quantifies static lung volumes by having a patient perform:
   * Vital capacity exhalation
 
 
-<img src="resources\Spirograph.svg">
+<img src="\resources\Spirograph.svg">
 
 
 
@@ -72,7 +72,7 @@ Quantifies static lung volumes by having a patient perform:
       * This is called **dynamic airways compression**, and results in a uniform flow rate that is **independent of expiratory effort**  
       This is therefore labeled the **effort independent** part of the curve.
   
-<img src="resources\flow-volume.svg">
+<img src="\resources\flow-volume.svg">
   
   
 * **Obstructive lung disease**  
@@ -80,7 +80,7 @@ Quantifies static lung volumes by having a patient perform:
   * Peak flow is limited
   * Effort-independent portion becomes concave
   
-<img src="resources\flow-volume-obs.svg">
+<img src="\resources\flow-volume-obs.svg">
 
    
 * **Restrictive lung disease**
@@ -89,14 +89,14 @@ Quantifies static lung volumes by having a patient perform:
   However, this reduction is **proportional** to the decrease in volume, such that the FEV<sub>1</sub>:FVC ratio is normal. If peak flow is preserved, the FEV<sub>1</sub>:FVC ratio will be increased.
   * Effort independent part is linear
 
-<img src="resources\flow-volume-res.svg">
+<img src="\resources\flow-volume-res.svg">
 
 
 * **Fixed upper airway obstruction**  
 Describes an upper airway obstruction that does not change calibre during the respiratory cycle.
   * Peak inspiratory and expiratory flow rates are limited by the stenosis
 
-<img src="resources\flow-volume-fixed.svg">
+<img src="\resources\flow-volume-fixed.svg">
 
 
 * **Variable *extrathoracic* obstruction**  
@@ -106,7 +106,7 @@ Variable as the obstruction changes during the respiratory cycle:
   The way to remember this is an **extra**thoracic obstruction impedes **in**spiration
   * The reverse effect occurs in positive pressure ventilation
 
-<img src="resources\flow-volume-extra.svg">
+<img src="\resources\flow-volume-extra.svg">
 
 
 * **Variable *intrathoracic* obstruction**  
@@ -114,7 +114,7 @@ The opposite to extrathoracic obstruction.
   * During inspiration the airway calibre increases and inspiratory flow is unimpeded
   * During expiration the airway calibre falls and expiratory flow is reduced
 
-<img src="resources\flow-volume-intra.svg">
+<img src="\resources\flow-volume-intra.svg">
 
 
 

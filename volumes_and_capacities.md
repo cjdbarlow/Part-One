@@ -13,7 +13,7 @@ The lung has four volumes and four (main) capacities:
 * A **volume** is measured directly
 * A **capacity** is a **sum of volumes**
 
-<img src="resources\Spirograph.svg">
+<img src="\resources\Spirograph.svg">
 
 
 ##Volumes
@@ -108,7 +108,7 @@ Factors affecting FRC:
   * Age  
   May increase slightly.
  
-<img src="resources\frc-ageing.svg"> 
+<img src="\resources\frc-ageing.svg"> 
  
 ##Measurement of Lung Volumes and Capacities
 * ERV, V<sub>T</sub>, and IRV can all be measured directly using spirometry  
@@ -186,7 +186,7 @@ Closing capacity is the sum of residual volume and closing volume.
         * CC exceeds FRC in the erect patient at 66
   * This is clinically relevant during **preoxygenation**, as it will limit the denitrogenation that can occur
 
-<img src="resources\closing-capacity-vs-age.svg">
+<img src="\resources\closing-capacity-vs-age.svg">
 
 
 

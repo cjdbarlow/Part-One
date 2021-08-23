@@ -72,11 +72,11 @@ Plot of preload against stroke volume (or cardiac output, assuming a constant he
   * Left shift of the curve demonstrates positive inotropy
 
 
-<img src="resources\starling-curve.svg">
+<img src="\resources\starling-curve.svg">
 
 
 The failing ventricle:
-<img src="resources\starling-curve-failing.svg">
+<img src="\resources\starling-curve-failing.svg">
 * In cardiac failure, the ventricle becomes overstretched  
 This reduces the number of overlapping crossbridges, reducing contractility.
 * This is limited in the acute setting by constriction of the pericardium, which prevents excessive ventricular dilation

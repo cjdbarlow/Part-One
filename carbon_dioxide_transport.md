@@ -63,7 +63,7 @@ The Haldane effect states that deoxyHb binds CO<sub>2</sub> more effectively tha
 ###CO<sub>2</sub> Dissociation Curve{#curve}
 This curve plots PCO<sub>2</sub> against blood CO<sub>2</sub> content in ml.100ml<sup>-1</sup>.
 
-<img src="resources\co2-dissociation-curve.svg">
+<img src="\resources\co2-dissociation-curve.svg">
 
 Key points:
 * Mixed venous CO<sub>2</sub> content is 52ml.100ml<sup>-1</sup>, at a PCO<sub>2</sub> of 46mmHg
@@ -74,7 +74,7 @@ This is the mechanism for changes in PO<sub>2</sub> affecting the CO<sub>2</sub>
 
 ### Comparison Curve
 Comparison of gas content of both oxygen and carbon dioxide per 100mL of blood:
-<img src="resources\o2-and-co2-curve.svg">
+<img src="\resources\o2-and-co2-curve.svg">
 
 
 ##Removal of CO<sub>2</sub> {#tr}
@@ -86,7 +86,7 @@ Simplified, PaCO<sub>2</sub> is inversely proportional to alveolar ventilation:
 
 $$PACO_2 \propto {1 \over \dot{V}_A}$$
 
-<img src="resources\VA-vs-paco2.svg">
+<img src="\resources\VA-vs-paco2.svg">
 
 ##Distribution of Carbon Dioxide{#vent}
 CO<sub>2</sub> in the body can be considered as a three-compartment model:

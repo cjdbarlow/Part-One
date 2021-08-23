@@ -65,12 +65,12 @@ Note that airway resistance:
 * Rapidly **decreases** with each airway division thereafter  
 This is due to the total cross-sectional area increasing dramatically.
 
-<img src="resources\airway-gen-vs-resistance.svg">
+<img src="\resources\airway-gen-vs-resistance.svg">
 
 
 * Reduces with increasing lung volume, as radial tension distends airways, increasing their cross sectional area
 
-<img src="resources\lungvol-vs-airway-resistance.svg">
+<img src="\resources\lungvol-vs-airway-resistance.svg">
 
 
 ###Turbulent Flow

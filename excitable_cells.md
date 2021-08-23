@@ -64,7 +64,7 @@ This increases (i.e. makes less negative) membrane potential
         * Stimuli above threshold potential generate an action potential  
         The size of the stimulus does not affect the magnitude of the action potential, as this is determined by the fast sodium channels.
 
-<img src="resources\action-potential.svg">
+<img src="\resources\action-potential.svg">
 
 
 ###Key Players in the Action Potential

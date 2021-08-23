@@ -28,7 +28,7 @@ Optimal gas exchange occurs when regions of lung are ventilated in proportion to
     * Reversing slightly at RV
 
 ##V/Q Ratios{#reg}
-<img src="resources\regional-ventilation-and-perfusion.svg">
+<img src="\resources\regional-ventilation-and-perfusion.svg">
 
 * The global V/Q ratio for normal resting lung is **0.9**
 * The global V/Q ratio improves to 1.0 during exercise

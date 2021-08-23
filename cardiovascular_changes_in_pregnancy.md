@@ -22,16 +22,16 @@ Due to increased intravascular volume and MSFP.
 ##Magnitude of Changes by Trimester
 |Parameter|Direction|First Trimester|Second Trimester|Third Trimester|Notes|Graph|
 |--|:--:|--|--|
-|**Plasma volume**|↑|35%|45%|50%|Peaks between 32-36<sup>th</sup> week, decreases slightly thereafter|<img src="resources\maternal-volume.svg" style="width: 15pc;">|
+|**Plasma volume**|↑|35%|45%|50%|Peaks between 32-36<sup>th</sup> week, decreases slightly thereafter|<img src="\resources\maternal-volume.svg" style="width: 15pc;">|
 |**Blood volume**|↑|5%|15%|20%|Increases less than plasma volume, resulting in the fall in haematocrit to 33%||
-|**HR**|↑ |15%|18%|25%|Increases progressively throughout|<img src="resources\maternal-hr.svg" style="width: 15pc;">|
-|**SV**|↑ |20%| 25%| 30%|Increases progressively throughout|<img src="resources\maternal-sv.svg" style="width: 15pc;">|
-|**CO**|↑ |20%| 40%| 45%|Increases throughout and dramatically in labour|<img src="resources\maternal-co.svg" style="width: 15pc;">|
+|**HR**|↑ |15%|18%|25%|Increases progressively throughout|<img src="\resources\maternal-hr.svg" style="width: 15pc;">|
+|**SV**|↑ |20%| 25%| 30%|Increases progressively throughout|<img src="\resources\maternal-sv.svg" style="width: 15pc;">|
+|**CO**|↑ |20%| 40%| 45%|Increases throughout and dramatically in labour|<img src="\resources\maternal-co.svg" style="width: 15pc;">|
 
 ### Other Changes
-<img src="resources\maternal-bp.svg" style="width: 15pc;">|
-<img src="resources\maternal-hb.svg" style="width: 15pc;">|
-<img src="resources\maternal-svr.svg" style="width: 15pc;">|
+<img src="\resources\maternal-bp.svg" style="width: 15pc;">|
+<img src="\resources\maternal-hb.svg" style="width: 15pc;">|
+<img src="\resources\maternal-svr.svg" style="width: 15pc;">|
 
 ##Changes During Labour
 * Uterine contraction boluses ~300ml of blood into the maternal circulation  
@@ -41,7 +41,7 @@ Causes an increase in CO by up to 30% during the active phase and 45% during eje
 
 * Post-partum CO is up to 80% of pre-labour values due to autotransfusion, and returns to normal within 2 weeks of delivery
 
-<img src="resources\labor-co.svg">
+<img src="\resources\labor-co.svg">
 
 ---
 ##References

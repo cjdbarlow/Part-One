@@ -35,7 +35,7 @@ Total of **seventeen segments** between:
 ###Coronary Supply
 The segments of the basal and mid-cavity parts are supplied by all three vessels:
 
-<img src="resources\ca-supply.svg">
+<img src="\resources\ca-supply.svg">
 
 In the apical part, the:
 * LAD  

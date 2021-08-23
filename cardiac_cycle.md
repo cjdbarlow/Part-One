@@ -23,7 +23,7 @@ Phases of the cardiac cycle:
 
 Events during each phase of the cardiac cycle are represented on **Wigger's Diagram**:
 
-<img src="resources\Wiggers.svg" style="width: 70pc;">
+<img src="\resources\Wiggers.svg" style="width: 70pc;">
 
 
 

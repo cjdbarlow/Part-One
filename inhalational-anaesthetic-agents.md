@@ -175,7 +175,7 @@ Use of N<sub>2</sub>O with another agent will increase the P<sub>A</sub> of that
         * This can cause a reduction in PAO<sub>2</sub>, and therefore hypoxaemia
         * Diffusion hypoxia is avoided by delivering 100% oxygen, which maintains an adequate PAO<sub>2</sub> as N<sub>2</sub>O is removed
 
-<img src="resources\fa-fi.svg">
+<img src="\resources\fa-fi.svg">
 
 * Note that N<sub>2</sub>O reaches a higher ratio faster than desflurane, despite its lower blood:gas partition coefficient, due to the concentration effect
 
@@ -209,7 +209,7 @@ The difference in partial pressure of agent in the alveolus and venous blood is 
 ###Wash-out of Inhalational Agents{#wash}
 Recovery is dependent on how quickly an inhalational agent can be eliminated from the effect site, and can be graphed by the F<sub>A</sub>/F<sub>A0</sub> ratio over time:
 
-<img src="resources\fa-fao.svg">
+<img src="\resources\fa-fao.svg">
 
 
 Washout can be divided into:

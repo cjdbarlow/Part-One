@@ -3,7 +3,7 @@
 
 **Left Ventricular P-V Loop:**
 
-<img src="resources\lv-pv-loop.svg">
+<img src="\resources\lv-pv-loop.svg">
 
 
 * Plot of left ventricular volume versus pressure
@@ -53,7 +53,7 @@ In reality:
 
 **Left Ventricular P-V Loop - Increased Preload:**
 
-<img src="resources\lv-pv-loop-preload.svg">
+<img src="\resources\lv-pv-loop-preload.svg">
 
 * EDV is increased, by definition
 * The slope of the ESPVR remains unchanged (as contractility is unchanged)
@@ -63,7 +63,7 @@ In reality:
 **Left Ventricular P-V Loop - Increased Afterload:**
 
 
-<img src="resources\lv-pv-loop-afterload.svg">
+<img src="\resources\lv-pv-loop-afterload.svg">
 
 * EDV is unchanged (as preload is unchanged)
 * The slope of the ESPVR remains unchanged (as contractility is unchanged)
@@ -73,7 +73,7 @@ Note that the pressure-volume relationship throughout ejection is also steeper, 
 
 **Left Ventricular P-V Loop - Increased Contractility:**
 
-<img src="resources\lv-pv-loop-contractility.svg">
+<img src="\resources\lv-pv-loop-contractility.svg">
 
 * EDV is unchanged (as preload is unchanged)
 * The slope and x-intercept of the afterload line ($$E_{ea}$$) is unchanged (as afterload is unchanged)
@@ -94,7 +94,7 @@ These show the loop for the primary physiological change, *without compensatory 
 
 **Left Ventricular P-V Loop - Aortic Stenosis:**
 
-<img src="resources\lv-pv-loop-aorticstenosis.svg">
+<img src="\resources\lv-pv-loop-aorticstenosis.svg">
 
 * Preload is increased due to the higher ESV, as the ventricle starts filling from a higher point
 * Outflow tract impedance increases ventricular wall stress and therefore afterload  
@@ -103,7 +103,7 @@ This leads to the decrease in stroke volume.
 
 **Left Ventricular P-V Loop - Aortic Regurgitation:**
 
-<img src="resources\lv-pv-loop-aorticregurg.svg">
+<img src="\resources\lv-pv-loop-aorticregurg.svg">
 
 * Preload is dramatically increased as the ventricle fills from both the aorta and atria during diastole
 * Afterload is increased due to the greater wall stress during ejection
@@ -114,7 +114,7 @@ This leads to the decrease in stroke volume.
 **Left Ventricular P-V Loop - Mitral Stenosis:**
 
 
-<img src="resources\lv-pv-loop-ms.svg">
+<img src="\resources\lv-pv-loop-ms.svg">
 
 
 * Preload is reduced due to the increased gradient across the mitral valve  
@@ -127,7 +127,7 @@ Afterload may fall due to the reduction in ventricular wall stress.
 **Left Ventricular P-V Loop - Mitral Regurgitation:**
 
 
-<img src="resources\lv-pv-loop-mr.svg">
+<img src="\resources\lv-pv-loop-mr.svg">
 
 * Preload is increased as the regurgitant volume increases left atrial pressure and therefore ventricular filling pressure
 * Afterload is reduced as blood is ejected into the low-pressure atrial system
@@ -138,7 +138,7 @@ Afterload may fall due to the reduction in ventricular wall stress.
 
 **Right Ventricular P-V Loop:**
 
-<img src="resources\rv-pv-loop.svg">
+<img src="\resources\rv-pv-loop.svg">
 
 * The right ventricular curve is very different to the left ventricular curve
 * RV preload is increased relative to LV preload  

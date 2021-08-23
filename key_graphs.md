@@ -29,14 +29,14 @@ Identify the key points of the curve and label these points. These include:
 [**Dose-Response:**](dose-response_curves.md#stan)  
 
 
-<img src="resources\dose-response.svg">
+<img src="\resources\dose-response.svg">
 
 * Dose response curve is a wash-in exponential
 * Difficult to compare different drugs using this curve
 
 [**Log<sub>Dose</sub>-Response:**](dose-response_curves.md#log)  
 
-<img src="resources\fatex.svg">
+<img src="\resources\fatex.svg">
 
 * Log-transform of dose allows different drugs to be compared
 * Both red and blue drugs are full agonists (as they both reach 100% response), however the blue drug is more potent as it has a lower E<sub>D</sub>50
@@ -44,7 +44,7 @@ Identify the key points of the curve and label these points. These include:
 [**Agonists:**](receptor_theory.md#agon)  
 
 
-<img src="resources\agonists-FA-IA-PA.svg">
+<img src="\resources\agonists-FA-IA-PA.svg">
 
 * Partial agonists do not reach 100% response
 * Inverse agonists have a negative response
@@ -52,7 +52,7 @@ Identify the key points of the curve and label these points. These include:
 [**Antagonists:**](receptor_theory.md#antagon)  
 
 
-<img src="resources\FA-with-nca-and-ca.svg">
+<img src="\resources\FA-with-nca-and-ca.svg">
 
 * Non-competitive antagonists prevent maximal response being reached
 * Competitive agonists right shift the curve, as they can be overcome with increasing dose of agonist
@@ -62,7 +62,7 @@ Identify the key points of the curve and label these points. These include:
 [**Therapeutic Index:**](drug_monitoring.md)  
 
 
-<img src="resources\therapeutic-index.svg">
+<img src="\resources\therapeutic-index.svg">
 
 * Can be calculated from the ratio of the LD<sub>50</sub> and ED<sub>50</sub>
 
@@ -71,7 +71,7 @@ Identify the key points of the curve and label these points. These include:
 [**The One-Compartment Model:**](pharmacokinetic_modelling.md#one)  
 
 
-<img src="resources\1compartment.svg" style="width: 10pc;">
+<img src="\resources\1compartment.svg" style="width: 10pc;">
 
 * Drug is added to and removed from the single central compartment  
 There is no distribution possible.
@@ -81,7 +81,7 @@ There is no distribution possible.
 [**Three-Compartment Model:**](pharmacokinetic_modelling.md#multi)  
 
 
-<img src="resources\3compartment.svg">
+<img src="\resources\3compartment.svg">
 
 * Drug is added to and removed from the central compartment
 * Drug will also distribute to (and redistribute from) the peripheral compartments
@@ -93,7 +93,7 @@ There is no distribution possible.
 [**Effect-Site:**](pharmacokinetic_modelling.md#effect)  
 
 
-<img src="resources\3compartment+effect.svg">
+<img src="\resources\3compartment+effect.svg">
 
 * Drug distributes to the effect site from the central compartment
 * Effect site has no volume, but does have rate constants
@@ -103,7 +103,7 @@ There is no distribution possible.
 [**Zero-order kinetics:**](metabolism.md#kin)  
 
 
-<img src="resources\zero-order-kinetics.svg">
+<img src="\resources\zero-order-kinetics.svg">
 
 
 * A constant amount of drug is eliminated per unit time
@@ -114,7 +114,7 @@ Half-life progressively shortens, as the time taken to go from 50% to 25% is hal
 [**First-Order Kinetics:**](metabolism.md#kin)  
 
 
-<img src="resources\first-order-kinetics.svg">
+<img src="\resources\first-order-kinetics.svg">
 
 
 * A constant proportion of drug is eliminated per unit time
@@ -124,7 +124,7 @@ Half-life progressively shortens, as the time taken to go from 50% to 25% is hal
 [**Biexponential elimination:**](pharmacokinetic_modelling.md#bi)  
 
 
-<img src="resources\biexponent.svg">
+<img src="\resources\biexponent.svg">
 
 
 * Note that concentration has been log-transformed
@@ -137,7 +137,7 @@ Half-life progressively shortens, as the time taken to go from 50% to 25% is hal
 [**Isobologram:**](drug_interactions.md#iso)  
 
 
-<img src="resources\isobologram.svg">
+<img src="\resources\isobologram.svg">
 
 
 * Plots lines of equal activity versus concentration of two drugs
@@ -146,7 +146,7 @@ Half-life progressively shortens, as the time taken to go from 50% to 25% is hal
 [**Plasma-Site Targeting:**](tiva-and-tci.md#tci)
 
 
-<img src="resources\plasma-site-targeting.svg">
+<img src="\resources\plasma-site-targeting.svg">
 
 
 TCI graphs are easy to draw if you remember that:
@@ -166,7 +166,7 @@ Therefore in plasma site targeting:
 [**Effect-Site Targeting:**](tiva-and-tci.md#tci)
 
 
-<img src="resources\effect-site-targeting.svg">
+<img src="\resources\effect-site-targeting.svg">
 
 
 * Plasma concentration overshoots effect-site target and then declines rapidly
@@ -179,7 +179,7 @@ Therefore in plasma site targeting:
 [**Boxplot:**](frequency_distributions_and_measures_of_central_tendency.md#box)  
 
 
-<img src="resources\boxplot.svg">
+<img src="\resources\boxplot.svg">
 
 
 * Box is defined by the 25<sup>th</sup> and 75<sup>th</sup> centiles
@@ -195,7 +195,7 @@ Therefore in plasma site targeting:
 [**Action Potential**:](excitable_cells.md#ap)
 
 
-<img src="resources\dose-response.svg">
+<img src="\resources\dose-response.svg">
 
 * Graph of membrane potential versus time
 * Resting membrane potential is ~-70mV
@@ -217,7 +217,7 @@ Therefore in plasma site targeting:
 [**Oxygen Cascade**:](oxygen_cascade.md)
 
 
-<img src="resources\o2cascade.svg">
+<img src="\resources\o2cascade.svg">
 
 
 * Graph of location versus oxygen partial pressure
@@ -237,7 +237,7 @@ Greater than tissue PO<sub>2</sub> as not all oxygen in blood diffuses into or i
 [**Oxyhaemoglobin Dissociation Curve:**](oxygen_storage.md#curve)
 
 
-<img src="resources\oxyhb-curve.svg">
+<img src="\resources\oxyhb-curve.svg">
 
 
 * Graph of PaO<sub>2</sub> versus oxygen saturation
@@ -252,7 +252,7 @@ Greater than tissue PO<sub>2</sub> as not all oxygen in blood diffuses into or i
 	* The arterial point is 97% saturated at 100mmHg
 
 
-<img src="resources\oxy-hb-curve-shifts.svg">
+<img src="\resources\oxy-hb-curve-shifts.svg">
 
 
 * The curve may be right-shifted by:
@@ -266,7 +266,7 @@ Greater than tissue PO<sub>2</sub> as not all oxygen in blood diffuses into or i
 [**Double-Bohr Effect:**](the_placenta.md#bohr)  
 
 
-<img src="resources\Oxyhb-curve-double-bohr.svg">
+<img src="\resources\Oxyhb-curve-double-bohr.svg">
 
 * The double Bohr effect can easily become confusing, especially when you are under pressure and only allowed one colour (as in the written exam)  
 Here is a straightforward method which minimises the confusion:
@@ -280,7 +280,7 @@ Here is a straightforward method which minimises the confusion:
 [**PaO<sub>2</sub> and Minute Ventilation:**](control_of_breathing.md#chemo)  
 
 
-<img src="resources\PaO2-vs-MV.svg">
+<img src="\resources\PaO2-vs-MV.svg">
 
 
 * Exponential curve
@@ -293,7 +293,7 @@ Below this there is a large increase in ventilation.
 
 [**Isoshunt Diagram:**](shunt.md#iso)  
 
-<img src="resources\isoshunt.svg">
+<img src="\resources\isoshunt.svg">
 
 * Plots the relationship between PAO<sub>2</sub> versus PaO<sub>2</sub> for different (fixed) shunt fractions
 * These are known as isoshunt lines
@@ -305,7 +305,7 @@ Below this there is a large increase in ventilation.
 [**Carbon Dioxide Dissociation Curve:**](carbon_dioxide_transport.md#curve)  
 
 
-<img src="resources\co2-dissociation-curve.svg">
+<img src="\resources\co2-dissociation-curve.svg">
 
 
 * Graph of carbon dioxide content versus partial pressure
@@ -320,7 +320,7 @@ Remember that 50% of the difference in CO<sub>2</sub> content is due to the Hald
 [**PaCO<sub>2</sub> and Minute Ventilation:**](control_of_breathing.md#chemo)
 
 
-<img src="resources\paco2-vs-MV.svg">
+<img src="\resources\paco2-vs-MV.svg">
 
 
 * Graphs the change in minute ventilation for **primary change in PaCO<sub>2</sub>**
@@ -334,7 +334,7 @@ From this, the relationship to other states can be derived:
 [**Alveolar Ventilation and PaCO<sub>2</sub>:**](carbon_dioxide_transport.md#vent)   
 
 
-<img src="resources\VA-vs-paco2.svg">
+<img src="\resources\VA-vs-paco2.svg">
 
 
 * Graphs the change in PaCO<sub>2</sub> for a **primary change in minute ventilation**
@@ -346,7 +346,7 @@ From this, the relationship to other states can be derived:
 [**Closing Capacity and Age:**](volumes_and_capacities.md#closing)  
 
 
-<img src="resources\closing-capacity-vs-age.svg">
+<img src="\resources\closing-capacity-vs-age.svg">
 
 
 * Note that although FRC increases slightly with age, this is not generally shown on this graph
@@ -359,7 +359,7 @@ Key intersections are:
 [**Diffusion and Perfusion Limitation:**](diffusing_capacity_and_limitation.md#limit)
 
 
-<img src="resources\diffusion-vs-perfusion-limitation.svg">
+<img src="\resources\diffusion-vs-perfusion-limitation.svg">
 
 * Classically drawn as partial pressure versus distance along the capillary  
 Time along capillary may also be used, however note that total transit time will change with cardiac output.
@@ -374,7 +374,7 @@ Time along capillary may also be used, however note that total transit time will
 [**Regional Ventilation and Perfusion:**](basics_of_vq_matching.md#reg)  
 
 
-<img src="resources\regional-ventilation-and-perfusion.svg">
+<img src="\resources\regional-ventilation-and-perfusion.svg">
 
 
 * Graph of alveolar ventilation and alveolar blood flow versus rib number in the **erect** person
@@ -389,7 +389,7 @@ Time along capillary may also be used, however note that total transit time will
 [**Airway Resistance and Airway Generation:**](resistance.md#res)
 
 
-<img src="resources\airway-gen-vs-resistance.svg">
+<img src="\resources\airway-gen-vs-resistance.svg">
 
 
 * Graph of airway resistance versus airway generation  
@@ -402,7 +402,7 @@ This has the lowest total cross-sectional area.
 [**Airway Resistance and Lung Volume:**](resistance.md#res)
 
 
-<img src="resources\lungvol-vs-airway-resistance.svg">
+<img src="\resources\lungvol-vs-airway-resistance.svg">
 
 * Airway resistance decreases as lung volume increases as radial tension distends airways, increasing their cross-sectional area and lowering airway resistance
 
@@ -410,7 +410,7 @@ This has the lowest total cross-sectional area.
 [**Pulmonary Vascular Resistance and Pulmonary Artery Pressure:**](pulmonary_circulation.md#pvr)  
 
 
-<img src="resources\pap-vs-pvr.svg">
+<img src="\resources\pap-vs-pvr.svg">
 
 * Pulmonary vascular resistance decreases as pulmonary artery pressure increases
 * Arterial pressure has a greater effect on PVR than venous pressure
@@ -419,7 +419,7 @@ This has the lowest total cross-sectional area.
 [**Lung and Chest Wall Volume and Pressure Relationships:**](compliance.md#comp)
 
 
-<img src="resources\lung-pressure-volume.svg">
+<img src="\resources\lung-pressure-volume.svg">
 
 
 * Graph of lung volume versus **recoil pressure**
@@ -445,7 +445,7 @@ This is an approach to make it as easy as possible:
 
 [**Work of Breathing:**](work_of_breathing.md#wob)  
 
-<img src="resources\workofbreathing.svg">
+<img src="\resources\workofbreathing.svg">
 
 
 * Graph of lung volume (above FRC) versus intrapleural pressure  
@@ -460,7 +460,7 @@ Note that intrapleural pressure becomes more negative along the x-axis.
 [**Work of Breathing - Active Expiration:**](work_of_breathing.md#wob)  
 
 
-<img src="resources\workofbreathing-obstructive.svg">
+<img src="\resources\workofbreathing-obstructive.svg">
 
 
 * When resistive expiratory work exceeds elastic inspiratory work, active expiration must occur
@@ -470,7 +470,7 @@ Note that intrapleural pressure becomes more negative along the x-axis.
 [**Neonatal First Breath:**](changes_in_the_newborn.md#trans)
 
     
-<img src="resources\First-Breath.svg">
+<img src="\resources\First-Breath.svg">
 
 
 * This graph describes the pressure-volume changes of the neonate as it takes its first breaths and establishes FRC
@@ -489,7 +489,7 @@ Note that intrapleural pressure becomes more negative along the x-axis.
 [**Forced Vital Capacity:**](spirometry.md#basic)  
 
 
-<img src="resources\fev1-and-fvc.svg">
+<img src="\resources\fev1-and-fvc.svg">
 
 
 * Graph of expired volume (vital capacity) over time
@@ -501,7 +501,7 @@ Note that intrapleural pressure becomes more negative along the x-axis.
 [**Spirometry:**](spirometry.md#basic)  
 
 
-<img src="resources\Spirograph.svg">
+<img src="\resources\Spirograph.svg">
 
 * Graph of lung volume over time
 * Includes a normal tidal breath and a vital capacity breath
@@ -511,7 +511,7 @@ Note that intrapleural pressure becomes more negative along the x-axis.
 
 [**Normal loop:**](spirometry.md#spir) 
 
-<img src="resources\flow-volume.svg">
+<img src="\resources\flow-volume.svg">
 
 * Peak expiratory flow is ~8L.s<sup>-1</sup>
 * Peak inspiratory flow is ~6L.s<sup>-1</sup>
@@ -520,7 +520,7 @@ Note that intrapleural pressure becomes more negative along the x-axis.
 
 [**Obstructive Disease:**](spirometry.md#spir) 
 
-<img src="resources\flow-volume-obs.svg">
+<img src="\resources\flow-volume-obs.svg">
 
 * Residual volume and total lung capacity are increased due to gas trapping
 * Peak expiratory flow is reduced
@@ -530,7 +530,7 @@ Also known as a concave curve.
 
 [**Restrictive Disease:**](spirometry.md#spir) 
 
-<img src="resources\flow-volume-res.svg">
+<img src="\resources\flow-volume-res.svg">
 
 * Total lung capacity is reduced
 * Residual volume is normal
@@ -542,7 +542,7 @@ However the FEV<sub>1</sub>:FVC ratio will be normal in purely restrictive lung 
 [**Fixed Upper Airway Obstruction:**](spirometry.md#spir) 
 
 
-<img src="resources\flow-volume-fixed.svg">
+<img src="\resources\flow-volume-fixed.svg">
 
 * Obstruction that does not change calibre throughout the respiratory cycle
 * Peak expiratory and inspiratory flow rates are limited
@@ -550,7 +550,7 @@ However the FEV<sub>1</sub>:FVC ratio will be normal in purely restrictive lung 
 
 [**Extrathoracic Obstruction**](spirometry.md#spir) 
 
-<img src="resources\flow-volume-extra.svg">
+<img src="\resources\flow-volume-extra.svg">
 
 * Obstruction worsens during inspiration as it is 'pulled in' by negative intrathoracic pressure
 
@@ -558,7 +558,7 @@ However the FEV<sub>1</sub>:FVC ratio will be normal in purely restrictive lung 
 
 [**Intrathoracic Obstruction**](spirometry.md#spir)
 
-<img src="resources\flow-volume-intra.svg">
+<img src="\resources\flow-volume-intra.svg">
 
 
 * Obstruction worsens during expiration as it is compressed by dynamic airways compression
@@ -568,7 +568,7 @@ However the FEV<sub>1</sub>:FVC ratio will be normal in purely restrictive lung 
 [**F<sub>A</sub>/F<sub>I</sub>:**](inhalational-anaesthetic-agents.md#pk)  
 
 
-<img src="resources\fa-fi.svg">
+<img src="\resources\fa-fi.svg">
 
 
 * Graph of the alveolar over inspired agent fraction versus time for various volatile agents
@@ -580,7 +580,7 @@ However the FEV<sub>1</sub>:FVC ratio will be normal in purely restrictive lung 
 [**F<sub>A</sub>/F<sub>A0</sub>:**](inhalational-anaesthetic-agents.md#wash)
 
 
-<img src="resources\fa-fao.svg">
+<img src="\resources\fa-fao.svg">
 
 * Graph of alveolar agent fraction versus time for a volatile agent
 * Note the logarithmic scale on the y-axis
@@ -593,7 +593,7 @@ However the FEV<sub>1</sub>:FVC ratio will be normal in purely restrictive lung 
 [**Left Ventricular Coronary Blood Flow:**](coronary_circulation.md#flow)  
 
 
-<img src="resources\LV-cbf.svg">
+<img src="\resources\LV-cbf.svg">
 
 
 * Graph of blood flow to the left *ventricle* over time  
@@ -605,7 +605,7 @@ Peak flow is ~115ml.min<sup>-1</sup>.
 [**Right Ventricular Coronary Blood Flow:**](coronary_circulation.md#flow)  
 
 
-<img src="resources\RV-cbf.svg">
+<img src="\resources\RV-cbf.svg">
 
 * Graph of blood flow to the right *ventricle* over time
 * Right ventricular flow occurs throughout the cardiac cycle  
@@ -615,7 +615,7 @@ This is because aortic root pressure exceeds cavity pressure throughout the card
 [**Baroreceptor Response:**](baroreceptors.md#baro)  
 
 
-<img src="resources\baroreceptors.svg">
+<img src="\resources\baroreceptors.svg">
 
 
 * Graph of heart rate versus systolic blood pressure  
@@ -625,7 +625,7 @@ Note that the RR interval is inversely proportional to heart rate.
 [**Starling Curve:**](determinants_of_cardiac_output.md#frank)  
 
 
-<img src="resources\starling-curve.svg">
+<img src="\resources\starling-curve.svg">
 
 * Typically drawn as a graph of stroke volume (or cardiac output, assuming a constant heart rate) versus preload (typically estimated as end-diastolic volume, but may also be end-diastolic pressure)
 * Graph does not cross the origin as EDV is never 0ml
@@ -633,7 +633,7 @@ Note that the RR interval is inversely proportional to heart rate.
 [**Starling Curve - Failing:**](determinants_of_cardiac_output.md#frank)  
 
 
-<img src="resources\starling-curve-failing.svg">
+<img src="\resources\starling-curve-failing.svg">
 
 * Myocardium that has been overloaded by high end-diastolic volumes may lead to a decrease in tension generated by the myocardium
 
@@ -641,7 +641,7 @@ Note that the RR interval is inversely proportional to heart rate.
 [**Venous Return:**](venous-return.md)
 
 
-<img src="resources\venous-return.svg">
+<img src="\resources\venous-return.svg">
 
 
 * Graph of venous return versus right atrial pressure
@@ -652,7 +652,7 @@ Note that the RR interval is inversely proportional to heart rate.
 [**Venous Return - Compliance and Volume:**](venous-return.md)
 
 
-<img src="resources\venous-return-comp.svg">
+<img src="\resources\venous-return-comp.svg">
 
 * Decreasing venous compliance or increasing circulating volume results in an increase in mean systemic filling pressure (as for any given compliance, pressure must increase if volume increases) and an increase in venous return for any given right atrial pressure
 * The opposite occurs with a decrease in circulating volume or an increase in venous compliance
@@ -661,7 +661,7 @@ Note that the RR interval is inversely proportional to heart rate.
 [**Venous Return - Resistance to Venous Return:**](venous-return.md)
 
 
-<img src="resources\venous-return-rvr.svg">
+<img src="\resources\venous-return-rvr.svg">
 
 * Altering resistance to venous return (e.g. during pregnancy, or laparoscopic surgery) will alter venous return without changing mean systemic filling pressure
 
@@ -669,7 +669,7 @@ Note that the RR interval is inversely proportional to heart rate.
 [**Circulatory Function Curve:**](venous-return.md#sup)
 
 
-<img src="resources\cardiac-function.svg">
+<img src="\resources\cardiac-function.svg">
 
 
 * Plotting the venous return curve and the Starling curve on the same axes generates this graph
@@ -679,7 +679,7 @@ Note that the RR interval is inversely proportional to heart rate.
 [**Wiggers Diagram:**](cardiac_cycle.md#wig)
 
 
-<img src="resources\Wiggers.svg" style="width: 70pc;">
+<img src="\resources\Wiggers.svg" style="width: 70pc;">
 
 
 * Wiggers diagram is a graphical representation of the events during each phase of the cardiac cycle
@@ -701,7 +701,7 @@ Note that the RR interval is inversely proportional to heart rate.
 [**Pacemaker Potential:**](cardiac_action_potential.md#pacephase)  
 
 
-<img src="resources\pacemaker-phases.svg">
+<img src="\resources\pacemaker-phases.svg">
 
 
 * The pacemaker potential has only three phases, and notably no 'resting phase'  
@@ -713,7 +713,7 @@ This is due to the funny current.
 [**Pacemaker Potential - Ion Flux:**](cardiac_action_potential.md#pace)
 
 
-<img src="resources\pacemaker-currents.svg">
+<img src="\resources\pacemaker-currents.svg">
 
 
 * Demonstrates the timing of electrolyte passage across the cell membrane
@@ -726,7 +726,7 @@ This is due to the funny current.
 [**Pacemaker Potential - Autonomic Tone:**](cardiac_action_potential.md#pacephase)  
 
 
-<img src="resources\pacemaker-shifts.svg">
+<img src="\resources\pacemaker-shifts.svg">
 
 
 * Alteration to autonomic tone alters the slope of the funny-current  
@@ -735,7 +735,7 @@ This is due to the funny current.
 [**Ventricular Action Potential:**](cardiac_action_potential.md#vent)
 
 
-<img src="resources\ventricular-ap.svg">
+<img src="\resources\ventricular-ap.svg">
 
 
 * The ventricular action potential consists of 5 phases
@@ -754,7 +754,7 @@ This is due to the funny current.
 **Ventricular Action Potential - Hyperkalaemia:**
 
 
-<img src="resources\ventricular-ap-hyperk.svg">
+<img src="\resources\ventricular-ap-hyperk.svg">
 
 
 * In hyperkalaemia:
@@ -766,23 +766,23 @@ Pressure-volume loops are covered in detail under [pressure-volume relationships
 
 [**Left Ventricular P-V Loop:**](pressure-volume_relationships.md#base)
 
-<img src="resources\lv-pv-loop.svg">
+<img src="\resources\lv-pv-loop.svg">
 
 [**Left Ventricular P-V Loop - Increased Preload:**](pressure-volume_relationships.md#base)
 
-<img src="resources\lv-pv-loop-preload.svg">
+<img src="\resources\lv-pv-loop-preload.svg">
 
 
 [**Left Ventricular P-V Loop - Increased Afterload:**](pressure-volume_relationships.md#base)
 
 
-<img src="resources\lv-pv-loop-afterload.svg">
+<img src="\resources\lv-pv-loop-afterload.svg">
 
 
 [**Left Ventricular P-V Loop - Increased Contractility:**](pressure-volume_relationships.md#base)
 
 
-<img src="resources\lv-pv-loop-contractility.svg">
+<img src="\resources\lv-pv-loop-contractility.svg">
 
 
 
@@ -798,30 +798,30 @@ Advanced pressure-volume loops are covered in detail under [pressure-volume rela
 
 [**Right Ventricular P-V Loop:**](pressure-volume_relationships.md#adv)
 
-<img src="resources\rv-pv-loop.svg">
+<img src="\resources\rv-pv-loop.svg">
 
 
 [**Left Ventricular P-V Loop - Aortic Stenosis:**](pressure-volume_relationships.md#adv)
 
-<img src="resources\lv-pv-loop-aorticstenosis.svg">
+<img src="\resources\lv-pv-loop-aorticstenosis.svg">
 
 
 [**Left Ventricular P-V Loop - Aortic Regurgitation:**](pressure-volume_relationships.md#adv)
 
-<img src="resources\lv-pv-loop-aorticregurg.svg">
+<img src="\resources\lv-pv-loop-aorticregurg.svg">
 
 
 [**Left Ventricular P-V Loop - Mitral Stenosis:**](pressure-volume_relationships.md#adv)
 
 
-<img src="resources\lv-pv-loop-ms.svg">
+<img src="\resources\lv-pv-loop-ms.svg">
 
 
 
 [**Left Ventricular P-V Loop - Mitral Regurgitation:**](pressure-volume_relationships.md#adv)
 
 
-<img src="resources\lv-pv-loop-mr.svg">
+<img src="\resources\lv-pv-loop-mr.svg">
 
 
 
@@ -829,7 +829,7 @@ Advanced pressure-volume loops are covered in detail under [pressure-volume rela
 [**Ventricular Action Potential - Class Ia:**](antiarrhythmics.md#ia)
 
 
-<img src="resources\ventricular-ap-Ia.svg">
+<img src="\resources\ventricular-ap-Ia.svg">
 
 
 * Prolong the rate of rise of phase 0
@@ -838,7 +838,7 @@ Advanced pressure-volume loops are covered in detail under [pressure-volume rela
 [**Ventricular Action Potential - Class Ib:**](antiarrhythmics.md#ib)
 
 
-<img src="resources\ventricular-ap-Ib.svg">
+<img src="\resources\ventricular-ap-Ib.svg">
 
 
 * Prolong the rate of rise of phase 0
@@ -848,7 +848,7 @@ Advanced pressure-volume loops are covered in detail under [pressure-volume rela
 [**Ventricular Action Potential - Class Ic:**](antiarrhythmics.md#ic)
 
 
-<img src="resources\ventricular-ap-Ic.svg">
+<img src="\resources\ventricular-ap-Ic.svg">
 
 
 * Prolong the rate of rise of phase 0
@@ -857,7 +857,7 @@ Advanced pressure-volume loops are covered in detail under [pressure-volume rela
 [**Pacemaker Potential - Class II (Beta-Blockade):**](antiarrhythmics.md#ii)  
 
 
-<img src="resources\pacemaker-betablock.svg">
+<img src="\resources\pacemaker-betablock.svg">
 
 
 * Sympatholytic effect reduces the magnitude of the funny current
@@ -865,7 +865,7 @@ Advanced pressure-volume loops are covered in detail under [pressure-volume rela
 [**Ventricular Action Potential - Class III:**](antiarrhythmics.md#iii)
 
 
-<img src="resources\ventricular-ap-III.svg">
+<img src="\resources\ventricular-ap-III.svg">
 
 
 * Prolong duration of phase 3 of the myocardial action potential  
@@ -875,7 +875,7 @@ This prolongs the refractory period and reduces the chance of a re-entry circuit
 [**Pacemaker Potential - Class IV (Calcium Channel Blockade):**](antiarrhythmics.md#iv)  
 
 
-<img src="resources\pacemaker-cablock.svg">
+<img src="\resources\pacemaker-cablock.svg">
 
 
 * In the pacemaker cell, reduce the magnitude of T-type and L-type calcium currents, reducing the rate of rise of phase 0 of the pacemaker action potential
@@ -884,7 +884,7 @@ This prolongs the refractory period and reduces the chance of a re-entry circuit
 [**Monroe-Kellie Doctrine:**](intracranial_pressure.md)  
 
 
-<img src="resources\monroe-kellie.svg">
+<img src="\resources\monroe-kellie.svg">
 
 
 * Graphs the intracranial pressure versus the volume of a component (blood, brain, or CSF) in the cranial vault  
@@ -898,7 +898,7 @@ Note that overall volume is *not* correct, as this is unchanged - if overall vol
 [**Cerebral Blood Flow and Cerebral Perfusion Pressure:**](cerebral_blood_flow.md#cpp)  
 
 
-<img src="resources\CPP-vs-CBF.svg">
+<img src="\resources\CPP-vs-CBF.svg">
 
 
 * Cerebral blood flow is autoregulated for a CPP of 50-150mmHg  
@@ -908,7 +908,7 @@ Note that overall volume is *not* correct, as this is unchanged - if overall vol
 [**Cerebral Blood Flow and PaCO<sub>2</sub>:**](cerebral_blood_flow.md#co2)
 
 
-<img src="resources\PaCO2-vsCBF.svg">
+<img src="\resources\PaCO2-vsCBF.svg">
 
 
 * CBF increases by ~3% for every 1mmHg increase in CO<sub>2</sub>
@@ -919,7 +919,7 @@ Note that overall volume is *not* correct, as this is unchanged - if overall vol
 [**Cerebral Blood Flow and PaO<sub>2</sub>:**](cerebral_blood_flow.md#o2)
 
 
-<img src="resources\PaO2-vs-CBF.svg">
+<img src="\resources\PaO2-vs-CBF.svg">
 
 
 * Above a PaO<sub>2</sub> of 60mmHg, CBF is essentially independent of PaO<sub>2</sub>
@@ -929,7 +929,7 @@ Note that overall volume is *not* correct, as this is unchanged - if overall vol
 [**Cerebral Blood Flow and Temperature:**](cerebral_blood_flow.md#temp)
 
 
-<img src="resources\temp-vs-CBF.svg">
+<img src="\resources\temp-vs-CBF.svg">
 
 
 * Cerebral metabolic rate falls by ~6% per °C decrease in temperature
@@ -941,7 +941,7 @@ This is an *almost* linear response.
 [**Ionised potential vs pH - Acids:**](principles-of-acid-base-physiology.md#pka)
 
 
-<img src="resources\pkas-acids.svg">
+<img src="\resources\pkas-acids.svg">
 
 
 * **A**cids are ionised **a**bove their pKa
@@ -950,7 +950,7 @@ This is an *almost* linear response.
 [**Ionised potential vs pH - Bases:**](principles-of-acid-base-physiology.md#pka)
 
 
-<img src="resources\pkas-bases.svg">
+<img src="\resources\pkas-bases.svg">
 
 
 * **B**ases are ionised **b**elow their pKa
@@ -959,7 +959,7 @@ This is an *almost* linear response.
 [**Glomerular Filtration and Mean Arterial Pressure:**](functional_anatomy_and_control_of_blood_flow.md#auto)  
 
 
-<img src="resources\renal-autoregulation.svg">
+<img src="\resources\renal-autoregulation.svg">
 
 
 * GFR is autoregulated for a MAP between 60 and 160mmHg
@@ -968,7 +968,7 @@ This is an *almost* linear response.
 [**Glomerular Filtration Rate and Serum Creatinine:**](functional_anatomy_and_control_of_blood_flow.md#cr)  
 
 
-<img src="resources\gfr-vs-creatinine.svg">
+<img src="\resources\gfr-vs-creatinine.svg">
 
 
 * At steady-state, GFR and serum creatinine are inversely proportional
@@ -979,7 +979,7 @@ During this period, estimates of GFR using serum creatinine will be less accurat
 [**Glucose Flux:**](renal_handling_of_glucose.md#flux)  
 
 
-<img src="resources\glucoseflux.svg">
+<img src="\resources\glucoseflux.svg">
 
 
 * As glucose is freely filtered at the glomerulus, filtered plasma glucose will be directly proportional to serum glucose  
@@ -998,7 +998,7 @@ This is given by the dotted blue line.
 [**Coagulation Cascade:**](clotting.md#sec)  
 
 
-<img src="resources\Coagulation_full.svg">
+<img src="\resources\Coagulation_full.svg">
 
 
 * The coagulation cascade is covered in detail under [clotting](clotting.md#sec)
@@ -1007,7 +1007,7 @@ This is given by the dotted blue line.
 
 [**Thromboelastography:**](coagulpathy_testing.md#teg)
 
-<img src="resources\teg.svg">
+<img src="\resources\teg.svg">
 
 
 *  TEG/ROTEM can be used to guide coagulopathy treatment as:
@@ -1024,7 +1024,7 @@ This is given by the dotted blue line.
 [**Heat Loss Under Anaesthesia:**](regulation_of_body_temperature.md#anaes)  
 
 
-<img src="resources\heat-loss.svg">
+<img src="\resources\heat-loss.svg">
 
 
 * Heat loss under anaesthesia occurs in three phases:
@@ -1038,7 +1038,7 @@ This is given by the dotted blue line.
 [**Einthoven's Triangle:**](electrocardiogram.md#eint)
 
 
-<img src="resources\einthovens.svg" style="width: 25pc;">
+<img src="\resources\einthovens.svg" style="width: 25pc;">
 
 
 * Einthoven's triangle demonstrates the relationship between different limb leads and augmented leads on the ECG
@@ -1053,7 +1053,7 @@ This is given by the dotted blue line.
 [**Damping Coefficients:**](pressure_transduction.md#damp)  
 
 
-<img src="resources\damping2.svg">
+<img src="\resources\damping2.svg">
 
 
 * Following a step-change:
@@ -1066,7 +1066,7 @@ This is given by the dotted blue line.
 [**Wheatstone Bridge:**](wheatstone-bridge.md)  
 
 
-<img src="resources\wheatstone.svg">
+<img src="\resources\wheatstone.svg">
 
 
 * Covered in detail under [Wheatstone bridge](wheatstone-bridge.md)
@@ -1076,7 +1076,7 @@ This is given by the dotted blue line.
 [**Clark Electrode:**](blood_gases.md#clarke)  
 
 
-<img src="resources\clark-electrode.svg">
+<img src="\resources\clark-electrode.svg">
 
 
 * Covered in detail under [Oxygen Tension](blood_gases.md#clarke)
@@ -1085,7 +1085,7 @@ This is given by the dotted blue line.
 [**pH Electrode:**](blood_gases.md#ph)    
 
 
-<img src="resources\ph-electrode.svg">
+<img src="\resources\ph-electrode.svg">
 
 
 * Covered in detail under [pH Measurement](blood_gases.md#ph)
@@ -1094,7 +1094,7 @@ This is given by the dotted blue line.
 [**Severinghaus Electrode:**](blood_gases.md#sever)    
 
 
-<img src="resources\severinghaus.svg">
+<img src="\resources\severinghaus.svg">
 
 
 * Covered in detail under [Carbon Dioxide Tension](blood_gases.md#sever)
@@ -1104,7 +1104,7 @@ This is given by the dotted blue line.
 [**Capnograph:**](end-tidal_co2.md#capno)  
 
 
-<img src="resources\capno-normal.svg">
+<img src="\resources\capno-normal.svg">
 
 
 * The capnograph waveform consists of four components:

@@ -117,7 +117,7 @@ Note that reference ranges are not included here, and will vary depending on the
 e.g. Citrated vs. recalcified samples.
 
 
-<img src="resources\teg.svg">
+<img src="\resources\teg.svg">
 
 
 |Parameter (TEG)|Parameter (ROTEM)|Definition|Relevance|

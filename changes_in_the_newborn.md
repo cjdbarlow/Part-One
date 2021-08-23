@@ -10,7 +10,7 @@ Transition from placental gas exchange to pulmonary gas exchange occurs within 2
 * The **first three breaths** establish functional residual capacity  
 Large changes in intrathoracic pressure in the first three breaths pressure drive alveolar amniotic fluid into the circulation, and establish FRC.
 
-<img src="resources\First-Breath.svg">
+<img src="\resources\First-Breath.svg">
 
 
 ##Neonates and Children
