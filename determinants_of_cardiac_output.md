@@ -116,8 +116,8 @@ To facilitate ejection, the ventricle must overcome:
     * Valvular disease
       * e.g. aortic stenosis
     * HOCM
-  * **Systemic arterial impedance**  
-  Determined by resistance (SVR), **inertia, and **compliance:  
+  * **Systemic arterial impedance**/Aortic input impedance  
+  Determined by resistance (SVR), reflected pressure waves, **inertia**, and **compliance**:  
       * Determinants of **resistance** are stated in the Poiseuille Equation:  
           $$ R = {8.\eta.l \over \pi.r^4}$$, where:
           * η = **Viscosity**  
@@ -127,6 +127,10 @@ To facilitate ejection, the ventricle must overcome:
           * r = Vessel **radius**  
             * Greatest determinant
             * Function of **degree of vasoconstriction** of resistance vessels
+      * Reflected pressure waves  
+      Reflection of pulse pressure waves from the distal circulation increases aortic pressure.
+        * In normal circumstances this occurs during diastole (and so has less contribution to afterload)
+        * Decreased compliance of the peripheral circulation increases the speed of propagation, so the pressure wave may return during systole and contribute to systolic blood pressure and afterload
       * **Inertia**  
         * Given by the mass of blood in the column
         * Affected by **heart rate**

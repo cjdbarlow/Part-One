@@ -25,20 +25,20 @@ Adrenergic drugs:
 
 |**Properties**|**Adrenaline**|**Noradrenaline**|**Dopamine**|
 |---|---|---|---|
-|**Uses**||Cardiac arrest, anaphylaxis, inotropy, chronotropy, adjunct in local anaesthetics||↑ SVR|Haemodynamic support|
+|**Uses**|Cardiac arrest, anaphylaxis, inotropy, chronotropy, adjunct in local anaesthetics|↑ SVR|↑ HR, ↑ CO, ↑ UO|
 |**Dosing**|0.05-2µg/kg/min|0.05-1.5µg/kg/min|1-50µg/kg/min. Increase by 1-4µg/kg/min ~10 minutely until desired response.|
 |**Route**|IV/IM/ETT/SC|IV|IV|
-|**Presentation**||A clear, colourless solution typically at 0.1-1mg/ml|||Clear, colourless, light-sensitive solution. Sodium metabisulfite as excipient.|||Clear, colourless solution with 200mg or 800mg in water||
-|**Absorption**|Variable ETT and SC absorption|IV only||
-|**Metabolism**||t<sub>1/2</sub> 2min. Metabolised by mitochondrial MAO and COMT within liver, kidney, and blood to VMA and metadrenaline.|||t<sub>1/2</sub> 2min. Metabolised by mitochondrial MAO and COMT in liver, kidney, and blood to VMA and normetadrenaline.||t1/2 3 min. 25% of dose converted to noradrenaline. Remainder is metabolised by MAO and COMT similar to nor/adrenaline.|
-|**Elimination**|Urinary excretion of metabolites|Pulmonary uptake of up to 25%. Urinary excretion of metabolites||Renal, t1/2β 3 minutes||
+|**Presentation**|A clear, colourless solution typically at 0.1-1mg/ml|Clear, colourless, light-sensitive solution. Sodium metabisulfite as excipient.|Clear, colourless solution with 200mg or 800mg in water|
+|**Absorption**|Variable ETT and SC absorption|IV only|IV only|
+|**Metabolism**|t<sub>1/2</sub> 2min. Metabolised by mitochondrial MAO and COMT within liver, kidney, and blood to VMA and metadrenaline.|t<sub>1/2</sub> 2min. Metabolised by mitochondrial MAO and COMT in liver, kidney, and blood to VMA and normetadrenaline.||t1/2 3 min. 25% of dose converted to noradrenaline. Remainder is metabolised by MAO and COMT similar to nor/adrenaline.|
+|**Elimination**|Urinary excretion of metabolites|Pulmonary uptake of up to 25%. Urinary excretion of metabolites|Renal, t1/2β 3 minutes|
 |**Mechanism of action**|β>α at lower doses. At high doses α<sub>1</sub> effects dominate.|α>>β|D<sub>1</sub> dominates at <5µg/kg/min. <br> β<sub>1</sub> dominate at 2-10µg/kg/min. <br> α dominates >10µg/kg/min|
-|**Respiratory**||↑ MV, bronchodilation|||↑ MV, bronchodilation|||
-|**CVS**||↑ Inotropy, ↑ HR, ↑ SVR and PVR, ↑ BP, ↑ CO, ↑ myocardial O<sub>2</sub> consumption. Coronary vasodilation. Arrhythmogenic.|||↑ SVR, venoconstriction and ↑ preload, ↑ Myocardial O<sub>2</sub> consumption, ↑ Coronary flow. Reflex ↓ in HR. Receptor affinity ↓ in acidosis. ↑ Extravasation of peripheral veins due to constriction and ischaemia of vein wall.|||↑ Inotropy, ↑ HR, ↑ CO, coronary vasodilation. At high doses, ↑ SVR and PVR, ↑ VR, tachyarrhythmias.||
-|**CNS**||↑ Pain threshold, ↑ MAC|||Inhibits prolactin. Nausea.|
+|**Respiratory**|↑ MV, bronchodilation|↑ MV, bronchodilation|
+|**CVS**|↑ Inotropy, ↑ HR, ↑ SVR and PVR, ↑ BP, ↑ CO, ↑ myocardial O<sub>2</sub> consumption. Coronary vasodilation. Arrhythmogenic.|↑ SVR, venoconstriction and ↑ preload, ↑ Myocardial O<sub>2</sub> consumption, ↑ Coronary flow. Reflex ↓ in HR. Receptor affinity ↓ in acidosis. ↑ Extravasation of peripheral veins due to constriction and ischaemia of vein wall.|↑ Inotropy, ↑ HR, ↑ CO, coronary vasodilation. At high doses, ↑ SVR and PVR, ↑ VR, tachyarrhythmias.|
+|**CNS**|↑ Pain threshold, ↑ MAC||Inhibits prolactin. Nausea.|
 |**MSK**|Necrosis with extravasation|Necrosis with extravasation|Necrosis with extravasation|
 |**Renal**|↓ RBF and ↑ in sphincter tone|↓ RBF|No evidence for renoprotective effects despite ↑ RBF at low doses|
-|**Metabolic**||↑ BMR, ↑ lipolysis, ↑ gluconeogenesis and BSL, ↑ Lactate. Initially ↑ insulin secretion (β), then ↓ (α)||||
+|**Metabolic**|↑ BMR, ↑ lipolysis, ↑ gluconeogenesis and BSL, ↑ Lactate. Initially ↑ insulin secretion (β), then ↓ (α)|||
 |**GU**||↓ Uterine blood flow and foetal bradycardia||
 |**GIT**|||Mesenteric vasodilation|
 

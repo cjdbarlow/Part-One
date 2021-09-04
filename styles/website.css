@@ -55,3 +55,7 @@ sub {
     bottom: -0.2em !important;
     font-size: 0.8em !important;
 }
+
+.markdown-section p, .markdown-section table {
+    margin-bottom: 0em;
+}
