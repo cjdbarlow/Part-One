@@ -32,8 +32,8 @@ Adrenergic drugs:
 |**Absorption**|Variable ETT and SC absorption|IV only|IV only|
 |**Metabolism**|t<sub>1/2</sub> 2min. Metabolised by mitochondrial MAO and COMT within liver, kidney, and blood to VMA and metadrenaline.|t<sub>1/2</sub> 2min. Metabolised by mitochondrial MAO and COMT in liver, kidney, and blood to VMA and normetadrenaline.|t1/2 3 min. 25% of dose converted to noradrenaline. Remainder is metabolised by MAO and COMT similar to nor/adrenaline.|
 |**Elimination**|Urinary excretion of metabolites|Pulmonary uptake of up to 25%. Urinary excretion of metabolites|Renal, t1/2β 3 minutes|
-|**Mechanism of action**|β>α at lower doses. At high doses α<sub>1</sub> effects dominate.|α>>β|D<sub>1</sub> dominates at <5µg/kg/min. <br> β<sub>1</sub> dominate at 2-10µg/kg/min. <br> α dominates >10µg/kg/min|
-|**Respiratory**|↑ MV, bronchodilation|↑ MV, bronchodilation|
+|**Mechanism of action**|β>α at lower doses. At high doses α<sub>1</sub> effects dominate.|α>>β|D<sub>1</sub> dominates at ≤5µg/kg/min. <br> β<sub>1</sub> dominate at 2-10µg/kg/min. <br> α dominates >10µg/kg/min|
+|**Respiratory**|↑ MV, bronchodilation|↑ MV, bronchodilation||
 |**CVS**|↑ Inotropy, ↑ HR, ↑ SVR and PVR, ↑ BP, ↑ CO, ↑ myocardial O<sub>2</sub> consumption. Coronary vasodilation. Arrhythmogenic.|↑ SVR, venoconstriction and ↑ preload, ↑ Myocardial O<sub>2</sub> consumption, ↑ Coronary flow. Reflex ↓ in HR. Receptor affinity ↓ in acidosis. ↑ Extravasation of peripheral veins due to constriction and ischaemia of vein wall.|↑ Inotropy, ↑ HR, ↑ CO, coronary vasodilation. At high doses, ↑ SVR and PVR, ↑ VR, tachyarrhythmias.|
 |**CNS**|↑ Pain threshold, ↑ MAC||Inhibits prolactin. Nausea.|
 |**MSK**|Necrosis with extravasation|Necrosis with extravasation|Necrosis with extravasation|
@@ -52,7 +52,7 @@ Adrenergic drugs:
 |**Uses**|Stress testing, increasing CO|Severe bradycardia|↑ SVR without ↓ in HR|↑ SVR|↑ SVR|
 |**Dosing**|5-15µg/kg/min|Infusion from 0.5-10µg/min|3-6mg bolus|Bolus 0.5-2mg|Bolus start at 50-100mcg|
 |**Route**|IV|IV|IV|IV|IV/IM/SC|
-|**Presentation**|Racemic mixture of 250mg dobutamine in 20ml water|Clear solution at 1mg/ml||Clear, colourless solution in 30mg/ml ampoule|Clear, colourless solution in ampoule at 10mg/ml, typically reconstituted to 0.5mg/ml|||Clear, colourless solution at 100mcg/ml|
+|**Presentation**|Racemic mixture of 250mg dobutamine in 20ml water|Clear solution at 1mg/ml|Clear, colourless solution in 30mg/ml ampoule|Clear, colourless solution in ampoule at 10mg/ml, typically reconstituted to 0.5mg/ml|Clear, colourless solution at 100mcg/ml|
 |**Absorption**|IV|IV|IV or IM|IV|IV|
 |**Metabolism**|t<sub>1/2</sub> 2-5 min. COMT to inactive metabolites.|Hepatic by COMT|Hepatic (not metabolised by MAO and COMT), giving a longer (10-60 minute) duration of action and a t<sub>1/2</sub>β of 3-6 hours|Some uptake into adrenergic nerve endings|Hepatic by MAO|
 |**Elimination**|Urinary excretion of unchanged drug and metabolites|50% unchanged in urine|Renal of metabolites, t<sub>1/2</sub>β 2-3 hours||
@@ -64,7 +64,7 @@ Adrenergic drugs:
 |**Renal**|↑ RBF and ↑ urinary output with no improvement in renal function||↓ RBF|↓ RBF|↓ RBF|
 |**Metabolic**||||||
 |**GU**||||↓ Uterine blood flow|↓ Uterine blood flow|
-|**GIT**||||||
+|**GIT**|||||||
 
 
 ##Structure-Activity Relationships of Sympathomimetics
