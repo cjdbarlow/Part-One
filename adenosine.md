@@ -14,7 +14,7 @@ Adenosine acts via A<sub>1</sub> adenosine receptors in the SA and AV node, whic
 |**CVS**|↓↓ AV nodal conduction, may cause AF/lutter|
 |**Toxic Effects**|Contraindicated in sick-sinus syndrome, 2<sup>nd</sup>/3<sup>rd</sup> degree AV block|
 
-###Interactions
+##Interactions
 |Interaction|Drug|
 |--|--|
 |Increased effect|Dipyridamole|
