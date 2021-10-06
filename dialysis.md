@@ -8,7 +8,7 @@ Failure of normal renal functions, i.e.:
 Particularly hyperkalaemia.
 * **I**ntoxications
 * **O**verload
-* **U**reamia
+* **U**raemia
 
 ##Physical Mechanisms
 Fluid and electrolytes can be removed by four different mechanisms:
