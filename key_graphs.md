@@ -195,7 +195,7 @@ Therefore in plasma site targeting:
 [**Action Potential**:](excitable_cells.md#ap)
 
 
-<img src="\resources\dose-response.svg">
+<img src="\resources\action-potential.svg">
 
 * Graph of membrane potential versus time
 * Resting membrane potential is ~-70mV
