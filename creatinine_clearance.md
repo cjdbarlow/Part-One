@@ -55,7 +55,7 @@ Using the above formula requires measurement of urine volume. This is:
 * Typically performed by taking a 24 hour urine collection
 * Tedious, and so creatinine clearance is often estimated  
 A common method is the **Cockcroft-Gault formula**, which has a correlation of ~0.83 with creatinine clearance:  
-$$Cl = {(140-A) \times W  \times S \over 72  \times Cr}$$, where:
+$$Cl = {1.2 \times (140-A) \times W  \times S \over Cr}$$, where:
     * $$Cl$$ = Clearance
     * $$A$$ = Age
     * $$S$$ = Sex coefficient (Male = 1, Female = 0.85)
