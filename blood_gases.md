@@ -29,7 +29,7 @@ Oxygen tension is measured with a **Clarke electrode**. This consists of:
 <img src="\resources\clark-electrode.svg">
 
 ###Method
-* A voltage of **0.6V** is applied across the electrodes, causing the silver to reactive with chloride in the solution to produce electrons:  
+* A voltage of **0.6V** is applied across the electrodes, causing the silver to react with chloride in the solution to produce electrons:  
 $$Ag + Cl^- \Rightarrow AgCl + e^-$$
   * This potential difference is required to start the reaction
   * 0.6V is chosen because it is enough to start the reaction but will have minimal effect on measured current flow 
