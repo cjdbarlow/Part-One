@@ -1,0 +1,74 @@
+---
+level: 3
+---
+
+# Valsalva Manoeuvre
+
+:::CICM
+Explain the response of the circulation to situations such as ~~changes in posture haemorrhage, hypovolaemia, anaemia, intermittent positive pressure ventilation, positive end-expiratory pressure, and~~ the Valsalva manoeuvre.
+:::
+
+A Valsalva is forced expiration against a closed glottis. This can be achieved by increasing P~AW~ to 40mmHg for 15 seconds. This increase in intrathoracic pressure alters many haemodynamic parameters.
+
+## Phases
+
+A Valsalva manoeuvre consists of four phases:
+
+### Phase I
+
+* P~AW~ is increased to 40cmH~2~O, with a corresponding increase in P~Thoracic~
+* SBP and DBP increase due to:
+    * Compression of the aorta
+    * Increased LV preload due to ejection of blood in the pulmonary vasculature
+
+### Phase II
+
+* VR falls due to increased P~Thoracic~
+* CO falls due to decreased VR
+* SBP and DBP fall due to decreased CO
+* Baroreceptors are activated by the fall in BP, and SNS outflow increases, causing:
+    * Increased HR
+    * Increased SVR
+        * BP therefore starts to recover late in Phase II
+
+### Phase III
+
+* The Valsalva ceases, and P~AW~ returns to 0cmH~2~O
+* PVR rapidly drops as alveolar vessels re-expand
+* SBP and DBP rapidly fall due to:
+    * Decreased PVR causing decreased LV preload
+    * Loss of high intrathoracic pressure compressing the aorta
+
+### Phase IV
+
+* VR normalises
+* CO normalises due to normal VR and PVR
+* SBP and DBP transiently increase due to a normal CO entering a baroreceptor-driven high-SVR vascular bed
+* Baroreceptors respond to high SBP an DBP by increasing vagal tone:
+    * HR falls (reflex bradycardia)
+    * BP falls
+
+## Abnormal Responses
+
+Abnormal responses occur in cardiac failure and autonomic neuropathy.
+
+### Cardiac Failure
+
+In CCF a square-wave patten is produced^[This square-wave patten appears to be due to the increased circulating volume, as this difference resolves in venesected cardiac patients, and is demonstrated in normal individuals who are transfused to a high circulating volume.]:
+
+* Increasing P~AW~ resulting in a sustained **increase** in SBP and DBP
+* There is a slight decrease in SBP and DBP for the few seconds in phase III when airway pressure is released
+
+### Autonomic Neuropathy
+
+Baroreceptor response to the Valsalva is minimal in both phase II and IV:
+
+* In phase II, there is no compensatory increase in sympathetic outflow, so BP continues to fall until P~AW~ returns to 0mmHg
+* In phase IV, there is no compensatory increase in vagal tone and so BP returns to normal without overshooting
+
+---
+
+## References
+
+1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+2. Judson WE, Hatcher JD, Wilkins RW. [Blood Pressure Responses to the Valsalva Maneuver in Cardiac Patients with and without Congestive Failure](http://circ.ahajournals.org/content/11/6/889). Circulation. 1955;11:889-899.

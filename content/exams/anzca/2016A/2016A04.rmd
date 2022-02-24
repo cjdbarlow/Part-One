@@ -1,0 +1,65 @@
+# 2016A Question 04 
+
+
+Discuss the potential adverse effects of non-depolarising muscle relaxants.
+
+
+## Examiner Report
+
+68% of candidates achieved a pass in this question.
+
+
+This question was best answered by presenting the adverse effects by class of drug. The following details were expected:
+Benzylisoquinolones
+* Histamine release – atracurium versus cisatracurium, relationship to methoxy groups; clinical effects and degree of release
+* Ganglion blockade
+* Laudanosine production
+Aminosteroids
+* Vagolysis – pancuronium versus vecuronium, bronchoconstriction and muscarinic receptors
+* Anaphylaxis – rocuronium highest, quaternary ammonium ions and IgE, mechanisms of sensitization, cross reactivity
+
+
+Additional marks were awarded for active metabolite accumulation, reduced mivacurium metabolism, effects of concurrent neuromuscular diseases, and use of H1 and H2 blockers to prevent histamine effects.
+
+
+Marks were not awarded for descriptions of the mechanism of action at nicotinic receptors, use of reversal agents, racemic mixture details, and details of the anaphylaxis pathway. Common
+mistakes include confusion around vagolytic and vagotonic effects, lack of detail with simply listing and not discussing, and repetition of information.
+
+## Model Answer
+
+Structure:
+- General adverse effects
+- Benzylisoquinolinium specific
+- Aminosteroid specific
+
+### General Adverse Effects
+
+
+|Adverse Effect|Description|
+| -- | -- |
+|Unsafe paralysis|<p>- Can’t intubate, can’t oxygenate → Desaturation → Death</p><p>- Absent airway reflexes → Aspiration</p>|
+|Inadequate reversal|<p>- Risk: Distress, type 2 respiratory failure, aspiration</p><p>- Risk factors:</p><p>&emsp;- Physiology: Hypothermia → ↓ Rate of enzymatic degradation</p><p>&emsp;- Pathology: Liver failure (↓ metabolism), renal failure (accumulation), PChE deficiency for mivacurium</p><p>&emsp;- Long acting drug: e.g. Pancuronium 60 mins</p><p>&emsp;- Active metabolites: e.g. 3-OH pancuronium 50% potency and long-lasting</p><p>&emsp;- Other drugs: e.g. Volatile, calcium channel blocker</p>|
+|Critical illness myopathy|<p>- Prolonged paralysis in ICU → Disuse atrophy</p><p>- Vecuronium and atracurium implicated</p>|
+
+### Benzylisoquinolinium Adverse Effects
+
+
+|Benzylisoquinolinium Adverse Effects|Description|
+| -- | -- |
+|Histamine release|<p>- Direct effect on mast cells. Not immune mediated.</p><p>- Drugs: D-Tubocurarine > mivacurium, atracurium >> cisatracurium</p><p>- Structure-activity:</p><p>&emsp;- Cisatracurium: The 1Rcis-1R’cis isomer of atracurium</p><p>&emsp;&emsp;- R: Stereochemistry of the benzyltetrahydroisoquinoline rings</p><p>&emsp;&emsp;- Cis: Geometry of the bulky methoxy at C1 and 2-alkylester at N1</p><p>&emsp;- ↑ Methoxy groups = ↑ Potency, ↓ histamine release</p><p>&emsp;&emsp;- e.g. Mivacurium 2, atracurium 4, doxacurium 6)</p><p>- Effects:</p><p>&emsp;- Degranulation of mast cells</p><p>&emsp;- Effects via G protein coupled receptors</p><p>&emsp;- H1 (Gq): Vasodilatation, capillary leak, ↓ MAP; ↓ AV node conduction, coronary vasoconstriction, bronchoconstriction</p><p>&emsp;- H2 (Gs): ↑ Contractility, ↑ chronotropy, coronary vasodilatation, bronchodilation (N.B. H1-induced bronchoconstriction predominates)</p><p>- Prevention: Antihistamine, slower injection</p><p>- ↓ Severity with repeat doses; depletion of mast cells</p>|
+|Anaphylaxis|<p>- Less common - 1 in 10,000</p><p>- See later</p>|
+|Autonomic ganglion blockade|<p>- Mainly caused by d-tubocurarine</p><p>- Structure-activity: ↑ risk if short interonium distance</p><p>- Effects: ↓ HR, ↓ MAP (i.e. no baroreceptor response)</p>|
+|Prolonged apnoea (mivacurium only)|<p>- Cis-trans and trans-trans isomers metabolised by plasma cholinesterase</p><p>- Two alleles. Variations: Normal, dibucaine-resistant, fluoride-resistant, silent</p><p>- Rx prolonged apnoea: Sedate + ventilate in ICU +/- FFP +/- dialysis</p>|
+|Laudanosine toxicity|<p>- Ester hydrolysis and Hofmann degradation product of atracurium and cisatracurium metabolism</p><p>- Neurotoxic in animals → Seizure</p><p>- Tiny concentration in man</p>|
+
+### Aminosteroid Adverse Effects
+
+
+|Aminosteroid Adverse Effect|Description|
+| -- | -- |
+|Anaphylaxis|<p>- Common, often severe</p><p>- Rocuronium highest 1 in 2,500 (cf. suxamethonium 1 in 2,000)</p><p>- Structure-activity:</p><p>&emsp;- Usually due to quaternary NH~4~^+^</p><p>&emsp;- ?Cross-reaction with pholcodine</p><p>- Pathophysiology:</p><p>&emsp;- 1st exposure: Sensitization (antigen presented to T cell, stimulates B cell, IgE production, fixation on mast cells)</p><p>&emsp;- 2nd exposure: Systemic mast cell degranulation, angioedema, bronchospasm, vasodilatation/capillary leak</p>|
+|Cardiac mAChR effects|<p>- Vecuronium: Agonist → ↓ HR (rare)</p><p>- Pancuronium: Antagonist → ↑ HR (common)</p><p>- Rocuronium: Minimal effect</p>|
+
+
+--- 
+

@@ -1,0 +1,86 @@
+# 2018A Question 06 
+
+Describe the washout (not offset) of sevoflurane from a patient following two hours of general anaesthesia. You may wish to use a graph to illustrate the description.
+
+
+## Examiner Report
+
+54% of candidates achieved a pass in this question.
+
+To achieve a pass in this question the following were required :
+
+* A clear explanation of the elimination kinetics of Sevoflurane with due consideration to a time course appropriate to the termination of anaesthesia after two hours
+* A washout graph including appropriate axis labelling, a multi exponential decay curve, time course and half times consistent with volatile washout\
+It was very difficult to pass the question without a washout graph. Wash-in graphs did not score points.
+* A description of the movement of Sevoflurane out of the alveolus, from plasma to alveolus, from the various compartments to plasma and their respective time courses and a description of factors which underpin those kinetics; including depth and duration of anaesthesia, alveolar ventilation and fresh gas flows, compartmental blood flows and solubilities
+
+
+Common errors included:
+
+* Confused graphs with no or inappropriate time courses indicated, nonsensical axis labelling or graphing of wash-in and wash-out on the same graph
+* Detailed descriptions of Fick’s Law which wasted time and did not score points
+* An overemphasis on the role of cardiac output in washout and incorrect assertions that increased cardiac output speeds washout
+* Conflation of washout and awakening from anaesthetic as the same thing
+* The incorrect assertion that following two hours the fat is completely saturated with Sevoflurane
+* The confusion of partial pressures, concentrations and amounts
+
+
+## Model Answer
+
+Structure:
+- Emergence modeling
+- Final end-tidal partial pressure
+- Elimination from V~1~
+
+	
+### Emergence Modeling
+
+Washout time is a function of:
+
+* Final partial pressure in effect site prior to washout
+* Rate of elimination from V~1~
+
+
+<img src="resources/fa-fao.svg">
+
+
+Compartment saturation at two hours:
+
+|Compartment|τ|Capacity|Saturation|
+| -- | -- | -- | -- |
+|V~1~|5.7 mins|Low|~100%|
+|V~2~|2.3 hours|Moderate|~50%|
+|V~5~|1.8 days|High|Minimal|
+
+* Equilibration time constants:
+	* τ= 1/k
+	* τ= (V x λ) / Q
+	* Where: (V = volume of tissue, λ = tissue: Blood partition coefficient, Q = blood flow)
+
+### Final Effect-Site Partial Pressure
+
+Effect site partial pressure:
+- Correlates with that in V~1~
+- May not be included in all kinetic models
+- Rate of equilibration between effect site and V~1~ is:
+	- $\propto$CBF (per unit mass, not percentage CO to brain)
+	- $\propto {1 \over Brain-blood \ partition \ coefficient}$
+
+
+|Factor|Partial pressure decreased with:|
+| -- | -- |
+|Infusion|<p>- ↓ Duration</p><p>- ↓ Inspired %</p>|
+|Drug|<p>- ↑ Tissue:blood partition coefficients</p><p>&emsp;- ↑ Muscle:blood PC (sevo 3.1, des 2.0, iso 2.9)</p><p>&emsp;- ↑ Fat:blood PC (sevo 48, de+s 27, iso 45)</p><p>- ↓ MAC (iso 1.2%, sevo 2%, des 6.6%)</p><p>&emsp;- Correlates with ↓ oil:gas PC (sevo 80, des 29, iso 98)</p><p>- ↑ Metabolism</p>|
+|Patient|<p>- ↑ Cardiac output</p><p>- ↑ Tissue volumes</p>|
+
+### Elimination from V~1~
+
+
+|Factor|Elimination accelerated with:|
+| -- | -- |
+|Short case|<p>Offset during distribution phase:</p><p>- ↑ Cardiac output</p><p>- ↑ Tissue:blood PC</p><p>- ↑ Compartment volumes</p>|
+|Long case|<p>Offset during terminal elimination phase: (note bivalent factors!)</p><p>- ↓ Cardiac output</p><p>- ↓ Tissue:blood PC</p><p>- ↓ Compartment volumes</p><p>- ↑ Metabolism</p><p>- ↑ Excretion:</p><p>&emsp;- ↑ Ratio VA:FRC (?Most important)</p><p>&emsp;- ↑ Ratio FGF rate : Circuit volume</p><p>&emsp;- ↓ Inspired %</p>|
+
+
+--- 
+

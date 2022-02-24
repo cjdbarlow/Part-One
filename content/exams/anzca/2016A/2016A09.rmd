@@ -1,0 +1,63 @@
+# 2016A Question 09 
+
+
+Describe the mechanism of action, pharmacokinetics and major side effects of amiodarone. 
+
+
+## Examiner Report
+
+43% of candidates achieved a pass in this question.
+
+
+Simply stating the Vaughan-Williams classification is not a description of mechanism of action. Relating the K+ channel blocking effects to the action potential and effective refractory period, with some mention of the other mechanisms, would have achieved a pass on this section. Full marks required more detail on the various mechanisms, with the overall effects on the AV node, SA node and speed of conduction.
+
+
+Describing the high plasma protein binding, high tissue binding and large Vd, with consequent need for a prolonged loading dose schedule and comment on the elimination kinetics would have earned a pass for the second section.
+
+
+Almost every candidate listed corneal micro-deposits as a major side-effect, yet many did not mention the pulmonary complications and those who did rarely commented on their incidence, or their high morbidity and mortality.
+
+
+Many candidates wrote an extensive preamble to their answer, with details on indications, contra-indications and its use in an arrest situation, none of which was asked for. A few candidates confused amiodarone with adenosine and digoxin.
+
+## Model Answer
+
+Structure:
+- PC
+- PK
+- PD
+
+### Physicochemical
+
+
+|Factor|Description|
+| -- | -- |
+|Structure|<p>- Iodine-containing</p><p>- Similar appearance to thyroxine</p>|
+|Presentation|<p>- Tablets</p><p>- Aqueous solution</p>|
+
+### Pharmacokinetic
+
+
+|Factor|Description|
+| -- | -- |
+|Administration|<p>- Arrest 300mg push</p><p>- IV loading 150mg 1/24 then 850mg 23/24</p><p>- PO loading 10-20mg.kg^-1^/day for 7-10 days</p><p>- Maintenance: ~100-200mg daily</p>|
+|Time course|<p>- IV onset 5 minutes</p><p>- IV duration 30 mins for bolus</p>|
+|Absorption|<p>- Variable</p>|
+|Distribution|<p>- V~D~ 70L/kg</p><p>- Plasma protein binding >95% (can displace other highly bound drugs e.g. Warfarin)</p><p>- Tissue protein binding very high</p><p>- Lipid solubility high</p>|
+|Metabolism|<p>- Hepatic CYP</p><p>- Cl 1.5-11mL.kg^-1^.min^-1^</p><p>- t1/2β 15-140 days</p><p>- Active metabolite desethylamiodarone</p>|
+|Excretion|<p>- Bile, skin, tears</p>|
+
+
+### Pharmacodynamic
+
+
+|Factor|Description|
+| -- | -- |
+|Antiarrhythmic class|<p>- Broad spectrum: Class 3 > 1,2,4</p><p>- ↓ K^+^ rectifier conductance → Prolongs phase 3 of ventricular action potential</p>|
+|Use|<p>- Ablation of supraventricular and ventricular tachyarrhythmias</p><p>- Rate control in AF</p>|
+|CVS toxicity|<p>Increased with rapid infusion:</p><p>- Hypotension</p><p>- Bradycardia (atropine resistant)</p><p>- ↑ QTc → ↑ Risk torsades de pointes</p>|
+|Tissue toxicity|<p>- Cirrhosis</p><p>- Pulmonary fibrosis</p><p>- Thyroid disease (hypo > hyper)</p><p>- Corneal disease</p>|
+
+
+--- 
+

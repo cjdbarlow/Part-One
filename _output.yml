@@ -1,0 +1,23 @@
+#HTML Output Format
+bookdown::gitbook:
+    css: "templates/custom.css"
+    includes:
+        before_body: "templates/litfl.html"
+    new_session: true
+    config:
+        sharing: null #?default
+        toc:
+            after: |
+                <li><a href="https://github.com/rstudio/bookdown" target="blank">Built on Bookdown</a></li>
+
+#PDF Output Format
+bookdown::titfl_book:
+    keep_tex: false
+    toc_depth: 3 
+    latex_engine: xelatex #default
+    citation_package: natbib
+    pandoc_args: ["--variable", "classoption=a4paper"] #?default
+    includes:
+        in_header: content/preamble.tex
+        before_body: content/copyright.tex
+        after_body: content/after_body.tex

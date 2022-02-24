@@ -1,0 +1,107 @@
+# 2018B Question 12 
+
+Outline the normal physiological control of blood glucose in a non-diabetic adult.
+
+
+## Examiner Report
+
+40% of candidates achieved a pass in this question/
+
+
+The basic requirement for an answer that scored well enough to gain an invitation to the vivas for this question required some detail on the mechanism of control of blood glucose levels via the interaction of insulin and glucagon. Some depth of detail of these effects were expected in order to pass.
+
+
+Those candidates who provided a more detailed view and included cortisol, the effect of the sympathetic nervous system and other scored better, as did those who included detail on basal rates of secretion and variations in the effective ratio of insulin and glucagon.
+
+
+No marks were awarded for discussing various pathologies and their effects on the control of blood glucose, as the question was specifically about control in the healthy patient.
+
+## Model Answer
+
+Structure:
+- Introduction: Glucose and its control
+- Metabolic pathways and key enzymes
+- Each hormone
+
+### Introduction
+
+
+|Factor|Detail|
+| -- | -- |
+|Glucose|<p>- 6-carbon-monosaccharide for energy production</p><p>- Brain, RBCs are obligate glucose users (brain can use ketones too)</p><p>- Tight control of blood glucose level necessary (~3-6mM)</p>|
+|Summary of glucose control|<p>- Multiple systems</p><p>&emsp;- ↑ BGL: Glucagon, cortisol, catecholamines, growth hormone</p><p>&emsp;- ↓ BGL: Insulin</p><p>- Ratio of activity determines effect (especially insulin:glucagon)</p><p>- Each system is subject to negative feedback (e.g. ↑ BGL → ↑ Insulin → ↓ BGL)</p><p>- Liver buffers [glucose] – able to store and release glucose</p><p>- Skeletal muscle and liver store glucose but buffer poorly</p>|
+
+
+### Metabolic Pathways and Key Enzymes
+
+
+|Pathway|Detail|
+| -- | -- |
+|Glycolysis (GL)|- Hexokinase|
+|Gluconeogenesis (GNG)|<p>- From pyruvate, lactate, fructose, amino acids, glycerol</p><p>- Note glucose 6 phosphatase mainly expressed in liver > renal cortex</p>|
+|Glycogenolysis (GGL)|<p>- Glycogen phosphorylase</p>|
+|Glycogenesis (GG)|<p>- Glycogen synthase</p>|
+|Lipolysis (LL)|<p>- Hormone-sensitive lipase</p>|
+|De novo lipogenesis (DNL)|<p>- Lipoprotein lipase, acetyl-CoA carboxylase, fatty acid synthase</p>|
+|Ketogenesis (KG)|<p>- Acetyl-CoA thiolase</p>|
+
+
+### Insulin
+
+
+|Factor|Detail|
+| -- | -- |
+|Source|- Pancreatic islet β cells|
+|Stimuli for Release|<p>- Major: ↑ BGL</p><p>- Minor: ↑ [amino acids], ↑ [fatty acids])</p><p>- GIT secretagogues (e.g. GLP-1, GIP)</p>|
+|Pattern of Secretion|<p>- Mechanism: ↑ BGL → ↑ ATP → ↑ Inhibition of K channel → Depolarisation → ↑ Ca^2+^ > exocytosis</p><p>- Constitutive: 15 milli-Units per minute</p><p>- 1st phase inducible: Preformed insulin, onset 2 mins, duration 15 mins</p><p>- 2nd phase inducible: Newly synthesized, onset 15 mins, duration 2-3 hours</p>|
+|Liver Effect|<p>- ↑ GL, ↑ GG</p><p>- ↓ GNG, ↑ DNL</p>|
+|Skeletal Muscle Effect|<p>- ↑ GLUT4 expression</p><p>- ↑ GL, ↑ GG</p><p>- ↓ GNG, ↑ DNL</p>|
+|Adipose Effect|<p>- ↑ GLUT4 expression, ↑ glucose uptake → Glycerol</p>|
+|Negative Feedback Loop|<p>- ↑ BGL → ↑ Insulin → ↓ BGL</p>|
+
+### Glucagon
+
+
+|Factor|Detail|
+| -- | -- |
+|Source|- Pancreatic islet α-cells|
+|Stimulus for Release|<p>- ↓ BGL</p><p>- Adrenaline (β~2~)</p><p>- GIT secretagogues (GIP, CCK)</p>|
+|Inhibition of Release|- Tonic release of GABA from activated β-cells (i.e. interlock mechanism)|
+|Effects|<p>- Liver: Opposite to insulin</p><p>- Muscle: Opposite (but does NOT cause GGL)</p><p>- Adipose: Opposite to insulin</p>|
+
+### Cortisol
+
+
+|Factor|Detail|
+| -- | -- |
+|Source|- Zona fasciculata of adrenal cortex|
+|Stimuli for Release|<p>- ↓ BGL sensed by hypothalamus independent of pancreas</p><p>- Physical stress e.g. Trauma, surgery, burns, exercise</p><p>- Mental stress, anxiety etc.</p>|
+|HPA Axis||
+|Liver Effect|<p>- ↑ GNG ++, ↑ LL</p><p>- ↓ GL, ↓ GGL, ↓ DNL</p>|
+|Skeletal Muscle Effect|<p>- ↑ Proteolysis → Amino acids → Hepatic GNG</p><p>- ↓ GG, ↓ GL</p>|
+|Visceral Adipose Effect|<p>- ↓ Glucose uptake → Glycerol</p><p>- ↑ LL, ↓ DNL</p>|
+|Subcut Adipose Effect|<p>- ↑ Glucose uptake → Glycerol</p><p>- ↑ DNL, ↓ LL</p>|
+
+### Catecholamines → ↑ BGL
+
+
+|Factor|Detail|
+| -- | -- |
+|Source|- Adrenal medulla|
+|Stimuli for Release|<p>- ↓ BGL sensed by hypothalamus independent of pancreas</p><p>- Other physical and psychological stressors</p>|
+|Liver Effects|- β~2~ adrenoceptor: ↑ GGL, ↑ GNG|
+|Skeletal Muscle Effects|- β~2~: ↑ GGL|
+|Adipose Effects|<p>- β~1~ white fat → ↓ Glucose uptake</p><p>- β3 brown fat → Insertion of uncoupling protein → Production of heat without ATP</p>|
+
+### Growth Hormone
+
+
+|Factor|Detail|
+| -- | -- |
+|Source|- Anterior pituitary<br>  (production stimulated by corticotrophin-releasing hormone)|
+|Stimuli for Release|<p>- ↓ BGL sensed by hypothalamus independent of pancreas → ↑ CRH release</p><p>- ↓ Plasma fatty acids</p><p>- Protein deficiency</p><p>- (multiple other factors)</p>|
+|Metabolic Effect|<p>- Insulin resistance → ↓ GL, ↑ GNG</p><p>- ↑ (LL), ↑ FFA utilisation</p><p>- ↑ Protein synthesis</p>|
+
+
+--- 
+

@@ -1,0 +1,80 @@
+# 2017A Question 15 
+
+Outline the clinical laboratory assessment of liver function.
+
+
+## Examiner Report
+
+46.4% of candidates achieved a pass in this question.
+
+
+The crucial approach to this question is to explain the physiological basis of the laboratory tests.
+A simple list of test names provides marks towards a pass but to reach a pass or score well a
+candidate had to demonstrate an understanding of the underlying physiology. As an example
+of a good level of explanation when discussing coagulation disturbance many candidates
+mentioned INR but only a few went on to explain why it was the most sensitive test for
+coagulation in liver failure by relating it to the half life of the factors it tests.
+
+
+Common mistakes included “overviews” that could be lengthy and not relate to the question
+and so not add to the overall mark. Also summaries of physiological functions of the liver that
+were not related to tests did not accrue marks. Circular statements were another pitfall, where
+candidates rephrased their point as a way of explanation. Describing other forms of assessment
+such as imaging or signs and symptoms gained no marks. Tests of the haematological sequelae
+of liver failure were frequently omitted.
+
+
+## Model Answer
+
+Structure:
+- Table
+- Synthetic function
+- Cell injury
+- Other
+
+
+### Table
+
+
+|Name|Abbreviations|Normal value|
+| -- | -- | -- |
+|Alanine Aminotransferase|ALT|7-55 U/L|
+|Aspartate Aminotransferase|AST|8-48 U/L|
+|Alkaline Phosphatase|ALP|40-129 U/L|
+|Gamma Glutamyl Transferase|GGT|8-61U/L|
+|Bilirubin (total)|BR|3-20umol/L|
+|Albumin|ALB|40g/L|
+|International Normalized Ratio|INR|1|
+
+
+### Synthetic Function
+
+
+|Factor|Detail|
+| -- | -- |
+|Albumin|<p>- Most abundant plasma protein</p><p>- Also negative acute phase reactant</p><p>- Maintain plasma oncotic pressure</p><p>- Binding site for ions (calcium), drugs, unconjugated bilirubin, lipid-soluble substance</p><p>- Half life 3/52 hence reduced in chronic disease</p>|
+|Bilirubin|<p>- Haem breakdown product. Normal ≤15μmol/L. Scleral icterus >50μmol/L.</p><p>- Unconjugated BR transported from RES to liver on albumin</p><p>- → BR-monoglucuronide → BR diglucuronide by UDP-GT</p><p>- ↓ Synthetic function → ↑ Unconjugated BR</p><p>- ↓ Secretion → ↑ Conjugated BR</p>|
+|Coagulation factors|<p>- Liver synthesizes all coag proteins except vWF</p><p>- ↑ PT, aPTT</p><p>- ±↓ Platelet if splenomegaly</p><p>- Earliest sign of liver damage is ↑ INR, due to short half life of VII</p>|
+
+
+### Cell Injury
+
+
+|Function|Detail|
+| -- | -- |
+|Hepatocellular|<p>- ↑ AST, ALT, BR</p><p>- AST and ALT are present in hepatocyte cytoplasm</p><p>- AST raised more acutely than ALT in setting of injury</p><p>AST may be more indicative of alcoholic liver disease</p>|
+|Cholestatic|<p>- ↑ ALP, GGT, BR (+/- AST, ALT)</p><p>- ALP and GGT are leaked from damaged biliary epitheliocytes</p><p>- Note significant cholestasis can cause hepatocellular injury also</p><p>- Note ALP also has a bone isomer</p><p>(Note acute alcohol → ↑ GGT)</p>|
+
+
+### Other
+
+
+|Function|Detail|
+| -- | -- |
+|“Glucostat”|<p>- Plasma glucose may fall in liver failure</p><p>- Liver increases plasma glucose concentration in response to glucagon, catecholamines, corticosteroids</p><p>- Synthesises enzymes important for glycogenolysis and gluconeogenesis</p>|
+|Ammonia|<p>- Increased in liver failure</p>|
+|Glutathione-S-transferase|<p>- Leaked in centrilobular damage</p>|
+
+
+--- 
+

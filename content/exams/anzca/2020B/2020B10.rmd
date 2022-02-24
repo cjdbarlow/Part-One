@@ -1,0 +1,61 @@
+# 2020B Question 10 
+
+Discuss the structure and function of the NMDA receptor and briefly describe the interaction of ketamine with this receptor
+
+
+## Examiner Report
+
+This question was simple in scope, in that it asked about a common and important CNS receptor, and the way in which ketamine interacts with that receptor.
+
+The NMDA receptor is a voltage-sensitive ligand-gated receptor. There is some difference in detail between the recommended textbooks regarding sub-unit structure, so variations were accepted. Detail regarding the AMPA receptor in providing initial depolarization, the Mg2+ plug, glutamate and glycine binding, and ionic currents were necessary.
+
+Many candidates offered that the NMDA receptor caused long-term potentiation and various chronic pain phenomena, but very few attempted to describe a mechanism that related to NMDA activation and intracellular events.
+
+There were some good descriptions of where ketamine bound to NMDA, and the effect it had.
+
+A number of candidates did not offer that one of the effects of ketamine was general anaesthesia.
+
+There were a number of repeated errors that showed lack of general understanding. The NMDA is not a metabotropic (G-protein linked) receptor. Substance P and the NK-1 receptor are not involved in NMDA activation. The influx of Cl- ions is not excitatory.
+
+Pharmacokinetic data for ketamine was neither asked for nor rewarded. Organ-based pharmacodynamic information for ketamine did not receive marks..
+
+## Model Answer
+
+Structure:
+- General description
+- Activation process
+- Physiological role
+
+### General Description
+
+
+|Factor|Detail|
+| -- | -- |
+|Type|Ligand-gated voltage-dependent glutamate receptor<br>  (others: AMPA, kainate)|
+| -- | -- |
+|Location|<p>- Spinal cord: Especially dorsal horn 2° nociceptive afferents</p><p>- Brain: Especially hippocampus</p>|
+|Structure|<p>- Transmembrane</p><p>- 2 x NR1 subunits (pore-forming)</p><p>- 1 x NR2A subunit (binds glutamate)</p><p>- 1 x NR2B (binds glycine)</p>|
+|Binding sites|<p>- Orthosteric site: For glutamate</p><p>- Coactivating site: Glycine</p><p>- Phencyclidine site: Ketamine, PCP</p><p>- Pore: Blocked by Mg2+</p><p>- N~2~O and Xe: Site unknown (antagonists)</p>|
+
+### Activation Process
+
+
+|Stage|Detail|
+| -- | -- |
+|1. Priming|<p>- Activation of adjacent AMPA or NK-1 receptors</p><p>- Partial depolarisation → Removal of Mg2+ plug</p>|
+|2. Coactivation|<p>- Binding of glycine</p>|
+|3. Activation|<p>- Binding of glutamate</p><p>- Ion flux (Ca^2+^ influx > Na^+^ influx = K^+^ efflux)</p><p>- Cell-dependent downstream effects</p>|
+
+### Effect of Ketamine
+
+
+|Stage|Detail|
+| -- | -- |
+|Receptor|<p>- Non-competitive antagonist at PCP site</p><p>- ↓ Receptor activation</p>|
+|Cellular effect|<p>- ↓ Ca^2+^-mediated cell activation</p><p>- ↓ 2nd messenger signalling</p><p>- ↓ Gene transcription</p>|
+|Analgesic effect|<p>- ↓ Receptor excitability = Wind-up → ↓ Hyperalgaesia, allodynia</p><p>- ↓ Synaptic reinforcement = Long-term potentiation</p><p>- ↓ Acute somatic and neuropathic pain</p><p>- ↓ Opioid requirement</p><p>- ↓ Progression to chronic pain</p><p>- Less utility once chronic pain established</p>|
+|Other use|<p>- Dissociative general anaesthesia, including single agent use</p><p>- Poorly understood effect on cell toxicity</p><p>- ↓ Ca^2+^ mediated excitotoxicity</p><p>- ↑ Neuronal damage in young rodents</p><p>- ?Beneficial effect in depression</p>|
+
+
+--- 
+

@@ -1,0 +1,66 @@
+# 2016A Question 08 
+
+
+Outline the pharmacology of agents used in the acute management of hypertension in pregnancy.
+
+
+## Examiner Report
+
+22% of candidates achieved a pass in this question.
+
+
+This question was answered poorly.
+
+The commonest problem was devoting the bulk of discussion towards drugs used for the chronic treatment of hypertension in pregnancy. Discussion of the pharmacology of methyldopa and clonidine did not attract marks. Definitions and comments about the pathophysiology of hypertension in pregnancy also did not attract marks. Many candidates discussed agents that are not appropriate for the management of acute hypertension in pregnancy like GTN, sodium nitroprusside and diuretics.
+
+Marks were awarded, however, for details why these were unsuitable for use in pregnancy. To pass candidates needed to outline the pharmacology of labetalol, hydralazine, nifedipine and magnesium in sufficient detail. Many candidates just gave detailed descriptions of these drugs’ mechanism of action without consideration of dose, latency, duration of action or maternal and foetal adverse effects. Additional marks were awarded for comments regarding the use of appropriate agents to obtund the pressor response to intubation in the event of operative delivery under general anaesthesia. A mark was given for noting that epidural analgesia has a role in blood pressure management.
+
+Recurring errors documented by candidates included: advocating the use of oral magnesium therapy in the acute management of pre-eclampsia; asserting that labetalol doesn’t cross the placenta and that hydralazine had a central site of action. Many candidates failed to appreciate that the role of magnesium is as a prophylactic anticonvulsant for severe pre-eclampsia and not as an antihypertensive agent. Pleasingly, most candidates were aware that ACE inhibitors and angiotensin receptor antagonists are contraindicated in pregnancy.
+
+## Model Answer
+
+Structure:
+- Introduction
+- Pregnancy-specific antihypertensives
+- Other drugs
+- Anaesthesia
+
+### Introduction
+
+
+|Factor|Description|
+| -- | -- |
+|Causes of hypertension in pregnancy|<p>- Pregnancy-induced hypertension</p><p>- Pre-eclampsia</p>|
+|Teratogenic drugs|<p>- ACE inhibitors</p><p>- Angiotensin receptor antagonists</p><p>- Beta blockers</p>|
+|Other contra-indicated drugs|<p>- GTN → Foetal methaemoglobinaemia</p>|
+
+### Pregnancy-Specific Agents
+
+
+|Drug|Pharmacodynamics|Pharmacokinetics|
+| -- | -- | -- |
+|Labetalol|<p>- MoA: Α~1~, β~1~, β~2~ antagonist</p><p>&emsp;- IV α:β 1:7</p><p>&emsp;- PO α:β 1:3</p><p>- Isomers: SS/SR inactive, RS α, RR α and β</p><p>- Membrane-stabilising (VdNaC blockade)</p><p>- Weak ISA</p><p>- SE: Bradycardia, bronchospasm (avoid in asthma)</p>|<p>- IV 20-40mg q2 mins</p><p>- PO 200-400mg bd</p><p>- Onset 2-5 min, duration 2-4h</p><br><p>- A: Oral bioav 25%</p><p>- D: V~D~ 10L/kg, 50% protein bound</p><p>- M: Hepatic, t1/2β 6-8 hours</p><p>- E: Urine</p>|
+|Hydralazine|<p>- Direct acting vasodilator</p><p>- MoA unknown</p><p>- SEs: Tachycardia, myocardial ischaemia, headache, flushing, peripheral oedema, SLE-like syndrome, peripheral neuropathy</p>|<p>- IV 5-10mg q15 min</p><p>- Onset 5-20 min, duration 2-6 h</p><br><p>- A: Oral bioav10-30%</p><p>- D: V~D~ 0.5L/kg, 90% protein bound</p><p>- M: N-acetylation (subject to polymorphism; t1/2β 3-7 hours)</p><p>- E: Urine</p>|
+|Magnesium|<p>- MoA: Physiological antagonist at L-Ca^2+^ channel</p><p>↓ Risk of seizures in pre-eclampsia<br>↓ SVR</p><p>- SE: Sedation, resp depression</p>|<p>- IV 10mmol slow push in severe PET</p><p>- Onset ≤1 min</p><br><p>- D: ICF 30mM, ECF 1mM; bone ++</p><p>- E: Urine, faeces</p>|
+|Nifedipine|<p>- Dihydropyridine peripheral L-Ca^2+^ antagonist</p><p>- Vasodilatation → ↓ SVR</p><p>- SE: Reflex ↑ HR, dizziness, oedema</p>|<p>- PO 10-20mg q6h</p><p>- Onset: 30-45 mins</p><br><p>- A: Oral bioav 90%</p><p>- D: V~D~ 0.7L/kg, 90% protein bound</p><p>- M: Hepatic CYP450</p><p>- E: Urine</p>|
+|Methyldopa|<p>- Prodrug: DBH to α-methylnoradrenaline → Central α~2~ agonist → ↓ SNS outflow</p><p>- Also inhibits DOPA decarboxylase → ↓ DA, NAd</p><p>- SE: Parkinsonism, depression</p>|<p>- 200-400mg bd only</p><p>- Not suitable for crisis</p><br><p>- A: Oral bioav 25%</p><p>- D: V~D~ 0.6L/kg, ≤15% protein bound</p><p>- M: Activation in CNS</p>|
+
+### Other Drugs
+
+
+|Drug|Role|Pharmacology|
+| -- | -- | -- |
+|Alfentanil|<p>- ↓ Pressor response to laryngoscopy</p><p>- MoA: MOP agonist → ↓ SNS output</p>|<p>- IV 10-20μg/kg bolus</p><p>- Peak 1-1.5 min, offset 5 min</p><p>- Offset by distribution</p><br><p>- M: CYP3A4</p><p>- E: Urine</p>|
+|Esmolol|<p>- ↓ Pressor response to laryngoscopy</p><p>- MoA: Β~1~ antagonist → ↓ HR, ↓ contractility → ↓ CO</p><p>- SE: Difficult to titrate analgesics</p>|<p>- Bolus 0.5mg.kg^-1^ over 30 seconds</p><p>- Infusion 0.05-2mg.kg^-1^/min</p><p>- Onset 2-10 mins, offset 10-30mins</p><br><p>- D: V~D~ 3.5L/kg, 60% protein bound</p><p>- M: RBC esterase, Cl 285mL.kg^-1^.min^-1^, t1/2b 10 mins</p><p>- E: Urine</p>|
+
+### Anaesthesia
+
+
+|Method|Description|
+| -- | -- |
+|Neuraxial|<p>- Epidural: Blockade at spinal nerve roots → ↓ SNS output</p><p>- Usually both anaesthetic (local) and analgesic (opioid)</p><p>- Highly effective</p><p>- T5-L2: ↓ SVR, ↓ MAP</p><p>- If T1-4: ↓ HR, ↓ SVR, ↓↓ MAP</p>|
+|General|<p>- e.g. Propofol</p><p>- MoA ↓ MAP: L-Ca^2+^ inhibition, ↑ NO release, ↓ SNS output from medulla</p><p>- SEs: Maternal and foetal anaesthesia, respiratory and cardiovascular depression</p>|
+
+
+--- 
+

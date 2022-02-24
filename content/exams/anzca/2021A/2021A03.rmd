@@ -1,0 +1,76 @@
+# 2021A Question 3
+
+Outline the physiology of blood groupings that allows O negative packed red cells to be safely transfused to most patients.
+
+
+## Examiner Report
+
+68.1% of candidates achieved a pass in this question.
+
+
+The major domains assessed in this question were:
+
+* Physiology of ABO and Rhesus grouping
+* Physiology of Incompatible transfusion reaction
+* Explanation of why O neg blood is safe
+
+
+Credit was given for other relevant correct material.
+
+
+Common problems were:
+
+* Defining Rh status by antibody rather than antigen presence/absence
+* Confusion over IgM and IgG antibodies, which blood group (ABO or Rhesus) they pertain to and which cross the placenta
+* Using vague terminology to describe antigen/antibody reactions without specifying whether the antigen is in the donor or recipient and vice versa
+* Describing group AB as presence of the “AB” antigen rather than the presence of A and B antigens.
+* Confusion over which Rh group can develop Rh antibodies and how these develop
+* Lack of detail on why absence of an antigen/antigens equates with safety
+* Only discussing one part of the question to the detriment of the other part - for example only discussing physiology of blood groups and not why O neg is safe or only discussing why O neg is safe not discussing physiology of blood grouping
+
+
+## Model Answer
+
+Structure:
+
+- Introduction
+- ABO system: Ag, Ab
+- Rhesus system: Ag, Ab
+- O negative red cells
+
+
+### Introduction
+
+- RBC membranes express antigens (Ag)
+- Antibodies (Ab) are produced against non-self RBC Ag following exposure
+- Transfusion safe only if recipient won’t produce Ab against donor Ag
+
+### ABO System
+
+
+|Factor|Property|
+| -- | -- |
+|Antigens|<p>- Carbohydrate Ag</p><p>- Also present in diet</p><p>- Common oligosaccharide foundation = “O antigen”</p><p>- Type A adds N-acetylgalactosamine</p><p>- Type B adds galactose</p><p>- Type AB adds both</p>|
+|Antibodies|<p>- Non-self anti-A, Anti-B developed in first year of life if type O blood (diet exposure)</p><p>- (Anti-O = Bombay is rare)</p><p>- More pentameric IgM</p><p>- More antigenic</p><p>- Doesn’t cross placenta</p><p>- Incompatibility → Intravascular haemolysis (worse)</p><p>- Note no plasma in donor packed RBCs, hence donor’s antibodies unimportant</p>|
+
+### Rhesus System
+
+
+|Factor|Property|
+| -- | -- |
+|Antigen|<p>- Protein Ag</p><p>- Many types (A, a, B, b etc); D most important</p><p>- Non-self Anti-RhD only developed after exposure to RhD+ blood (no diet exposure)</p>|
+|Antibodies|<p>- More monomeric IgG</p><p>- Less antigenic</p><p>- Incompatibility → Extravascular haemolysis (not quite as bad)</p><p>- Does cross placenta (hydrops foetalis)</p><p>- Important to avoid sensitization in females of childbearing potential:</p><p>- First time: Rh- mother, Rh+ neonate → Sensitization</p><p>- Second time: Rh+ neonate, maternal Anti-RhD IgG causes hydrops foetalis, haemolytic Dx of newborn</p>|
+
+### O Negative
+
+
+|Factor|Property|
+| -- | -- |
+|Structure|<p>- RBCs: “O Ag” but no A, B or RhD Ag</p><p>- Plasma has anti-A, anti-B, +/- anti-RhD but these are washed from RBC unit</p>|
+|Universality|<p>- Safe for A,B,O whether D+ or D-</p><p>- Useful in emergency when no time for crossmatch</p>|
+|Exceptions|<p>- Bombay group: Anti-O antibody</p><p>- Other groups: Kell, Kidd, Duffy</p><p>- Importance variable</p><p>- May cause reaction if sensitised</p>|
+
+
+--- 
+
+ 

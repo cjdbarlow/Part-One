@@ -1,0 +1,66 @@
+# 2019B Question 14 
+
+Discuss the role of paracetamol in multi-modal analgesia (33%). Explain paracetamol metabolism and the mechanism of toxicity (67%). DO NOT discuss management of toxicity.
+
+
+## Examiner Report
+
+33.6% of candidates achieved a pass in this question.
+
+
+The major domains assessed in this question were: 1) paracetamol in multimodal analgesia, 2) paracetamol metabolism and 3) paracetamol toxicity. Credit was given for other relevant correct material.
+Common problems/errors were:
+1. Giving the pharmacodynamic and pharmacokinetic data for paracetamol, including its mechanism of action, without relating this information to why paracetamol is used in multimodal analgesia.
+2. Neglecting the major pathway of paracetamol metabolism and only discussing the minor pathway of NAPQI formation.
+3. Confusing glucuronidation/glucuronidate with glutathione.
+4. Wrongly suggesting glutathione ‘metabolises’ NAPQI. Glutathione is a substrate not an enzyme.
+5. Wrongly suggesting glucuronidation is a cytochrome P450 process.
+6. Inadequately explaining the changes in the minor and major pathways with increasing paracetamol levels. (Increased paracetamol dose overwhelms the major pathway so paracetamol is diverted to the minor pathway. This results in increased NAPQI. This only becomes ‘toxic’ when glutathione stores are exhausted.)
+7. Inadequately discussing the mechanism of paracetamol toxicity which is a multifold process.
+
+
+## Model Answer
+
+Structure:
+- Mechanism
+- Role
+- Metabolism
+- Toxicity
+
+### Mechanism
+
+- ↑ 5HT activity → ↑ Descending modulation (multiple receptor subtypes involved)
+- Endocannabinoid reuptake inhibition → Central analgesia, tranquility (paracetamol’s active CNS metabolite AM404)
+- Central COX inhibition: Unclear effect and significance
+- Other: Nitric oxide, opioid pathways
+
+### Role
+
+- First step in the WHO analgesic ladder
+- Minimal side effects, low risk of toxicity
+- Reduces opioid use and opioid side effects
+
+### Metabolism
+
+- Phase 2
+	- Glucuronidation ~55%
+	- Sulfation ~35%
+- Phase 1
+	- CYP450 to NAPQI (N-acetyl P-benzquinonimine) ~10%
+
+
+### Toxicity
+
+- With normal doses:
+	- NAPQI + glutathione → Cysteine conjugate, mercaptopuric acid conjugate
+- With high dose:
+	- Conjugation pathways saturated
+	- ↑ NAPQI production
+	- Glutathione exhausted (earlier if malnourished)
+	- ↑ NAPQI accumulation
+	- Damage to hepatic proteins
+	- Centrilobular necrosis
+	- Acute liver failure
+
+--- 
+

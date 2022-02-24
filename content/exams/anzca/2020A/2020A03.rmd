@@ -1,0 +1,68 @@
+# 2020A Question 03 
+
+Discuss possible causes of for the PaCO~2~ differing from EtCO~2~ in an anaesthetized, intubated patient on IPPV.
+
+
+## Examiner Report
+
+This question examines a fundamental concept in general anaesthesia, which trainees are faced with on a daily basis. In order to achieve a pass mark, candidates needed to explain the most common reason for a difference between PaCO2 and ETCO2, which is the creation of alveolar dead space. It was expected that one or more causes of alveolar dead space during IPPV would be noted, as well as the mechanism linking alveolar dead space to a decreased ETCO2 being mentioned.
+
+
+In addition, candidates should have explained one further mechanism resulting in a difference (in either direction) between PaCO2 and ETCO2. Candidates who selected a cause which allowed them to show greater depth of understanding were more likely to pass. Higher marks were awarded for additional points which were correctly discussed. Commonly selected causes included heterogeneity of alveolar time constants (and their relationship to expiratory time), very low tidal volumes, collision broadening, overlapping of absorption spectra, entrainment of atmospheric air into the sample line, calibration problems, and problems related to ABG sampling. Finally, additional credit was given for recognition of the normal values for PaCO2 and ETCO2 in a healthy individual in both the awake state and also during IPPV.
+
+
+A very common error was the confusing of alveolar with anatomical dead space (often in combination with conflating ETCO2 with mixed expired PCO2, generally by misremembering or misunderstanding Bohr’s law or its modification). Another frequent mistake was attempting to use Fick’s law as a basis for generating a list of causes (as the high solubility of CO2 usually completely compensates for any perturbations in all the other factors identified by this law). Equally frequent was the erroneous belief that shunt can cause a significant discrepancy between PaCO2 and ETCO2. Other common errors included claiming that an increased production rate of CO2 (through a number of mechanisms) would lead to a difference; or that increased FiCO2 does also. Marks were often lost through candidates’ use of directionless statements, and listing rather than discussing causes. A number of candidates wasted time on irrelevant material such as the transport of CO2 in the blood, while others drew multiple graphs which they did not then use to display any understanding of the topic.
+
+
+## Model Answer
+
+Causes:
+
+- Dead space
+- Incomplete alveolar emptying
+- Measurement error
+- Sampling error
+
+### Dead Space
+
+
+|Factor|Detail|
+|--|--|
+|Definition|That portion of the tidal volume that does not undergo gas exchange|
+|Components|<p>- Apparatus dead space (circuit distal to Y piece)</p><p>- Physiological DS:<p>&emsp;- Anatomical dead space (conducting airways)</p><p>&emsp;- Alveolar dead space (non-perfused alveoli; most important)</p>|
+|Pathophysiology|<p>- Ideal alveolus: PACO~2~ = PaCO~2~ ≈40mmHg</p><p>- Dead space: PACO~2~ ≈ 0.4mmHg</p><p>- End-tidal air is a mix of each, hence EtCO~2~ < PaCO~2~</p><p>- Accounts for difference in health of 2-5mmHg</p>|
+|Measurement|<p>Total:</p><p>- Bohr equation V~D~/VT = (PACO~2~ – PECO~2~) / PACO~2~</p><p>- Enghoff mod: Substitute PaCO~2~ for PACO~2~ (assumes steady state, minimal shunt)</p><br><p>Apparatus:</p><p>- Estimable, or measurable using product information</p><br><p>Anatomical:</p><p>- Fowler’s method</p><p><img src="resources/fowlers-method.svg"></p><br><p>Alveolar:</p><p>Alveolar = total – anatomical – apparatus</p>|
+|Alveolar DS|<p>a.k.a. West Zone 1:</p><p>- PA > Pa > Pv</p><p>- Hence vascular collapse</p><p>- Small volume near apices in health when upright</p><br><p>↑ PA if:</p><p>- IPPV (∝ airway pressure)</p><br><p>↓ Pa if:</p><p>- Pulmonary vasodilators (e.g. Milrinone)</p><p>- Negative inotropes (e.g. Propofol)</p><p>- Reduced venous return (e.g. Hypovolaemia)</p><br><p>Effect of GA:</p><p>- ↔ Non-ventilated alveoli</p><p>- ↑ Hypoventilated alveoli (due to maldistribution of V and Q)</p>|
+|Anatomical DS|<p>Cause of absolute increase:</p><p>- ↑ Tidal volume (plateau at VT ~350mL)</p><p>- Bronchodilation (sevoflurane, pregnancy)</p><br><p>Cause of absolute decrease:</p><p>- ↓↓ Tidal volume</p><p>- Axial streaming</p><p>- Cardiac impulse → Mixing</p><p>(Note ↓ VT increases relative dead space)</p><p>- LMA or ETT (bypasses upper airway)</p>|
+|Apparatus DS|<p>- Device and tubing distal to Y junction</p><p>- Important in small children</p><p>- ETT/LMA: V~D~ is 1/2 of VT</p><p>- Face mask: V~D~ is 2/3 of VT</p>|
+
+### Incomplete Alveolar Emptying
+
+
+|Factor|Detail|
+|--|--|
+|Causes|<p>- ↑ Variation in time constants (e.g. Asthma, COPD)</p><p>- ↓ Expiratory time (↑ RR, ↓ IE ratio)</p><p>(especially if both are present)</p>|
+|↑ Variation in time constants|<p>- Time constant (τ) = resistance x compliance</p><p>- Slow lung units: ↑ R,↑ C</p><p>&emsp;- Slow rate of change</p><p>&emsp;- ↓ Ventilation</p><p>&emsp;- ↑ PCO~2~</p><br><p>Empties late in expiration</p><p>- Fast lungs units: ↓ R,↓ C</p><p>&emsp;- Fast rate of change</p><p>&emsp;- ↑ Ventilation</p><p>&emsp;- ↑ PCO~2~</p><br><p>Empties early in expiration</p><p>- Hence variation → ↑ Α angle</p>|
+
+### Measurement Error
+
+
+|Factor|Detail|
+|--|--|
+|Confusion|<p>- N~2~O 4.5nm, CO 4.7nM (causes falsely high pCO~2~) </p><p>- H~2~O vapour absorbs widely (causes falsely high pCO~2~)</p><p>- Inhaler propellant and halothane</p><p>- FIX: Reference chamber AND water trap</p>|
+|Collision broadening|<p>- Widening of the absorption peak for a gas when in the presence of another</p><p>- Due to collision between molecules raising their energy level</p><p>- 50% N~2~O widens CO~2~’s absorption peak by 10%</p><p>- FIX: Use reference chambers</p>|
+|Ram-gas effect|<p>- Pressure-drop across the sampling line</p><p>- ↓ Total pressure inside sample chamber → ↓ CO~2~ partial pressure</p>|
+|Calibration failure|- FIX: Auto regular three point calibration|
+
+### Sampling Error
+
+
+|Factor|Detail|
+|--|--|
+|Dilution by FGF|<p>- Sampling of FGF may occur in expiration if high RR and low VT</p><p>- e.g. Neonates and young children</p>|
+|Disconnection|<p>- Complete disconnection: Ambient air</p><p>- Partial disconnection: Entrainment of some room air</p>|
+|Blockage|- By water condensation|
+
+
+--- 
+

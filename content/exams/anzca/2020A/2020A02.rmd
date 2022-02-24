@@ -1,0 +1,53 @@
+# 2020A Question 02 
+
+Compare and contrast povidone iodine and alcoholic chlorhexidine as skin antiseptic agents.
+
+
+## Examiner Report
+
+This question was asking about two commonly used peri-operative antiseptic agents. The domains covered were similar to most previously asked pharmacology questions and covered physicochemistry, action, activity and adverse effects. This paper displayed a lack of knowledge of these two substances in the majority of candidates. A useful reference for this material would be in Katzung “Basic and Clinical Pharmacology” or Stoelting “Pharmacology and Physiology in Anesthetic Practice”.
+
+
+## Model Answer
+
+
+|General|Povidone Iodine|Alcoholic Chlorhexidine|
+| -- | -- | -- |
+|Ingredients|<p>Polyvinylpyrrolidone (polymer)</p><p>Diatomic iodine</p><p>10% w/v</p>|<p>Chlorhexidine gluconate (0.5%)</p><p>Isopropanol 70%</p>|
+|Mechanism|Oxides proteins, nucleotides|Both disrupt the cell membrane|
+
+|Antimicrobial Effect|Povidone Iodine|Alcoholic Chlorhexidine|
+| -- | -- | -- |
+|Bacteria|Yes (G+ > G-)|Yes|
+|Viruses|Yes (less so)|Yes|
+|Fungi|Yes|Yes|
+|Spores|Yes|No|
+|Resistance|No|Yes|
+
+|Time course|Povidone Iodine|Alcoholic Chlorhexidine|
+| -- | -- | -- |
+|Onset|Slower|Faster (alcohol kills quickly)|
+|Duration|Long (releases iodine slowly)|Long (chlorhex binds epidermis, prevents regrowth)|
+|Inactivation by body fluids|Yes (apply to clean skin only)|No|
+
+|Efficacy|Povidone Iodine|Alcoholic Chlorhexidine|
+| -- | -- | -- |
+|Surgical site|Less effective|More effective (risk ↓ ~40%)|
+|Vascular access site|Less effective|More effective (risk ↓ ~50%)|
+
+|Toxicity|Povidone Iodine|Alcoholic Chlorhexidine|
+| -- | -- | -- |
+|Brain & neuraxis|Less (but max 0.5% skin prep)|More|
+|Middle ear|Less|More|
+|Cornea|Less|More|
+|Mucous membrane|Less|More|
+|Abdominal viscera|Less|More|
+
+|Other AEs|Povidone Iodine|Alcoholic Chlorhexidine|
+| -- | -- | -- |
+|Flammability|No|Yes (alcohol). Must allow to dry.|
+|Allergy/anaphylaxis|<p>Less common</p><p>(to povidone, not iodine)</p>|More common|
+
+
+--- 
+

@@ -1,0 +1,40 @@
+# Magnesium
+
+
+Mg^2+^ is a cation that is important for neurotransmission and neuromuscular excitability. Magnesium:
+
+* Inhibits ACh release at the NMJ
+* Acts a cofactor in multiple enzyme systems
+* Is important in the production of:
+    * ATP
+    * DNA
+    * RNA
+
+|Property|Action|
+|--|--|
+|**Uses**|HypoMg, arrhythmia, eclampsia, tocolysis, barium poisoning, asthma, tetanus, autonomic hyperreflexia|
+|**Presentation**| 2mmol.ml^-1^, made up into 10mmol in 100ml for peripheral administration|
+|**Route of Administration**|PO/IV|
+|**Dosing**|IV: 10-20 mmol|
+|**Distribution**| 30% protein bound|
+|**Elimination**|Significant urinary excretion, even when deficient|
+|**Resp**|Bronchodilation
+|**CVS**|↓ SVR, hypotension, ↓HR
+|**CNS**|CNS depression, anticonvulsant|
+|**GU**|↓ Uterine tone and contractility|
+
+## Clinical Effects of Magnesium
+
+|[Plasma]|Effect|
+|--|--|
+|< 0.7 mmol.L^-1^| Arrhythmia|
+|4-6 mmol.L^-1^|Nausea, **hyporeflexia**, speech impairment|
+|6-10 mmol.L^-1^|Weakness, respiratory depression, bradycardia|
+|> 10 mmol.L^-1^|Cardiac arrest|
+
+---
+## References
+
+1. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+2. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.\
+3. Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.

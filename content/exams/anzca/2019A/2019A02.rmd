@@ -1,0 +1,78 @@
+# 2019A Question 02 
+
+Describe the cardiovascular changes that occur with ageing.
+
+
+## Examiner Report
+
+The question asked about the cardiovascular effects of ageing. These should be differentiated from the effects of cardiovascular pathology, which are more prevalent as age increases. Discussing pathology, in the absence of a discussion on the effects of ageing per se, failed to attract marks.
+
+To achieve a pass in this question, candidates were required to demonstrate a broad understanding of the effects of ageing on both the heart and the vascular system. An exhaustive list of factual information alone was insufficient to gain high marks. Candidates who omitted one of these systems entirely found it difficult to pass the question.
+
+
+Good answers, attracting additional marks, included discussion of how these physiological changes affect cardiovascular function. Excellent answers included discussion of how these changes affect the capacity to compensate with physiological perturbations.
+
+## Model Answer
+
+Structure:
+- Introduction
+- Heart
+- Blood vessels
+- Haemodynamics
+- Autonomics
+- Conduction
+
+### Introduction
+
+- Ageing: Gradual time-dependent loss of cellular function and physiological reserve, resulting in death
+- Overall: ↓ CVS reserve. CVS decline attenuated with training.
+
+### Heart
+
+
+|Variable|Detail|
+| -- | -- |
+|Structure|<p>- Concentric LV hypertrophy</p><p>&emsp;- (Stiff aorta = ↑ LV afterload)</p><p>&emsp;- ↑ Force of contraction</p><p>&emsp;- ↓ Compliance</p><p>&emsp;- ↑ LVEDP</p><p>- Hypoplasia</p><p>&emsp;- Apoptosis and necrosis</p><p>&emsp;- ↓ Force of contraction</p>|
+|Systolic function|<p>- Less common; LVH offsets hypoplasia</p><p>- But ↑ energy required due to ↑ afterload</p>|
+|Diastolic function|<p>- Very common</p><p>- LVH → ↓ Compliance → ↑ Filling pressure required</p><p>→ Poor tolerance of hypovolaemia, PPV</p><p>→ More dependent upon atrial kick (↑ risk AF)</p>|
+|Pre-conditioning|<p>- Mechanism: Activation of sarcolemmal and mitochondrial K^+^-ATP channels → Hyperpolarisation → ↓ ICF [Ca^2+^]</p><p>- Attenuated with ageing</p>|
+|Common comorbidities|<p>- Ischaemic heart disease</p><p>&emsp;- Poor tolerance of tachycardia e.g. Laryngoscopy, extubation</p><p>- Cardiomyopathies:</p><p>&emsp;- Poor tolerance of ↓ inotropes e.g. Propofol</p><p>- Valvular pathology</p><p>&emsp;- Poor tolerance of vasodilators e.g. Propofol</p><p>- Arrhythmias</p>|
+
+### Vasculature
+
+
+|Variable|Detail|
+| -- | -- |
+|Structure|<p>- Atherosclerosis</p><p>- Intima thickened, fibrotic</p><p>- Media thickened, less elastin</p><p>- Vessels dilated, elongated, tortuous</p>|
+|Function|<p>- Impaired NO release</p><p>- Impaired relaxation / autoregulation</p><p>- ↑ SVR</p><p>- ↑ PVR and ↑ heterogeneity of perfusion</p>|
+|Common comorbidities|<p>- Atherosclerosis: Build-up of fat, cholesterol, calcium in vessel walls</p><p>- Aneurysms: Due to dilatation, ↑ tension (LaPlace’s law)</p>|
+
+### Haemodynamics
+
+
+|Variable|Detail|
+| -- | -- |
+|Heart rate|<p>- ↓ Resting HR</p><p>- ↓ Max HR = 220 – (age x 0.7)</p>|
+|Cardiac output|<p>- At rest: Variable ↓ </p><p>&emsp;- Remains proportional to lean mass</p><p>&emsp;- Attenuated if fit</p><p>- In exercise: ↓ 20%</p><p>&emsp;- Multifactorial</p><p>&emsp;- Poor tolerance of stress, SIRS, major surgery</p>|
+|Blood pressure|<p>- ↑ Systolic BP, ↓ diastolic BP, ↑ pulse pressure</p><p>&emsp;- ↓ Elastin, ↓ compliance, ↓ Windkessel effect</p><p>- ↑ Pulse wave velocity</p><p>&emsp;- ↓ Aortic-radial delay</p><p>&emsp;- May contribute to ↑ afterload</p>|
+
+### Autonomics
+
+
+|Variable|Detail|
+| -- | -- |
+|Cellular changes|<p>- ↓ β~1~ adrenoceptors</p><p>- ↓ Post-adrenoceptor signaling</p><p>- ↓ Catecholamine re-uptake</p><p>- ↑ Circulating [noradrenaline]</p>|
+|Functional changes|<p>- ↓ HR, contractility reserve</p><p>- ↓ Ability to vasoconstrict/-dilate</p><p>- ↓ Baroreceptor response, and delayed</p>|
+|Implications|<p>- ↓ Tolerance of Valsalva, PPV, hypovolaemia</p>|
+
+### Conduction
+
+
+|Variable|Detail|
+| -- | -- |
+|Structure|<p>- Fatty and fibrous infiltration of SA node, AV node, bundle branches</p><p>- ↓ Pacemaker cells in SA and AV nodes (50% age 20, 10% age 75)</p>|
+|Function|<p>- Risk of sick sinus syndrome, AV block</p><p>- Risk of AF due to LA enlargement</p>|
+
+
+--- 
+

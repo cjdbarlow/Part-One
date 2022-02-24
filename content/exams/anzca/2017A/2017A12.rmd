@@ -1,0 +1,83 @@
+# 2017A Question 12 
+
+
+Discuss the physiological consequences of total spinal anaesthesia caused by intrathecal administration of 20mL 2% lignocaine at L3/4 level. (Do not include management)
+
+
+## Examiner Report
+
+29.2 % of candidates achieved a pass in this question.
+
+
+This question was best addressed with a systems-based approach. Marks were given for
+discussion of the onset, duration and offset of these side effects. Most candidates gave a
+description of the cardiovascular and respiratory consequences from sympathetic blockade,
+and effects at the thoracic, cervical and brainstem level. Frequently omitted effects included
+the consequences of specific blockade of motor and sensory functions of cranial and peripheral
+nervous systems. Marks were also awarded for CNS effects such as about pupil changes,
+thermoregulation, and changes to airway reflexes.
+
+
+Discussion about management, systemic toxicity or other complications related to spinal
+anaesthesia did not score marks.
+
+## Model Answer
+
+Structure:
+- Introduction
+- Nervous
+- CVS
+- Resp
+- Other
+
+### Introduction
+
+
+|Factor|Detail|
+| -- | -- |
+|Dose|<p>- 20mg/mL x 20mL = 400mg = 5.7mg.kg^-1^</p><p>(exceeds toxic subcut dose)</p>|
+|Effects|<p>- CSF effects >> systemic effects</p><p>- Blockade of lumbar cord → Thoracic → Cervical → Brainstem</p>|
+|Time course|<p>- Total spinal within ~10 mins</p><p>- Duration ~ 2 hours (shorter than many operations)</p>|
+
+### Nervous System
+
+
+|Region|Detail|
+| -- | -- |
+|Lower body|<p>- Sensory and motor loss</p><p>- Muscle relaxation facilitates surgical access</p>|
+|<p>Upper body</p><p>Head and neck</p>|<p>- Sensory > motor loss</p>|
+|Cranial nerves|<p>- CNX (pharynx and larynx for intubation)</p><p>- CNIII EW (mydriasis)</p>|
+|Medulla|<p>- Block ascending reticular activating system → Coma</p>|
+|Delayed complications|<p>- Risk of transient neurological symptoms</p><p>&emsp;- Buttock and thigh pain without neuro deficit)</p>|
+
+### Cardiovascular
+
+
+|Region|Detail|
+| -- | -- |
+|Lumbar and low thoracic level|<p>- Venodilatation → ↓ Preload (exacerbated by hypovolaemia)</p><p>- Vasodilatation → ↓ SVR</p><p>- ↓ MAP</p><p>- Reflex ↑ HR may be significant (baroreceptor response)</p>|
+|High thoracic and cervical level|<p>- ↓ HR and ↓ contractility (acceleromotor T1-4)</p><p>- ↓↓ MAP</p><p>- Absent baroreceptor response</p>|
+|Brainstem level|<p>- Zero SNS output (RVLM), zero PSNS output (dorsal motor nucleus and nucleus ambiguus)</p><p>- ↓↓ MAP</p><p>- HR at intrinsic SA node rate 110bpm, absent baroreceptor response</p>|
+
+### Respiratory
+
+
+|Region|Detail|
+| -- | -- |
+|Thoracic level|- Intercostal paralysis|
+|Upper cervical level|<p>- C3-5: Diaphragm paralysis</p><p>- (Note phrenic nerve is large and resistant to blockade)</p>|
+|Brainstem level|<p>- CNIX, X: ↓↓ Airway reflexes, glottic opening, risk aspiration if unprotected</p><p>- CNIII: Dilated pupils</p><p>- Medulla: Paralysed resp centre, apnoea</p>|
+
+### Other
+
+
+|System|Detail|
+| -- | -- |
+|Musculoskeletal|<p>- ↓↓ Muscle tone → Improved surgical access</p>|
+|GIT|<p>- ↓ PSNS output → ↓ GIT activity</p>|
+|Temp|<p>- Vasodilatation, venodilatation, → Peripheral heat distribution → ↑↑ Heat loss</p>|
+|Systemic effect|<p>- Risk of CVS toxicity: Conduction delay, re-entrant tachyarrhythmias, arrest</p>|
+
+
+--- 
+

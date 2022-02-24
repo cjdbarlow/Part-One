@@ -1,0 +1,28 @@
+# Adenosine
+
+
+Adenosine acts via A~1~ adenosine receptors in the SA and AV node, which when stimulated open K^+^ channels causing hyperpolarisation and a reduction in Ca^2+^ current, with subsequent blockade of AV nodal conduction.
+
+|Property|Action|
+|--|--|
+|**Class**|Naturally occurring purine nucleoside|
+|**Uses**|SVT|
+|**Presentation**|Colourless solution at 3mg.ml^-1^|
+|**Route of Administration**|IV|
+|**Dosing**|3mg/6mg/12mg in increasing doses|
+|**Metabolism**|Rapidly deaminated in plasma. t~1/2~ < 10s|
+|**Resp**|Bronchospasm, ↑ RR and V~T~|
+|**CVS**|↓↓ AV nodal conduction, may cause AF/lutter|
+|**Toxic Effects**|Contraindicated in sick-sinus syndrome, 2^nd^/3^rd^ degree AV block|
+
+## Interactions
+
+|Interaction|Drug|
+|--|--|
+|Increased effect|Dipyridamole|
+|Decreased effect|Methylxanthines, such as aminophylline and caffeine|
+
+---
+## References
+
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.\

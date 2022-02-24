@@ -1,0 +1,48 @@
+# 2019A Question 07 
+
+Explain how a metabolic acidosis develops in hypovolaemic shock. Describe the consequences of this metabolic acidosis for the body.
+
+
+## Examiner Report
+
+41.4% of candidates achieved a pass in this question.
+
+This question consisted of two parts, with marks being divided equally. In order to pass, candidates needed to briefly demonstrate an understanding of: The effects of hypovolaemic shock on the delivery of oxygen to tissues; the effect of hypoxia on oxidative phosphorylation; and the details of the glycolytic pathway leading to increased production of lactic acid in the presence of hypovolaemic shock.
+
+The second part of the question was commonly interpreted as either pertaining to the effects of acidaemia on various organ systems, or to the body’s response to that acidaemia (buffering/compensation/correction). It was possible to achieve a passing mark using either approach, by displaying sufficient appreciation for the relevant mechanisms and significance of each relevant area, in the time allowed. Additional credit was awarded for demonstration of higher-level comprehension.
+
+No marks were awarded for discussion of: The effects of hypovolaemic shock unrelated to acidaemia; other acidoses or their classification; or the treatment of shock or acidaemia.
+
+Many candidates offered confused or partial definitions of metabolic acidosis. Other common errors included confusion over which chemoreceptors respond to acidaemia (and how), and lack of clarity over competing effects on the cardiovascular system of increased sympathetic nervous system activity and the direct effects of acidosis. Many candidates failed to specify any details of anaerobic glycolysis.
+
+## Model Answer
+
+Structure:
+- Hypovolaemic shock
+- Organ effects
+
+### Hypovolaemic Shock
+
+
+|Factor|Detail|
+| -- | -- |
+|Definition|<p>- Reduction in blood volume resulting in failure of the circulation to meet tissue metabolic requirement</p><p>- Occurs at ~20% loss</p>|
+|Pathophysiology|<p>- ↓ Blood volume (BV) → ↓ Preload → ↓ Cardiac Output → ↓ MAP → ↓ Tissue perfusion → Stagnant hypoxia</p><p>- ↓ Oxidative phosphorylation, ↓ Krebs cycle activity</p><p>- Pyruvate converted to lactate to regenerate NAD+</p><p>- (Anaerobic) glycolysis continues</p>|
+|Exacerbating factors|<p>- ↑ Cardiac work: SNS → ↑ HR, ↑ Contractility, ↑ MvO~2~ → ↑ Lactic acid production</p><p>- ↑ Resp work: ↓ pH → ↑ Minute ventilation → ↑ Resp VO~2~ → ↑ Lactic production<br>  ↓ Liver Perfusion → ↓ Clearance of lactic acid</p>|
+
+
+### Organ Effects of Hypovolaemic Shock
+
+
+|System|Detail|
+| -- | -- |
+|Cardiovascular|<p>- ↓ BV:</p><p>&emsp;- ↓ Preload → ↓ CO → ↓ MAP and ↓ DBP</p><p>&emsp;- Note coronary autoregulation fails below aortic root DBP 60mmHg</p><p>- ↓ PH:</p><p>&emsp;- Inhibition of L-Ca^2+^ and SERCA → ↓ Inotropy (predominates at pH ≤7.2)</p><p>&emsp;- Risk of arrhythmia, arrest</p><p>&emsp;- Systemic vasodilation, pulmonary vasoconstriction</p><p>- ↑↑ SNS: </p><p>&emsp;- ↑ HR, ↑ Inotropy, ↑ MVO~2~ (predominates at pH >7.2)</p><p>&emsp;- Systemic and pulmonary vasoconstriction</p><p>&emsp;- Autotransfusion from capacitance vessels (skin, gut, liver, spleen, lung)</p><p>- ↑ Myocardial O~2~ demand, ↓ O~2~ supply → Ischaemia (Type 2)</p>|
+|Respiratory|<p>- ↓ BV:</p><p>&emsp;- ↑ Z1 of lung → ↑ Dead space → ↓ EtCO~2~</p><p>- ↓ PH</p><p>&emsp;- ↑ Peripheral chemoreceptor activity → ↑ MV (doubles for each ↓ 0.1 pH)</p><p>&emsp;- Right shift OHDC (↑ [H+], ↑ [2,3-DPG]</p><p>&emsp;- (Partly offset by left shift due to respiratory alkalosis)</p>|
+|CNS|<p>- ↓ BV:</p><p>&emsp;- CNS Ischaemia → 1° and 2° HIBI (failure of autoregulation at CPP ≤50mmHg)</p><p>&emsp;- Confusion, coma, apnoea, death</p><p>&emsp;- ↑↑ SNS output from medulla (central ischaemic response)</p>|
+|Kidneys|<p>- ↓ BV → ↓ MAP:</p><p>&emsp;- Autoregulation MAP 70-175</p><p>&emsp;- Hence ↓↓ MAP → ↓ GFR → Oliguria</p><p>&emsp;- If prolonged: ATN, Renal failure</p><p>- ↓ PH:</p><p>&emsp;- ↑ HCO3 reabsorption especially distal nephron (CNT/CCD/MCD)</p><p>&emsp;- ↑ Phosphoric acid excretion</p><p>&emsp;- ↑ NH~4~^+^ production → ↑ HCO~3~^-^ reabsorption</p>|
+|Liver|<p>- ↓ BV → ↓ MAP → Ischaemia</p><p>- ↓ PH: Lactic acid → Glucose (Cori cycle)</p>|
+|Metabolic|<p>- ↑ [K^+^]: Due to H+/K^+^ exchange across cells</p><p>&emsp;- +0.6mmol.L^-1^ K^+^ for each -0.1 in pH</p><p>- ↑ [Ca^2+^]: Due to ↑ H+/Ca^2+^ exchange with bone</p>|
+
+
+--- 
+

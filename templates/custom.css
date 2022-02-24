@@ -1,0 +1,10 @@
+.sidenote-number, label.margin-toggle.sidenote-number {
+    display: none;
+}
+
+div.section > p > img {
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

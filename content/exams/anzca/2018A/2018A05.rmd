@@ -1,0 +1,90 @@
+# 2018A Question 05 
+
+List the desired and adverse effects of opioids and the corresponding anatomical location of the receptors being acted upon.
+
+
+## Examiner Report
+
+29% of candidates achieved a pass in this question.
+
+
+In order to achieve a satisfactory mark, candidates need to identify a range of desired and/or adverse effects of opioids and make some attempt at the location of the opioid receptors being activated to produce these effects. Analgesia needed be mentioned, including supraspinal and spinal location of opioid receptors. An understanding that effects such as sedation, dysphoria, euphoria, tolerance and addiction involve activation of widespread opioid receptors within the brain, should be appreciated. Also, there should be an understanding that not all opioid effects are centrally mediated. Better candidates mentioned cardiovascular effects of opioids, miosis, skeletal muscle rigidity, immunosuppressive and hormonal effects of opioids and described the mechanism by which these effects occur.
+
+
+Candidates who followed a systems approach did better. Common errors included: not listing effects (as stated in the question) or listing opioid receptor subtypes and describing their location without correlating receptor location to effect.
+
+## Model Answer
+
+Structure:
+- Opioids and receptors
+- CNS effects
+- CVS effects
+- Resp effects
+- Other effects
+
+### Opioids and Receptors
+
+
+|Term|Details|
+| -- | -- |
+|Definitions|<p>- Opioid: A drug acting via opioid receptors</p><p>(cf. opiate: A naturally occurring derivative of the opium poppy (papaver somniferum)</p>|
+|Opioid Receptor|<p>- G-inhibitory protein-coupled receptor</p><p>- ↓ CAMP, ↓ VDCC activation, ↑ K^+^ efflux</p><p>- ↓ Action potential formation</p>|
+|Opioid Receptor subtypes|<p>- M 1, 2: Most opioid effects</p><p>- K 1, 2, 3: Spinal analgesia, sedation, miosis</p><p>- D 1,2: Spinal analgesia, respiratory depression</p><p>- NOP: Role unclear</p>|
+
+### Central Nervous System
+
+
+|Effect|Receptor|Location (Drug)|
+| -- | -- | -- |
+|Supraspinal Analgesia|M|<p>- Peri-aqueductal gray area</p><p>- Nucleus raphe magnus</p><p>- Rostral ventromedial medulla</p><p>- Cerebral cortex</p>|
+|Spinal Analgesia|M, K, D|<p>- Layers 1,2 of dorsal horn</p><p>- Pre-synaptic terminal of nociceptors</p>|
+|Peripheral Analgesia|M|<p>- Peripheral sensory neurons</p><p>- Function unclear</p>|
+|Hyperalgaesia|TLR~4~|<p>- WBCs</p><p>- (Remifentanil’s carboxylic acid metabolite)</p>|
+|Anti-hyperalgaesia|NMDA|<p>- Post-synaptic, dorsal horn</p><p>- Short term: ↓ Excitability = ↓ Wind up</p><p>- Long term: ↓ Synaptic reinforcement, ↓ Long term potentiation</p><p>- (Methadone, tramadol)</p>|
+|Descending inhibition|Monoamine transporters|<p>- 5-HT and NAd reuptake inhibition</p><p>- ↑ Descending modulation of dorsal horn</p><p>- Especially layers 2, pre-synaptic inhibition</p><p>- (Tramadol, tapentadol, methadone)</p>|
+|Local Anaesthetic|VdNaC|<p>- Sensory neurons</p><p>- (Pethidine)</p>|
+|Sedation|M, K|<p>- Ascending reticular activating system</p><p>- ↓ Release of glutamate, NAd, ACh, 5HT etc</p>|
+|Miosis|M, K|<p>- Nucleus of Edinger-Westphal of CNIII</p>|
+|Euphoria, dysphoria, addiction|M, K|<p>- Limbus, nucleus accumbens</p>|
+|Hallucinations|M|?|
+|Tolerance|M|<p>- Receptor, intracellular</p>|
+|Anxiety, depression|NOP|<p>- ?Limbic system</p>|
+|Appetite modulation|NOP|<p>- ?Hypothalamus</p>|
+|Seizures|Monoamine transporters|<p>- (Tramadol, norpethidine): ↓ 5-HT reuptake</p><p>- (Morphine-3-glucuronide): ?Mechanism</p>|
+|Cognitive Dysfunction|?|<p>- (Norpethidine)</p><p>- (Morphine-3-glucuronide)</p>|
+|Nausea, vomiting|<p>M</p><p>5-HT</p>|<p>- Chemoreceptor trigger zone</p><p>- (Serotonin: Pethidine, tramadol)</p>|
+|Serotonin Syndrome|N/A|<p>- (Tramadol, norpethidine, methadone 5HT reuptake)</p>|
+
+### Cardiovascular
+
+
+|Effect|Subtype|Location (Drug)|
+| -- | -- | -- |
+|↓ SNS Outflow: ↓ HR, ↓ SVR, postural ↓ MAP|M|<p>- SNS: Rostral ventrolateral medulla</p>|
+|↑ Vagal: ↓ HR|M|<p>- PSNS: Dorsal motor nucleus, nucleus ambiguus</p><p>- Morphine more than others</p>|
+|↑ HR|mAChR|<p>- Post-ganglionic neuron in cardiac plexus</p><p>- (Pethidine – antagonist)</p>|
+
+### Respiratory
+
+
+|Effect|Receptor|Location (Drug)|
+| -- | -- | -- |
+|<p>↓ RR > ↓ VT</p><p>↓ MV response to ↑ PaCO~2~ (R shift, ↓ slope)</p><p>↓ MV response to ↓ PaO~2~ (less affected)</p>|<p>M, D</p><p>M</p>|<p>- Medulla respiratory centre</p><p>- Peripheral and central chemoreceptors</p>|
+|↓ Airway reflexes, anti-tussive, ETT tolerance|?|<p>- Medulla</p>|
+|Chest wall rigidity|M|<p>- GABA-ergic neurons in basal ganglia</p>|
+|↓ Cilia activity|?|<p>- Respiratory epitheilum</p>|
+
+### Other
+
+
+|Effect|Receptor|Location (Drug)|
+| -- | -- | -- |
+|<p>↓ GIT Motility</p><p>↓ GIT sphincter tone</p>|M|<p>- GIT, medulla</p>|
+|Urinary Retention|?|<p>- Spinal cord</p>|
+|<p>Pituitary Dysfunction</p><p>↓ ADH/ACTH/PRL/FSH/LH</p><p>Hypogonadism</p><p>Osteoporosis</p>|?|<p>- Hypothalamus, pituitary</p>|
+|Immune Suppression|?|<p>- WBCs</p>|
+|Histamine Release|?|<p>- Mast cells</p><p>- (Morphine)</p>|
+
+
+--- 
+

@@ -1,0 +1,60 @@
+# 2021A Question 2
+
+Describe the individual effects of propofol and sevoflurane on the cerebral metabolic rate of oxygen consumption (CMRO~2~) and cerebral blood flow (CBF).
+
+
+## Examiner Report
+
+35.9% of candidates achieved a pass in this question.
+
+
+The major domains assessed in this question were:
+
+* The effect of propofol on CMRO2
+* The effect of propofol on CBF
+* The effect of sevoflurane on CMRO2
+* The effect of sevoflurane on CBF
+
+
+Both agents decrease CMRO2 by inhibition neuronal activity through enhanced GABA mechanisms. The maximum reduction is 50-60% because a baseline of 40% CMRO2 is required for neuronal maintenance.
+
+
+Significant weight was given to a clear demonstration of:
+
+1. The triphasic nature of the MAC/CBF relationship for sevoflurane
+2. A clear description of the direct association of decreased CMRO2 caused by propofol with a proportional decrease in CBF due to flow metabolism coupling.
+
+
+The commonest misconception was that a decrease in CBF associated with propofol was due to its systemic circulatory effects causing hypotension. This is only relevant at the lower limit of the auto regulatory curve. A number of candidates suggested that reduction in CBF caused by propofol was “prevented” because auto regulation “was preserved”. Some candidates suggested that the CMRO2 is determined by CBF, reflecting a major misunderstanding of cerebral physiology.
+
+
+Discussions of other physiological or pathological factors affecting CBF and CMRO2 not relating to the effect of propofol or sevoflurane did not attract marks.
+
+## Model Answer
+
+
+### Sevoflurane
+
+
+|Relationship|Detail|
+| -- | -- |
+|CMRO~2~ vs MAC|<p>- Dose-dependent reduction in electrophysiological function (60% of total)</p><p>- No effect on basal function (40% of total) – only reduced by hypothermia</p><p><img src="resources/cbf-cmro2-sevo.svg"><p>- Exponential decay → Greater effect at low dose</p>|
+|CBF vs CMRO~2~|<p>- Dose-dependent vasodilatation (↓ L-Ca^2+^ activity, ↑ NO activity)</p><p>- Coupling of CBF and CMRO~2~ impaired (not ablated)</p><p><img src="resources/cbf-cmro2-volatile.svg"></p><p>- Slope ∝ dose → Greater effect at high dose</p>|
+|CBF vs MAC|<p>- At low concentration: Indirect vasoconstriction (via ↓ CMRO~2~) wins</p><p>- At high concentration: Direct vasodilatation more significant</p>|
+|Other|<p>- Luxury perfusion: Due to ↓ CMRO~2~ but ↑ CBF</p><p>- Hypoventilation: ↑ PaCO~2~ may cause further vasodilatation (if spont vent)</p>|
+
+
+## Propofol
+
+
+|Relationship|Detail|
+| -- | -- |
+|CMRO~2~ vs Ce|<p>- As sevoflurane</p>|
+|CMRO~2~ vs CBF|<p>- Coupling of CBF and CMRO~2~ unaffected</p>|
+|CBF vs Ce|<p>- Dose-dependent ↓ CBF (ideal agent in intracranial hypertension)</p><p>- Exponential decay</p>|
+|Other|<p>- ↑↑ Propofol Ce → ↓ SVR → ↓ MAP → ↓ Perfusion</p><p>- Autoregulation exhausted if MAP ≤50mmHg</p>|
+
+
+--- 
+
+ 

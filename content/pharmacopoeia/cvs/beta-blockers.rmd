@@ -1,0 +1,79 @@
+# Beta-Blockers
+
+
+β-blockers are competitive (often highly selective) antagonists of β-adrenoreceptors. They are sub-classified into into selective and non-selective agents:
+
+* Selective (β~1~ antagonism) (BEAM)
+    * Bisoprolol
+    * Esmolol
+    * Atenolol
+    * Metoprolol
+* Non-selective (β~1~ and β~2~ antagonism)
+    * Propranolol
+    * Sotalol
+    * Timolol
+* Non-selective (β & α antagonism)
+    * Carvedilol
+    * Labetalol
+
+
+## Indications
+
+* Cardio
+    * Angina
+    * Arhythmia
+        * Rate-control in AF
+        * Paroxysmal SVT
+        * Sinus tachycardia from ↑ catecholamines
+    * Cardiac Failure
+    * Secondary prevention for MI
+
+
+* Vascular
+    * Hypertension (2^nd^ line)\
+    Also useful for aggressive control of BP.
+    * Hypotensive anaesthesia
+    * Attenuate hypertensive response to laryngoscopy
+
+
+* Non-CVS
+    * Thyrotoxicosis
+    * Glaucoma (topically)
+    * Anxiety
+    * Migraine prophylaxis
+
+
+## Common Features
+
+|Property|Action|
+|--|--|
+|**Kinetics**|Variability primarily due to lipid solubility. Poor lipid solubility confers poor gut absorption and minimises need for hepatic metabolism. Lipid soluble agents will have CNS effects and be excreted in breast milk.
+|**Respiratory**|Bronchospasm.
+|**CVS**|↓ Inotropy, ↓ HR, ↓ MVO~2~, ↓ BP, ↑ SVR (β~2~ effect), worsen arrhythmia.
+|**CNS**|Tiredness, nightmares, and sleep disturbance with lipid soluble agents. ↓ IOP.
+|**Metabolic**|↓ Insulin release and blunted hypoglycaemic response (β~2~ effect).
+|**Interactions**|Contraindicated with cardioselective Ca^2+^ channel blockers. due to extreme ↓ HR & ↓ inotropy.|
+
+## Comparison of Beta Blockers
+
+|Property|Esmolol|Metoprolol|Atenolol|Propranolol|Labetalol|
+|--|--|
+|**Class**|Cardioselective|Cardioselective|Cardioselective|β non-selective|Non-selective β & selective α~1~ <br> Ratio of β:α antagonism is 3:1 after PO and 7:1 after IV administration|
+|**Uses**|Short-term treatment of tachyarrhythmia and HTN|MI, HTN, migraine, thyrotoxicosis|HTN, angina, tachyarrhythmias, acute MI|HTN, Angina, dysrhythmia, essential tremor, anxiety HOCM, phaeochromocytoma, migraine, oesophageal varices|HTN, MI|
+|**Presentation**|Clear, colourless solution|Clear, colourless solution, 50mg Tablet.|25/50/100mg tablets, syrup, colourless solution.|Tablets and solution at 1mg.ml^-1^|Tablets and solution at 5mg.ml^-1^
+|**Route of Administration**|IV|PO/IV|PO/IV|PO/IV|PO/IV|
+|**Dosing**|50-200μg.kg^-1^.min^-1^|IV: 1mg boluses PO: 12.5-100mg BD|PO: 50-100mg daily IV: 2.5mg IV up to 10mg|PO: 10-100mg BD/TDS IV: 1mg boluses titrated to response|PO: 100-800mg BD<br> IV: 10-20mg IV bolus, followed by 20-80mg Q30min up to 300mg. Alternatively by infusion at 1-2mg.min^-1^|
+|**Absorption**|IV only|50% bioavailability, improves with regular use|45% PO bioavailability|30% bioavailability|Highly variable bioavailability: 10-80%|
+|**Distribution**|60% protein bound|20% protein bound. Lipid soluble|5% protein bound|95% protein bound|50% protein bound|
+|**Metabolism**|RBC esterases to an inactive metabolite and methyl alcohol. t~1/2~ of 10 minutes|Hepatic with genetic variability in t~1/2~ of active metabolites|Minimal metabolism - dose reduce in renal failure|Hepatic to active and inactive metabolites|Considerable hepatic first pass metabolism with inactive metabolites|
+|**Elimination**|||Renal elimination of active drug|Renal elimination of metabolites|Renal elimination of inactive metabolites|
+|**CVS**|Venous irritant||||↓ SVR, ↓ BP. Does not tend to ↓ HR or ↓ CO when given acutely.|
+|**CNS**|||||Orthostatic dizziness|
+
+---
+## References
+
+1. Leslie RA, Johnson EK, Goodwin APL. Dr Podcast Scripts for the Primary FRCA. Cambridge University Press. 2011.
+2. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.\
+3. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+4. MacCarthy EP, Bloomfield SS. [Labetalol: a review of its pharmacology, pharmacokinetics, clinical uses and adverse effects.](https://www.ncbi.nlm.nih.gov/pubmed/6310529) Pharmacotherapy. 1983. Jul-Aug;3(4):193-219.

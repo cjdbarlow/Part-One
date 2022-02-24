@@ -1,0 +1,98 @@
+# 2017B Question 01 
+
+Describe the visceral and somatic pain of labour with particular reference to the anatomy of the pain pathways.
+
+
+## Examiner Report
+
+20.1 % of candidates achieved a pass in this question.
+
+
+This question asks the material covered in SS_OB 1.8.
+
+
+The main points required for a pass mark were an adequate description of pain in labour and an outline of the neural pathways that are involved. Most candidates failed to address the first part of the question, and many did not mention pain in labour at all in their answer. A generic description of pain pathways was not enough for a pass mark.
+
+
+Better answers contained (though this was NOT all necessary to achieve a pass):
+
+* A brief description of the 3 stages of labour with an explanation of how and why pain changes with each stage.
+* Descriptions of visceral labour pain (which is predominant in the first stage) associated with uterine contractions and cervical dilatation, including where this is felt, why it changes in intensity, and an explanation of why the pain can be referred and poorly localised.
+* A discussion of somatic pain (which is predominant in the second stage of labour), including where this is felt and an explanation of why it is localised.
+* The location and activation of nociceptors, A delta and C nerve fibres.
+* Detail regarding the innervation of uterus, cervix and other tissues – including relevant peripheral nerves and spinal segments.
+* A concise (and accurate) description of the pain pathways from the nociceptor to the CNS.
+
+
+Common errors:
+
+* Most answers included diagrams to illustrate pain pathways from a peripheral nerve to the CNS (which were given credit). However, many of these contained errors. Brief notes helped to demonstrate understanding of the important points.
+* The innervation of the uterus, cervix, and pelvic structures (with nerves and spinal segments) was described incorrectly or not discussed.
+* Many candidates wasted minutes by writing wordy definitions of all of the terms in the question – including ‘pain’ and ‘labour’ – where many more marks could have been earned addressing the main point of the question.
+* Some candidates made inaccurate statements about the utility of epidural or spinal analgesia to treat labour pain.
+
+
+Additional marks could be earned by:
+
+* Briefly mentioning other ascending pain pathways apart from the spinothalamic tract and the role of descending inhibitory pathways.
+* Briefly mentioning the role/utility of epidural or spinal anaesthesia to treat or manage labour pain.
+
+
+Candidates are advised to refer to the prescribed textbooks where this topic is covered well – including ‘Clinical Pain Management: Acute Pain’ – Pamela Macintyre.
+
+
+## Model Answer
+
+Structure:
+- Types of pain
+- Pain pathways
+- Stage 1 pain
+- Stage 2&3 pain
+- Analgesia
+
+### Types of Pain
+
+
+|Type|Detail|
+| -- | -- |
+|Somatic pain|<p>- Mainly Aδ fibres</p><p>- Fast, sharp, well localized</p><p>- Triggers withdrawal</p>|
+|Visceral pain|<p>- Mainly C fibres</p><p>- Slow, dull, poorly localized</p><p>- Elicits guarding</p>|
+|Referred pain|<p>- Pain perceived at a location distal to the site of insult</p><p>- Due to convergence of somatic and visceral 1° afferents on same WDR projection neurons</p>|
+
+### Pathways
+
+
+|Pathway|Detail|
+| -- | -- |
+|Somatic afferent|<p>- Nociceptive receptor in tissues e.g. Perineum</p><p>- 1° afferent: Soma in dorsal root ganglion, synapse at dorsal horn (e.g. Via sacral nerve roots)</p><p>- 2° afferent: Decussates in anterior commissure and ascends via spinothalamic tract</p><p>- 3° afferent: To cortex (somatic) and subcortex (visceral, autonomic centres)</p>|
+|General visceral afferent|<p>- Nociceptive receptor in tissue e.g. Cervix</p><p>- 1° afferent: Piggybacks onto autonomic efferents</p><p>&emsp;- With SNS: Via white ramus communicans to spinal cord T1-L2</p><p>&emsp;- With PSNS: Via sacral nerves to S2-4 (also cranial)</p><p>&emsp;- Direct synapse with wide dynamic range 2° afferents in deeper layers</p><p>&emsp;- Convergence onto somatic nociceptive-specific 2° afferents in superficial layers</p><p>- 2° afferent:</p><p>&emsp;- Decussation via anterior commissure (incomplete for older pathways)</p><p>&emsp;- Ascent via multiple spinothalamic tracts</p><p>- 3° afferent:</p><p>&emsp;- From brainstem or diencephalon to higher structures</p>|
+
+### Stage 1
+
+
+|Factor|Detail|
+| -- | -- |
+|Definition|<p>- Until cervix effaced and 10cm dilated</p>|
+|Somatic pain|- Minimal|
+|Visceral pain|<p>- Rhythmic myometrial contraction – distension of lower segment and cervix</p><p>- GVA pathway: T10-12 via ovarian and inferior hypogastric plexuses</p><p>- Location: Lower abdomen, sacrum, back</p>|
+
+### Stage 2 & 3
+
+
+|Factor|Detail|
+| -- | -- |
+|Definitions:|<p>- 2: Until baby is delivered</p><p>- 3: Until placenta is delivered</p>|
+|Somatic pain|<p>- Continuous stretching and tearing of perineum and outer 1/3 vagina</p><p>- Pathway: Pudendal nerve (S2-4), ilioinguinal and genitofemoral nerves (L1-2)</p><p>- Location: Perineum and vagina</p>|
+|Visceral pain|<p>- Continuous pressure on pelvic viscera</p><p>- GVA pathway: T10-L1 via ovarian and inferior hypogastric plexuses; S2-4 via sacral plexus</p><p>- Location: Pelvis, inner thigh</p>|
+
+### Analgesia
+
+
+|Mechanism|Detail|
+| -- | -- |
+|Endogenous|<p>- Ascending: Via non-pain modalities</p><p>&emsp;- Activation of inhibitory interneurons</p><p>- Descending: By NAd > 5-HT from brainstem nuclei (e.g. Periaqueductal grey)</p><p>&emsp;- Disinhibition of brainstem nuclei by endogenous opioids</p>|
+|Neuraxial|<p>- Local anaesthetic:</p><p>&emsp;- Spinal nerve roots</p><p>&emsp;- Dorsal horn</p><p>&emsp;- Spinal cord</p><p>- Opioid:</p><p>&emsp;- Dorsal horn</p><p>&emsp;- Brain via CSF</p><p>&emsp;- Systemic absorption</p>|
+
+
+--- 
+

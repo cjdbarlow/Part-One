@@ -1,8 +1,6 @@
+.DS_Store
 .aws.json
-node_modules/
+.Rproj.user
+.Rhistory
+part-one.log
 _book
-gruntfile.js
-book.pdf
-book.epub
-book.mobi
-partone.pdf

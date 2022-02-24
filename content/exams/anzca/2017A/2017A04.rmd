@@ -1,0 +1,80 @@
+# 2017A Question 04 
+
+
+Outline the genetic variations on the cytochrome P450 2D6 enzyme and discuss the clinical relevance for drugs used in the peri-operative period.
+
+
+## Examiner Report
+
+7.1% of candidates achieved a pass in this question.
+
+
+A discussion of genetic variations should address the different phenotypes and prevalence in
+different populations.
+
+
+Any accurate discussion of clinical relevance gained marks. Relevant drugs that can be
+commented on include codeine, oxycodone, tramadol, methadone, beta-blockers, anti-emetics
+and tricyclic antidepressants. Whether the enzyme metabolises drugs into active or inactive
+metabolites is important – a number of candidates incorrectly proposed that ultra-rapid
+metabolisers should be prescribed higher doses of codeine. Discussion of ‘at risk’ groups such
+as children gained marks.
+
+## Model Answer
+
+Structure:
+- Introduction
+- List of drugs
+- Table: Genotype, phenotype, frequency, effect
+
+### Introduction
+
+
+|Factor|Detail|
+| -- | -- |
+|Nature|<p>- Microsomal enzyme</p>|
+|Where|<p>- Liver > other</p>|
+|Alleles|<p>- Two</p>|
+|Function|<p>- Redox (especially O-demethylation)</p>|
+|Importance|<p>- Affects 25% of clinically used drugs</p>|
+|Problem|<p>- Polymorphism is common</p><p>- Non-inducible</p>|
+
+### Relevant Drugs
+
+
+|Mechanism|Examples|
+| -- | -- |
+|Activated (prodrug)|<p>- Codeine → Morphine (↑↑ potency)</p><p>- Tramadol → M1 (4 x analgesic efficacy, 200x MOP affinity)</p><p>- Oxycodone → Oxymorphone (10-15x ↑ potency)</p>|
+|Inactivated|<p>- Methadone</p><p>- SSRI</p><p>- TCA</p><p>- β-blocker</p><p>- Clonidine</p>|
+
+### Genetics
+
+
+|Phenotype|Genotype|Frequency|
+| -- | -- | -- |
+|Ultrarapid|<p>>2 normal</p>|<p>1-2% total</p><p>30% Ethiopians, Saudis</p>|
+|Normal|2 normal|80-90%|
+|Intermediate|<p>1 normal</p><p>1 reduced function</p>|2-10%|
+|Poor|2 reduced function|<p>5-10% total</p><p>30% Hong Kong Chinese</p>|
+
+### Effect of Increased Function
+
+
+|Drug|Effect|
+| -- | -- |
+|Activation|<p>- ↑ Peak effect (~150%?), ↑ toxicity</p><p>- ↑ Duration</p><p>- High risk opioid toxicity: Breastfeeding infant, sedated, sleep disordered breathing</p>|
+|Inactivation|<p>- ↓ Peak effect</p><p>- ↓ Duration</p>|
+
+
+### Effect of Decreased Function
+
+
+|Drug|Effect|
+| -- | -- |
+|Activation|<p>- ↓ Peak effect</p><p>- ↓ Duration</p>|
+|Inactivation|<p>- ±↑ Peak effect, +/- ↑ Toxicity</p><p>- ↑ Duration</p>|
+
+
+ 
+--- 
+

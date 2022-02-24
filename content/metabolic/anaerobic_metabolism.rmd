@@ -1,0 +1,46 @@
+# Anaerobic Metabolism
+
+> Describe anaerobic metabolism and ketone production
+
+## Lactate
+
+Glycolysis (also known as the **Embden-Meyerhof** pathway):
+
+* Describes the conversion of glucose to pyruvate (and two ATP)
+* Does not consume O~2~ or produce CO~2~\
+Therefore it occurs in both anaerobic and aerobic conditions.
+* Consumes two NAD^+^ and produces two NADH
+
+In anaerobic conditions (in the erythrocyte, and in the setting of cellular hypoxia):
+
+* There is no oxygen available to allow further ATP production via the electron transport chain\
+There is also no regeneration of NAD^+^ in the ETC.
+* In order for glycolysis to continue, NAD^+^ is regenerated via production of lactate\
+$Pyruvate + NADH + H^+ \rightarrow Lactate + NAD^+$
+
+About 1400mmol (20mmol/kg) of lactate is produced per day. Lactate is either:
+
+* Oxidised in the cell\
+This requires restoration of NAD^+^, e.g. resolution of cellular hypoxia.
+* Circulated to the liver\
+Lactate is then:
+    * Oxidised to pyruvate
+    * Converted to glucose via the **Cori cycle**
+
+## Ketones
+
+Ketones:
+
+* β-oxidation of fatty acids in the liver produces acetyl-CoA
+* Acetyl-CoA usually enters the citric acid cycle to produce ATP\
+* When large amounts of acetyl CoA are produced, they may instead condense to form **acetoacetate**, which can then be reduced to **β-hydroxybutyrate**\
+These substances are known as ketones
+
+* Ketones can only be produced by the liver, and only used as a substrate by the kidney, as well as skeletal and cardiac muscle
+* Production of ketones is accelerated by glucagon and adrenaline
+
+---
+## References
+
+1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+2. ANZCA August/September 2011

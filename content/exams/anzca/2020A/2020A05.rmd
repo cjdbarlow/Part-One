@@ -1,0 +1,78 @@
+# 2020A Question 05
+
+Describe the mechanisms that facilitate oxygen and carbon dioxide exchange in the placenta.
+
+
+## Examiner Report
+
+The domains covered were transfer of oxygen and carbon dioxide, diffusion, and other factors.
+
+Main points expected were: Description of how gases diffuse across the placenta with relevance to Fick’s Law and in comparison to the lung, quantification of partial pressure differences for oxygen & carbon dioxide between the vessels involved, and definitions with explanations for the Bohr & Haldane effects applied to the placental barrier. Graphical demonstrations could show the effect of these mechanisms on diffusion gradients.
+
+Additional credit was awarded for explaining the mechanism & significance of the Bohr & Haldane effects, understanding other factors which alter the partial pressure gradients, maternal changes by trimester and the effects of blood flow on diffusion.
+
+Common errors included: Misconception that the gradient for oxygen transfer was derived from the uterine artery PO~2~, attributing the Bohr effect solely to CO~2~ binding to Hb, and quoted values for uterine & umbilical vessel gas partial pressures were frequently inaccurate as were graphs, and there seemed to be many “typos” e.g. Writing O~2~ when CO~2~ was correct or umbilical instead of uterine.
+
+A good source for this material is Nunn’s Respiratory Physiology and any of the general medical physiology recommended texts.
+
+
+## Model Answer
+
+Structure:
+
+* Introduction
+* Maternal adaptations
+* Foetal adaptations
+* Haemoglobin adaptations: Bohr & Haldane effects
+
+
+### Introduction
+
+
+|Factor|Detail|
+| -- | -- |
+|Mechanism of transfer|<p>$\dot{Q} = {\dot{V}_{O_2} \over Ca_{O_2} - C\bar{v}_{O_2}}$</p><p>- Diffusion down partial pressure gradient</p>|
+|Problem|<p>- Area 15m2 (cf. lung 80m2)</p><p>- Thickness 3.5μm (cf. lung 0.5μm)</p><p>- Hence slow rate of transfer cf. lung</p>|
+|Solution|<p>- Maternal adaptations: ↑ CO, ↑ MV</p><p>- Foetal adaptations: ↑ Hb affinity for O~2~, ↑ Hb concentration</p><p>- Haemoglobin design: Bohr and Haldane effects</p>|
+
+
+### Maternal Adaptations
+
+
+|Factor|Detail|
+| -- | -- |
+|↑ Cardiac output|<p>- ↑ 50% at term, with 600mL.min^-1^ to placenta</p><p>- Cause: A) ↑ Metabolic demand → ↑ Preload b) progesterone-induced ↓ SVR</p><p>- Effect: ↑ DO~2~ to placenta, ↑ O~2~ uptake, ↑ CO~2~ excretion</p>|
+|↑ Alveolar ventilation|<p>- ↑ 50% at term (≈ ↑ RR 10% + ↑ TV 35%)</p><p>- Cause: A) ↑ metabolic demand b) Progesterone sensitises central chemoreceptors</p><p>- Effect on CO~2~: ↓ PaCO~2~ → Enhanced double Bohr effect</p><p>- Effect on O~2~: ↑ PaO~2~ → ↑ Concentration gradient and ↑ DO~2~</p>|
+
+
+### Foetal Adaptations
+
+
+|Factor|Detail|
+| -- | -- |
+|HbF|<p>- Left shift OHDC with p50 19mmHg (cf. 26mmHg)</p><p>- Cause: Serine substitution → ↓ Affinity for 2,3-DPG</p><p>- Effect: Umbilical venous SvO~2~ 80% despite PO~2~ 30mmHg</p>|
+|Polycythaemia|<p>- Hb 180g/L cf. 140g/L</p><p>- Cause: Hypoxia → ↑ Erythropoiesis</p><p>- Effect: Umbilical venous CvO~2~ 16mL.100mL^-1^ despite SvO~2~ 80%</p>|
+
+
+### Bohr Effect
+
+
+|Element|Detail|
+| -- | -- |
+|Description|<p>- If ↓ pH, ↑ pCO~2~:</p><p>&emsp;- ↓ Affinity of Hb for O~2~</p><p>&emsp;- Right shift oxyhaemoglobin dissociation curve (OHDC)</p>|
+|Mechanism|<p>- Allosteric interactions between haems:</p><p>&emsp;- ↓ PH, ↑ pCO~2~ → Tense (T) state → ↓ Affinity for O~2~</p><p>&emsp;- ↑ PH, ↓ pCO~2~ → Relaxed (R) state → ↑ Affinity for O~2~</p>|
+|Double Bohr effect|<p>- As HbF unloads CO~2~:</p><p>&emsp;- a)↑ pCO~2~/H+ in maternal lacuna → ↓ HbA affinity for O~2~ → Unload O~2~</p><p>&emsp;- b)↓ pCO~2~/H+ in foetal capillary → ↑ HbF affinity for O~2~ → Load O~2~</p><p><img src="resources/Oxyhb-curve-double-bohr.svg"></p>|
+
+
+### Haldane Effect
+
+
+|Element|Detail|
+| -- | -- |
+|Description|- HHb has higher affinity for CO~2~ than HbO~2~|
+|Mechanism|<p>- 70%: Because HHb is 3.5x better at forming carbaminoHb</p><p>- 30%: Because ↑ pKa of imidazoles to 8.2 enhances buffering of H+ </p>|
+|Double Haldane effect|<p>- As HbA unloads O~2~:</p><p>&emsp;- a)↑ PO~2~ in capillary → ↓ HbF affinity for CO~2~ → Unload CO~2~</p><p>&emsp;- b)↓ PO~2~ in lacuna → ↑ HbA affinity for CO~2~ → Load CO~2~</p><p>→ Amplification of Bohr effect → ↑ Foetal PaO~2~</p><p><img src="resources/CO2-dissociation-curve.svg"></p>|
+
+
+--- 
+

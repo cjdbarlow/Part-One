@@ -1,0 +1,120 @@
+# 2021A Question 14
+
+Discuss how the body handles a metabolic acidosis.
+
+
+## Examiner Report
+
+43.4% of candidates achieved a pass in this question.
+
+
+In order to pass this question candidates needed to demonstrate an understanding of:
+
+* The intracellular and extracellular buffering systems
+* The role, mechanism, and limitations of respiratory compensation in handling a fixed acid.
+* The role of the kidney in handling daily bicarbonate recycling, in removing fixed acid (by the formation of titratable acidity), and the production of new bicarbonate in the acidotic state by the ammonia/ammonium system.
+
+
+The importance of the equation: CO2 + H2O ⇄ H2CO3 ⇄ H+ + HCO3 - to understanding the interlinking of these mechanisms cannot be overstated but was missed by many candidates.
+
+
+Common errors in the answers included:
+
+* No discussion of intracellular and extracellular buffering systems.
+* Descriptions of renal bicarbonate recycling and renal acid handling were varied and often contained errors. Descriptions scored marks when they contained some detail, as found in the recommended texts. Exhaustive detail was not required, as this is a complex area
+* Candidates wrote about the physiological effects of acidosis on multiple body systems, rather than body’s handling of a metabolic acidosis. These answers often prevented candidates from presenting enough specific information to pass.
+* Errors in equations due to incorrect attribution of valence and unbalanced equations
+* Confusion between glutamine, glutamate and glutathione
+* It was frequently stated that movement of the equation CO2 + H2O ⇄ H2CO3 ⇄ H+ + HCO3- to the left causes an increase in bicarbonate when in fact the opposite is true
+
+
+## Model Answer
+
+Structure:
+
+- Introduction
+- Dilution
+- Buffering: ICF and ECF
+- Compensation: Respiratory, renal, ion exchange
+
+### Introduction
+
+
+|Factor|Detail|
+| -- | -- |
+|Definition|Excess production or addition of metabolic acid or excess loss of base|
+|ABG features| ABG: PH ≤7.4, PaCO~2~ ≤40mmHg, HCO~3~^-^ ≤24mmol.L^-1^|
+|Classification|<p>- NAGMA: Loss of HCO~3~^-^ or base (e.g. Diarrhoea, renal tubular acidosis)</p><p>- HAGMA: Addition of fixed acid (e.g. Lactic acidosis, ketoacidosis)</p>|
+|Summary of response|<p>1. Dilution</p><p>2. Buffering: ICF and ECF</p><p>3. Compensation: Respiratory and renal</p><p>4. Correction of the underlying cause</p>|
+
+### Dilution
+
+
+|Property|Detail|
+| -- | -- |
+|Timing|Immediate|
+|Purpose| Minimise fall in local or plasma pH|
+|Mechanism| Distribution of acid across body fluid compartments|
+
+### Buffering
+
+
+|Property|Detail|
+| -- | -- |
+|Timing|Minutes|
+|Purpose| Resists the fall in pH when acid is added or base removed|
+|Mechanism|<p>- System comprises a weak acid and its conjugate base</p><p>- H+ readily exchanged</p><p>- AH ↔ A- + H+</p>|
+|Ideal properties|<p>- Abundant</p><p>- Rapid</p><p>- pKa = prevailing pH +/- 1</p><p>- Open-ended</p>|
+
+### Intracellular Buffering
+
+
+|Property|Detail|
+| -- | -- |
+|Contribution|~60%|
+|Proteins|<p>- Imidazole groups of histidine residues</p><p>- Abundant</p><p>- pKa = pH ICF = 6.8</p>|
+|Phosphate|<p>- H~2~PO~4~^-^ ↔ H^+^ + HPO~4~^-^<p>- High concentration (30-60mmol.L^-1^)</p><p>- pKa = pH ICF = 6.8</p>|
+
+### Extracellular Buffering
+
+
+|Property|Detail|
+| -- | -- |
+|Contribution|~40%|
+|Bicarbonate|<p>- CO~2~ + H~2~O ↔ H+ + HCO~3~^-^</p><p>- ↑ [H+] → L shift → ↑ CO~2~ formation → Exhaled</p><p>- Most important ECF buffer</p><p>- High concentration 24mM</p><p>- Rapid enzyme carbonic acid</p><p>- pKa 6.8 is near pH 7.4</p><p>- Open ended since can exhale CO~2~ and urinate H+</p>|
+|Haemoglobin|<p>- 2nd most important ECF buffer</p><p>- Imidazole groups on histidine residues</p><p>&emsp;- HHb + K^+^ ↔ KHb + H+</p><p>&emsp;- Abundant (140g/L, 39 imidazole groups per molecule)</p><p>&emsp;- pKa 6.8</p><p>- Carbamino compounds</p><p>&emsp;- CO~2~ + Hb-NH2 ↔ Hb-NHCOO- + H+</p><p>&emsp;- CO~2~ binds terminal amino groups, and amino groups on side chains of arginine and lysine</p><p>&emsp;- Released H+ buffered by imidazole groups as above</p>|
+|Plasma proteins|<p>- Imidazole groups of histidine residues</p><p>- AH ↔ A- + H+</p><p>- Abundant (70g/L, 13 imidazole groups per molecule), but 6x less than Hb</p><p>- pKa 6.8</p>|
+
+
+### Respiratory Compensation
+
+
+|Property|Detail|
+| -- | -- |
+|Timing|Minutes|
+|Mechanism| Acidosis → Stimulation of peripheral chemoR → ↑ MV → ↓ PaCO~2~ → ↓ [H+]|
+|Extent| Winter’s formula: PaCO~2~ = 8 + 1.5 x HCO~3~^-^|
+|Effect on pH|<p>- As per HH equation: PH = 6.1 + [HCO3] / 0.03 x PaCO~2~</p><p>- ECF pH approaches but does not reach or exceed 7.4</p><p>- \*Note resp compensation cannot remove fixed acid, because both H+ and HCO~3~^-^ are being removed\*</p>|
+
+### Renal Compensation
+
+
+|Property|Detail|
+| -- | -- |
+|Timing|Hours-days|
+|↑ HCO~3~ reabsorption|<p>- ↑ Activity of Na^+^/H+ antiporter in PCT (major)</p><p>- ↑ Activity of H+ ATPase in DT (minor, under aldosterone control)</p>|
+|↑ Excretion of titratable acid|<p>- Includes phosphoric and sulfuric acid, very minimal free H+</p><p>- (i.e. buffering of secreted H+ by filtered buffer)</p><p>- Usual 30mmol.L^-1^, max 60mmol.L^-1^ (small increaseO</p>|
+|↑ NH~3~ production|<p>- Occurs when titratable acid exhausted</p><p>- Glutamine → 2 x NH~4~^+^ + HCO~3~^-^</p><p>- NH~4~^+^ excreted → 100% HCO~3~^-^ reabsorbed, 50% NH~4~^+^ reabsorbed and recycled</p><p>- Up to 300mmoL.day^-1^, i.e. large ↑ </p>|
+
+### Ion Exchange
+
+
+|Method|Mechanism|Time|
+| -- | -- | -- |
+|Cells| H+/K^+^ exchange|Minutes|
+|Bone| H+/Ca^2+^ exchange|Days-weeks|
+
+
+--- 
+
+ 

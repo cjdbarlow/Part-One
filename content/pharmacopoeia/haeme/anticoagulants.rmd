@@ -1,0 +1,65 @@
+# Anticoagulants
+
+  \
+|Property|Warfarin|Heparin|Enoxaparin
+|--|--|
+|**Uses**|AF, DVT/PE, Prosthetic Valves|AF, DVT/PE, Extra-corporeal Circuit Anticoagulation|DVT Prophylaxis
+|**Pharmaceutics**|Marevan and coumadin may *potentially* have different bioavailabilities (it has not been assessed) and so should not be substituted|Mucopolysaccharide organic acid which occurs naturally in the liver and in mast cells, with a highly variable molecular weight (between 5,000 and 25,000 Da)|Smaller fragments of heparin (prepared from UFH), with a mean molecular weight of 5,000 Da|
+|**Mechanism of Action**|Prevents the return of vitamin K to its reduced form, and therefore the gamma-carboxylation of vitamin-K dependent clotting factors (II, VII, IX, X), as well as Protein C and Protein S).|Potentiates the effect of ATIII, rapidly increasing its anti-IIa and anti-Xa effect (1:1 effect). <br><br>In higher concentrations also inhibits IXa, XIa, XIIa, and platelet aggregation.|Potentiates the action of ATIII, increasing inhibition of Xa and IIa, but (unlike UFH) in a 4:1 ratio.<br><br>More predictable effect on Xa standardises dosing and justifies lack of monitoring requirement.
+|**Onset**|8-12 hours. Peak at 72 hours due to the half-life of existing clotting factors, and the total body stores of vitamin K|Immediate IV onset||
+|**Absorption**|100% bioavailability|IV, SC|SC only|
+|**Distribution**|99% protein bound|Low lipid solubility, highly protein bound|Does not bind to heparin-binding proteins
+|**Metabolism**|Complete hepatic metabolism. Significant pharmacokinetic interaction with enzyme inducers and inhibitors.|Hepatic interactions due to enzymatic induction (ETOH, amiodarone, salicylates, NSAIDs) and inhibition (OCP, barbiturates, carbamazepine)|Renal elimination of metabolites
+|**Elimination**|Faecal and renal elimination of metabolites, t~1/2~β of 40 hours|Renal of inactive metabolites|Renal of active drug and inactive metabolites
+|**CVS**|Microthrombi|Hypotension with rapid IV administration||
+|**Metabolic**|Less osteoporosis due to less protein (and therefore tissue) binding|Osteoporosis||
+|**Renal**||Inhibits aldosterone secretion||
+|**GIT**|N/V|||
+|**Haeme**|Haemorrhage|Haemorrhage, HITTs|Haemorrhage, lower risk of HITTs than UFH. Less thrombocytopaenia.
+|**Immune**|Hypersensitivity reactions|||
+|**Reversal**|- Waiting<br>- Vitamin K<br>- FFP<br>- Prothrombinex|Reversed with protamine (1mg per 100U).|Incomplete reversal with protamine as only the anti-IIa effect is inhibited.|
+|**Other**|Teratogenic. Complicated pharmacokinetics requiring monitoring using INR.|Requires monitoring with APTT or ATIII levels. Large interpatient variability due to variable amounts of ATIII.<br><br>1 unit is the amount of heparin required to prvent 1ml of blood clotting for 24 hours at 0°C|No monitoring required.|
+
+
+## HITTs
+
+**Heparin-Induced Thrombotic Thrombocytopenia** comes in two flavours:
+
+* **Type I**:
+    * Is non-immune mediated
+    * Occurs within 4 days of anticoagulant doses
+    * Is an isolated thrombocytopenia without clinical significance
+* **Type II**:
+    * Is immune mediated
+    * Occurs within 4-14 days
+    * Is associated with serious thrombosis and high mortality (typically from PE) and morbidity (from CVA and limb ischaemia)
+  \
+## Protamine
+
+Protamine is:
+
+* A basic cationic protein derived from salmon sperm which combines with the acidic anionic heparin to form a stable, inactive salt in solution
+* Cleared more rapidly than heparin\
+Rebound anticoagulation may occur.
+
+Adverse effects from protamine include:
+
+* Histamine release
+    * Bronchospasm
+    * Hypotension
+* Pulmonary hypertension\
+This can be profound and result in a dramatic increase in RV afterload and EDV, with a corresponding fall in LV preload (interventricular interdependence), leading to dramatic hypotension and arrest.
+    * Mediated by thromboxanes
+    * Due to **protamine-heparin complexes**, rather than protamine alone\
+    Administration of protamine in absence of heparin does not lead to pulmonary hypertension.
+* Anticoagulation\
+When given in excess.
+
+
+---
+## References
+
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.\
+2. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+3. ANZCA August/September 2011
+4. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.

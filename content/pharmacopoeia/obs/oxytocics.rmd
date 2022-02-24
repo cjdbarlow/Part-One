@@ -1,0 +1,28 @@
+# Oxytocics
+
+
+Oxytocics are agents which increase the force of uterine contraction.
+
+|Property|Oxytocin|Ergometrine|PGF~2α~ (Dinoprost)|Carboprost
+|--|--|
+|**Class**|Endogenous (typically synthetic version used) posterior pituitary hormone|Ergot alkaloid|Prostaglandin
+|**Uses**|Augmentation of labour, increase uterine tone (PPH)|PPH|Severe PPH|Severe PPH|
+|**Presentation**|Clear liquid at 5-10 U.ml^-1^|||Clear liquid at 250μg.ml^-1^, up to 8 doses (2mg)|
+|**Route of Administration**|IV|IV, IM|Intramyometrial injection, IM|Intramyometrial, IM|
+|**Dosing**|1.5-12mU.min^-1^|250μg IM (IV in emergency via slow push)||500μg IM|
+|**Metabolism**|Oxytocinases in liver and kidney||||
+|**Mechanism of Action**|Oxytocin GPCR in the uterus, increase Ca^2+^ influx. Structurally similar to ADH.|Acts on α and 5HT~2~ receptors on uterine and vascular smooth muscle|||
+|**Resp**||Bronchospasm (may be severe)|Bronchospasm (severe if IV so this route is contraindicated)|Bronchospasm, APO due to ↑  PVR with subsequent hypoxia|
+|**CVS**|↑ HR, ↓ BP following boluses |↑ SVR, ↑ BP (may cause, ↓ HR) coronary vasoconstriction|↑ SVR, ↑ BP |↑ SVR, ↑ BP (usually transient)|
+|**CNS**|Headache, nausea, vomiting|Headache, nausea|Nausea, vomiting|Headache|
+|**Renal**|↓ UO due to ADH-like effects with prolonged infusions||||
+|**GU**|↑ Uterine tone (↑ frequency at low dose, tetanic contraction at high dose), foetal distress, lactation|↑ Uterine contraction frequency and tone|↑ Uterine contraction frequency and tone|↑ Uterine contraction frequency and tone, contraindicated in pelvic inflammatory disease|
+|**Other**|May be metabolised by oxytocinases in blood products if co-administered on the same line|Contraindicated in pre-eclampsia due to HTN|Deprecated by carboprost, increased body temperature|
+
+---
+## References
+
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.\
+2. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+3. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+4. Royal Women's Hospita. [Postpartum Haemorrhage - Carboprost](https://thewomens.r.worldssl.net/images/uploads/downloadable-records/clinical-guidelines/postpartum-haemorrhage-carboprost_270217.pdf). 2017.

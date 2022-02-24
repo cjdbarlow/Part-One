@@ -1,0 +1,80 @@
+# Insulins
+
+
+Insulins are synthetic polypeptide hormones. They:
+
+* Have a similar mechanism of action and pharmacodynamics of endogenous insulin
+* One unit of insulin is defined as the amount required to make a previously healthy 2kg rabbit hypoglycaemic
+
+## Types of Insulin
+
+Different insulins are categorised by their time of **onset**, **peak**, and **duration**, and are classified as either:
+
+* Fast acting
+* Intermediate acting
+* Long acting
+
+![Insulins](http:\\www.dtc.ucsf.edu/images/charts/4.f.i.jpg)
+
+### Fast Acting
+
+Fast acting insulins are used for controlling BSL spikes post meals, and for control of hyperglycaemia. Administered subcutaneously they have have an:
+
+* Onset of 5-15 minutes
+* Peak at 1-2 hours
+* Last 4-6 hours.
+
+Fast acting insulins include:
+
+* Insulin Aspart (Novorapid)
+* Insulin Lispro (Humalog)
+
+### Intermediate Acting
+
+Intermediate acting insulins are used for control of BSL between meals as a pseudo-basal bolus. Administered subcutaneously they have an:
+
+* Onset of 1-2 hours
+* Peak at 4-6 hours
+* Last >12 hours
+
+Intermediate acting insulins include:
+
+* NPH
+* Protophane
+
+### Long Acting
+
+Long acting insulins are used for creating a baseline insulin level. Administered subcutaneously they have an:
+
+* Onset of 1-1.5 hours
+* Peak at 5 hours
+* Last 24 hours
+
+Long-acting insulins include:
+
+* Insulin glargine (Lantus)
+* Insulin detemir (Levemir)
+
+## Pharmacokinetics of Exogenous Insulin Preparations
+
+|Property|Drug
+|--|--|
+|**Class**|Synthetic polypeptide hormones
+|**Uses**| Diabetes, hyperglycaemia, hyperkalaemia, β-blocker toxicity, Ca^2+^-blocker toxicity
+|**Presentation**| Clear colourless solution typically at 100 IU.ml^-1^
+|**Route of Administration**|SC, IM, IV
+|**Absorption**| Variable, as described above. Insulin is complexed with different substances (e.g. protamine, zinc), which alter its rate of absorption
+|**Distribution**| Minimal protein binding and minimal redistribution out of ECF - V~D~ 0.075L.kg^-1^
+|**Metabolism**| Glutathione insulin transhydrogenase. Metabolism is constant - duration of action is entirely due to different rates of subcutaneous absorption.
+|**Elimination**| Renal of inactive metabolites
+
+---
+## References
+
+1. Diabetes Education Online. [Types of Insulin](http://dtc.ucsf.edu/types-of-diabetes/type2/treatment-of-type-2-diabetes/medications-and-therapies/type-2-insulin-rx/types-of-insulin/). UCSF. Accessed January 2016.
+2. Graph of insulin activity profiles from: Diabetes Education Online. [Types of Insulin](http://dtc.ucsf.edu/types-of-diabetes/type2/treatment-of-type-2-diabetes/medications-and-therapies/type-2-insulin-rx/types-of-insulin/). UCSF. Accessed January 2016.
+3. Mudaliar S, Mohideen P, Deutsch R, Ciaraldi TP, Armstrong D, Kim B, Sha X,
+Henry RR. [Intravenous glargine and regular insulin have similar effects on
+endogenous glucose output and peripheral activation/deactivation kinetic
+profiles](https://www.ncbi.nlm.nih.gov/pubmed/12196433/?ncbi_mmode=std). Diabetes Care. 2002 Sep;25(9):1597-602.
+4. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

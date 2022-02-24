@@ -1,0 +1,73 @@
+# 2017B Question 15 
+
+Write brief notes on the pharmacology of tramadol.
+
+
+## Examiner Report
+
+68.9% of candidates achieved a pass in this question.
+
+
+The high pass rate reflects the multitude of marks that could be awarded for this question, though many candidates failed to demonstrate the understanding of the pharmacology that was required for high marks. Marks were awarded for stating that Tramadol is a racemic mixture and that both enantiomers are required for analgesic activity. Better candidates could correctly identify which enantiomer caused which particular pharmacology action.
+
+
+Marks were also awarded for correctly naming the active metabolite of Tramadol and its significance. Many candidates incorrectly stated that Tramadol is a serotonin or noradrenaline agonist; it inhibits reuptake and thereby increases the availability of these biologic amines in the synaptic cleft. Listing the effects/side effects of tramadol without quantifying how these differ from other analgesics did not get awarded marks.
+
+
+Writing pages on pharmacogenetics did not get awarded marks – this was asked in the last exam. Many candidates omitted the fact that Tramadol and its metabolites also undergo phase II reactions. Candidates used the pharmaceutical, pharmacodynamics, pharmacokinetic model to answer the question. However, many clearly made up values for lipid solubility, pKa, protein binding and volume of distribution. Guessing does not get awarded marks. Bonus marks were awarded for stating Tramadol’s interaction with other drugs used in anaesthesia.
+
+## Model Answer
+
+Structure:
+- PC
+- PK
+- PD
+- Variability
+
+### Pharmaceutics
+
+
+|Factor|Details|
+| -- | -- |
+|Class|- Cyclohexanol derivative|
+|Presentation|<p>- Racemic mixture</p><p>- Aqueous solution in clear glass ampoule</p><p>- Tablet</p>|
+|Storage|<p>- Room temperature</p><p>- Long shelf life</p>|
+
+### Pharmacokinetics
+
+
+|Factor|Details|
+| -- | -- |
+|Administration|<p>- 60mg tramadol equipotent to 10mg PO morphine, 3mg IV morphine</p><p>- PO: 50-100mg q6h or 1mg.kg^-1^ q6h in children</p><p>- IV: Same</p><p>- IM: Same</p>|
+|Time course|<p>- PO peak: 2 hours</p><p>- PO duration: 6 hours</p>|
+|Absorption|<p>- Oral bioav 80% (may increase with use)</p>|
+|Distribution|<p>- Plasma protein binding 20%</p>|
+|Metabolism|<p>- CYP2D6</p><p>- O-demethylation</p><p>- Activate metabolite M1 (O-desmethyltramadol) has 4x analgesic efficacy, 200x MOP affinity</p><p>- Parent and M1 undergo glucuronidation</p><p>- t1/2β 300 mins</p>|
+|Excretion|<p>- Renal elimination of glucuronide metabolites</p>|
+
+### Pharmacodynamics
+
+
+|Factor|Details|
+| -- | -- |
+|Stereoselectivity|<p>- +Tramadol: Mu opioid partial agonist (i.e. ceiling effect), SRI</p><p>- -Tramadol: NRI</p><p>- +M1: Mu opioid agonist (4x tramadol), no SRI</p><p>- -M1: NRI</p><p>- Non-competitive NMDA antagonist</p>|
+|Opioid effects|<p>- Cellular: ↓ cAMP, inhibit VDCC, ↑ K^+^ efflux</p><p>- Supraspinal: ↑ Descending modulation from peri-aqueductal grey matter etc.</p><p>- Spinal: ↓ Pre-synaptic release of glutamate, substance P</p>|
+|Monoamine effects|<p>- NRI: ↑ NAd descending modulation of pre-synaptic 1o afferent nociceptors; ↓ afferents</p><p>- SRI: ↑ 5-HT descending modulation of same; ↑ and ↓ pain afferents</p>|
+|NMDA effects|<p>- ↓ Post-synaptic activation at the dorsal horn</p><p>&emsp;- Short term: ↓ Excitability, ↓ wind-up</p><p>&emsp;- Long term: ↓ Synaptic reinforcement, ↓ long term potentiation</p>|
+|Uses|<p>- Analgesia: Somatic, visceral, neuropathic</p><p>- ↓ Shivering</p>|
+|Reversal agent|<p>- Naloxone 30% effective</p>|
+|Opioid side effects|<p>- PONV (5HT reuptake inhibition; may antagonize ondansetron)</p><p>- Less euphoria, dysphoria, hallucination, tolerance, dependence</p><p>- Less CVS and resp depression, GIT stasis</p><p>- Less OIH</p>|
+|Other side effects|<p>- ↓ Seizure threshold</p><p>- ↑ QTC → ↑ Risk TdP</p>|
+|Drug interactions|<p>- Serotonin syndrome:</p><p>&emsp;- Tramadol + MAOi (or SSRI)</p><p>&emsp;- ↑ SNS, hyperreflexia, agitation, seizures</p><p>- Hypertensive crisis</p><p>&emsp;- Tramadol + indirect acting sympathomimetic e.g. Ephedrine</p>|
+
+### Variability: CYP2D6 Polymorphism
+
+
+|Factor|Details|
+| -- | -- |
+|Intermediate and poor metaboliser|<p>- Common in Hong Kong Chinese</p><p>- ↓ Analgesia, ↑ 5-HT effects</p>|
+|Ultra-rapid metaboliser|<p>- Common in North Africans and Arabs</p><p>- ↑ Analgesia, ↑ toxicity e.g. Respiratory depression</p>|
+
+ 
+--- 
+

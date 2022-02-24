@@ -1,0 +1,49 @@
+# 2020A Question 13 
+
+Describe the adverse effects of neostigmine
+
+
+## Examiner Report
+
+There are several parts to this question. A good answer would put the adverse effects into a context including the pharmacological classification and the mechanism of action of neostigmine; an explanation of the use of neostigmine in the peri-operative setting and the effects of neostigmine on muscarinic as well as nicotinic receptors.
+
+Most candidates were able to give a brief description as to how neostigmine works and the muscarinic effects. Better candidates were able to describe some effects on nicotinic receptors. The best candidates were able to extend the use of neostigmine in non-operative settings; describe the adverse effects of varying doses of neostigmine, and medications used to counteract the adverse effects.
+
+Common errors include the assumption that neostigmine causes central cholinergic syndrome, or that neostigmine does not cross the placenta.
+
+## Model Answer
+
+Structure:
+- Pharmacodynamics
+- Nicotonic adverse effects
+- Muscarinic adverse effects
+
+### Pharmacodynamics
+
+
+|Factor|Detail|
+| -- | -- |
+|Receptor interaction|<p>- Forms reversible carbamylate complex with esteratic site of AChE</p><p>- ↑ [ACh] at cholinergic synapses</p>|
+|Receptor affinity|<p>- Muscarinic (G protein-coupled): Effects at low dose</p><p>- Nicotinic (ligand gated ion channel): Effects at high dose</p><p>- Also inhibits PChE → Augment suxamethonium</p>|
+|Receptor effects|<p>- N: ↑ [ACh] → ↑ Na^+^ influx → MEPP</p><p>&emsp;- M~1,3,5~: Gq GPCR (↑ IP3/↑ Ca^2+^, ↑ DAG)</p><p>&emsp;- M~2,4~: Gi GPCR (↓ cAMP)</p>|
+
+### Nicotinic Adverse Effects
+
+
+|Factor|Detail|
+| -- | -- |
+|Muscle type|<p>- Weakness at high dose (ceiling 0.07mg.kg^-1^)</p><p>- Inability to reverse profound neuromuscular blockade<br>  → Risk of residual curarisation if used without monitoring</p>|
+|Neuronal type|<p>- Autonomic ganglia (α~3~β~4~): Stimulation then depression</p><p>- No CNS effect (quaternary ammonium charge)</p>|
+
+### Muscarinic Adverse Effects
+
+
+|Factor|Detail|
+| -- | -- |
+|Cardiovascular|<p>- Bradycardia, AV block</p><p>- ↓ Cardiac output</p>|
+|Respiratory|<p>- Bronchoconstriction, ↑ work of breathing</p><p>- ↑ Tracheobronchial secretions</p>|
+|SLUDGE|<p>- Salivation</p><p>- Lacrimation</p><p>- Urination</p><p>- Defecation</p><p>- GI upset, abdominal pain</p><p>- Emesis</p>|
+
+
+--- 
+

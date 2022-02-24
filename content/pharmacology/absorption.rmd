@@ -1,0 +1,58 @@
+---
+level: 3
+---
+
+# Absorption
+
+:::dual
+Describe absorption and factors that will influence it with reference to clinically utilised sites of administration.
+:::
+
+Absorption is dependent on the route of administration. Routes of administration are selected based on:
+
+* Effect site of the drug
+* Drug factors
+  * Bioavailability
+  * Available preparations
+* Patient factors
+  * Ability to take or absorb oral medications
+  * Preference
+
+## Bioavailability
+
+**Bioavailability** is the **proportion of drug given which reaches the systemic circulation unchanged**, compared to the IV form. Bioavailability is affected by:
+
+* Formulation
+* Physicochemical Interactions\
+Interactions with other drugs and food.
+* Patient Factors
+    * Malabsorption syndrome
+    * Gastric stasis
+* First-pass metabolism
+
+## First-pass Metabolism
+
+**First-pass** (pre-systemic) **metabolism** is the extent to which drug concentration is reduced after its first passage through an organ, prior to reaching the systemic circulation. First pass metabolism is:
+
+* Typically used when referring to passage of orally-administered drugs through the liver\
+May also refer to metabolism by the:
+    * Lungs\
+    First pass of intravenously injected drugs prior to entering the arterial side of the circulation, e.g. fentanyl.
+    * Vascular endothelium
+* Relevant in:
+    * Understanding differences between PO and IV dosing
+        * Alternative routes of administration for drugs with low PO bioavailability
+    * Delivery of prodrugs via PO mechanisms\
+    Increases active drug concentration.
+    * Understanding enzyme interactions 
+    * Understanding the effects of hepatic disease
+        * Porto-systemic shunts decrease first pass metabolism
+        * Altered bioavailability of drugs with high hepatic extraction ratios
+
+---
+
+## References
+
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.\
+2. [Chong CA, Denny NM. Local anaesthetic and additive drugs.](http://www.frca.co.uk/documents/anaes.5.5.158.pdf)
+3. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.

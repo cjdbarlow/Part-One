@@ -1,0 +1,52 @@
+# 2019A Question 09 
+
+Draw on a single graph wash-in curves for the first half hour administration of 70% N~2~O, 6% desflurane and 2% sevoflurane. Explain why the curves are different for each agent (80%). Describe and explain the effects on these curves of A) doubling of alveolar ventilation B) doubling of cardiac output (20%).
+
+
+## Examiner Report
+
+26% of candidates achieved a pass in this question.
+
+
+Main points expected included a correctly reproduced graph with accurate incremental labelling of axes for time and FA/FI. This should have been accompanied by an explanation of the shape of the curves and the reasons for differences: Delivery versus uptake; concept of blood-gas partition coefficients; and concentration effect, thereby addressing the effects of physical characteristics and pharmacokinetics of the drugs. This was best achieved by taking a pharmacokinetic approach as opposed to a drug by drug description which was often repetitive and lacking the required explanation. The third part of the question required demonstration of understanding through effects of altered physiological conditions on the wash-in of these agents. Additional credit was given for demonstrating higher level understanding.
+
+
+No credit was given for details of drug structure, mechanism of action or clinical use, explanations of the MAC concept, graphs including other agents or wash-out, nor for explanation of the second-gas effect.
+
+
+Common mistakes included: Omitting increments on the axes; sloppy rendering of the curves so that phases of wash-in were not apparent; and inaccurate values for blood-gas partition coefficients. The concept of uptake with respect to partial pressures, blood concentrations and how these relate to FA/FI was poorly explained. Fick’s Law was frequently & unnecessarily invoked. Incorrect reasons for the effect of doubling cardiac output were common.
+
+
+Many candidates simply used arrows to their detriment when an explanation might have more accurately conveyed their understanding. Similarly, imprecise terminology can alter meaning to misunderstanding; the terms wash-in, onset, uptake and delivery appeared to be used interchangeably.
+
+## Model Answer
+
+Structure:
+- Graph
+- Reasons for difference
+- Effect of physiological changes as described
+
+### Graph
+
+<img src="resources/fa-fi.svg" style="width: 60pc;">
+
+### Reasons for Difference
+
+
+|Factor|Detail|
+| -- | -- |
+|Blood-gas partition coefficient (BGPC)|<p>- ↓ BGPC → ↓ Solubility in blood → Rate of saturation → ↑ Rate of rise FA/FI</p><p>- i.e. Des 0.42 > N~2~O 0.47 > sevo 0.69</p>|
+|MAC|<p>- ↓ Potency → ↑ Safe inspired concentration → ↑ Rate of delivery to alveoli → ↑ Rate of rise FA/FI</p><p>- Analogous to the Bowman principle</p><p>- N~2~O 105% > Des 6.6% > Sevo 2%</p>|
+|Concentration effect|<p>- Occurs with high volume carrier gas (e.g. N~2~O)</p><p>- N~2~O is ~30x more soluble than N~2~ (BGPC 0.47 cf. 0.014)</p><p>- Hence rate of N~2~O uptake >> Rate of N~2~ output</p><p>- Rapid N~2~O uptake → ↓ Alveolar pressure → ↑ Rate of delivery to alveoli → ↑ Rate of rise FA/FI</p>|
+
+### Changes
+
+
+|Factor|Detail|
+| -- | -- |
+|2 x VA|<p>- Hence 2x ratio VA:FRC</p><p>- ↑ Rate of delivery to alveoli → ↑ Rate of rise FA/FI</p><p>- More effect on soluble agents (Sevo > N~2~O > Des)</p><p>- Note: Desflurane irritant to airway → ↓ VA → ↓ Rate of rise FA/FI</p><p>- Note: N~2~O causes less respiratory depression → ↑ VA → ↑ Rate of rise FA/FI</p>|
+|2 x CO|<p>- ↑ Rate of drug uptake; but also:</p><p>- ↑ Rate of distribution → ↓ Rate of rise venous partial pressure → ↓ Rate of rise FA/FI</p><p>- More effect on soluble agents (Sevo > N~2~O > Des)</p>|
+
+
+--- 
+

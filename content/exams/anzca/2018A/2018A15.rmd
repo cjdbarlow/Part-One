@@ -1,0 +1,54 @@
+# 2018A Question 15 
+
+Describe platelets and their role in haemostasis.
+
+
+## Examiner Report
+
+51% of candidates achieved a pass in this question/
+
+
+To gain good marks candidates were required to demonstrate an understanding of the mechanism of actions of platelets in both primary and secondary haemostasis. This includes the triggers and actions in the steps of adhesion, activation, amplification and aggregation not just the words. The integration with initiation, amplification and propagation of the clotting cascade by platelet activation gained marks. Knowledge of the actions of factors released from the platelet granules, eg thromboxane A2 causing local vasoconstriction as well as facilitating aggregation and platelet derived growth factor enhancing vessel healing was required for a good mark, rather than just a list.
+
+
+The clotting cascade itself was not required for this question. Pharmacological agents and disease states that alter the function of platelets were not requested but were given marks if described in terms of mechanism of action.
+
+## Model Answer
+
+Structure:
+- Intro: Structure, life cycle, secretion
+- Platelet activation process
+- Function: Each aspect of coagulation
+
+### Introduction
+
+
+|Factor|Details|
+| -- | -- |
+|Structure|<p>- Subcellular fragment</p><p>- Biconvex, discoid</p><p>- 2-3μm greatest diameter</p><p>- No nucleus, few organelles</p><p>- Complex cytoskeleton</p><p>- Many surface receptors</p>|
+|Life cycle|<p>- Thousands produced by each megakaryocyte</p><p>- Stimulus for production is TPO</p><p>- 1/3 sequestered in the spleen</p><p>- Normal life span 1/52</p>|
+|Secretions|<p>1. Alpha granules</p><p>- Factors II, V, VII, XI, XIII (coag cascade)</p><p>- vWF (activates platelets, binds and protects circulating factor VIII)</p><p>- Fibronectin</p><p>- TFPI</p><p>- PAI-1</p><p>- PDGF</p><br><p>2. Dense granules</p><p>- ADP: Binds to P2Y1 or P2Y12 GPCR ↑ cAMP, causes activation (inhibited by thienopyridines)</p><p>- Serotonin: Binds 5-HTR (various), causes activation and vasoconstriction</p><br><p>3. Thromboxane A2</p><p>- Binds TXA2 receptor (GPCR, ↑ cAMP)</p><p>- Causes activation and vasoconstriction (inhibited by aspirin)</p>|
+
+### Platelet Activation Process
+
+
+|Factor|Details|
+| -- | -- |
+|Adhesion|<p>- Glycoprotein 1b-V-IX: Binds vWF immobilized on collagen</p><p>- GP Ia-IIa: Binds collagen directly</p><p>- GP VI: Binds collagen directly</p><p>- GP IIbIIIa: Joins platelets via free vWF and fibrinogen, only once activated (inhibited by abciximab)</p>|
+|Stimuli for activation|<p>- Collagen binding</p><p>- Paracrine binding: VWF, ADP, TXA2</p><p>- Coag factor: Thrombin</p>|
+|Effects of activation|<p>- GP IIb-IIIa receptor changes to active conformation → Aggregation + activation</p><p>- Secrete granules and TXA2 → Aggregation + activation + vasoconstriction</p><p>- Cytoskeletal contraction → Irregular shape with filopodia → Aggregation</p><p>- Express phosphatidylserine (-ve charge)</p>|
+
+### Platelet Functions
+
+
+|Factor|Details|
+| -- | -- |
+|Primary haemostasis|<p>- Vessel injury exposes platelet to subendothelial collagen</p><p>- Platelet adhesion, activation, aggregation occur</p><p>- Released mediators cause vasoconstriction, reducing blood flow</p>|
+|Promote secondary haemostasis|<p>- Platelet plug is backbone for coag cascade</p><p>- Negatively charged phosphatidylserine supports clotting assembly</p><p>- Secretion of α-granules with coag factors including vWF</p>|
+|Prevent premature fibrinolysis|<p>- Secretion of PAI-1: Inhibits t-PA or u-PA</p>|
+|Prevent runaway anticoagulation|<p>- Secretion of TFPI: Inhibits VIIa/TF, Xa</p>|
+|Stimulate wound healing|<p>- Secretion of PDGF</p>|
+
+
+--- 
+

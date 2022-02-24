@@ -1,0 +1,65 @@
+# 2018A Question 04 
+
+Outline the hazards associated with the use of CO~2~ absorbents within a circle breathing system and how the risks can be minimized.
+
+
+## Examiner Report
+
+39.2% of candidates achieved a pass in this question.
+
+
+A carbon dioxide absorber is an integral part of the circle breathing circuit.
+
+
+In order to pass this question candidates needed to discuss several of the risks associated with the use of CO2 absorbers AND the ways in which these risks could be minimised. There are multiple risks due to the presence of CO2 absorbent in the circuit, regardless of the nature of the absorbent and also some risks which are absorbent specific. To pass the candidates must have demonstrated an understanding of these differences, and discussed general risks and at least one agent specific risk.
+
+
+The most commonly discussed specific agent was soda lime, which does pose some specific risks. Better candidates were able to differentiate agent specific risks, either by comparing soda lime to older, more hazardous absorbents, such as Baralyme, or newer agents free from agent-specific risks, such as Amsorb, a Ca(OH)2-based absorbent.
+
+
+The discussion of risk reduction needed to be internally consistent, demonstrating that the candidate understood the rationale for the risk reduction method.
+
+
+Common errors, apart from errors of omission (which were the most common errors by far), were: including irrelevant detail, which did not score marks, including the chemical equations associated with CO2 absorbers or the constituents of the different absorbents (unless this related directly to a discussion of risk); incorrectly describing the effects of gas flow and moisture.
+
+
+## Model Answer
+
+Structure:
+- Physical hazards
+- Degradation products
+- Other
+- Ingredients: Each type
+
+
+### Physical Hazards of CO~2~ Absorbent
+
+
+|Hazard|Issue|Solution|
+| -- | -- |
+|Heat|<p>- Worst with baralyme + sevo (150°C)</p><p>- Risk of burns, fires, explosions</p>|<p>- Use a well sealed well-insulated canister. Change when depleted.</p><p>- Turn off when not in use. Change regularly, after excessive use, or if in doubt.</p>|
+|Spill|<p>- Risk of injury to lungs, skin, eyes</p>|<p>- Fix: Use a well sealed canister, careful not to spill.</p>|
+
+
+### Harmful Degradation Products
+
+
+|Hazard|Issue|Solution|
+| -- | -- |
+|Compound A|<p>- Reaction sevo + absorbent</p><p>- Baralyme>Sodalime>>Amsorb and Litholime)</p><p>- More likely if high sevo%, low fresh gas flow rate, high temp, fresh absorbent</p><p>- Nephrotoxic in rats at 150-200ppm</p>|<p>- Fix: Don’t use baralyme</p><p>- Fix: Use FGFR>2L/min; limit sevo to 2MAC-hours if FGF 1-2L/min</p>|
+|Carbon Monoxide|<p>- Reaction absorbent + CHF2 (difluormethyl) moiety in volatile</p><p>- Isoflurane/enflurane > desflurane >> other</p><p>- More in baralyme > sodalime</p><p>- More if absorbent hot and dry (e.g. Left on over weekend)</p><p>- HbCO can rise to 35%. Binds to Hb with 250x higher affinity than O~2~.</p>|<p>- Avoid baralyme; avoid continuous use without break</p><p>- Fix: Ensure machine turned off after use; check CO~2~ canister before use; replace if in doubt</p><p>- Fix: Use sevo</p>|
+|Other|<p>- Formaldehyde</p><p>- Methanol</p>||
+
+
+### Other
+
+
+|Hazard|Issue|Solution|
+| -- | -- |
+|Unrecognised exhaustion|<p>- When near depleted, lime colour can change back to “fresh” if left unused</p><p>- Unused OH- ions in the core migrate to the surface.</p>|<p>- Check before each case</p><p>- Use capnography in every GA</p>|
+|Airway Resistance|<p>- 4-8 mesh optimal for balance between ↓ airway resistance and ↑ surface area</p><p>- Risk of breathstacking in children</p>|<p>- Use a Mapleson circuit instead</p>|
+|Awareness|<p>- Risk if canister changed during anaesthesia</p>|<p>- Change between cases if possible</p><p>- Administer IV anaesthetic temporarily</p>|
+
+
+--- 
+

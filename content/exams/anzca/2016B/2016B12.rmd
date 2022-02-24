@@ -1,0 +1,83 @@
+# 2016B Question 12 
+
+Explain the mechanisms by which intravenous morphine produces analgesia. Your answer should focus on the location and function of mu opioid receptors.
+
+
+## Examiner Report
+
+29% of candidates achieved a pass in this question.
+
+
+The question essentially asks three things; the mechanism of action of morphine with as much detail about receptor and intermediate messenger pathways as possible, the anatomical location of mu opioid receptors, and the specific role of morphine in modifying pain pathways through its influence on the mu receptor at these locations. An example of this might be that morphine exerts influence at the periaqueductal grey through potentiation of inhibitory neuronal messaging through the mu receptor which then predominantly influences noradrenaline release to accentuate descending inhibitory control though the dorsal horn (more than serotonergic release which can exert some excitatory effects on pain pathways as well as inhibitory). In general the mechanism of morphine action was discussed well but the way in which this mechanism ties in with phyisiologic transmission of pain was handled less well.
+
+
+Candidates who were able to discuss these three factors in detail achieved a good score with the question. Discussions of analgesic effects of morphine and potential mechanisms that explain longer term effects of tolerance and hyperalgesia were allowed and also attracted marks.
+
+
+The following did not attract marks:
+- Drawing the morphine molecule.
+- Providing pharmacokinetic information.
+- Discussing pain pathways without looking at how the morphine mechanism impacts on the pain pathways.
+- Complex discussions of Fick’s Law of diffusion.
+- Drawing diagrams of pain pathways and still needing to explain mechanisms on top of this; something which took up too much valuable time.
+
+
+## Model Answer
+
+Structure:
+- Cellular effects
+- Supraspinal
+- Spinal
+- Peripheral
+- Complication of analgesia: Opioid-induced hyperalgaesia and tolerance
+
+
+### Cellular Effects
+
+Effects:
+- ↓ CAMP
+- ↓ VDCC activation
+- ↑ K^+^ efflux → Hyperpolarisation
+
+
+### Supraspinal Analgesia
+
+
+|Factor|Detail|
+| -- | -- |
+|Receptor|Mu mostly (K and N/OFQ may be pro-nociceptive)|
+|Locations|<p>- Brainstem: Peri-aqueductal grey matter, rostral ventromedial medulla, nucleus raphe magnus</p><p>- Other: Thalamus, hypothalamus, cortex</p>|
+|Effects of opioids|<p>- ↑ Descending modulation</p><p>- Central effects</p>|
+|Other|<p>Rostral ventromedial medulla cells:</p><p>- Many ascending/descending inputs/outputs</p><p>- Pre- and post-synaptically act to inhibit neurotransmitter release</p><p>- Note noradrenaline is anti-nociceptive; serotonin is both pro- and anti-nociceptive</p>|
+
+
+### Spinal Analgesia
+
+
+|Factor|Detail|
+| -- | -- |
+|Receptor|- M, K, D|
+|Location|<p>- Dorsal horn, especially layer 2</p><p>- Major: Pre-synaptic = 1° afferent = nociceptor</p><p>- Minor: Post-synaptic = 2° afferent = projection neuron (nociceptive specific or wide dynamic range)</p>|
+|Effect|<p>- ↓ Ascending nociceptive signal</p><p>- No direct effect on glutamatergic transmission; ineffective for chronic or neuropathic pain</p>|
+
+
+### Peripheral Analgesia
+
+
+|Factor|Detail|
+| -- | -- |
+|Receptor|- M|
+|Location|<p>- Peripheral nerves</p>|
+|Effect|<p>- Unclear</p>|
+
+
+### Complications of Analgesia
+
+
+|Tolerance|<p>- ↓ Duration then ↓ intensity of effect of a given drug dose with long term use</p><p>- Occurs over days-weeks</p><p>- Multiple causes: e.g. Downregulation of receptors, upregulation of cAMP</p>|
+| -- | -- |
+|Hyperalgaesia|<p>- ↑ Pain with chronic opioid use; including hyperalgaesia and allodynia</p><p>- Multiple causes: ↑ NMDA activation, descending facilitation, receptor dysfunction (Gi → Quasi Gs)</p>|
+
+
+--- 
+

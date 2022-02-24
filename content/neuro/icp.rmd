@@ -1,0 +1,102 @@
+---
+level: 2
+---
+
+# Intracranial Pressure
+
+:::CICM
+Explain the control of intra-cranial pressure
+:::
+
+:::ANZCA
+Outline the factors determining intracranial pressure and discuss its regulation
+:::
+
+Normal ICP is ≤13mmHg, with some rhythmic variation occurring on the transduced waveform:
+
+* **P1** is the first peak, and represents arterial pulsation
+* **P2** is the second peak, and represents intracranial compliance\
+If P2>P1, this is suggestive of poor intracranial compliance
+* **P3** is the third peak, and is a dicrotic wave representing valve closure
+
+In addition, a second set of Lundberg waves are described:
+
+* **A waves** are **pathological**, and consist of square-wave plateaus up to 50mmHg lasting **5-20 minutes**. They are suggestive of **herniation**, and are always pathological.
+* **B waves** are variable spikes in ICP at 30-120 second intervals, suggestive of cerebral **vasospasm**
+* **C waves** are oscillations that occur 4-8 times per minute, and are a benign phenomena occurring with respiratory and blood pressure variations
+
+**Raised intracranial pressure** may cause focal ischaemia when ICP >20mmHg, and global ischaemia when the ICP >50mmHg:
+
+<img src="resources/monroe-kellie.svg">
+
+
+## Monroe Kellie Doctrine
+
+This states that:
+
+* The skull is a rigid container of a fixed volume, containing approximately 8 parts brain, 1 part blood, and 1 part CSF
+* As it has negligible elastance, any **increase in volume** of one substance must **be met with** a **decrease in volume** of another **or** a **rise in ICP**^[Elastance is the *technically* correct term when discussing ICP, as we are discussing a change in *pressure* for a given change in volume.\
+\
+Compliance is a change in *volume* for a given change in pressure.]
+
+
+### Physiological Responses to an Increase in ICP
+
+* Displacement of CSF into the spinal subarachnoid space
+* Compression of vascular bed
+* Increased CSF reabsorption
+
+
+* The Cushing reflex may occur in brainstem herniation\
+Occurs as a reflex SNS response to medullary ischaemia, and describes a **triad** of:
+	* Hypertension\
+	To improve CPP.
+ 	* Bradycardia\
+ 	Due to a baroreceptor response.
+ 	* Irregular respiration\
+ 	Due to respiratory centre dysfunction.
+
+
+## Physiological Basis of Treatment
+
+Treatment can be classified as per the Monroe Kellie doctrine:
+
+### Brain
+
+* **Osmotic agents** such as mannitol and hypertonic saline\
+Increase plasma osmolality and expand blood volume, creating an osmotic gradient between brain parenchyma and blood with a resulting reduction in brain oedema and ICP.
+* Timely **evacuation** of mass lesions and intracranial haemorrhage
+
+### CSF
+
+* **External Ventricular Drain**\
+Facilitates removal of CSF.
+
+### Blood
+
+* Reducing cerebral metabolic rate\
+Results in reduced blood flow due to **flow-metabolism coupling**. May be achieved with:
+    * **CNS depressants** such as propofol, benzodiazepines, or barbiturates\
+    Have several beneficial effects:
+        * Depress cerebral metabolism which reduces oxygen requirements
+        * Reduce **seizure** risk, which is detrimental because it greatly increases cerebral O~2~ demand and impairs venous return
+        * Improves ventilator dyssynchrony, limiting coughing and bearing down, and subsequent rises in ICP
+    * **Avoid hyperthermia**\
+    Causes a reduction in cerebral metabolism and risk of seizures. 
+    * **Prevention of hypoxia or hypercapnea**\
+    Hypoxia and hypercapnea both cause vasodilatation, with a subsequent increase in cerebral blood volume, blood flow, and ICP.
+        * Aim **low-normal CO~2~**\
+        Causes vasoconstriction and a subsequent reduction in cerebral blood flow and blood volume. This leads to:
+            * Reduction in ICP
+            * Reduction in cerebral oxygen delivery\
+            Consequently, a low-normal ETCO~2~ target is used to avoid tissue hypoxia.
+
+---
+
+## References
+
+1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+2. Cross ME, Plunkett EVE. Physics, Pharmacology, and Physiology for Anaesthetists: Key Concepts for the FRCA. 2nd Ed. Cambridge University Press. 2014.
+3. Stocchetti N, Maas AI. [Traumatic intracranial hypertension](http://www.nejm.org/doi/full/10.1056/NEJMra1208708). N Engl J Med. 2014
+May 29;370(22):2121-30. 
+4. Barrett KE, Barman SM, Boitano S, Brooks HL. Ganong's Review of Medical Physiology. 24th Ed. McGraw Hill. 2012.

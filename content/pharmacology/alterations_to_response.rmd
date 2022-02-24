@@ -1,0 +1,321 @@
+---
+level: 3
+---
+
+# Alterations to Drug Response
+
+:::dual
+Define tachyphylaxis, tolerance, addiction, dependence and idiosyncrasy
+:::
+
+:::ANZCA
+Describe alterations to drug response due to physiological change with particular reference to the elderly\
+\
+Describe alterations to drug response due to pathological disturbance with particular reference to cardiac, respiratory, renal and hepatic disease
+:::
+
+There are four mechanisms which result in variable response to drug:
+
+* Alteration in drug that reaches the receptor\
+This is typically due to pharmacokinetic factors.
+* Relative difference in presence of exogenous and endogenous ligands\
+Antagonists will have a greater effect in the presence of high endogenous ligand concentration.
+* Variation in receptor function and number\
+Up-regulation and down-regulation of receptors may occur as a consequence of prolonged stimulus.
+* Alteration in function distal to the receptor\
+
+## Key Terms
+
+* **Tachyphylaxis** is the **rapid decrease in response** to repeated dosing over a **short time period**, usually due to depletion of transmitter
+* **Desensitisation** is the **loss in response** over a **long time period**, usually due to change in receptor morphology or loss in receptor numbers
+* **Withdrawal** is a pathological response when a drug is ceased\
+    * During administration receptors may be:
+        * **Up-regulated** in the continued presence of an antagonist\
+        * **Down-regulated** in the continued presence of an agonist
+    * Loss of receptor numbers may precipitate withdrawal when the agonist or antagonist is ceased
+* **Addiction** is a behavioural pattern characterised by compulsive use and fixation on acquiring and using a drug
+* **Idiosyncrasy** is an individual patient response to a drug\
+Typically mediated by a reactive metabolite rather than the drug itself.
+
+
+## Tolerance
+
+**Tolerance** is the requirement for a **larger dose** to achieve the **same effect**, due to altered sensitivity of the receptors to the stimulant. Can be either:
+
+* Pharmacokinetic tolerance
+* Pharmacodynamic dynamic tolerance
+
+### Pharmacokinetic Tolerance
+
+Occurs via:
+
+* **Altered drug metabolism**\
+Metabolism may be **increased or decreased**:\
+    * Enzymatic induction and increased drug metabolism\
+    Increased hepatic enzyme pathway capacity increases metabolism and lowers plasma concentration.
+    * Decreased metabolism\
+    Decreased metabolism of a prodrug can result in a reduced effect.
+
+
+### Pharmacodynamic Tolerance
+
+Occurs via:
+
+* **Change in receptor morphology**\
+Can occur with ion-channel receptors and GPCRs:\
+    * Ion-channel receptors bind the ligand but do not open the channel
+    * GPCR become 'uncoupled' - phosphorylation of the receptor makes it unable to activate second messenger cascade, though it can still bind the ligand.
+* **Receptor down-regulation**\
+Prolonged exposure to agonists causes transmembrane (typically hormone) receptors to become **internalised**. This occurs more slowly than uncoupling.
+* **Receptor up-regulation**\
+Prolonged exposure to antagonists causes an up-regulation of receptor.
+    * Can lead to rebound effects when a drug is ceased (e.g. hypertension with cessation of clonidine)
+* **Exhaustion of mediators**\
+Similar to tachyphylaxis - depletion of a mediating substance decreases the effect.
+* **Physiological adaptation**\
+Actions of a drug may be countered by a compensatory homeostatic response.
+* **Active removal of the drug from the cell**
+
+## Patient Factors Affecting Drug Response
+
+Pharmacokinetics and pharmacodynamics are affected in:
+
+* Pregnancy
+* Extremes of age
+    * Foetus
+    * Neonate
+    * Elderly
+* Other
+
+### Pregnancy
+
+**Pharmacokinetic**:
+
+* **Absorption**
+    * Decreased gastric emptying
+    * Nausea and vomiting
+    * Increased cardiac output
+        * Increases IM and SC absorption
+    * Volatiles:
+        * Increased onset due to increased MV and reduced FRC
+        * Decreased onset due to increased CO
+* **Distribution**
+    * Increased V~D~ due to:
+        * Increased TBW
+        * Increased plasma volume
+        * Increased fat mass
+    * Decreased albumin and α~1~-glycoprotein
+* **Metabolism**
+    * No change to HBF
+    * Progesterone induces enzymes
+    * Oestrogen competes for enzymes
+    * Decreased plasma cholinesterase activity
+* **Elimination**
+    * Increased RBF
+    * Increased GFR
+
+**Pharmacodynamic**:
+
+* Decreased MAC
+* Increased LA sensitivity due to decreased α~1~-glycoprotein
+
+### Foetus
+
+:::info
+Drugs that cross the placenta can be teratogenic to the foetus, besides exerting their usual pharmacological effects.
+:::
+
+`r tufte::margin_note("A teratogen is a drug which adversely affects foetal development. Teratogens have diverse mechanisms that are not well understood")`
+
+**Pharmacokinetic** factors predominantly **affect placental transfer**, and include:
+
+* **Lipid solubility**\
+Lipid soluble drugs diffuse more rapidly.
+* **Molecular size**\
+Drugs with a molecular weight >1000 dalton cross the placenta slowly.
+* **Protein binding**
+* **Placental transporters**\
+Some medications are actively removed from foetal circulation.
+* **Placental metabolism**\
+The placenta can metabolise some medications, although in some cases results in toxic metabolites.
+
+Maternal **pharmacodynamic** factors predominantly affect the uterus and breast; **major organ systems** are **not significantly affected**.
+
+### Neonates
+
+At < 1 year of age, pharmacokinetics are significantly altered:
+
+* **Absorption**
+    * Delayed gastric emptying, increasing absorption of drugs metabolised in the stomach
+    * Decreased secretion of pancreatic enzymes and bile salts impairs absorption of lipid soluble medications
+    * Smaller muscle mass and higher relative muscle blood flow increases IM onset
+    * Increased V~A~:FRC ratio increases onset of volatiles
+* **Distribution**
+    * TBW is 70-75% (compared to 50-60% for an adult), and extracellular water is 40% (compared to 20%), which typically **increases V~D~**
+    * Preterm infants have reduced body fat
+    * Greater proportion of cardiac output goes to head, increasing onset of centrally acting (e.g. anaesthetic) drugs
+    * Decreased albumin and α~1~-glycoprotein
+    * Immature BBB increases uptake of partially ionised drugs
+* **Metabolism**\
+    * Enzymatic capacity of all pathways is reduced, which prolongs elimination half-lives and reduces clearance.
+        * Hepatically metabolised drugs must be dose adjusted accordingly
+    * The glucuronide pathway may not mature until age 4
+* **Excretion**\
+    * **GFR is proportionally lower** and dose not reach adult equivalence until 6-12 months
+        * GFR is **further reduced** in **pre-term** infants
+        * GFR is increased in **1-3 year** olds
+
+
+**Pharmacodynamic** considerations:
+
+* Smaller ACh reserves increase sensitivity to NMBs
+* Increased MAC but more rapid onset
+* NSAIDs cause closures of ductus arteriosus
+
+### Elderly
+
+:::info
+Though there is a linear decrease in functional capacity of major systems beginning at 45, alterations are predominantly a consequence of polypharmacy and subsequent drug interactions.
+:::
+
+**Pharmacokinetic**:
+
+* **Absorption**
+    * Laxatives and prokinetic increase gastric emptying and reduce absorption of oral agents
+* **Distribution**
+    * There is a proportional increase in fat\
+    * There is a proportional decrease in:
+        * Lean body mass
+        * Total body water
+        * Albumin
+* **Metabolism**
+    * ↓ Hepatic blood flow 
+    * ↓ Enzymatic activity\
+    Phase I > Phase II.
+* **Elimination**
+    * Loss of nephron number with age reduces renal clearance
+
+
+**Pharmacodynamic**:
+
+* Increased sensitivity to sedatives, opioids, and hypnotics
+* Decreased sensitivity to β-agonists and antagonists
+* Decreased MAC
+* Polypharmacy increases potential for drug interactions
+
+
+## Disease Factors Affecting Drug Response
+
+Pharmacokinetics and pharmacodynamics are altered in disease states, including:
+
+* Cardiac disease
+* Hepatic disease
+* Obesity
+* Renal disease
+
+### Cardiac Disease
+
+**Pharmacokinetic**: 
+
+* **Absorption**
+    * Decreased cardiac output decreases PO absorption due to decreased gradient
+* **Distribution**
+    * Decreased CO prolongs arm-brain circulation time
+    * Increased α~1~-glycoprotein increasing binding of basic drugs
+    * Decreased V~D~
+* **Metabolism**
+    * **Low-cardiac** output states reduce hepatic flow and will **reduce** metabolism of drugs with a **high extraction ratio**
+    * **High-output** states have the opposite effect
+* **Elimination**
+    * Decreased renal blood flow
+
+### Hepatic Disease
+
+Pharmacokinetic:
+
+* **Absorption**
+    * Porto-caval shunting\
+    Decreased first pass metabolism.
+* **Distribution**
+    * Impaired synthetic function reduces plasma proteins and increases unbound fraction
+    * Increased V~D~ due to fluid retention
+    * Metabolic acidosis changes ionised fraction
+* **Metabolism**\
+    * Impaired phase I and II reactions
+    * Reduced plasma esterase levels
+* **Elimination**
+    * Reduced biliary excretion
+
+**Pharmacodynamics**:\
+
+* Hepatic encephalopathy increases sensitivity to sedatives and hypnotics
+
+### Renal Disease
+
+**Pharmacokinetic**:
+
+* **Absorption**
+    * Uraemia prolongs gastric emptying
+* **Distribution**
+    * Increased V~D~ due to fluid retention
+    * Metabolic acidosis adjusts ionised fraction
+* **Metabolism**
+    * Buildup of toxic metabolites may inhibit drug transporters
+    * Uraemic toxins inhibit enzymes and drug transporters
+* **Elimination**
+    * Reduced clearance of active metabolites/active drug cleared renally
+
+### Obesity
+
+Pharmacokinetic:
+
+* **Absorption**:
+    * Delayed gastric emptying
+    * Decreased subcutaneous blood flow
+    * Practical difficulty with IM administration
+* **Distribution**:
+    * Increased V~D~ of lipid soluble drugs
+        * Dosing of lipid-soluble drugs by actual body weight
+        * Dosing of water-soluble drugs by lean body weight
+    * Increased CO
+    * Increased α~1~-glycoprotein
+    * Increased blood volume
+    * Greater lipid binding to plasma proteins, increasing free drug fractions
+* **Metabolism**:
+    * Increased plasma and tissue esterase levels
+    * Normal or increased hepatic enzymes
+* **Elimination**
+    * Increased renal clearance due to increased CO
+
+
+### Non-Specific Alterations to Drug Response
+
+**Pharmacokinetic**:
+
+* **Absorption**:
+    * Site of administration\
+    Drugs given centrally will act faster than those given into peripheral veins.
+    * Rate of administration\
+    Faster rate of administration will increase rate of onset.
+
+
+**Pharmacodynamic**:
+
+* Drug tolerance
+Increase requirement of drug.
+    * e.g. induction anaesthetic agents in patients tolerant to CNS depressants.
+* Drug interaction\
+May be:
+    * Synergistic
+    * Additive
+    * Antagonistic
+
+---
+
+## References
+
+1. Anderson C. [Variability in Drug Response 1](https://icuprimaryprep.files.wordpress.com/2012/05/variability-in-drug-response-1.pdf). ICU Primary Prep. 
+2. Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. Sixth Edition. Churchill Livingstone.
+3. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+4. CICM Examiner Report: Sep/Nov 2012
+5. Alfred Anaesthetic Department Primary Exam Tutorial Series

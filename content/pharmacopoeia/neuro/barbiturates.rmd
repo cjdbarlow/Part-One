@@ -1,0 +1,35 @@
+# Barbiturates
+
+Thiopentone is a positive allosteric modulator at GABA~A~ receptors (at a separate site to benzodiazepines) in the CNS. Barbiturates cause:
+
+* Decreased rate of dissociation of GABA\
+Increases the duration of channel opening, causing effective hyperpolarisation due to increased Cl^-^ conductance.
+    * Clinical effects differ from benzodiazepines as benzodiazepines increase *frequency* of opening, whilst barbiturates increase *duration*
+* Direct activation of the channel at higher doses\
+
+|Property|Thiopentone
+|--|--|
+|**Class**|Barbiturate
+|**Uses**|Induction of anaesthesia, status epilepticus, control of ICP refractory to other measures
+|**Presentation**|500mg of yellow powder with NaCO~3~ for reconstitution as a 2.5% solution. Container uses nitrogen as a filler gas (to prevent HCO~3~^-1^ formation when CO~2~ combines with water during reconstitution, which ↓ pH and therefore water solubility). pH of 11 when reconstituted - bacteriostatic solution.
+|**Isomerism**|Tautomer. pKa of 7.6, such that 60% is unionised at pH 7.4 (i.e. water solubility decreases once injected).
+|**Route of Administration**|IV
+|**Dosing**|3-7mg.kg^-1^. Consider 75mg boluses, assessing haemodynamic and neuronal effects.
+|**Distribution**|65-85% protein bound. High lipid solubility and CBF gives a rapid, reliable onset. Rapid offset due to redistribution, with a fast t~1/2~α of 8 minutes. Prolonged elimination half life (11 hours) contributes to long CSHT. Increased unionised portion in acidosis. t~1/2~ke0~ of 1.2 minutes.
+|**Metabolism**|Capacity dependent CYP450 metabolism - saturates at high doses (long CSHT with infusion). Metabolised to (active) **pentobarbital**, which also increases the duration of its clinical effects.
+|**Elimination**|Renal of metabolites, < 1% excreted unchanged
+|**Resp**|Respiratory depression, bronchospasm, laryngospasm
+|**CVS**|Vasodilation and venodilation (↓ MSFP), ↓ inotropy, with compensatory tachycardia (baroreceptor response preserved)
+|**CNS**|Hypnosis and anaesthesia within 40 seconds of injection, with reliable loss of lash reflex. Anticonvulsant. Dose-dependent flattening of the EEG (β 🡒 α 🡒 θ 🡒 δ 🡒 burst suppression 🡒 isoelectric), causing progressive ↓ CMRO~2~ (55% of maximal during burst suppression), ↓ CBF, and ↓ ICP. <br><br> Resolution of induction dose in 5-10 minutes due to redistribution.\
+|**Endocrine**|↓ RBF causing ↓ UO
+|**GIT**|Hepatic enzyme induction
+|**Immune**|Anaphylaxis ~1;20,000
+|**Metabolic**|May precipitate acute **porphyric crises** and is **contraindicated** in these patients
+|**Other**|Intraarterial injection causes precipitation as water solubility decreases at blood pH. Microembolisation and ischaemia result, which should be treated with intraarterial local anaesthesia, analgesia, anticoagulation, and sympathetic blockade of the limb. <br><br> Tissue necrosis on extravasation.
+
+---
+## References
+
+1. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+2. [LITFL - Thiopentone](http://lifeinthefastlane.com/book/critical-care-drugs/thiopentone/)
+3. Hill, SA. [Pharmacokinetics of drug infusions](http://ceaccp.oxfordjournals.org/content/4/3/76.full.pdf). Continuing Education in Anaesthesia. 2004.

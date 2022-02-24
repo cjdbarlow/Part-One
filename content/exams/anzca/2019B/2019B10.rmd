@@ -1,0 +1,100 @@
+# 2019B Question 10 
+
+Discuss the physiological responses to administration of 2 litres of Hartmann’s solution intravenously over 1 hour to a conscious, healthy, euvolaemic 70kg adult.
+
+
+## Examiner Report
+
+43.7 % of candidates achieved a pass in this question:
+
+|Domains|Comments|
+|--|--|
+|Composition of Hartmann’s and ECF|No values given for composition of Hartmann’s solution made it difficult for full explanation of fluid distribution & osmolar changes. Even though not specifically asked, did make for a more complete answer & explanation.|
+|Water distribution|Required statements that predominant distribution would be to extracellular fluid with correct amounts or proportion remaining intravascularly & then some moving intracellular due to hypoosmolar nature. Timing of fluid movements (half-life) added to a more complete explanation.|
+|Cardiovascular considerations|Predominant effects of increased venous return & increased pre-load with effects on blood pressure & venous capacitance allowed for a more comprehensive explanation of the cardiovascular consequences|
+|Neuroendocrine considerations|Central integration with baroreceptor responses both high & low pressure & their significance was expected. The renal response including mention of ANP, ADH & RAAS required some explanation & details|
+|Other relevant material|Extra credit was given for including content of the metabolic effects of the metabolism of lactate via the Cori cycle in the liver. Inclusion of the decrease in body temperature due to the potential for unwarmed volume of fluid also was rewarded|
+|Other comments|Common errors involved:<p>- Incorrect reading of the question as 1L over 2 hours & underestimation of the effects & responses.</p><p>- Inclusion of generic facts about fluid distribution & ion movements not directly related to the specifics of the question did not attract marks.</p><p>- Confusion over acid-base effects, osmolar & ionic changes</p>|
+
+## Model Answer
+
+Structure:
+- Summary
+- Composition
+- Ionic effects
+- Fluid effects
+- Metabolic effects
+- Cardiovascular effects
+- Neuroendocrine effects
+- Metabolic effects
+
+### Summary
+
+- Significant initial plasma expansion, subsequent distribution to ISF > plasma > ICF
+- Distribution and excretion may depend upon hydration status
+- Multi-system response restores plasma volume to normal
+- Causes less electrolyte derangement than normal saline
+
+### Composition of CSL
+
+
+||Concentration in Hartmann’s (mM)|Concentration in plasma (mM)|
+| -- | -- | -- |
+|Na^+^|131|140|
+|Cl-|111|100|
+|HCO~3~^-^ |29 (as lactate)|24|
+|K^+^|5|4|
+|Ca^2+^|2|2|
+|Osmolality|278|290|
+|Oncotic pressure|0|25|
+|pH|5-7|7.4|
+
+### Ionic Effects
+
+
+||Distribution|Effect|Cause|
+| -- | -- | -- | -- |
+|Na^+^|ECF|Mild ↓ [Na^+^]|Active membrane transport (Na^+^K^+^ATPase)|
+|Cl-|ECF|Mild ↑ Cl-|Preservation of electrical neutrality|
+|K^+^|ICF|Mild ↓ |<p>↑ Distal nephron flow</p><p>→ ↑ Activity ENaC and ROMK</p><p>→ ↑ K^+^ excretion</p><p>Active membrane transport (Na^+^K^+^ATPase)</p>|
+|Ca^2+^|ECF|↔|Active membrane transport (ATPases, exchangers)|
+|HCO~3~^-^|ECF=ICF|↔|-|
+
+### Fluid Effects
+
+
+|Factor|Details|
+| -- | -- |
+|Immediate distribution|<p>- Entire 2L into plasma (20% ↑ blood volume)</p><p>- Distribution half life ~5 minutes</p>|
+|Steady state distribution|<p>- 479mL in plasma (10% ↑ volume)</p><p>- 1438mL in ISF (14% ↑ volume)</p><p>- 83mL in ICF (minimal %↑ volume)</p>|
+|Excretion|<p>- Glomerulotubular imbalance</p><p>&emsp;- ↓ Oncotic pressure → ↑ GFR + ↓ prox tubule reabsorption → ↑ Urine flow rate</p><p>- Pressure diuresis</p><p>&emsp;- ↑ MAP → ↑ Urine output (?Mechanism)</p><p>- Hormonal response</p><p>- ↓ ADH</p><p>- ↓ RAAS</p><p>- ↑ ANP</p><p>(Note excretion of both water and Na^+^ is faster than for normal saline)</p>|
+
+### Metabolic effects
+
+
+|Factor|Details|
+| -- | -- |
+|Acid-base|<p>- Metabolic alkalosis (wins)</p><p>&emsp;- 58mmol lactate infused → 58mM H+ consumed</p><p>&emsp;- Lactate + H+ → CO~2~ + H~2~O</p><p>&emsp;- 58mmol lactate infused → 58mmol H+ consumed (≈ 58mmol HCO~3~^-^ produced)</p><p>- Metabolic acidosis (loses)</p><p>&emsp;- ↑ [Cl-] → ↓ Strong ion difference → ↑ Dissociation of H~2~O → ↑ [H+]</p>|
+|Temperature|<p>- Effect: ↓ core temp and skin temp (? >1°C)</p><p>- Response: Vasoconstriction, shivering, heat conservation behaviour</p>|
+|Osmolality|- ↓ 2mM → ↓ ≤1% → No response (ADH sensitivity ∆2%)|
+
+
+### Cardiovascular Effects
+
+
+|Effect|Details|
+| -- | -- |
+|Direct effects|- ↑ Blood volume → Distension of capacitance vessels → ↑ MSFP → ↑ Venous return → ↑ Preload → ↑ Cardiac output → ↑ MAP|
+|Response|<p>- High pressure baroreceptors</p><p>&emsp;- ↑ MAP → ↑ Stretch → ↑ Afferents to NTS → ↓ SNS output, ↑ PSNS output → ↓ HR, ↓ contractility, vasodilatation</p><p>- Low pressure baroreceptors</p><p>&emsp;- ↑ CVP → ↑ Stretch → ↑ Afferents to NTS → Same</p>|
+
+### Neuroendocrine Effects
+
+
+|Effect|Details|
+| -- | -- |
+|RAAS|<p>- ↑ MAP → ↑ Renal baroreceptor stretch → ↓ Renin release → ↓ Angiotensin 2</p><p>- Vasodilatation</p><p>- ↓ Na^+^/H+/H~2~O reabsorption from proximal tubule</p>|
+|ADH|<p>- ↑ Venoatrial stretch → ↓ ADH release (sensitivity ~∆10%)</p><p>- Vasodilatation</p><p>- AQP2 downregulation → ↓ H~2~O reabsorption from collecting ducts</p><p>- Ureaporin downregulation → ↓ Medullary interstitial osmolality → ↓ H~2~O reabsorption</p>|
+|ANP|<p>- ↑ CVP → ↑ Venoatrial stretch → ↑ ANP release</p><p>- Dilatation of afferent arterioles → ↑ GFR, ↑ vasa recta flow, washout of medullary interstitium</p><p>- Inhibit NCC in distal tubule → ↓ Na^+^Cl- reabsorption</p><p>- Inhibit ENaC in collecting ducts → ↓ Na^+^ reabsorption</p>|
+
+--- 
+

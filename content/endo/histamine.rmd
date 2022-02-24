@@ -1,0 +1,51 @@
+# Histamine
+
+
+> Describe the physiology of histamine ~~and serotonin~~
+
+Histamine is an endogenous amine produced by decarboxylation of **histidine**. Histamine is:
+
+* Present in all tissues\
+Particularly abundant in those exposed to the outside environment:
+    * Lungs
+    * Gut
+    * Skin (lungs, gut, skin)
+* Produced in and released by:
+    * Mast cells\
+    Released by exocytosis during inflammatory and allergic reactions.
+    * Basophils
+    * Histaminocytes in the stomach
+    * Histaminergic neurons in the CNS
+* Metabolised by:
+    * Histaminase
+    * Imidazole N-methyltransferase
+  \
+## Histamine Receptors and Effects
+
+Histamine acts on:
+
+* H~1~ receptors\
+Gq receptor involved broadly in inflammation and vasodilation.
+* H~2~ receptors
+Gs receptor involved in gastric acid secretion.
+* H~3~ receptors\
+Gi presynaptic receptor in the CNS.
+* H~4~ receptors\
+Gi receptor located in bone marrow and other solid haematological organs (spleen, liver, thymus).
+
+|System|H~1~|H~2~|H~3~|H~4~|
+|--|--|--|
+|**Resp**|Bronchoconstriction|Bronchodilation|||
+|**CVS**|↑ Vasodilation (endothelial effect), coronary vasoconstriction, ↓ AV nodal conduction|↑ HR, ↑ inotropy, coronary vasodilation, ↑ capillary permeability|||
+|**CNS**|||Presynaptic inhibition of neurotransmission||
+|**MSK**|Weal due to local vasodilation, itch, ↑ nociception||||
+|**GIT**|↑ Peristalsis|↑ Gastric acid secretion|||
+|**Haeme**||||Alter IL-16 release
+
+---
+
+## References
+
+1. Parsons ME, Ganellin CR. [Histamine and its receptors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1760721/). British Journal of Pharmacology. 2006;147(Suppl 1):S127-S135. doi:10.1038/sj.bjp.0706440.
+2. Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.
+3. Bowen R. [Histamine](http://www.vivo.colostate.edu/hbooks/pathphys/endocrine/otherendo/histamine.html). Vivo. Colorado State.

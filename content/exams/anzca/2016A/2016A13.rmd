@@ -1,0 +1,65 @@
+# 2016A Question 13 
+
+Outline the physiological mechanisms of progression from acute to chronic pain and how drugs may alter this progression.
+
+
+## Examiner Report
+
+24% of candidates achieved a pass in this question.
+
+
+Good answers were able to explain the physiological changes that occur in the acute pain pathway for the evolution of acute to chronic pain including some of the associated characteristics for example: sensitization, wind-up, allodynia, hyperalgesia, phantom pain and memory. (Without the proposed physiological mechanisms for these characteristics the terms themselves gained no marks.) The risk factors for progressing to chronic pain were discussed including, patient factors, surgical factors, pain character and drug factors. Once highlighted the physiological changes and the risks factors were used as a basis to discuss the mechanism of action of drugs used to alter the progression of acute pain to chronic pain.
+
+
+Detailed descriptions of the acute pain pathway and management of chronic/complex pain syndromes were off topic and gained little credit.
+
+## Model Answer
+
+Structure:
+- Intro: Chronic pain
+- Peripheral sensitization
+- Dorsal horn sensitization
+- Higher processing
+
+### Introduction
+
+
+|Chronic Pain Factor|Description|
+| -- | -- |
+|Definition|<p>- Chronic Pain: > 3 months</p><p>- Initial insult resolved</p>|
+|Features|<p>- Hyperalgaesia: Hurts more than it should</p><p>- Allodynia: Hurts when shouldn’t</p><p>- Neuropathic pain: Hurts due to nerve damage</p><p>- Phantom pain: Hurts after body part removed</p>|
+|Risk factors|<p>- Surgical: Nerve injury e.g. Amputation, breast, thoracotomy → ↑ Dorsal horn activation</p><p>- Patient: Depression, psychosocial stressors → Altered cortical processing</p><p>- Pain character: Neuropathic, phantom → ↑ Dorsal horn activation</p>|
+
+### Peripheral Sensitization
+
+
+|Factor|Description|
+| -- | -- |
+|Inflammation → Nociception|<p>- Inflamed tissue and WBC release NGF, neurturin etc</p><p>- ↑ Nociceptive receptor activation and expression</p>|
+|Nociception → Inflammation|<p>Positive feedback loop:</p><p>- Nociceptor releases substance P, VIP etc</p><p>- Mast cell degranulation</p><p>- Vasodilatation, capillary leak</p><p>- WBC chemotaxis, differentiation</p><br>|
+|Nerve injury → Nociception|<p>- Spontaneous abnormal discharge → Neuropathic pain</p><p>- ?Altered receptor function</p>|
+|Prevention|<p>- Anti-inflammation: NSAID</p><p>- Inhibit bradykinin-sensitive nociceptors: Paracetamol</p><p>- Nerve injury: No effective peripheral agent exists yet</p>|
+
+### Dorsal Horn Sensitization
+
+
+|Factor|Description|
+| -- | -- |
+|Gain of function WDR neurons|<p>- Inflamed tissue, injured nerve → ↑ NMDA activation</p><p>- Brief: ↑ Receptor irritability → “wind-up”</p><p>- Persistent: Synaptic reinforcement → “long term potentiation”</p><p>- Mechanism: NMDA → 2nd messenger and altered gene expression</p><p>&emsp;- Early: ↑ c-Fos, COX-2</p><p>&emsp;- Late: ↑ NK1, TrkB</p>|
+|Gain of function of excitatory neurons|<p>- Inhibition of VDKC → ↑ Excitability</p>|
+|Loss of function of inhibitory neurons||
+|Abnormal new connections|<p>- e.g. Aβ 1° afferents → Nociceptive specific 2° afferents</p><p>- Touch becomes painful</p>|
+|Effects on chronic pain|<p>- Hyperalgaesia</p><p>- Allodynia</p><p>- Expansion of receptive field</p>|
+|Prevention|<p>- Regional anaesthetic: Inhibit pre-synaptic VDNaC</p><p>- Neuraxial anaesthetic: Inhibit VDNaC at dorsal horn, spinal nerve root (very effective)</p><p>- Monoamine reuptake inhibitors: ↓ Pre-synaptic activity</p><p>- NMDA antagonists: ↓ Post-synaptic activity, sensitisation, reinforcement (very effective)</p><p>- Antagonists at pre-synaptic VdCC α~2~δ subunit: ↓ Pre-synaptic activity</p><p>- Opioids: Inhibit 1° afferent (less effective for chronic pain)</p>|
+
+### Higher Processing
+
+
+|Region|Description|
+| -- | -- |
+|Thalamus|- ↑ Production of CCL21 → ↑ PGE2 production by microglia → Sensitisation<br>  → Hyperalgaesia, allodyania|
+|Cerebral cortex|<p>- Psychiatric illness increases risk of chronic pain</p><p>- Mechanism poorly understood</p><p>- Anti-depressants may help (e.g. SSRI – fluoxetine)</p>|
+
+
+--- 
+

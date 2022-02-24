@@ -1,0 +1,54 @@
+---
+level: 3
+---
+
+# Hypo and Hypercapnea
+
+:::CICM
+Explain the physiological effects of ~~hyperoxia, hypoxaemia~~, hypercapnia, hypocapnia~~, and carbon monoxide poisoning~~
+:::
+
+Carbon dioxide is lipid soluble and can rapidly cross membranes, allowing it affect acid-base status in any compartment.
+
+## Hypercapnea
+
+* **Respiratory Effects**\
+    * Increased respiratory drive via chemoreceptor stimulation
+
+* **CVS effects**\
+    * Peripheral vasodilation
+        * May cause tachycardia from sympathetic stimulation
+    * Pulmonary vasoconstriction
+    * Myocardial depression\
+    Intracellular acidosis.
+    * Arrhythmogenic
+
+
+* **CNS effects**
+    * Increased CBF
+    * Increased ICP secondary to increased CBF
+    * SNS activation
+    * CNS depression\
+    When PaCO~2~ > 100mmHg
+
+## Hypocapnea
+
+* **Respiratory Effects**
+    * Left-shift of oxyhaemoglobin dissociation curve
+    * Respiratory depression
+* **CVS effects**\
+    * Myocardial depression\
+    Intracellular alkalosis.
+* **CNS effects**\
+    * Decreased cerebral blood flow
+* **Electrolyte effects**
+    * Decreased serum K^+^
+    * Decreased serum Ca^2+^\
+    Leads to paresthesias and twitches.
+        * Ca^2+^ binds to H^+^ binding site on albumin\
+
+---
+
+## References
+
+1. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.

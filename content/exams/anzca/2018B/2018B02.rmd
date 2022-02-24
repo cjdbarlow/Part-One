@@ -1,0 +1,77 @@
+# 2018B Question 02 
+
+Discuss the factors that affect oxygen transport from the alveoli to the tissues.
+
+
+## Examiner Report
+
+34% of candidates achieved a pass in this question.
+
+
+Five topics could earn marks if correctly described and discussed.
+* Oxygen cascade diagram
+* Alveolar gas equation
+* Fick’s Law of diffusion
+* Oxygen flux equation
+* Haemoglobin oxygen dissociation curve
+
+
+Most candidates mentioned Fick’s Law and component factors affecting diffusion. There was a large emphasis on time versus perfusion limiting of diffusion and little discussion of the partial pressure gradient driving diffusion. Relatively few candidates described the alveolar gas equation. Most candidates mentioned the oxygen flux equation and the components of oxygen content of blood. Around half discussed the haemoglobin oxygen dissociation curve and factors affecting unloading of oxygen in the tissues.
+
+
+A small number of candidates correctly mentioned shunt and several candidates incorrectly mentioned alveolar dead space as factors impacting alveolar to arterial partial pressure gradient.
+
+
+No candidate discussed the role of oxygen consumption by mitochondria as the primary motive force for movement of oxygen.
+
+## Model Answer
+
+Structure:
+- Introduction
+- Alveolus → Pulmonary capillary
+- Pulmonary capillary → Systemic arterial blood
+- Systemic arterial blood → Tissues
+
+### Introduction
+
+
+|Oxygen|Detail|
+| -- | -- |
+|Cascade|<img src="resources/o2cascade.svg">|
+|Content|- $CaO_2 = [Hb] \times SaO_2 \times 1.34 + 0.003 \times PaO_2$(per 100mL blood)|
+|Delivery|- DO~2~ = CaO~2~ x CO|
+
+### Alveolus → Pulmonary Capillary
+
+
+|Factor|Detail|
+| -- | -- |
+|Fick’s Law|<p>$Q = (C_1 - C_2) \times {A \over T}  \times {Membrane \ Solubility \over \sqrt{Molecular Weight}}$</p><p>- Hence factors increasing O~2~ transfer rate: ↑ P1, ↓ P2, ↑ area, ↓ thickness</p>|
+|↑ P1|<p>- Alveolar Gas Equation: PAO~2~ (P1) = FiO~2~(Patm – PSVP-H~2~O) – PaCO~2~ / RQ)</p><p>&emsp;- ↑ FiO~2~ (i.e. supplementation)</p><p>&emsp;- ↑ Patm (i.e. hyperbaric)</p><p>&emsp;- ↓ PaCO~2~ (↑ ratio alveolar ventilation: CO~2~ production)</p>|
+|↓ P2|<p>- ↑ Cardiac output (Note: Perfusion limitation if at rest, at sea level, healthy lungs)</p><p>- ↑ Pulmonary capillary blood volume</p><p>- ↑ [Hb]</p>|
+|↑ Area|<p>- i.e. lack of oedema, fibrosis</p>|
+|↓ Thickness|<p>- i.e. lack of</p><p>&emsp;- Tissue loss</p><p>&emsp;- Shunt (e.g. Atelectasis)</p><p>&emsp;- Dead space (e.g. Pulmonary embolus)</p>|
+
+### Pulmonary Capillary Blood → Systemic Arterial Blood
+
+
+|Factor|Detail|
+| -- | -- |
+|Venous admixture|<p>The amount of mixed venous (pulmonary arterial) blood that would need to be added to end-pulmonary capillary blood to account for the observed ↓ PO~2~ from end-pulmonary capillary to systemic artery.</p><p>- Comprises:</p><p>&emsp;- Low VQ regions</p><p>&emsp;- Shunt</p><p>- Shunt equation: Calculates venous admixture as a proportion</p><p>&emsp;- ${Qs \over Qt}  = {CcO2 – CaO_2 \over CcO_2 – CvO_2}$</p><p>&emsp;- Normal: ~0.04</p>|
+|Low V/Q|<p>- Where a region of lung is hypoventilated relative to its perfusion</p><p>- Physiological: V and Q scatter due to gravity</p><p>- Pathological: Lung disease (e.g. COPD), vasodilators impairing HPV</p>|
+|Shunt|<p>- Where blood returns to LV without any oxygenation</p><p>- Physiological: Bronchial veins 1%, Thebesian veins 0.3%</p><p>- Lung pathology: e.g. Atelectasis</p><p>- Cardiac pathology: e.g. VSD</p>|
+
+### Systemic Arterial Blood → Tissues
+
+
+|Factor|Detail|
+| -- | -- |
+|Fick’s Law|<p>$Q = (C_1 - C_2) \times {A \over T}  \times {Membrane \ Solubility \over \sqrt{Molecular Weight}}$</p><p>- Hence factors increasing O~2~ extraction: ↑ P1, ↓ P2, ↑ area, ↓ thickness</p>|
+|↑ P1|<p>- ↑ VO~2~ → Right shift oxyhaemoglobin dissociation curve → ↑ O~2~ offloading</p><p>&emsp;- Bohr effect: ↑ pCO~2~, ↓ pH</p><p>&emsp;- ↑ 2,3-DPG</p><p>&emsp;- ↑ Temperature</p><p>- ↑ Hb → ↑ Size of O~2~ reservoir</p><p>- ↑ Capillary blood volume → ↑ Size of O~2~ reservoir</p><p>- ↑ Cardiac output → ↑ Rate of O~2~ replenishment</p>|
+|↓ P2|<p>- ↑ VO~2~</p><p>- ↑ [Myoglobin]</p>|
+|↑ Area|<p>- ↑ Capillarisation (e.g. Adaptation to aerobic exercise)</p><p>- ↑ Recruitment and distension (e.g. Exercise)</p>|
+|↓ Thickness|<p>- ↑ Capillarisation → ↓ Diffusion distance</p>|
+
+
+--- 
+

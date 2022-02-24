@@ -1,0 +1,27 @@
+# Dantrolene
+
+
+Dantrolene is a ryanodine (RYR1) receptor antagonist, which prevents release of Ca^2+^ from the sarcoplasmic reticulum, uncoupling the process of excitation-contraction.
+
+|Property|Dantrolene|
+|--|--|
+|**Uses**|MH, NMS, ecstasy intoxication, chronic muscle spasticity
+|**Presentation**|Vials of orange powder containing 20mg dantrolene and 3g mannitol, reconstituted with 60ml of H~2~O to form an alkaline solution.
+|**Dosing**|2.5mg.kg^-1^ IV every 10-15 minutes, up to 10mg.kg^-1^. Once resolved, continue giving 1mg.kg^-1^ every 4-6 hours for 24 hours.
+|**Absorption**| IV only, may cause skin necrosis if extravasates.
+|**Distribution**|85% protein bound
+|**Metabolism**|Hepatic metabolism to active 5-hydroxy-dantrolene
+|**Elimination**|Renal of metabolites, t~1/2~β of 12 hours
+|**Resp**|Respiratory failure due to skeletal muscle weakness
+|**CVS**|Volume overload due to large volume given with administration
+|**MSK**|Skeletal muscle relaxation
+|**Renal**|Diuresis
+|**GIT**|Hepatic failure
+
+---
+
+## References
+
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.\
+2. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+3. ANZCA August/September 2011

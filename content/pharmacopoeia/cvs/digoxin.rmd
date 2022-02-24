@@ -1,0 +1,46 @@
+# Digoxin
+
+
+Digoxin is a cardiac glycoside used in the treat of atrial arrhythmias and in cardiac failure as a positive inotrope.
+
+Digoxin has both a direct and indirect **mechanism of action**:
+
+* Direct\
+Inhibits cardiac Na^+^/K^+^ ATPase, causing:
+	* Increasing intracellular [Na^+^], decreasing activity of the Na^+^/Ca^2+^ pump
+	* Increased intracellular Ca^2+^ increases inotropy
+	* Decreased K^+^ results prolongs refractory period of the AV node and bundle of His
+* Indirect\
+Parasympathomimetic effects by increasing ACh release at cardiac muscarinic receptors.
+	This is due to sensitisation of baroreceptors, and increased vagal output from the nucleus of tractus solitarius
+	* Slows AV nodal conduction and ventricular response\
+	This improves coronary blood flow, increasing time for ventricular filling, and improving cardiac output.
+
+|Property|Action|
+|--|--|
+|**Class**|Cardiac Glycoside|
+|**Uses**|Arrhythmia - particularly AF/Flutter, and CCF|
+|**Presentation**|Tablets, elixir, clear colourless solution
+|**Route of Administration**|PO/IV|
+|**Dosing**|PO: 62.5μg-250μg, IV: 250-500μg load|
+|**Absorption**|>70% bioavailability though varies with formulation|
+|**Distribution**|25% protein bound. V~D~ 5-11L.kg^-1^, dependent on lean mass|
+|**Metabolism**|Minimal hepatic metabolism|
+|**Elimination**|Renal elimination of active metabolites t~1/2~ 35 hours - increased in renal failure|
+|**CVS**|↓ HR, ↑ inotropy, arrhythmias including; bigeminy, PVCs, 1^st^/2^nd^/3^rd^ degree AV block, SVT, VT
+|**CNS**|Deranged red-green colour perception, visual disturbances, headache|
+|**Immune**|Eosinophilia and rash
+|**Metabolic**|Gynaecomastia
+|**Toxic Effects**|Narrow TI. Severe arrhythmia with DC cardioversion
+
+### Interactions
+
+|Interaction|Drug|
+|--|--|
+|**Increased level**|Amiodarone, captopril, erythromycin, verapamil|
+|**Decreased level**|Antacids, cholestyramine, phenytoin, metoclopramide|
+
+---
+## References
+
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.\

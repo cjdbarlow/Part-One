@@ -1,0 +1,67 @@
+# 2019A Question 01 
+
+Explain the effects of intermittent positive pressure ventilation on cardiac output.
+
+
+## Examiner Report
+
+Most candidates demonstrated an understanding that intermittent positive pressure ventilation (IPPV) is the reverse of spontaneous ventilation, and involves an increase in intrathoracic pressure to force gas into the lungs. However, many candidates forgot that IPPV is non-continuous, and that there are changes to the cardiac output in both the inspiratory and expiratory phases.
+
+In order to obtain a pass, candidates had to correctly identify the changes in more than one chamber of the heart, e.g. To identify the differences between the cardiac output changes in the right heart and the left heart, and how the two are inter-related.
+
+Better candidates were able to explain the various cardiac output determinants, the changes with both phases of respiration and the overall cardiac output effects.
+
+## Model Answer
+
+Structure:
+- Introduction
+- Right heart
+- Left heart
+- Indirect effects
+- Hormonal effects
+
+### Introduction
+
+
+|Determinants of Cardiac Output|<p>Increased with:</p><p>- ↑ Preload</p><p>- ↓ Afterload</p><p>- ↑ Heart rate</p><p>- ↑ Contractility</p>|
+| -- | -- |
+|Bivalent effect of IPPV|<p>- ↓ LV output if healthy LV</p><p>&emsp;- ↓ Preload predominates</p><p>- ↑ LV output if failing/overloaded LV</p><p>&emsp;- ↓ Transmural pressure predominates</p><p>- Inspiration: ↑ LV output, ↓ RV output</p><p>&emsp;- ↑ Intrathoracic pressure</p><p>&emsp;- Opposite to spont vent</p><p>- Expiration: ↓ LV output, ↑ RV output</p><p>&emsp;- ↓ Intrathoracic pressure</p><p>&emsp;- Opposite to spont vent</p><p><img src="resources/starling-curve.svg"></p>|
+|Exacerbating Factors|<p>↓ Preload exaggerated by:</p><p>- PEEP (compression of great veins)</p><p>- Hypovolaemia (↓ MSFP, ↓ VR)</p><p>- Reverse Trendelenburg (venous pooling)</p>|
+
+### Right Ventricle
+
+
+||Inspiration: ↑ ITP (intrathoracic pressure)|Expiration: ↓ ITP|
+| -- | -- | -- |
+|Preload|<p>Early:</p><p>- Compress great veins → Emptying → ↑ Preload</p><p>- Compress RV → ↓ Compliance → ↓ Preload</p><br><p>Late:</p><p>- Compress great veins → Collapse → ↓ Preload</p><p>- Compress RV → Same</p><p>- ↑ LV vol → ↓ RV compliance → ↓ Preload (interdependence)</p><br><p>Other:</p><p>- Loss of diaphragm pump → ↓ Preload</p>|<p>Early:</p><p>- Relax great veins → Pooling → ↓ Preload</p><p>- Relax RV → ↑ Compliance → ↑ Preload</p><br><p>Late:</p><p>- Relax great veins → ↑ Venous return → ↑ Preload</p><p>- Relax RV → Same</p><p>- ↓ LV vol → ↑ Preload (interdep.)</p><br><p>Other:</p><p>- Loss of diaphragm pump → ↓ Preload</p>|
+|Afterload|<p>- Compress RV → ↓ Transmural pressure → ↓ Afterload</p><p>- Compress lung vessels → ↑ Afterload</p>|<p>- Relax RV → ↑ Afterload</p><p>- Relax lung vessels → ↓ Afterload</p>|
+
+### Left Ventricle
+
+
+||Inspiration: ↑ ITP|Expiration: ↓ ITP|
+| -- | -- | -- |
+|Preload|<p>Early:</p><p>- Compress lung vessels → Emptying → ↑ Preload</p><p>- Compress LV → ↓ Compliance → ↓ Preload</p><br><p>Late:</p><p>- Compress LV → ↓ Compliance → ↓ Preload</p><p>- Compress lung vessels → Collapse → ↓ Preload</p><p>- ↓ RV vol → ↑ LV compliance → ↑ Preload (interdep.)</p><p>- ↓ RV output → ↓ LVEDP → ↓ Preload</p>|<p>Early:</p><p>- Relax lung vessels → Pooling → ↓ Preload</p><p>- Relax LV → ↑ Preload</p><br><p>Late:</p><p>- Relax LV → ↑ Preload</p><p>- Relax lung vessels → ↑ Venous Return → ↑ Preload</p><p>- ↑ RV output → ↑ Preload (interdependent).</p><p>- ↑ RV vol → ↓ Preload</p>|
+|Afterload|<p>- Compress LV → ↓ Transmural pressure → ↓ Afterload (more important)</p><p>- Compress great arteries → ↑ Afterload (less important)</p>|<p>- Relax LV → ↑ Afterload</p><p>- Relax great arteries → ↓ Afterload</p>|
+
+### Indirect Effects
+
+
+|Effect|Detail|
+| -- | -- |
+|Baroreceptor Response|↓ CO → ↓ MAP → ↓ Baroreceptor stretch → ↑ SNS/↓ PSNS output|
+|Bainbridge Effect|↓ Preload → ↓ Atrial stretch → ↓ HR|
+|Bowditch Effect|↑ HR → ↓ Time for Na^+^ efflux by Na^+^K^+^ATPase → ↑ Ca^2+^ influx by Na^+^/Ca^2+^ exchanger → ↑ Contractility|
+|Anrep Effect|↓ Afterload → ↓ Activation of tension-dependent Na^+^/H+ channel → ↓ Ca^2+^ extrusion → ↓ Contractility|
+
+### Hormonal Effects
+
+
+|Effect|Detail|
+| -- | -- |
+|Renin-angiotensin System|<p>- Activation:</p><p>&emsp;- ↓ MAP → ↓ Renal baroreceptor stretch → ↑ Renin release</p><p>- Angiotensin Effects:</p><p>&emsp;- Peripheral vasoconstriction → ↑ Afterload</p><p>&emsp;- ↑ Na^+^, H~2~O reabsorption from prox tubule → ↑ Blood volume → ↑ Preload</p><p>- Aldosterone Effects:</p><p>&emsp;- ↑ Na^+^ reabsorption</p><p>&emsp;- Indirect H~2~O reabsorption via ↑ ECF osmolality → ↑ ADH</p><p>- Net effect</p><p>&emsp;- ↑ Blood volume → ↑ Preload, ↑ CO, ↑ MAP</p>|
+|Atrial Natriuretic Peptide|<p>- PPV → ↑ CVP → ↑ Stretch right atrium → ↑ ANP release</p><p>&emsp;- ↑ HR → ↑ CO</p><p>&emsp;- ↑ Natriuresis</p>|
+
+
+--- 
+

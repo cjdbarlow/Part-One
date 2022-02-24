@@ -1,0 +1,75 @@
+# 2020A Question 07 
+
+Describe the washout of desflurane from a patient following six hours of general anaesthesia. Draw a graph to illustrate the description.
+
+
+## Examiner Report
+
+The major domains assessed in this question were:
+
+* A description of the shape of the washout curve
+* Factors which would affect the time course of washout
+* A graph illustrating the description
+
+
+The most common problem was that the graph did not illustrate the description. It is important to give some idea of the time course of the washout and to indicate in some way that the washout is some form of exponential decay. Marking important points on the graph make it easier to illustrate the description.
+Other common issues were using the blood gas partition coefficient to explain tissue solubility or to say that low lipid solubility leads to a slow tissue washin but a fast washout.
+
+## Model Answer
+
+Structure:
+- Summary
+- Factors affecting uptake
+- Factors affecting removal
+- Washout graph
+- Decrement graph
+
+### Summary
+
+Washout is:
+
+* Multiphasic
+	* Distribution: $Excretion \times Distribution_{(V_1 \rightarrow V_{2-5})}$
+	* Terminal elimination: ${Excretion \times Metabolism } \over {Distribution_{(V_{2-5} \rightarrow V_1)}}
+* Exponential
+	* Rate of drug elimination ∝ partial pressure
+* Rapid
+	* Low tissue solubility → Minimal uptake → Rapid excretion
+	* Almost flat 90% decrement curve hence offset is almost duration-independent
+* Variable\
+Faster washout if:
+	* ↓ Uptake
+	* ↑ Rate of removal
+
+
+### Factors Affecting Uptake
+
+
+|Site|↓ Uptake|
+|---|---|
+|Administration|<p>↓ Inspired concentration (cf. ↑ MAC in paediatrics)</p>|
+|Circulation|<p>↓ Cardiac output → ↓ Tissue blood flow (cf. ↑ CO in paediatrics)</p>|
+|Tissues|<p>- ↓ Muscle volume – more important (cf. ↑ muscle in the obese)</p><p>- ↓ Fat volume – less important unless very long duration</p>|
+
+
+### Factors Affecting Removal
+
+
+|Stage|↑ Washout|
+| -- | -- |
+|Tissue → Blood|<p>- ↑ Tissue blood flow (i.e. cardiac output)</p><p>- ↓ Compartment volume (i.e. not obese)</p><p>- ↓ Duration of anaesthesia</p>|
+|Blood → Alveolus|↑ Cardiac output (washout primarily slowed due to greater drug uptake)|
+|Alveolus → Circuit|↑ Alveolar ventilation : FRC (e.g. Child or pregnant)|
+|Circuit → Atmosphere|↑ Fresh gas flow rate : Circuit volume|
+
+### Washout Graph
+
+<img src="resources/fa-fao.svg" style="width: 60pc;">
+
+### Decrement Graph
+
+<img src="resources/desflurane-washout.svg" style="width: 60pc;">
+
+
+--- 
+

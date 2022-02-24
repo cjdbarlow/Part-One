@@ -1,0 +1,69 @@
+# 2017A Question 10 
+
+Draw both aortic root and radial artery pressure waveforms on the same axes. Explain the differences between them.
+
+
+## Examiner Report
+
+56% of candidates achieved a pass in this question.
+
+
+Most candidates correctly drew arterial waveforms on appropriately labelled axes, as requested
+in the question. A large number of axes however were unlabelled, and had no values attached
+to them. Candidates were not penalised if graphs were drawn on two identical axes rather than
+a single graph with superimposed waveforms.
+
+
+Identification of the difference between the waveforms and elucidating the physics behind
+these differences were awarded marks. Most candidates managed to identify at least the gross
+differences between the waveforms and the better candidates were able to accurately describe
+the causes of the changes in the individual features correctly.
+
+
+Marks were also awarded for discussion of changes caused by aging or other pathological states
+if these were correctly related to the changes in the waveforms.
+
+## Model Answer
+
+Structure:
+- Waveforms
+- Aetiology
+- Difference by location
+- Difference with ageing
+
+### Waveforms
+
+<img src="resources/arterial-waveform.svg" style="width: 60pc;">
+
+### Aetiology
+
+
+|Factor|Mechanism|
+| -- | -- |
+|Aortic wave|<p>- Due to change in intra-aortic volume and pressure across the cardiac cycle</p>|
+|Radial wave|<p>- Due to transmission of the waveform</p><p>- Not due to blood flow (but a small amount of forward flow is required for propagation of the waveform)</p>|
+|Pressure wave propagation|<p>- Wave has fast moving (10m.s^-1^) and slow moving (0.5m.s^-1^ components)</p><p>- Role of resistance:</p><p>&emsp;- Some forward flow required to distend the vessel and propagate the wavefront</p><p>&emsp;- Pressure drop ∝ arterial resistance</p><p>- Role of compliance:</p><p>&emsp;- Arterial compliance ∝ volume increment ∝ 1/speed</p>|
+
+### Difference by Location
+
+
+|Radial waveform (cf. aortic)|Reason|
+| -- | -- |
+|Delayed start 0.06 seconds|<p>- Time taken for wave front to travel (note much faster than blood flow)</p>|
+|<p>Narrower and higher systolic component</p><p>Steeper upstroke = ↑ dp/dt max</p>|<p>- Less elastic tissue</p><p>- Relatively more muscular tissue</p><p>- ↓ Compliance (δv/δp)</p>|
+|Lower diastolic component|<p>- Less elastic tissue</p><p>- Less Windkessel effect (storage and release of energy)</p>|
+|Slightly lower mean|<p>- Above factors</p>|
+|Widened pulse pressure|<p>- Above factors</p>|
+|Disappearance of high freq components|<p>- Damping affects high > low freq</p><p>- Damping ∝ frictional tissue interactions per length or time</p>|
+|Appearance of dicrotic notch|<p>- Reflection and resonance</p>|
+
+### Difference with Ageing
+
+
+|Factor|Mechanism|
+| -- | -- |
+|↓ Large artery elasticity|<p>- ↓ Compliance</p><p>- ↓ Elastic return and Windkessel effect</p><p>- ↓ Waveform variation (aortic similar to radial)</p><p>- ↑ Waveform propagation velocity</p>|
+
+
+--- 
+

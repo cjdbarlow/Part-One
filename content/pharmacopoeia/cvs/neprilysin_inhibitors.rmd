@@ -1,0 +1,49 @@
+# Angiotensin Receptor Neprilysin Inhibitors
+
+
+Inhibit the neutral endopeptidase neprilysin, which catalyses the degradation of:
+
+* Natriuretic peptides
+	* ANP
+	* BNP
+* Bradykinin
+* Angiotensin II\
+Isolated neprilysin inhibition may not have a major effect on BP due to ↑ angiotensin II. 
+
+
+This inhibition:
+
+* Leads to increased:
+	* Natruretic peptides
+	* Bradykinin
+	* Substance P
+* Causes:
+	* Natriuresis
+	* Vasodilation
+	* Ventricular unloading
+	* ↓ Ventricular remodelling
+	* ↓ Sympathetic tone
+
+
+## Indications
+
+Used for:
+
+* Hypertension
+* Heart failure with reduced ejection fraction
+
+## Common Features of Neprilysin Inhibitors
+
+
+|Property|Drug
+|--|--|
+|**Resp**|Bradykinin cough
+|**CVS**|↓ BP - synergistic effect when combined RAAS agents, ↓  CVS mortality
+|**Renal**|May be nephro-protective, ↑ K
+|**Immune**|Angioedema due to bradykinin accumulation, so usually formulated with an [ACE-I](/ace_inhibitors.md) or [ARB](/angiotensin_receptor_blockers.md)
+
+
+---
+## References
+
+1. Bavishi C, Messerli FH, Kadosh B, Ruilope LM, Kario K. [Role of neprilysin inhibitor combinations in hypertension: insights from hypertension and heart failure trials](https://academic.oup.com/eurheartj/article/36/30/1967/2398101). Eur Heart J. 2015 Aug 7;36(30):1967–73. 

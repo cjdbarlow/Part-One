@@ -1,0 +1,104 @@
+# General Settings
+book_filename: "part-one"
+output_dir: "_book"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
+on_chapter_script: ["scripts/indent.R",   # Rejigs heading levels
+                    "scripts/timestamp.R" # Timestamps the page, for html output only
+                    ]
+# Table of Contents
+rmd_files: [
+  "content/index.rmd",
+
+  # Introductory pages
+  "content/how_to_pass.rmd", "content/how_to_fail.rmd", "content/saq.rmd", "content/viva.rmd",
+
+  # Research Methods and Statistics
+  "content/stats/ebm.rmd", "content/stats/study_types.rmd", "content/stats/clinical_trial_design.rmd",
+  "content/stats/data_types.rmd", "content/stats/bias.rmd", "content/stats/frequency_dist.rmd",
+  "content/stats/sample_size.rmd", "content/stats/statistical_tests.rmd", "content/stats/statistical_terms.rmd",
+  "content/stats/risk_odds.rmd", "content/stats/signifiance_testing.rmd", "content/stats/drug_approval.rmd",
+
+  # Pharmacology
+  ## Pharmacokinetics
+  "content/pharmacology/additives.rmd", "content/pharmacology/isomerism.rmd", "content/pharmacology/terms.rmd",
+  "content/pharmacology/kinetic_models.rmd", "content/pharmacology/absorption.rmd", "content/pharmacology/distribution.rmd",
+  "content/pharmacology/metabolism.rmd", "content/pharmacology/elimination.rmd", "content/pharmacology/iv_kinetics.rmd",
+  "content/pharmacology/monitoring.rmd", "content/pharmacology/administration.rmd", "content/pharmacology/tci.rmd",
+
+  ## Pharmacodynamics
+  "content/pharmacology/receptor_theory.rmd", "content/pharmacology/receptor_types.rmd", "content/pharmacology/dose_response.rmd",
+  "content/pharmacology/mechanisms.rmd",
+
+  ## Variability in Drug Response
+  "content/pharmacology/adverse_effects.rmd", "content/pharmacology/drugs_pregnancy.rmd", "content/pharmacology/drug_interactions.rmd",
+  "content/pharmacology/alterations_to_response.rmd", "content/pharmacology/pharmacogenetics.rmd", "content/pharmacology/pharmacogenetic_disorders.rmd",
+
+  # Cellular Physiology
+  "content/cellular/cell_membrane.rmd", "content/cellular/cell_transport.rmd", "content/cellular/organelles.rmd",
+  "content/cellular/excitable_cells.rmd", "content/cellular/cell_contents.rmd", "content/cellular/cell_homeostasis.rmd",
+
+  # Respiratory Physiology
+  ## Anatomy
+  "content/resp/airway_anatomy.rmd", "content/resp/chest_wall_diaphragm.rmd", "content/resp/anatomical_variation.rmd",
+
+  ## Mechanics
+  "content/resp/breathing_control.rmd", "content/resp/intrapleural_pressure.rmd", "content/resp/compliance.rmd",
+  "content/resp/time_constants.rmd", "content/resp/resistance.rmd", "content/resp/surfactant.rmd",
+  "content/resp/volumes_capacities.rmd", "content/resp/spirometry.rmd", "content/resp/work_of_breathing.rmd",
+
+  ## Diffusion of Gases
+  "content/resp/oxygen_cascade.rmd", "content/resp/diffusion_capacity.rmd",
+
+  ## V/Q Relationships
+  "content/resp/vq_basics.rmd", "content/resp/wests_zones.rmd", "content/resp/dead_space.rmd",
+  "content/resp/shunt.rmd",
+
+  ## Gas Transport
+  "content/resp/oxygen_storage.rmd", "content/resp/co2_transport.rmd",
+
+  ## Applied Respiratory Physiology
+  "content/resp/peep.rmd", "content/resp/hypoxia.rmd", "content/resp/co2_effects.rmd",
+  "content/resp/position.rmd", "content/resp/humidification.rmd", "content/resp/cough.rmd",
+  "content/resp/non_resp_functions.rmd", "content/resp/altitude.rmd", "content/resp/obesity_respiratory.rmd",
+  "content/resp/paeds_respiratory.rmd",
+
+  # Cardiovascular Physiology
+  ## Structure and Function
+  "content/cvs/cardiac_anatomy.rmd", "content/cvs/coronary_circulation.rmd", "content/cvs/cardiac_cycle.rmd",
+
+  ## Electrical Properties
+  "content/cvs/cardiac_ap.rmd",
+  
+  ## Cardiac Output
+  "content/cvs/co_determinants.rmd", "content/cvs/venous_return.rmd", "content/cvs/myocardial_oxygen.rmd",
+  "content/cvs/pv_relationships.rmd", "content/cvs/cardiac_reflexes.rmd",
+
+  ## Peripheral Circulation
+  "content/cvs/starling_forces.rmd", "content/cvs/bp_variations.rmd", "content/cvs/pulmonary_circulation.rmd",
+  "content/cvs/cerebral_blood_flow.rmd", "content/cvs/hepatic_blood_flow.rmd",
+
+  ## Circulatory Control
+  "content/cvs/baroreceptors.rmd", "content/cvs/valsalva_manoeuvre.rmd", "content/cvs/obesity_cvs.rmd",
+  "content/cvs/ageing_cvs.rmd", "content/cvs/adrenoreceptors.rmd",
+
+  # Renal System
+  ## Renal Physiology
+  "content/renal/rbf.rmd", "content/renal/glomerular_filtration.rmd", "content/renal/organic.rmd",
+  "content/renal/creatinine_clearance.rmd", "content/renal/endocrine.rmd", "content/renal/acid_base.rmd",
+  "content/renal/dialysis.rmd",
+
+  ## Fluids and Electrolytes
+  "content/renal/sodium.rmd", "content/renal/potassium.rmd",
+
+  # Acid-Base
+  "content/acid_base/principles.rmd", "content/acid_base/compensation.rmd", "content/acid_base/buffers.rmd",
+
+  # Nervous System
+  "content/neuro/bbb.rmd", "content/neuro/csf.rmd", "content/neuro/spinal_anatomy.rmd",
+  "content/neuro/icp.rmd", "content/neuro/iop.rmd",
+
+
+]

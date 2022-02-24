@@ -1,0 +1,113 @@
+# 2018B Question 04 
+
+Compare and contrast the pharmacology of suxamethonium and rocuronium.
+
+
+## Examiner Report
+
+86% of candidates achieved a pass in this question.
+
+
+This question is asking for the comparative pharmacology of two commonly encountered drugs in anaesthesia. A table format would be an ideal way to answer this question.
+A pass would require information on pharmaceutics (including classification and uses), pharmacokinetics and pharmacodynamics (including mechanism of action). The majority of candidates passed this question, but those that did well included discussion on the clinical relevance and implications of these differences.
+
+
+Some areas of confusion and/or omission included: incorrect ED95s and dosing of rocuronium and suxamethonium; metabolism of both drugs into active or inactive metabolites; how they should be stored; omitting a discussion pharmaceutics altogether; and alternative routes of administration and why IM or intralingual administration might be useful for suxamethonium.
+
+## Model Answer
+
+Structure:
+- PC
+- PK
+- PD
+
+### Physicochemical
+
+
+||Suxamethonium|Rocuronium|
+| -- | -- | -- |
+|Container|Plastic ampoule|Glass vial or ampoule|
+|Contents: Drug and additives|<p>Aqueous solution pH 3.5</p><p>(Precipitate with thiopentone pH 11)</p><p>suxamethonium chloride 50mg/mL</p>|<p>Aqueous solution pH 4</p><p>Precipitation rare</p><p>Rocuronium bromide 10mg/mL</p>|
+|Needs refrigeration|Y|Y|
+|<p>Life at room temp</p><p>(accept 10% loss of potency)</p>|2/52|2/12|
+|Needs reconstitution|No|No|
+
+### Pharmacokinetic
+
+
+|Administration|Suxamethonium|Rocuronium|
+| -- | -- | -- |
+|ED95 mg.kg^-1^|0.3|0.3|
+|Intubating dose mg.kg^-1^|1-1.5 (4x)|0.6-1.2 (2-4x)|
+|IM|<p>Y</p><p>2-3mg.kg^-1^</p><p>(Useful if larygospasm during paediatric gas induction without IVC)</p>|N|
+|Intralingual|Y (as for IM)|N|
+|Phase 2 blockade mg.kg^-1^|3-5|N/A|
+|Time course|||
+|Onset IV 2xED95 dose (mins)|<p>0.5-1</p><p>(limited by cardiac output)</p>|1-1.5 (≤1 if 4x ED95)|
+|Duration IV (mins)|<p>5 (normal)</p><p>(ideal for very short case e.g. ECT)</p>|<p>30-40</p><p>(Longer if 4x ED95)</p>|
+
+
+|Distribution|Suxamethonium|Rocuronium|
+| -- | -- | -- |
+|VDSS|0.2L/kg|0.2L/kg|
+|%PPB|Unknown|10%|
+|Crosses placenta|Minimal|Minimal|
+
+
+|Metabolic|Suxamethonium|Rocuronium|
+| -- | -- | -- |
+|Mode|<p>PChE near 100%</p><p>Two stage</p><p>Products: Succinic acid, choline</p>|Hepatic ≤5%|
+|Active metabolites|Nil|17-desacetyl-rocuronium (much less active, hepatic elimination)|
+|t1/2β (mins)|1-2|70|
+
+|Excretion|Suxamethonium|Rocuronium|
+| -- | -- | -- |
+|Overall|(minimal)|(95%)|
+|% In bile|-|<p>60%</p><p>(liver failure → Prolonged)</p>|
+|% In urine|<p>10% parent</p><p>100% metabolites</p>|<p>40%</p><p>(renal failure → Prolonged)</p>|
+
+
+### Pharmacodynamic
+
+
+|Therapeutic|Suxamethonium|Rocuronium|
+| -- | -- | -- |
+|Action at junctional nAChR|<p>Depolarising blockade</p><p>Non-classical receptor effect</p><p>?Non-competitive partial agonist</p>|<p>Non-depolarising blockade</p><p>Competitive antagonist</p>|
+
+
+|Use|Suxamethonium|Rocuronium|
+| -- | -- | -- |
+|Rapid sequence induction|Y|Y (↑ dose → ↑ Speed of onset but ↑ duration)|
+|Surgical access e.g. Laparotomy|Y (but usually too brief)|Y|
+|Infusion|N (develop phase 2 block)|Y (but offset variable)|
+
+
+|Monitoring|Suxamethonium|Rocuronium|
+| -- | -- | -- |
+|Single twitch|↓ |↓ |
+|TOF ratio|<p>Phase 1 >0.7</p><p>Phase 2 ≤0.7</p>|≤0.3|
+|Response to tetany|<p>Phase 1 sustained</p><p>Phase 2 fade</p>|Fade|
+|Post-tetanic potentiation|<p>Phase 1 yes</p><p>Phase 2 no</p>|Yes|
+
+|Side Effects|Suxamethonium|Rocuronium|
+| -- | -- | -- |
+|Myalgia|Y|N|
+|Arrhythmia|<p>Sinus bradycardia</p><p>AV block</p>|Rare|
+|↑ K^+^|<p>Y</p><p>(contraindicated if ↑↑ extra-junctional receptors e.g. Burns, prolonged immobility, spinal cord injury)</p>|N|
+|Histamine release|Y|N|
+|Anaphylaxis (arguments!!)|1 in 2000|1 in 2500|
+|↑ Intragastric pressure|+10cmH~2~O (but also ↑ lower oesophageal sphincter tone)||
+|↑ Intra-ocular pressure|+10cmH~2~O? (avoid if open globe injury)||
+|Polymorphism → Prolonged paralysis|<p>Rare</p><p>(avoid and test if FHx suxamethonium apnoea)</p>|N|
+|Malignant hyperthermia|Y|N|
+
+
+|Reversal|Suxamethonium|Rocuronium|
+| -- | -- | -- |
+|Spontaneous|Y and fast (5min after 4xED95)|Y but slow (30-40mins after 2xED95)|
+|AChEi reversal|<p>Phase 1 augmented</p><p>Phase 2 antagonised</p>|Antagonised|
+|Chelation reversal|No|g-cyclodextrin|
+
+
+--- 
+
