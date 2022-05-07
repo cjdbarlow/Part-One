@@ -1,0 +1,66 @@
+# 2020B Question 02 
+
+Draw and label a lead II electrocardiogram tracing for one cardiac cycle, indicating normal values. What is the PR interval and what factors influence it?
+
+
+## Examiner Report
+
+The major domains assessed in this question were (1) the ECG diagram (2) a description of the physiological basis for the PR interval and its importance (3) a description and some explanation of factors that increased the PR interval (4) a description and some explanation of factors that decreased the PR interval.
+
+The drawing of the ECG often lacked detail and contained errors. Good answers included labeled axes, values, and were precise with where waves and intervals started and finished. For this question, half a page in the answer book would be an appropriate size to enable adequate and accurate detail.
+
+Often the PR interval was drawn incorrectly (or not indicated) and other intervals (QRS, ST Segment, QT Interval) were omitted or incorrect. Correctly written descriptions of the intervals were given credit. It was expected that a range of ‘normal’ values would be quoted for each interval, rather than a single number.
+
+A definition of the ECG was unnecessary as were details about leads or Einthoven’s triangle or mechanical factors of the heart – which did not score marks. A common error was a failure to distinguish between the electrical activity and mechanical activity of the heart.
+
+
+The physiological basis for the PR interval was often not discussed or incorrectly described. The importance of the PR Interval should be highlighted.
+Similarly, factors influencing the PR interval were omitted, listed without discussion, or without explanation of effect on PR interval (i.e. increased or decreased). Errors and imprecise statements were common e.g. ‘electrolytes affect the PR interval’. Comments about the effect on AV conduction of several of these factors: The autonomic nervous system, electrolyte abnormalities, drugs, and pathology (fibrosis, accessory pathways, ischaemia) scored marks.
+
+## Model Answer
+
+Structure:
+- Lead II trace
+- ECG components table
+- PR interval physiology including pacemaker potentials
+- PR interval abnormalities
+
+### Lead II
+
+<img src="/resources/ecg.svg" style="width: 60pc;">
+
+
+### ECG Components
+
+
+|Parameter|Normal values|
+| -- | -- |
+|P wave|<p>- ≤0.12 seconds</p><p>- ≤2.5mm</p><p>- Positive in II and aVF, biphasic in V1</p>|
+|PR interval|- 0.12 – 0.2 Seconds, isoelectric|
+|QRS complex|- ≤0.12 Seconds|
+|Q wave|<p>- ≤0.04 Seconds</p><p>- ≤2mm, ≤25% Height of QRS complex</p>|
+|ST segment|<p>- ≤2mm Deviation from isoelectric in V1-2-3</p><p>- ≤1mm Deviation from isoelectric elsewhere</p>|
+|T wave|- ≤5mm height|
+|QT interval|<p>- Bazett formula: QTc = QT/√(RR)</p><p>- ≤440 in men, ≤460 in women</p><p>- > 350ms in both</p>|
+
+### PR Interval
+
+
+|Effects|Detail|
+| -- | -- |
+|Significance|<p>- Time between excitation of the atrium to excitation of the ventricles</p><p>- Hence atrial kick</p><p>- Hence higher cardiac output</p>|
+|Components|<p>- Atria (0.5m.s^-1^)</p><p>- AV node (mostly this, 0.05m.s^-1^)</p><p>- Bundle of His (2-4m.s^-1^)</p>|
+|Pacemaker potential of AV node cells|<img src="/resources/pacemaker-phases.svg">|
+
+### PR Interval Abnormalities
+
+
+|Abnormality|Detail|
+| -- | -- |
+|Too short|<p>Physiological: (usually within normal limits)</p><p>- ↑ SNS → ↑ CAMP → ↑ Slope phase 4 (more than other phases)</p><p>- ↑ Temperature → ↑ Pacemaker cell metabolic rate</p><p>Aberrant conduction pathway:</p><p>- WPW syndrome</p><p>- LGL syndrome</p>|
+|Too long: Types|<p>- First degree: ↑ PR interval</p><p>- Second degree Mobitz 1: ↑ PR interval each beat until dropped QRS</p><p>- Second degree Mobitz 2: Intermittent dropped QRS</p><p>- Third degree: No AV conduction, escape rhythm</p>|
+|Too long: Causes|<p>Physiological (rarely outside normal limits):</p><p>- ↑ PSNS → ↓ CAMP and ↑ K^+^ conductance → ↓ Slope phase 4, ↑ hyperpolarisation</p><p>&emsp;- e.g. Fit athlete</p><p>- ↓ Temp → ↓ Pacemaker cell metabolic rate</p><p>- ↓ PO~2~ → Failure of Na^+^K^+^ATPase, unable to repolarize, HCN channel inactive</p><p>- ↑ K^+^ → More negative membrane potential</p><br><p>Pathology:</p><p>- Degeneration of conducting system</p><p>- Fibrosis</p><p>- Ischaemia, infarction</p><p>- Infection: Myocarditis, endocarditis</p><p>- Infiltration</p><p>- Connective tissue disease</p><br><p>Medication:</p><p>- Beta blockers</p><p>- Verapamil, diltiazem</p><p>- Digoxin</p>|
+
+
+--- 
+

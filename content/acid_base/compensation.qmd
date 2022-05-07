@@ -1,0 +1,40 @@
+# Compensation
+
+:::CICM
+Explain the principles underlying acid-base chemistry
+:::
+
+## Metabolic Acidosis
+
+Compensation to metabolic acidosis includes:
+
+* Buffering\
+Occurs over minutes to hours. Includes:
+    * ECF buffers
+        * Bicarbonate
+        * Plasma proteins
+            * Albumin
+    * ICF buffers
+        * Include phosphate, proteins
+        * Leads to hyperkalaemia due to H^+^/K^+^ exchange\
+        K^+^ increases by 0.6mmol.L^-1^ per 0.1 unit fall in pH.
+    * Bone\
+    Exchange of Na^+^ and Ca^2+^ in bone.\
+        * Leads to demineralisation and release of alkaline compounds
+* Respiratory compensation\
+Occurs in minutes.
+    * Rapid response
+    * Cannot compensate completely
+* Renal compensation\
+Occurs over days to weeks. Includes:
+    * Elimination of H^+^ bound to filtered buffers
+        * Include ammonium, phosphate
+    * Reabsorption of bicarbonate
+    * Active secretion of H^+^ in the DCT/CT\
+    Under control of aldosterone.
+
+---
+
+## References
+
+1. Diaz, A. [Describe how the body handles metabolic acidosis](https://primarysaqs.files.wordpress.com/2009/12/2007a1105a15describe-how-the-body-handles-a-metabolic-acidosis.pdf). Primary SAQs.

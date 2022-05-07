@@ -1,0 +1,48 @@
+# West's Zones
+
+:::dual
+Describe West's zones of the lung and explain the mechanisms responsible for them
+:::
+
+**West's Zones** describe the **changes** to **pulmonary blood flow** and **V/Q matching** that occur due to the **relative difference** in alveolar and pulmonary arterial pressure, and the subsequent **effects** on **pulmonary blood flow** and **V/Q matching**.
+
+The lung is divided into **four zones**:
+
+* **West Zone 1: P~A~ > P~a~ > P~v~**\
+Alveolar pressure exceeds arterial pressure.
+    * The alveolus compresses the capillary, and no blood flow occurs^[As there is ventilation but no perfusion, **West Zone 1** can also be thought of as **dead space**.]
+    * This occurs when:
+        * Alveolar pressure is high
+            * PEEP
+        * Arterial pressure is low
+            * Shock
+            * Hypovolaemia
+
+
+* **West Zone 2: P~a~ > P~A~ > P~v~**\
+Arterial pressure exceeds alveolar pressure, which exceeds venous pressure.
+    * Blood flow occurs **intermittently** during the cardiac cycle
+    * Alveolar pressure acts as a **Starling resistor**\
+    Flow is proportional to the P~a~ - P~A~  gradient.
+        * When P~a~ falls below P~A~ (e.g. in diastole), then no blood flow will occur
+
+
+* **West Zone 3: P~a~ > P~v~ > P~A~**\
+Arterial pressure exceeds venous pressure which exceeds alveolar pressure.
+    * Blood flow occurs throughout the cardiac cycle
+    Flow is proportional to the P~a~ - P~v~  gradient.
+    * For an accurate measure of PCWP, a PAC must be placed in West Zone 3 (so there is a continual column of blood)
+    * This tends to happen naturally as the majority of pulmonary flow is to this region
+
+
+* **West Zone 4: P~a~ > P~i~ > P~v~ > P~A~**\
+Interstitial pressure acts as a Starling resistor for pulmonary blood flow.
+    * It is seen when interstitial pressure is high (e.g due to pulmonary oedema).
+
+---
+
+## References
+
+1. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.
+2. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+

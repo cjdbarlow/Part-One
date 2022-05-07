@@ -1,0 +1,141 @@
+# Carbon Dioxide
+
+:::CICM
+Describe the ~~oxygen and~~ carbon dioxide stores in the body\
+\
+Describe the carbon dioxide carriage in blood including the Haldane effect and the chloride shift\
+\
+Explain the carbon dioxide dissociation curve\
+\
+Describe the movement of carbon dioxide from blood to the atmosphere
+:::
+
+:::ANZCA
+Discuss the carriage of carbon dioxide in blood, the carbon dioxide dissociation curve and their clinical significance and implications
+:::
+
+Carbon dioxide is:
+
+* Produced in the mitochondria during the citric-acid cycle as a product of aerobic metabolism
+* Eliminated (and, at steady state, produced) at a rate of **200ml.min^-1^**
+
+Additionally, a large amount (**~120L**) is stored throughout the body, with 1.6L.kg^-1^-1.8L.kg^-1^ in relatively inaccessible compartments.
+
+## Carbon Dioxide in Blood
+
+In blood, CO~2~ is stored as:
+
+* Bicarbonate (90%)
+* Dissolved gas
+* Carbamino compounds
+
+|         Form        | Arterial Blood | Additional CO~2~ in venous blood |
+|---------------------+----------------+----------------------------------|
+| Bicarbonate         | 90%            | 60%                              |
+| Dissolved           | 5%             | 10%                              |
+| Carbamino compounds | 5%             | 30%                              |
+
+### Bicarbonate
+
+* CO~2~ diffuses freely into erythrocytes, where it can be catalysed by carbonic anhydrase to produce bicarbonate:\
+$CO_2 + H_2O \Leftrightarrow H_2CO_3 \Leftrightarrow H^+ + HCO_3^-$
+* To maintain bicarbonate production, the products (H^+^ and HCO~3~^-^) are then removed:
+  * **H^+^** ions are **buffered** to **haemoglobin**\
+  $HbO_2 + H^+ \Leftrightarrow HHb + O_2$
+  * Intracellular **HCO~3~^-^** is then exchanged with extracellular **Cl-** via the BAND3 membrane protein
+    * This is called the Hamburger, or **Chloride Shift**
+    * Chloride entering the cell draws water in along its osmotic gradient, **increasing the haematocrit of venous blood** relative to arterial blood
+
+### Dissolved Gas
+
+* As per **Henry's Law**, the amount of carbon dioxide dissolved in blood is proportional to the PaCO~2~
+* As carbon dioxide is 20x as soluble as oxygen in water, dissolved carbon dioxide contributes much greater proportion of carbon dioxide *content* than dissolved oxygen does to oxygen content
+
+### Carbamino Compounds
+
+* CO~2~ can bind directly to proteins (predominantly haemoglobin), which displaces a H^+^ ion:\
+$Hb + CO_2 \Leftrightarrow HbCOO^- + H^+$
+  * The H^+^ ion is then buffered by another plasma protein (also predominantly haemoglobin)\
+    $Hb + H^+ \Leftrightarrow HHb$
+* Bound CO~2~ does not contribute to the partial pressure gradient
+* Carbamino compounds are only a small contributor to overall CO~2~ carriage, but contribute about one third of the arterio-venous CO~2~ difference due to the **Haldane effect**\
+The Haldane effect states that deoxyHb binds CO~2~ more effectively than oxyHb. This is because:
+  * DeoxyHb is a **better buffer** of **H^+^**\
+  pKa of deoxyHb is 8.2, compared to that of oxyHb which is 6.6.
+    * Enhanced buffering contributes ~30% of the Haldane effect
+  * DeoxyHb forms carbamino compounds more easily
+  Deoxy-Hb has 3.5x the affinity for CO~2~ than Oxy-Hb.
+    * This forms ~70% of the Haldane effect
+
+
+### CO~2~ Dissociation Curve{#curve}
+
+This curve plots PCO~2~ against blood CO~2~ content in ml.100ml^-1^.
+
+<img src="/resources/co2-dissociation-curve.svg">
+
+Key points:
+
+* Mixed venous CO~2~ content is 52ml.100ml^-1^, at a PCO~2~ of 46mmHg
+* Arterial CO~2~ content is 48ml.100ml^-1^, at a PCO~2~ of 40mmHg
+* Approximately 50% of the arterial-mixed venous difference occurs due to the upwards shift of the curve, which is due to the Haldane effect\
+This is the mechanism for changes in PO~2~ affecting the CO~2~ dissociation curve.
+
+
+### Comparison Curve
+
+Comparison of gas content of both oxygen and carbon dioxide per 100mL of blood:
+<img src="/resources/o2-and-co2-curve.svg">
+
+
+## Removal of CO~2~ {#tr}
+
+CO~2~ dissolves from pulmonary arterial blood into the alveolus down a concentration gradient. As inspired CO~2~ is negligible, PACO~2~ is a function of alveolar ventilation and CO~2~ output, given by the equation:
+
+$PACO_2 = {CO_2 \ output \over \dot{V}_A}$
+
+Simplified, PaCO~2~ is inversely proportional to alveolar ventilation:
+
+$PACO_2 \propto {1 \over \dot{V}_A}$
+
+<img src="/resources/VA-vs-paco2.svg">
+
+## Distribution of Carbon Dioxide{#vent}
+
+CO~2~ in the body can be considered as a three-compartment model:
+
+* Well-perfused (blood, brain, kidneys)
+* Moderately-perfused (resting muscle)
+* Poorly-perfused (bone, fat))
+
+* Each of these tissues has a different time-constant, such that a mismatch of ventilation with metabolic activity may take **20-30 minutes** to equilibrate across compartments
+* Therefore hypoventilation and hyperventilation have different effects on PCO~2~:
+    * **Hyperventilation** causes a rapid decrease in PCO~2~ in blood, subsequent (slower) redistribution from peripheral compartments
+    * **Hypoventilation** causes a rise in PaCO~2~, the rate of which is determined both by production and distribution into plasma
+      * With **no ventilation**, PCO~2~ rises at **3-6mmHg.min^-1^**
+        * Due to the Haldane effect the PaCO~2~ will rapidly increase during passage through the pulmonary capillary (despite the fact that carbon dioxide *content* is unchanged) as the proportion of OxyHb increases
+      * Therefore:
+        * PaO~2~ is more sensitive at detecting early hypoventilation provided PAO~2~ is normal
+        * Steady-state PCO~2~ gives the best indication of adequacy of ventilation
+          * In acute hypoventilation, produced CO~2~ is preferentially stored in tissues, decreasing CO~2~ elimination
+          * In acute hyperventilation, CO~2~ is mobilised from tissues resulting in increased CO~2~ elimination
+
+### CO~2~ Cascade
+
+|     Region    | Value (mmHg) |
+|---------------+--------------|
+| Mixed Venous  |           46 |
+| Alveolar      |           40 |
+| (Arterial)    |           40 |
+| Mixed-expired |           27 |
+
+* Venous CO~2~ diffuses into the alveolus, reaching equilibrium with arterial PCO~2~
+* Alveolar CO~2~ is then diluted by dead space gas, resulting in a lower ME'CO~2~
+
+
+---
+
+## References
+
+1. Lumb A. Nunn's Applied Respiratory Physiology. 7th Edition. Elsevier. 2010.
+2. [FRCA: Anaesthesia Tutorial of the Week - Respiratory Physiology](http://www.frca.co.uk/Documents/160%20Respiratory%20physiology%20-%20part%202%20compressed.pdf)

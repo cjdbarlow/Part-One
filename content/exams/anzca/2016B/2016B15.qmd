@@ -1,0 +1,52 @@
+# 2016B Question 15 
+
+Briefly describe the pharmacodynamics of agents used in the treatment of post-operative nausea and vomiting (PONV) with particular reference to their site of action and side effects.
+
+
+## Examiner Report
+
+71.5% of candidates achieved a pass in this question.
+
+
+In order to pass the question, candidates were required to describe the mechanism of actions (esp. receptor interactions) and side effects of at least 3-4 commonly administered antiemetics in the management of PONV. Majority of candidates has done well in this question. Most were able to point out the receptors involved and the location of action in each class. Many candidates, however, struggled in describing the potential side effects of the agents. Candidates who failed this question appeared to have run out of time and did not include any details on the drug.
+
+## Model Answer
+
+Structure:
+- Diagram
+- Chemoreceptor trigger zone
+- Table of drugs, MoA, side effects
+
+### Diagram
+
+<img src="/resources/nausea-coordination.svg" style="width: 60pc;">
+
+### Chemoreceptor Trigger Zone
+
+
+|Factor|Detail|
+| -- | -- |
+|What is it|<p>- Region in area postrema outside blood-brain barrier</p><p>- Purpose to protect against ingested toxins</p><p>- Stimulated CTZ activates vomiting centre (VC)</p>|
+|Emetogenic receptors|<p>- Serotonin</p><p>- Histamine</p><p>- Muscarinic</p><p>- Opioid</p><p>- Dopamine</p><p>(Sarah Hates Men On Drugs)</p>|
+
+
+## Agents
+
+
+|Drug|Mechanism of anti-emesis|Side effects|
+| -- | -- | -- |
+|Dexamethasone|<p>- Not well understood</p><p>- For PONV prevention, not rescue (onset 2 hours)</p><p>- Receptor: Transcription factor in cytosol → Affects 25% of genome</p><p>- Location: ?Nucleus tractus solitarius (NTS)</p>|<p>- ↑ BSL (especially if diabetic)</p><p>- Anxiety/depression, psychosis, insomnia</p><p>- Peri-anal pain if rapid IV injection (due to phosphate esters)</p><p>- ?↑ Infection</p>|
+|<p>5-HT3 antagonist</p><p>e.g. Ondansetron</p>|<p>- Central: ↓ Afferent CTZ → VC</p><p>- Peripheral: ↓ CNX afferent to CTZ via NTS</p>|<p>- Headache</p><p>- Sedation</p><p>- Constipation</p><p>- Allergy/anaphylaxis rare</p><p>- ↑ QTC</p><p>- Inhibit analgesic effect of tramadol (serotonin reuptake inhibition)</p>|
+|<p>DA2 antagonist:</p><p>- Butyrophenone</p><p>e.g. Droperidol</p>|<p>- ↓ Afferent from CTZ to VC</p>|<p>- Sedation</p><p>- Extra-pyramidal side effects (EPSE)</p><p>&emsp;- Parkinsonism</p><p>&emsp;- Akathisia</p><p>&emsp;- Dystonia</p><p>&emsp;- Tardive dyskinesia</p><p>- Avoid in Parkinson’s disease</p><p>- Neuroleptic malignant syndrome</p><p>- ↑ QTC, TdP</p><p>- Mild hypotension (α~1~ antagonist)</p>|
+|<p>DA2 antagonist: </p><p>- Phenothiazine e.g. Prochlorperazine</p>|<p>- ↓ Afferent CTZ → VC</p>|<p>- Sedation</p><p>- EPSE</p>|
+|<p>DA2 antagonist: </p><p>- Benzamide</p><p>e.g. Metoclop</p>|<p>- Central: DA2i, 5HT~3~i<br>  (↓ afferents from CTZ to VC)</p><p>- Peripheral: DA2i, 5HT4a<br>  (↓ afferent from CNX to CTZ via NTS)</p><p>- Anti-emetic and prokinetic</p>|<p>- EPSE</p><p>- ↑ PRL: Galactorrhoea, depression, headache</p>|
+|<p>Anti-histamine first generation</p><p>e.g. Cyclizine</p>|<p>- ↓ Afferent from CTZ to VC</p><p>- ↓ Afferent from vestibular apparatus to CTZ</p><p>- Strong anti-muscarinic</p><p>- Weak anti-DA</p>|<p>- Sedation</p>|
+|<p>Anti-muscarinic</p><p>e.g. Atropine</p>|<p>- mAChRi</p><p>- Central: CTZ, vestibular</p><p>- Peripheral: CNX afferent</p>|<p>- Central anticholinergic</p><p>- ↑ HR</p><p>- Mydriasis, blurred vision</p><p>- Dry skin, flushing, hyperthermia</p>|
+|Propofol|<p>- Central 5HT~3~i</p><p>- ↓ Afferent from CTZ to VC</p>|<p>- Minimal at tiny dose e.g. 20mg</p>|
+|Benzodiazepines e.g. Midazolam|<p>- Positive modulator at GABA-A</p><p>- ? ↓ cortical afferent to CTZ</p>|<p>- Antegrade amnesia</p>|
+|Cannabinoids|<p>- Cannabinoid receptor in GIT</p><p>- Especially cancer-associated N&V</p>|<p>- Psychosis</p>|
+|<p>NK-1 antagonist</p><p>e.g. Aprepitant</p>|<p>- Substance P antagonist at NK-1R</p><p>- Peripheral: ↓ CNX afferent to CTZ via NTS</p><p>- Esp cancer-associated N&V</p>|<p>- Inhibit CYP3A4</p>|
+
+
+--- 
+

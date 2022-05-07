@@ -1,0 +1,112 @@
+# Principles of Acid-Base Physiology
+
+:::CICM
+Explain the principles underlying acid-base chemistry
+:::
+
+There have been several different theories of acid-base chemistry. The one most relevant for the primary exam is the **Brønsted–Lowry definition**, which defines:
+
+* An **acid** as a **proton donor**
+* A **base** as a **proton acceptor**
+
+## pH
+
+* Stands for the **power of hydrogen**
+* Is a measure of **hydrogen ion activity** in a solution
+* Activity can be approximated by concentration
+    * Therefore, pH can be expressed as a function of hydrogen ion concentration:  $pH = -log_{10}[H^+]$\
+    Using pH rather than concentration makes it easier to compare different solutions.
+
+## pKa
+
+* Strong acids (and bases) dissociate completely in solution
+* Weak acids (and bases) only partially dissociate\
+They have a dissociated state (A-) and an undissociated state (HA)
+* The ratio of concentrations on each side can be used to calculate the **acid dissociation constant**, **Ka**\
+$Ka = {[A^-] \times [H^+] \over [HA]}$\
+This equation describes the strength of an acid by indicating how readily the acid gives up its hydrogen.
+* Similar to pH, this value is often log transformed to **pKa** produce an index, which allows easy comparison of different substances:\
+$pKa = -log_{10}Ka$\
+* pKa has several useful properties:
+    * An acid of base will be 50% ionised when the pH of its solution equals its pKa
+    * **A**cids are more **i**onised **a**bove their pKa^[Acids:\
+    <img src="/resources/pkas-acids.svg" style="width: 30pc;">]
+    * **B**ases are more **i**onised **b**elow their pKa^[Bases:\
+    <img src="/resources/pkas-bases.svg" style="width: 30pc;">]
+    * An increase in pH of 1 above the pKa will result in that substance being either 90% (for an acid) or 10 % (for a base) ionised
+ 
+## Systemic Effects of Acid-Base Disorders
+
+pH disturbance affects many organ systems:
+
+* **Respiratory**
+    * Increased $\dot{V}_A$\
+    Peripheral and central chemoreceptors increase ventilation in response to a fall in pH.
+    * Oxyhaemoglobin-Dissociation Curve\
+    Right-shifted by a fall in pH.
+    * Bronchoconstriction\
+    Hypercapnea causes parasympathetically-mediated bronchoconstriction.
+* **Cardiovascular**
+    * Inotropy\
+    Inotropy falls in acidosis due to a direct myocardial depressant effect. May be offset by increased SNS tone in low-grade acidosis. Alkalosis may increase inotropy by increasing responsiveness to circulating catecholamines.
+    * Decreased response to catecholamines\
+    When pH < 7.2.
+    * Arrhythmias\
+    Secondary to altered SNS tone and electrolytes.
+    * Vasodilation\
+    Directly due to hypercapnea.
+* **CNS**\
+H^+^ ions cannot cross the BBB, however CO~2~ can.
+* **Fluid and Electrolyte**\
+    * Plasma **K^+^ increases **by** 0.6mmol.L^-1^ for every 0.1 unit fall** in **pH**\
+    This is due to impairment of the Na^+^/K^+^-ATPase
+    * **H^+^ ions bind **to the **same site on albumin as calcium**, so ionised calcium will **increase**
+* **MSK**
+    * Bones\
+    Chronic metabolic acidosis consumes bone phosphate to buffer H^+^ ions, causing osteoporosis.
+* **Cellular**
+    * Enzyme function\
+    Denaturation and functional impairment.
+    * Molecular ionisation\
+    Change in ionisation may change a molecules ability to cross cell membranes (e.g. reducing dose of thiopentone in acidosis), or affect their function
+    * Resting membrane potential\
+    Change in ion permeability will alter RMP, and therefore how easy it is to generate an action potential.
+ 
+### Change with Temperature
+
+pH is temperature dependent:
+
+* **pH increases** by **0.015** for every **1°C fall** in **temperature**\
+Due to decreased ionic dissociation of water.
+* **Gas solubility **almost always** increases** when **temperature falls**\
+Dissolving is typically (not always) an **exothermic** reaction. As the kinetic energy content of a molecule falls, its ability to dissociate from solution decreases.
+    * As CO~2~ dissolves, PaCO~2~ falls
+* As blood gas machines operate at 37°C, a measurement error will occur if a patient is  not close to 37°C
+    * A **hypothermic** patient will have a **higher pH** and **CO~2~** than measured
+
+There are two common methods for **managing** pH of significantly hypothermic patients (e.g., those on CPB): **pH-stat** and **alpha-stat**.
+
+#### pH-stat
+
+* CO~2~ is added to the circuit so that pH and PaCO~2~ are normal when corrected for temperature
+* This theoretically improves oxygen delivery by preventing the left-shift in the oxyhaemoglobin dissociation curve
+* The increased CO~2~ also causes cerebral vasodilation, which:
+    * Increases speed and uniformity of cerebral cooling
+    * Increases risk of cerebral embolic events
+
+#### alpha-stat
+
+* pH and CO~2~ values are maintained at 'normal for 37°C'
+    * Measured values will be different, as:
+        * pH will be increased
+        * CO~2~ will be decreased
+* Cellular autoregulation is preserved
+* Unlike pH-stat, this does not cause cerebral vasodilation
+
+---
+
+## References
+
+1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+2. ANZCA July/August 1999
+3. Chemlab. [Solubility](https://www.chem.fsu.edu/chemlab/chm1046course/solubility.html). Florida State University.

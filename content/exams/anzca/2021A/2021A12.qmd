@@ -1,0 +1,64 @@
+# 2021A Question 12
+
+Define the terms “tolerance” and “tachyphylaxis”. Discuss the different mechanisms by which tolerance can develop, giving examples where appropriate.
+
+
+## Examiner Report
+
+48.2% of candidates achieved a pass in this question.
+
+
+The domains which attracted marks for this question were:
+
+* Correct definition of both tachyphylaxis and tolerance
+* Mechanisms for tachyphylaxis with examples
+* Mechanisms for tolerance with examples
+
+
+Common problems with the answers included:
+
+* Not stating time course for these effects
+* Confounding tolerance with ceiling effect/zero order kinetics/drug interactions
+* Using phenylephrine as an example of an indirectly acting drug
+* Confusing transmitter depletion with re-uptake inhibition
+
+
+## Model Answer
+
+Structure:
+
+- Tachyphylaxis: Definition, cause, examples
+- Tolerance: Same
+- Mechanisms of tolerance
+
+### Tachyphylaxis
+
+
+|Property|Detail|
+| -- | -- |
+|Definition|<p>- Decreased response to a drug with repeated short-term use</p><p>- Usually over minutes to hours</p><p>- Cannot be easily overcome with increased dose</p>|
+|Cause|Usually mediator depletion|
+|Examples|<p>- Ephedrine: Depletion of NAd at post-ganglionic SNS nerve endings</p><p>- GTN: Depletion of intracellular sulfhydryl groups → ↓ Nitric oxide release</p>|
+
+### Tolerance
+
+
+|Property|Detail|
+| -- | -- |
+|Definition|<p>- Decreased duration then decreased magnitude of effect of a given drug dose with long term use</p><p>- Usually over days to weeks</p><p>- Can be overcome with increased dose</p>|
+|Cause| Chronic use of drug resulting in adaptation|
+|Examples| e.g. Chronic opioid use|
+|Representation|<p>Right shift log(dose) – response curve</p><p><img src="/resources/fatex.svg"></p>|
+
+### Mechanisms of Tolerance
+
+
+|Factor|Mechanism|
+| -- | -- |
+|Kinetic|<p>- Absorption/metabolism</p><p>&emsp;- e.g. Alcohol → Induce alcohol dehydrogenase, acetaldehyde dehydrogenase</p><p>- Distribution:</p><p>&emsp;- e.g. ↑ P-glycoprotein-mediated efflux of opioids</p>|
+|Dynamic|<p>- ↓ Receptor number</p><p>&emsp;- e.g. Salbutamol at β~2~ adrenoceptor</p><p>&emsp;- Phosphorylate ICF carboxyl terminal → Β-arrestin binds → Internalize & destroy</p><p>- ↓ Receptor affinity</p><p>&emsp;- e.g. Contributes to insulin resistance</p><p>- ↓ ICF signal transduction</p><p>&emsp;- e.g. Morphine at mu receptor</p><p>&emsp;- Upregulation of cAMP system → ↓ Effect of Gi G protein coupled receptor activation</p><p>- Altered ion conductance</p><p>&emsp;- e.g. Suxamethonium phase 2 blockade</p><p>&emsp;- Phosphorylation of tyrosine residues → Conformational change</p><p>- Neuroplasticity:</p><p>&emsp;- e.g. Cocaine effect on basal ganglia</p><p>&emsp;- ↓ Euphoria</p><p>- Upregulation of antagonistic mechanism</p>|
+
+
+--- 
+
+ 

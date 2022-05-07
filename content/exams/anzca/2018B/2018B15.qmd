@@ -1,0 +1,55 @@
+# 2018B Question 15 
+
+Describe the physiological role of prostaglandins on smooth muscle throughout the body.
+
+
+## Examiner Report
+
+61% of candidates achieved a pass in this question.
+
+
+To pass this question, candidates were expected to describe the common prostaglandins produced, demonstrate an understanding of the diverse nature of prostaglandins in the body and explore the fact that different prostaglandins can have varying, at times opposite effects in the different muscle groups.
+
+
+Better answers demonstrated an understanding of the autocrine (production at site of requirement, and short half-life) nature of prostaglandins, were able to name some of the receptors involved and were able to explain the different sensitivity seen (e.g. uterine smooth muscle response varies with phase of menstrual cycle and pregnancy). Muscle groups of interest included vascular smooth muscle, pulmonary and bronchial vasculature, gastrointestinal tract and those in the genitourinary systems, especially the uterus.
+
+
+Many candidates included irrelevant details, such as nociceptive effect, inflammatory function and gastric acid secretion as part of their answer.
+
+
+## Model Answer
+
+Structure:
+- Prostaglandins
+- Pathway
+- Smooth muscle effects
+
+### Prostaglandins
+
+
+|Factor|Detail|
+| -- | -- |
+|Definition|<p>- Lipid mediators derived from arachidonic acid</p><p>- Production induced by cyclo-oxygenase</p><p>&emsp;- COX-1: Constitutive, for homeostasis</p><p>&emsp;- COX-2: Inducible, for inflammation etc</p>|
+|Actions|<p>- Autocrine and/or paracrine</p><p>- Inhibitory or excitatory</p><p>- Two PGs may have opposing effects at the same tissue</p><p>&emsp;- e.g. TXA~2~ vasoconstriction, PGI~2~ vasodilation</p><p>- One PG may have different effects on different tissues</p><p>&emsp;- e.g. PGI~2~ vasodilation, GIT smooth muscle constriction</p>|
+|Cellular mechanism|<p>- Bind to G protein coupled receptors</p><p>&emsp;- Gs : ↑ cAMP</p><p>&emsp;- Gi : ↓ cAMP</p><p>&emsp;- Gq : ↑ IP3/DAG → ↑ Ca^2+^</p>|
+
+### Pathway
+
+
+<img src="/resources/prostaglandins.svg" style="width: 60pc;">
+
+### Smooth Muscle Effects
+
+
+|Factor|Detail|
+| -- | -- |
+|Systemic vascular|<p>- PGI2 Vasodilatation (e.g. By vascular endothelium), promotes rapid laminar flow</p><p>- TXA2 Vasoconstriction (e.g. ↑ Release by platelet in tissue injury), assists haemostasis</p><p>(Low dose aspirin: ↓ TXA2 but ↔PGI2 → ↓ Risk AMI)</p>|
+|Pulmonary vascular|<p>- PGD2 → ↓ HPV</p><p>- (Leukotrienes → ↑ HPV)</p>|
+|Renovascular|<p>- Contributes to hormonal autoregulation of GFR, i.e. Renin-angiotensin system</p><p>- ↓ NaCl to macula densa → ↑ PGE2, PGI2 release → ↑ Renin release</p><p>- (NSAID → Risk of renal impairment, fluid retention)</p>|
+|Airway|<p>- PGD2, PGF2α → Bronchoconstriction</p><p>- PGE2 → Bronchodilatation</p><p>(Corticosteroids → ↓ Airway reactivity in asthma)</p>|
+|Uterine|<p>- PGE2, PGF2α → Myometrial contraction</p><p>- Important in menstruation, labour</p><p>- Receptors always present cf. oxytocin receptors upregulated at 36/40</p><p>(Misoprostol and exogenous PGF2α reduce risk of PPH)</p>|
+|Ureteric|<p>- PGE2 → Relax</p><p>- PGF2α → Contract</p><p>(NSAID useful in renal colic)</p>|
+
+
+--- 
+

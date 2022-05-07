@@ -1,0 +1,58 @@
+# Intrapleural Pressure
+
+:::CICM
+Describe the inspiratory and expiratory process involving the chest wall, diaphragm, pleura and lung parenchyma\
+\
+Explain the significance of the vertical gradient of pleural pressure and the effect of positioning
+:::
+
+:::ANZCA
+Explain the vertical gradient of pleural pressure and its significance
+:::
+
+**Intrapleural pressure** (P~Pl~) is the pressure in airtight the space between the visceral and parietal pleura, or (physiologically) between the lungs and the chest wall. Intrapleural pressure:
+
+* Is usually **negative**, typically **-5cmH~2~O at rest**\
+Balance between the:
+  * Outwards recoil of the chest wall
+  * Inwards recoil of the lungs (**P~el~**)
+* Varies with vertical distance in the lung\
+  * Gravity pulls the lung parenchyma inferiorly
+  * Intrapleural pressure is therefore:
+    *  **More negative** in the **apex**\
+    Typically **-10cmH~2~O** at FRC
+    * **Less negative** in the **base**\
+    Typically **-3cmH~2~O** at FRC
+* This changes the degree of inflation at FRC
+  * Apical alveoli are maximally inflated
+  * Basal alveoli are relatively deflated
+* **Changes over the respiratory cycle**, which drives **change in lung volume** and therefore **breathing**
+  * An airtight pleura is required, so that the trachea is the only route through which gas can enter or exit the lung
+  * During inspiration, the pleural pressure changes evenly throughout the lung, however the basal alveoli are better ventilated because their compliance is increased (due to lower resting volume)
+
+<img src="/resources/workofbreathing.svg">
+
+## Inspiration
+
+* Diaphragmatic and external intercostal/accessory muscle contraction causes an increase in the volume of the thorax
+* Intrapleural pressure becomes more negative, typically to **-8-10cmH~2~O**
+* When P~pl~ > P~el~, the lungs expands
+* Alveolar pressure (P~A~) becomes sub-atmospheric, and inspiration occurs
+* At end inspiration:
+  * P~pl~ = P~el~
+  * P~A~ = P~atmospheric~
+ 
+
+## Expiration
+
+* Muscular relaxation causes the chest wall to passively return to their resting position
+* Thoracic volume falls
+* P~pl~ falls to -5cmH~2~O
+* The elastic recoil of the lung causes it to collapse until P~A~ = P~atmospheric~
+
+
+---
+
+## References
+
+1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.

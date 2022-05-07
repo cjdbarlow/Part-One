@@ -1,0 +1,66 @@
+# 2019B Question 12 
+
+Draw the oxygen-haemoglobin and carbon dioxide-haemoglobin dissociation curves on the same axes (content vs. partial pressure). Compare and contrast these two curves.
+
+
+## Examiner Report
+
+28% of candidates achieved a pass in this question.
+
+
+The domains assessed for this question were:
+
+* Oxygen content of blood vs partial pressure graph
+* Description of this graph
+* Carbon dioxide content of blood vs partial pressure graph
+* Description of this graph
+
+
+Although the question asked for it, candidates were not penalised if O2 and CO2 were not placed on the same graph. It is noted that there are two possible interpretations of the CO2 graph, and both were accepted.
+Common problems were:
+
+* Using haemoglobin saturation instead of gas content
+* Omitting the venous oxygen-haemoglobin dissociation curve
+* Confusing the arterio-venous difference in various CO2 carriage forms (carbamino, bicarbonate and dissolved)
+* Not appreciating that the CO2 content of blood is greater than the O2 content of blood
+
+
+The required information can be found in both Ganong and Nunn.
+
+## Model Answer
+
+Structure:
+- Graph
+- Table of normal values
+- Table of comparison
+
+
+### Graph
+
+<img src="/resources/o2-and-co2-curve.svg">
+
+### Normal Values
+
+
+||Oxygen|Carbon Dioxide|
+| -- | -- | -- |
+|Pa (mmHg)|100|40|
+|Ca (mL.100mL^-1^)|20|48|
+|Pv (mmHg)|40|46|
+|Cv (mL.100mL^-1^)|15|52|
+|a-v difference (mL.100mL^-1^)|5|<p>4</p><p>HCO~3~^-^ 60%</p><p>Carbamino 30%</p><p>Dissolved 10%</p>|
+|Arterial storage|<p>Hb-bound 98.5%</p><p>Dissolved 1.5% (∝ partial pressure)</p>|<p>HCO~3~^-^ 90%</p><p>Carbamino 5%</p><p>Dissolved 5% (∝ partial pressure)</p>|
+
+### Curve Comparison
+
+
+||Oxygen|Carbon Dioxide|
+| -- | -- | -- |
+|Shape|Sigmoid (law of mass action + co-operative binding)|Linear|
+|Slope|<p>Shallower</p><p>- Large a-v difference in PO~2~</p><p>- Large ↓ PaO~2~ in shunt</p>|<p>Steeper</p><p>- Small a-v difference in pCO~2~</p><p>- Small ↑ PaCO~2~ in shunt</p>|
+|Shift|<p>Right shift → ↓ Affinity if:</p><p>- ↑ H+, ↑ pCO~2~ (Bohr effect)</p><p>-↑ [2,3-DPG]</p><p>-↑ Temp</p>|<p>Left shift → ↑ Affinity if:</p><p>-↓ SO~2~ (Haldane effect)</p>|
+|<p>Upper section</p><p>- Implication for shunt</p>|<p>Flat</p><p>- ↑ VA and ↑ PiO~2~ cause minimal improvement in oxygenation</p>|<p>Linear</p><p>- ↑ VA easily restores ventilation</p>|
+
+
+--- 
+

@@ -15,7 +15,7 @@ Part One is a reference for trainees preparing for the CICM and ANZCA Primary Ex
 
 ## What is this? Where am I?
 
-These are the source files for Part One. Content is written in Rmarkdown (.rmd), which is a fusion of R, latex, and (commonmark) markdown (like Jupyter notebooks are for python). The site is then built using R with a custom-made [bookdown](https://bookdown.org/) output format called Tufte in the Fast Lane (titfl).
+These are the source files for Part One. Content is written in Rmarkdown, which is a fusion of R, latex, and (Commonmark) markdown. The book is then built using [Quarto](https://quarto.org/). Formatting of both HTML and PDF versions are heavily inspired by Edward Tufte - the theme has been ported from a previous custom-made [bookdown](https://bookdown.org/) output format called Tufte in the Fast Lane (titfl).
 
 Part One is a free and open access medical education (FOAMed) initiative, and is proudly part of Life in the Fast Lane. You can see the full site at [](partone.litfl.com).
 

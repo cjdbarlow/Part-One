@@ -1,0 +1,178 @@
+# Diffusion and Diffusing Capacity
+
+:::dual
+Explain perfusion-limited and diffusion-limited transfer of gases\
+\
+Define diffusing capacity and its measurement\
+\
+Describe the physiological factors that alter diffusing capacity\
+:::
+
+The rate of diffusion of gases is given by **Fick's Law**:\
+
+$$Rate \ of \ Diffusion = {\Delta P \times A \times s \over T \times \sqrt{MW}}$$
+Where:
+
+* $\Delta P$ is the pressure gradient across the membrane
+* $A$ is the area of the membrane
+* $s$ is the solubility of the substance
+* $T$ is the thickness of the membrane
+* $MW$ is the molecular weight of the substance
+
+These can be grouped into:
+
+* Pressure gradient
+* Lung factors
+    * Surface area
+    * Thickness
+* Substance factors
+    * Molecular weight
+    * Solubility
+
+## Pressure Gradient
+
+In the lung, this is a function of:
+
+* Partial pressure of the gas in the alveolus\
+This is affected by:
+    * Atmospheric pressure
+    * Ventilation\
+    Alveolar hypoventilation will:
+        * Increase PACO~2~
+        * Decrease PAO~2~
+* Partial pressure of the gas in blood\
+This is affected by:
+* Solubility of the gas in blood\
+CO~2~ is **~20** times as soluble as O~2~ in blood.
+* Binding of gas to protein:
+    * Particularly **haemoglobin**\
+    Affects the rate of uptake of O~2~ and CO, and is why calculated DL~CO~ is corrected for haemoglobin.
+        * The shape of the oxy-haemoglobin dissociation curve allows a large volume of oxygen to be bound before PaO~2~ begins to rise substantially.\
+    * Formation of carbamino compounds
+    * Anaesthetic agents to plasma contents\
+    e.g. albumin, cholesterol.
+
+
+## Lung Factors
+
+The effective alveolar-capillary surface area is affected by:
+
+* Parenchyma volume
+    * Body size
+    * Pathology\
+    Many lung diseases will reduce surface area for gas exchange.
+* V/Q mismatch\
+Both shunt and dead space reduce the surface area available for gas exchange.
+* Pulmonary blood volume\
+Vascular distension and recruitment also affects surface area. Factors affecting pulmonary blood volume include:
+    * Cardiac output\
+        * Increased recruitment of vasculature in high output states
+        * Decreased recruitment and increased V/Q mismatch in shock states.
+    * Posture\
+    Increased surface area when supine relative to sitting or standing.
+
+Increasing alveolar-capillary membrane thickness impedes gas exchange. Causes of this include:
+
+* Pathology\
+e.g. Pulmonary oedema, interstitial lung disease.
+
+
+## Substance Factors
+
+Include:
+
+* Solubility\
+More soluble substances will diffuse more quickly.
+* Molecular weight\
+Smaller substances will diffuse more quickly.
+
+## Diffusion and Perfusion Limitation
+
+Limitation refers to what process limits gas uptake into blood:
+
+* Gases which are **diffusion limited** fail to equilibrate, i.e. the partial pressure of a substance in the alveolus does not equal that in the pulmonary capillary
+    * e.g. Carbon Monoxide
+* Gases which are **perfusion limited** have equal alveolar and pulmonary capillary partial pressures, so the amount of gas *content* transferred is dependent on blood flow
+    * e.g. Oxygen
+
+<img src="/resources/diffusion-vs-perfusion-limitation.svg">
+
+
+### Oxygen
+
+* Oxygen diffusion takes **~0.25s**
+* Pulmonary capillary transit time is **0.75s**
+* Therefore, under normal conditions oxygen is a **perfusion limited** gas
+* However, **oxygen may become diffusion limited** in certain circumstances:
+    * **Alveolar-capillary barrier** disease\
+    Decreases the rate of diffusion.
+        * Decreased surface area
+        * Increased thickness
+    * **High cardiac output**\
+    Decreases pulmonary transit time.
+    * **Altitude**\
+    Decreases PAO~2~.
+* Reduced diffusion capacity leads to Type 1 respiratory failure as oxygen is affected to a greater extent than carbon dioxide
+
+### Carbon Dioxide
+
+* Carbon dioxide is an exception to these categories and limited by *ventilation*, rather than diffusion or perfusion.
+* This is because CO~2~ is constantly being produced by the body, and needs to be *removed* - it therefore moves in the opposite direction to the other gases.
+* There is a large amount of carbon dioxide in venous blood, present in various forms:
+    * Dissolved in plasma (CO~2~ is 20x more soluble in blood than oxygen)
+    * Bicarbonate ions (part of the CO~2~ and pH buffer system)
+    * Carbamino compounds (largely bound to Hb for carriage to the alveolus)
+* This means that although CO~2~ readily diffuses into the alveolus, the partial pressure in the blood does not change because it is constantly being replenished both from the above stores, and ongoing production by cellular metabolism.
+* If equilibrium is reached across the alveolar-capillary membrane, CO~2~ transfer will stop *regardless* of speed of diffusion or ongoing perfusion.
+* Therefore, the only way to ensure ongoing removal of CO~2~ from the blood is to clear it from the alveolus i.e. by maintaining alveolar ventilation.
+
+### Other Gases
+
+* **Carbon monoxide**\
+Diffusion limited due to:
+    * High affinity for haemoglobin\
+    Continual uptake into Hb results in a low partial pressures in blood.
+* **Nitrous oxide**
+Perfusion limited as equilibrium between alveolus and blood is rapidly reached as it is:
+    * Not bound to haemoglobin
+    * Relatively insoluble
+
+## Diffusing Capacity
+
+* Measurement of the ability of the lung to transfer gases
+* Measured as DL~CO~ or diffusing capacity of the lung for carbon monoxide\
+Carbon monoxide is used as it is a diffusion limited gas.
+* Process:
+    * Vital capacity breath of 0.3% CO
+    * Held for 10s and exhaled
+    * Inspired and expired CO are measured\
+    * Difference is the amount of CO which is now bound to Hb
+    * DL~CO~ is corrected for:
+        * Age
+        * Sex
+        * Hb
+* DL~CO~ is decreased in:
+    * Thickened alveolar-capillary barrier
+        * Interstitial lung disease
+    * Reduced surface area
+        * Emphysema
+        * PE
+        * Lobectomy/pneumonectomy
+* DL~CO~ is increased in:
+    * Exercise\
+    Recruitment and capillary distension.
+    * Alveolar haemorrhage\
+    Hb present within the lung binds CO.
+    * Asthma (may be normal)\
+    Potentially due to increased apical blood flow.
+    * Obesity (may be normal) \
+    Potentially due to increased cardiac output.
+
+---
+
+## References
+
+1. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.
+2. Lumb A. Nunn's Applied Respiratory Physiology. 7th Edition. Elsevier. 2010.
+3. ANZCA March/April 1999
+4. Yartsev, A. [Carbon Dioxide Storage and Transport](http://www.derangedphysiology.com/main/core-topics-intensive-care/acid-base-disturbances/Chapter%202.0.1/carbon-dioxide-storage-and-transport).

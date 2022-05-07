@@ -1,0 +1,100 @@
+project:
+    type: book
+
+# Settings for caching to reduce compile times
+#execute:
+#  freeze: auto
+#  cache: true
+
+# Output format settings
+book:
+    # General settings
+    title: "Part One"
+    # Table of Contents
+    chapters:
+    - index.qmd
+    - content/downloads.qmd
+    - content/how_to_pass.qmd
+    - content/how_to_fail.qmd
+    - content/saq.qmd
+    - content/viva.qmd
+    - part: "---"
+    - part: "Curriculum"
+      chapters:
+        - part: "Research Methods and Statistics"
+          chapters: 
+            - content/stats/ebm.qmd
+            - content/stats/study_types.qmd
+            - content/stats/clinical_trial_design.qmd
+            - content/stats/data_types.qmd
+            - content/stats/bias.qmd
+            - content/stats/frequency_dist.qmd
+            - content/stats/sample_size.qmd
+            - content/stats/statistical_tests.qmd
+            - content/stats/statistical_terms.qmd
+            - content/stats/risk_odds.qmd
+            - content/stats/signifiance_testing.qmd
+            - content/stats/drug_approval.qmd
+        - part: "Pharmacology"
+          chapters:
+            - part: "Pharmacokinetics"
+              chapters:
+                - content/pharmacology/additives.qmd
+                - content/pharmacology/isomerism.qmd
+                - content/pharmacology/terms.qmd
+                - content/pharmacology/kinetic_models.qmd
+                - content/pharmacology/absorption.qmd
+                - content/pharmacology/distribution.qmd
+                - content/pharmacology/metabolism.qmd
+                - content/pharmacology/elimination.qmd
+                - content/pharmacology/iv_kinetics.qmd
+                - content/pharmacology/monitoring.qmd
+                - content/pharmacology/administration.qmd
+                - content/pharmacology/tci.qmd
+
+# Settings for output formats
+format:
+    html:
+        # General settings
+        page-navigation: false
+        search: true
+        section-divs: true
+        email-obfuscation: javascript
+        lang: en-GB
+        # Theming
+        theme: themes/titfl.scss
+        css: themes/custom.css
+        include-before-body: themes/litfl.html
+        cap-location: margin
+        citation-location: margin
+        reference-location: document
+        number-sections: false
+        # Style
+        toc: true
+        toc-title: "On this Page"
+        sidebar:
+        style: floating  
+        fig-align: center
+        fig-format: svg
+        fig-dpi: 326
+        fig-responsive: true
+        # filters: [scripts/glossary.lua]
+    pdf:
+        # General Settings
+        title: "Part One"
+        subtitle: "A Pretty Good Guide to the Primary Exam"
+        author: "C. Jake Barlow"
+        publishers: "Life in the Fast Lane"
+        keep-tex: true
+        # Theming
+        documentclass: scrbook
+        classoption: [oneside]
+        filters: [scripts/boxes.lua, scripts/tables.lua]
+        include-in-header: [themes/titfl.tex]
+        cap-location: margin
+        citation-location: margin
+        reference-location: document
+        number-sections: false
+        # Style
+        toc-title: "Contents"
+        include-before-body: content/copyright.tex

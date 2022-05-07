@@ -1,0 +1,95 @@
+# 2021A Question 15
+
+Describe the respiratory responses to hypoxaemia in both the awake and the anaesthetized patient.
+
+
+## Examiner Report
+
+62.2% of candidates achieved a pass in this question.
+
+
+To pass the question candidates were expected to:
+
+* Define hypoxaemia
+* Outline the components of the associated physiological control system (a brief discussion of the sensors, integrators, and effectors was considered sufficient).
+* Appreciate the relationship between respiratory drive/MV and PaO2
+* Outline hypoxic pulmonary vasoconstriction.
+* Address some of the effects of anaesthesia upon those responses
+
+
+Common errors included:
+
+* Confusion between carotid bodies and sinuses, and aortic bodies and arches
+
+
+No credit was awarded for discussion of cardiovascular responses, nor for describing the response to hypercapnia (other than its effect on the response to hypoxaemia.) Simply repeating information already displayed clearly in graphical form attracted no additional credit.
+
+
+## Model Answer
+
+Structure:
+
+- Intro and importance
+- Hyperventilation: Sensor, integrator, effector
+- Hypoxic pulmonary vasoconstriction
+- Sympathetic outflow
+
+### Introduction
+
+
+|Property|Detail|
+| -- | -- |
+|Definition| PaO~2~ ≤60mmHg|
+|Responses|<p>- Increased alveolar ventilation → ↑ PaO~2~</p><p>- Hypoxic pulmonary vasoconstriction</p><p>&emsp;- Improved V/Q matching → ↑ PaO~2~</p><p>&emsp;- ↑ PVR</p><p>- ↑ SNS output → ↑ Cardiac output → DO~2~</p>|
+|Effect of anaesthesia on responses|<p>- Suppression of all responses</p><p>- Dose-dependent effects</p>|
+|Risk factors|<p>- Alone (e.g. Post-op ward at night)</p><p>- CO~2~-insensate (e.g. Severe COPD, OSA, OHS)</p><p>- Sensitive to resp depression (e.g. Elderly, neonate)</p><p>- Respiratory depressant drugs (e.g. Morphine)</p><p>- Sedated (e.g. Midazolam)</p><p>- Synergistic respiratory depressant drugs (e.g. Benzo+ opioid)</p>|
+
+### Alveolar Hyperventilation
+
+
+#### Sensor
+
+|Sensor|Mechanism|
+| -- | -- |
+|Structure|<p>- Peripheral chemoreceptors</p><p>&emsp;- Carotid bodies (CNIX Hering’s nerve)</p><p>&emsp;- Aortic bodies (CNX)</p><p>- Type 1 glomus cell: Responsive to ↓ PO~2~, ↓ pCO~2~, (↓ pH carotids only)</p><p>- Type 2 sustentacular cell: Support</p><p>- Blood flow 2000mL.min^-1^/100g → Supply by dissolved O~2~ only</p>|
+|Function|<p>- ↓ PaO~2~ → Closure of K^+^ channel → Depolarisation → ↑ Afferent to resp centre</p><p>- Response is minimal until PaO~2~ ≤100mmHg, profound ≤50mmHg</p><p>- Response is rapid, ≤1 second</p>|
+|Effect of anaesthesia|<p>- Volatiles:</p><p>&emsp;- ↓ Chemoreceptor afferents is the most important resp effect</p><p>&emsp;- 1 MAC: Ablated response</p><p>&emsp;- 0.1 MAC: Significant depression of response</p><p>&emsp;- Hence need for O~2~ supplementation post-op for safety</p><p><img src="/resources/volatile-po2-response.svg"></p><p>- Propofol: </p><p>&emsp;- ↓ Chemoreceptor afferents</p><p>&emsp;- Less potent than volatiles</p>|
+
+#### Controller
+
+
+|Controller|Mechanism|
+| -- | -- |
+|Structure|<p>- Respiratory centre, medulla</p><p>- Multiple cell types: Dorsal inspiratory, ventral expiratory, pre-Botzinger pacemakers</p><p>- Afferents via nucleus tractus solitarius</p><p>- Efferents via nucleus ambiguus and dorsal motor nucleus of CNX</p>|
+|Function|<p>- ↑ Stimulation → ↑ Amplitude and frequency of neuronal output to effectors</p><p>- ↓ PaO~2~ is synergistic with ↑ PaCO~2~ and ↓ pH</p><p><img src="/resources/PaO2-vs-MV.svg"></p>|
+|Effect of anaesthesia|<p>- Suppression:</p><p>&emsp;- General anaesthesia (↑ GABA/glycine activity)</p><p>&emsp;- Opioids (μ receptor agonist in resp centre – most important opioid effect)</p><p>&emsp;- Neuraxial: ↓ input to reticular activating system → ↓ Conscious state, ↓ resp centre output</p><p>- Stimulation:</p><p>&emsp;- Pain → ↑ Input to reticular activating system → ↑ Resp centre output</p>|
+
+#### Effector
+
+
+|Effector|Mechanism|
+| -- | -- |
+|Muscles|<p>- Primary inspiratory: Diaphragm, external intercostals, pharyngeal dilators</p><p>- Accessory inspiratory: E.g. Sternocleidomastoid</p><p>- Expiratory: E.g. Internal intercostals, abdominals (normally inactive)</p>|
+|Function|<p>- ↑ Respiratory centre output → ↑ RR, VT → ↑ VA → ↑ PaO~2~</p><p>- Completion of negative feedback loop</p>|
+|Effect of anaesthesia|<p>- Volatile:</p><p>&emsp;- Skeletal muscle relaxation (inhibit nAChR)</p><p>&emsp;- Inhibit a-motor neuron (↑ GABA/↑ glycine)</p><p>&emsp;- Affects intercostals > diaphragm</p><p>- Propofol:</p><p>&emsp;- As for volatiles</p><p>&emsp;- But less potent: ↓ glycine activity, ↓ spinal cord effect</p><p>- Benzodiazepines:</p><p>&emsp;- Skeletal muscle relaxation</p><p>- Neuraxial:</p><p>&emsp;- Inhibit α-motor neuron (intercostals)</p><p>&emsp;- No effect on diaphragm unless C-spine level</p><p>- Paralysis:</p><p>&emsp;- No effector response</p><p>- Position:</p><p>&emsp;- Supine, Trendelenburg → ↑ Work of breathing → Impaired effector</p><p>- Apparatus dead space (tubing distal to Y piece):</p><p>&emsp;- ↓ VA for a given MV</p>|
+
+### Hypoxic Pulmonary Vasoconstriction
+
+
+|Factor|Detail|
+| -- | -- |
+|Aim| Match ventilation with perfusion, ↑ PaO~2~|
+|Biphasic response|<p>- Phase 1: Onset immediate, plateau 5 mins</p><p>&emsp;- ? Inhibition of K^+^ channel</p><p>&emsp;- ? ↓ Mitochondrial ROS</p><p>&emsp;- ? ↓ ATP:ADP</p><br><p>- Phase 2: Onset 40 minutes, plateau 2 hours</p><p>&emsp;- ? ↑ ↓ COX, LOX production</p><p>&emsp;- ? ↑ Hypoxia-inducible transcription</p>|
+|Effect of anaesthesia|<p>- Volatile: </p><p>&emsp;- Inhibit L-Ca^2+^ channel, ↑ NO release, ↓ medulla SNS output</p><p>&emsp;- Generalised vasodilatation including pulmonary</p><br><p>- Propofol:</p><p>&emsp;- Similar mechanisms</p><p>&emsp;- Less potent, preferred in one lung ventilation</p>|
+
+### Sympathetic Response
+
+
+|Factor|Mechanism|
+| -- | -- |
+|Stimulus| ↓ PaO~2~ ≤50mmHg → CNS acidosis|
+|Response|<p>- ↑ SNS output</p><p>- ↑ HR, ↑ contractility, venoconstriction → ↑ Preload</p><p>- ↑ Cardiac output → ↑ O~2~ delivery</p><p>- No change to PaO~2~</p>|
+|Effect of anaesthesia|<p>- Volatiles, propofol:</p><p>&emsp;- ↓ SNS output from medulla (↑ GABA, glycine activity)</p><p>&emsp;- Inhibit L-Ca^2+^ on heart, blood vessels</p><p>&emsp;- ↑ Nitric oxide release</p><p>&emsp;- Dose-dependent suppression of baroreceptor response (propofol > volatiles)</p><br><p>- Opioids, benzodiazepines:</p><p>&emsp;- ↓ SNS output</p><br><p>- Neuraxial:</p><p>&emsp;- ↓ SNS output below block upper limit</p>|
+
+
+--- 

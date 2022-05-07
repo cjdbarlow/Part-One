@@ -1,0 +1,53 @@
+# 2019A Question 05 
+
+Discuss the cerebral effects of prolonged anaesthesia in the steep head down position.
+
+
+## Examiner Report
+
+The head down position is becoming increasingly common in modern surgery. The question required consideration of the key physiological factors which interplay with the exposed hydrostatic forces, as well as the impact of anaesthesia. A basic pass mark would need reference to and a discussion of increases in intracranial pressure and cerebral blood volume. An explanation of the cerebral effects of anaesthesia was also expected.
+
+Better answers displayed a more comprehensive and integrated interpretation of factual content and compensatory mechanisms.
+
+Common errors included listing facts and equations with little or no explanation, the provision of irrelevant information, not addressing the question or components of the question and not providing sufficient detail on pertinent points. There was often limited discussion or omission of the effects of anaesthesia.
+
+## Model Answer
+
+Structure:
+- Effects of hydrostatic pressure change
+- Effects of respiratory embarrassment
+- Effects of general anaesthesia
+
+### Effects of Hydrostatic Change
+
+
+|Region|Detail|
+| -- | -- |
+|Background|<p>- Monroe-Kellie Doctrine:</p><p>&emsp;- Cranium has fixed walls and one major outlet</p><p>&emsp;- Increase in one intracranial substance must come at the expense of another or else pressure rises drastically</p><p>- Volume buffering:</p><p>&emsp;- Venous blood → Circulation: Rapid response, lower capacity</p><p>&emsp;- Arterial blood → Circulation: Minimal</p><p>&emsp;- Brain CSF → Spinal CSF: Slower response, higher capacity</p><p>&emsp;- Brain: No ability</p><p><img src="/resources/monroe-kellie.svg"></p>|
+|Hydrostatic changes|<p>- Example: Laparoscopy, head -10mmHg (13.5cm)</p><p>- Direct effects:</p><p>&emsp;- CNS arteries: 100 → 110 mmHg (1.1x normal) → Small ↑ arterial volume</p><p>&emsp;- CNS veins: 2 → 12mmHg (6x normal) → Large ↑ venous volume</p><p>- Compensatory effects:</p><p>&emsp;- CSF displaced → ↓ CSF volume (compensation)</p>|
+|Overall effects|<p>- Mild ↑ ICP</p><p>- Mild ↑ IOP</p><p>- Mild ↓ cerebral perfusion pressure</p>|
+
+### Effects of Respiratory Embarrassment
+
+
+|Variable|Detail|
+| -- | -- |
+|Mechanism|<p>- Compression of diaphragm by abdominal viscera and fat</p><p>- Greatly exacerbated in obesity</p>|
+|↑ PaCO~2~|<p>- ↓ Thoracic compliance</p><p>- ↓ VT for a given pressure gradient</p><p>- ↓ VA (= RR x VT – V~D~)</p><p>- ↑ PACO~2~, ↑ PaCO~2~</p><p>- ↓ PH in CSF and brain ECF (CO~2~ crosses blood-brain barrier)</p><p>- ↑ Activity nNOS, ↓ activity L-Ca^2+^ channel</p><p>- Cerebral vasodilatation</p><p>- ↑ CBV</p><p>- +/- ↑ ICP (once volume buffering exhausted)</p>|
+|↓ PaO~2~|<p>- ↓ FRC</p><p>- Alveolar collapse</p><p>- ↑ Shunt</p><p>- ↓ PaO~2~</p><p>- ↓ DO~2~</p><p>- Risk of CNS ischaemia</p><p>- Reduction in CMRO~2~ under GA is protective</p>|
+
+
+### Effect of Prolonged General Anaesthesia
+
+*Effects are drug dependent.*
+
+- Drowsiness (drug accumulation)
+- Nausea and vomiting
+- Respiratory depression\
+↓ Response to ↓ PaO~2~ and ↑ PaCO~2~.
+- Delirium, cognitive dysfunction\
+↑ Risk if steep Trendelenburg, deep anaesthesia.
+
+
+--- 
+

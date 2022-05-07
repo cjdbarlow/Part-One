@@ -1,0 +1,39 @@
+# 2020B Question 14 
+
+Mallampatti score is a diagnostic test for difficult intubation with a sensitivity of 30% and a specificity of 90%. Describe how this information and other statistics related to this test can be used for predicting difficult intubation. How does the prevalence of difficult intubation affect the performance of this test?
+
+
+## Examiner Report
+
+It is encouraging to see an improvement from 2006 when a similar question was asked. A pass mark required the use of a 2 x 2 contingency table to clearly describe the features of a diagnostic test, including the concepts of sensitivity, specificity, positive and negative predictive value and how these concepts might be affected by the prevalence of the condition in question. Sensitivity and specificity describe a test’s ability to correctly diagnose the presence or absence of a condition respectively, and it is therefore an intrinsic quality of a diagnostic test. Alternatively, the positive and negative predictive values of a diagnostic test depend upon prevalence or prior probability within a population. Similarly, it was important to apply these statistical concepts to the Mallampati score, recognising that due to the low population prevalence of difficult intubation, the Mallampati score has a low positive predictive value but has a high negative predictive value. Additional marks were allocated for discussing further descriptive statistical concepts including Bayes theorem, likelihood ratios and receiver operating curves.
+
+
+Unfortunately, a number of candidates wasted time describing the Mallampati score and other airway assessment tools at the expense of a detailed statistical discussion. Candidates that failed to draw contingency tables or draw them accurately invariably failed to define the concepts correctly. Many candidates were unable to correctly define either sensitivity or specificity and sensitivity and positive predictive value were at times used interchangeably. The discussion of p-values, alpha and beta errors and regression analysis were unnecessary and did not answer the question.
+
+## Model Answer
+
+
+|  | Difficult ETT | Not Difficult ETT |Total||
+| -- | -- | -- |-- |
+| **High MP score** | True Positives | False Positives|PPV: A/(a+b)|
+| **Low MP score** | False Negatives| True Negatives |NPV: D/(c+d)|
+|**Total**|Sensitivity: A/(a+c) (30%)|Specificity: D/(b+d) (90%)||
+
+
+$Positive \ LR = {Sensitivity \over 1-Specificity} = 3$
+
+$Negative \ LR = {1-Sensitivity \over Specificity} = 0.78$
+
+### Interpretation
+
+
+|Factor|Detail|
+| -- | -- |
+|Sensitivity & specificity|<p>- Will pick up 30% of those with difficult ETT</p><p>- Will rule out 90% of those without difficult ETT</p><p>→ Unhelpful at identifying difficult intubation</p>|
+|Predictive values|<p>- PPV and NPV ∝ prevalence</p><p>- Prevalence of difficult intubation is low</p><p>→ Low PPV for difficult intubation in all-comers</p>|
+|Likelihood ratios|<p>- +LR 3: Slight ↑ post-test probability of difficult intubation if high grade MP score</p><p>- -LR is ≤1: Slight ↓ post-test probability of difficult intubation if low grade MP score</p><p>- % Change in probability is unaffected by prevalence of difficult intubation</p><p>→ Low utility in assisting prediction of difficult intubation</p>|
+|Receiver-operator characteristic|<p>- Relationship between sensitivity, specificity, test quality</p><p>- ↑ AUC associated with high utility</p><p><img src="/resources/roc.svg"></p>|
+
+
+--- 
+

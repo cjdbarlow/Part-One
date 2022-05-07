@@ -1,0 +1,24 @@
+# Pharmacogenetics
+
+:::CICM
+Outline genetic variability
+:::
+
+:::ANZCA
+Develop an understanding of variations in individual drug responses together with clinical application of this knowledge
+:::
+
+**Genetic polymorphism** occurs when several functionally distinct genes exist within a population. Genetic polymorphism is:
+
+* Common
+* Important in determining an individuals susceptibility to adverse drug reactions
+* A goal of **personalised medicine**\
+Aims to adjust drug therapies for interpatient variability.
+
+
+---
+
+## References
+
+1. Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. Sixth Edition. Churchill Livingstone.
+2. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

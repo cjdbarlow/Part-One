@@ -13,8 +13,4 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 AutoAppendNewline: Yes
-
-QuitChildProcessesOnExit: Yes
 DisableExecuteRprofile: Yes
-
-SpellingDictionary: en_AU

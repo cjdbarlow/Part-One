@@ -1,0 +1,71 @@
+# 2020B Question 05 
+
+Describe the determinants of left ventricular myocardial oxygen supply and demand.
+
+## Examiner Report
+
+This question was answered succinctly and well by a number of candidates.
+
+A brief description of the anatomy and normal rate of blood flow to the heart or LV normal blood flow as a proportion of total cardiac output was used by many candidates as a starting point to this question.
+
+The question required discussion of both the factors affecting supply of blood to the left ventricle, and the capacity of blood to carry oxygen, to be discussed in some depth. Equations relating to coronary perfusion pressure and the oxygen flux equation were correctly used by the better candidates to achieve this. Recognising and discussing that supply to the left ventricle was flow limited was done by most passing candidates.
+
+Factors that influenced demand by the heart are primarily rate, contractility and systolic wall tension. Preload has a lesser effect and was discussed by the better candidates. Equations relating wall tension to radius (Laplace’s Law) and metabolic and myogenic factors that regulated both supply and demand were important parts of this answer. The effect of heart rate on filling time and perfusion was also relevant. Examples of pathology were used effectively by some candidates to describe states where demand was altered.
+
+
+## Model Answer
+
+Structure:
+- Introduction
+- Principles of LV oxygen supply
+- Factors affecting LV oxygen supply
+- LV oxygen demand determinants
+
+### Introduction
+
+
+|Factor|Detail|
+| -- | -- |
+|Summary|<p>- High O~2~ consumption: MVO~2~ 9.8mL.min^-1^/100g at rest</p><p>- High O~2~ extraction: 75% at rest</p><p>- Hence ↑ O~2~ demand requires ↑ CBF</p><p>- LMCA flow only in diastole (systole reverses the pressure gradient)</p>|
+|Supply-demand ratio|<p>- Endocardial viability ratio = DPTI/TTI</p><p>- Supply: $\mbox{Diastolic Pressure-time Index} = \mbox{Diastolic Time} \times (AoP – LVEDP)$</p><p>- Demand: Tension time index = systolic time x SBP</p><p>- Normal EVR >1</p><p>- Ischaemia ≤0.7</p>|
+
+### Principles of LV Oxygen Supply
+
+
+|Determinant|Equation|
+| -- | -- |
+|Oxygen delivery|$LMCA \ flow \ rate \times CaO_2$|
+|LMCA flow rate|<p>$= \% \ Time \ in \ Diastole \times {AoP – LVEDP \over Coronary \ Vascular \ Resistance}$</p><p>- Normal AoP in diastole: ~80mmHg</p><p>- Normal LVEDP: ~6mmHg</p>|
+|Oxygen content|<p>$= [Hb]g/L \times  1.34 \times SaO~2~ + 0.03 \times PaO_2$</p><p>- Normal 20mL O~2~ per 100mL arterial blood</p>|
+|Coronary vascular resistance|<p>$= {8 \times length \times viscosity \over \pi \times radius^4}$</p><p>(Radius is the major factor given fourth power)</p>|
+
+<img src="/resources/LV-cbf.svg" style="width: 60pc;">
+
+### Factors Decreasing LV Oxygen Supply
+
+
+|Factor|Mechanism|
+| -- | -- |
+|↓ % Diastole|<p>- i.e. ↑ HR</p>|
+|↓ AoP|<p>- Hypovolaemia (e.g. Blood loss, dehydration)</p><p>- Vasodilation (e.g. Sepsis)</p><p>- Aortic stenosis: ↑ kinetic energy, ↓ pressure energy (Bernoulli principle)</p>|
+|↑ LVEDP|<p>- Diastolic heart failure</p>|
+|↓ Vessel Radius|<p>- Compression of small intramyocardial vessels in systole</p><p>&emsp;- Supply to LV mainly in diastole</p><p>- Metabolic autoregulation:</p><p>&emsp;- ↑ MVO~2~ → ↑ PCO~2~/H+/K^+^/adenosine/lactate → ↑ NO → Vasodilatation</p><p>&emsp;- Most important</p><p>&emsp;- Couples demand with supply</p><p>- Myogenic autoregulation:</p><p>&emsp;- ↑ AoP → ↑ Coronary artery stretch → Reflex constriction</p><p>&emsp;- Effective 60mmHg ≤ AoP 180mmHg</p><p>- Neural:</p><p>&emsp;- SNS constrict (But ↑ MVO~2~ → Dilate)</p><p>&emsp;- PSNS dilate (But ↓ MVO~2~ → Constrict)</p><p>- Hormonal: Adrenaline →</p><p>&emsp;- α~1~ Constriction</p><p>&emsp;- β~2~ Dilation</p><p>- Drugs:</p><p>&emsp;- Cocaine → Constrict</p><p>&emsp;- GTN → Dilate</p><p>- Pathology:</p><p>&emsp;- Stenosis</p><p>&emsp;- Vasospasm → ↓ Radius</p>|
+|↑ Vessel Length|<p>- Hypertrophy → ↑ CVR</p>|
+|↑ Blood Viscosity|<p>- ↑ Hct: e.g. Polycythaemia</p><p>- ↓ Temperature</p><p>- ↓ Blood flow rate (since blood is non-Newtonian)</p>|
+|↓ [Hb]|<p>- ↓ Production: Haematinic deficiency, chronic disease, renal or marrow failure</p><p>- ↑ Loss: Bleeding, haemolysis</p>|
+|↓ PaO~2~/SaO~2~|<p>- ↓ PiO~2~ (e.g. Altitude, diffusion hypoxia)</p><p>- ↓ VA (e.g. Respiratory depressants)</p><p>- ↑ V/Q Mismatch and shunt (e.g. Atelectasis, general anaesthesia)</p>|
+
+### Determinants of LV Oxygen Demand
+
+
+|Factor|Detail|
+| -- | -- 
+|<p>Wall tension</p><p>(40%)</p>|<p>$Tension = {Pressure \times Radius \over 2}$(LaPlace’s law)</p><p>- ↑ Afterload → ↑ MVO~2~</p><p>&emsp;- LVOT obstruction: Aortic stenosis, HOCM</p><p>&emsp;- ↑ SVR: e.g. Α~1~-agonist</p><p>- ↑ Preload → ↑ Radius → ↑ MVO~2~ (less important)</p><p>&emsp;- i.e. ↑ Venous return</p>|
+|Basal consumption (25%)|<p>- ↑ Temp → ↑ Enzyme rate → ↑ MVO~2~</p><p>- Hypertrophy → ↑ MVO~2~</p>|
+|<p>Heart rate</p><p>(15-25%)</p>|- ↑ HR → Number of contractions per unit time|
+|<p>Contractility</p><p>(10-15%)</p>|- Adrenaline → ↑ ICF Ca^2+^ → ↑ Number of cross bridges → ↑ ATP hydrolysis rate → ↑ MVO~2~|
+|<p>Stroke work</p><p>(10-15%)</p>|<p>- = ∆P x ∆V</p><p>- Pressure work: ∝ Afterload</p><p>- Volume work: I.e. Stroke volume</p>|
+
+
+--- 
+

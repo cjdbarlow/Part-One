@@ -1,0 +1,49 @@
+# Organelles
+
+:::CICM
+Describe ~~the cell membrane and~~ cellular organelles and their properties
+:::
+
+:::ANZCA
+Outline basic cellular physiology in particular: ~~The structure of the cell membrane and trans-membrane transport mechanisms, The composition and regulation of intracellular fluid, The generation of the trans-membrane potential,~~ Energy production by metabolic processes in cells
+:::
+
+Organelles are specialised functional subunits within a cell, typically contained within their own lipid bilayer.
+
+Key organelles include:
+
+* Mitochondria
+* Endoplasmic reticulum
+* Golgi apparatus
+
+## Mitochondria
+
+Mitochondria:
+
+* Produce ATP via aerobic metabolism\
+Only method of aerobic metabolism in the body.
+    * Mitochondria exist in greater numbers in more metabolically active cells
+* Consist of two membranes (outer and inner), which create three spaces, 
+    * Cytoplasm\
+    Outside the outer membrane.
+    * Intermembrane space\
+    Between the membranes.
+        * Outer membrane separates mitochondria from cytoplasm, but contains pores allowing some substances (pyruvate, amino acids, fatty acids) to pass
+        * Inner membrane:
+            * Isolates the electron transport chain from the intermembrane (space between inner and outer membranes) space.
+            * Proteins on the inner membrane conduct the redox reactions important for ATP production
+            * Electron transport chain pumps hydrogen ions into the intermembrane space
+    * Inner mitochondrial matrix\
+    Contents important in many metabolic processes:
+        * Citric acid cycle
+        * Fatty acid metabolism
+        * Urea cycle
+        * Haeme synthesis
+
+
+---
+
+## References
+
+1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+

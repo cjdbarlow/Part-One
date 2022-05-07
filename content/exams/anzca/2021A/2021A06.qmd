@@ -1,0 +1,69 @@
+# 2021A Question 6
+
+Compare and contrast the pharmacology of metaraminol and adrenaline (epinephrine).
+
+
+## Examiner Report
+
+55% of candidates achieved a pass in this question.
+
+
+The main domains assessed in this question were:
+
+* Structure and classification
+* Mechanism of action
+* Pharmacokinetics
+* Pharmacodynamics – with particular emphasis on cardiovascular system effects
+
+
+Both metaraminol and adrenaline (epinephrine) are drugs commonly used by anaesthetists and therefore it was expected that candidates should have a thorough knowledge of their pharmacology to pass. Many candidates utilised a table format and this lent itself well to a comparison of the two drugs across the required domains
+
+
+Common problems included:
+
+* Lack of detail regarding mechanism of action (including adrenoreceptor selectivity)
+* Little pharmacokinetic information provided
+* Superficial mention of the cardiovascular effects of the drugs
+* No mention of effects on other body systems
+
+
+The intracellular details of G-protein coupled receptor activation was not required and did not receive marks.
+
+## Model Answer
+
+
+### Physicochemical
+
+
+||Adrenaline|Metaraminol|
+| -- | -- | -- |
+|Structure|<img src="/resources/adrenaline.svg">|<img src="/resources/metaraminol.svg">|
+|Structure-activity|<p>- Catecholamine: Direct, potent, sensitive to COMT</p><p>- OH on β-carbon: Direct, alpha</p><p>- No substitution on α-carbon: MAO sensitive</p><p>- Larger amine: Β>α</p>|<p>- Non-catecholamine: Resistant to COMT</p><p>- OH on β-carbon: Direct, alpha</p><p>- NH2 substitution on α-carbon: Indirect, MAO resistant</p><p>- Smaller amine: Α>β</p>|
+|Presentation| 1mg in 1mL or 10mL (concentrated ++++)| 10mg in 1mL (concentrated++)|
+|Tissue necrosis| High risk – CVC only| Low risk – PIVC ok|
+
+### Pharmacokinetic
+
+
+||Adrenaline|Metaraminol|
+| -- | -- | -- |
+|Administration|<p>- IV infusion: 1-30μg/min</p><p>- IV bolus: 1mg in cardiac arrest</p><p>- IM bolus: 500μg in anaphylaxis</p>|<p>- IV bolus: 0.5-1mg (10-20μg/kg) PRN</p><p>- IV infusion: Typically 0.5-5mg/h (20-200μg/kg/h)</p><p>- S/C or IM</p>|
+|Time course|<p>- Onset ≤1min</p><p>- Duration 5 mins</p><p>&emsp;- Drug elimination rapid</p><p>&emsp;- Receptor effects prolonged</p>|<p>- Onset 1-2 min</p><p>- Duration: Stated 20-60mins, likely shorter</p>|
+|Absorption| Not orally bioavailable| Orally bioavailable, % unknown|
+|Distribution|<p>- V~D~ 0.1-0.2L/kg</p><p>- 12% protein bound</p><p>- Should not cross blood-brain barrier</p>|<p>- Poorly studied in humans</p><p>- 45% protein bound</p><p>- V~D~ 4L/kg</p><p>- Should not cross BBB</p>|
+|Metabolism|<p>- By COMT and MAO → VMA</p><p>- By COMT only → Normetadrenaline</p><p>- t1/2β 2 mins</p>|<p>- Poorly studied in humans; likely slow</p><p>- Not susceptible to MAO or COMT</p><p>- t1/2β 6 hours</p>|
+|Excretion| Metabolites → Urine| Unknown|
+
+### Pharmacodynamics
+
+
+||Adrenaline|Metaraminol|
+| -- | -- | -- |
+|Receptor activity|<p>- β~1~ > β~2~ > α~1~</p><p>- Direct</p>|<p>- α~1~ >> β~1~</p><p>- Direct</p><p>- Indirect (displaces noradrenaline from vesicles)</p>|
+|Use|<p>- Anaphylaxis (↑ CO, ↑ SVR, stabilize mast cells)</p><p>- Cardiogenic shock (↑ CO)</p><p>- Cardiac arrest (↑ SVR → Vital organ perfusion)</p><p>- Additive with local anaesthetic (↑ duration, ↓ LAST)</p>|<p>- Peri-operative hypotension – GA and neuraxial</p><p>- Unclear if equivalent to phenylephrine in obstetrics</p>|
+|Toxicity|<p>- Safer with noradrenaline reuptake inhibitors (NRI)</p><p>- Tachyphylaxis slow: Adrenoceptor downregulation</p>|<p>- Dangerous with NRI e.g. MAOi (↑↑ NAd release)</p><p>- Tachyphylaxis rapid: Catecholamine depletion</p>|
+
+
+--- 
+
+ 

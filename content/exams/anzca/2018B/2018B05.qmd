@@ -1,0 +1,90 @@
+# 2018B Question 05 
+
+Describe the maternal cardiovascular changes that occur during pregnancy.
+
+
+## Examiner Report
+
+50% of candidates achieved a pass in this question.
+
+
+This answer required more than a list of rudimentary facts related to the cardiovascular system in a pregnant woman.
+
+
+Cardiovascular parameters related to at least 3 or more aspects of cardiac physiology, in areas such as cardiac output, stroke volume, heart rate, mean arterial pressure and systemic vascular resistance were required for a pass, including the correct direction and approximate magnitude of the changes. An explanation of supine hypotension/aortocaval compression syndrome was also expected.
+Whilst the haematopoietic system & the relevant changes were given credit, these were often the main or only focus of many answers. Viscosity, hypercoagulability, dilutional anaemia of
+pregnancy and changes to haemoglobin levels if mentioned were required to be correctly described.
+
+
+This question asked for changes that occur over the course of pregnancy, so marks were awarded for a description of the time course of pregnancy with the accompanying alteration such as the increase in cardiac output that occurs early in first trimester and then again during the third trimester as well as labour. Again, superior answers would include an explanation as to how the changes come about.
+
+
+Extra credit was given when the hormones (oestrogen, progesterone or relaxin) involved were described as well as the changes they produce. Also, extra credit was awarded when details were given about specific areas such as the difference in the change in systolic, diastolic and mean arterial blood pressure or other vascular beds or the utero-placental circulation were mentioned.
+
+
+## Model Answer
+
+Structure:
+- Summary
+- Haemodynamics
+- Blood
+- Regional circulation
+- Labour
+- Other
+
+### Summary
+
+
+|Objectives|<p>- Support foetal gas exchange</p><p>- Prepare for massive PPH</p>|
+| -- | -- |
+|Most Important Changes|<p>- ↑ Blood volume</p><p>- ↑ Interstitial volume</p><p>- ↑ Cardiac Output</p><p>- ↑ Coagulability</p>|
+|Causes|<p>- Placental hormones</p><p>- ↑ Demand</p>|
+
+### Haemodynamics
+
+
+|Factor|Detail|
+| -- | -- |
+|Heart Rate|<p><img src="/resources/maternal-hr.svg"></p><p>- ↑ Uteroplacental Demand → ↑ Venous return</p><p>- ↓ SVR → ↓ MAP → Baroreceptor response (?)</p><p>(Note: ↑ HR occurs from ~4/40, not conception)</p>|
+|Stroke Volume|<p><img src="/resources/maternal-sv.svg"></p><p>- ↑ Uteroplacental demand → ↑ Preload</p><p>- ↑ RR and VT → ↑ Respiratory pump activity (?)</p><p>(Note: ↑ SV occurs a bit later than for heart rate)</p>|
+|Cardiac Output|<p><img src="/resources/maternal-co.svg"></p><p>- ↑ Uteroplacental demand</p><p>- Note increased risk of heart failure</p>|
+|Systemic Vascular Resistance|<p><img src="/resources/maternal-svr.svg"></p><p>- Progesterone, prostaglandins →</p><p>- Smooth muscle relaxation</p><p>- Downregulation of α~1~ adrenoceptors</p>|
+|Blood Pressure|<p><img src="/resources/maternal-bp.svg"></p><p>- ↓↓ Diastolic, ↓ Systolic, ↑ Pulse Pressure</p><p>- Due to ↓ SVR with ↑ Stroke Volume</p>|
+
+
+### Blood
+
+
+|Factor|Detail|
+| -- | -- |
+|Blood Volume|<p><img src="/resources/maternal-volume.svg"></p><p><img src="/resources/maternal-hb.svg"></p><p>- Causes:</p><p>&emsp;- Oestrogen → ↑ RAAS → Retain Na^+^, H~2~O</p><p>&emsp;- Oestrogen → ↑ Epo</p><p>- Implications:</p><p>&emsp;- Iron supplementation aids erythropoiesis</p><p>&emsp;- Hypervolaemic haemodilution improves tolerance of massive PPH</p><p>&emsp;- Hypoviscosity aids increased cardiac output</p>|
+|Interstitial Volume|<p>- Mucosal swelling, peripheral oedema</p><p>- Causes:</p><p>&emsp;- Oestrogen → ↑ RAAS</p><p>&emsp;- Progesterone → Vasodilatation</p><p>- Implication:</p><p>&emsp;- ?Fluid reserve in case of blood loss (no evidence for this)</p>|
+|Plasma Proteins|<p>- ↓ [Albumin], ↔AAG</p><p>- ↓ Oncotic pressure 14%</p><p>- Cause: Progesterone → Volume expansion → Dilution</p><p>- Implication: ↑ free % acidic drugs e.g. ↑ risk thiopentone toxicity if GA LUSCS</p>|
+|Hypercoagulability|<p>- ↑ Factors I (2x), VII, VIII, IX, X, XII, vWF</p><p>- ↓ Protein S, acquired resistance to Prot C</p><p>- Cause: Oestrogen</p><p>- Implication: ↓ Risk lethal bleeding, ↑ Risk thromboembolism</p>|
+
+### Regional Circulations
+
+
+|Circulation|Detail|
+| -- | -- |
+|Uterine Blood Flow|<p>- 150mL.min^-1^ → 750mL.min^-1^ (80% uteroplacental, 20% other)</p><p>- Cause: ↑ demand</p><p>- Implication: Potential for rapid bleeding</p>|
+|Other|<p>- Renal blood flow: ↑ 80%, mostly in T1</p><p>&emsp;- Hence ↑ urine output</p><p>- ↑ Flow rate through skin, muscle, breast, GIT</p><p>&emsp;- Hence faster onset of SC and IM drugs (e.g. Opioid in labour)</p>|
+
+### Labour
+
+
+|Factor|Detail|
+| -- | -- |
+|Escalating Cardiac Output|<p><img src="/resources/labor-co.svg"></p><p>- Intrapartum: Effort + pain + distress (attenuated by epidural)</p><p>- Post-partum: Uterine involution → Autotransfusion (highest risk of heart failure)</p>|
+
+### Pathology
+
+
+|Pathology|Detail|
+| -- | -- |
+|Supine Aortocaval Compression|<p>- i.e. Supine → ↓↓ MAP</p><p>- Blood shunted to azygos systems</p><p>- Affects 15% patients</p><p>- From 20/40</p><p>- Prevention: Wedge under right hip during LUSCS or resuscitation</p>|
+|Pre-eclampsia|<p>- Cause: ?Abnormal invasion or spiral arteries by trophoblast</p><p>- Characterised by multi-system endothelial dysfunction</p><p>- Risk of hypertensive emergency and seizure</p>|
+
+
+--- 
+
