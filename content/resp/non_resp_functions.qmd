@@ -12,21 +12,21 @@ The lungs are a unique organ as:
 
 Consequently they are adapted to a number of non-respiratory functions which include:
 
-```{marginfigure}
+::: column-margin
 An alternative mnemonic:
 - **F**iltration\
 - **I**mmune defence\
-- Blood **r**esevoir\
+- Blood **r**eservoir\
 - **M**etabolism\
 - **T**aking up drugs\
 - (**I**nhalational Anaesthetics)\
 - **S**ynthetic\
 - Endocrine
-```
+:::
 
 * Filtration
 * Metabolism
-* Blood resevoir
+* Blood reservoir
 * Defence
 * Drug delivery
 * Endocrine
@@ -50,11 +50,11 @@ The pulmonary endothelium has a variety of effects on drugs and endogenous hormo
 
 ## Blood Reservoir
 
-The highly compliant pulmonary circulation contains a resevoir of ~500ml of blood which acts as a **volume reserve** for the LV.
+The highly compliant pulmonary circulation contains a reservoir of ~500ml of blood which acts as a **volume reserve** for the LV.
 
 ## Defence
 
-The large surface area required for gas exchange leaves the lung vulnerable to invasion by airborn substances. This is attentuated by:
+The large surface area required for gas exchange leaves the lung vulnerable to invasion by airborne substances. This is attenuated by:
 
 * Mucous\
 A mucous layer protects large airways, as large (>8μm) particles impact into the mucous. \

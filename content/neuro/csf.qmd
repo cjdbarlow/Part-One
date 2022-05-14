@@ -40,6 +40,14 @@ CPP <70mmHg reduces CSF formation.
 
 ### Contents
 
+:::column-margin
+In summary:
+
+* [Na^+^] is unchanged
+* [Mg^2+^] and [Cl^-^] are increased
+* Concentrations of everything else is less
+:::
+
 | Content | Relative Change |      [CSF]      |
 |---------+-----------------+-----------------|
 | Na^+^   | -               | 140 mmol.L^-1^  |
@@ -52,16 +60,16 @@ CPP <70mmHg reduces CSF formation.
 | Ca^2+^  | ↓               | 1.12 mmol.L^-1^ |
 | Mg^2+^  | ↑               | 1.2 mmol.L^-1^  |
 
-Relative to plasma:^[CSF [protein] is  variable:\
-\- Highest in the lumbar sac\
-\- Lowest in the ventricles\
-\- Always lower than plasma [protein]\
-\
-This means CSF is a **poor buffer solution**, which increases its sensitivity to derangements in respiratory acid-base status.]
+Relative to plasma CSF [protein] is  variable:
 
-* [Na^+^] is unchanged
-* [Mg^2+^] and [Cl^-^] are increased
-* Concentrations of everything else is less
+::: column-margin
+Due to the low [protein], CSF is a **poor buffer solution**, which increases its sensitivity to derangements in respiratory acid-base status.
+:::
+
+* Highest in the lumbar sac
+* Lowest in the ventricles
+* Always lower than plasma [protein]
+
 
 ## Circulation
 

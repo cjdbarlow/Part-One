@@ -73,7 +73,11 @@ The cell membrane invaginates around the substance, absorbing the substance into
 
 ## Gibbs-Donnan Effect
 
-The Gibbs-Donnan Effect describes the **tendency of permeable ions** to **distribute** themselves **such that the *ratios* of** the **concentrations are equal** when they are **in** the **presence of non-diffusable ions**^[Remember: all ions are charged.].
+::: column-margin
+Remember: all ions are charged.
+:::
+
+The Gibbs-Donnan Effect describes the **tendency of permeable ions** to **distribute** themselves **such that the *ratios* of** the **concentrations are equal** when they are **in** the **presence of non-diffusable ions**.
 
 The **consequence** is an uneven distribution of ions on either side of a semi-permeable membrane, and is important for:
 

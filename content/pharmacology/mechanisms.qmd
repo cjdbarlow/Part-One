@@ -6,7 +6,11 @@ To explain the concept of drug action with respect to: receptor theory, enzyme i
 
 Drugs can act in four major ways:
 
-* **Receptors**^[Receptors and ion channels are discussed in detail under [Receptor Theory](#receptor-theory.)]
+::: column-margin
+Receptors and ion channels are discussed in detail under @sec-receptortheory.
+:::
+
+* **Receptors**
     * GPCR
     * Intracellular
         * Cytoplasmic
@@ -36,19 +40,27 @@ Most drugs which interact with enzymes inhibit their activity. This results in:
 * Increased concentration of enzymatic substrate
 * Decreased concentration of the product of the reaction
 
-Drugs can be competitive^[Ramipril is a competitive inhibitor of angiotensin-converting enzyme.], non-competitive, or irreversible inhibitors^[Aspirin is an irreversible inhibitor of cyclo-oxygenase.] of enzymatic activity.
+Drugs can be competitive::: column-margin
+Ramipril is a competitive inhibitor of angiotensin-converting enzyme.], non-competitive, or irreversible inhibitors^[Aspirin is an irreversible inhibitor of cyclo-oxygenase.
+::: of enzymatic activity.
 
 ### False Substrates
 
-False substrates compete with the enzymatic binding site, and produce a product^[Methyldopa is a false substrate of the enzyme dopamine decarboxylase.].
+False substrates compete with the enzymatic binding site, and produce a product::: column-margin
+Methyldopa is a false substrate of the enzyme dopamine decarboxylase.
+:::.
 
 
 ## Physicochemical
 
 Drugs whose mechanism of action is due to their physicochemical properties, such as:
 
-* Tonicity^[Mannitol reduces ICP because it increases tonicity of the extracellular compartment (and is unable to cross the BBB), drawing free water from the intracellular compartment as a consequence.]
-* Chemical reactions^[Aluminium hydroxide reacts with gastric acid to form aluminium chloride and water, reducing stomach pH.]
+* Tonicity::: column-margin
+Mannitol reduces ICP because it increases tonicity of the extracellular compartment (and is unable to cross the BBB), drawing free water from the intracellular compartment as a consequence.
+:::
+* Chemical reactions::: column-margin
+Aluminium hydroxide reacts with gastric acid to form aluminium chloride and water, reducing stomach pH.
+:::
 * Surface tension
 
 

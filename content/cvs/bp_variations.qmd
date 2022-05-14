@@ -6,10 +6,14 @@ Describe the physiological factors that may contribute to pulse variations in bl
 
 Blood pressure is not uniform throughout the circulation. Ventricular ejection generates two waves:
 
+::: column-margin
+This recoil is known as the **Windkessel effect**.
+:::
+
 * A **blood flow wave**\
 Travels at **~20cm.s^-1^**.
 * An **arterial pressure wave**\
-Distends the elastic walls of the large arteries during systole, which then recoil during diastole to facilitate continual blood flow^[This recoil is known as the **Windkessel effect**.].
+Distends the elastic walls of the large arteries during systole, which then recoil during diastole to facilitate continual blood flow.
     * This wave travels at **4m.s^-1^**
     * **This is** what is **felt** when **pulses** are **palpated**, and what is **seen** on the **arterial line** waveform
 
@@ -113,6 +117,10 @@ Increased intrathoracic pressure during inspiration:
 
 Describes the variation in pulse pressure over the course of a respiratory cycle. Pulse pressure variation is:
 
+::: column-margin
+Note that this does not necessarily mean a fluid responsive patient needs fluid, or that fluid will not be harmful.
+:::
+
 * Mathematically defined as $PPV = {PP_{max} - PP_{min} \over PP_{mean}} \times 100$, where:
     * $PPV$ is pulse pressure variation
     * $PP$ is Pulse Pressure
@@ -121,7 +129,7 @@ Describes the variation in pulse pressure over the course of a respiratory cycle
     * Patients higher on the **Frank-Starling curve** will have less change in stroke volume with an increase in preload, and therefore:
         * Reduced PPV
         * Be less fluid responsive
-    * A PPV of **>12%** suggests volume responsiveness^[Note that this does not necessarily mean a fluid responsive patient needs fluid, or that fluid will not be harmful.]
+    * A PPV of **>12%** suggests volume responsiveness
 * Reliant on several assumptions:
     * Regular sinus rhythm\
     Irregular heart rates (particularly AF) lead to significant alterations in ventricular filling and therefore pulse pressure, independent of the respiratory cycle.

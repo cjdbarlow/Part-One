@@ -20,10 +20,14 @@ The cardiac cycle:
 
 Phases of the cardiac cycle:
 
+::: column-margin
+Slow ventricular filling is usually described as the beginning of the cycle.
+:::
+
 * Diastole
     * Isovolumetric Ventricular Relaxation
     * Rapid Ventricular Filling
-    * Slow Ventricular Filling (Diastasis)^[Slow ventricular filling is usually described as the beginning of the cycle.]
+    * Slow Ventricular Filling (Diastasis)
     * Atrial Contraction
 * Systole
     * Isovolumetric Ventricular Contraction

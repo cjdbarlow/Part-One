@@ -87,7 +87,11 @@ Impaired diffusion of O~2~ across the membrane results in a lowered PaO~2~. Diff
 
 #### Shunt\
 
-Shunt occurs when **blood reaches the systemic circulation without being oxygenated via passage through the lung**. With respect to shunt^[Shunt physiology is explored in more detail under [shunt](shunt.md)]:
+Shunt occurs when **blood reaches the systemic circulation without being oxygenated via passage through the lung**. With respect to shunt:
+
+::: column-margin
+Shunt physiology is explored in more detail under [shunt](shunt.md)
+:::
 
 * As the alveolus is **perfused** but **not ventilated**, thus the **V/Q ratio is 0**
 * Administration of 100% O~2~ has less effect on PaO~2~ as shunt fraction increases

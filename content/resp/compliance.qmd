@@ -4,7 +4,11 @@
 Define compliance (static, dynamic and specific), its measurement, and relate this to the elastic properties of the respiratory system.
 :::
 
-Compliance is the **change in volume** for a **given a change in pressure**^[Units for compliance are ml.cmH~2~O^-1^]. In the lung, compliance:
+Compliance is the **change in volume** for a **given a change in pressure**. In the lung, compliance:
+
+::: column-margin
+Units for compliance are ml.cmH~2~O^-1^
+:::
 
 * Occurs due to the tendency of a tissue to resume its original position after removal of an applied force
 * Is the inverse of **elastance**, which is the force at which the lung recoils for a given degree of distension

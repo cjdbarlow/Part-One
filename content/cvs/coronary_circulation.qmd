@@ -24,12 +24,16 @@ Eddy currents produced in the **Sinuses of Valsalva** (outpouchings of the aorti
 
 The **LAD**:
 
+::: column-margin
+The proximal LAD is defined as the area of LAD between the origin and D~1~, mid LAD is between D~1~ and D~2~, etc.
+:::
+
 * Courses along the **anterior interventricular groove** to the apex of the heart\
 Here, it anastomoses with the posterior descending artery from the RCA.
 * **Supplies** the **anterolateral myocardium** and **anterior 2/3^rds^** of the interventricular **septum**
 * **Branches** of the LAD include:
     * **Diagonal** vessels\
-    Branches are named successively from proximal to distal (i.e. LADD~1~, LADD~2~, etc), and wrap around the anterior wall of the ventricle.^[The proximal LAD is defined as the area of LAD between the origin and D~1~, mid LAD is between D~1~ and D~2~, etc.]
+    Branches are named successively from proximal to distal (i.e. LADD~1~, LADD~2~, etc), and wrap around the anterior wall of the ventricle.
     * **Septal perforators**\
     Penetrate into the myocardium.
 
@@ -44,11 +48,15 @@ The **LCx**:
 
 The **RCA**:
 
+::: column-margin
+Acute marginal arteries are almost never grafted.
+:::
+
 * Arises from the anterior aortic sinus, superior to the right coronary cusp of the aortic valve
 * Courses vertically downwards in the **right atrioventricular groove**
 * Supplies the RA and RV
 * RCA gives off:
-    * **Acute marginal arteries**^[Acute marginal arteries are almost never grafted.]
+    * **Acute marginal arteries**
     * **Posterior branch to the LV** (PLV)
 
 The **posterior descending artery**:

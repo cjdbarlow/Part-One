@@ -8,9 +8,13 @@ Describe West's zones of the lung and explain the mechanisms responsible for the
 
 The lung is divided into **four zones**:
 
+::: column-margin
+As there is ventilation but no perfusion, **West Zone 1** can also be thought of as **dead space**.
+:::
+
 * **West Zone 1: P~A~ > P~a~ > P~v~**\
 Alveolar pressure exceeds arterial pressure.
-    * The alveolus compresses the capillary, and no blood flow occurs^[As there is ventilation but no perfusion, **West Zone 1** can also be thought of as **dead space**.]
+    * The alveolus compresses the capillary, and no blood flow occurs
     * This occurs when:
         * Alveolar pressure is high
             * PEEP

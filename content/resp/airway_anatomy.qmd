@@ -63,12 +63,20 @@ Important for **airway protection**, **speech**, and **effort closure**.
 
 The lower airway consists of the:**tracheobronchial tree**, which is divided into two zones based on whether they contain alveoli and therefore are able to participate in gas exchange:
 
-* The **conducting zone** is the first **16 divisions**^[There are a total of **23 divisions** in the lower airway.]
+::: column-margin
+There are a total of **23 divisions** in the lower airway.
+:::
+
+* The **conducting zone** is the first **16 divisions**
 * The **respiratory zone** is the last 7 divisions
 
 ### Conducting Zone
 
 The **first 16 divisions** constitute the **conducting zone**. Anatomically, the conducting zone consists of the:
+
+::: column-margin
+Segmental bronchi are those that show peribronchial cuffing and perihilar haze on x-ray in early pulmonary oedema.
+:::
 
 * **Trachea**\
     * Mean diameter of 1.8 cm and a length of 11cm
@@ -83,7 +91,7 @@ The **first 16 divisions** constitute the **conducting zone**. Anatomically, the
         * Left main bronchi is **~5cm** long
     * Cross-sectional area of the respiratory tract is lowest at the third division
         * These bronchi will collapse when intrathoracic pressure exceeds intraluminal pressure by ~5cmH~2~O.
-        * Segmental bronchi^[Segmental bronchi are those that show peribronchial cuffing and perihilar haze on x-ray in early pulmonary oedema.] travel with branches of the pulmonary artery and lymphatics
+        * Segmental bronchi travel with branches of the pulmonary artery and lymphatics
         * Flow is typically transitional in the smaller bronchi and bronchioles
     * Contain **goblet cells** in the their walls which secrete **mucous**, which traps inhaled particles
     * Contain **cilia**, move rhythmically to drive the **mucociliary elevator**, driving mucous up to the epiglottis, where it is then swallowed or expectorated
@@ -102,8 +110,7 @@ Physiologically:
 The volume of the conducting zone therefore contributes to **anatomic dead space**.
 * Blood supply to the conducting zone is via the **bronchial circulation** 
 
-
-![](resources/tracheobronchialtree.jpg)
+<img src="/resources/tracheobronchialtree.jpg">
 
 
 ### Respiratory Zone

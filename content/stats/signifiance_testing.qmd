@@ -6,8 +6,12 @@ Understand concept of significance and testing of significance
 
 Significance testing is:
 
+::: column-margin
+This section assumes we are conducting null hypothesis significance testing. Bayesian analysis, despite its many benefits and similarity to clinical reasoning, has not gained the attention of the college.
+:::
+
 * The **process** of **determining whether a difference** between groups in a study **is due to a real difference, or chance alone**
-* Usually performed using p-values^[Assuming we are conducting null hypothesis significance testing. Bayesian analysis, despite its many benefits and similarity to clinical reasoning, has not gained the attention of the college.]
+* Usually performed using p-values
 * Does not imply clinical significance\
 For a result to be statistically significant, there must be a 'real' difference between groups.
     * This difference does not have to be clinically meaningful\
@@ -15,7 +19,11 @@ For a result to be statistically significant, there must be a 'real' difference 
 
 ## *p*-values
 
-The ***p*-value** is the **probability of obtaining a summary statistic** (e.g. a mean) **equal to or more extreme than the observed result, *provided that the null hypothesis is true***^[The *p*-value is commonly (mis)used in frequentist significance testing].
+::: column-margin
+The *p*-value is commonly (mis)used in frequentist significance testing
+:::
+
+The ***p*-value** is the **probability of obtaining a summary statistic** (e.g. a mean) **equal to or more extreme than the observed result, *provided that the null hypothesis is true***.
 
 Using p-values:
 

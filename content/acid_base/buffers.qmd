@@ -52,11 +52,11 @@ Hydrogen ions are consumed or released by the following reaction:
 * $H_2CO_3 \Leftrightarrow H CO_3^- + H^+  \Leftrightarrow  CO_3^{2-} + 2H^+$
 * Carbonic anhydrase (present in erythrocytes) is an enzyme which allows rapid conversion of H~2~O and CO~2~ to H~2~CO~3~ (and back again)
 * Each stage of the reaction has an individual pKa:
-    * As the pKa of the $H_2CO_3 \Leftrightarrow H CO_3^- + H^+ $system is 6.1, these substances predominate at physiological pH
+    * As the pKa of the $H_2CO_3 \Leftrightarrow H CO_3^- + H^+$system is 6.1, these substances predominate at physiological pH
     * The pKa for the second stage of the reaction is 9.3 and so essentially no CO~3~^2-^ exists in blood\
     Clincically this reaction can be ignored.
 * In clinical conditions, the reaction becomes:\
-$H_2O + CO_2 \Leftrightarrow H_2CO_3 \Leftrightarrow H CO_3^- + H^+ $
+$H_2O + CO_2 \Leftrightarrow H_2CO_3 \Leftrightarrow H CO_3^- + H^+$
     * Addition of a strong acid drives the above reaction to the left, forming (briefly) H~2~CO~3~ before it dissociates to CO~2~ and H~2~O
         * CO~2~ is then able to be exhaled, which prevents equilibration and allows the system to buffer more acid
 

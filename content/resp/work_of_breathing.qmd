@@ -4,7 +4,7 @@
 Describe the work of breathing and its components
 :::
 
-```{marginfigure}
+::: column-margin
 The derivation of $W = PV$ is as follows.\
 \
 Work is classically defined as: $$W = FD$$
@@ -22,11 +22,15 @@ Where:\
 Rearranging:
 $$F = PA$$
 Substituting:\
-$$\begin{aligned}
+
+$$
+\begin{align*}
 W &= PAD \\
 W &= PV \\
-\end{aligned}$$
-```
+\end{align*}
+$$
+
+:::
 
 Work of breathing is the energy used by the muscles for respiration. It is defined as: $Work = Pressure \times Volume$:
 
@@ -40,6 +44,10 @@ These factors have a significant effect on energy requirement
 ## Determinants of Work of Breathing
 
 Work of breathing is divided into:
+
+::: column-margin
+Airway generation and resistance: <img src="/resources/airway-gen-vs-resistance.svg">
+:::
 
 * **Elastic work**\
 About 65% of total work, and is stored as elastic potential energy. Energy required to overcome elastic forces:
@@ -67,7 +75,7 @@ About 35% of total work, and is lost as heat. This is due to the energy required
         * Apparatus
             * Endotracheal Tube
             * HME filters
-        * Airway division^[Airway generation and resistance: <img src="/resources/airway-gen-vs-resistance.svg">]
+        * Airway division
             * Resistance peaks at the 3rd airway division (lobar bronchi)
             * Falls with increasing airway divisions due to increased cross-sectional area
 
@@ -79,6 +87,10 @@ Work of breathing can be evaluated with a dynamic lung compliance curve:
 
 <img src="/resources/workofbreathing.svg">
 
+::: column-margin
+Active expiratory work:<img src="/resources/workofbreathing-obstructive.svg">
+:::
+
 * If there **were no resistive forces**, then this curve would be a straight line
     * The triangular area is the elastic work done
 * The resistive work of breathing causes the deviation of the inspiratory and expiratory lines:
@@ -86,7 +98,7 @@ Work of breathing can be evaluated with a dynamic lung compliance curve:
     * The area between the compliance line and expiratory line is additional **resistive expiratory** work done
         * This work is typically done by elastic recoil of the lungs
         * If this area falls within the area of elastic work of breathing, it is a purely passive process, using the stored elastic potential energy of inspiration
-        * If part of this area falls outside the area of elastic work of breathing^[Active expiratory work:<img src="/resources/workofbreathing-obstructive.svg">], it demonstrates additional **active work of expiration** which may occur in obstructive lung disease or when minute ventilation is high
+        * If part of this area falls outside the area of elastic work of breathing, it demonstrates additional **active work of expiration** which may occur in obstructive lung disease or when minute ventilation is high
 
 
 ### Minimising Work of Breathing

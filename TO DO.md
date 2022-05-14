@@ -4,8 +4,12 @@ quarto::quarto_render(output_format = "pdf")
 quarto::quarto_render(output_format = "html")
 
 # TO DO
+## General
+* SORT OUT ALL THE INTERNAL LINKS (all of format [xyz](cardiac_action_potential.md))
+
 ## HTML
 * fix overlapping margin content
+* Fix tables and images overflowing into margin
 * Get the glossary working
 * Last updated on bottom of each page
   * Perhaps an R block which gets the last-modified of the file it is running from, that is called by a separate include/file run from include-after-body
@@ -21,12 +25,9 @@ quarto::quarto_render(output_format = "html")
 * Fullwidth toc
   * ? Remove dots?
 
-# General
-* SORT OUT ALL THE INTERNAL LINKS (all of format [xyz](cardiac_action_potential.md))
 
 ## Pages to be reviewed and transferred
 
-* [Download Part One](downloads.md) # Only include in web format
 * [TCA Overdose](tricyclic_antidepressant_overdose.md)
 * [Organophosphates](organophosphate_poisoning.md)
 

@@ -94,7 +94,11 @@ Haemoglobin is a four-tetramer molecule, and its species can be physiological or
 
 ### Oxygen Saturation
 
-Oxygen Saturation can be defined in two ways^[Note that pulse oximetry doesn't measure either of these and is dependent on the calibration, but will typically measure functional saturation]:
+Oxygen Saturation can be defined in two ways:
+
+::: column-margin
+Note that pulse oximetry doesn't measure either of these and is dependent on the calibration, but will typically measure functional saturation
+:::
 
 * **Functional Saturation**\
 $SpO_2 \ (\%) = {[HbO_2] \times \ 100 \over [HbO_2] + [DeoxyHb]}$\

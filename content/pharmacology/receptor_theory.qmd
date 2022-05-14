@@ -1,4 +1,4 @@
-# Receptor Theory
+# Receptor Theory {#sec-receptortheory}
 
 :::dual
 To explain the concept of drug action with respect to: receptor theory\
@@ -49,7 +49,11 @@ The size of effect a drug has when bound, which is graded from 0 to 1.
 
 ## Drug-Receptor Interactions
 
-Drugs can be classified by the way they interact with receptors into ^[<img src="/resources/agonists-FA-IA-PA.svg">]:
+Drugs can be classified by the way they interact with receptors into:
+
+::: column-margin
+<img src="/resources/agonists-FA-IA-PA.svg">
+:::
 
 * **Agonists**
     * Partial agonists
@@ -87,7 +91,12 @@ A drug which has a **negative activity** (between 0 and -1) producing the **oppo
 
 An antagonist produces no response at the receptor site, and prevents other ligands binding. Antagonists have **high affinity** and an **activity of 0**.
 
-Antagonists with these properties are also known as **direct antagonists**, and can be either^[<img src="/resources/FA-with-nca-and-ca.svg">]:
+Antagonists with these properties are also known as **direct antagonists**, and can be either:
+
+::: column-margin
+<img src="/resources/FA-with-nca-and-ca.svg">
+:::
+
 
 * **Competitive antagonists**\
 Displace other ligands from a binding site. Competitive antagonists can be:

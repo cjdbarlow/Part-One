@@ -1,6 +1,6 @@
 .quarto/
 .Rproj.user/
-_book
+_book/
 .DS_Store
 .aws.json
 .Rhistory
@@ -9,5 +9,13 @@ Part-One.aux
 Part-One.out
 Part-One.tex
 Part-One.toc
+Part-One.pdf
+index.log
+index.aux
+index.out
+index.tex
+index.toc
+index.pdf
+
 
 /.quarto/

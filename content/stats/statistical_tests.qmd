@@ -47,8 +47,11 @@ n > 100.
 
 ### Student's T Test
 
-This is a variant of the Z test, used when the population standard deviation is not known^[The results from Student's T test approximate the results of the Z test when n > 100].
+This is a variant of the Z test, used when the population standard deviation is not known.
 
+::: column-margin
+The results from Student's T test approximate the results of the Z test when n > 100
+:::
 
 ### F Test
 

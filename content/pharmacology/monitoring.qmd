@@ -72,6 +72,10 @@ Drugs where the effect can be measured clinically (e.g. antihypertensives) tend 
 
 Timing depends on the reason for sampling:
 
+::: column-margin
+Timing of sampling is less important for drugs with long half-lives.
+:::
+
 * Time of **peak concentration** is mostly important for toxicity\
 This requires accounting for absorption and distribution.
     * e.g. Digoxin levels should be performed >6 hours following a dose to allow time for distribution to occur
@@ -79,7 +83,7 @@ This requires accounting for absorption and distribution.
 * **Steady state** is optimal for **monitoring**
     * i.e. after 4-5 elimination half-lives
     * For drugs with very long half-lives (such as amiodarone), sampling tends to occur earlier to ensure toxic levels have not been reached, as steady state may take months to achieve
-* **Trough levels** are best for drugs with **short half-lives**^[Timing of sampling is less important for drugs with long half-lives.]\
+* **Trough levels** are best for drugs with **short half-lives**\
 These are pre-dose levels, and are best because they are usually the least variable point in the dosing interval.
 
 ## Interpretation

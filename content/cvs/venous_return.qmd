@@ -1,4 +1,4 @@
-# Venous Return
+# Venous Return {#sec-venousreturn}
 
 :::CICM
 Define the components and determinants of cardiac output
@@ -10,7 +10,11 @@ The venous system has two key cardiovascular functions:
 Contains 65% of blood volume.
 * C**onduit for return** of blood to the heart
 
-^[This section describes determinants of cardiac output from the perspective of venous return. The relationship to and importance of [myocardial function](determinants_of_cardiac_output.md) is covered elsewhere.]Venous return is the rate at which blood is returned to the heart (in L.min^-1^). **At steady state**, venous return is equal to cardiac output, and can be expressed as $VR = {MSFP - RAP \over RVR}$, where:
+::: column-margin
+This section describes determinants of cardiac output from the perspective of venous return. The relationship to and importance of the determinants of cardiac output is covered in @sec-cardiacoutputdeterminants: Determinants of Cardiac Output.
+:::
+
+Venous return is the rate at which blood is returned to the heart (in L.min^-1^). **At steady state**, venous return is equal to cardiac output, and can be expressed as $VR = {MSFP - RAP \over RVR}$, where:
 
 * $VR$ is venous return
 * $MSFP$ is the **mean systemic filling pressure**\

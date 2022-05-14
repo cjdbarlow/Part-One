@@ -83,7 +83,11 @@ Results of meta-analyses are presented in a blobbogram, or more boringly, a **Fo
 
 Where:
 
-* The **x-axis** plots the odds ratio^[NB: Remember that an OR of 1 indicates **no effect** of the intervention on the outcome.]
+::: column-margin
+NB: Remember that an OR of 1 indicates **no effect** of the intervention on the outcome.
+:::
+
+* The **x-axis** plots the odds ratio
 * The **y-axis** lists the studies included, and the overall summary statistic
 * The **circles** indicate the **point estimate** (the x-location) and the **weight** (the size of the dot) given to the study
 * The **horizontal lines** indicate the upper and lower bounds of the **confidence interval** for each point estimate
