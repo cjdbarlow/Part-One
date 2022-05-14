@@ -14,6 +14,10 @@ Dead space is the proportion of minute ventilation which does not participate in
 
 Dead space can be divided into:
 
+::: column-margin
+Note that West Zone 1 (where PA > Pa > Pv) physiology is increased dead space.
+:::
+
 * **Apparatus dead space**\
 Dead space from equipment, such as tubes ventilator circuitry. Some apparatus dead space may actually *reduce* total dead space, as an ETT bypasses the majority of anatomical dead space of the patient (nasopharynx).
 * **Physiological dead space**\
@@ -41,10 +45,9 @@ Dead space from equipment, such as tubes ventilator circuitry. Some apparatus de
         * MI
       * PE
     * Increased alveolar pressure\
-    Increases West Zone 1^[Note that West Zone 1 (where PA > Pa > Pv) physiology is increased dead space.] physiology.
+    Increases West Zone 1 physiology.
      * PEEP
     * COAD
-
 
 ## Calculation of Dead Space
 
@@ -84,11 +87,19 @@ Expired nitrogen concentration and volume is measured.
 
 ### Bohr's Method
 
-Physiological dead space^[A **normal** value for physiological dead space during normal tidal breathing is **0.2-0.35**] is measured using the Bohr equation. This calculates dead space as a ratio, or as a proportion of tidal volume:
+::: column-margin
+A **normal** value for physiological dead space during normal tidal breathing is **0.2-0.35**
+:::
+
+Physiological dead space is measured using the Bohr equation. This calculates dead space as a ratio, or as a proportion of tidal volume:
 
 $${V_D \over V_T} = {V_T - V_A \over V_T}$$
 
-The Bohr equation is based on the principle that **all CO~2~ exhaled must come from ventilated alveoli**^[The PaCO~2~-ETCO~2~ difference is a consequence of dead space, as dead space gas dilutes alveolar gas].
+The Bohr equation is based on the principle that **all CO~2~ exhaled must come from ventilated alveoli**.
+
+::: column-margin
+The PaCO~2~-ETCO~2~ difference is a consequence of dead space, as dead space gas dilutes alveolar gas
+:::
 
 $${V_D \over V_T} = {PA_{CO_2} - P\bar{E}_{CO_2} \over PA_{CO_2}}$$
 

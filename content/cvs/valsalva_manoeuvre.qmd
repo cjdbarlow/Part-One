@@ -50,7 +50,11 @@ Abnormal responses occur in cardiac failure and autonomic neuropathy.
 
 ### Cardiac Failure
 
-In CCF a square-wave patten is produced^[This square-wave patten appears to be due to the increased circulating volume, as this difference resolves in venesected cardiac patients, and is demonstrated in normal individuals who are transfused to a high circulating volume.]:
+::: column-margin
+This square-wave patten appears to be due to the increased circulating volume, as this difference resolves in venesected cardiac patients, and is demonstrated in normal individuals who are transfused to a high circulating volume.
+:::
+
+In CCF a square-wave patten is produced:
 
 * Increasing P~AW~ resulting in a sustained **increase** in SBP and DBP
 * There is a slight decrease in SBP and DBP for the few seconds in phase III when airway pressure is released

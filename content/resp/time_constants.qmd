@@ -1,4 +1,4 @@
-# Time Constants
+# Time Constants {#sec-timeconstant}
 
 :::CICM
 Explain the concepts of time constants
@@ -8,7 +8,7 @@ Explain the concepts of time constants
 Discuss 'fast' and 'slow' alveoli, including the concept of 'time constants'
 :::
 
-```{marginfigure}
+::: column-margin
 **A Brief Refresher on Time Constants**:\
 A time constant is **time** that a **process would take to complete *if*** its **initial rate of change** remained constant.\
 \
@@ -22,7 +22,7 @@ Where:\
 - $t$ is time\
 \
 A positive rate constant ($k$) indicates that the curve **increases** over time. $k$ is the **reciprocal of the time constant**, $\tau$)
-```
+:::
 
 The time-constant is used in respiratory physiology in:
 

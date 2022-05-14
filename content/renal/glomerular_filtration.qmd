@@ -27,9 +27,13 @@ GFR can be expressed as the **product** of **Net Filtration Pressure** and the c
 
 $GFR = NFP \times K_f$
 
+::: column-margin
+As protein is not filtered in normal states, the oncotic pressure in Bowman's Space is usually assumed to be 0mmHg.
+:::
+
 * **Net Filtration Pressure** is given by opposing **Starling Forces** across the glomerular membrane:
     $NFP = P_{Glomerular \ Hydrostatic} - P_{Bowman's \ Hydrostatic} -P_{Glomerular \ Oncotic}$\
-    * The average capillary NFP is ~17mmHg^[As protein is not filtered in normal states, the oncotic pressure in Bowman's Space is usually assumed to be 0mmHg.]
+    * The average capillary NFP is ~17mmHg
     * **Hydrostatic pressure**\
     Determined by renal blood flow and the relative constriction of the **afferent** and **efferent** arterioles. Hydrostatic pressure **decreases along the capillary**, and is affected by:
         * MAP

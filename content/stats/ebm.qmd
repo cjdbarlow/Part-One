@@ -22,14 +22,22 @@ Evidence-based Medicine (EBM):
 
 Grade studies on likelihood of bias and internal validity.
 
-The NHMRC^[Other organisations and institutions have different grading systems, most are broadly similar.] defines 6 levels of evidence, graded from I-IV:
+::: column-margin
+Other organisations and institutions have different grading systems, most are broadly similar.
+:::
+
+The NHMRC defines 6 levels of evidence, graded from I-IV:
 
 * Level I is evidence from a **systematic review** of RCTs
 * Level II is evidence from **at least one good RCT**
 * Level III-1 is evidence from a **pseudo-RCT**
 * Level III-2 is evidence from a **comparative study *with* concurrent controls**, such as a cohort or case-control study
 * Level III-3 is evidence from a **comparative study *without* concurrent controls**, such as a cohort study with historical controls
-* Level IV is evidence from a case-series^[Note that expert opinion is **not** part of NHMRC levels of evidence, though it is included on the Oxford Centre for Evidence Based Medicine system, used by the NHS.]
+* Level IV is evidence from a case-series
+
+::: column-margin
+Note that expert opinion is **not** part of NHMRC levels of evidence, though it is included on the Oxford Centre for Evidence Based Medicine system, used by the NHS.
+:::
 
 
 | Level |                           Intervention                           |                                                                            Diagnostic Accuracy                                                                            |                                            Prognostic                                           |                Aetiology                |                    Screening                    |

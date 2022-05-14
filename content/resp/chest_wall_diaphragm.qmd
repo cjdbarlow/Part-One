@@ -50,7 +50,11 @@ Complex dome-shaped membranous structure, consisting of a central tendon and per
 
 ## Respiratory Mechanics in Spinal Injury
 
-* Paralysis of the abdominal wall muscles (e.g. spinal injury) has significant effect on respiratory mechanics^[<img src="/resources/lung-pressure-volume.svg">]
+::: column-margin
+<img src="/resources/lung-pressure-volume.svg">
+:::
+
+* Paralysis of the abdominal wall muscles (e.g. spinal injury) has significant effect on respiratory mechanics
     * In the initial phases of injury, spinal shock results in a flaccid paralysis of the abdominal wall
         * Intraabdominal pressure is low, and so the diaphragm moves inferiorly\
         This results in a higher FRC but limits tidal volumes, as contraction of the diaphragm only increase thoracic volume by a small fraction.

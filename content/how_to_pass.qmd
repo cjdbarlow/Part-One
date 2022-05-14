@@ -146,7 +146,11 @@ Key thoughts from those who won the prize; for those of you who are:\
 * Renton-inclined
 :::
 
-* Spend 12 months learning content, and 6 months revising^[Again, this is a really long time and is not necessary for those only seeking to pass.]
+::: column-margin
+Again, this is a really long time and is not necessary for those only seeking to pass.
+:::
+
+* Spend 12 months learning content, and 6 months revising
 * Manage expectations of friends, family, and partner early
 * Learn from good quality texts and credible online resources
 * Preference and use multiple references for core topics, and minimise time spent on peripheral topics

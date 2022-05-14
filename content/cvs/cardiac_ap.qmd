@@ -43,7 +43,11 @@ Phase 4 consists of:
 
 ## Ventricular Action Potential
 
-To prevent tetanic contraction^[(Tetanic ventricular contraction would be bad.)] ventricular muscle has a long plateau prior to repolarisation, which lengthens the absolute refractory period to **250ms**. The relative refractory period is **50ms**.
+::: column-margin
+(Tetanic ventricular contraction would be bad.)
+:::
+
+To prevent tetanic contraction ventricular muscle has a long plateau prior to repolarisation, which lengthens the absolute refractory period to **250ms**. The relative refractory period is **50ms**.
 
 <img src="/resources/ventricular-ap.svg">
 

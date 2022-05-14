@@ -60,7 +60,11 @@ This increases capillary hydrostatic pressure (increasing filtration) and also i
 
 ### Hormonal Control
 
-**Renin**^[The actions of the RAAS are described in more detail in the [endocrine functions of the kidney](endocrine_functions_of_the_kidney.md#raas).]:
+::: column-margin
+The actions of the RAAS are described in more detail in the [endocrine functions of the kidney](endocrine_functions_of_the_kidney.md#raas).
+:::
+
+**Renin**:
 
 * Is released from the juxtaglomerular apparatus by β~1~ stimulation
 * Catalyses the production of angiotensin I from circulating angiotensinogen\

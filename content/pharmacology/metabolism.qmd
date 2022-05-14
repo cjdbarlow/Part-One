@@ -27,10 +27,14 @@ The principal organ of drug metabolism is the liver. Hepatic metabolism:
 
 Phase one reactions:
 
+::: column-margin
+The mnemonic **OIL RIG: Oxidation Is Loss, Reduction Is Gain** can be used to remember the direction of electron transfer in oxidation and reduction reactions.
+:::
+
 * Occur in the **endoplasmic reticulum**
 * Improve water solubility by exposing a functional chemical group
 * Typically occur prior to phase II reactions for most drugs
-* Include three key processes^[The mnemonic **OIL RIG: Oxidation Is Loss, Reduction Is Gain** can be used to remember the direction of electron transfer in oxidation and reduction reactions.]:
+* Include three key processes:
   * **Oxidation**\
     Loss of electrons.
     * Main phase I reaction

@@ -5,8 +5,11 @@ Describe the pharmacological principles of and sources of error with target cont
 :::
 
 
-Target-Controlled Infusions describes the use of pharmacokinetic models (typically^[Outside of the US, where TCI models are not licensed.] combined with microprocessor-controlled infusion pumps) to achieve a target concentration of intravenous drugs in a particular body compartment^[TCI is related to, but distinct from, total intravenous anaesthesia (TIVA), which is the use of IV agents alone to achieve hypnosis, analgesia, and muscle relaxation.].
+Target-Controlled Infusions describes the use of pharmacokinetic models (typically combined with microprocessor-controlled infusion pumps) to achieve a target concentration of intravenous drugs in a particular body compartment. TCI is related to, but distinct from, total intravenous anaesthesia (TIVA), which is the use of IV agents alone to achieve hypnosis, analgesia, and muscle relaxation.
 
+::: column-margin
+Many TCI models, and hence electronically controlled pumps are not licensed or available inside the US.
+:::
 
 ## Principles of TCI
 

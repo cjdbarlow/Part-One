@@ -25,6 +25,10 @@ It is not as useful a measure of the value of an intervention, but drug companie
 
 The **Odds Ratio**:
 
+::: column-margin
+ORs are much easier to use in many statistical tests than RR because the log-odds ratio is normally distributed - a mathematically useful property - and so tend to be favoured by statisticians.
+:::
+
 * Is the ratio of the odds of the outcome occurring in the exposed compared to the odds of it occurring in the unexposed: $OR = {Odds \ of \ the \ outcome \ in \ the \ exposed \over Odds \ of \ the \ outcome \ in \ the \ unexposed}$
     * An OR < 1 suggests the risk is lower in the exposed group
     * An OR > 1 suggests the risk is higher in the exposed group
@@ -35,7 +39,7 @@ This is because **when the event rate is small, the number of non-events in a gr
 * Is used when:
     * The denominator is uncertain\
     e.g. Retrospective designs, such as case-control studies when patients with the disease were identified, and then exposures ascertained.
-    * When it statistically appropriate^[ORs are much easier to use in many statistical tests than RR because the log-odds ratio is normally distributed - a mathematically useful property - and so tend to be favoured by statisticians.]
+    * When it statistically appropriate
         * Multivariate regression
         * Systematic Reviews
 

@@ -40,12 +40,16 @@ The molecule exists in a different molecular structures depending on the environ
 
 Have the **same order of connections** between atoms, but a **different orientation of functional groups**. Stereoisomers are **not super-imposable**, meaning the different isomers can't be rotated so that they look the same. Stereoisomers are divided into:
 
+::: column-margin
+(Note the d- and l- nomenclature is *different* to D- and L-; the D-isomer refers to the molecule synthesised from (+)glyceraldehyde.)
+:::
+
 * **Geometric Isomers**\
 Have a chemical structure (e.g. a carbon-carbon double-bond) prevents free rotation of groups, so different locations of chemical groups will create an isomer. Geometric isomers are known as **cis-** or **trans-** depending on whether the subgroups are on the same or opposite sides (respectively) of the chemical structure.
     * e.g. Atracurium
 * **Optical Isomers**\
 Optical isomers are **chiral**. This means they have **no plane of symmetry**. Optical isomers:
-    * Were initially named based on how they rotated under polarised light^[(Note the d- and l- nomenclature is *different* to D- and L-; the D-isomer refers to the molecule synthesised from (+)glyceraldehyde.)]:
+    * Were initially named based on how they rotated under polarised light:
         * **Dextrorotatory**\
         (d- or (+) isomers) molecules rotate **clockwise** under polarised light.
         * **Levorotatory**\

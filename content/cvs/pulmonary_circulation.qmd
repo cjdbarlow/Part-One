@@ -50,7 +50,11 @@ Conversely, the pulmonary circulation must:
 
 ### Pulmonary Vascular Resistance
 
-Normal PVR is ~1/10^th^ that of the systemic circulation^[This is because the pressure drop across the pulmonary circulation is 10mmHg (MPAP - LAP), ~1/10^th^ that of the systemic circulation, and flow is the same.], and is a function of:
+::: column-margin
+This is because the pressure drop across the pulmonary circulation is 10mmHg (MPAP - LAP), ~1/10^th^ that of the systemic circulation, and flow is the same.
+:::
+
+Normal PVR is ~1/10^th^ that of the systemic circulation, and is a function of:
 
 * **Pulmonary Artery Pressure**\
 Increased PAP causes a decrease in PVR. This occurs because:

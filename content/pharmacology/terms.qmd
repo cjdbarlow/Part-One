@@ -76,7 +76,11 @@ Where:
 
 ## Time Constant ($\tau$)
 
-The time constant is the **time taken for a process to complete if it continued at its initial rate of change**. Time constants are similar to the half-life, but are **better suited when modeling** change in **exponential processes**^[Time constants are discussed in more detail under [respiratory time constants](time-constants.md).].
+The time constant is the **time taken for a process to complete if it continued at its initial rate of change**. Time constants are similar to the half-life, but are **better suited when modeling** change in **exponential processes**.
+
+::: column-margin
+Time constants are discussed in more detail under respiratory @sec-timeconstant .
+:::
 
 * Elimination will be virtually complete after three time constants
 * A time constant is the **inverse of the rate constant for elimination**, i.e. $\tau = {1 \over k }$
@@ -114,7 +118,11 @@ Total clearance is the sum of clearances from individual organs, e.g.:
 
 In a one compartment model, total clearance can be expressed as either:
 
-* $Cl = k.V_D$^[Since $k$ and $V_D$ are constants, clearance is also a constant.] in ml.min^-1^, or: 
+::: column-margin
+Since $k$ and $V_D$ are constants, clearance is also a constant.
+:::
+
+* $Cl = k.V_D$ in ml.min^-1^, or: 
 * $Cl = {V_D \over \tau } = {0.693 \times V_D \over t_{1/2}}$\
 This uses the property that $\tau = {1 \over k}$.
 
@@ -122,12 +130,19 @@ This uses the property that $\tau = {1 \over k}$.
 
 Drug clearance can follow either first order or zero-order kinetics:
 
-* **First-order Kinetics**^[First-order kinetics: <img src="/resources/first-order-kinetics.svg">]\
+::: column-margin
+First-order kinetics: <img src="/resources/first-order-kinetics.svg">
+:::
+
+* **First-order Kinetics**\
 A constant **proportion** of the drug in the body is eliminated per unit time.
     * Most drugs are eliminated by first order kinetics, as the capacity of the elimination system exceeds the concentration of drug
 
+::: column-margin
+Zero-order kinetics: <img src="/resources/zero-order-kinetics.svg">
+:::
 
-* **Zero-order kinetics**^[Zero-order kinetics: <img src="/resources/zero-order-kinetics.svg">]\
+* **Zero-order kinetics**\
 A **constant amount of drug** is eliminated per unit time, independent of how much drug is in the body.
     * Occurs when there is saturation of enzyme systems\
     It is also known as **saturation kinetics** for this reason.

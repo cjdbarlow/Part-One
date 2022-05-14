@@ -6,7 +6,11 @@ Define humidity and give an outline of the importance of humidification
 
 Humidification:
 
-* Describes the amount of water vapour present in air^[**Moisture** is the water produced by condensation when relative humidity exceeds 100%.]:
+::: column-margin
+**Moisture** is the water produced by condensation when relative humidity exceeds 100%.
+:::
+
+* Describes the amount of water vapour present in air:
     * **Absolute Humidity** is the amount of water vapour in a given volume of air (g.m^-3^)
     * **Relative Humidity** is the ratio between the amount of water vapour in a sample of air (absolute humidity) and the amount of water required to fully saturate that sample at its current pressure and temperature
 * Of inspired air is important to avoid drying out mucosa and sputum, which leads to tissue damage and failure of the mucociliary elevator\

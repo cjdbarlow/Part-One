@@ -4,7 +4,11 @@
 Describe and explain the oxygen cascade
 :::
 
-The **oxygen cascade** describes the **passive transfer**^[**Partial pressure** is the determinant of rate and extent of gas transfer, **but perfusion** depends on **oxygen content**] of oxygen down a series of **partial pressure gradient** from air to mitochondria:
+The **oxygen cascade** describes the **passive transfer** of oxygen down a series of **partial pressure gradient** from air to mitochondria:
+
+::: column-margin
+**Partial pressure** is the determinant of rate and extent of gas transfer, **but perfusion** depends on **oxygen content**
+:::
 
 * Dry atmospheric gas
 * Humidified tracheal gas
@@ -79,7 +83,10 @@ Therefore, the normal arterial PO~2~ in a Standard Guyton Man is 100mmHg.
 * The drop in PO~2~ is due to:
     * Shunt/VQ scatter\
     A physiological right-to-left shunt is normal due to blood from the bronchial circulation and thebesian veins draining into the left heart.
-    * Physiological V/Q mismatch^[<img src="/resources/regional-ventilation-and-perfusion.svg">]
+    * Physiological V/Q mismatch
+
+<img src="/resources/regional-ventilation-and-perfusion.svg">
+:::
  
 ## Mitochondria
 

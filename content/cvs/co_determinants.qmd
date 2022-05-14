@@ -1,4 +1,4 @@
-# Determinants of Cardiac Output
+# Determinants of Cardiac Output {#sec-cardiacoutputdeterminants}
 
 :::CICM
 Define the components and determinants of cardiac output
@@ -11,13 +11,22 @@ Discuss the factors that determine and control cardiac output and the implicatio
 * The Frank-Starling mechanism
 * Cardiac output and vascular function curves
 * Pressure volume relationships in the heart
+
 :::
 
-^[This section covers determinants of cardiac output from the perspective of the heart. The relationship to and importance of [venous return](venous-return.md) is covered elsewhere.]Cardiac output a function of Heart Rate (HR) and Stroke Volume (SV); $CO = HR \times SV$:
+::: column-margin
+This section covers determinants of cardiac output from the perspective of the heart. The relationship to and importance of venous return is covered in @sec-venousreturn: Venous Return.
+:::
+
+Cardiac output a function of Heart Rate (HR) and Stroke Volume (SV); $CO = HR \times SV$:
+
+::: column-margin
+Preload and afterload have [almost as many definitions as there are textbooks](http://advan.physiology.org/highwire/markup/5806/expansion?width=1000&height=500&iframe=true&postprocessors=highwire_figures%2Chighwire_math%2Chighwire_inline_linked_media). For the purpose of the exam, it's good to have both a laboratory and a clinical definition. These definitions are those which have appeared in old examiner reports, or given to me by cardiac anaesthetists.
+:::
 
 * **Heart rate** is fairly intuitive
 * **Stroke volume** is defined as the difference between ESV and EDV, i.e. $SV = EDV - ESV$\
-Stroke volume is a function of three factors:^[Preload and afterload have [almost as many definitions as there are textbooks](http://advan.physiology.org/highwire/markup/5806/expansion?width=1000&height=500&iframe=true&postprocessors=highwire_figures%2Chighwire_math%2Chighwire_inline_linked_media). For the purpose of the exam, it's good to have both a laboratory and a clinical definition. These definitions are those which have appeared in old examiner reports, or given to me by cardiac anaesthetists.]
+Stroke volume is a function of three factors:
     * **Preload**
     * **Afterload**
     * **Contractility**

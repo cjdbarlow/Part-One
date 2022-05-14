@@ -16,7 +16,11 @@ This is why large sample sizes are desirable in research. However, larger studie
 
 ## Sample Size Calculation
 
-All sample size calculations^[Different formulas for sample size calculations exist for different studies, and can be adjusted for particular study designs, such as multiple or unequal groups.] depend on:
+::: column-margin
+Different formulas for sample size calculations exist for different studies, and can be adjusted for particular study designs, such as multiple or unequal groups.
+:::
+
+All sample size calculations depend on:
 
 * Acceptable **risk of Type I error (α)**, typically set at 0.05\
   A **smaller α** (lower false positive risk) requires a larger sample size.

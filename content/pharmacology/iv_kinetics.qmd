@@ -112,7 +112,11 @@ Half-lives are often misleading when discussing drug infusions.
     * **Rate constant for elimination**\
     Drugs with a smaller rate constant for elimination have a longer CSHT.
 
-Drugs with a longer context-sensitive half-times will wear off less predictably^[Remifentanil has little redistribution and a small V~D~, and so has a very short context-**in**sensitive half time. It wears off reliably and quickly following cessation of infusion.].
+::: column-margin
+Remifentanil has little redistribution and a small V~D~, and so has a very short context-**in**sensitive half time. It wears off reliably and quickly following cessation of infusion.
+:::
+
+Drugs with a longer context-sensitive half-times will wear off less predictably.
 
 <img src="/resources/csht.svg">
 
@@ -121,7 +125,11 @@ Drugs with a longer context-sensitive half-times will wear off less predictably^
 
 The context-sensitive decrement time:
 
-* Describes the **time taken** for a **drug level** to **fall to a particular percentage of its starting value**^[The context-sensitive half-time could also be described as the 50% context-sensitive decrement time.] after discontinuation of an infusion
+::: column-margin
+The context-sensitive half-time could also be described as the 50% context-sensitive decrement time.
+:::
+
+* Describes the **time taken** for a **drug level** to **fall to a particular percentage of its starting value** after discontinuation of an infusion
 * Is used because the half-time does not describe **mono-exponential decay**\
 i.e. The time taken for drug concentration to reach 25% of its starting value is not twice the context sensitive half-time.
 

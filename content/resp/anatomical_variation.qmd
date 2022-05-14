@@ -8,6 +8,10 @@ Understand the differences encountered in the upper airway for neonates, childre
 
 Changes are most obvious below 1 year of age, and typically resolve by ~8 years of age.
 
+::: column-margin
+The cricoid used to be thought of the narrowest part of the child's airway, but this has been subsequently disproved.
+:::
+
 * Head and neck changes
     * Obligate nose breathers\
     Nasal obstruction may significantly impair respiration.
@@ -19,7 +23,7 @@ Changes are most obvious below 1 year of age, and typically resolve by ~8 years 
     * Disproportionately **large tongue** that complicates laryngoscopy
     * **Epiglottis** is **u-shaped**, **longer**, and **stiffer**
     * **Larynx lies at C4** (rather than C6 in adults)
-    * Narrowest part of the upper airway is **the transverse diameter of the vocal cords**^[The cricoid used to be thought of the narrowest part of the child's airway, but this has been subsequently disproved.]\
+    * Narrowest part of the upper airway is **the transverse diameter of the vocal cords**\
 * Intrathoracic changes
     * Intrathoracic trachea is also shorter\
     May be only 4cm long, so there is little margin for error in tube placement.

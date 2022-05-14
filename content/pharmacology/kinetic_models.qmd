@@ -51,9 +51,13 @@ C_{ss} &= {C_i.I \over Cl} \\
 
 Multi-compartment models imagine the body as a series of differently-sized containers, which distribute drug between them at different rates. Multi-compartment models:
 
+::: column-margin
+This doesn't mean that they *should* be conceptualised this way - they are a mathematical technique used to calculate plasma concentration at a given time.
+:::
+
 * Are used because they tend to have a better fit with experimental data than single compartment models  
 Three-compartment models are the most common: additional compartments typically offer no extra fidelity but are mathematically more complex.
-* Are usually conceptualised^[This doesn't mean that they *should* be conceptualised this way - they are a mathematical technique used to calculate plasma concentration at a given time.] as a:
+* Are usually conceptualised as a:
     * Plasma (or central) compartment\
     Drug is usually given into and eliminated from the central compartment.
     * A well-perfused (or vessel-rich group) compartment
@@ -118,6 +122,10 @@ The value of $\alpha$ is dependent on the ratio of rate constants for distributi
 
 Pharmacokinetic models typically display the plasma concentration. Clinically however, we are interested in **drug concentrations** at the **site of action** (e.g. the brain); this is **known as** the **effect site** or **biophase**. Effect site concentration:
 
+::: column-margin
+Note neither the t~1/2~ke0 or the k~e0~ are the time to peak effect.
+:::
+
 * This cannot be measured, and so is a calculated value
 * Is given by $Ce$
 * Will differ from plasma concentration ($Cp$) prior to reaching steady state\
@@ -128,7 +136,7 @@ The effect site is modeled as a **compartment of negligible volume** contained *
     * The k~1e~ is the rate constant for drug diffusion from plasma into the effect site
     * The **k~e0~** is the rate constant for elimination of drug **from the effect site**\
     This is a theoretical elimination pathway - drug is not usually metabolised at the effect site.
-    * The **t~1/2~ke0 is the effect-site equilibration time**^[Note neither the t~1/2~ke0 or the k~e0~ are the time to peak effect.]\
+    * The **t~1/2~ke0 is the effect-site equilibration time**\
     It **describes how rapidly the effect site reaches equilibrium with plasma**.
         * A **high ke0** (rapid drug flow) equals a **short t~1/2~ke0**
         * After one t~1/2~ke0, 50% of the final effect site concentration will be reached provided plasma concentration remains constant
