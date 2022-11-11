@@ -1,3 +1,8 @@
+# How to build
+quarto::quarto_render()
+quarto::quarto_render(output_format = "pdf")
+quarto::quarto_render(output_format = "html")
+
 # TO DO
 ## General
 * SORT OUT ALL THE INTERNAL LINKS (all of format [xyz](cardiac_action_potential.md))
