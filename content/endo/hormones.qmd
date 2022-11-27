@@ -1,9 +1,11 @@
 # Hormones
 
 
-A **hormone** is a chemical messenger produced by a **ductless gland** which has its action at a distant target cell via a specific receptor.
+A **hormone** is a chemical messenger produced by a **ductless gland** which has its action at a distant target cell via a specific receptor. Hormones can be classified by composition into:
 
-* **Lipid hormones**, divided into:
+
+* **Lipid hormones**\
+Further divided into:
     * **Steroids**\
     Steroids are synthesised from cholesterol, and are released as they are produced (they are not stored). They are highly lipid soluble and act on cytoplasmic and intra-nucleic receptors.
         * Aldosterone
@@ -15,10 +17,8 @@ A **hormone** is a chemical messenger produced by a **ductless gland** which has
         * Prostaglandins
         * Thromboxanes
         * Leukotrienes
-
-
 * **Peptide hormones**\
-Peptide hormones are store in granules and released by exocytosis. They are divided into:
+Peptide hormones are store in granules and released by exocytosis. Further divided into:
     * **Short-chain**
         * Insulin
         * ADH
@@ -32,18 +32,17 @@ Peptide hormones are store in granules and released by exocytosis. They are divi
         * LH
         * FSH
         * TSH
-
-
 * **Monoamine derivatives**\
-Derived from a single amino acid.
+Derived from a single amino acid. Further divided into:
+    * Serotonin
+    * Thyroxine
     * Catecholamines\
     Stored in granules and act at membrane receptors.
         * Adrenaline
         * Noradrenaline
-    * Serotonin
-    * Thyroxine
 
 ---
+
 ## References
 
 1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.

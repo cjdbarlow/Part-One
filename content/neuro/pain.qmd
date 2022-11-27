@@ -1,35 +1,41 @@
 # Pain
 
-> Describe the physiology of pain, including the pathways and mediators
+:::CICM
+Describe the physiology of pain, including peripheral nociception, conduction, mediators and pathways, spinal cord modulation, central processing of pain, changes in the older patient.
+:::
 
+:::ANZCA
+Describe the pain and sensory pathways
+:::
 
-Key definitions:
+# Key Definitions
 
 * **Pain**\
-Pain is an "unpleasant sensory or emotional experience associated with actual or potential tissue damage, or described in such terms." Pain can be broadly classified by:
-  * Aetiology
-    * **Nociceptive pain**\
-      Stimulation of nociceptors by noxious stimuli.
-    * **Visceral pain**\
-    * **Neuropathic pain**\
-    Nervous system dysfunction.
-  * Duration
-    * Acute pain\
-    Pain due to symptoms of current pathology.
-    * **Chronic pain**\
-    Pain occurring after the pathological process has resolved.
-  \
-  \
+Pain is an "unpleasant sensory or emotional experience associated with actual or potential tissue damage, or described in such terms." Pain can be broadly classified into:
+	* Aetiology
+		* **Nociceptive pain**\
+			Stimulation of nociceptors by noxious stimuli.
+		* **Visceral pain**\
+		* **Neuropathic pain**\
+		Nervous system dysfunction.
+	* Duration
+		* Acute pain\
+		Pain due to symptoms of current pathology.
+		* **Chronic pain**\
+		Pain occurring after the pathological process has resolved.
+
+
 * **Hyperalgesia**\
 Increased response to a normally painful stimulus.
-  * Primary hyperalgesia\
-  Local reduction in pain threshold.
-  * Secondary hyperalgesia\
-  Hyperalgesia away from the site of injury due to alteration in spinal cord signaling.
-\
-\
+	* Primary hyperalgesia\
+	Local reduction in pain threshold.
+	* Secondary hyperalgesia\
+	Hyperalgesia away from the site of injury due to alteration in spinal cord signaling.
+
+
 * **Allodynia**\
 Painful response to a normally painless stimuli. Occurs due to pathological synapse between second-order neurones in the spinal cord.
+
 
 * **Anaesthesia dolorosa**\
 Pain in an area which is anaesthetised.
@@ -40,90 +46,86 @@ Pain in an area which is anaesthetised.
 Nociceptors are receptors which respond to a noxious stimulus. Nociceptors:
 
 * Can be **stimulated** or **sensitised** by:
-  * Chemical signals\
-  See table.
-  * Mechanical signals
-    * Shear stress
-  * Thermal signals
-    * Hot nociceptors activate above 43°C
-    * Cold nociceptors activate below 26°C
+	* Chemical signals\
+	See table.
+	* Mechanical signals
+		* Shear stress
+	* Thermal signals
+		* Hot nociceptors activate above 43°C
+		* Cold nociceptors activate below 26°C
 * Stimulation initiates a nervous impulse
 * Sensitisation increases a receptors sensitivity to a stimulating mediator\
 
 
 Key chemical stimulating and sensitising mediators include:
 
-|Stimulating Mediators|Sensitising Mediators|
-|--|--|
-|H^+^|Prostaglandins
-|K^+^|Leukotrienes
-|ACh|Substance P
-|Histamine|Neurokinin A
-|5-HT|Calcitonin GRP
-|Bradykinin|||
+| Stimulating Mediators | Sensitising Mediators |
+|-----------------------+-----------------------|
+| H^+^                  | Prostaglandins        |
+| K^+^                  | Leukotrienes          |
+| ACh                   | Substance P           |
+| Histamine             | Neurokinin A          |
+| 5-HT                  | Calcitonin GRP        |
+| Bradykinin            |                       |
 
-### Nociceptors
+
+### Nociception
 
 Impulses are conducted by two types of **primary afferent fibres**:
 
 * Aδ fibres:
-  * Small (~**2-5μm** diameter)
-  * **Myelinated**
-  * Conduct sharp pain at up to 40m.s^-1^\
-  * Mediate initial reflex responses to acute pain
-  * Synapse in laminae I in the dorsal horn\
-  Substance P is the neurotransmitter at the NK1 receptor.
+	* Small (~**2-5μm** diameter)
+	* **Myelinated**
+	* Conduct sharp pain at up to 40m.s^-1^\
+	* Mediate initial reflex responses to acute pain
+	* Synapse in laminae I in the dorsal horn\
+	Substance P is the neurotransmitter at the NK1 receptor.
 * C fibres:
-  * **<2μm** diameter
-  * **Unmyelinated**
-  * Conduct dull pain at 2m.s^-1^
-  * Synapse in laminae II in the dorsal horn\
-  Substance P is the neurotransmitter at the NK1 receptor.
+	* **<2μm** diameter
+	* **Unmyelinated**
+	* Conduct dull pain at 2m.s^-1^
+	* Synapse in laminae II in the dorsal horn\
+	Substance P is the neurotransmitter at the NK1 receptor.
 
 
-## Pain Pathway and Site of Action of Analgesics
+## Pain Pathways and Site of Action of Analgesics
 
 The response to a painful stimulus requires a cascade of processes:
 
 * **Activation of nociceptors**\
-  Membrane depolarisation in response to stimulus. If the stimulus is great enough to reach the threshold potential, an action potential is generated.
-    * **NSAIDS** reduce nociceptor mediated inflammation
-    * **Opiates** act on peripheral MOP receptors
-    * **Local anaesthetics** prevent signal propagation
+	Membrane depolarisation in response to stimulus. If the stimulus is great enough to reach the threshold potential, an action potential is generated.
+	* **NSAIDS** reduce nociceptor mediated inflammation
+	* **Opiates** act on peripheral MOP receptors
+	* **Local anaesthetics** prevent signal propagation
 * **Synapse in the dorsal horn**\
-  Input from both Aδ and C fibres, and descending interneurons.
-    * Descending inhibitory input reduces nociceptive transmission\
-    Basis of "gate control" theory. Descending input increased with:
-      * Touch\
-      Aβ 'touch' fibres stimulate inhibitory interneurons in the dorsal horn, 'closing the gate' by increasing **descending inhibition** and prevent signals from peripheral C fibres from rising to the thalamus.
-      * Arousal
-      * Opioid receptors\
-      Particularly MOP (pre- and post-synaptically).
-        * **Opioids** act pre-synaptically to reduce Substance P and glutamine release.
-      * α~2~ receptors\
-      **Clonidine**, **tricyclic antidepressants**, **noradrenaline-reuptake inhibitors**, and endogenous catecholamines.
-      * **Gabapentin and pregabalin** inhibit presynaptic neurotransmitter release
-    * **Wide dynamic range** neurones\
-    Receive afferent input from chemical, thermal, and mechanoreceptors.\
-      * Typically more difficult to stimulate
-      * Important in **wind-up**\
-      Mediated by NMDA agonism.
-        * **Ketamine** reduces windup and central sensitisation
-      * Lead to secondary hyperalgesia
-      * Lead to allodynia\
-      Via additional synapses to sensory neurones in lamina III and IV.
-  * Interneuron synapses with a **second-order neurones** fibre\
-  These secondary afferents:
-    * Cross within 1-2 vertebral segments and ascends in the spinothalamic tract
-    * Receives input from descending fibres
-    * **Opioids** act post-synaptically to hyperpolarise second-order neurones
-
-\
-  \
-* **Reflex arc**\
-
+	Input from both Aδ and C fibres, and descending interneurons.
+	* Descending inhibitory input reduces nociceptive transmission\
+	Basis of "gate control" theory. Descending input increased with:
+		* Touch\
+		Aβ 'touch' fibres stimulate inhibitory interneurons in the dorsal horn, 'closing the gate' by increasing **descending inhibition** and prevent signals from peripheral C fibres from rising to the thalamus.
+		* Arousal
+		* Opioid receptors\
+		**Opioids** act pre-synaptically to reduce Substance P and glutamine release.
+		* α~2~ receptors\
+		**Clonidine**, **tricyclic antidepressants**, **noradrenaline-reuptake inhibitors**, and endogenous catecholamines.
+		* **Gabapentin and pregabalin** inhibit presynaptic neurotransmitter release
+	* **Wide dynamic range** neurones\
+	Receive afferent input from chemical, thermal, and mechanoreceptors.\
+		* Typically more difficult to stimulate
+		* Important in **wind-up**\
+		Mediated by NMDA agonism.
+			* **Ketamine** reduces windup and central sensitisation
+		* Lead to secondary hyperalgesia
+		* Lead to allodynia\
+		Via additional synapses to sensory neurones in lamina III and IV.
+* Interneuron synapses with a **second-order neurones** fibre\
+These secondary afferents:
+	* Cross within 1-2 vertebral segments and ascends in the spinothalamic tract
+	* Receives input from descending fibres
+	* **Opioids** act post-synaptically to hyperpolarise second-order neurones
+* **Reflex arc**
 * **Higher centres**\
-    Pain perception occurs in the somatosensory cortex.
+Pain perception occurs in the somatosensory cortex.
 
 ## Neuropathic Pain
 
@@ -133,24 +135,22 @@ Pain due to a lesion of the somatosensory system, rather than a stimulus itself.
 From CNS injury, e.g. spinal cord injury, CVA, multiple sclerosis.
 * Peripheral neuropathic pain\
 Damage from:
-    * Diabetes\
-    Ischaemia of Schwann cells causes demyelination, causing the exposed axon to generate action potentials inappropriately.
-    * Trauma\
-    Transected axons may regrow with endings that spontaneously fire or that have altered threshold potentials.
+	* Diabetes\
+	Ischaemia of Schwann cells causes demyelination, causing the exposed axon to generate action potentials inappropriately.
+	* Trauma\
+	Transected axons may regrow with endings that spontaneously fire or that have altered threshold potentials.
 
 ### Mechanisms of Neuropathic Pain
 
 * Neuroma\
 Healing of damaged nerves leads to neuroma formation. Neuromas:
-  * Are more sensitive to painful stimuli
-  * Cause spontaneous pain
-  * May sprout and innervate local tissues\
-  Movement of these tissues may lead to pain.
+	* Are more sensitive to painful stimuli
+	* Cause spontaneous pain
+	* May sprout and innervate local tissues\
+	Movement of these tissues may lead to pain.
 * Windup
 * Phantom limb pain\
 Neurons damaged in removal of a limb develop additional synapses, leading to phantom sensations.
-    \
-
 
 ### Features of Neuropathic Pain
 
@@ -176,22 +176,23 @@ Damage to the SNS can lead to abnormalities in autonomic function:
 Nervous System Changes:
 
 * **Peripheral Nervous System**\
-  * Nerve deterioration
-  * Decreased myelination
-  * Decreased conduction velocity
-  * Reduced range and speed of ANS responses
-  * Increased resting sympathetic tone
+	* Nerve deterioration
+	* Decreased myelination
+	* Decreased conduction velocity
+	* Reduced range and speed of ANS responses
+	* Increased resting sympathetic tone
 * **Central Nervous System**\
-  * Decreased pain perception
-  * Increased sensitivity to anaesthetic and analgesics\
-  Reach ceiling effects more rapidly.
-  * Degeneration of myelin\
-  Subsequent cognitive dysfunction due to neuronal circuit dysfunction.
-  * Generalised atrophy
-  * Decreased neurotransmitter production
+	* Decreased pain perception
+	* Increased sensitivity to anaesthetic and analgesics\
+	Reach ceiling effects more rapidly.
+	* Degeneration of myelin\
+	Subsequent cognitive dysfunction due to neuronal circuit dysfunction.
+	* Generalised atrophy
+	* Decreased neurotransmitter production
 
 
 ---
+
 ## References
 
 1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.\

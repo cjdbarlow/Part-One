@@ -1,6 +1,8 @@
 # Sleep
 
-> Describe the physiology of sleep
+:::dual
+Describe the physiology of sleep
+:::
 
 Sleep is a naturally occurring state of unconsciousness from which one can be aroused by an external stimulus.
 
@@ -12,7 +14,8 @@ Sleep is important in:
 
 ## Stages of Sleep
 
-Stages of sleep are classified based on EEG changes:
+Stages of sleep are classified into REM or non-REM sleep based on EEG changes. Periods of REM sleep alternate with non-REM sleep during the night, with an average of 4-5 cycles of REM sleep per night.
+
 
 * **REM sleep**\
 Characterised by EEG activity resembling that of awake individuals. REM sleep:
@@ -34,7 +37,6 @@ Deep sleep, characterised by depression of HR, SVR, BP, RR, and metabolic rate (
     * Stage 4: Large δ waves become synchronised\
     Deep sleep.
 
-Periods of REM sleep alternate with non-REM sleep during the night, with an average of 4-5 cycles of REM sleep per night.
 
 ## Respiratory Effects
 
@@ -53,6 +55,7 @@ More pronounced in elderly.
 Due to reduced tonic activity of pharyngeal muscles.
 
 ---
+
 ## References
 
 1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.

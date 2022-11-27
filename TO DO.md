@@ -2,10 +2,18 @@
 quarto::quarto_render()
 quarto::quarto_render(output_format = "pdf")
 quarto::quarto_render(output_format = "html")
+quarto::quarto_preview()
+
+↑
+μ
+↓
+α
+β
 
 # TO DO
 ## General
 * SORT OUT ALL THE INTERNAL LINKS (all of format [xyz](cardiac_action_potential.md))
+
 
 ## HTML
 * fix overlapping margin content
@@ -14,6 +22,7 @@ quarto::quarto_render(output_format = "html")
 * Last updated on bottom of each page
   * Perhaps an R block which gets the last-modified of the file it is running from, that is called by a separate include/file run from include-after-body
 * Adjust image size
+
 
 ## PDF
 * Get images working
@@ -27,14 +36,8 @@ quarto::quarto_render(output_format = "html")
 
 
 ## Pages to be reviewed and transferred
-
 * [TCA Overdose](tricyclic_antidepressant_overdose.md)
 * [Organophosphates](organophosphate_poisoning.md)
-
-  * [Sleep](sleep.md)
-  * [Pain](pain.md)
-  * [Autonomic Nervous System](autonomic_nervous_system.md)
-  * [Acetylcholine Receptors](acetylcholine-receptors.md)
   * [Neuropharmacology](anticonvulsantsmoa.md#id)
     * [Neurotransmitters](neurotransmitters.md)
     * [Anticonvulsants](anticonvulsantsmoa.md)
@@ -42,8 +45,10 @@ quarto::quarto_render(output_format = "html")
     * [Neuraxial Blockade](neuraxial-blockade.md)
     * [Opioids](opioidspharm.md)
     * [Inhalational Anaesthetics](inhalational-anaesthetic-agents.md)
-* [Endocrine](hormones.md#id)
-  * [A Brief Overview of Hormones](hormones.md)
+
+
+
+
   * [Insulin, Glucagon, and Somatostatin](insulin,_glucagon,_and_somatostatin.md)
   * [Control of Blood Glucose](control_of_blood_glucose.md)
   * [Hypothalamus and Pituitary](pituitary_and_hypothalamus.md)
