@@ -72,153 +72,153 @@ book:
     - part: "---"
     - part: "Curriculum"
       chapters:
-        - part: "Research Methods and Statistics"
-          chapters: 
-            - content/stats/ebm.qmd
-            - content/stats/study_types.qmd
-            - content/stats/clinical_trial_design.qmd
-            - content/stats/data_types.qmd
-            - content/stats/bias.qmd
-            - content/stats/frequency_dist.qmd
-            - content/stats/sample_size.qmd
-            - content/stats/statistical_tests.qmd
-            - content/stats/statistical_terms.qmd
-            - content/stats/risk_odds.qmd
-            - content/stats/signifiance_testing.qmd
-            - content/stats/drug_approval.qmd
-        - part: "Pharmacology"
-          chapters:
-            - part: "Pharmacokinetics"
-              chapters:
-                - content/pharmacology/additives.qmd
-                - content/pharmacology/isomerism.qmd
-                - content/pharmacology/terms.qmd
-                - content/pharmacology/kinetic_models.qmd
-                - content/pharmacology/absorption.qmd
-                - content/pharmacology/distribution.qmd
-                - content/pharmacology/metabolism.qmd
-                - content/pharmacology/elimination.qmd
-                - content/pharmacology/iv_kinetics.qmd
-                - content/pharmacology/monitoring.qmd
-                - content/pharmacology/administration.qmd
-                - content/pharmacology/tci.qmd
-            - part: "Pharmacodynamics"
-              chapters:
-                - content/pharmacology/receptor_theory.qmd
-                - content/pharmacology/receptor_types.qmd
-                - content/pharmacology/dose_response.qmd
-                - content/pharmacology/mechanisms.qmd
-            - part: "Variability in Drug Response"
-              chapters:
-                - content/pharmacology/adverse_effects.qmd
-                - content/pharmacology/drugs_pregnancy.qmd
-                - content/pharmacology/drug_interactions.qmd
-                - content/pharmacology/alterations_to_response.qmd
-                - content/pharmacology/pharmacogenetics.qmd
-                - content/pharmacology/pharmacogenetic_disorders.qmd
-        - part: "Cellular Physiology"
-          chapters:
-            - content/cellular/cell_membrane.qmd
-            - content/cellular/cell_transport.qmd
-            - content/cellular/organelles.qmd
-            - content/cellular/excitable_cells.qmd
-            - content/cellular/cell_contents.qmd
-            - content/cellular/cell_homeostasis.qmd
-        - part: "Respiratory Physiology"
-          chapters:
-            - part: "Anatomy"
-              chapters:
-                - content/resp/airway_anatomy.qmd
-                - content/resp/chest_wall_diaphragm.qmd
-                - content/resp/anatomical_variation.qmd
-            - part: "Mechanics"
-              chapters: 
-                - content/resp/breathing_control.qmd
-                - content/resp/intrapleural_pressure.qmd
-                - content/resp/compliance.qmd
-                - content/resp/time_constants.qmd
-                - content/resp/resistance.qmd
-                - content/resp/surfactant.qmd
-                - content/resp/volumes_capacities.qmd
-                - content/resp/spirometry.qmd
-                - content/resp/work_of_breathing.qmd
-            - part: "Diffusion of Gases"
-              chapters: 
-                - content/resp/oxygen_cascade.qmd
-                - content/resp/diffusion_capacity.qmd
-            - part: "V/Q Relationships"
-              chapters:
-                - content/resp/vq_basics.qmd
-                - content/resp/wests_zones.qmd
-                - content/resp/dead_space.qmd
-                - content/resp/shunt.qmd
-            - part: "Gas Transport"
-              chapters:
-                - content/resp/oxygen_storage.qmd
-                - content/resp/co2_transport.qmd
-            - part: "Applied Respiratory Physiology"
-              chapters:
-                - content/resp/peep.qmd
-                - content/resp/hypoxia.qmd
-                - content/resp/co2_effects.qmd
-                - content/resp/position.qmd
-                - content/resp/humidification.qmd
-                - content/resp/cough.qmd
-                - content/resp/non_resp_functions.qmd
-                - content/resp/altitude.qmd
-                - content/resp/obesity_respiratory.qmd
-                - content/resp/paeds_respiratory.qmd
-        - part: "Cardiovascular Physiology"
-          chapters:
-            - part: "Structure and Function"
-              chapters:
-                - content/cvs/cardiac_anatomy.qmd
-                - content/cvs/coronary_circulation.qmd
-                - content/cvs/cardiac_cycle.qmd
-            - part: "Electrical Properties"
-              chapters:
-                - content/cvs/cardiac_ap.qmd  
-            - part: "Cardiac Output"
-              chapters:
-                - content/cvs/co_determinants.qmd
-                - content/cvs/venous_return.qmd
-                - content/cvs/myocardial_oxygen.qmd
-                - content/cvs/pv_relationships.qmd
-                - content/cvs/cardiac_reflexes.qmd
-            - part: "Peripheral Circulation"
-              chapters:
-                - content/cvs/starling_forces.qmd
-                - content/cvs/bp_variations.qmd
-                - content/cvs/pulmonary_circulation.qmd
-                - content/cvs/cerebral_blood_flow.qmd
-                - content/cvs/hepatic_blood_flow.qmd
-            - part: "Circulatory Control"
-              chapters:
-                - content/cvs/baroreceptors.qmd
-                - content/cvs/valsalva_manoeuvre.qmd
-                - content/cvs/obesity_cvs.qmd
-                - content/cvs/ageing_cvs.qmd
-                - content/cvs/adrenoreceptors.qmd
-        - part: "Renal System"
-          chapters: 
-            - part: "Renal Physiology"
-              chapters:
-                - content/renal/rbf.qmd
-                - content/renal/glomerular_filtration.qmd
-                - content/renal/organic.qmd
-                - content/renal/creatinine_clearance.qmd
-                - content/renal/endocrine.qmd
-                - content/renal/acid_base.qmd
-                - content/renal/dialysis.qmd
-            - part: "Fluids and Electrolytes"
-              chapters:
-                - content/renal/sodium.qmd
-                - content/renal/potassium.qmd
-        - part: "Acid-Base"
-          chapters: 
-            - content/acid_base/principles.qmd
-            - content/acid_base/compensation.qmd
-            - content/acid_base/buffers.qmd
+        # - part: "Research Methods and Statistics"
+        #   chapters: 
+        #     - content/stats/ebm.qmd
+        #     - content/stats/study_types.qmd
+        #     - content/stats/clinical_trial_design.qmd
+        #     - content/stats/data_types.qmd
+        #     - content/stats/bias.qmd
+        #     - content/stats/frequency_dist.qmd
+        #     - content/stats/sample_size.qmd
+        #     - content/stats/statistical_tests.qmd
+        #     - content/stats/statistical_terms.qmd
+        #     - content/stats/risk_odds.qmd
+        #     - content/stats/signifiance_testing.qmd
+        #     - content/stats/drug_approval.qmd
+        # - part: "Pharmacology"
+        #   chapters:
+        #     - part: "Pharmacokinetics"
+        #       chapters:
+        #         - content/pharmacology/additives.qmd
+        #         - content/pharmacology/isomerism.qmd
+        #         - content/pharmacology/terms.qmd
+        #         - content/pharmacology/kinetic_models.qmd
+        #         - content/pharmacology/absorption.qmd
+        #         - content/pharmacology/distribution.qmd
+        #         - content/pharmacology/metabolism.qmd
+        #         - content/pharmacology/elimination.qmd
+        #         - content/pharmacology/iv_kinetics.qmd
+        #         - content/pharmacology/monitoring.qmd
+        #         - content/pharmacology/administration.qmd
+        #         - content/pharmacology/tci.qmd
+        #     - part: "Pharmacodynamics"
+        #       chapters:
+        #         - content/pharmacology/receptor_theory.qmd
+        #         - content/pharmacology/receptor_types.qmd
+        #         - content/pharmacology/dose_response.qmd
+        #         - content/pharmacology/mechanisms.qmd
+        #     - part: "Variability in Drug Response"
+        #       chapters:
+        #         - content/pharmacology/adverse_effects.qmd
+        #         - content/pharmacology/drugs_pregnancy.qmd
+        #         - content/pharmacology/drug_interactions.qmd
+        #         - content/pharmacology/alterations_to_response.qmd
+        #         - content/pharmacology/pharmacogenetics.qmd
+        #         - content/pharmacology/pharmacogenetic_disorders.qmd
+        # - part: "Cellular Physiology"
+        #   chapters:
+        #     - content/cellular/cell_membrane.qmd
+        #     - content/cellular/cell_transport.qmd
+        #     - content/cellular/organelles.qmd
+        #     - content/cellular/excitable_cells.qmd
+        #     - content/cellular/cell_contents.qmd
+        #     - content/cellular/cell_homeostasis.qmd
+        # - part: "Respiratory Physiology"
+        #   chapters:
+        #     - part: "Anatomy"
+        #       chapters:
+        #         - content/resp/airway_anatomy.qmd
+        #         - content/resp/chest_wall_diaphragm.qmd
+        #         - content/resp/anatomical_variation.qmd
+        #     - part: "Mechanics"
+        #       chapters: 
+        #         - content/resp/breathing_control.qmd
+        #         - content/resp/intrapleural_pressure.qmd
+        #         - content/resp/compliance.qmd
+        #         - content/resp/time_constants.qmd
+        #         - content/resp/resistance.qmd
+        #         - content/resp/surfactant.qmd
+        #         - content/resp/volumes_capacities.qmd
+        #         - content/resp/spirometry.qmd
+        #         - content/resp/work_of_breathing.qmd
+        #     - part: "Diffusion of Gases"
+        #       chapters: 
+        #         - content/resp/oxygen_cascade.qmd
+        #         - content/resp/diffusion_capacity.qmd
+        #     - part: "V/Q Relationships"
+        #       chapters:
+        #         - content/resp/vq_basics.qmd
+        #         - content/resp/wests_zones.qmd
+        #         - content/resp/dead_space.qmd
+        #         - content/resp/shunt.qmd
+        #     - part: "Gas Transport"
+        #       chapters:
+        #         - content/resp/oxygen_storage.qmd
+        #         - content/resp/co2_transport.qmd
+        #     - part: "Applied Respiratory Physiology"
+        #       chapters:
+        #         - content/resp/peep.qmd
+        #         - content/resp/hypoxia.qmd
+        #         - content/resp/co2_effects.qmd
+        #         - content/resp/position.qmd
+        #         - content/resp/humidification.qmd
+        #         - content/resp/cough.qmd
+        #         - content/resp/non_resp_functions.qmd
+        #         - content/resp/altitude.qmd
+        #         - content/resp/obesity_respiratory.qmd
+        #         - content/resp/paeds_respiratory.qmd
+        # - part: "Cardiovascular Physiology"
+        #   chapters:
+        #     - part: "Structure and Function"
+        #       chapters:
+        #         - content/cvs/cardiac_anatomy.qmd
+        #         - content/cvs/coronary_circulation.qmd
+        #         - content/cvs/cardiac_cycle.qmd
+        #     - part: "Electrical Properties"
+        #       chapters:
+        #         - content/cvs/cardiac_ap.qmd  
+        #     - part: "Cardiac Output"
+        #       chapters:
+        #         - content/cvs/co_determinants.qmd
+        #         - content/cvs/venous_return.qmd
+        #         - content/cvs/myocardial_oxygen.qmd
+        #         - content/cvs/pv_relationships.qmd
+        #         - content/cvs/cardiac_reflexes.qmd
+        #     - part: "Peripheral Circulation"
+        #       chapters:
+        #         - content/cvs/starling_forces.qmd
+        #         - content/cvs/bp_variations.qmd
+        #         - content/cvs/pulmonary_circulation.qmd
+        #         - content/cvs/cerebral_blood_flow.qmd
+        #         - content/cvs/hepatic_blood_flow.qmd
+        #     - part: "Circulatory Control"
+        #       chapters:
+        #         - content/cvs/baroreceptors.qmd
+        #         - content/cvs/valsalva_manoeuvre.qmd
+        #         - content/cvs/obesity_cvs.qmd
+        #         - content/cvs/ageing_cvs.qmd
+        #         - content/cvs/adrenoreceptors.qmd
+        # - part: "Renal System"
+        #   chapters: 
+        #     - part: "Renal Physiology"
+        #       chapters:
+        #         - content/renal/rbf.qmd
+        #         - content/renal/glomerular_filtration.qmd
+        #         - content/renal/organic.qmd
+        #         - content/renal/creatinine_clearance.qmd
+        #         - content/renal/endocrine.qmd
+        #         - content/renal/acid_base.qmd
+        #         - content/renal/dialysis.qmd
+        #     - part: "Fluids and Electrolytes"
+        #       chapters:
+        #         - content/renal/sodium.qmd
+        #         - content/renal/potassium.qmd
+        # - part: "Acid-Base"
+        #   chapters: 
+        #     - content/acid_base/principles.qmd
+        #     - content/acid_base/compensation.qmd
+        #     - content/acid_base/buffers.qmd
         - part: "Nervous System"
           chapters:
             - content/neuro/bbb.qmd
@@ -226,3 +226,13 @@ book:
             - content/neuro/spinal_anatomy.qmd
             - content/neuro/icp.qmd
             - content/neuro/iop.qmd
+            - content/neuro/sleep.qmd
+            - content/neuro/pain.qmd
+            - content/neuro/ans.qmd # Needs GRAPH FROM PAGE 258 of GANONG and FIGURE FROM PAGE 67 - POWER AND KAM
+            - content/neuro/ach_receptor.qmd
+        - part: "Endocrine System"
+          chapters:
+            - content/endo/hormones.qmd
+
+
+ 

@@ -1,12 +1,16 @@
 # Acetylcholine Receptors
 
-> Understanding of the pharmacology of anticholinesterase drugs.
+:::CICM
+Understanding of the pharmacology of anticholinesterase drugs.
+:::
 
-<!--></!-->
+:::ANZCA
+Describe the adverse effects of anticholinesterase agents.
+:::
 
-> <p style="color:purple";>Describe the adverse effects of anticholinesterase agents.</p>
-
-*This covers the pharmacology of acetylcholine receptors and the production and metabolism of ACh. Detailed information on specific agents is in the pharmacopeia.*
+::: column-margin
+This covers the pharmacology of acetylcholine receptors and the production and metabolism of ACh. Detailed information on specific agents is in the pharmacopeia.
+:::
 
 Acetylcholine is a neurotransmitter vital for normal function of:
 
@@ -76,8 +80,8 @@ There are two types of ACh receptor:
         * M~4~ (Gi) and M~5~ (Gq)\
         CNS.
 
-
 ---
+
 ## References
 
 1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.\
