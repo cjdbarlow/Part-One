@@ -6,6 +6,10 @@ project:
 #  freeze: auto
 #  cache: true
 
+# Allow subparts in the yaml
+validate-yaml: false
+
+
 # Settings for output formats
 format:
     html:
