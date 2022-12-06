@@ -30,6 +30,7 @@ format:
         # Style
         toc: true
         toc-title: "On this Page"
+        tbl-cap-location: top
         sidebar:
         style: floating  
         fig-align: center
@@ -55,6 +56,7 @@ format:
         number-sections: false
         # Style
         toc-title: "Contents"
+        tbl-cap-location: top
         include-before-body: content/copyright.tex
 
 # Table of contents and some general output settings
