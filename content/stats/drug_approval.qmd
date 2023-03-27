@@ -48,13 +48,14 @@ Assessed by the TGA for quality, safety, but not efficacy.
     * Pre-clinical R&D
     * *In vitro* and animal testing
 * **Phase I**
-    * First administration in humans
+    * First administration in healthy human volunteers
     * Basic pharmacokinetic and toxicology data
     * 20 - 100 human subjects
 * **Phase II**
     * Administration to select patient groups
     * Aim to establish dose-response curve
-    * Evidence of efficacy
+    * Evidence of efficacy and safety in the target population\
+    Usually surrogate outcome measures.
 * **Phase III**
     * Full-scale evaluation of benefits, potential risks and costs analysis
     * 2000-3000 patients, usually treated in groups of several hundred for relatively short durations (3-6 months), regardless of the length of time the drug will be used in practice[^3]
