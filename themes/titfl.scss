@@ -255,9 +255,10 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0
 
 // Info boxes
 .info,
-.danger,
+.crisis,
 .caution,
 .tick,
+.gas,
 .ANZCA,
 .CICM,
 .dual {
@@ -272,9 +273,10 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0
 }
 
 div.info p,
-div.danger p,
+div.crisis p,
 div.caution p,
 div.tick p,
+div.gas p,
 div.ANZCA p,
 div.CICM p,
 div.dual p {
@@ -282,21 +284,33 @@ div.dual p {
     margin-bottom: 0;
 }
 
+div.info > ul,
+div.crisis > ul,
+div.caution > ul,
+div.tick > ul,
+div.gas > ul,
+div.ANZCA > ul,
+div.CICM > ul,
+div.dual > ul {
+    padding: 0em 1.5em 0em 5em;
+}
+
 div.info ul,
-div.danger ul,
+div.crisis ul,
 div.caution ul,
 div.tick ul,
+div.gas ul,
 div.ANZCA ul,
 div.CICM ul,
 div.dual ul {
-    padding: 0em 1.5em 0em 5em;
     margin-bottom: 0;
 }
 
 div.info > :first-child,
-div.danger > :first-child,
+div.crisis > :first-child,
 div.caution > :first-child,
 div.tick > :first-child,
+div.gas > :first-child,
 div.ANZCA > :first-child,
 div.CICM > :first-child,
 div.dual > :first-child {
@@ -304,9 +318,10 @@ div.dual > :first-child {
 }
 
 div.info > :last-child,
-div.danger > :last-child,
+div.crisis > :last-child,
 div.caution > :last-child,
 div.tick > :last-child,
+div.gas > :last-child,
 div.ANZCA > :last-child,
 div.CICM > :last-child,
 div.dual > :last-child {
@@ -323,8 +338,8 @@ div.dual > :last-child {
     background-color: rgba(102,187,255,.1)
 }
 
-.danger {
-    background-image: url("themes/images/danger.svg");
+.crisis {
+    background-image: url("themes/images/crisis.svg");
     background-repeat: no-repeat;
     background-size: 1.2em;
     background-position: 1em 50%;
@@ -351,6 +366,16 @@ div.dual > :last-child {
     display: block;
     border-color: #26cb7c;
     background-color: rgba(38,203,124,.1)
+}
+
+.gas {
+    background-image: url("themes/images/syringe.svg") !important;
+    background-repeat: no-repeat;
+    background-size: 1.2em;
+    background-position: 1em 50%;
+    display: block;
+    border-color: #868686;
+    background-color: rgba(134,134,134,0.1)
 }
 
 .ANZCA {
