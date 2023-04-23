@@ -75,8 +75,13 @@ Secretes **two** hormones:
             * Reduced when osmolality is <275 mOsm.L^-1^
             * Increased when osmolality is >290 mOsm.L^-1^
         * Effective at:
-            * V~1~ receptors in vascular smooth muscle, causing vasoconstriction
-            * V~2~ receptors in kidney collecting ducts to increase water reabsorption, and on endothelium to increase vWF and factor VIII release
+            * V~1~ receptors in vascular smooth muscle, causing vasoconstriction\
+            Effect predominates in muscle, skin, and fat; and may relatively spare coronary, cerebral, and mesenteric circulations.
+            * V~2~ receptors in the:
+                * Kidney, where it has two actions:
+                    * ↑ Aquaporin expression, leading to ↑ water reabsorption
+                    * ↑ Urea transport in the collecting duct, leading to ↑ medullary concentrating
+                * Endothelium to increase vWF and factor VIII release
             * V~3~ receptors in the pituitary to stimulate ACTH release
     * **Oxytocin**\
     Short-chain peptide, structurally similar to ADH, which causes:
