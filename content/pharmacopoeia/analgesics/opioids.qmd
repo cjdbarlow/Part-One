@@ -24,7 +24,7 @@
 |**Route of Administration**|SC/IM/IV/Intrathecal|
 |**pKa**|8.0, 23% unionised at physiologic pH.|
 |**Absorption**|Low (relative) lipid solubility - slower onset and SC absorption. PO preparations absorbed in small bowel, bioavailability 30% - high first pass metabolism.|
-|**Distribution**|~35% protein binding. V~D~ 3.5L.kg^-1^|
+|**Distribution**|~35% protein binding. V~D~ 3.5L.kg^-1^. ↑ Free drug in renal failure as uraemia displaces it from binding sites.|
 |**Clearance** (ml.kg^-1^.min^-1^)|15
 |**Metabolism**|Hepatic glucuronidation to 70% inactive morphine-3-glucuronide and 10% active morphine-6-glucuronide, which is 13x as potent as morphine. t~1/2~β of 160 minutes.|
 |**Elimination**|Renal elimination of active metabolites - accumulation in renal failure
