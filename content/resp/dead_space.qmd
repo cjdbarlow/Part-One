@@ -1,3 +1,5 @@
+# Dead Space
+
 :::CICM
 Define dead space and its components. Explain how these may be measured and describe the physiological impact of increased dead space.
 :::
@@ -5,8 +7,6 @@ Define dead space and its components. Explain how these may be measured and desc
 :::ANZCA
 Discuss dead space, its measurement and apply the Bohr equation and alveolar gas equation
 :::
-
-# Dead Space
 
 Dead space is the proportion of minute ventilation which does not participate in gas exchange.
 
@@ -59,7 +59,7 @@ Two methods exist to allow dead space volumes to be calculated:
 
 ### Fowler's Method
 
-Fowler's Method is a **single-breath nitrogen washout test**, used to calculate **anatomical dead space** and **closing capacity**.
+Fowler's Method is a **single-breath nitrogen washout test**, used to calculate **anatomical dead space** and **closing *volume***.
 
 <img src="/resources/fowlers-method.svg">
 
@@ -76,14 +76,19 @@ Expired nitrogen concentration and volume is measured.
   * Phase 3\
   Expired nitrogen reaches a plateau as just alveolar gas is exhaled (lung units with variable time constants).
   * Phase 4\
-  Sudden increase in nitrogen concentration, which indicates **closing capacity**. This increase occurs because:
-    * Basal alveoli are more compliant than apical alveoli
-    * Therefore, during inspiration basal alveoli inflate more than apical alveoli\
-    The single 100% oxygen breath therefore preferentially inflates the basal alveoli. At the end of the vital capacity breath, the oxygen concentration in basal alveoli is greater than that of apical alveoli.
-    * In expiration, the process is reversed:
-        * Basal alveoli preferentially exhale
-        * At closing capacity, small basal airways close and now only apical alveoli (with a higher concentration of nitrogen) can exhale
-        * Measured expired nitrogen concentration increases
+  Sudden increase in nitrogen concentration.
+    * Occurs because:
+      * Basal alveoli are more compliant than apical alveoli
+      * Therefore, during inspiration basal alveoli inflate more than apical alveoli\
+      The single 100% oxygen breath therefore preferentially inflates the basal alveoli. At the end of the vital capacity breath, the oxygen concentration in basal alveoli is greater than that of apical alveoli.
+      * In expiration, the process is reversed:
+          * Basal alveoli preferentially exhale
+          * At closing capacity, small basal airways close and now only apical alveoli (with a higher concentration of nitrogen) can exhale
+          * Measured expired nitrogen concentration increases
+    * Onset of phase 4 indicates the point at which **closing capacity** is reached\
+    * The volume exhaled between phase 4 commencing and reaching RV is the **closing volume**\
+    This can be combined with a measurement of RV to quantify the closing capacity.
+
 
 ### Bohr's Method
 
