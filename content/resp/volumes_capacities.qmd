@@ -174,7 +174,7 @@ Factors affecting FRC:
 
 ## Closing Capacity
 
-* Closing capacity is **volume at which small airways begin to close**\
+* Closing capacity is **lung volume at which small airways begin to close**\
 Closing capacity is the sum of residual volume and closing volume.
   * Because dependent lung is compressed by gravity, dependent (typically basal) airways are of smaller calibre than non-dependent (typically apical) airways
   * During expiration, these airways are compressed first\

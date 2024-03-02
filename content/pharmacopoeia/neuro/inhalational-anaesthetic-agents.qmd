@@ -112,16 +112,17 @@ MAC is not based on arterial partial pressure (F~a~) of agent.
 |Hypothermia|Hyperthermia|
 |Hypocapnea|Hypercapnea|
 |Hyponatraemia|Hypernatraemia|
-|Hypothyroidism|Hyperthyroidism|
 |Acute alcohol and other CNS depressant intoxication|Chronic ETOH and CNS depressant abuse|
-|Chronic amphetamine intake|Acute amphetamine intake|
+|Chronic amphetamine intake|Acute amphetamine/stimulant intake|
 |Hypovolaemia/Hypotension||
+|Hypoosmolality||
+|↓ pH||
 |Lithium||
 |Hypoxia||
 |Anaemia||
 |Pregnancy||
-||SNS activation and anxiety
-||Increased P~atm~
+||SNS activation and anxiety|
+||Increased P~atm~|
 
 Note that addition of other agents (e.g. opioids) will affect different MAC subtypes (e.g. MAC~50~ vs MAC~BAR~) differently.
 
@@ -431,5 +432,7 @@ From the properties discussed above, we can construct the following ideal agent:
 7. Hendrickx J, Peyton P, Carette R, De Wolf A. [Inhaled anaesthetics and nitrous oxide: Complexities overlooked: things may not be what they seem](https://www.ncbi.nlm.nih.gov/pubmed/27164016). Eur J Anaesthesiol. 2016 Sep;33(9):611-9.
 8. Aranake A, Mashour GA, Avidan MS. [Minimum alveolar concentration: ongoing relevance and clinical utility](https://www.ncbi.nlm.nih.gov/pubmed/23414556). Anaesthesia. 2013 May;68(5):512-22. doi: 10.1111/anae.12168.
 9. Lerman J, Gregory GA, Willis MM, Eger EI 2nd. [Age and solubility of volatile anesthetics in blood](http://anesthesiology.pubs.asahq.org/article.aspx?articleid=1956070). Anesthesiology. 1984 Aug;61(2):139-43.
+1. Aranake A, Mashour G a., Avidan M s. [Minimum alveolar concentration: ongoing relevance and clinical utility](https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/full/10.1111/anae.12168). Anaesthesia. 2013;68(5):512–22. 
+
 
 
