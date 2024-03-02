@@ -33,7 +33,7 @@
     * Is immune mediated
     * Occurs within 4-14 days
     * Is associated with serious thrombosis and high mortality (typically from PE) and morbidity (from CVA and limb ischaemia)
-  \
+
 ## Protamine
 
 Protamine is:
@@ -44,7 +44,8 @@ Rebound anticoagulation may occur.
 
 Adverse effects from protamine include:
 
-* Histamine release
+* Anaphylaxis
+* Direct (non-anaphylaxis) histamine release
     * Bronchospasm
     * Hypotension
 * Pulmonary hypertension\

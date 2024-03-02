@@ -23,7 +23,6 @@ The **Left Ventricular P-V Loop** is the standard introduction to the topic:
 	Atrial systole is sometimes demonstrated by a sharp 'bump' towards C, as ventricular pressure will briefly rise out of proportion to ventricular volume
 	* C-D is isovolumetric contraction\
 	The ventricle contracts. As ventricular pressure is greater than atrial pressure but less than aortic pressure, the mitral valve closes (point C) and the aortic valve remains closed. Pressure increases without a change in volume.
-		* This slope of this line is known as the **dP/dt~max~** ($\Delta P \over \Delta T$), and is an index of [contractility](determinants_of_cardiac_output.md#cont)
 	* D-A is ventricular ejection\
 	When ventricular pressure exceeds aortic pressure, blood is ejected into the aorta and ventricular volume decreases.
 * The slope of the line B-C gives the elastance of the ventricle\
