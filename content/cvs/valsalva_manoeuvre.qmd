@@ -22,7 +22,7 @@ A Valsalva manoeuvre consists of four phases:
 * VR falls due to increased P~Thoracic~
 * CO falls due to decreased VR
 * SBP and DBP fall due to decreased CO
-* Baroreceptors are activated by the fall in BP, and SNS outflow increases, causing:
+* Baroreceptor activity is ↓ by the fall in BP, and SNS outflow increases, causing:
     * Increased HR
     * Increased SVR
         * BP therefore starts to recover late in Phase II

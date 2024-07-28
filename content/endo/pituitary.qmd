@@ -1,0 +1,72 @@
+# Pituitary Hormones
+
+:::dual
+Describe the control, secretions and functions of the pituitary ~~and the hypothalamus~~
+:::
+
+The pituitary gland is secretes **eight hormones**, and is divided into **two lobes**:
+
+* **Anterior pituitary**\
+Secretes **six** hormones, all in response to a hypothalamic endocrine stimulus.
+* **Posterior pituitary**
+
+
+## Anterior Pituitary Hormones
+
+Hormones from the anterior pituitary are further divided into:
+
+* **Stimulating** hormones\
+Act at another gland:
+    * **ACTH**\
+    Short-chain peptide that stimulates cortisol release from the zona fasciculata. Release is stimulated by CRH, and inhibited by cortisol.
+    * **TSH**\
+    Glycoprotein that stimulates synthesis and release of T~3~ and T~4~. Release is stimulated by TRH, and inhibited by T~3~.
+    * **FSH**\
+    Glycoprotein gonadotropin. Release is stimulated by GnRH, and inhibited by circulating sex steroids. Has different effects depending on sex:
+        * Females: Stimulates oestrogen synthesis and ovarian follicle development.
+        * Males: Stimulates sperm maturation.
+    * **LH**\
+    Glycoprotein gonadotropin with different effects depending on sex:\
+        * Females: Rapid increase stimulates ovulation and corpus luteum development.
+        * Males: Stimulates testosterone synthesis.
+* **Direct acting** hormones:
+    * **GH**\
+    Long-chain peptide released in a pulsatile fashion. Release is stimulated by GHRH and is typically high with exercise, hypoglycaemia, and stress. Release is inhibited by somatostatin and IGF-1. GH has generally anabolic effects:
+        * Directly stimulates lipolysis, increasing circulating FFA
+        * Indirectly stimulates IGF-1 release, promoting cell growth and development
+    * **Prolactin**\
+    Long-chain peptide which promotes breast development during gestation, and lactation after delivery.
+
+
+## Posterior Pituitary Hormones
+
+Secretes **two** structurally similar short-chain peptide hormones:
+
+* **Anti-Diuretic Hormone** (ADH)\
+Released in response to a change in osmolality detected by osmoreceptors in the circumventricular organs. ADH:
+    * Release is:
+        * ↓ When osmolality is <275 mOsm.L^-1^
+        * ↑ When osmolality is >290 mOsm.L^-1^
+    * Effective at:
+        * V~1~ receptors in vascular smooth muscle, causing vasoconstriction\
+        Effect predominates in muscle, skin, and fat; and may relatively spare coronary, cerebral, and mesenteric circulations.
+        * V~2~ receptors in the:
+            * Kidney, where it has two actions:
+                * ↑ Aquaporin expression, leading to ↑ water reabsorption
+                * ↑ Urea transport in the collecting duct, leading to ↑ medullary concentrating
+            * Endothelium to increase vWF and factor VIII release
+        * V~3~ receptors in the pituitary to stimulate ACTH release
+* **Oxytocin**\
+Role in:
+    * Uterine contraction
+    * Let-down reflex\
+    Stimulates milk release on suckling.
+    * Psychological\
+    Pair bonding.
+
+---
+
+## References
+
+1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+2. Nickson, C. [Vasopressin](http://lifeinthefastlane.com/ccc/vasopressin/). LITFL.

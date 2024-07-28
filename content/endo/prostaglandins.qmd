@@ -1,11 +1,11 @@
 # Prostanoids
 
-
 Prostanoids are a diverse family of eicosanoids (20-carbon molecules), produced from arachidonic acid, and include:
 
 * Thromboxane
 * Prostacyclin
 * Prostaglandins
+
 
 ## Synthesis
 
@@ -28,21 +28,31 @@ These undergo further metabolism to produce:
 
 <img src="/resources/prostaglandins.svg">
 
+
 ## Effects
 
-
-|Receptor|Receptor|Respiratory|Vascular|GIT|GU|Other|
-|--|
-|**Thromboxane A~2~**|Gq||Vasoconstriction|||Platelet aggregation|
-|**PGI~2~**|Gs|Bronchodilation|Vasodilation (renal and pulmonary)||||
-|**PGE~2~ EP~1~**|Gq|Bronchoconstriction||Increased contraction|Renal vasodilation||
-|**PGE~2~ EP~2~**|Gs|Bronchodilation|Closure of ductus arteriosus|Decreased contraction|Renal vasodilation||
-|**PGE~2~ EP~3~**|Gi|||Gastric mucous production, GIT contraction|Uterine contraction||
-|**PGF~2α~**|Gq|Bronchoconstriction|Vasoconstriction||Uterine contraction||
-|**PGD~2~**|Gs||||Renal vasodilation|Promotes sleep|
-
++----------------------+----------+---------------------+------------------------------------+---------------------------+---------------------+----------------------+
+| Receptor             | Receptor | Respiratory         | Vascular                           | GIT                       | GU                  | Other                |
++======================+==========+=====================+====================================+===========================+=====================+======================+
+| **Thromboxane A~2~** | Gq       |                     | Vasoconstriction                   |                           |                     | Platelet aggregation |
++----------------------+----------+---------------------+------------------------------------+---------------------------+---------------------+----------------------+
+| **PGI~2~**           | Gs       | Bronchodilation     | Vasodilation (renal and pulmonary) |                           |                     |                      |
++----------------------+----------+---------------------+------------------------------------+---------------------------+---------------------+----------------------+
+| **PGE~2~ EP~1~**     | Gq       | Bronchoconstriction |                                    | ↑ Contraction             | Renal vasodilation  |                      |
++----------------------+----------+---------------------+------------------------------------+---------------------------+---------------------+----------------------+
+| **PGE~2~ EP~2~**     | Gs       | Bronchodilation     | Closure of ductus arteriosus       | ↓ Contraction             | Renal vasodilation  |                      |
++----------------------+----------+---------------------+------------------------------------+---------------------------+---------------------+----------------------+
+| **PGE~2~ EP~3~**     | Gi       |                     |                                    | Gastric mucous production | Uterine contraction |                      |
+|                      |          |                     |                                    |                           |                     |                      |
+|                      |          |                     |                                    | GIT contraction           |                     |                      |
++----------------------+----------+---------------------+------------------------------------+---------------------------+---------------------+----------------------+
+| **PGF~2α~**          | Gq       | Bronchoconstriction | Vasoconstriction                   |                           | Uterine contraction |                      |
++----------------------+----------+---------------------+------------------------------------+---------------------------+---------------------+----------------------+
+| **PGD~2~**           | Gs       |                     |                                    |                           | Renal vasodilation  | Promotes sleep       |
++----------------------+----------+---------------------+------------------------------------+---------------------------+---------------------+----------------------+
 
 ---
+
 ## References
 
 1. Ricciotti E, FitzGerald GA. [Prostaglandins and Inflammation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3081099/). Arteriosclerosis, thrombosis, and vascular biology. 2011;31(5):986-1000. doi:10.1161/ATVBAHA.110.207449.

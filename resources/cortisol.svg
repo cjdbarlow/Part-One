@@ -47,8 +47,7 @@ text.f1 {font-family:cmr10;font-size:9.96264px}
 ]]>
 </style>
 <g id='page1'>
-<text class='f1' x='112.097898' y='-57.632389' transform='matrix(1 0 0 1 -178.7871 2.4907)'>Hyp<tspan x='130.63955'>othalam</tspan>
-<tspan x='165.785643'>us</tspan>
+<text class='f1' x='112.097898' y='-57.632389' transform='matrix(1 0 0 1 -178.7871 2.4907)'><tspan x='120'>Hypothalamus</tspan>
 </text>
 <path d='M4.766-57.632812H35.0039' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
 <path d='M38.58984-57.632812C37.52734-57.832031 35.800773-58.429687 34.60546-59.125V-56.13672C35.800773-56.835937 37.52734-57.433593 38.58984-57.632812'/>

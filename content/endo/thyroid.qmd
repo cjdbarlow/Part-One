@@ -1,6 +1,8 @@
 # Thyroid
 
-> Describe the control, secretions and functions of the thyroid.
+:::dual
+Describe the control, secretions and functions of the thyroid.
+:::
 
 The thyroid gland:
 
@@ -23,6 +25,14 @@ Increased TSH results in:
 
 Thyroid hormones are:
 
+:::column-margin
+In brief:
+
+* Iodide is taken into the thyroid follicles by secondary active transport, and oxidised to iodine
+* Thyroglobulin is synthesised in the follicle, and excreted into the follicular cavity
+* Iodine is secreted into the follicular cavity, where it combines with thyroglobulin to produce T~4~ and T~3~
+:::
+
 * **Synthesised** in **follicles**\
 A follicle is formed of a single layer of cuboidal epithelium around a central lumen (follicular cavity) containing thyroglobulin.
   * **Iodide** is transported into follicular cells via a **secondary active transport** mechanism\
@@ -34,11 +44,6 @@ A follicle is formed of a single layer of cuboidal epithelium around a central l
     * **Thyroid peroxidase** catalyses the iodination of thyroglobulin, forming mono-iodotyrosine and di-iodotyrosine
     * These are subsequently **oxidised**, forming T~3~ and T~4~ respectively
 
-### In summary:
-
-* Iodide is taken into the thyroid follicles by secondary active transport, and oxidised to iodine
-* Thyroglobulin is synthesised in the follicle, and excreted into the follicular cavity
-* Iodine is secreted into the follicular cavity, where it combines with thyroglobulin to produce T~4~ and T~3~
 
 ## Secretion and Metabolism
 
@@ -63,19 +68,51 @@ Thyroid hormones:
 Increasing gene transcription, protein synthesis, and mitochondria size and number. 
 * **T~3~ is 3-5x more active than T~4~**
 
-Effects of thyroid hormone are predominantly metabolic:
+: Effects of Thyroid Hormone
 
-|System|Effect|
-|--|--|
-|**Resp**| ↑ MV due to ↑ CO~2~ production
-|**CVS**|↑ HR, ↑ inotropy, ↑ CO, ↓ SVR, ↓ DBP
-|**CNS**|↑ Excitability: Seizures, tremor
-|**MSK**|↑ Osteoblastic activity
-|**GU**|Impotence (men), oligomenorrhoea (women)
-|**GIT**|↑ GIT motility
-|**Metabolic**|↑ BMR up to 100%, ↑ carbohydrate metabolism (↑ glucose uptake, ↑ glycolysis, ↑ gluconeogenesis), ↑ fat metabolism (↑ lipolysis, ↑ non-shivering thermogenesis, ↓ plasma cholesterol, ↓ plasma phospholipids, ↓ triglycerides), ↑ protein metabolism (↑ anabolism at physiological levels, ↑ catabolism at high levels)
++---------------+-------------------------------------------+
+| System        | Effect                                    |
++===============+===========================================+
+| **Resp**      | * ↑ MV due to ↑ CO~2~ production          |
++---------------+-------------------------------------------+
+| **CVS**       | * ↑ HR                                    |
+|               | * ↑ Inotropy                              |
+|               | * ↑ CO                                    |
+|               | * ↓ SVR                                   |
++---------------+-------------------------------------------+
+| **CNS**       | * ↑ Excitability\                         |
+|               | Seizures, tremor.                         |
++---------------+-------------------------------------------+
+| **MSK**       | * ↑ Osteoblastic activity                 |
++---------------+-------------------------------------------+
+| **GU**        | * Impotence (men)                         |
+|               | * Oligomenorrhoea (women)                 |
++---------------+-------------------------------------------+
+| **GIT**       | * ↑ GIT motility                          |
++---------------+-------------------------------------------+
+| **Metabolic** | * ↑ BMR\                                  |
+|               | Up to 100%.                               |
+|               | * ↑ Carbohydrate metabolism               |
+|               |     * ↑ Glucose uptake                    |
+|               |     * ↑ Glycolysis                        |
+|               |     * ↑ Gluconeogenesis                   |
+|               | * ↑ Fat metabolism                        |
+|               |     * ↑ Lipolysis                         |
+|               |     * ↑ Non-shivering thermogenesis       |
+|               |     * ↓ Plasma cholesterol                |
+|               |     * ↓ Plasma phospholipids              |
+|               |     * ↓ Triglycerides                     |
+|               | * ↑ Protein metabolism                    |
+|               |     * ↑ Anabolism at physiological levels |
+|               |     * ↑ Catabolism at high levels         |
++---------------+-------------------------------------------+
+
+:::column-margin
+Effects of thyroid hormone are predominantly metabolic.
+:::
 
 ---
+
 ## References
 
 1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.

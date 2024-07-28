@@ -1,0 +1,45 @@
+# Hypothalamic Hormones
+
+:::dual
+Describe the control, secretions and functions of the ~~pituitary and the~~ hypothalamus
+:::
+
+The hypothalamus is a circumventricular organ that regulates a large number of autonomic processes:
+
+* **Thermoregulatory**\
+Integrates thermoreceptor input and controls activity of heat loss and heat gain mechanisms.
+* **Satiety**\
+Feelings of hunger are modulated by glucose, CCK, glucagon, and leptin.
+* **Water balance**\
+    * Contains osmoreceptors which control ADH release from the posterior pituitary
+    * Angiotensin II stimulates thirst and ADH release via the subfornical organ and organum vasculosum
+* **Circadian rhythms**\
+Balance between anterior and posterior hypothalamic stimulation controls sleep-wake cycle.
+* **Pituitary control** 
+    * Anterior pituitary by hormone secretion into the long portal vein. Secreted hormones include:
+        * GnRH, stimulates FSH and LH release
+        * CRH, stimulates ACTH release
+        * GHRH, stimulates GH release
+        * TRH, stimulates TSH release
+        * Somatostatin, inhibits GH and TSH release
+        * Dopamine, inhibits prolactin release
+    * Posterior pituitary by neuronal innervation
+* **Behaviour**\
+Punishment and reward centres.
+* **Sexual function**
+
+
+## Hypothalamic-Pituitary Axis
+
+The **hypothalamic-pituitary axis** describes the complex feedback loops between these endocrine organs:
+
+* **Short-loop feedback** describes negative feedback from the pituitary on the hypothalamus, e.g. GH inhibiting GHRH release
+* **Long-loop feedback** describes negative feedback from a pituitary target gland (i.e. thyroid, adrenal, gonads) on the hypothalamus, e.g. cortisol inhibiting CRH (as well as ACTH) release.
+    * These axes are also named with target gland, e.g. hypothalamic-pituitary-adrenal axis
+
+---
+
+## References
+
+1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+2. Nickson, C. [Vasopressin](http://lifeinthefastlane.com/ccc/vasopressin/). LITFL.

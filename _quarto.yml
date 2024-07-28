@@ -58,6 +58,10 @@ format:
         tbl-cap-location: top
         include-before-body: content/copyright.tex
 
+# Other theme options
+website:
+    bread-crumbs: false
+
 # Table of contents and some general output settings
 book:
     # General settings
@@ -229,11 +233,18 @@ book:
             - content/neuro/iop.qmd
             - content/neuro/sleep.qmd
             - content/neuro/pain.qmd
-            - content/neuro/ans.qmd # Needs GRAPH FROM PAGE 258 of GANONG and FIGURE FROM PAGE 67 - POWER AND KAM
+            - content/neuro/ans.qmd # TODO: Needs GRAPH FROM PAGE 258 of GANONG and FIGURE FROM PAGE 67 - POWER AND KAM
             - content/neuro/ach_receptor.qmd
         - part: "Endocrine System"
           chapters:
             - content/endo/hormones.qmd
+            - content/endo/insulin_and_friends.qmd
+            - content/endo/glucose.qmd
+            - content/endo/pituitary.qmd
+            - content/endo/hypothalamus.qmd
+            - content/endo/thyroid.qmd
+            - content/endo/adrenal.qmd
+            - content/endo/calcium.qmd
+            - content/endo/histamine.qmd
+            - content/endo/prostaglandins.qmd
 
-
- 

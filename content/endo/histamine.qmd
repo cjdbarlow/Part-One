@@ -1,7 +1,8 @@
 # Histamine
 
-
-> Describe the physiology of histamine ~~and serotonin~~
+:::dual
+Describe the physiology of histamine ~~and serotonin~~.
+:::
 
 Histamine is an endogenous amine produced by decarboxylation of **histidine**. Histamine is:
 
@@ -19,7 +20,8 @@ Particularly abundant in those exposed to the outside environment:
 * Metabolised by:
     * Histaminase
     * Imidazole N-methyltransferase
-  \
+
+
 ## Histamine Receptors and Effects
 
 Histamine acts on:
@@ -33,14 +35,28 @@ Gi presynaptic receptor in the CNS.
 * H~4~ receptors\
 Gi receptor located in bone marrow and other solid haematological organs (spleen, liver, thymus).
 
-|System|H~1~|H~2~|H~3~|H~4~|
-|--|--|--|
-|**Resp**|Bronchoconstriction|Bronchodilation|||
-|**CVS**|↑ Vasodilation (endothelial effect), coronary vasoconstriction, ↓ AV nodal conduction|↑ HR, ↑ inotropy, coronary vasodilation, ↑ capillary permeability|||
-|**CNS**|||Presynaptic inhibition of neurotransmission||
-|**MSK**|Weal due to local vasodilation, itch, ↑ nociception||||
-|**GIT**|↑ Peristalsis|↑ Gastric acid secretion|||
-|**Haeme**||||Alter IL-16 release
+: Physiological Effects of Histamine
+
++-----------+---------------------------------------+----------------------------+-----------------------------------------------+-----------------------+
+| System    | H~1~                                  | H~2~                       | H~3~                                          | H~4~                  |
++===========+=======================================+============================+===============================================+=======================+
+| **Resp**  | * Bronchoconstriction                 | * Bronchodilation          |                                               |                       |
++-----------+---------------------------------------+----------------------------+-----------------------------------------------+-----------------------+
+| **CVS**   | * ↑ Vasodilation (endothelial effect) | * ↑ HR                     |                                               |                       |
+|           | * Coronary vasoconstriction           | * ↑ Inotropy               |                                               |                       |
+|           | * ↓ AV nodal conduction               | * Coronary vasodilation    |                                               |                       |
+|           |                                       | * ↑ Capillary permeability |                                               |                       |
++-----------+---------------------------------------+----------------------------+-----------------------------------------------+-----------------------+
+| **CNS**   |                                       |                            | * Presynaptic inhibition of neurotransmission |                       |
++-----------+---------------------------------------+----------------------------+-----------------------------------------------+-----------------------+
+| **MSK**   | * Weal due to local vasodilation      |                            |                                               |                       |
+|           | * Itch                                |                            |                                               |                       |
+|           | * ↑ Nociception                       |                            |                                               |                       |
++-----------+---------------------------------------+----------------------------+-----------------------------------------------+-----------------------+
+| **GIT**   | * ↑ Peristalsis                       | * ↑ Gastric acid secretion |                                               |                       |
++-----------+---------------------------------------+----------------------------+-----------------------------------------------+-----------------------+
+| **Haeme** |                                       |                            |                                               | * Alter IL-16 release |
++-----------+---------------------------------------+----------------------------+-----------------------------------------------+-----------------------+
 
 ---
 
