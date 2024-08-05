@@ -247,4 +247,8 @@ book:
             - content/endo/calcium.qmd
             - content/endo/histamine.qmd
             - content/endo/prostaglandins.qmd
+        - part: "Musculoskeletal"
+          chapters:
+            - content/msk/skeletal_muscle.qmd
+            - content/msk/skeletal_muscle_innervation.qmd
 

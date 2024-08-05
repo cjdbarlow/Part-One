@@ -13,7 +13,7 @@ quarto::quarto_preview()
 # TO DO
 ## General
 * SORT OUT ALL THE INTERNAL LINKS (all of format [xyz](cardiac_action_potential.md))
-
+* Remove bullet points in tables and replace with extra line
 
 ## HTML
 * fix overlapping margin content
@@ -37,10 +37,6 @@ quarto::quarto_preview()
 
 ## Pages to be reviewed and transferred
 
-* [Musculoskeletal System](skeletal_muscle.md#id)
-  * [Skeletal Muscle Structure](skeletal_muscle.md)
-  * [Skeletal Muscle Innervation](skeletal_muscle_innervation.md)
-  * [Neuromuscular Blockers](neuromuscular_blockers.md)
 * [Nutrition & Metabolism](basal_metabolic_rate.md#id)
   * [Basal Metabolic Rate](basal_metabolic_rate.md)
   * [Fat Metabolism](fat.md)
@@ -194,6 +190,7 @@ quarto::quarto_preview()
   * [Anticholinesterases](anticholinesterases.md)
   * [Antimuscarinics](antimuscarinicsansmd.md)
 * [Neuromuscular](depolarising_nmbs.md#id)
+  - content/msk/neuromuscular_blockers.qmd # Fix location!
   * [Depolarising NMBs](depolarising_nmbs.md)
   * [Non-Depolarising NMBs](non-depolarising_nmbs.md)
   * [Dantrolene](dantrolene.md)

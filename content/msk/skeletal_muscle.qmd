@@ -1,12 +1,20 @@
 # Skeletal Muscle
 
-> Describe the anatomy and physiology of skeletal ~~, smooth, and cardiac~~ muscle
+:::CICM
+Describe the anatomy and physiology of skeletal ~~, smooth, and cardiac~~ muscle
+\
+\
+Describe the mechanism of excitation-contraction coupling
+\
+\
+Describe the relationship between muscle length and tension
+:::
 
-<!--></!-->
+:::ANZCA
+Outline the physiology of skeletal muscle including mechanism of excitation contraction coupling
+:::
 
-> Describe the mechanism of excitation-contraction coupling
-
-Skeletal muscle has a number of functions:
+Functions of skeletal muscle include:
 
 * Facilitate movement
 * Posture\
@@ -18,52 +26,75 @@ Abdominal wall and pelvic floor support viscera.
 
 ## Structure and Contents
 
-Skeletal muscle consists of long tubular cells, known as muscle fibres, which run the length of the muscle. Skeletal muscle cells:
+Skeletal muscle consists of long tubular cells, known as **muscle fibres**, which run the length of the muscle. Muscle fibres consist of:
+
+* **Connective tissue** layer
+* Skeletal **muscle cells**\
+Contain **sarcomeres**, which are the **functional unit** of muscle.
+
+
+### Muscle Connective Tissue
+
+Muscle fibres are surrounded by **three layers** of connective tissue:
+
+* **Endomysium**\
+Thin layer which surrounds each muscle fibre.
+* **Perimysium**\
+Surrounds bundles of muscle fibres.
+* **Epimysium**\
+Thick layer which surrounds an entire muscle.
+
+These layers of connective tissue join at the end of a muscle to form a tendon or aponeurosis.
+
+
+### Muscle Cells
+
+Skeletal muscle cells:
 
 * Are under voluntary control from the somatic nervous system via α-motor fibres\
 α-motor fibres may control multiple myofibres, forming a **motor unit**.
 * Are 10-100μm in diameter
 * Contain several hundred peripheral nuclei
-* Contain multiple mitochondria
-    * Slow oxidative fibres (red fibres)\
-    Contain multiple mitochondria, produce sustained contraction, and are resistant to fatigue.
-    * Fast glycolytic fibres (white fibres)\
-    Contain low numbers of mitochondria and large amounts of glycogen, and produce strong contractions but are more easily fatigued.
-* Contain sarcoplasmic reticulum\
-* Contain large amounts of glycogen\
+* Contain multiple mitochondria\
+Determines the fibre type:
+    * **Slow oxidative fibres** (red fibres)\
+        * Contain multiple mitochondria
+        * Produce sustained contraction
+        * Resistant to fatigue
+    * **Fast glycolytic fibres** (white fibres)\
+        * Contain low numbers of mitochondria
+        * Contain large amounts of glycogen
+        * Produce strong contractions
+        * Are more easily fatigued
+* Contain **sarcoplasmic reticulum**\
+* Contain large amounts of **glycogen**\
 ~200g total.
 * Contain myoglobin
 * Appear striated microscopically due to the arrangement of myofibrils\
     * Myofibrils are multiple myofilaments arranged in parallel
     * Myofilaments are formed from multiple sarcomeres arranged in series
-    * A sarcomere is the functional unit of muscle
 
-Muscle fibres are surrounded by layers of connective tissue:
-
-* Endomysium\
-Thin layer which surrounds each muscle fibre.
-* Perimysium\
-Surrounds bundles of muscle fibres.
-* Epimysium\
-Thick layer which surrounds an entire muscle.
-
-These layers of connective tissue join at the end of a muscle to form a tendon or aponeurosis.
 
 ### Sarcomere
 
-The sarcomere is the functional contractile unit of muscle. Average sarcomere length is 2.5μm.
-
-The sarcomere contains two main proteins:
+The sarcomere is the functional contractile unit of muscle, and contains two main proteins:
 
 * Myosin (**thick**) filaments\
 Myosin is a large protein with two heads, which bind actin and ATP. The myosin head flexes on its neck during contraction.
 * Actin (**thin**) filaments\
 **Actin** is a smaller protein than myosin, and potentiates the ATPase of myosin. Actin filaments have a groove which contains another protein called **tropomyosin**, to which **troponin** attaches to.
     * Troponin has three subunits:
-        * Troponin T - binds troponin to tropomyosin
-        * Troponin I - prevents myosin binding to actin by physically obstructing the binding site
-        * Troponin C - Binds Ca^2+^ which initiates contraction
-  \
+        * Troponin T\
+        Binds troponin to tropomyosin.
+        * Troponin I\
+        Prevents myosin binding to actin by physically obstructing the binding site.
+        * Troponin C\
+        Binds Ca^2+^ which initiates contraction.
+
+:::column-margin
+The average sarcomere length is 2.5μm.
+:::
+
 These proteins are arranged to form three bands and two lines:
 
 * A-band\
@@ -77,26 +108,28 @@ Each end of the sarcomere. Actin from adjacent sarcomeres are connected at the Z
 * M-line\
 Band of connections between myosin filaments.
 
-![](http://www.lab.anhb.uwa.edu.au/mb140/corepages/muscle/Images/Mus1ani.gif)
 
 ## Excitation-Contraction Coupling
 
-Muscle contraction normally requires the coordination of electrical (signaling) events with mechanical events.
+Muscle contraction requires coordinating electrical (signaling) events with mechanical events. This occurs as follows:
 
-* In response to ACh stimulating nicotinic receptors, the Na^+^ and K^+^ conductance of the end-plate increases and an **end-plate potential** is generated
-* Muscle fibres undergo successive depolarisation and an action potential is generated along T tubules\
-These deliver the AP deep into the cell, and close to the sarcoplasmic reticulum.
-* Ca^2+^ is released from sarcoplasmic reticulum\
-This process involves:
-    * Dihydropyridine Receptor\
-    Specialised voltage-gated L-type Ca^2+^ channel, activated by T-tubular depolarisation. Responsible for a small amount of Ca^2+^ transport.
-    * Ryanodine Receptor\
-    A second Ca^2+^ channel which is attached to, and activated by, the dihydropyridine receptor, causing a much larger release of Ca^2+^.
-
-
-* Ca^2+^ is released from the SR (increasing intracellular Ca^2+^ 2000x) and binds to **troponin C**, weakening the troponin I - actin link and uncovering myosin-binding sites on actin
-* Cross-linkages form between actin and myosin, which releases ADP
-* The release of ADP triggers a **power stroke**, which is a process of attachment, pulling, and detachment\
+* **ACh stimulates nicotinic receptors**\
+↑ Na^+^ and K^+^ conductance of the end-plate, generating an **end-plate potential**.
+* **Muscle fibres** undergo successive **depolarisation**, generating an action potential along T tubules\
+These deliver the action potential deep into the cell, close to the sarcoplasmic reticulum.
+* **Ca^2+^** is **release**d from **sarcoplasmic reticulum**\
+    * **Initial release** occurs via the **Dihydropyridine receptor**\
+        * Specialised voltage-gated L-type Ca^2+^ channel, activated by T-tubular depolarisation
+        * Responsible for a small amount of Ca^2+^ transport
+    * **Secondary** release occurs via the **Ryanodine receptor**\
+        * Second Ca^2+^ channel which is attached to, and activated by, the dihydropyridine receptor
+        * Causes a much larger release of Ca^2+^\
+        Intracellular Ca^2+^ ~2000×.
+    * Ca^2+^ binds to **troponin C**, which:
+        * Weakens the troponin I - actin link
+        * Uncovers myosin-binding sites on actin
+* **Cross-linkages** form **between actin and myosin**, which releases ADP
+* ADP triggers a **power stroke**, which is a process of attachment, pulling, and detachment\
 Each cycle shortens the sarcomere by **~10nm**:
     * The myosin head rotates on its 'neck', moving to a new actin binding site
     * ATP binds to the (now free) binding site on the myosin
@@ -105,15 +138,18 @@ Each cycle shortens the sarcomere by **~10nm**:
         * The A-band is unchanged
         * The H-band shortens
         * The I-band shortens
- 
 
-* Power strokes continue as long as there is ATP and Ca^2+^ available
+![Sarcomere Contraction](/resources/muscle_animated.gif)
 
-* In relaxation:
-    * Ca^2+^ is pumped back into the sarcoplasmic reticulum\
-    This is an ATP-dependent process, and is why muscle relaxation is active.
-    * Troponin releases Ca^2+^
-    * Binding sites are occluded by troponin, and no further contraction occurs
+### Muscular Relaxation:
+
+Power strokes continue as long as there is ATP and Ca^2+^ available. Therefore, in order to relax:
+
+* Ca^2+^ is pumped back into the sarcoplasmic reticulum\
+This is an ATP-dependent process, and is why muscle relaxation is active.
+* The ↓ intracellular Ca^2+^ causes troponin to release Ca^2+^
+* Myosin binding sites on the actin are occluded by troponin, and no further contraction occurs
+
 
 ---
 
@@ -121,4 +157,5 @@ Each cycle shortens the sarcomere by **~10nm**:
 
 1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
 2. Barrett KE, Barman SM, Boitano S, Brooks HL. Ganong's Review of Medical Physiology. 24th Ed. McGraw Hill. 2012.
-3. Slomianka, L. [Muscle](http://www.lab.anhb.uwa.edu.au/mb140/corepages/muscle/muscle.htm). University of Western Australia - School of Anatomy and Human Biology.
+3. Slomianka, L. [Muscle](http://www.lab.anhb.uwa.edu.au/mb140/corepages/muscle/muscle.htm). University of Western Australia - School of Anatomy and Human Biology.\
+The animated muscle contraction image is from this source.
