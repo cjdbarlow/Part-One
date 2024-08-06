@@ -1,0 +1,50 @@
+# Carbohydrate Metabolism
+
+:::CICM
+Describe the physiology of ~~fat,~~ carbohydrate ~~and protein~~ metabolism
+:::
+
+## Storage
+
+Carbohydrates are stored in liver and muscle as glucose polymers known as **glycogen**. Glycogen:
+
+* Production is stimulated by insulin, which is released as plasma glucose levels rise following carbohydrate ingestion\
+When plasma glucose levels fall, the release of glucagon and adrenaline stimulates glycogenolysis.
+* Storage occurs in the liver and skeletal muscle
+    * The liver contains ~100g of glycogen\
+    This can maintain plasma glucose for ~24 hours.
+    * Skeletal muscle contains ~200g of glycogen\
+    This cannot be released into circulation, and is for use only by the muscle.
+
+
+
+## Glycolysis
+
+Glycolysis:
+
+* Also known as the **Embden-Meyerhof pathway**
+* Describes the process of converting glucose into pyruvate\
+* Occurs in the cytoplasm
+* Produces 2 ATP\
+* Does not consume oxygen or produce carbon dioxide
+Glycolysis can therefore occur under both aerobic and anaerobic conditions.
+
+
+## Gluconeogenesis
+
+Gluconeogenesis is the process that consumes ATP to produce glucose from other molecules. Gluconeogenesis is:
+
+* Simulated by glucagon
+* Inhibited by biguanides (metformin)
+* Fueled by:
+    * Lactate
+    * Pyruvate
+    * Glycerol
+    * Amino acids
+    * CAC-intermediates
+
+---
+
+## References
+
+1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.

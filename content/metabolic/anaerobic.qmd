@@ -1,6 +1,9 @@
 # Anaerobic Metabolism
 
-> Describe anaerobic metabolism and ketone production
+:::CICM
+Describe anaerobic metabolism and ketone production
+:::
+
 
 ## Lactate
 
@@ -27,6 +30,7 @@ Lactate is then:
     * Oxidised to pyruvate
     * Converted to glucose via the **Cori cycle**
 
+
 ## Ketones
 
 Ketones:
@@ -35,11 +39,11 @@ Ketones:
 * Acetyl-CoA usually enters the citric acid cycle to produce ATP\
 * When large amounts of acetyl CoA are produced, they may instead condense to form **acetoacetate**, which can then be reduced to **β-hydroxybutyrate**\
 These substances are known as ketones
-
 * Ketones can only be produced by the liver, and only used as a substrate by the kidney, as well as skeletal and cardiac muscle
 * Production of ketones is accelerated by glucagon and adrenaline
 
 ---
+
 ## References
 
 1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.

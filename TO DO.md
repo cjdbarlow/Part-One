@@ -37,14 +37,6 @@ quarto::quarto_preview()
 
 ## Pages to be reviewed and transferred
 
-* [Nutrition & Metabolism](basal_metabolic_rate.md#id)
-  * [Basal Metabolic Rate](basal_metabolic_rate.md)
-  * [Fat Metabolism](fat.md)
-  * [Carbohydrate Metabolism](carbohydrate_metabolism.md)
-  * [Protein Metabolism](protein_metabolism.md)
-  * [Requirements and Starvation](requirements_and_starvation.md)
-  * [Anaerobic Metabolism](anaerobic_metabolism.md)
-  * [Regulation of Body Temperature](regulation_of_body_temperature.md)
 * [Immunology](inflammation.md#id)
   * [Inflammation](inflammation.md)
   * [Innate Immunity](innate_immunity.md)

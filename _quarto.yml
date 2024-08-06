@@ -251,4 +251,12 @@ book:
           chapters:
             - content/msk/skeletal_muscle.qmd
             - content/msk/skeletal_muscle_innervation.qmd
-
+        - part: "Nutrition and Metabolism"
+          chapters:
+            - content/metabolic/bmr.qmd
+            - content/metabolic/fat.qmd
+            - content/metabolic/carbohydrate.qmd
+            - content/metabolic/protein.qmd
+            - content/metabolic/starvation.qmd
+            - content/metabolic/anaerobic.qmd
+            - content/metabolic/temperature.qmd

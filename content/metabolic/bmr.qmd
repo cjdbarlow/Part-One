@@ -1,0 +1,121 @@
+# Basal Metabolic Rate
+
+:::CICM
+Define basal metabolic rate and outline the factors that influence it
+:::
+
+:::ANZCA
+Outline the factors that influence metabolic rate
+:::
+
+**Basal Metabolic Rate** is the **energy output required to sustain life at rest**.
+
+* 'Resting' is defined as an individual who is:
+    * Fasted for 12 hours
+    * In a comfortable external environment
+    * At mental and physical rest 
+* Normal values are:
+    * 100W.day^-1^
+    * 70kcal.hr^-1^
+
+
+## Factors Affecting Metabolic Rate
+
+**Metabolic rate** is the **actual energy consumption** of an individual, and is greater than BMR due to a number of factors.
+
++--------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
+| Factor                   | Effect                                                                                                                                      | Detail                                                                                                       |
++==========================+=============================================================================================================================================+==============================================================================================================+
+| **Age**                  | BMR ↓ as age ↑                                                                                                                              | Neonates have a BMR twice that of an adult\                                                                  |
+|                          |                                                                                                                                             +--------------------------------------------------------------------------------------------------------------+
+|                          |                                                                                                                                             | Children have an ↑ BMR relative to that of an adult\                                                         |
+|                          |                                                                                                                                             +--------------------------------------------------------------------------------------------------------------+
+|                          |                                                                                                                                             | BMR ↓ by 2% for each decade of life                                                                          |
++--------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
+| **Body Composition**     | Lean muscle has a greater energy requirement than fat                                                                                       | Higher body fat percentage results in a lower BMR\                                                           |
+|                          |                                                                                                                                             +--------------------------------------------------------------------------------------------------------------+
+|                          |                                                                                                                                             | Females have a lower BMR for this reason alone                                                               |
++--------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
+| **Diet**                 | The **specific dynamic action** of food describes the ↑ metabolic rate in metabolic rate due to the energy required to assimilate nutrients | Generally ~10% ↑ in BMR\                                                                                     |
+|                          |                                                                                                                                             +--------------------------------------------------------------------------------------------------------------+
+|                          |                                                                                                                                             | Protein > carbohydrate > fat\                                                                                |
+|                          |                                                                                                                                             +--------------------------------------------------------------------------------------------------------------+
+|                          |                                                                                                                                             | Specific Dynamic Action for each macromolecule is not related to the respiratory quotient for that food type |
++--------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
+| **Exercise**             | Skeletal muscle is the largest and most variable source of energy consumption                                                               |                                                                                                              |
++--------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
+| **Environment**          | Cooler environments ↑ BMR\                                                                                                                  |                                                                                                              |
+|                          +---------------------------------------------------------------------------------------------------------------------------------------------+                                                                                                              |
+|                          | Temperate environments ↓ BMR up to 10%                                                                                                      |                                                                                                              |
++--------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
+| **Physiological state**s | Pregnancy ↑ BMR up to 20% in 2nd and 3rd trimester\                                                                                         |                                                                                                              |
+|                          +---------------------------------------------------------------------------------------------------------------------------------------------+                                                                                                              |
+|                          | Lactation ↑ BMR\                                                                                                                            |                                                                                                              |
+|                          +---------------------------------------------------------------------------------------------------------------------------------------------+                                                                                                              |
+|                          | Catecholamines ↑ metabolic rate                                                                                                             |                                                                                                              |
+|                          +---------------------------------------------------------------------------------------------------------------------------------------------+                                                                                                              |
+|                          | Corticosteroids ↑ metabolic rate                                                                                                            |                                                                                                              |
++--------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
+| **Disease states**       | Malignancy ↑ metabolic rate\                                                                                                                |                                                                                                              |
+|                          +---------------------------------------------------------------------------------------------------------------------------------------------+                                                                                                              |
+|                          | Sepsis ↑ metabolic rate\                                                                                                                    |                                                                                                              |
+|                          +---------------------------------------------------------------------------------------------------------------------------------------------+                                                                                                              |
+|                          | Hyperthyroidism ↑ metabolic rate                                                                                                            |                                                                                                              |
++--------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
+
+
+:::column-margin
+Men and women have equivalent BMR when adjusting for when adjusted for body lean mass.
+:::
+
+
+## Measurement of BMR using Indirect Calorimetry
+
+BMR is measured using **indirect calorimetry**, which calculates heat production via measurement of VO~2~ and VCO~2~.
+
+A number of methods exist to measure BMR. Which used depends on:
+
+* Whether the patient is intubated\
+i.e. All inspired and expired gases can be measured.
+* Whether they require supplementary oxygen
+
+When measuring BMR:
+
+* Patients should be relaxed and fasted
+* FiO~2~ needs to be calculated (or taken from the ventilator settings), and E~T~CO~2~ and E~T~O~2~ must be measured
+* Steady-state should be achieved across a five minute period
+    * The average MVO~2~ and MVCO~2~ changes by <10%
+    * The respiratory quotient ($RQ = { VCO_2 \over VO_2 }$) change by <5%
+        * This ratio will vary depending on the substances metabolised:
+            * Carbohydrates = 1
+            * Protein ≈ 0.8
+            * Fat ≈ 0.7
+
+:::column-margin
+The **respiratory quotient** is the value of $VCO_2 \over VO_2 $at steady-state, whilst the **respiratory exchange ratio** is affected by metabolic rate.
+:::
+
+A variety of equations can be used to calculate Resting Energy Expenditure. One is the **Weir equation**:
+
+$REE = 1.44 \times (3.94 \times VO_2 + 1.1 \times VCO_2)$, where:
+
+* $REE$ is in kCal.day^-1^
+* $VO_2$ is in L.min^-1^
+* $VCO_2$ is in L.min^-1^
+
+
+### Errors in Indirect Calorimetry
+
+* Air leaks and measurement errors
+* Measures consumption (rather than requirements)
+* Point estimate of a dynamic process
+
+
+---
+
+## References
+
+1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+1. Cordoza M, Chan LN, Bridges E, Thompson H. [Methods for Estimating Energy Expenditure in Critically Ill Adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7520823/). AACN Adv Crit Care. 2020 Sep 15;31(3):254–64. 
+2. ANZCA Feb/April 2006
+3. [LITFL - Indirect Calorimetry](http://lifeinthefastlane.com/ccc/indirect-calorimetry/)

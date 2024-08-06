@@ -1,6 +1,8 @@
-# Requirements and Starvation
+# Fasting
 
-> Describe the normal nutritional requirements
+:::ANZCA
+Describe the physiological consequences of fasting and starvation
+:::
 
 ## Fasting
 
@@ -37,8 +39,6 @@ Less than 24 hours.
         e.g. Muscle.
         * Increased FFA and ketone body use\
         β-oxidation of FFAs to meet ATP requirements, leading to formation of ketone body.
-
-
 * **Sustained fasting**\
 Greater than 24 hours. See starvation below.
 
@@ -77,11 +77,14 @@ There are three pathogenic mechanisms:
     * Phosphate
     * Potassium
 * Sodium and water retention occurs, which may precipitate cardiac failure
-* Increased carbon dioxide production increases minute ventilation and work of exhausted respiratory muscles
+* ↑ CO_2_ production increases minute ventilation and work of exhausted respiratory muscles
 
-Management is by slow institution of feeding and aggressive electrolyte management.
+:::column-margin
+Management of refeeding syndrome is by slow institution of feeding and aggressive electrolyte management.
+:::
 
 ---
+
 ## References
 
 1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.

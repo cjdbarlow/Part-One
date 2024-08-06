@@ -1,6 +1,8 @@
 # Fat Metabolism
 
-> Describe the physiology and biochemistry of fat~~, carbohydrate and protein~~ metabolism
+:::CICM
+Describe the physiology of fat~~, carbohydrate and protein~~ metabolism
+:::
 
 ## Digestion
 
@@ -9,7 +11,7 @@ Triglycerides are the main constituent of body fat in animals and vegetables, an
 As fats are not water soluble, they tend to clump together in chyme and are hard to digest due to the low surface area:volume ratio. **Emulsification** speeds up the digestive process, and occurs via the action of:
 
 * Bile salts\
-  Many bile salts have a hydrophobic and a hydrophilic end, which give a detergent action. Bile salts bound to fatty acids form a **mixed micelle** which can be further digested by enzymes or directly absorbed.
+Many bile salts have a hydrophobic and a hydrophilic end, which give a detergent action. Bile salts bound to fatty acids form a **mixed micelle** which can be further digested by enzymes or directly absorbed.
 * Partially digested fats 
 * Mechanical action of the stomach
 
@@ -21,15 +23,15 @@ Absorption occurs in a number of stages:
 
 * Mixed micelles, free fatty acids, monoacylglycerol, and cholesterols are absorbed via facilitated diffusion into the enterocyte
 * From the enterocyte:
-  * Short-chain fatty acids (those with < 12 carbon atoms) enter the portal vein and travel directly to the liver
-  * Long-chain fatty acids are re-esterified and packaged with a layer of **protein** and **cholesterol** to form a ** chylomicron**\
-  Re-esterification maintains the concentration gradient for diffusion of fatty acids, allowing further uptake to occur.
-    * Chylomicrons are ejected from the cell into the lymphatics and travel to the systemic circulation
-    * Chylomicrons are removed from circulation by **lipoprotein lipase**\
-    Lipoprotein lipase is found on capillary endothelium and bound to albumin.
-    * Lipoprotein lipase breaks down triglyceride in chylomicrons and VLDL to free fatty acids and glycerol\
-    This reaction uses **heparin** as a **cofactor**.
-    * Free fatty acids and glycerol are then free to enter adipose tissue
+    * Short-chain fatty acids (those with < 12 carbon atoms) enter the portal vein and travel directly to the liver
+    * Long-chain fatty acids are re-esterified and packaged with a layer of **protein** and **cholesterol** to form a **chylomicron**\
+    Re-esterification maintains the concentration gradient for diffusion of fatty acids, allowing further uptake to occur.
+        * Chylomicrons are ejected from the cell into the lymphatics and travel to the systemic circulation
+        * Chylomicrons are removed from circulation by **lipoprotein lipase**\
+        Lipoprotein lipase is found on capillary endothelium and bound to albumin.
+        * Lipoprotein lipase breaks down triglyceride in chylomicrons and VLDL to free fatty acids and glycerol\
+        This reaction uses **heparin** as a **cofactor**.
+        * Free fatty acids and glycerol are then free to enter adipose tissue
 
 ## Storage
 
@@ -37,15 +39,20 @@ Fat is stored as **triglycerides**, and forms the bulk of energy storage of the 
 
 Triglycerides are synthesised by the liver:
 
-* Occurs when insulin levels are high and glycogen stores are full
+* When insulin levels are high and glycogen stores are full
 * From excess carbohydrate and amino acids\
 These are converted to fatty acids and glycerol, and then esterified to form triglyceride. This is known as lipogenesis.
 
 ## Metabolism
 
-Free fatty acids can be absorbed by adipocytes for storage, or be **β-oxidised to acetyl CoA** in the liver, which can enter the citric acid cycle to produce ATP. 
+Free fatty acids can be:
+
+* Absorbed by adipocytes for storage
+* **β-oxidised to acetyl CoA** in the liver\
+Acetyl CoA can then enter the citric acid cycle to produce ATP. 
 
 ---
+
 ## References
 
 1. Chaney S. [Overview of Lipid Metabolism](https://www.med.unc.edu/neurology/files/documents/child-teaching-pdf/OVERVIEW%20OF%20LIPID%20METABOLISM.pdf). University of North Carolina School of Medicine. 2005.
