@@ -1,23 +1,26 @@
 # Innate Immunity
 
-> Describe the factors involved in the process of inflammation and the immune 
-response, including innate and acquired immunity
+:::CICM
+Describe the factors involved in ~~the process of inflammation and the immune response, including~~ innate ~~and acquired~~ immunity
+:::
 
-The innate immune system consists of protective mechanisms which are present life-long, and typically forms the first line of defence against pathogens.
+The innate immune system consists of a composite of protective mechanisms that typically form the first line of defence against pathogens. Innate immunity is characterised by:
 
-Key features of innate immunity include:
+* **Immediacy**
+* **Non-specific** response
+* **Not modified** by repeat exposures
 
-* Immediacy
-* Non-specific response
-* Not modified by repeat exposures
 
-The innate immune system consists of **three components**:
+## Components
+
+The innate immune system is composed from **three components**:
 
 * Physicochemical barriers
 * Humoral mechanisms
 * Cellular Mechanisms
 
-## Physicochemical Barriers
+
+### Physicochemical Barriers
 
 These include:
 
@@ -29,9 +32,10 @@ These include:
 * Urination\
 Optimised by high flow rates and low residual bladder volumes.
 
-## Innate Humoral Mechanisms
 
-Humoral mechanisms describes the role of inflammatory proteins in innate immunity:
+### Innate Humoral Immunity
+
+Humoral mechanisms describes the role of inflammatory proteins in innate immunity, and are divided into:
 
 * **Complement**\
 The complement system is a complex group of about **25 plasma proteins** important in both innate and adaptive immunity.
@@ -50,8 +54,6 @@ The complement system is a complex group of about **25 plasma proteins** importa
       Attracts leucocytes.
       * Mast cell degranulation\
       Augments inflammation.
-
-
 * **Acute-Phase Proteins**\
 Inflammatory proteins with a number of effects:
     * Opsonisation
@@ -60,19 +62,16 @@ Inflammatory proteins with a number of effects:
         * Dilatation and increased capillary permeability
         * Endothelial activation increasing leukocyte adhesion
         * Attraction of neutrophils and monocytes
-
-
 * **Proteolytic enzymes**\
 Bactericidal enzymes located in saliva, tears, respiratory mucous, and neutrophils.
 
-## Innate Cellular Mechanisms
+
+### Innate Cellular Immunity
 
 Cellular components of the innate immune system include:
 
 * **Mast cells**\
 Exist in loose connective tissue and mucosa, and contain many intracellular granules of heparin and histamine.
-
-
 * **Leukocytes**\
     * Neutrophils (60% of all leukocytes)\
     Phagocytose bacteria and fungi (15-20 per neutrophil). This process consists of a number of steps:
@@ -101,6 +100,7 @@ Exist in loose connective tissue and mucosa, and contain many intracellular gran
 
 
 ---
+
 ## References
 
 1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.

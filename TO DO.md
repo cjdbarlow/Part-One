@@ -22,6 +22,7 @@ quarto::quarto_preview()
 * Last updated on bottom of each page
   * Perhaps an R block which gets the last-modified of the file it is running from, that is called by a separate include/file run from include-after-body
 * Adjust image size
+* Add LITFL header
 
 
 ## PDF
@@ -37,11 +38,6 @@ quarto::quarto_preview()
 
 ## Pages to be reviewed and transferred
 
-* [Immunology](inflammation.md#id)
-  * [Inflammation](inflammation.md)
-  * [Innate Immunity](innate_immunity.md)
-  * [Adaptive Immunity](adaptive_immunity.md)
-  * [Hypersensitivity](hypersensitivity.md)
 * [Microbiology](classification_of_micro-organisms.md#id)
   * [Classification of Microorganisms](classification_of_micro-organisms.md)
   * [Antimicrobial Resistance](antimicrobial_resistance.md)

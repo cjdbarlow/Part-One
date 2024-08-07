@@ -260,3 +260,9 @@ book:
             - content/metabolic/starvation.qmd
             - content/metabolic/anaerobic.qmd
             - content/metabolic/temperature.qmd
+        - part: "Immunology"
+          chapters:
+            - content/immune/inflammation.qmd
+            - content/immune/innate_immunity.qmd
+            - content/immune/adaptive_immunity.qmd
+            - content/immune/hypersensitivity.qmd
