@@ -38,10 +38,6 @@ quarto::quarto_preview()
 
 ## Pages to be reviewed and transferred
 
-* [Microbiology](classification_of_micro-organisms.md#id)
-  * [Classification of Microorganisms](classification_of_micro-organisms.md)
-  * [Antimicrobial Resistance](antimicrobial_resistance.md)
-  * [Antiseptics](antiseptics.md)
 * [Obstetrics & Neonates](respiratorypreg.md#id)
   * [Respiratory Changes](respiratorypreg.md)
   * [Cardiovascular Changes](cardiovascular_changes_in_pregnancy.md)
@@ -189,6 +185,7 @@ quarto::quarto_preview()
   * [Antifibrinolytics](antifibrinolytics.md)
   * [Antiplatelets](antiplatelets.md)
 * [Antimicrobials](penicillins.md#id)
+  * [Antiseptics](antiseptics.md) # CURRENTLY IN MICRO FOLDER
   * [Penicillins](penicillins.md)
   * [Glycopeptides](glycopeptides.md)
   * [Aminoglycosides](aminoglycosides.md)

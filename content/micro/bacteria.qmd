@@ -1,0 +1,96 @@
+# Bacteria
+
+:::CICM
+Describe the classification of bacterium.
+:::
+
+Bacteria are **prokaryotic** organisms, and are generally classified by the combination of:
+
+* **Gram stain**\
+Gram staining:
+    * Separates bacteria according to their **cell wall composition**
+    * Cannot be used on organisms that lack a cell wall, such as mycoplasma
+    * Occurs applying a **crystal violet** stain followed by an **iodine** solution to the slide, which is then **washed with a solvent**
+        * * **Gram +ve** organisms will **retain the stain** due to their **thick peptidoglycan cell wall**, whilst gram negative organisms become colourless
+        * A **safranin pink stain** is then applied, which stains the **gram -ve** bacteria **pink**
+* **Shape**\
+Bacteria can also be classified by shape into:
+    * **Cocci**\
+    Appear round on microscopy.
+    * **Rods**
+
+
+: Examples of Clinically Relevant Bacteria
+
++----------+----------------------------+--------------------------+
+| Examples | Gram Positive              | Gram Negative            |
++==========+============================+==========================+
+| Cocci    | *Staphylococcus Aureus*\   | *N. Meningitidis*\       |
+|          | *Streptococcus Pneumoniae* | *N. Gonorrhoea*          |
++----------+----------------------------+--------------------------+
+| Rods     | *Listeria monocytogenes*\  | *Escherichia Coli*\      |
+|          | *Clostridium difficile*    | *Pseudomonas aeruginosa* |
++----------+----------------------------+--------------------------+
+
+:::column-margin
+*Most* clinically relevant bacteria can be classified in this fashion, but it does not capture spirochetes, mycoplasmas, chlamydias, and other less commonly encountered organisms.
+\
+A more complete classification uses six properties:
+
+1. Cell Wall Structure\
+Includes:
+    * Flexible (e.g. Spirochetes)
+    * Rigid
+    * Non-existent\
+    e.g. *Mycoplasma spp.*
+2. Morphology
+    * Unicellular
+    * Filamentous
+3. Growth Location
+    * Extracellular
+    * Obligate intracellular parasites\
+    e.g. *Chlamydia spp.*
+4. Gram Stain
+    * Gram positive
+    * Gram negative
+5. Shape
+    * Cocci
+    * Rods
+6. O~2~ tolerance
+    * Aerobes
+    * Anaerobes\
+    e.g. *Clostridium spp.*
+:::
+
+
+## Bacterial Subclassification
+
+Additional testing can be done to further classify bacteria:
+
+* **Catalase** testing is performed on **Gram positive cocci**\
+Hydrogen peroxide is added to a bacterial sample, and in the presence of catalase will produce **oxygen**.
+    * Catalase positive indicates Staphylococci
+    * Catalase negative indicates Streptococci (and enterococci) 
+* **Coagulase** testing is performed on Staphylococcal species\
+Coagulase is an enzyme which cleaves fibrinogen to fibrin. The staphylococcal colony is added to rabbit plasma and incubated. In the presence of coagulase, fibrin is formed.
+    * Coagulase positive strongly suggests *S. Aureus*
+    * Coagulase negative examples include *S. epidermidis* or *S. saprophyticus* 
+* **Haemolytic** testing is performed on Streptococcal species\
+Bacterial colonies are added to blood agar, and the colour change (due to haemolysis) is noted.
+    * **α haemolytic** organisms produce dark green agar, as methaemoglobin is produced by hydrogen peroxide produced by these organisms. Examples include:
+        * *Strep. pneumoniae*
+        * *Strep. viridans*
+ * **β-haemolytic** organisms produce yellow agar from complete haemolysis. Examples include:
+     * *Strep. pyogenes*
+     * *Strep. agalactiae*
+ * **γ-haemolytic** organisms leave the agar unchanged. Examples include:
+     * *E. faecalis*
+     * *E. faecium*
+
+
+---
+
+## References
+
+1. Harvey RA, Cornelissen CN, Fisher BD. Lippincott Illustrated Reviews: Microbiology (Lippincott Illustrated Reviews Series). 3rd Ed. LWW.
+2. CICM September/November 2008

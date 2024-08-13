@@ -1,0 +1,52 @@
+# Eukaryotes
+
+:::CICM
+Broadly outline the classification of ~~viruses and~~ fungi.
+:::
+
+Eukaryotic organisms include fungi, protozoa, and helminths, as well as plants and animals. They differ from prokaryotic organisms in a number of ways:
+
+| Property               | **Prokaryotes**  | **Eukaryotes**                        |
+|------------------------|------------------|---------------------------------------|
+| Chromosomes            | Single, circular | Multiple                              |
+| Nucleus and Organelles | None             | Membrane bound nucleus and organelles |
+| Cell wall              | Usually          | In plants                             |
+| Ribosome               | 70S              | 80S in cell, 70S in organelles        |
+| Size                   | 0.2-2mm          | 10-100mm                              |
+
+
+Clinically relevant eukaryotes include:
+
+* **Fungi**\
+Typically feed on dead/decomposing/the immunocompromised, and produce spores. Fungi are subclassified into:
+    * **Yeasts**\
+    Yeasts are unicellular. They are divided into:
+        * Candida
+            * Albicans
+            * Non-albicans
+            Historically more treatment resistant.
+        * Cryptococcus
+    *  **Moulds**\
+    Moulds are filamentous. Include:
+        * Aspergillus
+        * Penicillium
+    * **Dimorphous**\
+    Have characteristics of both yeasts and moulds. Include:
+        * Histoplasma
+* **Protozoa**\
+Parasitic single-celled eukaryotes. Protozoa can be:
+    * Intracellular or extracellular
+* **Helminths**\
+Parasitic multi-celled eukaryotes. Helminths can be:
+    * Intracellular or extracellular
+    * Divided into:
+        * Tapeworms (cestodes)
+        * Flukes (trematodes)
+        * Roundworms (nematodes)
+
+---
+
+## References
+
+1. Harvey RA, Cornelissen CN, Fisher BD. Lippincott Illustrated Reviews: Microbiology (Lippincott Illustrated Reviews Series). 3rd Ed. LWW.
+2. CICM September/November 2008

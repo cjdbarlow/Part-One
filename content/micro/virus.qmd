@@ -1,0 +1,31 @@
+# Viruses
+
+:::CICM
+Broadly outline the classification of viruses ~~and fungi~~.
+:::
+
+Viruses:
+
+* Consist of molecules of either DNA or RNA shielded in a protein coat
+* Require the use of host cell structures for reproduction and are therefore **obligate intracellular parasites**
+* Can be classified by **five** properties:
+    1. **DNA/RNA**\
+    DNA viruses replicate in the cell nucleus using a host polymerase.
+    2. Double-**stranded** or single-stranded\
+        * *Most* DNA viruses are double-stranded (dsDNA)
+        * *Most* RNA viruses are single-stranded (ssRNA)
+    3. Negative-**sense** or positive-sense (**single-stranded viruses only**) 
+        * Positive-sense genomes may be translated directly into mRNA
+        * Negative-sense genomes require an RNA-dependent RNA polymerase to translate them to a positive-sense strand prior to translation.
+    4. **Capsid Symmetry**\
+    The protein coat may be either icosahedral or helical
+    5. **Enveloped** or non-enveloped\
+    In addition to a protein coat, viruses may have a lipid membrane (acquired from the host cell) around their protein coat.
+
+
+---
+
+## References
+
+1. Harvey RA, Cornelissen CN, Fisher BD. Lippincott Illustrated Reviews: Microbiology (Lippincott Illustrated Reviews Series). 3rd Ed. LWW.
+2. CICM September/November 2008
