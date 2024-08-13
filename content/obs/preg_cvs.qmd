@@ -1,0 +1,59 @@
+# Cardiovascular Changes of Pregnancy
+
+:::CICM
+Explain the physiological changes during pregnancy and parturition
+:::
+
+:::ANZCA
+Describe the physiological changes and their implications for anaesthesia that occur during pregnancy, labour and delivery, in particular the ~~respiratory~~, cardiovascular~~, haematological and gastrointestinal~~ changes.
+:::
+
+Pregnancy is a time of ↑↑ metabolic demand, which is reflected in the cardiovascular adaptations. These include:
+
+* ↑ Intravascular volume\
+Occurs via two mechanisms:
+    * ↑ **Oestrogen** causes an **↑ plasma volume**
+        * This ↓ capillary oncotic pressure, predisposing to oedema\
+        This may be exacerbated by the gravid uterus compressing the IVC, especially near-term
+    * ↑ **EPO** causes an **↑ red cell volume**
+* ↑ Venous return\
+Due to ↑ intravascular volume and MSFP.
+  * The gravid uterus may compress the IVC and impair VR, hence pregnant women are positioned with a left lateral tilt to displace the uterus off the IVC
+* ↑ VR causes an ↑ in CO, with both an ↑ in HR and SV, as well a ↓ in SVR
+* ↓ SVR results in ↓ SBP, DBP and MAP, which occurs despite the ↑ in CO
+
+## Magnitude of Changes by Trimester
+
++-------------------+-----------+-----------------+-----------------+-----------------+-----------------------------------------------------------------+---------------------------------------------------------------------------------+
+| Parameter         | Direction | 1^st^ Trimester | 2^nd^ Trimester | 3^rd^ Trimester |                                                                 | Notes                                                                           |
++===================+===========+=================+=================+=================+=================================================================+=================================================================================+
+| **Plasma volume** | ↑         | 35%             | 45%             | 50%             | <img src="/resources/maternal-volume.svg" style="width: 15pc;"> | Peaks between 32-36^th^ week, ↓ slightly thereafter                             |
++-------------------+-----------+-----------------+-----------------+-----------------+-----------------------------------------------------------------+---------------------------------------------------------------------------------+
+| **Blood volume**  | ↑         | 5%              | 15%             | 20%             |                                                                 | ↑ Less than the ↑ in plasma volume, resulting in the fall in haematocrit to 33% |
++-------------------+-----------+-----------------+-----------------+-----------------+-----------------------------------------------------------------+---------------------------------------------------------------------------------+
+| **HR**            | ↑         | 15%             | 18%             | 25%             | <img src="/resources/maternal-hr.svg" style="width: 15pc;">     | ↑ Progressively throughout                                                      |
++-------------------+-----------+-----------------+-----------------+-----------------+-----------------------------------------------------------------+---------------------------------------------------------------------------------+
+| **SV**            | ↑         | 20%             | 25%             | 30%             | <img src="/resources/maternal-sv.svg" style="width: 15pc;">     | ↑ Progressively throughout                                                      |
++-------------------+-----------+-----------------+-----------------+-----------------+-----------------------------------------------------------------+---------------------------------------------------------------------------------+
+| **CO**            | ↑         | 20%             | 40%             | 45%             | <img src="/resources/maternal-co.svg" style="width: 15pc;">     | ↑ Throughout, and dramatically in labour                                        |
++-------------------+-----------+-----------------+-----------------+-----------------+-----------------------------------------------------------------+---------------------------------------------------------------------------------+
+
+### Other Changes
+
+<img src="/resources/maternal-bp.svg" style="width: 15pc;">
+<img src="/resources/maternal-hb.svg" style="width: 15pc;">
+<img src="/resources/maternal-svr.svg" style="width: 15pc;">
+
+## Changes During Labour
+
+* Uterine contraction boluses ~300ml of blood into the maternal circulation\
+Causes an ↑ in CO by up to 30% during the active phase and 45% during ejection.
+    * Associated with corresponding increase in SBP and DBP by 10-20mmHg
+* Post-partum CO is up to 80% of pre-labour values due to autotransfusion, and returns to normal within 2 weeks of delivery
+
+<img src="/resources/labor-co.svg">
+
+---
+## References
+
+1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.

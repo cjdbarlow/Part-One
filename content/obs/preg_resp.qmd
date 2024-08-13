@@ -1,19 +1,28 @@
 # Respiratory Changes of Pregnancy
 
-> Explain the physiological changes during pregnancy, and parturition
+:::CICM
+Explain the physiological changes during pregnancy and parturition.
+:::
 
-Respiratory changes in pregnancy are a function of two things:
+:::ANZCA
+Describe the physiological changes and their implications for anaesthesia that occur during pregnancy, labour and delivery, in particular the respiratory~~, cardiovascular, haematological and gastrointestinal~~ changes.
+:::
+
+Respiratory changes in pregnancy are a function of:
 
 * Anatomical compression of the chest
-* Increased VO~2~ and VCO~2~
+* ↑ VO~2~ and VCO~2~
 
 ## Anatomical Changes
 
-* Diaphragm pushed upwards by ~**4cm**
-* Increased AP and transverse diameter of the chest wall (~2-3cm)
-* Large airway dilation, reducing airway resistance by ~35%
+Key anatomical changes include:
 
-## Volumes and Capacities
+* Superior displacement of the diaphragm by ~**4cm**
+* ↑ AP and transverse diameter of the chest wall (~2-3cm)
+* Large airway dilation, ↓ airway resistance by ~35%
+
+
+### Volumes and Capacities
 
 From conception until term:
 
@@ -35,23 +44,24 @@ From ~20 weeks until term:
 
 **Progesterone** stimulates respiratory centres, shifting the O~2~ and CO~2~ response curves to the left which causes hyperventilation and a **respiratory alkalosis**. From conception until term:
 
-* MV increases by 50%
-    * 10% increase in RR
-    * 40% increase in V~T~
-* PCO~2~ falls to ~26-32mmHg, with a compensatory drop in plasma [HCO~3~^-^] to 18-21mmol.L^-1^
+* MV ↑ by 50%
+    * 10% ↑ in RR
+    * 40% ↑ in V~T~
+* PCO~2~ ↓ to ~26-32mmHg, with a compensatory drop in plasma [HCO~3~^-^] to 18-21mmol.L^-1^
 
 
 ## Labour and Postpartum
 
 During labour:
 
-* MV increases 70% due to pain and increased oxygen demand
+* MV ↑ 70% due to pain and ↑ O~2~ demand
 * This causes hypocapnea, so cessation of uterine contractions (and the associated pain and oxygen demand) are followed by a hypoventilatory period producing desaturation
 
 FRC and RV return to normal within 48 hours of delivery.
 
 
 ---
+
 ## References
 
 1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.

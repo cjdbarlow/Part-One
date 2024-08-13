@@ -272,3 +272,9 @@ book:
             - content/micro/virus.qmd
             - content/micro/fungi.qmd
             - content/micro/resistance.qmd
+        - part: "Obstetrics"
+          chapters:
+            - content/obs/preg_resp.qmd
+            - content/obs/preg_cvs.qmd
+            - content/obs/foetal.qmd
+            - content/obs/placenta.qmd

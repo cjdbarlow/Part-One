@@ -38,11 +38,6 @@ quarto::quarto_preview()
 
 ## Pages to be reviewed and transferred
 
-* [Obstetrics & Neonates](respiratorypreg.md#id)
-  * [Respiratory Changes](respiratorypreg.md)
-  * [Cardiovascular Changes](cardiovascular_changes_in_pregnancy.md)
-  * [Foetal Circulation](foetal_circulation.md)
-  * [The Placenta](the_placenta.md)
 * [Gastrointestinal System](gastric_secretions.md#id)
   * [Oesophagus](oesophagus.md)
   * [Gastric Secretions](gastric_secretions.md)

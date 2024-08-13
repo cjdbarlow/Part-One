@@ -1,48 +1,50 @@
 # Foetal Circulation
 
-
-> Explain the physiological changes during pregnancy, and parturition
+:::CICM
+Describe the transition from foetal to neonatal circulation and the establishment of ventilation.
+:::
 
 ## In Utero
 
-The foetal circulation has a number of structural differences:
+The foetal circulation has a number of structural differences to the adult circulation:
 
 * Two **umbilical arteries**\
-The umbilical artery returns deoxygenated blood to the placenta.
-  * PO~2~ of 18mmhg (SpO~2~ 45%)
-  * Over 50% of the combined output of both foetal ventricles enters the placenta
+Return deoxygenated blood to the placenta.
+    * PO~2~ of 18mmhg (SpO~2~ 45%)
+    * Over 50% of the combined output of both foetal ventricles enters the placenta
 * One **umbilical vein**\
-The umbilical vein supplies oxygenated blood to the foetus.
-  * Has a PaO~2~ of 28mmHg (SpO~2~ 70%)
-  * 60% of blood from the umbilical vein enters the IVC
-  * 40% of blood enters the liver
+Supplies oxygenated blood to the foetus.
+    * Has a PaO~2~ of 28mmHg (SpO~2~ 70%)
+    * 60% of blood from the umbilical vein enters the IVC
+    * 40% of blood enters the liver
 * Two ducts:
-  * **Ductus venosus**\
-  Shunts blood from the umbilical vein to the IVC.
-  * **Ductus arteriosus**\
-  Shunts blood from the pulmonary trunk to the descending aorta.
+    * **Ductus venosus**\
+    Shunts blood from the umbilical vein to the IVC.
+    * **Ductus arteriosus**\
+    Shunts blood from the pulmonary trunk to the descending aorta.
 * A **foramen ovale**\
 Shunts blood from the right atrium to the left atrium.
 * **Immature myocardium**\
 Foetal myocardium does not obey Starlings Law, and does not adjust contractility for any given preload. Therefore:
-  * SV is fixed
-  * CO is HR dependent\
-  Normal HR at term is 110-160 bpm.
+    * SV is fixed
+    * CO is HR dependent\
+    Normal HR at term is 110-160 bpm.
 
 These structural difference alter the pathway of blood circulation:
 
 * Oxygenated blood returns via the umbilical vein
-  * 40% flows to the liver
-  * 60% is returned to the IVC
+    * 40% flows to the liver
+    * 60% is returned to the IVC
 * Oxygenated blood in the IVC is directed via the Eustachian valve through the foramen ovale
 * Blood returning from the SVC is directed into the RV, and then into the descending aorta by the ductus arteriosus
-  * ~10% of RV output flows through the pulmonary circulation
-\
+    * ~10% of RV output flows through the pulmonary circulation
+
 
 This arrangement has several features:
- * Blood with the most oxygen is delivered to the arch vessels to supply the brain
- * Blood with the least oxygen is delivered to the umbilical arteries for gas exchange
- * Both the RV and the LV eject into systemic circulations, and are of similar size and wall thickness
+
+* Blood with the most oxygen is delivered to the arch vessels to supply the brain
+* Blood with the least oxygen is delivered to the umbilical arteries for gas exchange
+* Both the RV and the LV eject into systemic circulations, and are of similar size and wall thickness
 
 ## Changes at Birth
 
@@ -52,29 +54,30 @@ Several changes happen at birth:
 There is a transition from circulation in parallel to circulation in series.
 * An **FRC is established**\
 Reversal of hypoxic pulmonary vasoconstriction results in a rapid drop in PVR.
-* The cord is clamped\
+* The cord is clamped (or spasms, eventually)\
 The systemic vascular bed volume falls, and SVR increases due to the loss of the low-resistance placental circulation.
 
-* The fall in PVR lowers RV afterload\
+This results in:
+
+* A ↓ in RV afterload, secondary to the ↓ in PVR\
 RAP falls due to the loss of hypoxic pulmonary vasoconstriction.
-* The rise in SVR increases LV afterload\
+* An ↑ LV afterload, secondary to the ↑ in SVR\
 LAP rises as the LV moves up the Starling curve.
-* When LAP exceeds RAP, the foramen ovale closes\
-A degree (~10%) of residual shunt remains. Shunt is:
-  * Bidirectional\
-    * Left-to-right shunt is unconcerning
+* Closure of the foramen ovale when LAP > RAP\
+A degree (~10%) of residual shunt remains. This shunt is generally bidirectional, and:
+    * Left-to-right shunt is generally unconcerning
     * Right-to-left shunt has usually only minor effects on systemic SpO~2~\
     Will be increased with ↑ PaCO~2~, excessive PEEP, ↓ pH.
       * Beware **embolic material**\
       Don't forget the bubbles.
-
-* Increased left sided afterload causes **flow reversal** in the ductus arteriosus\
+* **Flow reversal** in the ductus arteriosus due to ↑ left-sided afterload\
 There is progressive closure of the ductus over hours to days, under the influence of prostaglandins and oxygenated blood flowing through the duct.
-
-* The ductus venosus progressively fibroses over a period of days to weeks
+* Progressive fibrosis of the ductus venosus\
+Over a period of days to weeks.
 
 
 ---
+
 ## References
 
 1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
