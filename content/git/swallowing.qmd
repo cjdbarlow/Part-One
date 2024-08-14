@@ -1,8 +1,14 @@
 # Swallowing
 
-> Describe the control of gastrointestinal motility, including sphincter function
+:::CICM
+Describe the control of gastrointestinal motility, including (oesophageal) sphincter function.
+:::
 
-Swallowing is divided into three phases:
+:::ANZCA
+Explain the physiology of swallowing.
+:::
+
+**Swallowing** is divided into **three phases**:
 
 * **Oral Phase**\
     * Voluntary
@@ -25,14 +31,18 @@ Swallowing is divided into three phases:
         * Antral pressure (10mmHg)
     * Oesophageal peristalsis
 
-Impairment of any of these processes increases risk of aspiration:
+
+:::column-margin
+Impairment of any of these processes ↑ risk of aspiration. These include:
 
 * Obtundation\
 Reduced cough reflex.
 * Muscular weakness
 * Impaired medullary coordination
+:::
 
 ---
+
 ## References
 
 1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.

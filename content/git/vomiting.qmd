@@ -1,43 +1,52 @@
-# Physiology of Vomiting
+# Vomiting
 
-> Describe the control of gastrointestinal motility, including sphincter function
+:::CICM
+Describe the control of gastrointestinal motility, including (oesophageal) sphincter function.
+:::
 
-Vomiting is the active, forceful expulsion of gastric contents from the stomach. It is different from regurgitation which is a passive process.
+:::ANZCA
+Explain the physiology of nausea and vomiting.
+:::
 
-It is a mechanism to expel toxic substances from the GIT.
+Vomiting is the active, forceful expulsion of gastric contents from the stomach. Vomiting is:
+
+* Distinct from regurgitation, which is a passive process
+* A mechanism to expel toxic substances from the GIT
 
 ## Stimulation
 
-Stimulants to vomiting can act centrally, or directly in the bowel:
+Stimulants for vomiting are divided into:
 
-* **Central stimulation**\
-    Central stimuli may act directly on the vomiting centre. Others act via the CTZ, which is part of the area postrema located outside of the blood-brain barrier, and so it can be stimulated by circulating substances.
-    Central vomiting stimuli include:
-    * Direct:
+* **Central stimuli**\
+Central stimuli may act:
+    * Directly on the vomiting centre\
+    Include:
         * Emotion
         * Pain
         * Olfactory
         * Visual
-    * Via the CTZ:
-        * Vestibular acting on:
-            * H~1~
-            * ACh
+    * Via the chemoreceptor trigger zone\
+    The CTZ is is part of the **area postrema**, and is located outside of the blood-brain barrier. Therefore, the CTZ can be stimulated by circulating substances that have not crossed the BBB. Stimuli include:
+        * Vestibular stimuli, acting via:
+            * H~1~ receptors
+            * ACh receptors
         * Drugs/Toxins acting on:
             * 5-HT~3~
             * D~2~
             * μ-opioid receptors
-
-
-<img src="/resources/nausea-coordination.svg"> 
-
-
 * **GIT stimulation**\
-    GIT stimuli travel SNS and PNS afferents to the vomiting centre. The CTZ is not involved and so anti-emetics which act here are not useful in this type of vomiting.
-
-    GIT vomiting stimuli include **distension** and **toxins**. Neurotransmitters include:
+GIT stimuli travel SNS and PNS afferents to the vomiting centre, and include **distension** and **toxins**. Neurotransmitters include:
     * 5-HT~3~ in mucosal stretch receptors
     * ACh in NTS afferents
     * H~1~ in NTS afferents
+
+:::column-margin
+![Nausea Coordination](/resources/nausea-coordination.svg)
+:::
+
+:::column-margin
+As CTZ is not involved in GIT-driven vomiting, anti-emetics which act there are typically ineffective.
+:::
 
 
 ### Postoperative Nausea and Vomiting
@@ -69,7 +78,7 @@ Central structures involved include:
         Likely not an independent risk factor, and simply confounded by female gender.
         * Strabismus surgery in children
 
-## Process of vomiting
+## Process of Vomiting
 
 Vomiting consists of a set of processes coordinated by the **vomit centre** in the medulla oblongata, and is divided into three phases:
 
@@ -88,6 +97,7 @@ Vomiting consists of a set of processes coordinated by the **vomit centre** in t
 
 
 ---
+
 ## References
 
 1. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.

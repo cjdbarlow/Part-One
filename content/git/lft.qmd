@@ -1,7 +1,12 @@
-# Laboratory Assessment of Liver Function
+# Liver Function Assessment
 
+:::CICM
+Describe the laboratory assessment of liver function.
+:::
 
-> Describe the laboratory assessment of liver function
+:::ANZCA
+Describe the laboratory assessment of liver function and hepatic failure.
+:::
 
 ## Synthetic Function
 
@@ -16,17 +21,16 @@ Main plasma protein.
         * Binding
             * Calcium
             * Drugs
-    * Decreased in liver dysfunction and malnutrition
+    * ↓ In liver dysfunction and malnutrition
 
-
-      \
 * **Coagulation Assays**\
 Clotting factors are produced by the liver. Hepatic impairment may result in reduced production and abnormality of clotting assays, although functional clotting function may be normal (as pro-coagulant proteins are affected to a similar extent).
     * INR\
     Test of the extrinsic pathway.
     * APTT\
     Test of intrinsic pathway.
-  \
+
+
 ## Metabolic Function
 
 Transaminases are released when liver parenchyma is damaged, and are used to evaluate metabolic function:
@@ -41,6 +45,7 @@ Normal range < 35 U.L^-1^.
 * ALP (Alkaline Phosphatase)\
 Enzyme involved in dephosphorylation of many compounds. ALP is found in all cells, but particularly in the liver, bile duct, bone, kidney, and placenta.
     * Normal range is 30-120 U.L^-1^
+    * May be ↑ in isolation in bone disease
 * GGT\
 Enzyme found in biliary duct.
     * Normal range:
@@ -50,6 +55,7 @@ Enzyme found in biliary duct.
 Byproduct of haemoglobin metabolism. May be measured as total, or as conjugated and unconjugated bilirubin.
 
 ---
+
 ## References
 
 1. Diaz, A. [Outline the clinical laboratory assessment of liver function](https://primarysaqs.files.wordpress.com/2009/12/2010b16outline-the-clinical-laboratory-assessment-of-liver-function.pdf). Primary SAQs.

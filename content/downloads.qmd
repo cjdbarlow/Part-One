@@ -11,4 +11,6 @@ Note that:
 	The download link will always point to the most recently updated version.
 * A companion <a href="resources/Part-One.apkg" target="_blank">set of flashcards</a>, made in [Anki](http:\\www.ankisrs.net)
 
+---
 :::
+

@@ -1,7 +1,21 @@
 # Functions of the Liver
 
+:::CICM
+Describe the functions of the liver.
+:::
 
-> Describe the storage, synthetic, metabolic and excretory functions of the liver
+:::ANZCA
+Outline the functions of the liver.
+:::
+
+Key liver functions include:
+
+* Storage
+* Synthesis
+* Metabolic
+* Immune
+* Acid-base
+
 
 ## Storage
 
@@ -17,13 +31,13 @@ The adult liver stores ~100g of glycogen.
 
 ## Synthetic
 
-Synthetic functions include:
+The liver is critical for synthesis of:
 
-* **Bile production**
-* Plasma proteins including:
-  * Clotting factors
-  * Albumin production\
-  120-300mg.kg^-1^ of albumin is produced per day, dependent on nutritional status, plasma oncotic pressure, and endocrine function. 
+* **Bile**
+* Plasma proteins:
+    * Clotting factors
+    * Albumin production\
+    120-300mg.kg^-1^ of albumin is produced per day, dependent on nutritional status, plasma oncotic pressure, and endocrine function. 
 
 ## Metabolic
 
@@ -35,22 +49,27 @@ Metabolic functions include:
 * Bilirubin metabolism
 * Drugs and Toxins
 
-### Carbohydrates
+
+### Carbohydrate Metabolism
+
+The liver is critical for the production and storage of glucose: 
 
 * Monosaccharides and disaccharides passively diffuse into hepatocytes\
 Gradient is maintained by converting glucose to glucose-6-phosphate which is used to produce glycogen. This maintains the gradient for diffusion.
 * Glycogen is either synthesised (glycogenesis) or broken down (glycogenolysis) depending on plasma glucose and insulin:
-  * Increased blood glucose stimulates insulin release, increasing the formation of glycogen through activation of glycogen synthetase
-  * Decreased blood glucose stimulates glycogenolysis and gluconeogenesis from amino acids.
-
-### Lipids
-
-* Fat can be:
-  * Stored as triglycerides
-  * Hydrolysed to glycerol and fatty acids, which is used for ATP production
+    * Increased blood glucose stimulates insulin release, increasing the formation of glycogen through activation of glycogen synthetase
+    * Decreased blood glucose stimulates glycogenolysis and gluconeogenesis from amino acids.
 
 
-### Proteins and Urea
+### Lipid Metabolism
+
+The liver is involved in both the production and consumption of fat, including:
+
+* Storage of triglycerides
+* Hydrolysis of fat to glycerol and fatty acids, which is used for ATP production
+
+
+### Protein Metabolism
 
 Amino acids are absorbed from blood to be used for gluconeogenesis and for protein synthesis. In order to produce substrates for the CAC, Amino acids may be:
 
@@ -65,28 +84,31 @@ The nitrogenous scrap of these reactions is urea, which is produced in several s
 * Ammonia then enters the urea cycle to produce (surprisingly) urea, at the cost of **3 ATP**
   * A normal diet of 100g protein per day produces ~30g of urea, and 1000mmol of hydrogen ions
 
+
 ## Endocrine
+
+The liver:
 
 * Produces angiotensinogen
 * Produces IGF-1
 * Converts T4 to T3
 
 
-## Immunoprotective
+## Immune Function
 
-* **Kupffer** cells\
-Tissue macrophages of the hepatic reticuloendothelial system. They phagocytose harmful substances including:
-  * Endotoxins
-  * Bacteria
-  * Viruses
-  * Immune complexes
-  * Thrombin
-  * Fibrin complexes
-  * Tumour cells
+The liver contains **Kupffer** cells, which are the tissue macrophages of the hepatic reticuloendothelial system. Kupffer cells phagocytose harmful substances including:
+
+* Endotoxins
+* Bacteria
+* Viruses
+* Immune complexes
+* Thrombin
+* Fibrin complexes
+* Tumour cells
 
 ## Acid-Base Balance
 
-May produce or consume large numbers of hydrogen ions:
+The liver may produce or consume large numbers of hydrogen ions:
 
 * Carbon dioxide production
 * Metabolism of organic acid anions
@@ -99,6 +121,7 @@ Notably albumin
 
 
 ---
+
 ## References
 
 1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.

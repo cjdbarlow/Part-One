@@ -278,3 +278,13 @@ book:
             - content/obs/preg_cvs.qmd
             - content/obs/foetal.qmd
             - content/obs/placenta.qmd
+        - part: "Gastrointestinal System"
+          chapters:
+            - content/git/oesophagus.qmd
+            - content/git/secretions.qmd
+            - content/git/gastric_emptying.qmd
+            - content/git/swallowing.qmd
+            - content/git/vomiting.qmd
+            - content/git/liver_function.qmd
+            - content/git/lft.qmd
+            - content/git/bile.qmd
