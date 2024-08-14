@@ -1,0 +1,108 @@
+# Blood Groups
+
+:::CICM
+Explain the major blood groups and the principles of cross matching.
+:::
+
+:::ANZCA
+Describe blood groups and the physiological basis of transfusion reactions.
+:::
+
+Blood groups refer to the expression of surface antigens by red blood cells, as well as any antibody in plasma. Blood groups can be divided into three types:
+
+* ABO
+* Rhesus
+* Other antibodies
+These are additional antibodies that a patient may express in plasma, and include Kell, Lewis, Duffy, etc.
+
+## ABO
+
+The ABO blood group is:
+
+* A complex carbohydrate-based antigens series\
+These may be either A or B antigen, and patients may express one, both, or neither, giving four blood groups (A, B, AB, O).
+* Expressed on the **H-antigen stem** of RBCs, and on the surface of tissue cells.
+    * The **Bombay Blood Group** (or **hh** or **Oh** group) describes individuals who do not express the H antigen\
+    These individuals:
+        * Don't express A- or B-antigen (as there is no H-antigen stem) and are 'universal donors'
+        * Express H-antibody\
+        Can only receive blood from other individuals with the Bombay phenotype
+* Individuals express IgM antibody to foreign blood groups\
+    This develops within 6 months of birth, likely due to environmental exposure to similar antigens.
+* Associated with a severe hypersensitivity reaction if an ABO-mismatch occurs
+
+:::column-margin
+: Antigen and Antibody by Blood Group
+
++-------+------------------------+-----------------+
+| Group | Red Blood Cell Antigen | Plasma Antibody |
++=======+========================+=================+
+| A     | A-antigen              | B-antibody      |
++-------+------------------------+-----------------+
+| B     | B-antigen              | A-antibody      |
++-------+------------------------+-----------------+
+| O     | \-                     | A-antibody\     |
+|       |                        | B-antibody      |
++-------+------------------------+-----------------+
+| AB    | A-antigen\             | \-              |
+|       | B-antigen              |                 |
++-------+------------------------+-----------------+
+:::
+
+## Rhesus
+
+The Rhesus blood group is the next most important group after ABO. The Rhesus system:
+
+* Consists of ~50 different antigens, the most important of which is **D**\
+Rhesus status is therefore expressed as positive (D - 85% of the population) or negative (anything-but-D).
+* Rhesus antibody does not naturally occur in Rh(-) individuals\
+    * This is relevant in Rhesus disease\
+    A Rh(-) mother exposed to Rh(+) blood will develop Anti-D antibody, which can cross placenta and induce abortion in a future Rh(+) foetus. This can occur with:
+        * Incompatible transfusion
+        * Foetal-maternal haemorrhage\
+
+
+## Compatibility Testing
+
+Donor blood must be tested with recipient blood to avoid a transfusion reaction. This involves three steps:
+
+* **Blood Typing** (ABO/Rh)\
+    * Patient's blood is mixed with samples of plasma known to contain Anti-A, Anti-B, or Anti-AB antibodies.
+    * Agglutination occurs when antibodies in the plasma react with the antigen on the RBC surface, and indicates a mismatch
+* **Antibody Screen**\
+For minor (non-ABO/Rh) group antibodies.
+    * Testing is similar to ABO screening, but now patient *plasma* is mixed with several samples of red cells which contain a known non-ABO/Rh antigen (e.g. Kell, Duffy), and monitored for agglutination
+* **Cross-match**\
+Two methods:
+    * **Electronic cross-match**\
+    Used if the antibody screen is negative and the patient has had no previous blood transfusion, as it is quicker and cheaper.
+    * **Serological cross match**\
+    Indicated if the antibody screen is positive, or the patient has had previous exposure to blood (prior transfusion, pregnancy), as this gives the patient a risk of exposure to non-ABO or Rh antigens.
+        * Performed by mixing patient plasma with a small sample of donor RBC and monitoring for agglutination
+        * If there is no agglutination, the transfusion can proceed with the tested specimen **only**
+
+
+### Indirect Coomb's Test
+
+Indirect Coomb's testing identifies IgG antibody in host *plasma* which would haemolyse transfused red cells, and involves:
+
+:::column-margin
+The indirect Coomb's test is now deprecated as it provides negligible additional safety over the above processes.
+:::
+
+* Incubating\
+  Binds IgG Ab to antigen on RBC membrane.
+* Washing\
+  Removes serum and unbound IgG.
+* Testing with an antibody *to* IgG, known as antiglobulin serum.
+  * A positive test will cause clumping of red cells, as each antiglobulin serum will bind two IgG molecules, which have in turn been bound to red cells
+  * A negative test will cause no agglutination, as the IgG has not been bound to red cells
+  * If negative, the antiglobulin serum is re-used on a control sample to ensure that it is not a false negative
+
+---
+
+## References
+
+1. Blood Service. [Classification & Incidence of Adverse Events](http://www.transfusion.com.au/adverse_transfusion_reactions/classification_and_incidence). Australian Red Cross.
+2. National Blood Authority. [Patient Blood Management Guidelines](http://www.blood.gov.au/pbm-guidelines). Australian Red Cross.
+3. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.

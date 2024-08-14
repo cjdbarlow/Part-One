@@ -1,0 +1,96 @@
+# Coagulation Testing
+
+:::CICM
+Outline the methods for assessing coagulation~~ (including TEG and ROTEM)~~.
+\
+\
+Outline the methods for assessing platelet function and fibrinolysis.
+:::
+
+:::ANZCA
+Outline the methods for assessing coagulation, platelet function and fibrinolysis.
+:::
+
+All **coagulation tests measure how long it takes to make fibrin**. However, each test evaluates different parts of the coagulation cascade, and so helps to localise *where* a coagulopathy may be occurring.
+
+In these tests:
+
+* Citrate is added to blood sample\
+Binds calcium and prevents clotting.
+* Sample is centrifuged
+* Plasma is decanted
+* Calcium (to replace the calcium lost by binding to citrate) and a reagent is added
+* Time taken to clot is measured
+
+### Prothrombin Time/INR
+
+The prothrombin time measures the **extrinsic pathway**. Any disorder of the extrinsic or common pathways will prolong the PT, i.e. deficiency or inhibition of:
+
+:::column-margin
+The extrinsic pathway is so named because a substance *extrinsic* to the sample (namely, Tissue Factor) must be added to initiate clotting.
+:::
+
+* Factor VII
+* Factor X
+* Factor II (prothrombin)
+* Factor V
+* Factor I (fibrinogen)
+
+However, as the PT varies significantly between different laboratories, the INR is used to allow values to be compared.
+
+Although warfarin affects factors in all three pathways, its clinical effects are measured using INR. This is because:
+
+* Factor VII has the shortest half-life of the clotting factors affected by warfarin\
+Therefore so its levels will fall the quickest.
+* Therefore a fall in Factor VII levels is the earliest indication of changes in coagulation status due to warfarin
+* As factor VII is only in the extrinsic pathway, the PT and INR are the only tests which can evaluate factor VII function
+
+### (Activated) Partial Thromboplastin Time
+
+The partial thromboplastin time measures the **intrinsic pathway**, which begins produce fibrin when activated by the addition of phospholipid to the sample (as phospholipid is contained in platelets, it is not technically "extrinsic").
+
+The *activated* partial thromboplastin time is the same test, except an activating agent is added to speed up the reaction. Any disorder of the intrinsic or common pathways will prolong the APTT, i.e. deficiency or inhibition of:
+
+:::column-margin
+**Anti-phospholipid antibodies** prolongs the APTT by binding the added phospholipid.
+:::
+
+* Factor XI
+* Factor IX
+* Factor VIII
+* Factor X
+* Factor V
+* Factor II (prothrombin)
+* Factor I (fibrinogen)
+
+Heparin affects both sides of the pathway (IIa, IXa, Xa, XIa) however typically affects intrinsic factors more than extrinsic factors.
+
+
+### Activated Clotting Time
+
+Activated Clotting Time is used for the dosing and reversal of heparin in cardiopulmonary bypass and other extracorporeal circuits. Testing involves:
+
+* Adding fresh whole blood to a tube with an activator (e.g. glass beads) to stimulate the intrinsic pathway
+* Measuring the time taken until clot formation occurs\
+Different activators will have different normal ranges as well as target ranges for the circuit in use.
+
+
+## Platelet Function Tests
+
+Platelet function testing:
+
+* Evaluates how well platelets aggregate in response to endogenous stimulators of platelet aggregation\
+These include:
+	* ADP
+	* Collagen
+	* Arachidonic acid
+	* Adrenaline
+* Involves adding aggregating agent is added to a tube of platelets, and measuring the change in turbidity\
+Different patterns of response (or non-response) can be diagnostic of different platelet function disorders.
+
+---
+
+## References
+
+1. Krafts K. Clot or Bleed: A Painless Guide for People Who Hate Coag. Pathology Student.
+2. [Activated Clotting Time](http://practical-haemostasis.com/Miscellaneous/Miscellaneous%20Tests/act.html) - Practical Haemostasis.

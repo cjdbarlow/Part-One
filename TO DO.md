@@ -37,14 +37,6 @@ quarto::quarto_preview()
 
 ## Pages to be reviewed and transferred
 
-* [Haematology](erythrocytes.md#id)
-  * [Erythrocytes](erythrocytes.md)
-  * [Iron Homeostasis](iron_homeostasis.md)
-  * [Platelets](platelets.md)
-  * [Transfusion](transfusion_reactions.md)
-  * [Haemostasis](clotting.md)
-  * [Haemostatic Regulation](unclotting.md)
-  * [Coagulopathy Testing](coagulopathy_testing.md)
 * [Equipment and Measurement](si_units.md#id)
   * [SI Units](si_units.md)
   * [Electrical Safety](electrical_safety.md)

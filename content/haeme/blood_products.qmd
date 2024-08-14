@@ -1,0 +1,115 @@
+# Blood Product Storage
+
+:::CICM
+Understand the pharmacology of blood and its components, including individual factor replacement.
+:::
+
+:::ANZCA
+Describe the changes that occur during blood storage and their clinical implications.
+\
+\
+Outline the changes that occur in stored blood.
+:::
+
+Fractionation of whole blood into components ↑ efficiency of a blood bank, and ↑ shelf life of the components.
+
+:::column-margin
+Blood can be stored for up to 35 days, which corresponds to 70% survival
+:::
+
+## Red Blood Cells
+
+Packed red blood cells are:
+
+* Collected in an aseptic fashion
+* Kept at ~4°C\
+Balance between freezing and being too warm.
+    * ↓ Cellular metabolic requirement
+    * Inhibits bacterial growth
+* Stored in special solutions:
+  * SAGM is currently used by the Australian Red Cross:
+      * Saline
+      * Adenine\
+      Substrate for ATP synthesis
+      * Glucose\
+      Substrate for RBC glycolysis
+      * Mannitol
+  * CPDA1 (citrate-phosphate-dextrose-adenine) was traditionally used
+      * Citrate binds calcium, preventing clotting
+      * Phosphate acts as a buffer and phosphate source for metabolism
+      * Dextrose 
+      * Adenine 
+
+
+### Storage Lesion
+
+Stored blood decays over time. The changes that occur in stored blood are known as **storage lesions**. This includes:
+
+* Loss of 2,3 DPG\
+Less of a factor in CPDA1 blood.
+* Haemolysis
+* Hyperkalaemia\
+Typically not clinically relevant as potassium is taken up into red cells when metabolism resumes.
+* Acidaemia
+* Hyponatraemia\
+Not clinically significant.
+
+
+## Platelets
+
+Platelets require particular storage conditions to remain functional:
+
+* Temperature ~22°C\
+Below this, platelets deform and become non-functional.
+* Gas exchange\
+Platelets are stored in a bag which allows gas exchange to occur, minimising lactic acid and carbon dioxide production.
+* Agitation\
+Platelets are stored on an agitator which prevents clotting and ensures the platelets are well mixed, which maximises the diffusion gradient for gas exchange.
+* pH control\
+pH is kept between 6.2 to 7.8 to prevent degranulation.
+
+As platelets do not contain antigen, there is not a *strict* requirement for platelets to be type matched. However:
+
+* Rh(+) platelets should be avoided in Rh(-) patients\
+The small amount of contaminating red cells may precipitate rhesus disease.
+* Plasma incompatibility should be avoided as this may lead to haemolysis of recipient red cells
+    * Children are at greater risk due to their proportionally smaller blood volume
+
+## Fresh Frozen Plasma
+
+Fresh Frozen Plasma is:
+
+* Prepared either via:
+    * Separation from whole blood
+    * Apheresis\
+    Removal of a large volume (typically 800ml) of plasma from a single patient, with return of red cells to the donor.
+* Frozen after collection and re-thawed in a water bath prior to use
+
+
+### Cryoprecipitate
+
+Cryoprecipitate is prepared by removing the precipitate from FFP which forms at 1–6°C. Cryoprecipitate contains predominantly:
+
+* Fibrinogen
+* Fibronectin
+* vWF
+* Factor VIII
+* Factor XIII
+
+
+### Whole Blood
+
+Stored whole blood undergoes additional changes:
+
+* White cells become nonfunctional within 4-6 hours of collection, though antigenic properties remain
+* Platelets become non-functional within 48 hours of storage at 4°C
+* Factor levels decrease significantly after 21 days
+
+
+---
+
+## References
+
+1. Blood Service. [Classification & Incidence of Adverse Events](http://www.transfusion.com.au/adverse_transfusion_reactions/classification_and_incidence). Australian Red Cross.
+2. National Blood Authority. [Patient Blood Management Guidelines](http://www.blood.gov.au/pbm-guidelines). Australian Red Cross.
+3. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.

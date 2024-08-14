@@ -1,8 +1,21 @@
 # Haemostatic Regulation
 
-> Describe the mechanisms of preventing thrombosis including endothelial factors and natural anticoagulants
+:::CICM
+Describe the mechanisms of preventing thrombosis including endothelial factors and natural anticoagulants.
+\
+\
+Describe the process and regulation of ~~haemostasis, coagulation and~~ fibrinolysis.
+:::
 
-Haemostasis must be controlled to prevent rampant clotting of the vascular tree. This involves both endothelial factors and proteins.
+:::ANZCA
+Describe the physiological mechanisms of limiting and preventing thrombosis.
+:::
+
+Haemostasis must be controlled to prevent rampant clotting of the vascular tree. This involves both:
+
+* Endothelial factors
+* Proteins
+
 
 ## Endothelial Regulation
 
@@ -13,26 +26,19 @@ Intact endothelium and the glycocalyx prevent clotting in a number of ways:
     Especially where flow is turbulent (large arteries).
     * Maximise laminar flow\
     Glycocalyx smooths flow.
-
-
 * **Inhibition of platelet adhesion and activation**\
 NO, prostacyclin, and ectonucleotidases  (which degrade ADP) inhibit platelet activation.
-
-
 * **Membrane-bound anticoagulant proteins**\
     * **Hepar*an*** (not hepar*in*)\
     Activates antithrombin III.
     * **Thrombomodulin**\
     Binds thrombin, preventing cleavage of fibrinogen to fibrin. The thrombin-thrombomodulin complex activates protein C (which in turn inactivates factors Va and VIIIa).
-
-
 * **Prevent exposure of procoagulant protein**\
     * Collagen
     * vWF
     * Tissue Factor
-
-
 * **tPA secretion** (see 'Clot Lysis')
+
 
 ## Clot Regulation
 
@@ -58,11 +64,11 @@ Clot breakdown is performed by:
 
 * Tissue Plasminogen Activator (**tPA**)\
 Binds to fibrin, and then cleaves plasminogen to plasmin. This keeps the plasmin formation in the vicinity of the clot, limiting its systemic spread of.
-
 * **Plasmin** cleaves fibrin into **fibrin degradation products**\
 FDPs conveniently inhibit further thrombin and fibrin formation.
 
 ---
+
 ## References
 
 1. Krafts K. Clot or Bleed: A Painless Guide for People Who Hate Coag. Pathology Student.

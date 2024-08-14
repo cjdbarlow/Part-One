@@ -288,3 +288,15 @@ book:
             - content/git/liver_function.qmd
             - content/git/lft.qmd
             - content/git/bile.qmd
+        - part: "Haematology"
+          chapters:
+            - content/haeme/erythrocytes.qmd
+            - content/haeme/iron.qmd
+            - content/haeme/platelets.qmd
+            - content/haeme/transfusion.qmd
+            - content/haeme/blood_products.qmd
+            - content/haeme/transfusion_reactions.qmd
+            - content/haeme/clotting.qmd
+            - content/haeme/unclotting.qmd
+            - content/haeme/coag_testing.qmd
+            - content/haeme/viscoelastic.qmd

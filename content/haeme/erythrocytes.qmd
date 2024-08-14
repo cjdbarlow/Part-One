@@ -1,6 +1,12 @@
 # Erythrocytes
 
-> Outline the physiological production of blood and its constituents
+:::CICM
+Outline the physiological production of blood and its constituents
+:::
+
+:::ANZCA
+Describe the physiological consequences of acute and chronic anaemia~~, including iron deficiency~~.
+:::
 
 Erythrocytes:
 
@@ -12,7 +18,7 @@ Erythrocytes:
     Maximises cell volume available for Hb.
     * No mitochondria\
     Cannot perform aerobic metabolism - all ATP is generated via glycolysis.
-    * No ribosomes
+    * No ribosomes\
     Incapable of producing protein
 * Have a **biconcave disc** shape\
 This maximises surface area (optimising gas transfer) and makes the cells flexible enough to pass through capillary beds (which are narrower than the cell).
@@ -26,14 +32,16 @@ This maximises surface area (optimising gas transfer) and makes the cells flexib
 
 ## Production
 
-Erythrocytes have a **myeloid progenitor** which differentiates into the myeloid line. EPO (see [endocrine functions of the kidney](endocrine_functions_of_the_kidney.md#epo) stimulates myeloid progenitor cells to:
-  * Differentiate
-  * Proliferate
+Erythrocytes have a **myeloid progenitor** which differentiates into the myeloid line. EPO stimulates myeloid progenitor cells to **differentiate** and then **proliferate**:
 
 * Proerythroblasts begin synthesis of Hb, with ongoing production occurring until the cell is mature
 * Further differentiation results in successive **loss of organelles**, **increasing Hb content**
 * The loss of **ribosomes** and **nucleus** of the reticulocyte are the final stage of erythropoiesis
 * The entire process takes ~7-10 days
+
+:::column-margin
+EPO is covered in detail under @sec-renal_endo.
+:::
 
 
 ## Function
@@ -45,19 +53,21 @@ Erythrocytes have a **myeloid progenitor** which differentiates into the myeloid
 * Metabolism\
 Esterases (and other -ases) in erythrocytes metabolise many drugs, including:
     * Remifentanil
-    * SNP (reacts with Hb to form NO, CN, and Met-Hb)
+    * SNP\
+    Reacts with Hb to form NO, CN, and Met-Hb.
     * Esmolol
+
 
 ## Elimination
 
 Old red cells are removed from circulation via:
 
-* Phagocytosis by macrophages in:
+* **Phagocytosis** by macrophages in:
     * Spleen\
     Major mechanism.
     * Liver
     * Bone marrow
-* Haemolysis\
+* **Haemolysis**\
 ~10% of red cell breakdown occurs in circulation, where the Hb dimers are then bound to **haptoglobin** by haemopexin.
     * This is important to prevent glomerular filtration of haeme, and loss of iron
 
@@ -66,11 +76,11 @@ Old red cells are removed from circulation via:
 
 **Haemoglobin** is broken down into:
 
-* Globin\
+* **Globin**\
 Broken down into constituent amino acids.
-* Iron\
+* **Iron**\
 Re-enters haemoglobin synthetic pathway.
-* Haeme\
+* **Haeme**\
 Complex metabolic pathway, notable as it is the only metabolic process that produces **carbon monoxide**:
     * Metabolised to **biliverdin** by splenic macrophages in the reticuloendothelial system of the **spleen**
         * Circulating erythrocytes are phagocytosed by splenic macrophages
@@ -87,16 +97,27 @@ This is fat soluble, and binds to albumin.
         * Enterohepatic recirculation and urinary excretion, where it is oxidised to **urobilin**
 
 
-#### In Disease
+: Alterations to Bilirubin Metabolism in Disease
 
-||Blood|Urine|Faeces|
-|--|--|--|
-|**Prehepatic disease**|↑ Unconjugated bilirubin| ↑ Urobilinogen, bilirubin not present|Normal|
-|**Intrahepatic disease**|↑ Conjugated bilirubin, ↑ Unconjugated bilirubin| Bilirubin present|May be pale due to decreased urobilinogen excreted in bile|
-|**Posthepatic disease**|↑ Conjugated bilirubin|↓ Urobilinogen, bilirubin present|Pale|
++--------------------------+--------------------------+-----------------------+---------+
+|                          | Blood                    | Urine                 | Faeces  |
++==========================+==========================+=======================+=========+
+| **Prehepatic disease**   | ↑ Unconjugated bilirubin | ↑ Urobilinogen\       | Normal  |
+|                          |                          | Bilirubin not present |         |
++--------------------------+--------------------------+-----------------------+---------+
+| **Intrahepatic disease** | ↑ Conjugated bilirubin\  | Bilirubin present     | Acholic |
+|                          | ↑ Unconjugated bilirubin |                       |         |
++--------------------------+--------------------------+-----------------------+---------+
+| **Posthepatic disease**  | ↑ Conjugated bilirubin   | ↓ Urobilinogen\       | Pale    |
+|                          |                          | Bilirubin present     |         |
++--------------------------+--------------------------+-----------------------+---------+
 
+:::column-margin
+Acholic stools describes a pale or clay-coloured stool that occurs due to ↓ urobilinogen excretion in bile.
+:::
 
 ---
+
 ## References
 
 1. Barrett KE, Barman SM, Boitano S, Brooks HL. Ganong's Review of Medical Physiology. 24th Ed. McGraw Hill. 2012.
