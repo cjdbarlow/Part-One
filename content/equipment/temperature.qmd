@@ -1,18 +1,22 @@
-# Temperature and Humidity
+# Temperature
 
+:::CICM
+Describe the measurement of body temperature.
+:::
 
-> Describe the measurement of temperature and humidity
+:::ANZCA
+Describe the methods of measurement applicable to anaesthesia, including clinical utility, complications and sources of error in particular measurement of temperature.
+:::
 
-**Temperature** is average kinetic energy of molecules within a material, and is measured in degrees. It is distinct from **heat**, which describes the transfer of thermal energy from one body to another body, and is measured Joules. The two are related by the **specific heat capacity**, which describes how much energy (J) must be applied to a body to raise its temperature by 1°K, without a change in state.
+**Temperature** is average kinetic energy of molecules within a material, and is measured in degrees. Temperature is distinct from **heat**, which describes the transfer of thermal energy from one body to another body, and is measured Joules. The two are related by the **specific heat capacity**, which describes how much energy (J) must be applied to a body to raise its temperature by 1°K, without a change in state.
 
-Humidity may be either **absolute** or **relative**:
-
-* **Absolute Humidity** is the mass of water vapour in a volume of air
-* **Relative Humidity** measures the percentage saturation of air at *current temperature*, or more formally: $Relative \ Humidity = {mass \ of \ water \ vapour \ in \ volume \ of \ air \over mass \ of \ water \ vapour \ if \ air \ was \ fully \ saturated} = {absolute \ humidity \over mass \ of \ water \ if \ air \ was \ fully \ saturated} $
-
-## Measurement of Temperature
+## Temperature Measurement
 
 Temperature is measured by a number of methods:
+
+* Liquid expansion thermometry
+* Electrical thermometry
+
 
 ### Liquid Expansion Thermometry
 
@@ -23,7 +27,7 @@ This is used in mercury thermometers. These consist of:
 * A constriction ring\
 Prevents travel of mercury up the capillary by gravity.
 
-Mechanism:
+Method:
 
 * When heated, the kinetic energy of the mercury increases and it expands, forcing it up the capillary\
 As the thermal expansion coefficient for all liquids is very small, the capillary must be of a very small volume to create a usable device.
@@ -31,7 +35,7 @@ As the thermal expansion coefficient for all liquids is very small, the capillar
 This is typically 30 seconds. Measurement therefore takes ~4 time-constants, or 2 minutes.
 
 
-#### Pros
+Pros:
 
 * Easy to use
 * Accurate
@@ -39,7 +43,7 @@ This is typically 30 seconds. Measurement therefore takes ~4 time-constants, or 
 * Sterilisable
 * Cheap
 
-#### Cons
+Cons:
 
 * Slow response\
 Only accurate once it has reached thermal equilibrium.
@@ -51,7 +55,8 @@ May cause release of mercury or alcohol.
     * High temperatures with alcohol\
     Boils at 78.5°C. 
 
-## Electrical
+
+## Electrical Thermometry
 
 Electrical methods include:
 
@@ -72,30 +77,8 @@ At the junction of two dissimilar metals, a potential difference will be produce
     * Degrade over time
 
 
-## Measurement of Humidity
-
-Humidity can be measured by a number of methods:
-
-* **Hair Hygrometer**\
-Hair (actual hair) changes elasticity depending on the humidity of air. Changes in elasticity can be related to changes in humidity.
-
-* **Wet and Dry Bulb**\
-This system measures both temperature and relative humidity.
-    * Two thermometers are used
-        * One is wrapped in a wick, which is attached to a water reservoir\
-        This is the wet thermometer.
-        * The dry thermometer gives a measurement of surrounding air temperature
-    * The wet thermometer is cooled due to evaporative cooling from the wick\
-    High energy water molecules become vapour, leaving only low energy molecules behind.
-    * The **temperature difference** between the thermometers is a function of:
-        * Latent heat of vapourisation of water
-        * How much evaporative cooling is occurring\
-        This is function of humidity.
-            * At 100% relative humidity, no evaporative cooling will take place and the temperatures will be equal
-            * As humidity decreases, evaporative cooling will cool the wet thermometer, and the temperature difference allows humidity to be determined
-
-
 ---
+
 ## References
 
 1. Aston D, Rivers A, Dharmadasa A. Equipment in Anaesthesia and Intensive Care: A complete guide for the FRCA. Scion Publishing Ltd. 2014.

@@ -1,9 +1,23 @@
 # Medical Gas Supply
 
+:::ANZCA
+Describe the supply of medical gases (bulk supply and cylinder) and features to ensure supply safety including pressure valves and regulators and connection systems.
+:::
 
-> <p style="color:purple";>Describe the supply of medical gases (bulk supply and cylinder) and features to ensure supply safety including pressure valves and regulators and connection systems</p>
+This section will focus on oxygen, covering:
+
+* Production
+* Storage
+* Safety of gas supplies
 
 ## Production
+
+Oxygen production can be performed using:
+
+* Fractional distillation\
+For bulk supply.
+* Oxygen concentration
+
 
 ### Fractional Distillation
 
@@ -11,13 +25,13 @@ Oxygen is produced on the industrial scale by fractional distillation of atmosph
 
 * Relies on the fact that **different gases** have **different boiling points**\
 By liquefying air and then heating it gradually, each gas can be removed separately as it boils.
-* Occurs in stages:  \
-    * Atmospheric air  is filtered\
+* Occurs in stages:
+    * Filtration of atmospheric air\
     Removes dust and other contaminants.
-    * Air is **compressed** to **6 atm** and **then cooled** to below ambient temperature\
+    * **Compression** of filtered air to **6 atm**, followed by **cooling** to below ambient temperature\
     Water vapour condenses and is removed.
-    * Compressed air passed through a **zeolite sieve** which removes CO~2~
-    * Compressed air is allowed to re-expand\
+    * Cooled and compressed air passed through a **zeolite sieve** which removes CO~2~
+    * Gas is then allowed to re-expand\
     As it does so it loses heat energy as per **Gay-Lussac's Law**, and liquefies.
         * Air must be cooled below the boiling point of the desired gases\
         This requires getting gases very cold, and so the process may be mechanically assisted using a turbine, and/or a heat exchanger. Key boiling points (at 1 atm):
@@ -30,7 +44,8 @@ By liquefying air and then heating it gradually, each gas can be removed separat
         * As the boiling point of each gas is reached (e.g. 77°K for nitrogen), that gas will begin to vapourise from the liquid, and can be collected
         * The remaining liquid can then be further heated, until the boiling point for the next gas is reached
         * This process can be repeated until all the desired gases have been separated
-  \
+
+
 ### Oxygen Concentrator
 
 Oxygen concentrators:
@@ -43,19 +58,30 @@ Oxygen concentrators:
         Produces a 95% oxygen/5% argon mixture.
     * The unused column is heated to release the bound nitrogen and water
 
-#### Pros
+Pros of oxygen concentrators:
 
 * Cheap
 * Reliable
-* Avoid need for oxygen delivery
+* Avoid need for oxygen delivery infrastructure
 
-#### Cons
+Cons of oxygen concentrators:
 
 * Result in an accumulation of argon when used at low flows on a circle system
 * Require continuous power
 * Fire and explosion risk
 
+
 ## Storage
+
+Methods for gas storage include:
+
+* Gas cylinders\
+Ideal for small quantities of a variety of different gases.
+* Cylinder manifolds\
+Efficient methods to provide piped supply of a variety of gases.
+* Vacuum insulated evaporator\
+Method to store large quantities of oxygen.
+
 
 ### Medical Gas Cylinders
 
@@ -66,12 +92,8 @@ Gas cylinders are:
     * Backup for a piped supply
     * When a piped supply is not available (transports)
     * When the gas is uncommonly used (e.g. nitric oxide)
-
-
 * The common cylinder used in hospital is **CD**\
 This contains **460 L** of oxygen at 15°C and 137 bar.
-
-
 * Cylinders are not completely filled, to reduce risk of overpressure and explosions if the temperature rises
     * The **filling ratio** is the weight of liquid in a full cylinder compared to the weight of water that would completely fill the cylinder
         * In cool climates, the filling ratio is ~0.75
@@ -83,15 +105,16 @@ Tests include:
     1% of cylinders are destroyed to perform testing on the metal.
 
 
-#### Pros
+Pros of gas cylinders:
 
 * Portable
 * Reusable
 
-#### Cons
+Cons of gas cylinders:
 
 * Heavy
 * Limited supply
+
 
 ### Cylinder Manifolds
 
@@ -100,15 +123,16 @@ Cylinder manifolds are formed of sets of large gas cylinders used in parallel.
 * When the pressure falls below a set level, a pressure valve will switch and gas will be drawn from another cylinder group
 * The first (now empty) cylinder group is exchanged for full cylinders
 
-#### Pros
+Pros of cylinder manifolds:
 
 * Cheap
 * Useful as a backup supply
 
-#### Cons
+Cons of cylinder manifolds:
 
 * Less capacity than a VIE
 * Fire and explosion risk
+
 
 ### Vacuum Insulated Evaporator
 
@@ -127,20 +151,22 @@ Instead it is cooled by:
 * Has an evaporator to evaporate large volumes of oxygen rapidly if demand is high
     * This is simply an uninsulated pipe exposed to the outside temperature
 
-<img src="/resources/vie.svg">
+![Vacuum Insulated Evaporator](/resources/vie.svg)
 
-#### Pros
+
+Pros of the VIE:
 
 * Cheapest option for oxygen delivery and storage
     * Storing oxygen as a liquid is much more efficient than as a gas
     * Does not require power
 
-#### Cons
+Cons of the VIE:
 
 * Set-up costs are expensive
 * Requires a back-up setup
 * Will waste large volumes of oxygen if not being used continuously
 * Fire and explosion risk
+
 
 ## Safety in Medical Gas Supply
 
@@ -173,8 +199,6 @@ Used in Australia when connecting pipeline gases.
 Used (but not in Australia) when connecting pipeline gases.
     * NIST connectors have a probe and a nut
     * Probe diameter is gas-specific, preventing the wrong gas from being connected
-
-
 * **Testing**\
     * Must demonstrate
         * Correct oxygen concentrations
@@ -187,6 +211,7 @@ Used (but not in Australia) when connecting pipeline gases.
 
 
 ---
+
 ## References
 
 1. Aston D, Rivers A, Dharmadasa A. Equipment in Anaesthesia and Intensive Care: A complete guide for the FRCA. Scion Publishing Ltd. 2014.

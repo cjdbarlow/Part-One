@@ -1,11 +1,12 @@
 # Supplemental Oxygen
 
-
-> <p style="color:purple";>Describe different systems to deliver supplemental oxygen and the advantages and disadvantages of these systems </p>
+:::ANZCA
+Describe different systems to deliver supplemental oxygen and the advantages and disadvantages of these systems.
+:::
 
 Devices for delivery of oxygen can be classified into:
 
-* Variable performance devices\
+* Variable performance devices
 * Fixed performance devices
 
 
@@ -17,7 +18,7 @@ Variable performance devices:
     * This is because respiratory flow is non-uniform\
     Although minute ventilation may be 5-6L.min^-1^, peak inspiratory flows are substantially higher.
     * Delivered FiO~2~ is dependent on oxygen flow and inspiratory flow
-        * Increasing oxygen flow rate will increase FiO~2~, but the effect will vary depending on the device (volume, seal) and the patient
+        * ↑ Oxygen flow rate will increase FiO~2~, but the effect will vary depending on the device (volume, seal) and the patient
 * Include:
     * Nasal Cannulae\
     Prongs delivering gas at 1-4L.min^-1^.
@@ -35,7 +36,8 @@ Variable performance devices:
         * Reservoir bag is filled during expiration
         * Gas is drawn from the reservoir bag during inspiration, increasing FiO~2~\
         Some air is entrained from around the mask and so FiO~2~ is < 1.
-      \
+
+
 ## Fixed Performance Devices
 
 Fixed performance devices:
@@ -53,8 +55,9 @@ These are usually flow limited as well, and so FiO~2~ may decrease at higher ins
         This is known as the **entrainment ratio**.
         * Will deliver the specified FiO~2~ provided oxygen flow is above the minimum rate\
         Therefore become variable performance devices when inspiratory flow greatly exceeds oxygen flow.
-      \
+
 ---
+
 ## References
 
 1. Aston D, Rivers A, Dharmadasa A. Equipment in Anaesthesia and Intensive Care: A complete guide for the FRCA. Scion Publishing Ltd. 2014.

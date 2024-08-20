@@ -1,0 +1,43 @@
+# Humidity
+
+:::CICM
+Define humidification~~, outline the mechanisms of humidification and its importance~~.
+:::
+
+:::ANZCA
+Describe basic physics applicable to anaesthesia in particular principles of humidification ~~and use of humidifiers~~.
+:::
+
+Humidity refers to the water content of air, and may be either **absolute** or **relative**:
+
+* **Absolute Humidity** is the mass of water vapour in a volume of gas
+* **Relative Humidity** measures the percentage saturation of gas at *current temperature*, or more formally: $Relative \ Humidity = {mass \ of \ water \ vapour \ in \ volume \ of \ air \over mass \ of \ water \ vapour \ if \ air \ was \ fully \ saturated} = {absolute \ humidity \over mass \ of \ water \ if \ air \ was \ fully \ saturated}$
+
+
+## Measurement of Humidity
+
+Humidity can be measured by a number of methods:
+
+* **Hair Hygrometer**\
+Hair (actual hair) changes elasticity depending on the humidity of air. Changes in elasticity can be related to changes in humidity.
+* **Wet and Dry Bulb**\
+This system measures both temperature and relative humidity.
+    * Two thermometers are used
+        * One is wrapped in a wick, which is attached to a water reservoir\
+        This is the wet thermometer.
+        * The dry thermometer gives a measurement of surrounding air temperature
+    * The wet thermometer is cooled due to evaporative cooling from the wick\
+    High energy water molecules become vapour, leaving only low energy molecules behind.
+    * The **temperature difference** between the thermometers is a function of:
+        * Latent heat of vapourisation of water
+        * How much evaporative cooling is occurring\
+        This is function of humidity.
+            * At 100% relative humidity, no evaporative cooling will take place and the temperatures will be equal
+            * As humidity decreases, evaporative cooling will cool the wet thermometer, and the temperature difference allows humidity to be determined
+
+---
+
+## References
+
+1. Aston D, Rivers A, Dharmadasa A. Equipment in Anaesthesia and Intensive Care: A complete guide for the FRCA. Scion Publishing Ltd. 2014.
+2. Alfred Anaesthetic Department Primary Exam Tutorial Series

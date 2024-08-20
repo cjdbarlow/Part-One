@@ -1,6 +1,12 @@
 # End-Tidal Gas Analysis
 
-> Describe the principles of ~~pulse and tissue oximetry, co-oximetry and~~ capnography, including calibration, sources of errors and limitations 
+:::CICM
+Describe the principles of capnography, including calibration, sources of errors limitations.
+:::
+
+:::ANZCA
+Describe the methods of measurement applicable to anaesthesia, including clinical utility, complications and sources of error in particular gas analysis, including capnography.
+:::
 
 ## Principles
 
@@ -54,23 +60,19 @@ A lens is used to focus emitted light.
 
 Errors can be classified into:
 
-* Specific to technique
+* Specific to **technique**
     * The **collision broadening effect**\
     Intermolecular forces vary depending on their proximity to other molecules in the gas mixture. A change in intermolecular forces may alter their bond-energy and the frequencies at which they absorb radiation. It can be overcome by:
         * Correcting for the presence of other gases
         * Manually adjusting the obtained values
     * Crossover with other gas mixtures\
     CO~2~ and N~2~O have similar absorbance spectra, and may lead to error when a device is not designed to measure both wavelengths.
-
-
-* Failure of equipment\
+* Failure of **equipment**\
 These can be overcome by use of **double-beam capnometer**. This uses a reference chamber which contains CO~2~-free air, and the same emitter-detector system. All absorption from this system must occur due to artefact (as no CO~2~ is present). The artefactual component is then subtracted from the value detected in the main chamber. This corrects for:
     * Variable amount of infrared radiation released
     * Variable sensitivity of the detector
     * Variable efficacy of the crystal window and lens system
-
-
-* Relating to type of capnometer used\
+* Relating to **type of capnometer** used\
 E~T~CO~2~ may be either **side-stream** or **in-line**.
     * Side-stream CO~2~ involves a length of narrow tubing drawing gas from the expiratory limb of the breathing circuit (typically from the HME filter) to the capnograph
         * Side-stream requires a flow of 150 ml.min^-1^\
@@ -83,11 +85,12 @@ E~T~CO~2~ may be either **side-stream** or **in-line**.
         * Require heating to 41°C to avoid condensation
 
 
-### Normal E~T~CO~2~ Waveform{#capno}
+## Normal E~T~CO~2~ Waveform
 
 <img src="/resources/capno-normal.svg">
 
 The normal trace consists of four components:
+
 1. The **baseline**\
 This consists of:
     * Inspiratory time
@@ -98,46 +101,52 @@ This consists of:
 The highest-point of this curve is labeled E~T~CO~2~.
 4. **Inspiration**, where PCO~2~ returns to **0**
 
-### E~T~CO~2~ Waveform Variations{#var}
+### Waveform Variations
 
-**Airway obstruction:
-**<img src="/resources/capno-obstruction.svg">
+**Airway Obstruction**:
+
+![Airway Obstruction](/resources/capno-obstruction.svg)
+
 * Occurs due to uneven emptying of alveoli with different time-constants
 
-**Hyperventilation:
-**<img src="/resources/capno-hyperventilation.svg">
+**Hyperventilation**:
+
+![Hyperventilation](/resources/capno-hyperventilation.svg)
+
 * Lower E~T~CO~2~ with shorter baseline
 * Plateau phase may not occur at very high respiratory rates
 
 **Rebreathing**:
-<img src="/resources/capno-rebreathing.svg">
+
+![Rebreathing](/resources/capno-rebreathing.svg)
+
 * Baseline increases as inspired CO~2~ is measured from gas analyser
 
 
-### Changes in E~T~CO~2~
+## Changes in E~T~CO~2~
 
 Normal E~T~CO~2~ is 32-42 mmHg, whilst normal PaCO~2~ is 35-45 mmHg.
 
-#### High E~T~CO~2~
+### High E~T~CO~2~
 
 This may be from:
 
-* Decreased ventilation
-    * Decreased RR
-    * Decreased V~T~
-    * Increased V~D~ and therefore a greater V~D~:V~T~ ratio
-* Increased production of CO~2~
-    * Increased metabolic rate
+* ↓ Ventilation
+    * ↓ RR
+    * ↓ V~T~
+    * ↑ V~D~ and therefore a greater V~D~:V~T~ ratio
+* ↑ Production of CO~2~
+    * ↑ Metabolic rate
         * Sepsis
     * Tourniquet release
     * ROSC following arrest
-* Increased inspired 
+* ↑ Inspired CO~2~
     * Rebreathing (i.e. equipment/ventilator malfunction)
     * External source of added CO~2~
 
-#### Low E~T~CO~2~
+### Low E~T~CO~2~
 
-##### Rapid Loss of E~T~CO~2~
+Rapid loss of E~T~CO~2~:
 
 * Failure of ventilation
     * Circuit disconnect
@@ -147,16 +156,16 @@ This may be from:
     * Cardiac arrest
     * Shock
 
-##### Gradual Loss of E~T~CO~2~
+Gradual loss of E~T~CO~2~:
 
-* Increased V~A~ (i.e. increased MV)
-* Decreased CO~2~ production
+* ↑ V~A~ (i.e. increased MV)
+* ↓ CO~2~ production
     * Hypometabolic state
         * Hypothermia
-* Increased V~D~, i.e. V/Q mismatch
-    * Increased West Zone I physiology:
+* ↑ V~D~, i.e. V/Q mismatch
+    * ↑ West Zone I physiology:
         * Hypotension
-        * Increased RV Afterload:
+        * ↑ RV Afterload:
             * PE
             * High PEEP
 * Sampling error
@@ -165,10 +174,11 @@ This may be from:
 
 ### Discrepancy between E~T~CO~2~, PACO~2~, and PaCO~2~
 
-The normal gradient between PaCO~2~ and E~T~CO~2~ is 0-5 mmHg. Healthy and awake individuals should have essentially no (<1ml) alveolar dead space, and so essentially no gradient. This gradient is increased in patients with:
+* The normal gradient between PaCO~2~ and E~T~CO~2~ is 0-5 mmHg
+* Healthy and awake individuals should have essentially no (<1ml) alveolar dead space, and so essentially no gradient
+* This gradient is ↑ in patients with V/Q mismatch\
+E~T~CO~2~ will underestimate arterial CO~2~ as gas from un-perfused alveoli (with negligible CO~2~) will dilute CO~2~ expired gas.
 
-* V/Q mismatch
-    * E~T~CO~2~ will underestimate arterial CO~2~ as gas from un-perfused alveoli (with negligible CO~2~) will dilute CO~2~ expired gas
 
 ## Colourimetric Methods
 

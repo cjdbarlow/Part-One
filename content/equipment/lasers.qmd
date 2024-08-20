@@ -1,6 +1,8 @@
 # Lasers
 
-> <p style="color:purple";>Describe the principles of surgical lasers, their safe use and the potential hazards </p>
+:::info
+This is no longer examinable content for the ANZCA Primary Exam. This section is left here for posterity.
+:::
 
 A laser is a device for **l**ight **a**mplification by  **s**timulated **e**mission of **r**adiation. Laser light is:
 
@@ -20,6 +22,7 @@ Tattoos, oncological drugs.
 * Tissue destruction without heating\
 Opthalmology.
 
+
 ## Principles
 
 Method:
@@ -34,17 +37,17 @@ When more than 50% of electrons are at a higher energy level, **population inver
 * The mirrors in the resonating chamber ensure most light is reflected back into the chamber, causing more stimulated emissions
 * The exit from the chamber can be be adjusted so only certain polarities of light are emitted
 * A lens may be used to focus the laser beam
-
-
 * Lasers may be:
     * Pulse wave\
     Uses short bursts of laser light to minimise collateral damage.
     * Continuous wave\
     May lead to excessive heating.
-  \
+
+
 ## Pros
 
 * Precise surgery and haemostasis
+
 
 ## Cons
 
@@ -61,8 +64,10 @@ When more than 50% of electrons are at a higher energy level, **population inver
     * Consider use of heliox
     * Use specialised laser tubes\
     Normal PVC ETTs are combustible.
-  \
+
+
 ---
+
 ## References
 
 1. Aston D, Rivers A, Dharmadasa A. Equipment in Anaesthesia and Intensive Care: A complete guide for the FRCA. Scion Publishing Ltd. 2014.

@@ -1,8 +1,10 @@
 # Scavenging
 
-> <p style="color:purple";>Describe the hazards of anaesthetic gas pollution and the methods of scavenging anaesthetic gases </p>
+:::ANZCA
+Outline the hazards of anaesthetic gas pollution and the methods of scavenging anaesthetic gases.
+:::
 
-Scavenging is the removal and safe disposal of waste anaesthesia gases from the breathing circuit to avoid contamination of the theatre environment. This is important as continuous exposure of staff to anaesthetic gases has been implicated in:
+Scavenging is the removal and safe disposal of waste anaesthesia gases from the breathing circuit to avoid contamination of the theatre environment. Scavenging is important as continuous exposure of staff to anaesthetic gases has been implicated in:
 
 * Cognitive impairment
 * Spontaneous abortion
@@ -29,7 +31,7 @@ The structure of the scavenging interface depends on the type of scavenging syst
         * When gas pressure in the disposal assembly falls below **0.5cmH~2~O**, the negative relief valve opens and gas enters the disposal assembly
 * More transfer tubing
 * Disposal assembly
-      \
+
 ---
 
 ## References

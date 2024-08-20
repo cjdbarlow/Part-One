@@ -1,7 +1,8 @@
 # Diathermy
 
-
-> <p style="color:purple";> Discuss the principles of surgical diathermy, its safe use and the potential hazards</p>
+:::ANZCA
+Outline the principles of surgical diathermy, its safe use and the potential hazards.
+:::
 
 Diathermy is the use of an electrical current to cut tissue and coagulate blood via localised heating. Diathermy:
 

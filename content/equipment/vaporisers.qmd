@@ -1,7 +1,8 @@
 # Vapourisers
 
-
-> <p style="color:purple";> Describe the principles and safe operation of vapourisers </p>
+:::ANZCA
+Describe the principles and safe operation of vaporisers.
+:::
 
 Delivery of gas that is fully saturated with anaesthetic agent would result in lethal doses being administered. The use of a vapouriser allows a safe dose of anaesthetic agent to be given. Vapourisers can be divided into:
 
@@ -13,6 +14,7 @@ Air that is fully saturated with gas is mixed with a 'bypass' stream of gas, dil
 	* Draw-over\
 	Driven by the patients inspiratory effort.
 	    * Portable
+*  Measured flow vapourisers
 
 
 ## Variable Bypass Vapouriser
@@ -39,10 +41,10 @@ The SVP of volatile agents increases non-linearly as temperature increases. Temp
 			* Aneroid bellows\
 			Connect to a cone in the opening of the bypass chamber. As temperature decreases, the bellows contract and the cone partially obstructs the bypass channel.
 
-<img src="/resources/tec5.svg">
+![Tec 5 Plenum Vapouriser](/resources/tec5.svg)
 
 
-### Difference Between Plenum and Draw-Over Vapourisers
+### Comparison of Plenum and Draw-Over Vapourisers
 
 Plenum vapourisers are:
 
@@ -93,38 +95,32 @@ The amount added depends on:
 	* Fresh gas flow rate\
 	As flow increases the resistance to flow of desflurane vapour decreases. 
 
-<img src="/resources/tec6.svg">
+![Tec 6 Vapouriser](/resources/tec6.svg)
 
 
 ## General Safety Features of Vapourisers
 
-Agent specificity:
+Safety features of vapourisers include:
 
-* Key indexed filling
-* Pin indexed safety system connectors
-* Colour coding of unit and agent containers
+* **Agent specificity**:
+	* Key indexed filling
+	* Pin indexed safety system connectors
+	* Colour coding of unit and agent containers
+* **Single agent administration**:
+	* Interlock mechanism\
+	Prevents multiple vapourisers being turned on.
+	* Single cartridge slot (Aladdin system)
+* **Tipping and overfilling**:
+	* Long vapourisation chamber inflow
+	* Heavy construction
+	* Transport modes
+	* Side filling and overflow ports
+* **Anti-pumping**:
+	* Check valves and long vapourisation chamber inflow prevent entrainment of vapouriser gas in the inflow of the bypass channel
+* **Agent depletion**:
+	* Filling gauges
+	* Low pressure alarms (Tec 6)
 
-Single agent administration:
-
-* Interlock mechanism\
-Prevents multiple vapourisers being turned on.
-* Single cartridge slot (Aladdin system)
-
-Tipping and overfilling:
-
-* Long vapourisation chamber inflow
-* Heavy construction
-* Transport modes
-* Side filling and overflow ports
-
-Anti-pumping:
-
-* Check valves and long vapourisation chamber inflow prevent entrainment of vapouriser gas in the inflow of the bypass channel
-
-Agent depletion:
-
-* Filling gauges
-* Low pressure alarms (Tec 6)
 
 ## Other Factors Affecting Vapourisers
 
@@ -139,18 +135,16 @@ Altitude:
 * Clinical effect of volatile agent is a function of their partial pressure in tissues
 * As SVP is independent of atmospheric pressure, this is unchanged at altitude
 * A vapouriser set at 2% will deliver 4% gas at 0.5atm pressure, however as the atmospheric pressure is reduced the same partial pressure of vapour is delivered
-
 * The delivered concentration of an agent at altitude is given by the equation:\
 $Delivered \ Concentration \ (\%) = Intended \ Concentration \times {P_{cal} \over P_{alt}}$, where:
-
-* $Actual \ Delivered \ Concentration$is the concentration of agent in the gas delivered to the patient\
-This must be multiplied by the atmospheric pressure to find the partial pressure of agent delivered to the patient.
-* $Intended \ Concentration$is the concentration dialed up on the vapouriser
-* $P_{cal}$is the atmospheric pressure where the vapouriser was calibrated
-* $P_{alt}$is the atmospheric pressure where the vapouriser is being used
-
+	* $Actual \ Delivered \ Concentration$ is the concentration of agent in the gas delivered to the patient\
+	The actual delivered concentration must be multiplied by the atmospheric pressure to find the partial pressure of agent delivered to the patient.
+	* $Intended \ Concentration$ is the concentration dialed up on the vapouriser
+	* $P_{cal}$ is the atmospheric pressure where the vapouriser was calibrated
+	* $P_{alt}$ is the atmospheric pressure where the vapouriser is being used
 
 ---
+
 ## References
 
 1. Miller RD, Eriksson LI, Fleisher LA, Weiner-Kronish JP, Cohen NH, Young WL. Miller's Anaesthesia. 8th Ed (Revised). Elsevier Health Sciences.

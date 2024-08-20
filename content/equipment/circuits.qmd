@@ -1,29 +1,35 @@
-# Breathing Systems
+# Breathing Systems {#sec-breathing_systems}
 
-*This provides a general overview of anaesthetic breathing systems. The circle system in particular is covered [elsewhere](/circle-system.md).*
+:::ANZCA
+Describe and classify breathing systems used in anaesthesia. Evaluate their clinical utility and hazards associated with their use.
+:::
+
+:::column-margin
+This provides a general overview of anaesthetic breathing systems. The circle system in particular is covered under @sec-circle_system, and the bag-valve-mask is covered under @sec-bvm.
+:::
 
 Classifications:
 
-* Open\
+* **Open**\
 Anaesthetic gases not confined to the circuit.
 	* Limited current practical application\
 	Expensive, environmental contamination.
 	* e.g. Ether masks
-* Non-rebreathing\
+* **Non-rebreathing**\
 No expired gas is re-inspired; requires a one-way valve.
 	* Limited practical application
 	* Requires a low-resistance draw-over vapouriser
 	* e.g. Tri-service apparatus
 		* Robust
 		* Inexpensive
-* Rebreathing systems\
+* **Rebreathing systems**\
 Expired gas is re-inspired.
 	* Absorption systems\
 	Requires method for CO~2~ absorption.
 		* Circle\
 		Common anaesthetic circuit, covered in detail under. Can be:
 			* Vapouriser Out-of-Circuit\
-			Common system, covered in detail under [circle system](/circle-system.md).
+			Common system, covered in detail under @sec-circle_system.
 				* $[Alv_{agent}] \propto {FGF \over MV}$
 			* Vapouriser in-circuit\
 			Uncommon system.
@@ -38,55 +44,91 @@ Expired gas is re-inspired.
 
 ## Mapleson System
 
-Properties:
+The Mapleson System of circuits are a family of breathing circuits that allow both spontaneous and controlled ventilation:
 
 * Rebreathing of expired gas **does not necessarily equate to CO~2~ retention**, provided the FGF is above a certain multiple (circuit dependent) of the patients MV
 	* PaCO~2~ is a function of FGF and CO~2~ production **only**\
 	Increasing MV without increasing FGF will result in re-breathing of CO~2~ and unchanged PaCO~2~.
 * In any spontaneous ventilation mode, patients will hyperventilate if FGF is inadequate
 
-Types:
 
-* Mapleson A
-	* Setup
-		* APL valve close to mask
-		* Tubing between bag and mask
-		* FGF close to bag
-	* Flow requirements\
-		* Spontaneous ventilation: $~0.7 \times MV$\
-		APL valve is set low. Initial exhalation (which is mostly **dead space**, and not containing CO~2~) will fill bag until bag pressure exceeds APL valve opening pressure. Provided the APL valve is set *low*, the majority of CO~2~ containing exhalation will exit through the APL valve, and FGF required to clear CO~2~ from the circuit is low.
-		* Controlled ventilation:  $~>3 \times MV$\
-		APL valve is set high. More of the exhalation will fill the bag, and so a greater FGF is required to prevent re-breathing.
-* Mapleson B & C
-	* Setup\
-	APL valve and FGF are situated close to the mask.\
-		* Mapleson B has long tubing between the mask and bag
-		* Mapleson C has short tubing between the mask and bag
-	* Flow requirements\
-	Spontaneous and controlled ventilation are similar, at $~3 \times MV$.
-* Mapleson D
-	* Setup
-		* FGF is is close to mask
-		* Valve is close to bag
-		* Tubing between FGF and APL valve\
-		Co-axial versions exist, but are functionally similar.
-	* Flow requirements\
-	Overall, generally the best circuit to maximise efficiency across both spontaneous and controlled ventilation.
-		* Spontaneous ventilation: $~2 \times MV$
-		* Controlled ventilation: $~0.8-1 \times MV$\
-		Best circuit for controlled ventilation.
-* Mapleson E/Ayre's T-piece
-	* Setup
-		* T-shaped circuit with no valve or bag
-* Mapleson F/Jackson-Rees modification to the Ayre's T-piece
-	* Setup
-		* Bag (with hole) added to the stem of the T of a Mapleson E\
-		Allows monitoring of ventilation, and occluding the hole of the bag allows controlled ventilation.
-		* Functionally identical to a Mapleson D, with an operator-controlled APL valve
-	* Flow requirements\
-	As per Mapleson D.
-		* Spontaneous ventilation: $~2 \times MV$
-		* Controlled ventilation: $~0.8-1 \times MV$\
+### Mapleson A
+
+The Mapleson A is efficient for spontaneous breathing, as expired gas is quickly vented via the APL, but inefficient for controlled ventilation due to the high FGF requirements.
+
+Setup:
+
+* APL valve close to mask
+* Tubing between bag and mask
+* FGF close to bag
+
+Flow requirements:
+
+* Spontaneous ventilation: $~0.7 \times MV$\
+APL valve is set low. Initial exhalation (which is mostly **dead space**, and not containing CO~2~) will fill bag until bag pressure exceeds APL valve opening pressure. Provided the APL valve is set *low*, the majority of CO~2~ containing exhalation will exit through the APL valve, and FGF required to clear CO~2~ from the circuit is low.
+* Controlled ventilation:  $~>3 \times MV$\
+APL valve is set high. More of the exhalation will fill the bag, and so a greater FGF is required to prevent re-breathing.
+
+
+### Mapleson B and C
+
+Neither variation has a use case that another configuration doesn't perform better. Setup:
+
+* APL valve and FGF are situated close to the mask
+* Mapleson B has long tubing between the mask and bag
+* Mapleson C has short tubing between the mask and bag
+
+Flow requirements:
+
+* Spontaneous and controlled ventilation are similar, at $~3 \times MV$
+
+
+### Mapleson D
+
+The Mapleson D circuit is a variation on the Mapleson A, with reversal of the FGF and APL. This circuit is much more efficient for controlled breathing, but inefficient for spontaneous breathing. generally the best circuit to maximise efficiency across both spontaneous and controlled ventilation.
+
+Setup:
+
+* FGF is is close to mask
+* Valve is close to bag
+* Tubing between FGF and APL valve\
+Co-axial versions exist, but are functionally similar.
+
+
+Flow requirements:
+
+* Spontaneous ventilation: $~2 \times MV$
+* Controlled ventilation: $~0.8-1 \times MV$\
+Best circuit for controlled ventilation.
+
+
+### Mapleson E
+
+Also known as Ayre's T-piece, and is similar to a T-piece used to transport spontaneously breathing patients with a laryngeal mask.
+
+Setup:
+
+* T-shaped circuit with no valve or bag
+
+Flow requirements:
+
+* Only viable for spontaneous breathing.
+
+
+### Mapleson F
+
+Also known as the "Jackson-Rees modification to the Ayre's T-piece," and very useful in paediatrics for both spontaneous and controlled ventilation.
+
+Setup:
+
+* Bag (with hole) added to the stem of the T of a Mapleson E\
+Allows monitoring of ventilation, and occluding the hole of the bag allows controlled ventilation.
+* Functionally identical to a Mapleson D, with an operator-controlled APL valve
+
+Flow requirements are identical to the Mapleson D:
+
+* Spontaneous ventilation: $~2 \times MV$
+* Controlled ventilation: $~0.8-1 \times MV$\
 
 
 ---

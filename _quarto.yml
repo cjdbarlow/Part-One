@@ -300,3 +300,33 @@ book:
             - content/haeme/unclotting.qmd
             - content/haeme/coag_testing.qmd
             - content/haeme/viscoelastic.qmd
+        - part: "Physics and Measurement"
+          chapters:
+            - content/equipment/si_units.qmd
+            - content/equipment/electrical_safety.qmd
+            - content/equipment/wheatstone.qmd
+            - content/equipment/neuromuscular_monitoring.qmd
+            - content/equipment/transducers.qmd
+            - content/equipment/nibp.qmd
+            - content/equipment/cardiac_output.qmd
+            - content/equipment/pulse_contour.qmd
+            - content/equipment/pulse_oximetry.qmd
+            - content/equipment/gas_analysis.qmd
+            - content/equipment/end_tidal.qmd
+            - content/equipment/blood_gas.qmd
+            - content/equipment/gas_flow.qmd
+            - content/equipment/ultrasound.qmd
+            - content/equipment/temperature.qmd
+            - content/equipment/humidity.qmd
+            - content/equipment/humidifiers.qmd
+            - content/equipment/ecg.qmd
+            - content/equipment/oxygen_delivery.qmd
+            - content/equipment/bis.qmd
+            - content/equipment/gas_supply.qmd
+            - content/equipment/vaporisers.qmd
+            - content/equipment/circuits.qmd
+            - content/equipment/circle_system.qmd
+            - content/equipment/bvm.qmd
+            - content/equipment/scavenging.qmd
+            - content/equipment/diathermy.qmd
+            - content/equipment/lasers.qmd

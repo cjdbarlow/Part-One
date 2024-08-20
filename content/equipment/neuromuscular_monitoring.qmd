@@ -1,45 +1,49 @@
 # Neuromuscular Monitoring
 
+:::CICM
+Describe the monitoring of neuromuscular blockade.
+:::
 
-> Describe the concept of depth of neuromuscular blockade and explain the use of neuromuscular monitoring 
+:::ANZCA
+Describe the concept of depth of neuromuscular blockade and explain the use of neuromuscular monitoring.
+\
+\
+Describe the clinical features and management of inadequate reversal of neuromuscular blockade
+:::
 
-<!--></!-->
+The degree of neuromuscular blockade achieved using neuromuscular blocking drugs can be assessed:
 
-> <p style="color:purple";>Describe the clinical features ~~and management~~ of inadequate reversal of neuromuscular blockade</p>
-
-The degree of neuromuscular blockade can be assessed:
-
-* Clinically\
-Crude compared to electrical assessment. Tests include:
-    * Sustained head lift > 5 seconds\
-    Suggests < 30% blockade.
-    * V~T~ > 10ml.kg^-1^
+* **Clinically**\
+Crude compared to electrical assessment. Described methods include:
+    * Sustained head lift >5 seconds\
+    Suggests <30% blockade.
+    * V~T~ >10ml.kg^-1^
     * Tongue protrusion
-* Electrically\
+* **Electrically**\
 Using a nerve stimulator. Can be:
     * Visual/tactile\
-    Monitoring of twitch height by anaesthetist.
+    Monitoring of twitch height by anaesthetist. Inaccurate.
     * Electrical\
     Monitoring of twitch height by a device:
         * Accelerometer\
         Acceleration is proportional to force for any given mass ($F = ma$), therefore an accelerometer taped to the thumb can be used to assess force of contraction.
         * Mechanical force transducers\
-        Muscle tension is measured using a strain gauge. Requires control prior to administration.
+        Muscle tension is measured using a strain gauge. Requires calibrating prior to drug administration.
         * Electromyography\
         EMG response is measured using electrodes over the muscle. The AUC of the response curve can be used to calculate degree of blockade.
-  \
+
 ## Nerve Stimulator
 
-A nerve stimulator:
+Depth of neuromuscular blockade can be assessed using a **nerve stimulator**, which:
 
-* Consists of two electrodes, a power supply, and some buttons for control
+* Consists of two electrodes, a power supply, and a controller
 * Produces a monophasic, **square wave** at **constant current**, lasting no more than **0.3ms**
 * Generates a **supra-maximal stimulus**\
 Ensures every nerve fibre is depolarised, which means a consistently reproducible response will be generated. A supra-maximal stimulus is 25% greater than the maximum required to depolarise all nerve fibres.
 * Allows assessment of different muscle groups\
 Not all muscle groups are affected equally by neuromuscular blockade.
     * Typically **smaller muscle** groups are **more sensitive**
-    * The **positive** (red) lead is placed **proximal**
+    * The **positive** (red) lead is placed **proximally**
     * Ulnar nerve\
     Electrodes are placed along the ulnar border of the wrist at the flexor crease, and thumb adduction is assessed.
     * Facial nerve\
@@ -47,7 +51,7 @@ Not all muscle groups are affected equally by neuromuscular blockade.
     * Posterior tibial nerve\
     Electrodes are placed posterior to the medial malleolus, and plantar flexion is assessed.
 
-          \
+
 ### Stimulation Patterns
 
 There are five common stimulation patterns:
@@ -69,15 +73,11 @@ Four single twitches (0.1ms) delivered at 2Hz (i.e. 1.5s for all 4).
         * ToF ratio > 90% is adequate for extubation
         * ToF ratio > 70% suggests adequate respiratory function
     * Should not be repeated faster than every 10s
-
-
 * **Tetanic stimulation**\
 High frequency (50-200Hz) supramaximal stimulus for 5 seconds.
     * Normal muscle will exhibit tetanic contraction
     * Partially paralysed muscle exhibits fade\
     Degree of fade is proportional to degree of blockade, and is very sensitive.
-
-      \
 * **Post-tetanic count** (PTC)\
 Used in deep blockade when there is no response to ToF. A tetanic stimulus is given, followed 3s later by single twitches at 1Hz.
     * No response may be seen in very deep blockade
@@ -86,16 +86,12 @@ Used in deep blockade when there is no response to ToF. A tetanic stimulus is gi
         * Typically, a ToF of 1 will occur when the PTC ≈ 9
     * Should not be repeated faster than every 6 minutes\
     Due to residual post-tetanic potentiation.
-
-
 * **Double burst**\
 Two 0.2ms 50Hz (tetanic) stimuli are applied 750ms apart.
     * Two identical contractions occur in normal muscle
     * Amplitude of the second burst is reduced in partially paralysed muscle\
     DB ratio is similar to the ToF ratio, but is easier to assess clinically.
     * A ratio > 0.9 is required for adequate reversal
-  \
-
 * **Single twitch**\
 A single stimulus lasting ~0.2ms is applied.
     * \> 75% blockade causes a depressed response

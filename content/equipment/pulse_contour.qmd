@@ -1,8 +1,12 @@
-# Pressure Waveform Analysis
+# Pressure Waveform Analysis {#sec-pulse_contour}
 
+:::CICM
+Describe the invasive and non-invasive measurement of ~~blood pressure and~~ cardiac output including calibration, sources of errors and limitations.
+:::
 
-> Describe the invasive and non-invasive measurement of ~~blood pressure and~~ cardiac output including calibration, sources of errors and limitations
-
+:::ANZCA
+Describe the methods of measurement applicable to anaesthesia, including clinical utility, complications and sources of error in particular measurement of cardiac output.
+:::
 
 Analysis of arterial pulse contour is:
 
@@ -17,8 +21,7 @@ Less accurate but also less invasive (e.g. [thermodilution](cardiac-output.md#th
 All models recognise that the **amplitude of the systolic upstroke** is:
 
 * Directly proportional to **stroke volume**
-* Inversely proportional to **arterial compliance**\
-
+* Inversely proportional to **arterial compliance**
 
 Other principles used by some (but not all) devices include:
 
@@ -95,7 +98,6 @@ Characterises the arterial tree as having three major features:
 	Proprietary, *non-validated* auto-calibrating algorithm.
 	* Non-invasive
 	* Uses radial applanation tonometry
-
 
 
 ---

@@ -1,8 +1,15 @@
 # Electrocardiography
 
-> Describe the principles behind the ECG
+:::CICM
+Describe the principles behind the electrocardiogram ECG.
+:::
+
+:::ANZCA
+Discuss the physiological basis of electrical activity and its relationship to mechanical events Physiological basis of the electrocardiograph in normal and common pathological states.
+:::
 
 The ECG is a graphical representation of the electrical activity of the heart, as measured by the sum of electrical vectors at the patients skin.
+
 
 ## Components
 
@@ -18,7 +25,7 @@ Shielded to prevent currents being induced and electrocuting the patient.
 * Processor
 * Monitor
 
-### ECG Leads{#eint}
+### Leads
 
 ECG **leads** are created by taking the **potential difference** between two electrodes, which varies by **0.5-2mV** through the cardiac cycle as myocardium depolarises. ECG leads are divided into:
 
@@ -37,7 +44,7 @@ Potential difference between the indifferent electrode and one of the six additi
 
 The relationship between electrodes and leads is described with **Einthoven's Triangle**:
 
-<img src="/resources/einthovens.svg" style="width: 25pc;">
+![Einthoven's Triangle](/resources/einthovens.svg)
 
 
 ## Method

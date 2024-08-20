@@ -19,7 +19,8 @@ quarto::quarto_preview()
 * Fix overlapping margin content
 * Fix tables and images overflowing into margin
 * Last updated on bottom of each page
-  * Perhaps an R block which gets the last-modified of the file it is running from, that is called by a separate include/file run from * Use include-after-body
+  * Perhaps an R block which gets the last-modified of the file it is running from, that is called by a separate include/file run from
+  * Use include-after-body
 * Adjust image size to be pretty/dynamic
 * Add LITFL header
 
@@ -34,37 +35,13 @@ quarto::quarto_preview()
 * Fullwidth toc
   * ? Remove dots?
 
+## Content
+* Add mapleson circuit diagrams
+* Go through curricula and exams and add in missing examinable content
+
 
 ## Pages to be reviewed and transferred
 
-* [Equipment and Measurement](si_units.md#id)
-  * [SI Units](si_units.md)
-  * [Electrical Safety](electrical_safety.md)
-  * [Wheatstone Bridge](wheatstone-bridge.md)
-  * [Neuromuscular Monitoring](neuromuscular-monitoring.md)
-  * [Pressure Transduction](pressure_transduction.md)
-  * [Pressure Waveform Analysis](pulsecontour.md)
-  * [Non-Invasive Blood Pressure](non-invasive-blood-pressure.md)
-  * [Cardiac Output Measurement](cardiac-output.md)
-  * [Pulse Oximetry](pulse_oximetry.md)
-  * [Oxygen Analysis](gas-analysis.md)
-  * [End-Tidal Gas Analysis](end-tidal_co2.md)
-  * [Blood Gas Analysis](blood_gases.md)
-  * [Gas Flow](gas-flow.md)
-  * [Principles of Ultrasound](principles_of_ultrasound.md)
-  * [Temperature and Humidity](temperature.md)
-  * [Electrocardiography](electrocardiogram.md)
-  * [Humidifiers](humidifiers.md)
-  * [Supplemental Oxygen](supplemental-oxygen.md)
-  * [Bispectral Index](bispectral-index.md)
-  * [Medical Gas Supply](medical-gas-supply.md)
-  * [Vapourisers](vaporisers.md)
-  * [Breathing Systems](circuits.md)
-  * [Bag-Valve-Mask](bvm.md)
-  * [Circle System](circle-system.md)
-  * [Scavenging](scavenging.md)
-  * [Diathermy](diathermy.md)
-  * [Lasers](lasers.md)
 * [Procedural Anatomy](subclavian_vein.md#id)
   * [Subclavian Vein](subclavian_vein.md)
   * [Internal Jugular Vein](internal_jugular_vein.md)
@@ -181,7 +158,8 @@ quarto::quarto_preview()
 * [Other Drugs](iv-contrast.md#id)
   * [IV Contrast](iv-contrast.md)
 
-REMOVE MODEL ANSWERS FROM CONTENT AT THIS POINT
+
+REMOVE MODEL ANSWERS FROM CONTENT WHEN YOU GET TO THIS POINT
 
 ## Appendices
 

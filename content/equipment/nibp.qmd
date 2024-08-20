@@ -1,6 +1,12 @@
 # Non-Invasive Blood Pressure
 
-> Describe the ~~invasive and~~ non-invasive measurement of blood pressure ~~and cardiac output~~ including calibration, sources of errors and limitations
+:::CICM
+Describe the ~~invasive and~~ non-invasive measurement of blood pressure ~~and cardiac output~~ including calibration, sources of errors and limitations
+:::
+
+:::ANZCA
+Describe the methods of measurement applicable to anaesthesia, including clinical utility, complications and sources of error in particular measurement of blood pressure.
+:::
 
 Non-invasive blood pressure measurements is performed with either a:
 
@@ -9,6 +15,7 @@ Automatic blood pressure cuff.
 * Von Recklinghausen's oscillotonometer\
 "Manual" blood pressure cuff.
     * Uses two cuffs, and therefore two tubes
+
 
 ## DINAMAP
 
@@ -32,7 +39,8 @@ When cuff pressure equals:
     The pressure at which **amplitude** of oscillations is maximal.
 * DBP is calculated from MAP and SBP
 
-### Cons
+
+Cons:
 
 * Requires an appropriately sized cuff\
 Cuff should be ~20% greater than arm diameter.
@@ -73,6 +81,7 @@ When cuff pressure equals:
 
 
 ---
+
 ## References
 
 1. ANZCA July/August 2000

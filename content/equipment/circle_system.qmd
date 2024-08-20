@@ -1,6 +1,12 @@
-# Circle System
+# Circle System {#sec-circle_system}
 
-*This covers the circle breathing system. A general overview of anaesthetic breathing systems is covered under [anaesthetic circuits](/circuits.md).*
+:::ANZCA
+Describe and classify breathing systems used in anaesthesia. Evaluate their clinical utility and hazards associated with their use.
+:::
+
+:::column-margin
+This covers the circle breathing system. A general overview of anaesthetic breathing systems is covered under @sec-breathing_systems.
+:::
 
 The circle breathing system is a highly efficient system which:
 
@@ -18,7 +24,7 @@ CO~2~ is actively removed.
             * Oxygen
             * Absorbed and metabolised volatile agents
         * Lost via leak
-      \
+
 
 ## Components
 
@@ -38,7 +44,7 @@ To absorb CO~2~.
     * When the vapouriser is out-of-circuit, all fresh gas flow will pass through the vapouriser prior to entering the circle
 * A separate high-pressure high-flow oxygen flush, which bypasses the vapouriser
 
-<img src="/resources/circle-system.svg">
+![Circle System](/resources/circle-system.svg)
 
 ### Soda Lime
 
@@ -60,13 +66,12 @@ Soda lime:
     * Will pass through a mesh with 4 holes per square inch, but not 8
     * Balance between surface area (speed/efficacy of reaction) and resistance to flow
 * Absorbs CO~2~ by following reaction:\
-    $\begin{aligned}
-CO_2 + H_2O \rightarrow H_2CO_3 \\\
-    H_2CO_3 + 2NaOH \rightarrow Na_2CO_3 + 2H_2O + Heat \\
-    Na_2CO_3 + Ca(OH)_2 \rightarrow CaCO_3 + 2NaOH + Heat
+$\begin{aligned}
+CO_2 + H_2O &\rightarrow H_2CO_3 \\
+H_2CO_3 + 2NaOH &\rightarrow Na_2CO_3 + 2H_2O + Heat \\
+Na_2CO_3 + Ca(OH)_2 &\rightarrow CaCO_3 + 2NaOH + Heat \\
 \end{aligned}$
-
-    * This increases the pH of the soda lime, causing the pH indicator to change colour
+    * This ↑ the pH of the soda lime, causing the pH indicator to change colour
 * 100g of soda lime can absorb ~26L of CO~2~
 
 
@@ -89,7 +94,7 @@ Settings affect the fresh gas flow mixture, whilst the patient respires gas from
     * Produces Compound A-E from sevoflurane
     * Produces carbon monoxide from desflurane, isoflurane, and enflurane
     * Dangerous if aspirated
-  \
+
 ---
 
 ## References

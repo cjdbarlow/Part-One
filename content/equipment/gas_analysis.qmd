@@ -1,11 +1,18 @@
 # Oxygen Analysis
 
-> Describe the principles of measuring oxygen concentration
+:::CICM
+Describe the principles of measuring oxygen concentration.
+:::
 
-As oxygen is a molecule containing two similar atoms, its partial pressure cannot be determined using infrared techniques (unlike CO~2~). Oxygen content of a gas is instead determined using:
+:::ANZCA
+Describe the methods of measurement applicable to anaesthesia, including clinical utility, complications and sources of error in particular gas analysis~~, including capnography~~.
+:::
+
+As oxygen is a molecule containing two similar atoms, its partial pressure cannot be determined using infrared techniques (unlike CO~2~). Oxygen content of a gas is instead determined using either:
 
 * Paramagnetic analyses
 * Fuel Cells
+
 
 ## Paramagnetic Analysis
 
@@ -13,20 +20,20 @@ Principles of paramagnetic analysis:
 
 * Oxygen is paramagnetic\
 This means it is attracted by magnetic fields, but does not propagate the field. 
-    * This is because its two unpaired valent electrons have the same spin.
+    * This is because its two unpaired valent electrons have the same spin
 * Many other gases weakly repelled by magnetic fields (diamagnetic)
-
 * The attraction of a gas mixture to a magnetic field is therefore proportional to its oxygen content
 * Many different methods exist which use this property to determine oxygen content
 
+
 ### Pressure Method
 
-* Gas tested flows into a tube
+* Gas being tested flows into a tube
 * A reference gas flows into a parallel tube
 * Both gases then pass through:
     * Flow restrictors
-    * Magnetic field\
-    This is being turned on and off at ~100Hz.
+    * Alternating magnetic field\
+    Field is turned on and off at ~100Hz.
 * The gases combine in the magnetic field
 * The greater the oxygen content of the gas, the more it will move into the magnetic field\
 This movement creates a negative pressure behind the gas.
@@ -35,7 +42,8 @@ This movement creates a negative pressure behind the gas.
 
 ### Temperature Method
 
-Used in many modern devices.
+Used in many modern devices. In this method:
+
 * Gas flows through a magnetic field, causing the particles to align\
 This changes the thermal conductivity of the oxygen molecules.
 * The change in thermal conductivity of the gas mixture is proportional to the oxygen content
@@ -46,7 +54,8 @@ This changes the thermal conductivity of the oxygen molecules.
 * Accurate
 * Rapid response time\
 Modern analysers can identify breath-to-breath variation in FiO~2~.
-* Don't require regular calibration
+* Does not require regular calibration
+
 
 ### Cons
 
@@ -54,6 +63,7 @@ Modern analysers can identify breath-to-breath variation in FiO~2~.
 * Interference from other paramagnetic gases
     * Nitric oxide\
     Effect is minimal as nitric is delivered in far smaller volumes than oxygen, and is only weakly paramagnetic.
+
 
 ## Fuel Cells
 

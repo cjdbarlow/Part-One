@@ -1,23 +1,25 @@
 # Bispectral Index
 
-
-> Describe the principles behind the BIS 
+:::ANZCA
+Explain the principles involved in the electronic monitoring of depth of sedation and anaesthesia, including the use of EEG analysis.
+:::
 
 Bispectral Index (BIS) is a proprietary signal-processed EMG and EEG monitor used to estimate depth of anaesthesia.
 
 The BIS outputs four values:
 
-* BIS\
+* **BIS**\
 Dimensionless index between 0 and 100 where:
     * 0 represents cortical electrical silence
     * 85-100 represents normal awake cortical activity
     * 40-60 is consistent with general anaesthesia
-* Signal Quality Index (SQI)\
+* **Signal Quality Index** (SQI)\
 Dimensionless index between 0 and 100 which gives an indication of the accuracy of the BIS value.
-* Electromyography\
+* **Electromyography**\
 Gives an indication of the influence of muscle activity on BIS values.
-* Suppression Ratio (SR)\
+* **Suppression Ratio** (SR)\
 Percentage of previous 63 seconds where EEG is isoelectric.
+
 
 ## Method
 
@@ -30,14 +32,14 @@ Proprietary, but involves:
 Analytic techniques:
 
 * **Compressed Spectral Array**
- * The signal over a short period (e.g. 5-10 seconds) of EEG recordings are analysed together\
- Each period is known as an epoch.
- * A Fourier transformation is performed\
- This breaks the EEG signal down into the sine waves used to produce it.\
- * A histogram of each frequency is plotted
- * As anaesthesia deepens, lower frequencies begin to dominate
- * The **spectral edge frequency** is the frequency greater than 95% of the frequencies in the compressed spectral array\
- It is an indicator of anaesthetic depth, but not of drug concentration.
+    * The signal over a short period (e.g. 5-10 seconds) of EEG recordings are analysed together\
+    Each period is known as an epoch.
+    * A Fourier transformation is performed\
+    This breaks the EEG signal down into the sine waves used to produce it.\
+    * A histogram of each frequency is plotted
+    * As anaesthesia deepens, lower frequencies begin to dominate
+    * The **spectral edge frequency** is the frequency greater than 95% of the frequencies in the compressed spectral array\
+    It is an indicator of anaesthetic depth, but not of drug concentration.
 * **Coherence**\
 Under anaesthesia, the electrical activity in different sections of the brain falls out of phase.
 
@@ -53,18 +55,17 @@ Trauma, GA caesarian section, cardiac surgery.
 * Proprietary algorithm
 * Expensive
 * May be inaccurate with:
- * Hypothermia
- * Hypercarbia
- * Hypoxia
- * Muscle relaxants\
- BIS may fall inappropriately.
- * Non-GABAergic agents (e.g. ketamine, nitrous oxide)  \
- May not fall appropriately.
+    * Hypothermia
+    * Hypercarbia
+    * Hypoxia
+    * Muscle relaxants\
+    BIS may fall inappropriately.
+    * Non-GABAergic agents (e.g. ketamine, nitrous oxide)  \
+    May not fall appropriately.
 
 
- ---
- 
- ##References
- 1. Aston D, Rivers A, Dharmadasa A. Equipment in Anaesthesia and Intensive Care: A complete guide for the FRCA. Scion Publishing Ltd. 2014.
+---
 
-\
+## References
+
+1. Aston D, Rivers A, Dharmadasa A. Equipment in Anaesthesia and Intensive Care: A complete guide for the FRCA. Scion Publishing Ltd. 2014.

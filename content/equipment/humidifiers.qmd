@@ -1,5 +1,10 @@
 # Humidifiers
 
+~~Define humidification,~~ outline the mechanisms of humidification and its importance.
+
+:::ANZCA
+Describe basic physics applicable to anaesthesia in particular ~~principles of humidification and~~ use of humidifiers.
+:::
 
 Humidifiers add water vapour to inspired gas, taking the place of normal body mechanisms which are bypassed or impeded by invasive and non-invasive ventilation. Maintaining adequate humidity of inspired gas is important in:
 
@@ -10,7 +15,11 @@ Inspiration of dry gas increases viscosity of mucous.
 * Reducing water loss\
 Water will be absorbed from mucosa to humidify gas.
 
-Humidifiers can be classified into active or passive.
+Humidifiers can be classified into:
+
+* Passive humidifiers
+* Active humidifiers
+
 
 ## Passive Humidifiers
 
@@ -19,7 +28,7 @@ Passive humidifiers:
 * Do not require power
 * Do not require water
 
-The Heat and Moisture Exchange (HME) filter is the classic passive humidifier:
+The **Heat and Moisture Exchange** (HME) **filter** is the **classic passive humidifier**:
 
 * Placed between the patient and the patient Y-piece
 * Consists of:
@@ -34,7 +43,7 @@ The Heat and Moisture Exchange (HME) filter is the classic passive humidifier:
 * An HME takes up to 20 minutes to be fully effective, and can achieve a relative humidity up to 70%
 * Efficacy depends upon the patient's core temperature and the condition of the airway
 
-### Pros
+Pros:
 
 * Cheap
 * Lightweight
@@ -42,7 +51,7 @@ The Heat and Moisture Exchange (HME) filter is the classic passive humidifier:
 * May contain anti-bacterial filter
 
 
-### Cons
+Cons:
 
 * May be blocked with vomit and secretions
 * Increase airway resistance
@@ -70,13 +79,14 @@ Active Humidifiers:
     Inspired gases are bubbled through the water bath to humidify them.
     * A water trap\
     To trap condensed water. Should be changed regularly to minimise infection risk.
-  \
-### Pros
+
+
+Pros:
 
 * Greater humidification
 * Appropriate for long-term ventilation
 
-### Cons
+Cons:
 
 * Bulky
 * Expensive

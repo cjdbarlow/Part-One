@@ -1,37 +1,48 @@
 # Gas Flow
 
-> Describe the measurement of flow, pressure and volume of gases
+:::ANZCA
+Describe the methods of measurement applicable to anaesthesia, including clinical utility, complications and sources of error in particular measurement of volumes, flows, and pressures~~, including transducers~~.
+:::
 
-Types of Flow:
+:::ANZCA
+Describe basic physics applicable to anaesthesia in particular behaviour of fluids (gases and liquids).
+:::
 
-* Laminar flow\
+Flow can be described the motion of the fluid as either:
+
+* **Laminar** flow\
 Fluid moving in a steady manner without turbulence.
-* Turbulent flow\
+* **Turbulent** flow\
 Irregular fluid movement in radial, axial, and circumferential axes.
     * Laminar flow is more efficient than turbulent flow, as it requires a smaller pressure gradient to generate the same flow
     * For two fluids moving at the same speed, the velocity of individual particles in laminar flow will be both higher and lower 
-* Transitional flow\
-Mixture of laminar and turbulent flow. Flow is typically turbulent in the centre, and laminar at the edges.
+* **Transitional** flow\
+Mixture of laminar and turbulent flow. Transitional flow is typically turbulent in the centre, and laminar at the edges.
 
+
+## Flowmeters
 
 Devices used to measure gas flow include:
 
 * Variable-Orifice Flowmeters
 * Fixed-Orifice Flowmeters\
-Pneumotachograph.
+Also known as pneumotachographs.
 * Hot wire flowmeter
 
 
+:::column-margin
 Note orifice based flowmeters rely on the **Hagan-Poiseuille Equation**:\
-$Q = {\Delta P r^4 \pi \over 8 \eta l} $
+\
+$Q = {\Delta P r^4 \pi \over 8 \eta l}$, where:
+
 * Viscosity ($\eta$) and length ($l$) are fixed by both devices
 * Fixed orifice flowmeters also fix radius ($r$), such that the change in pressure must therefore be proportional to flow:\
 $Q= {\Delta P \pi k}$, where $k$is a constant
 * Variable orifice flowmeters also fix pressure ($\Delta P$), such that flow can be calculated from the radius:\
 $Q= r^4 \pi k$
+:::
 
-
-## Flowmeters
+### Variable Orifice Flowmeters
 
 **Constant pressure, variable orifice** flowmeters are found on wall and cylinder gases. They consist of:
 
@@ -39,6 +50,7 @@ $Q= r^4 \pi k$
 * A needle valve
 * A bobbin\
 May have a groove which causes the bobbin to spin, confirming it is not stuck.
+
 
 Method:
 
@@ -49,13 +61,12 @@ Therefore there is a **pressure difference** across it.
     * **At equilibrium**, the pressure exerted by the bobbin on the flow of gas ($P = {Gravity \times Bobbin \ Mass \over Bobbin \ Cross-Sectional \ Area}$) is equal to the pressure exerted by the gas on the bobbin
 * As flow is increased, the bobbin is pushed further up the flowmeter due to the increased pressure
 * The bobbin will reach a new equilibrium position when the orifice of the flowmeter has become wide enough for the pressure on the bobbin to equal the pressure of gravity
-
 * Flowmeters are calibrated for individual gases as:
     * Laminar (typically low flows) flow is proportional to viscosity
     * Turbulent (typically high flows) flow is proportional to density
 
 
-### Pros
+Pros:
 
 * Cheap
 * No additional power supply required
@@ -64,37 +75,38 @@ Readings may be altered by:
     * Change in temperature affects viscosity and density of gas
     * Change in pressure affects density of gas
 
-### Cons
+
+Cons:
 
 * Must be vertical
 * Bobbins can become stuck
 
-## Pneumotachographs
+### Fixed Orifice Flowmeters
 
 **Constant orifice, variable pressure** flowmeter. Several different designs exist, and include:
 
-* Fleisch pneumotachograph\
+* **Fleisch pneumotachograph**\
     * Consists of several fine bore parallel tubes placed in the gas circuit\
     Decreased radius and increased resistance reduces gas flow velocity, improving laminar flow.
     * A **differential pressure transducer** is placed at either end of the tubes
     * The pressure drop across the tubing is directly proportional to flow
-* Pitot tubes\
+* **Pitot tubes**\
     * Consists of two tubes placed into the gas circuit:
         * One faces into the gas flow\
         * The other faces away from the gas flow
     * The pressure difference between tubes is proportional to flow
 
-### Pros
+Pros:
 
 * Accurate
 * Continual measurement
 * Allow calculation of volumes\
 $Volume \ (L) = Flow \ (L.s^{-1}) \times Time \ (s)$
 
-### Cons
+Cons:
 
-* Increased resistance
-* Increased dead space
+* ↑ Resistance
+* ↑ Dead space
 * Require laminar flow\
 Inaccurate when:
     * Flows are higher than what the system is designed for
@@ -102,7 +114,8 @@ Inaccurate when:
         * Change in gas mixture
     * Alteration in gas temperature
 
-## Hot Wire Flowmeter
+
+### Hot Wire Flowmeter
 
 Components:
 
@@ -117,12 +130,12 @@ Method:
 * Rate of heat dissipation is proportional to gas flow
 * The amount of current required to return the wire to 180 is measured, and is proportional to flow
 
-### Pros
+Pros:
 
 * Accurate
 * Fast
 
-### Cons
+Cons:
 
 * Fragile
 

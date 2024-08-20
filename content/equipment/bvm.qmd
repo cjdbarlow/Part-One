@@ -1,7 +1,14 @@
-# Bag-Valve-Mask
+# Bag-Valve-Mask {#sec-bvm}
 
+:::ANZCA
+Describe and classify breathing systems used in anaesthesia. Evaluate their clinical utility and hazards associated with their use.
+:::
 
-<img src="/resources/bvm.svg">
+:::column-margin
+This covers the bag-valve-mask resuscitator. A general overview of anaesthetic breathing systems is covered under @sec-breathing_systems.
+:::
+
+![Bag-Valve-Mask Schematic](/resources/bvm.svg)
 
 ## Components
 
@@ -68,7 +75,7 @@ Function:
 
 Logistics:
 
-* Misassembly
+* Mis-assembly\
 Reusable BVM systems can occasionally have their valves inserted backwards, giving risk of barotrauma and failure of oxygen delivery.
 
 
