@@ -1,0 +1,59 @@
+# Subclavian Vein
+
+:::CICM
+Describe the anatomy relevant to central venous access (including ~~femoral, internal jugular, external jugular,~~ subclavian ~~and peripheral~~ veins)
+:::
+
+:::ANZCA
+Describe the anatomy and anatomical relations of the great veins relevant to performing central venous cannulation, including the ultrasound anatomy.
+:::
+
+The subclavian vein:
+
+* Is a continuation of the axillary vein as it crosses the **upper surface** of the **first rib**
+* Travels posterior to the clavicle, separated from the subclavian artery by the anterior scalene
+* **Joins** with the **internal jugular vein** to form the **brachiocephalic vein**
+
+
+## Borders
+
+* Anteriorly by the clavicle, subclavius muscle, and pectoralis major
+* Posteriorly by anterior scalene muscle and subclavian artery
+* Inferiorly by first rib and lung apex
+* Superiorly by skin, subcutaneous tissue, and platysma
+* Medially by the brachiocephalic vein
+* Laterally by the axillary vein
+
+## Surface Anatomy
+
+The needle is placed in the deltopectoral groove, inferior and lateral to the middle third of the clavicle. The needle is inserted at a shallow angle, passing under the middle third of the clavicle aiming at the sternal notch.
+
+## Ultrasound Anatomy
+
+Identify:
+
+* The vein deep to subclavius
+* The artery, superior to the vein
+* The pleura, deep to the vascular structures
+
+## Approaches
+
+* Infraclavicular
+	* Sternal notch identified with index finger
+	* Thumb placed two-third laterally along the clavicle
+	* Needle advanced through the skin beneath the thumb and angled towards the sternal notch, into the clavicle
+	* Needle 'walked off' the deep aspect of the clavicle, with continual gentle suction used to identify the vein
+		* This maintains a flat trajectory - it is important to avoid a steep needle angle
+		* The needle can be displaced below the clavicle with pressure on the overlying tissues, which limits the steepness of the angle
+		* Needle trajectory should not be adjusted whilst in the deep tissues
+* Supraclavicular
+
+:::column-margin
+Generally, landmarks are identified with the contralateral hand - if placing a right-sided subclavian line, identify the structures with your left hand.
+:::
+
+---
+
+## References
+
+1. McMinn, RMH. Last's Anatomy: Regional and Applied. 9th Ed. Elsevier. 2003.

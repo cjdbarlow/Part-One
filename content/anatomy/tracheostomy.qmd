@@ -1,6 +1,8 @@
 # Tracheostomy
 
-> Describe the anatomy relevant to the performance of a ~~naso, or endo, tracheal intubation, a cricothyroidotomy or~~ tracheostomy
+:::CICM
+Describe the anatomy relevant to the performance of a ~~naso, or endo, tracheal intubation, a cricothyroidotomy or~~ tracheostomy.
+:::
 
 ## Trachea
 
@@ -48,6 +50,7 @@ Lie lateral to trachea.
     * Ideally between 1st and 2nd rings
 
 ---
+
 ## References
 
 1. McMinn, RMH. Last's Anatomy: Regional and Applied. 9th Ed. Elsevier. 2003.

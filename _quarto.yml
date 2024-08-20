@@ -330,3 +330,11 @@ book:
             - content/equipment/scavenging.qmd
             - content/equipment/diathermy.qmd
             - content/equipment/lasers.qmd
+        - part: "Procedural Anatomy"
+          chapters:
+            - content/anatomy/ijv.qmd
+            - content/anatomy/scv.qmd
+            - content/anatomy/icc.qmd
+            - content/anatomy/antecubital_fossa.qmd
+            - content/anatomy/tracheostomy.qmd
+            - content/anatomy/neuraxial.qmd

@@ -1,6 +1,8 @@
 # Intercostal Catheter
 
-> Describe the anatomy relevant to the insertion of an intercostal catheter
+:::CICM
+Describe the anatomy relevant to the insertion of an intercostal catheter
+:::
 
 An intercostal catheter drains the intrapleural space.
 
@@ -8,7 +10,7 @@ An intercostal catheter drains the intrapleural space.
 
 An ICC should be placed in the **safe triangle**:
 
-![](http://www.oxfordmedicaleducation.com/wp-content/uploads/2014/11/Chest-drain-safe-triangle.png)
+![Safe Triangle](/resources/safe_triangle.png)
 
 This is bordered:
 
@@ -30,6 +32,7 @@ This is bordered:
 
 
 ---
+
 ## References
 
 1. [LITFL - Chest Drain](http://lifeinthefastlane.com/ccc/chest-drain/)

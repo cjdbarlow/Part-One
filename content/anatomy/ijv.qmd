@@ -1,6 +1,12 @@
 # Internal Jugular Vein
 
-> Describe the anatomy relevant to central venous access (including ~~femoral,~~ internal jugular, ~~external jugular, subclavian and peripheral~~ veins)
+:::CICM
+Describe the anatomy relevant to central venous access (including ~~femoral,~~ internal jugular, ~~external jugular, subclavian and peripheral~~ veins).
+:::
+
+:::ANZCA
+Describe the anatomy and anatomical relations of the great veins relevant to performing central venous cannulation, including the ultrasound anatomy.
+:::
 
 The internal jugular vein:
 
@@ -40,9 +46,9 @@ Identify the triangle formed by the two heads of SCM and the clavicle. Palpate t
 
 Identify the vein deep to SCM, noting that it is (unlike the adjacent ICA):
 
-* Non-pulsatile\
+* Non-pulsatile
 * Thin walled
-* Compressible\
+* Compressible
 
 
 ## Approaches
@@ -56,6 +62,7 @@ At the posterior edge of SCM, just superior to where the EJV crosses the sternom
 
 
 ---
+
 ## References
 
 1. McMinn, RMH. Last's Anatomy: Regional and Applied. 9th Ed. Elsevier. 2003.
