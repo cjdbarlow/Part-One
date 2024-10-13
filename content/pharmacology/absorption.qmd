@@ -8,11 +8,12 @@ Absorption is dependent on the route of administration. Routes of administration
 
 * Effect site of the drug
 * Drug factors
-  * Bioavailability
-  * Available preparations
+    * Bioavailability
+    * Available preparations
 * Patient factors
-  * Ability to take or absorb oral medications
-  * Preference
+    * Ability to take or absorb oral medications
+    * Preference
+
 
 ## Bioavailability
 
@@ -25,6 +26,41 @@ Interactions with other drugs and food.
     * Malabsorption syndrome
     * Gastric stasis
 * First-pass metabolism
+
+
+### Significance of Bioavailability
+
+Bioavailability indicates how the dose-exposure relationship is affected by:
+
+* Drug factors
+    * Formulation
+    * Solubility
+* Patient factors
+    * Comorbidities
+    * Diet
+    * Critical illness
+
+
+## Enteric Administration
+
+Enteric administration is affected by:
+
+* Gastric pH
+* Gastric emptying and intestinal motility
+* First pass metabolism
+
+
+### Gastric pH
+
+Gastric pH affects absorption as it alters the proportion of drug that is in an unionised form, and therefore available to cross the gastric mucosa:
+
+* ↓ Gastric pH ↑ absorption of alkaline drugs
+* ↑ Gastric pH ↓ absorption of acidic drugs
+* Gastric pH is:
+    * Neutral at birth
+    * Becomes briefly acidic (pH 1-3) a few hours after birth, but returns to neutral after 24 hours
+    * Adult values for gastric acidity are reached at ~2 years
+
 
 ## First-pass Metabolism
 
@@ -50,5 +86,6 @@ May also refer to metabolism by the:
 ## References
 
 1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.\
-2. [Chong CA, Denny NM. Local anaesthetic and additive drugs.](http://www.frca.co.uk/documents/anaes.5.5.158.pdf)
-3. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+1. [Chong CA, Denny NM. Local anaesthetic and additive drugs.](http://www.frca.co.uk/documents/anaes.5.5.158.pdf)
+1. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+1. Starkey ES, Sammons HM. [Practical pharmacokinetics: what do you really need to know?](https://ep.bmj.com/content/100/1/37) Arch Dis Child Educ Pract Ed. 2015 Feb;100(1):37–43. 

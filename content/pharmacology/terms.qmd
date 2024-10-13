@@ -6,14 +6,16 @@ Explain ~~the concept of pharmacokinetic modelling of single and multiple compar
 
 **Pharmacokinetics** describes **what the body does to a drug**. 
 
-## Volume of distribution (V~D~)
+## Volume of Distribution (V~D~)
 
 The volume of distribution is defined as the **theoretical volume into which an amount of drug would be distribute to produce the observed plasma concentration**.
-$Vd = {Total \ bioavailable \ drug \over Plasma \ concentration }$
+$$Vd = {Total \ bioavailable \ drug \over Plasma \ concentration }$$
+
+Properties:
 
 * Units are ml.kg^-1^ 
-* It is a way to describe what proportion of a drug is confined to plasma, and what proportion distributes to other tissues
-* It does not correspond to any particular volume, however a V~D~ of:
+* Describes what proportion of a drug is confined to plasma, and what proportion distributes to other tissues\
+It does not correspond to any particular volume, however a V~D~ of:
     * Less than 40ml.kg^-1^ indicates a drug is confined to plasma
     * Up to 200ml.kg^-1^ indicates a drug is confined to the ECF
     * Up to 600ml.kg^-1^ indicates a drug is dissolved into the TBW
@@ -29,6 +31,16 @@ $Vd = {Total \ bioavailable \ drug \over Plasma \ concentration }$
         Volume of distribution at peak effect.
     * Which V~D~ to use depends on the pharmacological question  
     e.g. Intubating dose for opioid should use the V~D~pe as it will allow a target concentration to be selected for the time at which intubation will occur relative to drug administration
+* Affected by changes in total-body water
+
+
+### Significance of the Volume of Distribution
+
+Allows calculation of:
+
+* **Expected drug concentration**s produced by a given dose\
+Both in plasma, as well as in target sites.
+* **Loading dose**s
 
 
 ## Half-life
@@ -74,6 +86,33 @@ Where:
 * $Cl$ is the clearance
 
 
+### Significance of Half-Life
+
+Half-life determines:
+
+:::column-margin
+Note that complete drug elimination is also another form of steady-state - both are achieved after **3-5× half-lives**.
+:::
+
+* The time taken:
+    * To achieve **steady state**\
+    Drugs with very long half-lives often require loading doses for this reason, as otherwise achieving an effective plasma concentration may take days-weeks.
+    * For drug elimination
+* **Dosing intervals**\
+If a drug is given:
+    * Every half-life, the plasma concentration will fluctuate two-fold over the dosing interval
+    * More frequently than one half-life, the peaks and troughs will be less than two-fold
+    * Less frequently than one half-life, greater fluctuation will occur
+
+:::column-margin
+The significance of fluctuating drug levels is drug dependent. How much half-life affects dosing therefore depends on how much drug level affects:
+
+* Clinical efficacy
+* Toxicity
+:::
+
+
+
 ## Time Constant ($\tau$)
 
 The time constant is the **time taken for a process to complete if it continued at its initial rate of change**. Time constants are similar to the half-life, but are **better suited when modeling** change in **exponential processes**.
@@ -95,12 +134,17 @@ Clearance describes the elimination of drug from the body. Clearance is the **vo
 
 * Does not include redistribution
 * Is calculated from the area under the concentration time curve: $Cl = {Dose \over AUC}$
+* Is the sum of drug clearances from each organ
 
 The **rate of elimination** is the **amount of drug removed by the body** per unit time, and is:
 
 * The product of the clearance and the current concentration: $Rate \ of \ Elimination = Cl \times C$, in mg.min^-1^
 * *Not* the same as clearance
 * Also **not** the same as the rate *constant* for elimination
+
+### Significance of Clearance
+
+Clearance determines the **maintenance dose required** to achieve **steady-state**.
 
 ### Total Clearance
 
@@ -115,6 +159,9 @@ Total clearance is the sum of clearances from individual organs, e.g.:
     * $HBF$ is the hepatic blood flow in ml.min^-1^
     * $ER$ is the extraction ratio (see below)
 
+:::column-margin
+Generally, total clearance is equivalent to the sum of hepatic (via metabolism to inactive metabolite, or biliary clearance), and renal (in urine) clearance.
+:::
 
 In a one compartment model, total clearance can be expressed as either:
 
@@ -170,6 +217,8 @@ The Michaelis-Menten equation describes the transition from first order to zero 
 ## References
 
 1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.\
-2. Plasma Volume.  Mosby's Medical Dictionary, 8th edition. 2009.\
-3. Stanski RD, Shafer SL. [The Biophase Concept and Intravenous Anesthesia](https://web.stanford.edu/~sshafer/LECTURES.DIR/Notes/Biophase%20in%20Anesthesia.doc).
-4. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+1. Plasma Volume.  Mosby's Medical Dictionary, 8th edition. 2009.\
+1. Stanski RD, Shafer SL. [The Biophase Concept and Intravenous Anesthesia](https://web.stanford.edu/~sshafer/LECTURES.DIR/Notes/Biophase%20in%20Anesthesia.doc).
+1. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+1. Starkey ES, Sammons HM. [Practical pharmacokinetics: what do you really need to know?](https://ep.bmj.com/content/100/1/37) Arch Dis Child Educ Pract Ed. 2015 Feb;100(1):37–43. 
+
