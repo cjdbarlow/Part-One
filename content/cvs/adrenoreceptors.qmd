@@ -1,11 +1,11 @@
-# Adrenoreceptors
+# Adrenoreceptors {#sec-adrenoreceptors}
 
 :::CICM
 Understand the pharmacology of adrenoreceptor blocking drugs.
 :::
 
 ::: column-margin
-This covers the pharmacology of adrenoreceptors. The production and metabolism of endogenous catecholamines is covered under [adrenal hormones](adrenal-hormones.md). Detailed information on specific sympathomimetic agents, including structure-activity relationships, is in the [pharmacopeia](adrenergic_drugs.md).
+This covers the pharmacology of adrenoreceptors. The production and metabolism of endogenous catecholamines is covered under @sec-adrenal_hormones. Detailed information on specific sympathomimetic agents, including structure-activity relationships, is covered under @sec-catechols.
 :::
 
 Adrenoreceptors are classified by their varying sensitivity to different catecholamines. Additionally:

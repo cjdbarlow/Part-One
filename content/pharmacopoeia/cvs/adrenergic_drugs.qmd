@@ -1,47 +1,33 @@
-# Adrenergic Vasoactives
-
-
-*This covers the pharmacology of specific catecholamines and sympathomimetics. The synthesis of endogenous catecholamines is covered under [adrenal hormones](adrenal-hormones.md), whilst specifics of catecholamine receptor function is covered under [adrenoreceptors](adrenoreceptors.md).*
-
+# Adrenergic Vasoactives {#sec-catechols}
 
 Adrenergic drugs:
 
+:::column-margin
+This covers the pharmacology of specific catecholamines and sympathomimetics. The synthesis of endogenous catecholamines is covered under @sec-adrenal_hormones, whilst specifics of catecholamine receptor function is covered under @sec-adrenoreceptors.
+:::
+
 * Act via:
- * Dopamine receptors (D)
- * Adrenoreceptors (α and β)
+    * Dopamine receptors (D)
+    * Adrenoreceptors (α and β)
 * Can be:
- * **Direct-acting**\
- Stimulate the receptor.
- * **Indirect-acting**\
- Stimulate the release of noradrenaline to cause effects.
+    * **Direct-acting**\
+    Stimulate the receptor.
+    * **Indirect-acting**\
+    Stimulate the release of noradrenaline to cause effects.
 * Classified as either:
- * **Naturally-occurring catecholamines**
- * **Synthetic catecholamines**
- * **Synthetic sympathomimetics**\
- Drugs which act on adrenoreceptors but are not classified as catecholamines due to their chemical structure.
+    * **Naturally-occurring catecholamines**
+    * **Synthetic catecholamines**
+    * **Synthetic sympathomimetics**\
+    Drugs which act on adrenoreceptors but are not classified as catecholamines due to their chemical structure.
 
 
 ## Comparison of Naturally Occurring Vasoactives
 
+```{r}
+source("scripts/drugtables.R")
 
-|**Properties**|**Adrenaline**|**Noradrenaline**|**Dopamine**|
-|---|---|---|---|
-|**Uses**|Cardiac arrest, anaphylaxis, inotropy, chronotropy, adjunct in local anaesthetics|↑ SVR|↑ HR, ↑ CO, ↑ UO|
-|**Dosing**|0.05-2µg/kg/min|0.05-1.5µg/kg/min|1-50µg/kg/min. Increase by 1-4µg/kg/min ~10 minutely until desired response.|
-|**Route**|IV/IM/ETT/SC|IV|IV|
-|**Presentation**|A clear, colourless solution typically at 0.1-1mg/ml|Clear, colourless, light-sensitive solution. Sodium metabisulfite as excipient.|Clear, colourless solution with 200mg or 800mg in water|
-|**Absorption**|Variable ETT and SC absorption|IV only|IV only|
-|**Metabolism**|t~1/2~ 2min. Metabolised by mitochondrial MAO and COMT within liver, kidney, and blood to VMA and metadrenaline.|t~1/2~ 2min. Metabolised by mitochondrial MAO and COMT in liver, kidney, and blood to VMA and normetadrenaline.|t1/2 3 min. 25% of dose converted to noradrenaline. Remainder is metabolised by MAO and COMT similar to nor/adrenaline.|
-|**Elimination**|Urinary excretion of metabolites|Pulmonary uptake of up to 25%. Urinary excretion of metabolites|Renal, t1/2β 3 minutes|
-|**Mechanism of action**|β>α at lower doses. At high doses α~1~ effects dominate.|α>>β|D~1~ dominates at ≤5µg/kg/min. <br> β~1~ dominate at 2-10µg/kg/min. <br> α dominates >10µg/kg/min|
-|**Respiratory**|↑ MV, bronchodilation|↑ MV, bronchodilation||
-|**CVS**|↑ Inotropy, ↑ HR, ↑ SVR and PVR, ↑ BP, ↑ CO, ↑ myocardial O~2~ consumption. Coronary vasodilation. Arrhythmogenic.|↑ SVR, venoconstriction and ↑ preload, ↑ Myocardial O~2~ consumption, ↑ Coronary flow. Reflex ↓ in HR. Receptor affinity ↓ in acidosis. ↑ Extravasation of peripheral veins due to constriction and ischaemia of vein wall.|↑ Inotropy, ↑ HR, ↑ CO, coronary vasodilation. At high doses, ↑ SVR and PVR, ↑ VR, tachyarrhythmias.|
-|**CNS**|↑ Pain threshold, ↑ MAC||Inhibits prolactin. Nausea.|
-|**MSK**|Necrosis with extravasation|Necrosis with extravasation|Necrosis with extravasation|
-|**Renal**|↓ RBF and ↑ in sphincter tone|↓ RBF|No evidence for renoprotective effects despite ↑ RBF at low doses|
-|**Metabolic**|↑ BMR, ↑ lipolysis, ↑ gluconeogenesis and BSL, ↑ Lactate. Initially ↑ insulin secretion (β), then ↓ (α)|||
-|**GU**||↓ Uterine blood flow and foetal bradycardia||
-|**GIT**|||Mesenteric vasodilation|
+DrugTable("adrenaline", "noradrenaline" , "dopamine")
+```
 
 
 ## Comparison of Synthetic Adrenergic Vasoactives
@@ -75,31 +61,33 @@ Catecholamines consist of:
 
 * A catechol ring\
 A benzene ring with two hydroxyl groups in the 3 and 4 position.
-  * Losing one hydroxyl group
-    * Increases lipid solubility and decreases the potency 10-fold
-    * Prevents metabolism by COMT, prolonging duration of action
-  * Losing both hydroxyl groups decreases the potency 100-fold
-	* Changing the hydroxyl groups to the 3 and 5 position increases beta-2 selectivity when there is also a large substitution present on the amine group
+    * Losing one hydroxyl group
+        * Increases lipid solubility and decreases the potency 10-fold
+        * Prevents metabolism by COMT, prolonging duration of action
+    * Losing both hydroxyl groups decreases the potency 100-fold
+	   * Changing the hydroxyl groups to the 3 and 5 position increases beta-2 selectivity when there is also a large substitution present on the amine group
 * An ethylamine tail\
 Consists of:
- * Beta carbon\
- The first carbon.
-   * Adding a hydroxyl group decreases lipid solubility and CNS penetration
-   * Adding any group increases alpha and beta selectivity
- * Alpha carbon\
- The second carbon.
-   * Adding a group prevents metabolism by MAO, prolonging duration of action
-   * Methylation increases indirect activity
- * Amine group\
- The terminal nitrogen.
-   * Addition of a methyl group generally increases beta selectivity\
-   As the chain length increases, so does the beta selectivity.
+    * Beta carbon\
+    The first carbon.
+        * Adding a hydroxyl group decreases lipid solubility and CNS penetration
+        * Adding any group increases alpha and beta selectivity
+    * Alpha carbon\
+    The second carbon.
+        * Adding a group prevents metabolism by MAO, prolonging duration of action
+        * Methylation increases indirect activity
+    * Amine group\
+    The terminal nitrogen.
+        * Addition of a methyl group generally increases beta selectivity\
+        As the chain length increases, so does the beta selectivity.
+
 
 ### Dopamine
 
 <img src="/resources/dopamine.svg">
 
 * Dopamine is the prototypical catecholamine, to which others are compared
+
 
 ### Noradrenaline
 
@@ -108,12 +96,14 @@ Consists of:
 
 * Noradrenaline has a hydroxyl group added to the beta carbon, increasing its alpha selectivity
 
+
 ### Adrenaline
 
 <img src="/resources/adrenaline.svg">
 
 * Adrenaline is similar to noradrenaline with an additional hydroxyl group on the beta carbon
 * Adrenaline also has a methyl group added to the terminal amine, increasing beta selectivity
+
 
 ### Metaraminol
 
@@ -125,6 +115,7 @@ Consists of:
   * It is not metabolised by COMT, prolonging its duration of action
   * It has reduced potency, requiring administration in higher doses
 * Metaraminol has an additional methyl group on the alpha carbon, preventing metabolism by MAO and further prolonging its duration of action
+
 
 ## Ephedrine
 
@@ -140,6 +131,6 @@ Consists of:
 ## References
 
 1. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.
-2. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
-3. Yartsev A. [Deranged Physiology - Structure of Synthetic Catecholamines](http://www.derangedphysiology.com/main/core-topics-intensive-care/critical-care-pharmacology/Chapter%203.1.3/structure-synthetic-catecholamines)
-4. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+1. Yartsev A. [Deranged Physiology - Structure of Synthetic Catecholamines](http://www.derangedphysiology.com/main/core-topics-intensive-care/critical-care-pharmacology/Chapter%203.1.3/structure-synthetic-catecholamines)
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

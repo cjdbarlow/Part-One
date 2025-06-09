@@ -15,8 +15,10 @@ Describe bias, types of error, ~~confounding factors and sample size calculation
 All of these terms refer to characteristics of **diagnostic tests**. The easiest way to approach this is via a 2x2 table, and has been recommended in previous exams as an approach to questions on this topic.
 :::
 
+: Components of a 2×2 table
+
 +-------------------+-----------------------+-----------------------+--------------------+
-|       Result      |   Disease  Positive   |    Disease Negative   |       Total        |
+| Result            | Disease  Positive     | Disease Negative      | Total              |
 +===================+=======================+=======================+====================+
 | **Test Positive** | True Positives        | False Positives       | All Test Positives |
 +-------------------+-----------------------+-----------------------+--------------------+
@@ -28,8 +30,8 @@ All of these terms refer to characteristics of **diagnostic tests**. The easiest
 
 In this table:
 
-* **True** or **false** refers to whether the test was **correct**
 * **Positive** or **negative** refers to the **test result**
+* **True** or **false** refers to whether the test was **correct**
 
 
 ### Error
@@ -59,7 +61,7 @@ Sensitivity:
 
 ### Specificity
 
-**Specificity** is the probability those without the disease test negative, i.e. the **true negative rate** ,and expressed mathematically as:\
+**Specificity** is the probability those without the disease test negative, i.e. the **true negative rate**, and expressed mathematically as:\
 $Specificity = {True \ Negatives \over All \ Disease \ Negatives } = {True \ Negatives \over True \ Negatives \ + \ False \ Positives}$
 
 

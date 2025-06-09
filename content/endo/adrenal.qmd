@@ -1,11 +1,11 @@
-# Adrenal Hormones
+# Adrenal Hormones {#sec-adrenal_hormones}
 
 :::dual
 Describe the control, secretions and functions of ~~renal and~~ adrenal hormones
 :::
 
 ::: column-margin
-This covers the production of adrenal hormones. Information specific to catecholamines receptor function can be found under [adrenoreceptors](adrenoreceptors.md), whilst detailed information on specific agents, including structure-activity relationships of catecholamines, is covered in the [pharmacopeia](adrenergic_drugs.md).
+This covers the production of adrenal hormones. Information specific to catecholamines receptor function can be found under @sec-adrenoreceptors, whilst detailed information on specific agents, including structure-activity relationships of catecholamines, is covered under @sec-catechols.
 :::
 
 The adrenal glands are paired triangular glands at the superior pole of the kidney. The gland can be divided into:
