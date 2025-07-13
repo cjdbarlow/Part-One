@@ -4,45 +4,50 @@
 Explain clinical drug monitoring with regard to peak and trough concentrations, minimum therapeutic concentration and toxicity
 :::
 
-Drug monitoring:
+Drug monitoring describes the individualisation of dosing by maintaining plasma drug levels within a target range. Drug monitoring is indicated to:
 
-* Describes the individualisation of dosing by maintaining plasma drug levels within a target range
-* Is important in adjusting dose to account for inter-patient variability in response\
-Variability can be:\
-  * Pharmacokinetic\
-  Adjusting drug dose by monitoring plasma levels reduces pharmacokinetic variability.
-  * Pharmacodynamic\
-  Drug dose is adjusted by evaluating the clinical effect. 
+* Avoid **toxicity**
+* Adjust dosing for **efficacy**
+* Monitor **compliance**
+* Account for **high inter-patient variability** in response\
+Variability can be:
+    * Pharmacokinetic\
+    Adjusting drug dose by monitoring plasma levels reduces pharmacokinetic variability.
+    * Pharmacodynamic\
+    Drug dose is adjusted by evaluating the clinical effect. 
 
-Drug levels are measured to ensure the concentration is above the minimum therapeutic concentration but below toxic levels:
 
-* **Minimum therapeutic concentration**\
-The ED~50~, i.e. the dose required to have an effect in 50% of the population.
-  * Determines desired **trough levels**\
-* **Minimum toxic concentration**\
-The LD~50~, or the dose which is lethal in 50% of the population.\
-  * Determines the acceptable **peak levels**
+## Therapeutic Index
 
-From these levels two related terms are derived:
+The **therapeutic index** is:
 
-* Therapeutic range (also known as the therapeutic window)\
-**Difference** between these levels.
-* Therapeutic index\
-**Ratio** between these levels, i.e.\
-$Therapeutic \ Index = {LD_{50} \over ED_{50}}$
-  * A higher therapeutic index gives a greater margin for safety
+* $Therapeutic \ Index = {LD_{50} \over ED_{50}}$, where:
+    * **ED~50~**\
+    The dose required to produce the minimum clinical effect in 50% of the population.
+    * **LD~50~**\
+    The dose which is lethal in 50% of the population.
+* An indication of how safe a medication is at the prescribed dose
+    * A **higher** TI indicates a greater margin for safety\
+    A drug generally has a good safety profile if it has a **TI >10**.
+    * Drugs with a narrow TI have a small range between dose for efficacy and dose for harm\
+
+:::column-margin
+**Narrow therapeutic index** drugs are also  known as "critical dose drugs" or drugs with a "narrow therapeutic range". They are defined as drugs where the TI:
+
+* **TI** is **<2**
+* Ratio of the minimum toxic concentration and minimum therapeutic concentration is <2
+* Safe use requires titration and monitoring
+:::
+
+:::column-margin
+A related term is the **therapeutic range**, or therapeutic window, which is the *difference* between the minimum therapeutic concentration and the minimum toxic concentration.
+:::
 
 
 <img src="/resources/therapeutic-index.svg">
 
 
 ## Indications
-
-Drugs are monitored in order to:
-
-* Avoid **toxicity**
-* Adjust dosing for **efficacy**\
-* **Monitor** compliance or determine failure of therapy
 
 Drugs that typically require monitoring have a:
 
@@ -58,7 +63,7 @@ Drugs where the effect can be measured clinically (e.g. antihypertensives) tend 
 * The drug has a narrow therapeutic range
 
 
-### Commonly Monitored Drugs in the ICU Setting
+: Commonly Monitored Drugs in the ICU Setting
 
 |    Drug    | Therapeutic Range |
 |------------+-------------------|
@@ -67,6 +72,11 @@ Drugs where the effect can be measured clinically (e.g. antihypertensives) tend 
 | Tacrolimus | 5-20 microgram/L  |
 | Serolimus  | 5-15 microgram/L  |
 | Phenytoin  | 10-20 mg/L        |
+
+:::column-margin
+\* Indicates trough level.
+:::
+
 
 ## Timing of Samples
 
@@ -110,5 +120,7 @@ Active metabolites are not measured but will contribute to the response.
 
 ## References
 
-1. Birkett DJ. [Therapeutic drug monitoring](http://www.australianprescriber.com/magazine/20/1/9/11). Aust Prescr 1997;20:9-11.
-2. Ghiculescu RA. [Therapeutic drug monitoring, which drugs, why, when, and how to do it](http://www.australianprescriber.com/magazine/31/2/42/4). Aust Prescr 2008;31:42-4.
+1. Birkett DJ. [Therapeutic drug monitoring](https://australianprescriber.tg.org.au/articles/therapeutic-drug-monitoring.html). Aust Prescr 1997;20:9-11.
+1. Ghiculescu RA. [Therapeutic drug monitoring, which drugs, why, when, and how to do it](https://australianprescriber.tg.org.au/articles/therapeutic-drug-monitoring-which-drugs-why-when-and-how-to-do-it.html). Aust Prescr 2008;31:42-4.
+1. Tamargo J, Le Heuzey JY, Mabo P. [Narrow therapeutic index drugs: a clinical pharmacological consideration to flecainide](https://pmc.ncbi.nlm.nih.gov/articles/PMC4412688/). Eur J Clin Pharmacol. 2015;71(5):549–67.
+1. Gerlach, A.T., Saliba, L. (2016). Practical Pharmacokinetics and Pharmacodynamics. In: Martin, N.D., Kaplan, L.J. (eds) Principles of Adult Surgical Critical Care. Springer, Cham. 
