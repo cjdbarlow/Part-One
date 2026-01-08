@@ -110,10 +110,9 @@ Speed of onset is related to:
       * Increased concentration will increase speed of onset and block density
       * Increased volume (without increasing dose, resulting in decreased concentration) will decrease speed of onset
     * Lipid solubility\
-    An increased lipid solubility increases the speed at which the local anaesthetic enters the nerve. **However**:
-      * Lipid solubility also correlates with potency
-      * Therefore, **in practice**, more lipid soluble agents are administered in lower doses, and so have a **reduced speed of onset**\
-      This is known as Bowman's Principle.
+    An ↑ lipid solubility:
+      * ↑ The speed at which the local anaesthetic enters the nerve
+      * Correlates with ↑ potency
     * Ionised portion\
     Only unionised drug can cross cell membranes. Ionisation is a function of:
       * pKa

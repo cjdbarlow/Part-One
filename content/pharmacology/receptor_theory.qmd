@@ -37,10 +37,8 @@ Physiological factors which affect the dissociation constant are determined by t
 Key properties of drugs include:
 
 * **Potency**\
-The **amount** of drug required to have an effect.
-    * Given by the (typically the E~D~50)
-    * This relates to **Bowman's principle**, which states that the **least potent** anaesthetic agents have the **quickest onset**\
-    This is because they are administered in **higher doses** (as they are less potent, more is required to get an effect), which results in a **high concentration gradient** and a **rapid distribution** into tissues.
+The **amount** of drug required to achieve a given effect.
+    * Typically expressed by the E~D~50
 * **Efficacy**\
 The **maximal** effect that a drug can generate.
 * **Intrinsic activity** (activity)\
