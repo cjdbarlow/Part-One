@@ -4,6 +4,7 @@ _book/
 .DS_Store
 .aws.json
 .Rhistory
+.luarc.json
 Part-One.log
 Part-One.aux
 Part-One.out
