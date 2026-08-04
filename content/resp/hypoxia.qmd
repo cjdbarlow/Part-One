@@ -26,12 +26,12 @@ Can also be expressed as 0.003 mls.dL^-1^.mmHg^-1^ (mls per deciliter per mmHg).
 
 Hypoxia can be categorised into four types:
 
-* Hypoxic hypoxia
+* Hypoxaemic hypoxia
 * Anaemic hypoxia
 * Ischaemic hypoxia
 * Histotoxic hypoxia
 
-### Hypoxic Hypoxia
+### Hypoxaemic Hypoxia
 
 Hypoxic hypoxia, or **hypoxaemia**, is hypoxia due to low PaO~2~ (and therefore low SpO~2~), typically defined as a PaO~2~<60.
 

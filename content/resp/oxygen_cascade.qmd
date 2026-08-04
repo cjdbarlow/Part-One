@@ -69,7 +69,12 @@ Alveolar oxygen is therefore dependent on:
     * FiO~2~
     * Air pressure
 * Alveolar ventilation\
-As $P_aO_2 \propto {1 \over \dot{V}_A}$.
+
+:::column-margin
+Essentially, $P_aO_2 \propto {k \over \dot{V}_A}$.
+
+$k$ here is abstracting out the CO~2~ production, unit conversions, and the respiratory quotient. This also assumes steady state, and no A-a gradient.
+:::
 
 
 ## Arterial Blood

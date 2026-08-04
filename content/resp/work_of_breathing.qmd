@@ -50,9 +50,11 @@ Airway generation and resistance: <img src="/resources/airway-gen-vs-resistance.
 :::
 
 * **Elastic work**\
-About 65% of total work, and is stored as elastic potential energy. Energy required to overcome elastic forces:
-  * Lung elastic recoil
-  * Surface tension of alveoli
+About 65% of total work, and is stored as elastic potential energy.
+    * Elastic work describes the energy required to overcome elastic forces:
+        * Lung elastic recoil
+        * Surface tension of alveoli
+    * Stored as elastic potential energy and reclaimed during passive exhalation
 * **Resistive work**\
 About 35% of total work, and is lost as heat. This is due to the energy required to overcome frictional forces:
     * Between tissues

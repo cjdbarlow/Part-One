@@ -76,6 +76,10 @@ Contains **two gamma subunits** instead of beta subunits. These prevent the bind
       * O~2~ unloading of maternal blood is favoured
       * O~2~ loading of foetal blood is favoured
 
+:::column-margin
+Although *maternal* blood is relatively alkaline due to hyperventilation, *placental* blood is relatively acidic as it receives the entirety of foetal CO~2~ production.
+:::
+
 ![Double Bohr Effect](/resources/Oxyhb-curve-double-bohr.svg)
 
 ### Carbon Dioxide Transfer
