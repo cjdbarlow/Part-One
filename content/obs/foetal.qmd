@@ -46,7 +46,7 @@ This arrangement has several features:
 * Blood with the least oxygen is delivered to the umbilical arteries for gas exchange
 * Both the RV and the LV eject into systemic circulations, and are of similar size and wall thickness
 
-## Changes at Birth
+## Changes at Birth {#trans}
 
 Several changes happen at birth:
 
@@ -83,4 +83,3 @@ Over a period of days to weeks.
 1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
 2. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
 3. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.
-

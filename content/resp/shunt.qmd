@@ -71,7 +71,7 @@ This is where technical definitions become important to avoid confusion.
     There is no ventilation. Regardless of the increase in PAO~2~, PaO~2~ will not improve.
 
 
-#### The Isoshunt Diagram
+#### The Isoshunt Diagram {#iso}
 
 * Isoshunt diagram plots the relationship between FiO~2~ and PaO~2~ against a set of 'virtual shunt lines'
 * These 'shunt fractions' are calculated from the above equation and so are actually V/Q admixture fractions

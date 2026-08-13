@@ -3,9 +3,9 @@
 
 Tocolytics are agents which decrease uterine tone. Tocolytics include:
 
-* [β~2~-agonists](beta_agonists.md)
-* [Ca^2+^-channel antagonists](calcium_channel_blockers.md)
-* [COX Inhibitors](cox_inhibitors.md)
+* [β~2~-agonists](../resp/beta_agonists.qmd)
+* [Ca^2+^-channel antagonists](../cvs/calcium_channel_blockers.qmd)
+* [COX Inhibitors](../analgesics/cox_inhibitors.qmd)
 * MgSO~4~
 * Nitrates
 * Volatile anaesthetic agents

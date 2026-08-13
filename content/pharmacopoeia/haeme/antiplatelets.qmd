@@ -1,7 +1,7 @@
 # Antiplatelets
 
 
-*Note aspirin is included under [COX inhibitors](cox_inhibitors.md)*.
+*Note aspirin is included under [COX inhibitors](../analgesics/cox_inhibitors.qmd)*.
 
 ## Classification of Antiplatelet Agents
 

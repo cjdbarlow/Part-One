@@ -163,7 +163,7 @@ This is of more importance in other primates than in man, as they have enough bo
             Contains large numbers of β~3~ receptors
 
 
-## Effect of Anaesthesia
+## Effect of Anaesthesia {#anaes}
 
 :::column-margin
 <img src="/resources/heat-loss.svg">

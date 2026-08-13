@@ -1,7 +1,7 @@
 # Antimuscarinics (Respiratory)
 
 
-*Antimuscarinics with predominantly cardiac effects are covered at [Antimuscarinics (Cardiac)](antimuscarinicsansmd.md), whilst [atropine](atropine.md) is covered separately.*
+*Antimuscarinics with predominantly cardiac effects are covered at [Antimuscarinics (Cardiac)](../autonomic/antimuscarinicsansmd.qmd), whilst [atropine](../cvs/atropine.qmd) is covered separately.*
 
 These agents competitively antagonise ACh at M~3~ receptors in bronchial smooth muscle, preventing parasympathetic mediated bronchoconstriction.
 

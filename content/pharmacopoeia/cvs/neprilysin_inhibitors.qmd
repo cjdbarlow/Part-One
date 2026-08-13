@@ -40,7 +40,7 @@ Used for:
 |**Resp**|Bradykinin cough
 |**CVS**|↓ BP - synergistic effect when combined RAAS agents, ↓  CVS mortality
 |**Renal**|May be nephro-protective, ↑ K
-|**Immune**|Angioedema due to bradykinin accumulation, so usually formulated with an [ACE-I](/ace_inhibitors.md) or [ARB](/angiotensin_receptor_blockers.md)
+|**Immune**|Angioedema due to bradykinin accumulation, so usually formulated with an [ACE-I](ace_inhibitors.qmd) or [ARB](angiotensin_receptor_blockers.qmd)
 
 
 ---

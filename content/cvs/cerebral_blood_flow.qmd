@@ -25,7 +25,7 @@ Where:
 These are also called rheologic factors.
 * $L$ is the length of the tube, a fixed quantity
 
-## Factors Affecting Perfusion Pressure
+## Factors Affecting Perfusion Pressure {#cpp}
 
 * Cerebral Perfusion Pressure is the difference between mean arterial pressure and intracranial pressure: $CPP = MAP - ICP$
 * A **normal CPP** is **~80mmHg**
@@ -58,7 +58,7 @@ Vessel calibre is affected primarily by five factors:
 * Neurohormonal factors
 * Temperature
 
-### Cerebral Metabolism
+### Cerebral Metabolism {#temp}
 
 **Cerebral metabolism** (typically given by the cerebral metabolic requirement for oxygen, CMRO~2~) has a linear association with cerebral blood flow - this is known as **flow-metabolism coupling**. This is controlled locally through the release of vasoactive mediators, such as H^+^, adenosine, and NO. Determinants of cerebral metabolism include:
 
@@ -70,7 +70,7 @@ CMRO~2~ decreases linearly by ~7% per degree centigrade, allowing prolonged peri
 <img src="/resources/temp-vs-CBF.svg">
 
 
-### PaCO~2~
+### PaCO~2~ {#co2}
 
 **Carbon dioxide** acts as a cerebral vasodilator.
 
@@ -85,7 +85,7 @@ CMRO~2~ decreases linearly by ~7% per degree centigrade, allowing prolonged peri
 <img src="/resources/PaCO2-vsCBF.svg">
 
 
-### PaO~2~
+### PaO~2~ {#o2}
 
 * CBF increases rapidly when PaO~2~ falls below 60mmHg so that cerebral oxygen delivery is maintained\
 Hypoxia causes a release of adenosine and reduced calcium uptake, with subsequent vasodilation

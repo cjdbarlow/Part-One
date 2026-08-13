@@ -25,7 +25,7 @@ Produces catecholamines.
 
 <img src="/resources/cortisol.svg">
 
-### Mineralocorticoids
+### Mineralocorticoids {#min}
 
 **Aldosterone** is the key mineralocorticoid hormone, accounting for 95% of mineralocorticoid activity:
 

@@ -27,7 +27,7 @@ Cardiac output can be measured:
 Pulse contour analysis is covered in detail under @sec-pulse_contour.
 :::
 
-## Thermodilution
+## Thermodilution {#therm}
 
 Thermodilution:
 
@@ -42,7 +42,7 @@ Various different designs exist. For CO measurement, they require:
     * A distal (PA) port is required for measuring PAP and the PCWP, but is not required for CO calculation
  
 
-### Cardiac Output Measurement by Thermodilution
+### Cardiac Output Measurement by Thermodilution {#stew}
 
 * A known volume of (typically dextrose) at a known temperature (classically cooled, but this is not required) is injected into the proximal port
 * The temperature of blood is measured at the tip of the PAC\
@@ -113,4 +113,3 @@ In this case:
 
 1.  Moise, S. F., Sinclair, C. J. and Scott, D. H. T. (2002), Pulmonary artery blood temperature and the measurement of cardiac output by thermodilution. Anaesthesia, 57: 562–566.
 2. Nishikawa, T. & Dohi, S. Errors in the measurement of cardiac output by thermodilution. Can J Anaesth (1993) 40: 142. 
-

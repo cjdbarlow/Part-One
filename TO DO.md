@@ -12,10 +12,11 @@ quarto::quarto_preview()
 
 # TO DO
 ## General
-* SORT OUT ALL THE INTERNAL LINKS (all of format [xyz](cardiac_action_potential.md))
+
 * Remove bullet points in tables and replace with extra line
 
 ## HTML
+
 * Fix overlapping margin content
 * Fix tables and images overflowing into margin
 * Last updated on bottom of each page
@@ -26,6 +27,7 @@ quarto::quarto_preview()
 
 
 ## PDF
+
 * Get images working (svgs broken)
 * Change position of part text
 * Section title to go next to page number
@@ -36,6 +38,7 @@ quarto::quarto_preview()
   * ? Remove dots?
 
 ## Content
+
 * Add mapleson circuit diagrams
 * Go through curricula and exams and add in missing examinable content
 

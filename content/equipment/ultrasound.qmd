@@ -89,7 +89,7 @@ $\theta$ = Angle between the sound wave and the object
 Reflected frequencies are **higher towards the probe** and **lower away**.
 
 
-### Calculation of Cardiac Output
+### Calculation of Cardiac Output {#co}
 
 * Heart rate is measured
 * Stroke volume is calculated by:

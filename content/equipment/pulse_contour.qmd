@@ -12,7 +12,7 @@ Analysis of arterial pulse contour is:
 
 * **Real-time** and **continuous**
 * Used to **estimate** cardiac output\
-Less accurate but also less invasive (e.g. [thermodilution](cardiac-output.md#therm)) or technically demanding (e.g. [echocardiography](principles_of_ultrasound.md#co)) than other methods.
+Less accurate but also less invasive (e.g. [thermodilution](cardiac_output.qmd#therm)) or technically demanding (e.g. [echocardiography](ultrasound.qmd#co)) than other methods.
 	* Therefore also calculate (and often display) stroke volume variation and pulse pressure variation
 
 
@@ -49,7 +49,7 @@ Characterises the arterial tree as having three major features:
 			* Lithium dilution
 				* Small amounts of lithium chloride injected into a central vein
 				* Change in lithium concentration measured in radial artery
-				* CO by calculated [Stewart-Hamilton equation](cardiac-output.md#stew)
+				* CO by calculated [Stewart-Hamilton equation](cardiac_output.qmd#stew)
 		* Periodically recalibrated to correct for drift
 	* **Uncalibrated**\
 	Not corrected for a measured 'true' cardiac output.

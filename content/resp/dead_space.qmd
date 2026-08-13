@@ -137,7 +137,7 @@ Note that this graph:
 * Describes the change in PaCO~2~ for a change in alveolar ventilation\
 A doubling of alveolar ventilation will halve PaCO~2~.
 * Does not describe the change in ventilatory drive for a given change in PaCO~2~\
-This is covered under [removal of CO~2~](carbon_dioxide_transport.md#tr).
+This is covered under [removal of CO~2~](co2_transport.qmd#tr).
 
 ---
 

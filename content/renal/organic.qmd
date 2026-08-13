@@ -29,7 +29,7 @@ Saturation of transporters occur, so a further increase in solute concentration 
 Leaks in the tight junctions will result in solute moving from the interstitium back into the tubule if the tubular concentration falls too low. The maximum solute concentration for a gradient limited system is related to the permeability of the tight junctions.
 
 
-## Glucose
+## Glucose {#flux}
 
 Glucose is:
 

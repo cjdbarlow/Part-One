@@ -11,7 +11,7 @@
 
 > <p style="color:purple";> Describe the comparative pharmacology of ~~nitrous oxide~~, halothane, enflurane, isoflurane, desflurane, sevoflurane, xenon and ether</p>
 
-*This section covers features and structures of inhalational anaesthetics. Structure-activity relationships are covered under [inhalational anaesthetics](inhalational-anaesthetic-agents.md#sa).*
+*This section covers features and structures of inhalational anaesthetics. Structure-activity relationships are covered under [inhalational anaesthetics](inhalational-anaesthetic-agents.qmd#sa).*
 
 ## Common Features of Inhalational Agents
 
@@ -83,4 +83,3 @@ Peck and Hill
 5. Leslie RA, Johnson EK, Goodwin APL. Dr Podcast Scripts for the Primary FRCA. Cambridge University Press. 2011.
 6. Law LS, Lo EA, Gan TJ. [Xenon Anesthesia: A Systematic Review and Meta-Analysis
 of Randomized Controlled Trials](https://www.ncbi.nlm.nih.gov/pubmed/26273750). Anesth Analg. 2016 Mar;122(3):678-97.
-

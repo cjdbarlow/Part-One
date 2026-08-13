@@ -51,7 +51,7 @@ Flow is ↓ during contractions due to ↑ uterine pressure, and also with α-ad
 :::
 
 
-### Oxygen Transfer
+### Oxygen Transfer {#bohr}
 
 At the end of pregnancy, the **PO~2~ for foetal blood**:
 

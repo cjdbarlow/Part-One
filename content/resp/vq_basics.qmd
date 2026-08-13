@@ -30,7 +30,7 @@ The weight of lung above compresses the lung below, improving the compliance of 
         * Becoming more pronounced at TLC (with apical perfusion falling precipitously)
         * Reversing slightly at RV
 
-## V/Q Ratios
+## V/Q Ratios {#reg}
 
 <img src="/resources/regional-ventilation-and-perfusion.svg">
 

@@ -47,7 +47,7 @@ The curriculum provided is overwhelming, and probably not achievable for most of
     * Know the style\
     This allows you to give answers **efficiently** - the key metric for both the vivas and the SAQs is **marks per unit time**.
         * Style of exam questions\
-        Including the style of answers - see [the SAQ](./the-saq.md).
+        Including the style of answers - see [the SAQ](saq.qmd).
         * Style of vivas\
             * Do practice vivas\
                 * Record yourself, so you know your tics

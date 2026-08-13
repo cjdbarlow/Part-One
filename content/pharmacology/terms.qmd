@@ -173,7 +173,7 @@ Since $k$ and $V_D$ are constants, clearance is also a constant.
 * $Cl = {V_D \over \tau } = {0.693 \times V_D \over t_{1/2}}$\
 This uses the property that $\tau = {1 \over k}$.
 
-### Clearance Kinetics
+### Clearance Kinetics {#kin}
 
 Drug clearance can follow either first order or zero-order kinetics:
 
@@ -221,4 +221,3 @@ The Michaelis-Menten equation describes the transition from first order to zero 
 1. Stanski RD, Shafer SL. [The Biophase Concept and Intravenous Anesthesia](https://web.stanford.edu/~sshafer/LECTURES.DIR/Notes/Biophase%20in%20Anesthesia.doc).
 1. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
 1. Starkey ES, Sammons HM. [Practical pharmacokinetics: what do you really need to know?](https://ep.bmj.com/content/100/1/37) Arch Dis Child Educ Pract Ed. 2015 Feb;100(1):37–43. 
-

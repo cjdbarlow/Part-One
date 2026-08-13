@@ -61,7 +61,7 @@ Drugs can be classified by the way they interact with receptors into:
 * **Mixed Agonist-Antagonists**
 * **Allosteric Modulators**
 
-### Agonists
+### Agonists {#agon}
 
 An agonist will generate a **maximal** response at the receptor site. An agonist has **high affinity** and an **activity of 1**. Agonists can be compared by:
 
@@ -85,7 +85,7 @@ A partial agonist:
 
 A drug which has a **negative activity** (between 0 and -1) producing the **opposite** response (compared to the endogenous agonist) at receptor. This occurs due to loss of **constitutive activity** at that receptor.
 
-### Antagonist
+### Antagonist {#antagon}
 
 An antagonist produces no response at the receptor site, and prevents other ligands binding. Antagonists have **high affinity** and an **activity of 0**.
 
@@ -139,4 +139,3 @@ Decreases affinity for endogenous agonist.
 1. Pinnock C, Lin T, Smith T. Fundamentals of Anaesthesia. 2nd Ed. Cambridge Universiy Press. 2003.
 2. Encyclopaedia Britannica. Available at: https://www.britannica.com/science/law-of-mass-action
 3. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
-

@@ -15,7 +15,7 @@ The Standard Guyton Man (70kg) contains **~1.5L** of oxygen, split between:
 This is why preoxygenation increases safe apnoea times, as the nitrogen washout increases the volume of oxygen stored.
 
 
-## Oxygen-Haemoglobin Dissociation Curve
+## Oxygen-Haemoglobin Dissociation Curve {#curve}
 
 The sigmoid shape of the oxygen-haemoglobin dissociation curve offers many physiological advantages:
 

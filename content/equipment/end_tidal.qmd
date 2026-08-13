@@ -85,7 +85,7 @@ E~T~CO~2~ may be either **side-stream** or **in-line**.
         * Require heating to 41°C to avoid condensation
 
 
-## Normal E~T~CO~2~ Waveform
+## Normal E~T~CO~2~ Waveform {#capno}
 
 <img src="/resources/capno-normal.svg">
 
@@ -101,7 +101,7 @@ This consists of:
 The highest-point of this curve is labeled E~T~CO~2~.
 4. **Inspiration**, where PCO~2~ returns to **0**
 
-### Waveform Variations
+### Waveform Variations {#var}
 
 **Airway Obstruction**:
 

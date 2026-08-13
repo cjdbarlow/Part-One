@@ -86,7 +86,7 @@ More soluble substances will diffuse more quickly.
 * Molecular weight\
 Smaller substances will diffuse more quickly.
 
-## Diffusion and Perfusion Limitation
+## Diffusion and Perfusion Limitation {#limit}
 
 Limitation refers to what process limits gas uptake into blood:
 

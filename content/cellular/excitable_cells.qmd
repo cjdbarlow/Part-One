@@ -110,7 +110,7 @@ This increases potassium permeability and reduces membrane potential.
 
 ### Phases of the Action Potential
 
-This describes the peripheral nerve action potential. The heart is covered under the [cardiac action potential](cardiac_action_potential.md).
+This describes the peripheral nerve action potential. The heart is covered under the [cardiac action potential](../cvs/cardiac_ap.qmd).
 
 1. **Rising Phase**\
 A stimulus which rises above the threshold potential opens fast Na^+^ channels, increasing Na^+^ influx.

@@ -1,7 +1,7 @@
 # Antidepressants
 
 
-*Symptoms and management of TCA overdose is covered under [Tricyclic Antidepressant Overdose](tricyclic_antidepressant_overdose.md).*
+*Symptoms and management of TCA overdose is covered under [Tricyclic Antidepressant Overdose](../../tricyclic_antidepressant_overdose.qmd).*
 
 Antidepressant drugs include:
 

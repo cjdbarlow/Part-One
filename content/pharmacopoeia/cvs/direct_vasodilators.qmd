@@ -3,7 +3,7 @@
 
 Direct vasodilators include:
 
-* Ca^2+^ channel blockers (see [Calcium Channel Blockers](calcium_channel_blockers.md))
+* Ca^2+^ channel blockers (see [Calcium Channel Blockers](calcium_channel_blockers.qmd))
 * Nitrates\
 Increase production of NO:
 	* NO activates guanylate cyclase, increasing cGMP

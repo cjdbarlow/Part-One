@@ -12,7 +12,7 @@ Pharmacokinetic models are mathematical concepts used to predict plasma concentr
 
 
 
-## One-Compartment Models
+## One-Compartment Models {#one}
 
 The simplest model imagines the body a single, well-stirred compartment. 
 
@@ -47,7 +47,7 @@ C_{ss} &= {C_i.I \over Cl} \\
 * **Concentration** of drug can therefore be **determined by the amount infused and** the **clearance**
 * Note steady state requires peripheral compartments to be saturated, and so will only occur after an infusion of many hours
 
-## Multiple Compartment Models
+## Multiple Compartment Models {#multi}
 
 Multi-compartment models imagine the body as a series of differently-sized containers, which distribute drug between them at different rates. Multi-compartment models:
 
@@ -81,7 +81,7 @@ Plasma concentration in multi-compartment models is:
     * **Excretion**\
     Excretion is the removal of drug from the body. 
 
-### Clearance in Multi-Compartment Models
+### Clearance in Multi-Compartment Models {#bi}
 
 :::info
 This will use two-compartment models as an example of clearance in multi-compartment models. The principles are the same for more complex models.
@@ -118,7 +118,7 @@ The value of $\alpha$ is dependent on the ratio of rate constants for distributi
 * $\beta$ is the rate constant for elimination\
 
 
-### The Effect Site
+### The Effect Site {#effect}
 
 Pharmacokinetic models typically display the plasma concentration. Clinically however, we are interested in **drug concentrations** at the **site of action** (e.g. the brain); this is **known as** the **effect site** or **biophase**. Effect site concentration:
 

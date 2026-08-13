@@ -34,7 +34,7 @@ Slow ventricular filling is usually described as the beginning of the cycle.
     * Ejection
 
 
-## Phases of the Cardiac Cycle
+## Phases of the Cardiac Cycle {#wig}
 
 Events during each phase of the cardiac cycle are represented on **Wigger's Diagram**:
 

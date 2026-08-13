@@ -51,7 +51,7 @@ Also known as elastance at end-systole, or $E_{es}$, and is given by the tangent
 	* This measurement is not entirely independent of other factors, as it is influenced by afterload
 
 
-## Basic Pressure-Volume Loops
+## Basic Pressure-Volume Loops {#base}
 
 These loops:
 
@@ -91,7 +91,7 @@ Note that the pressure-volume relationship throughout ejection is also steeper, 
 * ESV is decreased, causing an increase in stroke volume
 
 
-## Advanced Pressure Volume Loops
+## Advanced Pressure Volume Loops {#adv}
 
 The easiest way to approach more complicated pressure-volume loops is to address each of the basic factors before trying to draw the curve:
 

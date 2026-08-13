@@ -37,7 +37,7 @@ Afferent fibres from CNIX and CNX travel to the NTS in the **medulla**. Effector
 
 Conversely, **increased** activity of **low-pressure** stretch receptors results in an **increase** rather than a decrease in **heart rate**.
 
-## Baroreceptor Activity
+## Baroreceptor Activity {#baro}
 
 Baroreceptors are:
 

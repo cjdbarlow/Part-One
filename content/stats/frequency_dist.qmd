@@ -67,7 +67,7 @@ The mean is common and reliable, though inaccurate if the distribution is **skew
 
 Measures of variability describe the degree of dispersion around the central value.
 
-### Basic Measures of Deviation
+### Basic Measures of Deviation {#box}
 
 * **Range**: The lowest and highest values in the sample\
   Highly influenced by outliers

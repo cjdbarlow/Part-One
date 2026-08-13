@@ -42,7 +42,7 @@ With other platelets - held together by fibrin - forming a plug.
 After some time platelets contract, retracting the clot and sealing the wall.
 
 
-## Secondary Haemostasis
+## Secondary Haemostasis {#sec}
 
 The **coagulation cascade** is an amplification mechanism which activates clotting factors in order to produce fibrin. Participating factors in the coagulation cascade can be either **enzymes** or **cofactors**:
 

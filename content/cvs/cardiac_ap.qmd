@@ -14,13 +14,13 @@ Discuss the physiological basis of electrical activity and its relationship to m
 
 An action potential is a propagating change in the membrane potential of an excitable cell, used in cellular communication and to initiate intracellular processes. It is caused by altering the permeability of a membrane to different ions.
 
-## Pacemaker Potential
+## Pacemaker Potential {#pace}
 
 This pattern of electrical activity is seen in the SA and AV nodes. It  **has no resting state**, and is continually depolarising.
 
 <img src="/resources/pacemaker-currents.svg">
 
-### Phases of the Pacemaker Potential
+### Phases of the Pacemaker Potential {#pacephase}
 
 
 <img src="/resources/pacemaker-phases.svg">
@@ -41,7 +41,7 @@ Phase 4 consists of:
 <img src="/resources/pacemaker-shifts.svg">
 
 
-## Ventricular Action Potential
+## Ventricular Action Potential {#vent}
 
 ::: column-margin
 (Tetanic ventricular contraction would be bad.)

@@ -11,7 +11,7 @@ Target-Controlled Infusions describes the use of pharmacokinetic models (typical
 Many TCI models, and hence electronically controlled pumps are not licensed or available inside the US.
 :::
 
-## Principles of TCI
+## Principles of TCI {#tci}
 
 **Open-loop**:
 

@@ -92,9 +92,9 @@ Osmoreceptors present in the:
 		* Change in cellular volume secondary to changes in osmolality alter hormone secretion.
 * Effectors\
 Predominantly hormonal:
-	* [ADH](pituitary_and_hypothalamus.md#pit)\
-	* [RAAS](endocrine_functions_of_the_kidney.md#raas)
-	* [Natriuretic peptides](adrenal-hormones.md#min)
+	* [ADH](../endo/pituitary.qmd#pit)\
+	* [RAAS](endocrine.qmd#raas)
+	* [Natriuretic peptides](../endo/adrenal.qmd#min)
 
 
 ---

@@ -353,7 +353,7 @@ This distorts channels responsible for maintaining membrane potential and genera
 
 ### Structure-Activity Relationships of Inhaled Anaesthetics{#sa}
 
-* Chemical structures of different volatile anaesthetics are covered in the [pharmacopeia](inhalational-anaesthetics.md).
+* Chemical structures of different volatile anaesthetics are covered in the [pharmacopeia](inhalational-anaesthetics.qmd).
 
 Different chemical and physical properties alter the effect of inhalational agents:
 
@@ -433,6 +433,5 @@ From the properties discussed above, we can construct the following ideal agent:
 8. Aranake A, Mashour GA, Avidan MS. [Minimum alveolar concentration: ongoing relevance and clinical utility](https://www.ncbi.nlm.nih.gov/pubmed/23414556). Anaesthesia. 2013 May;68(5):512-22. doi: 10.1111/anae.12168.
 9. Lerman J, Gregory GA, Willis MM, Eger EI 2nd. [Age and solubility of volatile anesthetics in blood](http://anesthesiology.pubs.asahq.org/article.aspx?articleid=1956070). Anesthesiology. 1984 Aug;61(2):139-43.
 1. Aranake A, Mashour G a., Avidan M s. [Minimum alveolar concentration: ongoing relevance and clinical utility](https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/full/10.1111/anae.12168). Anaesthesia. 2013;68(5):512–22. 
-
 
 

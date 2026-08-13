@@ -94,7 +94,7 @@ Resonance describes the progressive amplification of small oscillations or distu
 * Results in a distorted output signal and an **overshoot in systolic pressure**
 
 
-### Damping
+### Damping {#damp}
 
 A pressure transduction system should be adequately damped:
 

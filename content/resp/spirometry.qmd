@@ -62,7 +62,7 @@ Quantifies static lung volumes by having a patient perform:
 <img src="/resources/Spirograph.svg">
 
 
-## Flow-Volume Loops
+## Flow-Volume Loops {#spir}
 
 
 **Normal**:

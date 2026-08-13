@@ -30,7 +30,7 @@ Calculated using the Henderson-Hasselbalch and Siggaard-Anderson equation. Can b
   As base excess, but calculated for blood with a Hb concentration of 50g.L^-1^. This is thought to better represent the ECF as a whole.
 
 
-## Oxygen Tension
+## Oxygen Tension {#clarke}
 
 Oxygen tension is measured with a **Clarke electrode**. This consists of:
 
@@ -67,7 +67,7 @@ Requires regular two-point calibration.
 * May read falsely high with halothane
 
 
-## pH Measurement
+## pH Measurement {#ph}
 
 pH is a measure of the hydrogen ion concentration[^1] in solution, and is defined as the negative logarithm to the base 10 of the [H^+^]:
 
@@ -108,12 +108,12 @@ The pH electrode consists of:
 * Calibration is performed with two phosphate buffer solutions containing two different (known) [H^+^]
 * Must be kept at 37°C\
     **Hypothermia ↑ solubility of CO~2~** and therefore *lowers* PaCO~2~\
-    A reduced partial pressure of CO~2~ is required to keep the same number of molecules dissolved (as per [Henry's Law](laws.md#gas))
+    A reduced partial pressure of CO~2~ is required to keep the same number of molecules dissolved (as per [Henry's Law](../laws.qmd#gas))
     * Therefore, as blood cools its pH will increase
 * Electrodes must be kept clean from protein and not damaged
 
 
-## Carbon Dioxide Tension
+## Carbon Dioxide Tension {#sever}
 
 Carbon dioxide tension is measured with a **Severinghaus electrode**, which is based on the pH electrode, as PaCO2 is related to [H^+^]. The Severinghaus electrode consists of:
 
