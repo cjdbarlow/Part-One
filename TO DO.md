@@ -13,7 +13,6 @@ quarto::quarto_preview()
 # TO DO
 ## General
 
-* Remove bullet points in tables and replace with extra line
 
 ## HTML
 
@@ -152,14 +151,3 @@ quarto::quarto_preview()
   * [Antiemetics](antiemetics.md)
 * [Other Drugs](iv-contrast.md#id)
   * [IV Contrast](iv-contrast.md)
-
-
-REMOVE MODEL ANSWERS FROM CONTENT WHEN YOU GET TO THIS POINT
-
-## Appendices
-
-* [Definitions](definitions.md)
-* [Key Graphs](key_graphs.md)
-* [Laws and Equations](laws.md)
-* [Structures for SAQs](frameworks_for_classification.md)
-

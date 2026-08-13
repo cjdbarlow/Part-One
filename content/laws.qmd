@@ -80,7 +80,7 @@ The alveolar PO2 is equal to the PiO2 minus the alveolar CO2/the respiratory quo
 $PA_{O_2} = Pi_{O_2} - {PA_{CO_2} \over R}$
 
 
-## Gas Laws{#gas}
+## Gas Laws {#gas}
 
 * **Boyle's Law**\
 $PV = K$, i.e. pressure and volume are inversely related at constant temperature and pressure.
@@ -111,7 +111,7 @@ Diffusion rates through orifices are inversely proportional to the square root o
 In a mixture of gases, each gas exerts the pressure that it would exert if it occupied the volume alone.
 
 
-## Cardiovascular Equations\
+## Cardiovascular Equations
 
 * **Fick's Principle**\
 Flow of blood through an organ equals the uptake of a tracer substance by the organ divided by the concentration difference of the substance across it, i.e.:\
@@ -122,7 +122,7 @@ Flow of fluid across the capillaries is proportional to the hydrostatic pressure
 $Net \ flow \ out = K[(P_c - P_i) - \sigma (\pi_c - \pi_i)] $
 
 * **Venous Admixture**\
-Calculates the shunt fraction by identifying how much mixed venous blood must be added to ideal pulmonary capillary blood to produce the identified arterial oxygen content. 
+Calculates the shunt fraction by identifying how much mixed venous blood must be added to ideal pulmonary capillary blood to produce the identified arterial oxygen content.
 ${\dot{Q}_S \over \dot{Q}_T} = {Cc'_{O_2} - Ca'_{O_2} \over Cc'_{O_2} - C\bar{v}'_{O_2}}$
 
 
@@ -130,7 +130,7 @@ ${\dot{Q}_S \over \dot{Q}_T} = {Cc'_{O_2} - Ca'_{O_2} \over Cc'_{O_2} - C\bar{v}
 
 * **Doppler equation**\
 Calculates the velocity of an object based on the change in observed frequency when a wave is reflected off (or emitted from) the object:\
-$V = { \Delta Fs \over 2F_0cos\theta} $where: 
+$V = { \Delta Fs \over 2F_0cos\theta} $where:
     * $V $= Velocity of object\
     * $F $= Frequency shift\
     * $s $= Speed of sound (in blood)\

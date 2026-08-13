@@ -23,8 +23,8 @@ Arterial blood pH < 7.35.
 
 * **Acidosis**\
 A process which leads to an excess of hydrogen ions, and *may* lead to acidaemia if there is inadequate compensation. Can be subdivided into:
-	* **Respiratory acidosis**: PaCO~2~ > 45
-	* **Metabolic acidosis**: HCO~3~^-^ < 22
+    * **Respiratory acidosis**: PaCO~2~ > 45
+    * **Metabolic acidosis**: HCO~3~^-^ < 22
 
 
 * **Activity**\
@@ -33,9 +33,9 @@ The *effective* concentration of a substance in a reacting system.
 
 * **Acute Pain**\
 Defined as pain of:
-	* Recent onset
-	* Limited probable duration
-	* Identifiable causal and temporal relationship to injury or disease
+    * Recent onset
+    * Limited probable duration
+    * Identifiable causal and temporal relationship to injury or disease
 
 
 * **Adiabatic**\
@@ -60,8 +60,8 @@ Arterial blood pH > 7.45.
 
 * **Alkalosis**\
 A process which leads to a deficit of hydrogen ions, and *may* lead to alkalaemia if there is inadequate compensation. Can be subdivided into:
-	* **Respiratory alkalosis**: PaCO~2~ < 35
-	* **Metabolic alkalosis**: HCO~3~^-^ > 26
+    * **Respiratory alkalosis**: PaCO~2~ < 35
+    * **Metabolic alkalosis**: HCO~3~^-^ > 26
 
 
 * **Allodynia**\
@@ -112,7 +112,7 @@ The principle that in the spinal cord the dorsal roots are sensory and the ventr
 The systematic distortion of the estimated intervention effect away from the “truth”, caused by inadequacies in the design, conduct, or analysis of a trial.
 
 * **Black-body radiation**\
-Electromagnetic radiation given off by all bodies at greater than 0°K. Wavelength of radiation emitted depends on the temperature of the body. 
+Electromagnetic radiation given off by all bodies at greater than 0°K. Wavelength of radiation emitted depends on the temperature of the body.
 
 * **Bohr Effect**\
 An increase in [H^+^] or PaCO~2~ decreases Hb affinity for O2.
@@ -120,8 +120,8 @@ An increase in [H^+^] or PaCO~2~ decreases Hb affinity for O2.
 
 * **Boiling Point**\
 The temperature at which the vapour pressure of a liquid equals the environmental pressure surrounding the liquid.
-	* Therefore boiling point decreases as environmental pressure falls, as there is less external pressure keeping molecules in their liquid state
-	* Boiling differs from evaporation as molecules anywhere in the liquid may enter the gaseous phase, whilst evaporation occurs only at the surface
+    * Therefore boiling point decreases as environmental pressure falls, as there is less external pressure keeping molecules in their liquid state
+    * Boiling differs from evaporation as molecules anywhere in the liquid may enter the gaseous phase, whilst evaporation occurs only at the surface
 
 
 * **Bowditch Effect**\
@@ -153,8 +153,8 @@ Movement of cells along a gradient of increasing concentration of an attracting 
 
 * **Chronic Pain**\
 Pain that:
-	* Persists beyond the time of tissue healing
-	* Frequently has no clearly identifiable cause
+    * Persists beyond the time of tissue healing
+    * Frequently has no clearly identifiable cause
 
 
 * **Clearance**\
@@ -169,10 +169,10 @@ Substance evenly dispersed throughout another solution in which it is insoluble.
 
 * **Colligative Properties**\
 The properties of a solution that depend on the ratio of solute to solvent, and not on the type of molecules present. These include:
-	* Vapour pressure
-	* Boiling point
-	* Freezing point
-	* Osmotic pressure
+    * Vapour pressure
+    * Boiling point
+    * Freezing point
+    * Osmotic pressure
 
 
 * **Compliance**\
@@ -195,7 +195,7 @@ The length of axon which must be blocked in order to prevent action potential tr
 
 * **Critical Point**\
 The point on a phase diagram where the liquid and gas phases of a substance have the same density, and are therefore indistinguishable.\
-	* This point is where a substance is at both its critical temperature and critical pressure
+    * This point is where a substance is at both its critical temperature and critical pressure
 
 
 * **Critical Pressure**\
@@ -218,14 +218,14 @@ The partial pressure of a gas in a mixture is equal to the pressure that gas wou
 
 * **Dead Space**\
 Inspired gas not participating in gas exchange. Includes:\
-	* Apparatus dead space\
-	Gas in the ventilator or breathing circuit.
-	* Anatomical dead space\
-	Gas in the conducting zone of the lung.
-	* Alveolar dead space\
-	Alveolar gas not participating in gas exchange. Also known as West Zone 1.
-	* Physiological dead space\
-	Sum of alveolar and anatomical dead space.
+    * Apparatus dead space\
+    Gas in the ventilator or breathing circuit.
+    * Anatomical dead space\
+    Gas in the conducting zone of the lung.
+    * Alveolar dead space\
+    Alveolar gas not participating in gas exchange. Also known as West Zone 1.
+    * Physiological dead space\
+    Sum of alveolar and anatomical dead space.
 
 
 * **Density**\
@@ -246,8 +246,8 @@ Process of breaking down macromolecules into readily absorbed compounds.
 
 * **Doppler Effect**\
 Alteration in frequency of a signal due to a relative difference in velocity between the emitter and observer. Detected frequencies will be:
-	* Higher if the emitter is moving toward the observer
-	* Lower if the emitter is moving away from the observer
+    * Higher if the emitter is moving toward the observer
+    * Lower if the emitter is moving away from the observer
 
 
 * **Down regulation**\
@@ -369,10 +369,10 @@ Chemical messenger secreted by a **ductless gland** and has action on a distant 
 
 * **Hyperalgesia**\
 Greater than normal amount of pain from a noxious stimulus. May be:
-	* Primary\
-	Occurring in the region of tissue damage, e.g. in an inflamed area around a wound.
-	* Secondary\
-	Extending beyond the region of tissue damage.
+    * Primary\
+    Occurring in the region of tissue damage, e.g. in an inflamed area around a wound.
+    * Secondary\
+    Extending beyond the region of tissue damage.
 
 
 * **Hypoxaemia**\
@@ -388,8 +388,8 @@ When the future state of a system depends not only on its current state, but on 
 
 * **Ideal Gas**\
 A gas which will obey the ideal gas law. An ideal gas must have:
-	* Negligible intermolecular attraction
-	* A small molecular volume compared to the space between the molecules
+    * Negligible intermolecular attraction
+    * A small molecular volume compared to the space between the molecules
 
 
 * **Idiosyncrasy**\
@@ -458,9 +458,9 @@ Number of moles of solute per kg of solvent.
 
 * **Molarity**\
 Number of moles of solute per L of solvent. Varies with:
-	* Temperature
-	* Solvent density
-	* Solute volume
+    * Temperature
+    * Solvent density
+    * Solute volume
 
 
 ## N
@@ -567,7 +567,7 @@ Dimensionless index which predicts the likelihood of turbulent flow.
 
 * **Saturated Vapour**\
 Vapour which is in equilibrium with its own liquid state, i.e. there are as many molecules entering the vapour phase as there there are those condensing into the liquid phase.
-	* A saturated vapour contains the least amount of energy possible without condensing
+    * A saturated vapour contains the least amount of energy possible without condensing
 
 
 * **Saturated Vapour Pressure**\
@@ -615,9 +615,9 @@ Conscious sensation of the physiological urge to drink.
 
 * **Time constant**\
 Time it would take for an exponential function to complete if the initial rate of change continued. A process is:
-	* 63% complete at 1T
-	* 86.5% complete at 2T
-	* 95% complete at 3T
+    * 63% complete at 1T
+    * 86.5% complete at 2T
+    * 95% complete at 3T
 
 
 * **Tonicity**\

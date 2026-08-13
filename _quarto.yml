@@ -68,6 +68,10 @@ format:
 website:
     bread-crumbs: false
 
+crossref:
+    appendix-delim: "."
+    appendix-title: ""
+
 # Table of contents and some general output settings
 book:
     # General settings
@@ -350,3 +354,8 @@ book:
         - part: "Cardiovascular Pharmacology"
           chapters:
             - content/pharmacopoeia/cvs/adrenergic_drugs.qmd
+    appendices:
+      - content/definitions.qmd
+      - content/key_graphs.qmd
+      - content/laws.qmd
+      - content/frameworks_for_classification.qmd
