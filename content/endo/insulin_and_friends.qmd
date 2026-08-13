@@ -23,24 +23,34 @@ Insulin binds to a specific insulin receptor (a membrane-spanning protein compos
 +-------------+-------------------------------+----------------------------------+--------------------------+
 |             | Seconds                       | Minutes                          | Hours                    |
 +=============+===============================+==================================+==========================+
-| **Muscle**  | * ↑ Glucose uptake\           | * ↑ Anabolism                    |                          |
-|             | Active transport via GLUT~4~. | * ↑ Catabolism                   |                          |
-|             | * ↑ Amino acid                |                                  |                          |
-|             | * ↑ Ketone                    |                                  |                          |
-|             | * ↑ K^+^ uptake               |                                  |                          |
+| **Muscle**  | ↑ Glucose uptake\             | ↑ Anabolism                      |                          |
+|             | Active transport via GLUT~4~. |                                  |                          |
+|             +-------------------------------+----------------------------------+--------------------------+
+|             | ↑ Amino acid                  | ↑ Catabolism                     |                          |
+|             +-------------------------------+----------------------------------+--------------------------+
+|             | ↑ Ketone                      |                                  |                          |
+|             +-------------------------------+----------------------------------+--------------------------+
+|             | ↑ K^+^ uptake                 |                                  |                          |
 +-------------+-------------------------------+----------------------------------+--------------------------+
-| **Fat**     | * ↓ Glucose uptake            | * ↑ Glycerol phosphate synthesis | * ↑ Fatty acid synthesis |
-|             | * ↓ Amino acid uptake         |                                  |                          |
-|             | * K^+^ uptake                 |                                  |                          |
+| **Fat**     | ↓ Glucose uptake              | ↑ Glycerol phosphate synthesis   | ↑ Fatty acid synthesis   |
+|             +-------------------------------+----------------------------------+--------------------------+
+|             | ↓ Amino acid uptake           |                                  |                          |
+|             +-------------------------------+----------------------------------+--------------------------+
+|             | K^+^ uptake                   |                                  |                          |
 +-------------+-------------------------------+----------------------------------+--------------------------+
-| **Liver**   |                               | * ↓ Gluconeogenesis              |                          |
-|             |                               | * ↓ Ketogenesis                  |                          |
-|             |                               | * ↑ Glycogen synthesis           |                          |
-|             |                               | * ↑ Glycolysis                   |                          |
-|             |                               | * ↑ Protein synthesis            |                          |
-|             |                               | * ↑ Lipid synthesis              |                          |
+| **Liver**   |                               | ↓ Gluconeogenesis                |                          |
+|             |                               +----------------------------------+                          |
+|             |                               | ↓ Ketogenesis                    |                          |
+|             |                               +----------------------------------+                          |
+|             |                               | ↑ Glycogen synthesis             |                          |
+|             |                               +----------------------------------+                          |
+|             |                               | ↑ Glycolysis                     |                          |
+|             |                               +----------------------------------+                          |
+|             |                               | ↑ Protein synthesis              |                          |
+|             |                               +----------------------------------+                          |
+|             |                               | ↑ Lipid synthesis                |                          |
 +-------------+-------------------------------+----------------------------------+--------------------------+
-| **General** |                               |                                  | * ↑ Cell growth          |
+| **General** |                               |                                  | ↑ Cell growth            |
 +-------------+-------------------------------+----------------------------------+--------------------------+
 
 :::column-margin
@@ -65,19 +75,25 @@ Secreted directly into the portal vein, and **undergoes first-pass metabolism** 
 +---------------+------------------------+
 | System        | Effect                 |
 +===============+========================+
-| **Liver**     | * Glycogenolysis       |
-|               | * Gluconeogenesis      |
-|               | * Glucose release      |
-|               | * Ketone formation     |
+| **Liver**     | Glycogenolysis         |
+|               +------------------------+
+|               | Gluconeogenesis        |
+|               +------------------------+
+|               | Glucose release        |
+|               +------------------------+
+|               | Ketone formation       |
 +---------------+------------------------+
 | **CVS**       | Inotropy               |
 +---------------+------------------------+
 | **Fat**       | Lipolysis              |
 +---------------+------------------------+
-| **Metabolic** | * ↑ Metabolic rate     |
-|               | * GH release           |
-|               | * Somatostatin release |
-|               | * Insulin release      |
+| **Metabolic** | ↑ Metabolic rate       |
+|               +------------------------+
+|               | GH release             |
+|               +------------------------+
+|               | Somatostatin release   |
+|               +------------------------+
+|               | Insulin release        |
 +---------------+------------------------+
 
 Secretion of glucagon is influenced by a number of factors:
@@ -90,9 +106,10 @@ Secretion of glucagon is influenced by a number of factors:
 | Amino acids                  | Secretin         |
 +------------------------------+------------------+
 | Physiological stressors:     | Free Fatty Acids |
-|                              |                  |
-| * Exercise                   |                  |
-| * Infection                  |                  |
++------------------------------+                  |
+| Exercise                     |                  |
++------------------------------+                  |
+| Infection                    |                  |
 +------------------------------+------------------+
 | β-agonists                   | α-agonists       |
 +------------------------------+------------------+
