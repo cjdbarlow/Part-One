@@ -19,7 +19,6 @@ quarto::quarto_preview()
 * Fix overlapping margin content
 * Fix tables and images overflowing into margin
 * Adjust image size to be pretty/dynamic
-* Add LITFL header
 
 
 ## PDF
