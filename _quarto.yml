@@ -24,6 +24,9 @@ format:
     section-divs: true
     email-obfuscation: javascript
     lang: en-GB
+    date-modified:
+      value: last-modified
+      format: "DD/MM/YYYY"
     # Theming
     theme: themes/titfl.scss
     css: themes/custom.css
@@ -42,7 +45,7 @@ format:
     fig-format: svg
     fig-dpi: 326
     fig-responsive: true
-    filters: [scripts/glossary.lua]
+    filters: [scripts/glossary.lua, scripts/timestamp.lua]
   pdf:
     # General Settings
     title: "Part One"

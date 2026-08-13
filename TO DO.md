@@ -18,9 +18,6 @@ quarto::quarto_preview()
 
 * Fix overlapping margin content
 * Fix tables and images overflowing into margin
-* Last updated on bottom of each page
-  * Perhaps an R block which gets the last-modified of the file it is running from, that is called by a separate include/file run from
-  * Use include-after-body
 * Adjust image size to be pretty/dynamic
 * Add LITFL header
 
