@@ -91,7 +91,6 @@ Therefore, the normal arterial PO~2~ in a Standard Guyton Man is 100mmHg.
     * Physiological V/Q mismatch
 
 <img src="/resources/regional-ventilation-and-perfusion.svg">
-:::
  
 ## Mitochondria
 

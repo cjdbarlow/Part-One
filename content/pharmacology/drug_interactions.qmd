@@ -42,9 +42,7 @@ Metoclopramide is prokinetic and improves absorption of orally administered drug
 
 Distribution may be affected by:
 
-* Alteration of cardiac output::: column-margin
-β-blockers reduce cardiac output and prolong the time to fasciculation of suxamethonium.
-:::
+* Alteration of cardiac output^[β-blockers reduce cardiac output and prolong the time to fasciculation of suxamethonium.]
 * Competition for plasma protein binding^[Phenytoin is usually highly (90%) protein bound. A reduction in protein binding to 80% will double the free phenytoin level.\
 \
 For drugs with first-order kinetics, metabolism will increase proportionally however phenytoin rapidly saturates the enzyme system, leading to zero-order kinetics and a high plasma level.]\

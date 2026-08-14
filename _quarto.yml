@@ -47,7 +47,7 @@ format:
     fig-format: svg
     fig-dpi: 326
     fig-responsive: true
-    filters: [scripts/glossary.lua, scripts/timestamp.lua]
+    filters: [scripts/glossary.lua, scripts/html-tables.lua, scripts/timestamp.lua]
   pdf:
     # General Settings
     title: "Part One"

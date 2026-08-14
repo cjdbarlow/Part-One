@@ -13,14 +13,6 @@ quarto::quarto_preview()
 # TO DO
 ## General
 
-
-## HTML
-
-* Fix overlapping margin content
-* Fix tables and images overflowing into margin
-* Adjust image size to be pretty/dynamic
-
-
 ## PDF
 
 * Get images working (svgs broken)
