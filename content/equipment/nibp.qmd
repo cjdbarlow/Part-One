@@ -80,7 +80,7 @@ When cuff pressure equals:
     The cuff no longer compresses the vessel at all, so no turbulent flow occurs and nothing is auscultated. 
 
 
----
+***
 
 ## References
 

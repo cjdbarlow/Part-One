@@ -56,7 +56,7 @@ These are usually flow limited as well, and so FiO~2~ may decrease at higher ins
         * Will deliver the specified FiO~2~ provided oxygen flow is above the minimum rate\
         Therefore become variable performance devices when inspiratory flow greatly exceeds oxygen flow.
 
----
+***
 
 ## References
 

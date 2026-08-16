@@ -49,7 +49,7 @@ The **coagulation cascade** is an amplification mechanism which activates clotti
 * Enzymes circulate in their inactive form, and become active (e.g. VII ⇒ VIIa) when hydrolysed by their precursor factor
 * Cofactors amplify the cascade
 
-![The Clotting Cascade](/resources/coagulation_full.svg)
+![The Clotting Cascade](/resources/Coagulation_full.svg)
 
 The clotting cascade is divided into the **intrinsic pathway** and **extrinsic pathway**, which join to form the **common pathway**.
 
@@ -119,7 +119,7 @@ A positive feedback loop occurs:
 * **Propagation phase**\
 Platelets bind activated clotting factors, causing high rates of thrombin formation around them.
 
----
+***
 
 ## References
 

@@ -193,7 +193,7 @@ Plasma esterases are non-microsomal enzymes which hydrolyse ester bonds. They:
   This, combined with the organ-independent elimination, means drugs metabolised by plasma esterases have a reliable offset.
     * e.g. Suxamethonium hydrolysis by plasma esterases.
 
----
+***
 
 ## References
 

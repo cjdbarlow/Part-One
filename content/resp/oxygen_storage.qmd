@@ -119,7 +119,7 @@ The myoglobin dissociation curve therefore has a **rapid upstroke** and an **ear
 This allows it to take up oxygen from haemoglobin (as the partial pressure gradient favours diffusion into the cell), and unload it into the cell (so it can actually be used).
 * Is found in skeletal and cardiac muscle
 
----
+***
 
 ## References
 

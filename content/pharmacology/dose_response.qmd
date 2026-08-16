@@ -31,7 +31,7 @@ Examples include:\
   * MAC\
   Mean alveolar concentration of agent required to prevent movement in response to a surgical stimulus.
 
----
+***
 
 ## References
 

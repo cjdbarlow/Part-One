@@ -168,7 +168,7 @@ Carbon monoxide is used as it is a diffusion limited gas.
     * Obesity (may be normal) \
     Potentially due to increased cardiac output.
 
----
+***
 
 ## References
 

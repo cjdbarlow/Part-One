@@ -133,7 +133,7 @@ The transplanted heart has no vagal/parasympathetic innervation but still expres
 * Gradual response to demands in exercise (lacks local SNS innervation, but will still respond to circulating catecholamines)
 * Increased sensitivity to catecholamines due to increased expression of β~1~ receptors
 
----
+***
 
 ## References
 

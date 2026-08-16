@@ -103,7 +103,7 @@ There are two common methods for **managing** pH of significantly hypothermic pa
 * Cellular autoregulation is preserved
 * Unlike pH-stat, this does not cause cerebral vasodilation
 
----
+***
 
 ## References
 

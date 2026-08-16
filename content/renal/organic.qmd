@@ -120,7 +120,7 @@ Here, urine becomes so concentrated that luminal concentration of urea exceeds m
     * Unionised substances are lipid soluble, and able to diffuse into tubular cells down concentration gradients
     * Ionised substances are trapped within the lumen 
 
----
+***
 
 ## References
 

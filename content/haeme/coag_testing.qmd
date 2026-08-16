@@ -88,7 +88,7 @@ These include:
 * Involves adding aggregating agent is added to a tube of platelets, and measuring the change in turbidity\
 Different patterns of response (or non-response) can be diagnostic of different platelet function disorders.
 
----
+***
 
 ## References
 

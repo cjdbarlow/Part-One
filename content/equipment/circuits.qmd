@@ -131,7 +131,7 @@ Flow requirements are identical to the Mapleson D:
 * Controlled ventilation: $~0.8-1 \times MV$\
 
 
----
+***
 
 ## References
 

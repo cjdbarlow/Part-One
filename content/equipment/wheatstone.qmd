@@ -33,7 +33,7 @@ At this point the bridge is said to be balanced.
 * Very small changes in $R_4$ lead to a current flow across the bridge
 * $R_2$ is then be adjusted until the bridge is balanced; at which point the value of $R_4$ is determined
 
----
+***
 
 ## References
 

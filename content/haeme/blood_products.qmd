@@ -106,7 +106,7 @@ Stored whole blood undergoes additional changes:
 * Factor levels decrease significantly after 21 days
 
 
----
+***
 
 ## References
 

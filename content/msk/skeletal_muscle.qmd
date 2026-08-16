@@ -151,7 +151,7 @@ This is an ATP-dependent process, and is why muscle relaxation is active.
 * Myosin binding sites on the actin are occluded by troponin, and no further contraction occurs
 
 
----
+***
 
 ## References
 

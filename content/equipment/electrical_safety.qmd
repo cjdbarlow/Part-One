@@ -212,7 +212,7 @@ Cardiac (microshock) protection.
 * **Z areas**\
 No particular protections.
 
----
+***
 
 ## References
 

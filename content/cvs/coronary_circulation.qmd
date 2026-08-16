@@ -145,7 +145,7 @@ CBF is controlled by:
         * Typical **myocardial oxygen extraction is 70%** and raising this further is difficult\
         Therefore, increasing oxygen supply requires an increase in blood flow.
 
----
+***
 
 ## References
 

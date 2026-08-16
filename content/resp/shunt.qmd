@@ -78,7 +78,7 @@ This is where technical definitions become important to avoid confusion.
 
 <img src="/resources/isoshunt.svg">
 
----
+***
 
 ## References
 

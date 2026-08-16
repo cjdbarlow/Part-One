@@ -56,7 +56,7 @@ Drugs whose mechanism of action is due to their physicochemical properties, such
 * Surface tension
 
 
----
+***
 
 ## References
 

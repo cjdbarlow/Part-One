@@ -23,7 +23,7 @@ Viruses:
     In addition to a protein coat, viruses may have a lipid membrane (acquired from the host cell) around their protein coat.
 
 
----
+***
 
 ## References
 

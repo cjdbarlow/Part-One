@@ -83,7 +83,7 @@ These can be subdivided into:
                     * Increased shunt through collapsed lung bases
                 * Acidosis
 
----
+***
 
 ## References
 

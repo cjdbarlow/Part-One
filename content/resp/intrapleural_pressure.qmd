@@ -51,7 +51,7 @@ Balance between the:
 * The elastic recoil of the lung causes it to collapse until P~A~ = P~atmospheric~
 
 
----
+***
 
 ## References
 

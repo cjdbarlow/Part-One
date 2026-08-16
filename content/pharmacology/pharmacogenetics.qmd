@@ -16,7 +16,7 @@ Develop an understanding of variations in individual drug responses together wit
 Aims to adjust drug therapies for interpatient variability.
 
 
----
+***
 
 ## References
 

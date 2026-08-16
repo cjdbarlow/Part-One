@@ -77,7 +77,7 @@ These are 'statistical effects' associated with monitoring. They are:
 * No identifiable temporal relationship
 * Not reproducible
 
----
+***
 
 ## References
 

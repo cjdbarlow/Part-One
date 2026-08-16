@@ -212,7 +212,7 @@ The Michaelis-Menten equation describes the transition from first order to zero 
 <img src="/resources/michalis-menten.svg">
 
 
----
+***
 
 ## References
 

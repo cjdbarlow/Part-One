@@ -1012,7 +1012,7 @@ This is given by the dotted blue line.
 [**Coagulation Cascade:**](haeme/clotting.qmd#sec)\
 
 
-![](/resources/coagulation_full.svg){fig-alt="Coagulation cascade diagram connecting intrinsic and extrinsic pathways to factor ten activation, thrombin generation, fibrin formation and fibrinolysis."}
+![](/resources/Coagulation_full.svg){fig-alt="Coagulation cascade diagram connecting intrinsic and extrinsic pathways to factor ten activation, thrombin generation, fibrin formation and fibrinolysis."}
 
 
 * The coagulation cascade is covered in detail under [clotting](haeme/clotting.qmd#sec)
@@ -1134,7 +1134,7 @@ This is given by the dotted blue line.
 * Variations on the waveform are covered under [E~T~CO~2~ Waveform Variations](equipment/end_tidal.qmd#var)
 
 
----
+***
 
 ## References
 

@@ -124,7 +124,7 @@ However, this reduction is **proportional** to the decrease in volume, such that
 <img src="/resources/flow-volume-intra.svg">
 
 
----
+***
 
 ## References
 

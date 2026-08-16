@@ -73,7 +73,7 @@ The diodes are cycled at several hundred times per second which allows the detec
         * Methylene blue will cause the SpO~2~ to read < 65% for several minutes
         * Indocyanine green will also cause a decreased SpO~2~
 
----
+***
 
 ## References
 

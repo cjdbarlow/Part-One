@@ -52,7 +52,7 @@ Determine if doing the definitive study is feasible. Potential issues:
 9. Publish\
 CONSORT methodology or similar.
 
----
+***
 
 ## References
 

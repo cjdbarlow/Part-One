@@ -98,7 +98,7 @@ A single stimulus lasting ~0.2ms is applied.
     * A twitch must be assessed prior to blockade so a baseline can be established
 
 
----
+***
 ## References
 
 1. Leslie RA, Johnson EK, Goodwin APL. Dr Podcast Scripts for the Primary FRCA. Cambridge University Press. 2011.

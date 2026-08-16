@@ -99,7 +99,7 @@ The indirect Coomb's test is now deprecated as it provides negligible additional
   * A negative test will cause no agglutination, as the IgG has not been bound to red cells
   * If negative, the antiglobulin serum is re-used on a control sample to ensure that it is not a false negative
 
----
+***
 
 ## References
 

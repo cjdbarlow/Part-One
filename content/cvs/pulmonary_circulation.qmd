@@ -154,7 +154,7 @@ As discussed above, HPV allows redirection of blood flow from poorly ventilated 
 * In utero, PAO~2~ is negligible, and PVR is therefore very high\
 This diverts blood from the pulmonary circulation into the left side of the heart via the foramen ovale. When the first breath is taken, pulmonary vessels dilate and the right-to-left shunt is reversed.
 
----
+***
 
 ## References
 

@@ -50,7 +50,7 @@ The weight of lung above compresses the lung below, improving the compliance of 
     * **V/Q = 0** (Shunt)\
     Mixed venous blood entering the systemic circulation without being oxygenated via passage through the lungs. PaO~2~ falls. 
 
----
+***
 
 ## References
 

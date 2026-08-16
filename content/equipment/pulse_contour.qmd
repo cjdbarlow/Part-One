@@ -100,7 +100,7 @@ Characterises the arterial tree as having three major features:
 	* Uses radial applanation tonometry
 
 
----
+***
 
 ## References
 

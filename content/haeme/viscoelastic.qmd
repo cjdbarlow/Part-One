@@ -90,7 +90,7 @@ e.g. Citrated vs. recalcified samples.
 | **CL 30** (clot lysis 30)  | **LY 30**                        | Percent decrease in amplitude 30 minutes after MA               | Clot stability, dependent on **fibrinolysis**. Reduced CL 30 can be treated with an **antifibrinolytic**, such as TXA                                                                 |
 
 
----
+***
 
 ## References
 

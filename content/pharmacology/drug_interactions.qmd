@@ -108,7 +108,7 @@ These three interactions can be graphically demonstrated using an **isobologram*
 <img src="/resources/isobologram.svg">
 
 
----
+***
 
 ## References
 

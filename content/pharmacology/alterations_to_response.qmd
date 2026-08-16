@@ -306,7 +306,7 @@ May be:
     * Additive
     * Antagonistic
 
----
+***
 
 ## References
 

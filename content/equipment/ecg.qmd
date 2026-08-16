@@ -83,7 +83,7 @@ The relationship between electrodes and leads is described with **Einthoven's Tr
 
 * ECG electrodes can act as an exit electrode for surgical diathermy
 
----
+***
 
 ## References
 

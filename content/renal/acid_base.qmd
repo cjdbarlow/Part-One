@@ -83,7 +83,7 @@ Glutamine provides a mechanism for elimination of a large number of H^+^ ions:
 
 Secreted H^+^ may also combine with a filtered buffer (e.g. PO~4~^3-^). **These H^+^ ions are not reabsorbed**. About **36mmol** of H^+^ is eliminated with filtered PO~4~^3-^ each day, with each PO~4~^3-^ binding **two** H^+^ ions.
 
----
+***
 
 ## References
 

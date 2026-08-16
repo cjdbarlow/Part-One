@@ -86,7 +86,7 @@ The initial behaviour of the model is key in deciding which model to apply to an
 | **Other**              | The 'modified Marsh' model uses a k~eo~ of 1.2L.min^-1^ instead of 0.26L.min^-1^, which decreases the $C_P \ $required to achieve the target $C_e$quickly. The modified Marsh is therefore preferable in patients at higher risk of overdose. | Limits BMI to < 42 for males and < 35 for females, to prevent absurd compartment sizes being calculated from the method used to calculate lean body mass                                                                                                                      |
 | **Overall**            | Faster induction due to larger V~1~, which results in a larger loading dose                                                                                                                                                                         | Reduced rate of adverse events. Overall less propofol used.                                                                                                                                                                                                                   |
 
----
+***
 
 ## References
 

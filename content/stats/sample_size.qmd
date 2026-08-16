@@ -38,7 +38,7 @@ Certain trial designs (e.g. multiple arms) require a larger sample size for a gi
   * **Participant availability**\
   Sample size is limited when the number of eligible participants for a study is small (e.g. rare diseases)
 
----
+***
 
 ## References
 

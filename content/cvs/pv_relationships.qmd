@@ -158,13 +158,13 @@ Note that stroke volume is the same (as both sides should have the same cardiac 
 * Contractility is reduced\
 Right heart contractility is partially dependent on coordinated contraction with the LV (particularly the septum), and therefore is decreased with LV systolic failure or conducting system disease (such as bundle brach block).
 
----
+***
 
 ## Further Reading
 
 The Khan Academy series [Changing the Pressure-Volume Loop](https://www.khanacademy.org/science/health-and-medicine/circulatory-system#changing-the-pv-loop-nm) is a fantastic introduction to the topic.
 
----
+***
 
 ## References
 

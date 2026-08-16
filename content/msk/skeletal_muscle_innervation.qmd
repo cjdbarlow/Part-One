@@ -101,7 +101,7 @@ Motor neuron is separated from the sensory neuron by one or more interneurons in
   * Repetitive stimulation causes repeated SR depolarisation, leading to sustained high intracellular Ca^2+^ levels as Ca^2+^ entry exceeds Ca^2+^ exit
   * Force from tetanic contraction is up to 4x greater than that of a twitch
 
----
+***
 
 ## References
 

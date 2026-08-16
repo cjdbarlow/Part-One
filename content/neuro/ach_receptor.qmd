@@ -80,7 +80,7 @@ There are two types of ACh receptor:
         * M~4~ (Gi) and M~5~ (Gq)\
         CNS.
 
----
+***
 
 ## References
 

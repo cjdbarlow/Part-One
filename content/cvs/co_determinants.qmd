@@ -200,7 +200,7 @@ The **rate of rise** of LVP, assuming a constant preload and afterload
 Most common method used clinically is **ejection fraction**:\
 $EF \ (\%) = {SV \over EDV } \times 100 = {EDV - ESV \over EDV} \times 100$
 
----
+***
 
 ## Further Reading
 
@@ -208,7 +208,7 @@ $EF \ (\%) = {SV \over EDV } \times 100 = {EDV - ESV \over EDV} \times 100$
 * [This article](http://advan.physiology.org/content/25/1/53.long#T1) discusses the wall stress definition for preload and afterload
 * Changes with ventilation are described with pretty graphs [here](http://www.derangedphysiology.com/main/core-topics-intensive-care/mechanical-ventilation-0/Chapter%202.1.8/haemodynamic-changes-during-mechanical-breath)
 
----
+***
 
 ## References
 

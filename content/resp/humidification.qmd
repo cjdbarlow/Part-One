@@ -43,7 +43,7 @@ Method of humidification:
     * Moisture is reabsorbed\
     This reduces potential water losses from the airway from **300ml.day^-1^** to **150ml.day^-1^**.
 
----
+***
 
 ## References
 

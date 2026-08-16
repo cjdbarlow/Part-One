@@ -133,7 +133,7 @@ The context-sensitive half-time could also be described as the 50% context-sensi
 * Is used because the half-time does not describe **mono-exponential decay**\
 i.e. The time taken for drug concentration to reach 25% of its starting value is not twice the context sensitive half-time.
 
----
+***
 
 ## References
 

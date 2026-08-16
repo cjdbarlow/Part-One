@@ -47,7 +47,7 @@ Maintain pH in a particular range in order to:
     * Maximise preservative function
 
 
----
+***
 
 ## References
 

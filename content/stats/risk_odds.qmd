@@ -82,7 +82,7 @@ $OR = {Odds \ of \ survival \ in \ exposed \over Odds \ of \ death \ in \ surviv
 
 Note that the relative risk is not 0.5 (as you may initially assume). However, the odds ratio is simply the inverse of the previous value.
 
----
+***
 
 ## References
 

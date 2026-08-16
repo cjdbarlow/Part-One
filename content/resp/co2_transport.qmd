@@ -133,7 +133,7 @@ CO~2~ in the body can be considered as a three-compartment model:
 * Alveolar CO~2~ is then diluted by dead space gas, resulting in a lower ME'CO~2~
 
 
----
+***
 
 ## References
 

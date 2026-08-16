@@ -124,7 +124,7 @@ These gradients are dynamic and interdependent, and result in **no stable steady
 * etc
 
 
----
+***
 
 ## References
 

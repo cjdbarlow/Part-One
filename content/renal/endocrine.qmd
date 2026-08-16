@@ -69,7 +69,7 @@ Erythropoiesis is stimulated by EPO release:
     * Renal failure\
     Production of EPO is decreased in renal failure, which is why patients with end-stage renal disease require exogenous EPO.
 
----
+***
  
 ## References
 

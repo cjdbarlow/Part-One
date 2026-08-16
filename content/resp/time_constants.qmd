@@ -90,7 +90,7 @@ This is called **pendelluft**.
     * Dynamic compliance will decrease as respiratory rate rises and be markedly different from static compliance
 
 
----
+***
 
 ## References
 

@@ -132,7 +132,7 @@ Increases affinity for endogenous agonist.
 * Negative\
 Decreases affinity for endogenous agonist.
 
----
+***
 
 ## References
 

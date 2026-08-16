@@ -66,7 +66,7 @@ Baroreceptor response to the Valsalva is minimal in both phase II and IV:
 * In phase II, there is no compensatory increase in sympathetic outflow, so BP continues to fall until P~AW~ returns to 0mmHg
 * In phase IV, there is no compensatory increase in vagal tone and so BP returns to normal without overshooting
 
----
+***
 
 ## References
 

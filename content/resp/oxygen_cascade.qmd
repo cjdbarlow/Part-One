@@ -103,7 +103,7 @@ Therefore, the normal arterial PO~2~ in a Standard Guyton Man is 100mmHg.
 Mixed venous blood typically quoted as 40mmHg.
 * Higher than mitochondria as not all arterial blood travels through capillary beds
 
----
+***
 
 ## References
 

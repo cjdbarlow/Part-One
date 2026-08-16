@@ -82,7 +82,7 @@ Important endocrine functions of the lung include:
 * Release of nitric oxide to regulate smooth muscle
 * ACE metabolises angiotensin I to angiotensin II
 
----
+***
 
 ## References
 

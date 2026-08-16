@@ -43,7 +43,7 @@ Gluconeogenesis is the process that consumes ATP to produce glucose from other m
     * Amino acids
     * CAC-intermediates
 
----
+***
 
 ## References
 

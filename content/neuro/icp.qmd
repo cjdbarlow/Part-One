@@ -87,7 +87,7 @@ Results in reduced blood flow due to **flow-metabolism coupling**. May be achiev
             * Reduction in cerebral oxygen delivery\
             Consequently, a low-normal ETCO~2~ target is used to avoid tissue hypoxia.
 
----
+***
 
 ## References
 

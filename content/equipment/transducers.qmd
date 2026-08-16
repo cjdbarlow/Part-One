@@ -34,22 +34,22 @@ Note that this does not require the mass or the volume of liquid to be known, an
 This relationship can be demonstrated as follows. First, axioms:
 \
 \
-$\begin{align}
+$\begin{aligned}
 Pressure &= {Force \over Area} \\
 &= {Mass \times Acceleration \over Area}
 \\
 \\
 Density &= {Mass \over Volume}, \ therefore: \\
 Mass &= Volume \times Density
-\end{align}$
+\end{aligned}$
 \
 \
 Therefore, by combining the above equations:
 
-$\begin{align}
+$\begin{aligned}
 Pressure &= {Density \times Volume \times Acceleration \over Area} \\
 &= Density \times Length \times Acceleration
-\end{align}$
+\end{aligned}$
 :::
 
 ## Static Calibration
@@ -159,7 +159,7 @@ The lower the natural frequency of a monitoring system, the smaller the range of
 * Free of air\
 Introducing an air bubble will increase damping (generally good, since most systems are under-damped), however it will lower the natural frequency and is detrimental overall.
 
----
+***
 
 ## References
 

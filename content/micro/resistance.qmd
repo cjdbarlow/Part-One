@@ -39,7 +39,7 @@ Can occur via:
     * Development of metabolic pathways to bypass site of action of antibiotic\
     e.g. Resistance to Trimethoprim-Sulfamethoxazole by allowing bacteria to synthesis or absorb folic acid.
 
----
+***
 
 ## References
 

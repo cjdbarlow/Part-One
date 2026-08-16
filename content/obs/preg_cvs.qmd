@@ -53,7 +53,7 @@ Causes an ↑ in CO by up to 30% during the active phase and 45% during ejection
 
 <img src="/resources/labor-co.svg">
 
----
+***
 ## References
 
 1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.

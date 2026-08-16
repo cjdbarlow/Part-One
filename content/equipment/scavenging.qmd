@@ -32,7 +32,7 @@ The structure of the scavenging interface depends on the type of scavenging syst
 * More transfer tubing
 * Disposal assembly
 
----
+***
 
 ## References
 

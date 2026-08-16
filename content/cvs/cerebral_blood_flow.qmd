@@ -105,7 +105,7 @@ Hypoxia causes a release of adenosine and reduced calcium uptake, with subsequen
 The optimal haematocrit is ~0.3-0.35, which provides the best balance between reduction of viscosity to improve cerebral blood flow, without reducing DO~2~.
 
 
----
+***
 
 ## References
 

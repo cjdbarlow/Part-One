@@ -64,7 +64,7 @@ Confounding can be controlled for:
     * **Stratification**\
     Analyse the data in subgroups for each potential confounding factor.
 
----
+***
 
 ## References
 

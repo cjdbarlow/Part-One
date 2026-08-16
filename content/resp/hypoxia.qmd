@@ -152,7 +152,7 @@ Shunt physiology is explored in more detail under [shunt](shunt.qmd)
 * In chronic hypercarbia the CSF pH normalises (as bicarbonate is secreted into CSF), with a raised CO~2~
 * Fall in PaO~2~ becomes the predominant stimulus for ventilation
 
----
+***
 
 ## References
 

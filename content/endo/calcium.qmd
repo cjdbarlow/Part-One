@@ -53,7 +53,7 @@ Peptide hormone secreted by the C cells of the thyroid gland, in response to a r
   * ↓ Absorption of calcium from gut and kidney
   * ↓ Osteoclastic activity of bone
 
----
+***
 
 ## References
 

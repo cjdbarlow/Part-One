@@ -58,7 +58,7 @@ ADP antagonists (e.g. clopidogrel) prevent expression of the GPIIb/IIIa complex.
     vWF also binds to sub-endothelial connective tissue.
     * GP IIb/IIIa are also receptors for fibrinogen, which encourages platelet aggregation
 
----
+***
 
 ## References
 

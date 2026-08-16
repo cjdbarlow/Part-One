@@ -105,7 +105,7 @@ Reflected frequencies are **higher towards the probe** and **lower away**.
 Remember, $CO = HR \times SV$.
 :::
 
----
+***
 
 ## References
 

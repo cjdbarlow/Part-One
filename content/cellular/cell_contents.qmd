@@ -77,7 +77,7 @@ A substance which can enter all compartments freely; e.g. heavy water ($^2H_2O$)
 Can be measured by the difference between calculated ECF volume and TBW.
 
 
----
+***
 
 ## References
 

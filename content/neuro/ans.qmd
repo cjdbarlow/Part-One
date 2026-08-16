@@ -194,7 +194,7 @@ Effective parasympatholysis:
 
 The **enteric plexus** is a system of autonomic nerves in the GIT which is free of CNS control. It consists of sensory and integrative neurons as well as excitatory and inhibitory motor neurons which generate coordinated muscular activity.
 
----
+***
 
 ## References
 

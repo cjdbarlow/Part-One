@@ -110,7 +110,7 @@ Repeat invasion by the same pathogen is met with a much more rapid and aggressiv
 * APCs express and present antigen
 * Memory T and Memory B cells formed during the primary response are activated, and begin rapidly dividing and producing antibody
 
----
+***
 
 ## References
 

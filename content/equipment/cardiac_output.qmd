@@ -107,7 +107,7 @@ In this case:
     * Mixed venous blood sampled from the pulmonary artery
     * Arterial blood sampled from a peripheral arterial line
 
----
+***
 
 ## References
 

@@ -119,7 +119,7 @@ Pharmacokinetics are unpredictable, but are broadly affected by:
 | Methanol                                                                 | Warfarin                 |
 | Aminoglycosides, metronidazole, carbapenems, cephalosporins, penicillins | Macrolides, quinolones   |
 
----
+***
 
 ## References
 

@@ -70,7 +70,7 @@ The actions of the RAAS are described in more detail in the [endocrine functions
 * Catalyses the production of angiotensin I from circulating angiotensinogen\
 Angiotensin I is then converted into Angiotensin II by circulating ACE.
 
----
+***
 
 ## References
 

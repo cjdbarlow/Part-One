@@ -127,7 +127,7 @@ Somatostatin is a **polypeptide** hormone that:
 * Inhibits secretion pancreatic polypeptides including insulin and glucagon
 * May function as a neurotransmitter in the CNS
 
----
+***
 
 ## References
 

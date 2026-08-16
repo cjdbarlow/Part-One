@@ -124,7 +124,7 @@ Minor contributors include:
 * Alkalosis\
 Alkalosis increases elimination of potassium as the Na^+^-K^+^ ATPase pump is stimulated by low H^+^ ion concentration.
 
----
+***
 
 ## References
 

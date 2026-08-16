@@ -92,7 +92,7 @@ When measuring BMR:
             * Fat ≈ 0.7
 
 :::column-margin
-The **respiratory quotient** is the value of $VCO_2 \over VO_2 $at steady-state, whilst the **respiratory exchange ratio** is affected by metabolic rate.
+The **respiratory quotient** is the value of $\frac{VCO_2}{VO_2}$ at steady-state, whilst the **respiratory exchange ratio** is affected by metabolic rate.
 :::
 
 A variety of equations can be used to calculate Resting Energy Expenditure. One is the **Weir equation**:
@@ -111,7 +111,7 @@ $REE = 1.44 \times (3.94 \times VO_2 + 1.1 \times VCO_2)$, where:
 * Point estimate of a dynamic process
 
 
----
+***
 
 ## References
 

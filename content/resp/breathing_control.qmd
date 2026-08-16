@@ -107,7 +107,7 @@ The respiratory centre is located in the **medulla** and the **pons**. It consis
 * **Pneumotaxic Centre**\
  Also modulates the DRG, increasing RR and decreasing V~T~ to maintain MV.
 
----
+***
 
 ## References
 

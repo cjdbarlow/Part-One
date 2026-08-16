@@ -115,7 +115,7 @@ This occurs when atrial pressure exceeds ventricular pressure.
 * The **y descent** occurs when the AV valves open, causing a rapid drop in CVP as the ventricles fill
 * No electrical activity is produced - the ECG shows the TP interval
 
----
+***
 
 ## References
 

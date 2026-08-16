@@ -37,7 +37,7 @@ Severe inflammation may lead to cytokines in the systemic circulation, causing:
     * Neutrophil recruitment from bone marrow
     * Release of acute-phase proteins from liver
 
----
+***
 
 ## References
 

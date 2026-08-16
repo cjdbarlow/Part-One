@@ -51,7 +51,7 @@ Free fatty acids can be:
 * **β-oxidised to acetyl CoA** in the liver\
 Acetyl CoA can then enter the citric acid cycle to produce ATP. 
 
----
+***
 
 ## References
 

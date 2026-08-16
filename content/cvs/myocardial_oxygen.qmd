@@ -89,7 +89,7 @@ External work can also be thought of as **volume work**, or the energy expended 
 * **Basal oxygen consumption**\
 Basal oxygen consumption (~8ml.min^-1^.100g^-1^) comprises ~25% of MVO~2~.
 
----
+***
 
 ## References
 

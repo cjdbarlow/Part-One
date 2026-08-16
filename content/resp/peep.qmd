@@ -79,7 +79,7 @@ PEEP will tend to improve PO~2~ whilst reducing CO.
     * Increased CVP and decreased CO lowering the pressure gradient for hepatic flow
         * May result in circulation only intermittently throughout the cardiac cycle
 
----
+***
 
 ## References
 

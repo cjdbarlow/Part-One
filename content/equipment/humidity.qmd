@@ -35,7 +35,7 @@ This system measures both temperature and relative humidity.
             * At 100% relative humidity, no evaporative cooling will take place and the temperatures will be equal
             * As humidity decreases, evaporative cooling will cool the wet thermometer, and the temperature difference allows humidity to be determined
 
----
+***
 
 ## References
 

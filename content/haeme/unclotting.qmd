@@ -67,7 +67,7 @@ Binds to fibrin, and then cleaves plasminogen to plasmin. This keeps the plasmin
 * **Plasmin** cleaves fibrin into **fibrin degradation products**\
 FDPs conveniently inhibit further thrombin and fibrin formation.
 
----
+***
 
 ## References
 

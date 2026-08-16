@@ -184,7 +184,7 @@ E~T~CO~2~ will underestimate arterial CO~2~ as gas from un-perfused alveoli (wit
 
 Litmus paper which changes colour when exposed to hydrogen ions (produced by CO~2~) can be used to confirm endo-tracheal intubation, though they may generate false-positive results due to gastric pH.
 
----
+***
 
 ## References
 

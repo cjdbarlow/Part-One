@@ -24,10 +24,10 @@ $$F = PA$$
 Substituting:\
 
 $$
-\begin{align*}
+\begin{aligned}
 W &= PAD \\
 W &= PV \\
-\end{align*}
+\end{aligned}
 $$
 
 :::
@@ -127,7 +127,7 @@ Work of breathing can be minimised by optimising the determinants:
         * Increase lung volume
         * Bronchodilators\
 
----
+***
 
 ## References
 

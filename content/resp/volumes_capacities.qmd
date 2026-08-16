@@ -195,7 +195,7 @@ Closing capacity is the sum of residual volume and closing volume.
 
 Closing capacity is measured using Fowler's Method, and is covered under [Dead Space](dead_space.qmd).
 
----
+***
 
 ## References
 

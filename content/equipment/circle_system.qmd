@@ -95,7 +95,7 @@ Settings affect the fresh gas flow mixture, whilst the patient respires gas from
     * Produces carbon monoxide from desflurane, isoflurane, and enflurane
     * Dangerous if aspirated
 
----
+***
 
 ## References
 

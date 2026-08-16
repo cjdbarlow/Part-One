@@ -88,7 +88,7 @@ Risk of complication from a massive transfusion is influenced by:
 | Lactic acidosis  | Hyperlactataemia due to anaerobic metabolism in stored units                 |
 | Hyperkalaemia    | Potassium migrates from stored erythrocytes into plasma whilst in storage    |
 
----
+***
 
 ## References
 

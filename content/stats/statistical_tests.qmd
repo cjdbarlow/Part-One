@@ -117,7 +117,7 @@ The sign (i.e. positive or negative) is preserved.
 * The sum of positive ranks is then compared with the sum of negative ranks\
 * If there is no difference between groups, we would expect the net value to be 0
 
----
+***
 
 ## References
 

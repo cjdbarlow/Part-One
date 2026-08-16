@@ -42,7 +42,7 @@ Can only be recorded as an integer (whole number), e.g. number of hospital admis
      Do not have a rational 0 - this is just another point on the line (e.g. temperature in °C).
 
 
----
+***
 
 ## References
 

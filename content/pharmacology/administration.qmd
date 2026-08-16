@@ -164,7 +164,7 @@ Large dose requirements cannot be effectively given transdermally.
     * Abscess
     * Haematoma
 
----
+***
 
 ## References
 

@@ -42,7 +42,7 @@ Once in the enterocyte, iron can be:
     * High hepcidin prevents iron transport from the enterocyte
     * Hepcidin is deficient in haemochromatosis
 
----
+***
 
 ## References
 

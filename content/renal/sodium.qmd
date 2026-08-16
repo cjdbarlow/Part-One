@@ -97,7 +97,7 @@ Predominantly hormonal:
 	* [Natriuretic peptides](../endo/adrenal.qmd#min)
 
 
----
+***
 
 ## References
 

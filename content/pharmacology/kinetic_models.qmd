@@ -161,7 +161,7 @@ $Cl = {Dose \over AUC}$
 * Determine **Bioavailability**\
 Difference between the AUC of the same dose of drug administered IV and via another route.
 
----
+***
 
 ## References
 

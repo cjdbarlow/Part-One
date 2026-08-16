@@ -52,7 +52,7 @@ Identify:
 Generally, landmarks are identified with the contralateral hand - if placing a right-sided subclavian line, identify the structures with your left hand.
 :::
 
----
+***
 
 ## References
 

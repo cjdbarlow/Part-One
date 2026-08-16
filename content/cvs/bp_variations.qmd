@@ -187,7 +187,7 @@ Causes a reduction in:
         * Increased SBP due to the increased force of ejection due to increased preload (Starlings Law), which occurs due to high ESV
         * Decreased DBP due to part of the stroke volume flowing back into the ventricle through the incompetent valve
 
----
+***
 
 ## References
 

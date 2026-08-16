@@ -27,7 +27,7 @@ Ammonia can also be produced in the kidney by the deamination of glutamate in th
 * Does not enter the urea cycle
 :::
 
----
+***
 
 ## References
 

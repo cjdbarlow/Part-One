@@ -47,7 +47,7 @@ Each component has a hydrophobic and hydrophilic end.
   * During expiration alveoli collapse\
   The decrease in alveolar radius is offset by the increase in surfactant concentration, so the fall in radius is mitigated by the drop in surface tension.
 
----
+***
 
 ## References
 

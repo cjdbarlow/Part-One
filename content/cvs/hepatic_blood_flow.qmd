@@ -70,7 +70,7 @@ This arrangement:
   Increased hepatic O~2~ demand is met by increasing O~2~ extraction, rather than by increasing flow (as occurs in the heart).
 * **Prevents shunting and retrograde flow**
 
----
+***
 
 ## References
 

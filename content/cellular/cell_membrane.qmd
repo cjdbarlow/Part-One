@@ -33,7 +33,7 @@ The membrane is not perfectly impermeable to sodium, and Na^+^ will leak in down
 | K^+^  |             150 |             4.5 |
 | Cl^-^ |              10 |             100 |
 
----
+***
 
 ## References
 

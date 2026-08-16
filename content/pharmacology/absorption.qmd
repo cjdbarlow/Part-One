@@ -81,7 +81,7 @@ May also refer to metabolism by the:
         * Porto-systemic shunts decrease first pass metabolism
         * Altered bioavailability of drugs with high hepatic extraction ratios
 
----
+***
 
 ## References
 

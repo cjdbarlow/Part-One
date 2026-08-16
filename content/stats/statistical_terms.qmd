@@ -143,7 +143,7 @@ They are useful because (unlike the above values) they do not assume that the pa
     * A **negative likelihood ratio** is used when the test is negative:\
     $LR(-) = {1 \ - \ sensitivity \over specificity}$
 
----
+***
 
 ## References
 

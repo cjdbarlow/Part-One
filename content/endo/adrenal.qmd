@@ -102,7 +102,7 @@ Plasma half-lives of noradrenaline and adrenaline are small as a consequence of 
 * Inactivation by COMT in the liver and kidney
 
 
----
+***
 
 ## References
 

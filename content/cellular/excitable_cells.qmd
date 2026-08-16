@@ -169,7 +169,7 @@ Myelinated, < 3μm, conduct at 4-30m.s^-1^. Innervate pre-ganglionic neurons.
 * Type C\
 Unmyelinated, 1μm, conduct at 0.5-2m.s^-1^. Pain fibres. 
 
----
+***
 
 ## References
 

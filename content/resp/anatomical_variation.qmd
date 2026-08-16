@@ -30,7 +30,7 @@ The cricoid used to be thought of the narrowest part of the child's airway, but 
     * Left and right bronchi arise at similar angles, so endobronchial intubation may occur on either side
     * Airways themselves are narrower, and have a higher resistance to flow. 
 
----
+***
 
 ## References
 

@@ -73,7 +73,7 @@ Guyton's curve can be superimposed on Starling's curve to examine the interactio
 <img src="/resources/cardiac-function.svg">
 
 
----
+***
 
 ## References
 

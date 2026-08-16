@@ -43,7 +43,7 @@ Arterial pressure exceeds venous pressure which exceeds alveolar pressure.
 Interstitial pressure acts as a Starling resistor for pulmonary blood flow.
     * It is seen when interstitial pressure is high (e.g due to pulmonary oedema).
 
----
+***
 
 ## References
 
