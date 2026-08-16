@@ -115,6 +115,7 @@
 
 % Page Styles
 % Title Page
+\makeatletter
 \renewcommand{\maketitle}[0]{%
   \cleardoublepage {
       \begin{fullwidth}
@@ -122,7 +123,11 @@
       \vspace{11.5pc}
       \fontsize{36}{40}\selectfont\par\noindent\textcolor{darkgray}{\scshape{\tuftefont\@title}}
       \vspace{2pc}
-      \fontsize{22}{26}\selectfont\par\noindent\enspace\textcolor{darkgray}{\scshape{\tuftefont\@subtitle}}
+{\fontsize{22}{32}\selectfont
+  \leftskip=1em
+  \par\noindent
+  \textcolor{darkgray}{\scshape{\tuftefont\@subtitle}}\par
+}
       \vspace{22pc}
       \fontsize{14}{16}\selectfont\par\noindent\scshape{\tuftefont\@publishers}
       \end{fullwidth}
@@ -130,6 +135,7 @@
   \thispagestyle{empty}
   \clearpage%
 }
+\makeatother
 
 
 %% Table of Contents

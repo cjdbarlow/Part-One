@@ -52,14 +52,15 @@ High quality model answers to the ANZCA primary.
 
 ### Acknowledgements + Technical Stuff
 
-Part One is built and made pretty with [Quarto](https://quarto.org/).
+Part One is built and made pretty with [Quarto](https://quarto.org/). 
+
 * Equations are written in [<span class="texhtml" style="font-family: 'CMU Serif', cmr10, LMRoman10-Regular, 'Nimbus Roman No9 L', 'Times New Roman', Times, serif;">L<span style="text-transform: uppercase; font-size: 70%; margin-left: -0.36em; vertical-align: 0.3em; line-height: 0; margin-right: -0.15em;">a</span>T<span style="text-transform: uppercase; margin-left: -0.1667em; vertical-align: -0.5ex; line-height: 0; margin-right: -0.125em;">e</span>X](https://www.latex-project.org/about/)
 * Graphs are:
     * Written in [PGF/Tikz](https://ctan.org/pkg/pgf) using [texworks](https://www.tug.org/texworks/)
     * Saved as vector graphics with [dvisvgm](https://dvisvgm.de/)
     * Stripped of extraneous parts using [svgo](https://github.com/svg/svgo)
     * (Some graphs have been taken from open-source sites such as [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page). These have been credited where used, and gone through the svgo crash diet to keep it lightweight.)
-* Additionally, chemical structures have been built in [MarvinSketch](https://www.chemaxon.com/products/marvin/marvinsketch/)
+* Chemical structures have been built in [MarvinSketch](https://www.chemaxon.com/products/marvin/marvinsketch/)
 
 
 ### About the Author

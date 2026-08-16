@@ -1,3 +1,7 @@
+/.quarto/
+/site_libs
+/index_files
+
 .quarto/
 .Rproj.user/
 _book/
@@ -20,4 +24,5 @@ index.pdf
 /index_files/
 resources/drugbase.Rds
 
-/.quarto/
+
+**/*.quarto_ipynb

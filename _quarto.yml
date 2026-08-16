@@ -51,9 +51,12 @@ format:
   pdf:
     # General Settings
     title: "Part One"
-    subtitle: "A Pretty Good Guide to the Primary Exam"
+    subtitle: |
+      A Pretty Good Guide\
+      to the Primary Exam
     author: "C. Jake Barlow"
     publishers: "Life in the Fast Lane"
+    template-partials: [themes/title.tex]
     keep-tex: true
     # Theming
     documentclass: scrbook
