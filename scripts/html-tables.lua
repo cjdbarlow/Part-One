@@ -1,5 +1,5 @@
--- Add a bootstrap class to make them responsive
--- Easier than slapping a div class around them
+-- Wrap each HTML table produced by Quarto in the bootstram .table-responsive class
+-- Means wide tables scroll within the page instead of widening the whole layout
 function Table(table)
   if FORMAT:match("html") then
     return pandoc.Div({ table }, pandoc.Attr("", { "table-responsive" }))

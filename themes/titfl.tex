@@ -12,7 +12,12 @@
 % Styling
 %% Page Numbers
 \RequirePackage{scrlayer-scrpage}
-\lohead*{\pagemark}
+\clearpairofpagestyles
+\KOMAoptions{headwidth=textwithmarginpar}
+\automark[section]{chapter}
+\lehead*{\pagemark\enskip\headmark}
+\rohead*{\headmark\enskip\pagemark}
+\pagestyle{scrheadings}
 
 %% Fonts
 \RequirePackage{fontspec}
@@ -20,10 +25,14 @@
 \newfontfamily\tuftefont[]{ETbb}
 
 %% Sidenotes
-
+\renewcommand*{\marginfont}{\tuftefont\footnotesize}
+\DeclareCaptionFont{tuftefont}{\tuftefont}
+\DeclareCaptionStyle{sidecaption}{font={footnotesize,tuftefont}}
+\DeclareCaptionStyle{marginfigure}{font={footnotesize,tuftefont}}
+\DeclareCaptionStyle{margintable}{font={footnotesize,tuftefont}}
 
 %% Headings
-\setkomafont{part}{\itshape\Huge\hfill\raggedleft\tuftefont}
+\setkomafont{part}{\itshape\Huge\tuftefont}
 \setkomafont{chapter}{\Huge\relax\tuftefont}
 \setkomafont{section}{\LARGE\relax\tuftefont}
 \setkomafont{subsection}{\Large\tuftefont}
@@ -124,26 +133,25 @@
 
 
 %% Table of Contents
-
+\BeforeTOCHead[toc]{\newgeometry{left=1in,right=1in}}
+\AfterStartingTOC[toc]{\restoregeometry}
+\DeclareTOCStyleEntry[linefill=\hfill]{tocline}{section}
+\DeclareTOCStyleEntry[linefill=\hfill]{tocline}{subsection}
+\DeclareTOCStyleEntry[linefill=\hfill]{tocline}{subsubsection}
 
 %% Part Pages
-\makeatletter
-\renewcommand\part{%
-  \if@openright
-    \cleardoublepage
-  \else
-    \clearpage
-  \fi
-  \thispagestyle{empty}%
-  \if@twocolumn
-    \onecolumn
-    \@tempswatrue
-  \else
-    \@tempswafalse
-  \fi
-  \null\vfil
-  \secdef\@part\@spart}
-\makeatother
+\renewcommand*{\raggedpart}{\raggedright}
+\renewcommand*{\partpagestyle}{empty}
+\RedeclareSectionCommand[
+  beforeskip=7\baselineskip,
+  afterskip=0pt plus 1fil
+]{part}
+\AddToHook{cmd/part/before}{\cleardoublepage}
+\renewcommand{\partlineswithprefixformat}[3]{%
+  #2#3\par\nobreak
+  \vspace{0.6\baselineskip}%
+  {\color{info}\rule{7pc}{1.4pt}}%
+}
 
 % Calculations
 % Define a month command

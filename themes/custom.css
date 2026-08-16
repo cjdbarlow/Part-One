@@ -23,9 +23,12 @@ main ul ol {
  margin-bottom:0rem;
 }
 
-/* horizontal breaks within the menu should have smaller margins than those between major headings */
-li > ul > li > span > hr {
-    margin: 0.5rem;
+/* Separate the two top-level book sections without creating pseudo-pages in PDF. */
+.sidebar-navigation .sidebar-divider {
+    display: block;
+    margin-top: 0.5rem;
+    padding-top: 0.5rem;
+    border-top: 1px solid #dee2e6;
 }
 
 /* colour the glossary */

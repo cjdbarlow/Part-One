@@ -57,8 +57,14 @@ format:
     keep-tex: true
     # Theming
     documentclass: scrbook
-    classoption: [oneside]
-    filters: [scripts/boxes.lua, scripts/tables.lua]
+    classoption: [twoside, open=any]
+    filters:
+      - path: scripts/pdf-media-shortcodes.lua
+        at: pre-ast
+      - scripts/pdf-images.lua
+      - scripts/boxes.lua
+      - scripts/tables.lua
+    use-rsvg-convert: true
     include-in-header: [themes/titfl.tex]
     cap-location: margin
     citation-location: margin
@@ -89,8 +95,7 @@ book:
     - content/how_to_fail.qmd
     - content/saq.qmd
     - content/viva.qmd
-    - part: <hr>
-    - part: "Curriculum"
+    - part: '<span class="sidebar-divider">Curriculum</span>'
       chapters:
         - part: "Research Methods and Statistics"
           chapters: 
@@ -353,8 +358,7 @@ book:
             - content/anatomy/antecubital_fossa.qmd
             - content/anatomy/tracheostomy.qmd
             - content/anatomy/neuraxial.qmd
-    - part: <hr>
-    - part: "Pharmacopoeia"
+    - part: '<span class="sidebar-divider">Pharmacopoeia</span>'
       chapters:
         - part: "Cardiovascular Pharmacology"
           chapters:
