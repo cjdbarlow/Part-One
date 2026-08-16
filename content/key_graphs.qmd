@@ -297,7 +297,7 @@ Below this there is a large increase in ventilation.
 * Hypercapnea leads to a greater minute ventilation for any given PaO~2~
 
 
-[**Isoshunt Diagram:**](resp/shunt.qmd#iso)\
+[**Isoshunt Diagram:**](resp/shunt.qmd#isoshunt)\
 
 ![](/resources/isoshunt.svg){fig-alt="Arterial versus alveolar oxygen partial pressure for several fixed shunt fractions, showing diminishing response to inspired oxygen as shunt increases."}
 
@@ -309,7 +309,7 @@ Below this there is a large increase in ventilation.
 
 ### Carbon Dioxide
 
-[**Carbon Dioxide Dissociation Curve:**](resp/co2_transport.qmd#curve)\
+[**Carbon Dioxide Dissociation Curve:**](resp/co2_transport.qmd#co2-curve)\
 
 
 ![](/resources/co2-dissociation-curve.svg){fig-alt="Near-linear carbon dioxide content versus partial pressure curves for oxygenated and deoxygenated blood, illustrating the Haldane effect."}
@@ -742,7 +742,7 @@ This is due to the funny current.
 * Alteration to autonomic tone alters the slope of the funny-current\
 (Some sources also note a change to maximal diastolic potential, although this is not shown here).
 
-[**Ventricular Action Potential:**](cvs/cardiac_ap.qmd#vent)
+[**Ventricular Action Potential:**](cvs/cardiac_ap.qmd#ventricular-ap)
 
 
 ![](/resources/ventricular-ap.svg){fig-alt="Ventricular myocyte action potential showing phases zero to four and their major sodium, calcium and potassium currents."}
@@ -1098,13 +1098,13 @@ This is given by the dotted blue line.
 * Covered in detail under [Oxygen Tension](equipment/blood_gas.qmd#clarke)
 
 
-[**pH Electrode:**](equipment/blood_gas.qmd#ph)  \
+[**pH Electrode:**](equipment/blood_gas.qmd#ph-measurement)  \
 
 
 ![](/resources/ph-electrode.svg){fig-alt="Glass pH electrode and reference electrode measuring voltage across a hydrogen-ion-sensitive membrane."}
 
 
-* Covered in detail under [pH Measurement](equipment/blood_gas.qmd#ph)
+* Covered in detail under [pH Measurement](equipment/blood_gas.qmd#ph-measurement)
 
 
 [**Severinghaus Electrode:**](equipment/blood_gas.qmd#sever)  \

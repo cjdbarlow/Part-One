@@ -41,7 +41,7 @@ Phase 4 consists of:
 <img src="/resources/pacemaker-shifts.svg">
 
 
-## Ventricular Action Potential {#vent}
+## Ventricular Action Potential {#ventricular-ap}
 
 ::: column-margin
 (Tetanic ventricular contraction would be bad.)

@@ -68,7 +68,7 @@ The Haldane effect states that deoxyHb binds CO~2~ more effectively than oxyHb. 
     * This forms ~70% of the Haldane effect
 
 
-### CO~2~ Dissociation Curve{#curve}
+### CO~2~ Dissociation Curve{#co2-curve}
 
 This curve plots PCO~2~ against blood CO~2~ content in ml.100ml^-1^.
 

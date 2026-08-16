@@ -67,7 +67,7 @@ Requires regular two-point calibration.
 * May read falsely high with halothane
 
 
-## pH Measurement {#ph}
+## pH Measurement {#ph-measurement}
 
 pH is a measure of the hydrogen ion concentration[^1] in solution, and is defined as the negative logarithm to the base 10 of the [H^+^]:
 
