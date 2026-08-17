@@ -60,9 +60,11 @@ format:
     keep-tex: true
     # Theming
     documentclass: scrbook
-    classoption: [twoside, open=any]
+    classoption: [oneside, open=any]
     filters:
       - path: scripts/pdf-media-shortcodes.lua
+        at: pre-ast
+      - path: scripts/pdf-raw-images.lua
         at: pre-ast
       - scripts/pdf-images.lua
       - scripts/boxes.lua

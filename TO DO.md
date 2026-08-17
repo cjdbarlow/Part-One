@@ -11,18 +11,6 @@ quarto::quarto_preview()
 β
 
 # TO DO
-## General
-
-## PDF
-
-* Get images working (svgs broken)
-* Change position of part text
-* Section title to go next to page number
-* Remove page numbers from bottom
-  * Two-side and alternate side
-* Change sidenote font to \tuftefont
-* Fullwidth toc
-  * ? Remove dots?
 
 ## Content
 
@@ -32,7 +20,7 @@ quarto::quarto_preview()
 
 ## Pages to be reviewed and transferred
 
-## Pharmacopoeia
+### Pharmacopoeia
 
 * [Toxicology](ethanol.md#id)
   * [TCA Overdose](tricyclic_antidepressant_overdose.md)

@@ -28,7 +28,7 @@ Covers statistics, physiology, equipment and measurement, and anatomy.
     * Topics covered by the page are listed at the beginning of each page
 
 ::: dual
-A blue block indicates a topic is from the CICM curriculum
+A purple block indicates a topic is from both the ANZCA and CICM curricula
 :::
 
 ::: CICM
