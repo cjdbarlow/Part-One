@@ -1,3 +1,4 @@
+# Global settings
 project:
   type: book
   execute-dir: project
@@ -10,12 +11,16 @@ execute:
   warning: false
   message: false
   output: "asis"
-# Settings for caching to reduce compile times
+## Filters shared by all output formats
+filters:
+  - scripts/html-only-pages.lua
+## Settings for caching to reduce compile times
 #  freeze: auto
 #  cache: true
-
-# Allow subparts in the yaml
+## Allow subparts in the yaml
 validate-yaml: false
+
+
 
 # Settings for output formats
 format:

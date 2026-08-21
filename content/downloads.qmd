@@ -1,6 +1,6 @@
 ::: {.content-hidden unless-format="html"}
 
-# Download Part One
+# Download Part One {.html-only-page}
 
 Part One is also provided with:
 
@@ -13,4 +13,3 @@ Note that:
 
 ***
 :::
-
