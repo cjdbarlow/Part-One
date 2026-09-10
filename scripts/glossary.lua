@@ -41,34 +41,50 @@ local function hasSeparator(text)
   return false
 end
 
-local function findSeparator(text)
-  for i = 1, #text do
-    local s = string.sub(text, i, i)
-    if separators[s] then
-      return s
-    end
-  end
-end
-
 -- Track which terms have been seen in the current section
 local seen_terms = {}
 
 local function separatedList(text)
-  local separator = findSeparator(text)
-  if not separator then return end
   local found
-  local t = {}
-  for abb in string.gmatch(text, "%P+") do
-    if glossary[abb] then
-      found = true
-      seen_terms[abb] = true
-      t[#t+1] = pandoc.Span(abb, {title = glossary[abb], class = "glossary"})
-      t[#t+1] = pandoc.Str(separator)
+  local inlines = {}
+  local segmentStart = 1
+
+  for i = 1, #text do
+    local character = string.sub(text, i, i)
+
+    if separators[character] then
+      local segment = string.sub(text, segmentStart, i - 1)
+
+      if glossary[segment] and not seen_terms[segment] then
+        found = true
+        seen_terms[segment] = true
+        inlines[#inlines + 1] = pandoc.Span(
+          segment,
+          {title = glossary[segment], class = "glossary"}
+        )
+      elseif segment ~= "" then
+        inlines[#inlines + 1] = pandoc.Str(segment)
+      end
+
+      inlines[#inlines + 1] = pandoc.Str(character)
+      segmentStart = i + 1
     end
   end
+
+  local segment = string.sub(text, segmentStart)
+  if glossary[segment] and not seen_terms[segment] then
+    found = true
+    seen_terms[segment] = true
+    inlines[#inlines + 1] = pandoc.Span(
+      segment,
+      {title = glossary[segment], class = "glossary"}
+    )
+  elseif segment ~= "" then
+    inlines[#inlines + 1] = pandoc.Str(segment)
+  end
+
   if found then
-    if #t > 2 then t[#t] = nil end
-    return t
+    return inlines
   end
 end
 
