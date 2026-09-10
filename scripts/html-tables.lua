@@ -1,8 +1,14 @@
--- Wrap each HTML table produced by Quarto in the bootstram .table-responsive class
--- Means wide tables scroll within the page instead of widening the whole layout
+-- Keep every table locally scrollable and allow wide tables to use Quarto's
+-- right-page layout column.
 function Table(table)
   if FORMAT:match("html") then
-    return pandoc.Div({ table }, pandoc.Attr("", { "table-responsive" }))
+    local classes = { "table-responsive" }
+
+    if #table.colspecs >= 4 then
+      classes[#classes + 1] = "column-page-right"
+    end
+
+    return pandoc.Div({ table }, pandoc.Attr("", classes))
   end
 
   return table

@@ -4,18 +4,6 @@
  
 -- require('mobdebug').start()
  
-local function isDrugTable(elem)
-  if #elem.head.rows == 0 or #elem.head.rows[1].cells < 3 then
-    return false
-  end
-
-  local cells = elem.head.rows[1].cells
-
-  return pandoc.utils.stringify(cells[1]) == ""
-    and pandoc.utils.stringify(cells[2]) == ""
-    and pandoc.utils.stringify(cells[3]) ~= ""
-end
-
 local function hasClass(elem, class)
   for _, value in ipairs(elem.classes) do
     if value == class then
@@ -24,6 +12,28 @@ local function hasClass(elem, class)
   end
 
   return false
+end
+
+local function isDrugTable(elem)
+  return hasClass(elem, 'drug-table')
+end
+
+local max_portrait_content_density = 200
+
+local function utf8CodepointLength(text)
+  if utf8 and utf8.len then
+    local length = utf8.len(text)
+
+    if length then
+      return length
+    end
+  end
+
+  return #text
+end
+
+local function tableContentDensity(elem)
+  return utf8CodepointLength(pandoc.utils.stringify(elem)) / #elem.colspecs
 end
 
 local function isLandscapeStart(block)
@@ -36,6 +46,12 @@ local function isLandscapeEnd(block)
   return block.t == 'RawBlock'
     and block.format == 'latex'
     and block.text:match('\\end{landscape}')
+end
+
+local function isExplicitPageBreak(block)
+  return block.t == 'RawBlock'
+    and block.format == 'latex'
+    and block.text:match('\\clearpage')
 end
 
 local function latexInlines(inlines)
@@ -148,12 +164,19 @@ local function tableBlocks(elem, drugTable, landscape)
 end
 
 function Div(elem)
-  if FORMAT:match('latex') and hasClass(elem, 'landscape-table') then
-    return {
-      landscapeStartBlock(),
-      elem,
-      landscapeEndBlock()
-    }
+  if FORMAT:match('latex') then
+    if hasClass(elem, 'landscape-table') then
+      return {
+        landscapeStartBlock(),
+        elem,
+        landscapeEndBlock()
+      }
+    elseif hasClass(elem, 'pdf-page-break-before') then
+      return {
+        pandoc.RawBlock('latex', '\\clearpage'),
+        elem
+      }
+    end
   end
 end
 
@@ -163,9 +186,17 @@ function Blocks(blocks)
   local pendingChapterMark = nil
 
   while i <= #blocks do
+    -- A page-break wrapper follows its source heading in the AST. Move the
+    -- break ahead of the heading so both start together on the fresh page.
+    if blocks[i].t == 'Header'
+      and i < #blocks
+      and isExplicitPageBreak(blocks[i + 1]) then
+      result[#result + 1] = blocks[i + 1]
+      result[#result + 1] = blocks[i]
+      i = i + 2
     -- Landscape environments force a new page. Start the environment before
     -- an immediately preceding heading so the heading is not stranded alone.
-    if blocks[i].t == 'Header'
+    elseif blocks[i].t == 'Header'
       and i < #blocks
       and isLandscapeStart(blocks[i + 1]) then
       result[#result + 1] = blocks[i + 1]
@@ -215,8 +246,13 @@ function Table (elem)
     
     -- Get the number of columns of the table
     num_col = #elem.colspecs
-    -- Get number of rows. Assumes table only has 1 body, which seems to be true in test cases. Excludes header rows.
-    num_rows = #elem.bodies[1].body 
+    -- Get number of rows across all table bodies. Excludes header rows.
+    num_rows = 0
+
+    for _, body in ipairs(elem.bodies) do
+      num_rows = num_rows + #body.body
+    end
+
     num_total = num_col + num_rows
     
     -- Set maximum number of columns that a table can have before...
@@ -241,22 +277,21 @@ function Table (elem)
     
     local drugTable = isDrugTable(elem)
     local forceLandscape = hasClass(elem, 'landscape')
+    local contentDensity = tableContentDensity(elem)
+    local denseWideTable = num_col >= 4
+      and contentDensity > max_portrait_content_density
 
     if drugTable then
       elem = elem:walk({ Str = allowBreaksAtPunctuation })
       elem = elem:walk({ Link = allowBreaksInAutolink })
 
-      if num_col == 3 then
-        elem.colspecs[1][2] = x * 0.22
-        elem.colspecs[2][2] = x * 0.23
-        elem.colspecs[3][2] = x * 0.55
-      else
-        elem.colspecs[1][2] = x * 0.12
-        elem.colspecs[2][2] = x * 0.13
+      -- Pander's inferred widths may sum to less than one, which leaves a
+      -- narrow table despite available page width. Drug tables always use the
+      -- full line: one quarter for row headers and the remainder for drugs.
+      elem.colspecs[1][2] = 0.25
 
-        for i = 3, num_col, 1 do
-          elem.colspecs[i][2] = x * 0.75 / (num_col - 2)
-        end
+      for i = 2, num_col, 1 do
+        elem.colspecs[i][2] = 0.75 / (num_col - 1)
       end
     elseif not hasColumnWidths then
       for i = 1, num_col, 1 do
@@ -285,7 +320,9 @@ function Table (elem)
         end
       end
       
-      if num_col > max_landscape_cols or num_total > max_landscape_all then
+      if num_col > max_landscape_cols
+        or num_total > max_landscape_all
+        or denseWideTable then
         return tableBlocks(elem, drugTable, true)
       else
         -- The book is single-column. Leaving Pandoc's longtable in the normal

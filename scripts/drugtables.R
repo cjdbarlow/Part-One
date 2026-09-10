@@ -28,30 +28,19 @@ formatHeaderLabel = function(str) {
 # This function takes a list of drugs from drugbase, and generates a dataframe with two header columns that can be passed to gt()
 fn.flattenDataframe = function(data_list) {
     result = list()
+
+    sectionNames = unique(unlist(lapply(data_list, names)))
+    sectionNames = setdiff(sectionNames, "references")
     
     # Collect all unique header1 and header2 combinations across all drugs
     all_combinations = expand.grid(
-        header1 = unique(unlist(lapply(data_list, names))),
+        header1 = sectionNames,
         header2 = character(0),
         stringsAsFactors = FALSE
     )
     
     # Gather all unique header2 values within each header1
-    for (section in unique(unlist(lapply(data_list, names)))) {
-        if (section == "references") {
-            referenceCount = max(purrr::map_int(data_list, ~ length(.x[[section]])))
-
-            all_combinations = dplyr::bind_rows(
-                all_combinations,
-                tibble::tibble(
-                    header1 = section,
-                    header2 = as.character(seq_len(referenceCount))
-                )
-            )
-
-            next
-        }
-
+    for (section in sectionNames) {
         subsections = unique(unlist(lapply(data_list, function(drug_data) {
             if (!is.null(drug_data[[section]])) {
                 return(names(drug_data[[section]]))
@@ -71,13 +60,6 @@ fn.flattenDataframe = function(data_list) {
         }
     }
 
-    # References must remain the final table section when later drugs contain
-    # fields that are absent from the first drug.
-    all_combinations = dplyr::bind_rows(
-        dplyr::filter(all_combinations, header1 != "references"),
-        dplyr::filter(all_combinations, header1 == "references")
-    )
-    
     # Iterate over each drug in the order they appear in data_list and populate the result list
     for (drug in names(data_list)) {
         drug_data = data_list[[drug]]
@@ -87,15 +69,7 @@ fn.flattenDataframe = function(data_list) {
             subsection = all_combinations$header2[i]
             
             if (!is.null(drug_data[[section]])) {
-                if (section == "references") {
-                    referenceNumber = as.integer(subsection)
-                    content = drug_data[[section]][referenceNumber]
-                    content = stringr::str_replace_all(
-                        content,
-                        "(https?://[^[:space:]<>]+?)([.,;:]?)(?=[[:space:]]|$)",
-                        "<\\1>\\2"
-                    )
-                } else if (subsection == section && !is.list(drug_data[[section]])) {
+                if (subsection == section && !is.list(drug_data[[section]])) {
                     # Single level: put the section content in header2
                     content = paste(drug_data[[section]], collapse = "\\\ \n\n ")
                 } else if (!is.null(drug_data[[section]][[subsection]])) {
@@ -228,5 +202,21 @@ DrugTable = function(..., caption = NULL, db = drugbase) {
     selectedDrugsDF = fn.flattenDataframe(selectedDrugsList)
     
     # Make a table
+    cat("\n::: {.drug-table-source}\n\n")
     fn.pandocGridTable(selectedDrugsDF, caption = caption)
+    cat("\n:::\n")
+
+    drugReferences = selectedDrugsList |>
+        purrr::map("references") |>
+        unlist(use.names = FALSE) |>
+        stringr::str_replace_all(
+            "(https?://[^[:space:]<>]+?)([.,;:]?)(?=[[:space:]]|$)",
+            "<\\1>\\2"
+        )
+
+    if (length(drugReferences) > 0) {
+        cat("\n::: {.drug-references}\n\n")
+        purrr::walk(drugReferences, ~ cat("- ", .x, "\n", sep = ""))
+        cat("\n:::\n")
+    }
 }
