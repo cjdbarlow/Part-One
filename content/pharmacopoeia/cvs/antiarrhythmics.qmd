@@ -1,10 +1,12 @@
 # Antiarrhythmics
 
-> Understand the pharmacology of antiarrhythmic drugs
+:::dual
+Understand the pharmacology of antiarrhythmic drugs
+:::
 
 Antiarrhythmic drugs are typically classified using the **Vaughan Williams** classification system, which divides drugs into four classes based on their effect on the cardiac action potential. Many drugs will act via multiple mechanisms.
 
-* **Class I**: Block voltage-gated Na^^ channels
+* **Class I**: Block voltage-gated Na^+^ channels
     * Class Ia: Intermediate dissociation
     * Class Ib: Fast dissociation
     * Class Ic: Slow dissociation
@@ -14,7 +16,7 @@ Antiarrhythmic drugs are typically classified using the **Vaughan Williams** cla
 
 This classification is notably incomplete, as some drugs (such as amiodarone) fit into multiple categories, and others (such as digoxin, adenosine, and magnesium) fit into none.
 
-<img src="/resources/ventricular-ap.svg">
+![](/resources/ventricular-ap.svg){fig-alt="Ventricular myocyte action potential showing phases zero to four and their major sodium, calcium and potassium currents."}
 
 
 ## Class I
@@ -32,7 +34,7 @@ This classification is notably incomplete, as some drugs (such as amiodarone) fi
 
 **Pro-arrhythmic effects** may result because AV nodal conduction may be increased, so despite decreased atrial activity increased ventricular conductance results in a potentially fatal shortening of diastolic time
 
-<img src="/resources/ventricular-ap-Ia.svg">
+![](/resources/ventricular-ap-Ia.svg){fig-alt="Ventricular action potential under class Ia sodium-channel blockade, showing slower phase zero depolarisation and prolonged action-potential duration."}
 
 ### Class Ib{#ib}
 
@@ -42,7 +44,7 @@ This classification is notably incomplete, as some drugs (such as amiodarone) fi
 * As they have **little effect on normal cardiac tissue** they have **little effect on the ECG**
 * Examples of class Ib agents include include **phenytoin** and **lignocaine**
 
-<img src="/resources/ventricular-ap-Ib.svg">
+![](/resources/ventricular-ap-Ib.svg){fig-alt="Ventricular action potential under class Ib sodium-channel blockade, showing slower phase zero depolarisation and shortened action-potential duration."}
 
 ### Class Ic{#ic}
 
@@ -52,7 +54,7 @@ This classification is notably incomplete, as some drugs (such as amiodarone) fi
 * As they markedly slow conduction velocity they **increase QRS duration**
 * Examples of Class Ic agents include **flecainide**
 
-<img src="/resources/ventricular-ap-Ic.svg">
+![](/resources/ventricular-ap-Ic.svg){fig-alt="Ventricular action potential under class Ic sodium-channel blockade, showing markedly slower phase zero depolarisation with little change in duration."}
 
 
 ## Class II{#ii}
@@ -63,11 +65,11 @@ Normal β-adrenergic stimulation has a number of pro-arrhythmic effects:
 * Increased slow-inward Ca^2+^ current
 * Increased repolarising K^+^ and Cl^-^ currents
 * Increased Ca^2+^ stored in the sarcoplasmic reticulum, which may be spontaneously released causing a delayed-after-depolarisations
-* Reduced serum [K^+^]*
+* Reduced serum [K^+^]
 
 β-blockers have an antiarrhythmic effect by antagonising these mechanisms. They are useful for treatment of arrhythmias occurring with sympathetic over-activation, such as post MI.
 
-<img src="/resources/pacemaker-betablock.svg">
+![](/resources/pacemaker-betablock.svg){fig-alt="Pacemaker action potential under beta blockade, showing a shallower phase 4 slope and slower time to threshold."}
 
 
 ## Class III{#iii}
@@ -79,7 +81,7 @@ Blocking of outward K^+^ channels slows cardiac repolarisation, which increases 
 * Reduced defibrillation energy requirement
 * Increased inotropy
 
-<img src="/resources/ventricular-ap-III.svg">
+![](/resources/ventricular-ap-III.svg){fig-alt="Ventricular action potential under class III potassium-channel blockade, showing prolonged phase 3 repolarisation and refractory period."}
 
 Due to the prolonged repolarisation, they will also cause a **long QT** (though in the case of amiodarone this is not associated with an increased risk of TPD).
 
@@ -93,7 +95,7 @@ AV blockade slows transmission of supra-ventricular arrhythmias.
 * Prevents after-depolarisations\
 This suppresses ectopy by reducing calcium leak from sarcoplasmic reticulum.
 
-<img src="/resources/pacemaker-cablock.svg">
+![](/resources/pacemaker-cablock.svg){fig-alt="Pacemaker action potential under calcium-channel blockade, showing reduced phase 4 and phase zero slopes and slower time to threshold."}
 
 
 ## Alternatives to Vaughan Williams
@@ -107,7 +109,8 @@ As the Vaughan Williams classification system does not neatly divide agents, and
 |SVT/VT|Amiodarone, flecainide procainamide, sotalol|
 |Digoxin toxicity|Phenytoin|
 
----
+***
+
 ## References
 
 1. Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.

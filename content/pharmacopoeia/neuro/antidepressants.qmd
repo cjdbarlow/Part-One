@@ -54,24 +54,55 @@ Mechanism of action by multiple effects, including:
       * Include:
         * Selegiline
   * Discontinuation syndrome may occur if abruptly ceased
-    \
 
-|Property|Tricyclic Antidepressants|Selective Serotonin Reuptake Inhibitors|Monoamine Oxidase Inhibitors
-|--|--|
-|**Example**|Amitriptyline|Fluoxetine|
-|**Uses**|Depression, treatment of chronic pain and trigeminal neuralgia|Depression, anxiety|Treatment resistant depression. Now largely superseded due to side-effect profile
-|**Absorption**|High PO bioavailability|High PO bioavailability
-|**Distribution**|Highly lipid soluble with High V~D~. Very highly protein bound - leads to interactions with warfarin, digoxin, and aspirin|Highly protein bound, high V~D~
-|**Metabolism**|Hepatic with active metabolites. Large interpatient variability|Hepatic with non-linear kinetics <br><br>Venlafaxine does not affect CYP450 enzymes.
-|**Elimination**||Unaffected by renal impairment
-|**Resp**|Dry mouth
-|**CVS**|Postural hypotension, ↑ HR.<br>QT prolongation and widening QRS in overdose, with arrhythmia more likely when QRS exceeds 0.16s.|Less cardiotoxic than TCAs, may precipitate serotonin syndrome
-|**CNS**|Sedation, blurred vision, lowered seizure threshold. Excitation, followed by seizures and depression in overdose.|Identical antidepressant effect to TCAs. Less sedation
-|**Renal**|Urinary retention||
-|**GU**|Sexual dysfunction|Greater incidence of sexual dysfunction compared with TCAs
-|**GIT**|Constipation|Greater incidence of N/V compared with TCAs
-|**Other**|Multiple complex drug interactions, including arrhythmias and variable BP with sympathomimetics, central anticholinergic syndrome, serotonin syndrome, and seizures. <br><br>↑ Sensitivity to catecholamines - suggest avoiding:<br>-Indirectly acting sympathomimetics<br>-Ketamine<br>-Surgical stress|Continue during perioperative period to avoid risk of discontinuation syndrome.
+::: {.landscape-table}
 
++------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------+------------------------------------------------+
+| Property               | Tricyclic Antidepressants                                                | Selective Serotonin Reuptake Inhibitors                                  | Monoamine Oxidase Inhibitors                   |
++========================+==========================================================================+==========================================================================+================================================+
+| **Example**            | Amitriptyline                                                            | Fluoxetine                                                               |                                                |
++------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------+------------------------------------------------+
+| **Uses**               | Depression, treatment of chronic pain and trigeminal neuralgia           | Depression, anxiety                                                      | Treatment resistant depression. Now largely    |
+|                        |                                                                          |                                                                          | superseded due to side-effect profile          |
++------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------+------------------------------------------------+
+| **Absorption**         | High PO bioavailability                                                  | High PO bioavailability                                                  |                                                |
++------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------+------------------------------------------------+
+| **Distribution**       | Highly lipid soluble with High V~D~. Very highly protein bound - leads   | Highly protein bound, high V~D~                                          |                                                |
+|                        | to interactions with warfarin, digoxin, and aspirin                      |                                                                          |                                                |
++------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------+------------------------------------------------+
+| **Metabolism**         | Hepatic with active metabolites. Large interpatient variability          | Hepatic with non-linear kinetics                                         |                                                |
+|                        |                                                                          |                                                                          |                                                |
+|                        |                                                                          | Venlafaxine does not affect CYP450 enzymes.                              |                                                |
++------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------+------------------------------------------------+
+| **Elimination**        |                                                                          | Unaffected by renal impairment                                           |                                                |
++------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------+------------------------------------------------+
+| **Resp**               | Dry mouth                                                                |                                                                          |                                                |
++------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------+------------------------------------------------+
+| **CVS**                | Postural hypotension, ↑ HR.\                                             | Less cardiotoxic than TCAs, may precipitate serotonin syndrome           |                                                |
+|                        | QT prolongation and widening QRS in overdose, with arrhythmia more       |                                                                          |                                                |
+|                        | likely when QRS exceeds 0.16s.                                           |                                                                          |                                                |
++------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------+------------------------------------------------+
+| **CNS**                | Sedation, blurred vision, lowered seizure threshold. Excitation,         | Identical antidepressant effect to TCAs. Less sedation                   |                                                |
+|                        | followed by seizures and depression in overdose.                         |                                                                          |                                                |
++------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------+------------------------------------------------+
+| **Renal**              | Urinary retention                                                        |                                                                          |                                                |
++------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------+------------------------------------------------+
+| **GU**                 | Sexual dysfunction                                                       | Greater incidence of sexual dysfunction compared with TCAs               |                                                |
++------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------+------------------------------------------------+
+| **GIT**                | Constipation                                                             | Greater incidence of N/V compared with TCAs                              |                                                |
++------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------+------------------------------------------------+
+| **Other**              | Multiple complex drug interactions, including arrhythmias and variable   | Continue during perioperative period to avoid risk of discontinuation    |                                                |
+|                        | BP with sympathomimetics, central anticholinergic syndrome, serotonin    | syndrome.                                                                |                                                |
+|                        | syndrome, and seizures.                                                  |                                                                          |                                                |
+|                        |                                                                          |                                                                          |                                                |
+|                        | ↑ Sensitivity to catecholamines - suggest avoiding:                      |                                                                          |                                                |
+|                        |                                                                          |                                                                          |                                                |
+|                        | - Indirectly acting sympathomimetics                                     |                                                                          |                                                |
+|                        | - Ketamine                                                               |                                                                          |                                                |
+|                        | - Surgical stress                                                        |                                                                          |                                                |
++------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------+------------------------------------------------+
+
+:::
 
 
 ## Serotonin Syndrome
@@ -91,7 +122,8 @@ Serotonin syndrome is excessive serotonin in the CNS, typically as a consequence
 
 Serotonin syndrome is typically self-limiting and resolves with cessation of the drug.
 
----
+***
+
 ## References
 
 1. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.

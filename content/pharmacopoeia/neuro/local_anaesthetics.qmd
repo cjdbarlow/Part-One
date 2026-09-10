@@ -5,7 +5,7 @@
 * **Unionised** drug **passes through the cell membrane**, and then becomes **ionised intracellularly**
 * The ionised drug is then able to bind to the ion channel, and prevent conduction of sodium and therefore generation of an action potential
 
-<img src="/resources/ap-with-la.svg">
+![](/resources/ap-with-la.svg){fig-alt="Membrane potential over time showing a normal action potential, threshold potential and the response with local anaesthetic." width=100%}
 
 
 * All local anaesthetics consist of:
@@ -33,25 +33,16 @@
 
 ## Comparison of Local Anaesthetics
 
-|Property|Lignocaine|Bupivacaine|Ropivacaine|Cocaine
-|--|--|
-|**Class**|Amide|Amide|Amide|Ester
-|**Uses**|Local/regional/epidural, ventricular dysrhythmia|Local/regional/epidural|Local/regional/epidural|Topical anaesthesia and vasoconstriction
-|**Presentation**| Clear, colourless solution at 0.5/1/2% with or without adrenaline. Spray. Ointment. 4% solution.|Clear, colourless solution at 0.25/0.5%|Clear, colourless solution|1-4% solution, Moffat's solution (8% cocaine, 1% NaCO~3~, 1:2 000 adrenaline)
-|**pKa**|7.9|8.1|8.1|8.6
-|**Route of Administration**|SC, epidural, IV|SC, epidural|SC, epidural|Topical
-|**Onset/Duration**|Rapid onset, short duration|Intermediate onset, long duration|Intermediate onset, long duration|20-30 minutes
-|**Maximum Dose**|Analgesia: 4mg.kg^-1^ without adrenaline, 7mg.kg^-1^ with adrenaline|2mg.kg^-1^|3mg.kg^-1^|3mg.kg^-1^
-|**Distribution**|70% protein bound|Highly protein bound|Lower lipid solubility reduces motor block compared to bupivacaine|Highly protein bound
-|**Metabolism**|Hepatic with some active metabolites|Hepatic to inactive metabolites|Hepatic to active metabolites|Plasma esterases, some hepatic metabolism (unlike other esters)
-|**Elimination**|Reduced in hepatic or cardiac failure|||Elimination of active drug and inactive metabolites
-|**CC/CNS ratio**|7|3|5|||
-|**Other**||Most toxic of LA agents as it takes longer to dissociate from the myocardial Na^+^ channel. **Levobupivacaine** is less cardiotoxic the racemic mixture, possibly as it has more intrinsic vasoconstrictive properties.||May cause ↑ BP, ↑ HR, coronary vasoconstriction, myocardial depression, VF, ↑ temperature due to ↑ serotonin, dopamine, and noradrenaline reuptake
+```{r}
+source("scripts/drugtables.R")
+
+DrugTable("lignocaine", "bupivacaine", "ropivacaine", "cocaine")
+```
 
 ### Lignocaine Toxicity
 
 |Serum concentration (µg.ml^-1^)|Phase|Effect|
-|--|--|
+|--|--|--|
 |2|Safe|Antiarrhythmic. May begin to have lightheadedness, circumoral tingling, numbness|
 |5|Excitatory|Dysarthria|
 |8|Excitatory|Visual changes|
@@ -71,7 +62,6 @@ Effect of topical local anaesthetics is governed by **Fick's Law**.
 |**Pharmaceutic Factors**||
 |Presentation|Aerosol improves speed of onset by moisturising skin
 |Concentration of active component| Increase speed of onset
-|Stability|
 |pH|  ↑ pH ensures more local anaesthetic is in the unionised form, ↑ absorption.
 |Additives| Affect pH and vasoconstrictor activity
 |**Drug Factors**||
@@ -85,7 +75,8 @@ Effect of topical local anaesthetics is governed by **Fick's Law**.
 |Skin|Skin thickness and area will affect onset
 
 
----
+***
+
 ## References
 
 1. CICM March/May 2009

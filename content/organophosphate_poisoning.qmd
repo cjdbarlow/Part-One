@@ -34,7 +34,8 @@ Reactivates acetylcholinesterase by luring the organophosphate away from the enz
     * Does not cross the blood-brain barrier and so cannot treat central effects
 
 
----
+***
+
 ## References
 
 1. CICM March/May 2009

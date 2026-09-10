@@ -10,18 +10,11 @@ Mg^2+^ is a cation that is important for neurotransmission and neuromuscular exc
     * DNA
     * RNA
 
-|Property|Action|
-|--|--|
-|**Uses**|HypoMg, arrhythmia, eclampsia, tocolysis, barium poisoning, asthma, tetanus, autonomic hyperreflexia|
-|**Presentation**| 2mmol.ml^-1^, made up into 10mmol in 100ml for peripheral administration|
-|**Route of Administration**|PO/IV|
-|**Dosing**|IV: 10-20 mmol|
-|**Distribution**| 30% protein bound|
-|**Elimination**|Significant urinary excretion, even when deficient|
-|**Resp**|Bronchodilation
-|**CVS**|↓ SVR, hypotension, ↓HR
-|**CNS**|CNS depression, anticonvulsant|
-|**GU**|↓ Uterine tone and contractility|
+```{r}
+source("scripts/drugtables.R")
+
+DrugTable("magnesium_sulfate")
+```
 
 ## Clinical Effects of Magnesium
 
@@ -32,7 +25,8 @@ Mg^2+^ is a cation that is important for neurotransmission and neuromuscular exc
 |6-10 mmol.L^-1^|Weakness, respiratory depression, bradycardia|
 |> 10 mmol.L^-1^|Cardiac arrest|
 
----
+***
+
 ## References
 
 1. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

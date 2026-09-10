@@ -44,7 +44,7 @@ All opioid receptors are Gi receptors. Activation:
         * Leads to membrane hyperpolarisation
 
 |Receptor|Actions|Notable Properties
-|--|--|
+|--|--|--|
 |MOP|Analgesia (spinal and brain), euphoria, meiosis (via stimulation of the Edinger-Westphal nucleus), nausea and vomiting (via CTZ), sedation, bradycardia, inhibition of gut motility, urinary retention, physical dependence|Only opioid receptor to cause nausea/vomiting
 |KOP|Analgesia (predominantly spinal), sedation, meiosis, dysphoria|Less respiratory depression
 |DOP|Analgesia, respiratory depression, urinary retention, physical dependence|Minimal constipation
@@ -59,7 +59,7 @@ Stimulation of opioid receptors in the gut.
     * Normally activated by local endogenous opioids (used as neurotransmitters)
     * Agonism of these receptors (µ, k, and to a smaller extent, δ) reduces GIT secretions and peristalsis
 
----
+***
 
 ## References
 

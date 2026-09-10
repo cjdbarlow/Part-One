@@ -1,8 +1,11 @@
 # Inotropes
 
->Understand the detailed pharmacology of inotropes ~~and vasopressors~~
+:::dual
+Understand the detailed pharmacology of inotropes ~~and vasopressors~~
+:::
 
 Inotropes are agents which alter myocardial contractility.
+
 * Positive inotropes increase contractility
 * Negative inotropes decrease contractility
 
@@ -15,7 +18,8 @@ Inotropes are agents which alter myocardial contractility.
 |**General Mechanism of Action**|Increase intracellular Ca^2+^ by a variety of different pathways|Increase sensitivity of actomyosin to Ca^2+^|Variable. T3 potentiates the effect (or increases expression of) cardiac β~1~ receptors|
 
 
----
+***
+
 ## References
 
 1. Leslie RA, Johnson EK, Goodwin APL. Dr Podcast Scripts for the Primary FRCA. Cambridge University Press. 2011.

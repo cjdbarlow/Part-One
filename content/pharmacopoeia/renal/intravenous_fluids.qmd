@@ -37,12 +37,11 @@ Substance evenly dispersed throughout another solution in which it is insoluble.
             * Risk of anaphylaxis
             * Risk of renal impairment
             * Accumulate in the reticuloendothelial system
-          \
 
 ## Comparison of Crystalloids
 
 |Contents (mmol.L^-1^)|0.9% NaCl|Hartmann's|Plasmalyte|
-|--|--|
+|--|--|--|--|
 |Na^+^|154|130|140
 |Cl^-^|154|109|98|
 |K^+^||4|5|
@@ -54,7 +53,8 @@ Substance evenly dispersed throughout another solution in which it is insoluble.
 |pH|5.0|6.5|5.5
 
 
----
+***
+
 ## References
 
 http://www.anaesthesiamcq.com/FluidBook/fl7_2.php

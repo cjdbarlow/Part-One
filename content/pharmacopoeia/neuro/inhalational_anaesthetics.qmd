@@ -1,0 +1,105 @@
+# Inhalational Anaesthetic Agents
+
+
+:::dual
+Describe the effects of inhalational agents on the cardiovascular, respiratory and central nervous systems
+:::
+
+:::dual
+Describe the toxicity of inhalational agents
+:::
+
+:::dual
+Describe the comparative pharmacology of ~~nitrous oxide~~, halothane, enflurane, isoflurane, desflurane, sevoflurane, xenon and ether
+:::
+
+*This section covers features and structures of inhalational anaesthetics. Structure-activity relationships are covered under [inhalational anaesthetics](inhalational_anaesthetic_agents.qmd#sa).*
+
+## Common Features of Inhalational Agents
+
+
++--------------------------------------+-----------------------------------------------------------------------------------------------------------+
+| Property                             | Action                                                                                                    |
++======================================+===========================================================================================================+
+| **Metabolism**                       | Hepatic CYP450 (CYP2E1) metabolises C-halogen bonds to release halogen ions (F^-^, Cl^-^, Br^-^), which   |
+|                                      | can be nephrotoxic and hepatotoxic. The C-F bond is minimally metabolised compared to the C-Cl, C-Br, and |
+|                                      | C-I bonds. All agents undergo hepatic oxidation, except for halothane which is reduced.                   |
++--------------------------------------+-----------------------------------------------------------------------------------------------------------+
+| **Resp**                             | All halogenated agents ↓ V~T~ and ↑ RR, with an overall ↓ in MV and therefore cause PaCO~2~ to ↑; and ↓   |
+|                                      | sensitivity of central respiratory centres to CO~2~. Impairment of HPV may worsen V/Q matching and ↑      |
+|                                      | shunt. ![Effect of volatile anaesthetics on the ventilatory response to                                   |
+|                                      | hypoxia](/resources/volatile-po2-response.svg){width=55%}                                                 |
++--------------------------------------+-----------------------------------------------------------------------------------------------------------+
+| **CVS**                              | ↓ MAP (predominantly by ↓ in SVR due to NO release and Ca^2+^ channel blockade), ↓ inotropy due to Ca^2+^ |
+|                                      | channel blockade.                                                                                         |
++--------------------------------------+-----------------------------------------------------------------------------------------------------------+
+| **CNS**                              | Hypnosis. ↓ CMRO~2~. Above 1 MAC there is **uncoupling** of the CBF-CMRO~2~ relationship, and CBF ↑       |
+|                                      | despite ↓ CMRO~2~ due to cerebral vasodilation. ICP may mirror CBF changes.                               |
+|                                      |                                                                                                           |
+|                                      | All except halothane have some analgesic effect. ↓ EEG frequency such that θ- and δ-wave dominate the EEG |
+|                                      | as depth ↑. May cause burst suppression. ![Effect of volatile anaesthetics on cerebral blood flow and     |
+|                                      | metabolic rate](/resources/cbf-cmro2-volatile.svg){width=47%} ![Effect of sevoflurane concentration on    |
+|                                      | cerebral blood flow and metabolic rate](/resources/cbf-cmro2-sevo.svg){width=47%}                         |
++--------------------------------------+-----------------------------------------------------------------------------------------------------------+
+| **MSK**                              | Muscle relaxation via blockade of Ca^2+^ channels. Additional augmentation of the effects of NMBD due to  |
+|                                      | skeletal muscle vasodilation. May precipitate MH.                                                         |
++--------------------------------------+-----------------------------------------------------------------------------------------------------------+
+| **Renal**                            | Dose dependent ↓ in RBF, GFR, and UO secondary to ↓ in MAP and CO.                                        |
+|                                      |                                                                                                           |
+|                                      | Fluorinated ethers produce F^-^ ions when hepatically metabolised, which may produce high-output renal    |
+|                                      | failure at serum concentrations **>50μmol/L**. This is probably only a concern with methoxyflurane (as it |
+|                                      | has significant (>70%) hepatic metabolism) when used at anaesthetic doses.                                |
++--------------------------------------+-----------------------------------------------------------------------------------------------------------+
+| **GIT**                              | ↓ Hepatic blood flow.                                                                                     |
++--------------------------------------+-----------------------------------------------------------------------------------------------------------+
+| **GU**                               | Tocolysis.                                                                                                |
++--------------------------------------+-----------------------------------------------------------------------------------------------------------+
+| **Toxic Effects**                    | Decreased fertility and increased risk of spontaneous abortion in operating theatre personnel.            |
++--------------------------------------+-----------------------------------------------------------------------------------------------------------+
+
+
+## Comparison of Common Inhalational Agents
+
+```{r}
+source("scripts/drugtables.R")
+
+DrugTable("sevoflurane", "isoflurane", "desflurane")
+```
+
+Sevoflurane:
+
+![](/resources/sevoflurane-1.svg){fig-alt="Sevoflurane molecular structure." width=15pc}
+
+Isoflurane:
+
+![](/resources/isoflurane-2.svg){fig-alt="Isoflurane molecular structure." width=15pc}
+
+Desflurane:
+
+![](/resources/desflurane2.svg){fig-alt="Desflurane molecular structure." width=15pc}
+
+![](/resources/desflurane-washout.svg){fig-alt="Time to a 90% decrease in sevoflurane or desflurane concentration plotted against duration of anaesthesia." width=100%}
+
+
+## Comparison of Uncommon Inhalational Agents
+
+```{r}
+DrugTable("enflurane", "halothane", "xenon")
+```
+
+Enflurane:
+
+![](/resources/enflurane.svg){fig-alt="Enflurane molecular structure." width=15pc}
+
+***
+
+## References
+
+1. Khan KS, Hayes I, Buggy DJ. [Pharmacology of anaesthetic agents II: inhalation anaesthetic agents](https://academic.oup.com/bjaed/article/14/3/106/340726/Pharmacology-of-anaesthetic-agents-II-inhalation). Continuing Education in Anaesthesia Critical Care & Pain, Volume 14, Issue 3, 1 June 2014, Pages 106–111.
+2. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.\
+3. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+4. Miller RD, Eriksson LI, Fleisher LA, Weiner-Kronish JP, Cohen NH, Young WL. Miller's Anaesthesia. 8th Ed (Revised). Elsevier Health Sciences.
+Peck and Hill
+5. Leslie RA, Johnson EK, Goodwin APL. Dr Podcast Scripts for the Primary FRCA. Cambridge University Press. 2011.
+6. Law LS, Lo EA, Gan TJ. [Xenon Anesthesia: A Systematic Review and Meta-Analysis
+of Randomized Controlled Trials](https://www.ncbi.nlm.nih.gov/pubmed/26273750). Anesth Analg. 2016 Mar;122(3):678-97.

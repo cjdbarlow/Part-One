@@ -33,29 +33,14 @@ DrugTable("adrenaline", "noradrenaline" , "dopamine")
 ## Comparison of Synthetic Adrenergic Vasoactives
 
 
-|**Properties**|**Dobutamine**|**Isoprenaline**|**Ephedrine**|**Metaraminol**|**Phenylephrine**|
-|---|---|---|---|---|---|
-|**Uses**|Stress testing, increasing CO|Severe bradycardia|↑ SVR without ↓ in HR|↑ SVR|↑ SVR|
-|**Dosing**|5-15µg/kg/min|Infusion from 0.5-10µg/min|3-6mg bolus|Bolus 0.5-2mg|Bolus start at 50-100mcg|
-|**Route**|IV|IV|IV|IV|IV/IM/SC|
-|**Presentation**|Racemic mixture of 250mg dobutamine in 20ml water|Clear solution at 1mg/ml|Clear, colourless solution in 30mg/ml ampoule|Clear, colourless solution in ampoule at 10mg/ml, typically reconstituted to 0.5mg/ml|Clear, colourless solution at 100mcg/ml|
-|**Absorption**|IV|IV|IV or IM|IV|IV|
-|**Metabolism**|t~1/2~ 2-5 min. COMT to inactive metabolites.|Hepatic by COMT|Hepatic (not metabolised by MAO and COMT), giving a longer (10-60 minute) duration of action and a t~1/2~β of 3-6 hours|Some uptake into adrenergic nerve endings|Hepatic by MAO|
-|**Elimination**|Urinary excretion of unchanged drug and metabolites|50% unchanged in urine|Renal of metabolites, t~1/2~β 2-3 hours||
-|**Mechanism of action**|β~1~>>β~2~, D~2~|β1>β2|↑ NA release (indirect α~1~) and direct α and β agonism|Direct and indirect (via ↑ NA release) α~1~ agonism|Direct α~1~|
-|**Respiratory**|Bronchodilation|Potent bronchodilation|Bronchodilation|||
-|**CVS**|↑ HR, CO, contractility, and automaticity. Β~2~ effects may ↓ SVR and BP, particularly if  ↓ preload.|↑ HR and ↑ CO, modest ↑ inotropy. ↓ SVR due to β~2~ effects but BP usually unchanged due to ↑ CO.|Direct and indirect (via NA release) ↑ in HR, BP, and CO. Arrhythmogenic.|↑ SVR/PVR, reflex bradycardia. Indirect ↑ in coronary flow.|↑ SVR and BP, potential reflex bradycardia. Not arrhythmogenic.|
-|**CNS**|Tremor||↑ MAC, mydriasis.||
-|**MSK**||||||
-|**Renal**|↑ RBF and ↑ urinary output with no improvement in renal function||↓ RBF|↓ RBF|↓ RBF|
-|**Metabolic**||||||
-|**GU**||||↓ Uterine blood flow|↓ Uterine blood flow|
-|**GIT**|||||||
+```{r}
+DrugTable("dobutamine", "isoprenaline", "ephedrine", "metaraminol", "phenylephrine")
+```
 
 
 ## Structure-Activity Relationships of Sympathomimetics
 
-<img src="/resources/dopamine.svg">
+![](/resources/dopamine.svg){fig-alt="Chemical structure of dopamine, labelling the catechol ring, hydroxyl groups, ethylamine side chain, and alpha and beta carbons."}
 
 Catecholamines consist of:
 
@@ -84,7 +69,7 @@ Consists of:
 
 ### Dopamine
 
-<img src="/resources/dopamine.svg">
+![](/resources/dopamine.svg){fig-alt="Chemical structure of dopamine, labelling the catechol ring, hydroxyl groups, ethylamine side chain, and alpha and beta carbons."}
 
 * Dopamine is the prototypical catecholamine, to which others are compared
 
@@ -92,14 +77,14 @@ Consists of:
 ### Noradrenaline
 
 
-<img src="/resources/noradrenaline.svg">
+![](/resources/noradrenaline.svg){fig-alt="Chemical structure of noradrenaline, showing the hydroxyl group on the beta carbon in addition to the catechol hydroxyl groups."}
 
 * Noradrenaline has a hydroxyl group added to the beta carbon, increasing its alpha selectivity
 
 
 ### Adrenaline
 
-<img src="/resources/adrenaline.svg">
+![](/resources/adrenaline.svg){fig-alt="Chemical structure of adrenaline, showing the catechol hydroxyl groups, beta-carbon hydroxyl group and methyl group on the amine."}
 
 * Adrenaline is similar to noradrenaline with an additional hydroxyl group on the beta carbon
 * Adrenaline also has a methyl group added to the terminal amine, increasing beta selectivity
@@ -107,7 +92,7 @@ Consists of:
 
 ### Metaraminol
 
-<img src="/resources/metaraminol.svg">
+![](/resources/metaraminol.svg){fig-alt="Chemical structure of metaraminol, showing one hydroxyl group on the phenol ring, a beta-carbon hydroxyl group and an alpha-carbon methyl group."}
 
 * Metaraminol has an additional hydroxyl group on the beta carbon
 * Metaraminol has only one hydroxyl group on the phenol ring, so:
@@ -117,16 +102,16 @@ Consists of:
 * Metaraminol has an additional methyl group on the alpha carbon, preventing metabolism by MAO and further prolonging its duration of action
 
 
-## Ephedrine
+### Ephedrine
 
-<img src="/resources/ephedrine.svg">
+![](/resources/ephedrine.svg){fig-alt="Chemical structure of ephedrine, showing no hydroxyl groups on the benzene ring, a beta-carbon hydroxyl group and methyl groups on the alpha carbon and amine."}
 
 * Like metaraminol, ephedrine has a hydroxyl group on the beta carbon and a methyl group on the alpha carbon
 * Ephedrine has no hydroxyl groups on the phenol ring, further reducing its potency and increasing its elimination half-life
 * Ephedrine has a methyl group on the amine, increasing its beta selectivity
 
 
----
+***
 
 ## References
 

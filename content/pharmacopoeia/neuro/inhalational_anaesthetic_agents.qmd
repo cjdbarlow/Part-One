@@ -1,23 +1,29 @@
 # Inhalational Anaesthetics
 
 
-> <p style="color:purple";>Structure-activity relationships of inhalational agents</p>
+:::dual
+Structure-activity relationships of inhalational agents
+:::
 
-<!--></!-->
+:::dual
+Describe the uptake, distribution and elimination of inhalational anaesthetic agents and the factors which influence induction and recovery from inhalational anaesthesia including the:
 
-> <p style="color:purple";>Describe the uptake, distribution and elimination of inhalational anaesthetic agents and the factors which influence induction and recovery from inhalational anaesthesia including the: <br>- Concepts of partition coefficients, concentration effect and second gas effect<br>- Relationships between inhaled and alveolar concentration<br>- Significance of the distribution of cardiac output and tissue partition coefficients on uptake and distribution of volatile agents</p>
+- Concepts of partition coefficients, concentration effect and second gas effect
+- Relationships between inhaled and alveolar concentration
+- Significance of the distribution of cardiac output and tissue partition coefficients on uptake and distribution of volatile agents
+:::
 
- <!--></!-->
+:::dual
+Describe the concept and clinical application of MAC in relation to inhaled anaesthetic agents
+:::
 
-> <p style="color:purple";>Describe the concept and clinical application of MAC in relation to inhaled anaesthetic agents</p>
+:::dual
+Describe how the pharmacokinetics of drugs commonly used in anaesthesia in neonates and children differ from adults and the implications for anaesthesia
+:::
 
-<!--></!-->
-
-> <p style="color:purple";>Describe how the pharmacokinetics of drugs commonly used in anaesthesia in neonates and children differ from adults and the implications for anaesthesia</p>
-
-<!--></!-->
-
-> <p style="color:purple";>Properties of an ideal inhalational anaesthetic agent</p>
+:::dual
+Properties of an ideal inhalational anaesthetic agent
+:::
 
 Inhaled anaesthetics are chemicals with general anaesthetic properties that can be delivered by inhalation. They can be divided into:
 
@@ -33,7 +39,7 @@ Volatility refers to the tendency of a liquid to vapourise. Volatile agents incl
 * Anaesthetic gases
     * Nitrous oxide
     * Xenon
-  \
+
 ## Key Principles of Inhalational Agents
 
 Key principles:
@@ -79,7 +85,7 @@ Not all patients will be unresponsive at 1 MAC.
     * The standard deviation is **0.1**, so 95% of patients will not move in response to a stimulus at 1.2 MAC
 * Estimated clinically using **end-tidal** gas measurement\
 MAC is not based on arterial partial pressure (F~a~) of agent. 
-    * This is an important difference, because **even at steady-state**, <strong>F~a~ ≠ F~A~</strong>\
+    * This is an important difference, because **even at steady-state**, **F~a~ ≠ F~A~**\
     * This occurs due to:
         * V/Q mismatch\
         Shunted alveoli will not absorb anaesthetic agent, and unperfused alveoli will contain agent that is not being absorbed.
@@ -129,13 +135,15 @@ Note that addition of other agents (e.g. opioids) will affect different MAC subt
 ### Partition Coefficients
 
 A **partition coefficient** describes the **relative affinity** of an agent for two phases, and is **defined** as the **ratio of the concentration** of agent in each phase, when both **phases are of equal volume** and the partial pressures are in **equilibrium at STP**.
+
 * The **blood:gas partition coefficient** describes the solubility of the agent in blood relative to air, when the two phases are of equal volume and in equilibrium at STP\
 A **low** blood:gas partition coefficient indicates a **rapid** onset and offset. This is because:
     * Poorly soluble agents generate a high P~a~, which creates a steep gradient between P~a~ and P~B~, giving a rapid onset of action
     * Conversely, soluble agents dissolve easily into pulmonary blood without substantially increasing P~a~\
     This causes leads to a slow onset due to:
         * A large fall in P~A~ as the agent leaves the alveolus, decreasing the gradient for further diffusion
-        * A small gradient between P~a~ and P~B~<br><br>
+        * A small gradient between P~a~ and P~B~
+
 * The **oil:gas partition coefficient** describes the solubility of the agent in fat relative to air, when both phases are of equal volume and in equilibrium at STP\
 A **high** oil:gas partition coefficient indicates a greater potency, and therefore a low MAC.
 
@@ -152,6 +160,7 @@ As discussed above, rate of onset of an inhalational agent is dependent on rate 
 
 
 Factors affecting **alveolar concentration of agent:**
+
 * **Inspired concentration**\
     A high inspired concentration (*F*~i~) will increase the rate of increase of alveolar concentration (*F*~A~). Inspired concentration is dependent on:
     * Delivered concentration in fresh gas
@@ -186,13 +195,14 @@ Use of N~2~O with another agent will increase the P~A~ of that agent. This is be
         * This can cause a reduction in PAO~2~, and therefore hypoxaemia
         * Diffusion hypoxia is avoided by delivering 100% oxygen, which maintains an adequate PAO~2~ as N~2~O is removed
 
-<img src="/resources/fa-fi.svg">
+![](/resources/fa-fi.svg){fig-alt="Alveolar-to-inspired concentration ratio over time for nitrous oxide, desflurane, sevoflurane, isoflurane and halothane." width=100%}
 
 * Note that N~2~O reaches a higher ratio faster than desflurane, despite its lower blood:gas partition coefficient, due to the concentration effect
 
-Factors affecting **drug uptake from the lungs:**\
+Factors affecting **drug uptake from the lungs:**
+
 * **Blood:gas partition coefficient**\
-Agents with a low blood:gas partition coefficient reach $F_A \over F_I$equilibrium more rapidly. The blood:gas coefficient is affected by:
+Agents with a low blood:gas partition coefficient reach $\frac{F_A}{F_I}$ equilibrium more rapidly. The blood:gas coefficient is affected by:
     * Temperature\
     Blood:gas partition coefficients decrease as temperature increases.
     * Haematocrit\
@@ -221,7 +231,7 @@ The difference in partial pressure of agent in the alveolus and venous blood is 
 
 Recovery is dependent on how quickly an inhalational agent can be eliminated from the effect site, and can be graphed by the F~A~/F~A0~ ratio over time:
 
-<img src="/resources/fa-fao.svg">
+![](/resources/fa-fao.svg){fig-alt="Alveolar concentration relative to its value at the start of washout, plotted against time." width=100%}
 
 
 Washout can be divided into:
@@ -229,11 +239,11 @@ Washout can be divided into:
 * Rapid washout\
 Of agent in circuit and FRC.
     * The time constant for removal of agent from the circuit is a function of circuit volume and fresh gas flow, i.e.\
-    $\tau = {CV \over FGF}$
+    $\tau = \frac{CV}{FGF}$
 * Slow washout\
 Of agent in patient.
     * The time constant for removal of agent from the patient is a function of FRC and minute ventilation, i.e.\
-    $\tau = {FRC \over MV}$
+    $\tau = \frac{FRC}{MV}$
 
 Factors affecting volatile washout:
 
@@ -267,7 +277,6 @@ Increased rate of induction in **children** due to:
 Increases P~A~.
 * Lower albumin and cholesterol\
 Reduced blood-gas solubility coefficients for some agents.
-  \
 Increased rate of induction in **elderly** due to:
 
 * Lower MAC requirement
@@ -329,7 +338,7 @@ Anaesthetic agents may alter the function of molecules within the CNS. These inc
     This prolongs the time it spends open once activated, prolonging the inhibitory Cl^-^ current and increasing the degree of hyperpolarisation.
     * Enhance the activity of two-pore K^+^ channels\
     Increases the resting membrane potential of both pre-synaptic and post-synaptic CNS neurons.
-  \
+
 ### Incomplete Theories of the Mechanism of Action of General Anaesthetic Agents
 
 **Meyer-Overton Hypothesis**:
@@ -341,7 +350,7 @@ Anaesthetic agents may alter the function of molecules within the CNS. These inc
     * Other factors disrupt cell membranes without causing anaesthesia
 
 
-** Volume Expansion**, **Pressure Reversal** (Mullin's Critical Volume Hypothesis):
+**Volume Expansion**, **Pressure Reversal** (Mullin's Critical Volume Hypothesis):
 
 * CNS cell membranes expand with general anaesthetic agents\
 This distorts channels responsible for maintaining membrane potential and generating action potentials.
@@ -353,7 +362,7 @@ This distorts channels responsible for maintaining membrane potential and genera
 
 ### Structure-Activity Relationships of Inhaled Anaesthetics{#sa}
 
-* Chemical structures of different volatile anaesthetics are covered in the [pharmacopeia](inhalational-anaesthetics.qmd).
+* Chemical structures of different volatile anaesthetics are covered in the [pharmacopeia](inhalational_anaesthetics.qmd).
 
 Different chemical and physical properties alter the effect of inhalational agents:
 
@@ -419,7 +428,7 @@ From the properties discussed above, we can construct the following ideal agent:
     * Not teratogenic or otherwise toxic
 * No drug interactions
 
----
+***
 
 ## References
 
@@ -432,6 +441,4 @@ From the properties discussed above, we can construct the following ideal agent:
 7. Hendrickx J, Peyton P, Carette R, De Wolf A. [Inhaled anaesthetics and nitrous oxide: Complexities overlooked: things may not be what they seem](https://www.ncbi.nlm.nih.gov/pubmed/27164016). Eur J Anaesthesiol. 2016 Sep;33(9):611-9.
 8. Aranake A, Mashour GA, Avidan MS. [Minimum alveolar concentration: ongoing relevance and clinical utility](https://www.ncbi.nlm.nih.gov/pubmed/23414556). Anaesthesia. 2013 May;68(5):512-22. doi: 10.1111/anae.12168.
 9. Lerman J, Gregory GA, Willis MM, Eger EI 2nd. [Age and solubility of volatile anesthetics in blood](http://anesthesiology.pubs.asahq.org/article.aspx?articleid=1956070). Anesthesiology. 1984 Aug;61(2):139-43.
-1. Aranake A, Mashour G a., Avidan M s. [Minimum alveolar concentration: ongoing relevance and clinical utility](https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/full/10.1111/anae.12168). Anaesthesia. 2013;68(5):512–22. 
-
-
+1. Aranake A, Mashour G a., Avidan M s. [Minimum alveolar concentration: ongoing relevance and clinical utility](https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/full/10.1111/anae.12168). Anaesthesia. 2013;68(5):512–22.

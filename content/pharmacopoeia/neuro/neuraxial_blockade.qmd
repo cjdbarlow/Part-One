@@ -1,6 +1,8 @@
 # Neuraxial Blockade
 
-> <p style="color:purple";>Describe the physiological consequences of a central neuraxial block</p>
+:::dual
+Describe the physiological consequences of a central neuraxial block
+:::
 
 Central neuraxial blockade refers to blockade of fibres in the spinal cord by administration of intrathecal or epidural local anaesthetic.
 
@@ -43,7 +45,7 @@ Pupillary dilation due to CN III blockade.
 * Brainstem and Cerebral Cortex 
 Anaesthesia due to blockade of the reticular activating system and thalamus. 
 
----
+***
 
 ## References
 

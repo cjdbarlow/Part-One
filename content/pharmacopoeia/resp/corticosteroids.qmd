@@ -28,17 +28,14 @@ Corticosteroids have multiple indications including:
 
 ## Comparison of Corticosteroids
 
-|Property|Hydrocortisone|Prednisolone|Methylprednisolone|Dexamethasone|
-|--|--|
-|**Route of Administration**|IV/PO|PO|PO/IV/IM|IV|
-|**Relative Dose Equivalents**|100mg|25mg|20mg|4mg|
-|**Absorption**|50% PO bioavailability|100% PO bioavailability||60% PO bioavailability|
-|**Distribution**|Variable protein binding depending on concentration, V~D~ 0.5 L.kg^-1^|Variable protein binding depending on concentration, V~D~ 0.5 L.kg^-1^|V~D~ 1 L.kg^-1^||
-|**Metabolism**|Hepatic|Hepatic|Hepatic|Hepatic|
-|**Elimination**|Elimination t~0.5~ is 2 hours|Elimination t~0.5~ is 3 hours|Elimination t~0.5~ is 3 hours|Elimination t~0.5~ is 4 hours|
-|**Relative mineralocorticoid effect**|+++|++|+|+
+```{r}
+source("scripts/drugtables.R")
 
----
+DrugTable("hydrocortisone", "prednisolone", "methylprednisolone", "dexamethasone")
+```
+
+***
+
 ## References
 
 1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.\

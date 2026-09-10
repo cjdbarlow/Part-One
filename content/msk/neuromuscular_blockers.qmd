@@ -110,11 +110,11 @@ Most additional factors affecting the onset of blockade can be directly attribut
 
 :::column-margin
 A 'priming' dose of non-depolarising blocker should occupy <70% of ACh receptors, and so should not cause significant neuromuscular blockade in the awake patient.\
-\
+
 After induction, a second dose is given to occupy the remaining receptors and complete blockade.
 :::
 
----
+***
 
 ## References
 

@@ -49,7 +49,7 @@ Lisinopril.
 |**Metabolic**| ↑ Renin release.
 |**Interactions**|↓ Aldosterone release, which ↑ the efficacy of spironolactone and may precipitate hyperkalaemia. Pharmacodynamic interaction with NSAIDs to drop renal perfusion pressure.
 
----
+***
 
 ## References
 

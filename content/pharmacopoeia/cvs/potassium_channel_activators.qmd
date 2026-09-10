@@ -7,20 +7,14 @@ Potassium channel activators stimulate ATP sensitive K^+^ channels, causing an i
 * Venous capacitance vessels
 * Arterioles
 
-|Property|Nicorandil
-|--|--|
-|**Uses**|HTN, angina, CHF
-|**Route of Administration**|PO
-|**Dosing**|10-30mg BD
-|**Absorption**|80% PO bioavailability
-|**Distribution**|Negligible protein binding
-|**Metabolism**|Hepatic denitration
-|**Elimination**|Renal elimination of active drug and metabolites
-|**CVS**|↓ Preload, ↓ afterload, ↓ BP, ↑ coronary flow
-|**CNS**|Headache, improves with ongoing use
-|**Haeme**|Inhibition of platelet aggregation
+```{r}
+source("scripts/drugtables.R")
 
----
+DrugTable("nicorandil")
+```
+
+***
+
 ## References
 
 1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.\

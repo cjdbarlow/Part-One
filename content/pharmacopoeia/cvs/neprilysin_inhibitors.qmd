@@ -43,7 +43,8 @@ Used for:
 |**Immune**|Angioedema due to bradykinin accumulation, so usually formulated with an [ACE-I](ace_inhibitors.qmd) or [ARB](angiotensin_receptor_blockers.qmd)
 
 
----
+***
+
 ## References
 
 1. Bavishi C, Messerli FH, Kadosh B, Ruilope LM, Kario K. [Role of neprilysin inhibitor combinations in hypertension: insights from hypertension and heart failure trials](https://academic.oup.com/eurheartj/article/36/30/1967/2398101). Eur Heart J. 2015 Aug 7;36(30):1967–73. 

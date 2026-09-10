@@ -1,17 +1,12 @@
-# Naloxone
+# Centrally Acting Anti-Hypertensives
 
-
-Pure MOP antagonist used for:
-
-* Treatment of opioid overdose
-* Reducing constipation\
-In combination with PO oxycodone.
 
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("naloxone")
+DrugTable("clonidine", "methyldopa")
 ```
+
 
 ***
 

@@ -61,7 +61,7 @@ Arrhythmias should be managed with drugs that do not prolong the action potentia
 
 Seizures should be managed with benzodiazepines, phenytoin, propofol, and phenobarbital. Avoid agents which result in QRS prolongation.
 
----
+***
 
 ## References
 

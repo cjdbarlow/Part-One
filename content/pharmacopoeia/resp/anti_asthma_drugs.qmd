@@ -1,6 +1,8 @@
 # Anti-Asthma Drugs
 
-> Describe the pharmacology of anti-asthma drugs.
+:::dual
+Describe the pharmacology of anti-asthma drugs.
+:::
 
 * **Oxygen**\
 Increases FiO~2~ and improves saturation.
@@ -23,7 +25,7 @@ Volatile anaesthetic agents reduces bronchial smooth muscle constriction where t
 * **Leukotriene Antagonists**\
 Selectively inhibits the cysteinyl leukotriene receptor, increased activity of which is involved in airway oedema and bronchial smooth muscle constriction.
 
----
+***
 
 ## References
 

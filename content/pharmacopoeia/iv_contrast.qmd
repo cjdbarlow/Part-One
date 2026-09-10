@@ -1,4 +1,4 @@
-## Intravenous Contrast{#id}
+# Intravenous Contrast {#id}
 
 
 Intravenous contrast may be divided into:
@@ -25,7 +25,7 @@ Gd^3+^, due to its seven unpaired electrons, is paramagnetic and will alters the
     * Free gadolinium is nephrotoxic and must be chelated
     * This increases its solubility and allows it to be renally eliminated
     * Gadolinium also attenuates x-rays, but is not used as x-ray contrast as doses required would be toxic
-  \
+
 ## Adverse Reactions
 
 Adverse reactions to low-osmolarity agents are uncommon (3%), with severe reactions being very rare (0.04%) and fatal reactions being extremely rare (1:170,000).
@@ -49,7 +49,7 @@ Adverse reactions include:
     * Decreased PVR
 * Hypersensitivity reaction\
 Typically occur within 20 minutes of injection.
-  \
+
 Risk factors include:
 
 * Asthma or atopy
@@ -59,21 +59,20 @@ Risk factors include:
 
 ### Contrast Nephropathy
 
-Defined as an increase in creatinine by 25% above baseline within three days of IV contrast administration.\
+Defined as an increase in creatinine by 25% above baseline within three days of IV contrast administration.
+
 * It is theorised that osmotic stress and direct tubular toxic effects lead to renal tubular injury, and may cause acute tubular necrosis
 * Typically is benign, with creatinine returning to baseline within 10-14 days
-* Significant uncertainty as to whether contrast media do cause acute kidney injury\
-IF this risk is present, it is probably only relevant in patients who have:
+* Significant uncertainty remains about whether contrast media cause acute kidney injury. If this risk is present, it is probably only relevant in patients who have:
     * Impaired renal function
     * Arterial contrast
 * Rehydration and volume correction are effective in preventing a rise in creatinine
-  \
-  \
----
+
+***
+
 ## References
 
 1. Dickinson MC, Kam PC. [Intravascular iodinated contrast media and the
 anaesthetist](https://www.ncbi.nlm.nih.gov/pubmed/18477275). Anaesthesia. 2008 Jun;63(6):626-34.
 2. The Royal Australian and New Zealand College of Radiologists. [Iodinated
 Contrast Media Guideline](https://www.ranzcr.com/documents/573-iodinated-contrast-guidelines-2016/file). Sydney: RANZCR; 2016.
-  \

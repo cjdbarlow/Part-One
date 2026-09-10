@@ -29,16 +29,14 @@ The mechanism varies between receptors:
 
 ## Comparison of Benzodiazepines
 
-|Property|Midazolam|Diazepam|Clonazepam|
-|--|--|
-|**Physicochemical**|pKa 6.5. Structure is dependent on surrounding pH - at a pH < 4 its ring structure opens and it becomes water soluble.|40% propylene glycol.||
-|**Route of Administration**|PO/IV/IM.|PO/IV/IM.|PO.|
-|**Absorption**|50% PO bioavailability.|Good PO bioavailability.||
-|**Distribution**|V~D~ 1.5L.kg^-1^, 95% protein bound.|95% protein bound.||
-|**Metabolism**| Partially metabolised to oxazepam and 1-α-hydroxy-midazolam. Clearance ~7ml.kg^-1^.min^-1^.|Hepatic to all active metabolites including oxazepam, temazepam, and des-methyl-diazepam (has t~1/2~β up to 100 hours).|Hepatic to inactive metabolites.|
-|**Elimination**|t~1/2~β 2-4 hours, prolonged with cirrhosis, CHF, obesity and in the elderly.|t~1/2~β 20-45 hours.||
+```{r}
+source("scripts/drugtables.R")
 
----
+DrugTable("midazolam", "diazepam", "clonazepam")
+```
+
+***
+
 ## References
 
 1. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.

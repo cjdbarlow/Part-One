@@ -1,8 +1,18 @@
-# Download the DrugBase file from github, assuming it does not exist already
+# Keep the rendered book in sync with the canonical DrugBase database
 
-file_url = "https://github.com/cjdbarlow/drugbase/database/drugbase.Rds"
-local_path = "resources/drugbase.Rds"
+siblingPath = "../drugbase/database/drugbase.Rds"
+localPath = "resources/drugbase.Rds"
+remoteUrl = paste0(
+  "https://raw.githubusercontent.com/cjdbarlow/drugbase/",
+  "master/database/drugbase.Rds"
+)
 
-if (!file.exists(local_path)) {
-  download.file(file_url, destfile = local_path)
+if (file.exists(siblingPath)) {
+  copySucceeded = file.copy(siblingPath, localPath, overwrite = TRUE)
+
+  if (!copySucceeded) {
+    stop("Unable to copy the local DrugBase database to ", localPath)
+  }
+} else {
+  download.file(remoteUrl, destfile = localPath, mode = "wb")
 }

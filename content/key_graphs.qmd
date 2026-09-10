@@ -573,7 +573,7 @@ However the FEV~1~:FVC ratio will be normal in purely restrictive lung disease.
 
 ### Anaesthetic Agents
 
-[**F~A~/F~I~:**](pharmacopoeia/neuro/inhalational-anaesthetic-agents.qmd#pk)\
+[**F~A~/F~I~:**](pharmacopoeia/neuro/inhalational_anaesthetic_agents.qmd#pk)\
 
 
 ![](/resources/fa-fi.svg){fig-alt="Alveolar-to-inspired anaesthetic concentration ratio versus time for volatile agents, with less soluble agents rising faster."}
@@ -585,7 +585,7 @@ However the FEV~1~:FVC ratio will be normal in purely restrictive lung disease.
     * The exception is nitrous oxide, which has a faster rate of rise than desflurane despite its greater blood:gas coefficient due to the concentration effect
 
 
-[**F~A~/F~A0~:**](pharmacopoeia/neuro/inhalational-anaesthetic-agents.qmd#wash)
+[**F~A~/F~A0~:**](pharmacopoeia/neuro/inhalational_anaesthetic_agents.qmd#wash)
 
 
 ![](/resources/fa-fao.svg){fig-alt="Log alveolar anaesthetic concentration versus time during washout, showing a multiexponential decline."}

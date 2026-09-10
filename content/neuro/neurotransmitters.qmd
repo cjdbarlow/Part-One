@@ -1,7 +1,9 @@
 # Neurotransmitters
 
 
-> Describe the major neurotransmitters and their physiological role, with particular reference to GABA, excitatory and inhibitory amino acids, acetylcholine, noradrenaline, dopamine and serotonin and NMDA receptor
+:::dual
+Describe the major neurotransmitters and their physiological role, with particular reference to GABA, excitatory and inhibitory amino acids, acetylcholine, noradrenaline, dopamine and serotonin and NMDA receptor
+:::
 
 ## GABA
 
@@ -44,7 +46,7 @@ Antagonised by:
     * Xenon
     * N~2~O
 
----
+***
 
 ## References
 

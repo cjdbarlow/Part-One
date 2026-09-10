@@ -1,0 +1,19 @@
+# Non-Adrenergic Vasoactives
+
+
+Key non-adrenergic cardiovascular drugs include **vasopressin** (and its analogues, **terlipressin** and **ornipressin**), **phosphodiesterase III inhibitors** such as milrinone, and **calcium sensitisers** such as levosimendan.
+
+```{r}
+source("scripts/drugtables.R")
+
+DrugTable("vasopressin", "milrinone", "levosimendan")
+```
+
+
+***
+
+## References
+
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.\
+2. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
+3. Brunton L, Chabner BA, Knollman B. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill Education - Europe. 2011.

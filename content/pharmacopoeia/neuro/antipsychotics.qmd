@@ -56,23 +56,14 @@ Motor disturbances from antipsychotic use are termed EPSEs, and are divided into
 ## Comparison of Antipsychotics
 
 
-|Property|Haloperidol|Olanzapine|Clozapine|
-|--|--|
-|**Class**|Typical|Atypical|Atypical ("3^rd^ gen")|
-|**Uses**|Behavioural Emergencies|Behavioural Emergencies, Psychosis/Schizophrenia|Treatment resistant schizophrenia|
-|**Presentation**|Tablets, syrup, clear solution for injection at 5mg.ml^-1^|Tablets, solution for injection|Yellow tablet
-|**Route of Administration**| PO/IM/IV|PO/IM|PO
-|**Dosing**|1-5mg IV, 2-30mg IM, 1-15mg PO|IM 5-10mg, PO 5-20mg|Must be prescribed by a psychiatrist
-|**Absorption**|50% PO bioavailability|60% PO bioavailability|Rapid absorption
-|**Distribution**|92% protein bound|93% protein bound, V~D~ ~14L.kg^-1^|V~D~ 2L.kg^-1^
-|**Metabolism**|Hepatic to largely inactive metabolites|Hepatic to inactive metabolites|May obey **zero-order** kinetics at the upper limit of the dose range
-|**Elimination**|Renal of metabolites|Renal of inactive metabolites|Renal of active drug (~25%) and inactive metabolites
-|**CVS**|Hypotension||Myocarditis (potentially fatal)|
-|**CNS**|||Seizures|
-|**GIT**|Antiemetic||Hepatitis|
-|**Haeme**|||Agranulocytosis, thromboembolic disease
+```{r}
+source("scripts/drugtables.R")
 
----
+DrugTable("haloperidol", "olanzapine", "clozapine")
+```
+
+***
+
 ## References
 
 Rang and Dale

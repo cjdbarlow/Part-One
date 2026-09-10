@@ -370,9 +370,110 @@ book:
             - content/anatomy/neuraxial.qmd
     - part: '<span class="sidebar-divider">Pharmacopoeia</span>'
       chapters:
+        - part: "Toxicology"
+          chapters:
+            - content/tricyclic_antidepressant_overdose.qmd
+            - content/organophosphate_poisoning.qmd
+            - content/pharmacopoeia/tox/ethanol.qmd
+            - content/pharmacopoeia/tox/naloxone.qmd
+            - content/pharmacopoeia/tox/flumazenil.qmd
+        - part: "Respiratory Pharmacology"
+          chapters:
+            - content/pharmacopoeia/resp/oxygen.qmd
+            - content/pharmacopoeia/resp/helium.qmd
+            - content/pharmacopoeia/resp/anti_asthma_drugs.qmd
+            - content/pharmacopoeia/resp/beta_agonists.qmd
+            - content/pharmacopoeia/resp/antimuscarinics.qmd
+            - content/pharmacopoeia/resp/phosphodiesterase_inhibitors.qmd
+            - content/pharmacopoeia/resp/leukotriene_antagonists.qmd
+            - content/pharmacopoeia/resp/corticosteroids.qmd
+            - content/pharmacopoeia/resp/pulmonary_vasodilators.qmd
         - part: "Cardiovascular Pharmacology"
           chapters:
+            - content/pharmacopoeia/cvs/inotropes.qmd
+            - content/pharmacopoeia/cvs/antiarrhythmics.qmd
             - content/pharmacopoeia/cvs/adrenergic_drugs.qmd
+            - content/pharmacopoeia/resp/non_adrenergic_drugs.qmd
+            - content/pharmacopoeia/cvs/centrally_acting_anti_hypertensives.qmd
+            - content/pharmacopoeia/cvs/calcium_channel_blockers.qmd
+            - content/pharmacopoeia/cvs/direct_vasodilators.qmd
+            - content/pharmacopoeia/cvs/ace_inhibitors.qmd
+            - content/pharmacopoeia/cvs/angiotensin_receptor_blockers.qmd
+            - content/pharmacopoeia/cvs/neprilysin_inhibitors.qmd
+            - content/pharmacopoeia/cvs/potassium_channel_activators.qmd
+            - content/pharmacopoeia/cvs/sodium_channel_blockers.qmd
+            - content/pharmacopoeia/cvs/beta_blockers.qmd
+            - content/pharmacopoeia/cvs/amiodarone.qmd
+            - content/pharmacopoeia/cvs/sotalol.qmd
+            - content/pharmacopoeia/cvs/digoxin.qmd
+            - content/pharmacopoeia/cvs/adenosine.qmd
+            - content/pharmacopoeia/cvs/magnesium.qmd
+            - content/pharmacopoeia/cvs/atropine.qmd
+        - part: "Renal Pharmacology"
+          chapters:
+            - content/pharmacopoeia/renal/diuretics.qmd
+            - content/pharmacopoeia/renal/intravenous_fluids.qmd
+        - part: "Neuropharmacology"
+          chapters:
+            - content/neuro/neurotransmitters.qmd
+            - content/pharmacopoeia/neuro/anticonvulsantsmoa.qmd
+            - content/pharmacopoeia/neuro/local_anaesthetic_principles.qmd
+            - content/pharmacopoeia/neuro/neuraxial_blockade.qmd
+            - content/pharmacopoeia/analgesics/opioidspharm.qmd
+            - content/pharmacopoeia/neuro/inhalational_anaesthetic_agents.qmd
+            - content/pharmacopoeia/neuro/propofol.qmd
+            - content/pharmacopoeia/neuro/barbiturates.qmd
+            - content/pharmacopoeia/neuro/ketamine.qmd
+            - content/pharmacopoeia/neuro/dexmedetomidine.qmd
+            - content/pharmacopoeia/neuro/local_anaesthetics.qmd
+            - content/pharmacopoeia/neuro/benzodiazepines.qmd
+            - content/pharmacopoeia/neuro/antidepressants.qmd
+            - content/pharmacopoeia/neuro/antipsychotics.qmd
+            - content/pharmacopoeia/neuro/anticonvulsants.qmd
+            - content/pharmacopoeia/neuro/gaba_analogues.qmd
+            - content/pharmacopoeia/neuro/inhalational_anaesthetics.qmd
+            - content/pharmacopoeia/neuro/nitrous_oxide.qmd
+            - content/pharmacopoeia/analgesics/opioids.qmd
+            - content/pharmacopoeia/analgesics/cox_inhibitors.qmd
+            - content/pharmacopoeia/analgesics/tramadol.qmd
+            - content/pharmacopoeia/analgesics/paracetamol.qmd
+            - content/pharmacopoeia/autonomic/anticholinesterases.qmd
+            - content/pharmacopoeia/autonomic/antimuscarinicsansmd.qmd
+            - content/msk/neuromuscular_blockers.qmd
+            - content/pharmacopoeia/msk/depolarising_nmbs.qmd
+            - content/pharmacopoeia/msk/non_depolarising_nmbs.qmd
+            - content/pharmacopoeia/msk/dantrolene.qmd
+            - content/pharmacopoeia/msk/sugammadex.qmd
+        - part: "Haematological Pharmacology"
+          chapters:
+            - content/pharmacopoeia/haeme/anticoagulants.qmd
+            - content/pharmacopoeia/haeme/direct_thrombin_inhibitors.qmd
+            - content/pharmacopoeia/haeme/antifibrinolytics.qmd
+            - content/pharmacopoeia/haeme/antiplatelets.qmd
+        - part: "Antimicrobials"
+          chapters:
+            - content/micro/antiseptics.qmd
+            - content/pharmacopoeia/micro/penicillins.qmd
+            - content/pharmacopoeia/micro/glycopeptides.qmd
+            - content/pharmacopoeia/micro/aminoglycosides.qmd
+            - content/pharmacopoeia/micro/lincosamides.qmd
+            - content/pharmacopoeia/micro/metronidazole.qmd
+            - content/pharmacopoeia/micro/antifungals.qmd
+        - part: "Endocrine Pharmacology"
+          chapters:
+            - content/pharmacopoeia/endo/insulins.qmd
+            - content/pharmacopoeia/endo/oral_hypoglycaemics.qmd
+        - part: "Obstetric Pharmacology"
+          chapters:
+            - content/pharmacopoeia/obs/oxytocics.qmd
+            - content/pharmacopoeia/obs/tocolytics.qmd
+        - part: "Gastrointestinal Pharmacology"
+          chapters:
+            - content/pharmacopoeia/git/acid_suppression.qmd
+            - content/pharmacopoeia/git/antiemetics.qmd
+        - part: "Other Drugs"
+          chapters:
+            - content/pharmacopoeia/iv_contrast.qmd
     appendices:
       - content/definitions.qmd
       - content/key_graphs.qmd
