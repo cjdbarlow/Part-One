@@ -1,0 +1,3233 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-GB" xml:lang="en-GB"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.10.18">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Buffers – Part One</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-a7ad6ca5d6f4b33dd35a576fd0363577.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../../themes/custom.css">
+</head>
+
+<body class="nav-sidebar floating quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><span class="sidebar-divider">Curriculum</span></li><li class="breadcrumb-item"><a href="../../content/acid_base/principles.html">Acid-Base</a></li><li class="breadcrumb-item"><a href="../../content/acid_base/buffers.html"><span class="chapter-title">Buffers</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="../../">Part One</a> 
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Part One</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/downloads.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Download Part One</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/how_to_pass.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">How to Pass</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/how_to_fail.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">How to Fail</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/saq.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">The <span class="glossary" title="Short Answer Question">SAQ</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/viva.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">The Viva</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text"><span class="sidebar-divider">Curriculum</span></span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false">
+ <span class="menu-text">Research Methods and Statistics</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/stats/ebm.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Evidence-Based Medicine</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/stats/study_types.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Study Types</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/stats/clinical_trial_design.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Clinical Trial Design</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/stats/data_types.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Data Types</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/stats/bias.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Bias and Confounding</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/stats/frequency_dist.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Frequency Distributions</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/stats/sample_size.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Sample Size Calculation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/stats/statistical_tests.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Statistical Tests</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/stats/statistical_terms.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Statistical Terms</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/stats/risk_odds.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Risk and Odds</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/stats/signifiance_testing.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Significance Testing</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/stats/drug_approval.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Drug Approval and Development</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false">
+ <span class="menu-text">Pharmacology</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false">
+ <span class="menu-text">Pharmacokinetics</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth3 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacology/additives.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Additives</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacology/isomerism.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Isomerism</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacology/terms.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Pharmacokinetic Terms</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacology/kinetic_models.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Pharmacokinetic Models</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacology/absorption.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Absorption</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacology/distribution.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Distribution</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacology/metabolism.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Metabolism</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacology/elimination.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Elimination and Excretion</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacology/iv_kinetics.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Bolus and Infusion Kinetics</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacology/monitoring.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Drug Monitoring</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacology/administration.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Routes of Administration</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacology/tci.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Target-Controlled Infusions</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="false">
+ <span class="menu-text">Pharmacodynamics</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth3 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacology/receptor_theory.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Receptor Theory</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacology/receptor_types.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Receptor Types</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacology/dose_response.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Dose-Response Curves</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacology/mechanisms.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Mechanisms of Action</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="false">
+ <span class="menu-text">Variability in Drug Response</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth3 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacology/adverse_effects.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Adverse Effects</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacology/drugs_pregnancy.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Safety of Drugs in Pregnancy</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacology/drug_interactions.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Drug Interactions</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacology/alterations_to_response.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Alterations to Drug Response</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacology/pharmacogenetics.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Pharmacogenetics</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacology/pharmacogenetic_disorders.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Pharmacogenetic Disorders</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" role="navigation" aria-expanded="false">
+ <span class="menu-text">Cellular Physiology</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-7" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/cellular/cell_membrane.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">The Cell Membrane</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/cellular/cell_transport.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Membrane Transport</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/cellular/organelles.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Organelles</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/cellular/excitable_cells.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Excitable Cells</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/cellular/cell_contents.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Fluid Compartments</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/cellular/cell_homeostasis.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Cell Homeostasis</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="false">
+ <span class="menu-text">Respiratory Physiology</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-8" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" role="navigation" aria-expanded="false">
+ <span class="menu-text">Anatomy</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-9" class="collapse list-unstyled sidebar-section depth3 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/airway_anatomy.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Airway and Alveolar Anatomy</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/chest_wall_diaphragm.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chest Wall and Diaphragm</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/anatomical_variation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Variations in Upper Airway Anatomy</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-10" role="navigation" aria-expanded="false">
+ <span class="menu-text">Mechanics</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-10" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-10" class="collapse list-unstyled sidebar-section depth3 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/breathing_control.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Control of Breathing</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/intrapleural_pressure.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Intrapleural Pressure</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/compliance.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Compliance</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/time_constants.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Time Constants</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/resistance.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Resistance</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/surfactant.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Surfactant</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/volumes_capacities.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Volumes and Capacities</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/spirometry.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Spirometry</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/work_of_breathing.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Work of Breathing</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-11" role="navigation" aria-expanded="false">
+ <span class="menu-text">Diffusion of Gases</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-11" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-11" class="collapse list-unstyled sidebar-section depth3 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/oxygen_cascade.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Oxygen Cascade</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/diffusion_capacity.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Diffusion and Diffusing Capacity</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-12" role="navigation" aria-expanded="false">
+ <span class="menu-text">V/Q Relationships</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-12" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-12" class="collapse list-unstyled sidebar-section depth3 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/vq_basics.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Basics of V/Q Matching</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/wests_zones.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">West’s Zones</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/dead_space.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Dead Space</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/shunt.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Shunt</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-13" role="navigation" aria-expanded="false">
+ <span class="menu-text">Gas Transport</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-13" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-13" class="collapse list-unstyled sidebar-section depth3 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/oxygen_storage.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Oxygen Storage</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/co2_transport.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Carbon Dioxide</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-14" role="navigation" aria-expanded="false">
+ <span class="menu-text">Applied Respiratory Physiology</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-14" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-14" class="collapse list-unstyled sidebar-section depth3 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/peep.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Positive Pressure Ventilation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/hypoxia.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Hypoxia</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/co2_effects.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Hypo and Hypercapnea</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/position.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Position and Ventilation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/humidification.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Humidification</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/cough.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Cough Reflex</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/non_resp_functions.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Non-Respiratory Functions</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/altitude.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Altitude</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/obesity_respiratory.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Obesity</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/resp/paeds_respiratory.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Neonates and Children</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-15" role="navigation" aria-expanded="false">
+ <span class="menu-text">Cardiovascular Physiology</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-15" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-15" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-16" role="navigation" aria-expanded="false">
+ <span class="menu-text">Structure and Function</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-16" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-16" class="collapse list-unstyled sidebar-section depth3 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/cvs/cardiac_anatomy.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Cardiac Anatomy</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/cvs/coronary_circulation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Coronary Circulation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/cvs/cardiac_cycle.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Cardiac Cycle</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-17" role="navigation" aria-expanded="false">
+ <span class="menu-text">Electrical Properties</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-17" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-17" class="collapse list-unstyled sidebar-section depth3 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/cvs/cardiac_ap.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Cardiac Action Potential</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-18" role="navigation" aria-expanded="false">
+ <span class="menu-text">Cardiac Output</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-18" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-18" class="collapse list-unstyled sidebar-section depth3 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/cvs/co_determinants.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Determinants of Cardiac Output</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/cvs/venous_return.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Venous Return</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/cvs/myocardial_oxygen.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Myocardial Oxygen Supply and Demand</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/cvs/pv_relationships.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Pressure-Volume Relationships</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/cvs/cardiac_reflexes.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Cardiac Reflexes</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-19" role="navigation" aria-expanded="false">
+ <span class="menu-text">Peripheral Circulation</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-19" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-19" class="collapse list-unstyled sidebar-section depth3 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/cvs/starling_forces.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Starling Forces</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/cvs/bp_variations.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Variations in Blood Pressure</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/cvs/pulmonary_circulation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Pulmonary Circulation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/cvs/cerebral_blood_flow.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Cerebral Blood Flow</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/cvs/hepatic_blood_flow.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Hepatic Blood Flow</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-20" role="navigation" aria-expanded="false">
+ <span class="menu-text">Circulatory Control</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-20" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-20" class="collapse list-unstyled sidebar-section depth3 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/cvs/baroreceptors.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Baroreceptors</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/cvs/valsalva_manoeuvre.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Valsalva Manoeuvre</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/cvs/obesity_cvs.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Cardiovascular Changes with Obesity</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/cvs/ageing_cvs.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Cardiovascular Effects of Ageing</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/cvs/adrenoreceptors.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Adrenoreceptors</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-21" role="navigation" aria-expanded="false">
+ <span class="menu-text">Renal System</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-21" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-21" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-22" role="navigation" aria-expanded="false">
+ <span class="menu-text">Renal Physiology</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-22" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-22" class="collapse list-unstyled sidebar-section depth3 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/renal/rbf.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Functional Anatomy and Control of Renal Blood Flow</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/renal/glomerular_filtration.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Glomerular Filtration and Tubular Function</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/renal/organic.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Handling of Organic Substances</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/renal/creatinine_clearance.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Measurement of <span class="glossary" title="Glomerular Filtration Rate">GFR</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/renal/endocrine.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Endocrine Functions of the Kidney</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/renal/acid_base.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Acid-Base Balance</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/renal/dialysis.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Dialysis</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-23" role="navigation" aria-expanded="false">
+ <span class="menu-text">Fluids and Electrolytes</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-23" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-23" class="collapse list-unstyled sidebar-section depth3 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/renal/sodium.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Sodium and Water</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/renal/potassium.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Potassium</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-24" role="navigation" aria-expanded="true">
+ <span class="menu-text">Acid-Base</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-24" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-24" class="collapse list-unstyled sidebar-section depth2 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/acid_base/principles.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Principles of Acid-Base Physiology</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/acid_base/compensation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Compensation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/acid_base/buffers.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Buffers</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-25" role="navigation" aria-expanded="false">
+ <span class="menu-text">Nervous System</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-25" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-25" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/neuro/bbb.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Blood-Brain Barrier</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/neuro/csf.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Cerebrospinal Fluid</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/neuro/spinal_anatomy.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Spinal Cord Anatomy</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/neuro/icp.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Intracranial Pressure</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/neuro/iop.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Intraocular Pressure</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/neuro/sleep.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Sleep</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/neuro/pain.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Pain</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/neuro/ans.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Autonomic Nervous System</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/neuro/ach_receptor.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Acetylcholine Receptors</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-26" role="navigation" aria-expanded="false">
+ <span class="menu-text">Endocrine System</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-26" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-26" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/endo/hormones.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Hormones</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/endo/insulin_and_friends.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Insulin, Glucagon, and Somatostatin</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/endo/glucose.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Control of Blood Glucose</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/endo/pituitary.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Pituitary Hormones</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/endo/hypothalamus.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Hypothalamic Hormones</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/endo/thyroid.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Thyroid</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/endo/adrenal.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Adrenal Hormones</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/endo/calcium.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Calcium Homeostasis</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/endo/histamine.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Histamine</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/endo/prostaglandins.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Prostanoids</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-27" role="navigation" aria-expanded="false">
+ <span class="menu-text">Musculoskeletal</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-27" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-27" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/msk/skeletal_muscle.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Skeletal Muscle</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/msk/skeletal_muscle_innervation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Skeletal Muscle Innervation</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-28" role="navigation" aria-expanded="false">
+ <span class="menu-text">Nutrition and Metabolism</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-28" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-28" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/metabolic/bmr.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Basal Metabolic Rate</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/metabolic/fat.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Fat Metabolism</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/metabolic/carbohydrate.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Carbohydrate Metabolism</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/metabolic/protein.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Protein Metabolism</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/metabolic/starvation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Fasting</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/metabolic/anaerobic.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Anaerobic Metabolism</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/metabolic/temperature.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Body Temperature</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-29" role="navigation" aria-expanded="false">
+ <span class="menu-text">Immunology</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-29" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-29" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/immune/inflammation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Inflammation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/immune/innate_immunity.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Innate Immunity</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/immune/adaptive_immunity.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Adaptive Immunity</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/immune/hypersensitivity.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Hypersensitivity</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-30" role="navigation" aria-expanded="false">
+ <span class="menu-text">Microbiology</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-30" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-30" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/micro/bacteria.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Bacteria</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/micro/virus.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Viruses</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/micro/fungi.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Eukaryotes</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/micro/resistance.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Antimicrobial Resistance</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-31" role="navigation" aria-expanded="false">
+ <span class="menu-text">Obstetrics</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-31" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-31" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/obs/preg_resp.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Respiratory Changes of Pregnancy</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/obs/preg_cvs.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Cardiovascular Changes of Pregnancy</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/obs/foetal.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Foetal Circulation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/obs/placenta.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">The Placenta</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-32" role="navigation" aria-expanded="false">
+ <span class="menu-text">Gastrointestinal System</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-32" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-32" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/git/oesophagus.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Oesophagus</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/git/secretions.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Gastric Secretions</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/git/gastric_emptying.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Control of Gastric Emptying</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/git/swallowing.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Swallowing</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/git/vomiting.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Vomiting</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/git/liver_function.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Functions of the Liver</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/git/lft.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Liver Function Assessment</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/git/bile.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Bile</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-33" role="navigation" aria-expanded="false">
+ <span class="menu-text">Haematology</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-33" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-33" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/haeme/erythrocytes.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Erythrocytes</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/haeme/iron.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Iron Homeostasis</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/haeme/platelets.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Platelets</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/haeme/transfusion.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Blood Groups</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/haeme/blood_products.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Blood Product Storage</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/haeme/transfusion_reactions.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Transfusion Reactions</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/haeme/clotting.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Haemostasis</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/haeme/unclotting.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Haemostatic Regulation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/haeme/coag_testing.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Coagulation Testing</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/haeme/viscoelastic.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Viscoelastic Testing</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-34" role="navigation" aria-expanded="false">
+ <span class="menu-text">Physics and Measurement</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-34" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-34" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/si_units.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">System of Units</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/electrical_safety.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Electrical Safety</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/wheatstone.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Wheatstone Bridge</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/neuromuscular_monitoring.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Neuromuscular Monitoring</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/transducers.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Pressure Transduction</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/nibp.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Non-Invasive Blood Pressure</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/cardiac_output.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Cardiac Output Measurement</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/pulse_contour.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Pressure Waveform Analysis</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/pulse_oximetry.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Pulse Oximetry</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/gas_analysis.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Oxygen Analysis</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/end_tidal.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">End-Tidal Gas Analysis</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/blood_gas.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Blood Gas Measurement</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/gas_flow.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Gas Flow</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/ultrasound.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Principles of Ultrasound</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/temperature.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Temperature</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/humidity.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Humidity</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/humidifiers.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Humidifiers</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/ecg.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Electrocardiography</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/oxygen_delivery.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Supplemental Oxygen</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/bis.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Bispectral Index</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/gas_supply.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Medical Gas Supply</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/vaporisers.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Vapourisers</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/circuits.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Breathing Systems</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/circle_system.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Circle System</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/bvm.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Bag-Valve-Mask</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/scavenging.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Scavenging</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/diathermy.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Diathermy</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/equipment/lasers.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Lasers</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-35" role="navigation" aria-expanded="false">
+ <span class="menu-text">Procedural Anatomy</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-35" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-35" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/anatomy/ijv.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Internal Jugular Vein</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/anatomy/scv.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Subclavian Vein</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/anatomy/icc.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Intercostal Catheter</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/anatomy/antecubital_fossa.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Antecubital Fossa</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/anatomy/tracheostomy.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Tracheostomy</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/anatomy/neuraxial.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Neuraxial Anatomy</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-36" role="navigation" aria-expanded="true">
+ <span class="menu-text"><span class="sidebar-divider">Pharmacopoeia</span></span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-36" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-36" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-37" role="navigation" aria-expanded="false">
+ <span class="menu-text">Toxicology</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-37" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-37" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/tricyclic_antidepressant_overdose.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Tricyclic Antidepressant Overdose</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/organophosphate_poisoning.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Organophosphate Poisoning</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/tox/ethanol.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Toxic Alcohols</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/tox/naloxone.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Naloxone</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/tox/flumazenil.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Flumazenil</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-38" role="navigation" aria-expanded="false">
+ <span class="menu-text">Respiratory Pharmacology</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-38" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-38" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/resp/oxygen.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Oxygen</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/resp/helium.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Helium</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/resp/anti_asthma_drugs.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Anti-Asthma Drugs</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/resp/beta_agonists.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Beta Agonists</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/resp/antimuscarinics.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Antimuscarinics (Respiratory)</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/resp/phosphodiesterase_inhibitors.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Phosphodiesterase Inhibitors / Methylxanthines</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/resp/leukotriene_antagonists.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Leukotriene Antagonists</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/resp/corticosteroids.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Corticosteroids</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/resp/pulmonary_vasodilators.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Pulmonary Vasodilators</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-39" role="navigation" aria-expanded="false">
+ <span class="menu-text">Cardiovascular Pharmacology</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-39" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-39" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/cvs/inotropes.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Inotropes</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/cvs/antiarrhythmics.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Antiarrhythmics</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/cvs/adrenergic_drugs.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Adrenergic Vasoactives</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/resp/non_adrenergic_drugs.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Non-Adrenergic Vasoactives</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/cvs/centrally_acting_anti_hypertensives.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Centrally Acting Anti-Hypertensives</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/cvs/calcium_channel_blockers.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Calcium Channel Blockers</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/cvs/direct_vasodilators.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Direct Vasodilators</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/cvs/ace_inhibitors.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Angiotensin Converting Enzyme Inhibitors</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/cvs/angiotensin_receptor_blockers.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Angiotensin Receptor Blockers</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/cvs/neprilysin_inhibitors.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Angiotensin Receptor Neprilysin Inhibitors</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/cvs/potassium_channel_activators.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Potassium Channel Activators</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/cvs/sodium_channel_blockers.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Sodium Channel Blockers</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/cvs/beta_blockers.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Beta-Blockers</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/cvs/amiodarone.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Amiodarone</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/cvs/sotalol.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Sotalol</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/cvs/digoxin.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Digoxin</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/cvs/adenosine.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Adenosine</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/cvs/magnesium.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Magnesium</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/cvs/atropine.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Atropine</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-40" role="navigation" aria-expanded="false">
+ <span class="menu-text">Renal Pharmacology</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-40" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-40" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/renal/diuretics.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Diuretics</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/renal/intravenous_fluids.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Intravenous Fluids</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-41" role="navigation" aria-expanded="false">
+ <span class="menu-text">Neuropharmacology</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-41" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-41" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/neuro/neurotransmitters.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Neurotransmitters</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/neuro/anticonvulsantsmoa.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Anticonvulsants</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/neuro/local_anaesthetic_principles.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Local Anaesthetics</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/neuro/neuraxial_blockade.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Neuraxial Blockade</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/analgesics/opioidspharm.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Opioids</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/neuro/inhalational_anaesthetic_agents.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Inhalational Anaesthetics</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/neuro/propofol.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Propofol</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/neuro/barbiturates.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Barbiturates</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/neuro/ketamine.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Ketamine</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/neuro/dexmedetomidine.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Dexmedetomidine</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/neuro/local_anaesthetics.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Local Anaesthetic Agents</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/neuro/benzodiazepines.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Benzodiazepines</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/neuro/antidepressants.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Antidepressants</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/neuro/antipsychotics.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Antipsychotics</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/neuro/anticonvulsants.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Anticonvulsants</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/neuro/gaba_analogues.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">GABA Analogues</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/neuro/inhalational_anaesthetics.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Inhalational Anaesthetic Agents</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/neuro/nitrous_oxide.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Nitrous Oxide</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/analgesics/opioids.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Opioids</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/analgesics/cox_inhibitors.html" class="sidebar-item-text sidebar-link"><span class="chapter-title"><span class="glossary" title="Cyclo-Oxygenase">COX</span> Inhibitors</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/analgesics/tramadol.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Tramadol</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/analgesics/paracetamol.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Paracetamol</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/autonomic/anticholinesterases.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Anticholinesterases</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/autonomic/antimuscarinicsansmd.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Antimuscarinics (Cardiac)</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/msk/neuromuscular_blockers.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Neuromuscular Blockers</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/msk/depolarising_nmbs.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Depolarising NMBs</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/msk/non_depolarising_nmbs.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Non-Depolarising Neuromuscular Blockers</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/msk/dantrolene.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Dantrolene</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/msk/sugammadex.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Sugammadex</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-42" role="navigation" aria-expanded="false">
+ <span class="menu-text">Haematological Pharmacology</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-42" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-42" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/haeme/anticoagulants.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Anticoagulants</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/haeme/direct_thrombin_inhibitors.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Direct Thrombin Inhibitors</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/haeme/antifibrinolytics.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Antifibrinolytics</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/haeme/antiplatelets.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Antiplatelets</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-43" role="navigation" aria-expanded="false">
+ <span class="menu-text">Antimicrobials</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-43" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-43" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/micro/antiseptics.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Antiseptics</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/micro/penicillins.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Penicillins</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/micro/glycopeptides.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Glycopeptides</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/micro/aminoglycosides.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Aminoglycosides</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/micro/lincosamides.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Lincosamides</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/micro/metronidazole.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Metronidazole</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/micro/antifungals.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Antifungals</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-44" role="navigation" aria-expanded="false">
+ <span class="menu-text">Endocrine Pharmacology</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-44" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-44" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/endo/insulins.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Insulins</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/endo/oral_hypoglycaemics.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Oral Hypoglycaemics</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-45" role="navigation" aria-expanded="false">
+ <span class="menu-text">Obstetric Pharmacology</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-45" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-45" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/obs/oxytocics.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Oxytocics</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/obs/tocolytics.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Tocolytics</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-46" role="navigation" aria-expanded="false">
+ <span class="menu-text">Gastrointestinal Pharmacology</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-46" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-46" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/git/acid_suppression.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Acid Suppression</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/git/antiemetics.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Antiemetics</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-47" role="navigation" aria-expanded="false">
+ <span class="menu-text">Other Drugs</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-47" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-47" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/pharmacopoeia/iv_contrast.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Intravenous Contrast</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-48" role="navigation" aria-expanded="true">
+ <span class="menu-text">Appendices</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-48" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-48" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/definitions.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Definitions</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/key_graphs.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Key Graphs</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/laws.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Laws and Equations</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../content/frameworks_for_classification.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Structures for SAQs</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this Page</h2>
+   
+  <ul>
+  <li><a href="#buffer-systems" id="toc-buffer-systems" class="nav-link active" data-scroll-target="#buffer-systems">Buffer Systems</a>
+  <ul class="collapse">
+  <li><a href="#bicarbonate-buffer-system" id="toc-bicarbonate-buffer-system" class="nav-link" data-scroll-target="#bicarbonate-buffer-system">Bicarbonate Buffer System</a></li>
+  <li><a href="#protein-buffer-system" id="toc-protein-buffer-system" class="nav-link" data-scroll-target="#protein-buffer-system">Protein Buffer System</a></li>
+  <li><a href="#haemoglobin-buffer-system" id="toc-haemoglobin-buffer-system" class="nav-link" data-scroll-target="#haemoglobin-buffer-system">Haemoglobin Buffer System</a></li>
+  <li><a href="#phosphate-buffer-system" id="toc-phosphate-buffer-system" class="nav-link" data-scroll-target="#phosphate-buffer-system">Phosphate Buffer System</a></li>
+  </ul></li>
+  <li><a href="#further-reading" id="toc-further-reading" class="nav-link" data-scroll-target="#further-reading">Further Reading</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+<style id="litfl-header-styles">
+  .ct-header,
+  .ct-header * {
+    box-sizing: border-box;
+  }
+
+  .ct-header {
+    --litfl-ink: #263f58;
+    --litfl-accent: #c94343;
+    --litfl-focus: #0067a8;
+    --litfl-rule: #e8edf1;
+    --litfl-muted: #667888;
+    position: relative;
+    z-index: 1020;
+    width: 100%;
+    overflow-x: clip;
+    overflow-y: visible;
+    background: #fff;
+    color: var(--litfl-ink);
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .ct-header a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .ct-header a:focus-visible,
+  .ct-header button:focus-visible,
+  .ct-header input:focus-visible,
+  .ct-header summary:focus-visible {
+    outline: 3px solid var(--litfl-focus);
+    outline-offset: 3px;
+  }
+
+  .ct-header ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .ct-header .litfl-visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+
+  .ct-header .litfl-shell {
+    width: min(calc(100% - 2rem), 1280px);
+    margin-inline: auto;
+  }
+
+  .ct-header .litfl-brand-row {
+    min-height: 94px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+  }
+
+  .ct-header .litfl-home-link {
+    display: inline-flex;
+    align-items: center;
+    flex: 0 1 320px;
+  }
+
+  .ct-header .litfl-logo {
+    display: block;
+    width: min(100%, 320px);
+    height: auto;
+  }
+
+  .ct-header .litfl-social-nav ul,
+  .ct-header .litfl-mobile-social-nav ul {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+  }
+
+  .ct-header .litfl-social-nav a,
+  .ct-header .litfl-mobile-social-nav a {
+    display: grid;
+    width: 28px;
+    height: 28px;
+    place-items: center;
+    border-radius: 50%;
+    color: var(--litfl-ink);
+    transition: color 140ms ease, background-color 140ms ease;
+  }
+
+  .ct-header .litfl-social-nav a:hover,
+  .ct-header .litfl-mobile-social-nav a:hover {
+    background: #f0f4f7;
+    color: var(--litfl-accent);
+  }
+
+  .ct-header .litfl-social-nav svg,
+  .ct-header .litfl-mobile-social-nav svg {
+    width: 18px;
+    height: 18px;
+    fill: currentColor;
+  }
+
+  .ct-header .litfl-menu-toggle {
+    display: none;
+    width: 42px;
+    height: 42px;
+    padding: 9px;
+    border: 0;
+    border-radius: 4px;
+    background: transparent;
+    color: var(--litfl-ink);
+    cursor: pointer;
+  }
+
+  .ct-header .litfl-menu-toggle-lines,
+  .ct-header .litfl-menu-toggle-lines::before,
+  .ct-header .litfl-menu-toggle-lines::after {
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 2px;
+    background: currentColor;
+    content: "";
+    transition: transform 160ms ease, opacity 160ms ease;
+  }
+
+  .ct-header .litfl-menu-toggle-lines {
+    position: relative;
+  }
+
+  .ct-header .litfl-menu-toggle-lines::before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translateY(-7px);
+  }
+
+  .ct-header .litfl-menu-toggle-lines::after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translateY(7px);
+  }
+
+  .ct-header .litfl-menu-toggle[aria-expanded="true"] .litfl-menu-toggle-lines {
+    background: transparent;
+  }
+
+  .ct-header .litfl-menu-toggle[aria-expanded="true"] .litfl-menu-toggle-lines::before {
+    transform: rotate(45deg);
+  }
+
+  .ct-header .litfl-menu-toggle[aria-expanded="true"] .litfl-menu-toggle-lines::after {
+    transform: rotate(-45deg);
+  }
+
+  .ct-header .litfl-menu-panel {
+    border-block: 1px solid var(--litfl-rule);
+    background: #fff;
+  }
+
+  .ct-header .litfl-menu-panel-inner {
+    min-height: 48px;
+    display: flex;
+    align-items: stretch;
+  }
+
+  .ct-header .litfl-primary-nav {
+    min-width: 0;
+    flex: 1 1 auto;
+  }
+
+  .ct-header .litfl-primary-nav ul {
+    height: 100%;
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+  }
+
+  .ct-header .litfl-primary-nav li {
+    display: flex;
+  }
+
+  .ct-header .litfl-primary-nav a {
+    display: flex;
+    align-items: center;
+    padding: 0.9rem clamp(0.38rem, 0.75vw, 0.7rem);
+    color: var(--litfl-ink);
+    font-size: 0.74rem;
+    font-weight: 700;
+    letter-spacing: 0.045em;
+    line-height: 1;
+    text-transform: uppercase;
+    white-space: nowrap;
+    transition: color 140ms ease;
+  }
+
+  .ct-header .litfl-primary-nav a:hover,
+  .ct-header .litfl-primary-nav a.is-active {
+    color: var(--litfl-accent);
+  }
+
+  .ct-header .litfl-search {
+    position: relative;
+    flex: 0 0 auto;
+    margin-left: 0.45rem;
+  }
+
+  .ct-header .litfl-search > summary {
+    width: 46px;
+    height: 100%;
+    display: grid;
+    place-items: center;
+    color: var(--litfl-ink);
+    cursor: pointer;
+    list-style: none;
+  }
+
+  .ct-header .litfl-search > summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .ct-header .litfl-search > summary::marker {
+    content: "";
+  }
+
+  .ct-header .litfl-search > summary:hover {
+    color: var(--litfl-accent);
+  }
+
+  .ct-header .litfl-search-toggle svg,
+  .ct-header .litfl-search-submit svg {
+    width: 19px;
+    height: 19px;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 2;
+  }
+
+  .ct-header .litfl-desktop-search {
+    position: absolute;
+    z-index: 3;
+    top: calc(100% + 0.65rem);
+    right: 0;
+    width: min(330px, calc(100vw - 2rem));
+    padding: 0.75rem;
+    border: 1px solid var(--litfl-rule);
+    border-radius: 4px;
+    background: #fff;
+    box-shadow: 0 12px 30px rgb(20 43 62 / 16%);
+  }
+
+  .ct-header .litfl-search-form {
+    display: flex;
+    align-items: stretch;
+  }
+
+  .ct-header .litfl-search-form input {
+    min-width: 0;
+    flex: 1 1 auto;
+    padding: 0.68rem 0.75rem;
+    border: 1px solid #cdd6dd;
+    border-right: 0;
+    border-radius: 3px 0 0 3px;
+    background: #fff;
+    color: #24394d;
+    font: inherit;
+  }
+
+  .ct-header .litfl-search-submit {
+    width: 43px;
+    display: grid;
+    flex: 0 0 43px;
+    place-items: center;
+    border: 1px solid var(--litfl-ink);
+    border-radius: 0 3px 3px 0;
+    background: var(--litfl-ink);
+    color: #fff;
+    cursor: pointer;
+  }
+
+  .ct-header .litfl-search-submit:hover {
+    border-color: var(--litfl-accent);
+    background: var(--litfl-accent);
+  }
+
+  .ct-header .litfl-mobile-search,
+  .ct-header .litfl-mobile-social-nav {
+    display: none;
+  }
+
+  body > .ct-header ~ #quarto-header {
+    position: sticky;
+    top: 0;
+    right: auto;
+    left: auto;
+    width: 100%;
+    transform: none !important;
+    transition: none !important;
+    will-change: auto;
+  }
+
+  body.litfl-header-present {
+    padding-top: 0 !important;
+  }
+
+  @media (max-width: 1100px) {
+    .ct-header .litfl-brand-row {
+      min-height: 101px;
+      display: grid;
+      grid-template-columns: 42px minmax(0, 1fr) 42px;
+      gap: 0.5rem;
+    }
+
+    .ct-header .litfl-menu-toggle {
+      display: grid;
+      place-items: center;
+      grid-column: 1;
+    }
+
+    .ct-header .litfl-home-link {
+      width: 100%;
+      display: flex;
+      grid-column: 2;
+      justify-content: center;
+    }
+
+    .ct-header .litfl-logo {
+      width: min(100%, 280px);
+    }
+
+    .ct-header .litfl-social-nav {
+      display: none;
+    }
+
+    .ct-header .litfl-menu-panel {
+      display: none;
+      border-bottom-width: 1px;
+    }
+
+    .ct-header .litfl-menu-panel.is-open {
+      display: block;
+    }
+
+    .ct-header .litfl-menu-panel-inner {
+      display: block;
+      padding-block: 0.65rem 1.25rem;
+    }
+
+    .ct-header .litfl-primary-nav ul {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .ct-header .litfl-primary-nav li {
+      display: block;
+    }
+
+    .ct-header .litfl-primary-nav a {
+      min-height: 43px;
+      padding: 0.75rem 0.7rem;
+      border-bottom: 1px solid #eff2f4;
+      font-size: 0.78rem;
+    }
+
+    .ct-header .litfl-search {
+      display: none;
+    }
+
+    .ct-header .litfl-mobile-search {
+      display: flex;
+      margin-top: 1rem;
+      padding-inline: 0.7rem;
+    }
+
+    .ct-header .litfl-mobile-social-nav {
+      display: flex;
+      justify-content: center;
+      margin-top: 1rem;
+    }
+  }
+
+  @media (max-width: 390px) {
+    .ct-header .litfl-primary-nav ul {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .ct-header *,
+    .ct-header *::before,
+    .ct-header *::after {
+      scroll-behavior: auto !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+</style>
+
+<header class="ct-header" aria-label="Life in the Fast Lane">
+  <div class="litfl-shell litfl-brand-row">
+    <button class="litfl-menu-toggle" type="button" aria-label="Open LITFL menu" aria-controls="litfl-menu-panel" aria-expanded="false">
+      <span class="litfl-menu-toggle-lines" aria-hidden="true"></span>
+    </button>
+
+    <a class="litfl-home-link" href="https://litfl.com/" aria-label="Life in the Fast Lane home">
+      <img class="litfl-logo" src="../../themes/images/litfl-logo.jpg" width="760" height="180" alt="Life in the Fast Lane">
+    </a>
+
+    <nav class="litfl-social-nav" aria-label="LITFL social media">
+      <ul>
+        <li><a href="https://bsky.app/profile/litfl.bsky.social" aria-label="Bluesky"><svg viewbox="0 0 24 24" aria-hidden="true"><path d="M12 10.8C10.9 8.6 7.9 4.9 5.2 3 2.6 1.2 1.6 1.5.9 1.8.1 2.2 0 3.5 0 4.3c0 .8.4 6.6.7 7.6 1 3.4 4.5 4.6 7.5 4-5.2.9-6.5 3.8-3.7 6.7 5.3 5.5 7.2-1.2 7.5-2.8.3 1.6 2.2 8.3 7.5 2.8 2.8-2.9 1.5-5.8-3.7-6.7 3 .6 6.5-.6 7.5-4 .3-1 .7-6.8.7-7.6 0-.8-.1-2.1-.9-2.5-.7-.4-1.7-.7-4.3 1.2-2.7 1.9-5.7 5.6-6.8 7.8Z"></path></svg></a></li>
+        <li><a href="https://www.facebook.com/Medical.Blog/" aria-label="Facebook"><svg viewbox="0 0 24 24" aria-hidden="true"><path d="M14 8.5V6.7c0-.8.5-1 1-1h2.7V1.2L14 1C10.2 1 8.8 3.3 8.8 6.2v2.3H6v5h2.8V23H14v-9.5h3.4l.6-5H14Z"></path></svg></a></li>
+        <li><a href="https://www.instagram.com/litflblog/" aria-label="Instagram"><svg viewbox="0 0 24 24" aria-hidden="true"><path d="M7.2 2h9.6A5.2 5.2 0 0 1 22 7.2v9.6a5.2 5.2 0 0 1-5.2 5.2H7.2A5.2 5.2 0 0 1 2 16.8V7.2A5.2 5.2 0 0 1 7.2 2Zm-.2 2A3 3 0 0 0 4 7v10a3 3 0 0 0 3 3h10a3 3 0 0 0 3-3V7a3 3 0 0 0-3-3H7Zm10.5 1.5a1.25 1.25 0 1 1 0 2.5 1.25 1.25 0 0 1 0-2.5ZM12 7a5 5 0 1 1 0 10 5 5 0 0 1 0-10Zm0 2a3 3 0 1 0 0 6 3 3 0 0 0 0-6Z"></path></svg></a></li>
+        <li><a href="https://vimeo.com/litfl" aria-label="Vimeo"><svg viewbox="0 0 24 24" aria-hidden="true"><path d="M22.6 6.1c-.1 3.6-2.7 8.5-7.8 14.5-2.6 3.1-4.8 4.7-6.6 4.7-1.1 0-2-1-2.8-3L1.6 8.6C.9 6.2.2 5 0 5c.8-.7 2.6-1.8 5.2-3.2 2.5-1.4 4.1-1.3 4.7.4.4 1.1 1.1 4.4 2 9.9.8 5 1.4 7.5 2 7.5.4 0 1.1-.7 2-2.1 1-1.4 1.5-2.5 1.6-3.2.1-1.2-.4-1.8-1.6-1.8-.6 0-1.2.1-1.8.4 1.2-3.9 3.5-5.8 6.8-5.7 2.4 0 3.6 1.3 3.5 3.9Z" transform="scale(.82) translate(1.5 -1)"></path></svg></a></li>
+        <li><a href="https://litfl.com/feed/" aria-label="RSS"><svg viewbox="0 0 24 24" aria-hidden="true"><path d="M5 17.5A2.5 2.5 0 1 1 5 22a2.5 2.5 0 0 1 0-4.5ZM2 9.2v4A8.8 8.8 0 0 1 10.8 22h4A12.8 12.8 0 0 0 2 9.2ZM2 2v4a16 16 0 0 1 16 16h4C22 11 13 2 2 2Z"></path></svg></a></li>
+      </ul>
+    </nav>
+  </div>
+
+  <div class="litfl-menu-panel" id="litfl-menu-panel">
+    <div class="litfl-shell litfl-menu-panel-inner">
+      <nav class="litfl-primary-nav" aria-label="LITFL primary navigation">
+        <ul>
+          <li><a href="https://litfl.com/library/">MENU</a></li>
+          <li><a href="https://litfl.com/">BLOG</a></li>
+          <li><a href="https://litfl.com/ecg-library/">ECG</a></li>
+          <li><a href="https://litfl.com/ccc-critical-care-compendium/">CCC</a></li>
+          <li><a href="https://litfl.com/otd/">OTD</a></li>
+          <li><a href="https://clara.litfl.com/">CLARA</a></li>
+          <li><a href="https://litfl.com/top-100/">TOP 100</a></li>
+          <li><a href="https://litfl.com/eponymictionary/">EPONYM</a></li>
+          <li><a href="https://litfl.com/podcasts/medmastery/">COURSES</a></li>
+          <li><a class="is-active" href="https://www.partone.litfl.com/">PART ONE</a></li>
+          <li><a href="https://intensiveblog.com/">INTENSIVE</a></li>
+          <li><a href="https://litfl.com/about/contact/">CONTACT</a></li>
+        </ul>
+      </nav>
+
+      <details class="litfl-search">
+        <summary class="litfl-search-toggle">
+          <span class="litfl-visually-hidden">Search LITFL</span>
+          <svg viewbox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.8"></circle><path d="m16 16 5 5"></path></svg>
+        </summary>
+        <form class="litfl-search-form litfl-desktop-search" role="search" method="get" action="https://litfl.com/">
+          <label class="litfl-visually-hidden" for="litfl-search-desktop">Search LITFL</label>
+          <input id="litfl-search-desktop" name="s" type="search" placeholder="Search LITFL">
+          <button class="litfl-search-submit" type="submit" aria-label="Submit LITFL search"><svg viewbox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.8"></circle><path d="m16 16 5 5"></path></svg></button>
+        </form>
+      </details>
+
+      <form class="litfl-search-form litfl-mobile-search" role="search" method="get" action="https://litfl.com/">
+        <label class="litfl-visually-hidden" for="litfl-search-mobile">Search LITFL</label>
+        <input id="litfl-search-mobile" name="s" type="search" placeholder="Search LITFL">
+        <button class="litfl-search-submit" type="submit" aria-label="Submit LITFL search"><svg viewbox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.8"></circle><path d="m16 16 5 5"></path></svg></button>
+      </form>
+
+      <nav class="litfl-mobile-social-nav" aria-label="LITFL social media">
+        <ul>
+          <li><a href="https://bsky.app/profile/litfl.bsky.social" aria-label="Bluesky"><svg viewbox="0 0 24 24" aria-hidden="true"><path d="M12 10.8C10.9 8.6 7.9 4.9 5.2 3 2.6 1.2 1.6 1.5.9 1.8.1 2.2 0 3.5 0 4.3c0 .8.4 6.6.7 7.6 1 3.4 4.5 4.6 7.5 4-5.2.9-6.5 3.8-3.7 6.7 5.3 5.5 7.2-1.2 7.5-2.8.3 1.6 2.2 8.3 7.5 2.8 2.8-2.9 1.5-5.8-3.7-6.7 3 .6 6.5-.6 7.5-4 .3-1 .7-6.8.7-7.6 0-.8-.1-2.1-.9-2.5-.7-.4-1.7-.7-4.3 1.2-2.7 1.9-5.7 5.6-6.8 7.8Z"></path></svg></a></li>
+          <li><a href="https://www.facebook.com/Medical.Blog/" aria-label="Facebook"><svg viewbox="0 0 24 24" aria-hidden="true"><path d="M14 8.5V6.7c0-.8.5-1 1-1h2.7V1.2L14 1C10.2 1 8.8 3.3 8.8 6.2v2.3H6v5h2.8V23H14v-9.5h3.4l.6-5H14Z"></path></svg></a></li>
+          <li><a href="https://www.instagram.com/litflblog/" aria-label="Instagram"><svg viewbox="0 0 24 24" aria-hidden="true"><path d="M7.2 2h9.6A5.2 5.2 0 0 1 22 7.2v9.6a5.2 5.2 0 0 1-5.2 5.2H7.2A5.2 5.2 0 0 1 2 16.8V7.2A5.2 5.2 0 0 1 7.2 2Zm-.2 2A3 3 0 0 0 4 7v10a3 3 0 0 0 3 3h10a3 3 0 0 0 3-3V7a3 3 0 0 0-3-3H7Zm10.5 1.5a1.25 1.25 0 1 1 0 2.5 1.25 1.25 0 0 1 0-2.5ZM12 7a5 5 0 1 1 0 10 5 5 0 0 1 0-10Zm0 2a3 3 0 1 0 0 6 3 3 0 0 0 0-6Z"></path></svg></a></li>
+          <li><a href="https://vimeo.com/litfl" aria-label="Vimeo"><svg viewbox="0 0 24 24" aria-hidden="true"><path d="M22.6 6.1c-.1 3.6-2.7 8.5-7.8 14.5-2.6 3.1-4.8 4.7-6.6 4.7-1.1 0-2-1-2.8-3L1.6 8.6C.9 6.2.2 5 0 5c.8-.7 2.6-1.8 5.2-3.2 2.5-1.4 4.1-1.3 4.7.4.4 1.1 1.1 4.4 2 9.9.8 5 1.4 7.5 2 7.5.4 0 1.1-.7 2-2.1 1-1.4 1.5-2.5 1.6-3.2.1-1.2-.4-1.8-1.6-1.8-.6 0-1.2.1-1.8.4 1.2-3.9 3.5-5.8 6.8-5.7 2.4 0 3.6 1.3 3.5 3.9Z" transform="scale(.82) translate(1.5 -1)"></path></svg></a></li>
+          <li><a href="https://litfl.com/feed/" aria-label="RSS"><svg viewbox="0 0 24 24" aria-hidden="true"><path d="M5 17.5A2.5 2.5 0 1 1 5 22a2.5 2.5 0 0 1 0-4.5ZM2 9.2v4A8.8 8.8 0 0 1 10.8 22h4A12.8 12.8 0 0 0 2 9.2ZM2 2v4a16 16 0 0 1 16 16h4C22 11 13 2 2 2Z"></path></svg></a></li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>
+
+<script>
+  (() => {
+    const script = document.currentScript;
+    const header = script?.previousElementSibling;
+    if (!header || header.dataset.litflReady === "true") return;
+
+    const styles = document.querySelector("#litfl-header-styles");
+    if (styles && styles.parentElement !== document.head) document.head.append(styles);
+    document.body.classList.add("litfl-header-present");
+    document.body.insertBefore(header, document.body.firstChild);
+
+    header.dataset.litflReady = "true";
+    const button = header.querySelector(".litfl-menu-toggle");
+    const panel = header.querySelector("#litfl-menu-panel");
+
+    const setMenuOpen = (open, restoreFocus = false) => {
+      button.setAttribute("aria-expanded", String(open));
+      button.setAttribute("aria-label", open ? "Close LITFL menu" : "Open LITFL menu");
+      panel.classList.toggle("is-open", open);
+      if (restoreFocus) button.focus();
+    };
+
+    button.addEventListener("click", () => {
+      setMenuOpen(button.getAttribute("aria-expanded") !== "true");
+    });
+
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape" && button.getAttribute("aria-expanded") === "true") {
+        setMenuOpen(false, true);
+      }
+    });
+
+    document.addEventListener("click", (event) => {
+      if (!header.contains(event.target) && button.getAttribute("aria-expanded") === "true") {
+        setMenuOpen(false);
+      }
+    });
+
+    const desktop = window.matchMedia("(min-width: 1101px)");
+    desktop.addEventListener("change", (event) => {
+      if (event.matches) setMenuOpen(false);
+    });
+  })();
+</script>
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><span class="sidebar-divider">Curriculum</span></li><li class="breadcrumb-item"><a href="../../content/acid_base/principles.html">Acid-Base</a></li><li class="breadcrumb-item"><a href="../../content/acid_base/buffers.html"><span class="chapter-title">Buffers</span></a></li></ol></nav>
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-title">Buffers</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div class="CICM">
+<p>Describe the chemistry of buffer mechanisms and explain their relevant roles in the body</p>
+</div>
+<p>A <strong>buffer</strong> is a solution which consists of a <strong>weak acid and its conjugate base</strong>, that can <strong>resist a change in pH</strong> when a stronger acid or base is added.</p>
+<p><span class="math inline">\(Buffer + H^+ \Leftrightarrow H.Buffer\)</span></p>
+<p>Buffering:</p>
+<ul>
+<li>Is a key part of acid-base homeostasis</li>
+<li>Allows compensation for large changes in acid or alkali load with minimal change in hydrogen ion concentration<br>
+
+<ul>
+<li>In one experiment, dogs were infused with 14,000,000 nmol.L<sup>-1</sup> of H<sup>+</sup>, with a corresponding rise in H<sup>+</sup> of only 36 nmol.L<sup>-1</sup></li>
+</ul></li>
+</ul>
+<p>Efficacy of a buffer system is determined by:</p>
+<ul>
+<li><strong>pKa</strong> of the buffer<br>
+80% of buffering occurs within 1 pH unit of the pKa of the system.</li>
+<li>pH of the solution</li>
+<li><strong>Amount of buffer</strong></li>
+<li>Whether it is an <strong>open or closed system</strong><br>
+An open buffer system can have the amount of chemical at one (or both) ends adjusted by physiological means.
+<ul>
+<li>This alters the concentration of reactants at either end of the equation, thus altering the speed of the reaction via the Law of Mass Action</li>
+</ul></li>
+</ul>
+<section id="buffer-systems" class="level2">
+<h2 class="anchored" data-anchor-id="buffer-systems">Buffer Systems</h2>
+<p>Important buffer systems include:</p>
+<ul>
+<li>Bicarbonate buffer system</li>
+<li>Protein buffer system
+<ul>
+<li>Haemoglobin buffer system</li>
+</ul></li>
+<li>Phosphate buffer system</li>
+</ul>
+<p>All buffer systems are in equilibrium with the same amount of H<sup>+</sup>. This is known as the <strong>isohydric principle</strong>.</p>
+<section id="bicarbonate-buffer-system" class="level3">
+<h3 class="anchored" data-anchor-id="bicarbonate-buffer-system">Bicarbonate Buffer System</h3>
+<p>The bicarbonate buffer system is:</p>
+<ul>
+<li>The most important <span class="glossary" title="Extracellular Fluid">ECF</span> buffer system
+<ul>
+<li>Bicarbonate is formed in the erythrocyte and then secreted into plasma</li>
+<li>Bicarbonate diffuses into the interstitium and is also the dominant fluid buffer in interstitial space</li>
+</ul></li>
+<li>Formed in the erythrocyte</li>
+<li>A <strong>buffer pair</strong> consisting of bicarbonate and carbonic acid<br>
+Carbonic acid is exceedingly short lived in any environment even remotely compatible with life and it rapidly dissociates to HCO<sub>3</sub><sup>-</sup> and H<sup>+</sup>.</li>
+</ul>
+<p>Hydrogen ions are consumed or released by the following reaction:</p>
+<ul>
+<li><span class="math inline">\(H_2CO_3 \Leftrightarrow H CO_3^- + H^+  \Leftrightarrow  CO_3^{2-} + 2H^+\)</span></li>
+<li>Carbonic anhydrase (present in erythrocytes) is an enzyme which allows rapid conversion of H<sub>2</sub>O and CO<sub>2</sub> to H<sub>2</sub>CO<sub>3</sub> (and back again)</li>
+<li>Each stage of the reaction has an individual pKa:
+<ul>
+<li>As the pKa of the <span class="math inline">\(H_2CO_3 \Leftrightarrow H CO_3^- + H^+\)</span>system is 6.1, these substances predominate at physiological pH</li>
+<li>The pKa for the second stage of the reaction is 9.3 and so essentially no CO<sub>3</sub><sup>2-</sup> exists in blood<br>
+Clincically this reaction can be ignored.</li>
+</ul></li>
+<li>In clinical conditions, the reaction becomes:<br>
+<span class="math inline">\(H_2O + CO_2 \Leftrightarrow H_2CO_3 \Leftrightarrow H CO_3^- + H^+\)</span>
+<ul>
+<li>Addition of a strong acid drives the above reaction to the left, forming (briefly) H<sub>2</sub>CO<sub>3</sub> before it dissociates to CO<sub>2</sub> and H<sub>2</sub>O
+<ul>
+<li>CO<sub>2</sub> is then able to be exhaled, which prevents equilibration and allows the system to buffer more acid</li>
+</ul></li>
+</ul></li>
+</ul>
+<p>Bicarbonate is an effective buffer because it is:</p>
+<ul>
+<li>Present in large amounts</li>
+<li><strong>Open at both ends</strong><br>
+
+<ul>
+<li>CO<sub>2</sub> can be adjusted by changing ventilation</li>
+<li>Bicarbonate can be adjusted by changing renal elimination</li>
+<li>This prevents the bicarbonate buffer system from equilibrating and allows it to resist large changes in pH despite its low pKa<br>
+However, because it relies heavily on changes in pulmonary ventilation it is <strong>unable to effectively buffer respiratory acid-base disturbances</strong>.</li>
+</ul></li>
+</ul>
+</section>
+<section id="protein-buffer-system" class="level3">
+<h3 class="anchored" data-anchor-id="protein-buffer-system">Protein Buffer System</h3>
+<ul>
+<li>All proteins contain potential buffer groups<br>
+However, the useful one at physiological pH is the <strong>imidazole groups</strong> of the <strong>histidine residues</strong>.</li>
+<li>Extracellularly, proteins have a small contribution which is entirely due to their low pKa</li>
+<li>Intracellularly proteins have a much greater contribution because:
+<ul>
+<li>Intracellular protein concentration is much greater than extracellular concentration</li>
+<li>Intracellular pH is much lower (~6.8) and closer to their pKa</li>
+</ul></li>
+</ul>
+</section>
+<section id="haemoglobin-buffer-system" class="level3">
+<h3 class="anchored" data-anchor-id="haemoglobin-buffer-system">Haemoglobin Buffer System</h3>
+<p>Haemoglobin is:</p>
+<ul>
+<li>A protein buffer system</li>
+<li>Quantitatively the most important non-bicarbonate buffer system of blood<br>
+This is because haemoglobin:
+<ul>
+<li>Exists in greater amounts than plasma proteins (150g.L<sup>-1</sup> compared to 70g.L<sup>-1</sup>)</li>
+<li>Each molecule contains 38 histidine residues<br>
+This results in 1g of <span class="glossary" title="Haemoglobin">Hb</span> ~3x the buffering capacity of 1g of plasma protein.</li>
+</ul></li>
+</ul>
+<p>In the cell:</p>
+<ul>
+<li>Haemoglobin exists as a weak acid (<span class="math inline">\(HHb\)</span>) as well as its potassium salt (<span class="math inline">\(KHb\)</span>)</li>
+<li>In acidosis:
+<ul>
+<li>Additional H<sup>+</sup> ions are bound to Hb molecules</li>
+<li>HCO<sub>3</sub><sup>-</sup> diffuses down its concentration gradient into plasma<br>
+Electroneutrality is maintained through the inwards movement of Cl<sup>-</sup>.</li>
+<li>Dissolved CO<sub>2</sub> will also form carbamino compounds by binding to the terminal amino groups</li>
+</ul></li>
+<li>The <strong>pKa</strong> of Hb is <strong>variable</strong> depending on whether it has bound oxygen:
+<ul>
+<li><strong>Deoxyhaemoglobin</strong> has a <strong>pKa of 8.2</strong><br>
+Because of its higher pKa, deoxyhaemoglobin will more readily accept H<sup>+</sup> ions which makes it a better buffer of acidic solutions.</li>
+<li><strong>Oxyhaemoglobin</strong> has a <strong>pKa of 6.6</strong></li>
+<li>Both are essentially equidistant from normal pH, and are equally effective buffers</li>
+<li>Quantitatively, <strong>per mmol of oxyhaemoglobin reduced, ~0.7mmol of H<sup>+</sup> can be buffered</strong><br>
+Therefore 0.7mmol of CO<sub>2</sub> can enter blood <strong>without a change in pH</strong>.</li>
+<li>This is the mechanism behind the <strong>Haldane effect</strong>, and why venous blood is only slightly more acidic than arterial blood</li>
+</ul></li>
+</ul>
+</section>
+<section id="phosphate-buffer-system" class="level3">
+<h3 class="anchored" data-anchor-id="phosphate-buffer-system">Phosphate Buffer System</h3>
+<p>Phosphoric acid is:</p>
+<ul>
+<li>Tribasic and can therefore potentially donate three hydrogen ions</li>
+<li>However, only one of these reactions is relevant at physiological pH, with a pKa of 6.8:<br>
+<span class="math inline">\(H_2PO_4^- \Leftrightarrow H^+ + HPO_4^-\)</span></li>
+<li>The quantitative effect is low despite the optimal pKa due to the low plasma concentration of phosphate</li>
+<li>At higher concentrations, such as intracellularly and in urine, it is a significant contributor</li>
+<li>In prolonged acidosis, CaPO<sub>4</sub> can be mobilised from bones and can be considered as an alkali reserve</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="further-reading" class="level2">
+<h2 class="anchored" data-anchor-id="further-reading">Further Reading</h2>
+<ol type="1">
+<li>Alex Yartsev offers an excellent discussion on <a href="http://www.derangedphysiology.com/main/core-topics-intensive-care/acid-base-disturbances/Chapter%202.0.3/buffering-acute-respiratory-acid-base-disturbances">buffering</a> in his excellent trademark prose at <a href="http://www.derangedphysiology.com">Deranged Physiology</a></li>
+<li>Brandis’s <a href="http://www.anaesthesiamcq.com/AcidBaseBook/ab2_2.php">anaesthesia MCQ</a> is required reading</li>
+</ol>
+<hr>
+</section>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
+<ol type="1">
+<li>Barrett KE, Barman SM, Boitano S, Brooks HL. Ganong’s Review of Medical Physiology. 24th Ed. McGraw Hill. 2012.</li>
+<li>Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.</li>
+</ol>
+
+
+<div class="page-last-updated">
+Page last updated on 16/08/2026
+</div>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
