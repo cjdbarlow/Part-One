@@ -7,10 +7,6 @@
 -- - ffmpeg renders stills from videos/gis as PNGs in Pandoc's media
 --     - this means you can choose one or multiple frames from a video to include into a document
 --     - cool, right?
--- bag. Authors can select one frame/time, request a contact sheet, or provide
--- an explicit poster with data-pdf-* attributes. The companion pre-AST filter
--- pdf-media-shortcodes.lua turns only opted-in video shortcodes into Images;
--- keeping this broader filter later preserves legacy HTML-image layout.
 
 local SVG_INSTALL_ERROR = table.concat({
   "PDF output contains SVG images but rsvg-convert is unavailable.",
