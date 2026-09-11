@@ -121,8 +121,9 @@ Pharmacokinetics and pharmacodynamics are affected in:
 Drugs that cross the placenta can be teratogenic to the foetus, besides exerting their usual pharmacological effects.
 :::
 
-`r tufte::margin_note("A teratogen is a drug which adversely affects foetal development. Teratogens have diverse mechanisms that are not well understood")`
-
+:::column-margin
+A teratogen is a drug which adversely affects foetal development. Teratogens have diverse mechanisms that are not well understood.
+:::
 **Pharmacokinetic** factors predominantly **affect placental transfer**, and include:
 
 * **Lipid solubility**\
