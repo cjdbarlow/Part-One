@@ -48,6 +48,8 @@ In summary:
 * Concentrations of everything else is less
 :::
 
+: Composition of Cerebrospinal Fluid Relative to Plasma
+
 | Content | Relative Change |      [CSF]      |
 |---------+-----------------+-----------------|
 | Na^+^   | -               | 140 mmol.L^-1^  |

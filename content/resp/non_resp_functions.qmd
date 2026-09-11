@@ -41,6 +41,8 @@ Complementing this role, the lungs are able to clear thrombi more rapidly than o
 
 The pulmonary endothelium has a variety of effects on drugs and endogenous hormones:
 
+: Pulmonary Endothelial Activation and Inactivation of Circulating Substances
+
 |              Class               |        Activated        |     Inactivated      |
 |----------------------------------+-------------------------+----------------------|
 | **Amines**                       |                         | 5-HT, Noradrenaline  |

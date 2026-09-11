@@ -6,7 +6,7 @@ Inhibit protein synthesis by disrupting the 50S ribosomal subunit. May be bacter
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("clindamycin")
+DrugTable("clindamycin", caption = "Clindamycin")
 ```
 
 ***

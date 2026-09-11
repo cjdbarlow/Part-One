@@ -11,7 +11,7 @@ Amiodarone is an antiarrhythmic agent with a complex mechanism of action and man
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("amiodarone")
+DrugTable("amiodarone", caption = "Amiodarone")
 ```
 
 A **mnemonic** for some of the rarer effects is **BITCH**:
@@ -26,5 +26,5 @@ A **mnemonic** for some of the rarer effects is **BITCH**:
 
 ## References
 
-1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014. Peck and hill
+1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
 2. Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.

@@ -59,6 +59,8 @@ Nociceptors are receptors which respond to a noxious stimulus. Nociceptors:
 
 Key chemical stimulating and sensitising mediators include:
 
+: Chemical Mediators That Stimulate or Sensitise Nociceptors
+
 | Stimulating Mediators | Sensitising Mediators |
 |-----------------------+-----------------------|
 | H^+^                  | Prostaglandins        |

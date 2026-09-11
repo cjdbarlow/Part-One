@@ -56,6 +56,12 @@ This classification is notably incomplete, as some drugs (such as amiodarone) fi
 
 ![](/resources/ventricular-ap-Ic.svg){fig-alt="Ventricular action potential under class Ic sodium-channel blockade, showing markedly slower phase zero depolarisation with little change in duration."}
 
+```{r}
+source("scripts/drugtables.R")
+
+DrugTable("procainamide", "lignocaine", "phenytoin", "flecainide", "mexiletine", caption = "Class I Antiarrhythmics")
+```
+
 
 ## Class II{#ii}
 
@@ -71,6 +77,10 @@ Normal β-adrenergic stimulation has a number of pro-arrhythmic effects:
 
 ![](/resources/pacemaker-betablock.svg){fig-alt="Pacemaker action potential under beta blockade, showing a shallower phase 4 slope and slower time to threshold."}
 
+```{r}
+DrugTable("esmolol", "metoprolol", "atenolol", "propranolol", caption = "Class II Antiarrhythmics")
+```
+
 
 ## Class III{#iii}
 
@@ -82,6 +92,10 @@ Blocking of outward K^+^ channels slows cardiac repolarisation, which increases 
 * Increased inotropy
 
 ![](/resources/ventricular-ap-III.svg){fig-alt="Ventricular action potential under class III potassium-channel blockade, showing prolonged phase 3 repolarisation and refractory period."}
+
+```{r}
+DrugTable("amiodarone", "sotalol", caption = "Class III Antiarrhythmics")
+```
 
 Due to the prolonged repolarisation, they will also cause a **long QT** (though in the case of amiodarone this is not associated with an increased risk of TPD).
 
@@ -97,10 +111,16 @@ This suppresses ectopy by reducing calcium leak from sarcoplasmic reticulum.
 
 ![](/resources/pacemaker-cablock.svg){fig-alt="Pacemaker action potential under calcium-channel blockade, showing reduced phase 4 and phase zero slopes and slower time to threshold."}
 
+```{r}
+DrugTable("verapamil", "diltiazem", caption = "Class IV Antiarrhythmics")
+```
+
 
 ## Alternatives to Vaughan Williams
 
 As the Vaughan Williams classification system does not neatly divide agents, and some agents do not fit into any category, they may also be classified by their uses:
+
+: Alternative Antiarrhythmic Selection by Indication
 
 |Indication|Examples|
 |--|--|
@@ -109,10 +129,14 @@ As the Vaughan Williams classification system does not neatly divide agents, and
 |SVT/VT|Amiodarone, flecainide procainamide, sotalol|
 |Digoxin toxicity|Phenytoin|
 
+```{r}
+DrugTable("digoxin", "adenosine", "magnesium_sulfate", caption = "Non-Vaughan Williams Antiarrhythmics")
+```
+
 ***
 
 ## References
 
 1. Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.
-2. Brunton L, Chabner BA, Knollman B. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill Education - Europe. 2011.
+2. Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
 3. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.

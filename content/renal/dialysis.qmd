@@ -106,10 +106,10 @@ Pharmacokinetics are unpredictable, but are broadly affected by:
     Patients residual GFR will also affect pharmacokinetics.
 
 
-### An Incomplete List of Drugs 
+: An Incomplete List of Drugs Removed and Not Removed by Renal Replacement Therapy
 
 |                           Drugs Removed on RRT                           | Drugs not removed on RRT |
-+--------------------------------------------------------------------------+--------------------------+
+|--------------------------------------------------------------------------|--------------------------|
 | Barbiturates                                                             | Digoxin                  |
 | Lithium                                                                  | TCAs                     |
 | Aspirin                                                                  | Phenytoin                |

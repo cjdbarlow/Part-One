@@ -27,6 +27,8 @@ The membrane is not perfectly impermeable to sodium, and Na^+^ will leak in down
     * The 3Na^+^-2K^+^ ATPase pumps **three sodium ions** outside in exchange for **two potassium ions** in order to maintain these gradients\
     As there is an unequal exchange of charge, this pump is **electrogenic**.
 
+: Typical Intracellular and Extracellular Ion Concentrations
+
 |  Ion  | [Intracellular] | [Extracellular] |
 |-------+-----------------+-----------------|
 | Na^+^ |              15 |             140 |

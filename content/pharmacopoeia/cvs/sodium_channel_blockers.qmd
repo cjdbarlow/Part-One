@@ -22,7 +22,7 @@ In general:
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("procainamide", "lignocaine", "flecainide")
+DrugTable("procainamide", "lignocaine", "flecainide", caption = "Sodium-Channel Blockers")
 ```
 
 

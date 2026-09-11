@@ -12,13 +12,15 @@ Describe the comparative pharmacology of nitrous oxide, ~~halothane, enflurane, 
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("nitrous_oxide")
+DrugTable("nitrous_oxide", caption = "Nitrous Oxide")
 ```
 
 ## Entonox
 
 
 Entonox is a 50/50 mixture of nitrous oxide and oxygen, used as analgesia in labor and minor procedures.
+
+: Properties of Entonox
 
 +--------------------------------------+-----------------------------------------------------------------------------------------------------------+
 | Property                             | Entonox (50% O~2~, 50% N~2~O)                                                                             |

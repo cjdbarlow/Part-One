@@ -18,8 +18,10 @@ Anticholinesterases can be:
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("neostigmine")
+DrugTable("neostigmine", caption = "Neostigmine")
 ```
+
+: Effects of Organophosphate Anticholinesterases
 
 |Property|Organophosphates|
 |--|--|

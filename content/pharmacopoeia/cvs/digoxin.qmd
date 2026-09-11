@@ -19,10 +19,10 @@ Parasympathomimetic effects by increasing ACh release at cardiac muscarinic rece
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("digoxin")
+DrugTable("digoxin", caption = "Digoxin")
 ```
 
-## Interactions
+: Digoxin Drug Interactions
 
 |Interaction|Drug|
 |--|--|

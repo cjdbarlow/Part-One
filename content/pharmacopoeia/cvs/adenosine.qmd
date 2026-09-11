@@ -6,10 +6,10 @@ Adenosine acts via A~1~ adenosine receptors in the SA and AV node, which when st
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("adenosine")
+DrugTable("adenosine", caption = "Adenosine")
 ```
 
-## Interactions
+: Adenosine Drug Interactions
 
 |Interaction|Drug|
 |--|--|

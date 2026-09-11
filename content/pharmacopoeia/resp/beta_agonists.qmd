@@ -3,7 +3,7 @@
 
 *This covers the inhaled β-agonists used for bronchodilation. Information on catecholamines and sympathomimetics with activity on β-receptors is covered under [adrenergic vasoactives](../cvs/adrenergic_drugs.qmd).*
 
-## Common Features
+: Pharmacodynamic Effects of Beta Agonists
 
 |Pharmacodynamic Effects|β-agonists|
 |--|--|
@@ -13,12 +13,10 @@
 |**Metabolic**|Hypokalaemia from β~2~ stimulation of Na^+^/K^+^ ATPase, hyperglycaemia.|
 |**Other**|Potentiates non-depolarising muscle relaxants|
 
-## Differences
-
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("salbutamol", "salmeterol")
+DrugTable("salbutamol", "salmeterol", caption = "Comparison of Beta-Agonists")
 ```
 
 

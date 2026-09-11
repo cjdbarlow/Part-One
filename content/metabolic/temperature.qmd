@@ -123,6 +123,8 @@ Temperature sensation runs from cutaneous receptors via the spinothalamic tracts
 
 ## Effector Responses
 
+: Thermoregulatory Responses to Heat and Cold
+
 +------------------+--------------------------------------------+----------------------------------+
 |                  | ↑ Heat loss                                | ↓ Heat loss/↑ Heat gain          |
 +==================+============================================+==================================+

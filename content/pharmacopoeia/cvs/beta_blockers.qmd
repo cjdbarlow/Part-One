@@ -43,7 +43,7 @@
     * Migraine prophylaxis
 
 
-## Common Features
+: Common Effects of Beta Blockers
 
 |Property|Action|
 |--|--|
@@ -54,12 +54,10 @@
 |**Metabolic**|↓ Insulin release and blunted hypoglycaemic response (β~2~ effect).
 |**Interactions**|Contraindicated with cardioselective Ca^2+^ channel blockers. due to extreme ↓ HR & ↓ inotropy.|
 
-## Comparison of Beta Blockers
-
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("esmolol", "metoprolol", "atenolol", "propranolol", "labetalol")
+DrugTable("esmolol", "metoprolol", "atenolol", "propranolol", "labetalol", caption = "Comparison of Beta-Blockers")
 ```
 
 ***

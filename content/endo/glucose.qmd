@@ -12,7 +12,7 @@ Insulin and glucagon act on the liver to continually adjust the relative rates o
 * Kidney\
     * A transient glycosuria may be seen as hyperglycaemia decreases renal absorption of glucose
 
-:::column-margin
+::: {.column-margin .pdf-body-table}
 : Physiological Responses to Hypoglycaemia
 
 | BSL (mmol.L^-1^) | Symptoms                      | Endocrine Response                       |

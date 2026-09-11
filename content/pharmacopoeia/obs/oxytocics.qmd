@@ -6,7 +6,7 @@ Oxytocics are agents which increase the force of uterine contraction.
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("oxytocin", "ergometrine", "dinoprost", "carboprost")
+DrugTable("oxytocin", "ergometrine", "dinoprost", "carboprost", caption = "Oxytocics")
 ```
 
 ***

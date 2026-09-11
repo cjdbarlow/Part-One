@@ -9,7 +9,7 @@ These agents competitively antagonise ACh at M~3~ receptors in bronchial smooth 
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("ipratropium", "tiotropium")
+DrugTable("ipratropium", "tiotropium", caption = "Respiratory Antimuscarinics")
 ```
 
 ***

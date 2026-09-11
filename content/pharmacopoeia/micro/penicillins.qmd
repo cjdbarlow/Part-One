@@ -5,7 +5,7 @@
 * Penicillins bind to penicillin binding proteins (**PBPs**) in the bacterial wall
 * Penicillins only rarely achieve complete eradication of sensitive organisms without addition of a **synergistic antibiotic** (such as gentamicin)
 
-## Common Features
+: Common Pharmacological Features of Penicillins
 
 |Property|Effect
 |--|--|
@@ -22,15 +22,33 @@
   * **Clavulanic acid** and **tazobactam inhibit β-lactamase**, which can render otherwise resistant bacteria sensitive
   * Notably, flucloxacillin has a modified beta-lactam ring that is not sensitive to β-lactamases
 
-## Comparison of Penicillins
+: Comparison of Penicillin Classes
 
-::: {.landscape-table}
 ||Narrow spectrum, naturally occurring|Narrow spectrum, synthetic|Extended-spectrum|Antipseudomonal|
 |--|--|--|--|--|
 |**Examples**|**Benzylpenicillin**, phenoxymethylpenicillin|**Flucloxacillin**|**Ampicillin**, amoxacillin| **Piperacillin**, ticarcillin|
 |**Indications**|Gram positives and anaerobes, particularly *streptococci* and meningococci. Also *listeria*, *Clostridia*, and *Treponema*.| Gram positive cocci, particularly *staphylococci* but also streptococci. | Gram positive, particularly *enterococci*. Some gram negative.|Gram positive, gram negative including pseudomonas.|
 |**Other bits**| Highly bactericidal|Less active than benzylpenicillin on organisms sensitive to both.|Can penetrate some gram-negatives.|Gram negative cover.||
-:::
+
+## Individual Penicillins
+
+```{r}
+source("scripts/drugtables.R")
+
+DrugTable("benzylpenicillin", "phenoxymethylpenicillin", caption = "Naturally Occurring Penicillins")
+```
+
+```{r}
+DrugTable("flucloxacillin", caption = "Anti-Staphylococcal Penicillins")
+```
+
+```{r}
+DrugTable("ampicillin", "amoxicillin", caption = "Aminopenicillins")
+```
+
+```{r}
+DrugTable("piperacillin", "ticarcillin", caption = "Antipseudomonal Penicillins")
+```
 
 ***
 
@@ -38,5 +56,5 @@
 
 1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.\
 2. Barza M, Weinstein L. [Pharmacokinetics of the penicillins in man](https://www.ncbi.nlm.nih.gov/pubmed/797501). Clin Pharmacokinet. 1976;1(4):297-308.
-3. Brunton L, Chabner BA, Knollman B. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill Education - Europe. 2011.
+3. Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
 4. CICM July/September 2007

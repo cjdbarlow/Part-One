@@ -77,9 +77,37 @@ Over 1000 enzymes, with ~50 functionally active.
 ### Key CYP450 Enzymes
 
 
-|  CYP2B6  |             CYP2C9            |                   CYP2C19                    |              CYP2D6             |                  CYP2E1                  |                                CYP3A4                                |  CYP3A5  |
-|----------+-------------------------------+----------------------------------------------+---------------------------------+------------------------------------------+----------------------------------------------------------------------+----------|
-| Propofol | Propofol, Parecoxib, Warfarin | Diazepam, Omeprazole, Clopidogrel, Phenytoin | Codeine, Metoprolol, Flecainide | Volatile anaesthetic agents, paracetamol | Common benzodiazepines, Fentanyl, Alfentanil, Lignocaine, Vecuronium | Diazepam |
+: Examples of Drugs Metabolised by Major CYP450 Isoenzymes
+
++---------+-------------------------------+
+| Enzyme  | Substances                    |
++=========+===============================+
+| CYP2B6  | - Propofol                    |
++---------+-------------------------------+
+| CYP2C9  | - Propofol                    |
+|         | - Parecoxib                   |
+|         | - Warfarin                    |
++---------+-------------------------------+
+| CYP2C19 | - Diazepam                    |
+|         | - Omeprazole                  |
+|         | - Clopidogrel                 |
+|         | - Phenytoin                   |
++---------+-------------------------------+
+| CYP2D6  | - Codeine                     |
+|         | - Metoprolol                  |
+|         | - Flecainide                  |
++---------+-------------------------------+
+| CYP2E1  | - Volatile anaesthetic agents |
+|         | - Paracetamol                 |
++---------+-------------------------------+
+| CYP3A4  | - Common benzodiazepines      |
+|         | - Fentanyl                    |
+|         | - Alfentanil                  |
+|         | - Lignocaine                  |
+|         | - Vecuronium                  |
++---------+-------------------------------+
+| CYP3A5  | - Diazepam                    |
++---------+-------------------------------+
 
 **CYP2D6**:
 
@@ -166,7 +194,7 @@ Elimination is **capacity-dependent**.
     Drugs have good PO bioavailability.
     * **Dependent on hepatocyte function and protein binding**
 
-### Factors Affecting Hepatic Metabolism
+: Drug and Patient Factors Affecting Hepatic Metabolism
 
 |Drug Factors|Patient Factors|
 |--|--|

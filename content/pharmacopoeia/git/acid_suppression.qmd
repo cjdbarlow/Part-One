@@ -4,7 +4,7 @@
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("sodium_citrate", "aluminium_hydroxide", "calcium_carbonate", "omeprazole", "ranitidine")
+DrugTable("sodium_citrate", "aluminium_hydroxide", "calcium_carbonate", "omeprazole", "ranitidine", caption = "Acid-Suppressions")
 ```
 
 

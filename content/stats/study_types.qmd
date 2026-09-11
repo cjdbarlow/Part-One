@@ -106,6 +106,8 @@ Because of these weaknesses, positive meta-analyses should be considered largely
 Negative meta-analyses can probably be accepted
 :::
 
+: Practical Strengths and Limitations of Meta-Analysis
+
 |                            Strengths                            |           Weaknesses          |
 |-----------------------------------------------------------------+-------------------------------|
 | Enhanced precision of estimates of effect                       | Publication bias              |

@@ -8,18 +8,18 @@ L-type channels exist in myocardium, nodal, and vascular smooth muscle.
     * Variable affinity for each causes a preference for either nodal and inotropic, or vascular effects
 * Prevent Ca^2+^ entry into cells in a use-dependent fashion
 
+: Classification of Calcium Channel Blockers
+
 |Class|Chemical Structure|Drugs|
 |--|--|--|
 |Class I|Phenylalkylamines|Verapamil|
 |Class II|Dihydropyridines|Nifedipine, amlodipine, nimodipine|
 |Class III|Benzothiazepines|Diltiazem|
 
-## Comparison of Calcium Channel Blockers
-
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("verapamil", "amlodipine", "diltiazem")
+DrugTable("verapamil", "amlodipine", "diltiazem", caption = "Comparison of Calcium-Channel Blockers")
 ```
 
 ***

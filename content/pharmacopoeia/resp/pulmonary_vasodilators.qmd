@@ -4,7 +4,7 @@
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("nitric_oxide", "iloprost", "sildenafil")
+DrugTable("nitric_oxide", "iloprost", "sildenafil", caption = "Pulmonary Vasodilators")
 ```
 
 ***

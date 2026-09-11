@@ -12,6 +12,8 @@ Tocolytics are agents which decrease uterine tone. Tocolytics include:
 
 All tocolytics are discussed in more detail elsewhere - this covers just the mechanism of action of their uterine effects.
 
+: Comparison of Tocolytic Drug Classes
+
 |Drug|β~2~-agonists|Ca^2+^-channel antagonists|COX Inhibitors|
 |--|--|--|--|
 |**Example**|Salbutamol, Terbutaline|Nifedipine|Indomethacin

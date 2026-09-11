@@ -55,12 +55,10 @@ Long-acting insulins include:
 * Insulin glargine (Lantus)
 * Insulin detemir (Levemir)
 
-## Pharmacokinetics of Exogenous Insulin Preparations
-
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("insulin_aspart", "insulin_lispro", "insulin_isophane", "insulin_glargine", "insulin_detemir")
+DrugTable("insulin_aspart", "insulin_lispro", "insulin_isophane", "insulin_glargine", "insulin_detemir", caption = "Exogenous Insulin Preparations")
 ```
 
 ***

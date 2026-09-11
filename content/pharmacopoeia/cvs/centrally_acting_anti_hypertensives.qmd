@@ -4,7 +4,7 @@
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("clonidine", "methyldopa")
+DrugTable("clonidine", "methyldopa", caption = "Centrally Acting Antihypertensives")
 ```
 
 

@@ -6,7 +6,7 @@ Selectively inhibit the cysteinyl leukotriene receptor, increased activity of wh
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("montelukast")
+DrugTable("montelukast", caption = "Montelukast")
 ```
 
 ***

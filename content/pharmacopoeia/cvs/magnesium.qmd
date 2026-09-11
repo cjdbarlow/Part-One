@@ -13,10 +13,10 @@ Mg^2+^ is a cation that is important for neurotransmission and neuromuscular exc
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("magnesium_sulfate")
+DrugTable("magnesium_sulfate", caption = "Magnesium Sulfate")
 ```
 
-## Clinical Effects of Magnesium
+: Serum Magnesium Concentration and Clinical Effects
 
 |[Plasma]|Effect|
 |--|--|

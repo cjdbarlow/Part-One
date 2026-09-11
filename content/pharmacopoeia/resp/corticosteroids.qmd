@@ -12,7 +12,7 @@ Corticosteroids have multiple indications including:
 * Chemotherapy
 * Immunosuppression following transplantation
 
-## Common Features
+: Systemic Effects of Corticosteroids
 
 |System|Effect|
 |--|--|
@@ -26,12 +26,10 @@ Corticosteroids have multiple indications including:
 |**Immune**|↓ Transudate production, ↓ production of inflammatory mediators, ↓ macrophage function, ↓ transport of lymphocytes, ↓ T-cell function, ↓ antibody production, ↑ susceptibility to infection, 
 |**Toxic Effects**|Relative steroid deficiency in adrenal suppressed individuals with infection or surgery|
 
-## Comparison of Corticosteroids
-
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("hydrocortisone", "prednisolone", "methylprednisolone", "dexamethasone")
+DrugTable("hydrocortisone", "prednisolone", "methylprednisolone", "dexamethasone", caption = "Comparison of Corticosteroids")
 ```
 
 ***

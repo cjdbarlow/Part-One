@@ -14,7 +14,7 @@ Local anaesthetic-like effect.
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("ketamine")
+DrugTable("ketamine", caption = "Ketamine")
 ```
 
 

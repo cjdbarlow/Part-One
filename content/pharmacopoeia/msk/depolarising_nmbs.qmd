@@ -10,7 +10,7 @@ Succinylcholine binds to the nicotinic ACh receptor causing depolarisation. It c
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("suxamethonium")
+DrugTable("suxamethonium", caption = "Suxamethonium")
 ```
 
 ## Adverse Effects
@@ -40,6 +40,8 @@ Initial blockade is termed **Phase I**, which is a partial depolarising block. S
   * Desensitisation of the post-junctional receptor
 
 Key differences include:
+
+: Comparison of Phase I and Phase II Neuromuscular Block
 
 |Property|Phase I Block|Phase II Block
 |--|--|--|

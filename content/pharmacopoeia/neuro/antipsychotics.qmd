@@ -21,8 +21,8 @@ Higher affinity for D~2~ receptors (subsequently less blockade of 5-HT~2~), caus
 * **Atypical** or 2^nd^ generation, which typically have fewer motor effects\
 Have greater effect on negative symptoms.
 
-## Common Features of Antipsychotics
 
+: Common Features of Antipsychotics
 
 |Property|Drug
 |--|--|
@@ -53,13 +53,11 @@ Motor disturbances from antipsychotic use are termed EPSEs, and are divided into
     * They are **irreversible**, and worsen when therapy is stopped
 
 
-## Comparison of Antipsychotics
-
 
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("haloperidol", "olanzapine", "clozapine")
+DrugTable("haloperidol", "olanzapine", "clozapine", caption = "Comparison of Antipsychotics")
 ```
 
 ***

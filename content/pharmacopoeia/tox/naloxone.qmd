@@ -10,7 +10,7 @@ In combination with PO oxycodone.
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("naloxone")
+DrugTable("naloxone", caption = "Naloxone")
 ```
 
 ***

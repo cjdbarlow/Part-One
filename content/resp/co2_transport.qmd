@@ -29,6 +29,8 @@ In blood, CO~2~ is stored as:
 * Dissolved gas
 * Carbamino compounds
 
+: Forms of Carbon Dioxide in Arterial and Venous Blood
+
 |         Form        | Arterial Blood | Additional CO~2~ in venous blood |
 |---------------------+----------------+----------------------------------|
 | Bicarbonate         | 90%            | 60%                              |
@@ -121,6 +123,8 @@ CO~2~ in the body can be considered as a three-compartment model:
           * In acute hyperventilation, CO~2~ is mobilised from tissues resulting in increased CO~2~ elimination
 
 ### CO~2~ Cascade
+
+: Normal Partial Pressures Along the Carbon Dioxide Cascade
 
 |     Region    | Value (mmHg) |
 |---------------+--------------|

@@ -11,7 +11,7 @@ Non-β-lactam agents that inhibit cell wall synthesis. They are:
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("vancomycin")
+DrugTable("vancomycin", caption = "Vancomycin")
 ```
 
 ***
@@ -19,5 +19,5 @@ DrugTable("vancomycin")
 ## References
 
 1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.\
-2. [Wellington ICU Drug Manual](http://drug.wellingtonicu.com/)
+2. Young P, Psirides A. Wellington ICU Drug Manual. 2nd Ed. Wellington Regional Hospital. 2013.
 3. Rybak MJ. [The pharmacokinetic and pharmacodynamic properties of vancomycin](https://academic.oup.com/cid/article/42/Supplement_1/S35/275535). Clin Infect Dis. 2006 Jan 1;42 Suppl 1:S35-9.

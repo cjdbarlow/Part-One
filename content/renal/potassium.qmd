@@ -45,6 +45,8 @@ As per the Nernst equation.
 <img src="/resources/ventricular-ap-hyperk.svg">
 
 
+: ECG Findings at Increasing Serum Potassium Concentrations
+
 | Serum [K^+^] (mmol/L) |               ECG Findings              |
 |-----------------------+-----------------------------------------|
 | 5.5-6.5               | Tall tented T waves                     |

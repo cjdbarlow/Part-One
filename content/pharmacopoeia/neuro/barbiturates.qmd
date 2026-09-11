@@ -10,7 +10,7 @@ Increases the duration of channel opening, causing effective hyperpolarisation d
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("thiopentone")
+DrugTable("thiopentone", caption = "Thiopentone")
 ```
 
 ***

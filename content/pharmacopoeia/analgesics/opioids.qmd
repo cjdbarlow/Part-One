@@ -1,7 +1,7 @@
 # Opioids
 
 
-## Common Features
+: Common Pharmacological Features of Opioids
 
 |Property|Effect
 |--|--|
@@ -15,26 +15,19 @@
 |**GIT**|↓ Peristalsis and GIT secretions with subsequent constipation|
 |**Immunological**|Impaired: chemotaxis, lymphocyte proliferation, and antibody production|
 
-## Comparison of Naturally Occurring Opioids
-
-
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("morphine")
+DrugTable("morphine", caption = "Morphine")
 ```
 
-## Comparison of Semisynthetic Opioids
-
 ```{r}
-DrugTable("oxycodone", "buprenorphine")
+DrugTable("oxycodone", "buprenorphine", caption = "Comparison of Semisynthetic Opioids")
 ```
 
 
-## Comparison of Synthetic Opioids
-
 ```{r}
-DrugTable("fentanyl", "alfentanil", "remifentanil")
+DrugTable("fentanyl", "alfentanil", "remifentanil", caption = "Comparison of Synthetic Opioids")
 ```
 
 

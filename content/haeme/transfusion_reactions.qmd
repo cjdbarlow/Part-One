@@ -14,9 +14,7 @@ A transfusion reaction is an adverse event associated with the transfusion of wh
 * Acute (< 24 hours) or delayed (> 24 hours)
 * Immunological or non-immunological
 
-## Immunological Acute Reactions
-
-: Acute, Immunological Transfusion Reactions
+: Acute Immunological Transfusion Reactions
 
 | Reaction                | Incidence                      | Mechanism                                                                                                                                                                                              |
 |-------------------------|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -28,9 +26,7 @@ A transfusion reaction is an adverse event associated with the transfusion of wh
 | TRALI                   | Variable                       | Donor plasma HLA activates recipient pulmonary neutrophils, causing fever, shock, and non-cardiogenic pulmonary oedema                                                                                 |
 
 
-## Non-Immunological Acute Reactions
-
-: Acute, non-Immunological Transfusion Reactions
+: Acute non-Immunological Transfusion Reactions
 
 | Reaction                                        | Incidence                             | Mechanism                                                                                                                                                              |
 |-------------------------------------------------|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -40,9 +36,7 @@ A transfusion reaction is an adverse event associated with the transfusion of wh
 | Transfusion Related Circulatory Overload (TACO) | <1:100                                | Rapid increase in intravascular volume in patients with poor circulatory compliance or chronic anaemia. May result in pulmonary oedema and be confused with TRALI.     |
 
 
-## Delayed Immunological Reaction
-
-: Delayed, Immunological Transfusion Reactions
+: Delayed Immunological Transfusion Reactions
 
 | Reaction                                | Incidence                                 | Mechanism                                                                                                                           |
 |-----------------------------------------|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
@@ -52,9 +46,7 @@ A transfusion reaction is an adverse event associated with the transfusion of wh
 | Alloimmunisation                        | 1:100 (RBC antigens), 1:10 (HLA antigens) | Previous sensitisation leading to  antibody production on re-exposure.                                                              |
 | Transfusion-related Immune Modulation   | Not known                                 | Transient immunosuppression following transfusion potentially due to cytokine release from leukocytes                               |
 
-## Delayed Non-Immunological Reaction
-
-: Delayed, non-Immunological Transfusion Reactions
+: Delayed non-Immunological Transfusion Reactions
 
 | Reaction      | Incidence                                                   | Mechanism                                                                           |
 |---------------|-------------------------------------------------------------|-------------------------------------------------------------------------------------|

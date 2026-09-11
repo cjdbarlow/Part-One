@@ -21,20 +21,16 @@ This covers the pharmacology of specific catecholamines and sympathomimetics. Th
     Drugs which act on adrenoreceptors but are not classified as catecholamines due to their chemical structure.
 
 
-## Comparison of Naturally Occurring Vasoactives
-
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("adrenaline", "noradrenaline" , "dopamine")
+DrugTable("adrenaline", "noradrenaline" , "dopamine", caption = "Naturally Occurring Adrenergic Vasoactives")
 ```
 
 
-## Comparison of Synthetic Adrenergic Vasoactives
-
 
 ```{r}
-DrugTable("dobutamine", "isoprenaline", "ephedrine", "metaraminol", "phenylephrine")
+DrugTable("dobutamine", "isoprenaline", "ephedrine", "metaraminol", "phenylephrine", caption = "Synthetic Adrenergic Vasoactives")
 ```
 
 

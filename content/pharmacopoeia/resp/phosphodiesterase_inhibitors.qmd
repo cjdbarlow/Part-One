@@ -6,7 +6,7 @@ Methylxanthines non-selectively inhibit phosphodiesterase, which results in redu
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("theophylline")
+DrugTable("theophylline", caption = "Theophylline")
 ```
 
 ***

@@ -6,7 +6,7 @@ Competitive antagonist and inverse agonist of the benzodiazepine receptor.
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("flumazenil")
+DrugTable("flumazenil", caption = "Flumazenil")
 ```
 
 

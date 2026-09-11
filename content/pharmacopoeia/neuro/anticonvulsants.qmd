@@ -13,7 +13,7 @@ In **general**, anticonvulsants are:
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("phenytoin", "sodium_valproate", "carbamazepine", "levetiracetam")
+DrugTable("phenytoin", "sodium_valproate", "carbamazepine", "levetiracetam", caption = "Anticonvulsants")
 ```
 
 ***

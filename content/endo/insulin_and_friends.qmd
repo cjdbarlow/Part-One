@@ -20,6 +20,8 @@ Circulatory **half-life** of **~5min**.
 
 Insulin binds to a specific insulin receptor (a membrane-spanning protein composed of α and β subunits)  on the cell membrane. The complex is internalised, and its effects are mediated by tyrosine kinase.
 
+: Actions of Insulin
+
 +-------------+-------------------------------+----------------------------------+--------------------------+
 |             | Seconds                       | Minutes                          | Hours                    |
 +=============+===============================+==================================+==========================+
@@ -72,6 +74,8 @@ Glucagon is a **polypeptide** hormone, and is:
 * Metabolised predominantly in the liver\
 Secreted directly into the portal vein, and **undergoes first-pass metabolism** resulting in low circulating levels.
 
+: Physiological Effects of Glucagon
+
 +---------------+------------------------+
 | System        | Effect                 |
 +===============+========================+
@@ -97,6 +101,8 @@ Secreted directly into the portal vein, and **undergoes first-pass metabolism** 
 +---------------+------------------------+
 
 Secretion of glucagon is influenced by a number of factors:
+
+: Factors Affecting Glucagon Secretion
 
 +------------------------------+------------------+
 | Stimulate Release            | Inhibit Release  |

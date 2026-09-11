@@ -6,7 +6,7 @@ Direct thrombin inhibitors prevent cleavage of fibrinogen to fibrin, and are the
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("dabigatran")
+DrugTable("dabigatran", caption = "Dabigatran")
 ```
 
 ***

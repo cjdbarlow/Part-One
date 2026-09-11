@@ -17,6 +17,8 @@ Hypersensitivity reactions are:
 * Classified by mechanism using the **Gel and Coombs system**\
 Common used but fails to classify more complex disease states.
 
+: Gell and Coombs Classification of Hypersensitivity Reactions
+
 | Type                                     | Timing             | Mediator      | Pathophysiology                                                                                                                            | Disease example(s)                                     |
 |------------------------------------------|--------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
 | **Type I** - Immediate hypersensitivity  | Seconds to minutes | IgE           | Basophil and mast cell degranulation                                                                                                       | Anaphylaxis (systemic), Atopy (local)                  |

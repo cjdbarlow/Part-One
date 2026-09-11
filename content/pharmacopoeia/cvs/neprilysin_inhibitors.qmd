@@ -32,8 +32,8 @@ Used for:
 * Hypertension
 * Heart failure with reduced ejection fraction
 
-## Common Features of Neprilysin Inhibitors
 
+: Common Effects of Neprilysin Inhibitors
 
 |Property|Drug
 |--|--|

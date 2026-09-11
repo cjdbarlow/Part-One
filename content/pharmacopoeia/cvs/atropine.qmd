@@ -6,7 +6,7 @@ Naturally occurring tertiary amine which competitively antagonises ACh at the mu
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("atropine")
+DrugTable("atropine", caption = "Atropine")
 ```
 
 ***

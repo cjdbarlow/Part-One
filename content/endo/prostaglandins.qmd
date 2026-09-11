@@ -29,7 +29,7 @@ These undergo further metabolism to produce:
 <img src="/resources/prostaglandins.svg">
 
 
-## Effects
+: Physiological Effects of Prostanoids
 
 +----------------------+----------+---------------------+------------------------------------+---------------------------+---------------------+----------------------+
 | Receptor             | Receptor | Respiratory         | Vascular                           | GIT                       | GU                  | Other                |

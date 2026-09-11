@@ -55,7 +55,7 @@ Mechanism of action by multiple effects, including:
         * Selegiline
   * Discontinuation syndrome may occur if abruptly ceased
 
-::: {.landscape-table}
+: Comparison of Antidepressant Classes
 
 +------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------+------------------------------------------------+
 | Property               | Tricyclic Antidepressants                                                | Selective Serotonin Reuptake Inhibitors                                  | Monoamine Oxidase Inhibitors                   |
@@ -102,7 +102,21 @@ Mechanism of action by multiple effects, including:
 |                        | - Surgical stress                                                        |                                                                          |                                                |
 +------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------+------------------------------------------------+
 
-:::
+## Individual Antidepressants
+
+```{r}
+source("scripts/drugtables.R")
+
+DrugTable("amitriptyline", caption = "Tricyclic Antidepressants")
+```
+
+```{r}
+DrugTable("fluoxetine", "venlafaxine", caption = "Serotonin-Reuptake Inhibitors")
+```
+
+```{r}
+DrugTable("phenelzine", "isocarboxazid", "tranylcypromine", "moclobemide", "selegiline", caption = "Monoamine Oxidase Inhibitors")
+```
 
 
 ## Serotonin Syndrome

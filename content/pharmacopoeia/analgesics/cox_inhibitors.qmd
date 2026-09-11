@@ -65,12 +65,10 @@ A consequence of impaired mucosal secretion through COX-1 inhibition. This can r
 
 * **Transaminitis** may occur following NSAID use
 
-## Comparison of COX Inhibitors
-
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("aspirin", "diclofenac", "ketorolac", "ibuprofen", "celecoxib", "parecoxib")
+DrugTable("aspirin", "diclofenac", "ketorolac", "ibuprofen", "celecoxib", "parecoxib", caption = "Comparison of COX Inhibitors")
 ```
 
 

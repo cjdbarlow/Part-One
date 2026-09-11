@@ -6,7 +6,7 @@ Antifibrinolytics include aprotinin, aminocaproic acid, and **tranexamic acid**.
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("tranexamic_acid")
+DrugTable("tranexamic_acid", caption = "Tranexamic Acid")
 ```
 
 ***

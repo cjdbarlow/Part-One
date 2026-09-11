@@ -103,6 +103,8 @@ There are three exceptions to the above structure:
 
 Sympathetic stimulation has a number of effects by either direct neural innervation or adrenaline release. They are consistent with a 'fight or flight' response, and optimise the body for short-term stress conditions.
 
+: Effects of Sympathetic Nervous System Activation by Organ System
+
 |  Effector Organ | Sympathetic Innervation |                                     Response                                     |
 | --------------- | ----------------------- | -------------------------------------------------------------------------------- |
 | **Eye**         | Cervical                | Pupillary dilatation                                                             |
@@ -138,7 +140,7 @@ The parasympathetic nervous system ganglia sit close to the target organ. This m
 * Post-ganglionic fibre is short
 	* Releases ACh to stimulate the target organ at a **muscarinic ACh** receptor
 
-### Effect
+: Effects of Parasympathetic Nervous System Activation by Organ
 
 +----------------+-------------------------------------------------------------------------+----------------------------------+
 | Effector Organ |                       Parasympathetic Innervation                       |             Response             |

@@ -6,7 +6,7 @@ Key non-adrenergic cardiovascular drugs include **vasopressin** (and its analogu
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("vasopressin", "milrinone", "levosimendan")
+DrugTable("vasopressin", "milrinone", "levosimendan", caption = "Non-Adrenergic Vasoactives")
 ```
 
 
@@ -16,4 +16,4 @@ DrugTable("vasopressin", "milrinone", "levosimendan")
 
 1. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.\
 2. Smith S, Scarth E, Sasada M. Drugs in Anaesthesia and Intensive Care. 4th Ed. Oxford University Press. 2011.
-3. Brunton L, Chabner BA, Knollman B. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill Education - Europe. 2011.
+3. Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.

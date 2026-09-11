@@ -104,6 +104,8 @@ The higher the AUC, the better the test:
 
 ### Remembering the Difference
 
+: Relationships Between Diagnostic-Test Results and Derived Measures
+
 +-------------------+-------------------+------------------+------------------+
 |    Test Result    | Disease  Positive | Disease Negative | Derived Variable |
 +===================+===================+==================+==================+

@@ -19,7 +19,7 @@ Typically peak concentration must be 8-10x MIC.
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("gentamicin")
+DrugTable("gentamicin", caption = "Gentamicin")
 ```
 
 ***

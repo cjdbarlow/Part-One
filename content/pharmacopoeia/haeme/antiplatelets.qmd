@@ -23,12 +23,10 @@ Antiplatelet agents can be classified by which stage of platelet function they a
     * GP IIb/IIIa receptor antagonists\
     Prevent platelet aggregation via fibrin linkages between GP IIb/IIIa receptors, e.g. tirofiban.
 
-## Comparison of Common Antiplatelet Agents
-
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("clopidogrel", "dipyridamole", "tirofiban", "prasugrel", "ticagrelor")
+DrugTable("clopidogrel", "dipyridamole", "tirofiban", "prasugrel", "ticagrelor", caption = "Comparison of Common Antiplatelets")
 ```
 
 ***

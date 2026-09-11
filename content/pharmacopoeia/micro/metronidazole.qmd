@@ -6,7 +6,7 @@ Metronidazole interrupts cellular metabolism by **preferential reduction**, capt
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("metronidazole")
+DrugTable("metronidazole", caption = "Metronidazole")
 ```
 
 ***

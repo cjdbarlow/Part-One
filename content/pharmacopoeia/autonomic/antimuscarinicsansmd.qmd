@@ -18,7 +18,7 @@ Do not cross the blood-brain barrier.
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("glycopyrrolate", "hyoscine")
+DrugTable("glycopyrrolate", "hyoscine", caption = "Glycopyrrolate and Hyoscine")
 ```
 
 ***

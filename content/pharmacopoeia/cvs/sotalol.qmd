@@ -6,7 +6,7 @@ The D-isomer of sotalol is a **class III antiarrhythmic**, whilst the L-isomer a
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("sotalol")
+DrugTable("sotalol", caption = "Sotalol")
 ```
 
 ***

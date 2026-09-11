@@ -18,7 +18,7 @@ Multimodal mechanism of action, including:
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("sodium_nitroprusside", "glyceryl_trinitrate", "hydralazine")
+DrugTable("sodium_nitroprusside", "glyceryl_trinitrate", "hydralazine", caption = "Direct Vasodilators")
 ```
 
 ## Nitrate Toxicity

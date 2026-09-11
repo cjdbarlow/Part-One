@@ -36,7 +36,7 @@ Ramipril.
 * Not metabolised and excreted unchanged in urine\
 Lisinopril.
 
-## Common Features of ACE Inhibitors
+: Common Effects of ACE Inhibitors
 
 |Property|Drug
 |--|--|
@@ -48,6 +48,12 @@ Lisinopril.
 |**Immune**|Angioedema
 |**Metabolic**| ↑ Renin release.
 |**Interactions**|↓ Aldosterone release, which ↑ the efficacy of spironolactone and may precipitate hyperkalaemia. Pharmacodynamic interaction with NSAIDs to drop renal perfusion pressure.
+
+```{r}
+source("scripts/drugtables.R")
+
+DrugTable("captopril", "enalapril", "fosinopril", "lisinopril", "perindopril", "quinapril", "ramipril", caption = "Individual ACE Inhibitors")
+```
 
 ***
 

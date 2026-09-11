@@ -14,6 +14,7 @@ execute:
 ## Filters shared by all output formats
 filters:
   - scripts/html-only-pages.lua
+  - scripts/drug-tables.lua
 ## Settings for caching to reduce compile times
 #  freeze: auto
 #  cache: true
@@ -46,8 +47,6 @@ format:
     toc: true
     toc-title: "On this Page"
     tbl-cap-location: top
-    sidebar:
-    style: floating  
     fig-align: center
     fig-format: svg
     fig-dpi: 326
@@ -85,10 +84,6 @@ format:
     tbl-cap-location: top
     include-before-body: content/copyright.tex
 
-# Other theme options
-website:
-    bread-crumbs: false
-
 crossref:
     appendix-delim: "."
     appendix-title: ""
@@ -97,6 +92,10 @@ crossref:
 book:
     # General settings
     title: "Part One"
+    bread-crumbs: false
+    favicon: themes/images/favicon.png
+    sidebar:
+      style: docked
     # Table of Contents
     chapters:
     - index.qmd

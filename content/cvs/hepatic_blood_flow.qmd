@@ -41,7 +41,9 @@ Both the hepatic and portal vasculature have sympathetic innervation:
 * Endocrine and hormonal effects\
 A number of substances affect portal flow:\
 
-|      Hormone       | Portal Vein Effect |        Hepatic Artery Effect        | Overall Effect on Flow |
+: Regulators of Hepatic and Portal Blood Flow
+
+|     Regulator      | Portal Vein Effect |        Hepatic Artery Effect        | Overall Effect on Flow |
 |--------------------+--------------------+-------------------------------------+------------------------|
 | **Adrenaline**     | Constriction       | Constriction (α), then dilation (β) | Reduced                |
 | **Glucagon**       | Dilation           | -                                   | Increased              |

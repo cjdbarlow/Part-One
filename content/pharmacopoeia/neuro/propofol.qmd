@@ -13,7 +13,7 @@ Potentiates the effect of GABA, prolonging Cl^-^ channel opening and hyperpolari
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("propofol")
+DrugTable("propofol", caption = "Propofol")
 ```
 
 

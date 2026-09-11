@@ -11,11 +11,20 @@ Inotropes are agents which alter myocardial contractility.
 
 ## Classes of Positive Inotrope
 
+: Classification of Positive Inotropes
 
 |Classes|Class I: Increase Intracellular Calcium|Class II: Calcium Sensitisers|Class III: Metabolic/Endocrine|
 |--|--|--|--|
 |**Examples**|Adrenaline, milrinone, glucagon, digoxin|Levosimendan|T3, Insulin|
 |**General Mechanism of Action**|Increase intracellular Ca^2+^ by a variety of different pathways|Increase sensitivity of actomyosin to Ca^2+^|Variable. T3 potentiates the effect (or increases expression of) cardiac β~1~ receptors|
+
+Detailed profiles of the adrenergic and non-adrenergic vasoactives are provided on the [Adrenergic Vasoactives](adrenergic_drugs.qmd) and [Non-Adrenergic Vasoactives](../resp/non_adrenergic_drugs.qmd) pages.
+
+```{r}
+source("scripts/drugtables.R")
+
+DrugTable("glucagon", "triiodothyronine", caption = "Other Positive Inotropes")
+```
 
 
 ***

@@ -14,7 +14,7 @@
   * An amide or ester link connecting the two
 
 
-## Common Features of Local Anaesthetics
+: Common Features of Local Anaesthetics
 
 |Property|Action|
 |--|--|
@@ -31,15 +31,13 @@
 |**CNS**|Does-dependent CNS effects: circumoral tingling, visual disturbances, tinnitus, tremors, dizziness, slurred speech, convulsions, coma, apnoea. Potentiated by other CNS depressants and hypercarbia (due to ↑ CBF and ↓ seizure threshold).
 |**Toxic Effects**|Esters have a higher incidence of **allergy** due to their metabolite para-amino benzoic acid (PABA). Local anaesthetic toxicity is predominantly CNS and CVS. 
 
-## Comparison of Local Anaesthetics
-
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("lignocaine", "bupivacaine", "ropivacaine", "cocaine")
+DrugTable("lignocaine", "bupivacaine", "ropivacaine", "cocaine", caption = "Comparison of Local Anaesthetics")
 ```
 
-### Lignocaine Toxicity
+: Clinical Phases of Lignocaine Toxicity by Serum Concentration
 
 |Serum concentration (µg.ml^-1^)|Phase|Effect|
 |--|--|--|
@@ -56,6 +54,8 @@ DrugTable("lignocaine", "bupivacaine", "ropivacaine", "cocaine")
 
 
 Effect of topical local anaesthetics is governed by **Fick's Law**.
+
+: Pharmaceutics of Topical Local Anaesthetics
 
 |Characteristic|Effect|
 |--|--|

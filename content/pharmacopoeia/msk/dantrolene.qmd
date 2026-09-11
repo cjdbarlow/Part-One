@@ -6,7 +6,7 @@ Dantrolene is a ryanodine (RYR1) receptor antagonist, which prevents release of 
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("dantrolene")
+DrugTable("dantrolene", caption = "Dantrolene")
 ```
 
 ***

@@ -112,6 +112,8 @@ MAC is not based on arterial partial pressure (F~a~) of agent.
 
 #### Factors Affecting MAC
 
+: Factors That Decrease and Increase MAC
+
 |Decreases MAC|Increases MAC|
 |---|---|
 |Age (~6%/10 years ↑) and neonates|Youth

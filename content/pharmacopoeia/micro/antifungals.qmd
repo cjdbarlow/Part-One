@@ -41,13 +41,11 @@ Amphotericin resistance is rare *in vivo*, and is typically via different mechan
 * Decreased ergosterol content
 * Altered sterol:phospholipid ratio
 
-## Comparison of Antifungals
-
 
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("fluconazole", "voriconazole", "caspofungin", "amphotericin_b")
+DrugTable("fluconazole", "voriconazole", "caspofungin", "amphotericin_b", caption = "Comparison of Antifungals")
 ```
 
 

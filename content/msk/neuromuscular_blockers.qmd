@@ -16,7 +16,7 @@ Nicotinic ACh receptors sit on the shoulders of junctional folds of muscle cells
 
 ## Factors Affecting Neuromuscular Blockade
 
-### Patient Factors
+: Patient Factors Affecting Neuromuscular Blockade
 
 +---------------------------------+-----------------------------------------------+----------------------------------------------------------------------------------------+
 | Factor                          | Effect                                        | Mechanism                                                                              |
@@ -54,12 +54,11 @@ Nicotinic ACh receptors sit on the shoulders of junctional folds of muscle cells
 +---------------------------------+-----------------------------------------------+----------------------------------------------------------------------------------------+
 | Eaton-Lambert Syndrome          | ↑ Sensitivity to all NMBs                     | Autoimmune destruction of voltage-gated Ca^2+^ channels prevent ACh vesicle exocytosis |
 +---------------------------------+-----------------------------------------------+----------------------------------------------------------------------------------------+
-
 :::column-margin
 Depolarisation threshold refers to the magnitude of stimulus required to depolarise cell.
 :::
 
-### Drug Factors
+: Drug Factors Affecting Neuromuscular Blockade
 
 +---------------------------+-----------------------------------+--------------------------------------------------------------------+
 | Drugs                     | Effect                            | Mechanism                                                          |
@@ -83,8 +82,7 @@ Depolarisation threshold refers to the magnitude of stimulus required to depolar
 +---------------------------+-----------------------------------+--------------------------------------------------------------------+
 | Lithium                   | Potentiates blockade              | Augments action of NMBs                                            |
 +---------------------------+-----------------------------------+--------------------------------------------------------------------+
-
-### Additional Factors Affecting Onset of Neuromuscular Blockade
+: Additional Factors Affecting the Onset of Neuromuscular Blockade
 
 +-----------------------------+--------------------------------------------+---------------------------------------------------------------------------------+
 | Factor                      | Effect                                     | Mechanism                                                                       |
@@ -102,13 +100,9 @@ Depolarisation threshold refers to the magnitude of stimulus required to depolar
 
 :::column-margin
 Most additional factors affecting the onset of blockade can be directly attributed to **Fick's Law**:
-:::
 
-:::column-margin
 **Bowman's principle** describes the relationship between dose and potency. In brief: Less potent drugs must be administered in higher doses to have their clinical effect, and so have a greater concentration gradient driving diffusion to the effect site.
-:::
 
-:::column-margin
 A 'priming' dose of non-depolarising blocker should occupy <70% of ACh receptors, and so should not cause significant neuromuscular blockade in the awake patient.\
 
 After induction, a second dose is given to occupy the remaining receptors and complete blockade.

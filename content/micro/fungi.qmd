@@ -6,6 +6,8 @@ Broadly outline the classification of ~~viruses and~~ fungi.
 
 Eukaryotic organisms include fungi, protozoa, and helminths, as well as plants and animals. They differ from prokaryotic organisms in a number of ways:
 
+: Comparison of Prokaryotic and Eukaryotic Cells
+
 | Property               | **Prokaryotes**  | **Eukaryotes**                        |
 |------------------------|------------------|---------------------------------------|
 | Chromosomes            | Single, circular | Multiple                              |

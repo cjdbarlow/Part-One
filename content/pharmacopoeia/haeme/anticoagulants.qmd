@@ -3,7 +3,7 @@
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("warfarin", "heparin", "enoxaparin")
+DrugTable("warfarin", "heparin", "enoxaparin", caption = "Anticoagulants")
 ```
 
 

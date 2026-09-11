@@ -10,7 +10,7 @@ Potassium channel activators stimulate ATP sensitive K^+^ channels, causing an i
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("nicorandil")
+DrugTable("nicorandil", caption = "Nicorandil")
 ```
 
 ***

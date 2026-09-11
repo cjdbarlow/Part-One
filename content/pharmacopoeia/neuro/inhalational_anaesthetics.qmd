@@ -15,8 +15,7 @@ Describe the comparative pharmacology of ~~nitrous oxide~~, halothane, enflurane
 
 *This section covers features and structures of inhalational anaesthetics. Structure-activity relationships are covered under [inhalational anaesthetics](inhalational_anaesthetic_agents.qmd#sa).*
 
-## Common Features of Inhalational Agents
-
+: Common Features of Inhalational Anaesthetic Agents
 
 +--------------------------------------+-----------------------------------------------------------------------------------------------------------+
 | Property                             | Action                                                                                                    |
@@ -63,7 +62,7 @@ Describe the comparative pharmacology of ~~nitrous oxide~~, halothane, enflurane
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("sevoflurane", "isoflurane", "desflurane")
+DrugTable("sevoflurane", "isoflurane", "desflurane", caption = "Comparison of Common Inhalational Anaesthetics")
 ```
 
 Sevoflurane:
@@ -84,7 +83,7 @@ Desflurane:
 ## Comparison of Uncommon Inhalational Agents
 
 ```{r}
-DrugTable("enflurane", "halothane", "xenon")
+DrugTable("enflurane", "halothane", "xenon", caption = "Comparison of Uncommon Inhalational Anaesthetics")
 ```
 
 Enflurane:

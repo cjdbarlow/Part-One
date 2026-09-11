@@ -22,7 +22,7 @@ The **Starling Equation** becomes:
 
 $$Net \ Fluid \ Movement =  K_f(P_{CH} - P_{IH} - \theta(P_{CO} - P_{IO})$$
 
-### Typical Values for Pressures (mmHg)
+: Typical Values for Starling Pressures (mmHg)
 
 |                                       | Arteriolar End | Venous End |
 |---------------------------------------+----------------+------------|

@@ -8,12 +8,10 @@ Gabapentin and pregabalin:
 * **Act on the α~2~δ subunit of voltage gated Ca^2+^ channels** in the CNS, inhibiting neurotransmitter release
 * May have some NMDA receptor activity
 
-## Comparison of GABA Analogues
-
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("gabapentin", "pregabalin")
+DrugTable("gabapentin", "pregabalin", caption = "Comparison of GABA Analogues")
 ```
 
 ***

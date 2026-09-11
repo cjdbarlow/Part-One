@@ -38,7 +38,7 @@ Substance evenly dispersed throughout another solution in which it is insoluble.
             * Risk of renal impairment
             * Accumulate in the reticuloendothelial system
 
-## Comparison of Crystalloids
+: Composition of Common Crystalloid Solutions
 
 |Contents (mmol.L^-1^)|0.9% NaCl|Hartmann's|Plasmalyte|
 |--|--|--|--|

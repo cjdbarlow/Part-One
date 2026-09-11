@@ -20,7 +20,7 @@ Elimination of all pathological organisms, excluding spores.
 Elimination of all forms of microbial life, including spores.
     * Used for **critical items**, which are those that enter sterile or vascular tissue and pose a high risk of infection (e.g. surgical instruments, vascular and urinary catheters)
 
-## Antiseptic Agents
+: Properties of Common Antiseptic Agents
 
 |Drug|Isopropyl Alcohol|Chlorhexidine|Povidone iodine|
 |--|--|--|--|

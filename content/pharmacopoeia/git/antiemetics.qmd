@@ -28,12 +28,10 @@ Antiemetic drugs can be classified by their mechanism of action:
     * Cannabinoids
     * Propofol
 
-## Comparison of Antiemetic Drugs
-
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("ondansetron", "droperidol", "metoclopramide", "cyclizine")
+DrugTable("ondansetron", "droperidol", "metoclopramide", "cyclizine", caption = "Comparison of Antiemetics")
 ```
 
 

@@ -10,7 +10,7 @@ Non-depolarising NMBs are muscle relaxants used to:
 
 Mechanism of action is by competitive antagonism of ACh at the NMJ, preventing generation of end-plate potentials. Effective pharmacodynamic response requires >70% receptor occupation.
 
-## Common Features of Neuromuscular Blockers
+: Common Features of Non-Depolarising Neuromuscular Blockers
 
 |Property|Action|
 |--|--|
@@ -28,12 +28,10 @@ The ED~95~ is:
 * A commonly-used therapeutic end-point for neuromuscular blocking drugs\
 Typically, induction doses used are 2-5x the ED~95~.
 
-## Comparison of Neuromuscular Blockers
-
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("rocuronium", "vecuronium", "pancuronium", "atracurium", "cisatracurium")
+DrugTable("rocuronium", "vecuronium", "pancuronium", "atracurium", "cisatracurium", caption = "Comparison of Non-Depolarising Neuromuscular Blockers")
 ```
 
 ***

@@ -136,6 +136,35 @@ local function landscapeEndBlock()
   return pandoc.RawBlock('latex', '\\end{landscape} \\restoregeometry')
 end
 
+local function widenFirstColumn(table)
+  local totalWidth = 0
+
+  for i = 1, #table.colspecs, 1 do
+    totalWidth = totalWidth + (table.colspecs[i][2] or 1 / #table.colspecs)
+  end
+
+  local originalFirstWidth = table.colspecs[1][2]
+    or totalWidth / #table.colspecs
+  local originalRemainingWidth = totalWidth - originalFirstWidth
+  table.colspecs[1][2] = totalWidth * 0.30
+
+  for i = 2, #table.colspecs, 1 do
+    local originalWidth = table.colspecs[i][2]
+      or originalRemainingWidth / (#table.colspecs - 1)
+    table.colspecs[i][2] = totalWidth * 0.70
+      * originalWidth / originalRemainingWidth
+  end
+
+  return table
+end
+
+local function needsWideFirstColumn(table)
+  local text = pandoc.utils.stringify(table)
+
+  return text:find('Pseudocholinesterase deficiency', 1, true)
+    or text:find('Anticholinesterases', 1, true)
+end
+
 local function tableBlocks(elem, drugTable, landscape)
   local blocks = {}
 
@@ -165,7 +194,9 @@ end
 
 function Div(elem)
   if FORMAT:match('latex') then
-    if hasClass(elem, 'landscape-table') then
+    if hasClass(elem, 'pdf-body-table') then
+      return elem.content
+    elseif hasClass(elem, 'landscape-table') then
       return {
         landscapeStartBlock(),
         elem,
@@ -276,6 +307,9 @@ function Table (elem)
     end
     
     local drugTable = isDrugTable(elem)
+    local widenFirst = not drugTable
+      and num_col > 1
+      and needsWideFirstColumn(elem)
     local forceLandscape = hasClass(elem, 'landscape')
     local contentDensity = tableContentDensity(elem)
     local denseWideTable = num_col >= 4
@@ -293,6 +327,8 @@ function Table (elem)
       for i = 2, num_col, 1 do
         elem.colspecs[i][2] = 0.75 / (num_col - 1)
       end
+    elseif widenFirst then
+      elem = widenFirstColumn(elem)
     elseif not hasColumnWidths then
       for i = 1, num_col, 1 do
         elem.colspecs[i][2] = x/num_col

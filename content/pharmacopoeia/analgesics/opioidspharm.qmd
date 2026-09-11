@@ -43,6 +43,8 @@ All opioid receptors are Gi receptors. Activation:
         * Causes K^+^ efflux
         * Leads to membrane hyperpolarisation
 
+: Opioid Receptor Classification and Effects
+
 |Receptor|Actions|Notable Properties
 |--|--|--|
 |MOP|Analgesia (spinal and brain), euphoria, meiosis (via stimulation of the Edinger-Westphal nucleus), nausea and vomiting (via CTZ), sedation, bradycardia, inhibition of gut motility, urinary retention, physical dependence|Only opioid receptor to cause nausea/vomiting

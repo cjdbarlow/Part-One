@@ -15,7 +15,7 @@ Paracetamol an analgesic and antipyretic which is typically classed as an NSAID,
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("paracetamol")
+DrugTable("paracetamol", caption = "Paracetamol")
 ```
 
 ## Toxicity

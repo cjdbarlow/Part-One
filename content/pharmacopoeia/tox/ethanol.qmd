@@ -27,7 +27,7 @@ This is **reversible with flumazenil**.
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("ethanol")
+DrugTable("ethanol", caption = "Ethanol")
 ```
 
 ## Methanol

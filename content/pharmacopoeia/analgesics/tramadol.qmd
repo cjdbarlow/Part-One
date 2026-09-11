@@ -11,7 +11,7 @@ Tramadol is an analgesic agent with a complicated mechanism of action:
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("tramadol")
+DrugTable("tramadol", caption = "Tramadol")
 ```
 
 ***

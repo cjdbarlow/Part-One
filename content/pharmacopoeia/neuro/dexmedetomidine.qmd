@@ -6,7 +6,7 @@ Dexmedetomidine is a central α~2~-agonist (α~2~:α~1~ activity 1600:1) used fo
 ```{r}
 source("scripts/drugtables.R")
 
-DrugTable("dexmedetomidine")
+DrugTable("dexmedetomidine", caption = "Dexmedetomidine")
 ```
 
 ***
