@@ -11,6 +11,12 @@
     color: #66bbff;
 }
 
+.sidebar-item {
+    margin-bottom: 0.1rem;
+    line-height: var(--bs-body-line-height);
+    margin-top: 0.1rem;
+}
+
 h2#toc-title{
     font-weight: bold;
 }
