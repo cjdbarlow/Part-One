@@ -57,4 +57,7 @@ git commit -m "$commitMessage"
 printf 'Pushing %s to %s...\n' "$branchName" "$upstream"
 git push
 
+printf 'Publishing rendered book to GitHub Pages...\n'
+quarto publish gh-pages --no-render --no-prompt --no-browser
+
 printf 'Published successfully.\n'
