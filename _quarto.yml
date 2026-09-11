@@ -95,7 +95,7 @@ book:
     bread-crumbs: false
     favicon: themes/images/favicon.png
     sidebar:
-      style: docked
+      style: floating
     # Table of Contents
     chapters:
     - index.qmd
