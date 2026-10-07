@@ -25,6 +25,8 @@ Supply of O~2~ and simple sugars and amino acids, and removal of CO~2~ occurs oc
 
 ## Formation
 
+The choroid plexus is present in the lateral, third and fourth ventricles.
+
 CSF is produced in the **choroid plexus** (70%) and brain **capillary endothelial cells** (30%) at a rate of 0.4 ml.min^-1^ (**500ml.day^-1^**). It is produced by a combination of  **ultrafiltration** and **secretion** from plasma:
 
 * Na^+^ is actively transported\
@@ -103,3 +105,4 @@ Reabsorption of CSF:
 
 1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
 2. Hall, JE, and Guyton AC. Guyton and Hall Textbook of Medical Physiology. 11th Edition. Philadelphia, PA: Saunders Elsevier. 2011. 
+3. Purves D, Augustine GJ, Fitzpatrick D, et al., eds. [The Ventricular System](https://www.ncbi.nlm.nih.gov/books/NBK11083/). Neuroscience. 2nd Ed. Sinauer Associates. 2001.

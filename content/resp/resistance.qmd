@@ -14,6 +14,8 @@ Resistance (measured in cmH~2~O.L^-1^.sec^-1^) comprises the energy lost as fric
 
 ## Types of Flow
 
+During normal breathing, **airway resistance** contributes ~80% of non-elastic resistance and **tissue resistance** ~20%. Inertial resistance is usually negligible.
+
 Flow can be either laminar or turbulent. In laminar conditions flow is proportional to driving pressure, whilst in turbulent conditions flow is proportional to the square root of driving pressure.
 
 ### Reynolds' Number
@@ -21,6 +23,10 @@ Flow can be either laminar or turbulent. In laminar conditions flow is proportio
 Type of flow can be predicted by **Reynolds's Number**, a dimensionless index:
 
 $$Reynolds' \ Number = {2r.d.v \over \eta}$$
+
+:::column-margin
+Reynolds number is the ratio of inertial to viscous forces.
+:::
 
 Where:
 

@@ -17,11 +17,30 @@ The functional unit of the kidney is the **nephron**. Nephrons:
     * **Mid-cortical nephrons**\
     May have either long or short loops.
 
+### Renal Blood Supply
+
+* Renal arteries arise from the abdominal aorta at **L1-2**, below the superior mesenteric artery
+    * Accessory renal arteries occur in ~30%
+    * The left is shorter, more horizontal and usually arises slightly higher
+    * Both pass behind the renal veins; the right also passes behind the IVC
+* Renal arteries enter the kidneys through the **hila**
+* Renal arteries branch into **segmental**, **interlobar**, **arcuate** and **interlobular** (cortical radial) arteries
+* Interlobular arteries radiate outwards through the cortex and give rise to **afferent arterioles**
+    * Afferent arterioles arise at approximately right angles, with the angle varying by cortical location
+* All **glomeruli** lie in the cortex
+
+The **juxtaglomerular apparatus** lies where the end of the thick ascending limb meets the afferent and efferent arterioles. It contains:
+
+* **Macula densa**, specialised tubular epithelial cells
+* **Granular cells**, modified smooth muscle cells of the afferent arteriole
+* **Extraglomerular mesangial cells**, between the arterioles; resemble and are continuous with the intraglomerular mesangium
+
 ## Control of Renal Blood flow
 
 The kidneys:
 
 * Receive **22% of cardiac output** at rest
+    * Most renal blood flow supplies the cortex; only ~10% reaches the medulla via the vasa recta
 * Extract only **10% of delivered O~2~**
 * Have a **high renal blood flow** exceeds that required for metabolism\
 High flow is instead needed **to produce** the large volume of **glomerular filtrate** (125ml.min^-1^) required for excretion of waste.
@@ -76,4 +95,5 @@ Angiotensin I is then converted into Angiotensin II by circulating ACE.
 
 1. Barrett KE, Barman SM, Boitano S, Brooks HL. Ganong's Review of Medical Physiology. 24th Ed. McGraw Hill. 2012.
 2. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
-3. Hall, JE, and Guyton AC. Guyton and Hall Textbook of Medical Physiology. 11th Edition. Philadelphia, PA: Saunders Elsevier. 2011.
+3. Hall, JE, and Guyton AC. Guyton and Hall Textbook of Medical Physiology. 11th Edition. Philadelphia, PA: Saunders Elsevier. 2011.4
+4. Eaton DC, Pooler JP. Vander's Renal Physiology. 7th Ed. McGraw Hill. 2009. pp12-15.

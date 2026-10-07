@@ -50,6 +50,14 @@ Placental membrane permeability is small in early-to-mid pregnancy, reaching max
 Flow is ↓ during contractions due to ↑ uterine pressure, and also with α-adrenergic stimulation.
 :::
 
+Uterine blood flow:
+
+* Usually is ~100mL.min^-1^ before pregnancy
+* ↑ To ~700mL.min^-1^ at term (~10% of CO)
+    * Around 80% supplies the placenta
+* Uteroplacental flow has **little autoregulation**\
+Foetal blood supply depends on the pressure gradient across the uterine circulation and uterine vascular resistance; i.e. is MAP dependent.
+
 
 ### Oxygen Transfer {#bohr}
 
@@ -120,3 +128,4 @@ The placenta synthesises:
 
 1. Hall, JE, and Guyton AC. Guyton and Hall Textbook of Medical Physiology. 11th Edition. Philadelphia, PA: Saunders Elsevier. 2011. 
 2. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+3. [Physiology of pregnancy: clinical anaesthetic implications](https://academic.oup.com/bjaed/article-abstract/14/2/69/271445). Continuing Education in Anaesthesia Critical Care & Pain. 2014;14:69-72.

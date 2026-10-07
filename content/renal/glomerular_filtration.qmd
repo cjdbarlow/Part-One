@@ -22,6 +22,9 @@ Normal renal *blood* flow is 1.1 L.min^-1^, however renal *plasma* flow is less 
 * Typically **125ml.min^-1^**\
     * Decreases with age (partially due to loss of nephron number)
 
+:::column-margin
+Freely filtered solutes have concentrations similar to their unbound concentrations in plasma.
+:::
 
 GFR can be expressed as the **product** of **Net Filtration Pressure** and the combination of membrane permeability and membrane surface area, designated **K~f~** (the filtration coefficient):
 
@@ -53,9 +56,13 @@ Overall permeability is:
     * A function of:
         * Membrane permeability, in turn affected by:
             * **Capillary endothelium**
+                * Fenestrated, allowing water and small solutes through while retaining blood cells
             * **Basement membrane**\
+            An acellular matrix of **glycoproteins and proteoglycans** which limits filtration of large molecules.\
             **Negatively charged** molecules have **reduced filtration** as the basement membrane is also negatively charged which opposes movement out of the capillary.\
             * **Foot processes** of podocytes\
+            Attach to the outer surface of the basement membrane and carry a surface glycocalyx.\
+            Interdigitate to form filtration slits, bridged by slit diaphragms.\
             Molecules **less** than **7000 Dalton** are **freely filtered**, whilst larger molecules are filtered less.
             * Membrane Surface Area\
             Typically very high for water and solutes. 
@@ -131,4 +138,4 @@ Fluid entering the distal tubule has about **one-third** the **osmolarity** of p
 1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
 2. Greger R, Windhorst U. Comprehensive Human Physiology: From Cellular Mechanisms to Integration. Springer-Verlag Berlin Heidelberg. 1996. 
 3. CICM March/May 2010
-
+4. Miner JH. [The glomerular basement membrane: not gone, just forgotten](https://pmc.ncbi.nlm.nih.gov/articles/PMC1523392/). J Clin Invest. 2006.

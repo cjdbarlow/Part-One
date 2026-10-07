@@ -16,6 +16,7 @@ An increasing level of block will lead to greater effects:
     * Loss of some accessory muscle use
 * Cervical\
 Impediment due to diaphragmatic blockade.
+    * Shoulder weakness with C3-C5 spread may warn of impending respiratory compromise
 
 ## Cardiovascular Responses
 
@@ -40,10 +41,12 @@ An increasing level of block will lead to greater effects:
 
 * Cervical\
 Horner's syndrome (miosis, anhydrosis, ptosis) due to loss of sympathetic trunks.
+    * Spread to C6-C8 may cause numbness, paraesthesia and weakness in the hands and arms
 * Cranial nerve
 Pupillary dilation due to CN III blockade.
 * Brainstem and Cerebral Cortex 
 Anaesthesia due to blockade of the reticular activating system and thalamus. 
+    * Intracranial spread may cause slurred speech and sedation
 
 ***
 
@@ -51,3 +54,4 @@ Anaesthesia due to blockade of the reticular activating system and thalamus.
 
 1. Diaz, A. [Cardiovascular Response to Central Neuraxial Blockade](https://primarysaqs.files.wordpress.com/2009/12/2007b9briefly-explain-the-cvs-responses-to-central-neural-blockade.pdf). Primary SAQs.
 2. ANZCA July/August 2007
+3. [High or total spinal anesthesia](https://www.nysora.com/anesthesia/high-or-total-spinal-anesthesia/). NYSORA.

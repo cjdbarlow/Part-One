@@ -47,12 +47,15 @@ Released in response to a change in osmolality detected by osmoreceptors in the 
     * Release is:
         * ↓ When osmolality is <275 mOsm.L^-1^
         * ↑ When osmolality is >290 mOsm.L^-1^
+        * ↑ With **hypovolaemia or hypotension**, through input from cardiovascular stretch receptors\
+        Marked hypovolaemia can stimulate release even when plasma osmolality is low.
     * Effective at:
         * V~1~ receptors in vascular smooth muscle, causing vasoconstriction\
         Effect predominates in muscle, skin, and fat; and may relatively spare coronary, cerebral, and mesenteric circulations.
         * V~2~ receptors in the:
             * Kidney, where it has two actions:
                 * ↑ Aquaporin expression, leading to ↑ water reabsorption
+                    * **Aquaporin-2** is inserted into the apical membrane of collecting duct principal cells
                 * ↑ Urea transport in the collecting duct, leading to ↑ medullary concentrating
             * Endothelium to increase vWF and factor VIII release
         * V~3~ receptors in the pituitary to stimulate ACTH release
@@ -70,3 +73,4 @@ Role in:
 
 1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
 2. Nickson, C. [Vasopressin](http://lifeinthefastlane.com/ccc/vasopressin/). LITFL.
+3. [The Neurohypophysis: Endocrinology of Vasopressin and Oxytocin](https://www.ncbi.nlm.nih.gov/books/NBK279157/). Endotext.

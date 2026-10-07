@@ -40,7 +40,17 @@ Various different designs exist. For CO measurement, they require:
     * A balloon at the tip\
     To float it into position.
     * A distal (PA) port is required for measuring PAP and the PCWP, but is not required for CO calculation
- 
+
+:::
+: Pressure Changes during PAC Insertion
+
+|  Position  |                                         Waveform                                         | Typical pressure (mmHg) |
+|------------|------------------------------------------------------------------------------------------|-------------------------|
+| **RA**     | Low-pressure atrial waveform                                                             | Mean 2-6                |
+| **RV**     | Sharp systolic rise with low diastolic pressure                                          | 15-25/0-8               |
+| **PA**     | Similar systolic pressure to the RV, with higher diastolic pressure and a dicrotic notch | 15-25/8-15              |
+| **Wedged** | Low-pressure atrial waveform                                                             | Mean 6-12               |
+:::
 
 ### Cardiac Output Measurement by Thermodilution {#stew}
 
@@ -101,11 +111,16 @@ In this case:
     * $CO$ is Cardiac Output
     * $VO_2$ is the patients oxygen consumption\
     Typically estimated as 3.5ml.kg^-1^.min^-1^
+        * Can be measured using a closed spirometer containing O~2~ and a CO~2~ absorber
     * $C_a$ is arterial oxygen content
     * $C_v$ is mixed venous oxygen content
 * Accurate measurement relies upon:
     * Mixed venous blood sampled from the pulmonary artery
     * Arterial blood sampled from a peripheral arterial line
+
+### CO~2~ Rebreathing
+
+**CO~2~ rebreathing** uses the change in CO~2~ elimination and E~T~CO~2~ during a brief period of partial rebreathing to estimate pulmonary capillary blood flow. A shunt correction is needed to estimate total cardiac output.
 
 ***
 
@@ -113,3 +128,6 @@ In this case:
 
 1.  Moise, S. F., Sinclair, C. J. and Scott, D. H. T. (2002), Pulmonary artery blood temperature and the measurement of cardiac output by thermodilution. Anaesthesia, 57: 562–566.
 2. Nishikawa, T. & Dohi, S. Errors in the measurement of cardiac output by thermodilution. Can J Anaesth (1993) 40: 142. 
+3. Edwards Lifesciences. [Normal Hemodynamic Parameters](https://assets-us-01.kc-usercontent.com/6239a81e-8f0f-0040-a1df-b4932a10f6ae/3147e913-4c5d-47cd-abcc-939e8ed2bbd4/pp--us-2312_v2.0_normal_hemodynamic_parameters_and_lab_values_exp_4-1-2026-1.pdf).
+4. Kronenberg RS, et al. [Pulmonary Artery Pressure and Alveolar Gas Exchange in Man during Acclimatization to 12,470 ft](https://www.jci.org/articles/view/106554). J Clin Invest. 1971;50:827-37.
+5. [Partial CO2 rebreathing indirect Fick technique for non-invasive measurement of cardiac output](https://pubmed.ncbi.nlm.nih.gov/12580219/).

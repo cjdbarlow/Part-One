@@ -26,6 +26,10 @@ Dead space from equipment, such as tubes ventilator circuitry. Some apparatus de
   The volume of the conducting zone of the lung. Anatomical dead space is affected by:
     * Size and Age\
     3.3ml.kg^-1^ in the infant, falls to 2.2ml.kg^-1^ in the adult
+      * ↓ To ~2ml.kg^-1^ by six years old
+      * Most of the ↓ is in **extrathoracic dead space**, as the nose, mouth and pharynx become smaller relative to body weight
+      * Intrathoracic dead space remains ~1ml.kg^-1^
+      * From early adulthood, anatomical dead space ↑ by ~1ml.year^-1^
     * Posture\
       Decreases when supine.
     * Position of the neck and jaw\
@@ -40,12 +44,12 @@ Dead space from equipment, such as tubes ventilator circuitry. Some apparatus de
     * Erect posture
     * Decreased pulmonary artery pressure/impaired pulmonary blood flow\
       * Hypovolaemia
-      * RV failure/Increased RV afterload:
+      * RV failure/↑ RV afterload:
         * HPV
         * MI
       * PE
-    * Increased alveolar pressure\
-    Increases West Zone 1 physiology.
+    * ↑ Alveolar pressure\
+    ↑ West Zone 1 physiology.
      * PEEP
     * COAD
 
@@ -145,3 +149,4 @@ This is covered under [removal of CO~2~](co2_transport.qmd#tr).
 
 1. Lumb A. Nunn's Applied Respiratory Physiology. 7th Edition. Elsevier. 2010.
 2. West J. Respiratory Physiology: The Essentials. 9th Edition. Lippincott Williams and Wilkins. 2011.
+3. Numa AH, Newth CJL. [Anatomic dead space in infants and children](https://pubmed.ncbi.nlm.nih.gov/8727530/). J Appl Physiol. 1996;80:1485-9.

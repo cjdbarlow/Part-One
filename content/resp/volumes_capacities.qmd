@@ -184,6 +184,7 @@ Closing capacity is the sum of residual volume and closing volume.
     * FRC is decreased
     * CC is increased\
       * Increases with age\
+      Loss of elastic recoil reduces radial traction on small airways, contributing to closure at higher lung volumes.
         * CC exceeds FRC in the supine patient at 44
         * CC exceeds FRC in the erect patient at 66
   * This is clinically relevant during **preoxygenation**, as it will limit the denitrogenation that can occur

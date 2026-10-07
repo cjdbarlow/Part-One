@@ -59,6 +59,7 @@ $R =$${Pulsatile_{660} / Non-Pulsatile_{660}} \over Pulsatile_{940} / Non-Pulsat
 * Requires detectable **pulsatile flow**
     * Limited by poor peripheral perfusion (shock, hypotension, hypothermia) and non-pulsatile flow (ECMO, CPB)
     * Body movements confound readings (shivering, seizing)
+    * Oedema or venous congestion at the sensor site may impair the signal
 * **Low saturations**\
 Inaccurate below 70%, and completely unreliable below 50%.
 * **Venous pulsation**\
@@ -66,12 +67,17 @@ Detected as pulsatile flow, and erroneously interpreted by the microprocessor as
 * Confounded by **ambient light**\
 The diodes are cycled at several hundred times per second which allows the detector to compensate for the effect of ambient light (the values when the diodes are off give the effect of ambient light).
 * Absorption spectra confounded by:
+    * **Nail polish**
     * **Haemoglobinopathies**
         * Carboxyhaemoglobin causes the pulse oximeter to read artificially high due to as it also absorbs 660nm light
         * Methaemoglobinaemia causes the SpO~2~ to trend towards 85%, as though it absorbs 660nm light is also absorbs 940nm light to a greater degree
     * **Dyes**
         * Methylene blue will cause the SpO~2~ to read < 65% for several minutes
         * Indocyanine green will also cause a decreased SpO~2~
+
+:::column-margin
+Venous pulsation may occur with severe tricuspid regurgitation, producing a falsely low SpO~2~.
+:::
 
 ***
 

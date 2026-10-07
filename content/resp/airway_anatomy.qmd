@@ -117,11 +117,23 @@ The volume of the conducting zone therefore contributes to **anatomic dead space
 
 The **remaining 7 divisions** make up the **respiratory zone**. This region:
 
+* Contains **respiratory bronchioles**, **alveolar ducts** and **alveolar sacs**, with progressively more alveoli along the airway
 * Makes up the majority of lung volume\
 All non-anatomical dead space volume is in the respiratory zone, and is **~30ml.kg^-1^** (FRC) at rest
 * Blood supply is via the pulmonary circulation
 * Gas flow in the terminal respiratory zone is slow due to the exponential increase in cross-sectional area with each airway division
     * Diffusion is the predominant mechanism of gas movement
+
+:::
+In the idealised **Weibel model**, each generation branches into two:
+
+| Structure               | Generation | Number     | Total airway cross-sectional area |
+| ---                     | ---:       | ---:       | ---:                              |
+| Trachea                 | 0          | 1          | ~2.5cm^2^                         |
+| Terminal bronchioles    | 16         | ~6 × 10^4^ | ~180cm^2^                         |
+| Respiratory bronchioles | 19         | ~5 × 10^5^ | ~1,000cm^2^                       |
+| Alveolar sacs           | 23         | ~8 × 10^6^ | ~10,000cm^2^                      |
+:::
 
 ## Alveolus
 
@@ -163,4 +175,3 @@ Alveoli have no cilia - inhaled particles are phagocytosed by alveolar macrophag
 1. Lumb A. Nunn's Applied Respiratory Physiology. 7th Edition. Elsevier. 2010.
 2. West J. Respiratory Physiology: The Essentials. 9th Edition. Lippincott Williams and Wilkins. 2011.
 3. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
-

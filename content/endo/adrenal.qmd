@@ -85,13 +85,17 @@ This is a **modified sympathetic ganglion** composed of **chromaffin cells**.
 * Depends on **ACh release** by the presynaptic neuron\
 Unlike many other hormones, catecholamine secretion does not exhibit a negative-feedback loop.
 * Occurs as follows:
+    * Phenylalanine is converted to tyrosine by **phenylalanine hydroxylase**, mainly in the liver
     * **Tyrosine** is concentrated in the adrenal medulla
     * Tyrosine is hydroxylated to DOPA by **tyrosine hydroxylase**\
     This is the **rate-limiting** step, and is probably the best enzyme to remember.
     * DOPA is decarboxylated to dopamine
+        * By **DOPA decarboxylase**, in the cytoplasm
     * Dopamine is converted to noradrenaline
+        * By **dopamine β-hydroxylase**, within storage vesicles
     * Noradrenaline is converted to adrenaline by **PNMT** (Phenylethanolamine N-methyltransferase)\
     This may only occur in the adrenal medulla.
+        * PNMT acts in the cytoplasm, after which adrenaline returns to storage vesicles
 
 
 Plasma half-lives of noradrenaline and adrenaline are small as a consequence of their metabolism and elimination.
@@ -108,3 +112,4 @@ Plasma half-lives of noradrenaline and adrenaline are small as a consequence of 
 
 1. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.
 2. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+3. [Storage and Release of Catecholamines](https://www.ncbi.nlm.nih.gov/books/NBK28060/). Basic Neurochemistry: Molecular, Cellular and Medical Aspects. 6th Ed. Lippincott-Raven. 1999.

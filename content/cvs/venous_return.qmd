@@ -14,6 +14,19 @@ Contains 65% of blood volume.
 This section describes determinants of cardiac output from the perspective of venous return. The relationship to and importance of the determinants of cardiac output is covered in @sec-cardiacoutputdeterminants: Determinants of Cardiac Output.
 :::
 
+:::column-margin
+: Distribution of Blood Volume in an Upright Adult
+
+|                    Compartment                    | Proportion |
+|---------------------------------------------------|------------|
+| Systemic veins                                    | 65%        |
+| Systemic arteries                                 | 13%        |
+| Arterioles                                        | 2%         |
+| Capillaries                                       | 5%         |
+| Central circulation (heart and pulmonary vessels) | 15%        |
+:::
+
+
 Venous return is the rate at which blood is returned to the heart (in L.min^-1^). **At steady state**, venous return is equal to cardiac output, and can be expressed as $VR = {MSFP - RAP \over RVR}$, where:
 
 * $VR$ is venous return

@@ -171,6 +171,8 @@ Contractility is primarily dependent on **intracellular Ca^2+^**.  Determinants 
 
 * Drugs
 * Disease
+    * Sepsis\
+    Can cause reversible myocardial depression.
     * Ischaemia\
     Reduced ATP production secondary to hypoxia, which impairs sarcoplasmic reticulum Ca^2+^ function. Further exacerbated by intracellular acidosis from anaerobic metabolism.
     * Heart Failure\

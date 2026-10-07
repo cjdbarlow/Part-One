@@ -119,6 +119,7 @@ Speed of onset is related to:
       * pKa
       * Tissue pH
         * This is also why anaesthetics are ineffective in anaesthetising infected tissue, as the low pH makes the majority of the LA ionised and unable to cross the cell membrane.
+        * Addition of **bicarbonate** increases pH and the unionised fraction, which may hasten onset
   * Patient factors
     * Nerve activity\
     Local anaesthetics produce a **frequency dependent blockade**, meaning nerves firing frequently will be blocked more rapidly than quiescent nerves
@@ -271,3 +272,4 @@ Note that ILE interferes with amylase and lipase assays, and so these will be un
 2. Christie LE, Picard J, Weinberg GL. [Local anaesthetic systemic toxicity](https://academic.oup.com/bjaed/article/15/3/136/279390/Local-anaesthetic-systemic-toxicity). Continuing Education in Anaesthesia Critical Care & Pain, Volume 15, Issue 3, 1 June 2015, Pages 136–142.
 3. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
 4. Becker DE, Reed KL. [Essentials of Local Anesthetic Pharmacology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1693664/pdf/i0003-3006-53-3-98.pdf). Anesthesia Progress. 2006;53(3):98-109.
+5. [Clinical Pharmacology of Local Anesthetics](https://www.nysora.com/regional-anesthesia/topics/pharmacology/clinical-pharmacology-local-anesthetics/). NYSORA.

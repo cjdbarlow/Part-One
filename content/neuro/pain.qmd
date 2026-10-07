@@ -16,6 +16,8 @@ Pain is an "unpleasant sensory or emotional experience associated with actual or
 		* **Nociceptive pain**\
 			Stimulation of nociceptors by noxious stimuli.
 		* **Visceral pain**\
+		* **Somatic pain**\
+		Superficial (skin) or deep (muscle, bone, and joints).
 		* **Neuropathic pain**\
 		Nervous system dysfunction.
 	* Duration
@@ -92,6 +94,8 @@ Impulses are conducted by two types of **primary afferent fibres**:
 
 ## Pain Pathways and Site of Action of Analgesics
 
+**Multimodal analgesia** combines treatments acting through different mechanisms or at different sites in the pain pathway.
+
 The response to a painful stimulus requires a cascade of processes:
 
 * **Activation of nociceptors**\
@@ -101,6 +105,7 @@ The response to a painful stimulus requires a cascade of processes:
 	* **Local anaesthetics** prevent signal propagation
 * **Synapse in the dorsal horn**\
 	Input from both Aδ and C fibres, and descending interneurons.
+	* Descending pathways from the **periaqueductal grey** act through brainstem nuclei, including the **nucleus raphe magnus**, to modulate dorsal horn transmission
 	* Descending inhibitory input reduces nociceptive transmission\
 	Basis of "gate control" theory. Descending input increased with:
 		* Touch\
@@ -128,6 +133,8 @@ These secondary afferents:
 * **Reflex arc**
 * **Higher centres**\
 Pain perception occurs in the somatosensory cortex.
+	* Third-order neurones project from the thalamus to the somatosensory cortex
+	* Other ascending projections reach the reticular formation and limbic system, contributing to arousal and the emotional response to pain
 
 ## Neuropathic Pain
 

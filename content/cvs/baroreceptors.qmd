@@ -37,6 +37,8 @@ Afferent fibres from CNIX and CNX travel to the NTS in the **medulla**. Effector
 
 Conversely, **increased** activity of **low-pressure** stretch receptors results in an **increase** rather than a decrease in **heart rate**.
 
+During **haemorrhage**, coronary and cerebral perfusion are relatively preserved at the expense of skin, renal and splanchnic flow.
+
 ## Baroreceptor Activity {#baro}
 
 Baroreceptors are:
@@ -69,3 +71,4 @@ Causes vasodilation of peripheral smooth muscle.
 1. Barrett KE, Barman SM, Boitano S, Brooks HL. Ganong's Review of Medical Physiology. 24th Ed. McGraw Hill. 2012.
 2. CICM September/November 2014
 3. ANZCA July/August 2000
+4. Institute of Medicine. [Pathophysiology of Acute Hemorrhagic Shock](https://www.ncbi.nlm.nih.gov/books/NBK224592/). Fluid Resuscitation: State of the Science for Treating Combat Casualties and Civilian Injuries. National Academies Press. 1999.

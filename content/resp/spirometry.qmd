@@ -51,7 +51,9 @@ Patient forcibly exhales a vital capacity breath, producing a exponential (wash-
 
 <img src="/resources/fev1-and-fvc.svg">
 
-
+* **Gas compression** during forced expiration can reduce the volume and flow measured at the mouth
+* Repeating spirometry after a **bronchodilator** tests bronchodilator responsiveness\
+FEV~1~, FVC and peak expiratory flow may increase as airway resistance and gas trapping decrease.
 * Volume-Time Graph (also known as a spirograph or spirogram)\
 Quantifies static lung volumes by having a patient perform:
   * Normal tidal breathing

@@ -23,6 +23,7 @@ DrugTable("paracetamol", caption = "Paracetamol")
 * Paracetamol is partially metabolised to the toxic N-acetyl-p-amino-benzoquinone imine (**NAPQI**)
   * In normal circumstances this rapidly conjugated with glutathione
   * In toxicity,  glutathione is exhausted
+  * Glucuronidation and sulfation become saturated in overdose, increasing NAPQI formation
   * NAPQI then covalently binds to critical proteins in hepatocytes, causing centrilobular hepatic necrosis and cell death
 
   * Toxic doses:
@@ -47,13 +48,17 @@ DrugTable("paracetamol", caption = "Paracetamol")
 ### Features of Overdose
 
 * Conscious
+    * May initially be asymptomatic
 * Nausea, vomiting, and epigastric pain
 * Haemolytic anaemia
 * Distributive shock
 * Hyperglycaemia
+* Acute kidney injury
 * Late (>48 hours) hepatic failure
+    * Right upper quadrant tenderness and jaundice
 * Later (3-5 days) coagulopathy
 * Fulminant hepatic failure (3-7 days)
+    * May cause encephalopathy, hypoglycaemia, and metabolic acidosis
 
 ### Treatment of Overdose
 

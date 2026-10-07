@@ -83,11 +83,16 @@ Re-enters haemoglobin synthetic pathway.
 * **Haeme**\
 Complex metabolic pathway, notable as it is the only metabolic process that produces **carbon monoxide**:
     * Metabolised to **biliverdin** by splenic macrophages in the reticuloendothelial system of the **spleen**
+        * **Haem oxygenase** produces the green pigment biliverdin, releasing iron and an equimolar amount of carbon monoxide
+        Carbon monoxide is excreted by the lungs.
         * Circulating erythrocytes are phagocytosed by splenic macrophages
         * Haptoglobin binds circulating Hb, the Hb-Haptoglobin complex is then phagocytosed by splenic macrophages
     * **Biliverdin** is reduced **to unconjugated bilirubin**\
 This is fat soluble, and binds to albumin.
+        * **Biliverdin reductase** catalyses this step, producing the yellow pigment bilirubin
     * **Unconjugated bilirubin** is conjugated in the liver to **conjugated bilirubin**
+        * Dissociates from albumin before uptake into hepatocytes
+        * Conjugation with **glucuronic acid** produces predominantly **bilirubin diglucuronide**, which is water soluble
     * **Conjugated bilirubin** is **secreted in bile** by active transport\
     This is impaired during hepatic disease, leading to increased bilirubin levels in plasma.
     * Secreted **conjugated bilirubin** is metabolised **to urobilinogen** by gut bacteria
@@ -115,6 +120,14 @@ This is fat soluble, and binds to albumin.
 :::column-margin
 Acholic stools describes a pale or clay-coloured stool that occurs due to ↓ urobilinogen excretion in bile.
 :::
+
+## Acute Blood Loss
+
+Immediately after haemorrhage, **Hb and haematocrit may be unchanged**, red cells and plasma are lost together and so the haemoglobin concentration is unchanged. Following haemorrhage:
+
+* ↓ Capillary hydrostatic pressure promotes movement of interstitial fluid into the circulation
+* Retained water and administered fluids also restore plasma volume
+* As plasma volume is restored, **Hb and haematocrit fall**
 
 ***
 

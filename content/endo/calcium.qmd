@@ -15,7 +15,14 @@ Normal plasma levels are 2.2-2.55 mmol.L^-1^, which (in plasma) may be:
 * Ionised (free) calcium (50%)\
 Normal range 1.1 to 1.3mmol^-1^.
 * Bound to albumin (40%)
+    * A fall in albumin reduces total calcium without necessarily reducing ionised calcium
 * As calcium compounds (10%)
+    * Complexes with small anions, such as citrate and phosphate
+    This fraction is diffusible but not ionised.
+
+:::column-margin
+The Guyton Man contains approximately 1100g (27.5mol) of calcium.
+:::
 
 ## Functions of Calcium
 
@@ -24,6 +31,7 @@ Physiological roles of calcium include:
 * **Cell signaling**\
 Calcium has a number of roles in cell signaling:
   * Affects cell sodium permeability and therefore the RMP of excitable cells
+      * Hypocalcaemia increases neuromuscular excitability and may cause **tetany**
   * Calcium triggers exocytosis of neurotransmitter vesicles
   * Calcium is an important second messenger for some G proteins
 * **Bone**\
@@ -37,11 +45,13 @@ Calcium is an important cofactor in enzymatic pathways, including the coagulatio
 
 ## Regulation of Calcium
 
-Calcium is regulated to maintain a stable **ionised** calcium level. Three hormones are involved in the regulation of calcium:
+Calcium is regulated to maintain a stable **ionised** calcium level. Mitochondria take up and release calcium, helping regulate cytoplasmic Ca^2+^.
+Three hormones are involved in the regulation of calcium:
 
 * **Parathyroid Hormone**\
 Protein hormone secreted by the four parathyroid glands, located on the posterior surface of the thyroid, in response to a ↓ in iCa^2+^ levels, and acts to **↑ plasma calcium**:
   * ↑ Calcium reabsorption in the PCT and late DCT
+  * ↓ Phosphate reabsorption in the PCT, increasing urinary phosphate excretion
   * ↑ Osteoclastic activity in bone
   * ↑ Vitamin D activation in the intestine, which in turn increases intestinal absorption of dietary calcium
 * **Vitamin D/Calcitriol**\
@@ -53,9 +63,20 @@ Peptide hormone secreted by the C cells of the thyroid gland, in response to a r
   * ↓ Absorption of calcium from gut and kidney
   * ↓ Osteoclastic activity of bone
 
+### Intestinal Absorption
+
+Transcellular calcium absorption occurs in three steps:
+
+* Ca^2+^ enters the enterocyte through **TRPV6** channels in the brush border
+* **Calbindin-D9k** buffers cytoplasmic Ca^2+^ and facilitates its movement across the cell
+* Ca^2+^ leaves predominantly through a basolateral **Ca^2+^-ATPase**, with **Na^+^/Ca^2+^ exchange (NCX1)** also contributing
+
+Calcitriol increases expression of calcium transport proteins, increasing absorption.
+
 ***
 
 ## References
 
 1. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.
 2. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
+3. [Intestinal absorption and renal reabsorption of calcium throughout postnatal development](https://pmc.ncbi.nlm.nih.gov/articles/PMC5407544/).

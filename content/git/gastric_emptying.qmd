@@ -58,6 +58,8 @@ Enhances gastric motility.
 * **Pregnancy**\
 Has a number of effects on gastric emptying:
     * Progesterone relaxes smooth muscle and inhibits gastric smooth muscle response to ACh and gastrin, as well as creating incompetence of the LoS leading to GORD
+        * Intestinal transit also slows
+    * The gravid uterus increases intragastric pressure and displaces the stomach, ↑ reflux
     * Gastrin production increases\
     Some gastrin is produced by the placenta.
     * Gastric acid production is increased during the the third trimester

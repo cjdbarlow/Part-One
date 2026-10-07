@@ -32,6 +32,8 @@ Agonism causes vasoconstriction, relaxation of GIT muscle (via presynaptic recep
 
 * Are present in the CNS, arterioles, pancreas\
 Agonism causes sedation, analgesia, vasodilatation, and inhibition of insulin release.
+* Presynaptic receptors inhibit noradrenaline release
+* Platelet receptors promote aggregation
 * They are:
     * G~i~ coupled
     * Inhibits adenylate cyclase, decreasing cAMP
@@ -41,6 +43,7 @@ Agonism causes sedation, analgesia, vasodilatation, and inhibition of insulin re
 * Are present in cardiac muscle and the JGA
     * Cardiac agonism increases inotropy, chronotropy, and dromotropy
     * JGA agonism increases renin release
+* Also present in adipose tissue and the CNS
 * Increase in cAMP increases intracellular calcium
 
 **β~2~-receptors**:

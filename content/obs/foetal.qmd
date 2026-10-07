@@ -22,6 +22,7 @@ Supplies oxygenated blood to the foetus.
     Shunts blood from the umbilical vein to the IVC.
     * **Ductus arteriosus**\
     Shunts blood from the pulmonary trunk to the descending aorta.
+        * The media contains longitudinal and spirally arranged smooth muscle
 * A **foramen ovale**\
 Shunts blood from the right atrium to the left atrium.
 * **Immature myocardium**\
@@ -54,6 +55,7 @@ Several changes happen at birth:
 There is a transition from circulation in parallel to circulation in series.
 * An **FRC is established**\
 Reversal of hypoxic pulmonary vasoconstriction results in a rapid drop in PVR.
+    * Pulmonary arterial pressure ↓↓ rapidly during the first day, then slowly ↓ over the following days and weeks
 * The cord is clamped (or spasms, eventually)\
 The systemic vascular bed volume falls, and SVR increases due to the loss of the low-resistance placental circulation.
 
@@ -61,9 +63,12 @@ This results in:
 
 * A ↓ in RV afterload, secondary to the ↓ in PVR\
 RAP falls due to the loss of hypoxic pulmonary vasoconstriction.
+    * Loss of umbilical venous return also ↓ RA filling
 * An ↑ LV afterload, secondary to the ↑ in SVR\
 LAP rises as the LV moves up the Starling curve.
+    * ↑ Pulmonary blood flow increases pulmonary venous return and left atrial filling
 * Closure of the foramen ovale when LAP > RAP\
+Anatomical fusion may take months.\
 A degree (~10%) of residual shunt remains. This shunt is generally bidirectional, and:
     * Left-to-right shunt is generally unconcerning
     * Right-to-left shunt has usually only minor effects on systemic SpO~2~\
@@ -72,8 +77,12 @@ A degree (~10%) of residual shunt remains. This shunt is generally bidirectional
       Don't forget the bubbles.
 * **Flow reversal** in the ductus arteriosus due to ↑ left-sided afterload\
 There is progressive closure of the ductus over hours to days, under the influence of prostaglandins and oxygenated blood flowing through the duct.
+    * In a healthy term neonate, functional closure usually occurs within the first 1-2 days
+    * Anatomical closure follows over ~2-3 weeks\
+    Intimal proliferation and fibrosis produce permanent closure.
 * Progressive fibrosis of the ductus venosus\
 Over a period of days to weeks.
+    * Umbilical flow ceases at birth, but flow through the ductus venosus may persist for several days, especially in preterm infants
 
 
 ***
@@ -83,3 +92,5 @@ Over a period of days to weeks.
 1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
 2. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
 3. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.
+4. Hooper SB, et al. [Cardiovascular transition at birth: a physiological sequence](https://www.nature.com/articles/pr201521). Pediatric Research. 2015.
+5. [Patent ductus arteriosus](https://doi.org/10.1161/CIRCULATIONAHA.105.592063). Circulation. 2006.

@@ -19,8 +19,11 @@ Occurs via two mechanisms:
 * ↑ Venous return\
 Due to ↑ intravascular volume and MSFP.
   * The gravid uterus may compress the IVC and impair VR, hence pregnant women are positioned with a left lateral tilt to displace the uterus off the IVC
+  * The gravid uterus may also compress the aorta, increasing LV afterload, especially when supine
 * ↑ VR causes an ↑ in CO, with both an ↑ in HR and SV, as well a ↓ in SVR
+    * The increase in SV contributes most early in pregnancy; the relative contribution of HR increases later
 * ↓ SVR results in ↓ SBP, DBP and MAP, which occurs despite the ↑ in CO
+    * Oestrogen and progesterone contribute to vasodilatation and the fall in SVR
 
 ## Magnitude of Changes by Trimester
 
@@ -42,6 +45,14 @@ Due to ↑ intravascular volume and MSFP.
 
 ### Other Changes
 
+* The fall in **DBP** is greater than the fall in SBP, widening pulse pressure
+* **LV mass** increases with the increased circulatory workload
+* **ECG** may show sinus tachycardia, a leftward axis shift, and minor ST depression or T-wave inversion in inferior and lateral leads\
+The gravid uterus elevates the diaphragm and changes the position of the heart.
+    * Flat T waves may also occur, particularly in lead III and V~1~-V~3~
+* An **ejection systolic murmur** may occur due to increased flow
+* **Twin pregnancy** generally produces a greater increase in CO than singleton pregnancy
+
 <img src="/resources/maternal-bp.svg" style="width: 15pc;">
 <img src="/resources/maternal-hb.svg" style="width: 15pc;">
 <img src="/resources/maternal-svr.svg" style="width: 15pc;">
@@ -52,6 +63,7 @@ Due to ↑ intravascular volume and MSFP.
 Causes an ↑ in CO by up to 30% during the active phase and 45% during ejection.
     * Associated with corresponding increase in SBP and DBP by 10-20mmHg
 * Post-partum CO is up to 80% of pre-labour values due to autotransfusion, and returns to normal within 2 weeks of delivery
+    * Relief of caval compression also increases venous return
 
 <img src="/resources/labor-co.svg">
 
@@ -59,3 +71,4 @@ Causes an ↑ in CO by up to 30% during the active phase and 45% during ejection
 ## References
 
 1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
+2. [Physiological changes in pregnancy](https://pmc.ncbi.nlm.nih.gov/articles/PMC4928162/). Cardiovasc J Afr. 2016.

@@ -90,6 +90,7 @@ Pharmacokinetics and pharmacodynamics are affected in:
 * **Absorption**
     * Decreased gastric emptying
     * Nausea and vomiting
+    * Gastrointestinal changes usually have little effect on the overall bioavailability of oral drugs
     * Increased cardiac output
         * Increases IM and SC absorption
     * Volatiles:
@@ -98,17 +99,21 @@ Pharmacokinetics and pharmacodynamics are affected in:
 * **Distribution**
     * Increased V~D~ due to:
         * Increased TBW
+            * ~7-8L by term, including the foetus, placenta and amniotic fluid
         * Increased plasma volume
         * Increased fat mass
+            * ~4kg by term
     * Decreased albumin and α~1~-glycoprotein
 * **Metabolism**
     * No change to HBF
     * Progesterone induces enzymes
     * Oestrogen competes for enzymes
-    * Decreased plasma cholinesterase activity
+    * ↓ Plasma cholinesterase activity
+        * Due to ↓ hepatic synthesis and haemodilution
 * **Elimination**
     * Increased RBF
     * Increased GFR
+        * Rises by ~50%, beginning early in pregnancy
 
 **Pharmacodynamic**:
 
@@ -316,3 +321,4 @@ May be:
 3. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
 4. CICM Examiner Report: Sep/Nov 2012
 5. Alfred Anaesthetic Department Primary Exam Tutorial Series
+6. Feghali M, Venkataramanan R, Caritis S. [Pharmacokinetics of drugs in pregnancy](https://pmc.ncbi.nlm.nih.gov/articles/PMC4809631/). Semin Perinatol. 2015;39:512-9.

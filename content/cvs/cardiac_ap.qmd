@@ -49,6 +49,10 @@ Phase 4 consists of:
 
 To prevent tetanic contraction ventricular muscle has a long plateau prior to repolarisation, which lengthens the absolute refractory period to **250ms**. The relative refractory period is **50ms**.
 
+* The **effective refractory period** is the period during which a stimulus cannot produce a propagated action potential
+* During the **relative refractory period**, some Na^+^ channels have recovered from inactivation\
+A stronger-than-usual stimulus may produce an action potential, but its upstroke and amplitude are reduced.
+
 <img src="/resources/ventricular-ap.svg">
 
 
@@ -56,14 +60,19 @@ To prevent tetanic contraction ventricular muscle has a long plateau prior to re
 
 * **Phase 0**: Depolarisation\
 At the threshold potential, voltage-gated **fast-Na^+^** channels open briefly, causing depolarisation. The membrane potential peaks at **30mV**.
+    * Threshold is ~-70mV
+    * Inward rectifier K^+^ conductance falls as the membrane depolarises
 * **Phase 1**: Partial Repolarisation\
 The closure of Na^+^ channels results in K^+^ fleeing the cell down its electrochemical gradient, causing a slight drop in voltage called partial repolarisation.
+    * A transient outward K^+^ current contributes
 * **Phase 2**: Plateau\
 **L-type Ca^2+^ channels** open, causing a slow inward Ca^2+^ current which maintains depolarisation and facilitates muscle contraction.
 * **Phase 3**: Repolarisation\
 Membrane permeability normalises, and outward potassium current returns the membrane potential to normal.
+    * L-type Ca^2+^ channels inactivate, while delayed rectifier K^+^ currents increase
 * **Phase 4**: Resting Potential\
 Membrane potential returns to its resting **-85mV**.
+    * High resting K^+^ permeability, predominantly through inward rectifier channels, keeps it close to the K^+^ equilibrium potential
 
 ## Propagation of the Cardiac Action Potential
 
@@ -140,3 +149,4 @@ The transplanted heart has no vagal/parasympathetic innervation but still expres
 1. Kam P, Power I. Principles of Physiology for the Anaesthetist. 3rd Ed. Hodder Education. 2012.
 2. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
 3. Matsuura W, Sugimachi M, Kawada T, Sato T, Shishido T, Miyano H, Nakahara T, Ikeda Y, Alexander J Jr, Sunagawa K. [Vagal stimulation decreases left ventricular contractility mainly through negative chronotropic effect](http://ajpheart.physiology.org/content/273/2/H534.long). Am J Physiol. 1997 Aug;273.
+4. Klabunde RE. [Non-Pacemaker Action Potentials](https://cvphysiology.com/arrhythmias/a006). Cardiovascular Physiology Concepts.

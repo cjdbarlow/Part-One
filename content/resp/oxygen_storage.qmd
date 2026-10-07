@@ -49,48 +49,65 @@ Comparison of gas content of both oxygen and carbon dioxide per 100mL of blood:
 
 ### Haemoglobin Species
 
-Haemoglobin is a four-tetramer molecule, and its species can be physiological or pathological:
 
-* **Physiological**
-    * **HbA**\
-        * Most common
-        * 2 alpha and 2 beta subunits (α~2~β~2~)
-    * **HbA~2~**
-        * Less common
-        * 2 alpha and 2 delta subunits (α~2~δ~2~)
-    * **HbF**
-        * Foetal Hb
-        * Higher affinity for oxygen due to lack of 2,3-DPG
-        * 2 alpha and 2 gamma subunits (α~2~γ~2~)<br> <br>
-* **Pathological**
-    * **HbS**\
-    Sickle-cell disease.
-        * Abnormal beta subunit
-        * Unable to deform as they pass through capillaries
-            * Increases blood viscosity, thrombus, and ischaemia through capillary occlusion
-            * Often causes splenic infarction
-            * Reduced red cell lifespan to 10-20 days <br> <br>
-    * **MetHb**\
-    Methaemoglobinaemia.
-        * Ferrous iron (Fe^2+^) is oxidised to ferric iron (Fe^3+^)
-        * Cannot bind oxygen, and left-shifts the oxyHb curve for normal Hb which reduces oxygen offloading at tissues
-        * Normally prevented by:
-            * Glutathione in red cell reduces oxidising agents
-            * Methaemoglobin reductase enzyme uses NADH to reduce MetHb
-        * Occurs due to:
-            * Oxidising agents overwhelm capacity of glutathione system, e.g.:
-                * SNP
-                * NO
-                * Amide local anaesthetics
-                * Sulfonamides
-            * Failure of the methaemoglobinaemia reductase enzyme:
-                * G6PD
-    * **COHb**\
-    Carboxyhaemoglobin.
-        * Haemoglobin binds carbon monoxide with greater affinity than oxygen<br> <br>
-    * **CyanoHb**\
-        * Haemoglobin **irreversibly** binds cyanide molecules, causing a **functional anaemia**
-        * Cyanide inhibits cytochrome oxidase in the electron transport chain, preventing oxidative phosphorylation occurring
+Haemoglobin is:
+
+* A four-tetramer molecule
+* Each globin chain contains a **haeme group** with one ferrous iron (Fe^2+^)
+    * Each iron molecule reversibly binds one O~2~ molecule\
+    Also binds the imidazole group of a **proximal histidine** in the globin chain
+* Divided into physiological and pathological species
+
+
+**Physiological** species:
+
+* **HbA**\
+    * Most common
+    * 2 alpha and 2 beta subunits (α~2~β~2~)
+* **HbA~2~**
+    * Less common
+    * 2 alpha and 2 delta subunits (α~2~δ~2~)
+* **HbF**
+    * Foetal Hb
+    * Higher affinity for oxygen due to lack of 2,3-DPG
+    * 2 alpha and 2 gamma subunits (α~2~γ~2~)<br> <br>
+
+**Pathological** species:
+
+* **HbS**\
+Sickle-cell disease.
+    * Abnormal beta subunit
+    * Unable to deform as they pass through capillaries
+        * Increases blood viscosity, thrombus, and ischaemia through capillary occlusion
+        * Often causes splenic infarction
+        * Reduced red cell lifespan to 10-20 days <br> <br>
+* **MetHb**\
+Methaemoglobinaemia.
+    * Normally <2% of total haemoglobin
+    * Ferrous iron (Fe^2+^) is oxidised to ferric iron (Fe^3+^)
+    * Cannot bind oxygen, and left-shifts the oxyHb curve for normal Hb which reduces oxygen offloading at tissues
+    * Levels <10% are usually asymptomatic in otherwise healthy people
+    * Rising levels cause cyanosis and chocolate-brown blood
+    * Severe methaemoglobinaemia may cause lactic acidosis, seizures, coma, arrhythmias, circulatory failure and death\
+    Severity depends on the MetHb level, total haemoglobin and cardiopulmonary reserve.
+    * Normally prevented by:
+        * Glutathione in red cell reduces oxidising agents
+        * Methaemoglobin reductase enzyme uses NADH to reduce MetHb
+    * Occurs due to:
+        * Oxidising agents overwhelm capacity of glutathione system, e.g.:
+            * SNP
+            * NO
+            * Amide local anaesthetics
+            * Sulfonamides
+        * Failure of the methaemoglobinaemia reductase enzyme:
+            * G6PD
+* **COHb**\
+Carboxyhaemoglobin.
+    * Left-shifts the dissociation curve of the remaining oxygen-binding sites, impairing oxygen unloading
+    * Haemoglobin binds carbon monoxide with greater affinity than oxygen<br> <br>
+* **CyanoHb**\
+    * Haemoglobin **irreversibly** binds cyanide molecules, causing a **functional anaemia**
+    * Cyanide inhibits cytochrome oxidase in the electron transport chain, preventing oxidative phosphorylation occurring
 
 ### Oxygen Saturation
 
@@ -125,3 +142,4 @@ This allows it to take up oxygen from haemoglobin (as the partial pressure gradi
 
 1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
 2. Brandis K. [The Physiology Viva: Questions & Answers](http://www.anaesthesiamcq.com/vivabook.php). 2003.
+3. Agency for Toxic Substances and Disease Registry. [Nitrate/Nitrite Toxicity: Clinical Assessment](https://archive.cdc.gov/www_atsdr_cdc_gov/csem/nitrate-nitrite/clinical_assessment.html).

@@ -26,9 +26,9 @@ Outline temperature regulation in the neonate and the physiological responses to
 
 The body is able to maintain a relatively constant core temperature under a wide range of environmental conditions by **balancing heat loss and heat production**, predominantly through behavioural mechanisms and skin.
 
-The **thermoneutral zone** is the range across which the basal rate heat production (and oxygen consumption) is balanced by the rate of heat loss:
+The **thermoneutral zone** is the range across which the basal rate heat production (and oxygen consumption) is balanced by the rate of heat loss. Below this range, metabolic activity must ↑ to retain body temperature:
 
-* For an adult it is **typically 27-31°C**
+* For an unclothed resting adult adult it is **typically 27-31°C**
 * In neonates it is higher, **typically 32-34°C**.
 
 
@@ -72,6 +72,7 @@ Radiative heat exchange:
 
 **Convection** is loss of heat by conduction by a moving object. Convection is:
 
+* Sustained as warm air rises from the skin and is replaced by cooler air
 * The predominant mechanism of heat loss in the naked human\
 Effects are greater effects at higher wind speeds.
 
@@ -81,6 +82,7 @@ Effects are greater effects at higher wind speeds.
 **Evaporative losses** describe the loss of heat energy due to the latent heat of vapourisation of water. Evaporation:
 
 * Of 100ml of water will reduce body temperature by ~1°C
+* Occurs continuously from the skin and respiratory tract as **insensible loss**
 
 
 ## Temperature Sensation and Regulation
@@ -97,6 +99,7 @@ Temperature sensors are **central** and **peripheral**, whilst **regulation** oc
 Central temperature sensors exist in the:
 
 * Abdominal viscera
+* In and around the great veins of the upper abdomen and thorax
 * Spinal cord
 * Hypothalamus\
 **Anterior hypothalamus** is the most important central thermoreceptor, and responds to  both increased and decreased temperatures by **altering their rate of depolarisation**, eliciting an array of neuronal and hormonal responses.
@@ -113,8 +116,10 @@ Alter their rates of firing by orders of magnitude in response to temperature ch
 * Divided into:
     * **Cold receptors**\
     Lie beneath the epidermis, and are excited by cooling (inhibited by warming), active from 10-40°C, with a static maxima at 25°C.
+        * Transmit predominantly via Aδ fibres
     * **Warm receptors**\
     Lie deep to the dermis, are excited by warming (and inhibited by cooling), active from 30-50°C, with a static maxima at 44°C.
+        * Transmit via unmyelinated C fibres
 
 
 ### Regulation
@@ -155,14 +160,20 @@ This is of more importance in other primates than in man, as they have enough bo
         Levels of thyroid hormone and adrenaline increase, raising metabolic rate in all cells
         * Brown fat\
         Brown fat produces heat through **uncoupled oxidative phosphorylation**, which uses the electron transport chain to produce heat rather than ATP. Brown fat is:
+            * Rich in mitochondria
             * A vital mechanism for heat production in the **neonate** (they have an **immature shivering response**), and forms ~5% of neonatal mass
+                * Neonates lose heat readily because of their high surface area relative to body mass and limited subcutaneous insulation
             * Located in:
                 * Neck
                 * Supraclavicular
+                * Axillae
                 * Interscapular
+                * Mediastinum
                 * Suprarenal
             * Sympathetically innervated\
             Contains large numbers of β~3~ receptors
+                * Cold stimulates noradrenaline release, increasing cAMP and activating protein kinase A
+                This stimulates lipolysis, providing fatty acids for oxidation and uncoupling.
 
 
 ## Effect of Anaesthesia {#anaes}
@@ -204,3 +215,6 @@ regulates temperature when the ambient temperature exceeds the
 thermoneutral zone](https://primarysaqs.files.wordpress.com/2009/12/2008a10-define-tmz-briefly-explain-how-the-body-regulates-temp-when-the-ambient-temp-exceeds-the-tmz.pdf). Primary SAQs.
 4. Buggy DJ, Crossley AW. [Thermoregulation, mild perioperative hypothermia and
 postanaesthetic shivering](https://academic.oup.com/bja/article-pdf/84/5/615/928512/840615.pdf). Br J Anaesth. 2000 May;84(5):615-28.
+5. [Convection](https://openstax.org/books/college-physics-2e/pages/14-6-convection). College Physics 2e. OpenStax.
+6. Carter BW, Schucany WG. [Brown adipose tissue in a newborn](https://pmc.ncbi.nlm.nih.gov/articles/PMC2446425/). Proc (Bayl Univ Med Cent). 2008;21:328-30.
+7. Tansey EA, Johnson CD. [Recent advances in thermoregulation](https://pureadmin.qub.ac.uk/ws/portalfiles/portal/119849020/Recent_advances_in_thermoregulation.pdf). Adv Physiol Educ. 2015;39:139-48.

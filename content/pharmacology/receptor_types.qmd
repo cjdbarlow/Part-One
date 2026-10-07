@@ -32,6 +32,8 @@ Enzyme-linked receptors are activated by a ligand and cause enzymatic activity o
 * **Dimers**\
 Where two proteins join, or diamerise, on binding of a ligand.
 
+**Protein kinases** transfer phosphate from ATP to serine, threonine or tyrosine residues on target proteins, changing their activity.
+
 
 ## Ion-channel Receptors
 
@@ -66,6 +68,8 @@ However some drugs (e.g. local anaesthetics) bind to voltage gated channels to e
 * Have a common 4-subunit structure (each with 6 transmembrane segments) surrounding a central pore\
 This pore is selective for the particular ion, which include:
     * Na^+^
+        * The intracellular loop between domains III and IV forms the fast inactivation gate
+        * The loops between S5 and S6 form the pore and determine ion selectivity
         * Located in myocytes and neurons
         * Important in generating and transmitting an action potential by permitting sodium influx into cells
         * Inhibited by local anaesthetics, anti-epileptics, and some anti-arrhythmics
@@ -92,6 +96,12 @@ This is sensed by the **S4 helix**, which acts to open and close the channel.
 
 ## G-protein Coupled Receptors
 
+G-protein signalling involves:
+
+* Lipid groups on the α and γ subunits, which anchor the complex to the inner surface of the cell membrane
+* **Intrinsic GTPase activity** of the α-subunit\
+It hydrolyses GTP to GDP, then reassociates with βγ to terminate the signal.
+
 G-proteins coupled (metabotropic) receptors are a group of **heterotrimeric** (containing three units; α, β, γ) proteins which bind GDP. When stimulated, the GDP is replaced by GTP and the α-GTP subunit dissociates to activate or inhibit an effector protein. The **effect depends** on the **type of α-subunit**:
 
 * G~**s**~ proteins\
@@ -100,6 +110,7 @@ Are **stimulatory**. These
 * G~**i**~ proteins\
 Are **inhibitory**. These:
     * Inhibit adenylyl cyclase, reducing cAMP
+    * The associated βγ complex can open cardiac K^+^ channels
 * G~q~ proteins\
 Have a variable effect, depending on the cell. These:
     * Activate phospholipase C\
@@ -108,10 +119,28 @@ Have a variable effect, depending on the cell. These:
         Stimulates Ca^2+^ from the SR, affecting enzymatic function or causing membrane depolarisation.
         * Diacylglycerol (DAG)  \
         Activates protein kinase C, which has cell-specific effects.
+* G~t~ proteins (transducin)\
+Activate cGMP phosphodiesterase in retinal photoreceptors, reducing cGMP.
+* G~olf~ proteins\
+Activate adenylyl cyclase in olfactory neurons, increasing cAMP.
 * Activate intracellular **second messenger proteins** when stimulated\
 Second messenger systems:
     * Result in both transmission and **amplification** of a stimulus, as a single activated receptor can activate multiple proteins and each activated protein may activate several other intermediate proteins\
     This is known as a G-protein **cascade**.
+    * DAG and signalling phosphoinositides remain in the membrane, while cAMP, cGMP and IP~3~ act within the cytosol
+    * Gases such as NO, CO and H~2~S can also act as signalling molecules
+    * **Ca^2+^** signals arise from entry across the cell membrane or release from intracellular stores:
+        * Resting cytoplasmic Ca^2+^ is low (~100nmol.L^-1^), so release from stores produces a large signalling change
+        * Ca^2+^ binds to proteins such as **calmodulin**, which activates Ca^2+^-calmodulin-dependent kinases
+
+## Regulation of Gene Transcription
+
+Cell-surface signals can alter gene expression by activating transcription factors:
+
+* **MAP-kinase pathways** activate kinases that phosphorylate transcription factors
+* **JAK-STAT pathways** link cytokine receptors to gene transcription\
+JAKs phosphorylate STATs, which enter the nucleus and regulate transcription.
+* **NF-κB** is activated by signals such as TNF, then enters the nucleus to alter transcription
 
 
 ***
@@ -122,3 +151,5 @@ Second messenger systems:
 2. [Law of Mass Action](https://www.britannica.com/science/law-of-mass-action). Encyclopaedia Britannica.
 3. ANZCA August/September 2001
 4. Catterall WA. [Structure and Function of Voltage-Gated Ion Channels](https://perso.univ-rennes1.fr/francois.tiaho/M1-PTS-Tiaho/Bibliographie/1995-catterall.pdf). Annu. Rev. Biochem. 1995. 64:493-531.
+5. Purves D, Augustine GJ, Fitzpatrick D, et al., eds. [G-Proteins and Their Molecular Targets](https://www.ncbi.nlm.nih.gov/books/NBK10832/). Neuroscience. 2nd Ed. Sinauer Associates. 2001.
+6. Alberts B, Johnson A, Lewis J, et al. [Signaling through Enzyme-Linked Cell-Surface Receptors](https://www.ncbi.nlm.nih.gov/books/NBK26822/). Molecular Biology of the Cell. 4th Ed. Garland Science. 2002.

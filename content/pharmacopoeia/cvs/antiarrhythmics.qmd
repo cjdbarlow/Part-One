@@ -53,6 +53,7 @@ This classification is notably incomplete, as some drugs (such as amiodarone) fi
 * Class Ic agents are used to suppress unidirectional or intermittent conduction pathways
 * As they markedly slow conduction velocity they **increase QRS duration**
 * Examples of Class Ic agents include **flecainide**
+    * Propafenone is another example
 
 ![](/resources/ventricular-ap-Ic.svg){fig-alt="Ventricular action potential under class Ic sodium-channel blockade, showing markedly slower phase zero depolarisation with little change in duration."}
 
@@ -83,6 +84,8 @@ DrugTable("esmolol", "metoprolol", "atenolol", "propranolol", caption = "Class I
 
 
 ## Class III{#iii}
+
+**Bretylium** is another example of a class III agent.
 
 Blocking of outward K^+^ channels slows cardiac repolarisation, which increases the cardiac refractory period. This has a number of beneficial effects:
 
@@ -118,6 +121,8 @@ DrugTable("verapamil", "diltiazem", caption = "Class IV Antiarrhythmics")
 
 ## Alternatives to Vaughan Williams
 
+Other approaches include the **Sicilian Gambit**, which relates arrhythmia mechanisms to drug targets, and the **modernised Oxford classification**, which expands the Vaughan Williams classes to include additional targets.
+
 As the Vaughan Williams classification system does not neatly divide agents, and some agents do not fit into any category, they may also be classified by their uses:
 
 : Alternative Antiarrhythmic Selection by Indication
@@ -140,3 +145,4 @@ DrugTable("digoxin", "adenosine", "magnesium_sulfate", caption = "Non-Vaughan Wi
 1. Rang HP, Dale MM, Ritter JM, Flower RJ. Rang and Dale's Pharmacology. 6th Ed. Churchill Livingstone.
 2. Brunton LL, Chabner BA, Knollmann BC, eds. Goodman & Gilman's The Pharmacological Basis of Therapeutics. 12th Ed. McGraw-Hill. 2011.
 3. Peck TE, Hill SA. Pharmacology for Anaesthesia and Intensive Care. 4th Ed. Cambridge University Press. 2014.
+4. Lei M, Wu L, Terrar DA, Huang CLH. [Modernized Classification of Cardiac Antiarrhythmic Drugs](https://pubmed.ncbi.nlm.nih.gov/30354657/). Circulation. 2018.

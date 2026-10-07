@@ -6,6 +6,10 @@ Describe the distribution of blood volume and flow in the various regional circu
 
 The liver serves as a blood reservoir (30ml per 100g, half of which may be mobilised in hypovolaemia), and receives **25%** of cardiac output from a unique dual blood supply:
 
+:::column-margin
+A **portal circulation** carries blood from one capillary bed to another before returning it to the heart. Examples are the hepatic and hypothalamic-hypophyseal portal systems.
+:::
+
 * **Hepatic arterial system**
     * Supplies about **one-third** of blood, but 40-50% of O~2~\
     * **SpO~2~** of **~98%** (as would be expected)
@@ -18,10 +22,13 @@ The liver serves as a blood reservoir (30ml per 100g, half of which may be mobil
         * In the **active gut**, SpO~2~ is **~75%**
     * Low-resistance, low-pressure, low-velocity system (average flow 9cm.s^-1^)
     * No capacity to autoregulate
+    * Normal portal venous pressure is **~5-10mmHg**
 
 ## Regulation of Flow
 
 As with other organs, blood flow is autoregulated via intrinsic and extrinsic mechanisms, and may be affected by external factors.
+
+**Portal inflow** is determined mainly by arteriolar resistance in the upstream splanchnic organs. Portal venous pressure depends on this inflow, resistance through the liver, and hepatic venous pressure.
 
 ### Intrinsic Autoregulation
 
@@ -82,3 +89,4 @@ This arrangement:
 4. Kogire M, Inoue K, Sumi S, Doi R, Yun M, Kaji H, Tobe T. [Effects of gastric 
 inhibitory polypeptide and glucagon on portal venous and hepatic arterial flow in
 conscious dogs](https://www.ncbi.nlm.nih.gov/pubmed/1425064). Dig Dis Sci. 1992 Nov;37(11):1666-70.
+5. Lautt WW. [Resistance in the Venous System](https://www.ncbi.nlm.nih.gov/books/NBK53067/). Hepatic Circulation: Physiology and Pathophysiology. Morgan & Claypool Life Sciences. 2009.

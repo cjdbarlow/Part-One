@@ -13,8 +13,10 @@ Describe the monosynaptic stretch reflex, single twitch, and tetanus
 A motor unit consists of an α-motor neuron and the group of muscle cells that it innervates:
 
 * An action potential in this neuron will cause contraction of all the myocytes in the unit
+* Fibres from different motor units **intermingle** in microbundles of 3-15 fibres, so recruitment increases force without changing the direction of pull
 * Large muscles have many myocytes per unit
 * Small, precise muscles (e.g. extraocular) have few myocytes per unit
+    * Some laryngeal motor units contain only 2-3 myocytes
 
 ## Force of Contraction
 
@@ -107,3 +109,4 @@ Motor neuron is separated from the sensory neuron by one or more interneurons in
 
 1. Chambers D, Huang C, Matthews G. Basic Physiology for Anaesthetists. Cambridge University Press. 2015.
 2. ANZCA March/April 2000
+3. Hall JE, Hall ME. Guyton and Hall Textbook of Medical Physiology. 14th Ed. Elsevier. 2021.

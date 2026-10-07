@@ -24,6 +24,9 @@ The ratio of the **rate constant** for the forwards reaction (formation of the d
 
 * This is the concentration of drug when 50% of receptors are occupied: $K_D = {[D][R] \over [D-R]}$
 * A **low K~D~** value indicates that a lower concentration of drug is required to occupy 50% of the receptor, indicating that the drug has a **high affinity** for the receptor
+* The **equilibrium association constant** is its reciprocal: $K_A = 1/K_D$
+* K~D~ describes receptor occupancy, while EC~50~ describes the concentration producing 50% of the maximal effect\
+These are not equivalent; receptor occupancy and response are not necessarily proportional.
 
 Physiological factors which affect the dissociation constant are determined by the **Arrhenius equation**, $k = Ae^{-E_A \over RT}$, where:
 
@@ -80,6 +83,7 @@ A partial agonist:
 * Generates a **submaximal** response at the receptor
 * Has **high affinity** and an **activity between 0 and 1**
 * Can act as an effective antagonist in the presence of a full agonist, as it will prevent maximal binding at a receptor, even with a high agonist concentration
+* Contributes its own response at low full-agonist concentrations
 
 ### Inverse Agonist 
 
@@ -105,6 +109,7 @@ Displace other ligands from a binding site. Competitive antagonists can be:
 * **Non-competitive antagonists**\
 Create a conformational change in the receptor. They **cannot be overridden** by increasing the dose of agonist.
 
+For a competitive antagonist, the **dose ratio** is the agonist concentration required for a given response in the presence of antagonist divided by that required in its absence.
 
 
 ### Indirect Antagonist
@@ -139,3 +144,4 @@ Decreases affinity for endogenous agonist.
 1. Pinnock C, Lin T, Smith T. Fundamentals of Anaesthesia. 2nd Ed. Cambridge Universiy Press. 2003.
 2. Encyclopaedia Britannica. Available at: https://www.britannica.com/science/law-of-mass-action
 3. Petkov V. Essential Pharmacology For The ANZCA Primary Examination. Vesselin Petkov. 2012.
+4. [Receptors](https://pharmacologyeducation.ed.ac.uk/pharmacology/receptors). IUPHAR Pharmacology Education Project.

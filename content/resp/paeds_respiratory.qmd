@@ -24,6 +24,7 @@ Neonatal chest walls are highly compliant relative to their lungs (due to both a
     * There is a ~10% shunt after birth which contributes to a greater A-a gradient
 * **Ventilation**
     * Obligate nose breathers
+    * Narrow nasal passages contribute substantially to airway resistance
     * Increased CO~2~ production due to higher metabolic rate
     * Increased minute ventilation, which is due to increased respiratory rate (25-40 breaths per minute)
 * **Neurological control of breathing**\
@@ -36,17 +37,28 @@ Respiratory patterns change following birth, and complete change to adult respir
     * Tidal volume and dead space are unchanged
 * **Laryngeal anatomy**
     * Large head
+        * A prominent occiput flexes the neck when supine; a neutral position helps maintain airway patency
+    * Short neck and small mandible
     * Large tongue
     * Large, stiff, U-shaped epiglottis
+        * May obscure the glottic view; a straight laryngoscope blade can lift it directly
+    * Prominent tonsils and adenoids may obstruct the airway\
+    Adenoidal tissue may bleed with nasal instrumentation.
     * Elevated larynx\
     Glottis is at C-3C4 (C6 in adults).
     * Upper airway is narrowest at the cricoid ring (rather than the glottis).
     * Trachea is shorter and narrower\
     4-5cm long, 6mm diameter in the neonate.
+        * Head and neck movement can displace the tracheal tube; marked flexion may also cause kinking
+    * Tracheal cartilage is compliant, increasing susceptibility to dynamic collapse
+    * Subglottic mucosa is loosely attached and prone to oedema after trauma
 * **Small airways**\
     * Reduced bronchial smooth muscle so bronchospasm is uncommon
     * Bronchioles contribute 50% of airways resistance\
     Bronchiolitis much more distressing in neonates and children.
+* **Alveoli**
+    * Alveolar number increases rapidly in early childhood and continues to increase through adolescence
+    * Alveolar septa are initially thicker and become thinner as the lung matures
 
 ***
 
@@ -54,3 +66,4 @@ Respiratory patterns change following birth, and complete change to adult respir
 
 1. Lumb A. Nunn's Applied Respiratory Physiology. 7th Edition. Elsevier. 2010.
 2. CICM March/May 2013
+3. Narayanan M, et al. [Alveolarization continues during childhood and adolescence](https://pmc.ncbi.nlm.nih.gov/articles/PMC3410735/). Am J Respir Crit Care Med. 2012.

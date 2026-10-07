@@ -96,11 +96,15 @@ Fast Na^+^ channels are responsible for depolarisation. They exist in three stat
 
 * **Closed**\
 Impermeable to Na^+^.
+    * The activation gate is closed and the inactivation gate is open
 * **Open**\
 Permeable to Na^+^. Occurs when the membrane potential reaches threshold potential.
+    * Depolarisation opens the activation gate before the slower inactivation gate closes
     * Different voltage-gated channels may have slightly different opening (threshold) potentials\
 * **Inactivated**\
 Impermeable to Na^+^. Occurs shortly after the open state, and lasts until the membrane potential falls below -50mV.
+    * The inactivation gate prevents Na^+^ entry despite the open activation gate
+    * Repolarisation closes the activation gate and reopens the inactivation gate, returning the channel to its resting state
 
 Voltage-gated K^+^ channels:
 
