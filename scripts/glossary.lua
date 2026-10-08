@@ -29,7 +29,10 @@ for k, _ in pairs(glossary) do
 end
 
 -- Pre-compute separator set once
-local separators = {[","]=true, [";"]=true, ["/"]=true, ["."]=true}
+local separators = {
+  [","]=true, [";"]=true, ["/"]=true, ["."]=true,
+  ["("]=true, [")"]=true, ["["]=true, ["]"]=true
+}
 
 -- Quick check: does string contain a separator?
 local function hasSeparator(text)
