@@ -1,0 +1,74 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007B Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the factors that affect the partial pressure of carbon dioxide in mixed venous blood.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} **Mixed Venous Carbon Dioxide Content**, **Tissue Production**, **Arterial Content and Ventilation**, and **The Dissociation Curve and Haldane Effect**. Connect these determinants to mixed venous partial pressure.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**38%** of candidates passed this question.
+
+The partial pressure of carbon dioxide in mixed venous blood depends on the carbon dioxide content of the blood and represents a balance between CO~2~ production in the tissues and content in the arterial blood. Good answers demonstrated an understanding of this and provided details about these aspects
+
+The partial pressure is related to the content by the carbon dioxide dissociation curve the position of which is determined by the state of oxygenation of haemoglobin, the Haldane effect. Carbon dioxide is present in the blood in three forms, dissolved, bicarbonate and carbamino compounds.
+
+Carbon dioxide production is related to aerobic metabolism in cells and the total production is defined by the metabolic rate. Production may be increased (e.g. exercise, fever, MH, pregnancy) or decreased (e.g. anaesthesia, hypothermia).
+
+The partial pressure of carbon dioxide in mixed venous blood is related to the pressure or content in arterial blood. This is determined by alveolar ventilation and normally controlled by chemoreceptor and the brainstem respiratory centre.
+
+Other relevant material included definitions of mixed venous blood, normal values, the effect of temperature and cardiac output.
+
+The most common error was discussing PCO2 without making it clear whether it was venous or arterial. The Fick equation was often used but required “solving” for CvCO~2~ to demonstrate the factors or importance to this question.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Carbon Dioxide](/content/resp/co2_transport.qmd)

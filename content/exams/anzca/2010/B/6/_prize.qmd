@@ -1,0 +1,168 @@
+#### List:
+
+- TCI basics
+- Compartment modelling
+- Induction
+- Maintenance
+- Offset
+- Model comparison
+
+#### TCI basics:
+
++-------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| Aim         | - Achieve target rapidly and with minimal overshoot                                                                                           |
+|             | - Maintain target with minimal variability                                                                                                    |
++-------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| Device      | - Pump + syringe                                                                                                                              |
+|             | - User interface                                                                                                                              |
+|             | - Microprocessor                                                                                                                              |
++-------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| Set up      | - Enter patient age, weight +/- height, sex                                                                                                   |
+|             | - Enter desired Cpt or Cet (usually 1-8mcg/mL)                                                                                                |
++-------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| Functioning | - Initial loading dose                                                                                                                        |
+|             | - Continuous infusion with q10 second rate adjustment                                                                                         |
+|             | - Desired concentration reached within 30-60 seconds                                                                                          |
+|             | - Rate increase: further bolus then increased infusion rate                                                                                   |
+|             | - Rate decrease: pause then decreased infusion rate                                                                                           |
+|             | - Allow overshoot and undershoot of Cpt if targeting Cet                                                                                      |
++-------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| Graph       | ![](/content/exams/anzca/2010/B/6/prize-image001.jpg){fig-alt="Propofol plasma and effect-site concentrations with changing infusion rates"}  |
++-------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### TCI compartment modelling:
+
++-------------+-------------------------------------------------------------------------------------------------------------------------------+
+| Diagramme   | ![](/content/exams/anzca/2010/B/6/prize-image002.jpg){fig-alt="Three compartment and effect-site model with rate constants"}  |
++-------------+-------------------------------------------------------------------------------------------------------------------------------+
+| Cp (V~1~)   | - Small number of healthy volunteers                                                                                          |
+|             | - Propofol infusion at various rates for various duration                                                                     |
+|             | - Serial blood sampling → chromatography                                                                                      |
+|             | - Plot Cp vs time                                                                                                             |
+|             | - Non-linear regression analysis → tri-exponential decay curve, rate constants, compartment volumes                           |
+|             |                                                                                                                               |
+|             | ![](/content/exams/anzca/2010/B/6/prize-image003.jpg){fig-alt="Multi-exponential decline in concentration after a bolus"}     |
++-------------+-------------------------------------------------------------------------------------------------------------------------------+
+| Ce (V~e~)   | - Cannot measure directly                                                                                                     |
+|             | - Derived from relationship between Cp and EEG data                                                                           |
+|             | - Comprises:                                                                                                                  |
+|             |   - Time for Cp-Ce equilibration (some delay)                                                                                 |
+|             |     - i.e. pharmacobiophasics: ∆Ce/dt = k~1e~Cp – k~e0~Ce                                                                     |
+|             |   - Time for drug-receptor interactions (minimal delay)                                                                       |
+|             |     - i.e. pharmacodynamics: E = E~0~ + (E~max~ x Ce^γ^) / (EC~50~ + Ce^γ^)                                                   |
++-------------+-------------------------------------------------------------------------------------------------------------------------------+
+| Limitations | **Fundamental:**                                                                                                              |
+|             |                                                                                                                               |
+|             | - Simplification of body composition                                                                                          |
+|             | - Failure to model intravenous induction                                                                                      |
+|             | - Inability to measure Ce                                                                                                     |
+|             |                                                                                                                               |
+|             | **Logistical:**                                                                                                               |
+|             |                                                                                                                               |
+|             | - Processor maximum rate 1200mL/h                                                                                             |
+|             | - Inability to identify line disconnection                                                                                    |
+|             |                                                                                                                               |
+|             | **Kinetic:**\                                                                                                                 |
+|             | *Inaccurate estimates of:*                                                                                                    |
+|             |                                                                                                                               |
+|             | - V1: ∝ blood volume (↑ in pregnancy, ↓in haemorrhagic shock)                                                                 |
+|             | - V2: ∝ musculature (↑ in athletes)                                                                                           |
+|             | - V3: ∝ adiposity (↑in obese)                                                                                                 |
+|             | - Inter-compartmental rate constants: ∝ cardiac output (↓ in shock)                                                           |
+|             | - Elimination rate constant: ∝ clearance (↓ in liver failure)                                                                 |
+|             |                                                                                                                               |
+|             | **Dynamic:**                                                                                                                  |
+|             |                                                                                                                               |
+|             | *Highly variable Cp50:*                                                                                                       |
+|             |                                                                                                                               |
+|             | - Receptor polymorphism                                                                                                       |
+|             | - Use of adjuvants                                                                                                            |
++-------------+-------------------------------------------------------------------------------------------------------------------------------+
+
+#### Induction:
+
++--------------------------------+------------------------------------------------------------------------------+
+| TCI induction kinetics         | - Poorly modelled                                                            |
+|                                | - Loading dose = Cpt x V~DC~                                                 |
+|                                | - At 70kg, V~DC~ 0.45L/kg, Cpt 4mcg/mL, dose = 126mg                         |
+|                                | - Infusion rate (Q) max 1200mL/h in most machines                            |
++--------------------------------+------------------------------------------------------------------------------+
+| Alternative induction kinetics | Time to LOC ∝ peak Cp / time to peak Cp                                      |
+|                                |                                                                              |
+|                                | \(A\) Peak Cp ∝                                                              |
+|                                |                                                                              |
+|                                | - Dose size                                                                  |
+|                                | - Speed of injection                                                         |
+|                                | - 1/Cardiac output                                                           |
+|                                | - 1/Central blood volume (Central blood volume ∝ total blood volume)         |
+|                                | - Speed and extent of recirculatory second peak (important if bolus is slow) |
+|                                |                                                                              |
+|                                | \(B\) Time to peak Cp ∝                                                      |
+|                                |                                                                              |
+|                                | - 1/Cardiac output (note contradictory effects of cardiac output)            |
+|                                | - 1/Distance from injection site to heart                                    |
++--------------------------------+------------------------------------------------------------------------------+
+
+#### Maintenance:
+
++--------------+---------------------------------------------------------------------------+
+|              | - Q ∝ distribution x metabolism                                           |
++--------------+---------------------------------------------------------------------------+
+| Early        | - Early: high Q e.g. 100mL/h (distribution +++ metabolism ++)             |
++--------------+---------------------------------------------------------------------------+
+| Later        | - Later: slow Q e.g. 50mL/h (metabolism ++ distribution +)                |
++--------------+---------------------------------------------------------------------------+
+| Steady state | - Steady state: Css (mg/mL) = infusion rate (mg/min) / clearance (mL/min) |
++--------------+---------------------------------------------------------------------------+
+
+#### Offset:
+
++----------------------------+-------------------------------------------------------------------+
+| Distribution phase         | - Cpt ∝ 1/(distribution x metabolism); rapid ↓Cpt                 |
++----------------------------+-------------------------------------------------------------------+
+| Terminal elimination phase | - Cpt ∝ redistribution/metabolism; slower ↓Cpt                    |
++----------------------------+-------------------------------------------------------------------+
+| Modelling                  | - Multi-exponential decay curve (C = Ae^-at^ + Be^-bt^ + Ge^-gt^) |
++----------------------------+-------------------------------------------------------------------+
+| Emergence                  | - Estimated to occur at \~1mcg/mL                                 |
+|                            | - Highly variable                                                 |
++----------------------------+-------------------------------------------------------------------+
+
+#### Model comparison:
+
++-----------------------------+--------------------------------+--------------------------------------------------------------------------------------------------------------------+
+|                             | **Marsh**                      | **Schnider**                                                                                                       |
++=============================+================================+====================================================================================================================+
+| Inputs                      | Age (\>16 only as a qualifier) | Age                                                                                                                |
+|                             |                                |                                                                                                                    |
+|                             | Weight (adjust in obesity)     | ![](/content/exams/anzca/2010/B/6/prize-image004.png){fig-alt="Supplied bracket beside Schnider model inputs"}Sex  |
+|                             |                                |                                                                                                                    |
+|                             |                                | Height          Calculates lean mass                                                                               |
+|                             |                                |                                                                                                                    |
+|                             |                                | Weight                                                                                                             |
++-----------------------------+--------------------------------+--------------------------------------------------------------------------------------------------------------------+
+| Fixed                       | Rate constants                 | V~1~, V~3~                                                                                                         |
+|                             |                                |                                                                                                                    |
+|                             | k~e0~ (0.26 or 1.2)            | k~13~, k~31~                                                                                                       |
+|                             |                                |                                                                                                                    |
+|                             |                                | k~e0~ (0.456)                                                                                                      |
++-----------------------------+--------------------------------+--------------------------------------------------------------------------------------------------------------------+
+| Variable                    | Volumes (by total mass)        | V~2~, k~12~, k~21~ (by age)                                                                                        |
+|                             |                                |                                                                                                                    |
+|                             |                                | k~10~ (by age, lean mass)                                                                                          |
++-----------------------------+--------------------------------+--------------------------------------------------------------------------------------------------------------------+
+| Compartment sizes (at 70kg) | V~1~ 16L                       | V~1~ 4.27L                                                                                                         |
+|                             |                                |                                                                                                                    |
+|                             | V~2~ 30L                       | V~2~ 32L                                                                                                           |
+|                             |                                |                                                                                                                    |
+|                             | V~3~ 230L                      | V~3~ 230L                                                                                                          |
++-----------------------------+--------------------------------+--------------------------------------------------------------------------------------------------------------------+
+| Induction dose              | Much higher                    | Much lower                                                                                                         |
++-----------------------------+--------------------------------+--------------------------------------------------------------------------------------------------------------------+
+| Maintenance rate            | Bit higher                     | Bit lower                                                                                                          |
++-----------------------------+--------------------------------+--------------------------------------------------------------------------------------------------------------------+
+| Better setting              | Plasma target\                 | Effect target\                                                                                                     |
+|                             | (loading dose not too big)     | (loading dose not too small)                                                                                       |
++-----------------------------+--------------------------------+--------------------------------------------------------------------------------------------------------------------+
+| Better patient              | Young + robust                 | Old + frail                                                                                                        |
++-----------------------------+--------------------------------+--------------------------------------------------------------------------------------------------------------------+

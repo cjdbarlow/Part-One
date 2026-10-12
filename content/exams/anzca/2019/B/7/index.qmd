@@ -1,0 +1,94 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019B Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} how morbid obesity might affect washout after inhalation anaesthesia
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} how altered body composition, circulation and respiratory function change washout. Use a correctly labelled washout curve to connect tissue uptake, agent solubility and anaesthetic duration to distribution and terminal elimination.
+
+::: {.structure-headings}
+### Definition and Relevant Physiological Changes
+
+### Compartment Uptake and Equilibration
+
+### Agent Solubility and Anaesthetic Duration
+
+### Washout Curve and Distribution Versus Elimination
+
+### Respiratory Effects During Recovery
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**63.8%** of candidates achieved a pass in this question
+
+The main domains assessed in this question were
+
+- Definition of morbid obesity
+- Pharmacokinetics associated with morbid obesity
+- Effect of specific inhalational agent solubility on washout
+- Inhalational washout curve
+- Effect of anaesthetic duration
+- Respiratory problems of morbid obesity during recovery affecting washout
+
+Credit was given for other relevant correct material such as context sensitive recovery from inhalational anaesthesia, tissue equilibration times, decrement times of inhalational agents and the effect of controlled ventilation by the anaesthetist during emergence.
+
+Common problems were
+
+- Poor knowledge of respiratory changes of morbid obesity in the awake state and upon emergence of anaesthesia
+- Misconception about the effect of cardiac output on inhalational washout
+- Washout curves with wrongly labelled y-axis
+
+Better answers incorporated the effects of morbid obesity and specific inhalational agents into the washout curve.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2019/B/7/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2019/B/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational anaesthetic kinetics](/content/pharmacopoeia/neuro/inhalational_anaesthetics.qmd)
+- [Respiratory effects of obesity](/content/resp/obesity_respiratory.qmd)

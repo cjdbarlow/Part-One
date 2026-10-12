@@ -1,0 +1,33 @@
+Renal blood flow is about 1l/min or 20% of cardiac output 
+
+Filtrate formation is about 125ml/min 
+
+Urine production is approximately 1ml/kg/hr \~ 3ml/min (70kg person) 
+
+There is iso-osmolar reabsorption of the majority of fluid and sodium in the cortical nephrons. The juxtamedullary nephrons produce variable concentration of urine. 
+
+Mechanisms for formation of dilute and concentrated urine: 
+
+**Counter current multiplier mechanism** 
+
+Filtrate entering the descending LOH is approx. iso-osmolar \~300mosm 
+
+Descending limb of loop of Henle permeable to water due to presence of aquaporin I, but relatively impermeable to solutes.  
+
+Ascending limb impermeable to water but active pumping of Na, K, Cl  (with cotransporter) out of the lumen into the interstitium.  
+
+Creates a hypertonic interstitium to approx. 1200mosm. As filtrate ascends the LOH the solute pumps creasing the concentration gradient produce a filtrate that is hypotonic \~200mosm entering the DCT.
+
+In the DCT further Na reabsorption occurs - ↓filtrate osmolality. 
+
+Filtrate entering the collecting is hypos molar and forms dilute urine.
+
+**Urea Cycling** 
+
+In the medullary collecting ducts urea is reabsorbed through urea transporter when stimulated by ADH. ↑Urea absorption to the renal medullary interstitium ↑the osmolality and further contributes to the concentration gradient. 
+
+**Anti-diuretic hormone (ADH) **
+
+ADH release from the posterior pituitary is predominantly regulated by osmolality receptors in the hypothalamus. ↑ plasma osmolality → ADH release →↑fluid reabsorption 
+
+ADH → V2 receptors in the collecting ducts → expression of aquaporin II molecules → reabsorption of water from the collecting duct → hypertonic urine (concentrated) production.

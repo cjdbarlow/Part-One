@@ -1,0 +1,92 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019B Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the safety features of currently used mechanical variable bypass vaporisers.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} each safety feature by pairing the hazard with its prevention and explaining how reliable agent concentration is maintained. Emphasise agent specificity and compensation for operating conditions in mechanical variable bypass devices.
+
+::: {.structure-table}
+| Hazard or Operating Change | Safety Feature | How It Maintains Safe Delivery |
+|---|---|---|
+| Wrong Agent or Multiple Agents | | |
+| Temperature Change | | |
+| Flow and Pressure Change | | |
+| Spillage, Overfilling and Empty Chamber | | |
+| Leaks and Disconnection | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**62.6 %** of candidates achieved a pass in this question
+
+Two important domains needed to be addressed in the answer. Both of these relate to ensuring that a known, reliable concentration of vapour is delivered from the vaporiser. It was difficult to pass without addressing both of these key areas.
+
+1. Vaporisers are only compatible with a specific volatile agent. This is because each agent has a different saturated vapour pressure. Safety measures to achieve this include: calibration of the vaporiser and splitting ratio for the specific SVP; geometrical shape of filling ports and bottles; labelling; and colour coding.
+2. Vaporiser output remains constant across a range of operating conditions. This requires temperature, flow, and pressure compensation. Each one of these needed to be explained in terms of how it works and why it is a safety feature.
+
+Other safety features that gained marks included: only one vaporiser can be turned on at once; the maximum setting on the control dial is well below SVP; the control dial has to be pushed in before it can be turned on; anti-spill mechanism; a fluid level indicator window; leak test using suction bulb on common gas outlet as part of machine check; MRI compatibility.
+
+Beginning the answer with a simple definition of “variable bypass” was sensible, and scored some marks.
+
+The following were areas of difficulty:
+
+- lengthy explanations of how a vaporiser works, complete with diagrams, but without connecting any of this information with safety
+- temperature compensation was often poorly described – many candidates could not explain the concept of a heat sink, and the metal vaporiser casing was often described as “insulation”
+- referring to volatile agents as “gas”
+- referring to the different geometrical shape of filling ports as the “pin index” system
+- desflurane vaporisers were often included – these are not variable bypass
+- vaporisers were described as being part of the anti-hypoxia safety mechanism
+- a variety of (non-existent) high and low pressure alarms were variably described
+- it was common for candidates to list multiple other safety features of anaesthetic machines generally – only those related to vaporisers could earn marks
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2019/B/5/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2019/B/5/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Vapourisers](/content/equipment/vaporisers.qmd)

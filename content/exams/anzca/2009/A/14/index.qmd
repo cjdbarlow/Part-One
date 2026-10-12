@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009A Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the physiological processes that influence the rate of gastric emptying.
+:::
+
+Also asked in: [2017B Question 10](/content/exams/anzca/2017/B/10/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} coordinated transfer of chyme through antral activity and pyloric resistance. Explain local, neural and hormonal feedback with the stimulus, pathway and effect of each process, rather than listing factors alone.
+
+::: {.structure-headings}
+### Coordinated Antral Activity and Pyloric Resistance
+
+### Physical and Chemical Properties of Chyme
+
+### Intrinsic and Extrinsic Neural Control
+
+### Duodenal Feedback
+
+### Hormonal Control
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**56%** of candidates passed this question.
+
+The question has been asked previously and there was evidence in the answers that scored well of a structured, planned and practised format. This meant candidates were able to cover the local, neural and hormonal control of the rate of gastric emptying. Extra marks were gained for an explanation of mechanism of action and the interrelationship between the controls.
+
+Common omissions included the reason why the rate is controlled, ie. allowing for adequate digestion time with gastric acid and enzymes before passing chyme through the pyloric sphincter, the importance of the “pyloric pump” and the negative feedback control of the duodenal sensors to ensure the adequacy of the digestive process.
+
+Some candidates confused which hormones increased or decreased the rate of emptying, this detracted from their answers.
+
+No marks were given for pharmacological manipulation of the rate of gastric emptying.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2009/A/14/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2009/A/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Gastric emptying](/content/git/gastric_emptying.qmd)

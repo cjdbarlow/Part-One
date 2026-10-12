@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2017A Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Compare and contrast**]{.task-verb} low-molecular-weight heparin (LMWH) and unfractionated heparin (UFH).
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Compare and contrast**]{.task-verb} the preparations in parallel. Link chain length and antithrombin binding to factor inhibition, then relate kinetics to dosing, monitoring, renal impairment, reversal and adverse effects.
+
+::: {.structure-table}
+| Feature | Low-Molecular-Weight Heparin | Unfractionated Heparin |
+|---|---|---|
+| Molecular Properties and Mechanism | | |
+| Administration, Dose and Time Course | | |
+| Distribution, Metabolism and Elimination | | |
+| Monitoring and Renal Impairment | | |
+| Reversal and Adverse Effects | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**51.2%** of candidates achieved a pass in this question
+
+Considerations in answering this question include dosing, monitoring, reversibility, effect of renal impairment and adverse effect profile.
+
+Marks were available for descriptions of their mechanisms of action and pharmacokinetic profile. Although most candidates were aware that LMWH principally acts via factor Xa and UFH via both Xa and IIa, very few could explain why. Many did not appreciate that all heparins act via inducing a conformational change in Antithrombin (AT). The inhibitory effect on thrombin requires the formation of a triple complex of AT/ heparin/ thrombin and this is only achieved with long chained heparins which are found predominantly in larger UFH preparations. The different pharmacokinetic profiles were poorly described and understood. UFH is highly protein bound and subject to extensive metabolism by heparinases. At high doses this pathway is saturated and UFH exhibits zero order kinetics. LMWHs are less protein bound, have better bioavailability and predictable linear kinetics as they are principally eliminated renally.
+
+Better candidates mentioned timing implications with regard to neuraxial blockade; cost considerations; heparin resistance and the effect of high doses of UFH on platelet function.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2017/A/8/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2017/A/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Anticoagulants](/content/pharmacopoeia/haeme/anticoagulants.qmd)

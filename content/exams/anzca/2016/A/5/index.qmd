@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016A Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the relative advantages and disadvantages of using morphine and fentanyl for post-operative Patient Controlled Analgesia (PCA).
+:::
+
+Also asked in: [2011B Question 6](/content/exams/anzca/2011/B/6/index.qmd#examiner-comments), [2015A Question 11](/content/exams/anzca/2015/A/11/index.qmd#examiner-comments), [2021B Question 9](/content/exams/anzca/2021/B/9/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} relative advantages and disadvantages in terms of safe, effective patient controlled analgesia. Compare onset, peak effect, duration and metabolites, then explain how these differences interact with dose, lockout interval and continuing analgesic requirements.
+
+::: {.structure-table}
+| Feature | Morphine | Fentanyl | Clinical Implication |
+|---|---|---|---|
+| Onset and Time to Peak Effect | | | |
+| Duration and Repeated Dosing | | | |
+| Dose and Lockout Interval | | | |
+| Metabolites and Renal Function | | | |
+| Adverse Effects and Clinical Implications | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**47%** of candidates achieved a pass in this question
+
+The question asks for the relative advantages and disadvantages of morphine and fentanyl, so to score well candidates had to compare the two drugs. Candidates could gain a pass for this question by mentioning the more rapid onset and offset of fentanyl, the relevance of the metabolites of the two drugs and briefly comparing the important side effects. It is reasonable to note that many of these side effects are common to both agents. Stating the aim of PCA and noting how well the two drugs achieve this aim scored additional points. Marks were also given for discussing how the action of fentanyl may change with increasing dosage, and discussing the discrepancy between the usual lockout for morphine and its time to peak effect.
+
+Candidates often wrote a lot of unrelated information about PCAs. Quoting numbers for pharmacokinetic data does not attract marks unless the relevance of the figures is clear. Candidates often thought that side effects which occur at high doses, such as chest wall rigidity, are a problem with PCA. Few realised that the clinical duration of a PCA bolus is less than from a larger intramuscular dose of drug. Allergy is unrelated to histamine release, and histamine is not the only cause of opioid induced itch. Vague statements do not attract marks: in particular, reduced activity is not the same as no activity, less histamine release is not equivalent to no histamine release and active does not necessarily mean toxic. PCAs are rarely used to administer intrathecal morphine.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2011/B/6/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2011/B/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Opioids](/content/pharmacopoeia/analgesics/opioids.qmd)
+- [Opioid pharmacology](/content/pharmacopoeia/analgesics/opioidspharm.qmd)

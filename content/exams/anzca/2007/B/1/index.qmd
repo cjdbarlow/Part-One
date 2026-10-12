@@ -1,0 +1,68 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007B Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the adverse effects that may occur with the administration of desflurane.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} adverse effects under **Respiratory**, **Cardiovascular**, **Central Nervous System**, and **Other Effects**. [**Include**]{.task-verb} both the general effects of volatile agents and the adverse features relevant to desflurane.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**61 %** of candidates passed this question.
+
+Answers formulated around the adverse effects of desflurane on various organ systems achieved most marks. Marks were not awarded for provision of pharmacokinetic data and structural formula. Discussion of the need for a special vaporiser because of desflurane's low boiling point was correct but did not answer the question.
+
+It was important to mention basic physiological changes and not focus on the unique adverse effects of desflurane. For instance virtually all answers mentioned desflurane's pungency but many failed to discuss its respiratory depressant properties. A reduction in minute ventilation is manifested by reduced tidal volume and increased respiratory rate. Many mentioned tachycardia with increased inspired concentrations of desflurane but only a minority correctly teased out cardiovascular changes. Volatile anaesthetic agents typically result in cerebral vasodilaltion with a rise in ICP. In this regard desflurane is no exception though changes are less significant. Many answers however stated that ICP falls with desflurane. Carbon monoxide production from carbon dioxide absorbents was mentioned by most but only half correctly stated that desflurane is a trigger for malignant hyperthermia.
+
+Other points for a complete answer were hepatotoxicity, minor renal effects, uterine relaxation and activation of the sympathetic nervous system with rapid increases in desflurane concentrations.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational Anaesthetics](/content/pharmacopoeia/neuro/inhalational_anaesthetic_agents.qmd)

@@ -1,0 +1,85 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009A Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the physiological factors that determine intracranial pressure (ICP), and [**describe**]{.task-verb} how changes in posture affect ICP.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} intracranial pressure using the Monro–Kellie framework and a pressure–volume curve. [**Describe**]{.task-verb} how posture changes cranial blood and CSF volumes, keeping each explanation tied to pressure.
+
+::: {.structure-headings}
+### Definition and Monro–Kellie Framework
+
+### Brain Tissue Volume
+
+### Blood Volume and Venous Drainage
+
+### CSF Production, Circulation and Absorption
+
+### Supine, Erect and Trendelenburg Positions
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**57%** of candidates passed this question.
+
+In general the candidates answered this question well, based on the Monro-Kellie doctrine. The answer should have included:
+
+1) Some introductory definition of intracranial pressure, normal values, and the Monro-Kellie framework.
+2) The effects and causes of changes in intracranial blood volume, tissue volume, and CSF production circulation and re-absorption.
+3) A discussion of how supine, erect, and Trendelenburg positions might alter CSF and blood dynamics.
+
+Additional marks were awarded for graphs of changes in ICP with intracranial volume, and the relationship between CSF absorption, production and ICP.
+
+Many candidates spent a lot of time explaining cerebral blood flow and cardiovascular responses to change in posture that were not directly relevant to the question. It was also common for candidates to erroneously re-arrange various equations (e.g. ICP = MAP * CPP, or even ICP = CBF/CVResistance); and use these as bases for the answer, rather than discussing real physiological cause and effect.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2009/A/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Intracranial pressure](/content/neuro/icp.qmd)
+- [Cerebrospinal fluid](/content/neuro/csf.qmd)

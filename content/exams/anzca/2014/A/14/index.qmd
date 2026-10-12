@@ -1,0 +1,87 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014A Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Compare and contrast**]{.task-verb} the physiological effects of a six hour fast of fluids and food with a twenty four hour fast in a healthy adult
+:::
+
+Also asked in: [2006B Question 14](/content/exams/anzca/2006/B/14/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Compare and contrast**]{.task-verb} the two durations in a table, covering both energy substrates and fluid balance in a healthy adult.
+
+::: {.structure-table}
+| Feature | Six Hours | Twenty-Four Hours |
+|---|---|---|
+| Energy Substrates | | |
+| Hormonal Profile | | |
+| Liver Metabolism | | |
+| Adipose Tissue and Skeletal Muscle | | |
+| Fluid Balance | | |
+| Renal Responses | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**59.2%** of candidates achieved a pass in this question
+
+This question required candidates to explain the differences in energy substrates and fluid balance during fasting over periods commonly encountered in clinical practice. The question specified a fast of fluids and food for a healthy adult. Some candidates did not interpret the question correctly, and attempted to discuss only fluid balance issues or food issues. Some candidates discussed fasting implications over longer periods or, more commonly, for pathological conditions such as diabetes, or even for children.
+
+The question lends itself to answering quickly in a table format, but many answers were in prose of varying quality. Many candidates demonstrated a misunderstanding of fluid balance and energy substrates within the two timeframes.Many candidates did not appreciate the fluid loss in 6 hours amounted to approximately 1% total body water, with ADH secretion only just starting to play a role. Other systems such as the renin-angiotensin-aldosterone system would not likely be significantly activated at this stage.
+
+Commonly, answers suggested a significant fall in cardiac output, hypotension oliguria/acute renal failure and death with 24 hours of fasting. This is unlikely in a healthy adult.
+
+Only a minority of candidates mentioned that at the start of fasting, water and food sources would still be absorbed from the GI tract, with insulin levels being elevated at this stage (pulsatile insulin secretion being high for around 2 hours post-prandially). Few candidates gave accurate accounts of the hormonal changes over the correct time frames or changes of energy substrates over the correct time frames.
+
+Additionally there appeared to be some confusion over the terms metabolic rate, basal metabolic rate and resting metabolic rate, with many candidates suggesting basal metabolic rate would decrease over the fasting period.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2006/B/14/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2006/B/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Starvation](/content/metabolic/starvation.qmd)
+- [Carbohydrate metabolism](/content/metabolic/carbohydrate.qmd)
+- [Sodium and water](/content/renal/sodium.qmd)

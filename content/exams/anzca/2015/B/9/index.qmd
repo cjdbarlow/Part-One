@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015B Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly outline**]{.task-verb} the differences between the pulmonary circulation and the systemic circulation.
+:::
+
+Also asked in: [2004A Question 9](/content/exams/anzca/2004/A/9/index.qmd#examiner-comments), [2012B Question 16](/content/exams/anzca/2012/B/16/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly outline**]{.task-verb} the differences using parallel columns. Give relevant numerical variables with a short physiological explanation, then compare flow distribution, resistance control and the functions of each circulation.
+
+::: {.structure-table}
+| Feature | Pulmonary Circulation | Systemic Circulation |
+|---|---|---|
+| Macroscopic and Microscopic Anatomy | | |
+| Pressures, Volume and Resistance | | |
+| Flow and Effects of Gravity | | |
+| Vascular Regulation and Gas Responses | | |
+| Predominant and Special Functions | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**56.7%** of candidates achieved a pass in this question
+
+Question 9 is a challenging question. It asks the candidate to briefly compare characteristics of the pulmonary and systemic circulation. It is important with a question like this to use several strategies:
+
+The first strategy is to utilize two columns for the comparison, one labelled systemic circulation and the other pulmonary circulation. This saves the need to keep repeating the words pulmonary and systemic.
+
+The second is to outline the comparisons in a summarized fashion as there are potentially many facts to discuss in a 10 minute time frame. This particular question should be summarized in several sections.
+
+These include anatomy (macroscopic and microscopic), typical physiological variables (numeric with brief written rationale), blood flow distribution (referring to effects of gravity, anatomical pressures in thorax and cardiac and breathing cycle influences), determinants of vascular resistance (differential influence of gases, pH, arterial pressures, hormones, metabolic, autonomic), as well as predominant function and special functions of the two circulations.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2004/A/9/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2004/A/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Pulmonary circulation](/content/cvs/pulmonary_circulation.qmd)

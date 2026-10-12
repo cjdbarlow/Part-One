@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006B Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the difference between viscosity and density. [**Outline**]{.task-verb} the effects of changes in viscosity and density on the flow of gases and liquids.
+:::
+
+Also asked in: [2011A Question 16](/content/exams/anzca/2011/A/16/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} viscosity and density with definitions and units, then [**outline**]{.task-verb} their effects on laminar and turbulent flow. Use the governing relationships and Reynolds number, followed by physiological or equipment examples.
+
+::: {.structure-headings}
+### Definitions and Units
+
+### Laminar Flow and Viscosity
+
+### Turbulent Flow and Density
+
+### Transition and Reynolds Number
+
+### Clinical Applications
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**47 %** of candidates passed this question.
+
+Many more candidates were able to adequately define density than viscosity. Few candidates noted that these are separate properties of gases and liquids and extra marks were awarded for noting that gases of similar viscosity may have differing densities e.g. helium and oxygen. Extra marks were also awarded for describing the effects of temperature on the density and viscosity of gases and liquids.
+
+The second part of this question should have included discussion on how both viscosity and density effect laminar and turbulent flow. The effects of viscosity on laminar flow, the Hagen-Poiseuille equation and the Reynold’s number were well described by most candidates. Common omissions were; comment on the effect of density on laminar flow, and comment on the effect of changing viscosity on turbulent flow. A common mistake was to state that turbulent flow was directly (rather than inversely) related to density. Many candidates gave detailed descriptions of the characteristics of laminar and turbulent flow that did not pertain to either viscosity or density and therefore did not attract any marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2006/B/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Airway resistance](/content/resp/resistance.qmd)

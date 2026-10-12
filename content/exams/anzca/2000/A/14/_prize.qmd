@@ -1,0 +1,78 @@
+#### List:
+
+- Esterases
+- Plasma cholinesterase
+- RBC esterase
+- Non-specific plasma esterase
+- (Muscle esterase)
+
+#### Esterases:
+
++--------------------+------------------------------------------------------------+
+| Activity           | - Ester hydrolysis: ester → acid + alcohol                 |
++--------------------+------------------------------------------------------------+
+| Source             | - Mostly liver                                             |
++--------------------+------------------------------------------------------------+
+| Capacity           | - High                                                     |
++--------------------+------------------------------------------------------------+
+| Metabolites        | - Mostly inactive (exception: laudanosine → neurotoxicity) |
++--------------------+------------------------------------------------------------+
+| Factors ↑ activity | - ↑temp                                                    |
+|                    | - ±↓pH (benzylisoquinoliniums)                             |
++--------------------+------------------------------------------------------------+
+| Factors ↓ activity | - Deficiency                                               |
+|                    | - Drug inhibitors                                          |
++--------------------+------------------------------------------------------------+
+
+#### Plasma cholinesterase:
+
++---------------------------+-----------------------------------------------------------------------------------------------------------------------------+
+| Drugs metabolised         | - Suxamethonium                                                                                                             |
+|                           | - Mivacurium                                                                                                                |
+|                           | - Ester local anaesthetics e.g. tetracaine                                                                                  |
+|                           | - Acetylcholinesterases e.g.neostigmine                                                                                     |
++---------------------------+-----------------------------------------------------------------------------------------------------------------------------+
+| Sux metabolism            | - Sux → succinylmonocholine + choline                                                                                       |
+|                           | - S’monocholine → succinic acid + choline                                                                                   |
++---------------------------+-----------------------------------------------------------------------------------------------------------------------------+
+| Rapid metabolism          | - Rapid offset of paralysis for sux (\~5-10mins) and mivacurium                                                             |
+|                           | - Lower risk of systemic toxicity with ester LAs (e.g. prilocaine IV for Bier’s block)                                      |
++---------------------------+-----------------------------------------------------------------------------------------------------------------------------+
+| Polymorphism              | - Two copies                                                                                                                |
+|                           | - Four types: usual, dibucaine-resistant (DR), chloride resistant, silent                                                   |
+|                           | - Usual-usual: (\~96% population): dibucaine number (DN) 80, offset \~5 mins                                                |
+|                           | - Usual-DR: (a few %): DN 60, offset \~30mins                                                                               |
+|                           | - DR-DR: (\<\<1%): DN 20, offset 8-12 hours                                                                                 |
++---------------------------+-----------------------------------------------------------------------------------------------------------------------------+
+| Inhibition of production  | - Disease states: heart failure, liver failure, renal failure, cancer                                                       |
+|                           | - Pregnancy: same amount, higher blood volume hence lower concentration                                                     |
++---------------------------+-----------------------------------------------------------------------------------------------------------------------------+
+| Inhibition of activity    | - Acetylcholinesterase inhibitors                                                                                           |
+|                           | - Other drugs: metoclopramide, ketamine, oral contraceptive pill, Lithium, lignocaine, ester local anaesthetics, cytotoxics |
++---------------------------+-----------------------------------------------------------------------------------------------------------------------------+
+| Stimulation of production | - Obesity                                                                                                                   |
+|                           | - Alcohol abuse                                                                                                             |
++---------------------------+-----------------------------------------------------------------------------------------------------------------------------+
+
+#### RBC esterase:
+
++-------------+-------------------------------------------------+
+| Drug target | - Esmolol (ester-methyl-olol)                   |
++-------------+-------------------------------------------------+
+| Rapid rate  | - Accounts for short t~1/2β~ of esmolol 10 mins |
++-------------+-------------------------------------------------+
+
+#### Non-specific esterase:
+
++---------------------------------+--------------------------------------------------------------------------------------------------+
+| Drug targets                    | - Benzylisoquinoliniums                                                                          |
+|                                 | - Remifentanil                                                                                   |
++---------------------------------+--------------------------------------------------------------------------------------------------+
+| Benzylisoquinolinium metabolism | - Atracurium → monoquaternary alcohol + monoquaternary acid + laudanosine                        |
+|                                 | - Independent of kidney and liver, unlike aminosteroids                                          |
+|                                 | - Less important for cisatracurium                                                               |
++---------------------------------+--------------------------------------------------------------------------------------------------+
+| Remifentanil                    | - Metabolism by non-specific esterases in plasma and tissue, especially muscle                   |
+|                                 | - One minimally active carboxylic acid metabolite (activates TLR-4 → hyperalgaesia)              |
+|                                 | - Accounts for very short max context sensitive half time (CSHT 10 min), hence suitable for TIVA |
++---------------------------------+--------------------------------------------------------------------------------------------------+

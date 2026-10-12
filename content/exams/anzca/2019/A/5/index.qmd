@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019A Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the cerebral effects of prolonged anaesthesia in the steep head-down position.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} the combined effects of position, time and anaesthesia. Connect hydrostatic changes to cerebral blood volume, intracranial pressure and compensation, then consider respiratory changes and drug effects on cerebral flow and metabolism.
+
+::: {.structure-headings}
+### Intracranial Volumes and Compensation
+
+### Hydrostatic and Venous Effects
+
+### Respiratory Effects on Cerebral Physiology
+
+### Anaesthetic Effects on Flow and Metabolism
+
+### Prolonged Exposure and Cerebral Consequences
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**24.3 %** of candidates achieved a pass in this question
+
+The head down position is becoming increasingly common in modern surgery. The question required consideration of the key physiological factors which interplay with the exposed hydrostatic forces, as well as the impact of anaesthesia. A basic pass mark would need reference to and a discussion of increases in intracranial pressure and cerebral blood volume. An explanation of the cerebral effects of anaesthesia was also expected.
+
+Better answers displayed a more comprehensive and integrated interpretation of factual content and compensatory mechanisms.
+
+Common errors included listing facts and equations with little or no explanation, the provision of irrelevant information, not addressing the question or components of the question and not providing sufficient detail on pertinent points. There was often limited discussion or omission of the effects of anaesthesia
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2019/A/5/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2019/A/5/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Intracranial pressure](/content/neuro/icp.qmd)
+- [Cerebral blood flow](/content/cvs/cerebral_blood_flow.qmd)

@@ -1,0 +1,149 @@
+#### List:
+
+- Intro
+- Dilution
+- Buffering
+- Compensation
+- Correction
+
+#### Intro:
+
++---------------------+---------------------------------------------------------------------------------+
+| Definition          | - Excess production or addition of metabolic acid or excess loss of base        |
++---------------------+---------------------------------------------------------------------------------+
+| Diagnosis           | - HH approach: pH \<7.4, PaCO~2~ \<40mmHg, HCO~3~^-^ \<24mmol/L                 |
+|                     | - Stewart approach: SID \<42 (where SID = \[Na + K + Ca + Mg\] – \[Cl + Lac\] ) |
++---------------------+---------------------------------------------------------------------------------+
+| Classification      | - NAGMA: loss of HCO~3~^-^ or base (e.g. diarrhoea, renal tubular acidosis)     |
+|                     | - HAGMA: addition of fixed acid (e.g. lactic acidosis, ketoacidosis)            |
++---------------------+---------------------------------------------------------------------------------+
+| Summary of response | 1.  Dilution                                                                    |
+|                     | 2.  Buffering: ICF and ECF                                                      |
+|                     | 3.  Compensation: respiratory and renal                                         |
+|                     | 4.  Correction of the underlying cause                                          |
++---------------------+---------------------------------------------------------------------------------+
+
+#### Dilution (immediate)
+
++-----------+-------------------------------------------------------+
+| Purpose   | - Minimise fall in local or plasma pH                 |
++-----------+-------------------------------------------------------+
+| Mechanism | - Distribution of acid across body fluid compartments |
++-----------+-------------------------------------------------------+
+
+#### Buffering – minutes:
+
++------------------+-------------------------------------------------------------+
+| Purpose          | - Resists the fall in pH when acid is added or base removed |
++------------------+-------------------------------------------------------------+
+| Mechanism        | - System comprises a weak acid and its conjugate base       |
+|                  | - H^+^ readily exchanged                                    |
+|                  | - AH \<-\> A^-^ + H^+^                                      |
+|                  | - Hence ↓\[H^+^\]                                           |
++------------------+-------------------------------------------------------------+
+| Ideal properties | - Abundant                                                  |
+|                  | - Rapid                                                     |
+|                  | - pKa = prevailing pH +/- 1                                 |
+|                  | - Open-ended                                                |
++------------------+-------------------------------------------------------------+
+
+#### Intracellular buffering (60%)
+
++-----------+------------------------------------------+
+| Proteins  | - Imidazole groups of histidine residues |
+|           | - Abundant                               |
+|           | - pKa = pH ICF = 6.8                     |
++-----------+------------------------------------------+
+| Phosphate | - H~2~PO~4~- \<-\> H^+^ + HPO~4~^2-^     |
+|           | - High concentration (30-60mmol/L)       |
+|           | - pKa = pH of ICF = 6.8                  |
++-----------+------------------------------------------+
+
+#### Extracellular buffering (40%)
+
++-----------------+------------------------------------------------------------------------+
+| Bicarbonate     | - Most important ECF buffer                                            |
+|                 | - CO~2~ + H~2~O \<-\> H^+^ + HCO~3~^-^                                 |
+|                 | - ↑\[H^+^\] → L shift → ↑CO~2~ formation → exhaled                     |
+|                 | - pKa 6.1 is distant to pH 7.4, however…                               |
+|                 | - High concentration - 24mM                                            |
+|                 | - Rapid enzyme - carbonic acid                                         |
+|                 | - Open ended - can exhale CO~2~, can urinate H^+^                      |
++-----------------+------------------------------------------------------------------------+
+| Haemoglobin     | - Second most important ECF buffer                                     |
+|                 | - Compared with plasma proteins:                                       |
+|                 |   - \~2x concentration (140g/L cf. 70g/L)                              |
+|                 |   - \~3x imidazole groups per molecule (38 cf. 13)                     |
+|                 | - Imidazole groups on histidine residues                               |
+|                 |   - HHb + K^+^ \<-\> KHb + H^+^                                        |
+|                 |   - pKa = pH of ICF in RBCs = 6.8                                      |
+|                 | - Carbamino compounds                                                  |
+|                 |   - CO~2~ + Hb-NH~2~ \<-\> Hb-NHCOO^-^ + H^+^                          |
+|                 |   - CO~2~ binds terminal amino groups, and amino groups on side chains |
+|                 |   - Released H^+^ is buffered by imidazole groups as above             |
++-----------------+------------------------------------------------------------------------+
+| Plasma proteins | - Imidazole groups of histidine residues                               |
+|                 |   - AH \<-\> A^-^ + H^+^                                               |
+|                 | - pKa 6.8 is moderately close to pH 7.4                                |
++-----------------+------------------------------------------------------------------------+
+
+#### Respiratory compensation: (minutes)
+
++-----------+---------------------------------------------------------------------------------------------------------------------------------+
+| Mechanism | - Acidosis → stimulate peripheral chemoreceptors → ↑ MV → ↓ PaCO~2~ → ↓\[H^+^\]                                                 |
+|           | - From HH equation: pH = 6.1 + \[HCO~3~\] / 0.03 x PaCO~2~                                                                      |
++-----------+---------------------------------------------------------------------------------------------------------------------------------+
+| Extent    | - Winter’s formula: PaCO~2~ = 8 + 1.5 x HCO~3~^-^                                                                               |
+|           | - ECF pH approaches but does not reach or exceed 7.4                                                                            |
+|           | - *\*Note respiratory compensation is ineffective for fixed acid, because both H^+^ and HCO~3~^-^ are being removed as CO~2~\** |
++-----------+---------------------------------------------------------------------------------------------------------------------------------+
+
+#### Renal compensation: (hours-days)
+
++-------------------------------+----------------------------------------------------------------------------------------+
+| Anion exchange                | - ↑HCO~3~^-^/Cl^-^ exchange in proximal \> distal tubule                               |
+|                               |   - *HH approach: hence ↑HCO~3~^-^ reabsorption*                                       |
+|                               |   - *Stewart approach: hence ↑Cl^-^ excretion → ↑SID*                                  |
+|                               |   - *KN: Stewart correct, but kidneys respond to pH and HCO~3~^-^, not SID*\           |
+|                               |     (N.B. the vast majority of HCO^3-^ is absorbed regardless)                         |
+|                               | - Multiple structures involved:                                                        |
+|                               |   - Carbonic anhydrase – cellular & tubular                                            |
+|                               |   - Basolateral Na^+^K^+^ATPase                                                        |
+|                               |   - Apical H^+^ATPases                                                                 |
+|                               |   - Na^+^3HCO~3~^-^ symporter                                                          |
++-------------------------------+----------------------------------------------------------------------------------------+
+| ↑Excretion of titratable acid | - Buffered: as phosphoric and sulfuric acid                                            |
+|                               | - ↑Activity of H^+^ATPase and H^+^K^+^ATPase in type A intercalated cell               |
+|                               | - Minimal HCO~3~^-^ in distal tubule; hence H^+^ combines with PO~4~^3-^ and SO~4~^2-^ |
+|                               | - Usual 30mmol/day, max 60mmol/day                                                     |
++-------------------------------+----------------------------------------------------------------------------------------+
+| ↑Excretion of ammonium        | - ↓pH → ↑uptake and oxidation of glutamine in proximal tubule                          |
+|                               | - Glutamine + H^+^ → α-ketoglutarate + NH~4~^+^                                        |
+|                               |   - Occurs when titratable acid exhausted                                              |
+|                               | - 50% NH~4~^+^ reabsorbed and recycled, other 50% excreted                             |
+|                               |   - *HH approach: hence net ↑HCO~3~^-^ reabsorption*                                   |
+|                               |   - *Stewart approach: hence ↑NH~4~^+^ excretion (strong ion) → ↓SID*                  |
+|                               | - Up to 300mmol/day, i.e. high capacity system                                         |
++-------------------------------+----------------------------------------------------------------------------------------+
+
+#### Ion exchange:
+
++-----------------+-----------------------------------------+
+| Cells (minutes) | - H^+^/K^+^ exchange                    |
+|                 |   - ↓pH 0.1 → ↑K^+^ 0.6mM               |
+|                 |   - Can conceal K^+^ depletion e.g. DKA |
++-----------------+-----------------------------------------+
+| Bone\           | - H^+^/Ca^2+^ exchange                  |
+| (days-weeks)    |                                         |
++-----------------+-----------------------------------------+
+
+#### Correction:
+
++-------+-----------------------------------------------------------------------+
+| NAGMA | - Treatment of the underlying disease                                 |
+|       |   - N.B. in hyperchloraemic acidosis, renal compensation = correction |
++-------+-----------------------------------------------------------------------+
+| HAGMA | - Treatment of underlying disease                                     |
+|       |   - E.g. Lactic acidosis: tissue oxygenation                          |
+|       |   - E.g. ketoacidosis: insulin                                        |
++-------+-----------------------------------------------------------------------+

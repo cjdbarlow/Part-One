@@ -1,0 +1,68 @@
+#### List:
+
+- PC
+- PK
+- PD
+
+#### Physicochemical:
+
+              **Propranolol**   **Esmolol**
+  ----------- ----------------- -------------
+  Structure   Racemic           Achiral
+
+#### Pharmacokinetic:
+
++--------------+----------------------------------------------------------------------+------------------------------------------------------------+
+|              | **Propranolol**                                                      | **Esmolol**                                                |
++==============+======================================================================+============================================================+
+| Admin        | - IV bolus 1-2mg slowly                                              | IV bolus 0.5mg/kg                                          |
+|              | - PO 40mg bd starting dose                                           |                                                            |
+|              |                                                                      | IV infusion 0.05-2mcg/kg/min                               |
++--------------+----------------------------------------------------------------------+------------------------------------------------------------+
+| Time course  | - Onset 2-10 mins (IV)                                               | - Onset 1-2 mins                                           |
+|              | - Duration 10-30 mins (IV)                                           | - Duration 5 mins                                          |
++--------------+----------------------------------------------------------------------+------------------------------------------------------------+
+| Absorption   | - Oral bioav 30%                                                     | - Oral bioav 0% (IV only)                                  |
++--------------+----------------------------------------------------------------------+------------------------------------------------------------+
+| Distribution | - Plasma protein binding 95%                                         | - Plasma protein binding 60%                               |
+|              | - V~D~ 3.5L/kg                                                       | - V~D~ 3.5L/kg                                             |
+|              | - High lipid solubility                                              | - Moderate lipid solubility                                |
+|              | - Crosses blood-brain barrier effectively                            |                                                            |
++--------------+----------------------------------------------------------------------+------------------------------------------------------------+
+| Metabolism   | - Hepatic oxidative deamination then dealkylation or glucuronidation | - RBC esterase to acid and alcohol; acid is weak β-blocker |
+|              | - Active 4-OH metabolite                                             | - Cl 300mL/kg/min                                          |
+|              | - t~1/2β~ 3 hours                                                    | - t~1/2β~ 10 mins                                          |
++--------------+----------------------------------------------------------------------+------------------------------------------------------------+
+| Excretion    | - \<1% unchanged.                                                    | - 1% unchanged                                             |
++--------------+----------------------------------------------------------------------+------------------------------------------------------------+
+
+#### Pharmacodynamic:
+
++---------------------------+------------------------------------------------------------------------------+---------------------------------------------------------------------------------+
+|                           | **Propranolol**                                                              | **Esmolol**                                                                     |
++===========================+==============================================================================+=================================================================================+
+| Receptor effects          | S-propranolol:                                                               | - β~1~ selective                                                                |
+|                           |                                                                              | - No membrane-stabilising activity                                              |
+|                           | - β~1~ β~2~ non-selective                                                    | - No MSA                                                                        |
+|                           | - Membrane stabilizing activity (MSA)                                        | - No ISA                                                                        |
+|                           | - No intrinsic sympathomimetic activity (ISA)                                |                                                                                 |
+|                           |                                                                              |                                                                                 |
+|                           | R-propranolol:                                                               |                                                                                 |
+|                           |                                                                              |                                                                                 |
+|                           | - Inhibit peripheral conversion T~4~→T~3~ (inhibits deodinase)               |                                                                                 |
++---------------------------+------------------------------------------------------------------------------+---------------------------------------------------------------------------------+
+| Indications               | - Angina                                                                     | - Intra-op hypertension                                                         |
+|                           | - HOCM                                                                       | - Ablate pressor response to laryngoscopy                                       |
+|                           | - Thyrotoxicosis                                                             |                                                                                 |
+|                           | - Anxiety                                                                    |                                                                                 |
+|                           | - Tremor                                                                     |                                                                                 |
++---------------------------+------------------------------------------------------------------------------+---------------------------------------------------------------------------------+
+| Side effects and toxicity | - CNS: drowsiness, fatigue, depression, insomnia, nightmares                 | - Similar                                                                       |
+|                           | - CVS: AV block, worsen acute LV failure, worsen peripheral vascular disease | - Minimal CNS effects                                                           |
+|                           | - Resp: bronchoconstriction (↑risk if asthma)                                | - No MSA effects                                                                |
+|                           | - Metabolic: ↓autonomic response to hypoglycaemia, ↑risk T2DM                | - Long term effects not relevant – used for short periods in critical care only |
+|                           | - Other: hair loss                                                           |                                                                                 |
+|                           | - MSA toxicity: as for local anaesthetic toxicity                            |                                                                                 |
+|                           |   - CNS: excitation (seizures) then inhibition (coma)                        |                                                                                 |
+|                           |   - CVS: hypotension, arrhythmia, arrest                                     |                                                                                 |
++---------------------------+------------------------------------------------------------------------------+---------------------------------------------------------------------------------+

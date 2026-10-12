@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003A Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the physiological actions of thyroid hormones.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the cellular mechanism and time course, then organise physiological actions by metabolic effects and organ systems. Include growth and development and the effects of differing hormone levels.
+
+::: {.structure-headings}
+### Forms, Receptor Mechanism and Time Course
+
+### Metabolic Effects
+
+### Cardiovascular and Respiratory Effects
+
+### CNS, Growth and Development
+
+### Other Organ Effects and Feedback
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**38%** of candidates passed this question.
+
+The question asked the physiological actions of thyroid hormones, not the synthesis of thyroid hormones. There is a lot to cover by way of physiological actions. Some candidates spent time detailing their synthesis
+
+Marks were awarded for noting the forms of thyroid hormones, the relative amounts in the bloodstream and relative activities. An account of their mechanism of action at a cellular level was considered important. An understanding of the implication of this mechanism of action to the time for onset of action and duration of effect scored extra marks.
+
+An account of end-organ effects was present in some form in most answers, with a system by system approach often used. Most candidates were able to state that thyroid hormone increases metabolic rate. Many of these were able to go on to state that thyroid hormone had some catabolic effects. Some briefly mentioned the role of thyroid hormone in growth and development. Few picked up on the apparent contradiction between catabolic and anabolic effects, and described that the effects of thyroid hormones can be dose and age dependent. The effect of thyroid hormone to provide a negative feedback on its own synthesis was not often mentioned.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2003/A/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Thyroid hormones](/content/endo/thyroid.qmd)

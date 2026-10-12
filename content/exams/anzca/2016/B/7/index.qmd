@@ -1,0 +1,88 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016B Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the reasons why a pulse oximeter may give incorrect readings.
+:::
+
+Also asked in: [2019A Question 15](/content/exams/anzca/2019/A/15/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} inaccuracies through the measurement process, then separate processor limitations, probe interference and patient factors. For each, connect the mechanism to the direction or reliability of the displayed reading.
+
+::: {.structure-headings}
+### Measurement Principles
+
+### Intrinsic and Processor Limitations
+
+### Probe and Environmental Interference
+
+### Patient and Perfusion Factors
+
+### Abnormal Haemoglobins
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**20%** of candidates achieved a pass in this question
+
+The need for an introduction is contentious but if provided, marks are allocated for the fundamental principles of pulse oximetry. Well-structured answers would have organized facts into 3 main headings:
+
+1. Intrinsic limitations of the central processor
+2. Incidental errors at the level of the probe
+3. Patient factors affecting accuracy of the oximeter
+
+To pass, candidates are expected to provide detailed explanations of various reasons under those 3 headings that might produce inaccurate readings.
+
+It is not within the scope of this question to define the pulse oximeter, or to discuss its uses, advantages and its importance in clinical monitoring.
+
+Similarly, definition of oxygen saturation and discussion of the oxygen dissociation curve scored no marks. Common problems include: There were many incorrect interpretations of the Beer-Lambert Law and few candidates were able apply it correctly to pulse oximetry. Although many could draw the absorption spectra of oxygenated haemoglobin and deoxygenated haemoglobin, only one candidate was able to correctly incorporate the curves for carboxyhaemoglobin and methaemoglobin. The effects of carboxyhaemoglobin and methaemoglobin on oximetry were frequently mixed up. Falsely high SpO2 reading from carboxyhaemoglobin is not explained solely by the high affinity of carbon monoxide to haemoglobin. An impossibly large finger does not affect the amount of light absorbed so much as it prevents proper placement of the probe and creating an optical shunt. Some candidates propose regular calibration of the machine with a blood gas sample and many erroneously used SaO2 interchangeably for SpO2.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2016/B/7/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2016/B/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Pulse oximetry](/content/equipment/pulse_oximetry.qmd)

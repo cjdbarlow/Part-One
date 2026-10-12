@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011A Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**How may**]{.task-verb} drugs potentiate the action of non-depolarizing muscle relaxants at the neuromuscular junction?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} how drugs potentiate blockade under **Presynaptic Mechanisms** and **Postsynaptic Mechanisms**. Pair each mechanism with a drug example and connect it to acetylcholine release, receptor interaction or ion flux.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question was passed by **5.7%** of candidates.
+
+The following answer would have gained a very high mark:
+
+Drug interactions are relevant as there is a risk of failure to reverse neuromuscular blockade and residual paralysis. Drugs may interact either at the nerve terminal or the receptor to reduce the effect of acetylcholine (ACh) in competitively overcoming the block. Presynaptically there are at least three mechanisms that might reduce the release of acetylcholine (ACh):
+
+1. Reduced AMP/ATP synthesis – frusemide
+2. Blockade of presynaptic ACh receptors – volatiles
+3. Blockade of calcium channels – calcium channel blockers, magnesium, aminoglycosides, volatiles
+
+Postsynaptically there are several mechanisms that interfere with ion flux through the nicotinic receptor:
+
+1. Direct blockade of the ACh receptor – volatiles, aminoglycosides, quinidine, other neuromuscular blockers
+2. Desensitization block (binding to non-receptor sites) – volatiles, barbiturates, local anaesthetics
+
+The most common error was irrelevance: detailed descriptions of the physiology of neuromuscular transmission and a classification of non-depolarizing relaxants.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Non-Depolarising Neuromuscular Blockers](/content/pharmacopoeia/msk/non_depolarising_nmbs.qmd)
+- [Drug Interactions](/content/pharmacology/drug_interactions.qmd)

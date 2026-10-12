@@ -1,0 +1,93 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010A Question 16 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the processes whereby substances may cross cell membranes, giving examples.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} each transport process with its driving force, route and energy requirement. Give a relevant example for each, distinguishing facilitated diffusion from active transport and co-transport from counter-transport.
+
+::: {.structure-headings}
+### Simple Diffusion and Osmosis
+
+### Ion Channels and Aquaporins
+
+### Facilitated Diffusion
+
+### Primary and Secondary Active Transport
+
+### Endocytosis and Exocytosis
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**60%** of candidates passed this question.
+
+The following were the main points expected in answering the question: Clear descriptions of the following mechanisms of transport across cellular membranes;
+
+- Exocytosis and endocytosis
+- Diffusion, with an appropriate explanation. Better answers included relevant application of Fick‟s Law of Diffusion
+- Movement through ion channels and aquaporins, with ion channel subtypes identified
+- Carrier mediated transport, with discussion of facilitated diffusion, primary and secondary active transport.
+
+It was expected that relevant examples of each transport mechanism were included.
+
+Extra marks were awarded for a clear, well structured answer, with appropriate examples offered for key processes.
+
+Common errors included;
+
+- Detailed discussions of diffusion mechanisms, with inadequate attention to other processes
+- Incorrect or absent examples of key processes
+- Describing facilitated diffusion as an example of active transport
+- Confusing co-transport and counter-transport mechanisms.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2010/A/16/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Cell membrane](/content/cellular/cell_membrane.qmd)
+- [Cell transport](/content/cellular/cell_transport.qmd)

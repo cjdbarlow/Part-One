@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016A Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the physiological mechanisms of progression from acute to chronic pain and how drugs may alter this progression.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} mechanisms at peripheral, spinal and higher processing sites. Explain sensitisation and persistent changes, connecting relevant risk factors and drug actions to the stage they may modify.
+
+::: {.structure-headings}
+### Peripheral Sensitisation
+
+### Spinal Wind-Up and Central Sensitisation
+
+### Persistent Synaptic and Cellular Changes
+
+### Higher Processing and Risk Factors
+
+### Drug Actions Along the Progression
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**24%** of candidates achieved a pass in this question
+
+Good answers were able to explain the physiological changes that occur in the acute pain pathway for the evolution of acute to chronic pain including some of the associated characteristics for example: sensitization, wind-up, allodynia, hyperalgesia, phantom pain and memory. (Without the proposed physiological mechanisms for these characteristics the terms themselves gained no marks.) The risk factors for progressing to chronic pain were discussed including, patient factors, surgical factors, pain character and drug factors. Once highlighted the physiological changes and the risks factors were used as a basis to discuss the mechanism of action of drugs used to alter the progression of acute pain to chronic pain.
+
+Detailed descriptions of the acute pain pathway and management of chronic/complex pain syndromes were off topic and gained little credit.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2016/A/13/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2016/A/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Pain](/content/neuro/pain.qmd)

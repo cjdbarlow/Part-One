@@ -1,0 +1,64 @@
+#### Immediate:
+
++------------------------+-------------------------------------------------------------------------+
+| Febrile non-haemolytic | - Donor blood storage → cytokine accumulation (IL-1, IL-6, TNF-α)       |
+|                        | - Fever, malaise, dyspnoea                                              |
+|                        | - Not harmful                                                           |
++------------------------+-------------------------------------------------------------------------+
+| Febrile haemolytic     | - Due to incompatible transfusion                                       |
+|                        | - RBC \> platelets \> FFP                                               |
+|                        | - (Normal) prior alloimmunisation due to molecular mimicry by gut flora |
+|                        | - Donor antigen vs recipient antibody                                   |
+|                        | - ABO IgM→ intravascular haemolysis (DIC, renal failure, death)         |
+|                        | - RhD IgG→ extravascular haemolysis (haemolytic anaemia)                |
++------------------------+-------------------------------------------------------------------------+
+| Anaphylaxis            | - Type 1 hypersensitivity                                               |
+|                        | - FFP and platelets \> RBC                                              |
+|                        | - Donor protein vs recipient IgE                                        |
+|                        | - Especially IgA vs IgA-deficient host                                  |
+|                        | - Mast cell degranulation → vasodilation, bronchospasm, angioedema      |
++------------------------+-------------------------------------------------------------------------+
+| TRALI                  | - Transfusion-related acute lung injury                                 |
+|                        | - FFP and platelets \> RBC                                              |
+|                        | - ? Donor antibody vs recipient lung antigen                            |
+|                        | - ? Illness-related priming of neutrophils and endothelium              |
+|                        | - Non-cardiogenic pulmonary oedema                                      |
+|                        | - Major cause of mortality                                              |
+|                        | - FFP and platelets \> others                                           |
+|                        | - Onset during transfusion or \< 6 hours                                |
++------------------------+-------------------------------------------------------------------------+
+
+#### Delayed:
+
++------------------+----------------------------------------------------------------------------+
+| Alloimmunisation | - First exposure to antigen during transfusion or childbirth               |
+|                  | - Alloantibodies produced                                                  |
+|                  | - Second exposure results in antibody-mediated destruction                 |
+|                  |                                                                            |
+|                  | **Delayed haemolytic reaction:**                                           |
+|                  |                                                                            |
+|                  | - Especially if recurrent transfusion                                      |
+|                  | - Antibodies: Kell, Kidd, Duffy                                            |
+|                  | - Diminishing antibody titre → re-exposure → anamnestic response           |
+|                  | - Extravascular haemolysis → haemolytic anaemia                            |
+|                  |                                                                            |
+|                  | **Haemolytic disease of the newborn:**                                     |
+|                  |                                                                            |
+|                  | - RhD+ foetus vs RhD- mother; or Kell(+) foetus vs Kell(-) mother          |
+|                  | - IgG crosses placenta → severe haemolysis                                 |
+|                  | - Prevented by anti-D at 28/40 and 34/40 in RhD- women                     |
+|                  |                                                                            |
+|                  | **Post-transfusion purpura:**                                              |
+|                  |                                                                            |
+|                  | - Donor platelet vs recipient alloantibodies                               |
+|                  | - Consumption of both donor platelets and bystanders                       |
++------------------+----------------------------------------------------------------------------+
+| Immunomodulation | - Mechanism unclear - ? donor WBC or mediators                             |
+|                  | - ↑Post-op infection, ↑cancer recurrence                                   |
+|                  | - Rationale for cell salvage use in major cancer surgery                   |
++------------------+----------------------------------------------------------------------------+
+| Graft vs host    | - Donor WBC multiplies in immunocompromised host → tissue damage           |
+|                  | - Affects skin (rash), marrow (suppression), liver (↑LFT), GIT (diarrhoea) |
+|                  | - Rare, fatal, untreatable                                                 |
+|                  | - Prevented by gamma irradiation of blood product                          |
++------------------+----------------------------------------------------------------------------+

@@ -1,0 +1,47 @@
++---------------------+----------------------------------------------------------------------------------------+
+| Energy              | - 8.4MJ/day                                                                            |
+|                     | - Body can adapt to various macronutrient contributions                                |
++---------------------+----------------------------------------------------------------------------------------+
+| Water               | - Daily requirement 2-2.5L/day                                                         |
+|                     | - 1.5L urine (minimum 0.6L)                                                            |
+|                     | - 0.4L resp tract                                                                      |
+|                     | - 0.4L skin transepidermal diffusion                                                   |
+|                     | - 0.2L faeces                                                                          |
++---------------------+----------------------------------------------------------------------------------------+
+| Carbohydrate        | - 17kJ/g                                                                               |
+|                     | - Supplies 50% energy                                                                  |
+|                     | - Brain and RBC obligate (brain also ketones)                                          |
++---------------------+----------------------------------------------------------------------------------------+
+| Protein             | - 16kJ/g                                                                               |
+|                     | - Supplies 20% energy                                                                  |
+|                     | - 20 essential amino acids required                                                    |
+|                     | - Minimum \~0.5g/kg/day                                                                |
+|                     | - Glutamine catabolized readily in fasting state                                       |
++---------------------+----------------------------------------------------------------------------------------+
+| Fat                 | - 37kJ/g                                                                               |
+|                     | - 30% energy requirement                                                               |
+|                     | - e.g. linoleic acid                                                                   |
++---------------------+----------------------------------------------------------------------------------------+
+| Vitamins            | - A (e.g. eyes), D (bone density, Ca^2+^ homeostasis), E (e.g skin), K (coagulation)   |
+|                     | - B: many subtypes, e.g. B12 cofactor for methionine synthetase (DNA synthesis)        |
+| - Fat soluble       | - C: wound healing, skin health                                                        |
+| - Water soluble     |                                                                                        |
++---------------------+----------------------------------------------------------------------------------------+
+| Electrolytes        | - Na^+^: nerve action potentials, ECF osmolality                                       |
+|                     | - K^+^: nerve action potential, ICF osmolality                                         |
+|                     | - Ca^2+^: muscle contraction                                                           |
+|                     | - Mg^2+^: Enzyme cofactor e.g. Na^+^K^+^ATPase                                         |
+|                     | - Cl^-^: ECF osmolyte                                                                  |
+|                     | - PO~4~^3-^: ICF for ATP synthesis and buffering                                       |
++---------------------+----------------------------------------------------------------------------------------+
+| Minerals            | - Fe^2+^: for Hb synthesis, cytochrome synthesis                                       |
+|                     | - Zn^2+^: cofactor in enzymatic reactions                                              |
+|                     | - I^-^: thyroid hormone synthesis                                                      |
++---------------------+----------------------------------------------------------------------------------------+
+| Special populations | - Pregnancy: 1.2 x BMR, ↑↑protein requirement                                          |
+|                     | - Neonate: 2x BMR, ↑requirement of all                                                 |
+|                     | - Elderly: BMR decreased                                                               |
+|                     | - Sepsis: BMR increased, catabolic state, ↑protein requirement                         |
+|                     | - Burns: catabolic state, ↑protein requirement                                         |
+|                     | - Large bone fracture: hypermetabolic and anabolic state, ↑BMR and protein requirement |
++---------------------+----------------------------------------------------------------------------------------+

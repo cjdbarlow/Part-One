@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019B Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the role of paracetamol in multi-modal analgesia(50%). [**Explain**]{.task-verb} paracetamol metabolism and the mechanism of toxicity (50%). Do not discuss management of toxicity.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} why paracetamol contributes to multimodal analgesia, relating relevant actions and tolerability to opioid sparing. [**Explain**]{.task-verb} normal metabolism and how increasing exposure changes the balance of pathways and produces toxicity, giving each half equal emphasis.
+
+::: {.structure-headings}
+### Role in Multimodal Analgesia
+
+### Relevant Mechanisms, Benefits and Limitations
+
+### Major and Minor Metabolic Pathways
+
+### NAPQI Formation and Glutathione Conjugation
+
+### Pathway Saturation and Mechanism of Toxicity
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**33.6%** of candidates achieved a pass in this question
+
+The major domains assessed in this question were: 1) paracetamol in multimodal analgesia, 2) paracetamol metabolism and 3) paracetamol toxicity. Credit was given for other relevant correct material. Common problems/errors were:
+
+a) Giving the pharmacodynamic and pharmacokinetic data for paracetamol, including its mechanism of action, without relating this information to why paracetamol is used in multimodal analgesia.
+b) Neglecting the major pathway of paracetamol metabolism and only discussing the minor pathway of NAPQI formation.
+c) Confusing glucuronidation/glucuronidate with glutathione.
+d) Wrongly suggesting glutathione ‘metabolises’ NAPQI. Glutathione is a substrate not an enzyme.
+e) Wrongly suggesting glucuronidation is a cytochrome P450 process.
+f) Inadequately explaining the changes in the minor and major pathways with increasing paracetamol levels. (Increased paracetamol dose overwhelms the major pathway so paracetamol is diverted to the minor pathway. This results in increased NAPQI. This only becomes ‘toxic’ when glutathione stores are exhausted.)
+g) Inadequately discussing the mechanism of paracetamol toxicity which is a multifold process.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2019/B/14/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2019/B/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Paracetamol](/content/pharmacopoeia/analgesics/paracetamol.qmd)

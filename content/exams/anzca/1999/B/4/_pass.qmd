@@ -1,0 +1,57 @@
+Kidneys have an important role in regulating total body waster and osmolality by altering urine volume and its make up.
+
+**Renal Blood flow and Filtration:**
+
+- Renal blood flow: 1440l/day 
+- Glomerular filtration rate: 180l/day, this is regulated / maintained over a broad range of MAP (\~70-170mmHg) by myogenic auto regulation and tubuloglomerular feedback. 
+- myogenic mechanism – ↑RPP → afferent arteriole stretch → reflex contraction! ↓RBP ! ↓GFR
+- Tubuloglomerular feedback →↑GFR →↑filtered NaCl → sensed by macula densa →↑adenosine →↓GFR
+
+The kidneys regulate urine production from between 500ml to many L with an osmolality range from 40-1400mOsm .
+
+**Renal fluid management by location:**
+
+**Proximal Convoluted tubule:**
+
+- The proximal tubule reabsorbs 60% of filtrate (water) including electrolytes and filtered products
+- Reabsorption unregulated 
+
+**Descending (thin) Loop of Henle**
+
+- Thin descending limb is permeable to water so further water reabsorption  \~15% 
+
+**Thick (ascending) loop of Henle and Distal converted tubule **
+
+- Impervious to water, active reabsorption of solute through Na/K/2Cl cotransporter establishes the concentration gradient for urine concentration in the collecting duct.
+
+**Distal convoluted tubule **
+
+- Macula densa in proximal DCT detects Na concentration from increased/decreased flow rates → regulation of afferent arteriole blood flow, and in low flow states stimulates release of rennin from JG cells → Activation of RAAS pathway 
+- Small amount of water reabsorption following 3Na/2K ATPase pump activity regulated by aldosterone
+
+**Collecting Duct **
+
+- Urine concentration through ADH acting on V2 rectors → inserting aquaporin into lumen cell surface can reabsorb further \~15% of urine 
+
+CD is the primary site of urine concentration when required.
+
+**Renal Water Regulation: **
+
+Auto regulation through myogenic and tubuloglmerular feedback
+
+Renin release → Angiotensin I → Angiotensin II → Aldosterone 
+
+**Renin **
+
+Tubuloglomerular mechanism and Beta 1 adrenergic stimulation → ↑ renin release 
+
+**Angiotensin II: **
+
+- ↑fluid and NaCl reabsorption, ↑ECF volume
+- ADH release 
+- thirst 
+
+ADH
+
+- ↑ thirst
+- ↑ water reabsorption and concentrated urine formation

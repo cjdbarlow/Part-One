@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009B Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the effect of obesity on pharmacokinetics and the potential clinical implications, providing relevant examples.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} changes in body composition and organ function, then work through absorption, distribution, metabolism and excretion. Give a relevant drug example and clinical implication for each important change.
+
+::: {.structure-headings}
+### Obesity and Body Composition
+
+### Absorption
+
+### Distribution, Binding and Dose Scaling
+
+### Metabolism and Excretion
+
+### Drug Examples and Infusion Models
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**45%** of candidates passed this question.
+
+This was a question with which most candidates struggled, possibly because it required bringing together information from a variety of areas.
+
+Most candidates started off, appropriately, with a definition of obesity and then went on to point out that it was often associated with a range of other co-morbidities such as diabetes and gastric reflux. Then, possibly relying on clinical experience, candidates often remarked that in the obese patient FRC can be reduced, thus affecting uptake of volatile anaesthetic agents and that transdermal, intramuscular and subcutaneous drug absorption was also likely to be affected.
+
+Many candidates also mentioned that some computer based programmes for TCI could give variable results when actual (rather than lean) body weight was entered. However there were few instances where specific examples were given (as asked for in the question). Pharmacokinetic handling of some opioids are altered in the obese patient, and only a few candidates mentioned the possible pharmacokinetic advantages of poorly lipid soluble volatile agents such as desflurane over other volatile agents in the obese patient.
+
+With regard to non-depolarising muscle relaxant drugs, although their polarity generally restricts their distribution, volume of distribution may be increased in the obese, simply by virtue of increased absolute total body water. There will be differences in the distribution, and hence duration of action depending on whether dosage is calculated on the basis of ideal body weight or total body water. From a clinical context, obese patients are comprising an increasing proportion of our population, and candidates should be aware of how this condition influences drug disposition.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2009/B/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Drug distribution](/content/pharmacology/distribution.qmd)
+- [Target-controlled infusion](/content/pharmacology/tci.qmd)

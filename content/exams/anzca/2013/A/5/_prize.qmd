@@ -1,0 +1,69 @@
+#### List:
+
+- Theory
+- Determinants
+- Application
+
+#### Theory:
+
++------------+-------------------------------------------------------------------------------------------------------------------------+
+| Definition | - The volume into which a substance appears to be dispersed based on relationship between dose and plasma concentration |
+|            | - Not a physical volume                                                                                                 |
+|            | - Can be larger than total body volume                                                                                  |
++------------+-------------------------------------------------------------------------------------------------------------------------+
+| Subtypes   | - Body is not homogenous                                                                                                |
+|            | - Drugs given or absorbed into plasma, then distributed                                                                 |
+|            | - Require multicompartmental modelling                                                                                  |
+|            | - Central V~D~: prior to distribution (e.g. propofol 0.3-0.6L/kg)                                                       |
+|            | - Steady state V~D~: after distribution (e.g. propofol 4L/kg)                                                           |
++------------+-------------------------------------------------------------------------------------------------------------------------+
+| Location   | - \<40mL/kg: plasma (e.g. warfarin)                                                                                     |
+|            | - \<200mL/kg: ECF (e.g. rocuronium)                                                                                     |
+|            | - \<600mL/kg: TBW                                                                                                       |
+|            | - \>600mL/kg: fat (e.g. propofol) or tissue protein-bound (e.g. amiodarone)                                             |
++------------+-------------------------------------------------------------------------------------------------------------------------+
+
+#### Determinants:
+
++------------+----------------------------------------------------------------------------------+
+| Drug       | ↑V~D~:                                                                           |
+|            |                                                                                  |
+|            | - Small (e.g. propofol)                                                          |
+|            | - Non-polar, lipophilic (e.g. fentanyl)                                          |
+|            | - Tissue protein binding (e.g. amiodarone 70L/kg)                                |
+|            |                                                                                  |
+|            | ↓V~D~:                                                                           |
+|            |                                                                                  |
+|            | - Large (e.g. suxamethonium)                                                     |
+|            | - Polar, hydrophilic (e.g. suxamethonium)                                        |
+|            | - Plasma protein-bound (e.g. warfarin 0.1L/kg)                                   |
++------------+----------------------------------------------------------------------------------+
+| Physiology | - Neonate: ↑total body water, ↑V~D~ water soluble drugs                          |
+|            | - Pregnant: ↑muscle, ↑adipose, ↑water; ↑V~D~ most drugs                          |
+|            | - Elderly: ↓muscle, ↓water, ↑%adipose: ↓V~D~ water soluble drugs                 |
++------------+----------------------------------------------------------------------------------+
+| Pathology  | - Fluid overload (heart/liver/kidney failure): ↑V~D~ water soluble drugs         |
+|            | - ↓Plasma proteins (e.g. liver failure): ↑V~D~ highly plasma protein bound drugs |
+|            | - If low hepatic extraction ratio: ↑↑Free drug → ↑↑effect (e.g. phenytoin)       |
+|            | - Dehydration: ↓V~DC~ most drugs (e.g. propofol), ↓V~DSS~ water-soluble drugs    |
++------------+----------------------------------------------------------------------------------+
+
+#### Application:
+
++-------------+-----------------------------------------------------------------+
+| Measurement | - Administer known amount of drug                               |
+|             | - Measure subsequent plasma concentration                       |
+|             | - V~D~ = n / C (where ‘n’ is the total bioavailable amount)     |
++-------------+-----------------------------------------------------------------+
+| Equations   | - V~D~ = amount of drug / measured concentration\               |
+|             |   (loading dose = V~D~ x desired concentration)                 |
+|             | - V~D~ = clearance / rate constant                              |
++-------------+-----------------------------------------------------------------+
+| Assumptions | - Single compartment                                            |
+|             | - 100% bioavailability                                          |
+|             | - Equilibration complete                                        |
+|             | - No metabolism or excretion prior to blood sampling            |
++-------------+-----------------------------------------------------------------+
+| Use         | - Calculate loading dose (e.g. amiodarone)                      |
+|             | - Predict offset after drug infusion (e.g. propofol TCI models) |
++-------------+-----------------------------------------------------------------+

@@ -1,0 +1,123 @@
+#### List:
+
+- Effects
+- Comparison
+
+#### Pharmacodynamics:
+
++------------+--------------------------------------------------------------+
+| Receptor   | - α~2~ adrenoceptor agonist                                  |
+|            |   - α~2~ \>\> α~1~                                           |
+|            |   - Central and peripheral                                   |
+|            |   - Pre- and post-synaptic                                   |
+|            | - Imidazoline receptor agonist                               |
+|            |   - May mediate brainstem effects                            |
++------------+--------------------------------------------------------------+
+| Physiology | - Locus coeruleus:                                           |
+|            |   - Mainly post-synaptic                                     |
+|            |   - ↓Activity of reticular activating system                 |
+|            |   - ↓SNS outflow                                             |
+|            |   - ↑Descending inhibition of nociceptors                    |
+|            | - Dorsal horn:                                               |
+|            |   - ↓Glutamate/substance P release by nociceptors            |
+|            |   - ↓Activation of WDR projection neurons                    |
+|            | - Peripheral nerves                                          |
+|            |   - Pre-synaptic: ↓NAd release                               |
+|            |   - Post-synaptic: similar to α~1~                           |
++------------+--------------------------------------------------------------+
+| CNS        | - Anxiolysis and sedation                                    |
+|            |   - Rousable and co-operative                                |
+|            |   - Airway and breathing unaffected                          |
+|            | - General anaesthesia                                        |
+|            |   - Insufficient alone                                       |
+|            |   - ↓MAC / propofol Cp50                                     |
+|            |   - ↓CMRO~2~ / ↓CBF / ↓ICP (mild)                            |
+|            |   - EEG quasi NREM 3-4                                       |
+|            | - Other:                                                     |
+|            |   - Analgesia (opioid-sparing)                               |
+|            |   - Augment and prolong neuraxial blockade                   |
+|            |   - Neuroprotection (↓NAd, ↓glutamate)                       |
+|            |   - Anti-shivering                                           |
+|            |   - Anti-sialogogue                                          |
++------------+--------------------------------------------------------------+
+| CVS        | - Effects                                                    |
+|            |   - During use: ↓SVR, ↓mAP, ↓HR, ↔CO                         |
+|            |     - Central post-synaptic \> peripheral pre-synaptic α~2A~ |
+|            |     - Severe if large bolus                                  |
+|            |   - After cessation: ± rebound ↑mAP, agitation               |
+|            |     - α~2~ receptor upregulation                             |
+|            | - Use:                                                       |
+|            |   - ↓Response to laryngoscopy and surgery                    |
+|            |   - ↓Myocardial ischaemia (↑supply, ↓demand)                 |
+|            |   - ↓Opioid withdrawal                                       |
++------------+--------------------------------------------------------------+
+
+#### Comparison:
+
++----+------------------------------------+------------------------------+
+|    | **Clonidine**                      | **Dexmedetomidine**          |
++====+====================================+==============================+
+| PC | - So cheap                         | - So expensive               |
++----+------------------------------------+------------------------------+
+| PK | - 100% oral bioavailability        | - Poor oral bioavailability\ |
+|    |   - Oral pre-med                   |   \                          |
+|    | - t~1/2~~β~ 12-24h                 | - t~1/2~~β~ 2h               |
+|    |   - Bolus only                     |   - Bolus and/or infusion\   |
+|    |   - Risk prolonged hypotension     |     \                        |
+|    | - 50% metabolised                  | - 100% metabolised           |
+|    |   - Accumulate in AKI              |                              |
++----+------------------------------------+------------------------------+
+| PD | - Partial agonist (ceiling effect) | - Full agonist               |
+|    | - α~2~:α~1~ = 200:1                | - α~2~:α~1~ = 1600:1         |
+|    | - ? No phasic response             | - Loading dose → ↑SVR, ↑mAP  |
++----+------------------------------------+------------------------------+
+
+#### Addit: comparative pharmacokinetics
+
++----------------------------+-----------------------------+----------------------------------------+
+|                            | **Clonidine**               | **Dexmedetomidine**                    |
++============================+=============================+========================================+
+| **Admin:**                 | IV, PO, neuraxial, regional | IV, neuraxial, regional                |
++----------------------------+-----------------------------+----------------------------------------+
+| **Time course:**           |                             |                                        |
++----------------------------+-----------------------------+----------------------------------------+
+| - Onset                    | \<5 min                     | \<5 min                                |
++----------------------------+-----------------------------+----------------------------------------+
+| - Peak                     | 10 min                      | \<15 mins                              |
++----------------------------+-----------------------------+----------------------------------------+
+| - Duration                 | 3-7 hours (for bolus only)  | 2-3 hours (suitable for long infusion) |
++----------------------------+-----------------------------+----------------------------------------+
+| **Absorption:**            |                             |                                        |
++----------------------------+-----------------------------+----------------------------------------+
+| - **Oral bioavailability** | Near 100%                   | Poor                                   |
++----------------------------+-----------------------------+----------------------------------------+
+| **Distribution:**          |                             |                                        |
++----------------------------+-----------------------------+----------------------------------------+
+| - Lipid solubility         | High                        | High                                   |
++----------------------------+-----------------------------+----------------------------------------+
+| - V~DSS~                   | 2L/kg                       | 2L/kg                                  |
++----------------------------+-----------------------------+----------------------------------------+
+| - Plasma protein binding   | 20%                         | 90%                                    |
++----------------------------+-----------------------------+----------------------------------------+
+| **Metabolism:**            |                             |                                        |
++----------------------------+-----------------------------+----------------------------------------+
+| - Extent                   | 50%                         | 100%                                   |
++----------------------------+-----------------------------+----------------------------------------+
+| - Mode                     | Liver CYP2D6                | Liver CYP2A6 hydroxylation             |
+|                            |                             |                                        |
+|                            | N.B. polymorphism           |                                        |
++----------------------------+-----------------------------+----------------------------------------+
+| - Speed                    | Cl 2-4mL/kg/min             | Cl 10mL/kg/min                         |
+|                            |                             |                                        |
+|                            | t~1/2~~β~ 12-24 hours       | t~1/2~~β~ 2 hours                      |
++----------------------------+-----------------------------+----------------------------------------+
+| - Active metabolites       | Nil                         | Nil                                    |
++----------------------------+-----------------------------+----------------------------------------+
+| **Excretion:**             |                             |                                        |
++----------------------------+-----------------------------+----------------------------------------+
+| - Urine                    | 50% parent                  | 95%                                    |
+|                            |                             |                                        |
+|                            | 100% metabolites            |                                        |
++----------------------------+-----------------------------+----------------------------------------+
+| - Faeces                   |                             | 5%                                     |
++----------------------------+-----------------------------+----------------------------------------+

@@ -1,0 +1,97 @@
+#### List:
+
+- Means of toxicity
+- Determinants of drug uptake
+- Determinants of LAST susceptibility
+
+#### Means of toxicity:
+
++---------------------+--------------------------------------------------------------------------------------+
+| LAST                | - Systemic blockade of voltage-gated Na+ channels (∝ dose)                           |
+|                     | - CNS effects: e.g. seizure, coma                                                    |
+|                     | - CVS effects: e.g. arrhythmia, arrest                                               |
++---------------------+--------------------------------------------------------------------------------------+
+| Cocaine toxicity    | - Effects mostly ∝ dose                                                              |
+|                     | - Effects ? additive ? synergistic with other local anesthetics (e.g. nasal surgery) |
+|                     | - CVS: ↑↑noradrenaline → ↑BP, ↑HR, coronary vasoconstriction,\                       |
+|                     |   Cardiomyopathy (? idiosyncratic)                                                   |
+|                     | - CNS: ↑↑dopamine → euphoria, risk-taking                                            |
+|                     | - Nasal: profound vasoconstriction → ischaemic necrosis (∝ dose)                     |
++---------------------+--------------------------------------------------------------------------------------+
+| Prilocaine toxicity | - ↑Methaemoglobin → Hb unable to bind O~2~ (∝ dose)                                  |
+|                     | - ↑↑Risk of reductase deficiency: neonate, congenital                                |
++---------------------+--------------------------------------------------------------------------------------+
+| Hypersensitivity    | - i.e. allergy, anaphylaxis (dose-independent)                                       |
+|                     | - e.g. PABA metabolite of esters                                                     |
+|                     | - e.g. sodium metabisulfite preservative with lignocaine                             |
++---------------------+--------------------------------------------------------------------------------------+
+
+#### Determinants of drug uptake:
+
++---------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Diffusion rate:**             | *Fick’s law:*                                                                                                                                                                             |
+|                                 |                                                                                                                                                                                           |
+|                                 | ![](/content/exams/anzca/2020/B/9/prize-image001.jpg){fig-alt="Fick diffusion relationship showing concentration gradient, membrane area and thickness, solubility and molecular weight"} |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| - ↑C~1~                         | - ↑Drug concentration (e.g. 10% lignocaine for airway topicalisation)                                                                                                                     |
+|                                 | - Eutectic mixture: optimal ratio → ↓melting point → liquid state → ↑C~1~ (cf. solution)                                                                                                  |
+|                                 |   - EMLA: 2.5% lignocaine + 2.5% prilocaine, melting point 18°C                                                                                                                           |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| - ↓C~2~                         | - ↑Tissue blood flow → ↓C~2~ but also offset of local effect                                                                                                                              |
+|                                 | - Regional variation: e.g. lower flow to foot cf. scalp                                                                                                                                   |
+|                                 | - Drug effect: e.g. prolonged EMLA application → vasodilation                                                                                                                             |
+|                                 | - Drug additive: adrenaline → ↓rate of absorption (e.g. nasal lignocaine)                                                                                                                 |
+|                                 | - Pathology: hypothermia, shock, heart failure                                                                                                                                            |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| - ↑Area                         | - ↑Area of application → ↑total absorption but ↔ absorption per unit area\                                                                                                                |
+|                                 |   e.g. multiple patches                                                                                                                                                                   |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| - ↓Thickness                    | - Extensor thicker than flexor                                                                                                                                                            |
+|                                 | - Lower limb thicker than upper limb                                                                                                                                                      |
+|                                 | - Mucous membrane → ↓↓thickness, ↑↑rate of blood flow                                                                                                                                     |
+|                                 |   - Contraindication for EMLA, topical amethocaine                                                                                                                                        |
+|                                 |   - Risk of inadvertent overdose during topicalisation for AFOI                                                                                                                           |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| - ↑Diffusion        coefficient | - ↑Lipid solubility -(lignocaine 150x, prilocaine 50x procaine)                                                                                                                           |
+|                                 | - ↑% unionized                                                                                                                                                                            |
+|                                 |   - Drug: lignocaine 25%, prilocaine 33%, higher than most                                                                                                                                |
+|                                 |   - Additive: NaOH in EMLA → ↑pH                                                                                                                                                          |
+|                                 | - ↓Molecular weight (all LA drugs have similar MW 200-250g/mol)                                                                                                                           |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Diffusion time:**             | - Uptake ∝ application time                                                                                                                                                               |
+|                                 | - EMLA 30 mins for PIVC, 120 mins for skin graft                                                                                                                                          |
+|                                 | - 2% lignocaine viscous gargle \< 1 minute for pharyngeal topicalisation                                                                                                                  |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Determinants of LAST susceptibility:
+
++---------+--------------------------------------------------------------------------+
+| Drug    | **Pharmacokinetics (PK):**                                               |
+|         |                                                                          |
+|         | - Esters: rapid metabolism by BChE → short t~1/2~~β~                     |
+|         | - Amides: slow metabolism by liver → long t~1/2~~β~                      |
+|         |                                                                          |
+|         | **Pharmacodynamics (PD):**                                               |
+|         |                                                                          |
+|         | - Toxicity threshold: bupiv 1.5mcg/mL, ropiv 4mcg/mL, lignocaine 5mcg/mL |
+|         | - CC:CNS ratio – bupivacaine 3:1, ropivacaine 5:1, lignocaine 7:1        |
++---------+--------------------------------------------------------------------------+
+| Patient | **PK:**                                                                  |
+|         |                                                                          |
+|         | - Absorption: see above                                                  |
+|         | - Distribution: Cachexia → ↑plasma concentration → ↑risk                 |
+|         | - Metabolism: liver disease → ↓rate of amide removal → ↑risk             |
+|         |                                                                          |
+|         | **PD:**                                                                  |
+|         |                                                                          |
+|         | - Class 1 antiarrhythmics → ↑Na^+^ channel blockade → ↑risk              |
+|         | - CVS                                                                    |
+|         |   - ↑HR → ↑channel cycling rate → ↑risk                                  |
+|         |   - ↓PaO~2~, ↓pH, ↑K^+^ → ↑risk                                          |
+|         |   - IHD, channelopathy → ↑risk arrhythmias                               |
+|         |   - AV conduction delay → ↑risk high grade block from lignocaine         |
+|         | - CNS                                                                    |
+|         |   - ↑PaCO~2~ (↑CBF), ↓PaO~2~, ↓pH → ↑risk                                |
+|         |   - Pregnancy → ↑local anaesthetic sensitivity                           |
+|         |   - Epilepsy, tramadol → ↓seizure threshold                              |
++---------+--------------------------------------------------------------------------+

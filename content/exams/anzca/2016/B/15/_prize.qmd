@@ -1,0 +1,86 @@
+#### List:
+
+- Diagramme
+- Chemoreceptor trigger zone
+- Table of drugs, MoA, side effects
+
+#### Diagramme:
+
+![](/content/exams/anzca/2016/B/15/prize-image001.jpg){fig-alt="Emetic pathways connecting cortex, vestibular apparatus, trigger zone and vomiting centre"}
+
+#### Chemoreceptor trigger zone:
+
++----------------------+----------------------------------------------------+
+| What is it           | - Region in area postrema outside blood-brain body |
+|                      | - Purpose to protect against ingested toxins       |
+|                      | - Stimulated CTZ activates vomiting centre (VC)    |
++----------------------+----------------------------------------------------+
+| Emetogenic receptors | - Serotonin                                        |
+|                      | - Histamine                                        |
+|                      | - Muscarinic                                       |
+|                      | - Opioid                                           |
+|                      | - Dopamine                                         |
+|                      |                                                    |
+|                      | (Sarah hates men on drugs)                         |
++----------------------+----------------------------------------------------+
+
++---------------------------------------+---------------------------------------------------------------------+------------------------------------------------------------------------+
+| **Drug**                              | **Mechanism of anti-emesis**                                        | **Side effects**                                                       |
++=======================================+=====================================================================+========================================================================+
+| Dexamethasone                         | - Not well understood                                               | - ↑BSL (especially if diabetic)                                        |
+|                                       | - For PONV prevention, not rescue\                                  | - Anxiety/depression, psychosis, insomnia                              |
+|                                       |   (onset 2 hours)                                                   | - Peri-anal pain if rapid IV injection (due to phosphate esters)       |
+|                                       | - Receptor: transcription factor in cytosol → affects 25% of genome | - ? ↑Infection (PADDI trial in progress)                               |
+|                                       | - Location: ? nucleus tractus solitarius (NTS)                      |                                                                        |
++---------------------------------------+---------------------------------------------------------------------+------------------------------------------------------------------------+
+| 5-HT~3~ antagonist                    | - Central: ↓afferent CTZ → VC                                       | - Headache                                                             |
+|                                       | - Peripheral: ↓CNX afferent to CTZ via NTS                          | - Sedation                                                             |
+| e.g. ondansetron                      |                                                                     | - Constipation                                                         |
+|                                       |                                                                     | - Allergy/anaphylaxis rare                                             |
+|                                       |                                                                     | - ↑QT~C~                                                               |
+|                                       |                                                                     | - Inhibit analgesic effect of tramadol (serotonin reuptake inhibition) |
++---------------------------------------+---------------------------------------------------------------------+------------------------------------------------------------------------+
+| DA~2~ antagonist:                     | - ↓Afferent from CTZ to VC                                          | - Sedation                                                             |
+|                                       |                                                                     | - Extra-pyramidal side effects (EPSE)                                  |
+| - Butyrophenone                       |                                                                     |   - Parkinsonism                                                       |
+|                                       |                                                                     |   - Akathisia                                                          |
+| e.g. droperidol                       |                                                                     |   - Dystonia                                                           |
+|                                       |                                                                     |   - Tardive dyskinesia                                                 |
+|                                       |                                                                     | - Avoid in Parkinson’s disease                                         |
+|                                       |                                                                     | - Neuroleptic malignant syndrome                                       |
+|                                       |                                                                     | - ↑QT~C~, TdP                                                          |
+|                                       |                                                                     | - Mild hypotension (α~1~ antagonist)                                   |
++---------------------------------------+---------------------------------------------------------------------+------------------------------------------------------------------------+
+| DA~2~ antagonist:                     | - ↓Afferent CTZ → VC                                                | - Sedation                                                             |
+|                                       |                                                                     | - EPSE                                                                 |
+| - Phenothiazine e.g. prochlorperazine |                                                                     |                                                                        |
++---------------------------------------+---------------------------------------------------------------------+------------------------------------------------------------------------+
+| DA~2~ antagonist:                     | - Central: DA~2~i, 5HT~3~i\                                         | - EPSE                                                                 |
+|                                       |   (↓afferents from CTZ to VC)                                       | - ↑PRL: galactorrhoea, depression, headache                            |
+| - Benzamide                           | - Peripheral: DA~2~i, 5HT~4a~\                                      |                                                                        |
+|                                       |   (↓afferent from CNX to CTZ via NTS)                               |                                                                        |
+| e.g. metoclop                         | - Anti-emetic and prokinetic                                        |                                                                        |
++---------------------------------------+---------------------------------------------------------------------+------------------------------------------------------------------------+
+| Anti-histamine first generation       | - ↓Afferent from CTZ to VC                                          | - Sedation                                                             |
+|                                       | - ↓Afferent from vestibular apparatus to CTZ                        |                                                                        |
+| e.g. cyclizine                        | - Strong anti-muscarinic                                            |                                                                        |
+|                                       | - Weak anti-DA                                                      |                                                                        |
++---------------------------------------+---------------------------------------------------------------------+------------------------------------------------------------------------+
+| Anti-muscarinic                       | - mAChRi                                                            | - Central anticholinergic                                              |
+|                                       | - Central: CTZ, vestibular                                          | - ↑HR                                                                  |
+| e.g. atropine                         | - Peripheral: CNX afferent                                          | - Mydriasis, blurred vision                                            |
+|                                       |                                                                     | - Dry skin, flushing, hyperthermia                                     |
++---------------------------------------+---------------------------------------------------------------------+------------------------------------------------------------------------+
+| Propofol                              | - Central 5HT~3~i                                                   | - Minimal at tiny dose e.g. 20mg                                       |
+|                                       | - ↓Afferent from CTZ to VC                                          |                                                                        |
++---------------------------------------+---------------------------------------------------------------------+------------------------------------------------------------------------+
+| Benzodiazepines e.g. midazolam        | - Positive modulator at GABA-A                                      | - Antegrade amnesia                                                    |
+|                                       | - ? ↓cortical afferent to CTZ                                       |                                                                        |
++---------------------------------------+---------------------------------------------------------------------+------------------------------------------------------------------------+
+| Cannabinoids                          | - Cannabinoid receptor in GIT                                       | - Psychosis                                                            |
+|                                       | - Especially cancer-associated N&V                                  |                                                                        |
++---------------------------------------+---------------------------------------------------------------------+------------------------------------------------------------------------+
+| NK-1 antagonist                       | - Substance P antagonist at NK-1R                                   | - Inhibit CYP3A4                                                       |
+|                                       | - Peripheral: ↓CNX afferent to CTZ via NTS                          |                                                                        |
+| e.g. aprepitant                       | - Esp cancer-associated N&V                                         |                                                                        |
++---------------------------------------+---------------------------------------------------------------------+------------------------------------------------------------------------+

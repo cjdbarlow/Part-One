@@ -1,0 +1,86 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019B Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the anatomy and relations of the right internal jugular vein as relevant to performing central venous cannulation
+:::
+
+Also asked in: [2016B Question 9](/content/exams/anzca/2016/B/9/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the vein from origin to termination with a labelled neck diagram. Relate its changing position and neighbouring structures to landmark and ultrasound approaches and potential injury.
+
+::: {.structure-headings}
+### Origin, Course and Termination
+
+### Carotid Sheath and Arterial Relations
+
+### Other Neighbouring Structures
+
+### Surface Landmarks and Ultrasound
+
+### Anatomical Basis of Complications
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**23.6%** of candidates achieved a pass in this question
+
+The major domains assessed in this question were the anatomy of the right internal jugular vein – its origin, insertion, a description of the pathway the vein travels, the relations of the vein as it travels through the neck, the surface and sono-anatomy anatomy of the vein and their relevance to achieving safe, successful cannulation.
+
+Credit was given for other relevant correct material.
+
+The commonest error was to spend significant time describing central venous cannulation hence not answering the question asked. Other common problems were insufficient detail of the anatomical path and structures around the vein and inaccurate correlation of anatomy and technique. Diagrams unfortunately were commonly poorly drawn and attracted few additional marks, due to errors, no level specified for cross-sections and a lack of labels.
+
+No marks were awarded for discussing clinical utility of CVC insertion. Complications of CVC insertion were also not assessed directly, but credit was given for describing these in light of anatomical relations or aspects of cannulation technique.
+
+The references used for this question were Anatomy for Anaesthetists Ellis and Lawson 9th Ed pp 79-105 and Millers Anesthesia 8th Ed Chapter 45 pp1345-1395
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2016/B/9/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2016/B/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Internal jugular vein](/content/anatomy/ijv.qmd)

@@ -1,0 +1,85 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013B Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the physiological significance of the blood-brain barrier.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} how the barrier’s structural and transport properties support each physiological function, including the significance of regions without a barrier.
+
+::: {.structure-headings}
+### Structure and Selective Permeability
+
+### Neuronal Homeostasis and Protection
+
+### Circumventricular Organs
+
+### Altered Barrier Function
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**38.9%** of candidates achieved a pass in this question
+
+Candidates were expected to include a definition of the blood brain barrier (BBB) and the micro-anatomical features, unique to its function. The control of ion passage, along with which substances could freely pass and those which cannot was expected. Description of how the area postrema lies outside the BBB and the role in emesis was considered to be basic knowledge; better answers included other circumventricular organs and their role.
+
+Many candidates incorrectly believed gap junctions to be present. Knowledge of neuroanatomy, and location of various physiological control centres within the brain was generally poor when specified in answers.
+
+Most candidates correctly identified the role of the BBB in neuronal homeostasis, and the protective function against pathogens and toxins. Better answers included a barrier function separating central neurotransmitters from the periphery and vice versa, including descriptions of enzyme systems.
+
+There was a wide variation in answers as to which ions were able to pass the blood brain barrier and which were not. Most candidates correctly identified the impermeability to proteins. The role of carbon dioxide in altering CSF pH, with ensuing stimulation of the respiratory centre was generally well understood when described. Many candidates discussed Fick’s law of diffusion. Very few candidates were able to correctly interpret how it applied to the selective permeability of the BBB.
+
+Many candidates also described the Monro-Kellie doctrine relating to intracranial pressure, which was not considered relevant to the actual question.
+
+Better answers also included situations of altered function of the BBB (neonate, meningitis, profound hypertension etc). When describing particular properties of the BBB, examples of drugs (in particular those commonly used in anaesthesia) relating to those properties was useful.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/B/4/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/B/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Blood-brain barrier](/content/neuro/bbb.qmd)
+- [Cerebrospinal fluid](/content/neuro/csf.qmd)

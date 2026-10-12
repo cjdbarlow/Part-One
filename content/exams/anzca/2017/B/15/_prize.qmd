@@ -1,0 +1,93 @@
+#### List:
+
+- PC
+- PK
+- PD
+- Variability
+
+#### Pharmaceutics:
+
++--------------+-------------------------------------------+
+| Class        | - Cyclohexanol derivative                 |
++--------------+-------------------------------------------+
+| Presentation | - Racemic mixture                         |
+|              | - Aqueous solution in clear glass ampoule |
+|              | - Tablet                                  |
++--------------+-------------------------------------------+
+| Storage      | - Room temperature                        |
+|              | - Long shelf life                         |
++--------------+-------------------------------------------+
+
+#### Pharmacokinetics:
+
++----------------+---------------------------------------------------------------------------------------------+
+| Administration | - 60mg tramadol equipotent to 10mg PO morphine, 3mg IV morphine                             |
+|                | - PO: 50-100mg q6h or 1mg/kg q6h in children                                                |
+|                | - IV: same                                                                                  |
+|                | - IM: same                                                                                  |
++----------------+---------------------------------------------------------------------------------------------+
+| Time course    | - PO peak: 2 hours                                                                          |
+|                | - PO duration: 6 hours                                                                      |
++----------------+---------------------------------------------------------------------------------------------+
+| Absorption     | - Oral bioav 80% (may increase with use)                                                    |
++----------------+---------------------------------------------------------------------------------------------+
+| Distribution   | - Plasma protein binding 20%                                                                |
++----------------+---------------------------------------------------------------------------------------------+
+| Metabolism     | - CYP2D6                                                                                    |
+|                | - O-demethylation                                                                           |
+|                | - Activate metabolite M1 (O-desmethyltramadol) has 4x analgesic efficacy, 200x MOP affinity |
+|                | - Parent and M1 undergo glucuronidation                                                     |
+|                | - t~1/2~~β~ 300 mins                                                                        |
++----------------+---------------------------------------------------------------------------------------------+
+| Excretion      | - Renal elimination of glucuronide metabolites                                              |
++----------------+---------------------------------------------------------------------------------------------+
+
+#### Pharmacodynamics:
+
++---------------------+----------------------------------------------------------------------------------------+
+| Stereoselectivity   | - +tramadol: mu opioid partial agonist (i.e. ceiling effect), SRI                      |
+|                     | - -tramadol: NRI                                                                       |
+|                     | - +M1: mu opioid agonist (4x tramadol), no SRI                                         |
+|                     | - -M1: NRI                                                                             |
+|                     | - Non-competitive NMDA antagonist                                                      |
++---------------------+----------------------------------------------------------------------------------------+
+| Opioid effects      | - Cellular: ↓cAMP, inhibit VDCC, ↑K^+^ efflux                                          |
+|                     | - Supraspinal: ↑descending modulation from peri-aqueductal grey matter etc.            |
+|                     | - Spinal: ↓pre-synaptic release of glutamate, substance P                              |
++---------------------+----------------------------------------------------------------------------------------+
+| Monoamine effects   | - NRI: ↑NAd descending modulation of pre-synaptic 1o afferent nociceptors; ↓ afferents |
+|                     | - SRI: ↑5-HT descending modulation of same; ↑ and ↓ pain afferents                     |
++---------------------+----------------------------------------------------------------------------------------+
+| NMDA effects        | - ↓Post-synaptic activation at the dorsal horn                                         |
+|                     |   - Short term: ↓excitability, ↓wind-up                                                |
+|                     |   - Long term: ↓synaptic reinforcement, ↓long term potentiation                        |
++---------------------+----------------------------------------------------------------------------------------+
+| Uses                | - Analgesia: somatic, visceral, neuropathic                                            |
+|                     | - ↓Shivering                                                                           |
++---------------------+----------------------------------------------------------------------------------------+
+| Reversal agent      | - Naloxone 30% effective                                                               |
++---------------------+----------------------------------------------------------------------------------------+
+| Opioid side effects | - PONV (5HT reuptake inhibition; may antagonize ondansetron)                           |
+|                     | - Less euphoria, dysphoria, hallucination, tolerance, dependence                       |
+|                     | - Less CVS and resp depression, GIT stasis                                             |
+|                     | - Less OIH                                                                             |
++---------------------+----------------------------------------------------------------------------------------+
+| Other side effects  | - ↓Seizure threshold                                                                   |
+|                     | - ↑QT~C~ → ↑risk TdP                                                                   |
++---------------------+----------------------------------------------------------------------------------------+
+| Drug interactions   | - Serotonin syndrome:                                                                  |
+|                     |   - Tramadol + MAOi (or SSRI)                                                          |
+|                     |   - ↑SNS, hyperreflexia, agitation, seizures                                           |
+|                     | - Hypertensive crisis                                                                  |
+|                     |   - Tramadol + indirect acting sympathomimetic e.g. ephedrine                          |
++---------------------+----------------------------------------------------------------------------------------+
+
+#### Variability: 2D6 polymorphism
+
++-----------------------------------+-----------------------------------------------------+
+| Intermediate and poor metaboliser | - Common in Hong Kong Chinese                       |
+|                                   | - ↓Analgesia, ↑5-HT effects                         |
++-----------------------------------+-----------------------------------------------------+
+| Ultra-rapid metaboliser           | - Common in North Africans and Arabs                |
+|                                   | - ↑Analgesia, ↑toxicity e.g. respiratory depression |
++-----------------------------------+-----------------------------------------------------+

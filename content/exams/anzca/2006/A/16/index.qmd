@@ -1,0 +1,90 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006A Question 16 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the physiological factors that contribute to the competence and tone of the lower oesophageal sphincter.
+:::
+
+Also asked in: [2002A Question 8](/content/exams/anzca/2002/A/8/index.qmd#examiner-comments), [2015B Question 12](/content/exams/anzca/2015/B/12/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} competence through barrier pressure, the intrinsic physiological sphincter and supporting anatomy. Explain neural, hormonal and physical influences on tone and the effect of gastric pressure.
+
+::: {.structure-headings}
+### Physiological Sphincter and Barrier Pressure
+
+### Smooth Muscle and Neural Control
+
+### Diaphragm and Gastro-Oesophageal Anatomy
+
+### Hormonal and Physical Factors
+
+### Changes in Gastric Pressure and Competence
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**58 %** of candidates passed this question.
+
+This question has been asked twice before in recent exam history.
+
+The main points sought were:
+
+- The anatomical features that maintain the lower oesophageal sphincter, including the coordination of the diaphragmatic crura and the “pinch-cock” effect with contraction of the diaphragm with breathing and coughing. The importance of the lower portion the oesophagus being intraabdominal. The oblique passage into the stomach allowing the increase in gastric tone to further enhance closing and push the mucosal folds into the lower oesophagus contributing the mucosal flap valve.
+- An understanding of the concept of “barrier pressure” to reflux of abdominal contents and normal values for pressures involved.
+- The neural innervation of both the internal and external portions of the sphincter, i.e. vagal and phrenic respectively and the part the autonomic nervous system played in maintaining lower oesophageal tone.
+- The hormones that alter the tone of the sphincter, including gastrin, secretin, CCK, VIP, motilin, progesterone, oestrogen, PGE2.
+- Alteration of tone due to physical factors such as raised intraabdominal pressure, swallowing, and gastric content acidity.
+
+Marks were given for all of the above as facts and additional marks were given for demonstrating the mechanism of action of the anatomical features and how changes in physiology (e.g. with pregnancy, diabetes, vagotomy) or anatomy, (e.g. obesity, pregnancy, hiatus hernia) alter the barrier pressure.
+
+Many candidates did not cover the breadth of this question focusing either on the anatomical features or the hormonal control and therefore while obtaining a pass not achieving high marks. Unfortunately, as has occurred with this question in the past, some candidates wasted time writing about pharmacology that was not asked for in a physiology paper.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2002/A/8/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2002/A/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Oesophagus](/content/git/oesophagus.qmd)

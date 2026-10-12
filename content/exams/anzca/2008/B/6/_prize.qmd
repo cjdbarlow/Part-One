@@ -1,0 +1,118 @@
+#### List:
+
+- Colloid
+- Ideal colloid
+- Albumin
+- Gelofusin
+- Starches
+- Dextrans
+
+#### Colloid solution:
+
+- Contains large particles (\>30kDa) dispersed through solution, not dissolved
+- Doesn’t pass through semi-permeable membranes
+- Used for plasma volume expansion especially following haemorrhage
+
+#### Ideal colloid:
+
++----+-------------------------------------------------+
+| PC | - Synthetic                                     |
+|    | - Cheap                                         |
+|    | - Can be stored in PVC                          |
+|    | - Long shelf life                               |
+|    | - Isotonic                                      |
+|    | - Iso-oncotic                                   |
+|    | - Low viscosity                                 |
+|    | - Causes no change in pH                        |
+|    | - No infection risk                             |
+|    | - No damage if extravasated                     |
++----+-------------------------------------------------+
+| PK | - Distributes almost entirely in plasma, low VD |
+|    | - Long plasma expansion time e.g. hours         |
+|    | - Metabolised readily but slowly                |
+|    | - Organ-independent metabolism                  |
+|    | - No toxic metabolites                          |
+|    | - Metabolites can be recycled                   |
+|    | - No products requiring renal elimination       |
++----+-------------------------------------------------+
+| PD | - No renal failure                              |
+|    | - No coagulopathy                               |
+|    | - No interference with blood grouping           |
+|    | - Improves microcirculatory flow                |
+|    | - No anaphylaxis                                |
+|    | - No acid-base disturbance                      |
+|    | - No immune dysfunction                         |
++----+-------------------------------------------------+
+
+#### Albumin: e.g .4%
+
++----+-----------------------------------------------------------+
+| PC | - Blood product                                           |
+|    | - MW 66,000 Da                                            |
+|    | - Produced by donation → fractionation → pasteurization   |
+|    | - Alb 40g/L, Na^+^ 140mM, Cl^-^ 128mM, octanoate 6.4mM    |
+|    | - Osmolality 260mOsm/L, oncotic pressure 20-30mmHg        |
+|    | - pH 7                                                    |
++----+-----------------------------------------------------------+
+| PK | - 70-100% infused vol into plasma                         |
+|    | - Duration of expansion 12-24 hours                       |
+|    | - Metabolised and recycled by liver                       |
+|    | - t1/2~β~ 20 days in body                                 |
++----+-----------------------------------------------------------+
+| PD | - Uses: hypoalbuminaemia, hypovolaemia                    |
+|    | - Unclear benefit over crystalloids in many circumstances |
+|    | - Worse outcome in traumatic brain injury                 |
+|    | - Theoretical risk of infection                           |
+|    | - Risk of anaphylaxis                                     |
++----+-----------------------------------------------------------+
+
+#### Gelofusin:
+
++----+----------------------------------------------------------------+
+| PC | - Succinylated bovine gelatin                                  |
+|    | - Gelatin 40g/L 9mmol/L, Na^+^ 154mM, Cl^-^ 120mM              |
+|    | - MW 35,000 Da                                                 |
+|    | - Osmolality 283mOsmol/L i.e. isotonic                         |
+|    | - Cheap                                                        |
+|    | - Long shelf life                                              |
+|    | - Cattle bone → hydrolysis, thermal degradation, cross-linking |
++----+----------------------------------------------------------------+
+| PK | - 70-100% infused vol into plasma                              |
+|    | - Duration 8-12 hours                                          |
+|    | - 20% metabolized by peptidases                                |
+|    | - 80% excreted in urine                                        |
++----+----------------------------------------------------------------+
+| PD | - Anaphylaxis risk                                             |
++----+----------------------------------------------------------------+
+
+#### Starches:
+
++----+------------------------------------------------------------------------------------------------------+
+| PC | - Branched glucose polymer                                                                           |
+|    | - Hydroxyl-substituted amylopectin                                                                   |
++----+------------------------------------------------------------------------------------------------------+
+| PK | - 100% infused vol into plasma                                                                       |
+|    | - Duration 12-36 hours (longest)                                                                     |
+|    | - Metabolism: amylase!                                                                               |
+|    | - Elimination: urine (small particles), bile and faeces (medium), reticuloendothelial system (large) |
++----+------------------------------------------------------------------------------------------------------+
+| PD | - Increases risk of renal failure and mortality in unwell patients                                   |
+|    | - Rarely used at present                                                                             |
++----+------------------------------------------------------------------------------------------------------+
+
+#### Dextrans:
+
++----+--------------------------------------+
+| PC | - Branched polysaccharides           |
+|    | - High molecular weight              |
+|    | - Preduced by recombinant technology |
++----+--------------------------------------+
+| PK | - 100% infused vol into plasma       |
+|    | - Duration 6-8 hours                 |
+|    | - Renal elimination                  |
++----+--------------------------------------+
+| PD | - Improves microcirculatory flow     |
+|    | - Can cause coagulopathy             |
+|    | - Impairs blood grouping             |
+|    | - Most likely to cause anaphylaxis   |
++----+--------------------------------------+

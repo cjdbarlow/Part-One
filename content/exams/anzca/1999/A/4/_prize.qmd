@@ -1,0 +1,53 @@
+#### List:
+
+- Renal handling
+- Consequences of glycosuria
+
+#### Renal handling:
+
++--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Filtration   | - Polar but small molecule 180g/mol                                                                                                                                                             |
+|              | - Freely filtered                                                                                                                                                                               |
+|              | - Normal plasma concentration 4mM, hence 900mM/day                                                                                                                                              |
++--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Reabsorption | - Near 100%                                                                                                                                                                                     |
+|              | - From urine into cell:                                                                                                                                                                         |
+|              |   - Via sodium-glucose cotransporter-1 (SGLT1) in proximal straight tubule                                                                                                                      |
+|              |   - Via SGLT2 in proximal convoluted tubule                                                                                                                                                     |
+|              |   - Gradient established by basolateral Na^+^K^+^ATPase                                                                                                                                         |
+|              |   - i.e. secondary active transport                                                                                                                                                             |
+|              | - From cell into interstitium:                                                                                                                                                                  |
+|              |   - Via GLUT-2 (i.e. facilitated diffusion)                                                                                                                                                     |
+|              | - Water follows by osmosis                                                                                                                                                                      |
++--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Graph        | ![](/content/exams/anzca/1999/A/4/prize-image001.jpg){fig-alt="Renal glucose filtration, reabsorption and excretion against plasma glucose concentration, showing transport maximum and splay"} |
+|              |                                                                                                                                                                                                 |
+|              | - Transport maximum (T~M~):                                                                                                                                                                     |
+|              |   - Due to limited number and capacity of SGLT2                                                                                                                                                 |
+|              | - Splay: due to differential reabsorptive capacity of nephrons                                                                                                                                  |
+|              |   - Predicted threshold: 375/125/180 = 0.0167M = 16.7mM                                                                                                                                         |
+|              |   - Actual threshold: 10mM                                                                                                                                                                      |
+|              | - Effect of SGLT-2 inhibitor: (my thoughts only!)                                                                                                                                               |
+|              |   - Downward shift of T~M~                                                                                                                                                                      |
+|              |   - Hence leftward shift of excretion curve                                                                                                                                                     |
++--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Consequences of glycosuria:
+
++------------------------+---------------------------------------------------------------------------------------------------+
+| Renal                  | - ↑Tubular and urinary \[glucose\]                                                                |
+|                        | - Osmotic diuresis                                                                                |
+|                        | - Washout of hypertonic medullary interstitium                                                    |
+|                        | - ↑Na^+^/K^+^ antiport in distal nephron                                                          |
+|                        | - ↑Risk UTI                                                                                       |
++------------------------+---------------------------------------------------------------------------------------------------+
+| Systemic               | - Dehydration, ↑osmolality                                                                        |
+|                        | - ↓blood volume, ↓mAP, ↓organ perfusion, ↓pH, organ dysfunction                                   |
+|                        | - Loss of nutrient and energy                                                                     |
+|                        | - Loss of Na^+^: due to medullary washout                                                         |
+|                        | - Loss of K^+^: due to medullary washout and ↑Na^+^/K^+^ antiport in distal nephron (aldosterone) |
++------------------------+---------------------------------------------------------------------------------------------------+
+| Compensatory responses | - To hyperosmolality: ↑ADH                                                                        |
+|                        | - To hypovolaemia: ↑ADH, ↓ANP                                                                     |
+|                        | - To hypotension: ↑SNS, ↑RAAS, ↑ADH                                                               |
++------------------------+---------------------------------------------------------------------------------------------------+

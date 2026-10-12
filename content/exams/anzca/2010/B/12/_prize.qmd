@@ -1,0 +1,130 @@
+#### List:
+
+- Intro
+- Inspiration
+- Expiration
+- Non-ventilatory function
+- (Airway smooth muscle)
+
+#### Intro:
+
++-------------------------+-------------------------------------------------------------------------------------------+
+| Respiratory musculature | - All muscle relevant to ventilation is skeletal and striated except airway smooth muscle |
+|                         | - Primary ventilatory muscles mostly Type 1 = oxidative, fatigue-resistant                |
+|                         |   - Diaphragm 55% in adult, 20% neonate                                                   |
+|                         |   - Intercostals 65% adult, 45% neonate                                                   |
++-------------------------+-------------------------------------------------------------------------------------------+
+| Control of breathing    | - Activity co-ordinated in medullary resp centre                                          |
+|                         |   - Dorsal inspiratory group                                                              |
+|                         |   - Ventral expiratory group                                                              |
+|                         |   - Pre-Botzinger pacemaker cells                                                         |
+|                         | - Normally involuntary. Can be controlled voluntarily by cortex.                          |
++-------------------------+-------------------------------------------------------------------------------------------+
+
+#### Inspiration:
+
++--------------------------+--------------------------------------------------------------------------------+
+| Aims                     | - Overall: ↓intrapleural pressure → ↑transpulmonary pressure                   |
+|                          |   - ↑ AP diameter of chest (↑APD)                                              |
+|                          |   - ↑ transverse diameter of chest (↑TD)                                       |
+|                          |   - ↑ chest wall elevation (↑CWE)                                              |
+|                          |   - Maintain airway patency (↑AP)                                              |
++--------------------------+--------------------------------------------------------------------------------+
+| Diaphragm’s contribution | - Upright adult: 50%                                                           |
+|                          | - Supine adult: 66%                                                            |
+|                          | - Neonate: ↑ (cartilaginous ribs = ineffective intercostals                    |
+|                          | - Pregnant: ↑ (upward displacement = increased excursion)                      |
++--------------------------+--------------------------------------------------------------------------------+
+| Primary muscles          | - Diaphragm:                                                                   |
+|                          |   - Dome shaped muscle between thorax and abdomen                              |
+|                          |   - Attachments: L and R crura to vertebral bodies, lower 6 ribs, xiphisternum |
+|                          |   - Central tendon fused to fibrous pericardium                                |
+|                          |   - Innervated by phrenic nerve C3-4-5                                         |
+|                          |   - Descends 1-2cm in quiet inspiration                                        |
+|                          |   - Descends 10cm in max inspiration                                           |
+|                          +--------------------------------------------------------------------------------+
+|                          | - External intercostals:                                                       |
+|                          |   - ↑APD, ↑TD by “bucket handle” activity                                      |
+|                          |   - From rib above space to rib below                                          |
+|                          |   - Fibres in front pocket direction                                           |
+|                          +--------------------------------------------------------------------------------+
+|                          | - Scalenes:                                                                    |
+|                          |   - ↑CWE, counteract inward movement of upper ribs by diaphragm                |
+|                          |   - From cervical transverse processes to upper ribs                           |
+|                          +--------------------------------------------------------------------------------+
+|                          | - Pharyngeal and laryngeal dilator muscles:                                    |
+|                          |   - Maintain airway patency                                                    |
+|                          |   - Contraction timed with inspiration                                         |
+|                          |   - CNIX (larynx) and X (larynx and pharynx)                                   |
+|                          +--------------------------------------------------------------------------------+
+|                          | - Dilators alae nasae:                                                         |
+|                          |   - Maintain airway patency                                                    |
+|                          |   - Contraction timed with inspiration                                         |
+|                          |   - Important in neonates (obligate nose breathes, high total resistance)      |
++--------------------------+--------------------------------------------------------------------------------+
+| Accessory muscles        | - Sternocleidomastoid:                                                         |
+|                          |   - ↑CWE                                                                       |
+|                          +--------------------------------------------------------------------------------+
+|                          | - Levator scapulae:                                                            |
+|                          |   - ↑CWE                                                                       |
+|                          |   - Also: scapular elevation                                                   |
+|                          +--------------------------------------------------------------------------------+
+|                          | - Trapezius:                                                                   |
+|                          |   - ↑CWE, scapular elevation                                                   |
+|                          |   - Also: neck lateral flexion                                                 |
+|                          +--------------------------------------------------------------------------------+
+|                          | - Pectoralis major (when upper limb fixed):                                    |
+|                          |   - ↑CWE, ↑APD                                                                 |
+|                          |   - Also: shoulder flexion and adduction                                       |
+|                          +--------------------------------------------------------------------------------+
+|                          | - Costal slips of latissimus dorsi (when upper limb fixed):                    |
+|                          |   - ↑CWE                                                                       |
+|                          |   - Also: shoulder extension and adduction                                     |
+|                          +--------------------------------------------------------------------------------+
+|                          | - Serratus posterior superior                                                  |
+|                          |   - ↑CWE                                                                       |
++--------------------------+--------------------------------------------------------------------------------+
+
+#### Expiration:
+
++---------+---------------------------------------------------------------------+
+| Aims    | - Overall: ↑ intra-pleural pressure hence ↓ transpulmonary pressure |
+|         | - Opposite to inspiration                                           |
++---------+---------------------------------------------------------------------+
+| Passive | - Relaxation of inspiratory muscles                                 |
+|         | - Elastic recoil due to surface tension and elastic lung tissue     |
+|         | - Energy stored during inspiration                                  |
++---------+---------------------------------------------------------------------+
+| Active  | - Internal intercostals                                             |
+|         |   - ↓ APD, ↓ TD by reverse Bucket handle activity                   |
+|         |   - From rib below to rib above                                     |
+|         |   - Back pocket direction                                           |
+|         +---------------------------------------------------------------------+
+|         | - Abdominals                                                        |
+|         |   - ↓ APD, ↓ TD, ↓CWE                                               |
+|         |   - Rectus, transversus, internal and external obliques             |
+|         |   - Pull down chest wall                                            |
+|         |   - ↑intra-abdo pressure, push up diaphragm                         |
+|         +---------------------------------------------------------------------+
+|         | - Latissimus dorsi                                                  |
+|         |   - ↓ APD, ↓ TD, ↓ CWE                                              |
+|         +---------------------------------------------------------------------+
+|         | - Serratus posterior inferior                                       |
+|         |   - ↓CWE                                                            |
+|         +---------------------------------------------------------------------+
+|         | Quadratus lumborum                                                  |
+|         |                                                                     |
+|         | - ↓CWE                                                              |
++---------+---------------------------------------------------------------------+
+
+#### Non-ventilatory functions:
+
++------------------------------------+------------------------------------------------------------------------------------------+
+| Coughing                           | - Inspiration, glottic closure, expiratory muscle contraction, glottic opening           |
++------------------------------------+------------------------------------------------------------------------------------------+
+| Phonation                          | - Expiration with partial glottic closure                                                |
++------------------------------------+------------------------------------------------------------------------------------------+
+| Increased intra-abdominal pressure | - Expiratory muscle contraction with closed glottis                                      |
+|                                    |   - Splint vertebral column during exertion                                              |
+|                                    |   - Abdominal or pelvic evacuation (e.g. vomiting, micturition, defecation, parturition) |
++------------------------------------+------------------------------------------------------------------------------------------+

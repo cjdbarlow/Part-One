@@ -1,0 +1,100 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010B Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the principles of how a computer-controlled infusion device targets and maintains a constant effect site concentration of propofol.
+:::
+
+Also asked in: [2016B Question 14](/content/exams/anzca/2016/B/14/index.qmd#examiner-comments), [2019A Question 11](/content/exams/anzca/2019/A/11/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} how the device translates a chosen target into loading and changing infusion rates. Connect compartment models, effect-site equilibration and patient inputs to target attainment, maintenance and model limitations.
+
+::: {.structure-headings}
+### Device, Inputs and Target
+
+### Compartment Model and Rate Constants
+
+### Effect-Site Equilibration
+
+### Loading and Maintenance Algorithms
+
+### Model Assumptions and Limitations
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**73%** of candidates passed this question.
+
+Principles relevant to this question included: -
+
+Propofol’s pharmacokinetic parameters making it suitable for this technique are rapid equilibration between the central compartment (i.e. the vessel rich group) and the effect site. Especially after the initial bolus producing only a short lag time.
+
+A 3 compartment model is described and it is as well to consider the added effect site compartment albeit small. Volumes of distribution of all those compartments have been mathematically derived plus the constants describing the kinetics of transfer using relevant studies on healthy volunteers.
+
+This diagram explains the concept : - (Miller Chapter 12)
+
+![](/content/exams/anzca/2010/B/6/report-diagram-1.jpg){fig-alt="Propofol compartment model in the examiner report"}
+
+That time to equilibrate with the central compartment correlates with the Keo (high for propofol indicating a short time to peak effect).
+
+Clinical effects by the agent at the effect site compartment were equated with a measurable effect on the volunteers eg by using a BIS or EEG. This is a closed loop system but most cases are done on the basis of a set plasma concentration desired for a given procedure. Candidates did describe the different models available (Schneider, Marsh, and Bristol)
+
+The driver computer software incorporates derived algorithms, with information using entered patient parameters such as weight, age, sex, height of the patient. The driver calculates and delivers a loading dose, followed by a pause, then a maintenance dose and fluctuation in dosage delivery as the compartments become saturated followed by transfer of the excess into the central compartment. Ultimately the agent is made water soluble, metabolised and renally excreted. A target effect site concentration around 3 – 4 mcgm/ml, is also programmed into the machine.
+
+The machine alters the infusion rate based on its own mathematical calculations taking into consideration the redistribution amongst compartments and the central compartment, and the metabolism, clearance, and elimination which is pre-programmed into the computer algorithm. The anaesthetist may alter rates for effect or need to alter due to change of plasma concentration requirement. The graph explains the concept: -
+
+![](/content/exams/anzca/2010/B/6/report-diagram-2.jpg){fig-alt="Propofol target-controlled infusion concentration and infusion-rate graph in the examiner report"}
+
+(Miller Chapter 12)
+
+Describing the terms of the context sensitive half time and/or the clinically relevant context decrement time helped to indicate an understanding of the kinetics and dynamics at the end of the infusion.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2010/B/6/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2010/B/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Target controlled infusion](/content/pharmacology/tci.qmd)

@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001B Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the effects of intermittent positive pressure ventilation on left ventricular output.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} **Inspiration** and **Expiration** separately. Trace the effects through intrathoracic pressure, venous return, right ventricular output and pulmonary blood volume to left ventricular preload and output, then consider afterload and ventricular interdependence.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**55%** of candidates passed this question The main points expected for a pass were outlined in previous Examiners' reports, August 1996 and March 1998. In brief they are:-
+
+On inspiration;
+
+1. An initial increase in left ventricular stroke volume as the increased intra-thoracic pressure squeezes blood into the left atrium, increasing LV preload.
+2. Then a decrease in left ventricular stroke volume as the venous return to the right ventricle decreases and the afterload of the right ventricle increases.
+
+On expiration;
+
+1. The decrease in intrathoracic pressure and increase in pulmonary vascular compliance initially allows blood from the right to collect in the lungs before it crosses to improve the left ventricular stroke volume
+2. The venous return to the right ventricle improves as the intrathoracic pressure decreases.
+
+Additional marks were given for comments on the left ventricular afterload, compliance and ventricular interdependence, and also for the exaggerated drop in blood pressure seen with hypovolaemia and PEEP.
+
+Common mistakes were
+
+1. Failure to organise the information.
+2. Ignoring expiration.
+3. Writing too much on normal ventilation or reasons for positive pressure ventilation.
+4. Writing too much on the long-term responses (hormonal) to positive pressure ventilation and the baroreceptor reflexes.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Venous Return](/content/cvs/venous_return.qmd)
+- [Positive Pressure Ventilation](/content/resp/peep.qmd)

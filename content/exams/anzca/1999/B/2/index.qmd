@@ -1,0 +1,74 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999B Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**What physiological factors**]{.task-verb} contribute to the competence and tone of the lower oesophageal sphincter?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+Show [**what physiological factors contribute**]{.task-verb} to competence and tone under **Anatomical Factors**, **Barrier Pressure**, **Hormonal Influences**, and **Physical Factors**. Relate each factor to competence or tone of the lower oesophageal sphincter, including physiological pressures when discussing barrier pressure.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**42%** of candidates passed this question. The standard of answer for this question was relatively poor considering it's importance to anaesthesia. The main points sought were that the area is anatomically indistinguishable from other portions of the oesophagus, although containing an increased number of nerve cells. It is however able to maintain a higher pressure.
+
+A discussion of the anatomical factors contributing to the competency was expected. These include:
+
+- A functional flap valve of gastric mucosa
+- Oblique entry into the stomach
+- Effect of diaphragm
+- Lower oesophagus exposed to intra abdominal pressure
+- Increased tone of circular muscle in sphincter
+
+A description of the concept of barrier pressure, with the inclusion of physiological pressures encountered was expected. Describing other factors including the hormones that may alter tone of the sphincter e.g. Gastrin, motilin, PGE2, oestrogen, progesterone, glucagon, secretin, cholecystokinin & VIP, gained additional marks. Physical factors such as elevated intra abdominal pressure and reduced gastric pH, should have been mentioned.
+
+Many candidates gave excellent papers on the anatomical contributing factors and failed to mention the hormonal or physical factors. The reverse was also the case. Although scoring well on the aspect that they discussed, they often only managed a borderline pass. Some candidates discussed pharmacological manipulation of the sphincter. This was not asked in the question and although done very well in many instances, was not rewarded with additional marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Oesophagus and lower oesophageal sphincter](/content/git/oesophagus.qmd)

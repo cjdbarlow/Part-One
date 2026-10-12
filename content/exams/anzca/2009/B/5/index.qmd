@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009B Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the factors that may decrease the clinical response to nondepolarising neuromuscular blocking agents.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} reduced clinical response in terms of onset, depth and duration. Classify physiological, pathological, drug and interaction factors, and explain each with a specific example.
+
+::: {.structure-headings}
+### Clinical Responses and Monitoring
+
+### Physiological Factors
+
+### Pathological Kinetic and Dynamic Factors
+
+### Drug Dose and Potency
+
+### Drug Interactions and Anaesthetic Technique
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**36%** of candidates passed this question.
+
+Candidates were expected to briefly mention the important measurable clinical responses (eg. onset, depth and duration of neuromuscular blockade), and briefly mention how these might be measured. Candidates who classified factors into such groups as physiological, pathological, drug factors and drug interactions, with multiple examples usually scored well. Extra marks were awarded for noting that the clinical response depends on which muscle group is monitored, and that the clinical response is less intense and briefer in patients anaesthetised without volatile or sedated in critical care.
+
+Some candidates mistakenly listed factors that contribute to prolongation of neuromuscular blockade (such as atypical plasmacholinesterase, aminoglycosides). Marks were not awarded for arguing that absence of these factors leads to a (relative) decrease in clinical response. Nonspecific pharmacokinetic statements (―clinical response is determined by differences in absorption, volume of distribution, protein binding and clearance‖) without clinical examples and explanation were not awarded high marks. There was general confusion about the effect of various muscle disorders on neuromuscular blockade.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2009/B/5/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neuromuscular blockers](/content/msk/neuromuscular_blockers.qmd)
+- [Neuromuscular monitoring](/content/equipment/neuromuscular_monitoring.qmd)

@@ -1,0 +1,96 @@
+#### List:
+
+- Intro
+- Preload
+- Rate
+- Contractility
+- SVR
+
+#### Intro:
+
++------------+--------------------------------------------------------------------+
+| Definition | \<70mmHg or \>20% below baseline                                   |
++------------+--------------------------------------------------------------------+
+| Equation   | mAP = (CO x SVR) + CVP                                             |
++------------+--------------------------------------------------------------------+
+| Cause      | - ↓Preload                                                         |
+|            | - ↓Heart rate (or severe tachyarrhythmia impairing LV filling)     |
+|            | - ↓Contractility                                                   |
+|            | - ↓ SVR (note may ↑CO hence partial offset)                        |
++------------+--------------------------------------------------------------------+
+| Problem    | - ↓mAP → ↓perfusion pressure → ↓blood flow → ↓O~2~ supply          |
+|            |                                                                    |
+|            | Especially if:                                                     |
+|            |                                                                    |
+|            | - Organ tolerates ischaemia poorly (e.g. brain)                    |
+|            | - Organ unable to autoregulate (e.g. placenta “pressure-passive”)  |
+|            | - mAP below autoregulatory ranges (e.g. mAP 70-170mmHg for kidney) |
++------------+--------------------------------------------------------------------+
+
+#### ↓ Preload:
+
++--------------------------------+-------------------------------------------------------+
+| Residual general anaesthetic   | - Venodilatation (Ca^2+^ channel block, ↓SNS outflow) |
+|                                | - Immobility → ↓skeletal muscle pump                  |
+| e.g. propofol, sevoflurane     | - ↓minute ventilation or apnoea → ↓diaphragm pump     |
++--------------------------------+-------------------------------------------------------+
+| Residual neuraxial anaesthetic | - Venodilation (↓thoracolumbar SNS output)            |
+|                                | - Immobility → ↓skeletal muscle pump                  |
+| e.g. bupivacaine               |                                                       |
++--------------------------------+-------------------------------------------------------+
+| Hypovolaemia                   | - Dehydration: fasting, evaporation, diuretics        |
+|                                | - Blood loss                                          |
+|                                | - Third spacing: sepsis, anaphylaxis                  |
++--------------------------------+-------------------------------------------------------+
+| Obstruction to LV filling      | - Big PE                                              |
+|                                | - Tension pneumothorax                                |
+|                                | - Tamponade                                           |
++--------------------------------+-------------------------------------------------------+
+
+#### ↓ Heart rate:
+
++-------------+----------------------------------------------+
+| Residual GA | - ↓medullary SNS output → ↓β~1~              |
++-------------+----------------------------------------------+
+| Residual NA | - If affecting cardiac SNS T1-4 → ↓ β~1~     |
++-------------+----------------------------------------------+
+| Drug        | - β~1~ blocker                               |
+|             | - Ca^2+^ channel blocker                     |
+|             | - AChE reversal i.e. neostigmine             |
++-------------+----------------------------------------------+
+| Pathology   | - Arrhythmia                                 |
+|             | - Ischaemia/infarction of SA node or AV node |
++-------------+----------------------------------------------+
+
+#### ↓ Contractility:
+
++-------------+---------------------------------+
+| Residual GA | - ↓medullary SNS output → ↓β~1~ |
+|             | - ↓L-Ca^2+^ activity            |
++-------------+---------------------------------+
+| Residual NA | - If affecting levels T1-4      |
++-------------+---------------------------------+
+| Drugs       | - β-blocker                     |
++-------------+---------------------------------+
+| Pathology   | - Ischaemia, infarction         |
+|             | - Septic cardiomyopathy         |
++-------------+---------------------------------+
+
+#### ↓ SVR:
+
++-------------+--------------------------------------------+
+| Residual GA | - ↓Medullary SNS output                    |
+|             | - ↓L-Ca^2+^ activity                       |
+|             | - ↑Nitric oxide release                    |
++-------------+--------------------------------------------+
+| Residual NA | - ↓Thoracolumbar SNS output                |
++-------------+--------------------------------------------+
+| Drugs       | - ACE inhibitor or ARB commonly implicated |
+|             | - Others: α~1~ antagonist, nitrates etc    |
++-------------+--------------------------------------------+
+| Pathology   | - Sepsis                                   |
+|             | - Anaphylaxis                              |
+|             | - Post-cardiopulmonary bypass vasoplegia   |
+|             | - SIRS, ARDS, pancreatitis                 |
+|             | - Neurogenic: i.e. spinal cord injury      |
++-------------+--------------------------------------------+

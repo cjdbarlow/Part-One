@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011B Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the similarities and differences between myoglobin and adult haemoglobin, [**explaining**]{.task-verb} the physiological relevance of the differences.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} similarities and differences in parallel columns, [**explaining**]{.task-verb} their physiological relevance alongside each feature. Use labelled dissociation curves to relate structure, affinity and binding behaviour to their different environments and functions.
+
+::: {.structure-table}
+| Feature | Myoglobin | Adult Haemoglobin | Physiological Relevance |
+|---|---|---|---|
+| Location and Structure | | | |
+| Oxygen Binding and Function | | | |
+| Affinity, P50 and Dissociation Curves | | | |
+| Cooperativity and Physiological Modifiers | | | |
+| Buffering and Nephrotoxicity | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**24.2%** of candidates passed this question.
+
+Some candidates used a tabular format, others an essay format to answer this question. Both were equally effective strategies.
+
+A brief description of the structure and location of these proteins, their respective dissociation curves and P50’s with a simple overview of the function of each of these proteins would round out a good answer. An answer offering more detail about the environments these proteins function in was awarded with further marks. Additional credit was given for answers that explored the buffering and nephrotoxicity of these proteins.
+
+The most common reason for not passing this question was simply because not enough relevant content was included. Many candidates spent a lot of time describing in detail the process of buffering and the process of oxygen binding. This detail was not asked for and only received a few marks. The P50 given for myoglobin was frequently incorrect and many answers indicated that myoglobin WAS NOT a haeme containing protein. There was also a misconception in the minds of many that both haemoglobin and myoglobin bound four oxygen molecules. No answer mentioned that myoglobin is located in cardiac muscle in addition to skeletal muscle.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2011/B/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Erythrocytes](/content/haeme/erythrocytes.qmd)
+- [Oxygen cascade](/content/resp/oxygen_cascade.qmd)

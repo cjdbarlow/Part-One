@@ -1,0 +1,56 @@
+Arterial blood pressure may be monitored invasively using an arterial cannula connected through hydraulic coupling to a pressure transducer.
+
+Arterial pressure oscillations transmitted → arterial line-tube-fluid column setup → pressure transducer → converted to an electric signal
+
+Accuracy of pressure transduction through the equipment/apparatus are influenced by resonance and dampening. 
+
+**Natural Frequency**
+
+Natural frequency is the frequency a system tends to oscillate around in the absence of any driving or dampening force.
+
+**Resonance**
+
+Resonance is the phenomenon  for system to oscillate at increased  amplitude in the presence of a system or force of similar frequency - resonant frequency. 
+
+If the natural frequency of an arterial line system matches the natural frequency of the arterial oscillation (pulsation) → resonance → amplification of oscillations → waveform reading inaccuracy.
+
+If a pulse range required to be measure if from 30-180bpm → 0.5-3Hz. The arterial line natural frequency must be approx. 8x higher \~24Hz to avoid resonance occurring. 
+
+Usually, the natural frequency of the arterial line setup is designed to be ≈ 200 Hz but a number of factors may reduce this:
+
+- ↑ Tubing Diameter / ↓ Tube Length →↑Natural Frequency
+- Air in the line →↓natural frequency 
+- ↓Compliance →↑Natural Frequency
+
+Consequences of ↑resonance in the measuring system: 
+
+1. falsely elevated systolic arterial pressure
+2. falsely reduced diastolic arterial pressure
+3. mean arterial pressure relatively unaffected
+
+**Damping**
+
+Damping is the tendency of a system to resist oscillations via dissipation of energy.
+
+- Overdamped system will rapidly stop oscillations 
+- Underdamped system will very slowly stop oscillations 
+- Undamped system will continue to oscillate indefinitely
+
+Factors that ↑damping: 
+
+1.  kinked tubing
+
+2.  ↑compliance of tubing
+
+3.  ↑length of tubing
+
+4.  blood clot in tubing
+
+5.  air bubble in tubing
+
+Consequences of overdamping:
+
+1. underestimate SBP
+2. overestimate DBP
+3. MAP relatively unaffected
+4. loss of details of arterial pressure oscillation e.g. lost dicrotic notch

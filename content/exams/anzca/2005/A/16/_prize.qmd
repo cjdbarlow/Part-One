@@ -1,0 +1,77 @@
+#### List:
+
+- Cardiac output
+- Ultrasound and doppler principles
+- TTE doppler technique
+- Oesophageal doppler technique
+
+#### Cardiac output (CO):
+
++--------------+------------------------------------------+
+| Definition   | - Volume of blood ejected by LV per time |
+|              | - = HR x SV                              |
++--------------+------------------------------------------+
+| Normal value | - 70mL/kg/min                            |
+|              | - 5L/min in adult                        |
++--------------+------------------------------------------+
+
+#### Ultrasound principles:
+
++----------------------+-------------------------------------------------------------------------------------+
+| Definition           | - Wave of compression and rarefaction through a medium \>20kHz (probes 2-15MHz)     |
++----------------------+-------------------------------------------------------------------------------------+
+| Probe                | - Curvilinear array of piezoelectric crystals                                       |
++----------------------+-------------------------------------------------------------------------------------+
+| Piezoelectric effect | - Emission: alternating current (AC) → crystal oscillation → US pressure wave       |
+|                      | - Detection: reflected US pressure wave → oscillation → AC transduction             |
++----------------------+-------------------------------------------------------------------------------------+
+| Doppler effect       | - Frequency at detector ↑/↓ if relative motion of source towards/away from detector |
+|                      | - Allows calculation of velocity                                                    |
++----------------------+-------------------------------------------------------------------------------------+
+| Doppler equation     | V = (∆F x C) /2F~0~cosθ                                                             |
+|                      |                                                                                     |
+|                      | - ∆F: change in frequency from emission to detection                                |
+|                      | - C: speed of sound                                                                 |
+|                      | - 2x: due to round trip of ultrasound wave                                          |
+|                      | - F~0~: emitted frequency                                                           |
+|                      | - cosθ: correct for incident angle                                                  |
++----------------------+-------------------------------------------------------------------------------------+
+
+#### TTE doppler technique:
+
++----------------------------------------+-----------------------------------------+
+| LVOT surface area (LVOT-SA)            | - Parasternal long axis view            |
+|                                        | - B-mode (image)                        |
+|                                        | - Area = π x (diameter/2)^2^            |
++----------------------------------------+-----------------------------------------+
+| LVOT velocity-time integral (LVOT-VTI) | - Apical 5 chamber view                 |
+|                                        | - Pulse-wave doppler                    |
+|                                        | - Align beam with LVOT centre           |
+|                                        | - Obtain VTI = stroke distance          |
++----------------------------------------+-----------------------------------------+
+| Cardiac output calculation             | - Heart rate x LVOT-SA x LVOT-VTI       |
++----------------------------------------+-----------------------------------------+
+| Pros                                   | - Non-invasive                          |
+|                                        | - Provides other info r.e. heart        |
++----------------------------------------+-----------------------------------------+
+| Cons                                   | - Training ++                           |
+|                                        | - Operator error prone                  |
+|                                        | - Windows impaired if obese, COPD, IPPV |
++----------------------------------------+-----------------------------------------+
+
+#### Oesophageal doppler technique:
+
++-------------+--------------------------------------------------------------------------------------+
+| Measurement | - Similar to TTE                                                                     |
+|             | - Probe in oesophagus, facing descending aorta                                       |
+|             | - Upper body correction factor: estimated by demographics (age, sex, height, weight) |
+|             | - VTI: ultrasound probe                                                              |
+|             | - Aortic surface area: second ultrasound probe, or estimated by demographics         |
++-------------+--------------------------------------------------------------------------------------+
+| Pros        | - Relatively non-invasive                                                            |
+|             | - Can be continuous                                                                  |
+|             | - Minimal training required                                                          |
++-------------+--------------------------------------------------------------------------------------+
+| Cons        | - Potentially false assumptions of correction factor                                 |
+|             | - Operator error prone (e.g. not square with aorta)                                  |
++-------------+--------------------------------------------------------------------------------------+

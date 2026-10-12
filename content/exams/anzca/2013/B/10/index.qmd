@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013B Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the classes of drugs that may be used to manage an intra-operative hypertensive crisis and [**briefly outline**]{.task-verb} the mechanisms of action.
+:::
+
+Also asked in: [2015A Question 8](/content/exams/anzca/2015/A/8/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} the drug classes in a table and [**briefly outline**]{.task-verb} how each mechanism produces its antihypertensive effect.
+
+::: {.structure-table}
+| Drug Class | Example and Route | Mechanism of Action | Antihypertensive Effect |
+|---|---|---|---|
+| Direct Vasodilators | | | |
+| Alpha Antagonists | | | |
+| Beta Blockers | | | |
+| Calcium Channel Blockers | | | |
+| Centrally Acting Drugs | | | |
+| Anaesthetic Agents | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**66.2%** of candidates achieved a pass in this question
+
+A brief definition of hypertensive crisis was expected. Constructing a table with headings such as class, example of drug, route of administration, mechanism of action and physiological effect, enabled some candidates to score high marks in a minimal amount of time. Reflecting on the route of administration enabled candidates to avoid wasting time mentioning drugs that could not effectively be administered intra-operatively.
+
+The majority of marks for this question were awarded for clarifying the mechanism of action of the drugs, and outlining the mechanisms for the antihypertensive effect.          Vague statements as to method of action were unable to be awarded marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/B/10/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/B/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Direct vasodilators](/content/pharmacopoeia/cvs/direct_vasodilators.qmd)
+- [Beta blockers](/content/pharmacopoeia/cvs/beta_blockers.qmd)
+- [Calcium channel blockers](/content/pharmacopoeia/cvs/calcium_channel_blockers.qmd)

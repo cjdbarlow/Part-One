@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018B Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the factors that affect oxygen transport from the alveoli to the tissues.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} transport along the oxygen cascade, linking each pressure drop to its determinants. Use relevant equations for alveolar oxygen, diffusion and delivery, then explain tissue unloading and consumption.
+
+::: {.structure-headings}
+### Oxygen Cascade and Driving Pressure Gradient
+
+### Alveolar Gas Equation
+
+### Alveolar–Capillary Diffusion and Venous Admixture
+
+### Oxygen Content and Circulatory Delivery
+
+### Haemoglobin Dissociation and Tissue Consumption
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**34%** of candidates achieved a pass in this question
+
+Five topics could earn marks if correctly described and discussed.
+
+- Oxygen cascade diagram
+- Alveolar gas equation
+- Fick’s Law of diffusion
+- Oxygen flux equation
+- Haemoglobin oxygen dissociation curve
+
+Most candidates mentioned Fick’s Law and component factors affecting diffusion. There was a large emphasis on time versus perfusion limiting of diffusion and little discussion of the partial pressure gradient driving diffusion. Relatively few candidates described the alveolar gas equation. Most candidates mentioned the oxygen flux equation and the components of oxygen content of blood. Around half discussed the haemoglobin oxygen dissociation curve and factors affecting unloading of oxygen in the tissues. A small number of candidates correctly mentioned shunt and several candidates incorrectly mentioned alveolar dead space as factors impacting alveolar to arterial partial pressure gradient. No candidate discussed the role of oxygen consumption by mitochondria as the primary motive force for movement of oxygen.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2018/B/2/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2018/B/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Oxygen cascade](/content/resp/oxygen_cascade.qmd)

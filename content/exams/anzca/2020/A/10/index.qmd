@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2020A Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the ionic basis of automaticity in the pacemaker cells of the sino- atrial node.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} automaticity with a labelled sino-atrial action potential and the ion currents underlying phases 4, 0 and 3. Explain how the interplay of funny current, calcium and potassium currents produces spontaneous depolarisation and how autonomic input modifies it.
+
+::: {.structure-headings}
+### Automaticity and Labelled Action Potential
+
+### Phase 4: Pacemaker Depolarisation
+
+### Phase 0: Depolarisation
+
+### Phase 3: Repolarisation
+
+### Sympathetic, Parasympathetic and Other Modifying Factors
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The domains for this question were:
+
+  - Diagram of SAN action potential
+  - Concept of automaticity
+  - Phase 0
+  - Phase 3
+  - Phase 4
+  - Factors affecting
+
+This question was answered well with some excellent responses. Although a diagram wasn’t specifically asked for, the vast majority of candidates provided one. To get a 3, candidates needed to correctly draw the SAN action potential and describe the ion currents contributing to each phase of the potential as well as describe an understanding of the concept of automaticity. Most candidates did this successfully. Further marks were given for explanation of the factors that affect the potential with a focus on the effects of sympathetic and parasympathetic input. The better answers included a detailed description of the interplay of sodium, calcium and potassium currents and how these contribute to the pacemaker potential.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2020/A/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Cardiac action potentials](/content/cvs/cardiac_ap.qmd)

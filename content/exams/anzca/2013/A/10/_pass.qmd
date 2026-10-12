@@ -1,0 +1,40 @@
+**Innate Immune System**
+
+The inmate immune system consists of the physiological protective mechanisms which are present life long and typically for the first line of defence against pathogens.
+
+Key Features:
+
+- Immediacy
+- Non-specific response
+- No Memory - Not modified by repeat exposures 
+
+**Components**
+
+- Physiochemical barriers: function to prevent exposure or colonisation from pathogens 
+  - Skin 
+  - Mucus Membranes
+  - Gastric acid
+- Humoral mechanisms 
+  - Complement and acute phase proteins: activated by bacteria and antibody complexes, functions to inactivate and destroy pathogens, also actives further immune response. Involved in inflammatory pathways 
+- Cellular mechanisms 
+  - Mast Cells: release inflammatory granules including histamine 
+  - Macrophages: phagocytosis of pathogens, and damaged/dead cells, antigen presentation and activation of acquired immune stem 
+  - NK cells - destruction of viral infected cells 
+  - Eosinophils, basophils, neutrophils: release of toxic granules for destruction of pathogens 
+
+**Adaptive Immune System**
+
+The adaptive immune system is cell mediated and requires activation for a targeted effect. Due to needing activation it is slower to respond in days to weeks but generally more potent. Adaptive immune system provides Specific activity with more rapid targeted response to previously encounter pathogens 
+
+**Components**
+
+- T Cells: maturation
+  - T-helper cells ate antigen presenting cells and secrete cytokines to activate macrophages and B cells 
+  - T-cytotoxic (CD8) cells target and destroy infected and dysfunctional cells 
+- B Cells
+  - Produced in bone marrow → matures in the spleen/lymph node → activation produces:
+  - Plasma Cells → Antibody production and secretion of immunoglobulins primly IgM initially with IgG presenting later
+  - Memory B Cell → Produces Immunoglobulins  in response to repeat 
+- Immunoglobulins 
+  - Produced by B cells, functions include opsonisation - binding to pathogen and marking for destruction or phagocytosis, also may inactivate pathogen. Activation of complement.
+  - Immunoglobulins types include IgA, IgM, IgG, IgE

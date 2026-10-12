@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2017A Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Draw**]{.task-verb} both aortic root and a radial artery pressure wave forms on the same axes. [**Explain**]{.task-verb} the differences between them.
+:::
+
+Also asked in: [1999B Question 8](/content/exams/anzca/1999/B/8/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Draw**]{.task-verb} both waveforms on labelled common axes and [**explain**]{.task-verb} differences in timing, contour, systolic and diastolic pressure. Relate propagation and reflection to compliance, resistance and changes with ageing.
+
+::: {.structure-headings}
+### Superimposed Labelled Waveforms
+
+### Propagation Delay
+
+### Systolic Contour and Pulse Pressure
+
+### Dicrotic Notch and Wave Reflection
+
+### Compliance, Resistance and Ageing
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**56%** of candidates achieved a pass in this question
+
+Most candidates correctly drew arterial waveforms on appropriately labelled axes, as requested in the question. A large number of axes however were unlabelled, and had no values attached to them. Candidates were not penalised if graphs were drawn on two identical axes rather than a single graph with superimposed waveforms.
+
+Identification of the difference between the waveforms and elucidating the physics behind these differences were awarded marks. Most candidates managed to identify at least the gross differences between the waveforms and the better candidates were able to accurately describe the causes of the changes in the individual features correctly.
+
+Marks were also awarded for discussion of changes caused by aging or other pathological states if these were correctly related to the changes in the waveforms.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/1999/B/8/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/B/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Arterial pressure variation](/content/cvs/bp_variations.qmd)

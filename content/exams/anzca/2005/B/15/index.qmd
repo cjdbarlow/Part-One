@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005B Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the autonomic innervation of the heart and the direct effect of autonomic stimulation on cardiac function.
+:::
+
+Also asked in: [1999A Question 7](/content/exams/anzca/1999/A/7/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Sympathetic and Parasympathetic Pathways**, then use headings for **Sinoatrial Node**, **Atria**, **Atrioventricular Node**, **Purkinje Cells**, and **Ventricular Myocytes**. Link the neural pathway, transmitter and receptor to each direct cardiac effect.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**43 %** of candidates passed this question.
+
+The answer should have included a definition of the autonomic nervous system and an indication of its function and then a discussion of each arm including source of outflow, path taken, pre-ganglionic fibres, ganglia, post-ganglionic fibres, transmitters, receptors, intracellular responses to receptor activation and a description of the end results of these activations.
+
+Better answers alluded to the balance within the two arms, included laterality of stimulation and described the effects within different parts of the heart.
+
+Errors included the receptor types located within the heart and the intracellular response to activation.
+
+Answers not attracting marks by some candidates included:
+
+- detailed description of myocardial oxygenation
+- reflex arcs
+- compensation associated with assuming an upright posture
+- point repetition
+- inadequately detailed diagrams
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Autonomic Nervous System](/content/neuro/ans.qmd)
+- [Cardiac Anatomy](/content/cvs/cardiac_anatomy.qmd)

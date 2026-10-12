@@ -1,0 +1,42 @@
+**Major clinical Effect of Rocuronium**:
+
+- Non depolarising muscle relaxant
+- Competitive antagonist at the nAChR at the NMJ
+- Must block \~70% of all receptor sites before clinical effect seen, no way of measuring % receptor blockade by clinical measurement.   
+- \>70% blockade progressive reduction in twitch height.
+- ED95 Dose required to produce 95% reduction in twitch height in 50% of the population - for rocuronium this is 0.3mg/kg therefore ED95 Rocuronium =ED50 
+- Typically the induction doses used are 2-5x the ED95. 
+
+![](/content/exams/anzca/2013/B/13/standard-image3.jpeg){fig-alt="Rocuronium dose–response curve showing twitch depression and ED50 and ED95"}
+
+**Factors encountered in clinical practice that may alter this curve:**
+
+Factors potentiating NDMR BLOCK
+
+Age: increased sensitising in neonates - due to immature  NMJ
+
+Neuromuscular disorders i.e. myasthenia gravis
+
+Drugs: inhaled anaesthetic, local anaesthetic
+
+Electrolyte abnormalities: 
+
+↑Mg ↑Na
+
+↓K ↓Ca
+
+Factors that ↑ resistance to NDMR
+
+Anticholinesterase drug administration 
+
+Presence of increased or extra junctional receptors: burns, prolonged immobilisation 
+
+Motor neurone lesions 
+
+Drugs that affect Rocuronium:
+
+Potentate blockade:
+
+- Local Anaesthetics
+- Volatile agents
+- Aminoglycosides

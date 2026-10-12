@@ -1,0 +1,76 @@
+#### List:
+
+- General adverse effects
+- Benzylisoquinolinium specific
+- Aminosteroid specific
+
+#### General adverse effects:
+
++---------------------------+----------------------------------------------------------------------------------------------------------+
+| Unsafe paralysis          | - Can’t intubate, can’t oxygenate → desaturation → death                                                 |
+|                           | - Absent airway reflexes → aspiration                                                                    |
++---------------------------+----------------------------------------------------------------------------------------------------------+
+| Inadequate reversal       | - Risk: distress, type 2 resp failure, aspiration                                                        |
+|                           | - Risk factors:                                                                                          |
+|                           |   - Physiology: hypothermia → ↓rate of enzymatic degradation                                             |
+|                           |   - Pathology: liver failure (↓metabolism), renal failure (accumulation), PChE deficiency for mivacurium |
+|                           |   - Long acting drug e.g. pancuronium 60 mins                                                            |
+|                           |   - Active metabolites: e.g. 3-OH pancuronium 50% potency and long-lasting                               |
+|                           |   - Other drugs: e.g. volatile, calcium channel blocker                                                  |
++---------------------------+----------------------------------------------------------------------------------------------------------+
+| Critical illness myopathy | - Prolonged paralysis in ICU → disuse atrophy                                                            |
+|                           | - Vecuronium and atracurium implicated                                                                   |
+|                           | - ? specific drug effect ? immobility                                                                    |
++---------------------------+----------------------------------------------------------------------------------------------------------+
+
+#### Benzylisoquinolinium adverse effects:
+
++------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Histamine release                  | - Direct effect on mast cells. Not immune mediated.                                                                                          |
+|                                    | - Drugs: d-Tubocurarine \> mivacurium, atracurium \>\> cisatracurium                                                                         |
+|                                    | - Structure-activity:                                                                                                                        |
+|                                    |   - Cisatracurium: the 1Rcis-1R’cis isomer of atracurium                                                                                     |
+|                                    |     - R: stereochemistry of the benzyltetrahydroisoquinoline rings                                                                           |
+|                                    |     - Cis: geometry of the bulky methoxy at C1 and 2-alkylester at N1                                                                        |
+|                                    |   - ↑Methoxy groups = ↑potency, ↓histamine release                                                                                           |
+|                                    |     - e.g. atracurium 8, mivacurium 10, doxacurium 12                                                                                        |
+|                                    | - Effects:                                                                                                                                   |
+|                                    |   - Degranulation of mast cells                                                                                                              |
+|                                    |   - Effects via G protein coupled receptors                                                                                                  |
+|                                    |   - H~1~ (G~q~): Vasodilatation, capillary leak, ↓mAP; ↓AV node conduction, coronary vasoconstriction, bronchoconstriction                   |
+|                                    |   - H~2~ (G~s~): ↑contractility, ↑chronotropy, coronary vasodilatation, bronchodilation (N.B. H~1~-induced bronchoconstriction predominates) |
+|                                    | - Prevention: antihistamine, slower injection                                                                                                |
+|                                    | - ↓Severity with repeat doses; depletion of mast cells                                                                                       |
++------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Anaphylaxis                        | - Less common - 1 in 10,000                                                                                                                  |
+|                                    | - See later                                                                                                                                  |
++------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Autonomic ganglion blockade        | - Mainly caused by d-tubocurarine                                                                                                            |
+|                                    | - Structure-activity: ↑risk if short interonium distance                                                                                     |
+|                                    | - Effects: ↓HR, ↓mAP (i.e. no baroreceptor response)                                                                                         |
++------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Prolonged apnoea (mivacurium only) | - Cis-trans and trans-trans isomers metabolised by plasma cholinesterase                                                                     |
+|                                    | - Two alleles. Variations: normal, dibucaine-resistant, fluoride-resistant, silent                                                           |
+|                                    | - Rx prolonged apnoea: sedate + ventilate in ICU +/- FFP +/- dialysis                                                                        |
++------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Laudanosine toxicity               | - Ester hydrolysis and Hofmann degradation product of atracurium and cisatracurium metabolism                                                |
+|                                    | - Neurotoxic in animals → seizure                                                                                                            |
+|                                    | - Tiny concentration in man                                                                                                                  |
++------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Aminosteroid adverse effects:
+
++-----------------------+----------------------------------------------------------------------------------------------------------------------------+
+| Anaphylaxis           | - Common, often severe                                                                                                     |
+|                       | - Rocuronium highest 1 in 2,500 (cf. sux 1 in 2,000)                                                                       |
+|                       | - Structure-activity:                                                                                                      |
+|                       |   - Usually due to quaternary NH~4~^+^                                                                                     |
+|                       |   - ? cross-reaction with pholcodine                                                                                       |
+|                       | - Pathophysiology:                                                                                                         |
+|                       |   - 1^st^ exposure: sensitization (antigen presented to T cell, stimulates B cell, IgE production, fixation on mast cells) |
+|                       |   - 2^nd^ exposure: systemic mast cell degranulation, angioedema, bronchospasm, vasodilatation/capillary leak              |
++-----------------------+----------------------------------------------------------------------------------------------------------------------------+
+| Cardiac mAChR effects | - Vecuronium: agonist → ↓HR (rare)                                                                                         |
+|                       | - Pancuronium: antagonist → ↑HR (common)                                                                                   |
+|                       | - Rocuronium: minimal effect                                                                                               |
++-----------------------+----------------------------------------------------------------------------------------------------------------------------+

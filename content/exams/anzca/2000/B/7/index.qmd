@@ -1,0 +1,73 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000B Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the actions of insulin that affect fat metabolism.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} **Fat Synthesis**, **Fatty Acid Uptake**, **Fat Storage**, **Fat Breakdown**, and **Fuel Utilisation**. Link insulin’s cellular actions to each change in fat metabolism.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**28%** of candidates passed this question. Main points expected were:-
+
+- Decreased fat utilisation due to increased intracellular availability of glucose
+- Increased production of fat which occurs mostly in the liver
+- Increased uptake of free fatty acids by fat cells
+- Increased storage of fat
+- Decreased breakdown of fat.
+
+Some details of these processes were required. For example, in the liver, increased glucose uptake by hepatic cells via activation of glucokinase leads to glucose phosphorylation and glucose trapping in the liver. Initially, glucose is utilised in glycogen production, but excess glucose is broken down via the glycolytic pathway to form pyruvate which is converted to acetylCoA, the substrate for free fatty acids. Free fatty acids are transported in the blood as triglyceride, incorporated in lipoprotein complexes. Insulin increases activity of endothelial lipoprotein lipase, thereby increasing the absorption of free fatty acids into fat cells. Insulin also inhibits hormone sensitive lipase, inhibiting the breakdown of triglyceride in fat cells. Insulin promotes uptake of glucose into fat cells where it is utilised for glycerol synthesis.
+
+Additional marks were awarded for greater detail and for some quantification of the processes involved. Similarly, additional marks were given for mention of insulin’s effect on citrate, isocitrate and carboxylase.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Insulin, Glucagon, and Somatostatin](/content/endo/insulin_and_friends.qmd)
+- [Fat Metabolism](/content/metabolic/fat.qmd)

@@ -1,0 +1,66 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999A Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the factors that affect the transport of oxygen and carbon dioxide from the alveolus to blood.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the factors under **Fick’s Law**, **Gas Properties and Partial Pressure Gradients**, **Perfusion and Transit Time**, and **Haemoglobin Binding**. Relate each factor to transport across the alveolar–capillary membrane.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Overall this question was well answered with **44%** of candidates achieving a pass.
+
+The factors that affect transport of oxygen and carbon dioxide between alveolus and blood can be described by Fick’s Law of simple diffusion ie. Diffusion constant, surface area, membrane thickness, and concentration gradient (or more correctly partial pressure gradient). Marks were awarded for relating these factors to the alveolus and lung. The influence of solubility and molecular weight on the diffusion constant for individual gases should have been described, with comparisons for oxygen and carbon dioxide. Additional marks were awarded for describing the influence of cardiac output and the rate of combination of oxygen with haemoglobin. Oxygen diffusion is normally perfusion limited. Increases in cardiac output (eg. with exercise) normally result in recruitment of alveoli thereby increasing the surface area for diffusion. However, in the presence of disease or a low partial pressure gradient (eg. at high altitudes), an increased cardiac output may reduce red blood cell transit time resulting in insufficient time for equilibration of oxygen, making oxygen, unlike carbon dioxide, diffusion limited. The combination of oxygen with haemoglobin is important because it ensures a low capillary partial pressure of oxygen and maintains a gradient for oxygen diffusion despite a higher oxygen concentration in the blood. In this way haemoglobin concentration, the affinity of haemoglobin for oxygen, and capillary blood volume influence the rate of oxygen diffusion.
+
+Many candidates wasted time providing detailed descriptions of oxygen and carbon dioxide transport in the blood, the haemoglobin-oxygen dissociation curve, alveolar ventilation, or ventilation-perfusion mismatch. Failure to address the question led to a reduction in scores.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Diffusion and Diffusing Capacity](/content/resp/diffusion_capacity.qmd)

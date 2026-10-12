@@ -1,0 +1,88 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003B Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the role of baroreceptors in the control of systemic arterial pressure.
+:::
+
+Also asked in: [2012A Question 9](/content/exams/anzca/2012/A/9/index.qmd#examiner-comments), [2015A Question 6](/content/exams/anzca/2015/A/6/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} baroreceptor control as a negative feedback pathway from stretch to afferent signalling, central integration and effectors. Distinguish high pressure from low pressure receptors and relate their response times to arterial pressure and blood volume control.
+
+::: {.structure-headings}
+### Receptors, Locations and Stimuli
+
+### Afferent Pathways and Central Integration
+
+### Autonomic Cardiac and Vascular Effects
+
+### Low Pressure Receptors and Hormonal Responses
+
+### Response Time, Adaptation and Reflex Testing
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**57%** of candidates passed this question.
+
+This question was asked in July/August 2000 and at that time the pass rate was 54%.
+
+An overview of the role of baroreceptors in controlling blood pressure was expected. The high pressure baroreceptors react via a negative feedback arrangement to rapidly regulate blood pressure changes by changing cardiac output and systemic vascular resistance. The low pressure cardiopulmonary receptors have a role in long term blood pressure control by regulation of blood volume.
+
+Other points expected were:
+
+- Afferent pathways.
+- Central integration, and the reciprocal balance between sympathetic and parasympathetic system
+- Efferent pathways and effects, including hormonal.
+
+Common omissions were to not describe the low pressure baroreceptors at all, or to describe the sympathetic response without mention of the parasympathetic.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2003/B/10/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2003/B/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Baroreceptors](/content/cvs/baroreceptors.qmd)

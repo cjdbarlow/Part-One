@@ -1,0 +1,76 @@
+#### List:
+
+- GABA
+- GABA-A
+- GABA-B
+- Drugs
+
+#### GABA: (γ-aminobutyric acid)
+
++--------------------------+-----------------------------------------------------------------+
+| Type of neurotransmitter | - Inhibitory                                                    |
++--------------------------+-----------------------------------------------------------------+
+| Location                 | - Brain \> spinal cord \> peripheral sites                      |
+|                          | - Especially hippocampus, other limbic structures, brainstem    |
++--------------------------+-----------------------------------------------------------------+
+| Production               | - Glutamic acid → GABA                                          |
+|                          | - Enzyme: glutamic acid decarboxylase                           |
+|                          | - Cofactor: vitamin B6                                          |
++--------------------------+-----------------------------------------------------------------+
+| Degradation              | - GABA → glutamate or succinate                                 |
+|                          | - Enzyme: GABA transaminase (inhibited by some anticonvulsants) |
++--------------------------+-----------------------------------------------------------------+
+
+#### GABA-A receptor:
+
++------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Diagramme  | ![](/content/exams/anzca/2001/A/10/prize-image001.jpg){fig-alt="GABA-A receptor subunits, chloride ionophore, GABA binding sites and benzodiazepine sites"}|
++------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Structure  | - Pentameric ligand-gated ion channel                                                                                                                      |
+|            | - α~1~β~1~α~2~β~2~γ                                                                                                                                        |
++------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Location   | - Mostly post-synaptic                                                                                                                                     |
++------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Activation | - ↑Cl^-^ conductance, prevention of action potential                                                                                                       |
+|            | - (no hyperpolarization since RMP -70mV, Cl- Nernst potential -65mV)                                                                                       |
+|            | - Rapid onset and offset (milliseconds)                                                                                                                    |
++------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Subtypes   | - α~1~: sedation, amnesia, anticonvulsant                                                                                                                  |
+|            | - α~2~, α~3~: muscle relaxation, anxiolysis                                                                                                                |
++------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### GABA-B receptor:
+
++------------+------------------------------------------------------+
+| Type       | - Metabotropic G protein coupled receptor            |
++------------+------------------------------------------------------+
+| Location   | - Mostly pre-synaptic                                |
++------------+------------------------------------------------------+
+| Activation | - ↑K^+^ efflux, hyperpolarization, ↓action potential |
+|            | - Slower onset (seconds) and offset                  |
++------------+------------------------------------------------------+
+
+#### Drugs at GABA-A receptor:
+
++-----------------------+----------------------------------------------------------------+
+| Benzodiazepines       | - e.g. midazolam                                               |
+|                       | - Binds BDZ site at α-γ interface                              |
+|                       | - ↑probability of adopting active conformation once GABA bound |
+|                       | - Note flumazenil competitive antagonist at same site          |
++-----------------------+----------------------------------------------------------------+
+| Propofol              | - Bind A and/or B subunit                                      |
+|                       | - ↓rate of dissociation of GABA from its receptor              |
+| Thiopentone           |                                                                |
+|                       |                                                                |
+| Volatile agents       |                                                                |
++-----------------------+----------------------------------------------------------------+
+| Baclofen              | - Derivative of GABA                                           |
+|                       | - Agonist at GABA-B                                            |
++-----------------------+----------------------------------------------------------------+
+| Gamma hydroxybutyrate | - Precursor to GABA                                            |
+|                       | - Weak agonist at GABA-A                                       |
++-----------------------+----------------------------------------------------------------+
+| Alcohol               | - Unknown                                                      |
+|                       |                                                                |
+| Etomidate             |                                                                |
++-----------------------+----------------------------------------------------------------+

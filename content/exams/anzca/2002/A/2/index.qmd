@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002A Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Draw**]{.task-verb} a labelled diagram of a cardiac muscle action potential highlighting the sequence of changes in ionic conductances. [**Explain**]{.task-verb} the terms “threshold”, “excitability”, and “irritability” with the aid of the diagram.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Draw**]{.task-verb} a labelled cardiac muscle action potential with phases, normal values and the sequence of ionic conductance changes. [**Explain**]{.task-verb} threshold, excitability and irritability on the diagram.
+
+::: {.structure-headings}
+### Action Potential Phases and Ionic Conductances
+
+### Threshold
+
+### Excitability
+
+### Irritability
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**56%** of candidates passed this question. The first part of this question required a diagram of a cardiac muscle action potential with labelled axes, normal values, and phases 0, 1, 2, 3, and 4 identified. An explanation of the ionic fluxes involved with each phase was expected. Additional marks were awarded for drawing a diagram showing changes in conductances of Na^+^, Ca^++^, and K^+^.
+
+Threshold, the level of depolarisation at which a self propagating action potential is generated, was well described and illustrated.
+
+Excitability and irritability were often confused. Excitability refers to the increased slope and conduction velocity of phase 0 as action potentials are initiated at different stages of the relative refractory period of the preceding excitation. Irritability refers to the diminished potential between resting and threshold. Extra marks were awarded for mentioning that as irritability increases, depolarisation is easier, but there is a decreased gradient and reduced conduction velocity of phase 0.
+
+A common omission was to describe the ionic fluxes only in terms of membrane permeability, with no explanation of the electro-chemical forces acting on the various ions during the five phases. Few candidates mentioned the effect of K^+^ on resting membrane potential.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2002/A/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Cardiac electrophysiology](/content/cvs/cardiac_ap.qmd)

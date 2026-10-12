@@ -1,0 +1,71 @@
+Local anaesthetic agents administered topically to skin or mucosa include:
+
+- Lignocaine gels and spray formulations
+- EMLA: eutectic mixture of local anaesthetics, contains lignocaine and prilocaine 
+- Amethocaine for skin or eye anaesthesia 
+- Cocaine
+
+Toxicity = unwanted harmful effect of a drug
+
+Toxicity from LAs can be classified into local or systemic effects
+
+**Toxicity can include:**
+
+- Hypersensitivity reaction
+- Skin / mucosa irritation
+- Systemic Toxicity 
+- Methemoglobinemia
+
+**Hypersensitivity Reaction:**
+
+LA can cause allergy/hypersensitivity reactions → easter LA \> Amide LA 
+
+**Agent Specific:**
+
+Prilocaine → Methaemoglobin 
+
+Cocaine → ↑SNS ( ↑SVT/CO/mAP)  and CNS effects euphoria etc
+
+**LA Systemic Toxicity (LAST):**
+
+Dose related effect with circumoral numbness/tingling → dysarthria → Visual changes → seizures → LOC → respiratory depression → CVS depression 
+
+CVS Toxicity: 
+
+Vasodilatation at low concentrations, vasoconstriction at high concentrations. 
+
+Inhibition of cardiac Na+ channels, inhibiting maximum rate of rise of phase 0 of the cardiac action potential.
+
+ Negative inotropy proportional to potency
+
+CNS Toxicity:
+
+Does-dependent CNS effects: circumoral tingling, visual disturbances, tinnitus, tremors, dizziness, slurred speech, convulsions, coma, apnoea. 
+
+Potentiated by other CNS depressants and hypercarbia (due to ↑ CBF and ↓ seizure threshold
+
+**Factors Affecting LAST:**
+
+Systemic Absorption of local anaesthetics applied to skin or mucosa are governed by Fick’s law of diffusion.
+
+Diffusion = (ΔPxAxk)/t
+
+ΔP = concentration gradient. ↑dose / concentration of agent applied →↑ rate of diffusion →↑ risk of toxicity 
+
+A = Area of diffusion. Larger diffusion area → more rapid diffusion →↑risk of toxicity
+
+k = diffusion constant given by solubility / sq(MW). ↑LA solubility/lipophilicity or smaller molecule size → more rapid absorption
+
+Thickness of membrane: LA applied to thick skin will diffuse more slowly while thin skin or mucosa will result in rapid diffusion  
+
+Other factors that affect the rate of systemic absorption include local blood flow/vascularity of site. ↑vascularity → increased/more rapid systemic spread →↑ risk of LAST 
+
+**Pharmacokinetics (PK):**
+
+> - Esters: rapid metabolism by BChE → short t~1/2β~
+> - Amides: slow metabolism by liver → long t~1/2β~
+
+**Pharmacodynamics (PD):**
+
+> - Toxicity threshold: bupivacaine 1.5mcg/mL, ropivacaine 4mcg/mL, lignocaine 5mcg/mL
+> - CC:CNS ratio – bupivacaine 3:1, ropivacaine 5:1, lignocaine 7:1

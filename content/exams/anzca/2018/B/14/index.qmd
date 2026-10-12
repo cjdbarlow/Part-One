@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018B Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the factors determining transdermal uptake of drugs (50%). [**Briefly outline**]{.task-verb} the advantages and disadvantages of transdermal administration of drugs (50%).
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} determinants using Fick’s relationship, expanding each term with a drug or patient example and including skin blood flow. [**Briefly outline**]{.task-verb} advantages and disadvantages separately, giving both parts comparable space.
+
+::: {.structure-headings}
+### Diffusion Relationship and Drug Properties
+
+### Skin, Patch Area and Blood Flow
+
+### Clinical and Drug Examples
+
+### Advantages of Transdermal Administration
+
+### Disadvantages and Variability
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**33%** of candidates achieved a pass in this question
+
+To pass, candidates had had to define Fick’s equation correctly AND have further examples or specifics, and to outline the advantages and disadvantages of using this as a route of administration.
+
+Poorly performing candidates often wrote the Fick’s equation and then did not expand on the components of this equation. It is not enough to write, for example, that increased solubility increases the uptake, as the equation has already mentioned this.
+
+Better performing candidates would explain the type of solubility that was important and why, and use examples to make their point. This example could be applied to all the components of the Fick’s equation.
+
+High scoring candidates often mentioned factors outside the Fick’s equation, or indirectly related to this equation and often used clinical examples as to hose these factors could occur. Overall there was a lack of detail in the answers, a lack of clinical application and a lack of examples of medications used transdermally.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2018/B/14/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2018/B/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Absorption](/content/pharmacology/absorption.qmd)

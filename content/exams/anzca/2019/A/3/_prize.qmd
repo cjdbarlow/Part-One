@@ -1,0 +1,103 @@
+List:
+
+- Intro
+- Anatomical changes
+- Lung volumes
+- Breathing
+- Gas exchange
+- Labour
+
+#### Intro:
+
++-----------------------+--------------------------------------------------------------+
+| Objectives            | - Support increased metabolic demand                         |
+|                       | - Augment foetal gas exchange                                |
++-----------------------+--------------------------------------------------------------+
+| Most important change | - Hyperventilation                                           |
++-----------------------+--------------------------------------------------------------+
+| Causes                | - Increased metabolic rate (MR) +20% at term, +60% in labour |
+|                       | - Mass effect (ME) of gravid uterus (later in pregnancy)     |
+|                       | - Hormones: oestrogen (O), progesterone (P), relaxin (R)     |
++-----------------------+--------------------------------------------------------------+
+
+#### Anatomical changes:
+
++--------------+-------------------------------------------------------------------------------------------------------+
+| Upper airway | - Mucosal swelling: due to ↑RAAS activity (O) and vasodilation (P)                                    |
+|              | - Breast enlargement (O) (P)?                                                                         |
+|              | - Implication: ↑Risk difficult intubation (relative risk 7-10x), ↑risk difficult bag-mask ventilation |
++--------------+-------------------------------------------------------------------------------------------------------+
+| Lower airway | - Bronchodilation → ↓airway resistance, ↑V~D~ 35% (P)                                                 |
+|              | - But ↔V~D~/V~T~ due to hyperventilation                                                              |
++--------------+-------------------------------------------------------------------------------------------------------+
+| Chest wall   | - Lax ligaments (P) → ↓intercostal effect                                                             |
+|              | - Diaphragm displacement (ME) → ↑diaphragm excursion                                                  |
+|              | - ↑AP and transverse diameters                                                                        |
++--------------+-------------------------------------------------------------------------------------------------------+
+
+#### Lung volumes:
+
++------------------+---------------------------------------------------------------------------------------------+
+| ↓Static volumes  | - TLC: 4.1L (cf. 4.2L)                                                                      |
+|                  | - FRC: 1.35L (cf 1.7) (↓20% upright, ↓30% supine, ↓further under GA)                        |
+|                  | - RV: 0.8L (cf 1L)                                                                          |
+|                  | - Cause: ME                                                                                 |
+|                  | - Implication: rapid desaturation if apnoeic; ↑rate of rise F~A~/F~I~ of inhalational agent |
++------------------+---------------------------------------------------------------------------------------------+
+| ↑Dynamic volumes | - TV 0.6L (cf. 0.45L (↑30%)                                                                 |
+|                  | - FVC: 3.3L (cf. 3.2L)                                                                      |
+|                  | - IC: 2.75L (cf. 2.5L)                                                                      |
+|                  | - ERV 0.55L (cf. 0.7L)                                                                      |
+|                  | - Cause: (P)                                                                                |
+|                  | - Implication: ventilatory capacity preserved                                               |
++------------------+---------------------------------------------------------------------------------------------+
+
+#### Breathing:
+
++------------------------+------------------------------------------------------------------------------+
+| Ventilation            | - ↑RR 10% (from early T1)                                                    |
+|                        | - ↑V~T~ 35% (from early T1)                                                  |
+|                        | - ↑V~D~ 35%                                                                  |
+|                        | - ↑MV 50%                                                                    |
+|                        | - ↑V~A~ 50%                                                                  |
++------------------------+------------------------------------------------------------------------------+
+| Control of ventilation | - PaCO~2~ vs. minute ventilation curve: left shift and 3x increase in slope  |
+|                        | - PaO~2~ vs. minute ventilation curve: 2x increase in response               |
+|                        | - Cause: sensitization of central chemoreceptors (P); also ↑BMR → ↑VCO~2~    |
+|                        | - Implication: ↓PaCO~2~; ↑respiratory work; dyspnoea common                  |
++------------------------+------------------------------------------------------------------------------+
+| Mechanics              | - ↓Resistance: due to bronchodilation (P)                                    |
+|                        | - ↑Lung compliance: due to ↓lung volume (ME) (not sure!)                     |
+|                        | - ↓Chest wall compliance: due to lax ligaments (P), chest wall splaying (ME) |
++------------------------+------------------------------------------------------------------------------+
+
+#### Gas exchange:
+
++-----------------------------------+--------------------------------------------------------------------------------------+
+| V/Q matching                      | - ↑Cardiac output - \> ↑recruitment and distension → improved matching               |
+|                                   | - Implication: ↑PaO~2~ by 7.5mmHg, ↓A-a gradient                                     |
++-----------------------------------+--------------------------------------------------------------------------------------+
+| Oxyhaemoglobin dissociation curve | - ↓PaCO~2~ and ↑pH → Left shift (P)                                                  |
+|                                   | - ↓Hb → ↑\[2,3-DPG\] 30% → R shift (O)                                               |
+|                                   | - Net effect minimal change                                                          |
++-----------------------------------+--------------------------------------------------------------------------------------+
+| ABG                               | - Compensated resp alkalosis (P) → ↑partial pressure gradient for CO~2~              |
+|                                   |   - pH 7.45                                                                          |
+|                                   |   - PaCO~2~ 30mmHg (note ↓etCO~2~ target during mechanical ventilation)              |
+|                                   |   - HCO~3~^-^ 20mmol/L                                                               |
+|                                   | - PaO~2~ \~105mmHg → ↑partial pressure gradient                                      |
++-----------------------------------+--------------------------------------------------------------------------------------+
+| Oxygen flux                       | - CaO~2~ 16mL/dL (cf. 20) – due to anaemia                                           |
+|                                   | - Cardiac output = 7.5L/min (cf. 5) – mainly due to ↑MR and ↑blood volume → ↑preload |
+|                                   | - DO~2~ = 1.2L/min (cf. 1)                                                           |
+|                                   | - VO~2~: 300mL/min (cf. 250)                                                         |
+|                                   | - EO~2~ = 300/1200 = 0.25 (i.e. unchanged!)                                          |
++-----------------------------------+--------------------------------------------------------------------------------------+
+
+#### Labour:
+
++----------------------+--------------------------------------------------------+
+| During contractions  | - ↑Minute ventilation (pain)                           |
++----------------------+--------------------------------------------------------+
+| Between contractions | - ↓PaCO~2~ below apnoeic threshold → mild desaturation |
++----------------------+--------------------------------------------------------+

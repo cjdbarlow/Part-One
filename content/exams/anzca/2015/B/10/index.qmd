@@ -1,0 +1,97 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015B Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} how hyperventilation may reduce intracranial pressure.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} the causal sequence from ventilation to carbon dioxide, cerebral vascular tone, blood volume and intracranial pressure. Use the intracranial volume relationship and a labelled response curve to show the magnitude and limits of the effect.
+
+::: {.structure-headings}
+### Intracranial Contents and Pressure
+
+### Hyperventilation and Carbon Dioxide
+
+### Cerebral Vascular Response
+
+### Blood Volume, Flow and Pressure
+
+### Magnitude, Limits and Interactions
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**40.1%** of candidates achieved a pass in this question
+
+This question was answered by the majority of candidates with broad knowledge of the effect on CO2 on cerebral circulation.
+
+Expected for a pass mark was:
+
+- an understanding that ICP was a product of intracranial contents and how these varied as discussed by the Monroe-Kellie doctrine
+- an accurate indication of what hyperventilation was and how this effected PaCO2 and hence cerebral PaCO2
+- a discussion of the effect of CO2 on cerebral vasculature
+- an indication of the extent of this effect (either verbally or by a correctly drawn graph)
+
+Additional marks were awarded for:
+
+- discussing the mechanism of CO2 effects via H+ ion mediated regulation and the limits of this effect
+- demonstrating an understanding of the effects that changes in vascular calibre had on flow and pressures in the cranium as described by the Hagen–Poiseuille equation
+- describing additive effects of hypoxia when added to that of cerebral hypocarbia and the potentially protective effects of hyperventilation in this
+- additive effects of hyperventilation induced decreases in intrathoracic pressure on ICP
+
+Common problems candidates demonstrated with this question included:
+
+- Poorly drawn and unlabeled or incorrectly labelled graphs
+- graphs and sentences that contradicted each other
+- a lack of detail, or incorrect details, regarding the extent of ventilatory effects on the cerebral circulation
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2015/B/10/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2015/B/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Intracranial pressure](/content/neuro/icp.qmd)
+- [Cerebral blood flow](/content/cvs/cerebral_blood_flow.qmd)

@@ -1,0 +1,97 @@
+#### List:
+
+- Intro
+- Relevant equations
+- Pathophysiology and causes for each factor
+
+#### Intro:
+
++--------------------+---------------------------------------------------------------+
+| Definition         | PaO~2~ \<60mmHg                                               |
++--------------------+---------------------------------------------------------------+
+| Importance         | - Corresponds to SaO~2~ 90%, CaO~2~ 18mL/100mL                |
+|                    | - Approaching steep part of oxyhaemoglobin dissociation curve |
++--------------------+---------------------------------------------------------------+
+| Most common causes | - Atelectasis causing shunt                                   |
+|                    | - Iatrogenic hypoventilation                                  |
++--------------------+---------------------------------------------------------------+
+| Solution           | - All causes effectively treated by ↑FiO~2~ except shunt      |
++--------------------+---------------------------------------------------------------+
+
+#### Equations:
+
+  ------------------------------- ------------------------------------------------------------------------------
+  Alveolar gas equation           PAO~2~ = FiO~2~(P~atm~ – SVP~H2O~) – PaCO~2~/RQ
+  Alveolar ventilation equation   PaCO~2~ ≈ PACO~2~ ∝ VCO~2~/V~A~
+  Bohr equation                   V~A~ = RR x (V~T~-V~D~)
+  Fick’s law                      Q = (P~1~-P~2~) x area/thickness x (membrane solubility)/(√molecular weight)
+  Shunt equation                  Q~s~/Q~t~ = (CcO~2~ – CaO~2~) / (CcO~2~ – CvO~2~)
+  ------------------------------- ------------------------------------------------------------------------------
+
+#### ↓PiO~2~:
+
++-----------------+--------------------------------------------------------------------------------------------+
+| Pathophysiology | ↓FiO~2~ → ↓PiO~2~ → ↓PAO~2~ → ↓PaO~2~                                                      |
++-----------------+--------------------------------------------------------------------------------------------+
+| Causes          | (1) Diffusion hypoxia:                                                                     |
+|                 |     - Converse of the concentration effect                                                 |
+|                 |     - Seen at the end of a case                                                            |
+|                 |     - N~2~O ceased, N~2~ resumed                                                           |
+|                 |     - N~2~ is slowly take up from alveoli (blood-gas partition coefficient \[BGPC\] 0.014) |
+|                 |     - N~2~O rapidly returns to alveoli (BGPC 0.47)                                         |
+|                 |     - Alveolar O~2~ diluted → ↓ PaO~2~                                                     |
+|                 |     - Prevent by FiO~2~ 100% at end of case                                                |
+|                 | (2) High altitude                                                                          |
+|                 |     - ↓P~atm~ → ↓PiO~2~ → ↓PaO~2~                                                          |
++-----------------+--------------------------------------------------------------------------------------------+
+
+#### Hypoventilation:
+
++-----------------+-----------------------------------------------------------------------+
+| Pathophysiology | ↓RR or ↓V~T~ or ↑V~D~ –\> ↓V~A~ –\> ↑PACO~2~/PaCO~2~ → ↓PAO~2~/PaO~2~ |
++-----------------+-----------------------------------------------------------------------+
+| Causes          | (1) Residual anaesthetic or opioid                                    |
+|                 |     - ↓Response to ↓PaO~2~ and ↑PaCO~2~                               |
+|                 |     - Note ↓response to ↓PaO~2~ even at 0.1MAC                        |
+|                 | (2) Residual neuromuscular blockade                                   |
+|                 |     - Inadequate reversal                                             |
+|                 |     - Re-curarisation                                                 |
+|                 | (3) Painful breathing:                                                |
+|                 |     - e.g. thoracotomy, laparotomy                                    |
+|                 | (4) Existing pathology                                                |
+|                 |     - e.g. COPD                                                       |
++-----------------+-----------------------------------------------------------------------+
+
+#### Diffusion impairment:
+
++-----------------+---------------------------------------------------+
+| Pathophysiology | - Time-limited O~2~ uptake in health              |
+|                 | - Diffusion-limited uptake in disease             |
+|                 | - ↓Area, ↑thickness → ↓rate of uptake → ↓PaO~2~   |
++-----------------+---------------------------------------------------+
+| Causes          | - Negative pressure APO                           |
+|                 | - Excess IV fluid → APO                           |
+|                 | - Existing disease: pulmonary fibrosis, emphysema |
++-----------------+---------------------------------------------------+
+
+#### V/Q mismatch:
+
++-----------------+---------------------------------------------------------------------------------+
+| Pathophysiology | - Low V/Q: area of lung which is well perfused but poorly ventilated            |
+|                 | - Well matched blood + poorly matched blood = ↓pO~2~ in systemic arterial blood |
++-----------------+---------------------------------------------------------------------------------+
+| Cause           | - Normal: VQ scatter with gravity \[V, Q and V/Q graph\]                        |
+|                 | - Post-op: residual volatile → impaired HPV and local matching → ↓V/Q overall   |
+|                 | - Existing disease: COPD, asthma                                                |
++-----------------+---------------------------------------------------------------------------------+
+
+#### Shunt:
+
++-----------------+-----------------------------------------------------------------------+
+| Pathophysiology | - Where some systemic blood returns to the LV without any oxygenation |
+|                 | - Minimal correction with supplemental O~2~ (cf. all other causes)    |
++-----------------+-----------------------------------------------------------------------+
+| Cause           | - Physiological: bronchial, pleural, Thebesian veins                  |
+|                 | - Post-op: atelectasis, aspiration pneumonitis                        |
+|                 | - Existing disease: lung (e.g. AVM), heart (e.g. VSD with R→L shunt)  |
++-----------------+-----------------------------------------------------------------------+

@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018A Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the hazards associated with the use of CO2 absorbents within a circle breathing system and how the risks can be minimised.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} each hazard alongside a justified method of risk reduction. Distinguish risks common to absorbents from agent-specific reactions, and link equipment handling, moisture and gas flow to the relevant hazard.
+
+::: {.structure-headings}
+### General Physical and Circuit Hazards
+
+### Exhaustion and Carbon Dioxide Rebreathing
+
+### Heat, Fire and Handling Hazards
+
+### Agent-Specific Degradation Products
+
+### Risk Reduction and Absorbent Selection
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**39.2%** of candidates achieved a pass in this question
+
+A carbon dioxide absorber is an integral part of the circle breathing circuit.
+
+In order to pass this question candidates needed to discuss several of the risks associated with the use of CO2 absorbers AND the ways in which these risks could be minimised. There are multiple risks due to the presence of CO2 absorbent in the circuit, regardless of the nature of the absorbent and also some risks which are absorbent specific. To pass the candidates must have demonstrated an understanding of these differences, and discussed general risks and at least one agent specific risk.
+
+The most commonly discussed specific agent was soda lime, which does pose some specific risks. Better candidates were able to differentiate agent specific risks, either by comparing soda lime to older, more hazardous absorbents, such as Baralyme, or newer agents free from agent-specific risks, such as Amsorb, a Ca(OH)~2~-based absorbent.
+
+The discussion of risk reduction needed to be internally consistent, demonstrating that the candidate understood the rationale for the risk reduction method.
+
+Common errors, apart from errors of omission (which were the most common errors by far), were: including irrelevant detail, which did not score marks, including the chemical equations associated with CO2 absorbers or the constituents of the different absorbents (unless this related directly to a discussion of risk); incorrectly describing the effects of gas flow and moisture.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2018/A/4/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2018/A/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Circle breathing system and soda lime](/content/equipment/circle_system.qmd)

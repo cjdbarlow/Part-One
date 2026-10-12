@@ -1,0 +1,70 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012B Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the acute adverse effects of opioid receptor agonists. [**Describe**]{.task-verb} the mechanisms of the acute adverse effects of opioid receptor agonists.
+:::
+
+Also asked in: [2005A Question 2](/content/exams/anzca/2005/A/2/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} **Respiratory**, **Central Nervous System**, **Cardiovascular**, **Gastrointestinal and Urinary**, **Musculoskeletal**, and **Cutaneous Effects**. [**Describe**]{.task-verb} the mechanism alongside each acute adverse effect.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**55%** of candidates passed this question.
+
+Common errors included omitting common side effects such as nausea and vomiting. Some gave incorrect statements e.g. nausea is caused by direct action on the vomiting centre. More detail than just the statement “opioids cause respiratory depression” was required. i.e. that they act to depress the central medulla respiratory centre, they shift the PaCO2 / ventilation curve to the right, they reduce respiratory rate more than tidal volume. Some candidates interpreted the question to mean which opioid receptor were responsible for which actions; more general mechanisms were required. These candidates wasted time in describing the various receptors and locations, in great detail, with 2nd and 3rd messengers etc.
+
+Meiosis was often mentioned without explanantion. Miosis is the pupillary constriction caused by opioids acting on the oculomotor nucleus. Chronic effects e.g. tolerance, dependence, constipation, addiction, hyperalgesia did not garner marks.
+
+Points required: Concise description of side effects, in a systematic manner, with mechanisms, more detail required for important side effects e.g. cardiovascular, respiratory systems. There should be mention of nausea and vomiting, pruritis, biliary spasm, urinary retention, truncal rigidity. Bonus marks were given for cough reflex suppression, miosis, and the fact that adverse effects were more likely at the extremes of age and with increasing dose.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Opioids](/content/pharmacopoeia/analgesics/opioidspharm.qmd)

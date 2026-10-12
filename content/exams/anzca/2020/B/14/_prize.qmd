@@ -1,0 +1,48 @@
+#### Table:
+
++---------------+----------------------+-----------------------+------------------------+
+|               | **Difficult ETT**    | **Not difficult ETT** | **Predictive values:** |
++===============+======================+=======================+========================+
+| High MP score | a)True +ve           | b)False +ve           | PPV: a/(a+b)           |
++---------------+----------------------+-----------------------+------------------------+
+| Low MP score  | c)False -ve          | d)True -ve            | NPV: d/(c+d)           |
++---------------+----------------------+-----------------------+------------------------+
+|               | Sensitivity: a/(a+c) | Specificity: d/(b+d)  |                        |
+|               |                      |                       |                        |
+|               | 30%                  | 90%                   |                        |
++---------------+----------------------+-----------------------+------------------------+
+|               |                      |                       |                        |
++---------------+----------------------+-----------------------+------------------------+
+|               | **Likelihood ratios:**                                                |
++---------------+-----------------------------------------------------------------------+
+|               | Positive LR = sensitivity / (1-specificity) = 3                       |
++---------------+-----------------------------------------------------------------------+
+|               | Negative LR = (1-sensitivity) / specificity = 0.78                    |
++---------------+-----------------------------------------------------------------------+
+
+#### Interpretation:
+
++----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Sensitivity & specificity        | - Will pick up 30% of those with difficult ETT                                                                                                                                              |
+|                                  | - Will rule out 90% of those without difficult ETT                                                                                                                                          |
+|                                  |                                                                                                                                                                                             |
+|                                  |    -\>\> unhelpful at identifying difficult intubation                                                                                                                                      |
++----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Predictive values                | - PPV and NPV ∝ prevalence                                                                                                                                                                  |
+|                                  | - Prevalence of difficult intubation is low                                                                                                                                                 |
+|                                  |                                                                                                                                                                                             |
+|                                  |    -\>\> low PPV for difficult intubation in all-comers                                                                                                                                     |
++----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Likelihood ratios                | - +LR 3: slight ↑ post-test probability of difficult intubation if high grade MP score                                                                                                      |
+|                                  | - -LR is \<1: slight ↓ post-test probability of difficult intubation if low grade MP score                                                                                                  |
+|                                  | - \% Change in probability is unaffected by prevalence of difficult intubation                                                                                                              |
+|                                  |                                                                                                                                                                                             |
+|                                  |    -\>\> low utility in assisting prediction of difficult intubation                                                                                                                        |
++----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Receiver-operator characteristic | - Relationship between sensitivity, specificity, test quality                                                                                                                               |
+|                                  | - ↑AUC associated with high utility                                                                                                                                                         |
+|                                  |                                                                                                                                                                                             |
+|                                  | ![](/content/exams/anzca/2020/B/14/prize-image001.jpg){fig-alt="Receiver operating characteristic curve plotting sensitivity against one minus specificity with area under curve about0.9"} |
++----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+This is my weakest topic.

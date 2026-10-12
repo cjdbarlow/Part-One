@@ -1,0 +1,68 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007A Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the potential adverse effects of administering neostigmine post operatively.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Muscarinic Effects**, **Nicotinic Effects**, and **Drug Interactions**. Relate acetylcholine accumulation at each site to the postoperative adverse effects and the role of an accompanying antimuscarinic.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**68%** of candidates passed this question.
+
+This question examined the pharmacology of neostigmine, a drug that is being used in anaesthesia on a daily basis. An adequate description of adverse effects was therefore expected for candidates to obtain a pass mark.
+
+The main points should include a discussion on the accumulation of acetylcholine at muscarinic (at low dose) and nicotinic (at higher dose) receptor sites after administration of neostigmine. The muscarinic effects are severe and hence the co-administration of antimuscarinic agent is important. The most worrying adverse effects are bradyarrhythmia with hypotension. Bronchoconstriction, salivation, tracheobronchial hypersecretion, postoperative nausea and vomiting, and enhanced peristalsis (and potential damage on bowel anastomosis) should be mentioned.
+
+Additional marks were awarded for including potential drug interaction with suxamethonium and mivacurium. Marks were also awarded for depolarizing block after excessive doses of neostigmine. No credit was given for description of neuromuscular monitoring.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Anticholinesterases](/content/pharmacopoeia/autonomic/anticholinesterases.qmd)

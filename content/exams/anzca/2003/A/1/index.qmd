@@ -1,0 +1,62 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003A Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly outline**]{.task-verb} the effects of isoflurane on skeletal, smooth and cardiac muscle tissues. [**Indicate**]{.task-verb} how these effects are mediated and their clinical significance.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly outline**]{.task-verb} **Skeletal Muscle**, **Smooth Muscle**, and **Cardiac Muscle** effects. [**Indicate**]{.task-verb} the relevant mechanisms and clinical significance within each tissue group.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Although the pass rate for this question was **74%**, many answers were borderline and few candidates (<10%) provided a clear well-considered answer directly addressing all aspects of the question. Knowledge of the potential pharmacological and pathological actions of isoflurane on each type of muscle, the clinical significance and a general concept of the postulated mechanisms of action was expected. Candidates were required to know that isoflurane causes dose-dependent skeletal muscle relaxation and potentiation of neuromuscular blockers, with increased skeletal muscle blood flow and drug delivery. The relaxant effects of isoflurane on vascular smooth muscle including coronary and cerebral circulations and the actions on bronchial, pulmonary and uterine smooth muscle should have been considered. Many were unclear of the mechanism of coronary steal and of the controversy over its clinical significance. Actions on cardiac contractility and conduction should have been included. Possible mechanisms of action including CNS effects, postjunctional effects, effects on calcium channels and intracellular calcium, atypical ryanodine receptors in MH, nitric oxide production and G-protein linked receptors were often not outlined.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational Anaesthetics](/content/pharmacopoeia/neuro/inhalational_anaesthetic_agents.qmd)

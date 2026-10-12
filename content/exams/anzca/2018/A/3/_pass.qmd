@@ -1,0 +1,22 @@
+Mechanism of action of inhalational anaesthetic agents has been studied for long period of time and is still not fully understood. 
+
+**Meyer-Overton hypothesis,** which relates to the relationship between anaesthetic potently and lipid solubility (measured in olive oil. ↑solubility → ↑molecules dissolved → increased effect.
+
+Issues
+
+- Not all lipid soluble drugs cause anaesthesia 
+- ↑ Temp → ↑ solubility but conversely ↑MAC 
+
+Mullins expanded this theory to as the 'critical volume hypothesis' that the molecular volume of agent was important to disruption of membrane protein function.
+
+Issues
+
+- Anaesthetic stereoisomers have different potency 
+
+**Current working theory: Majority Theory / Protein Receptor Hypothesis **
+
+Interaction with hydrophobic areas of key membrane proteins / ion channels. Proposes that Inhaled agents affect key ion channels,   
+
+↑ Activity at GABA, Glycine, 5-HT
+
+↓ Activity at NMDA,  L-type Ca channels, nACHr

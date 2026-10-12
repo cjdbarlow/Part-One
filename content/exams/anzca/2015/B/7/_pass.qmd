@@ -1,0 +1,30 @@
+Non depolarising muscle relaxants (NDMR) are competitive nicotinic acetylcholine receptor (nAChR) antagonists.
+
+2 classes:
+
+1.  Aminosteroid (includes rocuronium, pancuronium, vecuronium)
+2.  Benzylisoquinolones (BIQ) (includes atracurium, cisatracurium)
+
+Adverse reactions include:
+
+**General**:
+
+- Anaphylaxis/Allergy: Aminosteroid greater risk then BIQ, rocuronium particularly increased risk in Australia’s related to cross activity with pholcodeine 
+- Unsafe paralysis - can’t intubate / can’t oxygenate. Particularly with longer acting/less rabidly reversible agents.
+- Inadequate reversal
+- Critical Illness Myopathy in patients with long-term relaxant use
+
+**Class Specific:**
+
+**Aminosteroid**
+
+mAChR cross reactivity:
+
+- Vecuronium: agonist → ↓HR (rare)
+- Rocuronium and Pancuronium vagolytic properties →↑HR +/- mAP
+
+**Benzylisoquinolones** 
+
+- Histamine release – ↑atracurium versus cisatracurium, relationship to methoxy groups; clinical effects and degree of release → hypotension and bronchospasm 
+- Laudanosine production from metabolism of Atracurium → decreasing seizure threshold 
+- Autonomic Ganglion blockage due to blocking presynaptic nAChR →↓ HR / ↓MAP due to blocking baroreceptor reflex

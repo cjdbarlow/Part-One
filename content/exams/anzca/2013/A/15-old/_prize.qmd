@@ -1,0 +1,76 @@
+#### List:
+
+- Definition
+- Nociceptive receptor and primary afferent
+- Secondary afferent and tracts
+- Tertiary afferents and projections
+- Descending modulation
+
+#### Definition:
+
+An unpleasant sensory and emotional experience associated with actual or potential tissue damage, or is described in such terms.
+
+#### Primary afferents:
+
++----------------------+------------------------------------------------------------------------+
+| Nociceptive receptor | - Free nerve ending on 1° afferent in the thumb                        |
+|                      | - Dense innervation of epidermis                                       |
+|                      | - Ionotropic and metabotropic transduction                             |
+|                      | - Activated by mechanical, thermal, chemical insults                   |
+|                      | - Sensitised by inflammation                                           |
++----------------------+------------------------------------------------------------------------+
+| Nociceptor           | - From periphery via median/radial nerve to the dorsal horn (C6 level) |
+|                      | - Cell body in dorsal root ganglion                                    |
+| (the neuron)         | - Ascent or descent 1-2 levels via Lissauer’s tract                    |
+|                      |                                                                        |
+|                      | **Aδ fibre:**                                                          |
+|                      |                                                                        |
+|                      | - Releases glutamate                                                   |
+|                      | - Synapse at superficial layers.                                       |
+|                      | - Sharp, fast, well localized (i.e. somatic pain)                      |
+|                      |                                                                        |
+|                      | **C fibre:**                                                           |
+|                      |                                                                        |
+|                      | - Releases glutamate, substance P                                      |
+|                      | - Synapse at deeper layers.                                            |
+|                      | - Dull, slow, poorly localized (i.e. visceral pain)                    |
+|                      |                                                                        |
+|                      | **Silent nociceptor:**                                                 |
+|                      |                                                                        |
+|                      | - Conveys pain only when sensitized                                    |
++----------------------+------------------------------------------------------------------------+
+
+#### Secondary afferents:
+
++---------+---------------------------------------------------------------------------+
+| Neurons | - Nociceptive-specific: superficial layers, variable threshold            |
+|         | - Wide dynamic range: deeper layers, high threshold, only when sensitized |
+|         | - Note also interneurons: excitatory and inhibitory                       |
+|         | - Note inhibitory afferents: e.g. Aβ conveying light touch                |
++---------+---------------------------------------------------------------------------+
+| Tracts  | - Decussation in anterior commissure                                      |
+|         | - Ascent in spinothalamic tracts                                          |
+|         |   - Neo-spinothalamic tract: to thalamus (VPL nucleus)                    |
+|         |   - Paleo-/archi-spinothalamic tracts: to brainstem                       |
++---------+---------------------------------------------------------------------------+
+
+#### Tertiary afferents:
+
++-----------------+-------------------------------------------------------+
+| Somatosensation | - VPL thalamus → primary somatosensory cortex         |
+|                 |   - Localisation                                      |
++-----------------+-------------------------------------------------------+
+| Other aspects   | - Brainstem → medial thalamus, hypothalamus, amygdala |
+|                 |   - Affective response                                |
+|                 |   - Autonomic response                                |
++-----------------+-------------------------------------------------------+
+
+#### Descending modulation:
+
++--------------+------------------------------------------------------------------------------+
+| Physiology   | - Pathway: PAG or RVM → dorsal horn via Lissauer’s tract                     |
+|              | - Mediators: noradrenaline → serotonin                                       |
+|              | - Effect: inhibit 1° afferent (pre-synaptic) and 2° afferent (post-synaptic) |
++--------------+------------------------------------------------------------------------------+
+| Pharmacology | - Opioids: ↓activity of OFF cell → ↓Inhibition of ON cell                    |
++--------------+------------------------------------------------------------------------------+

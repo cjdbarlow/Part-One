@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013A Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Classify**]{.task-verb} isomers. [**Briefly write an account**]{.task-verb} of their significance in drugs used in anaesthesia.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+**[Classify]{.task-verb}** isomers, then **[briefly write an account]{.task-verb}** of their significance using named anaesthetic drug examples.
+
+::: {.structure-headings}
+### Classification: Structural Isomers and Stereoisomers
+
+### Significance for Pharmaceutics
+
+### Significance for Pharmacokinetics
+
+### Significance for Efficacy and Adverse Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Old Exam: **66%** of candidates achieved a pass in this question
+
+New Exam: **49%** of candidates achieved a pass in this question
+
+The main points expected for a pass included a classification of isomers pertaining to drugs used in anaesthesia, and include a brief description of how these isomers may be used optimise pharmaceutics, pharmacokinetics and efficacy, and minimise side / toxic effects.
+
+The classification of isomers was handled well generally. However, descriptions of significance for optimising anaesthesia drug therapy were less universal. The second question needed to be addressed to pass. There were some excellent answers that included all these main points with detailed descriptions of how isomerism of local anaesthetics, neuromuscular blockers, volatile agents, midazolam, thiopentone, tramadol and methadone affects their pharmaceutics, pharmacokinetics and pharmacodynamics.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/A/3/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/A/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Isomerism](/content/pharmacology/isomerism.qmd)

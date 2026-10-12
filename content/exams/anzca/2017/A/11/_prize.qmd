@@ -1,0 +1,110 @@
+#### List:
+
+- Diagramme
+- Relevant physiology
+- Normal flow-volume curve
+- Obstructive pathophysiology
+- Restrictive pathophysiology
+
+#### Diagramme:
+
+![](/content/exams/anzca/2017/A/11/prize-image001.jpg){fig-alt="Expiratory flow-volume curves in normal, obstructive and restrictive lungs with effort-dependent and independent portions"}
+
+#### Relevant physiology:
+
++-----------------------------------+--------------------------------------------------------------------------------+
+| Flow determinants                 | - Ohm’s law: Expiratory flow rate (Q) = (P~Alv~-P~atm~)/airway resistance      |
+|                                   | - Normal values                                                                |
+|                                   |   - P~Alv~: 38cmH~2~O                                                          |
+|                                   |   - P~atm~: 0cmH~2~O by definition                                             |
+|                                   |   - AWR: 2cmH~2~O/L/s                                                          |
+|                                   | - Factors ↑Q: ↑P~Alv~, ↓P~atm~, ↓AWR                                           |
++-----------------------------------+--------------------------------------------------------------------------------+
+| Resistance                        | - Laminar flow (small airways): R = (8 x length x viscosity) / (π x radius^4^) |
+|                                   | - Turbulent flow (large airways): (P~1~-P~2~) ∝ (length x density) / radius^5^ |
+|                                   | - Factors ↓AWR                                                                 |
+|                                   |   - ↑Radius (most important since raised to power 4 or 5)                      |
+|                                   |   - ↓Viscosity (e.g. temp)                                                     |
+|                                   |   - ↓Density (e.g. heliox cf. air)                                             |
+|                                   |   - ↓Length (not under control)                                                |
++-----------------------------------+--------------------------------------------------------------------------------+
+| Dynamic airways compression (DAC) | - Pressure drop occurs between alveolus and mouth due to airway resistance     |
+|                                   | - Where airway pressure = intrapleural pressure, unsupported airways collapse  |
+|                                   |   - i.e. equal pressure point (EPP)                                            |
+|                                   |   - Starling resistor mechanism; P~2~ = P~IP~ not P~atm~                       |
+|                                   |   - Cartilage absent after generation 11                                       |
++-----------------------------------+--------------------------------------------------------------------------------+
+
+#### Normal flow-volume curve:
+
++----------------+----------------------------------------------------------------------+
+| TLC            | - Lung volume after maximal inspiratory effort                       |
+|                | - Note unable to measure with flow-volume curve                      |
++----------------+----------------------------------------------------------------------+
+| Upward slope   | - Effort-dependent                                                   |
+|                | - Radial traction distends airways                                   |
++----------------+----------------------------------------------------------------------+
+| Max PEFR       | - Occurs at beginning of forced expiration.                          |
+|                |   - Highest lung elastic recoil                                      |
+|                |   - Highest airway radius                                            |
+|                |   - ? High expiratory muscle mechanical advantage                    |
+|                | - Reflects larger airway function                                    |
+|                | - Mainly effort-dependent                                            |
+|                | - Limited by onset of DAC                                            |
++----------------+----------------------------------------------------------------------+
+| Linear decline | - Mainly effort-independent, especially FEF25-75%                    |
+|                | - Decline due to increasing DAC as lung volume and airway radii fall |
+|                | - Mostly effort independent                                          |
+|                | - Reflects smaller airway function                                   |
++----------------+----------------------------------------------------------------------+
+| RV             | - Maximal expiration                                                 |
+|                | - Limited by small airway closure                                    |
+|                | - Note unable to measure with flow-volume curve                      |
++----------------+----------------------------------------------------------------------+
+| FVC            | - = TLC - RV                                                         |
++----------------+----------------------------------------------------------------------+
+
+#### Obstructive pathophysiology:
+
++----------------+--------------------------------------------------------------+
+| Example        | - Asthma, COPD                                               |
++----------------+--------------------------------------------------------------+
+| ?TLC           | - COPD with emphysema: ↓elastic recoil                       |
+|                | - (? Asthma: gas trapping – not clear to me if this is true) |
++----------------+--------------------------------------------------------------+
+| ↓Upward slope  | - Cause: ↓airway radius                                      |
++----------------+--------------------------------------------------------------+
+| ↓PEFR          | - ↓Airway radius                                             |
+|                | - Earlier and exaggerated DAC, distal migration of EPP       |
++----------------+--------------------------------------------------------------+
+| Linear decline | - Scooped out appearance, ↓FEF25-75%                         |
+|                |   - Earlier and exaggerated DAC, distal migration of EPP     |
+|                |   - (if emphysema: ↓radial traction, ↓lung recoil)           |
+|                | - Changes ∝ severity                                         |
++----------------+--------------------------------------------------------------+
+| ↑RV            | - ↓Airway radius → earlier airway closure                    |
+|                | - (if emphysema: ↓lung recoil, earlier airway closure)       |
++----------------+--------------------------------------------------------------+
+| ↓FVC           | - ∆RV \> ∆TLC                                                |
++----------------+--------------------------------------------------------------+
+
+#### Restrictive pathophysiology:
+
++-----------------+------------------------------------------------------+
+| Example         | - Pulmonary fibrosis                                 |
++-----------------+------------------------------------------------------+
+| ↓TLC            | - ↓Lung compliance                                   |
++-----------------+------------------------------------------------------+
+| ↔↑ Upward slope | - ↑Lung recoil                                       |
++-----------------+------------------------------------------------------+
+| ↔↓Max PEFR      | - (affected in severe disease)                       |
+|                 | - ↓Lung compliance                                   |
++-----------------+------------------------------------------------------+
+| Linear decline  | - ↔↑Slope, especially at end-expiration              |
+|                 |   - ↑lung recoil → ↑ transpulmonary pressure         |
+|                 |   - Stiff, less collapsible tissue                   |
++-----------------+------------------------------------------------------+
+| ↓RV             | - ↑Lung recoil → airway closure at lower lung volume |
++-----------------+------------------------------------------------------+
+| ↓FVC            | - ∆TLC \> ∆RV                                        |
++-----------------+------------------------------------------------------+

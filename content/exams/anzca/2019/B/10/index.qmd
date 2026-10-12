@@ -1,0 +1,99 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019B Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the physiological responses to administration of 2 litres of Hartmann's solution intravenously over 1 hour to a conscious, healthy, euvolaemic 70kg adult.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} the time course of the specified infusion in the healthy euvolaemic adult. Link solution composition to distribution, osmotic and ionic effects, then explain cardiovascular, neuroendocrine and renal responses and lactate metabolism.
+
+::: {.structure-headings}
+### Composition and Initial Fluid Distribution
+
+### Redistribution and Ionic Effects
+
+### Cardiovascular Responses
+
+### Neuroendocrine and Renal Responses
+
+### Acid–Base, Metabolic and Temperature Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**43.7 %** of candidates achieved a pass in this question
+
++-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| DOMAINS                           | COMMENTS                                                                                                                                                                                                                                                                               |
++===================================+========================================================================================================================================================================================================================================================================================+
+| Composition of Hartmann’s and ECF | No values given for composition of Hartmann’s solution made it difficult for full explanation of fluid distribution & osmolar changes. Even though not specifically asked, did make for a more complete answer & explanation                                                           |
++-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Water distribution                | Required statements that predominant distribution would be to extracellular fluid with correct amounts or proportion remaining intravascularly & then some moving intracellular due to hypoosmolar nature. Timing of fluid movements (half-life) added to a more complete explanation. |
++-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Cardiovascular considerations     | Predominant effects of increased venous return & increased pre-load with effects on blood pressure & venous capacitance allowed for a more comprehensive explanation of the cardiovascular consequences                                                                                |
++-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Neuroendocrine considerations     | Central integration with baroreceptor responses both high & low pressure & their significance was expected.                                                                                                                                                                            |
+|                                   |                                                                                                                                                                                                                                                                                        |
+|                                   | The renal response including mention of ANP, ADH & RAAS required some explanation & details                                                                                                                                                                                            |
++-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Other relevant material           | Extra credit was given for including content of the metabolic effects of the metabolism of lactate via the Cori cycle in the liver.                                                                                                                                                    |
+|                                   |                                                                                                                                                                                                                                                                                        |
+|                                   | Inclusion of the decrease in body temperature due to the potential for unwarmed volume of fluid also was rewarded                                                                                                                                                                      |
++-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Other comments                    | Common errors involved:                                                                                                                                                                                                                                                                |
+|                                   |                                                                                                                                                                                                                                                                                        |
+|                                   | - incorrect reading of the question as 1L over 2 hours & underestimation of the effects & responses.                                                                                                                                                                                   |
+|                                   | - Inclusion of generic facts about fluid distribution & ion movements not directly related to the specifics of the question did not attract marks.                                                                                                                                     |
+|                                   | - Confusion over acid-base effects, osmolar & ionic changes                                                                                                                                                                                                                            |
++-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2019/B/10/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2019/B/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Intravenous fluids](/content/pharmacopoeia/renal/intravenous_fluids.qmd)

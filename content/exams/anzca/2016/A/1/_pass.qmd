@@ -1,0 +1,46 @@
+Side stream Capnography is the continuous measurement of CO2 concentration in respiratory gasses with an analyser remote from the sample source. Usually displayed as PCO2 / time.
+
+**Principles:**
+
+Capnography uses the principle that gas molecules with different atoms (CO2) absorb infrared light at a specific wave length according to **Beer-Lambert Law(s)**:
+
+- Absorption of light passing through a substance is directly proportional to both the distance it travels through the substance and the concentration of attenuating species within the substance.
+
+Sample chamber controlled so Beer law → amount of IR light absorbed is proportional to CO2 concentration 
+
+**Components**
+
+- Water trap
+- Sampling port and sample line 
+- Sapphire sampling chamber - sapphire does not absorb IR light
+- infrared light source - filtered to specific wavelength asCO2 absorbs infrared radiation at a peak wavelength of 4.28μm
+- IR Detector
+- Microprocessor
+- Display
+
+**Method:**
+
+- Light is emitted and passes through the sampling chamber filtered to specific wavelength
+- Levels of IR radiation is measured on the other side of the chamber by the detector
+- IR radiation to the amount of gas present in the sample → The less radiation that reaches the detector, the more gas there is in the sample absorbing it
+
+![](/content/exams/anzca/2016/A/1/standard-image19.png){fig-alt="Infrared photometer showing infrared source, sample and reference chambers and detector"}
+
+**Sources of Errors** 
+
+- The **collision broadening effect**
+  - Widening of the absorption peak for a gas in the presence of another gas due to change in intermolecular forces. Ie 50% NO2 widens CO2 absorption by 10%
+  - Mitigation: Reference chamber
+- Crossover with other gas mixtures
+  - CO2 and N2O have similar absorbance spectra, and may lead to error when a device is not designed to measure both wavelengths.
+- Failure of equipment
+
+These can be overcome by use of **double-beam capnometer**. This uses a reference chamber which contains CO2-free air, and the same emitter-detector system. All absorption from this system must occur due to artifact (as no CO2 is present). The artifactual component is then subtracted from the value detected in the main chamber. 
+
+This corrects for:
+
+- Variable amount of infrared radiation released
+- Variable sensitivity of the detector
+- Variable efficacy of the crystal window and lens system
+
+Relating to type of capnometer used

@@ -1,0 +1,94 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013B Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Draw and explain**]{.task-verb} the characteristics of a log dose-response curve that describes the major clinical effect of rocuronium. [**Describe**]{.task-verb} how factors encountered in clinical practice may alter this curve.
+:::
+
+Also asked in: [2014A Question 2](/content/exams/anzca/2014/A/2/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Draw and explain**]{.task-verb} the curve with labelled axes and relevant intercepts. [**Describe**]{.task-verb} each clinical factor by connecting its mechanism to the direction of the curve change.
+
+::: {.structure-headings}
+### Axes and Definition of the Measured Response
+
+### Three Phases of the Curve
+
+### ED95 and Slope
+
+### Clinical Factors Shifting or Altering the Curve
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**38.9%** of candidates achieved a pass in this question
+
+This question requires a good understanding and application of pharmacodynamics as relate to muscle relaxants.
+
+Graphs with log dose on the horizontal axis are more conventional; some graphs included the log dose on the vertical axis. Provided the shape of the graph was different and reflected the relationship to response (percent depression of single twitch in a graded graph or percentage of respondents satisfying a criterion e.g. 95 percent twitch height depression) marks were allocated accordingly.
+
+The most complete graphs included the following discussions;
+
+- Explanations for the three phases of the graph, the first horizontal , the steep, and the final horizontal component in terms of the interaction of rocuronium with the nicotinic acetylcholine receptor
+
+- Important intercepts such as the 95 % single twitch suppression response in a graded graph and the ED 95 in a quantal graph
+
+- Factors that affect the steepness of the slope in any given individual such as interindividual variability in response
+
+Discussions about graded and quantal curves were important as were the definition of ED95, being an important prelude to answering the second part of the question where factors were influencing the apparent value of the ED 95.
+
+The second part of the question was better answered. Candidates recognised, listed and often described mechanisms for the factors altering the curves.
+
+There was some confusion as to whether rocuronium should be considered an “agonist” or “antagonist” for the purposes of discussing agents that oppose its effects such as anticholinesterases and sugammadex.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/B/13/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/B/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Dose-response relationships](/content/pharmacology/dose_response.qmd)
+- [Non-depolarising neuromuscular blockers](/content/pharmacopoeia/msk/non_depolarising_nmbs.qmd)
+- [Alterations to drug response](/content/pharmacology/alterations_to_response.qmd)

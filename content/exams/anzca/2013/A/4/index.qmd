@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013A Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} how suxamethonium and non-depolarising neuromuscular blocking agents produce their adverse cardiovascular effects.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+**[Describe]{.task-verb}** the mechanisms under these headings, connecting each implicated drug to its receptor or physiological action and resulting cardiovascular effect.
+
+::: {.structure-headings}
+### Immune and Non-Immune Histamine Release
+
+### Muscarinic Effects
+
+### Autonomic Ganglion and Noradrenergic Effects
+
+### Hyperkalaemia, Malignant Hyperthermia and Other Indirect Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Old Exam: **13%** of candidates achieved a pass in this question
+
+New Exam: **23%** of candidates achieved a pass in this question
+
+In general, candidates did not provide complete answers covering the multiple mechanisms by which neuromuscular blocking agents produce adverse cardiovascular effects. Points were awarded for: a discussion of immune and non immune histamine release with an outline of histamine induced adverse effects on the cardiovascular system, a description of muscarinic cholinergic blockade and agonism, nicotinic agonism and blockade at autonomic ganglia, and noradrenergic effects. Additional points were given for identifying hyperkalaemic dysrhythmia, MH, reflex responses to suxamethonium induced compartmental pressure changes, and autonomic activation due to neuromuscular block in the non anaesthetised patient.
+
+Common errors included describing in great detail the mechanisms of action in producing paralysis, lengthy descriptions of the effects of reversal of residual paralysis with anticholinesterases and anticholinergic agents, confusion over terms - pre and post ganglionic, vagolytic and vagotonic, nicotinic and muscarinic, and attempts to compare depolarising and non depolarising agents in table form.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/A/4/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/A/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Depolarising neuromuscular blockers](/content/pharmacopoeia/msk/depolarising_nmbs.qmd)
+- [Non-depolarising neuromuscular blockers](/content/pharmacopoeia/msk/non_depolarising_nmbs.qmd)

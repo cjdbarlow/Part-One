@@ -1,0 +1,56 @@
+Morbid obesity is a multi-system disorder defined as:
+
+- BMI \> 40 kg/m2.
+- BMI \>35km/m2 with obesity related comorbidity 
+
+Morbid obesity involves an increase in both adipose tissue and lean body mass (20% of increased body mass).
+
+↑ Lean Body mass → increased total body oxygen demand (3-350ml/min) and ↑CO2 production.
+
+**Cardiac Output **
+
+Cardiac output is increased 
+
+- HR remains stable 
+- Stroke volume maximised - minimal ability to increase SV for ↑ demand
+
+**Cardiac Preload **
+
+- Total blood volume is increased (relative ml/kg decrease) 
+
+→ MSFP and CVP increased →↑Preload →↑ SV
+
+- Blood volume increase due to neurohormonal changes from adipose tissue including:
+  - ↑Leptin →  Sympathetic stimulation →↑RAAS (↑Angiotensinogen production in addition)
+- ↑ in LA and RA pressures → ↑ risk of atrial dilation → ↑risk of atrial arrhythmias  
+
+**Cardiac Afterload **
+
+- may be normal, ↑ or ↓   
+- Normotensive obese patients usually have ↓ SVR due to parallel  adipose tissue circulation 
+- High prevalence of hypertension 
+
+**Left Ventricle**
+
+- ↑ preload =/- afterload → remodelling → LV hypertrophy (eccentric) due to inc preload, concentric with ↑ afterload
+- Fatty infiltration of ventricle 
+- Maximised Stroke volume → minimal increase available for to meet increased demand  
+- ↑Risk of LV cardiomyopathy 
+
+**Right Ventricle**
+
+- Increased Preload as per LV 
+- Increased Afterload secondary to inc PVR from chronic hypoxia due to OSA 
+- Inc Risk of LV failure  →↑ risk of RV failure 
+
+**Conduction Changes**
+
+- Fatty infiltration of myocardium and conducting system →↑risk of arrhythmias
+- ↑chest wall impedance → small voltage ECG
+- Conduction dysfunction and Ventricular hypertrophy → voltage and conduction changes 
+
+**Vascular**
+
+- ↑ Risk of thrombosis and atherosclerosis - IHD + PVD 
+- endothelial dysfunction from adipose tissue related inflammatory cytokines 
+- Hypercoagulability

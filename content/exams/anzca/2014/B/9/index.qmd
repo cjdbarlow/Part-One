@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014B Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+What lower limit of SpO2 would you [**accept**]{.task-verb} in an ASA1 young male under general anaesthesia? [**Explain**]{.task-verb} your reasons for choosing this value.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+State the lower limit you would [**accept**]{.task-verb}, then [**explain**]{.task-verb} it by connecting saturation to oxygen tension, content and delivery in the specified patient.
+
+::: {.structure-headings}
+### Definition and Normal Range of SpO2
+
+### Relationship to SaO2, PaO2 and Oxygen Content
+
+### Oxygen Delivery, Demand and Compensation
+
+### Chosen Limit: Duration, Reserve and Measurement Uncertainty
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**30 %** of candidates achieved a pass in this question
+
+To construct a good answer, this question required the candidate to integrate a number of syllabus areas.
+
+Candidates should begin with defining SpO2, and establishing a normal range. The relationships between SpO2, SaO2, p~a~O2, oxygen content and oxygen delivery should be explained, as well as the factors that affect these relationships. All proposed lower limits of acceptable SpO2 gained marks, so long as the reasoning was valid.
+
+The SpO2 that correlated with hypoxaemia was often proposed. Assorted definitions of hypoxaemia were offered. The deleterious effects of borderline hypoxaemia were often not mentioned, or overstated. Expected acute compensatory mechanisms were rarely mentioned. Duration of hypoxaemia should be considered when setting a lower acceptable limit.
+
+Terms such as “physiologic reserve” and “acute compromise” should not be used without adequate explanation.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2014/B/9/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Oxygen–haemoglobin dissociation curve](/content/resp/oxygen_storage.qmd#curve)
+- [Hypoxia](/content/resp/hypoxia.qmd)
+- [Pulse oximetry](/content/equipment/pulse_oximetry.qmd)

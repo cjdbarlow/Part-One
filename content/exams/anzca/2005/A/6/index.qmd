@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005A Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly outline**]{.task-verb} pharmacological methods of reducing gastric acidity. [**Indicate**]{.task-verb} the mechanisms of action and the advantages and disadvantages of each method.
+:::
+
+Also asked in: [2002A Question 14](/content/exams/anzca/2002/A/14/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly outline**]{.task-verb} the methods in a comparison table. [**Indicate**]{.task-verb} the mechanism, advantages and disadvantages of each, including their perioperative relevance.
+
+::: {.structure-table}
+| Feature | Mechanism | Advantages | Disadvantages |
+|---|---|---|---|
+| Antacids | | | |
+| Histamine-2 Antagonists | | | |
+| Proton Pump Inhibitors | | | |
+| Prostaglandin Analogues | | | |
+| Anticholinergic Agents | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**72 %** of candidates passed this question.
+
+This question has been asked twice previously in exactly the same words. For a pass, candidates had to address not only the aspect of the mechanism of actions of drugs to reduce gastric acidity but also the advantages and disadvantages of each method described.
+
+The methods of reduction of gastric acidity that were expected to be discussed were:
+
+- Reduction in acid production. This is via proton pump inhibition or via effects on histamine, cholinergic and prostaglandin receptors
+- Direct neutralisation of gastric acid by particulate and non-particulate antacids
+
+Whilst the definition of methods was generally well answered, candidates frequently failed to explain the mechanism of action and even more frequently, failed to address the advantages and disadvantages of each technique. Better answers explained the appropriate points clearly and addressed the relative merits of each giving valid assessment of their reliability and highlighting the less reliable or less safe techniques. It was considered that pro-kinetic agents do not reduce gastric acidity and no marks were awarded for discussion of pro-kinetic agents.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Acid Suppression](/content/pharmacopoeia/git/acid_suppression.qmd)

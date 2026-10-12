@@ -1,0 +1,90 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003B Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} how a computer-controlled infusion device targets and maintains constant blood concentrations of propofol.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Device Inputs and Pharmacokinetic Model**, **Loading Dose**, **Maintenance Infusion**, and **Changes in Target Concentration**. Use a compartment diagram and infusion-rate–time graph to connect the model to delivery.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**33%** of candidates passed this question.
+
+The main points expected for a pass were:
+
+- Device contains microprocessor with algorithms for infusion.
+- Algorithms based on multi-compartment pharmacokinetic model for propofol.
+- User enters patient’s age, weight and desired target concentration. Typical concentrations range are 1 – 8 mcg/mL depending on the situation.
+- User adjusts target according to adjuvant drugs, co-morbidities or degree of surgical stimulation.
+- Computer designs variable-rate infusion.
+- Loading dose calculated as volume of distribution of central compartment times target concentration.
+- Maintenance infusion rate includes component for redistribution and component for elimination.
+
+Additional points which attracted higher marks were:
+
+- Picture of multi-compartment model.
+- Graph of infusion rate and target concentration vs. time.
+- How the infusion rate changes if increased or decreased target entered.
+- Equation for calculation of maintenance infusion rate (redistribution and elimination).
+- The fact that the pharmacokinetic data are derived from a small group of volunteers.
+- Details of device hardware and syringes.
+- An appreciation of the fact that the “Diprifusor” calculates compartmental volumes and rate constants based on the weight of the patient and does not use the age of the patient, the clearance or the context-sensitive half-life to make its calculations.
+
+Common mistakes and problems included:
+
+- Confusion of physiological models (i.e. vessel rich and poor groups) with the mathematical models used in the current devices.
+- Confusion of targeting effect-site and blood concentrations.
+- Failure to appreciate that these devices achieve targets within 30-60 seconds without overshoot and then maintain constant concentrations. Very few graphs reflected this accurately.
+- The current devices do not measure the actual blood concentration of propofol.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Target-Controlled Infusions](/content/pharmacology/tci.qmd)
+- [Pharmacokinetic Models](/content/pharmacology/kinetic_models.qmd)

@@ -1,0 +1,93 @@
+#### List:
+
+- Intro: aims
+- Kinetics: drug, dose, distribution
+- Analgesia
+- Resp depression
+- Other side effects
+
+#### Intro:
+
++----------------------------+---------------------------------------------------------------------------+
+| Aims                       | - Surgical anaesthesia (synergistic with LA; elevates and prolongs block) |
+|                            | - Post-op analgesia (e.g. intrathecal morphine for Whipple’s procedure)   |
++----------------------------+---------------------------------------------------------------------------+
+| Mechanism of opioid action | - Activate G~i~ protein-coupled receptor                                  |
+|                            | - ↓Guanylyl cyclase activity → ↓cAMP                                      |
+|                            | - Inhibit VDCC                                                            |
+|                            | - ↑K^+^ efflux                                                            |
+|                            | - Hyperpolarisation, ↓action potential                                    |
++----------------------------+---------------------------------------------------------------------------+
+
+#### Pharmaceutics:
+
++-------------------+------------------------------------------------------------------------+
+| Preservative-free | - Must use preservative-free morphine                                  |
+|                   | - No remifentanil (glycine additive is an inhibitory neurotransmitter) |
++-------------------+------------------------------------------------------------------------+
+
+#### Pharmacokinetics:
+
++------------------------------------+--------------------------------------------------------------------------+
+| Drugs and doses                    | - Tiny dose because:                                                     |
+|                                    |   - Near effect site                                                     |
+|                                    |   - Low volume of CSF                                                    |
+|                                    |   - Relatively slow reabsorption                                         |
+|                                    | - Morphine:                                                              |
+|                                    |   - 0.5mg (range 0.2-1mg)                                                |
+|                                    |   - IT:IV potency 300:1                                                  |
+|                                    | - Fentanyl:                                                              |
+|                                    |   - 15mcg (range 10-25mg)                                                |
+|                                    |   - IT:IV potency 20:1                                                   |
+|                                    | - Other:                                                                 |
+|                                    |   - Diacetylmorphine                                                     |
+|                                    |   - Pethidine (can be a sole intrathecal agent)                          |
+|                                    |   - Sufentanil (local anaesthetic effect at high dose)                   |
++------------------------------------+--------------------------------------------------------------------------+
+| If highly lipid soluble (fentanyl) | - Rapid onset (5 mins?)                                                  |
+|                                    | - Rapid offset (1 hour?)                                                 |
+|                                    | - ↓ Effect from central spread via CSF due to faster diffusion out of it |
+|                                    | - ↑ Effect from systemic absorption                                      |
++------------------------------------+--------------------------------------------------------------------------+
+| If poorly lipid soluble (morphine) | - Slower onset (4-6 hours)                                               |
+|                                    | - Slower offset (12-24 hours                                             |
+|                                    | - ↑Effect from central spread via CSF due to slower diffusion out of it  |
+|                                    | - ↓Effect from systemic absorption                                       |
++------------------------------------+--------------------------------------------------------------------------+
+
+#### Analgesia:
+
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Spinal cord segments (++++) | - Diffuse across pia mater into dorsal horn (fentanyl fast, morphine slow)                                                                       |
+|                             | - Height ∝ dose                                                                                                                                  |
+|                             | - Pre-synaptic inhibition of 1° afferent nociceptors especially layer 2 → ↓Release of excitatory neurotransmitters (glutamate, ACh, substance P) |
+|                             | - Some post-synaptic inhibition                                                                                                                  |
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Brain (++)                  | - Circulate via CSF bulk flow due to arterial pulsation\                                                                                         |
+|                             |   (morphine yes, fentanyl minimal)                                                                                                               |
+|                             | - PAG and RVMM: inhibition of OFF cell → disinhibition of ON cell → ↑descending modulation (NAd \> 5HT) → pre-synaptic inhibition                |
+|                             | - ? Some post-synaptic inhibition                                                                                                                |
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Systemic (+)                | - Absorption via epidural venous plexus                                                                                                          |
+|                             | - Very low peak plasma concentration                                                                                                             |
+|                             | - Effect on brainstem, spinal cord, GIT, etc                                                                                                     |
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Respiratory depression:
+
++---------------------------------+---------------------------------------------------+
+| Receptors                       | - M, D                                            |
++---------------------------------+---------------------------------------------------+
+| Location                        | - Respiratory centre in the medulla               |
++---------------------------------+---------------------------------------------------+
+| Highly lipid soluble (fentanyl) | - Peak at 30 mins due to systemic absorption      |
++---------------------------------+---------------------------------------------------+
+| Poorly lipid soluble (morphine) | - Peak at 6-12 hours due to central spread of CSF |
++---------------------------------+---------------------------------------------------+
+
+#### Other side effects of neuraxial opioid:
+
+- Nausea, vomiting (chemoreceptor trigger zone mu opioid receptor)
+- Urinary retention (spinal cord)
+- Itch (unclear cause, reversed by naloxone not antihistamines)
+- Foetal bradycardia if in labour (fentanyl \> morphine)

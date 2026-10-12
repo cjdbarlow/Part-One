@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011B Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the physiological changes that may explain why an otherwise well patient may have a reduced urinary output intraoperatively
+:::
+
+Also asked in: [2015A Question 10](/content/exams/anzca/2015/A/10/index.qmd#examiner-comments), [2015B Question 8](/content/exams/anzca/2015/B/8/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} physiological changes in filtration and reabsorption in an otherwise well patient. Start with determinants of urine output, then link anaesthesia, ventilation, fasting and surgical stress to renal perfusion and hormonal responses.
+
+::: {.structure-headings}
+### Urine Output and Glomerular Filtration
+
+### Renal Perfusion and Autoregulation
+
+### Reduced Filtration Intraoperatively
+
+### Antidiuretic Hormone and Water Conservation
+
+### Renin–Angiotensin–Aldosterone and Sympathetic Responses
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**77.6%** of candidates passed this question.
+
+On the whole, this question was generally well answered. Candidates who demonstrated a clear understanding of renal physiology appropriately mentioned the determinants of urinary output, renal blood flow, glomerular filtration rate and factors affecting it, as well as the Starling's forces acting across the glomerular capillaries. Marks were awarded to candidates who recognised that surgery is a stressful "condition" which results in secretion of various stress hormones. Humoral factors, in fact, play an important role in maintaining water and sodium homeostasis but some candidates failed to even mention the hormones in this setting.
+
+The commonest mistake was the assumption that a reduction in urinary output is ONLY a reflection of a reduction in blood pressure. In reality, physiological processes that serve to conserve water and sodium are already in place even prior to any noticable drop in blood pressure. This is because osmoreceptors in the anterior hypothalamus are very sensitive to the plasma osmolality and a change as little as 1% due to a fasting state will cause increased antidiuretic hormone secretion. This results in a concentrated urine with a low volume.
+
+Extra marks were given to candidates who were able to explain in detail the actions of ADH and other hormones such as the renin-angiotensin-aldosterone system. However, an extensive list of plausible causes of hypotension does not translate to an outline of physiological changes that result in reduced urinary output.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2011/B/15/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2011/B/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Renal blood flow](/content/renal/rbf.qmd)
+- [Glomerular filtration](/content/renal/glomerular_filtration.qmd)
+- [Renal endocrine functions](/content/renal/endocrine.qmd)

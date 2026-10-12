@@ -1,0 +1,31 @@
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Diagramme        | ![](/content/exams/anzca/1999/B/7/prize-image001.jpg){fig-alt="Clark oxygen electrode showing the silver anode, platinum cathode, electrolyte, membrane and measuring circuit"} |
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Components       | - Silver anode                                                                                                                                                                  |
+|                  | - Platinum cathode                                                                                                                                                              |
+|                  | - KCl salt bridge                                                                                                                                                               |
+|                  | - 0.6V power source                                                                                                                                                             |
+|                  | - Ammeter                                                                                                                                                                       |
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Reactions        | - Anode: 4 x (Ag + Cl → AgCl + e^-^)                                                                                                                                            |
+|                  | - Electrolyte: 4 x (KCl + OH^-^ → KOH + Cl^-^)                                                                                                                                  |
+|                  | - Cathode: O~2~ + 2H~2~O + 4e^-^ → 4OH^-^                                                                                                                                       |
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| How does it work | - O~2~ diffuses down concentration gradient across the plastic membrane into the salt bath                                                                                      |
+|                  | - O~2~ is consumed at the cathode                                                                                                                                               |
+|                  | - Hence PaO~2~ ∝ current                                                                                                                                                        |
+|                  | - Accuracy ±2mmHg. Delay in analysis may cause reduction in pO~2~.                                                                                                              |
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Sources of error | - Non-linear relationship between pO~2~ and potential difference                                                                                                                |
+|                  |   - But almost linear at 0.6V                                                                                                                                                   |
+|                  | - Non-linear relationship between potential difference and current                                                                                                              |
+|                  |   - But almost linear at 0.6V                                                                                                                                                   |
+|                  | - ↑temp → ↑rate of reactions → false ↑                                                                                                                                          |
+|                  |   - Hence temp control to within 0.1°C                                                                                                                                          |
+|                  | - Inaccuracy with time and use                                                                                                                                                  |
+|                  |   - Hence regular two point calibration with pO~2~ 660mmHg and 160mmHg                                                                                                          |
+|                  | - Blockage of the membrane with blood components → falsely low result                                                                                                           |
+|                  |   - Hence keep clean                                                                                                                                                            |
+|                  | - Delay in sampling → consumption → ↓pO~2~                                                                                                                                      |
+|                  |   - Hence cool with ice, process immediately                                                                                                                                    |
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+

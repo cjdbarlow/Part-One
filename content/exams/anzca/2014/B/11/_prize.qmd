@@ -1,0 +1,129 @@
+#### List:
+
+- Intro
+- Heart
+- Vasculature
+- Haemodynamics
+- Electrics
+
+#### Intro:
+
++--------------------+-----------------------------------------------------------------+
+| Morbid obesity     | - BMI \>35kg/m^2^                                               |
++--------------------+-----------------------------------------------------------------+
+| Cause of changes   | - ↑Fat mass                                                     |
+|                    | - ↑Lean mass → ↑Metabolic rate                                  |
+|                    | - ↑Blood volume                                                 |
+|                    | - Neurohormonal changes (adipokines, SNS)                       |
+|                    | - Comorbidities                                                 |
++--------------------+-----------------------------------------------------------------+
+| Summary of effects | - Decreased reserve                                             |
+|                    |   - High LVEDP and near-maximal SV at rest                      |
+|                    |   - Increase in cardiac output mainly by increase in heart rate |
+|                    |   - Poor tolerance of exercise, post-op SIRS, excess IV fluid   |
+|                    |   - Risk of LV failure independent of cardiomyopathy            |
+|                    | - Increased risk of multiple diseases                           |
+|                    |   - Atherosclerosis                                             |
+|                    |   - Sleep-disordered breathing                                  |
++--------------------+-----------------------------------------------------------------+
+
+#### Heart:
+
++----------------+----------------------------------------------------------------------------------+
+| LV hypertrophy | - Present in 80%                                                                 |
+|                | - Eccentric: ↑blood volume → preload                                             |
+|                | - Concentric: only if ↑SVR                                                       |
+|                | - Cause: leptin, angiotensin 2, resistin, SNS                                    |
+|                |                                                                                  |
+|                |    → ↓Compliance → ↑filling pressure                                             |
+|                |                                                                                  |
+|                |    → Risk of type 2 AMI                                                          |
++----------------+----------------------------------------------------------------------------------+
+| LV dysfunction | - Multiple types of cardiomyopathy possible:                                     |
+|                |   - Volume-overloaded → eccentric                                                |
+|                |   - Obesity-induced (fat infiltration, fibrosis)                                 |
+|                |   - Ischaemic (TNFα, IL-6 → atherosclerosis)                                     |
+|                |   - Hypertensive (angiotensin 2 → ↑SVR)                                          |
++----------------+----------------------------------------------------------------------------------+
+| RV hypertrophy | - Present in 30%                                                                 |
+|                | - Cause: PHTN (e.g. sleep-disordered breathing, leptin, angiotensin 2, resistin) |
++----------------+----------------------------------------------------------------------------------+
+| RV dysfunction | - Causes: sleep-disordered breathing → cor pulmonale, congestive heart failure   |
+|                |                                                                                  |
+|                |    → Poorly tolerate ↓PaO~2~, ↑PaCO~2~, ↓pH                                      |
++----------------+----------------------------------------------------------------------------------+
+
+#### Vasculature:
+
++--------------------+------------------------------------------------------------------------------------------+
+| Hypervolaemia      | - ↑Lean mass → ↑VO~2~ → secondary polycythaemia                                          |
+|                    | - ↑Angiotensin 2, aldosterone, ↓ANP → ↑Na^+^/H~2~O reabsorption → ↑ECF and plasma volume |
+|                    |                                                                                          |
+|                    |    → Absolute blood vol ↑                                                                |
+|                    |                                                                                          |
+|                    |    → Relative blood vol ↓(approx. 45mL/kg)                                               |
++--------------------+------------------------------------------------------------------------------------------+
+| Atherosclerosis    | - TNFα, IL-6 → metabolic syndrome, T2DM → ↑rate atherosclerosis                          |
+|                    |                                                                                          |
+|                    |    → ↑risk AMI, stroke peri-op                                                           |
++--------------------+------------------------------------------------------------------------------------------+
+| Hypercoagulability | - Inflammatory, procoag state: ↑TNFα, IL-6, PAI-1                                        |
+|                    |                                                                                          |
+|                    |    → ↑risk VTE peri-op                                                                   |
+|                    |                                                                                          |
+|                    |    → ↑risk AMI, stroke peri-op                                                           |
++--------------------+------------------------------------------------------------------------------------------+
+
+#### Haemodynamics:
+
++----------------+-----------------------------------------------------------------+
+| Cardiac output | - ↔ HR                                                          |
+|                | - ↑SV and CO                                                    |
+|                |   - ↑Lean mass → ↑VO~2~                                         |
+|                |   - ↑Blood volume –\> ↑preload                                  |
+|                |   - ↑SNS → ↑contractility                                       |
+|                |                                                                 |
+|                |    → Minimal change cardiac index                               |
+|                |                                                                 |
+|                |    → ↑MVO~2~                                                    |
+|                |                                                                 |
+|                |    → ↑risk of ischaemia                                         |
++----------------+-----------------------------------------------------------------+
+| SVR            | Variable:                                                       |
+|                |                                                                 |
+|                | - ↓SVR: ↑lean and fat mass → addition of parallel circuits      |
+|                | - ↑SVR: angiotensin 2                                           |
++----------------+-----------------------------------------------------------------+
+| mAP            | Variable                                                        |
+|                |                                                                 |
+|                | - ↔: the case in simple obesity                                 |
+|                | - ↑: if ↑SVR                                                    |
++----------------+-----------------------------------------------------------------+
+| PVR            | - Sleep-disordered breathing → chronic ↓PaO~2~, ↑PaCO~2~ → ↑PVR |
+|                |                                                                 |
+|                |    → Poorly tolerate further ↓PaO~2~, ↑PaCO~2~, ↓pH             |
+|                |                                                                 |
+|                |    → Risk RV failure                                            |
++----------------+-----------------------------------------------------------------+
+
+#### ECG:
+
++------------------------+-------------------------------------------------------------+
+| Simple obesity         | Cause: horizontal displacement by visceral fat              |
+|                        |                                                             |
+|                        | - Low voltage                                               |
+|                        | - Left axis deviation of P, QRS and T waves                 |
+|                        | - Flat T waves inferolaterally                              |
++------------------------+-------------------------------------------------------------+
+| Obesity cardiomyopathy | Cause: fatty infiltration, fibrosis, lipotoxicity           |
+|                        |                                                             |
+|                        | - Prolonged QT interval                                     |
+|                        | - AV block                                                  |
+|                        | - Bundle branch block                                       |
+|                        |                                                             |
+|                        |    → Risk of AV block including third degree, trifascicular |
++------------------------+-------------------------------------------------------------+
+| Common pathology       | - AF: absent P wave, wandering baseline                     |
+|                        | - Ischaemia: ST↑↓, TWI, pathological Q waves                |
+|                        | - Cor pulmonale (OSA, OHS): LAD, RBBB, small voltage        |
++------------------------+-------------------------------------------------------------+

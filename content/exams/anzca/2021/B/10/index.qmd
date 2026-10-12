@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2021B Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} possible causes for the PaCO2 differing from the ETCO2 in an anaesthetised, intubated patient on IPPV.
+:::
+
+Also asked in: [2020A Question 3](/content/exams/anzca/2020/A/3/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} each cause by stating the direction of the difference and explaining its mechanism. Begin with normal values and alveolar dead space during IPPV, then separate incomplete emptying from measurement and sampling problems.
+
+::: {.structure-headings}
+### Normal Values and Alveolar Dead Space
+
+### Causes of Alveolar Dead Space During IPPV
+
+### Unequal Time Constants and Incomplete Emptying
+
+### Measurement and Calibration Errors
+
+### Sampling and Entrained Gas
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+No examiner report was supplied for this sitting.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2020/A/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Dead space](/content/resp/dead_space.qmd)

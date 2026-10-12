@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010B Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the composition of 4% albumin and Normal Saline. [**Compare and contrast**]{.task-verb} the pharmacology of each.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Composition**, then [**compare and contrast**]{.task-verb} the fluids in a pharmacology table.
+
+::: {.structure-table}
+| Feature | 4% Albumin | Normal Saline |
+|---|---|---|
+| Composition | | |
+| Distribution | | |
+| Oncotic and Volume Effects | | |
+| Adverse Effects | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**67%** of candidates passed this question.
+
+Candidates are reminded that where a question is asked in two parts, as with this one, it is best to answer it clearly in two parts. Most candidates were able to describe the composition of normal saline, although some added other molecules such as potassium and calcium to the mixture, and of albumin. Albumin also contains a reasonable about of sodium chloride, which was often neglected.
+
+Most answers correctly demonstrated an understanding of the distribution of normal saline between the intravascular and extra cellular compartments, and of the oncotic effects of albumin. Although albumin is a product derived from human plasma, it is treated heating to 60 degrees C for 10 hours, thus virtually eliminating the risk of transmission of disease.
+
+Extra marks were gained by giving details about the mechanism of hyperchloraemic acidosis seen with infusion of large volumes of sodium chloride.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Intravenous Fluids](/content/pharmacopoeia/renal/intravenous_fluids.qmd)

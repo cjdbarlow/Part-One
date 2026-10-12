@@ -1,0 +1,83 @@
+#### List:
+
+- Foetal circulation summary
+- Foetal circulation adaptations
+- Physical changes at birth
+- Circulatory changes at birth
+- Neonatal circulation: normal and reversion
+
+#### Foetal circulation summary:
+
+- Placenta allows exchange of gases, nutrient, waste product
+- Lungs are dormant
+- Massive R→L shunt
+- R and L circulations mostly in parallel, not in series
+
+#### Foetal circulation adaptations:
+
++-----------------------------+-----------------------------------------------------+-----------------------------------------------------------+
+|                             | **Location/path**                                   | **Function**                                              |
++=============================+=====================================================+===========================================================+
+| Umbilical arteries (UA) x 2 | From internal iliac arteries to placenta            |                                                           |
++-----------------------------+-----------------------------------------------------+-----------------------------------------------------------+
+| Umbilical vein (UV) x 1     | From placenta to IVC and liver                      |                                                           |
++-----------------------------+-----------------------------------------------------+-----------------------------------------------------------+
+| Ductus venosus (DV)         | From UV to IVC                                      | Allows 50% DV blood to bypass liver                       |
+|                             |                                                     |                                                           |
+|                             | Near confluence of UV and left portal vein          |                                                           |
++-----------------------------+-----------------------------------------------------+-----------------------------------------------------------+
+| Foramen ovale (FO)          | Hole between left atrium (LA) and right atrium (RA) | 60% IVC blood guided by Eustachian valve across FO to LA. |
+|                             |                                                     |                                                           |
+|                             |                                                     | Brain receives most oxygenated blood                      |
++-----------------------------+-----------------------------------------------------+-----------------------------------------------------------+
+| Ductus arteriosus (DA)      | Between main pulmonary artery and aortic arch       | Allow 90% RV output to bypass lungs                       |
++-----------------------------+-----------------------------------------------------+-----------------------------------------------------------+
+
+#### Physical changes at birth:
+
++---------------+-------------------------------------------------------------------------+
+| Breathing     | - Aeration of alveoli, ↑PAO2, ↑PaO2                                     |
+|               | - ↓HPV, ↓PVR                                                            |
++---------------+-------------------------------------------------------------------------+
+| Cord clamping | - Physical clamp and hypothermia-induced contraction of Wharton’s jelly |
+|               | - ↑↑SVR and loss of maternal prostaglandins                             |
++---------------+-------------------------------------------------------------------------+
+
+#### Circulatory changes at birth:
+
++----+-------------------------------+-------------------------------+
+|    | **Functional closure**        | **Permanent closure**         |
++====+===============================+===============================+
+| UA | Minutes                       | Days                          |
+|    |                               |                               |
+|    | (Clamp, WJ contract, ↑PaO~2~) | (Fibrosis)                    |
++----+-------------------------------+-------------------------------+
+| UV | Hours                         | 3-10 days                     |
+|    |                               |                               |
+|    | (Clamp, WJ contract)          | (Fibrosis)                    |
++----+-------------------------------+-------------------------------+
+| DV | Hours                         | 3-10 days                     |
+|    |                               |                               |
+|    | (Stasis)                      | (Fibrosis → ligamentum teres) |
++----+-------------------------------+-------------------------------+
+| FO | Minutes, when RAP = LAP       | 4-6/52                        |
+|    |                               |                               |
+|    | (↓PVR/RAP, ↑SVR/LAP)          | (Fibrosis)                    |
++----+-------------------------------+-------------------------------+
+| DA | 12-24 hours                   | 2-3/52                        |
+|    |                               |                               |
+|    | (↑PaO~2~, ↓PG)                | (Fibrosis)                    |
++----+-------------------------------+-------------------------------+
+
+#### Neonatal circulation:
+
++---------------------------------+------------------------------------------------------------+
+| Normal parameters               | - HR 120-160 (cf. 60-90 in adult)                          |
+|                                 | - SV fixed                                                 |
+|                                 | - CO 280mL/kg/min (cf. 70 in adult)                        |
+|                                 | - SBP 70-90mmHg (cf. 120mmHg adult)                        |
+|                                 | - Physiological shunt 20% (cf. 7% in adult)                |
++---------------------------------+------------------------------------------------------------+
+| Reversion to foetal circulation | - ↓PaO~2~ → re-open DA                                     |
+|                                 | - ↓PaO~2~, ↑PaCO~2~, ↓pH, ↓temp → ↑PVR → ↑RAP → re-open FO |
++---------------------------------+------------------------------------------------------------+

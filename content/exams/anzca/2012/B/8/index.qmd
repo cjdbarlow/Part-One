@@ -1,0 +1,67 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012B Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Classify**]{.task-verb} the toxic effects of local anaesthetic drugs. [**Detail**]{.task-verb} the potential for, and mechanisms of, toxicity of prilocaine.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Classify**]{.task-verb} **Local**, **Systemic**, and **Other Toxic Effects**. Then [**detail**]{.task-verb} **Potential for Prilocaine Toxicity** and **Mechanisms of Toxicity**, relating dose, concentration, administration site and patient factors to the risks.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**41%** of candidates passed this question. A classification of local, systemic and other was often used. Using an ester/amide classification was acceptable, but candidates then often struggled to give good examples when this template was used. Using multiple examples helped candidates score well.
+
+The potential for toxicity portion of the question was often poorly done. While methaemoglobinaemia was often described well, simple discussion regarding dose, concentration, site of administration, use of additives and the effect of physiological and pathological states was often neglected. Candidates that could directly discuss mechanisms of toxicity on different organ systems scored well.
+
+Discussions of CC/CVS ratio seemed to sidetrack candidates from answering the individual components of the question. Presenting pharmacokinetic data without outlining how this was related to toxicity was not required.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Local Anaesthetic Agents](/content/pharmacopoeia/neuro/local_anaesthetics.qmd)
+- [Local Anaesthetics](/content/pharmacopoeia/neuro/local_anaesthetic_principles.qmd)

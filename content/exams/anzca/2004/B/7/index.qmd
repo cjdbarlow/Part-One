@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004B Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the factors which influence the elimination half-life of propofol.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} elimination half-life using its definition and mathematical determinants. Apply changes in clearance and steady-state volume of distribution to propofol, keeping elimination separate from recovery and context-sensitive half-time.
+
+::: {.structure-headings}
+### Definition, Equation and Propofol Values
+
+### Hepatic and Extrahepatic Clearance
+
+### Volume of Distribution at Steady State
+
+### Patient Factors, Temperature and Critical Illness
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**29%** of candidates passed this question.
+
+This question focused on the application of pharmacokinetics principles to the systemic elimination of propofol. Therefore, candidates were expected to provide a definition of the determinants of elimination half-life and its mathematical model with factual data representative of propofol. Factors that affected hepatic clearance of propofol in particular liver blood flow, severe liver disease, drugs and age should have been mentioned. Enzymatic activity has little influence in the face of the high hepatic extraction ratio of propofol. Similarly, factors affecting volume of distribution at steady state like body fat content should have been mentioned. Many candidates presented irrelevant information such as indications, comparative kinetics with thiopentone and lengthy description of propofol kinetics by infusion.
+
+Candidates who mentioned the effects of individual patient variability, hypothermia and critical illness on elimination half-life gained extra marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2004/B/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Propofol](/content/pharmacopoeia/neuro/propofol.qmd)

@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018B Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the physiological role of prostaglandins on smooth muscle throughout the body.
+:::
+
+Also asked in: [2016A Question 14](/content/exams/anzca/2016/A/14/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} effects by smooth muscle group, naming the prostaglandin and the direction of response. Introduce local signalling and receptor diversity to explain opposing effects between mediators and tissues.
+
+::: {.structure-headings}
+### Synthesis and Local Signalling
+
+### Vascular and Renovascular Smooth Muscle
+
+### Pulmonary Vessels and Airways
+
+### Gastrointestinal Smooth Muscle
+
+### Uterine and Urinary Smooth Muscle
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**61%** of candidates achieved a pass in this question
+
+To pass this question, candidates were expected to describe the common prostaglandins produced, demonstrate an understanding of the diverse nature of prostaglandins in the body and explore the fact that different prostaglandins can have varying, at times opposite effects in the different muscle groups.
+
+Better answers demonstrated an understanding of the autocrine (production at site of requirement, and short half-life) nature of prostaglandins, were able to name some of the receptors involved and were able to explain the different sensitivity seen (e.g. uterine smooth muscle response varies with phase of menstrual cycle and pregnancy). Muscle groups of interest included vascular smooth muscle, pulmonary and bronchial vasculature, gastrointestinal tract and those in the genitourinary systems, especially the uterus.
+
+Many candidates included irrelevant details, such as nociceptive effect, inflammatory function and gastric acid secretion as part of their answer.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2016/A/14/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2016/A/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Eicosanoids](/content/endo/prostaglandins.qmd)

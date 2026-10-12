@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008B Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the ideal properties of a colloid intravenous fluid. [**Give examples**]{.task-verb} of colloids and [**briefly describe**]{.task-verb} the features of each.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} ideal physicochemical and clinical properties. [**Give examples**]{.task-verb} from the four principal classes and [**briefly describe**]{.task-verb} composition, distribution, duration, elimination and risks.
+
+::: {.structure-headings}
+### Ideal Properties
+
+### Albumin
+
+### Gelatins
+
+### Starches
+
+### Dextrans
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**41%** of candidates passed this question.
+
+Few candidates were able to describe the ideal properties of a colloid in adequate detail and frequently made statements that implied a lack of understanding about the fundamental properties of a colloid as opposed to a crystalloid. A significant number of candidates only managed to mention two or three of the four main classes, namely polygelines, starches, dextrans and albumin. Descriptions of their features were often vague and imprecise, with a poor understanding of what sort of molecules they are, where they distribute in the body, their duration of action, their elimination and risks or side effects of their use.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2008/B/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Intravenous fluids](/content/pharmacopoeia/renal/intravenous_fluids.qmd)

@@ -1,0 +1,65 @@
+#### \*\*Similar to and answered as ‘Describe how morbid obesity might affect washout after inhalational  anaesthesia’
+
+Morbid Obesity is defined as a BMI \>35kg/m2 
+
+Morbid obesity results in the following changes relevant to Volatile anaesthetic washout 
+
+- ↑Lean body mass (20% of increase)
+- ↑Adipose Tissue (80% of Increase
+- CVS changes: ↑Blood Volume; ↑Cardiac Output
+- Respiratory changes: ↓FRV; ↑MV; ↓respiratory system compliance
+
+Modelling of Inhalation Anaesthetic Agent compartment uptake follows a 5 compartment model: 
+
+![](/content/exams/anzca/2015/B/5/standard-image15.png){fig-alt="Five-compartment inhalational anaesthetic model"}
+
+V1 rapidly (minutes) equilibrates with blood but has low capacity 
+
+V2 has moderate (hours) time to equilibration moderate capacity
+
+V3-5 slow (days) time to equilibration but high capacity - usually minimal uptake in most anaesthesia 
+
+**Washout**
+
+Washout of inhalation anaesthetic agent is dependent on establishing and maintaining a decreasing concentration gradient from compartment → blood → alveolus → circuit.  
+
+Washout is a multi-exponential process graphed by FA/FA0 curve
+
+![](/content/exams/anzca/2015/B/5/standard-image16.png){fig-alt="Washout curves comparing normal and obese patients"}
+
+Phases:
+
+1.  **Rapid washout of agent from Circuit and FRC**
+
+    - Circuit wash out dependant on FGF and circuit volume, t=CV/FGF
+    - FRC washout dependant on MV and FRC volume t=FRC/MV
+
+2.  **Washout from blood to alveolus:**
+
+    ↑CO → lower ΔP across alveolar membrane → slower washout
+
+    ↓Blood:gas partition coefficient →↑ agent ΔP across alveolar membrane → Rapid washout
+
+3.  **Washout form Compartments → Blood**
+
+    - Duration of Anaesthesia: ↑ Duration →↑uptake into body compartments → slower washout
+    - Final end-tidal partial pressure of agent: ↑final concentration → increased tissue concentration → slower washout 
+    - O:G partition coefficient: Highly lipid soluble agents with have will have an increased amount of drug dissolved in tissue, so a large reservoir of drug exists that will have to be removed.
+
+**Specific Changes with Obesity:**
+
+↑CO → slower washout 
+
+↑ Blood Volume → Slower washout as larger V1
+
+↓FRC → Faster washout 
+
+↑ Compartment volumes (V2-5 compartments) → Slower washout 
+
+↑V2 → variable result, may ↑time to awakening in short case due to redistribution but overall slower terminal elimination washout due to increased amount absorbed  
+
+Terminal elimination additionally affected by:
+
+↑Risk of OSA → reduced MV 
+
+↓FRC → may be closer to closing capacity → gas trapping and sewer washout

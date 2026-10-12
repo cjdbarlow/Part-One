@@ -1,0 +1,85 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013B Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+Using cephazolin as an example in joint replacement surgery, [**outline**]{.task-verb} the principles of antibiotic chemoprophylaxis for surgical site infections.
+:::
+
+Also asked in: [2019A Question 13](/content/exams/anzca/2019/A/13/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} each principle, then apply it to cephazolin in joint replacement surgery.
+
+::: {.structure-headings}
+### Indication and Likely Organisms
+
+### Antibiotic Selection
+
+### Timing, Dose and Tissue Concentration
+
+### Repeat Dosing and Duration
+
+### Adverse Effects and Resistance
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**28%** of candidates achieved a pass in this question
+
+Good answers started with the principles and then explained how cephazolin was an appropriate choice for antibiotic chemoprophylaxis for joint replacement.
+
+The principles included discussion on the bacteria that the antibiotic is trying to prevent infection from (mainly gram positive skin commensals for a joint replacement), noting that this was not treatment for an established infection. Good answers also described the need to alter the antibiotic if the patient had established or was at risk for methicillin resistant staphlococcus.
+
+Many candidates did not know cephazolin is a first generation cephalosporin with good bactericidal effect on gram positive cocci. Better candidates explained how prevention was not necessary for all “clean” surgery but circumstances such as implants having high morbidity from infection had led to the guidelines for prevention. The appropriate timing and dosage of the antibiotic for optimal tissue penetration prior to skin incision, the duration of therapeutic effect and the requirements to repeat the dose if the surgery is prolonged were important concepts to explain. Also relevant was the need to limit the development of resistance by selection of the antibiotic and not prolonging its use. Antibiotics chosen for prophylaxis need to have a high therapeutic index and minimal side effects. Cost should be low.
+
+Please note that loose terminology such as “bugs” and “orthopods” are not of an acceptable standard for this written examination.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/B/9/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/B/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Antibiotic resistance](/content/micro/resistance.qmd)
+- [Bacteria](/content/micro/bacteria.qmd)

@@ -1,0 +1,93 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001B Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the physiological processes involved in the development of interstitial oedema.
+:::
+
+Also asked in: [2004B Question 16](/content/exams/anzca/2004/B/16/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} oedema as an imbalance between filtration and lymphatic removal. Use Starling variables to organise mechanisms and explain how rising interstitial pressure limits further accumulation.
+
+::: {.structure-headings}
+### Definition and Fluid Balance
+
+### Hydrostatic and Oncotic Pressure Changes
+
+### Permeability, Surface Area and Reflection Coefficient
+
+### Lymphatic Drainage
+
+### Interstitial Changes Limiting Oedema
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The pass rate for this question was **46%**.
+
+Interstitial oedema occurs when the volume of fluid leaving the capillaries and entering the interstitial space is increased, and/or the lymphatic drainage is reduced, and/or the total ECF volume is increased. Many candidates discussed only the Starling forces acting across the capillary and failed to mention the role of impaired lymphatics. No candidate mentioned the effect of increasing total ECF volume.
+
+To achieve a pass, candidates were expected to include in their answer
+
+- Starling’s equation (or the main components of the equation), with approximate normal values
+- Examples of causes of raised capillary hydrostatic pressure, reduced plasma oncotic pressure, increased permeability, and/or decreased reflection coefficient;
+- The role of lymphatics with an example of impaired function.
+
+Additional marks were awarded for including the following points: explaining the concept of oncotic pressure (ie osmotic pressure due to non-diffusable particles); giving examples of reduced interstitial hydrostatic pressure leading to oedema (e.g. negative pressure pulmonary oedema); explaining that the pressure and permeability vary between capillary beds; indicating that hydrostatic pressure can increase by venoconstriction or arteriolar dilation; mentioning that protein leak into interstitium increases π~i~, thus favouring water movement.
+
+Common mistakes made were:
+
+- 60% of candidates stated that increased blood pressure leads to increased capillary pressure. However, this is not alway the case, because most of the pressure drop in the arterial circulation occurs before the capillaries. In fact, arteriolar dilation increases capillary pressure. This reflects a basic misunderstanding of the nature of pressure drops along the circulation.
+- Many candidates stated that oedema occurs when net filtration exceeds net reabsorption in the capillary, whereas this occurs in many capillary beds without formation of oedema.
+
+A few candidates restricted their answer to pulmonary oedema, but they were not penalized if the other required information was present. No candidate mentioned that oedema may be localized or generalized.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2001/B/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Starling forces](/content/cvs/starling_forces.qmd)

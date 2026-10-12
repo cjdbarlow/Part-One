@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006A Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the possible mechanisms for prolonged neuromuscular blockade after a four hour procedure using a non-depolarising muscle relaxant.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} **Overdose**, **Pharmacokinetic Factors**, and **Pharmacodynamic Factors**. Relate dose accumulation, temperature, organ function, interacting drugs and neuromuscular conditions to the four-hour procedure.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**34 %** of candidates passed this question.
+
+The main mechanisms expected to be addressed were:
+
+- Overdose
+- Pharmacokinetic; hypothermia, hepatic failure, renal failure
+- Pharmacodynamic
+    - drug interactions (e.g. volatiles, antibiotics)
+    - physiological disturbance (hypothermia, acidosis, electrolyte abnormalities)
+    - neuromuscular abnormality ( e.g. myaesthenia gravis)
+
+Candidates were asked to "Explain..." the mechanisms by which the various mechanisms produced prolonged neuromuscular blockade. For example, overdosage might be produced by a dose calculation error, repeated bolus or infusion without neuromuscular monitoring, or a drug swap error with a long acting agent. The majority of candidates listed some mechanisms that could prolong neuromuscular block but frequently omitted an adequate explanation.
+
+Few answers considered the potential for a combined effect created by the clinical context of the question. A four hour case will commonly require repeated doses of neuromuscular blockers, long exposure to volatile anaesthetic agents, and may result in patient hypothermia and acidosis.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Non-Depolarising Neuromuscular Blockers](/content/pharmacopoeia/msk/non_depolarising_nmbs.qmd)
+- [Neuromuscular Monitoring](/content/equipment/neuromuscular_monitoring.qmd)

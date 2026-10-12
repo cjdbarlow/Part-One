@@ -1,0 +1,25 @@
+Morphine is a naturally occurring opiate that exerts is main influence at the MOP receptor and results in analgesia as well as common side effects including sedation, respiratory depression, meiosis and constipation.
+
+**Pain pathway and transmission:**
+
+Afferent pain fibres (A Δ and C) carry stimuli from peripheral nociceptors to the dorsal grey horn of the spinal cord where they release Substance P which acts on NK1 receptors of second order neurones which carry impulses via the spinothalamic tract and spinoreticular tracts to the brain.
+
+**Supra spinal MOP**
+
+Descending inhibitory neurones /pathways arise from periaqueductal grey matter in the midbrain and rostral ventral medulla.
+
+Descending neurones release Serotonin and Noradrenaline
+
+→ inhibition of substance P realise
+
+→ stimulates interneuron enkephalin release → Opioid receptors
+
+Morphine → MOP agonism →   Inhibition of 'ON' Cell → ↑ 'OFF' cell impulses →  ↑ Descending pathway inhibition of pain transmission
+
+**Spinal MOP**
+
+Morphine act on Mu (MOP), Kappa (KOP) and Delta (DOP) G inhibitory protein coupled opioid receptors →↓cAMP → ↓pKa
+
+→Presynaptically inhibits voltage gated Ca2+ channels →↓neurotransmitter release
+
+→Postsynaptically→↑K+ efflux → hyperpolarisation → decreased neural transmission

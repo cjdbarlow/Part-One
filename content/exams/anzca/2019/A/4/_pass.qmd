@@ -1,0 +1,53 @@
+In blood, CO2 is stored as:
+
+- Bicarbonate (90%)
+- Dissolved gas
+- Carbamino compounds
+
++---------------------+----------------+--------------------------------+
+| Form                | Arterial Blood | Additional CO2 in venous blood |
++=====================+================+================================+
+| Bicarbonate         | 90%            | 60%                            |
++---------------------+----------------+--------------------------------+
+| Dissolved           | 5%             | 10%                            |
++---------------------+----------------+--------------------------------+
+| Carbamino compounds | 5%             | 30%                            |
++---------------------+----------------+--------------------------------+
+
+**Bicarbonate**:
+
+CO2 diffuses freely into erythrocytes, where it can be catalysed by carbonic anhydrase to produce Bicarbonate 
+
+CO2 + H20 → H2CO3 → H= + HCO3-
+
+H+ ions are buffered to haemoglobin
+
+HbO2 + H+ ⇔ HHb + O2
+
+Intracellular HCO3- is then exchanged with extracellular Cl- via the BAND3 membrane protein
+
+This is called the Hamburger, or Chloride Shift
+
+Chloride entering the cell draws water in along its osmotic gradient, increasing the haematocrit of venous blood relative to arterial blood
+
+**Dissolved Gas**
+
+- As per **Henry's Law**, the amount of carbon dioxide dissolved in blood is proportional to the PaCO2
+- As carbon dioxide is 20x as soluble as oxygen in water, dissolved carbon dioxide contributes much greater proportion of carbon dioxide *content* than dissolved oxygen does to oxygen content
+
+**Carbamino Compounds**
+
+- CO2 can bind directly to proteins (predominantly haemoglobin), which displaces a H+ ion:
+  - *Hb*+*CO2 *⇔*HbCOO*− +*H*
+  - The H+ ion is then buffered by predominantly haemoglobin
+    - *Hb*+*H+ *⇔*HHb*
+- Bound CO2 does not contribute to the partial pressure gradient
+- Carbamino compounds are only a small contributor to overall CO2 carriage, but contribute about one third of the arterio-venous CO2 difference due to the **Haldane effect**
+
+> The Haldane effect states that deoxyhaemoglobin binds CO2 more effectively than oxyhaemoglobin. This is because:
+
+- Deoxyhaemoglobin is a **better buffer** of **H+**\
+  pKa of deoxyhaemoglobin is 8.2, compared to that of oxyhaemoglobin which is 6.6.
+  - Enhanced buffering contributes \~30% of the Haldane effect
+- Deoxyhaemoglobin forms carbamino compounds more easily Deoxy-[**Hb**](http://www.partone.lifeinthefastlane.com/GLOSSARY.html#hb) has 3.5x the affinity for CO2than Oxy-[**Hb**](http://www.partone.lifeinthefastlane.com/GLOSSARY.html#hb).
+  - This forms \~70% of the Haldane effect

@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015A Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the determinants of venous return and the effect general anaesthesia would have on these.
+:::
+
+Also asked in: [2007A Question 13](/content/exams/anzca/2007/A/13/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} venous return using its pressure–resistance relationship and a labelled curve. Explain determinants of mean systemic filling pressure, right atrial pressure and resistance, placing the effects of anaesthesia alongside each.
+
+::: {.structure-headings}
+### Equation and Venous Return Curve
+
+### Mean Systemic Filling Pressure
+
+### Right Atrial Pressure
+
+### Resistance to Venous Return
+
+### Effects of General Anaesthesia and Ventilation
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**43.8 %** of candidates achieved a pass in this question
+
+Better organised answers tended to recognize that the question was in two parts and therefore explained the physiological determinants of venous return first. Candidates used these principles to discuss how pharmacological agents, positioning, surgical interventions, e.g. pnuemoperitoneum, and positive pressure ventilation altered the volume of blood returning to the right atrium per unit time. Many candidates did not recognize that stroke volume per se is not a determinant of venous return and that cardiac output although linked and interdependent is also not a direct determinant of venous return.
+
+A pictorial representation of the venous return vs. right atrial pressure curve was useful to demonstrate changes in venous resistance and mean systemic filling pressure and, when drawn and labeled correctly, this gained extra marks.
+
+Although presented differently, all the reading list physiology texts provide good summaries of this area of physiology, and marks were awarded for any of the reading text interpretations.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2007/A/13/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/A/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Venous return](/content/cvs/venous_return.qmd)

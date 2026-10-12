@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2017A Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the potential adverse effects of suxamethonium.
+:::
+
+Also asked in: [2019B Question 1](/content/exams/anzca/2019/B/1/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} the adverse effects directly, giving each its mechanism, relevant predispositions and clinical significance. Organise severe reactions alongside neuromuscular, cardiovascular and pressure-related effects.
+
+::: {.structure-headings}
+### Prolonged Paralysis and Apnoea
+
+### Anaphylaxis and Histamine Release
+
+### Hyperkalaemia and Arrhythmias
+
+### Malignant Hyperthermia and Masseter Spasm
+
+### Myalgia and Pressure Changes
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**54.2%** of candidates achieved a pass in this question
+
+The information required to perform well in this question is readily accessible in most anaesthesia texts. The best answers mentioned most or all of the possible adverse effects with a discussion of each.
+
+This simply worded question highlighted a widespread pre-occupation with definitions and pre-defined structures falsely regarded as essential for a good mark. The best answers demonstrated a readiness to focus on delivering content that answered the question. Most responses wasted time on descriptions of suxamethonium’s general pharmacology, including indications, dosage, mechanism of action and even chemical structure. Global definitions of adverse effects without reference to suxamethonium were also off topic. Structures based on autonomic nervous system anatomy or receptor physiology appeared to distract individuals away from answering the question.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2017/A/6/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2017/A/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neuromuscular blockers](/content/msk/neuromuscular_blockers.qmd)
+- [Depolarising neuromuscular blockers](/content/pharmacopoeia/msk/depolarising_nmbs.qmd)

@@ -1,0 +1,112 @@
+#### List:
+
+- Definitions
+- Radiation
+- Convection
+- Evaporation
+- Respiration
+- Conduction
+- Heat production
+
+#### Definitions:
+
++------------------------+----------------------------------------------------------------------------+
+| Heat                   | - Form of energy                                                           |
+|                        | - Transferred from higher temp object to lower temp object                 |
+|                        | - Unit Joule = kgm^2^s^-2^                                                 |
++------------------------+----------------------------------------------------------------------------+
+| Temperature            | - Measure of the average kinetic energy of particles per degree of freedom |
+|                        | - Unit Kelvin                                                              |
++------------------------+----------------------------------------------------------------------------+
+| Specific heat capacity | - Ratio ↑heat:↑temp                                                        |
+|                        | - Unit kJ/K/kg)                                                            |
++------------------------+----------------------------------------------------------------------------+
+
+#### Radiation 40%:
+
++---------------+-----------------------------------------------------------------------------------+
+| Mechanism     | - Transfer of heat between bodies by EMR                                          |
+|               | - Bidirectional                                                                   |
+|               | - Contact not required                                                            |
+|               | - ∝ (T~1~)^4^ – (T~2~)^4^   (T in Kelvin)                                         |
+|               | - e.g. patient \<-\> wall                                                         |
++---------------+-----------------------------------------------------------------------------------+
+| Reduce loss   | - Vasoconstriction → ↓skin temp (↓T~1~) (impaired under GA)                       |
+|               | - Insulation e.g. blanket                                                         |
+|               | - Pre-warming of operating theatre (↑T~2~)                                        |
++---------------+-----------------------------------------------------------------------------------+
+| Increase gain | - Radiator above the neonatal resuscitation trolley → invert temperature gradient |
++---------------+-----------------------------------------------------------------------------------+
+
+#### Convection 30%:
+
++---------------+----------------------------------------------------------------+
+| Mechanism     | - Transfer of heat away from a body by motion of a fluid       |
+|               | - ∝T~1~-T~2~)                                                  |
+|               | - e.g. patient → surrounding air                               |
++---------------+----------------------------------------------------------------+
+| Reduce loss   | - Vasoconstriction → ↓skin temp (T~1~) (impaired under GA)     |
+|               | - Insulation e.g. blanket traps a layer of air next to patient |
++---------------+----------------------------------------------------------------+
+| Increase gain | - Forced air warmer                                            |
++---------------+----------------------------------------------------------------+
+
+#### Evaporation 15%:
+
++---------------+-----------------------------------------------------------------+
+| Mechanism     | - Due to latent heat of vaporization, 2.24MJ/kg for water       |
+|               | - Both sweating and transepidermal diffusion = insensitive loss |
+|               | - ∝ skin temp / ambient relative humidity                       |
+|               | - Does not require temperature gradient                         |
++---------------+-----------------------------------------------------------------+
+| Reduce loss   | - Vasoconstriction → ↓skin temp (impaired under GA)             |
+|               | - ↑Relative ambient humidity                                    |
++---------------+-----------------------------------------------------------------+
+| Increase gain | - Cannot!                                                       |
++---------------+-----------------------------------------------------------------+
+
+#### Respiration 10%:
+
++-------------+---------------------------------------------------------------------+
+| Mechanism   | - Cool, dry air inspired, warm moist air expired                    |
+|             | - ∝ minute ventilation                                              |
++-------------+---------------------------------------------------------------------+
+| Reduce loss | - Heat and moisture exchanger (HME)                                 |
+|             |   - Expired air cooled by HME, water vapour condenses               |
+|             |   - Inspired air warmed by HME, water evaporates                    |
+|             |   - Extends gradients for temp and humidity: lung \> HME \> circuit |
+|             |   - Hence extends countercurrent heat and moisture exchange         |
+|             | - CO~2~ absorber:                                                   |
+|             |   - CO2 + sodalime reactions produce heat and water                 |
+|             |   - Hence ↓temperature gradient, ↓humidity gradient                 |
+|             |   - Hence ↓latent heat loss                                         |
++-------------+---------------------------------------------------------------------+
+
+#### Conduction 5%
+
++-------------+------------------------------------------------------------+
+| Mechanism   | - Transfer of heat between two objects in direct contact   |
+|             | - ∝(T~1~-T~2~) x surface area x thermal conductivity       |
+|             | - e.g. patient → cold operating table                      |
++-------------+------------------------------------------------------------+
+| Reduce loss | - Vasoconstriction → ↓skin temp (T~1~) (impaired under GA) |
+|             | - Heated OT table → reverse temp gradient                  |
+|             | - Insulated material on table → ↓thermal conductivity      |
++-------------+------------------------------------------------------------+
+
+#### Heat production:
+
++----------------------+-----------------------------------------------------------+
+| Brown fat metabolism | - Uncoupling protein inserted into inner membrane         |
+|                      | - Free passage H^+^ into matrix without ATP synthesis     |
+|                      | - ↑BMR 2-3x                                               |
+|                      | - Only significant in neonates                            |
++----------------------+-----------------------------------------------------------+
+| Calorigenic hormones | - Effects of catecholamine etc. on liver, skeletal muscle |
++----------------------+-----------------------------------------------------------+
+| Shivering            | - Oscillating contraction/relaxation                      |
+|                      | - Especially truncal muscles                              |
+|                      | - ↑BMR 2-3x                                               |
+|                      | - Ablated under GA                                        |
+|                      | - Ablated by neuraxial anaesthesia below block level      |
++----------------------+-----------------------------------------------------------+

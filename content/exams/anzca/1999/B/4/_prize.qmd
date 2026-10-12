@@ -1,0 +1,91 @@
+#### List:
+
+- Intro
+- Glomerular filtration
+- Tubular reabsorption: location and hormonal control
+
+#### Intro: kidney’s regulation of body water
+
++----------------------------+---------------------------------------------------------------------+
+| Overall function           | - Control water content                                             |
+|                            | - Control water partitioning (ECF vs ICF)                           |
+|                            | - Control osmolality                                                |
++----------------------------+---------------------------------------------------------------------+
+| Summary of renal handling  | - Free glomerular filtration water (180L/day) and electrolytes      |
+|                            | - Selective tubular reabsorption                                    |
+|                            | - Urine output only \~2L/day and variably concentrated              |
++----------------------------+---------------------------------------------------------------------+
+| Precise control because of | 1. Large volume of filtrate                                         |
+|                            | 2. Hyperosmotic medullary interstitium                              |
+|                            | 3. Distinct hormonal systems for salt & water and for water alone   |
++----------------------------+---------------------------------------------------------------------+
+| Kidney’s priorities        | 1. Volume                                                           |
+|                            | 2. Tonicity                                                         |
+|                            | 3. pH                                                               |
++----------------------------+---------------------------------------------------------------------+
+
+#### Glomerular filtration:
+
++-------------+----------------------------------------------------------------------------+
+| Description | - Selective passage of water and small particles across filtration barrier |
+|             | - Normal 125mL/min (25% of renal plasma flow)                              |
++-------------+----------------------------------------------------------------------------+
+| Control     | - Effective myogenic autoregulation between mAP 70 and 170                 |
+|             | - i.e. ↓afferent arteriolar pressure → ↓stretch → reflex relaxation        |
++-------------+----------------------------------------------------------------------------+
+
+#### Tubular reabsorption: by location
+
+  ------------------------------- ------------------------ ------------------------
+                                  **Na^+^ reabsorption**   **H~2~O reabsorption**
+  Proximal tubule                 65%                      65%
+  Thin descending loop of Henle   \-                       10%
+  Thick ascending loop of Henle   25%                      \-
+  Distal tubule                   5%                       \-
+  Collecting duct                 4-5%                     5-24.7% (ADH!)
+  ------------------------------- ------------------------ ------------------------
+
+#### Tubular reabsorption: hormonal control
+
++---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ANP           | \*↓ECF volume\*                                                                                                                                       |
+|               |                                                                                                                                                       |
+|               | - Source: right atrium                                                                                                                                |
+|               | - Stimulus: distension                                                                                                                                |
+|               | - Effect:                                                                                                                                             |
+|               |   - Afferent arteriolar dilatation → ↑GFR\\                                                                                                           |
+|               |   - Inhibit NCC in distal tubule NCC and ENaC in connecting tubule and collecting duct → ↓Na^+^/H~2~O reabsorption (natriuresis)                      |
++---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ADH           | \*↑Total body water\*                                                                                                                                 |
+|               |                                                                                                                                                       |
+|               | - Synthesis: synthesized by hypothalamus, released by posterior pituitary                                                                             |
+|               | - Stimulus:                                                                                                                                           |
+|               |   - ↑Osmolality (sensitive to ∆2%)                                                                                                                    |
+|               |   - ↓Blood volume (sensitive to ∆10%)                                                                                                                 |
+|               |   - ↓mAP                                                                                                                                              |
+|               |   - Angiotensin 2                                                                                                                                     |
+|               |   - Stress                                                                                                                                            |
+|               |   - Drugs                                                                                                                                             |
+|               | - Effect:                                                                                                                                             |
+|               |   - Insertion of aquaporins into apex of collecting ducts → ↑free H~2~O reabsorption                                                                  |
+|               |   - Insertion of ureaporins into apex of medullary collecting ducts → ↑urea cycling → ↑medullary interstitial osmolality → ↑H2O reabsorptive capacity |
++---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Angiotensin 2 | \*↑ECF volume\*                                                                                                                                       |
+|               |                                                                                                                                                       |
+|               | - Stimuli for renin release: ↓afferent arteriolar pressure, ↓distal tubule NaCl flow, SNS stimulation                                                 |
+|               | - Effect:                                                                                                                                             |
+|               |   - ↑Reabsorption of Na^+^/H~2~O from proximal tubule                                                                                                 |
+|               |   - (Also stimulates ADH secretion)                                                                                                                   |
+|               | - Pathway:                                                                                                                                            |
+|               |                                                                                                                                                       |
+|               |               ![](/content/exams/anzca/1999/B/4/prize-image001.jpg){fig-alt="Renin–angiotensin pathway and stimulation of aldosterone production"}    |
++---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Aldosterone   | \*↑ECF:ICF ratio\*                                                                                                                                    |
+|               |                                                                                                                                                       |
+|               | - Effect:                                                                                                                                             |
+|               |   - Active in renal connecting tubule and collecting ducts, colon and sweat glands                                                                    |
+|               |   - ↑Na^+^K^+^ATPase synthesis and activity → ↑ENaC                                                                                                   |
+|               |   - ↑ECF \[Na^+^\]                                                                                                                                    |
+|               |   - ↑ECF osmolality → indirect stimulation of ADH release                                                                                             |
+|               | - Pathway: as above                                                                                                                                   |
++---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+

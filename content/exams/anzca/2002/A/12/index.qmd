@@ -1,0 +1,72 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002A Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the mechanism of action of non-steroidal anti-inflammatory drugs and their potential adverse effects.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} **Mechanism of Action** and **Potential Adverse Effects** as two balanced sections. Relate cyclooxygenase inhibition and relevant COX differences to therapeutic actions and organ-specific adverse effects.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The pass rate was **72%**. The "mechanism of action" and "adverse effects" parts had equal marks available. A bare pass answer in each part could have included -
+
+Mechanism of Action: The inhibition of metabolism of arachidonate by cyclooxygenase (COX) to subsequent prostaglandins, together with detail about COX-I & II differences, explaining why these might be exploited with selective COX-II inhibitors.
+
+Adverse Effects: Gastric haemorrhage, inhibition of platelet aggregation and renal impairment together with detail about how and when these occur
+
+Extra marks were given for greater detail of how the analgesic, anti-pyretic, and anti-inflammatory actions are produced and for non-COX inhibition mediated mechanisms of action. Anti-platelet actions were accepted in either part of the answer but marked only once.
+
+NSAIDs, including aspirin and paracetamol, have many other adverse effects. These include general CNS disturbances, Reye's syndrome, elevation of LFTs & hepatitis, PDA closure, inhibition of uterine contraction, displacement of plasma protein bound medications, haematopoietic problems including aplastic anaemia, and overdose toxicity of paracetamol and aspirin.
+
+Candidates frequently stated that "NSAIDs cause asthma" without further qualification. A subgroup of asthmatic patients (20% to 25% of middle-aged patients with asthma, nasal polyps, or chronic urticaria) show hypersensitivity to even small doses of aspirin, and most other NSAIDs. This is thought to be due to diversion of arachidonic acid to the 5-lipooxygenase pathway and leukotriene production. Lipooxygenase blockade appears to be effective in preventing the problem. (Goodman & Gilman 10^th^ Ed, Ch 27).
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [COX Inhibitors](/content/pharmacopoeia/analgesics/cox_inhibitors.qmd)

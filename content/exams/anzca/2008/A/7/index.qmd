@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008A Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the terms train-of-four stimulation and double burst stimulation with respect to the peripheral nerve stimulator. [**Describe**]{.task-verb} their advantages and disadvantages when used to evaluate non-depolarising neuromuscular blockade.
+:::
+
+Also asked in: [2011B Question 8](/content/exams/anzca/2011/B/8/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Train-of-Four Stimulation** and **Double Burst Stimulation** with their timing and stimulus characteristics. [**Compare**]{.task-verb} **Advantages**, **Disadvantages**, and **Interpretation During Non-Depolarising Block** in a table.
+
+::: {.structure-table}
+| Feature | Train-of-Four | Double Burst |
+|---|---|---|
+| Stimulation Pattern | | |
+| Interpretation | | |
+| Advantages | | |
+| Disadvantages | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**16%** of candidates passed this question.
+
+Candidates were expected to provide a clear description of how train-of-four (TOF) and double burst stimulation (DBS) is produced using a peripheral nerve stimulator to evaluate non-depolarising neuromuscular blockade (NDMB). A good understanding of the relationship between twitch height, TOF ratio and level of NDMB in the context of reversibility and block depth is imperative.
+
+A description of the advantages, limitations and drawbacks of using both techniques was expected to achieve a pass mark.
+
+Whilst many candidates were able to outline the principles of TOF and DBS, most failed to provide precise or correct description of important technical aspects like frequency, timing and voltage. The description of advantages and limitations were vague, patchy and fragmented and showed general lack of understanding of neuromuscular monitoring and its applied pharmacology.
+
+Good candidates were able to describe TOF correlates with receptor occupancy and provide comparison with single twitch and post tetanic count.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neuromuscular Monitoring](/content/equipment/neuromuscular_monitoring.qmd)

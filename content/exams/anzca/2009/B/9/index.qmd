@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009B Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Classify**]{.task-verb} the causes of hypotension in the early post-operative period, giving relevant examples.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Classify**]{.task-verb} causes using cardiac output and systemic vascular resistance, then divide cardiac output into preload, heart rate and contractility. Give postoperative examples and state why the fall in pressure matters.
+
+::: {.structure-headings}
+### Definition and Physiological Framework
+
+### Reduced Preload
+
+### Heart Rate and Rhythm
+
+### Reduced Contractility
+
+### Reduced Systemic Vascular Resistance
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**37%** of candidates passed this question. The minimum requirement to pass this question was to discuss the causes of hypotension and to provide at least one example relevant to the postoperative period. Most successful candidates classified the causes of hypotension by physiological mechanism (reduction in systemic vascular resistance or cardiac output). This provided a logical framework to discuss the relevant causes of reduced preload, contractility, heart rate and systemic vascular resistance. Provided that these areas were covered adequately, those candidates who provided a clinical classification of the causes of postoperative hypotension were also successful.
+
+Few candidates correctly defined hypotension as a 20% fall in the patient’s mean or systolic blood pressure or commented on its significance. Detailed descriptions of differing clinical situations producing hypotension by the same mechanism (eg. causes of hypovolaemia) did not attract extra marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2009/B/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Determinants of cardiac output](/content/cvs/co_determinants.qmd)
+- [Blood pressure variations](/content/cvs/bp_variations.qmd)

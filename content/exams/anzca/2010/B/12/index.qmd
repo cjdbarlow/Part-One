@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010B Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the function of the muscles involved in ventilation.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the principal and accessory muscles through their mechanical actions on thoracic volume and pressure. Separate quiet and active inspiration and expiration, then mention airway patency, posture and non-ventilatory functions.
+
+::: {.structure-headings}
+### Diaphragm and Quiet Inspiration
+
+### Intercostals and Chest Wall Movement
+
+### Accessory and Upper Airway Muscles
+
+### Passive and Active Expiration
+
+### Posture, Special Groups and Non-Ventilatory Functions
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**39%** of candidates passed this question.
+
+The principal muscles of ventilation are the diaphagm and the intercostals (internal, external). Other important muscles are the abdominals and the accessory muscles of the neck which are recruited in times of need. A precise description of the mechanical effects of these muscles was expected i.e. how these muscles increase or decrease the intrathoracic volume. Desciption of the anatomy of the diaphragm and the chest wall was also helpful. Mention of the pharyngeal and laryngeal muscles and their role in ventilation was also expected.
+
+Most candidates who failed did so because they did not name and describe the actions of most of these muscles or did so but only in vague terms.
+
+Extra marks were available for the following: effects of posture; special patient groups, including pregnancy and neonates; co-ordination in the medullary respiratory centre; non-ventilatory actions of these muscles (cough, vomiting and defaecation); muscle subtypes; smooth muscle.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2010/B/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Respiratory mechanics](/content/resp/chest_wall_diaphragm.qmd)

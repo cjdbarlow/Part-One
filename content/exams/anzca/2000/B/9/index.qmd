@@ -1,0 +1,64 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000B Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**What is**]{.task-verb} an isomer? Briefly [**write**]{.task-verb} an account of the types of isomers and significance in drugs used in anaesthesia.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+State what an **Isomer** is, then [**write**]{.task-verb} an account under **Structural Isomers**, **Stereoisomers**, **Nomenclature**, and **Significance in Anaesthetic Drugs**. Pair each class with an example and its relevant physicochemical, kinetic or dynamic difference.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**67%** of candidates achieved a pass in this question. A correct definition of an isomer and an explanation of the main types of isomers were expected. Structural isomers are also known as constitutional isomers and they include the tautomers or dynamic isomers such as the keto/enol transformations of thiopentone. Stereoisomers can be classified into enantiomers and diastereoisomers. The commonest error was to define a stereoisomer as a molecule having a chiral centre. Stereoisomers are molecules with identical formulae having a different spatial arrangement, and the geometric isomers need not have a chiral centre. Marks were also given for explaining the nomenclature of chiral centres although this was a common source of confusion. Classification by any of the following systems is completely independent of the others: absolute configuration of a chiral centre [R- and S- by the Cahn Ingold Prelog convention]; optical rotation of polarised light [(+) and (-) or (d-) ,and (l-)]; and relative configuration of simple sugars and amino acids [D- and L ].
+
+Few papers explained clearly that isomers may have different pharmacokinetic and pharmacodynamic properties. Some isomers also have different physicochemical characteristics. Examples of isomeric forms of anaesthetic drugs with correct explanations of the resultant variation in physicochemistry, kinetics, and dynamics were awarded additional marks. Common examples discussed included isoflurane and enflurane, keto and enol forms of thiopentone, bupivacaine, ropivacaine, atracurium and cisatracurium.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Isomerism](/content/pharmacology/isomerism.qmd)

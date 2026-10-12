@@ -1,0 +1,85 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006A Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the factors that influence metabolic rate.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} metabolic rate separately from basal metabolic rate. Organise factors around muscle activity, body composition, temperature, food and hormones, distinguishing ambient from core temperature and thermoregulatory responses from severe hypothermia.
+
+::: {.structure-headings}
+### Definition and Basal Conditions
+
+### Muscle Activity and Body Composition
+
+### Core and Ambient Temperature
+
+### Food and Specific Dynamic Action
+
+### Hormones, Physiological States and Disease
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**48 %** of candidates passed this question.
+
+Most candidates provided a reasonable list of factors which influence metabolic rate.
+
+Many candidates incorrectly equated “basal metabolic rate” (BMR) with “metabolic rate”. Excessive focus on BMR sometimes detracted from discussion of more general concepts pertinent to metabolic rate.
+
+There were significant problems describing the influence of “temperature” on metabolic rate. Ambient temperature was not always distinguished from core body temperature. The distinction between the raised metabolic rate, which accompanies small falls in body temperature versus the lowering of metabolic rate with more severe hypothermia or when muscle metabolic responses are blocked by anaesthesia and muscle relaxants was often not made clear.
+
+Few answers provided a good overview and very few demonstrated an understanding of the role of skeletal muscle as the single largest and most variable source of energy production and thus the origin of the greatest changes in metabolic rate in an individual.
+
+The effect of consumption of differing food types on metabolic rate was frequently a source of confusion. The “specific dynamic action” (SDA) relates to the energy required to assimilate food, (protein > carbohydrate (1/5 that of protein) > fat (2/3 that of carbohydrate)). SDA is not related to the respiratory quotient (RQ) which also varies with food type. The RQ may be of importance for estimating metabolic rate if carbon dioxide production is being measured as a surrogate for metabolic rate. Neither SDA nor RQ is related to the energy produced per gram of food.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2006/A/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Basal metabolic rate](/content/metabolic/bmr.qmd)
+- [Thermoregulation](/content/metabolic/temperature.qmd)

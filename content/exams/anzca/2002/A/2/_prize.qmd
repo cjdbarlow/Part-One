@@ -1,0 +1,33 @@
+#### List:
+
+- Intro
+- Graph and conductances
+- Definitions
+
+#### Intro:
+
++--------------------------+-----------------------------------------------------------------------+
+| Action potential         | - Allows rapid, co-ordinated signalling                               |
+|                          | - Rapid depolarisation followed by repolarization                     |
+|                          | - Ion channels cycle through resting → activated → inactivated states |
++--------------------------+-----------------------------------------------------------------------+
+| Determinants of ion flux | - Channel permeability: voltage dependent                             |
+|                          | - Electrochemical gradients                                           |
+|                          |   - Na^+^ and Ca^2+^ into cell, K^+^ out of cell                      |
+|                          |   - Mainly due to Na^+^K^+^ATPase                                     |
++--------------------------+-----------------------------------------------------------------------+
+
+#### Graph and conductances:
+
+![](/content/exams/anzca/2002/A/2/prize-image001.jpg){fig-alt="Ventricular action potential phases, threshold and refractory periods with sodium, calcium and potassium currents"}
+
+#### Definitions:
+
++--------------+--------------------------------------------------------------------------------+
+| Threshold    | - Membrane potential at which a self-propagating action potential is triggered |
++--------------+--------------------------------------------------------------------------------+
+| Excitability | - \% of Na^+^ channels returned from inactivated to resting state              |
+|              | - ∝ rate of rise phase 0                                                       |
++--------------+--------------------------------------------------------------------------------+
+| Irritability | - Closeness to threshold                                                       |
++--------------+--------------------------------------------------------------------------------+

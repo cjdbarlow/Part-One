@@ -1,0 +1,104 @@
+#### List:
+
+- Isovolumic haemodilution
+- Equations and normal values
+- Direct effect
+- Short term compensation
+- Medium term compensation
+
+#### Isovolumic haemodilution:
+
++------------+----------------------------------------+
+| Definition | Same blood volume but ↓Hct             |
++------------+----------------------------------------+
+| Problem    | ↓O~2~ content                          |
+|            |                                        |
+|            | ↓O~2~ delivery                         |
+|            |                                        |
+|            | ↓tissue pO~2~                          |
+|            |                                        |
+|            | ↑Anaerobic metabolism, lactic acidosis |
++------------+----------------------------------------+
+
+#### Relevant equations:
+
++-------------------------------+-------------------------------------------------------------------------+
+| Ohm’s law                     | Blood flow = driving pressure / resistance                              |
++-------------------------------+-------------------------------------------------------------------------+
+| Poiseuille’s law              | Resistance to laminar flow = (8 x length x viscosity) / (π x radius^4^) |
++-------------------------------+-------------------------------------------------------------------------+
+| Fick equation                 | VO~2~ = CO x (CaO~2~ – CvO~2~)                                          |
++-------------------------------+-------------------------------------------------------------------------+
+| O2 delivery                   | DO~2~ = CO x CaO~2~                                                     |
++-------------------------------+-------------------------------------------------------------------------+
+| O2 content                    | CaO~2~ = \[Hb\] x Hufner x SaO~2~ + 0.03 x PaO~2~ (per litre)           |
++-------------------------------+-------------------------------------------------------------------------+
+| O2 extraction                 | EO~2~ = VO~2~/DO~2~                                                     |
++-------------------------------+-------------------------------------------------------------------------+
+| Normal values                 | DO~2~ 1L/min                                                            |
+|                               |                                                                         |
+|                               | CO 5L/min                                                               |
+|                               |                                                                         |
+|                               | CaO~2~ 200mL/L                                                          |
+|                               |                                                                         |
+|                               | EO~2~ 0.25 (i.e. significant reserve for most tissues)                  |
++-------------------------------+-------------------------------------------------------------------------+
+| Alveolar ventilation equation | PaCO~2~ ≈PACO~2~ ∝ VCO~2~/V~A~                                          |
++-------------------------------+-------------------------------------------------------------------------+
+| Alveolar gas equation         | PAO~2~ = PiO~2~ – PaCO~2~/0.8                                           |
++-------------------------------+-------------------------------------------------------------------------+
+
+#### Direct effects:
+
+  -------------- ------------------------------------------------------
+  ↓O~2~ supply   ↓Hb → ↓CaO~2~ → ↓DO~2~
+  ↑O~2~ supply   ↓Hb → ↓HCt → ↓viscosity → ↓resistance → ↑CO → ↑DO~2~
+  -------------- ------------------------------------------------------
+
+#### Short term compensation (seconds-minutes):
+
++--------+-------------------------------------------------------------------------------------------------------------------------------+
+| ↑CO    | \(A\) Local metabolic autoregulation:                                                                                         |
+|        |                                                                                                                               |
+|        | - Anaerobic → ↑H^+^/K^+^/lactate → vasodilatation → capillary recruitment and distension                                      |
+|        | - ↑preload, ↓afterload → ↑CO → DO~2~                                                                                          |
+|        | - ↑area for gas exchange → ↑EO~2~ also                                                                                        |
+|        | - Important in heart, skeletal muscle, brain                                                                                  |
+|        |                                                                                                                               |
+|        | \(B\) Sympathetic nervous discharge:                                                                                          |
+|        |                                                                                                                               |
+|        | - Severe anaemic hypoxia (Hb \<50?) → CNS acidosis → ↑SNS activation                                                          |
+|        | - ↑ CO → ↑DO~2~                                                                                                               |
+|        |                                                                                                                               |
+|        | \*Note gains are offset by ↑VO~2~\*                                                                                           |
++--------+-------------------------------------------------------------------------------------------------------------------------------+
+| ↑EO~2~ | \(A\) Local metabolic autoregulation                                                                                          |
+|        |                                                                                                                               |
+|        | - Capillary recruitment and distension as above                                                                               |
+|        | - ↑Area for gas exchange → ↑EO~2~                                                                                             |
+|        |                                                                                                                               |
+|        | \(B\) Oxyhaemoglobin dissociation curve (OHDC) shift                                                                          |
+|        |                                                                                                                               |
+|        | - Anaerobic metabolism → ↑tissue \[H^+^\], ↑RBC \[2,3-DPG\] → right shift OHDC                                                |
+|        | - Note offset by ↑V~A~ → ↓PaCO~2~ → left shift OHDC                                                                           |
+|        |                                                                                                                               |
+|        | ![](/content/exams/anzca/2002/A/1/prize-image001.jpg){fig-alt="Oxyhaemoglobin dissociation curve showing a rightward shift"}  |
++--------+-------------------------------------------------------------------------------------------------------------------------------+
+| ↑V~A~  | - Anaerobic metabolism → ↑\[H^+^\] → ↑chemoreceptor activation → ↑V~A~                                                        |
+|        | - ↑V~A~ → ↓PACO~2~/PaCO~2~ → ↑PAO~2~/PaO~2~ → ↑DO~2~                                                                          |
+|        |                                                                                                                               |
+|        | \*Note gains are offset by ↑VO~2~\*                                                                                           |
++--------+-------------------------------------------------------------------------------------------------------------------------------+
+
+#### Medium term (days-weeks)
+
++--------------------------+--------------------------------------------------------+
+| ↑Erythropoiesis          | - ↓pO~2~ in renal interstitium → ↑EPO production       |
+|                          | - Hormonal response within hours                       |
+|                          | - RBC mass restored in 3 weeks                         |
++--------------------------+--------------------------------------------------------+
+| ↑Angiogenesis            | - e.g. ↑VEGF expression                                |
++--------------------------+--------------------------------------------------------+
+| ↑Cell oxidative capacity | - ↑Mitochondrial density                               |
+|                          | - ↑Oxidative enzymes (TCA cycle, fatty acid oxidation) |
++--------------------------+--------------------------------------------------------+

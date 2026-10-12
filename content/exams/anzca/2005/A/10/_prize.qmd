@@ -1,0 +1,112 @@
+#### List:
+
+- Intro
+- Sleep architecture
+- Sleep EEG signature
+- Sleep neurochemistry
+- Effect on body systems
+
+#### Intro: sleep
+
++-----------------------+---------------------------------------------------------------------------------------------------------------+
+| Definition            | - Necessary natural state of rousable unconsciousness associated with rest and restoration of brain functions |
+|                       | - Has a specific electrical and chemical signature distinct from anaesthesia                                  |
++-----------------------+---------------------------------------------------------------------------------------------------------------+
+| Effect of deprivation | - CNS: cognitive impairment, affect dysregulation, oxidative stress in hippocampus and subcortex              |
+|                       | - Other: impaired endocrine, metabolic, immune function                                                       |
++-----------------------+---------------------------------------------------------------------------------------------------------------+
+
+#### Sleep architecture:
+
++---------+-------------------------------------------------------------+
+| Cycle   | - NREM (non-rapid eye movement) 1 through 4 followed by REM |
+|         | - NREM3-4: for refreshment (a.k.a. slow-wave sleep)         |
+|         | - REM: for vivid dreaming                                   |
++---------+-------------------------------------------------------------+
+| Adult   | - Total 7-8 hours                                           |
+|         | - Cycle duration 1.5 hours                                  |
+|         | - 15% REM (more if tired)                                   |
++---------+-------------------------------------------------------------+
+| Neonate | - Total 18 hours                                            |
+|         | - 12 cycles per day and night                               |
+|         | - 50% REM                                                   |
++---------+-------------------------------------------------------------+
+| Elderly | - Reduced total duration                                    |
+|         | - Reduced %REM, especially \>70 years                       |
++---------+-------------------------------------------------------------+
+
+#### Sleep EEG signature:
+
++------------+-------------------------------------------------------------+
+| Wave types | - β: 13-30Hz – low amplitude                                |
+|            | - α (8-13Hz)                                                |
+|            | - Θ (4-8Hz)                                                 |
+|            | - δ (\<4Hz) – high amplitude                                |
++------------+-------------------------------------------------------------+
+| Drowsy     | - α                                                         |
++------------+-------------------------------------------------------------+
+| NREM 1     | - α and Θ                                                   |
++------------+-------------------------------------------------------------+
+| NREM 2     | - Θ                                                         |
+|            | - Sleep spindle (brief, high frequency low amplitude burst) |
+|            | - K complex (low frequency, high amplitude pattern)         |
++------------+-------------------------------------------------------------+
+| NREM 3     | - Θ                                                         |
+|            | - δ 20-50%                                                  |
++------------+-------------------------------------------------------------+
+| NREM 4     | - Θ                                                         |
+|            | - δ \>50%                                                   |
++------------+-------------------------------------------------------------+
+| REM        | - β                                                         |
+|            | - Similar to awake EEG, i.e. paradoxical                    |
+|            | - Pontogeniculoccipital spikes                              |
++------------+-------------------------------------------------------------+
+
+#### Sleep neurochemistry:
+
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Neuro-transmitters |                     **Awake**   **NREM**   **REM**                                                                                                                                            |
+|                    |   ----------------- ----------- ---------- ---------                                                                                                                                          |
+|                    |   **Aminergic**     +++         \+         \+                                                                                                                                                 |
+|                    |   **Cholinergic**   +++         \+         +++                                                                                                                                                |
+|                    |   ----------------- ----------- ---------- ---------                                                                                                                                          |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Awake/NREM\        | ![](/content/exams/anzca/2005/A/10/prize-image001.jpg){fig-alt="Wakefulness–NREM sleep switch involving the ascending reticular activating system, preoptic nuclei and orexinergic neurones"} |
+|  flip-flop         |                                                                                                                                                                                               |
+|                    | (derived from Miller ‘s Anaesthesia)                                                                                                                                                          |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| NREM/REM\          | ![](/content/exams/anzca/2005/A/10/prize-image002.jpg){fig-alt="NREM–REM sleep switch involving pontine regions, the basal forebrain and spinal cord"}                                        |
+|  flip-flop         |                                                                                                                                                                                               |
+|                    | (derived from Miller’s Anaesthesia)                                                                                                                                                           |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Physiological effects of sleep:
+
++-----------+--------------------------------------+----------------------------------------+
+|           | NREM                                 | REM                                    |
++===========+======================================+========================================+
+| CNS       | - ↓Neuronal discharge                | - ↑Neuronal discharge                  |
+|           | - ↓CMRO~2~ 25-45%                    | - ↑CMRO~2~ 20%, ↑CBF up to 2x          |
+|           | - ↓SNS, ↑PSNS output                 | - ↑SNS, ↓PSNS output                   |
+|           | - Dreams are non-vivid, not recalled | - Dreams are vivid +/- recalled        |
++-----------+--------------------------------------+----------------------------------------+
+| Resp      | - ↓V~T~ 15%, ↔RR = ↓MV               | - ↓↓V~T~ 25%, ↑RR and irregular = ↑MV  |
+|           | - ↓response to ↓PaO~2~, ↑PaCO~2~     | - ↓↓response to ↓PaO~2~, ↑PaCO~2~      |
+|           | - PaCO~2~ 40→45mmHg                  | - Atonia of non-diaphragm resp muscles |
+|           | - Brief centrally mediated apnoeas   | - ↓↓Pharyngeal dilator tone\           |
+|           | - ↓↔Pharyngeal dilator tone          |   (highest risk OSA)                   |
++-----------+--------------------------------------+----------------------------------------+
+| CVS       | - ↓HR, SV, CO, SVR, mAP              | - ↑HR and irreg, SV, CO, SVR, mAP      |
++-----------+--------------------------------------+----------------------------------------+
+| MSK       | - ↓Tone                              | - ↓↓Tone                               |
+|           |                                      | - REM                                  |
+|           |                                      | - Bruxism                              |
++-----------+--------------------------------------+----------------------------------------+
+| Endocrine | - ↑Melatonin at onset                | - ↑ACTH, cortisol                      |
+|           | - ↓ACTH, cortisol                    |                                        |
+|           | - ↑GH, ADH, PRL                      |                                        |
++-----------+--------------------------------------+----------------------------------------+
+| Metabolic | - ↓MR 10%                            | - ↑MR                                  |
+|           | - ↓T 0.5°C, lowest 3am               |                                        |
+|           | - ↓Shivering threshold               |                                        |
++-----------+--------------------------------------+----------------------------------------+

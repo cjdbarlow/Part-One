@@ -1,0 +1,89 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2020B Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the adverse environmental effects of anaesthetic agents in current use
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} effects using clear definitions of greenhouse gases, global warming and ozone depletion. Compare the contributions of inhalational and intravenous agents, including atmospheric persistence, disposal, manufacture and solid waste.
+
+::: {.structure-headings}
+### Greenhouse Gases, Global Warming and Ozone
+
+### Inhalational Agents and Relative Impact
+
+### Intravenous Agents and Aquatic Effects
+
+### Manufacture, Packaging and Solid Waste
+
+### Other Environmental and Occupational Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The question required:
+
+- A basic knowledge of the terms “greenhouse gas”, “ozone layer” and “global warming”
+- An explanation of how inhalational agents affect the wider environment
+- An explanation of how intravenous agents affect the wider environment
+
+Things that were done particularly well:
+
+- Ranking of agents by degree of impact
+- Acknowledging the large amount of non-recyclable, solid waste produced
+- Mentioning the adverse effects of N2O upon theatre staff
+
+Things that were done poorly:
+
+- Accurately differentiating between the basic terms
+- Understanding the effect of propofol on the wider environment
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2020/B/8/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2020/B/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational anaesthetic agents](/content/pharmacopoeia/neuro/inhalational_anaesthetic_agents.qmd)

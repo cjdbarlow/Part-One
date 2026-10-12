@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007A Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly outline**]{.task-verb} the acute management of malignant hyperthermia (during a relaxant general anaesthetic). [**Describe**]{.task-verb} the important aspects of dantrolene pharmacology relevant to treating malignant hyperthermia.
+:::
+
+Also asked in: [2011B Question 7](/content/exams/anzca/2011/B/7/index.qmd#examiner-comments), [2014B Question 3](/content/exams/anzca/2014/B/3/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly outline**]{.task-verb} the immediate management, then [**describe**]{.task-verb} dantrolene pharmacology relevant to that management. Give the two parts equal space.
+
+::: {.structure-headings}
+### Acute Management: Triggers, Oxygenation, Dantrolene and Cooling
+
+### Supportive Treatment and Complications
+
+### Dantrolene: Presentation and Administration
+
+### Dantrolene: Kinetics, Action, Adverse Effects and Interactions
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**54%** of candidates passed this question.
+
+Equal marks were devoted to each half of the question. Inclusion of the following points would have scored a good pass mark.
+
+Management: life-threatening emergency, call for help and dantrolene, cease triggers (e.g. volatile agents), hyperventilate with oxygen, maintain anaesthesia with non-triggering agents, give dantrolene 2.5 mg/kg, repeat up to 10 mg/kg, active cooling to <38 degrees.
+
+Pharmacology: skeletal muscle relaxant presented as orange powder containing dantolene 20 mg, mannitol 3g and sodium hydroxide to bring pH >9 with 60mls water. Difficult to mix. Metabolized by liver enzymes, eliminated in urine and bile with a half-life of about 10 hrs. Inhibits calcium release from sarcoplasmic reticulum. It can cause phlebitis, use of verapamil contraindicated.
+
+Most candidates who did not achieve a pass mark wrote very little on dantrolene pharmacology. Many candidates gave long, detailed accounts of the etiology and pathology of malignant hyperthermia but this was not asked in the question and attracted minimal bonus marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2007/A/6/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/A/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Dantrolene](/content/pharmacopoeia/msk/dantrolene.qmd)
+- [Inhalational anaesthetic agents](/content/pharmacopoeia/neuro/inhalational_anaesthetics.qmd)

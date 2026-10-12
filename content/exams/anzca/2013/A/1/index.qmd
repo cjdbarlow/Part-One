@@ -1,0 +1,75 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013A Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**What are**]{.task-verb} the major classes of oral hypoglycaemic agents? [**Outline**]{.task-verb} their mechanisms of action and possible side effects.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+**[Outline]{.task-verb}** each major class in a comparison table, linking the mechanism to its important side effects.
+
+::: {.structure-table}
+| Class | Mechanism of Action | Possible Side Effects |
+|---|---|---|
+| Biguanides | | |
+| Sulphonylureas | | |
+| Other Oral Hypoglycaemic Classes | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Old Exam: **20%** of candidates achieved a pass in this question
+
+New Exam: **11%** of candidates achieved a pass in this question
+
+The main focus for this question was on the mechanism of action and side effects of biguanide and sulphonylurea drugs. However, marks were also given for mentioning newer oral hypoglycaemic agents. Marks were not awarded for insulin or glucagon-like polypeptide-1 receptor agonists which are given subcutaneously. Knowledge of the receptor mechanism for sulphonylureas and enzyme activation for biguanides was expected. Misconceptions occurred regarding the action of sulphonylureas: they do not ‘displace’ insulin from β cells. Also, biguanides do more than just ‘increase tissue sensitivity’. Marks were awarded for clinically important side effects and for naming factors (many of which occur perioperatively) that increase the risk of side effects. Extra marks were awarded for: an understanding of whether or not a functioning pancreas is required for drug action, lipid effects of oral hypoglycaemic drugs and for an understanding of the major differences in the side effects between biguanides and sulphonylureas and why these occur.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/A/1/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Oral hypoglycaemics](/content/pharmacopoeia/endo/oral_hypoglycaemics.qmd)
+- [Glucose regulation](/content/endo/glucose.qmd)

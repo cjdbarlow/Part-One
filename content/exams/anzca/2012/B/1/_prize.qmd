@@ -1,0 +1,54 @@
+#### List:
+
+- Warfarin effect
+- Warfarin reversal
+
+#### Warfarin:
+
++------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
+| Drug                         | Wisconsin Alumni Research Foundation                                                                                                       |
++------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
+| Mechanism                    | ![](/content/exams/anzca/2012/B/1/prize-image001.jpg){fig-alt="Vitamin K cycle and inhibition of vitamin K epoxide reductase by warfarin"} |
++------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
+| Factors affected (half life) | - Procoagulants: II (60h), VII (6h), IX (24h), X (36h)                                                                                     |
+|                              | - Anticoagulants: protein C (8h), protein S (30h)                                                                                          |
++------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
+| Timeline of effect           | - Initial procoagulant effect                                                                                                              |
+|                              |   - Short half lives of anticoagulant protein C                                                                                            |
+|                              |   - Long half lives of procoagulants II and X (most important)                                                                             |
+|                              | - Then anticoagulant effect                                                                                                                |
+|                              |   - Onset \~8-12 hours                                                                                                                     |
+|                              |   - Peak \~3 days                                                                                                                          |
+|                              |   - Duration \~5 days                                                                                                                      |
++------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Reversal:
+
++-----------------+-----------------------------------------------------------------------------------------------------------------------+
+| 1.Expectant     | - i.e. drug washout → regenerate Vit K → regenerate clotting factors                                                  |
+|                 | - t~1/2β~ 40 hours → offset in 5 days                                                                                 |
+|                 | - ↑Duration if: Vit K deficient e.g. malnourished, CYP inhibitor (e.g. cimetidine), CYP competition e.g. amiodarone   |
+|                 | - ↓Duration if: CYP inducer (e.g. barbiturates)                                                                       |
+|                 | - Can operate immediately if a) low risk of bleeding b) benign consequences of bleeding c) easily compressible site   |
++-----------------+-----------------------------------------------------------------------------------------------------------------------+
+| 2.Vitamin K     | - i.e. replenish substrate → regenerate clotting factors                                                              |
+|                 | - PO 1-2mg for effect in 12-24 hours                                                                                  |
+|                 | - IV 5-10mg for effect in 6-12 hours                                                                                  |
++-----------------+-----------------------------------------------------------------------------------------------------------------------+
+| 2.FFP           | - Contains all clotting factors                                                                                       |
+|                 | - IV 15-30mL/kg (or 2-4mL/kg if with prothrombinex)                                                                   |
+|                 | - Also give Vit K to avoid rebound anticoagulation                                                                    |
++-----------------+-----------------------------------------------------------------------------------------------------------------------+
+| 3.Prothrombinex | - Contains factors 2, 9, 10                                                                                           |
+|                 | - IV 25-50 units/kg                                                                                                   |
+|                 | - Also give Vit K to avoid rebound anticoagulation                                                                    |
++-----------------+-----------------------------------------------------------------------------------------------------------------------+
+| 4.FEIBA         | - Contains active factor 7a, inactive factors 2,9,10                                                                  |
+|                 | - IV 50-100 units/kg                                                                                                  |
+|                 | - Also give Vit K to avoid rebound anticoagulation                                                                    |
++-----------------+-----------------------------------------------------------------------------------------------------------------------+
+| 5.Novoseven     | - Activated Factor 7a                                                                                                 |
+|                 | - IV 50mcg/kg                                                                                                         |
+|                 | - Given in addition to FFP and/or prothrombinex                                                                       |
+|                 | - Only if persistent uncontrollable haemorrhage despite all other physiological, pharmacological and surgical efforts |
++-----------------+-----------------------------------------------------------------------------------------------------------------------+

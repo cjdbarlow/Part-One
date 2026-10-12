@@ -1,0 +1,87 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010B Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the pharmacodynamic effects and clinical uses of anticholinesterase drugs.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} how increased acetylcholine affects nicotinic and muscarinic receptors, then connect these effects to clinical uses. Give pharmacodynamics and applications balanced space.
+
+::: {.structure-headings}
+### Mechanism and Types of Interaction
+
+### Nicotinic Neuromuscular Effects
+
+### Neuronal Nicotinic Effects
+
+### Muscarinic Effects
+
+### Clinical Uses and Relevant Limitations
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**65%%** of candidates passed this question.
+
+A brief definition of an anti-cholinesterase and its effect on acetylcholine concentrations at cholinergic receptors was expected.
+
+Subsequently the marks were divided evenly between pharmacodynamics and clinical applications. Briefly an increase in acetylcholine levels at muscarinic receptors results in bradycardia, hypotension, salivation, bronchospasm, increased gut and urinary motility, miosis and central effects if the drug crosses the blood brain barrier.
+
+Only a few candidates mentioned that muscarinic effects occurred at lower concentrations than nicotinic effects.
+
+However the single largest error in answering this question was candidates discussed structure activity relationships and pharmacokinetics of individual agents at length and failed to mention any pharmacodynamics.
+
+Clinical uses of these agents are legion and were very well discussed. No value would be gained in repeating these here.
+
+Some candidates spent an inappropriate amount of time discussing organo-phosphates but by elaborating the adverse effects of these agents ('SLUDGE' acronym) they gained marks en passant for the pharmcodynamic effects
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2010/B/5/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Anticholinesterases](/content/pharmacopoeia/autonomic/anticholinesterases.qmd)
+- [Acetylcholine receptors](/content/neuro/ach_receptor.qmd)

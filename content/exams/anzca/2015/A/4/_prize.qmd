@@ -1,0 +1,88 @@
+#### List:
+
+- Numbers table
+- Purpose
+- Localised toxicity
+- CNS toxicity
+- CVS toxicity
+- Final answer
+
+#### Numbers:
+
+               **Concentration presented**   **Toxic plasma concentration**   **Toxic subcutaneous dose**
+  ------------ ----------------------------- -------------------------------- -------------------------------
+  Cocaine      5% = 50mg/mL                  0.5mcg/mL                        2mg/kg = 140mg = \~3mL
+  Lignocaine   2% = 20mg/mL                  5mcg/mL                          7mg/kg w adr = 490mg = \~25mL
+  Adrenaline   1:100k = 10mcg/mL             ?                                ?
+
+#### Purpose:
+
++------------+------------------------------------+-------------------+
+|            | **Mechanism of action**            | **Function**      |
++============+====================================+===================+
+| Cocaine    | Inhibit VdNaC                      | Local anaesthetic |
+|            |                                    |                   |
+|            | Monoamine reuptake                 | Vasoconstriction  |
+|            |                                    |                   |
+|            | Norad : dopamine : serotonin 5:3:2 |                   |
++------------+------------------------------------+-------------------+
+| Lignocaine | Inhibit VDNaC                      | Local anaesthetic |
++------------+------------------------------------+-------------------+
+| Adrenaline | α~1~ agonist                       | Vasoconstriction  |
++------------+------------------------------------+-------------------+
+
+#### Localised toxicity:
+
++------------+-------------------------------------------------+
+| Cocaine    | - Septal necrosis possible even with single use |
++------------+-------------------------------------------------+
+| Lignocaine | - Rare                                          |
++------------+-------------------------------------------------+
+| Adrenaline | - Necrosis if large amount of drug              |
++------------+-------------------------------------------------+
+
+#### CNS toxicity:
+
++--------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| LAST               | - Cause: inhibition of neuronal VDNaC                                                                                                                             |
+|                    | - Initial excitation (block inhibitory interneurons): paraesthesia, peri-oral tingling, vertigo, tinnitus, inattention, slurred speech, muscle twitching, seizure |
+|                    | - Then inhibition: coma, apnoea                                                                                                                                   |
++--------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Cocaine (non-LAST) | - Cause: dopamine and serotonin reuptake inhibition                                                                                                               |
+|                    | - Euphoria, delirium, seizure                                                                                                                                     |
++--------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### CVS toxicity:
+
++--------------------+---------------------------------------------------------------------+
+| LAST               | - Inhibit VDNaC;, also VDKC and VDCC at higher concentration        |
+|                    | - ECG “pulled apart” (long Q, wide QRS), tachyarrhythmia, VF arrest |
+|                    | - First phase: ↑HR, ↑mAP                                            |
+|                    | - Second phase: myocardial depression, ↓mAP                         |
+|                    | - Terminal phase: vasodilatation, arrhythmia, arrest                |
++--------------------+---------------------------------------------------------------------+
+| Cocaine (non-LAST) | - NRI, ↑ICF Ca^2+^                                                  |
+|                    | - Tachyarrhythmia, ↑mAP, coronary vasospasm, ischaemia, arrest      |
++--------------------+---------------------------------------------------------------------+
+| Adrenaline         | - ↑ICF Ca^2+^ → tachyarrhythmia, ischaemia, stroke, arrest          |
++--------------------+---------------------------------------------------------------------+
+
+#### Considerations:
+
++---------+-------------------------------------------------------------------------------------------+
+| Drugs   | - Cocaine’s vasoconstriction = protective (↓absorption rate → ↓peak plasma concentration) |
+|         | - Cocaine’s LA activity = ? additive ? synergistic for toxicity                           |
+|         | - Overall impact unclear                                                                  |
++---------+-------------------------------------------------------------------------------------------+
+| Patient | - PK: nasal mucosa is highly vascular → ↑↑absorption rate                                 |
+|         | - PD: patient’s youth and health confer resistance to CVS and CNS toxicity                |
++---------+-------------------------------------------------------------------------------------------+
+
+#### Answer:
+
++----------+---------------------------------------------------------------------+
+| How much | - Cocaine – 1mL                                                     |
+|          | - Lignocaine 2% with Adr 1:100k – 5mL                               |
+|          |                                                                     |
+|          | *(I have no idea. Suggestions for a definitive answer are welcome)* |
++----------+---------------------------------------------------------------------+

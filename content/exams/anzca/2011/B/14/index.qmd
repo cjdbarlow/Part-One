@@ -1,0 +1,85 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011B Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the changes in respiratory function tests that occur with long term increases in small airways resistance.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} changes test by test, linking each result to chronic increased small airway resistance. Use accurate flow–volume and pressure–volume graphs, distinguish sensitivity from quantitative assessment and include lung volumes and gas exchange.
+
+::: {.structure-headings}
+### Forced Expiratory Volumes and Peak Flow
+
+### Flow–Volume Loop
+
+### Pressure–Volume Loop
+
+### Static Volumes and Closing Volume
+
+### Gas Exchange and Exercise Testing
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**12.5%** of candidates passed this question.
+
+This question required an answer that was focused on the respiratory function tests that help assess the effects of chronic increased airway resistance. Changes in the following tests needed to be discussed:
+
+- Forced expiratory volumes
+- Flow volume loops
+- Pressure volume loops
+
+Appropriate diagrams and graphs were expected with a description of the changes that happen when airway resistance is raised. Indicating which test provided a quantitative assessment of raised airway resistance was important.
+
+Candidates also gained marks for discussing simple peak flow meter testing, simple spirometry changes, and closing volume changes. Arterial blood gas changes and reduced oxygen uptake on exercise testing all gained additional marks. Care needs to be taken when drawing and labelling graphs so that they are accurate. Simply listing some respiratory changes but not relating the changes to a test was not sufficient to score marks. Details on factors that determine resistance and flow was not part of the answer and in depth descriptions on how to perform a test was not required. Some candidates confused obstructive lung disease with restrictive lung disease.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2011/B/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Spirometry](/content/resp/spirometry.qmd)
+- [Airway resistance](/content/resp/resistance.qmd)

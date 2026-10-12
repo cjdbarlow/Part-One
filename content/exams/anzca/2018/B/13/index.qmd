@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018B Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the drugs that affect uterine tone and [**outline**]{.task-verb} the adverse effects of these agents.
+:::
+
+Also asked in: [2013B Question 14](/content/exams/anzca/2013/B/14/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} the drugs in two groups according to their effect on uterine tone and [**outline**]{.task-verb} the adverse effects of each.
+
+::: {.structure-table}
+| Effect on Uterine Tone | Drug or Class | Adverse Effects |
+|---|---|---|
+| Increased Tone: Oxytocin Derivatives | | |
+| Increased Tone: Ergot Alkaloids | | |
+| Increased Tone: Prostaglandins | | |
+| Decreased Tone: Tocolytics | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**72%** of candidates achieved a pass in this question
+
+These drugs are used or encountered commonly in obstetric anaesthesia and in obstetric patients. They can have profound effects on maternal and foetal physiology. A good knowledge of these drugs and their side effects is required by anaesthetists as their use is often indicated in, or are the cause of, emergency situations such as postpartum haemorrhage or delivery of a compromised baby.
+
+To pass this question, answers needed to include classification of at least four drugs that increase or decrease uterine tone, along with at least one side effect for each drug included. An answer that did not include oxytocin, given it is used before, during or after virtually every delivery could not achieve a pass.
+
+Better answers contained more detail such as differentiating the effects of the various prostaglandins, not all of which cause bronchoconstriction. Class-wide side effects such as PPH for tocolytics and foetal asphyxia for drugs increasing uterine tone demonstrated understanding and insight. Discussion of the minimal effect of ketamine at clinically used doses attracted marks. The question did not ask for mechanisms of action or dosing and infusion regimens. These were commonly provided at length and wasted valuable time.
+
+There were some more common errors. Nifedipine causing bradycardia is rare in this patient cohort; reflex tachycardia is much more common. The serious side effects of magnesium occur at quite high plasma concentrations and are different from those found at lower concentration. The haemodynamic effects of oxytocin and ergometrine were occasionally incorrect. Drugs used in the treatment of pre-eclampsia (labetolol and hydralazine) and other drugs without effects on uterine tone afforded no marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/B/14/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/B/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Oxytocics](/content/pharmacopoeia/obs/oxytocics.qmd)
+- [Tocolytics](/content/pharmacopoeia/obs/tocolytics.qmd)

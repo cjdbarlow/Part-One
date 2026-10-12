@@ -1,0 +1,42 @@
++---------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Hormone**   | **Effect**                                                                                                                                     |
++===============+================================================================================================================================================+
+| Renin         | - Enzymatic cleavage angiotensinogen → angiotensin 1 (precursor to AT2)                                                                        |
+|               | - No direct effect                                                                                                                             |
++---------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| Angiotensin 2 | - Cellular: AGTR – G~q~ G protein-coupled receptor (GPCR) → ↑IP~3~/Ca^2+^, ↑DAG                                                                |
+|               | - Tubule: ↑Na^+^/HCO~3~^-^/H~2~O reabsorption at proximal tubule                                                                               |
+|               | - Vascular: constrict efferent \> afferent arterioles → ↓peritubular hydrostatic pressure → ↑reabsorption                                      |
+|               | - CNS: ↑ADH release (see below)                                                                                                                |
++---------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| Aldosterone   | - Cellular: mineralocorticoid receptor – transcription factor → ↑↓gene expression                                                              |
+|               | - Principal cell: ↑Na^+^K^+^ATPase synthesis and activity → ↑ENaC and ROMK activity→ ↑Na^+^/↓K^+^ reabsorption                                 |
+|               | - Type 1 intercalated cell: ↑H^+^ATPase activity → ↓H+ reabsorption                                                                            |
+|               | - Indirect effect: ↑ECF osmolality → ↑ADH → ↑H~2~O reabsorption                                                                                |
+|               | - Cortisol causes same effects but to a lesser extent                                                                                          |
++---------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| ADH           | - Cellular: V2R – G~s~ GPCR → ↑cAMP                                                                                                            |
+|               | - Collecting ducts: insert aquaporins into apical membrane → ↑H~2~O reabsorption                                                               |
+|               | - Medullary collecting ducts: insert ureaporins into apical membrane → urea recycling → ↑interstitial osmolality → facilitate H~2~O absorption |
+|               | - Thick ascending loop of Henle: ↑Na^+^ reabsorption                                                                                           |
++---------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| ANP           | - Vascular: dilate afferent and efferent arterioles → ↑GFR, ↑vasa recta flow, ↑washout of medullary interstitium → ↓reabsorption               |
+|               | - Distal tubule: inhibit NCC → ↓Na^+^Cl^-^ reabsorption                                                                                        |
+|               | - Collecting duct: inhibit ENaC → ↓Na^+^ reabsorption                                                                                          |
++---------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| Adrenaline    | - Cellular: β~1~ G~s~ GPCR → ↑cAMP; α~1~ G~q~ GPCR → ↑\[Ca^2+^\]                                                                               |
+|               | - Vascular (β~1~): juxtaglomerular cell → ↑renin-angiotensin-aldosterone activity (see above)                                                  |
+|               | - Proximal tubule (α~1~): ↑Na^+^/HCO~3~^-^ absorption                                                                                          |
++---------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| PTH           | - Cellular: PTHR: G~s~ GPCR → ↑cAMP                                                                                                            |
+|               | - Proximal tubule: ↓PO~4~^3-^ reabsorption                                                                                                     |
+|               | - Distal tubule: ↑Ca^2+^ reabsorption                                                                                                          |
++---------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| Vitamin D~3~  | - Cellular: VDR - nuclear transcription factor → ↑↓gene transcription                                                                          |
+|               | - Proximal tubule: ↑PO~4~^3-^ reabsorption                                                                                                     |
+|               | - Distal tubule: ↑Ca^2+^ reabsorption                                                                                                          |
++---------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| Calcitonin    | - Cellular: CTR – GPCR multiple types                                                                                                          |
+|               | - Proximal tubule: ↓PO~4~^3-^ reabsorption                                                                                                     |
+|               | - Distal tubule: ↓Ca^2+^ reabsorption                                                                                                          |
++---------------+------------------------------------------------------------------------------------------------------------------------------------------------+

@@ -1,0 +1,52 @@
+Normal cerebral blood flow is 750ml/min - approx. 15% or resting CO 
+
+The Brain has a high metabolic rate and cerebral metabolic rate for oxygen (CRMO2) is 50ml/min
+
+Importantly the Brain is extremely sensitive to interruptions in blood flow as:
+
+- it has a high CMRO2 
+- No capacity to store energy substrates 
+
+Factors affecting blood flow:
+
+Cerebral Blood Flow (CBF) is determined by the Hagen Poiseuille equation:
+
+Q= ΔPπr4/8nln
+
+Q= Flow 
+
+ΔP= CPP / Driving pressure (MAP-ICP)
+
+r = vessel radius 
+
+n= blood viscosity 
+
+l = length of tube 
+
+As the viscosity of blood and length of cerebral circulation is practically set the primary factors that affect CBF are:
+
+Factors affecting **CPP**
+
+CPP is normally \~80mmHg and is auto regulated over a CPP from around 50-150mmHg 
+
+Auto regulation occurs by myogenic mechanism where vascular smooth muscle regulates vascular tone in response to changes in intraluminal pressure
+
+Factors Affecting vessel **Radius** 
+
+Vasoconstriction/vasodilation affects CBF as well as ICP as vasodilation increases intracranial blood volume as mandated in the Monroe-Kellie doctrine.
+
+Vessel calibre is affected primarily by 4 factors:
+
+- CMRO2: 
+
+Cerebral metabolism/CRMO2 has a linear association with CBF known as flow-metabolism coupling controlled locally by the release of vasoactive mediators such as NO, H+.
+
+CRMO2 is influenced by drugs particularly anaesthetic drugs and temperature.
+
+- PaCO2: 
+
+CO2 acts as a cerebral vasodilator with an almost liner relationship between PaCO2 20mmHg and 80mmHg, blow this point circulation is maximally constricted, above it, it is maximally dilated 
+
+- PaO2: 
+
+CBF increases rapidly through vasodilation when PaO2 \<60mmHg to preserve cerebral oxygen supply. Hypoxia releases adenosine and reduces Ca uptake → vasodilation

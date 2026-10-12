@@ -1,0 +1,75 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014A Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the alterations to the physiology of the nervous system in the older patient and [**outline**]{.task-verb} the consequent effects on pain perception.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} normal age-related changes by division of the nervous system, then [**outline**]{.task-verb} how each affects pain perception. Distinguish normal ageing from disease.
+
+::: {.structure-table}
+| Division | Changes with Normal Ageing | Consequences for Pain Perception |
+|---|---|---|
+| Central Nervous System | | |
+| Peripheral Nervous System | | |
+| Autonomic Nervous System | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**16 %** of candidates achieved a pass in this question
+
+This was a relatively difficult question and marked with a great degree of latitude. This latitude did not extend so far as to give points for duplicating the question in the answer booklet. Marks were awarded, however, for dicussion of relevant alterations in the peripheral, central and autonomic nervous system.
+
+Commonly confused issues included: Cognitive decline makes it more difficult for patients to communicate that they are in pain. It does not mean that they do not perceive pain. Most candidates did not clearly distinguish or even discuss the difference between normal ageing and the effects of disease. Alzheimer’s disease and Lewy bodies are not part of the normal ageing process. Autonomic nervous system changes were poorly understood—noradrenaline levels rise with age, but the response to beta stimulation decreases. Candidates often used afferent to mean effferent and vice versa.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2014/A/12/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2014/A/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Pain pathways](/content/neuro/pain.qmd)
+- [Autonomic nervous system](/content/neuro/ans.qmd)

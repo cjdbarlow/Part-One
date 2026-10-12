@@ -1,0 +1,37 @@
+#### List:
+
+- Physics
+- Device
+
+#### Physics:
+
++--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Beer-Lambert principle   | - Absorption ∝ concentration of the absorbing substance in the medium (Beer’s law)                                                                                   |
+|                          | - Absorption ∝ distance travelled through the medium (Lambert’s law)                                                                                                 |
+|                          | - Describes the basis for, but not the functioning of, the pulse oximeter                                                                                            |
++--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Known absorption spectra | - 940nm: O2Hb \> HHb                                                                                                                                                 |
+|                          | - 660nm: O2Hb \< HHb                                                                                                                                                 |
+|                          |                                                                                                                                                                      |
+|                          | ![](/content/exams/anzca/2021/A/11/prize-image001.jpg){fig-alt="Absorption spectra of oxyhaemoglobin and deoxyhaemoglobin with red and infrared wavelengths marked"} |
++--------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Device:
+
++------------+---------------------------------------------------------------------------------------------+
+| Components | - Probe on the finger, nose, ear                                                            |
+|            | - Two monochromatic LEDs on one side, rapid on and off                                      |
+|            | - Photodetector on the other side                                                           |
+|            | - Electrical cable                                                                          |
+|            | - Processor                                                                                 |
+|            | - Display: SpO~2~ and plethysmograph                                                        |
++------------+---------------------------------------------------------------------------------------------+
+| Function   | (1) Pulsatile signal isolated                                                               |
+|            |     - Excludes venous and tissue absorption                                                 |
+|            | (2) Ratio of absorbances calculated                                                         |
+|            |     - Ratio = (pulsatile~660~ / non-pulsatile~660~) / (pulsatile~940~ / non-pulsatile~940~) |
+|            | (3) Ratio correlated with SaO~2~ derived from experiments                                   |
+|            |     - R 0.4 → 100%                                                                          |
+|            |     - R 1 → 85%                                                                             |
+|            |     - R 2 → 50%                                                                             |
++------------+---------------------------------------------------------------------------------------------+

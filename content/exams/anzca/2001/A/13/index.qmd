@@ -1,0 +1,72 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001A Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the NON-ideal features as an intravenous induction agent of the current formulations of propofol.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} the non-ideal features under **Pharmaceutics**, **Pharmacokinetics**, and **Pharmacodynamics**. Subdivide pharmacodynamics into central nervous, cardiovascular, respiratory and other effects.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The pass rate was **55%**. Good answers included discussion of:
+
+1. Pharmaceutics; complex formulation, possible bacterial growth, incompatibilities and difficulty of detection, glass packaging, expense
+2. Pharmacokinetics; hepatic (mostly) organ dependent clearance, offset of effect mostly dependent on redistribution, high lipid solubility with consequent easy transfer across placenta
+3. Pharmacodynamics;
+    a) Central nervous system; decreased cerebral perfusion pressure, excitatory phenomenon, controversial association with epilepsy, not analgesic, mechanism of action not fully understood, no antidote.
+    b) Cardiovascular system; vasodilation, negative inotrope with higher levels, hypotension, depression of baroreceptor response, bradycardia.
+    c) Respiratory system; decreased CO~2~ and hypoxic response, depressed minute ventilation with possible apnea, depressed airway reflexes/tone with possible aspiration and/or obstruction.
+    d) other; pain on injection with occasional thrombophlebitis, very rarely anaphylaxis.
+
+Many candidates wasted time by describing all the ideal characteristics of propofol.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Propofol](/content/pharmacopoeia/neuro/propofol.qmd)

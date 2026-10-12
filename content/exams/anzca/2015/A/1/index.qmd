@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015A Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the circle breathing system.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the circuit using an accurate labelled diagram. Give each component its function and position, explain why placement matters, then connect the arrangement to clinical advantages and limitations.
+
+::: {.structure-headings}
+### Definition and Circuit Diagram
+
+### Components and Functions
+
+### Component Placement and Gas Flow
+
+### Clinical Advantages and Limitations
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**28.1%** of candidates achieved a pass in this question
+
+To gain a pass mark candidates were required to provide a definition of a circle system, list the components of the circuit and their functions, and draw an accurate diagram showing the placement of the components. Candidates that explained the reasons for placing components in specific positions were awarded further marks. Additional marks were awarded for explanations of clinical relevance.
+
+Common errors included inaccurate circuit diagrams, describing the system as non re-breathing and use of imprecise statements. Discussions on the chemical reactions of soda lime, vaporiser function, anti-hypoxic devices, oxygen supply lines and different ventilator modes and functions did not gain marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2015/A/1/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Circle breathing system](/content/equipment/circle_system.qmd)

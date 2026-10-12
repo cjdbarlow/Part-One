@@ -1,0 +1,69 @@
+#### List:
+
+- Venous return physiology: curve, equation, components
+- Factors affecting MSFP
+- Factors affecting RAP
+- Factors affecting RVR
+
+#### Venous return physiology:
+
++-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Curve       | ![](/content/exams/anzca/2007/A/13/prize-image001.jpg){fig-alt="Cardiac output and venous return curves showing changes in resistance to venous return and mean systemic filling pressure"} |
++-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Equation    | - Venous return = (mean systemic filling pressure – right atrial pressure) / resistance to venous return\                                                                                   |
+|             |   \                                                                                                                                                                                         |
+|             | - Hence factors increasing venous return: ↑MSFP, ↓RAP, ↓RVR                                                                                                                                 |
+|             | - Anaesthesia generally decreases venous return due to ↓MSFP                                                                                                                                |
++-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Definitions | - Mean systemic filling pressure (MSFP):                                                                                                                                                    |
+|             |   - Pressure in the systemic circulation when heart is arrested and equilibrium reached                                                                                                     |
+|             |   - Dependent upon a) systemic blood volume b) capacitance of the vasculature.                                                                                                              |
+|             | - Right atrial pressure (RAP):                                                                                                                                                              |
+|             |   - Pressure in right atrium at end of diastole, at end expiration                                                                                                                          |
+|             | - Resistance to venous return (RVR):                                                                                                                                                        |
+|             |   - 1/3 due to arterial resistance                                                                                                                                                          |
+|             |   - 2/3 to venous resistance                                                                                                                                                                |
+|             |                                                                                                                                                                                             |
+|             | (Note in vivo, venoconstriction increases MSFP more than it increases RVR)                                                                                                                  |
++-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Summary     | - Anaesthetic agents dilate venous capacitance vessels                                                                                                                                      |
+|             | - Large amount of blood shifts from stressed volume to unstressed volume                                                                                                                    |
+|             | - Reduced venous return                                                                                                                                                                     |
+|             | - Severely exacerbated by hypovolaemia                                                                                                                                                      |
++-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Factors affecting MSFP:
+
++----------------------+----------------------------------------------------------------------------+
+| Circulating volume   | - Blood loss → ↓volume → ↓MSFP                                             |
++----------------------+----------------------------------------------------------------------------+
+| Venous tone          | - ↓SNS output → venodilatation → ↓MSFP (e.g. GA, neuraxial)                |
++----------------------+----------------------------------------------------------------------------+
+| Posture              | - Trendelenburg → ↓venous pooling → ↑MSFP                                  |
+|                      | - Reverse Trendelenburg → opposite                                         |
++----------------------+----------------------------------------------------------------------------+
+| Skeletal muscle pump | - Walking → soleus/gastrocnemius activity → compression of venous plexuses |
+|                      | - Immobilisation, paralysis → absence of pump                              |
++----------------------+----------------------------------------------------------------------------+
+| Venous valves        | - Venodilators → +/- valve incompetence (e.g. GA, neuraxial)               |
++----------------------+----------------------------------------------------------------------------+
+
+#### Factors affecting RAP:
+
++------------------------+------------------------------------------------------------------------+
+| Cardiac function       | - RV contraction → RA elongation → ↓RAP (not a direct determinant)     |
+|                        | - GA → ↓contractility → ↑RAP                                           |
++------------------------+------------------------------------------------------------------------+
+| Intrathoracic pressure | - Spont vent → ↓intrathoracic pressure in inspiration → ↓RAP           |
+|                        | - Positive pressure ventilation → absence of respiratory pump and ↑RAP |
++------------------------+------------------------------------------------------------------------+
+
+#### Factors affecting RVR:
+
++-------------------+---------------------------------------------+
+| Arterial diameter | - Vasodilators → ↓RVR (e.g. GA, neuraxial)  |
+|                   | - Pneumoperitoneum → ↑SVR → ↑RVR            |
++-------------------+---------------------------------------------+
+| Venous diameter   | - Venodilators → ↓RVR (e.g. GA, neuraxial)  |
+|                   | - Pneumoperitoneum → IVC compression → ↑RVR |
++-------------------+---------------------------------------------+

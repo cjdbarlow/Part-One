@@ -1,0 +1,23 @@
+Antibiotic chemoprophylaxis is the principle of using antibiotics to prevent surgical site infections, morbidity and mortality.
+
+**General Principles**:
+
+- Assess risk of infection and need for prophylaxis (clean, contaminated, dirty surgery and patient factors/ comorbidities), clean surgery does not routinely require prophylaxis, not for treatment of infection. 
+- Select the ideal agent and use in an appropriate way
+- Work against the pathogens most likely to contaminate site, with consideration of their resistance patterns 
+- Shortest effective durations 
+- Correct administration to ensure optimal concentration during the procedure 
+- Minimal adverse effects 
+- Adverse drug reaction from the antibiotic 
+- Selection pressure for resistant organisms
+- Complications (such as Clostridium difficile infections and cannula site infections) 
+
+**Cephazolin in joint replacement as an example:**
+
+- Risk of infection moderate however morbidity associated with infection high as impacting prothesis into bone so antibiotic chemoprophylaxis indicated 
+- Infection most likely from skin commensals including staphylococcal and streptococcal bacteria. 
+- First generation cephalosporins (i.e. cephazolin) effective against skin commensal gram positive cocci, antibiotic child by be changed/influenced by presence or likelihood of resistant organisms i.e. MRSA
+- Cephazolin is bactericidal
+- Cephazolin IV formulation ideal for rapid delivery and absorption.  
+- Dosage of cephazolin (25mg/kg) at least 15min but no longer than 60min prior to knife from skin / tourniquet inflation. 
+- Duration 4 hours, repeat dose required in longer cases.

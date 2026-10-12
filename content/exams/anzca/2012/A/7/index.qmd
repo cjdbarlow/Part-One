@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012A Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the suitability of ketamine as an intravenous anaesthetic agent.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} suitability by balancing benefits and limitations within each section. Cover pharmaceutics, onset and offset, anaesthesia and analgesia, then cardiovascular and respiratory effects in their clinical context.
+
+::: {.structure-headings}
+### Pharmaceutics and Administration
+
+### Onset, Distribution and Metabolic Offset
+
+### Anaesthetic and Analgesic Effects
+
+### Emergence and Other Central Effects
+
+### Cardiovascular and Respiratory Balance
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**40.1%** of candidates passed this question.
+
+To answer this question candidates needed both to know factual material and to be able apply it in a discussion on ketamine's suitability or otherwise as an intravenous agent. It was difficult for candidates who used a table to actually discuss the points, and separating advantages and disadvantages made it difficult to explain the balance between them. For example, consider the best structure to expound that the maintenance of airway reflexes is advantageous when under resourced but that this needs to be considered against the risk of airway irritability with airway placement or with the increased oral secretions seen with ketamine.
+
+Breadth is also needed in this question with pharmaceutics and pharmacokinetics addressed in addition to pharmacodynamics. Ketamine is used for both induction and maintenance of anaesthesia, with maintenance being usually with bolus dosing, and a pharmacokinetic discussion needs to explain this. Many candidates wrote about alternate routes of ketamine administration or its use in chronic pain, neither of which garnered marks. A previous year's question compared ketamine to propofol and some candidates appeared to answer this, not the current question.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2012/A/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Ketamine](/content/pharmacopoeia/neuro/ketamine.qmd)

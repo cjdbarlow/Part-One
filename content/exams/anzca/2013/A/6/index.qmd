@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013A Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+Sevoflurane and fentanyl are a common anaesthetic drug combination. [**Discuss**]{.task-verb} pharmacological reasons why it is useful to use them together.
+:::
+
+Also asked in: [2009B Question 1](/content/exams/anzca/2009/B/1/index.qmd#examiner-comments), [2015A Question 5](/content/exams/anzca/2015/A/5/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+**[Discuss]{.task-verb}** why the combination is useful under these headings. Connect each interaction to its effect on anaesthesia, dose requirements or recovery.
+
+::: {.structure-headings}
+### Pharmacodynamic Interactions
+
+### Pharmacokinetic Interactions: Onset, Offset and Elimination
+
+### Pharmaceutics and Implications of Reduced Doses
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Old Exam: **62%** of candidates achieved a pass in this question
+
+New Exam: **57%** of candidates achieved a pass in this question
+
+The classifications of both sevoflurane and fentanyl were well defined. Moreover the pharmacodynamics of their actions and the side effects associated with these were also well described. Included were good explanations of the beneficial modulating effects that the two agents do have on the pharmacodynamic effects of each other e.g. analgesia, cardiovascular parameters. This was, perhaps, at times at the expense of mentioning some aspects of the pharmacokinetics pertaining to these two agents. The question does ask about the pharmacology pertaining to choosing to use the two agents together.
+
+Discussion of onset and offset relationships, lack of competition in distribution, protein binding, metabolism or elimination indicated that the two agents do have minimal kinetic interaction. Some extra marks were gained by the inclusion of a graph that related the synergism, factors which make the reduced dosages of agents influence cost and greenhouse effects.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2009/B/1/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2009/B/1/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Drug interactions](/content/pharmacology/drug_interactions.qmd)
+- [Inhalational anaesthetics](/content/pharmacopoeia/neuro/inhalational_anaesthetics.qmd)
+- [Opioid pharmacology](/content/pharmacopoeia/analgesics/opioids.qmd)

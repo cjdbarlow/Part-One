@@ -1,0 +1,75 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999B Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the mechanism and treatment of the toxicity of sodium nitroprusside.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} the mechanisms of toxicity and their treatment, linking nitroprusside metabolism to cyanide and thiocyanate accumulation. Separate these from methaemoglobinaemia and excessive hypotension.
+
+::: {.structure-table}
+| Toxic Effect | Mechanism and Risk | Recognition | Treatment |
+|---|---|---|---|
+| Cyanide Toxicity | | | |
+| Thiocyanate Toxicity | | | |
+| Methaemoglobinaemia | | | |
+| Excessive Hypotension | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**48%** of candidates passed this question. A complete answer required not only the description of the primary mechanism of cyanide toxicity but also toxicity associated with thiocyanate, methaemaglobinaemia and excessive hypotension associated with nitric oxide. An indication of the dosage at which this might occur and the relationship of this to metabolic pathways of excretion was appropriate.
+
+Treatment was best covered by an explanation of the cessation of infusion of nitroprusside in the presence of warning signs (elevated mixed venous PO~2~, metabolic acidosis and tachyphylaxis). Further explanation of the use of sodium nitrate to convert haemoglobin to methaemoglobin in severe toxicity and the use of sodium thiosulphate and the use of sodium thiosulphate and hydroxycobalamine in less severe toxicity was necessary.
+
+There was considerable confusion amongst candidates as to the structure (and activity) of nitroprusside with many unaware of the presence of a nitric oxide group or iron. Many candidates did not understand the role of methaemaglobin and often had an incorrect understanding of the action of methylene blue believing it to form rather than reverse methaemaglobinaemia. A significant number of candidates made no valid attempt at the question.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/B/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Direct vasodilators](/content/pharmacopoeia/cvs/direct_vasodilators.qmd)

@@ -1,0 +1,88 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2021A Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the major classes of oral hypoglycaemic drugs and provide an example for each class. [**Briefly outline**]{.task-verb} their mechanism of action and major side effects.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} the main classes with an example, then [**briefly outline**]{.task-verb} each mechanism and major adverse effects in the same table row. Cover a broad range of classes and use specific effects rather than vague toxicity labels.
+
+::: {.structure-table}
+| Class | Example | Mechanism | Major Adverse Effects |
+|---|---|---|---|
+| Biguanides | | | |
+| Sulfonylureas | | | |
+| SGLT2 Inhibitors | | | |
+| DPP4 Inhibitors | | | |
+| Alpha-Glucosidase Inhibitors | | | |
+| Thiazolidinediones | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**57.4%** of candidates achieved a pass in this question
+
+To pass this question it was expected candidates would:
+
+- list several classes of oral hypoglycaemics and provide an example for each
+- include the mechanism of action for each drug class
+- list at least 1 major side effect for each class
+
+Either a table or a simple list were acceptable ways to format the answer. Credit was awarded for including major perioperative implications for the main classes of drugs, but this was not necessary to pass. Marks were not awarded for the discussion of insulin pharmacology.
+
+Common problems included
+
+- a lack of breadth (only including 2 or 3 classes of drugs),
+- lack of depth (such as very basic mechanisms, or complete omission of mechanisms),
+- confusing the mechanism of action between classes and for misclassifying drug examples.
+- adverse effects were often vague, or incorrect (in particular, regarding risk of hypoglycaemia).
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2021/A/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Oral hypoglycaemic drugs](/content/pharmacopoeia/endo/oral_hypoglycaemics.qmd)

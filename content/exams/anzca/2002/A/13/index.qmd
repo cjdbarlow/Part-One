@@ -1,0 +1,66 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002A Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**What are**]{.task-verb} the side effects of amiodarone and [**what problems may develop**]{.task-verb} during concurrent anaesthesia.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+Show [**what**]{.task-verb} the side effects are under **Pulmonary**, **Cardiovascular**, and **Other Adverse Effects**, then explain [**what problems may develop**]{.task-verb} during **Concurrent Anaesthesia**.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**44%** of candidates passed this question. The main points expected included the following: Pulmonary fibrosis and/or alveolitis is a common serious toxicity estimated to occur in 5 to 15% of patients on chronic therapy. The cause is not known but it has a high associated mortality. There are two presentations – progressive dyspnoea with infiltrates on chest X-ray or an acute onset cough, hypoxia, and dyspnoea that mimics infectious pneumonia. Postoperative patients are at risk of developing adult respiratory distress syndrome particularly if they have been on cardiopulmonary bypass. Additional marks were awarded for mentioning the potential role of inspired oxygen levels in this postoperative complication.
+
+Amiodarone is an antiarrhythmic agent with side effects relating to its multiple sites of action in the cardiovascular system. As a non-competitive blocker of α- and β- adrenergic receptors IV administration induces arteriolar vasodilation resulting in hypotension. General anaesthesia may exacerbate these antiadrenergic effects leading to sinus arrest, AV conduction block, peripheral dilation, hypotension and low cardiac output. Direct myocardial depressive effects are minimal. Bradycardia can occur with chronic therapy and the additive effect of volatile anaesthetics in suppressing myocardial conduction may enhance this effect. Amiodarone prolongs the cardiac action potential, and hence the QT interval, through its suppression of outward K channels. This may lead to life threatening ventricular arrhythmias including torsades de pointes, although the incidence is less than with other class III agents.
+
+Hypothyroidism or hyperthyroidism occurs in 2-4% of patients, and is related to the iodine content of amiodarone. Corneal microdeposits occur in almost all patients receiving long term therapy. Photosensitive skin reactions are quite common, slate grey pigmentation that persists after discontinuation of the drug is more rare. Dose dependent mild increases in liver transaminases are common. Peripheral neuropathy can occur in patients on long term high dosage. Additional credit was given for mentioning the pharmacokinetic implications of displacement of drugs such as digoxin from protein binding sites and the potentiation of warfarin.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Amiodarone](/content/pharmacopoeia/cvs/amiodarone.qmd)

@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006B Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} how a metabolic acidosis develops in hypovolaemic shock. [**Describe**]{.task-verb} the consequences of this metabolic acidosis for the body.
+:::
+
+Also asked in: [2019A Question 7](/content/exams/anzca/2019/A/7/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} the chain from reduced perfusion and oxygen delivery to altered cellular metabolism and acid accumulation. [**Describe**]{.task-verb} consequences with their mechanisms, distinguishing direct acidaemia effects from compensation and sympathetic responses.
+
+::: {.structure-headings}
+### Hypovolaemia and Tissue Oxygen Delivery
+
+### Oxidative Phosphorylation and Glycolysis
+
+### Acid Production and Clearance
+
+### Cardiovascular and Respiratory Consequences
+
+### Buffering, Compensation and Other Organ Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**53 %** of candidates passed this question.
+
+Candidates who scored well answered the question in a structured fashion, with definitions of the issues at hand and answered both sections. Although an understanding of how metabolic acidosis develops in hypovolaemic shock was essential, extra credit was earned for understanding the factors that exacerbate the metabolic acidosis in this situation and for demonstrated knowledge of the metabolic pathways involved. Some candidates demonstrated an excellent understanding of these and how they relate to one another.
+
+A common error among candidates was to detail physiological consequences of hypovolaemic shock at the expense of addressing the physiological consequences of metabolic acidosis. There was limited information on the cardiovascular effects of a metabolic acidosis. Many candidates were able to state that a metabolic acidosis results in myocardial depression. Few were able to outline how a metabolic acidosis effects the response of the cardiovascular system to sympathetic outflow, or at what pH these effects may occur.              Respiratory and renal compensatory mechanisms, when addressed, were generally well described.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2006/B/15/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2006/B/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Anaerobic metabolism](/content/metabolic/anaerobic.qmd)
+- [Acid–base balance](/content/renal/acid_base.qmd)

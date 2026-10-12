@@ -1,0 +1,85 @@
+#### List:
+
+- Summary
+- Cardiovascular innervation
+- Direct effects
+- Compensatory effects
+- Special responses
+
+#### Summary:
+
++---------------------+--------------------------------------------------------------------------------------------------+
+| Mechanism of action | - Antagonist at voltage-dependent Na+ channel                                                    |
+|                     | - Epidural: spinal nerve roots (dorsal \> ventral), dorsal root ganglia, paravertebral SNS chain |
+|                     |   - Causes more hypotension for a given height and depth of block                                |
+|                     | - Subarachnoid: spinal nerve roots, dorsal root ganglia, spinal cord                             |
++---------------------+--------------------------------------------------------------------------------------------------+
+| Direct effects      | - ↓SNS activity → hypotension                                                                    |
+|                     |   - ∝ Block height                                                                               |
+|                     |   - ∝ Block density                                                                              |
+|                     | - ↔PSNS activity                                                                                 |
++---------------------+--------------------------------------------------------------------------------------------------+
+| Compensation        | - ↓Hormonal response                                                                             |
+|                     | - ↓Neural response if high block                                                                 |
++---------------------+--------------------------------------------------------------------------------------------------+
+| Problem             | - Bilateral sympatholysis is very dangerous if                                                   |
+|                     |   - Hypovolaemic (e.g. dehydration in prolonged labour)                                          |
+|                     |   - Fixed cardiac output (e.g. aortic stenosis)                                                  |
+|                     |   - Susceptible to LVOT obstruction (e.g. HOCM)                                                  |
++---------------------+--------------------------------------------------------------------------------------------------+
+
+#### Cardiovascular innervation: sympathetic nervous system
+
++-------------------+---------------------------------------------------------------------------+
+| Pathway           | - Premotor cell: RVM medulla (releases ACh)                               |
+|                   | - Pre-ganglionic cell: intermediolateral column (releases ACh)            |
+|                   | - Post-ganglionic cell: paravertebral chain (releases NAd)                |
++-------------------+---------------------------------------------------------------------------+
+| Spinal cord level | - Upper thoracic: head, upper limb, thorax                                |
+|                   | - Lower thoracic: abdomen, kidneys, adrenal medulla (secretes adrenaline) |
+|                   | - Upper lumbar: pelvis, lower limb                                        |
++-------------------+---------------------------------------------------------------------------+
+| Receptor effects  | - α~1~: vasoconstriction, venoconstriction                                |
+|                   | - β~1~: ↑heart rate, ↑contractility; ↑renin release                       |
++-------------------+---------------------------------------------------------------------------+
+
+#### Direct effects:
+
++----------+------------------------------------------------------------+
+| Vascular | - Vasodilation → ↓SVR → ↓mAP\                              |
+|          |   (less important – intrinsic tone well maintained)        |
+|          | - Venodilation → ↓venous return, ↓cardiac output, ↓mAP\    |
+|          |   (more important – intrinsic tone not well maintained)    |
++----------+------------------------------------------------------------+
+| Cardiac  | - ↓Heart rate, ↓contractility\                             |
+|          |   (only if upper thoracic)                                 |
++----------+------------------------------------------------------------+
+
+#### Compensation:
+
++-----------+---------------------------------------------------------------------------------+
+| Neural    | - Baroreceptors: stretch-sensitive mechanoceptors in carotid and aortic sinuses |
+|           | - ↓mAP → ↓stretch → ↓afferent → ↓SNS inhibition                                 |
+| (seconds) |   - ↑HR, ↑contractility                                                         |
+|           |   - ↑Venoconstriction → ↑preload                                                |
+|           |   - ↑Vasoconstriction → ↑SVR                                                    |
++-----------+---------------------------------------------------------------------------------+
+| Hormonal  | - ↑Renin-angiotensin-aldosterone system activation                              |
+|           |   - Vasoconstriction                                                            |
+| (minutes) |   - ↑Na^+^/H~2~O reabsorption → ↑blood volume → ↑venous return                  |
+|           | - ↑ADH release                                                                  |
+|           |   - Vasoconstriction                                                            |
+|           |   - ↑H~2~O reabsorption → ↑blood volume → ↑venous return                        |
+|           | - ↓ANP release                                                                  |
+|           |   - ↓Natriuresis → ↑blood volume → ↑venous return                               |
++-----------+---------------------------------------------------------------------------------+
+
+#### Special responses:
+
++---------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| Bezold-Jarisch reflex     | - Caused by ↓venous return and ↓afterload                                                                                        |
+|                           | - Contraction of underfilled LV → stimulation of unmyelinated PSNS C fibres → ↑↑PSNS output → ↓↓HR, ↓BP, coronary vasodilatation |
++---------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| Reverse Bainbridge reflex | - Caused by ↓venous return                                                                                                       |
+|                           | - ↓RA distension → ↓activation of venoatrial stretch receptors → ↑PSNS output and direct effect on AV node → ↓↓HR                |
++---------------------------+----------------------------------------------------------------------------------------------------------------------------------+

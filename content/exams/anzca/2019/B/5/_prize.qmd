@@ -1,0 +1,65 @@
+#### List:
+
+- Intro: definitions and how it works
+- Diagramme
+- Table: problem and solution
+
+#### Intro:
+
++----------------+---------------------------------------------------------------------------+
+| Key features   | - Pressure gradient provided by fresh gas supply (cf. inspiratory effort) |
+|                | - High resistance                                                         |
+|                | - Unidirectional                                                          |
+|                | - Agent-specific                                                          |
++----------------+---------------------------------------------------------------------------+
+| Reason for use | - Most volatile agents are lethal at SVP\                                 |
+|                |   e.g. sevoflurane 160mmHg = 22% ≈ 11 MAC                                 |
++----------------+---------------------------------------------------------------------------+
+| Tec 5          | - Vapouriser chamber producing volatile-saturated gas                     |
+|                | - Bypass chamber                                                          |
+|                | - Splitting ratio controlled by a user-controlled dial.                   |
++----------------+---------------------------------------------------------------------------+
+| Tec 6          | - Vapourising chamber at 39°C → 2atm pressure                             |
+|                | - Computer-controlled injection into the bypass stream                    |
++----------------+---------------------------------------------------------------------------+
+
+#### Diagrammes:
+
+![](/content/exams/anzca/2019/B/5/prize-image001.jpg){fig-alt="Tec 5 variable bypass vaporiser with bimetallic strip, wick and baffle"}![](/content/exams/anzca/2019/B/5/prize-image002.jpg){fig-alt="Tec 6 heated vaporiser with differential pressure transducer and computer-controlled delivery"}
+
+#### Problems and solutions:
+
++------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| **Problem:**                                         | **Prevention:**                                                                                                                  |
++======================================================+==================================================================================================================================+
+| Spilling → liquid in bypass chamber → supersaturated | - Transport valves                                                                                                               |
+|                                                      | - Overflow ports                                                                                                                 |
+|                                                      | - Long inflow to vapourisation chamber                                                                                           |
++------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| Wrong drug                                           | - Key indexed filling                                                                                                            |
+|                                                      | - Colour coding of vapouriser and bottle                                                                                         |
++------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| Two vapourisers running at once                      | - Interlock                                                                                                                      |
+|                                                      | - Single cartridge slot (Aladdin cassette)                                                                                       |
++------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| Disconnection, leak                                  | - Same interlock device                                                                                                          |
+|                                                      | - Machine self-testing                                                                                                           |
++------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| Empty → no volatile delivery                         | - Alarms on machine (low MAC)                                                                                                    |
+|                                                      | - Alarms on vapouriser: desflurane                                                                                               |
++------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| Inaccuracy at extremes of flow rate                  | - Very high: wicks, baffles, bubbling ensures proper saturation                                                                  |
+|                                                      | - Very low: machine limits low flow rate e.g. 0.2L/min                                                                           |
++------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| ↓temp → ↓SVP → ↓%                                    | - Bimetallic strip: different coeff of thermal expansion                                                                         |
+|                                                      | - Copper heat sink: high SHC and high thermal conductivity                                                                       |
+|                                                      | - Tec 6: heat to 39°C → 2 atmospheres → injection (BP 24°C, close to room temp, would be dangerous if unheated and uncontrolled) |
++------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| Pumping effect                                       | - Adequate length of tubing between vapouriser and circuit                                                                       |
+|                                                      | - Unidirectional valve between vapouriser and circuit                                                                            |
+|                                                      | - Inspiratory valve prevents back pressure from patient                                                                          |
++------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| MRI incompatibility                                  | - ?                                                                                                                              |
++------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| Transport                                            | - ?                                                                                                                              |
++------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+

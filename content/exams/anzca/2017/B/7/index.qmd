@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2017B Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Compare and contrast**]{.task-verb} the pharmacology of ephedrine and norepinephrine (noradrenaline).
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Compare and contrast**]{.task-verb} structure, kinetics and dynamics in parallel. Connect direct and indirect receptor actions to cardiovascular responses, clinical use, repeated dosing and important adverse effects.
+
+::: {.structure-table}
+| Feature | Ephedrine | Noradrenaline |
+|---|---|---|
+| Structure and Receptor Actions | | |
+| Administration and Time Course | | |
+| Distribution, Metabolism and Elimination | | |
+| Cardiovascular and Other Effects | | |
+| Clinical Uses, Interactions and Adverse Effects | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**61.2%** of candidates achieved a pass in this question
+
+Candidates were required to compare the pharmacology of ephedrine and noradrenaline. It was difficult to score highly if a structure such as uses, pharmaceutics, pharmacodynamics, pharmacokinetics, side effects and interactions was not used. Common errors included being vague with answers (e.g. “works at adrenoreceptors”), over-estimating the beta effects of ephedrine, only including cardiovascular effects of the drugs and not being aware of the clinical relevance of structural differences between the two medications. Some candidates answered the question using adrenaline instead of ephedrine and candidates are reminded to read short answer questions carefully.
+
+Candidates who scored highly included the above (with correct information), and discussed clinically relevant and important points about the drugs that fall outside the above sections. Often candidates who scored well were able to discuss the differences in structure between the two medications and what the implications of these structural differences are.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2017/B/7/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2017/B/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Adrenergic drugs](/content/pharmacopoeia/cvs/adrenergic_drugs.qmd)

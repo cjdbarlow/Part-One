@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2017B Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Write brief notes**]{.task-verb} on the pharmacology of tramadol.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Write brief notes**]{.task-verb} using pharmaceutics, kinetics and dynamics. Explain the complementary actions of the enantiomers and active metabolite, then relate metabolism, interactions and adverse effects to clinical use.
+
+::: {.structure-headings}
+### Class, Presentation and Administration
+
+### Absorption, Distribution and Elimination
+
+### Metabolism and Active Metabolite
+
+### Enantiomers and Analgesic Mechanisms
+
+### Adverse Effects, Interactions and Variability
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**68.9%** of candidates achieved a pass in this question
+
+The high pass rate reflects the multitude of marks that could be awarded for this question, though many candidates failed to demonstrate the understanding of the pharmacology that was required for high marks. Marks were awarded for stating that Tramadol is a racemic mixture and that both enantiomers are required for analgesic activity. Better candidates could correctly identify which enantiomer caused which particular pharmacology action.
+
+Marks were also awarded for correctly naming the active metabolite of Tramadol and its significance. Many candidates incorrectly stated that Tramadol is a serotonin or noradrenaline agonist; it inhibits reuptake and thereby increases the availability of these biologic amines in the synaptic cleft. Listing the effects/side effects of tramadol without quantifying how these differ from other analgesics did not get awarded marks.
+
+Writing pages on pharmacogenetics did not get awarded marks – this was asked in the last exam. Many candidates omitted the fact that Tramadol and its metabolites also undergo phase II reactions.         Candidates used the pharmaceutical, pharmacodynamics, pharmacokinetic model to answer the question. However, many clearly made up values for lipid solubility, pKa, protein binding and volume of distribution. Guessing does not get awarded marks. Bonus marks were awarded for stating Tramadol’s interaction with other drugs used in anaesthesia.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2017/B/15/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2017/B/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Tramadol](/content/pharmacopoeia/analgesics/tramadol.qmd)

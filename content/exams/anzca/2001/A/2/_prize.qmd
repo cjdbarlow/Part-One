@@ -1,0 +1,33 @@
+#### List:
+
+- Skeletal muscle physiology
+- Length-tension graph and mechanism
+- Tension-velocity graph and mechanism
+
+#### Skeletal muscle physiology:
+
+![](/content/exams/anzca/2001/A/2/prize-image001.jpg){fig-alt="Sarcomere structure showing actin, myosin, Z lines and the A, H and I bands"}
+
+- Excitation: action potential at motor nerve terminal → depolarise post-junctional membrane
+- Contraction: muscle depolarisation → ↑Ca^2+^ → cross-bridge cycling
+
+#### Length-tension relationship:
+
+![](/content/exams/anzca/2001/A/2/prize-image002.jpg){fig-alt="Skeletal muscle active, passive and total force against percentage resting length"}
+
+- Total tension = active + passive
+- Active tension:
+  - Actin-myosin cross bridge cycling
+  - Usual sarcomere length 1.8μm
+  - Optimal sarcomere length 2.2μm sarcomere. Ideal balance between
+    - a)↓Length → ↑actin-myosin overlap
+    - b)↑Length → ↑TnC affinity for Ca^2+^ → ↑actin exposure by tropomyosin
+- Passive tension:
+  - Stretch of muscle and connective tissue (some elasticity)
+
+#### Tension-velocity relationship:
+
+![](/content/exams/anzca/2001/A/2/prize-image003.jpg){fig-alt="Force–velocity relationship showing eccentric and concentric muscle contraction"}
+
+- Energy spent on either shortening or force production
+- Hence reciprocal

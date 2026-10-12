@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004B Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} how drugs produce their pharmacological effects. [**Illustrate**]{.task-verb} each mechanism with examples.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} receptor and non-receptor mechanisms in balanced sections. [**Illustrate**]{.task-verb} each with a named drug and link its target to the resulting effect.
+
+::: {.structure-headings}
+### Ligand-Gated Ion Channels
+
+### G-Protein Coupled Receptors
+
+### Enzyme-Linked and Intracellular Receptors
+
+### Non-Receptor Mechanisms
+
+### Unknown or Incompletely Understood Mechanisms
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**67%** of candidates passed this question.
+
+Generally discussion of receptor mediated mechanisms was excellent, with ligand gated, G-protein, tyrosine kinase & intracellular DNA receptors being well covered with appropriate examples. Non receptor mechanisms are clearly important also. Some candidates confused local anaesthetics as being ligand gated receptor mediated when in fact they have direct action on ion channels.
+
+For a complete answer non-receptor mechanisms also include carrier molecules, effects on enzymes, direct chemical interaction, colligative properties and structural analogues (counterfeiting). Finally mechanisms which are unknown or not fully elucidated are relevant and received marks (eg volatile anaesthetic agents, placebo effect).
+
+Some candidates gave erudite discussions on pharmacokinetics but this did not answer the question. Good answers divided the answer into receptor and non-receptor mechanisms and didn’t get bogged down in one area. A common issue was spending too much discussion on G-protein coupled receptors at the expense of other areas.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2004/B/1/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Receptor types](/content/pharmacology/receptor_types.qmd)

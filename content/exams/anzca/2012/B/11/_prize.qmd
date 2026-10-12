@@ -1,0 +1,50 @@
+#### List:
+
+- Lymph composition
+- Anatomy
+- Physiology
+
+#### Lymph composition:
+
+- Water
+- Electrolytes
+- Protein (almost from liver due to permeable sinusoids - total 20g/L, hepatic 50g/L)
+- Fat (almost all from gut via cisterna chyli)
+- Carbohydrate
+- Immune cells (antigen-presenting cells including dendritic cells, macrophages)
+- All coagulation factors (but low level of fibrinogen)
+
+#### Anatomy:
+
++-------------+----------------------------------------------------------------------------------------------+
+| Lymphatics  | - Located in all tissues except bone, cartilage, brain                                       |
+|             | - Three layers: intima, media, adventitia                                                    |
+|             | - Anti-reflux valves                                                                         |
+|             | - Superficial lymphatics travel with veins                                                   |
+|             | - Deep lymphatics travel with arteries                                                       |
++-------------+----------------------------------------------------------------------------------------------+
+| Ducts       | - Right lymphatic duct: drains RUL, R H&N, R hemithorax                                      |
+|             | - Thoracic duct: drains everything else (N.B. Virchow’s node in supraclav fossa)             |
++-------------+----------------------------------------------------------------------------------------------+
+| Lymph nodes | - Large groups in axilla, inguinal, cervical regions (for UL, LL, H&N respectively), abdomen |
+|             | - Cisterna chyli: dilated sac at the lower end of the thoracic duct (for GIT)                |
++-------------+----------------------------------------------------------------------------------------------+
+
+#### Physiology:
+
++-----------------+-------------------------------------------------------------------------------------------------------------------------------------------+
+| Circulation     | - Extrinsic pump: compression by skeletal muscle or arterial pulsation                                                                    |
+|                 | - Intrinsic pump: smooth muscle                                                                                                           |
+|                 | - Valves ensure unidirectional flow                                                                                                       |
+|                 | - Production: 8-12L/day (↑if exercise, capillary leak e.g. sepsis, anaphylaxis)                                                           |
+|                 | - Reabsorption: 4-8L/day via LNs; 4L/day via ducts (↓ if lymphoedema, radiation, obstruction)                                             |
++-----------------+-------------------------------------------------------------------------------------------------------------------------------------------+
+| Role in health  | - Return extravasated fluid and protein to circulation, minimise oedema                                                                   |
+|                 | - Transport ingested fat to circulation (bypass liver → prevent fatty liver)                                                              |
+|                 | - Transport antigen-presenting cells to lymph nodes                                                                                       |
+|                 | - Formation of concentrated urine: removal of protein-rich ISF from medulla, allows water to enter vasa recta, preserves osmotic gradient |
++-----------------+-------------------------------------------------------------------------------------------------------------------------------------------+
+| Role in disease | - Lymphoedema                                                                                                                             |
+|                 |   - Destruction e.g. surgery, radiation                                                                                                   |
+|                 |   - Obstruction e.g. tumour                                                                                                               |
++-----------------+-------------------------------------------------------------------------------------------------------------------------------------------+

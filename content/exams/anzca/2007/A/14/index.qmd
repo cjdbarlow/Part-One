@@ -1,0 +1,92 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007A Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the mechanisms whereby oxygen transfer is facilitated at the placenta.
+:::
+
+Also asked in: [2015B Question 11](/content/exams/anzca/2015/B/11/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} transfer using diffusion and the maternal–foetal oxygen gradient. Connect membrane properties, haemoglobin concentration and affinity, and linked carbon dioxide exchange to maintenance of that gradient.
+
+::: {.structure-headings}
+### Diffusion Across the Placenta
+
+### Maternal and Foetal Partial Pressures
+
+### Haemoglobin Concentration and Affinity
+
+### Bohr and Double Bohr Effects
+
+### Haldane Effects and Coupled Gas Transfer
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**59%** of candidates passed this question.
+
+Oxygen passes from the mother to the fetus at the placenta by diffusion. This process is facilitated by a large number of factors including:
+
+1. The placental structure is designed to facilitate diffusion, best summarised by the factors in the Fick equation.
+2. The increased affinity for oxygen of fetal compared to maternal haemoglobin
+3. The increased concentration of fetal haemoglobin.
+4. The (double) Bohr effect.
+
+Other factors which could be discussed included the potential role for maternal hyperventilation (with increased maternal PaO~2~ and changes in acid base metabolism) associated with pregnancy and the (double) Haldane effect (relevant due to the increased carbon dioxide flux amplifying the Bohr effects).
+
+The commonest difficulties with the question arose from taking too narrow a focus. Many candidates confining themselves to describing the double Bohr effect almost in isolation, perhaps supplemented with reference to the differences between fetal and adult haemoglobin oxygen affinity. How the structure of the placenta facilitates diffusion and the role of the high concentration of fetal haemoglobin were the commonest omissions.
+
+The double Bohr effect was generally well described, but, those that had difficulty mostly misunderstood the concept that the Bohr effect concerned:
+
+1. The decrease in haemoglobin oxygen affinity from arterial to venous on the maternal side of the placenta due to increased concentration of carbon dioxide, and
+2. Increase haemoglobin oxygen affinity from arterial to venous on the fetal side due to decreased carbon dioxide concentration.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2007/A/14/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Placenta](/content/obs/placenta.qmd)

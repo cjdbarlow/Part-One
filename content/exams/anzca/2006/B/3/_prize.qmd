@@ -1,0 +1,114 @@
+#### List:
+
+- Intro
+- Kinetics/biophasics
+- Dynamics
+
+#### Intro:
+
++--------------------+-----------------------------------------------------------------------+
+| IV induction drugs | - Propofol: 1-2mg/kg                                                  |
+|                    | - Thiopentone: 3-7mg/kg                                               |
+|                    | - Ketamine: 1-2mg/kg                                                  |
+|                    | - Etomidate: 0.3mg/kg                                                 |
+|                    | - Midazolam: 0.3mg/kg                                                 |
++--------------------+-----------------------------------------------------------------------+
+| Problems           | - The three compartment model poorly describes induction kinetics     |
+|                    | - Variable relationship between dose and concentration (= kinetics)   |
+|                    | - Variable relationship between concentration and effect (= dynamics) |
++--------------------+-----------------------------------------------------------------------+
+| Implications       | - Risk of overdose → hypotension                                      |
+|                    | - Risk of underdose → risk of awareness                               |
+|                    | - Propofol TCI models are inaccurate at induction                     |
++--------------------+-----------------------------------------------------------------------+
+
+#### Pharmacokinetics / pharmacobiophasics:
+
++-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Time course | - Kinetics = administration → plasma concentration (Cp)                                                                                                                            |
+|             |   - Three compartment model inaccurate                                                                                                                                             |
+|             |   - Mostly patient-dependent delay                                                                                                                                                 |
+|             | - Biophasics = plasma concentration → effect site concentration (Ce)                                                                                                               |
+|             |   - Modelled by t~1/2ke0~                                                                                                                                                          |
+|             |   - Mostly drug-dependent delay                                                                                                                                                    |
++-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Onset       | Speed of LOC ∝ (magnitude of peak effect) / (time to peak effect)                                                                                                                  |
+|             |                                                                                                                                                                                    |
+|             | \(A\) Magnitude of peak effect ∝                                                                                                                                                   |
+|             |                                                                                                                                                                                    |
+|             | - ↑Dose size                                                                                                                                                                       |
+|             | - ↑Speed of injection (bolus cf. TCI injection)                                                                                                                                    |
+|             | - ↓Cardiac output (↑pregnant/neonate/obese, ↓elderly/shock)                                                                                                                        |
+|             | - ↓Central blood volume (↑pregnant/obese/neonate, ↓elderly/shock)                                                                                                                  |
+|             | - ↑Speed and extent of recirculatory second peak (important if bolus is slow)                                                                                                      |
+|             |                                                                                                                                                                                    |
+|             | \(B\) Time to peak effect ∝                                                                                                                                                        |
+|             |                                                                                                                                                                                    |
+|             | - ↑Rate of delivery to effect site                                                                                                                                                 |
+|             |   - ↑Cardiac output (note bivalent effects)                                                                                                                                        |
+|             |   - ↓Distance from injection site to brain (e.g. CVC cf. lower limb PIVC)                                                                                                          |
+|             | - ↑Rate of effect site equilibration (↑k~e0~ → ↓t~1/2ke0~)                                                                                                                         |
+|             |                                                                                                                                                                                    |
+|             | ![](/content/exams/anzca/2006/B/3/prize-image001.jpg){fig-alt="Effect-site equilibration rate constant relationship to membrane area, thickness, solubility and molecular weight"} |
+|             |                                                                                                                                                                                    |
+|             | - ↓Thickness (e.g. immature BBB in neonate)                                                                                                                                        |
+|             | - ↑Lipid solubility (e.g. thiopentone – t1/2~ke0~ 1 min – hence clear endpoint)                                                                                                    |
+|             | - ↑% Unionized (e.g. propofol \>99% - t1/2~ke0~ 2.6 mins)                                                                                                                          |
++-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Offset      | Speed of offset ∝ distribution x metabolism x excretion                                                                                                                            |
+|             |                                                                                                                                                                                    |
+|             | \(A\) Distribution ∝                                                                                                                                                               |
+|             |                                                                                                                                                                                    |
+|             | - ↑Cardiac output / compartment blood flow (as above)                                                                                                                              |
+|             | - ↑Compartment volume (↑obesity/bodybuilders, ↓cachexia)                                                                                                                           |
+|             | - ↑Compartment-to-blood partition coefficient                                                                                                                                      |
+|             |                                                                                                                                                                                    |
+|             | \(B\) Metabolism: rarely important after induction bolus                                                                                                                           |
+|             |                                                                                                                                                                                    |
+|             | - e.g. thiopentone: zero order kinetics → hang-over effect                                                                                                                         |
+|             |                                                                                                                                                                                    |
+|             | \(C\) Excretion rate: unimportant after induction bolus                                                                                                                            |
+|             |                                                                                                                                                                                    |
+|             | - e.g. ketamine: accumulation of norketamine metabolite in renal failure                                                                                                           |
++-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Dynamics:
+
++------------------+-------------------------------------------------------------------------------+
+| Time course      | - Dynamics = effect site concentration → effect                               |
+|                  |   - Represented by dose response curve                                        |
+|                  |   - Effect on brainstem, thalamus, cerebral cortex                            |
+|                  |   - Minimal delay                                                             |
++------------------+-------------------------------------------------------------------------------+
+| Physiology       | - Neonate: immature brain structures → ↓Cp~50~                                |
+|                  | - Elderly: ?↓ion channel function, ?↓ synaptic activity → ↓Cp~50~             |
+|                  | - Pregnancy: progesterone → ↓Cp~50~                                           |
+|                  | - Obesity: inflammatory cytokines → ↓Cp~50~                                   |
+|                  | - Anxiety → ↑SNS → ↑Cp~50~                                                    |
++------------------+-------------------------------------------------------------------------------+
+| Pathology        | ↓Cp~50~ if:                                                                   |
+|                  |                                                                               |
+|                  | - ↓mAP (\<40mmHg)                                                             |
+|                  | - ↓pO~2~ (\<40mmHg)                                                           |
+|                  | - ↑pCO~2~ (\>60mmHg sedation, \>80mmHg anaesthesia if acute)                  |
+|                  | - ↓Temp                                                                       |
+|                  | - ↓pH                                                                         |
+|                  |                                                                               |
+|                  | ↑Cp~50~ if:                                                                   |
+|                  |                                                                               |
+|                  | - ↑Temp                                                                       |
++------------------+-------------------------------------------------------------------------------+
+| Drug interaction | - Synergistic: e.g. fentanyl 1mcg/kg reduces dose of propofol by 20%          |
+|                  | - Additive: e.g. ↓propofol Cp~50~ co-induction with volatile agent            |
+|                  | - Infra-additive: e.g. ketamine + midazolam                                   |
+|                  | - Antagonistic: e.g. propofol + acute amphetamine                             |
+|                  | - Tolerance: e.g. chronic barbiturate use                                     |
++------------------+-------------------------------------------------------------------------------+
+| Pharmacogenomic  | - e.g. propofol Cp~50~ for immobility is 15mcg/mL with std dev 5mcg/mL        |
+|                  | - Polymorphism of receptor structure and number, ion channels, ICF signalling |
++------------------+-------------------------------------------------------------------------------+
+| Idiosyncratic    | - Propofol: myoclonus in 10%                                                  |
+|                  | - Thiopentone:  acute intermittent porphyria rarely                           |
+|                  | - Etomidate: severe PONV common                                               |
+|                  | - Ketamine: post-op delirium in 30%                                           |
++------------------+-------------------------------------------------------------------------------+

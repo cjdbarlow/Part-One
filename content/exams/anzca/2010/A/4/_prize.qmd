@@ -1,0 +1,134 @@
+#### List:
+
+- Intro
+- Summary
+- Kinetics/dynamics
+- Dynamics
+- Special populations
+
+#### Intro:
+
++--------------+-------------------------------------------------------------------------------------------------------------------+
+| IV induction | - Agent induces unconsciousness in one arm-brain circulation time                                                 |
+|              | - Unconsciousness occurs upon reaching a threshold concentration at the effect site, usually well before the peak |
++--------------+-------------------------------------------------------------------------------------------------------------------+
+| Problems     | - Three compartment model poorly describes induction kinetics                                                     |
+|              | - Variable relationship between dose and concentration                                                            |
+|              | - Variable relationship between concentration and effect                                                          |
++--------------+-------------------------------------------------------------------------------------------------------------------+
+| Implications | - Risk of overdose → hypotension                                                                                  |
+|              | - Risk of underdose → risk of awareness                                                                           |
+|              | - Propofol TCI models are inaccurate at induction                                                                 |
++--------------+-------------------------------------------------------------------------------------------------------------------+
+
+#### Summary:
+
++------------+------------------------------------------------------------------------+
+| Kinetics   | - Delay = administration → plasma concentration (Cp)                   |
+|            | - Not well represented by the three compartment model                  |
+|            | - *Mostly patient-dependent delay*                                     |
++------------+------------------------------------------------------------------------+
+| Biophasics | - Delay = plasma concentration → effect site concentration (Ce)        |
+|            | - Represented by t1/2ke0                                               |
+|            | - Inferred by lag between ∆Cp and ∆EEG pattern                         |
+|            | - *Mostly drug-dependent delay*                                        |
++------------+------------------------------------------------------------------------+
+| Dynamics   | - Delay = effect site concentration → effect                           |
+|            | - Represented by dose response curve                                   |
+|            | - Effects on ionotropic receptors brainstem, thalamus, cerebral cortex |
+|            | - Effects are virtually immediate                                      |
+|            | - *Mostly threshold-dependent delay*                                   |
++------------+------------------------------------------------------------------------+
+
+#### Kinetic/biophasic determinants:
+
++-------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Graph             | ![](/content/exams/anzca/2010/A/4/prize-image001.jpg){fig-alt="Plasma and effect-site propofol concentration curves showing threshold concentration and delayed peak effect"} |
+|                   |                                                                                                                                                                               |
+|                   | *Speed of LOC ∝ (magnitude of peak effect) / (time to peak effect)*                                                                                                           |
++-------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Magnitude of peak | *Peak∝*                                                                                                                                                                       |
+|                   |                                                                                                                                                                               |
+|                   | - ↑Dose size                                                                                                                                                                  |
+|                   | - ↑Speed of injection (bolus cf. TCI injection)                                                                                                                               |
+|                   | - ↓Cardiac output (↑pregnant/neonate/obese, ↓elderly/shock)                                                                                                                   |
+|                   | - ↓Central blood volume (↑pregnant/obese/neonate, ↓elderly/shock)                                                                                                             |
+|                   | - ↑Recirculatory second peak (important if bolus is slow)                                                                                                                     |
++-------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Time to peak      | *Speed ∝*                                                                                                                                                                     |
+|                   |                                                                                                                                                                               |
+|                   | - ↑Rate of delivery to effect site                                                                                                                                            |
+|                   |   - ↑Cardiac output (note bivalent)                                                                                                                                           |
+|                   |   - ↓Distance from injection site (e.g. jugular cf. foot)                                                                                                                     |
+|                   | - ↑Rate of distribution                                                                                                                                                       |
+|                   |   - ↑Cardiac output (note bivalent)                                                                                                                                           |
+|                   |   - ↑Compartment uptake (e.g. ↑lipid solubility)                                                                                                                              |
+|                   | - ↑Rate of effect site equilibration                                                                                                                                          |
+|                   |                                                                                                                                                                               |
+|                   | ![](/content/exams/anzca/2010/A/4/prize-image002.jpg){fig-alt="Factors determining effect-site equilibration constant through membrane diffusion"}                            |
+|                   |                                                                                                                                                                               |
+|                   | - ↑Lipid solubility (e.g. thiopentone: t1/2~ke0~ 1 min → clear endpoint)                                                                                                      |
+|                   | - ↑% Unionized (e.g. propofol \>99%: t1/2~ke0~ 2.6 mins)                                                                                                                      |
+|                   | - ↓Thickness (e.g. immature BBB in neonate)                                                                                                                                   |
++-------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Pharmacodynamic determinants:
+
++-------------------+------------------------------------------------------------------------+
+| Physiological     | - Neonate: immature brain structures and pathways → ↓Cp~50~            |
+|                   | - Elderly: ?↓ion channel function, ?↓ synaptic activity                |
+|                   | - Pregnancy: progesterone → ↓Cp~50~                                    |
+|                   | - Obesity: inflammatory cytokines → ↓Cp~50~                            |
++-------------------+------------------------------------------------------------------------+
+| Pathological      | ↓Cp~50~ if:                                                            |
+|                   |                                                                        |
+|                   | - ↓mAP (\<40mmHg)                                                      |
+|                   | - ↓pO~2~ (\<40mmHg)                                                    |
+|                   | - ↑pCO~2~ (\>60mmHg sedation, \>80mmHg anaesthesia if acute)           |
+|                   | - ↓Temp                                                                |
+|                   | - ↓pH                                                                  |
+|                   |                                                                        |
+|                   | ↑Cp~50~ if:                                                            |
+|                   |                                                                        |
+|                   | - Anxiety, ↑SNS                                                        |
+|                   | - ↑Temp                                                                |
++-------------------+------------------------------------------------------------------------+
+| Drug interactions | - Synergistic: e.g. fentanyl 1mcg/kg reduces dose of propofol by 20%   |
+|                   | - Additive: e.g. ↓propofol Cp~50~ if co-induction with volatile agent  |
+|                   | - Infra-additive: e.g. ketamine + midazolam                            |
+|                   | - Antagonistic: e.g. propofol + acute amphetamines                     |
+|                   | - Tolerance: chronic barbiturate use → ↑Cp~50~                         |
++-------------------+------------------------------------------------------------------------+
+| Pharmacogenomics  | - e.g. propofol Cp~50~ for immobility is 15mcg/mL with std dev 5mcg/mL |
+|                   | - Polymorphism of receptors, ion channels, ICF signalling              |
++-------------------+------------------------------------------------------------------------+
+
+#### Special populations:
+
++----------+------------------------+------------------+-----------------------+
+|          | **Changes**            | **Time to peak** | **Magnitude of peak** |
++==========+========================+==================+=======================+
+| Neonate  | ↑CO +100%              | ↓                | ↓                     |
+|          |                        |                  |                       |
+|          | ↑%CO to brain          |                  |                       |
+|          |                        |                  |                       |
+|          | ↓Arm-brain distance    |                  |                       |
++----------+------------------------+------------------+-----------------------+
+| Pregnant | ↑CO +25%               | ↓                | ↓                     |
+|          |                        |                  |                       |
+|          | ↓%CO to brain          |                  |                       |
+|          |                        |                  |                       |
+|          | ↑BV 50%                |                  |                       |
++----------+------------------------+------------------+-----------------------+
+| Elderly  | ↓CO variable           | ↑                | ↑                     |
+|          |                        |                  |                       |
+|          | ↓BV variable           |                  |                       |
+|          |                        |                  |                       |
+|          | ↑%CO to brain variable |                  |                       |
++----------+------------------------+------------------+-----------------------+
+| Shocked  | ↓CO                    | ↑                | ↑                     |
+|          |                        |                  |                       |
+|          | ↓BV                    |                  |                       |
+|          |                        |                  |                       |
+|          | ↑%CO to brain          |                  |                       |
++----------+------------------------+------------------+-----------------------+

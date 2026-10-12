@@ -1,0 +1,120 @@
+#### List:
+
+- Intro
+- Effects of intra-abdominal hypertension
+- Effects of hypercapnoea
+- Effects of position change
+- Miscellaneous complications
+
+#### Intro:
+
++-----------------------+------------------------------------------------------------------------------------+
+| Capnoperitoneum       | - Steady state insufflation rate 200-400mL/min                                     |
+|                       | - Pressure 10-20mmHg                                                               |
++-----------------------+------------------------------------------------------------------------------------+
+| Cause of derangements | - Raised intra-abdominal pressure (↑IAP)                                           |
+|                       | - Hypercapnoea                                                                     |
+|                       | - Positioning                                                                      |
++-----------------------+------------------------------------------------------------------------------------+
+| Summary of effects    | - Respiratory:                                                                     |
+|                       |   - Dose-dependent embarrassment                                                   |
+|                       |   - Worse if obese or Trendelenburg)                                               |
+|                       |   - Can be offset by recruitment manoeuvres and PEEP, but at expense of CVS system |
+|                       | - Cardiovascular:                                                                  |
+|                       |   - Variable                                                                       |
+|                       |   - Significantly worse if hypovolaemic                                            |
++-----------------------+------------------------------------------------------------------------------------+
+
+#### Intra-abdominal hypertension:
+
++----------------+---------------------------------------------------------------------------------+
+| Respiratory    | - Cephalad diaphragm displacement → ↓lung volumes                               |
+|                |   - ↓FRC ± closing capacity                                                     |
+|                |   - Small airway closure                                                        |
+|                |   - Atelectasis                                                                 |
+|                |   - Shunt                                                                       |
+|                |   - Hypoxaemia                                                                  |
+|                | - ↓Lung compliance                                                              |
+|                |   - Restrictive deficit                                                         |
+|                |   - ↑Peak airway pressure                                                       |
+|                |   - ↑Risk of barotrauma                                                         |
+|                |   - Hypoventilation                                                             |
+|                | - Changes worse if obese, pregnant, Trendelenburg                               |
++----------------+---------------------------------------------------------------------------------+
+| Cardiovascular | - Biphasic effects on venous return                                             |
+|                |   - At first: autotransfusion of splanchnic blood → ↑VR → ↑CO (± initial ↑mAP)  |
+|                |   - Then: compression of IVC → ↓VR → ↓CO (more pronounced if hypovolaemic)      |
+|                | - ↑SVR due to                                                                   |
+|                |   - ↑IAP                                                                        |
+|                |   - ↑PaCO2 → ↑catecholamine release                                             |
+|                | - Dose-dependent effects on steady-state blood pressure                         |
+|                |   - IAP \<\~20mmHg → ↑mAP (↑SVR outweighs ↓venous return/cardiac output)        |
+|                |   - IAP \>\~20mmHg → ↓mAP (↓venous return/cardiac output outweighs ↑SVR)        |
+|                | - Effect on myocardial oxygen supply and demand                                 |
+|                |   - ↑Demand: ↑HR, ↑contractility, ↑stroke work                                  |
+|                |   - ↑Supply: metabolic autoregulation (but impaired if coronary artery disease) |
+|                | - Oliguria                                                                      |
+|                |   - ↑IAP →? renal venous obstruction → ↓GFR                                     |
++----------------+---------------------------------------------------------------------------------+
+
+#### Hypercapnoea:
+
++---------------------+------------------------------------------------------------------------------------------------------------------------------+
+| Mechanism           | - CO2 is rapidly absorbed into systemic circulation (30-50mL/min)                                                            |
+|                     | - Diffuses into rapidly and slowly equilibrating compartments down partial pressure gradient (note large body stores \~120L) |
+|                     | - CO2 + H2O \<-\> H2CO3 \<-\> HCO3- + H+                                                                                     |
+|                     | - Hence ↑PaCO2 → ↓pH (whole body including CNS)                                                                              |
+|                     | - Prolonged laparoscopy with ↑PaCO2 → ↑accumulation → ↑minute ventilation requirement                                        |
++---------------------+------------------------------------------------------------------------------------------------------------------------------+
+| Respiratory effects | - Respiratory acidosis                                                                                                       |
+|                     | - Potentiation of HPV                                                                                                        |
+|                     | - Distribution of blood away from poorly-ventilated dependent lung                                                           |
+|                     | - ↑V/Q matching                                                                                                              |
+|                     | - ↑PaO2                                                                                                                      |
+|                     | - Hence offsets V/Q inequality caused by small airway closure                                                                |
++---------------------+------------------------------------------------------------------------------------------------------------------------------+
+| Cardiovascular      | - If pH \>7.2: ↑SNS output → ↑inotropy                                                                                       |
+|                     | - If pH \<7.2: ↓pH → ↓inotropy                                                                                               |
+|                     | - ↓pH → sensitisation of myocardium to arrhythmogenic effects of catecholamines                                              |
+|                     | - Pulmonary vasoconstriction                                                                                                 |
+|                     | - Systemic vasodilatation (offsets ↑IAP → ↑SVR)                                                                              |
+|                     | - ↑Myocardial O2 demand (↑HR)                                                                                                |
+|                     | - ↑Myocardial O2 supply (metabolic autoregulation – but impaired if coronary artery disease)                                 |
++---------------------+------------------------------------------------------------------------------------------------------------------------------+
+
+#### Position:
+
++----------------+--------------------------------------------------------+
+| Trendelenburg  | - Respiratory                                          |
+|                |   - ± Endobronchial intubation → massive shunt → ↓PaO2 |
+|                |   - ↑Diaphragm compression                             |
+|                | - Cardiovascular                                       |
+|                |   - ↑Venous return: offsets venous compression         |
++----------------+--------------------------------------------------------+
+| Reverse Trend. | - Respiratory                                          |
+|                |   - ↓Diaphragm compression                             |
+|                | - Cardiovascular                                       |
+|                |   - ↓Venous return: compounds venous compression       |
++----------------+--------------------------------------------------------+
+
+#### Miscellaneous complications:
+
++------------------------------+------------------------------------------------------------+
+| Gas in wrong place           | - Pneumomediastinum                                        |
+|                              | - Pneumothorax                                             |
+|                              | - Subcutaneous emphysema                                   |
+|                              | - Venous gas embolism → cardiovascular collapse:           |
+|                              |   - Either intravascular insufflation directly into vessel |
+|                              |   - Or Venturi effect                                      |
++------------------------------+------------------------------------------------------------+
+| CVS collapse at insufflation | - Peritoneal stretch → vagal response                      |
+|                              |   - Sinus bradycardia, nodal rhythm, asystole)             |
+|                              | - Empty ventricle → Bezold-Jarisch reflex                  |
+|                              |   - Contraction of underfilled LV                          |
+|                              |   - Stimulation of unmyelinated PSNS C fibres              |
+|                              |   - ↑↑PSNS output → ↓HR, ↓BP, coronary vasodilatation      |
++------------------------------+------------------------------------------------------------+
+| Surgical misadventure        | - Damage to vessel by trochar                              |
+|                              | - Difficult to control bleeding                            |
+|                              | - Difficult to estimate blood loss                         |
++------------------------------+------------------------------------------------------------+

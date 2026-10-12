@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014B Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the vascular anatomy of the antecubital fossa (arterial and venous).
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the vessels under the following headings, locating each vessel and its relationships within the fossa. A labelled diagram can show these relationships.
+
+::: {.structure-headings}
+### Location and Boundaries
+
+### Arteries and Their Branches
+
+### Veins, Variations and Valves
+
+### Relationships to Nerves and Lymphatics
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**45 %** of candidates achieved a pass in this question
+
+Marks were awarded for the naming and location of the main vessels within the antecubital fossa. Mention of the relation of the median nerve to the artery, the presence of lymph vessels and venous valves all attracted extra marks when correctly described.
+
+The use of a diagram to illustrate the anatomy would have been a good method of answering this question.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2014/B/1/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2014/B/1/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Antecubital fossa](/content/anatomy/antecubital_fossa.qmd)

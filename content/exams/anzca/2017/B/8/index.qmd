@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2017B Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the factors affecting duration of action of a local anaesthetic block to a major peripheral nerve.
+:::
+
+Also asked in: [2017A Question 7](/content/exams/anzca/2017/A/7/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} duration by separating drug factors from patient and nerve factors. Explain how binding, local removal, dose, adjuvants and regional vascularity affect the time for concentration to fall below that required for blockade.
+
+::: {.structure-headings}
+### Dose, Concentration and Protein Binding
+
+### Local Removal and Intrinsic Vascular Effects
+
+### Adjuvants
+
+### Nerve Structure and Injection Site
+
+### Patient Factors and Extremes of Life
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**42.6%** of candidates achieved a pass in this question
+
+The candidates needed to cover drug and patient factors. Drug factors included: lipid solubility, protein binding, molecular size, dose, intrinsic vasoactive properties, additives, and metabolism. Patient factors included: site of administration, structure (connective tissue), and alternated states of physiology.
+
+Marks were not awarded for discussions of pathology, mechanism of action or describing factors affecting the onset time of these drugs.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2017/A/7/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2017/A/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Local anaesthetic principles](/content/pharmacopoeia/neuro/local_anaesthetic_principles.qmd)

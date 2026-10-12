@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014A Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Compare and contrast**]{.task-verb} the pharmacology of Normal Saline and 4% Albumin.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Compare and contrast**]{.task-verb} the two fluids in a table covering their preparation, pharmacokinetics and pharmacodynamics.
+
+::: {.structure-table}
+| Feature | Normal Saline | 4% Albumin |
+|---|---|---|
+| Preparation and Storage | | |
+| Composition | | |
+| Distribution | | |
+| Excretion | | |
+| Effects and Indications | | |
+| Adverse Effects | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**64.8%** of candidates achieved a pass in this question
+
+The main points required included an accurate description of the contents of each fluid including distinguishing features in how each fluid is prepared and stored. The differences in the pharmacokinetic and pharmacodynamic profile were expected. Common errors included confusion over isotonic vs iso-oncotic, the distribution of crystalloids vs colloids, and the contents of each fluid. Differences in adverse effects were often omitted or discussed superficially. Extra marks were provided to candidates who gave a discussion on the overall benefits of one fluid over another in specific settings or provided greater detail on specific adverse effects.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2014/A/13/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2014/A/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Intravenous fluids](/content/pharmacopoeia/renal/intravenous_fluids.qmd)
+- [Starling forces](/content/cvs/starling_forces.qmd)

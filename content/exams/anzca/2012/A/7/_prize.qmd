@@ -1,0 +1,123 @@
+#### List:
+
+- Intro
+- PC
+- PK
+- PD
+
+#### Intro:
+
+- Used as a sole agent in 3^rd^ world and field anaesthesia
+- Anaesthetic: for induction (bolus) and maintenance (infusion or repeat boluses)
+- Analgesic
+- Relatively safe cardiovascular and respiratory profile
+- Cheap
+
+#### Pharmaceutics:
+
+- Stable in solution
+- No toxic additives (benzethonium chloride: theoretical risk neurotoxicity)
+- Low risk of bacterial growth
+- No bacterial growth
+- No histamine release
+- No anaphylaxis
+- No pain on IV injection
+- Suitable for IM injection of IV access lost
+
+#### Pharmacokinetics:
+
++----------------+--------------------------------------------------------------------+
+| Administration | - Many routes: IV, IM, SC, intranasal, PO                          |
+|                | - Used for oral premedication in children                          |
+|                | - For IM sedation of patients without IV access                    |
++----------------+--------------------------------------------------------------------+
+| Time course    | - Fast onset (30 seconds)                                          |
+|                | - Fast peak (90 seconds)                                           |
+|                | - Duration highly dependent upon dose                              |
++----------------+--------------------------------------------------------------------+
+| Absorption     | N/A                                                                |
++----------------+--------------------------------------------------------------------+
+| Distribution   | - Very high lipid solubility (5-10x that of thiopentone)           |
+|                | - Very fast effect site equilibration (t~1/2ke0~ 0.5 minutes)      |
+|                |   - Suitable for induction                                         |
+|                | - Large V~DSS~ 3L/kg                                               |
+|                | - Rapid distribution                                               |
+|                |   - Can be rapid offset after a bolus                              |
++----------------+--------------------------------------------------------------------+
+| Metabolism     | - Hepatic, phase 1, CYP3A4 N-demethylation \> other                |
+|                | - High hepatic extraction ratio, flow-dependent clearance          |
+|                | - Subject to induction and inhibition                              |
+|                | - Active metabolite norketamine (30% as active)                    |
+|                |   - May increase duration of effect                                |
+|                |   - Inactivated by hydroxylation then conjugation                  |
+|                |   - t~1/2~~β~ 4 hours                                              |
+|                | - Rapid clearance 17mL/kg/min and short t~1/2~~β~ 2 hours          |
+|                |   - Suitable for maintenance infusion                              |
+|                | - Can be hepatotoxic                                               |
++----------------+--------------------------------------------------------------------+
+| Excretion      | - Active metabolite renally excreted; accumulates in renal failure |
++----------------+--------------------------------------------------------------------+
+
+#### CNS effect:
+
++--------------------------+--------------------------------------------------------------------------------------------+
+| Mechanisms               | - Principal: non-competitive NMDA antagonist at PCP site                                   |
+|                          | - Other ↑: 2PK/5HT~3~/mu opioid                                                            |
+|                          | - Other ↓: VDNaC, VdCC, monoamine reuptake, nnAChR                                         |
++--------------------------+--------------------------------------------------------------------------------------------+
+| Anaesthesia              | - Thalamocortical dissocation (amnesia, sedation, hypnosis, immobility; not anxiolytic)    |
+|                          | - Atypical effect on EEG; not suitable for BIS or entropy monitoring                       |
+|                          | - S-ketamine more potent than R-ketamine                                                   |
++--------------------------+--------------------------------------------------------------------------------------------+
+| Other beneficial effects | - Analgesia:                                                                               |
+|                          |   - Multiple mechanisms (↓NMDA, ↑monoamines, ↑↓opioids, VDNaC)                             |
+|                          |   - ↓Acute and chronic pain                                                                |
+|                          |   - ↓Somatic and neuropathic                                                               |
+|                          |   - ↓Hyperalgaesia and allodynia                                                           |
+|                          |   - Opioid-sparing\                                                                        |
+|                          |     \                                                                                      |
+|                          | - Anaesthesia + analgesia allows use as a sole agent (e.g. field anaesthesia, 3^rd^ world) |
++--------------------------+--------------------------------------------------------------------------------------------+
+| Side effects             | - Emergence delirium:                                                                      |
+|                          |   - R-ketamine \> S-ketamine                                                               |
+|                          |   - Hallucinations, nightmares in 30%                                                      |
+|                          |   - Higher risk if psychiatric illness                                                     |
+|                          |   - ?Attenuated by midazolam                                                               |
+|                          | - Emetogenic                                                                               |
+|                          | - ↑CMRO2, ↑CBF +/- ↑ICP                                                                    |
+|                          |   - Contraindicated if CNS bleed or tumour with ↑ICP                                       |
++--------------------------+--------------------------------------------------------------------------------------------+
+| Unclear effects          | - Both pro- and anti-convulsant                                                            |
+|                          | - Neurotoxic to the developing brain; but may attenuate excitotoxicity in HIBI             |
++--------------------------+--------------------------------------------------------------------------------------------+
+
+#### Cardiovascular:
+
++-----------------+--------------------------------------------------------------------------------------+
+| Direct effects  | - R-ketamine \> S-ketamine                                                           |
+|                 | - Negative inotropy, venodilatation, vasodilatation                                  |
++-----------------+--------------------------------------------------------------------------------------+
+| Indirect effect | - ↑SNS output from medulla                                                           |
+|                 |   - ↑HR, ↑contractility, ↑SVR                                                        |
+|                 |   - ↑MVO2 → risk myocardial ischaemia                                                |
+|                 |   - ↑PVR → ↑RV strain (avoid ↓PaO~2~, ↑PaCO~2~)                                      |
+|                 | - Direct effects balance indirect effects in health                                  |
+|                 | - Negative inotropy may be unmasked if maximal SNS activity or high dose vasoactives |
+|                 | - Baroreceptor reflex relatively preserved                                           |
++-----------------+--------------------------------------------------------------------------------------+
+
+#### Respiratory:
+
++--------------------+---------------------------------------------------------------------------------------+
+|                    | - Thalamocortical dissociation with relative preservation of vital medullary activity |
+|                    | - ↑SNS output and ↓L-Ca^2+^ → smooth muscle relaxation                                |
++--------------------+---------------------------------------------------------------------------------------+
+| Beneficial effects | - Preserved ventilation (↔RR, TV), airway reflexes and pharyngeal dilator tone        |
+|                    | - Preserved airway reflexes                                                           |
+|                    | - Preserved pharyngeal dilator tone                                                   |
+|                    | - R-ketamine→ bronchodilation (suitable induction agent in status asthmaticus)        |
+|                    | - Ideal for field anaesthesia or if limited resources                                 |
+|                    | - May be inadequate alone for airway instrumentation                                  |
++--------------------+---------------------------------------------------------------------------------------+
+| Side effects       | - ↑Airway secretion (may need anti-sialogogue)                                        |
++--------------------+---------------------------------------------------------------------------------------+

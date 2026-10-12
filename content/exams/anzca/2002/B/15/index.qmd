@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002B Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Give a brief account**]{.task-verb} of the mechanisms which regulate gastric secretion.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Give a brief account**]{.task-verb} by organising the neural and hormonal mechanisms into cephalic, gastric and intestinal phases. Link stimuli and pathways to the cells and secretions affected.
+
+::: {.structure-headings}
+### Gastric Secretions and Cell Types
+
+### Cephalic Phase
+
+### Gastric Phase
+
+### Intestinal Phase
+
+### Neural and Hormonal Control
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Gastric secretions include water, hydrochloric acid, intrinsic factor, pepsin, and alkaline mucus. In addition gastrin is secreted by cells in the stomach antrum. Some candidates chose to pursue the control of each individual component, while others took a more global approach. Both approaches were equally acceptable.
+
+The main points expected included the contents of gastric fluid, and the three phases of gastric secretion (cephalic, gastric, and intestinal), including the nervous and hormonal mechanisms involved (eg. vagus, acetylcholine, histamine, gastrin, prostaglandins). Additional marks were awarded for detail of the afferent and efferent pathways, the effect of various food types, stimulatory and inhibitory processes, and the control of the content of gastric secretion (eg. volume, pH).
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2002/B/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Gastrointestinal secretions](/content/git/secretions.qmd)

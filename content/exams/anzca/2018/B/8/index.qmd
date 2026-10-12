@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018B Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly outline**]{.task-verb} the functions of the kidney.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly outline**]{.task-verb} the breadth of renal functions, adding the mechanism and physiological significance of each. Include excretion and fluid regulation alongside acid–base, endocrine and metabolic functions.
+
+::: {.structure-headings}
+### Water, Osmolality and Electrolyte Homeostasis
+
+### Acid–Base Regulation
+
+### Metabolic Waste and Drug Excretion
+
+### Endocrine and Blood Pressure Functions
+
+### Metabolic and Other Functions
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**73%** of candidates achieved a pass in this question
+
+Specialist anaesthetic practice requires a clear understanding of kidney function. Beyond homeostasis of water and electrolytes, many physiology and pharmacology references cover kidney functions in the context of broader topics. For example, metabolic processes, including drug and chemical biotransformation, may be better understood from pharmacokinetic chapters. Endocrine functions may be covered in a corresponding section of text; such as erythropoietin secretion which is typically described in red blood cell production.
+
+To pass, candidates were required to give a broad list of functions including water and electrolyte homeostasis and excretion of metabolic waste products PLUS at least two other functions. It was further required that there was some discussion about the significance of these functions and underlying mechanisms.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2018/B/8/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2018/B/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Glomerular filtration and tubular function](/content/renal/glomerular_filtration.qmd)
+- [Endocrine functions of the kidney](/content/renal/endocrine.qmd)

@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011B Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly outline**]{.task-verb} the acute management of malignant hyperthermia (during a relaxant general anaesthetic). [**Describe**]{.task-verb} the important aspects of dantrolene pharmacology relevant to treating malignant hyperthermia.
+:::
+
+Also asked in: [2007A Question 6](/content/exams/anzca/2007/A/6/index.qmd#examiner-comments), [2014B Question 3](/content/exams/anzca/2014/B/3/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly outline**]{.task-verb} the immediate management, then [**describe**]{.task-verb} dantrolene pharmacology relevant to that management. Give the two parts equal space.
+
+::: {.structure-headings}
+### Acute Management: Triggers, Oxygenation, Dantrolene and Cooling
+
+### Supportive Treatment and Complications
+
+### Dantrolene: Presentation and Administration
+
+### Dantrolene: Kinetics, Action, Adverse Effects and Interactions
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**62 %** of candidates passed this question.
+
+Equal weighting was given to each part of the question. Most of the candidates who did not attempt the second part of the question did not achieve a pass mark. A brief definition of malignant hyperthermia (MH) was expected. Lengthy discussion of the different ryanodine receptors was not required. The acute management of malignant hyperthermia was generally well described. An outline of specific tasks and actions was required, such as “hyperventilate with 100% oxygen at flows of greater than 10 litres per minute”. Statements like “provide airway support” or “obtain an ICU consult” are too nonspecific. It was pleasing to see descriptions of the anaesthetist in recruiting help, and as leader and coordinator of the team response in theatre. Most candidates understood the pharmaceutical aspects of dantrolene. With respect to pharmacokinetics, candidates often resorted to guesswork.
+
+Dantrolene is metabolised in the liver. The major pathway produces 5 hydroxy dantrolene (which is active). A minor pathway produces an inactive metabolite. Both metabolites are cleared renally. The half life of dantrolene is variably reported between 5-10 hours. Further dantrolene doses may be required in intensive care. Dantrolene binds to the ryanodine receptor in skeletal muscle, inhibiting calcium release from the sarcoplasmic reticulum. Side effects of dantrolene are rare. The alkaline solution can cause thrombophlebitis, and skin necrosis can occur if the solution extravasates. Hepatic dysfunction (including fatal hepatic failure), sedation and gastrointestinal side effects have been described. Mild to moderate skeletal muscle relaxation occurs. Dantrolene has no direct cardiac effects. The diluent volume required to administer large doses of dantrolene may precipitate acute pulmonary oedema. Co-administration of verapamil is associated with marked hyperkalaemia, which may precipitate ventricular fibrillation.    Dantrolene potentiates the skeletal muscle relaxation of non-depolarising muscle relaxants.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2007/A/6/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/A/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Dantrolene](/content/pharmacopoeia/msk/dantrolene.qmd)
+- [Inhalational anaesthetic agents](/content/pharmacopoeia/neuro/inhalational_anaesthetics.qmd)

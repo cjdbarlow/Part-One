@@ -1,0 +1,93 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016A Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the potential adverse effects of NON depolarising muscle relaxants.
+:::
+
+Also asked in: [2015B Question 7](/content/exams/anzca/2015/B/7/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} adverse effects by drug class. Link structural and receptor differences to histamine release, allergy and autonomic effects, then address metabolites and prolonged administration with clinical consequences.
+
+::: {.structure-headings}
+### General Adverse Reactions
+
+### Benzylisoquinolones and Histamine Release
+
+### Laudanosine and Other Metabolites
+
+### Aminosteroids, Allergy and Autonomic Effects
+
+### Prolonged Administration and Concurrent Disease
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**68%** of candidates achieved a pass in this question
+
+This question was best answered by presenting the adverse effects by class of drug. The following details were expected:
+
+Benzylisoquinolones
+
+- Histamine release – atracurium versus cisatracurium, relationship to methoxy groups; clinical effects and degree of release
+- Ganglion blockade
+- Laudanosine production
+
+Aminosteroids
+
+- Vagolysis – pancuronium versus vecuronium, bronchoconstriction and muscarinic receptors
+- Anaphylaxis – rocuronium highest, quaternary ammonium ions and IgE, mechanisms of sensitization, cross reactivity
+
+Additional marks were awarded for active metabolite accumulation, reduced mivacurium metabolism, effects of concurrent neuromuscular diseases, and use of H1 and H2 blockers to prevent histamine effects.
+
+Marks were not awarded for descriptions of the mechanism of action at nicotinic receptors, use of reversal agents, racemic mixture details, and details of the anaphylaxis pathway. Common mistakes include confusion around vagolytic and vagotonic effects, lack of detail with simply listing and not discussing, and repetition of information.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2015/B/7/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2015/B/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neuromuscular blockers](/content/msk/neuromuscular_blockers.qmd)

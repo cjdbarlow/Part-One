@@ -1,0 +1,55 @@
+CO2 absorbents contain different materials, commonly soda/line, or potassium hydroxide and function to bind CO2 from the patient in the breathing circuit. 
+
+Common types:
+
+- Baralyme Ca(OH)~2 ~+ BaOH (water incorporated into lime)
+- Sodalime Ca(OH)~2 ~+ NaOH + Water 
+- Amsorb Ca(OH)~2 ~+ CaCl2
+
+Soda Lime reaction:
+
+CO2+H2O → H2CO3
+
+H2CO3 + 2NaOH → Na2CO3 + 2H2O (+heat)
+
+Na2CO3 + Ca(OH) → CaCO3 + 2NaOH + H2O (+heat)
+
+**General Hazards**:
+
+- Failure due to depletion → CO2 accumulation 
+- ↑Resistance to gas flow 
+- ↑Heat risk of burns, fires → all reaction exothermic can cause injury, ↑risk with Baralyme + Sevoflurane - 150C
+- Risk of Spill / dust inhalation and injury to eyes/lungs/skin 
+- Risk of circuit leak 
+
+Hazard Reduction: 
+
+Use a well-sealed well-insulated canister. 
+
+Change when depleted.
+
+PPE and care with changing product, use of filters to patient 
+
+Circuit test after absorber change 
+
+**Specific Hazards:**
+
+**Compound A**
+
+- Production of Compound A with sevoflurane
+
+RISK Baralyme \> Sodalime \>Amsorb. 
+
+Risk ↑if low FGF rate, high Sevoflurane partial pressure. Nephrotoxic in rats but uncertain consequence in humans 
+
+- Address by using ↑FGF, limiting length of low flow anaesthesia  
+
+**Carbon monoxide production**
+
+- Production of carbon monoxide from absorbent and volatile agent. 
+
+RISK desflurane \> sevoflurane 
+
+ increased by dry/desiccated absorbent, enflurane/desflurane 
+
+- Address by ensuring gas flow turned off after each anaesthetic and particularly overnight/over weekend. Check absorbent before use.

@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009B Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**What are**]{.task-verb} the potential side effects of propofol and its formulations?
+:::
+
+Also asked in: [2013B Question 15](/content/exams/anzca/2013/B/15/index.qmd#examiner-comments), [2014A Question 1](/content/exams/anzca/2014/A/1/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**What are**]{.task-verb} the side effects? Organise propofol’s effects by body system, then address effects related to the components of its formulations.
+
+::: {.structure-headings}
+### Cardiovascular Effects
+
+### Respiratory Effects
+
+### Central Nervous System and Other Effects
+
+### Propofol Infusion Syndrome
+
+### Formulation-Related Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**74%** of candidates passed this question.
+
+Expected was a brief description of the clinical uses and the most common formulation of propofol. At this point candidates who performed well divided their answer to adverse effects due to propofol and those secondary to the formulation. Common cardio-respiratory effects of propofol were well described. That propofol resulted in sedation and anaesthesia was almost universally recognised but few commented on the narrow therapeutic window between the two. Again, most candidates identified excitatory movements with induction but fewer correctly described the mechanism or explained the contradictory EEG effects and the use of propofol for status epilepticus. Common side effects related to the formulation including pain, bacterial contamination, use of preservatives were well discussed. Metabolic effects from prolonged infusion including lipaemia, propofol infusion syndrome and the propensity to produce green coloured hair and urine was discussed by the majority. Few however mentioned alternative solvents including liposomes, medium chain triglycerides and cyclodextrins. That subclinical doses of propofol produce euphoria and explain the abuse potential unique to this drug also received a mark. Common mistakes were to discuss the pharmacokinetics of propofol, adverse effects related to the formulation only and beneficial central nervous system effects.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2009/B/2/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2009/B/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Propofol](/content/pharmacopoeia/neuro/propofol.qmd)
+- [Drug additives](/content/pharmacology/additives.qmd)

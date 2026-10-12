@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2017B Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the determinants of left ventricular myocardial oxygen supply and demand.
+:::
+
+Also asked in: [2018A Question 10](/content/exams/anzca/2018/A/10/index.qmd#examiner-comments), [2020B Question 5](/content/exams/anzca/2020/B/5/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} supply and demand in balanced sections. Use relevant equations to organise coronary flow, oxygen content and myocardial work, and explain how heart rate affects both sides of the balance.
+
+::: {.structure-headings}
+### Oxygen Supply: Coronary Flow and Oxygen Content
+
+### Coronary Perfusion Through the Cardiac Cycle
+
+### Coronary Vascular Resistance and Regulation
+
+### Oxygen Demand: Heart Rate, Contractility and Wall Tension
+
+### Supply–Demand Balance
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**50.7%** of candidates achieved a pass in this question
+
+This was a question in two parts. A good answer required a discussion of both supply and demand.
+
+Myocardial oxygen supply depends on coronary blood flow and arterial oxygen content. Most answers gave a reasonable account of coronary flow using the hydraulic analogue of Ohm’s Law. There was some confusion about the basis of coronary perfusion pressure and the fate of LV coronary flow during systole. Many candidates neglected to discuss the determinants of arterial oxygen content.
+
+In describing the physiology of LV oxygen demand, there appeared to be considerable confusion about the contribution of LV wall tension. Terms such as “tension”, “stress", “afterload", and “pressure" were often used very loosely. The Law of Laplace was frequently invoked but not always applied correctly to the question.
+
+Good answers discussed the influence of heart rate on both the supply and demand aspects of myocardial oxygen balance.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2017/B/13/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2017/B/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Myocardial oxygen supply and demand](/content/cvs/myocardial_oxygen.qmd)

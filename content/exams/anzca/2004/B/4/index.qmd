@@ -1,0 +1,70 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004B Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Write short notes**]{.task-verb} on tramadol.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Write short notes**]{.task-verb} under **Pharmacodynamics**, **Pharmacokinetics**, and **Adverse Effects**. Relate the isomers and active metabolite to analgesia and variability in drug effects.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**50%** of candidates passed this question.
+
+Many candidates handled this question well. A complete answer was helped by organising the essay around sub-headings such as pharmacodynamics, pharmacokinetics, adverse effects and so on.
+
+While most answers recognised that tramadol is presented as a racemic mixture, only a proportion went on to say that each isomer had specific effects contributing to the analgesic effect of the drug. Likewise, while the majority of answers noted that the drug has actions on opioid and non-opioid sites, nobody mentioned that the drug’s analgesic effect is as a result of this somewhat peculiar synergistic activity.
+
+As an analgesic, it is useful to compare it to a standard opioid such as morphine and most did so, noting its reduced potential for the development of tolerance and dependence and respiratory depression. Pharmacokinetic aspects were less well handled with many failing to note that tramadol is highly metabolised and that one metabolite (M1 or O-desmethyl tramadol) has considerable activity at the opioid receptor and may contribute to the drugs activity. As with codeine, a proportion of patients deficient in the P450 cytochrome CYP2D6 enzyme will fail to form this product and may exhibit reduced analgesia.
+
+Some candidates noted other interesting features of the drug such as an improvement in oral bioavailability with multiple dosing; the suggestion that tramadol might increase the risk of awareness under general anaesthesia and that tramadol’s analgesic effect might be antagonised by 5HT~3~ antagonists.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Tramadol](/content/pharmacopoeia/analgesics/tramadol.qmd)

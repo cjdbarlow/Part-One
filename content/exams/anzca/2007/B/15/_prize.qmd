@@ -1,0 +1,68 @@
+#### List:
+
+- Table
+- Synthetic function
+- Cell injury
+- Other
+
+#### Names, abbreviations, normal limits:
+
+  **Name**                         **Abbrev**   **Normal value**
+  -------------------------------- ------------ ------------------
+  Alanine aminotransferase         ALT          7-55 U/L
+  Aspartate aminotransferase       AST          8-48 U/L
+  Alkaline phosphatase             ALP          40-129 U/L
+  Gamma glutamyl transferase       GGT          8-61U/L
+  Bilirubin (total)                BR           3-20umol/L
+  Albumin                          ALB          40g/L
+  International normalized ratio   INR          1
+
+#### Synthetic function:
+
++---------------------+-------------------------------------------------------------------------------------------+
+| Albumin             | - Most abundant plasma protein                                                            |
+|                     | - Also negative acute phase reactant                                                      |
+|                     | - Maintain plasma oncotic pressure                                                        |
+|                     | - Binding site for ions (calcium), drugs, unconjugated bilirubin, lipid-soluble substance |
+|                     | - Half life 3/52 hence reduced in chronic disease                                         |
++---------------------+-------------------------------------------------------------------------------------------+
+| Bilirubin           | - Haem breakdown product. Normal \<15μmol/L. Scleral icterus \>50μmol/L.                  |
+|                     | - Unconjugated BR transported from RES to liver on albumin                                |
+|                     | - → BR-monoglucuronide → BR diglucuronide by UDP-GT                                       |
+|                     | - ↓Synthetic function → ↑unconjugated BR                                                  |
+|                     | - ↓Secretion → ↑conjugated BR                                                             |
++---------------------+-------------------------------------------------------------------------------------------+
+| Coagulation factors | - Liver synthesizes all coag proteins except vWF                                          |
+|                     | - ↑ PT, aPTT                                                                              |
+|                     | - ±↓platelet if splenomegaly                                                              |
+|                     | - Earliest sign of liver damage is ↑INR, due to short half life of VII                    |
++---------------------+-------------------------------------------------------------------------------------------+
+
+#### Cell injury:
+
++----------------+---------------------------------------------------------------------+
+| Hepatocellular | - ↑ AST, ALT, BR                                                    |
+|                | - AST and ALT are present in hepatocyte cytoplasm                   |
+|                | - AST raised more acutely than ALT in setting of injury             |
+|                |                                                                     |
+|                | AST may be more indicative of alcoholic liver disease               |
++----------------+---------------------------------------------------------------------+
+| Cholestatic    | - ↑ ALP, GGT, BR (+/- AST, ALT)                                     |
+|                | - ALP and GGT are leaked from damaged biliary epitheliocytes        |
+|                | - Note significant cholestasis can cause hepatocellular injury also |
+|                | - Note ALP also has a bone isomer                                   |
+|                |                                                                     |
+|                | Note acute alcohol → ↑GGT                                           |
++----------------+---------------------------------------------------------------------+
+
+#### Other:
+
++---------------------------+---------------------------------------------------------------------------------------------------------+
+| “Glucostat”               | - Plasma glucose may fall in liver failure                                                              |
+|                           | - Liver increases plasma glucose concentration in response to glucagon, catecholamines, corticosteroids |
+|                           | - Synthesises enzymes important for glycogenolysis and gluconeogenesis                                  |
++---------------------------+---------------------------------------------------------------------------------------------------------+
+| Ammonia                   | - Increased in liver failure                                                                            |
++---------------------------+---------------------------------------------------------------------------------------------------------+
+| Glutathione-S-transferase | - Leaked in centrilobular damage                                                                        |
++---------------------------+---------------------------------------------------------------------------------------------------------+

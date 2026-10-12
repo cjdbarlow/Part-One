@@ -1,0 +1,95 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003B Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the effects of tachycardia on myocardial oxygen supply and demand in a normal heart.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the determinants of myocardial oxygen supply and demand, then explain how tachycardia changes each. Use coronary flow graphs to distinguish the left and right ventricles and identify the vulnerability of the subendocardium.
+
+::: {.structure-headings}
+### Normal Oxygen Supply and Demand
+
+### Diastolic Time and Coronary Perfusion
+
+### Metabolic Vasodilatation
+
+### Heart Rate, Contractility and Stroke Work
+
+### Left and Right Ventricular Differences
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**40%** of candidates passed this question.
+
+The main points expected were:
+
+- The determinants of myocardial oxygen supply and demand.
+- The left ventricle is perfused mainly during diastole.
+- Tachycardia not only reduces the diastolic time and oxygen delivery to the left ventricle but also increases oxygen demand.
+- Comparison of left and right ventricles; including coronary flow versus time graphs; and that flow in the right ventricle is continuous and little affected by heart rate.
+- Subendocardium is most susceptible to ischaemia.
+- Vasodilation via metabolic mechanism increases flow
+
+Extra points were given for detailing coronary blood flow, the high oxygen extraction, and for explaining that oxygen supply cannot be increased by increasing extraction. Extra marks were also given for describing pressure differentials in both ventricles in systole and diastole.
+
+Common omissions or errors were:
+
+- To not label the diagrams.
+- To put no units on the axes.
+- To draw inaccurate traces.
+- To not list the determinants of myocardial oxygen supply and demand.
+- To ignore the right ventricle.
+- To mix up supply and demand.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2003/B/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Myocardial oxygen supply and demand](/content/cvs/myocardial_oxygen.qmd)
+- [Coronary circulation](/content/cvs/coronary_circulation.qmd)

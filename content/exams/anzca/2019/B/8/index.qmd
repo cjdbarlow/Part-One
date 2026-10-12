@@ -1,0 +1,97 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019B Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly explain**]{.task-verb} the cardiovascular effects of central neuraxial blockade.
+:::
+
+Also asked in: [2013A Question 12](/content/exams/anzca/2013/A/12/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+**[Briefly explain]{.task-verb}** each response by connecting the level of blockade and nerves affected to the cardiovascular consequence.
+
+::: {.structure-headings}
+### Definition and Extent of Sympathetic Blockade
+
+### Venous Capacitance and Venous Return
+
+### Arterial Resistance and Blood Pressure
+
+### Heart Rate, Contractility and Cardiac Output
+
+### Compensatory Responses and Cardiac Reflexes
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**62.6%** of candidates achieved a pass in this question
+
+The major domains assessed in this question were:
+
+- Definition of central neuraxial blockade, including understanding that spinal and epidural routes may have different effects.
+- The role of the sympathetic nervous system as the cause of CVS changes.
+- The primary CVS effects of neuraxial blockade at differing levels
+- The baroreceptor mediated reflex responses that occur as a result of these primary effects.
+
+Credit was given for other correct relevant material.
+
+Common problems included:
+
+- A misconception that neuraxial blockade only describes the spinal route.
+- Confusion as to the relative importance of venodilation and arteriolar vasodilation.
+- Poor descriptions of the baroreceptor mediated responses leading to tachycardia and vasoconstriction confined to levels above the block.
+
+Better answers were able to describe all of this and include mention of higher risk patients and reflexes such as the Bezold- Jarisch reflex, but very few recognized that blocking thoracolumbar sympathetic output will also block adrenal catecholamine release.
+
+A concise description of all this can be found in Miller 8th Edition, Chapter 56.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/A/12/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/A/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neuraxial blockade](/content/pharmacopoeia/neuro/neuraxial_blockade.qmd)
+- [Venous return](/content/cvs/venous_return.qmd)
+- [Cardiac reflexes](/content/cvs/cardiac_reflexes.qmd)

@@ -1,0 +1,95 @@
+#### List:
+
+- Intro
+- ↓CaO~2~
+- ↓CO
+- ↑VO~2~
+- ↓SvO~2~:PvO~2~
+
+#### Intro:
+
++-------------------------+-------------------------------------------------------------------------------+
+| Definition              | - Mixed venous oxygen saturation                                              |
+|                         | - Blood sampled from pulmonary artery via Swann-Ganz catheter                 |
++-------------------------+-------------------------------------------------------------------------------+
+| Normal values           | - SvO~2~ 75%                                                                  |
+|                         | - PvO~2~ 40mmHg                                                               |
+|                         | - CvO~2~ 15mL/100mL                                                           |
++-------------------------+-------------------------------------------------------------------------------+
+| Use                     | - Marker of adequacy of O~2~ delivery hence cardiac output                    |
+|                         | - Often monitored during and after cardiac surgery                            |
+|                         | - Preferred over ScvO~2~ (central venous) since includes coronary sinus blood |
++-------------------------+-------------------------------------------------------------------------------+
+| Factors reducing CvO~2~ | - Fick equation: VO~2~ = CO x (CaO~2~ – CvO~2~)                               |
+|                         | - Rearranged: CvO~2~ = CaO~2~ – VO~2~/CO                                      |
+|                         | - Hence:                                                                      |
+|                         | - ↓O~2~ delivery (↓CaO~2~, ↓CO)                                               |
+|                         | - ↑O~2~ consumption                                                           |
+|                         | - (Minor factor: ↓SvO~2~:PvO~2~ ratio)                                        |
++-------------------------+-------------------------------------------------------------------------------+
+
+#### ↓CaO~2~:
+
++--------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| Equation           | - CaO~2~ = \[Hb\] x 1.34 x SaO~2~ + PaO~2~ x 0.03 (per L)                                                                                   |
++--------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| ↓Hb                | - ↑Loss: bleeding, haemolysis                                                                                                               |
+|                    | - ↓Production: haematinic deficiency, marrow failure                                                                                        |
++--------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| ↓PaO~2~            | - ↓PiO~2~ (e.g. altitude, diffusion hypoxia)                                                                                                |
+|                    | - ↓Alveolar ventilation (e.g. opioid)                                                                                                       |
+|                    | - ↑Low V/Q area and shunt (e.g. atelectasis)                                                                                                |
+|                    | - ↑Diffusion impairment (e.g. pulmonary oedema)                                                                                             |
++--------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| ↓SaO~2~:PaO~2~     | - Right shift oxyhaemoglobin dissociation curve                                                                                             |
+|                    |   - Allosteric interactions between haem groups                                                                                             |
+|                    |   - Relaxed → tense state                                                                                                                   |
+|                    |   - Occurs if ↑tissue metabolic rate                                                                                                        |
+|                    | - Causes:                                                                                                                                   |
+|                    |   - Bohr effect: ↑pCO~2~, ↓pH                                                                                                               |
+|                    |   - ↑Temp                                                                                                                                   |
+|                    |   - ↑2,3-DPG                                                                                                                                |
+|                    |                                                                                                                                             |
+|                    | ![](/content/exams/anzca/2010/A/9/prize-image001.jpg){fig-alt="Oxyhaemoglobin dissociation curve showing factors shifting oxygen affinity"} |
++--------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| ↓Hufner’s constant | - Methaemoglobin (congenital, nitrodilator toxicity)                                                                                        |
+|                    | - Sulfhaemoglobin (sulfonamide toxicity)                                                                                                    |
+|                    | - Carboxyhaemoglobin (poisoning)                                                                                                            |
++--------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### ↓Cardiac output:
+
++----------------+------------------------------------------------------+
+| ↓Preload       | - ↓Blood volume (blood loss, dehydration             |
+|                | - ↓Venous tone (general or neuraxial anaesthesia)    |
+|                | - Obstruction to venous return: IPPV/PEEP            |
+|                | - Reverse Trendelenburg posture                      |
++----------------+------------------------------------------------------+
+| ↑Afterload     | - ↑Arterial tone: hypothermia, vasopressors          |
+|                | - Extrinsic vascular compression: pneumoperitoneum   |
++----------------+------------------------------------------------------+
+| ↓Rate          | - e.g. B-blocker                                     |
+|                | - (also depressed by ↑↑rate, ventricular arrhythmia) |
++----------------+------------------------------------------------------+
+| ↓Contractility | - e.g. heart failure                                 |
++----------------+------------------------------------------------------+
+
+#### ↑VO~2~ consumption (↑ATP consumption, ↑rate of aerobic metabolism)
+
++----------------------+-------------------------------------------------------------------------------------------------------------------+
+| Mechanism            | - ↑ATP consumption → ↑rate of oxidative phosphorylation → ↓tissue pO~2~ → ↑concentration gradient for O~2~ uptake |
++----------------------+-------------------------------------------------------------------------------------------------------------------+
+| Physiological causes | - Exercise                                                                                                        |
+|                      | - High lean mass                                                                                                  |
+|                      | - Pregnant                                                                                                        |
+|                      | - Neonate                                                                                                         |
++----------------------+-------------------------------------------------------------------------------------------------------------------+
+| Pathological causes  | - Post-op SIRS, sepsis                                                                                            |
+|                      | - Malignant hyperthermia                                                                                          |
++----------------------+-------------------------------------------------------------------------------------------------------------------+
+
+#### ↓SvO~2~:PvO~2~ ratio:
+
++-----------------------------------------------+--------------------------------------------+
+| Right shift oxyhaemoglobin dissociation curve | - Same factors as for arterial blood above |
++-----------------------------------------------+--------------------------------------------+

@@ -1,0 +1,94 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999B Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the toxicity of local anaesthetics.
+:::
+
+Also asked in: [2002A Question 9](/content/exams/anzca/2002/A/9/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} toxicity by separating determinants of systemic exposure from the resulting CNS and cardiovascular effects, then cover local and agent-specific toxicity.
+
+::: {.structure-headings}
+### Dose, Blood Concentration and Susceptibility
+
+### CNS Toxicity
+
+### Cardiovascular Toxicity and Safety Margins
+
+### Local Toxicity
+
+### Other and Agent-Specific Toxicity
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This basic question was passed by **36%** of candidates. Essential features expected in an answer were the causative factors and manifestations of toxicity in both the central nervous system and the cardiovascular system, together with a comparison of the blood levels (e.g. for lignocaine) associated with CNS and CVS toxicity. Mention was also expected of the particular risks associated with the use of bupivacaine. A number of answers omitted any reference to CVS toxicity, and some made no reference to CNS toxicity. A few made no mention of either.
+
+In addition to an outline of CNS and CVS toxicity good answers included some of the following:
+
+- A definition of "toxicity" (needle-induced nerve damage and CSF leak do not fall within any standard definition)
+- Kinetic factors influencing toxic plasma levels (e.g. dose, rate and site of administration, lipid solubility, protein binding, clearance)
+- Effects on toxicity of both acidosis and elevated PCO~2~
+- Direct toxicity to nerves
+- Toxic effects at autonomic ganglia
+- Toxic effects at the neuromuscular junction
+- Special features of prilocaine
+- Special features of cocaine
+- Stereoisomers and the relevant features of ropivacaine and S and R bupivacaine
+- Toxicity in association with pregnancy
+- Toxicity in the foetus
+- Effects of additives (e.g. adrenaline, metabisulfite)
+- Effects of metabolites (e.g. of esters and of lignocaine)
+- Immune-based reactions
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/B/11/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Local anaesthetic principles](/content/pharmacopoeia/neuro/local_anaesthetic_principles.qmd)
+- [Local anaesthetic drugs](/content/pharmacopoeia/neuro/local_anaesthetics.qmd)

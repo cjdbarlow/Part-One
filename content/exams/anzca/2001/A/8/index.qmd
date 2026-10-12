@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001A Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**What are**]{.task-verb} the physiological consequences of decreasing functional residual capacity by one litre in an adult?
+:::
+
+Also asked in: [2004A Question 12](/content/exams/anzca/2004/A/12/index.qmd#examiner-comments), [2015A Question 9](/content/exams/anzca/2015/A/9/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+Explain [**what**]{.task-verb} the consequences are by linking a one-litre reduction to the starting lung volume. Relate the new volume to closing capacity, oxygen stores, compliance, airway resistance and pulmonary vascular resistance, using labelled graphs where helpful.
+
+::: {.structure-headings}
+### Starting Volume and Significance of One Litre
+
+### Oxygen Reservoir and Desaturation
+
+### Closing Capacity, Shunt and Gas Exchange
+
+### Compliance and Work of Breathing
+
+### Airway and Pulmonary Vascular Resistance
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**62%** candidates passed this question
+
+To achieve a pass, candidates were expected to define FRC (ie. equilibrium volume of the lung and chest wall; residual volume plus expiratory reserve volume) and give normal values, such that the physiological effects of a decrease of one litre in FRC could be put in perspective. The main points expected were a decrease in compliance, increase in airway resistance, increase in pulmonary vascular resistance, and small airway closure below closing volume leading to increased work of breathing and V/Q mismatch. The increased work of breathing is due to the additional pressure (positive or negative) required to open airways/alveoli as well as the decreased compliance at low lung volumes. Low V/Q leads to arterial hypoxaemia. Candidates who provided appropriately labelled diagrams attracted higher marks.
+
+Additional marks were given to candidates who described functions of FRC and the common causes that lead to a decrease, provided that they continued to discuss how the normal functions are disturbed by the fall in FRC. The common errors were not answering the question (eg providing information about FRC without mentioning the effects with a fall in FRC of 1L, confusing shunt with dead space, mislabelling diagrams, confusing the diagram of lung volumes vs airway resistance and lung volumes vs pulmonary vascular resistance. Some candidates discussed at length the effects of hypoxaemia which was not required.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2001/A/8/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2001/A/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Lung volumes and capacities](/content/resp/volumes_capacities.qmd)
+- [Compliance](/content/resp/compliance.qmd)
+- [Airway resistance](/content/resp/resistance.qmd)

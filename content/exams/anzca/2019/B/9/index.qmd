@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019B Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+Using ropivacaine and lignocaine as examples, [**explain**]{.task-verb} the pharmacokinetic principles that affect speed of onset and duration of action of local anaesthetics.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} onset through diffusion and ionisation, and duration through drug removal and the concentration needed for block. Use lignocaine and ropivacaine throughout to show how their properties and additives alter these processes.
+
+::: {.structure-headings}
+### Passage to the Intracellular Site of Action
+
+### Concentration, Diffusion and Ionisation
+
+### Drug Properties: Lignocaine Versus Ropivacaine
+
+### Removal, Blood Flow and Vasoconstriction
+
+### Patient, Site and Additive Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**52.4%** of candidates achieved a pass in this question
+
+The major domains assessed in this question were Onset: Diffusion principles and effect of pH and pKa on ionisation, Offset: The effect of physical properties and the effect of vasoconstriction and blood flow.
+
+Common problems were not answering both halves of the question or listing properties without indicating the effect of the property. It should be noted that additives affect lignocaine and ropivacaine differently. pKa is not the pH below which a drug is ionised, but rather the pH at which 50% of the drug is ionised.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2019/B/9/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2019/B/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Local anaesthetic principles](/content/pharmacopoeia/neuro/local_anaesthetic_principles.qmd)

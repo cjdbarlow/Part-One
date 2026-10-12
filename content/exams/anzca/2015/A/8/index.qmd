@@ -1,0 +1,85 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015A Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the classes of drugs that may be used to manage an intra-operative hypertensive crisis and [**briefly outline**]{.task-verb} the mechanisms of action.
+:::
+
+Also asked in: [2013B Question 10](/content/exams/anzca/2013/B/10/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} the drug classes in a table and [**briefly outline**]{.task-verb} how each mechanism produces its antihypertensive effect.
+
+::: {.structure-table}
+| Drug Class | Example and Route | Mechanism of Action | Antihypertensive Effect |
+|---|---|---|---|
+| Direct Vasodilators | | | |
+| Alpha Antagonists | | | |
+| Beta Blockers | | | |
+| Calcium Channel Blockers | | | |
+| Centrally Acting Drugs | | | |
+| Anaesthetic Agents | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**83.1%** of candidates achieved a pass in this question
+
+A pass mark required at least 5 classes of drugs to be listed with their accompanying mechanisms of action. It was necessary for candidates to realize that the oral route and drugs only given that way would not be available, as was the urgency of treatment rather than including slower onset agents.
+
+Marks were awarded to those utilizing and specifically mentioning drugs to treat inadequate depth of anaesthesia and analgesia as well as the specific anti-hypertensive agents. In particular it was expected that intravenous and volatile anaesthetics would be included in the list, along with opioids. Specific antihypertensive such as selective beta blockers, nitrovasodilators, alpha 2 agonists and alpha 1 antagonists were required.
+
+Structured answers where drugs were grouped according to actions generally facilitated the awarding of marks, although in some instances this led to missed opportunities for individual drug mechanisms of action. Extra marks were awarded for including magnesium, labetalol, calcium channel blockers and centrally acting agents.
+
+Many answers included extraneous material which was not awarded marks by the marking guide such as details about how blood pressure is generated or the end results of untreated hypertension. There was also some confusion about the actual mechanism of action of the vasodilators GTN and SNP.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/B/10/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/B/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Direct vasodilators](/content/pharmacopoeia/cvs/direct_vasodilators.qmd)
+- [Beta blockers](/content/pharmacopoeia/cvs/beta_blockers.qmd)
+- [Calcium channel blockers](/content/pharmacopoeia/cvs/calcium_channel_blockers.qmd)

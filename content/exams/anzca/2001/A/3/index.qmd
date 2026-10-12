@@ -1,0 +1,99 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001A Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the measurement of pH in a blood sample using a pH electrode
+:::
+
+Also asked in: [2006A Question 15](/content/exams/anzca/2006/A/15/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} a complete labelled electrode circuit, linking hydrogen ion activity across pH-sensitive glass to the measured voltage. Include calibration, temperature control and principal errors.
+
+::: {.structure-headings}
+### pH and Electrode Principle
+
+### Measuring and Reference Electrodes
+
+### Glass Membrane, Buffer and Salt Bridge
+
+### Circuit, Voltage and Calibration
+
+### Temperature Control and Errors
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**52%** of candidates passed this question. The main points expected for a pass included:-
+
+- the definition of pH
+- use of an ion-specific electrode, based upon the use of H^+^-ion sensitive glass
+- the presence of a buffer solution to maintain a gradient for H^+^-ion
+- the generation of a potential difference, in proportion to H^+^-ion concentration
+- the presence of a reference electrode, completing an electrical circuit through a salt bridge, allowing measurement of this potential with a voltmeter or galvanometer
+- the requirement for regular calibration
+
+The use of a clearly labelled diagram was beneficial in answering this question, but not essential for a pass. A number of candidates described the electrode based upon "half-cells", c.f. the classical description of ion-specific and reference electrodes. On average, candidates using this approach scored well as they appeared to have a clearer understanding of the underlying principles involved. Many candidates confused measurement of H^+^-ion concentration with arterial PCO~2~, or the Clark PO~2~ electrode. Many candidates went into lengthy discussions of the Henderson-Hasselbalch equation, which was not required. A large number expressed that "the pH electrode produced a current flow which was then measured as pH".
+
+Additional marks were awarded for including further details. Examples of additional information presented by candidates are listed below. It was not expected that candidates would include more than a few of these examples in the time available.
+
+- the dependence of H^+^-ion concentration on temperature and the requirement for temperature control
+- common sources of error.
+- the measurement of thermodynamic activity, c.f. concentration
+- the physical structure pH sensitive glass and the basis of the potential difference generated
+- the magnitude of voltage produced and calibration to H^+^-ion concentration
+- the variation of pH with temperature and Rosenthal's correction factor
+- the principles of "pH-stat" and "alpha-stat" measurement
+- the composition and concentrations of buffer and salt solutions used
+- the standard calibration solutions used
+- the use of a thermistor to compensate for temperature changes
+- the use of either a differential voltage amplifier or "null deflection circuit" to measure the small voltages produced
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2001/A/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Blood gas measurement](/content/equipment/blood_gas.qmd)

@@ -1,0 +1,53 @@
+#### List:
+
+- Intro
+- Pharmaceutics
+- Pharmacokinetics
+- Pharmacodynamics
+
+#### Intro:
+
++--------------+-------------------------------------------------------------------------------+
+| Cause of ↓BP | - Subarachnoid block → ↓SNS outflow → ↓BP → ↓organ perfusion                  |
+|              |   - Vasodilatation → ↓SVR                                                     |
+|              |   - Venodilatation → ↓preload → ↓cardiac output (exaggerated if hypovolaemic) |
++--------------+-------------------------------------------------------------------------------+
+| Block height | - Lower thoracic block: ↓SVR → ↓mAP                                           |
+|              | - Upper thoracic block: ↓SVR and ↓HR/contractility → ↓↓mAP                    |
+|              | - Brainstem block: ↓↓mAP, HR at intrinsic SA node rate → ↓↓mAP                |
+|              | - (I have no evidence for brainstem level)                                    |
++--------------+-------------------------------------------------------------------------------+
+
+#### Pharmaceutics:
+
+                                       **Adrenaline**   **Noradrenaline**   **Phenylephrine**   **Metaraminol**   **Ephedrine**
+  ------------------------------------ ---------------- ------------------- ------------------- ----------------- ---------------
+  Available pre-diluted for fast use   Y                N                   Y                   Y                 Y
+  Extravasation induced necrosis       Y (use CVC)      Y (use CVC)         N\*                 N\*               N\*
+
+(\*internet says yes to all, examiner says yes to metaraminol)
+
+#### Pharmacokinetics:
+
+                     **Adrenaline**   **Noradrenaline**   **Phenylephrine**   **Metaraminol**   **Ephedrine**
+  ------------------ ---------------- ------------------- ------------------- ----------------- ---------------
+  Route: IV and IM   Y                N                   Y                   Y                 Y
+  Prefer bolus                                            Y                   Y                 Y
+  Prefer infusion    Y                Y                                                         
+  Onset              \<1 min          \<1 min             1-2 mins            1-2 mins          1-2 mins
+  Duration           5 mins           5 mins              10-20 mins          10-20 mins        10-20 mins
+  Metabolism         COMT, MAO        COMT, MAO           MAO                 \-                \-
+
+#### Dynamics:
+
+                     **Adrenaline**     **Noradrenaline**   **Phenylephrine**   **Metaraminol**    **Ephedrine**
+  ------------------ ------------------ ------------------- ------------------- ------------------ ------------------------
+  Receptor effects   β~1~, β~2~, α~1~   α~1~, β~1~          α~1~                α~1~ (weak β~1~)   β~1~, α~1~
+  Direct             Y                  Y                   Y                   Y                  Y
+  Indirect           N                  N                   N                   Y                  Y
+  HR                 ↑                  ↑ or reflex ↓       Reflex ↓HR          Reflex ↓HR         ↑
+  SVR                ↔/↑high dose       ↑                   ↑                   ↑                  ↔/↑
+  mAP                ↔/↑high dose       ↑                   ↑                   ↑                  ↔/↑
+  Arrhythmia         Y                  Rare                Rare                Rare               Rare
+  Use in pregnancy                                          Y (safer)                              N (foetal lactataemia)
+  MOAi interaction   N                  N                   N                   N                  ↑BP crisis

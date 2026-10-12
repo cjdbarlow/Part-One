@@ -1,0 +1,62 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000A Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the pharmacological effects of paracetamol. [**Outline**]{.task-verb} the mechanisms of its toxicity.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} **Pharmacokinetics** and **Pharmacodynamics**, including clinical doses and time course, then [**outline**]{.task-verb} **Mechanisms of Toxicity**. Keep the toxicity mechanisms distinct from the therapeutic effects.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**70%** of candidates passed this question. The better answers were structured into sections on kinetics, dynamics, and toxicity. This was a pharmacology question, not a question about the physiology and biochemistry of pain. Nevertheless, many candidates gave unnecessarily elaborate details of arachidonic acid metabolism and cyclooxygenase inhibition. Although these answers were not penalised for this additional information, many easy marks were lost because basic pharmacological details such as onset and offset of action, and dosage were not included. Many candidates mentioned that paracetamol has a mild antiinflammatory action, yet then wrote extensively about peripheral inhibition of prostaglandin. Explanations of paracetamol toxicity were generally good. Some candidates incorrectly attributed the renal toxicity of paracetamol to the same mechanism to that associated with NSAIDs.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Paracetamol](/content/pharmacopoeia/analgesics/paracetamol.qmd)

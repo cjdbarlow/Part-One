@@ -1,0 +1,93 @@
+#### List:
+
+- Intro: LAST
+- Thresholds
+- Drug: factors increasing potency/toxicity
+- Kinetics: factors ↑ plasma concentration
+- Dynamics: factors ↑CNS and CNS sensitivity
+
+#### Intro:
+
++------------------------------+-----------------------------------------------------------+
+| LAST features                | - CNS: excitatory (e.g. seizure) → inhibitory (coma)      |
+|                              | - CVS: conduction delay, re-entrant arrhythmia, arrest    |
++------------------------------+-----------------------------------------------------------+
+| Determinants of toxicity     | 1.  ↑Drug potency                                         |
+|                              | 2.  ↑Peak plasma concentration                            |
+|                              | 3.  ↑CNS and CV sensitivity                               |
++------------------------------+-----------------------------------------------------------+
+| Determinants of CC:CNS ratio | - Dynamics: ↑Cardiac:CNS isoform affinity ratio for VDNaC |
+|                              |   - e.g. D-bupiv \> L-bupiv                               |
+| (safety margin)              | - Kinetics (e.g. ↓lipid solubility): less important       |
++------------------------------+-----------------------------------------------------------+
+
+#### Amide thresholds:
+
++------------------------+---------------------------+--------------------------------------+
+| **Order of ↓toxicity** | **CNS toxicity (mcg/mL)** | **CC:CNS ratio**                     |
+|                        |                           |                                      |
+|                        |                           | **(∝ VDNaC isoform affinity ratio)** |
++========================+===========================+======================================+
+| Lignocaine             | 5                         | \~7:1                                |
++------------------------+---------------------------+--------------------------------------+
+| Ropivacaine            | 4                         | \~5:1                                |
++------------------------+---------------------------+--------------------------------------+
+| Bupivacaine            | 1.5                       | \~3:1                                |
++------------------------+---------------------------+--------------------------------------+
+
+#### 1.Factors increasing drug potency:
+
++-------------------+-------------------------------------------------------------------------------+
+| ↑VDNaC affinity   | - ↑dwell time                                                                 |
+|                   | - e.g. bupivacaine has very high affinity, especially for the cardiac isoform |
++-------------------+-------------------------------------------------------------------------------+
+| ↑Lipid solubility | - e.g. bupivacaine 1000x cf. lignocaine 150x (ref: procaine)                  |
++-------------------+-------------------------------------------------------------------------------+
+| Stereochemistry   | - e.g. R-ropiv less potent, not toxic (only available S-enantiopure)          |
+|                   | - e.g. L-bupiv less toxic (often given enantiopure in children)               |
++-------------------+-------------------------------------------------------------------------------+
+
+#### 2.Kinetics: factors increasing peak plasma concentration
+
++----------------+-------------------------------------------------------------------------------------------------+
+| Administration | - ↑Dose                                                                                         |
+|                | - ↑Rate of admin (bolus \> infusion)                                                            |
++----------------+-------------------------------------------------------------------------------------------------+
+| Absorption     | - ↓Tissue protein binding → ↑release into circulation                                           |
+|                | - ↑Tissue blood flow rate:                                                                      |
+|                |   - Intrinsic: tracheal \> intercostal \> caudal \> paracervical \> epidural \> plexus \> nerve |
+|                |   - Global: pregnant, neonate                                                                   |
+|                |   - Drug effect: absence of vasoconstriction (e.g. bupiv cf. ropiv)                             |
++----------------+-------------------------------------------------------------------------------------------------+
+| Distribution   | - ↑Unbound drug                                                                                 |
+|                |   - Low intrinsic binding (e.g. prilocaine 55%)                                                 |
+|                |   - AAG (e.g. neonate, elderly, obese)\                                                         |
+|                |     (important if highly bound and low HER e.g. bupiv)                                          |
+|                | - ↓pH: ↑more active ionised fraction in ICF                                                     |
+|                |   - Ion trapping in acidaemic foetal blood                                                      |
+|                | - ↓Blood volume (e.g. shock)                                                                    |
+|                | - ↓V~DSS~ (e.g. cachexia, elderly)                                                              |
++----------------+-------------------------------------------------------------------------------------------------+
+| Metabolism     | - ↓Intrinsic metabolism (e.g. bupivacaine slowest, t~1/2~~β~ 160 mins)                          |
+|                | - Active metabolites (e.g. MEGX 80% as active, xylidide 10% as active)                          |
+|                | - Liver failure → ↓phase 1 reactions → ↓metabolism-dependent clearance                          |
+|                |   - If low extraction ratio (e.g. bupivacaine (but lignocaine also affected)                    |
+|                | - Hepatic hypoperfusion → ↓flow-dependent clearance                                             |
+|                |   - If high extraction ratio (e.g. lignocaine)                                                  |
++----------------+-------------------------------------------------------------------------------------------------+
+| Excretion      | - Renal failure → accumulation of active metabolites (e.g. MEGX, xylidide)                      |
++----------------+-------------------------------------------------------------------------------------------------+
+
+#### 3.Dynamics: factors increasing sensitivity:
+
++-----+-----------------------------------------------------------+
+| CNS | - Pregnancy → ↑sensitivity                                |
+|     | - Altered seizure threshold: epilepsy                     |
+|     | - Drug interactions: tramadol, cocaine, antiarrhythmics.  |
+|     | - ↑PaCO~2~ (↑CBF), ↓PaO~2~, ↓pH                           |
++-----+-----------------------------------------------------------+
+| CVS | - Cardiovascular disease e.g. ischaemia                   |
+|     | - Drug interactions: antiarrhythmics (esp. class 1 drugs) |
+|     | - ↑Heart rate → ↑channel cycling rate                     |
+|     | - ↓PaO~2~, ↓pH, ↑K^+^                                     |
++-----+-----------------------------------------------------------+

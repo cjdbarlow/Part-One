@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011B Question 16 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the formation, fate and role of lactate in energy production.
+:::
+
+Also asked in: [2009A Question 15](/content/exams/anzca/2009/A/15/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} lactate formation from pyruvate, its regeneration of NAD+ and its subsequent metabolic fates. Use a pathway diagram to connect anaerobic glycolysis, oxidation and the Cori cycle.
+
+::: {.structure-headings}
+### Formation and NAD+ Regeneration
+
+### Anaerobic Glycolysis and Cells Without Mitochondria
+
+### Transport and Normal Serum Lactate
+
+### Oxidation as an Energy Substrate
+
+### Hepatic Glucose Production and Cori Cycle
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**45%** of candidates passed this question.
+
+A good answer followed the headings of the question thereby obtaining max marks. Many candidates spent a lot of their answer on describing the citric acid cycle and aerobic metabolism, which gained no marks. Lactate is produced daily by red blood cells and during strenuous exercise where a patient is not hypoxic. It supplies a rapid energy source when oxygen demand is not met by supply but is not sustainable over a prolonged period. It can be reutilised by the cells it is formed in(when pyruvate is able to enter the citric acid cycle the equilibrium shifts to allow lactate -> pyruvate) when oxygen is resupplied or can diffuse out of cells into the plasma for transfer to the 1.liver, to under go gluconeogensis(from pryuvate), this glucose can a)enter into the ATP inefficient cori cycle for further energy production during anaerobic conditions in the muscle, b) be stored as glycogen and c)enter the citric acid cycle, and 2.heart as an energy substrate. There was some confusion where the ATP is produced during anaerobic metabolism, ie; during glycolysis not on the conversion of pyruvate to lactate, and the enzyme for this is lactate dehydrogenase. Concepts such as the Law of mass action and including recycling of the substrates for biochemical equations (particularly NAD+) were appreciated.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2009/A/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Anaerobic metabolism](/content/metabolic/anaerobic.qmd)
+- [Carbohydrate metabolism](/content/metabolic/carbohydrate.qmd)

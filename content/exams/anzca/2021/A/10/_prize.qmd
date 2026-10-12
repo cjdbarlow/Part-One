@@ -1,0 +1,103 @@
+#### List:
+
+- Classification and examples
+- Arachidonic acid pathway
+- Prostaglanding receptors
+- The big 3 effects
+- Organ system effects
+- COX-2 selective
+
+#### NSAID classification: (examiner request)
+
++----------------------------+--------------------------------------------------+
+| Non-selective irreversible | - Salicylates: aspirin                           |
++----------------------------+--------------------------------------------------+
+| Non-selective reversible   | - Propioinic acids (e.g. ibuprofen, naproxen)    |
+|                            | - Phenylacetic acid derivative (e.g. diclofenac) |
+|                            | - Indoles (e.g. indomethacin)                    |
+|                            | - Enolic acid derivatives (e.g. meloxicam)       |
+|                            | - (many others)                                  |
++----------------------------+--------------------------------------------------+
+| COX-2 selective            | - Celecoxib                                      |
+|                            | - Parecoxib (pro-drug for valdecoxib)            |
+|                            | - Rofecoxib (no longer in use)                   |
++----------------------------+--------------------------------------------------+
+
+#### Arachidonic acid pathway:
+
+![](/content/exams/anzca/2021/A/10/prize-image001.jpg){fig-alt="Arachidonic acid cascade showing cyclooxygenase and lipoxygenase products"}
+
+#### Prostaglandin receptors: 
+
++-------------------------------------+----------------------------------------+
+| G protein coupled receptor subtypes | - G~s~: ↑cAMP                          |
+|                                     | - G~i~: ↓cAMP                          |
+|                                     | - G~q~: ↑IP~3~ → ↑ICF \[Ca^2+^\], ↑DAG |
++-------------------------------------+----------------------------------------+
+| Prostaglandin receptor subtypes     | - PGD2: G~s~, G~i~                     |
+|                                     | - PGE2: G~q~, G~s~                     |
+|                                     | - PGF~2~~α~: G~q~                      |
+|                                     | - PGI~2~: G~i~                         |
+|                                     | - TXA~2~: G~q~, G~s~                   |
++-------------------------------------+----------------------------------------+
+
+#### The big three:
+
++-------------------+--------------------------------------------------------------+
+| Anti-pyretic      | - ↓PGE~2~ in hypothalamus                                    |
++-------------------+--------------------------------------------------------------+
+| Analgesic         | - ↓PG (especially E~2~) production at inflamed tissue        |
+|                   | - ↓Nociceptive receptor activation and expression            |
+|                   | - ↓Hyperalgaesia and allodynia                               |
++-------------------+--------------------------------------------------------------+
+| Anti-inflammatory | - ↓PG (especially E~2~) production by inflamed tissues       |
+|                   | - ↓Vasodilatation, ↓capillary leak, ↓oedema, ↓WBC chemotaxis |
+|                   | - ↓Healing: bone (post fracture), pleura (post pleurodesis)  |
++-------------------+--------------------------------------------------------------+
+
+#### Organ systems:
+
++-------------------+-----------------------------------------------------------------------------+
+| Cardiovascular    | - ↓PGI~2~ → vasoconstriction, ↑platelet aggregation → thrombosis e.g. AMI\  |
+|                   |   (especially COX-2 inhibitors; rofecoxib withdrawn for this reason)        |
+|                   | - ↓TXA~2~ → vasodilatation, ↓platelet aggregation → bleeding, bruising      |
+|                   | - Risk of systemic vasculitis                                               |
++-------------------+-----------------------------------------------------------------------------+
+| Respiratory       | - ↓PGD~2~ → bronchodilatation                                               |
+|                   | - ↓PGE~2~ → bronchoconstriction                                             |
+|                   | - ↓PGF~2~~α~ → bronchodilatation                                            |
+|                   | - ↑Shunt of arachidonic acid to leukotrienes → bronchoconstriction          |
+|                   | - (overall: bronchoconstriction, ↑in 20% asthmatics)                        |
++-------------------+-----------------------------------------------------------------------------+
+| Gastro-intestinal | - ↓PGE~2~ → ↑parietal cell activity → ↑HCl secretion                        |
+|                   | - Deranged LFT                                                              |
++-------------------+-----------------------------------------------------------------------------+
+| Renal             | - ↓PGE~2~, ↓PGI~2~ → ↓tubuloglomerular feedback, ↓renin release             |
+|                   |   - Risk of renal failure, hyperkalaemia                                    |
+|                   |   - Important if hypovolaemic or also taking ACE inhibitor                  |
+|                   | - ↓Ureteric contraction → pass kidney stone (indomethacin)                  |
+|                   | - Risk interstitial nephritis                                               |
++-------------------+-----------------------------------------------------------------------------+
+| Obstetric         | - ↓PGE~2~ → myometrial relaxation                                           |
+|                   | - ↓PGF~2~~α~ → myometrial relaxation                                        |
+|                   | - ↓PGE~2~ → closure of ductus arteriosus → asphyxia                         |
++-------------------+-----------------------------------------------------------------------------+
+| Other             | - Displace other drugs from protein-binding sites, e.g. warfarin on albumin |
+|                   | - Metabolic acidosis in overdose                                            |
++-------------------+-----------------------------------------------------------------------------+
+
+#### COX-2 inhibitors:
+
++------+------------------------------------------------------------------------+
+| Pros | - Selective for inflamed tissue (enzyme is inducible cf. constitutive) |
+|      | - ↓Peptic ulceration                                                   |
+|      | - ↓Bronchoconstriction                                                 |
+|      | - ↓Renal impairment (examiner 2013)                                    |
+|      | - ↓Bleeding risk                                                       |
++------+------------------------------------------------------------------------+
+| Cons | - ↑Thrombosis risk, AMI (rofecoxib)                                    |
+|      | - ↑Fluid retention                                                     |
+|      | - Expensive                                                            |
+|      | - Sulfur allergy                                                       |
+|      | - Parecoxib is a prodrug with very slow onset of effect                |
++------+------------------------------------------------------------------------+

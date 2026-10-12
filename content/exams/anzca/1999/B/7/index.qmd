@@ -1,0 +1,72 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999B Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} how the partial pressure of oxygen in a blood sample is measured using a Clark electrode.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the electrode using a labelled diagram. Connect each component and electrode reaction to the measured current, then cover calibration and sources of error.
+
+::: {.structure-headings}
+### Components and Circuit
+
+### Electrode Reactions
+
+### Oxygen Diffusion and Current Measurement
+
+### Calibration, Accuracy and Limitations
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**28%** of candidates passed this question on basic measurement. There were some good answers, but the results overall indicate that many candidates do not have a satisfactory working knowledge of the principles underlying blood gas analysis. This may be the result of a "black box" approach to automated blood gas analysis. Candidates are again reminded that the theory underlying measurement techniques remains an important component of the syllabus and will continue to be examined. Most candidates included a diagram in their answer illustrating the components and configuration of the Clark electrode. The use of diagrams is encouraged, but candidates are reminded to apply clear and correct labelling. A diagram on its own is not sufficient to achieve a pass. Additional detail is required to demonstrate an understanding of the function of each of the components of the diagram. Some of the common errors that cost valuable marks included the following: the incorrect assignment of materials to the anode and cathode; chemical reactions incorrectly assigned to anode and cathode; unbalanced or incorrect chemical equations outlining the reactions at the anode and cathode; confusion as to the role of current and voltage; the voltage and current relationship plotted with current as the independent variable. Many candidates omitted a description of methods of calibration and factors affecting accuracy and limitations. These included the effects of temperature, consumption of oxygen by the electrode, problems with the membrane (e.g. holes, proteins), non-linearity of voltage and current.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/B/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Blood gas measurement](/content/equipment/blood_gas.qmd)

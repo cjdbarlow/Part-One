@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009A Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Compare and contrast**]{.task-verb} atropine and glycopyrrolate. [**Discuss**]{.task-verb} the clinical implications of these differences.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Compare and contrast**]{.task-verb} the agents in parallel columns, then connect each relevant difference to clinical choice. Give the clinical implications their own space rather than leaving them implicit.
+
+::: {.structure-table}
+| Feature | Atropine | Glycopyrrolate | Clinical Implication |
+|---|---|---|---|
+| Chemistry and Pharmaceutics | | | |
+| Pharmacokinetics | | | |
+| Central and Peripheral Pharmacodynamics | | | |
+| Clinical Uses and Implications | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**68%** of candidates passed this question.
+
+The main points expected for a pass included an outline of how these two anticholinergic drugs are similar and also how they differ. Descriptions of their chemical, pharmaceutic, pharmacokinetic and pharmacodynamic properties in a table helped in answering the first question. Once a difference between these agents had been outlined, it was expected that a discussion would ensue as to how that difference could influence your clinical use of these two alternative drugs.
+
+The first question was well answered in general, but the commonest omission was to not answer the second question. When a difference between these agents was correctly identified, there was no discussion as to how that may affect clinical decision-making. Answering only half of the question prevents a candidate from scoring highly.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2009/A/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Antimuscarinics](/content/pharmacopoeia/autonomic/antimuscarinicsansmd.qmd)
+- [Atropine](/content/pharmacopoeia/cvs/atropine.qmd)

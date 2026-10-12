@@ -1,0 +1,64 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001A Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Define**]{.task-verb} the term “context-sensitive half time”. [**How does**]{.task-verb} this differ from the elimination half life? [**Illustrate**]{.task-verb} your answer by comparing thiopentone vs. propofol and fentanyl vs. remifentanil.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Define**]{.task-verb} **Context-Sensitive Half Time** and [**compare**]{.task-verb} it with **Elimination Half Life**. [**Illustrate**]{.task-verb} **Thiopentone Versus Propofol** and **Fentanyl Versus Remifentanil** using labelled graphs against infusion duration, relating the curves to distribution and elimination.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The pass rate for this question was **64%**. To obtain a pass mark, candidates needed to accurately define “context-sensitive half-time”, explaining the “context” and the reliance of the half time on both drug distribution and elimination. Candidates had to show that they understood the limitations of the elimination half-life in predicting the duration of action of infused drugs, in contrast to the context-sensitive half time. When comparing thiopentone vs. propofol and remifentanil vs. fentanyl, candidates were required to detail the influence of the duration of infusion on the context-sensitive half times of the contrasting drugs, and to discuss factors influencing the distribution and elimination of the drugs, and hence their rate of decline in the central compartment after infusion. Extra marks were obtained for including graphs with appropriate axes and discussing their clinical importance with respect to drug suitability for infusion, and for discussing further details of drug infusion modelling used to determine context-sensitive half time. Mention of the tendency for the value of the context-sensitive half time to approach the elimination half life after prolonged infusions, depending on the individual drug disposition, indicated an understanding of the terms that earned further marks.
+
+Relatively few candidates demonstrated a clear understanding of the clinical uses and limitations of the two terms. Some confusion was evident between effect-site decrement times and the context-sensitive half time applicable to the central, or plasma, concentration. Definitions and discussions of elimination half life were frequently imprecise, and some candidates were confused by various uses of the term “T~1/2β~”.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Bolus and Infusion Kinetics](/content/pharmacology/iv_kinetics.qmd)

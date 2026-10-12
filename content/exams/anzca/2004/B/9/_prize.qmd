@@ -1,0 +1,82 @@
+#### List:
+
+- Production
+- Transfer
+- Carriage
+- Variable CO~2~ affinity
+
+#### Production:
+
++-------+--------------------------------------------------+
+| Site  | - Mitochondrion                                  |
++-------+--------------------------------------------------+
+| Means | - Krebs cycle, aerobic respiration               |
+|       | - From carbohydrate, fat, amino acid metabolites |
++-------+--------------------------------------------------+
+| Rate  | - \~200mL/min                                    |
+|       | - Variable respiratory quotient (VCO~2~:VO~2~)   |
+|       |   - Average: 0.8                                 |
+|       |   - Carbohydrate: 1.0                            |
+|       |   - Fat: 0.8                                     |
+|       |   - Protein: 0.7                                 |
+|       |   - Ketones: 0.7                                 |
+|       | - ↑VCO~2~: exercise, sepsis                      |
+|       | - ↓VCO~2~: hypothermia                           |
++-------+--------------------------------------------------+
+
+#### Transfer from cell → capillary blood:
+
++------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Fick’s law | ![](/content/exams/anzca/2004/B/9/prize-image001.jpg){fig-alt="Fick diffusion equation showing pressure gradient and membrane and substance factors"} |
+|            |                                                                                                                                                       |
+|            | - Hence factors increasing CO~2~ transfer: ↑P~1~, ↓P~2~, ↑area, ↓thickness                                                                            |
++------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↑P~1~      | - ↑metabolic rate → ↑VCO~2~                                                                                                                           |
++------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↓P~2~      | - ↑\[Hb\] → ↑capacity for uptake                                                                                                                      |
+|            | - ↑volume of capillary blood → ↑capacity for uptake                                                                                                   |
+|            | - ↑cardiac output → ↑rate of removal                                                                                                                  |
++------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↑Area      | - ↑Capillarisation (e.g. adaptation to aerobic exercise)                                                                                              |
+|            | - ↑Recruitment and distension (e.g. exercise)                                                                                                         |
++------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↓Thickness | - ↑Capillarisation → ↓diffusion distance                                                                                                              |
++------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Carriage in venous blood:
+
++-----------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| Total                 | - CvO~2~ 52mL/100mL venous blood                                                                                                            |
+|                       | - PvCO~2~ 46mmHg                                                                                                                            |
++-----------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| As HCO~3~^-^          | - Location:                                                                                                                                 |
+|                       |   - Haemoglobin (140g/L, 39 imidazoles per molecule)                                                                                        |
+| (62%)                 |   - Plasma proteins (70g/L, 13 imidazoles per molecule)                                                                                     |
+|                       | - Purpose:                                                                                                                                  |
+|                       |   - Maintain partial pressure gradient for CO~2~ from tissues into capillary blood                                                          |
+|                       | - Mechanism:                                                                                                                                |
+|                       |   - CO~2~ + H~2~O \< -\> H^+^ + HCO~3~^-^ (carbonic anhydrase in RBC)                                                                       |
+|                       |   - KHb + H^+^ \<-\> HHb + K^+^ (buffering by imidazole groups of histidine residues)                                                       |
+|                       |   - HCO~3~^-^ exchanged for Cl^-^ at membrane (Hamburger effect, facilitates above reactions)                                               |
++-----------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| As carbamino compound | - Location: same                                                                                                                            |
+|                       | - Purpose: same                                                                                                                             |
+| (28%)                 | - Mechanism: NH~2~ + CO~2~ \<-\> NHCOO^-^ + H^+^                                                                                            |
++-----------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| As dissolved CO~2~    | - Amount dissolved = PaCO~2~ x k (Henry’s law)                                                                                              |
+|                       | - Solubility coefficient k: 0.03mmol/L/mmHg at 37°C                                                                                         |
+| (10%                  | - Note ↑temp → ↓solubility → ↑PaCO~2~:CaCO~2~                                                                                               |
++-----------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| Illustration          | ![](/content/exams/anzca/2004/B/9/prize-image002.jpg){fig-alt="Carbon dioxide carriage, buffering and chloride exchange in an erythrocyte"} |
++-----------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Variable CO~2~ affinity:
+
++---------------------+----------------------------------------------------------------------------------+
+| Haldane effect      | - Higher uptake of CO~2~ and H^+^ in HHb cf. HbO~2~:                             |
+|                     |   - 70% of increment due to 3.5x ↑carbamino formation                            |
+|                     |   - 30% of increment due to ↑buffering (imidazole pKa 6.6 → 8.2)                 |
++---------------------+----------------------------------------------------------------------------------+
+| Isohydric buffering | - For each mol O~2~ unloaded by Hb, 0.7mol H^+^ can be added without ↓ plasma pH |
+|                     | - Due to Haldane effect                                                          |
++---------------------+----------------------------------------------------------------------------------+

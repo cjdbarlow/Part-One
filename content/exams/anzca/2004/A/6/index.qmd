@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004A Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the circulatory effects of glyceryl trinitrate.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} the mechanism before separating venous, arterial and regional circulatory effects. Connect these changes to myocardial oxygen supply and demand and relevant pathological states.
+
+::: {.structure-headings}
+### Mechanism and Vascular Smooth Muscle
+
+### Venous and Arterial Effects
+
+### Myocardial Oxygen Supply and Demand
+
+### Regional Circulations and Platelets
+
+### Effects in Ischaemia, Failure and Hypovolaemia
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**83%** of candidates passed this question.
+
+Most candidates understood the drug’s mechanism of action. Good answers included not only the direct effects of glyceryl trinitrate on blood vessels but also how those effects lead to favourable changes in the myocardial oxygen supply and demand ratio.
+
+Many candidates also gave a brief description of glyceryl trinitrate’s effects in pathological states, such as in myocardial ischaemia, cardiac failure and hypovolaemia.
+
+Fewer candidates outlined the effects of glyceryl trinitrate on other organ circulations such as the pulmonary, uterine and cerebral circulations or possible effects on platelets.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2004/A/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Direct vasodilators](/content/pharmacopoeia/cvs/direct_vasodilators.qmd)
+- [Myocardial oxygen supply and demand](/content/cvs/myocardial_oxygen.qmd)

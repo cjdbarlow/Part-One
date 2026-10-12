@@ -1,0 +1,81 @@
+#### List:
+
+- Intro
+- Table
+- Graph
+- Implications
+
+#### Intro:
+
++-------------+----------------------------------------------------------------------------------------+
+| Definitions | - ED95: dose that produces 95% depression of single twitch height in adductor pollicis |
+|             | - 2 x ED95: intubating dose                                                            |
++-------------+----------------------------------------------------------------------------------------+
+| Summary     | *Adductor pollicis vs diaphragm/larynx:*                                               |
+|             |                                                                                        |
+|             | - Slower onset                                                                         |
+|             | - Greater peak effect                                                                  |
+|             | - Slower offset                                                                        |
++-------------+----------------------------------------------------------------------------------------+
+
+#### Table:
+
++----------------------+----------------------------+------------------------+
+|                      | Diaphragm and Larynx (D&L) | Adductor pollicis (AP) |
+|                      |                            |                        |
+|                      | Corrugator supercilii (CS) |                        |
++======================+============================+========================+
+| **Physiology:**      |                            |                        |
++----------------------+----------------------------+------------------------+
+| - Blood flow         | ↑                          | ↓                      |
++----------------------+----------------------------+------------------------+
+| - ACh release        | ↑                          | ↓                      |
++----------------------+----------------------------+------------------------+
+| - AChR density       | ↑                          | ↓                      |
++----------------------+----------------------------+------------------------+
+| - AChE activity      | ↑                          | ↓                      |
++----------------------+----------------------------+------------------------+
+| **Clinical effect:** |                            |                        |
++----------------------+----------------------------+------------------------+
+| - Onset speed        | ↑ (25% faster)             | ↓                      |
++----------------------+----------------------------+------------------------+
+| - Peak effect        | ↓                          | ↑                      |
++----------------------+----------------------------+------------------------+
+| - Offset speed       | ↑ (33-50% faster)          | ↓                      |
++----------------------+----------------------------+------------------------+
+
+#### Graph:
+
+![](/content/exams/anzca/2021/A/9/prize-image001.jpg){fig-alt="Relative neuromuscular block time courses at diaphragm, larynx and adductor pollicis after vecuronium"}
+
+#### Implications:
+
++---------------+----------------------------------------------------+
+| Where to look | - CS: medial eyebrow (not orbicularis oculi)       |
+|               | - AP: thumb & forefinger (not hypothenar eminence) |
++---------------+----------------------------------------------------+
+| Induction     | - CS: intubate at TOF count = 0                    |
+|               | - AP: intubate at TOF count = 1 (?)                |
++---------------+----------------------------------------------------+
+| Maintenance   | *If immobility essential:*                         |
+|               |                                                    |
+|               | - CS: titrate against TOF count = 0                |
+|               | - AP: titrate against PTC                          |
+|               | - Administer relaxant by infusion                  |
++---------------+----------------------------------------------------+
+| Emergence     | - CS: ahead of D&L. TOF count by inspection.       |
+|               |                                                    |
+|               | *→ risk of residual curarisation*                  |
+|               |                                                    |
+|               | - AP: lag behind D&L. TOF ratio by accelerometry.  |
+|               |                                                    |
+|               | *→ Reversal at TOF count 4*                        |
+|               |                                                    |
+|               | → *Extubate at TOF ratio \>0.9*                    |
++---------------+----------------------------------------------------+
+
+#### References:
+
+<https://pubs.asahq.org/anesthesiology/article/117/5/934/13433/Neuromuscular-MonitoringMore-than-Meets-the-Eye>
+
+<https://link.springer.com/content/pdf/10.1007/BF03019373.pdf>

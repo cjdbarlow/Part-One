@@ -1,0 +1,57 @@
+Amiodarone is an antiarrhythmic agent with a complex mechanism of action and many effects. It’s classified as a Vaughan-Williams class III antiarrhythmic but exits action at all 4 classes
+
+Dose 
+
+PO 200mg TDS (loading)
+
+IV 300mg /1hr → 900mg/24 hrs
+
+Use:
+
+Management of atrial (SVT, AF) and ventricular tachyarrhythmias 
+
+Mechanism of Action 
+
+Class I (Na channel) → ↑threshold potential and prolong refractory period 
+
+Class II (Beta Blockade) → ↓inotropy ↓ chronotropy ↓dromotropy 
+
+Class III (K Channel) → prolong repolarisation via fast K channel blockade → ↑AP duration
+
+Class IV → (Ca Channel blockade) → ↓conduction through AV node, ↓ contractility
+
+Also non-competitive a1 blockade → Vasodilation → ↓MAP  
+
+PK
+
+Absorption:
+
+IV and PO formulations 
+
+Bioavailability \~30%
+
+Distribution:
+
+High Protein binding (95%) 
+
+Vd up to 70L/kg due to high lipid and tissue accumulation
+
+Metabolism:
+
+Hepatic Metabolism by CYP3A4 to desethylamiodarone 
+
+Elimination:
+
+Renal Excretion 
+
+Elimination Half time \~50days 
+
+Adverse Effects:
+
+CVS: Hypotension, bradycardia, heart block, ↑QT 
+
+CNS: Peripheral neuropathy 
+
+Resp: Interstitial fibrosis 
+
+Endocrine: Hyper/hypothyroidism

@@ -1,0 +1,74 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002A Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Define**]{.task-verb} “Venous Admixture”. Briefly [**explain**]{.task-verb} how venous admixture influences arterial oxygen tension and how an increase in inspired oxygen concentration may affect this.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Define**]{.task-verb} **Venous Admixture**, then briefly [**explain**]{.task-verb} **True Shunt**, **V/Q Inequality**, **Effects on Arterial Oxygen Tension**, and **Response to Increased Inspired Oxygen**. Distinguish the two mechanisms and include the influence of cardiac output.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**46%** of candidates passed this question. The main points expected in the answer were:
+
+1. An adequate definition
+2. A brief discussion of shunt and V/Q inequality, both physiological and pathological
+3. A brief discussion of the contribution of V/Q inequality and shunt to changes in PaO2
+4. A differentiation between true shunt and V/Q inequality
+5. An explanation of the effect of cardiac output on venous admixture
+6. An explanation of the effects of increased FiO2 on true shunt and on venous admixture due to V/Q inequality
+
+Points that gained extra marks included mention of sources of physiological and pathological shunt and V/Q inequality, the effect of the shape of the Hb saturation curve on the response to increasing FiO2, and mention of extra-pulmonary shunts (normal and abnormal). A correctly labelled iso-shunt diagram or description of the shunt equation also received extra marks.
+
+Common mistakes included omission of all mention of V/Q inequality. The axes of the iso-shunt diagram were often incorrectly labelled.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Shunt](/content/resp/shunt.qmd)
+- [Basics of V/Q Matching](/content/resp/vq_basics.qmd)

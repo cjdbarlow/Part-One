@@ -1,0 +1,73 @@
+#### List:
+
+- Intro
+- Type 1 reaction
+- Type 4 reaction
+
+#### Intro:
+
++--------------+---------------------------------------------------------------------+
+| Definition   | - Hypersensitivity to latex a natural derivative of the rubber tree |
++--------------+---------------------------------------------------------------------+
+| Risk factors | - Atopy (asthma, eczema, allergic rhinitis)                         |
+|              | - Frequent exposure (i.e. health care workers)                      |
++--------------+---------------------------------------------------------------------+
+| Severity     | - Varies from mild to life-threatening                              |
++--------------+---------------------------------------------------------------------+
+| Source       | - Hospitals: disposable gloves, urine catheters, anaesthetic tubing |
+|              | - Anywhere: rubber bands, shoes                                     |
+|              | - Cross-sensitivity: banana, kiwifruit, avocado                     |
++--------------+---------------------------------------------------------------------+
+| Implication  | - Minimise exposure: stock latex-only gloves and other products     |
++--------------+---------------------------------------------------------------------+
+
+#### Type 1: anaphylaxis
+
++-----------------+-------------------------------------------------------------------------------+
+| Characteristics | - All-or-nothing                                                              |
+|                 | - Immediate                                                                   |
+|                 | - Life-threatening                                                            |
++-----------------+-------------------------------------------------------------------------------+
+| Aetiology       | - First exposure → sensitization (10-14 days)                                 |
+|                 |   - Antigen presenting cell engulfs antigen, presents on MHC-II               |
+|                 |   - APC activates specific T cell                                             |
+|                 |   - T cell activates specific B cell                                          |
+|                 |   - B cell produces specific IgE                                              |
+|                 |   - IgE fixes to mast cells and basophils                                     |
+|                 |   - 10-14 day process                                                         |
+|                 | - Second exposure → systemic degranulation (seconds)                          |
++-----------------+-------------------------------------------------------------------------------+
+| Pathophysiology | - Early mediators: histamine, serotonin, tryptase                             |
+|                 | - Late mediators: leukotrienes, prostaglandins, bradykinin, platelet factor 4 |
+|                 | - Vasodilation, capillary leak                                                |
+|                 | - Angioedema, upper airway obstruction                                        |
+|                 | - Hypotension, arrest                                                         |
+|                 | - Bronchospasm                                                                |
++-----------------+-------------------------------------------------------------------------------+
+| Treatment       | - Adrenaline                                                                  |
+|                 |   - α~1~: vasoconstriction → ↑SVR → ↑mAP                                      |
+|                 |   - β~1~: ↑heart rate, contractility → ↑mAP                                   |
+|                 |   - β~2~: bronchodilatation, stabilize mast cells                             |
+|                 | - Glucocorticoid:                                                             |
+|                 |   - ↓Late mediator production                                                 |
+|                 |   - Antihistamine                                                             |
+|                 |   - ↓Vasodilation, capillary leak                                             |
++-----------------+-------------------------------------------------------------------------------+
+| Test            | - Prick skin →apply latex solution → observe for weal and flare               |
+|                 | - Radioallergosorbent assay                                                   |
+|                 | - Serial tryptase (+1h, +6h)                                                  |
++-----------------+-------------------------------------------------------------------------------+
+
+#### Type 4: delayed type hypersensitivity, contact dermatitis
+
++-----------------------------+---------------------------------------------------------------------+
+| Key features                | - Slower                                                            |
+|                             | - Generally less severe                                             |
++-----------------------------+---------------------------------------------------------------------+
+| Aetiology / pathophysiology | - Antigen presented to T lymphocyte                                 |
+|                             | - Cytokine release                                                  |
+|                             | - Local activation of macrophages                                   |
+|                             | - Well demarcated erythematous urticarial rash                      |
++-----------------------------+---------------------------------------------------------------------+
+| Test                        | - Apply skin patch with antigen for 24 hours → observe for reaction |
++-----------------------------+---------------------------------------------------------------------+

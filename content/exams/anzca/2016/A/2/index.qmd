@@ -1,0 +1,93 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016A Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Draw and label**]{.task-verb} a circle breathing system. [**Explain**]{.task-verb} its advantages and disadvantages.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Draw and label**]{.task-verb} the circuit with the components in their correct positions and indicate gas flow. [**Explain**]{.task-verb} advantages and disadvantages by connecting the arrangement and rebreathing to gas delivery, efficiency, resistance and possible malfunction.
+
+::: {.structure-headings}
+### Labelled Circuit and Gas Flow
+
+### Components and Their Arrangement
+
+### Anaesthetic and Oxygen Delivery
+
+### Heat, Humidity and Economy
+
+### Resistance, Complexity and Failure Modes
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**89%** of candidates achieved a pass in this question
+
+Main Points expected for a pass:
+
+  - A legible and accurate diagram of a circle breathing system.
+  - Correct components in the correct order.
+  - A reasonable list of advantages and disadvantages.
+
+Additional points could be gained for:
+
+  - Further detail on how components were arranged.
+
+Common problems:
+
+- This question was generally well handled.
+- Some candidates spent too much time on one half of the question.
+- There was confusion regarding the location of the APL valve.
+- Illegible handwriting
+- Poor layout and structure and evidence of poor time management
+- The main reason for failing this question was insufficient core knowledge
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2015/A/1/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2016/A/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Circle breathing system](/content/equipment/circle_system.qmd)

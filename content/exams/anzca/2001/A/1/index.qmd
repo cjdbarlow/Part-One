@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001A Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the determinants and regulation of extracellular fluid volume.
+:::
+
+Also asked in: [2009A Question 11](/content/exams/anzca/2009/A/11/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} extracellular fluid volume and its principal sodium determinant. Organise regulation into sensors, controllers and renal effectors, distinguishing volume control from water and tonicity control.
+
+::: {.structure-headings}
+### Definition and Compartments
+
+### Sodium Content and Volume
+
+### Volume Sensors and Controllers
+
+### Renin–Angiotensin–Aldosterone System
+
+### ANP, ADH, Thirst and Water Balance
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**68%** of candidates passed this question.
+
+The volume of ECF is primarily determined by the total amount of osmotically active solute present in this fluid compartment which is predominantly sodium and chloride. Changes in the amount of chloride are to a large extent secondary to changes in sodium. Hence the amount of sodium in the ECF is the most important determinant of ECF volume. This was not mentioned by 46% of the candidates. These candidates were then less likely to go on and describe the mechanisms that control sodium balance and hence determine ECF volume. The factors that regulate ECF volume include angiotensin (which stimulates aldosterone and ADH secretion), aldosterone which causes renal sodium and chloride reabsorption, and ADH which promotes water retention by the kidneys. Changes in GFR alter the amount of sodium filtered. However, the fraction of sodium reabsorbed is held constant by glomerulotubular balance. This is different to tubuloglomerular feedback (the mechanism by which delivery of sodium and chloride to the macula densa feeds back to alter GFR). These two processes were often confused with each other. Stimulation of osmoreceptors in the hypothalamus cause thirst and also increase ADH secretion. Atrial natriuretic peptide secreted by the atria in response to increased intravascular volume causes natriuresis. Sodium is also lost in sweat. Volume stimuli override the osmotic regulation of ADH secretion and hence water excretion. Those candidates who over-emphasised one area at the expense of others, or who produced irrelevant information gained less marks. For example many candidates offered lengthy and irrelevant descriptions of the Starling forces across the capillary and the Gibbs-Donnan effect. The location of the volume receptors and osmoreceptors was incorrect in many answers.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2001/A/1/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Sodium](/content/renal/sodium.qmd)
+- [Renal endocrine functions](/content/renal/endocrine.qmd)
+- [Cell homeostasis](/content/cellular/cell_homeostasis.qmd)

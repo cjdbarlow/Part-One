@@ -1,0 +1,87 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008A Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the pharmacologic management if bronchoconstriction in acute severe asthma. [**Include**]{.task-verb} mechanisms of action and potential adverse effects.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} the major drug classes in a table. [**Include**]{.task-verb} a representative drug and route, its mechanism of action and important adverse effects.
+
+::: {.structure-table}
+| Drug Class | Example and Route | Mechanism | Adverse Effects |
+|---|---|---|---|
+| Beta-2 Agonists | | | |
+| Corticosteroids | | | |
+| Anticholinergics | | | |
+| Methylxanthines | | | |
+| Other Agents | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**79%** of candidates passed this question.
+
+This question was asked in an earlier examination and comments from the examiner’s report remain relevant.
+
+The main points to be covered included:
+
+- A list of the main drugs useful in this situation
+- An example in each group and its route(s) of administration
+- Sufficient detail on how the drug works
+- Important side effects
+
+It was expected that most of the answer would be on B2 agonists, including the use of less selective agents eg adrenaline, steroids, anti-cholinergics and methylxanthines. Additional marks were also given for notes on magnesium sulphate, ketamine, volatiles, oxygen and heliox.
+
+Some information on 2^nd^ messengers was expected, here some candidates were confused with the inhibition of cAMP and the direction of intracellular calcium fluxes. Some candidates failed to gain marks by not mentioning a mechanism of action or side effects. There were some excellent answers that used a table format, succinctly giving detailed and relevant information. Extra marks were given for answers that showed some perspective eg minimal side effects of ipratropium if given by metered aerosol.
+
+Some candidates used time to discuss the pathogenesis of asthma, which attracted no marks. Insufficient detail and main points not covered were the main reasons for failing this question.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Anti-Asthma Drugs](/content/pharmacopoeia/resp/anti_asthma_drugs.qmd)

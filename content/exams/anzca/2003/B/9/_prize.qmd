@@ -1,0 +1,83 @@
+#### List:
+
+- Intro
+- Effects on supply
+- Effects on demand
+
+#### Intro:
+
++-----------------------+------------------------------------------------------------------------------------+
+| Background            | - High O~2~ consumption: MVO~2~ 9.8mL/min/100g at rest                             |
+|                       | - High O~2~ extraction: EO~2~ 0.75 at rest                                         |
+|                       | - Hence ↑O~2~ demand requires ↑CBF                                                 |
+|                       | - LMCA flow: diastole \>\> systole (due to systolic reversal of pressure gradient) |
+|                       | - RCA flow: systole ≈ diastole                                                     |
+|                       | - Note ↑HR causes ↑demand and ↑supply but ↓time for supply                         |
++-----------------------+------------------------------------------------------------------------------------+
+| Effect of tachycardia | - ↑O~2~ demand + ↑O~2~ supply but ↓time for O~2~ supply = ↑risk ischaemia          |
+|                       |   - In health: entire subendocardium                                               |
+|                       |   - If stenotic arteries: territory of those vessels                               |
+|                       | - RV: supply throughout cardiac cycle → at lower risk                              |
+|                       | - LV: supply in diastole \>\> systole → at higher risk                             |
++-----------------------+------------------------------------------------------------------------------------+
+| Supply-demand ratio   | - Supply: Diastolic pressure-time index = diastolic time x (AoP – LVEDP)           |
+|                       | - Demand: Tension time index = systolic time x SBP                                 |
+|                       | - Endocardial viability ratio = DPTI/TTI                                           |
+|                       | - Normal EVR \>1                                                                   |
+|                       | - EVR \<0.7 → subendocardial ischaemia                                             |
++-----------------------+------------------------------------------------------------------------------------+
+
+\*Note: ↑HR does not cause ↑CO or ↑mAP if venous return (VR) is unchanged\*
+
+#### Effect on supply:
+
+*Graph of coronary blood flow:*
+
+![](/content/exams/anzca/2003/B/9/prize-image001.jpg){fig-alt="Aortic root pressure and left and right coronary blood flow during the cardiac cycle"}
+
+*Equations:*
+
++------------------------------+------------------------------------------------------+
+| Oxygen delivery              | = Vessel flow rate x CaO~2~                          |
++------------------------------+------------------------------------------------------+
+| LMCA flow rate               | = % diastole x \[AoP (80) – LVEDP (6)\] / resistance |
++------------------------------+------------------------------------------------------+
+| RCA flow rate                | In systole = \[AoP (120) – RVSP (25)\] / resistance  |
+|                              |                                                      |
+|                              | In diastole = \[AoP (80) – CVP (2)\] / resistance    |
++------------------------------+------------------------------------------------------+
+| Coronary vascular resistance | = (8 x length x viscosity) / (π x radius^4^)\        |
+|                              | (radius is the major factor since power of four)     |
++------------------------------+------------------------------------------------------+
+| Oxygen content               | = \[Hb\]g/L x SaO~2~% x 1.34 + 0.03 x PaO~2~         |
+|                              |                                                      |
+|                              | Normal 20mL O~2~ per 100mL arterial blood            |
++------------------------------+------------------------------------------------------+
+
+*Effect on oxygen supply:*
+
++---------------+-----------------------------------------------------------------------------+
+| ↓%Diastole    | - ↑HR → ↓flow rate → ↓DO~2~                                                 |
+|               | - Major factor                                                              |
++---------------+-----------------------------------------------------------------------------+
+| ↓LVEDP / ↓CVP | - ↑HR → ↓LVEDP / ↓CVP → ↑flow rate → ↑DO~2~ (if venous return unchanged)    |
+|               | - Venous collapse occurs at entrance to thorax when pressure subatmospheric |
++---------------+-----------------------------------------------------------------------------+
+| ↑Radius       | - Metabolic autoregulation:                                                 |
+|               | - ↑HR → ↑MVO~2~ → ↑pCO~2~/H^+^/K^+^/ /lactate → ↑NO → dilatation            |
+|               | - Major factor; pairs supply and demand in health                           |
+|               | - Coupling impaired if stenotic artery                                      |
++---------------+-----------------------------------------------------------------------------+
+
+#### Effect on demand:
+
++-----------------+------------------------------------------------------------------------------------------+
+| ↑Heart rate\    | - ↑Beats per unit time → ↑MVO~2~                                                         |
+| (15-25%)        |                                                                                          |
++-----------------+------------------------------------------------------------------------------------------+
+| ↑Contractility\ | - ↑HR → contractility i.e. Bowditch effect                                               |
+| (10-15%)        | - ? ↓time for Na^+^ efflux by Na^+^K^+^ATPase → ↑Na^+^/Ca^2+^ exchange → ↑ICF \[Ca^2+^\] |
++-----------------+------------------------------------------------------------------------------------------+
+| ↓Stroke work\   | - ↑HR → ↓SV → ↓SW (if venous return unchanged)                                           |
+| (10-15%)        |                                                                                          |
++-----------------+------------------------------------------------------------------------------------------+

@@ -1,0 +1,89 @@
+#### List:
+
+For each:
+
+- CVS
+- Resp
+- Other
+
+#### Thiopentone:
+
+*Cardiovascular:*
+
++------------+-------------------------------------------------------------------+
+| Mechanisms | - ↑Nitric oxide release                                           |
+|            |                                                                   |
+|            | (↓SNS output from medulla)                                        |
++------------+-------------------------------------------------------------------+
+| Effects    | - ↓Venous tone, ↓MSFP, ↓preload                                   |
+|            | - ↓contractility, ↓myocardial O~2~ consumption                    |
+|            | - ↓SVR                                                            |
+|            | - ↓mAP                                                            |
+|            | - Relatively preserved baroreceptor response; reflex ↑HR common   |
+|            | - Pronounced CVS depression if unwell (acidaemia → ↑↑ % unionised |
++------------+-------------------------------------------------------------------+
+
+*Respiratory:*
+
++------------+----------------------------------------------------------------------------+
+| Mechanisms | - Mostly central; ↑GABA → suppression of respiratory centre                |
++------------+----------------------------------------------------------------------------+
+| Effects    | - ↓RR, ↓TV                                                                 |
+|            | - ↓Response to ↓PaO~2~ and ↑PaCO~2~                                        |
+|            | - ↓Pharyngeal dilator tone                                                 |
+|            | - Relatively preserved airway reflexes; risk of laryngospasm, bronchospasm |
+|            | - Relatively preserved HPV                                                 |
++------------+----------------------------------------------------------------------------+
+
+*Other:*
+
++-----------------+------------------------------------------------------------------------+
+| Pharmaceutic    | - Extravasation → necrosis                                             |
+|                 | - Intra-arterial injection → crystallization → microvascular occlusion |
+|                 | - Histamine release                                                    |
+|                 | - Anaphylaxis 1 in 20,000                                              |
++-----------------+------------------------------------------------------------------------+
+| Pharmacokinetic | - Can precipitate acute intermittent porphyria                         |
+|                 | - ↑Activity D-aminolaevulinic acid synthetase                          |
+|                 | - Induction of hepatic CYP450                                          |
++-----------------+------------------------------------------------------------------------+
+
+#### Ketamine:
+
+*Cardiovascular:*
+
++----------------+-----------------------------------------------------------------------------------+
+| Mechanisms     | - R-ketamine: direct negative inotropy, vascular smooth muscle relaxation\        |
+|                |    (↓L-Ca^2+^ activity, ? other)                                                  |
+|                | - (Indirect ↑SNS)                                                                 |
++----------------+-----------------------------------------------------------------------------------+
+| Direct effects | - ↓HR, ↓contractility                                                             |
+|                | - Venodilatation → ↓preload                                                       |
+|                | - Vasodilatation → ↓SVR                                                           |
+|                | - Baroreceptor reflex preserved                                                   |
+|                | - Direct effects balance indirect effects in health                               |
+|                | - Direct effects can be unmasked if maximal SNS activity or high dose vasoactives |
++----------------+-----------------------------------------------------------------------------------+
+
+*Respiratory:*
+
++------------+---------------------------------------------------------------------------------------+
+| Mechanisms | - Direct: ↓L-Ca^2+^, ? other                                                          |
+|            | - (Indirect: ↑SNS output)                                                             |
++------------+---------------------------------------------------------------------------------------+
+| Effects    | - Preserved RR, TV                                                                    |
+|            | - Preserved airway reflexes → ↓risk aspiration                                        |
+|            | - ↑Airway secretion (often need antisialogogue)                                       |
+|            | - R-ketamine causes bronchodilation (preferred induction agent in status asthmaticus) |
++------------+---------------------------------------------------------------------------------------+
+
+*Other:*
+
++----------------+--------------------------------------------+
+| Neurotoxicity  | - Benzethonium chloride (theoretical risk) |
++----------------+--------------------------------------------+
+| Emetogenesis   | - ? Peripheral 5-HT~3~                     |
+|                | - ? Central effect                         |
++----------------+--------------------------------------------+
+| Hepatotoxicity | - If prolonged infusion                    |
++----------------+--------------------------------------------+

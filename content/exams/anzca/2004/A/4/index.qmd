@@ -1,0 +1,71 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004A Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the effects of an opioid injected into the spinal intrathecal space.
+:::
+
+Also asked in: [2001B Question 12](/content/exams/anzca/2001/B/12/index.qmd#examiner-comments), [2009A Question 5](/content/exams/anzca/2009/A/5/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} **Spinal Receptor and Cellular Effects**, **Analgesia and Duration**, and **Adverse Effects**. [**Compare**]{.task-verb} relevant opioids within these headings and include the incidence and time course of important adverse effects.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**64%** of candidates passed this question.
+
+One good approach to this question was to identify the three main mechanisms by which intrathecal opioids act: (i) local effect at receptors in the dorsal horn of the spinal cord, (ii) higher centres in the brainstem and via bulk flow of CSF, (iii) central effects following systemic absorption via the epidural venous plexus.
+
+The main points attracting higher marks included an outline of the spinal opioid receptors and additional discussion of the mechanisms of spinal analgesia, a brief outline of the relevant pharmacokinetics (explaining why a small dose is effective), variation in lipid solubility, and major adverse effects such as pruritis, urinary retention and late respiratory depression. Other points that attracted marks included the differential effect on A-delta and C pain fibres and unique features of some opioids (pethidine, remifentanil).
+
+Poorer candidates did not discriminate between the effects of intrathecal and other routes of administration. Specific treatment of each of the adverse effects was not required.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neuraxial Blockade](/content/pharmacopoeia/neuro/neuraxial_blockade.qmd)
+- [Opioids](/content/pharmacopoeia/analgesics/opioidspharm.qmd)

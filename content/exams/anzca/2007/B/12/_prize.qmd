@@ -1,0 +1,91 @@
+#### List:
+
+- Intro
+- Filtration
+- Reabsorption
+- Secretion
+
+#### Intro:
+
++--------------------------+-----------------------------------------------------------------+
+| Normal values            | - ECF 3.5-5mM (tight control required for cell function)        |
+|                          | - ICF 150mM                                                     |
+|                          | - Intake 1-1.5mmol/kg/day                                       |
+|                          | - Output: urine \>\> faeces, sweat                              |
++--------------------------+-----------------------------------------------------------------+
+| Renal potassium handling | - Freely filtered                                               |
+|                          | - Fixed fraction reabsorbed (\~95%)                             |
+|                          | - Variable secretion                                            |
+|                          | - Small amount compulsory excretion (5%)                        |
++--------------------------+-----------------------------------------------------------------+
+| Significance             | - Lower priority than sodium reabsorption                       |
+|                          | - Compulsory excretion means compulsory intake \~0.5mmol/kg/day |
++--------------------------+-----------------------------------------------------------------+
+
+#### Filtration:
+
++-------------------+---------------------------------------------------------------------------------------------------+
+| Freely filtered   | - 180L/day x 4mM = 720mmol/day                                                                    |
++-------------------+---------------------------------------------------------------------------------------------------+
+| Minimal variation | - Minimal variation in ECF concentration                                                          |
+|                   | - Minimal variation in GFR: autoregulation to 125mL/min                                           |
+|                   |   - Myogenic: ↓afferent arteriolar stretch → reflex dilatation (effective for mAP 70-170mmHg)     |
+|                   |   - Chemical (tubuloglomular feedback): ↓NaCl at distal tubule → reflex dilatation                |
+|                   |   - Hormonal (renin-angiotensin): ↓afferent arteriolar stretch or ↓NaCl at distal tubule → ↑renin |
++-------------------+---------------------------------------------------------------------------------------------------+
+
+#### Reabsorption:
+
++------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Proximal tubule  | - Paracellular transit:                                                                                                                                   |
+|                  |   - Solvent drag                                                                                                                                          |
+| (65%)            |   - Passive diffusion                                                                                                                                     |
+|                  |                                                                                                                                                           |
+|                  | ![](/content/exams/anzca/2007/B/12/prize-image001.jpg){fig-alt="Proximal tubular potassium reabsorption through solvent drag and paracellular diffusion"} |
++------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Loop of Henle    | - Secondary active transport (major)                                                                                                                      |
+|                  | - Passive paracellular diffusion (minor)                                                                                                                  |
+| (\~20%)          |                                                                                                                                                           |
+|                  | ![](/content/exams/anzca/2007/B/12/prize-image002.jpg){fig-alt="Thick ascending limb potassium transport with Na–K–2Cl cotransporter and ROMK"}           |
++------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Collecting ducts | (alpha intercalated cell)                                                                                                                                 |
+|                  |                                                                                                                                                           |
+| (\~10%)          | - Active transport                                                                                                                                        |
+|                  |                                                                                                                                                           |
+|                  | ![](/content/exams/anzca/2007/B/12/prize-image003.jpg){fig-alt="Alpha intercalated cell hydrogen and potassium transport"}                                |
++------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Secretion:
+
++-----------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| Location              | - Principal cell of the connecting tubule and collecting duct                                                                                 |
++-----------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| Mechanism             | - Secondary active transport                                                                                                                  |
+|                       |                                                                                                                                               |
+|                       | ![](/content/exams/anzca/2007/B/12/prize-image004.jpg){fig-alt="Principal cell sodium and potassium transport through ENaC, ROMK and Maxi-K"} |
++-----------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| Effect of aldosterone | ![](/content/exams/anzca/2007/B/12/prize-image005.jpg){fig-alt="Renin–angiotensin pathway through angiotensin subtypes and aldosterone"}      |
+|                       |                                                                                                                                               |
+|                       | - Stimuli for release:                                                                                                                        |
+|                       |   - CRH → ACTH (necessary for synthesis; minor stimulus for release)                                                                          |
+|                       |   - Angiotensin 2 (major)                                                                                                                     |
+|                       |   - Hyperkalaemia (minor)                                                                                                                     |
+|                       | - Effect on principal cell                                                                                                                    |
+|                       |   - ↑Na^+^K^+^ATPase synthesis and activity                                                                                                   |
+|                       |   - ↑ENaC and ROMK activity                                                                                                                   |
+|                       |   - i.e. ↑Na^+^ reabsorption at expense of ↑K^+^ secretion                                                                                    |
++-----------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| Other physiology      | Factors increasing K^+^ secretion:                                                                                                            |
+|                       |                                                                                                                                               |
+|                       | - ↑ECF \[K^+^\] (↑Na^+^K^+^ATPase activity independent of aldosterone)                                                                        |
+|                       | - ↑Urine or Na+ flow rate (e.g. glycosuria)                                                                                                   |
+|                       | - ↑Non-Cl^-^ anions                                                                                                                           |
++-----------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| Drugs                 | - Loop diuretics: inhibit Na^+^K^+^2Cl^-^ symporter, hence ↑tubular flow, ↑K^+^ secretion                                                     |
+|                       | - Thiazide: inhibit Na^+^Cl^-^ reabsorption in distal convoluted tubule → ↑tubular flow, ↑K^+^ secretion                                      |
+|                       | - MR antagonist: ↓Na^+^K^+^ATPase synthesis and activity, ↓ROMK activity → ↓K^+^ secretion                                                    |
++-----------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| Pathology             | - Renal failure: ↓GFR → ↓tubular flow → ↓K^+^ secretion → risk hyperkalaemia                                                                  |
++-----------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+
+Recommended reading: <https://cjasn.asnjournals.org/content/10/6/1050.full>

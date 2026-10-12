@@ -1,0 +1,67 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005A Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} how the body detects and responds to a water deficit.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Osmotic Stimulus and Detection**, **Thirst and ADH Release**, **Renal Response**, and **Negative Feedback**. Trace the response from water deficit through sensing to water reabsorption and cessation of the stimulus.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**41 %** of candidates passed this question.
+
+The main points expected for a pass were the understanding that water deficit resulted in hyperosmolarity, that this was sensed in the hypothalamus by osmoreceptors, resulting in thirst, and secretion of ADH, and an explanation of the changes that occur in the kidney to allow water reabsorption. Additional points were given for including the normal range of plasma osmolarity, more detailed discussion of ADH including its cellular mechanism of action, the non-renal effects of ADH, and the negative feedback effect once water reabsorption had occurred.
+
+Many candidates answered this question as how the body detects and responds to a volume deficit rather than a water deficit. Very few candidates were able to describe the negative feedback loop which results in the cessation of ADH release once water is reabsorbed. Although many candidates acknowledged that water reabsorption occurred, only a few candidates demonstrated an understanding that water was absorbed in excess of solutes, and that a concentrated urine was produced.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Endocrine Functions of the Kidney](/content/renal/endocrine.qmd)
+- [Hypothalamic Hormones](/content/endo/hypothalamus.qmd)

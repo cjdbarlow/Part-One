@@ -1,0 +1,92 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2021A Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the physiology of blood groups that allows O negative packed cells to be safely transfused to most patients.
+:::
+
+Also asked in: [2012A Question 11](/content/exams/anzca/2012/A/11/index.qmd#examiner-comments), [2016B Question 4](/content/exams/anzca/2016/B/4/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} antigen and antibody relationships before explaining why O negative packed cells can be used for most recipients. Distinguish packed cells from plasma and address important limitations.
+
+::: {.structure-headings}
+### ABO Antigens and Antibodies
+
+### Rhesus Antigens and Sensitisation
+
+### Packed Cells and Recipient Compatibility
+
+### Other Antigens and Compatibility Limits
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**68.1%** of candidates achieved a pass in this question
+
+The major domains assessed in this question were:
+
+- physiology of ABO and Rhesus grouping
+- physiology of Incompatible transfusion reaction
+- explanation of why O neg blood is safe
+
+Credit was given for other relevant correct material.
+
+Common problems were:
+
+- defining Rh status by antibody rather than antigen presence/absence
+- confusion over IgM and IgG antibodies, which blood group (ABO or Rhesus) they pertain to and which cross the placenta
+- using vague terminology to describe antigen/antibody reactions without specifying whether the antigen is in the donor or recipient and vice versa
+- describing group AB as presence of the “AB” antigen rather than the presence of A and B antigens.
+- confusion over which Rh group can develop Rh antibodies and how these develop
+- lack of detail on why absence of an antigen/antigens equates with safety
+- only discussing one part of the question to the detriment of the other part - for example only discussing physiology of blood groups and not why O neg is safe or only discussing why O neg is safe not discussing physiology of blood grouping.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2012/A/11/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2012/A/11/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Transfusion](/content/haeme/transfusion.qmd)

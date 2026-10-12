@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009B Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the pharmacological management of ventricular fibrillation in an adult with reference to: drugs, dose, mechanisms of action, and potential adverse effects.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} the drug therapies in relation to the adult **Ventricular Fibrillation Algorithm**. Use a table for dose, mechanism, adverse effects and role of each agent.
+
+::: {.structure-table}
+| Drug | Dose | Mechanism | Adverse Effects | Role |
+|---|---|---|---|---|
+| Adrenaline | | | | |
+| Amiodarone | | | | |
+| Vasopressin | | | | |
+| Lignocaine | | | | |
+| Magnesium | | | | |
+| Bicarbonate | | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**51%** of candidates passed this question.
+
+Overall, the responses to this important question were disappointing. There was wide ranging depth and breadth of understanding of the pharmacological management of ventricular fibrillation (VF).
+
+The syllabus clearly states that candidates should be able to describe the international cardiopulmonary resuscitation guidelines, and also the pharmacology of adrenaline, vasopressin, amiodarone and lignocaine with reference to cardiopulmonary resuscitation; these areas of study should enable candidates to understand the pharmacological management specific to VF. A complete answer required that candidates address the drugs used for VF, and dose, mechanisms of action and adverse effects specific to VF, and understood the role of these in current international and local VF management guidelines.
+
+Description of the role and current use of adrenaline, amiodarone, vasopressin, lignocaine, magnesium and bicarbonate were expected. Few mentioned the specific role and supporting evidence for each agent in VF resuscitation algorithms.
+
+Additional points which attracted higher marks included specific indications for each agent in VF, alternate routes of administration with dosages, understanding of current controversies in medication selection, and management of VF in specific clinical scenarios, for example, local anaesthetic toxicity with VF. In general, there was poor understanding of the mechanisms of action pertinent to resuscitation from VF, of drug dose and timing regimes in this clinical situation, and of adverse effects of acute administration. There was great variability in dosage regimes.
+
+Common mistakes included misinterpretation of the question as general resuscitation for cardiac arrest with inclusion of drugs such as atropine, and excessive focus on details of defibrillation and basic CPR technique with little information on pharmacological therapy.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Adrenergic Vasoactives](/content/pharmacopoeia/cvs/adrenergic_drugs.qmd)
+- [Amiodarone](/content/pharmacopoeia/cvs/amiodarone.qmd)

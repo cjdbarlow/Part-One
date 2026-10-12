@@ -1,0 +1,109 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014A Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Indicate**]{.task-verb} the sequence of the physiological changes to the fetal circulation at birth and [**briefly describe**]{.task-verb} the mechanisms that account for these changes.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Indicate**]{.task-verb} the sequence from placental separation and first breaths to closure of the fetal shunts. [**Briefly describe**]{.task-verb} the mechanisms in a table, including the timing of functional and anatomical changes.
+
+::: {.structure-table}
+| Event or Structure | Circulatory Change | Mechanism | Timing |
+|---|---|---|---|
+| Placental Separation | | | |
+| First Breaths and Vascular Resistance | | | |
+| Foramen Ovale | | | |
+| Ductus Arteriosus | | | |
+| Ductus Venosus | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**40.8%** of candidates achieved a pass in this question
+
+Main Points expected for a pass:
+
+- removal of the placenta and consequences of this.
+
+- reduction in pulmonary vascular resistance.
+
+- increase in systemic vascular resistance.
+
+- closure of ductus venosus, foramen ovale and ductus arteriosus.
+
+- discussion of the mechanisms for these changes.
+
+Additional points could be gained for:
+
+- time scales of changes.
+
+- cellular mechanisms of changes.
+
+- clinical significance.
+
+- noting that these changes are reversible for varying amounts of time.
+
+Common problems:
+
+- illegible handwriting
+
+- poor layout and structure and evidence of poor time management
+
+- too much time spent on outlining normal fetal circulation.
+
+- time wasted drawing diagrams.
+
+- confusion as to where shunts were located and the role of prostaglandins.
+
+- the main reason for failing this question was insufficient core knowledge
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2014/A/15/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Foetal circulation](/content/obs/foetal.qmd)
+- [Placenta](/content/obs/placenta.qmd)

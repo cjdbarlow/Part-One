@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2017B Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+Using a labelled diagram, [**describe**]{.task-verb} how a mechanical (non-cassette) variable bypass vaporiser achieves the concentration set on the dial. [**Describe**]{.task-verb} the mechanisms that compensate for temperature and downstream pressure changes.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+Use a labelled diagram to [**describe**]{.task-verb} splitting and recombination of gas streams at the selected output. Then [**describe**]{.task-verb} temperature and pressure compensation by linking each disturbance to the device response.
+
+::: {.structure-headings}
+### Labelled Vaporiser Diagram
+
+### Saturation, Splitting Ratio and Output
+
+### Latent Heat and Temperature Change
+
+### Bimetallic Strip and Heat Sink
+
+### Downstream Pressure and Pumping Protection
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**45 %** of candidates achieved a pass in this question
+
+Most candidates drew an acceptable schematic diagram of a vaporiser and its major components. Temperature compensation provided by the bimetallic strip was well understood. Some candidates were able to calculate splitting ratios from first principles. Candidates could have obtained additional marks by discussing the extrinsic factors that impede the ability of the vaporiser to achieve the dialled concentration.
+
+Many candidates struggled to explain vaporiser function succinctly. At times, it was unclear whether candidates were referring to ambient temperature or vaporiser temperature. Many candidates made erroneous statements contradicting the basic laws of thermodynamics. The function of the heat sink was frequently misunderstood.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2017/B/2/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2017/B/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Vaporisers](/content/equipment/vaporisers.qmd)

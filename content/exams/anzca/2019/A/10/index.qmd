@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019A Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the effect of sevoflurane on the following regional circulations: cerebral, coronary, pulmonary, hepatic and uteroplacental. Do not discuss specific organ effects.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} each named circulation through perfusion pressure, vascular resistance and autoregulation. Distinguish effects at anaesthetic concentrations from higher doses and keep the discussion on blood flow rather than specific organ function.
+
+::: {.structure-table}
+| Regional Circulation | Pressure and Resistance Effects | Autoregulation and Net Flow |
+|---|---|---|
+| Cerebral | | |
+| Coronary | | |
+| Pulmonary | | |
+| Hepatic | | |
+| Uteroplacental | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**19.9 %** of candidates achieved a pass in this question
+
+To pass this question required correct identification of the effect of sevoflurane on the regional circulations without major errors. As per Ohm’s law the effect on regional blood flow is dependent on both the perfusion pressure as well as regional vascular resistance. At anaesthetic concentrations of sevoflurane, autoregulation is preserved in all of these regional circulations except for the uteroplacental unit.
+
+Pleasingly, many candidates recognised that the placental circulation is already maximally dilated so high dose sevoflurane may decrease uteroplacental flow due to a decrease in systemic perfusion pressure. Sevoflurane causes dose dependent vasodilatation. The majority of candidates recognised this effect but few could describe the mechanism. Very few candidates noted that the effects of sevoflurane on all these regional circulations at anaesthetic doses are modest and of little clinical concern in the healthy individual. Most candidates described effects that may be seen at doses above one MAC which was still an acceptable answer.
+
+Common errors were: answers that focused on systemic circulatory effects; not addressing all the circulations; and discussing organ effects eg uterine tone. In their discussion of coronary blood flow candidates invariably used the incorrect term ischaemic preconditioning as opposed to volatile or anaesthetic preconditioning - they are not the same thing but share a similar mechanism. Marks were not deducted for this minor terminology error, however.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2019/A/10/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2019/A/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational anaesthetic agents](/content/pharmacopoeia/neuro/inhalational_anaesthetics.qmd)

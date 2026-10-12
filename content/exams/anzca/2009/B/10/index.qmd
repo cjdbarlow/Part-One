@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009B Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Compare and contrast**]{.task-verb} the neonatal respiratory system with the adult.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Compare and contrast**]{.task-verb} the systems in a table after defining the neonatal period. Distinguish absolute values from values indexed to weight or lung volume and connect differences to clinical implications.
+
+::: {.structure-table}
+| Feature | Neonate | Adult |
+|---|---|---|
+| Anatomy | | |
+| Ventilation and Gas Exchange | | |
+| Lung Volumes | | |
+| Mechanics of Breathing | | |
+| Pulmonary Circulation | | |
+| Control of Breathing | | |
+| Haemoglobin | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**36%** of candidates passed this question.
+
+The neonatal period is from 0-28 days and this question predominantly concerned term neonates. This is not a question about the transition from intra- to extrauterine life nor is it a question about the pathophysiology of prematurity.
+
+This is a wide ranging question concerning many aspects of respiratory physiology:- physiologically relevant anatomy; ventilation and gas exchange; lung volumes; mechanics of breathing; pulmonary circulation; control of breathing; and haemoglobin. The low pass rate resulted from most candidates not producing enough relevant detail in each of these areas.
+
+Differences and similarities are both absolute (neonates are small) and relative (values indexed to weight or FRC). Mention of clinical implications gained extra marks. Well organised answers were frequently in a table form.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neonates and Children](/content/resp/paeds_respiratory.qmd)

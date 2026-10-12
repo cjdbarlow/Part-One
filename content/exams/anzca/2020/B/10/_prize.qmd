@@ -1,0 +1,63 @@
+#### List:
+
+- General description
+- Activation process
+- Physiological role
+
+#### General description:
+
++---------------+-------------------------------------------------------------------------------------+
+| Type          | - Ligand-gated voltage-dependent glutamate receptor\                                |
+|               |   (i.e. both are required for its activation)                                       |
+|               | - Others: AMPA, kainate)                                                            |
++---------------+-------------------------------------------------------------------------------------+
+| Location      | - Spinal cord: especially dorsal horn 2° nociceptive afferents                      |
+|               | - Brain: especially hippocampus                                                     |
++---------------+-------------------------------------------------------------------------------------+
+| Structure     | - Transmembrane, tetrameric (in vivo)                                               |
+|               | - 2 x NR1 subunits (obligatory) – binds glycine                                     |
+|               | - 2 x NR2 subunits (modulatory) – binds glutamate                                   |
+|               | - Central ion channel pore with Mg^2+^ plug                                         |
++---------------+-------------------------------------------------------------------------------------+
+| Binding sites | - Glutamate site (agonist)                                                          |
+|               | - Glycine site (coagonist)                                                          |
+|               | - Phencyclidine site (within the pore): ketamine, PCP (non-competitive antagonists) |
+|               | - N~2~O and Xe: site unknown (non-competitive antagonists)                          |
++---------------+-------------------------------------------------------------------------------------+
+
+#### Activation process:
+
++----------------+----------------------------------------------------------+
+| 1.Priming      | - Activation of adjacent AMPA or NK-1 receptors          |
+|                | - Partial depolarisation → removal of Mg^2+^ plug        |
++----------------+----------------------------------------------------------+
+| 2.Coactivation | - Binding of glycine                                     |
++----------------+----------------------------------------------------------+
+| 3.Activation   | - Binding of glutamate                                   |
+|                | - Ion flux (Ca^2+^ influx \> Na^+^ influx = K^+^ efflux) |
+|                | - Cell-dependent downstream effects                      |
++----------------+----------------------------------------------------------+
+
+#### Effect of ketamine
+
++------------------+----------------------------------------------------------------+
+| Receptor         | - Non-competitive antagonist at PCP site                       |
+|                  | - ↓Receptor activation                                         |
++------------------+----------------------------------------------------------------+
+| Cellular effect  | - ↓Ca^2+^-mediated cell activation                             |
+|                  | - ↓2^nd^ messenger signalling                                  |
+|                  | - ↓Gene transcription                                          |
++------------------+----------------------------------------------------------------+
+| Analgesic effect | - ↓Receptor excitability = wind-up → ↓hyperalgaesia, allodynia |
+|                  | - ↓Synaptic reinforcement = long-term potentiation             |
+|                  | - ↓Acute somatic and neuropathic pain                          |
+|                  | - ↓Opioid requirement                                          |
+|                  | - ↓Progression to chronic pain                                 |
+|                  | - Less utility once chronic pain established                   |
++------------------+----------------------------------------------------------------+
+| Other use        | - Dissociative general anaesthesia, including single agent use |
+|                  | - Poorly understood effect on cell toxicity                    |
+|                  |   - ↓Ca^2+^ mediated excitotoxicity                            |
+|                  |   - ↑Neuronal damage in young rodents                          |
+|                  | - ? Beneficial effect in depression                            |
++------------------+----------------------------------------------------------------+

@@ -1,0 +1,39 @@
+#### List:
+
+- Intro: summary and mechanism
+- Effects on adipose, liver, muscle
+
+#### Introduction: insulin in fat metabolism
+
++--------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| Summary            | - Peptide hormone                                                                                                                    |
+|                    | - Synthesised and stored in islet β-cells                                                                                            |
+|                    | - Release stimulated by ↑BSL more than ↑amino acids and ↑FFA Anabolic and pro-inflammatory effects in adults, growth factor in utero |
+|                    | - ↑ de novo lipogenesis (DNL), ↓lipolysis                                                                                            |
++--------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| Cellular mechanism | - Insulin receptor:                                                                                                                  |
+|                    |   - Tyrosine kinase                                                                                                                  |
+|                    |   - 2 x extracellular α-subunits, 2 x intracellular β-subunits                                                                       |
+|                    | - Binding of insulin:                                                                                                                |
+|                    |   - Autophosphorylation and activation of TK activity                                                                                |
+|                    |   - Signalling via PI3K (metabolic) and MAPK (inflammation etc.) pathways                                                            |
++--------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Effects on fat metabolism:
+
++--------------------+-------------------------------------------------------------------------------------+
+| In adipose         | - ↑GLUT4 expression → ↑glucose uptake and trapping → ↑glycerol synthesis            |
+|                    | - ↑endothelial LPL activity→ ↑FFA uptake from VLDL and chylomicrons                 |
+|                    | - ↓HSL activity → ↓TAG breakdown (opposite if catecholamines)                       |
+|                    | - ↑activity of pyruvate dehydrogenase, Acetyl-CoA carboxylase → ↑DNL → ↑TAG storage |
+|                    |   - i.e. glucose → pyruvic acid → acetyl CoA → fatty acid                           |
++--------------------+-------------------------------------------------------------------------------------+
+| In liver           | - ↑Hexokinase activation → ↑glucose uptake via GLUT2                                |
+|                    | - ↑DNL via ↑PDH and ↑Acetyl-CoA carboxylase activity                                |
+|                    | - ↑synthesis and release of lipoproteins (transports lipids to tissues)             |
+|                    | - ↑synthesis of cholesterol (HMGCoA reductase)                                      |
+|                    | - Inhibit synthesis of ketones (acetoacetate, β-OH-butyrate, acetone)               |
+|                    |   - Excess Acetyl CoA undergoes DNL rather than ketogenesis                         |
++--------------------+-------------------------------------------------------------------------------------+
+| In skeletal muscle | - Once glycogen is replete: ↑DNL (minor)                                            |
++--------------------+-------------------------------------------------------------------------------------+

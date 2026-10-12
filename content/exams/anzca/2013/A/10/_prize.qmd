@@ -1,0 +1,90 @@
+#### List:
+
+- Table of differences
+- Innate system: physicochemical, humoral, cellular components
+- Acquired system: humoral and cellular components
+
+#### Table of differences:
+
++----------------------+-----------------------+---------------------------+
+|                      | **Innate**            | **Acquired**              |
++======================+=======================+===========================+
+| **Evolutionary age** | Older                 | Newer                     |
++----------------------+-----------------------+---------------------------+
+| **Role**             | First line            | Second line               |
++----------------------+-----------------------+---------------------------+
+| **Activity**         | Always active         | Normally silent           |
++----------------------+-----------------------+---------------------------+
+| **Speed**            | Very fast: mins-hours | Slow first time: 3-4 days |
+|                      |                       |                           |
+|                      |                       | Fast second time \<1day   |
++----------------------+-----------------------+---------------------------+
+| **Potency**          | Low                   | High                      |
++----------------------+-----------------------+---------------------------+
+| **Specificity**      | No                    | Yes                       |
++----------------------+-----------------------+---------------------------+
+| **Memory**           | No                    | Yes                       |
++----------------------+-----------------------+---------------------------+
+| **Second exposure**  | Same                  | Much better               |
++----------------------+-----------------------+---------------------------+
+
+#### Innate:
+
++------------------+---------------------------------------------------------------------------------+
+| Physico-chemical | - Barriers (e.g. skin, blood-brain barrier)                                     |
+|                  | - Constant flow (e.g. urine)                                                    |
+|                  | - Bactericidal secretions: gastric HCl, lysozyme in tears, fatty acids in sweat |
++------------------+---------------------------------------------------------------------------------+
+| Humoral          | - Complement cascade                                                            |
+|                  |   - Series of zymogens                                                          |
+|                  |   - Opsonisation for phagocytosis                                               |
+|                  |   - Chemotaxis for WBCs                                                         |
+|                  |   - Direct lysis by MAC                                                         |
+|                  |   - Activates B cells                                                           |
+|                  | - Inflammatory cytokines                                                        |
+|                  |   - Macrophages release cytokines TNFα, IL1, IL6, IFN                           |
+|                  |   - Local effects: vasodilatation, capillary leak                               |
+|                  |   - Immune effects: chemotaxis, WBC proliferation                               |
+|                  | - Acute phase reactants:                                                        |
+|                  |   - e.g. CRP → activates complement                                             |
++------------------+---------------------------------------------------------------------------------+
+| Cellular         | - NK cells:                                                                     |
+|                  |   - Recognizes PAMP/DAMP on MHC1                                                |
+|                  |   - Phagocytosis + lysosomal killing of virus-infected cell                     |
+|                  | - Monocyte/macrophage:                                                          |
+|                  |   - Recognizes PAMP/DAMP on MHC1                                                |
+|                  |   - Phagocytosis + lysosomal killing of virus-infected cell and bacteria        |
+|                  |   - Cytokine release                                                            |
+|                  | - Granulocyte                                                                   |
+|                  |   - Neutrophil: phagocytosis of bacteria                                        |
+|                  |   - Eosinophil: phagocytosis of parasites                                       |
+|                  |   - Basophil (blood): defence against parasites, role in allergy                |
+|                  |   - Mast cell (tissue): defence against parasites, role in allergy              |
++------------------+---------------------------------------------------------------------------------+
+
+#### Adaptive:
+
++----------+--------------------------------------------------------------------------------------------------------+
+| Humoral  | - Antibodies                                                                                           |
+|          |   - Draw structure.                                                                                    |
+|          |   - IgA in secretions                                                                                  |
+|          |   - IgD on WBC, function unknown                                                                       |
+|          |   - IgM in plasma, for early response, activates complement                                            |
+|          |   - IgG in plasma, for later response and memory                                                       |
+|          |   - IgE for parasites, helminths                                                                       |
+|          | - Inflammatory cytokines:                                                                              |
+|          |   - For co-activation of T and B cells                                                                 |
++----------+--------------------------------------------------------------------------------------------------------+
+| Cellular | - Antigen presenting cells:                                                                            |
+|          |   - Macrophages and dendritic cells                                                                    |
+|          |   - Internalises Ag, presents on MHC2, activates TH cell                                               |
+|          | - T cells                                                                                              |
+|          |   - T~H~: recognizes Ag on MHC2; secrete cytokines, activate T~C~ cells, activate B cell → plasma cell |
+|          |   - T~C~: recognizes Ag on MHC1 of infected cell; phagocytoses                                         |
+|          |   - T~M~: small number, long-lived, specific, produced after activation                                |
+|          |   - T~Reg~: prevent inappropriate immune response                                                      |
+|          | - B cells                                                                                              |
+|          |   - Activated by specific activated T~H~ or by recognizing Ag directly                                 |
+|          |   - Plasma cell: secretes antibodies                                                                   |
+|          |   - Memory B cell: small number, long-lived, specific                                                  |
++----------+--------------------------------------------------------------------------------------------------------+

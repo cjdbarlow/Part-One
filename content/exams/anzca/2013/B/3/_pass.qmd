@@ -1,0 +1,42 @@
+Plenum vaporises are a form of variable flow vaporiser where pressured gas flow is diverted into a vapour chamber. The amount of gas diverted into vaporising chamber and therefore the amount of anaesthetic vapour carried into the circuit is set by the bypass valve. It’s vital to ensure that a known, reliable concentration of vapour is delivered from the vaporiser. To achieve this there a number of key safety mechanisms:
+
+(no need to explain how vaporiser works in detail)
+
+![](/content/exams/anzca/2013/B/3/standard-image2.png){fig-alt="Plenum vaporiser with temperature compensation, bypass channel, vapour chamber and one-way valve"}
+
+Safety features of plenum vaporises include:
+
+1.  **Agent Specific**: Volatile agents have different SVP, therefore specific vaporisers are required calibrate a specific agent. To ensure the correct agent is delivered only in the correct vaporiser:
+
+    - Vaporisers are only compatible with a specific volatile agent. 
+    - Agent specific geometric design of filling inlet and anaesthetic agent container and colour coding to ensure correct agent in correct vaporiser. 
+    - Containers and Vaporises are clearly labelled. 
+
+2.  **Temperature**: changes in temperature result in different saturated vapour pressure, ↓temperature →↓SVP and therefore ↓concentration to patient 
+
+    - Container material: Vaporiser constructed of metals with high heat capacity & thermal conductivity to allow heat transfer from atmosphere to liquid and act as a heat sink
+    - Temperature compensators: Vaporises have Bimetallic strips with different coeff of thermal expansion that alter shape \\with temperature changes to change the splitting ratio
+      - ↑T°C = ↑Gas flow to bypass chamber
+      - ↓T°C = ↑Gas flow to vaporising chamber 
+
+3.  **Flow Compensation**: ↑ flow rates run risk of gas exiting the vapour chamber not being fully saturated with volatile agent
+
+    - Vaporisation chamber designed with wicks/baffles to ↑ surface area of vaporisation & ensure gas leaving always fully saturated 
+
+4.  **Pump Effect: **Oscillating pressure with ventilatory cycle can alter & cause retrograde flow from the vaporiser chamber producing unpredictable variations in vapour delivered to patient
+
+    - Adequate length of tubing between vaporiser and circuit
+    - Unidirectional valve between vaporiser and circuit
+    - Inspiratory valve prevents back pressure from patient
+
+5.  **Pressure Compensation:**
+
+    - Dial in effect gives percent of atmospheric pressure. If atmospheric pressure decreases, percentage delivered by vaporises increases but final partial pressure of agent is unaffected.  
+
+6.  **Anti-Spill Mechanism: **Internal valves ensure that if vaporiser is turned upside down volatile agent cannot spill into bypass chamber
+
+::: {}
+
+6.  **Interlocking system** ensures only one vaporiser and be engaged and used at a time
+
+:::

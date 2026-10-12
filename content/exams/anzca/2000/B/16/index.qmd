@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000B Question 16 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Compare and contrast**]{.task-verb} the pharmacology of atracurium and cis-atracurium.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Compare and contrast**]{.task-verb} the drugs in a table using the standard pharmacological headings. Compare onset, duration and adverse effects at equivalent multiples of ED95, and link elimination pathways to recovery and modifying factors.
+
+::: {.structure-table}
+| Feature | Atracurium | Cisatracurium |
+|---|---|---|
+| Physicochemistry and Isomers | | |
+| Potency and Administration | | |
+| Onset and Duration | | |
+| Distribution | | |
+| Metabolism and Excretion | | |
+| Neuromuscular Effects and Reversal | | |
+| Adverse Effects and Modifying Factors | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**26%** of candidates passed this question. This question was best answered in tabular form using a standard pharmacological approach starting with physicochemistry and moving to pharmacokinetics and pharmacodynamics.
+
+It was incorrect to write that cisatracurium is the cis isomer of atracurium. Atracurium is a mixture of 10 isomers, 15% by weight being cisatracurium which provides 50% of the relaxant activity. Cisatracurium is the R-cis, R'-cis isomer, where R designates the stereochemistry of the tetrahydropapaverine rings and cis represents the dimethoxy and 2 alkyl ester groups at C1 and N2.
+
+Pharmacokinetic parameters were poorly presented and many answers stated incorrectly that the drugs have identical kinetics. The effects of age, temperature, pH and advanced liver and renal failure were rarely presented. Metabolic pathways of cisatracurium were a source of confusion in many answers. Cisatracurium is 77% metabolised by Hoffman elimination, with 16% cleared by the kidneys. Atracurium is mainly metabolized by ester hydrolysis.
+
+The drugs are not pharmacodynamically similar and it is important to compare the two drugs at ED~95~ equivalent doses. In fact ED~95~, duration of action, and recovery times from bolus and infusion regimens were rarely mentioned.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2000/B/16/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neuromuscular blockers](/content/msk/neuromuscular_blockers.qmd)
+- [Neuromuscular monitoring](/content/equipment/neuromuscular_monitoring.qmd)

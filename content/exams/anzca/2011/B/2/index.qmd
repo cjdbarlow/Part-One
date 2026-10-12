@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011B Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**What is meant**]{.task-verb} by the term "two compartment model" in pharmokinetics? [**Use**]{.task-verb} PROPOFOL as an example in explanation.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+Explain [**what is meant**]{.task-verb} by the model using a compartment diagram and a concentration–time curve. [**Use**]{.task-verb} propofol to connect the fitted phases to distribution and elimination, then state assumptions, applications and limitations.
+
+::: {.structure-headings}
+### Purpose and Theoretical Compartments
+
+### Diagram and Bi-Exponential Curve
+
+### Propofol Distribution and Elimination
+
+### Derivation and Clinical Applications
+
+### Assumptions and Sources of Error
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**12%** of candidates passed this question.
+
+A systematic approach is needed to answer such a broad question. Areas which could be addressed include: What the model attempts to do, the structure of this kind of model and the mathematics of the model. Properties of propofol which suggest it might fit a multi, rather than a one compartment model. A description of the model, implications of the model, what such a model might be used for and how this model differs from other pharmacokinetic models. Assumptions implicit in using this model, and how this might affect its clinical application. Sources of error in collecting data to test the model.
+
+It was not necessary to cover all of these areas to obtain full marks.
+
+Many candidates wasted time writing random pharmacokinetic data, details on the structure and use of propofol, definitions of pharmacokinetics, or frameworks for pharmacokinetic answers such as absorption, distribution, metabolism & excretion.
+
+Commonly misunderstood concepts included: Compartments being a theoretical construct only. Models fit a curve to observed plasma concentrations plotted against time. No-one described how such a curve might be fitted. The y axis of the plasma concentration time curve is not half life. The words “saturated”, “equilibrium”, “steady state”, and “context sensitive half time”. It is difficult to explain the offset of propofol if the effect site is considered to be in the peripheral compartment. Calculating a loading dose of propfol using the Vd~ss~ would be fatal. A two compartment model is conventionally drawn with two, rather than three or four compartments. Diagrams often depicted excretion as being bi-directional, or occurring through the brain. Both practices are discouraged.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2011/B/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Kinetic models](/content/pharmacology/kinetic_models.qmd)

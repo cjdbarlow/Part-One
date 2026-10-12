@@ -1,0 +1,80 @@
+#### List:
+
+- Intro
+- Aetiology
+- Starling forces
+- Normal values: systemic and renal corpuscle
+
+#### Intro: oncotic pressure:
+
++--------------+------------------------------------------------------------------------+
+| Definition   | - Osmotic pressure resulting from large membrane-impermeable particles |
++--------------+------------------------------------------------------------------------+
+| Purpose      | - It’s the only Starling force that opposes transudation               |
+|              |   - Maintain intravascular volume                                      |
+|              |   - Minimize oedema                                                    |
+|              | - 4L/day transudation occurs; returned to circulation by lymphatics    |
++--------------+------------------------------------------------------------------------+
+| Normal value | - 20-30mmHg                                                            |
++--------------+------------------------------------------------------------------------+
+
+#### Aetiology of oncotic pressure:
+
++---------------------+-----------------------------------------------------------------------------+
+| Plasma proteins     | - Albumin 40g/L                                                             |
+|                     | - Globulins 25g/L                                                           |
+| (creates 10-15mmHg) | - Fibrinogen 3g/L                                                           |
+|                     | - Small amount of others                                                    |
++---------------------+-----------------------------------------------------------------------------+
+| Gibbs-Donnan effect | - Anionic proteins attract cationic sodium                                  |
+|                     | - Hence plasma **water** \[Na^+^\] 146mM while interstitial \[Na^+^\] 140mM |
+| (amplifies \~2x)    | - (**total** plasma \[Na^+^\] is 140mM)                                     |
+|                     | - But Cl^-^ shift from plasma to ECF mostly offsets this effect             |
+|                     | - Hence increase only 0.4mOsmol/L = 12.5mmHg, not 6mOsmol/L = 112.5mmHg     |
+|                     |                                                                             |
+|                     | (see Kerry Brandis’ explanation)                                            |
++---------------------+-----------------------------------------------------------------------------+
+
+#### Starling forces:
+
++----------+---------------------------------------------------------------------------+
+| Equation | Q = K~f~\[(P~c~ – P~i~) – σ(π~c~-π~i~)\]                                  |
++----------+---------------------------------------------------------------------------+
+| K~f~     | - Filtration coefficient = surface area x hydraulic conductivity          |
++----------+---------------------------------------------------------------------------+
+| σ        | - Staverman reflection coefficient ∝1 / (permeability to protein)         |
+|          | - \~1 at renal glomerulus, \~0 at hepatic sinusoids                       |
++----------+---------------------------------------------------------------------------+
+| P~c~     | - Capillary hydrostatic pressure (highest pressure, drives transudation)  |
++----------+---------------------------------------------------------------------------+
+| P~i~     | - Interstitial hydrostatic pressure (normally very low)                   |
++----------+---------------------------------------------------------------------------+
+| π~c~     | - Capillary oncotic pressure (note the only factor opposing transudation) |
+|          | - Decreased in cirrhosis, nephrosis, malnutrition                         |
++----------+---------------------------------------------------------------------------+
+| π~i~     | - Interstitial oncotic pressure (normally very low)                       |
++----------+---------------------------------------------------------------------------+
+
+#### Normal values: systemic
+
+         **Arterial end (mmHg)**   **Venous end (mmHg)**
+  ------ ------------------------- -----------------------
+  P~c~   35                        15
+  P~i~   0                         0
+  π~c~   28                        28
+  π~i~   3                         3
+  Net    +10                       -10mmHg
+
+(falsely predicts filtration only at arterial end)
+
+#### Normal values: renal corpuscle
+
+         **Afferent arteriolar end (mmHg)**   **Efferent arteriolar end (mmHg)**
+  ------ ------------------------------------ ------------------------------------
+  P~c~   60                                   58
+  P~b~   15                                   15
+  π~c~   21                                   33
+  π~b~   0                                    0
+  Net    +24                                  +10
+
+(predicts filtration across the length of the capillary)

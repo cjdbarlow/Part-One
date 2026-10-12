@@ -1,0 +1,103 @@
+#### List:
+
+- Definitions
+- Direct effect: pre-renal failure
+- Compensation
+- Kidney injury
+
+#### Definitions:
+
++--------------------+----------------------------------------------------------------------------------+
+| Oliguria           | - \<0.5mL/kg/h                                                                   |
++--------------------+----------------------------------------------------------------------------------+
+| Hypovolaemic shock | - Reduced blood volume resulting in failure to meet tissue metabolic requirement |
+|                    | - Occurs at \~20% blood loss                                                     |
++--------------------+----------------------------------------------------------------------------------+
+| Cause of oliguria  | - ↓Filtration                                                                    |
+|                    | - ↑Reabsorption                                                                  |
+|                    | - Acute tubular necrosis (or whatever it is that causes intrinsic renal failure) |
++--------------------+----------------------------------------------------------------------------------+
+
+#### Direct effect: pre-renal failure:
+
++---------------------+-------------------------------------------------------------------------------+
+| Causal pathway      | ↓Blood volume → ↓preload → ↓cardiac output → ↓mAP → ↓P~c~ → ↓GFR → ↓UO        |
++---------------------+-------------------------------------------------------------------------------+
+| Relevant physiology | GFR = K\[(P~C~ – P~B~) – σ(π~C~ – π~B~)\]                                     |
+|                     |                                                                               |
+|                     | - P~c~ (capillary hydrostatic pressure) is the major variable in hypovolaemia |
+|                     |                                                                               |
+|                     | RBF = (mAP – CVP) / RVR                                                       |
+|                     |                                                                               |
+|                     | - Effective autoregulation mAP 70-170mmHg                                     |
+|                     |                                                                               |
+|                     | mAP – CVP = CO x TPR                                                          |
+|                     |                                                                               |
+|                     | - Factors ↑CO: ↑preload, ↓afterload, ↑rate, ↑contractility                    |
++---------------------+-------------------------------------------------------------------------------+
+
+#### Compensatory response:
+
++-------+---------------------------------------------------------------------------------------------------------------------------------------+
+| ↑SNS  | Stimulus: baroreceptor reflex                                                                                                         |
+|       |                                                                                                                                       |
+|       | Effect:                                                                                                                               |
+|       |                                                                                                                                       |
+|       | - Constrict efferent \> afferent arterioles (α~1~)                                                                                    |
+|       | - Hence ↓GFR but preserved GFP                                                                                                        |
+|       | - ↑ proximal tubular reabsorption of Na^+^/H~2~O (α~1~)                                                                               |
+|       |                                                                                                                                       |
+|       | ↑ renin release (see RAAS) (β~1~)                                                                                                     |
++-------+---------------------------------------------------------------------------------------------------------------------------------------+
+| ↑ADH  | Source: hypothalamus → posterior pituitary                                                                                            |
+|       |                                                                                                                                       |
+|       | Release stimuli:                                                                                                                      |
+|       |                                                                                                                                       |
+|       | - Stress response from surgery                                                                                                        |
+|       | - Many drugs                                                                                                                          |
+|       | - ↑osmolality (sensitive to ∆2%) – dehydration from pre-op fasting                                                                    |
+|       | - ↓blood volume (sensitive to ∆10% but overrides osmolality)                                                                          |
+|       | - ↓mAP                                                                                                                                |
+|       | - Angiotensin 2                                                                                                                       |
+|       |                                                                                                                                       |
+|       | Effects: ↑reabsorption                                                                                                                |
+|       |                                                                                                                                       |
+|       | - Insertion of aquaporin 2 into apical membrane of collecting ducts → ↑H~2~O reabsorption                                             |
+|       | - Insertion of urea transporters → ↑ medullary interstitial osmolarity                                                                |
+|       | - ↑Na+ reabsorption in thick ascending loop of Henle                                                                                  |
++-------+---------------------------------------------------------------------------------------------------------------------------------------+
+| ↑RAAS | ![](/content/exams/anzca/2009/B/13/prize-image001.jpg){fig-alt="Renin–angiotensin pathway with angiotensin subtypes and aldosterone"} |
+|       |                                                                                                                                       |
+|       | Source: granular cell of juxtaglomerular apparatus                                                                                    |
+|       |                                                                                                                                       |
+|       | Release stimuli:                                                                                                                      |
+|       |                                                                                                                                       |
+|       | - ↑SNS activation of granular cells (β~1~) - e.g. pain                                                                                |
+|       | - ↓stretch of afferent arteriolar baroreceptors - i.e. hypotension                                                                    |
+|       | - ↓ NaCl delivery to macula densa → ↑PGE~2~, ↓adenosine release - i.e. ↓GFR                                                           |
+|       |                                                                                                                                       |
+|       | Effects of angiotensin 2:                                                                                                             |
+|       |                                                                                                                                       |
+|       | - Constrict efferent \> afferent arterioles                                                                                           |
+|       | - Hence ↓GFR with preserved GFP                                                                                                       |
+|       | - ↑Na^+^/H~2~O reabsorption from PT (via Na^+^/H^+^ exchange) (AGTR1)                                                                 |
+|       | - ↑release of aldosterone                                                                                                             |
+|       | - ↑release of ADH                                                                                                                     |
+|       |                                                                                                                                       |
+|       | Effects of angiotensin-3:                                                                                                             |
+|       |                                                                                                                                       |
+|       | - 40% of pressor activity                                                                                                             |
+|       | - 100% of aldosterone induction                                                                                                       |
+|       |                                                                                                                                       |
+|       | Effects of aldosterone:                                                                                                               |
+|       |                                                                                                                                       |
+|       | - ↑Na^+^ reabsorption from principal cells of connecting tubule and collecting ducts (MR)                                             |
+|       | - Indirectly causes H~2~O reabsorption via ↑ECF osmolality hence ↑ADH                                                                 |
++-------+---------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Kidney injury:
+
++-------+--------------------------+
+| Cause | - ↓mAP → ischaemia → ATN |
+|       | - ? Other factors        |
++-------+--------------------------+

@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011A Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the effects of liver failure on drug kinetics and dynamics.
+:::
+
+Also asked in: [2004A Question 5](/content/exams/anzca/2004/A/5/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} kinetic changes under absorption, distribution, metabolism and excretion, then address altered sensitivity. Link each change to its direction of effect and an example, distinguishing extraction ratios and associated renal dysfunction.
+
+::: {.structure-headings}
+### Absorption and Bioavailability
+
+### Distribution and Protein Binding
+
+### Metabolism and Hepatic Extraction
+
+### Biliary and Renal Excretion
+
+### Pharmacodynamic Changes
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question was passed by **31.6%** of candidates.
+
+Most candidates were able to point out that drug metabolism (predominantly phase 1 reactions) is decreased with liver failure. However, few could indicate the change is only significant in drugs with a low hepatic extraction ratio (e.g. benzodiazepines). A number of candidates spent a significant amount of time describing the change in protein binding of drugs. Unfortunately, the direction and magnitude of change in drug effect were vague in most answers.
+
+Common omissions include that associated renal failure (hepatorenal syndrome) may decrease renal clearance of drugs and their active metabolites, and that the production of plasma cholinesterase is reduced with liver failure and this may affect metabolism of suxamethonium. Important pharmacodynamic changes should include an increase in sensitivity of anesthetic agents with hepatic encephalopathy, and down regulation of β adrenoreceptors in liver failure.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2004/A/5/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Liver function](/content/git/liver_function.qmd)

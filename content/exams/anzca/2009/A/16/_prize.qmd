@@ -1,0 +1,135 @@
+#### List:
+
+- Acute exposure: 347mmHg
+- Acute exposure: other adverse effects
+- Immediate compensation
+- Short-term compensation
+- Medium term compensation
+- Long term compensation
+- Other
+
+#### Acute exposure: P~atm~ = 347mmHg
+
++-------------------------+---------------------------------------------------------------------------+
+| Summary                 | - Rapid equilibration of atmosphere and alveolar air                      |
+|                         | - Severe hypoxaemia                                                       |
+|                         | - Loss of consciousness (LOC) and death unless brief                      |
+|                         | - Insufficient time for compensation as outlined below                    |
++-------------------------+---------------------------------------------------------------------------+
+| Mechanism of hypoxia    | - Alveolar gas equation: PAO~2~ = FiO~2~(P~atm~ – P~SVP-H2O~) – PaCO~2~/R |
+|                         | - = 0.21 (347 – 47) -  40/0.8 = 63-50 = 13mmHg                            |
+|                         | - PaO~2~ \<10mmHg due to diffusion limitation and venous admixture        |
++-------------------------+---------------------------------------------------------------------------+
+| Time to unconsciousness | - ∝ 1/Cardiac index                                                       |
+|                         |   - Circulation time from lung to brain: \~8 seconds                      |
+|                         | - ∝ 1/CMRO~2~                                                             |
+|                         |   - Time from brain ischaemia to LOC: 5-20 seconds                        |
+|                         | - Faster in children than adults (hence put your own mask on first)       |
++-------------------------+---------------------------------------------------------------------------+
+
+#### Acute exposure: other adverse effects
+
++-------------------------+-------------------------------------------------------------------------+
+| Acute mountain sickness | - Symptoms: headache, dizziness, nausea, fatigue, insomnia              |
+|                         | - Cause: ↓PaO~2~, ↑PaCO~2~                                              |
++-------------------------+-------------------------------------------------------------------------+
+| HAPE                    | - Uneven HPV → ↑↑blood flow through damaged capillaries → ↑transudation |
++-------------------------+-------------------------------------------------------------------------+
+| Right heart failure     | - Excessive HPV → ↑mPAP → ↑RV afterload → failure                       |
++-------------------------+-------------------------------------------------------------------------+
+| HACE                    | - Cause: ↓PaO~2~ → cerebral vasodilation → ↑transudate                  |
+|                         | - Can result in coma, herniation and death                              |
++-------------------------+-------------------------------------------------------------------------+
+
+#### Immediate compensation (\<1 minute)
+
++----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
+| ↑VA (most important)       | - Sensor:                                                                                                                                 |
+|                            |   - ↓PaO~2~ sensed by peripheral chemoreceptors                                                                                           |
+|                            |   - Carotid \> aortic bodies                                                                                                              |
+|                            |   - Sensitive to PaO~2~, especially if \<60mmHg                                                                                           |
+|                            |                                                                                                                                           |
+|                            | ![](/content/exams/anzca/2009/A/16/prize-image001.jpg){fig-alt="Peripheral chemoreceptor response against arterial oxygen pressure"}      |
+|                            |                                                                                                                                           |
+|                            | - Controller:                                                                                                                             |
+|                            |   - ↑Stimulation of medullary resp centre                                                                                                 |
+|                            | - Effector:                                                                                                                               |
+|                            |   - ↑Resp rate, ↑tidal volume → ↑V~A~ → ↓PACO~2~ → ↑PAO~2~                                                                                |
+|                            |   - PACO~2~ ∝ VCO~2~ / V~A~                                                                                                               |
+|                            | - Limitation:                                                                                                                             |
+|                            |   - Note ↓PaCO~2~ and ↑pH inhibit chemoreceptors                                                                                          |
++----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
+| HPV                        | - HPV ∝ 1/PAO~2~^0.6^ x PvO~2~^0.4^)                                                                                                      |
+|                            | - Phase 1: onset immediate, max at 5 mins                                                                                                 |
+|                            |   - ? K channel closure, ? ↓mitochondrial ROS, ? ↓ATP:ADP                                                                                 |
+|                            | - Phase 2: onset 40 mins, max at 2 hours                                                                                                  |
+|                            |   - ?↑↓COX/LOX, ?↑↓gene expression                                                                                                        |
+|                            | - Effect:                                                                                                                                 |
+|                            |   - Local: matches ventilation to perfusion                                                                                               |
+|                            |   - Global: causes more uniform distribution of pulmonary blood flow                                                                      |
+|                            |                                                                                                                                           |
+|                            | ![](/content/exams/anzca/2009/A/16/prize-image002.jpg){fig-alt="Alveolar blood flow against alveolar oxygen pressure"}                    |
++----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
+| Shift of OHDC              | - Moderate altitude: main effect ↑2,3-DPG → right shift                                                                                   |
+|                            |   - ↑Tissue uptake                                                                                                                        |
+|                            | - High altitude: main effect ↓PaCO~2~, ↑pH → left shift                                                                                   |
+|                            |   - ↓Tissue uptake (maladaptive)                                                                                                          |
+|                            |   - Minimal increase in pulmonary uptake due to flat upper part of curve                                                                  |
+|                            |                                                                                                                                           |
+|                            | ![](/content/exams/anzca/2009/A/16/prize-image003.jpg){fig-alt="Oxyhaemoglobin dissociation curve with factors shifting oxygen affinity"} |
++----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
+| Central ischaemic response | - Brainstem ischaemia → ↑↑SNS output → ↑cardiac output -↑DO~2~ but also ↑VO~2~                                                            |
+|                            | - Occurs if PaO~2~ \<60mmHg                                                                                                               |
++----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Short term compensation (1-3 days)
+
++--------------------------------+---------------------------------------------------------------------+
+| Plasma acidification           | - Of blood: ↓HCO~3~^-^ reabsorption in kidney (\~3 days)            |
+|                                |   - R shift OHDC → ↑O~2~ tissue uptake                              |
+|                                |   - ↓inhibition of chemoreceptors → further ↑VA                     |
+|                                | - Of brain: ↑HCO~3~^-^ efflux from CSF hence brain ECF (\~1 day)    |
+|                                |   - ↓Inhibition of central chemoreceptors                           |
+|                                | - This allows further increase in V~A~                              |
++--------------------------------+---------------------------------------------------------------------+
+| Increased ventilatory response | - ↑Sensitivity of carotid bodies to ↓PaO~2~ → ↑V~A~                 |
+|                                | - ↑Sensitivity of respiratory centre to chemoreceptor input → ↑V~A~ |
++--------------------------------+---------------------------------------------------------------------+
+
+#### Medium term compensation (\~3 weeks):
+
++----------------------------+--------------------------------------------------------------+
+| RV hypertrophy             | - Global HPV → ↑PA pressure → ↑afterload, wall tension       |
++----------------------------+--------------------------------------------------------------+
+| Erythropoiesis             | - ↓pO~2~ in renal interstitium → ↑EPO → erythropoiesis       |
+|                            | - ↑Hb (150-200g/L max)                                       |
+|                            | - ↑Hct (0.45 → 0.6 max)                                      |
+|                            | - ↑CaO~2~ (15 → 20mL/100mL)                                  |
+|                            | - Note also ↑viscosity, ↑resistance to blood flow, ↑risk VTE |
++----------------------------+--------------------------------------------------------------+
+| ↑Tissue oxidative capacity | - ↑VEGF expression → angiogenesis → ↓O~2~ diffusion distance |
+|                            | - ↑Mitochondria                                              |
+|                            | - ↑Myoglobin                                                 |
+|                            | - ↑Oxidative enzymes e.g. Krebs cycle                        |
+|                            | - All allow increased EO~2~                                  |
++----------------------------+--------------------------------------------------------------+
+
+#### Long term compensation:
+
++--------------------+---------------------------------------------------------------------------+
+| From childhood     | - Alveolar hyperplasia → ↑surface area                                    |
+|                    | - Hyperventilation → Barrel chest → ↑lung volume → ↑alveolar surface area |
+|                    | - ↓Ventilatory response to hypoxia                                        |
+|                    | - ↓Body size → ↓VO~2~                                                     |
++--------------------+---------------------------------------------------------------------------+
+| Across generations | - ↑Expression of hypoxia-inducible transcription factors                  |
+|                    | - Highest human habitation \~6000m                                        |
++--------------------+---------------------------------------------------------------------------+
+
+#### Other: (from examiner’s report)
+
++---------------------------------+-----------------------------+
+| Problems not related to hypoxia | - Cold exposure             |
+|                                 | - UV light → skin cancer    |
+|                                 | - Cosmic radiation → cancer |
++---------------------------------+-----------------------------+

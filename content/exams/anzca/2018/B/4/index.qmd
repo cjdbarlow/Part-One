@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018B Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Compare and contrast**]{.task-verb} the pharmacology of suxamethonium and rocuronium.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Compare and contrast**]{.task-verb} the drugs in parallel across pharmaceutics, kinetics and dynamics. Link mechanism, dosing, time course, metabolism and reversal to clinically important advantages and adverse effects.
+
+::: {.structure-table}
+| Feature | Suxamethonium | Rocuronium |
+|---|---|---|
+| Class, Presentation and Storage | | |
+| Administration, Dose and Time Course | | |
+| Distribution, Metabolism and Elimination | | |
+| Neuromuscular Mechanism and Monitoring | | |
+| Adverse Effects and Reversal | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**86%** of candidates achieved a pass in this question
+
+This question is asking for the comparative pharmacology of two commonly encountered drugs in anaesthesia. A table format would be an ideal way to answer this question.
+
+A pass would require information on pharmaceutics (including classification and uses), pharmacokinetics and pharmacodynamics (including mechanism of action). The majority of candidates passed this question, but those that did well included discussion on the clinical relevance and implications of these differences.
+
+Some areas of confusion and/or omission included: incorrect ED95s and dosing of rocuronium and suxamethonium; metabolism of both drugs into active or inactive metabolites; how they should be stored; omitting a discussion pharmaceutics altogether; and alternative routes of administration and why IM or intralingual administration might be useful for suxamethonium.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2018/B/4/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2018/B/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Depolarising neuromuscular blockers](/content/pharmacopoeia/msk/depolarising_nmbs.qmd)
+- [Non-depolarising neuromuscular blockers](/content/pharmacopoeia/msk/non_depolarising_nmbs.qmd)

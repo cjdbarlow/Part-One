@@ -1,0 +1,86 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004A Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the factors that determine skin penetration by local anaesthetics. Briefly describe the formulation and pharmacology of EMLA® cream.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} skin penetration using Fick’s law and relevant skin and drug properties. Give equal space to EMLA formulation and pharmacology, linking the eutectic mixture and application method to penetration.
+
+::: {.structure-headings}
+### Skin Structure and Diffusion
+
+### Drug and Application Factors
+
+### Eutectic Mixture and Formulation
+
+### Administration, Time Course and Relevant Pharmacology
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**60%** of candidates passed this question.
+
+Marks available were divided equally between the two parts of the question.
+
+The main points expected were:
+
+- An understanding of Fick's Law of Diffusion related to i) the structure of the skin, and ii) the properties of representative local anaesthetic agents.
+- Defining "eutectic", details of how EMLA® is formulated and administered to overcome the barriers described in the first part of the question, and aspects of the pharmacology of lignocaine and prilocaine relevant to the use of EMLA®.
+
+Candidates achieving high marks presented detailed, integrated information showing a higher degree of understanding in both parts of the question.
+
+There was confusion about the definition of "eutectic" with a number of candidates writing that it referred to a lowered boiling point of the mixture. A "eutectic mixture" is the mixture of constituents at a ratio that produces the lowest temperature melting point.
+
+Candidates and tutors will find relevant information in "Dermatological Pharmacology" in Goodman & Gilman in addition to texts covering local anaesthetic pharmacology.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2004/A/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Local anaesthetic principles](/content/pharmacopoeia/neuro/local_anaesthetic_principles.qmd)
+- [Local anaesthetics](/content/pharmacopoeia/neuro/local_anaesthetics.qmd)

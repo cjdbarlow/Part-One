@@ -1,0 +1,94 @@
+#### List:
+
+- PC
+- PK
+- PD
+
+#### Pharmaceutics:
+
+- Dex(tro)-medetomidine = enantiopure
+- No additives – safe for neuraxial use
+
+#### Pharmacokinetics:
+
++----------------+------------------------------------------------+
+| Administration | - IN pre-med: 3mcg/kg paediatrics              |
+|                | - IV loading dose: 0.25-1mcg/kg                |
+|                | - IV infusion: 0.2-1mcg/kg/h                   |
+|                | - Spinal and epidural use possible             |
++----------------+------------------------------------------------+
+| Time course    | - Onset: \<5mins IV, 30mins IN                 |
+|                | - Peak: \<15 mins IV                           |
+|                | - Offset: \~2-3 hours (∝ duration of infusion) |
+|                | - N.B. CVS effects are faster than the above   |
++----------------+------------------------------------------------+
+| Absorption     | - Oral bioav: \<10%                            |
+|                | - Nasal bioav: 65%                             |
++----------------+------------------------------------------------+
+| Distribution   | - Highly lipid soluble                         |
+|                | - Crosses BBB                                  |
+|                | - V~D~ 2L/kg                                   |
+|                | - Plasma protein binding 90%                   |
++----------------+------------------------------------------------+
+| Metabolism     | - Fully metabolised                            |
+|                | - Liver CYP2A6 hydroxylation                   |
+|                | - Cl 10ml/kg/min                               |
+|                | - t~1/2b~ 2 hours                              |
++----------------+------------------------------------------------+
+| Excretion      | - 95% metabolites → urine                      |
++----------------+------------------------------------------------+
+
+#### Pharmacodynamics:
+
++------------+------------------------------------------------------------+
+| Receptor   | - α~2~ adrenoceptor full agonist                           |
+|            |   - α~2~ : α~1~ = 1600:1                                   |
+|            |   - Central and peripheral                                 |
+|            |   - Pre- and post-synaptic                                 |
+|            | - Imidazoline receptor agonist                             |
+|            |   - May mediate brainstem effects                          |
++------------+------------------------------------------------------------+
+| Physiology | - Locus coeruleus:                                         |
+|            |   - Mainly post-synaptic                                   |
+|            |   - ↓Activity of reticular activating system               |
+|            |   - ↓SNS outflow                                           |
+|            |   - ↑Descending inhibition of nociceptors                  |
+|            | - Dorsal horn:                                             |
+|            |   - ↓Glutamate/substance P release by nociceptors          |
+|            |   - ↓Activation of WDR projection neurons                  |
+|            | - Peripheral nerves                                        |
+|            |   - Pre-synaptic: ↓NAd release                             |
+|            |   - Post-synaptic: similar to α~1~                         |
++------------+------------------------------------------------------------+
+| CNS        | - Anxiolysis and sedation                                  |
+|            |   - Rousable and co-operative                              |
+|            |   - Airway and breathing unaffected                        |
+|            | - General anaesthesia                                      |
+|            |   - Insufficient alone                                     |
+|            |   - ↓MAC / propofol Cp~50~                                 |
+|            |   - ↓CMRO~2~ / ↓CBF / ↓ICP (mild)                          |
+|            |   - EEG quasi NREM 3-4                                     |
+|            | - Other:                                                   |
+|            |   - Analgesia (opioid-sparing)                             |
+|            |   - Augment and prolong neuraxial and regional blockade    |
+|            |   - Neuroprotection (↓NAd, ↓glutamate)                     |
+|            |   - Anti-shivering                                         |
+|            |   - Anti-sialogogue                                        |
++------------+------------------------------------------------------------+
+| CVS        | **Multi-phasic effects:**                                  |
+|            |                                                            |
+|            | - *At first*: ± ↑SVR, ↑mAP, reflex ↓HR                     |
+|            |   - Peripheral post-synaptic α~2B~                         |
+|            |   - May occur after loading dose                           |
+|            | - *Then*: ↓SVR, ↓mAP, ↓HR, ↔CO                             |
+|            |   - Central post-synaptic \> peripheral pre-synaptic α~2A~ |
+|            |   - Severe if large bolus                                  |
+|            | - *After cessation*: ± rebound hypertension, agitation     |
+|            |   - α~2~ receptor upregulation                             |
+|            |                                                            |
+|            | **Use:**                                                   |
+|            |                                                            |
+|            | - ↓Response to laryngoscopy and surgery                    |
+|            | - ↓Myocardial ischaemia (↑supply, ↓demand)                 |
+|            | - ↓Opioid withdrawal                                       |
++------------+------------------------------------------------------------+

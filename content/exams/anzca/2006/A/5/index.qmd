@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006A Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Write short notes**]{.task-verb} on factors affecting the speed of onset and duration of effect of local anaesthetics when used to produce peripheral nerve block.
+:::
+
+Also asked in: [2003B Question 7](/content/exams/anzca/2003/B/7/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Write short notes**]{.task-verb} under **Patient Factors** and **Drug Factors**. Separate effects on onset from duration and [**explain**]{.task-verb} the direction of change using the diffusion principles where relevant.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**89 %** of candidates passed this question.
+
+This question required candidates to write short notes and candidates who simply wrote a list without explanation failed to achieve high marks. Likewise the question clearly required candidates to address the issues of both speed of onset as well as duration of action. Some candidates answered only one part of this two part question and failed to achieve high marks. Better answers attempted to differentiate between the factors that affect speed of onset and those that affect duration. Many of the better answers related the answer to aspects of the Fick Principle.
+
+Patient factors include:
+
+- Site of administration
+- Nerve structure and function
+- Tissue pH
+- Pregnancy
+- Electrolyte disturbances
+
+Drug factors include:
+
+- pKa and its effect on non ionised fraction
+- Lipid solubility and its effect on potency and protein binding
+- Concentration and volume added
+- Intrinsic vasoactive properties
+- Effect of local and distant metabolism
+- Effect of different additives
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Local Anaesthetics](/content/pharmacopoeia/neuro/local_anaesthetic_principles.qmd)

@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019A Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the cardiovascular changes that occur with ageing.
+:::
+
+Also asked in: [2016A Question 10](/content/exams/anzca/2016/A/10/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} structural changes with their functional consequences. Connect altered compliance, conduction and autonomic responses to filling, pressure, cardiac reserve and tolerance of stress, keeping normal ageing distinct from associated disease.
+
+::: {.structure-headings}
+### Myocardium and Ventricular Filling
+
+### Arterial Structure and Pressure
+
+### Conduction and Heart Rate
+
+### Autonomic Receptors and Reflexes
+
+### Cardiac Reserve and Stress Responses
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**63%** of candidates achieved a pass in this question
+
+The question asked about the cardiovascular effects of ageing. These should be differentiated from the effects of cardiovascular pathology, which are more prevalent as age increases. Discussing pathology, in the absence of a discussion on the effects of ageing per se, failed to attract marks.
+
+To achieve a pass in this question, candidates were required to demonstrate a broad understanding of the effects of ageing on both the heart and the vascular system. An exhaustive list of factual information alone was insufficient to gain high marks. Candidates who omitted one of these systems entirely found it difficult to pass the question.
+
+Good answers, attracting additional marks, included discussion of how these physiological changes affect cardiovascular function. Excellent answers included discussion of how these changes affect the capacity to compensate with physiological perturbations
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2016/A/10/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2016/A/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Ageing](/content/cvs/ageing_cvs.qmd)

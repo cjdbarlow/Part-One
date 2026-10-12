@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007B Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} how suxamethonium produces neuromuscular blockade. [**What is**]{.task-verb} the mechanism of recovery of neuromuscular function and [**what mechanisms**]{.task-verb} may be involved in Phase II block?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the receptor and membrane events causing blockade, then separate recovery by diffusion and plasma metabolism from proposed Phase II mechanisms. Give all three requested parts proportionate attention.
+
+::: {.structure-headings}
+### Nicotinic Receptor and Depolarising Block
+
+### Persistent Membrane Inactivation
+
+### Diffusion from the Junction and Plasma Metabolism
+
+### Proposed Mechanisms of Phase II Block
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**75%** of candidates passed this question.
+
+In general this question was well answered. In order to gain maximum marks it was important that candidates specifically answered the three parts of the question i.e. mode of action, mechanism of termination of effect and the mechanism of Phase II block.
+
+Most candidates explained the salient features of the ion channel comprising the Ach receptor at the neuromuscular junction (NMJ) and the role of the alpha sub-units. There was some confusion as to why the post-junctional membrane remained resistant to further depolarization by Ach, but most correctly stated that this is because it remains in a continual state of suxamethonium induced inactivation. With regard to termination of action the main error was to suggest metabolism of suxamethonium by pseudocholinesterase at the NMJ. Pseudocholinesterase is not found at the NMJ - the main route of termination of action is simple diffusion away from the NMJ into the plasma following its concentration gradient. With regard to the mechanism of Phase II block it is acknowledged that this can’t be stated with certainty. However, the recommended texts suggest at least four mechanisms that could be involved and points were awarded for mentioning any of these. Unfortunately many candidates spent a great deal of time writing about how a Phase II block can be produced clinically and the means by which it can be identified using the nerve stimulator.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/B/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neuromuscular blockers](/content/msk/neuromuscular_blockers.qmd)
+- [Acetylcholine receptor](/content/neuro/ach_receptor.qmd)

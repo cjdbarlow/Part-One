@@ -1,0 +1,68 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000A Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} correlation and simple linear regression, and [**explain**]{.task-verb} their differences. [**What assumptions**]{.task-verb} are common to both?
+:::
+
+Also asked in: [2001B Question 16](/content/exams/anzca/2001/B/16/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} **Correlation** and **Simple Linear Regression** with scatter plots, then [**explain**]{.task-verb} **Differences** and **Common Assumptions**. Distinguish the correlation coefficient from the regression slope.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**70%** of candidates passed this question. Many candidates successfully used a set of scatter plots to aid their description of these two concepts. The formula for a straight line [y= a + bx] was noted along with the phrase ‘least squares method’ in describing simple linear regression. The slope of this line [b] which is called the regression coefficient was however commonly confused with the Pearson’s correlation coefficient [r]. While r describes the strength of the association, b does not. They will have the same sign for a given data set but are otherwise completely separate concepts.
+
+While discussing the assumptions common to both, most candidates mentioned that data must be normally distributed. Additional marks were given to the few candidates who indicated that a distribution free correlation coefficient, the Spearman’s rank correlation, is applicable to non-parametric data.
+
+The examiners' expectation was for an explanation of the concepts rather than detailed knowledge of the statistical equations and their derivations. However, in many cases the use of an equation is most appropriate in quickly explaining the 'concept'.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Statistical Tests](/content/stats/statistical_tests.qmd)

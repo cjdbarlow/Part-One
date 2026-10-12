@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019B Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the theories, both current and discredited, as to how inhalational anaesthetic agents cause loss of consciousness.
+:::
+
+Also asked in: [2018A Question 3](/content/exams/anzca/2018/A/3/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} historical and current theories, separating supporting observations from reasons earlier explanations were inadequate. Acknowledge uncertainty and connect proposed molecular targets to loss of consciousness.
+
+::: {.structure-headings}
+### Uncertainty and Proposed Sites of Action
+
+### Meyer–Overton Hypothesis
+
+### Critical Volume and Other Membrane Theories
+
+### Evidence Against Historical Theories
+
+### Protein Targets and Current Mechanisms
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**70.3 %** of candidates achieved a pass in this question
+
+The domains that were assessed in this question were- an appreciation of the uncertainty in the theories, evidence related to discarded theories, evidence related to modern theories and of anatomical targets in the CNS leading to loss of consciousness. Other relevant detail also received credit.
+
+Common problems were: not addressing important parts of the question in sufficient detail, drawing graphs inaccurately (such as not having correctly labeled axes), and irrelevant descriptions of the pharmacology and mode of action of a wide range of non-inhalational agents. Inhalational anaesthetics include gaseous as well as volatile agents. Description of wash-in and wash-out was not relevant. Some candidates’ handwriting was a problem.
+
+A good reference on this topic is chapter 25 in Miller’s Anaesthesia.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2018/A/3/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2018/A/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational anaesthetic mechanisms](/content/pharmacopoeia/neuro/inhalational_anaesthetic_agents.qmd)

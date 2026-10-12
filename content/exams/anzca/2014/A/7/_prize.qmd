@@ -1,0 +1,64 @@
+#### List:
+
+- Anatomy: boundaries, contents
+- Performance of block: layers, procedure, anatomical complications
+
+#### Anatomy:
+
++----------------+-------------------------------------------------------------------------------------------------------------------+
+| Epidural space | - Potential space                                                                                                 |
+|                | - Catheter inserted via a needle                                                                                  |
+|                | - Local anaesthetic +/- other drugs injected                                                                      |
++----------------+-------------------------------------------------------------------------------------------------------------------+
+| Boundaries     | - Superior: fusion of dura to skull                                                                               |
+|                | - Inferior: sacrococcygeal membrane                                                                               |
+|                | - Anterior: dura mater for posterior epidural space, posterior longitudinal ligament for anterior epidural space. |
+|                | - Posterior: ligamentum flavum, laminae                                                                           |
+|                | - Lateral: pedicles, intervertebral foramina                                                                      |
++----------------+-------------------------------------------------------------------------------------------------------------------+
+| Contents       | Fat:                                                                                                              |
+|                |                                                                                                                   |
+|                | - ↑ in obese                                                                                                      |
+|                | - ↓ in elderly                                                                                                    |
+|                |                                                                                                                   |
+|                | Loose areolar connective tissue:                                                                                  |
+|                |                                                                                                                   |
+|                | - May cause septation, patchy block                                                                               |
+|                |                                                                                                                   |
+|                | Arteries:                                                                                                         |
+|                |                                                                                                                   |
+|                | - Lateral location                                                                                                |
+|                | - Supply from spinal branch of lumbar artery                                                                      |
+|                | - Damage → expanding haematoma                                                                                    |
+|                |                                                                                                                   |
+|                | Venous plexus:                                                                                                    |
+|                |                                                                                                                   |
+|                | - Anterior \> posterior location                                                                                  |
+|                | - Drain to: lumbar veins                                                                                          |
+|                | - Engorged if uterine contraction                                                                                 |
+|                | - Risk of puncture, catheter insertion and local anaesthetic systemic toxicity (LAST)                             |
+|                |                                                                                                                   |
+|                | Lymphatics                                                                                                        |
+|                |                                                                                                                   |
+|                | Spinal nerve roots                                                                                                |
++----------------+-------------------------------------------------------------------------------------------------------------------+
+
+#### Performance of block:
+
++--------------------------+----------------------------------------------------------------------------------------------------+
+| Midline layers           | - Skin → fat → supraspinous-ligament → interspinous ligament → ligamentum flavum → epidural space  |
+|                          | - Further: → dura mater → subdural space → arachnoid mater → subarachnoid space                    |
++--------------------------+----------------------------------------------------------------------------------------------------+
+| Midline procedure        | - Sitting and hunched                                                                              |
+|                          | - Tuffier’s line = between upper outer iliac crests = L4/5 interspace                              |
+|                          | - Needle entry midway between two spinous processes                                                |
+|                          | - Angle anteriorly (spinous processes direct posterior)                                            |
+|                          | - Loss of resistance to saline on entry into epidural space                                        |
++--------------------------+----------------------------------------------------------------------------------------------------+
+| Anatomical complications | - Subcut placement → failed block                                                                  |
+|                          | - In subdural space → unreliable, patchy                                                           |
+|                          | - In subarachnoid space → dense motor block, high block, hypotension, post-dural puncture headache |
+|                          | - In epidural vein → LAST                                                                          |
+|                          | - In epidural artery → expanding epidural haematoma                                                |
+|                          | - In paravertebral space → unilateral block                                                        |
++--------------------------+----------------------------------------------------------------------------------------------------+

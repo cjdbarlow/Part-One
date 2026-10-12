@@ -1,0 +1,88 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014B Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} an active anaesthetic gas scavenging system.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the system in the direction of gas flow. For each component, connect its construction to its function and safety features; a labelled diagram can show the connections.
+
+::: {.structure-headings}
+### Collecting Assembly
+
+### Transfer System
+
+### Receiving System and Interface
+
+### Disposal System
+
+### Effectiveness and Potential Problems
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**5 %** of candidates achieved a pass in this question
+
+To gain a pass mark candidates needed to describe the components, functions and features of an active scavenging system. This could be done by dividing the scavenging system into components:
+
+I.   collecting assembly (shroud) – input from APL and ventilator
+
+II.   transfer system – specific tubing features and occlusive problems
+
+III.   receiving system or scavenging interface – flow control, reservoir, valve functions, system volume
+
+IV.    disposal system – conduit material, vacuum source, venting
+
+Additional marks were awarded for diagrams, stating why scavenging is important, circumstances where scavenging is not effective, and potential problems with the system. Marks were awarded for explaining the difference between an open and closed active system were rewarded.
+
+Marks were not awarded for comments on passive systems, greenhouse gas effects or descriptions of soda lime. Descriptions of an operating theatre air-circulation system was not considered relevant. Several candidates believed that active scavenging recirculated anaesthesia gases back to the patient for re-use, but this is incorrect.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2014/B/4/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2014/B/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Scavenging](/content/equipment/scavenging.qmd)

@@ -1,0 +1,95 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009B Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the role of insulin in fat metabolism
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} insulin signalling and its anabolic actions on adipose tissue and liver. Connect glucose and fatty acid uptake, enzyme regulation, triglyceride storage and reduced ketogenesis to the overall metabolic effect.
+
+::: {.structure-headings}
+### Insulin and Receptor Signalling
+
+### Adipose Glucose and Fatty Acid Uptake
+
+### Lipogenesis and Triglyceride Storage
+
+### Inhibition of Lipolysis
+
+### Hepatic Lipid Metabolism and Ketogenesis
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**36%** of candidates passed this question.
+
+The following were the main points expected for a pass:
+
+- description of insulin and its actions as an anabolic hormone, and consequences of activation of insulin receptors,
+- the effects of insulin on liver: increased uptake glucose; production of glycerol and free fatty acids; and decreased ketogenesis,
+- the effects of insulin on adipose tissue: glucose uptake; synthesis of fatty acids and glycerol and
+- the activation of lipoprotein lipase and inhibition of hormone sensitive lipase.
+
+Bonus marks were given for
+
+- a structured approach to insulin’s action in fat metabolism,
+- key enzymes involved in liver and adipose tissue,
+- lipoprotein transport in blood and breakdown and uptake by adipose tissue.
+
+Common mistakes included:
+
+- only focusing on one of the following: fat uptake from gut, fat synthesis in liver or adipose tissue, or the role of increased glucose uptake;
+- confusing anabolic and catabolic actions,
+- providing information about actions of other hormones,
+- providing information about diabetes and carbohydrate metabolism while neglecting to cover fat metabolism.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2009/B/11/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Fat metabolism](/content/metabolic/fat.qmd)
+- [Carbohydrate metabolism](/content/metabolic/carbohydrate.qmd)

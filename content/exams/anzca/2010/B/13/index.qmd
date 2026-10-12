@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010B Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the cardiovascular changes in the neonate that occur at birth.
+:::
+
+Also asked in: [2007B Question 14](/content/exams/anzca/2007/B/14/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the transition from foetal to neonatal circulation as a sequence beginning with breathing and cord clamping. Link altered resistances and pressures to shunt closure, its timing and factors that may reverse the transition.
+
+::: {.structure-headings}
+### Foetal Circulation Before Birth
+
+### First Breaths and Pulmonary Vascular Resistance
+
+### Cord Clamping and Systemic Resistance
+
+### Functional and Anatomical Shunt Closure
+
+### Neonatal Haemodynamics and Modifying Factors
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**90%** of candidates passed this question.
+
+The cardiovascular changes that occur in the neonate at birth was well answered with most candidates providing an adequate account of the effects of the first few breaths and cessation of umbilical blood flow on the pulmonary and intracardiac circulations, along with the sequence and timing of these events.
+
+Extra marks were awarded for more detailed descriptions of the foetal circulation at term and neonatal haemodynamics at birth, and the factors that modify them (such as the inhibition of ductus arteriosus closure by hypoxia and prostaglandins).
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/B/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Foetal circulation](/content/obs/foetal.qmd)

@@ -1,0 +1,74 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001B Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the structure and function of voltage gated ion channels.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the structural components and connect voltage sensing and gating to ion conductance. Use channel states and examples from excitable tissues to show their function.
+
+::: {.structure-headings}
+### Transmembrane Structure and Subunits
+
+### Voltage Sensing and Gating
+
+### Resting, Activated and Inactivated States
+
+### Roles in Excitable Tissues
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**59%** passed this question. This question asked for a description of both structure and function of voltage gated ion channels specifically. General information on ion channels which did not pertain to voltage gated ion channels did not score marks. 'Structure' was generally covered adequately, with inclusion of the basic concept of a transmembrane protein channel. The inclusion of detail on the subunit components and gating mechanisms was variable, and was often restricted to sodium channels alone. Some candidates provided excessive detail at the expense of other areas. The answers to the 'function' component of the question were much more variable.
+
+What was sought was evidence of comprehension of the basic functioning of voltage-gated channels. This included knowledge of their dependence on voltage changes for configurational changes, a resulting alteration in specific ion conductance, and awareness of the concept of channel activation and inactivation. Further marks were gained by relating this to specific roles in excitable membranes and organs. Again, quite a few candidates focused solely on sodium channels, but this was accepted if comprehension of the concepts of voltage-gated channels was displayed. Inclusion of details of other channels (e.g. potassium and calcium channels), however, scored additional marks. Some candidates included detail on modulation of receptor function over time, and changes in functioning with drugs/toxins, which gained extra marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2001/B/5/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Cell membrane physiology](/content/cellular/cell_membrane.qmd)

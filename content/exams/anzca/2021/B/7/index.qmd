@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2021B Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the normal regulation of cerebral blood flow and [**outline**]{.task-verb} physiological factors which may alter it. DO NOT discuss the effect of medications or pathology.
+:::
+
+Also asked in: [2019B Question 2](/content/exams/anzca/2019/B/2/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} normal flow and its local regulation, then [**outline**]{.task-verb} physiological influences with their direction and mechanism. Keep the structure on normal physiology, excluding medications and pathology.
+
+::: {.structure-headings}
+### Normal Flow and Dependence on Continuous Supply
+
+### Perfusion Pressure and Vascular Resistance
+
+### Myogenic and Metabolic Autoregulation
+
+### Carbon Dioxide, Oxygen and Temperature
+
+### Other Physiological Influences
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+No examiner report was supplied for this sitting.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2019/B/2/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2019/B/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Cerebral blood flow](/content/cvs/cerebral_blood_flow.qmd)

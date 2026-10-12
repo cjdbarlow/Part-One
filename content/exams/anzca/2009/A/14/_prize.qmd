@@ -1,0 +1,93 @@
+#### List:
+
+- Intro
+- Physicochemical
+- Neural: extrinsic and intrinsic
+- Hormonal factors
+
+#### Intro:
+
++-------------------+-----------------------------------------------------------------------------+
+| Significance      | - Gastric emptying rate (GER) varies to ensure chyme adequately digested    |
+|                   | - Full stomach → ↑↑risk of aspiration under GA                              |
+|                   | - GER highly variable → important to assess for pain, opioid use, sepsis    |
++-------------------+-----------------------------------------------------------------------------+
+| Normal physiology | - Antral waves, 3 per minute                                                |
+|                   | - GER ∝ antral contraction freq and strength (AC) / pyloric resistance (PR) |
++-------------------+-----------------------------------------------------------------------------+
+
+#### Physicochemical:
+
++---------------+-----------------------------------+
+| Substrate     | - Starch meal: \~2-3 hours        |
+|               | - Proteinaceous meal: \~3-4 hours |
+|               | - Fatty meal: 6 hours             |
++---------------+-----------------------------------+
+| Form          | - Liquid faster than solid        |
++---------------+-----------------------------------+
+| Concentration | - ↑Osmolality → ↓GER              |
++---------------+-----------------------------------+
+
+#### Neural factors:
+
+*Intrinsic:*
+
++---------------------------------------------------+-------------------------------------------------------------+---------------------------------------------------+
+|                                                   | **Stimulus**                                                | **Effect**                                        |
++===================================================+=============================================================+===================================================+
+| Meissner’s plexus                                 | ? Distension                                                | Controls local absorption, secretion, contraction |
+|                                                   |                                                             |                                                   |
+| (submucosal)                                      | ? CHO, prot, fat                                            |                                                   |
++---------------------------------------------------+-------------------------------------------------------------+---------------------------------------------------+
+| Auerbach’s plexus                                 | ? Distension                                                | Controls local contraction                        |
+|                                                   |                                                             |                                                   |
+| (between longitudinal and circular muscle layers) |                                                             |                                                   |
++---------------------------------------------------+-------------------------------------------------------------+---------------------------------------------------+
+| Myenteric reflex                                  | Distension                                                  | Peristalsis (↑AC)                                 |
++---------------------------------------------------+-------------------------------------------------------------+---------------------------------------------------+
+| Enterogastric reflex                              | Duodenal distension, irritation, acid, fat, prot, high osmo | ↓AC                                               |
++---------------------------------------------------+-------------------------------------------------------------+---------------------------------------------------+
+
+*Extrinsic:*
+
++--------------------------------------------------------+---------------------------------+----------------------+
+|                                                        | **Stimulus**                    | **Effect**           |
++========================================================+=================================+======================+
+| PSNS: CNX via coeliac and superior mesenteric plexuses | ? Distension                    | ↑Local ACh release   |
+|                                                        |                                 |                      |
+|                                                        | ? CHO, prot, fat                | ↑AC, ↓PR             |
++--------------------------------------------------------+---------------------------------+----------------------+
+| SNS: T5-L1 via same plexuses                           | Exercise, pain, anxiety/stress, | ↓Local ACh release   |
+|                                                        |                                 |                      |
+|                                                        |  Labour (not pregnancy)         | ↓AC, ↑PR             |
++--------------------------------------------------------+---------------------------------+----------------------+
+| Vago-vagal excitatory reflex: CNX only                 | Gastric distension              | Receptive relaxation |
+|                                                        |                                 |                      |
+|                                                        |                                 | ↑AC                  |
++--------------------------------------------------------+---------------------------------+----------------------+
+
+#### Hormonal factors: 
+
+*Stimulate antral contraction:*
+
++-----------+------------------+----------------------+
+|           | **Source**       | **Release stimulus** |
++===========+==================+======================+
+| Gastrin   | Gastric G cells  | Duodenal protein     |
+|           |                  |                      |
+|           |                  | Gastric distension   |
++-----------+------------------+----------------------+
+| Motilin   | Duodenal M cells | Duodenal fat, acid   |
++-----------+------------------+----------------------+
+| Insulin   | Islet β cells    | Hyperglycaemia       |
++-----------+------------------+----------------------+
+| Serotonin | Duodenal wall?   | ?                    |
++-----------+------------------+----------------------+
+
+*Inhibit antral contraction:*
+
+                        **Source**         **Release stimulus**
+  --------------------- ------------------ --------------------------
+  CCK                   Duodenal I cells   Duodenal fat, prot, acid
+  Secretin (conflict)   Duodenal S cell    Duodenal fat, acid
+  GIP                   Duodenal K cells   Duodenal fat, prot, CHO

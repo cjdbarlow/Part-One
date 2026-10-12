@@ -1,0 +1,92 @@
+#### List:
+
+- Pulse oximetry to estimate saturation: device, physics, how it works
+- Co-oximetry to measures saturation: device, how it works
+- SpO~2~ to PaO~2~ conversion: how to do it, sources of error
+
+#### Pulse oximetry: estimates saturation
+
++----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Components     | - Probe on the finger, nose, ear                                                                                                                                |
+|                | - Two monochromatic LEDs on one side, rapid on and off                                                                                                          |
+|                | - Photodetector on the other side                                                                                                                               |
+|                | - Cable to processor/display                                                                                                                                    |
++----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Physical basis | (1)Beer-Lambert principle: I = I~0~e^-ax^                                                                                                                       |
+|                |                                                                                                                                                                 |
+|                | - Aborption ∝ concentration of the absorbing substance in the medium (Beer’s law)                                                                               |
+|                | - Absorption ∝ distance travelled through the medium (Lambert’s law)                                                                                            |
+|                | - Describes the basis for, but not the functioning of, the pulse oximeter                                                                                       |
+|                |                                                                                                                                                                 |
+|                | (2)Known absorption spectra:                                                                                                                                    |
+|                |                                                                                                                                                                 |
+|                | - 940nm: O~2~Hb \> HHb                                                                                                                                          |
+|                | - 660nm: O~2~Hb \< HHb                                                                                                                                          |
+|                |                                                                                                                                                                 |
+|                | ![](/content/exams/anzca/2004/B/11/prize-image001.jpg){fig-alt="Absorption spectra of oxyhaemoglobin, deoxyhaemoglobin, carboxyhaemoglobin and methaemoglobin"} |
++----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| How it works   | (1)Pulsatile signal isolated                                                                                                                                    |
+|                |                                                                                                                                                                 |
+|                | - Exclude venous and tissue absorption                                                                                                                          |
+|                |                                                                                                                                                                 |
+|                | (2)Ratio of absorbances calculated                                                                                                                              |
+|                |                                                                                                                                                                 |
+|                | - Ratio = (pulsatile~660~ / non-pulsatile~660~) / (pulsatile~940~ / non-pulsatile~940~)                                                                         |
+|                |                                                                                                                                                                 |
+|                | (3)Ratio correlated with SaO~2~ derived from experiments                                                                                                        |
+|                |                                                                                                                                                                 |
+|                | - R 0.4 → 100%                                                                                                                                                  |
+|                | - R 1 → 85%                                                                                                                                                     |
+|                | - R 2 → 50%                                                                                                                                                     |
++----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Co-oximetry: measures saturation
+
++--------------+--------------------------------------------------------------+
+| Components   | - Haemolyser unit (uses high frequency vibration)            |
+|              | - Multi-wavelength photo lamp                                |
+|              | - Filter                                                     |
+|              | - Lens                                                       |
+|              | - Sensing diodes                                             |
++--------------+--------------------------------------------------------------+
+| How it works | - Absorption spectra known for HbO~2~, HHb, HbCO, SulfHb     |
+|              | - Multiple wavelengths emitted                               |
+|              | - Degree and ratio of absorbances assessed                   |
+|              | - \% Saturation calculated: \[HbO~2~\] / \[total Hb\] x 100% |
++--------------+--------------------------------------------------------------+
+
+#### Conversion of saturation to partial pressure:
+
++----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Method                           | SpO~2~ ≈ SaO~2~                                                                                                                                                       |
+|                                  |                                                                                                                                                                       |
+|                                  | SaO~2~ → PaO~2~ via oxyhaemoglobin dissociation curve                                                                                                                 |
+|                                  |                                                                                                                                                                       |
+|                                  | ![](/content/exams/anzca/2004/B/11/prize-image002.jpg){fig-alt="Oxyhaemoglobin dissociation curve with representative saturation and oxygen partial pressure values"} |
++----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Sources of error: extrapolation  | Bohr effect (↓pH, ↑PaCO~2~, ↑temp, ↑2,3-DPG → right shift)                                                                                                            |
+|                                  |                                                                                                                                                                       |
+|                                  | Very high PaO~2~ (SpO2 cannot exceed 100%)                                                                                                                            |
++----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Sources of error: pulse oximetry | *Intrinsic:*                                                                                                                                                          |
+|                                  |                                                                                                                                                                       |
+|                                  | - Accuracy: 70-100% +/-2, 50-70% +/-3, \<50% inaccurate                                                                                                               |
+|                                  | - Lag time for signal: signal averaged over 10-20 seconds                                                                                                             |
+|                                  | - Lag time for problem: e.g. airway obstruction → delay between problem and detection                                                                                 |
+|                                  | - Unable to discern dyshaemoglobins due to only 2 LEDs                                                                                                                |
+|                                  | - HbCO: absorbance tends toward 96% (see graph)                                                                                                                       |
+|                                  | - MetHb: absorbance tends towards 85% (see graph)                                                                                                                     |
+|                                  | - May be inaccurate in arrhythmia                                                                                                                                     |
+|                                  |                                                                                                                                                                       |
+|                                  | *Probe:*                                                                                                                                                              |
+|                                  |                                                                                                                                                                       |
+|                                  | - Physical interference: excessive movement or ambient light, nail varnish                                                                                            |
+|                                  | - Electrical interference: esp diathermy                                                                                                                              |
+|                                  |                                                                                                                                                                       |
+|                                  | *Patient*                                                                                                                                                             |
+|                                  |                                                                                                                                                                       |
+|                                  | - No signal at all: low cardiac output, vasoconstriction, hypothermia                                                                                                 |
+|                                  | - Falsely low signal: high venous pressure → detection of venous pulsation, ICG                                                                                       |
+|                                  | - Falsely high signal: HbCO as above is the main cause                                                                                                                |
+|                                  | - Variable: arrhythmia e.g. AF                                                                                                                                        |
++----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+

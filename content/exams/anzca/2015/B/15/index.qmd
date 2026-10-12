@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015B Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the prevention of electrical shock in the operating theatre.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} prevention through the conditions required for current to pass through a person. Explain electrical supply and equipment protections with their rationale and limitations, distinguishing macroshock from microshock.
+
+::: {.structure-headings}
+### Shock Circuit and Danger Thresholds
+
+### Residual Current Devices
+
+### Isolated Supply and Line Isolation Monitoring
+
+### Equipotential Earthing
+
+### Equipment Classes and Protected Areas
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**23%** of candidates achieved a pass in this question
+
+Several candidates failed badly. Most candidates attempted to open with a definition of macroshock and microshock, frequently quoting the typical currents required to induce ventricular fibrillation. A discussion of operating room electrical supply design features, followed by electrical device design features was expected. The rationale behind these designs and their limitations was also expected.
+
+Most candidates had only a superficial understanding of electrical shock prevention. Several candidates could (correctly) list some safety features, but contributed little more. A discussion of diathermy and burns related phenomena was not required. Only a handful of candidates knew that diathermy produced an alternating current at a frequency several orders of magnitude greater than that of mains supply, or why the frequency of the current was important.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2015/B/15/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2015/B/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Electrical safety](/content/equipment/electrical_safety.qmd)

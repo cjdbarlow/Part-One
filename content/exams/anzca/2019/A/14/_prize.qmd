@@ -1,0 +1,47 @@
+#### List:
+
+- Metabolism
+- Excretion
+- Polymorphism
+
+#### Metabolism:
+
++-------------------+-----------------------------------------------------------------------+
+| Rate              | - Clearance 3.7mL/kg/min                                              |
+|                   | - t~1/2~~β~ 6 hours for tramadol, 7 hours for M1                      |
++-------------------+-----------------------------------------------------------------------+
+| Phase 1           | - CYP2D6: → O-desmethyltramadol (M1, 4x analgesic efficacy)           |
+|                   | - CYP3A4: → N-desmethyltramadol (M2)                                  |
++-------------------+-----------------------------------------------------------------------+
+| Phase 2           | - Glucuronidation of tramadol, M1, M2                                 |
++-------------------+-----------------------------------------------------------------------+
+| Active metabolite | - +M1: 4 x more active at μ opioid receptor, no serotonergic activity |
+|                   |   - i.e. tramadol is a pro-drug                                       |
+|                   | - -M1: noradrenaline reuptake inhibitor                               |
++-------------------+-----------------------------------------------------------------------+
+
+#### Excretion:
+
++--------------+------------------------------------------------------------------------------+
+| Route        | - Into urine 90%                                                             |
+|              |   - As parent – 30%                                                          |
+|              |   - As metabolite – 60%                                                      |
+|              | - Into bile 10%                                                              |
++--------------+------------------------------------------------------------------------------+
+| Rate         | - ∝ GFR                                                                      |
++--------------+------------------------------------------------------------------------------+
+| Significance | - Renal failure → accumulation of tramadol and M1 (and inactive metabolites) |
++--------------+------------------------------------------------------------------------------+
+
+#### Polymorphism:
+
++-----------------------------------+---------------------------------------------------------------+
+| Intermediate and poor metaboliser | - One or two defective alleles respectively                   |
+|                                   | - Common in Hong Kong Chinese (\~30%)                         |
+|                                   | - ↓Analgesia                                                  |
+|                                   | - ↑5-HT effects: nausea/vomiting, risk serotonin syndrome     |
++-----------------------------------+---------------------------------------------------------------+
+| Ultra-rapid metaboliser           | - More than two effective alleles                             |
+|                                   | - Common in North Africans and Arabs (\~30%)                  |
+|                                   | - ↑Analgesia, ↑toxicity e.g. respiratory depression, sedation |
++-----------------------------------+---------------------------------------------------------------+

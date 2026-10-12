@@ -1,0 +1,86 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2017B Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the physiological processes that influence the rate of gastric emptying.
+:::
+
+Also asked in: [2009A Question 14](/content/exams/anzca/2009/A/14/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} coordinated transfer of chyme through antral activity and pyloric resistance. Explain local, neural and hormonal feedback with the stimulus, pathway and effect of each process, rather than listing factors alone.
+
+::: {.structure-headings}
+### Coordinated Antral Activity and Pyloric Resistance
+
+### Physical and Chemical Properties of Chyme
+
+### Intrinsic and Extrinsic Neural Control
+
+### Duodenal Feedback
+
+### Hormonal Control
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**29.2%** of candidates achieved a pass in this question
+
+The main points expected are best organised into local, neural and humoral control of gastric emptying of chyme into the duodenum.Candidates with a clear understanding of the reason for the coordinated emptying scored better in this question, which had asked for a description of physiological processes. However, a number of candidates were also awarded marks for pathophysiological and pharmacological factors; if there was prior demonstration of knowledge of normal physiology. Only a few candidates correctly pointed out that pregnancy does not delay gastric emptying; but the stress of labour does.
+
+Common mistakes were
+
+- Answering in tabular format, which listed factors that increase or decrease gastric emptying without further discussion.
+- Answering in a clinical approach (patient, surgical and anaesthetic factors), which led to omission of essential physiological facts.
+- Confusion about the hormones that are involved and their exact effects on gastric emptying.
+- Regurgitation of fasting guidelines for patients without explaining the physiological basis for these guidelines.
+- Detailed discussion of gastric acid production or function of the lower oesophageal sphincter, which is not within the scope of this question.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2009/A/14/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2009/A/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Gastric emptying](/content/git/gastric_emptying.qmd)

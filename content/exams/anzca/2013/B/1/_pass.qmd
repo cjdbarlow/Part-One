@@ -1,0 +1,41 @@
+Spontaneous respiration involves developing negative pleural, transpulmonary and intrathoracic pressures during inspiration.
+
+IPPV is the intermittent application of external positive pressure to drive inspiratory flows in the ventilated patient resulting in positive intrathoracic pressures.
+
+This results in pressure being applied to the thoracic organs and great vessels. ** **
+
+**Inspiration - increased intrathoracic pressure **
+
+1.  Increased pulmonary circulation return to the LA →  increases LV filling / preload → initial transient inc LV output
+
+2.  Decreased SVC/ICV Venous return reduce RV preload → Reduce LV Preload → Dec LV output
+
+3.  Compression of pulmonary vessels inc RV after load → Inc RV pressure  → ventricular interdependence - bulging of RV inter-ventricular septum into LV → further dec LV preload
+
+4.  LV Afterload is reduced as increased intrathoracic pressure decreased transmural gradient → reduced tension in LV  → inc LV performance
+
+**Expiration - decreased intrathoracic pressure **
+
+1.  Pulmonary vessels expand → reducing LA filling → reduced LV preload → Reduced LV output
+
+2.  Reduced PVR reduces RV after load → increases LV preload 
+
+3.  Decreased thoracic pressure increases venous return and RA filling → inc RV preload → inc LV preload and LV output returns to baseline 
+
+**Overall Effect **
+
+IPPV has variable results depending on position on the Frank Starling curve. 
+
+In healthy patients at the bottom of the frank staring curve IPPV → Inc Intrathoracic pressure → preload reduction → generally reduced CO
+
+In patients with impaired CO / CCF IPPV → preload reduction → returns heart to more optimal area of curve and may inc LV performance and thus CO 
+
+**Additional Factors **
+
+Effect of PEEP: Generally, exaggerates decreases in CO with IPPV due to reduction in RV filling pressure / preload
+
+- These changes are:
+  - More marked in hypovolaemia
+  - Changes are reversed with volume expansion.
+  - Less severe with poor lung compliance
+  - Reduced compliance greatly reduces the effect of PEEP and IPPV on the vasculature, as the change in intrapleural pressure is reduced.

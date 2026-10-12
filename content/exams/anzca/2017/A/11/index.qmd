@@ -1,0 +1,95 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2017A Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Draw**]{.task-verb} an expiratory flow volume curve obtained from a maximal expiratory effort after a vital capacity breath, for a person with :
+
+a. normal lungs
+b. restrictive lung disease
+c. obstructive lung disease
+
+(10 marks)
+
+[**Explain**]{.task-verb} how and why these curves (and the derived parameters) are different in each disease state (15 marks)
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Draw**]{.task-verb} representative expiratory curves with labelled axes and values, then [**explain**]{.task-verb} differences through recoil, airway calibre and dynamic compression. Keep volume and flow parameters distinct from measurements requiring time.
+
+::: {.structure-headings}
+### Normal, Obstructive and Restrictive Curves
+
+### Peak Flow and Early Expiration
+
+### Effort-Independent Flow and Dynamic Compression
+
+### Volume Differences
+
+### Mechanisms in Each Disease State
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**39.9%** of candidates achieved a pass in this question
+
+Good answers included a representative diagram and demonstrated understanding of how the disease states alter respiratory mechanics and why this leads to the differences seen between the three curves. Almost all candidates that failed drew a diagram with significant errors and their subsequent explanations were insufficient to make up for this. Common problems:
+
+- Incorrect units, units without values or units with grossly incorrect values. A peak expiratory flow of 6 - 10L/min was frequently quoted despite normal minute ventilation at rest being in this range
+- Drawing three separate graphs without making it clear how they differ from each other
+- Drawing flow-time or volume-time curves
+- Drawing peak flows that where the same or higher in the disease states compared to the normal lung curve
+- Incorrect changes to residual volume and total lung capacity
+- Confusing vital capacity and total lung capacity
+- Incorrect or vague explanations as to why the curves differ
+
+No marks were awarded for drawing inspiratory curves or discussing work of breathing, tidal volumes or functional residual capacity. Discussion of time related values such as FEV1 and FEV1/FVC also attracted no marks as they cannot be readily obtained from these curves.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2017/A/11/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2017/A/11/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Spirometry](/content/resp/spirometry.qmd)
+- [Airway resistance](/content/resp/resistance.qmd)

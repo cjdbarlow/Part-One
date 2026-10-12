@@ -1,0 +1,99 @@
+#### List:
+
+- Intro
+- Lipophilic part
+- Link
+- Hydrophilic part
+- Other: isomerism, ionisation
+
+#### Intro:
+
++-----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Local anaesthetic structure | - Lipophilic group                                                                                                                                              |
+|                             | - Chain: ester or amide bond and hydrocarbon chain                                                                                                              |
+|                             | - Hydrophilic group                                                                                                                                             |
+|                             |                                                                                                                                                                 |
+|                             | ![](/content/exams/anzca/2010/A/1/prize-image001.jpg){fig-alt="Local anaesthetic structure showing lipophilic group, intermediate chain and hydrophilic group"} |
++-----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Determinant of efficacy     | - Propensity for blockade of neuronal voltage-dependent Na+ channel (VDNaC)                                                                                     |
++-----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Determinant of toxicity     | - Propensity for blockade of VDNaC in the                                                                                                                       |
+|                             |   - CNS (excitation then depression)                                                                                                                            |
+|                             |   - CVS (conduction delay, re-entrant arrhythmia, arrest)                                                                                                       |
++-----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Lipophilic part:
+
++--------------------+------------------------------------------------------------------------------+
+| Purpose            | - For crossing axonal membrane                                               |
+|                    | - For local anaesthetic activity                                             |
++--------------------+------------------------------------------------------------------------------+
+| Structure          | - Usually an aromatic ring                                                   |
++--------------------+------------------------------------------------------------------------------+
+| Factors influenced | - Lipophilicity                                                              |
+|                    | - Potency                                                                    |
+|                    | - Duration                                                                   |
++--------------------+------------------------------------------------------------------------------+
+| Examples           | - Ester:                                                                     |
+|                    |   - Metabolite PABA may cause hypersensitivity                               |
+|                    |   - Excreted unchanged in urine; could accumulate in renal failure           |
+|                    | - Prilocaine:                                                                |
+|                    |   - Metabolite O-toluidine may cause methaemoglobinaemia                     |
+|                    |   - Oxidises Fe^2+^ in Hb                                                    |
+|                    |   - Significant if \>600mg prilocaine given to adult. PABA excreted in urine |
+|                    | - Chlorprocaine:                                                             |
+|                    |   - Cl atom ↑rate of ester hydrolysis 3.5x → ↓risk toxicity                  |
++--------------------+------------------------------------------------------------------------------+
+
+#### Link:
+
++-------------------+----------------------------------------------------------------------+
+| Ester bond        | - O=COR                                                              |
+|                   | - Metabolized rapidly in plasma/liver by pseudocholinesterase        |
+|                   | - ↓peak plasma \[LA\] → ↓risk toxicity                               |
+|                   | - Products: aromatic acid + alcohol + tertiary amide                 |
+|                   | - ↑Length alcohol → ↑potency up to a critical length, then ↑toxicity |
++-------------------+----------------------------------------------------------------------+
+| Amide bond        | - NHC=OR                                                             |
+|                   | - Metabolized slowly in liver by amidases (CYP450)                   |
+|                   | - ↑peak plasma \[LA\] → ↑risk toxicity                               |
+|                   | - Agent-specific metabolites                                         |
++-------------------+----------------------------------------------------------------------+
+| Hydrocarbon chain | - ↑length of chain → ↑potency                                        |
++-------------------+----------------------------------------------------------------------+
+
+#### Hydrophilic part:
+
++-----------------------------+------------------------------------------------------------------------------------+
+| Purpose                     | - For water dissolution                                                            |
++-----------------------------+------------------------------------------------------------------------------------+
+| Structure                   | - Usually tertiary amine e.g. diethylamine                                         |
++-----------------------------+------------------------------------------------------------------------------------+
+| Determinant of              | - Lipid solubility (LS) ∝ potency ∝ toxicity                                       |
++-----------------------------+------------------------------------------------------------------------------------+
+| Examples: pipecolyxylidides | **Structure-activity relationships:**                                              |
+|                             |                                                                                    |
+|                             | - Chiral due to assymetric carbon (cf. lignocaine)                                 |
+|                             | - Length piperidine C-chain ∝ lipid solubility, potency, toxicity, % protein bound |
+|                             |                                                                                    |
+|                             | **Comparisons (reference: procaine)**                                              |
+|                             |                                                                                    |
+|                             | - Methyl (CH~3~) = mepiv                                                           |
+|                             |   - LS 100x, potency 2x, 77% plasma protein bound (PPB))                           |
+|                             | - Propyl (C~3~H~7~) = ropiv                                                        |
+|                             |   - LS 300x, potency 8x, 94% PPB)                                                  |
+|                             |   - S-ropiv more potent, less toxic, hence always enantiopure                      |
+|                             | - Butyl (C~4~H~9~) = bupiv                                                         |
+|                             |   - LS 1000x, potency 8x, 95% PPB                                                  |
+|                             |   - L-bupiv more potent, less toxic, preferred in paeds (expensive)                |
++-----------------------------+------------------------------------------------------------------------------------+
+
+#### Other:
+
++------------+----------------------------------------------------------------------+
+| Isomerism  | - e.g. S-ropivacaine more potent, less toxic than R-ropivacaine      |
++------------+----------------------------------------------------------------------+
+| Ionisation | - Determines diffusability hence speed of onset                      |
+|            |   - e.g. lignocaine pKa 7.9, 25% unionised at pH 7.4 → fast onset    |
+|            |   - e.g. bupivacaine pKa 8.1, 15% unionised at pH 7.4 → medium onset |
++------------+----------------------------------------------------------------------+

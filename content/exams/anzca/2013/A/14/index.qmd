@@ -1,0 +1,116 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013A Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the structure of mitochondria. [**Outline**]{.task-verb} the metabolic processes that occur in mitochondria.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+**[Briefly describe]{.task-verb}** the structural compartments, then **[outline]{.task-verb}** each metabolic process by location, substrates and products.
+
+::: {.structure-headings}
+### Structure: Membranes, Intermembrane Space, Cristae and Matrix
+
+### Krebs Cycle
+
+### Electron Transport Chain and Oxidative Phosphorylation
+
+### Other Mitochondrial Processes
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Old Exam: **37%** of candidates achieved a pass in this question
+
+New Exam: **37%** of candidates achieved a pass in this question
+
+This question was poorly answered overall however some candidates scored very well. The question came in 2 parts. Many candidates did not address the structure of the mitochondrion and this cost around one third of the potential mark.
+
+To pass
+
+Description of mitochondrion:
+
+- intracellular organelle
+
+- Inner and outer membrane
+
+- Central matrix
+
+- Cristae (folds in inner membrane)
+
+Extra marks : stating matrix site of Krebs cycle and ETC on inner membrane with H ions abundant in intermembrane space. increased number in metabolically active tissue. Some cells lack mitochondria e.g. RBC
+
+- DNA (smaller genome, maternal inheritance)
+
+- T RNA
+
+- Ribosomes present
+
+Second part
+
+Main function is oxidative phoshphorylation
+
+Needed to explain Krebs cycle (where it occurs, substrate, products:NADH and FADH2,) Extra marks for stating C02 produced from this cycle, NADH creates 3 ATP FADH2 creates 2 ATP.
+
+Also needed to explain electron transport chain: where, substrates, how it works, purpose and product.
+
+Extra marks for correct stoichiometry, naming the cytochrome enzymes, appreciating 3 of the 5 complexes pump H+ out of the matrix into the inter membrane space against a concentration gradient, describing the H+ ion passing down an electochem gradient via ATP synthase to facilitate ADP→ATP, stating O2 is final electron acceptor, metabolic water produced and overall 36 ATP for 1 mol glucose
+
+Other functions:
+
+- Drug biotransformation
+
+- Apoptosis (programmed cell death)
+
+- Ca sequestration
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/A/14/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/A/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Organelles and mitochondria](/content/cellular/organelles.qmd)
+- [Carbohydrate metabolism](/content/metabolic/carbohydrate.qmd)
+- [Fat metabolism](/content/metabolic/fat.qmd)

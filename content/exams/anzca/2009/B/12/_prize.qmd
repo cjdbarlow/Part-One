@@ -1,0 +1,73 @@
+#### List:
+
+- Structure
+- Production
+- Function
+
+#### RBC structure:
+
++----------+------------------------------------------------------------------------+
+| Macro    | - Biconcave disc shaped cell in blood                                  |
+|          | - 8 x 2 μm                                                             |
++----------+------------------------------------------------------------------------+
+| Contents | - Large amounts of haemoglobin, carbonic anhydrase, glycolytic enzymes |
+|          | - No nucleus, no mitochondria (no aerobic metabolism)                  |
++----------+------------------------------------------------------------------------+
+
+#### Production:
+
++------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Pathway    | ![](/content/exams/anzca/2009/B/12/prize-image001.jpg){fig-alt="Erythrocyte development from pluripotent haematopoietic stem cell through erythroblast and reticulocyte"} |
++------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Organs     | - Yolk sac: early embryo                                                                                                                                                  |
+|            | - Liver, spleen: embryo and foetus                                                                                                                                        |
+|            | - Appendicular skeleton: late foetus until adolescence                                                                                                                    |
+|            | - Axial skeletal and proximal long bones: late foetus until death                                                                                                         |
++------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Stimulants | - Erythopoietin (Epo) most important (see below)                                                                                                                          |
+|            | - Colony stimulating factors (G-CSF, GM-CSF)                                                                                                                              |
+|            | - Stem-cell factor                                                                                                                                                        |
+|            | - IGF-1                                                                                                                                                                   |
+|            | - Interleukins (esp. IL-3)                                                                                                                                                |
+|            | - With maturation: organelles disappear, \[Hb\] increases                                                                                                                 |
+|            | - Circulating cells: 99% erythrocytes, 1% reticulocytes (reticular network of rRNA)                                                                                       |
++------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Epo        | - Glycoprotein hormone                                                                                                                                                    |
+|            | - Production: 90% renal interstitial fibroblasts, 10% liver (Fetus: mostly liver)                                                                                         |
+|            | - Stimulus: cellular ↓pO~2~                                                                                                                                               |
+|            | - Mechanism: binds extracellular EpoR → activates JAK2 cascade                                                                                                            |
+|            | - Effect: pluripotent cell → erythroblast                                                                                                                                 |
+|            | - Degradation: liver                                                                                                                                                      |
++------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Function:
+
++------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| O~2~ carriage          | - Fe^2+^ in haem binds O~2~                                                                                                                                           |
+|                        | - Increases CaO~2~ from 2mL/100mL arterial blood (dissolved only) to 20mL/100mL                                                                                       |
+|                        | - O~2~ taken up at lungs (left shift OHDC: ↓H+, ↓pCO2, ↓T, ↓2,3-DPG)                                                                                                  |
+|                        | - O~2~ unloaded at tissues (right shift OHDC: opposite)                                                                                                               |
+|                        | - Used for oxidative phosphorylation, ATP production                                                                                                                  |
+|                        |                                                                                                                                                                       |
+|                        | ![](/content/exams/anzca/2009/B/12/prize-image002.jpg){fig-alt="Oxyhaemoglobin dissociation curve with representative oxygen partial pressure and saturation values"} |
+|                        |                                                                                                                                                                       |
+|                        | Oxyhaemoglobin dissociation curve (OHDC)                                                                                                                              |
++------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| CO~2~ carriage         | - CO~2~ produced in TCA cycle                                                                                                                                         |
+|                        | - Diffuses into RBC                                                                                                                                                   |
+|                        | - Converted by carbonic anhydrase and buffered                                                                                                                        |
+|                        |   - CO~2~ + H~2~O \<-\> H^+^ + HCO~3~^-^                                                                                                                              |
+|                        |   - CO~2~ + NH~2~ \<-\> NHCOO^-^ + H^+^                                                                                                                               |
+|                        |   - KHb + H^+^ \<-\> HHb + K^+^                                                                                                                                       |
+|                        | - Haldane effect: deoxyHb carries more CO~2~ and H~+~ than oxyHb                                                                                                      |
+|                        |   - 70% due to 3.5x↑ formation of carbamino                                                                                                                           |
+|                        |   - 30% due to pKa 6.6 → 8.2 imidazoles                                                                                                                               |
+|                        |   - Hence isohydric buffering: for every 1mol O~2~ offloaded, 0.7mol CO~2~ and H^+^ can be added, before pH falls                                                     |
+|                        |   - Note arterial pH 7.44, venous only 7.36 despite extra 4mL/100mL CO~2~                                                                                             |
++------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Buffering              | - Haemoglobin is the second most important ECF buffer after bicarbonate                                                                                               |
+|                        | - Effective in metabolic \>\> respiratory disorders                                                                                                                   |
+|                        | - As described above                                                                                                                                                  |
++------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Prevent nephrotoxicity | - Free haemoglobin damages the glomerulus                                                                                                                             |
++------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+

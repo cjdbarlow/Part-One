@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016B Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the principles of how a computer-controlled infusion device targets and maintains a constant effect-site concentration of propofol.
+:::
+
+Also asked in: [2010B Question 6](/content/exams/anzca/2010/B/6/index.qmd#examiner-comments), [2019A Question 11](/content/exams/anzca/2019/A/11/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} how the device translates a chosen target into loading and changing infusion rates. Connect compartment models, effect-site equilibration and patient inputs to target attainment, maintenance and model limitations.
+
+::: {.structure-headings}
+### Device, Inputs and Target
+
+### Compartment Model and Rate Constants
+
+### Effect-Site Equilibration
+
+### Loading and Maintenance Algorithms
+
+### Model Assumptions and Limitations
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**45%** of candidates achieved a pass in this question
+
+For a comprehensive answer the following areas required attention: description of the three compartment pharmacological model used for effect site Target Controlled Infusion of propofol, patient parameters for the different models in clinical practice and how they are used, how the infusion regimen works to attain the desired target drug level and commentary on accuracy including those inherent to the algorithm (such as estimation of lean body mass) and patient populations known not to fit the models well or suffer side effects. The central role of keo in the pharmacokinetic relationship between the central compartment and the effect site should be emphasized. Diagrams help to illustrate several of these points. The following did not gain credit: description of the general pharmacokinetics and dynamics of propofol, models for drugs other than propofol and calculations of loading doses and infusion rates applicable to single compartment models or manual TIVA regimens as a pose to TCI algorithms which iteratively re-calculate compartment drug levels and titrate infusion rates several times a minute. A lack of specific detail was the most common impediment to a good score.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2010/B/6/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2010/B/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Target controlled infusion](/content/pharmacology/tci.qmd)

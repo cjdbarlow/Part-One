@@ -1,0 +1,123 @@
+#### List:
+
+- Intro
+- Pathophysiology
+- Features
+- Early mediators (3)
+- Late mediators (3)
+- Adrenaline
+
+#### Intro:
+
++-----------------+-----------------------------------------------+
+| Definition      | - Type 1 hypersensitivity reaction            |
++-----------------+-----------------------------------------------+
+| Problem         | - ↑↑ mortality if untreated                   |
++-----------------+-----------------------------------------------+
+| Common triggers | - Antibiotics: penicillins                    |
+|                 | - Muscle relaxants: suxamethonium, rocuronium |
+|                 | - Food: peanuts                               |
+|                 | - Environment: latex                          |
++-----------------+-----------------------------------------------+
+
+#### Pathophysiology:
+
++-----------------+------------------------------------------------------------------------------------------------------------------+
+| First exposure  | - Antigen-presenting cell + antigen → activate specific T cell → activate specific B cell → produce specific IgE |
+|                 | - IgE fixes to basophils (blood), mast cells (tissues)                                                           |
+| (sensitization) |                                                                                                                  |
++-----------------+------------------------------------------------------------------------------------------------------------------+
+| Second exposure | - Antigen binds IgE                                                                                              |
+|                 | - Systemic degranulation (early phase)                                                                           |
+| (showtime)      | - ↑Mediator production (late phase)                                                                              |
++-----------------+------------------------------------------------------------------------------------------------------------------+
+
+#### Features:
+
++----------------+-------------------------------------------------------------------------+
+| Mucocutaneous  | - Vasodilation (VD), capillary leak (CL) → urticaria, angioedema        |
++----------------+-------------------------------------------------------------------------+
+| Cardiovascular | - VD,CL→ ↓blood volume → ↓preload → ↓cardiac output → ↓mAP → +/- arrest |
++----------------+-------------------------------------------------------------------------+
+| Respiratory    | - Bronchoconstriction (BC)→ +/- arrest                                  |
++----------------+-------------------------------------------------------------------------+
+| GIT            | - Vomiting, abdo pain, diarrhea                                         |
++----------------+-------------------------------------------------------------------------+
+
+#### Early mediators:
+
++-----------+------------------------------------------------------+
+| Histamine | - Basic amine derived from histidine                 |
+|           | - Mechanism of action (MoA):                         |
+|           |   - H1: G~q~ G protein coupled receptor (G~q~-GPCR)  |
+|           |   - H2: G~s~-GPCR                                    |
+|           | - CVS effects:                                       |
+|           |   - Heart: H1: ↑AV delay, coronary vasoconstriction  |
+|           |   - Heart H2A: ↑inotropy, coronary vasodilatation    |
+|           |   - Vasculature: H1: VD,CL (↑nitric oxide synthesis) |
+|           | - Resp:                                              |
+|           |   - H1: BC                                           |
+|           |   - H2: bronchodilation (BD)                         |
+|           | - CNS: H1: ↑wakefulness, (↓PONV)                     |
+|           | - GIT: H2: ↑gastric acid secretion                   |
++-----------+------------------------------------------------------+
+| Serotonin | - MoA: binds 5HT receptor, usually GPCR              |
+|           | - CVS: VD                                            |
+|           | - Resp: BC                                           |
+|           | - CNS: nausea (5-HT~3~)                              |
++-----------+------------------------------------------------------+
+| Tryptase  | - MoA: serine protease                               |
+|           | - Activates complement cascade, coagulation cascade  |
+|           | - Useful in retrospective Dx anaphylaxis             |
+|           | - CVS: VD, CL                                        |
+|           | - Resp: BC                                           |
++-----------+------------------------------------------------------+
+
+#### Late mediators (newly synthesized; effects apparent up to 8 hours later):
+
++----------------------------+------------------------------------------------------+
+| Prostaglandins             | - e.g. PGE~2~                                        |
+|                            | - Produced from arachidonic acid (AA) by COX-2       |
+|                            | - MoA: binds various GPCR                            |
+|                            | - CVS: VD, CL                                        |
+|                            | - (exception: PGI~2~)                                |
++----------------------------+------------------------------------------------------+
+| Leukotrienes               | - a.k.a. slowly releasing substance of anaphylaxis A |
+|                            | - Produced from AA by lipo-oxygenase                 |
+|                            | - MoA: via GPCR and PPAR receptors                   |
+|                            | - CVS: VD, CL                                        |
+|                            | - Resp: BC                                           |
++----------------------------+------------------------------------------------------+
+| Bradykinin                 | - MoA: via β~1~ and β~2~ GPCR                        |
+|                            | - Inactivated by ACE                                 |
+|                            | - CVS: VD, CL                                        |
+|                            | - Resp: BC                                           |
++----------------------------+------------------------------------------------------+
+| Platelet activating factor | - Effects via PAF receptor                           |
+|                            | - Role unknown                                       |
++----------------------------+------------------------------------------------------+
+
+#### Adrenaline:
+
++------------------------+--------------------------------------------------------------+
+| Class of drug          | - Catecholamine                                              |
++------------------------+--------------------------------------------------------------+
+| Dose                   | - 50mcg IV bolus +/- repeat                                  |
+|                        | - 0.5mg IM once                                              |
+|                        | - +/- infusion required                                      |
++------------------------+--------------------------------------------------------------+
+| Dose-dependent effects | - Low dose: β~1~\>β~2~\>α~1~                                 |
+|                        | - High dose: α~1~\>β~1~\>β~2~                                |
++------------------------+--------------------------------------------------------------+
+| Receptor effects       | - α~1~ effect:                                               |
+|                        |   - G~q~ GPCR → ↑IP~3~, DAG                                  |
+|                        |   - Vasoconstriction, ↑SVR, ↑coronary and cerebral perfusion |
+|                        | - β~1~ effect:                                               |
+|                        |   - G~s~ GPCR → ↑cAMP                                        |
+|                        |   - ↑heart rate and contractility → ↑mAP                     |
+|                        | - β~2~ effect:                                               |
+|                        |   - G~s~ GPCR→↑cAMP                                          |
+|                        |   - Bronchodilatation                                        |
+|                        |   - ↓Mast cell mediator release                              |
+|                        |   - (Also vasodilation, offset by α~1~ effect at high dose)  |
++------------------------+--------------------------------------------------------------+

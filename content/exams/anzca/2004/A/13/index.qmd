@@ -1,0 +1,85 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004A Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the concept of renal clearance and its use to estimate glomerular filtration rate.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} clearance with its equation and units, connecting filtration, reabsorption and secretion to the measured value. Explain the ideal marker and compare inulin with creatinine for estimating GFR.
+
+::: {.structure-headings}
+### Definition, Equation and Renal Handling
+
+### Properties of an Ideal GFR Marker
+
+### Inulin Measurement
+
+### Creatinine Clearance and Estimated GFR
+
+### Limitations and Interpretation
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**69%** of candidates passed this question.
+
+Renal clearance is a basic physiological concept, and its translation into glomerular filtration rate is a straight-forward application of this concept.
+
+Candidates were expected to provide some definition of clearance, with some detail on how the elements of function of the kidney relate to clearance. These include filtration and tubular reabsorption and secretion. Most candidates were able to provide a reasonable definition of clearance, although there were a significant number of errors.
+
+The inclusion of any discussion about glomerular filtration and tubular function was a common omission in a number of answers. In a number of cases, extensive detail was provided on the mechanisms of filtration at the glomerulus, but this did not attract significant additional marks.
+
+Inclusion of some basic formula about how clearance relates to plasma concentration and urinary volume and concentration was an important inclusion in the answer. Quite a number of candidates included an extensive derivation of this formula, but omitted more important facts.
+
+The properties required of a marker, ideal for use in the measurement of glomerular filtration rate was well described by the majority of candidates, and was an important part of the answer. Most candidates included discussion of specific examples which can be used, such as inulin and creatinine. Whilst this was generally done well, an understanding of the relationship between creatinine concentrations, creatinine clearance, and glomerular filtration rate was not always apparent.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2004/A/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Creatinine clearance](/content/renal/creatinine_clearance.qmd)
+- [Glomerular filtration](/content/renal/glomerular_filtration.qmd)

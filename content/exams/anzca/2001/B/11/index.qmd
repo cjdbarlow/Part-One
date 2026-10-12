@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001B Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the required pharmacological characteristics of local anaesthetic formulations intended for topical use.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Pharmaceutical**, **Pharmacokinetic**, and **Pharmacodynamic Characteristics**. Relate each property to the intended site of topical application, considering both skin and mucous membranes.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**41%** of candidates passed this question. It was expected that there would be a description of the characteristics of the formulations applied at the different sites where topical local anaesthesia is used.
+
+The main points expected for a pass were concerned with characteristics common to all topical anaesthetics including those incorporated in Fick’s law of diffusion. However there should have been mention of various possible sites of application (eg skin and mucous membranes) in order to illustrate the differing relative importance of characteristics which could subsequently have been divided into pharmaceutical, pharmacokinetic and pharmacodynamic properties.
+
+Pharmaceutical
+
+Presentation, (eg aerosol, solution, gel, cream, lozenges), stability during storage, concentration of active component, possible “additives” including those required to optimise kinetics (eg pH adjustment and/or vasoconstrictors), lack of local toxicity.
+
+Pharmacokinetic
+
+Molecular weight, pKa and intrinsic lipid solubility, rapid onset, appropriate duration, high systemic clearance, no active or toxic metabolites.
+
+Pharmacodynamic
+
+Effective block of nerve transmission, relevance of intrinsic vasoconstrictor activity, high therapeutic ratio.
+
+Additional marks were awarded for explanation of the relevance of the above characteristics, eg buffering of formulation to ensure low ionisation thus further enhancing intrinsic lipid solubility or why vasoconstriction, despite the limits it places on systemic uptake, may be undesirable if venous cannulation is planned. Mention of other characteristics (eg ease and economy of production, preservatives, protein binding and common side effects) could also gain additional marks.
+
+The question did not relate only to cutaneous application and EMLA. Unnecessary detail about this formulation, to the exclusion of other information, was the most common reason not to gain marks. Similarly extensive discussion of non-pharmacological topics such as the thickness of the cutaneous barrier or area of application did not gain marks unless in relation to kinetics or dynamics (eg onset times and systemic toxicity). Occasional confusion seemed to exist between potency and concentration. The former is a comparison of the mass of one drug, compared to another, to bring about an effect. In this context potency is of little importance so long as the concentration of the formulation is far enough above the effective concentration to ensure a high concentration gradient. Despite the fundamental nature of the relationship between pH, pKa, ionisation and transmembrane passage of molecules, some candidates still appear not to understand this topic.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Local Anaesthetic Agents](/content/pharmacopoeia/neuro/local_anaesthetics.qmd)

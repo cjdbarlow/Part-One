@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001B Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} how the kidney handles glucose. [**Describe**]{.task-verb} the physiological consequences of glycosuria.
+:::
+
+Also asked in: [1999A Question 4](/content/exams/anzca/1999/A/4/index.qmd#examiner-comments), [2004A Question 16](/content/exams/anzca/2004/A/16/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} renal glucose handling from filtration through tubular reabsorption, using a labelled glucose titration curve to show transport maximum and splay. Then [**describe**]{.task-verb} the consequences of glycosuria under the following headings.
+
+::: {.structure-headings}
+### Glomerular Filtration
+
+### Tubular Reabsorption
+
+### Transport Maximum, Threshold and Splay
+
+### Renal and Systemic Consequences of Glycosuria
+
+### Compensatory Responses
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**47%** of candidates achieved a pass mark.
+
+The kidney freely filters glucose and almost completely reabsorbs it in the proximal convoluted tubule. This is an active process, utilising a Na^+^ co-transport system. Energy for this process comes from Na^+^/K+ ATPase on the basement membrane, pumping Na+ out of the renal tubular cell. This co-transport system is saturable. Extra marks where attracted for discussion of the SGLT 1 and GLUT 2 transporters and their role. A description of the T~M~ and how glycosuria occurs at a level below the theoretical T~M~ also received extra marks.
+
+Glycosuria causes an osmotic diuresis, and details of the mechanism were expected. Candidates who explained the effect on the medullary osmotic gradient and the subsequent failure to concentrate urine received extra marks. Some mention of the systemic implications of these effects was also expected.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/A/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Glomerular filtration](/content/renal/glomerular_filtration.qmd)
+- [Sodium and water handling](/content/renal/sodium.qmd)
+- [Glucose physiology](/content/endo/glucose.qmd)

@@ -1,0 +1,62 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000B Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Draw**]{.task-verb} an expiratory flow volume curve for a forced expiration from total lung capacity. [**Describe**]{.task-verb} its characteristics in people with normal lungs, as well as those with obstructive and restrictive lung disease.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Draw**]{.task-verb} and [**label**]{.task-verb} **Normal**, **Obstructive**, and **Restrictive** expiratory flow–volume curves from total lung capacity. [**Describe**]{.task-verb} their shapes, values and effort-dependent and effort-independent portions.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**77%** of candidates passed this question. The question asked for a diagram of a forced expiratory flow volume curve and it was expected that this would be done reasonably accurately with correctly labelled axes and values. Additional marks were awarded for description of the effort dependent and independent portions of the curve, as well as for some explanation about effort dependent and independent flow. It was also expected that the candidate would draw the patterns in obstructive and restrictive lung diseases and describe the characteristics in these conditions. The common errors were inaccurately shaped curves, inaccurately labelled axes, or incorrect values.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Spirometry](/content/resp/spirometry.qmd)

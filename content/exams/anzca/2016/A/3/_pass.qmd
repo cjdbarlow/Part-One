@@ -1,0 +1,27 @@
++---------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| **Anatomical difference**                         | **Clinical Implication **                                                                                        |
++===================================================+==================================================================================================================+
+| **Large head size /occiput compared to body **    | Neck is flexed in the supine position.                                                                           |
+|                                                   |                                                                                                                  |
+|                                                   | Laryngoscopy will be difficult in this position                                                                  |
++---------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| **Large floppy epiglottis **                      | The epiglottis projects further into the airway and covers more of the glottis (until the age of 4)              |
++---------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| **Large tongue and tonsils and adenoids**         | Large tongue relative to the size of the oral cavity. Causes airway obstruction and interferes with laryngoscopy |
++---------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| **Superior Laryngeal position **                  | Located opposite the C3 to C4 vertebrae, compared with the C4 to C5 in adults.                                   |
+|                                                   |                                                                                                                  |
+|                                                   | Laryngoscopy is made more difficult                                                                              |
++---------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| **Short small diameter trachea **                 | Normal ETT (cuffed size) is 3-3.5mm (3.5-4 cuffed) and fixed at 9-10cm at the lips                               |
+|                                                   |                                                                                                                  |
+|                                                   | Easy to intubate the right main bronchus.                                                                        |
+|                                                   |                                                                                                                  |
+|                                                   | Easy to inadvertently extubate the child.                                                                        |
+|                                                   |                                                                                                                  |
+|                                                   | Trachea more prone to obstruction                                                                                |
+|                                                   |                                                                                                                  |
+|                                                   | risk of tracheal stenosis following prolonged intubation                                                         |
++---------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| **More pliable airway structure and soft tissue** | Larynx and trachea more easily compressed through pressure and external laryngeal manipulation                   |
++---------------------------------------------------+------------------------------------------------------------------------------------------------------------------+

@@ -1,0 +1,41 @@
+**Structure**: Consist of inner and outer which creates 3 spaces. 
+
+Outer Membrane:
+
+- Outer membrane separates mitochondria from cell cytoplasm
+- Contains pores and transport proteins
+
+Intermembrane Space:
+
+- Space between the inner and outer membrane 
+- Composition similar to cytosol in terms of small molecules, but different protein composition
+
+Inner Membrane (cristae):
+
+- inner membrane form folds called cristae 
+- The inner mitochondrial membrane contains proteins with three types of functions
+  - Those that perform the electron transport chain redox reactions
+  - ATP synthase, which generates ATP in the matrix
+  - Specific transport proteins that regulate metabolite passage into and out of the mitochondrial matrix
+
+Matrix
+
+- Site of Krebs Cycle 
+
+**Function**
+
+- Produce ATP via aerobic metabolism
+- Only method of aerobic metabolism in the body.
+- Mitochondria exist in greater numbers in more metabolically active cells
+
+Cellular Respiration
+
+- Glycolysis: occurs in the cytoplasm
+  - Glucose → 2 Pyruvate Molecules + 2 ATP + 2 NADH
+- Citric Acid/Krebs Cycle: Occurs in the Matrix of Mitochondria 
+  - Pyruvate oxidation → CO2 + NADH, FADH2
+- Oxidative phosphorylation / Electron transport chain: Occurs inner cell membrane 
+  - High energy electrons from electron carriers (NADH + FADH2) are used to drive proton pumps establishing a proton gradient - H+ into inter membrane space 
+  - H+ then flows down gradient via ATP synthase and facilitates ADP→ atp 
+  - O2 final electron acceptor - Forms H2O
+  - The final Product being \~36 ATP and H2O

@@ -1,0 +1,79 @@
+#### List:
+
+- Intro
+- Final Ce
+- Removal from effect site
+- Elimination from central compartment
+- Threshold Ce for offset
+
+#### Intro:
+
++-------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+| Determinants      | - Final Ce at end of infusion                                                                                                            |
+|                   | - Rate of removal from effect site                                                                                                       |
+|                   | - Rate of elimination from central compartment                                                                                           |
+|                   | - Threshold Ce for offset of effect                                                                                                      |
++-------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+| Compartment model | ![](/content/exams/anzca/1999/B/16/prize-image001.jpg){fig-alt="Three-compartment pharmacokinetic model with effect site and clearance"} |
++-------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### *Ce at end of infusion:* (factors decreasing it)
+
++----------+----------------------------------------+
+| Infusion | - ↓Duration                            |
+|          | - ↓Rate of admin                       |
++----------+----------------------------------------+
+| Drug     | - ↑Tissue:blood partition coefficients |
+|          | - ↑Clearance                           |
++----------+----------------------------------------+
+| Patient  | - ↑Cardiac output                      |
+|          | - ↑Tissue volumes                      |
++----------+----------------------------------------+
+
+#### Removal from effect site: (factors accelerating it)
+
++------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Fick’s law             | ![](/content/exams/anzca/1999/B/16/prize-image002.jpg){fig-alt="Fick diffusion equation linking concentration gradient, area, thickness, membrane solubility and molecular weight"} |
++------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↑Diffusion coefficient | - ↑Lipid solubility (e.g. fentanyl:morphine = 600:1)                                                                                                                                |
+|                        | - ↓Molecular weight (e.g. propofol 178Da)                                                                                                                                           |
+| (i.e. k~e0~)           | - ↑%Unionised (e.g. propofol 98% at pH 7.4)                                                                                                                                         |
++------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Elimination from central compartment: (factors accelerating it)
+
++-----------------+------------------------------------------------------------------------------+
+| Short infusion  | Offset during distribution phase                                             |
+|                 |                                                                              |
+|                 | - ↑Cardiac output                                                            |
+|                 | - ↑Volume of distribution (e.g. fentanyl faster than alfentanil)             |
++-----------------+------------------------------------------------------------------------------+
+| Long infusion   | Offset during terminal elimination phase                                     |
+|                 |                                                                              |
+|                 | - ↓Cardiac output                                                            |
+|                 | - ↓Volume of distribution (e.g. alfentanil faster than fentanyl)             |
+|                 | - ↑Metabolism (e.g. remifentanil faster than all)                            |
+|                 | - ↑Excretion of drug or active metabolite                                    |
++-----------------+------------------------------------------------------------------------------+
+| Opioid examples |                  **V~D~ (L/kg)**   **Cl (mL/kg/min)**   **t~1/2β~ (mins)**   |
+|                 |   -------------- ----------------- -------------------- -------------------- |
+|                 |   Fentanyl       3.5               13                   200                  |
+|                 |   Alfentanil     0.6               6                    100                  |
+|                 |   Remifentanil   0.3               40                   10                   |
++-----------------+------------------------------------------------------------------------------+
+
+#### Ce threshold for offset:
+
++-----------------------+--------------------------------------------------------------------------------------+
+| Patient factors       | - Individual variability: e.g. ↑opioid sensitivity in elderly, neonate → ↓Ce~50~     |
+|                       | - Tolerance: e.g. chronic opioids → receptor downregulation → ↑Ce~50~                |
++-----------------------+--------------------------------------------------------------------------------------+
+| Drug interactions     | - Synergistic: e.g. midazolam + propofol synergism → ↓Ce~50~ for both                |
+|                       | - Additive: e.g. propofol + sevoflurane → ↓propofol Ce~50~                           |
++-----------------------+--------------------------------------------------------------------------------------+
+| Prolonged drug effect | - Second messenger effects (e.g. NAd reuptake immediate, but offset 3-5 mins)        |
+|                       | - Genetic effect (e.g. ketamine → ↓synaptic reinforcement → ↓long term potentiation) |
+|                       | - Irreversible binding (e.g. salicylic acid t~1/2~~β~ 3 hours, duration 7 days)      |
+|                       | - Prodrug (e.g. dabigatran → dabigatran etexilate)                                   |
+|                       | - Active metabolites (e.g. desmethyldiazepam t~1/2~~β~ 100 hours → long duration)    |
++-----------------------+--------------------------------------------------------------------------------------+

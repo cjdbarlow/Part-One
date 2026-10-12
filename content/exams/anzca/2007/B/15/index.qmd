@@ -1,0 +1,110 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007B Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the clinical laboratory assessment of liver function.
+:::
+
+Also asked in: [2010B Question 16](/content/exams/anzca/2010/B/16/index.qmd#examiner-comments), [2017A Question 15](/content/exams/anzca/2017/A/15/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} laboratory tests by the function or injury they reflect. Explain the physiological basis and relevant time course of each, distinguishing synthetic failure, hepatocellular injury, cholestasis and metabolic consequences.
+
+::: {.structure-headings}
+### Synthetic Function: Albumin and Coagulation
+
+### Bilirubin Handling
+
+### Hepatocellular Injury
+
+### Cholestasis
+
+### Metabolic and Other Laboratory Consequences
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**19%** of candidates passed this question.
+
+This question is taken directly from the syllabus objectives and it was important to have a structured answer to cover all the main points.
+
+Suggested structure.
+
+1. Synthetic function
+    - 1.a.        Prothrombin ratio (acute injury)
+    - 1.b.        Albumin (chronic)
+    - 1.c.        Bilirubin formation (conjugation / jaundice / haemolysis)
+2. Hepatocellular injury
+    - 2.a.        Aminotransaminases (aspartate / alanine)
+    - 2.b.        Lactate dehydrogenase
+    - 2.c.        Cell death releases enzymes
+3. Cholestatic
+    - 3.a.          Alkaline phosphatase (ductal cells / T~1/2~ 7 days / other sources)
+    - 3.b.          Gamma-glutamyl-transpeptidase (ductal cells / inducible enzyme/alcohol)
+    - 3.c.          Unconjugated bilirubin / poorly water soluble
+4. Higher marks
+    - 4.a.          Albumin transport of unconjugated bilirubin
+    - 4.b.          Albumin loss from other causes
+    - 4.c.          Plasma concentrations of albumin / bilirubin and jaundice
+    - 4.d.          Glutathione-S-transferase and centrilobular damage
+    - 4.e.          Ammonia levels in liver failure
+
+“Outline” does not mean list and there needs to be a connection between what is measured and how that changes with liver dysfunction. Clarity about “increases” and “decreases” is important for showing understanding. A simple list of tests was not enough to answer the question and demonstrate knowledge. Normal plasma concentrations of albumin and bilirubin were infrequently mentioned and enzyme abbreviations without explanations were common.
+
+Information not relevant to the question includes:
+
+- Excessive detail on the coagulation pathway
+- Hepatic blood flow measurement
+- Clinical signs of liver failure
+- Functions of the liver and albumin
+- Explaining how to perform a laboratory test
+- Ultrasound investigations
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2007/B/15/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/B/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Liver function](/content/git/liver_function.qmd)

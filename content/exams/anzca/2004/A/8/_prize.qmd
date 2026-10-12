@@ -1,0 +1,71 @@
+#### List:
+
+- Intro
+- Problems
+- Bleeding
+- HITT
+- Other (short term and long term)
+
+#### Problems that aren’t side effects:
+
++--------------------------+---------------------------------------------------------------------------------------+
+| Narrow therapeutic index | - Need monitoring – aPTT                                                              |
+|                          | - Aim 1.5-2.5x baseline approx                                                        |
++--------------------------+---------------------------------------------------------------------------------------+
+| Variable effect          | - Variable plasma protein concentration                                               |
+|                          | - Zero order kinetics at high dose                                                    |
+|                          | - Variable elimination rate by metabolism (heparinase) \> excretion (urine unchanged) |
+|                          | - Heparin resistance                                                                  |
+|                          |   - Variation in concentration of heparin-binding proteins (e.g. albumin)             |
+|                          |   - ↑Heparin clearance (e.g. splenomegaly in liver disease)                           |
+|                          |   - ↓AT3 (e.g. DIC, bypass circuit, nephrosis, congenital) – Rx AT3 or FFP            |
++--------------------------+---------------------------------------------------------------------------------------+
+
+#### Bleeding: \*Dose-dependent\*
+
++-----------+------------------------------------------------+
+| Risk      | - 1-5% if therapeutic anticoagulation          |
+|           | - e.g. peptic ulcer bleed, haemorrhagic stroke |
++-----------+------------------------------------------------+
+| Mechanism | - Heparin binds and potentiates AT3            |
+|           | - AT3 inactivates IIa, Xa, IXa, XIa, VIIa-TF   |
++-----------+------------------------------------------------+
+
+#### HITT: \*Idiosyncratic\*
+
++---------+-----------------------------------------------------------------------------------+
+| Risk    | - 1 in 200 therapeutic doses                                                      |
+|         | - 1 in 10,000 prophylactic doses                                                  |
+|         | - UFH \>\> LMWH                                                                   |
++---------+-----------------------------------------------------------------------------------+
+| Type 1  | - 95-99%                                                                          |
+|         | - ↓Platelet count by \<10%                                                        |
+|         | - Onset \<4 days                                                                  |
+|         | - Non immune-mediate                                                              |
+|         | - Low risk complications                                                          |
++---------+-----------------------------------------------------------------------------------+
+| Type 2  | - 1-5% (\<1% LMWH))                                                               |
+|         | - Onset 4-14 days                                                                 |
+|         | - ↓Platelet count by \>50% or to \<150                                            |
+|         | - Immune-mediated; IgG binds heparin + PF4 = hapten                               |
+|         | - Platelet activation and aggregation, thrombosis                                 |
+|         | - 50% risk major thrombotic event: ATE, VTE                                       |
+|         | - Risk major bleeding: haemorrhagic stroke, classic bilateral adrenal haemorrhage |
+|         | - Death 10-30%                                                                    |
+|         | - Diagnosis: “4Ts”, heparin/PF4 assay                                             |
+|         | - Rx: stop offender; start alternative e.g. lepirudin, argatroban                 |
+|         | - Do NOT start warfarin; risk skin necrosis, limb gangrene                        |
++---------+-----------------------------------------------------------------------------------+
+
+#### Other side effects: (UFH \> LMWH \> Fondaparinux):
+
++------------+---------------------------------------------------------------------+
+| Short term | - Hypotension (if rapid injection) – vasodilatation, venodilatation |
+|            | - Hypersensitivity                                                  |
+|            | - Hepatotoxicity                                                    |
+|            | - Suppression of aldosterone synthesis, ↑K^+^                       |
+|            | - Skin necrosis                                                     |
++------------+---------------------------------------------------------------------+
+| Long term  | - Osteoporosis                                                      |
+|            | - Alopecia                                                          |
++------------+---------------------------------------------------------------------+

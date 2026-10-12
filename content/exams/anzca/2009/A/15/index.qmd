@@ -1,0 +1,89 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009A Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the formation, fate and role of lactate in energy production.
+:::
+
+Also asked in: [2011B Question 16](/content/exams/anzca/2011/B/16/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} lactate formation from pyruvate, its regeneration of NAD+ and its subsequent metabolic fates. Use a pathway diagram to connect anaerobic glycolysis, oxidation and the Cori cycle.
+
+::: {.structure-headings}
+### Formation and NAD+ Regeneration
+
+### Anaerobic Glycolysis and Cells Without Mitochondria
+
+### Transport and Normal Serum Lactate
+
+### Oxidation as an Energy Substrate
+
+### Hepatic Glucose Production and Cori Cycle
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**19%** of candidates passed this question.
+
+Serum lactate is used as an indicator of anaerobic metabolism in anaesthetic practice. Hence candidates should have a good understanding of its role in energy production so that they can interpret this indicator in clinical situations.
+
+Lactate is formed form pyruvate allowing the regeneration of NAD^+^ from NADH which is necessary for the Embden-Meyerhof pathway to proceed in anaerobic conditions or in cells with no mitochondria. Lactate diffuses out of the cells and is either used by the heart as an energy substrate or metabolised in the liver to glucose.
+
+Further details required to pass this question included:
+
+- Some description of the Embden-Meyerhof pathway and the fates of pyruvate, however a detailed description of each intermediary was not necessary.
+- An understanding of the cause of the normal serum lactate of 0.5-2.0 mmol/L
+- Details of the Cori Cycle
+
+Few candidates could describe the role of lactate in energy production. Most attempted to describe the glycolytic pathway but often with significant errors. The fate of lactate was again only covered correctly by a few candidates. Many candidates gave lengthy answers addressing exercise and oxygen debt which was not a key part of the question.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2009/A/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Anaerobic metabolism](/content/metabolic/anaerobic.qmd)
+- [Carbohydrate metabolism](/content/metabolic/carbohydrate.qmd)

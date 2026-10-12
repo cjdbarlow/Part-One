@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016A Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the physical principles and equipment used for measurement of exhaled carbon dioxide by infrared analysis using sidestream sampling. [**Outline**]{.task-verb} the potential sources of error.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} the physical principles and follow the sample through a labelled analyser diagram. [**Outline**]{.task-verb} errors alongside the affected component, explaining their effect on the measured concentration and relevant corrections.
+
+::: {.structure-headings}
+### Infrared Absorption and Beer–Lambert Law
+
+### Sampling Line, Water Trap and Chamber
+
+### Light Source, Detector and Processing
+
+### Interference, Calibration and Pressure Effects
+
+### Sampling and Equipment Errors
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**62%** of candidates achieved a pass in this question
+
+The main points expected for a pass included a discussion of the principles of infrared analysis including details of molecular structure, the Beer-Lambert Law and how this pertains to the clinical circumstances in the question. A description of the equipment required for sidestream analysis was also required, and how each component works. Finally, sources of error were required in relation to the functioning of this equipment. In summary, this was an equipment question.
+
+Most answers included a reasonable discussion of the principles of infrared analysis, and could describe most of the equipment. However, outlines of how the equipment might not function were less well handled. Many answers contained headlines such as “blocked capnography tubing” or “collision-broadening” but did not go on to describe how that will influence the clinical interpretation of the capnography.
+
+This was an equipment question but many answers contained physiological discussions about the production and excretion of CO2 and how these affect the capnography trace. These discussions did not score marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2016/A/1/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2016/A/1/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Gas analysis](/content/equipment/gas_analysis.qmd)

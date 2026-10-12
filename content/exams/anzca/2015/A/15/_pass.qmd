@@ -1,0 +1,31 @@
+Thermoregulation is a homeostatic mechanism that aims to maintain a constant core body temperature
+
+![](/content/exams/anzca/2015/A/15/standard-image12.jpeg){fig-alt="Thermoregulation feedback system showing thermal sensors, hypothalamic controller and autonomic and behavioural effectors"}
+
+Interthreshold range is the range of core temperatures over which no autonomic thermoregulatory responses occur. Approx. 37C +/- 0.2C in non-anaesthetised state
+
+**General Anaesthesia effects on Thermoregulation:**
+
+GA causes 1-3C core body temperature over 3 phases
+
+Phase 1 
+
+- Occurs over first 30min-1 hour  
+- ↓1.5C initial rapid phase of loss due peripheral vasodilation and subsequent heat loss from redistribution from core to peripheries
+- Inter-threshold range is increased from 0.4°C to 4°C
+
+Phase 2
+
+- Further core temperature drop over \~2hours of \~1°C 
+- Heat loss is a result of heat loss exceeding heat production as non-shivering thermogenesis is only response available to paralysed anaesthetised patient
+
+Phase 3 Plateau
+
+- Thermoregulatory responses are activated and vasoconstriction constrains heat to core 
+- Increased metabolic heat production
+- Heat loss may still exceed heat production 
+
+**Neuraxial Anaesthesia effects on Thermoregulation:**
+
+- Hypothermia is generally less extreme as thermoregulation is only affected in areas covered by blockade → larger the blockade →↑effect on thermoregulation and temperature 
+- Plateau phase does not occur  as vasoconstrictive responses are inhibited by the blockade

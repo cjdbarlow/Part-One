@@ -1,0 +1,102 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014A Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the effects of intermittent positive pressure ventilation on cardiac output.
+:::
+
+Also asked in: [2013B Question 1](/content/exams/anzca/2013/B/1/index.qmd#examiner-comments), [2019A Question 1](/content/exams/anzca/2019/A/1/index.qmd#examiner-comments), [2021B Question 1](/content/exams/anzca/2021/B/1/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} how the change in intrathoracic pressure affects preload, afterload and output. Follow the circulation from right to left, distinguishing inspiration from expiration.
+
+::: {.structure-headings}
+### Right Heart
+
+### Pulmonary Circulation
+
+### Left Heart
+
+### Overall Effect and Modifying Factors
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**37.6 %** of candidates achieved a pass in this question
+
+This question has been asked before, most recently in 2013; the main points expected for a pass were addressed in the Examiners’ Report from last year.
+
+Without a good structure, it can be difficult to answer this question and this was reflected in the marks. The better candidates described the differences in intrathoracic pressure changes between intermittent positive pressure ventilation (IPPV) and normal ventilation then went on describe the factors that determine cardiac output: stroke volume (and its determinants) and heart rate. They explained the effects of the pressure changes during inspiration and expiration on each of these factors for both the right and left sides of the heart and the relationship between the sides.
+
+Common mistakes included:
+
+- describing the effects on cardiac output without explaining them
+
+- mentioning preload and afterload but not explaining how these influence cardiac output
+
+- not being clear about the side of the heart being described or even mentioning that there are two sides
+
+- claiming the airway pressure gradient was reversed during inspiration with IPPV compared to spontaneous ventilation
+
+- not mentioning expiratory effects
+
+Marks were not awarded for:
+
+- describing different modes of ventilation
+
+- a detailed description of the compensatory effects for blood pressure changes
+
+- discussion of West Zones
+
+- describing all the factors that affect pulmonary vascular resistance
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/B/1/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/B/1/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Positive pressure ventilation](/content/resp/peep.qmd)
+- [Venous return](/content/cvs/venous_return.qmd)
+- [Determinants of cardiac output](/content/cvs/co_determinants.qmd)

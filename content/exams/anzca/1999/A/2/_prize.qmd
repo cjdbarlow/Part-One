@@ -1,0 +1,57 @@
+#### List:
+
+- Intro: why and how
+- Factors: laminar flow, endothelium, RES, anticoagulants, fibrinolytics
+
+#### Intro:
+
++-------------------+---------------------------------------------------------------------------------------+
+| Reason for brakes | - Once activated, coagulation is self-amplifying and potentially dangerous (e.g. DIC) |
+|                   | - There must be anticoagulant controls to prevent and limit it                        |
++-------------------+---------------------------------------------------------------------------------------+
+| Pathophysiology   | Virchow’s triad:                                                                      |
+|                   |                                                                                       |
+|                   | 1.  Stasis                                                                            |
+|                   | 2.  Hypercoagulability                                                                |
+|                   | 3.  Tissue injury                                                                     |
+|                   |                                                                                       |
+|                   | Each anticoagulant mechanisms addresses one or more of these                          |
++-------------------+---------------------------------------------------------------------------------------+
+
+#### Factors preventing coagulation in intact vessels:
+
++----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Continuous laminar flow    | - Keeps coag factors dilute                                                                                                                          |
+|                            | - Keeps cells central, plasma peripheral (axial streaming)                                                                                           |
+|                            | - Keeps vWF globular hence inactive\                                                                                                                 |
+|                            |   (Rx: ambulation, sequential calf compression)                                                                                                      |
++----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Endothelial properties     | - Intact endothelium and glycocalyx = barrier between blood and subendothelium                                                                       |
+|                            | - Smooth surface promotes rapid, laminar flow                                                                                                        |
++----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Reticuloendothelial system | - Removes activated coagulation factors                                                                                                              |
++----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Endogenous anticoagulants  | - Normally higher concentrations than procoagulants                                                                                                  |
+|                            | - From the liver                                                                                                                                     |
+|                            |   - Antithrombin 3 (AT3)                                                                                                                             |
+|                            |   - Proteins C & S                                                                                                                                   |
+|                            |   - α~2~-macroglobulin (inhibits thrombin)                                                                                                           |
+|                            | - Expressed by endothelium                                                                                                                           |
+|                            |   - Heparin sulfate: potentiates AT3 1000x, inactivates IIa, IXa, Xa, XIa, XIIa                                                                      |
+|                            |   - Thrombomodulin:                                                                                                                                  |
+|                            |   - Tissue factor pathway inhibitor: inhibits TF/VIIa, Xa                                                                                            |
+|                            | - Secreted by endothelium:                                                                                                                           |
+|                            |   - Nitric oxide → vasodilatation, ↓platelet activation → ↓coag                                                                                      |
+|                            |   - Prostacyclin → vasodilatation → ↑flow → ↓coag                                                                                                    |
+|                            | - Interaction of the above:                                                                                                                          |
+|                            |                                                                                                                                                      |
+|                            | ![](/content/exams/anzca/1999/A/2/prize-image001.jpg){fig-alt="Protein C activation, protein S and thrombin–thrombomodulin anticoagulant pathways"}  |
++----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Endogenous fibrinolytics   | - Does not prevent activation but limits propagation                                                                                                 |
+|                            |                                                                                                                                                      |
+|                            | ![](/content/exams/anzca/1999/A/2/prize-image002.jpg){fig-alt="Plasminogen activation and fibrin breakdown"}                                         |
++----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Here it is for you anyway:
+
+![](/content/exams/anzca/1999/A/2/prize-image003.jpg){fig-alt="Supplied coagulation cascade diagram with extrinsic, intrinsic and common pathways and inhibitors"}

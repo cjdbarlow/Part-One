@@ -1,0 +1,67 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008B Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**What is meant by**]{.task-verb} the term Randomised Controlled Trial (RCT)? [**What are**]{.task-verb} the strengths and weaknesses of randomized control trial design?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+State [**what is meant by**]{.task-verb} a **Randomised Controlled Trial**, then show what the **Strengths** and **Weaknesses** are. Relate the design features to bias, confounding, evidence quality, practical constraints and ethical concerns.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**79%** of candidates passed this question, with 9% receiving a very low mark.
+
+A clear explanation of a Randomised Controlled Trial was required e.g. “a trial in which patients are allocated by a form of randomisation between groups; and in which an intervention group is compared to a control group, that may be active or inactive”. Thereafter a discussion of the strengths and weaknesses of such trials was required. Strengths were considered to be that RCT represents a high level of evidence and can be included in meta-analyses, minimisation of bias, reduction of the effect of confounders by being evenly distributed between groups, ease of blinding, ease of applying inclusion/exclusion criteria and providing a good basis to apply statistical analysis. Weaknesses were considered to be that they are more expensive, may not reflect real life situations, raise the possible ethical concern of recruiting patients to what may be considered a less effective technique, difficulty of meeting ethical requirements in obtaining informed consent from patients who may receive a less beneficial treatment.
+
+Many candidates appeared to confuse randomisation with blinding and wrote entirely on the advantages and disadvantages of blinding. Whilst blinding is often added to an RCT, a discussion of the advantages conferred with blinding was appropriate and attracted additional marks; however candidates who wrote solely about blinding with no acknowledgement of what constitutes an RCT, received low marks. Likewise the “controlled” part of an RCT applies to the use of a control against which to compare the intervention group and does not mean that there is a “high degree of control” of the study or that the researchers “tightly control all aspects of the trial”.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Clinical Trial Design](/content/stats/clinical_trial_design.qmd)
+- [Study Types](/content/stats/study_types.qmd)

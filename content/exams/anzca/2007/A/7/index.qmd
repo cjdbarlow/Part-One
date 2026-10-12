@@ -1,0 +1,74 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007A Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the pharmacology of midazolam including its mechanism of action.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Pharmaceutics**, **Pharmacokinetics**, **Mechanism of Action**, **System Effects**, and **Clinical Uses**. Connect the receptor mechanism to central effects and [**include**]{.task-verb} relevant cardiovascular, respiratory and reversal properties.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**66%** of candidates passed this question.
+
+Better answers were well organized and outlined the important aspects of midazolam pharmacology including:
+
+- Pharmaceutics, pH dependent “ring opening”, ampoule pH
+- Pharmacokinetics, administration, oral bio-availability, high lipid solubility and moderately fast onset, moderate hepatic clearance 7 mls/kg/min approx (cf diazepam), active metabolite, offset dependent on re-distribution and clearance, relatively short elimination half life
+- Mechanism of action (MOA), benzodiazepine receptor on alpha subunit of GABAa receptor, enhanced action of GABA, increased chloride entry and neuronal hyper-polarization
+- CNS effects, sedation, hypnosis, anxiolysis, amnesia, anti-convulsant, muscle relaxant
+- CVS effects, hypotension, vaso-dilatation
+- Respiratory effects, respiratory depression, potential airway obstruction, hypoxemia, interaction with opioids
+- Clinical uses, pre-medication, sedation, induction agent, anti-convulsant, antagonized by flumazenil
+
+Extra marks were awarded for an outline of; kinetics of offset including context sensitive half time, metabolism and excretion including CYP 3A4 and accumulation of metabolites, the GABA receptor and alpha sub-unit selectivity, effects on cerebral blood flow, oxygen requirements and the EEG, factors potentiating CVS and respiratory effects, dosages for particular clinical applications and clinically important structure activity. Common errors included; not mentioning MOA, describing MOA as direct activation of GABA receptor, describing NMDA or cyclic AMP effects, frequent citing of very inaccurate kinetic data with no mention of clinical implications and frequent omission of adverse effects.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Benzodiazepines](/content/pharmacopoeia/neuro/benzodiazepines.qmd)

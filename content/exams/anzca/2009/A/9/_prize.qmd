@@ -1,0 +1,116 @@
+#### List:
+
+- Intro
+- Monroe-Kellie doctrine
+- Factors affecting each component
+- Head down: effect and compensation
+- Head up: effect and compensation
+
+#### Introduction: ICP
+
++--------------+----------------------------------------------------------------------------+
+| Definition   | - Force per unit area within the cranial vault                             |
++--------------+----------------------------------------------------------------------------+
+| Normal       | - 5-10mmg in the supine position, measured at the external auditory meatus |
++--------------+----------------------------------------------------------------------------+
+| Determinants | - a\) intracranial volume (fixed)                                          |
+|              | - b\) amount of brain, blood and CSF                                       |
++--------------+----------------------------------------------------------------------------+
+
+#### Monroe-Kellie doctrine:
+
++------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+| Description      | - Cranium has fixed walls and one major outlet                                                                                           |
+|                  | - An increase in one substance must come at the expense of another, otherwise pressure rises rapidly                                     |
++------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+| Elastance curve  | ![](/content/exams/anzca/2009/A/9/prize-image001.jpg){fig-alt="Intracranial pressure against volume of a single intracranial substance"} |
++------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+| Volume buffering | - Venous blood → circulation: rapid response, lower capacity                                                                             |
+|                  | - Arterial blood → circulation: minimal                                                                                                  |
+|                  | - CSF cranial → spinal: slower response, higher capacity                                                                                 |
++------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Volume determinants:
+
++-------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Parenchyma  | - ↑Volume: oedema, tumour, abscess                                                                                                                                                                                                                                                |
+|             | - ↓Volume: atrophy                                                                                                                                                                                                                                                                |
+| (80-85%)    |                                                                                                                                                                                                                                                                                   |
++-------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Cranial CSF | ![](/content/exams/anzca/2009/A/9/prize-image002.jpg){fig-alt="CSF production and reabsorption against CSF pressure"}                                                                                                                                                             |
+|             |                                                                                                                                                                                                                                                                                   |
+| (7-10%)     | *N.B.: a) X axis unit mmCSF not mmHg   b) Y axis zero point not at the X axis*                                                                                                                                                                                                    |
+|             |                                                                                                                                                                                                                                                                                   |
+|             | - ↑Volume: obstruction to circulation, Trendelenburg                                                                                                                                                                                                                              |
+|             | - ↓Volume: CPP \<70mmHg → no production, reverse Trendelenburg                                                                                                                                                                                                                    |
++-------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Blood       | - ↑Volume:                                                                                                                                                                                                                                                                        |
+|             |   - ↑Temp, seizure (↑CMRO~2~ → vasodilatation)                                                                                                                                                                                                                                    |
+| (5-8%)      |   - ↑PaCO~2~ (↑\[H^+^\] in CSF and brain ECF → vasodilatation)                                                                                                                                                                                                                    |
+|             |   - ↓PaO~2~ (vasodilatation)                                                                                                                                                                                                                                                      |
+|             |   - ↑↑mAP?\*                                                                                                                                                                                                                                                                      |
+|             |   - Trendelenburg (↑venous pressure)                                                                                                                                                                                                                                              |
+|             |   - Neck strictures (↑venous pressure)                                                                                                                                                                                                                                            |
+|             | - ↓Volume                                                                                                                                                                                                                                                                         |
+|             |   - ↓Temp                                                                                                                                                                                                                                                                         |
+|             |   - ↓PaCO~2~                                                                                                                                                                                                                                                                      |
+|             |   - ↓↓mAP?\*                                                                                                                                                                                                                                                                      |
+|             |   - Reverse Trendelenburg                                                                                                                                                                                                                                                         |
+|             |                                                                                                                                                                                                                                                                                   |
+|             | ![](/content/exams/anzca/2009/A/9/prize-image003.jpg){fig-alt="Cerebral blood flow against arterial oxygen, carbon dioxide and mean arterial pressure"}![](/content/exams/anzca/2009/A/9/prize-image004.jpg){fig-alt="Cerebral metabolic oxygen consumption against temperature"} |
+|             |                                                                                                                                                                                                                                                                                   |
+|             | (\*The relationship between mAP and CBV is not clear to me)                                                                                                                                                                                                                       |
++-------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Trendelenburg:
+
++----------------+-----------------------------------------------------------------------+
+| Example        | - Gynae laparoscopy                                                   |
+|                | - Say -10mmHg = -13.5cm                                               |
++----------------+-----------------------------------------------------------------------+
+| Direct effect  | - Add 10mmHg hydrostatic pressure                                     |
+|                | - CNS arteries: 100 → 110 mmHg (1.1x normal) → small ↑arterial volume |
+|                | - CNS veins: 2→ 12mmHg (6x normal) → large ↑venous volume             |
++----------------+-----------------------------------------------------------------------+
+| Compensation   | - CSF displaced → ↓CSF volume (compensation)                          |
+|                | - Parenchyma: no change                                               |
++----------------+-----------------------------------------------------------------------+
+| Overall effect | - Mild ↑ICP                                                           |
++----------------+-----------------------------------------------------------------------+
+
+#### Erect:
+
++----------------+-------------------------------------------------------------------------------------------------------------------------------------+
+| Example        | - Shoulder surgery                                                                                                                  |
+|                | - Say +22mmHg = +30cm                                                                                                               |
++----------------+-------------------------------------------------------------------------------------------------------------------------------------+
+| Direct effect  | - CNS arteries: 100 → 78mmHg (0.8x normal) → small ↓ volume                                                                         |
+|                | - CNS veins: 2 → -20mmHg (-10x normal) → large ↓ volume                                                                             |
+|                | - CSF: cranial to spinal → ↓ volume                                                                                                 |
+|                | - Parenchyma: unchanged                                                                                                             |
++----------------+-------------------------------------------------------------------------------------------------------------------------------------+
+| Compensation   | - Myogenic response: ↓mAP → ↓stretch → reflex cerebral vasodilatation → ↑CBV → ↑ICP                                                 |
+|                | - Central ischaemic response: ↓↓mAP → CNS acidosis → ↑SNS output → ↑HR, ↑SVR, ↑mAP (often reflex bradycardia i.e. Cushing response) |
++----------------+-------------------------------------------------------------------------------------------------------------------------------------+
+| Overall effect | - ICP falls from +5mmHg to -10mmHg                                                                                                  |
+|                | - CVP becomes the limiting factor for CPP (Starling resistor)                                                                       |
++----------------+-------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Addit: means of reducing ICP:
+
++-----------------+------------------------------------------------------------------------+
+| Physical        | - Head up 30° (↓CVP)                                                   |
+|                 | - Loosen any neck strictures (↓CVP)                                    |
++-----------------+------------------------------------------------------------------------+
+| Physiological   | - ↑pO~2~ (normalise CBF)                                               |
+|                 | - ↓pCO~2~ (↓CBF                                                        |
+|                 | - ↓Temp (↓CMRO~2~ → ↓CBF) (note doesn’t improve outcomes after TBI)    |
++-----------------+------------------------------------------------------------------------+
+| Pharmacological | - Hypnotics: propofol, thiopentone (↓CMRO~2~)                          |
+|                 | - Anti-epileptics: e.g. levetiracetam (↓CMRO~2~ if seizure)            |
+|                 | - Muscle relaxants: e.g. cisatracurium (↓coughing and Valsalva → ↓CVP) |
+|                 | - Osmotic agents: hypertonic saline, mannitol (↓parenchymal water)     |
++-----------------+------------------------------------------------------------------------+
+| Psurgical       | - External ventricular drain (↓CSF)                                    |
+|                 | - Decompressive craniectomy (note doesn’t improve outcomes after TBI)  |
++-----------------+------------------------------------------------------------------------+

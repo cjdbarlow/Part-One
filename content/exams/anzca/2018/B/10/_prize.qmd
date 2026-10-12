@@ -1,0 +1,70 @@
+#### List:
+
+- Intro: contractility, adrenergic signalling
+- Drug table: class, example, mechanism of action
+
+#### Intro:
+
++-----------------------+---------------------------------------------------------------------------------------------------------------------+
+| Contractility         | - Those factors contributing to cardiac performance independent of preload, afterload and heart rate                |
+|                       | - ∝ ICF \[Ca^2+^\]                                                                                                  |
++-----------------------+---------------------------------------------------------------------------------------------------------------------+
+| Adrenergic signalling | - Adrenaline/noradrenaline binds β~1~ adrenoceptor, a G~s~ G protein coupled receptor (GPCR)                        |
+|                       | - Activation of adenylyl cyclase → ↑cAMP                                                                            |
+|                       | - Activation of PKA → phosphorylation of:                                                                           |
+|                       |   - Myosin: ↑rate at which cross-bridge cycling can occur                                                           |
+|                       |   - Membrane L-Ca^2+^ and sarcoplasmic reticular ryanodine-sensitive Ca^2+^ channel: ↑Ca^2^+ influx upon activation |
+|                       |   - Troponin I and phospholamban: ↑rate of relaxation                                                               |
++-----------------------+---------------------------------------------------------------------------------------------------------------------+
+
+#### Drugs:
+
++------------------------------------+-------------------------------+---------------------------------------------------------------+
+| **Group**                          | **Example**                   | **Effect**                                                    |
++====================================+===============================+===============================================================+
+| Naturally occurring catecholamines | Adrenaline                    | Activate β~1~                                                 |
+|                                    |                               |                                                               |
+|                                    | Noradrenaline                 |                                                               |
+|                                    |                               |                                                               |
+|                                    | Dopamine                      |                                                               |
++------------------------------------+-------------------------------+---------------------------------------------------------------+
+| Synthetic catecholamine            | Isoprenaline                  | Activate β~1~                                                 |
+|                                    |                               |                                                               |
+|                                    | Dobutamine                    |                                                               |
++------------------------------------+-------------------------------+---------------------------------------------------------------+
+| Non-catecholamine β~2~ agonist     | Salbutamol                    | Activate cardiac β~2\ ~(same cascade as cardiac β~1~)         |
+|                                    |                               |                                                               |
+|                                    | Terbutaline                   | More effect on chronotropy and dromotropy than inotropy       |
++------------------------------------+-------------------------------+---------------------------------------------------------------+
+| Indirect β~1~ agonist              | Ephedrine                     | ↑NAd release at adrenoceptors                                 |
+|                                    |                               |                                                               |
+|                                    | Metaraminol                   |                                                               |
++------------------------------------+-------------------------------+---------------------------------------------------------------+
+| PDE~3~ inhibitors                  | Milrinone                     | ↓cAMP breakdown                                               |
+|                                    |                               |                                                               |
+|                                    | Amrinone                      |                                                               |
+|                                    |                               |                                                               |
+|                                    | Aminophylline (non-selective) |                                                               |
++------------------------------------+-------------------------------+---------------------------------------------------------------+
+| Ca^2+^ sensitizer                  | Levosimendan                  | Ca^2+^ sensitization                                          |
+|                                    |                               |                                                               |
+|                                    |                               | Stabilises Ca^2+^/troponin C                                  |
++------------------------------------+-------------------------------+---------------------------------------------------------------+
+| Other                              | Calcium                       | ↑gradient for Ca^2+^ into ICF                                 |
+|                                    +-------------------------------+---------------------------------------------------------------+
+|                                    | Glucagon                      | Glucagon R: G~s~ GPCR → ↑cAMP                                 |
+|                                    +-------------------------------+---------------------------------------------------------------+
+|                                    | Thyroxine                     | Permissive effect on catecholamines                           |
+|                                    +-------------------------------+---------------------------------------------------------------+
+|                                    | Digoxin                       | Inhibit cardiac Na^+^K^+^ATPase                               |
+|                                    |                               |                                                               |
+|                                    |                               | ↑ICF Na^+^                                                    |
+|                                    |                               |                                                               |
+|                                    |                               | ↓Activity Na^+^/Ca^2+^ antiporter (3:1)                       |
+|                                    |                               |                                                               |
+|                                    |                               | ↑ICF \[Ca^2+^\]                                               |
+|                                    +-------------------------------+---------------------------------------------------------------+
+|                                    | Ketamine                      | ↑SNS output from medulla → ↑adrenaline, noradrenaline release |
+|                                    |                               |                                                               |
+|                                    |                               | But direct effect neg inotropy (R-ketamine)                   |
++------------------------------------+-------------------------------+---------------------------------------------------------------+

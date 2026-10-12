@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015A Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the relative advantages and disadvantages of using morphine versus fentanyl for post-operative Patient Controlled Analgesia (PCA).
+:::
+
+Also asked in: [2011B Question 6](/content/exams/anzca/2011/B/6/index.qmd#examiner-comments), [2016A Question 5](/content/exams/anzca/2016/A/5/index.qmd#examiner-comments), [2021B Question 9](/content/exams/anzca/2021/B/9/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} relative advantages and disadvantages in terms of safe, effective patient controlled analgesia. Compare onset, peak effect, duration and metabolites, then explain how these differences interact with dose, lockout interval and continuing analgesic requirements.
+
+::: {.structure-table}
+| Feature | Morphine | Fentanyl | Clinical Implication |
+|---|---|---|---|
+| Onset and Time to Peak Effect | | | |
+| Duration and Repeated Dosing | | | |
+| Dose and Lockout Interval | | | |
+| Metabolites and Renal Function | | | |
+| Adverse Effects and Clinical Implications | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**19.7 %** of candidates achieved a pass in this question
+
+A brief statement describing the intention of patient controlled analgesia (PCA) to provide effective and safe analgesia in the perioperative pain period provided a good point from which to discuss of the relative advantages and disadvantages of morphine compared with fentanyl for this purpose. Factual listing of the opioids’ chemical classifications, presentation, bioavailability, mode of action and potency did not answer the question and did not score marks. Descriptions of alternative opioids or routes of administration did not contribute to marks. When mentioned, differences in cost, patient preference, possible drug error or substance abuse were often overstated. Lists of pharmaceutical, pharmacokinetic and pharmacodynamic differences between fentanyl and morphine did not result in a pass mark unless accompanied by discussion of how onset of effect, time to peak effect, duration of action and active metabolites might influence the ability to deliver safe and effective perioperative analgesia.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2011/B/6/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2011/B/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Opioids](/content/pharmacopoeia/analgesics/opioids.qmd)
+- [Opioid pharmacology](/content/pharmacopoeia/analgesics/opioidspharm.qmd)

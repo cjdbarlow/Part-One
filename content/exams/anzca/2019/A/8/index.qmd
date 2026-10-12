@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019A Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+20mls of 1% ropivacaine is inadvertently administered intravenously over 15 seconds to a 60 year old, 60kg woman. [**Describe**]{.task-verb} the potential complications and mechanisms of this. Do not discuss treatment.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the consequences of this rapid intravenous dose and explain the cellular mechanisms. Link exposure to central nervous system, cardiac and vascular effects, keeping treatment outside the structure.
+
+::: {.structure-headings}
+### Dose, Route and Immediate Exposure
+
+### Cellular Mechanism of Ropivacaine
+
+### Central Nervous System Complications
+
+### Cardiac Conduction, Rhythm and Contractility
+
+### Vascular Effects and Cardiovascular Collapse
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**60.2%** of candidates achieved a pass in this question
+
+To score a pass in this question candidates needed to recognise that what has occurred represents a significant overdose, that it is life threatening, to list the likely clinical symptoms, and explain their mechanisms both within the organ systems involved and within the excitable cells on which ropivacaine acts.
+
+It was very commonly stated that the maximum safe dose was 3mg/kg and this this dose of 200mg in a 60kg woman exceeded this dose by 20mg and would therefore cause toxicity. This is a fundamental misunderstanding as this “maximum” of 3mg/kg would not apply to direct intravenous injection, which would cause the heart and CNS to be exposed within one arm-brain time to a plasma concentration of ropivacaine far beyond that required to cause life threatening side effects.
+
+The CNS effects were generally well described but within the cardiovascular system many candidates simply stated that arrhythmias and cardiovascular collapse would occur without providing an adequate description of the full range of cardiovascular effects. The mechanism by which ropivacaine causes these several effects on the heart and circulation were poorly understood. A common deficit among the lower scoring answers was a lack of sufficient detail in regard to the molecular mechanism of toxicity of local anaesthetics.
+
+Many candidates with an obvious appreciation of the severity of the situation did not discuss the mechanisms (including the cellular mechanism) of ropivacaine action and therefore lost marks that were likely within their grasp. Furthermore, some wasted time with discussion of treatment, which the question explicitly stated should not be discussed.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2019/A/8/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2019/A/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Local anaesthetic principles and toxicity](/content/pharmacopoeia/neuro/local_anaesthetic_principles.qmd)

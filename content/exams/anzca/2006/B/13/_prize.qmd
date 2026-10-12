@@ -1,0 +1,62 @@
+#### List:
+
+- Definitions
+- Membrane structures
+- Contractile structures
+- Other intracellular structures
+
+#### Definitions:
+
+- Muscle = entire structure
+- Myocyte = muscle fibre = single cell, 10-100 micrometres diameter
+- Myofibril = bunch of contractile elements, many in each myocyte
+- Myofilament = individual contractile protein
+
+#### Membrane structures:
+
++------------------------+---------------------------------------------------------------------------------------------------+
+| Neuromuscular junction | - Link between somatic nervous system and skeletal muscle                                         |
+|                        | - Single interface allows co-ordinated activity                                                   |
+|                        | - Junctional nAChR: for rapid depolarisation (millions of ACh molecules and receptors)            |
+|                        | - Peri- and extra-junctional VDNaC: to start and propagate action potential                       |
++------------------------+---------------------------------------------------------------------------------------------------+
+| Sarcolemma             | - Lipid bilayer                                                                                   |
+|                        | - Invaginations (T tubules) extend towards sarcoplasmic reticulum, ensure synchronous contraction |
+|                        | - Abundant ion channels, especially VDNaC, VDKC, Na^+^K^+^ATPase, ensure synchronous contraction  |
++------------------------+---------------------------------------------------------------------------------------------------+
+
+#### Contractile structures:
+
++------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| Components | - Actin = thin filament                                                                                                              |
+|            | - Myosin = thick filament, has contractile heads                                                                                     |
+|            | - Tropomyosin = fits in groove between actin monomers, prevents interaction with actin                                               |
+|            | - Troponin: controls tropomyosin, responds to change in ICF \[Ca^2+^\]\                                                              |
+|            |   (every seven actin monomers)                                                                                                       |
+|            |                                                                                                                                      |
+|            | ![](/content/exams/anzca/2006/B/13/prize-image001.jpg){fig-alt="Actin, tropomyosin and troponin arrangement"}                        |
++------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| Sarcomere  | ![](/content/exams/anzca/2006/B/13/prize-image002.jpg){fig-alt="Sarcomere showing Z lines and the relationship of actin and myosin"} |
+|            |                                                                                                                                      |
+|            | - Parallel relationship means additive force production in a single direction                                                        |
++------------+--------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Other intracellular structures:
+
++------------------------+----------------------------------------------------------------------+
+| Nuclei                 | - Multiple due to fusion of myoblasts                                |
++------------------------+----------------------------------------------------------------------+
+| Mitochondria           | - For aerobic metabolism                                             |
+|                        | - More abundant in slow twitch oxidative                             |
++------------------------+----------------------------------------------------------------------+
+| Sarcoplasmic reticulum | - Analogous to the smooth endoplasmic reticulum                      |
+|                        | - Calcium reservoir                                                  |
+|                        | - Ion channels = ryanodine channel                                   |
+|                        | - Allows rapid change in ICF \[Ca^2+^\] to start and end contraction |
++------------------------+----------------------------------------------------------------------+
+| Glycolytic enzymes     | - For anaerobic metabolism and start of aerobic ATP production       |
++------------------------+----------------------------------------------------------------------+
+| Myoglobin              | - Binds oxygen with very high affinity (p50 2.8mmHg)                 |
+|                        | - Preserves concentration gradient in peak exercise                  |
+|                        | - More abundant in slow twitch fibres                                |
++------------------------+----------------------------------------------------------------------+

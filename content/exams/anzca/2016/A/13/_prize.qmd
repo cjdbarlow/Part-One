@@ -1,0 +1,85 @@
+#### List:
+
+- Intro: chronic pain
+- Peripheral sensitization
+- Dorsal horn sensitization
+- Higher processing
+
+#### Intro: chronic pain
+
++--------------+-----------------------------------------------------------------------------------------+
+| Definition   | - Chronic pain: \> 3 months                                                             |
+|              | - Initial insult resolved                                                               |
++--------------+-----------------------------------------------------------------------------------------+
+| Features     | - Hyperalgaesia: hurts more than should                                                 |
+|              | - Allodynia: hurts when shouldn’t                                                       |
+|              | - Neuropathic pain: hurts due to nerve damage                                           |
+|              | - Phantom pain: hurts after body part removed                                           |
++--------------+-----------------------------------------------------------------------------------------+
+| Risk factors | - Surgical: nerve injury e.g. amputation, breast, thoracotomy → ↑dorsal horn activation |
+|              | - Patient: depression, psychosocial stressors → altered cortical processing             |
+|              | - Pain character: neuropathic, phantom → ↑dorsal horn activation                        |
++--------------+-----------------------------------------------------------------------------------------+
+
+#### Peripheral sensitization:
+
++----------------------------+----------------------------------------------------------+
+| Inflammation → nociception | - Inflamed tissue and WBC release NGF, neurturin etc     |
+|                            | - ↑nociceptive receptor activation and expression        |
++----------------------------+----------------------------------------------------------+
+| Nociception → inflammation | - Nociceptor releases substance P, VIP etc               |
+|                            | - Mast cell degranulation                                |
+|                            | - Vasodilatation, capillary leak                         |
+|                            | - WBC chemotaxis, differentiation                        |
+|                            | - \*note vicious cycle\*                                 |
++----------------------------+----------------------------------------------------------+
+| Nerve injury → nociception | - Spontaneous abnormal discharge → neuropathic pain      |
+|                            | - ? Altered receptor function                            |
++----------------------------+----------------------------------------------------------+
+| Prevention                 | - Anti-inflammation: NSAID                               |
+|                            | - Inhibit bradykinin-sensitive nociceptors: paracetamol  |
+|                            |                                                          |
+|                            | (both less effective in chronic pain)                    |
+|                            |                                                          |
+|                            | - Nerve injury: no effective peripheral agent exists yet |
++----------------------------+----------------------------------------------------------+
+
+#### Dorsal horn sensitization:
+
++----------------------------------------+---------------------------------------------------------------------------------------------+
+| Gain of function WDR neurons           | - Inflamed tissue, injured nerve → ↑ NMDA activation                                        |
+|                                        | - Brief: ↑receptor irritability → “wind-up”                                                 |
+|                                        | - Persistent: synaptic reinforcement → “long term potentiation”                             |
+|                                        | - Mechanism: NMDA → 2^nd^ messenger and altered gene expression                             |
+|                                        |   - Early: ↑c-Fos, COX-2                                                                    |
+|                                        |   - Late: ↑NK1, TrkB                                                                        |
++----------------------------------------+---------------------------------------------------------------------------------------------+
+| Gain of function of excitatory neurons | - Inhibition of VDKC → ↑excitability                                                        |
++----------------------------------------+---------------------------------------------------------------------------------------------+
+| Loss of function of inhibitory neurons | - (Don’t know the cause)                                                                    |
++----------------------------------------+---------------------------------------------------------------------------------------------+
+| Abnormal new connections               | - e.g. Aβ 1° afferents → nociceptive specific 2° afferents                                  |
+|                                        | - Touch becomes painful                                                                     |
++----------------------------------------+---------------------------------------------------------------------------------------------+
+| Effects on chronic pain                | - Hyperalgaesia                                                                             |
+|                                        | - Allodynia                                                                                 |
+|                                        | - Expansion of receptive field                                                              |
++----------------------------------------+---------------------------------------------------------------------------------------------+
+| Prevention                             | - Regional anaesthetic: inhibit pre-synaptic VDNaC                                          |
+|                                        | - Neuraxial anaesthetic: inhibit VDNaC at dorsal horn, spinal nerve root (very effective)   |
+|                                        | - Monoamine reuptake inhibitors: ↓pre-synaptic activity                                     |
+|                                        | - NMDA antagonists: ↓ post-synaptic activity, sensitisation, reinforcement (very effective) |
+|                                        | - Antagonists at pre-synaptic VdCC α2δ subunit: ↓pre-synaptic activity                      |
+|                                        | - Opioids: inhibit 1° afferent (less effective for chronic pain)                            |
++----------------------------------------+---------------------------------------------------------------------------------------------+
+
+#### Higher processing:
+
++-----------------+---------------------------------------------------------------------------+
+| Thalamus        | - ↑Production of CCL21 → ↑PGE~2~ production by microglia → sensitisation\ |
+|                 |   → hyperalgaesia, allodyania                                             |
++-----------------+---------------------------------------------------------------------------+
+| Cerebral cortex | - Psychiatric illness increases risk of chronic pain                      |
+|                 | - Mechanism poorly understood                                             |
+|                 | - Anti-depressants may help (e.g. SSRI – fluoxetine)                      |
++-----------------+---------------------------------------------------------------------------+

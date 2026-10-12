@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2021B Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the pharmacology of dexmedetomidine.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} pharmaceutics, pharmacokinetics and pharmacodynamics, linking receptor sites to clinical effects. Explain the dose and time dependence of cardiovascular responses alongside sedation, analgesia and adverse effects.
+
+::: {.structure-headings}
+### Classification and Formulation
+
+### Administration and Time Course
+
+### Distribution, Metabolism and Elimination
+
+### Receptors and Sites of Action
+
+### Central Nervous System Effects
+
+### Cardiovascular Effects and Adverse Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+No examiner report was supplied for this sitting.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2021/B/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Dexmedetomidine](/content/pharmacopoeia/neuro/dexmedetomidine.qmd)

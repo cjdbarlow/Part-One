@@ -1,0 +1,71 @@
+#### List:
+
+- Thermoneutral zone
+- If ambient temp exceeds thermoneutral zone
+- Heat loss effectors in detail
+
+#### Thermoneutral zone:
+
++------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Definition | - Range of environmental temperatures over which the metabolic cost of thermoreg is minimal and is effected by alteration in skin blood flow alone.                   |
++------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Range      | - Clothed adult 18-22°C                                                                                                                                               |
+|            | - Naked adult 25-30°C                                                                                                                                                 |
+|            | - Neonates 32-34°C                                                                                                                                                    |
+|            | - Premature neonate even higher                                                                                                                                       |
++------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Diagramme  | ![](/content/exams/anzca/2008/A/10/prize-image001.jpg){fig-alt="Metabolic rate and heat loss mechanisms against ambient temperature, showing the thermoneutral zone"} |
++------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Purpose    | - Core temperature must stay \~37°C                                                                                                                                   |
+|            | - Preserves function of enzymes, ion channels etc                                                                                                                     |
+|            | - Heat loss must equal heat gain (except in short term)                                                                                                               |
++------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### If ambient temperature exceeds thermoneutral zone:
+
++------------+------------------------------------------------------------------+
+| Sensors    | - Ambient temp: skin                                             |
+|            |   - Warm receptors: Ruffini endings via C fibres (active \>30°C) |
+|            |   - Cold receptors: Krause bulbs via Aδ fibres (active \<25°C)   |
+|            | - (Core temp: spinal cord, deep thorax and abdomen)              |
+|            | - Afferents via spinothalamic tracts                             |
++------------+------------------------------------------------------------------+
+| Integrator | - Hypothalamus: anterior and pre-optic areas                     |
++------------+------------------------------------------------------------------+
+| Effectors  | - Responses: (see below)                                         |
+|            |   - Behavioural                                                  |
+|            |   - Autonomic                                                    |
+|            | - Mechanisms of heat loss:                                       |
+|            |   - Radiation 40% ∝ (T~1~)^4^ - (T~2~)^4^  (T in Kelvin)         |
+|            |   - Convection 30% ∝ (T~1~-~2~)                                  |
+|            |   - Evaporation 15% (no gradient required)                       |
+|            |   - Respiration 10%                                              |
+|            |   - Conduction 5% ∝ (T~1~-~2~)                                   |
++------------+------------------------------------------------------------------+
+
+#### Heat loss effectors in detail:
+
++----------------+----------------------------------------------------------------------------+
+| Behavioural    | - Rest (↓heat production)                                                  |
+|                | - Hide from sun (↓radiation gain)                                          |
+|                | - Take off clothes (↑convection)                                           |
+|                | - Pant (↑evaporation) – unimportant in man                                 |
+|                | - Lie on a cold surface (↑conduction)                                      |
++----------------+----------------------------------------------------------------------------+
+| Vasodilatation | - i.e. cutaneous arteries, veins, A-V anastomoses, precapillary sphincters |
+|                | - ↓SNS α~1~ activation, ? ↑SNS mAChR activation                            |
+|                | - ↑skin blood flow up to 30x                                               |
+|                | - ↑skin blood volume in cutaneous venous plexuses                          |
+|                | - ↑skin temp                                                               |
+|                | - ↑temp gradient between skin and surrounds                                |
+|                | - ↑radiation, conduction, convection                                       |
+|                | - Only effective if core temp \> ambient temp                              |
++----------------+----------------------------------------------------------------------------+
+| Sweating       | - ↑SNS muscarinic activation                                               |
+|                | - Secretion of water and solute onto skin                                  |
+|                | - Evaporation up to 2L/h                                                   |
+|                | - Latent heat 2.24MJ/kg                                                    |
+|                | - i.e. very effective                                                      |
+|                | - Less effective if high relative humidity                                 |
+|                | - Still effective when ambient temp \> core temp                           |
++----------------+----------------------------------------------------------------------------+

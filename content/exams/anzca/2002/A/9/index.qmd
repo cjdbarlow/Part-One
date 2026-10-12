@@ -1,0 +1,87 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002A Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the toxicity of local anaesthetics.
+:::
+
+Also asked in: [1999B Question 11](/content/exams/anzca/1999/B/11/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} toxicity by separating determinants of systemic exposure from the resulting CNS and cardiovascular effects, then cover local and agent-specific toxicity.
+
+::: {.structure-headings}
+### Dose, Blood Concentration and Susceptibility
+
+### CNS Toxicity
+
+### Cardiovascular Toxicity and Safety Margins
+
+### Local Toxicity
+
+### Other and Agent-Specific Toxicity
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**57%** of candidates passed this question
+
+Toxicity is defined as the deleterious side effects of a drug. Toxicity may be reversible or irreversible and is usually dose related over a range. It may be systemic or local. The main points expected in the answer were:
+
+- Local anaesthetics vary in their toxicity, toxicity correlates with intrinsic potency.
+- Systemic toxicity relates to the blood level of local anaesthetic.
+- Blood levels depend on site, dose and rate administered and other factors such as metabolism.
+- A description of the sequence of events that occurs with increasing blood levels, the CC:CNS ratio.
+- Specific examples including a brief discussion of the mechanism of toxicity eg. bupivacaine, cocaine.
+
+Other information that was rewarded included a discussion of factors that predispose to toxicity, maximum dosages, local toxicity and anaphylaxis. A common error was to imply that toxicity was the same for all local anaesthetics, eg, 'arrhythmias caused by local anaesthetics are difficult to treat'. Serum levels were sometimes listed without reference to a particular agent. Cousins and Bridenbaugh’s “Neural blockade in clinical anaesthesia and pain management” is an excellent reference for this topic.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/B/11/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Local anaesthetic principles](/content/pharmacopoeia/neuro/local_anaesthetic_principles.qmd)
+- [Local anaesthetic drugs](/content/pharmacopoeia/neuro/local_anaesthetics.qmd)

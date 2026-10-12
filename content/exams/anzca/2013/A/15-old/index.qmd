@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013A Question 15 (old) {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the peripheral and central nervous system pathways that lead to the perception of pain following a laceration to the thumb.
+:::
+
+Also asked in: [2021A Question 5](/content/exams/anzca/2021/A/5/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the pathway from transduction in the thumb through peripheral afferents, spinal processing and ascending pathways to cortical perception. Use a labelled pathway diagram and include emotional, autonomic and descending modulatory components.
+
+::: {.structure-headings}
+### Nociceptors and Transduction
+
+### Peripheral Afferents and Spinal Entry
+
+### Dorsal Horn Synapses and Processing
+
+### Ascending and Supraspinal Pathways
+
+### Cortical, Emotional and Autonomic Processing
+
+### Descending Modulation
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Old Exam: **40%** of candidates achieved a pass in this question
+
+It was possible to achieve almost full marks for this question with a simple well labelled diagram. Those candidates who did not perform well in this question invariably did so as a result of not imparting basic facts. This topic is well covered in the physiology textbooks on the reading list, and as such a model answer will not be repeated here.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/A/15-old/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/A/15-old/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Pain](/content/neuro/pain.qmd)

@@ -1,0 +1,87 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2020B Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the physiological mechanisms by which the renal collecting duct is able to produce both dilute and concentrated urine.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} both outcomes by starting with hypotonic fluid delivered to the collecting duct. Explain medullary tonicity and its preservation, then contrast water permeability and urea handling with and without ADH and describe the control of ADH release.
+
+::: {.structure-headings}
+### Formation and Delivery of Hypotonic Filtrate
+
+### Medullary Tonicity and Its Preservation
+
+### ADH Release and Control
+
+### Collecting Duct Permeability and Concentrated Urine
+
+### Low ADH and Dilute Urine
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The major domains assessed in this question were:
+
+- the mechanisms that result in presentation of a hypotonic filtrate to the collecting duct
+- the role of antidiuretic hormone (ADH) in the collecting duct, including control mechanisms
+- the role of medullary tonicity in the movement of water
+
+Credit was given for other relevant correct material. The most common problem was not considering the mechanisms involved in the two scenarios posed by the question – production of both a dilute and concentrated urine. Other problems encountered included:
+
+- focussing on the formation and maintenance of the medullary solute gradient without relating it to the question
+- not understanding the role of ADH as the dominant mechanism for control of water movement in the collecting duct
+- not understanding how the production of ADH is controlled
+- the majority of diagrams did not add to the written answer
+
+Candidates who scored well addressed the 3 major domains being assessed and related each back to their role in formation of dilute and concentrated urine by the collecting duct.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2020/B/4/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2020/B/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Renal sodium and water handling](/content/renal/sodium.qmd)

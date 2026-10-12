@@ -1,0 +1,85 @@
+#### List:
+
+- Graphs: CMRO~2~, CBF, anaesthesia
+- EEG effects
+- CSF circulation effects
+
+#### Metabolism and haemodynamics:
+
++------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| CBF vs CMRO~2~   | - Dose-dependent vasodilatation (↓L-Ca^2+^ activity, ↑NO activity)                                                                                                      |
+|                  | - Coupling of CBF and CMRO~2~ impaired (not ablated)                                                                                                                    |
+|                  |                                                                                                                                                                         |
+|                  | ![](/content/exams/anzca/2004/A/1/prize-image001.jpg){fig-alt="Cerebral blood flow against cerebral oxygen consumption when awake and at 1 and 2 MAC"}                  |
+|                  |                                                                                                                                                                         |
+|                  | - *Slope* ∝ *dose → greater effect at high dose*                                                                                                                        |
++------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| CMRO~2~ vs MAC   | - Dose-dependent reduction in electrophysiological function (60% of total)                                                                                              |
+|                  | - No effect on basal function (40% of total) – only reduced by hypothermia                                                                                              |
+|                  |                                                                                                                                                                         |
+|                  | ![](/content/exams/anzca/2004/A/1/prize-image002.jpg){fig-alt="Cerebral oxygen consumption against isoflurane concentration, separating electrical and basal function"} |
+|                  |                                                                                                                                                                         |
+|                  | - *Exponential decay → greater effect at low dose*                                                                                                                      |
++------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| CBF vs MAC\*\*\* | - At low concentration: indirect vasoconstriction (via ↓CMRO~2~) wins                                                                                                   |
+|                  | - At high concentration: direct vasodilatation wins                                                                                                                     |
+|                  |                                                                                                                                                                         |
+|                  | ![](/content/exams/anzca/2004/A/1/prize-image003.jpg){fig-alt="Cerebral blood flow against isoflurane concentration"}                                                   |
++------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Other            | - Luxury perfusion: due to ↓CMRO~2~ but ↑CBF                                                                                                                            |
+|                  | - Hypoventilation: ↑PaCO~2~ may cause further vasodilatation (if spont vent)                                                                                            |
++------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### EEG effects:
+
++---------+---------------------------------------------------------------------------+
+| Changes | - ↑Amplitude                                                              |
+|         |   - Due to relative synchronization → summation                           |
+|         | - ↓Frequency:                                                             |
+|         |   - β (12-30Hz) → α (8-12Hz)→ θ (4-8Hz)→ δ (0-4Hz)                        |
+|         |   - Burst suppression at \~1.5MAC                                         |
+|         |   - Electrical silence at \~2 MAC                                         |
+|         |   - Ablation of seizures                                                  |
+|         |   - ↓BIS and entropy scores                                               |
+|         | - Guedel’s stage 2: opposite changes                                      |
+|         |   - ↑Frequency, ↓Amplitude                                                |
++---------+---------------------------------------------------------------------------+
+| Causes  | - ↓Activity of ascending reticular activating system (ARAS)               |
+|         | - Disinhibition of thalamic pacemaker cells → rhythmic discharge          |
+|         | - Shift from complex and quasi chaotic to simple and predictable activity |
+|         | - Summation of identical waveforms results in increased amplitude         |
++---------+---------------------------------------------------------------------------+
+
+#### CSF effect:
+
++---------------+-----------------------------------------------------------------------------------------------------------------------------------+
+| ↓Production   | - If mAP \<70mmHg                                                                                                                 |
++---------------+-----------------------------------------------------------------------------------------------------------------------------------+
+| ↑Reabsorption | - If ↑CBF → ↑ICP                                                                                                                  |
++---------------+-----------------------------------------------------------------------------------------------------------------------------------+
+|               | ![](/content/exams/anzca/2004/A/1/prize-image004.jpg){fig-alt="Cerebrospinal fluid production and reabsorption against pressure"} |
+|               |                                                                                                                                   |
+|               | Note: X axis unit mmCSF not mmHg                                                                                                  |
+|               |                                                                                                                                   |
+|               | Note: Y axis zero point not at the X axis                                                                                         |
++---------------+-----------------------------------------------------------------------------------------------------------------------------------+
+
+Addendum\*\*\*
+
+- This graph is from Miller’s Anesthesia, Chapter 11
+- The data are from Anesthesiology (<https://pubmed.ncbi.nlm.nih.gov/3740503/>)
+- At 0.5 MAC, mean values for local blood flow were reduced in every grey matter tissue
+- However, none of the individual changes was statistically significant due to a large standard deviation
+- My personal opinion is:
+  - It is unlikely that a universal decrement in mean blood flow between 0 MAC and 0.5 MAC was due to chance
+  - Statistical significance would have been reached had sample sizes been larger
+  - These findings are consistent with the curves for CBF vs CMRO~2~ and CMRO~2~ vs MAC
+- The alternative opinion is:
+  - There is no evidence for significant change in CBF between 0 MAC and 1 MAC
+  - In this range, the indirect vasoconstriction (via ↓CMRO~2~) and the direct vasodilation roughly cancel each other out
+  - This is consistent with the leftward/upward shift in the CBF vs mAP curve that occurs with any concentration of volatile anaesthetic
+  - See the Eger-Stoelting version below:
+
+![](/content/exams/anzca/2004/A/1/prize-image005.png){fig-alt="Cerebral blood flow against MAC for halothane, enflurane and isoflurane"}
+
+Special thanks to Dr. Stan Tay for his insights.

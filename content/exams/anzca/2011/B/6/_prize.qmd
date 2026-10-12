@@ -1,0 +1,105 @@
+#### List:
+
+- Summary
+- PCA principles
+- PC
+- PK
+- PD
+
+#### Summary:
+
+                          **Morphine**             **Fentanyl**
+  ----------------------- ------------------------ ------------------------------
+  Settings                1mg q5min                20mcg q5min
+  Onset                   Slower                   Faster
+  Offset                  Slower                   Faster
+  Intra-op loading dose   Not needed               Needed
+  Side effects            More                     Less
+  Suitable patient        Young, large, athletic   Older, OSA, risk of sedation
+
+#### PCA principles:
+
++------------+-----------------------------------------------------+
+| Definition | - User controlled, locked, IV analgesic pump        |
+|            | - Usually opioid                                    |
++------------+-----------------------------------------------------+
+| Indication | - High opioid requirement                           |
+|            | - Unreliable gut function                           |
+|            | - Risk of overdose (OSA, OHS, severe COPD, sedated) |
++------------+-----------------------------------------------------+
+| Toxicity   | - Respiratory depression                            |
+|            | - Sedation                                          |
+|            | - Airway obstruction                                |
+|            | - Death                                             |
++------------+-----------------------------------------------------+
+
+#### Pharmaceutics:
+
+- Both stable in solution
+- Both unlikely to precipitate with other drugs
+
+#### Pharmacokinetics:
+
+**Time course:**
+
++---------------------+---------------------------------+--------------+
+| **Parameter**       | **Morphine**                    | **Fentanyl** |
++=====================+=================================+==============+
+| Time to peak effect | Peak effect: \~20 mins\*        | 4 mins       |
+|                     |                                 |              |
+|                     | Peak concentration: \~100mins\* |              |
++---------------------+---------------------------------+--------------+
+| Bolus duration      | 300 mins                        | 5-20 mins    |
++---------------------+---------------------------------+--------------+
+
+*→Morphine provides longer-lasting pain relief, but dose stacking may occur\
+→Fentanyl is better suited to q5min protocol*
+
+\*Both these figures are taken from Evers/Maze/Kharasch. I think once the effect site concentration rises to 90% of its maximum, the patient will report peak analgesia. But in truth the concentration keeps rising to a small degree from t=19 to t=100.
+
+**Distribution:**
+
+  **Parameter**             **Morphine**   **Fentanyl**
+  ------------------------- -------------- --------------
+  Lipid solubility          1x             600x
+  pKa                       8              8.4
+  \% unionized              23%            9%
+  t~1/2ke0~                 264 min        4 min
+  \% plasma protein bound   35%            83%
+  VD (L/kg)                 3.5            4
+
+**Elimination:**
+
++--------------------+-------------------------------+-------------------------+
+| **Parameter**      | **Morphine**                  | **Fentanyl**            |
++====================+===============================+=========================+
+| Speed              | 16                            | 13                      |
+|                    |                               |                         |
+| - Cl (mL/kg/min)   | 170                           | 210                     |
+| - t~1/2b~ (mins)   |                               |                         |
+| - Extraction ratio | 0.76                          | 0.8                     |
++--------------------+-------------------------------+-------------------------+
+| Metabolism         | Liver: phase 2\>1             | Liver: phase 1\>2       |
+|                    |                               |                         |
+|                    | (Glucuronidation)             | (CYP3A4)                |
++--------------------+-------------------------------+-------------------------+
+| Metabolites        | M6G analgesic                 | Inactive                |
+|                    |                               |                         |
+|                    | M3G neurotoxic                |                         |
++--------------------+-------------------------------+-------------------------+
+| Excretion          | Renal: parent and metabolites | Renal: metabolites only |
++--------------------+-------------------------------+-------------------------+
+
+*→Similar offset time after saturation*
+
+*→Fentanyl safer in renal failure ± liver failure*
+
+#### Pharmacodynamics:
+
+  **Parameter**       **Morphine**   **Fentanyl**
+  ------------------- -------------- ------------------
+  Receptors M/K/D     3:1:1          3:1:0
+  PONV                ↑              ↓
+  Histamine release   ↑              ↓
+  Confusion           ↑              ↓
+  Abuse potential     ↓              ↑ (faster onset)

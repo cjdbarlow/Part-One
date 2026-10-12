@@ -1,0 +1,68 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010B Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the effects on intracranial pressure when a person is placed in a head down tilt.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} **Intracranial Pressure and the Monro–Kellie Principle**, **Hydrostatic Effects of Head-Down Tilt**, and **Compensation**. Relate the changes in blood, CSF and tissue components to intracranial pressure using labelled graphs where useful.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**39%** of candidates passed this question.
+
+A good answer would have included a definition of intracranial pressure and it’s regulation, including an accurate (not abridged) summary of the Monroe-Kellie doctrine, then would have gone on to describe the effects of head down tilt, ie the increase in hydrostatic pressure on the three elements within the fixed cranial vault, ie: blood volume( both arterial and venous components), cerebrospinal fluid and brain tissue, and finally described the ability to compensate for the increase. Some quantification of the degree of increase in hydrostatic pressure rise vs. degree of head down tilt was useful.
+
+Unfortunately a number of candidates confused cerebral perfusion pressure with cerebral blood flow in their explanations, therefore reproducing erroneous equations. Graphical representation of concepts were useful to demonstrate knowledge when labelled correctly and included in the discussion. If axis were unlabelled they gained no marks.
+
+The effects of general anaesthetic agents on the three components that generate intracranial pressure was not asked for in the question and gained no marks in a physiology question.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Intracranial Pressure](/content/neuro/icp.qmd)

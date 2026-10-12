@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016A Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the physiological role of prostaglandins on smooth muscle throughout the body.
+:::
+
+Also asked in: [2018B Question 15](/content/exams/anzca/2018/B/15/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} effects by smooth muscle group, naming the prostaglandin and the direction of response. Introduce local signalling and receptor diversity to explain opposing effects between mediators and tissues.
+
+::: {.structure-headings}
+### Synthesis and Local Signalling
+
+### Vascular and Renovascular Smooth Muscle
+
+### Pulmonary Vessels and Airways
+
+### Gastrointestinal Smooth Muscle
+
+### Uterine and Urinary Smooth Muscle
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**35%** of candidates achieved a pass in this question
+
+In this question, candidates were expected to define prostaglandins and to highlight the diversity of different derivatives produced. There are a number of smooth muscle groups that are of interest in this question. These include the vascular smooth muscle, pulmonary vasculature, bronchi, gastrointestinal tract and those in the genitourinary systems, especially the uterus and the urinary bladder. It should be noted that different prostaglandins may produce opposing effects. For instance, PGI2 is a vasodilator, but TxA2 contracts vascular smooth muscle. Similarly, the same prostaglandin may produce different effects in different tissues (e.g. PGI2 contracts sphincters in the gastrointestinal tract, but relaxes the vascular smooth muscle). Therefore, candidates should be specific in their answers by stating the prostaglandin and the muscle group involved.
+
+Many candidates included irrelevant details, such as nociceptive effect, inflammatory function and gastric acid secretion as part of their answer. It was also noted that a substantial number of candidates did not attempt the question or wrote very minimally on the question, and may represent a problem of time management.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2016/A/14/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2016/A/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Eicosanoids](/content/endo/prostaglandins.qmd)

@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011B Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the physiological roles of prostaglandins in the body.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} physiological roles by system. Briefly establish their local synthesis and signalling, then distinguish the actions of individual prostaglandins in homeostasis, inflammation, pain and temperature regulation.
+
+::: {.structure-headings}
+### Synthesis and Local Signalling
+
+### Inflammation, Pain and Pyrexia
+
+### Cardiovascular and Haematological Roles
+
+### Renal and Respiratory Roles
+
+### Gastrointestinal and Reproductive Roles
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**25.6%** of candidates passed this question.
+
+This question was answered very poorly, which was surprising as it a recycled question that has been asked relatively recently Many candidates scored poorly by answering it as a Pharmacology question – The insertion of prostaglandin pessaries and the use of intravenous prostaglandins for neonatal Duct closure have no place in a Physiology answer… Other common errors were a very “narrow” answer – particularly focusing on one system (commonly renal) Candidates who scored well wrote legibly, had a well-laid out/ presented answer and used a system-based approach
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2011/B/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Prostaglandins](/content/endo/prostaglandins.qmd)

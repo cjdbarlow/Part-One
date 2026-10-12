@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015A Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} factors influencing the recovery and reversal of neuromuscular blockade induced by rocuronium.
+:::
+
+Also asked in: [2012A Question 4](/content/exams/anzca/2012/A/4/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} recovery through drug concentration at the junction, kinetic handling and pharmacodynamic sensitivity. Explain the direction and mechanism of modifying factors, then link reversal agents and doses to the depth of blockade.
+
+::: {.structure-headings}
+### Dose and Time Since Administration
+
+### Distribution and Clearance
+
+### Drug Interactions at the Junction
+
+### Physiological States and Neuromuscular Disease
+
+### Anticholinesterase and Sugammadex Reversal
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**34.8 %** of candidates achieved a pass in this question
+
+Most candidates were able to highlight drug interactions at the level of neuromuscular junction. Specifically, candidates were expected to describe the effects of volatile anesthetics, magnesium, calcium channel antagonists and aminoglycosides on the release and response of acetylcholine at the neuromuscular junction. A good answer needed to include the mechanism, direction and magnitude of effects. In addition, the dose of rocuronium given and the duration since last dose administered would have major effect on the recovery and reversal of rocuronium-induced neuromuscular block. Candidates should also mention the effects of anticholinesterase and use of γ-cyclodextrin.
+
+Majority of candidates provided details on the general pharmacology of rocuronium. This is unnecessary and inevitably reduced the time that was available to score points that are essential to this question.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2012/A/4/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neuromuscular blockers](/content/msk/neuromuscular_blockers.qmd)
+- [Neuromuscular monitoring](/content/equipment/neuromuscular_monitoring.qmd)

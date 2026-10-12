@@ -1,0 +1,69 @@
+#### List:
+
+- CVS
+- Resp
+- Other
+
+#### Cardiovascular:
+
++---------------+----------------------------------------------------------------------------+
+| Mechanisms    | - ↓L-Ca^2+^ activity in vascular smooth muscle                             |
+|               | - ↑NO release from endothelium                                             |
+|               | - ↑GABA/glycine → ↓SNS output from medulla                                 |
++---------------+----------------------------------------------------------------------------+
+| Haemodynamics | - ↓Venous tone, ↓MSFP, ↓preload                                            |
+|               | - ↓Heart rate, ↓contractility                                              |
+|               | - ↓Baroreceptor reflex (cf. volatiles                                      |
+|               | - ↓SVR (most important cause of ↓mAP)                                      |
+|               | - ↓Cardiac output                                                          |
+|               | - ↓mAP                                                                     |
++---------------+----------------------------------------------------------------------------+
+| Regional flow | - ↓Coronary blood flow → risk ischaemia                                    |
+|               | - ↓Cerebral blood flow (due to preserved metabolic autoregulation)         |
+|               | - ↓Hepatic blood flow → risk ischaemia                                     |
+|               | - ↓Renal blood flow → oliguria                                             |
+|               | - ↓Uterine blood flow (cf. volatiles)                                      |
++---------------+----------------------------------------------------------------------------+
+| Implications  | - Vasopressor, inotrope, chronotrope often needed                          |
+|               |   - Especially at induction                                                |
+|               |   - Especially for high risk groups (unwell, shocked, elderly, LV failure) |
+|               | - Rapid effective treatment of intra-op hypertension                       |
+|               | - ↓Risk PPH if Caesarean section under GA                                  |
++---------------+----------------------------------------------------------------------------+
+
+#### Respiratory:
+
++------------------+--------------------------------------------------------------------+
+| Mechanisms       | - ↑GABA/glycine → depression of respiratory centre, chemoreceptors |
+|                  | - ↓Spinal cord a-motor neuron activity                             |
+|                  | - ↓Presynaptic L-Ca^2+^ activity                                   |
+|                  | - ↓Post-synaptic nnAChR activity                                   |
++------------------+--------------------------------------------------------------------+
+| Clinical effects | - ↓RR, ↓TV                                                         |
+|                  | - ↓Response to ↑PaCO~2~ and ↓PaO~2~                                |
+|                  | - ↓Pharyngeal dilator tone                                         |
+|                  | - ↓Airway reflexes                                                 |
+|                  | - Bronchodilation                                                  |
+|                  | - Relative preservation of HPV (cf. volatiles)                     |
++------------------+--------------------------------------------------------------------+
+| Implications     | - Apnoea common after induction; risk hypoxia if not ventilated    |
+|                  | - Airway obstruction common if no airway device, especially if OSA |
+|                  | - Allows airway instrumentation without paralysis                  |
+|                  | - Risk of aspiration                                               |
+|                  | - Improved oxygenation during one lung ventilation                 |
++------------------+--------------------------------------------------------------------+
+
+#### Other:
+
++----------------------------+------------------------------------------------------+------------------------------------------+
+| **Change**                 | **Cause**                                            | **Implication**                          |
++============================+======================================================+==========================================+
+| Anti-emetic                | - 5-HT3 antagonist in CTZ                            | - Propofol TIVA preferred if PHx PONV++  |
++----------------------------+------------------------------------------------------+------------------------------------------+
+| Pain on injection          | - ?Activation of endothelial TRPA1 receptors ? other | - Mix with small dose lignocaine         |
+|                            |                                                      | - Use fast, free flowing IV              |
++----------------------------+------------------------------------------------------+------------------------------------------+
+| Lipotoxicity               | - Lipid load: 20mg/mL soybean oil                    | - Avoid prolonged high dose infusion     |
++----------------------------+------------------------------------------------------+------------------------------------------+
+| Propofol infusion syndrome | - ? Lipid load                                       | - Avoid prolonged use in unwell children |
++----------------------------+------------------------------------------------------+------------------------------------------+

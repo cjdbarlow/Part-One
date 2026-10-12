@@ -1,0 +1,45 @@
+Tramadol is an analgesia agent with atypical opioid effects. 
+
+Mechanism of action:
+
+**Non-opioid**:
+
+- Serotonin and Noradrenaline reuptake inhibitor 
+- ↑presynaptic serotonin release 
+- NMDA receptor antagonist
+
+Opioid:
+
+- Weak Opioid agonist
+- Metabolised → o-des-methyl-tramadol → 6x more potent opioid agonist  
+
+**Metabolism** 
+
+Hepatic metabolism by CYP2D6 - o-des-methyl-tramadol (active metabolite) 
+
+CYP2D6 polymorphism:
+
+Slow metabolisers: 5-10% of Caucasian population / 30% Hong Kong Chinese
+
+Intermediate metabolisers: 10-15% of Caucasian population 
+
+Extensive Metabolisers: \~80% of Causation population 
+
+Rapid Metabolisers: 1-2% Caucasian population, 20-30% of Saudi and north African population.
+
+**Excretion**:
+
+Renal Excretion
+
+- 60% active metabolite
+- 30% unchanged 
+
+**Implications for clinical practice**: 
+
+- Slow metabolisers have reduced metabolism and formation of o-des-methyl-tramadol and may have ↑5-HT effects: nausea/vomiting, risk serotonin syndrome
+- Rapid metabolisers will more rapidly metabolise → o-des-methyl-tramadol → increased opioid effect ↑ respiratory depression, sedation
+
+Renal failure → accumulation of tramadol and ODMT (and inactive metabolites)
+
+- sedation
+- respiratory depression

@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004B Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Write a brief description**]{.task-verb} of the pharmacology of ropivacaine.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Write a brief description**]{.task-verb} using pharmaceutics, pharmacokinetics and pharmacodynamics. Link differential block and toxicity to clinical use and keep comparisons with bupivacaine focused on distinguishing features.
+
+::: {.structure-headings}
+### Chemistry and Formulation
+
+### Pharmacokinetics
+
+### Mechanism and Differential Block
+
+### Toxicity and Clinical Relevance
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**46%** of candidates passed this question.
+
+The main points that should have been included were correct recognition of the drug and its chemistry and basic knowledge of the pharmacokinetics (pKa, T^1^/~2~ and protein binding). The unique pharmacodynamic features including differential block, toxicity and the relevance of these to the clinical usage of the drug should have been mentioned. Additional accurate information about the chemical structure, mode of action and kinetics was rewarded.
+
+A concise correct answer is preferred; many answers included a large amount of repeated and, at times, inaccurate information. It was concerning that many answers stated that ropivacaine was suitable for intravenous regional anaesthesia.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2004/B/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Local anaesthetics](/content/pharmacopoeia/neuro/local_anaesthetics.qmd)

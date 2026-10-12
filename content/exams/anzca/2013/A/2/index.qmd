@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013A Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**What are**]{.task-verb} the advantages and disadvantages of xenon as an anaesthetic agent?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+Show **[what]{.task-verb}** the advantages and disadvantages are in a comparison table. Link each property to its clinical significance.
+
+::: {.structure-table}
+| Property | Advantages | Disadvantages |
+|---|---|---|
+| Physicochemical Properties | | |
+| Pharmacokinetics | | |
+| Pharmacodynamics | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Old Exam: **38%** of candidates achieved a pass in this question
+
+New Exam: **36%** of candidates achieved a pass in this question
+
+Most candidates were able to recite the physicochemical properties of xenon gas. However, few could indicate the clinical relevance of these features. For instance, most candidates correctly pointed out that xenon is a non-pungent and odorless gas, but few could identify this as an advantage for inhalational induction. Other important advantages of xenon include that it is not metabolized and xenon is insoluble. Wash-in and wash-out of the gas can therefore be achieved quickly. Xenon anesthesia also does not suppress the myocardium. However, many candidates missed out the analgesic properties of xenon. It should be noted that xenon does not trigger malignant hyperthermia, and has been regarded as safe for MHS patients.
+
+Important disadvantages of xenon are that it is very expensive to use, and that the high MAC value (71%) limits the delivery of higher inspiratory concentration of oxygen. A number of candidates listed the features of an ideal inhalational anesthetic agent, which was not asked for in the question.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/A/2/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/A/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational anaesthetics](/content/pharmacopoeia/neuro/inhalational_anaesthetic_agents.qmd)
+- [Inhalational anaesthetic drugs](/content/pharmacopoeia/neuro/inhalational_anaesthetics.qmd)

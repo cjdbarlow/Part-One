@@ -1,0 +1,88 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016B Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+a) [**Briefly describe**]{.task-verb} the bactericidal activity of gentamicin. [**Explain**]{.task-verb} why it is usually administered as a single daily dose.
+
+b) [**Describe**]{.task-verb} the potential toxic effects of gentamicin.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} bacterial uptake and the ribosomal mechanism. Explain once-daily dosing through concentration-dependent killing and the post-antibiotic effect, then describe toxicity with its mechanisms and modifying factors.
+
+::: {.structure-headings}
+### Bacterial Uptake and Ribosomal Action
+
+### Concentration-Dependent Killing
+
+### Post-Antibiotic Effect and Daily Dosing
+
+### Renal and Auditory Toxicity
+
+### Neuromuscular and Other Toxic Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**20%** of candidates achieved a pass in this question
+
+This question had two parts, with part a) having two sub-sections. Marks were apportioned accordingly.
+
+The question asked about three specific aspects of gentamicin’s pharmacology but many candidates wasted time writing in general terms and providing factually correct but irrelevant information (e.g. bioavailability, drug presentation).
+
+Describing the antibacterial spectrum with some examples and mentioning that bactericidal meant killing cells attracted marks. Brief details about the bactericidal mechanism were also helpful - i.e. gentamicin binds to ribosomes causing mRNA mistranslation, creating abnormal proteins that disrupt cellular machinery and the integrity of the cell wall.
+
+The second section of part a) asked why once daily dosing is acceptable and few candidates were able to explain this satisfactorily. Many candidates assumed, incorrectly, that once daily dosing was due to a long half-life. The crux of the question is recognising that gentamicin has a short half-life, so should require more frequent dosing. Daily dosing with a higher dose produces an initial high (bactericidal) concentration that falls below the minimum inhibitory concentration but retains a residual bactericidal activity (the so called “post antibiotic effect”). The main benefit being accumulation and toxic effects of gentamicin are reduced.
+
+Many drew graphs but few were of a form that looked like an actual drug concentration versus time curve. However, even a well-drawn graph added a little to a written explanation.
+
+Part b) asked for a description of the toxic effects of gentamicin and was answered better than part a). Marks were given for describing nephrotoxicity and ototoxicity, including their clinical features, frequency, contributing and exacerbating factors and the reversibility or otherwise of these effects. Including the potential for muscle weakness, interactions with muscle relaxants and mechanisms also scored marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2016/B/11/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2016/B/11/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Aminoglycosides](/content/pharmacopoeia/micro/aminoglycosides.qmd)

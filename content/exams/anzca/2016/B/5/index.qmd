@@ -1,0 +1,86 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016B Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the cardiovascular changes that occur with morbid obesity.
+:::
+
+Also asked in: [2014B Question 11](/content/exams/anzca/2014/B/11/index.qmd#examiner-comments), [2018A Question 2](/content/exams/anzca/2018/A/2/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the cardiovascular changes systematically, connecting each altered variable to its mechanism. Distinguish changes in obesity itself from associated disease.
+
+::: {.structure-headings}
+### Cardiac Output, Heart Rate and Stroke Volume
+
+### Blood Volume and Preload
+
+### Vascular Resistance and Afterload
+
+### Ventricular Structure, Function and Reserve
+
+### Hormonal Influences and ECG Changes
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**47%** of candidates achieved a pass in this question
+
+This question required a well organised approach to score highly. Information was sometimes presented effectively in flow chart diagrams but explanatory detail was often missing in this approach. Acknowledging adipose tissue as an endocrine organ with brief description of the relevant mechanism of action of the principal hormones involved then segues into discussion of the physiological CVS changes.
+
+Main points expected included changes in blood volume, cardiac output, heart rate, stroke volume, contractility and the ECG. Effects on blood pressure as distinct from systemic hypertension was expected.
+
+Additional marks were awarded for demonstrating understanding of left and right ventricular pathophysiology, hypercoagulopathy, the role of inflammation, endothelial dysfunction and the reasons for exercise being poorly tolerated. Latitude was given for confusion around the term obesity cardiomyopathy.
+
+Explanations of BMI grades attracted no marks nor did extensive discussion of comorbid conditions.
+
+Common mistakes included vague statements especially with respect to systemic vascular resistance, repetition of information and incorrect information especially with respect to eccentric and concentric hypertrophy. Terms such as wall stress, tension, afterload, and myocardial work were often used loosely. The use of arrows on each new line suggesting a causal relation to the preceding statement was often perplexing.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2014/B/11/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2014/B/11/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Cardiovascular changes with obesity](/content/cvs/obesity_cvs.qmd)

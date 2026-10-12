@@ -1,0 +1,82 @@
+**Half Life:**
+
+Half-life refers to the time taken for plasma concentration of a drug fall by 50% 
+
+- most relevant to single compartment model 
+- Exponential process related to volume of distribution and inversely proportion to clearance
+
+T1/2 = 0.693xVd / Cl 
+
+In  multi compartment model the t1/2 may refer to the distribution or terminal elimination half time 
+
+- T/2a Distribution half time 
+- T1/2b Elimination half time 
+
+![](/content/exams/anzca/2015/B/4/standard-image14.jpeg){fig-alt="Distribution and elimination half-lives in a multicompartment model"}
+
+**Context Sensitive Half Time (CSHT):**
+
+CHHT refers to the time taken for plasma drug concentration to fall by 50% of its value after cessation of an infusion, in context of the duration of the infusion.
+
+For drugs described by single compartment models this is the half time, however all anaesthetic drugs are multi compartment 
+
+CHST determinants:
+
+- duration of the infusion and therefore saturation of the peripheral compartments 
+- redistribution between peripheral and central compartments
+- clearance from the central compartment  
+
+**Differences between Half-life and CSHT**
+
+CHST describes the elimination kinetics from the central compartment in a multi compartment model. It has no fixed number and varies depending on infusion duration →‘context’
+
+- in short infusion times CSHT = t1/2a the redistribution half time
+- in longer infusions CSHT = t1/2b the terminal elimination half time 
+
+**Relevant Examples**
+
+**Fentanyl Vs Remifentanil** 
+
++-------------------+--------------+-----------------------------------+
+| **Parameter**     | **Fentanyl** | **Remifentanil**                  |
++===================+==============+===================================+
+| **Vd**            | 4l/Kg        | 0.3l/kg                           |
++-------------------+--------------+-----------------------------------+
+| **CL**            | 17ml/kg/min  | 70ml/kg/min                       |
+|                   |              |                                   |
+|                   | Hepatic      | Plasma and tissue cholinesterase  |
++-------------------+--------------+-----------------------------------+
+| **t1/2a**         | 1.5min       | 1min                              |
++-------------------+--------------+-----------------------------------+
+| **CSHT 10min**    | 12 min       | 3 min                             |
++-------------------+--------------+-----------------------------------+
+| **CSHT 3 hours ** | 70 min       | 3 min                             |
++-------------------+--------------+-----------------------------------+
+
+Both fentanyl and remifentanil have rapid t1/2a times and redistribute rapidly. However fentanyl is far more lipophilic and so has larger volume of distribution.
+
+Remifentanil has a small Vd and undergoes metabolism in tissue and plasma and so results is rapid clearance. 
+
+Fentanyl redistributes from peripheral compartments which results in longer terminal elimination time / CSHT.
+
+**Propofol Vs Thiopentone** 
+
++-------------------+----------------------------------------------------------------------------------------+------------------------------------------------------+
+| **Parameter**     | **Thiopentone**                                                                        | **Propofol**                                         |
++===================+========================================================================================+======================================================+
+| **Vd**            | 2l/Kg                                                                                  | 4l/kg                                                |
++-------------------+----------------------------------------------------------------------------------------+------------------------------------------------------+
+| **CL**            | Low hepatic extraction ratio rapid enzymatic saturation→ 1st order - 0 order kinetics  | High Hepatic extraction ratio →first order kinetics  |
+|                   |                                                                                        |                                                      |
+|                   | C                                                                                      | CL 30ml/kg/min                                       |
++-------------------+----------------------------------------------------------------------------------------+------------------------------------------------------+
+| **t1/2a**         | 1.5min                                                                                 | 2min                                                 |
++-------------------+----------------------------------------------------------------------------------------+------------------------------------------------------+
+| **CSHT 10min**    | 4 min                                                                                  | 5 min                                                |
++-------------------+----------------------------------------------------------------------------------------+------------------------------------------------------+
+| **CSHT 3 hours ** | 85 min                                                                                 | 9 min                                                |
++-------------------+----------------------------------------------------------------------------------------+------------------------------------------------------+
+
+Thiopentone has a rapid onset and rapid offset due to distribution with t1/2a 8min. However, the hepatic enzymatic metabolism can rapidly become saturated so clearance is low resulting in a long CSHT. 
+
+Propofol also has rapid onset and offset due to redistribution and a large Vd. However relatively short CSHT due to high clearance of 30ml/kg/min and first order kinetics result in significantly shorter CSHT.

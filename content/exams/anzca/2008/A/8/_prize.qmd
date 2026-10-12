@@ -1,0 +1,37 @@
++------------+-----------------------------------------------------------------+----------------------------------------------------------------------------------+
+|            | **Mechanism of action**                                         | **Adverse effects**                                                              |
++============+=================================================================+==================================================================================+
+| Metoprolol | β~1~ selective antagonist                                       | ↓AV node conduction                                                              |
+|            |                                                                 |                                                                                  |
+|            | ↓Demand: ↓HR, ↓contractility, offset by compensatory ↑afterload | ↓cardiac output                                                                  |
+|            |                                                                 |                                                                                  |
+|            | ↑Supply: ↓HR, offset by ↓mAP but that too offset by ↑SVR        | ↓mAP                                                                             |
+|            |                                                                 |                                                                                  |
+|            |                                                                 | Worsen peripheral vascular disease                                               |
+|            |                                                                 |                                                                                  |
+|            |                                                                 | Bronchospasm (β~2~ antagonism)                                                   |
+|            |                                                                 |                                                                                  |
+|            |                                                                 | ↓tremor, depression, fatigue, insomnia, sexual dysfunction, migraine prophylaxis |
+|            |                                                                 |                                                                                  |
+|            |                                                                 | ↑risk diabetes, ↓ autonomic response to ↓BSL, ↓ symptoms of ↓BSL (tremor, ↑HR)   |
+|            |                                                                 |                                                                                  |
+|            |                                                                 | Hair loss                                                                        |
++------------+-----------------------------------------------------------------+----------------------------------------------------------------------------------+
+| GTN        | NO donor                                                        | Headache, flushing, dizziness                                                    |
+|            |                                                                 |                                                                                  |
+|            | ↓Demand: ↓preload, ↓afterload                                   | Nausea, vomiting                                                                 |
+|            |                                                                 |                                                                                  |
+|            | ↑Supply: coronary vasodilatation → ↑Coronary blood flow         | ↓Blood pressure, syncope                                                         |
+|            |                                                                 |                                                                                  |
+|            |                                                                 | Reflex ↑HR                                                                       |
+|            |                                                                 |                                                                                  |
+|            |                                                                 | Methaemoglobinaemia                                                              |
++------------+-----------------------------------------------------------------+----------------------------------------------------------------------------------+
+| Diltiazem: | Non-dihydropyrine L-Ca^2+^ antagonist                           | AV block, heart failure                                                          |
+|            |                                                                 |                                                                                  |
+|            | Mainly cardiac effect                                           |                                                                                  |
+|            |                                                                 |                                                                                  |
+|            | ↓Demand: ↓HR, ↓contractility                                    |                                                                                  |
+|            |                                                                 |                                                                                  |
+|            | ↑Supply: ↓HR                                                    |                                                                                  |
++------------+-----------------------------------------------------------------+----------------------------------------------------------------------------------+

@@ -1,0 +1,33 @@
+General Safety Features of Vaporisers
+
+Agent specificity, prevents wrong agent being loaded into vaporiser
+
+- Key indexed filling
+- Pin indexed safety system connectors
+- Colour coding of unit and agent containers
+
+Single agent administration - Prevents multiple vaporisers being turned used simultaneously.
+
+- Interlock mechanism
+- Single cartridge slot (Aladdin system)
+
+Tipping and overfilling protection, prevents liquid entering bypass or outflow 
+
+- Long vaporisation chamber inflow
+- Heavy construction
+- Transport modes
+- Side filling and overflow ports
+
+Anti-pumping: Oscillating pressure with ventilatory cycle can alter & cause retrograde flow from the vaporiser chamber producing unpredictable variations in vapour delivered to patient
+
+- Check valves and long vaporisation chamber inflow prevent entrainment of vaporiser gas in the inflow of the bypass channel
+
+Agent depletion :
+
+- Filling gauges
+- Low pressure alarms (Tec 6)
+
+Temperature fluctuations: ↓temperature →↓SVP →↓ Concentration of vapour given to patient
+
+- Vaporiser has heat sink constructed of metals with high heat capacity & thermal conductivity function is that under steady-state conditions
+- Temperature compensation: Bimetallic strip function to change fresh gas flow splitting ratio to maintain constant vapour concentration

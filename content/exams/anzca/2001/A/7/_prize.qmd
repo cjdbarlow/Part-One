@@ -1,0 +1,78 @@
+#### List:
+
+- Introduction
+- Detection: receptors
+- Responses: ADH and thirst
+
+#### Introduction:
+
++--------------------------+--------------------------------------------------------------------------------------------------------+
+| Water distribution       | - Total body water 60% of body weight (\~42L)                                                          |
+|                          | - 2/3 ICF (28L)                                                                                        |
+|                          | - 1/3 ECF (14L) – ¼ plasma, ¾ ISF                                                                      |
++--------------------------+--------------------------------------------------------------------------------------------------------+
+| Effects of water deficit | - Loss of free water occurs from the ECF                                                               |
+|                          | - But water crosses membranes freely                                                                   |
+|                          | - Hence both ICF and ECF water volumes contract in proportion                                          |
+|                          | - Hence ↑osmolality, ↓blood volume, ↓mAP                                                               |
++--------------------------+--------------------------------------------------------------------------------------------------------+
+| Measurement problem      | - Can’t measure total body water directly                                                              |
+|                          | - Use tonicity, CVP, mAP as surrogates                                                                 |
++--------------------------+--------------------------------------------------------------------------------------------------------+
+| Priorities               | - ADH responds to ∆2% osmolality                                                                       |
+|                          | - ADH responds to ∆10% or 500mL blood volume (\~4L total body fluid deficit), but overrides osmolality |
++--------------------------+--------------------------------------------------------------------------------------------------------+
+
+#### Detection:
+
++-----------------------------+--------------------------------------------------------------------------------------------------------------+
+| Osmoreceptors               | - Anterior hypothalamus, circumventricular organs (subfornical organ, organum vasculosum laminae terminalis) |
+|                             | - (note: responsive to tonicity, not osmolality)                                                             |
+|                             | - Normal 285-295mOsmol/L                                                                                     |
++-----------------------------+--------------------------------------------------------------------------------------------------------------+
+| Low pressure baroreceptors  | - Stretch-sensitive mechanoreceptors                                                                         |
+|                             | - Walls of atria and great veins                                                                             |
+|                             | - ↓CVP → ↓inhibitory afferents                                                                               |
++-----------------------------+--------------------------------------------------------------------------------------------------------------+
+| High pressure baroreceptors | - Same                                                                                                       |
+|                             | - In the carotid and aortic sinuses                                                                          |
+|                             | - ↓mAP → ↓inhibitory afferents                                                                               |
++-----------------------------+--------------------------------------------------------------------------------------------------------------+
+
+#### Responses:
+
++--------+-------------------------------------------------------------------------------------------+
+| ADH    | Source:                                                                                   |
+|        |                                                                                           |
+|        | - Nonapeptide produced by supra-optic and paraventricular hypothalamic nuclei             |
+|        | - Transported down pituitary stalk                                                        |
+|        | - Secreted by posterior pituitary (neurohypophysis)                                       |
+|        |                                                                                           |
+|        | Stimuli:                                                                                  |
+|        |                                                                                           |
+|        | - ↑Osmolality: sensitive ∆2%                                                              |
+|        | - ↓blood volume: sensitive ↓10% = ↓500mL = ↓TBW 4L; overrides osmolality                  |
+|        | - ↓mAP                                                                                    |
+|        | - Angiotensin 2                                                                           |
+|        | - Stress: e.g. surgery                                                                    |
+|        | - Drugs: e.g. SSRI                                                                        |
+|        |                                                                                           |
+|        | Effects:                                                                                  |
+|        |                                                                                           |
+|        | - Insertion of aquaporin 2 into apical membrane of collecting ducts → ↑H~2~O reabsorption |
+|        | - Insertion of urea transporters → ↑ medullary interstitial osmolarity                    |
+|        | - ↑Na^+^ reabsorption in thick ascending loop of Henle                                    |
++--------+-------------------------------------------------------------------------------------------+
+| Thirst | Controller: hypothalamus                                                                  |
+|        |                                                                                           |
+|        | Stimuli:                                                                                  |
+|        |                                                                                           |
+|        | - ↑osmolality                                                                             |
+|        | - ↓blood volume                                                                           |
+|        | - ↓mAP                                                                                    |
+|        | - Angiotensin 2 at SFO and OVLT                                                           |
+|        |                                                                                           |
+|        | Effect:                                                                                   |
+|        |                                                                                           |
+|        | - ↑Free H~2~O intake                                                                      |
++--------+-------------------------------------------------------------------------------------------+

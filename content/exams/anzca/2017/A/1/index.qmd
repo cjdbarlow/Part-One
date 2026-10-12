@@ -1,0 +1,103 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2017A Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+Please see Appendix A
+
+### Appendix A
+
+1. [**Name**]{.task-verb} the structures labelled A and B on the diagram below.
+
+    ![](/content/exams/anzca/2017/A/1/question-image001.jpg){fig-alt="Original neck diagram with structures A and B"}
+
+2. On the diagram above, [**DRAW and LABEL**]{.task-verb} the major vascular structures which are relevant to performing central venous cannulation.
+
+3. The following image is an ultrasound scan of the LEFT neck. [**Name**]{.task-verb} the labelled structures.
+
+    ![](/content/exams/anzca/2017/A/1/question-image002.jpg){fig-alt="Left neck ultrasound with structures A to D"}
+
+4. [**Name**]{.task-verb} FOUR structures which could be damaged by inserting the needle TOO FAR, when using the approach shown above.
+
+5. The following chest x-ray shows a central line *in situ*. [**Name**]{.task-verb} the blood vessel traversed by the central line at points A, B and C.
+
+    ![](/content/exams/anzca/2017/A/1/question-image003.jpg){fig-alt="Chest radiograph with central line and structures A, B, C and X"}
+
+6. [**Name**]{.task-verb} the cardiac structure labelled X.
+
+7. [**What criteria**]{.task-verb} do you use to assess the position of the tip of a central line on a chest x-ray?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Name**]{.task-verb} the labelled structures and [**draw and label**]{.task-verb} the relevant neck vessels. Keep the seven parts distinct, relating surface and ultrasound anatomy to potential injury and chest radiographic identification of catheter course and tip position.
+
+::: {.structure-headings}
+### Surface Anatomy and Neck Vessels
+
+### Ultrasound Structures and Deep Needle Injury
+
+### Catheter Course on Chest Radiograph
+
+### Cardiac Landmark and Catheter Tip Criteria
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**67.3%** of candidates achieved a pass in this question
+
+This question examined the anatomy of the major vessels in the neck relevant to central line placement and included several images: an ultrasound scan, a chest x-ray, and an outline diagram of the head, neck and upper thorax that the candidate was asked to complete.
+
+The vessels expected were the internal jugular vein, the common carotid, and the internal and external carotids. The relation between these structures throughout the neck was important, as well as their relation to the sternocleidomastoid. Candidates who clarified their diagrams with a brief note did better.
+
+The origin of the internal jugular vein was frequently imprecise. In a few diagrams it appeared to arise from somewhere near the occiput. About 10% of candidates only drew the vessels in the immediate supraclavicular region, suggesting that the only way they knew to cannulate the internal jugular was via the low approach. The terms "internal carotid" and "common carotid" were often used interchangeably, and diagrams often indicated a poor understanding of these vessels’ anatomy. Identification of structures in the chest Xray was generally well done, although only 1/3 of candidates correctly defined where the tip of a central line catheter should ideally lie.
+
+Material required to pass this question can be found in any anatomy textbook coupled with mindful clinical practice.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2017/A/1/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Internal jugular vein](/content/anatomy/ijv.qmd)
+- [Subclavian vein](/content/anatomy/scv.qmd)

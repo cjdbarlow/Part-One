@@ -1,0 +1,66 @@
+Blood flow is governed by Ohms hydraulic law:
+
+Flow: Pressure/Resistance
+
+Resistance is determined by Hagen Poiseuille equation 8nl/πr4 
+
+- Radius is dominant factor
+
+Therefore, regional blood flow is dependent on the perfusion pressure and regional vascular resistance. 
+
+Sevoflurane has a dose related ↓MAP primarily due to a ↓SVR secondary to NO release and Ca2+ channel blocking effect, without a substantial ↑HR.
+
+At 1 MAC sevoflurane:
+
+- Is usually reasonably hemodynamically stable anaesthetic agent
+- Organ specific auto-regulation remains intact, with the exception of the uteroplacental system discussed below.
+
+**Specific Systems:**
+
+**Uteroplacental**:
+
+Vascular supply maximally dilated to ↑ and maintain foetal supply and so pressure dependant blood flow.
+
+↓MAP →↓Uteroplacental and risk of foetal compromise
+
+**Cerebral**:
+
+Cerebral perfusion pressure (CPP) is MAP-ICP 
+
+Cerebral blood flow is auto regulated in a CPP range from 60-160mmHg by a myogenic reflex with a CMRO2/CBF coupling until approx. 1MAC after which CBF increases despite falling CRMO2.
+
+0-0.5 MAC CMRO2 dominates and CBF is reduced
+
+0.5-1MAC CBF at baseline 
+
+\>MAC ↑CBF for given CRMO2 → luxury perfusion 
+
+**Coronary**:
+
+Coronary blood flow, particularly LV is dependent on:
+
+HR and MVO2 - ↑HR will ↓filling time, and increase MVO2
+
+Sevoflurane →↓SVR/MAP 
+
+↓ wall tension and/ ↓contractility →↓MVO2 requirements
+
+↓ aortic root pressure → decreased coronary perfusion pressure
+
+**Pulmonary**:
+
+Direct vasodilation →↓PVR and ↓mAP →↓ pulmonary arterial pressure
+
+→ increased west zone 1 / ↑alveolar dead space
+
+HPV inhibited →↑ V/Q mismatch 
+
+**Hepatic**:
+
+Hepatic blood flow:70% portal vein, 30% Hepatic Artery 
+
+↓mAP →↓ venous return →↓Hepatic vein blood flow
+
+↓mAP →↓Arterial blood flow 
+
+- likely minimal overall reduction in HBF

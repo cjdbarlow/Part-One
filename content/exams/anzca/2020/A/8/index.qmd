@@ -1,0 +1,89 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2020A Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the process by which increased tissue demand for oxygen leads to an increase in cardiac output.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the causal sequence from local metabolic autoregulation to increased arterial-to-venous flow, venous return and stroke volume. Use a labelled cardiac output–venous return diagram to explain the new equilibrium, keeping exercise-related sympathetic effects distinct from the local response.
+
+::: {.structure-headings}
+### Local Metabolic Vasodilatation
+
+### Local Flow and Afterload
+
+### Venous Return and Right Atrial Pressure
+
+### Frank–Starling Response and New Equilibrium
+
+### Exercise-Related Additional Responses
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question was poorly answered by the majority of candidates. It revealed widely held errors in understanding about core cardiovascular physiology.
+
+A passing answer should have contained the following points, with explanation. Increased oxygen consumption in tissues leads to local vasodilation (i.e. metabolic autoregulation). This reduction in local vascular resistance causes an increase in local flow for the same MAP. In addition, there is a slight reduction in afterload, which increases stroke volume. Both of the above lead to an increase in flow from the arterial to the venous side of the circulation. This increase in venous return then increases right atrial pressure and stroke volume, via the Frank-Starling mechanism.
+
+The sympathetic nervous system is not directly involved in the above processes. Effectively, cardiac output is “controlled” by the tissues. With exercise, sympathetic tone does increase, and this causes a rise in cardiac output which is additional to the above. It should be noted that in the absence of increased preload, simply increasing heart rate does not reliably lead to increased cardiac output.
+
+The following were common errors:
+
+- “Local vasodilation causes hypotension, which is sensed by baroreceptors, and causes increased sympathetic tone, which increases CO”. This is incorrect. Hypotension is not required as an initial ‘step’ in order for cardiac output to increase. During exercise the BP increases.
+- “Increased oxygen consumption / metabolism leads to a fall in PaO2 / rise in PaCO2 / fall in arterial pH, which then activates the sympathetic nervous system via the chemoreceptors”. This is incorrect. Even during strenuous exercise, people do not normally become hypoxaemic or hypercarbic. It has been postulated that there are chemoreceptors within tissue beds (especially muscle), but these have never been identified.
+- “The heart is a demand pump, which means that it will pump enough blood to match tissue demand”. This is oversimplified. When we refer to the heart as a demand pump, this means that the forward cardiac output is matched to the venous return.
+
+Several high scoring answers were able to use Guyton curves to add more detail to their answer. However, the majority of candidates who attempted to incorporate Guyton curves only became more confused.
+
+This material is well covered in the essential core textbook: Pappano and Weir, Cardiovascular Physiology (11th edition), especially Chapters 9, 10 and 13. For those interested, Guyton’s original article is well worth reading: Guyton A. Regulation of cardiac output. Anesthesiology, 1968, 29(2): 314-326.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2020/A/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Cardiac output determinants](/content/cvs/co_determinants.qmd)
+- [Venous return](/content/cvs/venous_return.qmd)

@@ -1,0 +1,88 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010B Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Compare and contrast**]{.task-verb} the pharmacokinetics of orally and intravenously administered morphine and oxycodone.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Compare and contrast**]{.task-verb} the agents in parallel columns, distinguishing oral from intravenous administration. Connect bioavailability, distribution, metabolism and elimination to dose equivalence, onset, duration and accumulation.
+
+::: {.structure-table}
+| Feature | Morphine | Oxycodone |
+|---|---|---|
+| Oral and Intravenous Dose Equivalence | | |
+| Absorption and Bioavailability | | |
+| Distribution and Effect-Site Equilibration | | |
+| Metabolism and Active Metabolites | | |
+| Clearance, Half-Life and Renal Excretion | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**26%** of candidates passed this question.
+
+Main Points expected for a Pass:
+
+- Both Morphine & Oxycodone are full- agonist opioid analgesics used peri-operatively
+- They both can be administered orally or intravenously
+- They are roughly equipotent when administered intravenously but their oral bioavailability differs.
+- Morphine has a high hepatic extraction, so Oxycodone is more potent when given orally
+- Major differences or similarities in basic pharmacokinetic (PK) parameters such as volume of distribution, clearance, protein binding, metabolism & half-life
+
+Additional Points which attracted higher marks:
+
+- Actual numbers & content for PK parameters such as morphine’s bioavailability being 30% compared to oxycodone which is 50-87%
+- Demonstrate an understanding of the role of pKa in ionization & lipid solubility in comparing the 2 drugs.
+- Be able to calculate the dose adjustments & relative conversion between the 2 drugs based on their bioavailabilities.
+- Be able to discuss accurately volume of distribution & plasma concentration
+- Discuss the different pathways of metabolism & clearance
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2010/B/1/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Opioid pharmacology](/content/pharmacopoeia/analgesics/opioidspharm.qmd)

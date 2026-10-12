@@ -1,0 +1,59 @@
+#### List:
+
+- Muscle nAChR
+- Mechanisms of action and recovery
+- Phase 2 block
+
+#### Muscle type post-junctional nAChR:
+
++-----------+-----------------------------------------------------------------------------------------------------------+
+| Structure | - Pentameric ligand-gated ion channel                                                                     |
+|           | - Central ionophore                                                                                       |
+|           | - ααβδε in adults                                                                                         |
+|           | - ααβγδ in utero, or denervated adults as extrajunctional type                                            |
++-----------+-----------------------------------------------------------------------------------------------------------+
+| Function  | - Activation → Na^+^ influx \> K^+^ efflux = Ca^2+^ influx → depolarisation i.e. mini end-plate potential |
+|           | - Spatial and temporal summation → action potential                                                       |
+|           | - Rapid cycling through resting→activated→inactivated states when bound by agonist                        |
++-----------+-----------------------------------------------------------------------------------------------------------+
+
+#### Mechanisms:
+
++-------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| Of action   | - Diffuses from plasma to NMJ                                                                                                        |
+|             | - Agonist at muscle type nAChR                                                                                                       |
+|             | - Binds both alpha subunits                                                                                                          |
+|             | - Depolarisation of motor endplate → fasciculation                                                                                   |
+|             | - Remote metabolism → prolonged receptor binding → failure to repolarize junctional and peri-junctional membrane → flaccid paralysis |
++-------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| Of recovery | - Diffusion from NMJ to plasma down concentration gradient to plasma\                                                                |
+|             |   (cf. ACh metabolized by AChE at NMJ)                                                                                               |
+|             | - Gradient established by metabolism in plasma/liver by plasma cholinesterase                                                        |
+|             | - Two stage:                                                                                                                         |
+|             |   - Suxamethonium → succinylmonocholine + choline                                                                                    |
+|             |   - Succinylmonocholine → succinic acid + choline                                                                                    |
+|             | - 10% renal elimination unchanged (more important if enzyme polymorphism)                                                            |
+|             | - High capacity, high concentration enzyme. Offset usually 5 mins.                                                                   |
++-------------+--------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Phase 2 block:
+
++------------+---------------------------------------------------------------------------------------+
+| Features   | - Similar to non-depolarising blockade                                                |
+|            | - TOF ratio \<0.3, fade during tetany, post-tetanic facilitation, antagonism by AChEi |
++------------+---------------------------------------------------------------------------------------+
+| Cause      | - Big dose \>3-5mg/kg\                                                                |
+|            |   (or conventional dose if significant plasma cholinesterase polymorphism)            |
++------------+---------------------------------------------------------------------------------------+
+| Mechanisms | - Post-junctional receptor densitisation                                              |
+|            |   - Continuous agonist binding                                                        |
+|            |   - Large Na^+^, K^+^, Ca^2+^ flux                                                    |
+|            |   - Phosphorylation of tyrosine unit                                                  |
+|            |   - Conformational change in receptor                                                 |
+|            |   - Dysfunction of receptor and membrane                                              |
+|            |   - Flux between resting and desensitized state                                       |
+|            |   - Does not adopt activated state                                                    |
+|            |   - Impervious to agonist binding                                                     |
+|            | - Pre-synaptic receptor blockade (lower affinity)                                     |
+|            | - Activation of Na^+^K^+^ATPase by initial depolarisation                             |
++------------+---------------------------------------------------------------------------------------+

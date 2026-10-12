@@ -1,0 +1,65 @@
+#### List:
+
+- Effects of hydrostatic pressure change
+- Effects of respiratory embarrassment
+- Effects of general anaesthesia
+
+#### Effects of hydrostatic change:
+
++---------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Background          | - Monroe-Kellie doctrine:                                                                                                                                                      |
+|                     |   - Cranium has fixed walls and one major outlet                                                                                                                               |
+|                     |   - Increase in one intracranial substance must come at the expense of another or else pressure rises drastically                                                              |
+|                     | - Volume buffering:                                                                                                                                                            |
+|                     |   - Venous blood → circulation: rapid response, lower capacity                                                                                                                 |
+|                     |   - Arterial blood → circulation: minimal                                                                                                                                      |
+|                     |   - Brain CSF → spinal CSF: slower response, higher capacity                                                                                                                   |
+|                     |   - Brain: no ability                                                                                                                                                          |
+|                     |                                                                                                                                                                                |
+|                     | ![](/content/exams/anzca/2019/A/5/prize-image001.jpg){fig-alt="Intracranial pressure against intracranial substance volume with focal and global ischaemia thresholds marked"} |
++---------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Hydrostatic changes | - Example: laparoscopy, say head -10mmHg (13.5cm)                                                                                                                              |
+|                     | - Direct effects:                                                                                                                                                              |
+|                     |   - CNS arteries: 100 → 110 mmHg (1.1x normal) → small ↑arterial volume                                                                                                        |
+|                     |   - CNS veins: 2→ 12mmHg (6x normal) → large ↑venous volume                                                                                                                    |
+|                     | - Compensatory effects:                                                                                                                                                        |
+|                     |   - CSF displaced → ↓CSF volume (compensation)                                                                                                                                 |
++---------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Overall effects     | - Mild ↑ICP                                                                                                                                                                    |
+|                     | - Mild ↑IOP                                                                                                                                                                    |
+|                     | - Mild ↓ cerebral perfusion pressure                                                                                                                                           |
++---------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Effects of respiratory embarrassment:
+
++-----------+----------------------------------------------------------------+
+| Mechanism | - Compression of diaphragm by abdominal viscera and fat        |
+|           | - Greatly exacerbated in obesity                               |
++-----------+----------------------------------------------------------------+
+| ↑PaCO~2~  | - ↓Thoracic compliance                                         |
+|           | - ↓V~T~ for a given pressure gradient                          |
+|           | - ↓V~A~ (= RR x V~T~ – V~D~)                                   |
+|           | - ↑PACO~2~, ↑PaCO~2~                                           |
+|           | - ↓pH in CSF and brain ECF (CO~2~ crosses blood-brain barrier) |
+|           | - ↑Activity nNOS, ↓activity L-Ca^2+^ channel                   |
+|           | - Cerebral vasodilatation                                      |
+|           | - ↑CBV                                                         |
+|           | - +/- ↑ICP (once volume buffering exhausted)                   |
++-----------+----------------------------------------------------------------+
+| ↓PaO~2~   | - ↓FRC                                                         |
+|           | - Alveolar collapse                                            |
+|           | - ↑Shunt                                                       |
+|           | - ↓PaO~2~                                                      |
+|           | - ↓DO~2~                                                       |
+|           | - Risk of CNS ischaemia                                        |
+|           | - Reduction in CMRO~2~ under GA is protective                  |
++-----------+----------------------------------------------------------------+
+
+#### Effect of prolonged general anaesthesia:
+
+- Drowsiness (drug accumulation)
+- Nausea and vomiting
+- Respiratory depression (↓response to ↓PaO~2~ and ↑PaCO~2~)
+- Delirium, cognitive dysfunction (↑risk if steep Trendelenburg, deep anaesthesia)
+
+(note effects are drug-dependent)

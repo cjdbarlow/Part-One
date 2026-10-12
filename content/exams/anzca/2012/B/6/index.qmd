@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012B Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} agents that can reduce bronchiolar tone and [**explain**]{.task-verb} the mechanisms of action with examples.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} the agents under **Direct Bronchodilators** and **Agents Acting Indirectly**. [**Explain**]{.task-verb} the mechanism with examples, connecting receptor or cellular actions to reduced smooth muscle tone.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**77 %** of candidates passed this question.
+
+Information and naming the relevant groups of agents including an example eg. sympathomimetics – salbutamol, anticholinergics – ipatropium, earned marks.
+
+In addition a description of receptor and site of action with rector response eg beta 2 agonists and G protein induced changes, secondary messenger role, cyclic AMP effect then earned 3 to 4 marks per agent.
+
+Steroid agents initiating effects via intranuclear receptors are another example.
+
+Many candidates quite rightly mentioned the bronchodilators effects of volatile agents propofol and ketamine, and gave acceptable explanations of how these agents work on smooth muscle action.
+
+Moreover, drugs which stabilise mast cell membranes thus limiting histamine and cytokine release certainly indicates and awareness of the potent clinical effects during allergic and anaphylactic bronchospasm.
+
+Interference with calcium’s role in muscle action and the response to the use of magnesium earned extra marks.
+
+Good marks were given for an organised layout in the answer and an approach which explained the agents which reduced bronchiolar tone both directly and indirectly.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Anti-Asthma Drugs](/content/pharmacopoeia/resp/anti_asthma_drugs.qmd)

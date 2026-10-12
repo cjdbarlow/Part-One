@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005B Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} how cardiac output is measured using a thermodilution technique.
+:::
+
+Also asked in: [2000A Question 1](/content/exams/anzca/2000/A/1/index.qmd#examiner-comments), [2010A Question 15](/content/exams/anzca/2010/A/15/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} the indicator-dilution principle and the actual measurement sequence. Relate injectate properties and the temperature–time curve to cardiac output, then identify assumptions and sources of error.
+
+::: {.structure-headings}
+### Conservation Principle and Indicator Dilution
+
+### Catheter, Injectate and Temperature Measurement
+
+### Temperature–Time Curve and Cardiac Output Calculation
+
+### Assumptions and Sources of Error
+
+### Advantages and Limitations
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**53 %** of candidates passed this question.
+
+The main points expected for a pass included a definition of cardiac output, relationship of the Fick principle to thermodilution, description of measurement technique and the relationship between the curve generated and the cardiac output and the advantages of this technique over other alternatives.
+
+Additional points were given for descriptions of the equipment required for measurement, the inaccuracies of measurement and methods for overcoming these inaccuracies, disadvantages of this technique over others and more mathematical descriptions of the method of calculation.
+
+Common mistakes included not defining cardiac output, confusion over the relationship between the area under the curve and the cardiac output, and reproducing the dye dilution curve instead of the change in temperature curve.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2000/A/1/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Cardiac output measurement](/content/equipment/cardiac_output.qmd)

@@ -1,0 +1,121 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007B Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the important pharmacological considerations when stopping warfarin and commencing prophylactic (low dose) low molecular weight heparin (LMWH) in the peri-operative period.
+:::
+
+Also asked in: [2014B Question 8](/content/exams/anzca/2014/B/8/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} the peri-operative sequence, linking the timing to the pharmacokinetics and pharmacodynamics of warfarin and prophylactic LMWH.
+
+::: {.structure-headings}
+### Warfarin Cessation, INR and Reversal
+
+### Prophylactic LMWH Commencement and Cessation
+
+### Drug Interactions and Organ Dysfunction
+
+### Post-Operative Anticoagulation and the Balance of Risks
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**22%** of candidates passed this question.
+
+Candidates generally performed poorly on this question. Often mainly warfarin or LMWH were discussed with little discussion of the other drug. Unfractionated heparin was frequently discussed.
+
+Better answers included an introduction outlining the issues of balancing the risks of thrombo-embolism Vs bleeding and a summary of the relevant pharmacology of warfarin and LMW heparins. An outline of the relevant pharmacology is summarised below. This degree of detail was not required for a pass. The summary is provided to assist candidates with future exam preparation.
+
+Warfarin
+
+Long acting agent, inhibits Vit K reductase production of Factors 2,7,9,10,Protein C,S
+
+Metabolised in liver, low clearance, T 1/2 40 hrs
+
+Thus clearance of warfarin and resynthesis of new factors 2,7,9,10 required for offset
+
+Approximately 3-5 days required for offset
+
+Warfarin action potentially prolonged in;
+
+Decreased warfarin metabolism- liver impairment, cytochrome inhibition e.g. amiodarone, fluconazole, metronidazole
+
+Decreased synthesis of clotting factors- liver impairment, Vit K deficiency, cephalosporins
+
+Check INR day before surgery
+
+Small dose Vit K, e.g. 1mg can reverse but potential problems with warfarin effect post op
+
+FFP will reverse but risk with blood products
+
+Recommence after surgery when minimal risk of surgical bleeding
+
+May be initially hyper coagulable due to inhibition of protein C,S (endogenous anticoagulants), thus continue LMWH until INR therapeutic
+
+LMWH
+
+Activates anti-thrombin 3, inhibits factors 10 and 2 but much greater inhibition of Factor 10
+
+Commence 2-3 days after warfarin ceased
+
+Predictable and reliable, doesn’t require monitoring, once daily administration due to longer T1/2 compared to heparin
+
+S.C admin, high bio-availability, at home administration feasible
+
+Prophylactic dose enoxaparin 40 mg daily, dalteparin 5,000 units daily
+
+Decrease dose in renal impairment, renally excreted
+
+Last prophylactic dose minimum of 12 hours before surgery, neuraxial blockade
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2007/B/2/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/B/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Anticoagulants](/content/pharmacopoeia/haeme/anticoagulants.qmd)
+- [Coagulation testing](/content/haeme/coag_testing.qmd)

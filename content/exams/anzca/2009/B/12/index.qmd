@@ -1,0 +1,92 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009B Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the production and function of red blood cells
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} production and function in balanced sections. Trace erythropoiesis and its control, then explain how red-cell structure and haemoglobin support oxygen transport, carbon dioxide transport and buffering.
+
+::: {.structure-headings}
+### Precursors and Sites of Production
+
+### Erythropoietin and Maturation
+
+### Red-Cell Structure and Haemoglobin
+
+### Oxygen Transport
+
+### Carbon Dioxide Transport and Buffering
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**48%** of candidates passed this question.
+
+Candidates who did not address both parts of the question were unlikely to pass, as approximately half the marks were awarded for each part of the question.
+
+RBCS are derived from a common precursor in the bone marrow and liver in adults This precursor is a pleuripotential cell ie can differentiate into all blood cell lines. It differentiates into various cell lines, including the Colony-Forming-Unit Erythrocyte (CFU-E), which is stimulated by various colony stimulating factors to differentiate into smaller and smaller cells. Haemoglobin concentration increases as differentation continues. Marks were obtained for correctly detailing actions and production of erythropoietin; the structure of haemoglobin, and other structural factors unique to RBCs (eg lack of nucleus and mitochondria).
+
+The function of the RBC is related to its content of haemoglobin. RBCs transport oxygen and carbon dioxide, and have a major role in the buffering capacity of the extracellular fluid. Candidates were expected to briefly outline how the cells carries out these functions.
+
+Common errors included mention of:
+
+"half life of RBCs as 120 days" - rather than average life span
+
+"myeloid stem cells" rather than erythroid.
+
+Giving numerical ranges for Hb levels - but listing it as the RBC count.
+
+reticulocytes having a nucleus - they do not
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2009/B/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Erythrocytes](/content/haeme/erythrocytes.qmd)
+- [Oxygen cascade](/content/resp/oxygen_cascade.qmd)
+- [Carbon dioxide](/content/resp/co2_transport.qmd)

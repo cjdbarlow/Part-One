@@ -1,0 +1,100 @@
+#### List:
+
+- Intro: endothelium
+- Vasodilators
+- Vasoconstrictors
+
+#### Intro:
+
+- Endothelium is a single cell layer on inner lining of blood vessels
+- Produces vasoactive hormones: mostly autocrine and paracrine
+  - Coupling of local blood flow to local metabolic rate
+  - Prevent damage from excessive blood flow
+  - Primary haemostasis
+
+#### Vasodilators:
+
+*Nitric oxide:*
+
++-----------------+--------------------------------------------------------------------------------------+
+| Production      | - L-arginine → NO + citrulline                                                       |
+|                 | - eNOS: small amounts                                                                |
+|                 | - iNOS: large amounts                                                                |
++-----------------+--------------------------------------------------------------------------------------+
+| Release stimuli | - Shear stress                                                                       |
+|                 | - Neurotransmitters: bradykinin, substance P, histamine                              |
+|                 | - Metabolic activity:                                                                |
+|                 | - ↑H^+^, K^+^, PaCO~2~, adenosine, temp, lactate, ↓PaO~2~                            |
+|                 | - Propofol, volatiles                                                                |
++-----------------+--------------------------------------------------------------------------------------+
+| Effect          | - Diffuse into vascular smooth muscle                                                |
+|                 | - Activates guanylyl cyclase / ↑cGMP / activate MLCP, ↑Ca^2+^ reuptake, ↑K^+^ efflux |
+|                 |                                                                                      |
+|                 |    → Vasodilatation                                                                  |
+|                 |                                                                                      |
+|                 |    → Inhibition of platelet aggregation                                              |
+|                 |                                                                                      |
+|                 |    → Mediates ↑skeletal muscle blood flow in exercise                                |
++-----------------+--------------------------------------------------------------------------------------+
+
+*Prostacyclin:*
+
++-----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Production      | ![](/content/exams/anzca/2004/A/10/prize-image001.jpg){fig-alt="Arachidonic acid pathways producing prostaglandins, prostacyclin, thromboxane and leukotrienes"} |
++-----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Release stimuli | - COX-1: constitutive                                                                                                                                            |
+|                 | - COX-2: inducible (by inflammatory cytokines)                                                                                                                   |
++-----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Effect          | - Binds to G~s~ G protein-coupled receptor (GPCR)                                                                                                                |
+|                 | - Activates guanylyl cyclase / ↑cAMP / activation of PKA                                                                                                         |
+|                 |                                                                                                                                                                  |
+|                 |    → Vasodilatation, inhibition of platelet aggregation                                                                                                          |
+|                 |                                                                                                                                                                  |
+|                 |    → Antagonist of TXA~2~                                                                                                                                        |
++-----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Vasoconstrictors:
+
+*Endothelin:*
+
++-----------------+----------------------------------------------------------+
+| Production      | - ECE on endothelial cell membrane                       |
++-----------------+----------------------------------------------------------+
+| Release stimuli | - Stimuli: shear stress, SNS, AT2, ADH, thrombin         |
+|                 | - Inhibitors: NO, PGE~2~, PGI2, ANP                      |
++-----------------+----------------------------------------------------------+
+| Effect          | - ETA receptor: constriction                             |
+|                 | - ETB1: dilatation                                       |
+|                 | - ETB2: constriction                                     |
+|                 | - Via G~q~ GPCR                                          |
+|                 | - Drug targets in pulmonary hypertension (e.g. bosentan) |
++-----------------+----------------------------------------------------------+
+
+*Thromboxane A~2~:*
+
++-----------------+----------------------------------------------+
+| Production      | - As for PGI~2~                              |
+|                 | - TXA~2~ synthase enzyme                     |
++-----------------+----------------------------------------------+
+| Release stimuli | - Inflammation                               |
+|                 | - Vessel injury                              |
++-----------------+----------------------------------------------+
+| Effect          | - Binds TXA~2~ receptor                      |
+|                 | - G~q~ GPCR / PLC / PIP~2~ / IP~3~ → ↑Ca^2+^ |
+|                 | - Vasoconstriction, platelet aggregation     |
++-----------------+----------------------------------------------+
+
+*Angiotensin 2:*
+
++-----------------+--------------------------------------------------------------------+
+| Production      | - Angiotensin → angiotensin 2                                      |
+|                 |                                                                    |
+|                 | (catalyst: angiotensin converting enzyme on pulmonary endothelium) |
++-----------------+--------------------------------------------------------------------+
+| Release stimuli | - ACE constitutively expressed                                     |
++-----------------+--------------------------------------------------------------------+
+| Effect          | - Binds AT2 receptor                                               |
+|                 | - G~q~ GPCR → ↑Ca^2+^                                              |
+|                 | - Peripheral vasoconstriction (arterial \> venous)                 |
+|                 | - Renal arteriolar vasoconstriction (afferent \> efferent)         |
++-----------------+--------------------------------------------------------------------+

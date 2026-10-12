@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015B Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the components of soda lime, used for the absorption of carbon dioxide. [**Outline**]{.task-verb} the hazards associated with the use of soda lime within a circle circuit and how the risks can be minimised.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} the components, then [**outline**]{.task-verb} hazards alongside measures that reduce each risk. Organise the outline around absorber function, physical hazards and unwanted products rather than circuit anatomy.
+
+::: {.structure-headings}
+### Components and Their Roles
+
+### Absorbent Exhaustion and Carbon Dioxide Rebreathing
+
+### Resistance, Heat, Dust and Circuit Integrity
+
+### Compound A and Risk Reduction
+
+### Carbon Monoxide and Risk Reduction
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**15%** of candidates achieved a pass in this question
+
+This question consisted of three components and all components required answering to pass. The better candidates listed the correct components of soda lime and showed a basic understanding of chemistry with correct formulae and knowledge of how pH indicators work. The chemical reactions in soda lime were not asked for nor the anatomy of the circle system. Many candidates outlined the hazards of soda lime but not how to reduce these hazards. The factors which increase the production of Compound A and CO were not awarded points. The question asked for factors which decreased the production of Compound A and CO. There was confusion regarding fresh gas flow in relation to CO production; high fresh gas flow desiccates soda lime predisposing to CO production but will also decrease the CO in a circuit when attached to a patient by flushing it out. Extra marks were awarded for understanding the role of silica and the importance of particle size in soda lime.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2015/B/2/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Circle breathing system](/content/equipment/circle_system.qmd)

@@ -1,0 +1,43 @@
++------------------+---------------------+-----------------------+-------------------------------------------------+
+| **Cell**         | **Product**         | **Release stimulus**  | **Effect**                                      |
++==================+=====================+=======================+=================================================+
+| Chief cell       | Pepsinogen → pepsin | ↓Gastric pH           | Proteolysis (pepsin)                            |
+|                  |                     |                       |                                                 |
+|                  | Gastric lipase      | ↓Intestinal pH        | Lipolysis                                       |
+|                  |                     |                       |                                                 |
+|                  |                     | ACh (CNX)             |                                                 |
+|                  |                     |                       |                                                 |
+|                  |                     | Gastrin               |                                                 |
++------------------+---------------------+-----------------------+-------------------------------------------------+
+| Parietal cell    | HCl                 | Gastric peptides      | 1.  Proteolysis                                 |
+|                  |                     |                       | 2.  Activate pepsin                             |
+|                  | IF                  | Duo peptides          | 3.  Kill microbes                               |
+|                  |                     |                       | 4.  Reduce iron to Fe^2+^                       |
+|                  |                     | ACh (CNX)             | 5.  Stimulate pancreatic and biliary secretions |
+|                  |                     |                       |                                                 |
+|                  |                     | Gastrin               | Complexes B~12~ (IF)                            |
+|                  |                     |                       |                                                 |
+|                  |                     | Histamine             |                                                 |
++------------------+---------------------+-----------------------+-------------------------------------------------+
+| G cell           | Gastrin             | ACh → GRP             | ↑parietal cell activity                         |
+|                  |                     |                       |                                                 |
+|                  |                     | Gastric distension    |                                                 |
+|                  |                     |                       |                                                 |
+|                  |                     | Gastric peptides      |                                                 |
+|                  |                     |                       |                                                 |
+|                  |                     | Caffeine, alcohol     |                                                 |
++------------------+---------------------+-----------------------+-------------------------------------------------+
+| D cell           | Somatostatin        | Gastric acid          | ↓Chief cell activity                            |
+|                  |                     |                       |                                                 |
+|                  |                     | Duodenal acid         | ↓Parietal cell activity                         |
+|                  |                     |                       |                                                 |
+|                  |                     | GIP, CGRP             |                                                 |
++------------------+---------------------+-----------------------+-------------------------------------------------+
+| E cell           | Histamine           | ACh                   | ↑parietal cell activity                         |
+|                  |                     |                       |                                                 |
+|                  |                     | Gastrin               |                                                 |
++------------------+---------------------+-----------------------+-------------------------------------------------+
+| Mucous neck cell | Mucous              | Constitutive (PGE~2~) | Physical barrier                                |
+|                  |                     |                       |                                                 |
+|                  | HCO~3~^-^           | Irritation            | Chemical buffer                                 |
++------------------+---------------------+-----------------------+-------------------------------------------------+

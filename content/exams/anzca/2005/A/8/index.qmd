@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005A Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the pathology of acute anaphylactic reactions with reference to the mediators released and their effects. Outline the role of epinephrine and its mechanisms of action in treating anaphylaxis.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} sensitisation and the acute IgE-mediated reaction before linking released mediators to their effects. Explain how epinephrine receptor actions reverse these effects, including dose, route and repeat administration.
+
+::: {.structure-headings}
+### Sensitisation and Mast-Cell Activation
+
+### Released Mediators and Their Effects
+
+### Cardiovascular and Respiratory Consequences
+
+### Epinephrine: Receptors, Effects and Administration
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**43 %** of candidates passed this question.
+
+Some candidates did not attempt this question. The main points expected were an outline of the type 1, IgE-mediated hypersensitivity reaction, including a brief mention of the primary response at first exposure (“prior exposure”). The relationship between the precipitant (drug, hapten, latex), IgE, mast cells and basophils, and the variety of released substances, were key points expected for a pass. These were frequently sparse in detail. It was expected that at least four substances released from mast cells could be named, and their effects (via specific receptors, etc) outlined. The dose, route and mechanisms by which epinephrine (adrenaline) acts to ablate an anaphylactic reaction was expected.
+
+Some candidates discussed the use of ephedrine, which did not gain marks. Mention of other treatments was not required. Useful additional marks were awarded to those who mentioned that repeat administration (or infusion) of epinephrine may be required.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2005/A/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Histamine](/content/endo/histamine.qmd)
+- [Adrenoreceptors](/content/cvs/adrenoreceptors.qmd)

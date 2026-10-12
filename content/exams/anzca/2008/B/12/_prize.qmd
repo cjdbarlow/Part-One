@@ -1,0 +1,85 @@
+#### List:
+
+- Protective: immunity and detox
+- Regulatory: macronutrient supply, blood volume, oncotic pressure, coagulation status
+
+#### Protective:
+
++-------------------+------------------------------------------------------------------------------------------------+
+| Innate immunity   | - Filter portal blood                                                                          |
+|                   | - Kupffer cells: phagocytosis, cytokine secretion (IL-1, IL-6, TNF-α)                          |
+|                   | - Synthesises complement (opsonization, lysis, chemotaxis)                                     |
+|                   | - Synthesises acute phase reactants (CRP activates complement, Ferritin, α~1~ antitrypsin)     |
++-------------------+------------------------------------------------------------------------------------------------+
+| Adaptive immunity | - Kupffer cells: present antigens to T~H~ cells                                                |
+|                   | - (Kupffer cells are macrophages lining the sinusoids)                                         |
++-------------------+------------------------------------------------------------------------------------------------+
+| Detoxification    | - Affects toxins and drugs                                                                     |
+|                   | - Oral route via portal blood = first pass metabolism. Barrier between gut and rest of body.   |
+|                   | - Other routes via hepatic arterial blood                                                      |
+|                   | - Phase 1 reactions: oxidation, reduction, hydrolysis. By CYP450. Usually inactivates.         |
+|                   | - Phase 2 reactions: glucuronidation, sulfation, acetylation, methylation. Usually solubilizes |
+|                   | - Large, lipid soluble metabolite → bile, faeces                                               |
+|                   | - Small, water soluble metabolite → urine                                                      |
++-------------------+------------------------------------------------------------------------------------------------+
+
+#### Regulatory:
+
++------------------------------+--------------------------------------------------------------------------------------------------------------+
+| Macronutrient concentrations | Carbohydrates:                                                                                               |
+|                              |                                                                                                              |
+|                              | - Islet β-cell = glucostat, liver = major effector                                                           |
+|                              | - Constitutive GLUT-2 = free glucose movement                                                                |
+|                              | - Direction of glucose flow controlled by hexokinase activity, not portal blood \[glucose\]                  |
+|                              | - Insulin → ↑uptake, ↑trapping as G6P (↑hexokinase, glycogenesis, DNL, glycolysis)                           |
+|                              | - Glucagon, cortisol, SNS → ↑release (↓hexokinase, ↑glycogenolysis, gluconeogenesis, lipolysis)              |
+|                              |                                                                                                              |
+|                              | Proteins:                                                                                                    |
+|                              |                                                                                                              |
+|                              | - Amino acid synthesis (↑insulin:glucagon) and breakdown (↓insulin:glucagon)                                 |
+|                              | - Transamination (ALT, AST)                                                                                  |
+|                              | - Uptake and release into circulation as required                                                            |
+|                              |                                                                                                              |
+|                              | Lipids:                                                                                                      |
+|                              |                                                                                                              |
+|                              | - Glucose → fatty acid when glucose in excess (↑fatty acid synthase)                                         |
+|                              | - Fatty acid → ketones when ↑Acetyl-CoA:OAA ratio                                                            |
+|                              | - Synthesises apolipoproteins                                                                                |
++------------------------------+--------------------------------------------------------------------------------------------------------------+
+| Oncotic pressure             | - Synthesises and recycles albumin. Stable 40g/L                                                             |
+|                              | - Synthesises α and β globulins (not γ-globulin)                                                             |
+|                              | - Regulates plasma oncotic pressure, blood volume                                                            |
+|                              | - Minimizes transudation and oedema                                                                          |
++------------------------------+--------------------------------------------------------------------------------------------------------------+
+| Blood volume                 | - Blood reservoir \~450mL                                                                                    |
+|                              | - ↓Blood vol → ↑α1 vasoconstriction of sinusoids→ autotransfusion \~200mL                                    |
+|                              | - ↑Blood vol → ↓α~1~ vasoconstriction → ↑capacitance (up to 1.5L in heart failure)                           |
++------------------------------+--------------------------------------------------------------------------------------------------------------+
+| Red cell mass                | - Synthesises EPO: 10% in adult, near 100% in foetus                                                         |
+|                              | - Degrades EPO                                                                                               |
++------------------------------+--------------------------------------------------------------------------------------------------------------+
+| Coagulation status           | - Synthesises all coag proteins except vWF                                                                   |
+|                              | - Synthesises anticoag proteins C, S, AT3                                                                    |
+|                              | - Synthesises plasminogen                                                                                    |
++------------------------------+--------------------------------------------------------------------------------------------------------------+
+| ECF volume                   | - Synthesises angiotensinogen (regulate ECF \[Na+\], ECF water, blood volume via Angiotensin 2, aldosterone) |
++------------------------------+--------------------------------------------------------------------------------------------------------------+
+| Calcium homeostasis          | - Activates Vit D → 25-OH-Vit D                                                                              |
++------------------------------+--------------------------------------------------------------------------------------------------------------+
+| GIT absorption               | - Continuous synthesis of bile                                                                               |
+|                              | - Regulation of storage in and release from gallbladder is by CCK                                            |
+|                              | - Bile = salts + acids + cholesterol + lecithin                                                              |
+|                              | - Transports lipid soluble substances into GIT for excretion                                                 |
+|                              | - Emulsifies dietary lipids, ↑ absorption of lipids and ADEK                                                 |
++------------------------------+--------------------------------------------------------------------------------------------------------------+
+
+#### Addit: Usual classification of functions of the liver:
+
+- Metabolism: CHO, prot, lipids, ketones, alcohol
+- Excretion: bile, urea
+- Synthesis: plasma proteins, bile, coagulation related factors, bilirubin
+- Storage: glycogen, vitamins, metals
+- Hormonal: synthesis, activation, degradation
+- Haematological: blood reservoir, procoag + anticoag + fibrinolytic
+- Immunological: innate + adaptive
+- Detoxification: toxins and drugs

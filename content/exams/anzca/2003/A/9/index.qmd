@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003A Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the role of haemoglobin as a buffer.
+:::
+
+Also asked in: [2010B Question 15](/content/exams/anzca/2010/B/15/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} buffering using haemoglobin amount, histidine imidazole groups and their pKa. Trace carbon dioxide reactions within the red cell and explain why deoxygenated haemoglobin buffers better where hydrogen ions are generated.
+
+::: {.structure-headings}
+### Buffer Definition and Requirements
+
+### Haemoglobin Structure, Amount and Histidine Groups
+
+### Carbon Dioxide Reactions in Red Cells
+
+### Hydrogen Ion Binding and Bicarbonate Transport
+
+### Deoxygenation, pKa and Venous pH
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Only **38%** of candidates passed this question. A definition of a buffer was required, and also that buffering capacity or effectiveness depends on the concentration of the buffer relative to the ambient pH of the solution. Haemoglobin, although intracellular (within the erythrocyte), functions mainly as an “extracellular” buffer for CO~2~ (volatile acid) formed from aerobic metabolism. The solubility of CO~2~, the presence of carbonic anhydrase within the erythrocyte and the buffering capacity of haemoglobin all contribute to make the haemoglobin buffering system extremely efficient.
+
+Haemoglobin is a quantitatively important buffer because there is a large amount present in blood – 150gm/L. Also the imidazole groups of the histidine residues of the globin chains are an effective buffer as their pKa of 6.8 is close to the pH within the erythrocyte. The buffering capacity of haemoglobin is greatest when it is needed most, that is when haemoglobin is deoxygenated in venous blood with a higher CO~2~ content. Deoxygenated haemoglobin is a better buffer than oxyhaemoglobin as it is a weaker acid, and the pK~a~ of its imidazole groups are higher at 7.9. This information was deficient in most answers. The increased buffering capacity of deoxygenated haemoglobin contributes approximately 30% of the Haldane effect.
+
+Many candidates incorrectly stated that haemoglobin functioned as a buffer by the formation of carbamino compounds. The dissociation of carbamino compounds within the erythrocyte actually adds hydrogen ions that need to be buffered by haemoglobin and other buffers. Better answers mentioned the fact that the bicarbonate buffer system cannot buffer carbonic acid (CO~2~) as they form part of the same weak acid – conjugate base pair.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2003/A/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Carbon dioxide transport](/content/resp/co2_transport.qmd)
+- [Acid–base regulation](/content/renal/acid_base.qmd)
+- [Erythrocytes](/content/haeme/erythrocytes.qmd)

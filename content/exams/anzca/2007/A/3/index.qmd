@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007A Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} factors contributing to inter-individual variability in the therapeutic response to opioid analgesic medications.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} pharmacokinetic and pharmacodynamic causes of variability with opioid-specific examples. Include disease, physiological states, interactions, genetics, tolerance and previous pain experience.
+
+::: {.structure-headings}
+### Absorption and Distribution
+
+### Metabolism, Genetics and Elimination
+
+### Receptors, Signalling and Tolerance
+
+### Drug Interactions
+
+### Physiological, Pathological and Psychosocial Factors
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**69%** of candidates passed this question.
+
+A structured approach was expected dividing the issues along pharmacokinetic / pharmacodynamic lines. A patient factors approach or other structure was also acceptable. The discussion was expected to relate the underlying factors to opioid analgesics. The question was specifically related to inter-individual variability and a simple discussion of mechanisms of action or side effect profiles for varying opioid agents scored no additional marks.
+
+Candidates were expected to outline that variability can be seen in areas of absorption, distribution, metabolism and elimination of these agents. Credit was given to candidates who outlined the potential impact of liver or renal disease with specific examples. The discussion would also include the impact of factors such as age, pregnancy, coexisting medical disease or concurrent medication use. Discussion of genetic influences on enzymes and receptors was expected and was well covered by most candidates. Discussion of tolerance, prior drug exposures and previous pain experiences in influencing individual responses attracted extra marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/A/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Opioid pharmacology](/content/pharmacopoeia/analgesics/opioidspharm.qmd)
+- [Alterations to drug response](/content/pharmacology/alterations_to_response.qmd)

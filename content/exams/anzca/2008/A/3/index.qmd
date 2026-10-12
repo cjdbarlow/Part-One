@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008A Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the ideal pharmacokinetic and pharmacodynamic properties of agents used for sedation. [**Outline**]{.task-verb} the pharmacology of midazolam and propofol with reference to these ideal properties.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} desirable kinetics and dynamics for sedation, then [**outline**]{.task-verb} how midazolam and propofol meet or fail each criterion. Keep the comparison tied to rousability, anxiolysis, amnesia and cardiorespiratory stability.
+
+::: {.structure-table}
+| Feature | Ideal | Midazolam | Propofol |
+|---|---|---|---|
+| Onset and Offset | | | |
+| Anxiolysis, Amnesia and Rousable Sedation | | | |
+| Analgesia and Therapeutic Margin | | | |
+| Cardiovascular and Respiratory Effects | | | |
+| Overall Suitability | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**66%** of candidates passed this question.
+
+The main points expected for a pass included a description of the ideal pharmacokinetic and pharmacodynamic features of an agent specifically suited to the clinical situation of providing sedation. Therefore, pharmacokinetic features that result in a rapid onset and offset of effect with boluses or infusion is ideal. Also the effects of anxiolysis, amnesia and arousable sedation were considered desirable, with low propensity to inadvertently progress to general anaesthesia.
+
+A discussion about other ideal features such as analgesia and stable cardio-respiratory effects of the sedation agents were also expected.
+
+An outline of how midazolam and propofol fitted this ideal agent’s features was also required.
+
+Extra marks were awarded for an opinion comparing the suitability of midazolam and propofol suitability for the provision of sedation, based upon the profiles generated above.
+
+A common error was to include pharmaceutic information that was not required, and factual pharmacokinetic information about each drug was given little credit when not applied to how it affected the agents profile with reference to the ideal agent.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2008/A/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Propofol](/content/pharmacopoeia/neuro/propofol.qmd)
+- [Benzodiazepines](/content/pharmacopoeia/neuro/benzodiazepines.qmd)

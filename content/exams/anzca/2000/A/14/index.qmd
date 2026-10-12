@@ -1,0 +1,99 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000A Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the roles of plasma esterases on drugs used in anaesthesia.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} the esterase systems by linking the drugs they metabolise to clearance, duration of action and the effects of altered enzyme activity.
+
+::: {.structure-table}
+| Enzyme System | Relevant Drugs | Pharmacological Consequences | Altered Activity |
+|---|---|---|---|
+| Plasma Cholinesterase | | | |
+| Non-Specific Plasma Esterases | | | |
+| Red Cell Esterases | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**67%** of candidates passed this question. Good answers included an overview of the unique properties of the esterases and their pharmacological implications followed by a discussion of pseudocholinesterase (butyrylcholinesterase) and non-specific plasma and red cell esterases. ie.
+
+Overview;
+
+- Hydrolysis of ester bonds with drug inactivation by esterases
+- High capacity/clearance enzymes produced in liver and red cells
+- Non organ dependent drug metabolism with generally inactive metabolites
+- Exceptions including laudanosine and salicylic acid
+
+Pseudocholinesterase;
+
+- Metabolism of succinylcholine, mivacurium, and ester local anaesthetics
+- Potential problems with congenital and acquired dysfunction
+- Common congenital pseudocholinesterase variants and clinical implications
+- Acquired dysfunction including physiological, pathological and drug interactions
+
+Non specific plasma esterases;
+
+- Metabolism of remifentanil, atracurium
+- High capacity systems little effected by hepatic metabolism
+- High clearance of remifentanil with infusion and independent short context sensitive t1/2
+- Atracurium and laudanosine
+
+Red Cell esterases;
+
+- Metabolism of esmolol and possibly remifentanil
+- High clearance of esmolol with short duration, titratable
+
+Some problems with answers included; extensive discussion of acetylcholinesterase and detailed discussion of pseudocholinesterase with none of plasma and red cell esterases.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2000/A/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Drug metabolism](/content/pharmacology/metabolism.qmd)
+- [Neuromuscular blockers](/content/msk/neuromuscular_blockers.qmd)

@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019A Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the factors that determine the rate of recovery from non-depolarising neuromuscular block.
+:::
+
+Also asked in: [2009A Question 3](/content/exams/anzca/2009/A/3/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} determinants of offset, explaining how each changes effect site concentration or the concentration needed for recovery. Include dosing, redistribution, elimination, physiological and pathological factors, interactions and reversal.
+
+::: {.structure-headings}
+### Dose and Effect Site Concentration
+
+### Redistribution and Elimination
+
+### Physiological and Pathological Factors
+
+### Drug Interactions and Sensitivity
+
+### Reversal and Recovery of Function
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**42%** of candidates achieved a pass in this question
+
+Candidates who were able to grasp the significance of the factors that change the offset duration and explain why this occurred typically scored very well in this question. Broadly the topics for which marks were allocated were: drug dosing; type of agent; metabolism; effect of acetylcholine receptor changes; effect of altered physiological states; significant drug-drug interactions and reversal agents
+
+Many candidates demonstrated an excellent understanding of one or two areas but were let down by omitting from their discussion other areas altogether (typically metabolism and reversal agents).
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2009/A/3/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2009/A/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neuromuscular blockers](/content/msk/neuromuscular_blockers.qmd)

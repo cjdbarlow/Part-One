@@ -1,0 +1,47 @@
+#### List:
+
+- Intro: summary and relevant anatomy
+- Determinants of IOP
+
+#### Intro:
+
++---------+--------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Summary | - Definition: force per unit area within the globe                                                                                                           |
+|         | - Normal value: 15mmHg                                                                                                                                       |
+|         | - Physiological role: maintaining corneal refraction                                                                                                         |
+|         | - Similar physiology to intracranial pressure                                                                                                                |
+|         | - Monroe-Kellie doctrine: relatively fixed volume, poor compliance; increase in one substance comes at the expense of another or else pressure rises rapidly |
+|         | - Excessive IOP → compression on optic nerve, blindness                                                                                                      |
++---------+--------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Anatomy | - Anterior chamber: aqueous humour                                                                                                                           |
+|         | - Canal of Schlemm = lymphatic-like vessel around outside anterior chamber                                                                                   |
+|         | - Posterior chamber: vitreous humour                                                                                                                         |
+|         | - In between chambers: iris, lens, ciliary body and muscle                                                                                                   |
+|         | - Blood supply: retinal artery and choroidal arteries                                                                                                        |
++---------+--------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Determinants of IOP:
+
++---------------------------+---------------------------------------------------------------------------+
+| Amount of vitreous humour | - Not under control                                                       |
+|                           | - Minimally changing                                                      |
++---------------------------+---------------------------------------------------------------------------+
+| Amount of aqueous humour  | - Production: by ciliary body, constant at mAP \> \~70mmHg                |
+|                           |   - Decreased by acetazolamide, mannitol                                  |
+|                           | - Reabsorption: via trabecular meshwork into canal of Schlemm\            |
+|                           |   (most important factor)                                                 |
+|                           |   - Mydriasis → ↑resistance to reabsorption                               |
+|                           |   - Glaucoma: → ↑resistance to reabsorption                               |
+|                           |   - Mannitol: ↑reabsorption                                               |
++---------------------------+---------------------------------------------------------------------------+
+| Amount of blood           | - Supply: via retinal and choroidal arteries                              |
+|                           | - Drainage: via retinal and ? other veins                                 |
+|                           | - ↑mAP → ↑vol                                                             |
+|                           | - ↑CVP → obstruction to drainage → ↑volume (e.g. coughing, Valsalva, PPV) |
+|                           | - ↑PaCO~2~ → vasodilatation → ↑volume                                     |
+|                           | - ↓PaO~2~ → vasodilatation → ↑volume                                      |
++---------------------------+---------------------------------------------------------------------------+
+| Volume of globe           | - Contraction of extra-ocular muscles → ↓volume → ↑pressure\              |
+|                           |   (e.g. suxamethonium)                                                    |
+|                           | - External compression in prone surgery → ischaemia                       |
++---------------------------+---------------------------------------------------------------------------+

@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003B Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the role of the kidney in the regulation of body water.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} **Sodium-Associated Water and Pure Water Regulation**, **Production of Dilute and Concentrated Urine**, and **Role of ADH**. Place the renal response within overall water homeostasis.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**34%** of candidates passed this question.
+
+Important concepts expected were:
+
+- The identification and separation of discussion about sodium chloride and associated water (i.e. saline) and "pure" water regulation.
+- Description of the ability and associated mechanisms for production of either hypo- or hyper tonic urine relative to plasma.
+- Identification and discussion of the role of ADH within this process.
+
+Common errors or omissions included:
+
+- Many answers failed to address the question as asked.
+- Terms such as water, volume and fluid depletion were used in ambiguous ways.
+- Directionless relationships e.g. a change in X causes a change in Y.
+- Failure to discuss how dilute urine is produced.
+
+Better answers:
+
+- Discussed the threshold and gain for hypo-osmolarity vs. hypo volemia.
+- Set the role of the kidney within the broader scope of water homeostasis.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Sodium and Water](/content/renal/sodium.qmd)
+- [Endocrine Functions of the Kidney](/content/renal/endocrine.qmd)

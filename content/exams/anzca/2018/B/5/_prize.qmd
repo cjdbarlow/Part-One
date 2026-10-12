@@ -1,0 +1,125 @@
+#### List:
+
+- Summary
+- Haemodynamics
+- Blood
+- Regional circulation
+- Labour
+- Other
+
+#### Summary:
+
++------------------------+-------------------------------+
+| Objectives             | - Support foetal gas exchange |
+|                        | - Prepare for massive PPH     |
++------------------------+-------------------------------+
+| Most important changes | - ↑Blood volume               |
+|                        | - ↑Interstitial volume        |
+|                        | - ↑Cardiac output             |
+|                        | - ↑Coagulability              |
++------------------------+-------------------------------+
+| Causes                 | - Placental hormones          |
+|                        | - ↑Demand                     |
++------------------------+-------------------------------+
+
+#### Haemodynamics:
+
++------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| Heart rate                   | ![](/content/exams/anzca/2018/B/5/prize-image001.jpg){fig-alt="Heart rate percentage change over gestation"}                   |
+|                              |                                                                                                                                |
+|                              | - ↑Uteroplacental demand → ↑venous return                                                                                      |
+|                              |                                                                                                                                |
+|                              | (Note: ↑HR occurs from \~4/40, not conception)                                                                                 |
++------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| Stroke volume                | ![](/content/exams/anzca/2018/B/5/prize-image002.jpg){fig-alt="Stroke volume percentage change over gestation"}                |
+|                              |                                                                                                                                |
+|                              | - ↑Uteroplacental demand → ↑venous return                                                                                      |
+|                              | - ↑RR and V~T~ → ↑respiratory pump                                                                                             |
+|                              |                                                                                                                                |
+|                              | (Note: ↑SV occurs a bit later than for heart rate)                                                                             |
++------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| Cardiac output               | ![](/content/exams/anzca/2018/B/5/prize-image003.jpg){fig-alt="Cardiac output percentage change over gestation"}               |
+|                              |                                                                                                                                |
+|                              | - ↑Uteroplacental demand                                                                                                       |
+|                              | - Note increased risk of heart failure                                                                                         |
++------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| Systemic vascular resistance | ![](/content/exams/anzca/2018/B/5/prize-image004.jpg){fig-alt="Systemic vascular resistance percentage change over gestation"} |
+|                              |                                                                                                                                |
+|                              | - Progesterone, prostaglandins →                                                                                               |
+|                              | - Smooth muscle relaxation                                                                                                     |
+|                              | - Downregulation of α~1~ adrenoceptors                                                                                         |
++------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| Blood pressure               | ![](/content/exams/anzca/2018/B/5/prize-image005.jpg){fig-alt="Blood pressure percentage change over gestation"}               |
+|                              |                                                                                                                                |
+|                              | - ↓↓Diastolic, ↓systolic, ↑pulse pressure                                                                                      |
+|                              | - Due to ↓SVR with ↑stroke volume                                                                                              |
++------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+
+#### Blood:
+
++---------------------+---------------------------------------------------------------------------------------------------------------------------------+
+| Blood volume        | ![](/content/exams/anzca/2018/B/5/prize-image006.jpg){fig-alt="Plasma, total blood and red cell volume changes over gestation"} |
+|                     |                                                                                                                                 |
+|                     | ![](/content/exams/anzca/2018/B/5/prize-image007.jpg){fig-alt="Haemoglobin concentration over gestation"}                       |
+|                     |                                                                                                                                 |
+|                     | - Causes:                                                                                                                       |
+|                     |   - Oestrogen → ↑RAAS → retain Na^+^, H~2~O                                                                                     |
+|                     |   - Oestrogen → ↑Epo                                                                                                            |
+|                     | - Implications:                                                                                                                 |
+|                     |   - Iron supplementation aids erythropoiesis                                                                                    |
+|                     |   - Hypervolaemic haemodilution improves tolerance of massive PPH                                                               |
+|                     |   - Hypoviscosity aids increased cardiac output                                                                                 |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------+
+| Interstitial volume | - Mucosal swelling, peripheral oedema                                                                                           |
+|                     | - Causes:                                                                                                                       |
+|                     |   - Oestrogen → ↑RAAS                                                                                                           |
+|                     |   - Progesterone → vasodilatation                                                                                               |
+|                     | - Implication:                                                                                                                  |
+|                     |   - ? Fluid reserve in case of blood loss (no evidence for this)                                                                |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------+
+| Plasma proteins     | - ↓\[Albumin\], ↔AAG                                                                                                            |
+|                     | - ↓Oncotic pressure 14%                                                                                                         |
+|                     | - Cause: progesterone → volume expansion → dilution                                                                             |
+|                     | - Implication: ↑free % acidic drugs e.g. ↑risk thiopentone toxicity if GA LUSCS                                                 |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------+
+| Hypercoagulability  | - ↑Factors I (2x), VII, VIII, IX, X, XII, vWF                                                                                   |
+|                     | - ↓Protein S, acquired resistance to Prot C                                                                                     |
+|                     | - Cause: oestrogen                                                                                                              |
+|                     | - Implication: ↓risk lethal bleeding, ↑risk thromboembolism                                                                     |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------+
+
+#### Regional circulations:
+
++--------------------+-------------------------------------------------------------------+
+| Uterine blood flow | - 150mL/min → 750mL/min (80% uteroplacental, 20% other)           |
+|                    | - Cause: ↑demand                                                  |
+|                    | - Implication: potential for rapid bleeding                       |
++--------------------+-------------------------------------------------------------------+
+| Other              | - Renal blood flow: ↑80%, mostly in T1                            |
+|                    |   - Hence ↑urine output                                           |
+|                    | - ↑Flow rate through skin, muscle, breast, GIT                    |
+|                    |   - Hence faster onset of SC and IM drugs (e.g. opioid in labour) |
++--------------------+-------------------------------------------------------------------+
+
+#### Labour:
+
++---------------------------+----------------------------------------------------------------------------------------------------------------------+
+| Escalating cardiac output | ![](/content/exams/anzca/2018/B/5/prize-image008.jpg){fig-alt="Cardiac output changes during labour and postpartum"} |
+|                           |                                                                                                                      |
+|                           | - Intrapartum: effort + pain + distress (attenuated by epidural)                                                     |
+|                           | - Post-partum: uterine involution → autotransfusion (highest risk of heart failure)                                  |
++---------------------------+----------------------------------------------------------------------------------------------------------------------+
+
+#### Pathology:
+
++-------------------------------+-------------------------------------------------------------------+
+| Supine aortocaval compression | - i.e. supine → ↓↓mAP                                             |
+|                               | - Blood shunted to azygos systems                                 |
+|                               | - Affects 15% patients                                            |
+|                               | - From 20/40                                                      |
+|                               | - Prevention: wedge under right hip during LUSCS or resuscitation |
++-------------------------------+-------------------------------------------------------------------+
+| Pre-eclampsia                 | - Cause: ? abnormal invasion or spiral arteries by trophoblast    |
+|                               | - Characterised by multi-system endothelial dysfunction           |
+|                               | - Risk of hypertensive emergency and seizure                      |
++-------------------------------+-------------------------------------------------------------------+

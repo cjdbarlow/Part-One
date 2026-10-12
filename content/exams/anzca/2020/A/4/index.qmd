@@ -1,0 +1,103 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2020A Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Compare and contrast**]{.task-verb} the effects of sevoflurane and nitrous oxide on the cardiovascular system.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Compare and contrast**]{.task-verb} effects at clinically relevant doses, pairing each cardiovascular change with its mechanism. Keep direct myocardial and vascular actions distinct from autonomic effects and include pulmonary and regional circulations.
+
+::: {.structure-table}
+| Feature | Sevoflurane | Nitrous Oxide |
+|---|---|---|
+| Dose Dependence and Mechanisms | | |
+| Heart Rate and Contractility | | |
+| Cardiac Output and Arterial Pressure | | |
+| Systemic and Pulmonary Vascular Resistance | | |
+| Regional Circulations and Clinical Implications | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The major domains assessed in this question were
+
+General – dose dependency, comparison of doses used, understanding of differences between agents
+
+Pharmacodynamics – Mechanisms and effects of both agents on cardiovascular parameters
+
+Credit was given for other relevant correct material including clinical utility of combining agents at reduced doses to promote cardiovascular stability.
+
+Common problems were....
+
+Not providing a mechanism for Nitrous Oxide’s cardiovascular effects
+
+Not providing a reason why Sevoflurane and Nitrous Oxide have different effects
+
+Not describing the dose dependent nature of effects seen
+
+Omitting effects on pulmonary vasculature
+
+Omitting effects on regional circulations
+
+Inaccurate effect of Sevoflurane on the baroreceptor reflex
+
+There was confusion about how cardiovascular parameters interacted. Many candidates incorrectly stated that cardiac output decreases due to decreased systemic vascular resistance or that decreased cardiac output was the main cause of decreased mean arterial pressure with Sevoflurane.
+
+This material can be found in –
+
+Miller (8th edition) Chapter 28 Inhaled Anesthetics: Cardiovascular Pharmacology
+
+Katzung, Basic and Clinical Pharmacology 14e Chapter 25 General Anesthetics
+
+Stoelting’s Pharmacology and Physiology in Anesthetic Practice, 5e Chapter 4 Inhaled Anaesthetics
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2020/A/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational anaesthetic agents](/content/pharmacopoeia/neuro/inhalational_anaesthetic_agents.qmd)
+- [Nitrous oxide](/content/pharmacopoeia/neuro/nitrous_oxide.qmd)

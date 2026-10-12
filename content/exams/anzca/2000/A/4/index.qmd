@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000A Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the difference between a single twitch and tetanic contraction in a skeletal muscle fibre. [**Include**]{.task-verb} in your answer the physiological basis for the development of a tetanic contraction.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} **Single Twitch**, **Summation and Tetanic Contraction**, and **Physiological Basis**. Relate stimulation frequency, relaxation and intracellular calcium to the development and maintenance of tetanic force.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**53%** of candidates passed this question. The main points expected in the answer were:-
+
+- A Single twitch is the response to a single stimulus, whereas a tetanic contraction is the response to repetitive stimulation above a critical frequency.
+- The critical frequency depends on the single twitch duration in that muscle fibre.
+- Repetitive stimulation before complete relaxation causes summation of contractions, and repetitive stimulation before any relaxation causes tetanic contraction.
+- The physiological basis of tetanic contraction is the maintenance of a high Ca^++^ concentration in the myoplasm, as repetitive sarcolemmal depolarisation causes Ca^++^ to enter the myoplasm faster than it is pumped out into the sarcoplasmic reticulum.
+- The contractile mechanism has no refractory period.
+- The tetanic force is up to 4 times greater than that of a single twitch.
+- Tetanic contraction continues until the repetitive depolarisation ceases or until fatigue occurs.
+
+Other points which gained marks included:
+
+- A description of the mechanism by which sarcolemmal depolarisation causes Ca^++^ to enter the myoplasm.
+- Mention of high ATP consumption during tetanus.
+- A brief description of the role of Ca^++^ in electromechanical coupling.
+- Actin-myosin bridge formation (and hence shortening) continue as long as the Ca^++^ concentration in the myoplasm is high.
+
+Several candidates mis-read the question, assuming it to be about the response to use of a peripheral nerve stimulator in the operating theatre, while in fact the question was about normal neuromuscular physiology in the intact human. Failure to discuss the role of calcium was a stumbling block for some candidates.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Skeletal Muscle](/content/msk/skeletal_muscle.qmd)

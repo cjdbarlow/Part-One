@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008A Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the classes of drugs that are useful in inducing diuresis clinically. [**Outline**]{.task-verb} their mechanism of action.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} clinically useful classes with examples and [**outline**]{.task-verb} their mechanisms at the relevant channel, enzyme or receptor. Connect nephron site to local and downstream tubular effects.
+
+::: {.structure-headings}
+### Osmotic Agents
+
+### Carbonic Anhydrase Inhibitors
+
+### Loop and Thiazide Diuretics
+
+### Aldosterone Antagonists and ENaC Inhibitors
+
+### Other Drugs with Diuretic Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**38%** of candidates passed this question.
+
+This question integrated the General Instructional Objective and aspects of all the Required Abilities laid out in the Primary Syllabus section on diuretics.
+
+For just over 70% of the marks available it was expected that candidates would list the classes - osmotic, carbonic anhydrase inhibition, loop, thiazide, aldosterone antagonism, and potassium sparing, then outline the mechanism of action. The remaining marks were approximately evenly split between other drug classes exhibiting significant diuretic action and their mechanisms, and overall understanding demonstrated of the interplay of renal physiology, diuretic pharmacology, and clinical effect.
+
+Highly detailed explanations of mechanism of action were not required, but answers demonstrating an understanding of both the channel/enzyme/receptor site and the local, and more distal, tubular consequences of that action scored very well. Many candidates described only the site of action and stated this "reduced sodium reabsorption".
+
+Cellular level mechanism of action was most commonly misunderstood for carbonic anhydrase inhibition where, amongst other problems, the majority of candidates failed to mention the decreased bicarbonate removal from the filtrate and resulting metabolic acidosis.
+
+The question asked about diuretics that were "useful....clinically.” Very few candidates mentioned, or showed understanding of, the relative potencies, the common conditions diuretics are used to treat, nor related diuretic action to the pathophysiology of those conditions.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2008/A/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Diuretics](/content/pharmacopoeia/renal/diuretics.qmd)

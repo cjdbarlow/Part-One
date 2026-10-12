@@ -1,0 +1,39 @@
+#### Graphs:
+
+![](/content/exams/anzca/2021/A/8/prize-image001.jpg){fig-alt="Regional ventilation and perfusion against lung height with ventilation–perfusion ratio"}
+
+------------------------------------------------------------------------
+
+![](/content/exams/anzca/2021/A/8/prize-image002.jpg){fig-alt="Oxygen–carbon dioxide diagram showing mixed venous, basal, ideal, apical and humidified air gas tensions"}
+
+#### Discussion:
+
++----------------+----------------------------------------------------------------------------+
+| Ventilation    | - Gravity →                                                                |
+|                |   - Apical traction → ↑volume → ↓compliance → ↓V                           |
+|                |   - Basal compression → ↓volume → ↑compliance → ↑V                         |
++----------------+----------------------------------------------------------------------------+
+| Perfusion      | - Gravity → West’s zones:                                                  |
+|                |   1.  PA \> Pa \> Pv: no flow (apex)                                       |
+|                |   2.  Pa \> PA \> Pv: flow in systole (from 3cm above RV to apex)          |
+|                |   3.  Pa \> Pv \> PA: flow throughout (from base to 3cm above RV)          |
+|                | - Hypoxic pulmonary vasoconstriction:                                      |
+|                |   - ↓Ventilation → ↓pO~2~ in individual alveolus → vasoconstriction        |
+|                |   - Improves local V/Q matching                                            |
++----------------+----------------------------------------------------------------------------+
+| Carbon dioxide | - CO~2~ flux fairly evenly distributed                                     |
+|                |   - Mild gradient in ventilation from base to apex                         |
+|                |   - Effective compensation for ↓V/Q regions                                |
+|                |     - Hyperventilation → ↓↓CO~2~ in well-matched regions                   |
+|                |     - High CO~2~ solubility → PaCO~2~/CaCO~2~ curve is steep               |
+|                |                                                                            |
+|                | *→ V/Q inequality rarely causes hypercapnoea*                              |
++----------------+----------------------------------------------------------------------------+
+| Oxygen         | - O~2~ flux almost all near the base                                       |
+|                |   - Steep gradient in perfusion from base to apex                          |
+|                |   - Ineffective compensation for ↓V/Q regions                              |
+|                |     - Hyperventilation → ↔↑O~2~ in well-matched regions                    |
+|                |     - Low O~2~ solubility + finite Hb binding sites → OHDC upper part flat |
+|                |                                                                            |
+|                | *→ V/Q inequality often causes hypoxaemia*                                 |
++----------------+----------------------------------------------------------------------------+

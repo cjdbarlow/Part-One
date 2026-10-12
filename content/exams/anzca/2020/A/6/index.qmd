@@ -1,0 +1,71 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2020A Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} how the effects of warfarin can be reversed when URGENT surgery is indicated (40%). For each option [**discuss**]{.task-verb} the advantages and disadvantages (60%).
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} reversal options in the context of urgency, then [**discuss**]{.task-verb} the advantages and disadvantages of each. Explain replacement of vitamin K and clotting factors, comparing onset, duration, volume, risks and the need to sustain reversal.
+
+::: {.structure-table}
+| Option | Mechanism and Time Course | Advantages | Disadvantages |
+|---|---|---|---|
+| Vitamin K | | | |
+| Fresh Frozen Plasma | | | |
+| Prothrombin Complex Concentrates | | | |
+| Other Options in Context | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+To pass, candidates needed to demonstrate an understanding of how warfarin affects the coagulation cascade and describe the three common methods of reversal used for urgent surgery, namely Vitamin K, Fresh Frozen Plasma and Prothrombin Complex Concentrates (PCC). Although not required to pass, better answers included a description of warfarin’s mechanism and duration of action as it assisted in framing the remainder of the question. Marks were awarded for additional detail such as the advantages and disadvantages of IV / PO and low / high dose Vitamin K, composition of PCC and off-label use of recombinant Factor VIIa. Common mistakes included the belief that PCC are a recombinant product, role of cryoprecipitate and failing to discuss one or more of the three main reversal agents.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2020/A/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Anticoagulants](/content/pharmacopoeia/haeme/anticoagulants.qmd)

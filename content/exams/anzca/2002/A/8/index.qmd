@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002A Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the physiological factors that contribute to the competence and tone of the lower oesophageal sphincter.
+:::
+
+Also asked in: [2006A Question 16](/content/exams/anzca/2006/A/16/index.qmd#examiner-comments), [2015B Question 12](/content/exams/anzca/2015/B/12/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} competence through barrier pressure, the intrinsic physiological sphincter and supporting anatomy. Explain neural, hormonal and physical influences on tone and the effect of gastric pressure.
+
+::: {.structure-headings}
+### Physiological Sphincter and Barrier Pressure
+
+### Smooth Muscle and Neural Control
+
+### Diaphragm and Gastro-Oesophageal Anatomy
+
+### Hormonal and Physical Factors
+
+### Changes in Gastric Pressure and Competence
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**42%** of the candidates passed this question. The main points expected included the following:- The lower oesophageal sphincter (LOS) at the terminal 4 cm of the oesophagus is characterised by an increased number of nerve cells. It consists of smooth muscle (intrinsic sphincter); which is tonically active, and is under neural control. Acetylcholine leads to contraction of the intrinsic sphincter. The crura of the diaphragm constitute the external sphincter, and are under control of the phrenic nerve. Contraction is coordinated with ventilation and contraction of the chest and abdominal muscles. On swallowing, the LOS relaxes temporarily. The oesophagus enters the stomach at an oblique angle and the diaphragm maintains this angle which forms a pinch valve. The lower oesophagus is in the abdomen and is thus exposed to intra abdominal pressure. Some description of hormonal influences was expected (eg. gastrin, motilin, prostaglandin E2, glucagon, secretin, cholecystokinin, VIP).
+
+Additional marks were awarded for including the following points: The oblique fibres of the stomach wall functions as a flap valve. There is a pressure differential between the stomach and the oesophagus. Barrier pressure is the difference between the LOS pressure and the intra-gastric pressure. The latter is about 10 cm H~2~O. Normal barrier pressure is about 26 cm H~2~O (reflux can occur when this pressure falls below 13 cm H~2~O).
+
+Some candidates listed the hormones without stating how they affect the LOS tone. Most mentioned barrier pressure but some did not state any values. Others discussed pharmacology which was not required.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2002/A/8/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2002/A/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Oesophagus](/content/git/oesophagus.qmd)

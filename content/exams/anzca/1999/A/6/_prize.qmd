@@ -1,0 +1,72 @@
+#### List:
+
+- Hepatic circulation summary
+- Hepatic arterial flow
+- Portal venous flow
+- Hepatic arterial buffer response
+
+#### Hepatic circulation:
+
++-----------------+-------------------------------------------------------------+
+| Arterial supply | - Total 1400mL/min = 100mL/min/100g = 30% of cardiac output |
+|                 | - Blood: 75% portal vein, 25% hepatic artery                |
+|                 | - Oxygen: 50% portal vein, 50% hepatic artery               |
++-----------------+-------------------------------------------------------------+
+| Venous drainage | - Hepatic vein 1400mL/min                                   |
++-----------------+-------------------------------------------------------------+
+| Flow pattern    | - Entrance to lobule via hepatic arteriole or portal vein   |
+|                 | - Centripetal transit through sinusoid                      |
+|                 | - Exit from lobule via central vein                         |
++-----------------+-------------------------------------------------------------+
+
+#### Determinants of hepatic arterial flow:
+
++---------------------------+--------------------------------------------------------------------------------------------+
+| Equations                 | - Hepatic arterial flow = (mHAP – HVP) / hepatic arteriolar resistance                     |
+|                           | - HAP = mAP = 70mmHg                                                                       |
+|                           | - HVP = CVP = 0-5mmHg                                                                      |
+|                           | - R = (8 x length x viscosity) / (π x radius^4^)                                           |
++---------------------------+--------------------------------------------------------------------------------------------+
+| Vascular resistance       | - Myogenic autoregulation: ↓mAP → ↓stretch → reflex vasodilatation → ↓R → ↑Q               |
+|                           | - Metabolic autoregulation: ↓pO~2~, ↑pCO~2~/H^+^/K^+^/adenosine → vasodilatation → ↓R → ↑Q |
+|                           | - Neural: SNS → α~1~ vasoconstriction → ↑R → ↓Q                                            |
+|                           | - Hormonal: adrenaline → α~1~ constriction then β~2~ dilatation; overall minimal change    |
+|                           | - Anaesthesia: halothane inhibits hepatic arteriolar myogenic response to hypotension      |
++---------------------------+--------------------------------------------------------------------------------------------+
+| Hepatic arterial pressure | - mHAP = mAP = CO x TPR                                                                    |
+|                           | - ↓CO → ↓mAP → ↓Q (e.g. hypovolaemia, bradycardia, cardiogenic shock)                      |
+|                           | - ↓TPR → ↓mAP → ↓Q (e.g. sepsis, anaphylaxis)                                              |
++---------------------------+--------------------------------------------------------------------------------------------+
+| Hepatic venous pressure   | - HVP = CVP                                                                                |
+|                           | - PPV: ↑HVP → ↓Q                                                                           |
+|                           | - Laparoscopy: ↑HVP → ↓Q                                                                   |
+|                           | - Heart failure: ↑HVP → ↓Q                                                                 |
++---------------------------+--------------------------------------------------------------------------------------------+
+
+#### Determinants of portal venous flow:
+
++-------------------------+-----------------------------------------------------------------------+
+| Equations               | - Portal venous flow = (PVP – HVP) / portal venous resistance         |
+|                         | - PVP = 5-10mmHg                                                      |
+|                         | - HVP as above (normal gradient \<5mmHg)                              |
+|                         | - R = (8 x length x viscosity) / (π x radius^4^)                      |
++-------------------------+-----------------------------------------------------------------------+
+| Vascular resistance     | - Metabolic autoreg: ↑GIT activity → ↓R → ↑Q                          |
+|                         | - SNS/adrenaline → α~1~ constriction → ↑R → ↓Q                        |
+|                         | - Cirrhosis: scarring → ↑R → ↓Q (and ↑pressure = portal hypertension) |
+|                         | - Post-prandial splanchnic vasodilation → ↓R → ↑Q                     |
++-------------------------+-----------------------------------------------------------------------+
+| Portal venous pressure  | \-                                                                    |
++-------------------------+-----------------------------------------------------------------------+
+| Hepatic venous pressure | - Hepatic vein thrombosis: ↑HVP → ↓Q                                  |
++-------------------------+-----------------------------------------------------------------------+
+
+#### Hepatic arterial buffer response:
+
++------------+--------------------------------------------------------------------------+
+| Definition | - Semi-reciprocal supply relationship                                    |
+|            | - Hepatic arterioles autoregulate, portal venules do not                 |
+|            | - Blood supply can reach 50%-50%                                         |
++------------+--------------------------------------------------------------------------+
+| Mechanism  | - ↓Liver blood flow → ↓adenosine removal → hepatic arteriolar dilatation |
++------------+--------------------------------------------------------------------------+

@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008B Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the agents used therapeutically to reduce platelet function. [**Outline**]{.task-verb} their mechanisms of action, adverse effects, mode of elimination and duration of action.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} useful agents and [**outline**]{.task-verb} each requested feature in parallel columns. Explain how target inhibition interrupts platelet activation or aggregation and distinguish duration from plasma elimination.
+
+::: {.structure-table}
+| Agent | Mechanism | Adverse Effects | Elimination | Duration |
+|---|---|---|---|---|
+| Aspirin | | | | |
+| ADP Receptor Drugs | | | | |
+| Glycoprotein Receptor Antagonists | | | | |
+| Phosphodiesterase Inhibitors and Other Agents | | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**82%** of candidates passed this question.
+
+Relevant agents for this question include aspirin, pro-drugs at ADP receptor, antagonists at the IIB/IIIA receptor and phosphodiesterase inhibitors.
+
+This question had the option of being answered in the form of a ‘table’ format using dot points outlining the components asked for about platelet function reduction. Marks were enhanced by including explanation of how the drug action interferes e.g. blocking the IIB/IIIA receptor interrupts the binding of fibrinogen hence the failure of adhesion and aggregation of platelets.
+
+The ‘thrombus/platelet’ diagram in Katzung page 544 illustrates in summary form the information and it was included in some candidate answers.
+
+There is always a risk of elaborating on adverse effects probably more than the marks allocated at the expense of time spent on other agents. Medications whose unwanted side effects include platelet inhibition are not used therapeutically for that purpose thus not gaining marks. Comments on dextran and thrombin inhibitors gained credit.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2008/B/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Antiplatelets](/content/pharmacopoeia/haeme/antiplatelets.qmd)
+- [Platelets](/content/haeme/platelets.qmd)

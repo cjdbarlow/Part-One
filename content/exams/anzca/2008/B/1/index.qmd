@@ -1,0 +1,71 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008B Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the potential beneficial and adverse effects of isoflurane on the cardiovascular system ([**include**]{.task-verb} mechanisms of effect) in patients with ischaemic heart disease.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} **Cardiovascular Effects and Mechanisms**, **Myocardial Oxygen Supply and Demand**, **Coronary Steal**, and **Ischaemic Preconditioning**. Relate the beneficial and adverse effects to patients with ischaemic heart disease.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**41%** of candidates passed this question.
+
+To answer the question it was necessary to describe the effects of isoflurane on the cardiovascular system, explain how these might affect myocardial oxygen balance, and give some explanation as to how these effects might occur. As the question is not specific, all mechanisms from cellular to organ system interactions were accepted.
+
+A pass would have included the fall in SVR and blood pressure, the compensatory rise in heart rate, a note on direct effects on contractility, and an explanation as to how these effects might alter the myocardial oxygen supply and demand. A brief description of the concepts of coronary steal and ischaemic preconditioning, and something on their purported mechanisms was also expected.
+
+Extra marks were awarded for candidates who could list purported mechanisms for isoflurane causing these effects, such as altered sympathetic outflow, or calcium channel antagonism, the alteration skeletal muscle vascular tone resulting in lowering of SVR, the effect of concommitant medications, age, disease, hypoxia and rapidly increasing concentrations on the vascular effects, explain ischaemic preconditioning in more detail, and comment on the clinical relevance of coronary steal. Few candidates commented on the overall effect on oxygen balance, either at normal or high concentrations.
+
+Many candidates included unnecessary data, such as physical properties, modes of administration, effects on other organ systems, or effects which are neither beneficial or adverse. Common errors included circular reasoning—a fall in VR causes a fall in CO, and confusing the effects of isoflurane and halothane.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational Anaesthetics](/content/pharmacopoeia/neuro/inhalational_anaesthetic_agents.qmd)
+- [Myocardial Oxygen Supply and Demand](/content/cvs/myocardial_oxygen.qmd)

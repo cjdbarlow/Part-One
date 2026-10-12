@@ -1,0 +1,60 @@
+Non-depolarising neuromuscular blockers (ND-NMBs) are competitive antagonists of the nicotinic ACh receptor at the neuromuscular junction
+
+Rate of recovery depends on:
+
+(1) concentration of ND-NMB at the NMJ
+(2) pharmacokinetic factors
+(3) pharmacodynamic factors – either drug or patient factors
+
+**Concentration of ND-NMB at the NMJ**
+
+As per Fick’s law of diffusion, Increasing dose of rocuronium →↑Rocuronium at NMJ →↑time for diffusion back into plasma →↑duration of block 
+
+Time since administration →↓time since administration →↑ plasma/NMJ Concentration →↑time till recovery 
+
+**Pharmacokinetic factors**
+
+Distribution:
+
+↑Vd →↑recovery after single bolus (because ↑redistribution) 
+
+↑Vd →↓recovery after infusion (because more accumulation)
+
+Metabolism:
+
+Hepatic disease →↓biliary excretion →↓rate of recovery 
+
+↓non-specific plasma esterase →↓metabolism of atracurium →↓rate of recovery 
+
+Excretion:
+
+Renal disease →↓renal excretion →↓rate of recovery
+
+**Pharmacodynamic Factors:**
+
+**Patient factors** that slow rate of recovery
+
+(1) acidosis → slower metabolism
+(2) hypothermia → slower metabolism
+(3) hypocalcaemia →↓pre-synaptic ACh release at NMJ
+(4) hypokalaemia → hyperpolarise post-synaptic membrane
+(5) hypermagnesemia →  competes with Ca2+ →↓pre-synaptic ACh release 
+(6) NMJ disorders: e.g. myasthenia gravis, burns, spinal cord injury
+(7) Neonatal →↑sensitivity to NMD → prolonged action
+
+**Drug factors** that slow rate of recovery
+
+(1) volatile anaesthetics → via multiple mechanisms: central motor neuron inhibition, increase affinity of nAChR for NMBs, direct depression of post-synaptic nAChR (at high MAC)
+(2) aminoglycoside antibiotics →↓presynaptic ACh release 
+(3) local anaesthetics (high doses) → stabilise post-synaptic membrane and direct muscle fibre depression
+(4) calcium channel blockers →↓ACh release
+(5) frusemide →↓ACh release + causes hypokalaemia
+
+::: {}
+(7) magnesium →↓ACh release (esp. with vecuronium)
+:::
+
+Drug factors that increase rate of recovery
+
+1.  anticholinesterase!↑\[ACh\] at NMJ
+2.  Gamma Cyclodextrin (sugammadex) → forms complex with rocuronium in plasma → concentration gradient to remove roc from NMJ

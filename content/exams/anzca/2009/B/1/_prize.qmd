@@ -1,0 +1,99 @@
+#### List:
+
+- Summary
+- Drug effects
+- PD
+- PK
+- PC
+
+#### Summary:
+
++----------------------+-------------------------------------------------------+
+| Pharmacodynamic (PD) | Complementary and synergistic → ↓dose → ↓side effects |
++----------------------+-------------------------------------------------------+
+| Pharmacokinetic (PK) | Synergy → ↓dose → ↓accumulation                       |
+|                      |                                                       |
+|                      | No interference                                       |
++----------------------+-------------------------------------------------------+
+| Pharmaceutics (PC)   | No incompatibility                                    |
++----------------------+-------------------------------------------------------+
+
+#### Drug effects:
+
++-------------------+---------------------------------+-------------------------------+
+|                   | **Sevoflurane (SF)**            | **Fentanyl (F)**              |
++===================+=================================+===============================+
+| Amnesia           | MAC 0.25                        | Unreliable even at high Ce    |
++-------------------+---------------------------------+                               |
+| Hypnosis          | MAC 0.3                         |                               |
++-------------------+---------------------------------+-------------------------------+
+| Immobility        | MAC 1                           | No                            |
++-------------------+---------------------------------+-------------------------------+
+| Analgesia         | No                              | Yes                           |
++-------------------+---------------------------------+-------------------------------+
+| CVS side effects  | ↓HR, ↓contractility, ↓SVR, ↓mAP | ↓SNS output → ↓HR, ↓SVR, ↓mAP |
++-------------------+---------------------------------+-------------------------------+
+| Resp side effects | ↑RR, ↓TV                        | ↓RR, ↓TV                      |
++-------------------+---------------------------------+-------------------------------+
+| Other             | PONV                            | PONV                          |
+|                   |                                 |                               |
+|                   | ↑Uterine blood flow +/- PPH     | Sedation                      |
+|                   |                                 |                               |
+|                   | ↑Cerebral blood flow +/- ICP    |                               |
++-------------------+---------------------------------+-------------------------------+
+
+#### Pharmacodynamics:
+
++-------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| Complementary                 | - SF: anaesthesia                                                                                                                               |
+|                               | - F: analgesia                                                                                                                                  |
++-------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| Synergistic                   | - Combined effect exceeds sum of individual effects                                                                                             |
+|                               | - Represented by isobologram (or response surface)                                                                                              |
+|                               | - Mechanism: ? F reduces nociceptive activation of ascending reticular activating system (ARAS)                                                 |
+|                               |                                                                                                                                                 |
+|                               | ![](/content/exams/anzca/2009/B/1/prize-image001.jpg){fig-alt="Isobologram showing infra-additive, additive and synergistic drug interactions"} |
++-------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| Implications of synergism     | - ↓SF % for hypnosis and immobility                                                                                                             |
+|                               | - ↓MAC standard deviation → ↓variability                                                                                                        |
+|                               | - ↓SF side effects                                                                                                                              |
+|                               | - ↓Need for paralysis                                                                                                                           |
++-------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| Quantification of interaction |                        **SF alone**   **SF + F 3ng/mL**                                                                                         |
+|                               |   -------------------- -------------- ------------------------------                                                                            |
+|                               |   MACBAR               4.15%          ↓80%                                                                                                      |
+|                               |   MAC                  1.85%          ↓60%                                                                                                      |
+|                               |   MACawake             0.6%           ↓25%                                                                                                      |
+|                               |   Standard deviation   0.1MAC         \<0.1MAC (not from this stud                                                                              |
+|                               |   -------------------- -------------- ------------------------------                                                                            |
+|                               |                                                                                                                                                 |
+|                               | <https://www.ncbi.nlm.nih.gov/pubmed/9447851>                                                                                                   |
+|                               |                                                                                                                                                 |
+|                               | <https://www.ncbi.nlm.nih.gov/pubmed/?term=fentanyl+sevoflurane+somatic+1999>                                                                   |
++-------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Pharmacokinetics:
+
++---------------------------+------------------------------------------------------+
+| Lack of interference      | - Plasma protein binding sites:                      |
+|                           |   - Fentanyl to AAG \> albumin                       |
+|                           |   - Sevoflurane uptake to proteins, lipids, RBCs     |
+|                           | - Metabolism:                                        |
+|                           |   - SF → liver CYP2E1 (only 2-5%)                    |
+|                           |   - F → liver CYP3A4 (almost 100%)                   |
+|                           | - Excretion:                                         |
+|                           |   - SF via lungs                                     |
+|                           |   - F metabolites via urine                          |
++---------------------------+------------------------------------------------------+
+| Implications of synergism | - For a given desired effect, ↓\[SF\] and ↓\[F\]     |
+|                           | - ↓compartmental concentrations                      |
+|                           | - ↓total dose, ↓accumulation                         |
+|                           | - ↓time to emergence (since MAC awake less affected) |
++---------------------------+------------------------------------------------------+
+
+#### Pharmaceutics:
+
+  --------------- ---------------------------------
+  Compatibility   None: F intravenous, SF inhaled
+  Efficiency      Synergism → ↓total dose → ↓cost
+  --------------- ---------------------------------

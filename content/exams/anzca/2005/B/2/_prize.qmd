@@ -1,0 +1,56 @@
+#### List:
+
+- Definitions
+- Graphs
+
+#### Definitions:
+
++------------------------+-----------------------------------------------------------------------------------+
+| Potency                | - Measure of dose (or concentration) of drug required to produce a given effect   |
+|                        | - Ratio of ED~50~’s gives relative potency (also ratio of TD~50~’s or LD~50~’s)   |
+|                        | - It’s the main determinant of dose                                               |
++------------------------+-----------------------------------------------------------------------------------+
+| Efficacy               | - The max receptor response achievable by a drug; comprises                       |
+|                        |   - Affinity: how likely it is to bind                                            |
+|                        |   - Intrinsic activity (IA): propensity to activate the receptor once bound       |
++------------------------+-----------------------------------------------------------------------------------+
+| Full agonist           | - IA = 1                                                                          |
+|                        | - High affinity for active conformation                                           |
++------------------------+-----------------------------------------------------------------------------------+
+| Partial agonist        | - 0 \< IA \< 1                                                                    |
+|                        | - Usually comparable affinity for both active and inactive conformation           |
++------------------------+-----------------------------------------------------------------------------------+
+| Competitive antagonist | - IA = 0                                                                          |
+|                        | - Affinity for active/inactive at same ratio as natural state of flux             |
+|                        | - Prevents access of endogenous ligand to active site                             |
+|                        | - No change to maximal response.                                                  |
++------------------------+-----------------------------------------------------------------------------------+
+| Inverse agonist        | - -1 \< IA \< 0                                                                   |
+|                        | - High affinity for inactive conformation, reduces constitutive receptor activity |
++------------------------+-----------------------------------------------------------------------------------+
+| Therapeutic index      | - LD~50~:ED~50~ (animals) or TD~50~:ED~50~ (humans), where                        |
+|                        |   - ED~50~ = median effective dose                                                |
+|                        |   - TD~50~ = median toxic dose                                                    |
+|                        |   - LD~50~ = median lethal dose                                                   |
+|                        | - Indicator of drug safety for clinical use.                                      |
++------------------------+-----------------------------------------------------------------------------------+
+
+#### Graphs:
+
++-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| Potency                           | ![](/content/exams/anzca/2005/B/2/prize-image001.jpg){fig-alt="Fentanyl and morphine quantal dose–response curves comparing potency"}         |
+|                                   |                                                                                                                                               |
+|                                   | (population quantal log dose-response curve)                                                                                                  |
++-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| Partial agonist / efficacy        | ![](/content/exams/anzca/2005/B/2/prize-image002.jpg){fig-alt="Morphine and buprenorphine graded dose–response curves comparing efficacy"}    |
+|                                   |                                                                                                                                               |
+|                                   | (individual graded log dose-response curve)                                                                                                   |
++-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| Competitive reversible antagonist | ![](/content/exams/anzca/2005/B/2/prize-image003.jpg){fig-alt="Fentanyl dose–response curve shifted by competitive antagonism with naloxone"} |
+|                                   |                                                                                                                                               |
+|                                   | (population quantal log dose-response curve)                                                                                                  |
++-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| Therapeutic index                 | ![](/content/exams/anzca/2005/B/2/prize-image004.jpg){fig-alt="Morphine effective and lethal dose curves illustrating therapeutic index"}     |
+|                                   |                                                                                                                                               |
+|                                   | (population quantal log dose-response curve)                                                                                                  |
++-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+

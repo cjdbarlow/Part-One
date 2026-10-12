@@ -1,0 +1,42 @@
+Plot of % maximal response vs concentration (log scale). Sigmoidal dose- log(response) curves.   
+
+![](/content/exams/anzca/2005/B/2/standard-image39.png){fig-alt="Concentration–response curves comparing full agonist potency and partial agonist efficacy"}
+
+**Potency**:
+
+Potency is the term used to describe the dose of a drug required to give effect, given by the EC50: the effective dose in 50% of the population.  
+
+For example Fentanyl and Morphine are both full opioid agonists: therapeutic dosing requirements are 
+
+- Fentanyl 1-2mcg/kg
+- Morphine 0.1mg/kg
+
+Drug A is more potent than drug B in the graph above
+
+**Efficacy**:
+
+Efficacy refers to the maximal effect a drug can generate. Full agonists (by definition) have 100% response and thus maximal efficacy.  
+
+Both drugs A and B in the graph above produce full efficacy. Both Morphine and Fentanyl have equal efficacy. Drug C has reduced efficacy . 
+
+**Partial Agonist** 
+
+Partial Agonists are drugs which bind to receptors but only produce partial response / efficacy compared to a full agonist. 
+
+Drug C is an example of a Partial agonist in the graph above.
+
+Buprenorphine is an example of a partial against.
+
+Partial agonists may also act as competitive antagonist depending on the situation - i.e. given with a full agonist 
+
+**Competitive antagonist** 
+
+A competitive antagonist is a drug that has high affinity for a drug receptor but produced no receptor activity. Competitive antagonists compete for the same receptor site as an agonist and can displace the agonist from the receptor site. Drug B may also represent Drug A in the presence of a competitive antagonist.
+
+**Therapeutic index**:
+
+Therapeutic index the drug dose difference between the effective dose in 50% of the population (ED50) and Lethal dose in 50% of the population (LD50) for a drug.
+
+A higher therapeutic index gives a greater safety margin. Illustrated below on a log dose response graph
+
+![](/content/exams/anzca/2005/B/2/standard-image40.png){fig-alt="Therapeutic and toxic population dose–response curves with ED50 and TD50 marked"}

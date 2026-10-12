@@ -1,0 +1,85 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008B Question 16 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the mechanisms by which the kidney maintains potassium homeostasis
+:::
+
+Also asked in: [2007B Question 12](/content/exams/anzca/2007/B/12/index.qmd#examiner-comments), [2012B Question 10](/content/exams/anzca/2012/B/10/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} potassium handling along the nephron. Distinguish filtered load and relatively fixed reabsorption from regulated secretion, linking transport mechanisms to aldosterone, potassium concentration and tubular flow.
+
+::: {.structure-headings}
+### Normal Concentrations and Filtered Load
+
+### Proximal Tubule and Loop Reabsorption
+
+### Distal Nephron Secretion
+
+### Aldosterone and Potassium Regulation
+
+### Tubular Flow and Intercalated Cell Reabsorption
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**51%** of candidates passed this question.
+
+It was pleasing to see some well structured answers covering all the main points. The main points expected to achieve a pass included:
+
+- Normal intracellular and extracellular potassium concentrations and the need for “tight” control.
+- A balance between intake and excretion of potassium.
+- The transit of potassium through the nephron in the kidney, excretion = filtered-reabsorption + secretion, with the major controlled variable being secretion, and the places within the nephron that these events occurred.
+- The control of the variable secretion in the distal convoluted tubule and collecting duct dependent on potassium concentration, tubular flow rate and aldosterone. Secretion of aldosterone from the adrenal gland being under a feedback loop with plasma concentration of potassium.
+
+Extra credit was given for mechanism of action of any of the steps above, in particular a clear explanation of how aldosterone achieves further secretion was rewarded. The exchange of potassium for hydrogen ions within the renal tubule was also rewarded if explained correctly. No credit was given for information of drug actions on the renal tubule.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/B/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Renal potassium handling](/content/renal/potassium.qmd)

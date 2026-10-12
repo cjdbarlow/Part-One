@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001A Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain briefly**]{.task-verb} the role of the skin in maintaining a normal body temperature.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain briefly**]{.task-verb} the skin’s sensory and effector roles, linking changes in blood flow, insulation and evaporation to heat conservation or loss.
+
+::: {.structure-headings}
+### Skin Temperature Sensors
+
+### Control of Skin Blood Flow
+
+### Heat Conservation
+
+### Heat Loss and Sweating
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The pass rate for this question was **71%**.
+
+It is important to note that this question specifically asked for an explanation of the role of the skin in maintaining normal body temperature. It was expected that candidates briefly mentioned the general concept of a reflex pathway to maintain temperature through a balance of heat production and loss. It was not expected that there be a long and detailed discussion of this reflex system. Similarly, it was valuable to include the sensory function of the skin in maintaining body temperature. However, a detailed description was not expected.
+
+The control of skin blood flow, with its role in heat loss as well as conservation, was an important part of this question. Rather than simply listing the responses of skin blood flow, inclusion of how changes in this flow related to the mechanics of thermal exchange added significantly to the answer. For example, the inclusion of the concept that heat exchange via radiation/conduction/convection requires a heat gradient, and that skin blood flow changes can facilitate or impair that exchange, demonstrated a clearer understanding of the issues of the skin in the maintenance of body temperature.
+
+Most candidates included comments about sweat production. Very few candidates, however, recognised its increasing importance as ambient temperature increases, or the relevance of ambient humidity to its effectiveness. Credit was given for mentioning piloerection as a means of conserving heat, despite its minimal relevance in man. It was interesting to note, however, that almost every answer included piloerection even when other, and much more important, areas related to the skin and body temperature were omitted.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2001/A/5/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Thermoregulation](/content/metabolic/temperature.qmd)

@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006B Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Compare and contrast**]{.task-verb} the clinically significant respiratory, cardiovascular and central nervous system effects of desflurane and isoflurane.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Compare and contrast**]{.task-verb} the clinically significant effects in a table. [**Include**]{.task-verb} the relevant dose or concentration context and clinical implications within each system.
+
+::: {.structure-table}
+| Feature | Desflurane | Isoflurane |
+|---|---|---|
+| Respiratory Effects | | |
+| Cardiovascular Effects | | |
+| Central Nervous System Effects | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**70 %** of candidates passed this question.
+
+Cardiovascular effects were well answered with most correctly describing the effects on heart rate, systemic vascular resistance, contractility and cardiac output; though there were some incorrect statements such as, hypotension at one MAC is primarily due to impaired contractility.
+
+Better answers discussed the theoretical risk of coronary steal with isoflurane and the practical risk of increases in catecholamine levels with sudden increased desflurane concentration, however there was no mention of the secondary effect on the renin angiotensin system.
+
+Common errors in respiratory effects included unqualified comments that both agents could be used for gaseous induction. Some candidates confused the respiratory effects of these agents with opioids where tidal volume is maintained or increased and respiratory rate is reduced.
+
+CNS effects were well answered, though only a minority mentioned the faster return to consciousness with a comparable depth of anaesthesia with desflurane. Some said that these agents usually decrease cerebral blood flow.
+
+Presentation was of a good standard with most information for the least effort being conveyed with tables. There were some good answers, though in plain text. Significantly there were no blank answer papers.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational Anaesthetics](/content/pharmacopoeia/neuro/inhalational_anaesthetic_agents.qmd)

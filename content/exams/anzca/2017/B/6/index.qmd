@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2017B Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the effects of morbid obesity on the respiratory system.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} changes systematically and connect each to its consequence. Cover airway anatomy, lung volumes, compliance and resistance, ventilatory demand and gas exchange before associated sleep-disordered breathing and pulmonary vascular effects.
+
+::: {.structure-headings}
+### Upper Airway and Anatomical Changes
+
+### Lung Volumes and Closing Capacity
+
+### Compliance, Resistance and Work of Breathing
+
+### Ventilatory Demand and Gas Exchange
+
+### Sleep-Disordered Breathing and Pulmonary Vascular Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**52.2%** of candidates achieved a pass in this question
+
+This question required a broad consideration of the physiological and anatomical parameters which change in the respiratory system of the morbidly obese. Candidates who scored well systematically outlined the various domains of the respiratory system, listed the changes seen and went on to describe the consequences and inter-relationship of these changes. In addition there were some marks allocated to the pathophysiological changes seen - as obesity is itself a pathology - however a sole focus on pathology was insufficient to achieve a pass. Notably there were no marks achieved for describing the metabolic, endocrine or cardiovascular effects of morbid obesity.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2017/B/6/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2017/B/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Obesity and respiration](/content/resp/obesity_respiratory.qmd)

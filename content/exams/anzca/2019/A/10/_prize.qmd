@@ -1,0 +1,157 @@
+#### Intro:
+
+- Flow physiology
+- Cellular
+- Systemic
+- Regional
+
+#### Flow physiology:
+
++------------------+---------------------------------------------------------------------------+
+| Ohm’s law        | - Flow rate = (P~1~ – P~2~) / resistance                                  |
++------------------+---------------------------------------------------------------------------+
+| Poiseuille’s law | - Resistance to laminar flow = (8 x length x viscosity) / (π x radius^4^) |
+|                  | - Hence radius is the major factor                                        |
++------------------+---------------------------------------------------------------------------+
+
+#### Cellular effects:
+
++------------+---------------------------------------------------------------+
+| Central    | ↑GABA/glycine activity → ↓SNS output from medulla             |
+|            |                                                               |
+|            | - ↓Inotropy                                                   |
+|            | - ↓Vasoconstriction                                           |
+|            | - ↓Venoconstriction                                           |
+|            | - Note relative preservation of baroreceptor reflex           |
++------------+---------------------------------------------------------------+
+| Peripheral | - ↓L-Ca^2+^ activity, ↓SR Ca^2+^ release, ↓Ca^2+^ sensitivity |
+|            | - ↑K~ATP~ activity                                            |
+|            |                                                               |
+|            | →                                                             |
+|            |                                                               |
+|            | - ↓Vasoconstriction                                           |
+|            | - ↓Venoconstriction                                           |
++------------+---------------------------------------------------------------+
+
+#### Systemic vascular effects: (dose-dependent)
+
++----------+----------------------------------------------------------+
+| Direct   | - ↓Inotropy → ↓cardiac output                            |
+|          | - ↓Vasoconstriction → ↓SVR, ↓PVR                         |
+|          | - ↓Venoconstriction → ↓MSFP → ↓preload → ↓cardiac output |
++----------+----------------------------------------------------------+
+| Indirect | - Baroreceptor reflex                                    |
+|          |   - ↑Heart rate → ↑cardiac output nearer to normal       |
+|          | - Excitation (Guedel’s stage 2)                          |
+|          |   - ↑SNS output → ↑HR, ↑mAP                              |
++----------+----------------------------------------------------------+
+
+#### Cerebral circulation:
+
++------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| CBF vs CMRO~2~   | - Dose-dependent vasodilatation                                                                                                                                               |
+|                  | - Coupling of CBF and CMRO~2~ impaired (not ablated)                                                                                                                          |
+|                  |                                                                                                                                                                               |
+|                  | ![](/content/exams/anzca/2019/A/10/prize-image001.jpg){fig-alt="Cerebral blood flow against cerebral oxygen consumption awake and at 1 and 2 MAC"}                            |
+|                  |                                                                                                                                                                               |
+|                  | - *Slope* ∝ *dose → greater effect at high dose*                                                                                                                              |
++------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| CMRO~2~ vs MAC   | - Dose-dependent reduction in electrophysiological function (60% of total)                                                                                                    |
+|                  |   - Burst suppression at \~1.5 MAC                                                                                                                                            |
+|                  |   - Isoelectricity at \~2 MAC                                                                                                                                                 |
+|                  | - No effect on basal function (40% of total) – only reduced by hypothermia                                                                                                    |
+|                  |                                                                                                                                                                               |
+|                  | ![](/content/exams/anzca/2019/A/10/prize-image002.jpg){fig-alt="Cerebral oxygen consumption against sevoflurane concentration, distinguishing electrical and basal function"} |
+|                  |                                                                                                                                                                               |
+|                  | - *Exponential decay → greater effect at low dose*                                                                                                                            |
++------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| CBF vs MAC\*\*\* | - At low concentration: indirect vasoconstriction (via ↓CMRO~2~) wins                                                                                                         |
+|                  | - At high concentration: direct vasodilation wins                                                                                                                             |
+|                  | - Important if already raised ICP (e.g. intracranial bleed)                                                                                                                   |
+|                  |                                                                                                                                                                               |
+|                  | ![](/content/exams/anzca/2019/A/10/prize-image003.jpg){fig-alt="Cerebral blood flow against sevoflurane concentration relative to normal"}                                    |
++------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Other            | - Luxury perfusion: due to ↓CMRO~2~ but ↑CBF                                                                                                                                  |
+|                  | - Hypoventilation: ↑PaCO~2~ may cause further vasodilatation (if spont vent)                                                                                                  |
++------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Coronary circulation:
+
++-----------------------------+----------------------------------------------------------------------------+
+| Factors increasing flow     | - Metabolic autoregulation: ↑HR → ↑MVO~2~                                  |
+|                             | - Direct vasodilatory effect                                               |
+| *\*predominant\**           | - ↓SNS output                                                              |
++-----------------------------+----------------------------------------------------------------------------+
+| Factors decreasing flow     | - Metabolic autoregulation: ↓SVR/wall tension, ↓contractility → ↓MVO~2~    |
+|                             | - ↓Aortic root DBP → ↓perfusion pressure                                   |
+| *\*outweighed\**            |                                                                            |
++-----------------------------+----------------------------------------------------------------------------+
+| Coronary steal syndrome     | - Stenotic vessels are maximally dilated when awake                        |
+|                             | - Other vessels dilate under volatile GA                                   |
+|                             | - Blood is ‘stolen’ from already threatened myocardium                     |
+|                             | - Only relevant if steal-prone anatomy                                     |
+|                             | - More likely with isoflurane                                              |
+|                             | - Not clinically significant                                               |
++-----------------------------+----------------------------------------------------------------------------+
+| Anaesthetic preconditioning | - Mimic of ischaemic preconditioning                                       |
+|                             | - Due to activation of K^+^ATP channel (vascular/mitochondrial/sarcolemma) |
+|                             | - Onset in minutes, offset 3-4 days                                        |
++-----------------------------+----------------------------------------------------------------------------+
+
+#### Pulmonary circulation:
+
++--------------+----------------------------------------------+
+| Effects      | - Direct vasodilatation                      |
+|              | - ↓SNS output → vasodilatation               |
+|              | - ↓PVR                                       |
+|              | - ↓Pulmonary artery pressure                 |
++--------------+----------------------------------------------+
+| Significance | - Impaired HPV → ↑V/Q mismatch               |
+|              | - ↓PASP → ↑alveolar dead space, ↑West zone 1 |
++--------------+----------------------------------------------+
+
+#### Hepatic circulation:
+
++-------------------------+--------------------------------------------------+
+| Factors increasing flow | - Direct vasodilatation                          |
+|                         | - ↓SNS output → vasodilatation                   |
++-------------------------+--------------------------------------------------+
+| Factors decreasing flow | - ↓mAP → ↓perfusion pressure                     |
++-------------------------+--------------------------------------------------+
+| Significance            | - Unimportant at usual partial pressure          |
+|                         | - Preserved hepatic arterial buffer response (?) |
++-------------------------+--------------------------------------------------+
+
+#### Uteroplacental circulation:
+
++-------------------------+---------------------------------------------+
+| Factors increasing flow | - Direct vasodilatation                     |
+|                         | - ↓SNS output → vasodilatation              |
+|                         |                                             |
+|                         | (but vessels are already maximally dilated) |
++-------------------------+---------------------------------------------+
+| Factors decreasing flow | - ↓mAP → ↓perfusion pressure                |
++-------------------------+---------------------------------------------+
+| Significance            | - Pressure-passive circulation              |
+|                         | - Risk of foetal asphyxia under GA          |
++-------------------------+---------------------------------------------+
+
+Addendum\*\*\*
+
+- This graph is from Miller’s Anesthesia, Chapter 11
+- The data are from Anesthesiology (<https://pubmed.ncbi.nlm.nih.gov/3740503/>)
+- At 0.5 MAC, mean values for local blood flow were reduced in every grey matter tissue
+- However, none of the individual changes was statistically significant due to a large standard deviation
+- My personal opinion is:
+  - It is unlikely that a universal decrement in mean blood flow between 0 MAC and 0.5 MAC was due to chance
+  - Statistical significance would have been reached had sample sizes been larger
+  - These findings are consistent with the curves for CBF vs CMRO~2~ and CMRO~2~ vs MAC
+- The alternative opinion is:
+  - There is no evidence for significant change in CBF between 0 MAC and 1 MAC
+  - In this range, the indirect vasoconstriction (via ↓CMRO~2~) and the direct vasodilation roughly cancel each other out
+  - This is consistent with the leftward/upward shift in the CBF vs mAP curve that occurs with any concentration of volatile anaesthetic
+  - See the Eger-Stoelting version below:
+
+![](/content/exams/anzca/2019/A/10/prize-image004.png){fig-alt="Cerebral blood flow at increasing MAC for halothane, enflurane and isoflurane with standard errors"}
+
+Special thanks to Dr. Stan Tay for his insights.

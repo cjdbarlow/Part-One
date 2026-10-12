@@ -1,0 +1,48 @@
+Sevoflurane:
+
+**Airway**:
+
+Obstruction of pharyngeal airway
+
+- Soft palate falls against posterior pharyngeal wall, occluding nasopharynx
+- Posterior movement of tongue and epiglottis
+- Collapse of pharynx with inspiration due to weakness of pharyngeal dilator muscles (particularly genioglossus)
+
+**FRC**
+
+- Reduced by 15—20%
+- ↓FRC →↑ airways resistance and ↓compliance 
+
+**Resistance** 
+
+Smooth Muscle relaxation → Bronchodilation
+
+- ↓Airways resistance ↓WOB
+- ↑ Anatomical dead space (usually insignificant 
+
+**Minute Ventilation**: 
+
+↓MV overall 
+
+- ↑RR 
+- ↓TV
+
+**PaO2: **
+
+Hypoxic drive severely blunted at low MAC
+
+- 50% blunted at 0.1 MAC → 100% ablated at 1MAC 
+- Thought to be mediated at level of peripheral chemoreceptors (carotid body)
+- Synergistic response with hypercapnia attenuated
+
+**PaCO**
+
+- Dose dependant blunting of respiratory response to CO2 over \~0.3MAC  
+
+**Gas Exchange** 
+
+- Increased shunt due to atelectasis (↓FRC) and VQ mismatch
+
+**Hypoxic pulmonary vasoconstriction (HPV)**:
+
+- Dose related blunting of HPV reflex approx. 20% inhibited at 1MAC

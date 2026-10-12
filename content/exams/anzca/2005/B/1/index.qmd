@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005B Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} how isoflurane is metabolised. In your answer [**give reasons**]{.task-verb} why the overall extent of metabolism of isoflurane is so low.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the site, pathway, proportion and products of metabolism, then [**give reasons**]{.task-verb} for its limited extent using bond stability, solubility and pulmonary elimination.
+
+::: {.structure-headings}
+### Structure and Extent of Metabolism
+
+### Hepatic CYP450 Pathway and Products
+
+### Reasons for Low Metabolism
+
+### Toxicological Relevance
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**44 %** of candidates passed this question.
+
+Expected in the answer to this question was some description of what isoflurane was. A majority of candidates provided a formula (a few incorrectly) and a minority just a written description.
+
+That metabolism occurred in the liver was mentioned by the majority of candidates but fewer went on to describe cytochrome P450 as the predominant mechanism. Better answers mentioned the CYP450 2E1 as being the relevant isoform and the relative significance of kidney CYP450 (vs. methoxyflurane). A surprisingly wide range of percentage liver metabolism was provided, the most frequent error being 2% when in fact it is only 0.2%. The breakdown products TFA and fluoride ions were discussed by most but only about half of the candidates mentioned both. Potential end organ toxicity (liver and kidney respectively) and the relevance of this compared to older agents was discussed by a minority of candidates. Very few candidates could describe the breakdown sequence of isoflurane, though this was not required to pass.
+
+Finally most candidates discussed the position, number and inherent stability of the C-F bond as well as the relatively low solubility of isoflurane as being important in its low rate of metabolism. Only a minority mentioned both factors however. Degradation of isoflurane in soda lime was not considered to be metabolism.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2005/B/1/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational anaesthetic agents](/content/pharmacopoeia/neuro/inhalational_anaesthetic_agents.qmd)

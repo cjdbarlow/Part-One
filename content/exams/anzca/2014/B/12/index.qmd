@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014B Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the Bohr and Haldane effects in trans-placental gas exchange.
+:::
+
+Also asked in: [1999A Question 1](/content/exams/anzca/1999/A/1/index.qmd#examiner-comments), [2002B Question 16](/content/exams/anzca/2002/B/16/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} each effect by linking the haemoglobin mechanism to changes on both sides of the placenta and the resulting direction of gas transfer.
+
+::: {.structure-headings}
+### Transplacental Oxygen and Carbon Dioxide Gradients
+
+### Bohr Effect and Double Bohr Effect
+
+### Haldane Effect and Double Haldane Effect
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**31 %** of candidates achieved a pass in this question
+
+Good answers to this question contained definitions and descriptions of the Bohr and Haldane effects and also a summary of transplacental gas exchange, indicating why these two effects are important in this special organ bed. A diagram with accurate values for gas tensions and saturations was an effective way of summarizing gas exchange in the placenta.
+
+The double Bohr and double Haldane effects were usually described at length- the same number of marks could be earned with a single well constructed sentence covering the same principles, thus saving time.
+
+In any question about physiology it is important to describe the physiological effect but also the mechanisms behind it; the physiology at a molecular level of haemoglobin involved in the Haldane effect was often described in this question but the characteristics of haemoglobin specific to the Bohr effect were not.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/1999/A/1/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Placental gas exchange](/content/obs/placenta.qmd)
+- [Oxygen–haemoglobin dissociation curve](/content/resp/oxygen_storage.qmd#curve)
+- [Carbon dioxide transport](/content/resp/co2_transport.qmd)

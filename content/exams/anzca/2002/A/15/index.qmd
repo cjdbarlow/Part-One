@@ -1,0 +1,68 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002A Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the mechanism of the anticoagulant effect of coumarin derivatives and what determines the onset and offset of effect.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Vitamin K Antagonism and Coagulation Factor Synthesis**, **Determinants of Onset**, and **Determinants of Offset**. Distinguish plasma drug kinetics from the time course of the anticoagulant effect.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**45 %** of candidates achieved a pass. Most candidates indicated that the anticoagulant effect of coumarins is mediated via vitamin K antagonism and inhibition. However, most candidates failed to describe the nature of this antagonism (competitive) at therapeutic levels and also to mention the coumarin sensitive step in the recycling of vitamin K and its role in the carboxylation of glutamic acid residues to produce biologically competent factors.
+
+An understanding of the different half-life of vitamin K dependent factors, II, VII, IX, X and protein C and S, was essential to explain the delayed onset of action of coumarins. The time to peak plasma levels and its relation to biological effect were often omitted. Coumarin appears in the plasma after 1 hour and peaks in 4 to 8 hours after an oral dose but the biological effect takes 3 to 5 days to manifest.
+
+Important and clinically relevant determinants of onset were rarely mentioned. The effect of loading dose, age sensitivity, postoperative relative vitamin K deficiency, level of coagulation factors and albumin levels should have been included. The effect of congenitally high levels of coagulation factors, disease states, enzyme induction, ingestion of vitamin K rich food could have been included but were rarely mentioned. Most candidates however, identified external supplementation of vitamin K and fresh plasma as ways of accelerating offset of coumarin effect.
+
+Most candidates mentioned INR as a monitor for warfarin therapy; some gave unnecessary details of INR levels needed for different indications.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Anticoagulants](/content/pharmacopoeia/haeme/anticoagulants.qmd)

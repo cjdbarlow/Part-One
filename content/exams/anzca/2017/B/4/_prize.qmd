@@ -1,0 +1,142 @@
+#### List:
+
+- EEG principles
+- EEG waves
+- Physiological basis
+- Monitoring device
+- Monitoring principles
+- Specific devices
+
+#### EEG principles:
+
++------------+-------------------------------------------------------------------------+
+| Definition | - Recording of the brain’s electrical activity                          |
++------------+-------------------------------------------------------------------------+
+| Aetiology  | - From pyramidal cells with dendrites radiating toward cortical surface |
+|            | - Summation of excitatory and inhibitory post-synaptic potentials       |
++------------+-------------------------------------------------------------------------+
+| Magnitude  | - Usually 0-200 microvolts or amplitude                                 |
+|            | - Usually 0-50 Hz frequency                                             |
++------------+-------------------------------------------------------------------------+
+| Waves      | - γ: 30-80Hz                                                            |
+|            | - β: 12-30Hz                                                            |
+|            | - α: 8-12Hz                                                             |
+|            | - Θ: 4-8Hz                                                              |
+|            | - δ: 0-4Hz                                                              |
++------------+-------------------------------------------------------------------------+
+
+#### Physiological basis:
+
++---------------+---------------------------------------------------------------------+
+| Awake         | - Complex activity → chaotic pattern                                |
+|               | - High frequency (predominantly β, γ)                               |
+|               | - Low amplitude (↓synchrony = ↓ summation)                          |
++---------------+---------------------------------------------------------------------+
+| Anaesthetised | - Suppression of cortex and brainstem reticular activating system   |
+|               | - Disinhibition of thalamic pacemaker nuclei → synchronised pattern |
+|               | - Low frequency (predominantly α, Θ, δ)                             |
+|               | - High amplitude (↑synchrony = ↑summation)                          |
++---------------+---------------------------------------------------------------------+
+
+#### Monitoring device:
+
++------------+------------------------------------+
+| Components | - Electrodes                       |
+|            |   1.  Exploratory                  |
+|            |   2.  Reference                    |
+|            |   3.  EMG                          |
+|            |   4.  Virtual ground               |
+|            | - Cabling                          |
+|            | - Processor                        |
+|            | - Display                          |
++------------+------------------------------------+
+| Function   | - Acquisition                      |
+|            | - Amplification                    |
+|            | - Filtration (removal of artifact) |
+|            | - Processing                       |
+|            | - Display                          |
++------------+------------------------------------+
+
+#### Monitoring principles:
+
++------------------------+------------------------------------------------------------------------------+
+| Algorithms             | - Proprietary                                                                |
+|                        | - Empirical – i.e. observe EEG response to variable drug concentration       |
+|                        | - Derived from statistical analysis, not biological models                   |
+|                        | - Designed for GABA-ergic anaesthetics                                       |
++------------------------+------------------------------------------------------------------------------+
+| Fourier transformation | - EEG taken in short epochs                                                  |
+|                        | - Separation into component sine waves                                       |
+|                        | - Represented as a spectral array (frequency, power (=amplitude^2^), ± time) |
+|                        | - Precursor to many types of analysis                                        |
++------------------------+------------------------------------------------------------------------------+
+| Types of analysis      | - Time domain analysis: e.g. burst suppressions                              |
+|                        | - Frequency domain analysis: e.g. beta ratio, spectral edge frequency 95%    |
+|                        | - Both: degree of entropy / phase coupling / synchrony / symmetry            |
++------------------------+------------------------------------------------------------------------------+
+
+#### Bispectral index (BIS):
+
++-----------+-------------------------------------------------------------------------------------+
+| Algorithm | (1) Burst-suppression ratio (correlates with BIS 0-30)                              |
+|           |     - \% per 63 seconds spent in burst-suppression pattern (not isoelectricity)     |
+|           |     - Associated with depletion of intracellular calcium                            |
+|           | (2) QUAZI suppression index                                                         |
+|           |     - Detect burst suppression if wandering baseline                                |
+|           | (3) SynchFastSlow index (correlates with BIS 40-60)                                 |
+|           |     - Index of relative synchrony of fast and slow waves                            |
+|           |     - Derived from bispectral analysis                                              |
+|           |     - Processed to yield bicoherence number (0-1 scale of phase coupling)           |
+|           |     - N.B. PowerFastSlow yields similar results (? bispectral analysis unimportant) |
+|           | (4) Beta ratio (correlates BIS 60-100)                                              |
+|           |     - Ratio of higher to lower frequency beta waves                                 |
+|           |     - Important due to paradoxical increase in SFS/SEF at low drug concentration    |
+|           | (5) EMG                                                                             |
+|           |     - Frontalis muscle activity                                                     |
+|           |     - High frequency (70-110Hz)                                                     |
+|           |     - ? Indicator of nociception or arousal                                         |
++-----------+-------------------------------------------------------------------------------------+
+| Readouts  | - BIS: 40-60 general anaesthesia, 100 awake                                         |
+|           | - Suppression ratio (SR) – ideally zero                                             |
+|           | - Spectral edge frequency 95% - not included in published algorithm                 |
+|           | - Electromyography (EMG) – 0-100 but no recommendation                              |
+|           | - Signal quality index (SQI) – 0-100 but no recommendation                          |
++-----------+-------------------------------------------------------------------------------------+
+
+#### Entropy:
+
++------------+-----------------------------------------------------------+
+| Definition | - Degree of disorder in a system                          |
+|            | - In EEG: ↓Chaos = ↑synchrony = ↓entropy = ↓number        |
++------------+-----------------------------------------------------------+
+| Readouts   | (1) State entropy                                         |
+|            |     - Scale 0-91                                          |
+|            |     - Frequency 0.8-32Hz                                  |
+|            |     - Longer epochs → transient fluctuations eliminated   |
+|            |     - Index of hypnotic component of anaesthesia          |
+|            | (2) Response entropy                                      |
+|            |     - Scale 0-100                                         |
+|            |     - Frequency 0.8-47Hz                                  |
+|            |     - Includes EMG data                                   |
+|            |     - Shorter epochs → rapid response                     |
+|            |     - Sudden increase may indicate nociception or arousal |
++------------+-----------------------------------------------------------+
+
+#### SedLine:
+
++-----------+--------------------------------------------+
+| Algorithm | - Four EEG channels                        |
+|           | - Linear and non-linear analysis           |
+|           | - Temporal and spatial frequency gradients |
+|           | - Symmetry and synchronization             |
+|           | - Arousal observer sub-algorithm           |
++-----------+--------------------------------------------+
+| Readouts  | - Patient status index (0-100, aim 25-50)  |
+|           | - Four EEG waveforms                       |
+|           | - Bilateral density spectral array         |
+|           | - Suppression ratio                        |
+|           | - Spectral edge frequency                  |
+|           | - Asymmetry graph                          |
+|           | - Artifact                                 |
+|           | - EMG                                      |
++-----------+--------------------------------------------+

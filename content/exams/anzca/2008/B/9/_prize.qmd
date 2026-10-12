@@ -1,0 +1,67 @@
+#### List:
+
+- Humidity
+- Normal values
+- Hygrometer types
+
+#### Humidity:
+
++-------------+--------------------------------------------------------------------------------------------+
+| Definitions | - Humidity: an index of the water vapour content of a gas mixture                          |
+|             | - Absolute humidity: is amount of water / volume of air                                    |
+|             | - Relative humidity: is actual partial pressure / saturated vapour pressure (at that temp) |
++-------------+--------------------------------------------------------------------------------------------+
+| Importance  | (no marks for this last time)                                                              |
+|             |                                                                                            |
+|             | - Prevent water loss (by evaporation)                                                      |
+|             | - Prevent heat loss (latent heat of vapourisation)                                         |
+|             | - Prevent crusting of secretion                                                            |
+|             | - Maintain mucociliary function hence sterility                                            |
++-------------+--------------------------------------------------------------------------------------------+
+
+#### Normal values:
+
+                **Temperature (°C)**   **Absolute (g/m^3^)**   **Relative**
+  ------------- ---------------------- ----------------------- --------------
+  Room air      20                     7                       40%
+  Nasopharynx   30                     30                      95%
+  Lungs         37                     43                      100%
+
+#### Hygrometers:
+
++-----------------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| Hair hygrometer             | - Hair under constant tension                                                                                                 |
+|                             | - Hair is hygroscopic = absorbs moisture                                                                                      |
+|                             | - ↑ humidity → ↑ hair length → movement of dial                                                                               |
+|                             | - Most accurate between 20-90% relative humidity                                                                              |
+|                             | - Pros: simple and cheap                                                                                                      |
+|                             | - Cons: slow response, difficult to couple to electrical circuit                                                              |
+|                             |                                                                                                                               |
+|                             | ![](/content/exams/anzca/2008/B/9/prize-image001.jpg){fig-alt="Hair hygrometer with spring, pointer and dial"}                |
++-----------------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| Wet and dry bulb hygrometer | - Dry thermometer measures ambient temp                                                                                       |
+|                             | - Wet thermometer surrounded by a wick                                                                                        |
+|                             | - Evaporation causes cooling (latent heat)                                                                                    |
+|                             | - Ambient temperature and wet-dry temp difference are used to estimate relative humidity from a reference table               |
+|                             | - Accurate between 30-90% relative humidity                                                                                   |
+|                             | - Pros: simple and cheap                                                                                                      |
+|                             | - Cons: slow response, evaporation accelerated if airflow                                                                     |
+|                             |                                                                                                                               |
+|                             | ![](/content/exams/anzca/2008/B/9/prize-image002.jpg){fig-alt="Wet and dry bulb thermometers"}                                |
++-----------------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| Regnault’s hygrometer       | - Silver tube for high thermal conductivity                                                                                   |
+|                             | - Bubbling air evaporates ether                                                                                               |
+|                             | - Ether temp falls                                                                                                            |
+|                             | - Dew point: temp at which relative humidity of surrounding air is 100% and condensation occurs on tube                       |
+|                             | - SVP for different temperatures is known in tables.                                                                          |
+|                             | - Relative humidity = actual vapour pressure / SVP ambient = SVP dew point / SVP ambient                                      |
+|                             | - Tables used to correlate temperature, absolute and relative humidity                                                        |
+|                             | - Pros: simple and cheap                                                                                                      |
+|                             | - Cons: ether pollution                                                                                                       |
+|                             |                                                                                                                               |
+|                             | ![](/content/exams/anzca/2008/B/9/prize-image003.jpg){fig-alt="Regnault’s hygrometer with ether, air flow and silvered tube"} |
++-----------------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| Electrical hygrometers      | - Multiple devices                                                                                                            |
+|                             | - e.g. resistance, capacitance, electronic dewpoint                                                                           |
+|                             | - Most measure both absolute and relative humidity                                                                            |
++-----------------------------+-------------------------------------------------------------------------------------------------------------------------------+

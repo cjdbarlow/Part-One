@@ -1,0 +1,34 @@
+**Term pregnancy physiological changes:**
+
+**Respiratory**:
+
+- ↓ FRC: 20% Erect, 30% Supine
+- 50% ↑ MV: 40% ↑TV, 10% ↑RR
+
+**Cardiovascular:**
+
+- 40% ↑ Blood Volume
+- 45% ↑ Cardiac Output: HR ↑25%, SV ↑35%
+
+**Determinants of Volatile wash in**
+
+Wash in of volatile anaesthetics is determined by:
+
+- The rate of uptake by the alveolus from the circuit - governed by MV and FRC
+- Rate of uptake by the blood from the alveolus: governed by the Cardiac output 
+
+Wash in can be demonstrated by FA/Fi Curve.
+
+Alveolar concentration of agent is affected by the rate of delivery (VA) to replace uptake to the blood and diluted by FRC. In pregnancy:
+
+↑ Alveolar Ventilation: ↑VA (tidal volume and RR) increases the rate of delivery of volatile for alveolar diffusion 
+
+↓ FRC: FRC acts as a fresh gas reservoir diluting incoming Fi of the agent, reducing FRC results in a more rapid ↑ in alveolar concentration of volatile agent. 
+
+Wash in rate is determined by the rate that alveolar concentration reaches inspired concentration.
+
+In pregnancy there is an increased CO which results in a slower rate of rise in blood partial pressure of agent. This slows the wash in rate.
+
+**Overall**:
+
+Overall, the respiratory effects outweigh the cardiovascular effects with respect to volatile wash-in ∴ volatile wash-in is increased at term

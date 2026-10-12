@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016A Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the mechanism of action, pharmacokinetics and major side effects of amiodarone.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} mechanisms in terms of ion channels, action potentials and conduction. Relate distribution and elimination to loading and persistence, then organise major adverse effects by system.
+
+::: {.structure-headings}
+### Channel and Receptor Actions
+
+### Cardiac Electrophysiological Effects
+
+### Distribution and Loading
+
+### Metabolism and Elimination
+
+### Cardiovascular and Tissue Toxicity
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**43%** of candidates achieved a pass in this question
+
+Simply stating the Vaughan-Williams classification is not a description of mechanism of action. Relating the K+ channel blocking effects to the action potential and effective refractory period, with some mention of the other mechanisms, would have achieved a pass on this section. Full marks required more detail on the various mechanisms, with the overall effects on the AV node, SA node and speed of conduction.
+
+Describing the high plasma protein binding, high tissue binding and large Vd, with consequent need for a prolonged loading dose schedule and comment on the elimination kinetics would have earned a pass for the second section.
+
+Almost every candidate listed corneal micro-deposits as a major side-effect, yet many did not mention the pulmonary complications and those who did rarely commented on their incidence, or their high morbidity and mortality.
+
+Many candidates wrote an extensive preamble to their answer, with details on indications, contra-indications and its use in an arrest situation, none of which was asked for. A few candidates confused amiodarone with adenosine and digoxin.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2016/A/9/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2016/A/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Amiodarone](/content/pharmacopoeia/cvs/amiodarone.qmd)

@@ -1,0 +1,62 @@
+#### List:
+
+- PC
+- PK
+- PD
+
+#### Physicochemical:
+
++--------------+-----------------------------------+
+| Structure    | - Iodine-containing               |
+|              | - Similar appearance to thyroxine |
++--------------+-----------------------------------+
+| Presentation | - Tablets                         |
+|              | - Aqueous solution                |
++--------------+-----------------------------------+
+
+#### Pharmacokinetic:
+
++----------------+--------------------------------------------------------------------------------------+
+| Administration | - Arrest 300mg push                                                                  |
+|                | - IV loading 150mg 1/24 then 850mg 23/24                                             |
+|                | - PO loading 10-20mg/kg/day for 7-10 days                                            |
+|                | - Maintenance: \~100-200mg daily                                                     |
++----------------+--------------------------------------------------------------------------------------+
+| Time course    | - IV onset 5 minutes                                                                 |
+|                | - IV duration 30 mins for bolus                                                      |
++----------------+--------------------------------------------------------------------------------------+
+| Absorption     | - Variable                                                                           |
++----------------+--------------------------------------------------------------------------------------+
+| Distribution   | - V~D~ 70L/kg                                                                        |
+|                | - Plasma protein binding \>95% (can displace other highly bound drugs e.g. warfarin) |
+|                | - Tissue protein binding very high                                                   |
+|                | - Lipid solubility high                                                              |
++----------------+--------------------------------------------------------------------------------------+
+| Metabolism     | - Hepatic CYP                                                                        |
+|                | - Cl 1.5-11mL/kg/min                                                                 |
+|                | - t~1/2~~β~ 15-140 days                                                              |
+|                | - Active metabolite desethylamiodarone                                               |
++----------------+--------------------------------------------------------------------------------------+
+| Excretion      | - Bile, skin, tears                                                                  |
++----------------+--------------------------------------------------------------------------------------+
+
+#### Pharmacodynamic:
+
++----------------------+----------------------------------------------------------------------------------+
+| Antiarrhythmic class | - Broad spectrum: class 3 \> 1,2,4                                               |
+|                      | - ↓K^+^ rectifier conductance → prolongs phase 3 of ventricular action potential |
++----------------------+----------------------------------------------------------------------------------+
+| Use                  | - Ablation of supraventricular and ventricular tachyarrhythmias                  |
+|                      | - Rate control in AF                                                             |
++----------------------+----------------------------------------------------------------------------------+
+| CVS toxicity         | (especially if rapid infusion)                                                   |
+|                      |                                                                                  |
+|                      | - Hypotension                                                                    |
+|                      | - Bradycardia (resistant to atropine)                                            |
+|                      | - ↑QT~c~ → ↑risk torsades de pointes                                             |
++----------------------+----------------------------------------------------------------------------------+
+| Tissue toxicity      | - Cirrhosis                                                                      |
+|                      | - Pulmonary fibrosis                                                             |
+|                      | - Thyroid disease (hypo \> hyper)                                                |
+|                      | - Corneal disease                                                                |
++----------------------+----------------------------------------------------------------------------------+

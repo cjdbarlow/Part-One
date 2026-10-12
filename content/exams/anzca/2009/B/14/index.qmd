@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009B Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the central nervous system effects on an awake person breathing air containing carbon dioxide.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} the rise in arterial and brain carbon dioxide and its effect on pH. Separate respiratory centre, neuronal, sympathetic and cerebral vascular effects, linking concentration to stimulation and narcosis.
+
+::: {.structure-headings}
+### Inspired Gas and Brain Carbon Dioxide
+
+### Central and Peripheral Chemoreceptor Responses
+
+### Neuronal Depression and Narcosis
+
+### Sympathetic Effects
+
+### Cerebral Blood Flow and Intracranial Pressure
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**42%** of candidates passed this question.
+
+Good answers included several effects including stimulating central respiratory centres, increased cerebral blood flow, increased intracranial pressure, and stimulation of the sympathetic system. Other points were that inspired air has negligible amounts of CO2 and that high partial pressures can produce CO2 narcosis.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2009/B/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Control of ventilation](/content/resp/breathing_control.qmd)
+- [Cerebral blood flow](/content/cvs/cerebral_blood_flow.qmd)
+- [Intracranial pressure](/content/neuro/icp.qmd)

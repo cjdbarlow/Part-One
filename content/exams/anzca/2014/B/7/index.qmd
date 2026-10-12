@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014B Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+A new test called the “intubation score” has a reported 90% sensitivity and 70% specificity when used to predict difficult intubation. [**Describe**]{.task-verb} how this information and other statistics related to this test can be used in predicting difficult intubation. [**How will**]{.task-verb} the incidence of difficult intubation affect the performance of this test?
+:::
+
+Also asked in: [2007B Question 4](/content/exams/anzca/2007/B/4/index.qmd#examiner-comments), [2017A Question 9](/content/exams/anzca/2017/A/9/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} sensitivity, specificity and predictive values using a 2 × 2 contingency table, then explain [**how the incidence affects**]{.task-verb} interpretation of the test.
+
+::: {.structure-table}
+| Test Result | Difficult Intubation | No Difficult Intubation |
+|---|---|---|
+| Positive | | |
+| Negative | | |
+:::
+
+Then use headings for **Sensitivity and Specificity**, **Positive and Negative Predictive Values**, **Effect of Incidence**, and **Study Population and Applicability**.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**29 %** of candidates achieved a pass in this question
+
+In order to pass the question, candidates were required to provide an accurate definition of sensitivity, specificity, positive predictive value (PPV) and negative predictive value (NPV). A 2x2 contingency table was often helpful for explaining definitions, especially when the terms true positive, true negative, false positive and false negative were represented correctly within the table.
+
+Extra marks could be gained for recognizing that difficult intubation is a relatively uncommon event, with potentially serious consequences if unpredicted. Recognising that a low “disease” prevalence reduced the PPV and increased the NPV was rewarded, as was a realisation that sensitivity and specificity are unaffected by the “disease” prevalence. Marks were also gained for mentioning that a large, and representative, sample population is required when determining the test characteristics initially and for stating that the test may not give the same results in different population groups. Common sources of error were: incorrect definitions of specificity; confusing sensitivity and specificity with positive and negative predictive value; stating that disease prevalence affected sensitivity and specificity and the use of the acronym “SPecificity rules IN, SeNsitivity rules OUT (SPIN SNOUT)” which in virtually every instance resulted in incorrect definitions, possibly due to its inherently misleading nature.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Sensitivity, specificity and predictive values](/content/stats/statistical_terms.qmd)

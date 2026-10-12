@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019A Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the effects of intermittent positive pressure ventilation on cardiac output.
+:::
+
+Also asked in: [2013B Question 1](/content/exams/anzca/2013/B/1/index.qmd#examiner-comments), [2014A Question 5](/content/exams/anzca/2014/A/5/index.qmd#examiner-comments), [2021B Question 1](/content/exams/anzca/2021/B/1/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} how the change in intrathoracic pressure affects preload, afterload and output. Follow the circulation from right to left, distinguishing inspiration from expiration.
+
+::: {.structure-headings}
+### Right Heart
+
+### Pulmonary Circulation
+
+### Left Heart
+
+### Overall Effect and Modifying Factors
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**54.7 %** of candidates achieved a pass in this question
+
+Most candidates demonstrated an understanding that intermittent positive pressure ventilation (IPPV) is the reverse of spontaneous ventilation, and involves an increase in intrathoracic pressure to force gas into the lungs. However, many candidates forgot that IPPV is non-continuous, and that there are changes to the cardiac output in both the inspiratory and expiratory phases.
+
+In order to obtain a pass, candidates had to correctly identify the changes in more than one chamber of the heart, e.g. to identify the differences between the cardiac output changes in the right heart and the left heart, and how the two are inter-related.
+
+Better candidates were able to explain the various cardiac output determinants, the changes with both phases of respiration and the overall cardiac output effects.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/B/1/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/B/1/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Positive pressure ventilation](/content/resp/peep.qmd)
+- [Venous return](/content/cvs/venous_return.qmd)
+- [Determinants of cardiac output](/content/cvs/co_determinants.qmd)

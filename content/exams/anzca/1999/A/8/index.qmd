@@ -1,0 +1,85 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999A Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the significance of plasma oncotic pressure in capillary fluid dynamics.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} the origin of plasma oncotic pressure and its place in the Starling equation. Use systemic and glomerular capillary values to show its effect on fluid movement, then relate altered forces to filtration and lymphatic return.
+
+::: {.structure-headings}
+### Definition and Origin
+
+### Starling Forces and Coefficients
+
+### Systemic and Glomerular Capillary Values
+
+### Consequences of Altered Oncotic Pressure
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question was successfully answered by **75%** of candidates, with some excellent answers.
+
+The osmotic pressure exerted by the unfiltered proteins obviously required definition in relation to the other Starling forces acting across the capillary membranes. This was successfully done by those who passed, usually with the aid of the Starling pressures equation common to the standard texts.
+
+Answers that scored well used some or all of the following, to explain the significance of the plasma osmotic pressure.
+
+- Comparison of forces in different capillary beds
+- Quantification of forces. Allowance was made for the different values by different authors in the standard texts
+- Explanation of significance of filtration and reflection coefficients
+- Effects of altered osmotic and hydrostatic pressures
+- Lymphatic function
+
+Candidates who failed either did not answer the question, or made significant errors, demonstrating limited understanding of plasma protein osmotic pressure and its function in capillaries.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/A/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Starling forces](/content/cvs/starling_forces.qmd)
+- [Glomerular filtration](/content/renal/glomerular_filtration.qmd)

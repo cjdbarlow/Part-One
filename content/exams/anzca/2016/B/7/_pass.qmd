@@ -1,0 +1,32 @@
+Pulse oximetry is the measuring of haemoglobin saturation with a device that emits and detects red and infrared light absorption at 660 and 940nm wavelengths, using the principles beer-lambert law.  
+
+- Beer Law= Absorption proportional concentration of the absorbing substance in the medium
+- Lamberts Law = Absorption proportional distance travelled through the medium
+  - Deoxyhaemoglobin has a greater absorbance of red (660nm) light than oxyhaemoglobin
+  - Oxyhaemoglobin has a greater absorbance of infrared (940nm) light than deoxyhaemoglobin 
+
+**Errors**:
+
+**Calibration Factors**
+
+- The algorithm in the processor was calibrated with healthy volunteers using hypoxic gas mixtures with resulting saturations of SpO2 70-100%. Therefore, its progressively more inaccurate as SpO2 falls below 70%
+
+**Probe Factors**
+
+- Compression of tissue by probe → lack of perfusion and inaccurate reading
+- Failure of light emitting LED or detector 
+- Displacement or incorrect placement of device → failure of transmission +/- detection of light or excessive ambient light affecting receiver
+
+**Patient Factors**
+
+- Requires detectable pulsatile flow: decreased peripheral blood flow (low cardiac output states, hypothermia) or rapid body movements such as shivering/ seizures may give incorrect readings 
+- Venous pulsation (tricuspid regurgitation etc) detected as pulsatile flow, and erroneously interpreted by the microprocessor as arterial flow
+- Absorption spectra confounded by:
+
+Carboxyhaemoglobin causes the pulse oximeter to read artificially high due to as it also absorbs 660nm light
+
+Methemoglobinemia causes the SpO2 to trend towards 85%, as though it absorbs 660nm light is also absorbs 940nm light to a greater degree
+
+Methylene blue dye causes SpO2 to read \<65%
+
+Indocyanine green →↓ SpO2

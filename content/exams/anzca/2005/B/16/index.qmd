@@ -1,0 +1,93 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005B Question 16 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the changes on Functional Residual Capacity (FRC) that take place with administration of anaesthesia.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} the size and time course of the FRC change using its determinants. Link posture, muscle tone and diaphragm shape to the mechanism, then consider pre-existing conditions, surgery, regional anaesthesia and PEEP.
+
+::: {.structure-headings}
+### Definition and Determinants
+
+### Size and Time Course During General Anaesthesia
+
+### Posture, Muscle Tone and Diaphragm Shape
+
+### Patient and Surgical Factors
+
+### Regional Anaesthesia and PEEP
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**48 %** of candidates passed this question.
+
+Points required for a pass were:
+
+- Understanding the determinants of FRC
+- The size and time course of the change with general anaesthesia
+- Explanation of the causes of the change (posture, muscle tone, diaphragm shift)
+
+Additional marks were given for:
+
+- Changes in the shape of the diaphragm
+- The exaggerated effects caused by abdominal surgery, and pre-existing conditions
+- Loss of nitrogen splinting, chest wall compliance vs. lung compliance
+- Differences with local /regional anaesthesia
+- PEEP
+- Intrathoracic blood volume
+- The effects of the FRC change
+
+Many candidates described the results/consequences of the (anaesthetic-induced) change in FRC, which did not attract many additional marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2005/B/16/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Volumes and capacities](/content/resp/volumes_capacities.qmd)
+- [Chest wall and diaphragm](/content/resp/chest_wall_diaphragm.qmd)

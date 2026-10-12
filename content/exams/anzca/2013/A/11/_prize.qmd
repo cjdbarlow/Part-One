@@ -1,0 +1,181 @@
+#### List:
+
+- Definitions
+- Anatomy
+- Lung volumes
+- Resistance and compliance
+- Ventilation and perfusion
+- Gas exchange
+- Control of ventilation
+- Other
+
+#### Definitions:
+
+Neonate: \<4/52 old, born 37-40/40
+
+Adult: \>18 years
+
+#### Anatomy:
+
++-------------------------------------------------------------+-------------------------------------------------+
+| **Anatomical feature**                                      | **Clinical implication**                        |
++=============================================================+=================================================+
+| *Upper airways:*                                            |                                                 |
++-------------------------------------------------------------+-------------------------------------------------+
+| Narrow upper airways:                                       | ↑ Resistance                                    |
+|                                                             |                                                 |
+| - Narrow nasal passages                                     | - Provides auto-PEEP                            |
+| - Large tongue                                              | - Any obstruction = dangerous                   |
+| - Narrow pharynx                                            |                                                 |
++-------------------------------------------------------------+-------------------------------------------------+
+| Obligate nose breather because of                           | - Any obstruction = dangerous                   |
+|                                                             |                                                 |
+| - Big tongue                                                |                                                 |
+| - High laryngeal inlet (C3-4 cf. C6)                        |                                                 |
++-------------------------------------------------------------+-------------------------------------------------+
+| Prominent occiput                                           | - Tendency for flexion → obstruction            |
+|                                                             | - No need for pillow for bag & mask, intubation |
++-------------------------------------------------------------+-------------------------------------------------+
+|                                                             |                                                 |
++-------------------------------------------------------------+-------------------------------------------------+
+| *Lower airways:*                                            |                                                 |
++-------------------------------------------------------------+-------------------------------------------------+
+| Narrower lower airways                                      | - Obstruction = dangerous                       |
+|                                                             | - Use uncuffed ETT                              |
+| - Narrower larynx, trachea and bronchi                      |                                                 |
+| - Note narrowest point cricoid ring (cf. glottis in adults) |                                                 |
++-------------------------------------------------------------+-------------------------------------------------+
+| - Epiglottis long, U shape, floppy                          | - Use straight blade                            |
++-------------------------------------------------------------+-------------------------------------------------+
+| - Laryngeal inlet is high C3-4 and anterior                 | - Different intubation mechanics                |
++-------------------------------------------------------------+-------------------------------------------------+
+| - Short trachea                                             | - Endobronchial intubation common               |
++-------------------------------------------------------------+-------------------------------------------------+
+|                                                             |                                                 |
++-------------------------------------------------------------+-------------------------------------------------+
+| *Chest wall*                                                |                                                 |
++-------------------------------------------------------------+-------------------------------------------------+
+| - Horizontal, cartilaginous ribs                            | - Almost all diaphragmatic breathing            |
+| - ↓Outward recoil                                           | - Abdo constriction dangerous                   |
+| - ↓Bucket handle motion                                     | - ↑Airway collapse in expiration                |
+| - ↓AP and lateral expansion                                 | - FRC \< closing capacity                       |
++-------------------------------------------------------------+-------------------------------------------------+
+| Resp muscle: ↓type 1 fibres                                 | - ↓ reserve                                     |
+|                                                             | - ↑ risk type 2 respiratory failure             |
+| - Diaphragm: 20% diaphragm cf. 55% adult                    |                                                 |
+| - Intercostals: 45% diaphragm cf. 65% adult                 |                                                 |
++-------------------------------------------------------------+-------------------------------------------------+
+
+#### Lung volumes:
+
++----------------------------------------------------+-----------------------------------------------------+
+| **Volume**                                         | **Implication**                                     |
++====================================================+=====================================================+
+| - V~T~ 7mL/kg in both                              |                                                     |
++----------------------------------------------------+-----------------------------------------------------+
+| - V~D~ 2.2mL/kg in both                            |                                                     |
++----------------------------------------------------+-----------------------------------------------------+
+| - FRC 30mL/kg supine in both.                      |                                                     |
++----------------------------------------------------+-----------------------------------------------------+
+| - \*Note FRC \< closing capacity in neonates       | - Gas trapping                                      |
++----------------------------------------------------+-----------------------------------------------------+
+| - \*Note FRC ↓↓ under GA                           | - Rapid desaturation (also because ↑metabolic rate) |
+| - (muscle relaxation → outward recoil)             |                                                     |
++----------------------------------------------------+-----------------------------------------------------+
+| - FVC cannot accurately be measured in the neonate |                                                     |
++----------------------------------------------------+-----------------------------------------------------+
+| - TLC 50mL/kg neonate cf. 70mL/kg adult            |                                                     |
++----------------------------------------------------+-----------------------------------------------------+
+
+#### Resistance and compliance
+
++--------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Parameter**                                    | **Implications:**                                                                                                                                                |
++==================================================+==================================================================================================================================================================+
+| Static compliance:                               | Neonate ↑RR for ↓work of breathing                                                                                                                               |
+|                                                  |                                                                                                                                                                  |
+| - 1.5-6mL/cmH~2~O neonate                        | - Resistance 15x higher                                                                                                                                          |
+| - 100mL/cmH~2~O adult                            | - Compliance 20x lower                                                                                                                                           |
+|                                                  |                                                                                                                                                                  |
+| Specific lung compliance: no change              | ![](/content/exams/anzca/2013/A/11/prize-image001.jpg){fig-alt="Effect of elastic and inelastic resistance on work of breathing at different respiratory rates"} |
+|                                                  |                                                                                                                                                                  |
+| Chest wall compliance:                           |                                                                                                                                                                  |
+|                                                  |                                                                                                                                                                  |
+| - Higher than in adults                          |                                                                                                                                                                  |
++--------------------------------------------------+                                                                                                                                                                  |
+| Dynamic compliance: adult \> neonate             |                                                                                                                                                                  |
+|                                                  |                                                                                                                                                                  |
+| - ↑AWR neonate                                   |                                                                                                                                                                  |
++--------------------------------------------------+                                                                                                                                                                  |
+| Specific compliance = static compliance/FRC:     |                                                                                                                                                                  |
+|                                                  |                                                                                                                                                                  |
+| - Same in neonate and adult                      |                                                                                                                                                                  |
++--------------------------------------------------+                                                                                                                                                                  |
+| Airway resistance:                               |                                                                                                                                                                  |
+|                                                  |                                                                                                                                                                  |
+| - 25cmH~2~O/L/s on day 2, cf. adult 2cmH~2~O/L/s |                                                                                                                                                                  |
++--------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Ventilation and perfusion:
+
++---------------------------------------------------+-------------------------+
+| **Parameter**                                     | **Implication**         |
++===================================================+=========================+
+| - RR 12 in adult, 40 in neonate                   | - ↓Reserve for ↑RR      |
+| - V~T~ 5-8mL/kg both                              |                         |
++---------------------------------------------------+-------------------------+
+| - MV 220mL/kg/min neonate, 110mL/kg/min adults    | - ↑Work of breathing    |
+| - V~A~ 140mL/kg/min in neonate, 70mL/kg/min adult |                         |
+| - Due to 2x ↑VO~2~ (7-8mL/kg/min)                 |                         |
++---------------------------------------------------+-------------------------+
+| - ↑Cardiac output 140mL/kg/min                    | - ↑pulmonary blood flow |
++---------------------------------------------------+-------------------------+
+
+#### Gas exchange:
+
++---------------------------------------------------------+----------------------------------------------------------------------+
+| **Difference:**                                         | **Implication**                                                      |
++=========================================================+======================================================================+
+| (1)↑ O~2~ consumption:                                  | - Rapid desaturation in apnoeic neonates                             |
+|                                                         |                                                                      |
+| 7-8mL/kg/min in neonates, 3-4mL/kg/min in in adults     |                                                                      |
++---------------------------------------------------------+----------------------------------------------------------------------+
+| (2)↓ PaO~2~: 50-70mmHg neonate, 100mmHg adult           | - ↓CaO~2~                                                            |
+|                                                         | - ↓Reserve in illness e.g. pneumonia                                 |
+| Due to:                                                 |                                                                      |
+|                                                         |                                                                      |
+| - VQ mismatch: 0.4 neonate (due to FRC \<CC), 0.8 adult |                                                                      |
+| - R→L shunt: 10% neonate, 2-3% adult (??)               |                                                                      |
++---------------------------------------------------------+----------------------------------------------------------------------+
+| (3)↑O~2~ carrying capacity                              | - Partly offsets ↓PaO~2~ such that CaO~2~ 16mL/100mL c.f. 20mL/100mL |
+|                                                         | - Increases blood viscosity hence afterload                          |
+| - \[Hb\] 17-18g/dL cf. 12-14g/dL                        |                                                                      |
+| - HbF p50 19mmHg cf. HbA p50 27mmHg                     |                                                                      |
++---------------------------------------------------------+----------------------------------------------------------------------+
+
+#### Control of ventilation:
+
++-------------------------------------------+-------------------------------+
+| **Difference**                            | **Implication**               |
++===========================================+===============================+
+| - Immature respiratory centre in neonates | - Frequent mild apneas        |
+| - Depressed by hypothermia                | - ↑Frequent ↑duration post-op |
++-------------------------------------------+-------------------------------+
+| Acid-base neonate:                        | - ↓Reserve for ↑ventilation   |
+|                                           |                               |
+| - CO~2~-MV response curve left shifted    |                               |
+| - Compensated resp alkalosis              |                               |
++-------------------------------------------+-------------------------------+
+
+#### Other:
+
++----------------------------------+---------------------------------------------------------------------------------------------------------------------------+
+| Neonate specific oxygen toxicity | - Retinopathy of prematurity                                                                                              |
+|                                  | - Bronchopulmonary dysplasia                                                                                              |
+|                                  | - Necrotising enterocolitis                                                                                               |
++----------------------------------+---------------------------------------------------------------------------------------------------------------------------+
+| Non-respiratory functions        | - Innate immunity e.g. mucocilicary escalator present in neonate and adult                                                |
+|                                  | - Adaptive immunity: passive (from breast milk) vs endogenous. No endogenous IgG or IgA in neonatal alveolar lining fluid |
++----------------------------------+---------------------------------------------------------------------------------------------------------------------------+
+| Response to stress               | - ↓PaO~2~, ↑PaCO~2~, ↓pH → ↑PVR → reversion to foetal circulation → hypoxia                                               |
++----------------------------------+---------------------------------------------------------------------------------------------------------------------------+

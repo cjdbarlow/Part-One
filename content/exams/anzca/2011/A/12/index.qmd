@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011A Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Compare and contrast**]{.task-verb} a single twitch and a tetanic contraction in a skeletal muscle fibre.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Compare and contrast**]{.task-verb} the mechanical responses in parallel columns. Use electrical and force–time graphs to connect refractory period, calcium handling and fibre relaxation time to summation and fused contraction.
+
+::: {.structure-table}
+| Feature | Single Twitch | Tetanic Contraction |
+|---|---|---|
+| Definition and Initiation | | |
+| Electrical and Mechanical Time Courses | | |
+| Calcium and Summation | | |
+| Relaxation and Fibre Types | | |
+| Force and Energy Requirements | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question was passed by **25%** of candidates.
+
+Better answers included a brief description of a skeletal muscle fibre and its contractile mechanism, definitions of a single muscle fibre twitch and titanic contraction, an explanation of the difference between the membrane electrical refractory period and fibre relaxation time and the implications of each, the reasons re-stimulation within fibre relaxation time results in additional contraction, the role of calcium, the impact of relaxation times for different fibre types on the frequency required to create a titanic contraction (with example values for each), and the differences between single twitch and titanic contractions with respect to the reasons that relaxation occurs, force achieved, and energy requirements.
+
+Common mistakes included providing excessive detail about synaptic events or excitation-contraction coupling and missing the important points above, describing summation and tetany as electrical events rather than mechanical events, and writing about the use of a nerve stimulator.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2011/A/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Skeletal muscle](/content/msk/skeletal_muscle.qmd)

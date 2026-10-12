@@ -1,0 +1,69 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009B Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the pharmacodynamics of drugs that affect uterine tone.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} drugs under **Agents Increasing Tone** and **Agents Decreasing Tone**. For each important agent relate the mechanism to basal tone, contraction force and frequency, dose, pregnancy stage and adverse effects.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**48%** of candidates passed this question.
+
+Candidates interpreted this question in a variety of different ways. The marking scheme was structured so that it was possible to do well with any reasonable interpretation. As the question clearly relates to uterine pharmacology, however, some part of the answer had to pertain to the actions of the drug on the uterus. It was not possible to pass, for example, by writing an essay purely on the non uterine effects of volatile agents.
+
+A suitable approach would have been to list the common drugs which affect uterine tone, noting which increase and which decrease tone, and then to discuss the important drugs in more detail. Points which could be elaborated on include, a) the mode of action, b) the effect on basal tone and contractions, both force and frequency, c) how that effect varies with stage of pregnancy and dose of the drug, d) other actions on the uterus and cervix, e) important side effects—particularly those on the uterus, or those which might limit the drug’s use.
+
+Common mistakes were to confuse smooth and skeletal muscle; beta agonists and beta blockers; α, β~1~ and β~2~ effects; and the effects of nitrous oxide, volatile agents and intravenous anaesthetic agents. Many candidates were unsure as regards the relationship between systemic vascular resistance, heart rate and blood pressure. Candidates often included unnecessary information on dosage, pharmacokinetics and usage. Vague answers attracted no marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Oxytocics](/content/pharmacopoeia/obs/oxytocics.qmd)
+- [Tocolytics](/content/pharmacopoeia/obs/tocolytics.qmd)

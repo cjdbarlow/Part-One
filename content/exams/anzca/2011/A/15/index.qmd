@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011A Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the functions of the gastric secretions.
+:::
+
+Also asked in: [2004B Question 13](/content/exams/anzca/2004/B/13/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} each gastric secretion alongside its function. Use secretion headings or a table to keep acid, enzymes, intrinsic factor, mucus, bicarbonate and regulatory products distinct.
+
+::: {.structure-headings}
+### Hydrochloric Acid
+
+### Pepsin and Gastric Lipase
+
+### Intrinsic Factor
+
+### Mucus and Bicarbonate
+
+### Gastrin, Histamine and Somatostatin
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question was passed by **69%** of candidates. In general this question was well answered.
+
+Good answers were often in tabular format with headings for secretion and function. Equally good answers were short notes under secretion headings. Poor answers gave lengthy descriptive prose that added no detail to the answer. Some candidates discussed other digestive secretions from the mouth, pancreas and intestine. These carried no marks and wasted valuable time. Repetitive statements also carried no extra marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2004/B/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Gastric secretions](/content/git/secretions.qmd)

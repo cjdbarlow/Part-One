@@ -1,0 +1,76 @@
+#### List:
+
+- Intro
+- Starling hypothesis
+- Normal starling numbers
+- Factors increasing rate of transudation
+- Factors decreasing rate of lymphatic drainage
+
+#### Intro: interstitial oedema
+
++------------+----------------------------------------------------------------------------------+
+| Definition | - Excess fluid in the interstitium i.e. space outside vessel and cells           |
+|            | - Can occur in pulmonary and/or systemic circulation                             |
++------------+----------------------------------------------------------------------------------+
+| Aetiology  | - Interstitial fluid volume ∝ rate of transudation / rate of lymph removal       |
+|            | - Hence either ↑rate of transudation or ↓rate of lymph removal                   |
+|            | - Interstitial hydrostatic pressure increases until a new equilibrium is reached |
++------------+----------------------------------------------------------------------------------+
+
+#### Starling hypothesis:
+
++--------------------------------------+--------------------------------------------------------------------------------------------------------+
+| Traditional hypothesis               | - Filtration rate governed by balance of hydrostatic and oncotic pressures either side of the membrane |
+|                                      | - Normally 4L/day                                                                                      |
+|                                      | - Filtration rate ∝ = K~f~\[(P~C~ – P~i~) – σ(π~C~ – π~i~)\]                                           |
++--------------------------------------+--------------------------------------------------------------------------------------------------------+
+| Objections to traditional hypothesis | - Net filtration occurs across the whole length of the capillary                                       |
+|                                      | - The glycocalyx limits protein extravasation as well as the endothelium                               |
++--------------------------------------+--------------------------------------------------------------------------------------------------------+
+
+#### Normal starling values:
+
+         **Arterial end**           **Venous end**
+  ------ -------------------------- ----------------------------
+  Pc     35mmHg                     15mmHg
+  Pc     0                          0
+  π~c~   28                         28
+  π~i~   3                          3
+  Net    +10mmHg (net filtration)   -10mmHg (net reabsorption)
+
+(note falsely predicts net filtration only at the arterial end)
+
+#### Factors increasing rate of transudation:
+
++----------------------------------------+----------------------------------------------------------------------+
+| ↑Filtration coefficient (K~f~)         | - ∝ surface area x hydraulic conductivity                            |
+|                                        | - e.g. SIRS, sepsis, anaphylaxis → leaky capillary                   |
++----------------------------------------+----------------------------------------------------------------------+
+| ↓Staverman reflection coefficient (σ)  | - Corrects actual oncotic pressure difference to observed effect     |
+|                                        | - ∝ 1 / (permeability to protein)                                    |
+|                                        | - e.g. damage to capillary → ↓ σ → ↑transudate                       |
++----------------------------------------+----------------------------------------------------------------------+
+| ↑Capillary hydrostatic pressure (P~C~) | - ↑P~C~ at arterial end (minor effect)                               |
+|                                        |   - Severe hypertension                                              |
+|                                        |   - Relaxation of pre-capillary sphincter                            |
+|                                        | - ↑P~c~ at venous end (major effect)                                 |
+|                                        |   - Right heart failure, IPPV                                        |
+|                                        |   - Constriction of post-capillary sphincter                         |
++----------------------------------------+----------------------------------------------------------------------+
+| ↓Capillary oncotic pressure (π~C~)     | - ↓ π~p~ → ↑transudate                                               |
+|                                        | - Hypoproteinaemia: e.g. nephrotic syndrome, cirrhosis, malnutrition |
++----------------------------------------+----------------------------------------------------------------------+
+| Interstitial hydrostatic pressure (Pi) | - N/A                                                                |
++----------------------------------------+----------------------------------------------------------------------+
+| Interstial oncotic pressure (π~i~)     | - ↑π~i~ (normally zero) → ↑transudate                                |
++----------------------------------------+----------------------------------------------------------------------+
+
+#### Factors decreasing rate of lymphatic drainage:
+
++-----------------------+--------------------------+
+| Lymphatic obstruction | - Tumour                 |
++-----------------------+--------------------------+
+| Lymphatic damage      | - Idiopathic lymphoedema |
+|                       | - Radiation              |
+|                       | - Lymphadenectomy        |
++-----------------------+--------------------------+

@@ -1,0 +1,64 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000A Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the control of gastric emptying.
+:::
+
+Also asked in: [2005A Question 9](/content/exams/anzca/2005/A/9/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Local Gastric Factors**, **Duodenal Feedback**, and **Extrinsic Neural and Hormonal Control**. Connect the stomach and duodenum through the relevant neural pathways and hormonal signals.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Just over **50%** of the candidates achieved a pass in this question. The main points should have included a discussion of the neural and hormonal factors, both local (gastric and duodenal), as well as extrinsic factors. Many candidates appeared not to know the structure and function of the nervous supply of the stomach and duodenum. The hormonal control of gastric emptying was either not mentioned or was wrong in several answers. The inter-relationship between the stomach and duodenum in the control of gastric emptying was mentioned by only a few candidates.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Control of Gastric Emptying](/content/git/gastric_emptying.qmd)

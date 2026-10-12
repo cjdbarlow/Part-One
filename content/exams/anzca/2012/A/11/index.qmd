@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012A Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the physiology of blood groupings that allows O negative packed cells to be safely transfused to most patients.
+:::
+
+Also asked in: [2016B Question 4](/content/exams/anzca/2016/B/4/index.qmd#examiner-comments), [2021A Question 3](/content/exams/anzca/2021/A/3/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} antigen and antibody relationships before explaining why O negative packed cells can be used for most recipients. Distinguish packed cells from plasma and address important limitations.
+
+::: {.structure-headings}
+### ABO Antigens and Antibodies
+
+### Rhesus Antigens and Sensitisation
+
+### Packed Cells and Recipient Compatibility
+
+### Other Antigens and Compatibility Limits
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**50.2%** of candidates passed this question.
+
+Very few candidates scored highly. Many candidates failed to fully read the question, in particular the words "packed cells" and "most patients".
+
+In order to pass, candidates were required to outline the physiology of blood groupings, including the antigens and antibodies in the major blood groups, and then explain why there was unlikely to be a transfusion reaction if O negative packed cells were transfused.
+
+No marks were awarded for general descriptions of the processes of blood crossmatching, or for listing multiple complications of blood transfusion.
+
+Additional marks were awarded for noting that there was minimal plasma in O negative blood, therefore the chance of a transfusion is minimal; for discussion of the presence of minor blood antigens; for discussion of the necessity for prior exposure for the development of Rhesus antibodies and the implications for women of childbearing age; for acknowledging that blood reserved for uncrossmatched blood transfusion has low antigenicity, having been screened for the minor blood groupings; and for noting problems with subsequent crossmatching after uncrossmatched O negative blood is transfused. Bonus marks were awarded to the few candidates who mentioned the Bombay Blood Group, although this knowledge was not required to achieve a perfect score.
+
+Many candidates confused antigens and antibodies, and were unaware of the antigens and antibodies associated with the ABO system of blood grouping. Despite the question stating "most patients" many candidates insisted that O Rhesus negative blood can be transfused safely to all patients.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2012/A/11/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2012/A/11/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Transfusion](/content/haeme/transfusion.qmd)

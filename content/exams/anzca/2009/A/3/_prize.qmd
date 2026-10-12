@@ -1,0 +1,133 @@
+#### List:
+
+- Intro
+- Dose = starting \[drug\]
+- Biophasics = rate of transfer from effect site to central compartment
+- Kinetics = rate of ↓\[drug\]
+- Dynamics = \[drug\] for offset (could technically write about ↑sensitivity and ↓sensitivity)
+
+#### Intro: 
+
++----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Determinants of time to recovery | - Final effect site concentration after bolus or at end of infusion                                                                                    |
+|                                  | - Rate of removal from effect site                                                                                                                     |
+|                                  | - Rate of elimination from the plasma                                                                                                                  |
+|                                  | - Effect site concentration required for recovery of neuromuscular function                                                                            |
++----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Compartment model                | ![](/content/exams/anzca/2009/A/3/prize-image001.jpg){fig-alt="Three-compartment pharmacokinetic model with effect site and transfer rate constants"}  |
++----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Standard                         | - Train-of-four ratio 0.9 (or return to 25% baseline twitch height?)                                                                                   |
++----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Usual duration                   | - 30-45 mins for 2x ED~95~                                                                                                                             |
+|                                  | - 45-60 mins for 4x ED~95~                                                                                                                             |
++----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Ce after bolus or at end of infusion (factors increasing it)
+
++----------------+---------------------------------------------------------+
+| Administration | - ↑Bolus size (e.g. 4x ED~95~ rocuronium cf. 2x ED~95~) |
+|                | - ↑Infusion rate                                        |
+|                | - ↑Infusion duration                                    |
++----------------+---------------------------------------------------------+
+| Drug           | - ↓Elimination rate (see below)                         |
++----------------+---------------------------------------------------------+
+| Patient        | - ↓Volume of distribution (see below)                   |
++----------------+---------------------------------------------------------+
+
+#### Removal from effect site:
+
++--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Fick’s law         | ![](/content/exams/anzca/2009/A/3/prize-image002.jpg){fig-alt="Fick diffusion relationship governing transfer from the effect site"}  |
++--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Chelation reversal | - γ-cyclodextrin chelates rocuronium \> vecuronium \>\> pancuronium                                                                   |
+|                    |   - Interaction occurs in plasma, not receptor site                                                                                   |
+|                    |   - ↓C~2~ → ↑concentration gradient → ↑rate of removal                                                                                |
+|                    |   - i.e. kinetic not dynamic interference                                                                                             |
+|                    | - Dosing                                                                                                                              |
+|                    |   - 16mg/kg immediately after intubating dose                                                                                         |
+|                    |   - 4mg/kg moderate blockade                                                                                                          |
+|                    |   - 2mg/kg minimal residual blockade                                                                                                  |
++--------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Elimination from central compartment: (factors slowing it)
+
++----------------+----------------------------------------------------------------------------+
+| Short infusion | Offset during distribution phase                                           |
+|                |                                                                            |
+|                | - ↓Cardiac output (e.g. shock)                                             |
+|                | - ↓Volume of distribution                                                  |
+|                |   - ↓Muscle mass (e.g. elderly, cachectic)                                 |
+|                |   - ↑Water mass (e.g. hypovolaemia)                                        |
++----------------+----------------------------------------------------------------------------+
+| Long infusion  | Offset during terminal elimination phase                                   |
+|                |                                                                            |
+|                | - ↑Cardiac output (e.g. pregnant, neonate)                                 |
+|                | - ↑Volume of distribution                                                  |
+|                |   - ↑Muscle mass (e.g. athletic)                                           |
+|                |   - ↑Water mass (e.g. heart failure, renal failure, liver failure)         |
+|                | - ↓Metabolism                                                              |
+|                |   - ↓Phase 1,2 reactions (e.g. liver failure) → ↑duration aminosteroids    |
+|                |   - ↓Hoffman degradation (↓temp, ↓pH) → ↑duration benzylisoquinoliniums    |
+|                |   - ↓Ester hydrolysis (↓temp, ↑pH) → ↑duration benzylisoquinoliniums       |
+|                | - ↓Excretion of drug or active metabolite                                  |
+|                |   - ↓Renal excretion (renal failure → accumulate pancuronium, gallamine)   |
+|                |   - ↓Biliary excretion (liver failure → accumulate vecuronium, rocuronium) |
++----------------+----------------------------------------------------------------------------+
+
+\*Note: muscle relaxants have a very small V~DSS~; my understanding was that distribution is unimportant,\
+but the examiner’s report suggests otherwise\*
+
+#### Ce at which offset occurs: (factors decreasing it)
+
++-----------------------+-------------------------------------------------------------------------------------------+
+| Muscle group          | - Laryngeal adductors recover before adductor pollicis due to                             |
+|                       |   - ↑Blood flow                                                                           |
+|                       |   - ↑ACh vesicles released                                                                |
+|                       |   - ↑Number of receptors                                                                  |
++-----------------------+-------------------------------------------------------------------------------------------+
+| Physiological factors | ↓ACh release → ↑drug:ACh ratio                                                            |
+|                       |                                                                                           |
+|                       | - Neonate: immature NMJ                                                                   |
+|                       | - Elderly: ↓ACh spare receptors                                                           |
+|                       | - ↑Mg^2+^: antagonize Ca^2+^ at pre-synaptic L-Ca^2+^ channel                             |
+|                       | - ↓K^+^: hyperpolarization                                                                |
+|                       | - Hypothermia                                                                             |
+|                       | - Resp acidosis                                                                           |
++-----------------------+-------------------------------------------------------------------------------------------+
+| Pathological factors  | - Myasthaenia gravis (↓↓spare receptors)                                                  |
+|                       | - Lambert-Eaton syndrome (antibody against VDCC, ↓ACh released)                           |
+|                       |                                                                                           |
+|                       | (note: denervation → upregulation of extra-junctional receptors → ↑Ce for offset)         |
++-----------------------+-------------------------------------------------------------------------------------------+
+| Pre-synaptic drugs    | - ↓α-motor neuron activity: volatile anaesthetic                                          |
+|                       | - ↓ axonal action potential: peripheral nerve local anaesthetic (↓Na^+^ flux)             |
+|                       | - ↓Choline uptake: hemicholinium                                                          |
+|                       | - ↓ACh transport into vesicles: vesamicol                                                 |
+|                       | - ↓AMP/ATP synthesis (frusemide)                                                          |
+|                       | - Block pre-synaptic nAChR (volatiles)                                                    |
+|                       | - Block L-Ca^2+^ (CCB, Mg^2+^, aminoglycosides, volatiles)                                |
++-----------------------+-------------------------------------------------------------------------------------------+
+| Post-synaptic drugs   | - Block post-synaptic nAChR: other non-depolarisers, volatiles, aminoglycoside, quinidine |
+|                       | - Desensitisation blockade (volatiles, barbiturates)                                      |
+|                       | - Inhibit peri-junctional action potential: local anaesthetic ↓Na^+^ flux                 |
++-----------------------+-------------------------------------------------------------------------------------------+
+| Post-junctional drugs | - Dantrolene: inhibit skeletal muscle ryanodine receptor                                  |
++-----------------------+-------------------------------------------------------------------------------------------+
+| Toxins                | - Botox: cleave SNARE protein, ↓ACh release                                               |
+|                       | - Tetrodotoxin: VDNaC inhibition                                                          |
++-----------------------+-------------------------------------------------------------------------------------------+
+
+#### Ce at which offset occurs: factors increasing it
+
++----------------------+---------------------------------------------------------------------------------------------------+
+| Physiology           | - ↑K^+^: membrane potential less negative → ↑ACh release → ↓drug:ACh ratio                        |
++----------------------+---------------------------------------------------------------------------------------------------+
+| Pathology            | - Critical illness myopathy, burns → proliferation of extrajunctional receptors → ↓drug:ACh ratio |
+|                      | - Malignant hyperthermia→ post-junctional activation                                              |
++----------------------+---------------------------------------------------------------------------------------------------+
+| Competitive reversal | - Acetylcholinesterase inhibitor (e.g. neostigmine → ↑ACh:Drug ratio → displacement               |
+|                      | - Obtain train-of-four ratio of \>0.9 earlier                                                     |
+|                      | - Should not be given until three TOF twitches                                                    |
++----------------------+---------------------------------------------------------------------------------------------------+
+| Toxins               | - Tetanus toxin: ↓inhibition of a-motor neurons → ↑NMJ activity → ↓drug:ACh ratio                 |
++----------------------+---------------------------------------------------------------------------------------------------+

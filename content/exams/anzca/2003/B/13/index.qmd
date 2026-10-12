@@ -1,0 +1,87 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003B Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the factors that affect airways resistance.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} airway resistance with its units and normal values, then link airway calibre and gas properties to the relevant flow relationships. Separate lower airway determinants from upper airway factors.
+
+::: {.structure-headings}
+### Definition, Normal Values and Flow Relationships
+
+### Airway Radius, Lung Volume and Bronchomotor Tone
+
+### Dynamic Airways Compression
+
+### Gas Density, Viscosity and Airway Length
+
+### Upper Airway Factors
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**64%** of candidates passed this question and there were quite a number of excellent answers.
+
+Better answers included a definition of Airways Resistance (AWR), invoking a version of Ohms law and correctly ascribing units (either SI units or more commonly cmH~2~O/L/sec) and giving some idea of a normal value. Also expected was an outline of the relative contributions of the upper and lower respiratory tracts, the relationship between lung volume and AWR (best demonstrated graphically), the concept of laminar and turbulent airflows and their effect on AWR (including a version of the Hagen-Poiseuille equation and Reynolds number), the differing relationships between AWR, driving pressure, flow and airway calibre in both turbulent and laminar flow states, and examples of physiological factors that effect AWR (e.g. bronchomotor tone, respiratory rate, dynamic airways compression).
+
+Common errors included:
+
+- Not mentioning units or wrong units (e.g. mmHg/L/min).
+- Incorrectly stating that the “driving pressure” is intrapleural-alveolar gradient rather than mouth-alveolar.
+- Incorrect versions of the Hagen-Poiseuille equations or Reynolds number.
+- Not explaining the relationship between airway calibre, turbulent flow and AWR.
+- Discussing lung compliance instead.
+- Confusing the Lung Volume-AWR relationship with the Lung Volume-PVR relationship and stating therefore that AWR is lowest at FRC than at TLC.
+- Ignoring the role of the upper airway in AWR.
+- Wasting time on an exhaustive classification of all Pathological and Pharmacological factors which effect airway calibre.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2003/B/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Airway resistance](/content/resp/resistance.qmd)

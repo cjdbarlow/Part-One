@@ -1,0 +1,66 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010B Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the mechanism of action, pharmacokinetics and major side effects of intravenously administered amiodarone.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Mechanism of Action**, **Pharmacokinetics**, and **Major Adverse Effects**. [**Include**]{.task-verb} clinically relevant dosing and interactions alongside the property they illustrate.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**70%** of candidates passed this question.
+
+A structured approach was expected and marks were distributed to the three main areas – MOA, pharmacokinetics and adverse effects. Candidates were expected highlight the various mechanisms of action such that amiodarone can fit within most elements of the Vaughan Williams classification. A clear structure addressing the main areas relating to pharmacokinetics was helpful. It was expected candidates would appreciate the very long half life, high protein binding, significant tissue binding and large volume of distribution.            Specific comments regarding the main toxicities were expected. In particular, the pulmonary toxicity (both acute and chronic variations) is important. In addition a variety of other issues should be mentioned, including thyroid changes and the well described skin and ocular changes. Cardiac toxicity with bradycardia, QT prolongation and this risk of Torsades that this may pose was mentioned by many candidates and gained specific credit.
+
+Additional credit was given for more detailed explanations, comments on enzyme metabolism and examples of drug interactions. Comments on dosing and infusions gained additional marks. Well organized answers such as those with an ordered list of subheadings were rewarded.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Amiodarone](/content/pharmacopoeia/cvs/amiodarone.qmd)

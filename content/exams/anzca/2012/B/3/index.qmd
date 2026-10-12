@@ -1,0 +1,68 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012B Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Define**]{.task-verb} the terms “tolerance” and “tachyphylaxis”. [**Discuss**]{.task-verb} the different mechanisms by which tolerance can develop, giving examples where appropriate.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Define**]{.task-verb} **Tolerance** and **Tachyphylaxis**, then [**discuss**]{.task-verb} **Pharmacokinetic Mechanisms** and **Pharmacodynamic Mechanisms**. [**Give examples**]{.task-verb} that distinguish reduced drug concentration from reduced response at the same concentration.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**45%** of candidates passed this question.
+
+The main points expected for a pass included definitions for the terms tolerance and tachyphylaxis, as well as a discussion of potential mechanisms by which tolerance could develop. These mechanisms could be both pharmacokinetic: whereby a drug’s effect lessens due to a lower plasma concentration, and pharmacodynamic: whereby a drug’s effect lessens despite no decrease in plasma concentration.
+
+Most answers included good definitions for tolerance and tachyphylaxis and were rewarded for these. However, pharmacokinetic mechanisms responsible for tolerance were mostly omitted and rarely “discussed” as the question required. Pharmacodynamic mechanisms potentially responsible for tolerance were included in most answers, but were often lacking detail, imprecise or incorrect, and could not be described as a “discussion”.
+
+The primary exam is a basic sciences exam and not a clinical exam. Hence, it is expected that answers to the questions address the basic sciences. Answers that did so scored very highly.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Alterations to Drug Response](/content/pharmacology/alterations_to_response.qmd)

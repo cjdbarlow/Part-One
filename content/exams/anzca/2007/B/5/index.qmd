@@ -1,0 +1,86 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007B Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the factors which increase the risk of systemic toxicity with amide local anaesthetic agents.
+:::
+
+Also asked in: [2009A Question 2](/content/exams/anzca/2009/A/2/index.qmd#examiner-comments), [2011A Question 1](/content/exams/anzca/2011/A/1/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} factors that increase systemic concentration, intrinsic toxicity and patient sensitivity. Explain the direction of each effect and distinguish drug factors from patient factors.
+
+::: {.structure-headings}
+### Toxicity and Relative Safety
+
+### Drug Potency and Sodium Channel Affinity
+
+### Absorption and Administration
+
+### Distribution, Metabolism and Excretion
+
+### Central Nervous System and Cardiovascular Sensitivity
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**37 %** of candidates passed this question.
+
+The focus of this question was on CVS and CNS toxicity related to excessive serum plasma levels of drug.
+
+Successful candidates structured their answers along pharmacokinetic and pharmacodynamic factors. Concise descriptions of pharmacokinetic factors such as dosage limits, site of administration and rate of administration vs clearance were expected. There appeared to be confusion regarding how pH/pKa applied to toxicity. Marks were awarded for describing how weakly basic drugs with a high pKa would become more ionized and potentially “trapped” in acidic environments. This would exacerbate myocardial toxicity in cardiac arrest or other causes of acidosis.
+
+At times, the role of plasma protein binding was not clearly explained. Reductions in plasma protein binding via displacement or reduced production would have greater proportional effects on the unbound levels of highly protein bound drugs. The role of changes in volume of distribution was commonly omitted. This would apply in situations such as cardiac failure or the elderly. Succinct descriptions of why certain amides had greater risk of toxicity were expected, e.g. Na channel affinity, lipid solubility, duration of action, lack of vasoconstrictive properties. Commonly, there was confusion between amide and ester local anaesthetics.
+
+Marks were awarded for descriptions of a scale of toxicity vs. specific plasma levels and relating it to CVS:CNS toxicity ratios, but general descriptions of local anaesthetics and their mode of action did not accrue any marks.
+
+Extra marks were awarded for describing the role of isomers, specific drug interactions, and the role of various physiological factors (pregnancy, neonate, elderly) and pathological factors (tachycardia, electrolyte disturbances, hypoxia, hypercarbia).
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/B/5/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Local anaesthetic principles](/content/pharmacopoeia/neuro/local_anaesthetic_principles.qmd)

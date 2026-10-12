@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013B Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the physiological basis of methods used to prevent hypoxaemia prior to intubation in a rapid sequence induction. [**Include**]{.task-verb} any adverse effects of these methods.
+:::
+
+Also asked in: [2014A Question 4](/content/exams/anzca/2014/A/4/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} each method by linking its physiological basis to the maintenance of oxygenation during apnoea. [**Include**]{.task-verb} the adverse effects alongside the relevant method.
+
+::: {.structure-headings}
+### Pre-Oxygenation and Oxygen Stores
+
+### Positioning
+
+### PEEP
+
+### Apnoeic Oxygenation
+
+### Adverse Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**59.2%** of candidates achieved a pass in this question
+
+The main points that were sought in this question were a definition of hypoxaemia, a brief description of rapid sequence induction and a discussion of the physiology of pre-oxygenation. This should have included a description of functional residual capacity and basal oxygen consumption. While most candidates identified absorption atelectasis as the main adverse effect of pre-oxygenation, comment of the physiological significance of this (increased shunt) was commonly omitted. Extra marks were awarded for describing the physiology of other techniques for preventing hypoxaemia during rapid sequence induction, such as patient positioning (ramped), the use of PEEP and apnoeic oxygenation. Bonus marks were awarded for discussion on the adverse physiological effects of induction agents used in rapid sequence intubation (i.e. calculated, rather than titrated to effect) and the adverse effects of suxamethonium.
+
+Many candidates discussed the indications for rapid sequence induction and listed the adverse effects of chronic hyperoxia, however this did not attract any marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/B/2/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/B/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Oxygen storage](/content/resp/oxygen_storage.qmd)
+- [Lung volumes and capacities](/content/resp/volumes_capacities.qmd)
+- [Positive pressure ventilation](/content/resp/peep.qmd)

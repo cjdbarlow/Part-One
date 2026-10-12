@@ -1,0 +1,88 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012B Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the mechanisms by which the kidney maintains potassium homeostasis.
+:::
+
+Also asked in: [2007B Question 12](/content/exams/anzca/2007/B/12/index.qmd#examiner-comments), [2008B Question 16](/content/exams/anzca/2008/B/16/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} potassium handling along the nephron. Distinguish filtered load and relatively fixed reabsorption from regulated secretion, linking transport mechanisms to aldosterone, potassium concentration and tubular flow.
+
+::: {.structure-headings}
+### Normal Concentrations and Filtered Load
+
+### Proximal Tubule and Loop Reabsorption
+
+### Distal Nephron Secretion
+
+### Aldosterone and Potassium Regulation
+
+### Tubular Flow and Intercalated Cell Reabsorption
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**27 %** of candidates passed this question.
+
+The main points expected to achieve a pass were:
+
+- Normal potassium levels
+- Recognising that all potassium is freely filtered with fixed reabsorption and that secretion is the regulatory process
+- Describing potassium movement at the proximal tubule, thick ascending loop of Henle, distal convoluted tubule, and cortical collecting duct
+- Describing the control of potassium secretion by principle cells – potassium level, aldosterone, and tubular flow rate
+- An outline of the reabsorption of potassium by type A intercalated cells
+
+Additional marks were awarded for explanations of the mechanisms by which potassium movement occurs, percentages of potassium load handled at each area, and the control of aldosterone release exerted by potassium. Details on the apical and basolateral ion transport mechanisms also gained marks.
+
+Marks were not awarded for descriptions of potassium’s non-renal role, effects of drugs on potassium balance, renin-angiotensin system information, or the effects of renal failure.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/B/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Renal potassium handling](/content/renal/potassium.qmd)

@@ -1,0 +1,49 @@
+The placenta connects the foetus to the uterine wall and is responsible for exchange of oxygen, nutrients and waste products between the foetal and maternal circulation.
+
+At the placenta O2 and CO2 diffuse passively down their concentration gradients. 
+
+gas diffusion is governed as elsewhere by Fick’s law:
+
+Q= AkΔP/T
+
+A = diffusion area
+
+k= solubility / (square of MW)
+
+ΔP= concentration gradient 
+
+T= diffusion membrane thickness 
+
+Placenta is much less efficient in gas exchange then lungs due to:
+
+- ↓Surface area 14m2 compared with 70m2 in lungs
+- ↑diffusion membrane thickness 3.5micrometer compared to 0.5micrometer in lungs
+
+Normal values that establish the diffusion concentration gradient are:
+
+             **Maternal**   **Foetal Umbilical Artery **   **Foetal Umbilical Vein **
+  ---------- -------------- ------------------------------ ----------------------------
+  **PO2**    \~80mmHg       \~19mmHg                       \~28mmHg
+  **PCO2**   \~40mmHg       \~55mmHg                       \~40mmHg
+
+**Bohr Effect**
+
+The Bohr effect describes how an increase in PaCO2/H+ shifts the oxygen haemoglobin curve to the right and ↓Hb affinity for oxygen → ↑ offloading of oxygen.
+
+**Double Bohr Effect**
+
+In placental exchange CO2 from the foetus diffuses across the placenta increasing offloading of maternal oxygen while on the foetal side the relative  ↓ PCO2 → ↑ HbF affinity for O2
+
+The effect of this is to help drive oxygen diffusion across from maternal → foetus.
+
+** Haldane Effect** 
+
+The haldane effect describes how as maternal PaO2 levels decrease, haemoglobin’s capacity for CO2 carriage increases. 
+
+**Double Haldane Effect**
+
+The double haldane effect describes the additional process in the foetus where ↑ HbFO2  levels → ↓HbF Capacity for CO2 
+
+The effect of this is to drive CO2 exchange from foetal → maternal 
+
+The overall combination of these effects is the increase in separation of the maternal and foetal disassociation curves whereby the maternal Hb is right shifted (promoting dissociation) and the Foetal Hb is left shifted (promoting oxygen binding)

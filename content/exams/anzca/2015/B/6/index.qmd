@@ -1,0 +1,95 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015B Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the sites of action of antiemetic agents used for post operative nausea and vomiting.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the vomiting pathways, locating receptors and drug classes along the afferent pathways and central integration sites. Pair each class with examples and explain its relevant central or peripheral action.
+
+::: {.structure-headings}
+### Vomiting Reflex and Inputs
+
+### Gastrointestinal and Vestibular Sites
+
+### Chemoreceptor Trigger Zone and Central Integration
+
+### Receptors and Drug Classes
+
+### Other Antiemetic Agents
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**47.1%** of candidates achieved a pass in this question
+
+Main points expected for a pass:
+
+- A description or diagram of the physiological pathways involved in the vomiting reflex. An example can be seen in one of the prescribed textbooks - Rang and Dale’s Pharmacology / H P Rang, et al - 8th ed, chapter 30.
+- An outline of the different receptors involved and an explanation of where they are located in the gastrointestinal tract, vestibular system, nucleus tractus solitarius, chemoreceptor trigger zone, and the vomiting centre.
+- A description of the different classes of antiemetics (with examples) and an explanation of where and how they act within the CNS/periphery.
+
+Additional points that attracted higher marks:
+
+- Extra marks were given to candidates who discussed the antiemetic effects of propofol, steroids (particularly dexamethasone), benzodiazepines, neurokinin-1 receptor antagonists, and cannabinoids. Although the mechanisms of action of propofol and dexamethasone are not fully described, credit was given if the candidate mentioned a postulated mechanism.
+- An appreciation that some antiemetics work at several sites, and have effects on more than one receptor (e.g. metaclopramide, chlorpromazine).
+
+Common mistakes:
+
+- Many candidates spent time describing the incidence and risk factors of PONV, which did not attract any marks.
+- Poor descriptions/diagrams of the vomiting reflex. Confusion about which receptors (and subtypes) are involved and their locations.
+- A simple list of antiemetics scored some marks but was not enough to secure a pass-mark.
+- Spelling errors and use of drug trade-names instead of generic terms.
+- The use of vague and imprecise statements without providing further detail or discussion. E.g. “metoclopramide acts centrally and peripherally”.
+- Missing out several classes of antiemetics.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2015/B/6/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Antiemetics](/content/pharmacopoeia/git/antiemetics.qmd)
+- [Vomiting](/content/git/vomiting.qmd)

@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015A Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**What are**]{.task-verb} the physiological consequences of decreasing functional residual capacity by one litre in an adult?
+:::
+
+Also asked in: [2001A Question 8](/content/exams/anzca/2001/A/8/index.qmd#examiner-comments), [2004A Question 12](/content/exams/anzca/2004/A/12/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+Explain [**what**]{.task-verb} the consequences are by linking a one-litre reduction to the starting lung volume. Relate the new volume to closing capacity, oxygen stores, compliance, airway resistance and pulmonary vascular resistance, using labelled graphs where helpful.
+
+::: {.structure-headings}
+### Starting Volume and Significance of One Litre
+
+### Oxygen Reservoir and Desaturation
+
+### Closing Capacity, Shunt and Gas Exchange
+
+### Compliance and Work of Breathing
+
+### Airway and Pulmonary Vascular Resistance
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**43.3%** of candidates achieved a pass in this question
+
+To achieve a pass, candidates were required to define FRC, and explain the majority of following points in terms of a reduced FRC – oxygen store, lung compliance, airway resistance, work of breathing, pulmonary vascular resistance, FRC falling below closing capacity, low V/Q with increased physiological shunt and hypoxaemia. Appropriately labelled diagrams which were relevant to the points being described, attracted higher marks.
+
+When considering the consequences of decreasing FRC by 1 litre, it is essential to consider its initial volume. Normally, a 70 kg adult has an FRC of 3 L when standing, and this decreases to 2.2 L when supine (a decrease of 800 mL, usually tolerated very well). See Nunn 7 th ed, Fig 3.10, p.38. However, a decrease by 1 L from an already low FRC (e.g. a supine patient, or with pathology such as obesity), can have significant adverse consequences. Only two candidates considered these points in their answer.
+
+Candidates should note that listing the normal functions of FRC, followed by a description of a reduced FRC wasted time and resulted in the same information being written out twice with no extra marks. Vague terms like “V/Q mismatch” or “compromised breathing” gained no marks. Many candidates confused dead space with shunt. Others were confused about gas trapping (this is not the cause of atelectasis as FRC falls below closing capacity). Many candidates wrote at length about the role of FRC in preoxygenation, at the expense of gaining marks with other, equally important points. Treatment strategies aimed at increasing FRC were not relevant to the question.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2001/A/8/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2001/A/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Lung volumes and capacities](/content/resp/volumes_capacities.qmd)
+- [Compliance](/content/resp/compliance.qmd)
+- [Airway resistance](/content/resp/resistance.qmd)

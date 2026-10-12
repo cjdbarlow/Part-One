@@ -1,0 +1,96 @@
+#### List:
+
+- Definitions
+- Examples
+
+#### Definitions:
+
++--------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Isomerism**            | - Same chemical formula, different arrangement of atoms                                                                                         |
++--------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Structural isomerism** | - Same chemical formula, different bond structure                                                                                               |
++--------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| - Tautomerism            | - Change in bond structure is dependent upon physical environment                                                                               |
++--------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Stereoisomerism**      | - Same chemical formula, same bond structure, different 3D orientation                                                                          |
++--------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| - Geometric type         | - Different pairs of chemical groups are attached to C=C or a ring structure                                                                    |
+|                          | - Cis = groups on same side, trans = groups on opposite side                                                                                    |
+|                          | - Results in multiple conformations that may or may not be superimposable                                                                       |
++--------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| - Optical type           | *Description:*                                                                                                                                  |
+|                          |                                                                                                                                                 |
+|                          | - Four different groups attached to a chiral centre, usually a C or quaternary N group                                                          |
+|                          | - Four groups point to the vertices of a tetrahedron                                                                                            |
+|                          | - Results in two mirror image conformations                                                                                                     |
+|                          |                                                                                                                                                 |
+|                          | *Nomenclature:*                                                                                                                                 |
+|                          |                                                                                                                                                 |
+|                          | - Laevo/dextro: molecule rotates plane polarized light left/right (hence ‘optical’)                                                             |
+|                          | - Rectus/sinister: smallest group ‘behind the page’, three largest groups of the molecule arranged in descending order clockwise/anticlockwise\ |
+|                          |   (aide-memoire: imagine right/left handed screwdriver for rectus/sinister respectively)                                                        |
++--------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Stereoisomers**        |                                                                                                                                                 |
++--------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| - Enantiomers            | - Two molecules that are *mirror-image* stereoisomers;\                                                                                         |
+|                          |   they are not superimposable                                                                                                                   |
+|                          | - These can have any number of stereocentres (chiral or geometric)\                                                                             |
+|                          |   (but classically just one optical sterocentre)                                                                                                |
++--------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| - Diastereoisomers       | - Two or more molecules that are *non-mirror image* stereoisomers;\                                                                             |
+|                          |   they may be superimposable                                                                                                                    |
+|                          | - These have multiple stereocentres (chiral or geometric)                                                                                       |
++--------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Structural isomerism examples:
+
++-------------------+-------------------------------------------------------------------+
+| Different effects | - Dihydrocodeine (opioid)                                         |
+|                   | - Dobutamine (catecholamine)                                      |
++-------------------+-------------------------------------------------------------------+
+| Similar effects   | - Isoflurane (anaesthetic – MAC 1.2%, 0.2% metabolised, irritant) |
+|                   | - Enflurane (anaesthetic – MAC 1.7%, 2% metabolised, sweet smell) |
++-------------------+-------------------------------------------------------------------+
+
+#### Tautomerism examples:
+
++-------------+--------------------------------------------------------------------------------+
+| Midazolam   | - Ampoule: pH\<4 → open ring, water soluble, no carrier needed                 |
+|             | - Blood: pH \>4 → closed ring lipid soluble, crosses blood-brain barrier (BBB) |
++-------------+--------------------------------------------------------------------------------+
+| Thiopentone | - Ampoule: ↑pH (11)→ water soluble enol                                        |
+|             | - Blood: ↓pH 7.4 → lipid soluble keto → crosses BBB                            |
++-------------+--------------------------------------------------------------------------------+
+
+#### Stereoisomerism examples:
+
++--------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
+| Geometric          | *e.g. mivacurium*                                                                                                                          |
+|                    |                                                                                                                                            |
+|                    | - Cis-cis 6% (10% potency of others, non-enzymatic metabolism, t~1/2~ 10x others)                                                          |
+|                    | - Cis-trans 36%                                                                                                                            |
+|                    | - Trans-trans 58%                                                                                                                          |
++--------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
+| Optical            | *Laevo/dextro:*                                                                                                                            |
+|                    |                                                                                                                                            |
+|                    | - e.g. D-glucose metabolized, L-glucose not (i.e. dextrose)                                                                                |
+|                    | - e.g. L-bupivacaine ↑potent, ↓toxic (available enantiopure)                                                                               |
+|                    | - e.g. +tramadol mu agonist, 5-HT reuptake inhibition; -tramadol NAd reuptake inhibition                                                   |
+|                    | - e.g. L-methadone opioid agonist, D-methadone NMDA antagonist                                                                             |
+|                    |                                                                                                                                            |
+|                    | *Rectus/sinister:*                                                                                                                         |
+|                    |                                                                                                                                            |
+|                    | - e.g. S-ketamine ↑potency, ↓hallucinogen, ↓CVS toxicity; (available enantiopure)                                                          |
+|                    | - e.g. R-etomidate 10x ↑potent (only available enantiopure)                                                                                |
++--------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
+| Diastereoisomerism | *e.g. atracurium*                                                                                                                          |
+|                    |                                                                                                                                            |
+|                    | - Exhibits both geometric and optical stereoisomerism *within* the molecule\                                                               |
+|                    |   (however no mirror images *between* molecules, i.e. it does not have enantiomers)                                                        |
+|                    | - 4 chiral centres; n^2^ = 16 conformations; but only 10 are unique                                                                        |
+|                    | - Geometric isomer groups designated cis-cis, cis-trans and trans-trans according to configuration about the tetrahydroisoquinolinium ring |
+|                    | - Cisatracurium = 1R-cis,1R’-cis-atracurium                                                                                                |
+|                    |   - ↑Potency (15% of the molecules, 50% of the activity)                                                                                   |
+|                    |   - ↑Hoffman elimination, ↓ester hydrolysis                                                                                                |
+|                    |   - ↓Histamine release                                                                                                                     |
++--------------------+--------------------------------------------------------------------------------------------------------------------------------------------+

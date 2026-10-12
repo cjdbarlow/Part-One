@@ -1,0 +1,49 @@
+Xenon (Xe) is a noble gas present in trace quantities in the atmosphere 
+
+Manufactured by fractional distillation of air
+
+MAC 71%
+
+**Advantages**
+
+**Physiochemical**: 
+
+Inert, comparable with sodalite and circuit materials 
+
+Odorless
+
+Non-flammable and does not support combustion
+
+No environmental hazards
+
+Non-irritant to airway 
+
+**Pharmacokinetic**
+
+Low blood:Gas Coefficient (0.14) → rapid washing and washout
+
+Not metabolised 
+
+Excreted by lungs without significant diffusion hypoxia  
+
+**Pharmacodynamic** 
+
+CNS: Hypnosis with Analgesic properties
+
+CVS: Nil inotropic changes, small decreases in HR, minimal effects on MAP 
+
+MSK: Muscle relaxation when \>60%. Does not trigger MH.
+
+**disadvantages**
+
+**Physiochemical**: 
+
+↑Viscosity and density → potential of ↑ airway resistance
+
+Expensive 
+
+Specialised equipment to deliver and monitor concentrations
+
+**Pharmacokinetic**
+
+High MAC of 71% → reduced FiO2 that may be administered

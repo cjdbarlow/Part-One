@@ -1,0 +1,60 @@
+#### List:
+
+- Intro: types of interaction and clinical uses
+- Nicotinic effects
+- Muscarinic effects
+
+#### Intro:
+
++-----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Dynamic effects | 1.  Reversible hydrostatic attraction: edrophonium                                                                                                                                                      |
+|                 | 2.  Reversible carbamylate complex: -stigmine                                                                                                                                                           |
+|                 | 3.  Irreversible covalent bond: organophosphates                                                                                                                                                        |
+|                 |                                                                                                                                                                                                         |
+|                 | ![](/content/exams/anzca/2010/B/5/prize-image001.jpg){fig-alt="Anticholinesterase interactions with anionic and esteratic sites through reversible binding, carbamylation and organophosphate binding"} |
++-----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Clinical use    | - Reverse non-depolarising relaxant e.g. atracurium                                                                                                                                                     |
+|                 | - Treat central anticholinergic syndrome (not quaternary amines)                                                                                                                                        |
+|                 | - Myasthaenia gravis                                                                                                                                                                                    |
+|                 | - Bladder atonia                                                                                                                                                                                        |
+|                 | - Pseudo-obstruction                                                                                                                                                                                    |
+|                 | - Glaucoma                                                                                                                                                                                              |
++-----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Nicotinic effects:
+
++---------------+------------------------------------------------------------------------------------------------------------------+
+| Muscle type   | - ↑\[ACh\] → ↑Na^+^ influx \> K^+^ efflux = Ca^2+^ influx → end-plate potential ± action potential → contraction |
+|               | - Displace and reverse non-depolarising relaxant                                                                 |
+|               |   - Starting TOF count 3-4: adequate reversal                                                                    |
+|               |   - Starting TOF count 1-2: inadequate                                                                           |
+|               | - Augment and prolong depolarizing relaxant (↑ACh at NMJ, also inhibits PChE!)                                   |
+|               | - Weakness if high dose (ceiling 0.07mg/kg)                                                                      |
++---------------+------------------------------------------------------------------------------------------------------------------+
+| Neuronal type | - Autonomic ganglia (α~3~β~4~): stimulation then depression (see BJA-Ed)                                         |
+|               | - Brain (α~4~β~2~): nil (quaternary amine, doesn’t cross BBB)                                                    |
++---------------+------------------------------------------------------------------------------------------------------------------+
+
+#### Muscarinic effects:
+
++----------------------+------------------------------------------------------------------------------------------+
+| PSNS post-ganglionic | - Receptor effects:                                                                      |
+|                      |   - M~1,3,5~: G~q~ GPCR (↑IP~3~/↑Ca^2+^, ↑DAG)                                           |
+|                      |   - M~2,4~: Gi GPCR (↓cAMP)                                                              |
+|                      | - Physiological effects:                                                                 |
+|                      |   - Bradycardia, AV block, ↓cardiac output (cardiac plexus M~2~).                        |
+|                      |   - Constriction of airway smooth muscle → obstruction (airway smooth muscle M~3~)       |
+|                      |   - ↑Tracheobronchial secretion → cough, aspiration (M~3~)                               |
+|                      |   - ↑Salivation (M~3~)                                                                   |
+|                      |   - ↑Lacrimation (M~3~)                                                                  |
+|                      |   - ↑Ureteric peristalsis → urination (treats bladder atony)                             |
+|                      |   - ↑GIT peristalsis → defecation, nausea/vomiting, abdo pain; treats pseudo-obstruction |
+|                      | - CNS effects (non-quaternary amines)                                                    |
+|                      |   - Treat anticholinergic toxicity                                                       |
+|                      |   - Cause cholinergic toxicity (confusion, headache, seizure)                            |
+|                      |   - Constriction of pupillary sphincter → miosis (treats glaucoma) (M3)                  |
++----------------------+------------------------------------------------------------------------------------------+
+| SNS post-ganglionic  | - ↑Sweating                                                                              |
+|                      | - ↑Skin vasodilatation                                                                   |
+|                      | - ↑Skeletal muscle vasodilatation                                                        |
++----------------------+------------------------------------------------------------------------------------------+

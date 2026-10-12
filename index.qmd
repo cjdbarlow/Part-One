@@ -69,12 +69,14 @@ Part One is built and made pretty with [Quarto](https://quarto.org/).
 
 ### About the Author
 
-Jake Barlow is an Anaesthetic and Intensive Care ~~Registrar~~ ~~Fellow~~ Consultant from Melbourne, Australia. Interested in cardiac critical care, as well as biotech, physical computing, teaching, data analytics, and outcome prediction. Send all comments, criticism, and complaints about Part One to him <a href="mailto:jake@jakebarlow.me?Subject=Part%20One" target="_top">here</a>.
+Jake Barlow is an Anaesthetic and Intensive Care ~~Registrar~~ ~~Fellow~~ Consultant from Melbourne, Australia. Send all comments, criticism, and complaints about Part One to him <a href="mailto:jake@jakebarlow.me?Subject=Part%20One" target="_top">here</a>.
 
 
 ### Major Contributors
 
-Stuart Watson is an anaesthetic registrar and Renton Prize winner from St. Vincent's Hospital, Melbourne. He has kindly provided his brilliant primary exam question answers to be included in Part One (the originals can be found on his website [Ketamine Nightmares](https://ketaminenightmares.com/pex/)).
+Stuart Watson is a Renton Prize winner and anaesthetic ~~registrar from St. Vincent's Hospital~~ consultant from Box Hill Hospital, Melbourne. He has kindly provided his brilliant primary exam question answers to be included in Part One (the originals can be found on his website [Ketamine Nightmares](https://ketaminenightmares.com/pex/)).
+
+Kim Maher is a consultant anaesthetist in Perth, Western Australia, whose broad interests did not include the primary exam and whose results did not trouble the Renton Prize committee. A background in mining emergency response, together with fellowships in aeromedical retrieval and obstetric anaesthesia, left him more interested in the practical than the perfect. These are the answers he wrote for his own preparation, shared in the hope they prove useful to others.
 
 ***
 

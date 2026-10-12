@@ -1,0 +1,92 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012A Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the side effects of non-steroidal anti-inflammatory drugs. Briefly [**explain**]{.task-verb} the mechanisms responsible for each of these side effects.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} side effects under **Gastric**, **Renal**, **Platelet**, **Respiratory**, and **Other Effects**. Briefly [**explain**]{.task-verb} the mechanism of each, linking the relevant prostaglandins or thromboxane to the adverse effect.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**32.9%** of candidates passed this question.
+
+Main Points expected for a Pass:
+
+- A list generated that included at least the 3 main categories of side effects – renal, platelet & gastric.
+- each side-effect to have the mechanism specific for the effect, described in some detail, particularly the prostaglandins involved & the implications
+- Gastric side-effects described in terms of inflammation, ulceration, perforation from ulceration & potential for gastric bleeding.
+- mechanism for gastric effects related to inhibition from protective effects of prostaglandins PGI2 & PGE2
+- renal side effects related to reduced renal blood flow and regulation and reduced GFR
+- mechanism for renal effects related to loss of prostacyclin mediated vasodilation
+- Platelet effects described as inhibition of aggregation related to prevention of action of thromboxane A2. Bleeding & bruising to be mentioned.
+- Precipitation of bronchospasm should have been included to achieve a good pass. The mechanism being shunting of PG metabolism to produce higher concentrations of leukotrienes.
+
+Additional Points which attracted higher marks:
+
+- effect on the patency of the ductus arteriosus in neonates
+- COX 2 inhibitors having a pro-thrombotic effect due to ratio of thromboxane to prostacyclin inhibition
+- COX 2 inhibitors effect on myocardial infarction and stroke.
+- worsening of renal side effects in particular patient populations such as hypovolaemia, CCF or liver disease.
+- NSAID effects on uterine tone
+- allergic effects such as Steven-Johnson syndrome
+- Inhibition of bone healing/repair.
+- Reye’s syndrome with aspirin use in children
+- toxic effects of aspirin on acid/base balance
+
+Common Mistakes:
+
+- large amount of irrelevant or non-specific information about PGss in general, particularly pages dedicated to the prostaglandin synthesis pathways
+- no list generated
+- oo specific mechanisms described, with very limited details about the prostaglandins involved, or how their inhibition related to clinical effects.
+- some answers very short & incomplete, but no actual blank books
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [COX Inhibitors](/content/pharmacopoeia/analgesics/cox_inhibitors.qmd)

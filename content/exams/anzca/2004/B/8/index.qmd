@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004B Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the classes of drugs used clinically to treat chronic left ventricular failure. [**Outline**]{.task-verb} their mechanisms of action.
+:::
+
+Also asked in: [2007A Question 8](/content/exams/anzca/2007/A/8/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} drug classes with examples, then [**outline**]{.task-verb} mechanisms that address chronic failure. Link neurohumoral effects, remodelling and loading conditions to benefits rather than merely listing haemodynamic effects.
+
+::: {.structure-headings}
+### Beta Blockers
+
+### Renin–Angiotensin System Drugs
+
+### Diuretics and Aldosterone Antagonists
+
+### Digoxin
+
+### Other Afterload-Reducing Drugs
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**25%** of candidates passed this question.
+
+A good answer included information on ACE inhibitors, beta-blockers, diuretics, digoxin and nitrates. Mention could also be made of calcium channel blockers, orally administered phosphodiesterase inhibitors and new drugs, but preferably with comments about why they are not often used in the treatment of chronic failure. Ideally, mechanisms included the cellular or receptor mechanism of drug action and effects of preload, contractility, afterload and alterations in renal function.
+
+Most candidates omitted one or more of the major drug classes. Many candidates spent a lot of time describing drugs used in the management of acute or acute-on-chronic failure, such as adrenaline, dobutamine, oxygen, calcium, glucagon and phosphodiesterase inhibitors. Some discussed drugs used in the treatment of associated conditions such as hypertension or ischaemic heart disease. Some candidates wrote about drugs that are not used currently in chronic heart failure such as hydrallazine and sodium nitroprusside.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2004/B/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Beta blockers](/content/pharmacopoeia/cvs/beta_blockers.qmd)
+- [ACE inhibitors](/content/pharmacopoeia/cvs/ace_inhibitors.qmd)
+- [Digoxin](/content/pharmacopoeia/cvs/digoxin.qmd)

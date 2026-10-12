@@ -1,0 +1,65 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999A Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the drugs used clinically as anticoagulants and antithrombotics. [**Write short notes**]{.task-verb} on their mechanisms of actions.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} the clinical anticoagulant and antithrombotic drugs by group, then [**write short notes**]{.task-verb} pairing each drug with its mechanism of action. Use headings for **Heparin**, **Coumarin Derivatives**, **Aspirin**, and **Other Antithrombotics**.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The pass rate for this question was **65%**. The majority of the candidates were able to list the required anticoagulants and antithrombotics namely heparin, the coumarin derivatives and aspirin. Many received additional credit for discussing dextran 70, dipyridamole, hirudin, ticlopidine, and abciximab. However many of the answers failed to demonstrate a clear understanding of their mechanisms of action, and were lacking in precise details. Unfortunately most candidates devoted a large part of their answer to discussing thrombolytic therapeutic agents such as tissue plasminogen activator and streptokinase. No credit could be given for such discussion, as this was not asked in the question.
+
+The references for information on this subject are the relevant section of Katzung and Stoelting 2^nd^ edition, p467, 472, 474.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Anticoagulants](/content/pharmacopoeia/haeme/anticoagulants.qmd)
+- [Antiplatelets](/content/pharmacopoeia/haeme/antiplatelets.qmd)

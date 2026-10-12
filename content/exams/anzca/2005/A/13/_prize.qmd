@@ -1,0 +1,80 @@
+#### List:
+
+- Air
+- Blood
+- Homeostasis
+- Drugs
+
+#### Air:
+
++----------------+------------------------------------------------------------------------------------------+
+| Reservoir      | - For gas exchange during expiration, between breaths, during apnoea (e.g.heavy lifting) |
++----------------+------------------------------------------------------------------------------------------+
+| Humidification | - Countercurrent heat and moisture exchange                                              |
+|                | - Purpose                                                                                |
+|                |   - Prevent heat loss                                                                    |
+|                |   - Prevent water loss                                                                   |
+|                |   - Prevent crusting of secretions                                                       |
+|                |   - Maintain mucociliary function                                                        |
+|                |   - Prevent infection                                                                    |
+|                | - Mechanism                                                                              |
+|                |   - Cool dry air inhaled                                                                 |
+|                |     - ↑Temp by conduction, convection                                                    |
+|                |     - Evaporation→ humidification due to ↓ relative humidity                             |
+|                |   - Warm, humidified air exhaled                                                         |
+|                |     - ↓Temp by conduction, convection                                                    |
+|                |     - Condensation→drying due to ↑ relative humidity                                     |
++----------------+------------------------------------------------------------------------------------------+
+| Filtration     | - Particles e.g. dust, pathogens e.g. viruses, bacteria                                  |
+|                | - \>3um: stick to airway → mucociliary escalator → swallowed                             |
+|                | - 1-3um: sediment in alveoli → phagocytosis by macrophage = dust cell                    |
+|                | - \<1um free in air ± deposit anywhere                                                   |
++----------------+------------------------------------------------------------------------------------------+
+| Immune         | - Innate: mucociliary escalator, lysozyme, macrophage                                    |
+|                | - Adaptive: IgA, IgG in alveolar lining fluid                                            |
++----------------+------------------------------------------------------------------------------------------+
+| Phonation      | - Exhalation against variably closed glottis                                             |
++----------------+------------------------------------------------------------------------------------------+
+
+#### Blood:
+
++------------+---------------------------------------------------------------------------------+
+| Pump       | - Inspiration: ↓ intrathoracic pressure → ↑ gradient for systemic venous return |
+|            | - Expiration: venous valves prevent flow reversal                               |
+|            | - Cardiac output higher during spontaneous ventilation than during apnoea       |
++------------+---------------------------------------------------------------------------------+
+| Reservoir  | - 15% blood volume supine (8% arteries, 3% capillaries, 5% veins)               |
+|            | - 9% blood volume erect                                                         |
++------------+---------------------------------------------------------------------------------+
+| Filtration | - Of microemboli to prevent stroke                                              |
++------------+---------------------------------------------------------------------------------+
+
+#### Homeostasis:
+
++-----------+------------------------------------------------------------------------------+
+| Acid-base | - CO~2~ excretion for homeostasis                                            |
+|           |   - 15,000mmol/day by Krebs cycle in mitochondria during aerobic respiration |
+|           |   - Alveolar ventilation is coupled to metabolic rate via control of PaCO~2~ |
+|           | - CO~2~ excretion for compensation during metabolic acidosis                 |
+|           |   - CO~2~ + H~2~O \<-\> H^+^ + HCO~3~^-^                                     |
+|           |   - ↑Alveolar ventilation → left shift → ↑pH                                 |
++-----------+------------------------------------------------------------------------------+
+| Fluid     | - Endothelial angiotensin-converting enzyme: AT1 (inactive) → AT2 (active)   |
+|           | - AT2: Na^+^/H~2~O reabsorption, vasoconstriction                            |
++-----------+------------------------------------------------------------------------------+
+| Metabolic | - Inactivate serotonin near 100%, bradykinin 80%, noradrenaline 30%          |
+|           | - Inactivate PGE~2~, PGF~2~~α~, leukotrienes                                 |
++-----------+------------------------------------------------------------------------------+
+
+#### Drugs:
+
++------------+------------------------------------------------+
+| Route      | - Local: e.g. salbutamol                       |
+|            | - Systemic: e.g. naloxone                      |
++------------+------------------------------------------------+
+| Reservoir  | - e.g. first pass uptake of fentanyl up to 75% |
++------------+------------------------------------------------+
+| Metabolism | - e.g. ? propofol and CYP450                   |
++------------+------------------------------------------------+
+| Excretion  | - e.g. sevoflurane                             |
++------------+------------------------------------------------+

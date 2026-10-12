@@ -1,0 +1,63 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003A Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the onset and offset of neuromuscular block at the diaphragm, larynx and adductor pollicis after administration of 2.5 x ED95 dose of vecuronium. [**Comment**]{.task-verb} on the differences observed. [**What are**]{.task-verb} the clinical implications of these differences?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Onset** and **Recovery** for the diaphragm, larynx and adductor pollicis after defining ED95. Comment on the differences through **Blood Flow and Sensitivity**, then address **Clinical Implications for Intubation and Monitoring**.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The pass rate for this question was **50%**. In this question the candidate was expected to address the issues of the kinetics of onset and offset of neuromuscular block (NMB) and the known different levels of sensitivity of the muscles mentioned. It was important to mention that although the diaphragm (D) and larynx (Lx) are relatively resistant to competitive NMB with respect to the adductor pollicis (AP), the major determinant of onset under these circumstances is blood flow. Thus onset is more rapid in the Lx and D and slowest in the AP. Candidates needed to define ED95 and that the ED95 referred to is that for the AP. At the time of AP twitch disappearance both the D and Lx may have been maximally blocked and may be beginning to recover. Thus it is also critical to mention that the order of recovery is D, Lx and then AP. Clinical implications that should have been discussed included onset of block and intubating conditions, offset of block and adequacy of recovery and monitoring of block at AP, orbicularis oculi and prediction of block at AP, Lx and D. Useful diagrams (as are found in both Miller and Stoelting) to explain these phenomena were used by some candidates to their advantage.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Non-Depolarising Neuromuscular Blockers](/content/pharmacopoeia/msk/non_depolarising_nmbs.qmd)
+- [Neuromuscular Monitoring](/content/equipment/neuromuscular_monitoring.qmd)

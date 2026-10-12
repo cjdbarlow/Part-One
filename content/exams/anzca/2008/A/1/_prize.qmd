@@ -1,0 +1,79 @@
+#### List:
+
+- Intro
+- PD: age and illness
+- Effect of adjuvant opioid
+- Volatile kinetics: age and illness
+- Anaesthetic and surgical factors
+- The answer
+
+#### Intro:
+
++-----------------------------------+--------------------------------------------------------------------------------------------+
+| Aims                              | - Ensure amnesia, hypnosis, immobility                                                     |
+|                                   | - Prevent awareness (lower risk)                                                           |
+|                                   | - Minimise CVS toxicity (higher risk)                                                      |
++-----------------------------------+--------------------------------------------------------------------------------------------+
+| Problems                          | - Elderly                                                                                  |
+|                                   | - Acutely unwell                                                                           |
+|                                   | - Major surgery                                                                            |
++-----------------------------------+--------------------------------------------------------------------------------------------+
+| Maintenance inhaled concentration | - After 15 mins, close to equilibration between inhaled, alveolar exhaled partial pressure |
+|                                   | - Hence consider equivalent to MAC                                                         |
++-----------------------------------+--------------------------------------------------------------------------------------------+
+
+#### Pharmacodynamics: age and illness
+
++---------------------------------+------------------------------------------------------------------------------+
+| Values                          | - MAC-amnesia 0.25                                                           |
+|                                 | - MAC-awake 0.33                                                             |
+|                                 | - MAC (immobility) 1.0                                                       |
++---------------------------------+------------------------------------------------------------------------------+
+| Factors reducing all MAC values | - Age: note quite linear ↓6% per decade after 40yrs (at 80: 1.4%)            |
+|                                 | - Severe illness: mAP\<40mmHg, PaO~2~ \<40mmHg, PaCO~2~ \>80mmHg, ↓pH, ↓temp |
+|                                 | - Adjuvant drugs: opioids, benzodiazepines                                   |
++---------------------------------+------------------------------------------------------------------------------+
+
+#### Effect of adjuvant opioid:
+
+                       **Sevo alone**   **Sevo + fentanyl 3ng/mL**
+  -------------------- ---------------- ----------------------------
+  MACBAR               4.15%            ↓80%
+  MAC                  1.85%            ↓60%
+  MACawake (0.3)       0.6%             ↓25%
+  Standard deviation   0.1              \<0.1
+
+#### Volatile pharmacokinetics kinetics: age and illness
+
++--------------+------------------------------------------------------------------------------+
+| Absorption   | - ↓Cardiac output → ↑rate of rise F~A~/F~I~                                  |
++--------------+------------------------------------------------------------------------------+
+| Distribution | - ↓Cardiac output (↑age) → ↑rate of rise F~A~/F~I~                           |
+|              | - ↓Muscle mass ↑rate of rise F~A~/F~I~                                       |
++--------------+------------------------------------------------------------------------------+
+| Metabolism   | - ↓Liver enzymatic activity → ↓rate of consumption → ↑rate of rise F~A~/F~I~ |
++--------------+------------------------------------------------------------------------------+
+| Excretion    | - N/A                                                                        |
++--------------+------------------------------------------------------------------------------+
+
+#### Anaesthetic and surgical factors:
+
++------------------------------+---------------------------------------------------------------------------+
+| e.g. fractured NOF           | - Spinal anaesthetic→ ↓nociceptive activation of ARAS → ↓↓MAC requirement |
++------------------------------+---------------------------------------------------------------------------+
+| e.g. laparotomy, thoracotomy | - ↑↑Stimulation → ↑MAC requirement                                        |
++------------------------------+---------------------------------------------------------------------------+
+
+#### Answer:
+
++----------------+-------------------------------------------------------------+
+| Considerations | - Very low risk of awareness at 0.8 MAC = 1.1%              |
+|                | - Significant reduction in MAC with age, illness, adjuvants |
+|                | - Likely rapid ↑F~A~/F~I~                                   |
+|                | - However need to account for ΔFA/FI                        |
++----------------+-------------------------------------------------------------+
+| Final answer   | - Inspired concentration 1.5%                               |
+|                | - Recommend EEG monitoring e.g. BIS, aim 40-60              |
+|                |                                                             |
+|                | (I don’t know if this is the correct answer)                |
++----------------+-------------------------------------------------------------+

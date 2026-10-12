@@ -1,0 +1,58 @@
+Midazolam is a water soluble imidazobenzodiazepine.
+
+It’s used for: Anxiolysis, sedation, induction agent, and anti-epileptic.
+
+Physiochemical:
+
+Clear colourless solution
+
+Bitter taste 
+
+1 or 2 mg/ml
+
+Weak base with pKa 6.5 → 90% unionised at pH 7.4 
+
+HCl added to solution to present as pH 3.5 to increase its water solubility 
+
+Midazolam exhibits tautomerism, pH dependant ring opening
+
+- pH\<4 → open ring → less lipophilic 
+- pH \>4 → closed ring → more lipophilic  
+
+Mode of action:
+
+Positive allosteric modulator, acts at the benzodiazepine receptor site on GABA-A receptor located at junction of alpha and gamma subunit. Potentiates effect of GABA → ↑ Cl conductance at central ion channel → hyperpolarisation. 
+
+Pharmacokinetics:
+
+**Absorption**: PO bioavailability 50%   
+
+**Distribution**: 
+
+Plasma protein binding 98%, 
+
+VD 1.5L/kg 
+
+pKa 6.4 90% unionised at pH 7.4 
+
+high lipid solubility (at physiological pH)
+
+Metabolism: Hepatic metabolism - CYP34A to active and inactive metabolites  
+
+E: Renal Excretion clearance 6-9ml/kg/min, elimination half-life 1.5-3.5hrs
+
+Pharmacodynamics:
+
+CNS:  Hypnosis, sedation, ante grade amnesia, anticonvulsant, ↓CBF ↓MAC 
+
+CVS:
+
+↓SNS out flow →  Dose dependant ↓SVR → ↓MAP
+
+Resp:
+
+↓Vt, ↑RR → minimal change to MV
+
+Blunted response to ↑CO2 ↓O2
+
+MSK: Muscle relaxation at higher doses

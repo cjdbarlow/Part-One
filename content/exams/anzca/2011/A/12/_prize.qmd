@@ -1,0 +1,65 @@
+#### List:
+
+- Skeletal muscle
+- Graphs: potential difference and force of contraction
+- Single twitch vs tetanic contraction (note most marks here)
+
+#### Skeletal muscle:
+
++----------------------------+------------------------------------------------------------------------------------------------------------------------+
+| Sarcomere                  | ![](/content/exams/anzca/2011/A/12/prize-image001.jpg){fig-alt="Sarcomere with actin, myosin and A, I, H and M bands"} |
++----------------------------+------------------------------------------------------------------------------------------------------------------------+
+| Excitation and contraction | - Action potential at motor nerve terminal                                                                             |
+|                            | - Depolarisation of post-junctional membrane                                                                           |
+|                            | - Activation of L-Ca^2+^ channels                                                                                      |
+|                            | - Ca^2+^ influx                                                                                                        |
+|                            | - Ca^2+^ triggered Ca^2+^ release from sarcoplasmic reticular L-Ca^2+^ channel                                         |
+|                            | - Ca^2+^ binds troponin C                                                                                              |
+|                            | - Troponin removes tropomyosin from actin                                                                              |
+|                            | - Actin-myosin cross-bridge cycling occur                                                                              |
++----------------------------+------------------------------------------------------------------------------------------------------------------------+
+
+#### Graphs:
+
++------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Potential difference vs time | ![](/content/exams/anzca/2011/A/12/prize-image002.jpg){fig-alt="Muscle membrane action potential and contraction force against time"} |
+|                              |                                                                                                                                       |
+|                              | Note short refractory period (\~3msec) cf. cardiac muscle (\~250msec)                                                                 |
++------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Force vs time                | ![](/content/exams/anzca/2011/A/12/prize-image003.jpg){fig-alt="Tension against time comparing single twitch and tetanus"}            |
++------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Single twitch vs tetanic contraction:
+
++---------------------------------------------+--------------------------------------+------------------------------------------------------------+
+|                                             | **Single twitch**                    | **Tetanic contraction**                                    |
++=============================================+======================================+============================================================+
+| Definition                                  | - Single contraction then relaxation | Continuous fused contraction                               |
++---------------------------------------------+--------------------------------------+------------------------------------------------------------+
+| Cause of onset                              | - Single nerve action potential      | - Repeated nerve action potential and cross-bridge cycling |
+|                                             |                                      | - Time between APs shorter than time to peak force         |
+|                                             |                                      | - Slow twitch 100ms duration hence \>\>10Hz                |
+|                                             |                                      | - Fast twitch 10ms duration hence \>\>100Hz                |
++---------------------------------------------+--------------------------------------+------------------------------------------------------------+
+| Cause of offset                             | - ACh metabolism and reuptake        | - Cessation of nerve action potential                      |
+|                                             | - Ca^2+^ reuptake and extrusion      | - Then ACh metabolism and uptake                           |
+|                                             |                                      | - Ca^2+^ reuptake and extrusion                            |
++---------------------------------------------+--------------------------------------+------------------------------------------------------------+
+| Duration                                    | - Same each time                     | - Variable.                                                |
+|                                             | - 10-100msec                         | - Until fatigue or voluntary cessation                     |
+|                                             | - (Fast → slow fibre)                |                                                            |
++---------------------------------------------+--------------------------------------+------------------------------------------------------------+
+| Force developed                             | - Same each time                     | - 4x ↑tension possible                                     |
+|                                             | - Less                               |                                                            |
++---------------------------------------------+--------------------------------------+------------------------------------------------------------+
+| Inertia to be overcome                      | - More                               | - Less (only present at the start)                         |
++---------------------------------------------+--------------------------------------+------------------------------------------------------------+
+| Energy consumed overall                     | - Less overall                       | - More overall                                             |
+|                                             | - More per time                      | - Less per time                                            |
++---------------------------------------------+--------------------------------------+------------------------------------------------------------+
+| Effect of depolarizing NMBD                 | - ↓Height                            | - No fade                                                  |
++---------------------------------------------+--------------------------------------+------------------------------------------------------------+
+| Effect of non-depolaring NMBD               | - ↓Height                            | - Fade                                                     |
++---------------------------------------------+--------------------------------------+------------------------------------------------------------+
+| Sensitivity for detecting residual blockade | - Low                                | - Very high                                                |
++---------------------------------------------+--------------------------------------+------------------------------------------------------------+

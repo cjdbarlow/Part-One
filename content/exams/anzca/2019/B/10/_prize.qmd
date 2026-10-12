@@ -1,0 +1,123 @@
+#### List:
+
+- Summary
+- Composition
+- Ionic effects
+- Fluid effects
+- Metabolic effects
+- Cardiovascular effects
+- Neuroendocrine effects
+- Metabolic effects
+
+#### Summary:
+
+- Significant initial plasma expansion, subsequent distribution to ISF \> plasma \> ICF
+- Distribution and excretion may depend upon hydration status
+- Multi-system response restores plasma volume to normal
+- Causes less electrolyte derangement than normal saline
+
+#### Composition of CSL:
+
+                     **Concentration in Hartmann’s (mM)**   **Concentration in plasma (mM)**
+  ------------------ -------------------------------------- ----------------------------------
+  Na^+^              131                                    140
+  Cl^-^              111                                    100
+  HCO~3~^-^          29 (as lactate)                        24
+  K^+^               5                                      4
+  Ca^2+^             2                                      2
+  Osmolality         278                                    290
+  Oncotic pressure   0                                      25
+  pH                 5-7                                    7.4
+
+#### Ionic effects:
+
++-----------+------------------+-----------------+-------------------------------------------------+
+|           | **Distribution** | **Effect**      | **Cause**                                       |
++===========+==================+=================+=================================================+
+| Na^+^     | ECF              | Mild ↓\[Na^+^\] | Active membrane transport (Na^+^K^+^ATPase)     |
++-----------+------------------+-----------------+-------------------------------------------------+
+| Cl^-^     | ECF              | Mild ↑Cl^-^     | Preservation of electrical neutrality           |
++-----------+------------------+-----------------+-------------------------------------------------+
+| K^+^      | ICF              | Mild ↓          | ↑Distal nephron flow                            |
+|           |                  |                 |                                                 |
+|           |                  |                 | → ↑Activity ENaC and ROMK                       |
+|           |                  |                 |                                                 |
+|           |                  |                 | → ↑K^+^ excretion                               |
+|           |                  |                 |                                                 |
+|           |                  |                 | Active membrane transport (Na^+^K^+^ATPase)     |
++-----------+------------------+-----------------+-------------------------------------------------+
+| Ca^2+^    | ECF              | ↔               | Active membrane transport (ATPases, exchangers) |
++-----------+------------------+-----------------+-------------------------------------------------+
+| HCO~3~^-^ | ECF=ICF          | ↔               | \-                                              |
++-----------+------------------+-----------------+-------------------------------------------------+
+
+#### Fluid effects:
+
++---------------------------+-----------------------------------------------------------------------------+
+| Immediate distribution    | - Entire 2L into plasma                                                     |
+|                           | - t~1/2~~α~ \~5 minutes – i.e. immediate distribution                       |
++---------------------------+-----------------------------------------------------------------------------+
+| Steady state distribution | - 479mL in plasma (10% ↑ volume)                                            |
+|                           | - 1438mL in ISF (14% ↑ volume)                                              |
+|                           | - 83mL in ICF (minimal %↑ volume)                                           |
++---------------------------+-----------------------------------------------------------------------------+
+| Excretion                 | - Glomerulotubular imbalance                                                |
+|                           |   - ↓Oncotic pressure → ↑GFR + ↓prox tubule reabsorption → ↑urine flow rate |
+|                           | - Pressure diuresis                                                         |
+|                           |   - ↑mAP → ↑urine output (? mechanism)                                      |
+|                           | - Hormonal response                                                         |
+|                           | - ↓ADH                                                                      |
+|                           | - ↓RAAS                                                                     |
+|                           | - ↑ANP                                                                      |
+|                           |                                                                             |
+|                           | (Note excretion of both water and Na^+^ is faster than for normal saline)   |
++---------------------------+-----------------------------------------------------------------------------+
+
+#### Metabolic effects:
+
++-------------+---------------------------------------------------------------------------------+
+| Energy      | - 58mmol lactate → 29mmol glucose = 5g                                          |
+|             | - i.e. minimal nutritive effect                                                 |
++-------------+---------------------------------------------------------------------------------+
+| Acid-base   | - Metabolic alkalosis (wins)                                                    |
+|             |   - 58mmol lactate infused → 58mM H^+^ consumed                                 |
+|             |   - Lactate + H^+^ → CO~2~ + H~2~O                                              |
+|             |   - 58mmol lactate infused → 58mmol H^+^ consumed (≈ 58mmol HCO~3~^-^ produced) |
+|             | - Metabolic acidosis (loses)                                                    |
+|             |   - ↑\[Cl^-^\] → ↓strong ion difference → ↑dissociation of H~2~O → ↑\[H^+^\]    |
++-------------+---------------------------------------------------------------------------------+
+| Temperature | - Effect: ↓core temp and skin temp (? \>1°C)                                    |
+|             | - Response: vasoconstriction, shivering, heat conservation behaviour            |
++-------------+---------------------------------------------------------------------------------+
+| Osmolality  | - ↓2mM → ↓\<1% → no response (ADH sensitivity ∆2%)                              |
++-------------+---------------------------------------------------------------------------------+
+
+#### Cardiovascular effects:
+
++----------------+-----------------------------------------------------------------------------------------------------------+
+| Direct effects | - ↑Blood volume → distension of capacitance vessels → ↑MSFP → ↑venous return → ↑preload → ↑cardiac output |
+|                | - Minimal change in the healthy, euvolaemic subject when infused over 1h                                  |
++----------------+-----------------------------------------------------------------------------------------------------------+
+| Response       | - Low pressure baroreceptors                                                                              |
+|                |   - ↑CVP → ↑stretch → ↑afferents to NTS → ↓SNS output, ↑PSNS output, ↓HR, ↓contractility, vasodilatation  |
+|                | - High pressure baroreceptors                                                                             |
+|                |   - Minimal ↑mAP → minimal effect                                                                         |
++----------------+-----------------------------------------------------------------------------------------------------------+
+
+#### Neuroendocrine effects:
+
++------+-------------------------------------------------------------------------------------------------+
+| RAAS | - ↑mAP → ↑renal baroreceptor stretch → ↓renin release → ↓angiotensin 2                          |
+|      | - Vasodilatation                                                                                |
+|      | - ↓Na^+^/H^+^/H~2~O reabsorption from proximal tubule                                           |
++------+-------------------------------------------------------------------------------------------------+
+| ADH  | - ↑Venoatrial stretch → ↓ADH release (sensitivity \~∆10%)                                       |
+|      | - Vasodilatation                                                                                |
+|      | - AQP2 downregulation → ↓H~2~O reabsorption from collecting ducts                               |
+|      | - Ureaporin downregulation → ↓medullary interstitial osmolality → ↓H~2~O reabsorption           |
++------+-------------------------------------------------------------------------------------------------+
+| ANP  | - ↑CVP → ↑venoatrial stretch → ↑ANP release                                                     |
+|      | - Dilatation of afferent arterioles → ↑GFR, ↑vasa recta flow, washout of medullary interstitium |
+|      | - Inhibit NCC in distal tubule → ↓Na^+^Cl^-^ reabsorption                                       |
+|      | - Inhibit ENaC in collecting ducts → ↓Na+ reabsorption                                          |
++------+-------------------------------------------------------------------------------------------------+

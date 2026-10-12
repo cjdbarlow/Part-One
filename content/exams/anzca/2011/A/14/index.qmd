@@ -1,0 +1,68 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011A Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the physiological effects of general anaesthesia on temperature regulation
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Induction**, **Maintenance**, and **Recovery**. Relate drug dose, agent, age and sex to the thermoregulatory changes and distinguish the interthreshold range from the thermoneutral zone.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question was passed by **44%** of candidates.
+
+In order to pass this question, candidates were expected to discuss temperature regulation with induction, maintenance, and recovery from general anaesthesia. An understanding of dose dependent, agent dependent, and age and sex dependent factors were required. Additional marks were awarded for describing the differences between elderly patients and neonates, for a correct description of the role of non-shivering thermogenesis, and for a description of the additional effects of neuraxial blocks in conjunction with general anaesthesia.
+
+Many candidates were confused by the differences between the interthreshold range and the thermoneutral zone. Very few candidates mentioned temperature regulation during the recovery phase. Graphs were often incorrectly drawn, and the thermoneutral zone was frequently incorrectly defined. Some candidates gave a detailed account of the normal physiology of thermoregulation, rather than answering the question as relevant to anaesthesia.
+
+The main reason for candidates failing this question was insufficient core knowledge.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Body Temperature](/content/metabolic/temperature.qmd)

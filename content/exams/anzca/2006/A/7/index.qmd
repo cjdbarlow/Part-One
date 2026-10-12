@@ -1,0 +1,87 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006A Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly outline**]{.task-verb} the pharmacology of naloxone.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly outline**]{.task-verb} pharmaceutics, kinetics and dynamics, linking high clearance and short duration to clinical use and recurrence of opioid effects. Include important adverse effects.
+
+::: {.structure-headings}
+### Pharmaceutics
+
+### Administration and Pharmacokinetics
+
+### Competitive Opioid Antagonism
+
+### Clinical Applications and Adverse Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**73 %** of candidates passed this question.
+
+The majority of answers were well organized. The main points to include were:
+
+- Pharmaceutics
+- Pharmacokinetics
+  - IV and IM administration
+  - High clearance, short half life
+  - High lipid solubility
+  - Clinical implications
+- Pharmacodynamics
+  - Competitive mu opioid receptor antagonist
+  - Clinical applications
+  - Adverse effects
+
+Common problems included; lack of organization, failure to discuss the important pharmacokinetic properties or the potential serious adverse effects of naloxone.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2006/A/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Naloxone](/content/pharmacopoeia/tox/naloxone.qmd)

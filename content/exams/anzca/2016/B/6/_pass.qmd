@@ -1,0 +1,36 @@
+**Cord Blood Supply**
+
+Spinal cord blood supply is from the paired posterior spinal arteries and single anterior spinal arteries.
+
+Anterior Spinal Artery:
+
+- Single anterior /median artery 
+- Supplied from branches of the vertebral arteries just  before the formation of the basilar artery 
+- Additional supply from the radicular arteries and the artery of Adamkiewicz which provides the majority of supply to the lower 2/3 of the spinal cord 
+- Supplies 75% of blood supply to the spinal cord 
+
+Posterior Spinal Arteries:
+
+- Paired posterior arteries supplied by small radicular arteries at each level.
+
+**Cord Perfusion**
+
+Spinal cord is continuous with the brain with similar determinants to cerebral flow.
+
+Ohms law governs blood supply where flow = driving pressure/resistance
+
+Spinal Cord Blood Flow (SCBF) = (MAP - Spinal cord pressure) / Spinal Vascular resistance
+
+**Spinal cord pressure**: 
+
+Spinal column like the skull is a fixed box with 3 components being neural tissue, blood and CSF. It is likewise governed by the Monroe Kelly doctrine whereby increase in volume of one must be offset by another or a rise in pressure. 
+
+Therefore, any increase in volume of blood e.g. haematoma, space occupying elision with increase pressure and decrease driving pressure.
+
+**Blood flow Regulation**
+
+Blood flows according to Poiseuille law 
+
+![](/content/exams/anzca/2016/B/6/standard-image22.jpeg){fig-alt="Poiseuille relationship showing pressure, radius, viscosity and vessel length"} Where radius has the largest controllable effect as its to the 4th power 
+
+Myogenic auto regulation causes vasodilation/vasoconstriction to maintain a relatively constant blood flow in a range of MAP from around 50mmHg-150mmHg

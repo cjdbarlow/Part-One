@@ -1,0 +1,80 @@
+#### List:
+
+- Nerve physiology
+- Mechanism of action
+- Differential effects
+
+#### Nerve physiology:
+
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Sodium channel   | ![](/content/exams/anzca/2021/B/6/prize-image001.jpg){fig-alt="Voltage-dependent sodium channel with activation and inactivation gates"}                                        |
+|                  |                                                                                                                                                                                 |
+|                  |                 **Activation gate**   **Inactivation gate**                                                                                                                     |
+|                  |   ------------- --------------------- -----------------------                                                                                                                   |
+|                  |   Resting       Closed                Open                                                                                                                                      |
+|                  |   Activated     Open                  Open                                                                                                                                      |
+|                  |   Inactivated   Open                  Closed                                                                                                                                    |
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Action potential | ![](/content/exams/anzca/2021/B/6/prize-image002.jpg){fig-alt="Transmembrane action potential with sodium influx and potassium efflux, and attenuation with local anaesthetic"} |
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Mechanism of action:
+
++---------------------+-----------------------------------------------------------------------------+
+| Target              | - Voltage-dependent Na^+^ channel (VDNaC)                                   |
+|                     | - Less active at VDKC, VDCaC                                                |
++---------------------+-----------------------------------------------------------------------------+
+| Entry               | - Spread across three consecutive nodes of Ranvier (if myelinated)          |
+|                     | - Diffusion across connective tissue and cell membrane\                     |
+|                     |   (N.B. examiner appears to request a discussion of pharmacokinetics)       |
+|                     | - Major: unionised form enters cell → ionised form enters active receptor   |
+|                     | - Minor: ionised form enters active receptor from outside                   |
++---------------------+-----------------------------------------------------------------------------+
+| Binding             | - Rate of binding ∝ time in active state ∝ rate of cycling ∝ nerve activity |
+|                     | - Affinity: inactive \> resting \> activated                                |
++---------------------+-----------------------------------------------------------------------------+
+| Effect              | - Reduced rate of cycling → no action potential → no signal propagation     |
+|                     | - No change to resting potential                                            |
+|                     | - Initial blockade: incomplete, tonic                                       |
+|                     | - Repeated blockade: complete, phasic                                       |
++---------------------+-----------------------------------------------------------------------------+
+| Differential effect | - ↑ Sensitivity if                                                          |
+|                     |   - Unmyelinated                                                            |
+|                     |   - Small                                                                   |
+|                     |   - Active                                                                  |
+|                     | - Hence analgesia (C, Aδ) \> sensory (Aβ) \> motor (Aα)                     |
++---------------------+-----------------------------------------------------------------------------+
+
+#### Appendix: differential effects:
+
++-------------+------------------+---------------+-------------------------------+-----------------+--------------------+
+| **Type**    | **Function**     | **Size (μm)** | **Conduction velocity (m/s)** | **Myelination** | **LA sensitivity** |
++=============+==================+===============+===============================+=================+====================+
+| Aα          | Motor            | 12-20         | 70-120                        | Heavy           | \+                 |
+|             |                  |               |                               |                 |                    |
+|             | Proprioception   |               |                               |                 |                    |
++-------------+------------------+---------------+-------------------------------+-----------------+--------------------+
+| Aβ          | Light touch      | 5-12          | 30-70                         | Heavy           | ++                 |
+|             |                  |               |                               |                 |                    |
+|             | Vibration        |               |                               |                 |                    |
++-------------+------------------+---------------+-------------------------------+-----------------+--------------------+
+| Aγ          | Tone             | 3-6           | 15-30                         | Heavy           | +++                |
+|             |                  |               |                               |                 |                    |
+|             | Spindles         |               |                               |                 |                    |
++-------------+------------------+---------------+-------------------------------+-----------------+--------------------+
+| Aδ          | Sharp pain       | 2-5           | 12-30                         | Heavy           | ++++               |
+|             |                  |               |                               |                 |                    |
+|             | Cold temperature |               |                               |                 |                    |
++-------------+------------------+---------------+-------------------------------+-----------------+--------------------+
+| B           | Pre-ganglionic:  | \<3           | 3-15                          | Light           | ++++++             |
+|             |                  |               |                               |                 |                    |
+|             | SNS and PSNS     |               |                               |                 |                    |
++-------------+------------------+---------------+-------------------------------+-----------------+--------------------+
+| C-polymodal | Dull pain        | 0.4-1.2       | 0.5-2.3                       | None            | +++++              |
+|             |                  |               |                               |                 |                    |
+|             | Warm temperature |               |                               |                 |                    |
++-------------+------------------+---------------+-------------------------------+-----------------+--------------------+
+| C-SNS       | Post-ganglionic: | 0.3-1.3       | 0.7-2.3                       | None            | +++++              |
+|             |                  |               |                               |                 |                    |
+|             | SNS vasomotor    |               |                               |                 |                    |
++-------------+------------------+---------------+-------------------------------+-----------------+--------------------+

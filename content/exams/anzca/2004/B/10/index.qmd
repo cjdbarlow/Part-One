@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004B Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the physiological factors which affect left atrial pressure and [**explain**]{.task-verb} their effects.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} determinants by venous return, ventricular filling and ventricular emptying, then [**explain**]{.task-verb} the direction of pressure change for each. Include heart rate and pulmonary flow where relevant.
+
+::: {.structure-headings}
+### Normal Pressure and Definition
+
+### Venous Return and Pulmonary Flow
+
+### Left Ventricular Filling and Mitral Valve
+
+### Left Ventricular Emptying
+
+### Heart Rate and Rhythm
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**19%** of candidates passed this question.
+
+Candidates were rewarded one mark for each correct factor they listed. The list of factors could be considered in three categories:
+
+- Venous return: influenced by blood volume, posture, venous tone, intrathoracic pressure and intrapericardial pressure
+- Left ventricular emptying: influence by contractility and afterload
+- Left ventricular filling: influenced by the diastolic compliance and mitral valve disease.
+
+Additionally, listing variations in heart rate and obstruction to pulmonary flow were rewarded with additional marks. For the second part of the question, marks were awarded for a statement as to how the left atrial pressure (LAP) would be affected by a change in each of the factors listed by the candidate. Whilst a statement of the range of normal LAP gained further credit, the range of pressures quoted was often incorrect.
+
+Many candidates only listed a few of the factors that affect LAP thus limiting the mark they could expect to achieve. A common misunderstanding was the effect of an increase in intrathoracic pressure on the LAP with many candidates concluding that IPPV will increase the LAP.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2004/B/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Cardiac cycle](/content/cvs/cardiac_cycle.qmd)

@@ -1,0 +1,86 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999A Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the mechanisms that prevent blood clotting in intact blood vessels (do not draw the clotting cascade).
+:::
+
+Also asked in: [2007A Question 10](/content/exams/anzca/2007/A/10/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} how flow, intact endothelium and endogenous inhibitors prevent initiation and propagation. Organise mechanisms around the balance between procoagulant and anticoagulant processes, observing the exclusion of a cascade diagram.
+
+::: {.structure-headings}
+### Flow and Dilution of Activated Factors
+
+### Endothelial Barrier and Surface Properties
+
+### Endogenous Anticoagulant Mechanisms
+
+### Clearance of Activated Factors
+
+### Fibrinolysis Limiting Propagation
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**42%** of candidates passed this question and there were few good answers. Most candidates failed to appreciate that blood clotting (haemostasis) depends on a fine balance between procoagulant and anticoagulant processes. The activation of platelets and coagulation is minimal in intact blood vessels with normal blood flow. Even minor activation of the clotting mechanism results in a rapid escalation of procoagulant processes (positive feedback or amplification). This can result in uncontrolled clotting unless anticoagulant processes are simultaneously activated to limit clot formation.
+
+The mechanisms preventing clot formation can be considered under the following headings:
+
+1. Endothelial surface factors include the smooth endothelial surface and glycocalyx layer, which prevents contact activation of coagulation factors and platelet activation. Thrombomodulin binds thrombin thus slowing the clotting process and the thrombomodulin - thrombin complex activates protein C. PGI 2 inhibits platelet aggregation.
+2. Blood flow dilutes and removes activated clotting factors, which are then inactivated by the RES. Laminar flow causes axial streaming of platelets which minimises endothelial contact and hence activation
+3. Natural anticoagulants are present in concentrations, which exceed that of procoagulants. Heparin combines with antithrombin III increasing its activity up to a thousand fold. Antithrombin III inactivates factors IIa, IXa, Xa, XIa and XIIa. Protein C inactivates factors Va and VIIIa and plasminogen activator inhibitor-1 which stimulates fibrinolysis. α~2~-macroglobulin inhibits thrombin.
+4. Limitation of clot size due to fibrin binding thrombin in the clot and fibrinolysis breaking down formed clot.
+
+Whilst antithrombin III and protein C were mentioned by most, few could correctly describe their activation or mechanism of action. Many answers wrongly stated that the natural anticoagulants inhibited the inactive form of the coagulation factors.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/A/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Unclotting](/content/haeme/unclotting.qmd)
+- [Clotting](/content/haeme/clotting.qmd)

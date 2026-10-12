@@ -1,0 +1,70 @@
+#### List:
+
+- Intro
+- Pathway
+- The big 3
+- Body systems
+
+#### Intro:
+
++--------------------+---------------------------------------------------------------------------------+
+| Definition         | - Lipid mediators derived from arachidonic acid                                 |
+|                    | - Production induced by cyclo-oxygenase                                         |
+|                    |   - COX-1: constitutive, for homeostasis                                        |
+|                    |   - COX-2: inducible, for inflammation etc                                      |
++--------------------+---------------------------------------------------------------------------------+
+| Actions            | - Autocrine and/or paracrine                                                    |
+|                    | - Inhibitory or excitatory                                                      |
+|                    | - Two PGs may have opposing effects at the same tissue                          |
+|                    |   - e.g. TXA~2~ vasoconstrict, PGI~2~ vasodilate                                |
+|                    | - One PG may have different effects on different tissues                        |
+|                    |   - e.g. PGI~2~ vascular smooth muscle dilation, GIT smooth muscle constriction |
++--------------------+---------------------------------------------------------------------------------+
+| Cellular mechanism | - Bind to G protein coupled receptors                                           |
+|                    |   - G~s~ : ↑cAMP                                                                |
+|                    |   - G~i~ : ↓cAMP                                                                |
+|                    |   - G~q~ : ↑IP~3~/DAG → ↑Ca^2+^                                                 |
++--------------------+---------------------------------------------------------------------------------+
+
+#### Pathway:
+
+![](/content/exams/anzca/2011/B/9/prize-image001.jpg){fig-alt="Arachidonic acid pathway forming prostaglandins and thromboxane"}
+
+#### The big 3:
+
++--------------+----------------------------------------------------------------------------------------------------+
+| Inflammation | - WBC → cytokines (TNFα, IL1, IFN) → ↑activity iNOs → ↑NO → ↑activity of COX-2                     |
+|              | - ↑production of PGD~2~, PGE~2~                                                                    |
+|              | - Vasodilation, cap leak, chemotaxis, mast cell degranulation, promotion of T cell differentiation |
++--------------+----------------------------------------------------------------------------------------------------+
+| Pain         | - Causes nociception, hyperalgaesia, allodynia                                                     |
+|              | - Inflamed tissue, WBC → prostaglandin → nociceptor activation and sensitization                   |
+|              | - Sensitised nociceptor → substance P, NKA → inflammation                                          |
+|              | - Note vicious cycle                                                                               |
++--------------+----------------------------------------------------------------------------------------------------+
+| Pyrexia      | - PGE~2~ in hypothalamus → ↑temp set point →fever                                                  |
+|              | - Production induced by cytokines (TNFα, IL-1), other                                              |
++--------------+----------------------------------------------------------------------------------------------------+
+
+#### Body systems:
+
++------------------+----------------------------------------------------------------------------------+
+| Cardiovascular   | - PGI~2~: local vasodilatation                                                   |
+|                  | - TXA~2~: local vasoconstriction                                                 |
+|                  | - Role in HPV unclear                                                            |
++------------------+----------------------------------------------------------------------------------+
+| Respiratory      | - Bronchial smooth muscle: PGD~2~ and PGF~2α~ constriction, PGE~2~ dilation      |
+|                  | - Pulmonary vasculature: role in HPV unclear                                     |
++------------------+----------------------------------------------------------------------------------+
+| Renal            | - Renin-angiotensin: ↓NaCl load to DT → ↑PGE~2~, PGI~2~ release → ↑renin release |
+|                  | - i.e. hormonal autoregulation of GFR                                            |
++------------------+----------------------------------------------------------------------------------+
+| Gastrointestinal | - Activity of mucus neck cells: mucus, HCO~3~^-^ (note COX-1 only)               |
++------------------+----------------------------------------------------------------------------------+
+| Haematological   | - PGI~2~: ↓platelet aggregation                                                  |
+|                  | - TXA~2~: ↑platelet aggregation                                                  |
++------------------+----------------------------------------------------------------------------------+
+| Genitourinary    | - PGE~2~, PGF~2α~: myometrial contraction                                        |
+|                  | - Important in menstruation and in labour                                        |
+|                  | - Receptors always present cf. oxytocin                                          |
++------------------+----------------------------------------------------------------------------------+

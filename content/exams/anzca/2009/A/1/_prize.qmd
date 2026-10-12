@@ -1,0 +1,91 @@
+#### List:
+
+- Definition and utility
+- Variants
+- ↑MAC
+- ↓MAC
+- ↔MAC
+
+#### MAC definition and utility:
+
+“The minimum alveolar concentration of inhaled anaesthetic agent at steady state and at one atmosphere\
+required to prevent purposeful movement in response to a standard surgical stimulus\
+in 50% of rested, fasted, healthy 40 year old adult men.”
+
++----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Short definition** | **Minimum alveolar concentration of inhaled anaesthetic agent required to prevent movement in response to a painful stimulus in half the population.** |
++----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Drug conditions      | - Atmospheric pressure                                                                                                                                 |
+|                      | - Steady state (e.g. 30 mins)                                                                                                                          |
+|                      | - No pre-medication                                                                                                                                    |
++----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Patient conditions   | - 40 year old men                                                                                                                                      |
+|                      | - Healthy                                                                                                                                              |
+|                      | - Fasted                                                                                                                                               |
+|                      | - Rested                                                                                                                                               |
++----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Stimulus criteria    | - 1cm surgical incision of the forearm                                                                                                                 |
++----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Response criteria    | - Movement must be purposeful                                                                                                                          |
++----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| What’s it good for?  | - Measure of anaesthetic depth                                                                                                                         |
+|                      | - Correlates with very high likelihood of hypnosis and amnesia                                                                                         |
+|                      | - Allows comparison of drug potency                                                                                                                    |
++----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Variants:
+
++--------------+---------------------------------------------------------------------------+
+| MAC-BAR\     | - Block adrenergic response (BAR) to surgical stimulus in 50%             |
+| (1.5-2x)     | - Variability: iso 1.3x, des 1.3x, halo 1.45x, sevo 2.2-3.5x              |
++--------------+---------------------------------------------------------------------------+
+| MAC-awake\   | - Prevent eye opening to voice in 50%                                     |
+| (0.33x)      | - Variability: iso 0.34, sevo 0.36, des 0.4, halothane 0.53x, N~2~O 0.64x |
++--------------+---------------------------------------------------------------------------+
+| MAC-amnesia\ | - Prevent recollection of noxious stimulus in 50%                         |
+| (0.25x)      |                                                                           |
++--------------+---------------------------------------------------------------------------+
+
+#### Factors ↓MAC:
+
++-------------------+---------------------------------------------------------------------------------------------------+
+| Physiological     | - Age highest age 6 months; ↓6% per decade after age 20                                           |
+|                   | - Pregnancy: ↓30% (progesterone)                                                                  |
+|                   | - Obesity: inflammatory cytokines                                                                 |
++-------------------+---------------------------------------------------------------------------------------------------+
+| Pathological      | - ↓mAP (\<40mmHg)                                                                                 |
+|                   | - ↓pO~2~ (\<40mmHg)                                                                               |
+|                   | - ↑pCO~2~ (\>60mmHg sedation, \>80mmHg anaesthesia if acute)                                      |
+|                   | - ↓Temp                                                                                           |
+|                   | - ↓pH                                                                                             |
+|                   | - ↓\[Na^+^\]                                                                                      |
++-------------------+---------------------------------------------------------------------------------------------------+
+| Drug interactions | - Acute depressants: propofol, barbiturates, benzodiazepines, opioids, local anaesthetics, Mg^2+^ |
+|                   | - Chronic stimulant: (e.g. amphetamines)                                                          |
++-------------------+---------------------------------------------------------------------------------------------------+
+
+#### Factors ↑MAC:
+
++---------------+------------------------+
+| Physiological | - Age: max at 6 months |
+|               | - Red hair             |
++---------------+------------------------+
+| Pathological  | - ↑Temp (\>38°C)       |
+|               | - ↑\[Na^+^\]           |
++---------------+------------------------+
+| Drugs         | - Acute stimulant      |
+|               | - Chronic depressant   |
++---------------+------------------------+
+
+#### Other:
+
++----------------+------------------------------------------------------------------------+
+| No effect      | - Sex                                                                  |
+|                | - Body weight                                                          |
+|                | - Duration of anaesthetic                                              |
+|                | - Prior exposure to anaesthetic                                        |
+|                | - Physiological variables within normal limits e.g. mAP, pO~2~, pCO~2~ |
++----------------+------------------------------------------------------------------------+
+| Unclear effect | - Thyroid disease                                                      |
+|                | - Race                                                                 |
++----------------+------------------------------------------------------------------------+

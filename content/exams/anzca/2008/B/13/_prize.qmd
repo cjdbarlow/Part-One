@@ -1,0 +1,102 @@
+#### List:
+
+- Intro
+- Heterogeneity
+- Resistance
+- Compliance
+
+#### Intro:
+
++------------------+--------------------------------------------------------------------------------------------------------------------------+
+| Time constant    | - Time taken for completion of an exponential process (e.g. alveolar filling) had the initial rate of change continued   |
++------------------+--------------------------------------------------------------------------------------------------------------------------+
+| Equation         | - Alveolar time constant (τ) = resistance to filling (R) x compliance of alveolus (C)                                    |
++------------------+--------------------------------------------------------------------------------------------------------------------------+
+| Graph            | ![](/content/exams/anzca/2008/B/13/prize-image001.jpg){fig-alt="Percentage completion against number of time constants"} |
+|                  |                                                                                                                          |
+|                  | V~t~ = V~f~ x (1-e^-1/^^τ^)                                                                                              |
++------------------+--------------------------------------------------------------------------------------------------------------------------+
+| Normal values    | - ‘R’ 2cmH~2~O/L/s                                                                                                       |
+|                  | - ‘C’ 100mL/cmH~2~O (0.1L/cmH~2~O)                                                                                       |
+|                  | - ‘τ’ 0.2 seconds (and 95% completion in 0.6 seconds)                                                                    |
++------------------+--------------------------------------------------------------------------------------------------------------------------+
+| Types of alveoli | - Fast: ↓ τ hence ↓R, ↓C                                                                                                 |
+|                  | - Slow: ↑ τ hence ↑R, ↑C                                                                                                 |
++------------------+--------------------------------------------------------------------------------------------------------------------------+
+
+#### Heterogeneity of lung unit filling:
+
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Causes         | - Variation in time constants (e.g. COPD)                                                                                                               |
+|                | - Inspiratory time insufficient for filling of slow lung units (i.e. high RR, high I:E ratio)                                                           |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Effects        | - Fast alveoli well ventilated                                                                                                                          |
+|                | - Slow alveoli relatively hypoventilated; ↓ PAO~2~ and ↑PACO~2~                                                                                         |
+|                | - Contributes to difference between dynamic compliance (lower) and static compliance (higher)                                                           |
+|                | - Pendelluft (distribution of air from fast to slow units at end inspiration and early expiration)                                                      |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Quantification | - Capnography:                                                                                                                                          |
+|                |   - Slope of plateau (phase 3) ∝ heterogeneity                                                                                                          |
+|                |   - Slow units with ↑PACO~2~ empty late                                                                                                                 |
+|                | - Airway pressure:                                                                                                                                      |
+|                |   - Peak to plateau pressure drop ∝ heterogeneity                                                                                                       |
+|                |   - (Pendelluft → ↓ average surface tension → drop in airway pressure)                                                                                  |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Representation | ![](/content/exams/anzca/2008/B/13/prize-image002.jpg){fig-alt="Capnogram showing increased variation in time constants and shortened expiratory time"} |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Resistance:
+
++--------------+----------------------------------------------------------------------+
+| Definition   | - Resistance = pressure drop / flow rate                             |
++--------------+----------------------------------------------------------------------+
+| Normal       | - Adult: 2cmH~2~O/L/s                                                |
+|              | - Neonate at 48 hours: 25cmH~2~O/L/s                                 |
++--------------+----------------------------------------------------------------------+
+| Equations    | - Laminar: R = (8 x length x viscosity)/(π x radius^4^)              |
+|              | - Turbulent: (P~1~-P~2~) ∝ length x density / (radius^5^)            |
++--------------+----------------------------------------------------------------------+
+| Determinants | **Factors ↑resistance:**                                             |
+|              |                                                                      |
+|              | - ↓Airway radius:                                                    |
+|              |   - ↓Absolute lung size (e.g. neonate cf. adult)                     |
+|              |   - ↓Relative lung volume (e.g. diaphragm displacement in pregnancy) |
+|              |   - Intraluminal obstruction (e.g. mucus)                            |
+|              |   - Luminal obstruction (bronchoconstriction, swelling)              |
+|              |   - Extraluminal obstruction (e.g. dynamic airways compression)      |
+|              |   - \*most important factor since raised to power of 4 or 5\*        |
+|              | - ↑Density: e.g. reduced with heliox                                 |
+|              | - ↑Viscosity: e.g. ↑ with ↑temp                                      |
+|              | - ↑Length: not under control                                         |
++--------------+----------------------------------------------------------------------+
+
+#### Lung compliance (LC):
+
++--------------+-------------------------------------------------------------------------+
+| Definition   | - ∆volume/∆transpulmonary pressure                                      |
++--------------+-------------------------------------------------------------------------+
+| Normal       | - Adult 200mL/cmH~2~O                                                   |
+|              | - Neonate 1.5-6mL/cmH~2~O                                               |
++--------------+-------------------------------------------------------------------------+
+| Determinants | - Intrinsic elasticity:                                                 |
+|              |   - Elderly/smoking → emphysema→ ↑LC                                    |
+|              |   - Fibrosis → ↓LC                                                      |
+|              |   - Pulmonary oedema → ↓LC                                              |
+|              | - Surfactant:                                                           |
+|              |   - Deficiency → ↓LC (prematurity, SP-B or SP-C deficiency)             |
+|              | - Absolute lung size:                                                   |
+|              |   - ↑Alveolar number, ↑alveolar size (↑radius → ↓pressure – LaPlace)    |
+|              |   - Adult LC: 100mL/cmH~2~O \> Neonate LC: 1.5-6mL/cmH~2~O              |
+|              |   - N.B. compliance constant when indexed to size (i.e. compliance/FRC) |
+|              | - Relative lung volume                                                  |
+|              |   - High: surfactant spread out → ↑ST → ↓ LC                            |
+|              |   - Low: ↓ radius → ↑ST, alveolar collapse → ↓LC                        |
+|              |   - Max compliance at FRC                                               |
+|              |   - (note lung volumes reduced in pregnancy, obesity, supine position)  |
+|              | - Gravity:                                                              |
+|              |   - Basal compression → ↓alveolar volume at FRC → ↑basal LC             |
+|              |   - Apical traction → ↑alveolar volume at FRC → ↓apical LC              |
+|              | - Pulmonary blood volume                                                |
+|              |   - Congestion → ↓ LC                                                   |
+|              |   - (e.g. heart failure, supine posture)                                |
++--------------+-------------------------------------------------------------------------+

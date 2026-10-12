@@ -1,0 +1,49 @@
+Chronic kidney disease (CKD) includes a spectrum of renal impairment form mild to severe measured by glomerular filtration rate (GFR).
+
+CKD is usually considered ‘end’ stage when eGFR \<15ml/min or the patient is dialysis dependant. 
+
+**Pharmacokinetic implications of CKD**
+
+**Absorption**: 
+
+CKD commonly casques increased total body water → peripheral oedema. This can have implications on the rate of diffusion for drugs administered subcutaneously or with topical patches  including insulin, topical analgesia (buprenorphine/fentanyl). 
+
+Absorption by also be impaired for oral medications due to GIT oedema  and impaired gastric emptying and gut motility 
+
+**Distribution**:
+
+Volume of distribution may be increased or decreased by alterations in body composition. Total Body Water is often increased, plasma protein levels and therefore binding are often decreased and there is competition for protein binding with uraemia toxins. muscle/lean body mass wasting can also occur. 
+
+Particularly patients undergoing dialysis can have rapid changes in TBW depending on time since dialysis which can have implications on dosing of drugs such as remifentanil which has a small volume of distribution and is highly protein bound.
+
+**Metabolism**:
+
+The kidneys contribute up to 18% of total cytochrome P450 (CYP) activated drug metabolism and are also involved in conjugation reactions . Renal impairment is associated with impaired CYP 450 hepatic metabolism through an unclear mechanism and can impair hepatic metabolism. 
+
+**Elimination**: 
+
+Renal elimination of drugs includes elimination of drugs unchanged, inactive as well as active metabolites. 
+
+Reduced GFR would result in the reduced clearance and elimination of drugs and active metabolites resulting in accumulation and 
+
+Specific drug Implications:
+
+**IV Anaesthetic Agents**
+
+- Propofol is dependant of hepatic blood flow and metabolism and so PK is unaffected by CKD.
+- Thiopental has an increased Vd and reduced plasma binding in CKD → increased available free drug
+
+Neuromuscular Blockers and reversal
+
+- Aminosteroids (Rocuronium, Vecuronium, Pancuronium) have a degree of renal elimination and CKD results in a reduced clearance, increased terminal elimination half-life, and prolonged duration of action.
+- Benzylisoquinolinium (Atracurium and cicatracurium)  undergo ester hydrolysis and hoffman degradation → PK not largely altered by CKD
+
+**Opioids**:
+
+- Morphine, Oxycodone and Buprenorphine → Renal elimination of drug and active metabolites M6G → accumulation in renal failure. M6G metabolite from morphine is highly potent so continued dosing → side effects including sedation and respiratory depression. 
+
+Fentanyl and Remifentanil metabolised without active metabolites →↓risk of accumulation side effects
+
+**Antibiotics** 
+
+Antibiotics dependant on mean inhibitory concentration to function as bactericidal agents such as penicillins will be affected by ↑in TBW, also as they are renally cleared single dose may have increased time dependant effect.

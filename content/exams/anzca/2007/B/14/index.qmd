@@ -1,0 +1,100 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007B Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the cardiovascular changes in the neonate that occur at birth.
+:::
+
+Also asked in: [2010B Question 13](/content/exams/anzca/2010/B/13/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the transition from foetal to neonatal circulation as a sequence beginning with breathing and cord clamping. Link altered resistances and pressures to shunt closure, its timing and factors that may reverse the transition.
+
+::: {.structure-headings}
+### Foetal Circulation Before Birth
+
+### First Breaths and Pulmonary Vascular Resistance
+
+### Cord Clamping and Systemic Resistance
+
+### Functional and Anatomical Shunt Closure
+
+### Neonatal Haemodynamics and Modifying Factors
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**35%** of candidates passed this question.
+
+Interpretation:
+
+The question asked for a description of changes; this potentially allows inclusion of a functional description, mechanism of change (where known), time course and consequences. Discussion of changes at birth does not include the gradual replacement of HbF with HbA.
+
+Points to include:
+
+A discussion of the changes as above.
+
+Better answers:
+
+Indicated the above and showed the relevance of the changes. Included comments about the transitional nature of some changes
+
+Clarity:
+
+Diagrams were often of poor quality, and thus unhelpful. Information in diagrams was often repeated longhand in written form (gaining no extra marks). Handwriting was sometimes illegible.
+
+Organization:
+
+Ten minute questions probably don't require planning notes in the margin, nor should summaries be included, as repetition will not gain extra marks. Highlighting of key points is not part of a traditional SAQ.
+
+Errors:
+
+Terminology was often loose and the sequence of changes and mechanisms was poorly described. Confusion in the use of the terms; flow, pressure, resistance and volume was common. The placenta is NOT the reason that the foetal circulation is described as parallel. The pulmonary circulation initially has high resistance. The high negative pressure at inspiration is NOT the direct cause of the fall in PVR. The ductus arteriosus does not connect the right ventricle to the aorta, neither does the ductus venosus connect the IVC to the brain.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/B/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Foetal circulation](/content/obs/foetal.qmd)

@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2020B Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+500ml of 20% mannitol is administered intravenously to a neurosurgical patient. [**Outline**]{.task-verb} the cerebral, circulatory and renal effects including potential problems associated with its use.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} the osmotic mechanism for the stated infusion, then explain cerebral, circulatory and renal effects with their potential problems. Distinguish initial volume expansion from later diuresis and volume depletion, specifying which fluid compartment changes.
+
+::: {.structure-headings}
+### Dose and Osmotic Mechanism
+
+### Initial Circulatory Volume Expansion
+
+### Renal Filtration and Osmotic Diuresis
+
+### Later Volume Depletion and Compensation
+
+### Cerebral Effects and Potential Problems
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The expected domains in the answer were:
+
+  - mechanism of action of mannitol as an osmotic agent (this explanation could have been incorporated within the other domains below, or included under a separate heading)
+  - cerebral effects
+  - circulatory effects
+  - renal effects
+  - problems associated with its use (especially cerebral, circulatory and renal)
+
+The intended effects, and associated problems, needed to be addressed appropriately to achieve a pass.
+
+Similar to previous examination reports, confusion appears to have occurred with the phasic nature of the cardiovascular changes, and the mechanism of the diuretic effect. The misconceptions about the mechanism of reducing intracranial pressure were of concern (with many candidates suggesting this was secondary to decreased blood volume). Candidates are reminded to be specific in the description of intracellular, extracellular, intravascular and interstitial fluid in a discussion of osmotic effects. Few candidates described the effects on blood viscosity, and how this might affect cerebral blood flow.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2020/B/12/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2014/B/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Diuretics](/content/pharmacopoeia/renal/diuretics.qmd)

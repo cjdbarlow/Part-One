@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014B Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the cardiovascular changes that occur with morbid obesity.
+:::
+
+Also asked in: [2016B Question 5](/content/exams/anzca/2016/B/5/index.qmd#examiner-comments), [2018A Question 2](/content/exams/anzca/2018/A/2/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the cardiovascular changes systematically, connecting each altered variable to its mechanism. Distinguish changes in obesity itself from associated disease.
+
+::: {.structure-headings}
+### Cardiac Output, Heart Rate and Stroke Volume
+
+### Blood Volume and Preload
+
+### Vascular Resistance and Afterload
+
+### Ventricular Structure, Function and Reserve
+
+### Hormonal Influences and ECG Changes
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**3 %** of candidates achieved a pass in this question
+
+This question required an understanding of the cardiovascular changes in obesity per se as opposed to those associated with the co-morbid conditions of hypertension, diabetes and coronary artery disease. Candidates who used a systemic approach, such as describing the changes in cardiac output, heart rate, stroke volume, systemic vascular resistance, afterload, preload and contractility, did better. There were many misconceptions about the cardiovascular physiology in the uncomplicated obese patient especially regarding systemic vascular resistance/afterload and heart rate. Adipose tissue does not compress the arteries causing hypertension. Obese patients do not have increased resistance due to longer blood vessels. Otherwise all tall people would be hypertensive as well. In fact, fat vascular beds are added in parallel so systemic vascular resistance is normal or even reduced. An explanation of the mechanism behind the altered physiological variable was expected. Obese patients do not have a resting tachycardia to maintain cardiac output. Many mentioned increased blood volume but failed to equate this to increased preload and stroke volume. The mechanism behind left ventricular hypertrophy in obesity was misunderstood. Non-hypertensive obese patients still have left ventricular hypertrophy. Extra points were awarded to ECG changes, the cardiovascular responses to exercise and to the understanding of the hormonal changes that underpin the majority of cardiovascular changes seen in the obese patient.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2014/B/11/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2014/B/11/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Cardiovascular changes with obesity](/content/cvs/obesity_cvs.qmd)

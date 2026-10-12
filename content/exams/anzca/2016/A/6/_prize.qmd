@@ -1,0 +1,62 @@
+#### List:
+
+- Intro
+- Rate of passage: factors increasing it
+- MLAC: factors decreasing it
+
+#### Intro:
+
++--------------------------------+----------------------------------------------------------+
+| Local anaesthetic              | - Antagonist at axonal voltage-gated Na+ channel (VDNaC) |
++--------------------------------+----------------------------------------------------------+
+| Drug path                      | - Interstitium → axoplasm                                |
+|                                | - Only unionised drug diffuses readily                   |
+|                                | - Ionised \> unionised drug enters receptor              |
+|                                | - ICF \> ECF drug enters receptor                        |
++--------------------------------+----------------------------------------------------------+
+| Determinants of speed of onset | 1.  Rate of passage into axoplasm                        |
+|                                | 2.  Minimum local analgesic concentration (MLAC)         |
++--------------------------------+----------------------------------------------------------+
+
+#### 1.Rate of passage (factors accelerating it):
+
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Fick’s law       | ![](/content/exams/anzca/2016/A/6/prize-image001.jpg){fig-alt="Fick diffusion relationship with concentration gradient, membrane area and thickness, solubility and molecular weight"} |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↑C~1~            | ↑Concentration                                                                                                                                                                         |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↓C~2~            | ↑Tissue protein binding                                                                                                                                                                |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↑Area            | ↑Volume injected                                                                                                                                                                       |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↓Thickness       | - ↑Size of nerve (e.g. sciatic cf. median)                                                                                                                                             |
+|                  | - ↑Connective tissue (e.g. sciatic cf. median)                                                                                                                                         |
+|                  |   - Added hyaluronidase → ↓effective thickness                                                                                                                                         |
+|                  | - ↓Distance from centre of bundle (i.e. proximal affected before distal)                                                                                                               |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↑Diffusion coeff | - ↑% unionised: \*\*most important factor                                                                                                                                              |
+|                  |   - Drug: e.g. prilocaine 33% cf. bupivacaine 15%                                                                                                                                      |
+|                  |   - Additive: e.g. HCO~3~^-^ → ↑% unionised                                                                                                                                            |
+|                  |   - Patient: e.g. abscess → acidosis → ↓↓% unionised                                                                                                                                   |
+|                  | - ↑Lipid solubility (e.g. bupiv 1000x cf. lignocaine 150x)                                                                                                                             |
+|                  | - ↓Molecular weight                                                                                                                                                                    |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### 2.MLAC (factors decreasing it = factors increasing sensitivity):
+
++-------------------+------------------------------------------------------------------------------------+
+| Nerve sensitivity | - Myelination (must block 3 consecutive nodes of Ranvier ≈ 1cm)                    |
+|                   | - ↑Frequency of action potential                                                   |
+|                   | - ↓Nerve diameter → ↑ratio surface area : axon unit volume                         |
+|                   |                                                                                    |
+|                   | Order of decreasing sensitivity: B \> C \> Aδ \> Aγ \> Aβ \> Aα (sensory 2x motor) |
++-------------------+------------------------------------------------------------------------------------+
+| Patient           | - ↑Tissue pH                                                                       |
+|                   | - Pregnancy                                                                        |
++-------------------+------------------------------------------------------------------------------------+
+| Drug              | - ↑Potency (e.g. ropiv 40% less than bupiv)\                                       |
+|                   |   (correlates with ↑lipid solubility)                                              |
++-------------------+------------------------------------------------------------------------------------+
+| Additives         | - Opioid                                                                           |
+|                   | - α~2~ agonist                                                                     |
++-------------------+------------------------------------------------------------------------------------+

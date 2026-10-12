@@ -1,0 +1,74 @@
+Tramadol is a partial opioid receptor agonist, commonly used for its analgesic properties in the management of both acute and chronic pain
+
+Exists as racemic mixture:
+
+(+) Tramadol enantiomer = Serotonin repute inhibition and MOP agonist
+
+(–) Tramadol enantiomer = NA repute inhibition effects 
+
+100 mg in 2 mL tramadol hydrochloride as clear colourless solution for injection tablet/capsule/sachet of various strengths ranging from 50 to 400 mg
+
+Typical dose 3 mg/kg, up to 400 mg per day in divided doses
+
+**Pharmacokinetics** 
+
+**Absorption**
+
+- Available in IV, IM, PO
+- Oral bioavailability 70% (can increase to 90% with repeated doses) 
+- Short acting and sustained release preparations available
+
+**Distribution **
+
+- Vd = 4 L/kg
+- 20% protein bound
+- Crosses placenta (80%)
+- pKa 9.4 → 1% unionised at pH 7.4
+
+**Metabolism** 
+
+Hepatic metabolism by CYP2D6 → o-des-methyl-tramadol (active metabolite) 
+
+Subject to CYP2D6 genetic polymorphism 
+
+- Slow metabolisers have reduced metabolism and formation of o-des-methyl-tramadol and may have ↑5-HT effects: nausea/vomiting, risk serotonin syndrome
+- Rapid metabolisers will more rapidly metabolise → o-des-methyl-tramadol → increased opioid effect ↑ respiratory depression, sedation
+- Phase II glucuronidation
+
+**Elimination**:
+
+Renal Excretion
+
+- 60% active metabolite
+- 30% unchanged 
+- Renal failure → accumulation of tramadol and M1 (and inactive metabolites)
+
+**Pharmacodynamics** 
+
+Mechanisms of action
+
+Tramadol’s analgesic properties derive from the synergism between:
+
+(1) direct opioid receptor agonist activity
+(2) spinal descending inhibitory pathway activation via SSRI, SNRI and stimulation of presynaptic 5HT release
+
+**Analgesic Effects** 
+
+**Non-opioid:**
+
+- Serotonin and Noradrenaline reuptake inhibitor 
+- ↑presynaptic serotonin release 
+- NMDA receptor antagonist
+
+**Opioid:**
+
+- Tramadol is a weak Opioid agonist
+- Metabolised → o-des-methyl-tramadol → 6x more potent opioid agonist  
+
+**Adverse Effects:**
+
+Sedation → less than morphine at equianalgesic doses
+
+Nausea + vomiting → both via MOP activation and 5HT release at CTZ 
+
+Seizures and Serotonin syndrome  → either direct or via interaction with other medications (MAO, SSRI, SNRI)

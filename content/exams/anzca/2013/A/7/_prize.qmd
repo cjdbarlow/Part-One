@@ -1,0 +1,101 @@
+#### List:
+
+- PC
+- PK
+- PD
+
+#### Physicochemical:
+
++--------------+-----------------------------------------------------------------------------------------+
+| Presentation | - 5mg in 5mL ampoule, aqueous solution                                                  |
+|              |                                                                                         |
+|              | Also as tablets                                                                         |
++--------------+-----------------------------------------------------------------------------------------+
+| Structure    | - Heterocyclic benzodiazepine                                                           |
+|              | - I*midazol*e moiety                                                                    |
++--------------+-----------------------------------------------------------------------------------------+
+| Tautomerism  | - In ampoule: pH 3.5, diaz ring open, water soluble (protonation of imidazole nitrogen) |
+|              | - In blood: pH 7.4 diaz ring closed, lipid soluble, can cross blood-brain barrier       |
+|              | - Transformation at pH 4                                                                |
++--------------+-----------------------------------------------------------------------------------------+
+| Ionisation   | - pKa 6.5, weak base. 90% unionized at pH 7.4                                           |
++--------------+-----------------------------------------------------------------------------------------+
+
+#### Pharmacokinetic:
+
++----------------+------------------------------------------------------------------------------+
+| Routes         | - IV, IM, SC, PO, IN, PR                                                     |
++----------------+------------------------------------------------------------------------------+
+| Dosing         | - IV induction: 0.3mg/kg                                                     |
+|                | - IV pre-induction adjuvant: 0.025mg/kg                                      |
+|                | - PO pre-med: 0.5mg/kg                                                       |
++----------------+------------------------------------------------------------------------------+
+| Time course    | - Onset IV 2 mins                                                            |
+|                | - Peak IV 10 mins                                                            |
+| (short acting) | - Duration IV 1-6 hours (prolonged if elderly, liver disease, acute illness) |
++----------------+------------------------------------------------------------------------------+
+| Absorption     | - Oral bioav 50%                                                             |
++----------------+------------------------------------------------------------------------------+
+| Distribution   | - Plasma protein binding 98%                                                 |
+|                | - V~DSS~ 1.5L/kg                                                             |
+|                | - Highly lipid soluble                                                       |
+|                | - t~1/2ke0~ 4 minutes                                                        |
++----------------+------------------------------------------------------------------------------+
+| Metabolism     | - Hepatic                                                                    |
+|                | - Phase 1 (3A4) then phase 2                                                 |
+|                | - Cl 5-10mL/kg/min                                                           |
+|                | - Active metabolites: α-OH-midaz (50% as active) and oxazepam (active)       |
+|                |   - These undergo glucuronidation                                            |
+|                | - t~1/2β~ 2 hours                                                            |
++----------------+------------------------------------------------------------------------------+
+| Excretion      | - \<1% midazolam → urine                                                     |
+|                | - Glucuronidated metabolites → urine                                         |
++----------------+------------------------------------------------------------------------------+
+
+#### Pharmacodynamic:
+
++---------------------+------------------------------------------------------------------------------------------+
+| Mechanism of action | - Positive allosteric modulator at BDZ site on GABA-A receptor, at A-G interface         |
+|                     | - ↑probability of active conformation                                                    |
+|                     | - ↑Cl^-^ conductance, prevention of depolarisation to action potential                   |
+|                     | - (Not hyperpolarization, since RMP -70mV and Cl- Nernst potential -65mV)                |
++---------------------+------------------------------------------------------------------------------------------+
+| GABA-A subtypes     | - α~1~: sedation, amnesia, anticonvulsant                                                |
+|                     | - α~2~, α~3~: muscle relaxation, anxiolysis                                              |
++---------------------+------------------------------------------------------------------------------------------+
+| Drug interactions   | - Synergistic with propofol, volatile anaesthetics at GABA-A                             |
+|                     | - Synergistic with opioids in causing respiratory depression                             |
+|                     | - Antagonised by flumazenil (competitive antagonist)                                     |
++---------------------+------------------------------------------------------------------------------------------+
+| Specific use        | - Premedication for children                                                             |
+|                     | - Sedation for procedures or in ICU                                                      |
+|                     | - Adjuvant at induction                                                                  |
+|                     | - Induction agent if high cardiovascular risk (e.g. CABG with fentanyl)                  |
++---------------------+------------------------------------------------------------------------------------------+
+| CNS effects         | Dose-dependent in this order:                                                            |
+|                     |                                                                                          |
+|                     | - Anxiolysis                                                                             |
+|                     | - Antegrade amnesia                                                                      |
+|                     | - Sedation                                                                               |
+|                     | - Anticonvulsant                                                                         |
+|                     | - Muscle relaxation                                                                      |
+|                     | - Hypnosis (here?)                                                                       |
+|                     |                                                                                          |
+|                     | Also:                                                                                    |
+|                     |                                                                                          |
+|                     | - ↓MAC                                                                                   |
+|                     | - ↓CMRO~2~                                                                               |
+|                     | - ↓Side effects of ketamine                                                              |
+|                     | - 10% risk paradoxical reaction in children; agitation, violence etc.                    |
++---------------------+------------------------------------------------------------------------------------------+
+| Respiratory         | - ↓TV more than ↓RR; mild ↑PaCO~2~                                                       |
+|                     |   - Synergistic depression with opioids                                                  |
+|                     |   - Can be dangerous if sleep-disordered breathing                                       |
+|                     | - ↓Airway reflexes                                                                       |
++---------------------+------------------------------------------------------------------------------------------+
+| Cardiovascular      | - ↓SNS output: → mild ↓cardiac output, ↓SVR, ↓mAP                                        |
++---------------------+------------------------------------------------------------------------------------------+
+| Special             | - Paradoxical reaction 1 in 10 children; agitation, rage                                 |
+|                     | - Much slower offset if elderly, unwell, liver failure (? slower metabolite elimination) |
+|                     | - Risk delirium in elderly, ? risk of prolonged cognitive impairment                     |
++---------------------+------------------------------------------------------------------------------------------+

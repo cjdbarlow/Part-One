@@ -1,0 +1,114 @@
+#### List:
+
+- Intro
+- High pressure baroreceptors
+- Low pressure baroreceptors
+- Renal baroreceptors
+
+#### Intro: baroreceptors
+
++---------------+-------------------------------------------------------------------------------+
+| Background    | - Ohm’s law: cardiac output = (mAP – CVP) / SVR                               |
+|               | - ↓↓perfusion pressure → ischaemia e.g. type 2 AMI                            |
+|               | - ↑↑perfusion pressure → organ damage e.g. haemorrhagic stroke                |
+|               | - Hence need for rapid negative feedback regulation                           |
++---------------+-------------------------------------------------------------------------------+
+| Baroreceptors | - Mechanoreceptor on C fibre general visceral afferent                        |
+|               | - Located in vascular adventitia                                              |
+|               | - Vessel stretch → ? inhibit K^+^ channel → depolarisation → action potential |
+|               | - Response ∝ degree of stretch, **and** ∝ rate of change in stretch           |
++---------------+-------------------------------------------------------------------------------+
+
+#### High pressure baroreceptors:
+
++---------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Pathway                         | ![](/content/exams/anzca/2003/B/10/prize-image001.jpg){fig-alt="Baroreceptor afferents and medullary pathways controlling sympathetic and parasympathetic output"}|
++---------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Location                        | - Carotid sinuses (more sensitive)                                                                                                                                |
+|                                 | - Aortic sinus (less sensitive)                                                                                                                                   |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Stimulus                        | - ↓mAP or ↓pulse pressure → ↓stretch → ↓afferent                                                                                                                  |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Afferent                        | - Visceral afferent C fibre (?)                                                                                                                                   |
+|                                 |   - CNIX Herings nerve (carotid sinus)                                                                                                                            |
+|                                 |   - CNX vagus nerve (aortic sinus)                                                                                                                                |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Integrator                      | - Medulla/hypothalamus                                                                                                                                            |
+|                                 |   - SNS: rostral ventrolateral medulla                                                                                                                            |
+|                                 |   - PSNS: input to nucleus tractus solitarius; output from nucleus ambiguuus and dorsal motor nucleus                                                             |
+|                                 | - If normal blood pressure:                                                                                                                                       |
+|                                 |   - Central PSNS cells are inherently quiescent but tonically activated                                                                                           |
+|                                 |   - Central SNS cells are inherently active but tonically inhibited (allows rapid response)                                                                       |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Neural efferent                 | - ↑SNS, ↓PSNS output                                                                                                                                              |
+|                                 | - ↑HR, ↑contractility                                                                                                                                             |
+|                                 | - ↑Venoconstriction → ↑venous return                                                                                                                              |
+|                                 | - ↑Vasoconstriction → ↑SVR                                                                                                                                        |
+|                                 | - →↑cardiac output, ↑mAP                                                                                                                                          |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Hormonal efferent               | - ↑ADH release from hypothalamus (note normally minimal)                                                                                                          |
+|                                 | - Aquaporin-2 insertion into apical membrane                                                                                                                      |
+|                                 | - ↑free H~2~O reabsorption from collecting ducts                                                                                                                  |
+|                                 | - ↑blood volume → ↑mAP                                                                                                                                            |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Effective autoregulatory range  | - 60-180mmHg                                                                                                                                                      |
+|                                 | - Right shift with exercise or chronic hypertension                                                                                                               |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Response time                   | - Seconds (i.e. responds to postural change)                                                                                                                      |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Clinical applications           | - Heart rate used to assess severity of shock                                                                                                                     |
+|                                 | - Valsalva manoeuvre to assess autonomic function                                                                                                                 |
+|                                 | - Carotid sinus massage for terminating SVT                                                                                                                       |
++---------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Low pressure baroreceptors:
+
++-------------------+---------------------------------------------------------------------------------+
+| Location          | - Atria and great veins                                                         |
++-------------------+---------------------------------------------------------------------------------+
+| Stimulus          | - ↓Distension → ↓stretch → ↓afferent (i.e. volume-sensitive)                    |
++-------------------+---------------------------------------------------------------------------------+
+| Afferent          | - Visceral afferent C fibre (?)                                                 |
++-------------------+---------------------------------------------------------------------------------+
+| Integrator        | - Medulla/hypothalamus                                                          |
++-------------------+---------------------------------------------------------------------------------+
+| Neural efferent   | - ↑SNS, ↓PSNS output                                                            |
++-------------------+---------------------------------------------------------------------------------+
+| Hormonal efferent | - ↓ANP release by right atrium                                                  |
+|                   | - ↓Dilatation of afferent arteriole → ↓GFR, ↓washout of medullary interstitium  |
+|                   | - Inhibit NCC in distal convoluted tubule and ENaC in cortical collecting ducts |
+|                   | - ↑NaCl reabsorption, ↓natriuresis                                              |
+|                   | - ↑Blood volume, ↑CVP                                                           |
++-------------------+---------------------------------------------------------------------------------+
+| Response time     | - Minutes                                                                       |
++-------------------+---------------------------------------------------------------------------------+
+| Clinical use      | - Sacubitril → inhibit neprilysin → ↑ANP                                        |
++-------------------+---------------------------------------------------------------------------------+
+
+#### Renal baroreceptors:
+
++-------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
+| Location          | - Walls of afferent arterioles                                                                                                          |
++-------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
+| Stimulus          | - ↓afferent arteriolar pressure → ↓stretch                                                                                              |
++-------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
+| Integrator        | - Juxtaglomerular cell                                                                                                                  |
++-------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
+| Neural efferent   | - Afferent arteriolar dilatation → ↑renal blood flow → ↑GFR                                                                             |
++-------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
+| Hormonal efferent | - ↑Activity of renin-angiotensin system:                                                                                                |
+|                   |                                                                                                                                         |
+|                   | ![](/content/exams/anzca/2003/B/10/prize-image002.jpg){fig-alt="Renin–angiotensin pathway through angiotensin subtypes and aldosterone"}|
+|                   |                                                                                                                                         |
+|                   | - Angiotensin 2:                                                                                                                        |
+|                   |   - Efferent \> afferent arteriolar vasoconstriction                                                                                    |
+|                   |   - Peripheral vasoconstriction                                                                                                         |
+|                   |   - ↑Na^+^/H~2~O reabsorption from proximal tubule → ↑blood volume                                                                      |
+|                   |   - ↑mAP                                                                                                                                |
+|                   | - Aldosterone:                                                                                                                          |
+|                   |   - ↑Na^+^ reabsorption from late distal tubule and collecting ducts                                                                    |
+|                   |   - ↑Na^+^ reabsorption from colon, sweat                                                                                               |
+|                   |   - Indirect H~2~O reabsorption via ↑ECF osmolality                                                                                     |
+|                   |   - ↑Blood volume                                                                                                                       |
+|                   |   - ↑mAP                                                                                                                                |
++-------------------+-----------------------------------------------------------------------------------------------------------------------------------------+

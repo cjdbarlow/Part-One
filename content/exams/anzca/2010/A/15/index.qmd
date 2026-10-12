@@ -1,0 +1,97 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010A Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} how cardiac output is measured using a thermodilution technique.
+:::
+
+Also asked in: [2000A Question 1](/content/exams/anzca/2000/A/1/index.qmd#examiner-comments), [2005B Question 13](/content/exams/anzca/2005/B/13/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} the indicator-dilution principle and the actual measurement sequence. Relate injectate properties and the temperature–time curve to cardiac output, then identify assumptions and sources of error.
+
+::: {.structure-headings}
+### Conservation Principle and Indicator Dilution
+
+### Catheter, Injectate and Temperature Measurement
+
+### Temperature–Time Curve and Cardiac Output Calculation
+
+### Assumptions and Sources of Error
+
+### Advantages and Limitations
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**60%** of candidates passed this question.
+
+Interpretation: This question asked for an explanation of a specific technique of measuring cardiac output. Not directly relevant are:
+
+1) A detailed discussion on cardiac output and the factors affecting it
+2) Other techniques of cardiac output measurement
+3) Explanation on how a thermistor functions
+
+Content: The main points in the answer should include:
+
+1) A discussion of the basic principles involved. Thermodilution is based on the law of conservation of matter where heat lost from the blood = heat gained by injectate
+2) A description on the specifics of the technique mentioning the requirement of a Swan-Ganz catheter, nature of injectate and temperature measurement using a thermistor in the pulmonary artery.
+3) An appreciation on how cardiac output is calculated from this technique
+4) A discussion of sources of errors which might affect the accuracy of the technique
+
+Errors or common mistakes:
+
+Some candidates erroneously conclude that cardiac output IS the area under the curve. Other candidates confuse the PiCCO as a thermodilution technique.
+
+Organisation: Better answers include a short list of advantages and disadvantages of the technique.
+
+Clarity: Good answers mentioned that the thermodilution technique is a variation of the indicator dilution technique which uses the temperature decrease as the indicator. Additional marks were given for a discussion on the Stewart-Hamilton Equation used to calculate flow/Q.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2000/A/1/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Cardiac output measurement](/content/equipment/cardiac_output.qmd)

@@ -1,0 +1,85 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009A Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the factors contributing to the generation and maintenance of the resting membrane potential.
+:::
+
+Also asked in: [2002A Question 5](/content/exams/anzca/2002/A/5/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} generation through ion gradients and selective permeability, then explain how these gradients are maintained. Use Nernst and Goldman equations to distinguish single-ion equilibrium from the resting membrane potential.
+
+::: {.structure-headings}
+### Definition and Normal Values
+
+### Concentration Gradients
+
+### Selective Permeability
+
+### Nernst and Goldman Equations
+
+### Sodium–Potassium Pump and Minor Contributors
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**52%** of candidates passed this question.
+
+A definition and normal range for the Resting Membrane Potential was required. The Resting Membrane Potential depends on two main factors: the membrane permeability to the various ions and the ionic concentrations on the inside and outside of the cell. Membrane permeability required an understanding of the dominant role of potassium and the minor role of sodium. Better answers illustrated the role of multiple ions with the Goldman-Field equation.
+
+The potential difference developed by a permeable ion depends on the chemical and electrical gradients across the cell membrane for that ion at equilibrium. This can be demonstrated by the Nernst equation. Better answers included the Nernst potentials for the various ions and their intracellular and extracellular concentrations.
+
+Minor factors contributing to the membrane potential: the electrogenic effect of the sodium/potassium pump and the intracellular protein anions (Gibbs Donnan). A common error was to treat these minor factors as major determinants. Maintenance of the Resting Membrane Potential is due to keeping a large concentration gradient for potassium between inside and outside the cell membrane. A description of the sodium/potassium ATP pump was required.
+
+No marks were awarded for a description of action potentials or for detailed descriptions of ion channels.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2002/A/5/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Excitable cells](/content/cellular/excitable_cells.qmd)
+- [Cell transport](/content/cellular/cell_transport.qmd)

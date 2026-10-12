@@ -1,0 +1,39 @@
+Pregnancy is a time of increase metabolic requirements for both mother and to supply the foetus. 
+
+↑ Oestrogen → ↑ Blood volume (40%)
+
+- ↑RAAS → ↑ Plasma(50%)
+- ↑EPO → ↑ Red cell volume (20%)
+
+↑VR + Utero-placental Demand → ↑HR and SV → ↑ CO (45%)
+
+↓SVR 
+
+- Low Resistance Placental Flow
+- Progesterone Smooth Muscle relaxation   
+
+circuit 
+
+Overall small ↓ in mAP 10%
+
++--------------------+---------------------+----------------------+----------------------+-----------------------------------------------------------------+
+|                    | **First Trimester** | **Second Trimester** | **Third Trimester ** | **Comment **                                                    |
++====================+=====================+======================+======================+=================================================================+
+| **Blood Volume**   | ↑5%                 | ↑15%                 | ↑40%                 | Overall haematocrit ↓due to greater ↑ in plasma volume then RBC |
+|                    |                     |                      |                      |                                                                 |
+|                    |                     |                      | ↑ RBC 30%            |                                                                 |
++--------------------+---------------------+----------------------+----------------------+-----------------------------------------------------------------+
+| **Plasma Volume ** | ↑35%                | ↑45%                 | ↑50%                 | Peaks around 36 weeks                                           |
++--------------------+---------------------+----------------------+----------------------+-----------------------------------------------------------------+
+| **HR**             | ↑15%                | ↑25%                 | ↑30%                 |                                                                 |
++--------------------+---------------------+----------------------+----------------------+-----------------------------------------------------------------+
+| **SV**             | ↑20                 | ↑ 25%                | ↑ 30%                |                                                                 |
++--------------------+---------------------+----------------------+----------------------+-----------------------------------------------------------------+
+| **CO**             | ↑ 20%               | ↑25%                 | ↑45%                 | Dramatic increase in labour                                     |
++--------------------+---------------------+----------------------+----------------------+-----------------------------------------------------------------+
+
+Additional factors:
+
+- Aortocaval compression: The increased CO due to increased venous return/intravascular volume can be substantially affected by the gravid uterus compressing the IVC when supine → significant ↓VR
+- Increased oestrogen causes an increased plasma volume → dilutional ↓ capillary oncotic pressure, predisposing to oedema
+- Relative anaemia

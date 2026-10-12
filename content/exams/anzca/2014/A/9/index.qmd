@@ -1,0 +1,101 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014A Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the washout of sevoflurane from a patient following two hours of general anaesthesia. You may wish to use a graph to illustrate the description.
+:::
+
+Also asked in: [2018A Question 6](/content/exams/anzca/2018/A/6/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} washout after two hours using a labelled washout curve. Connect each phase of the curve to the movement of sevoflurane between compartments and the factors governing that movement.
+
+::: {.structure-headings}
+### Compartment Uptake After Two Hours
+
+### Washout Curve, Phases and Decrement Times
+
+### Tissues to Blood, Alveoli and Circuit
+
+### Factors Affecting Elimination
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**35.2%** of candidates achieved a pass in this question
+
+Many candidates seemed to have difficulty describing the washout or elimination phase of volatile anaesthesia and endeavoured to instead describe the kinetics of induction or uptake. Although there are many principles shared by the two phases, generally such an approach generated a muddled answer which could not score well.
+
+To achieve a pass, the following were required:
+
+- a clear explanation of the elimination kinetics of sevoflurane with due consideration to a time course appropriate to the termination of anaesthesia after two hours.
+
+- A washout graph including appropriate axis labelling, a multi exponential decay curve, time course and half times consistent with volatile washout.
+
+- a description of the movement of sevoflurane out of the alveolus, from plasma to alveolus, from the various compartments to plasma and their respective time courses
+
+- a description of factors which underpin those kinetics, including depth and duration of anaesthesia, alveolar ventilation and fresh gas flows, compartmental blood flows and solubilities.
+
+Additional marks were awarded for:
+
+- identifying differences in the kinetics of uptake versus elimination, describing the impact of cardiac output, an explanation of the clinical relevance of elimination kinetics
+
+Common errors included
+
+- providing irrelevant information - the chemical structure of evoflurane , kinetic data tables without understanding, wash-in graphs, detailed discussions of Fick's law, detailed algebraic manipulations
+
+- confused graphs - nonsensical labelling - (FA/FI, FI/FA), graphing wash-in and out on the same axes, incorrect decrement rate
+
+- confusion with respect to the terms fresh gas flow and FiO2
+
+- lack of understanding of compartmental modelling and associated kinetics
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2014/A/9/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2014/A/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational anaesthetic pharmacokinetics](/content/pharmacopoeia/neuro/inhalational_anaesthetic_agents.qmd#pk)
+- [Inhalational anaesthetic agents](/content/pharmacopoeia/neuro/inhalational_anaesthetics.qmd)

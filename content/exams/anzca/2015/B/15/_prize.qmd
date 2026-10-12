@@ -1,0 +1,118 @@
+#### List:
+
+(A)Basics of shock
+
+- How
+- Thresholds
+- Severity
+- OT risk factors
+
+(B)Shock prevention
+
+- Area classification
+- Supply design: RCD, LIS, EPE
+- Equipment design: I, II, III
+- Applied parts: B, BF, CF
+
+#### Basics of shock:
+
++----------------------------+-------------------------------------------------------------------------------------+
+| Requirement                | - Person forms part of a low resistance, live electrical circuit                    |
+|                            |   - Resistive coupling: direct connection to the body                               |
+|                            |   - Capacitive coupling: body acts as one plate of the capacitor.                   |
++----------------------------+-------------------------------------------------------------------------------------+
+| Danger thresholds          | - Macroshock: current through two points of body.                                   |
+|                            |   - 1mA: pain                                                                       |
+|                            |   - 10mA: tetany (i.e. unsafe)                                                      |
+|                            |   - 100mA: VF                                                                       |
+|                            | - Microshock: enters body through internal device close to heart.                   |
+|                            |   - 10μA: unsafe                                                                    |
+|                            |   - 100μA: VF                                                                       |
++----------------------------+-------------------------------------------------------------------------------------+
+| Determinants of severity   | - Type. (AC 60Hz most dangerous; \>100Hz safe; DC safe (since high skin resistance) |
+|                            | - Magnitude (Amperes)                                                               |
+|                            | - Density (A/cm2)                                                                   |
+|                            | - Duration                                                                          |
+|                            | - Path (e.g. through heart)                                                         |
++----------------------------+-------------------------------------------------------------------------------------+
+| Operating theatre problems | - Electrical equipment++                                                            |
+|                            | - ↓Skin resistance (saline, ECG dot, cannula)                                       |
+|                            | - Patient unconscious, immobile                                                     |
++----------------------------+-------------------------------------------------------------------------------------+
+
+#### Area classification:
+
++-------------------+-----------------------------------------------------------------------------------------------+
+| Cardiac protected | - e.g. theatre complex, A&E, ICU                                                              |
+|                   | - main difference: incorporates equipotential earthing)                                       |
+|                   |                                                                                               |
+|                   | ![](/content/exams/anzca/2015/B/15/prize-image001.jpg){fig-alt="Cardiac protected area sign"} |
++-------------------+-----------------------------------------------------------------------------------------------+
+| Body protected    | - e.g. general ward                                                                           |
+|                   |                                                                                               |
+|                   | ![](/content/exams/anzca/2015/B/15/prize-image002.jpg){fig-alt="Body protected area sign"}    |
++-------------------+-----------------------------------------------------------------------------------------------+
+
+#### Electrical supply safety features:
+
++-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Residual current device | - Live and neutral wires loop an equal number of times around a transformer                                                                      |
+|                         | - A third wire from a comparator circuit also loops around the transformer                                                                       |
+|                         | - Earth leakage → hot ≠ neutral flow → current induced in comparator circuit → power cut                                                         |
+|                         | - Cuts power in 30msec (i.e. still risk of VF), threshold 30mA                                                                                   |
+|                         |                                                                                                                                                  |
+|                         | ![](/content/exams/anzca/2015/B/15/prize-image003.jpg){fig-alt="Residual current device with comparator circuit"}                                |
++-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Line isolation system   | *= isolation transformer + line isolation monitor (LIM)*                                                                                         |
+|                         |                                                                                                                                                  |
+|                         | - Isolating transformer joins mains and floating circuits, no physical contact                                                                   |
+|                         | - Isolation monitor measures impedance between lines 1&2 and the ground                                                                          |
+|                         | - Connection between floating circuit and earth does not cause shock, but will cause LIM to alarm                                                |
+|                         | - Threshold 5mA                                                                                                                                  |
+|                         |                                                                                                                                                  |
+|                         | ![](/content/exams/anzca/2015/B/15/prize-image004.jpg){fig-alt="Line isolation system showing isolation transformer and line isolation monitor"} |
++-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Equipotential earthing  | - Machines in a stack may be at different electrical potential                                                                                   |
+|                         | - If a person touches two of them, current may flow through him/her                                                                              |
+|                         | - Hence each device earthed via heavy duty connections inside the walls                                                                          |
+|                         | - Expensive to install                                                                                                                           |
+|                         |                                                                                                                                                  |
+|                         | ![](/content/exams/anzca/2015/B/15/prize-image005.jpg){fig-alt="Equipotential earthing connecting devices to a common earth"}                    |
++-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Equipment:
+
++---------+-------------------------------------------------------------------------------------------+
+| Class 1 | - Earthed outer casing, +/- fuses                                                         |
+|         | - e.g. fridge, microwave, toaster                                                         |
++---------+-------------------------------------------------------------------------------------------+
+| Class 2 | - Double layer insulation. Earthing unnecessary.                                          |
+|         | - e.g. DVD player, TV                                                                     |
++---------+-------------------------------------------------------------------------------------------+
+| Class 3 | - Safety extra-low voltage (SELV) \<24V AC or \<50V DC, especially internal battery power |
+|         | - Protects against macro but not microshock                                               |
+|         | - e.g mobile phone, laptop                                                                |
++---------+-------------------------------------------------------------------------------------------+
+
+#### Applied parts: (i.e. electrical connections)
+
++---------+---------------------------------------------------------------------------+
+| Type B  | *Unprotected*                                                             |
+|         |                                                                           |
+|         | - Only limitation is the patients’ impedance                              |
+|         | - Max 500μA if Class 1 or 100μA if Class 2. Prevents macroshock.          |
+|         | - e.g. hospital bed                                                       |
++---------+---------------------------------------------------------------------------+
+| Type BF | *Body protected, floating*                                                |
+|         |                                                                           |
+|         | - Current flow limited in the event of a fault                            |
+|         | - Max 500μA if Class 1 or 100μA if Class 2. Prevents macroshock.          |
+|         | - e.g. NIBP cuff                                                          |
++---------+---------------------------------------------------------------------------+
+| Type CF | *Cardiac protected, floating*                                             |
+|         |                                                                           |
+|         | - Max 50μA if Class I equipment, 10μA if class II equipment               |
+|         | - \*Only Class II equipment with Type CF connection prevents microshock\* |
+|         | - Safe for direct cardiac contact                                         |
+|         | - e.g. pulmonary artery catheter                                          |
++---------+---------------------------------------------------------------------------+

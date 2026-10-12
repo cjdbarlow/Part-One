@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005A Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the mechanisms of action of drugs that inhibit cholinergic transmission at the neuromuscular junction giving examples.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} **Depolarising Block**, **Non-Depolarising Block**, and **Other Mechanisms of Block**. Give a drug example for each mechanism and connect its action to failure of cholinergic transmission.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**59 %** of candidates passed this question.
+
+The main points expected for a pass included:
+
+- Depolarising neuromuscular blocking agents
+    - example- Suxamethonium
+    - mechanism of action
+- Non Depolarising neuromuscular blocking agents
+    - example- Cisatracurium
+    - mechanism of action
+- Example and mechanism of action of at least one other mechanism inhibiting cholinergic transmission at the neuromuscular junction, such as:
+    - Deficiency blockade: Drugs inhibiting ACh synthesis or release
+    - Desensitisation blockade: Drugs inhibiting ACh efficacy at the post-junctional receptor
+    - Phase 2 blockade
+    - Channel blockade
+
+Extra marks were awarded for a full answer incorporating all of the above mechanisms with examples of drugs that have these effects.
+
+Common mistakes included drawing a diagram of a normal motor end plate, including a lengthy discussion of the normal physiology of excitation-contraction coupling, without incorporating relevance to the question of the mechanisms of drug action inhibiting cholinergic transmission. Also, many candidates discussed mechanisms of action of drugs inhibiting cholinergic transmission, but did not provide examples of these drugs. Finally, many candidates did not explain how suxamethonium-induced post-junctional receptor opening inhibited cholinergic transmission.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Depolarising NMBs](/content/pharmacopoeia/msk/depolarising_nmbs.qmd)
+- [Non-Depolarising Neuromuscular Blockers](/content/pharmacopoeia/msk/non_depolarising_nmbs.qmd)

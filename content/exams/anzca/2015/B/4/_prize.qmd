@@ -1,0 +1,80 @@
+#### List:
+
+For each:
+
+- Intro
+- Use
+- Limitation
+- Graphs
+- (Equation)
+- Factors increasing it
+- Factors decreasing it
+
+#### Half life:
+
++--------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| Definitions  | - Half life: time taken for plasma concentration C → C/2                                                                             |
+|              |   - t~1/2~~α~: during distribution phase (∝ 1/distribution x metabolism)                                                             |
+|              |   - t~1/2~~β~: during terminal elimination phase (∝ redistribution / metabolism)                                                     |
+|              | - Time constant: time taken for plasma concentration C → C/e                                                                         |
+|              | - These are fixed values                                                                                                             |
++--------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| Use          | - Provide some indication of likely time to offset                                                                                   |
+|              | - Determine dosing frequency: e.g. every half life                                                                                   |
+|              | - Determine time to steady state: 5 x t~1/2~, 3 x τ                                                                                  |
++--------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| Limitation   | - Poor indication of time to offset after bolus or short infusion                                                                    |
++--------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| Equation     | - t~1/2~ = τ x loge2                                                                                                                 |
+|              | - τ = 1/k                                                                                                                            |
+|              | - Cl = k x V~D~                                                                                                                      |
+|              | - Hence t~1/2~ = V~D~/Cl x log~e~2                                                                                                   |
++--------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| Graph        | ![](/content/exams/anzca/2015/B/4/prize-image001.jpg){fig-alt="Exponential concentration decay showing half life and time constant"} |
++--------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| Increased if | - ↑V~D~:                                                                                                                             |
+|              |   - Small                                                                                                                            |
+|              |   - Non-polar (e.g. propofol)                                                                                                        |
+|              |   - Low plasma protein binding                                                                                                       |
+|              |   - ICF sequestration (e.g. amiodarone)                                                                                              |
+|              | - ↓Metabolism                                                                                                                        |
+|              |   - Low HER: e.g. thiopentone Cl 3.5mL/kg/min                                                                                        |
++--------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| Decreased if | - ↓V~D~:                                                                                                                             |
+|              |   - Large (e.g. suxamethonium)                                                                                                       |
+|              |   - Polar (e.g. heparin)                                                                                                             |
+|              |   - High plasma protein binding (e.g. warfarin)                                                                                      |
+|              | - ↑Metabolism                                                                                                                        |
+|              |   - High HER (e.g. propofol)                                                                                                         |
+|              |   - Ubiquitous enzyme (e.g. adenosine deaminase, plasma cholinesterase for suxameth)                                                 |
++--------------+--------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Context-sensitive half time:
+
++--------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| Definition   | - Time taken for plasma concentration C \> C/2 as a function of duration of infusion                                                              |
+|              | - Not fixed but dependent on duration of infusion                                                                                                 |
+|              | - Approaches but in theory does not reach t~1/2~~β~                                                                                               |
++--------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| Use          | - Better than half life as an indicator of likely duration of action                                                                              |
+|              | - Predict suitability for short infusion:                                                                                                         |
+|              |   - e.g. fentanyl (highly LS 600x morphine → large V~D~ 4L/kg)                                                                                    |
+|              | - Predict suitability for long infusion:                                                                                                          |
+|              |   - e.g. remifentanil: small V~D~ 0.3L/kg, high Cl (40mL/kg/min), max CSHT \<10 mins                                                              |
+|              | - TCI modelling: estimate time to propofol emergence (e.g. Cet 1mcg/mL)                                                                           |
++--------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| Limitation   | - No account of active metabolites (e.g. diazepam)                                                                                                |
+|              | - No account of prolonged receptor effects (e.g. aspirin)                                                                                         |
++--------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| Graph        | ![](/content/exams/anzca/2015/B/4/prize-image002.jpg){fig-alt="Context sensitive half-time against infusion duration in a two-compartment model"} |
+|              |                                                                                                                                                   |
+|              | (using two compartment model)                                                                                                                     |
+|              |                                                                                                                                                   |
+|              | (Note not a textbook graph, just my interpretation)                                                                                               |
++--------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| Increased if | - Long infusion                                                                                                                                   |
+|              | - Other factors as for t~1/2~                                                                                                                     |
++--------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| Decreased if | - Short infusion                                                                                                                                  |
+|              | - Other factors as for t~1/2~                                                                                                                     |
++--------------+---------------------------------------------------------------------------------------------------------------------------------------------------+

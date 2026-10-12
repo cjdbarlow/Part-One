@@ -1,0 +1,82 @@
+Rocuronium is an intermediate-acting aminosteroid non-depolarising muscle relaxant
+
+Mechanism: competitive antagonist of nAChR at NMJ
+
+Post-synaptic nAChR antagonism → muscle relaxation
+
+Intubating dose 0.6mg/kg produces paralysis within 60-120s for \~30mins
+
+\>70% receptor occupation required for paralysis
+
+Recovery of neuromuscular function depends on:
+
+a\. Rocuronium at NMJ
+
+b\. PK factors 
+
+b\. PD factors
+
+**Concentration of Rocuronium at NMJ**
+
+- Increasing dose of rocuronium →↑Rocuronium at NMJ →↑time for diffusion back into plasma →↑duration of block 
+- Time since administration →↓time since administration →↑ plasma/NMJ Concentration →↑time till recovery 
+
+**PK Factors**
+
+**Distribution**
+
+Singe Bolus dose - ↑ rate of recovery as redistributed 
+
+Repeat dosing - ↓ rate of recovery due to accumulation 
+
+Metabolism: 
+
+\< 5% hepatic metabolism → ↓rate of recovery with: Hepatic dysfunction; hypothermia (↓enzymatic function)
+
+Elimination:
+
+70% hepatic/biliary clearance → longer duration in hepatic dysfunction 
+
+30% renal dysfunction → longer duration in renal dysfunction 
+
+**PD Factors**
+
+**Volatile agents** 
+
+→ Potentiate Blockade 
+
+↑Skeletal muscle blood flow and ↓muscle tone / motor activity from CNS/spinal cord
+
+**Magnesium**
+
+↑Magnesium → Potentiate Blockade
+
+↑Mg2+ → antagonize Ca2+ at L-Ca2+ channel → reduced ACh release 
+
+**Calcium Channel Antagonist** 
+
+→ Potentiate Blockade
+
+↓Ca2+ influx  →↓ACh release 
+
+**Aminoglycosides**: 
+
+→ Potentiate Blockade 
+
+Aminoglycosides →↓Ca2+ influx  →↓ACh release
+
+**Physiological States:**
+
+Elderly → ↓ muscle mass ↓Vd → longer duration 
+
+Pregnancy → ↑ GFR, ↑Vd ↑hepatic enzymatic function → ↑ rate of recovery 
+
+**NMJ Disease:**
+
+Myasthenia Gravis → ↓nAChR → ↑ sensitive to Roc
+
+**Reversal Agents:**
+
+- Anticholinesterases such as neostigmine →↑ ACh at NJM → decrease time to recovery 
+- Gamma cyclodextrin (sugammadex)  → forms complex with rocuronium in plasma → concentration gradient to remove roc from NMJ
+- reversal action/effectiveness and speed of reversal dependant on depth of blockade when administered (amount of Roc at NMJ) and dose of reversal given

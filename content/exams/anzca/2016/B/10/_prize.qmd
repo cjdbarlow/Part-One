@@ -1,0 +1,66 @@
+#### List:
+
+- Summary: PC, PK, PD
+- Nicotinic
+- Muscarinic
+
+#### Summary:
+
++-----------------+------------------------------------------------------------------------------------------------------------------------------------+
+| Physicochemical | - Quaternary ammonium charged drug, doesn’t cross BBB                                                                              |
++-----------------+------------------------------------------------------------------------------------------------------------------------------------+
+| Pharmacokinetic | - 0.05mg/kg IV, ceiling 0.07mg/kg                                                                                                  |
+|                 | - Onset 3 mins, peak 10 mins, duration 30-60 mins                                                                                  |
+|                 | - 50% metabolized (PChE, CYPs)                                                                                                     |
+|                 | - 50% excreted unchanged in urine                                                                                                  |
+|                 | - t~1/2~~β~ 75 mins                                                                                                                |
++-----------------+------------------------------------------------------------------------------------------------------------------------------------+
+| Pharmacodynamic | - Mechanism:                                                                                                                       |
+|                 |   - Forms reversible carbamylate complex with esteratic site of AChE                                                               |
+|                 |   - ↑\[ACh\] at cholinergic synapses                                                                                               |
+|                 |   - Muscarinic effects at low dose, nicotinic at high dose                                                                         |
+|                 |   - (Also inhibits PChE → augment suxamethonium and mivacurium)                                                                    |
+|                 |                                                                                                                                    |
+|                 |               ![](/content/exams/anzca/2016/B/10/prize-image001.jpg){fig-alt="Cholinesterase anionic and esteratic binding sites"} |
+|                 |                                                                                                                                    |
+|                 | - Use:                                                                                                                             |
+|                 |   - Reverse non-depolarising relaxant e.g. atracurium                                                                              |
+|                 |   - Myasthaenia gravis                                                                                                             |
+|                 |   - Bladder atonia                                                                                                                 |
+|                 |   - Pseudo-obstruction                                                                                                             |
+|                 |   - Glaucoma                                                                                                                       |
++-----------------+------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Nicotinic effects:
+
++---------------+------------------------------------------------------------------------------------------------------------------+
+| Muscle type   | - ↑\[ACh\] → ↑Na^+^ influx \> K^+^ efflux = Ca^2+^ influx → end-plate potential ± action potential → contraction |
+|               | - Displace and reverse non-depolarising relaxant                                                                 |
+|               |   - Starting TOF count 3-4: adequate reversal                                                                    |
+|               |   - Starting TOF count 1-2: inadequate                                                                           |
+|               | - Augment and prolong depolarizing relaxant (↑ACh at NMJ, also inhibits PChE!)                                   |
+|               | - Weakness if high dose (ceiling 0.07mg/kg)                                                                      |
++---------------+------------------------------------------------------------------------------------------------------------------+
+| Neuronal type | - Autonomic ganglia (α~3~β~4~): stimulation then depression (see BJA-Education)                                  |
+|               | - Brain (α~4~β~2~): nil (quaternary amine, doesn’t cross BBB)                                                    |
++---------------+------------------------------------------------------------------------------------------------------------------+
+
+#### Muscarinic effects:
+
++----------------------+------------------------------------------------------------------------------------------+
+| PSNS post-ganglionic | - Receptor effects:                                                                      |
+|                      |   - M~1,3,5~: G~q~ GPCR (↑IP~3~/↑Ca^2+^, ↑DAG)                                           |
+|                      |   - M~2,4~: Gi GPCR (↓cAMP)                                                              |
+|                      | - Clinical effects:                                                                      |
+|                      |   - Bradycardia, AV block, ↓cardiac output (cardiac plexus M~2~).                        |
+|                      |   - Constriction of airway smooth muscle → obstruction (airway smooth muscle M~3~)       |
+|                      |   - ↑Tracheobronchial secretion → cough, aspiration (M~3~)                               |
+|                      |   - ↑Salivation (M~3~)                                                                   |
+|                      |   - ↑Lacrimation (M~3~)                                                                  |
+|                      |   - ↑Ureteric peristalsis → urination (treats bladder atony)                             |
+|                      |   - ↑GIT peristalsis → defecation, nausea/vomiting, abdo pain; treats pseudo-obstruction |
++----------------------+------------------------------------------------------------------------------------------+
+| SNS post-ganglionic  | - ↑Sweating                                                                              |
+|                      | - ↑Skin vasodilatation                                                                   |
+|                      | - ↑Skeletal muscle vasodilatation                                                        |
++----------------------+------------------------------------------------------------------------------------------+

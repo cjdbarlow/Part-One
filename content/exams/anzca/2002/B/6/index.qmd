@@ -1,0 +1,73 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002B Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Write brief notes**]{.task-verb} on tolerance and dependence in relation to opioid analgesics.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Write brief notes**]{.task-verb} on both concepts, beginning with definitions and then linking mechanisms and time course to clinical implications, withdrawal and management.
+
+::: {.structure-table}
+| Feature | Tolerance | Dependence |
+|---|---|---|
+| Definition and Features | | |
+| Mechanisms | | |
+| Time Course and Risk Factors | | |
+| Clinical Implications | | |
+| Management | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The key elements of a successful answer were clear definitions of each term and a discussion of their features and mechanisms. Decreased potency rather than decreased efficacy is generally seen with opioid tolerance. Many candidates described a lack of tolerance to respiratory depression when tolerance to analgesia occurs. This was in contradiction to the common finding of tolerance to analgesia, euphoria and respiratory depression being much more marked than that for constipation and pupillary constriction. While the majority highlighted the relevance of tolerance and dependence in heroin addicts few highlighted the similar importance in chronic pain patients on oral opioids. Overall those who stuck to the topic and provided brief notes on both tolerance and dependence achieved a good mark.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2002/B/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Opioid receptors and effects](/content/pharmacopoeia/analgesics/opioidspharm.qmd)
+- [Alterations in drug response](/content/pharmacology/alterations_to_response.qmd)

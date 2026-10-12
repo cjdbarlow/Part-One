@@ -1,0 +1,91 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2021A Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the respiratory responses to hypoxaemia in both the awake and anaesthetised patient.
+:::
+
+Also asked in: [2018A Question 11](/content/exams/anzca/2018/A/11/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the sensor–controller–effector response in the awake patient, using a labelled response curve. Explain carbon dioxide interactions, then show how anaesthesia changes the response at different doses and include hypoxic pulmonary vasoconstriction.
+
+::: {.structure-headings}
+### Definition and Respiratory Control Pathway
+
+### Peripheral Chemoreceptors and Rapid Response
+
+### Ventilatory Response Curve and Carbon Dioxide Interaction
+
+### Dose-Dependent Effects of Anaesthesia
+
+### Hypoxic Pulmonary Vasoconstriction and Clinical Relevance
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**62.2%** of candidates achieved a pass in this question
+
+To pass the question candidates were expected to:
+
+  - define hypoxaemia
+  - outline the components of the associated physiological control system (a brief discussion of the sensors, integrators, and effectors was considered sufficient).
+  - appreciate the relationship between respiratory drive/MV and PaO2
+  - outline hypoxic pulmonary vasoconstriction.
+  - address some of the effects of anaesthesia upon those responses.
+
+Common errors included:
+
+  - confusion between carotid bodies and sinuses, and aortic bodies and arches;
+
+No credit was awarded for discussion of cardiovascular responses, nor for describing the response to hypercapnia (other than its effect on the response to hypoxaemia.) Simply repeating information already displayed clearly in graphical form attracted no additional credit.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2018/A/11/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2018/A/11/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Control of breathing](/content/resp/breathing_control.qmd)
+- [Hypoxia](/content/resp/hypoxia.qmd)

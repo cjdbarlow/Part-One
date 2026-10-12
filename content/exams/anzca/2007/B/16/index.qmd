@@ -1,0 +1,91 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007B Question 16 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Draw and label**]{.task-verb} a lead II electrocardiogram (ECG) tracing for one cardiac cycle, indicating normal values. [**What is**]{.task-verb} the PR interval and [**what factors**]{.task-verb} influence it?
+:::
+
+Also asked in: [2019B Question 3](/content/exams/anzca/2019/B/3/index.qmd#examiner-comments), [2020B Question 2](/content/exams/anzca/2020/B/2/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Draw and label**]{.task-verb} one cardiac cycle with axes, waves, intervals and normal values. Explain [**what**]{.task-verb} the PR interval represents and show [**what factors**]{.task-verb} lengthen or shorten it, with a physiological explanation.
+
+::: {.structure-headings}
+### Lead II Tracing With Normal Values
+
+### PR Interval Definition and Physiological Basis
+
+### Autonomic Influences
+
+### Electrolytes, Temperature and Oxygenation
+
+### Drugs and Conduction System Abnormalities
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**50%** of candidates passed this question.
+
+The answer to this question should include:
+
+1) A diagram of a typical lead 2 ECG trace, with axes, and labels on P, QRS, and T waves, PR and QT intervals, and ST segments.
+2) Quantification of the normal values of duration of PR, QRS and QT interval.
+3) Definition and explanation of the significance of the PR interval – in particular the importance of the AV node.
+4) A list of factors that increased or decreased the PR interval – autonomic system, cardiac abnormalities/disease (WPW, ischaemia), drugs, other physiological derangements (hypothermia, hypokalemia)
+
+Additional marks were given for detailed description of cellular mechanisms of changes in the PR interval and an outline of the allowable normal deviation from isoelectric values of the ST segment, and size of the Q wave.
+
+Common mistakes made by the candidates included:
+
+1) Inability to quantify the time intervals. These values are essential to the clinical interpretation of the ECG for the rest of an anaesthetist’s career.
+2) Confusion of milliseconds with seconds was very common.
+3) The PR interval was not accurately described – it is from the start of the P wave to the start of the QRS complex (which is usually the Q wave, not the R wave).
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2007/B/16/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/B/16/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Electrocardiography](/content/equipment/ecg.qmd)

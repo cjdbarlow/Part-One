@@ -1,0 +1,87 @@
+#### List:
+
+- Intro: definition and significance
+- Determinants of FRC
+- Effects of 1L reduction in FRC
+
+#### Intro: functional residual capacity (FRC)
+
++------------------------------------+--------------------------------------------------------------------+
+| Definitions                        | - Volume of air in the lungs at the end of tidal expiration        |
+|                                    | - Point at which lung inward recoil = chest wall outward recoil    |
+|                                    | - Sum of residual volume + expiratory reserve volume               |
++------------------------------------+--------------------------------------------------------------------+
+| Normal                             | - Upright: 40mL/kg (\~2,800mL)                                     |
+|                                    | - Supine: 30mL/kg (\~2,100mL)                                      |
++------------------------------------+--------------------------------------------------------------------+
+| Significance of 1L decrease in FRC | - Large reduction (30-50%), close to residual volume               |
+|                                    | - From upright FRC: well tolerated                                 |
+|                                    | - From supine FRC: poorly tolerated, especially if obese, pregnant |
++------------------------------------+--------------------------------------------------------------------+
+
+#### Determinants of FRC:
+
++---------------------------+--------------------------------------------------------------------------------+
+| Absolute lung size        | - Age: adult FRC \> child                                                      |
+|                           | - Sex: male FRC \> female                                                      |
+|                           | - Height: taller FRC \> shorter                                                |
++---------------------------+--------------------------------------------------------------------------------+
+| Alveolar patency          | - Atelectasis → ↓FRC:                                                          |
+|                           |   - Obstructive: e.g. mucus plugging                                           |
+|                           |   - Compressive: e.g. pregnant → supine compression by gravid uterus           |
+|                           |   - Absorptive: e.g. 100% FiO~2~ (especially if narrowed airway)               |
+|                           | - Positive airway pressure → ↑FRC                                              |
+|                           |   - PEEP → prevent collapse, distend alveoli                                   |
+|                           |   - Recruitment manoeuvres → re-open collapsed alveoli                         |
++---------------------------+--------------------------------------------------------------------------------+
+| Lung inward recoil        | - Intrinsic elasticity: e.g. emphysema → ↑FRC (e.g. smoking, age ↑1% per year) |
+|                           | - Surfactant: e.g. premature neonate → ↑surface tension → ↓FRC                 |
++---------------------------+--------------------------------------------------------------------------------+
+| Chest wall outward recoil | - Intrinsic elasticity: e.g. neonate (cartilaginous ribs) → ↓FRC               |
+|                           | - Distortion of chest wall: e.g. pregnancy, kyphoscoliosis → ↓FRC              |
+|                           | - Diaphragm and intercostal tone: ↓FRC 15% under GA (paralysed or not)         |
+|                           | - Chest wall compression: e.g. ↓FRC supine, pregnant, obese                    |
++---------------------------+--------------------------------------------------------------------------------+
+
+#### Effects of 1L reduction in FRC:
+
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| (1)↓O~2~ Reservoir                | - ↓O~2~ for gas exchange when apnoeic (and between breaths)                                                                                                                                                                                                 |
+|                                   | - ↑Speed of desaturation                                                                                                                                                                                                                                    |
+|                                   | - At supine FRC 1.1L:                                                                                                                                                                                                                                       |
+|                                   | - Room air: reservoir 145mL, desaturation \<1 minute                                                                                                                                                                                                        |
+|                                   | - Pre-oxygenated: reservoir 955mL, desaturation \<4 minutes                                                                                                                                                                                                 |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| (2)Impaired gas exchange          | - When closing capacity \> lung volume:                                                                                                                                                                                                                     |
+|                                   | - ↓Distending transpulmonary pressure                                                                                                                                                                                                                       |
+|                                   | - ↑Airway closure and alveolar collapse                                                                                                                                                                                                                     |
+|                                   | - ↑Physiological shunt                                                                                                                                                                                                                                      |
+|                                   | - ↓PaO~2~                                                                                                                                                                                                                                                   |
+|                                   |                                                                                                                                                                                                                                                             |
+|                                   | ![](/content/exams/anzca/2001/A/8/prize-image001.jpg){fig-alt="Closing capacity and erect and supine functional residual capacity against age"}                                                                                                             |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| (3)↓Compliance                    | - ↓Static compliance: due to ↓Lung volume → ↓alveolar radius                                                                                                                                                                                                |
+|                                   |   - LaPlace’s law: tension = pressure x radius / 4                                                                                                                                                                                                          |
+|                                   | - ↓Dynamic compliance: due to re-opening of collapsed alveoli                                                                                                                                                                                               |
+|                                   |   - Starling resistor effect                                                                                                                                                                                                                                |
+|                                   | - Overall ↓compliance → ↑work of breathing                                                                                                                                                                                                                  |
+|                                   |                                                                                                                                                                                                                                                             |
+|                                   | ![](/content/exams/anzca/2001/A/8/prize-image002.jpg){fig-alt="Regional alveolar pressure–volume curves at normal lung volume"}![](/content/exams/anzca/2001/A/8/prize-image003.jpg){fig-alt="Regional alveolar pressure–volume curves at low lung volume"} |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| (4)↑Airway resistance             | - Laminar flow: R = (8 x length x viscosity) / (π x radius~4~)                                                                                                                                                                                              |
+|                                   | - Turbulent flow: (P~1~-P~2~) ∝ (length x density) / (radius^5^)                                                                                                                                                                                            |
+|                                   | - ↓Lung volume → ↓airway radius → ↑resistance                                                                                                                                                                                                               |
+|                                   | - Radius major factor, since power 4 or 5                                                                                                                                                                                                                   |
+|                                   |                                                                                                                                                                                                                                                             |
+|                                   | ![](/content/exams/anzca/2001/A/8/prize-image004.jpg){fig-alt="Airway resistance against lung volume"}                                                                                                                                                      |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| (5)↑Pulmonary vascular resistance | - Low volume: compress extra-alveolar vessel                                                                                                                                                                                                                |
+|                                   | - High volume: compress alveolar vessels                                                                                                                                                                                                                    |
+|                                   |                                                                                                                                                                                                                                                             |
+|                                   | ![](/content/exams/anzca/2001/A/8/prize-image005.jpg){fig-alt="Pulmonary vascular resistance and alveolar and extra-alveolar components against lung volume"}                                                                                               |
+|                                   |                                                                                                                                                                                                                                                             |
+|                                   | With 1L reduction in FRC:                                                                                                                                                                                                                                   |
+|                                   |                                                                                                                                                                                                                                                             |
+|                                   | - New equilibrium at reduced FRC                                                                                                                                                                                                                            |
+|                                   | - But ↓FRC → ↓all vessel radii → ↑resistance                                                                                                                                                                                                                |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+

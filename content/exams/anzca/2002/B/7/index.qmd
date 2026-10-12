@@ -1,0 +1,62 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002B Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the potential pharmacological advantages and disadvantages of intra- operative beta-blockade.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} **Potential Advantages** and **Potential Disadvantages**. [**Explain**]{.task-verb} the myocardial oxygen supply–demand effects and relate relevant drug interactions to the intraoperative setting.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**76%** of candidates passed this question, although there were few high marks achieved. Good answers included an explanation of how improved myocardial oxygen balance was achieved rather than merely mentioning the fact and distinguished between the normal heart and that with coronary artery disease. Many candidates also distinguished between the physiological explanation of how improved myocardial oxygen balance is achieved and the epidemiological studies that have shown that the theoretical advantages translate into improved outcomes in relevant patients. In general candidates were much stronger on the disadvantages of intra-operative beta-blockade than its advantages. Few candidates mentioned interactions with other aspects of anaesthesia, such as their MAC sparing effects, problems with resistance to vasopressors and their possibly masking cardiovascular signs of inadequate anaesthesia.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Beta-Blockers](/content/pharmacopoeia/cvs/beta_blockers.qmd)

@@ -1,0 +1,67 @@
+#### List:
+
+- Intro and importance
+- Metabolic pathways and key enzymes
+- Physiological response to ↓BGL
+- Clinical signs of ↓BGL
+
+#### Intro and importance:
+
+- Blood glucose level tightly controlled, normally 3-7mM
+- Hypoglyaemia \<3mM. Symptoms and signs concealed by anaesthesia.
+- Brain, RBC are reliant on glucose (brain can adapt to ketones but slowly)
+- Severe hypoglycaemia can be fatal
+
+#### Metabolic pathways and key enzymes:
+
++---------------------------+------------------------------------------------------------------------+
+| Glycolysis (GL)           | - Hexokinase                                                           |
++---------------------------+------------------------------------------------------------------------+
+| Gluconeogenesis (GNG)     | - From pyruvate, lactate, fructose, amino acids, glycerol              |
+|                           | - Note glucose 6 phosphatase mainly expressed in liver \> renal cortex |
++---------------------------+------------------------------------------------------------------------+
+| Glycogenolysis (GGL)      | - Glycogen phosphorylase                                               |
++---------------------------+------------------------------------------------------------------------+
+| Glycogenesis (GG)         | - Glycogen synthase                                                    |
++---------------------------+------------------------------------------------------------------------+
+| Lipolysis (LL)            | - Hormone-sensitive lipase                                             |
++---------------------------+------------------------------------------------------------------------+
+| De novo lipogenesis (DNL) | - Lipoprotein lipase, acetyl-CoA carboxylase, fatty acid synthase      |
++---------------------------+------------------------------------------------------------------------+
+| Ketogenesis (KG)          | - Acetyl-CoA thiolase                                                  |
++---------------------------+------------------------------------------------------------------------+
+
+#### Physiological effects of hypoglycaemia:
+
++-----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Endocrine       | - ↓Insulin and ↑glucagon                                                                                                                                                                                                                                                                     |
+|                 | - ↑Cortisol (anterior pituitary → adrenal cortex)                                                                                                                                                                                                                                            |
+|                 | - ↑Growth hormone (anterior pituitary)                                                                                                                                                                                                                                                       |
+|                 | - ↑Catecholamines (adrenal medulla)                                                                                                                                                                                                                                                          |
++-----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Liver           | - ↑GNG, ↓GL                                                                                                                                                                                                                                                                                  |
+|                 | - ↑GGL, ↓GG                                                                                                                                                                                                                                                                                  |
+|                 | - ↑LL, ↓DNL                                                                                                                                                                                                                                                                                  |
++-----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Skeletal muscle | - ↓GL                                                                                                                                                                                                                                                                                        |
+|                 | - ↑GGL, ↓GGL                                                                                                                                                                                                                                                                                 |
+|                 | - No direct GNG (lacks glucose 6 phosphatase)                                                                                                                                                                                                                                                |
+|                 | - ↑Proteolysis → hepatic GNG via Cori cycle and glucose-alanine cycle                                                                                                                                                                                                                        |
+|                 |                                                                                                                                                                                                                                                                                              |
+|                 | ![](/content/exams/anzca/2006/B/16/prize-image001.jpg){fig-alt="Cori cycle linking muscle lactate production to hepatic gluconeogenesis"}![](/content/exams/anzca/2006/B/16/prize-image002.jpg){fig-alt="Glucose–alanine cycle linking muscle protein breakdown to hepatic gluconeogenesis"} |
++-----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Adipose         | - ↓Glucose uptake for glycerol                                                                                                                                                                                                                                                               |
+|                 | - ↑LL, ↓DNL                                                                                                                                                                                                                                                                                  |
++-----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Clinical signs:
+
++------------------------------+----------------------------------------------+
+| Of hypoglycaemia             | - Weakness, hunger, agitation                |
+|                              | - Confusion, coma, death                     |
++------------------------------+----------------------------------------------+
+| Of sympathetic hyperactivity | - CVS: ↑HR (β~1~), ↑BP (CO: β~1~, TPR: α~1~) |
+|                              | - Musculoskeletal: tremor (β~2~)             |
+|                              | - Skin: sweating (mAChR), pallor (α~1~)      |
+|                              | - Eyes: pupil dilatation (α~1~)              |
++------------------------------+----------------------------------------------+

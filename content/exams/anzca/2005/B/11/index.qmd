@@ -1,0 +1,67 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005B Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the principles of compatibility testing of blood for transfusion.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} **ABO Testing**, **Rh and Other Antibody Testing**, and **Cross-Matching**. Link the antigen–antibody principles to each testing stage and the consequences of incompatible transfusion.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**75 %** of candidates passed this question.
+
+The core components expected in the answer were the principles of ABO, Rh and other antibody testing and the cross-match process. This was well handled by most candidates. Extra marks were awarded for detailed description of the ABO antigens, discussion of the biological basis for the development of anti-A and anti-B antibodies, description of the adverse effects of incompatible transfusion, recognition of the clinical significance of Rh (D) antibody generation in Rh- negative patients and a detailed description of the cross-match process.
+
+The commonest source of confusion related to the cross-match process. Although many candidates were able to give a good description of the indirect Coombs test for antibody compatibility, relatively few candidates recognized that the first stage of the cross-match process (at room temperature) was mainly a further check of ABO compatibility and that the indirect Coombs test was only performed if the recipient had a positive antibody screen.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Blood Groups](/content/haeme/transfusion.qmd)
+- [Transfusion Reactions](/content/haeme/transfusion_reactions.qmd)

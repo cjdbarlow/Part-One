@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015A Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the protective and regulatory functions of the liver.
+:::
+
+Also asked in: [2008B Question 12](/content/exams/anzca/2008/B/12/index.qmd#examiner-comments), [2012B Question 14](/content/exams/anzca/2012/B/14/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Detail**]{.task-verb} or [**outline**]{.task-verb} protective and regulatory roles in separate sections. Explain the liver’s position between portal and systemic circulation, connecting immune and detoxifying processes to protection and metabolic control to nutrient levels and other homeostatic functions.
+
+::: {.structure-headings}
+### Portal Interface and Protective Role
+
+### Innate and Adaptive Immune Functions
+
+### Detoxification and Drug Handling
+
+### Glucose and Macronutrient Regulation
+
+### Protein, Blood Volume and Other Regulatory Functions
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**70.8%** of candidates achieved a pass in this question
+
+This question is a repeat question, being asked in the July/September 2008 examination (when the pass mark rate was 32%) , and that examination report a provides detailed guide to the question.
+
+Common issues included just listing the functions of the liver, the omission of the role of the liver in ammonia metabolism, and confusion regarding the liver and immunoglobulins.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2008/B/12/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2008/B/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Liver function](/content/git/liver_function.qmd)

@@ -1,0 +1,96 @@
+#### List:
+
+- Nociceptive receptor
+- Primary afferent
+- Secondary afferent and tracts
+- Tertiary afferent and above
+- Descending modulation
+
+#### Nociceptive receptor:
+
++--------------+-------------------------------------------------------------------------------+
+| Physiology   | - Free nerve ending on 1° afferent in periphery                               |
+|              | - Activated by mechanical, thermal, chemical insults                          |
+|              | - Sensitised by inflammation                                                  |
+|              | - Ionotropic and metabotropic                                                 |
++--------------+-------------------------------------------------------------------------------+
+| Pharmacology | - Local anaesthetic (LA): inhibits VDNaC                                      |
+|              | - NSAID: inhibits prostaglandin-induced receptor sensitisation and activation |
++--------------+-------------------------------------------------------------------------------+
+
+#### Primary afferent (nociceptor):
+
++--------------+------------------------------------------------------------------------+
+| Physiology   | - From periphery → dorsal horn, with cell body in dorsal root ganglion |
+|              | - Ascent or descent 1-2 levels via Lissauer’s tract                    |
+|              |                                                                        |
+|              | **Aδ fibre:**                                                          |
+|              |                                                                        |
+|              | - Releases glutamate                                                   |
+|              | - Synapse at superficial layers.                                       |
+|              | - Sharp, fast, well localized (i.e. somatic pain)                      |
+|              |                                                                        |
+|              | **C fibre:**                                                           |
+|              |                                                                        |
+|              | - Releases glutamate, substance P                                      |
+|              | - Synapse at deeper layers.                                            |
+|              | - Dull, slow, poorly localized (i.e. visceral pain)                    |
+|              |                                                                        |
+|              | **Silent nociceptor:**                                                 |
+|              |                                                                        |
+|              | Conveys pain only when sensitized                                      |
++--------------+------------------------------------------------------------------------+
+| Pharmacology | **Pre-synaptic inhibition:**                                           |
+|              |                                                                        |
+|              | - Neuraxial LA: VdNaC at dorsal root ganglion, spinal nerve root       |
+|              | - Opioid                                                               |
+|              | - Noradrenaline and serotonin reuptake inihbitors                      |
+|              | - Gabapentinoids: antagonists at synaptic VdCC α2δ subunit             |
+|              | - Cannabinoids: at own receptor                                        |
+|              |                                                                        |
+|              | **Other:**                                                             |
+|              |                                                                        |
+|              | - Paracetamol: inhibits bradykinin-sensitive nociceptors               |
+|              | - Regional LA (nerve, plexus): inhibits axonal VDNaC                   |
++--------------+------------------------------------------------------------------------+
+
+#### Secondary afferent and tracts:
+
++--------------------+---------------------------------------------------------------------------+
+| Physiology: cell   | - Nociceptive-specific: superficial layers, variable threshold            |
+|                    | - Wide dynamic range: deeper layers, high threshold, only when sensitized |
+|                    | - Note also interneurons: excitatory and inhibitory                       |
+|                    | - Note inhibitory afferents: e.g. Aβ conveying light touch                |
++--------------------+---------------------------------------------------------------------------+
+| Physiology: tracts | - Decussation in anterior commissure                                      |
+|                    | - Ascent in spinothalamic tracts                                          |
+|                    |   - Neo-STT: to thalamus (VPL nucleus)                                    |
+|                    |   - Paleo-/archi-STT: to brainstem                                        |
++--------------------+---------------------------------------------------------------------------+
+| Pharmacology       | - Post-synaptic inhibition:                                               |
+|                    |   - NMDA antagonist: ketamine, N~2~O, Xe, Mg^2+^, tramadol, methadone     |
++--------------------+---------------------------------------------------------------------------+
+
+#### Tertiary afferents and above
+
++--------------+------------------------------------------------------------------------------+
+| Physiology:  | - VPL thalamus → primary somatosensory cortex (localisation)                 |
+|              | - Brainstem → medial thalamus, hypothalamus, amygdala (affective, autonomic) |
++--------------+------------------------------------------------------------------------------+
+| Pharmacology | - NMDA antagonist (as above) → thalamocortical dissociation                  |
+|              | - Paracetamol: COX-3 inhibition                                              |
+|              | - General anaesthetics: inhibit brainstem ARAS → no perception               |
++--------------+------------------------------------------------------------------------------+
+
+#### Descending modulation:
+
++--------------+------------------------------------------------------------------------------+
+| Physiology   | - Pathway: PAG or RVM → dorsal horn via Lissauer’s tract                     |
+|              | - Mediators: noradrenaline → serotonin                                       |
+|              | - Effect: inhibit 1° afferent (pre-synaptic) and 2° afferent (post-synaptic) |
++--------------+------------------------------------------------------------------------------+
+| Pharmacology | - Opioids: ↓activity of OFF cell → ↓Inhibition of ON cell                    |
+|              | - Noradrenaline reuptake inhibition: ketamine, tramadol, tapentadol, NRI     |
+|              | - Serotonin reuptake inhibition: tramadol, SSRI                              |
+|              | - Dorsal horn α~2~ agonism: clonidine, dexmedetomidine                       |
++--------------+------------------------------------------------------------------------------+

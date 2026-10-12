@@ -1,0 +1,74 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009B Question 16 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the gastric cell types and their secretions and the functions of these secretions.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} the gastric cell types in a table pairing each with its secretion and the function of that secretion.
+
+::: {.structure-table}
+| Gastric Cell Type | Secretion | Function |
+|---|---|---|
+| | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**72%** of candidates passed this question.
+
+In general this was quite well answered. Many candidates had well structured answers which enabled easy marking.
+
+Candidates who did poorly were less organised and many candidates confused the secretions and the cells which decreased their overall score.
+
+Some candidates did not answer all parts of the question and this was reflected in their mark. Other poor strategies included writing detail which was not required and repeating the same statements.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Gastric Secretions](/content/git/secretions.qmd)

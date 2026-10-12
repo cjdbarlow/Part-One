@@ -1,0 +1,44 @@
+**Cardiovascular effects of Suxamethonium**
+
+Suxamethonium may produce a wide range of cardiovascular effects:
+
+1.  **Bradyarrhythmia’s **
+
+    Includes sinus bradycardia, junctional rhythm or sinus arrest
+
+    Mechanism: Sux mimics the normal physiological effects of ACh → agonist at cardiac M2 acetylcholine receptor → activate Gi →↓cAMP →  ↓chronotropy and ↓dromotropy
+
+    This is frequently observed in children, as well as in adults following repeated doses of sux
+
+2.  **Tachyarrhythmias**
+
+    Including sinus tachycardia and ventricular tachyarrhythmias
+
+    Mechanism: Suxamethonium mimics the normal physiological effects of ACh → agonism at
+
+    autonomic ganglion →↑sympathetic tone
+
+3.  **Anaphylaxis**
+
+    Suxamethonium one of the most common anaesthetic drugs to cause anaphylaxis. ** **
+
+    Mechanism: IgE mediated immediate hypersensitive → mast cell and basophil degranulation → histamine, leukotrienes and prostaglandin release  → vasodilation and cardiovascular collapse 
+
+4.  **Hyperkalaemia**
+
+    Mechanism Suxamethonium NMJ nAChR agonism → Na^+^ influx, K^+^ efflux →  ↑ plasma K^+^
+
+    ↑ Plasma K+ → cardiac resting membrane potential to become less negative →↑ rate of ectopics and arrhythmias 
+
+**Cardiovascular effects of non-depolarising neuromuscular blockers**
+
+Bradyarrhythmia’s:
+
+- Pancuroium can act as an antagonist at M2 receptor → tachycardia 
+- Vecuronium  can acta as an agonist at M2 receptor → bradycardia
+
+**Non-immune mediated Histamine release**
+
+Atracurium and Mivacurium can cause direct effect on mast cells → histamine release → H1 agonism → vasodilation  
+
+All NDMR may cause anaphylaxis, ↑ rate with rocuronium in Australia possibly secondary to cross reactivity with pholcodine

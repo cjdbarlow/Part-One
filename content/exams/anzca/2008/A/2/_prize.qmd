@@ -1,0 +1,33 @@
++-------------------------------+---------------------+-------------------------------+---------------------------------------------------------------+
+| **Group**                     | **Drug**            | **Site of action**            | **Mechanism of action**                                       |
++===============================+=====================+===============================+===============================================================+
+| Osmotic diuretic\             | Mannitol            | Whole nephron                 | ↓Passive reabsorption of water                                |
+| (can be profound)             |                     |                               |                                                               |
++-------------------------------+---------------------+-------------------------------+---------------------------------------------------------------+
+| Carbonic anhydrase inhibitor  | Acetazolamide       | Proximal tubule               | ↓Na^+^/H^+^ antiport activity                                 |
+|                               |                     |                               |                                                               |
+|                               |                     |                               | ↓HCO~3~^-^ reabsorption, NAGMA                                |
++-------------------------------+---------------------+-------------------------------+---------------------------------------------------------------+
+| Loop diuretic                 | Frusemide           | Thick ascending loop of Henle | Inhibit apical Na^+^K^+^2Cl^-^ symporter                      |
+|                               |                     |                               |                                                               |
+| (MOST POTENT)                 | Bumetanide          |                               | (Compensatory ↑Na^+^/K^+^ antiport in distal nephron → ↓K^+^) |
++-------------------------------+---------------------+-------------------------------+---------------------------------------------------------------+
+| Thiazide                      | Hydrochlorothiazide | Distal convoluted tubule      | Inhibit DT Na^+^/Cl^-^ symporter                              |
+|                               |                     |                               |                                                               |
+|                               | Bendoflumethiazide  |                               | (Compensatory ↑Na^+^/K^+^ antiport in distal nephron → ↓K^+^) |
++-------------------------------+---------------------+-------------------------------+---------------------------------------------------------------+
+| MRA “K^+^ sparing”            | Spironolactone      | Connecting tubule             | Inhibit mineralocorticoid receptor                            |
+|                               |                     |                               |                                                               |
+|                               | Eplerenone          | Collecting ducts              | Principal cell:                                               |
+|                               |                     |                               |                                                               |
+|                               |                     |                               | - ↓Activity basolateral Na^+^K^+^ATPase                       |
+|                               |                     |                               | - ↓Activity apical ENaC and ROMK                              |
+|                               |                     |                               |                                                               |
+|                               |                     |                               | Type A intercalated cell:                                     |
+|                               |                     |                               |                                                               |
+|                               |                     |                               | - ↓Activity apical H^+^ ATPase                                |
++-------------------------------+---------------------+-------------------------------+---------------------------------------------------------------+
+| ENaC inhibitor “K^+^ sparing” | Amiloride           | Connecting tubule             | Inhibit ENaC                                                  |
+|                               |                     |                               |                                                               |
+|                               | Triamterene         | Collecting ducts              |                                                               |
++-------------------------------+---------------------+-------------------------------+---------------------------------------------------------------+

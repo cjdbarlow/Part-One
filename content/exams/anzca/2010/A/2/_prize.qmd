@@ -1,0 +1,110 @@
+#### List:
+
+- Intro: rationale and methods
+- Tests for non-depolarisers
+- Tests for depolarisers
+- Muscle location comparison
+- Drug type comparison
+
+#### Intro:
+
++--------------------+-----------------------------------------------------------------------------------+
+| Rationale          | - Residual neuromuscular blockade common in PACU                                  |
+|                    | - Risks: distress, injury, resp failure, aspiration                               |
+|                    | - Hence nerve stimulator test essential for every relaxant GA                     |
++--------------------+-----------------------------------------------------------------------------------+
+| Accelero-myography | - Negative electrode over nerve e.g. ulnar at wrist crease                        |
+|                    | - Positive electrode away from muscle e.g. forearm                                |
+|                    | - Accelerometer moves due to muscle contraction e.g. thumb                        |
+|                    | - Twitch strength ∝ acceleration ∝ potential difference                           |
+|                    | - Always supramaximal stimulus e.g. 60-80mA to ensure all motor units depolarized |
+|                    | - Most common in anaesthesia                                                      |
+|                    | - Ideal for train-of-four, post-tetanic count                                     |
+|                    | - Unable to monitor tetanus or double-burst stimulation                           |
++--------------------+-----------------------------------------------------------------------------------+
+| Other methods      | - Mechanomyography                                                                |
+|                    | - Electromyography                                                                |
+|                    | - Observation or palpation                                                        |
+|                    | - Clinical examination                                                            |
++--------------------+-----------------------------------------------------------------------------------+
+
+#### Test types: non-depolarising blockade
+
++--------------------------+------------------------------------------------------------------------------------------------+
+| Single twitch            | - Single supramax stimulus                                                                     |
+|                          | - Magnitude measured by AMG or MMG                                                             |
+|                          | - No ↓magnitude until 75% receptor occupancy                                                   |
+|                          |   - Only a small number of receptors are required for summation of MEPP to AP                  |
+|                          | - Pros: simple, better tolerated in awake patient.                                             |
+|                          | - Cons: baseline calibration needed. Requires AMG. Less sensitive than TOF.                    |
++--------------------------+------------------------------------------------------------------------------------------------+
+| Double burst             | - Two bursts separated by 0.75 second                                                          |
+|                          | - Each burst: 3 x 0.2msec at 50Hz                                                              |
+|                          | - Assess magnitude second : magnitude first                                                    |
+|                          | - Pros: more sensitive for manual/visual detection of residual blockade; no baseline needed.   |
+|                          | - Cons: no more accurate than TOF when mechanically assessed; less accurate than TOF with AMG. |
++--------------------------+------------------------------------------------------------------------------------------------+
+| Train of four            | - Four supramaximal stimuli 0.2msec long, 2Hz                                                  |
+|                          | - ≥10 seconds between trains                                                                   |
+| (TOF)                    | - Use AMG.                                                                                     |
+|                          | - TOF count: number of twitches 1-4                                                            |
+|                          |   - 3 at 90% occupancy = reversal possible                                                     |
+|                          |   - 0-1 at 95%                                                                                 |
+|                          | - TOF ratio: height T4:T1                                                                      |
+|                          |   - 1.0 until 70% occupancy                                                                    |
+|                          |   - 0.5 at 80%                                                                                 |
+|                          |   - e.g. TOF ratio ≥0.9 indicates adequate reversal                                            |
+|                          | - Pros: no baseline needed\*                                                                   |
+|                          |   - But normal TOF ratio can be \>1 due to facilitation!                                       |
+|                          |   - Hence should calibrate post-induction, pre-paralysis                                       |
+|                          | - Cons: manual/visual assessment inaccurate. Need monitor and accelerometer.                   |
++--------------------------+------------------------------------------------------------------------------------------------+
+| Tetany                   | - e.g. 0.2msec 50Hz for 5 seconds                                                              |
+|                          | - Fade ∝ blockade                                                                              |
+|                          | - Pros: most sensitive of all.                                                                 |
+|                          | - Cons: painful++ in awake patient. Quantitative assessment rarely available.                  |
++--------------------------+------------------------------------------------------------------------------------------------+
+| Post-tetanic count (PTC) | - 5 seconds 0.2msec 50Hz, 3 second gap, supramaximal stimuli at 1Hz                            |
+|                          | - Number of twitches ∝ 1/depth                                                                 |
+|                          | - Use AMG.                                                                                     |
+|                          | - PTC 9: TOF count 1                                                                           |
+|                          | - PTC 5: 10 minutes to TOF count 1                                                             |
+|                          | - PTC 2: 20 minutes to TOF count 1                                                             |
+|                          | - TOF count 1 ≈ PTC 9                                                                          |
+|                          | - Pros: assess blockade at profound depth, when TOF count = 0, occupancy \>95%                 |
+|                          | - Cons: post-tetanic facilitation for 6mins after tetany → falsely strong                      |
++--------------------------+------------------------------------------------------------------------------------------------+
+| Clinical tests           | - e.g. head lift 5 seconds, poke out tongue, grip strength                                     |
+|                          | - Pro: no equipment, easy                                                                      |
+|                          | - Con: no guarantee safe TOF ratio!                                                            |
++--------------------------+------------------------------------------------------------------------------------------------+
+
+#### Test types: depolarizing blockade
+
++---------------+---------------------------+
+| Single twitch | - Needs prior calibration |
+|               | - Other methods: e.g. EMG |
++---------------+---------------------------+
+
+#### Muscle location comparison:
+
+                        **Diaphragm, larynx**   **Orbicularis oculi, pharynx**   **Adductor pollicis**
+  --------------------- ----------------------- -------------------------------- -----------------------
+  Blood flow rate       Higher                  Higher                           Lower
+  ACh vesicle release   Higher                  Lower                            Lower
+  ACh receptor number   Higher                  Lower                            Lower
+  Rate of onset         Faster                  Faster                           Slower
+  Max depth             Lesser                  Greater                          Greater
+  Rate of recovery      Faster                  Faster                           Slower
+
+#### Drug type comparison:
+
+                              **Partial depolarising phase 1**   **Depolarising phase 2**   **Partial non-depolarising**
+  --------------------------- ---------------------------------- -------------------------- ------------------------------
+  Single twitch height        ↓                                  ↓                          ↓
+  TOF ratio                   \>0.7                              \<0.7                      \<0.7
+  Response to tetany          Sustained                          Fade                       Fade
+  Post-tetanic facilitation   N                                  Y                          Y
+  Add depolarizing            Augment                            Antagonise                 Antagonise
+  Add non-depolarising        Antagonise                         Augment                    Augment
+  Add neostigmine             Augment                            Antagonise                 Antagonise

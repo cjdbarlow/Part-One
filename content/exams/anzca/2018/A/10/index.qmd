@@ -1,0 +1,86 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018A Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the determinants of left ventricular myocardial oxygen supply and demand.
+:::
+
+Also asked in: [2017B Question 13](/content/exams/anzca/2017/B/13/index.qmd#examiner-comments), [2020B Question 5](/content/exams/anzca/2020/B/5/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} supply and demand in balanced sections. Use relevant equations to organise coronary flow, oxygen content and myocardial work, and explain how heart rate affects both sides of the balance.
+
+::: {.structure-headings}
+### Oxygen Supply: Coronary Flow and Oxygen Content
+
+### Coronary Perfusion Through the Cardiac Cycle
+
+### Coronary Vascular Resistance and Regulation
+
+### Oxygen Demand: Heart Rate, Contractility and Wall Tension
+
+### Supply–Demand Balance
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**58%** of candidates achieved a pass in this question
+
+Most candidates were able to apply the hydraulic analogue of Ohms law to define coronary blood flow as coronary perfusion pressure over coronary vascular resistance.
+
+Better answers correctly explained the factors involved in oxygen supply including normal resting left coronary blood flow, oxygen content of blood, oxygen extraction ratio of left ventricle and its implications, phasic blood flow in the LV myocardium (including an adequate explanation why), coronary vascular resistance and autoregulation (listing all of the factors affecting this).
+
+Information about oxygen demand needed to include a discussion of the role of heart rate (and its effects on supply and demand), myocardial contractility, preload and afterload. Better candidates were able to correctly apply LaPlace’s law to the left ventricle to discuss the relationship of wall tension to LV afterload and oxygen demand. Only a few candidates discussed the concept of cardiac work and applied that to myocardial oxygen consumption. Extra marks were given for discussing the relative importance of ‘pressure work’ vs ‘volume work’.
+
+A diagram was a useful way to present the information – but this needed to be accompanied by short notes to provide an adequate explanation.
+
+Common errors: Incorrect graphs of coronary blood flow vs time. Neglecting to discuss the oxygen content of blood. Incorrectly defining and applying the Law of LaPlace and confusing the terms tension/pressure/afterload. Many candidates provided reasonable information about oxygen supply but then had poor descriptions of the factors affecting oxygen demand with few explaining why increasing heart rate, contractility or afterload caused an increase in oxygen consumption.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2017/B/13/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2017/B/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Myocardial oxygen supply and demand](/content/cvs/myocardial_oxygen.qmd)

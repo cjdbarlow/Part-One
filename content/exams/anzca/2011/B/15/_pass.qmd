@@ -1,0 +1,69 @@
+- Normal urinary production is approx.: 0.5-1ml/kg/hr. 
+- Oliguria is the production of less than 0.5ml/kg/hr.
+
+Urine formation and concentration is a product of filtrate production and reabsorption.
+
+Intraoperative oliguria may result in an otherwise healthy person through:
+
+- Reduction in filtrate formation 
+- Increased Filtrate reabsorption mechanisms
+
+**Mechanism of Filtrate Formation:**
+
+Filtrate production is a result of GFR and Renal Blood Flow 
+
+GFR normally 125ml/min 
+
+**GFR** = NFP x Kf
+
+Kf = filtration coefficient = capillary permeability and membrane surface area, designated Kf
+
+NFP = balance of starling forces across the glomerular membrane
+
+= Capillary Hydrostatic Pressure - Capsular hydrostatic pressure - Capillary Oncotic Pressure 
+
+(Protein not normally filtered) 
+
+**Renal blood flow** = Renal perfusion pressure (mAP-CVP) / Renal vascular resistance 
+
+- Renal Blood flow is usually 1l/min / 20% of cardiac output 
+- Renal blood flow is auto regulated between mAP 65-165mmHg 
+
+**Regulation of RBF and GFR **
+
+Generally auto-regulated between mAP 65-165mmHg
+
+- **Myogenic Mechanism**: stretch receptors in the afferent arteriole respond to changes in perfusion pressure by dilating / constricting to maintain a relatively constant blood flow. 
+- **Tubuloglomerular feedback**: ↓Filtrate flow →↓Na at the Macula Densa →↓adenosine release → dilation of afferent arteriole + ↑Renin release → RAAS pathway
+- **Neuronal Control:  **NA release  → 
+  - stimulation of B1 receptors at the juxtaglomerular apparatus → renin release → RAAS Pathway 
+  - stimulation of a1 receptors → arteriole constriction →↓ GFR
+- **Hormonal  Control:**  RAAS pathway:
+  - Renin converts Angiotensinogen → Angiotensin I, converted by ACE) → Angiotensin II which has the following effects:
+    - ↑ADH release → V1 agonism → potent vasoconstriction; V2 Agonism →↑ water reabsorption →↑ mAP 
+    - ↑ Aldosterone release →↑Na/H2O reabsorption →↑intravascular volume 
+    -  Efferent and afferent arteriolar vasoconstriction 
+    - ↑SNS activity →Vascular constriction →↓RBF
+    - ↓filtration coefficient (Kf) 
+
+**Factors decreasing filtration:**
+
+↓ Renal blood flow due to: 
+
+- ↓mAP: Anaesthetic agents and regional anaesthetic techniques →↓SVR +/- ↓CO
+- ↑CVP: Invasive ventilation and PEEP →↓Renal perfusion pressure + ↓preload 
+- ↑Renal vascular resistance: due to activation of above auto regulation mechanisms, neuronal and hormonal control mechanisms
+
+**Reabsorption Of Filtrate**
+
+Filtrate reabsorption is primarily performed automatically, with urine volume and concentration adjusted through changes in reabsorption in the DCT and collecting system → formation of dilute or concentrated urine is based on aldosterone and ADH 
+
+- ADH released from the posterior pituitary → V2 receptors in the \\ in the collecting duct → aquaporin molecule insertion → increased filtrate reabsorption / formation of concentrated urine
+
+→↑ Aldosterone → increased Na/H2O reabsorption from DCT 
+
+**Factors increasing Reabsorption: **
+
+Preoperative fasting/↑ fluid losses →↑ADH →  ↓urine volume ↑Urine osmolality
+
+Activation of auto-regulative RAAS pathway →↑Aldosterone →↑Sodium and H2O Reabsorption → decreased urine production

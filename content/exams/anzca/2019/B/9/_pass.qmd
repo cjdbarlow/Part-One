@@ -1,0 +1,50 @@
+Ropivacaine and lignocaine are amide local anaesthetic drugs.
+
+Mechanism of action:
+
+- Unionised LA diffuse across the phospholipid membrane → enter axoplasm →  where ↓pH results in ↑%ionisation
+- Ionised LA binds to Na2+ channels and maintains them in-inactivated state → inhibition of depolarisation 
+
+**Factors that affect the speed of onset**
+
+Onset of action depends on rate of diffusion of LA from site of injection to within target nerve fibre
+
+Governed Fick’s law of diffusion:
+
+(ΔP x A x k) / T
+
+k=sq(sol/MW) 
+
+- ↑ Concentration → ↑ΔP → ↑rate of onset 
+- ↑Volume  → ↑ Area → ↑rate of onset
+- ↓thickness / Diffusion distance by injecting closer to site of action → ↑rate of onset
+
+**Drug Factors:**
+
+**pKa**
+
+pKa is the pH at which 50% of a drug is ionised, as only unionised drug can pass through the phospholipid membrane, ↓ ionisation at physiological pH → ↑ΔP  → more rapid onset.
+
+Lignocaine pKa = 7.9 (25% unionised at pH7.4)
+
+Ropivacaine pKa = 8.1 (15% unionised at pH7.4)
+
+**Lipid Solubility **
+
+↑lipid solubility → ↑Potency → ↓dose used → ↓ onset  ↑diffusion → faster onset
+
+Lipid solubility Ropivacaine \> Lignocaine
+
+**Protein Binding** 
+
+↑protein binding → longer duration of action 
+
+Ropivacaine \> Lignocaine 
+
+**Patient Factors**
+
+Tissue pH → ↓pH → ↑ionisation → slower onset 
+
+↑Nerve diameter → slower onset 
+
+Site of administration, ↑ regional blood flow → increased systemic absorption → ↓duration of action

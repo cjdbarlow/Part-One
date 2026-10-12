@@ -1,0 +1,112 @@
+#### List:
+
+- Determinants of LAST
+- Amide thresholds
+- CNS toxicity
+- CVS toxicity
+- Localised toxicity
+- Other
+
+#### Determinants of local anaesthetic toxicity (LAST):
+
++----------------------------+---------------------------------------------------------------------+
+| ↑Drug potency              | - ∝ Lipid solubility (i.e. bupivacaine \>\> lignocaine)             |
++----------------------------+---------------------------------------------------------------------+
+| ↑Peak plasma concentration | Main factors:                                                       |
+|                            |                                                                     |
+|                            | - ↑Dose                                                             |
+|                            | - ↑Rate of administration (bolus cf. infusion)                      |
+|                            | - ↑Absorption rate (e.g. trachea, intercostal space)                |
+|                            | - ↓Metabolism rate (e.g. bupivacaine cf. lignocaine; liver disease) |
++----------------------------+---------------------------------------------------------------------+
+| ↑CNS susceptibility        | - Pregnancy → ↑sensitivity                                          |
+|                            | - Altered seizure threshold: epilepsy                               |
+|                            | - Drug interactions: tramadol, cocaine, class 1 antiarrhythmics     |
+|                            | - ↑PaCO~2~ (↑CBF), ↓PaO~2~, ↓pH                                     |
++----------------------------+---------------------------------------------------------------------+
+| ↑CVS susceptibility        | - Cardiovascular disease e.g. ischaemia                             |
+|                            | - Drug interactions: class 1 antiarrhythmics                        |
+|                            | - ↑Heart rate → ↑channel cycling rate                               |
+|                            | - ↓PaO~2~, ↓pH, ↑K^+^                                               |
++----------------------------+---------------------------------------------------------------------+
+| ↓CC:CNS ratio              | - Dynamics: ↑Cardiac:CNS isoform affinity ratio for VDNaC           |
+|                            |   - e.g. D-bupiv \> L-bupiv                                         |
+| (safety margin)            | - Kinetics (e.g. ↓lipid solubility): less important                 |
++----------------------------+---------------------------------------------------------------------+
+
+#### Amide thresholds:
+
+                **Threshold**   **CC:CNS ratio**
+  ------------- --------------- ------------------
+  Lignocaine    5mcg/mL         7:1
+  Ropivacaine   4mcg/mL         5:1
+  Bupivacaine   1.5mcg/mL       3:1
+
+#### LAST: central nervous effects
+
++-----------+---------------------------------------------------------------------------------------------+
+| Mechanism | - Inhibition of neuronal VDNaC                                                              |
++-----------+---------------------------------------------------------------------------------------------+
+| Effects   | - Initial excitatory effects                                                                |
+|           |   - Inhibition of inhibitory interneurons                                                   |
+|           |   - Peri-oral tingling, tinnitus, vertigo, slurred speech, inattention, twitching, seizures |
+|           | - Then inhibitory effects                                                                   |
+|           |   - Inhibition of excitatory interneurons and others                                        |
+|           |   - Coma, apnoea                                                                            |
++-----------+---------------------------------------------------------------------------------------------+
+
+#### LAST: cardiovascular effects
+
++-----------+-----------------------------------------------------------------------------------+
+| Mechanism | - Inhibition of cardiac VDNaC (very high affinity)                                |
+|           | - Inhibition of VDKC and VDCC (lower affinity)                                    |
+|           | - ?↓cAMP                                                                          |
++-----------+-----------------------------------------------------------------------------------+
+| Effects   | - First phase: ↑HR, ↑mAP                                                          |
+|           | - Second phase: myocardial depression, ↓mAP                                       |
+|           | - Terminal phase: peripheral vasodilatation, ↓↓mAP, re-entrant arrhythmia, arrest |
++-----------+-----------------------------------------------------------------------------------+
+| ECG       | - “As if being pulled apart” ↑QT~C~, ↑QRS duration                                |
+|           | - Arrhythmias: sinus bradycardia, AV block, ventricular tachyarrhythmia, asystole |
++-----------+-----------------------------------------------------------------------------------+
+
+#### Localised toxicity:
+
++---------------------------------+-------------------------------------------------------------------+
+| Transient neurological symptoms | - Associated with intrathecal lignocaine                          |
+|                                 | - Moderate to severe pain in buttocks and thighs                  |
+|                                 | - No objective neurological deficit                               |
+|                                 | - Onset: within 36 hours of complete recovery                     |
+|                                 | - Offset: 1-7 days                                                |
++---------------------------------+-------------------------------------------------------------------+
+| Neurotoxicity                   | - Intra-neural injection                                          |
+|                                 | - Intrathecal injection → cauda equina syndrome to varying degree |
+|                                 | - Cause: ? ↑ICF \[Ca^2+^\]                                        |
++---------------------------------+-------------------------------------------------------------------+
+| Anterior spinal artery syndrome | - Lower limb paralysis                                            |
+|                                 | - Cause: ? thrombosis ?spasm ? hypotension ? vasoconstrictor      |
++---------------------------------+-------------------------------------------------------------------+
+| Total spinal anaesthesia        | - If ↑↑ intrathecal dose                                          |
+|                                 | - Unconsciousness, apnoea, ↓↓mAP                                  |
++---------------------------------+-------------------------------------------------------------------+
+
+#### Other:
+
++------------------------+-------------------------------------------------------------------------------------------------------------+
+| Hypersensitivity       | - PABA metabolite of ester local anaesthetics                                                               |
+|                        | - Sodium metabisulfite                                                                                      |
++------------------------+-------------------------------------------------------------------------------------------------------------+
+| Methaemo-globinaemia   | - Hb with Fe^3+^ is unable to bind O~2~ or CO~2~                                                            |
+|                        | - Risk factors: dose \>600mg, neonate (↓reductase activity)                                                 |
+|                        | - Rx: methylene blue 1-2mg/kg IV over 5 mins                                                                |
++------------------------+-------------------------------------------------------------------------------------------------------------+
+| Cocaine toxicity       | - CVS: noradrenaline reuptake inhibition → ↑ICF Ca^2+^ → arrhythmias, coronary artery vasospasm → ischaemia |
+|                        | - CNS: dopamine and noradrenaline reuptake inhibition → euphoria, delirium, seizure                         |
++------------------------+-------------------------------------------------------------------------------------------------------------+
+| Hepatotoxicity         | - Associated with continuous or repeat use of bupivacaine                                                   |
++------------------------+-------------------------------------------------------------------------------------------------------------+
+| Respiratory depression | - Lignocaine depresses ventilatory response to ↓PaO~2~                                                      |
++------------------------+-------------------------------------------------------------------------------------------------------------+
+| Weakness               | - Potentiates non-depolarising neuromuscular blockade\                                                      |
+|                        |   (inhibit VDNaC on sarcolemma pre-synaptic membrane)                                                       |
++------------------------+-------------------------------------------------------------------------------------------------------------+

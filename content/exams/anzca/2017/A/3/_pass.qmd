@@ -1,0 +1,26 @@
+Propofol (2,6 Diisopropylphenol) is an IV anaesthetic agent with hypnotic and amnesia properties and can cause immobility at high doses.
+
+Usual TCI administration set point for maintenance of general anaesthesia is 4-6mcg/mL, immobility is generally around 14-16mcg/ml. 
+
+Remifentanil is a synthetic short acting opioid used as a target controlled infusion for analgesia, . Usual TCI set point concentration target is 2-6ng/mL.
+
+Propofol and Remifentanil have complementary and synergistic effects.
+
+**Pharmaceutical**:
+
+Remifentanil is compatible and will not precipitate
+
+**Pharmacokinetics:**
+
+- Both agents have rapid onset and can be initiated together with reliable effect in under 1-4min. 
+- Both agents have rapid offset, propofol by initial redistribution then hepatic metabolism, and remifentanil by non-specific plasma esterases. 
+- The Context sensitive half time for both agents is short, particularly for remifentanil that can be run for long infusion times with minimal accumulation. 
+- Remi and Prop are also compatible in terms of lack of competition / interference with protein binding and metabolism.  
+
+**Pharmacodynamics**:
+
+Propofol and Remifentanil are synergistic in that the agent’s combined effect is greater than the sum of the individual agents effects.
+
+The end result is that individual doses are smaller for the same effect, resulting in lower side effect profiles of each individual agent. 
+
+![](/content/exams/anzca/2017/A/3/standard-image29.png){fig-alt="Isobologram comparing additive, antagonistic and synergistic drug interactions"}

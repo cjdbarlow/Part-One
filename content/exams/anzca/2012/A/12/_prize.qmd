@@ -1,0 +1,98 @@
+(Previous version: classify the mechanisms of neurotransmitters)
+
+#### List:
+
+- Intro
+- Classification
+- Adrenergic
+- Cholinergic
+- NANC
+
+#### Intro:
+
++------------+----------------------------------------------------------------------------+
+| Definition | - Small molecule released by a cell to affect an immediately adjacent cell |
++------------+----------------------------------------------------------------------------+
+| Production | - Synthesised from amino acids, metabolic intermediates                    |
+|            | - Transported into vesicles (e.g. VMAT for noradrenaline (NAd))            |
++------------+----------------------------------------------------------------------------+
+| Release    | - Cell activation e.g. ↑ICF \[Ca^2+^\]                                     |
+|            | - Released by exocytosis                                                   |
+|            | - Crosses synaptic cleft                                                   |
++------------+----------------------------------------------------------------------------+
+| Binding    | - On adjacent cell (e.g. ACh to ganglionic nAChR)                          |
+|            | - On itself (NAd to presynaptic α~2~ adrenoceptor)                         |
++------------+----------------------------------------------------------------------------+
+| Removal    | - ± Degradation in synaptic cleft (e.g. AChE)                              |
+|            | - ± Active reuptake by releasing cell (e.g. NAd)                           |
++------------+----------------------------------------------------------------------------+
+
+#### Classification:
+
++------------------------+------------------------------------------+
+| By autonomic division  | - Adrenergic                             |
+|                        |   - Adrenaline                           |
+|                        |   - Noradrenaline                        |
+|                        | - Cholinergic                            |
+|                        |   - Acetylcholine                        |
+|                        | - Non-adrenergic, non-cholinergic (NANC) |
+|                        |   - eNANC: substance P, NK-A             |
+|                        |   - iNANC: NO, VIP                       |
+|                        |   - Both: NPY                            |
++------------------------+------------------------------------------+
+| By type of molecule    | - Gas: e.g. nitric oxide (NANC)          |
+|                        | - Amino acid (e.g. glycine)              |
+|                        | - Peptide e.g. NPY (NANC)                |
+|                        | - Monoamine e.g. noradrenaline           |
++------------------------+------------------------------------------+
+| By direction of effect | - Excitatory: e.g. adrenaline β~1~       |
+|                        | - Inhibitory: e.g. muscarinic m~1~       |
++------------------------+------------------------------------------+
+
+#### Cholinergic transmission: e.g. ACh at nAChR
+
++-----------+-----------------------------------------------------------------+
+| Features  | - Ionotropic: activates ligand-gated ion channel                |
+|           | - Immediate effect: milliseconds between exocytosis and effect  |
+|           | - Short-lived: ceases upon dissociation of ligand from receptor |
++-----------+-----------------------------------------------------------------+
+| Mechanism | - ACh binds α-subunit of nAChR                                  |
+|           | - ↑Central ionophore permeability                               |
+|           | - Na^+^ influx = K^+^ efflux \> Ca^2+^ influx                   |
+|           | - Depolarisation = mini-end plate potential                     |
+|           | - Spatial + temporal summation → action potential               |
++-----------+-----------------------------------------------------------------+
+
+#### Adrenergic transmission: e.g. adrenaline at β~1~
+
++-----------+-------------------------------------------------------------------+
+| Features  | - Metabotropic – via second messenger                             |
+|           | - Multi-step amplification (GPCR to G~s~, G~s~ to AC, AC to cAMP) |
+|           | - Self-limitation (α-GTP hydrolyses during interaction with AC)   |
+|           | - Slower onset (e.g. seconds)                                     |
+|           | - Longer duration than ligand-binding (e.g. minutes)              |
++-----------+-------------------------------------------------------------------+
+| Mechanism | - Gs: e.g. adrenaline β~1~ myocardium                             |
+|           | - α-GTP activates adenylyl cyclase                                |
+|           | - ↑\[cAMP\]                                                       |
+|           | - ↑activity PKA→ phosphorylation of…                              |
+|           |   - Myosin: ↑rate of cross-bridge cycling                         |
+|           |   - L-Ca^2+^ channel: ↑rate of Ca^2+^ influx                      |
+|           |   - TNI and phospholamban: ↑rate of relaxation                    |
++-----------+-------------------------------------------------------------------+
+
+#### Non-adrenergic non-cholinergic (NANC):
+
++------------+-------------------------------------------------------+
+| Excitatory | e.g. substance P                                      |
+|            |                                                       |
+| (eNANC)    | - Receptor is NK-1, metabotropic                      |
+|            | - Cell-dependent effects                              |
++------------+-------------------------------------------------------+
+| Inhibitory | e.g. nitric oxide                                     |
+|            |                                                       |
+| (iNANC)    | - NO activates guanylyl cyclase                       |
+|            | - ↑\[cGMP\]                                           |
+|            | - ↑activity PKG                                       |
+|            | - Phosphorylation and activation of MLCP → relaxation |
++------------+-------------------------------------------------------+

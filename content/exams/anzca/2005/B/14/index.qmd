@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005B Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the processes of excitation and contraction within smooth muscle cells.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} excitation and contraction as a sequence from membrane events to calcium, calmodulin and cross-bridge cycling. Finish with relaxation and the latch mechanism.
+
+::: {.structure-headings}
+### Excitation and Membrane Potentials
+
+### Calcium Entry and Intracellular Calcium
+
+### Calmodulin and Myosin Light Chain Kinase
+
+### Cross-Bridge Cycling
+
+### Relaxation and Latch Mechanism
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**53 %** of candidates passed this question.
+
+Better answers focused entirely on describing smooth muscle physiology; mentioning membrane pacemaker potentials, the role of calcium ions in the action potential, and mechanisms of the rise in intracellular calcium ion concentration. Candidates then went on to describe, or at least outline, in a stepwise fashion, the intracellular processes that result in contraction of the smooth muscle cell. Included were the roles of: intracellular calcium ions, calmodulin, myosin light chain kinase, actin and myosin, and the mechanism of cross bridge recycling. The tendency for long latency and tonic contraction was also mentioned, as was the “latch bridge” mechanism.
+
+A significant number of candidates wrote nothing, or next to nothing, in answer to this question, or many gave descriptions of skeletal muscle physiology, including diagrams of sarcomeres, and then simply stated that smooth muscle was different, and did not have sarcomeres. Many candidates tried to outline everything they knew about smooth muscle including detailed listings of anatomical sites, classification systems and all the various neural and humoral influences on membrane potentials, which left little time to focus on the question as asked.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2005/B/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Receptor types](/content/pharmacology/receptor_types.qmd)

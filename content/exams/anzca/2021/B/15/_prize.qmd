@@ -1,0 +1,88 @@
+#### List:
+
+- Emergence modelling
+- Uptake
+- Elimination
+- Threshold
+
+#### Emergence modelling:
+
++-----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Determinants    | 1.  Uptake (into all compartments)                                                                                                                                                |
+|                 | 2.  Elimination (from effect site via central compartment)                                                                                                                        |
+|                 | 3.  Threshold (median effect site concentration for emergence – i.e. Ce~50~)                                                                                                      |
++-----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Kinetic model   | ![](/content/exams/anzca/2021/B/15/prize-image001.jpg){fig-alt="Three-compartment pharmacokinetic model with effect site, administration, clearance and transfer rate constants"} |
+|                 |                                                                                                                                                                                   |
+|                 |          **Perfusion**   **Capacity**                                                                                                                                             |
+|                 |   ------ --------------- --------------                                                                                                                                           |
+|                 |   V~1~   +++             \+ (\~4L)                                                                                                                                                |
+|                 |   V~2~   ++              ++ (\~30L)                                                                                                                                               |
+|                 |   V~3~   \+              +++ (\~200L)                                                                                                                                             |
++-----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Washout curve   | ![](/content/exams/anzca/2021/B/15/prize-image002.jpg){fig-alt="Propofol concentration decline through distribution and terminal elimination phases"}                             |
+|                 |                                                                                                                                                                                   |
+|                 | **Half lives:**                                                                                                                                                                   |
+|                 |                                                                                                                                                                                   |
+|                 | - t~1/2α~ fast: 2 mins                                                                                                                                                            |
+|                 | - t~1/2α~ slow: 20-50 mins                                                                                                                                                        |
+|                 | - t~1/2β~: 5-12 hours                                                                                                                                                             |
++-----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Decrement times | ![](/content/exams/anzca/2021/B/15/prize-image003.jpg){fig-alt="Propofol context-sensitive half-time against infusion duration"}                                                  |
+|                 |                                                                                                                                                                                   |
+|                 | - Fast offset after short infusion                                                                                                                                                |
+|                 | - Slow offset after long infusion                                                                                                                                                 |
++-----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### 1. Uptake (factors increasing it)
+
++-----------+-------------------------------------------------------------------------+
+| Infusion  | - ↑Duration                                                             |
+|           | - ↑Infusion rate / target concentration                                 |
++-----------+-------------------------------------------------------------------------+
+| Patient   | - ↑Cardiac output → ↑tissue blood flow (child, pregnant, obese, septic) |
+|           | - ↑Compartment volumes → ↑capacity (lean tissue, fat)                   |
++-----------+-------------------------------------------------------------------------+
+| Algorithm | - Marsh \> Schnider                                                     |
+|           | - Male \> female                                                        |
+|           | - ∝ weight, height, youth                                               |
++-----------+-------------------------------------------------------------------------+
+| Logistics | - Factors impeding titration:                                           |
+|           |   - Neuromuscular blockade                                              |
+|           |   - Absence of processed EEG                                            |
++-----------+-------------------------------------------------------------------------+
+
+#### 2. Elimination (factors slowing it)
+
++------------+----------------------------------------------------------------------+
+| Short case | *Offset during distribution phase:*                                  |
+|            |                                                                      |
+|            | - ↓Distribution to V~2~, V~3~                                        |
+|            |   - ↓Cardiac output (old age, heart failure, hypovolaemia)           |
+|            |   - ↓Compartment volumes (cachexia)                                  |
++------------+----------------------------------------------------------------------+
+| Long case  | *Offset during terminal elimination phase: (note bivalent factors!)* |
+|            |                                                                      |
+|            | - ↑Redistribution from V~2~, V~3~                                    |
+|            |   - ↑Cardiac output                                                  |
+|            |   - ↑Compartment volumes                                             |
+|            | - ↓Metabolism (↓mAP → ↓hepatic blood flow; liver disease if severe)  |
+|            | - ↓Excretion (\<1%)                                                  |
++------------+----------------------------------------------------------------------+
+
+#### 3. Threshold (factors lowering it)
+
++--------------+--------------------------------+
+| Pharmacology | - Synergistic: opioids, benzo  |
+|              | - Additive: sevoflurane, N~2~O |
++--------------+--------------------------------+
+| Physiology   | - Old age                      |
+|              | - Pregnancy (↓30%)             |
+|              | - Night time (↓10%)            |
++--------------+--------------------------------+
+| Pathology    | - ↓↓PaO~2~                     |
+|              | - ↑↑PaCO~2~                    |
+|              | - ↓↓mAP                        |
+|              | - ↓↓pH                         |
+|              | - ↓↓Temp                       |
++--------------+--------------------------------+

@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009B Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the complement system.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} complement’s principal actions and the pathways that initiate them. Show convergence on C3 and the terminal pathway, linking activation to inflammation, opsonisation and membrane attack.
+
+::: {.structure-headings}
+### Components, Sources and Regulation
+
+### Classical Pathway
+
+### Alternative and Lectin Pathways
+
+### Common and Terminal Pathways
+
+### Actions and Clinical Relevance
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**57%** of candidates passed this question.
+
+The examiners were aware that there were several different descriptions of complement pathways in different textbooks, and marking schemes reflected these variations.
+
+In order to achieve a pass, candidates required a broad knowledge of the actions of complement and the pathways by which these actions are initiated.
+
+Further marks were obtained for more detailed descriptions of the pathways, and clinical implications of the actions of complement. Additional marks were given for clinical relevance of abnormalities in the pathways.
+
+Common omissions included a lack of knowledge or understanding of the actions of complement, and the methods of activation.
+
+Although additional marks were awarded for a detailed description of the complement cascade, it was possible to achieve a high mark without this information as marks were weighted towards demonstrating an understanding.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2009/B/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Innate immunity](/content/immune/innate_immunity.qmd)

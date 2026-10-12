@@ -1,0 +1,69 @@
+#### List:
+
+- Summary of acid excretion: flux, role, location
+- Bicarbonate reabsorption
+- Titratable acid excretion
+- Ammonium
+
+#### Summary:
+
++---------------+----------------------------------------------------------------------------------------+
+| Acid flux     | - 15,000mmol/day CO~2~ (exhaled)                                                       |
+|               | - 1,500mmol/day lactate (metabolised)                                                  |
+|               | - 70-100mmol/day fixed acid (urinated ONLY) – typical Western diet                     |
++---------------+----------------------------------------------------------------------------------------+
+| Kidney’s role | 1.  Reabsorption of HCO~3~^-^                                                          |
+|               | 2.  Excretion of titratable acid, mostly buffered                                      |
+|               | 3.  Excretion of ammonia                                                               |
++---------------+----------------------------------------------------------------------------------------+
+| By location   | - Proximal tubule: high capacity (85% filtered HCO~3~^-^), low gradient (minimum pH 7) |
+|               | - Distal tubule: low capacity, high gradient (min pH 4.4)                              |
++---------------+----------------------------------------------------------------------------------------+
+
+#### Bicarbonate reabsorption:
+
++-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Quantity  | - 4000-5000mmol/day                                                                                                                                                               |
++-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Location  | - 85% proximal tubule                                                                                                                                                             |
+|           | - 10% thick ascending LOH                                                                                                                                                         |
+|           | - 5% distal nephron intercalated cells (CNT/CCD/MCD)                                                                                                                              |
++-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Mechanism | - ↑\[HCO~3~^-^\] → right shift carbonic acid equilibrium (H^+^ + HCO~3~^-^ \<-\> CO~2~ + H~2~O) → ↓\[H^+^\]                                                                       |
++-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Diagramme | ![](/content/exams/anzca/2012/A/15/prize-image001.jpg){fig-alt="Proximal tubular bicarbonate reabsorption with luminal hydrogen secretion and basolateral bicarbonate transport"} |
++-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Titratable acid excretion:
+
++---------------------------------+----------------------------------------------------------------------------------------------+
+| Definition                      | - Amount of base needing to be added to make urinary pH 7.4                                  |
+|                                 | - Formed when HCO~3~^-^ reabsorption almost exhausted                                        |
++---------------------------------+----------------------------------------------------------------------------------------------+
+| Source                          | - Mostly phosphoric acid 30mmol/day (max \~60mmol/L)                                         |
+|                                 | - Small amount sulfuric, acetoacetic                                                         |
+|                                 | - Tiny amount free H^+^ filtered (at pH 7.4 → 40nmol/L → 7.2μmol/day; minimal ↑ in acidosis) |
++---------------------------------+----------------------------------------------------------------------------------------------+
+| Mechanism: e.g. phosphoric acid | - HPO~4~ is filtered by the glomerulus                                                       |
+|                                 | - H^+^ secreted by the PCT (Na^+^/H^+^ antiport)                                             |
+|                                 | - H~2~PO~4~ \<-\> H^+^ + HPO~4~^-^ (pKa 6.8)                                                 |
+|                                 | - Acidosis → ↓urine pH → ↑H~2~PO~4~ excretion                                                |
++---------------------------------+----------------------------------------------------------------------------------------------+
+
+#### Ammonium production:
+
++-----------+-------------------------------------------------------------------------+
+| Source    | - 60% from deamination of filtered glutamine in the PCT                 |
+|           |   - Glutamine → 2NH~4~^+^ + 2HCO~3~^-^ + oxoglutarate                   |
+|           |   - HCO~3~^-^ reabsorbed                                                |
+|           |   - 35% filtered by glomerulus                                          |
+|           |                                                                         |
+|           | 5% from deamination of other filtered amino acids in the PCT            |
++-----------+-------------------------------------------------------------------------+
+| Mechanism | - NH~4~^+^ \<-\> NH~3~ + H^+^ (pKa 9.2)                                 |
+|           | - NH~4~ secreted by Na^+^/NH~4~ antiporter, trapped in urine            |
+|           | - Small amount NH~3~ diffuses into urine, → NH~4~^+^, trapped           |
+|           | - 70% NH~4~^+^ reabsorbed in thick ascending LOH, recycled              |
+|           | - ↑ up to 300mmol/day in acidosis (due to high pKa)                     |
+|           | - Note doesn’t contribute to titratable acidity since pKa 9.2 \>\> 7.4) |
++-----------+-------------------------------------------------------------------------+

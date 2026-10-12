@@ -1,0 +1,75 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004A Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the mechanisms of action of inotropes and [**provide examples**]{.task-verb}.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Beta-1 Agonists**, **Cardiac Glycosides**, and **Phosphodiesterase Inhibitors**, providing examples. [**Define**]{.task-verb} inotropy and connect each mechanism to intracellular calcium and contractility; [**include**]{.task-verb} other relevant inotropes separately.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**67%** of candidates passed this question.
+
+Main points expected included:
+
+- Definition of inotropes
+- Roles of c-AMP and intracellular Ca^2+^ in promoting cardiac contractility
+- Beta-1 agonists, cardiac glycosides, phosphodiesterase inhibitors (III) and their mechanisms of action
+
+Credit was given for mention of glucagon and calcium.
+
+Common errors included:
+
+- Failure to define inotropes or stating that inotropes were agents which increased blood pressure and discussing alpha agonists at length
+- Many candidates wrote about sympathomimetic agents or catecholamines including those which act predominantly by vasoconstriction
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inotropes](/content/pharmacopoeia/cvs/inotropes.qmd)

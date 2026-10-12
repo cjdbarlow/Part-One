@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002A Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the physiological factors that influence pulmonary vascular resistance.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} the determinants of pulmonary vascular resistance, beginning with normal values and its relationship to pressure and flow. Link each factor to vessel recruitment, distension or vascular tone.
+
+::: {.structure-headings}
+### Definition, Normal Values and Pressure–Flow Relationship
+
+### Vascular Pressures and Lung Volume
+
+### Oxygen, Carbon Dioxide and pH
+
+### Autonomic, Endothelial and Humoral Factors
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**57%** of candidates passed this question.
+
+The main points expected included the following:- Approximate normal values (and normal range) with correct units. The relationship between pulmonary vascular resistance (PVR), pulmonary perfusion pressure, and cardiac output. The effects of cardiac output and pulmonary artery pressure on PVR by distension and recruitment of vessels. The influence of lung volume on PVR by its effect on the diameter of extra- and intra-alveolar vessels, with the lowest PVR being at functional residual capacity. The influence of alveolar oxygen tension on regional and global PVR. Candidates who discussed the mechanism of these effects scored higher marks.
+
+Additional marks were awarded for describing the role of nitric oxide, the effect of blood viscosity, the effect of autonomic factors, the effect of hormones such as serotonin and histamine, and the effect of changes in posture. Candidates who indicated that PVR was better described as pulmonary vascular impedance, giving reasons, also gained extra marks.
+
+Several candidates wasted time providing unnecessary information such as detailed descriptions of West's zones of the lung, the benefits of hypoxic pulmonary vasoconstriction, or the difference between laminar and turbulent flow.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2002/A/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Pulmonary circulation](/content/cvs/pulmonary_circulation.qmd)

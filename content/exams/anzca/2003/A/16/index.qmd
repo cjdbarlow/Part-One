@@ -1,0 +1,87 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003A Question 16 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the functions of the loop of Henle, including the physiological mechanisms involved.
+:::
+
+Also asked in: [2011A Question 11](/content/exams/anzca/2011/A/11/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} each function together with its physiological mechanism. Use a labelled nephron diagram to show segment permeability, countercurrent multiplication and the supporting roles of urea recycling and the vasa recta.
+
+::: {.structure-headings}
+### Relevant Anatomy and Reabsorption
+
+### Countercurrent Multiplication
+
+### Urea Recycling
+
+### Countercurrent Exchange
+
+### Tubuloglomerular Feedback
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The pass rate for this question was **64%**.
+
+Points required for a pass were:
+
+The main function of the loop of Henle is to establish a concentration gradient in the renal medulla, which allows the collecting duct to regulate water excretion.
+
+This is achieved by active ionic transport (associated with impermeability to water diffusion) from the tubular lumen in the thick ascending segment of the loop to the interstitium, coupled with water permeability of the descending part of the loop.
+
+Some quantification of osmolalities in various parts of the loop, and mention of counter current mechanisms was also required.
+
+Additional marks were given for comparison of the effects of short and long loops (the physiology of desert rats was popularly mentioned!), the role of urea, and role of the loop of Henle in excretion of other ions. Because there is disagreement between texts as to whether the macula densa is part of the ascending loop of Henle - rather than the DCT - marks were given to candidates who described function of the juxta-glomerular apparatus.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2003/A/16/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Renal sodium handling](/content/renal/sodium.qmd)
+- [Glomerular filtration](/content/renal/glomerular_filtration.qmd)

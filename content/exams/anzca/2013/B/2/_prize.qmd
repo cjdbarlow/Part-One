@@ -1,0 +1,130 @@
+#### List:
+
+- Principles
+- Oxygen storage
+- Apnoeic oxygenation
+- Other
+
+#### Principles:
+
++-----------------------+----------------------------------------------------------------------------------+
+| Aim                   | - Minimise time between induction and intubation                                 |
++-----------------------+----------------------------------------------------------------------------------+
+| Reason                | - Prevent hypoxia                                                                |
+|                       | - Prevent aspiration                                                             |
++-----------------------+----------------------------------------------------------------------------------+
+| Problem               | - Apnoea between loss of consciousness and intubation                            |
+|                       | - Ongoing O~2~ consumption at 3-4mL/kg/min                                       |
++-----------------------+----------------------------------------------------------------------------------+
+| Time to gross hypoxia | - (See Nunn’s Applied Respiratory Physiology – numbers reflect ideal conditions) |
+|                       | - Apnoeic, obstructed: \<1 minute                                                |
+|                       | - Apnoeic, patent to room air: 1-2 minutes                                       |
+|                       | - Apnoeic, patent to 100% O~2~: several minutes                                  |
+|                       | - Apnoeic, patent to 100% O~2~, pre-oxygenated: 100 minutes                      |
++-----------------------+----------------------------------------------------------------------------------+
+
+#### Oxygen storage:
+
++---------------------+----------------------------------------------------------------------------------------+
+| Relevant physiology | - Functional residual capacity                                                         |
+|                     |   - Volume in lungs at end of tidal expiration                                         |
+|                     |   - Reservoir for oxygenation during apnoea                                            |
+|                     | - Alveolar gas equation: PAO~2~ = FiO~2~(P~atm~ – SVP~H2O~) – PACO~2~/R                |
+|                     |   - Room air → 100mmHg → 275mL O~2~ in FRC                                             |
+|                     |   - 100% O~2~ → 660mmHg → 1800mL O~2~ in FRC                                           |
+|                     | - Alveolar ventilation equation: PACO~2~ = VCO~2~ / V~A~ x k (where PACO~2~ ≈ PaCO~2~) |
++---------------------+----------------------------------------------------------------------------------------+
+| Problem             | - Supine position → diaphragm displacement → ↓FRC to 30mL/kg                           |
+|                     | - Induction → chest wall relaxation → ↓FRC to 25mL/kg                                  |
++---------------------+----------------------------------------------------------------------------------------+
+| Solution            | (1)Positioning:                                                                        |
+|                     |                                                                                        |
+|                     | - Head up → ↓Diaphragm displacement → ↑FRC                                             |
+|                     |                                                                                        |
+|                     | (2)Pre-oxygenation                                                                     |
+|                     |                                                                                        |
+|                     | - 100% O~2~ 3-5 mins tidal ventilation                                                 |
+|                     | - Replace alveolar N~2~ with O~2~                                                      |
+|                     | - ↑O2 in lungs \> blood, tissues, myoglobin                                            |
+|                     | - Room air 275mL O~2~, 100% O~2~ → 1800mL O~2~                                         |
+|                     |                                                                                        |
+|                     | (3)Hyperventilation                                                                    |
+|                     |                                                                                        |
+|                     | - ↓PACO~2~ → ↑PAO~2~                                                                   |
+|                     |                                                                                        |
+|                     | (4)Small amount CPAP e.g. 5cmH~2~O                                                     |
+|                     |                                                                                        |
+|                     | - Splint and distend alveoli                                                           |
+|                     | - Limits ↓FRC on induction                                                             |
+|                     | - Advantage lost at intubation                                                         |
++---------------------+----------------------------------------------------------------------------------------+
+| Adverse effects     | - Head up: may impair CNS perfusion upon induction                                     |
+|                     | - ↑O~2~: absorption atelectasis, O~2~ toxicity in neonates                             |
+|                     | - ↓CO~2~: symptoms e.g. paraesthesia                                                   |
++---------------------+----------------------------------------------------------------------------------------+
+
+#### Apnoeic oxygenation:
+
++---------------------+----------------------------------------------------------------------------------+
+| Relevant physiology | Alveolar gas flux during apnoea:                                                 |
+|                     |                                                                                  |
+|                     | - O~2~ uptake 250mL/min                                                          |
+|                     | - CO~2~ output 20mL/min (PaCO~2~ and P­ACO~2~ equilibrate at 1 minute)            |
+|                     | - Net uptake by diffusion 230mL/min                                              |
++---------------------+----------------------------------------------------------------------------------+
+| Problems            | - Apnoea                                                                         |
+|                     | - Airway obstruction (general anaesthetic + relaxant → ↓pharyngeal dilator tone) |
++---------------------+----------------------------------------------------------------------------------+
+| Solution            | **Prior to intubation:**                                                         |
+|                     |                                                                                  |
+|                     | - Airway patency: jaw thrust, head tilt, chin lift                               |
+|                     | - Face mask e.g. 10L/min of 100% O~2~                                            |
+|                     | - CPAP → splint + distend alveoli                                                |
+|                     |                                                                                  |
+|                     | **During intubation:**                                                           |
+|                     |                                                                                  |
+|                     | - High flow nasal prongs e.g. 60L/min of 100% O~2~                               |
++---------------------+----------------------------------------------------------------------------------+
+| Adverse effects     | - Discomfort                                                                     |
+|                     | - Epistaxis                                                                      |
++---------------------+----------------------------------------------------------------------------------+
+
+#### Other things that may not attract marks:
+
+#### ↓O~2~ consumption:
+
++----------+----------------------------------------+
+| Problem  | - Anxiety → ↑SNS output                |
+|          | - Fever                                |
++----------+----------------------------------------+
+| Solution | - Pre-medication e.g. benzodiazepines  |
+|          | - Human factors                        |
++----------+----------------------------------------+
+
+#### Fast drugs → ↓apnoeic time: (rapid sequence by definition)
+
++-----------------------+------------------------------------------------------------------------------------------------------------------------+
+| Rapid onset hypnosis  | ![](/content/exams/anzca/2013/B/2/prize-image001.jpg){fig-alt="Factors determining diffusion according to Fick’s law"} |
+|                       |                                                                                                                        |
+|                       | Factors ↑C~1~:                                                                                                         |
+|                       |                                                                                                                        |
+|                       | - IV route                                                                                                             |
+|                       | - ↑Dose                                                                                                                |
+|                       | - Priming dose                                                                                                         |
+|                       | - Rapid injection                                                                                                      |
+|                       | - Proximal injection                                                                                                   |
+|                       | - Pre-medication to reduce cardiac output                                                                              |
+|                       | - ↑Unionised fraction (e.g. propofol)                                                                                  |
+|                       |                                                                                                                        |
+|                       | Factors ↑diffusion coefficient: (e.g. propofol)                                                                        |
+|                       |                                                                                                                        |
+|                       | - ↑Lipid solubility                                                                                                    |
+|                       | - ↓Molecular weight                                                                                                    |
++-----------------------+------------------------------------------------------------------------------------------------------------------------+
+| Rapid onset paralysis | - Similar factors                                                                                                      |
+|                       | - Bowman principle: ↓potency → ↑safe dose → ↑(C~1~-C~2~)                                                               |
+|                       | - Hence fastest drugs: suxamethonium 4x ED~95~, rocuronium 2-4x ED~95~                                                 |
++-----------------------+------------------------------------------------------------------------------------------------------------------------+
+| Exploit synergy       | - Midazolam: reduces propofol dose for hypnosis by 30%                                                                 |
+|                       | - Fentanyl 1mcg/kg: reduces propofol dose for hypnosis by 20%, for immobility by 50%                                   |
++-----------------------+------------------------------------------------------------------------------------------------------------------------+

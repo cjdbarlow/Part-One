@@ -1,0 +1,70 @@
+#### List:
+
+- Diagramme
+- Anatomy description: location, passage, borders
+- Approach: landmark and ultrasound
+- Complications: especially those relevant to anatomy
+
+#### Diagramme:
+
+![](/content/exams/anzca/2016/B/9/prize-image001.jpg){fig-alt="Transverse neck section showing internal jugular vein, carotid sheath and neighbouring structures"}
+
+#### Anatomy:
+
++-----------------------------------------+-------------------------------------------------------------------------------------------------------------+
+| Location                                | In the anterior triangle                                                                                    |
+|                                         |                                                                                                             |
+|                                         | - Anterior midline                                                                                          |
+|                                         | - Anterior border of sternocleidomastoid                                                                    |
+|                                         | - Inferior angle of the mandible                                                                            |
++-----------------------------------------+-------------------------------------------------------------------------------------------------------------+
+| Origin                                  | - Confluence of R sigmoid sinus + R inferior petrosal sinus, at the jugular foramen                         |
++-----------------------------------------+-------------------------------------------------------------------------------------------------------------+
+| Passage                                 | - Passes vertically down the neck                                                                           |
+|                                         | - Within the carotid sheath                                                                                 |
++-----------------------------------------+-------------------------------------------------------------------------------------------------------------+
+| Termination                             | - R internal jugular vein + R subclavian vein → R brachiocephalic vein                                      |
+|                                         | - Note direct continuation to SVC and right atrium, hence right internal jugular preferred to left          |
++-----------------------------------------+-------------------------------------------------------------------------------------------------------------+
+| Relation to internal carotid artery     | - At C2: posterior                                                                                          |
+|                                         | - At C3: posterolateral                                                                                     |
+|                                         | - From C4: lateral                                                                                          |
+|                                         | - (note may appear posterior in the lower neck if ultrasound applied radially rather than antero-posterior) |
++-----------------------------------------+-------------------------------------------------------------------------------------------------------------+
+| Relation to other major neck structures | - Anterior: sternocleidomastoid                                                                             |
+|                                         | - Posterior: lateral mass of C1, anterior and middle scalenes, pleura of lung apices                        |
+|                                         | - Medial: thyroid, trachea, oesophagus                                                                      |
+|                                         | - Lateral: sternocleidomastoid, fascia, skin                                                                |
++-----------------------------------------+-------------------------------------------------------------------------------------------------------------+
+
+#### Approach:
+
++------------+-----------------------------------------------------------------------------------------------------+
+| Landmark   | - Trendelenburg (prevent air embolus)                                                               |
+|            | - Head rotated contralaterally                                                                      |
+|            | - Palpate carotid artery medially                                                                   |
+|            | - Enter skin in the middle of the triangle formed by the two heads of SCM and clavicle (\~C6 level) |
+|            | - Angle needle 30 degrees to the skin                                                               |
+|            | - Aim at ipsilateral nipple                                                                         |
++------------+-----------------------------------------------------------------------------------------------------+
+| Ultrasound | - Gold standard                                                                                     |
+|            | - Same prep + position                                                                              |
+|            | - Probe best positioned for AP view rather than radial view to avoid carotid puncture               |
+|            | - Identify vessels by shape, pulsatility, compressibility, direction of blood flow                  |
++------------+-----------------------------------------------------------------------------------------------------+
+
+#### Complications:
+
++---------------------+-----------------------------------------------------------------------+
+| Damage to surrounds | - Common carotid artery or internal carotid artery → bleeding, stroke |
+|                     | - Vagus nerve                                                         |
+|                     | - SNS nerve → Horner’s syndrome                                       |
+|                     | - Pleura → pneumothorax                                               |
+|                     | - Trachea, oesophagus, thyroid                                        |
+|                     | - Thoracic duct → chylothorax                                         |
++---------------------+-----------------------------------------------------------------------+
+| Other               | - Arrythmia (wire in RV) → myocardial ischaemia if susceptible        |
+|                     | - Venous air embolism                                                 |
+|                     | - Bleeding                                                            |
+|                     | - Infection                                                           |
++---------------------+-----------------------------------------------------------------------+

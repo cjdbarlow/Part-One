@@ -1,0 +1,62 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002B Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Draw**]{.task-verb} a graph comparing the ratio of inspired to alveolar concentrations during the first half hour of administration for nitrous oxide, isoflurane, and halothane. [**Outline**]{.task-verb} reasons for observed differences between the agents and [**indicate**]{.task-verb} the effects of increases in alveolar ventilation and cardiac output.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Draw**]{.task-verb} a **Concentration Ratio–Time Graph** for the three agents over the first half hour, stating clearly which ratio is plotted. [**Outline**]{.task-verb} **Reasons for Agent Differences** and [**indicate**]{.task-verb} **Effects of Alveolar Ventilation** and **Effects of Cardiac Output**.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question was passed by **73%** of candidates, including a borderline pass in 20%. The wording of the question created some confusion, as inhaled anaesthetic uptake is dependent upon the rate at which the alveolar approaches the inspired concentration, graphically represented as the time-course of the ratio of alveolar to inspired concentrations. Most candidates drew this latter graph, correctly labelling the axes, that was accepted as the correct response to the question. A single candidate inverted the ratio and accurately plotted the equivalent time-course of inspired to alveolar concentrations, gaining full marks. Candidates gained marks for accurate representation of the uptake of each of the specified anaesthetic agents. Reasons for the observed differences between the specified agents include the influences of different concentrations, blood/gas partition coefficients and the effects of the agents on alveolar ventilation and cardiac output. For all agents, increased alveolar ventilation results in more rapid rise of the alveolar to inspired concentration ratio, whereas increased cardiac output reduces the rate of rise of alveolar concentration.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational Anaesthetic Agents](/content/pharmacopoeia/neuro/inhalational_anaesthetics.qmd)

@@ -1,0 +1,94 @@
+#### List:
+
+- Intro
+- Kinetics: dose → Cp
+- Biophasics: Cp → Ce (Fick’s law)
+- Dynamics: Ce → effect (factors affecting sensitivity)
+
+#### Intro:
+
++------------------+-------------------------------------------------------+
+| Onset definition | - Time to 95% depression of single twitch height      |
++------------------+-------------------------------------------------------+
+| Determinants     | - Time for transport from site of injection to muscle |
+|                  | - Time for transfer from plasma to effect site        |
+|                  | - Effect site concentration associated with onset     |
++------------------+-------------------------------------------------------+
+
+#### *Kinetics:* factors ↑rate of Cp at muscle
+
++----------------+-------------------------------------------------------------------------------+
+| Administration | - Route: IV sux \> IM sux                                                     |
+|                | - Site: CVC \> PIVC in the foot                                               |
+|                | - ↑Dose (see later)                                                           |
+|                | - Priming dose: e.g. atracurium                                               |
+|                |   - 2xED~95~ → 3 mins                                                         |
+|                |   - 0.05mg/kg / wait 3 min / 2xED~95~ → 1.5 mins                              |
+|                | - Rate of injection: fast push                                                |
++----------------+-------------------------------------------------------------------------------+
+| Distribution   | - ↑Cardiac output → ↓time to NMJ (e.g. pregnant)                              |
+|                |   - Limiting factor for onset of suxamethonium                                |
+|                |   - Note ↑Cardiac output also ↑dilution → ↓max Cp                             |
+|                | - ↑Blood flow rate (i.e. larynx and diaphragm \> adductor pollicis)           |
+|                | - ↑Blood volume → dilution → ↓rate of rise Cp (e.g. heart failure, pregnancy) |
++----------------+-------------------------------------------------------------------------------+
+
+#### *Biophasics:* factors ↑ rate of transfer into NMJ (Ce) → ↑speed
+
++------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Fick’s law             | ![](/content/exams/anzca/1999/B/10/prize-image001.jpg){fig-alt="Fick diffusion equation with concentration gradient and membrane and substance factors"}|
++------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↑C1                    | - ↑Dose (e.g. rocuronium 2xED~95~ 1-1.5mins, 4x ED~95~ 0.45-1min)                                                                                       |
+|                        | - Bowman principle: ↓molar potency → ↑dose:duration ratio → ↑C1                                                                                         |
+|                        | - ↓Toxicity → ↑max safe dose (e.g. rocuronium no histamine release or mAChR effect)                                                                     |
++------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↑Diffusion coefficient | - Less relevant due to fenestrated muscle capillaries                                                                                                   |
++------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### *Dynamics:* Factors ↑ED~95~ (less important)
+
++------------+---------------------------------------------------------------------------------------------------+
+| Physiology | - ↑K^+^: membrane potential less negative → ↑ACh release → ↓drug:ACh ratio                        |
++------------+---------------------------------------------------------------------------------------------------+
+| Pathology  | - Critical illness myopathy, burns → proliferation of extrajunctional receptors → ↓drug:ACh ratio |
+|            | - Malignant hyperthermia→ post-junctional activation                                              |
++------------+---------------------------------------------------------------------------------------------------+
+| Drugs      | - AChEi e.g. neostigmine: ↓drug:ACh ratio                                                         |
++------------+---------------------------------------------------------------------------------------------------+
+| Toxins     | - Tetanus toxin: ↓inhibition of a-motor neurons → ↑NMJ activity → ↓drug:ACh ratio                 |
++------------+---------------------------------------------------------------------------------------------------+
+
+#### *Dynamics:* factors ↓ED~95~ (less important)
+
++-----------------------+-------------------------------------------------------------------------------------------+
+| Physiology            | - ↓ACh release → ↑drug:ACh ratio                                                          |
+|                       | - Neonate: immature NMJ                                                                   |
+|                       | - Elderly: ↓ACh spare receptors                                                           |
+|                       | - Respiratory acidosis                                                                    |
+|                       | - ↑Mg^2+^: ↑competition with Ca^2+^                                                       |
+|                       | - ↓K^+^: membrane potential more negative -↓ACh release                                   |
++-----------------------+-------------------------------------------------------------------------------------------+
+| Pathology             | - Myasthaenia gravis: antibody against NMJ nAChR → ↑drug:receptor ratio                   |
+|                       | - Lambert-Eaton syndrome: antibody against pre-synaptic VDCC → ↓competition with ACh      |
++-----------------------+-------------------------------------------------------------------------------------------+
+| Pre-synaptic drugs    | ↓ACh release → ↑drug: ACh ratio                                                           |
+|                       |                                                                                           |
+|                       | - ↓α-motor neuron activity: volatile anaesthetic                                          |
+|                       | - ↓ axonal action potential: peripheral nerve local anaesthetic (↓Na^+^ flux)             |
+|                       | - ↓Choline uptake: hemicholinium                                                          |
+|                       | - ↓ACh transport into vesicles: vesamicol                                                 |
+|                       | - ↓AMP/ATP synthesis (frusemide)                                                          |
+|                       | - Block pre-synaptic nAChR (volatiles)                                                    |
+|                       | - Block L-Ca^2+^ (CCB, Mg^2+^, aminoglycosides, volatiles)                                |
++-----------------------+-------------------------------------------------------------------------------------------+
+| Post-synaptic drugs   | ↓Ion flux through nAChR                                                                   |
+|                       |                                                                                           |
+|                       | - Block post-synaptic nAChR: other non-depolarisers, volatiles, aminoglycoside, quinidine |
+|                       | - Desensitisation blockade (volatiles, barbiturates)                                      |
+|                       | - Inhibit peri-junctional action potential: local anaesthetic ↓Na^+^ flux                 |
++-----------------------+-------------------------------------------------------------------------------------------+
+| Post-junctional drugs | - Dantrolene: inhibit skeletal muscle ryanodine receptor                                  |
++-----------------------+-------------------------------------------------------------------------------------------+
+| Toxins                | - Botox: cleave SNARE protein, ↓ACh release                                               |
+|                       | - Tetrodotoxin: VDNaC inhibition                                                          |
++-----------------------+-------------------------------------------------------------------------------------------+

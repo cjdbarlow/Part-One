@@ -1,0 +1,106 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013B Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the effects of intermittent positive pressure ventilation on cardiac output.
+:::
+
+Also asked in: [2014A Question 5](/content/exams/anzca/2014/A/5/index.qmd#examiner-comments), [2019A Question 1](/content/exams/anzca/2019/A/1/index.qmd#examiner-comments), [2021B Question 1](/content/exams/anzca/2021/B/1/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} how the change in intrathoracic pressure affects preload, afterload and output. Follow the circulation from right to left, distinguishing inspiration from expiration.
+
+::: {.structure-headings}
+### Right Heart
+
+### Pulmonary Circulation
+
+### Left Heart
+
+### Overall Effect and Modifying Factors
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**19.7%** of candidates achieved a pass in this question
+
+A very similar question to this was asked in 2001. To cover the topic in enough detail the effects on the right heart, pulmonary blood flow and the left heart needed explaining. A pass mark would be achieved by covering the following points
+
+- a very brief description of the difference between normal ventilation and positive ventilation
+
+- listing the important factors that determine cardiac output
+
+- explaining how venous return and right atrial pressure changes reduce right ventricular output
+
+- raised intra-thoracic pressure increases pulmonary vascular resistance and the effect this has on the right heart output
+
+- the initial effects of reducing pulmonary blood volume and increasing venous return to the left heart
+
+- reduced right heart output reduces pulmonary blood flow and alters left heart preload and function
+
+- explaining the mechanism and effects of a reduction in left ventricular afterload
+
+Additional marks were awarded for explaining
+
+- how a dilated right heart can impair left ventricular filling and function
+
+- how cardiac output improves in volume overloaded settings
+
+- that hypovolaemia/posture has exaggerates effects
+
+- during expiration right heart preload improves and left heart preload falls
+
+Common errors included wrongly attributing an increase in contractility from an increased preload, stating that afterload increases via left ventricular compression, and not linking and explaining the effect that changes have on cardiac output (right and left specifically).
+
+Marks were not awarded for detailed descriptions of mechanical ventilation modes or detailed descriptions of physiological compensation for a decrease in blood pressure.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/B/1/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/B/1/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Positive pressure ventilation](/content/resp/peep.qmd)
+- [Venous return](/content/cvs/venous_return.qmd)
+- [Determinants of cardiac output](/content/cvs/co_determinants.qmd)

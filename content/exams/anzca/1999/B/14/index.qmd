@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999B Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly outline**]{.task-verb} the effects of intravenous induction agents not mediated via the central nervous system.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly outline**]{.task-verb} the effects by system under **Cardiovascular**, **Airway and Respiratory**, **Local Injection Effects**, and **Other Peripheral Effects**. [**Compare**]{.task-verb} the relevant intravenous agents within each heading.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**24%** of candidates passed this question. This question was badly answered, lack of time might have been a factor. Many candidates wasted time on irrelevant details like:
+
+1. Effects of inhalational agents.
+2. Centrally mediated effects, mainly respiratory effects.
+3. Contraindications of intravenous induction agents
+
+Candidates should be able to provide a systematic answer of the effects of the different agents on different systems.
+
+The cardiovascular effects of Ketamine were poorly understood. Ketamine can produce a direct reduction in myocardial contractility especially at high doses while producing a dilator effect on vascular smooth muscle. It also causes a direct increase in coronary blood flow that is unmatched to the central effect of tachycardia, hypertension and increased contractility. The net effect is an unfavourable increase in myocardial oxygen demand and little change in systemic vascular resistance. Similarly the role of nitric oxide in vascular smooth muscle relaxation due to thiopentone and propofol was seldom mentioned.
+
+The respiratory effects should include effects on laryngeal reflexes (relatively maintained with thiopentone and depressed with propofol ) as well as effects on bronchial secretions and bronchial smooth muscle.
+
+The local effects of pain on injection, local thrombosis, skin necrosis and the effects of intra arterial injection of agents like thiopentone should also be mentioned. Other important effects like allergic reactions, histamine release, metabolic, endocrine, gastrointestinal and uterine effects were not mentioned by many candidates.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Propofol](/content/pharmacopoeia/neuro/propofol.qmd)
+- [Ketamine](/content/pharmacopoeia/neuro/ketamine.qmd)
+- [Barbiturates](/content/pharmacopoeia/neuro/barbiturates.qmd)

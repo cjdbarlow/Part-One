@@ -1,0 +1,72 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011B Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the pathogenesis and management of paracetamol toxicity.
+:::
+
+Also asked in: [2006B Question 8](/content/exams/anzca/2006/B/8/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Toxic Dose and Risk Factors**, **Metabolic Pathways and Cellular Injury**, and **Clinical Toxicity**. Then [**describe**]{.task-verb} **Management**, including assessment, N-acetylcysteine, the nomogram and monitoring.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**50.7%** of candidates passed this question.
+
+This question was phrased in 2 parts, “Describe the pathogenesis and management of paracetamol toxicity”. Equal marks were allocated for each half of the question.
+
+The pathogenesis of paracetamol toxicity requires a detailed discussion of the metabolism of paracetamol and how it changes when toxic doses of paracetamol are ingested. Mechanisms of toxicity primarily involving the liver and N-acetyl-p-benzoquinone imine (NAPQI) were also important. Mention of typical doses of paracetamol that could cause toxicity and subpopulations at increased risk of toxicity with lower doses of paracetamol also attracted marks. Candidates who described paracetamol metabolism in overdose using applied principles of pharmacokinetics generally scored well.
+
+Discussion of management of paracetamol toxicity needed to be balanced and mention general measures such as resuscitation and early consideration for liver transplantation as well as the specific therapies such as N-acetyl cysteine and methionine and the specific principles relating to their use.
+
+Candidates who were able to discuss these aspects of the question in sufficient detail achieved a pass mark. Some answers were held back by too much discussion about other aspects of paracetamol pharmacodynamics and unrelated pharmacokinetics.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Paracetamol](/content/pharmacopoeia/analgesics/paracetamol.qmd)

@@ -1,0 +1,68 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011B Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the ionic basis of automaticity of cardiac pacemaker cells.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Ionic Fluxes During the Pacemaker Action Potential** using a labelled trace. Relate sodium, calcium and potassium currents to automaticity, then consider factors that alter the rate of pacemaker discharge.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**69%** of candidates passed this question.
+
+Most candidates provided a reasonable account of the relevant sodium, calcium and potassium fluxes that occur in the sinoatrial node of the heart and could relate these to the action potential.
+
+Extra marks were awarded for discussion of factors that influence automaticity. Many candidates discussed the effects of the autonomic nervous system and some were able to provide details on the mechanism of these effects. However, no candidate discussed the effects of age or fever on automaticity.
+
+Several candidates described the anatomy of the conducting system of the heart, which did not attract any marks for this question.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Cardiac Action Potential](/content/cvs/cardiac_ap.qmd)

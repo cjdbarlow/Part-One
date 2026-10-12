@@ -1,0 +1,68 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001B Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the fuel sources used during early and sustained fasting in man.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Early Fasting** and **Sustained Fasting**, defining the time periods. Within each phase relate the substrates and their breakdown products to fuel use by the brain and other organs.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**51%** of candidates passed this question. A large number of the candidates who did not achieve a pass were borderline fails.
+
+The main points expected for a pass included a definition of early and sustained fasting. A wide range of definitions was accepted so long as early fasting was considered less than 24h. A brief description of the conversion of liver glycogen stores to glucose during early fasting was required as was the importance of glucose as a source of energy. Similarly, a brief description of the role of gluconeogenesis, lipolysis, and the production of ketone bodies during sustained fasting was expected. The fuel sources could be considered as either the substrates (ie glycogen, protein and fat), or their breakdown products (ie glucose, amino acids, free fatty acids, glycerol, and ketone bodies). The reliance of the brain on glucose or ketone bodies was considered core knowledge.
+
+Additional marks were awarded for (1) providing quantitative information, (2) a description of the Cori and alanine cycles, (3) the fuel sources used by individual organs (eg brain, heart, muscle etc), (4) the initial sparing of protein during sustained fasting (due to preferential breakdown of triglycerides), and (5) the time course of changes in fuel utilisation. Candidates who mentioned the continued absorption of food remaining in the gut during early fasting received credit.
+
+Common mistakes were to consider ATP or creatine phosphate as 'fuel' sources, to discuss the effects of water deprivation (while the question asked for a description of fuel sources), or to consider other aspects of starvation. Common omissions were to overlook the importance of glucose, especially in early fasting, and free fatty acids in sustained fasting.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Fasting](/content/metabolic/starvation.qmd)

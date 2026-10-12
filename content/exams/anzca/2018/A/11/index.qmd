@@ -1,0 +1,96 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018A Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the respiratory response to hypoxaemia in both the awake and anaesthetised patient.
+:::
+
+Also asked in: [2021A Question 15](/content/exams/anzca/2021/A/15/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the sensor–controller–effector response in the awake patient, using a labelled response curve. Explain carbon dioxide interactions, then show how anaesthesia changes the response at different doses and include hypoxic pulmonary vasoconstriction.
+
+::: {.structure-headings}
+### Definition and Respiratory Control Pathway
+
+### Peripheral Chemoreceptors and Rapid Response
+
+### Ventilatory Response Curve and Carbon Dioxide Interaction
+
+### Dose-Dependent Effects of Anaesthesia
+
+### Hypoxic Pulmonary Vasoconstriction and Clinical Relevance
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**20%** of candidates achieved a pass in this question
+
+Candidates could attain a pass mark for this question by demonstrating adequate knowledge and understanding of
+
+- the definition of hypoxaemia
+- an appreciation of the sensor-controller-effector mechanisms responsible for the respiratory response
+- hypoxic pulmonary vasoconstriction
+- an understanding of the influence of anaesthesia upon these responses
+
+Whilst most correctly defined hypoxaemia as reduced partial pressure of arterial oxygen, many candidates used incorrect or imprecise terms such as oxygen content or level. Better definitions might also offer a short list of the causes of hypoxaemia.
+
+The sensor-controller-effector elements of respiratory control should be clearly demonstrated, with particular focus on the chemoreceptors. Correctly identifying and locating the peripheral chemoreceptors as those responsible was managed by most candidates, though many incorrectly believed that the central chemoreceptors respond to hypoxaemia. It was essential to demonstrate an understanding of the level of hypoxaemia at which the peripheral receptors dramatically increase their response rate, and the nonlinear nature of this response…this was best shown graphically.
+
+Showing the effect of PaCO2 upon the ventilatory response to hypoxaemia was expected. Hypercapnoea was often correctly noted or drawn to show its synergistic effect on the response, but few candidates identified the influence of hypocapnoea. Knowledge of the cell types, nerve pathways and rapid response pattern of these receptors was of value.
+
+General anaesthesia was noted to impair the response to hypoxaemia by most candidates. Candidates also needed to identify that the effects are dose related, and that even very low levels of volatile can impair the response. Correlating this with relevance of postoperative oxygen therapy was useful.
+
+A graph of minute ventilation vs PaO2 was plotted by most candidates to show the shape of the response to hypoxaemia. Very few candidates took the opportunity to use this graph to also show their understanding of the effects of anaesthesia with a plot showing the suppressed response at 0.1 MAC and the obliterated response at 1MAC. Better responses would identify that the effect, particularly for volatile agents, is thought to be mostly via suppressed chemoreceptor responsiveness, and is partly attenuated by surgical stimulus.
+
+A description of hypoxic pulmonary vasoconstriction was also rewarded, as was the comment that it is slightly impaired by volatile anaesthesia.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2018/A/11/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2018/A/11/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Control of breathing](/content/resp/breathing_control.qmd)
+- [Hypoxia](/content/resp/hypoxia.qmd)

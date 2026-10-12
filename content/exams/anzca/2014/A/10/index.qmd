@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014A Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the pharmacodynamic differences between tramadol and morphine.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+**[List]{.task-verb}** the differences in a comparison table, with a row for each pharmacodynamic effect.
+
+::: {.structure-table}
+| Pharmacodynamic Effect | Morphine | Tramadol |
+|---|---|---|
+| Receptor Targets | | |
+| Mu Receptor Activity | | |
+| Active Metabolite | | |
+| Effect of Polymorphism | | |
+| CNS Effects | | |
+| Cardiovascular Effects | | |
+| Respiratory Effects | | |
+| Other Effects | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**73.6%** of candidates achieved a pass in this question
+
+Major points expected for a pass included that tramadol was a racaemic mixture with actions as a partial mu agonist, as well as a noradrenaline and serotonin reuptake inhibitor. Under the CNS effects, candidates should note that there is a ceiling effect to tramadol, as opposed to morphine, and hence its side effects of sedation, central respiratory depression are limited. Parasympathetic stimulation leads to bradycardia, with morphine, compared with the increased sympathetic tone seen with tramadol. Most candidates noted that both drugs cause nausea and vomiting, although tramadol has less constipation. Bonus marks were given for mention of urinary retention with morphine, histamine release effects with morphine, but not tramadol, and drug interactions between tramadol and MAOI, SSRIs. Although evidence is limited, marks were given for stating that there may be increased awareness using tramadol is part of general anaesthetic and that ondansetron may increase tramadol requirements. Tramadol has a role in neuropathic pain.
+
+Candidates often mentioned the difference in potencies of the two drugs without emphasizing that tramadol had lower efficacy i.e. the ceiling effect of its analgesia. Few mentioned that most of the action of tramadol is due to an active metabolite, which has much higher affinity to the mu receptor than the parent compound. Some correctly mentioned that due to polymorphism of CYP2D6, the pharmacodynamic effects of tramadol could be reduced or enhanced. Others wrongly said that tramadol is a synthetic codeine derivative and that it had actions on the NMDA receptor.
+
+Some candidates mentioned that meiosis (cell division) occurred more with morphine, when the intention was probably miosis. (pupillary constriction)
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2014/A/10/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2014/A/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Tramadol](/content/pharmacopoeia/analgesics/tramadol.qmd)
+- [Opioid receptors and effects](/content/pharmacopoeia/analgesics/opioidspharm.qmd)
+- [Opioid pharmacology](/content/pharmacopoeia/analgesics/opioids.qmd)
+- [Pain pathways](/content/neuro/pain.qmd)

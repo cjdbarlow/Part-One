@@ -1,0 +1,121 @@
+#### List:
+
+- Intro
+- Overall effect of anaesthesia
+- Sensor
+- Controller
+- Behavioural effectors
+- Autonomic effectors: heat conservation/gain
+- Autonomic effectors: heat loss
+
+#### Intro:
+
++--------------------+-----------------------------------------------------------------------------------+
+| Thermo-regulation  | - Tight control of temp \~37°C                                                    |
+|                    | - Heat loss = heat gain except over short period                                  |
+|                    | - Maintains function of enzymes and ion channels, metabolic rate, blood Viscosity |
+|                    | - System = sensors + integrator + effectors                                       |
+|                    | - Dose-dependent impairment of thermoregulation                                   |
+|                    | - Hypothermia (\<36°C) common peri-operatively                                    |
++--------------------+-----------------------------------------------------------------------------------+
+| Modes of heat loss | - Radiation 40%                                                                   |
+|                    | - Convection 30%                                                                  |
+|                    | - Evaporation 15%                                                                 |
+|                    | - Respiration 10%                                                                 |
+|                    | - Conduction 5%                                                                   |
++--------------------+-----------------------------------------------------------------------------------+
+
+#### Overall effect of anaesthesia:
+
++----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Graph          | ![](/content/exams/anzca/2015/A/15/prize-image001.jpg){fig-alt="Three phases of temperature change during general anaesthesia, neuraxial anaesthesia and their combination"} |
++----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Phase 1        | - Distribution ∝ (T~core~- T~periphery~) at onset of anaesthesia                                                                                                             |
++----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Phase 2        | - Heat loss \> heat production                                                                                                                                               |
++----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Phase 3        | - Vasoconstriction constrains heat to the core                                                                                                                               |
+|                | - Peripheral temp continues to fall                                                                                                                                          |
+|                | - Note heat loss rate may still exceed heat production rate                                                                                                                  |
++----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Recovery phase | - Core temp normalizes over 2-5 hours post-op                                                                                                                                |
++----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Sensors:
+
++-----------------------+---------------------------------------------------------------------------------------+
+| Physiology            | - Ambient temp: skin                                                                  |
+|                       |   - Warm receptors: Ruffini endings via C fibres (active \>30°C)                      |
+|                       |   - Cold receptors: Krause bulbs via Aδ fibres (active \<25°C)                        |
+|                       | - Core temp: spinal cord, deep thorax and abdomen                                     |
+|                       | - Afferents via spinothalamic tracts                                                  |
++-----------------------+---------------------------------------------------------------------------------------+
+| General anaesthesia   | - ↓All afferents                                                                      |
++-----------------------+---------------------------------------------------------------------------------------+
+| Neuraxial aneasthesia | - ↓Afferents below block level (loss of heat afferents may be the cause of shivering) |
++-----------------------+---------------------------------------------------------------------------------------+
+
+#### Integrator and controller = hypothalamus:
+
++-----------------------+---------------------------------------------------------------------------------------------------------------------------+
+| Physiology            | - Receives afferents                                                                                                      |
+|                       | - Regulates set point (single target temperature)                                                                         |
+|                       | - Regulates inter-threshold range (range of core temp over which no thermoregulatory response occurs; normally 36.8-37°C) |
+|                       | - Controls behavioural and autonomic effectors                                                                            |
++-----------------------+---------------------------------------------------------------------------------------------------------------------------+
+| General anaesthesia   | - ↑Inter-threshold range from 36.8-37.0 (0.2°C) to 34.3 – 38.3 (4°C)                                                      |
++-----------------------+---------------------------------------------------------------------------------------------------------------------------+
+| Neuraxial anaesthesia | - ↑Inter-threshold range ∝ number of segments blocked                                                                     |
+|                       | - Max reduction in lower threshold 0.6°C                                                                                  |
+|                       | - Loss of tonic thermal input from spinal cord receptor)                                                                  |
+|                       | - Preserved cold perception, can ask for help                                                                             |
++-----------------------+---------------------------------------------------------------------------------------------------------------------------+
+
+#### Behavioural effectors:
+
++-----------------------+---------------------------------------------+
+| Heat conservation     | - Go to warm place → ↓temp gradient         |
+|                       | - Put on clothes → insulation → ↓convection |
+|                       | - Curl up → ↓surface area                   |
++-----------------------+---------------------------------------------+
+| Heat loss             | - Rest (↓heat production)                   |
+|                       | - Hide from sun (↓radiation gain)           |
+|                       | - Take off clothes (↑convection)            |
+|                       | - Pant (↑evaporation) – unimportant in man  |
+|                       | - Lie on a cold surface (↑conduction)       |
++-----------------------+---------------------------------------------+
+| General anaesthesia   | - Ablated responses                         |
++-----------------------+---------------------------------------------+
+| Neuraxial anaesthesia | - Impulses preserved                        |
+|                       | - Ability to respond impaired               |
++-----------------------+---------------------------------------------+
+
+#### Autonomic effectors: heat preservation:
+
++-----------------------+---------------------------------------------------------------------------------------------+
+| Vasoconstriction      | - ↓Skin blood flow and volume → ↓skin temp → ↓gradient → ↓radiation, convection, conduction |
++-----------------------+---------------------------------------------------------------------------------------------+
+| Shivering             | - ↑Metabolic rate 2-3x → ↑heat production                                                   |
++-----------------------+---------------------------------------------------------------------------------------------+
+| Brown fat metabolism  | - ↑MR 2-3x → ↑heat production                                                               |
+|                       | - Only significant in neonates                                                              |
++-----------------------+---------------------------------------------------------------------------------------------+
+| Calorigenic hormones  | - Effect of catecholamines etc. on skeletal muscle, liver                                   |
++-----------------------+---------------------------------------------------------------------------------------------+
+| General anaesthesia   | - All impaired                                                                              |
+|                       | - Rapid distribution of heat from core to periphery by vasodilation                         |
++-----------------------+---------------------------------------------------------------------------------------------+
+| Neuraxial anaesthesia | - Responses ablated below block level, even when threshold reached                          |
++-----------------------+---------------------------------------------------------------------------------------------+
+
+#### Effectors: heat loss
+
++-----------------------+---------------------------------------------------------------------------------------------+
+| Vasodilation          | - ↑Skin blood flow and volume → ↑skin temp → ↑gradient → ↑radiation, conduction, convection |
++-----------------------+---------------------------------------------------------------------------------------------+
+| Sweating              | - Evaporation → loss of latent heat                                                         |
++-----------------------+---------------------------------------------------------------------------------------------+
+| General anaesthesia   | - Both impaired                                                                             |
++-----------------------+---------------------------------------------------------------------------------------------+
+| Neuraxial anaesthesia | - Both impaired below block level                                                           |
++-----------------------+---------------------------------------------------------------------------------------------+

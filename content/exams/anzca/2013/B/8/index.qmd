@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013B Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the effects of resonance and damping on an invasive arterial blood pressure tracing.
+:::
+
+Also asked in: [2007A Question 15](/content/exams/anzca/2007/A/15/index.qmd#examiner-comments), [2011B Question 10](/content/exams/anzca/2011/B/10/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} resonance and damping before linking each to waveform distortion and measured pressures. Use labelled tracings to show the differences.
+
+::: {.structure-headings}
+### Measurement System and Natural Frequency
+
+### Resonance
+
+### Damping Coefficient
+
+### Underdamped, Overdamped and Optimally Damped Tracings
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**30.6%** of candidates achieved a pass in this question
+
+A brief description of an invasive arterial blood pressure measurement system followed by a definition of resonance and a definition of damping allowed for better structuring of answers. What was required after that was a slightly more detailed description of why resonance could be an issue and how it is engineered out of the measurement system. A discussion of the range of values for damping that could apply to a system and what those values mean, followed by an appreciation of critical and optimal damping would round out a good answer.
+
+The most common reason for not passing this question was simply being too brief and not including enough of the elements that were expected in an answer to this question. Repetition of material was present in many answers but was not rewarded with additional credit. More than a few answers confused critical and optimal damping with the range of values given for optimal damping falling between 0.33 and 0.8. Better answers demonstrated a methodical approach to the question, had accurate drawings and were factually correct.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2007/A/15/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/A/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Pressure transduction](/content/equipment/transducers.qmd)

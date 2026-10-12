@@ -1,0 +1,68 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004A Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the physiological factors that determine intracranial pressure. [**Explain**]{.task-verb} briefly how intracranial pressure is regulated.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} determinants under **Intracranial Contents**, **Blood Volume**, **CSF Volume**, and **Other Physiological Influences**. [**Explain**]{.task-verb} briefly **Regulation and Compensation**, relating the Monro–Kellie principle to the pressure–volume relationship.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**57%** of candidates passed this question.
+
+Main points expected for a pass included the definition, normal value and significance of intracranial pressure, a description of the nature of the vault and its component contents and the factors that influence the magnitude of those contents.
+
+Additional points were awarded for discussion of the idea of ICP being non-uniform, the separation of cerebral blood flow from cerebral blood volume and other physiological factors that can change ICP (e.g. posture, intra-thoracic pressure)
+
+Common errors included directionless relationships, graphs with unlabelled axes, a misstatement of the Monro-Kellie hypothesis and the inclusion of details about the effects of pharmacological agents on ICP.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Intracranial Pressure](/content/neuro/icp.qmd)

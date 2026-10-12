@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008B Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the anaesthetic related uses of clonidine. [**What are**]{.task-verb} the effects of clonidine on the cardiovascular and central nervous system and [**how are**]{.task-verb} these effects mediated?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} anaesthetic uses, then explain cardiovascular and central nervous system effects through their sites and receptor mechanisms. Distinguish central sympatholysis from transient peripheral effects and link analgesia to descending and spinal pathways.
+
+::: {.structure-headings}
+### Anaesthetic Uses
+
+### Receptors and Central Sites
+
+### Cardiovascular Effects
+
+### Sedation and Analgesia
+
+### Peripheral and Spinal Mechanisms
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**68%** of candidates passed this question.
+
+A list of anaesthetic related uses includes premedication/anxiolysis, intraoperative haemodynamic stability, and augmentation/prolongation of regional neural blockade. Marks were also awarded for use in post-operative analgesia and post-operative shivering. Extra marks were also provided in discussing its use in prevention of perioperative myocardial ischaemia. Whilst a dry mouth is a common side effect of clonidine, it is not typically used as an antisialogue for anaesthetic purposes. Marks were awarded for discussion about its anaesthetic sparing uses, but no marks were awarded for stating it could be used as an anaesthetic alone. A clear statement about clonidine’s mechanism of action as a partial agonist at α receptors with a relative selectivity of α2:α1 of 200:1 was required. Expected CVS effects included hypotension, bradycardia and peripheral vasodilation.
+
+These are mediated via central α2 receptors which inhibit the vasomotor centre in brainstem. There are no direct effects on the heart, but there is reduction in circulating catecholamines.
+
+Marks were also awarded for discussing initial peripheral vasoconstriction and transient hypertension via direct action on peripheral α2 receptors, extra marks for discussing the changes to the baroreceptor reflex, and bonus marks for mentioning the role of imidazoline receptors in brainstem. The CNS effects of sedation and analgesia are mediated via central α2 receptors via inactivation of locus ceruleus and activation of descending inhibitory pain pathways. Further marks were awarded for discussing the spinal mechanisms of analgesia via spinal α2 receptors in the dorsal horn which depress wide dynamic range neurons involved in peripheral nociceptive input. Information regarding clonidine’s pharmaceutic and pharmacokinetic profile was not required.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2008/B/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Centrally acting antihypertensives](/content/pharmacopoeia/cvs/centrally_acting_anti_hypertensives.qmd)

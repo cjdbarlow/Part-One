@@ -1,0 +1,102 @@
+#### List:
+
+- Intro – propofol, why IV induction, IV kinetics, pre-med
+- 4y0
+- 75yo 70kg
+- 40yo shock
+
+#### Intro:
+
++--------------+---------------------------------------------------------------------------------+
+| Propofol     | - Rapid onset IV anaesthetic                                                    |
+|              | - Effects via GABA-A in brain \> spinal cord                                    |
++--------------+---------------------------------------------------------------------------------+
+| Dosing       | - Aims: unconsciousness, airway reflex suppression                              |
+|              | - If too much: → CVS toxicity (↓SVR, ↓cardiac function, ↓mAP, ↓organ perfusion) |
+|              | - If not enough: → airway complications (laryngospasm, aspiration), awareness   |
++--------------+---------------------------------------------------------------------------------+
+| Determinants | *Factors affecting propofol requirement:*                                       |
+|              |                                                                                 |
+|              | **Administration:**                                                             |
+|              |                                                                                 |
+|              | - ↑Speed of injection → ↓dilution by venous return                              |
+|              |                                                                                 |
+|              | **Kinetic:**                                                                    |
+|              |                                                                                 |
+|              | - N.B. induction kinetics ≠ steady state kinetics                               |
+|              | - ↓*Cardiac output* → ↑dilution (normally 70mL/kg/min)                          |
+|              | - ↓*Central blood volume* → ↓dilution (∝ total blood volume, normally 70mL/kg)  |
+|              | - ↑*% Cardiac output to brain* (normally 58mL/min/100g, 15% CO)                 |
+|              |                                                                                 |
+|              | **Dynamics:** (i.e. Cp50 for unconsciousness)                                   |
+|              |                                                                                 |
+|              | - *Patient*: ↓Cp50 with *age* (↓MAC 6% per year, peak at 6mo)                   |
+|              | - *Pathology*: ↓Cp50 with severe illness (↓mAP, ↓O2, ↑CO2, ↓pH, ↓temp)          |
+|              | - *Adjuvants*: midazolam 0.025mg/kg → ↓30%; 1mcg/kg fentanyl → ↓20%\            |
+|              |   (synergism → ↓propofol → ↓toxicity)                                           |
++--------------+---------------------------------------------------------------------------------+
+
+#### 4yo 15kg:
+
++---------------+--------------------------------------------------------------+
+| Dose          | - 3-5mg/kg IV induction (*say 75mg!*)                        |
++---------------+--------------------------------------------------------------+
+| PK            | - ↑CO/kg \~100-140mL/kg/min cf. 70mL/kg/min, ↑↑ when anxious |
+|               | - ↑TBV \~80mL/kg cf. 70mL/kg → ↑CBV                          |
+|               | - ↑%CO to brain, approx. +30% – 75mL/min/100g                |
++---------------+--------------------------------------------------------------+
+| PD            | - ↑Resistance to anaesthetics                                |
+|               |   - Age: youth →↑MAC, ↑Cp50                                  |
+|               |   - Anxiety: ↑CNS and SNS activity                           |
++---------------+--------------------------------------------------------------+
+| Risk analysis | - ↑Risk of airway complications                              |
+|               |   - Sensitive laryngeal reflexes                             |
+|               | - ↓Risk CVS toxicity                                         |
+|               |   - Responsive vessels                                       |
+|               |   - Effective autoregulation                                 |
+|               |   - Rapid baroreceptor response                              |
++---------------+--------------------------------------------------------------+
+
+#### 75yo 70kg:
+
++---------------+--------------------------------------------+
+| Dose          | - 1-1.5mg/kg (*say 75mg!*)\*               |
++---------------+--------------------------------------------+
+| PK            | - Changes ∝ sarcopaenia; attenuated if fit |
+|               |   - CO: variable ↓                         |
+|               |   - TBV: variable ↓                        |
++---------------+--------------------------------------------+
+| PD            | - ↓MAC with age                            |
+|               | - ↓Laryngeal reflexes                      |
++---------------+--------------------------------------------+
+| Risk analysis | - ↓Risk of airway complications            |
+|               |   - ↓Laryngeal reflexes                    |
+|               | - ↑Risk of CVS toxicity                    |
+|               |   - ↓Autoregulation                        |
+|               |   - ↓Baroreceptor response                 |
+|               |   - Atherosclerosis                        |
++---------------+--------------------------------------------+
+
+\*I’d probably give 100mg IRL, but it’s so neat that the scenarios arrive at the same figure :)
+
+#### 40yo 70kg hypovolaemic shock:
+
++---------------+-------------------------------------------------------------------------------------+
+| Dose          | - Healthy: 2-2.5mg/kg                                                               |
+|               | - Shock: 10% i.e. 0.2-0.25mg/kg (say 20mg)                                          |
+|               | - Resuscitated: 50% i.e. 1-1.25mg/kg (*say 75mg!*)                                  |
+|               |                                                                                     |
+|               | (see Pharmacology and Physiology for Anaesthetists, Hemmings and Egan, 2nd Edition) |
++---------------+-------------------------------------------------------------------------------------+
+| PK            | - Changes ∝ blood loss                                                              |
+|               |   - ↓ CO (due to ↓preload, attenuated by ↑SNS)                                      |
+|               |   - ↓ TBV (by definition)                                                           |
+|               |   - ↑%CO to brain (due to cerebral autoregulation + peripheral vasoconstriction)    |
++---------------+-------------------------------------------------------------------------------------+
+| PD            | - ↓MAC, ↓Cp50                                                                       |
+|               |   - mAP\<50                                                                         |
+|               |   - Acidosis                                                                        |
++---------------+-------------------------------------------------------------------------------------+
+| Risk analysis | - ↓Risk of airway complications                                                     |
+|               | - ↑↑Risk of CVS toxicity                                                            |
++---------------+-------------------------------------------------------------------------------------+

@@ -1,0 +1,64 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001B Question 16 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} correlation and simple linear regression, and [**explain**]{.task-verb} their differences. [**What assumptions**]{.task-verb} are common to both?
+:::
+
+Also asked in: [2000A Question 13](/content/exams/anzca/2000/A/13/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} **Correlation** and **Simple Linear Regression** with scatter plots, then [**explain**]{.task-verb} **Differences** and **Common Assumptions**. Distinguish the correlation coefficient from the regression slope.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question has previously been asked in this form. A pass rate of **82%** indicates that much of the required information had been identified by reference to previous reports. In order to pass in this question, the answer needed to convey the concept that correlation attempts to assess the degree of association between variables, and that linear regression is a process by which a linear relationship could be examined. In reality, linear regression is simply a modelling process, for which the “goodness of fit” of the model (a straight line relationship) to the data is given by the correlation coefficient. Most candidates could name the Pearson and Spearman coefficients and their respective data requirements. Most candidates also stressed the lack of implied causality with correlation and the danger of extrapolating beyond the data range with regression equations. Commenting on the meaning of various values of “r” from –1 to +1 and particularly zero was essential. A useful diagram showing a scattergram with “data” points, a regression line and 95% Confidence Interval lines was included occasionally, being an efficient mode of expressing several important concepts. The coefficient of determination was seldom mentioned, as was the problem of the inevitable correlation (when y is, in fact, necessarily determined by or a product of x). Although most candidates mentioned the term "method of least squares", few attempted to expand the concept and most were incorrect.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Statistical Tests](/content/stats/statistical_tests.qmd)

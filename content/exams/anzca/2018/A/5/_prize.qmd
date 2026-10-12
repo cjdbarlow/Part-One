@@ -1,0 +1,141 @@
+#### List:
+
+- Intro: opioids and receptors
+- CNS effects
+- CVS effects
+- Resp effects
+- Other effects
+
+#### Intro: opioids
+
++--------------------------+---------------------------------------------------------------------------------------+
+| Definitions              | - Opioid: a drug acting via opioid receptors                                          |
+|                          |                                                                                       |
+|                          | (cf. opiate: a naturally occurring derivative of the opium poppy (papaver somniferum) |
++--------------------------+---------------------------------------------------------------------------------------+
+| Opioid receptor          | - G-inhibitory protein-coupled receptor                                               |
+|                          | - ↓cAMP, ↓VDCC activation, ↑K^+^ efflux                                               |
+|                          | - ↓Action potential formation                                                         |
++--------------------------+---------------------------------------------------------------------------------------+
+| Opioid receptor subtypes | - M 1, 2: most opioid effects                                                         |
+|                          | - K 1, 2, 3: spinal analgesia, sedation, miosis                                       |
+|                          | - D 1,2: spinal analgesia, respiratory depression                                     |
+|                          | - NOP: role unclear                                                                   |
++--------------------------+---------------------------------------------------------------------------------------+
+
+#### Central nervous system:
+
++--------------------------------+------------------------+---------------------------------------------------------------+
+| **Effect**                     | **Receptor**           | **Location / (drug)**                                         |
++================================+========================+===============================================================+
+| Supraspinal analgesia          | M                      | - Peri-aqueductal gray area                                   |
+|                                |                        | - Nucleus raphe magnus                                        |
+|                                |                        | - Rostral ventromedial medulla                                |
+|                                |                        | - Cerebral cortex                                             |
++--------------------------------+------------------------+---------------------------------------------------------------+
+| Spinal analgesia               | M, K, D                | - Layers 1,2 of dorsal horn                                   |
+|                                |                        | - Pre-synaptic terminal of nociceptors                        |
++--------------------------------+------------------------+---------------------------------------------------------------+
+| Peripheral analgesia           | M                      | - Peripheral sensory neurons                                  |
+|                                |                        | - Function unclear                                            |
++--------------------------------+------------------------+---------------------------------------------------------------+
+| Hyperalgaesia                  | TLR4                   | - WBCs                                                        |
+|                                |                        | - (Remifentanil’s carboxylic acid metabolite)                 |
++--------------------------------+------------------------+---------------------------------------------------------------+
+| Anti-hyperalgaesia             | NMDA                   | - Post-synaptic, dorsal horn                                  |
+|                                |                        | - Short term: ↓excitability = ↓wind up                        |
+|                                |                        | - Long term: ↓synaptic reinforcement, ↓long term potentiation |
+|                                |                        | - (Methadone, tramadol)                                       |
++--------------------------------+------------------------+---------------------------------------------------------------+
+| Descending inhibition          | Monoamine transporters | - 5-HT and NAd reuptake inhibition                            |
+|                                |                        | - ↑Descending modulation of dorsal horn                       |
+|                                |                        | - Especially layers 2, pre-synaptic inhibition                |
+|                                |                        | - (Tramadol, tapentadol, methadone)                           |
++--------------------------------+------------------------+---------------------------------------------------------------+
+| Local anaesthetic              | VdNaC                  | - Sensory neurons                                             |
+|                                |                        | - (Pethidine)                                                 |
++--------------------------------+------------------------+---------------------------------------------------------------+
+| Sedation                       | M, K                   | - Ascending reticular activating system                       |
+|                                |                        | - ↓Release of glutamate, NAd, ACh, 5HT etc                    |
++--------------------------------+------------------------+---------------------------------------------------------------+
+| Miosis                         | M, K                   | - Nucleus of Edinger-Westphal of CNIII                        |
++--------------------------------+------------------------+---------------------------------------------------------------+
+| Euphoria, dysphoria, addiction | M, K                   | - Limbus, nucleus accumbens                                   |
++--------------------------------+------------------------+---------------------------------------------------------------+
+| Hallucinations                 | M                      | ?                                                             |
++--------------------------------+------------------------+---------------------------------------------------------------+
+| Tolerance                      | M                      | - Receptor, intracellular                                     |
++--------------------------------+------------------------+---------------------------------------------------------------+
+| Anxiety, depression            | NOP                    | - ? Limbic system                                             |
++--------------------------------+------------------------+---------------------------------------------------------------+
+| Appetite modulation            | NOP                    | - ? Hypothalamus                                              |
++--------------------------------+------------------------+---------------------------------------------------------------+
+| Seizures                       | Monoamine transporters | - (Tramadol, norpethidine): ↓5-HT reuptake                    |
+|                                |                        | - (Morphine-3-glucuronide): ? mechanism                       |
++--------------------------------+------------------------+---------------------------------------------------------------+
+| Cognitive dysfunction          | ?                      | - (Norpethidine)                                              |
+|                                |                        | - (Morphine-3-glucuronide)                                    |
++--------------------------------+------------------------+---------------------------------------------------------------+
+| Nausea, vomiting               | M                      | - Chemoreceptor trigger zone                                  |
+|                                |                        | - (serotonin: pethidine, tramadol)                            |
+|                                | 5-HT                   |                                                               |
++--------------------------------+------------------------+---------------------------------------------------------------+
+| Serotonin syndrome             | N/A                    | - (Tramadol, norpethidine, methadone 5HT reuptake)            |
++--------------------------------+------------------------+---------------------------------------------------------------+
+
+#### Cardiovascular:
+
++----------------------------------------+-------------+------------------------------------------------+
+| **Effect**                             | **Subtype** | **Location / (drug)**                          |
++========================================+=============+================================================+
+| ↓SNS outflow: ↓HR, ↓SVR, postural ↓mAP | M           | - SNS: rostral ventrolateral medulla           |
++----------------------------------------+-------------+------------------------------------------------+
+| ↑Vagal: ↓HR                            | M           | - PSNS: dorsal motor nucleus, nucleus ambiguus |
+|                                        |             | - Morphine more than others                    |
++----------------------------------------+-------------+------------------------------------------------+
+| ↑HR                                    | mAChR       | - Post-ganglionic neuron in cardiac plexus     |
+|                                        |             | - (Pethidine – antagonist)                     |
++----------------------------------------+-------------+------------------------------------------------+
+
+#### Respiratory:
+
++-----------------------------------------------+--------------+-----------------------------------------+
+| **Effect**                                    | **Receptor** | **Location / (drug)**                   |
++===============================================+==============+=========================================+
+| ↓RR \> ↓V~T~                                  | M, D         | - Medulla respiratory centre            |
+|                                               |              | - Peripheral and central chemoreceptors |
+| ↓MV response to ↑PaCO~2~ (R shift, ↓slope)    | M            |                                         |
+|                                               |              |                                         |
+| ↓MV response to ↓PaO~2~ (less affected)       |              |                                         |
++-----------------------------------------------+--------------+-----------------------------------------+
+| ↓Airway reflexes, anti-tussive, ETT tolerance | ?            | - Medulla                               |
++-----------------------------------------------+--------------+-----------------------------------------+
+| Chest wall rigidity                           | M            | - GABA-ergic neurons in basal ganglia   |
++-----------------------------------------------+--------------+-----------------------------------------+
+| ↓Cilia activity                               | ?            | - Respiratory epitheilum                |
++-----------------------------------------------+--------------+-----------------------------------------+
+
+#### Other:
+
++-----------------------+--------------+---------------------------+
+| **Effect**            | **Receptor** | **Location / (drug)**     |
++=======================+==============+===========================+
+| ↓GIT motility         | M            | - GIT, medulla            |
+|                       |              |                           |
+| ↓GIT sphincter tone   |              |                           |
++-----------------------+--------------+---------------------------+
+| Urinary retention     | ?            | - Spinal cord             |
++-----------------------+--------------+---------------------------+
+| Pituitary dysfunction | ?            | - Hypothalamus, pituitary |
+|                       |              |                           |
+| ↓ADH/ACTH/PRL/FSH/LH  |              |                           |
+|                       |              |                           |
+| Hypogonadism          |              |                           |
+|                       |              |                           |
+| Osteoporosis          |              |                           |
++-----------------------+--------------+---------------------------+
+| Immune suppression    | ?            | - WBCs                    |
++-----------------------+--------------+---------------------------+
+| Histamine release     | ?            | - Mast cells              |
+|                       |              | - (Morphine)              |
++-----------------------+--------------+---------------------------+

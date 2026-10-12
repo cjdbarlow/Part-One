@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000A Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the pharmacology of oxytocin.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} oxytocin using the standard pharmacological headings, linking receptor action to uterine effects, clinical uses and adverse effects.
+
+::: {.structure-headings}
+### Physicochemistry and Endogenous Source
+
+### Pharmacokinetics
+
+### Mechanism of Action
+
+### Uterine Effects and Clinical Uses
+
+### Other Effects and Adverse Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+There was a high pass rate (**77%**) with few poor answers, which might reflect the fact that candidates had made good use of examiners' reports from previous years.
+
+Oxytocin is an endogenous polypeptide hormone released from the posterior pituitary and is available for clinical use in a synthetic form. In the literature there is some dispute as to whether it is an octapeptide or a nonapeptide and either statement was acceptable. The primary actions of oxytocin are on the gravid uterus and breast milk ducts. It has very poor oral bioavailabilty due to inactivation by chymotrypsin as a first pass effect, and must be administered parenterally but can also be used intranasally. Indications for use are augmentation of labour, uterine contraction post delivery, and as aid in lactation.
+
+The common side effect seen is vasodilation resulting in flushing and a drop in systemic vascular resistance that produces hypotension and a reflex tachycardia that elicits a net increase in cardiac output. This hypotension can augment that seen with anaesthetic agents and techniques that produce hypotension. Synthetic oxytocin has very little antidiuretic hormone effect and the syndrome of water intoxication, whilst relevant and important is not a common side effect. It is usually seen after prolonged high dose infusions with significant water infusion, usually in the from of 5% dextrose. There are real risks to foetal well being if the full dose of oxytocin is administered prior to delivery.
+
+It is stated in texts that oxytocin infusions antagonise the effect of suxamethonium and that it is inactivated if co-administered with blood transfusion.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2000/A/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Oxytocic drugs](/content/pharmacopoeia/obs/oxytocics.qmd)
+- [Pituitary hormones](/content/endo/pituitary.qmd)

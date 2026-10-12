@@ -1,0 +1,65 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012B Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the waveforms and pressures that are seen in each anatomical location during insertion of a pulmonary arterial catheter. [**What factors**]{.task-verb} may increase these pressures?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Superior Vena Cava and Right Atrium**, **Right Ventricle**, **Pulmonary Artery**, and **Wedge Position** with labelled pressure traces and normal values. Then show [**what factors**]{.task-verb} increase pressure at each location.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**68 %** of candidates passed this question.
+
+Most candidates could provide a reasonable account of the waveforms and pressures in the superior vena cava, right atrium, right ventricle and pulmonary artery. Common omissions were a description of the pulmonary capillary wedge trace. Extra marks were awarded for detailed descriptions of the components of each waveform. No marks were awarded for describing how pulmonary arterial catheters are inserted or how they are used for cardiac output measurement. Many candidates did not answer the second part of this question at all, or did not allow themselves sufficient time to answer it adequately. Better candidates provided an organised list of the factors that increase pressures at each of the above anatomical locations. There was considerable confusion regarding the factors that increase pulmonary arterial pressure. Pulmonary hypertension was frequently listed as a cause of (rather than another term for) increased pulmonary arterial pressure. Few candidates noted that increased pulmonary venous pressure (from any cause) increases pulmonary arterial pressure.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Cardiac Output Measurement](/content/equipment/cardiac_output.qmd)
+- [Cardiac Cycle](/content/cvs/cardiac_cycle.qmd)

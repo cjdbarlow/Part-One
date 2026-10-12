@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016A Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the anatomy of the neonatal airway, and [**what implications**]{.task-verb} this has for airway management.
+:::
+
+Also asked in: [2021A Question 7](/content/exams/anzca/2021/A/7/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} each anatomical difference and show [**what**]{.task-verb} its implication for airway management is. Use paired columns, specific neonatal dimensions and relevant positioning or instrumentation consequences.
+
+::: {.structure-table}
+| Anatomical Feature | Airway Management Implication |
+|---|---|
+| Occiput and Head | |
+| Tongue and Upper Airway | |
+| Epiglottis and Laryngeal Position | |
+| Tracheal Dimensions and Tube Position | |
+| Pliability and External Manipulation | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**61 %** of candidates achieved a pass in this question
+
+Well structured answers were written as a table with two columns – listing the anatomical differences on the left, with each corresponding clinical implication on the right. Important points to cover included the large occiput/head, large tongue, epiglottis shape, and position of the larynx. Many answers morphed into a discussion of respiratory physiology (lung volumes, work of breathing, oxygen consumption etc.), however no marks were awarded for these points. Descriptions of anatomical differences needed to be specific. It is not enough to say ‘the airway is smaller’ or ‘the trachea is shorter’ as these points are self-evident. Only three candidates correctly stated the ETT size and insertion length appropriate for a term neonate. The formula (age / 4) + 4 is only applicable after 1 year of age. The majority of candidates used the term “BURP” in relation to neonatal airway management. This stands for Backwards Upwards Rightwards Pressure, and is the most forceful version of external laryngeal manipulation (ELM). Performing this on a neonate would completely compress the airway, and distort the larynx. ELM for a neonate is done very gently, often with the laryngoscopist’s little finger. Medical terms like BURP should be used precisely.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2016/A/3/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2016/A/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Airway anatomy](/content/resp/airway_anatomy.qmd)
+- [Paediatric respiratory physiology](/content/resp/paeds_respiratory.qmd)

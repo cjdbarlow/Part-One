@@ -1,0 +1,38 @@
+Mannitol is used as a diuretic agent and to increase plasma osmolality for the treatment cerebral oedema / intracranial hypertension by decreasing CSF volume / brain extra cellular fluid. 
+
+20% mannitol is a hypertonic solution (compared to plasma)
+
+Usual dose 0.5 \~ 1 g/kg
+
+Rapid onset in minutes
+
+Duration 3 hours
+
+20% Mannitol = 200mg/ml → 500ml = 100g
+
+**Circulatory Effects**:
+
+Volume expansion phase: 
+
+- ↑ volume by 500ml 
+- ↑ Osmolality → ICF fluid contraction 
+- ↑Preload →↑ CO
+
+Volume Depletion Phase
+
+- Freely filtered at glomerulus ↑filtrate osmolality 
+- ↑Urine formation 
+- ↓Intravascular volume / ↓TBW 
+- ↓ Preload →↓CO / mAP →↑ADH release / RAAS Activation
+
+**Cerebral Effects**:
+
+↑plasma osmolality → osmotic dehydration brain tissue → decreased brain volume 
+
+→ Production of Idiogenic osmoles → risk of rebound cerebral oedema 
+
+**Renal Effects**
+
+- Mannitol freely filtered, nor reabsorbed. not secreted 
+- ↑ osmolality of filtrate  → impairment of PCT water reabsorption →↑tubule flow rate →↑ urine formation   
+- Possible impairment of medially gradient maintenance

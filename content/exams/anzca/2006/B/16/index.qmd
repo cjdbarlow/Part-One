@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006B Question 16 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the physiological consequences of acute hypoglycaemia.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} consequences through neuroglycopenia, sympathetic activation and endocrine counter-regulation. Link metabolic responses to restoration of blood glucose and show progression with worsening hypoglycaemia.
+
+::: {.structure-headings}
+### Normal Glucose and Hypoglycaemia
+
+### Neuroglycopenic Consequences
+
+### Sympathetic Response
+
+### Endocrine Counter-Regulation
+
+### Metabolic Responses Restoring Glucose
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**57 %** of candidates passed this question.
+
+This was an applied question asking about hypoglycaemia. The physiological response has two broad components. The first is neurologic because of the brains’ reliance on glucose. These symptoms become increasingly serious as the hypoglycaemia worsens and range from confusion to coma, fitting and death. An early component is significant hunger. Associated with the neurologic response is the sympathetic response that is responsible for several of the signs of a “hypo”. This includes agitation, sweating and pallor. The other component is the endocrine response. The “aim” of this is to increase the blood sugar. This response includes decreased insulin production (if any is usually produced), and increased glucagon, cortisol, and growth hormone.
+
+Two errors were to include details of diabetic ketoacidosis and focussing on changes in plasma osmolality based on the equation that includes glucose. A minor point is that the Australian and New Zealand unit for glucose is mmol/l not mg/dl.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2006/B/16/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Carbohydrate metabolism](/content/metabolic/carbohydrate.qmd)

@@ -1,0 +1,93 @@
+#### List:
+
+- Intro
+- Benefits
+- Harm
+- Clinical use
+
+#### Intro:
+
++-----------------+-------------------------------------------------------------------------+
+| Definition      | - Positive end-expiratory pressure                                      |
++-----------------+-------------------------------------------------------------------------+
+| Overall purpose | - Counteract the fall in FRC that occurs with anaesthesia               |
+|                 | - Prevent collapse of small airways and alveoli                         |
+|                 |   - Especially dependent regions                                        |
+|                 |   - Especially at extubation                                            |
+|                 |   - Note recruitment manoeuvres are required to re-open collapsed areas |
++-----------------+-------------------------------------------------------------------------+
+| Typical range   | - 5-15cmH~2~O                                                           |
++-----------------+-------------------------------------------------------------------------+
+
+#### Benefits of PEEP:
+
++--------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↑Oxygenation                   | - ↑Lung volume → ↑Alveolar surface area → ↑gas exchange                                                                                                        |
+|                                | - Prevent collapse → ↓shunt→↑PaO~2~ → ↑DO~2~                                                                                                                   |
+|                                | - Note theoretical ‘sweet spot’ for DO~2~                                                                                                                      |
+|                                |                                                                                                                                                                |
+|                                | ![](/content/exams/anzca/2016/A/11/prize-image001.jpg){fig-alt="Oxygen delivery, arterial oxygen pressure and cardiac output against increasing PEEP"}         |
+|                                |                                                                                                                                                                |
+|                                | (might not be so simple - see Nunn’s Applied Respiratory Physiology, Fig 30.3)                                                                                 |
++--------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↑Lung compliance               | - ↑Static compliance: due to ↑lung volume → ↑alveolar radius                                                                                                   |
+|                                | - ↑Dynamic compliance: due to prevention of small airway and alveolar collapse                                                                                 |
+|                                |                                                                                                                                                                |
+|                                |     →↓Airway pressure, ↓damage                                                                                                                                 |
+|                                |                                                                                                                                                                |
+|                                | ![](/content/exams/anzca/2016/A/11/prize-image002.jpg){fig-alt="Lung volume and compliance curve showing insufficient, optimal and excessive PEEP"}            |
+|                                |                                                                                                                                                                |
+|                                | (modified from West’s Respiratory Physiology)                                                                                                                  |
++--------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↓Airway resistance             | - Laminar flow: R = (8 x length x viscosity) / (π x radius^4^)                                                                                                 |
+|                                | - Turbulent flow: (P~1~-P~2~) ∝ (length x density) / (radius^5^)                                                                                               |
+|                                | - PEEP → ↑Lung volume → ↑airway radius → ↓resistance                                                                                                           |
+|                                | - Radius is the major factor, since power 4 or 5                                                                                                               |
+|                                |                                                                                                                                                                |
+|                                |     →↓Airway pressure, ↓damage                                                                                                                                 |
+|                                |                                                                                                                                                                |
+|                                | ![](/content/exams/anzca/2016/A/11/prize-image003.jpg){fig-alt="Airway resistance against lung volume"}                                                        |
++--------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↓Pulmonary vascular resistance | - Low volume: compress extra-alveolar vessels                                                                                                                  |
+|                                | - High volume: compress alveolar vessels                                                                                                                       |
+|                                |                                                                                                                                                                |
+|                                |     → PVR minimized at natural FRC                                                                                                                             |
+|                                |                                                                                                                                                                |
+|                                | ![](/content/exams/anzca/2016/A/11/prize-image004.jpg){fig-alt="Pulmonary vascular resistance and alveolar and extra-alveolar components against lung volume"} |
++--------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Prevent damage                 | - ↓Alveolar collapse, ↓atelectrauma                                                                                                                            |
+|                                |                                                                                                                                                                |
+|                                |     → ↓Shear stress                                                                                                                                            |
+|                                |                                                                                                                                                                |
+|                                |     → ↓Inflammation                                                                                                                                            |
++--------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Harm from PEEP:
+
++-----------------------+-----------------------------------------------------------------------+
+| Alveolar damage       | - Over-PEEP → barotrauma, volutrauma, pneumothorax, pneumomediastinum |
++-----------------------+-----------------------------------------------------------------------+
+| Breath stacking       | - ↓Expiration rate → stacking → trauma                                |
+|                       | - Higher risk if asthma, COPD                                         |
++-----------------------+-----------------------------------------------------------------------+
+| Dead space            | - ↑Alveolar pressure → ↑West zone 1                                   |
++-----------------------+-----------------------------------------------------------------------+
+| Impede cardiac output | - ↑Intrathoracic pressure → obstruction to venous return              |
+|                       | - Higher risk if hypovolaemia                                         |
++-----------------------+-----------------------------------------------------------------------+
+
+#### Clinical use:
+
++---------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| General anaesthesia                   | - Prevent ↓FRC, with all the above benefits                                                                                                          |
++---------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Acute cardiogenic pulmonary oedema    | - Obstruction of venous return → normalization of preload                                                                                            |
+|                                       | - ↓Transmural pressure- \> ↓afterload                                                                                                                |
+| (as CPAP)                             | - Move alveolar water into interstitium                                                                                                              |
+|                                       | - Increases lymphatic drainage                                                                                                                       |
+|                                       | - (No effect on total lung water)                                                                                                                    |
+|                                       |                                                                                                                                                      |
+|                                       | ![](/content/exams/anzca/2016/A/11/prize-image005.jpg){fig-alt="Healthy and failing ventricular contraction against end-diastolic sarcomere length"} |
++---------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Type 2 respiratory failure (as BiPAP) | - Splints airways during expiration → shift equal pressure point proximally → ↓airway collapse → ↓obstruction                                        |
++---------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+

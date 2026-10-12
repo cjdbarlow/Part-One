@@ -1,0 +1,33 @@
+![](/content/exams/anzca/2017/A/11/standard-image31.png){fig-alt="Expiratory flow-volume curves in normal, obstructive and restrictive lungs"}
+
+Normal lungs: 
+
+FVC \~4.5l (65ml/kg)
+
+RV \~1.5l (15-20ml/kg)
+
+PEF \~8l/s
+
+High PEFR due to airways dilation at increased lung volume - resistance limited  
+
+Linear down sloping effort independent expiratory flow line as airways calibre decreases with lung volume 
+
+**Obstructive lung disease:**
+
+TLC and RV ↑ due to gas trapping 
+
+TLC ↑
+
+PEF reduced due to reduced airways calibre in obstructive disease, ↓airway radius → ↑resistance as per  Hagen Poiseuille equation:
+
+R= 8nl/πr4
+
+**Restrictive lung disease:**
+
+TLC reduced due to decreased lung compliance
+
+RV unchanged 
+
+PEF may be same or if reduced but in proportion to ↓FVC, FEV1/FCV ration should be unchanged \>0.7
+
+Effort independent expository line is linear

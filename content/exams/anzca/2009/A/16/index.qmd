@@ -1,0 +1,118 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009A Question 16 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the effects of acute exposure to air at an altitude where barometric pressure is 347mmHg. [**What compensatory**]{.task-verb} mechanisms occur with gradual exposure to increasing altitude?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} acute exposure using the alveolar gas equation at the specified barometric pressure. Organise compensatory mechanisms by time course and connect sensing, ventilation, circulation, haemoglobin and tissue changes to oxygen delivery and use.
+
+::: {.structure-headings}
+### Acute Exposure at 347mmHg
+
+### Immediate Sensing and Respiratory Responses
+
+### Early Cardiovascular and Acid–Base Changes
+
+### Haematological and Tissue Adaptation
+
+### Gradual Exposure and Long-Term Adaptation
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**48%** of candidates passed this question.
+
+Main Points expected for a pass:
+
+Definition of acute exposure
+
+Correct use of the alveolar gas equation to calculate PAO2
+
+How the body senses reduced oxygen levels and what compensatory mechanisms are triggered (esp. respiratory and cardiovascular)
+
+Some mention of acute adverse effects
+
+Definition of “gradual exposure”
+
+Explanation of biphasic changes in alveolar minute ventilation
+
+Increased tissue oxygen uptake and utilisation
+
+Increased Hb and mechanism
+
+Mechanisms that act on moving the HbODC
+
+Additional points could be gained for:
+
+Description of other effects at altitude - temperature, humidity, UV light, radiation.
+
+Upper limits of human survival
+
+Physiological differences between high-altitude and low-altitude natives
+
+Long term adaptation
+
+Changes at the cellular level
+
+Common problems:
+
+Illegible handwriting
+
+Poor layout and structure
+
+Many answers were written linearly which did not allow coverage of the breadth of the topic
+
+There was significant confusion regarding the overall direction of movement of the HbODC and the causes of biphasic changes in alveolar ventilation
+
+The main reason for failing this question was a lack of basic knowledge
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2009/A/16/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Altitude](/content/resp/altitude.qmd)

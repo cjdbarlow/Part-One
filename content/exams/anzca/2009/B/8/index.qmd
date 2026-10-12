@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009B Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+Mean arterial blood pressure has been measured in two groups of patients one hour after the administration of either a placebo or an antihypertensive drug. [**Explain**]{.task-verb} how these data could be analysed.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} **Hypothesis and Study Design**, **Data Type and Distribution**, **Choice of Statistical Test**, and **Interpretation**. State the assumptions needed to [**compare**]{.task-verb} the two groups and relate the analysis to the blood pressure outcome.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**35%** of candidates passed this question.
+
+This question examined basic knowledge regarding the ways in which data from two groups of subjects is evaluated and then compared using statistical testing. The question required that candidates apply their knowledge
+
+Points that attracted marks included:
+
+a) Discussions regarding the determination of a hypothesis and its relation to the aim of the research: to disprove the null hypothesis (of no difference between groups)which indicates that the medication may influence blood pressure in a significant way.
+b) Detailed characterization of the data into numerical, ratio, discrete or continuous depending on how it was measured, its distribution and ways of analysing the data if its distribution were not clear on first evaluation. Marks were also given if candidates discussed other ways of organising data to allow evaluation by other types of statistical tests e.g. categorical by conversion of blood pressure measurements into discreet categories
+c) Attempts to identify study and data characteristics in the best way possible to select most accurate test to evaluate hypothesis. Note that all such information was not given with the blood pressure readings allowing candidates to discuss different contingencies and different tests which may be used. Mentioning characteristics such as independent measurement, normal distribution, similarity of variances, number of observations etc.
+d) Finally the tests which could be used to evaluate the data as well as their specific characteristics : Students –T for parametric, Mann Whitney U and Wilcoxon signed ranks for non-parametric.
+e) A brief description of the way the test was evaluated and the conclusions drawn from the result.
+f) The creation of and use of confidence intervals to indicate clinical significance.
+
+The most common mistakes involved misinterpretation of the question with detailed discussion of conduct of randomized controlled trials, power analysis, and use of contingency tables to determine specificity and sensitivity. Lack of application of knowledge to the specific example of the blood pressure readings was also a common characteristic of many answers.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Statistical Tests](/content/stats/statistical_tests.qmd)
+- [Clinical Trial Design](/content/stats/clinical_trial_design.qmd)

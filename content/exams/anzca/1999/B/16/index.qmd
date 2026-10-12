@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999B Question 16 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the factors that determine recovery (offset of action) after ceasing a drug infusion.
+:::
+
+Also asked in: [2002A Question 10](/content/exams/anzca/2002/A/10/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} recovery by following the effect-site concentration from the end of infusion to the threshold for offset. Distinguish redistribution from elimination and explain how drug, patient and infusion factors alter each stage.
+
+::: {.structure-headings}
+### Effect-Site Concentration at the End of Infusion
+
+### Movement From the Effect Site
+
+### Distribution and Elimination
+
+### Concentration Required for Recovery
+
+### Active Metabolites and Persistent Drug Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The pass rate for this question was **55%**. As always, it was disappointing to see that several candidates had failed to plan the examination, and had left little or no time to answer the final question.
+
+An ideal answer would have considered the offset of infusion effects in terms of both pharmacokinetics and pharmacodynamics. Kinetic parameters of importance include re-distribution and clearance. Pharmacodynamic effects would have led to a consideration of the interactions with other drugs. Good answers used several examples, the commonest used being propofol, remifentanil and non-depolarizing muscle relaxants. Answers (and there were many) which concentrated purely on the issue of context-sensitive half time and remifentanil attested more to successful marketing by drug companies, rather than a clear understanding by candidates of the issues raised by this question.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/B/16/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Intravenous drug kinetics](/content/pharmacology/iv_kinetics.qmd)
+- [Drug elimination](/content/pharmacology/elimination.qmd)

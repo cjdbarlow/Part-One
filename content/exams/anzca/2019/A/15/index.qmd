@@ -1,0 +1,87 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019A Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the reasons why a pulse oximeter may give incorrect readings
+:::
+
+Also asked in: [2016B Question 7](/content/exams/anzca/2016/B/7/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} inaccuracies through the measurement process, then separate processor limitations, probe interference and patient factors. For each, connect the mechanism to the direction or reliability of the displayed reading.
+
+::: {.structure-headings}
+### Measurement Principles
+
+### Intrinsic and Processor Limitations
+
+### Probe and Environmental Interference
+
+### Patient and Perfusion Factors
+
+### Abnormal Haemoglobins
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**33.7%** of candidates achieved a pass in this question
+
+To achieve a pass mark, candidates needed to demonstrate the ability to integrate knowledge of how the device works with the way in which this may lead to errors. The importance of answering the question asked cannot be overstated here. A very large proportion of candidates seemed to be answering the question “Explain how a pulse oximeter works and list the sources of error” which was not the question that was asked. Writing a list is not explaining.
+
+A good answer grouped errors into categories based on mechanism of error; described of the error, including the direction of the error; and was able to link information on the way the device works to the explanation of how errors were likely to occur.
+
+Common problems included
+
+- Use of vague statements like “causes inaccurate readings” rather than precise statements such as “causes a false low reading”
+- Giving very detailed descriptions of how a pulse oximeter works but failing to link this information to how errors are caused.
+- Lack of detail or confusion about the mechanism by which the errors are caused.
+- SaO2 often used interchangeably with SpO2
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2016/B/7/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2016/B/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Pulse oximetry](/content/equipment/pulse_oximetry.qmd)

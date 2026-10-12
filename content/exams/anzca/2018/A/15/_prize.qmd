@@ -1,0 +1,71 @@
+#### List:
+
+- Intro: structure, life cycle, secretion
+- Platelet activation process
+- Function: each aspect of coagulation
+
+#### Intro:
+
++------------+----------------------------------------------------------------------------------------------------+
+| Structure  | - Subcellular fragment                                                                             |
+|            | - Biconvex, discoid                                                                                |
+|            | - 2-3μm greatest diameter                                                                          |
+|            | - No nucleus, few organelles                                                                       |
+|            | - Complex cytoskeleton                                                                             |
+|            | - Many surface receptors                                                                           |
++------------+----------------------------------------------------------------------------------------------------+
+| Life cycle | - Thousands produced by each megakaryocyte                                                         |
+|            | - Stimulus for production is TPO                                                                   |
+|            | - 1/3 sequestered in the spleen                                                                    |
+|            | - Normal life span 1/52                                                                            |
++------------+----------------------------------------------------------------------------------------------------+
+| Secretions | (1) Alpha granules                                                                                 |
+|            |     - Factors II, V, VII, XI, XIII (coag cascade)                                                  |
+|            |     - vWF (activates platelets, binds and protects circulating factor VIII)                        |
+|            |     - Fibronectin                                                                                  |
+|            |     - TFPI                                                                                         |
+|            |     - PAI-1                                                                                        |
+|            |     - PDGF                                                                                         |
+|            | (2) Dense granules                                                                                 |
+|            |     - ADP: binds to P2Y~1~ or P2Y~12~ GPCR ↑cAMP, causes activation (inhibited by thienopyridines) |
+|            |     - Serotonin: binds 5-HTR (various), causes activation and vasoconstriction                     |
+|            | (3) Thromboxane A~2~                                                                               |
+|            |     - Binds TXA~2~ receptor (GPCR, ↑cAMP)                                                          |
+|            |     - Causes activation and vasoconstriction (inhibited by aspirin)                                |
++------------+----------------------------------------------------------------------------------------------------+
+
+#### Platelet activation process:
+
++------------------------+---------------------------------------------------------------------------------------------------------+
+| Adhesion               | - Glycoprotein 1b-V-IX: binds vWF immobilized on collagen                                               |
+|                        | - GP Ia-IIa: binds collagen directly                                                                    |
+|                        | - GP VI: binds collagen directly                                                                        |
+|                        | - GP IIbIIIa: joins platelets via free vWF and fibrinogen, only once activated (inhibited by abciximab) |
++------------------------+---------------------------------------------------------------------------------------------------------+
+| Stimuli for activation | - Collagen binding                                                                                      |
+|                        | - Paracrine binding: vWF, ADP, TXA~2~                                                                   |
+|                        | - Coag factor: thrombin                                                                                 |
++------------------------+---------------------------------------------------------------------------------------------------------+
+| Effects of activation  | - GP IIb-IIIa receptor changes to active conformation → aggregation + activation                        |
+|                        | - Secrete granules and TXA~2~ → aggregation + activation + vasoconstriction                             |
+|                        | - Cytoskeletal contraction → irregular shape with filopodia → aggregation                               |
+|                        | - Express phosphatidylserine (-ve charge)                                                               |
++------------------------+---------------------------------------------------------------------------------------------------------+
+
+#### Platelet functions:
+
++---------------------------------+--------------------------------------------------------------------+
+| Primary haemostasis             | - Vessel injury exposes platelet to subendothelial collagen        |
+|                                 | - Platelet adhesion, activation, aggregation occur                 |
+|                                 | - Released mediators cause vasoconstriction, reducing blood flow   |
++---------------------------------+--------------------------------------------------------------------+
+| Promote secondary haemostasis   | - Platelet plug is backbone for coag cascade                       |
+|                                 | - Negatively charged phosphatidylserine supports clotting assembly |
+|                                 | - Secretion of α-granules with coag factors including vWF          |
++---------------------------------+--------------------------------------------------------------------+
+| Prevent premature fibrinolysis  | - Secretion of PAI-1: inhibits t-PA or u-PA                        |
++---------------------------------+--------------------------------------------------------------------+
+| Prevent runaway anticoagulation | - Secretion of TFPI: inhibits VIIa/TF, Xa                          |
++---------------------------------+--------------------------------------------------------------------+
+| Stimulate wound healing         | - Secretion of PDGF                                                |
++---------------------------------+--------------------------------------------------------------------+

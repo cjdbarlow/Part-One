@@ -1,0 +1,74 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003A Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} how differences in the pharmacokinetics of alfentanil and fentanyl can influence the way they are administered intravenously.
+:::
+
+Also asked in: [2000B Question 12](/content/exams/anzca/2000/B/12/index.qmd#examiner-comments), [2013B Question 12](/content/exams/anzca/2013/B/12/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} each pharmacokinetic difference through its consequence for bolus dosing, repeated doses or infusion.
+
+::: {.structure-table}
+| Pharmacokinetic Feature | Alfentanil | Fentanyl | Implication for IV Administration |
+|---|---|---|---|
+| Onset and Peak Effect | | | |
+| Distribution and Initial Offset | | | |
+| Clearance and Elimination | | | |
+| Accumulation and Context-Sensitive Half Time | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The pass rate was **51%**. Candidates were expected to provide a pharmacokinetic explanation to the differences in the way fentanyl and alfentanil behave when given intravenously. The differences in onset time, effect site equilibration, pka and diffusible fraction should have been discussed. The differences in offset time (bolus and infusion), context sensitive half time and the kinetics underlying this should have been outlined. Many candidates presented a comparative table of kinetic data of both drugs without any further explanation. Similarly, many candidates presented context sensitive half-time graphs with inaccurate indication of the behaviour of the two drugs. Candidates who provided representative figures on kinetics with their answer and made comments on administration of a single small dose bolus, high dose, repeated bolus and infusion gained extra marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2000/B/12/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2000/B/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Opioid pharmacology](/content/pharmacopoeia/analgesics/opioids.qmd)
+- [Intravenous drug kinetics](/content/pharmacology/iv_kinetics.qmd)

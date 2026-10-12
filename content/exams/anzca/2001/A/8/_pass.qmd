@@ -1,0 +1,14 @@
+Functional residual capacity is the residual volume + expiratory reserve volume or otherwise described as being the lung volume remaining at the end of tidal expiration. It is the point at which the balance between the forces of chest wall outwards recoil and lung elastic recoil and surface tension intersect.
+
+FRC is usually 30ml/kg or approx. 2100ml in a healthy adult. 
+
+Causes of reduced FRC include decreased respiratory compliance, decreased muscle tone due to anaesthesia, obesity, pregnancy, and patient positioning such as supine. 
+
+Reducing FRC by 1 (approx. 30-50%) litre has multiple physiological consequences:
+
+1)  Decreased lung compliance, at FRC the lung should be on the steep portion of the compliance curve. Decreasing FRC would likely decrease the lung compliance resulting in greater transpulmonary pressures being required to inflate the lungs. 
+2)  Reduced alveolar diameter with reduced FRC would result in increased alveolar collapse/atelectasis and subsequent reduced gas diffusion/exchange surface area.
+3)  Closing Capacity (CC) is the lung volume at which the small airways collapse. In a healthy 44 year old adult closing capacity exceeds FRC supine while it exceeds FRC in an erect 66 year old. Decreasing FRC results is CC exceeding FRC in normal ventilation resulting in increased atelectasis and reduced gas exchange → increased risk of hypoxaemia 
+4)  Pulmonary Vascular resistance Is increased at volumes above or below FRC. Reducing FRC results in increased pressure on extra alveolar vessels and will result in increased PVR
+5)  Due to decreased radial tension on airways at decreased FRC the smaller diameter of airways would result in increased airway resistance
+6)  Decreased Reservoir Pre oxygenation in anaesthesia, in preoxygenation the FRC is denitrogenofied and produces an oxygen reservoir for metabolism during apnoea. Reducing FRC would therefore reduce the date apnoea time

@@ -1,0 +1,92 @@
+#### List:
+
+- Intro
+- Flow dynamics
+- Regular of vascular resistance
+- Anatomical factors
+
+#### Intro:
+
++------------+--------------------------------------------------+
+| Physiology | - Similar to brain tissue                        |
+|            | - Highly active: O~2~ consumption 3.3mL/min/100g |
+|            | - Highly perfused: 58mL/min/100g                 |
++------------+--------------------------------------------------+
+| Pathology  | - Interruption → ischaemia → paralysis           |
++------------+--------------------------------------------------+
+
+#### Flow dynamics:
+
++------------------+---------------------------------------------------------------------------------+-------------------------------+
+| Ohm’s law        | SBF = mAP – SCP or CVP / SVR                                                                                    |
+|                  |                                                                                                                 |
+|                  | - SBF: spinal blood flow                                                                                        |
+|                  | - SCP: spinal cord pressure                                                                                     |
+|                  | - SVR: spinal vascular resistance                                                                               |
+|                  |                                                                                                                 |
+|                  | Hence factors ↓CBF:                                                                                             |
+|                  |                                                                                                                 |
+|                  | - ↓ mAP                                                                                                         |
+|                  | - ↑ SCP / ↑ CVP (Starling resistor – whichever is higher)                                                       |
+|                  | - ↑ SVR                                                                                                         |
++------------------+---------------------------------------------------------------------------------+-------------------------------+
+| Poiseuille’s law | Resistance = (8 x length x viscosity) / (π x radius^4^) – assuming laminar flow |                               |
+|                  |                                                                                 |                               |
+|                  | Hence factors ↑resistance:                                                      |                               |
+|                  |                                                                                 |                               |
+|                  | - ↓Radius (note power of 4, most important)                                     |                               |
+|                  | - ↑Length (not under control)                                                   |                               |
+|                  | - ↑Viscosity                                                                    |                               |
++------------------+---------------------------------------------------------------------------------+-------------------------------+
+
+#### Regulation of vascular resistance:
+
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Autoregulation          | **Myogenic:**                                                                                                                                                                                                                                         |
+|                         |                                                                                                                                                                                                                                                       |
+|                         | - Global blood flow constant 58mL/min/100g                                                                                                                                                                                                            |
+|                         | - ↑flow → ↑stretch → reflex contraction → ↓radius → ↓flow                                                                                                                                                                                             |
+|                         | - Effective for perfusion pressure 50-150mmHg                                                                                                                                                                                                         |
+|                         |                                                                                                                                                                                                                                                       |
+|                         | ![](/content/exams/anzca/2016/B/6/prize-image001.jpg){fig-alt="Autoregulation curve relating blood flow to mean arterial pressure"}                                                                                                                   |
+|                         |                                                                                                                                                                                                                                                       |
+|                         | **Metabolic:**                                                                                                                                                                                                                                        |
+|                         |                                                                                                                                                                                                                                                       |
+|                         | - Regional blood flow ∝ metabolic rate (MR)                                                                                                                                                                                                           |
+|                         | - ↓MR → ↓H^+^/K^+^/adenosine/lactate/pCO~2~ and ↑pO~2~ → local vasoconstriction → ↓radius → ↓flow                                                                                                                                                     |
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Physiological variables | **Oxygen:**                                                                                                                                                                                                                                           |
+|                         |                                                                                                                                                                                                                                                       |
+|                         | - ↓PaO~2~ \<50mmHg → vasodilate → ↑radius → ↑SBF                                                                                                                                                                                                      |
+|                         | - Non-linear response. Doubles at 30mmHg.                                                                                                                                                                                                             |
+|                         |                                                                                                                                                                                                                                                       |
+|                         | **Carbon dioxide:**                                                                                                                                                                                                                                   |
+|                         |                                                                                                                                                                                                                                                       |
+|                         | - ↑PaCO~2~ → vasodilate                                                                                                                                                                                                                               |
+|                         | - Linear response 20-80mmHg                                                                                                                                                                                                                           |
+|                         |                                                                                                                                                                                                                                                       |
+|                         | **Temperature:**                                                                                                                                                                                                                                      |
+|                         |                                                                                                                                                                                                                                                       |
+|                         | - ↓Temp: ↓MR → ↓SBF via metabolic autoregulation                                                                                                                                                                                                      |
+|                         | - Near linear response: ↓7% per 1°C                                                                                                                                                                                                                   |
+|                         |                                                                                                                                                                                                                                                       |
+|                         | ![](/content/exams/anzca/2016/B/6/prize-image002.jpg){fig-alt="Blood flow responses to arterial oxygen and carbon dioxide pressures"}![](/content/exams/anzca/2016/B/6/prize-image003.jpg){fig-alt="Cerebral oxygen consumption against temperature"} |
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Other                   | - Neural: noradrenaline at α~1~ → vasoconstriction (minor)                                                                                                                                                                                            |
+|                         | - Hormonal: adrenaline → mixed effects at α~1~, β~1~ (minor)                                                                                                                                                                                          |
+|                         | - Rheologic: ↑Hct → ↑viscosity → CVR                                                                                                                                                                                                                  |
++-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Anatomical factors:
+
++-----------------+------------------------------------------------------------------------+
+| Arterial supply | - Anterior spinal artery – anterior 2/3 (from vertebral arteries)      |
+|                 | - Posterior spinal artery x 2 – posterior 1/3                          |
+|                 | - Segmental reinforcement by thoracic and lumbar arteries              |
+|                 | - Major reinforcement by the artery of Adamkiewicz (usually left T11)\ |
+|                 |   i.e. vulnerable during aortic surgery                                |
++-----------------+------------------------------------------------------------------------+
+| Venous drainage | - Radicular veins                                                      |
+|                 | - Anterior and posterior spinal veins                                  |
+|                 | - Internal vertebral venous plexus                                     |
++-----------------+------------------------------------------------------------------------+

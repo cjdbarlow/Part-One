@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019A Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the effects of pregnancy on the respiratory system that are relevant to the practice of anaesthesia. Include in your answer how these effects influence the conduct of anaesthesia.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} the respiratory physiology first, linking hormonal and anatomical changes to lung volumes, ventilation and gas exchange. For each change explain its anaesthetic significance, rather than providing a separate detailed management plan.
+
+::: {.structure-headings}
+### Hormonal and Anatomical Changes
+
+### Lung Volumes, Position and Airway Closure
+
+### Ventilation and Respiratory Control
+
+### Gas Exchange and Oxygen Demand
+
+### Implications for Anaesthesia
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**40.9%** of candidates achieved a pass in this question
+
+This question covered three topics from the primary examination syllabus: the respiratory system, physiological changes in pregnancy, and anaesthetic implications of these. To pass this question, candidates were expected to cover the respiratory changes in pregnancy with good understanding of the wider concepts demonstrated. Part of this was demonstrating understanding of the role of progesterone in driving these respiratory changes.
+
+Candidates who scored well covered the respiratory changes in pregnancy completely and with adequate detail. They included values or percentage changes of the various lung volumes affected. Discussion about the maternal foetal oxygen transfer was not required for a pass, but was often discussed in the higher scoring papers.
+
+For a question primarily about physiology, there were a wide range of non-physiology topics covered. Detailed plans for difficult airway, reflux and awareness management, with little demonstration of the primary physiology behind the respiratory changes in pregnancy, did not score well.
+
+There were some common areas of physiology which were misunderstood. Many discussed the reduction in FRC, but not to grasp that this was worsened in a supine patient or in a patient undergoing a general anaesthetic. The reasons given for upper airway oedema, should it occur, were often incorrect. The relationship between the FRC and the closing capacity in a term pregnant woman was often neglected or incorrectly described.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2019/A/3/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2019/A/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Respiratory changes of pregnancy](/content/obs/preg_resp.qmd)

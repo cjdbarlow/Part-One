@@ -1,0 +1,41 @@
+Obesity is a multi-system disorder defined by an elevated body mass index:
+
+Normal BMI: 18-25
+
+Overweight: 25-30
+
+Obese: 30-40
+
+Morbid Obesity \>40
+
+Increased body mass 20%LBM 80%adipose 
+
+Overall ↑respiratory demand  with ↓ Respiratory reserve
+
+Morbid Obesity causes several effects to the respiratory system:
+
+Airway:
+
+- Increased neck and soft tissue leads to ↑ risk of OSA 
+- Increased risk of reflux and aspiration 
+- Increased risk of difficult BMV and intubation 
+
+Lung Volumes and Capacities 
+
+- ↓FRC \~ 25% \@BMI 30and ↓ERV - worse supine or with GA
+- Decreased chest wall compliance due to increased mass/weight of chest wall 
+- Decreased lung compliance secondary to basal atelectasis 
+- If FRC \<CC → ↑ shunt 
+- Rapid desaturation and after induction
+
+Ventilation
+
+- ↑airway resistance due to decreased airway radius at lower lung volumes 
+- ↓FRC - Closing capacity differential as FRC is reduced, gas trapping may start to occur causing ↑ A-A gradient. 
+- ↑MV requirements due to ↑VO2 and VCO2 from increased body mass 
+- Increased work of breathing due to ↓compliance and ↑resistance
+- Obesity related hypoventilation - inc PaCO2 levels due to blunting of respiratory reflexes ↓respiratory five 
+
+Pulmonary Circulation 
+
+- Increased risk of pulmonary hypertension secondary to hypoxic pulmonary vasoconstriction

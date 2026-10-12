@@ -1,0 +1,75 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001B Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**What do you understand**]{.task-verb} by the term “clearance”. Using propofol as an example, [**explain briefly**]{.task-verb} the importance of clearance.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+Define clearance with its units and relevant equations, then [**explain briefly**]{.task-verb} its importance for propofol infusion rates and recovery. Distinguish elimination from redistribution after a bolus.
+
+::: {.structure-headings}
+### Definition, Units and Equations
+
+### Propofol Clearance and Elimination Sites
+
+### Steady State Infusion Rates
+
+### Offset After Bolus and Infusion
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**77%** of candidates passed this question. It was expected that candidates should provide a definition of clearance including units. Some mention of total body clearance being the sum of individual organ clearances was also expected. The most common mistakes made were to define the elimination rate rather than clearance and/or not to provide units. Some candidates entered into erudite discussion of renal clearance, which was more a discussion of renal physiology than drug pharmacology.
+
+Propofol is a general anaesthetic agent with a high clearance (30ml.kg^-1^.min^-1^ ). This is in fact greater than liver blood flow suggesting extra-hepatic sites of elimination. Whilst redistribution is important in drug offset in bolus doses, clearance becomes increasingly relevant with infusions. Clearance is also important in determining steady state infusion rates. Most candidates understood these concepts. Equations were a time efficient method of explaining concepts however this occasionally led to confusion. For example volume of distribution and clearance are independent variables and in effect the half life is a proportionality constant. Answers of a higher standard mentioned context-sensitive half time, compartment model infusion regimens and compared propofol to thiopentone.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2001/B/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Drug elimination](/content/pharmacology/elimination.qmd)
+- [Propofol](/content/pharmacopoeia/neuro/propofol.qmd)

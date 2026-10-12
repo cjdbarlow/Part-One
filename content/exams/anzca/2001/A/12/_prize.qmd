@@ -1,0 +1,81 @@
+#### List:
+
+- A: airway reflexes
+- B: respiratory depression
+- C: pulmonary circulation
+- D: excitation
+
+#### A: airway:
+
++--------------------------+---------------------------------------------------------------------------+
+| Physicochemical          | - Isoflurane, desflurane: irritation → laryngospasm, coughing, secretions |
+|                          | - Sevoflurane, halothane, enflurane → gas induction well tolerated        |
++--------------------------+---------------------------------------------------------------------------+
+| Bronchodilatation        | - ↓L-Ca^2+^, ↑NO activity                                                 |
+|                          | - ↓Airway resistance, ↓work of breathing; use in status asthmaticus       |
+|                          | - ↑Anatomical dead space (not clinically significant)                     |
++--------------------------+---------------------------------------------------------------------------+
+| ↓Airway reflexes         | - Tolerate LMA                                                            |
+|                          | - ↑Risk aspiration                                                        |
++--------------------------+---------------------------------------------------------------------------+
+| ↓Pharyngeal dilator tone | - Skeletal muscle relaxation → airway obstruction (especially if OSA)     |
++--------------------------+---------------------------------------------------------------------------+
+| ↓Ciliary activity        | - ?↑Risk pneumonia                                                        |
++--------------------------+---------------------------------------------------------------------------+
+
+#### B: respiratory depression
+
++-----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Summary         | - ↑RR, ↓VT                                                                                                                                                                               |
+|                 | - ↓MV, ↑PaCO~2~ (\~50mmHg at 1 MAC)                                                                                                                                                      |
+|                 | - ↓Response to ↑PaCO~2~                                                                                                                                                                  |
+|                 | - ↓↓Response to ↓PaO~2~                                                                                                                                                                  |
+|                 | - Respiratory arrest at high concentration\                                                                                                                                              |
+|                 |   \                                                                                                                                                                                      |
+|                 | - Enflurane \> isoflurane/desflurane \> sevoflurane \> halothane                                                                                                                         |
++-----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Response curves | ![](/content/exams/anzca/2001/A/12/prize-image001.jpg){fig-alt="Minute ventilation against end-tidal oxygen pressure when unmedicated and at 0.1 MAC and 1.0 MAC"}                       |
+|                 |                                                                                                                                                                                          |
+|                 | ![](/content/exams/anzca/2001/A/12/prize-image002.jpg){fig-alt="Alveolar ventilation against arterial carbon dioxide pressure, showing depression by volatile anaesthetics and opioids"} |
++-----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Mechanisms      | - Respiratory centre depression                                                                                                                                                          |
+|                 |   - ↑GABA, ↑glycine in brainstem                                                                                                                                                         |
+|                 | - Chemoreceptor depression                                                                                                                                                               |
+|                 |   - ? mechanism                                                                                                                                                                          |
+|                 | - Skeletal muscle relaxation                                                                                                                                                             |
+|                 |   - Affects intercostals \> diaphragm                                                                                                                                                    |
+|                 |   - ↑Glycine, ↑GABA: ↓spinal cord α-motor neuron output                                                                                                                                  |
+|                 |   - Inhibition of L-Ca^2+^ channel: ↓force of contraction                                                                                                                                |
+|                 |   - Inhibition of post-synaptic nAChR at NMJ                                                                                                                                             |
+|                 |   - Inhibition of pre-synaptic VDCC at NMJ                                                                                                                                               |
++-----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### C: pulmonary circulation
+
++---------------------------+-----------------------------------------------------------------------+
+| ↓HPV                      | - Inhibition of L-Ca^2+^ channel, ↑NO release                         |
+|                           | - Pulmonary vasodilatation                                            |
+|                           | - ↓PVR, ↓HPV                                                          |
+|                           | - ↑V/Q mismatch → ↓PaO~2~                                             |
++---------------------------+-----------------------------------------------------------------------+
+| ↑Dead space               | - ↓Venous return → ↓RV output                                         |
+|                           | - ↓PASP → ↑West zone 1 i.e. alveolar dead space                       |
+|                           | - ↑PaCO~2~ – etCO~2~ difference                                       |
++---------------------------+-----------------------------------------------------------------------+
+| Carbon monoxide poisoning | - Desflurane \> isoflurane = enflurane                                |
+|                           | - Reaction with CO~2~ absorber                                        |
+|                           | - HbCO can rise to 35%                                                |
+|                           | - Risk factors: ↓FGF, ↑temp, exhausted absorber, baralyme \> sodalime |
++---------------------------+-----------------------------------------------------------------------+
+
+#### D: excitation
+
+*i.e. Guedel’s stage 2: at concentration just above MAC-awake*
+
++-----------+------------------------------------------------------------------+
+| Airway    | - ↑Sensitivity to stimulation                                    |
+|           | - Coughing, laryngospasm, bronchospasm, regurgitation/aspiration |
++-----------+------------------------------------------------------------------+
+| Breathing | - ↑↑RR                                                           |
+|           | - Irregular breathing, breath holding                            |
++-----------+------------------------------------------------------------------+

@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000A Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the effects of opioids on the respiratory system.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the respiratory effects by linking receptor sites to ventilation, airway reflexes and other respiratory consequences. Include factors affecting their magnitude and timing.
+
+::: {.structure-headings}
+### Respiratory Depression and Chemoreflex Responses
+
+### Risk Factors, Protective Factors and Timing
+
+### Airway Reflex Depression
+
+### Chest Wall Rigidity, Bronchospasm and Other Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**75%** of candidates passed this question, although very few achieved a high mark.
+
+The question required a description of the centrally mediated effects of opioids, including site of action, receptors, effects on respiratory rate, tidal volume, responsiveness to carbon dioxide and oxygen concentrations in the blood, and that the drug can cause apnoea. Mention of truncal rigidity, mast cell degranulation, and depression of cough reflex and cilial motility were expected.
+
+Better answers included some differentiation of effects of different opioids such as morphine, pethidine, phenylpiperidines and partial agonists. How pharmacokinetics of the drugs and route of administration alter the likelihood and timing of effects, and how other sedative drugs, sleep, disease (such as sleep apnoea), extremes of age, hypothermia and the degree of pain affect the responses in individuals could have been included. Secondary effects of sedation and loss of upper airway reflexes were rarely mentioned.
+
+Extremely few candidates mentioned the therapeutic ratio of these effects, the fact that they occur in the dose range of desirable analgesia, that tolerance does not always develop to the respiratory depression, or that the respiratory depression may be fatal.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2000/A/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Opioid receptors and effects](/content/pharmacopoeia/analgesics/opioidspharm.qmd)
+- [Opioid pharmacology](/content/pharmacopoeia/analgesics/opioids.qmd)

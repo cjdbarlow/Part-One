@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019B Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the respiratory and cardiovascular changes associated with a carbon dioxide pneumoperitoneum for laparoscopic surgery.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the respiratory and cardiovascular changes by separating increased intra-abdominal pressure from carbon dioxide absorption. Explain the mechanisms and direction of each change, then relate positioning and important complications to these effects.
+
+::: {.structure-headings}
+### Increased Intra-Abdominal Pressure: Respiratory Effects
+
+### Increased Intra-Abdominal Pressure: Cardiovascular Effects
+
+### Carbon Dioxide Absorption and Hypercapnia
+
+### Positioning and Important Complications
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**73.2%** of candidates achieved a pass in this question
+
+The domains assessed on this question were the effects of increased intra-abdominal pressure on the respiratory system, and the effects of increased intra-abdominal pressure on the cardiovascular system. The effects of CO2 absorption on both the respiratory and cardiovascular systems were also assessed. Other relevant facts pertaining to pneumoperitoneum gained extra marks.
+
+Common failures included lack of addressing all domains, especially those relating to intra-abdominal pressure effects commonly seen in practice. Simple lists of effects with no explanation gained lower marks.
+
+This topic is covered briefly in Perrin, M & Fletcher, A Continuing Education in Anaesthesia, Critical Care and Pain, Vol 4., No. 4, 200, as well as in more detail in Nunn’s applied respiratory physiology 8th ed. Ch. 20, or Miller’s Anaesthesia 7th ed. Ch. 21.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2019/B/11/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2019/B/11/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Carbon dioxide effects](/content/resp/co2_effects.qmd)
+- [Venous return](/content/cvs/venous_return.qmd)
+- [Compliance](/content/resp/compliance.qmd)

@@ -1,0 +1,73 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003B Question 16 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the mechanism of secretion of hydrochloric acid by the stomach. [**Briefly describe**]{.task-verb} how secretion of hydrochloric acid by the stomach is controlled.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} **Parietal Cell Secretion** using an ion-transport diagram, then [**briefly describe**]{.task-verb} **Receptor and Neural Control** and **Cephalic, Gastric and Intestinal Influences**.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**61%** of candidates passed this question.
+
+The answers to the second part on control were often better than the first part on mechanism. Some candidates only answered the second part.
+
+There were several important points that were often best dealt with by appropriate diagrams.
+
+- The central role of the hydrogen/potassium ATPase.
+- Receptors for gastrin, acetylcholine, and histamine.
+- The role of the vagus.
+- Multiple stimuli both enhancing and inhibiting acid secretion that many divided into cephalic, gastric, and intestinal factors.
+
+Other issues included detailed descriptions of hydrogen ion formation using carbonic anhydrase and associated ion movements in and out of the parietal cells. Points attracting higher marks included a clear understanding that the stomach fluid is extremely acidic and that the parietal cells must actively secrete hydrogen ions against a considerable concentration gradient. Very few mentioned the role of canaliculi in inserting proton pumps into the cellular membrane when the parietal cells are stimulated.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Gastric Secretions](/content/git/secretions.qmd)

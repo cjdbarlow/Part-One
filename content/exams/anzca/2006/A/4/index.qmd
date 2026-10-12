@@ -1,0 +1,70 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006A Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the pharmacodynamic properties of propofol and how this influences its clinical usage.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Central Nervous System**, **Cardiovascular**, **Respiratory**, and **Other Pharmacodynamic Effects**. Relate each relevant effect and its dose dependence to clinical usage.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**69 %** of candidates passed this question.
+
+It was expected emphasis be placed on the central nervous system effects, followed by the cardiovascular and respiratory effects and marks were allocated accordingly. The question was specifically related to pharmacodynamics and a discussion of pharmacokinetic properties scored no additional marks.
+
+Candidates were expected to outline that Propofol is an intravenous anaesthetic agent used for both the induction and maintenance of anaesthesia or sedation. Reward was given to candidates who outlined potential mechanisms of action, the dose dependent nature of effects, the effects on the EEG and on cerebral metabolism. Further credit was given for describing how this might impact on its clinical use (e.g. neurosurgery). A description of the cardiovascular effects was expected to include reference to hypotension, reduced systemic vascular resistance and bradycardia with comment on those patients at risk. Respiratory effects include alterations in ventilatory response, reduction in airway reflexes and bronchial tone.
+
+Extra credit was given for discussion of other pharmacodynamic properties including; anti-emetic, anti-pruritic, non MH triggering, pain on injection, lipid/caloric load, reduction in intraocular pressure and risk of propofol infusion syndrome.
+
+It was expected that candidates would relate each pharmacodynamic effect to the impact on clinical use and failing to address this was a common omission (e.g. reduction of airway reflexes is useful for LMA insertion or airway manipulation). Well organised answers such as those with an ordered list with subheadings or a table were rewarded.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Propofol](/content/pharmacopoeia/neuro/propofol.qmd)

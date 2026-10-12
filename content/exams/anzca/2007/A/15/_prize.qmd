@@ -1,0 +1,86 @@
+#### List:
+
+- Arterial line: components, how it works, accuracy
+- Physics of SHM: definitions
+- Dynamic accuracy
+
+#### Arterial line:
+
++------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Components | - Cannula with anti-clot                                                                                                                             |
+|            | - Compressible tubing with saline                                                                                                                    |
+|            | - Pressure transducer: diaphragm with four strain gauges (conductor)                                                                                 |
+|            | - Saline bag under pressure                                                                                                                          |
+|            | - 1-3mL/h infusion and ability to flush                                                                                                              |
+|            | - Electronic display                                                                                                                                 |
++------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Function   | - Continuous column between arterial blood and transducer                                                                                            |
+|            | - ↑↓ oscillations in pressure → displacement of diaphragm → stretch/relax strain gauges → ↑/↓ electrical resistance → amplification → arterial trace |
+|            | - Accuracy improved by multiple strain gauges +/- Wheatstone bridge                                                                                  |
++------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Accuracy   | ***Static:***                                                                                                                                        |
+|            |                                                                                                                                                      |
+|            | - Zero relative to atmospheric pressure                                                                                                              |
+|            | - Time calibration: observe steadiness at zero                                                                                                       |
+|            | - Height calibration: e.g. move transducer against a standard                                                                                        |
+|            |                                                                                                                                                      |
+|            | ***Dynamic:***                                                                                                                                       |
+|            |                                                                                                                                                      |
+|            | - Optimise damping                                                                                                                                   |
+|            | - Minimise resonance                                                                                                                                 |
++------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Physics of simple harmonic motion:
+
++------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Natural frequency (F~N~)     | - Definition: tendency of a system once disturbed to oscillate at a particular frequency about its equilibrium position.                                |
+|                              | - Determinants: F~N~ ∝ potential energy (stiffness) / kinetic energy (mass)                                                                             |
+|                              |   - Potential energy ∝ tube elastance x diaphragm elastance                                                                                             |
+|                              |   - Kinetic energy ∝ (length x tube compliance x density) / (radius)                                                                                    |
++------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Fundamental frequency (F~0~) | - Lowest frequency oscillation within a system (e.g. heart rate in ABP trace)                                                                           |
++------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Resonance                    | - Definition: where repeated disturbance of a system at its natural frequency (or at a close multiple of it) causes increasing amplitude of oscillation |
+|                              | - Effect on ABP trace: ↑SBP, ↓DBP, ↔mAP, contributes to peripheral dicrotic notch                                                                       |
++------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Damping                      | - Definition: minimization of oscillatory amplitude through viscous and frictional forces                                                               |
+|                              | - Equation: damping ∝ (Length x volume of displacement x viscosity) / (diameter x density)                                                              |
+|                              | - Damping coefficient: index of rate of decay of oscillations                                                                                           |
+|                              | - Optimal damping: balance between maximizing response speed and minimizing overshoot                                                                   |
+|                              | - Effect on ABP trace: ↓SBP, ↑DBP, ↔mAP, delayed waveform, loss of high frequency components e.g. incisura                                              |
+|                              |                                                                                                                                                         |
+|                              | ![](/content/exams/anzca/2007/A/15/prize-image001.jpg){fig-alt="Undamped, underdamped, optimally damped and critically damped responses"}               |
++------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### To ensure dynamic accuracy:
+
++--------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Minimise resonance | Aim:                                                                                                                                                 |
+|                    |                                                                                                                                                      |
+|                    | - F~N~ ≥ 10x F~0~ hence resonance unlikely to occur                                                                                                  |
+|                    | - Flat frequency response at or near the measured frequencies                                                                                        |
+|                    | - No exaggeration of amplitude of measured frequencies                                                                                               |
+|                    |                                                                                                                                                      |
+|                    | Means:                                                                                                                                               |
+|                    |                                                                                                                                                      |
+|                    | - ↑potential energy (stiffness): non-compliant tubing and diaphragm                                                                                  |
+|                    | - ↓ kinetic energy: short, wide, non-compliant tubing and low density fluid                                                                          |
++--------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Optimise damping   | Aim:                                                                                                                                                 |
+|                    |                                                                                                                                                      |
+|                    | - Flat frequency response up to 2/3 of F~N~                                                                                                          |
+|                    | - Minimal phase distortion i.e. minimal and more homogenous lag                                                                                      |
+|                    | - Damping coefficient 0.64                                                                                                                           |
+|                    | - Exactly two oscillations after fast flush test                                                                                                     |
+|                    | - \<7% overshoot overall                                                                                                                             |
+|                    | - \<2% overshoot for harmonics (if Fourier analysis performed)                                                                                       |
+|                    |                                                                                                                                                      |
+|                    | Means:                                                                                                                                               |
+|                    |                                                                                                                                                      |
+|                    | - Intact cannula, no kink, no clot, no bubbles                                                                                                       |
+|                    | - System design                                                                                                                                      |
++--------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Graph              | ![](/content/exams/anzca/2007/A/15/prize-image002.jpg){fig-alt="Relationship between damping coefficient, natural frequency and adequacy of damping"}|
+|                    |                                                                                                                                                      |
+|                    | \*Note: modern systems are underdamped, but natural frequency is high enough to obviate resonance\*                                                  |
++--------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+

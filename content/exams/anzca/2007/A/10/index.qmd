@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007A Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the mechanisms that prevent blood clotting in intact blood vessels (do not draw the clotting cascade).
+:::
+
+Also asked in: [1999A Question 2](/content/exams/anzca/1999/A/2/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} how flow, intact endothelium and endogenous inhibitors prevent initiation and propagation. Organise mechanisms around the balance between procoagulant and anticoagulant processes, observing the exclusion of a cascade diagram.
+
+::: {.structure-headings}
+### Flow and Dilution of Activated Factors
+
+### Endothelial Barrier and Surface Properties
+
+### Endogenous Anticoagulant Mechanisms
+
+### Clearance of Activated Factors
+
+### Fibrinolysis Limiting Propagation
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**57%** of candidates passed this question.
+
+For a pass, an understanding of the balance between pro and anticoagulant processes that occur in the blood, and a brief outline of the mechanisms that prevent blood from clotting was required. Candidates who followed the structure of Virchow’s triad to elucidate these factors tended to score well by demonstrating understanding.
+
+Many candidates would have benefited by providing a clear introductory statement, outlining the balance between pro and anticoagulant factors, and then explaining the factors that prevent coagulation.
+
+As general advice regarding examination technique, candidates may wish to consider that if confronted by a question that they may not have considered in preparation for the examination, by considering the basis of everyday clinical practice, they may yet be able to achieve a good score. In this case, common clinical practices for prevention or perioperative deep venous thrombosis may have provided the key to an answer.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/A/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Unclotting](/content/haeme/unclotting.qmd)
+- [Clotting](/content/haeme/clotting.qmd)

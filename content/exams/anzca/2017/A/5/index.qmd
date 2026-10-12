@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2017A Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the advantages and disadvantages of using nitrous oxide as part of a general anaesthestic.
+:::
+
+Also asked in: [2011A Question 7](/content/exams/anzca/2011/A/7/index.qmd#examiner-comments), [2021A Question 1](/content/exams/anzca/2021/A/1/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} advantages and disadvantages specifically within general anaesthesia. Connect physical and pharmacological properties to wash-in, anaesthetic sparing, gas-space effects and important adverse effects.
+
+::: {.structure-headings}
+### Physical and Pharmaceutical Properties
+
+### Wash-In, Washout and Gas Effects
+
+### Anaesthetic Sparing and Analgesia
+
+### Organ Effects and Clinical Limitations
+
+### Environmental and Prolonged-Exposure Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**81%** of candidates achieved a pass in this question
+
+Describing the advantages and disadvantages of nitrous oxide as part of a general anaesthesia gained marks. Comparison to other agents could be useful in the answer but was not necessary. Concepts that candidates appeared confused about included the critical temperature, concentration effect, the second gas effect and diffusion hypoxia. There was also confusion about nitrous oxide’s MAC sparing effect.
+
+A description of Entonox gained no marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2011/A/7/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2011/A/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Nitrous oxide](/content/pharmacopoeia/neuro/nitrous_oxide.qmd)

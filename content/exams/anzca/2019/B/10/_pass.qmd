@@ -1,0 +1,59 @@
+Composition of Hartman’s Solution / Compound Sodium Lactate and ECF
+
+                   **NaCl**   **CSL **          **ECF**
+  ---------------- ---------- ----------------- ---------
+  **Sodium**       154        130               140
+  **Chloride**     154        110               100
+  **Potassium**               5                 5
+  **HCO3**                    29 (as lactate)   29
+  **Calcium**                 2                 2.4
+  **Magnesium**                                 1
+  **Glucose**                                   5
+  **Osmolality**   308        280               280-300
+  **pH**           5          6.5               7.4
+                                                
+
+**Water distribution** 
+
+In healthy 70km adult TBW (60%) = \~42L
+
+ICF 66% = 28L
+
+ECF 33% = 14L of which 20%Plasma (3L), 80% ISF =11L 
+
+Rapid administration of 2L of CSL into the intravascular compartment over 1 hour would result initial rapid distribution to fluid compartments. 
+
+Initially distributes according to ECF body water ratios as CSL has close to ECF concentration of Na.
+
+- 20% (400ml) remaining in the intravascular compartment
+- 80% 1.6L distributing to the ISF
+
+As osmolality of CSL is at the low side of normal body osmolality it can be expected that a small amount of water will redistribute to the ICF compartment 
+
+**Electrolytes will be minimally affected**
+
+Mild decrease in Na concentration
+
+Mild Increase in Chloride concentration
+
+HCO3 K and Ca minimally affected   
+
+**Cardiovascular considerations**
+
+Circulating blood volume will increase by approx. 10% 
+
+→↑ Venous return and ↑preload →↑ CO and MAP
+
+→ Baroreceptor activation →↓SNS activation →↓HR and ↓Contractility
+
+→ Stretch of the atrial wall → release of ANP →↓RAAS system /↓Na reabsorption  
+
+**Acid Base**
+
+Lactate is conjugate base of lactate acid, metabolised in liver through Cori cycle to produce HCO3 → overall result is metabolic alkalosis 
+
+**Neuroendocrine considerations**
+
+Increased renal perfusion pressure ↓renin release ↓ Angiotensin II →  ↓ADH release 
+
+- → Decreased Na reabsorption in DCT, Reduced aquaporin and H2O reabsorption resulting in dilute urine production

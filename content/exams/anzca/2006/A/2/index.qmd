@@ -1,0 +1,68 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006A Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**What is**]{.task-verb} an isomer? Briefly [**write**]{.task-verb} an account of the types of isomers and their significance in drugs used in anaesthesia.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+State what an **Isomer** is, then [**write**]{.task-verb} an account under **Structural Isomers**, **Stereoisomers**, and **Clinical Significance**. Pair examples of anaesthetic drugs with the physicochemical, kinetic or dynamic consequences of their isomerism.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**53 %** of candidates passed this question.
+
+The main points to include were a definition, classification and a description of specific drugs and the implications of isomerism.
+
+Many candidates had incorrect classifications. Some candidates described tautomers as a form of stereoisomers when in fact they are a subtype of structural (or constitutional) isomers. Similarly, a large number of candidates confused geometric isomers with structural isomers. Geometric isomers are stereoisomers that differ in the orientation of groups around a double bond or ring structure. Many of the diagrams were incorrect.
+
+It is also noted that many candidates neglected to mention the clinical significance of isomers. Better answers included specific examples such as enhanced analgesia with S-ketamine, lower cardiotoxicity with levobupivacaine and improved solubility of the enol form of thiopentone.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Isomerism](/content/pharmacology/isomerism.qmd)

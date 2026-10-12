@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004B Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Compare and contrast**]{.task-verb} neostigmine and the organophosphorus compounds.
+:::
+
+Also asked in: [2001B Question 13](/content/exams/anzca/2001/B/13/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Compare and contrast**]{.task-verb} the agents in a table, linking binding characteristics to duration, clinical effects and uses.
+
+::: {.structure-table}
+| Feature | Neostigmine | Organophosphorus Compounds |
+|---|---|---|
+| Binding and Mechanism | | |
+| Duration of Action | | |
+| Central Effects | | |
+| Peripheral Effects | | |
+| Clinical Applications | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**52%** of candidates passed this question.
+
+The main points expected in the answer in order to pass were considered under three main headings – (i) pharmacokinetics (ii) mode of action and (iii) pharmacological effects, mainly due to increased acetylcholine. A common mistake was to not discuss the actions of the drugs.
+
+They are both anti-cholinesterases which inhibit both acetylcholinesterase and plasma cholinesterase. There are important differences in polarity and lipid solubility which contribute to contrasting distribution in the body for the two compounds. Neostigmine is not distributed to the central nervous system (CNS) whereas organophosphorus compounds are widely distributed including the CNS. Neostigmine is an ionised water-soluble compound which has hepatic and renal elimination. Organophosphorus compounds depend on synthesis of acetylcholinesterase because of the stability of the enzyme-inhibitor complex and a process called “aging”.
+
+The mode of action for neostigmine at the target enzyme is similar to the way acetylcholine is handled, except the covalent bond of the carbamoylated enzyme is considerably more resistant to hydration and leads to a prolonged thirty minute duration of effect. Organophosphorus compounds have a half-life of weeks to months because of phosphorylation of the esteratic site covalent bond. Inhibition of acetylcholinesterase not only increases the concentration of acetylcholine at the neuromuscular junction but at all other synapses that use acetylcholine as a transmitter. These include the muscarinic receptors of the parasympathetic nervous system, the nicotinic receptors of the autonomic ganglia, and the smooth muscles especially of the respiratory and gastrointestinal tract. Organophosphorus compounds have CNS muscarinic effects that include excitation, confusion and coma.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Anticholinesterases](/content/pharmacopoeia/autonomic/anticholinesterases.qmd)
+- [Organophosphate Poisoning](/content/organophosphate_poisoning.qmd)

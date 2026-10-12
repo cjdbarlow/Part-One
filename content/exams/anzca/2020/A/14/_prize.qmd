@@ -1,0 +1,50 @@
+#### List:
+
+- Pharmacodynamics
+- Nicotonic adverse effects
+- Muscarinic adverse effects
+
+#### Pharmacodynamics:
+
++----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Receptor interaction | ![](/content/exams/anzca/2020/A/14/prize-image001.jpg){fig-alt="Neostigmine interaction with the anionic and esteratic sites of acetylcholinesterase"} |
+|                      |                                                                                                                                                        |
+|                      | - Forms reversible carbamylate complex with esteratic site of AChE                                                                                     |
+|                      | - ↑\[ACh\] at cholinergic synapses                                                                                                                     |
++----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Receptor affinity    | - Muscarinic (G protein-coupled): effects at low dose                                                                                                  |
+|                      | - Nicotinic (ligand gated ion channel): effects at high dose                                                                                           |
+|                      | - Also inhibits PChE → augment suxamethonium                                                                                                           |
++----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Receptor effects     | - N: ↑\[ACh\] → ↑Na^+^ influx → MEPP                                                                                                                   |
+|                      | - M~1,3,5~: G~q~ GPCR (↑IP~3~/↑Ca^2+^, ↑DAG)                                                                                                           |
+|                      | - M~2,4~: Gi GPCR (↓cAMP)                                                                                                                              |
++----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Nicotonic adverse effects:
+
++---------------+---------------------------------------------------------------------------------+
+| Muscle type   | - Weakness at high dose (ceiling 0.07mg/kg)                                     |
+|               | - Inability to reverse profound neuromuscular blockade\                         |
+|               |   → risk of residual curarisation if used without monitoring                    |
++---------------+---------------------------------------------------------------------------------+
+| Neuronal type | - Autonomic ganglia (α~3~β~4~): stimulation then depression (see BJA-Education) |
+|               | - No CNS effect (quaternary ammonium charge)                                    |
++---------------+---------------------------------------------------------------------------------+
+
+#### Muscarinic adverse effects:
+
++----------------+-------------------------------------------+
+| Cardiovascular | - Bradycardia, AV block                   |
+|                | - ↓Cardiac output                         |
++----------------+-------------------------------------------+
+| Respiratory    | - Bronchoconstriction, ↑work of breathing |
+|                | - ↑Tracheobronchial secretions            |
++----------------+-------------------------------------------+
+| SLUDGE         | - Salivation                              |
+|                | - Lacrimation                             |
+|                | - Urination                               |
+|                | - Defecation                              |
+|                | - GI upset, abdominal pain                |
+|                | - Emesis                                  |
++----------------+-------------------------------------------+

@@ -1,0 +1,85 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010A Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the factors that affect static respiratory system compliance.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Definition and Normal Values**, **Lung Elastic Forces**, **Chest Wall Factors**, and **Lung Size and Volume**. Relate surfactant, posture, gravity, disease and anaesthesia to the direction of changes in static compliance.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**36%** of candidates passed this question.
+
+Basic information required included the following:
+
+- A definition of static compliance
+- Respiratory system compliance is determined by elastic forces in the lung and chest wall (rib cage and diaphragm)
+- Lung elastic recoil – comprises surface tension of alveoli (La Place‟s Law) and the elastic properties of lung tissue
+- The importance of surfactant
+- Lung size (child v adult) – compliance increases with increased size but specific compliance is unchanged
+- Lung volume – compliance is maximum at FRC and reduced at high and low lung volumes
+- Examples of disease processes (and direction of effect) that influence compliance – e.g. emphysema, pulmonary fibrosis, pulmonary oedema, pulmonary blood volume (but not blood flow), chest wall scarring, increased intra-abdominal pressure, obesity
+
+Additional marks were given for:
+
+- Units and a normal value
+- The equation relating total with lung and chest wall compliance
+- Influence of posture
+- Effect of anaesthesia
+- Effect of gravity on regional lung compliance
+
+Graphs were commonly drawn but rarely provided additional information to that which was written. The effects of pregnancy hormones on chest wall compliance were often mentioned but the (opposite and greater) effect of the gravid uterus was ignored.
+
+Common mistakes included discussion of time constants, fast and slow alveoli, and airways resistance. Description of the measurement of compliance did not attract marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Compliance](/content/resp/compliance.qmd)
+- [Chest Wall and Diaphragm](/content/resp/chest_wall_diaphragm.qmd)

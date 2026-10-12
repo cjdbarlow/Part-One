@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2017B Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the pharmacodynamic properties of propofol EXCLUDING its effects on the central nervous system. [**Describe**]{.task-verb} how these influence clinical use.
+:::
+
+Also asked in: [2016A Question 7](/content/exams/anzca/2016/A/7/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} peripheral pharmacodynamic effects by system and [**describe**]{.task-verb} their clinical implications alongside them. Link mechanisms to cardiovascular and respiratory consequences, then address other relevant effects and their practical significance.
+
+::: {.structure-headings}
+### Cardiovascular Mechanisms and Effects
+
+### Cardiovascular Clinical Implications
+
+### Respiratory Effects and Airway Management
+
+### Other Systemic Effects
+
+### Metabolic and Formulation-Related Implications
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**60.8%** of candidates achieved a pass in this question
+
+Propofol is a core drug in the practice of anaesthesia. The best answers used a systems based approach and gave appropriate clinical examples e.g. a 20% reduction in SVR may cause hypotension and require the use of vasopressor socaution is required especially in the elderly. Many candidates answered the question sufficiently with regard to the cardiovascular and respiratory system, but provided minimal detail and clinical information about other systems.
+
+Despite the question specifically requesting only information related to the pharmacodynamics, and how these influence clinical use, many candidates wasted time on descriptions of the general pharmacology, including its indications, dosage, mechanism of action and chemical structure.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2016/A/7/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2016/A/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Propofol](/content/pharmacopoeia/neuro/propofol.qmd)

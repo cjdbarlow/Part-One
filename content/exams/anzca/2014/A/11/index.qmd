@@ -1,0 +1,110 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014A Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Compare and contrast**]{.task-verb} the management of an overdose of aspirin with that of an overdose of paracetamol.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Compare and contrast**]{.task-verb} management in a table, linking the specific interventions to each drug’s toxicity.
+
+::: {.structure-table}
+| Aspect of Management | Aspirin | Paracetamol |
+|---|---|---|
+| Risk Assessment and Toxic Dose | | |
+| Resuscitation and Supportive Care | | |
+| Investigations | | |
+| Decontamination | | |
+| Enhanced Elimination | | |
+| Antidotes | | |
+| Monitoring and Disposition | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**51.2%** of candidates achieved a pass in this question
+
+Main Points expected for a Pass:
+
+- bnderstanding of the meaning or significance of overdose, either in dosage terms or definition
+
+- Both drug overdose managements addressed even if lacking in details
+
+- a and excretion interventions
+
+- supportive care
+
+- paracetamol antidote
+
+Additional Points which attracted higher marks:
+
+- mention of pathology involved in both i.e. toxic metabolite vs metabolic derangements
+
+- details of specific management strategies such as urinary alkalinisation/dialysis/liver transplant
+
+- mention of psychiatric involvement
+
+- nomogram use for paracetamol
+
+- activated charcoal and rationale
+
+- respiratory alkalosis/metabolic acidosis
+
+- bicarbonate/N-acetyl cysteine therapy
+
+Common Mistakes:
+
+- large amount of irrelevant or non-specific information about PG’s in general, particularly pages dedicated to the drugs’ description & metabolism
+
+- some answers very short & incomplete, but only one actual blank book
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2014/A/11/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2014/A/11/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [COX inhibitors](/content/pharmacopoeia/analgesics/cox_inhibitors.qmd)
+- [Paracetamol](/content/pharmacopoeia/analgesics/paracetamol.qmd)
+- [Dialysis](/content/renal/dialysis.qmd)

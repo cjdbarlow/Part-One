@@ -1,0 +1,39 @@
+The lower oesophageal sphincter (LOS) is the most distal 4cm of the oesophagus, it’s a physiological sphincter without macroscopic anatomical variance of the rest of the oesophagus.  It provides an important protection against gastric reflux.   
+
+Competency of the LOS is by maintaining a Barrier pressure of \~20cm H20, which is the difference between the pressure at the LOS (usually \~30cm)   and the intragastric pressure \~10cm H20. Reflux normally occurs when the barrier pressure \<13cm H20
+
+**Factors that contribute to its competence and tone:**
+
+- Increased number of nerve cells supplied by the vagus nerve which provide tonic contraction of smooth muscle.  
+- Oesophagus: The oesophagus enters the stomach at an oblique angle, limiting retrograde flow.
+- Diaphragm: An external sphincter is formed by the diaphragmatic crura, and exerts a **pinch-cock** action on the oesophagus. 
+- Stomach: A fold in the stomach wall just distal to the GOJ creates a **flap valve**, which occludes the GOJ when gastric pressure rises.
+
+**Changes oesophageal sphincter pressure**
+
+Physical Factors:
+
+- Swallowing: Barrier pressure decreases during swallowing to allow transit
+- Cough/Sneeze ↑LOS tone
+
+Hormonal Factors:
+
+↑LOS Tone: Gastrin, motilin, α-agonism
+
+↓LOS Tone: Progesterone, glucagon, vasoactive intestinal peptide (VIP)
+
+Drugs
+
+↓ LOS Tone: ETOH, IV and volatile anaesthetic agents, and anticholinergics 
+
+↑ Tone: Suxamethonium, metoclopramide, and anticholinesterases **i**
+
+Changes in gastric pressure
+
+- Obesity
+- Pregnancy
+- Laparoscopic Surgery 
+
+Disease
+
+- Hiatus hernia, GOJ moves into the thorax, causing Loss of pinch-cock action. Negative intrathoracic pressure reduces LOS pressure and therefore barrier pressure

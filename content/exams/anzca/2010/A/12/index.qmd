@@ -1,0 +1,100 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010A Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly explain**]{.task-verb} the changes that occur in stored whole blood.
+:::
+
+Also asked in: [2002B Question 12](/content/exams/anzca/2002/B/12/index.qmd#examiner-comments), [2014B Question 13](/content/exams/anzca/2014/B/13/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly explain**]{.task-verb} the storage changes in a table, connecting the direction and timing of each change to its cause.
+
+::: {.structure-table}
+| Component | Change and Timing | Reason |
+|---|---|---|
+| Red Blood Cells | | |
+| White Blood Cells | | |
+| Platelets | | |
+| Clotting Factors and Plasma Proteins | | |
+| Biochemistry and Dissolved Gases | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**41%** of candidates passed this question.
+
+Main Points expected for a pass:
+
+What is in stored whole blood
+
+How it is stored
+
+The biochemical changes
+
+The cellular changes
+
+Additional points could be gained for:
+
+The mechanisms of the changes in stored blood
+
+How the preservative solution prolongs blood storage
+
+Common problems:
+
+Illegible handwriting
+
+Poor layout and structure
+
+Many candidates were unsure about what the current preservative solution is and what the different components were for
+
+The main reason for failing this question was insufficient core knowledge
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2002/B/12/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2002/B/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Blood product storage](/content/haeme/blood_products.qmd)

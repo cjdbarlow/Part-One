@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2020B Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the determinants of left ventricular myocardial oxygen supply and demand.
+:::
+
+Also asked in: [2017B Question 13](/content/exams/anzca/2017/B/13/index.qmd#examiner-comments), [2018A Question 10](/content/exams/anzca/2018/A/10/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} supply and demand in balanced sections. Use relevant equations to organise coronary flow, oxygen content and myocardial work, and explain how heart rate affects both sides of the balance.
+
+::: {.structure-headings}
+### Oxygen Supply: Coronary Flow and Oxygen Content
+
+### Coronary Perfusion Through the Cardiac Cycle
+
+### Coronary Vascular Resistance and Regulation
+
+### Oxygen Demand: Heart Rate, Contractility and Wall Tension
+
+### Supply–Demand Balance
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question was answered succinctly and well by a number of candidates.
+
+A brief description of the anatomy and normal rate of blood flow to the heart or LV normal blood flow as a proportion of total cardiac output was used by many candidates as a starting point to this question.
+
+The question required discussion of both the factors affecting supply of blood to the left ventricle, and the capacity of blood to carry oxygen, to be discussed in some depth. Equations relating to coronary perfusion pressure and the oxygen flux equation were correctly used by the better candidates to achieve this. Recognising and discussing that supply to the left ventricle was flow limited was done by most passing candidates.
+
+Factors that influenced demand by the heart are primarily rate, contractility and systolic wall tension. Preload has a lesser effect and was discussed by the better candidates. Equations relating wall tension to radius ( Laplace’s Law ) and metabolic and myogenic factors that regulated both supply and demand were important parts of this answer. The effect of heart rate on filling time and perfusion was also relevant. Examples of pathology were used effectively by some candidates to describe states where demand was altered.
+
+Cardiovascular physiology, Chapter 11, Pappano 2012 ; Principles of Physiology for the Anaesthetist, Power and Kam, 2015 Ganongs review of medical physiology, 25th ed
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2017/B/13/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2017/B/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Myocardial oxygen supply and demand](/content/cvs/myocardial_oxygen.qmd)

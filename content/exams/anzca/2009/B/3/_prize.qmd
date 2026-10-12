@@ -1,0 +1,89 @@
+#### List:
+
+- Diagramme
+- Anti-emetic drugs
+- Pro-emetic drugs
+
+#### Diagramme:
+
+![](/content/exams/anzca/2009/B/3/prize-image001.jpg){fig-alt="Emetic pathways linking cortex, chemoreceptor trigger zone, vestibular apparatus, NTS and vomiting centre"}
+
+#### Anti-emetics:
+
++----------------------------------+--------------------------------------------------------------+
+| **Drug**                         | **Mechanism of anti-emesis**                                 |
++==================================+==============================================================+
+| Dexamethasone                    | - Not well understood                                        |
+|                                  | - For PONV prevention, not rescue                            |
+|                                  | - (onset 2 hours)                                            |
+|                                  | - Receptor: transcription factor in cytosol;\                |
+|                                  |   ? action in nucleus tractus solitarius (NTS)               |
+|                                  | - Affects 25% of the genome                                  |
++----------------------------------+--------------------------------------------------------------+
+| 5-HT~3~ antagonist               | e.g. ondansetron                                             |
+|                                  |                                                              |
+|                                  | - Central: ↓afferent CTZ → VC                                |
+|                                  | - Peripheral: ↓CNX afferent to CTZ via NTS                   |
++----------------------------------+--------------------------------------------------------------+
+| DA~2~ antagonist:                | e.g. droperidol                                              |
+|                                  |                                                              |
+| - Butyrophenone                  | - ↓Afferent CTZ → VC                                         |
+|                                  |                                                              |
+| e.g. droperidol                  |                                                              |
++----------------------------------+--------------------------------------------------------------+
+| DA~2~ antagonist:                | e.g. prochlorperazine                                        |
+|                                  |                                                              |
+| - Phenothiazine                  | - ↓Afferent CTZ → VC                                         |
++----------------------------------+--------------------------------------------------------------+
+| DA~2~ antagonist:                | Metoclopramide                                               |
+|                                  |                                                              |
+| - Benzamide                      | - Central: DA~2~i, 5HT~3~i (↓afferent from CTZ toVC)         |
+|                                  | - Peripheral: DA~2~i, 5HT~4~a (↓afferent CNX to CTZ via NTS) |
+|                                  | - Anti-emetic and prokinetic                                 |
++----------------------------------+--------------------------------------------------------------+
+| Anti-histamine: first generation | e.g. cyclizine                                               |
+|                                  |                                                              |
+|                                  | - ↓Afferent CTZ to VC                                        |
+|                                  | - ↓Afferent vestibular apparatus to CTZ                      |
+|                                  | - Strong anti-muscarinic                                     |
+|                                  | - Weak anti-DA                                               |
++----------------------------------+--------------------------------------------------------------+
+| Anti-muscarinic                  | e.g. atropine                                                |
+|                                  |                                                              |
+|                                  | - mAChRi                                                     |
+|                                  | - Central: CTZ, vestibular                                   |
+|                                  | - Peripheral: CNX afferent                                   |
++----------------------------------+--------------------------------------------------------------+
+| Propofol                         | - Central 5HT~3~i                                            |
+|                                  | - ↓Afferent from CTZ to VC                                   |
++----------------------------------+--------------------------------------------------------------+
+| Benzodiazepines                  | e.g. midazolam                                               |
+|                                  |                                                              |
+|                                  | - Positive allosteric modulator at GABA-A                    |
+|                                  | - ? ↓cortical afferent to CTZ                                |
++----------------------------------+--------------------------------------------------------------+
+| Cannabinoids                     | - Agonist at cannabinoid receptor in GIT                     |
+|                                  | - Esp cancer-associated nausea and vomiting                  |
++----------------------------------+--------------------------------------------------------------+
+| NK-1 antagonist                  | e.g. aprepitant                                              |
+|                                  |                                                              |
+| e.g. aprepitant                  | - Substance P antagonist at NK-1R                            |
+|                                  | - Peripheral: ↓CNX afferent to CTZ via NTS                   |
+|                                  | - Esp cancer N&V. Long duration.                             |
++----------------------------------+--------------------------------------------------------------+
+
+#### Pro-emetic drugs:
+
++---------------------+----------------------------------------------------------------------+
+| Opioids             | - Mu receptor agonist in CTZ                                         |
++---------------------+----------------------------------------------------------------------+
+| Halogenated ethers  | - 5-HT agonist in CTZ                                                |
++---------------------+----------------------------------------------------------------------+
+| Nitrous oxide       | - NMDA antagonism                                                    |
++---------------------+----------------------------------------------------------------------+
+| IV induction agents | - Ketamine: NMDA antagonism, 5HT reuptake inhibition, opioid agonism |
+|                     | - Barbiturates                                                       |
+|                     | - Etomdiate                                                          |
++---------------------+----------------------------------------------------------------------+
+| Ergometrine         | - 5-HT agonist in CTZ                                                |
++---------------------+----------------------------------------------------------------------+

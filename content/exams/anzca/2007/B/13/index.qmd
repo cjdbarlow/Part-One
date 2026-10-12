@@ -1,0 +1,97 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007B Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the physiology of blood groupings that allows O negative blood to be safely transfused to most patients.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} **ABO Antigens and Antibodies**, **Rh Antigens and Antibodies**, and **Donor–Recipient Compatibility**. [**Explain**]{.task-verb} the physiological basis for using O negative blood and the limitations posed by other antigens or donor antibodies.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**34%** of candidates passed this question.
+
+Interpretation:
+
+The question specifically asked about physiology of blood groups
+
+Discussion about type, screening or cross-match were not directly relevant.
+
+Points to be covered:
+
+Statement of aims of transfusion and usual problem of previously formed recipient antibodies reacting against donor cells, and consequences thereof.
+
+Discussion of ABO system and origin of antibodies.
+
+Discussion of Rh system and origin of antibodies.
+
+Better answers:
+
+Mentioned issue of donor antibodies and recipient cells, other potential antigens and antibodies.
+
+Clarity:
+
+The terms antigen and antibody appeared to be frequently confused.
+
+Sources of antigen and antibody were often unclear.
+
+Errors:
+
+Some candidates’ essays were unclear about whether groups A,B and O have antibodies.
+
+There are no anti-AB antibodies.
+
+Expression of an antigen is associated with tolerance and prevents development of an antibody.
+
+Anti-A and anti-B antibodies are developed in early childhood and do not require blood exposure.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Blood Groups](/content/haeme/transfusion.qmd)
+- [Transfusion Reactions](/content/haeme/transfusion_reactions.qmd)

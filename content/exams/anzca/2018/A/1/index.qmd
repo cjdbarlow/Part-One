@@ -1,0 +1,75 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018A Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+"Airway Anatomy"
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+The report supports headings for **Oral Cavity and Oropharynx**, **Nasal Turbinates and Air Conditioning**, **Laryngeal Cartilages**, and **Posterior Commissure**. Relate anatomical landmarks to airway assessment, nasal instrumentation and laryngoscopy.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**67%** of candidates achieved a pass in this question
+
+Although 67% of candidates passed this question, there were very few high scores.
+
+The anatomy of the oral cavity and oropharynx has direct relevance to airway assessment, and correct application of the Malampatti score. The majority could not name the palatoglossal and palatopharyngeal arches (alternative terminology was accepted).
+
+Most candidates drew three turbinates, but about half drew them as originating from the nasal septum, and many drawings did not reflect an understanding of the true size of the turbinates. This is essential anatomical knowledge for safe insertion of a nasal tube (inferomedial to the inferior turbinate), or for nasal insertion of a fibreoptic scope (in terms of understanding what you are looking at).
+
+The nasal turbinates play a role in filtration, warming and humidification of inspired air. Very few candidates could explain how this happens – for humidification in particular. Few candidates mentioned the critical link between warming and humidification. No candidate stated correct values which are achieved in the nose, and why the nose needs to be cooler than core temperature.
+
+Most candidates struggled with their understanding of the arytenoid, corniculate, and cuneiform cartilages. Stylised line drawings which are found in some textbooks (as distinct from the live anatomy which we look at daily) can be misleading. In reality, the corniculate and cuneiform cartilages are very small. The two posterior “bumps” which are visible at laryngoscopy in most (not all) patients, are due to the arytenoids. These are pyramid-shaped cartilages which sit on the posterior cricoid lamina, and serve as the posterior attachment for each vocal cord. Credit was given on the exam for also mentioning the corniculates, although these are tiny cartilages located at the apex of each arytenoid.
+
+Posteriorly, there is a midline groove at the point where the left and right aryepiglottic folds meet. This vital anatomical landmark is called the posterior commissure. With a difficult laryngoscopy, this may be the only visible laryngeal structure.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Airway Anatomy](/content/resp/airway_anatomy.qmd)
+- [Humidification](/content/resp/humidification.qmd)

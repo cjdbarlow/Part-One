@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012A Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the role of the kidneys in excretion of acid.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} net fixed-acid excretion separately from filtered bicarbonate reabsorption. Explain new bicarbonate generation through titratable acid and ammonium, including nephron sites, capacity and adaptation to acidosis.
+
+::: {.structure-headings}
+### Fixed-Acid Load and Net Excretion
+
+### Filtered Bicarbonate Reabsorption
+
+### Titratable Acid and Phosphate
+
+### Ammonium Production and Handling
+
+### Adaptation and New Bicarbonate Generation
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**13.2%** of candidates achieved a pass.
+
+It is not usual in an examination report to provide a model answer, however as many candidates failed to demonstrate an integrated understanding of a core topic in renal physiology, a very detailed examination report is included for this question.
+
+To achieve a good pass, candidates should have mentioned that the kidneys are the ONLY way to excrete non-volatile, or “fixed”, acid. With a diet containing animal protein there are around 50-100 mmol/day of fixed acid produced. Excretion of free acid (H^+^) is minimal, even at the minimum urine pH of around 4.4. This is a H^+^ concentration of 40µmol/l. The kidney does not excrete acid simply by secretion from intercalated cells in the distal nephron. The amount of hydrogen ion contained in even the most acidic urine is tiny.
+
+Reabsorption of filtered bicarbonate is NOT associated with excretion of H^+^, rather with secretion of H^+^ which combines with filtered bicarobonate. The only way to excrete acid is by formation of NEW bicarbonate. This can be done in 2 main ways : by formation of NH4^+^ in the proximal convoluted tubule, and by secreted H^+^ being buffered by phosphate. Only after all or most filtered bicarobonate is reabsorbed does secreted H^+^ combine with phosphate and other organic buffers. The vast majority of answers indicated that H^+^ ions were bound to filtered bicarbonate and were somehow excreted. This is incorrect. Failing to understand this basic physiological concept made it very difficult to pass. Phosphate is filtered in finite amounts and only around 30-40mmol/day of H^+^ can be excreted as phosphate buffers. A small amount is excreted bound to acetoacetate and other inefficient buffers, but the vast majority of the rest is excreted as ammonium ion. The most important point is that loss in the urine of hydrogen as dihydrogen phosphate or as ammonium is associated with generation of new bicarbonate. The ONLY way to excrete acid is to generate new bicarbonate.
+
+Extra marks were awarded for a knowledge of the somewhat complicated manner in which ammonia is reabsorbed, and re-excreted again in the medullary collecting duct, for some knowledge of the generation of ammonia from Glutamine in the PCT cell, for understanding that NH4^+^ is not a component of titratable acidity because, as the pKa of the NH3-NH4 reaction is 9.2, it cannot be back-titrated with alkali to 7.4, for understanding that the amount of acid excreted can be several fold greater in disease states eg diabetic ketoacidosis. Ammonia production is stimulated by acidosis. The kidney takes several days to reach the increased levels of excretion but there is a daily obligatory excretion of the 50 -100 mmol acid. Ammonium production is important in both elimination of excess metabolic acids and in renal compensation for respiratory acidosis.
+
+The most common error was the failure to realise that generation of new bicarbonate is required, and that “buffering” with filtered bicarbonate is NOT acid excretion. Most candidates simply suggested that acid was excreted by the intercalated cells , without realising that even at a pH of 4.4 a very small amount can be excreted in this way. A lot of candidates mentioned phosphate and/or ammonium but offered no suggestion as to their role in acid excretion. Many answers wasted time with a list of “functions of the kidney” which were not asked for. Most failed to mention there is always some acid to be excreted, not only when there is a metabolic acidosis. Many failed to appreciate that the filtered load of H^+^ is tiny. Many answers attempted to explain the kidney’s role in acid-base balance, which was usually answered poorly, but importantly was not the question that was asked. What was asked was a description of the way(s) in which the kidney excretes acid.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2012/A/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Renal acid–base handling](/content/renal/acid_base.qmd)

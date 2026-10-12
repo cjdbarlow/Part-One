@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002A Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the factors contributing to the generation and maintenance of the resting membrane potential.
+:::
+
+Also asked in: [2009A Question 12](/content/exams/anzca/2009/A/12/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} generation through ion gradients and selective permeability, then explain how these gradients are maintained. Use Nernst and Goldman equations to distinguish single-ion equilibrium from the resting membrane potential.
+
+::: {.structure-headings}
+### Definition and Normal Values
+
+### Concentration Gradients
+
+### Selective Permeability
+
+### Nernst and Goldman Equations
+
+### Sodium–Potassium Pump and Minor Contributors
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**77%** of candidates passed this question. Key concepts expected included the semi-permeable nature of the cell membrane, the uneven distribution of ions/charge across the membrane, the equilibrium (Nernst) potential for each ion (with an explanation of what it means). Some version of the Goldman Field Equation (or similar), emphasizing the importance of permeability, with a brief explanation of the role of Na/K ATPase in both maintenance of, and a contribution to, the RMP, was also expected. It was also anticipated that some mention of the Donnan effect and its minor contribution to RMP would be made.
+
+Answers were enhanced by including typical resting membrane potentials of various cells (eg Myelinated Axon, Skeletal Muscle, Ventricular Myocyte, Smooth Muscle or Erythrocyte). A few candidates wasted time on a discussion of Action Potentials, which was not required.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2002/A/5/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Excitable cells](/content/cellular/excitable_cells.qmd)
+- [Cell transport](/content/cellular/cell_transport.qmd)

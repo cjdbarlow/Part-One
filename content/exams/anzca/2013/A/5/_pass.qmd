@@ -1,0 +1,35 @@
+**Volume of Distribution**
+
+Volume of distribution is the apparent volume a drug would need to be distributed following its administration to produce a desired plasma concentration. 
+
+It can be given by the equation 
+
+Vd= Dose/Plasma Concentration 
+
+Vd is influenced by:
+
+- Drug factors: solubility, ionisation, protein binding, 
+- Patient factors: Age, pregnancy, disease.
+
+Vd is the apparent volume because it does not correspond to any physiological volume and may exceed total body water, 
+
+**Loading Dose**
+
+A loading dose of a drug is the dose given to get close to steady state or desired plasma concentration more rapidly. 
+
+Loading dose = VdxC 
+
+Assumptions in this calculation are that:
+
+- it’s a single compartment or that the drug distributes to all compartments at an equal rate
+- There is no metabolism or excretion 
+
+In practice drugs distribute more slowly to multiple compartments at different rates. Dosing based on this formula can result in excessive peak concentrations and toxic side effects.
+
+Example:
+
+Propofol has large Vd \~4l/kg
+
+70kg → Vd 280L 
+
+Loading dose \~12mg/kg

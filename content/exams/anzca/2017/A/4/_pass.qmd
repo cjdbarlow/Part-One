@@ -1,0 +1,32 @@
+CYP450 2D6 is a hepatic enzyme responsible for the metabolism of drugs including opioids/opiates and beta blockers. It makes up only a small proportion of CYP isoenzymes but is responsible for the metabolism of 25% of clinically used drugs. 
+
+Gene coding for CYP2D6 resides on 22
+
+2D6 metabolism is important because there is a high amount in genetic polymorphism particularly between ethnic groups that alter efficacy and safety of drug administration.
+
+CYP2D6 phenotypes include:
+
+Slow metabolisers: 5-10% of Caucasian population / 30% Hong Kong Chinese
+
+Intermediate metabolisers: 10-15% of Caucasian population 
+
+Extensive Metabolisers: \~80% of Causation population 
+
+Rapid Metabolisers: 1-2% Caucasian population, 20-30% of Saudi and north African population.
+
+**Clinical Context **
+
+if CYP2D6 metabolism produces active metabolites
+
+- codeine → morphine
+- oxycodone → oxymorphone
+- tramadol → O-desmethyltramadol
+
+Slow metabolisers may not experience adequate analgesia effect while rapid metabolisers may be at increased risk of sedation / respiratory depression.
+
+If CYP2D6 produces inactive metabolites:
+
+- Metoprolol 
+- SSRI
+- poor metabolisers ↓ inactivation and clearance of parent drug → increased clinical effects
+- ultra-metabolisers ↑ clearance of parent drug →  decreased clinical effect

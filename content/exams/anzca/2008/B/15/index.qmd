@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008B Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the changes that occur with ageing that can affect oxygen delivery to the tissues during moderate exercise.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} oxygen delivery using cardiac output and arterial oxygen content. Relate ageing changes to the ability to meet moderate exercise demand, integrating cardiovascular, respiratory and haemoglobin effects.
+
+::: {.structure-headings}
+### Oxygen Delivery and Exercise Demand
+
+### Cardiac Output Reserve
+
+### Vascular and Ventricular Changes
+
+### Respiratory Mechanics and Gas Exchange
+
+### Haemoglobin and Comorbidity
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**14%** of candidates passed this question.
+
+Oxygen delivery is the product of cardiac output and arterial oxygen content. Oxygen delivery during exercise is increased by raising cardiac output globally and locally, and increasing oxygen extraction. Linking these changes to aging is the key to answering this question. Cardiac output and respiratory changes with aging both needed discussion to gain a pass mark. Key points:
+
+- Cardiac output - contractility↓, heart rate responsiveness↓, stroke volume↓, ventricular compliance↓, and cardiac work↑ with aging. These factors reduce the ability to increase cardiac output to match exercising tissue demand.
+- Respiratory - PaO~2~↓, work of breathing↑ with a ↓ in chest wall compliance, closing capacity encroaches on FRC, and diffusion capacity↓ from ↑alveolar membrane thickness and ↓ functional surface area. The ↑V/Q mismatch that results reduces the ability to oxygenate blood when extraction increases.
+
+Additional marks were awarded for mentioning blood flow↓ with atherosclerosis, ↑pulmonary resistance and heart strain, anaemia ↓O~2~ content, moderate exercise is below anaerobic threshold, and valvular defects can affect cardiac output.
+
+Common errors included focusing on either cardiac or respiratory changes; listing aging and exercise physiological changes without linking the important factors of the two together; describing anaerobic metabolism of tissues; stating that FRC reduces with increasing age; not differentiating between the ↓chest wall compliance and ↑lung compliance that happens with aging.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2008/B/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Oxygen cascade](/content/resp/oxygen_cascade.qmd)
+- [Myocardial oxygen supply and demand](/content/cvs/myocardial_oxygen.qmd)

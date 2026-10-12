@@ -1,0 +1,95 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2021A Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} how the body handles a metabolic acidosis.
+:::
+
+Also asked in: [2005A Question 15](/content/exams/anzca/2005/A/15/index.qmd#examiner-comments), [2007A Question 11](/content/exams/anzca/2007/A/11/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} handling as linked processes with different time courses: dilution, intracellular and extracellular buffering, respiratory compensation and renal removal of fixed acid. Use balanced equations to connect bicarbonate recycling, titratable acid and ammonium excretion.
+
+::: {.structure-headings}
+### Dilution and Intracellular Buffering
+
+### Extracellular Buffering
+
+### Respiratory Compensation and Its Limits
+
+### Renal Bicarbonate Recycling
+
+### Titratable Acid and Ammonium Excretion
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**43.4%** of candidates achieved a pass in this question
+
+In order to pass this question candidates needed to demonstrate an understanding of;
+
+- the intracellular and extracellular buﬀering systems
+- the role, mechanism, and limitations of respiratory compensation in handling a fixed acid.
+- the role of the kidney in handling daily bicarbonate recycling, in removing fixed acid (by the formation of titratable acidity), and the production of new bicarbonate in the acidotic state by the ammonia/ammonium system.
+
+The importance of the equation: CO~2~ + H~2~O ⇄ H~2~CO~3~ ⇄ H^+^ + HCO~3~^-^      to understanding the interlinking of these mechanisms cannot be overstated but was missed by many candidates.
+
+Common errors in the answers included:
+
+  - no discussion of intracellular and extracellular buﬀering systems.
+- descriptions of renal bicarbonate recycling and renal acid handling were varied and often contained errors. Descriptions scored marks when they contained some detail, as found in the recommended texts. Exhaustive detail was not required, as this is a complex area
+- candidates wrote about the physiological eﬀects of acidosis on multiple body systems, rather than body’s handling of a metabolic acidosis. These answers often prevented candidates from presenting enough specific information to pass
+- errors in equations due to incorrect attribution of valence and unbalanced equations
+- confusion between glutamine, glutamate and glutathione
+- it was frequently stated that movement of the equation CO~2~ + H~2~O ⇄ H~2~CO~3~ ⇄ H^+^ + HCO~3~^-^ to the left causes an increase in bicarbonate when in fact the opposite is true
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2005/A/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Buffer systems](/content/acid_base/buffers.qmd)
+- [Acid–base compensation](/content/acid_base/compensation.qmd)
+- [Renal acid–base handling](/content/renal/acid_base.qmd)

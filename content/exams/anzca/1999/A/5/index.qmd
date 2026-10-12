@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999A Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Differentiate**]{.task-verb} between the terms “heat” and “temperature”. [**Explain briefly**]{.task-verb} the principles of a mercury thermometer, indicating its advantages and disadvantages.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Differentiate**]{.task-verb} heat from temperature, relating them through specific heat capacity. [**Explain briefly**]{.task-verb} how a mercury thermometer works, then connect its design to its advantages and disadvantages.
+
+::: {.structure-headings}
+### Heat, Temperature and Specific Heat Capacity
+
+### Components and Physical Principles
+
+### Calibration and Time Constant
+
+### Advantages and Disadvantages
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**82%** of candidates passed this question. Most passed well and there were a number of very good answers. There was a reasonable amount of confusion about the difference between Heat and Temperature. Mentioning S.I. units and relating the entities via Specific Heat Capacity enhanced definitions and gained extra marks.
+
+Most candidates gave a reasonable explanation of the physical principles of the mercury thermometer, although many omitted calibration principles and did not mention the importance of the relative volumes of the Mercury Reservoir in the bulb and the capillary column. It is also critical that the capillary tube is evacuated.
+
+The concept of a time constant was often mentioned but also often misunderstood. In general, advantages and disadvantages were well done with a number of candidates having prepared exemplary lists.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/A/5/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Temperature measurement](/content/equipment/temperature.qmd)
+- [Thermoregulation](/content/metabolic/temperature.qmd)

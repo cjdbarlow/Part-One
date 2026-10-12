@@ -1,0 +1,81 @@
+#### List:
+
+- Intro
+- Autonomic function
+- Endocrine function
+- Other specific homeostatic functions
+
+#### Intro:
+
+- Subcortical component of the limbic system
+- Control centre for endocrine and involuntary neural functions
+- Dense connections with higher and lower centres
+
+#### Autonomic function:
+
++-----------------------+-------------------------------------------------------------------------------+
+| Anterior stimulation  | - Depressor area → PSNS response                                              |
++-----------------------+-------------------------------------------------------------------------------+
+| Posterior stimulation | - SNS response                                                                |
+|                       |   - Effect via hindbrain (e.g. RVLM) and spinal cord (intermediolateral horn) |
+|                       |   - Organ-specific projections: e.g. skeletal muscle vs skin vs splanchnic    |
+|                       |   - Stimulation by ARAS maintains wakefulness                                 |
++-----------------------+-------------------------------------------------------------------------------+
+
+- Anterior stimulation (depressor area) → PSNS response
+- Posterior stimulation → SNS response
+  - Effect via hindbrain (e.g. RVLM) and spinal cord (intermediolateral horn)
+  - Organ-specific projections: e.g. skeletal muscle vs skin vs splanchnic
+  - Stimulation by ARAS maintains wakefulness
+
+#### Endocrine function:
+
++-------------------------+----------------------------------------------------------------------------------------+
+| Via posterior pituitary | - Releases into infundibulum from the SON and PVN:                                     |
+|                         |   - ADH → water retention, vasoconstriction                                            |
+|                         |   - Oxytocin → myometrial contraction in labour, behavioural effects                   |
++-------------------------+----------------------------------------------------------------------------------------+
+| Via anterior pituitary  | - Secretes into hypophyseal portal system                                              |
+|                         |   - CRH → ↑ACTH → ↑cortisol → stress response                                          |
+|                         |   - TRH → ↑TSH → thyroid hormones → metabolic homeostasis                              |
+|                         |   - GHRH → ↑GH → ↑IGF → tissue growth, metabolic effects                               |
+|                         |   - GnRH → ↑FSH, LH → reproductive function                                            |
+|                         |   - ↓Dopamine → ↑PRL → lactation\                                                      |
+|                         |     (note negative feedback from pituitary hormones and target organ-derived hormones) |
++-------------------------+----------------------------------------------------------------------------------------+
+
+#### Other specific homeostatic functions:
+
++-----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Temperature     | - Senses temperature (anterior); controls set point (posterior); responds outside inter-threshold range                                                               |
+|                 | - Anterior stimulation (pre-optic nuclei): triggers autonomic and behavioural heat loss responses (e.g. sweating, cutaneous vasodilatation)                           |
+|                 | - Posterior stimulation (tuberal nuclei): triggers autonomic and behavioral heat gain and conservation responses (e.g. shivering, cutaneous vasoconstriction)         |
++-----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Water           | - Paraventricular region: contains a thirst centre activated by hypertonicity, hypovolaemia, dry mouth, other                                                         |
+|                 |   - ↑ADH synthesis                                                                                                                                                    |
+|                 |   - ↑Thirst → water-seeking                                                                                                                                           |
+|                 | - Contains internal osmoreceptors: supraoptic (and paraventricular) nuclei                                                                                            |
+|                 | - Receives input from external osmoreceptors: SFO, OVLT                                                                                                               |
++-----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Food            | - Ventromedial: senses \[glucose\], induces satiety                                                                                                                   |
+|                 | - Lateral: induces hunger and food-seeking                                                                                                                            |
++-----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Sleep-wake      | - Suprachiasmatic nucleus: generates circadian rhythm (input from photosensitive cells)                                                                               |
+|                 |                                                                                                                                                                       |
+|                 | VLPO nuclei vs brainstem ARAS: the awake-NREM flip-flop\                                                                                                              |
+|                 | ![](/content/exams/anzca/2019/B/13/prize-image001.jpg){fig-alt="Sleep–wake circuitry linking ARAS, thalamus, basal forebrain, cortex, VLPO and orexinergic neurons"}\ |
+|                 | \                                                                                                                                                                     |
++-----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Emotion         | - Well connected to other limbic structures (e.g. limbic lobe, amygdala, hippocampus)                                                                                 |
+|                 | - Mediates emotional expression via autonomic and somatic nervous systems                                                                                             |
+|                 | - Defence area: anterior perifornical region                                                                                                                          |
+|                 |   - Activated by the limbic system                                                                                                                                    |
+|                 |   - Stimulation → ↑HR, ↑BP, vasodilatation of skeletal muscle arterioles, splanchnic and renal vasoconstriction                                                       |
+|                 |   - i.e. fight-or-flight response                                                                                                                                     |
+|                 | - Depressor area: anterior region                                                                                                                                     |
+|                 |   - Stimulation → ↓HR, ↓BP                                                                                                                                            |
+|                 |   - ?Accompanies the ‘playing dead’ response in some young animals                                                                                                    |
++-----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Sexual function | - By control of pituitary hormones: onset of puberty; menstrual cycle                                                                                                 |
+|                 | - Medial region control sexual behaviour                                                                                                                              |
++-----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+

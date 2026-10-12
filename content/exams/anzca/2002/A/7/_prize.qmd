@@ -1,0 +1,58 @@
+#### List:
+
+- Principles
+- Types
+- Sources of error
+
+#### Principles:
+
++----------------+--------------------------------------------------------------------------------+
+| Definition     | - Device that measures flow rate                                               |
+|                | - Fixed orifice device                                                         |
+|                | - Flow: rate of passage of fluid from one point to another, units m^3^/s       |
++----------------+--------------------------------------------------------------------------------+
+| Use            | - Measure insp and exp flow rate                                               |
+|                | - Measure volume (integrate area under curve)                                  |
++----------------+--------------------------------------------------------------------------------+
+| Equations      | - Ohm’s law: Flow rate = pressure drop / resistance                            |
+|                | - Poiseuille equation: Resistance = (8 x length x viscosity) / (π x radius^4^) |
+|                | - Reynolds number: Re = (diameter x velocity x density) / viscosity            |
++----------------+--------------------------------------------------------------------------------+
+| Physical basis | - Fixed resistance, hence pressure drop directly proportional to flow rate     |
+|                | - Low Re → laminar flow                                                        |
+|                | - Note actual pressure drop usually small, 1-2cmH~2~O                          |
++----------------+--------------------------------------------------------------------------------+
+
+#### Pneumotachograph types:
+
++-----------------------+----------------------------------------------------------------------------------------------+
+| Fleisch               | - Multiple narrow tubes                                                                      |
+|                       | - Narrow diameter → laminar                                                                  |
++-----------------------+----------------------------------------------------------------------------------------------+
+| Screen                | - Mesh with large number of narrow apertures                                                 |
+|                       | - Narrow diameter → laminar flow                                                             |
++-----------------------+----------------------------------------------------------------------------------------------+
+| Pitot tubes           | - One upstream facing and one downstream facing (measures static pressure)                   |
+|                       | - Pressure difference directly ∝ flow rate                                                   |
++-----------------------+----------------------------------------------------------------------------------------------+
+| (Hot wire anemometer) | - Two heated wires in the stream at right angle to each other                                |
+|                       | - Rate of flow is proportional to the degree of cooling of a heated wire.                    |
+|                       | - Cooling affects electrical resistance (increases if semiconductor, decreases if conductor) |
++-----------------------+----------------------------------------------------------------------------------------------+
+
+#### Sources of error:
+
++-----------------------+------------------------------------------------------------+
+| Extremes of flow rate | - ↑↑ flow rate: ↑Re → ↑risk turbulent flow → falsely ↑rate |
++-----------------------+------------------------------------------------------------+
+| Temperature change    | - ↑ viscosity → ↑ resistance to laminar flow               |
+|                       | - ↓ viscosity or ↑ density → ↑Re → turbulence              |
+|                       | - FIX: heating for temp control                            |
++-----------------------+------------------------------------------------------------+
+| Condensation          | - Irregular conduit → ↑risk turbulence                     |
+|                       | - FIX: heating → ↑ SVP-H~2~O → ↓condensation               |
++-----------------------+------------------------------------------------------------+
+| Changing gas mixture  | - (e.g. N~2~O, volatile, heliox)                           |
+|                       | - ↑ viscosity → ↑ resistance → falsely ↑rate               |
+|                       | - ↑ density → ↑increasing likelihood of turbulent flow     |
++-----------------------+------------------------------------------------------------+

@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010A Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the pharmalogical role of the nicotinic cholinergic receptor.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} receptor types and locations, linking structural differences to drug specificity. Give agonist and antagonist examples and explain the relevant junctional, ganglionic and central effects.
+
+::: {.structure-headings}
+### Receptor Structure and Activation
+
+### Postjunctional Muscle Receptors
+
+### Prejunctional and Extrajunctional Receptors
+
+### Autonomic Ganglionic Receptors
+
+### Central Neuronal Receptors
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**38%** of candidates passed this question.
+
+The key points that needed to be included were:
+
+- The types of the nicotinic receptor, their location and function
+- Structure activity relations of the receptor which account for drug specificity (e.g.why ganglion blockers do not cause muscle relaxation), pharmacodynamics (e.g. prejunctional receptors causing fade) and side effects (e.g. hyperkalaemia with suxamethonium)
+- Drugs can act either directly or indirectly as either agonists or antagonists (correct examples attracted marks)
+
+Many candidates failed to write that there is a structural difference between the neuronal and muscle nicotinic receptor, this is important in understanding the specificity of action of neuromuscular blockers. There was a frequent misconception that anti-muscarinic drugs act primarily at the nicotinic receptor. Some candidates wrote at length about the physiology of the nicotinic receptor without mentioning drugs and were thus unable to achieve a pass mark.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2010/A/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Acetylcholine receptors](/content/neuro/ach_receptor.qmd)
+- [Neuromuscular blockers](/content/msk/neuromuscular_blockers.qmd)

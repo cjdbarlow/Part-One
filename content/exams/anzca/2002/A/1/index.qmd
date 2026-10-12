@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002A Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} how oxygen supply of organs is maintained during isovolaemic haemodilution.
+:::
+
+Also asked in: [2013A Question 15](/content/exams/anzca/2013/A/15/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+**[Explain]{.task-verb}** the compensations by linking the fall in oxygen content to changes in flow and extraction. Distinguish the immediate responses from later adaptation.
+
+::: {.structure-headings}
+### Oxygen Content, Delivery and Extraction
+
+### Reduced Viscosity, Vascular Resistance and Venous Return
+
+### Local Autoregulation and Oxygen Unloading
+
+### Systemic Responses and Their Time Course
+
+### Organ Reserve and Limits of Compensation
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**45%** of candidates passed this question. A satisfactory answer should have indicated that although haemodilution decreases oxygen carrying capacity (by a decrease in arterial oxygen content), oxygen delivery is usually maintained by an increase in cardiac output. These variables are quantified by the oxygen flux equation. The decrease in blood viscosity as a result of haemodilution causes many of the cardiovascular changes that occur. This was not mentioned by over half the candidates. Decreased blood viscosity simultaneously increases venous return and stroke volume and decreases systemic vascular resistance and afterload, all of which increase cardiac output. From Poiseuille’s law we note that flow resistance is directly proportional to blood viscosity. Other relevant areas include the vasodilation that occurs in organ beds and the mechanisms involved. Also important is the increase in oxygen extraction by most organs and possible changes in the oxyhaemoglobin dissociation curve that enhance tissue oxygenation.
+
+Some candidates wrongly indicated that anaerobic metabolism and lactic acidosis (as seen in hypovolaemic shock) occur in moderate isovolaemic haemodilution. Many answers described clinical methods of increasing arterial oxygenation or reducing oxygen consumption which were not relevant to the question asked. Erythropoiesis secondary to increased erythropoietin levels (as occurs in chronic anaemia) was mentioned by many candidates but again has no relevance to this question.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2002/A/1/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Oxygen storage and transport](/content/resp/oxygen_storage.qmd)
+- [Determinants of cardiac output](/content/cvs/co_determinants.qmd)
+- [Venous return](/content/cvs/venous_return.qmd)
+- [Hypoxia](/content/resp/hypoxia.qmd)

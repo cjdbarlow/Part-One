@@ -1,0 +1,68 @@
+#### List:
+
+- Pharmaceutical
+- Pharmacokinetic
+- Pharmacodynamics
+
+#### Pharmaceutical:
+
++---------------------+------------------------------------------------------------------+
+| Impurities          | - Manufactured by superheating NH~4~NO~3~ to 250°C               |
+|                     | - Products: N~2~O plus NH~3~, N~2~, NO, NO~2~                    |
+|                     | - Removal of impurities by scrubbers may be incomplete           |
+|                     |   - e.g. NO~2~: airway damage, headache, heart failure           |
++---------------------+------------------------------------------------------------------+
+| Storage             | - Need to reduce filling ratio from 0.75 to 0.67 in hot climates |
++---------------------+------------------------------------------------------------------+
+| Entonox lamination  | - Occurs below pseudocritical temperature (\~-6°C)               |
+|                     | - Results in delivery of hyperoxic then hypoxic mixture          |
++---------------------+------------------------------------------------------------------+
+| Supports combustion | - Like O~2~                                                      |
+|                     | - Not itself flammable                                           |
++---------------------+------------------------------------------------------------------+
+
+#### Pharmacokinetics:
+
++--------------+-----------------------------------------------------------------------+
+| Absorption   | - N/A, concentration effect beneficial                                |
++--------------+-----------------------------------------------------------------------+
+| Distribution | - N~2~O 30x more soluble, BGPC 0.47; diffuses rapidly into air spaces |
+|              | - N~2~ 30x less soluble, BGPC 0.014; diffuses slowly from air spaces  |
+|              | - Hence expansion of existing closed air spaces                       |
+|              |   - ↑size pneumothorax                                                |
+|              |   - ↑Bowel gas → difficult laparoscopy                                |
+|              |   - ↑Ocular gas (of ocular surgery with SF6?)                         |
+|              |   - ↑Pneumocephalus (if brain surgery)                                |
++--------------+-----------------------------------------------------------------------+
+| Metabolism   | - Minimal, 0.004%                                                     |
++--------------+-----------------------------------------------------------------------+
+| Excretion    | Diffusion hypoxia:                                                    |
+|              |                                                                       |
+|              | - Reverse of the concentration effect                                 |
+|              | - Switch from N~2~O/O~2~ to N~2~/O~2~                                 |
+|              | - Rapid output N~2~O into alveolus, but very slow uptake of N~2~      |
+|              | - Dilution of alveolar O~2~ → hypoxia                                 |
+|              | - Avoided by high %O~2~ during washout                                |
++--------------+-----------------------------------------------------------------------+
+
+#### Pharmacodynamics:
+
++----------------+-----------------------------------------------------------------------------------+
+| Cardiovascular | - Direct: ↓heart rate, ↓contractility, ↓SVR                                       |
+|                | - Via ↑SNS output: ↑HR, ↑contractility, ↑SVR                                      |
++----------------+-----------------------------------------------------------------------------------+
+| Respiratory    | - ↑RR, ↓TV                                                                        |
+|                | - ↑SNS output → ↑PVR → ↑RV strain                                                 |
++----------------+-----------------------------------------------------------------------------------+
+| CNS            | - MAC 105%, MAC-awake 67%; cannot be used alone as anaesthetic                    |
+|                | - Pro-emetic                                                                      |
+|                | - ↑CBF, ↑ICP if susceptible                                                       |
+|                | - Minimal effect on EEG, can’t be monitored with BIS                              |
+|                | - Euphoria, abuse potential                                                       |
++----------------+-----------------------------------------------------------------------------------+
+| Mutagenesis    | - Oxidises the cobalt atom in Vitamin B~12~, a cofactor for methionine synthetase |
+|                | - Impaired DNA synthesis                                                          |
+|                | - Teratogenesis                                                                   |
+|                | - Subacute combined degeneration of the cord (chronic abuse)                      |
+|                | - ? ↑Risk abortion in PACU staff                                                  |
++----------------+-----------------------------------------------------------------------------------+

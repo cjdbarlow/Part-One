@@ -1,0 +1,86 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004B Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the functions of the gastric secretions.
+:::
+
+Also asked in: [2011A Question 15](/content/exams/anzca/2011/A/15/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} each gastric secretion alongside its function. Use secretion headings or a table to keep acid, enzymes, intrinsic factor, mucus, bicarbonate and regulatory products distinct.
+
+::: {.structure-headings}
+### Hydrochloric Acid
+
+### Pepsin and Gastric Lipase
+
+### Intrinsic Factor
+
+### Mucus and Bicarbonate
+
+### Gastrin, Histamine and Somatostatin
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**45%** of candidates passed this question.
+
+The question asked about gastric secretions and their actions. Lengthy descriptions of the control of gastric secretions did not attract marks and would have consumed a significant component of the time available. Some answers did not go beyond control of gastric secretions and did not answer the question asked.
+
+The constituents needed to be identified, namely HCl, pepsinogen, mucus and bicarbonate, intrinsic factor (IF) and gastrin. Additional points were attracted for mention of other constituents e.g. gastric lipase and their functions.
+
+The breakdown of the action of each of these components was useful in an organised answer to the question.
+
+Example: HCI Main points such as activation of pepsinogen to pepsin by HCl, its direct proteolytic action, its bactericidal property and its effect on ‘innate immunity’. Additional points were attracted for discussion of its effect on ferric ion to its more soluble ferrous form, and its stimulant action on biliary and pancreatic secretions.
+
+A similar approach could have been adopted for the other products.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2004/B/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Gastric secretions](/content/git/secretions.qmd)

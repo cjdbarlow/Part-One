@@ -1,0 +1,22 @@
+The hypothalamus is a circumventricular organ that regulates a large number of autonomic functions.
+
+**Thermoregulation**
+
+- Integrates thermoreceptor input and controls activity of heat loss and heat gain mechanisms such as behaviour changes, vasodilation/constriction, shivering, sweating.
+
+**Osmolarity / water balance**
+
+- As a paraventricular organ it contains osmoreceptors with detect changes is osmolarity and respond by stimulating thirst, releasing ADH from the posterior pituitary  
+
+**Pituitary control** 
+
+Hypothalamus controls anterior pituitary hormone release by stimulatory and inhibitory hormones and forms part of the negative feedback system:
+
+- GHRH → Growth Hormone 
+- GHIH / Somatostatin - \> inhibits GH and TSH
+- CRH → ACTH
+- GnRH→ FSH/LH
+- TRH → stimulates TSH
+- Dopamine →↓ prolactin release 
+
+Additionally, hypothalamus produces ADH and Oxytocin for release from the posterior pituitary

@@ -1,0 +1,72 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2020A Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Compare and contrast**]{.task-verb} povidone iodine and alcoholic chlorhexidine as skin antiseptic agents.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Compare and contrast**]{.task-verb} the agents in parallel columns, linking composition and mechanism to antimicrobial activity, onset, persistence, efficacy and adverse effects.
+
+::: {.structure-table}
+| Feature | Povidone Iodine | Alcoholic Chlorhexidine |
+|---|---|---|
+| Composition and Mechanism | | |
+| Antimicrobial Spectrum and Resistance | | |
+| Onset, Duration and Inactivation | | |
+| Clinical Efficacy | | |
+| Toxicity, Allergy and Flammability | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question was asking about two commonly used peri-operative antiseptic agents. The domains covered were similar to most previously asked pharmacology questions and covered physicochemistry, action, activity and adverse effects. This paper displayed a lack of knowledge of these two substances in the majority of candidates. A useful reference for this material would be in Katzung “Basic and Clinical Pharmacology” or Stoelting “Pharmacology and Physiology in Anesthetic Practice”.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2020/A/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Antiseptics](/content/micro/antiseptics.qmd)

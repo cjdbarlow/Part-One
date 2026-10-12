@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015B Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} how morbid obesity affects time to awakening after inhalation anaesthesia.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} time to awakening by connecting the threshold for recovery to washout. Explain obesity-related changes in tissue compartments, perfusion and ventilation, then relate agent solubility, duration and final concentration to the recovery curve.
+
+::: {.structure-headings}
+### Morbid Obesity and Awakening Threshold
+
+### Washout and Compartment Model
+
+### Tissue Capacity, Solubility and Duration
+
+### Cardiac Output and Ventilation
+
+### Patient Factors and Clinical Implications
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**34.8%** of candidates achieved a pass in this question
+
+A pass mark required some definition of morbid obesity (correctly described) and its physiological, pharmacological and anatomical consequences as well as a description of time to awakening for example MAC-awake. The better answers were structured to deal with: (1) the kinetics of recovery from inhalational anaesthesia, (2) the dynamic effects of obesity on anaesthesia and (3) patient factors related to obesity and the clinical application of inhalational anaesthesia. Extra points were awarded if the answer included a wash-out graph or F~A~/F~A0~ curves (correctly labelled) or diagram of the compartments involved i.e. vessel-rich, muscle group and vessel poor or fat group. Highly scoring answers also included correct values for oil: gas partition coefficients & tissue solubilities although these were rare. Factors such as relationships of individual agents with regard to solubility in tissues & fat; duration of anaesthesia and end-tidal concentrations at the end of anaesthesia were required for a full answer.
+
+Factors affecting recovery such as changes in cardiac output, perfusion of tissues and respiratory or ventilation changes were poorly understood or quite often incorrect.
+
+Many answers simply lacked any content that indicated an understanding of either recovery from inhalational anaesthesia or the impact of morbid obesity.
+
+Also, many answers included irrelevant information relating to intravenous anaesthetic agents and opioids, respiratory physiology or to the kinetics of induction and wash-in, particularly blood-gas partition coefficients.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2015/B/5/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2015/B/5/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Obesity](/content/obesity.qmd)
+- [Inhalational anaesthetic agents](/content/pharmacopoeia/neuro/inhalational_anaesthetic_agents.qmd)

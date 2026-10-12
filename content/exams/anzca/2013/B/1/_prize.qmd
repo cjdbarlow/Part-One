@@ -1,0 +1,99 @@
+#### List:
+
+- Summary
+- Direct effects
+- Indirect effects
+
+#### Summary:
+
++--------------------------------+---------------------------------------------------------------------------------------------------------------------------------+
+| Determinants of cardiac output | - ↑Preload                                                                                                                      |
+|                                | - ↓Afterload                                                                                                                    |
+|                                | - ↑Rate                                                                                                                         |
+|                                | - ↑Contractility                                                                                                                |
++--------------------------------+---------------------------------------------------------------------------------------------------------------------------------+
+| Overall effect                 | **Right ventricle:**                                                                                                            |
+|                                |                                                                                                                                 |
+|                                | - ↓Preload (from compression of inflow)                                                                                         |
+|                                | - ↑Afterload (since arteries are intrathoracic)                                                                                 |
+|                                |                                                                                                                                 |
+|                                | *→ ↓Output and ↑MVO~2~*                                                                                                         |
+|                                |                                                                                                                                 |
+|                                | **Left ventricle:**                                                                                                             |
+|                                |                                                                                                                                 |
+|                                | - ↓Preload (mainly from ↓RV output)                                                                                             |
+|                                | - ↓Afterload (since arteries are extrathoracic)                                                                                 |
+|                                |                                                                                                                                 |
+|                                | *→ ↓Output but ↓MVO~2~*\                                                                                                        |
+|                                | *↓CO 10% without PEEP, ↓CO 20% with 10cmH~2~O PEEP*                                                                             |
++--------------------------------+---------------------------------------------------------------------------------------------------------------------------------+
+| Respiratory oscillation        | **Inspiration:**                                                                                                                |
+|                                |                                                                                                                                 |
+|                                | - ↑Intrathoracic pressure (opposite to spont vent)                                                                              |
+|                                |   - ↑LV output                                                                                                                  |
+|                                |   - ↓RV output                                                                                                                  |
+|                                |                                                                                                                                 |
+|                                | **Expiration:**                                                                                                                 |
+|                                |                                                                                                                                 |
+|                                | - ↓Intrathoracic pressure (normalisation if no PEEP)                                                                            |
+|                                |   - ↓LV output                                                                                                                  |
+|                                |   - ↑RV output                                                                                                                  |
++--------------------------------+---------------------------------------------------------------------------------------------------------------------------------+
+| Cardiac status                 | **Healthy LV = ↓output**                                                                                                        |
+|                                |                                                                                                                                 |
+|                                | - ↓Preload is bad; worse if                                                                                                     |
+|                                |   - PEEP (venous obstruction)                                                                                                   |
+|                                |   - Head up (venous pooling)                                                                                                    |
+|                                |   - Hypovolaemia                                                                                                                |
+|                                | - ↓Afterload is good                                                                                                            |
+|                                |                                                                                                                                 |
+|                                | **Failing LV = ↑output**                                                                                                        |
+|                                |                                                                                                                                 |
+|                                | - Pathophysiology:                                                                                                              |
+|                                |   - Venous congestion → ↑preload                                                                                                |
+|                                |   - Inspiratory effort → ↑transmural pressure (preload and afterload)                                                           |
+|                                | - Effects:                                                                                                                      |
+|                                |   - ↓Preload is good                                                                                                            |
+|                                |   - ↓Afterload is good                                                                                                          |
+|                                |                                                                                                                                 |
+|                                |       ![](/content/exams/anzca/2013/B/1/prize-image001.jpg){fig-alt="Frank–Starling curves for healthy and failing ventricles"} |
++--------------------------------+---------------------------------------------------------------------------------------------------------------------------------+
+
+#### Direct effects:
+
++------------+-------------------------------------------------------------------+
+| Inflow     | *Valsalva:*                                                       |
+|            |                                                                   |
+|            | 1. Early inspiration: venous emptying → ↑preload                  |
+|            | 2. Late inspiration: venous collapse → ↓preload (major)           |
+|            | 3. Early expiration: venous pooling → ↓preload                    |
+|            | 4. Late expiration: venous filling → ↑preload (major)             |
++------------+-------------------------------------------------------------------+
+| Outflow    | - Pulmonary: ↑PA and alveolar pressure → ↑PVR → ↑RV afterload     |
+|            | - Systemic: ↑aortic pressure → ↑thoracic outflow → ↓LV afterload  |
++------------+-------------------------------------------------------------------+
+| Ventricles | - ↓Compliance → ↓preload                                          |
+|            | - ↓Transmural pressure → ↓afterload                               |
++------------+-------------------------------------------------------------------+
+| Other      | - Overall ↓RV output → ↓LV preload                                |
+|            | - Absent negative pressure → ↓RV preload (i.e. no diaphragm pump) |
+|            | - ↑RV afterload → RV distension → ↓LV compliance → ↓LV preload\   |
+|            |   (i.e. interdependence)                                          |
++------------+-------------------------------------------------------------------+
+
+#### Indirect effects:
+
++-----------+-------------------------------------------------------------------+
+| Neural    | - Baroreceptor response: ↓CO → ↓mAP → ↓stretch → ↑SNS output      |
++-----------+-------------------------------------------------------------------+
+| Hormonal  | - RAAS: ↓CO → ↓mAP → ↓renal baroreceptor stretch → ↑RAAS activity |
+|           |   - Vasoconstriction → ↑afterload                                 |
+|           |   - Na^+^/H~2~O retention → ↑preload                              |
+|           | - ANP: ↑CVP → atrial stretch → ↑ANP                               |
+|           |   - ↑HR                                                           |
+|           |   - Natriuresis → ↓preload                                        |
++-----------+-------------------------------------------------------------------+
+| Intrinsic | - Bainbridge effect: ↓preload → ↓atrial stretch → ↓HR             |
+|           | - Bowditch effect: ↑HR → ↑Ca^2+^ influx→ ↑contractility           |
+|           | - Anrep effect: ↓afterload → ↓Ca^2+^ extrusion → ↓contractility   |
++-----------+-------------------------------------------------------------------+

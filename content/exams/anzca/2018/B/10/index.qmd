@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018B Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the mechanisms of action of the drugs, with examples, which increase myocardial contractility.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} how each mechanism increases contractility, then give representative drugs. Begin with excitation–contraction coupling and distinguish increased intracellular calcium from increased calcium sensitivity.
+
+::: {.structure-table}
+| Mechanism | Drug Examples | Intracellular Effect |
+|---|---|---|
+| Direct Adrenergic Stimulation | | |
+| Indirect Adrenergic Stimulation | | |
+| Phosphodiesterase Inhibition | | |
+| Calcium Sensitisation | | |
+| Sodium–Potassium ATPase Inhibition | | |
+| Other Mechanisms | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**52 %** of candidates achieved a pass in this question
+
+The wording of question points to the focus of the answer. The focus should be the mechanism of action of increasing myocardial contraction, or positive inotropy. Drug examples should then follow as the second part of the answer. Thus, while the breadth and depth of the question are both important, the depth of understanding of the mechanisms of action take precedence.
+
+To pass, candidates were expected to provide 3 or more examples of positive inotropes, and included some discussion on the mechanisms of action. The better candidates were able to provide detailed mechanisms for increasing inotropy first, with some providing up to 6 – 7 examples. Candidates who could only provide a list of various drugs without giving correct mechanism of actions had difficulty passing.
+
+A number of candidates were not able to define myocardial contractility correctly, which should be independent of heart rate, preload and afterload. Candidates who answered the question with purely symbols and/or non-conventional abbreviations to indicate directions of change and mechanisms of action were not able to attain very high marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2018/B/10/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2018/B/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inotropes](/content/pharmacopoeia/cvs/inotropes.qmd)

@@ -1,0 +1,80 @@
+#### List:
+
+- Intro
+- Skin as sensor
+- Skin for heat conservation
+- Skin for heat loss
+
+#### Intro:
+
++---------------------+----------------------------------------------------------------+
+| Skin                | - Body’s outer covering                                        |
+|                     | - Outer epidermis: multiple layers of keratinized cells        |
+|                     | - Inner dermis: rich in arteries, veins, capillaries           |
+|                     | - Highly variable blood flow rate, avg 600mL/min               |
++---------------------+----------------------------------------------------------------+
+| Temperature control | - Sensors: ambient (skin), core (spinal cord, thorax, abdomen) |
+|                     | - Integration: hypothalamus                                    |
+|                     | - Efferents: behavioural and autonomic systems                 |
+|                     | - Tight control of core tempeature \~37°C                      |
+|                     | - Heat production = heat loss (except short term)              |
++---------------------+----------------------------------------------------------------+
+
+#### Skin sensors: for ambient temperature
+
++----------------+----------------------------------------------------------+
+| Warm receptors | - Ruffini endings via C fibres and spino-thalamic tracts |
+|                | - Become active \>30°C                                   |
++----------------+----------------------------------------------------------+
+| Cold receptors | - Krause bulbs via Aδ fibres and spinothalamic tracts    |
+|                | - Become active \<25°C                                   |
++----------------+----------------------------------------------------------+
+
+#### Skin effectors: heat conservation
+
++-------------------------+--------------------------------------------------------------------------+
+| Vasoconstriction        | - Of arteries, veins, A-V anastomoses, pre-capillary sphincters          |
+|                         | - ↑Cutaneous SNS from hypothalamus → ↑α1 adrenoceptor activity           |
+|                         | - ↓skin blood flow up to 10x                                             |
+|                         | - Skin temp ↓ to near ambient temp                                       |
+|                         | - ↓temp gradient between cool skin and cooler surrounds                  |
+|                         | - ↓loss by radiation, convection, conduction                             |
+|                         | - (Inhibited by general anaesthetic, vasodilators)                       |
++-------------------------+--------------------------------------------------------------------------+
+| Insulation              | - Physical contact required for heat loss by convection, conduction      |
+|                         | - Skin and subcut fat separate internal organs from cold environment     |
+|                         | - Prevents radiation, convection, conduction, evaporative loss from core |
+|                         | - (Laparotomy → direct contact with air → ↑↑heat loss)                   |
++-------------------------+--------------------------------------------------------------------------+
+| Countercurrent exchange | - Cutaneous arteries lie next to cutaneous veins                         |
+|                         | - Temperature gradient is established: ↓from internal to external        |
++-------------------------+--------------------------------------------------------------------------+
+| Piloerection            | - Unimportant in man                                                     |
++-------------------------+--------------------------------------------------------------------------+
+
+#### Skin effectors: heat loss
+
++------------------+------------------------------------------------------------------------------------+
+| Vasodilation     | - Of arteries, veins, A-V anastomoses, pre-capillary sphincters                    |
+|                  | - ↓Cutaneous SNS from hypothalamus → ↓α~1~ adrenoceptor activity (and ↑mAChR?)     |
+|                  | - ↑skin blood flow up to 30x                                                       |
+|                  | - ↑skin blood volume in cutaneous venous plexuses                                  |
+|                  | - Skin ↑ to near core temp                                                         |
+|                  | - ↑temp gradient between warm skin and cooler surrounds                            |
+|                  | - Also ↑flow of warm blood through cool skin                                       |
+|                  | - ↑loss by radiation, convection, conduction (only if temp body \> temp surrounds) |
++------------------+------------------------------------------------------------------------------------+
+| Sweating         | - ↑SNS activity at mAChR                                                           |
+|                  | - Secrete water + electrolyte onto skin                                            |
+|                  | - Evaporation up to 2L/h                                                           |
+|                  | - Latent heat of vapourisation 2.26MJ/kg (i.e. high)                               |
+|                  | - Evaporation rate ∝ skin temperature / ambient humidity                           |
+|                  | - Active even when temp body \< temp surrounds (doesn’t require gradient)          |
++------------------+------------------------------------------------------------------------------------+
+| Insensitive loss | - Transepidermal diffusion                                                         |
+|                  | - 400mL/day                                                                        |
+|                  | - Not under direct control                                                         |
+|                  | - Latent heat of vapourisation at 2.24MJ/kg                                        |
+|                  | - Evaporation rate ∝ skin temp / ambient humidity                                  |
+|                  | - Active even when temp body \< temp surrounds (doesn’t require gradient)          |
++------------------+------------------------------------------------------------------------------------+

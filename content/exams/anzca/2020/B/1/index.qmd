@@ -1,0 +1,85 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2020B Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+a) [**Describe**]{.task-verb} the immediate cardiovascular responses to the sudden loss of 30% of the blood volume in a healthy awake person
+b) [**How are**]{.task-verb} these responses different if the patient is undergoing anaesthesia with sevoflurane?
+:::
+
+Also asked in: [2017B Question 3](/content/exams/anzca/2017/B/3/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the immediate cardiovascular effects and compensatory responses to the specified blood loss in the awake person. Explain [**how**]{.task-verb} sevoflurane modifies those responses through its cardiovascular actions and baroreceptor effects.
+
+::: {.structure-headings}
+### Immediate Effects of Thirty Per Cent Blood Loss
+
+### Baroreceptor and Autonomic Compensation
+
+### Other Circulatory Compensatory Mechanisms
+
+### Sevoflurane Effects on the Heart and Vasculature
+
+### Altered Response During Sevoflurane Anaesthesia
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The expected domains for this question were;
+
+- Context on degree of blood loss and its effect on volume status
+- A description of sympathetic nervous system responses
+- Other humoral/endocrine mediated responses.
+- Effects of sevoflurane on the cardiovascular system; application of this to a shocked state
+
+To pass, candidates were required to consider the context, describe autonomic nervous system mediated mechanisms, and describe how sevoflurane affects these responses. The first section was generally well answered, with higher scores achieved with additional detail regarding humoral/endocrine changes, blood reservoir mobilisation and blood flow distribution. The second section had a much greater variation in the quality of answers. A significant portion of candidates provided just one or two brief notes resulting in at best a borderline pass mark overall. Better answers gave an overview of sevoflurane’s effects on the cardiovascular system, especially the baroreceptor reflex, noting how sevoflurane would interfere with homeostatic responses to haemorrhage.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2017/B/3/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2017/B/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Baroreceptors](/content/cvs/baroreceptors.qmd)
+- [Inhalational anaesthetic agents](/content/pharmacopoeia/neuro/inhalational_anaesthetic_agents.qmd)

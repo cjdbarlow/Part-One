@@ -1,0 +1,91 @@
+#### List:
+
+- Intro
+- Afferent
+- Controller
+- Efferent
+
+#### Intro:
+
++-----------------------------+---------------------------------------------------------------------------------------------------------+
+| Definition                  | - Forceful expiration to expel mucous or foreign material from airways. Keeps lower resp tract sterile. |
+|                             | - Can be voluntary or involuntary                                                                       |
++-----------------------------+---------------------------------------------------------------------------------------------------------+
+| Sequence                    | - Fast inspiration                                                                                      |
+|                             | - Close glottis                                                                                         |
+|                             | - Contract chest and abdo wall                                                                          |
+|                             | - ↑Intrathoracic pressure (ITP) \~100mmHg                                                               |
+|                             | - Release glottis                                                                                       |
+|                             | - Expiration fast (80km/h) and turbulent (to expunge wall-adherent material)                            |
++-----------------------------+---------------------------------------------------------------------------------------------------------+
+| Purpose                     | - Keep airways sterile                                                                                  |
++-----------------------------+---------------------------------------------------------------------------------------------------------+
+| Significance to anaesthesia | - Suppressed under GA – hypnotics, opioids                                                              |
+|                             | - Risk of aspiration                                                                                    |
++-----------------------------+---------------------------------------------------------------------------------------------------------+
+
+#### Afferent limb:
+
++---------+-------------------------------------------------------------------------------+
+| Sensors | - Mucosal irritant receptors on C fibres                                      |
+|         | - Mechanical or chemical stimuli. E.g. water, food, dust                      |
+|         | - From pharynx to resp bronchioles, esp carina                                |
++---------+-------------------------------------------------------------------------------+
+| Pathway | - General visceral afferents: via dorsal horn and spinomedullary tract        |
+|         | - CNIX: pharynx → nucleus tractus solitarius (NTS)                            |
+|         | - CNX: → the NTS                                                              |
+|         |   - Pharynx: own branch x 2                                                   |
+|         |   - Larynx above vocal cords: internal branch of superior laryngeal nerve x 2 |
+|         |   - Larynx below vocal cords, trachea, bronchi: recurrent laryngeal nerve x 2 |
++---------+-------------------------------------------------------------------------------+
+
+#### Controller:
+
++----------------+---------------------------------------+
+| Afferents to   | - Nucleus tractus solitarius          |
++----------------+---------------------------------------+
+| Integration    | - Medullary respiratory centre        |
++----------------+---------------------------------------+
+| Efferents from | - Nucleus ambiguus (pharynx, larynx)  |
+|                | - Dorsal motor nucleus of vagus       |
++----------------+---------------------------------------+
+
+#### Efferent limb:
+
++----------------------------------+------------------------------------------------------------------+--------------------------+
+|                                  | **Muscle**                                                       | **Innervation**          |
++==================================+==================================================================+==========================+
+| Inspiration                      | Diaphragm                                                        | C3-5                     |
+|                                  +------------------------------------------------------------------+--------------------------+
+|                                  | External intercostals                                            | Intercostal nerves       |
+|                                  +------------------------------------------------------------------+--------------------------+
+|                                  | Pharyngeal dilators                                              | CNIX                     |
+|                                  |                                                                  |                          |
+|                                  |                                                                  | CNX pharyngeal branches  |
++----------------------------------+------------------------------------------------------------------+--------------------------+
+| Glottic closure                  | Lateral cricoarytenoid                                           | CNX recurrent laryngeal  |
+|                                  |                                                                  |                          |
+|                                  | Interarytenoid                                                   |                          |
++----------------------------------+------------------------------------------------------------------+--------------------------+
+| Increased intrathoracic pressure | Internal intercostals                                            | Intercostal nerves       |
+|                                  +------------------------------------------------------------------+--------------------------+
+|                                  | Abdominals (rectus, transversus, internal and external obliques) | Lower intercostal nerves |
+|                                  |                                                                  |                          |
+|                                  |                                                                  | Subcostal nerves         |
+|                                  |                                                                  |                          |
+|                                  |                                                                  | Iliohypogastric          |
+|                                  |                                                                  |                          |
+|                                  |                                                                  | Ilioinguinal             |
+|                                  +------------------------------------------------------------------+--------------------------+
+|                                  | Latissimus dorsi                                                 | Thoracodorsal nerve      |
+|                                  +------------------------------------------------------------------+--------------------------+
+|                                  | Serratus posterior inferior                                      | Intercostal nerves       |
+|                                  +------------------------------------------------------------------+--------------------------+
+|                                  | Quadratus lumborum                                               | Subcostal nerve          |
++----------------------------------+------------------------------------------------------------------+--------------------------+
+| Glottic release                  | Posterior cricoarytenoid                                         | CNX recurrent laryngeal  |
+|                                  |                                                                  |                          |
+|                                  | (and relax glottic closure muscles)                              |                          |
++----------------------------------+------------------------------------------------------------------+--------------------------+
+| Forceful expiration              | (as for increased intrathoracic pressure)                        |                          |
++----------------------------------+------------------------------------------------------------------+--------------------------+

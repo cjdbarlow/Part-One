@@ -1,0 +1,85 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2021A Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the V/Q ratio at the apex and base of the upright lung. [**How does**]{.task-verb} this affect regional gas exchange?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} regional ventilation and perfusion separately before relating their gradients to the V/Q ratio. Then explain [**how**]{.task-verb} the resulting gas tensions and oxygen content affect regional and mixed gas exchange, using labelled graphs.
+
+::: {.structure-headings}
+### Ventilation from Apex to Base
+
+### Perfusion from Apex to Base
+
+### Regional V/Q Ratios and Gas Tensions
+
+### Oxygen Exchange and Mixing
+
+### Carbon Dioxide Exchange and Compensation
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**35.9%** of candidates achieved a pass in this question
+
+This question called firstly for a description and quantification of ventilation and perfusion as it is spread across the upright lung. Better answers attempted the two topics separately and then proceeded to discuss how ventilation and perfusion are matched. A correctly drawn diagram often aided the discussion.
+
+The second part of the question called for a discussion on how the V/Q spread affects gas exchange. Examples of gas tensions in lung units across different parts of the lung should have been included, as well as identification on how and why O~2~ and CO~2~ are affected differently. Discussion of why well oxygenated alveoli do not compensate for the poorly oxygenated gained extra credit.
+
+There were two very repeatable reasons why some candidates did not score a pass mark:
+
+- completely failing to discuss gas exchange
+- devoting the answer wholly, or largely to a discussion of West’s zones of the lung.
+
+West’s zones is a model to conceptualise what may be occurring in terms of the relationship between vascular and alveolar pressures in different parts of the lung. It has relevance but should not be considered the whole story or even the basis of a discussion on V/Q mismatching.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2021/A/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Ventilation–perfusion relationships](/content/resp/vq_basics.qmd)

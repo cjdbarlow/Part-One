@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001A Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} how drugs may produce their pharmacological effects. [**Illustrate**]{.task-verb} each mechanism with examples.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} **Receptor-Mediated Actions**, **Direct Ion-Channel Actions**, **Enzyme Inhibition**, and **Other Mechanisms**. [**Illustrate**]{.task-verb} each mechanism with a drug example and distinguish the target from the resulting pharmacological effect.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**75%** of candidates passed this question. To obtain a pass, a brief explanation of the following was required.
+
+1. Receptors - at least two types with correct examples of agonists or antagonists
+    - Ion channel linked (atracurium)
+    - G-protein coupled (adrenaline)
+    - Kinase linked (insulin)
+    - Cytosolic or nuclear receptors that regulate gene transcription (steroids)
+2. Direct Ion channel actions (local anaesthetics)
+3. Enzyme inhibition (neostigmine)
+
+Other mechanisms of action, with examples, such as those listed below earned additional marks.
+
+- Carrier molecules (diuretics, digoxin)
+- Colligative properties (mannitol)
+- Structural analogues / counterfeiting (acyclovir, chemotherapeutic agents)
+- Chemical reactions (heparin/protamine, antacids)
+- Chelation (penicillamine, desferrioxamine)
+- Structural proteins (colchicine)
+
+Mention of differing effects as a result of the stereospecificity of interaction was also noted.
+
+A common mistake was the description of voltage sensitive ion channels such as calcium and sodium as ligand gated receptors. The mechanism of interaction between heparin and protamine was often incorrectly used as an example of chelation, rather than a simple physicochemical interaction. The lipid theory of the mechanism of action of inhalational agents was often used as an example of a colligative action. This was used as an example in the Examiners Report of this same question in August/September 1996. However, there is now good evidence that the mechanism of action of inhalational agents is via stereospecific protein interaction in the lipid membrane. It is expected that the best answers would integrate relevant current knowledge.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Mechanisms of Action](/content/pharmacology/mechanisms.qmd)
+- [Receptor Types](/content/pharmacology/receptor_types.qmd)

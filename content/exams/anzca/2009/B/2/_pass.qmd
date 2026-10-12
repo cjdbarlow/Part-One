@@ -1,0 +1,32 @@
+Propofol (2,6 diisopropylphenol) is an IV anaesthetic agent used primarily for sedation, Induction and maintenance of Anaesthesia. 
+
+It’s lipophilic with poor water solubility. 
+
+It’s formulated as an emulsion as 1% (10mg/ml) with 
+
+- glycerol 2.5%
+- soybean oil 10%  
+- egg phosphatic 1% 
+
+pH 8.5  
+
+**Side effects of formulation:**
+
+- pH 8.5 - pain on injection 
+- Propofol infusion syndrome: metabolic acidosis; rhabdomyolysis, hyperlipidaemia,  bradycardia
+
+Lack of preservative and lipid lipid rich → risk of bacterial contamination 
+
+**Side effects of Propofol**:
+
+CVS: ↓Inotropy ↓chronotropy ↓SVR, impaired Baroreceptors response → ↓ MAP and Brady Cardia
+
+↓Cerebral Blood flow / ↓DPP
+
+Resp: Respiratory depressant ↓TV and MV, blunts response to ↑PaCO2 / ↓PaO2, loss of airway reflexes → ↑Risk of Aspiration 
+
+CNS: excitatory phenomena (e.g. involuntary movements, twitches, tremors, hiccups) but nil epileptiform EEG; low therapeutic index between sedation and general anaesthesia; ↓cerebral blood flow (may cause ischaemia)
+
+CVS – dose dependent ↓inotropy; ↓SVR (via NO release)!↓mAP
+
+OTHER – produces green hair and urine (after prolonged infusion)

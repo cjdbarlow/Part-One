@@ -1,0 +1,87 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011A Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the functions of the loop of Henle, including the physiological mechanisms involved.
+:::
+
+Also asked in: [2003A Question 16](/content/exams/anzca/2003/A/16/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} each function together with its physiological mechanism. Use a labelled nephron diagram to show segment permeability, countercurrent multiplication and the supporting roles of urea recycling and the vasa recta.
+
+::: {.structure-headings}
+### Relevant Anatomy and Reabsorption
+
+### Countercurrent Multiplication
+
+### Urea Recycling
+
+### Countercurrent Exchange
+
+### Tubuloglomerular Feedback
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question was passed by **37%** of candidates.
+
+The question asked for both the functions of the loop of Henle, and physiological mechanisms involved. Both these points needed to be addressed to pass this question.
+
+Well structured answers included a brief relevant anatomical description of the loop of Henle, and a description of the functions which included the physiological mechanisms.
+
+Very few candidates mentioned functions apart from the development of a concentration gradient, and many candidates were unable to describe the physiological process whereby that gradient is developed. There was often confusion regarding the osmolality at various anatomical locations within the loop. Many candidates did not mention or were unable to explain the role of the vasa recta in the physiological mechanisms of concentration. Many answers were focussed on the collecting duct rather than on the loop of Henle, and several answers listed general functions of the kidney rather than those of the loop of Henle.
+
+The examiner was aware of controversy relating to tubuloglomerular feedback in different textbooks, and marks were awarded accordingly.
+
+Many candidates obtained near-maximal marks for an accurate and well-labelled diagram explaining the physiological mechanisms.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2003/A/16/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Renal sodium handling](/content/renal/sodium.qmd)
+- [Glomerular filtration](/content/renal/glomerular_filtration.qmd)

@@ -1,0 +1,99 @@
+For a person to receive a shock, there must be 2 conditions met:
+
+- There is a source of potential difference (electrical fault or leakage current)
+- The person becomes part of a low resistance, complete electrical circuit connected to the source
+
+**Danger Thresholds**
+
+Macroshock: current through two points of body. Safe \<10mA, VF 100mA\
+Microshock: enters body through internal device close to heart. Safe \<10μA, VF 100μA
+
+Determinants of Severity:
+
+- Frequency 60Hz most dangerous 
+- ↑ Current 
+- ↑ Density 
+- ↑ Duration 
+- Path (i.e. through Heart)
+
+The risk is reduced by requiring special safety criteria for 
+
+- Electrical supply design of the OR
+- Biomedical equipment design 
+
+**Electrical Supply Safety Features **
+
+Operating theatres is classified as a Cardiac Protected Treatment Area 
+
+This requires the implementation of 3 safety features 
+
+- Residual current device (RCD) and/or
+- Line isolation monitor (LIM) and
+- Equipotential earthing system (EES)  
+
+**RCD** 
+
+- Monitors the current difference between active and neutral lines 
+- if current leak occurs (greater the 10mA) through person or equipment grounding →  RCD tripped and interrupt power supply 
+
+**Line Isolation Supply with Line Isolation Monitor**
+
+- Uses a transformer inductor so 2 circuits not physically connected and supply 'floating' and isolated from earth
+- Separate Earthing line to equipment casing 
+
+Line isolation monitor tests circuit resistance to earth in lines active and neutral lines 
+
+**1 Fault condition**
+
+- Fault if impedance difference between lines
+- Alarm will sound 
+- Power Not interrupted 
+
+If 2 Fault condition where secondary circuit to earth occurs then power not shut off  → results in shock
+
+Advantage: Power supply not interrupted to essential equipment in single fault condition 
+
+Disadvantage: not shock protection in 2 fault situations  
+
+**Equipotential Earthing System (EES) **
+
+Only method that protects from micro shock
+
+- Ultra-low resistance earth cables are attached to electrical devices and the patients be
+- These cables are then attached to special wall earth connector
+- This ensures all equipment is referenced to a common ground, minimising the risk of leakage currents between devices and the patient
+
+**Equipment Design **
+
+Classified on designs to limit shock
+
+**Class I**
+
+- Equipment that has an earth wire connected to its outer metal casing
+- This protects against shock in case a fault causes the active wire to contact the outer 
+  case
+
+**Class II** 
+
+- Double insulated equipment
+- Has a plastic outer case in addition to the normal internal insulation
+- An earth wire is not required as the outer casing is non-conductive 
+
+**Class III**
+
+- Extra low voltage (\< 40V) or battery powered equipment
+- Doesn't require an earth wire, even if it has a metal case because the voltage is low so that the risk of macroshock is negligible 
+
+**Electrically Safe Areas**
+
+**B Areas**: Protection against macroshock
+
+- Residual Current Devices
+- Line Isolation Supply
+
+**BF areas**: Cardiac (microshock) protection
+
+- Equipotential Earthing
+- All devices, and the patient, are earthed to each other by thick copper (i.e. low-resistance), such that any potential difference between devices will be equalised via the path of least resistance (the wire, not the patient).
+
+**Z areas**: No particular protections

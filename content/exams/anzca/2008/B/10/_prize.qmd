@@ -1,0 +1,115 @@
+#### List:
+
+- Definitions
+- Overall effect
+- Metabolic effects
+- Organ system effects
+
+#### Old definitions:
+
++------------------------------------------------+-----------------------------------------------------------------+
+| Systemic inflammatory response syndrome (SIRS) | ≥2 of                                                           |
+|                                                |                                                                 |
+|                                                | 1.  Temp \> 38°C or \<36°C                                      |
+|                                                | 2.  HR \> 90                                                    |
+|                                                | 3.  RR \>20 or PaCO2 \<32mmHg                                   |
+|                                                | 4.  WCC \>12 or \<4 or \>10% immature cells                     |
++------------------------------------------------+-----------------------------------------------------------------+
+| Septicaemia                                    | Systemic infection                                              |
++------------------------------------------------+-----------------------------------------------------------------+
+| Sepsis                                         | Systemic infection + SIRS                                       |
++------------------------------------------------+-----------------------------------------------------------------+
+| Severe sepsis                                  | Systemic infection + SIRS + hypotension                         |
++------------------------------------------------+-----------------------------------------------------------------+
+| Septic shock                                   | Systemic infection + SIRS + hypotension + end-organ dysfunction |
++------------------------------------------------+-----------------------------------------------------------------+
+
+#### New definitions:
+
++--------------+-----------------------------------------------------------------------------+
+| Sepsis       | Infection → dysregulated host response → life-threatening organ dysfunction |
++--------------+-----------------------------------------------------------------------------+
+| Septic shock | - Sepsis                                                                    |
+|              | - mAP \<65                                                                  |
+|              | - Lactate \>2                                                               |
+|              | - Despite adequate volume resuscitation                                     |
++--------------+-----------------------------------------------------------------------------+
+
+#### Overall effect:
+
++-----------------+---------------------------------------------------------------------------+
+| Pathophysiology | - Pathogen → WBC activation → ↑↑cytokine release (TNF-α, IL1, IL6, IFN) → |
+|                 |   - Endothelial dysfunction (capillary leak, microvascular thrombosis)    |
+|                 |   - Vasomotor dysfunction (vasodilatation, impaired autoregulation)       |
+|                 |   - ↑Hypothalamic set-point → ↑temp → ↑metabolic rate (7% per 1°C)        |
+|                 |   - ↑Cardiorespiratory activity → ↑metabolic rate                         |
+|                 |                                                                           |
+|                 | -\>\> Inadequate oxygen delivery                                          |
+|                 |                                                                           |
+|                 | -\>\> Organ dysfunction                                                   |
++-----------------+---------------------------------------------------------------------------+
+| Key features    | - ↑Inflammation                                                           |
+|                 | - ↑Insulin resistance                                                     |
+|                 | - ↑Metabolic rate                                                         |
+|                 | - ↑Catabolic rate                                                         |
++-----------------+---------------------------------------------------------------------------+
+
+#### Metabolic effects:
+
++-----------+-------------------------------------------------------------------------------------+
+| Autonomic | - Cytokines → ↑SNS output from brainstem                                            |
+|           | - ↓mAP → baroreceptor response → ↑SNS output                                        |
++-----------+-------------------------------------------------------------------------------------+
+| Endocrine | **Substrate mobilization:**                                                         |
+|           |                                                                                     |
+|           | - ↑Cortisol                                                                         |
+|           | - ↑Insulin (resistance)                                                             |
+|           | - ↑Catecholamines                                                                   |
+|           | - ↓Thyroid hormones                                                                 |
+|           |                                                                                     |
+|           | **Volume preservation:**                                                            |
+|           |                                                                                     |
+|           | - ↑RAAS                                                                             |
+|           | - ↑ADH                                                                              |
++-----------+-------------------------------------------------------------------------------------+
+| Acid-base | - ↑Anaerobic metabolism → ↑lactic acidosis due to                                   |
+|           |   - ↑Metabolic rate                                                                 |
+|           |   - ↓Tissue perfusion                                                               |
++-----------+-------------------------------------------------------------------------------------+
+| Fluid     | - Vasodilation, capillary leak →                                                    |
+|           |   - ↓Blood volume → ↓CO (relative) → ↓tissue perfusion                              |
+|           |   - ↑Interstitial volume (e.g. APO)                                                 |
+|           | - Hypovolaemia → ↑ADH, ↑RAAS activity → ↓urine output                               |
++-----------+-------------------------------------------------------------------------------------+
+| Substrate | - ↑\[Glucose\]: ↓cell uptake, ↑gluconeogenesis                                      |
+|           | - ↑\[Amino acids\]: ↑gluconeogenesis in liver, muscle (→ critical illness myopathy) |
+|           | - ↑\[Lipids\]: ↑lipolysis in liver, subcut fat, muscle                              |
+|           | - ↑\[Ketones\]: ↑lipolysis in liver, ↑Acetyl-CoA : OAA                              |
++-----------+-------------------------------------------------------------------------------------+
+
+#### Organ system effects:
+
++-------------+-----------------------------------------------------------------------------+
+| Brain       | - Blood-brain-barrier disruption → cytokine and pathogen effects → delirium |
+|             | - Central ischaemic response: mAP \<50mmHg → ↑↑SNS → ↑HR/contractility/SVR  |
++-------------+-----------------------------------------------------------------------------+
+| Heart       | - Cytokines → ↓inotropy +/- septic cardiomyopathy                           |
+|             | - SNS → ↑HR, ↑contractility (predominates if pH \>7.2)                      |
+|             | - Acidosis: ↓inotropy (predominates if pH \<7.2)                            |
+|             | - Supply/demand mismatch: risk of myocardial ischaemia                      |
++-------------+-----------------------------------------------------------------------------+
+| Vasculature | - Cytokines: vasodilatation, capillary leak → ↓SVR (can be profound)        |
+|             | - Acidosis: vasodilatation                                                  |
+|             | - SNS: vasoconstriction (partly offsets dilation)                           |
++-------------+-----------------------------------------------------------------------------+
+| Respiratory | - ↑Metabolic rate → ↑VCO~2~ → ↑V~A~                                         |
+|             | - Capillary leak → +/- pulmonary oedema, ARDS                               |
++-------------+-----------------------------------------------------------------------------+
+| Renal       | Effects of hypotension:                                                     |
+|             |                                                                             |
+|             | - ↑renin, angiotensin, aldosterone                                          |
+|             | - +/- Failure of autoregulation (if mAP \<70mmHg)                           |
+|             | - +/- ATN (if severe, prolonged)                                            |
++-------------+-----------------------------------------------------------------------------+
+| Haem        | - Cytokines → ± platelet dysfunction / microvascular thrombosis / DIC       |
++-------------+-----------------------------------------------------------------------------+

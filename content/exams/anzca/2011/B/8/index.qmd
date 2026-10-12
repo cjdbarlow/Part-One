@@ -1,0 +1,75 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011B Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the terms train-of-four stimulation and double burst stimulation with respect to the peripheral nerve stimulator. [**Describe**]{.task-verb} their advantages and disadvantages when used to evaluate non-depolarising neuromuscular blockade.
+:::
+
+Also asked in: [2008A Question 7](/content/exams/anzca/2008/A/7/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Train-of-Four Stimulation** and **Double Burst Stimulation** with their timing and stimulus characteristics. [**Compare**]{.task-verb} **Advantages**, **Disadvantages**, and **Interpretation During Non-Depolarising Block** in a table.
+
+::: {.structure-table}
+| Feature | Train-of-Four | Double Burst |
+|---|---|---|
+| Stimulation Pattern | | |
+| Interpretation | | |
+| Advantages | | |
+| Disadvantages | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**67.4%** of candidates passed this question.
+
+Train of Four is delivered by 4 identical supramaximal stimuli at about 20 – 50 milliamps, each of .1 sec duration, at 2Hz (2 per second); the sequence may be repeated every 10 – 20 seconds if used ‘continuously’. A synopsis of the twitch height and receptor blockade along with a description of the ratios was well described. Interpretation of depth of blockade based on TOF count/ratio was also well discussed Confusion about millivolts and milliamps often cropped up. Double Burst Stimulation described as 2 bursts of 3 tetanic stimulations (.2 msecs duration each) 20 msecs apart at 50 Hz bursts separated by 750 msecs pause. The repeatability takes into account the ‘fatigue’ of the junctions following tetanic stimuli. Discussion of advantaged vs. disadvantages including such topics such as ease of use, accuracy to manual / visual assessment, need for extra objective measurement with eg accelomyography, painful or not, able for awake patients, painful or not, use for depth of block, use for assessing presence of residual blockade, use in reversibility of blockade, need or value of a baseline measurement form a choice of headings to make a comment on. Most candidates were able to mention a few to demonstrate the physical/pharmacological/clinical rationale for the choice of technique used. Detailed descriptions of where and how to place electrodes, comparison of depolarising and non-depolarising blocks were not part of the question.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neuromuscular Monitoring](/content/equipment/neuromuscular_monitoring.qmd)

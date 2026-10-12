@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008A Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+An 80 year old woman is undergoing major emergency surgery. [**Describe**]{.task-verb} the maintenance inhaled concentration of sevoflurane you would choose and the factors that might influence this.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} a clinically justified maintenance concentration, balancing awareness and movement against cardiovascular depression. Apply age, illness, surgical stimulation and co-administered drugs, distinguishing inspired from end-tidal concentration.
+
+::: {.structure-headings}
+### Clinical Goals and Proposed Concentration
+
+### Age and Acute Illness
+
+### Other Anaesthetic and Analgesic Drugs
+
+### Surgical Stimulation
+
+### Inspired–End-Tidal Difference and Monitoring
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**30%** of candidates passed this question.
+
+This question seemed to cause a lot of difficulty for many candidates who struggled to relate their answer to the clinical situation. Common mistakes were the discussion of uptake factors or listing the pharmacology of sevoflurance without putting it into context. Pregnancy does affect MAC, but not in 80 year olds.
+
+In order to pass candidates were expected to cover the need to provide enough sevoflurane to prevent awareness and movement while minimising its undesirable cardiovascular effects. The patient’s age, preoperative condition, type of surgery, and use of other MAC reducing agents or drugs needed to be mentioned. Very few candidates considered that differences between the inhaled and end-tidal concentration of sevoflurane.
+
+Additional marks were awarded for awareness monitoring, other factors affecting MAC, and more details about the cardiovascular side effects of sevoflurane. Well-structured answers that were clinically relevant scored better marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2008/A/1/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational anaesthetics](/content/pharmacopoeia/neuro/inhalational_anaesthetics.qmd)

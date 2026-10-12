@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999A Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly outline**]{.task-verb} the pharmacological effects of the volatile anaesthetic agents on the kidneys.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly outline**]{.task-verb} the renal effects by separating haemodynamic and hormonal changes from agent-specific nephrotoxicity. Link each mechanism to its effect on renal function.
+
+::: {.structure-headings}
+### Renal Blood Flow, Filtration and Urine Output
+
+### Hormonal Effects
+
+### Compound A
+
+### Fluoride and Agent-Specific Toxicity
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question was generally well answered with **64%** of candidates passing this question. The most important aspects were that all volatile agents decrease renal blood flow to some extent, and this associated with a reduction in glomerular filtration rate and urine flow. These effects are usually minimal and can be largely negated by maintaining intravascular hydration. The “stress response” of major surgery may compound these effects.
+
+The metabolism of some agents results in free fluoride ions, which have been associated with tubular damage and high output renal failure. This is related to the amount and duration of exposure, as well as their solubility (rate of excretion) and extent of metabolism - this is why methoxyflurane is particularly nephrotoxic; the critical level for methoxyflurane is about 2 MAC-hours, and this is usually associated with a plasma fluoride level of 50 µmol/litre.
+
+Sevoflurane metabolism also produces fluoride ions, but there is no clinical evidence that this is associated with renal damage. This has been attributed to its rapid excretion and low rate of intra-renal production of fluoride ion. Sevoflurane is also broken down in soda lime (& Baralyme) to compound A; this is increased at low fresh gas flows. Compound A is nephrotoxic in rats, but probably not in humans (though this remains controversial).
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/A/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational anaesthetic agents](/content/pharmacopoeia/neuro/inhalational_anaesthetics.qmd)
+- [Renal blood flow](/content/renal/rbf.qmd)

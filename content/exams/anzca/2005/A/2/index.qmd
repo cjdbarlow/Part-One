@@ -1,0 +1,72 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005A Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the acute adverse effects of opioid receptor agonists. [**Describe**]{.task-verb} the mechanisms of the acute adverse effects of opioid receptor agonists.
+:::
+
+Also asked in: [2012B Question 4](/content/exams/anzca/2012/B/4/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} **Respiratory**, **Central Nervous System**, **Cardiovascular**, **Gastrointestinal and Urinary**, **Musculoskeletal**, and **Cutaneous Effects**. [**Describe**]{.task-verb} the mechanism alongside each acute adverse effect.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**73 %** of candidates passed this question.
+
+This question examined material pertinent to everyday anaesthetic practice, relating to safety aspects of opioids. A wide breadth of knowledge was expected for candidates to obtain a pass mark.
+
+The main points anticipated included dose-dependent depression of the brainstem respiratory centres, pronounced at the extremes of age, with initial reduced respiratory rate, and a reduction in the response of minute ventilation to increased pCO~2~ (right shift in the minute ventilation-pCO~2~ response curve) and decreased ventilatory response to hypoxia; nausea and vomiting with stimulation of the chemoreceptor trigger zone; effects on cognition and mood, including dysphoria and sedation; cardiovascular changes, particularly hypotension and/or bradycardia relating to histamine release, vagal stimulation, decreased central sympathetic outflow, baroreflex inhibition; effects on smooth muscle and sphincter tone resulting in delayed gastric emptying, ileus, constipation, spasm of the sphincter of Oddi, and urinary retention; chest wall skeletal muscle rigidity; and cutaneous effects including rash and pruritis.
+
+Marks were also awarded for additional effects or details, including, but not limited to, bronchospasm relating to histamine release, sleep apnoea, suppression of upper and lower airway reflexes including cough, delayed respiratory depression after intrathecal opioid administration, neurendocrine effects including increased ADH and other actions on the hypothalamic-hypophyseal system, specific actions of pethidine on the cardiovascular system, immune effects of opioids including viral reactivation; and anaphylactoid reactions. Other opioid actions, e.g. euphoria, meiosis, were accepted where candidates could indicate the manner in which such effects could be considered adverse.
+
+Additional marks were awarded for clearly labelled graphs. Candidates were expected to have knowledge of the mechanisms by which opioids exerted their adverse effects, and lists of opioid receptor subtypes, without indication of location, were insufficient. No credit was given for adverse effects seen only after chronic use of opioids.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Opioids](/content/pharmacopoeia/analgesics/opioidspharm.qmd)

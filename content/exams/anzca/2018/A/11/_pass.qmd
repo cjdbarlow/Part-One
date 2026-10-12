@@ -1,0 +1,54 @@
+Hypoxaemia - is abnormally low oxygen partial pressure in the arterial circulation. It is generally considered to be a partial pressure of less than 60mmHg which in a normal person would correspond to saturation’s of approx. 92% in a healthy patient 
+
+Regulation of respiration: 
+
+Under normal circumstances control of respiration is primarily under hypercapnic drive.
+
+In hypoxaemia hypoxic drive is activated → increase in minute ventilation
+
+![](/content/exams/anzca/2018/A/11/standard-image35.png){fig-alt="Respiratory control feedback loop linking sensors, central controller and muscles of respiration"}
+
+- Peripheral chemoreceptors 
+  - Located in the carotid body (innervated by CNIX) and Aortic Arch (innervated by CNX)
+  - Stimulated in normal circumstances by decrease in PaO2  (under60mmHg) and inc PaCO2 
+- Central Chemoreceptors
+  - Located in Ventral Medulla 
+  - Stimulated indirectly by increase in CO2, not sensitive to O2 so minimal contribution to hypoxaemia
+  - Indirect mechanism: 
+    - CO2 diffuses through BBB 
+    - Increase ofCO2 in CSF - CO2+H20 (+ Carbonic Anhydrase)→  H2CO3 → HCO3- + H+
+    - Fall in pH respiratory centre   
+
+ Response to hypoxaemia:
+
+- In Hypoxaemia hypoxic drive acts for rapid increase in MV 
+- Synergistic increase in MV if PaCO2 is also increased 
+
+![](/content/exams/anzca/2018/A/11/standard-image36.png){fig-alt="Minute ventilation against arterial oxygen tension with carbon dioxide and anaesthetic concentration curves"}
+
+Respiratory response is triphasic:
+
+1)  Initial rapid increase in MV
+2)  MV Decline to new higher plateau MV
+3)  If ongoing isocapnoea → slow ongoing rise in MV over hours 
+
+Effect of General Anaesthesia 
+
+- All anaesthetic agents depress the response to hypoxaemia 
+  - 0.1 MAC 50-70 Depression of response 
+  - 1.1 MAC 100% Depression of response
+  - Residual Anaesthetic agent can impair ventilators drive to Hypoxaemia and Hypercapnia and need appropriate monitoring and supplemental O2 in recovery 
+
+Hypoxic pulmonary vasoconstriction
+
+- Occurs primarily in response to low PAO2 
+- Biphasic Response
+  - Rapid Vasoconstriction of small vessels within minutes
+  - Plateau at 5 min 
+  - Second phase at around 40min
+  - Max effect at 2-4hours
+- Mechanism poorly understood 
+- Results in: 
+  - improved VQ matching
+  - increased PVR
+  - Volatile agents thought to have a dose dependant suppression of HPV, at 1 MAC approx. 20% inhibition OG HPV response

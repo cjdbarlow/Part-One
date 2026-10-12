@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013A Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the concept of volume of distribution. [**How may it be used**]{.task-verb} in the calculation of a loading dose? [**What assumptions are made**]{.task-verb} in this calculation?
+:::
+
+Also asked in: [2021B Question 3](/content/exams/anzca/2021/B/3/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+**[Discuss]{.task-verb}** the concept, then show **[how it may be used]{.task-verb}** to calculate a loading dose and identify **[what assumptions are made]{.task-verb}**.
+
+::: {.structure-headings}
+### Definition, Equation and Apparent Volume
+
+### Factors Affecting Volume of Distribution
+
+### Loading-Dose Calculation
+
+### Assumptions and Limitations
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Old Exam: **29%** of candidates achieved a pass in this question
+
+New Exam: **35%** of candidates achieved a pass in this question
+
+Marks were allocated for a correct definition and a basic formula for calculating Vd. Extra marks were also allocated for clear explanations about why it is called the apparent volume of distribution and how the calculated volumes can greatly exceed the physical volumes in the body. Descriptions about single versus multi-compartment modelling also scored marks.
+
+Further marks were also obtained for describing drug, physiological, and pathological factors that affected a drug’s Vd. Extra marks were given for providing relevant examples of drugs. The primary assumption is that the calculation is based on a single compartment model or the Vd at steady state. Depending on the drug’s distribution, this can sometimes lead to very high initial peak plasma levels with the potential for toxicity. Bonus marks were awarded for using relevant drug examples. Bonus marks were also awarded for discussion about using other variants of Vd in the calculation, e.g. Vdpe, etc., as well as discussing assumptions about bioavailability and clearance.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/A/5/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/A/5/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Pharmacological terms](/content/pharmacology/terms.qmd)
+- [Distribution](/content/pharmacology/distribution.qmd)
+- [Pharmacokinetic models](/content/pharmacology/kinetic_models.qmd)

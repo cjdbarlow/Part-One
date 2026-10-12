@@ -1,0 +1,90 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016B Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the effect of a pregnancy, at term, on wash-in of volatile anaesthetic agents.
+:::
+
+Also asked in: [2020B Question 7](/content/exams/anzca/2020/B/7/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} pregnancy-related changes in delivery, alveolar uptake and distribution. Explain their effects on wash-in using inspired and alveolar concentration curves, keeping alveolar kinetics distinct from altered anaesthetic requirement.
+
+::: {.structure-headings}
+### Ventilation and Functional Residual Capacity
+
+### Cardiac Output and Pulmonary Uptake
+
+### Blood and Tissue Distribution
+
+### Inspired and Alveolar Concentration Curves
+
+### Agent Differences
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**33.5%** of candidates achieved a pass in this question
+
+This question was principally about the pharmacokinetic implications of term pregnancy for volatile anaesthetic wash-in.
+
+**Main points expected for a pass:**
+
+The rate of volatile wash-in is determined by the balance of delivery to the alveolus vs uptake from the alveolus. Wash-in can be demonstrated graphically with an FA/FI curve. At term pregnancy there is an increase in minute ventilation. There is also a reduction in the functional residual capacity (which is exaggerated in the supine, anaesthetised patient). Better answers discussed these respiratory changes, their magnitude , the effect on volatile wash-in and an explanation of why these effects occur. Volatile uptake is affected by blood-gas solubility, cardiac output changes in pregnancy, and the arterio-venous volatile pressure gradient. Better scoring answers contained a detailed discussion of these issues and explained their effect on volatile wash-in.
+
+**Common mistakes or omissions:**
+
+Many candidates spent a lot of time discussing pharmacodynamic changes in pregnancy, including its effect on MAC. This was not awarded any marks. Similarly many candidates spent too much time listing all of the physiological changes in pregnancy, or all of the factors involved in volatile wash-in, including many that were not relevant to the question. It was clear that there was confusion with terminology – with wash-in, uptake, and rate of onset all used interchangeably by many candidates. Some candidates spent time writing about wash - out, which was not relevant to the question. FA/FI graphs were often drawn incorrectly, with unlabelled axes. Some were labelled as FI/FA curves.
+
+**Additional points which attracted higher marks:**
+
+Few candidates mentioned that at term pregnancy, volatile anaesthetic is usually given in the setting of a general anaesthetic with an intubated and paralyzed patient – where minute ventilation is controlled by the anesthetist. Few mentioned that the overall effect is an increased speed of wash-in with the effects on the respiratory system outweighing those on the cardiovascular system.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2016/B/13/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2016/B/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational anaesthetics](/content/pharmacopoeia/neuro/inhalational_anaesthetics.qmd)

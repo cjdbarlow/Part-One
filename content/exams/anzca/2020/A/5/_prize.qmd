@@ -1,0 +1,81 @@
+#### List:
+
+- Intro
+- Maternal adaptations
+- Foetal adaptations
+- Haemoglobin adaptations: Bohr & Haldane effects
+
+#### Intro:
+
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Mechanism of transfer              | ![](/content/exams/anzca/2020/A/5/prize-image001.jpg){fig-alt="Fick diffusion relationship showing concentration gradient, membrane area and thickness, solubility and molecular weight"} |
+|                                    |                                                                                                                                                                                           |
+|                                    | - Diffusion down partial pressure gradient                                                                                                                                                |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Problem                            | - Area 15m^2^ (cf. lung 80m^2^)                                                                                                                                                           |
+|                                    | - Thickness 3.5μm (cf. lung 0.5μm)                                                                                                                                                        |
+|                                    | - Hence slow rate of transfer cf. lung                                                                                                                                                    |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Solution                           | - Maternal adaptations: ↑CO, ↑MV                                                                                                                                                          |
+|                                    | - Foetal adaptations: ↑Hb affinity for O~2~, ↑Hb concentration                                                                                                                            |
+|                                    | - Haemoglobin design: Bohr and Haldane effects                                                                                                                                            |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Maternal adaptations:
+
++-----------------------+---------------------------------------------------------------------------------+
+| ↑Cardiac output       | - ↑50% at term, with 600mL/min to placenta                                      |
+|                       | - Cause: a) ↑metabolic demand → ↑preload b) progesterone-induced ↓SVR           |
+|                       | - Effect: ↑DO~2~ to placenta, ↑O~2~ uptake, ↑CO~2~ excretion                    |
++-----------------------+---------------------------------------------------------------------------------+
+| ↑Alveolar ventilation | - ↑50% at term (≈ ↑RR 10% + ↑TV 35%)                                            |
+|                       | - Cause: a) ↑metabolic demand b) progesterone sensitises central chemoreceptors |
+|                       | - Effect on CO2: ↓PaCO~2~ → enhanced double Bohr effect                         |
+|                       | - Effect on O2: ↑PaO~2~ → ↑concentration gradient and ↑DO~2~                    |
++-----------------------+---------------------------------------------------------------------------------+
+
+#### Foetal adaptations:
+
++---------------+-----------------------------------------------------------------+
+| HbF           | - Left shift OHDC with p50 19mmHg (cf.26mmHg)                   |
+|               | - Cause: serine substitution → ↓affinity for 2,3-DPG            |
+|               | - Effect: umbilical venous SvO~2~ 80% despite pO~2~ 30mmHg      |
++---------------+-----------------------------------------------------------------+
+| Polycythaemia | - Hb 180g/L cf. 140g/L                                          |
+|               | - Cause: hypoxia → ↑erythropoiesis                              |
+|               | - Effect: umbilical venous CvO~2~ 16mL/100mL despite SvO~2~ 80% |
++---------------+-----------------------------------------------------------------+
+
+#### Bohr effect:
+
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Description        | - If ↓pH, ↑pCO~2~:                                                                                                                                                                            |
+|                    |   - ↓Affinity of Hb for O~2~                                                                                                                                                                  |
+|                    |   - Right shift oxyhaemoglobin dissociation curve (OHDC)                                                                                                                                      |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Mechanism          | - Allosteric interactions between haems:                                                                                                                                                      |
+|                    |   - ↓pH, ↑pCO~2~ → tense (T) state → ↓affinity for O~2~                                                                                                                                       |
+|                    |   - ↑pH, ↓pCO~2~ → relaxed (R) state → ↑affinity for O~2~                                                                                                                                     |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Double Bohr effect | - As HbF unloads CO~2~:                                                                                                                                                                       |
+|                    |   - ↑pCO~2~/H^+^ in maternal lacuna → ↓HbA affinity for O~2~ → unload O~2~                                                                                                                    |
+|                    |   - b)↓pCO~2~/H^+^ in foetal capillary → ↑HbF affinity for O~2~ → load O~2~                                                                                                                   |
+|                    |                                                                                                                                                                                               |
+|                    | ![](/content/exams/anzca/2020/A/5/prize-image002.jpg){fig-alt="Maternal and fetal oxyhaemoglobin dissociation curves showing the double Bohr effect and uterine and umbilical vessel values"} |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Haldane effect:
+
++-----------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Description           | - HHb has higher affinity for CO~2~ than HbO~2~                                                                                                                                   |
++-----------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Mechanism             | - 70%: because HHb is 3.5x better at forming carbaminoHb                                                                                                                          |
+|                       | - 30%: because ↑pKa of imidazoles to 8.2 enhances buffering of H^+^                                                                                                               |
++-----------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Double Haldane effect | - As HbA unloads O~2~:                                                                                                                                                            |
+|                       | - a)↑pO~2~ in capillary → ↓HbF affinity for CO~2~ → unload CO~2~                                                                                                                  |
+|                       | - b)↓pO~2~ in lacuna → ↑HbA affinity for CO~2~ → load CO~2~                                                                                                                       |
+|                       | - \>Amplification of Bohr effect → ↑foetal PaO~2~                                                                                                                                 |
+|                       |                                                                                                                                                                                   |
+|                       | ![](/content/exams/anzca/2020/A/5/prize-image003.jpg){fig-alt="Carbon dioxide content against partial pressure in uterine and umbilical blood showing the double Haldane effect"} |
++-----------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+

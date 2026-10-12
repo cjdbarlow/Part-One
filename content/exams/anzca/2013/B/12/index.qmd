@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013B Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} how differences in the pharmacokinetics of alfentanil and fentanyl can influence the way they are administered intravenously.
+:::
+
+Also asked in: [2000B Question 12](/content/exams/anzca/2000/B/12/index.qmd#examiner-comments), [2003A Question 6](/content/exams/anzca/2003/A/6/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} each pharmacokinetic difference through its consequence for bolus dosing, repeated doses or infusion.
+
+::: {.structure-table}
+| Pharmacokinetic Feature | Alfentanil | Fentanyl | Implication for IV Administration |
+|---|---|---|---|
+| Onset and Peak Effect | | | |
+| Distribution and Initial Offset | | | |
+| Clearance and Elimination | | | |
+| Accumulation and Context-Sensitive Half Time | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**24.8%** of candidates achieved a pass in this question
+
+This question calls for an explanation of how these two drugs are used based on their comparative pharmacokinetics. Failure to link the pharmacokinetics with the usage resulted in low marks. Discussion of non-intravenous routes of administration was not a productive strategy.
+
+Commonly confused issues included: Onset is not the same as peak effect. Offset is not the same as half life. Clearance does not mean elimination half life—this is of particular importance when discussing alfentanil. Context sensitive half time is meaningless unless the length of infusion is stated. Graphs of context sensitive half life without figures on the time axis were uninterpretable. Remifentanil and alfentanil are different drugs. Fentanyl was commonly misspelt. Alfentanil is not confined to the plasma. Plasma volume is much less than 0.6L/kg. Neither drug has problems with active metabolites.
+
+General issues: Many candidates made vague statements, such as “Both drugs are metabolised in the liver”, which do not demonstrate understanding.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2000/B/12/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2000/B/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Opioid pharmacology](/content/pharmacopoeia/analgesics/opioids.qmd)
+- [Intravenous drug kinetics](/content/pharmacology/iv_kinetics.qmd)

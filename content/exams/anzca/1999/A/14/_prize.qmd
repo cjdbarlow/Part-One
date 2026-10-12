@@ -1,0 +1,48 @@
+#### List:
+
+- ↓GFR
+- Compound A nephrotoxicity
+- Fluoride toxicity
+
+#### ↓GFR:
+
++-----------------------+-------------------------------------------------------------------------------+
+| Cardiovascular causes | - ↓L-Ca^2+^ activity, ↑nitric oxide release, ↓medulla SNS outflow             |
+|                       | - ↓Preload, ↓contractility, ↓cardiac output, ↓SVR → ↓mAP                      |
+|                       | - If mAP \<70: failure of myogenic autoregulation → ↓RBF, ↓GFR, ↓urine output |
+|                       | - Partly offset by baroreceptor response → ↑HR                                |
++-----------------------+-------------------------------------------------------------------------------+
+| Hormonal causes       | - ↓RAAS activity                                                              |
+|                       |   - ↓SNS output → ↓β~1~ activation → ↓renin release                           |
+|                       | - ↓ANP release                                                                |
+|                       |   - ↓SNS / ↓L-Ca^2+^ / ↑NO → venodilatation → ↓CVP                            |
++-----------------------+-------------------------------------------------------------------------------+
+
+#### Compound A nephrotoxicity:
+
++--------------+------------------------------------------------------------------------------------+
+| Origin       | - Sevo + CO~2~ absorber → compounds A-E                                            |
+|              | - Compound A = pentafluoroisopropenylfluoromethyl ether                            |
++--------------+------------------------------------------------------------------------------------+
+| Risk factors | - Baralyme \> Sodalime \>Amrisorb \> Litholime                                     |
+|              | - Fresh absorbent                                                                  |
+|              | - ↑% sevoflurane                                                                   |
+|              | - ↓FGF rate                                                                        |
+|              | - ↑temp                                                                            |
++--------------+------------------------------------------------------------------------------------+
+| Toxicity     | - Predicted threshold in man: ?200ppm                                              |
+|              | - Levels observed in practice: 20-40ppm (β-lyase pathway 30x less active cf. rats) |
+|              | - Recommendation: FGF \>2L/min, ↓2MAC hours if FGF 1-2L/min                        |
++--------------+------------------------------------------------------------------------------------+
+
+#### Fluoride toxicity:
+
++----------------+-------------------------------------------------------------+
+| Methoxyflurane | - 70% metabolized (since high BGPC)                         |
+|                | - Mostly renal CYP2E1 → inorganic and organic F             |
+|                | - Causes high output renal failure                          |
+|                | - Threshold 50mcg/mL, occurs at 2MAC hours                  |
++----------------+-------------------------------------------------------------+
+| Sevoflurane    | - 2-5% metabolized (since low BGPC)                         |
+|                | - Large amount of fluoride production, but hepatic \> renal |
++----------------+-------------------------------------------------------------+

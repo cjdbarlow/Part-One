@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2017A Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the physiological effects of the adrenal hormones aldosterone and cortisol. (Do NOT describe synthesis or metabolism).
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} effects of each hormone, beginning with intracellular receptor action. Link aldosterone to nephron cells and transport pathways, then organise cortisol effects by metabolism, immunity and other systems.
+
+::: {.structure-headings}
+### Intracellular Receptors and Protein Synthesis
+
+### Aldosterone: Renal Transport and Electrolytes
+
+### Aldosterone: Other Epithelial Effects
+
+### Cortisol: Metabolic Effects
+
+### Cortisol: Immune, Permissive and Other Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**65.5%** of candidates achieved a pass in this question
+
+Marks were gained for a brief description of the mechanism of action of these steroid hormones, specifically that they act intracellularly on DNA transcription altering protein synthesis.
+
+An outline of the effects of aldosterone required determining where in nephron it works, upon which cells, and which channels and pumps are involved in these actions. It was not enough to only state that aldosterone causes reabsorption of Na (and H2O by osmosis) and secretion of K. The effect upon H secretion was also expected. Better responses illustrated the numerous triggers for aldosterone release beyond just mentioning the renin-angiotensin system, and showed understanding of the triggers for renin release.
+
+The effects of cortisol are widespread and candidates were NOT expected to cover them all to attain a pass mark, though better answers were rewarded for their breadth of understanding. The plethora of marks available was weighted towards the more important effects, and it was expected that metabolic actions (carbohydrate, protein, fat) and immune system effects would be well outlined. For example, many candidates correctly stated that cortisol stimulates catabolism. Better answers, however, would briefly elaborate to show that this provides amino acids which are then available for gluconeogenesis, and may also lead to muscle wasting…gaining several more marks in the process. Comments on catecholamine responsiveness, fetal lung maturation, CNS effects were also rewarded, as was an illustration of the hypothalamic/pituitary axis, triggers for cortisol release and feedback mechanisms.
+
+Common errors included confusing aldosterone with ADH, and misunderstanding the terms catabolic and anabolic. Numerous candidates spent time discussing the adrenal anatomy, or the adrenal medullary hormones, and marks were not given for this.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2017/A/14/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2017/A/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Adrenal hormones](/content/endo/adrenal.qmd)

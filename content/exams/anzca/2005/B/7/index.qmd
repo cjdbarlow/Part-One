@@ -1,0 +1,92 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005B Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly outline**]{.task-verb} the pharmacology of droperidol, emphasising its mechanism of action, perioperative use and side effects.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly outline**]{.task-verb} pharmacology around the requested mechanism, perioperative uses and adverse effects. Link receptor actions and dose to antiemetic and sedative applications.
+
+::: {.structure-headings}
+### Class, Formulation and Brief Kinetics
+
+### Mechanism of Action
+
+### Perioperative Uses and Doses
+
+### Side Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**61 %** of candidates passed this question.
+
+Candidates who scored more highly tended to use the question as a template to frame their answer. In this way, more marks were earned for relevant, correct information. No marks can be scored for information not relevant to the question, no matter how correct.
+
+Points which scored marks included, but were not limited to:
+
+- Description of droperidol as a butyrophenone, previously used as a neuroleptic/neurolept agent
+- Brief reference to pharmaceutics, pharmacokinetics and pharmacodynamics
+- Description of droperidol as a dopamine antagonist, with location and subtype of relevant receptors
+- Dose-as an anti-emetic vs. sedative dose
+- Indications-neurolept, anti-emetic (primary prophylactic or rescue) especially vs. opioid-induced vomiting, pre-medication or co-induction agent, or as an anti-psychotic
+- Side effects could have included alpha blockade and orthostatic hypotension, “locked-in” syndrome, neurolept malignant syndrome, extra-pyramidal Parkinsonian effects, excessive sedation
+
+Common errors included:
+
+- Description of droperidol as a phenothiazine
+- Reference to blockade of H1, 5HT and muscarinic receptors (true for phenothiazines, less so for haloperidol, not clinically relevant for droperidol)
+- Many candidates referred to problems relating to prolactin, galactorrhea, gynaecomastia-not an issue with clinical use of droperidol
+- Not many candidates differentiated between prophylactic and rescue anti-emetics
+- Some doses given were wildly inaccurate
+- Many candidates wrote excessively long descriptions of dopamine receptors or mechanisms of vomiting which did not score any extra points
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2005/B/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Antiemetics](/content/pharmacopoeia/git/antiemetics.qmd)

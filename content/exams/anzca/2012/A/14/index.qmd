@@ -1,0 +1,85 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012A Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the components of parenteral nutrition and [**explain**]{.task-verb} the rationale for the use of each component.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} the components in a table and [**explain**]{.task-verb} the physiological rationale for each. [**Include**]{.task-verb} usual daily requirements where relevant.
+
+::: {.structure-table}
+| Component | Rationale | Typical Requirement |
+|---|---|---|
+| Water | | |
+| Glucose | | |
+| Lipids | | |
+| Amino Acids | | |
+| Electrolytes | | |
+| Vitamins | | |
+| Trace Elements | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**58.4 %** of candidates passed this question with few good answers.
+
+In general this question was well answered. Points required for a pass were:
+
+- listing the components of parenteral nutrition – namely water, caloric requirements, glucose, lipids and amino-acids, electrolytes, vitamins and trace elements
+- explanation of the physiological roles that these various components play
+
+Additional marks were given if the candidate could quantify the typical daily requirements, mention physiological and pathological states associated with increased requirements, the use of calorimetry, the role of insulin, and various other speciality topics - such as the role of glutamine.
+
+Common misconceptions were that lactate and protein (presumably plasma) are important components of parenteral nutrition, and that lipids are administered in the form of free fatty acids. Many candidates wasted a lot of time describing the complications and various routes of administration of parenteral nutrition.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Carbohydrate Metabolism](/content/metabolic/carbohydrate.qmd)
+- [Protein Metabolism](/content/metabolic/protein.qmd)
+- [Fat Metabolism](/content/metabolic/fat.qmd)

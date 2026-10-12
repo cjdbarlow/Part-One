@@ -1,0 +1,93 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013B Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the physiological effects of endogenous glucocorticoids.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the physiological effects by system, relating cortisol’s actions to the stress response.
+
+::: {.structure-headings}
+### Metabolic Effects
+
+### Immune and Haematological Effects
+
+### Musculoskeletal and Gastrointestinal Effects
+
+### Cardiovascular and Permissive Effects
+
+### Foetal Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**38.9%** of candidates achieved a pass in this question
+
+Good answers were well organized with a concise introductory heading followed by classification into metabolic, immunological, haematological, musculoskeletal, gastrointestinal, foetal, vascular and permissive effects.
+
+Some good answers included a description of mechanism of action of cortisol at the molecular level, which gained extra marks. Similarly, candidates who were able to explain why cortisol is a “stress hormone” and what benefits it confer to the individual scored extra marks. A few well-written answers also included a discussion of how cortisol exerts its anti-inflammatory effects.
+
+Many candidates mentioned osteoporosis as a physiologic effect when in fact it occurs only in conditions of excess glucocorticoids over long periods.
+
+Irrelevant to the question are:
+
+- Circadian nature of ACTH secretion, which is the cause of confusion to many candidates. (Cortisol is NOT the hormone responsible for normal sleep-awake cycle)
+
+- Regulatory control of cortisol and the negative feedback loop. (However, marks were awarded to candidates who mentioned that glucocorticoids inhibit ACTH secretion)
+
+- A system-based description of Cushing syndrome, which is a pathological state.
+
+- Steroid supplementation during surgery.
+
+The main cause for failing this question was insufficient detail demonstrating a lack of knowledge and poor understanding.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/B/7/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Adrenal hormones](/content/endo/adrenal.qmd)
+- [Corticosteroids](/content/pharmacopoeia/resp/corticosteroids.qmd)

@@ -1,0 +1,112 @@
+#### List:
+
+- Intro: body compartments and ECF volume determinants
+- ECF volume sensors
+- ECF volume controller
+- ECF volume effectors
+
+#### Intro:
+
++----------------------------+-----------------------------------------------------------------------------------+
+| Body fluid compartments    | - Body is 60% water (42L of 70kg)                                                 |
+|                            | - 2/3 ICF (i.e. cytosol) 28L                                                      |
+|                            | - 1/3 ECF (i.e. outside cells) 14L. ¼ plasma 3.5L, ¾ ISF 10.5L                    |
+|                            | - (others: bone, dense CT, transcellular unimportant to fluid dynamics)           |
+|                            | - Note compartments are functional not anatomical                                 |
++----------------------------+-----------------------------------------------------------------------------------+
+| Determinants of ECF volume | 1.  Amount of Na^+^ in ECF (most important and controllable effective ECF osmole) |
+|                            |     a.  Na^+^ alone: aldosterone                                                  |
+|                            |     b.  Na^+^ and H~2~O: angiotensin 2, ANP                                       |
+|                            | 2.  Tonicity of ECF                                                               |
+|                            |     a.  Water intake: thirst                                                      |
+|                            |     b.  Water output: ADH                                                         |
++----------------------------+-----------------------------------------------------------------------------------+
+
+#### ECF volume sensors:
+
++----------------------------------------+-----------------------------------------------------------------------------------------------+
+| Via central blood volume               | - Low pressure baroreceptors in walls of atria and great veins                                |
+|                                        | - Stretch-activated mechanoreceptors                                                          |
+|                                        | - Activation of receptor results in inhibitory signal via CNX afferents                       |
++----------------------------------------+-----------------------------------------------------------------------------------------------+
+| Via systemic arterial pressure         | - Carotid and aortic sinus baroreceptors                                                      |
+|                                        | - ↓mAP → ↓stretch → ↓inhibition of output to hypothalamus via CNIX (carotid) and CNX (aortic) |
++----------------------------------------+-----------------------------------------------------------------------------------------------+
+| Via renal afferent arteriolar pressure | - Renal baroreceptors                                                                         |
+|                                        | - ↓mAP → ↓stretch → ↓inhibition of granular cell → ↑renin release                             |
++----------------------------------------+-----------------------------------------------------------------------------------------------+
+
+#### ECF volume controller:
+
++--------+---------------------------------------------------------+
+| Brain  | - Hypothalamus controls ECF sodium content and tonicity |
++--------+---------------------------------------------------------+
+| Kidney | - Juxtaglomerular apparatus controls ECF sodium content |
++--------+---------------------------------------------------------+
+
+#### ECF volume effectors:
+
++--------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| RAAS   | ![](/content/exams/anzca/2001/A/1/prize-image001.jpg){fig-alt="Angiotensin pathway with renin, ACE, angiotensin subtypes and aldosterone"}  |
+|        |                                                                                                                                             |
+|        | - Stimuli for renin release:                                                                                                                |
+|        |   - ↑SNS activation of granular cells (β~1~)                                                                                                |
+|        |   - ↓stretch of afferent arteriolar baroreceptors                                                                                           |
+|        |   - ↓NaCl delivery to macula densa                                                                                                          |
+|        | - Stimuli for aldosterone release:                                                                                                          |
+|        |   - ACTH                                                                                                                                    |
+|        |   - Angiotensin 2                                                                                                                           |
+|        |   - ↑K^+^                                                                                                                                   |
+|        | - Actions of angiotensin 2:                                                                                                                 |
+|        |   - Renal:                                                                                                                                  |
+|        |     - ↑Activity proximal tubule Na^+^/H^+^ exchanger                                                                                        |
+|        |     - ↑Na^+^/H~2~O/HCO~3~^-^ reabsorption                                                                                                   |
+|        |     - **↑ECF volume** and pH                                                                                                                |
+|        |   - Vascular                                                                                                                                |
+|        |     - Peripheral vasoconstriction → ↑SVR, mAP                                                                                               |
+|        |     - Constriction of efferent \> afferent → ↑GFR                                                                                           |
+|        |     - Constriction of peritubular capillaries → ↑reabsorption                                                                               |
+|        |   - Hypothalamic                                                                                                                            |
+|        |     - Thirst                                                                                                                                |
+|        |     - ADH release                                                                                                                           |
+|        | - Actions of aldosterone (most important factor):                                                                                           |
+|        |   - Na^+^ reabsorption from connecting tubule and collecting ducts (MR)                                                                     |
+|        |   - Na^+^ reabsorption from colon, sweat glands (MR)                                                                                        |
+|        |   - **↑ECF tonicity** directly                                                                                                              |
+|        |   - **↑ECF volume** indirectly (↑osmolarity → ↑ADH release)                                                                                 |
+|        | - Negative feedback:                                                                                                                        |
+|        |   - Direct: AT2 binds AGTR1 on granular cell → ↑Ca2+ → ↓renin release                                                                       |
+|        |   - Physiological: effects of AT2 and aldosterone → ↓renin release                                                                          |
++--------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| ANP    | - Stimulus:                                                                                                                                 |
+|        |   - Distension of right atrium (i.e. ↑central blood volume)                                                                                 |
+|        | - Effects:                                                                                                                                  |
+|        |   - Dilatation of afferent arteriole, constriction of efferent arteriole → ↑GFR                                                             |
+|        |   - Inhibit NCC in distal tubule, ENaC in connecting tubule and collecting duct → ↓Na^+^/H~2~O reabsorption                                 |
+|        |   - i.e. natriuresis                                                                                                                        |
+|        |   - **↓ECF volume**                                                                                                                         |
++--------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| ADH    | - Production: hypothalamus (supra-optic and paraventricular nuclei)                                                                         |
+|        | - Release: posterior pituitary                                                                                                              |
+|        | - Stimuli:                                                                                                                                  |
+|        |   - ↑osmolality (sensitive to ∆2%)                                                                                                          |
+|        |   - ↓BV (sensitive to ∆10% i.e. ↓BV 0.5L, ↓ECF 1.4L, ↓TBW 4L; overrides osmolarity)                                                         |
+|        |   - ↓mAP                                                                                                                                    |
+|        |   - Angiotensin 2                                                                                                                           |
+|        |   - Stress (e.g. surgery)                                                                                                                   |
+|        |   - Drugs (e.g. SSRI)                                                                                                                       |
+|        | - Effects:                                                                                                                                  |
+|        |   - Insertion of aquaporins into collecting duct apical membranes (↑free H~2~O reabsorption)                                                |
+|        |   - Insertion of ureaporins into medullary collecting duct apical membranes (↑medullary interstitial osmolarity)                            |
+|        |   - (Other: generalized vasoconstriction, ↑ACTH release)                                                                                    |
+|        |   - **↑ECF volume** and ICF volume                                                                                                          |
++--------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| Thirst | - Stimuli: as for ADH (except for stress response and drugs)                                                                                |
+|        |   - ↑Osmolality                                                                                                                             |
+|        |   - ↓Blood volume                                                                                                                           |
+|        |   - ↓mAP                                                                                                                                    |
+|        |   - Angiotensin 2 at SFO and OVLT                                                                                                           |
+|        | - Effect:                                                                                                                                   |
+|        |   - ↑free water intake                                                                                                                      |
+|        |   - **↑ECF volume** and ICF volume                                                                                                          |
++--------+---------------------------------------------------------------------------------------------------------------------------------------------+

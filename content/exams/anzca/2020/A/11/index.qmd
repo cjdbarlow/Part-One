@@ -1,0 +1,92 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2020A Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+An infusion of 50mls of 50% dextrose is given to a healthy 70kg adult. [**Describe**]{.task-verb} the possible metabolic pathways for the dextrose.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} utilisation and storage pathways after the stated glucose dose, linking cellular uptake and hormonal regulation to each destination. Use flow diagrams to show major intermediates, energy release, glycogen storage and fat synthesis.
+
+::: {.structure-headings}
+### Dose, Cellular Uptake and Hormonal Regulation
+
+### Glycolysis and Anaerobic Utilisation
+
+### Krebs Cycle and Oxidative Phosphorylation
+
+### Glycogen Storage
+
+### Fat Synthesis and Other Pathways
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+In order to pass, an answer had to address the domains of:
+
+  - Glucose utilisation pathways
+  - Glucose storage pathways, namely glycogen and fat stores
+  - Hormonal regulation of the pathways, in particular the effects of insulin on target tissues.
+
+While it was not necessary to provide detailed reactions of the metabolic pathways, credit was awarded for naming of major intermediaries, enzymes, receptors, relative amounts of energy released by different pathways and other relevant information. Many good answers used flow diagrams effectively to demonstrate the relevant pathways.
+
+Common problems and errors included:
+
+  - Entirely omitting one of the domains
+  - Limiting discussion of storage pathways to either glycogen or fat
+  - Incorrect utilisation of the terms “glycogenesis” and “glycogenolysis”
+  - Nomenclature of GLUT transporters, their locations and insulin responsiveness
+  - Calculation of the dose (ranging from 2.5g to 25 000g)
+  - Identifying dextrose as a carbohydrate polymer or molecule that needs to be broken down or converted to glucose
+  - Conversion of glucose to amino acids and/or proteins
+  - Discussion of an osmotic effect and ADH response
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2020/A/11/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Carbohydrate metabolism](/content/metabolic/carbohydrate.qmd)
+- [Glucose regulation](/content/endo/glucose.qmd)

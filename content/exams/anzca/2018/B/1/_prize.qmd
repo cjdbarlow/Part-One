@@ -1,0 +1,71 @@
+#### List:
+
+- Device
+- Functioning
+- Considerations
+
+#### Device:
+
++------------------------+------------------------------------------------------------------+
+| Components             | - Cuff with an inflatable bladder                                |
+|                        | - Port and cable for air insufflation and pressure transduction  |
+|                        | - Strain gauge and pressure transducer in the module             |
+|                        | - Processor and display                                          |
++------------------------+------------------------------------------------------------------+
+| Application and sizing | - Cuff width: should cover 2/3 of arm length                     |
+|                        | - Bladder length: should encircle 80% of the arm’s circumference |
+|                        | - Should be at level of right atrium                             |
++------------------------+------------------------------------------------------------------+
+
+#### How it works:
+
++--------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Mechanism    | - Cuff is inflated above estimated SBP then released in small decrements                                                                                                    |
+|              | - Arterial pressure is transmitted to the module via the cuff (tonometry)                                                                                                   |
+|              | - Pulsatile blood flow causes oscillations in cuff pressure (oscillometry)                                                                                                  |
++--------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Measurements | - Amplitude of oscillations                                                                                                                                                 |
+|              | - ∆Amplitude / ∆Pressure                                                                                                                                                    |
+|              | - ***Not*** ∆Amplitude / Time                                                                                                                                               |
++--------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Calculations | - SBP: max rate of ↑amplitude                                                                                                                                               |
+|              | - mAP: maximum amplitude (most accurate)                                                                                                                                    |
+|              | - Diastolic pressure: several methods (least accurate)                                                                                                                      |
+|              |   - Max rate of ↓amplitude                                                                                                                                                  |
+|              |   - Calculated: DBP = 1.5 x mAP - 0.5 x SBP                                                                                                                                 |
+|              |   - Fixed ratio: 85% of max                                                                                                                                                 |
++--------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Graph        | ![](/content/exams/anzca/2018/B/1/prize-image001.jpg){fig-alt="Cuff pressure and oscillatory amplitude during deflation with systolic, mean and diastolic readings marked"} |
++--------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Considerations:
+
++------------------+------------------------------------------------------------------------------------------------------+
+| Sources of error | **Intrinsic:**                                                                                       |
+|                  |                                                                                                      |
+|                  | - Diastolic pressure less accurate                                                                   |
+|                  | - Inaccurate in arrhythmia (irregular amplitude of oscillations)                                     |
+|                  | - Inaccurate at extremes of BP (false falsely low if high, falsely high if low)                      |
+|                  | - Improper calibration                                                                               |
+|                  |                                                                                                      |
+|                  | **Sizing:**                                                                                          |
+|                  |                                                                                                      |
+|                  | - Poor fit                                                                                           |
+|                  | - Too short or narrow → falsely high                                                                 |
+|                  | - Too long or wide → falsely low                                                                     |
+|                  |                                                                                                      |
+|                  | **Cuff:**                                                                                            |
+|                  |                                                                                                      |
+|                  | - Movement artifact e.g. shivering                                                                   |
+|                  | - Cuff not at the level of RA (e.g. upper arm in lateral decubitus position → ↓hydrostatic pressure) |
+|                  | - Cuff inflation pain (↑SNS output → ↑ BP)                                                           |
++------------------+------------------------------------------------------------------------------------------------------+
+| Pros             | - Non-invasive                                                                                       |
+|                  | - Cheap                                                                                              |
+|                  | - Easy to use                                                                                        |
+|                  | - Can use for venepuncture                                                                           |
++------------------+------------------------------------------------------------------------------------------------------+
+| Cons             | - Intermittent; may miss sudden change in BP                                                         |
+|                  | - Many sources of error                                                                              |
+|                  | - Frequent or prolonged use can cause neuropathy                                                     |
++------------------+------------------------------------------------------------------------------------------------------+

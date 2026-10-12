@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015B Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the pharmacology of ketamine in acute pain management. [**Include**]{.task-verb} in your answer the advantages and disadvantages of different routes of administration.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} pharmacology in relation to analgesia and [**include**]{.task-verb} the practical trade-offs of each route. Connect formulation, isomers, first pass metabolism and active metabolites to acute pain use, then explain analgesic mechanisms and adverse effects.
+
+::: {.structure-headings}
+### Formulation and Isomers
+
+### Routes, Bioavailability and Practical Use
+
+### Distribution, Metabolism and Elimination
+
+### Analgesic Mechanisms and Dose
+
+### Adverse Effects and Clinical Trade-Offs
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**61.5 %** of candidates achieved a pass in this question
+
+This question asked candidates to discuss the pharmacology of ketamine in acute pain management. It's a good idea to circle or underline the concepts 'ketamine' and 'acute pain management' on the paper, and to ask yourself as you go along if every point you write is discussing the use of ketamine in acute pain management. I would estimate about half of the total words written overall discussed the use of ketamine in anaesthesia which gained no marks. The exam is a stressful environment and you should work out strategies beforehand that will ensure you answer the question.
+
+Many candidates appropriately used the familiar trope of pharmaceutics, pharmacokinetics etc to address the first part of the question. When discussing pharmaceutics you will do better making comments on potentially neurotoxic preservatives and differing analgesic activities of the isomers in a racemic mixture, than you will making comments on the solution being clear and colourless, which again is not relevant to its use in acute pain management. Basic memorised pharmacokinetic data is well worth writing, a better answer discusses the relevance of first pass metabolism and an active metabolite to oral administration. No marks are gained for generic comments such as defining the IV route as having 100% bioavailability. Analgesic doses needed to be considered when discussing pharmacodynamics. There were marks allocated for a description of ketamine's analgesic mechanism of action.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2015/B/1/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Ketamine](/content/pharmacopoeia/neuro/ketamine.qmd)

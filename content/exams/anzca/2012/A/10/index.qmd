@@ -1,0 +1,85 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012A Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the principles of a pneumotachograph. [**What factors**]{.task-verb} affect the accuracy of this device?
+:::
+
+Also asked in: [2002A Question 7](/content/exams/anzca/2002/A/7/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} how a pressure difference across a fixed resistance measures flow and allows volume to be derived. Explain [**what factors**]{.task-verb} affect accuracy through laminar flow assumptions, gas properties, temperature, condensation and flow range.
+
+::: {.structure-headings}
+### Measurement Principle and Equations
+
+### Types and Differential Pressure Measurement
+
+### Laminar Flow Assumptions
+
+### Gas Composition and Temperature
+
+### Flow Extremes, Condensation and Accuracy
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**30.4%** of candidates passed this question.
+
+A well organised answer allowed for the optimal awarding of marks. An example of this may be
+
+- An introduction might include uses for a pneumotachograph, definition of flow and ability to derive volume from such.
+- The underlying principle of Poiseuille’s Law of laminar flow and the assumptions or constants which then allow the proportional relationship of flow and pressure. This approach also addressed many of the factors affecting accuracy of the device.
+- Descriptions of the different types of pneumotachograph, for defining laminar flow, determinants of turbulent flow and for detail regarding the differential pressure transducer.
+- Additional marks were awarded for understanding that temperature not only affects condensation but also physical properties of gases and for a statement of the normal accuracy range for a pneumotachograph.
+
+Common mistakes included repetition, vague statements, incorrect formulae and imprecise wording especially with respect to which values were measured and which derived by calculation. Whilst most clinical measurement devices do require calibration this question sought evidence of deeper understanding with respect to specific gases or flow ranges. Detail of flow-volume loops and patient effort or technique in performing lung function studies attracted no marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2002/A/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Spirometry](/content/resp/spirometry.qmd)

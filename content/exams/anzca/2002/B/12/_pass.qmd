@@ -1,0 +1,39 @@
+Whole blood contains included RBC, WBC, Platelets and Plasma with associated plasma proteins, electrolytes and clotting factors.
+
+Whole blood is usually stored at 4deg C in order to 
+
+- Decrease metabolic activity of cells
+- Decrease/slow bacterial colonisation and growth 
+- Prevent freezing and cell lysis
+
+Maximum storage is approx. 35 days with around 70% RBC survival 
+
+Changes that occur with storage:
+
+**RBC**:
+
+- Ongoing anaerobic metabolism → ↑lactate, ↓ pH, ↓glucose → ↓2,3 DPG
+- Progressive cell death and lysis increasing proportionate with time → release of HB products Heme, globin, ↑K+
+
+**WBC**
+
+- Relatively inactive, loses bactericidal and phagocytic activity  
+- Remains antigenic
+
+**Platelets**
+
+- become non-functional within 48 hours @ 4degC; need to be stored at body temperature
+
+**Plasma Proteins**
+
+- Progressive clotting factor decline, Factor V 50% at 3/52, Factor VIII 30% at 3/52 → clotting deficiency
+- Albumin, globes, fibrinogen stable 
+
+**Biochemical Changes**
+
+- ↑K due to failure of Na/K/ATPase and cell lysis
+- ↓pH due to ↑Lactate from aerobic metabolism 
+- ↓O2 and ↑ CO2 
+- ↓glucose and ATP →↓ 2,3 DPG (completely by \~28 days) →↓2,3-DPG
+- production → left-shift OHDC
+- If stored with citrate as preservative →↓ Ca2+

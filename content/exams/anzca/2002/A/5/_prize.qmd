@@ -1,0 +1,60 @@
+#### List:
+
+- Intro: RMP
+- Generation and maintenance
+- Equations
+- Normal ion concentrations and Nernst potentials
+
+#### Intro: resting membrane potential
+
++--------------+------------------------------------------------------------------------------+
+| Definition   | - The potential difference between ICF and ECF when there is no net ion flux |
++--------------+------------------------------------------------------------------------------+
+| By cell type | - Muscle: -90mV                                                              |
+|              | - Neuron: -70mV                                                              |
+|              | - Cardiac pacemaker cell: -60mV (but not static)                             |
+|              | - Smooth muscle: wandering -40 to -60mV                                      |
++--------------+------------------------------------------------------------------------------+
+
+#### Generation and maintenance of RMP
+
++---------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| Effective barrier               | - Lipid bilayer with polar phospholipid heads, non-polar fatty acid tails                                                                     |
+|                                 |   - Freely permeable to water, gases but not ions                                                                                             |
+|                                 | - Ion channels                                                                                                                                |
+|                                 |   - Activity tightly regulated by ligands or membrane potential difference                                                                    |
+|                                 |   - Ion flux upon opening is determined by electrochemical gradient                                                                           |
++---------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| Differential ion concentrations | - Na^+^K^+^ATPase (major)                                                                                                                     |
+|                                 |   - Electrogenic                                                                                                                              |
+|                                 |   - Energy requiring                                                                                                                          |
+|                                 |   - Continuously active                                                                                                                       |
+|                                 | - Gibbs-Donnan effect (minor)                                                                                                                 |
+|                                 |   - Anionic proteins predominate                                                                                                              |
+|                                 |   - Attracts permeable cations i.e. K^+^                                                                                                      |
+|                                 |                                                                                                                                               |
+|                                 | ![](/content/exams/anzca/2002/A/5/prize-image001.jpg){fig-alt="Sodium–potassium ATPase exchanging three sodium ions for two potassium ions"}  |
++---------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| Differential permeability       | - K^+^ permeable at rest (hence most RMPs closest to K^+^’s Nernst potential)                                                                 |
+|                                 | - Na^+^ impermeable at rest                                                                                                                   |
++---------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Equations:
+
++----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Nernst               | E = RT/zF x log~e~ ( \[ion\]~o~/\[ion\]~i~ )                                                                                                           |
+|                      |                                                                                                                                                        |
+|                      | - Calculates PD resulting from complete permeability for a given ion (see below)                                                                       |
++----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Goldman-Hodgkin-Katz | ![](/content/exams/anzca/2002/A/5/prize-image002.jpg){fig-alt="Goldman–Hodgkin–Katz equation with sodium, potassium and chloride permeability terms"}  |
+|                      |                                                                                                                                                        |
+|                      | - Calculates PD resulting from existing permeabilities ion concentrations                                                                              |
++----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Normal values:
+
+          **ICF concentration**   **ECF concentration**   **Nernst potential**
+  ------- ----------------------- ----------------------- ----------------------
+  Na^+^   10mM                    140mM                   +60mV
+  K^+^    150mM                   4mM                     -90mV
+  Cl^-^   15mM                    110mM                   -65mV

@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013B Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} how non steroidal anti-inflammatory drugs exert their clinical effects. [**Outline**]{.task-verb} the advantages and disadvantages in using COX-2 selective agents.
+:::
+
+Also asked in: [2010A Question 5](/content/exams/anzca/2010/A/5/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the link between enzyme inhibition and each clinical effect, then [**outline**]{.task-verb} the advantages and disadvantages of selective COX-2 inhibition.
+
+::: {.structure-headings}
+### Cyclo-Oxygenase Inhibition
+
+### Analgesic, Anti-Inflammatory and Antipyretic Effects
+
+### Advantages of COX-2 Selectivity
+
+### Disadvantages of COX-2 Selectivity
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**31.8%** of candidates achieved a pass in this question
+
+It was expected that candidates would explain how the NSAIDS block cyclo-oxygenase enzymes, that there were two iso-enzymes and their bodily distribution and function. The mechanisms of how they produce their wanted effects were expected i.e. in reducing pain, inflammation and pyrexia.
+
+Most candidates indicated the advantages of the COX-2 agents i.e. minimal gastric erosions, less bleeding and less alteration of renal blood flow auto regulation. Some did not realise that bronchoconstriction in asthmatics is also minimalised. Most candidates had mentioned the major disadvantage. This is increasing the balance of prostaglandins towards thrombosis in at risk patients.
+
+Those candidates that did not score well did not elaborate sufficiently or did not answer part of the question.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2010/A/5/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [COX inhibitors](/content/pharmacopoeia/analgesics/cox_inhibitors.qmd)
+- [Prostaglandins](/content/endo/prostaglandins.qmd)

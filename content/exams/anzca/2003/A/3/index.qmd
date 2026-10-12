@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003A Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} how lignocaine prevents the conduction of a nerve action potential.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} **Delivery to the Site of Action**, **Sodium Channel Binding and Function**, and **Failure of Action Potential Propagation**. Connect diffusion and ionisation to channel interaction and differential nerve fibre block.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The pass rate was **37%**. The content areas where marks were available could be split as follows.
+
+a) How lignocaine reached the site of action which might include differences between routes of delivery, nerve sites (e.g. peripheral vs. intrathecal), pH/pKa/ionisation relationships and principles of diffusion.
+b) Details of voltage gated sodium channel binding site and function, and lignocaine’s interaction with it.
+c) Channels/nodes blocked to prevent action potential propagation. Differential nerve fibre block and why it occurs
+
+Common problem areas were
+
+i) An almost universal belief that only ionised axoplasmic lignocaine gains access to the channel (refer Miller 5^th^ Ed: Ch 13, Cousins & Bridenbaugh 3^rd^ Ed: Ch 2, Rang, Dale & Ritter 4^th^ Ed: Ch 40).
+ii) The relationship between pH/pKa/drug ionisation with some candidates producing correct diagrams but incorrectly interpreting them, suggesting rote learning but a lack of understanding.
+iii) Lignocaine binding to the various channel states.
+iv) Unlabelled/inaccurate time axes on action potential diagrams.
+v) A small, but significant, group stated that lignocaine primarily acted at ligand gated sodium channels in synapses.
+
+Candidates who included correct material on anti-arrhythmic and toxic effects of lignocaine gained no extra marks because the material was not relevant to the question asked.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Local Anaesthetics](/content/pharmacopoeia/neuro/local_anaesthetic_principles.qmd)
+- [Excitable Cells](/content/cellular/excitable_cells.qmd)

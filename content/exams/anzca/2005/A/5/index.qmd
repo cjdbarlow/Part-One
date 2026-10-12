@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005A Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the antiplatelet agents and [**outline**]{.task-verb} their mechanisms of action, adverse effects, mode of elimination and duration of action.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} the antiplatelet groups in a table and [**outline**]{.task-verb} each requested pharmacological property.
+
+::: {.structure-table}
+| Agent or Group | Mechanism | Adverse Effects | Elimination | Duration |
+|---|---|---|---|---|
+| Cyclooxygenase Inhibitors | | | | |
+| ADP Receptor Antagonists | | | | |
+| Glycoprotein IIb/IIIa Inhibitors | | | | |
+| Dipyridamole | | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**68 %** of candidates passed this question.
+
+It was expected candidates would discuss the main groups of antiplatelet agents with attention to each of the specific areas asked in the question: mechanisms of action, adverse effects, mode of elimination and duration of action. The four main groups of agents include 1) Cyclooxygenase inhibitors e.g. Aspirin, 2) the ADP receptor antagonists eg. Clopidogrel, 3) IIb IIIa blockers such as Tirofiban and Abciximab and 4) Dipyridamole.
+
+A brief description of the mechanism of action for each agent was expected with credit given for more detailed answers. The fact that several of these agents are irreversible and that the effect lasts for the life of the platelet were important points. While bleeding is an acknowledged risk with all agents it was expected candidates would identify the specific risks with individual agents particularly those associated with higher risks of bleeding (e.g. Abciximab), aspirin adverse effects, bone marrow suppression (ADP receptor blockers), allergy (with the monoclonal antibody of Abciximab) and vasodilation/hypotension with Dipyridamole. It was expected candidates should have a solid understanding of agents seen commonly in clinical practice such as Aspirin and Clopidogrel. Credit was given for those candidates who discussed other agents with antiplatelet effects such as the reversible cyclo-oxygenase inhibitors (NSAID’S), dextrans, heparin or prostacyclin.
+
+Well-organized answers such as those with an ordered list with subheadings or a table were rewarded. Many candidates failed to list all agents. It was expected that the specific areas asked in the question would be outlined for each agent and failing to discuss these was a common omission (particularly elimination and adverse effects).
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Antiplatelets](/content/pharmacopoeia/haeme/antiplatelets.qmd)

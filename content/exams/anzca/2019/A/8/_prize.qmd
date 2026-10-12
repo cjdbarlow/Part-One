@@ -1,0 +1,77 @@
+#### List:
+
+- Ropivacaine’s action
+- Calculations
+- CNS
+- CVS
+
+#### Ropivacaine’s action:
+
++------------------+------------------------------------------------------------------------------------------------------------------------------------+
+| Class            | - Amide local anaesthetic                                                                                                          |
++------------------+------------------------------------------------------------------------------------------------------------------------------------+
+| Target           | - Voltage-dependent Na^+^ channel (VDNaC)                                                                                          |
+|                  | - (less active at VDKC, VDCaC)                                                                                                     |
++------------------+------------------------------------------------------------------------------------------------------------------------------------+
+| Entry            | - From ICF: unionised form diffuses into axoplasm, ionised form enters active receptor                                             |
+|                  | - From ECF: ionised form enters active receptor (less common)                                                                      |
++------------------+------------------------------------------------------------------------------------------------------------------------------------+
+| Binding          | - Rate ∝ time spent in active state ∝ rate of cycling ∝ nerve activity                                                             |
+|                  | - Affinity ∝ Inactive \> resting \> activated                                                                                      |
++------------------+------------------------------------------------------------------------------------------------------------------------------------+
+| Effect           | - ↓Rate of cycling → no action potential propagation                                                                               |
+|                  | - Initial: incomplete blockade, tonic                                                                                              |
+|                  | - Repeated stimulation: complete blockade, phasic                                                                                  |
+|                  | - No change to resting potential                                                                                                   |
+|                  |                                                                                                                                    |
+|                  | ![](/content/exams/anzca/2019/A/8/prize-image001.jpg){fig-alt="Transmembrane action potential with and without local anaesthetic"} |
++------------------+------------------------------------------------------------------------------------------------------------------------------------+
+| Toxic thresholds | - Subcut dose: 3mg/kg                                                                                                              |
+|                  | - Plasma concentration: 4mcg/mL                                                                                                    |
+|                  | - CC:CNS ratio 5:1 (c.f. lignocaine 7:1); hence ‘warning shot’ is late                                                             |
++------------------+------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Calculations:
+
++--------------------------------+-----------------------------------------------------------------------------+
+| Amount given                   | - 10mg/mL x 20mL = 200mg                                                    |
++--------------------------------+-----------------------------------------------------------------------------+
+| Cardiac output                 | - 70mL/kg/min x 60kg = 4200mL                                               |
+|                                | - In 15 seconds: 1050mL                                                     |
++--------------------------------+-----------------------------------------------------------------------------+
+| Estimated plasma concentration | - 200mg / 4200mL ≈ 50mcg/mL                                                 |
+|                                | - Way above toxic threshold of 4mcg/mL                                      |
++--------------------------------+-----------------------------------------------------------------------------+
+| Consequences                   | - Coma and cardiac arrest almost certain                                    |
+|                                | - Rx intralipid                                                             |
+|                                | - Likely prolonged CPR +/- CPB; long duration of action, t~1/2~~β~ 120 mins |
++--------------------------------+-----------------------------------------------------------------------------+
+
+#### CNS toxicity:
+
++-----------+---------------------------------------------------------------------------------------------+
+| Mechanism | - Inhibition of neuronal VDNaC                                                              |
+|           | - Highly lipid soluble (300x procaine), easy passage across BBB                             |
++-----------+---------------------------------------------------------------------------------------------+
+| Effects   | - Initial excitatory effects                                                                |
+|           |   - Inhibition of inhibitory interneurons                                                   |
+|           |   - Peri-oral tingling, tinnitus, vertigo, slurred speech, inattention, twitching, seizures |
+|           | - Then inhibitory effects                                                                   |
+|           |   - Inhibition of excitatory interneurons and others                                        |
+|           |   - Coma, apnoea                                                                            |
++-----------+---------------------------------------------------------------------------------------------+
+
+#### CVS toxicity:
+
++-----------+-----------------------------------------------------------------------------------+
+| Mechanism | - Inhibition of cardiac VDNaC (very high affinity)                                |
+|           | - Inhibition of VDKC and VDCC (lower affinity)                                    |
+|           | - ?↓cAMP                                                                          |
++-----------+-----------------------------------------------------------------------------------+
+| Effects   | - First phase: ↑HR, ↑mAP                                                          |
+|           | - Second phase: myocardial depression, ↓mAP                                       |
+|           | - Terminal phase: peripheral vasodilatation, ↓↓mAP, arrhythmia, arrest            |
++-----------+-----------------------------------------------------------------------------------+
+| ECG       | - “As if being pulled apart” ↑QT~C~, ↑QRS duration                                |
+|           | - Arrhythmias: sinus bradycardia, AV block, ventricular tachyarrhythmia, asystole |
++-----------+-----------------------------------------------------------------------------------+

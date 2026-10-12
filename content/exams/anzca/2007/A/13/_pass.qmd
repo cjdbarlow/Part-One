@@ -1,0 +1,47 @@
+The venous circulation returns a blood to the right atrium via the SVC and IVC
+
+The venous system is a capacitance low pressure system and by continuance principle returns the same volume as cardiac output. 
+
+Venous return = (Mean Systolic Filling Pressure - Right Atrial Pressure) / Resistance to Venous Return 
+
+Venous return peripherally is driven my muscle pumps action with valves to ensure forward flow 
+
+**Determinants of VR and Effects of GA **
+
+**Factors that ↑MSFP**
+
+- ↑blood volume
+- ↑venous Tone
+- Posture/Gravity i.e. legs up / head down position 
+
+**Effect of Anaesthesia **
+
+- ↓MSFP 
+  - blood loss from surgery/dehydration from fasting 
+  - Vasodilation due to anaesthetic agents 
+- ↑MSFP 
+  - Operative position (Trendelenburg/lithotomy)
+
+**Factors that ↑RAP **
+
+- ↑Intrathoracic pressure 
+- ↑Alveolar Pressure → ↑PAP  
+
+**Effect of Anaesthesia **
+
+- PPV/PEEP → ↑Intrathoracic pressure → ↑RAP
+- ↓ contractility 
+
+**Factors that ↑RVR **
+
+- Venous diameter 
+
+**Effect of Anaesthesia **
+
+- Pneumoperitoneum 
+- Venodilation 
+
+**Other Factors:**
+
+- ↓venous return due to lack of muscle pump action in anaesthesia 
+- Lack of negative intrathoracic pressure System

@@ -1,0 +1,43 @@
+Propofol (2,6 diisopropylphenol) is an IV anaesthetic agent used for sedation, Anaesthetic induction and Maintenance. 
+
+While its primary intended action is on the CNS, propofol has a variety of pharmacodynamic effects mediated through:
+
+- ↓L-Ca^2+^ activity in vascular smooth muscle
+- ↑NO release from endothelium
+- ↑GABA/glycine → ↓SNS output from medulla
+
+CVS:
+
+- ↓SVR
+- ↓Inotropy and Chronotropy
+- Can cause Bradycardia 
+- Reduced Baroreceptor reflex 
+- ↓Cerebral Metabolic O2 Requirements, ↓Cerebral blood flow 
+
+→ overall reduction in CO and MAP
+
+In anaesthesia the CVS effects are a major consideration of induction dose and rate of administration. To induce the intended anaesthetic affects without cardiovascular collapse or compromise perfusion to vital organs. Propofol can also be used to rapidly control intra operative hypertension. 
+
+Resp:
+
+↓TV ↓RR → ↓MV 
+
+↓/ blunt Respiratory response to ↓PaO2 and ↑PaCO2 
+
+↓Hypoxic pulmonary vasoconstriction response
+
+- Loss of airway reflexes, blunt pharyngeal reflexes 
+
+→ Lack of airway protection ↑risk of aspiration
+
+→ ↑Risk of apnoea not responsive to hypoxia and hypercapnia → require ventilators support 
+
+→ Support instrumentation of airway 
+
+GIT / Hepatic: Propofol ↓hepatic blood flow → limits propofol metabolism ↑duration of action 
+
+Other:
+
+Antiemetic ? through 5HT antagonism 
+
+Metabolic Complications due to lipid load

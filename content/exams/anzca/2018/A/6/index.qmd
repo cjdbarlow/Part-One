@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018A Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the washout of sevoflurane from a patient following two hours of general anaesthesia. You may wish to use a graph to illustrate the description.
+:::
+
+Also asked in: [2014A Question 9](/content/exams/anzca/2014/A/9/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} washout after two hours using a labelled washout curve. Connect each phase of the curve to the movement of sevoflurane between compartments and the factors governing that movement.
+
+::: {.structure-headings}
+### Compartment Uptake After Two Hours
+
+### Washout Curve, Phases and Decrement Times
+
+### Tissues to Blood, Alveoli and Circuit
+
+### Factors Affecting Elimination
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**54%** of candidates achieved a pass in this question
+
+To achieve a pass in this question the following were required : A clear explanation of the elimination kinetics of Sevoﬂurane with due consideration to a time course appropriate to the termination of anaesthesia after two hours. A washout graph including appropriate axis labelling, a multi exponential decay curve, time course and half times consistent with volatile washout. It was very diﬃcult to pass the question without a washout graph. Wash-in graphs did not score points. A description of the movement of Sevoﬂurane out of the alveolus, from plasma to alveolus, from the various compartments to plasma and their respective time courses and a description of factors which underpin those kinetics; including depth and duration of anaesthesia, alveolar ventilation and fresh gas ﬂows, compartmental blood ﬂows and solubilities.
+
+Common errors included: Confused graphs with no or inappropriate time courses indicated, nonsensical axis labelling or graphing of wash-in and wash-out on the same graph. Detailed descriptions of Fick’s law which wasted time and did not score points.
+
+An overemphasis on the role of cardiac output in washout and incorrect assertions that increased cardiac output speeds washout. Conﬂation of washout and awakening from anaesthetic as the same thing. The incorrect assertion that following two hours the fat is completely saturated with Sevoﬂurane. The confusion of partial pressures, concentrations and amounts.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2014/A/9/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2014/A/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational anaesthetic pharmacokinetics](/content/pharmacopoeia/neuro/inhalational_anaesthetic_agents.qmd#pk)
+- [Inhalational anaesthetic agents](/content/pharmacopoeia/neuro/inhalational_anaesthetics.qmd)

@@ -1,0 +1,86 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005A Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Write brief notes**]{.task-verb} on the physiological changes associated with sleep.
+:::
+
+Also asked in: [2008B Question 11](/content/exams/anzca/2008/B/11/index.qmd#examiner-comments), [2014B Question 15](/content/exams/anzca/2014/B/15/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Write brief notes**]{.task-verb} under the following headings, comparing NREM and REM sleep and relating the changes to their physiological mechanisms.
+
+::: {.structure-headings}
+### Definition, Purpose and Sleep Architecture
+
+### Stages and EEG Changes
+
+### Respiratory Changes
+
+### Cardiovascular, Temperature, Muscle and Metabolic Changes
+
+### Neural Control and Effects of Sleep Deprivation
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**47 %** of candidates passed this question.
+
+The question was best answered using a systems approach, following a brief definition of sleep. Marks were allocated for a short description of the effects on the CNS, including the changes observed in the EEG. Most candidates scored well here. A distinction between slow-wave and REM sleep attracted extra marks.
+
+The respiratory system should have included the effects on airway tone (particularly during REM sleep) and changes in arterial blood gases and the carbon dioxide/ventilation response curve. Many candidates omitted these points, but mentioned effects on tidal volume. This area is covered well in Nunn’s Applied Respiratory Physiology.
+
+Cardiovascular system effects include falls in heart rate and blood pressure, with variable effects on cardiac output, and these were generally recognised by candidates. The preponderance of parasympathetic over the sympathetic nervous system was often noted in the answers, and gained bonus marks.
+
+Effects on general skeletal muscle tone scored marks, especially when the differential effect of REM sleep was mentioned. Marks were also allocated for brief mention of metabolic effects, including slight reduction in body temperature. Marks were also gained for mention of hormonal effects, and there was often some confusion about the increased gastrointestinal motility occurring during sleep.
+
+Common errors were a failure to mention significant areas, and incorrect effects of sleep on muscle tone.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2005/A/10/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2005/A/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Sleep](/content/neuro/sleep.qmd)

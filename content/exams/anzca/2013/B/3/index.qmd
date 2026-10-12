@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013B Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the safety features of currently used plenum vaporisers .
+:::
+
+Also asked in: [2014A Question 3](/content/exams/anzca/2014/A/3/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} the safety features under the following headings, linking each feature to the delivery error it prevents.
+
+::: {.structure-headings}
+### Agent-Specific Filling and Identification
+
+### Temperature Compensation
+
+### Mounting and Interlock Systems
+
+### Pressure, Tipping and Leak Safeguards
+
+### Desflurane Vaporisers
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**26.1%** of candidates achieved a pass in this question
+
+The answer to this question primarily required an understanding of the physical properties of the different volatile agents and thus the safety requirements of delivery system for these anaesthetic agents. A definition of a plenum vaporiser would have assisted most candidates. Many candidates were confused about the position of a plenum vaporiser. They are placed outside the breathing circuit. Marks were awarded for highlighting that vaporisers are agent specific and that as a result filling systems have been developed to eliminate filling with incorrect agents; a discussion of temperature compensation to ensure reliable volatile delivery and outlining mounting systems. Bonus marks were awarded for information on back pressure relief valves placed downstream of vaporisers, details of desflurane vaporizer safety, MRI safety, tipping and vaporiser leaks. A significant number of candidates did not answer the question.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/B/3/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Vaporisers](/content/equipment/vaporisers.qmd)

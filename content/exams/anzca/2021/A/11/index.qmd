@@ -1,0 +1,90 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2021A Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} how a pulse oximeter works. Do NOT discuss the potential sources of error.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} how the components convert differential light absorption into an oxygen saturation estimate. Link Beer–Lambert principles to the pulsatile signal, ratio calculation and empirical calibration; keep the answer focused on functioning.
+
+::: {.structure-headings}
+### Probe, Light Sources and Detector
+
+### Beer–Lambert Law and Absorption Spectra
+
+### Isolation of the Pulsatile Component
+
+### Ratio R and Empirical Calibration
+
+### Signal Processing and Display
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**29.9%** of candidates achieved a pass in this question
+
+The major domains assessed in this question were:
+
+- system components
+- Beer-Lambert law
+- differential absorption
+- isolation of the pulsatile component
+- converting ratio R to SpO2.
+
+Common problems with the answers included:
+
+- incorrect use of the terms “SaO~2~”, “SpO~2~”, and “PaO~2~”
+- the misconception that only infrared light is used in pulse oximetry
+- limited or no application of the Beer-Lambert law to pulse oximetry
+- incorrect or contradictory statements about the absorption spectra for oxyhaemoglobin and deoxyhaemoglobin
+- absent or insufficient explanation of the pulsatile or “alternating current” (AC) compartment.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2021/A/11/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Pulse oximetry](/content/equipment/pulse_oximetry.qmd)

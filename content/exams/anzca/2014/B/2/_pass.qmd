@@ -1,0 +1,34 @@
+Desflurane is a volatile inhaled anaesthetic agent with:
+
+- MAC 6
+- Low blood:gas partition coefficient 0.42
+- Low solubility oil:gas partition coefficient 29
+
+These properties give Desflurane rapid washout even after long anaesthetic time due to low blood:gas and oil:gas partition coefficients.
+
+Desflurane uptake/distribution can be modelled by the main distribution compartments, as solubility of Desflurane is so low its offset is almost duration independent. 
+
+Washout of desflurane is dependent on establishing and maintaining a decreasing concentration gradient from compartment → blood → alveolus → circuit.  
+
+Washout is a multi-exponential process graphed by FA/FA0 curve against time
+
+![](/content/exams/anzca/2014/B/2/standard-image8.png){fig-alt="Desflurane washout curve showing distribution and terminal elimination phases"}
+
+Phases:
+
+1. Rapid washout of agent from Circuit and FRC
+
+    - Circuit wash out dependant on FGF and circuit volume, t=CV/FGF
+    - FRC washout dependant on MV and FRC volume t=FRC/MV
+
+2. Washout from blood to alveolus:
+
+    ↑CO → lower ΔP across alveolar membrane → slower washout
+
+    ↓Blood:gas partition coefficient →↑ agent ΔP across alveolar membrane → Rapid washout
+
+3. Washout form Compartments → Blood
+
+    - Duration of Anaesthesia: ↑ Duration →↑uptake into body compartments → slower washout
+    - Final end-tidal partial pressure of agent: ↑final concentration → increased tissue concentration → slower washout 
+    - Very low O:G partition coefficient: Minimally soluble agents like desflurane so washout from compartments is relatively rapid

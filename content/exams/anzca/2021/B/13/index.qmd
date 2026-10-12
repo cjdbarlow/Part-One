@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2021B Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+For each of the following, [**describe**]{.task-verb} the features that ensure the safe delivery of oxygen during anaesthesia.
+
+a) cylinders
+b) pipeline supply
+c) anaesthesia machines
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} safeguards under each requested supply stage, stating the hazard each feature prevents. Trace oxygen from cylinder or pipeline to the anaesthesia machine, covering correct connections, pressure control, alternative supplies and alarms.
+
+::: {.structure-headings}
+### Cylinder Identification and Connection Safeguards
+
+### Pipeline Identification and Connection Safeguards
+
+### Pressure Regulation and Relief
+
+### Anaesthesia Machine Gas Delivery Safeguards
+
+### Alternative Oxygen Supplies and Alarms
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+No examiner report was supplied for this sitting.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2021/B/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Gas supply](/content/equipment/gas_supply.qmd)
+- [Oxygen storage](/content/resp/oxygen_storage.qmd)

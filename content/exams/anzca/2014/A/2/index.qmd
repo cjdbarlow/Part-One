@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014A Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Draw and explain**]{.task-verb} the characteristics of a log dose-response curve that describes the major clinical effect of rocuronium. [**Describe**]{.task-verb} how factors encountered in clinical practice may alter this curve.
+:::
+
+Also asked in: [2013B Question 13](/content/exams/anzca/2013/B/13/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Draw and explain**]{.task-verb} the curve with labelled axes and relevant intercepts. [**Describe**]{.task-verb} each clinical factor by connecting its mechanism to the direction of the curve change.
+
+::: {.structure-headings}
+### Axes and Definition of the Measured Response
+
+### Three Phases of the Curve
+
+### ED95 and Slope
+
+### Clinical Factors Shifting or Altering the Curve
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**72.8 %** of candidates achieved a pass in this question
+
+This is a two-part question. Candidates should therefore allocate adequate time for each part of the question. In the first part, most candidates were able to draw a sigmoidal “graded dose-response curve” (as opposed to a quantal dose-response curve) for rocuronium. However, many diagrams were incorrectly labelled. For instance, many candidates were unable to specify the response that should be used in the y-axis. It is important to note that the percentage of nicotinic receptors that are blocked by rocuronium cannot be measured using current clinical methods. Other important features that should be included in this curve are that (1) neuromuscular blocking effect does not occur until a significant amount of rocuronium is given because of the presence of spare receptors; (2) the points indicating ED50 and ED95; (3) the middle portion of the curve is straight and (4) there is a plateau at maximum effect. In the second part of the question, many candidates realised that a number of clinical factors (such as concomitant use of volatile agents, mixture of relaxants, hypermagnesemia, diuretics, aminoglycosides) increase the potency of rocuronium and shift the curve to the left. Whereas, use of anticonvulsants and the presence of anticholinerases decrease the potency of the drug and shift the curve to the right. A number of candidates described the pharmacology of rocuronium in detail. This is not required in the question and did not gain marks
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/B/13/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/B/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Dose-response relationships](/content/pharmacology/dose_response.qmd)
+- [Non-depolarising neuromuscular blockers](/content/pharmacopoeia/msk/non_depolarising_nmbs.qmd)
+- [Alterations to drug response](/content/pharmacology/alterations_to_response.qmd)

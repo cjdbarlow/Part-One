@@ -1,0 +1,56 @@
+**Time to loss of consciousness **
+
+The effect site in a pharmacokinetic model is a compartment of negligible volume contained within the central compartment. Equilibration between plasma and effect site is modelled by Ke0 - the rate constant for effect site elimination 
+
+t1/2ke0 describes the half time for equilibration 
+
+Time to loss of consciousness is dependent on achieving desired plasma concentration
+
+- Incorporates both the amount of drug reaching the blood brain barrier
+- The rate the drug will diffuse across the membrane 
+
+Time to loss of consciousness after IV injection of a drug is dependent on the rate of reaching effective effect site concentration (ce). 
+
+This is a combination of pharmacokinetic and pharmacodynamic determinants described by the t1/2ke0
+
+- The effect site in a pharmacokinetic model is a compartment of negligible volume contained within the central compartment. 
+- Equilibration between plasma and effect site is modelled by Ke0 - the rate constant for effect site elimination 
+- t1/2ke0 describes the half time for equilibration 
+- Large ke0 (rapid drug flow) → short t1/2Ke0 → more rapid onset
+
+Drugs that have the following properties larger Ke0 (↓t1/2 Keo):
+
+- Low protein binding 
+- Low unionised portion
+- High lipid solubility 
+- Low MW
+
+**Pharmacokinetic determinants of the Ke0 **
+
+**Rate of Plasma Concentration Rise **
+
+- ↑Rate of Administration → more rapid rise in plasma concentration
+
+**Drug available for diffusion across BBB**
+
+- ↑CO → inc VR →↑Rate of delivery to BBB  
+- More proximal delivery (CVC) →  ↑ Rate of delivery to BBB
+- ↓Ionisation 
+- ↓Protein binding 
+
+**Rate of diffusion across the membrane**\
+\
+Rate of diffusion described by Fick’s law
+
+D=ΔP.A.k/t
+
+ΔP = Concentration gradient. 
+
+- ↑ Concentration in plasma  →↑ more rapid diffusion
+- Concentration able to be delivered however is limited by potential toxic side effects.
+
+A=Diffusion/membrane area - unable to be changed in this situation
+
+k = diffusion constant s/(sqMW), rate of diffusion is proportional to the lipid solubility of the drug and inversely related to the MW. ↓MW + ↑Lipid →↑Rate of diffusion 
+
+t = thickness of membrane, relatively unchanged in most clinical situations

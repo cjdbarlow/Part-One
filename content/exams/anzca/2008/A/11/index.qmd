@@ -1,0 +1,91 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008A Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the physiological consequences of diabetic keto acidosis.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} the syndrome through insulin deficiency, altered metabolism, hyperglycaemia, osmotic diuresis and acidosis. Link these to fluid, electrolyte and organ consequences rather than concentrating on acidosis alone.
+
+::: {.structure-headings}
+### Insulin Deficiency and Counter-Regulation
+
+### Glucose, Fat and Ketone Metabolism
+
+### Osmotic Diuresis and Fluid Deficit
+
+### Electrolyte Disturbances
+
+### Acidosis and Organ Consequences
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**57%** of candidates passed this question.
+
+To achieve a pass, candidates needed an understanding that DKA is a syndrome including metabolic aspects, fluid and electrolyte abnormalities, as well as severe metabolic acidosis. Some mention of insulin lack and fat breakdown as the cause of ketoacid overproduction, of the ensuing hyperglycaemia and osmotic diuresis with attendant water and electrolyte (particularly potassium) derangements, and of the physiologic consequences of severe metabolic acidosis were required.
+
+Extra marks were given for more detailed information about gluconeogenesis(GN) from amino acids and glycerol and related aspects of intermediary metabolism (many answers contained incorrect information here); ketone accumulation as Krebs cycle entry becomes saturated; realizing that hyperglycaemia was due both to increased GN and failure of cellular uptake of glucose; for a summary of the neurohumoral response to hypovolaemia; for information about response to acidosis - hyperventilation due to stimulation of peripheral chemoreceptors, buffering, renal response and shift to the right of the Hb02 dissociation curve; for information relating to osmotic shifts including cellular dehydration and pseudohyponatraemia; and for the presence in advanced cases of a secondary lactic acidosis due to decreased tissue perfusion.
+
+Common errors. A great many answers focused entirely on the response to metabolic acidosis only, omitting any reference to hyperglycaemia and its effects.
+
+There were many who had scant understanding of metabolic processes - for example, ketones are not produced from glucose or from protein; the brain is able to utilize ketones in states of starvation, but more to the point, is not dependent on insulin for glucose uptake, therefore neuroglycopaenia is not a feature of DKA; oxaloacetate, α-ketoglutarate and various other intermediary metabolites are not “ketone bodies”; ketones are not produced as a result of anaerobic metabolism.
+
+Most omitted all reference to the metabolic derangements and few indicated there was a catabolic state with increased Glucagon and other counterregulatory hormones.
+
+A large number of candidates failed to mention insulin lack, and most did not mention gluconeogenesis at all. DKA is not just severe hyperglycaemia as many suggested. Nor does it occur in Type 2 diabetics.
+
+Candidates should not use terms they do not know the meaning of e.g. Osmolar Gap (which does not increase with hyperglycaemia alone). The osmotic diuresis is largely due to glucose not ketones although they may contribute somewhat.
+
+Dehydration does not cause hyponatraemia unless there is concurrent loss of hypernatraemic fluid or replacement of sodium-containing fluid with water. In DKA the commonly-seen abnormality is pseudohyponatraemia.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2008/A/11/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Carbohydrate metabolism](/content/metabolic/carbohydrate.qmd)
+- [Acid–base physiology](/content/renal/acid_base.qmd)

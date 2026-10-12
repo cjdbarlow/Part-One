@@ -1,0 +1,75 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999B Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the mechanisms that maintain cerebral blood flow on moving from a supine to a standing position.
+:::
+
+Also asked in: [2003A Question 12](/content/exams/anzca/2003/A/12/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} the immediate hydrostatic effects of standing, then link systemic compensatory responses and cerebral autoregulation to preservation of cerebral perfusion. Include the time course of these changes.
+
+::: {.structure-headings}
+### Cerebral Perfusion Pressure and Vascular Resistance
+
+### Immediate Hydrostatic and Systemic Effects
+
+### Systemic Compensatory Mechanisms
+
+### Cerebral Autoregulation and Time Course
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**51%** of candidates passed this question. This question explores a topic that is clinically important, the maintenance of cerebral perfusion. The answer should have divided the mechanisms into global and local. Since a significant amount of the answer revolves around pressures, its relationship to flow and resistance should have been highlighted. The global response revolves around restoring MAP via baroreceptors. The venous pump and valves minimising the pooling effect is also relevant. Again this needs to be tied in with the question, i.e. CPP=MAP-CVP (ICP). The local factors have to include the autoregulation of cerebral blood flow, with the myogenic and local metabolic theories quickly outlined. The Munroe-Kellie doctrine along with the relationship of the perfusion pressure to ICP and CVP, also helps to explain the postural effect on venous pressure and intracranial pressure favouring flow. This all leaves us with a final balance of about a 20% decrease in cerebral blood flow.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/B/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Cerebral blood flow](/content/cvs/cerebral_blood_flow.qmd)
+- [Baroreceptors](/content/cvs/baroreceptors.qmd)

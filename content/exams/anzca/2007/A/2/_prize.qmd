@@ -1,0 +1,93 @@
+#### List:
+
+- Intro
+- Epi drug
+- Epidural → subarachnoid
+- Neuraxis → circulation
+- Mother→foetus
+
+#### Intro:
+
++-------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Fick’s law                    | ![](/content/exams/anzca/2007/A/2/prize-image001.jpg){fig-alt="Fick diffusion equation showing concentration gradient and membrane and substance factors"} |
+|                               |                                                                                                                                                            |
+|                               | - Drug passes across each membrane down its concentration gradient                                                                                         |
+|                               | - Modifiable factors increasing transfer rate: ↑C~1~, ↓C~2~, ↑area, ↓thickness                                                                             |
+|                               |   - C~1~,C~2~: concentration of unionised, unbound drug                                                                                                    |
+|                               | - Fixed factors for each drug: lipid solubility, MW                                                                                                        |
++-------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Bupivacaine                   | - Amide local anaesthetic                                                                                                                                  |
+|                               | - Highly lipid soluble (1000x procaine)                                                                                                                    |
+|                               | - Weak base, pKa 8.1, 15% unionised at pH 7.4 (cf. prilocaine 40%)                                                                                         |
+|                               | - High protein binding                                                                                                                                     |
+|                               |   - Plasma (95%) → low free fraction                                                                                                                       |
+|                               |   - Tissue → slow release                                                                                                                                  |
+|                               |   - Na^+^ channel → long dwell time                                                                                                                        |
++-------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Epidural drug fate            | - Diffuse into CSF                                                                                                                                         |
+|                               | - Circumferential and longitudinal spread                                                                                                                  |
+|                               | - Exit via intervertebral foramina                                                                                                                         |
+|                               | - Sequestering in epidural fat (depot)                                                                                                                     |
+|                               | - Absorption                                                                                                                                               |
++-------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Epidural drug: site of action | - Spinal nerve roots (dorsal \> ventral)                                                                                                                   |
+|                               | - Dorsal root ganglia                                                                                                                                      |
+|                               | - Paravertebral SNS chain (?)                                                                                                                              |
+|                               | - Spinal cord via spaces of Virchow-Robin (dorsal \> ventral)                                                                                              |
++-------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Epidural space → subarachnoid space:
+
++-------+--------------------------------------------------------------------+
+|       | - Time to peak: 10-30 mins                                         |
+|       | - Bioavailability: 20%                                             |
++-------+--------------------------------------------------------------------+
+| ↑C~1~ | - ↑Concentration injected                                          |
+|       | - ↑% unionised (but unable to safely add HCO~3~^-^ to bupivacaine) |
+|       | - ↓% unbound                                                       |
++-------+--------------------------------------------------------------------+
+| ↓C~2~ | - ↓CSF volume                                                      |
+|       | - ↑CSF flow rate (e.g. pregnant cf. elderly)                       |
+|       | - ↓% unionised (i.e. CSF pH 7.32 cf. plasma 7.4)                   |
+|       | - ↓% unbound (i.e. CSF protein 0.2g/L cf. plasma 70g/L)            |
++-------+--------------------------------------------------------------------+
+| ↑A    | - ↑Volume injected → ↑drug-membrane contact                        |
++-------+--------------------------------------------------------------------+
+| ↓T    | - Normal virgin meninges (cf. past surgery)                        |
++-------+--------------------------------------------------------------------+
+
+#### Neuraxis → circulation:
+
++---------------------+----------------------------------------------------------------------------+
+| Biphasic absorption | 1.  Rapid: reabsorption from fluid phase                                   |
+|                     | 2.  Slower: reabsorption of lipid-bound drug                               |
++---------------------+----------------------------------------------------------------------------+
+| ↑C~1~               | - ↑Concentration injected                                                  |
+|                     | - ↑% unionised (see above)                                                 |
+|                     | - ↑% unbound (see above)                                                   |
++---------------------+----------------------------------------------------------------------------+
+| ↓C~2~               | - ↑Tissue blood flow rate (↑ in pregnancy/labour, ↓ with added adrenaline) |
+|                     | - ↓% unionised (e.g. acidaemia → ion trapping)                             |
+|                     | - ↓% unbound (note ↓AAG → ↑% unbound)                                      |
++---------------------+----------------------------------------------------------------------------+
+| ↑A                  | - ↑Volume injected → ↑ contact with membranes                              |
++---------------------+----------------------------------------------------------------------------+
+| ↓T                  | - Normal membranes                                                         |
++---------------------+----------------------------------------------------------------------------+
+
+#### Maternal circulation → foetal circulation:
+
++-------+------------------------------------------------------------------------+
+| ↑C~1~ | - ↑Placental blood flow rate (pressure passive 600mL/min)              |
+|       | - ↑Concentration and volume injected                                   |
+|       | - ↑% unionised (e.g. hyperventilation → alkalaemia in labour)          |
+|       | - ↑% unbound (e.g. progesterone surge in labour displaces bupivacaine) |
++-------+------------------------------------------------------------------------+
+| ↓C~2~ | - ↑Umbilical flow rate (very high)                                     |
+|       | - ↓% unionised (foetal acidosis → ion trapping)                        |
+|       | - ↓% unbound (note ↓AAG → ↑% unbound)                                  |
++-------+------------------------------------------------------------------------+
+| ↑A    | - Normal placenta                                                      |
++-------+------------------------------------------------------------------------+
+| ↓T    | - Normal placenta                                                      |
++-------+------------------------------------------------------------------------+

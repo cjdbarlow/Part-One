@@ -1,0 +1,99 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009A Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the subtypes of serotonin (5-hydroxytryptamine) receptors. [**Discuss**]{.task-verb} pharmacological agents that act at these sites.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} receptor families, location and signalling, then [**discuss**]{.task-verb} agonists and antagonists at each relevant subtype. State the direction of drug activity and link it to clinical use.
+
+::: {.structure-headings}
+### Receptor Families, Locations and Signalling
+
+### 5-HT1 Receptors
+
+### 5-HT2 Receptors
+
+### 5-HT3 Receptors
+
+### Other Subtypes and Indirect Agents
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**45%** of candidates passed this question.
+
+Main Points expected for a Pass:
+
+- General description of location of receptors as found in Central nervous system (CNS), Peripheral nervous system (PNS), on vascular smooth muscle and platelets.
+- Statement that 5-HT receptors are G-protein coupled except for the 5HT3 subtype which is a ligand-gated ion channel.
+- An attempt at numbering the quantity of subtypes, some texts differ between 4-5 or 7 subtypes.
+- Correctly describing some agonists at the individual subtypes.
+- Correctly describing some antagonists at the individual subtypes.
+- Including commonly used drugs such as ondansetron and correctly identifying the pharmacological action as an antagonist at the 5 HT-3 receptor, also Tramadol and its indirect method of action on the receptors as a 5HT uptake inhibitor
+
+Additional Points which attracted higher marks:
+
+- Identifying the numbers of subtypes within the receptor families, for example, 5HT-1 type D receptors, 5HT-2 A,B and C subtypes
+- Individually addressing the receptor subtypes, sumatriptan and its use in the treatment of migraine as well as the mechanism of action
+- Descriptions of Metoclopramide as a 5HT-4 agonist and its pharmacological action & site of 5HT-4 receptors
+- Mention of 5HT-2 receptors and antagonists, such as ketanserin, methylsergide, pizotifen or cyproheptadine.
+- Extra credit for mentioning less well known agents, for example, knowing LSD is an agonist at the 5HT receptor, as well as buspirone or tegaserod.
+
+Common Mistakes:
+
+- Incorrectly identifying all 5HT receptors as G-protein coupled or misidentifying which sub-type is ligand-gated
+- Incorrectly stating that drugs are agonists, when they are antagonists and vice-versa
+- Failing to describe the activity of the drug at the receptor
+- Confusing the mode of action and the receptor activity, for example, claiming 5HT-1 agonists like sumatriptan cause cerebral vasodilatation when they cause vasoconstriction.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2009/A/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neurotransmitters](/content/neuro/neurotransmitters.qmd)
+- [Antidepressants](/content/pharmacopoeia/neuro/antidepressants.qmd)

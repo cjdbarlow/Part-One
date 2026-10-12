@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010A Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the autonomic innervation of the heart and the effects of autonomic stimulation on cardiac function.
+:::
+
+Also asked in: [2016A Question 12](/content/exams/anzca/2016/A/12/index.qmd#examiner-comments), [2018B Question 9](/content/exams/anzca/2018/B/9/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the two systems in parallel, following anatomical pathways to receptors and intracellular events. Link these to nodal, myocardial and coronary effects, and distinguish basal tone and the time course of responses.
+
+::: {.structure-table}
+| Feature | Sympathetic | Parasympathetic |
+|---|---|---|
+| Origin, Pathways and Ganglia | | |
+| Distribution Within the Heart | | |
+| Transmitters, Receptors and Intracellular Events | | |
+| Chronotropy, Dromotropy, Inotropy and Lusitropy | | |
+| Coronary Effects, Basal Tone and Time Course | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**47%** of candidates passed this question.
+
+Main points expected for a pass included: origins & pathways of efferent sympathetic & parasympathetic supply to the heart, including site of ganglia, neurotransmitters & receptors; and, effects of increased sympathetic & parasympathetic tone on heart rate, contractility, AV nodal conduction & coronary vasculature. This information could be effectively presented in tabular format.
+
+Additional marks were allocated for mention of: the reciprocal interaction between sympathetic & parasympathetic systems; prevailing tone at rest; and, effect of both systems on propensity to dysrhythmias. Further marks were awarded for indicating the time frame for onset & offset of autonomic effects; and, for explaining changes in automaticity and demonstrating this diagrammatically via the pacemaker potential.
+
+Mistakes commonly made included: spelling errors (particularly for inotropy, chronotropy, lusitropy) & failing to demonstrate an understanding of the meaning of such terms; and, poor legibility of key words. Credit was not given for vague, non-directional statements regarding autonomic stimulation, nor for pharmacological effects of drugs on the autonomic system. Many candidates included details of afferent limbs or baroreceptor reflexes of the autonomic system, neither of which was required. Furthermore, excessive detail on intracellular messaging systems was not rewarded commensurate with the time taken to write such information.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2010/A/13/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2010/A/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Autonomic nervous system](/content/neuro/ans.qmd)

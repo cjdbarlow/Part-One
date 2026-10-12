@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014B Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the washout of desflurane from a patient following six hours of general anaesthesia. You may wish to use a graph to illustrate the description.
+:::
+
+Also asked in: [2020A Question 7](/content/exams/anzca/2020/A/7/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} washout after six hours by linking compartment uptake to the subsequent concentration gradients and rates of elimination. Use the washout curve to connect the phases with their determinants.
+
+::: {.structure-headings}
+### Compartment Uptake and Saturation
+
+### Washout Curve and Phases
+
+### Tissues to Blood
+
+### Blood to Alveoli
+
+### Alveoli and Circuit
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**52 %** of candidates achieved a pass in this question
+
+The main points expected for a pass centred on a detailed description of the clearance of desflurane from the lungs when the inspired fraction is rapidly reduced to zero, and how multiple body compartments empty simultaneously, but at different rates, pertaining to their volume, perfusion and desflurane’s differential solubility in those compartments. A graph demonstrating the washout of desflurane, when used to illustrate the pharmacokinetic description above, also attracted marks.
+
+There were some excellent answers. However, roughly half of candidates did not achieve a pass principally because they did not specifically address the question asked. Examples included answers comparing and contrasting the different rates of washout between different volatile agents instead. Another common misinterpretation was to discuss the offset of clinical effects of the agent rather than the requested pharmacokinetics.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2014/B/2/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2014/B/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational anaesthetic pharmacokinetics](/content/pharmacopoeia/neuro/inhalational_anaesthetic_agents.qmd#pk)
+- [Inhalational anaesthetic agents](/content/pharmacopoeia/neuro/inhalational_anaesthetics.qmd)

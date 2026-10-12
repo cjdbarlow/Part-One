@@ -1,0 +1,68 @@
+#### Principles:
+
++---------------+--------------------------------+
+| Goals         | - No hypoxia                   |
+|               | - No barotrauma                |
+|               | - No explosion                 |
++---------------+--------------------------------+
+| Supply design | - Multiple oxygen sources      |
+|               | - Multiple pressure regulators |
+|               | - Multiple alarms              |
++---------------+--------------------------------+
+
+#### Oxygen sources:
+
++----------+-----------------------------------------------+
+| Cylinder | - Label                                       |
+|          | - Colour code: white body, white shoulders    |
+|          | - Pin index safety system (2&5)               |
+|          | - Outlet melts and occludes if heated         |
+|          | - Bodok seal – non-combustible, gas-tight     |
++----------+-----------------------------------------------+
+| Pipeline | - Label: socket and hose                      |
+|          | - Colour code: white hose, white screw collar |
+|          | - Diameter index safety system                |
+|          | - Anti-kink tube                              |
++----------+-----------------------------------------------+
+
+#### Anaesthesia machine:
+
++--------------------+---------------------------------------------------------------------------+
+| Fresh gas supply   | - Oxygen is the last to enter the stream                                  |
+|                    | - Oxygen control knob (if present) is colour coded, larger, protuberant   |
+|                    | - Chain-link between O~2~ and N~2~O flowmeters (physical or electronic)   |
+|                    | - Oxygen failure (usually \<2atm) → open fail-safe valve, other gas off   |
+|                    | - Usually no protection against hypoxia from low FiO~2~ with low FGF rate |
++--------------------+---------------------------------------------------------------------------+
+| Alternative supply | *N.B. no electricity required:*                                           |
+|                    |                                                                           |
+|                    | - Oxygen safety flow (0-10L/min)                                          |
+|                    |   - Into fresh gas supply                                                 |
+|                    |   - Master control switch must be on                                      |
+|                    | - Oxygen flush (40-60L/min, 4 atm)                                        |
+|                    |   - Bypasses circuit                                                      |
+|                    |   - Button in-set to prevent accidental barotrauma                        |
+|                    | - Auxiliary source (0-10L/min)                                            |
+|                    |   - Separate to circuit                                                   |
+|                    | - Bag-mask resuscitator                                                   |
+|                    |   - Separate to machine                                                   |
++--------------------+---------------------------------------------------------------------------+
+| Pressure           | - Systems:                                                                |
+|                    |   - High (16atm) – cylinder and attachments                               |
+|                    |   - Intermediate (4atm) – gas supply lines                                |
+|                    |   - Low (\<70cmH~2~O) – fresh gas, vapourisers, circuit\                  |
+|                    |     (i.e. patient interface)                                              |
+|                    | - Valves:                                                                 |
+|                    |   - Check valves – prevent backflow                                       |
+|                    |   - Pressure regulators – smooth pressure drop between sections           |
+|                    |   - Pressure relief valves – e.g. APL valve 0-70cmH~2~O                   |
++--------------------+---------------------------------------------------------------------------+
+| Power              | - Wall source (connected to uninterruptable supply)                       |
+|                    | - Back-up battery                                                         |
+|                    | - On-off button in-set                                                    |
++--------------------+---------------------------------------------------------------------------+
+| Alarms             | - Power supply                                                            |
+|                    | - Pressure gauges                                                         |
+|                    | - FiO~2~ and etO~2~ – paramagnetic analyser                               |
+|                    | - Oxygen failure – activated if supply \<2atm, cannot be silenced         |
++--------------------+---------------------------------------------------------------------------+

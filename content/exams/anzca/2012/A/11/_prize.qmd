@@ -1,0 +1,62 @@
+#### List:
+
+- Introduction
+- ABO system: Ag, Ab
+- Rhesus system: Ag, Ab
+- O negative red cells
+
+#### Introduction:
+
+- RBC membranes express antigens (Ag)
+- Antibodies (Ab) are produced against non-self RBC Ag following exposure
+- Transfusion safe only if recipient won’t produce Ab against donor Ag
+
+#### ABO system:
+
++------------+-------------------------------------------------------------------------------------------+
+| Antigens   | - Carbohydrate Ag                                                                         |
+|            | - Also present in diet                                                                    |
+|            | - Common oligosaccharide foundation = “O antigen”                                         |
+|            | - Type A adds N-acetylgalactosamine                                                       |
+|            | - Type B adds galactose                                                                   |
+|            | - Type AB adds both                                                                       |
++------------+-------------------------------------------------------------------------------------------+
+| Antibodies | - Non-self anti-A, Anti-B developed in first year of life if type O blood (diet exposure) |
+|            | - (Anti-O = Bombay is rare)                                                               |
+|            | - More pentameric IgM                                                                     |
+|            | - More antigenic                                                                          |
+|            | - Doesn’t cross placenta                                                                  |
+|            | - Incompatibility → intravascular haemolysis (worse)                                      |
+|            | - Note no plasma in donor packed RBCs, hence donor’s antibodies unimportant               |
++------------+-------------------------------------------------------------------------------------------+
+
+#### Rhesus system:
+
++------------+-----------------------------------------------------------------------------------------------------+
+| Antigen    | - Protein Ag                                                                                        |
+|            | - Many types (A, a, B, b etc); D most important                                                     |
+|            | - Non-self Anti-RhD only developed after exposure to RhD+ blood (no diet exposure)                  |
++------------+-----------------------------------------------------------------------------------------------------+
+| Antibodies | - More monomeric IgG                                                                                |
+|            | - Less antigenic                                                                                    |
+|            | - Incompatibility → extravascular haemolysis (not quite as bad)                                     |
+|            | - Does cross placenta (hydrops foetalis)                                                            |
+|            | - Important to avoid sensitization in females of childbearing potential:                            |
+|            | - First time: Rh- mother, Rh+ neonate → sensitization                                               |
+|            | - Second time: Rh+ neonate, maternal Anti-RhD IgG causes hydrops foetalis, haemolytic Dx of newborn |
++------------+-----------------------------------------------------------------------------------------------------+
+
+#### O negative red cells:
+
++--------------+------------------------------------------------------------------------------+
+| Properties   | - RBCs: “O Ag” but no A, B or RhD Ag                                         |
+|              | - Plasma has anti-A, anti-B, +/- anti-RhD but these are washed from RBC unit |
++--------------+------------------------------------------------------------------------------+
+| Universality | - Safe for A,B,O whether D+ or D-                                            |
+|              | - Useful in emergency when no time for crossmatch                            |
++--------------+------------------------------------------------------------------------------+
+| Exceptions   | - Bombay group: anti-O antibody                                              |
+|              | - Other groups: Kell, Kidd, Duffy                                            |
+|              | - Importance variable                                                        |
+|              | - May cause reaction if sensitised                                           |
++--------------+------------------------------------------------------------------------------+

@@ -1,0 +1,69 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003B Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the potential causes of a difference between measured end- tidal and arterial partial pressure of carbon dioxide.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} **Patient Factors**, **Expired Gas Sampling and Monitoring**, and **Arterial Measurement**. Relate dead space, delayed alveolar emptying and equipment limitations to the measured difference.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**43%** of candidates passed this question.
+
+The answer required consideration of both patient factors, and those errors and limitations of the equipment and techniques used to monitor carbon dioxide both in the expired gas and arterial blood.
+
+The effect of alveolar dead space on the difference between end-tidal and arterial CO~2~ was recognised by most candidates, and many included satisfactory explanations of the causes and potential underlying pathologies, gaining extra marks. The commonly observed clinical effect of delayed alveolar emptying with slow rise in expired CO~2~, leading to failure to obtain a true plateau, was usually overlooked, but attracted extra marks when included.
+
+Equipment problems expected to be included were leaks and occlusions, effect of sampling site and other gases, and calibration errors. This area was overlooked completely by many candidates, leading to the low pass rate. Most candidates that addressed both the patient and equipment components obtained a good pass.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [End-Tidal Gas Analysis](/content/equipment/end_tidal.qmd)
+- [Dead Space](/content/resp/dead_space.qmd)

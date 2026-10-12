@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2017A Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+A new test called the “intubation score” has a reported 90% sensitivity and 70% specificity when used to predict difficult intubation. [**Describe**]{.task-verb} how this information and other statistics related to this test can be used in predicting difficult intubation. [**How will**]{.task-verb} the incidence of difficult intubation affect the performance of this test?
+:::
+
+Also asked in: [2007B Question 4](/content/exams/anzca/2007/B/4/index.qmd#examiner-comments), [2014B Question 7](/content/exams/anzca/2014/B/7/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} sensitivity, specificity and predictive values using a 2 × 2 contingency table, then explain [**how the incidence affects**]{.task-verb} interpretation of the test.
+
+::: {.structure-table}
+| Test Result | Difficult Intubation | No Difficult Intubation |
+|---|---|---|
+| Positive | | |
+| Negative | | |
+:::
+
+Then use headings for **Sensitivity and Specificity**, **Positive and Negative Predictive Values**, **Effect of Incidence**, and **Study Population and Applicability**.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**53%** of candidates achieved a pass in this question
+
+This question was asked under section BT PO 1.2 of the learning outcomes. It assessed a candidate’s understanding of the statistical utility and limitations of clinical tests that may be performed or ordered in clinical practice. The question did not ask for physical features or high risk populations associated with difficult intubation.
+
+Many candidates passed this question with correct definitions of sensitivity, specificity, positive predictive value, negative predictive value and incidence. The addition of a correctly completed contingency table aided answers on how these values were calculated. Candidates who used terms such as true positive (TP) instead of a, b, c and d were more likely to have an accurate contingency table.
+
+High scoring answers also included differences between incidence and prevalence and their impact on test results, likelihood ratios and receiver operator curves, as well other statistical terms such as Bayes’ theorem and Fagan nomogram.
+
+This is covered in texts suggested on the reading list. A simple synopsis can also be found in this article: Clinical tests: sensitivity and specificity Lahlken & McCluskey Continuing Education in Anaesthesia, Critical Care & Pain Volume 8 Number 6 2008
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Sensitivity, specificity and predictive values](/content/stats/statistical_terms.qmd)

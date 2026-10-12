@@ -1,0 +1,75 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002A Question 16 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly outline**]{.task-verb} the pharmacology of flumazenil.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly outline**]{.task-verb} flumazenil under the standard pharmacological headings, connecting antagonism at the benzodiazepine site to reversal, adverse effects and the risk of re-sedation.
+
+::: {.structure-headings}
+### Identity and Presentation
+
+### Dose and Pharmacokinetics
+
+### Mechanism and Clinical Use
+
+### Adverse Effects and Re-Sedation
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The pass rate for this question was **45%**. The question asked for straightforward factual information. To pass, the candidate needed to describe the chemical identity, presentation, pharmacokinetics (briefly) and pharmacodynamics of the drug. It was difficult to score enough points to pass without at least a brief mention of each of these points. Many candidates gave lengthy and often incorrect descriptions of the kinetics of the drug.
+
+More complete answers usually gave a dose or dosage range for the drug and referred to the clinical problem of re-sedation, due to the longer half-lives of the most commonly used benzodiazepines-compared with flumazenil.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2002/A/16/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Flumazenil](/content/pharmacopoeia/tox/flumazenil.qmd)
+- [Benzodiazepines](/content/pharmacopoeia/neuro/benzodiazepines.qmd)

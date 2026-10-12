@@ -1,0 +1,92 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008A Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the physiological changes that occur in respiratory function during pregnancy.
+:::
+
+Also asked in: [2001B Question 4](/content/exams/anzca/2001/B/4/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Anatomical Changes**, **Lung Volumes**, **Ventilatory Pattern and Minute Ventilation**, **Arterial Blood Gases**, and **Oxygen Flux**. Connect the changes to their physiological implications for maternal oxygen stores and placental transfer.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**54%** of candidates passed this question. Main Points expected for a pass:
+
+- A brief mention of reasons for the changes - hormonal, mechanical and increases in metabolic demand
+- Changes in lung volume and capacities
+- Alterations in ventilation - what causes the increase, how it is mediated and what are the effects (eg. fully compensated respiratory alkalosis)
+- Increased metabolic demand - the magnitude of the increase and how the body adapts to meet the demand
+- Anatomical changes
+- Some mention of the extra stress on the respiratory system resulting from labour
+
+Additional points could be gained for:
+
+- Clinical significance of the changes
+- Changes in the hypoxic ventilatory response curve and CO~2~ ventilatory response curve
+- Blood gases in pregnancy
+- Mention of changes in extraction ratio
+- Discussion of work of breathing in pregnancy
+- Dead space changes in pregnancy
+- Changes to the haemoglobin oxygen dissociation curve
+- Dyspnoea of pregnancy
+
+Common problems:
+
+- Illegible handwriting
+- Lack of structure when answering the question
+- Changes in airway resistance were poorly understood with wide variation in answers
+- Few candidates mentioned the changes that occur during labour
+- The role of relaxin in mediating changes in the respiratory system was often overstated
+- Inaccurate terms were common such as ‘total lung volume’, ‘functional residual volume’
+- The main reason for failing this question was a failure to demonstrate factual knowledge.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Respiratory Changes of Pregnancy](/content/obs/preg_resp.qmd)

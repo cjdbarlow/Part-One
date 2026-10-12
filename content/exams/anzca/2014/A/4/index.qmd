@@ -1,0 +1,98 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014A Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the physiological basis of methods used to prevent hypoxaemia prior to intubation in a rapid sequence induction. [**Include**]{.task-verb} any adverse effects of these methods.
+:::
+
+Also asked in: [2013B Question 2](/content/exams/anzca/2013/B/2/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} each method by linking its physiological basis to the maintenance of oxygenation during apnoea. [**Include**]{.task-verb} the adverse effects alongside the relevant method.
+
+::: {.structure-headings}
+### Pre-Oxygenation and Oxygen Stores
+
+### Positioning
+
+### PEEP
+
+### Apnoeic Oxygenation
+
+### Adverse Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**16.8 %** of candidates achieved a pass in this question
+
+In order to pass this question it was necessary to demonstrate that hypoxaemia is avoided by increasing oxygen stores and maintaining them. This mandated a discussion on the role of FRC as an oxygen store, and preoxygenation as a means of augmenting that store. Better answers demonstrated this using the alveolar gas equation. To achieve a pass, it was also necessary to provide some description on the role of positioning, and also that of apnoeic oxygenation. A discussion on the complications of all these modalities was also asked for, but frequently omitted.
+
+Most low scoring answers included a huge amount of irrelevant information, often extending for several pages. Examples which attracted no marks included:
+
+- the role of blood transfusion
+
+- cricoid pressure (commonly discussed)
+
+- the role of video laryngoscopy
+
+- side effects of suxamethonium (commonly discussed)
+
+- the cost of sugammadex
+
+- the role of chest physiotherapy on the ward
+
+- detailed spirometery diagrams
+
+Several candidates also asserted that preoxygenation causes diffusion hypoxia. Candidates are also reminded that rephrasing a point already made attracts no extra marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/B/2/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/B/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Oxygen storage](/content/resp/oxygen_storage.qmd)
+- [Lung volumes and capacities](/content/resp/volumes_capacities.qmd)
+- [Positive pressure ventilation](/content/resp/peep.qmd)

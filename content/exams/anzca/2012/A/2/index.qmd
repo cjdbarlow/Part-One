@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012A Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+In relation to the pharmacokinetics of nitrous oxide, [**describe**]{.task-verb} the significance of partition coefficients, increasing inspired concentration, the second gas effect and diffusion hypoxia.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the significance of each named concept in a separate section. Link partition coefficients to equilibration, then explain increased inspired concentration, concentration and second gas effects, and the reverse process during washout.
+
+::: {.structure-headings}
+### Partition Coefficients
+
+### Increasing Inspired Concentration
+
+### Second Gas Effect
+
+### Diffusion Hypoxia
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**68.7%** of candidates passed this question.
+
+This question asked candidates to address four fundamental concepts in the pharmacokinetics of nitrous oxide. Candidates should allocate appropriate time for each of these issues. Common errors and omissions included:
+
+- Partition coefficient: Most candidates were able to point out that blood/gas partition coefficient of nitrous oxide is low (exact value is not required), but few have clearly elaborated on the significance of this value (such as rapid equilibration).
+- Increasing inspired concentration: Candidates should note that “concentrating effect” is not the only phenomenon that occurs with increasing inspired concentration of nitrous oxide, the other effects such as increased inspiratory ventilation and offsetting of low uptake should also be mentioned.
+- Second gas effect: It is somewhat surprising that a substantial proportion of candidates have mistaken the concept of second gas effect as the additive (or synergistic) effect of combining inhalational agents.
+- Diffusion hypoxia: Most candidates were able to explain the concept of diffusion hypoxia as the dilution of alveolar oxygen by nitrous oxide after cessation of delivery. A better answer should also include potential hypoventilation as alveolar carbon dioxide is also diluted.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2012/A/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Nitrous oxide](/content/pharmacopoeia/neuro/nitrous_oxide.qmd)

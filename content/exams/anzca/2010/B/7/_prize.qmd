@@ -1,0 +1,65 @@
+#### List:
+
+- Properties
+- Physical hazards
+- Physiological consequences
+
+#### Properties:
+
++------------+-----------------------------------------------+
+| Definition | - 8th element on periodic table               |
+|            | - MW 32. Diatomic form                        |
+|            | - Ubiquitous clear, colourless, odourless gas |
+|            | - Essential in mammals                        |
++------------+-----------------------------------------------+
+| Numbers    | - Boiling point -180°C                        |
+|            | - Critical temperature -118°C                 |
+|            | - Critical pressure 50 atm                    |
++------------+-----------------------------------------------+
+| Production | - Fractional distillation of air              |
+|            | - Oxygen concentrator                         |
+|            | - Electrolysis of water                       |
++------------+-----------------------------------------------+
+| Storage    | - Vacuum-insulated evaporator (VIE)           |
+|            | - Cylinder manifold                           |
++------------+-----------------------------------------------+
+
+#### Physical hazards:
+
+- VIE or cylinder explosion
+- Supports combustion e.g. skin prep, drapes
+- Heavy cylinder → foot injury
+
+#### Physiological consequences:
+
++-------------------------+-----------------------------------------------------------------------------+
+| Pathophysiology         | - ↑O~2~ indices:                                                            |
+|                         |   - ↑↑PAO2, ↑↑PaO2                                                          |
+|                         |   - ↑CaO2 only 0.003mL/100mL/mmHg O2 due to shape of OHDC                   |
+|                         |   - Minimal change CvO~2~                                                   |
+|                         | - ↑Formation of reactive oxygen species (ROS)                               |
+|                         |   - Substance with unpaired outer shell electron (e.g. O2-)                 |
+|                         |   - Reacts with and causes damage to enzymes, DNA, lipid membranes          |
+|                         |   - Damage especially if antioxidants exhausted (e.g. superoxide dismutase) |
++-------------------------+-----------------------------------------------------------------------------+
+| Neurological            | - Anxiety, nausea, tinnitus, confusion, seizures                            |
+|                         | - Threshold immediately: 3atm                                               |
+|                         | - Threshold at 24 hours: 1.5 atm                                            |
+|                         | - No toxicity at 1 atm                                                      |
++-------------------------+-----------------------------------------------------------------------------+
+| Respiratory             | - ↓Ventilatory drive via carotid body chemoreceptors                        |
+|                         | - ↓HPV → ↑VQ mismatch in susceptible patients e.g. COPD                     |
+|                         | - Alveolar collapse, atelectasis, ↓FRC                                      |
+|                         | - A few hours 1atm: tracheobronchial irritation, chest pain, cough          |
+|                         | - 24 hours 1atm: alveolar membrane lipid peroxidation                       |
++-------------------------+-----------------------------------------------------------------------------+
+| Cardiovascular          | - Coronary vasoconstriction                                                 |
++-------------------------+-----------------------------------------------------------------------------+
+| Worsen ischaemic injury | - Post-MI: ↑ROS damage                                                      |
+|                         | - Post-stroke: ↑ROS damage                                                  |
+|                         | - Post-arrest: ↑ROS damage                                                  |
++-------------------------+-----------------------------------------------------------------------------+
+| Neonate-specific        | - Retinopathy of prematurity                                                |
+|                         | - Bronchopulmonary dysplasia                                                |
+|                         | - Necrotising enterocolitis                                                 |
++-------------------------+-----------------------------------------------------------------------------+

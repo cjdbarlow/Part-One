@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005B Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Define**]{.task-verb} the term ‘context-sensitive half time’. [**How does**]{.task-verb} it differ from the half life typically quoted for a drug? [**Illustrate**]{.task-verb} this concept by comparing thiopentone vs. propofol and fentanyl vs. remifentanil.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Define**]{.task-verb} **Context-Sensitive Half Time**, then show how it differs from **Elimination Half Life**. [**Illustrate**]{.task-verb} the comparison using labelled infusion-duration graphs for **Thiopentone and Propofol** and **Fentanyl and Remifentanil**, explaining distribution and elimination.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**73 %** of candidates passed this question.
+
+The main points expected for a pass included:
+
+- Context sensitive half time (CST~1/2~); the time for plasma concentration to decrease by 50% after termination of an infusion. The “context” is infusion duration
+- Determinants of CST~1/2~ including clearance, distribution to and from peripheral compartments and duration of infusion
+- Elimination half life (T~1/2~); the time for plasma concentration or total drug amount in body to decrease by 50% during the elimination phase. The principal determinant of T~1/2~ is clearance. T~1/2~ is typically described after a bolus dose. (Plasma concentration or total drug amount were both accepted as they are used interchangeably in many of the prescribed texts)
+- An outline of the different CST~1/2~ for thiopentone, propofol, fentanyl and remifentanil
+
+Better answers included:
+
+- A demonstrated understanding of the concepts with explanations for the differences between the drugs and different infusion durations
+- Accurate diagrams demonstrating CST~1/2~ for the four drugs including correctly labelled axes
+- An explanation of T~1/2~ with reference to the equation T~1/2~ = .693Vd/Cl
+
+Errors included:
+
+- No consideration of the factors effecting CST~1/2~ or T~1/2~
+- Regurgitation of kinetic data with no reference to the important data pertaining to CST~1/2~ or explanation of the data
+- Extremely inaccurate diagrams with no labelling of axes
+- Confusion between the terms CST~1/2~ and effect site concentration
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Bolus and Infusion Kinetics](/content/pharmacology/iv_kinetics.qmd)

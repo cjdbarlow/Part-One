@@ -1,0 +1,23 @@
+**Fluid and Osmolarity homeostasis** 
+
+- Kidneys vary urine production from dilute to concentrate (with influence of RAAS and ADH) to regulate production to maintain ECF osmolarity around 280mosm/l.
+
+**Acid base balance**
+
+- Excretion of H+ ions, fixed acids, phosphate and ammonium, and resorption of HCO3- to maintain plasma neutrality
+
+**Glucose and electrolyte balance and reabsorption **
+
+- GFR is approx. 180L/day → the majority of solute particularly sodium, but also glucose, K, Ca, Mg and Cl must be reabsorbed. 
+
+**Drug and waste excretion **
+
+- Filtration of metabolic waste products at the glomerulus for excretion in urine (including urea from protein, uric acid from nucleic acids, creatinine from muscle creatine, and the metabolites of various hormones)
+- Filtration of drugs and other foreign substances
+- Hepatic metabolism often works synergistically with the kidney to metabolise organic molecules to a water soluble form, aiding renal excretion
+- Renal metabolically active contributing significantly to CYP metabolism 
+
+**Endocrine** Function
+
+- RAAS Pathway: Kidneys perform key function in fluid reabsorption and blood pressure management through production of Renin and the subsequent cascade to produce Angiotensin II and increase ADH secretion 
+- Erythropoietin is release primarily from the kidneys → increase red blood cell production

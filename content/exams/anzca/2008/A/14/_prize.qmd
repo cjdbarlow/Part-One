@@ -1,0 +1,72 @@
+#### List:
+
+- Intro: myocardial ischaemia
+- Referred pain
+- Myocardial general visceral afferents
+
+#### Intro: myocardial ischaemia:
+
++--------------+-------------------------------------------------------------------------------+
+| Cause        | - Myocardial O~2~ demand exceeds supply                                       |
+|              | - Anaerobic metabolism                                                        |
+|              | - ↑H^+^, K^+^, CO~2~, adenosine; ↓pO~2~                                       |
+|              | - Activation of chemical nociceptive receptors                                |
++--------------+-------------------------------------------------------------------------------+
+| Significance | - Frequently referred. Perception from ear superiorly to umbilicus inferiorly |
+|              | - Frequently misdiagnosed                                                     |
++--------------+-------------------------------------------------------------------------------+
+
+#### Referred pain:
+
++------------+---------------------------------------------------------------------------------------+
+| Definition | - Where pain is perceived distant to the site of insult                               |
++------------+---------------------------------------------------------------------------------------+
+| Purpose    | - ? Accident of evolution                                                             |
+|            | - ? Allows somatotopic localization of phylogenetically ancient pathways (my thought) |
++------------+---------------------------------------------------------------------------------------+
+| Mechanisms | - Convergence-projection: most accepted                                               |
+|            |   - Visceral 1° afferents onto nociceptive specific somatic 2° afferents              |
+|            |   - Due to embryological origin of visceral and somatic structures                    |
+|            | - Convergence-facilitation                                                            |
+|            | - Axon-reflex theory                                                                  |
+|            | - Hyperexcitability theory                                                            |
+|            | - Thalamic convergence theory                                                         |
++------------+---------------------------------------------------------------------------------------+
+
+#### Myocardial general visceral afferent pathways:
+
++--------------------------+---------------------------------------------------------------------------------------+
+| Nociceptive receptor     | - Free nerve endings of post-ganglionic neurons, in myocardium                        |
+|                          | - Ionotropic e.g. ASIC (faster)                                                       |
+|                          | - Metabotropic: e.g. bradykinin (slower)                                              |
++--------------------------+---------------------------------------------------------------------------------------+
+| 1° afferent (nociceptor) | - Unmyelinated C fibre\                                                               |
+|                          |   **(hence slow onset, dull, vague; responsive to opioids)**                          |
+|                          | - Piggybacks onto autonomic efferents                                                 |
+|                          | - With SNS:                                                                           |
+|                          |   - With post-synaptic fibres to paravertebral ganglia                                |
+|                          |   - With pre-synaptic fibres via white ramus communicans to spinal cord T1-4\         |
+|                          |     **(hence predominantly chest)**                                                   |
+|                          |   - Entry at dorsal horn (not intermediolateral)                                      |
+|                          |   - Ascent or descent 1-2 layers via Lissauer’s tract\                                |
+|                          |     (**hence also upper limbs, abdomen)**                                             |
+|                          |   - Direct synapse with wide dynamic range 2° afferents in deeper layers              |
+|                          |   - Convergence onto somatic nociceptive specific 2° afferents in superficial layers\ |
+|                          |     **(hence referred)**                                                              |
+|                          | - With PSNS:                                                                          |
+|                          |   - With post-synaptic nerves to local ganglia                                        |
+|                          |   - With pre-synaptic cranial nerves (CNIX, CNX): to nucleus tractus solitarius\      |
+|                          |     **(hence also neck, jaw, ear)**                                                   |
++--------------------------+---------------------------------------------------------------------------------------+
+| 2° afferent              | - Wide dynamic range: multimodality, high threshold, only conveys pain if sensitized  |
+|                          | - Nociceptive-specific: low threshold, pain only                                      |
+| (visceral)               | - Decussation via anterior commissure                                                 |
+|                          |   - Incomplete for older pathways\                                                    |
+|                          |     **(hence bilateral with L \> R)**                                                 |
+|                          | - Ascent via spinothalamic tracts (STT)                                               |
+|                          |   - Neo-STT → thalamus (VPL nucleus)                                                  |
+|                          |   - Paleo-STT/archi-STT → mostly brainstem                                            |
++--------------------------+---------------------------------------------------------------------------------------+
+| 3° afferent              | - VPL thalamus → 1° somatosensory cortex (localisation)                               |
+|                          | - Brainstem → medial thalamus, hypothalamus, amygdala (affective, autonomic)          |
++--------------------------+---------------------------------------------------------------------------------------+

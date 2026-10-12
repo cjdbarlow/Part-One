@@ -1,0 +1,52 @@
+#### List:
+
+- Upper airway
+- Lower airway
+- Other
+
+#### Upper airway:
+
++---------------------------------------+-----------------------------------------------------------------+
+| **Narrow upper airways:**             | - ↑ Resistance. Provides auto-PEEP                              |
+|                                       | - Guedel airway useful during mask ventilation                  |
+| - Narrow nasal passages               |                                                                 |
+| - Large tongue                        |                                                                 |
+| - Narrow pharynx                      |                                                                 |
++---------------------------------------+-----------------------------------------------------------------+
+| **Obligate nose breather because of** | - Any nasal obstruction = dangerous                             |
+|                                       |                                                                 |
+| - Large tongue                        |                                                                 |
+| - High laryngeal inlet (C3-4 cf. C6)  |                                                                 |
++---------------------------------------+-----------------------------------------------------------------+
+| **Prominent occiput:**                | - Tendency for flexion → obstruction                            |
+|                                       | - Folded towel under shoulders for bag-mask vent and intubation |
++---------------------------------------+-----------------------------------------------------------------+
+
+#### Lower airways:
+
++-------------------------------------------------------------+---------------------------------------------------------------+
+| **Narrower lower airways**                                  | - Any further obstruction = dangerous\                        |
+|                                                             |   \                                                           |
+| - Includes larynx, trachea and bronchi\                     | - Risk of subglottic stenosis with prolonged intubation       |
+|   Resistance 25cmH2O/L/s on day 2                           |                                                               |
+| - Note narrowest point cricoid ring (cf. glottis in adults) |                                                               |
++-------------------------------------------------------------+---------------------------------------------------------------+
+| - Epiglottis long, U shape, floppy                          | - Can be bypassed using straight bladed laryngoscope (Miller) |
+|                                                             | - Risk of glottic obstruction by misplaced LMA                |
++-------------------------------------------------------------+---------------------------------------------------------------+
+| - Laryngeal inlet is high C3-4 and anterior                 | - Different intubation mechanics                              |
+| - Larynx                                                    |                                                               |
++-------------------------------------------------------------+---------------------------------------------------------------+
+| - Short trachea                                             | - Risk of endobronchial intubation during neck flexion        |
+|                                                             | - Risk of accidental extubation during neck extension         |
++-------------------------------------------------------------+---------------------------------------------------------------+
+
+#### Other:
+
++---------------------------+---------------------------------------------------------------------------------------------------------------------------+
+| Risk of oxygen toxicity   | - Bronchopulmonary dysplasia                                                                                              |
+|                           | - (Other: retinopathy of prematurity, necrotising enterocolitis)                                                          |
++---------------------------+---------------------------------------------------------------------------------------------------------------------------+
+| Non-respiratory functions | - Innate immunity e.g. mucocilicary escalator present in neonate and adult                                                |
+|                           | - Adaptive immunity: passive (from breast milk) vs endogenous. No endogenous IgG or IgA in neonatal alveolar lining fluid |
++---------------------------+---------------------------------------------------------------------------------------------------------------------------+

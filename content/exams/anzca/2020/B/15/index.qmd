@@ -1,0 +1,75 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2020B Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the pharmacokinetic implications of severe chronic kidney disease, using examples of drugs used in anaesthesia to illustrate your answer.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} the changes under absorption, distribution, metabolism and elimination, using anaesthetic drug examples to show the practical consequence of each. Explain active or toxic metabolite accumulation, dose and interval implications, and the additional effects of dialysis.
+
+::: {.structure-headings}
+### Severity and Pharmacokinetic Context
+
+### Absorption and Oedema
+
+### Distribution, Protein Binding and Acid–Base Changes
+
+### Renal and Hepatic Metabolism
+
+### Elimination, Metabolites and Dialysis
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Most candidates attempted to define severe CKD and various GFR ranges were quoted. Better candidates recognised that CKD is on a spectrum with greater reductions in GFR with increasing severity, with end stage being GFR<15 mls/min, or dialysis dependent. The focus of this question is on PK changes and required candidates to describe these changes as well as the implications. The majority of answers were well structured with Absorption, Distribution, Metabolism and Elimination categories considered. For absorption, not many considered TBW changes resulting in oedema that may increase the barrier to diffusion and slow onset of patches or s/c drugs. Uraemia and its effects on gastric motility and nausea/vomiting, as well as GIT oedema may affect absorption of orally administered drugs. Candidates were expected to give a reasonable explanation on at least distribution and elimination, with examples of commonly used drugs seen in anaesthesia. Too often, there was not enough detail in the answer. Stating that clearance of a drug will be reduced with a decrease in GFR and will require dose adjustment is not sufficient at this level. The kidneys are responsible for eliminating drugs unchanged as well as metabolites of drugs that may also be active. A frequent example given of an active metabolite was morphine-6-glucoronide, but it also requires a brief mention of what the potential effects of this are and how to minimise this, by changes in dosing intervals or using alternative drugs for instance Better candidates considered the effects of dialysis in their answers (with effects on TBW and drug concentration), as well as multiorgan involvement (e.g hepatorenal syndrome)
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2020/B/15/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2020/B/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Elimination](/content/pharmacology/elimination.qmd)
+- [Distribution](/content/pharmacology/distribution.qmd)

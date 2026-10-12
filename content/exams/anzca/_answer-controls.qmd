@@ -1,0 +1,11 @@
+```{=html}
+<fieldset class="answer-controls" aria-label="Answer View">
+  <div class="answer-view-options">
+    <label><input type="radio" name="answer-view" id="view-hidden" aria-controls="standard-answer prize-answer" checked><span>Hide Answers</span></label>
+    <label><input type="radio" name="answer-view" id="view-standard" aria-controls="standard-answer prize-answer"><span>Passing Standard</span></label>
+    <label><input type="radio" name="answer-view" id="view-prize" aria-controls="standard-answer prize-answer"><span>Prize</span></label>
+    <label><input type="radio" name="answer-view" id="view-both" aria-controls="standard-answer prize-answer"><span>Both Answers</span></label>
+  </div>
+</fieldset>
+<p class="answers-unavailable">No model answers available.</p>
+```

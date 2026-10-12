@@ -1,0 +1,77 @@
+#### List:
+
+- Summary
+- Immediate Mx
+- Dantrolene pharmacology
+
+#### Summary:
+
++-----------------+--------------------------------------------------------------------------------------------------------------+
+| Definition      | - Rare, life-threatening hypermetabolic reaction to volatile anaesthetics or suxamethonium                   |
++-----------------+--------------------------------------------------------------------------------------------------------------+
+| Aetiology       | - Autosomal dominant mutation RYR1 gene encoding the skeletal muscle ryanodine receptor (RR) and ion channel |
+|                 | - 1 in 200,000                                                                                               |
++-----------------+--------------------------------------------------------------------------------------------------------------+
+| Pathophysiology | - Continuous, excessive Ca^2+^ release                                                                       |
+|                 | - Continuous skeletal muscle contraction                                                                     |
+|                 | - ↑↑VO~2~, ↑↑VCO~2~                                                                                          |
+|                 | - ↑HR, ↑etCO~2~, ↑temp                                                                                       |
++-----------------+--------------------------------------------------------------------------------------------------------------+
+| Complications   | - Rhabdomyolysis                                                                                             |
+|                 | - Acidosis                                                                                                   |
+|                 | - Arrhythmia                                                                                                 |
+|                 | - Death (80% mortality if untreated)                                                                         |
++-----------------+--------------------------------------------------------------------------------------------------------------+
+
+#### Immediate treatment:
+
++---------------------+---------------------------------------------------------------------+
+| Basics              | - Call for help, need many hands                                    |
+|                     | - Abandon surgery                                                   |
+|                     | - Stop the offending agent(s) ASAP                                  |
+|                     |   - Cease volatile, FGF \>10L/min to flush circuit, ↑FiO~2~ to 100% |
+|                     |   - No more suxamethonium                                           |
+|                     | - Start IV sedation e.g. propofol 30mL/h                            |
++---------------------+---------------------------------------------------------------------+
+| ABC                 | - A: insert ETT                                                     |
+|                     | - B: IPPV, note ↑↑MV required                                       |
+|                     | - C: ensure BP within safe limits, insert arterial line             |
+|                     | - D: sedate e.g.propofol 200mg/h                                    |
++---------------------+---------------------------------------------------------------------+
+| Dantrolene ASAP     | - Bolus dose: 2.5mg/kg rapidly ± repeat; may require \>10mg/kg      |
+|                     | - Infusion for up to 24h: 1mg/kg/h                                  |
++---------------------+---------------------------------------------------------------------+
+| Cool to 37C         | - Remove clothing and blankets                                      |
+|                     | - Cold IV saline                                                    |
+|                     | - Cold bladder or intraperitoneal irrigation                        |
++---------------------+---------------------------------------------------------------------+
+| Treat complications | - e.g. hyperkalemia                                                 |
++---------------------+---------------------------------------------------------------------+
+| Take to ICU         | - Observation \~24 hours                                            |
+|                     | - +/- dantrolene infusion                                           |
++---------------------+---------------------------------------------------------------------+
+
+#### Dantrolene pharmacology:
+
++-----------------+---------------------------------------------------------------------------------------------------+
+| Physicochemical | - Glass vial, orange powder                                                                       |
+|                 | - 20mg dantrolene, 3mg mannitol (solubiliser), NaOH                                               |
+|                 | - Add to 60mL H~2~O                                                                               |
+|                 | - Needs mixing +++ (poorly water soluble)                                                         |
+|                 | - ± thrombophlebitis                                                                              |
+|                 | - ± necrosis if extravasated                                                                      |
++-----------------+---------------------------------------------------------------------------------------------------+
+| Pharmacokinetic | - IV or oral                                                                                      |
+|                 | - Low V~D~ 0.6L/kg                                                                                |
+|                 | - 90% plasma protein bound                                                                        |
+|                 | - Hepatic metabolism Phase 1; active metabolite 5-OH-dantrolene                                   |
+|                 | - Renal excretion of metabolites                                                                  |
+|                 | - t~1/2β~ 9 hours                                                                                 |
++-----------------+---------------------------------------------------------------------------------------------------+
+| Pharmacodynamic | - Competitive antagonist at the skeletal muscle RR → ↓Ca^2+^ release → post-junctional relaxation |
+|                 | - Effects: skeletal muscle relaxation, resp paralysis                                             |
+|                 | - No effect on cardiac or CNS ryanodine receptor                                                  |
+|                 | - Side effects rare:                                                                              |
+|                 |   - ↑LFTs                                                                                         |
+|                 |   - APO from IV fluid +++                                                                         |
++-----------------+---------------------------------------------------------------------------------------------------+

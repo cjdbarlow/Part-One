@@ -1,0 +1,93 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005A Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the main biochemical events involved in noradrenergic transmission. Outline how these may be altered by the use of MAO (mono amine oxidase) inhibitors.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} synthesis, storage, release, reuptake and metabolism in sequence, naming enzymes and locations. Then connect MAO inhibition to transmitter availability and the biochemical basis of important interactions.
+
+::: {.structure-headings}
+### Synthesis and Vesicular Storage
+
+### Release and Reuptake
+
+### COMT and MAO Metabolism
+
+### MAO Inhibition and Drug or Food Interactions
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**67 %** of candidates passed this question.
+
+The main points expected for a pass were:
+
+- A schematic outline of norepinephrine (noradrenaline) synthesis from phenylalanine via tyrosine, DOPA, and dopamine, naming enzymes involved and the locations of these reactions
+- Function of the storage vesicle plus the calcium dependent exocytosis following the action potential
+- The biochemical interaction of the norepinephrine and the receptor
+- Breakdown by COMT in cleft (also intracellular) and other organs to form normetanephrine
+- Reuptake of norepinephrine at presynaptic and postsynaptic locations
+- MAO action in nerve terminal or sympathetic varicosities followed by COMT action to 3-methoxy-4-mandelic acid (VMA)
+- Inhibition of MAO resulting in decreased metabolism and subsequent increased activity and potential enhanced availability of norepinephrine plus epinephrine (adrenaline) and serotonin
+- Biochemical sequences explaining the adverse events when indirect or direct acting sympathomimetics, pethidine and derivatives, tyramine containing foods, and serotonin re-uptake inhibitors, are administered in the presence of MAO inhibition
+
+Credit was given for:
+
+- Mention of the MAO A and B sites along with their inhibitors
+- Noting of the reversibility of inhibition of MAO
+- Explanation of the role of false transmitters – MAO-induced e.g. octopamine
+- Mention of the biochemical rationale for the therapeutic use of the MAOIs
+
+Receptor mechanisms and actions were outside the biochemical focus of this question.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2005/A/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neurotransmitters](/content/neuro/neurotransmitters.qmd)
+- [Autonomic nervous system](/content/neuro/ans.qmd)

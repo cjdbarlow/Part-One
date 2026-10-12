@@ -1,0 +1,21 @@
+Paracetamol is an analgesia and antipyretic with an unclear mechanism of action though to include:
+
+- CNA COX inhibition CNS → antipyretic effect (possibly COX3 without peripheral COX effect)
+- 5HT agonist →↑descending modulation (multiple receptor subtypes involved)
+
+**Role**:
+
+- First step in the WHO Analgesic ladder
+- Well tolerated and low side effect profile 
+- Significant opioid sparing effect 
+- Low Risk of toxicity 
+
+**Metabolism and Toxicity**:
+
+Paracetamol is primarily glucuronidated to inactive metabolites
+
+10% metabolised by CYP450 → toxic NAPQI, which is usually conjugated by glutathione to inactive form.
+
+In excess/overdose NAPQI accumulates due to glutathione conjugation pathway exhaustion → acute liver toxicity and centrilobular necrosis
+
+Primary toxic insult cause is acute liver injury.

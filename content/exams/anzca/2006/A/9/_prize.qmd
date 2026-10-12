@@ -1,0 +1,166 @@
+List:
+
+- Response to isotonic exercise
+- Response to isometric exercise
+- Adaptations to isotonic exercise
+- Adaptations to isometric exercise
+
+#### Isotonic exercise:
+
++-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| Example                           | - Jogging                                                                                                                      |
++-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| Energy production                 | - Mostly aerobic                                                                                                               |
++-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| Aim                               | - ↑O~2~ and nutrient delivery to skeletal muscle and heart                                                                     |
+|                                   | - DO~2~ = cardiac output x CaO~2~                                                                                              |
+|                                   | - CVS response: ↑CO                                                                                                            |
+|                                   | - Resp response: ↑CaO~2~                                                                                                       |
++-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| Autonomic response                | - ↑SNS output and ↓PSNS output                                                                                                 |
+|                                   |   - Signals from cortex                                                                                                        |
+|                                   |   - Sensory nerves from muscles                                                                                                |
+|                                   |   - Metabolites produced by active muscle                                                                                      |
++-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| Organ blood flow                  | - Heart: 250 → 1000mL/min                                                                                                      |
+|                                   |   - Mainly due to metabolic autoregulation                                                                                     |
+|                                   |   - ↓pO~2~, ↑pCO~2~/H^+^/K^+^/adenosine/lactate → coronary vasodilation                                                        |
+|                                   | - Skeletal muscle: 1.2→20L/min                                                                                                 |
+|                                   |   - Metabolic autoregulation (as above)                                                                                        |
+|                                   | - Brain: 750mL/min unchanged                                                                                                   |
+|                                   |   - Myogenic autoregulation (↑BP → ↑stretch → reflex contraction → ↓flow)                                                      |
+|                                   |   - Metabolic autoregulation (as above)                                                                                        |
+|                                   | - Kidney: 1100mL/min → 250mL/min                                                                                               |
+|                                   |   - SNS α~1~                                                                                                                   |
+|                                   | - Splanchnic: massive ↓                                                                                                        |
+|                                   |   - SNS α~1~                                                                                                                   |
+|                                   | - Cutaneous:                                                                                                                   |
+|                                   |   - Mild intensity: ↓Q (SNS at α~1~)                                                                                           |
+|                                   |   - Moderate: ↑Q (SNS at mAChR; for heat loss)                                                                                 |
+|                                   |   - Severe: ↓Q (↑↑SNS at α~1~ → redirection to skeletal muscle; failure of heat loss)                                          |
++-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| Preload                           | \*Note ↑↑preload drives ↑↑cardiac output\*                                                                                     |
+|                                   |                                                                                                                                |
+|                                   | - Skeletal muscle vasodilation → ↑venous return (VR)                                                                           |
+|                                   | - SNS α~1~ → constrict capacitance vessels → ↑MSFP                                                                             |
+|                                   | - Skeletal muscle pump → ↑MSFP                                                                                                 |
+|                                   | - Thoracic pump → intermittent ↓CVP → ↑VR                                                                                      |
+|                                   | - Ventricular contraction → atrial elongation → ↓CVP → ↑VR                                                                     |
++-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| Heart rate                        | - Dose-dependent increase up to 220-(age x 0.7)                                                                                |
+|                                   | - ↑SNS β~1~, β~2~: ↑ICF \[Ca^2+^\] → ↑HR                                                                                       |
+|                                   | - Bainbridge effect: ↑venous return → ↑RA stretch → reflex ↑HR                                                                 |
+|                                   |                                                                                                                                |
+|                                   | ![](/content/exams/anzca/2006/A/9/prize-image001.jpg){fig-alt="Heart rate against exercise intensity"}                         |
++-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| Contractility                     | - SNS β~1~, β~2~: ↑ICF \[Ca^2+^\] → ↑contractility                                                                             |
+|                                   | - Bowditch effect: ↑HR → ↓time for Na^+^ efflux by Na^+^K^+^ATPase → ↓Ca^2+^ efflux by Na^+^/Ca^2+^ exchanger → ↑contractility |
++-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| Afterload                         | - Skeletal muscle vasodilatation → ↓↓                                                                                          |
+|                                   |   - Metabolic autoreg (most important)                                                                                         |
+|                                   | - SNS:                                                                                                                         |
+|                                   |   - ↑Synaptic ACh at mAChR (at onset of exercise)                                                                              |
+|                                   |   - ↑Circulating adrenaline at β~2~                                                                                            |
++-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| Stroke volume                     | - Increase mainly between rest and mild-moderate work rate                                                                     |
+|                                   | - Due to ↑preload                                                                                                              |
+|                                   |                                                                                                                                |
+|                                   | ![](/content/exams/anzca/2006/A/9/prize-image002.jpg){fig-alt="Stroke volume against exercise intensity"}                      |
++-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| Cardiac output                    | - ↑ up to 5x                                                                                                                   |
+|                                   | - Mostly due to ↑preload                                                                                                       |
+|                                   | - Also ↓afterload, ↑HR, ↑contractility                                                                                         |
++-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| Blood pressure                    | - Changes:                                                                                                                     |
+|                                   |   - ↑SBP: due to ↑SV                                                                                                           |
+|                                   |   - ↓DBP: due to ↓afterload                                                                                                    |
+|                                   |   - mAP: minimal change                                                                                                        |
+|                                   | - Causes:                                                                                                                      |
+|                                   |   - ↑Cardiac output                                                                                                            |
+|                                   |   - Right shift of baroreceptor reflex                                                                                         |
+|                                   |   - Partly offset by ↓SVR                                                                                                      |
+|                                   |                                                                                                                                |
+|                                   | ![](/content/exams/anzca/2006/A/9/prize-image003.jpg){fig-alt="Blood pressure against exercise intensity"}                     |
++-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| Oxyhaemoglobin dissociation curve | - Bohr effect: ↑pCO~2~, ↑\[H^+^\] → right shift                                                                                |
+|                                   | - At tissues: ↑temp/↓pO~2~/↑H^+^ → ↑2,3-DPG → right shift                                                                      |
+|                                   | - Hence ↑O~2~ extraction\                                                                                                      |
+|                                   |   \                                                                                                                            |
+|                                   |                                                                                                                                |
+|                                   | (mentioned by the examiner)                                                                                                    |
++-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+
+#### Isometric exercise:
+
++-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Example                           | - Deadlift                                                                                                                                   |
++-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Energy production                 | - Mostly anaerobic                                                                                                                           |
++-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Aim                               | - During reps: prevent ↑↑BP (responses as follows)                                                                                           |
+|                                   | - Between reps: as for aerobic (responses as for isometric)                                                                                  |
++-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Autonomic response                | - Baroreceptor reflex (BR):                                                                                                                  |
+|                                   |   - ↑↑SVR → ↑mAP → ↑stretch in aortic and carotid sinuses                                                                                    |
+|                                   |   - ↓SNS and ↓PSNS output                                                                                                                    |
+|                                   |   - ↓HR, ↓contractility, vasodilatation                                                                                                      |
++-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Organ blood flow                  | - Similar redirection to aerobic exercise, but to a lesser extent                                                                            |
++-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Preload                           | - Valsalva → ↑intrathoracic pressure → ↓preload                                                                                              |
++-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Heart rate                        | - ↓ due to baroreceptor reflex                                                                                                               |
++-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Contractility                     | - ↑: due to Anrep effect: ↑afterload → stretch activation of Na^+^/H^+^ channel → ↓Ca^2+^ efflux by Na^+^/Ca^2+^ exchanger → ↑ICF \[Ca^2+^\] |
+|                                   | - ↓: due to baroreceptor reflex                                                                                                              |
++-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Afterload                         | - ↑ due to:                                                                                                                                  |
+|                                   |   - Skeletal muscle contraction                                                                                                              |
+|                                   |   - Valsalva manoeuvre                                                                                                                       |
+|                                   | - Partly offset by baroreceptor reflex                                                                                                       |
++-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Stroke volume                     | - ↓ due to:                                                                                                                                  |
+|                                   |   - ↑Afterload                                                                                                                               |
+|                                   |   - Baroreceptor reflex                                                                                                                      |
++-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Cardiac output                    | - ↓ due to:                                                                                                                                  |
+|                                   |   - ↑Afterload                                                                                                                               |
+|                                   |   - Baroreceptor reflex                                                                                                                      |
++-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Blood pressure                    | - ↑SBP, DBP, mAP                                                                                                                             |
+|                                   | - Due to ↑SVR                                                                                                                                |
++-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Oxyhaemoglobin dissociation curve | - Lesser extent                                                                                                                              |
++-----------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Adaptation to isotonic exercise:
+
++-----------------+---------------------------------------------------------------------------------------+
+| Heart           | - ↑Mitochondria, ↑TCA cycle and fatty acid oxidative enzymes                          |
+|                 | - Eccentric hypertrophy (due to ↑preload)                                             |
+|                 | - ↑SV, ↑max cardiac output                                                            |
+|                 | - ↓Resting HR                                                                         |
++-----------------+---------------------------------------------------------------------------------------+
+| Blood vessels   | - Angiogenesis in skeletal muscles                                                    |
++-----------------+---------------------------------------------------------------------------------------+
+| Blood           | - ↓pO~2~ in renal interstitium → ↑EPO → ↑erythropoiesis → ↑CaO~2~ → DO~2~ in exercise |
++-----------------+---------------------------------------------------------------------------------------+
+| Skeletal muscle | - ↑Mitochondria                                                                       |
+|                 | - ↑Glycogen synthesis                                                                 |
+|                 | - ↑Enzymes for TCA cycle, fatty acid oxidation                                        |
++-----------------+---------------------------------------------------------------------------------------+
+
+#### Adaptation to isometric exercise:
+
++-----------------+----------------------------------------------+
+| Heart           | - Concentric hypertrophy (due to ↑afterload) |
+|                 |                                              |
+|                 | (comes at the cost of ↓LV compliance)        |
++-----------------+----------------------------------------------+
+| Blood vessels   | - Minimal                                    |
++-----------------+----------------------------------------------+
+| Blood           | - Minimal                                    |
++-----------------+----------------------------------------------+
+| Skeletal muscle | - Hypertrophy                                |
+|                 | - ↑Glycolytic enzymes                        |
++-----------------+----------------------------------------------+

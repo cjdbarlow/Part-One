@@ -1,0 +1,95 @@
+#### List:
+
+- PC
+- PK
+- PD
+
+#### Physicochemical:
+
++-------------+---------------------------------------------------------------------+
+| Class       | - Mepivacaine series                                                |
++-------------+---------------------------------------------------------------------+
+| Structure   | - Lipid soluble modified benzene ring                               |
+|             | - Intermediate chain with amide bond                                |
+|             | - Terminal amine: piperidine ring with propyl (C~3~H~7~) addition   |
+|             | - Exhibits optical stereoisomerism:                                 |
+|             |   - S enantiomer more potent and less toxic                         |
+|             |   - Hence produced as an enantiopure preparation                    |
++-------------+---------------------------------------------------------------------+
+| Behaviour   | - Lipid solubility very high 300x procaine → ↑potency, ↑toxicity    |
+|             | - Weak base. pKa 8.1                                                |
+|             | - 15% unionized at ECF pH (7.4) (cf. 25% lignocaine) → slower onset |
+|             | - 90% ionized at ICF pH (6.8)                                       |
++-------------+---------------------------------------------------------------------+
+| Formulation | - Aqueous solution                                                  |
+|             | - 0.2%, 0.75%, 1%                                                   |
+|             | - No added adrenaline due to intrinsic vasoconstrictor property     |
++-------------+---------------------------------------------------------------------+
+
+#### Pharmacokinetics:
+
++-----------------------------+-----------------------------------------------------------------------------------------------------+
+| Administration              | - Routes: subcut, around peripheral nerve or plexus, epidural, subarachnoid                         |
++-----------------------------+-----------------------------------------------------------------------------------------------------+
+| Time course                 | - Dependent upon location                                                                           |
+|                             | - Medium onset \~30 mins for large peripheral nerve block                                           |
+|                             | - Duration long \~12-24 hours for large peripheral nerve block                                      |
++-----------------------------+-----------------------------------------------------------------------------------------------------+
+| Absorption                  | - Rate: tracheal \> intercostal \> caudal \> paracervical \> epidural \> plexus \> peripheral nerve |
++-----------------------------+-----------------------------------------------------------------------------------------------------+
+| Distribution                | - 94% plasma protein bound                                                                          |
+|                             | - Highly tissue protein bound → ↑duration of action                                                 |
+|                             | - V~D~ 0.5L/kg                                                                                      |
++-----------------------------+-----------------------------------------------------------------------------------------------------+
+| Metabolism                  | - Hepatic CYP450                                                                                    |
+|                             | - Metabolites: 3-OH and 4-OH-ropivacaine; both have some LA activity                                |
+|                             | - t~1/2~~β~ 120mins                                                                                 |
++-----------------------------+-----------------------------------------------------------------------------------------------------+
+| Excretion                   | - Metabolites → urine                                                                               |
++-----------------------------+-----------------------------------------------------------------------------------------------------+
+| Comparison with bupivacaine | - ↓t~1/2~~β~ → ↓duration toxicity                                                                   |
+|                             | - Vasoconstriction → ↓rate of systemic absorption → ↓peak plasma concentration                      |
++-----------------------------+-----------------------------------------------------------------------------------------------------+
+
+#### Pharmacodynamics:
+
++-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Target                      | - Voltage-dependent Na^+^ channel (VDNaC)                                                                                                    |
+|                             | - (less active at VDKC, VDCaC)                                                                                                               |
++-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Entry                       | - From ICF: unionised form diffuses into axoplasm, ionised form enters active receptor                                                       |
+|                             | - From ECF: ionised form enters active receptor (less common)                                                                                |
++-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Binding                     | - Rate ∝ time spent in active state ∝ rate of cycling ∝ nerve activity                                                                       |
+|                             | - Affinity ∝ Inactive \> resting \> activated                                                                                                |
++-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Effect                      | - ↓Rate of cycling → no action potential propagation                                                                                         |
+|                             | - Initial: incomplete blockade, tonic                                                                                                        |
+|                             | - Repeated stimulation: complete blockade, phasic                                                                                            |
+|                             | - No change to resting potential                                                                                                             |
+|                             |                                                                                                                                              |
+|                             | ![](/content/exams/anzca/2004/B/2/prize-image001.jpg){fig-alt="Neuronal action potential with and without local anaesthetic"}                |
++-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Comparison with bupivacaine | - Motor block slower onset, ↓ density, faster offset than bupivacaine                                                                        |
+|                             |   - Allows differential blockade (i.e. sensory but not motor)                                                                                |
+|                             | - ↓ affinity for cardiac VDNaC → ↓CC:CNS                                                                                                     |
++-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| LAST                        | Numbers:                                                                                                                                     |
+|                             |                                                                                                                                              |
+|                             | - Toxic concentration: 4mcg/mL (CVS collapse)                                                                                                |
+|                             | - Max safe subcut dose 3mg/kg                                                                                                                |
+|                             | - CC:CNS ratio 5:1 (cf. 3:1 bupiv, 7:1 ligno)                                                                                                |
+|                             |                                                                                                                                              |
+|                             | CNS effects:                                                                                                                                 |
+|                             |                                                                                                                                              |
+|                             | - Initial excitatory (block inhibitory interneurons): peri-oral tingling, vertigo, tinnitus, inattention, slurred speech, twitching, seizure |
+|                             | - Then inhibitory (block excitatory interneuron): coma, apneoa                                                                               |
+|                             | - Hyperventilation → ↓PaCO~2~ → cerebral vasoconstriction → ↓toxicity                                                                        |
+|                             |                                                                                                                                              |
+|                             | CVS effects:                                                                                                                                 |
+|                             |                                                                                                                                              |
+|                             | - First phase: ↑HR, ↑mAP                                                                                                                     |
+|                             | - Second phase: myocardial depression, ↓mAP                                                                                                  |
+|                             | - Terminal phase: peripheral vasodilatation, severe ↓mAP, arrythmia, arrest                                                                  |
+|                             | - Arrhythmias: sinus bradycardia, AV block, ventricular tachyarrhythmia, asystole                                                            |
++-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+

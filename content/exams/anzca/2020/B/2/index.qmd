@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2020B Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Draw and label**]{.task-verb} a lead II electrocardiogram (ECG) tracing for one cardiac cycle, indicating normal intervals and values. [**What is**]{.task-verb} the PR interval and [**what factors**]{.task-verb} influence it?
+:::
+
+Also asked in: [2007B Question 16](/content/exams/anzca/2007/B/16/index.qmd#examiner-comments), [2019B Question 3](/content/exams/anzca/2019/B/3/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Draw and label**]{.task-verb} one cardiac cycle with axes, waves, intervals and normal values. Explain [**what**]{.task-verb} the PR interval represents and show [**what factors**]{.task-verb} lengthen or shorten it, with a physiological explanation.
+
+::: {.structure-headings}
+### Lead II Tracing With Normal Values
+
+### PR Interval Definition and Physiological Basis
+
+### Autonomic Influences
+
+### Electrolytes, Temperature and Oxygenation
+
+### Drugs and Conduction System Abnormalities
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The major domains assessed in this question were (1) the ECG diagram (2) a description of the physiological basis for the PR interval and its importance (3) a description and some explanation of factors that increased the PR interval (4) a description and some explanation of factors that decreased the PR interval. The drawing of the ECG often lacked detail and contained errors. Good answers included labeled axes, values, and were precise with where waves and intervals started and finished. For this question, half a page in the answer book would be an appropriate size to enable adequate and accurate detail. Often the PR interval was drawn incorrectly (or not indicated) and other intervals (QRS, ST Segment, QT Interval) were omitted or incorrect. Correctly written descriptions of the intervals were given credit. It was expected that a range of ‘normal’ values would be quoted for each interval, rather than a single number. A definition of the ECG was unnecessary as were details about leads or Einthoven’s triangle or mechanical factors of the heart – which did not score marks. A common error was a failure to distinguish between the electrical activity and mechanical activity of the heart. The physiological basis for the PR interval was often not discussed or incorrectly described. The importance of the PR Interval should be highlighted. Similarly, factors influencing the PR interval were omitted, listed without discussion, or without explanation of effect on PR interval (i.e. increased or decreased). Errors and imprecise statements were common e.g. ‘electrolytes affect the PR interval’. Comments about the effect on AV conduction of several of these factors: the autonomic nervous system, electrolyte abnormalities, drugs, and pathology (fibrosis, accessory pathways, ischaemia) scored marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2007/B/16/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/B/16/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Electrocardiography](/content/equipment/ecg.qmd)

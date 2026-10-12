@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000B Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Classify**]{.task-verb} diuretics giving examples and briefly explaining their action.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Classify**]{.task-verb} diuretics in a table by site or mechanism, giving an example and briefly explaining the action of each class.
+
+::: {.structure-table}
+| Class | Example | Site and Mechanism |
+|---|---|---|
+| Carbonic Anhydrase Inhibitors | | |
+| Loop Diuretics | | |
+| Thiazides | | |
+| Potassium-Sparing Agents | | |
+| Osmotic Diuretics | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**79%** of candidates achieved a pass for this question. While possible to classify diuretics in a ‘uniform way’ by their site of action (action on proximal tubule, loop of Henle, etc.) or mechanism (osmotic, inhibitor of ion exchange, etc.), the majority of standard texts use a mixture of these. Thus acceptable answers for this question could include any of the above, as long as all major types of diuretics were mentioned. The commonest classifications used were: action in proximal tubule (carbonic anhydrase inhibitor); loop of Henle (loop diuretics); distal tubule (thiazide compounds); collecting ducts (potassium ‘sparing’ agents); osmotic agents.
+
+A specific example was expected for each of the other ‘major’ classes (e.g. acetazolamide, frusemide, chlorothiazide, spironolactone, mannitol).
+
+A brief but clear explanation of the mechanism of action was expected. It was commonly assumed that a description of altered ion flux alone was an explanation of diuresis. This was particularly apparent in descriptions of inhibition of carbonic anhydrase. Few answers mentioned the effect of osmotic diuretics on the renal medulla’s concentration gradient or the difference between the site of action of spironolactone and other potassium sparing diuretics such as triamterene. Mention of diuresis secondary to increases in cardiac output, renal blood flow and glomerular filtration, or to antagonism of the effects of antidiuretic hormone, also received credit.
+
+Details of the therapeutic uses of diuretics gained no credit.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Diuretics](/content/pharmacopoeia/renal/diuretics.qmd)

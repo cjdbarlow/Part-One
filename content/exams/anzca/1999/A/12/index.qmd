@@ -1,0 +1,74 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999A Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the phenomena known as fade and post tetanic facilitation associated with the use of neuromuscular blocking agents.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} each phenomenon by linking the observed twitch response to presynaptic acetylcholine mobilisation during non-depolarising blockade.
+
+::: {.structure-table}
+| Phenomenon | Observed Response | Presynaptic Mechanism |
+|---|---|---|
+| Fade | | |
+| Post Tetanic Facilitation | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The overall pass rate for this question was about **43%**. Most candidates seemed to appreciate that this question required an explanation of the mechanism of Fade and Post Tetanic Facilitation (PTF) as seen with the non-depolarising class of neuromuscular blocking drugs. The question clearly did not call for any discussion about how these phenomena are elicited in clinical practice nor the clinical relevance or usefulness of the elicitation of these phenomena. A few candidates indicated that Fade and PTF are restricted to the adductor pollcius muscle alone. Quite a few candidates ignored the term PTF and wrote entirely on Post Tetanic Count. The two are different and candidates must be careful to answer the question.
+
+Most candidates furnished a definition of Fade and PTF and whilst this was not explicitly called for, it did appear to provide a good starting point to their answers. Fade exists when, during a partial non-depolarising block, administration of frequent repeated stimuli eg. Train of Four, results in a reduction of twitch height with each of the subsequent stimuli. Post Tetanic Facilitation is seen during partial non-depolarising blockade when after a tetanic stimulation is applied to a nerve-muscle unit there is seen after a delay, of classically three seconds, a potentiation of twitch height with a subsequently applied single supra maximal stimulus.
+
+The explanation of Fade should have included discussion of pre-junctional nicotinic receptors involved in a positive feedback loop with Acetylcholine (ACh) being blocked by the non-depolarising neuromuscular blocking agent resulting in reduced production of ACh vesicles and therefore less vesicles available for release. The explanation of Post Tetanic Facilitation required some discussion of temporarily increased mobilisation of ACh vesicles into the pre-junctional area for ready release as a result of tetanus.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/A/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neuromuscular monitoring](/content/equipment/neuromuscular_monitoring.qmd)
+- [Neuromuscular blockers](/content/msk/neuromuscular_blockers.qmd)

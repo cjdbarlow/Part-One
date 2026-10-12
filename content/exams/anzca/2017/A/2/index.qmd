@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2017A Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Compare and contrast**]{.task-verb} oxygen delivery via nasal cannulae (nasal prongs/specs), simple face mask (eg Hudson or CIG mask) and Venturi mask.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Compare and contrast**]{.task-verb} the three devices in parallel. Explain how oxygen flow, inspiratory demand and air entrainment determine delivered concentration, then relate device design to rebreathing and practical advantages and disadvantages.
+
+::: {.structure-table}
+| Feature | Nasal Cannulae | Simple Face Mask | Venturi Mask |
+|---|---|---|---|
+| Device and Physical Principle | | | |
+| Fixed or Variable Performance | | | |
+| Flow and Delivered Oxygen Concentration | | | |
+| Reservoir, Dead Space and Rebreathing | | | |
+| Factors Affecting Performance | | | |
+| Advantages and Disadvantages | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**39.3 %** of candidates achieved a pass in this question
+
+This can be answered either in tabular form or under separate headings.
+
+A good answer included most of the following: performance type (variable or fixed), oxygen reservoir, physical principle utilised, gas flow rates, range of FiO2 possible, risk of rebreathing, advantages/disadvantages and factors affecting performance.
+
+Better candidates demonstrated understanding of the relationship between peak inspiratory flow and FiO2 in each device, and the effect of ventilatory pattern. Stating those conditions that favour higher FiO2 is a concise way to show such knowledge.
+
+Additional marks were awarded for explaining the Bernoulli effect, Venturi effect and application of jet entrainment. A diagram of such often provided valuable clarification.
+
+Extensive lists of advantages were not alone sufficient to pass.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2017/A/2/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2017/A/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Supplemental oxygen](/content/equipment/oxygen_delivery.qmd)

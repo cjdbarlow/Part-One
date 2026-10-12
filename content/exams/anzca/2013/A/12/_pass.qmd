@@ -1,0 +1,24 @@
+Central neuraxial blockade refers to blockade of fibres in the spinal cord by administration of intrathecal or epidural local anaesthetic.
+
+#### **Cardiovascular Responses**
+
+- Occur due to blockade of sympathetic chain fibres in the thoracolumbar region.
+- Sympathetic chain supplied by T1-L2
+- Normal physiological response is by the Baroreceptor feedback mechanism 
+  - high pressure baroreceptors in aortic arch and carotid sinus detect ↓stretch → ↓afferent firing → ↓inhibition of SNS
+  - usually results in: ↑HR ↑veno and vasoconstriction
+
+**Primary CVS effect of blockage is ↓MAP**
+
+- A1 and B fibres travel through the thoracolumbar region. Blocks affecting this level affect SNS activity on vascular smooth muscle → Vado dilation → ↑venous capacity and ↓preload, ↓SVR → ↓Afterload 
+- An increasing level of block will lead to greater effects:
+  - Sacral:
+    - Parasympathetic blockade only. Minimal CVS effects.
+  - Lower thoracic/lumbar
+    - Arteriolar and venous vasodilation in lower abdomen and lower limbs, causing a fall in SVR, BP, and GFR.
+  - Upper thoracic
+    - Loss of cardioaccelerator fibres above T5 (T1-4), causing a reduction in heart rate and contractility, compounding hypotension due to fall in SVR.
+  - Cranial Nerve
+    - Vagal blockade will reduce PNS tone and attenuate some of the loss of SNS tone.
+  - Brainstem
+    - Inhibition of vasomotor centre with profound fall in CVS parameters.

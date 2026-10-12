@@ -1,0 +1,85 @@
+#### List:
+
+- Intro: aim, problems, risks
+- Bridging plans
+- PK
+- PD
+
+#### Intro:
+
++----------+-----------------------------------------------------------------------------------------------+
+| Aim      | - Minimize time with inadequate anticoagulation if at high risk (e.g mechanical mitral valve) |
++----------+-----------------------------------------------------------------------------------------------+
+| Problems | - Warfarin: slow onset; long and variable duration of action                                  |
+|          | - LMWH: short duration, parenteral only, only partially reversible                            |
++----------+-----------------------------------------------------------------------------------------------+
+| Risks    | - Of bleeding: Warfarin and LMWH have additive effects → avoid overlap pre-op                 |
+|          | - Of clotting: Warfarin initially procoagulant → ensure overlap post-op                       |
++----------+-----------------------------------------------------------------------------------------------+
+
+#### Bridging plans:
+
++---------+--------------------------------------------------------------------------+
+| Pre-op  | - Stop warfarin 5 x 24h pre-op                                           |
+|         | - Start LMWH 1.5mg/kg daily 3/24 pre-op; 1mg/kg 24h pre-op then no more. |
+|         | - Check INR on AM of surgery; usually aim \<1.5 (surgery dependent)      |
+|         | - Warfarin reversal if required                                          |
+|         |   - Vitamin K e.g. 2mg IV (6-12 hours), 5-10mg PO (12-24 hours)          |
+|         |   - FF 2-4mL/kg + Prothrombinex 25-50 units/kg (immediate effect)        |
+|         |   - FFP only 10-15mL/kg (immediate effect)                               |
++---------+--------------------------------------------------------------------------+
+| Post-op | - Start LMWH 1.5mg/kg daily or 1mg/kg bd when safe                       |
+|         | - Start warfarin at same time                                            |
+|         | - Cease LMWH when INR at target (e.g. 2-3)                               |
++---------+--------------------------------------------------------------------------+
+
+#### Pharmacokinetics:
+
++----------------------+----------------------------------------------------+------------------------------------------------------------------------------------------+
+|                      | **Warfarin**                                       | **Low molecular weight heparins (LMWH)**                                                 |
++======================+====================================================+==========================================================================================+
+| Admin                | - PO daily                                         | - S/C therapeutic 1.5mg/kg daily or 1mg/kg bd                                            |
+|                      |                                                    | - S/C prophylactic 40mg daily                                                            |
++----------------------+----------------------------------------------------+------------------------------------------------------------------------------------------+
+| Time course (normal) | - Onset 8-12 hours                                 | - Peak 4 hours                                                                           |
+|                      | - Peak anticoag 72 hours                           | - Offset 24 hours therapeutic dose 1.5mg/kg daily, 12 hours prophylactic (40mg in adult) |
+|                      | - Offset 3-5 days                                  |                                                                                          |
++----------------------+----------------------------------------------------+------------------------------------------------------------------------------------------+
+| Absorption           | - Oral bioav 90%                                   | - Oral bioav minimal                                                                     |
++----------------------+----------------------------------------------------+------------------------------------------------------------------------------------------+
+| Distribution         | - V~D~ 0.1L/kg                                     | - V~D~ 0.1L/kg                                                                           |
+|                      | - Plasma protein binding \>95% (albumin, own site) | - PPB \>95% (AT3)                                                                        |
+|                      | - Crosses placenta                                 |                                                                                          |
++----------------------+----------------------------------------------------+------------------------------------------------------------------------------------------+
+| Metabolism           | - Phase 1 (multiple CYP) then Phase 2              | - Minimal metabolism by heparinase (desulfation, depolymerization)                       |
+|                      | - t~1/2β~ 40 hours                                 |                                                                                          |
++----------------------+----------------------------------------------------+------------------------------------------------------------------------------------------+
+| Excretion            | - Inactive metabolites → urine and faeces          | - Mostly renal elimination                                                               |
+|                      |                                                    | - ↓GFR → ↑duration hence ↓dose                                                           |
++----------------------+----------------------------------------------------+------------------------------------------------------------------------------------------+
+| Factors ↑duration    | - CYP inhibitor: e.g. cimetidine                   | - ↓GFR                                                                                   |
+|                      | - Liver dysfunction: e.g. cirrhosis                |                                                                                          |
+|                      | - Vit K deficiency: e.g. malnutrition              |                                                                                          |
++----------------------+----------------------------------------------------+------------------------------------------------------------------------------------------+
+
+#### Pharmacodynamics:
+
++-----------------+--------------------------------------+-------------------------------------------------------------------------------+
+|                 | **Warfarin**                         | **LMWH**                                                                      |
++=================+======================================+===============================================================================+
+| Mechanism       | - Inhibit Vit K epoxide reductase    | - Pentasaccharide sequence binds and potentiates AT3 by conformational change |
+|                 |                                      | - LMWH-bound AT3 inhibits coag factors                                        |
+|                 | →↓ γ-glutamyl carboxylation          |                                                                               |
+|                 |                                      |                                                                               |
+|                 | →↓ synthesis of zymogen              |                                                                               |
++-----------------+--------------------------------------+-------------------------------------------------------------------------------+
+| Anticoagulation | Reduced synthesis of:                | Inhibition of:                                                                |
+|                 |                                      |                                                                               |
+| (and t~1/2β~)   | - II (60), VII (6), IX (24), X (36)\ | - Xa:IIa (ratio 2-3:1)                                                        |
+|                 |   (note long t~1/2~ II, X)           | - Also VIIa-TF complex, IX, XI                                                |
++-----------------+--------------------------------------+-------------------------------------------------------------------------------+
+| Procoagulation  | Reduced synthesis of:                | - Nil                                                                         |
+|                 |                                      |                                                                               |
+| (and t~1/2β~)   | - Protein C (8), protein S (30)\     |                                                                               |
+|                 |   (note short t~1/2~ protein C)      |                                                                               |
++-----------------+--------------------------------------+-------------------------------------------------------------------------------+

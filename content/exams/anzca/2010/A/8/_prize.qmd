@@ -1,0 +1,31 @@
++--------------------------------+------------------------------+------------------------------------------+
+|                                | **Avoid serotonergic drugs** | **Avoid indirect acting noradrenergics** |
++================================+==============================+==========================================+
+| SSRI e.g. fluoxetine           | Y                            |                                          |
++--------------------------------+------------------------------+------------------------------------------+
+| SNRI e.g. venlafaxine          | Y                            | Y                                        |
++--------------------------------+------------------------------+------------------------------------------+
+| NRI e.g. reboxetine            |                              | Y                                        |
++--------------------------------+------------------------------+------------------------------------------+
+| TCA e.g. amitryptiline         | Y                            | Y                                        |
++--------------------------------+------------------------------+------------------------------------------+
+| MAO inhibitor e.g. moclobemide | Y                            | Y                                        |
++--------------------------------+------------------------------+------------------------------------------+
+
+#### Drug interactions:
+
++---------------------+-----------------------------------------------------------------------------------+
+| Serotonin syndrome  | - Cause: serotonin reuptake inhibitor + tramadol/pethidine                        |
+|                     | - Features:                                                                       |
+|                     |   - CNS (agitation)                                                               |
+|                     |   - ANS (↑HR, ↑BP, sweating)                                                      |
+|                     |   - PNS (hyperreflexia, clonus)                                                   |
+|                     |   - GI upset (nausea)                                                             |
+|                     | - Treatment: cyproheptadine                                                       |
++---------------------+-----------------------------------------------------------------------------------+
+| Hypertensive crisis | - Cause: noradrenaline reuptake inhibitor + indirect acting sympathomimetic amine |
+|                     | - Especially ephedrine                                                            |
+|                     | - Avoid indirect-acting vasopressors, especially ephedrine                        |
+|                     | - Use direct-acting vasopressors i.e. phenylephrine, noradrenaline                |
+|                     | - Treatment: adrenergic antagonist e.g. labetalol, phentolamine                   |
++---------------------+-----------------------------------------------------------------------------------+

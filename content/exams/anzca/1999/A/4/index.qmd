@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999A Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} how the kidney handles glucose. [**Describe**]{.task-verb} the physiological consequences of glycosuria.
+:::
+
+Also asked in: [2001B Question 6](/content/exams/anzca/2001/B/6/index.qmd#examiner-comments), [2004A Question 16](/content/exams/anzca/2004/A/16/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} renal glucose handling from filtration through tubular reabsorption, using a labelled glucose titration curve to show transport maximum and splay. Then [**describe**]{.task-verb} the consequences of glycosuria under the following headings.
+
+::: {.structure-headings}
+### Glomerular Filtration
+
+### Tubular Reabsorption
+
+### Transport Maximum, Threshold and Splay
+
+### Renal and Systemic Consequences of Glycosuria
+
+### Compensatory Responses
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**49%** of candidates passed this question. To answer the question adequately, candidates should point out that glucose is filtered at the glomerulus and reabsorbed in the proximal tubule by a secondary active transport mechanism, using energy supplied by Na/K ATPase. Reabsorption increases as glucose filtration increases up to a transport maximum (Tm), above which glucose appears in the urine. They should also mention that glycosuria causes an osmotic diuresis, as glucose holds water and sodium in the proximal tubule, causing urinary loss of water, sodium and other electrolytes and consequent hypovolaemia and electrolyte and osmotic imbalance. High fluid flow in the nephron washes out the medullary osmotic gradient, impairing the kidney’s ability to concentrate urine. Loss of glucose represents a loss of nutrient and energy.
+
+Other points, which gained marks, included discussion of the link between sodium and glucose absorption, and of the reason for Tm limitation. Discussion of the mechanism of potassium loss and mention of the body’s response to osmotic effects of glycosuria on the circulation and extracellular fluid also gained marks.
+
+Common errors included the assumption that glycosuria equals diabetes mellitus, and consequent irrelevant discussion of ketoacidosis and its consequences. Several candidates incorrectly stated that glucose was secreted by the nephron. Others repeated, more or less verbatim, the account of renal glucose handling given in Ganong, with little evidence of understanding.
+
+Exact statements are more likely to gain marks than vague, imprecise ones. Undefined abbreviations and forms of shorthand (eg “c”) which clearly have some meaning to the candidate, but not to the examiner, should be avoided.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/A/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Glomerular filtration](/content/renal/glomerular_filtration.qmd)
+- [Sodium and water handling](/content/renal/sodium.qmd)
+- [Glucose physiology](/content/endo/glucose.qmd)

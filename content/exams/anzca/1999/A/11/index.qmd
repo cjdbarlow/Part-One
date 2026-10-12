@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999A Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly compare and contrast**]{.task-verb} the clinical pharmacology of atropine, hyoscine (scopolamine) and glycopyrrolate.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly compare and contrast**]{.task-verb} the three drugs in a table covering **Sources and Structure**, **Receptor Actions**, **Pharmacodynamics**, **Pharmacokinetics**, **Clinical Uses and Doses**, and **Toxicity**.
+
+::: {.structure-table}
+| Feature | Atropine | Hyoscine | Glycopyrrolate |
+|---|---|---|---|
+| Sources and Structure | | | |
+| Receptor Actions | | | |
+| Pharmacodynamics | | | |
+| Pharmacokinetics | | | |
+| Clinical Uses and Doses | | | |
+| Toxicity | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Many candidates struggled with this question with **42%** passing. There were two main problems:
+
+1. Inadequate attempts to compare and contrast the pharmacology of the three drugs; and
+2. Consideration of only one aspect of the pharmacology (eg. pharmacodynamics)
+
+Remarkably, only about half the candidates stated that these drugs act at muscarinic receptors. Very few identified the drugs as competitive antagonists. The candidates should be very careful not to omit core information such as this - planning would help.
+
+Historical aspects were not well covered. Some candidates mentioned the sources of atropine and hyoscine in nature, but very few mentioned the use of atropine with ether or hyoscine with Omnopon. As far as structure-activity relationships went, most candidates identified the fundamental differences between atropine and hyoscine, and glycopyrrolate. However, very few talked about isomers and the relationship of the drugs to the ionic site on the receptor. Only three candidates attempted to draw the structures.
+
+Pharmacodynamic and pharmacokinetic differences were discussed fairly well. Toxicity was also frequently discussed, however, many candidates incorrectly stated that “central cholinergic syndrome” was a problem. Many candidates failed to mention doses and a surprisingly large number did not mention the use of these drugs in antagonising neuromuscular blockade.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Antimuscarinics (Cardiac)](/content/pharmacopoeia/autonomic/antimuscarinicsansmd.qmd)

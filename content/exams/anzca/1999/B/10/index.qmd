@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999B Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} factors determining speed of onset of neuromuscular blocking agents.
+:::
+
+Also asked in: [2004A Question 2](/content/exams/anzca/2004/A/2/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} onset as a sequence from administered dose to muscle perfusion, effect-site transfer and receptor effect. Distinguish dose from concentration and speed of onset from onset time.
+
+::: {.structure-headings}
+### Definition and Delivery to Muscle
+
+### Dose, Potency and Effect-Site Transfer
+
+### Depolarising and Non-Depolarising Agents
+
+### Muscle Groups, Administration and Priming
+
+### Patient Factors and Other Drugs
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**58%** of candidates passed this question. This was a question essentially addressing pharmacokinetics and pharmacodynamcis involved with drug delivery, distribution to the effector site and interaction at the effector site. As a result the better answers presented a balanced understanding of drug and patient related factors.
+
+The candidate should be able to provide information regarding:
+
+1. Drug factors: physicochemical properties, dose and potency concepts
+2. Patient factors: rate and site of injection, cardiac output and muscle blood flow and receptor kinetics
+3. Other factors: the differences in responses different muscle group that are monitored and the effect of the priming principle
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/B/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neuromuscular blockers](/content/msk/neuromuscular_blockers.qmd)

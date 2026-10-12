@@ -1,0 +1,62 @@
+#### List:
+
+- Pulse oximetry principles: device, physical basis, how it works (keep it brief)
+- Sources of error: intrinsic, probe, patient
+
+#### Pulse oximetry: 
+
++----------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Components     | - Probe on the finger, nose, ear                                                                                                                                   |
+|                | - Two monochromatic LEDs on one side, rapid on and off                                                                                                             |
+|                | - Photodetector on the other side                                                                                                                                  |
+|                | - Cable to processor/display                                                                                                                                       |
++----------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Physical basis | (1) Beer-Lambert principle: I = I~0~e^-ax^                                                                                                                         |
+|                |     - Aborption ∝ concentration of the absorbing substance in the medium (Beer’s law)                                                                              |
+|                |     - Absorption ∝ distance travelled through the medium (Lambert’s law)                                                                                           |
+|                |     - Describes the basis for, but not the functioning of, the pulse oximeter                                                                                      |
+|                | (2) Known absorption spectra:                                                                                                                                      |
+|                |     - 940nm: HbO~2~ \> HHb                                                                                                                                         |
+|                |     - 660nm: HbO~2~ \< HHb                                                                                                                                         |
+|                |                                                                                                                                                                    |
+|                |     ![](/content/exams/anzca/2016/B/7/prize-image001.jpg){fig-alt="Absorption spectra of oxyhaemoglobin, deoxyhaemoglobin, carboxyhaemoglobin and methaemoglobin"} |
++----------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| How it works   | (1) Pulsatile signal isolated                                                                                                                                      |
+|                |     - Exclude venous and tissue absorption                                                                                                                         |
+|                | (2) Ratio of absorbances calculated                                                                                                                                |
+|                |     - Ratio = (pulsatile~660~ / non-pulsatile~660~) / (pulsatile~940~ / non-pulsatile~940~)                                                                        |
+|                | (3) Ratio correlated with SaO~2~ derived from experiments                                                                                                          |
+|                |     - R 0.4 → 100%                                                                                                                                                 |
+|                |     - R 1 → 85%                                                                                                                                                    |
+|                |     - R 2 → 50%                                                                                                                                                    |
++----------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Causes of inaccuracy:
+
++-----------+-------------------------------------------------------------------+
+| Intrinsic | - Low extreme of range                                            |
+|           |   - 70-100% ±2                                                    |
+|           |   - 50-70% ±3                                                     |
+|           |   - \<50% inaccurate                                              |
+|           | - Lag time for signal: signal averaged over 10-20 seconds         |
+|           | - Lag time for problem:                                           |
+|           |   - e.g. airway obstruction → delay between problem and detection |
+|           | - Unable to discern dyshaemoglobins due to number of LEDs         |
+|           |   - HbCO: tends toward 96%                                        |
+|           |   - MetHb: tends towards 85%                                      |
+|           | - May be inaccurate in arrhythmias (variation in pulse amplitude) |
++-----------+-------------------------------------------------------------------+
+| Probe     | - Physical interference:                                          |
+|           |   - Excessive movement                                            |
+|           |   - Ambient light                                                 |
+|           |   - Nail varnish                                                  |
+|           | - Electrical interference: especially diathermy                   |
++-----------+-------------------------------------------------------------------+
+| Patient   | - Inadequate signal:                                              |
+|           |   - ↓Cardiac output                                               |
+|           |   - Vasoconstriction                                              |
+|           |   - Hypothermia                                                   |
+|           | - Venous pulsation confused for arterial:                         |
+|           |   - ↑CVP                                                          |
+|           |   - Severe TR                                                     |
++-----------+-------------------------------------------------------------------+

@@ -1,0 +1,65 @@
+Ketamine is a dissociative anaesthetic agent with analgesic properties  
+
+**Pharmaceutics:**
+
+Suitable for use is wide range of environments and applications due to stability and lack of special storage / preparation requirements
+
+- Stable in solution
+- No toxic additives (benzethonium chloride: theoretical risk of neurotoxicity)
+- Low risk of bacterial growth (suitable for slow infusion in single syringe)
+- Not painful on injection (suitable for peripheral IV)
+
+2 optical isomers (S (+) and R (-))
+
+- S (+) - Better analgesia, rapid metabolism, less intense emergence side effects 
+
+**Pharmacokinetics**:
+
+***Administration** for analgesia:*
+
+- Able to be given PO, IM, IV 
+- High first pass metabolism, Bioavailability 17% orally, 30% S/L
+- Rapid onset in IV form useful as rescue analgesia and for procedural analgesia in ED/prehospital settings 
+- IV infusion avoids peaks and troughs, useful analgesia adjuvant, titratable 
+- IM/Sublingual useful for situations where IV use problematic including, ward dressings, combat and transport settings
+
+***Distribution***:
+
+- Vd 4/kg, pKa 7.5 60% unionised, PB 25%
+- low protein binding 
+- high lipid solubility 
+- T1/2a 10-15min, t1/2b 2-4 hours 
+
+***Metabolism***:
+
+- Hepatic primarily by CYP3A4
+- Active metabolite norketamine (30% as active)
+
+***Elimination*** in urine, Cl: 15ml/kg/min
+
+**Pharmacodynamics**
+
+**Analgesic Effects**
+
+**MOA**
+
+- Non-competitive antagonist at NMDA and glutamate receptors 
+- Muscarinic AChR Antagonist 
+- Opioid agonist 
+
+**Action**
+
+Effective for Acute and chronic pain 
+
+- Post-synaptic inhibition at dorsal horn → ↓Pain signal transmission
+- Short term: ↓excitability, ↓wind-up
+- Long term: ↓synaptic reinforcement, ↓long-term potentiation
+
+**Adverse effects:**
+
+CNS: Hallucinations, delirium, SNS Stimulation
+
+**Other considerations for use in acute pain**
+
+- Relatively cardiac/hemodynamically stable - useful for trauma, unstable patients 
+- Less respiratory depression then high dose opiates

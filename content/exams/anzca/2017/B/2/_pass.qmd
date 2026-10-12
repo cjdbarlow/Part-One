@@ -1,0 +1,23 @@
+![](/content/exams/anzca/2017/B/2/standard-image32.png){fig-alt="Variable bypass vaporiser with vaporising chamber, bypass, wicks and bimetallic strip"}
+
+**Flow Management**
+
+- Excessive flow rates may result in air not being fully saturated
+- Downstream pressure fluctuations can result in pumping mechanism with air moving from circuit back into vaporiser chamber → saturated gas can be forced back through the vaporizer inlet port and enter the bypass channel resulting in increased agent delivery
+
+Management:
+
+- Baffles and wicks increase surface area and liquid/gas interface ensuring air saturation
+- One-way valve at the outflow of the vaporizer can prevent back flow  
+
+Temperature Management
+
+The SVP of volatile agents increases non-linearly as temperature increases. Temperature changes can occur through:
+
+- Changes in ambient temperature 
+- ↓ from latent heat loss of vaporisation → liquid in vaporiser cooling
+
+This is controlled through:
+
+- The use of a heat sink and materials with high conductivity and heat capacitance allowing the vaporiser to buffer ambient temperature fluctuations and buffer heat loss through latent vaporisation. 
+- Temperature Compensation with bimetallic strip → which changes shape/bends in response to temperature changes changing the splitting ratio of air bypassing and entering the vapour chamber

@@ -1,0 +1,86 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018A Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the theories, both current and discredited, as to how volatile anaesthetic agents cause loss of consciousness.
+:::
+
+Also asked in: [2019B Question 4](/content/exams/anzca/2019/B/4/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} historical and current theories, separating supporting observations from reasons earlier explanations were inadequate. Acknowledge uncertainty and connect proposed molecular targets to loss of consciousness.
+
+::: {.structure-headings}
+### Uncertainty and Proposed Sites of Action
+
+### Meyer–Overton Hypothesis
+
+### Critical Volume and Other Membrane Theories
+
+### Evidence Against Historical Theories
+
+### Protein Targets and Current Mechanisms
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**31%** of candidates achieved a pass in this question
+
+This is a key part of our practice. It seems reasonable that a candidate for a specialist examination should know something about the topic.
+
+There were many ways to achieve a pass in the question. It was not possible to pass, however, by only answering one part of the question. An understanding that the mechanism is unclear gained marks.
+
+The Meyer-Overton hypothesis relates to the linear relationship between the log of potency and lipid solubility and many tried to draw a graph illustrating this. Modern theories suggest that agents may be acting on hydrophobic areas of proteins, particularly the GABA receptor.
+
+Other ways of attracting marks were to discuss why people thought that lipid solubility might be related to potency, and why these theories were discarded. Mentioning other receptors that may be involved, most notably the NMDA receptor, and noting this is predominantly affected by gaseous rather than volatile agents. Noting the volatile agents are relatively indiscriminate, and cause effects on many different types of proteins. Mentioning some anatomical potential sites of action.
+
+Many candidates wrote about wash-in, which was not asked. Many stated that the Meyer Overton hypothesis is currently held to be valid.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2018/A/3/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2018/A/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational anaesthetic mechanisms](/content/pharmacopoeia/neuro/inhalational_anaesthetic_agents.qmd)

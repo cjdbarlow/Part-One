@@ -1,0 +1,61 @@
+**Malignant Hyperthermia (MH):**
+
+MH is a rare autosomal dominant genetic condition. Prevalence – approx. 1:15,000 (range 1:10,000 \~ 220,000)
+
+Triggers include depolarising muscle relaxants (Suxamethonium) and volatile anaesthetic agents.
+
+MH involves the mutation of the ryanodine receptor that results in excessive calcium to leave the sarcoplasmic reticulum → continual muscle contraction.
+
+Clinical features include: 
+
+- ↑ CO2
+- ↑Temperature 
+- increased lactate 
+- Muscle spasm
+- Acidosis and hyperkalaemia 
+- CVS instability 
+
+**Acute Management intraoperative:**
+
+- Call for help / MH kit
+- Cease volatile agent and change to TIVA, washout with 100% O2 at maximum flows
+- Add charcoal filters to circuit - change soda lime is easy
+- Give dantrolene 2.5mg/kg  
+- Manage hyperkalaemia and acidosis 
+- Invasive and non-invasive cooling as appropriate 
+
+**Dantrolene: **
+
+**Physiochemical:**
+
+Orange powder, vials of 20mg Dantrolene and 3g Mannitol 
+
+Reconstitute in sterile water - can be difficult to dissolve 
+
+Venous irritant 
+
+**Dosing: **
+
+2.5mg/kg - repeat 10 minutely 
+
+**PK**
+
+Absorption: IV only in MH
+
+Distribution: VD 0.6 L/kg; 90% protein bound
+
+Metabolism: hepatic metabolism; major metabolite is 5-hydroxydantrolene, which is
+
+active
+
+Elimination: renally excreted, half-life 9 hours
+
+**PD:**
+
+MOA: 
+
+Dantrolene is a ryanodine (RYR1) receptor antagonist, which prevents release of Ca2+ from the sarcoplasmic reticulum, uncoupling the process of excitation-contraction.
+
+Skeletal muscle relaxation
+
+Side effects are rare and include GIT side effects and

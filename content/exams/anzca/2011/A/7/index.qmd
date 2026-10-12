@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011A Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the advantages and disadvantages of using nitrous oxide as part of a general anaesthetic.
+:::
+
+Also asked in: [2017A Question 5](/content/exams/anzca/2017/A/5/index.qmd#examiner-comments), [2021A Question 1](/content/exams/anzca/2021/A/1/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} advantages and disadvantages specifically within general anaesthesia. Connect physical and pharmacological properties to wash-in, anaesthetic sparing, gas-space effects and important adverse effects.
+
+::: {.structure-headings}
+### Physical and Pharmaceutical Properties
+
+### Wash-In, Washout and Gas Effects
+
+### Anaesthetic Sparing and Analgesia
+
+### Organ Effects and Clinical Limitations
+
+### Environmental and Prolonged-Exposure Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question was passed by **73%** of candidates.
+
+Successful candidates structured their answers with a list of advantages and disadvantages from a pharmaceutic, pharmacokinetic and pharmacodynamic perspective. The main advantages that were expected were: rapid onset and offset, second gas effect, reduction in MAC, and analgesic effect. The main disadvantages that were expected were: reduction in FiO~2~, diffusion hypoxia, expansion of closed air spaces, PONV, increased CBF/ICP, and the long term effects of prolonged or chronic exposure, e.g. megaloblastic anaemia, subacute combined degeneration of cord, and possible teratogenicity.
+
+Additional marks were awarded for clear explanations about why nitrous oxide is inappropriate as a sole agent, and other concepts, e.g. second gas effect, and expansion of gas spaces. Common mistakes were to discuss nitrous oxide in isolation rather than as part of a general anaesthetic. There were misconceptions about the mechanism of analgesia, which is described in the prescribed texts. There were inadequate explanations about how nitrous oxide is “cheap”, and very few candidates discussed the set-up and maintenance costs associated with nitrous oxide.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2011/A/7/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2011/A/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Nitrous oxide](/content/pharmacopoeia/neuro/nitrous_oxide.qmd)

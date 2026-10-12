@@ -1,0 +1,24 @@
+Pain is the unpleasant emotional and physical experience associated with actual or potential tissue injury or described in terms of such damage.
+
+The pain pathway includes:
+
+- Transduction
+- Transmission
+- Perception 
+- Modulation
+
+![](/content/exams/anzca/2013/A/15-old/standard-image1.jpeg){fig-alt="Pain perception pathway from thumb nociceptor through dorsal root ganglion, spinal synapse and spinothalamic tract to thalamus and cortex, with descending modulation"}
+
+**Transduction** is the process of noxious stimuli → electrical signal. It occurs when noxious stimuli stimulate peripheral nociceptors (free nerve endings). Stimuli include: mechanical, thermal, electrical, or chemical. 
+
+**Transmission** is the process of conduction of pain impulses. Pain impulses are conducted on 2 main afferent pain fibres to the dorsal horn where they synapse with second order neurones that travel in the spinothalamic and spineoparabrachial tracts to transmit the impulse to the brain.
+
+Peripheral Afferent nerve fibres include Aδ fibres and C Fibres that release Substance P and glutamate that act on NK1 and NMDA receptors at the second order synapse
+
+Aδ fibres are small myelinated fibres that conduct sharp localised pain rapidly @ 40m.s-1.
+
+C Fibres are very small unmyelinated fibres that conduct dull pain at a slower rate, 2m.s-1 
+
+**Perception**
+
+Third order neurones in thalamus project to the higher centres including the somatosensory cortex and limbic system. This results in the sensory and emotional perception of pain.

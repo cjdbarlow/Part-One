@@ -1,0 +1,70 @@
+#### List:
+
+- Intro: definitions and significance
+- Central nervous system
+- Peripheral nervous system
+- Autonomic nervous system
+
+#### Intro:
+
++-------------+-------------------------------------------------------------------------------------------------------------------------------+
+| Pain        | - Unpleasant sensory and emotional experience associated with actual or potential tissue damage or is described in such terms |
++-------------+-------------------------------------------------------------------------------------------------------------------------------+
+| Ageing      | - Gradual time-dependent loss of cellular function and physiological reserve, resulting in death                              |
++-------------+-------------------------------------------------------------------------------------------------------------------------------+
+| **Summary** | - ↓Nociceptive response to noxious stimuli                                                                                    |
+|             | - ↑Susceptible to analgesic toxicity                                                                                          |
+|             | - ↓Ability to communicate                                                                                                     |
+|             | - Frequently undertreated                                                                                                     |
++-------------+-------------------------------------------------------------------------------------------------------------------------------+
+
+#### Central nervous system:
+
++----------------+------------------------------------------------------------+
+| Changes        | - ↓Grey matter:                                            |
+|                |   - ↓10,000 neurons per day from age 20                    |
+|                |   - Total 10% loss by age 80                               |
+|                | - ↓White matter (less affected)                            |
+|                | - ↓Neurotransmitters:                                      |
+|                |   - ↓Serotonin and noradrenaline (+/-depression)           |
+|                |   - ↓Dopamine in substantia nigra (+/-Parkinson’s disease) |
+|                |   - ↓Acetylcholine in hypothalamus (+/-senile dementia)    |
++----------------+------------------------------------------------------------+
+| Effect on pain | - ↓Cognition                                               |
+|                | - ↓Communication of pain                                   |
+|                | - ↓Reflex speed → slower withdrawal from insult            |
+|                | - ↓Activity of endogenous analgesic pathways               |
++----------------+------------------------------------------------------------+
+| Disease        | - Dementia and delirium common                             |
+|                | - Inability to communicate                                 |
+|                | - Pain perception preserved                                |
++----------------+------------------------------------------------------------+
+
+#### Peripheral nervous system:
+
++----------------+--------------------------------------------------------------------------+
+| Changes        | - Generally less affected                                                |
+|                | - ↓Neurons                                                               |
+|                | - ↓Axons (myelinated and not)                                            |
+|                | - ↓Synapses                                                              |
+|                | - ↓Neurotransmitters (substance P, CGRP)                                 |
++----------------+--------------------------------------------------------------------------+
+| Effect on pain | - ↓Nociceptive afferents                                                 |
+|                | - ↓Sensitisation                                                         |
+|                | - ↓Speed of conduction                                                   |
++----------------+--------------------------------------------------------------------------+
+| Disease        | - ↑Risk diabetes, +/- peripheral neuropathy → ↓ pain e.g. toe amputation |
++----------------+--------------------------------------------------------------------------+
+
+#### Autonomic nervous system:
+
++----------------+------------------------------------------------------------------------------------+
+| Changes        | - ↓Cardiac β~1~ adrenoceptors                                                      |
+|                | - ↓post-adrenoceptor signalling                                                    |
+|                | - (↑Circulating noradrenaline partly offsets above)                                |
++----------------+------------------------------------------------------------------------------------+
+| Effect on pain | - ↓Autonomic response to pain                                                      |
+|                | - Risk of undertreatment intra-op                                                  |
++----------------+------------------------------------------------------------------------------------+
+| Drugs          | - β-blockers commonly prescribed → attenuates HR response → risk of undertreatment |
++----------------+------------------------------------------------------------------------------------+

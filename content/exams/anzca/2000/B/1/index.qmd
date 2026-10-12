@@ -1,0 +1,73 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000B Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the role of baroreceptors in the control of arterial pressure.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **High-Pressure Baroreceptors**, **Afferent and Central Pathways**, **Autonomic Responses**, and **Low-Pressure Baroreceptors**. Present the response as a negative feedback loop, distinguishing beat-to-beat control from volume regulation.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**54%** of candidates passed this question. The main points expected were an overall view of a negative feedback system to maintain the blood pressure constant including the following:-
+
+- High pressure baroreceptors
+- Role in beat to beat control (eg. changes in posture)
+- Afferent pathways
+- Response to a change in blood pressure (ie sympathetic and parasympathetic)
+- Low pressure baroreceptors
+- Role in long term regulation of intravascular volume.
+
+Additional marks were awarded for mentioning that baroreceptors respond to both sustained and changing pressures, respond primarily to stretch, can be reset in hypertensive patients, and can be tested clinically (eg Valsalva manoeuvre).
+
+Common omissions were failure to describe the relationship between the blood pressure and the rate of firing in the afferent nerves (and the inhibitory effect this has on the vasomotor centre), and the parasympathetic response. Some candidates gave a detailed account of the response to both an increased and decreased blood pressure, essentially duplicating information. Others spent too much time describing intra-renal mechanisms and hormonal responses.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Baroreceptors](/content/cvs/baroreceptors.qmd)

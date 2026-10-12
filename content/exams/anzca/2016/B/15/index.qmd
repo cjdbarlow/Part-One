@@ -1,0 +1,74 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016B Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the pharmacodynamics of agents used in the treatment of post - operative nausea and vomiting (PONV), with particular reference to their site of action and side effects.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} each drug class by receptor action, anatomical site and important adverse effects. Use a comparison table, supported by a diagram of emetic pathways, to keep mechanisms and sites distinct.
+
+::: {.structure-table}
+| Drug Class | Receptor Action | Site of Action | Adverse Effects |
+|---|---|---|---|
+| Corticosteroids | | | |
+| Serotonin Antagonists | | | |
+| Dopamine Antagonists | | | |
+| Antihistamines and Antimuscarinics | | | |
+| Other Agents | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**71.5%** of candidates achieved a pass in this question
+
+In order to pass the question, candidates were required to describe the mechanism of actions (esp. receptor interactions) and side effects of at least 3-4 commonly administered antiemetics in the management of PONV. Majority of candidates has done well in this question. Most were able to point out the receptors involved and the location of action in each class. Many candidates, however, struggled in describing the potential side effects of the agents. Candidates who failed this question appeared to have run out of time and did not include any details on the drug.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2016/B/15/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2016/B/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Antiemetics](/content/pharmacopoeia/git/antiemetics.qmd)

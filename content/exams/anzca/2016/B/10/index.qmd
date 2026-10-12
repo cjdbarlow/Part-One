@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016B Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the effects of giving an unopposed dose of neostigmine.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the consequences of increased acetylcholine at nicotinic and muscarinic sites. Separate neuromuscular effects from autonomic effects and connect the latter to the rationale for an accompanying antimuscarinic.
+
+::: {.structure-headings}
+### Acetylcholinesterase Inhibition
+
+### Neuromuscular Junction Effects
+
+### Muscarinic Organ Effects
+
+### Autonomic Ganglia and Other Sites
+
+### Dose-Related Effects and Clinical Context
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**28.5%** of candidates achieved a pass in this question
+
+This was a question of two parts.
+
+The majority of candidates answered this question as a ‘side-effects of neostigmine’ question, but did not include any information about the effects of neostigmine at the nicotinic receptors. It was possible to pass the question with only information about the muscarinic receptor effects, but it required a high level of detail to do this.
+
+Outside of bradycardia, the cardiac effects were generally poorly -covered. Non-specific comments such as “urination” did not attract marks, whereas a point such as “increases ureteric peristalsis may lead to urination” did.
+
+Good candidates were able to explain how neostigmine works, why neostigmine is given, when it is appropriate to give neostigmine, discuss the effects at both the nicotinic and muscarinic receptors and apply clinical relevance to both. Extra marks were awarded for applying clinical relevance to the question, particularly if candidates explained why an antimuscarinic medication is usually co-administered when neostigmine is used to reverse non-depolarising muscle blockade.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2016/B/10/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2016/B/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neuromuscular blockers](/content/msk/neuromuscular_blockers.qmd)
+- [Anticholinesterases](/content/pharmacopoeia/autonomic/anticholinesterases.qmd)

@@ -1,0 +1,96 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004A Question 16 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} how the kidney handles glucose. [**Describe**]{.task-verb} the physiological consequences of glycosuria.
+:::
+
+Also asked in: [1999A Question 4](/content/exams/anzca/1999/A/4/index.qmd#examiner-comments), [2001B Question 6](/content/exams/anzca/2001/B/6/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} renal glucose handling from filtration through tubular reabsorption, using a labelled glucose titration curve to show transport maximum and splay. Then [**describe**]{.task-verb} the consequences of glycosuria under the following headings.
+
+::: {.structure-headings}
+### Glomerular Filtration
+
+### Tubular Reabsorption
+
+### Transport Maximum, Threshold and Splay
+
+### Renal and Systemic Consequences of Glycosuria
+
+### Compensatory Responses
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**57%** of candidates passed this question.
+
+Points required for a pass were:
+
+- Glucose is freely filtered in the glomerulus and reabsorbed in the proximal tubule.
+- The mechanisms of re-absorption involve secondary active transport and facilitated diffusion.
+- The energy for this process is provided by Na/K ATPase.
+- The amount absorbed depends on the amount filtered (up to a transport maximum).
+- Glycosuria leads to:
+    - Diuresis and dehydration – caused by osmotic effects and medullary dilution
+    - Loss of sodium (and other electrolytes) – leading to hypovolaemia and subsequent homeostatic responses
+    - Loss of energy substrate
+
+Additional marks were given for:
+
+- Quantification of rate of re-absorption and glycosuria.
+- Details of (co)-transport mechanisms involved in re-absorption – SGLY and GLUT
+- Heterogeneity of the saturation of reabsorption mechanisms – manifest as “splay”.
+- Increased chance of urinary infection with glycosuria.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/A/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Glomerular filtration](/content/renal/glomerular_filtration.qmd)
+- [Sodium and water handling](/content/renal/sodium.qmd)
+- [Glucose physiology](/content/endo/glucose.qmd)

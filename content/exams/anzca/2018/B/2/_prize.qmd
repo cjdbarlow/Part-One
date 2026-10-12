@@ -1,0 +1,86 @@
+#### List:
+
+- Intro
+- Alveolus → pulmonary capillary
+- Pulmonary capillary → systemic arterial blood
+- Systemic arterial blood → tissues
+
+#### Intro:
+
++---------------+----------------------------------------------------------------------------------------------------------------------------------+
+| O~2~ cascade  | ![](/content/exams/anzca/2018/B/2/prize-image001.jpg){fig-alt="Oxygen cascade showing diffusion and venous admixture gradients"} |
++---------------+----------------------------------------------------------------------------------------------------------------------------------+
+| O~2~ content  | - CaO~2~ = \[Hb\] x SaO~2~ x 1.34 + 0.003 x PaO~2~ (per 100mL blood)                                                             |
++---------------+----------------------------------------------------------------------------------------------------------------------------------+
+| O~2~ delivery | - DO~2~ = CaO~2~ x CO                                                                                                            |
++---------------+----------------------------------------------------------------------------------------------------------------------------------+
+
+#### Alveolus → pulmonary capillary:
+
++-------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Fick’s law  | ![](/content/exams/anzca/2018/B/2/prize-image002.jpg){fig-alt="Fick diffusion equation relating pressure gradient, area, thickness, solubility and molecular weight"} |
+|             |                                                                                                                                                                       |
+|             | - Hence factors increasing O~2~ transfer rate: ↑P~1~, ↓P~2~, ↑area, ↓thickness                                                                                        |
++-------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↑P~1~       | - Alveolar gas equation: PAO~2~ (P~1~) = FiO~2~(Patm – P~SVP-H2O~) – PaCO~2~ / RQ)                                                                                    |
+|             |   - ↑FiO~2~ (i.e. supplementation)                                                                                                                                    |
+|             |   - ↑P~atm~ (i.e. hyperbaric)                                                                                                                                         |
+|             |   - ↓PaCO~2~ (↑ratio alveolar ventilation: CO~2~ production)                                                                                                          |
++-------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↓P~2~       | - ↑Cardiac output (Note: perfusion limitation if at rest, at sea level, healthy lungs)                                                                                |
+|             | - ↑Pulmonary capillary blood volume                                                                                                                                   |
+|             | - ↑\[Hb\]                                                                                                                                                             |
++-------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↑Area       | - i.e. lack of                                                                                                                                                        |
+|             |   - Tissue loss                                                                                                                                                       |
+|             |   - Shunt (e.g. atelectasis)                                                                                                                                          |
+|             |   - Dead space (e.g. pulmonary embolus)                                                                                                                               |
++-------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↓Thickness  | - i.e. lack of oedema, fibrosis                                                                                                                                       |
++-------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Pulmonary capillary blood → systemic arterial blood:
+
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Venous admixture | The amount of mixed venous (pulmonary arterial) blood that would need to be added to end-pulmonary capillary blood to account for the observed ↓ pO~2~ from end-pulmonary capillary to systemic artery. |
+|                  |                                                                                                                                                                                                         |
+|                  | - Comprises:                                                                                                                                                                                            |
+|                  |   - Low VQ regions                                                                                                                                                                                      |
+|                  |   - Shunt                                                                                                                                                                                               |
+|                  | - Shunt equation: calculates venous admixture as a proportion                                                                                                                                           |
+|                  |   - Qs/Qt = (CcO~2~ – CaO~2~) / (CcO~2~ – CvO~2~)                                                                                                                                                       |
+|                  |   - Normal: \~0.04                                                                                                                                                                                      |
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Low V/Q          | - Where a region of lung is hypoventilated relative to its perfusion                                                                                                                                    |
+|                  | - Physiological: V and Q scatter due to gravity                                                                                                                                                         |
+|                  | - Pathological: lung disease (e.g. COPD), vasodilators impairing HPV                                                                                                                                    |
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Shunt            | - Where blood returns to LV without any oxygenation                                                                                                                                                     |
+|                  | - Physiological: bronchial veins 1%, Thebesian veins 0.3%                                                                                                                                               |
+|                  | - Lung pathology: e.g. atelectasis                                                                                                                                                                      |
+|                  | - Cardiac pathology: e.g. VSD                                                                                                                                                                           |
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Systemic arterial blood → tissues:
+
++------------+----------------------------------------------------------------------------------------------------------------------------------+
+| Fick’s law | ![](/content/exams/anzca/2018/B/2/prize-image003.jpg){fig-alt="Fick diffusion equation applied to oxygen transfer into tissues"} |
+|            |                                                                                                                                  |
+|            | - Hence factors increasing O~2~ extraction: ↑P~1~, ↓P~2~, ↑area, ↓thickness                                                      |
++------------+----------------------------------------------------------------------------------------------------------------------------------+
+| ↑P~1~      | - ↑VO~2~ → right shift oxyhaemoglobin dissociation curve → ↑O~2~ offloading                                                      |
+|            |   - Bohr effect: ↑pCO~2~, ↓pH                                                                                                    |
+|            |   - ↑2,3-DPG                                                                                                                     |
+|            |   - ↑temperature                                                                                                                 |
+|            | - ↑Hb → ↑size of O~2~ reservoir                                                                                                  |
+|            | - ↑Capillary blood volume → ↑size of O~2~ reservoir                                                                              |
+|            | - ↑Cardiac output → ↑rate of O~2~ replenishment                                                                                  |
++------------+----------------------------------------------------------------------------------------------------------------------------------+
+| ↓P~2~      | - ↑VO~2~                                                                                                                         |
+|            | - ↑\[Myoglobin\]                                                                                                                 |
++------------+----------------------------------------------------------------------------------------------------------------------------------+
+| ↑Area      | - ↑Capillarisation (e.g. adaptation to aerobic exercise)                                                                         |
+|            | - ↑Recruitment and distension (e.g. exercise)                                                                                    |
++------------+----------------------------------------------------------------------------------------------------------------------------------+
+| ↓Thickness | - ↑Capillarisation → ↓diffusion distance                                                                                         |
++------------+----------------------------------------------------------------------------------------------------------------------------------+

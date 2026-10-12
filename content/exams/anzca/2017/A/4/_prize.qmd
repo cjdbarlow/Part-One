@@ -1,0 +1,79 @@
+#### List:
+
+- Intro
+- List of drugs
+- Table: genotype, phenotype, frequency, effect
+
+#### Intro: CYP2D6
+
++------------------+----------------------------------------+
+| Nature           | - Microsomal enzyme                    |
+|                  | - Mostly in liver                      |
++------------------+----------------------------------------+
+| Function         | - Redox (especially O-demethylation)   |
++------------------+----------------------------------------+
+| Importance       | - Affects 25% of clinically used drugs |
++------------------+----------------------------------------+
+| Allelic variants |                                        |
++------------------+----------------------------------------+
+| Problem          | - Polymorphism is common               |
+|                  | - Non-inducible enzyme                 |
++------------------+----------------------------------------+
+
+#### Relevant drugs:
+
++-----------------+-------------------------------------------------------------+
+| Activated       | - Codeine → morphine (↑↑potency)                            |
+|                 | - Tramadol → M1 (4 x analgesic efficacy, 200x MOP affinity) |
+| (i.e. prodrugs) | - Oxycodone → oxymorphone (10-15x ↑potency)                 |
+|                 | - Tamoxifen                                                 |
++-----------------+-------------------------------------------------------------+
+| Inactivated     | - Antidepressants (SSRIs, TCAs)                             |
+|                 | - Antipsychotics (haloperidol, risperidone)                 |
+|                 | - Metoprolol                                                |
+|                 | - Clonidine                                                 |
++-----------------+-------------------------------------------------------------+
+
+#### Genetics:
+
++------------------+-------------------------------------------------------------------------+
+| Allelic variants | - ‘Normal’ (1,2)                                                        |
+|                  | - ‘Reduced activity’ (9,10,41)                                          |
+|                  | - ‘No activity’ (4,5,6)                                                 |
++------------------+-------------------------------------------------------------------------+
+| Phenotypes       | *By number of ‘Normal’ copies:*                                         |
+|                  |                                                                         |
+|                  | - Ultra-rapid: ***\>2***                                                |
+|                  | - Extensive: **2** (i.e. usual)                                         |
+|                  | - Intermediate: **1** (or 2x ‘Reduced activity’)                        |
+|                  | - Poor: **0**                                                           |
++------------------+-------------------------------------------------------------------------+
+| Prevalence       | - Ultra-rapid: 30% Nth Africa, Arabs; 10% Greek/Portuguese; 1-3% others |
+|                  | - Extensive: 80-90%                                                     |
+|                  | - Intermediate: 2-10%                                                   |
+|                  | - Poor: 5-10% Caucasians, 30% Hong Kong Chinese                         |
++------------------+-------------------------------------------------------------------------+
+
+#### Effect of increased function:
+
++------------------+--------------------------------------------------------------------------+
+| Drug activated   | - ↑Peak effect, ↑toxicity                                                |
+|                  | - ↑Duration                                                              |
+|                  | - e.g. codeine toxicity (N.B. if given to UM mother → neonatal fatality) |
++------------------+--------------------------------------------------------------------------+
+| Drug inactivated | - ↓Peak effect                                                           |
+|                  | - ↓Duration                                                              |
+|                  | - e.g. clonidine effective shortened (?)                                 |
++------------------+--------------------------------------------------------------------------+
+
+#### Effect of decreased function:
+
++------------------+-----------------------------------------+
+| Drug activated   | - ↓Peak effect                          |
+|                  | - ↓Duration                             |
+|                  | - e.g. codeine and tramadol ineffective |
++------------------+-----------------------------------------+
+| Drug inactivated | - ±↑Peak effect, +/- ↑toxicity          |
+|                  | - ↑Duration                             |
+|                  | - e.g. clonidine effect prolonged (?)   |
++------------------+-----------------------------------------+

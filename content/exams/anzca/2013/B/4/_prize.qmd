@@ -1,0 +1,108 @@
+#### List:
+
+- Intro: BBB
+- Components
+- Circumventricular organs
+- Freely permeable
+- Selectively permeable
+- Impermeable
+
+#### Intro: blood-brain barrier
+
++---------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Function                        | - Barrier between blood and brain ECF for homeostasis and protection                                                                               |
+|                                 | - Multiple components                                                                                                                              |
+|                                 | - Variable permeability                                                                                                                            |
+|                                 | - Entry by diffusion or active transport                                                                                                           |
++---------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Dysfunction                     | - Neonate: immaturity                                                                                                                              |
+|                                 | - Elderly: degeneration                                                                                                                            |
+|                                 | - Profound hypertension: damage                                                                                                                    |
+|                                 | - Meningeal disease: inflammation (MS), infection (meningitis) → damage                                                                            |
++---------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Factors conferring permeability | ![](/content/exams/anzca/2013/B/4/prize-image001.jpg){fig-alt="Fick’s law of diffusion, including concentration gradient and membrane properties"} |
+|                                 |                                                                                                                                                    |
+|                                 | - ↑C~1~ (e.g. ↑dose)                                                                                                                               |
+|                                 | - ↓C~2~ (e.g. glucose utilisation)                                                                                                                 |
+|                                 | - ↑Area (not under control)                                                                                                                        |
+|                                 | - ↓Thickness (e.g. dysfunction)                                                                                                                    |
+|                                 | - ↑Lipid solubility (e.g. propofol)                                                                                                                |
+|                                 | - ↓Molecular weight (e.g. O~2~)                                                                                                                    |
+|                                 | - Unionised (e.g. propofol 98%)                                                                                                                    |
+|                                 | - Non-polar (e.g. CO~2~)                                                                                                                           |
+|                                 | - Not protein bound (e.g. ketamine)                                                                                                                |
++---------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Components of blood-brain-barrier
+
++------------------+-----------------------------------------------------------------------------------------------------+
+| Physical barrier | - Endothelial cells: tight junctions, no fenestrae, low rate of transcytosis                        |
+|                  | - Basement membrane: negative charge                                                                |
+|                  | - Astrocyte foot processes                                                                          |
+|                  |                                                                                                     |
+|                  | (cf. blood-CSF barrier: tight junctions between choroid epithelioctes)                              |
++------------------+-----------------------------------------------------------------------------------------------------+
+| Immune cells     | - Astrocytes = antigen-presenting cell: activates T and B cells                                     |
+|                  | - Microglia = macrophage: phagocytosis, inflammation, chemotaxis                                    |
++------------------+-----------------------------------------------------------------------------------------------------+
+| Transporters     | - GLUT-1: constitutively expressed, ensures priority supply of glucose                              |
+|                  | - Ion channels: control \[Na^+^\], \[K^+^\], \[Ca^2+^\] – preserve polarity, prevent excitotoxicity |
++------------------+-----------------------------------------------------------------------------------------------------+
+| Enzymes          | - e.g. MAO, AChE                                                                                    |
+|                  | - Prevent circulating neurotransmitters from entering brain                                         |
++------------------+-----------------------------------------------------------------------------------------------------+
+
+#### Circumventricular organs:
+
++--------------+-----------------------------------------------------------------------+
+| Significance | - “Outside” the blood-brain barrier, near the fourth ventricle        |
+|              | - i.e. permeable vessels allow contact with blood                     |
++--------------+-----------------------------------------------------------------------+
+| Function     | - Posterior pituitary: secretes ADH, oxytocin                         |
+|              | - Area postrema (contains CTZ): circulating toxin induces vomiting    |
+|              | - OVLT, SFO: ↑osmolality → ↑activation of hypothalamus → ↑ADH release |
+|              | - Pineal gland: secretes melatonin                                    |
+|              | - Medial eminence                                                     |
++--------------+-----------------------------------------------------------------------+
+
+#### Free permeability:
+
++--------------------+-----------------------------------------------------------+
+| Water              | - Travels up osmotic gradient                             |
++--------------------+-----------------------------------------------------------+
+| Very low MW        | - e.g. O~2~                                               |
+|                    | - e.g. CO~2~ (e.g. CO~2~ → H^+^ for control of breathing) |
++--------------------+-----------------------------------------------------------+
+| Very lipid soluble | - e.g. ketones, propofol                                  |
++--------------------+-----------------------------------------------------------+
+
+#### Selective permeability = homeostasis:
+
++----------------+--------------------------------------------------------------------------------+
+| Electrolytes   | - Ions are charged hence impermeable                                           |
+|                | - Active influx (e.g. Mg^2+^, Cl^-^) and efflux                                |
+|                | - For control of ECF environment (e.g. metabolic acidosis in exercise → ↑H^+^) |
+|                | - For preservation of cell polarity                                            |
+|                | - For preservation of brain cell volume, proportional to brain ECF \[Na^+^\]   |
++----------------+--------------------------------------------------------------------------------+
+| Macronutrients | - Glucose: via GLUT1, limited capacity                                         |
+|                |   - Too much → glycosylation                                                   |
+|                |   - Too little → unconsciousness                                               |
+|                | - Amino acids: for neurotransmitter synthesis                                  |
+|                | - Lipids: for membrane maintenance                                             |
++----------------+--------------------------------------------------------------------------------+
+
+#### Impermeability = protection:
+
++-------------------+-----------------------------------------------------------------------------------+
+| Neurotransmitters | - Brain NTs barred from circulation (e.g. brain noradrenaline metabolized by MAO) |
+|                   | - Peripheral NTs barred from brain (e.g. ingested serotonin metabolized by MAO)   |
++-------------------+-----------------------------------------------------------------------------------+
+| Proteins          | - Endogenous neurotoxins (e.g. bilirubin)                                         |
+|                   | - Exogenous neurotoxins (e.g. cholera toxin)                                      |
++-------------------+-----------------------------------------------------------------------------------+
+| Pathogens         | - Physical barrier                                                                |
+|                   | - Immune cells                                                                    |
++-------------------+-----------------------------------------------------------------------------------+
+| Many drugs        | - e.g. muscle relaxants (large, polar)                                            |
++-------------------+-----------------------------------------------------------------------------------+

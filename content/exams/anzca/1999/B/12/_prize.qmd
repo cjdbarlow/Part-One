@@ -1,0 +1,70 @@
+#### List:
+
+- PC
+- PK
+- PD (mainly this)
+
+#### Physicochemical:
+
++----------------+--------------------------------------------------------+
+| Structure      | - Fe^2+^ surrounded by 5 x CN^-^ and 1 x NO            |
++----------------+--------------------------------------------------------+
+| Appearance     | - Red powder                                           |
++----------------+--------------------------------------------------------+
+| Reconstitution | - With 5% dextrose → orange solution                   |
++----------------+--------------------------------------------------------+
+| Problem        | - Light sensitive → dark brown                         |
+|                | - Hence bottle and IV line covered with aluminium foil |
++----------------+--------------------------------------------------------+
+
+#### Pharmacokinetics:
+
++----------------+---------------------------------------------------------------------------+
+| Administration | - 0.3-10mcg/kg/min                                                        |
++----------------+---------------------------------------------------------------------------+
+| Time course    | - Onset \<1 min                                                           |
+|                | - Duration 1-10 mins                                                      |
++----------------+---------------------------------------------------------------------------+
+| Absorption     | N/A                                                                       |
++----------------+---------------------------------------------------------------------------+
+| Distribution   | ?                                                                         |
++----------------+---------------------------------------------------------------------------+
+| Metabolism     | - Reacts with oxyHb → 1 x nitric oxide (NO) + 5 x cyanide (CN^-^) + metHb |
+|                | - SNP t~1/2β~ 2 mins                                                      |
++----------------+---------------------------------------------------------------------------+
+| Excretion      | - Thiocyanate t~1/2~~β~ 2 days                                            |
++----------------+---------------------------------------------------------------------------+
+
+#### Pharmacodynamics:
+
++----------------------+-------------------------------------------------------------------------------------------+
+| Mechanism            | - NO → activate guanylyl cyclase → ↑cGMP → ↑MLCP activity, ↑Ca^2+^ reuptake, ↑K^+^ efflux |
++----------------------+-------------------------------------------------------------------------------------------+
+| Vasodilation         | - Vasodilatation \> venodilatation (unclear)                                              |
+|                      | - ↓SVR (used during aortic cross-clamping), ↓mAP                                          |
+|                      | - ↓PVR                                                                                    |
+|                      | - ↓CVR → ↑CBF, +/-↑ICP                                                                    |
++----------------------+-------------------------------------------------------------------------------------------+
+| Side effects         | - Reflex ↑HR                                                                              |
++----------------------+-------------------------------------------------------------------------------------------+
+| Cyanide toxicity     | - Pathophysiology: inhibit cytochrome C oxidase → histiotoxic hypoxia                     |
+|                      | - Toxic concentration: 8mcg/mL                                                            |
+|                      | - Clinical: ↑HR, ↑RR, anxiety, sweating; can be lethal within minutes                     |
+|                      | - Lab tests: ↑SvO~2~, metabolic acidosis                                                  |
+|                      | - Endogenous antidote:                                                                    |
+|                      |   - CN^-^ + metHb → cyanmetHb                                                             |
+|                      |   - CN^-^ → thiocyanate (liver and kidney), 100x less toxic                               |
+|                      | - Exogenous antidote:                                                                     |
+|                      |   - Sodium thiosulfate (cyanide → thiocyanate)                                            |
+|                      |   - Dicobalt edetate (chelator)                                                           |
+|                      |   - Nitrates: metHb binds CN^-^ more avidly                                               |
+|                      |   - Hydrocobalamin                                                                        |
++----------------------+-------------------------------------------------------------------------------------------+
+| Thiocyanate toxicity | - Vasodilatation, tinnitus                                                                |
++----------------------+-------------------------------------------------------------------------------------------+
+| Methaemoglobinaemia  | - Pathophysiology: NO: Fe^2+^ → Fe^3+^; poor O~2~ carrying capacity                       |
+|                      | - SpO~2~ trend to 84%                                                                     |
+|                      | - Significant if total dose SNP \>10mg/kg                                                 |
+|                      | - Endogenous antidote: NADH- or NADPH-metHb reductase                                     |
+|                      | - Exogenous antidote: methylene blue 1-2mg/kg Fe^3+^ → Fe^2+^                             |
++----------------------+-------------------------------------------------------------------------------------------+

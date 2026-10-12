@@ -1,0 +1,21 @@
+Intracranial Pressure (ICP) is normally \<10mmHg and can be pathological \>20mmHg.
+
+Its described by the Monroe-Kelly doctrine where the rigid cranium contains volumes of blood, CSF and Brain. Any increase in volume of one of these must be met by a decrease in volume of another or an increase in ICP. Increases in brain volume through swelling or blood volume may be offset through ↓CSF. Once this compensation capacity is exhausted ICP will increase. 
+
+If ICP increases it may cause ischaemia and/or brain injury through herniation 
+
+Cerebral Blood Flow is usually tightly controlled between 50-150mmHg of cerebral perfusion pressure with is the driving pressure (MAP) - ICP. This is through myogenic auto regulation and cerebral metabolism coupling through altering CVR.
+
+CBF=CPP/CVR
+
+A primary determinant of cerebral vast dilation/constriction is PaCO2. 
+
+CO2 acts as a cerebral vasodilator with an almost liner relationship between PaCO2 20mmHg and 80mmHg, blow this point circulation is maximally constricted, above it, it is maximally dilated.
+
+↑PaCO2 causes cerebral vasodilation increasing CBF and cerebral blood volume
+
+↑ cerebral blood volume →↓CSF +/- ↑ in ICP 
+
+Therefore by ↑ respiratory rate / hyperventilation will result in a ↓in PaCO2
+
+→ cerebral vasoconstriction →↓cerebral blood volume  →↓ ICP however it will also result in a ↓ in CBF and can result in ischaemia

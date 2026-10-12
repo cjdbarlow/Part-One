@@ -1,0 +1,86 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009A Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the factors which increase the risk of systemic toxicity with amide local anaesthetic agents.
+:::
+
+Also asked in: [2007B Question 5](/content/exams/anzca/2007/B/5/index.qmd#examiner-comments), [2011A Question 1](/content/exams/anzca/2011/A/1/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} factors that increase systemic concentration, intrinsic toxicity and patient sensitivity. Explain the direction of each effect and distinguish drug factors from patient factors.
+
+::: {.structure-headings}
+### Toxicity and Relative Safety
+
+### Drug Potency and Sodium Channel Affinity
+
+### Absorption and Administration
+
+### Distribution, Metabolism and Excretion
+
+### Central Nervous System and Cardiovascular Sensitivity
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**31%** of candidates passed this question.
+
+Questions on local anaesthetic toxicity are frequently asked in this examination and this question has been asked previously.
+
+The answer should have been structured into pharmacokinetic and pharmacodynamic factors in order to make covering all aspects of the question easier. Factors expected included dose, site, vasoconstrictors, reduced protein binding, hepatic function, CVS:CNS ratios, patient factors (acidosis, ion trapping, altered seizure threshold, lowered CVS reserve), as well as age and pregnancy.
+
+Extra marks were awarded for additional detail or additional factors such as isomers, local anaesthetic specific features, active metabolites, and physicochemical features.
+
+There was confusion over changes related to pH and pKa. Acidosis increases the ionised fraction and the risk of toxicity and ion trapping. Many candidates spent a lot of time describing local anaesthetic toxicity without relating it to CVS:CNS ratios and neglected other aspects of the question.
+
+Information pertaining to the general nature of ester and amide local anaesthetics, their structures, mechanism of action, the management of local anaesthetic toxicity, and Fick’s law of diffusion that did not relate directly to the question and generally didn’t attract marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/B/5/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Local anaesthetic principles](/content/pharmacopoeia/neuro/local_anaesthetic_principles.qmd)

@@ -1,0 +1,66 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999A Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+In a clinical trial, [**why**]{.task-verb} is adequate power important? [**What factors**]{.task-verb} affect the determination of an adequate sample size?
+:::
+
+Also asked in: [2006A Question 8](/content/exams/anzca/2006/A/8/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain why**]{.task-verb} adequate power is important, then show [**what factors**]{.task-verb} affect sample size under **Alpha and Beta Errors**, **Population Variability**, **Effect Size**, and **Multiple Outcomes**.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**58%** of candidates passed this question.
+
+There was a wide range of marks for this relatively straightforward question, probably indicating that some candidates do not consider the statistical component of the syllabus worth serious study time. The majority gave an adequate definition of statistical power, but not many really addressed the question “why is it important?” The answer is simply related to the ethics of clinical research, the efficient use of resources and the need to obtain a correct result to the research question. The provision of actual formulae to calculate sample size was not required, but several candidates made very creditable efforts. Most correctly defined alpha and beta errors and indicated how the values chosen influence sample size. Having done that many omitted to mention the effect of population variability and the need to estimate it in some way. Other made no reference to the size of the difference that the study hoped to detect. A few good answers also commented on the possibility of a number of different outcomes being studied in the one trial and the need to consider sample size for these individually.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Sample Size Calculation](/content/stats/sample_size.qmd)

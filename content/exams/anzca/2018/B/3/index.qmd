@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018B Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the effects of sevoflurane on the respiratory system.
+:::
+
+Also asked in: [2021B Question 8](/content/exams/anzca/2021/B/8/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} dose-dependent effects by respiratory function. Include breathing pattern and ventilatory response curves, then relate airway, muscle and pulmonary vascular effects to clinical consequences.
+
+::: {.structure-headings}
+### Upper Airway Tone and Reflexes
+
+### Respiratory Rate, Tidal Volume and Minute Ventilation
+
+### Responses to Carbon Dioxide and Hypoxaemia
+
+### Bronchial Smooth Muscle and Respiratory Muscles
+
+### Pulmonary Circulation and Other Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**49%** of candidates achieved a pass in this question
+
+To pass, candidates needed to mention the dose-dependent nature of the effects on the respiratory rate, tidal volume, minute ventilation, PaO2 and PaCO2 response curves, and bronchodilation. Additional marks were gained for more detail, upper airway effects, chemoreceptor effects, HPV, muscles of respiration, mucociliary clearance, and surfactant effects.
+
+Discussion of west zones, FRC, shunt, effect of surgery, other drugs, postural changes, washin and washout curves, cardiovascular effects, venous admixture, and detailed discussion of airway resistance didn’t attract marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2018/B/3/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2018/B/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational anaesthetic agents](/content/pharmacopoeia/neuro/inhalational_anaesthetics.qmd)

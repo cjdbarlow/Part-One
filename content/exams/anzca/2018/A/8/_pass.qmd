@@ -1,0 +1,29 @@
+#### *Answered as* ‘Outline the pharmacology of Metoprolol’
+
+Metoprolol is a selective B1 receptor antagonist Used to treat hypertension, heart failure, Rate control in AF/Atrial Flutter. 
+
+Physiochemical 
+
+Presentation: Clear colourless solution 5mg/5ml, or as tablet 
+
+Dose: IV 1-2mg 2min titrated to effect max 10mg
+
+Pharmacokinetics
+
+Absorption: Oral Bioavailability 50% single dose 70% if repeated     
+
+Distribution: Plasma Protein Binding 10%, moderate lipid solubility, crosses BBB, Vd \~4L/kg 
+
+Metabolism: Hepatic metabolism Primarily by CYP2D6, subject to genetic polymorphism  
+
+Elimination: Renally excreted \<10% unchanged T1/2 3-4 hours 
+
+Pharmacodynamics
+
+CVS: ↓Chronotropy ↓inotropy ↓dromotropy →↓CO/MAP and ↓CMRO2
+
+Minimal effect on normal / resting heart where PSNS effect dominates
+
+Resp: Bronchoconstriction at higher doses 
+
+CNS: Fatigue, sleep disturbance

@@ -1,0 +1,104 @@
+#### List:
+
+- Diagramme
+- Components
+- Airway & breathing
+- Circulation
+- Other
+
+#### Diagramme:
+
+![](/content/exams/anzca/2020/B/6/prize-image001.jpg){fig-alt="Normal capnogram with respiratory phases, end-tidal point and alpha and beta angles"}
+
+#### Components:
+
++----+------------------------+---------------------------------------------------------+
+| 1  | Baseline               | - Should be near 0mmHg                                  |
++----+------------------------+---------------------------------------------------------+
+| 2  | Expiratory upstroke    | - Transition from anatomical dead space to alveolar gas |
++----+------------------------+---------------------------------------------------------+
+| 3  | Alveolar plateau       | - Alveolar gas                                          |
++----+------------------------+---------------------------------------------------------+
+| 4  | Terminal upswing       | - Rarely present                                        |
++----+------------------------+---------------------------------------------------------+
+| \* | etCO~2~                | - Approximates PaCO~2~                                  |
++----+------------------------+---------------------------------------------------------+
+| 0  | Inspiratory downstroke | - Early inspiration                                     |
++----+------------------------+---------------------------------------------------------+
+| α  | Angle                  | - Transition between phases 2 and 3                     |
++----+------------------------+---------------------------------------------------------+
+| β  | Angle                  | - Transition between phases 3 and 0                     |
++----+------------------------+---------------------------------------------------------+
+
+#### Airway & Breathing:
+
++-----------------------+-------------------------------------------------------------------+
+| ETT placement         | - Trachea: normal waveform                                        |
+|                       | - Bronchus: ± bifid waveform (delayed expiration from other lung) |
+|                       | - Oesophagus: small, vanishing sinusoidal waveform                |
+|                       | - Disconnection: no waveform                                      |
++-----------------------+-------------------------------------------------------------------+
+| Ventilation           | - Mode of ventilation                                             |
+|                       |   - Spontaneous: ↑slope phases 0 and 2, shortened phase 3         |
+|                       |   - Mechanical: square-ish waveform, longer phase 3               |
+|                       | - Adequacy of ventilation:                                        |
+|                       |   - V~A~ ∝ 1/ etCO~2~                                             |
+|                       | - Alveolar dead space                                             |
+|                       |   - ∝ difference between etCO2 to PaCO~2~ (from ABG)              |
+|                       |   - Normal 2-5mmHg                                                |
+|                       | - Rebreathing: ↑phases 1 and 3                                    |
+|                       |   - Important for Mapleson classification circuits                |
+|                       | - Bronchospasm: ↑slope phase 3 (and loss of α angle)              |
+|                       |   - Increased heterogeneity of time constants                     |
+|                       |   - Earlier emptying of fast lung unit with low pCO~2~            |
+|                       |   - Later emptying of slow lung units with high pCO~2~            |
+|                       |   - Worse if short expiratory time                                |
+|                       | - Emphysema: reversal of slope phase 3 (and ↑β angle)             |
+|                       |   - ↑↑Alveolar volume, early completion of gas exchange           |
+|                       | - Small airway closure: terminal upswing = pigtail                |
+|                       |   - Closure of lung units with low pCO~2~                         |
+|                       |   - Continued emptying of lung units with high pCO~2~             |
+|                       |   - Seen in pregnancy, obesity, poor compliance (e.g. ARDS)       |
++-----------------------+-------------------------------------------------------------------+
+| Equipment dysfunction | **Tubing:**                                                       |
+|                       |                                                                   |
+|                       | - Circuit obstructed externally: ↓slope phases 0 and 2            |
+|                       | - Circuit disconnected: no waveform                               |
+|                       |                                                                   |
+|                       | **Valves:**                                                       |
+|                       |                                                                   |
+|                       | - Insp valve stuck open: ↓slope phase 1                           |
+|                       | - Insp valve stuck closed: no waveform                            |
+|                       | - Exp valve stuck open: ↑phases 1 and 3                           |
+|                       | - Exp valve stuck closed: ↓etCO~2~ (once ventilation fails)       |
+|                       |                                                                   |
+|                       | **Sampling line:**                                                |
+|                       |                                                                   |
+|                       | - Leak → ↓early phase 3, ↑terminal phase 3 (= dual plateau)       |
+|                       | - ↑Pressure at onset of inspiration reduces air entrainment       |
++-----------------------+-------------------------------------------------------------------+
+
+#### Circulation:
+
++----------------------+------------------------------------------------------------------------------+
+| Cardiac output (RV)  | - Low output: ↓phase 3                                                       |
+|                      | - Arrest without CPR: no waveform                                            |
+|                      | - Arrest with CPR: etCO~2~ \>20mmHg indicates effective CPR                  |
++----------------------+------------------------------------------------------------------------------+
+| Cardiac oscillations | - Small, regular, rapid sinusoidal waveforms                                 |
+|                      | - Seen in low frequency ventilation                                          |
+|                      | - Cardiac impulse causes back and forth motion between exhaled and fresh gas |
++----------------------+------------------------------------------------------------------------------+
+
+#### Other:
+
++---------------------+--------------------------------------------------------------+
+| Muscle relaxation   | - Spontaneous inspiration produces ‘curare cleft’ in phase 3 |
++---------------------+--------------------------------------------------------------+
+| Sodalime exhaustion | - ↑Phase 1 and 3 for a given MV                              |
+|                     | - Normalises if ↑FGF                                         |
++---------------------+--------------------------------------------------------------+
+| Metabolic rate      | - MR ∝ VCO~2~ ∝ height of Phase 3                            |
+|                     |   - ↑MR: sepsis, MH                                          |
+|                     |   - ↓MR: hypothermia                                         |
++---------------------+--------------------------------------------------------------+

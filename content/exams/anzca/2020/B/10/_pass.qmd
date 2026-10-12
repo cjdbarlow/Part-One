@@ -1,0 +1,23 @@
+General
+
+- The NMDA receptor is made of 4 membrane spanning subunits and is a voltage sensitive  ligand gated ion channel. 
+- Its primary ligand is glutamate with glycine as a co-agonist binding at non glutamate binding site 
+
+Activation process:
+
+- Priming of membrane by AMPA brings RMP → partial depolarisation 
+- Mg2+ displaced from NMDA receptor pore 
+- Binding of glutamate and glycine 
+- Ion flux: influx of Ca2+ and Na+, efflux of K+
+
+Ketamine antagonism:
+
+- Ketamine is a NMDA receptor non-competitive antagonist binding at an allosteric site producing analgesia and a dissociative hypnotic state 
+- Prevents ion flux → prevents neuronal depolarisation 
+- Downstream effect depends on cell type includes:
+
+> ↓Ca^2+^-mediated cell activation
+>
+> ↓2^nd^ messenger signalling
+>
+> ↓Gene transcription

@@ -1,0 +1,33 @@
+Scavenging systems are used to remove anaesthetic gases from theatre and discard them safely. This is to reduce theatre pollution and possible adverse effects to operating room staff
+
+High flow low pressure systems 
+
+Active Scavenging = Uses a vacuum to remove anaesthetic gases from theatre 
+
+**System**
+
+**Collecting System **
+
+Post APL valve, area where gas collects
+
+**Transfer system **30mm tubing which takes gas to receiving system (different size to breathing system tubing 22mm) 
+
+**Receiving system**
+
+Open systems are open at the base and allow air to be entrained
+
+- With excessive -ve pressure air can be entrained to prevent fluctuations in pressure
+- With excessive +ve pressure air moves out to prevent pressure fluctuations
+
+**Disposal system**
+
+- Connects to receiving system
+- Contains a device (e.g. fan) to cause a vacuum
+- Can remove 30 – 130 L/min gas
+- Causes gas to move from the receiving system to the disposal system 
+
+Connected to a pipe out of theatre to discard safely
+
+Safety Features
+
+- Requires energy for the disposal system

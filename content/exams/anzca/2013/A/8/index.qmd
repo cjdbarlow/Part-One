@@ -1,0 +1,72 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013A Question 8 (new) {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Draw**]{.task-verb} a diagram of the larynx, as it would be seen at direct laryngoscopy. [**Label**]{.task-verb} the important anatomical structures.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+**[Draw]{.task-verb}** the direct-laryngoscopy view with anatomical orientation, then **[label]{.task-verb}** the structures around the inlet.
+
+::: {.structure-headings}
+### Anterior Landmarks: Vallecula and Epiglottis
+
+### Laryngeal Inlet and True Vocal Cords
+
+### Posterior and Lateral Landmarks: Cartilages and Folds
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+New Exam: **80%** of candidates achieved a pass in this question
+
+To gain a pass mark, candidates were expected to produce and label a reasonable drawing or schematic. Structures that were expected to be identified included the vallecula, epiglottis, laryngeal inlet (or trachea), cartilages and true vocal cords. Alternate nomenclature was acceptable. Extra marks were awarded for identifying other structures, giving anatomical orientation and mentioning that this is a Cormack and Lehane Grade 1 view. No marks were awarded for textual description of nerves, blood vessels, muscles, functions, etc, however detailed, as this was not asked for. There were many spelling errors (not penalized), but my favourite was the instruction to place my laryngoscope into the vernacular!
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/A/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Airway and alveolar anatomy](/content/resp/airway_anatomy.qmd)

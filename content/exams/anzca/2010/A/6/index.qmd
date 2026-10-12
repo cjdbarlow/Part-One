@@ -1,0 +1,69 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010A Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the main drug groups used in the treatment of diabetes mellitus. For each group [**explain**]{.task-verb} the mechanism of action and [**give examples**]{.task-verb}.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} the drug groups and [**explain**]{.task-verb} each mechanism with an example. Use **Insulin** and **Non-Insulin Agents** as the main divisions, relating molecular actions to metabolic effects and differences in formulation time course.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**60%** of candidates passed this question.
+
+Diabetes mellitus is a common condition faced daily by anaesthetists. A thorough understanding of its management is a clinical necessity.
+
+This is a two parts question requiring candidates to list the various groups of drug for the treatment of diabetes mellitus, and to describe their mechanisms of action. It is important that sufficient details, such as molecular and metabolic effects after drug administration, are included for the latter part of the question.
+
+While most candidates were able to describe the classical oral hypoglycemic agents (i.e. sulphonylureas and biguanides) in detail, it was surprising that a substantial proportion of candidates did not consider insulin as a drug for the treatment of diabetes mellitus. Most answers were also vague regarding the different preparations of insulin that produce variation in the speed of onset and duration of action. Candidates who included the newer agents, such as thiazolidinediones, alpha glucosidase inhibitors and meglitinides, were rewarded with extra marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Insulins](/content/pharmacopoeia/endo/insulins.qmd)
+- [Oral Hypoglycaemics](/content/pharmacopoeia/endo/oral_hypoglycaemics.qmd)

@@ -1,0 +1,82 @@
+#### List:
+
+- Intro: small airway resistance
+- Test results
+
+#### Intro: small airway resistance
+
++--------------------------+-------------------------------------------------------------------------------------------------------------+
+| Small airways            | - \<2mm diameter                                                                                            |
+|                          | - ≥8th generation                                                                                           |
+|                          | - \<20% total resistance in health due to large total surface area                                          |
+|                          | - Silent zone: large increase in resistance before detectable                                               |
++--------------------------+-------------------------------------------------------------------------------------------------------------+
+| Air flow physiology      | - Flow rate = (P~1~ – P~2~) / airway resistance                                                             |
+|                          |   - Inspiration: P~Mouth~ – P~Alv~                                                                          |
+|                          |   - Expiration: P~Alv~ - P~Mouth~                                                                           |
+|                          | - Laminar flow in small airways (small radius, low Reynolds number)                                         |
+|                          |   - Resistance = (8 x length x viscosity) / (π x radius^4^)\                                                |
+|                          |     (radius power of 4, most important)                                                                     |
++--------------------------+-------------------------------------------------------------------------------------------------------------+
+| Small airway obstruction | - e.g. asthma, COPD                                                                                         |
+|                          | - Obstruction in expiration (\>inspiration) due to loss of radial traction                                  |
+|                          |   - ↓Radius → ↑airway resistance                                                                            |
+|                          |     - Variable resistance → variable alveolar time constants                                                |
+|                          |   - Earlier and worse dynamic airways collapse (DAC)                                                        |
+|                          |     - ↑Resistance → ↑Pressure drop → distal migration of equal pressure point (P~intrapleural~ = P~airway~) |
+|                          | - Occurs in forced expiration, +/- in tidal expiration if severe disease                                    |
+|                          |   - → ↑RV, ↑FRC, closing capacity, ↓flow rate                                                               |
++--------------------------+-------------------------------------------------------------------------------------------------------------+
+| Clinical implications    | - Require higher peak airway pressure                                                                       |
+|                          | - Require longer expiratory time                                                                            |
+|                          | - Risk of gas trapping, breath stacking, volutrauma and barotrauma                                          |
++--------------------------+-------------------------------------------------------------------------------------------------------------+
+| Test summary             | - Most sensitive in early disease: ↑CV                                                                      |
+|                          | - Most specific to small airways: ↓FEF25-75%                                                                |
+|                          | - Most quantitative of obstruction: ↓FEV1 (80-100% mild, 50-80% mod, \<50% sev), ↓PEFR                      |
++--------------------------+-------------------------------------------------------------------------------------------------------------+
+
+#### Test results: small airway obstruction
+
++--------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| Bedside PEFR                   | - ↓ (e.g. 4L/s c.f. 8L/s)                                                                                                                      |
++--------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| Spirometry                     | - ↓FER                                                                                                                                         |
+|                                | - ↓FEV1                                                                                                                                        |
+|                                | - ↔↓FVC (less affected)                                                                                                                        |
+|                                |                                                                                                                                                |
+|                                | ![](/content/exams/anzca/2011/B/14/prize-image001.jpg){fig-alt="Expired volume against time comparing normal and obstructed airways"}          |
++--------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| Static lung volume testing     | - ↑TLC, ↑FRC, ↑RV                                                                                                                              |
+|                                | - Helium dilution: underestimates FRC, TLC due to gas trapping (+/- bullae)                                                                    |
+|                                | - Whole body plethysmography: accurate                                                                                                         |
++--------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| Forced flow-volume curve       | - ↔↓PIFR (affected if severe)                                                                                                                  |
+|                                | - ↓PEFR, scooped-out expiratory curve, ↓FEF25-75                                                                                               |
+|                                | - ↓FVC (less affected)                                                                                                                         |
+|                                | - (↑TLC, ↑RV – unable to measure here)                                                                                                         |
+|                                |                                                                                                                                                |
+|                                | ![](/content/exams/anzca/2011/B/14/prize-image002.jpg){fig-alt="Normal and obstructed flow–volume loops"}                                      |
++--------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| Tidal volume-pressure curve    | - ↑Pressure work                                                                                                                               |
+|                                | - ± Active tidal expiration: if\                                                                                                               |
+|                                |   Expiratory work \> elastic inspiratory work\                                                                                                 |
+|                                |   i.e. area ABCG’A \> area ABCDEA                                                                                                              |
+|                                |                                                                                                                                                |
+|                                | ![](/content/exams/anzca/2011/B/14/prize-image003.jpg){fig-alt="Intrapleural pressure–volume loop showing obstructed expiration"}              |
++--------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| Single breath nitrogen washout | - ↑Time constant variation → ↑slope phase 3                                                                                                    |
+|                                |   - Poorly ventilated alveoli empty late                                                                                                       |
+|                                | - ↑DAC → ↑Closing volume (10% in health)                                                                                                       |
+|                                |                                                                                                                                                |
+|                                | ![](/content/exams/anzca/2011/B/14/prize-image004.jpg){fig-alt="Single-breath nitrogen washout curves showing obstruction and closing volume"} |
++--------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| Arterial blood gas             | - If chronic hypoventilation:                                                                                                                  |
+|                                |   - ↑PaCO~2~ (PACO~2~ ∝ VCO~2~/V~A~)                                                                                                           |
+|                                |   - ↔↓pH (0.03 per mmHg ↑PaCO~2~)                                                                                                              |
+|                                |   - Renal compensation: ↑HCO~3~^-^ = 24 + 0.4(PaCO~2~ – 40)                                                                                    |
+|                                | - If closing capacity \> FRC:                                                                                                                  |
+|                                |   - Shunt → ↓PaO~2~                                                                                                                            |
++--------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| Exercise testing               | - ↓Max voluntary minute ventilation → ↓DO~2~ and ↑respiratory work → ↓ peak aerobic power                                                      |
++--------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+

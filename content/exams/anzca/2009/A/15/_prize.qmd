@@ -1,0 +1,42 @@
+#### List:
+
+- Introduction
+- Pathway
+- Functions
+
+#### Intro: lactate
+
++-------------+------------------------------------------------------------------------------------+
+| Structure   | - 3 carbon molecule                                                                |
+|             | - Conjugate base of lactic acid                                                    |
++-------------+------------------------------------------------------------------------------------+
+| Homeostasis | - Daily production 1,500mmol, ∝ rate of anaerobic metabolism                       |
+|             | - Normal plasma concentration 0.5-2mmol/L\                                         |
+|             |   (up to 16mM in well trained athletes at max effort)                              |
+|             | - Formed in ICF; crosses cell membranes by facilitated diffusion (MCT transporter) |
++-------------+------------------------------------------------------------------------------------+
+| Pathology   | - In excess causes high anion gap metabolic acidosis                               |
+|             |   - ↓ Strong ion difference                                                        |
++-------------+------------------------------------------------------------------------------------+
+
+#### Formation / pathway:
+
+![](/content/exams/anzca/2009/A/15/prize-image001.jpg){fig-alt="Glucose, pyruvate, lactate, acetyl CoA and oxidative phosphorylation pathways"}
+
+#### Functions:
+
++----------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| Facilitates glycolysis     | - Pyruvate → lactate regenerates NAD^+^                                                                                                     |
+|                            | - Important if no mitochondria i.e. RBC                                                                                                     |
+|                            | - Important in anaerobic metabolism                                                                                                         |
++----------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| Substrate for metabolism   | - Lactate → oxidative phosphorylation as in the above pathway                                                                               |
+|                            | - Will occur in any nucleated cell when O~2~ supply restored                                                                                |
+|                            | - Efficient uptake from plasma into myocardium                                                                                              |
++----------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| Substrate for Cori cycle   | ![](/content/exams/anzca/2009/A/15/prize-image002.jpg){fig-alt="Cori cycle linking muscle lactate production with hepatic gluconeogenesis"} |
+|                            |                                                                                                                                             |
+|                            | - Re-generate glucose during anaerobic exercise                                                                                             |
++----------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| Substrate for glycogenesis | ![](/content/exams/anzca/2009/A/15/prize-image003.jpg){fig-alt="Lactic acid conversion to glucose and glycogen"}                            |
++----------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+

@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018A Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+(a) [**Describe**]{.task-verb} the mechanisms by which heat is transferred between the body and its environment (30%)
+
+(b) [**Describe**]{.task-verb} methods by which body heat may be conserved under anaesthesia (70%)
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} each physical transfer mechanism before applying it to heat conservation. Allocate the greater part of the answer to methods under anaesthesia, linking reduced losses and increased gains to the mechanisms in part (a).
+
+::: {.structure-headings}
+### Heat Transfer: Radiation, Convection, Conduction and Evaporation
+
+### Insulation and Environmental Temperature
+
+### Forced Air and Radiant Warming
+
+### Contact and Fluid Warming
+
+### Respiratory Heat and Moisture Conservation
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**42%** of candidates achieved a pass in this question
+
+Part A. Most candidates provided a list of heat transfer mechanisms but simply listing radiation, conduction, convection and evaporation gained few marks. Repeating the mechanism without explanation was common and inadequate eg heat loss due to radiation is due to radiation of heat from the body. Better candidates defined heat then provided precise descriptions of heat loss mechanisms using scientific terms. They also pointed out that the body can gain heat via these mechanisms (except evaporation).
+
+Part B. Normal responses to a fall in body temperature are blunted during anaesthesia therefore external methods of conserving heat are required. Explanation of these methods (reducing loss / increasing gains) was required. Listing methods such as covering the patient with blankets, use of forced air warming, under patient insulation, theatre temperature control, overhead radiant heaters and others was important, but to demonstrate understanding reference to the heat loss/gain mechanisms in Part A was needed. Many candidates claimed that the rapid fall in temperature at the onset of anaesthesia is due to heat loss from the body. Few mentioned that this is actually due to redistribution of heat within the body and therefore is not strictly relevant to this question. Many candidates wrote extensively about the physiology of thermoregulation, the thermoneutral zone, interthreshold range and drew graphs of temperature versus time during anaesthesia - this simply wasted time.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2018/A/14/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2018/A/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Body temperature](/content/metabolic/temperature.qmd)

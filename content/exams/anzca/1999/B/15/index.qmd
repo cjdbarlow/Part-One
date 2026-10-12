@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999B Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the preparation of oxygen for medical use. [**List**]{.task-verb} the physical properties of oxygen. [**Outline**]{.task-verb} the potential adverse effects associated with its medical use.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} **Preparation**, [**list**]{.task-verb} **Physical Properties**, and [**outline**]{.task-verb} **Potential Adverse Effects**. Keep commercial production and oxygen concentrators together within preparation.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**50%** of candidates passed this question. Many answers only addressed one part of the question. Preparation, physical properties and toxicity should all have been covered. Better answers covered the following points:
+
+Preparation
+
+1. Fractional distillation of liquid air. Based on different boiling pints of oxygen and nitrogen. Used for commercial production.
+2. Oxygen concentrators. Absorption of nitrogen by "artificial zeolite". Used for home use and remote locations.
+
+Physical properties
+
+Colourless, odourless gas. Molecular weight 32. Critical temperature – 119^o^C. Supports combustion.
+
+Potential adverse effects
+
+Acute pulmonary toxicity, absorption atelectasis, decreased hypoxic respiratory drive in patients with hypercarbic respiratory failure, retrolental fibroplasia, hyperbaric effects including convulsions and pulmonary toxicity.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Oxygen](/content/pharmacopoeia/resp/oxygen.qmd)
+- [Medical Gas Supply](/content/equipment/gas_supply.qmd)

@@ -1,0 +1,105 @@
+List:
+
+- Summary of functions
+- Diagramme of juxtamedullary nephron
+- Reabsorption
+- Countercurrent multiplication
+- Urea recycling
+- Countercurrent exchange
+- Autoregulation of GFR
+
+#### Summary of functions:
+
++-----------------------+------------------------------------------------------------------------------------+
+| Reabsorption          | - Water and solute                                                                 |
+|                       | - Less important than proximal tubule                                              |
++-----------------------+------------------------------------------------------------------------------------+
+| Urine concentration   | - More important for juxtamedullary nephrons                                       |
+|                       | - Hypertonic interstitium allows selective water reabsorption under control of ADH |
+|                       |   - Created by countercurrent multiplication (50%) and urea recycling (50%)        |
+|                       |   - Maintained by countercurrent exchange in vasa recta                            |
++-----------------------+------------------------------------------------------------------------------------+
+| Autoregulation of GFR | - Adjust afferent arteriolar tone depending upon distal tubule flow rate           |
+|                       | - Chemical: tubuloglomerular feedback                                              |
+|                       | - Hormonal: renin-angiotensin                                                      |
++-----------------------+------------------------------------------------------------------------------------+
+
+#### Diagramme of juxtamedullary nephron:
+
+![](/content/exams/anzca/2003/A/16/prize-image001.jpg){fig-alt="Juxtamedullary nephron and vasa recta with cortical and medullary osmolarity gradients"}
+
+#### Reabsorption:
+
++----------------------+----------------------------------------+
+| Thin descending limb | - Solute-impermeable                   |
+|                      | - Water reabsorbed by osmosis          |
++----------------------+----------------------------------------+
+| Thick ascending limb | - Secondary active solute transport    |
+|                      | - Apical Na^+^K^+^2Cl^-^ symporter     |
+|                      | - Basolateral NaKATPase                |
+|                      | - \~25% of filtered Na^+^, Cl^-^, K^+^ |
++----------------------+----------------------------------------+
+
+#### Countercurrent multiplication:
+
++----------+---------------------------------------------------------------------------------------+
+| Step 1   | - Thick ascending limb is permeable to solute, not water                              |
+|          | - Filtered solute reabsorbed by 2° active transport                                   |
+|          | - Passage via apical Na^+^K^+^2Cl^-^ symporter                                        |
+|          | - Gradient created by basolateral Na^+^K^+^ATPase                                     |
+|          | - Effects: ↓urine osmolality, ↑interstitial osmolality *to a level above normal*      |
++----------+---------------------------------------------------------------------------------------+
+| Step 2   | - Thin descending limb is permeable to H~2~O, not solute                              |
+|          | - Filtered H~2~O reabsorbed by osmosis (eventually 10% of that filtered)              |
+|          | - Effects: ↑urine osmolality, ↓interstial osmolality *but not back to starting level* |
++----------+---------------------------------------------------------------------------------------+
+| Steps 3+ | - Process is repeated hence amplified                                                 |
++----------+---------------------------------------------------------------------------------------+
+
+#### Urea recycling:
+
++---------------+--------------------------------------------------------------------------------------+
+| Urea handling | - Freely filtered                                                                    |
+|               | - 50% reabsorbed by proximal tubule                                                  |
+|               | - Same 50% secreted into thin descending loop of Henle                               |
+|               | - Same 50% reabsorbed in medullary collecting ducts via ureaporins (if ADH present)  |
++---------------+--------------------------------------------------------------------------------------+
+| Mechanism     | - Repeat transit between thin descending loop of Henle and medullary collecting duct |
+|               |   - Antegrade via the urine                                                          |
+|               |   - Retrograde via the interstitium                                                  |
+|               | - Multiple passages of each molecule before excretion → ↑interstitial osmolality\    |
+|               |   (as if several cars crowding a round-a-bout)                                       |
++---------------+--------------------------------------------------------------------------------------+
+
+#### Countercurrent exchange:
+
++-----------+-----------------------------------------------------------------------------------------------------+
+| Principle | - Unidirectional rapid blood supply would cause dilution of interstitium by osmosis -i.e. elsewhere |
+|           | - Bidirectional slow flow minimizes dilution – i.e. vasa recta                                      |
++-----------+-----------------------------------------------------------------------------------------------------+
+| Mechanism | - Vasa recta exist alongside juxtamedullary nephrons                                                |
+|           | - Descending limb: water lost, solute gained                                                        |
+|           | - Ascending limb: water gained, solute lost                                                         |
+|           | - Hence minimal change to interstitium                                                              |
+|           | - (Note also some reabsorption into lymphatics)                                                     |
++-----------+-----------------------------------------------------------------------------------------------------+
+
+#### Autoregulation of glomerular filtration rate:
+
++----------+--------------------------------------------------------------------------------------+
+| Chemical | i.e. tubuloglomerular feedback                                                       |
+|          |                                                                                      |
+|          | - ↓n(NaCl) delivered to macula densa in distal convoluted tubule                     |
+|          | - ↓Cell stretch                                                                      |
+|          | - ↓ATP release via stretch-activated channel hence ↓adenosine                        |
+|          | - Dilatation of afferent arteriole → ↓resistance to flow → ↑renal blood flow and GFR |
++----------+--------------------------------------------------------------------------------------+
+| Hormonal | i.e. renin-angiotensin system                                                        |
+|          |                                                                                      |
+|          | - ↓n(NaCl) delivered to macula densa in distal convoluted tubule                     |
+|          | - ↓Cell stretch → a ) ↓PGE~2~ release b) ↓adenosine (as above)                       |
+|          | - ↑Renin release from juxtaglomerular cell → ↑Angiotensin 2                          |
+|          | - Generalised vasoconstriction → ↑mAP → ↑RBF and GFR                                 |
+|          | - Efferent \> afferent arteriolar vasoconstriction → GFP ± GFR                       |
+|          | - ↑Na^+^/H~2~O reabsorption from proximal tubule → ↑ECF volume → ↑mAP → ↑RBF and GFR |
++----------+--------------------------------------------------------------------------------------+

@@ -1,0 +1,102 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004B Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the secretion and functions of renin and angiotensin.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} secretion and the renin–angiotensin sequence, then connect angiotensin actions to sodium and water conservation. Include feedback control and keep downstream hormones proportional to the question.
+
+::: {.structure-headings}
+### Renin Source and Release Stimuli
+
+### Angiotensinogen, Renin and ACE
+
+### Angiotensin II Vascular and Renal Actions
+
+### Other Actions and Angiotensin Subtypes
+
+### Feedback Inhibition
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**48%** of candidates passed this question.
+
+This question was asked in a slightly different form in July 2002 and attracted a similar pass rate at that time. The main points that would gain a pass were:
+
+- A description of the site of release of renin.
+- The main stimuli that lead to the release of renin, including a reduction of systemic blood pressure and extracellular fluid, an increase in sympathetic stimulation and a decreased delivery of solutes to the macula densa.
+- The cleaving angiotensin I from angiotensinogen by renin.
+- The conversion of angiotensin I to angiotensin II by the action of angiotensin converting enzyme, mainly by contact with pulmonary endothelium.
+- A description of the main functions of angiotensin II, including vasoconstriction, alteration of glomerular filtration rate, direct action on the renal tubules and stimulation of aldosterone secretion.
+- The ability of angiotensin II to inhibit the secretion of renin.
+- This process leading ultimately to conservation of sodium and water.
+
+Additional information that attracted further marks included:
+
+- Detailed information about the process of renin secretion.
+- Describing other stimuli for renin secretion over and above those described above.
+- Explaining the site of synthesis of angiotensinogen.
+- A description of the size, structure and half-lives of renin and the various subtypes of angiotensin.
+- Other functions of angiotensin II, over and above those described above.
+- The relative potency of angiotensin III.
+- More detailed descriptions of the intimate processes and interactions of the system.
+
+Common mistakes or omissions included:
+
+- Confusion over the exact cells that secrete renin.
+- Inexact descriptions or omissions of the interrelationship of renin to angiotensin.
+- Confusion over the way solute load reaching the macula densa affects renin secretion.
+- Incorrect associations with the process of tubuloglomerular feedback.
+- Very detailed and often correct descriptions of the actions of aldosterone and vasopressin, at the expense of the required information.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2004/B/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Renal endocrine function](/content/renal/endocrine.qmd)

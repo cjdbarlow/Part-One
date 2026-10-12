@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003B Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} GABA’s role as a neuro transmitter and [**indicate**]{.task-verb} how its actions may be modified by pharmacological agents.
+:::
+
+Also asked in: [2001A Question 10](/content/exams/anzca/2001/A/10/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} GABA’s distribution and inhibitory actions through its receptor types, then [**indicate**]{.task-verb} how drugs modify these actions and the direction of each effect.
+
+::: {.structure-headings}
+### GABA: Distribution, Synthesis and Removal
+
+### GABA-A Receptors
+
+### GABA-B Receptors
+
+### Pharmacological Modification
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**63%** of candidates passed this question but there were no outstanding answers. This question was also asked in March 2001, when the pass rate was lower.
+
+The answer should have recognized the importance of GABA as a major inhibitory neurotransmitter, and given a description of the distribution and function of GABA and its receptors. Many candidates failed to mention that there were different GABA receptors. A brief description of the neurophysiology of the GABA receptors would have facilitated the subsequent description of how different agents modify the action of GABA at different sites or by different mechanisms. Many answers did not clearly distinguish the effect of benzodiazepines from that of barbiturates on the GABA receptor. A list of drugs acting on the GABA receptor would not receive credit if the direction of effect was not indicated. Only a few answers mentioned non-anaesthetic drugs that affected GABA.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2001/A/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Receptor types](/content/pharmacology/receptor_types.qmd)
+- [Benzodiazepines](/content/pharmacopoeia/neuro/benzodiazepines.qmd)

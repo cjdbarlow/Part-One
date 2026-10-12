@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010A Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} how Non Steroidal Anti-Inflammatory Drugs exert their clinical effects. [**Outline**]{.task-verb} the advantages and disadvantages in using COX-2 selective agents.
+:::
+
+Also asked in: [2013B Question 11](/content/exams/anzca/2013/B/11/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the link between enzyme inhibition and each clinical effect, then [**outline**]{.task-verb} the advantages and disadvantages of selective COX-2 inhibition.
+
+::: {.structure-headings}
+### Cyclo-Oxygenase Inhibition
+
+### Analgesic, Anti-Inflammatory and Antipyretic Effects
+
+### Advantages of COX-2 Selectivity
+
+### Disadvantages of COX-2 Selectivity
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**29%** of candidates passed this question.
+
+Candidates were expected to describe how the inhibition of cyclo-oxygenase results in both positive and negative clinical effects of NSAIDs. Many candidates did not link the reduction in prostaglandins, leukotrienes, thromboxane and interleukin to specific NSAID actions such as anti-pyrexia, analgesia and anti-inflammation. Physiological actions of prostaglandins and thromboxane were described but did not gain marks unless related to the clinical effects of NSAIDs. Marks were awarded for differentiating the isoforms of cyclo-oxygenase and the logic behind preferentially inhibiting COX-2. A structured approach naming the clinical effects of NSAID‟s and how they occur through manipulation of eicosanoid production gained higher marks.
+
+Confusion occurred regarding the effect of COX-2 selective agents on asthma. Generally the precipitation of asthma is reduced. Omitting the allergic potential of COX-2 inhibitors and the fact that Parecoxib is a pro-drug were common. Extra marks were awarded for describing the effects of NSAIDs on bone formation, the ductus arteriosus, the pregnant uterus and bowel cancer.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2010/A/5/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [COX inhibitors](/content/pharmacopoeia/analgesics/cox_inhibitors.qmd)
+- [Prostaglandins](/content/endo/prostaglandins.qmd)

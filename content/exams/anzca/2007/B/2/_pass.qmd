@@ -1,0 +1,65 @@
+Preoperatively LMWH/Enoxaparin is often commenced for patients on Warfarin bridging therapy.
+
+For a patient with normal renal function who needs bridging therapy based on a risk analysis warfarin is generally ceased 5 day preoperatively and LMWH commenced at 1mg/kg BD or 1.5mg/kg daily based on a subtherapeutic INR.
+
+Risk analysis is made based on the bleeding risk of surgery vs the patients rick of thrombosis. 
+
+**Considerations for stopping Warfarin:**
+
+**Warfarin**
+
+Warfarin is a slow onset long-acting anticoagulant.
+
+MOA:
+
+Competitively inhibits Vit K reductase production of Factors 2, 7, 9 10 and protein S 
+
+Offset:
+
+Monitored with INR
+
+t1/2 = 40 hours, slow clearance 
+
+Anticoagulation effect lasts 3-5 days → need to plan ahead for surgery and managed in emergency cases
+
+Factors Prolonging effects:
+
+Hepatic impairment 
+
+Vit K deficiency 
+
+Some Drugs 
+
+Reversal:
+
+Vit K
+
+Prothombinex
+
+Fresh Frozen Plasma 
+
+**LMWH**
+
+LMWH are fast onset short acting anticoagulant.
+
+MOA:
+
+Enhance the action of antithrombin III in the inactivation of factor Xa→ Inhibit the final common pathway  
+
+Onset:
+
+Effect not usually monitored 
+
+Onset usually \~1hr after SC administration and peak effect \~4hrs post administration. Duration \~12hours dependant on renal function.
+
+Additive effect with warfarin so need to ensure INR subtherapeutic \~2-3 days after ceasing warfarin.
+
+Dose: (reduce in renal impairment)
+
+Prophylactic dose 40mg daily
+
+Treatment/Anticoagulant dose 1mg/kg BD or 1.5mg/kg Daily 
+
+Procedures:
+
+Last prophylactic dose minimum of 12 hours before surgery, neuraxial blockade

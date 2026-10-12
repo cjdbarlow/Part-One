@@ -1,0 +1,35 @@
+**Principles**:
+
+Invasive arterial blood pressure monitoring uses the principle of hydraulic coupling to provide continuous beat-to-beat blood pressure measurement.
+
+Diagram 
+
+![](/content/exams/anzca/2020/B/13/standard-image45.png){fig-alt="Arterial pressure measurement components A to G and Wheatstone bridge strain gauge circuit"}
+
+Components:
+
+- Intra Arterial catheter - short, narrow diameter catheter that reduces the risk of clots and allows for collateral circulation  
+- Bubble free, fluid column (non-compressible), in a stiff non-compliant tubing that connects catheter to pressure transducer for hydraulic coupling
+- Optional sampling port 
+- Pressure transducer: fluid in the tubing in direct contact with one side of a flexible diaphragm, diaphragm contains a strain gauge connected to a wheat-stone bridge to convert the pressure waveform into an electrical signal 
+- Wheatstone Bridge:
+- Pressure changes at the diaphragm → strain gauge resistance change → voltage difference across the whetstone bridge is proportional to the pressure applied  
+- Pressurised fluid, infused at \~3ml/hr to maintain catheter 
+- Electrical cable 
+- Signal processor, amplification and display: pressure transducer relays its electrical signal via a cable to a microprocessor where it is filtered, amplified, analysed and displayed on a screen as a waveform of pressure vs. time     
+
+**Sources of Error**:
+
+Static inaccuracy:
+
+- Failure to calibrate ‘zero’ to atmospheric pressure → unpredictable ↑or ↓ in read, for a pressure transducer to read accurately, atmospheric pressure must be discounted from the pressure measurement. This is done by exposing the transducer to atmospheric pressure and calibrating the pressure reading to zero
+- Failure to set or adjust transducer height to accuracy represent target organ brain or heart. Transducer too low → falsely high BP, Transducer too high →falsely low BP
+
+Dynamic inaccuracy:
+
+- **Resonance**: natural frequency of the IABP equipment must be significant different from the system being measured. Ie to measure up to a HR of 180bpm (3Hz) the natural frequency of the equipment system must be at least 8 times higher (24Hz) or the systems will resonate resulting in inaccuracy. 
+- **Dampening:** anything that reduces the energy in the oscillating system will reduce the amplitude of the oscillations → dampening. 
+
+*Over-dampening* occurs with fluid friction in the tubing, ↑ compliance of tubing, air bubbles in the hydraulic couple etc.
+
+These can cause an under-reading of systolic blood pressure (SBP) and over- reading of diastolic blood pressure (DBP) although the mean blood pressure is relatively unaffected.

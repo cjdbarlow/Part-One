@@ -1,0 +1,13 @@
+Vacuum insulated evaporator is used to store liquid oxygen for bulk supply.  
+
+ ![](/content/exams/anzca/2016/B/8/standard-image23.png){fig-alt="Vacuum insulated evaporator with pressure raising vaporiser, heat exchanger, regulators and cylinder backup"}
+
+VIE is constructed of a double walled vessel with 0.3kpa vacuum to minimise ambient /environmental heat transfer. 
+
+- It stores oxygen under pressure \~700kpa and at -170→-180degC, above boiling point but below critical temperature. 
+- It does not require active cooling, instead as oxygen is drawn off for use the latent heat of vaporisation provides vessel cooling
+
+Effects of fluctuations in ambient temp, pressure and oxygen demand 
+
+- low demand or high ambient temp →  ↑VIE temp →  ↑VIE pressure →  blow off valve opens → vaporisation → cools residual content 
+- high demand or low ambient temp →↓VIE temp →↓VIE pressure → pressure raising valve opens → environmental heat warms liquid oxygen in evaporator/pressure rising vaporiser → oxygen supply

@@ -1,0 +1,62 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000A Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the important determinants of work of breathing in an adult human at rest. [**Explain**]{.task-verb} how to minimise work of breathing.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Elastic Work**, **Airway Resistance Work**, and **Tissue Resistance Work** using a labelled pressure–volume graph. Then [**explain**]{.task-verb} **Minimising Work** with a graph relating respiratory rate to elastic, resistance and total work.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Slightly less than **50%** of candidates passed this question. A number of candidates appeared to be unaware of the ‘work of breathing' as a concept. Better answers defined the work of breathing and gave correct SI units (Joules). A well-labelled pressure-volume graph was an ideal way to clearly and concisely demonstrate an understanding of elastic and non-elastic/resistance work, potential energy stored elastically for passive expiration, and energy dissipated as heat. Percentage contributions to overall work on overcoming elastic forces, airway resistance and tissue viscous resistance enhanced answers. A figure for O~2~ consumption by the respiratory muscles was expected. The second part of the question related to minimising the work of breathing and was particularly poorly done. Better answers used graphic representation of the work and respiratory rate relationship for elastic work, resistance work and overall work. Comparing work of breathing and optimal respiratory rate in situations of increased resistance work and increased elastic work enhanced answers. A number of candidates wrote very “clinical” answers emphasising patho-physiology, ICU management principles and lists of drugs useful to treat increased airways resistance. This was not required. Simply writing down Poiseiulle’s equation or Reynold’s number with no effort to relate them to work of breathing was also unhelpful. Mentioning FRC and the role of surfactant was useful but not to the exclusion of a discussion of other factors.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Work of Breathing](/content/resp/work_of_breathing.qmd)

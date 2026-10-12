@@ -1,0 +1,40 @@
+#### List:
+
+- Hb structure
+- In the RES
+- In the blood
+- In the liver
+- Enterohepatic circulation and excretion
+
+#### Haemoglobin (Hb) structure:
+
+- Complex protein in RBCs
+- 4 x haem (protoporphyrin with central Fe^2+^)
+- 4 x globin (polypeptide, mostly α~2~β~2~ in adult)
+
+#### In the reticulo-endothelial system (RES):
+
+- i.e. spleen red pulp, lymph nodes
+- RBC destroyed after \~ 120 days
+- Iron transported via ferritin to the bone marrow for re-incorporation
+- Globin degraded into amino acids for recycling
+- Protoporphyrin converted into bilirubin and excreted
+
+![](/content/exams/anzca/2000/A/8/prize-image001.jpg){fig-alt="Breakdown of haemoglobin into globin and haem, then biliverdin and bilirubin"}
+
+#### In the blood:
+
+- Bilirubin is unconjugated, lipid-soluble
+- Diffuses into blood
+- Bound to albumin
+
+#### In the liver:
+
+- BR taken up by hepatocyte
+- BR-DG (water-soluble) secreted into bile (NOTE: rate limiting step), enters intestine
+
+![](/content/exams/anzca/2000/A/8/prize-image002.jpg){fig-alt="Conjugation of bilirubin to bilirubin mono-glucuronide and di-glucuronide"}
+
+#### Enterohepatic circulation and excretion:
+
+![](/content/exams/anzca/2000/A/8/prize-image003.jpg){fig-alt="Enterohepatic circulation and urinary and faecal excretion of bilirubin metabolites"}

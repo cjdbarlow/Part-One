@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019A Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the principles of antibiotic prophylaxis for surgical site infections using cefazolin in knee joint replacement surgery as an example.
+:::
+
+Also asked in: [2013B Question 9](/content/exams/anzca/2013/B/9/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} each principle, then apply it to cephazolin in joint replacement surgery.
+
+::: {.structure-headings}
+### Indication and Likely Organisms
+
+### Antibiotic Selection
+
+### Timing, Dose and Tissue Concentration
+
+### Repeat Dosing and Duration
+
+### Adverse Effects and Resistance
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**59.7%** of candidates achieved a pass in this question
+
+The appropriate use of antibiotics for surgical prophylaxis is fundamental to the provision of anaesthesia. As such it was expected that candidates would have a good knowledge of the principals around why cefazolin is used, the correct dose, timing and the risks and benefits of use. Knowledge about the use of alternative antibiotics and why / when this might be needed gained credit. The principals of prophylaxis did need to be related to the surgery asked in the question (knee replacement surgery) and it was expected that candidates would use this operation to support the use of cefazolin. It was very difficult to achieve a pass without using knee replacement surgery to support the answer.
+
+Better answers used a structure that allowed the development of the concepts important to antibiotic prophylaxis such as correct timing, dosage and patient related factors (multi drug resistant organism colonisation), and included some pharmaceutical information that make cefazolin an appropriate choice such as a wide therapeutic index and a low prevalence of adverse drug reactions.
+
+Answers that failed often did not give enough detail around the principals of prophylaxis in relation to joint replacement surgery, and the reason that cefazolin is a suitable choice. Also there was often correct but irrelevant detail to the question asked, including a detailed description of different types of surgery.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/B/9/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/B/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Antibiotic resistance](/content/micro/resistance.qmd)
+- [Bacteria](/content/micro/bacteria.qmd)

@@ -1,0 +1,70 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001B Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the physiological changes that occur in respiratory function during pregnancy.
+:::
+
+Also asked in: [2008A Question 12](/content/exams/anzca/2008/A/12/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Anatomical Changes**, **Lung Volumes**, **Ventilatory Pattern and Minute Ventilation**, **Arterial Blood Gases**, and **Oxygen Flux**. Connect the changes to their physiological implications for maternal oxygen stores and placental transfer.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Although almost **60%** of candidates passed this question few achieved high marks. Key points expected included changes to the various lung volumes, pattern of respiration, minute ventilation, and the resultant arterial blood gases. Additional marks were gained for outlining the various anatomical changes that occur, explaining the physiological implications, and outlining the changes to oxygen flux. Demonstrating understanding of the ramifications of the various changes enhanced answers. For example the reduction in FRC (and therefore the lung O~2~ stores), coupled with the increased O~2~ utilization, increases the rapidity of onset of hypoxaemia. Also the arterial gas tension changes enhance placental gas transfer to the benefit of the foetus.
+
+Common misconceptions included tidal volume decreasing or remaining unchanged, significant rises in ventilatory rate, elevation of PaCO~2~, reduction of PaO~2~, increased shunt, and significant reduction in vital capacity.
+
+A number of candidates wrote in some detail on the clinical anaesthetic implications of the airway and ventilatory changes. This only gained additional marks where clear understanding of the underlying physiology was demonstrated.
+
+Candidates are referred to Nunn’s Applied Respiratory Physiology 5^th^ edition Chapter 13 and to the 5^th^ edition of Anaesthesia. Miller R. D (ed). Chapter 57.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Respiratory Changes of Pregnancy](/content/obs/preg_resp.qmd)

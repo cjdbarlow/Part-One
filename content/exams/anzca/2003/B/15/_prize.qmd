@@ -1,0 +1,59 @@
+#### List:
+
+- General description
+- Activation process
+- Physiological role
+
+#### General description:
+
++---------------+-------------------------------------------------------------------------------------+
+| Type          | - Ligand-gated voltage-dependent glutamate receptor\                                |
+|               |   (i.e. both are required for its activation)                                       |
+|               | - Others: AMPA, kainate)                                                            |
++---------------+-------------------------------------------------------------------------------------+
+| Location      | - Spinal cord: especially dorsal horn 2° nociceptive afferents                      |
+|               | - Brain: especially hippocampus                                                     |
++---------------+-------------------------------------------------------------------------------------+
+| Structure     | - Transmembrane, tetrameric (in vivo)                                               |
+|               | - 2 x NR1 subunits (obligatory) – binds glycine                                     |
+|               | - 2 x NR2 subunits (modulatory) – binds glutamate                                   |
+|               | - Central ion channel pore with Mg^2+^ plug                                         |
++---------------+-------------------------------------------------------------------------------------+
+| Binding sites | - Glutamate site (agonist)                                                          |
+|               | - Glycine site (coagonist)                                                          |
+|               | - Phencyclidine site (within the pore): ketamine, PCP (non-competitive antagonists) |
+|               | - N~2~O and Xe: site unknown (non-competitive antagonists)                          |
++---------------+-------------------------------------------------------------------------------------+
+
+#### Activation process:
+
++----------------+----------------------------------------------------------+
+| 1.Priming      | - Activation of adjacent AMPA or NK-1 receptors          |
+|                | - Partial depolarisation → removal of Mg^2+^ plug        |
++----------------+----------------------------------------------------------+
+| 2.Coactivation | - Binding of glycine                                     |
++----------------+----------------------------------------------------------+
+| 3.Activation   | - Binding of glutamate                                   |
+|                | - Ion flux (Ca^2+^ influx \> Na^+^ influx = K^+^ efflux) |
+|                | - Cell-dependent downstream effects                      |
++----------------+----------------------------------------------------------+
+
+#### Physiological role:
+
++-----------------------+----------------------------------------------------------------------------------+
+| Central sensitisation | - Gain of function of wide dynamic range 2° afferents at the dorsal horn         |
+|                       | - Inflamed tissue, damaged nerve → NMDA activation +++                           |
+|                       | - Short term: ↑receptor excitability = wind up                                   |
+|                       | - Long term: ↑↓gene transcription → synaptic reinforcement = potentiation        |
+|                       | - Hence hyperalgaesia, allodynia, chronic pain                                   |
++-----------------------+----------------------------------------------------------------------------------+
+| Neuroplasticity       | - e.g. learning, memory                                                          |
+|                       | - Repetition → high frequency NMDA activation                                    |
+|                       | - Activity-dependent facilitation → long-term potentiation                       |
+|                       | - Activity-dependent inhibition → long-term depression                           |
++-----------------------+----------------------------------------------------------------------------------+
+| Excitotoxicity        | - Ischaemia → failure of ion homeostasis → depolarisation → release of glutamate |
+|                       | - NMDA activation+++ → ↑ICF \[Ca^2+^\]                                           |
+|                       | - ↑Activity of lytic enzymes, apoptosis                                          |
+|                       | - Mitochondrial dysfunction, further ↓\[ATP\]                                    |
++-----------------------+----------------------------------------------------------------------------------+

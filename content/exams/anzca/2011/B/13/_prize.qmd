@@ -1,0 +1,92 @@
+#### List:
+
+- CSF cycle
+- CSF functions
+- CSF vs plasma
+
+#### CSF cycle:
+
++--------------+------------------------------------------------------------------------------------------------------------------------------------+
+| Location     | - 150mL total                                                                                                                      |
+|              | - 50% in the ventricles                                                                                                            |
+|              | - 50% in the subarachnoid space of cerebral cortex and spinal cord                                                                 |
++--------------+------------------------------------------------------------------------------------------------------------------------------------+
+| Production   | - By choroid plexus of first, second, third ventricles and ependymal cells                                                         |
+|              | - 500mL/day, constant production if cerebral perfusion pressure \>70mmHg                                                           |
+|              | - Complete turnover every 24 hours                                                                                                 |
++--------------+------------------------------------------------------------------------------------------------------------------------------------+
+| Circulation  | - Due to pulsatile flow in choroidal arteries                                                                                      |
+|              | - Lateral → third → fourth                                                                                                         |
+|              | - Fourth → around cerebral hemispheres via foramen of Magendi and foramina of Luschka                                              |
+|              | - Fourth → down central canal of spinal cord                                                                                       |
++--------------+------------------------------------------------------------------------------------------------------------------------------------+
+| Reabsorption | - 90% into arachnoid villi superior sagittal sinus                                                                                 |
+|              | - 10% Into spinal arachnoid villi → epidural venous sinuses                                                                        |
+|              | - Minimal below ICP 7mmHg. Linear increase from ICP 7-23mmHg.                                                                      |
++--------------+------------------------------------------------------------------------------------------------------------------------------------+
+| Graph        | ![](/content/exams/anzca/2011/B/13/prize-image001.jpg){fig-alt="Cerebrospinal fluid production and reabsorption against pressure"} |
+|              |                                                                                                                                    |
+|              | Note: X axis unit mmCSF not mmHg                                                                                                   |
+|              |                                                                                                                                    |
+|              | Note: Y axis zero point not at the X axis                                                                                          |
+|              |                                                                                                                                    |
+|              | (Ganong’s Review of Medical Physiology)                                                                                            |
++--------------+------------------------------------------------------------------------------------------------------------------------------------+
+
+#### CSF functions:
+
++------------------------------+--------------------------------------------------------------------------------------------+
+| Physical protection          | - Cushion surrounding the brain                                                            |
+|                              | - Low specific gravity due to low protein content (1.005 cf. 1.03 Plasma)                  |
+|                              | - Reduces effective weight of brain from 1.4kg → 40g                                       |
+|                              | - Hence ↓inertia, ↓risk of injury if sudden change of direction                            |
++------------------------------+--------------------------------------------------------------------------------------------+
+| ICP buffer                   | - ↑ICP → spinal displacement of CSF                                                        |
++------------------------------+--------------------------------------------------------------------------------------------+
+| Electrolyte homeostasis      | - BBB and B-CSF-B are impermeable to most ions                                             |
+|                              | - Active transport maintains concentrations.                                               |
+|                              | - Stable ionic environment essential for brain electrical activity                         |
++------------------------------+--------------------------------------------------------------------------------------------+
+| Acid-base homeostasis        | - BBB and B-CSF-B are impermeable to H^+^ and OH^-^                                        |
+|                              | - Stable pH important for brain activity e.g. during intense exercise with lactic acidosis |
++------------------------------+--------------------------------------------------------------------------------------------+
+| Control of breathing         | - CO~2~ can cross BBB, H+ cannot                                                           |
+|                              | - CO~2~ plasma → CSF → brain ECF                                                           |
+|                              | - CO~2~ + H~2~O \<-\> H^+^ + HCO~3~^-^                                                     |
++------------------------------+--------------------------------------------------------------------------------------------+
+| Nutrient and waste transport | - Active transport between blood \<-\> CSF \<-\> brain ECF                                 |
++------------------------------+--------------------------------------------------------------------------------------------+
+
+#### Comparison to plasma:
+
++------------+------------------+-------------------+
+|            | **Plasma**       | **CSF**           |
++============+==================+===================+
+| Appearance | Yellowish        | Clear, colourless |
++------------+------------------+-------------------+
+| SG         | Whole blood 1.06 | 1.005             |
+|            |                  |                   |
+|            | Plasma 1.03      |                   |
++------------+------------------+-------------------+
+| Osmolality | 289              | 289               |
++------------+------------------+-------------------+
+| Na^+^      | 140              | 140               |
++------------+------------------+-------------------+
+| K^+^       | 4                | 2.4               |
++------------+------------------+-------------------+
+| Cl^-^      | 100              | 114               |
++------------+------------------+-------------------+
+| HCO~3~^-^  | 24               | 24                |
++------------+------------------+-------------------+
+| Mg^2+^     | 1                | Higher            |
++------------+------------------+-------------------+
+| Ca^2+^     | 2.4              | 1.2 (50%)         |
++------------+------------------+-------------------+
+| Glucose    | 5                | 3 (60%)           |
++------------+------------------+-------------------+
+| Protein    | 70g/L            | 0.2g/L            |
++------------+------------------+-------------------+
+| pH         | 7.4              | 7.32              |
++------------+------------------+-------------------+
+| pCO~2~     | 40               | 50                |
++------------+------------------+-------------------+

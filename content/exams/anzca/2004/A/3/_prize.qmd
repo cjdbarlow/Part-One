@@ -1,0 +1,101 @@
+#### List:
+
+- Skin penetration
+- Factors affecting rate of diffusion
+- EMLA – PC and PK
+
+#### Skin penetration:
+
++-----------------------------+---------------------------------------------+
+| Structure                   | - Epidermis                                 |
+|                             |   - Outer stratum corneum is insensate      |
+|                             |   - Inner strata contain free nerve endings |
+|                             | - Dermis                                    |
+|                             |   - Rich in nerves, blood vessels           |
++-----------------------------+---------------------------------------------+
+| Determinants of penetration | - Time for diffusion                        |
+|                             |   - 30 mins for PIVC                        |
+|                             |   - 120 mins for skin graft                 |
+|                             | - Rate of diffusion (see next)              |
++-----------------------------+---------------------------------------------+
+
+#### Factors increasing rate of diffusion:
+
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Fick’s law       | ![](/content/exams/anzca/2004/A/3/prize-image001.jpg){fig-alt="Fick diffusion equation with concentration gradient and membrane and substance factors"} |
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↑C~1~            | - ↑Drug concentration                                                                                                                                   |
+|                  | - Eutectic mixture: mutual dissolution + liquid state → ↑C~1~                                                                                           |
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↓C~2~            | - ↑Tissue blood flow → ↓C~2~ but also offset of local effect                                                                                            |
+|                  | - Intrinsic: e.g. lower flow to foot cf. scalp                                                                                                          |
+|                  | - Pathology: hypothermia, shock, heart failure                                                                                                          |
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↑Area            | - ↑Area of application → ↑total absorption but ↔ absorption per unit area                                                                               |
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↓Thickness       | - Extensor thicker than flexor                                                                                                                          |
+|                  | - Lower limb thicker than upper limb                                                                                                                    |
+|                  | - Mucous membrane → ↓↓thickness → ↑↑rate of absorption → toxicity                                                                                       |
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↑Diffusion coeff | - ↑Lipid solubility -(lignocaine 150x, prilocaine 50x procaine)                                                                                         |
+|                  | - ↑% unionized                                                                                                                                          |
+|                  |   - Drug: lignocaine 25%, prilocaine 33%, higher than most                                                                                              |
+|                  |   - Additive: NaOH in EMLA → ↑pH                                                                                                                        |
+|                  | - ↓Molecular weight (all LA drugs have similar MW 200-250g/mol)                                                                                         |
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### EMLA:
+
+*Pharmaceutics:*
+
++------------------+-------------------------------------------------------------------------------------+
+| Presentation     | - White cream                                                                       |
+|                  | - Oil-in-water emulsion                                                             |
++------------------+-------------------------------------------------------------------------------------+
+| Storage          | - Room temp                                                                         |
++------------------+-------------------------------------------------------------------------------------+
+| Additives        | - Polyoxyethene fatty acid ester (emulsifier)                                       |
+|                  | - Carbopol (thickener)                                                              |
+|                  | - NaOH → pH 9 → ↑↑unionised % lignocaine and prilocaine → ↑rate of onset            |
+|                  | - H~2~O                                                                             |
++------------------+-------------------------------------------------------------------------------------+
+| Eutectic mixture | - Ratio producing lowest melting point (eutectic temperature)                       |
+|                  | - Ratio: 2.5% lignocaine + 2.5% prilocaine (1:1)                                    |
+|                  | - Melting points: Lignocaine 68°C, prilocaine 37°C, EMLA only 18°C                  |
+|                  | - Liquid oil at room temp → higher concentrations than in solution → ↑rate of onset |
++------------------+-------------------------------------------------------------------------------------+
+
+*Pharmacokinetics:*
+
++----------------+--------------------------------------------------+
+| Administration | - 1-2g per 10cm^2^ skin under occlusive dressing |
+|                | - 30-60min pre-IVC, 120min pre-graft             |
++----------------+--------------------------------------------------+
+| Time course    | - Onset: 30mins                                  |
+|                | - Max time on skin 60 mins                       |
+|                | - Duration: 2-4 hours                            |
++----------------+--------------------------------------------------+
+
++--------------------------+----------------------------------------+-----------------------------------+
+|                          | **Lignocaine**                         | **Prilocaine**                    |
++==========================+========================================+===================================+
+| **Distribution**         | 7.9                                    | 7.7                               |
+|                          |                                        |                                   |
+| - pKa                    | 25%                                    | 33%                               |
+| - \% unionised at pH 7.4 |                                        |                                   |
+| - Lipid solubility       | 150x                                   | 50x                               |
+| - \% plasma prot bound   |                                        |                                   |
+|                          | 70%                                    | 55%                               |
++--------------------------+----------------------------------------+-----------------------------------+
+| **Metabolism**           | Hepatic CYP450. High HER.              | Hepatic CYP450                    |
+|                          |                                        |                                   |
+| - Mode                   | 100 mins                               | 100 mins                          |
+| - t~1/2~~β~              |                                        |                                   |
+| - Metabolites            | MEGX: 80% of antiarrhythmic effect     | O-toluidine → methaemoglobinaemia |
+|                          |                                        |                                   |
+|                          | Xylidide: 10% of antiarrhythmic effect | Toxicity at 600mg total           |
++--------------------------+----------------------------------------+-----------------------------------+
+| **Excretion**            | Metabolites → urine                    | Metabolite → urine                |
+|                          |                                        |                                   |
+|                          | 10% lignocaine → urine                 | \<5% prilocaine → urine           |
++--------------------------+----------------------------------------+-----------------------------------+

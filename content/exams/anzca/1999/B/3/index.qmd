@@ -1,0 +1,75 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999B Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the factors that affect airway resistance.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Upper Airway Factors**, **Lower Airway Calibre**, **Laminar and Turbulent Flow**, and **Lung Volume**. Relate the relevant physical relationships to the direction of change in resistance.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**60%** of candidates passed this question. This was a straightforward question that required little more than repetition of textbook material. Although the majority of candidates passed the question, few achieved high marks.
+
+The examiners expected a brief description of the following factors which contribute to airway resistance:
+
+- The upper airway
+- The calibre of the lower airways. This can be varied by factors in the lumen, the tone of the bronchi, factors in the wall of the airway, and factors external to the airway such as dynamic compression. Examples of these factors were expected.
+- Whether the airflow is laminar or turbulent. The likelihood of turbulent flow is determined by Reynold's number. A description of the factors (preferably with formulas) affecting the resistance to laminar and turbulent flow was expected.
+- The volume of the lung. A hyperbolic relationship exists between lung volume and airway resistance.
+
+Many candidates wasted time through poor technique. Repeating the question, or writing an introductory paragraph does not answer the question and wastes valuable time.
+
+This was a broad topic. Many candidates focused in detail on some parts of the topic but ignored others. This scored full marks for part of the question but no marks for unmentioned parts of the topic. Many candidates gave detailed and impressive accounts of the resistance to laminar and turbulent flow, but ignored other factors contributing to airway resistance, such as lung volume.
+
+Some candidates confused factors contributing to lung compliance with airway resistance. Others confused factors affecting pulmonary vascular resistance with airway resistance. Measurement of airway resistance was not asked, and was not required in an answer.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Resistance](/content/resp/resistance.qmd)

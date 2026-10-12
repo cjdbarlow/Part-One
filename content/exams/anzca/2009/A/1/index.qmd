@@ -1,0 +1,103 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009A Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the concept of Minimal Alveolar Concentration (MAC) and its clinical utility. [**LIST**]{.task-verb} the patient factors which:
+
+a) Increase MAC
+b) Decrease MAC
+c) Are known to have no effect on MAC
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} MAC with its experimental definition and clinical uses, then [**list**]{.task-verb} patient factors under the three requested directions. Keep clinical utility separate from potency and recognise the report’s allowance for disputed factors.
+
+::: {.structure-headings}
+### Definition and Standard Conditions
+
+### Clinical Utility and Other MAC Endpoints
+
+### Factors Increasing MAC
+
+### Factors Decreasing MAC
+
+### Factors with No Effect
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**82%** of candidates passed this question.
+
+The question was answered well by the majority of candidates. Those who did poorly omitted any description of clinical utility or failed to list a few factors that affect (or do not affect) MAC. The following would have achieved a clear pass:
+
+Minimum Alveolar Concentration (MAC) is the alveolar concentration of an inhaled anaesthetic that prevents movement in 50% of patients in response to a standardized stimulus (e.g. surgical incision).
+
+It is a measure of relative potency and is used as a standard for experimental studies. There are other kinds of MAC value such as "MAC awake,” when 50% of patients open their eyes on request. MAC values for different agents are approximately additive.
+
+(a) Increases MAC:
+
+    - hyperthermia
+    - drugs that increase CNS catecholamines (such acute amphetamine ingestion)
+
+(b) Decreases MAC:
+
+    - elderly
+    - pregnancy
+    - other anaesthetic agents (e.g. opioids, benzodiazepines)
+    - acute ethanol ingestion
+
+(c) No change in MAC:
+
+    - duration of anaesthesia
+    - gender
+
+Chronic alcoholism either increases MAC or makes no difference, depending on the source consulted, therefore either statement gained credit. The effect of thyroid dysfunction is similarly controversial and was treated the same way.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2009/A/1/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational anaesthetics](/content/pharmacopoeia/neuro/inhalational_anaesthetics.qmd)

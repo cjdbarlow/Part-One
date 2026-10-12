@@ -1,0 +1,73 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006A Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Classify**]{.task-verb} and [**describe**]{.task-verb} the main cellular and molecular mechanisms by which chemical neurotransmitters exert their effects. Use examples from cholinergic and adrenergic neurotransmission to [**illustrate**]{.task-verb} the answer.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Classify**]{.task-verb} and [**describe**]{.task-verb} **Direct Ion-Channel Effects**, **G Protein Effects on Ion Channels**, and **Second Messenger Mechanisms**. Use cholinergic and adrenergic examples to connect receptor activation to cellular effects and response time.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**42 %** of candidates passed this question.
+
+There were a wide range of marks for this question; however there were a few very good answers.
+
+It was important that candidates read the question. The question was based around cellular and molecular mechanisms, with candidates asked to classify and describe them. Importantly examples from the cholinergic vs. adrenergic systems were expected and it was notable that many candidates chose examples from different systems.
+
+In general terms, neuro transmitters can exert their affects on ion channels in cell membranes or through intracellular affects. Ion channels can be affected by receptor agonists or antagonists, directly or indirectly (through, for example, G proteins). Intracellular events are usually mediated via G proteins and second messenger systems.
+
+Most candidates addressed the issue of agonists and antagonists at cell membrane receptors affecting ion channels well, most usually citing the neuromuscular junction as an example. Most candidates dealt well with the G protein mediated second messenger system, and cited a number of examples. The effects of G proteins on ion channels were very rarely mentioned. This is relevant for example, M1 muscarinic receptors.
+
+Areas such as the relative response times of G protein verses direct ion channel effects, modulation and/or amplification, and other complex affects such as MRNA transcription or other neuro modulators were rarely mentioned.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Receptor Types](/content/pharmacology/receptor_types.qmd)
+- [Neurotransmitters](/content/neuro/neurotransmitters.qmd)

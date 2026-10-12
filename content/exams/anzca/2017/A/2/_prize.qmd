@@ -1,0 +1,79 @@
+#### List:
+
+- First: describe device, fixed vs variable, max FiO~2~, flow rate
+- Second: reservoir, dead space, humidification
+- Third: sources of error, pros and cons
+
+#### Nasal cannulae:
+
++------------------------+---------------------------------------------------------------------+
+| Features               | - One short prong in either nostril                                 |
+|                        | - Tubing connects to cylinder or wall                               |
+|                        | - Variable performance device                                       |
+|                        | - Gas flow rate 1-4L/min                                            |
+|                        | - FiO~2~ ≤ 0.4                                                      |
+|                        | - Reservoir in nasopharynx but not device                           |
+|                        | - No dead space                                                     |
+|                        | - No humidification                                                 |
++------------------------+---------------------------------------------------------------------+
+| Pros                   | - Simple                                                            |
+|                        | - Comfortable at low flow rate                                      |
+|                        | - No risk of rebreathing                                            |
+|                        | - Patient can eat                                                   |
++------------------------+---------------------------------------------------------------------+
+| Cons                   | - Drying and epistaxis at high flow rate or prolonged use           |
++------------------------+---------------------------------------------------------------------+
+| Factors affecting FiO2 | - ↑ Peak inspiratory flow rate (PIFR) → ↑air entrainment → ↓ FiO~2~ |
+|                        | - ↑V~T~ → ↑air entrainment                                          |
+|                        | - Hence most effective if the cause of hypoxia is hypoventilation   |
++------------------------+---------------------------------------------------------------------+
+
+#### Face mask: 
+
++--------------------------+----------------------------------------------------------------+
+| Features                 | - Mask with \~100mL volume inside                              |
+|                          | - Holes on the size (sometimes expiratory-opening flap valves) |
+|                          | - Tubing from the bottom (sometimes with reservoir bag)        |
+|                          | - Variable performance                                         |
+|                          | - Gas flow rate up to 10L/min                                  |
+|                          | - FiO~2~: up to 0.6 (up to 0.8 if reservoir bag)               |
+|                          | - Mask is both O~2~ reservoir and dead space 100mL             |
+|                          | - ± extra reservoir in bag \~500mL?                            |
+|                          | - No humidification                                            |
++--------------------------+----------------------------------------------------------------+
+| Pros                     | - Easy to use                                                  |
+|                          | - Comfortable                                                  |
+|                          | - Can deliver nebulized medicines e.g. salbutamol              |
++--------------------------+----------------------------------------------------------------+
+| Cons                     | - Less comfortable                                             |
+|                          | - Can’t eat, can’t talk much                                   |
++--------------------------+----------------------------------------------------------------+
+| Factors affecting FiO~2~ | - As for nasal cannulae, but less affected due to reservoir    |
++--------------------------+----------------------------------------------------------------+
+
+#### Venturi mask:
+
++--------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Features                 | - Well-fitting face mask                                                                                                                              |
+|                          | - Exhalation pores                                                                                                                                    |
+|                          | - O~2~ supply at the bottom, larger bore tubing                                                                                                       |
+|                          | - Venturi device within the tubing (see pic)                                                                                                          |
+|                          | - 100% O~2~ flows through a constriction                                                                                                              |
+|                          | - ? Bernoulli principle: ↑kinetic energy → ↓potential (pressure) energy → room air entrained due to pressure gradient                                 |
+|                          | - ? Coanda effect: air drawn in due to friction and surface tension forces (probably this)                                                            |
+|                          | - Fixed performance device; specified entrainment ratio for each attachment                                                                           |
+|                          | - FiO~2~ up to 0.7 (but less accurate \>0.5)                                                                                                          |
+|                          | - Mask is both O~2~ reservoir and dead space \~100mL                                                                                                  |
+|                          | - Humidifier present                                                                                                                                  |
+|                          |                                                                                                                                                       |
+|                          | ![](/content/exams/anzca/2017/A/2/prize-image001.jpg){fig-alt="Venturi oxygen delivery device with oxygen flow through a jet and entrained room air"} |
++--------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Pros                     | - Fixed performance → can calculate PAO~2~, A-a gradient                                                                                              |
+|                          | - Can be humidified                                                                                                                                   |
++--------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Cons                     | - Uncomfortable                                                                                                                                       |
+|                          | - Can’t be sure of fixed performance due to leak                                                                                                      |
++--------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Factors affecting FiO~2~ | - ↑↑ PIFR → air entrainment around the sides of the mask, becomes a variable performance device                                                       |
+|                          | - Water → obstruction → ↓entrainment                                                                                                                  |
++--------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+

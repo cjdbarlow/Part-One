@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016B Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Compare and contrast**]{.task-verb} the action potentials from the sino-atrial node and a ventricular myocyte.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Compare**]{.task-verb} the two cells in parallel, using labelled action potential graphs and ionic conductances. Relate phase differences to automaticity, conduction and refractory behaviour.
+
+::: {.structure-table}
+| Feature | Sino-Atrial Node | Ventricular Myocyte |
+|---|---|---|
+| Resting Potential and Automaticity | | |
+| Phases and Ionic Currents | | |
+| Duration and Refractory Periods | | |
+| Autonomic and Physiological Modifiers | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**61%** of candidates achieved a pass in this question
+
+A detailed comparison of the ionic fluxes responsible for the generation of action potentials in these cells was expected. The duration of these ion fluxes and voltages at which they occurred along with a discussion of the conventional physiological phases of action potential were expected as part of the answer. An understanding of the physiology behind these changes was also rewarded. These changes could be described in prose, tabular format or diagrammatically. Better answers often included more than one of these formats and this increased the extent of the detail they were able to provide.
+
+Additional marks were awarded for a discussion of the effects of parasympathetic and sympathetic innervation and concepts such as refractory periods of action potentials and their basis and variability.
+
+Common difficulties encountered appeared to be in the production of legible and accurate diagrams, and confusion arising as to the primary ions responsible for the depolarisation of the two cells in cells in question.
+
+No marks were awarded for discussing the effects of antiarrhythmic agents in depth on the myocardial tissues, or the detailed anatomy of the conducting system.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2016/B/2/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2016/B/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Cardiac action potentials](/content/cvs/cardiac_ap.qmd)

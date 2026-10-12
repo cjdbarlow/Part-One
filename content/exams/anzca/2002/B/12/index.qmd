@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002B Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly explain**]{.task-verb} the changes that occur in stored whole blood.
+:::
+
+Also asked in: [2010A Question 12](/content/exams/anzca/2010/A/12/index.qmd#examiner-comments), [2014B Question 13](/content/exams/anzca/2014/B/13/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly explain**]{.task-verb} the storage changes in a table, connecting the direction and timing of each change to its cause.
+
+::: {.structure-table}
+| Component | Change and Timing | Reason |
+|---|---|---|
+| Red Blood Cells | | |
+| White Blood Cells | | |
+| Platelets | | |
+| Clotting Factors and Plasma Proteins | | |
+| Biochemistry and Dissolved Gases | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**58%** of candidates passed this question.
+
+Candidates who scored well addressed each of the components of whole blood (red cells, Hb, 2,3-DPG, white cells, platelets, plasma proteins/coagulation factors, electrolytes/acid-base, dissolved gases, additives). They “explained” rather than listed the changes, and provided detail of the magnitude and time course. A number drew tables showing the changes during each week of storage, then explained the underlying causes of these changes.
+
+Candidates who failed did so because they omitted major components of whole blood. Several candidates wasted valuable time writing about the effects of massive transfusion, which was not required. Others did not answer the question, preferring to state that “whole blood is no longer used” and then to describe the storage of packed cells, fresh-frozen plasma and platelets.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2002/B/12/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2002/B/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Blood product storage](/content/haeme/blood_products.qmd)

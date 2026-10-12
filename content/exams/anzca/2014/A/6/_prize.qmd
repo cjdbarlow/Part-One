@@ -1,0 +1,54 @@
+#### List:
+
+- Asthma pathophysiology
+- Medication table
+
+#### Asthma pathophysiology:
+
++-----------------+------------------------------------------------------------------------------+
+| The triad       | - Bronchoconstriction, ↑airway reactivity                                    |
+|                 | - Swelling                                                                   |
+|                 | - Mucous hypersecretion                                                      |
++-----------------+------------------------------------------------------------------------------+
+| Physics of flow | - ↓Radius → ↑Resistance (Resistance ∝ 1/radius^4^)                           |
+|                 | - Obstruction in expiration: earlier and exaggerated dynamic airway collapse |
+|                 | - Inspiration less affected: ↑radial traction                                |
++-----------------+------------------------------------------------------------------------------+
+
+#### Medications:
+
++---------------------------------+-------------------------------------------------------+--------------------------------------------------------------------------+
+|                                 | **Mechanism of action**                               | **Side effects**                                                         |
++=================================+=======================================================+==========================================================================+
+| Salbutamol nebulized 5mg/mL q4h | - Short acting β~2~ agonist                           | - Tachycardia (β~1~ cardiac)                                             |
+|                                 | - G~s~ G-protein coupled receptor (GPCR)              | - Glycogenolysis, lactic acidosis (β~1~ liver)                           |
+|                                 | - ↑cAMP → ↑PKA → inhibit MLCK → relaxation            | - Tremor (β~2~ skeletal muscle)                                          |
+|                                 | - Note tachyphylaxis                                  | - ↓K+ (β~2~ → ↑Na^+^K^+^ATPase activity)                                 |
++---------------------------------+-------------------------------------------------------+--------------------------------------------------------------------------+
+| Normal saline neb 5mL           | - Aids mucus removal                                  | \-                                                                       |
++---------------------------------+-------------------------------------------------------+--------------------------------------------------------------------------+
+| Ipratropium neb 500mcg QID      | - Non-selective mAChR antagonist                      | - ↑HR (cardiac m~2~AChR)                                                 |
+|                                 | - m~3~AChR on ASM                                     |                                                                          |
+|                                 | - G~q~ GPCR                                           |                                                                          |
+|                                 | - ↓IP~3~/Ca^2+^, ↓DAG                                 |                                                                          |
++---------------------------------+-------------------------------------------------------+--------------------------------------------------------------------------+
+| Hydrocortisone IV 50mg QID      | - Corticosteroid                                      | - Short term: insomnia, anxiety, depression, psychosis, ↑BSL if diabetic |
+|                                 | - ↓PLA~2~ → ↓leukotrienes                             | - Long term: T2DM, osteoporosis, immunodeficiency                        |
+|                                 | - ↓Inflammation                                       |                                                                          |
+|                                 | - ↓Mucous secretion                                   |                                                                          |
+|                                 | - ↓ASM reactivity                                     |                                                                          |
++---------------------------------+-------------------------------------------------------+--------------------------------------------------------------------------+
+| Volatile anaesthetic INH        | - Inhibit L-Ca^2+^ → relax ASM                        | - ↓SVR, ↓cardiac output, ↓mAP                                            |
+|                                 | - Use: maintain sedation/anaesthesia                  | - Nausea                                                                 |
++---------------------------------+-------------------------------------------------------+--------------------------------------------------------------------------+
+| (R-)Ketamine                    | - Not clear                                           | - ↑Secretion                                                             |
+|                                 | - ↑SNS output, inhibit L-Ca^2+^                       | - ↑SNS output → ↑HR, ↑mAP                                                |
+|  e.g. IV 1mg/kg induction       | - Use: induction/intubation in status asthmaticus     |                                                                          |
++---------------------------------+-------------------------------------------------------+--------------------------------------------------------------------------+
+| Magnesium IV 10mmol in 1 hour   | - Physiological antagonist at L-Ca^2+^                | - Sedation, hypotension (vascular L-Ca^2+^ antagonist)                   |
+|                                 | - MoA for bronchodilation unclear                     |                                                                          |
++---------------------------------+-------------------------------------------------------+--------------------------------------------------------------------------+
+| Aminophylline                   | - Non-selective PDE inhibitor\                        | - Low therapeutic index                                                  |
+|                                 |   (and adenosine receptor antagonist)                 | - CVS: arrhythmia, hypotension                                           |
+|                                 | - PDE~3~i? in ASM → ↑cAMP → ↑PKA → inhibition of MLCK | - CNS: seizure                                                           |
++---------------------------------+-------------------------------------------------------+--------------------------------------------------------------------------+

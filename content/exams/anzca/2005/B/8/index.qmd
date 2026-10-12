@@ -1,0 +1,64 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005B Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the adverse effects of beta adrenoreceptor antagonists.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} adverse effects by **Receptor Subtype and Organ System**. Connect cardiovascular, respiratory, metabolic and central effects to receptor actions, relevant drug properties and interactions during anaesthesia.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**80 %** of candidates passed this question.
+
+This question requires the candidate to describe the side effect profile of beta blockers, therefore a brief list scored less well. Many of the side effects were appropriately described as extensions of the predictable therapeutic effects of these drugs, such as inappropriate bradycardia. Classifying the side effect profile by receptor subtype and organ system produced better answers. These drugs are commonly used in our patients and we often use them in association with anaesthesia, in which the side effects can be exaggerated. Differentiating between the lipophilic and hydrophilic agents' side effects is important; simply commenting on sedation without explanation is insufficient. Note that Beta blockers do not antagonise vasopressors but do decrease the efficacy of ino- and chronotropes. Some responses alluded to the dependence on sympathetic tone in instances of systolic ventricular dysfunction. A few responses identified the particular dysrhythmia risk with B-blockers (torsades with Sotalol), although many simply suggested “arrhythmias” without qualification.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Beta-Blockers](/content/pharmacopoeia/cvs/beta_blockers.qmd)

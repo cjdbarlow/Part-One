@@ -1,0 +1,64 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000A Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**What is**]{.task-verb} a normal value for pulmonary vascular resistance? [**Outline**]{.task-verb} physiological factors that influence pulmonary resistance.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+State a **Normal Value and Units**, then [**outline**]{.task-verb} **Blood Viscosity**, **Vascular Calibre**, **Lung Volume**, and **Vascular Tone**. Relate physiological factors to pulmonary vascular resistance using the pressure–flow relationship.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**49%** of candidates passed this question. The first part of the question specifically asked for the normal range of pulmonary vascular resistance (PVR). Common mistakes included presenting only a single value instead of normal range, and using incorrect units. Some candidates completely ignored this section. The units and the normal range are best considered by referring to the relationship between PVR, cardiac output, and the pressure drop across the pulmonary circulation (mean pulmonary artery – pulmonary capillary wedge pressure). In this way the units mmHg/L/min (also known as Wood units) are obtained. Values using dyne/sec/cm^5^ were also accepted. Even if exact values were not known, it was important to indicate that PVR is much less (1/8-1/10) than systemic vascular resistance.
+
+The factors that influence PVR are those that affect resistance to flow anywhere in the body, as well as factors particular to the lung. ie. Resistance is directly proportional to blood viscosity (which is influenced by haematocrit) and inversely proportional to the fourth power of the radius (given that flow is laminar and that length is constant). Most candidates ignored the effects of blood viscosity. Factors particular to the lung that affect radius include lung volume, distension and recruitment of pulmonary vessels (secondary to changes in pulmonary artery pressure), and hypoxic pulmonary vasoconstriction. An outline of at least two of these factors was required for a pass. Additional marks were given for more detail on the mechanism of these effects. Detailed discussion of West’s zones was not required. Credit was given for mentioning the lesser effects of carbon dioxide, pH, and endogenous vasodilators and vasoconstrictors. Few candidates explained that pulmonary vascular impedance is a more appropriate term for the pulmonary circulation due to the relatively greater pulsatility.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Pulmonary Circulation](/content/cvs/pulmonary_circulation.qmd)

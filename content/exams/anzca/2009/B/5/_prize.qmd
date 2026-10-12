@@ -1,0 +1,86 @@
+#### List:
+
+- Intro
+- Phys
+- Path (kinetic and dynamic)
+- Drug factors
+- Drug interactions
+
+#### Intro:
+
++----------------------+-------------------------------------------------------------------+
+| Non-depolariser      | - Competitive antagonist at α-subunit of nAChR at NMJ             |
+|                      | - Binds receptor, channel does not open                           |
++----------------------+-------------------------------------------------------------------+
+| Nerve stimulation    | - Electrode over nerve (e.g. ulnar)                               |
+|                      | - Electrode away from muscle (e.g. forearm)                       |
+|                      | - Accelerometer (e.g. on thumb for adductor pollicis)             |
+|                      | - e.g. train-of-four (4 x 0.2 millisecond bursts at 60mA and 2Hz) |
++----------------------+-------------------------------------------------------------------+
+| Measurable responses | - Onset time (ON): time to 95% depression of single twitch height |
+|                      | - Peak effect (PE): e.g. minimum post-tetanic count               |
+|                      | - Offset time (DUR): time to TOF ratio 0.9                        |
++----------------------+-------------------------------------------------------------------+
+| Summary              | - Many factors affect response to paralytics                      |
+|                      | - Hence monitoring is important                                   |
++----------------------+-------------------------------------------------------------------+
+
+#### Physiology:
+
++-------------+------------------------------------------------------------------------------+
+| Age         | - Adult cf. neonate: ↑NMJ maturity → ↓PE, ↓DUR                               |
++-------------+------------------------------------------------------------------------------+
+| Sex         | - Male: ↑muscle mass → ↓PE, ↓DUR                                             |
++-------------+------------------------------------------------------------------------------+
+| Muscle type | - Larynx: ↑blood flow, ↑vesicles, ↑receptors → ↓PE, ↓DUR                     |
+|             | - Adductor pollicis: ↓blood flow → ↓ON                                       |
++-------------+------------------------------------------------------------------------------+
+| ↑Temp       | - ↑Rate of ester hydrolysis and Hoffman elimination → ↓DUR for atra, cisatra |
++-------------+------------------------------------------------------------------------------+
+| ↑pH         | - ↑Rate Hoffman elimination → ↓DUR for cisatra \> atra                       |
++-------------+------------------------------------------------------------------------------+
+| ↑K^+^       | - Pre-synaptic depolarisation → ↑ACh release → ↓PE, ↓DUR                     |
++-------------+------------------------------------------------------------------------------+
+
+#### Pathology:
+
++---------+----------------------------------------------------------------------------------------+
+| Kinetic | - ↓Cardiac output → ↑transit time → ↑ON if very short acting (e.g. rapacuronium)       |
+|         | - Obesity/alcohol → ↑pseudocholinesterase → ↑ON, ↓PE, ↓DUR (mivacurium only)           |
+|         | - CYP gain-of-function polymorphism → ↑metabolism → ↓DUR (e.g. vecuronium)             |
++---------+----------------------------------------------------------------------------------------+
+| Dynamic | ↑Extra-junctional receptors → ↑ON, ↓PE, ↓DUR                                           |
+|         |                                                                                        |
+|         | - Upregulated foetal type receptor: ααβγδ                                              |
+|         | - Occurs if actual or function denervation, e.g. burns, immobility, spinal cord injury |
+|         | - Greatest 5-90 days post-insult                                                       |
++---------+----------------------------------------------------------------------------------------+
+
+#### Drug factors:
+
++----------+----------------------------------------------------------------------------------------+
+| ↓Dose    | e.g. 2 x ED~95~ cf. 4 x ED~95~ rocuronium                                              |
+|          |                                                                                        |
+|          | - ↑ON, ↓PE, ↓DUR                                                                       |
++----------+----------------------------------------------------------------------------------------+
+| ↑Potency | e.g. vecuronium ED~95~ 0.07mg/kg vs rocuronium ED~95~ 0.3mg/kg (molar potency similar) |
+|          |                                                                                        |
+|          | - ↓Concentration gradient for a given ED~95~ multiple                                  |
+|          | - ↑ON, ↓PE (i.e. Bowman principle)                                                     |
++----------+----------------------------------------------------------------------------------------+
+
+#### Drug interactions:
+
++-------------------------+--------------------------------------------------------------------+
+| Depolarising blockade   | - e.g. rocuronium antagonized by suxamethonium                     |
+|                         | - ↓DUR                                                             |
++-------------------------+--------------------------------------------------------------------+
+| Anaesthetic type        | - e.g. propofol cf. volatile anaesthetic → less potentiation       |
+|                         | - ↑ON, ↓PE, ↓DUR                                                   |
++-------------------------+--------------------------------------------------------------------+
+| Reversal drug           | - e.g. neostigmine → ↑\[ACh\] at NMJ → displacement from receptors |
+|                         | - ↑ON, ↓PE, ↓DUR                                                   |
++-------------------------+--------------------------------------------------------------------+
+| Hepatic enzyme inducers | - ↑Rate of metabolism                                              |
+|                         | - ↓DUR                                                             |
++-------------------------+--------------------------------------------------------------------+

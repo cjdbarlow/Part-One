@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016B Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the anatomy and relations of the right internal jugular vein relevant to performing central venous cannulation.
+:::
+
+Also asked in: [2019B Question 15](/content/exams/anzca/2019/B/15/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the vein from origin to termination with a labelled neck diagram. Relate its changing position and neighbouring structures to landmark and ultrasound approaches and potential injury.
+
+::: {.structure-headings}
+### Origin, Course and Termination
+
+### Carotid Sheath and Arterial Relations
+
+### Other Neighbouring Structures
+
+### Surface Landmarks and Ultrasound
+
+### Anatomical Basis of Complications
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**18%** of candidates achieved a pass in this question
+
+The anatomy needed to cover the origin, pathway down the neck, termination, and structures related to the right internal jugular vein. In discussing central line insertion information required included the positioning of the patient, landmarks used for the common approaches, needle angle, and advantages of using the right internal jugular vein. The use of ultrasound for vessel identification needed to be covered.
+
+There were problems with diagrams in that they were commonly poorly drawn and attracted few additional marks, due to errors, no level specified for cross-sections, lack of labels, and a poor relationship to how human anatomy actually looks. Often text-based information gained more marks.
+
+Common incorrect statements included the foramen magnum as the origin, absent right thoracic duct, and margins of the anterior triangle of the neck.
+
+Discussion of the indications, equipment required, and complications of central line insertion generally did not attract marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2016/B/9/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2016/B/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Internal jugular vein](/content/anatomy/ijv.qmd)

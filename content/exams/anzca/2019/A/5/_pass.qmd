@@ -1,0 +1,19 @@
+Effects of steep head down position 
+
+Cerebral volumes and intracranial pressures is governed by the Monroe Kellie doctrine where by the cranium is a rigid container of fixed volume containing brain, CSF, and blood.
+
+Any change in volume of these 3 constituents requires a reciprocal reduction in another or will result in an increase in ICP.
+
+Head down position increases intracranial hydrostatic pressures. Cerebral venous volume and pressure increased due to increased CVP from venous pooling and abdominal contents pressure in thoracic cavity. CSF pressures may increase due to similar effect on CSF pool. 
+
+Prolonged positioning head down may result in cerebral oedema due to increased hydrostatic pressures affecting starling force balance in the capillaries. 
+
+Effects of Anaesthesia:
+
+Anaesthetic agents cause dose related vasodilation increasing cerebral blood flow and volume. Most anaesthetic agents reduce cerebral metabolic rate (CRMO2).  Below 1 MAC inhalation agents have an intact cerebral flow-metabolism coupling, above 1 MAC this will be impaired with increased flow for metabolic demand. 
+
+Compensation:
+
+Prolonged increase in cerebral venous volume and potentially increase in cerebral volume due to oedema can be compensated by reduction in CSF volume.
+
+Postoperatively cerebral oedema / increased ICP may result in agitation, delirium drowsiness, headache, nausea/vomiting.

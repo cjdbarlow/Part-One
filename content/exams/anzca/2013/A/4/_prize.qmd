@@ -1,0 +1,82 @@
+#### *List: “*two Hs, three As”
+
+- Hyperkalaemia
+- Histamine release
+- Anaphylaxis
+- Arrhythmia
+- Autonomic ganglion blockade
+
+#### Hyperkalaemia:
+
++-----------------+--------------------------------------------------------------------------------------------------------+
+| Pathophysiology | - Suxamethonium NMJ nAChR agonism → Na^+^ influx, K^+^ efflux → plasma K^+^ ↑0.5mM                     |
+|                 | - Denervation → ↑↑extra-junctional receptors (γ-ε substitution)→ ↑ duration of opening → ↑K^+^ release |
+|                 | - e.g. burns, new spinal cord injury                                                                   |
+|                 | - Highest risk 1-10 weeks after insult                                                                 |
++-----------------+--------------------------------------------------------------------------------------------------------+
+| ECG findings    | - ECG Tall tented T waves, small/absent P waves, wide QRS, sine wave, asystole                         |
++-----------------+--------------------------------------------------------------------------------------------------------+
+| Treatment       | - Stabilize the sarcolemma: calcium gluconate                                                          |
+|                 | - Lower \[K^+^\]: insulin/glucose, salbutamol, frusemide etc                                           |
++-----------------+--------------------------------------------------------------------------------------------------------+
+
+#### Histamine release:
+
++---------------------------------+--------------------------------------------------------------+
+| Pathophysiology                 | - Direct effect on mast cells. Non-IgE mediated              |
+|                                 | - Degranulation of mast cells                                |
+|                                 | - H~1~ (G~q~):                                               |
+|                                 |   - Vasodilatation, capillary leak, ↓mAP                     |
+|                                 |   - ↓AV node conduction, coronary vasoconstriction           |
+|                                 |   - Bronchoconstriction                                      |
+|                                 | - H~2~ (G~s~):                                               |
+|                                 |   - ↑contractility, coronary vasodilatation                  |
+|                                 |   - Bronchodilatation                                        |
+|                                 |   - Prevention: antihistamine, slower injection              |
+|                                 | - ↓Severity with repeat doses due to depletion of mast cells |
++---------------------------------+--------------------------------------------------------------+
+| Culprits                        | - d-Tubocurarine \> mivacurium, atracurium                   |
++---------------------------------+--------------------------------------------------------------+
+| Structure-activity relationship | - ↑Methoxy groups = ↑potency, ↓histamine release             |
+|                                 | - e.g. mivacurium 2, atracurium 4, doxacurium 6              |
++---------------------------------+--------------------------------------------------------------+
+
+#### Anaphylaxis:
+
++---------------------------------+--------------------------------------------------------------------------------------------------+
+| Pathophysiology                 | - Histamine release, IgE-mediated                                                                |
+|                                 | - 1st exposure: antigen presented to T~H~ cell → B cell produces IgE → fixes on mast cells       |
+|                                 | - 2nd exposure: systemic degranulation, vasodilatation, capillary leak, angioedema, bronchospasm |
+|                                 | - Muscle relaxant-induced anaphylaxis is often severe and life-threatening                       |
++---------------------------------+--------------------------------------------------------------------------------------------------+
+| Culprits                        | - \~1/2000 suxamethonium                                                                         |
+|                                 | - \~1/2500 rocuronium                                                                            |
++---------------------------------+--------------------------------------------------------------------------------------------------+
+| Structure-activity relationship | - Due to quaternary NH~4~^+^ compound                                                            |
+|                                 | - ? Cross reaction pholcodine and rocuronium                                                     |
++---------------------------------+--------------------------------------------------------------------------------------------------+
+
+#### Arrhythmia:
+
++---------------+----------------------------------------------------------------------+
+| Suxamethonium | - Agonist at m2AChR                                                  |
+|               | - Esp sinus bradycardia, AV block, asystole                          |
+|               | - Due to affinity for cardiac mAChR                                  |
+|               | - Risk factors: big dose \>2mg/kg, young children, AV node pathology |
+|               | - Rx: atropine                                                       |
++---------------+----------------------------------------------------------------------+
+| Aminosteroids | - Vecuronium: agonist at m2AChR → ↓HR (rare)                         |
+|               | - Pancuronium: antagonist at m2AChR → ↑HR (common)                   |
+|               | - Rocuronium: minimal effect                                         |
++---------------+----------------------------------------------------------------------+
+
+#### Autonomic ganglion blockade:
+
++---------------------------------+--------------------------------------+
+| Culprit                         | - d-tubocurarine                     |
++---------------------------------+--------------------------------------+
+| Structure-activity relationship | - ↑Risk if short interonium distance |
++---------------------------------+--------------------------------------+
+| Pathophysiology                 | - ↓SNS and ↓PSNS ganglionic activity |
+|                                 | - Often ↓HR, ↓mAP                    |
++---------------------------------+--------------------------------------+

@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002B Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly outline**]{.task-verb} the potential interactions between volatile agents and carbon dioxide absorbents.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly outline**]{.task-verb} **Absorbent Types**, **Agent-Specific Interactions and Products**, **Factors Influencing Reactions**, and **Toxicity and Clinical Relevance**. Include absorption and subsequent release of volatile agents within the clinical implications.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question was passed by **52 %** of candidates.
+
+The main points expected in the answer were:
+
+- The different types of carbon dioxide absorbent with differing likelihoods of interaction with volatile agents.
+- Specific interactions with:
+    - sevoflurane, producing compounds A – E
+    - desflurane, enflurane and isoflurane, producing carbon monoxide
+    - trichloroethylene, producing dichloracetylene, phosgene
+    - halothane, producing difluorovinyl compound
+- The influence on these reactions of:
+    - temperature
+    - hydration of the absorbent
+    - concentration of the volatile agent
+- The potential toxicity of the various products of the interactions
+- The practical relevance of these interactions in clinical anaesthesia
+
+Credit was also given to those who mentioned the ability of carbon dioxide absorbents to absorb volatile agents, with the possible consequences of:
+
+- Slowing of anaesthesia induction
+- Release of absorbed volatile agent to a subsequent case.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational Anaesthetics](/content/pharmacopoeia/neuro/inhalational_anaesthetic_agents.qmd)
+- [Circle System](/content/equipment/circle_system.qmd)

@@ -1,0 +1,70 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011A Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the ways in which CO2 is carried in the blood
+:::
+
+Also asked in: [1999B Question 5](/content/exams/anzca/1999/B/5/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Dissolved Carbon Dioxide**, **Bicarbonate**, and **Carbamino Compounds**, then use **Arterial–Venous Differences and the Haldane Effect** to connect the forms of carriage. Include the chloride shift within bicarbonate transport.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question was passed by **27%** of candidates.
+
+In order to pass, candidates were expected to provide a detailed description of the three methods by which CO~2~ is carried in the blood, i.e. dissolved, as converted to bicarbonate, and combined with proteins.
+
+Extra marks were awarded to those candidates who explained the importance of red blood cells/haemoglobin, reasons for differences between arterial and venous carriage, and clear concise descriptions of Haldane effect.
+
+Common errors included incorrect units in describing the carriage of CO~2~, and chemical equations that did not balance with respect to chemical elements or electrical stability.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Carbon Dioxide](/content/resp/co2_transport.qmd)

@@ -1,0 +1,45 @@
+#### List:
+
+- Paramagnetic analyser: diagramme, principles, pros, cons
+- Fuel cell: diagramme, how it works, pros, cons
+
+#### Paramagnetic analyser:
+
++------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Diagramme  | ![](/content/exams/anzca/2015/B/13/prize-image001.jpg){fig-alt="Paramagnetic oxygen analyser using alternating magnetic field and differential pressure measurement"} |
++------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Principles | - Paramagnetic = attracted towards a magnetic field                                                                                                                   |
+|            | - Due to outer shell electrons being spun in the same direction                                                                                                       |
+|            | - Oxygen has two unpaired outer shell electrons and is strongly paramagnetic                                                                                          |
+|            | - Nitric oxide is weakly paramagnetic                                                                                                                                 |
+|            | - Other gases e.g. CO~2~, N~2~ are diamagnetic = repelled by the magnetic field                                                                                       |
++------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Pros       | - Rapid, for breath to breath analysis                                                                                                                                |
+|            | - Accurate                                                                                                                                                            |
+|            | - Requires infrequent calibration                                                                                                                                     |
+|            | - No exhaustible reagents or components                                                                                                                               |
++------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Cons       | - For gas only                                                                                                                                                        |
++------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Fuel cell:
+
++--------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Diagramme    | ![](/content/exams/anzca/2015/B/13/prize-image002.jpg){fig-alt="Fuel cell oxygen analyser with lead anode, gold cathode and potassium hydroxide solution"} |
+|              |                                                                                                                                                            |
+|              | Cathode: O~2~ + 4e^-^ + 2H~2~O → 4OH^-^                                                                                                                    |
+|              |                                                                                                                                                            |
+|              | Anode: 2Pb + 4OH^-^ → 2PbO + 2H~2~O + 4^e-^                                                                                                                |
++--------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| How it works | - O~2~ diffuses through the membrane                                                                                                                       |
+|              | - pO~2~ is rate limiting for REDOX                                                                                                                         |
+|              | - Ammeter measures resulting current                                                                                                                       |
++--------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Pros         | - No external power source required                                                                                                                        |
+|              | - Cheap                                                                                                                                                    |
+|              | - Can be used for gases or blood                                                                                                                           |
++--------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Cons         | - Slow (20 seconds)                                                                                                                                        |
+|              | - Requires more frequent calibration with 100% and 21% O~2~                                                                                                |
+|              | - Lifespan 12 months, dependent upon exposure to oxygen                                                                                                    |
++--------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+

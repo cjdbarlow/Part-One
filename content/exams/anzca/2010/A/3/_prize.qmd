@@ -1,0 +1,104 @@
+#### List:
+
+- CVS
+- Resp
+- CNS
+- Other physiology
+- CO~2~ absorber
+
+#### Cardiovascular system:
+
++---------------------+---------------------------------------------------------------------------+
+| Direct actions      | - Mechanisms:                                                             |
+|                     |   - ↑GABA/glycine → ↓SNS output from medulla                              |
+|                     |   - ↓L-Ca^2+^ channel activity                                            |
+|                     |   - ↑NO release                                                           |
+|                     | - Effects:                                                                |
+|                     |   - Venodilation → ↓preload                                               |
+|                     |   - ↓Heart rate, contractility                                            |
+|                     |   - ↓SVR, ↓afterload                                                      |
+|                     |   - ↓cardiac output                                                       |
+|                     |   - ↓mAP                                                                  |
+|                     |   - ↓Renal blood flow, ↓urine output                                      |
++---------------------+---------------------------------------------------------------------------+
+| Baroreceptor reflex | - Preserved                                                               |
+|                     | - Reflex ↑HR common                                                       |
++---------------------+---------------------------------------------------------------------------+
+| SNS stimulation     | - If sudden ↑\[desflurane\], especially MAC \>1.5                         |
+|                     | - ? Airway irritation ? systemic (since occurs on cardiopulmonary bypass) |
++---------------------+---------------------------------------------------------------------------+
+
+#### Respiratory system:
+
++--------------------------+------------------------------------------------------------------+
+| Respiratory depression   | - Mechanisms:                                                    |
+|                          |   - ↓Chemoreceptor function                                      |
+|                          |   - ↓Respiratory centre function: ↑GABA, ↑glycine                |
+|                          |   - ↓Spinal cord a-motor neuron output                           |
+|                          |   - Presynaptic ↓L-Ca^2+^→ ↓ACh release                          |
+|                          |   - Post-synaptic inhibition of nAChR                            |
+|                          | - Effects:                                                       |
+|                          |   - ↓TV but ↑RR                                                  |
+|                          |   - ↓↓Response to PaO~2~ (\~50% at 0.1MAC, \~0% at 1MAC)         |
+|                          |   - ↓Response to ↑PaCO~2~ (\~50mmHg at 1MAC without stimulation) |
++--------------------------+------------------------------------------------------------------+
+| Irritation/smell         | - Laryngospasm, cough, breath hold, secretion                    |
+|                          | - Bronchospasm → ↑airway resistance                              |
+|                          | - More likely in smokers                                         |
+|                          | - Gas induction contra-indicated                                 |
++--------------------------+------------------------------------------------------------------+
+| Airway obstruction       | - ↓Pharyngeal dilator tone                                       |
+|                          | - ↑Risk of existing OSA                                          |
++--------------------------+------------------------------------------------------------------+
+| Bronchodilatation        | - ↓L-Ca^2+^                                                      |
+|                          | - ↓Airway resistance, ↓work of breathing                         |
+|                          | - ↑Anatomical dead space (not significant)                       |
++--------------------------+------------------------------------------------------------------+
+| Ciliary dysfunction      | - ↑?Risk pneumonia                                               |
++--------------------------+------------------------------------------------------------------+
+| Pulmonary vasodilatation | - ↓L-Ca^2+^, ↑NO, ↓SNS                                           |
+|                          | - ↓HPV → ↑shunt → ↓PaO~2~                                        |
++--------------------------+------------------------------------------------------------------+
+
+#### Central nervous system:
+
++-------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| Cerebral vasodilatation | - \<1MAC: ↓CBF (↓CMRO~2~ predominates)                                                                                       |
+|                         | - \>1MAC: ↑CBF (vasodilatation predominates - ↓L-Ca^2+^, ↑NO)                                                                |
+|                         | - Desflurane causes the least ↑CBF of all the volatile agents                                                                |
+|                         |                                                                                                                              |
+|                         | ![](/content/exams/anzca/2010/A/3/prize-image001.jpg){fig-alt="Cerebral blood flow against desflurane concentration in MAC"} |
++-------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| Emetogenesis            | - ↑5-HT activity                                                                                                             |
++-------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| Antalgesia              | - At low partial pressure                                                                                                    |
++-------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| Post-op delirium        | - ? Cause                                                                                                                    |
+|                         | - ↑Risk if elderly                                                                                                           |
++-------------------------+------------------------------------------------------------------------------------------------------------------------------+
+
+#### Other physiology:
+
++------------------------+--------------------------------------------------------------------------------+
+| Uterine relaxation     | - L-Ca^2+^ inhibition, ↑NO release                                             |
+|                        | - ↑Bleeding during GA Caesarean                                                |
++------------------------+--------------------------------------------------------------------------------+
+| Hepatotoxicity         | - Metabolism by CYP2E1 → inorganic and organic fluorides, trifluoroacetic acid |
+|                        | - Toxicity rare                                                                |
++------------------------+--------------------------------------------------------------------------------+
+| Malignant hyperthermia | - Life-threatening hypermetabolic reaction                                     |
+|                        | - Idiosyncratic; all other features listed are dose-dependent                  |
+|                        | - Mutation in RYR1 gene encoding skeletal muscle ryanodine receptor            |
+|                        | - ↑↑Ca^2+^ release on excitation → rigidity                                    |
++------------------------+--------------------------------------------------------------------------------+
+
+#### CO~2~ absorber:
+
++-----------------+----------------------------------------------------------+
+| Carbon monoxide | - CHF~2~ group + CO~2~ absorber → carbon monoxide        |
+|                 | - ↑HbCO (up to 35%) → anaemic hypoxia                    |
+|                 | - ↑Risk if:                                              |
+|                 |   - Isoflurane/enflurane \> desflurane                   |
+|                 |   - Baralyme                                             |
+|                 |   - Absorber hot and dry (e.g. machine used all weekend) |
++-----------------+----------------------------------------------------------+

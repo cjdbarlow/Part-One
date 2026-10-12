@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008B Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} sepsis and [**describe**]{.task-verb} the metabolic consequences of sepsis.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} sepsis and its general features, then give equal attention to metabolic consequences. Link mediators and organ effects to hypermetabolism, catabolism, insulin resistance, substrate mobilisation and acidosis.
+
+::: {.structure-headings}
+### Definition, Mechanisms and Mediators
+
+### General Organ Effects
+
+### Hypermetabolism and Fever
+
+### Carbohydrate, Protein and Lipid Metabolism
+
+### Tissue Hypoxia, Insulin Resistance and Acidosis
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**48%** of candidates passed this question.
+
+A basic definition of sepsis was expected. Recognition of the spectrum of severity encompassed by the term sepsis gained additional marks, as did a brief description of the mechanisms and mediators of sepsis.
+
+Given the wording of this question equal marks were given for the general (non-metabolic) and metabolic features of sepsis. The general features were best organised by a systems approach namely cardiovascular, respiratory, haematological, endocrine and CNS. Of these the cardiovascular features required the most detail.
+
+Important information to be included in the metabolic part of the answer included the general catabolic state, hypermetabolism, fever, tissue hypoxia, metabolic acidosis, insulin resistance and the effect of sepsis on the metabolism of carbohydrates, proteins and lipids.
+
+Clear writing and simple organisation involving underlined headings and common abbreviations allowed candidates to cover this broad question well. Those who failed this question simply did not provide enough content and detail. The most common mistake was to write at length about metabolic acidosis to the exclusion of a wider ranging answer. Detailed metabolic pathways were not expected.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2008/B/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Basal metabolic rate](/content/metabolic/bmr.qmd)
+- [Carbohydrate metabolism](/content/metabolic/carbohydrate.qmd)
+- [Protein metabolism](/content/metabolic/protein.qmd)

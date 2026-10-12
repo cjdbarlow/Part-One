@@ -1,0 +1,95 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002A Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the principles of a pneumotachograph. [**What factors**]{.task-verb} affect the accuracy of this device?
+:::
+
+Also asked in: [2012A Question 10](/content/exams/anzca/2012/A/10/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} how a pressure difference across a fixed resistance measures flow and allows volume to be derived. Explain [**what factors**]{.task-verb} affect accuracy through laminar flow assumptions, gas properties, temperature, condensation and flow range.
+
+::: {.structure-headings}
+### Measurement Principle and Equations
+
+### Types and Differential Pressure Measurement
+
+### Laminar Flow Assumptions
+
+### Gas Composition and Temperature
+
+### Flow Extremes, Condensation and Accuracy
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**44%** of candidates passed this question
+
+Several candidates wrote answers on different pieces of equipment, e.g body plethysmograph, capnograph, Bourdon gauge, or others. No matter how correct that information, no marks could be given. Eight candidates wrote nothing at all.
+
+For a pass, an answer should have included most of the following points :
+
+- Fixed-orifice device i.e. measurement of pressure drop across a fixed resistance
+- Design with either a mesh screen or capillaries to encourage laminar flow
+- With laminar flow there is a linear relationship between flow and ∆P, according to Poiseuille's equation.
+
+Accuracy is affected by the following factors,
+
+- Humidity and condensation
+- Temperature
+- Flow greater than maximum recommended for the particular device
+- Viscosity of gas measured versus calibrated for
+
+Extra marks were awarded for additional relevant information e.g. design features; the low pressure drop (< 1 - 2 cmH~2~O); the Fleisch screen can incorporate a heater to prevent condensation; There is a range of sizes available (eg suitable for children and adults); if flow is too large for the device chosen then turbulence will result in which case there is no longer a linear relationship between P and Flow; if flow is too low the ∆P may be too small for the transducer to detect.
+
+Common errors included listing changes in gas density rather than viscosity as important without mentioning that this was only of relevance to calculation of Reynolds' number.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2002/A/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Spirometry](/content/resp/spirometry.qmd)

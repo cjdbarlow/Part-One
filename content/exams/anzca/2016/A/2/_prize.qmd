@@ -1,0 +1,52 @@
+#### List:
+
+- Define
+- Diagramme
+- Pros
+- Cons
+
+#### Define: 
+
+Circle system is a semi-closed, re-breathing anaesthetic circuit.
+
+#### Diagramme:
+
+![](/content/exams/anzca/2016/A/2/prize-image001.jpg){fig-alt="Circle breathing system showing fresh gas delivery, absorber, ventilator and scavenging pathways"}
+
+<https://static.draeger.com/ventilation/Simulators/Primus/index.html#/en/page/D1100>
+
+(I strongly recommend you follow this link)
+
+#### Pros:
+
++--------------------+-----------------------------------------------------------------------+
+| Main features      | - Volatile anaesthetic: accurate, minimal waste                       |
+|                    | - O~2~: accurate, can deliver 100%                                    |
+|                    | - CO~2~: efficient removal by                                         |
+|                    |   - Scavenger (earlier in expiratory limb – to spare CO~2~ absorber)) |
+|                    |   - CO~2~ absorber (later in expiratory limb)                         |
++--------------------+-----------------------------------------------------------------------+
+| Secondary features | - Minimal dead space: only tubing distal to Y piece and HME           |
+|                    | - Low resistance                                                      |
+|                    | - Humidification and warming by CO~2~ absorber                        |
++--------------------+-----------------------------------------------------------------------+
+| Logistics          | - Sodalime remote from airway hence minimal dust inhalation           |
+|                    | - ↓Waste                                                              |
+|                    | - ↓O~2~ pollution                                                     |
++--------------------+-----------------------------------------------------------------------+
+
+#### Cons:
+
++--------------------+---------------------------------------------------------------------------------------------------+
+| Main features      | - Change in vapour dial slow to equilibrate with circuit and patient                              |
+|                    | - FiO~2~ can fall below 0.21 if low fresh gas flow rate and low fresh gas pO2 (since semi-closed) |
+|                    | - Sodalime degradation products: CO, Compound A                                                   |
++--------------------+---------------------------------------------------------------------------------------------------+
+| Secondary features | - Higher resistance than Mapleson E and F due to valves and longer tubing                         |
+|                    | - Possibility of injury if dysfunctional valves, scavenging system                                |
++--------------------+---------------------------------------------------------------------------------------------------+
+| Logistics          | - Expensive                                                                                       |
+|                    | - Complicated                                                                                     |
+|                    | - Bulky                                                                                           |
+|                    | - Atmospheric pollution from scavenging                                                           |
++--------------------+---------------------------------------------------------------------------------------------------+

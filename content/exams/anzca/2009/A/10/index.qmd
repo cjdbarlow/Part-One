@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009A Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the physiological effects of the glucocorticoids.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Metabolic Effects**, **Inflammation**, **Foetal Effects**, and **Other Organ Systems**. Subdivide metabolism into carbohydrate, fat and protein and relate the receptor mechanism to physiological effects.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**18%** of candidates passed this question.
+
+A large number of candidates answered this question as a pharmacology question, including irrelevant detail such as the indications and dosages for dexamethasone/steroid supplementation for surgery.
+
+A similarly large number gave a description of Cushing’s disease. Points that were expected to be included:
+
+An opening statement including a definition, origin of and a statement that glucocorticoids are catabolic in nature
+
+Candidates who organised their answer into categories such as:
+
+- Metabolism ( and then broke this down to : Carbohydrate, Fat and Protein)
+- Inflammation
+- Effect on Foetus
+- Other systems ( Haematological, GI, Musculoskeletal etc) demonstrated a global understanding and scored well
+
+Candidates should note that neither Insulin nor Glucagon are Glucocorticoids and that Glucose cannot be derived from Fatty Acids
+
+Extra marks were given for describing the actions of glucocorticoids on an intranuclear receptor and mRNA transcription and the anti inflammatory effects
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Adrenal Hormones](/content/endo/adrenal.qmd)

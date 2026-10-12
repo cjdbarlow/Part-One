@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008A Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Define**]{.task-verb} the mechanisms of action and adverse effects of metoprolol, glyceryl trinitrate and diltiazem when used to manage myocardial ischaemia.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Define**]{.task-verb} mechanisms and adverse effects for each named drug. Link receptor or enzyme actions to myocardial oxygen supply and demand and include the consequences of hypotension, tachycardia and combined therapy.
+
+::: {.structure-headings}
+### Myocardial Oxygen Supply and Demand
+
+### Metoprolol
+
+### Glyceryl Trinitrate
+
+### Diltiazem
+
+### Tolerance and Interactions
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**65%** of candidates passed this question.
+
+It was expected candidates would discuss the general concept of a balance of supply and demand and go on to describe the main determinates of oxygen demand being heart rate and contractility. Additional marks were given for discussing the role of ventricular dilation. For agents that slow the heart rate extra credit was given for an explanation about the proportion of the cardiac cycle spent in diastole at high and low heart rates and the impact this has on coronary blood flow and myocardial perfusion. It was expected that the mechanism of action for each agent would be outlined. Some discussion of both the general clinical effect and more detailed mechanism of action were expected. For example, metoprolol is a selective beta 1 receptor antagonist that results in decreased cyclic AMP as a second messenger. The resultant clinical effects are primarily a reduced heart rate and reduced contractility. Extra marks were awarded for reiterating why this is beneficial for patients with myocardial ischaemia. It was expected that the potential adverse effects for each agent would be mentioned. Extra credit was given for comments regarding the development of tolerance to glyceryl trinitrate. Additional marks were gained for discussing the potential adverse impact that inducing tachycardia or hypotension can have on myocardial ischaemia. Further credit was given for noting that both the clinical effects and the potential for adverse effects are synergistic with each of these and other agents.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2008/A/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Beta blockers](/content/pharmacopoeia/cvs/beta_blockers.qmd)
+- [Direct vasodilators](/content/pharmacopoeia/cvs/direct_vasodilators.qmd)
+- [Myocardial oxygen supply and demand](/content/cvs/myocardial_oxygen.qmd)

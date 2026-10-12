@@ -1,0 +1,75 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011A Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the ideal properties of agents used for sedation using two examples.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Ideal Pharmacokinetic Properties** and **Ideal Pharmacodynamic Properties**. Use two named agents to [**explain**]{.task-verb} how their actual properties approach or depart from those ideals, rather than marking unexplained ticks and crosses.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question was passed by **69.3 %** of candidates.
+
+Points expected for a pass: Listing the ideal attributes of a sedation agent. Most chose an intraveneous agent, with focus on pharmacokinetics, including rapid onset, short equilibration effect site time, rapid offset, short context sensitive half time (CSHT), and organ independent elimination.
+
+Pharmacodynamic qualities should include high therapeutic ratio, minimal cardiovascular and respiratory depression, amnestic and analgesic qualities
+
+Most discussed the examples of midazolam and propofol, comparing them to the ideal qualities and/or to each other. Other acceptable alternatives included dexmedetomidine, ketamine, remifentanil and fentanyl.
+
+Better answers demonstrated understanding of the pharmacokinetics, why organ independent metabolism was better, how certain drugs had a short CSHT due to redistribution or high metabolism. Some recognised that propofol had a lower therapeutic ratio as compared to midazolam, as the dose required to produced sedation was close to that for producing general anaesthesia.
+
+These answers received more marks than just a bare list of ticks and crosses. Those that used only one example or neglected to talk about pharmacokinetics were less likely to gain enough marks to pass. Other mistakes were to regurgitate all known facts about the two agents, without reference to what would make them ideal for use as a sedation agent.
+
+Additional marks were given for mentioning drug interactions, increased sensitivity with age and pain on injection with propofol.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Benzodiazepines](/content/pharmacopoeia/neuro/benzodiazepines.qmd)
+- [Propofol](/content/pharmacopoeia/neuro/propofol.qmd)

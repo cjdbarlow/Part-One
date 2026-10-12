@@ -1,0 +1,90 @@
+#### List:
+
+- Intro
+- Absorption
+- Distribution
+- Metabolism
+- Excretion
+
+#### Intro:
+
++---------------------------+--------------------------------------------------------+
+| Definition                | - Kidney damage or dysfunction of any cause for ≥3/12  |
++---------------------------+--------------------------------------------------------+
+| Staging by GFR            | 1.  \>90mL/min                                         |
+|                           | 2.  60-90                                              |
+|                           | 3.  30-60                                              |
+|                           | 4.  15-30                                              |
+|                           | 5.  \<15 or dialysis-dependent (= failure)             |
++---------------------------+--------------------------------------------------------+
+| Implications              | - Disturbs all aspects of pharmacokinetics             |
+|                           | - Unpredictable drug behaviour                         |
+|                           |                                                        |
+|                           |    -\>\> titrate to effect ± ↓dose ± ↓frequency        |
++---------------------------+--------------------------------------------------------+
+| Risk factors for toxicity | - Severe ↓GFR                                          |
+|                           | - Renal clearance of parent or active/toxic metabolite |
+|                           | - Low therapeutic index                                |
+|                           |                                                        |
+|                           | \                                                      |
+|                           |    -\>\> e.g. digoxin in ESKD                          |
++---------------------------+--------------------------------------------------------+
+
+#### Absorption:
+
++-------------------+---------------------------------------------------------------+
+| Oral              | - ↑Urea → delayed gastric emptying                            |
+|                   |                                                               |
+|                   |    -\>\> Risk of dose stacking (e.g. PO metoprolol)           |
++-------------------+---------------------------------------------------------------+
+| Inhaled           | - Volatile uptake unaffected                                  |
++-------------------+---------------------------------------------------------------+
+| SC / IM / topical | - ↑TBW → oedema → ↑diffusion distance → ↓rate of onset        |
+|                   | - ±Cardiorenal syndrome → ↓blood flow → ↓rate of onset        |
+|                   |                                                               |
+|                   |    -\>\> Risk of dose stacking (e.g. GTN patch, IM ephedrine) |
++-------------------+---------------------------------------------------------------+
+
+#### Distribution:
+
++------------------------+--------------------------------------------------------------------+
+| Volume of distribution | - ↑ECF volume → ↑V~D~ water-soluble drugs → ↑loading dose\         |
+|                        |   (e.g. suxamethonium)                                             |
++------------------------+--------------------------------------------------------------------+
+| Acid-base              | - ±Metabolic acidosis                                              |
+|                        |   - ↑unionised % of acidic drugs (e.g. thiopentone → CVS toxicity) |
+|                        |   - ↓unionised % of basic drugs (e.g. morphine → ↓effect)          |
++------------------------+--------------------------------------------------------------------+
+| Plasma proteins        | *Important for highly bound drugs.*                                |
+|                        |                                                                    |
+|                        | - ↓Albumin → ↑free acidic drug (e.g. diazepam → CNS depression)    |
+|                        | - ↑AAG → ↓free basic drug (e.g. morphine → ↓effect)                |
++------------------------+--------------------------------------------------------------------+
+
+#### Metabolism:
+
++---------+----------------------------------------------------------------+
+| Hepatic | - Urea → inhibition of CYP enzymes (e.g. fentanyl → ↑duration) |
+|         | - ±Hepatorenal syndrome                                        |
++---------+----------------------------------------------------------------+
+| Renal   | - ↓Drug metabolism (e.g. insulin → ↑duration)                  |
++---------+----------------------------------------------------------------+
+
+#### Excretion:
+
++---------------+-------------------------------------------------------------------+
+| Renal         | *Renal drug clearance ∝ GFR:*                                     |
+|               |                                                                   |
+|               | - Parent: e.g. pancuronium → ↑↑duration) prefer atracurium        |
+|               | - Active metabolite: e.g. M6G → opioid toxicity (prefer fentanyl) |
+|               | - Toxic metabolite: e.g. norpethidine → seizure (prefer fentanyl) |
++---------------+-------------------------------------------------------------------+
+| Haemodialysis | *Variable clearance:*                                             |
+|               |                                                                   |
+|               | - Small, unbound particles cleared→ give after dialysis           |
+|               | - Large, bound drugs unaffected → same schedule                   |
+|               |                                                                   |
+|               | *Normalisation of TBW:*                                           |
+|               |                                                                   |
+|               | - ↓V~D~ water-soluble drugs                                       |
++---------------+-------------------------------------------------------------------+

@@ -1,0 +1,48 @@
+#### List:
+
+- PCs: oil-gas, blood-gas, muscle-blood, fat-blood
+- Fi~N2O~: conc effect, 2nd gas effect, diffusion hypoxia
+
+#### Partition coefficients:
+
++--------------+------------------------------------------------------------------------------+
+| Oil-gas      | - N~2~O 1.4 cf. sevoflurane 80                                               |
+|              | - MAC 105%, MAC-awake 67%                                                    |
+|              | - Low potency, inadequate as a sole agent                                    |
+|              | - Can be used as a high volume carrier gas                                   |
++--------------+------------------------------------------------------------------------------+
+| Blood-gas    | - N~2~O 0.47 cf. N2 0.014                                                    |
+|              |   - 30x difference in solubility hence rate of equilibration                 |
+|              |   - Hence concentration effect, second gas effect, diffusion hypoxia (below) |
+|              |   - Hence expansion of closed air spaces (e.g. pneumothorax)                 |
+|              | - N~2~O 0.47 cf. sevoflurane 0.69                                            |
+|              |   - ↑Rate of rise F~A~/F~I~ → rapid onset                                    |
++--------------+------------------------------------------------------------------------------+
+| Muscle-blood | - N~2~O 1.2 cf. sevoflurane 3.1                                              |
+|              | - Equilibration half time: 3 hours                                           |
+|              | - Minimal accumulation during medium-long case                               |
++--------------+------------------------------------------------------------------------------+
+| Fat-blood    | - N~2~O 2.3 cf. sevo 48                                                      |
+|              | - Equilibration half time: 5 hours                                           |
+|              | - Minimal accumulation during long case                                      |
++--------------+------------------------------------------------------------------------------+
+
+#### ↑FiN~2~O:
+
++----------------------+------------------------------------------------------------------------------------+
+| Concentration effect | - Seen only with high volume carrier gases                                         |
+|                      | - Switch from N~2~/O~2~ to N~2~O/O~2~                                              |
+|                      | - Rapid uptake N~2~O from alveolus, but very slow output of N~2~                   |
+|                      | - Reduction in alveolar volume and pressure → rapid inflow of N~2~O-rich fresh gas |
+|                      | - Accelerated ↑ F~A~/F~I~ N~2~O                                                    |
++----------------------+------------------------------------------------------------------------------------+
+| Second gas effect    | - Rapid uptake N~2~O from alveolus, but very slow output of N~2~                   |
+|                      | - Concentration of remaining alveolar gas                                          |
+|                      | - Accelerated ↑F~A~/F~I~ volatile drug                                             |
++----------------------+------------------------------------------------------------------------------------+
+| Diffusion hypoxia    | - Reverse of the concentration effect                                              |
+|                      | - Switch from N~2~O/O~2~ to N~2~/O~2~                                              |
+|                      | - Rapid output N~2~O into alveolus, but very slow uptake of N~2~                   |
+|                      | - Dilution of alveolar O~2~ → hypoxia                                              |
+|                      | - Avoided by high %O~2~ during washout                                             |
++----------------------+------------------------------------------------------------------------------------+

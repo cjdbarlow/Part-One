@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015A Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly outline**]{.task-verb} the effects of sevoflurane on skeletal, smooth and cardiac muscle tissues. [**Include**]{.task-verb} how these effects are mediated and their clinical significance
+:::
+
+Also asked in: [2010B Question 4](/content/exams/anzca/2010/B/4/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly outline**]{.task-verb} effects under the three muscle types and [**include**]{.task-verb} the mechanism and clinical significance alongside each effect. Distinguish cardiac muscle from vascular smooth muscle and cover skeletal relaxation as well as malignant hyperthermia.
+
+::: {.structure-headings}
+### Relevant Cellular Mechanisms
+
+### Skeletal Muscle Effects
+
+### Smooth Muscle Effects
+
+### Cardiac Muscle Effects
+
+### Clinical Significance
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**38.8%** of candidates achieved a pass in this question
+
+This question lent itself to breakdown into manageable parts: The effects of sevoflurane on each muscle type, the mechanisms relevant to each of the tissue effects, and the clinical significance of those effects. To score well, candidates needed to emphasise relaxant skeletal muscle effects and atypical effects characterised chiefly by MH. An appreciation of the types of smooth muscle - vascular and non vascular, in addition to the clinically unique relevance of specialised circulations such as the cerebral vasculature was a prerequisite for a high score. It was necessary to describe the effect on cardiac muscle specifically rather than on the circulation in general as this tended to result in a confused answer that failed to distinguish vascular smooth muscle and cardiac muscle effects. Too many candidates consumed time rewriting the question or providing lengthy details of sevoflurane’s pharmaceutic and kinetic properties for which no credit could be obtained. Similarly, therapeutic interventions to address the clinically adverse effects of sevoflurane were not awarded marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2010/B/4/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2010/B/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational anaesthetic agents](/content/pharmacopoeia/neuro/inhalational_anaesthetic_agents.qmd)

@@ -1,0 +1,52 @@
+For offset drug must diffuse out of axon into plasma:
+
+**ΔP**
+
+**Dose**
+
+↑Dose/Concentration → ↑quantity diffused into axon → ↑ duration of action
+
+**Protein Binding** 
+
+↑protein binding → longer binding to neuronal surface → longer duration of action
+
+**↓C2**
+
+**Metabolism**:
+
+Metabolism → ↓ plasma concentration - Esters metabolised more rapidly than amides 
+
+**Diffusion Coefficient **
+
+**Lipid Solubility** 
+
+↑lipid solubility → ↑Potency → ↓dose used → ↑diffusion rate
+
+**Molecular Weight**
+
+↓MW → ↑Diffusion Rate 
+
+**Intrinsic Vasodilator activity **
+
+↑ intrinsic vasodilator activity → ↑ systemic absorption → ↓duration of action 
+
+Other
+
+**Additives**:
+
+Adrenaline → vasoconstriction → ↓ systemic absorption → ↑duration of effect 
+
+Clonidine/opioids/dexamethasone → ↑duration of action 
+
+**Patient Factors**
+
+**Nerve Diameter**:
+
+↑ nerve fibres diameter→ ↑diffusion distance → ↓diffusion / slower onset
+
+- if size is similar, myelinated fibres (i.e. saltatory conduction) are blocked faster than unmyelinated fibres (continuous conduction)
+- more active fibres are blocked faster than less active fibres
+
+**Site of administration**, ↑ regional blood flow → increased systemic absorption → ↓duration of action 
+
+**Temperature**: ↓ temp ↓ enzymatic function, and ↓ blood flow → prolonged duration

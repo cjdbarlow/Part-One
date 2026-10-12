@@ -1,0 +1,85 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003A Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the mechanisms that maintain cerebral blood flow on moving from a supine to a standing position.
+:::
+
+Also asked in: [1999B Question 6](/content/exams/anzca/1999/B/6/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} the immediate hydrostatic effects of standing, then link systemic compensatory responses and cerebral autoregulation to preservation of cerebral perfusion. Include the time course of these changes.
+
+::: {.structure-headings}
+### Cerebral Perfusion Pressure and Vascular Resistance
+
+### Immediate Hydrostatic and Systemic Effects
+
+### Systemic Compensatory Mechanisms
+
+### Cerebral Autoregulation and Time Course
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The past rate for this question was **60%**.
+
+There was a broad range of marks, with some candidates doing very well, and a large number doing very poorly. In general, an appreciation of both systemic and cerebral factors relevant to cerebral blood flow changes on changing posture were required.
+
+From the systemic aspect, an explanation of the hydrostatic effects of a changing posture, and the mechanical and cardiovascular reflex responses to these effects was required. This was included in most answers, though was the only aspect discussed in quite a number.
+
+From the cerebral perspective, some appreciation of the key determinants of cerebral blood flow was required, and in particular some mention of the factors affecting cerebral perfusion pressure and cerebral vascular resistance. It was noted that whilst many candidates had an appreciation of the changes in the arterial side of cerebral perfusion with changes in posture, many candidates failed to appreciate the importance of a concomitant decrease in cerebral venous pressure. This is a significant contributor to minimising the hydrostatic effects of direct position on cerebral blood flow.
+
+Some mention of pressure autoregulation was an important component of the answer and many candidates did not mention this aspect at all. There was sometimes confusion between pressure autoregulation and metabolic-cerebral blood flow “coupling”. The term autoregulation is sometimes used interchangeably in the literature, and this creates confusion in published texts. In reality, both responses may share common mechanisms.
+
+It was interesting to note that almost no candidates discussed the time course of cerebral blood flow changes. The figure of a 20 percent reduction in cerebral blood flow was commonly quoted, however, it was not often appreciated that this is a temporary change.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/B/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Cerebral blood flow](/content/cvs/cerebral_blood_flow.qmd)
+- [Baroreceptors](/content/cvs/baroreceptors.qmd)

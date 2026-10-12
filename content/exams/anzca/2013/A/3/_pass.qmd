@@ -1,0 +1,28 @@
+Isomers are molecules with the same chemical composition with different structural arrangements.
+
+Broadly classified as:
+
+- Structural Isomers - Different ordering of chemical bonds
+- Stereoisomers - same bonds different arrangement in space
+
+Structural isomers:
+
+Generally, have different physical properties such as boiling point, solubility.
+
+Depending on the arrangement similarity the molecules may have similar effects i.e. Enflurane and Isoflurane, or vastly different such as dobutamine and dihydrocodeine.
+
+Tautomerism refers  to the dynamic interchange between 2 forms of molecular structure in the physical environment such as the open and closed ring structure in Midazolam changing lipid solubility. 
+
+Stereoisomers 
+
+- Geometric Isomers
+
+Geometric Isomers are molecules who’s orientation of functional groups  are restricted from movement due to bonding or shape. 
+
+This can cause significant changes in function, such as with mivacurium which can exist as 2 different isomeric form. Two of which Trans-trans and cis-trans are functional while cis-cis has minimal activity and is not significant metabolised=.
+
+- Optical Isomers (enantiomers) 
+
+The orientation of functional groups in space are mirror images. enantiomers have chiral centres with functional groups attached. The mirror images rotate polarised light in opposite directions, Levo (left), dextro (right). 
+
+Enantiomers can interact with receptors/proteins to have significantly different effects. L-bupivacaine is more potent and has less cardiac toxicity then D-Bupivacaine

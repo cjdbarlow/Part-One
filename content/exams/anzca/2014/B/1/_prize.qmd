@@ -1,0 +1,76 @@
+#### List:
+
+- Key anatomy: location, borders, key structures
+- Contents
+
+#### Key anatomy:
+
++-----------------------------------+-------------------------------------------------------------------+
+| Location                          | - Volar aspect of elbow joint                                     |
++-----------------------------------+-------------------------------------------------------------------+
+| Borders                           | - Superior: imaginary line between the epicondyles of the humerus |
+|                                   | - Inferior: angle formed by brachioradialis and pronator teres    |
+|                                   | - Medial: pronator teres                                          |
+|                                   | - Lateral: brachioradialis                                        |
+|                                   | - Roof: deep fascia of the forearm and biceps aponeurosis         |
+|                                   | - Floor: brachialis and supinator                                 |
++-----------------------------------+-------------------------------------------------------------------+
+| Key structures: medial to lateral | - Median nerve                                                    |
+|                                   | - Brachial artery                                                 |
+|                                   | - Biceps tendon and aponeurosis                                   |
+|                                   | - Radial nerve                                                    |
++-----------------------------------+-------------------------------------------------------------------+
+
+#### Contents:
+
++------------+---------------------------------------------------------------------------------------------------------------------+
+| Arteries   | - Brachial artery: passes under biceps aponeurosis, bifurcates into radial and ulnar arteries                       |
+|            | - Multiple collateral branches: superior and inferior ulnar, radial, interosseous                                   |
+|            | - Collaterals may be absent or ineffective, quasi end artery, cannulation preferred elsewhere                       |
+|            | - Note median nerve medial to it; risk of damage during cannulation                                                 |
++------------+---------------------------------------------------------------------------------------------------------------------+
+| Veins      | - Cephalic: passes lateral to anterior cubital fossa (ACF); easily cannulated                                       |
+|            | - Basilic: passes medial to ACF                                                                                     |
+|            | - Median antecubital vein: passes across ACF from cephalic to basilic; risk of arterial puncture during cannulation |
+|            | - Valves at junctions                                                                                               |
++------------+---------------------------------------------------------------------------------------------------------------------+
+| Nerves     | - Radial: passes across ACF then under cover of brachioradialis                                                     |
+|            | - Median: passes between the two heads of pronator teres                                                            |
++------------+---------------------------------------------------------------------------------------------------------------------+
+| Lymphatics | - Deep lymphatics pass with arteries                                                                                |
+|            | - Superficial lymphatics pass with venous structures                                                                |
++------------+---------------------------------------------------------------------------------------------------------------------+
+
+#### Extra: Describe the anatomy of the femoral triangle.
+
+#### List:
+
+- Borders
+- Contents
+- Landmarks
+
++-----------+--------------------------------------------------------------------------------------------------------------------------+
+| Borders   | - Superior: inferior border inguinal ligament                                                                            |
+|           | - Inferior: angle between sartorius and adductor longus; continuous with adductor canal                                  |
+|           | - Medial: medial border of adductor longus                                                                               |
+|           | - Lateral: med border of sartorius                                                                                       |
+|           | - Floor: pectineus, iliopsoas                                                                                            |
+|           | - Roof: fascia lata                                                                                                      |
++-----------+--------------------------------------------------------------------------------------------------------------------------+
+| Contents  | **On their own:**                                                                                                        |
+|           |                                                                                                                          |
+|           | 1. Lateral cutaneous nerve of thigh                                                                                      |
+|           | 2. Femoral nerve (note deep to fascia iliaca)                                                                            |
+|           | 3. Nerve to pectineus (note deep to fascia iliaca)                                                                       |
+|           |                                                                                                                          |
+|           | **Femoral sheath** (inferior projection of transversalis fascia anteriorly and iliac fascia posteriorly)                 |
+|           |                                                                                                                          |
+|           | 1. Lateral compartment: common femoral artery and genitofemoral nerve                                                    |
+|           | 2. Intermediate compartment: femoral vein                                                                                |
+|           | 3. Medial compartment = femoral canal: lymph node and lymphatics                                                         |
++-----------+--------------------------------------------------------------------------------------------------------------------------+
+| Landmarks | - Femoral artery: mid-inguinal point; overlies psoas and hip joint capsule                                               |
+|           | - Femoral vein: 1cm below and 1cm medial to femoral a pulsation                                                          |
+|           | - Femoral nerve: 1-2cm below and lat; pop through fascia lata then pop through fascia iliaca                             |
+|           | - Fascia iliaca block: 1cm below inguinal lig, between its lateral and middle thirds; pop through fascia lata and iliaca |
++-----------+--------------------------------------------------------------------------------------------------------------------------+

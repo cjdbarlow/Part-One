@@ -1,0 +1,21 @@
+Agent Factors:
+
+Blood:Gas partition Coefficient: Agents with lower blood gas partition coefficient have more rapid onset of on anaesthesia 
+
+Second Gas Effect: Use of N2O for inhalation induction contributes because the rapid uptake of N2O from the alveolus concentrates the remaining inhalation agent increasing the effective Fi, in addition to the MAC additive effect of N2O
+
+Equipment and delivery Factors:
+
+↑ Fresh Gas Flow increasing fresh gas flow increases the rate of delivery and replacement of volatile agent taken up from the alveolus
+
+↓ Circuit Volume: circuit volume dilutes the delivered volatile concentration and takes longer to bring Fi up to desired concentration 
+
+↑ Delivery Concentration: increasing Fi partial pressure of agent delivers higher concentration, can be used to ‘over pressure’ in induction 
+
+Patient Factors:
+
+↑ Alveolar Ventilation: ↑VA (tidal volume and RR) increases the rate of delivery of volatile for alveolar diffusion 
+
+↓ FRC: FRC acts as a fresh gas reservoir diluting incoming Fi of the agent, reducing FRC results in a more rapid ↑ in alveolar concentration of volatile agent. 
+
+↓ CO: Increases wash in rate

@@ -1,0 +1,53 @@
++------------+------------------------------------------------------------+
+| Receptor   | - α~2~ adrenoceptor agonist                                |
+|            |   - Partial agonist (ceiling effect)                       |
+|            |   - α~2~ : α~1~ = 200:1                                    |
+|            |   - Central and peripheral                                 |
+|            |   - Pre- and post-synaptic                                 |
+|            | - Imidazoline receptor agonist                             |
+|            |   - May mediate brainstem effects                          |
++------------+------------------------------------------------------------+
+| Physiology | - Locus coeruleus:                                         |
+|            |   - Mainly post-synaptic                                   |
+|            |   - ↓Activity of reticular activating system               |
+|            |   - ↓SNS outflow                                           |
+|            |   - ↑Descending inhibition of nociceptors                  |
+|            | - Dorsal horn:                                             |
+|            |   - ↓Glutamate/substance P release by nociceptors          |
+|            |   - ↓Activation of WDR projection neurons                  |
+|            | - Peripheral nerves                                        |
+|            |   - Pre-synaptic: ↓NAd release                             |
+|            |   - Post-synaptic: similar to α~1~                         |
++------------+------------------------------------------------------------+
+| CNS        | - Anxiolysis and sedation                                  |
+|            |   - Rousable and co-operative                              |
+|            |   - Airway and breathing unaffected                        |
+|            | - General anaesthesia                                      |
+|            |   - Insufficient alone                                     |
+|            |   - ↓MAC / propofol Cp50                                   |
+|            |   - ↓CMRO~2~ / ↓CBF / ↓ICP (mild)                          |
+|            |   - EEG quasi NREM 3-4                                     |
+|            | - Other:                                                   |
+|            |   - Analgesia (opioid-sparing)                             |
+|            |   - Augment and prolong neuraxial blockade                 |
+|            |   - Neuroprotection (↓NAd, ↓glutamate)                     |
+|            |   - Anti-shivering                                         |
+|            |   - Anti-sialogogue                                        |
++------------+------------------------------------------------------------+
+| CVS        | **Multi-phasic effects:**                                  |
+|            |                                                            |
+|            | - *At first*: ± ↑SVR, ↑mAP, reflex ↓HR                     |
+|            |   - Peripheral post-synaptic α~2B~                         |
+|            |   - May occur after loading dose                           |
+|            | - *Then*: ↓SVR, ↓mAP, ↓HR, ↔CO                             |
+|            |   - Central post-synaptic \> peripheral pre-synaptic α~2A~ |
+|            |   - Severe if large bolus                                  |
+|            | - *After cessation*: ± rebound hypertension, agitation     |
+|            |   - α~2~ receptor upregulation                             |
+|            |                                                            |
+|            | **Use:**                                                   |
+|            |                                                            |
+|            | - ↓Response to laryngoscopy and surgery                    |
+|            | - ↓Myocardial ischaemia (↑supply, ↓demand)                 |
+|            | - ↓Opioid withdrawal                                       |
++------------+------------------------------------------------------------+

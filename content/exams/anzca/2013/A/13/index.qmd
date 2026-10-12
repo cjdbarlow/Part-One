@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013A Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**How does**]{.task-verb} a fall in temperature influence blood gas solubility and acid base values?
+:::
+
+Also asked in: [1999B Question 1](/content/exams/anzca/1999/B/1/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+Explain **[how]{.task-verb}** temperature influences these values by linking reduced kinetic energy to solubility, partial pressure and acid–base changes.
+
+::: {.structure-headings}
+### Temperature, Kinetic Energy and Henry’s Law
+
+### Gas Content, Solubility and Partial Pressure
+
+### Dissociation, Hydrogen Ions and pH
+
+### Blood Gas Interpretation: Alpha-Stat and pH-Stat
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Old Exam: **24%** of candidates achieved a pass in this question
+
+New Exam: **17%** of candidates achieved a pass in this question
+
+This question sought information on how a fall in temperature influences blood gas solubility and acid base values. This required candidates to address the fundamentals of temperature (e.g. a relationship with kinetic energy) and gas solubility (which changes with altered kinetic energy). This included Henry’s Law, and understanding that a change in solubility will alter the content: partial pressure ratio. The direction and causes of pH changes were required. Inclusion of discussion on alpha and pH stat gained additional marks, as did discussion of Hb dissociation curve shifts. Overall, candidates frequently scored low marks. Causes of this included: little knowledge of the area, misinterpretation of the question, and frank misunderstandings of the effects of hypothermia. It was common that candidates had hypothermia-induced partial pressure changes, and solubility changes, inverted. The cause of pH changes was not well understood. Alpha and pH stat, when included, was usually addressed well. Inclusion of areas such as an effect of hypothermia on diffusion and cardiovascular/perfusion changes, did not attract marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/1999/B/1/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/B/1/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Acid–base principles](/content/acid_base/principles.qmd)
+- [Temperature](/content/metabolic/temperature.qmd)
+- [Blood gas measurement](/content/equipment/blood_gas.qmd)
+- [Gas laws](/content/laws.qmd)

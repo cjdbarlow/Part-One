@@ -1,0 +1,70 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005A Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the control of gastric emptying.
+:::
+
+Also asked in: [2000A Question 6](/content/exams/anzca/2000/A/6/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Local Gastric Factors**, **Duodenal Feedback**, and **Extrinsic Neural and Hormonal Control**. Connect the stomach and duodenum through the relevant neural pathways and hormonal signals.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**45 %** of candidates passed this question.
+
+Essential to passing was an understanding that the control of gastric emptying involved both neural and humoral mechanisms in both the stomach and the duodenum. Neural control involving the vagal and myenteric reflexes in the stomach and the entero gastric reflexes in the duodenum. Hormonal control is via gastrin from the stomach. Secretin, cholecystokinin and GIP secreted in response to duodenal composition inhibit gastric emptying.
+
+Additional points were given for the mechanisms by which the duodenal hormones act, the role of these controls in ensuring adequate digestion and absorption and other physiological processes which slow gastric emptying e.g. pain. Drug effects did not attract marks. The best answers followed a system. The best systems were to discuss neural mechanisms in both stomach and duodenum, then the humoral mechanisms in both sites, or to follow the food as it went from the mouth (and nose) to the duodenum.
+
+Common mistakes were to state “the vagus influences gastric emptying” without saying how this happens, to confuse gastric secretion and emptying, to confuse the relationship between hydrogen ion concentration and pH.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Control of Gastric Emptying](/content/git/gastric_emptying.qmd)

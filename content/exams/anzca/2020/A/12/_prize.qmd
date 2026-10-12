@@ -1,0 +1,40 @@
+#### Diagramme:
+
+![](/content/exams/anzca/2020/A/12/prize-image001.jpg){fig-alt="Self-inflating bag-valve-mask device with refill, air inlet, non-rebreathing and pressure relief valves and inspiratory and expiratory flow paths"}
+
+#### Description:
+
++------+-------------------------------------------------------------------------------------------------+
+| Use  | - Spontaneous ventilation                                                                       |
+|      | - Mechanical ventilation                                                                        |
++------+-------------------------------------------------------------------------------------------------+
+| Pros | ***Logistics:***                                                                                |
+|      |                                                                                                 |
+|      | - Simple                                                                                        |
+|      | - Cheap                                                                                         |
+|      | - Portable                                                                                      |
+|      | - No power required (hand-compressible, self-expanding bag                                      |
+|      | - No O~2~ supply required (air inlet valve opens if subatmospheric)                             |
+|      |                                                                                                 |
+|      | ***Function:***                                                                                 |
+|      |                                                                                                 |
+|      | - Compatible with face mask, LMA, ETT (15mm adaptor)                                            |
+|      | - Can deliver 100% O~2~ (2L bag + large reservoir)                                              |
+|      | - Protection against barotrauma (high pressure relief valve \~30cmH~2~O)                        |
+|      | - Minimal dead space (non-rebreather valve close to patient)                                    |
+|      | - Relatively low resistance to flow in inspiration                                              |
+|      | - Minimal waste of fresh gas (one-way refill valve)                                             |
++------+-------------------------------------------------------------------------------------------------+
+| Cons | ***Logistics:***                                                                                |
+|      |                                                                                                 |
+|      | - Bulky near patient’s head                                                                     |
+|      | - No measurements (pressure, flow, CO~2~)                                                       |
+|      |                                                                                                 |
+|      | ***Function:***                                                                                 |
+|      |                                                                                                 |
+|      | - Easy to overventilate + insufflate the stomach (rapidly re-inflating bag)                     |
+|      | - Spont vent inspiratory pressure drop of 2cmH~2~O exceeds recommendation                       |
+|      | - Valve malfunction or misassembly can cause barotrauma, failure of oxygenation and ventilation |
++------+-------------------------------------------------------------------------------------------------+
+
+Fun fact: AMBU = artificial manual breathing unit

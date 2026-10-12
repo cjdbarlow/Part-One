@@ -1,0 +1,72 @@
+#### List:
+
+- Cellular effects
+- Supraspinal
+- Spinal
+- Peripheral
+- Complication of analgesia: opioid-induced hyperalgaesia and tolerance
+
+#### Morphine’s cellular effects:
+
++--------------------+-----------------------------------------------------------------------------------------+
+| Signalling cascade | ![](/content/exams/anzca/2016/B/12/image001.jpg){fig-alt="Morphine signalling cascade"} |
++--------------------+-----------------------------------------------------------------------------------------+
+| Effects            | - ↓cAMP                                                                                 |
+|                    | - ↓VDCC activation                                                                      |
+|                    | - ↑K^+^ efflux → hyperpolarisation                                                      |
++--------------------+-----------------------------------------------------------------------------------------+
+
+#### Supraspinal analgesia:
+
++--------------------+------------------------------------------------------------------------------------------------+
+| Receptor           | Mu mostly (K and N/OFQ may be pro-nociceptive)                                                 |
++--------------------+------------------------------------------------------------------------------------------------+
+| Locations          | - Brainstem: peri-aqueductal grey matter, rostral ventromedial medulla, nucleus raphe magnus   |
+|                    | - Other: thalamus, hypothalamus, cortex                                                        |
++--------------------+------------------------------------------------------------------------------------------------+
+| Effects of opioids | - ↑Descending modulation                                                                       |
+|                    | - Central effects                                                                              |
++--------------------+------------------------------------------------------------------------------------------------+
+| Diagramme          | Rostral ventromedial medulla cells:                                                            |
+|                    |                                                                                                |
+|                    | ![](/content/exams/anzca/2016/B/12/image002.jpg){fig-alt="Rostral ventromedial medulla cells"} |
+|                    |                                                                                                |
+|                    | - Note many other ascending/descending inputs/outputs                                          |
+|                    | - Note noradrenaline is anti-nociceptive; serotonin is both pro- and anti-nociceptive          |
++--------------------+------------------------------------------------------------------------------------------------+
+
+#### Spinal analgesia:
+
++-----------+-------------------------------------------------------------------------------------------------------+
+| Receptor  | - M, K, D                                                                                             |
++-----------+-------------------------------------------------------------------------------------------------------+
+| Location  | - Dorsal horn, especially layer 2                                                                     |
+|           | - Major: pre-synaptic = 1° afferent = nociceptor                                                      |
+|           | - Minor: post-synaptic = 2° afferent = projection neuron (nociceptive specific or wide dynamic range) |
++-----------+-------------------------------------------------------------------------------------------------------+
+| Effect    | - ↓Ascending nociceptive signal                                                                       |
+|           | - No direct effect on glutamatergic transmission; ineffective for chronic or neuropathic pain         |
++-----------+-------------------------------------------------------------------------------------------------------+
+| Diagramme | ![](/content/exams/anzca/2016/B/12/image003.jpg){fig-alt="Spinal opioid receptors"}                   |
++-----------+-------------------------------------------------------------------------------------------------------+
+
+#### Peripheral analgesia:
+
++:---------+:--------------------+
+| Receptor | - M                 |
++----------+---------------------+
+| Location | - Peripheral nerves |
++----------+---------------------+
+| Effect   | - Unclear           |
++----------+---------------------+
+
+#### Complications:
+
++---------------+------------------------------------------------------------------------------------------------------+
+| Tolerance     | - ↓Duration then ↓intensity of effect of a given drug dose with long term use                        |
+|               | - Occurs over days-weeks                                                                             |
+|               | - Multiple causes: e.g. downregulation of receptors, upregulation of cAMP                            |
++---------------+------------------------------------------------------------------------------------------------------+
+| Hyperalgaesia | - ↑Pain with chronic opioid use; including hyperalgaesia and allodynia                               |
+|               | - Multiple causes: ↑NMDA activation, descending facilitation, receptor dysfunction (Gi → quasi G~s~) |
++---------------+------------------------------------------------------------------------------------------------------+

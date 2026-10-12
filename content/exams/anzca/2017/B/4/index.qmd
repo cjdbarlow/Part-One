@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2017B Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the generation and features of a normal awake EEG (15)
+
+[**Briefly discuss**]{.task-verb} the processing performed by quantitative EEG monitors (such as BIS or Entropy) to produce a single number from the EEG (10)
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the cellular origin, amplitude, frequency bands and awake pattern first. [**Briefly discuss**]{.task-verb} how time, frequency and coupling or irregularity analyses reduce the waveform to a numerical index.
+
+::: {.structure-headings}
+### Generation of the EEG Signal
+
+### Amplitude, Frequency Bands and Awake Pattern
+
+### Signal Acquisition and Preparation
+
+### Time and Frequency Domain Analysis
+
+### Bicoherence, Entropy and Numerical Indices
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**23.4%** of candidates achieved a pass in this question
+
+In the first part of the question, candidates’ answers should include that EEG is the summation of excitatory and inhibitory potentials of the cortical pyramidal cells. EEG is typically small with low voltage in the order of 0-200 μV. The EEG is characterized by its frequency and amplitude of the waveform.
+
+A few candidates were able to recall the four main frequency bands (<4 Hz, δ wave; 4–8 Hz, θ wave; 8–13 Hz, α wave; and >13 Hz, β wave), but many of the figures were often incorrectly cited. It should be noted that normal EEG in an awake individual is asynchronous, of low voltage and high frequency. The majority of candidates misinterpreted the second part of the question, and provided answers to highlight the utility of the processed EEG.
+
+The question clearly asked for the methods that convert complex EEG waveform into a single number. This often includes a multiple techniques such as time-domain analysis (e.g. burst suppression), frequency analysis (e.g. β ratio, spectral edge frequency) and others like bicoherence or entropy (irregularity) analyses of the waveform.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2017/B/4/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2017/B/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Bispectral index](/content/equipment/bis.qmd)

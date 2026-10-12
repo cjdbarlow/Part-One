@@ -1,0 +1,86 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2020B Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the structure and function of the NMDA receptor and [**briefly describe**]{.task-verb} the interaction of ketamine with this receptor
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} structure and activation as a sequence linking subunits, binding sites, depolarisation and ion flux. Then [**briefly describe**]{.task-verb} ketamine binding and explain how reduced receptor activation changes cellular signalling and clinical effects.
+
+::: {.structure-headings}
+### Receptor Type, Location and Subunits
+
+### Glutamate, Glycine and Magnesium Block
+
+### Activation and Ion Currents
+
+### Downstream Signalling and Physiological Roles
+
+### Ketamine Binding and Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question was simple in scope, in that it asked about a common and important CNS receptor, and the way in which ketamine interacts with that receptor.
+
+The NMDA receptor is a voltage-sensitive ligand-gated receptor. There is some difference in detail between the recommended textbooks regarding sub-unit structure, so variations were accepted. Detail regarding the AMPA receptor in providing initial depolarization, the Mg2+ plug, glutamate and glycine binding, and ionic currents were necessary.
+
+Many candidates offered that the NMDA receptor caused long-term potentiation and various chronic pain phenomena, but very few attempted to describe a mechanism that related to NMDA activation and intracellular events.
+
+There were some good descriptions of where ketamine bound to NMDA, and the effect it had.
+
+A number of candidates did not offer that one of the effects of ketamine was general anaesthesia.
+
+There were a number of repeated errors that showed lack of general understanding. The NMDA is not a metabotropic (G-protein linked) receptor. Substance P and the NK-1 receptor are not involved in NMDA activation. The influx of Cl- ions is not excitatory.
+
+Pharmacokinetic data for ketamine was neither asked for nor rewarded. Organ-based pharmacodynamic information for ketamine did not receive marks..
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2020/B/10/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2020/B/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Ketamine](/content/pharmacopoeia/neuro/ketamine.qmd)

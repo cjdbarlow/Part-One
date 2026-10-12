@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019B Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the normal regulation of cerebral blood flow and [**outline**]{.task-verb} physiological factors which may alter it. DO NOT discuss the effect of medications or pathology.
+:::
+
+Also asked in: [2021B Question 7](/content/exams/anzca/2021/B/7/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} normal flow and its local regulation, then [**outline**]{.task-verb} physiological influences with their direction and mechanism. Keep the structure on normal physiology, excluding medications and pathology.
+
+::: {.structure-headings}
+### Normal Flow and Dependence on Continuous Supply
+
+### Perfusion Pressure and Vascular Resistance
+
+### Myogenic and Metabolic Autoregulation
+
+### Carbon Dioxide, Oxygen and Temperature
+
+### Other Physiological Influences
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**37.4%** of candidates achieved a pass in this question
+
+The major domains assessed in this question were;
+
+  - the normal values for cerebral blood flow and the importance of consistency of supply
+  - local autoregulatory mechanisms
+  - physiological factors altering flow
+
+Credit was given for other correct relevant material. Notably this question focused on normal regulation, and physiology – and specifically asked candidates not to discuss medications or pathology. Candidates who digressed into factors which impact intracranial pressure were commonly not able to explore the breadth and depth of the other material considered central to this question.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2019/B/2/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2019/B/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Cerebral blood flow](/content/cvs/cerebral_blood_flow.qmd)

@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012B Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+Some sets of information, for example the visual analogue scale used in pain assessment, can be treated as parametric or non-parametric data. [**What are**]{.task-verb} the advantages and disadvantages of using each method? In each case, [**which tests**]{.task-verb} can be used to analyse the data?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+Show [**what**]{.task-verb} the **Advantages** and **Disadvantages** are for each approach and identify [**which tests**]{.task-verb} can analyse the data. Use a comparison table to relate assumptions, power and presentation to the choice of test.
+
+::: {.structure-table}
+| Feature | Parametric Approach | Non-Parametric Approach |
+|---|---|---|
+| Assumptions | | |
+| Advantages | | |
+| Disadvantages | | |
+| Two-Group Tests | | |
+| Multiple-Group Tests | | |
+| Association and Prediction | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**7%** of candidates passed this question.
+
+This question was answered poorly by the majority of candidates. There was only one good answer. Frequent errors included using chi-squared as a test for parametric data and asserting that parametric tests are more robust and more clinically applicable. The most frequent misconception (which was not marked down) was that parametric data must come from a normal distribution.
+
+The following answer, whilst not comprehensive, would have scored highly:
+
+The main advantages of data from a normal distribution are that they are easy to present (mean and standard deviation) and that they can be treated with parametric tests for normal data. These tests tend to be more powerful than their non-parametric equivalents (lower Type 2 error and lower sample size requirement). Tests include Student’s t test (paired and unpaired) for 2 groups and ANOVA for more than two groups. You can also use Pearson correlation and linear regression analysis for prediction. The main disadvantages are that if the data are not normally distributed then any differences tend to be over-estimated and the Type 1 error risk increases. Non-parametric tests make no assumptions about the distribution, so inferences tend to be more robust, but larger sample sizes are required for studies to be adequately powered, especially if the data are treated as categorical. Ranking tests for two groups include Mann-Whitney U test (unpaired) or Wilcoxon signed rank tests for paired data. You can use Spearman correlation or ordered logisitic regression for prediction. For categorical data use Fisher’s exact test (for 2 groups) or chi squared.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Statistical Tests](/content/stats/statistical_tests.qmd)
+- [Data Types](/content/stats/data_types.qmd)

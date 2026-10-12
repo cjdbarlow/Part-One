@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012A Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Classify**]{.task-verb} the drugs which are useful for reducing the volume and acidity of gastric contents, [**giving an outline**]{.task-verb} of the mechanism of effect for each group.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Classify**]{.task-verb} the drugs by the gastric effect and [**give an outline**]{.task-verb} of each mechanism. Place groups and examples beside their receptor, enzyme or neutralisation actions, distinguishing reduced secretion from increased emptying.
+
+::: {.structure-table}
+| Drug Group | Examples | Mechanism of Effect |
+|---|---|---|
+| Proton Pump Inhibitors | | |
+| Histamine Receptor Antagonists | | |
+| Antacids | | |
+| Prostaglandin and Muscarinic Effects | | |
+| Prokinetic and Other Volume Effects | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**54%** of candidates passed this question.
+
+This question had to be interpreted precisely. Candidates had to outline the groups of drugs which reduced volume and acidity, and then concentrate on their mechanism of effect. Dividing the page into columns appeared to help in many instances.
+
+A more complete categorization of the drugs included antacids (both particulate and non-particulate), H2 antagonists, protein pump inhibitors, prostaglandin antagonists, muscarinic antagonists, prokinetic agents, emetic drugs and endocrine analogues.
+
+Those who described or illustrated mechanisms of action in greater detail and included discussion regarding intermediate messengers attracted more marks. Additional statements relating to individual drug groups about magnitude of effect on gastric volume and acid secretion also attracted marks. Discussions of side effects did not attract marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2012/A/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Acid suppression](/content/pharmacopoeia/git/acid_suppression.qmd)
+- [Gastric emptying](/content/git/gastric_emptying.qmd)

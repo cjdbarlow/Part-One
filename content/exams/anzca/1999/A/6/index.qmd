@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999A Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the factors influencing hepatic blood flow.
+:::
+
+Also asked in: [2003A Question 10](/content/exams/anzca/2003/A/10/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the dual blood supply and normal values, then use pressure gradients and vascular resistance to organise the determinants of each component. Explain the hepatic arterial buffer response.
+
+::: {.structure-headings}
+### Dual Blood Supply and Normal Values
+
+### Hepatic Arterial Flow
+
+### Portal Venous Flow
+
+### Hepatic Arterial Buffer Response
+
+### Anaesthetic, Surgical and Pathological Influences
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Although the pass rate for this question was **73%**, very few candidates scored well. A good answer should have included a discussion of:
+
+a) anatomical considerations of hepatic blood flow
+b) normal values and the autoregulation of hepatic artery flow
+c) the difference in perfusion pressures of the hepatic artery and portal vein
+d) factors that affect the hepatic vascular resistance, including changes in blood gases, sympathetic stimulation, anaesthetic agents and hepatic diseases
+e) other factors including cardiac output, blood pressure and ventilation.
+
+Although most candidates discussed the anatomical factors and perfusion pressures, very few included in their answer the factors that change the hepatic blood flow.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/A/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Hepatic blood flow](/content/cvs/hepatic_blood_flow.qmd)

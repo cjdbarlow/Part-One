@@ -1,0 +1,47 @@
+#### \*\*\*\*Similar to and answered as ‘Briefly describe the pharmacodynamics of agents used in the treatment of post-operative nausea and vomiting (PONV), with particular reference to their site of action and side effects’
+
+PONV is one of the more common side effects / complications of anaesthetic that may have mild to significant implications.
+
+Nausea and vomiting is coordinated by the Vomiting Centre located in the Medulla with outputs vagal and phrenic nerves and spinal motor neurone. 
+
+**Vomiting Centre Inputs:**
+
+The Vomiting centre receives stimulation from:
+
+- Chemoreceptor Trigger Zone (CTZ)
+- Limbic (emotional) system
+- Pain afferents
+- Olfactory 
+- GIT afferent via SNS and PNS 
+
+The CTZ is a circumventricular organ and has receptors for range of afferent inputs. the CTZ is the primary site that PONV is primarily mediated through. The CTZ has receptors for and therefore drug targets for the treatment of PONV. 
+
++-------------------------------+---------------------+--------------------------------------------------------------------------------------------+
+| **CTZ Receptor target**       | **Drugs**           | **Side Effects **                                                                          |
++===============================+=====================+============================================================================================+
+| **Dopamine 2 receptor**       | D2 Antagonist:      | Droperidol: sedation, potential QT elongation                                              |
+|                               |                     |                                                                                            |
+|                               | - Droperidol        | Metoclopramide - can precipitate ocular lyric crisis                                       |
+|                               | - Metoclopramide    |                                                                                            |
+|                               | - Prochlorperazine  |                                                                                            |
++-------------------------------+---------------------+--------------------------------------------------------------------------------------------+
+| **Serotonin (5HT3) Receptor** | 5HT3 Antagonist:    | Bradycardia with rapid IV administration, QT prolongation                                  |
+|                               |                     |                                                                                            |
+|                               | - Ondansetron       | Sedation, ↓CO/mAP                                                                          |
+|                               | - Propofol          |                                                                                            |
++-------------------------------+---------------------+--------------------------------------------------------------------------------------------+
+| **Histamine Receptors **      | Antihistamines      | Sedating, anticholinergic side effects (dry mouth, urinary retention, visual disturbance)  |
+|                               |                     |                                                                                            |
+|                               | - Cyclizine         |                                                                                            |
++-------------------------------+---------------------+--------------------------------------------------------------------------------------------+
+| **Muscarinic ACh Receptors**  | Anticholinergics    | Sedation, Tachycardia                                                                      |
+|                               |                     |                                                                                            |
+|                               | - Atropine          |                                                                                            |
+|                               | - Hyoscine          |                                                                                            |
++-------------------------------+---------------------+--------------------------------------------------------------------------------------------+
+
+Other:
+
+Dexamethasone, not well understood MOA, prevention only 
+
+SE → ↑ BSL, peri anal discomfort with rapid administration

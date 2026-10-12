@@ -1,0 +1,99 @@
+#### List:
+
+- Liver failure
+- Absorption
+- Distribution
+- Metabolism
+- Excretion
+- Dynamics
+
+#### Liver failure:
+
++---------------------+-------------------------------------------------------------------------+
+| Definition          | Failure of the liver to perform its functions:                          |
+|                     |                                                                         |
+|                     | - Metabolise energy substrates, drugs, toxins                           |
+|                     | - Synthesise albumin, α~1~ acid glycoprotein (AAG), coag proteins, bile |
+|                     | - Store energy substrates, metals                                       |
++---------------------+-------------------------------------------------------------------------+
+| Associated features | - Portal hypertension                                                   |
+|                     | - Portosystemic shunt                                                   |
++---------------------+-------------------------------------------------------------------------+
+
+#### Absorption:
+
++--------+-----------------------------------------------------+
+| Oral   | ↓First pass metabolism + ↑Portosystemic shunt       |
+|        |                                                     |
+|        | - ↑Bioavailability                                  |
+|        | - ↑Toxicity (e.g. lignocaine airway topicalization) |
+|        |                                                     |
+|        | ↓Bile secretion                                     |
+|        |                                                     |
+|        | - ↓Absorption of Vitamins A, D, E, K                |
++--------+-----------------------------------------------------+
+| Rectal | Same factors → improved rectal bioavailability      |
++--------+-----------------------------------------------------+
+
+#### Distribution:
+
++-------------------------+--------------------------------------------------------------------+
+| ↑ECF volume             | ↑V~D~ hydrophilic drugs → ↑loading dose required (e.g. rocuronium) |
++-------------------------+--------------------------------------------------------------------+
+| ↓Albumin                | ↑Unbound drug                                                      |
+|                         |                                                                    |
+| ↓α~1~ acid glycoprotein | - If highly bound and poorly metabolized → ↑risk toxicity          |
+|                         | - e.g. phenytoin → arrhythmia                                      |
++-------------------------+--------------------------------------------------------------------+
+
+#### Metabolism:
+
++-----------------------------------+--------------------------------------------------------------------------------------+
+|                                   | Hepatic extraction ratio (HER)                                                       |
+|                                   |                                                                                      |
+|                                   | = \[drug\] in hepatic artery – \[drug\] in hepatic vein / \[drug\] in hepatic artery |
++-----------------------------------+--------------------------------------------------------------------------------------+
+| ↓Phase 1&2 reaction               | ↓Clearance if metabolism-limited drugs (HER \<0.3)                                   |
+|                                   |                                                                                      |
+|                                   | - e.g. thiopentone → prolonged hypnosis                                              |
+|                                   | - Phase 1 affected before phase 2                                                    |
++-----------------------------------+--------------------------------------------------------------------------------------+
+| ↓Hepatic blood flow               | ↓Clearance if flow-limited (HER \>0.7)                                               |
+|                                   |                                                                                      |
+| (if cirrhosis)                    | - e.g. lignocaine → seizure, arrhythmia, arrest                                      |
++-----------------------------------+--------------------------------------------------------------------------------------+
+| ↓Plasma cholinesterase production | ↓Clearance of suxamethonium, mivacurium, ester local anaesthetics                    |
++-----------------------------------+--------------------------------------------------------------------------------------+
+
+#### Excretion:
+
++-------+----------------------------------------------------------------------------+
+| Bile  | ↓Production                                                                |
+|       |                                                                            |
+|       | - ↓Excretion of large and/or lipophilic drugs and metabolites → ↑toxicity  |
+|       | - e.g. vecuronium → prolonged paralysis                                    |
++-------+----------------------------------------------------------------------------+
+| Urine | Hepatorenal syndrome                                                       |
+|       |                                                                            |
+|       | - ↓Excretion of small and/or hydrophilic drugs and metabolites → ↑toxicity |
+|       | - E.g. morphine-3-glucuronide → seizure                                    |
++-------+----------------------------------------------------------------------------+
+
+#### Dynamics:
+
++--------+-----------------------------------------------------------------------+
+| Brain  | Altered CNS receptor response                                         |
+|        |                                                                       |
+|        | - ↑Sensitivity to opioids, benzodiazepines                            |
+|        |                                                                       |
+|        | Hyperammonaemia → hepatic encephalopathy                              |
++--------+-----------------------------------------------------------------------+
+| Blood  | ↓Clotting factors, ↓anticoagulant factors, platelet sequestration     |
+|        |                                                                       |
+|        | - Unpredictable clotting status                                       |
+|        | - Unpredictable effect of anticoagulants                              |
++--------+-----------------------------------------------------------------------+
+| Kidney | ↑Sensitivity to nephrotoxins (e.g. gentamicin) → hepatorenal syndrome |
++--------+-----------------------------------------------------------------------+
+| Liver  | ↑Sensitivity to hepatotoxins (e.g. paracetamol) → worsening failure   |
++--------+-----------------------------------------------------------------------+

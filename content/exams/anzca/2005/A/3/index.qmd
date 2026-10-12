@@ -1,0 +1,69 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005A Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**What factors**]{.task-verb} might [**explain**]{.task-verb} the inter-individual variability in drug response seen with intravenous anaesthetic induction agents?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+Show [**what factors**]{.task-verb} [**explain**]{.task-verb} the variability under **Pharmacokinetics** and **Pharmacodynamics**. Relate genetic, physiological, pathological and external influences to effect-site concentration or sensitivity.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**26 %** of candidates passed this question.
+
+Answers that were divided into pharmacokinetics and pharmacodynamics were usually more coherent than those that tried to present a single list of factors (age, liver disease, drugs etc) that was incomplete. The pharmacokinetic factors were those related to transporting the drug to the effect site and determining the concentration there. It was thus important to discuss regional blood flow, volumes of distribution and clearance that would determine the concentration gradients between the plasma and the effect site, and diffusion into the effect site.
+
+These would in turn be affected by genetic, physiological (e.g. age), pathological (e.g. hypovolaemia) and external factors (e.g. other drugs). Variations in drug metabolism were commonly mentioned, but few qualified this answer by noting that the offset of action was mainly by redistribution. Pharmacodynamic variability may be the result of differences in end-organ sensitivity, receptor regulation, or direct and indirect effects from various physiological, pathological and external factors including drug interactions. Genetic polymorphisms should have some effect, but they are not well characterized at present.
+
+Although induction of anaesthesia (onset and duration) was the primary effect, it was important to remember that there are other common or idiosyncratic effects of the induction agents (e.g. hypotension, porphyria) that show inter-individual variability. Some candidates incorrectly wrote about differences between the various drugs, or used examples that were not relevant to intravenous induction agents. It was not sufficient to list factors without demonstrating an understanding of the concepts involved. For example, if changes in cardiac output and volume of distribution (etc.) were listed as factors, it was also important to indicate in which direction the drug response would be affected.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Alterations to Drug Response](/content/pharmacology/alterations_to_response.qmd)
+- [Bolus and Infusion Kinetics](/content/pharmacology/iv_kinetics.qmd)

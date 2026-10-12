@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008A Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Define**]{.task-verb} “thermoneutral zone”. [**Briefly explain**]{.task-verb} how the body regulates temperature when the ambient temperature exceeds the thermoneutral zone.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Define**]{.task-verb} the thermoneutral zone and give representative ranges. [**Briefly explain**]{.task-verb} sensing and integration before separating behavioural responses, cutaneous vasodilatation and sweating, including the need for a temperature gradient.
+
+::: {.structure-headings}
+### Definition and Normal Ranges
+
+### Sensors and Central Integration
+
+### Behavioural Responses
+
+### Cutaneous Vasodilatation
+
+### Sweating and Evaporative Heat Loss
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**50%** of candidates passed this question. Most candidates were able to define "thermoneutral zone" and many were able to give normal values for adults and neonates. Better answers demonstrated the linear increase in metabolic rate above and below the thermoneutral zone in graph form.
+
+An explanation of how temperature is regulated when the ambient temperature exceeds the thermoneutral zone should include the following:
+
+- PATHWAYS Sensors, afferent pathways and integration were generally well described but many candidates failed to mention that cutaneous vasodilatation was mediated by inhibition of sympathetic adrenergic tone and sweating was mediated by sympathetic cholinergic activation.
+- BEHAVIOURAL RESPONSES
+- CUTANEOUS VASODILATATION Main points expected were, transfer of heat from core to skin, the role of arterio-venous shunts and deep venous plexuses and increases in skin blood flow up to 30 fold. Better answers explained how heat transfer from the skin by conduction, radiation and convection required a temperature gradient.
+- SWEATING Main points expected were that evaporation of water, does not require a temperature gradient, is very efficient at heat transfer due to the high latent heat of evaporation and is the only means available to transfer heat when ambient temperature exceeds skin temperature.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2008/A/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Thermoregulation](/content/metabolic/temperature.qmd)

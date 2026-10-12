@@ -1,0 +1,92 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018A Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the cardiovascular changes that occur with morbid obesity.
+:::
+
+Also asked in: [2014B Question 11](/content/exams/anzca/2014/B/11/index.qmd#examiner-comments), [2016B Question 5](/content/exams/anzca/2016/B/5/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the cardiovascular changes systematically, connecting each altered variable to its mechanism. Distinguish changes in obesity itself from associated disease.
+
+::: {.structure-headings}
+### Cardiac Output, Heart Rate and Stroke Volume
+
+### Blood Volume and Preload
+
+### Vascular Resistance and Afterload
+
+### Ventricular Structure, Function and Reserve
+
+### Hormonal Influences and ECG Changes
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**59%** of candidates achieved a pass in this question
+
+The answer required a correct definition of the BMI range for morbid obesity which many answers had confused, with a range of numbers offered. Also classifying cardiovascular physiological changes as due to excess of adipose tissue or obesity per se and then maladaptive or secondary changes due to disease was helpful.
+
+Further classification could be divided into cardiac output; vascular resistance; left & right ventricles; conducting system (ECG); blood volume; coagulation and blood pressure. Details of causation and outcomes of change were required to indicate understanding.
+
+Many failed to achieve optimum marks due to incorrect definitions and incorrect conclusions or assertions about the origins of various physiological changes. Errors occurred with statements that systemic vascular resistance increased in morbid obesity, somehow the causation was attributed to increase in blood pressure. Systemic vascular resistance decreases due to the fat vascular beds being added hemodynamically in parallel to the normal vascular tree.
+
+Stroke volume changes were also commonly misconstrued as related to a “need” for cardiac output increase. Stroke volume and preload increase due to an increase in blood volume. Heart rate changes are not a major component of morbid obesity but many focused on this and then related this to increased cardiac work & ischaemia.
+
+Superior answers included content relating to the hormonal or endocrine function of adipose tissue with mention of leptin, angiotensin II, aldosterone and other hormones that influence the cardiovascular and volume changes.
+
+The effect of morbid obesity on the left ventricle was important to understand to score well, and many incorrectly attributed hypertrophy to hypertension alone. The changes to the right ventricle structure and function were required, especially with mention of related morbidities such as Obstructive sleep apnoea and obesity hypoventilation syndrome.
+
+Specific ECG changes attracted more marks, mention of arrhythmias with no context does not convey understanding of the pathology. More complete answers involved description of fatty infiltration, fibrosis, horizontal displacement of the heart & response to chronic hypoxia, hypercapnia & increased circulating catecholamines. Mention could be made of coronary artery disease as changes secondary to the co-morbid conditions of obesity.
+
+Other changes secondary to morbid obesity attracted marks but not at the exclusion of the basic physiological changes. Diseases such as hypertension, OSA, diabetes & coronary artery disease could have been described.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2014/B/11/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2014/B/11/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Cardiovascular changes with obesity](/content/cvs/obesity_cvs.qmd)

@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003B Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the potential clinical uses of an alpha-2 adrenoceptor agonist and [**outline**]{.task-verb} the limitations of clonidine for each.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} the potential uses in a table and [**outline**]{.task-verb} the limitations of clonidine beside each use, linking its partial agonism and time course to those limitations.
+
+::: {.structure-table}
+| Clinical Use | Desired Effect | Clonidine Limitations |
+|---|---|---|
+| Premedication and Sedation | | |
+| General Anaesthesia | | |
+| Systemic and Neuraxial Analgesia | | |
+| Haemodynamic Control | | |
+| Other Uses | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**60%** of candidates passed this question.
+
+The list of potential clinical uses for alpha 2 adrenergic receptor agonists should include the following. Anaesthesia and sedation, pain management, treatment of hypertension, premedication using anti-sialogogue and anxiolytic properties, haemodynamic stability with a decrease in circulating catecholamines and the reduction of intraocular pressure. Additional other clinical indications are in post operative shivering and the treatment of opiate withdrawal syndromes.
+
+The limitations of clonidine in these situations relate to its reduced potency as a partial agonist, and long elimination half life. Its use is associated with hypotension and bradycardia which can be a disadvantage in all the previously mentioned clinical uses. Most candidates understood and explained the acute hypertension with bolus injection and rebound hypertension on withdrawal of clonidine. Sedation and dry mouth can be a limitation except where desirable in use as a premedication. More selective alpha 2 agonists have greater MAC reducing properties than clonidine. A common omission of many candidates was to not address the limitations of clonidine for each use, or to instead to explain adrenergic receptor molecular pharmacology in great detail.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2003/B/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Adrenoreceptors](/content/cvs/adrenoreceptors.qmd)
+- [Autonomic nervous system](/content/neuro/ans.qmd)
+- [Centrally acting antihypertensives](/content/pharmacopoeia/cvs/centrally_acting_anti_hypertensives.qmd)

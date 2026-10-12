@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013A Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the cough reflex.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+**[Describe]{.task-verb}** the reflex arc, then link the efferent nerves and muscles to the sequential phases of a cough.
+
+::: {.structure-headings}
+### Stimulus and Receptors
+
+### Afferent Pathway and Central Integration
+
+### Efferent Pathways
+
+### Inspiration, Glottic Closure, Compression and Expulsion
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Old Exam: **12%** of candidates achieved a pass in this question
+
+New Exam: **32%** of candidates achieved a pass in this question
+
+The cough reflex is an important protective airway mechanism, which paradoxically anaesthetists often need to suppress. Understanding this reflex and how to modify it is important to practise safe anaesthesia. An adequate answer to this question would describe the components of the reflex arc, with particular attention to the efferent limb due to its complexity. Good candidates could describe the interplay of laryngeal and respiratory muscles in stages in the generation of a cough.
+
+The question was, however, generally poorly answered. The reflex arc was frequently outlined but with insufficient detail. There were many incorrect statements, for example, a sizable minority of candidates described the diaphragm as a muscle of exhalation, responsible directly for the forceful expulsion of air from the lungs. It appeared that few candidates had considered the physiology of coughing and had difficulty integrating some relatively simple respiratory physiology in the stress of the exam. Mindful practice of novel questions is a useful study technique.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/A/9/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/A/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Cough reflex](/content/resp/cough.qmd)
+- [Chest wall and diaphragm](/content/resp/chest_wall_diaphragm.qmd)

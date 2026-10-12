@@ -1,0 +1,66 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001A Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Indicate**]{.task-verb} the sequence of the physiological changes to the fetal circulation at birth and [**briefly describe**]{.task-verb} the mechanisms which account for these changes.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Indicate**]{.task-verb} the physiological sequence under **Loss of Placental Circulation**, **Changes in Pulmonary and Systemic Resistance**, **Atrial Pressure Changes**, and **Closure of Fetal Shunts**. [**Briefly describe**]{.task-verb} the mechanism linking each change to the next.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**64%** of candidates passed this question.
+
+The main points expected were a description of the physiological changes occurring at birth, including closure of umbilical vessels and ductus venosus, reduction in pulmonary vascular resistance, reduced right atrial pressure, increased left atrial pressure, increased systemic vascular resistance, closure of the foramen ovale, and closure of the ductus arteriosus. Some explanation of the mechanisms involved was required. Additional marks were given for more detailed explanations of (1) the role of lung inflation and loss of hypoxic pulmonary vasoconstriction in the reduction in pulmonary vascular resistance, (2) the loss of the low pressure placental circulation in the increase in systemic vascular resistance, and (3) the effect of pressure changes, increased oxygen tensions, and reduced prostaglandin activity in the closure of the ductus arteriosus. Similarly, additional marks were given for indicating a physiological sequence for the changes, although a temporal sequence was not required. Credit was given for mentioning the change from parallel to a series circuit, and for mentioning that the initial changes are dynamic and potentially reversible (transitional).
+
+Many candidates provided detailed descriptions of the fetal circulation, the stimuli to breathing, or the physiology of the first breath. These were not required. Similarly, detailed descriptions of pathological states were not required. Common errors were ignoring the changes in pulmonary vascular resistance, systemic vascular resistance, or both, or listing the changes without describing the sequence or mechanism. Many candidates incorrectly stated that prostaglandins were responsible for closure of the ductus arteriosus.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Foetal Circulation](/content/obs/foetal.qmd)

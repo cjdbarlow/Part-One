@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016A Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the respiratory effects of adding positive end expiratory pressure (PEEP) to intermittent positive pressure ventilation (PPV).
+:::
+
+Also asked in: [2016B Question 1](/content/exams/anzca/2016/B/1/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the effects through the change in lung volume. Relate recruitment and the compliance curve to airway resistance, ventilation–perfusion matching and oxygenation, then explain how the response depends on applied pressure and underlying lung state.
+
+::: {.structure-headings}
+### Lung Volume and Recruitment
+
+### Compliance and Work of Breathing
+
+### Airway Resistance
+
+### Ventilation–Perfusion Matching and Oxygenation
+
+### Regional Variation and Adverse Respiratory Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**1%** of candidates achieved a pass in this question
+
+Anaesthetists add PEEP to IPPV to ‘recruit lung’, that is, to mitigate the decrease in FRC seen with general anaesthesia and IPPV. A candidate could thus pass by discussing the respiratory effects of normalising FRC. It’s pretty much the reverse of the previously asked question of the effects of a reduction of FRC from normal.
+
+More detailed considerations are :
+
+PEEP has widespread effects on the respiratory system. These effects vary depending on the level of PEEP applied and the state of the underlying lung. Consider the effect of PEEP on lung volumes, airway resistance, the ventilation/perfusion relationship, lung mechanics, lung water and PEEP side effects including barotrauma. Good candidates recognised that PEEP increases FRC with resultant effects on airway resistance, lung compliance and work of breathing. The mechanism of decreased airway resistance and V/Q improvement required explanation. Few candidates explained how the effect of PEEP on lung compliance depends on where the lung sits on its compliance curve. Extra marks were awarded for recognising that the effect of PEEP varies in the base of the lung compared to the apex. Cardiovascular effects of PEEP were not asked for except when required to explain V/Q changes and the effect of PEEP on PaO2. No marks were awarded for definitions of PEEP or IPPV or for describing the effects of pathological states on lung volumes. Nunn’s Applied Respiratory Physiology covers this question well.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2016/A/11/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2016/A/11/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [PEEP](/content/resp/peep.qmd)

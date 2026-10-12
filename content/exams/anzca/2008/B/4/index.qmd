@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008B Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly outline**]{.task-verb} the pharmacology of ketamine with reference to its use as an analgesic agent in the post-operative period.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly outline**]{.task-verb} pharmaceutics, kinetics and dynamics with each point tied to postoperative analgesia. Include analgesic routes and doses, NMDA antagonism, opioid sparing and adverse effects that limit use.
+
+::: {.structure-headings}
+### Formulation and Analgesic Administration
+
+### Distribution, Metabolism and Offset
+
+### Analgesic Mechanisms and Opioid Sparing
+
+### Advantages and Adverse Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**60%** of candidates passed this question.
+
+A complete answer required that candidates consider pharmaceutic, pharmacokinetic and pharmacodynamic aspects of ketamine used as an analgesic. The nature of ketamine, its formulation, major routes of administration when administered for postoperative analgesia, dose ranges used for analgesia, and key factors influencing the uptake, distribution, metabolism and clearance of ketamine were expected in a complete answer. Key pharmacokinetic points included the high lipid solubility, large volume of distribution, high hepatic metabolism to an active metabolite, short elimination half-life, and relatively rapid offset after prolonged infusion. Information regarding the site and mechanisms of the potent analgesic action of ketamine, particularly the roles as a non-competitive NMDA receptor antagonist, and both a preventive and opioid-sparing analgesic, were expected. Dose-dependent adverse effects that may limit the use as a postoperative analgesic, and the advantages, including lack of respiratory depression, were important. Whereas most candidates indicated the racemic nature of ketamine, few indicated the relative differences of the isomers, in particular the increased analgesic potency of the S(+)- isomer.
+
+Additional points which attracted higher marks included information regarding alternate routes of administration, abuse potential, specific actions on nociceptive pathways and actions on other receptor systems. Common mistakes included misinterpretation of the question with discussion of ketamine as an anaesthetic agent, undue focus on the physiology of NMDA receptors and nociceptive pathways, and confusion between the actions of norketamine and norpethidine.
+
+Few appreciated that hepatic metabolism of ketamine is high and flow-dependent. Dosages expressed as mg/kg are preferable. Many candidates appeared to describe local practice and formulations without being aware of core information well described in the key texts.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2008/B/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Ketamine](/content/pharmacopoeia/neuro/ketamine.qmd)

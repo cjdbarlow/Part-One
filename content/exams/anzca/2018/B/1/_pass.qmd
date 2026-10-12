@@ -1,0 +1,44 @@
+**Principles**:
+
+Automated non-invasive blood pressure monitors (NIBP) such as the DINAMAP (**D**evice for **I**ndirect **N**on-invasive **A**utomatic **M**ean **A**rterial **P**ressure) use the principle of oscillometry to measure blood pressure. 
+
+Oscillometry refers to the variation in pressure oscillation amplitude within a deflating cuff overlying an artery. 
+
+Components 
+
+- A cuff containing an inflatable bladder, connected to:
+  1.  air insufflation line and 
+  2.  pressure transduction port 
+- Pressure Transducer 
+- Processor and Display 
+
+Method 
+
+1.  Correctly position appropriately sized cuff over artery (see below)
+2.  Inflate cuff to pressure more than sufficient to completely occlude artery 
+3.  Slowly deflate cuff
+4.  Transduce gauge pressure and pulse pressure wave of cuff
+5.  Analyse oscillatory signals: 
+
+MAP =pressure at which **amplitude** of oscillations is maximal 
+
+Systolic = Turbulent flow occurs past the cuff, creating pressure oscillations. The pressure at which these are **first detected is SBP**
+
+![](/content/exams/anzca/2018/B/1/standard-image37.png){fig-alt="Cuff pressure and oscillation amplitude during stepwise cuff deflation"}
+
+**Sources or Error**:
+
+**Patient errors **
+
+- Irregular pulse rate ± rhythm – e.g. inaccurate in atrial fibrillation
+- Excessive patient movement during measurement – e.g. tremulous patient 
+- Inaccurate when measuring very low blood pressures
+- Calcified non-compressible artery
+- Pain caused by high cuff pressure influences baseline NIBP 
+
+**Equipment errors** 
+
+- Inappropriate cuff size – cuff length should be 2/3 of upper arm; cuff diameter should be 20% larger than arm diameter (small cuff → over-estimation of NIBP)
+- Cuff not placed at heart level
+- External compression of cuff – e.g. lower limb during lateral positioning 
+- Other equipment or measurement errors – e.g. calibration or transducer errors

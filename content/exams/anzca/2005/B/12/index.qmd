@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005B Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly discuss**]{.task-verb} the physiological roles of plasma proteins.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly discuss**]{.task-verb} the main protein classes and quantities, then list their roles with the responsible proteins. Include the exchangeable tissue pool and consequences of reduced concentrations.
+
+::: {.structure-headings}
+### Classes, Quantities and Exchangeable Pool
+
+### Oncotic Pressure and Buffering
+
+### Transport and Drug Binding
+
+### Coagulation, Immunity and Enzymes
+
+### Reduced Protein Concentrations
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**29 %** of candidates passed this question.
+
+To pass, a candidate needed to define and classify the plasma proteins and indicate the amount of each that is present. A listing of such roles of plasma proteins as contributing to oncotic pressure, buffering, coagulation, immunity, transport and drug binding were all awarded with marks with additional marks being awarded for some statement as to the component(s) of the plasma proteins that perform each of these roles.
+
+Extra marks were awarded to those candidates who recognized the implications of starvation and a reduction in plasma protein concentration for whatever reason. The fact that the plasma proteins exist in equilibrium with the tissue proteins as an exchangeable pool was mentioned infrequently.
+
+Two common mistakes amongst candidates were, believing that haemoglobin is a plasma protein and that all plasma proteins are manufactured in the liver. The most frequent reason for not obtaining a pass mark was the inclusion of only two or three roles for the plasma proteins. When answers were accompanied by long discussions of each of the stated roles, little additional credit was attracted.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2005/B/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Drug distribution](/content/pharmacology/distribution.qmd)
+- [Clotting](/content/haeme/clotting.qmd)

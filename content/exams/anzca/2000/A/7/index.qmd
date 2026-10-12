@@ -1,0 +1,73 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000A Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the hormones that regulate renal tubular reabsorption and [**describe**]{.task-verb} their action and site of action.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} the hormones in a table and [**describe**]{.task-verb} the site and action of each. Organise the rows by the hormones acting on renal tubular reabsorption.
+
+::: {.structure-table}
+| Hormone | Site of Action | Action |
+|---|---|---|
+| Aldosterone | | |
+| Angiotensin 2 | | |
+| Atrial Natriuretic Hormone | | |
+| Antidiuretic Hormone | | |
+| Parathyroid Hormone | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**70%** of candidates passed this question. The question required listing the hormones that act directly on the tubule cells to regulate reabsorption of the glomerular filtrate ie. aldosterone, angiotensin 2, atrial natriuretic hormone, antidiuretic hormone, and parathyroid hormone. Locally released hormones, and hormones that indirectly affect reabsorption by, for example, affecting renal perfusion, were listed by some and were accepted if their action was appropriately explained. Calcitonin was accepted, even though its physiological role in the kidney is unclear. There were generally good descriptions of actions, particularly of aldosterone and antidiuretic hormone, at the cellular level. There was less certainty and accuracy in describing site of action within the tubule (eg proximal vs distal tubule vs collecting duct). Parathyroid hormone, when listed, was correctly described by few candidates. There was confusion between it and 25-hydoxyvitamin D, calcitriol and calcitonin, by many candidates.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Endocrine Functions of the Kidney](/content/renal/endocrine.qmd)
+- [Sodium and Water](/content/renal/sodium.qmd)

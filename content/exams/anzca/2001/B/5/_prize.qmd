@@ -1,0 +1,51 @@
+#### List:
+
+- Structure
+- Function
+- Voltage cycling
+
+#### Structure: 
+
++--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Key features | - Often many subunits                                                                                                                                                               |
+|              | - Ion channel: selective for ion or charge                                                                                                                                          |
+|              | - Activation and inactivation gates                                                                                                                                                 |
+|              | - Voltage sensor                                                                                                                                                                    |
++--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Example      | - Voltage-dependent Na^+^ channel (VDNaC)                                                                                                                                           |
+|              |                                                                                                                                                                                     |
+|              | ![](/content/exams/anzca/2001/B/5/prize-image001.jpg){fig-alt="Voltage-gated sodium channel showing the selectivity filter, voltage sensor, activation gate and inactivation gate"} |
++--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Function:
+
++---------------------------+--------------------------------------------------------------------+
+| Background                | - The lipid bilayer is impermeable to ions                         |
+|                           | - Ions can only travel through channels                            |
+|                           | - Direct of passage determined by electrochemical gradient         |
+|                           | - Gradient established by active transport e.g. Na^+^K^+^ATPase    |
++---------------------------+--------------------------------------------------------------------+
+| How it works              | - Rapid cycling through states (resting → activated → inactivated) |
+|                           | - Triggered by changes in local potential difference               |
++---------------------------+--------------------------------------------------------------------+
+| Purpose                   | - Allows rapid and co-ordinated propagation of signals             |
+|                           | - Important in excitable tissues                                   |
++---------------------------+--------------------------------------------------------------------+
+| Role in action potentials | - Nerve: (Na^+^, K^+^ channels)                                    |
+|                           | - Myocardial ventricular muscle (Na^+^, Ca^2+^, K^+^ channels)     |
+|                           | - AV node (pacemaker potential) (I~f~, Ca^2+^, K^+^ channels)      |
++---------------------------+--------------------------------------------------------------------+
+| Causes of dysfunction     | - Local anaesthetics: inhibit VDNaC in peripheral nerves           |
+|                           | - Tetrodotoxin: inhibits VDNaC in peripheral nerves                |
+|                           | - Eaton-Lambert syndrome: inhibit pre-synaptic VDCC (Ca^2+^)       |
++---------------------------+--------------------------------------------------------------------+
+
+#### Voltage cycling: VDNaC
+
+  **State**     **Membrane potential**   **Activation gate**   **Inactivation gate**
+  ------------- ------------------------ --------------------- -----------------------
+  Resting       -90mV                    Closed                Closed
+  Activated     -70 to +30mV             Open                  Open
+  Inactivated   +30 to -70mV             Open                  Closed
+
+(hard to find consensus regarding these numbers, would be grateful for input)

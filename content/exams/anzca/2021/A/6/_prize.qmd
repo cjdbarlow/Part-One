@@ -1,0 +1,62 @@
+#### Physicochemical:
+
++--------------------+---------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------+
+|                    | **Adrenaline**                                                                                    | **Metaraminol**                                                                                    |
++====================+===================================================================================================+====================================================================================================+
+| Structure          | ![](/content/exams/anzca/2021/A/6/prize-image001.jpg){fig-alt="Chemical structure of adrenaline"} | ![](/content/exams/anzca/2021/A/6/prize-image002.jpg){fig-alt="Chemical structure of metaraminol"} |
++--------------------+---------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------+
+| Structure-activity | - Catecholamine: direct, potent, sensitive to COMT                                                | - Non-catecholamine: resistant to COMT                                                             |
+|                    | - OH on β-carbon: direct, alpha                                                                   | - OH on β-carbon: direct, alpha                                                                    |
+|                    | - No substitution on α-carbon: MAO sensitive                                                      | - CH~3~ substitution on α-carbon: indirect, MAO resistant                                          |
+|                    | - Larger amine: β\>α                                                                              | - Smaller amine: α\>β                                                                              |
++--------------------+---------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------+
+| Presentation       | - 1mg in 1mL or 10mL (concentrated ++++)                                                          | - 10mg in 1mL (concentrated++)                                                                     |
++--------------------+---------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------+
+| Tissue necrosis    | - High risk – CVC only                                                                            | - Low risk – PIVC ok                                                                               |
++--------------------+---------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------+
+
+#### Pharmacokinetic:
+
++----------------+----------------------------------------+-----------------------------------------------------+
+|                | **Adrenaline**                         | **Metaraminol**                                     |
++================+========================================+=====================================================+
+| Administration | - IV infusion: 1-30mcg/min             | - IV bolus: 0.5-1mg (10-20mcg/kg) PRN               |
+|                | - IV bolus: 1mg in cardiac arrest      | - IV infusion: typically 0.5-5mg/h (20-200mcg/kg/h) |
+|                | - IM bolus: 500mcg in anaphylaxis      | - S/C or IM                                         |
++----------------+----------------------------------------+-----------------------------------------------------+
+| Time course    | - Onset \< 1min                        | - Onset 1-2 min                                     |
+|                | - Duration 5 mins                      | - Duration: stated 20-60mins, likely shorter        |
+|                |   - Drug elimination rapid             |                                                     |
+|                |   - Receptor effects prolonged         |                                                     |
++----------------+----------------------------------------+-----------------------------------------------------+
+| Absorption     | - Not orally bioavailable              | - Orally bioavailable, % unknown                    |
++----------------+----------------------------------------+-----------------------------------------------------+
+| Distribution   | - V~D~ 0.1-0.2L/kg                     | - Poorly studied in humans                          |
+|                | - 12% protein bound                    | - 45% protein bound                                 |
+|                | - Should not cross blood-brain barrier | - VD 4L/kg                                          |
+|                |                                        | - Should not cross BBB                              |
++----------------+----------------------------------------+-----------------------------------------------------+
+| Metabolism     | - By COMT and MAO → VMA                | - Poorly studied in humans; likely slow             |
+|                | - By COMT only → normetadrenaline      | - Not susceptible to MAO or COMT                    |
+|                | - t~1/2~~β~ 2 mins                     | - t~1/2~~β~ 6 hours                                 |
++----------------+----------------------------------------+-----------------------------------------------------+
+| Excretion      | - Metabolites → urine                  | - Unknown                                           |
++----------------+----------------------------------------+-----------------------------------------------------+
+
+#### Pharmacodynamics:
+
++-------------------+------------------------------------------------------+--------------------------------------------------------+
+|                   | **Adrenaline**                                       | **Metaraminol**                                        |
++===================+======================================================+========================================================+
+| Receptor activity | - β~1~ \> β~2~ \> α~1~                               | - α~1~ \>\> β1                                         |
+|                   | - Direct only (i.e. via adrenoceptors)               | - Direct and indirect                                  |
+|                   |                                                      |   - Displaces noradrenaline from vesicles              |
++-------------------+------------------------------------------------------+--------------------------------------------------------+
+| Use               | - Anaphylaxis (↑CO, ↑SVR, stabilize mast cells)      | - Peri-operative hypotension – GA and neuraxial        |
+|                   | - Cardiogenic shock (↑CO)                            | - Unclear if equivalent to phenylephrine in obstetrics |
+|                   | - Cardiac arrest (↑SVR → vital organ perfusion)      |                                                        |
+|                   | - Additive with local anaesthetic (↑duration, ↓LAST) |                                                        |
++-------------------+------------------------------------------------------+--------------------------------------------------------+
+| Toxicity          | - Safer with noradrenaline reuptake inhibitors (NRI) | - Dangerous with NRI e.g. MAOi (↑↑NAd release)         |
+|                   | - Tachyphylaxis slow: adrenoceptor downregulation    | - Tachyphylaxis rapid: catecholamine depletion         |
++-------------------+------------------------------------------------------+--------------------------------------------------------+

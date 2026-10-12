@@ -1,0 +1,42 @@
+#### List:
+
+- Intro
+- Activation process
+
+#### Intro:
+
++--------------+----------------------------------------------------------------------------------------------------+
+| Definition   | - Series of 11 zymogens i.e. inactive precursors                                                   |
+|              | - Part of innate humoral immune system                                                             |
+|              | - Produced by the liver                                                                            |
++--------------+----------------------------------------------------------------------------------------------------+
+| Key features | - Inhibition by regulator proteins e.g. C1 esterase inhibitor (deficient in hereditary angioedema) |
+|              | - Multiple activation pathways converge at cleavage of C3 into C3a and C3b                         |
+|              | - Activation results in formation of membrane attack complex (MAC)                                 |
++--------------+----------------------------------------------------------------------------------------------------+
+
+#### Activation:
+
++----------------------+-------------------------------------------------------------------+
+| Classical pathway    | - Activation by                                                   |
+|                      |   - Antigen-antibody complexes (IgM \>\> IgG)                     |
+|                      |   - Aggregated antibodies                                         |
+|                      |   - CRP                                                           |
+|                      | - C3 convertase: C4b2b                                            |
++----------------------+-------------------------------------------------------------------+
+| Alternative pathway  | - Continuous low level activation                                 |
+|                      | - Spontaneous thioester hydrolysis of C3                          |
+|                      | - C3 convertase: C3bBb                                            |
++----------------------+-------------------------------------------------------------------+
+| Lectin pathway       | - Homologous to the classical pathway                             |
+|                      | - Mannose-binding lectin is the opsonin                           |
+|                      | - Mannose present on surfaces of parasites, Candida, viruses etc. |
+|                      | - C3 convertase: C4b2b                                            |
++----------------------+-------------------------------------------------------------------+
+| Final common pathway | - End result of each activation pathway                           |
+|                      | - C5b6789 combine to form MAC:                                    |
+|                      |   - Membrane pore → lysis                                         |
+|                      |   - Opsonisation for phagocytosis by neutrophils, macrophages     |
+|                      |   - Chemotaxis                                                    |
+|                      |   - Mast cell degranulation                                       |
++----------------------+-------------------------------------------------------------------+

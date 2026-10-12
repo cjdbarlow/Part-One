@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004B Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the effects of histamine. [**Write a brief outline**]{.task-verb} on the pharmacology of the H1 blocking drugs.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} histamine effects by organ and receptor subtype, then [**write a brief outline**]{.task-verb} of H1 blockers using representative selective and non-selective agents. Match each indication and adverse effect to the relevant drug.
+
+::: {.structure-headings}
+### Histamine Effects by Receptor and Organ
+
+### Older Non-Selective H1 Blockers
+
+### Selective Peripheral H1 Blockers
+
+### Uses and Adverse Effects with Examples
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**26%** of candidates passed this question.
+
+The first part of the question asked for a list of effects. It was not productive to write notes on the chemistry or distribution of histamine, or discuss its role in anaphylaxis. Less than half the candidates produced a minimal list that included bronchoconstriction, vasodilatation, increased vascular permeability, acid secretion and one central nervous system effect. Better answers were able to ascribe the correct receptor subtypes to a comprehensive list, and also include the effects of histamine at a cellular level.
+
+The second part of the question was also handled poorly, with a significant number of candidates leaving it unanswered, discussing H~2~ blocking drugs, or other drugs that were not antihistamines. Some candidates wrote about only one antihistamine, but because the H~1~ blockers are a diverse group, it was necessary to include other examples. Specific H~1~ blockers are relatively new and used mainly for the management of allergic conditions. Older antihistamines are not specific, have more diverse indications, and often have a number of side effects. However, sedation may become a desired effect, as is the case with promethazine that has been used in premedication. Although several uses were often listed for H~1~ blockers, it was important to match these with an appropriate drug because not every antihistamine is appropriate for every indication.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2004/B/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Histamine](/content/endo/histamine.qmd)

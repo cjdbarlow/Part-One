@@ -1,0 +1,55 @@
+#### List:
+
+- Structure compared with striated
+- Function compared with striated
+- Excitation and contraction process
+
+#### Structure (cf. striated)
+
++------------------------+---------------------------------------------------------------------------------------+
+| Membrane structures    | - Can be single unit (syncytial with gap junctions) or multi unit (stand-alone cells) |
+|                        | - No single end-plate, instead multiple nerve branches with varicosities              |
+|                        | - Poorly developed T tubules = caveolae                                               |
++------------------------+---------------------------------------------------------------------------------------+
+| Contractile structures | - Smooth cf. striated (chaotic actin-myosin distribution)                             |
+|                        | - Dense bodies cf. Z line                                                             |
++------------------------+---------------------------------------------------------------------------------------+
+| Other intracellular    | - Single nucleus                                                                      |
+|                        | - Poorly developed sarcoplasmic reticulum (SR); most Ca^2+^ derived from ECF          |
++------------------------+---------------------------------------------------------------------------------------+
+
+#### Function (cf. striated)
+
++------------+------------------------------------------------------------------------+
+| Electrical | - Wandering membrane potential -40 to -60mV, threshold potential -35mV |
+|            | - Automaticity occurs                                                  |
++------------+------------------------------------------------------------------------+
+| Mechanical | - No fixed length-tension relationship                                 |
+|            | - Greater force of contraction                                         |
+|            | - Lower energy consumption                                             |
+|            | - Tendency for sustained contraction via latch bridge mechanism        |
++------------+------------------------------------------------------------------------+
+
+#### Excitation and contraction process
+
++----------------------------+----------------------------------------------------------------------------------+
+| Stimulus                   | - Spontaneous depolarisation                                                     |
+|                            | - Mechanical stretch → reflex contraction                                        |
+|                            | - Autonomic nervous system (acetylcholine)                                       |
+|                            | - Hormones – autocrine, paracrine, endocrine                                     |
++----------------------------+----------------------------------------------------------------------------------+
+| Excitation and contraction | - Action potential                                                               |
+|                            | - Opening of L-Ca^2+^ channel                                                    |
+|                            | - Ca^2+^ influx from ECF \>\> SR                                                 |
+|                            | - Ca^2+^-calmodulin → ↑MLCK activity, ↓MLCP activity                             |
+|                            | - MLCK phosphorylates myosin ATPase                                              |
+|                            | - Myosin ATPase phosphorylates myosin                                            |
+|                            | - Actin-myosin cross-bridge cycling occurs                                       |
++----------------------------+----------------------------------------------------------------------------------+
+| Relaxation                 | - ↓ICF \[Ca^2+^\]                                                                |
+|                            | - ↑MLCP activity, ↓MLCK activity                                                 |
+|                            | - Myosin detaches from actin                                                     |
++----------------------------+----------------------------------------------------------------------------------+
+| Latch bridge mechanism     | - Actin and myosin adopt a fixed, contracted conformation                        |
+|                            | - Sustained contraction despite low ICF \[Ca^2+^\] and inactivated myosin-ATPase |
++----------------------------+----------------------------------------------------------------------------------+

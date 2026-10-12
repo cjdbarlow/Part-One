@@ -1,0 +1,78 @@
+#### List:
+
+- Physical hazards
+- Degradation products
+- Other
+- Ingredients: each type
+
+#### Physical hazards of CO~2~ absorbent:
+
++-------+-------------------------------------------------------------------------------------------+
+| Heat  | - Worst with baralyme + sevo (150°C)                                                      |
+|       | - Risk of burns, fires, explosions                                                        |
+|       | - *Fix: use a well sealed well-insulated canister. Change when depleted.*                 |
+|       | - *Fix: turn off when not in use. Change regularly, after excessive use, or if in doubt.* |
++-------+-------------------------------------------------------------------------------------------+
+| Spill | - Risk of injury to lungs, skin, eyes                                                     |
+|       | - *Fix: use a well sealed canister, careful not to spill.*                                |
++-------+-------------------------------------------------------------------------------------------+
+
+#### Harmful degradation products:
+
++-----------------+----------------------------------------------------------------------------------------------------+
+| Compound A      | - Reaction sevo + absorbent                                                                        |
+|                 | - Baralyme \> Sodalime \>\> Amsorb and Litholime                                                   |
+|                 | - More likely if high sevo%, low fresh gas flow rate, high temp, fresh absorbent                   |
+|                 | - Nephrotoxic in rats at 150-200ppm                                                                |
+|                 | - *Fix: don’t use baralyme*                                                                        |
+|                 | - *Fix: use FGFR\>2L/min; limit sevo to 2MAC-hours if FGF 1-2L/min*                                |
++-----------------+----------------------------------------------------------------------------------------------------+
+| Carbon monoxide | - Reaction absorbent + CHF~2~ (difluormethyl) moiety in volatile                                   |
+|                 | - Desflurane \> enflurane \> isoflurane \>\> others                                                |
+|                 | - More in baralyme \> sodalime                                                                     |
+|                 | - More if absorbent hot and dry (e.g. left on over weekend)                                        |
+|                 | - HbCO can rise to 35%. Binds to Hb with 250x higher affinity than O~2~.                           |
+|                 | - *Fix: avoid baralyme; avoid continuous use without break*                                        |
+|                 | - *Fix: ensure machine turned off after use; check CO~2~ canister before use; replace if in doubt* |
+|                 | - *Fix: use sevo*                                                                                  |
++-----------------+----------------------------------------------------------------------------------------------------+
+| Other           | - Formaldehyde                                                                                     |
+|                 | - Methanol                                                                                         |
++-----------------+----------------------------------------------------------------------------------------------------+
+
+#### Other:
+
++-------------------------+-------------------------------------------------------------------------------+
+| Unrecognised exhaustion | - When near depleted, lime colour can change back to “fresh” if left unused   |
+|                         | - Unused OH^-^ ions in the core migrate to the surface.                       |
+|                         | - *Fix: check before each case*                                               |
+|                         | - *Fix: use capnography in every GA*                                          |
++-------------------------+-------------------------------------------------------------------------------+
+| Airway resistance       | - 4-8 mesh optimal for balance between ↓ airway resistance and ↑ surface area |
+|                         | - Risk of breathstacking in children                                          |
+|                         | - *Fix: use a Mapleson circuit instead*                                       |
++-------------------------+-------------------------------------------------------------------------------+
+| Awareness               | - Risk if canister changed during anaesthesia                                 |
+|                         | - *Fix: change between cases if possible*                                     |
+|                         | - *Fix: administer IV anaesthetic temporarily*                                |
++-------------------------+-------------------------------------------------------------------------------+
+
+#### Ingredients: (unlikely to score marks)
+
++-------------+-------------------------------------------------------------+
+| Sodalime    | - 80% Ca(OH)~2~                                             |
+|             | - \<4% NaOH                                                 |
+|             | - 16% water(to accelerate reaction)                         |
+|             | - Indicator (ethyl violet or phenolphthalein)               |
+|             | - Silica (hardening agent)                                  |
++-------------+-------------------------------------------------------------+
+| Baralyme    | - 80% Ca(OH)~2~                                             |
+|             | - \<20% BaOH                                                |
+|             | - Water is incorporated into lime, making it less efficient |
++-------------+-------------------------------------------------------------+
+| Amsorb plus | - \>75% Ca(OH)~2~                                           |
+|             | - CaCl~2~                                                   |
+|             | - 15% H~2~O                                                 |
++-------------+-------------------------------------------------------------+
+| Litholime   | - \>75% Ca(OH)~2~, small amount LiOH                        |
++-------------+-------------------------------------------------------------+

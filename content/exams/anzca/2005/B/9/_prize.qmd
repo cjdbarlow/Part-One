@@ -1,0 +1,103 @@
+#### List:
+
+- West zones: erect
+- West zones: other positions
+- Effect of increased pulmonary vascular pressures
+
+#### West zones: erect
+
++---------+-------------------------------------------------------------------------------------------------------------+
+| Summary | - Gravity creates a hydrostatic pressure gradient: base \> apex                                             |
+|         | - Lung divided into regions according to relationship between alveolar, vascular and interstitial pressures |
++---------+-------------------------------------------------------------------------------------------------------------+
+| Z1      | - PA \> Pa \> Pv                                                                                            |
+|         | - Minimal apical lung in health                                                                             |
+|         | - = Alveolar dead space                                                                                     |
+|         | - No blood flow (Q)                                                                                         |
+|         | - ↑Z1 if                                                                                                    |
+|         |   - ↑PA: e.g. IPPV, PEEP                                                                                    |
+|         |   - ↓Pa: e.g. pulmonary embolus, haemorrhage, ↓inotropy, pulmonary vasodilator)                             |
++---------+-------------------------------------------------------------------------------------------------------------+
+| Z2      | - Pa \> PA \> Pv                                                                                            |
+|         | - From 3cm above RV to near apex in health                                                                  |
+|         | - Starling resistor:                                                                                        |
+|         |   - Diastole: Pa\<PA hence Q = 0 and downstream Pv irrelevant                                               |
+|         |   - Systole: Q begins when Pa \>\> PA; then Q ∝ (Pa-Pv)                                                     |
+|         |   - (↑↑ pressure required to re-open collapsed vessel)                                                      |
++---------+-------------------------------------------------------------------------------------------------------------+
+| Z3      | - Pa \> Pv \> PA                                                                                            |
+|         | - From near base to 3cm above RV                                                                            |
+|         | - Majority of lung tissue                                                                                   |
+|         | - Q continuous.                                                                                             |
++---------+-------------------------------------------------------------------------------------------------------------+
+| Z4      | - Pa \> Pi \> Pv \> PA                                                                                      |
+|         | - Q minimal?                                                                                                |
+|         | - Compression of extra-alveolar vessels:                                                                    |
+|         |   - Base of lung at low volume in health (↓ radial traction)                                                |
+|         |   - APO (↑ interstitial fluid)                                                                              |
++---------+-------------------------------------------------------------------------------------------------------------+
+
+#### West zones: other positions
+
++-------------------+-----------------------------------------------------------+
+| Summary           | - Hydrostatic pressure gradient ∝ vertical height of lung |
+|                   | - Erect \> lateral decubitus \> supine                    |
++-------------------+-----------------------------------------------------------+
+| Lateral decubitus | - Z1: almost zero lateral non-dependent lung              |
+|                   | - Z2: almost whole non-dependent lug                      |
+|                   | - Z3: almost dependent lung                               |
+|                   | - Improved V/Q matching c.f. supine                       |
++-------------------+-----------------------------------------------------------+
+| Supine            | - Z1: minimal anterior both lungs                         |
+|                   | - Z2: minimal mid-anterior both lungs                     |
+|                   | - Z3: most of both lungs                                  |
+|                   | - No right-left inequality                                |
++-------------------+-----------------------------------------------------------+
+| Prone             | - More even distribution                                  |
+|                   |   - Gravity favours flow in non-dependent areas           |
+|                   |   - Lung architecture favours flow in dependent areas     |
++-------------------+-----------------------------------------------------------+
+
+#### Effect of increased pulmonary vascular pressures:
+
++------------+-----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Effect     | - ↑PAP or ↑PVP → ↓ PVR                                                                                                                              |
+|            | - Unlike systemic circulation                                                                                                                       |
++------------+-----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Purpose    | - Allows high flow rate without high pressure (e.g. exercise)                                                                                       |
+|            | - Minimises transdation hence diffusion distance                                                                                                    |
+|            | - Hence preserves gas exchange                                                                                                                      |
++------------+-----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Mechanisms | - Recruitment: ↑ pressure → re-open collapsed vessels (Z1)                                                                                          |
+|            | - Distension: ↑pressure → ↑ radius of open vessels (Z2,3)                                                                                           |
+|            | - ↑Vascular surface area → ↓PVR                                                                                                                     |
+|            |   - Q = (P~1~-P~2~)/R                                                                                                                               |
+|            |   - R = (8 x length x viscosity) / (π x radius~4~) assuming laminar                                                                                 |
++------------+-----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Graph      | ![](/content/exams/anzca/2005/B/9/prize-image001.jpg){fig-alt="Pulmonary vascular resistance against pulmonary arterial and venous blood pressure"} |
++------------+-----------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Unrelated: effect of prone positioning on ventilation and perfusion
+
++------------------+----------------------------------------------------------------------------------+-----------------------------------+
+|                  | **Ventilation**                                                                  | **Perfusion**                     |
++==================+==================================================================================+===================================+
+| **Awake supine** | Better ventrally:                                                                | Better dorsally:                  |
+|                  |                                                                                  |                                   |
+|                  | - Dorsal diaphragm displaced cephalad                                            | - Lung architecture → dorsal flow |
+|                  |   - ↑Mechanical advantage                                                        | - Gravity → dorsal flow           |
+|                  | - Dorsal lung compressed a bit by ventral lung/heart/abdo viscera                |                                   |
+|                  |   - ↓Volume → ↑compliance                                                        |                                   |
++------------------+----------------------------------------------------------------------------------+-----------------------------------+
+| **GA supine**    | - Dorsal diaphragm displaced a lot                                               | Better dorsally (as above)        |
+|                  | - But now akinetic                                                               |                                   |
+|                  | - Dorsal lung compressed a lot → small airway collapse, atelectasis, ↓compliance |                                   |
+|                  | - (Worse if ARDS)                                                                |                                   |
++------------------+----------------------------------------------------------------------------------+-----------------------------------+
+| **GA prone**     | More evenly spread                                                               | More evenly spread                |
+|                  |                                                                                  |                                   |
+|                  | - Lung/mediastinum/abdo viscera supported by sternum and ribs (not dorsal lung)  | - Lung architecture → dorsal flow |
+|                  | - More homogeneity of intrapleural pressure / lung volume / lung compliance      | - Gravity → ventral flow          |
++------------------+----------------------------------------------------------------------------------+-----------------------------------+
+
+(see Tobin, 1999 Anaesthesia and Intensive Care)

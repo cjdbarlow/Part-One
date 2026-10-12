@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001A Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the respiratory effects of the volatile agents.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} the effects on ventilatory control, breathing pattern and the airways, then cover pulmonary circulation and gas exchange. Use response curves and distinguish relevant differences between agents.
+
+::: {.structure-headings}
+### Ventilatory Control and Chemoreflex Responses
+
+### Respiratory Pattern
+
+### Airway Tone, Reflexes and Clearance
+
+### Pulmonary Circulation and Gas Exchange
+
+### Differences Between Agents
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**58%** of candidates passed this question. Three key points were required to pass this question.
+
+1. control of ventilation and the altered response to hypercarbia and hypoxia. The use of graphs was a quick and effective way of presenting this information. However an inaccurately drawn graph indicated a lack of understanding in some cases.
+2. change in respiratory pattern, with tachypnoea initially.
+3. reduction in airway reflexes and upper airway tone.
+
+Differences among the volatile agents should be mentioned. Other useful points included reduced hypoxic pulmonary vasoconstriction, reversal of bronchospasm, airway irritation, increased secretions, reduced ciliary activity, and reduced gas exchange efficiency.
+
+A common error was to state there was a global reduction in respiratory rate in spite of the daily observation of the reverse even in the presence of opioids.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2001/A/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational anaesthetic agents](/content/pharmacopoeia/neuro/inhalational_anaesthetics.qmd)
+- [Control of breathing](/content/resp/breathing_control.qmd)

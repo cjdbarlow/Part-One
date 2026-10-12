@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006A Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the measurement of pH in a blood sample using a pH electrode.
+:::
+
+Also asked in: [2001A Question 3](/content/exams/anzca/2001/A/3/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} a complete labelled electrode circuit, linking hydrogen ion activity across pH-sensitive glass to the measured voltage. Include calibration, temperature control and principal errors.
+
+::: {.structure-headings}
+### pH and Electrode Principle
+
+### Measuring and Reference Electrodes
+
+### Glass Membrane, Buffer and Salt Bridge
+
+### Circuit, Voltage and Calibration
+
+### Temperature Control and Errors
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**49 %** of candidates passed this question.
+
+For a pass, the answer needed to include a description of the apparatus used, including the presence of pH sensitive glass, two reference electrodes Ag/AgCl and the same, or calomel (Hg/HgCl~2~) although more modern machines do not use the calomel electrode, a salt bridge to complete the circuit, connecting the calomel or 2^nd^ Ag/AgCl electrode to the test solution, a buffer solution separated from the sample by pH sensitive glass. The only variable in the circuit, given constant temperature, is the difference in pH between the buffer and sample. The electrode potential depends on the Hydrogen ion activity, so the voltage measured in the circuit is proportional to pH. There is a need to calibrate against two known pH Phosphate solutions, and the system must be temperature controlled to 37^C^. The device is an example of an ion-sensitive electrode.
+
+A clearly-labelled diagram was a great help, and although not required for a pass, most of the better answers did include one. In the absence of a diagram, a very clear description was required. Some answers unfortunately had a diagram at odds with the text, making it very difficult to assess understanding.
+
+Better answers included detail about how the glass is pH-sensitive, why saturated KCl is used as the salt bridge, a correct definition of pH, and additional information about minimization of error. Lengthy discussion of CO~2~ control in hypothermia gained little and usually left minimal information that actually answered the question.
+
+Answers which described the Clarke or Severinghaus electrodes gained no marks. Many answers included a reasonable diagram but text that inferred a very poor understanding of what was drawn. The concept of an electrical circuit was absent in most answers that failed. Several dozen answers defined pH incorrectly, as a variable in the Henderson-Hasselbalch equation. No candidate mentioned solid-state ion-sensitive field-effect transistors which have been used in pH measurement for 10 or more years.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2001/A/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Blood gas measurement](/content/equipment/blood_gas.qmd)

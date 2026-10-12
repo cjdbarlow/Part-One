@@ -1,0 +1,75 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001A Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Compare and contrast**]{.task-verb} the pharmacology of esmolol and propranolol
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Compare and contrast**]{.task-verb} the two drugs in a table, linking selectivity and pharmacokinetic differences to clinical effects, uses and adverse effects.
+
+::: {.structure-table}
+| Feature | Esmolol | Propranolol |
+|---|---|---|
+| Physicochemistry | | |
+| Administration and Time Course | | |
+| Distribution and Elimination | | |
+| Receptor Effects | | |
+| Clinical Uses | | |
+| Adverse Effects and Contraindications | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**75%** of candidates passed this question.
+
+Those candidates who took a systematic approach to the answer scored better marks and missed fewer important points. It was not adequate to state that a drug was a β~1~ selective, or a non-selective β-blocker, without describing what this meant in terms of effects on vital organs. Many candidates scored well in describing the contrasting pharmacokinetics of the two agents, but then gave little or no detail on the pharmacodynamic effects of the drugs, particularly their cardiovascular effects that are the main therapeutic target. Important side effects and contraindications to their use were also frequently omitted. A number of candidates stated that esmolol causes no bronchoconstriction in asthmatics because of its selectivity for β~1~ receptors. The drug is only selective for β~1~ receptors at low doses. Few candidates mentioned the exaggerated responses that may occur when sympathetic tone is high.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2001/A/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Beta blockers](/content/pharmacopoeia/cvs/beta_blockers.qmd)

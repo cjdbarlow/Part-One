@@ -1,0 +1,31 @@
+Sensitivity and specificity refer to the probability of a positive or negative result in response to the presence or absence of a clinical condition. In this case Mallampati score in the case of difficult intubation
+
++--------------------------+---------------------+-----------------------+-----------------------------------------------+
+|                          | Difficult Airway    | Not Difficult Airway  |                                               |
++==========================+=====================+=======================+===============================================+
+| Mallampati Test Positive | True Positive (TP)  | False Positive (FP)   | Positive predictive value (PPV) = TP / TP+FP  |
++--------------------------+---------------------+-----------------------+-----------------------------------------------+
+| Mallampati Test Negative | False Negative (FN) | True Negative (TN)    | Negative Predictive Value (NPV) = TN / TN+FN) |
++--------------------------+---------------------+-----------------------+-----------------------------------------------+
+|                          | Sensitivity =       | Specificity =         |                                               |
+|                          |                     |                       |                                               |
+|                          | TP / (TP/FN)        | TN / (TN+FP)          |                                               |
++--------------------------+---------------------+-----------------------+-----------------------------------------------+
+
+**Sensitivity** (True Positive rate), it measures the proportion of positives that are correctly identified, i.e. the proportion of those who have a difficult intubation being correctly identified by Mallampati score.
+
+A Mallampati score test with a sensitivity of 30% means that only 30% of individuals with difficult intubation are correctly identified using the Mallampati score.
+
+**Specificity** (True Negative rate) measures the proportion of negatives that are correctly identified, i.e. the proportion of those without difficult intubation being correctly identified by Mallampati score.
+
+A Mallampati score test with a specificity of 90% means that 90% of individuals without difficult intubation are identified using the Mallampati score.
+
+Sensitivity and Specificity reflect a test accuracy / quality at predicting the presence or absence (respectively) of an outcome, in this case Mallampati score predicting difficult intubation. Its independent of condition prevalence in the population.
+
+**Positive Predictive Value (PPV)** is the probability that a person with a positive test result (Mallampati) has a difficult intubation 
+
+**Negative Predictive Value (NPV)**  is the probability that a person with a negative test result (Mallampati) does not have a difficult intubation
+
+PPV and NPV reflect the sensitivity/specificity of the test and also the disease prevalence in the population.
+
+As difficult intubation is relatively uncommon in the population, the Mallampati score has a low positive predictive value but has a high negative predictive value.

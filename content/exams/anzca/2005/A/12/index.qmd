@@ -1,0 +1,85 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005A Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the physiological factors influencing the carbon dioxide tension in arterial blood.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} arterial carbon dioxide tension through production, alveolar elimination and feedback control. Use the governing equation and give greatest weight to metabolic rate, alveolar ventilation, dead space and ventilation–perfusion inequality.
+
+::: {.structure-headings}
+### Production and the Governing Equation
+
+### Alveolar Ventilation and Dead Space
+
+### Ventilation–Perfusion Inequality
+
+### Chemoreceptor Feedback and Ventilatory Responses
+
+### Smaller Effects of Carriage and Solubility
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**38 %** of candidates passed this question.
+
+Despite the fact that this is an aspect of physiology which is fundamental to anaesthesia, in general this question was answered poorly.
+
+In essence, arterial carbon dioxide tension is related to the balance of production and elimination of carbon dioxide, in a manner similar to drug levels as a result of the ratio of administration rate and clearance. In addition, a system of CO~2~ sensors regulates elimination. A minority of candidates discussed all three of these elements.
+
+CO~2~ production was often mentioned, but only some candidates described this is any detail. Areas such as changes in metabolic rate and changes in metabolic substrates do alter CO~2~ production, and description of these gained extra marks. When CO~2~ elimination was mentioned, it was often at a very basic level. Elimination is very dependant on issues such as dead space and V/Q inequality, and these were often not mentioned. When they were included, there was sometimes confusion over the relative influences of diffusion vs. perfusion on CO~2~ exchange in the lung.
+
+The feedback loop for the detection of CO~2~ tension and subsequent respiratory responses was often not mentioned. This is a key determinant of CO~2~ tension. Many candidates spent a great deal of time, sometimes to the exclusion of almost everything else, on carbon dioxide carriage in the blood, phenomena such as the Haldane effect, and temperature/CO~2~ solubility. Whilst these have some impact to arterial CO~2~ tension, the effects are small compared to the factors mentioned above.
+
+It was pleasing to note that most answers were well-structured and divided into numbered sections and subheadings.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2005/A/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Carbon dioxide effects](/content/resp/co2_effects.qmd)
+- [Carbon dioxide transport](/content/resp/co2_transport.qmd)

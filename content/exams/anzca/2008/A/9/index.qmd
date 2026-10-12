@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008A Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+The skin, the kidneys, and the carotid bodies are examples of where specific organ blood flow is far in excess of that organ’s metabolic requirements. For each example, [**explain**]{.task-verb} what the physiological role of the high organ blood flow is, why this high flow is an advantage to the person and [**a brief description**]{.task-verb} of the mechanisms involved.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+For each organ, [**explain**]{.task-verb} the purpose and advantage of high flow, then give [**a brief description**]{.task-verb} of how it is achieved. Keep physiological role distinct from a general account of flow regulation.
+
+::: {.structure-headings}
+### Skin: Thermoregulation and Reservoir
+
+### Kidneys: Excretion and Homeostasis
+
+### Carotid Bodies: Rapid Oxygen Sensing
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**11%** of candidates passed this question.
+
+To answer this question, candidates had to explain the role of the high organ blood flow, the advantage of this high flow, and the mechanism creating the high flow for all three organs.
+
+Skin: Thermoregulation role with heat conservation / loss. Normothermia allows normal enzyme function. High flow via superficial arteriole network and arterio-venous anastomosis with sympathetic nervous system control. Additional marks for role as a blood reservoir, correct value of blood flow, and importance of sweating.
+
+Kidneys: Role is to excrete waste products and sodium / water balance. Advantage is the maintenance of constant internal environment. High flow via short large renal arteries, parallel interlobular arteries and parallel afferent arteriole branches. Additional marks for renal blood flow value.
+
+Carotid bodies: High flow means organ oxygen requirements do not interfere with measuring PaO~2~. The advantage is early detection of hypoxia. High organ flow occurs due to the small size of the organ and flow directly from the carotid artery. Additional marks for organ blood flow rate and lack of effect from anaemia or carbon monoxide poisoning.
+
+A common mistake was to describe in detail how blood flow is controlled or altered, especially when referring to the kidney and this was not asked for. Descriptions of physiological pathways and their end organ responses were also not asked for. Re-writing the question was not helpful. Carotid bodies were often incorrectly described as having a baroreceptor function.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2008/A/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Thermoregulation](/content/metabolic/temperature.qmd)
+- [Renal blood flow](/content/renal/rbf.qmd)
+- [Control of breathing](/content/resp/breathing_control.qmd)

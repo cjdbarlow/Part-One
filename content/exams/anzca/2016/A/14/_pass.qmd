@@ -1,0 +1,29 @@
+Prostaglandins are a group of physiologically active compounds derived from arachidonic acid. by the action of COX enzymes.  They act as autocrine and paracrine factors with target cells in close proximity to site of secretion and have very short half-lives, they are present in almost every tissue in the body. 
+
+Prostaglandins can have diverse actions, a given prostaglandin can have differing and even opposite actions in different tissues. depending on the receptor type involved.
+
+Exert effect by activating G Protein Coupled Receptors 
+
++------------------------------+---------------------------------+
+| **Smooth Muscle **           | Prostaglandin                   |
++==============================+=================================+
+| **Vascular **                | Vasoconstriction TXA2           |
+|                              |                                 |
+|                              | Vasodilation PGI2               |
++------------------------------+---------------------------------+
+| **Respiratory / Bronchial ** | Bronchoconstriction PGD2 PGF2a  |
+|                              |                                 |
+|                              | Bronchodilation PGI2            |
++------------------------------+---------------------------------+
+| **GI**                       | Sphincter constriction PGI2     |
++------------------------------+---------------------------------+
+| **Uterine **                 | Uterine Contraction             |
+|                              |                                 |
+|                              | PGF2a, PGE2, PGE1               |
+|                              |                                 |
+|                              | Cervical Ripening PGI1          |
++------------------------------+---------------------------------+
+| **Ureteric**                 | Constrict PGF2a                 |
+|                              |                                 |
+|                              | Relax PGE2                      |
++------------------------------+---------------------------------+

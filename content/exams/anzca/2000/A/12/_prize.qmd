@@ -1,0 +1,50 @@
+#### List:
+
+- PC
+- PK
+- PD
+
+#### Physicochemical:
+
++-------------------+-------------------------------------------------------------------+
+| Structure         | - Nonapeptide                                                     |
++-------------------+-------------------------------------------------------------------+
+| Endogenous source | - Produced by supra-optic and paraventricular hypothalamic nuclei |
+|                   | - Released by posterior pituitary                                 |
++-------------------+-------------------------------------------------------------------+
+
+#### Pharmacokinetics:
+
++----------------+--------------------------------------------------------+
+| Administration | - IV bolus e.g. 5 units                                |
+|                | - IV infusion e.g. 5-10 units/h                        |
++----------------+--------------------------------------------------------+
+| Time course    | - Onset \<1 min                                        |
+|                | - Duration 20 mins                                     |
++----------------+--------------------------------------------------------+
+| Absorption     | - Digested by the gut                                  |
++----------------+--------------------------------------------------------+
+| Distribution   | - 30% plasma protein bound                             |
++----------------+--------------------------------------------------------+
+| Metabolism     | - Oxytocinase in liver and plasma                      |
+|                | - t~1/2~~β~ 5 mins (note carbetocin t~1/2~~β~ 40 mins) |
++----------------+--------------------------------------------------------+
+| Excretion      | - Oxidation and recycling for protein synthesis        |
++----------------+--------------------------------------------------------+
+
+#### Pharmacodynamics:
+
++-----------------+---------------------------------------------------------------------------+
+| Mechanism       | - Bind to oxytocin receptor, a G~q~ G-protein coupled receptor            |
+|                 | - ↑IP~3~ → ↑ICF \[Ca^2+^\], (also ↑DAG)                                   |
++-----------------+---------------------------------------------------------------------------+
+| Uterine effects | - Smooth muscle contraction: intermittent at low dose, tonic at high dose |
+|                 | - Receptors upregulated from 36/40                                        |
+|                 | - Ante-partum: expedites and augments labour, foetal distress in excess   |
+|                 | - Post-partum: ↓risk PPH                                                  |
++-----------------+---------------------------------------------------------------------------+
+| Other effects   | - Mammary gland: contraction                                              |
+|                 | - Brain: nausea/vomiting at high dose                                     |
+|                 | - Vascular smooth muscle: vasodilatation (not vasoconstriction like ADH)  |
+|                 | - Kidney: some ADH effect via V~2~ (↑H~2~O reabsorption)                  |
++-----------------+---------------------------------------------------------------------------+

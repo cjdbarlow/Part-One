@@ -1,0 +1,130 @@
+#### List:
+
+- Intro and definitions
+- Graphs
+- Determinants of static lung compliance
+- Determinants of hysteresis
+- Determinants of chest wall compliance
+
+#### Intro and definitions:
+
++---------------------+-------------------------------------------------+
+| Compliance          | - ∆volume (V)/∆transpulmonary pressure (P)      |
+|                     | - Key determinant of work of breathing          |
++---------------------+-------------------------------------------------+
+| Static compliance   | - ∆V/∆P at cessation of airflow                 |
++---------------------+-------------------------------------------------+
+| Dynamic compliance  | - ∆V/∆P during airflow                          |
+|                     | - Less than static compliance (i.e. hysteresis) |
++---------------------+-------------------------------------------------+
+| Specific compliance | - (∆V/∆P) / FRC                                 |
+|                     | - i.e. indexed for absolute lung size           |
++---------------------+-------------------------------------------------+
+| Normal values       | - Lung compliance (LC): 200mL/cmH~2~O           |
+|                     | - Chest wall compliance (CWC): 200mL/cmH~2~O    |
+|                     | - Total: 1/200 + 1/200 = 1/100 → 100mL/cmH~2~O  |
+|                     | - (in parallel, hence additive inverses)        |
++---------------------+-------------------------------------------------+
+| Recoil tendency     | - Lung inward (\~5cmH~2~O at FRC)               |
+|                     | - Chest wall outward (\~5cmH~2~O at FRC)        |
++---------------------+-------------------------------------------------+
+
+#### Graphs:
+
++----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| Combined compliance curves | ![](/content/exams/anzca/2020/B/3/prize-image001.jpg){fig-alt="Pressure–volume curves for lung, chest wall and total respiratory system"}      |
++----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| Regional differences       | ![](/content/exams/anzca/2020/B/3/prize-image002.jpg){fig-alt="Apical and basal alveolar pressure–volume relationships at normal lung volume"} |
+|                            |                                                                                                                                                |
+|                            | ![](/content/exams/anzca/2020/B/3/prize-image003.jpg){fig-alt="Apical and basal alveolar pressure–volume relationships at low lung volume"}    |
++----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Determinants of static lung compliance:
+
++------------------------+-------------------------------------------------------------------------+
+| Intrinsic elasticity   | - Elderly/smoking → emphysema → ↓inward recoil → ↑LC                    |
+|                        | - Interstitial fibrosis → ↓LC                                           |
+|                        | - Pulmonary oedema → ↓LC                                                |
++------------------------+-------------------------------------------------------------------------+
+| Surfactant             | - LaPlace’s law: Pressure (P) = 2 x surface tension (T) / radius (r)    |
+|                        |   - Fluid surfaces acquire least surface area due to surface tension    |
+|                        |   - Alveoli tend to collapse                                            |
+|                        | - Role of surfacant                                                     |
+|                        |   - Amphipathic molecule                                                |
+|                        |   - Reduces surface tension at air-water interface                      |
+|                        |   - Becomes more concentrated (= more effective) at low alveolar volume |
+|                        |   - → ↓alveolar collapse, ↑compliance                                   |
+|                        | - Factors increasing surface tension:                                   |
+|                        |   - Alveolar oedema → surfactant dilution                               |
+|                        |   - Surfactant deficiency (e.g. prematurity, SP-B or SP-C deficiency)   |
++------------------------+-------------------------------------------------------------------------+
+| Absolute lung size     | - Reasons:                                                              |
+|                        |   - ↑Alveolar number → ↑LC                                              |
+|                        |   - ↑Alveolar size → ↑LC (↑radius → ↓pressure – LaPlace)                |
+|                        | - Examples:                                                             |
+|                        |   - Adult \> Neonate (100 cf. 1.5-6mL/cmH2O)                            |
+|                        |   - Male \> Female                                                      |
+|                        |   - Tall \> Short                                                       |
+|                        | - N.B. compliance constant if indexed to size (i.e. compliance/FRC)     |
++------------------------+-------------------------------------------------------------------------+
+| Relative lung volume   | - High: surfactant spread out → ↑T → ↓ LC                               |
+|                        | - Low: ↓ radius → ↑T, alveolar collapse → ↓LC                           |
+|                        |   - e.g. pregnancy, obesity                                             |
+|                        | - Max compliance at FRC                                                 |
++------------------------+-------------------------------------------------------------------------+
+| Gravity                | - Basal compression → ↓alveolar volume at FRC → ↑basal LC               |
+|                        | - Apical traction → ↑alveolar volume at FRC → basal \> ↓apical LC       |
++------------------------+-------------------------------------------------------------------------+
+| Posture                | - Supine: ↓LC                                                           |
+|                        |   - Dorsal lung compressed by ventral lung/mediastinum/abdo viscera     |
+|                        |   - Awake: compression + → dorsal LC \> ventral LC                      |
+|                        |   - Under GA: compression +++ → ventral LC \> dorsal LC                 |
+|                        | - Prone: ↑LC                                                            |
+|                        |   - Lung/mediastinum/abdo viscera supported by sternum and ribs         |
+|                        |   - ↑Uniformity of intrapleural pressure / volume / compliance          |
+|                        |   - Overall ↑FRC and ↑LC (esp. if abdomen free)                         |
++------------------------+-------------------------------------------------------------------------+
+| Pulmonary blood volume | - Congestion → ↓ LC                                                     |
+|                        | - (e.g. heart failure, supine posture)                                  |
++------------------------+-------------------------------------------------------------------------+
+
+#### Determinants of hysteresis:
+
+*i.e. reasons for the difference between static and dynamic compliance*
+
++--------------------------------------------+---------------------------------------------------------------------------------+
+| Resistance to airflow                      | - Laminar: R = (8 x length x viscosity) / (π x radius^4^)                       |
+|                                            | - Turbulent: (P~1~-P~2~) ∝ (length x density) / (radius^5^)                     |
++--------------------------------------------+---------------------------------------------------------------------------------+
+| Time-dependent pulmonary elastoid behavior | - Surfactant changes (lag in equilibration of surface tension between alveoli)  |
+|                                            | - Stress relaxation (of viscoelastic lung tissue e.g. collagen)                 |
+|                                            | - Pendelluft (distribution of air between regions with different time constants |
+|                                            | - Re-opening of collapsed alveoli (quasi Starling resistor)                     |
++--------------------------------------------+---------------------------------------------------------------------------------+
+
+#### Determinants of chest wall compliance:
+
++----------------------+--------------------------------------------------------------+
+| Intrinsic elasticity | - ↓Intrinsic elasticity → ↓outward recoil → ↓CWC             |
+|                      |   - Neonate (cartilaginous ribs)                             |
+|                      |   - Elderly (ossified costal cartilage)                      |
+|                      | - Distortion of chest wall → ↓CWC                            |
+|                      |   - Pregnancy                                                |
+|                      |   - Kyphoscoliosis                                           |
+|                      | - Diaphragm and intercostal relaxation → ↓CWC                |
+|                      |   - Anaesthesia                                              |
+|                      |   - Paralysis                                                |
++----------------------+--------------------------------------------------------------+
+| Relative lung volume | - ↓Volume → ↑outward recoil → ↑CWC                           |
+|                      |   - Pregnancy                                                |
+|                      |   - Obesity                                                  |
+|                      |   - Supine posture                                           |
+|                      |                                                              |
+|                      |  (note external compression predominates in the above cases) |
++----------------------+--------------------------------------------------------------+
+| External compression | - Compress diaphragm and/or chest wall → ↓CWC                |
+|                      |   - Obesity                                                  |
+|                      |   - Pregnancy                                                |
+|                      |   - Posture: supine \> lateral decubitus \> erect\           |
+|                      |     (Prone: ↑CWC if abdomen free)                            |
++----------------------+--------------------------------------------------------------+

@@ -1,0 +1,88 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005A Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the compensatory mechanisms in a fit person moving from the supine to the standing position.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Immediate Hydrostatic Effects**, **Circulatory Reflexes**, **Cerebral Compensation**, and **Muscle Pump and Venous Valves**. Present the time course and link each compensatory response to the disturbance caused by standing.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**52 %** of candidates passed this question.
+
+This is slightly less than when the question was asked in 1998. As was highlighted in the previous examiners report, a complete answer required a level of synthesis and integration from several areas of physiology.
+
+The main points that would gain a pass were:
+
+- An appreciation that the circulation acts as a hydrostatic column of fluid subject to the effects of gravity
+- Descriptions of the main circulatory effects of becoming upright
+- Demonstration of an understanding of the circulatory compensation mechanisms involved
+- Reference to the important cerebral compensations
+- The contribution of the leg muscles and venous valves
+- An idea of the time course and sequence of these events
+
+Additional information that attracted further marks included:
+
+- More detailed descriptions of the feedback mechanisms involved
+- Numerical quantifications of the magnitude of the various pressure changes
+- Identification of the conditions under which the physiological compensation mechanisms would be incomplete or disrupted
+- An understanding of the relationship of the changes on intracranial pressure, cerebral perfusion pressure and venous pressure
+
+Common mistakes or omissions included:
+
+- Confusion over whether a decrease in blood pressure increases or decreases the rate of firing from the baroreceptors
+- Pursuing one or two parameters in great detail, at the expense of a comprehensive overview
+- Reproduction of graphs or formulae that, although relevant, are not accompanied by any description of the physiological implications of the interrelationship
+- It should be noted that re-writing the question verbatim at the beginning of the answer does not attract marks
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Variations in Blood Pressure](/content/cvs/bp_variations.qmd)
+- [Baroreceptors](/content/cvs/baroreceptors.qmd)

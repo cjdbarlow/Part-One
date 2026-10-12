@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015B Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the potential adverse effects of NON depolarising muscle relaxants.
+:::
+
+Also asked in: [2016A Question 4](/content/exams/anzca/2016/A/4/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} adverse effects by drug class. Link structural and receptor differences to histamine release, allergy and autonomic effects, then address metabolites and prolonged administration with clinical consequences.
+
+::: {.structure-headings}
+### General Adverse Reactions
+
+### Benzylisoquinolones and Histamine Release
+
+### Laudanosine and Other Metabolites
+
+### Aminosteroids, Allergy and Autonomic Effects
+
+### Prolonged Administration and Concurrent Disease
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**1.1%** of candidates achieved a pass in this question
+
+This is a pharmacology question. The most effective way of presenting adverse effects of non-depolarising muscle relaxants was by class of drug. For benzylisoquinolones discussion was expected to include details pertaining to histamine release: a brief description of drug structure including stereoisomerism to explain drug differences within this class, quantification of the effect, briefly clinical consequences and ways to mitigate. Additional marks were awarded for appropriate mention of laudanosine. For aminosteroids discussion of anaphylaxis and vagolytic/autonomic effects was expected. Again structure activity explanations attracted additional marks. Consequences of prolonged administration and concurrent disease with respect to drug pharmacokinetics could be included as a separate section or within those for drug classes. Reference to drugs no longer in use was appropriate in the context of receptor affinity. Common mistakes included vague statements, repetition of information and incorrect information especially with respect to autonomic receptors. No marks were awarded for mechanisms of action of non depolarising muscle relaxants at the neuromuscular junction, treatment of anaphylaxis, drug interactions causing prolonged block or side-effects of reversal agents. Nor was there credit for describing clinical consequences of failure to provide safe relaxant general anaesthesia.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2015/B/7/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2015/B/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neuromuscular blockers](/content/msk/neuromuscular_blockers.qmd)

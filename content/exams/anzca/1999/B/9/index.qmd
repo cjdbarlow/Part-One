@@ -1,0 +1,63 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999B Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**What is meant by**]{.task-verb} "95% confidence interval"? [**Explain**]{.task-verb} the practical applications of confidence intervals and [**indicate**]{.task-verb} [**why**]{.task-verb} they may be preferred to P-values?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+State [**what is meant by**]{.task-verb} a **95% Confidence Interval**, then [**explain**]{.task-verb} **Practical Applications** and **Comparison With P-Values**. Distinguish the sample estimate from the population parameter and relate interpretation to the quantity being estimated.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This identical question has been asked in August 1995 and March 1997 (see previous reports). The pass rate of **48%** this time was poor albeit better than in the previous papers. Many answers showed poor understanding not just of confidence intervals (CI) but also the principles of statistical inference concerning samples and populations. Comments from the previous examiners' reports are still applicable. In addition, it was surprising that many answers referred to the 95% CI as a single value, or neglected to mention 95% in their definition. Many statements did not make sense grammatically or logically e.g. "95% certain that the sample mean lies within the population mean". The use of the term "sample population" prevented marks from being awarded because it was not certain whether the candidate meant sample or population. Other common errors were statements such as "95% CI has a 95% probability of containing the sample mean"; and the incorrect formula that 95% CI = 1.96±SEM. There was confusion regarding the significance of a CI containing zero. This depends on what the particular CI is providing an estimate for. Many candidates wrote unnecessary information about P values without comparing them to CI, and many thought incorrectly that CI could not be used for hypothesis testing.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Statistical Terms](/content/stats/statistical_terms.qmd)
+- [Significance Testing](/content/stats/signifiance_testing.qmd)

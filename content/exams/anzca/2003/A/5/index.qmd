@@ -1,0 +1,63 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003A Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the important statistical issues in designing a study to [**compare**]{.task-verb} the duration of analgesia of two drugs given for post-operative pain relief.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} **Study Design and Null Hypothesis**, **Sample Size**, **Outcome Definition and Measurement**, **Bias Reduction**, and **Choice of Statistical Test**. Relate each issue to comparing the duration of postoperative analgesia.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The pass rate for this question was **38%**. The principal points expected to pass would have included the following. The setting of the study should be a randomised controlled clinical trial. A statement defining the Null Hypothesis to answer the question raised, for example that the drug has no significant effect on post-operative duration of pain relief. Discussion regarding the appropriate determination of sample size including power analysis and the setting of threshold for type one and two error. Power is only one of the issues in sample size estimation and a common mistake was to give too much emphasis to this point in candidate’s answers. The surgical procedure and anaesthetic technique must be standardised to reduce bias. Other methods to reduce bias include blinding the person responsible for data collection. The definitions of inclusion criteria for endpoints of analgesic effect are important and pain severity scores were mentioned by many candidates. Higher marks were given to answers which addressed which statistical test would be suitable and the reasons why it would be appropriate. The data may not be normally distributed so a non parametric test such as a Mann-Whitney U test might be preferred. Other tests were acceptable provided potential limitations were identified and data suitability was included.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Clinical Trial Design](/content/stats/clinical_trial_design.qmd)
+- [Sample Size Calculation](/content/stats/sample_size.qmd)

@@ -1,0 +1,37 @@
+Transdermal uptake of drugs is generally achieved through the application of patches. 
+
+Transdermal uptake is governed by Fick’s law of diffusion and physiological factors.
+
+Fick’s Law of diffusion states that:
+
+D = ΔP.k.A/ t
+
+ΔP = Drug concentration gradient over the skin/membrane, increasing drug concentration →↑ rate of diffusion
+
+A = membrane diffusion area, size of patch/skin area covered
+
+k= diffusion constant = solubility/square rootMW, increasing lipid solubility of the drug would increase the rate of diffusion through the skin   
+
+t= Membrane thickness, thicker skin results in slower diffusion of drug 
+
+Physiologically uptake from the skin is also dependant of skin blood flow to maintain the concentration gradient across the skin, ↓blood flow would result in closer equalisation of drug concentration over the skin and ↓diffusion
+
+Advantages:
+
+Maintains steady plasma concentration of drug due constant dosing/administration, even with agents with shorter half-lives. 
+
+Avoids side effects of peak concentrations
+
+Patient compliance easier - no forgotten dose or different timing
+
+Avoids first ass metabolism 
+
+Disadvantages:
+
+Drug must be lipid soluble - not suitable to all medications 
+
+Slow Onset and Offset - takes much longer to reach effective concentrations, usually not useful in acute setting. 
+
+Patch may be forgotten to be swapped removed 
+
+Temperature may alter absorption rate

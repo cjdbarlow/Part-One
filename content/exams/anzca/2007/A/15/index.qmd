@@ -1,0 +1,93 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007A Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the effects of resonance and damping on an invasive arterial blood pressure tracing.
+:::
+
+Also asked in: [2011B Question 10](/content/exams/anzca/2011/B/10/index.qmd#examiner-comments), [2013B Question 8](/content/exams/anzca/2013/B/8/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} resonance and damping before linking each to waveform distortion and measured pressures. Use labelled tracings to show the differences.
+
+::: {.structure-headings}
+### Measurement System and Natural Frequency
+
+### Resonance
+
+### Damping Coefficient
+
+### Underdamped, Overdamped and Optimally Damped Tracings
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**21%** of candidates passed this question. For a pass, most of the following information was required:
+
+- Some attempt at a definition of the concepts
+- Evidence of understanding that the system’s f~0~ needs to be several fold the frequency of the pulse and the consequences for the pressure waveform of not being so
+- Means whereby the f~0~ of the system can be maximised
+- Effects of under, over and optimal damping on the arterial pressure waveform
+- Causes of damping in the system
+
+Marks were awarded for other information, including that the measured MAP tends not to be affected by resonance and inappropriate damping; clear diagrams explaining the waveform changes; correct explanation of damping co-efficients and the meaning of the term, especially if a correct diagram of the response to a step change in pressure was included; that the transducers used today have high natural resonant frequency but the other components of the measuring system are the main cause of low f~0~ in the system; correct use of an equation relating f~0~ to mass, elasticity and area and especially if this could then be related to practical means of increasing f~0~ in the measuring system; difference between optimal and critical damping.
+
+Common problems in the answers were:
+
+- Very few answers included a good attempt at defining the concepts especially damping (delay in response due to frictional resistance, or similar)
+- Discussion of resonance and damping without any attempt at describing the effects on an arterial waveform (at least half the candidates)
+- Wasting time with long descriptions of the components of the measuring system or of zeroing or of indications for arterial line placement. Zeroing is irrelevant to the question;
+- Quoting figures for damping coefficients with no evidence of any understanding of the meaning of the term
+- Using vague terms like “interfere with the trace” with no mention of in what way;
+- Stating that damping is used or added to the transducer in order to combat resonance-damping and resonance are features of any oscillating system and the measuring systems used must in some way optimise these inherent features;
+- Those candidates who attempted a diagram demonstrating response to a step change in pressure in various damping situations were often wrong
+- Several dozen answers compared the radial and aortic pressure traces and described the differences in terms of resonance and damping in the arterial tree. When this information was correct, marks were given but it was not possible to get a pass mark for this information only.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2007/A/15/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/A/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Pressure transduction](/content/equipment/transducers.qmd)

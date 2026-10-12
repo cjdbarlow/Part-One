@@ -1,0 +1,85 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2021A Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Define**]{.task-verb} the terms “tolerance” and “tachyphylaxis” (30%). [**Discuss**]{.task-verb} the mechanisms by which these can develop, giving relevant examples (70%).
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Define**]{.task-verb} both terms with their time courses for the first 30%, then [**discuss**]{.task-verb} mechanisms with named drug examples for the remaining 70%. Separate kinetic changes from receptor, signalling and physiological adaptations, and distinguish mediator depletion from other mechanisms.
+
+::: {.structure-table}
+| Feature | Tolerance | Tachyphylaxis |
+|---|---|---|
+| Definition and Time Course | | |
+| Mediator or Pharmacokinetic Changes | | |
+| Receptor and Signalling Adaptations | | |
+| Other Physiological Adaptations | | |
+| Drug Examples | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**48.2%** of candidates achieved a pass in this question
+
+The domains which attracted marks for this question were:
+
+  - correct definition of both tachyphylaxis and tolerance
+  - mechanisms for tachyphylaxis with examples
+  - mechanisms for tolerance with examples
+
+Common problems with the answers included:
+
+  - not stating time course for these effects
+  - confounding tolerance with ceiling effect/zero order kinetics/drug interactions
+  - using phenylephrine as an example of an indirectly acting drug
+  - confusing transmitter depletion with re-uptake inhibition
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2021/A/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Dose–response relationships](/content/pharmacology/dose_response.qmd)

@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008A Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+A surgeon wishes to use topical anaesthetic in the nose before surgery in a 30 year old 70 kg man. He normally uses topical cocaine 5% plus lignocaine 2% with adrenaline 1:100,000 injection. [**What volumes**]{.task-verb} of cocaine 5% and lignocaine can be used safely? [**What are**]{.task-verb} the potential toxic effects of cocaine and [**how do**]{.task-verb} lignocaine and adrenaline affect this?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+Show what **Doses and Volumes** can be used through explicit calculations from the stated concentrations and body weight. Then [**describe**]{.task-verb} **Cocaine Toxicity**, **Additive Lignocaine Toxicity**, and **Effects of Adrenaline**.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**19%** of candidates passed this question.
+
+Better answers came from candidates who had gone to more than just one or two of the recommended textbooks to get information on cocaine (some of them contain very sparse information). Considerable latitude was given to the range of toxic doses, especially when accompanied by a correct calculation. Very few candidates noted that 1:100,000 adrenaline is 10 mcg/ml and that 10 ml would be an appreciable dose of adrenaline. An answer that contained the following would have attracted a good pass:
+
+- toxic doses and thus volumes
+- a statement that toxicities are additive so doses should be modified
+- mechanism(s) and manifestations of cocaine toxicity
+    - re-uptake inhibitor of noradrenaline (and dopamine and serotonin)
+    - sympathetic nervous system activation (tachycardia, hypertension, arrhythmias, coronary vascoconstriction, myocardial ischaemia)
+    - CNS effects (eg. euphoria, delirium, seizures)
+- lignocaine enhances CNS toxicity
+- adrenaline increases cardiovascular toxicity
+
+Long discursions on sodium channel blockade, factors that governed uptake of local anaesthetics and the blood levels of lignocaine at which different CNS effects might appear did not attract marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Local Anaesthetic Agents](/content/pharmacopoeia/neuro/local_anaesthetics.qmd)
+- [Local Anaesthetics](/content/pharmacopoeia/neuro/local_anaesthetic_principles.qmd)

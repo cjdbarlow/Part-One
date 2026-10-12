@@ -1,0 +1,79 @@
+#### List:
+
+- Equipotent doses
+- Time course
+- Absorption
+- Distribution
+- Metabolism
+- Excretion
+
+#### Equipotent doses:
+
+       **Morphine**   **Oxycodone**
+  ---- -------------- ---------------
+  IV   10mg           10mg
+  PO   30mg           20mg
+
+#### Time course:
+
+                               **Morphine**   **Oxycodone**
+  ---------------------------- -------------- ------------------------
+  Onset (time to 80%) (mins)   10 mins        2-5mins
+  Peak effect (mins)           30 mins        ? faster than morphine
+  Duration (hours)             3h             3h
+
+#### Absorption:
+
+               **Morphine**   **Oxycodone:**
+  ------------ -------------- ----------------
+  Oral bioav   30-50%         75%
+
+#### Distribution:
+
+                           **Morphine**   **Oxycodone**
+  ------------------------ -------------- ---------------
+  Lipid solubility         1              1
+  pKa (weak bases)         8.0            8.5
+  \% unionised at pH 7.4   23%            \<10%
+  Active uptake into CNS   N              Y\*
+  %Plasma protein bound    35%            45%
+  V~DC~ (L/kg)                            
+  V~DSS~ (L/kg)            3.5            2.5
+  t~1/2ke0~ (mins)         17             ? faster
+  t~1/2~~α~ (mins)                        
+
+\*Active uptake into CNS may account for oxycodone’s apparent faster onset despite similar size, lipid solubility and ionised fraction
+
+#### Metabolism:
+
++-----------------------+-----------------------------------------+-------------------------------+
+|                       | **Morphine**                            | **Oxycodone**                 |
++=======================+=========================================+===============================+
+| Organ                 | Liver                                   | Liver                         |
++-----------------------+-----------------------------------------+-------------------------------+
+| Mode                  | Phase 2(less affected in liver failure) | Phase 1 then 2                |
++-----------------------+-----------------------------------------+-------------------------------+
+| Clearance (mL/kg/min) | 16                                      | 13                            |
++-----------------------+-----------------------------------------+-------------------------------+
+| t~1/2~~β~ (mins)      | 170                                     | 200                           |
++-----------------------+-----------------------------------------+-------------------------------+
+| Metabolites           | (1) Morphine-3-glucuronide (60%)        | (1) 3A4 → noroxycodone (most) |
+|                       |     - Neurotoxic: seizures, confusion   | (2) 2D6 → oxymorphone (15%)   |
+|                       |     - Inactive as analgesic             |     - 14x analgesic potency   |
+|                       | (2) Morphine-6-glucuronide (10%)        | (3) 6α and 6β-oxycodol (10%)  |
+|                       |     - Active: 14x analgesic potency     | (4) Oxycodone-n-oxide         |
+|                       | (3) Normorphine (30%)                   |                               |
+|                       |     - Inactive                          |                               |
++-----------------------+-----------------------------------------+-------------------------------+
+
+#### Excretion:
+
++-------+--------------------------+-----------------------+
+|       | **Morphine**             | **Oxycodone**         |
++=======+==========================+=======================+
+| Route | Metabolites → urine\*    | Metabolites → urine\* |
+|       |                          |                       |
+|       | Minimal morphine → urine | 10% oxycodone → urine |
++-------+--------------------------+-----------------------+
+
+\*Renal failure results in accumulation of active metabolites for both drugs, and oxycodone itself

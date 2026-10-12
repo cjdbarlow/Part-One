@@ -1,0 +1,86 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008B Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Detail**]{.task-verb} the protective and regulatory roles of the liver.
+:::
+
+Also asked in: [2012B Question 14](/content/exams/anzca/2012/B/14/index.qmd#examiner-comments), [2015A Question 3](/content/exams/anzca/2015/A/3/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Detail**]{.task-verb} or [**outline**]{.task-verb} protective and regulatory roles in separate sections. Explain the liver’s position between portal and systemic circulation, connecting immune and detoxifying processes to protection and metabolic control to nutrient levels and other homeostatic functions.
+
+::: {.structure-headings}
+### Portal Interface and Protective Role
+
+### Innate and Adaptive Immune Functions
+
+### Detoxification and Drug Handling
+
+### Glucose and Macronutrient Regulation
+
+### Protein, Blood Volume and Other Regulatory Functions
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**32%** of candidates passed this question.
+
+This question required a description of the liver as the interface between the gut and the body, and as a result of this, its role in protection from organisms and toxins and regulation of nutrient levels.
+
+The protective role is primarily related to the removal of bacteria, endotoxins, and protein denaturation. This is primarily undertaken by the Kupffer Cells which are in the hepatic sinusoids. The action of these macrophages is an example of innate immunity. Following their activation a series of events follows including phagocytosis, completment activation, and recruitment of other cells.
+
+The primary regulatory role of the liver is as a glucostat i.e. responding to both high and low blood glucose levels being presented to it by the portal circulation. Detail on how the liver achieves this balance was needed. Some candidates were confused about the action of insulin and glucacon in these processes.
+
+Bonus marks were also awarded for the following as examples of protection: toxin/drug modification, production of acute phase proteins, complement and urea, action as a blood reservoir, and of regulation production of albumen in regulating oncotic pressure, bile in regulating fat and fat soluble vitamin absorption, bilirubin metabolism, hormone inactivation and production of both coagulation and anticoagulation proteins.
+
+Listing all liver functions did not address the question, which asked for detail on a limited area of liver function. Some candidates focussed on minor details while missing the big picture such as failing to mention blood glucose regulation or any protective roles.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2008/B/12/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2008/B/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Liver function](/content/git/liver_function.qmd)

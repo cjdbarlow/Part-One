@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2017B Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Draw and explain**]{.task-verb} the characteristics of a quantal dose-response curve that describes the major clinical effect of rocuronium. [**Outline**]{.task-verb} medications and medical conditions that may cause the curve to shift to the left or right.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Draw and explain**]{.task-verb} a labelled population dose–response curve with a defined binary endpoint. Distinguish the population endpoint from twitch reduction in an individual, then [**outline**]{.task-verb} each modifying factor with its direction of shift and mechanism.
+
+::: {.structure-headings}
+### Labelled Quantal Curve and Binary Endpoint
+
+### Rocuronium Effect and Population Response
+
+### Interpretation of Effective Doses
+
+### Factors Shifting the Curve Left
+
+### Factors Shifting the Curve Right
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**68.9%** of candidates achieved a pass in this question
+
+This was a question of two parts attracting roughly equal marks each. The first part required drawing a quantal dose response curve for Rocuronium with correctly labelled axes and description of the various phases. To score well in this section it was necessary to demonstrate understanding that a quantal dose response curve refers to a population, measures a binary endpoint and what this endpoint is in the case of neuromuscular blockers. The fact that ED95 when discussing neuromuscular blockers is in fact the ED50 of 95% twitch reduction in a population was explained by the better scoring candidates.
+
+The second part of the question required an outline of factors which shift the curve to the left or right. To score marks it was necessary to define for each factor the direction in which the curve shifted. Candidates are reminded that some factors which affect the duration of action of neuromuscular blockers do not necessarily affect the dose response curve.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/B/13/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Dose–response curves](/content/pharmacology/dose_response.qmd)
+- [Non-depolarising neuromuscular blockers](/content/pharmacopoeia/msk/non_depolarising_nmbs.qmd)

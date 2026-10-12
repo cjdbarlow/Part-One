@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014B Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly outline**]{.task-verb} the acute management of malignant hyperthermia (during a relaxant general anaesthetic). [**Describe**]{.task-verb} the important aspects of dantrolene pharmacology relevant to treating malignant hyperthermia.
+:::
+
+Also asked in: [2007A Question 6](/content/exams/anzca/2007/A/6/index.qmd#examiner-comments), [2011B Question 7](/content/exams/anzca/2011/B/7/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly outline**]{.task-verb} the immediate management, then [**describe**]{.task-verb} dantrolene pharmacology relevant to that management. Give the two parts equal space.
+
+::: {.structure-headings}
+### Acute Management: Triggers, Oxygenation, Dantrolene and Cooling
+
+### Supportive Treatment and Complications
+
+### Dantrolene: Presentation and Administration
+
+### Dantrolene: Kinetics, Action, Adverse Effects and Interactions
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**28%** of candidates achieved a pass in this question
+
+There were two parts of equal importance to this question. The main points expected for acute management of malignant hyperthermia included: calling for help, early administration of dantrolene with the correct dose, active cooling, cessation of trigger agents, strategies to avoid awareness and hyperventilation with 100% oxygen. Marks were also awarded for mention of systemic supportive therapy and treatment of metabolic acidosis, arrhythmias, hyperkalaemia, myoglobinuria and coagulopathy. The relevant pharmacology of dantrolene required details of drug presentation including diluent, t1/2 and importance of such, metabolism, mechanism of action and rate of onset. Additional marks were given for recognising effect on mortality, specificity for skeletal muscle, side effects and important interactions. Common mistakes included vague statements, repetition of information in the two sections and incorrect information. No marks were awarded for definitions of malignant hyperthermia, description of genetic basis, details of excitation-contraction coupling or post acute management/follow-up testing. Statements regarding pathophysiology only attracted marks if a clear link was made to management or drug action.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2007/A/6/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/A/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Dantrolene](/content/pharmacopoeia/msk/dantrolene.qmd)
+- [Inhalational anaesthetic agents](/content/pharmacopoeia/neuro/inhalational_anaesthetics.qmd)

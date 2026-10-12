@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000B Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Write short notes**]{.task-verb} on factors affecting the speed of onset and duration of local anaesthetics when used to produce peripheral nerve block.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Write short notes**]{.task-verb} under **Drug Factors** and **Patient Factors**, separating effects on **Onset** from effects on **Duration**. Relate physicochemical properties, formulation and site of administration to the direction of each effect.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**54%** of candidates passed this question. In order to achieve a pass, the following factors should have been mentioned:
+
+Drug factors
+
+- pKa and its effect on non-ionised fraction
+- lipid solubility and its effect on potency (and therefore dose) and protein binding
+- concentration and volume administered
+- intrinsic vasoconstrictor properties
+- effect of local and distant metabolism
+- effect of additives
+
+Patient factors
+
+- site of administration including its vascularity
+- structure and function of nerve
+- pH of tissues
+
+Candidates were awarded more marks if they used the Fick equation to illustrate some of the principles, if they used examples with numbers, such as a comparison between lignocaine and bupivacaine, and if they mentioned other patient factors such as pregnancy or electrolyte disturbance. High marks were achieved if the candidates addressed some of the complexities, such as that relating to the effect of lipid solubility on the onset of action.
+
+Common mistakes included listing the factors which influence onset and duration without describing the actual direction of effect, confusing tissue binding with plasma protein binding, and the use of trade names instead of generic names.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Local Anaesthetics](/content/pharmacopoeia/neuro/local_anaesthetic_principles.qmd)

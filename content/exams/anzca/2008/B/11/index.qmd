@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008B Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Write brief notes**]{.task-verb} on the physiological changes associated with sleep.
+:::
+
+Also asked in: [2005A Question 10](/content/exams/anzca/2005/A/10/index.qmd#examiner-comments), [2014B Question 15](/content/exams/anzca/2014/B/15/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Write brief notes**]{.task-verb} under the following headings, comparing NREM and REM sleep and relating the changes to their physiological mechanisms.
+
+::: {.structure-headings}
+### Definition, Purpose and Sleep Architecture
+
+### Stages and EEG Changes
+
+### Respiratory Changes
+
+### Cardiovascular, Temperature, Muscle and Metabolic Changes
+
+### Neural Control and Effects of Sleep Deprivation
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**39%** of candidates passed this question.
+
+A definition of sleep, an indication of the components of sleep and their duration followed by a brief notation of the physiological changes occurring in the neurological, cardiovascular, respiratory and metabolic systems was rewarded with a good pass. Additional detail, particularly in regard to the neurological changes, was rewarded with additional marks.
+
+Sleep is a *NECESSARY REVERSIBLE* reduction in the conscious state from which one can be easily *AROUSED* by sensory or other stimuli. The most common reason for not passing this question was a poor definition (or no definition at all) and simply not notating an adequate number of physiological changes. The most common error was to correctly state that parasympathetic tone predominates during sleep only to then state that gut motility was reduced. Quite a few answers lacked any structure what so ever.
+
+Credit was not given for descriptions of physiological compensatory mechanisms, such as for reduced venous return or determinants of GFR.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2005/A/10/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2005/A/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Sleep](/content/neuro/sleep.qmd)

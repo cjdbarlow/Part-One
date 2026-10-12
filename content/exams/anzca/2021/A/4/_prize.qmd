@@ -1,0 +1,144 @@
+#### List:
+
+- Intro
+- Determinants
+- SVR
+- PVR
+
+#### Intro:
+
++---------------+----------------------------------------------------------------------------------------------+
+| Definition    | - Sum of the factors contributing to total ventricular wall tension during systolic ejection |
+|               | - Determined primarily by vascular resistance in health                                      |
++---------------+----------------------------------------------------------------------------------------------+
+| Equations     | - Global tension = (pressure x radius)/2                                                     |
+|               | - Individual fibre tension: ∝ 1/ (wall thickness)                                            |
+|               | - Resistance = (8 x length x viscosity) / π x radius^4^)                                     |
++---------------+----------------------------------------------------------------------------------------------+
+| Left vs right | - SVR is high (9-20 Wood units)                                                              |
+|               |   - High pressure circuit facilitates selective distribution                                 |
+|               |   - Flow distribution determined by metabolic activity and SNS                               |
+|               | - PVR is low (0.25-2 Wood units)                                                             |
+|               |   - Low pressure circuit minimizes transudation, preserves gas exchange                      |
+|               |   - Flow distribution determined mostly by gravity and HPV                                   |
+|               | - Many factors cause differential effects:                                                   |
+|               |   - ↑temp, ↓O~2~, ↑CO~2~, ↓pH, ↑histamine, ↑bradykinin (↓SVR, ↑PVR)                          |
+|               |   - IPPV (↓LV afterload, ↑RV afterload)                                                      |
+|               | - Ventricular adaptation:                                                                    |
+|               |   - ↑↑SVR → thick-walled LV copes well                                                       |
+|               |   - ↑↑PVR → thin-walled RV copes poorly                                                      |
++---------------+----------------------------------------------------------------------------------------------+
+
+#### Determinants:
+
++----------+----------------------------------------------------------------+
+| Cardiac  | **Inflow tract:**                                              |
+|          |                                                                |
+|          | - AV valve regurgitation (MR, TR) → ↓AL                        |
+|          |                                                                |
+|          | **Ventricle:**                                                 |
+|          |                                                                |
+|          | - ↑Wall thickness (e.g. AS, PHTN) → ↓load on individual fibres |
+|          | - ↑Cavity radius (e.g. cardiomyopathy) → ↑AL                   |
+|          |                                                                |
+|          | **Outflow tract:**                                             |
+|          |                                                                |
+|          | - ↓Radius (AS, PS, HCM) → ↑AL                                  |
++----------+----------------------------------------------------------------+
+| Vascular | - Resistance: see SVR and PVR                                  |
+|          |   - Factors increasing resistance:                             |
+|          |     - ↓Radius (power 4, hence most important factor)           |
+|          |     - ↑Viscosity (↑Hct, ↑temp, ↓flow rate)                     |
+|          |     - ↑Length (rarely important)                               |
+|          | - Compliance: e.g. atherosclerosis → ↓Windkessel effect → ↑AL  |
++----------+----------------------------------------------------------------+
+| Thoracic | - Intrathoracic pressure: e.g. IPPV →                          |
+|          |   - ↓LV afterload (↓transmural pressure)                       |
+|          |   - ↑RV afterload (↑SVR)                                       |
++----------+----------------------------------------------------------------+
+
+#### SVR:
+
++-----------+---------------------------------------------------+
+| Physical  | *External compression → ↓r*                       |
+|           |                                                   |
+|           | - Intra-abdominal pressure: e.g. pneumoperitoneum |
+|           | - Cross-clamp or tourniquet                       |
++-----------+---------------------------------------------------+
+| Metabolic | *Hyperactivity → ↑r*                              |
+|           |                                                   |
+|           | - ↑Temp                                           |
+|           | - ↓O~2~                                           |
+|           | - ↑CO~2~                                          |
+|           | - ↓pH                                             |
+|           | - ↑Lactate                                        |
+|           |                                                   |
+|           | *Examples:*                                       |
+|           |                                                   |
+|           | - Exercise (muscle)                               |
+|           | - Pregnancy (uterus/placenta)                     |
+|           | - Simple obesity                                  |
+|           | - Sepsis                                          |
++-----------+---------------------------------------------------+
+| Autonomic | *Mechanisms:*                                     |
+|           |                                                   |
+|           | - Neural NAd → α~1~ →↓r                           |
+|           | - Hormonal Ad → β~2~ → ↑r                         |
+|           |                                                   |
+|           | *Examples:*                                       |
+|           |                                                   |
+|           | - Pain                                            |
+|           | - Anxiety                                         |
+|           | - Exercise (↓r in gut, skin, ↑r in muscle)        |
++-----------+---------------------------------------------------+
+| Local     | - Dilators: e.g. histamine, bradykinin, NO        |
+|           | - Constrictors: e.g. TXA~2~, 5HT                  |
++-----------+---------------------------------------------------+
+
+#### PVR:
+
++------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Physical:**                                                                                                                                                                                     |
++------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| - Blood pressure       | ![](/content/exams/anzca/2021/A/4/prize-image001.jpg){fig-alt="Arterial and venous pulmonary vascular resistance against pulmonary blood pressure"}                      |
+|                        |                                                                                                                                                                          |
+|                        | - ↑PAP or ↑PVP → ↑radius                                                                                                                                                 |
+|                        |   - Recruitment of collapsed vessels (West zone 1                                                                                                                        |
+|                        |   - Distension of patent vessels (West zones 2, 3)                                                                                                                       |
++------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| - Alveolar pressure    | - IPPV, PEEP → ↑alveolar pressure → vessel collapse                                                                                                                      |
+|                        |   - ↑West Zone 1: where PA \> Pa \> Pv                                                                                                                                   |
+|                        |   - ↓Total vascular surface area                                                                                                                                         |
++------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| - Relative lung volume | ![](/content/exams/anzca/2021/A/4/prize-image002.jpg){fig-alt="Pulmonary vascular resistance against lung volume showing alveolar and extra-alveolar vessel components"} |
+|                        |                                                                                                                                                                          |
+|                        | - ↓Volume → ↓radial traction → compress extra-alveolar vessels                                                                                                           |
+|                        | - ↑Volume → alveolar distension → compress alveolar vessels                                                                                                              |
+|                        | - PVR lowest at FRC                                                                                                                                                      |
++------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Metabolic:**                                                                                                                                                                                    |
++------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| - O~2~                 | - i.e. hypoxic pulmonary vasoconstriction (HPV)                                                                                                                          |
+|                        | - Vasoconstriction ∝ 1 / (PAO~2~)                                                                                                                                        |
+|                        | - Serves to improve local V/Q matching                                                                                                                                   |
++------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| - CO~2~                | - ↑CO~2~ → ↓r                                                                                                                                                            |
++------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| - pH                   | - ↓pH →↓r                                                                                                                                                                |
++------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| - Temp                 | - ↓T → ↓r                                                                                                                                                                |
++------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Autonomic:**                                                                                                                                                                                    |
++------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| - SNS                  | - Neural NAd → α~1~ → ↓r                                                                                                                                                 |
+|                        | - Hormonal Ad → β~2~→ ↑r ACh → ↑r                                                                                                                                        |
++------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| - PSNS                 | - ACh → ↑NO release → ↑r                                                                                                                                                 |
++------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Local:**                                                                                                                                                                                        |
++------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| - Dilators             | - NO: ↑cGMP → activate MLCP, ↓Ca^2+^ influx, ↑K^+^ efflux                                                                                                                |
+|                        | - PGI~2~                                                                                                                                                                 |
++------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| - Constrictors         | - e.g. ET, TXA~2~, 5HT, histamine, bradykinin                                                                                                                            |
++------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+

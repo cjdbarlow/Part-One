@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999B Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the role of the kidneys in the regulation of body water.
+:::
+
+Also asked in: [2013B Question 5](/content/exams/anzca/2013/B/5/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} water handling along the nephron, connecting segmental permeability and solute transport to water reabsorption and final urine production.
+
+::: {.structure-headings}
+### Glomerular Filtration
+
+### Proximal Tubule
+
+### Loop of Henle and Medullary Gradient
+
+### Distal Nephron and Collecting Duct
+
+### Variable Urine Concentration and Volume
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**66%** of candidates passed this question. The difficulty in presenting the wide range of pertinent material that could be discussed meant that high marks were difficult to achieve.
+
+The key concept was that the kidney is usually the major effector of body water regulation based on the large renal blood flow and glomerular filtration and its capacity to excrete either dilute or concentrated urine in response to the requirements of maintenance of body water volume and osmolality. Most candidates focussed on either the details of renal tubular handling of water, or on how the kidneys function in relation to the body's sensors of intravascular volume and osmolality and how the hypothalamus has a key role in integrating this process. Either approach done well, with reference to the importance of regulation of urine volume and osmolality achieved a pass.
+
+Discussion on other sites of water loss and their potential for regulation compared with the kidneys and the effect of various situations which may disturb the kidney's ability to perform its role in regulation of body water were included by some candidates. If integrated with discussion of the kidney's role in body water regulation, these were also considered pertinent material.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/1999/B/4/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/B/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Sodium and water](/content/renal/sodium.qmd)
+- [Glomerular filtration](/content/renal/glomerular_filtration.qmd)
+- [Renal endocrine functions](/content/renal/endocrine.qmd)

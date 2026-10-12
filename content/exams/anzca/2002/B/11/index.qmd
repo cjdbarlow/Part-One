@@ -1,0 +1,66 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002B Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the factors that determine coronary vascular resistance.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} **Metabolic Regulation**, **Extravascular Compression**, **Autonomic Control**, and **Myogenic Regulation**. Relate vessel calibre and resistance to myocardial oxygen demand and the systolic–diastolic pattern of coronary flow.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**65%** of candidates passed this question.
+
+The main points expected were a clear understanding of the link between myocardial oxygen utilisation and blood flow, as well as the effect of systolic extravascular compression of coronary blood vessels, and the role of the autonomic nervous system in controlling coronary vascular tone. Inclusion of the myogenic mechanisms that regulate coronary vascular resistance to maintain flow across a range of perfusion pressures gained extra marks, as did mention of the putative mechanisms involved in metabolic regulation. Additional marks were also gained by illustrating the differences between right and left ventricular systolic and diastolic flow patterns.
+
+Some candidates began the answer with an explanation of Ohm's Law, but then were unclear about the relationship of flow to pressure, as determined by the coronary vascular resistance. Many also began with Poiseuille's equation, but did not follow this with a clear explanation of the major role of vessel radius as the primary determinant of resistance. Mention of blood viscosity as a determinant increased the score if included in a relevant context.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Coronary Circulation](/content/cvs/coronary_circulation.qmd)

@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010B Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the physical principles of ultrasound imaging.
+:::
+
+Also asked in: [2002B Question 14](/content/exams/anzca/2002/B/14/index.qmd#examiner-comments), [2007B Question 11](/content/exams/anzca/2007/B/11/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} the sequence from electrical signal and piezoelectric emission to tissue interaction, reception and image formation. Relate frequency, impedance, attenuation, resolution and Doppler shift to the resulting image.
+
+::: {.structure-headings}
+### Ultrasound Waves and Equations
+
+### Piezoelectric Transducer and Pulse Generation
+
+### Tissue Interactions and Echo Reception
+
+### Image Formation and Resolution
+
+### Doppler Principle and Equation
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**57%** of candidates passed this question.
+
+Important points to include were a description and explanation of the principles from initial signal formation to tissue effects to signal reception to image formation. This should cover both standard imaging and Doppler ultrasound. Better answers explained the Doppler effect and the implications of the Doppler equation
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2002/B/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Ultrasound](/content/equipment/ultrasound.qmd)

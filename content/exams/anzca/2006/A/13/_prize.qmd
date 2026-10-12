@@ -1,0 +1,67 @@
+#### List:
+
+- Definitions
+- Factors affecting metabolic rate
+
+#### Definitions:
+
++----------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Metabolic rate       | - Amount of energy consumed by the body per unit time                                                                                        |
++----------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Basal metabolic rate | - Amount of energy consumed by the body per unit time when at mental and physical rest, at a thermoneutral temperature, after a 12 hour fast |
+|                      | - 3-4mL/kg/min oxygen                                                                                                                        |
+|                      | - Approx 8MJ/day                                                                                                                             |
++----------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Factors affecting metabolic rate:
+
++---------------------+-------------------------------------------------------------------------------------+
+| Physical factors    | - Body surface area ∝ heat loss rate ∝ MR                                           |
+|                     | - Lean mass ∝ MR (accounts for most of it)                                          |
+|                     |   - ↑with athletic training                                                         |
+|                     |   - ↓with malnutrition                                                              |
++---------------------+-------------------------------------------------------------------------------------+
+| Activity            | - Physical exercise: ↑MR up to 20x (↑ATP consumption; note large and variable)      |
+|                     | - Mental stress, anxiety: ↑catecholamine release                                    |
++---------------------+-------------------------------------------------------------------------------------+
+| Eating              | - Specific dynamic action of food – especially deamination of protein               |
+|                     | - Protein 20-30%, alcohol 20%, carbohydrate 5-10%, fat 0-5%                         |
+|                     | - Lasts \~6 hours                                                                   |
++---------------------+-------------------------------------------------------------------------------------+
+| Core temperature    | - Core temp ∝ rate of enzymatic reactions ∝ MR (↑1°C → ↑MR 7%)                      |
+|                     | - ↑T: sepsis, malignant hyperthermia                                                |
+|                     | - ↓T: cold exposure, hypothermic circulatory arrest                                 |
++---------------------+-------------------------------------------------------------------------------------+
+| Ambient temperature | - MR minimized in thermoneutral zone                                                |
+|                     |   - 18-22°C clothed adult                                                           |
+|                     |   - 26-30°C naked adult                                                             |
+|                     |   - 32-34°C neonate                                                                 |
++---------------------+-------------------------------------------------------------------------------------+
+| Active heat loss    | (Cause: ↑core temp or ↑ambient temp)                                                |
+|                     |                                                                                     |
+|                     | - Sweating (active glandular secretion)                                             |
++---------------------+-------------------------------------------------------------------------------------+
+| Active heat gain    | (Cause: ↓core temp or ↓ambient temp)                                                |
+|                     |                                                                                     |
+|                     | - Shivering: ↑MR 2-3x                                                               |
+|                     | - Brown fat oxidation in neonates ↑MR 2-3x                                          |
+|                     |   - β~3~ adrenoceptor activation                                                    |
+|                     |   - Insertion of uncoupling protein into inner membrane                             |
+|                     |   - Production of heat without ATP synthesis                                        |
+|                     | - Calorigenic effects of catecholamines on liver and skeletal muscle                |
++---------------------+-------------------------------------------------------------------------------------+
+| Hormones            | - ↑Thyroid hormones → ↑Na^+^K^+^ATPase activity → ↑MR                               |
+|                     | - ↑Catecholamines → ↑cardiac work, calorigenic effects on liver and skeletal muscle |
++---------------------+-------------------------------------------------------------------------------------+
+| Special physiology  | - Neonate: ↑MR 2x (↑ratio surface area : mass)                                      |
+|                     | - Elderly: ↓MR (mainly ∝ lean mass)                                                 |
+|                     | - Pregnant: ↑MR 1.2x (foetal growth/maintenance, ↑cardiac and resp work)            |
+|                     | - Lactate: ↑MR 1.2x                                                                 |
++---------------------+-------------------------------------------------------------------------------------+
+| Anaesthesia         | - Immobility, inhibition of shivering → ↓muscle activity → ↓MR                      |
+|                     | - ↓CMRO~2~ to minimum 40% of normal                                                 |
++---------------------+-------------------------------------------------------------------------------------+
+| Disease             | - Sepsis → ↑rate enzymatic reactions                                                |
+|                     | - Malignant hyperthermia → ↑↑Skeletal muscle Ca^2+^ → ↑MR                           |
+|                     | - Fracture, wound healing, burns → immune response, ↑protein requirement            |
++---------------------+-------------------------------------------------------------------------------------+

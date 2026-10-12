@@ -1,0 +1,43 @@
+#### List:
+
+- Graph
+- Reasons for difference
+- Effect of physiological changes as described
+
+#### Graph:
+
+![](/content/exams/anzca/2019/A/9/prize-image001.jpg){fig-alt="Alveolar-to-inspired wash-in ratios over 30 minutes for nitrous oxide, desflurane and sevoflurane"}
+
+#### Reasons for difference:
+
++-------------------------------------+----------------------------------------------------------------------------------------------------+
+| Blood-gas partition coefficient     | - ↓BGPC → ↓solubility in blood → rate of saturation → ↑rate of rise F~A~/F~I~                      |
+|                                     | - i.e. des 0.42 \> N~2~O 0.47 \> sevo 0.69                                                         |
++-------------------------------------+----------------------------------------------------------------------------------------------------+
+| Tissue-blood partition coefficients | - ↓TBPC → ↓uptake in tissues → ↑height of shoulder of curve → ↑rate of rise F~A~/F~I~              |
+|                                     | - i.e. N~2~O \> des \> sevo                                                                        |
++-------------------------------------+----------------------------------------------------------------------------------------------------+
+| Minimum alveolar concentration      | - ↓Potency → ↑safe inspired concentration → ↑rate of delivery to alveoli → ↑rate of rise F~A~/F~I~ |
+|                                     | - Analogous to the Bowman principle                                                                |
+|                                     | - N~2~O 105% \> des 6.6% \> sevo 2%                                                                |
++-------------------------------------+----------------------------------------------------------------------------------------------------+
+| Concentration effect                | - Occurs with high volume carrier gas (e.g. N~2~O)                                                 |
+|                                     | - N~2~O is \~30x more soluble than N~2~ (BGPC 0.47 cf. 0.014)                                      |
+|                                     | - Hence rate of N~2~O uptake \>\> rate of N~2~ output                                              |
+|                                     | - Rapid N~2~O uptake → ↓alveolar pressure → ↑rate of delivery to alveoli → ↑rate of rise F~A~/F~I~ |
++-------------------------------------+----------------------------------------------------------------------------------------------------+
+
+#### Changes:
+
++----------+-------------------------------------------------------------------------------------------+
+| 2 x V~A~ | - Hence 2x ratio V~A~:FRC                                                                 |
+|          | - ↑Rate of delivery to alveoli → ↑rate of rise F~A~/F~I~                                  |
+|          | - More effect on soluble agents (sevo \> N~2~O \> des)                                    |
+|          | - N.B. desflurane irritant to airway → ↓V~A~ → ↓rate of rise F~A~/F~I~\                   |
+|          |   (avoided for gas induction)                                                             |
+|          | - N.B. N~2~O causes less respiratory depression → ↑V~A~ → ↑rate of rise F~A~/F~I~         |
++----------+-------------------------------------------------------------------------------------------+
+| 2 x CO   | - ↑Rate of drug uptake; but also                                                          |
+|          | - ↑Rate of distribution → ↓rate of rise venous partial pressure → ↓rate of rise F~A~/F~I~ |
+|          | - More effect on soluble agents (sevo \> N~2~O \> des)                                    |
++----------+-------------------------------------------------------------------------------------------+

@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013B Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**What are**]{.task-verb} the potential side effects of propofol and its formulations?
+:::
+
+Also asked in: [2009B Question 2](/content/exams/anzca/2009/B/2/index.qmd#examiner-comments), [2014A Question 1](/content/exams/anzca/2014/A/1/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**What are**]{.task-verb} the side effects? Organise propofol’s effects by body system, then address effects related to the components of its formulations.
+
+::: {.structure-headings}
+### Cardiovascular Effects
+
+### Respiratory Effects
+
+### Central Nervous System and Other Effects
+
+### Propofol Infusion Syndrome
+
+### Formulation-Related Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**57.3%** of candidates achieved a pass in this question
+
+A good system for answering this question would have been to discuss the side effects according to body system. It should be noted that some side effects of propofol are desirable for anaesthesia, but in the use of propofol as an agent for sedation are significant side effects and should therefore be discussed.
+
+Generally, the cardiovascular and respiratory side effects were well discussed. Side effects on other body systems were less well answered.
+
+The question specifically asked for formulations. As such side effects related to the different components of formulations gained marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2009/B/2/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2009/B/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Propofol](/content/pharmacopoeia/neuro/propofol.qmd)
+- [Drug additives](/content/pharmacology/additives.qmd)

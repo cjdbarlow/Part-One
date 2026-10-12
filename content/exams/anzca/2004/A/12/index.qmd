@@ -1,0 +1,115 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004A Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**What are**]{.task-verb} the physiological consequences of decreasing functional residual capacity by one litre in an adult?
+:::
+
+Also asked in: [2001A Question 8](/content/exams/anzca/2001/A/8/index.qmd#examiner-comments), [2015A Question 9](/content/exams/anzca/2015/A/9/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+Explain [**what**]{.task-verb} the consequences are by linking a one-litre reduction to the starting lung volume. Relate the new volume to closing capacity, oxygen stores, compliance, airway resistance and pulmonary vascular resistance, using labelled graphs where helpful.
+
+::: {.structure-headings}
+### Starting Volume and Significance of One Litre
+
+### Oxygen Reservoir and Desaturation
+
+### Closing Capacity, Shunt and Gas Exchange
+
+### Compliance and Work of Breathing
+
+### Airway and Pulmonary Vascular Resistance
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**50%** of candidates passed this question.
+
+This question was last asked in March 2001.
+
+As described then, to achieve a pass, candidates were expected to cover the majority of the following points:
+
+- Some definition of FRC, being:
+    - The equilibrium point of the lung & chest wall, or
+    - The lung volume at the end of a normal tidal breath, or
+    - Residual volume + Expiratory reserve volume
+- An approximate normal value: FRC ≈ 2.2L, or 30mL/kg.
+- FRC will fall below closing volume, resulting in:
+    - Airway/alveolar closing with atelectasis
+    - An increase in V/Q mismatch, shunt and arterial hypoxaemia
+    - Increased work of breathing to open airways/alveoli
+- A decrease in lung compliance.
+- An increase in airways resistance
+- Increased work of breathing.
+- Increased pulmonary vascular resistance.
+- Decreased store of oxygen.
+
+Additional marks were attained for the following:
+
+- Quantification of “one litre” as a significant (~40-50%) decrease.
+- Increased work of breathing being multifactorial:
+    - ↓ compliance, and
+    - ↑airways resistance, and
+    - critical opening pressure for collapsed alveoli
+- Decreased O~2~ store →
+    - Increased breath-to-breath variation in PaO~2~
+    - Increased risk of hypoxaemia during induction of anaesthesia
+- Increased pulmonary vascular resistance → ↑ RV work
+- Graphs indicating effect of changing volume/FRC on:
+    - Compliance
+    - Airways resistance
+    - Pulmonary vascular resistance
+
+Many candidates duplicated material, first listing the functions of FRC in-depth, and then listing the consequences of a decrease. While making a short list is a useful aid, repeating several pages of text gains no additional marks and wastes valuable time. Some candidates wasted time writing about the measurement of FRC, the respiratory changes in pregnancy, which were not asked. Vague answers, such as “may result in ABG deficits” are not considered sufficient in detail.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2001/A/8/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2001/A/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Lung volumes and capacities](/content/resp/volumes_capacities.qmd)
+- [Compliance](/content/resp/compliance.qmd)
+- [Airway resistance](/content/resp/resistance.qmd)

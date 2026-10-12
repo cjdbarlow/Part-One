@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006B Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the hormones that regulate tubular reabsorption and [**describe**]{.task-verb} their action and site of action.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} the principal hormones and [**describe**]{.task-verb} their precise tubular sites, mechanisms and effects. Use a table and distinguish direct tubular actions from important indirect effects.
+
+::: {.structure-headings}
+### Angiotensin II
+
+### Aldosterone
+
+### Antidiuretic Hormone
+
+### Atrial Natriuretic Peptide
+
+### Parathyroid Hormone and Other Relevant Hormones
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**81 %** of candidates passed this question.
+
+The five principal hormones of relevance to tubular re-absorption are; Angiotensin II, Aldosterone, ADH, ANP and Parathyroid Hormone. These are hormones affecting the absorption or excretion of Na+, H2O, Ca ++ and K+. In addition to listing these hormones, marks were awarded for clearly stating the action and precisely stating the site and mechanism of action. Many direct effects were relevant but indirect effects were also rewarded where they played a major part in these hormones’ actions on tubular re-absorption.
+
+The style of the question suited a highly structured answer. The candidates who used lists, headings, subheadings, space and columns were able to get many marks with relatively little writing. This style of answer was easy to understand. Many candidates wrote a lot about the processes involved in the release of these hormones which was not asked for and received no marks. Extra-renal effects were not rewarded e.g. effects of Angiotension II and ADH on systems vasculature. Likewise effects on non-tubular parts of the nephron e.g. renal bloodflow and glomerular filtration were often not relevant. Some candidates forgot Parathyroid Hormone and calcium re-absorption.
+
+Overall though, most candidates had a thorough knowledge of the topic, were able to communicate effectively and many good marks were awarded.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2006/B/11/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Renal endocrine function](/content/renal/endocrine.qmd)
+- [Sodium handling](/content/renal/sodium.qmd)

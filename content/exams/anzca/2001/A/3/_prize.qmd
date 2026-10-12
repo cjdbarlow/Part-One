@@ -1,0 +1,40 @@
+(NOTE: currently used device is the solid-state ion-sensitive field-effect transistor)
+
+#### List:
+
+- pH
+- Electrode: diagramme, components, how it works, sources of error
+
+#### pH:
+
++------------+------------------------------------------------------------------------------------+
+| Definition | - ‘Potenz H^+^’                                                                    |
+|            | - = -log~10~(\[H^+^\] x a)     (where a is the activity)                           |
++------------+------------------------------------------------------------------------------------+
+| Importance | - Macro: preservation of protein function (enzymes, ion channels, etc.)            |
+|            | - Micro: trapping of metabolic intermediates in ICF and preservation of ICF volume |
++------------+------------------------------------------------------------------------------------+
+
+#### pH electrode:
+
++------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Diagramme        | ![](/content/exams/anzca/2001/A/3/prize-image001.jpg){fig-alt="Blood pH electrode circuit showing reference and measuring electrodes, pH-sensitive glass, buffer, voltmeter and temperature sensor"}  |
++------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Components       | - Two half cells                                                                                                                                                                                      |
+|                  |   - Ag/AgCl measuring electrode, buffer solution at ph 7                                                                                                                                              |
+|                  |   - Hg/HgCl reference electrode, saturated KCl solution                                                                                                                                               |
+|                  | - pH-sensitive glass membranes between each cell and the blood (contains Li^+^ and Cl^-^)                                                                                                             |
+|                  | - Sample chamber                                                                                                                                                                                      |
+|                  | - Voltmeter and amplifier                                                                                                                                                                             |
++------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| How it works     | - Addition of blood to sample chamber completes the circuit                                                                                                                                           |
+|                  | - H^+^ unable to pass through glass but changes polarity                                                                                                                                              |
+|                  | - ↓pH in KCl solution                                                                                                                                                                                 |
+|                  | - ↔pH in buffer solution (by definition)                                                                                                                                                              |
+|                  | - Potential difference generated, but no current                                                                                                                                                      |
+|                  | - Calibrated with two phosphate solutions of known pH                                                                                                                                                 |
++------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Sources of error | - ↓Temp → ↓H~2~O dissociation → ↑pH (0.015 per 1°C – Rosenthal’s equation)                                                                                                                            |
+|                  |   - FIX: temperature sensor                                                                                                                                                                           |
+|                  | - Damaged to glass, other                                                                                                                                                                             |
++------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+

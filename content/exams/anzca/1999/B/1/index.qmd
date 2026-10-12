@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999B Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**How does**]{.task-verb} a fall in temperature influence blood gas solubility and acid base values?
+:::
+
+Also asked in: [2013A Question 13](/content/exams/anzca/2013/A/13/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+Explain **[how]{.task-verb}** temperature influences these values by linking reduced kinetic energy to solubility, partial pressure and acid–base changes.
+
+::: {.structure-headings}
+### Temperature, Kinetic Energy and Henry’s Law
+
+### Gas Content, Solubility and Partial Pressure
+
+### Dissociation, Hydrogen Ions and pH
+
+### Blood Gas Interpretation: Alpha-Stat and pH-Stat
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**28%** of candidates passed this question. This question was asked in the March/April examination in 1998, and most of the Examiner's comments from that time apply to this 1999 exam. When temperature is lowered, the solubility of a gas in a liquid increases, since the decreased kinetic energy of the gas particles reduces the partial pressure exerted by a given amount of the gas in the solution. When in equilibrium with a liquid/gas interface, a larger amount of gas will be dissolved at a lower temperature, hence the solubility is greater. Henry's Law defines the proportional relationship of amount of gas in solution, to its partial pressure. The solubility coefficient is inversely proportional to temperature (Ostwald) or defined at a fixed temperature (Bunsen). There was considerable confusion about the basic physical principles involved, in particular concerning Henry's Law. Effects of temperature on haemoglobin/oxygen affinity were also mentioned, and were generally well understood by candidates.
+
+pH increases as temperature falls, due to decreased ionic disassociation. The increase in pH in blood follows closely the change seen in neutral water. Decreased temperature also affects pH, which was generally overlooked by candidates when attempting to apply the Henderson-Hasselbach equation to explain this effect. Alpha-stat and pH-stat strategies of blood gas interpretation were again often misunderstood.
+
+Candidates need to remember that this is primarily an examination of physical and physiological principles, often in the context of patient management, rather than of pathophysiology.
+
+Refer to Nunn, Blitt & Hines, and Scurr & Feldman.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/1999/B/1/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/B/1/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Acid–base principles](/content/acid_base/principles.qmd)
+- [Temperature](/content/metabolic/temperature.qmd)
+- [Blood gas measurement](/content/equipment/blood_gas.qmd)
+- [Gas laws](/content/laws.qmd)

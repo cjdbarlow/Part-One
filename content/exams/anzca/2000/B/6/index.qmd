@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000B Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly outline**]{.task-verb} the physiological control of intraocular pressure.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly outline**]{.task-verb} the normal pressure and its physiological purpose, then organise its determinants by the variable volumes within the globe and the forces acting on it.
+
+::: {.structure-headings}
+### Normal Pressure, Function and Compliance
+
+### Aqueous Humour Production and Drainage
+
+### Intraocular Blood Volume
+
+### Vitreous Humour and External Forces
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**30%** percent of candidates passed this question. Intraocular pressure depends on the production and drainage of aqueous humour and the volume of blood within the globe, particularly in choroidal vessels. Small changes in these compartments with variable volume can have major effects on intraocular pressure, as the globe has relatively low compliance. Contraction of muscles external to the globe also may cause a rise in intraocular pressure.
+
+Description of the normal mechanisms of production and drainage of aqueous humour and the causes of changes in intraocular blood volume were expected. Additional marks were awarded for commenting on the physiological importance of maintaining intraocular pressure (to maintain the optical properties of the cornea), for briefly mentioning pharmacological and pathological causes of abnormalities, and the problems associated with excessive intraocular pressure.
+
+The anatomy of the eye (and physiology of aqueous flow) was a frequent source of error. The terms “orbit” and “globe”, the anterior and posterior chambers, the aqueous and vitreous humours, the position of the canal of Schlemm, and the mechanism of the potential adverse effects of mydriasis on aqueous drainage were often incorrect. Although there is a relationship between intracranial pressure and intraocular pressure, it was not adequate to state that the factors would be the same and focus the answer on factors effecting intracranial pressure.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2000/B/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Intraocular pressure](/content/neuro/iop.qmd)

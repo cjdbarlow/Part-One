@@ -1,0 +1,64 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005B Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the therapeutic and unwanted effects of dexamethasone.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Therapeutic Effects** and **Unwanted Effects**, distinguishing **Short-Term** from **Long-Term Use**. Relate anti-inflammatory and immunosuppressive effects to the indication and consider suppression of endogenous steroid function.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**67 %** of candidates passed this question.
+
+The question required candidates to describe the effects, but most simply gave a list of apparently random effects of the drug. The anti-inflammatory and immunosuppressive effects were often not well covered and the fact that these could be either therapeutic or unwanted depending on the indication for the drug usually overlooked. Many candidates failed to distinguish adequately between the side effects of long and short term use and few mentioned the need for replacement therapy in patients who have recently been on the drug.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Corticosteroids](/content/pharmacopoeia/resp/corticosteroids.qmd)

@@ -1,0 +1,86 @@
+#### List:
+
+- Intro
+- Chemical factors
+- Mechanical factors
+- Increased metabolic rate
+- Other
+
+#### Intro:
+
+- Respiratory rate (RR) controlled by medullary respiratory centre
+- ↑Afferents → ↑rate of discharge of pre-Botzinger pacemaker cells → ↑rate of efferents to respiratory muscles → ↑RR
+- Afferents may have synergistic effects
+
+#### Chemical factors (most important):
+
++---------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Peripheral chemoreceptors | - Carotid bodies (sensitive to ↑PaCO~2~, ↓PaO~2~, ↓pH)                                                                                       |
+|                           | - Aortic bodies (sensitive to ↑PaCO~2~, ↓PaCO~2~)                                                                                            |
+|                           | - Stimulus → K^+^ channel closure → afferent via CNIX Hering’s nerves (carotid) and CNX (aortic)                                             |
+|                           | - 5x faster than central – for rapid control                                                                                                 |
+|                           | - Stimuli are synergistic with each other                                                                                                    |
+|                           | - PaO~2~ important only if low (especially \<50mmHg)                                                                                         |
+|                           | - ↑PaCO~2~ 1mmHg → ↑minute ventilation 2-3L/min                                                                                              |
++---------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Central chemoreceptors    | - Ventral medulla                                                                                                                            |
+|                           | - Stimuli: ↑PaCO~2~, CNS acidosis                                                                                                            |
+|                           | - CO~2~ crosses blood-brain barrier, dissociates into H^+^ and HCO~3~^-^ (carbonic anhydrase), decreases pH in CSF and brain ECF → ↑afferent |
+|                           | - 4x more powerful than peripheral                                                                                                           |
+|                           | - Most important factor normally                                                                                                             |
++---------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Mechanical factors:
+
++------------------------------------------+---------------------------------------------------------------------------------------------------+
+| Baroreceptors                            | - Aortic sinus and carotid sinuses                                                                |
+|                                          | - Stretch-activated mechanoreceptors                                                              |
+|                                          | - ↓mAP → ↓inhibitory afferent to medulla → indirect stimulation of resp centre                    |
++------------------------------------------+---------------------------------------------------------------------------------------------------+
+| Pulmonary J receptors                    | - Stretch/irritation → ↑afferent via general visceral afferent, spinomedullary tract              |
+|                                          | - Important in dyspnoea induced by acute pulmonary oedema                                         |
++------------------------------------------+---------------------------------------------------------------------------------------------------+
+| Airway smooth muscle                     | - Tidal volume \>1L → ↑↑Stretch → ↑afferent to resp centre → transient ↓RR (Hering Breuer reflex) |
++------------------------------------------+---------------------------------------------------------------------------------------------------+
+| Joint and skeletal muscle proprioceptors | - ↑Limb motion → ↑Abeta afferent via spinomedullary tract → unknown mechanism                     |
++------------------------------------------+---------------------------------------------------------------------------------------------------+
+
+#### Increased metabolic rate:
+
++---------------------------------+---------------------------------------------------------------------------------------+
+| Common mechanism                | - ↑Metabolic rate (MR) → ↑VCO~2~ → ↑PaCO~2~ → ↑RR                                     |
++---------------------------------+---------------------------------------------------------------------------------------+
+| Neonate                         | - ↑MR 2x (VO~2~ 7-8mL/min/kg)                                                         |
+|                                 | - RR \~40                                                                             |
+|                                 |                                                                                       |
+|                                 | (WOB minimized at high RR due to low total compliance)                                |
++---------------------------------+---------------------------------------------------------------------------------------+
+| Pregnant                        | - ↑MR 1.2x (VO~2~ 300mL/min)                                                          |
+|                                 | - RR 16-20                                                                            |
+|                                 | - ↑Lean mass, ↑cardiac and respiratory work                                           |
+|                                 | - Progesterone also sensitises respiratory centre → compensated respiratory alkalosis |
++---------------------------------+---------------------------------------------------------------------------------------+
+| Hypermetabolic disease          | - ↑Thyroid                                                                            |
+|                                 | - Sepsis                                                                              |
+|                                 | - Malignant hyperthermia                                                              |
++---------------------------------+---------------------------------------------------------------------------------------+
+| Specific dynamic action of food | - Mostly due to protein deamination and transamination                                |
++---------------------------------+---------------------------------------------------------------------------------------+
+
+#### Other:
+
++------------------+-----------------------------------------------------------+
+| Central cause    | - Anxiety                                                 |
+|                  | - Stress                                                  |
+|                  | - Pain                                                    |
+|                  | - Voluntary control                                       |
+|                  | - Exact mechanisms unknown                                |
++------------------+-----------------------------------------------------------+
+| Exercise-induced | - Cause unknown                                           |
+|                  | - Moderate exercise:                                      |
+|                  |   - ?↑Activity of descending pathway at onset of exercise |
+|                  |   - ?↑PaO~2~ oscillation during ventilatory cycle         |
+|                  | - Exhaustive exercise:                                    |
+|                  |   - ↑H^+^                                                 |
+|                  |   - ↓ PaO~2~ via chemoreceptors                           |
++------------------+-----------------------------------------------------------+

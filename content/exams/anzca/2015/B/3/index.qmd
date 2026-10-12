@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015B Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**What affect**]{.task-verb} does placing a patient in the right lateral position have on lung ventilation and perfusion?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+Explain [**what**]{.task-verb} the effects of the position are by comparing the dependent right lung with the non-dependent left lung. Link the change in gravitational pressure gradient to ventilation, perfusion, compliance and matching, keeping spontaneous breathing distinct from anaesthesia.
+
+::: {.structure-table}
+| Feature | Right Lung | Left Lung |
+|---|---|---|
+| Ventilation | | |
+| Perfusion | | |
+| Compliance and Lung Volume | | |
+| West Zones and Ventilation–Perfusion Matching | | |
+| Changes During Anaesthesia | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**9.1 %** of candidates achieved a pass in this question
+
+The question assumed that the person is breathing spontaneously with the right side down. Candidates needed to discuss changes to ventilation, perfusion, compliance, and FRC in both lungs. These were best considered using separate heading. Perfusion and ventilation are both increased to the dependent lung by about 10%, with better V/Q matching as well. There is increased compliance in the dependent lung as the lung tissue is less expanded. The dependent lung corresponds more to west zone three, the non-dependent to west zone two.
+
+Extra marks were awarded for: increased ventilation to the nondependent lung in anaesthetised/paralysed people, changes with open chest, hypoxic pulmonary vasoconstriction, blood gas changes, time constants, and more detailed information on the main points.
+
+Many candidates spent a lot of time detailing V/Q relationships and west zones in the upright position, without relating this to the lateral position, making it difficult to gain marks. There was some confusion over what side was dependent in the right lateral position. Marks were not awarded for details of one lung ventilation, positioning of double lumen tubes, surgical indications, risks/description of the right lateral position, and detailed descriptions of dead-space and shunt.
+
+Other issues were: failure to relate the answer to the right or left lung, being imprecise when talking about compliance changes, repeating the same point multiple times, and that healthy people become hypoxic lying on their right side. Finally endoscopy is generally not performed in the right lateral position.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2015/B/3/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2015/B/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Ventilation–perfusion relationships](/content/resp/vq_basics.qmd)
+- [Compliance](/content/resp/compliance.qmd)

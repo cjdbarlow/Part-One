@@ -1,0 +1,62 @@
+#### List:
+
+- Intro
+- Enzyme abnormality (sux apnoea)
+- Enzyme deficiency (phys, path)
+- Enzyme inhibition (drug)
+
+#### Intro:
+
+- Usual dose 1mg/kg
+- Usual offset 5-10 mins due to high capacity butyrylchoineterase (BChE)
+- Two stage metabolism to choline and succinic acid
+
+#### BChE abnormality (sux apnoea):
+
++------------+---------------------------------------------------------------+
+| Genetics   | - Two copies                                                  |
+|            | - Four alleles:                                               |
+|            |   - Normal (N)                                                |
+|            |   - Dibucaine-resistance (DR)                                 |
+|            |   - Chloride-resistant (CR)                                   |
+|            |   - Absent (A)                                                |
+|            |                                                               |
+|            |   Alleles   \% population   Dibucaine number   Duration       |
+|            |   --------- --------------- ------------------ ------------   |
+|            |   N-N       96%             80                 5-10mins       |
+|            |   N-DR      \<4%            60                 15-30mins      |
+|            |   DR-DR     0.03%           20                 8-12 hours     |
++------------+---------------------------------------------------------------+
+| Test       | - Patient’s plasma + dibucaine + 10^-5^ benzylcholine         |
+|            | - Dibucaine number = % inhibition of benzylcholine metabolism |
+|            | - Normal-normal → 80% inhibition (as above)                   |
++------------+---------------------------------------------------------------+
+| Management | - If no reversal after 30 mins                                |
+|            | - Prolonged ventilation and sedation in ICU                   |
+|            | - Monitor with nerve stimulator                               |
+|            | - +/- FFP                                                     |
++------------+---------------------------------------------------------------+
+
+#### BChE deficiency (rarely significant):
+
++----------------------+-----------------------------------------------------------+
+| Physiological causes | - Neonate → ↓production                                   |
+|                      | - Pregnancy → ↑ECF water → same amount but ↓concentration |
++----------------------+-----------------------------------------------------------+
+| Pathological causes  | - Heart failure                                           |
+|                      | - Liver failure                                           |
+|                      | - Renal failure                                           |
+|                      | - Thyrotoxicosis                                          |
+|                      | - Cancer                                                  |
++----------------------+-----------------------------------------------------------+
+
+#### BChE inhibition (rarely significant):
+
+- Acetylcholinesterase inhibitors e.g. neostigmine
+- Metoclopramide
+- Ketamine
+- Oral contraceptive
+- Lithium
+- Lignocaine
+- Ester local anaesthetics
+- Cyclophosphamide

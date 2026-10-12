@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009A Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**What is**]{.task-verb} the Frank-Starling mechanism and [**describe**]{.task-verb} its relationship to excitation contraction coupling
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+Define the Frank–Starling mechanism with labelled curves, then [**describe**]{.task-verb} how initial sarcomere length changes force through cross-bridge interactions and myofilament calcium sensitivity. Distinguish movement along a curve from changes in contractility.
+
+::: {.structure-headings}
+### Definition and Intrinsic Regulation
+
+### Graphical Representation
+
+### Sarcomere Length and Cross-Bridge Interactions
+
+### Calcium Sensitivity and Force
+
+### Venous Return, Afterload and Heart Rate
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**21%** of candidates passed this question.
+
+Main points expected for a pass included: definition and graphical representation (with alternative axes) of Frank Starling law; a statement of the concept of this being an intrinsic ability of the heart to adapt to increasing volumes of venous return; optimal length of sarcomere; and, demonstration of sliding filament theory and effect of initial fibre length on actin-myosin cross-bridging. Additional marks were allocated for mention of: there being a family of curves; increased calcium sensitivity of stretched myofilaments; questionable effect of excessive stretching in cardiac muscle; and, effect of increased afterload or decreased heart rate upon myocardial stretch and response.
+
+Mistakes commonly made included: misinterpreting the question and giving irrelevant detail regarding action potential transmission and calcium release within the myofibril; using the terms contractility and force of contraction interchangeably; and, poor legibility of key words. Credit was not given for vague, non-directional statements of effect of muscle length, nor for statement that stretch causes increased release of calcium.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2009/A/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Determinants of cardiac output](/content/cvs/co_determinants.qmd)

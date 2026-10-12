@@ -1,0 +1,51 @@
+Sevoflurane is a volatile anaesthetic with:
+
+- MAC 2
+- Low Blood:Gas partition coefficient 0.69 
+- Relatively low solubility oil:gas partition coefficient 43 
+
+These properties result in a relatively rapid wash in/ washout kinetics for general anaesthesia.
+
+Sevoflurane uptake/distribution can be modelled by the main distribution compartments, their capacity and their approximate time to reach equilibration are:
+
+1. Vessel rich (Brain)- low capacity - 5min
+2. Lean/Muscle - moderate capacity - 2.5 hours 
+3. Fat - High Capacity - 2 days 
+
+Washout of inhalation anaesthetic agent is dependent on establishing and maintaining a decreasing concentration gradient from compartment → blood → alveolus → circuit.  
+
+Washout is a multi-exponential process graphed by FA/FA0 curve 
+
+After 2 hours of Sevoflurane anaesthesia the decrement times are:
+
+60% \~3min
+
+80% \~5min
+
+90% \~15min
+
+92% \~30min
+
+![](/content/exams/anzca/2014/A/9/standard-image5.png){fig-alt="Sevoflurane washout curve showing alveolar fraction relative to its initial value, with distribution and terminal elimination phases"}
+
+Phases:
+
+1.  **Rapid washout of agent from Circuit and FRC**
+
+
+    - Circuit wash out dependant on FGF and circuit volume, t=CV/FGF
+    - FRC washout dependant on MV and FRC volume t=FRC/MV
+
+
+2.  **Washout from blood to alveolus:**
+
+    ↑CO → lower ΔP across alveolar membrane → slower washout
+
+    ↓Blood:gas partition coefficient →↑ agent ΔP across alveolar membrane → Rapid washout
+
+3.  **Washout form Compartments → Blood**
+
+
+    - Duration of Anaesthesia: ↑ Duration →↑uptake into body compartments → slower washout
+    - Final end-tidal partial pressure of agent: ↑final concentration → increased tissue concentration → slower washout 
+    - O:G partition coefficient: Highly lipid soluble agents with have will have an increased amount of drug dissolved in tissue, so a large reservoir of drug exists that will have to be removed.

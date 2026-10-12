@@ -1,0 +1,23 @@
+![](/content/exams/anzca/2019/B/12/standard-image43.png){fig-alt="Oxygen and carbon dioxide blood content against partial pressure with arterial and venous points"}
+
+Normal values:
+
+                  **Oxygen**   **Carbon dioxide**
+  --------------- ------------ --------------------
+  Pa (mmHg)       100          40
+  Ca (mL/100mL)   20           48
+  Pv (mmHg)       40           46
+  Cv (mL/100mL)   15           52
+
+Curve comparison:
+
++-------+-----------------------------------------------------+----------------------------------+
+|       | **Oxygen **                                         | **Carbon dioxide**               |
++=======+=====================================================+==================================+
+| Shape | Sigmoid (law of mass action + co-operative binding) | Linear                           |
++-------+-----------------------------------------------------+----------------------------------+
+| Slope | Shallower                                           | Steeper                          |
+|       |                                                     |                                  |
+|       | - Large a-v difference in pO~2~                     | - Small a-v difference in pCO~2~ |
+|       | - Large ↓PaO~2~ in shunt                            | - Small ↑PaCO~2~ in shunt        |
++-------+-----------------------------------------------------+----------------------------------+

@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019A Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Draw**]{.task-verb}, on a single graph, wash-in curves for the first half hour of administration of 70% nitrous oxide, 6% desflurane and 2% sevoflurane. [**Explain**]{.task-verb} why the curves are different for each agent (80%). [**Describe and explain**]{.task-verb} the effect on these curves with a) a doubling of alveolar ventilation and b) a doubling of cardiac output. (20%)
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Draw**]{.task-verb} the three specified curves on labelled time and alveolar-to-inspired ratio axes for the first half hour. [**Explain**]{.task-verb} their differences through delivery and uptake, then [**describe and explain**]{.task-verb} the effects of changing ventilation and cardiac output.
+
+::: {.structure-headings}
+### Single Graph With the Three Specified Agents
+
+### Delivery Versus Uptake
+
+### Blood–Gas and Tissue–Blood Solubility
+
+### Concentration Effect
+
+### Doubling Ventilation and Cardiac Output
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**26%** of candidates achieved a pass in this question
+
+Main points expected included a correctly reproduced graph with accurate incremental labelling of axes for time and F~A~/F~I~. This should have been accompanied by an explanation of the shape of the curves and the reasons for differences: delivery versus uptake; concept of blood-gas partition coefficients; and concentration effect, thereby addressing the effects of physical characteristics and pharmacokinetics of the drugs. This was best achieved by taking a pharmacokinetic approach as opposed to a drug by drug description which was often repetitive and lacking the required explanation. The third part of the question required demonstration of understanding through effects of altered physiological conditions on the wash-in of these agents. Additional credit was given for demonstrating higher level understanding
+
+No credit was given for details of drug structure, mechanism of action or clinical use, explanations of the MAC concept, graphs including other agents or wash-out, nor for explanation of the second-gas effect.
+
+Common mistakes included: omitting increments on the axes; sloppy rendering of the curves so that phases of wash-in were not apparent; and inaccurate values for blood-gas partition coefficients. The concept of uptake with respect to partial pressures, blood concentrations and how these relate to FA/FI was poorly explained. Fick’s law was frequently & unnecessarily invoked. Incorrect reasons for the effect of doubling cardiac output were common.
+
+Many candidates simply used arrows to their detriment when an explanation might have more accurately conveyed their understanding. Similarly, imprecise terminology can alter meaning to misunderstanding; the terms wash-in, onset, uptake and delivery appeared to be used interchangeably.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2019/A/9/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2019/A/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational anaesthetic kinetics](/content/pharmacopoeia/neuro/inhalational_anaesthetics.qmd)

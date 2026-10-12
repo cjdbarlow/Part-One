@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005A Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Classify**]{.task-verb} anti-emetic drugs. [**Give examples**]{.task-verb} and [**describe**]{.task-verb} side effects of each class.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Classify**]{.task-verb} anti-emetic drugs by receptor or chemical group in a table. [**Give examples**]{.task-verb} and [**describe**]{.task-verb} the common or serious side effects of each class.
+
+::: {.structure-table}
+| Class | Examples | Side Effects |
+|---|---|---|
+| Antidopaminergic | | |
+| Antihistamine | | |
+| Anticholinergic | | |
+| Antiserotonergic | | |
+| Other Classes | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**65 %** of candidates passed this question.
+
+The main points expected to pass this question were:
+
+- A classification of anti-emetic drugs either by the site of action and/or chemical grouping
+- One or more examples of each group
+- The more common or serious side effects of each drug or group of drugs
+
+Most answers outlined the pathways and neurotransmitters involved in vomiting. This helped logically structure the answer although could not be given additional marks unless it was part of a classification. Some attempted to classify the drugs according a central or peripheral site of action, which led to confusion, repetition and omission of important drugs. The more conventional classification according to the receptors involved, e.g. antidopaminergic, antihistamine, anticholinergic, antiserotinergic, unknown, allowed a better answer.
+
+Further description of chemical groupings is desirable and attracted marks. A common mistake was to attribute an antiemetic action to pro-kinetic agents such as cisapride. There was confusion over which drugs are associated with prolonged QT. Antiserotinergic agents are rarely associated with prolonged QT. Droperidol is associated with prolonged QT (but usually in high doses) having a black box warning by the FDA. In contrast, the other antidopaminergic agents do not have this association.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Antiemetics](/content/pharmacopoeia/git/antiemetics.qmd)

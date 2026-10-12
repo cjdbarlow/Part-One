@@ -1,0 +1,58 @@
+Glucocorticoids are steroid hormones the act on intracellular receipts to alter protein production from DNA.  The primary endogenous glucocorticoid is cortisol produced in the Zona Fasciculata of the adrenal cortex. 
+
+Cortisol is released in a diurnal pattern and regulated by CRH→ACTH release in the hypothalamus and pituitary. It’s also released in response to stress and hypoglycaemia. 
+
+Exogenous glucocorticoids include hydrocortisone, prednisolone and dexamethasone. 
+
+Physiological effects of glucocorticoids include:
+
+**Metabolism**:
+
+Overall ↑plasma glucose, lipid and ketone body levels 
+
+- Inhibition of glucose uptake in the muscle and adipose tissue 
+- Increases glycogenolysis 
+- Stimulates gluconeogenesis, particularly in the liver 
+  - Proteolysis/Mobilisation of amino acids from extra hepatic substrates for gluconeogenesis 
+  - Lipolysis and mobilisation of free fatty acids as energy source for muscle and glycerol for gluconeogenesis 
+  - **Muscle:**
+
+> ↑ Amino Acid release / proteolysis → myopathy
+
+**Catecholamine:**
+
+- Increased sensitivity to cardiovascular effects of catecholamines ↑SVR ↑CO
+- Increased sensitivity to respiratory effects of catecholamines → bronchodilation
+
+**Renal**:
+
+- Increases GFR through afferent arteriole dilation  
+- In excess → increase in water and sodium retention and potassium excretion 
+
+**Immune and Inflammation:**
+
+Overall immunosuppressive and anti-inflammatory 
+
+Suppress arachanoic acid pathway → ↓prostacyclin, leukotrienes
+
+↓T Cell function and development 
+
+↑ risk of infection 
+
+**Haematological:**
+
+- ↑RBC, platelet 
+- ↓lymphocytes 
+
+**CNS**
+
+- Mood changes, irritability, sleep disturbance
+
+**Endocrine**
+
+- Negative feedback → decrease ACTH/Cortisol release 
+- Increased sensitivity to circulating catecholamines particularly in vascular and bronchial smooth muscle 
+
+**Foetal:**
+
+Accelerate maturation of surfactant production in lung

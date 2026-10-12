@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2020A Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the time course between an intravenous injection of a general anaesthetic agent to loss of consciousness. [**Explain**]{.task-verb} the delay using pharmacokinetic principles.
+:::
+
+Also asked in: [2010A Question 4](/content/exams/anzca/2010/A/4/index.qmd#examiner-comments), [2015A Question 12](/content/exams/anzca/2015/A/12/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the sequence from injection to threshold effect-site concentration and [**explain**]{.task-verb} the delay at each stage. Pair plasma and effect-site concentration curves with compartment modelling, delivery, diffusion and equilibration principles.
+
+::: {.structure-headings}
+### Injection and Central Concentration
+
+### Circulation and Delivery to the Brain
+
+### Diffusion and Effect-Site Equilibration
+
+### Threshold Concentration and Loss of Consciousness
+
+### Drug and Patient Factors
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The question had two parts, one asking about the time course between an intravenous injection of anaesthetic agent to loss of consciousness, the other asking to use pharmacokinetic principles.
+
+The domains covered were the concept of the effect site and determining ke0, factors which contribute to the change in plasma concentration over time, diffusion and to a lesser extent effect site changes that result in loss of consciousness (e.g receptor binding, activation and change of resting membrane potential)
+
+Many candidates simply stated Fick’s law of diffusion and discussed the factors responsible for a drug moving across a plasma membrane with no mention of pharmacokinetic principles. A description of the role of the effect site equilibration rate constant (ke0) and equilibrium half-life (t1/2ke0) in the delay in onset was expected. Candidates mentioned ke0 with a brief definition but very few were able to give explanations about what drug factor altered the constant or how differing intravenous agents differ in their equilibrium half-life that lead to different onset times. Those who could, generally did very well. Discussions about absorption were superfluous for an intravenous agent. Likewise lengthy discussions about metabolism when discussing time to loss of consciousness were unnecessary.
+
+A good reference is provided in: Pharmacology and physiology for Anesthesia. Hemmings and Egan. Chapter 2
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2010/A/4/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2010/A/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Intravenous kinetics](/content/pharmacology/iv_kinetics.qmd)
+- [Kinetic models](/content/pharmacology/kinetic_models.qmd)

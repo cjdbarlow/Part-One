@@ -1,0 +1,86 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012B Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Compare and contrast**]{.task-verb} propofol and sevoflurane for maintenance of anaesthesia with respect to kinetics, cardiovascular and central nervous system effects.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Compare and contrast**]{.task-verb} the agents during maintenance in parallel columns. Give kinetics, cardiovascular effects and central nervous system effects balanced coverage, explaining the clinical meaning of numerical differences and duration-dependent offset.
+
+::: {.structure-table}
+| Feature | Propofol | Sevoflurane | Clinical Implication |
+|---|---|---|---|
+| Kinetics and Decrement Times | | | |
+| Distribution, Metabolism and Accumulation | | | |
+| Cardiovascular Effects | | | |
+| Central Nervous System Effects | | | |
+| Cerebral Metabolism, Flow and Pressure | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**22 %** of candidates passed this question.
+
+There are three parts to the question. Candidates who did not address all areas rarely passed. Note that the question specifically refers to maintenance rather than onset on anaesthesia. A comparison of the drugs was required; separate essays lost marks. It is important to show understanding of what figures mean, rather than just quoting lists of numbers. Vague statements such as, “Propofol is metabolised in the liver”, did not attract marks. When using abbreviations, standard ones such as CNS do not require explanation. Non standard ones such as DD do.
+
+In terms of pharmacokinetics: Both drugs can be described using a three compartment model. When calculating offset of effect, redistribution of propofol is less important in an infusion than with a bolus dose. Propofol offset was often said to be faster than sevoflurane. It actually varies with the duration of anaesthesia. When attempting to turn over cases in the operating theatre, a half life of 40 minutes is not considered short. It should be remembered that it is the metabolites of the drugs, rather than the drugs themselves which are cleared renally.
+
+Many candidates believed that there is a negative feedback loop between end tidal concentration and minute volume in a spontaneously breathing patient. This is only true when using an in-circuit vaporiser.
+
+Other frequent mistakes were:
+
+- To compare sevoflurane with desflurane rather than propofol
+- To assume the blood gas coefficient equates to lipid solubility.
+- To mis-state the metabolites of sevoflurane, or to assume that Compound A is produced in the body.
+- To oversimplify the effect of sevoflurane on cerebral blood flow and ICP.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2012/B/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Propofol](/content/pharmacopoeia/neuro/propofol.qmd)
+- [Inhalational anaesthetic agents](/content/pharmacopoeia/neuro/inhalational_anaesthetic_agents.qmd)

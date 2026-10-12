@@ -1,0 +1,34 @@
+Circle breathing system = closed (or semi-closed) circuit used to delivery oxygen and anaesthetic gases, while eliminating carbon dioxide, which involves recirculation of patient’s respiratory gases 
+
+![](/content/exams/anzca/2015/A/1/standard-image10.png){fig-alt="Circle breathing system showing inspiratory and expiratory limbs, one-way valves, absorber, fresh gas inlet, APL valve and reservoir bag"}
+
+**Components of Circle System **
+
+- Fresh gas inflow – provides O2 to match O2 consumption; provides gas flow to wash out expired gas 
+- Inspiratory and expiratory tubing (usu. corrugated) – conducts gas flow 
+- Inspiratory and expiratory unidirectional valves – ensures unidirectional flow\
+  and prevents mixing of inspiratory and expiratory gases minimise rebreathing 
+- Wye connector – separates inspiratory and expiratory limbs 
+- Adjustable pressure limiting (APL) valve – prevents high pressures within the circuit; prevents patient subjected to high pressures 
+- Reservoir bag – stores gas between respiratory cycles, provides tactile feedback of respiration, enables circuit to be manually pressurised 
+- Carbon dioxide absorber – removes expired CO2 from circuit 
+- Other (non-essential) components of anaesthetic circle include
+  - ventilator 
+  - flow meters 
+  - vaporiser 
+  - out of circuit sampling line + gas analyser 
+  - heat and moisture exchanging filter 
+
+**Advantages and Disadvantages **
+
+**Advantages** 
+
+- constant inspired concentrations 
+- conserves heat and humidity 
+- allows low fresh gas flow rates 
+- rebreathing of anaesthetic gases reduces cost and pollution
+
+**Disadvantages** 
+
+- complex and prone to malfunction/leak
+- increase dead space

@@ -1,0 +1,74 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011B Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Compare and contrast**]{.task-verb} the clinically significant cardiovascular and central nervous system effects of desflurane and sevoflurane.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Compare and contrast**]{.task-verb} the agents in a table of clinically significant cardiovascular and central effects. Relate concentration to haemodynamic changes, cerebral blood flow, metabolism and autoregulation.
+
+::: {.structure-table}
+| Feature | Desflurane | Sevoflurane |
+|---|---|---|
+| Vascular Resistance and Blood Pressure | | |
+| Contractility and Cardiac Output | | |
+| Heart Rate and Conduction | | |
+| Cerebral Blood Flow and Metabolism | | |
+| Intracranial Pressure and Autoregulation | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**66%** of candidates passed this question.
+
+Most correctly appreciated the changes in systemic vascular resistance (SVR), myocardial contractility and consequent changes blood pressure due to sevoflurane and desflurane. Also changes in cerebral blood flow, cerebral metabolic rate and intracranial pressure were well understood. However a deeper level of understanding was not universal, a common error being that falls in SVR equates to a fall in cardiac output whereas this tends to be well maintained with these agents initially due to a preserved baroreceptor reflex. Also a loss of cerebral autoregulation at higher MAC values was not universally acknowledged. More than half recognised the effect of myocardial preconditioning which was awarded marks due to a broad definition of the term 'clinically significant'. Better answers correctly discussed differences without getting too bogged down as of course there is a remarkable similarity between the two agents. Only two candidates discussed the QT interval and none mentioned that impaired diastolic function is also a cause of a reduction in stroke volume.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational Anaesthetics](/content/pharmacopoeia/neuro/inhalational_anaesthetic_agents.qmd)

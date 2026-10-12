@@ -1,0 +1,100 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2020B Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} respiratory system compliance and [**outline**]{.task-verb} factors that affect it.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} compliance through its definition, pressure–volume relationships and lung and chest wall components, then [**outline**]{.task-verb} modifying factors with their direction and mechanism. Distinguish static from dynamic measurements and explain hysteresis and unequal time constants.
+
+::: {.structure-headings}
+### Definition, Units and Combined Compliance
+
+### Static and Dynamic Compliance
+
+### Pressure–Volume Curves and Hysteresis
+
+### Lung Compliance: Structure, Surface Tension and Volume
+
+### Chest Wall Compliance and Anaesthesia
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The main domains assessed in this question were:
+
+- Definition of compliance in context of respiratory physiology
+- Composition of compliance of respiratory system – chest wall and lung
+- Different types of compliance – static and dynamic
+- Factors that increase and decrease:
+  - Chest wall compliance
+  - Lung compliance
+
+  with appropriate explanation illustrating understanding of the topic
+
+Extra credit was given for:
+
+- Description of measurement method difference between static and dynamic compliances.
+- Explanation of hysteresis.
+- Correctly giving examples related to “slow” and “fast” alveoli and how they affect static and dynamic compliance.
+- Effect of anaesthesia on respiratory compliance.
+
+Common issues were:
+
+- Incorrect value and unit for respiratory compliance.
+- Compliance graphs (pressure-volume loop) were often used, but often incorrect.
+- Poor understanding of static/dynamic compliance and factors that affect them.
+- Factors affecting chest wall compliance were often missed.
+- Describing examples without indicating which direction they affect the compliance.
+- Misconception about relationship between some physiological/pathological state and the respiratory compliance (e.g. pregnancy, small airway disease)
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2020/B/3/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2020/B/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Compliance](/content/resp/compliance.qmd)
+- [Surfactant](/content/resp/surfactant.qmd)

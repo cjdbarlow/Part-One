@@ -1,0 +1,66 @@
+#### List:
+
+- Plasma proteins
+- Functions
+- Special groups
+
+#### Plasma proteins:
+
+- Total 65-70g/L
+- 40g/L albumin
+- 20g/L globulins
+- 3g/L fibrinogen
+- Small amount of others
+- Exchangeable pool with the tissues
+
+#### Functions:
+
++------------------+---------------------------------------------------------------------------------+
+| Oncotic pressure | - Normally 20-30mmHg                                                            |
+|                  | - 15mmHg plasma proteins, Albumin 80%                                           |
+|                  | - Enhanced 50% by Gibbs-Donnan effect (anionic protein attracts cationic Na^+^) |
++------------------+---------------------------------------------------------------------------------+
+| Buffering        | - Buffer (HA \<-\> H^+^ + A^-^)                                                 |
+|                  | - Imidazole groups on histidine residues. 13 per molecule average.              |
+|                  | - Important ECF buffer after HCO3- and Hb                                       |
++------------------+---------------------------------------------------------------------------------+
+| Coagulation      | - Procoag: produces most except calcium tissue factor, vWF                      |
+|                  | - Anticoag: produces all (?)                                                    |
+|                  | - Fibrinolysis: produces all (?)                                                |
++------------------+---------------------------------------------------------------------------------+
+| Transport        | - Ions: Ca^2+^ on albumin                                                       |
+|                  | - Heavy metals: Fe^2+^ as ferritin, Cu^2+^ with Caeruloplasmin                  |
+|                  | - Unconjugated bilirubin (albumin)                                              |
+|                  | - Haptoglobin (Hb)                                                              |
+|                  | - Acidic drugs – albumin (e.g. warfarin)                                        |
+|                  | - Basic drugs – α~1~ acid glycoprotein (AAG) (e.g. morphine)                    |
++------------------+---------------------------------------------------------------------------------+
+| Immune           | - Gamma globulins                                                               |
+|                  | - Complement                                                                    |
+|                  | - Cytokines                                                                     |
++------------------+---------------------------------------------------------------------------------+
+| Enzymes          | - Plasma cholinesterase: suxamethonium                                          |
+|                  | - Non-specific esterase: remifentanil                                           |
+|                  | - (RBC esterase: esmolol)                                                       |
++------------------+---------------------------------------------------------------------------------+
+| Fuel             | - Proteins → amino acid → oxidation                                             |
++------------------+---------------------------------------------------------------------------------+
+
+#### Special groups:
+
++--------------+---------------+
+| Neonate      | - ↓albumin    |
+|              | - ↓AAG        |
++--------------+---------------+
+| Pregnant     | - ↓albumin    |
+|              | - ↓AAG        |
+|              | - ↑fibrinogen |
++--------------+---------------+
+| Elderly      | - ↓albumin    |
+|              | - ↑AAG        |
++--------------+---------------+
+| Obese        | - ↑AAG        |
++--------------+---------------+
+| Malnourished | - ↓albumin    |
+|              | - ↓AAG        |
++--------------+---------------+

@@ -1,0 +1,55 @@
+#### List:
+
+- Synthesis
+- Nerve pathway
+- Nerve terminal
+- Receptor activity
+- MAOi effect
+
+#### Synthesis:
+
+![](/content/exams/anzca/2005/A/7/prize-image001.jpg){fig-alt="Catecholamine synthesis from phenylalanine to adrenaline with the enzymes at each step"}
+
+#### Nerve pathway:
+
+![](/content/exams/anzca/2005/A/7/prize-image002.jpg){fig-alt="Noradrenergic nerve pathway showing cholinergic synapses and the postganglionic noradrenaline terminal"}
+
+#### At the nerve terminal:
+
+- NAd synthesized
+- Transport into vesicles by vesicular monoamine transporter (VMAT)
+- Action potential → ↑Ca^2+^ influx via L-Ca^2+^ → exocytosis
+- Reuptake by norepinephrine transporter (NET)
+- Again transported into vesicles; or
+- Degradation by COMT to normetadrenaline; or
+- Degradation by COMT and MAO to vanillylmandelic acid\
+   (VMA)
+
+![](/content/exams/anzca/2005/A/7/prize-image003.jpg){fig-alt="Noradrenergic nerve terminal with storage vesicles, norepinephrine transporters and postsynaptic receptors"}
+
+#### Receptor activation:
+
++------+---------------------------------------------------------------+
+| β~1~ | - e.g. myocardium                                             |
+|      | - G~s~ G protein coupled receptor (GPCR)                      |
+|      | - ↑activity adenylyl cyclase → ↑cAMP → ↑activation PKA        |
+|      | - Phosphorylation of multiple targets                         |
++------+---------------------------------------------------------------+
+| β~2~ | - e.g. airway smooth muscle                                   |
+|      | - Gs GPCR                                                     |
+|      | - ↑activity adenylyl cyclase → ↑cAMP → ↓MLCK activity         |
++------+---------------------------------------------------------------+
+| α~1~ | - e.g. vascular smooth muscle                                 |
+|      | - G~q~ GPCR → ↑cleavage PIP~2~ → ↑IP~3~ and ↑Ca^2+^, and ↑DAG |
++------+---------------------------------------------------------------+
+
+#### MAOi interference:
+
++------------------------+-------------------------------------------------------------------------------------+
+| MAOi                   | - MAO-A: degrades mainly noradrenaline, serotonin, dopamine                         |
+|                        | - MAO-B: degrades mainly serotonin, tryptamine                                      |
+|                        | - Effect: ↑monoamines at nerve terminals                                            |
++------------------------+-------------------------------------------------------------------------------------+
+| MAOi drug interactions | - Indirect acting sympathomimetics e.g. ephedrine → ↑↑↑effect (hypertensive crisis) |
+|                        | - Serotonin reuptake inhibitors: ↑↑effect (serotonin syndrome)                      |
++------------------------+-------------------------------------------------------------------------------------+

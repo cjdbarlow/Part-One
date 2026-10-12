@@ -1,0 +1,42 @@
+- The cough Reflex is an important airway protective mechanism to clear secretions, and protect from aspiration of foreign material.
+- Involves deep inspiration followed by forced expiration against a closed glottis
+- The sudden opening of the cords causes a violent rush of air
+- During anaesthesia the reflex is usually required to be blunted to facilitate airway manipulation and ventilation 
+
+Mechanism:
+
+Cough Reflex arc
+
+1.  Afferent 
+
+    - Mechanical and chemical irritant receptors are located in the larynx, carina, terminal bronchioles, and alveoli
+    - Receptor stimulation —\> impulse carried along vagus nerve to the medulla to nucleus tractus solitarius (NTS)
+
+
+2.  Efferent Limb to effector muscles including the 
+
+    - Phrenic 
+    - Recurrent Laryngeal 
+    - Vagus
+
+Effector Mechanism 
+
+A series of processes occur in three phases:
+
+1.  Inspiratory phase
+
+
+    - A close to vital capacity breath is taken. Stretching expiratory muscles
+
+
+2.  Compressive 
+
+
+    - Effort closure of the epiglottis to seal the larynx, followed by a violent contraction of abdominal musculature and internal intercostals, causing a rapid rise in intrapleural pressure to \>100cmH20.
+
+
+3.  Expulsive phase
+
+
+    - Wide-opening of the cords and epiglottis, causing a violent expiration.
+      - Compression of the lungs causes narrowing of the non-cartilaginous airways and increases turbulent flow, removing adherent material from the tracheobronchial tree

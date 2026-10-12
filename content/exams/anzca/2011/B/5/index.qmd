@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011B Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the mechanism of action of protamine when used to reverse effects of heparin. [**Outline**]{.task-verb} the side-effects of protamine.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} binding and neutralisation, including relative doses, time course and incomplete reversal. [**Outline**]{.task-verb} haemostatic, cardiovascular, pulmonary and allergic adverse effects with their mechanisms.
+
+::: {.structure-headings}
+### Cationic Binding and Salt Complex Formation
+
+### Dose, Time Course and Extent of Reversal
+
+### Excess Dose and Heparin Rebound
+
+### Cardiovascular and Pulmonary Effects
+
+### Allergic Reactions
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**21%** of candidates passed this question.
+
+Candidates were required to describe the mechanism of a basic cationic binding protein combining with an acidic anionic compound to form a stable salt complex including some indication of relative doses required and the time course of the drugs actions. Higher marks were awarded for explanations of why excessive doses may cause hypocoagulability and the inconsistent reversal of Xa activity.
+
+Side effects which required outlining were not only that it causes allergy but the types of allergy caused and the side effects that would be observed because of it. Similarly hypotension either due to rapid infusion or IgE mediated effects, the problems of thromboxane mediated pulmonary oedema and pulmonary vasoconstriction and the phenomenon of heparin rebound attracted higher marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2011/B/5/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Anticoagulants](/content/pharmacopoeia/haeme/anticoagulants.qmd)

@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008A Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} how the kidney establishes the medullary concentrating gradient.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the medullary interstitial gradient with a labelled juxtamedullary nephron. Separate countercurrent multiplication, urea recycling and countercurrent exchange, explaining permeability and transport at each site.
+
+::: {.structure-headings}
+### Gradient and Juxtamedullary Anatomy
+
+### Countercurrent Multiplication
+
+### Urea Recycling and ADH
+
+### Vasa Recta Countercurrent Exchange
+
+### Integration and Maintenance
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**71%** of candidates passed this question. The main points that needed to be addressed for a pass include:
+
+1. the Loops of Henle with their water permeable descending part and water impermeable ascending part which actively removes solute from the tubule lumen - the counter current multiplier system
+2. the vasa recta which are parallel to the Loops of Henle and permeable to water and solute with low flow, which allows the gradient to be maintained - the counter current exchange mechanism
+3. the role of urea which is concentrated in the medulla by mechanisms which involve changes in permeability to urea in different regions of the tubules partly influenced by the effects of antidiuretic hormone.
+
+Areas which created problems for a number of candidates included (1) the fact that the medullary gradient refers to a gradient down the medulla in the interstitial fluid rather than between the tubules and the interstitium (2) The correct use and relevance of the terms “counter current exchange” and “counter current multiplier” (3) The role of urea (which is described with some differences in detail in the texts) was often overlooked (4) the details of which sections of the Loop of Henle were water permeable and which were not and where active solute resorption occurred.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2008/A/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Sodium handling](/content/renal/sodium.qmd)
+- [Renal blood flow](/content/renal/rbf.qmd)

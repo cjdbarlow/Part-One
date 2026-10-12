@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018B Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the normal physiological control of blood glucose in a nondiabetic adult.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} normal control around feeding and fasting, explaining glucose sensing, hormone release and tissue responses. Give insulin and glucagon the main emphasis, then account for other counter-regulatory influences.
+
+::: {.structure-headings}
+### Normal Range and Glucose Buffering
+
+### Insulin Release and Tissue Effects
+
+### Glucagon Release and Tissue Effects
+
+### Hormone Balance and Negative Feedback
+
+### Cortisol, Catecholamines and Growth Hormone
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**40%** of candidates achieved a pass in this question
+
+The basic requirement for an answer that scored well enough to gain an invitation to the vivas for this question required some detail on the mechanism of control of blood glucose levels via the interaction of insulin and glucagon. Some depth of detail of these effects were expected in order to pass.
+
+Those candidates who provided a more detailed view and included cortisol, the effect of the sympathetic nervous system and other scored better, as did those who included detail on basal rates of secretion and variations in the effective ratio of insulin and glucagon. No marks were awarded for discussing various pathologies and their effects on the control of blood glucose, as the question was specifically about control in the healthy patient.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2018/B/12/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2018/B/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Control of blood glucose](/content/endo/glucose.qmd)

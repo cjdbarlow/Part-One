@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2017A Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the physiological consequences of total spinal anaesthesia caused by intrathecal administration of 20ml of 2% lignocaine at the L3/4 level. (Do not include management)
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} effects by the extent of neural blockade and organ system. Relate sensory, motor and autonomic loss at spinal and brainstem levels to cardiovascular, respiratory and other consequences, including their time course.
+
+::: {.structure-headings}
+### Extent, Onset and Duration of Blockade
+
+### Spinal and Cranial Sensory and Motor Effects
+
+### Sympathetic Blockade and Cardiovascular Effects
+
+### Respiratory Muscles, Central Drive and Airway Reflexes
+
+### Thermoregulation and Other Consequences
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**29.2 %** of candidates achieved a pass in this question
+
+This question was best addressed with a systems-based approach. Marks were given for discussion of the onset, duration and offset of these side effects. Most candidates gave a description of the cardiovascular and respiratory consequences from sympathetic blockade, and effects at the thoracic, cervical and brainstem level. Frequently omitted effects included the consequences of specific blockade of motor and sensory functions of cranial and peripheral nervous systems. Marks were also awarded for CNS effects such as about pupil changes, thermoregulation, and changes to airway reflexes.
+
+Discussion about management, systemic toxicity or other complications related to spinal anaesthesia did not score marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2017/A/12/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2017/A/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neuraxial anaesthesia](/content/pharmacopoeia/neuro/neuraxial_blockade.qmd)
+- [Spinal anatomy](/content/neuro/spinal_anatomy.qmd)

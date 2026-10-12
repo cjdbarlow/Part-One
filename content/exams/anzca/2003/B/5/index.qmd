@@ -1,0 +1,72 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003B Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the pharmacological effects of paracetamol. [**Outline**]{.task-verb} its toxicity and management.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Pharmacological Effects**, then [**outline**]{.task-verb} **Toxicity Mechanisms**, **Clinical Toxicity**, and **Management**. Relate the management to the toxic process and its time course.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**86%** of candidates passed this question.
+
+Paracetamol is a commonly used drug in anaesthetic practise and the majority of candidates displayed a good understanding of the drug’s pharmacology and toxicity.
+
+All candidates noted the analgesic and anti-pyretic actions of the drug, and the fact that it has little or no anti-inflammatory activity. It is true that there is still some conjecture as to the exact mechanism of action of paracetamol, but pass marks were given for citing the usual explanation of central cyclo-oxygenase inhibition. Candidates who showed evidence of more extended reading and listed alternative theories such as COX-3 inhibition or inhibition of 5HT reuptake at the spinal cord level were given credit.
+
+With regard to the drug’s toxicity, all candidates had a basic understanding of the mechanisms involved in its adverse effects on the liver. Most were able to name the reactive intermediate produced (N-acetyl-p-benzoquinoneimine) although there were a number of inventive spellings.
+
+Hepatic toxicity was the main focus of most respondents, and extra marks were awarded to candidates who were able to list other (less common) adverse effects, such as allergic reactions, skin rash and renal impairment.
+
+Again the section on management of paracetamol toxicity was generally well handled with all candidates aware of the role of N-acetyl cysteine and the use of nomograms to predict the likelihood of liver damage. In this part, extra marks were awarded for those who remembered that simple strategies can, in some circumstances, be important in limiting paracetamol toxicity. Such interventions to reduce drug absorption include the administration of activated charcoal and gastric lavage.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Paracetamol](/content/pharmacopoeia/analgesics/paracetamol.qmd)

@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004B Question 16 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the physiological processes involved in the development of interstitial oedema.
+:::
+
+Also asked in: [2001B Question 8](/content/exams/anzca/2001/B/8/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} oedema as an imbalance between filtration and lymphatic removal. Use Starling variables to organise mechanisms and explain how rising interstitial pressure limits further accumulation.
+
+::: {.structure-headings}
+### Definition and Fluid Balance
+
+### Hydrostatic and Oncotic Pressure Changes
+
+### Permeability, Surface Area and Reflection Coefficient
+
+### Lymphatic Drainage
+
+### Interstitial Changes Limiting Oedema
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**76%** of candidates passed this question.
+
+The main points were: the variables contributing to Starling forces, lymphatics, and mechanisms changing these variables. Amongst others, these mechanisms included decreased arteriolar tone, increased venous tone, and increased permeability and surface area.
+
+Additional points were definitions of oedema and the interstial space, and that as oedema develops changes in the interstitial Starling variables limit the formation of oedema.
+
+This was an applied physiology question; the most common omission was discussion of how Starling forces contribute to oedema rather than the normal balance of the forces and many candidates repeated information or discussed the consequences of oedema rather than the development of oedema.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2001/B/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Starling forces](/content/cvs/starling_forces.qmd)

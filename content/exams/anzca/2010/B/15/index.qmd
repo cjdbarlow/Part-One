@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010B Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the role of haemoglobin as a buffer.
+:::
+
+Also asked in: [2003A Question 9](/content/exams/anzca/2003/A/9/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} buffering using haemoglobin amount, histidine imidazole groups and their pKa. Trace carbon dioxide reactions within the red cell and explain why deoxygenated haemoglobin buffers better where hydrogen ions are generated.
+
+::: {.structure-headings}
+### Buffer Definition and Requirements
+
+### Haemoglobin Structure, Amount and Histidine Groups
+
+### Carbon Dioxide Reactions in Red Cells
+
+### Hydrogen Ion Binding and Bicarbonate Transport
+
+### Deoxygenation, pKa and Venous pH
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question has been asked previously and this time the pass rate was **27%**.
+
+Marks were awarded for a buffer definition, a brief description of haemoglobin structure, and listing the factors that create an effective buffer. Haemoglobin acts as an effective buffer for CO~2~ due to the solubility of CO~2~ , presence of carbonic anhydrase, and the capacity of haemoglobin.
+
+Important points that needed to be covered included; the importance of the large volume of haemoglobin, the role and amount of the imidazole side chains on the histidine residues, the effect that their pKa (6.8) has on buffering ability, and a clear description of the reactions within the red cell that involves CO~2~ conversion to HCO~3~^-^ and H^+^ and the fate of these two products. Discussion about why the deoxy form of haemoglobin is a better buffer due to it’s change in pKa (7.9), and that this occurs where buffering is needed most, which limits the pH drop for venous blood. Some candidates correctly identified that the dissociation of carbamino compounds within the red cell adds H^+^ which then needs to be buffered.
+
+Discussing the haemoglobin oxygen dissociation curve, carbon dioxide dissociation curve, and other buffers in the body did not attract marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2003/A/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Carbon dioxide transport](/content/resp/co2_transport.qmd)
+- [Acid–base regulation](/content/renal/acid_base.qmd)
+- [Erythrocytes](/content/haeme/erythrocytes.qmd)

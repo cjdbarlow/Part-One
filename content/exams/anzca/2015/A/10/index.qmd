@@ -1,0 +1,86 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015A Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the physiological changes that may explain why an otherwise well patient may have a reduced urinary output intraoperatively.
+:::
+
+Also asked in: [2011B Question 15](/content/exams/anzca/2011/B/15/index.qmd#examiner-comments), [2015B Question 8](/content/exams/anzca/2015/B/8/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} physiological changes in filtration and reabsorption in an otherwise well patient. Start with determinants of urine output, then link anaesthesia, ventilation, fasting and surgical stress to renal perfusion and hormonal responses.
+
+::: {.structure-headings}
+### Urine Output and Glomerular Filtration
+
+### Renal Perfusion and Autoregulation
+
+### Reduced Filtration Intraoperatively
+
+### Antidiuretic Hormone and Water Conservation
+
+### Renin–Angiotensin–Aldosterone and Sympathetic Responses
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**21.3%** of candidates achieved a pass in this question
+
+This question required candidates to explain the physiological reasons which contribute to a commonly encountered clinical problem and as such required quantification of a normal and reduced urine output, with an explanation of the glomerular, tubular and collecting duct systems and neuro-humoral controls involved in the normal production of urine. A subsequent logical discussion of how pre-renal, renal and post renal perturbations of these could result in low urinary output resulted in higher marks.
+
+Most candidates readily identified decreased perfusion through hypotension and/or myocardial depression as contributory. However adequate descriptions of renal autoregulation were less frequent. Many candidates concentrated on all the possible causes of intra-operative hypotension, rather than describe how glomerular                     filtration, tubuloglomerular feedback and other mechanisms may lead to oliguria.
+
+Comments regarding pathological conditions did not gain marks, since the question specifically stated the patient was otherwise well.
+
+Many answers gave significant weighting to surgical misadventure (renal , ureteric , bladder and urethral trauma) which, although possible, is more uncommon than the normal physiological response to stress.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2011/B/15/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2011/B/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Renal blood flow](/content/renal/rbf.qmd)
+- [Glomerular filtration](/content/renal/glomerular_filtration.qmd)
+- [Renal endocrine functions](/content/renal/endocrine.qmd)

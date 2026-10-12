@@ -1,0 +1,98 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010A Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the changes that occur in the urine and the plasma with renal dysfunction.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} plasma and urine changes in separate sections, linking each to impaired renal function. Cover volume, concentration, electrolytes, retained solutes and abnormal urinary contents without turning the answer into a list of causes.
+
+::: {.structure-headings}
+### Scope of Renal Dysfunction
+
+### Plasma Solutes, Electrolytes and Acid–Base Changes
+
+### Volume and Endocrine Consequences
+
+### Urine Volume and Concentrating or Diluting Ability
+
+### Urinary Sodium, Protein, Cells and Casts
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**30%** of candidates passed this question.
+
+28% scored 8 marks or less.
+
+Marks were awarded for the following points: That renal dysfunction could refer to abnormal function at any part of the nephron (glomerulus, tubules, interstitium); most commonly a reduction in GFR was involved.
+
+Plasma chemistry changes would include increased creatinine, urea, potassium and hydrogen ions. Creatinine rises only after substantial (eg 50%) loss of nephron function and the rise is in a curvilinear fashion, and creatinine clearance can be used to calculate eGFR and GFR. Urea concentrations are subject to too many variables to be useful in estimating degree of renal dysfunction. Potassium levels may rise to fatal levels, particularly in oliguric patients. Metabolic acidosis is often of a raised anion-gap type due to accumulation of titratable acids, but with renal tubular acidosis may not have a raised AG. Typically there is hypocalcaemia and hyperphosphataemia, increased PTH and decreased VitD3, in chronic disease. Chronically, EPO levels fall leading to anaemia. There may be hypoalbuminaemia in nephrotic syndrome. Accumulation of renally-excreted drugs or their metabolites may occur. Plasma sodium levels tend to remain within the normal range, except in rare situations where large volumes of dilute urine are produced, because the reduction in GFR reduces elimination of both salt and water. (The increase in osmolality is mostly due to urea, a point not understood by most candidates who either said osmolality was unchanged or reduced).
+
+Urine changes that scored marks included oliguria (preferably with a definition), possibly polyuria (but this is not the same as “non-oliguric renal failure”, i.e. absence of oliguria does NOT imply abnormal polyuria!); inability to concentrate the urine and also inability to dilute the urine, so that in advanced renal failure the urine osmolality is similar to plasma (isotonic urine); in ATN there may be granular casts; RBC casts occur in glomerulonephritis as do “upper tract”RBC; proteinuria indicates glomerular dysfunction. Appropriate use of terms such as Fractional excretion of Na scored marks if there was an indication the candidate understood the term.
+
+Common errors included: Failure to mention creatinine and /or urea or oliguria. Many answers spent lots of time discussing polyuric conditions such as nephrogenic diabetes insipidus, (and little or no time discussing any other situation) leaving the examiner to wonder if this was their idea of a common physiological abnormality.
+
+By far the commonest urinary change is a reduced volume. Many candidates listed oliguria as occurring with so-called pre-renal failure and then becoming polyuric with established renal failure.
+
+Only 2 answers noted that ability to concentrate AND dilute urine was impaired in most situations. Oliguria in renal failure does NOT mean the urine is concentrated, it simply reflects a much-reduced volume of glomerular filtrate and that small volume may hyper, hypo, or isotonic to plasma.
+
+The majority also incorrectly suggested that impaired tubular function would lead to Na and H2O loss and polyuria, whereas as GFR is progressively reduced then tubular function bears less and less relevance to urine volume. Hypovolaemia secondary to polyuria was mentioned more commonly than volume overload due to oliguria. As mentioned above, plasma osmolality rises, due to urea in the main. This does not lead to activation of humoral responses to decrease the osmolality because urea is freely soluble across cell membranes, i.e. an ineffective osmole.
+
+Many candidates wasted valuable time describing normal tubular function, or determinants of GFR. It was also not asked to describe causes of renal impairment, or to give a description of the renin-angiotensin-aldosterone axis. Only a handful realised that Creatinine levels reflect GFR, but that creatinine clearance and eGFR reflect changes better than blood levels alone.
+
+A large number of answers dwelt on glucose handling in the PCT, many saying that glycosuria at normal BGL‟s, and even hypoglycaemia, occur in renal dysfunction, because of alteration in Tmax for glucose. The opposite is closer to the truth- reduced filtration of glucose often leads to there being no glycosuria in the presence of significant hyperglycaemia.
+
+Too many candidates used vague statements like “alterations in electrolyte balance”, “build up of metabolic wastes” and “impaired acid-base balance”. Creatinine and creatine are not the same thing; Urea does not cause gout; and insulin is not used to measure GFR. The kidney produces ammonia to excrete acid, it is not the site of ammonia elimination, levels of which rise in hepatic failure not renal failure.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2010/A/11/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Glomerular filtration](/content/renal/glomerular_filtration.qmd)
+- [Creatinine clearance](/content/renal/creatinine_clearance.qmd)
+- [Renal acid–base handling](/content/renal/acid_base.qmd)

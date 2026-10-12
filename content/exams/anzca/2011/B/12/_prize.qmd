@@ -1,0 +1,45 @@
++--------------------------+----------------------------------------------------------------------------+--------------------------------------------+
+|                          | **Haemoglobin**                                                            | **Myoglobin**                              |
++==========================+============================================================================+============================================+
+| Location                 | - Erythrocytes                                                             | - Striated muscle\                         |
+|                          |                                                                            |   (skeletal, cardiac)                      |
++--------------------------+----------------------------------------------------------------------------+--------------------------------------------+
+| Structure                | - 4 x haem (protoporphyrin + Fe^2+^)                                       | - Single haem                              |
+|                          | - 4 x globin (polypeptide chain)                                           | - Single globin                            |
+|                          | - HbA1 97% α~2~β~2~                                                        |                                            |
+|                          | - HbA2 3% α~2~δ~2~                                                         |                                            |
++--------------------------+----------------------------------------------------------------------------+--------------------------------------------+
+| Function                 | - O~2~ carriage                                                            | - Unclear                                  |
+|                          |   - Complex with iron (haem)                                               | - At rest: ? ↓O~2~ toxicity                |
+|                          |   - ↑CaO~2~ from \~2mL/100mL to \~20mL/100mL arterial blood                | - In peak exercise: ?↑gradient             |
+|                          | - CO~2~ carriage                                                           |                                            |
+|                          |   - CO~2~ + NH~2~ \<-\> NHCOO^-^ + H^+^ (carbamino)                        |                                            |
+|                          |   - Also buffers H^+^ from carbonic acid                                   |                                            |
+|                          | - Buffer in “ECF”                                                          |                                            |
+|                          |   - KHb + H^+^ \<-\> HHb + K^+^                                            |                                            |
+|                          |   - Imidazole groups of histidine residues                                 |                                            |
++--------------------------+----------------------------------------------------------------------------+--------------------------------------------+
+| O~2~ affinity            | - Moderate, p50 26mmHg                                                     | - Very high, p50 2.8mmHg                   |
++--------------------------+----------------------------------------------------------------------------+--------------------------------------------+
+| Dissociation curve shape | - Sigmoid (see below)                                                      | - Hyperbolic (see below)                   |
+|                          |   - Multiple subunits with co-operative binding                            |   - Single subunit                         |
+|                          |   - Also law of mass action                                                |   - No co-operative binding                |
+|                          |                                                                            |   - Law of mass action only                |
++--------------------------+----------------------------------------------------------------------------+--------------------------------------------+
+| Co-operative binding     | - Binding of one haem to O~2~ increases affinity of the next haem for O~2~ | - Single subunits, no co-operative binding |
+|                          | - Due to allosteric interactions                                           |                                            |
+|                          | - Tense (T) closed → relaxed (R) open state                                |                                            |
++--------------------------+----------------------------------------------------------------------------+--------------------------------------------+
+| Bohr effect              | - R shift due to ↑T, ↑PaCO~2~, ↑\[H^+^\], ↑\[2,3-DPG\]                     | - N/A                                      |
+|                          | - Due to allosteric interactions as above.                                 |                                            |
++--------------------------+----------------------------------------------------------------------------+--------------------------------------------+
+| Haldane effect           | - Capacity to bind or buffer CO~2~ and H^+^ is greater in HHb than HbO~2~  | - N/A                                      |
+|                          | - 70% due to 3.5x ↑ability to form carbaminoHb                             |                                            |
+|                          | - 30% due to ↑pKa imidazoles 6.6 to 8.2                                    |                                            |
++--------------------------+----------------------------------------------------------------------------+--------------------------------------------+
+| Nephrotoxicity           | - Yes (released upon intravascular haemolysis)                             | - Yes (released upon rhabdomyolysis)       |
++--------------------------+----------------------------------------------------------------------------+--------------------------------------------+
+
+#### Graph:
+
+![](/content/exams/anzca/2011/B/12/prize-image001.jpg){fig-alt="Oxygen dissociation curves comparing myoglobin and adult haemoglobin"}

@@ -29,12 +29,12 @@ main ul ol {
  margin-bottom:0rem;
 }
 
-/* Separate the two top-level book sections without creating pseudo-pages in PDF. */
-.sidebar-navigation .sidebar-divider {
-    display: block;
+/* Keep each section's divider above both its heading and collapse control. */
+.sidebar-navigation .sidebar-menu-container > ul > .sidebar-item-section > .sidebar-item-container {
     margin-top: 0.5rem;
     padding-top: 0.5rem;
     border-top: 1px solid #dee2e6;
+    align-items: baseline;
 }
 
 /* colour the glossary */

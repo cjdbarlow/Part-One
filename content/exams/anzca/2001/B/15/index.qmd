@@ -1,0 +1,66 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001B Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the potential benefits and disadvantages of peri-operative beta-blockade.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} **Potential Benefits** and **Potential Disadvantages**. Relate the benefits to myocardial oxygen supply and demand, and organise disadvantages by cardiovascular, respiratory and metabolic effects.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The pass rate for this question was **47%**. To achieve a pass candidates needed to include the following main points. The potential benefits including: lower incidence of ischaemia secondary to improved myocardial oxygen balance, antihypertensive effects particularly during sympathetic nervous system hyperactivity for example during endotracheal intubation and antiarrhythmic actions in catecholamine induced arrhythmias. Extra marks were given for correctly quoting long-term studies where mortality has been reduced. The concept of how beta-blockers improved myocardial supply and demand by decreased heart rate and decreased contractility should have been included.
+
+The disadvantages that should have been mentioned were: negative inotropic effects, especially in patients with cardiomyopathies or when combined with inhalational agents or calcium blockers, bradycardia and possible heart block, perioperative hypotension, bronchoconstriction, and hypoglycemia and delayed recognition in diabetes. The incidence of cardiovascular side effects is generally low.
+
+A common mistake made by candidates was to discuss at length the pharmacology of individual agents or to describe beta receptors and their actions.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Beta-Blockers](/content/pharmacopoeia/cvs/beta_blockers.qmd)

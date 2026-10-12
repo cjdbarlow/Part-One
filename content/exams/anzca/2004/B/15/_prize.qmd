@@ -1,0 +1,53 @@
+#### List:
+
+- Diagramme
+- G protein
+- G protein subtypes
+
+#### Diagramme:
+
+![](/content/exams/anzca/2004/B/15/prize-image001.jpg){fig-alt="Gs receptor activation, G-protein subunit cycling and adenylyl cyclase signalling to protein kinase A"}
+
+#### G protein:
+
++------------------------+----------------------------------------------------------------+
+| Structure              | - Heterotrimeric ICF protein                                   |
+|                        | - α, β, γ subunits                                             |
++------------------------+----------------------------------------------------------------+
+| Function               | - Transduces signal from ECF to ICF                            |
+|                        | - Amplifies signal 100x                                        |
+|                        | - Self-inactivates                                             |
+|                        | - Unidirectional                                               |
+|                        | - Metabotropic effects                                         |
+|                        | - Cell-dependent effects                                       |
++------------------------+----------------------------------------------------------------+
+| Time course            | - Onset: seconds to minutes                                    |
+|                        | - Duration: minutes                                            |
+|                        |   - Longer than ligand binding                                 |
+|                        |   - Longer than plasma half life may predict (e.g. adrenaline) |
++------------------------+----------------------------------------------------------------+
+| Mechanism of tolerance | - ICF carboxyl terminal is phosphorylated                      |
+|                        | - β-arrestin binds                                             |
+|                        | - Receptor is downregulated and destroyed                      |
++------------------------+----------------------------------------------------------------+
+
+#### G protein subtypes:
+
++-----------------+---------------------------------------------------------------------------------+
+| Gs              | - e.g. adrenaline at β~1~                                                       |
+|                 | - α-GTP stimulates adenylyl cyclase activity → ↑cAMP → ↑protein kinase activity |
++-----------------+---------------------------------------------------------------------------------+
+| Gi              | - e.g. morphine at μ opioid receptor                                            |
+|                 | - α-GTP inhibits adenylyl cyclase → ↓cAMP → ↓protein kinase activity            |
++-----------------+---------------------------------------------------------------------------------+
+| Gq              | - e.g. vasopressin at V1R                                                       |
+|                 | - α-GTP activates PLC                                                           |
+|                 | - PLC cleaves PIP~2~ into IP~3~ and DAG                                         |
+|                 | - IP~3~ → ↑ ICF \[Ca^2+^\]                                                      |
+|                 | - DAG activates PKC                                                             |
++-----------------+---------------------------------------------------------------------------------+
+| Small G protein | - Same as α-subunit of heterotrimeric G proteins                                |
+|                 | - Free in ICF                                                                   |
+|                 | - Hydrolyses GTP                                                                |
+|                 | - Role in gene expression, cytoskeletal function etc.                           |
++-----------------+---------------------------------------------------------------------------------+

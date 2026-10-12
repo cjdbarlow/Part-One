@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010B Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the physical properties of oxygen. [**Discuss**]{.task-verb} the potential adverse effects associated with oxygen administration.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} physical properties with units, then [**discuss**]{.task-verb} adverse effects of administration. Separate physical hazards from physiological toxicity and explain important effects of concentration, pressure and exposure time.
+
+::: {.structure-headings}
+### Physical Properties
+
+### Storage and Physical Hazards
+
+### Reactive Oxygen Species and Tissue Injury
+
+### Respiratory and Neurological Effects
+
+### Cardiovascular and Neonatal Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**67%** of candidates passed this question.
+
+The question was similar to that asked in a previous exam, and clearly some candidates used this to their advantage.
+
+Generous margins were accepted for some of the numerical physical properties of oxygen, but marks could not be awarded for significant disparities. Although not specifically asked for on this occasion, marks were awarded for descriptions of how oxygen is manufactured where this was adequately linked to the relevant physical property.
+
+The adverse effects portion of the question was generally well done, but insufficient to compensate for the absence of an answer for the first half of the question.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2010/B/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Oxygen](/content/pharmacopoeia/resp/oxygen.qmd)
+- [Oxygen cascade](/content/resp/oxygen_cascade.qmd)

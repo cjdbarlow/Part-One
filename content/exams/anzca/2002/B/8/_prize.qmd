@@ -1,0 +1,57 @@
+#### List:
+
+- PC
+- PK
+- PD
+
+#### Pharmaceutics: (not sure if would score marks)
+
++------------+-------------------------------------------------------+
+| Structure  | - Nonapeptide                                         |
++------------+-------------------------------------------------------+
+| Production | - Supraoptic and paraventricular hypothalamic nuclei\ |
+|            |   (or synthetic)                                      |
++------------+-------------------------------------------------------+
+
+#### Pharmacokinetics: (not sure if would score marks)
+
++----------------+----------------------------------------------------------------------+
+| Administration | - Hypotension: bolus 1-10 units, infusion 0.1-1 units/minute         |
+|                | - Arrest: bolus 40 units                                             |
++----------------+----------------------------------------------------------------------+
+| Time course    | - Onset \<1 min                                                      |
+|                | - Duration 20-40 minutes for vascular effect, hours for renal effect |
++----------------+----------------------------------------------------------------------+
+| Absorption     | - Minimal (digested by peptidases)                                   |
++----------------+----------------------------------------------------------------------+
+| Distribution   | - Plasma protein binding 10-40%                                      |
++----------------+----------------------------------------------------------------------+
+| Metabolism     | - Peptidases in liver, kidneys; then recycled                        |
+|                | - t~1/2~~β~ 10-20 minutes                                            |
++----------------+----------------------------------------------------------------------+
+| Excretion      | - Some renal excretion                                               |
++----------------+----------------------------------------------------------------------+
+
+#### Pharmacodynamics:
+
++---------------------+------------------------------------------------------------------------+
+| Mechanism of action | - Oxytocin receptor: G~q~ G protein coupled receptor                   |
+|                     | - ↑IP~3~/Ca^2+^, ↑DAG                                                  |
++---------------------+------------------------------------------------------------------------+
+| V1                  | - Vascular smooth muscle                                               |
+|                     | - Generalised vasoconstriction → ↑SVR \> ↑PVR                          |
++---------------------+------------------------------------------------------------------------+
+| V2                  | - Late distal tubule and collecting duct                               |
+|                     |   - Insertion of aquaporin-2 into apical membrane; endothelium         |
+|                     | - Endothelium                                                          |
+|                     |   - Release of vWF                                                     |
++---------------------+------------------------------------------------------------------------+
+| V3                  | - Anterior pituitary                                                   |
+|                     | - ↑ACTH → ↑cortisol                                                    |
++---------------------+------------------------------------------------------------------------+
+| Use                 | - Cardiac arrest (alternative to adrenaline)                           |
+|                     | - 2^nd^ line for vasoplegia (e.g. sepsis, post-cardiopulmonary bypass) |
++---------------------+------------------------------------------------------------------------+
+| Side effects        | - Mild ↑PVR                                                            |
+|                     | - Oxytocin-like effects                                                |
++---------------------+------------------------------------------------------------------------+

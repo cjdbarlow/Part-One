@@ -1,0 +1,66 @@
+#### Similar to (answered for) “Describe the physiological effects of sleep on the brain and the respiratory system.”
+
+**Definition**
+
+Sleep is naturally occurring state of unconsciousness  from which one can be easily aroused via external sensory stimuli
+
+Sleep is important for:
+
+- Homeostasis of many organ systems
+- Memory formation
+- Preservation of cognitive function 
+
+**Stages of Sleep** are classified on EEG changes:
+
+Periods of REM sleep and non-REM sleep alternate with approx. 4-5 cycles of REM sleep occurring.
+
+- **Non-REM Sleep**
+
+Deep sleep divided into 4 stages 
+
+1.  **Stage 1, dosing, easily roused 13-30Hz**: α (alpha) waves replaced by theta (θ) waves; may see hypnic jerks, associated with
+
+2.  **Stage 2 deep relaxation 8-13Hz**: progression of stage 1 with dominance of theta (θ) wave activity and appearance of sleep spindles (rapid burst of higher frequency brain waves)
+
+3.  **Stage 3 Deep sleep/ slow wave sleep 4-8Hz**:  high amplitude low frequency Delta (δ) waves appear with increasing frequency, difficult to rouse
+
+4.  **Stage 4 Deep sleep \<4Hz:** Delta (δ) waves dominate with synchronised activity 
+
+    - ↓V~T~ 15%, ↔RR = ↓MV
+    - ↓response to ↓PaO~2~, ↑PaCO~2~
+    - PaCO~2~ 40→45mmHg
+    - Brief centrally mediated apnoea’s
+    - ↓↔Pharyngeal dilator tone
+
+>
+
+**Physiological Changes** 
+
+GABAnergic input → 
+
+↓TV →↓MV, RR unchanged 
+
+↑PaCO2 and ↓PaO2 (more pronounced in elderly)
+
+Collapse of soft tissue due to reduced tonic activity of pharyngeal muscles 
+
+↓HR and ↓mAP
+
+↓Metabolic rate, ↓T°C
+
+Release ADH
+
+- **REM Sleep **
+
+Characterised by EEG activity resembling that of an awake person. 
+
+Lasts 5-30 min and decreases with age 
+
+REM Sleep is associated with rapid eye movements, vivid dreams
+
+**Physiological changes**:
+
+- Decreased muscle tone 
+- Irregular/variable HR with variable mAP
+- RR variable, ↓Tv  →↓PaO2/ ↑PaO2 
+- ↓↓Pharyngeal dilator tone (highest period risk OSA)

@@ -1,0 +1,75 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2021B Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the relative advantages and disadvantages of using morphine and fentanyl for post-operative Patient Controlled Analgesia (PCA).
+:::
+
+Also asked in: [2011B Question 6](/content/exams/anzca/2011/B/6/index.qmd#examiner-comments), [2015A Question 11](/content/exams/anzca/2015/A/11/index.qmd#examiner-comments), [2016A Question 5](/content/exams/anzca/2016/A/5/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} relative advantages and disadvantages in terms of safe, effective patient controlled analgesia. Compare onset, peak effect, duration and metabolites, then explain how these differences interact with dose, lockout interval and continuing analgesic requirements.
+
+::: {.structure-table}
+| Feature | Morphine | Fentanyl | Clinical Implication |
+|---|---|---|---|
+| Onset and Time to Peak Effect | | | |
+| Duration and Repeated Dosing | | | |
+| Dose and Lockout Interval | | | |
+| Metabolites and Renal Function | | | |
+| Adverse Effects and Clinical Implications | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+No examiner report was supplied for this sitting.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2011/B/6/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2011/B/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Opioids](/content/pharmacopoeia/analgesics/opioids.qmd)
+- [Opioid pharmacology](/content/pharmacopoeia/analgesics/opioidspharm.qmd)

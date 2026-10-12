@@ -1,0 +1,77 @@
+#### List:
+
+- Intro
+- Endocrine and metabolic effects
+- Organ system effects
+
+#### Intro:
+
++-----------------+-----------------------------------------------------------------------------+
+| Definition      | - Life-threatening acute metabolic complication of type 1 diabetes mellitus |
++-----------------+-----------------------------------------------------------------------------+
+| Pathophysiology | - Absolute or near insulin deficiency                                       |
+|                 |   - Missed doses                                                            |
+|                 |   - Sudden ↑ insulin resistance e.g. acute illness                          |
+|                 | - ↓↓ peripheral glucose uptake                                              |
+|                 | - Cells metabolise alternative substrates                                   |
+|                 | - Hence ↑\[glucose\], ↑\[ketones\], ↑anion gap metabolic acidosis (HAGMA)   |
++-----------------+-----------------------------------------------------------------------------+
+
+#### Endocrine and metabolic effects:
+
++--------------------+--------------------------------------------------------------------------------------------------+
+| Hormone profile    | - ↓ insulin                                                                                      |
+|                    | - ↑ glucagon, cortisol, catecholamines                                                           |
++--------------------+--------------------------------------------------------------------------------------------------+
+| Metabolic pathways | - ↑\[glucose\]                                                                                   |
+|                    |   - ↓GLUT-4 → ↓uptake into skeletal muscle and fat                                               |
+|                    |   - ↓glycolysis                                                                                  |
+|                    |   - ↑gluconeogenesis from glycerol/lactate/pyruvate/amino acids (liver \> kidney)                |
+|                    |   - ↑glycogenolysis, ↓glycogenolysis (liver, skeletal muscle)                                    |
+|                    | - ↑\[lipids\]                                                                                    |
+|                    |   - ↑Hormone-sensitive lipase activity                                                           |
+|                    | - ↑\[ketones\]                                                                                   |
+|                    |   - ↑ratio acetyl-CoA : oxaloacetate → ↑ketogenesis                                              |
++--------------------+--------------------------------------------------------------------------------------------------+
+| Fluid              | - ↑Osmolarity (due to ↑glucose more than ↑ketones)                                               |
+|                    | - ↓Blood volume, cellular dehydration (due to osmotic diuresis)                                  |
+|                    | - ↑RAAS (early ↓due to ↑NaCl at macula densa, late ↑ due to ↓afferent arteriolar stretch)        |
+|                    | - ↓ADH early if ↑osmolality (sensitive ±1-3%), ↑ADH late if ↓blood volume (sensitive ±10%), ↓mAP |
++--------------------+--------------------------------------------------------------------------------------------------+
+| Electrolytes       | - Dilutional ↓\[Na^+^\]                                                                          |
+|                    |   - ↓1mmol/L for each +1mmol/L ↑\[glucose\]                                                      |
+|                    | - ↑\[K^+^\]                                                                                      |
+|                    |   - ↓ insulin-mediated cell uptake, ↑K^+^/H^+^ exchange)                                         |
+|                    |   - Note global K+ depletion due to urinary loss (osmotic diuresis → ↑ROMK activity)             |
+|                    | - ↑\[Ca^2+^\]                                                                                    |
+|                    |   - ↑ H^+^/Ca^2+^ exchange with bone                                                             |
++--------------------+--------------------------------------------------------------------------------------------------+
+| Acid-base          | - Ketoacids → HAGMA                                                                              |
+|                    | - Lactic acid → HAGMA (if ↓blood volume → ↓tissue pO~2~ → ↑anaerobic metabolism)                 |
++--------------------+--------------------------------------------------------------------------------------------------+
+
+#### Organ system effects:
+
++------------------------+---------------------------------------------------------------------------+
+| Renal                  | - Initial ↑ urine output                                                  |
+|                        |   - Transport maximum of 375mg/min exceeded at BSL \>10mmol/L             |
+|                        |   - Hyper-osmolar urine, osmotic diuresis                                 |
+|                        | - Later ↓ urine output                                                    |
+|                        |   - Due to ↓blood volume → mAP \<70mmHg → ↓ GFR                           |
+|                        |   - ±ARF, anuria, ATN                                                     |
+|                        | - ↑Gluconeogenesis                                                        |
++------------------------+---------------------------------------------------------------------------+
+| Cardiovascular         | - Heart:                                                                  |
+|                        |   - Acidosis: ↓ inotropy, arrhythmia, arrest (predominates if pH \<7.2)   |
+|                        |   - SNS: ↑ inotropy, ↑ HR (predominates if pH \>7.2)                      |
+|                        | - ↓Blood volume → ↓ preload → ↓ cardiac output → ↓ mAP                    |
+|                        | - Vessels:                                                                |
+|                        |   - Acidosis: systemic dilatation, pulmonary constriction                 |
+|                        |   - SNS: systemic + pulmonary constriction                                |
++------------------------+---------------------------------------------------------------------------+
+| Respiratory            | - Acidosis: systemic dilatation, pulmonary constriction, right shift OHDC |
+|                        | - SNS: systemic + pulmonary constriction                                  |
++------------------------+---------------------------------------------------------------------------+
+| Central nervous system | - Acidosis → ↑SNS output                                                  |
+|                        | - Glucose supply preserved by constitutive GLUT1                          |
++------------------------+---------------------------------------------------------------------------+

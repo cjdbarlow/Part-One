@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019B Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the potential adverse effects of suxamethonium.
+:::
+
+Also asked in: [2017A Question 6](/content/exams/anzca/2017/A/6/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} the adverse effects directly, giving each its mechanism, relevant predispositions and clinical significance. Organise severe reactions alongside neuromuscular, cardiovascular and pressure-related effects.
+
+::: {.structure-headings}
+### Prolonged Paralysis and Apnoea
+
+### Anaphylaxis and Histamine Release
+
+### Hyperkalaemia and Arrhythmias
+
+### Malignant Hyperthermia and Masseter Spasm
+
+### Myalgia and Pressure Changes
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**45.5 %** of candidates achieved a pass in this question
+
+The major domains assessed in this question were cardiovascular effects, musculoskeletal effects, pressure effects (eg intra-ocular), electrolyte changes and other idiosyncratic effects such as anaphylaxis and malignant hyperthermia. Credit was given for other relevant correct material. Mechanisms and clinical context were expected.
+
+Common problems encountered included presenting a long preamble on suxamethonium and a list of side effects with limited discussion on either mechanism or significance; focusing largely on a single domain to the detriment of others; failing to communicate the potential magnitude and severity of hyperkalaemia in at risk patient groups.
+
+The question could be well answered with information in the standard textbooks, with Stoelting perhaps providing the most comprehensive coverage.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2017/A/6/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2017/A/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neuromuscular blockers](/content/msk/neuromuscular_blockers.qmd)
+- [Depolarising neuromuscular blockers](/content/pharmacopoeia/msk/depolarising_nmbs.qmd)

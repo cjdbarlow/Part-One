@@ -1,0 +1,66 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001A Question 16 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the use of the null hypothesis and the P-value in a drug trial.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Null Hypothesis**, **P-Value**, and **Decision About the Null Hypothesis** in the setting of a drug trial. Relate the decision to alpha and beta errors, power, and clinical versus statistical significance.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**89%** of candidates passed this question.
+
+In a drug trial the null hypothesis reflects the supposition that the drug has no effect compared with a control or other drug. Thus the null hypothesis states there is no difference (in the variable of interest) in the populations from which the samples are drawn. Most candidates adorned this definition with unnecessary statements of random chance differences. When we examine our statistical analysis of a data set, we can neither “prove” nor “disprove” the null hypothesis in the strict sense that these terms are used in logic. The null hypothesis is rejected or retained on the basis of likelihood. Although the null (or alternative) hypothesis is commonly said to be “accepted”, this terminology has been criticised as misleading because it may imply that the hypothesis is true. Failure to reject the null hypothesis does not necessarily mean that the study groups are truly the same, only that a difference could not be detected. Although this appears to be a semantic discussion, much of the confusion with answers was due to candidates’ difficulties with these concepts. It was important that candidates clearly differentiated likelihood from truth.
+
+The explanation of P-values was less confused. Most candidates stated the notional origins of P<0.05, commenting on the limitations of the application of this expression. The majority of answers included some useful explanation of alpha and beta errors, with many discussing the methods by which P is determined for comparison with alpha. The importance of power calculation was commonly mentioned correctly with marks also being awarded for comparisons with confidence intervals and clinical vs. statistical significance. Frequent mention was made of increasing sample size to improve power. It is also possible (although not always) to improve power by increasing the resolution of the measurement being made. Many candidates included diagrams of distributions to illustrate regions and these were helpful.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Significance Testing](/content/stats/signifiance_testing.qmd)

@@ -1,0 +1,74 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010B Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the factors that affect respiratory system compliance.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Definition and Types of Compliance**, **Lung Factors**, **Chest Wall Factors**, and **Effects of Anaesthesia**. Use a compliance graph to relate surfactant, lung volume and relevant physiological or pathological changes to compliance.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**31%** of candidates passed this question.
+
+A definition of compliance followed by a statement of the types of compliance along with normal values for these would have completed a good introduction. A compliance graph with an explanation of the importance of surfactant and how it acts to reduce compliance followed by simple statements as to compliance changes related to:
+
+a) lung factors: aging, posture, changes in pulmonary blood volume, airways resistance, emphysema, lung fibrosis, and
+b) chest wall factors: obesity, scarring, fractures as well as compliance changes occurring during anaesthesia would have rounded out a good answer.
+
+Additional marks were awarded for more detail on static and dynamic compliance, compliance at high and low lung volumes and changes in compliance seen from the top to the bottom of the lung in the erect position.
+
+The most common reason for not passing this question was because of a paucity of information provided. Additionally, there were frequent errors as to the effect of some of the above factors on compliance, in particular, the effect of age and the effect of emphysema.
+
+Complex and detailed discussions regarding the interactions between chest wall and lung compliance were only minimally rewarded.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Compliance](/content/resp/compliance.qmd)
+- [Chest Wall and Diaphragm](/content/resp/chest_wall_diaphragm.qmd)

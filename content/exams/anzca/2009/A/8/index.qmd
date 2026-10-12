@@ -1,0 +1,73 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009A Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**What is meant by**]{.task-verb} the term “95% confidence interval”? [**Explain**]{.task-verb} the practical applications of confidence intervals and [**indicate**]{.task-verb} [**why**]{.task-verb} they may be preferred to p-values.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+State [**what is meant by**]{.task-verb} a **95% Confidence Interval**, then [**explain**]{.task-verb} **Practical Applications** and **Advantages Compared With P-Values**. Relate the interval to the population parameter, standard error and sample size.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**20.5%** of candidates passed this question. A significant number of candidates scored a low mark.
+
+Most candidates presented a definition of the 95% Confidence Interval (95% CI) but failed to demonstrate an understanding of the concept. Many candidates presented unnecessary details of how to design a clinical trial or conducted multiple comparisons with drug interventions without demonstrating the utility of 95% CI. There was significant confusion between standard deviation and standard error of the mean with many candidates using them interchangeably without any qualification.
+
+Any 95% CI gives a 95% probability that the true population parameter will be found within that interval. It is a range of values that give a likelihood that the population parameter being studied will be found within them. Contrary to what many candidates stated, it does not mean that 95% of observations are contained within 1.96 standard deviation.
+
+95% CI is derived from the Standard Error and hence is dependent on sample size.
+
+To attain a pass in this question, candidates needed to present a clear definition of the 95% CI as a concept, present an understanding of how it is calculated with clear understanding of the determinants of 95% CI and demonstrate a good understanding of the relationship and the difference between 95% CI and P value and its advantages over the p value.
+
+Candidates who demonstrated practical applications of CI and/or other forms of CI achieved bonus marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Statistical Terms](/content/stats/statistical_terms.qmd)
+- [Significance Testing](/content/stats/signifiance_testing.qmd)

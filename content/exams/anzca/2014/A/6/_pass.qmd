@@ -1,0 +1,66 @@
+Asthma is a chronic inflammatory airways disease characterised by episodic airways constriction/ bronchospasm. 
+
+Bronchospasm is a result of:
+
+- ↑Bronchial smooth muscle tone 
+- ↑ Mucus production
+
+Acute severe asthma exacerbation results in 
+
+- ↑Airways resistance and work of breathing
+- Gas trapping 
+- ↑ physiological dead space
+
+Management of acute severe bronchoconstriction
+
+- **↑FiO2**→↑PAO2 to compensate for reduced alveolar ventilation 
+
+**Beta 2 agonist - Salbutamol **
+
+→ Agonist at B2 adrenergic receptor (GsPCR) →↑ cAMP →↑protein kinase A → smooth muscle relaxation 
+
+Adverse effects: Tremor, tachycardia, hypokalaemia 
+
+**Antimuscarinic (Ipratropium Bromide) **
+
+→ competitively inhibit M3 muscarinic receptors on bronchial smooth muscle, antagonising the bronchoconstrictor action of vagal impulses
+
+Adverse effects: ↑HR
+
+**Corticosteroids**
+
+→ Glucocorticoids are steroid hormones that bind to specific intracellular receptors and translocate into the nucleus, where they regulate gene expression in a tissue-specific manner. They are used in asthma as they cause:
+
+Bronchodilatation by increasing bronchial smooth muscle response to circulating catecholamines
+
+Decreased airway oedema by decreasing inflammatory responses and transudate production
+
+Adverse Effects: insomnia, anxiety, depression, psychosis, ↑BSL if diabetic
+
+**Ketamine** 
+
+Unclear mechanism, Increases sympathetic outflow and relaxes bronchial smooth muscle
+
+Adverse effects:
+
+↑secretions, hallucinations, ↑SNS/MAP/HR 
+
+**Magnesium** 
+
+Physiological antagonist at L type Ca2+ channel → smooth muscle relaxation 
+
+Adverse effects:
+
+sedation, hypotension
+
+**Volatile anaesthetic agents**
+
+Volatile anaesthetic agents reduces bronchial smooth muscle constriction where this is pre-existing (such as asthma).
+
+Adverse effects:
+
+↓SVR/MAP, sedation
+
+**Leukotriene Antagonists**
+
+Selectively inhibits the cysteinyl leukotriene receptor, increased activity of which is involved in airway oedema and bronchial smooth muscle constriction

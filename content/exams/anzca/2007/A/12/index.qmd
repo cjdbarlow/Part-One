@@ -1,0 +1,113 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007A Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the physiological principles underlying the use of peritoneal dialysis in a patient with chronic renal failure with this dialysate solution.
+
++----+-----------+---------+-----------+
+| Na | 132 mEq/L | Mg      | 0.5 mEq/L |
++----+-----------+---------+-----------+
+| K  | 0 mEq/L   | Lactate | 40 mEq/L  |
++----+-----------+---------+-----------+
+| Cl | 96 mEq/L  | glucose | 2.5 g%    |
++----+-----------+---------+-----------+
+| Ca | 3.5 mEq/L |         |           |
++----+-----------+---------+-----------+
+
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} exchange across the peritoneum using diffusion, osmosis and solvent drag. Relate dialysate composition to concentration and osmotic gradients, then explain lactate and glucose effects.
+
+::: {.structure-headings}
+### Peritoneal Membrane and Exchange
+
+### Diffusion and Solute Gradients
+
+### Osmosis, Osmolarity and Tonicity
+
+### Solvent Drag and Donnan Effects
+
+### Lactate, Glucose and Protein Loss
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**17%** of candidates passed this question.
+
+The purpose of this question is to show an understanding of basic physiological principles involved in peritoneal dialysis and not its clinical applications or indications.
+
+The main points expected for a pass were: PD takes places across a membrane (peritoneum) by exchange between dialysate and the patient’s blood. The main processes are:
+
+a) Osmosis - movement of solvent from low to high solute concentration
+b) Diffusion – movement of solute from region of high to low concentration
+c) Solvent drag
+
+Definitions of these processes were required. Many candidates showed a lack of understanding of these basic processes.
+
+The factors which influence these processes are:
+
+a) movement of solvent
+   - tonicity – definition, dialysate is hypertonic mainly due to it’s hight glucose concentration, osmolarity approx. 400 mmol/L (2[Na]+ 0.055 [Glucose]+ 0.36 [BUN]
+b) movement of solute
+   - Fick’s law of diffusion
+   - Donnan effect – due to effect of charged plasma proteins
+
+Many candidates wasted time on detailed description of what happens to individual solutes at the expense of explaining the basis physiological principles of diffusion and giving an example e.g. K+
+
+Other points which gained marks:
+
+- purpose of PD- i.e. achieve balance of fluids, electrolytes, acid-base and excretion of toxins wastes
+- osmosis is a relatively fast process compared to diffusion
+- glucose absorption can cause hyperglycaemia
+- lactate is provided for conversion to bicarbonate by the liver helping with acid/base balance
+- protein transfer into dialysate can result in loss
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/A/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Dialysis](/content/renal/dialysis.qmd)

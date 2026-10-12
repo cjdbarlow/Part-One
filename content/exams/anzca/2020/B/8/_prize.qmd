@@ -1,0 +1,45 @@
+#### Definitions:
+
++------------------------------+-------------------------------------------------------------------------------------------------------+
+| Greenhouse gas               | - Substance that absorbs and emits infrared radiation                                                 |
+|                              | - e.g. CO~2~, N~2~O, methane, ozone                                                                   |
++------------------------------+-------------------------------------------------------------------------------------------------------+
+| Anthropogenic global warming | - Warming of average temperatures on earth caused by greenhouse emissions arising from human activity |
+|                              | - Many detrimental environmental effects                                                              |
++------------------------------+-------------------------------------------------------------------------------------------------------+
+| Ozone layer                  | - O~3~ rich region in the stratosphere                                                                |
+|                              | - Absorbs UV-B                                                                                        |
++------------------------------+-------------------------------------------------------------------------------------------------------+
+
+#### List of agents:
+
+(descending order of toxicity)
+
++---------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
+| Desflurane                            | - Direct AGW: 6 hours at Fi 7% ≈ 1000kmg driving                                                                                          |
+|                                       | - 0.02% metabolised; also resistant to environmental breakdown                                                                            |
+|                                       | - Greater impact mostly due to long half life                                                                                             |
++---------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
+| Nitrous oxide                         | - Direct AGW: 6 hours at Fi 50% ≈ 500km driving                                                                                           |
+|                                       | - Depletes ozone layer                                                                                                                    |
+|                                       | - Chronic exposure can cause neuropathy, teratogenicity, miscarriage in health care workers due to inactivation of methionine synthetase  |
++---------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
+| Sevoflurane                           | - Direct AGW: 6 hours at Fi 3.5% ≈ 50km driving                                                                                           |
+|                                       | - \~5% metabolised                                                                                                                        |
++---------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
+| Propofol                              | - Minimal impact on AGW, even after taking into account syringe driver, manufacture, procurement                                          |
+|                                       | - Improperly discarded propofol is toxic to marine life                                                                                   |
+|                                       | - Syringes and tubing contribute to medical waste                                                                                         |
+|                                       | - Almost 100% metabolised; metabolites excreted in urine                                                                                  |
+|                                       | - Environmental effects of metabolites unknown                                                                                            |
++---------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
+| Ketamine                              | - Minimal impact                                                                                                                          |
+|                                       | - Can be used as a sole agent                                                                                                             |
+|                                       | - Minimal effects of ABC                                                                                                                  |
+|                                       | - Hence reduces need for other disposable equipment                                                                                       |
++---------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
+| Neuraxial/regional local anaesthetics | - i.e. bupivacaine, ropivacaine, lignocaine                                                                                               |
+|                                       | - Minimal direct impact                                                                                                                   |
+|                                       | - Can be performed without sedation or general anaesthesia                                                                                |
+|                                       | - Hence reduces need for other disposable equipment                                                                                       |
++---------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+

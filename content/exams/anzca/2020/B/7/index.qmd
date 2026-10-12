@@ -1,0 +1,97 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2020B Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the effect of pregnancy, at term, on wash-in of volatile anaesthetic agents
+:::
+
+Also asked in: [2016B Question 13](/content/exams/anzca/2016/B/13/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} pregnancy-related changes in delivery, alveolar uptake and distribution. Explain their effects on wash-in using inspired and alveolar concentration curves, keeping alveolar kinetics distinct from altered anaesthetic requirement.
+
+::: {.structure-headings}
+### Ventilation and Functional Residual Capacity
+
+### Cardiac Output and Pulmonary Uptake
+
+### Blood and Tissue Distribution
+
+### Inspired and Alveolar Concentration Curves
+
+### Agent Differences
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The rate of volatile wash in is determined by delivery of agent to the alveoli and uptake from the alveoli, and can be illustrated via FA/FI curves. The important physiological parameters that change in pregnancy which must be discussed to pass this question are minute ventilation, functional residual capacity and cardiac output. For each of these parameters the candidate should indicate
+
+  - why they change in pregnancy
+  - the degree of change at term
+  - the effect this change has upon wash in (increased/decreased rate)
+  - an explanation as to the mechanism by which the effect upon wash in is mediated
+
+The overall effect of pregnancy would be faster volatile wash in, respiratory effects outweighing cardiac.
+
+Discussion of all physiological changes in pregnancy, or of all factors related to volatile wash in, were not necessary. However, brief points which demonstrated greater understanding would include
+
+- Ventilation under GA usually not patient controlled at term - MV controlled by anaesthetist
+- Increased A-V gradient due to greater tissue uptake (uteroplacental unit) slows wash in
+- Nitrous Oxide has a prominent role in obstetric anaesthesia and enhances volatile wash in
+- Aorto-caval compression may lead to reduced rather than elevated cardiac output if supine
+- Kinetics of more soluble agents is more affected by the physiological changes than less soluble agents
+
+Time constants were referred to by some candidates. The time constant representing volatile wash in (FRC/MV) should ideally be accompanied by a brief note explaining its significance…that this implies the time needed for wash in will be less when a smaller volume (FRC) is being filled by a higher flow rate (MV).
+
+Many candidates misquoted the formula as MV/FRC, and/or suggested that a higher time constant reflected faster wash in.
+
+Other common errors included discussion or labelling of FI/FA curves rather than FA/FI, and the terms delivery/uptake/wash in/onset were often used incorrectly or interchangeably.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2016/B/13/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2016/B/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational anaesthetics](/content/pharmacopoeia/neuro/inhalational_anaesthetics.qmd)

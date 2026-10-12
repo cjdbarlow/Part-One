@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012B Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+Using an example of exponential decay, [**define**]{.task-verb} and [**outline**]{.task-verb} the important features of an exponential function.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Define**]{.task-verb} an exponential function and [**outline**]{.task-verb} its features using one decay example. Pair the equation with a labelled graph, explaining constant fractional change, half-life, time constant and a semi-log representation.
+
+::: {.structure-headings}
+### Definition and Decay Example
+
+### Equation and Labelled Curve
+
+### Rate Constant and Time Constant
+
+### Half-Life and Asymptotic Behaviour
+
+### Semi-Log Representation
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**36 %** of candidates passed this question.
+
+A structured answer that included a definition, physiological examples, a graph demonstatrating the function with a description of half life and time constant would have been rewarded with a pass. Extra points were awarded for exponential formulae, for noting that the curve will approach but never reach zero and for conversion to a straight line by plotting on semi log paper. Common mistakes were to an incorrect definition of an exponential function, and to describe at length the relationship between lung time constants, compliance and airway resistance, which was not asked for in the question.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2012/B/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Intravenous kinetics](/content/pharmacology/iv_kinetics.qmd)

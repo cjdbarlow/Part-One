@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014A Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the local anatomy relevant to the performance of a lumbar epidural block.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the anatomy with a labelled lateral diagram and the following headings. Follow the layers from skin to epidural space, then describe the space and its contents.
+
+::: {.structure-headings}
+### Surface Landmarks
+
+### Layers from Skin to Epidural Space
+
+### Boundaries and Contents of the Epidural Space
+
+### Anatomical Variations
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**61.6%** of candidates achieved a pass in this question
+
+A labelled diagram would adequately show most of what was asked for in the question. This diagram especially from a lateral view schematically showing the structures or ‘layers’ from skin to the space after penetrating the ligamentum flavum was completed by most candidates. The ligamentum flavum is attached on the anterior aspects of the laminae of the vertebrae and is not a continuous layer as such
+
+There was some confusion between the anterior superior iliac spines, the intercrestal line and the posterior superior iliac spine deciding the site of placement. The content of the epidural space which surrounds the dural sac and the cauda equina has important structures in it. Damage to any of these has significant sequelae. The vascular structures being placed generally situated in the space anterolateraly was noted in many good answers.
+
+The technique and the description of the methodology of performing the epidural was not asked for and even if correctly outlined did not attract marks.
+
+The mention of extra useful anatomical variations such as venous congestion during pregnancy and labour, increased fatty tissue in the obese, and origin of the arterial supply, the destination of the venous drainage, the presence of a lymphatic drainage all indicated a good understanding of the anatomy of the epidural space.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2014/A/7/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2014/A/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Spinal anatomy](/content/neuro/spinal_anatomy.qmd)
+- [Neuraxial blockade](/content/pharmacopoeia/neuro/neuraxial_blockade.qmd)

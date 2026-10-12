@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002B Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the physical principles of ultrasound imaging.
+:::
+
+Also asked in: [2007B Question 11](/content/exams/anzca/2007/B/11/index.qmd#examiner-comments), [2010B Question 11](/content/exams/anzca/2010/B/11/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} the sequence from electrical signal and piezoelectric emission to tissue interaction, reception and image formation. Relate frequency, impedance, attenuation, resolution and Doppler shift to the resulting image.
+
+::: {.structure-headings}
+### Ultrasound Waves and Equations
+
+### Piezoelectric Transducer and Pulse Generation
+
+### Tissue Interactions and Echo Reception
+
+### Image Formation and Resolution
+
+### Doppler Principle and Equation
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**25%** of candidates passed this question.
+
+The main points expected were how ultrasound waves are generated; their passage through tissues (eg. conduction velocity, reflection, attenuation); recording of reflected waves and processing (eg signal noise ratio, gain, modes of display); and the Doppler effect. Extra marks were awarded for factors affecting resolution (frequency, wavelength, attenuation, artifacts), and the role of transoesophageal echocardiography in avoiding technical limitations in transthoracic imaging. Common errors included stating that ultrasound is electromagnetic radiation, and that increasing amplitude always improves resolution.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2002/B/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Ultrasound](/content/equipment/ultrasound.qmd)

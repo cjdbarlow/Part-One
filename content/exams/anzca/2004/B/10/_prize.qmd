@@ -1,0 +1,53 @@
+#### List:
+
+- Intro: LAP
+- LAP trace
+- LAP determinants
+
+#### Intro:
+
++--------------+----------------------------------------------------------+
+| Definitions  | - Mean LA pressure throughout the cardiac cycle          |
+|              | - End-diastolic LA pressure (prior to ‘a’ wave)          |
++--------------+----------------------------------------------------------+
+| Normal       | - 6-12mmHg                                               |
++--------------+----------------------------------------------------------+
+| Measurement  | - Direct: Swann-Ganz catheter with pressure transduction |
+|              | - Indirect: echocardiography (E:A and E:e’ ratios)       |
++--------------+----------------------------------------------------------+
+| Significance | - Key determinant of preload hence cardiac output        |
++--------------+----------------------------------------------------------+
+
+#### LAP trace:
+
+![](/content/exams/anzca/2004/B/10/prize-image001.jpg){fig-alt="Left atrial pressure waveform showing a, c and v waves and x and y descents"} 
+
+Note: a and c waves are often fused
+
+#### LAP determinants:
+
++---------------+------------------------------------------------------------------------------------+
+| Venous return | VR = (mean systemic pressure – right atrial pressure / resistance to venous return |
+|               |                                                                                    |
+|               | - Hypovolaemia → ↓MSFP → ↓VR → ↓LAP                                                |
+|               | - Venodilatation → ↓MSFP → ↓VR → ↓LAP                                              |
+|               | - Head up → pooling → ↓MSFP → ↓VR → ↓LAP                                           |
+|               | - Limb muscle relaxation: ↓MSFP → ↓VR → ↓LAP                                       |
+|               | - Diaphragm relaxation: loss of negative intrathoracic pressure → ↓VR → ↓LAP       |
+|               |                                                                                    |
+|               | (Above the above may occur under GA)                                               |
++---------------+------------------------------------------------------------------------------------+
+| LA filling    | - RV output: e.g. primary RV failure → ↓LA filling → ↓LAP                          |
+|               | - Intrathoracic pressure: e.g. PPV → obstruction to LA filling → ↓LAP              |
+|               | - Intrapericardial pressure: e.g. tamponade → obstruction to LA filling → ↓LAP     |
++---------------+------------------------------------------------------------------------------------+
+| LA emptying   | - Atrial function: e.g. AF → ↓emptying → ↑LAP                                      |
+|               | - Mitral valve function: e.g. mitral stenosis → ↓emptying → ↑LAP                   |
++---------------+------------------------------------------------------------------------------------+
+| LV filling    | - LV relaxation: LV ischaemia → ↓relaxation → ↑LAP                                 |
+|               | - LV stiffness: LV hypertrophy, fibrosis, infiltration → ↓compliance →↑LAP         |
+|               | - LV volume: e.g. AR → ↑LVESV → ↓compliance → ↑LAP                                 |
++---------------+------------------------------------------------------------------------------------+
+| LV emptying   | - Contractility: LV failure → ↓emptying → ↑LAP                                     |
+|               | - Afterload: ↑afterload (e.g. ↑SVR) → ↓emptying → ↑LAP                             |
++---------------+------------------------------------------------------------------------------------+

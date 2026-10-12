@@ -1,0 +1,100 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008A Question 16 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the physiological causes of early post-operative hypoxaemia.
+:::
+
+Also asked in: [2012B Question 12](/content/exams/anzca/2012/B/12/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} causes through the oxygen cascade. Use the alveolar gas equation and gas-exchange relationships to explain inspired oxygen, ventilation, diffusion, ventilation–perfusion mismatch and shunt, with early postoperative examples.
+
+::: {.structure-headings}
+### Inspired Oxygen and Diffusion Hypoxia
+
+### Alveolar Hypoventilation
+
+### Diffusion Impairment
+
+### Ventilation–Perfusion Mismatch
+
+### Shunt and Oxygen Response
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**13%** of candidates passed this question.
+
+For a pass candidates were expected to define hypoxaemia, indicate normal values of PaO2, and explain the significance of hypoxaemia. They were expected to discuss the PHYSIOLOGICAL causes of hypoxaemia and this is most easily done using a classification
+
+Physiological causes of hypoxaemia can be broken down into:
+
+1. Low inspiratory oxygen for the needs for the patient
+2. Hypoventilation (eg 2° pain, respiratory depression)
+3. V/Q scatter or mismatch (areas low ventilation cf perfusion eg atelectasis vs loss of areas with high perfusion cf ventilation eg significant hypotension)
+4. Increased Oxygen consumption (eg fever, shivering)
+5. Diffusion barrier (which plays very little part in healthy patients).
+
+Better answers included:
+
+- An indication of appreciation of the significance of these values, ie the beginning of the “slipperly slope” of the haemoglobin dissociation curve.
+- Common mistakes / omissions:
+- This was NOT a question about tissue hypoxia, and no marked were allocated for discussions regarding stagnant hypoxia, etc.
+
+Explanations regarding V/Q scatter were often disjointed and incomplete. Causes of dead space and shunt were often confused. Pulmonary emboli result in areas of no blood flow and therefore physiological dead space (not shunt).
+
+Few candidates indicated how the value of PaO2 decreases in healthy aging.
+
+Few candidates indicated that hypoventilation and V/Q scatter are the major causes of low PaO2.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2008/A/16/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Hypoxia](/content/resp/hypoxia.qmd)
+- [Oxygen cascade](/content/resp/oxygen_cascade.qmd)
+- [Shunt](/content/resp/shunt.qmd)

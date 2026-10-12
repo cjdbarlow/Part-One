@@ -1,0 +1,31 @@
+Anaesthetic agents all have an environmental cost for production and use both directly and from the use of packaging, transport and delivery to patient.
+
+The most significant environmental effects are form greenhouse gas emissions and ozone depletion. 
+
+Greenhouse gasses act as an atmospheric thermal blanket absorbing and emitting infrared radiant energy, they include (but are not limited to) water vapour, CO2, methane, nitrous oxide, and ozone. 
+
+Increasing the greenhouse gasses in the atmosphere increases the radiant heat trapped in the atmosphere and controls to global warming.
+
+The ozone layer is an Ozone (O3) rich layer in the stratosphere that absorbs UVB radiation and prevents it reaching the earth’s surface, the ozone layer is sometimes considered to be equivalent to the earths sunscreen layer. 
+
+Human greenhouse gas emissions contribute to anthropogenic global warming (AGW) and are related to many detrimental environmental effects.
+
+**Inhaled anaesthetic agents:**
+
+Common inhaled anaesthetic agents include nitrous oxide and hydrofluorocarbons desflurane and sevoflurane. These gases are minimal metabolised and released into the atmosphere. where they are potent greenhouse gasses that contribute to AGW. 
+
+The greenhouse emissions are often through of in context of the CO2 emissions of driving a car. 
+
+The CO2 equivalents for 1 MAC hour at 0.5L FGF are:
+
+- Desflurane CO2e of 36.5 kg - equivalent of driving 228km
+- Sevoflurane CO2e 0.6kg equivalent of driving 4km
+- Nitrous oxide CO2e \~16kg, N2O causes ozone layer depletion as well as direct greenhouse effect.
+
+**IV Anaesthetic Agents**
+
+The predominant alternative to inhaled anaesthetic maintenance is propofol, with the primary adverse environmental effects relating to packaging, plastic syringe and giving line use and agent wastage. 
+
+Even taking into account a large degree of wastage and packing within a life cycle assessment, propofol TIVA is considered to have an AGW impact multiple times less then desflurane and nitrous.
+
+However there are also other environmental considerations for the use of propofol such as aquatic waste effects and possibility of metabolite effects.

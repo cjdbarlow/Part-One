@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014A Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the principles of surgical diathermy.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the electrical principles, then connect the different current patterns and circuit arrangements to their tissue effects and safety implications.
+
+::: {.structure-headings}
+### Electrical Principles and Tissue Heating
+
+### Cutting and Coagulation
+
+### Monopolar and Bipolar Circuits
+
+### Hazards and Safety Features
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**31.2 %** of candidates achieved a pass in this question
+
+This question is lifted almost verbatim from the learning outcomes mapped to the primary examination, and is well covered in Miller and Dorsch and Dorsch. Presenting factual material from these references would easily earn a pass mark, with better marks awarded to those candidates who could integrate the scientific principles with patient safety.
+
+Candidates clearly divided into a bimodal distribution, those who had read the above material, and those who hadn't. It was good to see everyone made an attempt to write something.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2014/A/8/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2014/A/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Diathermy](/content/equipment/diathermy.qmd)
+- [Electrical safety](/content/equipment/electrical_safety.qmd)

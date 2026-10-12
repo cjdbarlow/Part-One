@@ -1,0 +1,74 @@
+*List:*
+
+- Principles: cardiac output, Stewart Hamilton Equation
+- Pulmonary artery catheter description
+- Thermodilution: methods, sources of error, pros, cons
+
+#### Principles:
+
++---------------------------+------------------------------------------------------------------------------------+
+| Cardiac output            | - Volume of blood ejected by the LV per unit time                                  |
+|                           | - = HR x SV                                                                        |
+|                           | - 70mL/kg/min in an adult                                                          |
++---------------------------+------------------------------------------------------------------------------------+
+| Stewart-Hamilton equation | - *Q ∝ amount of coldness / effect of coldness*                                    |
+|                           | - Q = Volume injected x (T~Blood~ – T~Injectate~).k1.k2 / AUC (∆ temp vs. time)    |
+|                           | - Analogous to: Clearance = dose / AUC(concentration vs. time)                     |
+|                           | - k1: (SHC~Inj~ x SG~Inj~) / (SHC~Blood~ x SG~Blood~)                              |
+|                           | - k2: computational constant for heat gain in transit (injection time, dead space) |
++---------------------------+------------------------------------------------------------------------------------+
+
+#### Pulmonary artery catheter:
+
++------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Components | - Sheath for insertion                                                                                                                                   |
+|            | - Flexible balloon-tipped catheter                                                                                                                       |
+|            | - Thermistor near the tip                                                                                                                                |
+|            | - Proximal ports in SVC and RA                                                                                                                           |
+|            | - Distal port in pulmonary artery                                                                                                                        |
++------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Thermistor | - Semiconducting material e.g. metal oxide                                                                                                               |
+|            | - +/- incorporated into Wheatstone bridge                                                                                                                |
+|            | - ↓ temp → ↑ resistance (non-linear overall, near linear in physiological range)                                                                         |
+|            |                                                                                                                                                          |
+|            | ![](/content/exams/anzca/2000/A/1/prize-image001.jpg){fig-alt="Thermistor resistance against temperature, showing the near-linear physiological range"}  |
++------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Thermodilution technique:
+
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Method           | - Cold saline injected into proximal port                                                                                                              |
+|                  | - Temperature known (e.g. 3°C) and volume known (e.g. 10mL)                                                                                            |
+|                  | - Measure temperature vs time                                                                                                                          |
+|                  | - Stewart-Hamilton equation used to calculate cardiac output                                                                                           |
+|                  | - Some extrapolation required for the tail of the curve                                                                                                |
+|                  |                                                                                                                                                        |
+|                  | ![](/content/exams/anzca/2000/A/1/prize-image002.jpg){fig-alt="Temperature–time curves after cold injectate for high, normal and low cardiac output"}  |
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Sources of error | Operator error                                                                                                                                         |
+|                  |                                                                                                                                                        |
+|                  | - Injection too slow                                                                                                                                   |
+|                  | - Injection into wrong port                                                                                                                            |
+|                  | - Measurement not at end-expiration                                                                                                                    |
+|                  |                                                                                                                                                        |
+|                  | Measurement error: accuracy decays with                                                                                                                |
+|                  |                                                                                                                                                        |
+|                  | - Time                                                                                                                                                 |
+|                  | - Heat sterilisation                                                                                                                                   |
+|                  |                                                                                                                                                        |
+|                  | Potentially false assumptions:                                                                                                                         |
+|                  |                                                                                                                                                        |
+|                  | - That thermal equilibrium is established by the time mixture reaches thermistor                                                                       |
+|                  | - That injectate is warmed by blood only (not true in low flow states)                                                                                 |
+|                  | - That flow is unidirectional (not true if tricuspid regurgitation)                                                                                    |
+|                  | - That cold injectate does not depress cardiac output                                                                                                  |
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Pros             | - Can be performed frequently                                                                                                                          |
+|                  | - No blood sampling required                                                                                                                           |
+|                  | - No dye required                                                                                                                                      |
+|                  | - No recirculation error                                                                                                                               |
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Cons             | - Requires invasive device: many risks of PAC insertion e.g. pulmonary artery rupture                                                                  |
+|                  | - Cold fluid may induce arrhythmias                                                                                                                    |
+|                  | - Small extrapolation error                                                                                                                            |
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+

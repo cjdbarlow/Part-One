@@ -1,0 +1,85 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011A Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Write a brief outline**]{.task-verb} on the pharmacology of remifentanil.
+:::
+
+Also asked in: [1999A Question 10](/content/exams/anzca/1999/A/10/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Write a brief outline**]{.task-verb} using a drug monograph structure. Explain the ester linkage, onset and rapid metabolic offset, then connect receptor action and organ effects to doses and clinical uses.
+
+::: {.structure-headings}
+### Chemistry and Presentation
+
+### Uses and Administration
+
+### Mechanism of Action
+
+### Pharmacokinetics and Metabolism
+
+### Pharmacodynamics
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question was passed by **55.3%** of candidates.
+
+A clear pass required: Some sort of logical approach to the description of drug pharmacology incorporating: Drug chemistry Uses Pharmaceutic information including presentation and recommended doses A proposed mechanism of action Pharmacokinetics Pharmacodynamics
+
+Key chemistry description needed to highlight: phenylpiperidine derivation from fentanyl, synthetic preparation, unique ester linkage. There are multiple uses of this agent - simply stating “as a component of TIVA” gained marks but did not gain maximum credit. Pharmaceutic information, in addition to describing the “powder filled ampoules” or “vials of remi”, needed to identify the powder as remifentanil hydrochloride and ideally note the presence of glycine (as this has relevance to routes of administration).
+
+To score well, both bolus and infusion dosing had to be given. Few candidates correctly stated any mechanism of action, fewer correctly identified mu selectivity, and fewer still the mechanism of mu agonism induced analgesia. The bulk of the available points were allocated to a description of the agent’s pharmacokinetics reflecting its novel features. Whilst some recall of volume of distribution, elimination half life, and context specific parameters was necessary, a clear pass required more than a list of uninterpreted numbers.
+
+Candidates needed to describe/explain: remifentanil has a fast onset and why this is so, that offset is dependant on metabolism not redistribution, organ independent high capacity metabolism and metabolic products. Pharmacodynamics was not well described - the requirement was for a logical organ system approach outlining key effects in each system. Candidates who stated only that “the effects are those of morphine” could not score well
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/A/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Opioids](/content/pharmacopoeia/analgesics/opioids.qmd)
+- [Opioid pharmacology](/content/pharmacopoeia/analgesics/opioidspharm.qmd)

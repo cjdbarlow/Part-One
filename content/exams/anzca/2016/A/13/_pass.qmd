@@ -1,0 +1,36 @@
+Pain is an unpleasant sensory or emotional experience associated with potential or actual tissue damage.
+
+Chronic pain is pain that persists after resolution of the pathological process and becomes part of the illness rather than a symptom.
+
+Pain is usually a process of 
+
+- Transduction
+- Transmission
+- Perception 
+- Modulation 
+
+Any of these processes may be involved in the progression to chronic pain.
+
+**Transduction** is the process of noxious stimuli stimulating a nociceptor and being made into an electrical nerve impulse.
+
+Nociceptors can undergo sensitisation primarily from inflammatory factors in a process of nociceptor plasticity.  This lowers the transduction threshold and contributes to hyperalgesia where there is abnormal intensity of pain relative to the stimulus. 
+
+**Transmission** is the process of conducting pain impulses form nociceptors along A-Delta and C fibres to the second order neurones in the spine and then to the brain. A-delta and C fibres synapse in the dorsal horn and release Substance P and Glutamate which act on NK1 and NMDA receptors.
+
+**Sensitisation** can also occur centrally within the spinal cord. The pathophysiology is thought to arise from an increase in number of NMDA receptors, as well as increased sensitivity of NMDA receptors to glutamate. Central sensitisation leads to hyperexcitability of second order neurons within the dorsal horn of the spinal cord. 
+
+**Allodynia** (painfully response to a normally painless stimuli) can result from the increased excitability of central nociceptive neurons, their threshold for activation is reduced. In this situation, pain can occur in response to low-intensity previously nonpainful stimuli.
+
+Repeated post synaptic depolarisation in the dorsal horn by C fibres → NMDA receptors results increase action potential output. This increased responsiveness is termed **Wind up. **
+
+**Drugs**
+
+Drugs can act at multiple sites to alter the progression from acute to chronic pain. 
+
+**NSAIDS** reduce nociceptor mediated inflammation and sensitisation 
+
+**Local anaesthetics** prevent signal propagation preventing central transmission of pain 
+
+**Ketamine** reduces windup and central sensitisation by antagonising NMDA receptors 
+
+Local Anaesthetics

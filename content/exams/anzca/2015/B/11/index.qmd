@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015B Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the mechanisms whereby oxygen transfer is facilitated at the placenta.
+:::
+
+Also asked in: [2007A Question 14](/content/exams/anzca/2007/A/14/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} transfer using diffusion and the maternal–foetal oxygen gradient. Connect membrane properties, haemoglobin concentration and affinity, and linked carbon dioxide exchange to maintenance of that gradient.
+
+::: {.structure-headings}
+### Diffusion Across the Placenta
+
+### Maternal and Foetal Partial Pressures
+
+### Haemoglobin Concentration and Affinity
+
+### Bohr and Double Bohr Effects
+
+### Haldane Effects and Coupled Gas Transfer
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**58.3%** of candidates achieved a pass in this question
+
+Discussion of Fick’s Law diffusion and it s various components began most answers. Discussion of the quintessential differences between HbA, HbF, the effects of the Bohr and double Bohr effects were well described by candidates. Quality of answers was enhanced by self-explanatory labelled graphs. In giving details in relation to the Hb structures, relative concentration differences, and the implications with regard to oxygen affinity, allosteric variations in the chain structures, relative affinity of 2,3DPG were indicative of an understanding of the special features of the foetal -placental – maternal unit with regard to oxygen transfer. Mention of the Haldane effects, relating more specifically to the transfer of CO2, gained marks if there was an explanation as to how it was connected to oxygen transfer or carriage.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2007/A/14/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Placenta](/content/obs/placenta.qmd)

@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014B Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the important pharmacological considerations when stopping warfarin and commencing prophylactic (low dose) low molecular weight heparin (LMWH) in the peri-operative period.
+:::
+
+Also asked in: [2007B Question 2](/content/exams/anzca/2007/B/2/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} the peri-operative sequence, linking the timing to the pharmacokinetics and pharmacodynamics of warfarin and prophylactic LMWH.
+
+::: {.structure-headings}
+### Warfarin Cessation, INR and Reversal
+
+### Prophylactic LMWH Commencement and Cessation
+
+### Drug Interactions and Organ Dysfunction
+
+### Post-Operative Anticoagulation and the Balance of Risks
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**60%** of candidates achieved a pass in this question
+
+The main points expected from candidates to pass this question are a discussion on the pharmacokinetics and the pharmacodynamics of both warfarin and low molecular weight heparin (LMWH). Drug interactions and pathophysiological factors (e.g. liver or renal dysfunction) that may potentiate the actions of both drugs were included in good answers. Pre-operatively, warfarin is ceased for 5 days in elective cases and the checking of INR prior to surgery provides a measure of coagulation status of the patient.
+
+Prophylactic LWMH is commenced 2-3 days after warfarin is ceased and it should be ceased 12 hours prior to surgery and neuraxial blockade. The rationale of this practice and the details of how bridging therapy is managed were discussed in good answers. A balance of excessive bleeding versus the risk of thromboembolic events is the guiding factor in most clinical cases. Extra marks are given to answers that recognize urgency of surgery sometimes necessitates the reversal of warfarin with various available pharmacological agents. The details of commencement of post-operative anticoagulation were frequent omissions.
+
+This question specifically asked for an outline of bridging therapy with prophylactic low dose LMWH upon cessation of warfarin in the peri-operative period. Lengthy discussions on the merits of not using bridging therapy, the benefits of using unfractionated heparin instead of LMWH and the requirements of therapeutic anticoagulation in some patients are not within the scope of this question.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2007/B/2/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/B/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Anticoagulants](/content/pharmacopoeia/haeme/anticoagulants.qmd)
+- [Coagulation testing](/content/haeme/coag_testing.qmd)

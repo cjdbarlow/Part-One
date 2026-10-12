@@ -1,0 +1,61 @@
+#### List:
+
+- Intro: FRC
+- Effect of anaesthesia
+
+#### Intro: functional residual capacity (FRC)
+
++-------------------------------+-----------------------------------------------------------------------------------+
+| Definition                    | - Volume of air in the lungs at the end of tidal expiration                       |
+|                               | - Point at which lung inward recoil = chest wall outward recoil                   |
+|                               | - Sum of residual volume + expiratory reserve volume                              |
++-------------------------------+-----------------------------------------------------------------------------------+
+| Normal                        | - Upright: 40mL/kg (\~2,800mL)                                                    |
+|                               | - Supine: 30mL/kg (\~2,100mL)                                                     |
+|                               | - (↑16mL per year in adult life)                                                  |
++-------------------------------+-----------------------------------------------------------------------------------+
+| Determinants                  | - Absolute lung size                                                              |
+|                               | - Relative lung volume: inward vs outward recoil                                  |
+|                               | - Alveolar patency                                                                |
++-------------------------------+-----------------------------------------------------------------------------------+
+| Significance                  | - O~2~ reservoir during expiration, between breaths, during apnoea                |
+|                               | - Prevents alveolar collapse                                                      |
+|                               | - Point of maximal compliance                                                     |
+|                               | - Point of moderate airway resistance                                             |
+|                               | - Point of minimal PVR                                                            |
++-------------------------------+-----------------------------------------------------------------------------------+
+| Summary: effect of anesthesia | - General anaesthesia reduces FRC                                                 |
+|                               | - Poorly tolerated if FRC already reduced (e.g. pregnancy, obesity, lung disease) |
+|                               | - Partly offset by PEEP                                                           |
++-------------------------------+-----------------------------------------------------------------------------------+
+
+#### Effect of anaesthesia:
+
++-----------------------+-----------------------------------------------------------------------------------------+
+| Pre-oxygenation       | - Loss of nitrogen splinting → absorption atelectasis → ↓FRC (worse if airway collapse) |
++-----------------------+-----------------------------------------------------------------------------------------+
+| General anaesthesia   | - ↓15% (30 → 25mL/kg)                                                                   |
+|                       | - Immediate fall; nadir within minutes; normalizes hours after extubation               |
+|                       | - ? Due to relaxation of diaphragm, intercostals, with loss of end-expiratory tone      |
+|                       | - ? Due to shape change alone (cephalad shift at dependent regions)                     |
+|                       | - Pulmonary vasodilatation → ↑pulmonary blood volume (minor factor)                     |
+|                       | - Exaggerated fall if obese                                                             |
++-----------------------+-----------------------------------------------------------------------------------------+
+| Neuraxial anaesthesia | - Intercostal relaxation → mild ↓FRC                                                    |
+|                       | - No effect on diaphragm unless total spinal                                            |
++-----------------------+-----------------------------------------------------------------------------------------+
+| Paralysis             | - Further relaxation of diaphragm, intercostals                                         |
+|                       | - Minimal or no further ↓ FRC                                                           |
++-----------------------+-----------------------------------------------------------------------------------------+
+| PEEP                  | - ↑Airway pressure → alveolar distension → ↑FRC                                         |
+|                       | - Important for dependent areas                                                         |
++-----------------------+-----------------------------------------------------------------------------------------+
+| Extubation            | - Coughing, loss of positive airway pressure → atelectasis → ↓FRC                       |
+|                       | - Attenuated by PEEP                                                                    |
++-----------------------+-----------------------------------------------------------------------------------------+
+| Posture               | - Diaphragm compression: supine \> lateral decubitus \> beach chair                     |
+|                       |   - (not sure where prone fits)                                                         |
+|                       | - Pulmonary blood volume: 9% total blood volume upright, 15% recumbent (minor factor)   |
++-----------------------+-----------------------------------------------------------------------------------------+
+| Surgery               | - Pneumoperitoneum → ↑intra-abdominal pressure → compression atelectasis, ↓FRC          |
++-----------------------+-----------------------------------------------------------------------------------------+

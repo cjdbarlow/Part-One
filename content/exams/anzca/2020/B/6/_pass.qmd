@@ -1,0 +1,25 @@
+**Phases of the Respiratory cycle** 
+
+ ![](/content/exams/anzca/2020/B/6/standard-image44.png){fig-alt="Normal capnogram with respiratory phases, end-tidal point and alpha and beta angles"}
+
+1.  Inspiratory baseline - reflects inspiratory gasses 
+2.  Expiratory upstroke, transition from dead space gas to alveolar gas
+3.  Alveolar plateau represents alveolar gas
+4.  End tidal point of EtCO2 measurement 
+
+> Phase 0 - inspiratory downstroke 
+
+**Information obtained from capnograph**
+
+**Patient information:**
+
+1.  Confirmation of endotracheal placement and/or effective ventilation with multiple normal waveforms
+    - Right main bronchus intubation may show bifid capnograph 
+2.  Adequacy of ventilation and perfusion, rising or abnormally low EtCO2 may represent under ventilation or low perfusion states 
+3.  Expiratory resistance / obstruction with slow ‘shark fin’ rise in CO2 at expiration 
+
+**Equipment Information **
+
+1.  Soda lime exhaustion →↑inspiratory baseline CO2
+2.  Circuit disconnection 
+3.  inspiratory / expiratory valve malfunction

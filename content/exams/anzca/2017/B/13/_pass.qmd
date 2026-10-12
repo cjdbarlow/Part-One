@@ -1,0 +1,60 @@
+**Myocardial Oxygen Supply**
+
+Myocardial oxygen supply is dependent on:
+
+- Coronary blood flow 
+- Oxygen Content of blood and coronary extraction
+
+Functionality myocardial oxygen supply is determined of coronary blood flow as in healthy individuals 
+
+- Oxygen content is maximal \~20ml O2/100ml blood.
+- Resting O2 extraction of coronary blood is high/near maximal around 70% 
+
+Left ventricular myocardial blood supply is normally approx. 200-250ml/min (\~5% Cardiac Output) 
+
+**O2 Content **of Blood is described by oxygen carrying equation:
+
+(SpO2xHbx1.34) + (0.003xPaO2)
+
+**Blood flow **is determined by:
+
+- Driving pressure (Aortic Root diastolic pressure - LV cavity pressure) / Coronary Vascular Resistance
+
+As Cavity and Aortic pressures change during cardiac cycle flow is highest in diastole.  
+
+Therefore, heart rate is a=n important determinant of blood flow and tachycardia will ↓LV myocardial blood flow
+
+ ![](/content/exams/anzca/2017/B/13/standard-image34.png){fig-alt="Coronary blood flow over the cardiac cycle with systole marked"}
+
+Coronary vascular resistance is calculated from the Hagan Poiseuille Equation:
+
+Resistance = 8nL / PixR4 
+
+**Myocardial Oxygen Demand**
+
+Normal myocardial oxygen consumption (MVO2) is 8-10ml/min/100g or 21-27ml.min-1.
+
+Myocardial Oxygen Demand Is determined by:
+
+- Heart Rate 
+- Contractility 
+- Wall Tension 
+
+**Heart Rate: **
+
+Increasing heart rate increases number of myocardial tension generating cycles/min  → proportional increase in MVO2, due to described coronary flow factors ↑HR also has effect of reducing supply 
+
+Contractility
+
+↑Contractility results in increased force of LV contraction/work performed → proportional ↑in Myocardial Oxygen Demand   
+
+Wall Tension:
+
+LV wall tension is given by the law of La Place (For a sphere) where 
+
+Wall Tension = (Pressure x Radius) / 2 
+
+↑Wall Tension → ↑LV Work → ↑O2 Demand
+
+- Radius of LV is a function of preload → ↑Preload → ↑Tension
+- Pressure in LV is a function of Afterload  → ↑Afterload → ↑Tension

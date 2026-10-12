@@ -1,0 +1,90 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016A Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the factors influencing the speed of onset of blockade, of a major peripheral nerve, with local anaesthetic.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} onset from injection to sodium channel binding. Apply diffusion principles to the drug, nerve and injection site, distinguishing delivery and membrane passage from the concentration needed for clinical blockade.
+
+::: {.structure-headings}
+### Drug Path and Sodium Channel Binding
+
+### Concentration, Volume and Diffusion Distance
+
+### Ionisation and Diffusion Coefficient
+
+### Nerve Structure and Susceptibility
+
+### Patient, Site and Tissue Factors
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**72%** of candidates achieved a pass in this question
+
+This question required three key areas to be addressed.
+
+Firstly, the speed of onset of a clinical nerve blockade was expected to be discussed in terms of drug effects such as diffusion into the nerve, crossing the cell membrane to have an effect, and the binding to the sodium channel inside the cell.
+
+The pharmacokinetic principles outlined in Fick’s Law were an essential requirement to obtain a pass in this question. The answer did, however, need to be specific to local anaesthetics and onset – not just a generic listing of factors in the equation & inclusion of irrelevant factors such as duration of action or plasma circulation.
+
+In a significant proportion of answers there was incorrect information & understanding with regard to the role of lipid solubility in the onset of effect of the local anaesthetics. Generally, the effects of pKa and ionization were correctly stated. Extra credit was given for the inclusion of correct values of the different common local anaesthetics.
+
+Secondly, discussion of major peripheral nerve characteristics was required for a higher scoring answer. It was expected to include the structure and function of peripheral nerves and the influence of these factors on speed of onset. Answers that discussed subarachnoid blocks or epidurals could not be scored.
+
+Including information about patient characteristics also achieved higher marks. The altered physiological states such as pregnancy, the area of injection and closeness to the nerve and conditions such as diabetes and old age were given credit as they indicated a broader understanding of the topic.
+
+Thirdly, the drugs themselves needed to be addressed. Factors such as dose and concentration were simple factors that were often overlooked in answers. Also, the influence of tissue pH such as with infection was expected.
+
+The poorly scoring answers lacked the details required to cover all aspects of the question, while some discussed irrelevant details related to duration of effect, metabolism, the use of vasoconstrictors & protein binding. Simply not addressing nerve factors or clinical factors meant candidates missed scoring valuable points for a pass.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2016/A/6/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2016/A/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Local anaesthetic principles](/content/pharmacopoeia/neuro/local_anaesthetic_principles.qmd)

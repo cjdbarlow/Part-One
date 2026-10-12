@@ -1,0 +1,104 @@
+#### List:
+
+- Neonate
+- Summary table
+- Pharmacokinetics: ADME
+- (Pharmacodynamics)
+
+#### Neonate:
+
+- 0-28 days old
+- Born 37-40 weeks gestation
+- All changes more pronounced if premature
+
+#### Summary:
+
++-------------------+------------------------------+-------------------------+------------------------------+
+|                   | **Morphine**                 | **Bupivacaine**         | **Suxamethonium**            |
++===================+==============================+=========================+==============================+
+| Type              | Opioid analgesic             | Amide local anaesthetic | Depolarising muscle relaxant |
++-------------------+------------------------------+-------------------------+------------------------------+
+| Dose              | 0.1-0.2mg/kg                 | Max 2mg/kg              | 1-2mg/kg                     |
+|                   |                              |                         |                              |
+|                   | 3kg baby: 0.3-0.6mg          | 3kg baby: 6mg           | 3kg baby: 3-6mg              |
++-------------------+------------------------------+-------------------------+------------------------------+
+| Toxicity          | M: sedation, resp depression | CNS: seizure, coma      | Desensitisation blockade     |
+|                   |                              |                         |                              |
+|                   | M6G: same                    | CVS: arrhythmia, arrest | Bradyarrhythmia              |
+|                   |                              |                         |                              |
+|                   | M3G: neurotoxicity, seizure  |                         |                              |
++-------------------+------------------------------+-------------------------+------------------------------+
+| Neonate cf. adult | ↑Sensitivity to opioid       | ↑Sensitivity            | Kinetic changes cancel out   |
+|                   |                              |                         |                              |
+|                   | ↑M3G toxicity                | ↓Metabolism             | ↑Sensitivity                 |
+|                   |                              |                         |                              |
+|                   | ↓Metabolism                  |                         | ↑Risk bradyarrhythmia        |
++-------------------+------------------------------+-------------------------+------------------------------+
+
+#### Absorption:
+
++------------------+-----------------------------------------------------------------------------------------------+
+| Oral             | - Vomiting, GORD → unreliable effect PO morphine                                              |
+|                  | - ↓Absorption rate until 6-8 months (↓rate of onset PO morphine)                              |
+|                  | - ↓Intestinal transit speed → ↑oral bioavailability of morphine                               |
++------------------+-----------------------------------------------------------------------------------------------+
+| Inhaled          | - V~A~:FRC ratio 5:1 cf. 1.5:1 → ↑rate of rise F~A~/F~I~ volatiles (overrides cardiac output) |
++------------------+-----------------------------------------------------------------------------------------------+
+| IM               | - ↑Muscle blood flow → rate of absorption of suxamethonium                                    |
++------------------+-----------------------------------------------------------------------------------------------+
+| SC / transdermal | - ↑Cardiac output:surface area → ↑skin blood flow → ↑rate of absorption S/C morphine          |
++------------------+-----------------------------------------------------------------------------------------------+
+
+#### Distribution:
+
++-----------------+--------------------------------------------------------------------------------------+
+| ↑Cardiac output | - ↑Rate of onset suxamethonium                                                       |
+|                 | - ↓Rate of ↑ F~A~/F~I~ volatile anaesthetic (overridden by ↑V~A~:FRC)                |
++-----------------+--------------------------------------------------------------------------------------+
+| Blood           | - ↑Blood volume                                                                      |
+|                 | - ↓Blood fat content → ↓blood:gas partition coefficient volatiles                    |
+|                 | - ↓pH 7.3 → ↑ionisation of basic drugs e.g. bupivacaine → ↓toxicity (minor effect)   |
+|                 | - ↓Albumin → ↑%free bupivacaine → ↑toxicity                                          |
+|                 | - ↓AAG → ↑%free basic drugs → toxicity (e.g. morphine)                               |
++-----------------+--------------------------------------------------------------------------------------+
+| Tissues         | - ↑Total body water → ↑V~D~ water-soluble drugs e.g. suxamethonium                   |
+|                 | - ↓Muscle mass → ↑sensitivity to suxamethonium                                       |
+|                 | - ↓Fat mass → ↓uptake of lipid-soluble drugs → toxicity (e.g. bupivacaine)           |
+|                 | - Immature blood brain barrier → ↑uptake of morphine (only 23% unionized) → toxicity |
++-----------------+--------------------------------------------------------------------------------------+
+| Brain           | - Permeable blood-brain barrier → ↑toxicity if                                       |
+|                 |   - Highly ionised (e.g. morphine 77%, bupivacaine 85%)                              |
+|                 |   - Hydrophilic (e.g. M3G, M6G)                                                      |
++-----------------+--------------------------------------------------------------------------------------+
+
+#### Metabolism:
+
++------------------------+-----------------------------------------------------------------------------+
+|                        | Enzyme systems mature at different rates                                    |
++------------------------+-----------------------------------------------------------------------------+
+| ↓Phase 1 reactions     | - ↓Rate of bupivacaine metabolism → ↑toxicity                               |
+|                        | - Products: pipecolic acid, pipecolyxylidine                                |
++------------------------+-----------------------------------------------------------------------------+
+| ↓Phase 2 reactions     | - ↓Rate of morphine metabolism → ↑toxicity                                  |
+|                        | - Products: morphine-3-glucuronide, morphine-6-glucuronide                  |
++------------------------+-----------------------------------------------------------------------------+
+| ↓Plasma cholinesterase | - ↓Rate of suxamethonium metabolism → ↑toxicity                             |
+|                        | - Products: succinylmonocholine + choline → succinic acid + another choline |
++------------------------+-----------------------------------------------------------------------------+
+
+#### Excretion:
+
++--------------------+--------------------------------------------------+
+| ↓GFR               | - Initially 10% of adult; normalised at 6 months |
+|                    | - ↓Elimination of M3G and M6G → ↑toxicity        |
++--------------------+--------------------------------------------------+
+| ↓Tubular secretion | - Relevant to other drugs                        |
++--------------------+--------------------------------------------------+
+
+#### Pharmacodynamics:
+
++----------------------+-----------------------------------------------------------+
+| Immature resp centre | - ↑Morphine toxicity                                      |
++----------------------+-----------------------------------------------------------+
+| Immature NMJ         | - ↓Reserve of ACh → myasthaenic response to suxamethonium |
++----------------------+-----------------------------------------------------------+

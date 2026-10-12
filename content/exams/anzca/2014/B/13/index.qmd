@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014B Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly explain**]{.task-verb} the changes that occur in stored whole blood.
+:::
+
+Also asked in: [2002B Question 12](/content/exams/anzca/2002/B/12/index.qmd#examiner-comments), [2010A Question 12](/content/exams/anzca/2010/A/12/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly explain**]{.task-verb} the storage changes in a table, connecting the direction and timing of each change to its cause.
+
+::: {.structure-table}
+| Component | Change and Timing | Reason |
+|---|---|---|
+| Red Blood Cells | | |
+| White Blood Cells | | |
+| Platelets | | |
+| Clotting Factors and Plasma Proteins | | |
+| Biochemistry and Dissolved Gases | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**60 %** of candidates achieved a pass in this question
+
+A pass mark was easily achieved with inclusion of the main concepts of red blood cell changes, biochemical changes and clotting effects. Better answers mentioned the actual direction of changes and the reasons or rationale to explain the changes such as anaerobic metabolism, lysis of cells and lack of substrates.
+
+High achieving answers occurred where the candidates were able to include the values or percent of changes (correctly), timing of deteriorations and less commonly mentioned facts or explanations such as Na-K-ATPase pump function for example. Organisation of answers into headings avoided needless repetition or omission of important facts.
+
+Although some candidates did make comment regarding the lessening relevance of whole blood to modern clinical practice, acute normovolaemic haemodilution continues to be practised, with the removal and retransfusion of whole blood.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2002/B/12/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2002/B/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Blood product storage](/content/haeme/blood_products.qmd)

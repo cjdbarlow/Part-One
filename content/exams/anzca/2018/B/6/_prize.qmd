@@ -1,0 +1,124 @@
+#### List:
+
+- Introduction
+- Storage lesion
+- Overload
+- Dilution
+- Metabolic
+- Immune
+- Infective
+
+#### Introduction:
+
++----------------------------+----------------------------------------------------------+
+| Red cell unit contents     | - Red cells                                              |
+|                            | - Small volume plasma                                    |
+|                            | - Preservative: sodium, adenine, glucose, mannitol       |
++----------------------------+----------------------------------------------------------+
+| Massive transfusion        | - 50% blood volume in 4 hours, or 100% of BV in 24 hours |
+|                            | - 10 units = 2.5L = 50% blood volume                     |
++----------------------------+----------------------------------------------------------+
+| Ideal ratio of RBC:FFP:plt | - 1:1:1 units = 4:2\*:1 bags                             |
+|                            | - May be situation-dependent                             |
+|                            |                                                          |
+|                            | (\*4 in Victoria)                                        |
++----------------------------+----------------------------------------------------------+
+| Lethal triad               | - Acidosis                                               |
+|                            | - Hypothermia                                            |
+|                            | - Coagulopathy                                           |
++----------------------------+----------------------------------------------------------+
+
+#### Storage lesion: (at 4°C for 35 days)
+
++--------------+------------------------------------------------------------+
+| Cells        | - Red cells: spheroidal, rigid, fragile; 25% loss at 4/52\ |
+|              |   (free Hb 1 → 30mcg/mL)                                   |
+|              | - White cells: inactivate but still antigenic              |
+|              | - Platelets: inactivated at 48 hours?                      |
++--------------+------------------------------------------------------------+
+| Coag factors | - Minimal since plasma removed                             |
+|              | - FV 50% at 3/52                                           |
+|              | - FVIII 30% at 3/52                                        |
++--------------+------------------------------------------------------------+
+| Metabolic    | - Temp 4°C                                                 |
+|              | - pH 7.4→6.7 (due to additives)                            |
+|              | - K^+^ 4→30mM                                              |
+|              | - Ca^2+^ 2mmol/L → ? (due to 3mg citrate)                  |
+|              | - ATP 75%                                                  |
+|              | - \[2,3-DPG\]: 50% at 2/52, 5% at 4/52 (due to low temp)   |
+|              | - ↑Free haemoglobin                                        |
++--------------+------------------------------------------------------------+
+
+#### Overload:
+
++-----------------+--------------------------------------------------------------------------+
+| Fluid           | - ↑Blood volume → ↑preload                                               |
+|                 | - May cause heart failure                                                |
+|                 | - High risk if LV impairment                                             |
++-----------------+--------------------------------------------------------------------------+
+| Iron            | - Haemolysis → Hb breakdown → ↑free haemoglobin                          |
+|                 | - Risk of haemochromatosis → damage to liver, pancreas, heart, pituitary |
++-----------------+--------------------------------------------------------------------------+
+| Microaggregates | - Microvascular occlusion → multi-organ dysfunction (especially lung)    |
++-----------------+--------------------------------------------------------------------------+
+
+#### Dilution:
+
++--------------+-------------------------------------------+
+| Coag factors | - Dilutional coagulopathy                 |
+|              |   - Coag factors esp fibrinogen           |
+|              |   - Platelets                             |
++--------------+-------------------------------------------+
+| Plasma       | - Hyperviscosity                          |
+|              |   - ↑risk thromboembolism                 |
+|              |   - ↑resistance to flow, ↑myocardial work |
++--------------+-------------------------------------------+
+
+#### Metabolic:
+
++--------------+-----------------------------------------------------------------------------------------------------+
+| ↓Temperature | - Arrest if rapid via CVC                                                                           |
+|              | - Coagulopathy                                                                                      |
++--------------+-----------------------------------------------------------------------------------------------------+
+| ↓pH          | - Arrest if rapid via CVC                                                                           |
+|              | - Negative inotropy                                                                                 |
+|              | - Generalized metabolic dysfunction                                                                 |
++--------------+-----------------------------------------------------------------------------------------------------+
+| ↑K^+^        | - Arrhythmia, arrest if rapid via CVC                                                               |
+|              | - Most K^+^ taken up by RBC upon transfusion                                                        |
++--------------+-----------------------------------------------------------------------------------------------------+
+| ↓Ca^2+^      | - Arrhythmia, muscle weakness                                                                       |
+|              | - (Note hypocalcaemia severe enough to cause coagulopathy would already have caused cardiac arrest) |
++--------------+-----------------------------------------------------------------------------------------------------+
+| ↓2,3-DPG     | - Left shift oxyhaemoglobin dissociation curve → ↓tissue oxygenation                                |
++--------------+-----------------------------------------------------------------------------------------------------+
+
+#### Immunological:
+
++---------+-----------------------------------------------------------------------+
+| Acute   | - Febrile non-haemolytic (cytokines)                                  |
+|         | - Febrile haemolytic (incompatibility)                                |
+|         |   - ABO: intravascular (DIC, renal failure, death)                    |
+|         |   - RhD: extravascular (haemolysis)                                   |
+|         | - Anaphylaxis (Type 1 hypersensitivity against plasma protein)        |
+|         | - TRALI (? donor antibody ? host priming by illness)                  |
++---------+-----------------------------------------------------------------------+
+| Delayed | - Alloimmunisation                                                    |
+|         |   - Delayed haemolysis (anamnestic response to Kell, Kidd, Duffy)     |
+|         |   - Haemolytic disease of the newborn (anti-RhD IgG crosses placenta) |
+|         |   - Post-transfusion purpura (anti-platelet antibody → consumption)   |
+|         | - Cancer recurrence (immune suppression)                              |
+|         | - Graft vs host (donor WBC multiplies in immunocompromised host)      |
++---------+-----------------------------------------------------------------------+
+
+#### Infective:
+
++----------+---------------------------------------------+
+| Bacteria | - Platelets (room temp) \> RBC              |
+|          | - Certain bacteria can multiply in the cold |
++----------+---------------------------------------------+
+| Viruses  | - HBV, HCV, HIV; CMV                        |
++----------+---------------------------------------------+
+| Other    | - Parasites (e.g. P.falciparum malaria)     |
+|          | - Prion                                     |
++----------+---------------------------------------------+

@@ -1,0 +1,64 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002B Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the physiological factors which increase respiratory rate. [**Include**]{.task-verb} a brief explanation of the mechanism by which each achieves this increase.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} factors under **Hypoxia**, **Hypercapnoea**, **Acidosis**, and **Other Physiological Influences**. [**Include**]{.task-verb} a brief explanation linking each factor to the increase in respiratory rate and consider the interaction between hypoxia and hypercapnoea.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**55%** of candidates passed this question.
+
+The question was quite specific in requiring a list of physiological factors followed by a brief explanation of each factor. It was expected that the effects of hypoxia, hypercapnoea, and acidosis would receive most attention. In addition it was expected that at least two other factors would be mentioned (eg exercise, voluntary control, depression of respiratory centre, pulmonary stretch reflexes). Most candidates neglected to mention that hypoxia and hypercapnoea are synergistic in their effect on increasing respiratory rate. Others made vague statements linking the effects of PaO~2~, PaCO~2~ and pH. Some candidates produced detailed descriptions of respiratory control mechanisms which were not required. Many candidates were confused about pulmonary stretch reflexes, which act primarily to limit or prevent hyperinflation, and are less important for controlling respiratory rate.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Control of Breathing](/content/resp/breathing_control.qmd)

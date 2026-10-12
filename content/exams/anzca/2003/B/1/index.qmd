@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003B Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Draw**]{.task-verb} and [**label**]{.task-verb}, on the same X – Y axis, FA/FI curves for the following halothane concentrations in oxygen, showing a 30 minute period from starting administration.
+
+(a) Halothane 1%, subject breathing spontaneously.
+(b) Halothane 6%, subject breathing spontaneously.
+(c) Halothane 6%, subject paralysed and ventilated.
+
+With reference to the major factors determining the shape of FA/FI curves [**explain**]{.task-verb} the differences between A and B, and A and C.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Draw**]{.task-verb} and [**label**]{.task-verb} the three **FA/FI Curves** on shared axes for the stated 30-minute period. [**Explain**]{.task-verb} **A Versus B** and **A Versus C** through the concentration effect, ventilation and cardiac output.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**29%** of candidates passed this question.
+
+Most candidates started the three curves from the origin satisfactorily. However the rise in F~A~F~I~ is in fact more rapid for curve (a) rather than (b) to the end point at thirty minutes.
+
+Most candidates recognised the significance of the concentration effect on the rise in alveolar concentration. However the effect is more modest on the F~A~/F~I~ ratio, and textbooks discuss this effect where ventilation is controlled.
+
+6% halothane is a profound respiratory depressant in the unstimulated patient and this overrides the concentration effect that most candidates quoted. Some candidates correctly mentioned the mild reduction in cardiac output which would be seen with 6% halothane which would augment the rise in F~A~/F~I~. However the effect on ventilation remains paramount.
+
+Most candidates recognised the rapid and sustained rise in the F~A~/F~I~ which would occur during controlled ventilation with 6% halothane. Here the concentration effect and sustained ventilation act together to produce a rapid rise in the F~A~/F~I~ ratio.
+
+Better answers included the effect of IPPV and 6% halothane on cardiac output, which is profoundly reduced. This further segments the rise in F~A~/F~I~.
+
+Some candidates who clearly had difficulty with the curves went back to first principles, describing the various factors on F~A~/F~I~ which earned valuable marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational Anaesthetic Agents](/content/pharmacopoeia/neuro/inhalational_anaesthetics.qmd)

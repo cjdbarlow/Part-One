@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019A Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the clinical laboratory tests of renal function. [**What are**]{.task-verb} the limitations of each test?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} each clinical test with its physiological basis, then state [**what**]{.task-verb} its limitations are. Distinguish plasma concentrations, estimated GFR and directly measured clearance, linking each limitation to production or renal handling.
+
+::: {.structure-table}
+| Test | Physiological Basis and Measurement | Limitations |
+|---|---|---|
+| Plasma Creatinine | | |
+| Plasma Urea | | |
+| Estimated GFR | | |
+| Measured Creatinine Clearance | | |
+| Other Clinical Markers | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**54.1 %** of candidates achieved a pass in this question
+
+Discussion of plasma creatinine, plasma urea, and creatinine clearance as estimates of glomerular filtration rate (GFR) was expected. The physiological basis for the production and excretion of these molecules was necessary to explain the circumstances under which they may not accurately reflect renal function. Discussion of nonspecific and novel markers of renal function was also welcomed. In the most part, discussion of inulin and para-aminohippuric acid was unnecessary.
+
+Most candidates could correctly describe the reasons why a plasma creatinine concentration might not accurately reflect renal function. Candidates struggled to succinctly state that excretion of waste products was one of the key functions of the kidney and that the inability to excrete certain waste products, eliminated from the body largely by glomerular filtration, could be used as a marker of renal dysfunction.
+
+Many candidates did not adequately explain the relationship between plasma creatinine concentration, creatinine clearance and GFR. Some candidates were unaware that GFR could be estimated by using formulae derived from population data, with various associated limitations. Most candidates were unaware that creatinine clearance could be directly measured by measuring plasma creatinine concentration, urine creatinine concentration and timed urine volume. Discussion of plasma urea, when not omitted, was usually very vague.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2019/A/6/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2019/A/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Measurement of GFR](/content/renal/creatinine_clearance.qmd)

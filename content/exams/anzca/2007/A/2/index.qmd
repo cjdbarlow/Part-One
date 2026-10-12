@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007A Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+After epidural injection in a health term pregnant woman, [**discuss**]{.task-verb} the factors influencing the distribution of bupivacaine to (a) the maternal CSF and spinal cord; (b) the maternal circulation; (c) the foetus.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} distribution across the three requested interfaces using diffusion principles. Apply concentration, ionisation, binding and pregnancy-related compartment differences to each rather than listing drug properties alone.
+
+::: {.structure-headings}
+### Epidural Drug and Diffusion Principles
+
+### Maternal CSF and Spinal Cord
+
+### Maternal Circulation and Biphasic Absorption
+
+### Placental Transfer and Foetal Factors
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**46%** of candidates passed this question.
+
+The main points expected for a pass included a discussion of the factors affecting diffusion as described in Fick's Law and how these pertained to the three diffusion interfaces outlined in the question.
+
+Solubility, ionization, tissue and protein binding, amount of drug, and concentration gradient all affect the distribution of bupivacaine from the epidural space to the CSF and maternal systemic circulation, and subsequently to the foetus. Demonstration of comprehension that there are physiological differences between these four compartments and how these determine bupivacaine's distribution was expected. Additional marks were awarded for the consequences of the addition of adrenaline or bicarbonate to the bupivacaine solution, a discussion on epidural depot of drug, the biphasic nature of systemic absorption and foetal acidosis effect on bupivacaine protein binding.
+
+Common errors included discussing elements of bupivacaine that were not requested; such as drawing its structure or a pharmacodynamic discussion of its toxicity. Also, reproducing factual information, such as the pKa of the drug, without discussing how this affects its diffusion at the three interfaces, did not attract marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/A/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Local anaesthetic principles](/content/pharmacopoeia/neuro/local_anaesthetic_principles.qmd)

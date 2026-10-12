@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006B Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the structure of a mammalian skeletal muscle fibre and [**explain**]{.task-verb} how its structure is related to its contractile function. DO NOT describe excitation-contraction coupling.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} the muscle fibre as a specialised cell and [**explain**]{.task-verb} how each structural feature supports contraction. Use a labelled fibre and sarcomere diagram while observing the exclusion of excitation–contraction coupling.
+
+::: {.structure-headings}
+### Fibre, Myofibril and Myofilament
+
+### Sarcolemma and Specialised Membrane Structures
+
+### Sarcomeres and Contractile Proteins
+
+### Sarcoplasmic Reticulum and Mitochondria
+
+### Nuclei, Enzymes and Myoglobin
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**35 %** of candidates passed this question.
+
+There were few high scoring answers. In order to pass this question, a simple outline of the structural components of the skeletal muscle fibre and their related functions as related to contraction would suffice. Additional marks were obtained for a more detailed description of the components of the muscle fibre and for disorders of the fibre structures.
+
+Many candidates confused the muscle fibre with myofibril or myofilaments, and as such were not able to obtain sufficient marks to pass. Many candidates failed to appreciate that the skeletal muscle fibre was a cell, and therefore did not mention basic cellular components, especially those modified to have a specific function in skeletal muscle fibres.
+
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2006/B/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Skeletal muscle](/content/msk/skeletal_muscle.qmd)

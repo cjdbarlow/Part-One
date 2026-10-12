@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010A Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the physiological factors that may lead to a decrease in mixed venous blood oxygen saturation.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} mixed venous oxygen saturation as the result of oxygen delivery and consumption. Use the Fick relationship to identify arterial oxygen content, cardiac output and oxygen consumption, then explain changes in each.
+
+::: {.structure-headings}
+### Definition and Sampling
+
+### Fick Relationship and Oxygen Balance
+
+### Reduced Arterial Oxygen Content
+
+### Reduced Cardiac Output
+
+### Increased Oxygen Consumption
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**30%** of candidates passed this question.
+
+This question required candidates to explain a decrease in mixed venous oxygen saturation. The key issue in this question is the fact that the value of mixed venous saturation is the result of a balance between oxygen delivery to the cells (oxygen flux) and cellular consumption of oxygen. The net value of mixed venous saturation can thus be explained by unpacking the elements of delivery and consumption, and explaining how their variation results in a change in mixed venous saturation. Not acknowledging this issue made it difficult for candidates to accumulate sufficient marks to pass the question.
+
+A significant number of candidates approached this by providing flux equations or variants of Fick‟s Law. This readily identified the elements, and their contributions could be clearly explained. These candidates tended to comfortably accumulate sufficient marks to pass. However, some candidates spent significant time on detailed derivations of formulae, leaving less time to address more important aspects or to accumulate bonus marks for more detailed information. Further, detailed derivations not uncommonly introduced simple errors. Simply using a formula or equation to identify the elements or principles involved was sufficient.
+
+Many candidates did not identify this basic principle of supply and demand, and therefore struggled to pass the question. Instead, a significant number of candidates focused on details such as the oxygen dissociation curve in both arterial and venous blood, sometimes in great depth and with detailed figures. Some candidates focused on little else. The time spent on this aspect left little opportunity to address more fundamental issues.
+
+It was notable that the terms oxygen tension, saturation and content were used carelessly in a significant number of answers. These are fundamental issues at this level of physiology.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2010/A/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Oxygen cascade](/content/resp/oxygen_cascade.qmd)
+- [Determinants of cardiac output](/content/cvs/co_determinants.qmd)

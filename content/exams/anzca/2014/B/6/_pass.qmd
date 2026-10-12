@@ -1,0 +1,37 @@
+Bupivacaine is an amide local anaesthetic agent. 
+
+Safe tissue dosage is recommended as 2mg/kg → 60kg person 120mg.
+
+20ml of 0.5% bupivacaine = 100mg dose. However this has been delivered to blood volume → \>20mcg/ml concentration this is a life-threatening dose. 
+
+CNS toxicity usually seem around 2mcg/ml plasma volume 
+
+The ratio of dose required to produce cardiovascular collapse (CC) to  that required to produce seizures (CNS) is a measurement of cardiac toxicity of and LA agent.
+
+Bupivacaine has a  CC:CNS ration of 2, much lower than other LA agents (lignocaine 7) → faster progression from CNS symptoms → Cardiovascular collapse. 
+
+Mechanism of action:
+
+Unionised Bupivacaine diffuses across the nerve axon phospholipid membrane 
+
+In the axon → ionised and blocks Na channel in inactivated state 
+
+→ nerve inhibits depolarisation
+
+**Major causes of toxicity:**
+
+**CVS**:
+
+Na channel blockers including bupivacaine are Class I antiarrhythmic agents and act at Phase 0 of the cardiac myocyte depolarisation → inhibits and decreases rate of depolarisation → bradycardia, AV conduction delay  → ↓HR/asystole and ↓mAP → cardiovascular collapse 
+
+**CNS**
+
+Initial excitatory effects
+
+- Inhibition of inhibitory interneurons
+- Peri-oral tingling, tinnitus, vertigo, slurred speech, inattention, twitching, seizures
+
+Then inhibitory effects
+
+- Inhibition of excitatory interneurons and others
+- Coma, apnoea

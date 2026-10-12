@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011A Question 16 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the difference between viscosity and density. [**Outline**]{.task-verb} the effects of changes in viscosity and density on the flow of gases and liquids.
+:::
+
+Also asked in: [2006B Question 12](/content/exams/anzca/2006/B/12/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} viscosity and density with definitions and units, then [**outline**]{.task-verb} their effects on laminar and turbulent flow. Use the governing relationships and Reynolds number, followed by physiological or equipment examples.
+
+::: {.structure-headings}
+### Definitions and Units
+
+### Laminar Flow and Viscosity
+
+### Turbulent Flow and Density
+
+### Transition and Reynolds Number
+
+### Clinical Applications
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question was passed by **72%** of candidates. In general this question was well answered.
+
+Points required for a pass were to demonstrate some understanding of the definitions of viscosity and density, the differences between laminar and turbulent flow and their dependence on viscosity and density respectively, and the factors that might influence the transition between laminar and turbulent flow.
+
+Additional marks were given for illustrative examples taken from physiology or anaesthetic equipment, understanding of flow-resistance relationships, and deeper understanding of the underlying physics (e.g. inertial vs. resistive forces).
+
+A common fault was that many candidates erroneously thought that density was defined as mass per unit area.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2006/B/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Airway resistance](/content/resp/resistance.qmd)

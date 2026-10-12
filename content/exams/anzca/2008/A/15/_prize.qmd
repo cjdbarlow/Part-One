@@ -1,0 +1,72 @@
+#### List:
+
+- Intro
+- Diagramme of juxtamedullary nephron
+- Creation
+- Maintenance
+
+#### Intro:
+
++-------------+--------------------------------------------------------------------------------------------+
+| Description | - Ascending concentration gradient from superficial to deep medulla                        |
+|             | - Max osmolality \~1200mOsm                                                                |
++-------------+--------------------------------------------------------------------------------------------+
+| Purpose     | - Allows selective reabsorption of water in medullary collecting ducts (ADH → aquaporin-2) |
++-------------+--------------------------------------------------------------------------------------------+
+| Aetiology   | - Established by countercurrent multiplication (CCM) 50% and urea recycling 50%            |
+|             | - Maintained by countercurrent exchange (CCE) in vasa recta                                |
+|             | - Only relevant to juxtamedullary nephrons                                                 |
++-------------+--------------------------------------------------------------------------------------------+
+
+#### Juxtamedullary nephron: 15% total
+
+![](/content/exams/anzca/2008/A/15/prize-image001.jpg){fig-alt="Juxtamedullary nephron and medullary concentration gradient with water, sodium chloride and urea handling"}
+
+#### Countercurrent multiplication:
+
++----------+---------------------------------------------------------------------------------------+
+| Step 1   | - Thick ascending limb is permeable to solute, not water                              |
+|          | - Filtered solute reabsorbed by 2° active transport (\~25% filtered Na^+^/Cl^-^/K^+^) |
+|          | - Passage via apical Na^+^K^+^2Cl^-^ symporter                                        |
+|          | - Basolateral Na^+^K^+^ATPase creates Na^+^ gradient                                  |
+|          | - Effects: ↓urine osmolality, ↑interstitial osmolality *to a level above normal*      |
++----------+---------------------------------------------------------------------------------------+
+| Step 2   | - Thin descending limb is permeable to H~2~O, not solute                              |
+|          | - Filtered H~2~O reabsorbed by osmosis (eventually 10% of that filtered)              |
+|          | - Effects: ↑urine osmolality, ↓interstial osmolality *but not back to starting level* |
++----------+---------------------------------------------------------------------------------------+
+| Steps 3+ | - Process is repeated hence amplified                                                 |
++----------+---------------------------------------------------------------------------------------+
+
+#### Urea recycling:
+
++---------------+--------------------------------------------------------------------------------------+
+| Urea handling | - Freely filtered                                                                    |
+|               | - 50% reabsorbed by proximal tubule                                                  |
+|               | - Same 50% secreted into thin descending loop of Henle                               |
+|               | - Same 50% reabsorbed in medullary collecting ducts via ureaporins (if ADH present)  |
++---------------+--------------------------------------------------------------------------------------+
+| Mechanism     | - Repeat transit between thin descending loop of Henle and medullary collecting duct |
+|               |   - Antegrade via the urine                                                          |
+|               |   - Retrograde via the interstitium                                                  |
+|               | - Multiple passages of each molecule before excretion → ↑interstitial osmolality\    |
+|               |   (as if several cars cycling a round-a-bout)                                        |
++---------------+--------------------------------------------------------------------------------------+
+
+#### Countercurrent exchange:
+
++-----------+-----------------------------------------------------------------------------------------------------+
+| Principle | - Unidirectional rapid blood supply would cause dilution of interstitium by osmosis -i.e. elsewhere |
+|           | - Bidirectional slow flow minimizes dilution – i.e. vasa recta                                      |
++-----------+-----------------------------------------------------------------------------------------------------+
+| Mechanism | - Vasa recta exist alongside juxtamedullary nephrons                                                |
+|           | - Descending limb: water lost, solute gained                                                        |
+|           | - Ascending limb: water gained, solute lost                                                         |
+|           | - Hence minimal change to interstitium                                                              |
+|           | - (Note also some reabsorption into lymphatics)                                                     |
++-----------+-----------------------------------------------------------------------------------------------------+
+| Problem   | - Slow flow                                                                                         |
+|           | - Low oxygen supply                                                                                 |
+|           | - High oxygen extraction ratio (medulla 0.8 cf. cortex 0.2)                                         |
+|           | - Vulnerable to ischaemia                                                                           |
++-----------+-----------------------------------------------------------------------------------------------------+

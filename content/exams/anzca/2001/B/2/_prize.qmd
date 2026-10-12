@@ -1,0 +1,104 @@
+#### List:
+
+- Intro
+- Graph
+- Elastic forces
+- Inelastic forces
+- Frequency dependence
+
+#### Intro: 
+
++--------------+-----------------------------------------------------------------------------------------+
+| Definition   | - Amount of energy spent on breathing                                                   |
+|              | - Unit joules                                                                           |
+|              | - = Force x displacement                                                                |
+|              | - = Pressure work x volume work                                                         |
++--------------+-----------------------------------------------------------------------------------------+
+| Normal value | - \<2% total VO~2~ = 3mL/min                                                            |
++--------------+-----------------------------------------------------------------------------------------+
+| Efficiency   | - Only 10% (90% → heat)                                                                 |
++--------------+-----------------------------------------------------------------------------------------+
+| Components   | - Inspiration: primary active                                                           |
+|              |   - Diaphragm, external intercostals etc                                                |
+|              | - Expiration: secondary active at rest (use stored energy), primary active under stress |
+|              |   - Abdominal wall, internal intercostals etc                                           |
++--------------+-----------------------------------------------------------------------------------------+
+
+#### Graph:
+
++-------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| Inspiration | ![](/content/exams/anzca/2001/B/2/prize-image001.jpg){fig-alt="Inspiratory pressure–volume graph with elastic and inelastic work regions"}  |
+|             |                                                                                                                                             |
+|             | 1: elastic = stored                                                                                                                         |
+|             |                                                                                                                                             |
+|             | 2: inelastic                                                                                                                                |
++-------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| Expiration  | ![](/content/exams/anzca/2001/B/2/prize-image002.jpg){fig-alt="Expiratory pressure–volume graph with stored and used energy regions"}       |
+|             |                                                                                                                                             |
+|             | 1: available                                                                                                                                |
+|             |                                                                                                                                             |
+|             | 3: used                                                                                                                                     |
++-------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+
+\*Bronchoconstriction → ↑size of area 3 (and 2)
+
+#### Elastic (50%)
+
++---------------------+----------------------------------------------------------------------------+
+| Surface tension     | - LaPlace’s law: pressure = 2 x surface tension / radius                   |
+|                     |   - Fluid surfaces acquire least surface area due to surface tension       |
+| (35%)               |   - Alveoli tend to collapse                                               |
+|                     | - Surfactant:                                                              |
+|                     |   - Produced by type 2 alveolar cells                                      |
+|                     |   - Reduces surface tension at air-water interface                         |
+|                     |   - Becomes more concentrated (= more effective) at low alveolar volume    |
+|                     |   - →↓ alveolar collapse, ↑compliance, ↓ work of breathing, ↓ transudation |
+|                     | - Factors increasing surface tension:                                      |
+|                     |   - Alveolar oedema → surfactant dilution                                  |
+|                     |   - Surfactant deficiency (e.g. prematurity, SP-B or SP-C deficiency)      |
++---------------------+----------------------------------------------------------------------------+
+| Elastic lung tissue | - Elastic lung fibres e.g. elastin                                         |
+|                     |   - e.g. fibrosis → ↓ elasticity → ↑WOB                                    |
+| (15%)               |                                                                            |
++---------------------+----------------------------------------------------------------------------+
+
+#### Inelastic (50%):
+
++-----------------------+--------------------------------------------------------------------------------+
+| Resistance to airflow | **Flow type:**                                                                 |
+|                       |                                                                                |
+| (major)               | - Large airways: turbulent flow – (P~1~-P~2~) ∝ (density x length) / radius^5^ |
+|                       | - Small airways: laminar flow – R = (8 x length x viscosity) / (π x radius^4^) |
+|                       | - Medium size: transitional flow                                               |
+|                       |                                                                                |
+|                       | **Variables: factors ↑resistance**                                             |
+|                       |                                                                                |
+|                       | - ↓Airway radius:\                                                             |
+|                       |   \*Most important factor since raised to power of 4 or 5\*                    |
+|                       |   - ↓Absolute lung size (e.g. neonate cf. adult)                               |
+|                       |   - ↓Relative lung volume (e.g. diaphragm displacement in pregnancy)           |
+|                       |   - Intraluminal obstruction (e.g. mucus)                                      |
+|                       |   - Luminal obstruction (bronchoconstriction, swelling)                        |
+|                       |   - Extraluminal obstruction (e.g. dynamic airways compression)                |
+|                       | - ↑Density: e.g. reduced with heliox                                           |
+|                       | - ↑Viscosity: e.g. ↑ with ↑temp                                                |
+|                       | - ↑Length: not under control                                                   |
++-----------------------+--------------------------------------------------------------------------------+
+| Inelastic lung tissue | - Deformation of inelastic tissue e.g. collagen                                |
+|                       | - Also friction of lung vs pleura, diaphragm vs abdominal viscera              |
+| (minor)               |                                                                                |
++-----------------------+--------------------------------------------------------------------------------+
+| Inertia of air        | - Force = mass x acceleration                                                  |
+|                       |                                                                                |
+| (minimal)             |                                                                                |
++-----------------------+--------------------------------------------------------------------------------+
+
+#### Frequency-dependence:
+
+![](/content/exams/anzca/2001/B/2/prize-image003.jpg){fig-alt="Elastic, inelastic and total work of breathing against respiratory rate"}
+
+                             **Neonate**   **Adult with asthma**
+  -------------------------- ------------- -----------------------
+  Elastic resistance         ↑↑↑           ↓
+  Airflow resistance         ↑             ↑↑↑
+  Optimal respiratory rate   High          Low

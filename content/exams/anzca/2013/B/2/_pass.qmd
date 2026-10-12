@@ -1,0 +1,29 @@
+A rapid sequence induction involves the rapid anaesthetic induction and paralysis of a patient for intubation and ventilation due to patient factors including increased risk of aspiration, decreased patient compliance, or patient illness. 
+
+It’s associated with an increased risk of hypoxaemia due to (usually) no IPPV being applied to the patient prior to intubation. 
+
+Hypoxaemia is defined as a PaO2 \<60mmHg 
+
+Method used to prevent hypoxaemia include:
+
+1.  Pre-oxygenation: 3-5min of normal tidal breathing on 100% O2 or 8 Vital capacity breaths with aim to denitrogenate the lungs and replace with Oxygen 
+
+    - Alveolar partial pressure is derived from the Alveolar gas equation 
+    - PAO2 = FiO2x(760-47)-(PaCO2/0.8) 
+    - FiO2 21% = 100mmHg
+    - FiO2 100% = 660mmHg
+    - If FRC for normal adult is assumed 30ml/kg 2100ml then (660/760)x2100 = \~1800ml oxygen reservoir increased from 275ml at room air 
+    - Can potentially result in absorption atelectasis  
+
+2.  CPAP/PEEP: Increasing ventilation in T2RF, alveolar recruitment and improving oxygenation in T1RF 
+
+    - Increased pressures may result in stomachs insufflation
+
+3.  Apnoeic Oxygenation: Application of nasal prongs at high O2 flow rates or THRIVE to create nasopharyngeal oxygen reservoirs and facilitate apnoea mass movement and diffusion 
+
+    - High flow nasal cannula can dry mucus membranes and cause epistaxis 
+    - THRIVE tubing can affect mask seal should BVM be required 
+
+4.  Patient positioning increase FRC, facilities rapid intubation 
+
+    - Reduced venous return → ↓ preload/reduced CO/MAP → ↓Cerebral perfusion pressure with effect of gravity

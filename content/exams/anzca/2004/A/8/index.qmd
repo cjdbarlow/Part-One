@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004A Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe briefly**]{.task-verb} the side effects and complications of heparin therapy.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe briefly**]{.task-verb} dose-related and idiosyncratic complications, linking mechanisms to risk factors and clinical significance. Include the distinction between platelet effects and comparisons with low molecular weight heparins.
+
+::: {.structure-headings}
+### Predictable Bleeding and Therapeutic Range
+
+### Heparin-Induced Platelet Effects
+
+### Other Early Complications
+
+### Long-Term Complications
+
+### Low Molecular Weight Heparin Comparison
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**71%** of candidates passed this question.
+
+The question specifically requested the candidate to address the side effects of heparin therapy. Detailed accounts of the mode of action of heparin were frequently included however only in those answers where this information was related to the mechanism of side effects were these of value.
+
+To obtain a pass in this question, it is necessary to recognise that side effects can be predictable and dose related, e.g. bleeding, or idiosyncratic, such as the heparin induced thrombotic thrombocytopenic syndrome. Particular reference to intercurrent pathology and drug interactions was valuable.
+
+Although many candidates commented on APTT measurement, its significance relates to the narrow therapeutic range and unpredictable effective dose of heparin; few candidates mentioned this. Differentiating the mechanisms of platelet effects is important in view of therapeutic and prognostic implications.
+
+Most candidates were aware of alopecia and osteoporosis as side effects, frequently not mentioning the situations in which these occur. Mention of low molecular weight heparins was appropriate, however comparisons often were omitted.
+
+Many candidates gave a fairly detailed account of complications of protamine therapy, which was not asked; the requirement for protamine might better be perceived as a disadvantage of heparinisation, particularly at high doses.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2004/A/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Anticoagulants](/content/pharmacopoeia/haeme/anticoagulants.qmd)

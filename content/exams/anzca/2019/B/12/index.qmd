@@ -1,0 +1,91 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019B Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Draw**]{.task-verb} the oxygen-haemoglobin and carbon dioxide-haemoglobin dissociation curves on the same axis (partial pressure vs. content). [**Compare and contrast**]{.task-verb} these two curves.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Draw**]{.task-verb} content against partial pressure on common axes, labelling arterial and venous points and normal values. [**Compare and contrast**]{.task-verb} shape, slope, carriage, affinity changes and the significance of arteriovenous differences.
+
+::: {.structure-table}
+| Feature | Oxygen | Carbon Dioxide |
+|---|---|---|
+| Normal Arterial and Venous Values | | |
+| Shape and Slope | | |
+| Carriage and Content | | |
+| Affinity and Curve Shifts | | |
+| Implications for Gas Exchange | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**28%** of candidates achieved a pass in this question
+
+The domains assessed for this question were:
+
+- Oxygen content of blood vs partial pressure graph
+- Description of this graph
+- Carbon dioxide content of blood vs partial pressure graph
+- Description of this graph
+
+Although the question asked for it, candidates were not penalised if O2 and CO2 were not placed on the same graph. It is noted that there are two possible interpretations of the CO2 graph, and both were accepted.
+
+Common problems were:
+
+- Using haemoglobin saturation instead of gas content
+- Omitting the venous oxygen-haemoglobin dissociation curve
+- Confusing the arterio-venous difference in various CO2 carriage forms (carbamino, bicarbonate and dissolved)
+- Not appreciating that the CO2 content of blood is greater than the O2 content of blood
+
+The required information can be found in both Ganong and Nunn.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2019/B/12/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2019/B/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Oxygen storage and transport](/content/resp/oxygen_storage.qmd)
+- [Carbon dioxide transport](/content/resp/co2_transport.qmd)

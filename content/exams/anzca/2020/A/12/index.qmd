@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2020A Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+Using a labelled diagram, [**describe**]{.task-verb} how a self-inflating bag-valve-mask resuscitation device works.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+Using an accurate labelled diagram, [**describe**]{.task-verb} gas flow through the device during inspiration, expiration and bag refilling. Connect the self-inflating bag, reservoir, oxygen inlet and each valve to its function, keeping the non-rebreathing and bag inlet valves distinct.
+
+::: {.structure-headings}
+### Labelled Device Diagram
+
+### Bag Compression and Inspiration
+
+### Expiration and Non-Rebreathing Valve
+
+### Bag Refilling and Oxygen Reservoir
+
+### Pressure Relief and Optional PEEP
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Expected in the answer was a labelled diagram including mask, valves, self-inflating bag, oxygen input and reservoir bag. Discussion was expected to include the role of each of these parts in the function of the device. A good way to discuss function was to explain the flow of gas through the device in both inspiration and expiration. An understanding of the key role of the non-rebreathing valve in both inspiration and expiration was expected for a pass.
+
+There were a large number of candidates who described a device with a flow inflating bag such as a T-piece or other Mapleson circuits. These circuits are however valveless unlike the BVM device. Lack of understanding of the function of the valves in the BVM was a common reason for a candidate to not pass this question. The bag inlet valve was also frequently omitted. There was additional misunderstanding about the role and location of PEEP valves and APL valves in the device. A good reference for this material is Understanding Anesthesia Equipment, Dorsch and Dorsch, Chapter 10, 5th Ed.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2020/A/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Breathing circuits](/content/equipment/circuits.qmd)

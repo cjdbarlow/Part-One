@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005B Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the gravity dependent processes which affect pulmonary blood flow. [**What changes**]{.task-verb} take place when the pressure increases in the pulmonary vessels?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the hydrostatic gradient and West zones with a pressure diagram. Explain increased vascular pressure through recruitment and distension, then consider posture and changes in alveolar pressure.
+
+::: {.structure-headings}
+### Gravity and the Hydrostatic Gradient
+
+### West Zones and the Starling Resistor
+
+### Recruitment and Distension
+
+### Posture and Changes in Alveolar Pressure
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**82 %** of candidates passed this question.
+
+Most candidates provided an adequate description of West’s four zones of the lungs and the pressure gradients both vascular and alveolar that act in each zone to alter pulmonary blood flow. However, a significant number failed to mention the Starling Resistor mechanism in West’s zone 2 which results in blood flow limitation in this zone.
+
+The majority of candidates did not appreciate that gravity produces a hydrostatic pressure gradient in the upright lung. The size of this pressure gradient depends on the vertical dimension of the lung. This hydrostatic pressure gradient is approx. 2/3 above and 1/3 below the level of the right ventricle. This results in significantly greater blood flow to the base of the lung as compared to the apex. Pressure in the pulmonary artery just exceeds this hydrostatic pressure gradient to ensure that blood reaches the apex of the lung to maximize the surface area for gas exchange.
+
+Many candidates did not appreciate that an increase in either pulmonary arterial or pulmonary venous (left atrial) pressure results in a decrease in pulmonary vascular resistance by the mechanism of recruitment and distension. Most candidates were confused about the forces acting in West’s zone 4, in particular the decrease in extra-alveolar vessel caliber at low lung volume and the importance of interstitial pressure in this zone, and many did not mention West’s zone 4 at all, and the majority of candidates did not mention transudation. Some candidates provided irrelevant descriptions of V/Q changes and compliance changes in the upright lung, which did not attract marks.
+
+Additional marks were awarded to candidates who discussed pulmonary perfusion changes in relation to postural changes. How changes in alveolar pressure (e.g. IPPV, PEEP) and changes in pulmonary perfusion pressure (e.g. hypotension, embolism) affect the presence of West’s zone 1 also attracted extra marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2005/B/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [West’s zones](/content/resp/wests_zones.qmd)
+- [Pulmonary circulation](/content/cvs/pulmonary_circulation.qmd)

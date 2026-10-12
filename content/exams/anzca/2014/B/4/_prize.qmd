@@ -1,0 +1,36 @@
+#### List:
+
+- Diagramme
+- What is it, where is it, how does it work
+- Pros and cons
+
++------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Diagramme  | ![](/content/exams/anzca/2014/B/4/prize-image001.jpg){fig-alt="Active scavenging system showing collecting, transfer, receiving and disposal components"} |
++------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Definition | - System for active removal of excess gas from anaesthetic circuit                                                                                        |
++------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Purpose    | - ↓Volatile pollution                                                                                                                                     |
+|            |   - ? Teratogenic                                                                                                                                         |
+|            |   - Max recommended \~2ppm if alone, 0.5ppm if with N~2~O (USA)                                                                                           |
+|            | - ↓N~2~O pollution                                                                                                                                        |
+|            |   - Oxidises Cobalt atom in Vit B~12~, a cofactor for methionine synthetase                                                                               |
+|            |   - ↓DNA synthesis, bone marrow suppression, teratogenesis                                                                                                |
+|            |   - Max recommended 25ppm with or without volatile (USA)                                                                                                  |
++------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Location   | - In expiratory limb before CO~2~ absorber (spares it), attached to APL and APL bypass valves                                                             |
+|            | - Exhaust vent above ground, away from people                                                                                                             |
++------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Mechanics  | - (Mostly) open system, cf. passive scavenging mostly closed                                                                                              |
+|            | - 30mm tubing incompatible with breathing circuit, prevent accidental connection                                                                          |
+|            | - High flow rate \>100L/min, small neg pressure -0.5cmH~2~O                                                                                               |
+|            |   - (cf. medical suction: low flow rate, large neg pressure)                                                                                              |
++------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Pros       | - Effective across wide FGF range                                                                                                                         |
+|            | - Prevent operating room pollution                                                                                                                        |
++------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Cons       | - Requires power                                                                                                                                          |
+|            | - Expensive                                                                                                                                               |
+|            | - ↑↑ FGF rate → leak into operating room                                                                                                                  |
+|            | - Blocked entrainment ports → negative pressure APO                                                                                                       |
+|            | - Atmospheric pollution                                                                                                                                   |
++------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+

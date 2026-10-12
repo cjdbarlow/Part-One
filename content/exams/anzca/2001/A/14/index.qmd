@@ -1,0 +1,67 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001A Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Give examples**]{.task-verb} of drugs that enhance the action of the non-depolarising neuromuscular blocking agents at the neuromuscular junction. [**Briefly describe**]{.task-verb} the mechanism of these interactions.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Give examples**]{.task-verb} under **Inhalational Agents**, **Local Anaesthetics**, **Antibiotics**, and **Other Drugs**. [**Briefly describe**]{.task-verb} where each interaction occurs and how it enhances neuromuscular blockade.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**36 %** of candidates achieved a pass.
+
+Inhalational agents such as isoflurane produce CNS depression and reduction in muscle tone, and decrease the sensitivity of the post-junctional membrane to depolarisation. A comparison of the effects of different agents attracted more marks. Local anaesthetics such as lignocaine interfere with acetylcholine release, reduce Na^+^ conductance, reduce the action potential in neighbouring areas to the motor end plate (producing stabilisation of the post-junctional membrane) and cause direct muscle depression. Antibiotics such as the aminoglycosides decrease the release of ACh and decrease the sensitivity of post-synaptic membrane to ACh. Drugs that could have been included were diuretics, magnesium, quinidine, trimetaphan, cyclosporine, calcium channel blocking agents and others.
+
+Many candidates incorrectly mentioned physiological effects (like temperature and acidosis) and pathological effects like renal and liver impairment. Although an understanding of neuromuscular physiology was essential to answer the question, there was no need for a detailed account of the physiology of the neuromuscular junction with diagrams.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Non-Depolarising Neuromuscular Blockers](/content/pharmacopoeia/msk/non_depolarising_nmbs.qmd)
+- [Drug Interactions](/content/pharmacology/drug_interactions.qmd)

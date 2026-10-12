@@ -1,0 +1,91 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2021A Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Compare and contrast**]{.task-verb} the pharmacology of metaraminol and adrenaline (epinephrine).
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Compare and contrast**]{.task-verb} the drugs in parallel columns, connecting classification and receptor selectivity to their cardiovascular and other effects. Include clinically relevant kinetics, uses, adverse effects and interactions.
+
+::: {.structure-table}
+| Feature | Metaraminol | Adrenaline |
+|---|---|---|
+| Structure and Classification | | |
+| Mechanism and Receptor Selectivity | | |
+| Administration and Pharmacokinetics | | |
+| Cardiovascular Effects | | |
+| Other Effects and Uses | | |
+| Adverse Effects and Interactions | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**55%** of candidates achieved a pass in this question
+
+The main domains assessed in this question were:
+
+- structure and classification
+- mechanism of action
+- pharmacokinetics
+- pharmacodynamics – with particular emphasis on cardiovascular system effects
+
+Both metaraminol and adrenaline (epinephrine) are drugs commonly used by anaesthetists and therefore it was expected that candidates should have a thorough knowledge of their pharmacology to pass. Many candidates utilised a table format and this lent itself well to a comparison of the two drugs across the required domains
+
+Common problems included:
+
+- lack of detail regarding mechanism of action (including adrenoreceptor selectivity)
+- little pharmacokinetic information provided
+- superficial mention of the cardiovascular effects of the drugs
+- no mention of effects on other body systems
+
+The intracellular details of G-protein coupled receptor activation was not required and did not receive marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2021/A/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Adrenergic drugs](/content/pharmacopoeia/cvs/adrenergic_drugs.qmd)

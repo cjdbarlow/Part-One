@@ -1,0 +1,89 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010A Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the time course between an intravenous injection of a general anaesthetic agent to loss of consciousness. [**Explain**]{.task-verb} the delay using pharmacokinetic principles.
+:::
+
+Also asked in: [2015A Question 12](/content/exams/anzca/2015/A/12/index.qmd#examiner-comments), [2020A Question 13](/content/exams/anzca/2020/A/13/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the sequence from injection to threshold effect-site concentration and [**explain**]{.task-verb} the delay at each stage. Pair plasma and effect-site concentration curves with compartment modelling, delivery, diffusion and equilibration principles.
+
+::: {.structure-headings}
+### Injection and Central Concentration
+
+### Circulation and Delivery to the Brain
+
+### Diffusion and Effect-Site Equilibration
+
+### Threshold Concentration and Loss of Consciousness
+
+### Drug and Patient Factors
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**60%** of candidates passed this question.
+
+The delay to loss of consciousness after intravenous injection of an induction agent is a very specific event that requires detailed knowledge of pharmacokinetics. Descriptions of the time course had to indicate that the delay involved the build up of an adequate or threshold concentration at the effect site for loss of consciousness to occur.
+
+There were many facts that attracted marks in this question with the better answers providing fuller justifications. For example simple knowledge such as using a bolus or loading dose and injecting the dose faster attracted marks but explaining that these practices led to a higher dose of agent in the central compartment which then leads to a larger concentration gradient driving the agent into the effect site (CNS) more quickly attracted higher marks.
+
+Similar discussions about the importance of cardiac output and pathological situations where the cardiac output may be altered, injecting into a larger vein closer to the heart instead of a peripheral vein, about smaller volume of distribution leading to a larger concentration in the central compartment (despite the paradox that a lower lipid solubility is often associated with a smaller Vd) all attracted marks. Many candidates showed an appreciation of the complexity of pharmacokinetics, describing how redistribution and metabolism begin to occur simultaneous to delivery and may slow the build up of central compartment concentration and delay onset of action to a small degree.
+
+Diagrammatic representation of a 3 compartment pharmacokinetic model with correct descriptions with highlighting and description of the importance of the Keo also attracted marks. Comparisons of Keo‟s between differing intravenous induction agents were also central to the question. Graphs depicting the change in plasma and superimposed effect site concentrations with time attracted marks, with the better graphs indicating the threshold level needed at the effect site for loss of consciousness to occur.
+
+A discussion of the potential for speed of effect to be influenced at the neuronal membrane and by the specific molecular characteristics of the induction agent and how this related to Fick‟s Law and to unionized drug was also considered relevant.
+
+Candidates often ran into difficulties with their answer if they spent too much time discussing how the effect of induction agents wore off or how they were cleared from the circulation, or spoke at length about unrelated facts concerning specific agents.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2010/A/4/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2010/A/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Intravenous kinetics](/content/pharmacology/iv_kinetics.qmd)
+- [Kinetic models](/content/pharmacology/kinetic_models.qmd)

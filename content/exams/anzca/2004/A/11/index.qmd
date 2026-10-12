@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004A Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**What is**]{.task-verb} 2,3 DPG? [**How is**]{.task-verb} it produced in the red blood cells and [**how does**]{.task-verb} it interact with haemoglobin? [**What is**]{.task-verb} its relevance in altitude exposure, anaemia, and stored blood?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Define**]{.task-verb} 2,3 DPG and show its red-cell production pathway. [**Explain**]{.task-verb} the haemoglobin interaction using a dissociation curve, then apply the mechanism separately to altitude, anaemia and stored blood.
+
+::: {.structure-headings}
+### Definition and Red-Cell Production
+
+### Haemoglobin Binding and Oxygen Affinity
+
+### Altitude Exposure
+
+### Anaemia
+
+### Stored Blood and Restoration After Transfusion
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**84%** of candidates passed this question.
+
+Main points expected for a pass included a definition of 2,3 DPG, and a brief description of the metabolic pathway involved in production. Also required was a description of the interaction with haemoglobin defining the right shift in the haemoglobin-oxygen dissociation curve, with extra marks awarded for differences with fetal haemoglobin. The role of pH change in altering the production of 2,3 DPG also attracted additional marks.
+
+Required also were the role of 2,3 DPG in allowing increased oxygen delivery in anaemia and during altitude exposure, with additional marks awarded when the effects in the lung in the hypoxic environment were included. The potential deleterious effects of a lack of 2,3 DPG in stored blood was also required, with additional points given for inclusion of time-scale, and discussion of the importance of different additives.
+
+Overall the question was answered well by candidates, with problems occurring when parts of the question were unanswered, or unclear. The use of diagrams aided in the explanations for most candidates.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2004/A/11/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Oxygen cascade](/content/resp/oxygen_cascade.qmd)
+- [Oxygen storage](/content/resp/oxygen_storage.qmd)

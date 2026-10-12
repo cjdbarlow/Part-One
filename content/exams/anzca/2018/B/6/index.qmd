@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018B Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the adverse effects which could occur following the rapid transfusion of ten (10) units of packed red cells.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} complications systematically, giving a brief cause and consequence for each. Link rapid massive transfusion to storage changes, metabolic disturbance, dilution, volume effects, immune reactions and infection.
+
+::: {.structure-headings}
+### Massive Transfusion and Storage Lesion
+
+### Metabolic and Temperature Effects
+
+### Dilution and Coagulation
+
+### Volume and Circulatory Overload
+
+### Immunological Reactions and Contamination
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**80%** of candidates achieved a pass in this question
+
+This question asks about a topic that is core to anaesthetic practice. Better answers included recognition that the rapid administration of ten units of blood constitutes a massive transfusion and were followed by a list of adverse effects with brief explanations of the cause and consequence of each effect. Adverse effects include storage lesion effects, immunological effects, coagulation sequelae, contamination risks and volume related problems. Also, better answers were well organized which reflected the necessary efficiency required to convey the maximal breadth and depth of the topic in 10 minutes. Parts of answers that did not attract any points included rephrasing the question and giving information that did not answer the question, such as detailed explanations of the blood collection process.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2018/B/6/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2018/B/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Transfusion reactions](/content/haeme/transfusion_reactions.qmd)

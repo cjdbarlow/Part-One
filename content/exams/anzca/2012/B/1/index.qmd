@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012B Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**How does**]{.task-verb} warfarin exert its anti-coagulant effect? [**What methods**]{.task-verb} can be used to reverse the effects of warfarin prior to surgery?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+Explain [**how**]{.task-verb} warfarin alters vitamin K dependent factor production and the resulting time course. State [**what methods**]{.task-verb} reverse its effect, distinguishing drug cessation, substrate replacement and factor replacement by urgency and timing.
+
+::: {.structure-headings}
+### Vitamin K Cycle and Factor Synthesis
+
+### Time Course and Early Hypercoagulability
+
+### Cessation and Vitamin K
+
+### Plasma and Prothrombin Complex Concentrates
+
+### Other Factor Replacement Options
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**64 %** of candidates passed this question.
+
+Generally the mechanism of action section of the question was well answered. Most appreciated the fact that warfarin blocked the conversion of vitamin K from its oxidised state to its reduced form therefore being unable to gamma-carboxylate glutamate residues of factors 2, 7, 9 and 10 as well as the anti-coagulant proteins C and S. The majority of candidates appreciated the significance of the half lives of each and the subsequent propensity of a hypercoagulable state early in warfarin treatment. Management of warfarin reversal lends itself to a discussion of time course and urgency and most candidates recognised this. However discussion focused mainly on vitamin K and fresh frozen plasma administration, albeit generally of a high quality. Not all appreciated that stopping the drug prior to elective surgery was an appropriate course of action. Only half mentioned prothrombin complex concentrates ('Prothrombinex') and a handful of answers mentioned activated factor 7 in the 'excessively' warfarinised bleeding patient. There were a few excellent answers with a complete listing of constituents and doses of the latter two agents.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2012/B/1/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Anticoagulants](/content/pharmacopoeia/haeme/anticoagulants.qmd)

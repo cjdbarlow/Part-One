@@ -1,0 +1,21 @@
++-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Structure   | - Lipophilic modified benzene ring, amide chain, terminal amine N(C2H5)2                                                                                   |
+|             | - Achiral                                                                                                                                                  |
+|             | - Molecular weight 234g/mols                                                                                                                               |
+|             |                                                                                                                                                            |
+|             | ![](/content/exams/anzca/2005/B/3/prize-image001.jpg){fig-alt="Lignocaine chemical structure showing the aromatic ring, amide linkage and terminal amine"} |
++-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Behaviour   | - Weak base                                                                                                                                                |
+|             |   - pKa 7.9                                                                                                                                                |
+|             |   - ECF pH: 25% unionised                                                                                                                                  |
+|             |   - ICF pH: \<10% unionised                                                                                                                                |
+|             | - Lipid solubility 150x procaine                                                                                                                           |
++-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Additives   | - HCl: ↓pH → ↑ionisation → ↑solubility                                                                                                                     |
+|             | - Sodium metabisulfite: antioxidant/antibacterial (can cause hypersensitivity)                                                                             |
++-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Formulation | - Aqueous solution for injection                                                                                                                           |
+|             | - Solution for spray onto upper airway                                                                                                                     |
+|             | - Topical gel                                                                                                                                              |
+|             | - With prilocaine as EMLA                                                                                                                                  |
++-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+

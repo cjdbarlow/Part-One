@@ -1,0 +1,55 @@
+Propofol is an IV anaesthetic agent with its primarily anaesthetic effect on agonism at GABA-A Receptors. 
+
+From a PK perspective Induction doses of propofol depend primarily on:
+
+- central compartment volume, ↑volume -. ↑ induction dose 
+- Cardiac output, ↑CO → Larger apparent VD → ↑Induction dose 
+- Cerebral blood flow, 
+
+Typical doses for healthy patients for induction are 1-2mg/kg (ideal body wight) for an adult, and 3-5mg/kg for a child. 
+
+Induction doses are primarily limited by pharmacodynamic effects on the cardiovascular system causing a reduction in SVR, chronotropy and Inotropy with on overall effect of reducing CO and MAP. 
+
+**Case 1: 4yo 15kg **
+
+↑relative CO, Central compartment volume
+
+Reduced CNS sensitivity to anaesthetic agents (↑MAC and MAC equivalent) 
+
+Usually robust cardiovascular system with normal physiology / low prevalence of CVS comorbidities.
+
+↑Sensitivity and risk of laryngospasm if light/underdosed
+
+Dose 3-5mg/kg = 45 -75mg IV induction dose or \~ 2-3mg/kg for conduction with inhaled agent 30-45mg.
+
+**Case 2 70yo 70Kg**
+
+Assumed healthy 70yo adult 
+
+Key considerations:
+
+Decreased central compartment volume → ↓Dose required
+
+Variable ↓in CO → ↓Induction dose and slower arm/effect site circulation time, de
+
+↑CNS sensitivity / ↓MAC and MAC equivalent → Decreased required dose 
+
+↓Laryngeal sensitivity and risk of laryngospasm 
+
+↑ Risk of hypotension due to ↓max HR and Baroreceptors compensation 
+
+Dose 1-1.5mg kg → 70-100mg administered at a slow rate 
+
+**Case 3 40yr old Hypovolaemic shock **
+
+Changes: 
+
+↓Central compartment volume due to blood loss
+
+↓CO due to loss or preload 
+
+Maintained Cerebral blood flow → ↑ proportion of CO to brain 
+
+Risk of hypotension as likely maximally compensating with sympathetic drive due to shocked state.
+
+Dose: 0.2-0.5mg/kg \~20-35mg slow administration titration to effect

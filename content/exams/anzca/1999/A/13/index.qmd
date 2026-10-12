@@ -1,0 +1,75 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999A Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the neuropharmacology of thiopentone covering its site of action, EEG changes, effects on cerebral blood flow and intracranial pressure.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Site of Action**, **EEG Changes**, and **Cerebral Blood Flow and Intracranial Pressure**. Connect receptor effects to neuronal activity, metabolic demand and the resulting cerebral haemodynamic changes.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question was generally well answered with a pass rate of **78%**. Many candidates showed detailed knowledge of the site of action, but there was considerable confusion about the mechanisms reducing cerebral blood flow and intracranial pressure. Candidates describing other areas of thiopentone’s neuropharmacology were awarded marks but the emphasis in marking was on the required content. A number of candidates produced answers similar to the following model -
+
+Site of action:
+
+Thiopentone’s actions are thought to occur at the γ-amino butyric acid (GABA)~A~ receptor complex. GABA~A~ receptors are ligand gated chloride ion channels, have up to five subunits, and have benzodiazepine and picrotoxin binding sites. GABA is the principal inhibitory neurotransmitter in the central nervous system. Barbiturates decrease the rate of dissociation of GABA from the receptor and increase the duration of GABA mediated channel opening. At higher concentrations barbiturates directly activate the channels even in the absence of GABA. Channel opening causes membrane hyperpolarisation and thereby inhibits action potential transmission.
+
+EEG Changes:
+
+Thiopentone produces a dose-related depression of the electroencephalogram (EEG). The awake alpha pattern progresses to higher amplitude and slower frequency delta- and theta-waves until there is burst suppression and finally a flat EEG.
+
+Effect on cerebral blood flow and intracranial pressure:
+
+There is a dose-dependent reduction in cerebral metabolism of oxygen (CMRO~2~) which reaches a maximum of 55% with a flat EEG. Note this is due to reduced neuronal, not metabolic, oxygen consumption. This produces a parallel reduction in cerebral blood flow, cerebral blood volume, intracranial pressure (ICP), and increased cerebral vasoconstriction, provided that CMRO~2~ and blood flow remain coupled. Cerebral perfusion pressure is maintained if the fall in mean arterial pressure produced by thiopentone infusion is less than the fall in ICP.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Barbiturates](/content/pharmacopoeia/neuro/barbiturates.qmd)
+- [Intracranial Pressure](/content/neuro/icp.qmd)

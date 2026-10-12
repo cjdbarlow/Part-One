@@ -1,0 +1,78 @@
+*Hypothermia: core temp \<36°C*
+
+#### Direct effects:
+
++----------------+----------------------------------------------------------------------+
+| Metabolic rate | - ↓temp 1°C = ↓metabolic rate 7%                                     |
+|                |   - ↓Rate of enzymatic reactions                                     |
+|                |   - ↓ATP hydrolysis                                                  |
+|                |   - ↓Oxidative phosphorylation                                       |
+|                |   - ↓Krebs cycle activity                                            |
+|                |   - ↓Glycolysis (→ hyperglycaemia)                                   |
+|                |   - ↓Drug metabolism (e.g. Hofmann degradation of cisatracurium)     |
++----------------+----------------------------------------------------------------------+
+| Acid-base      | - ↑pH 0.015 per 1°C (Rosenthal equation). Multiple factors:          |
+|                |   - ↓Water dissociation into H^+^ and OH^-^                          |
+|                |   - ↓Metabolic rate → ↓VCO~2~                                        |
+|                |   - ↑CO~2~ solubility → ↓partial pressure                            |
+|                | - N.B. ↑pH ∝ ↑pH of ICF ∝ pH of neutrality                           |
+|                |   - Favours alpha stat management: i.e. allow pH to increase         |
+|                |     - Optimal acid-base buffering in ICF                             |
+|                |     - Trapping of metabolic intermediates in ICF                     |
+|                |     - Preserved function of enzymes and ion channels                 |
+|                |     - Preserved CBF autoregulation                                   |
+|                |   - Alternative: pH stat management                                  |
+|                |     - Luxury cerebral perfusion                                      |
+|                |     - Rapid homogenous cooling                                       |
++----------------+----------------------------------------------------------------------+
+| Cardiovascular | - Electrical:                                                        |
+|                |   - Slowed conduction: bradycardia, prolonged QT, (J wave)           |
+|                |   - Arrhythmias: AF, VF (arrest at 28°C)                             |
+|                |   - Resistance to defibrillation                                     |
+|                | - Haemodynamic:                                                      |
+|                |   - Vasoconstriction → ↑SVR and ↑PVR                                 |
+|                |   - If shivering: ↑metabolic rate → ↑venous return → ↑cardiac output |
+|                |   - If paralysed: the opposite                                       |
++----------------+----------------------------------------------------------------------+
+| Respiratory    | - Respiratory depression:                                            |
+|                |   - Mainly premature neonates                                        |
+|                |   - ↓RR                                                              |
+|                |   - ↓Brainstem sensitivity to CO~2~                                  |
+|                | - Reduced oxygenation (and ↑SvO~2~)                                  |
+|                |   - ↓Metabolic rate → ↓VO~2~                                         |
+|                |   - Left shift OHDC → ↓tissue uptake                                 |
++----------------+----------------------------------------------------------------------+
+| Neurological   | - Peripheral:                                                        |
+|                |   - Shivering (if not paralysed)                                     |
+|                |   - Hyporeflexia                                                     |
+|                | - Central:                                                           |
+|                |   - ↓Metabolic rate = cerebral protection                            |
+|                |   - ↓Seizures                                                        |
+|                |   - ↓MAC, ↓propofol Cp~50~                                           |
+|                |   - ↓GCS (confusion) if severe                                       |
++----------------+----------------------------------------------------------------------+
+| Renal          | - ↓ADH synthesis → cold diuresis                                     |
++----------------+----------------------------------------------------------------------+
+| Haematological | - ↑Viscosity → ↑afterload                                            |
+|                | - Coagulopathy:                                                      |
+|                |   - \<35°C platelet dysfunction                                      |
+|                |   - \<33°C factor dysfunction                                        |
++----------------+----------------------------------------------------------------------+
+| Immunological  | - ↓WBC activity → ↑susceptibility to infection (if \<36°C)           |
++----------------+----------------------------------------------------------------------+
+
+#### Compensation:
+
++-------------+---------------------------------------------------------+
+| Behavioural | *Mediated by hypothalamus and cortex, absent under GA:* |
+|             |                                                         |
+|             | - Shelter                                               |
+|             | - Insulation                                            |
+|             | - Motor activity → ↑metabolic rate                      |
++-------------+---------------------------------------------------------+
+| Autonomic   | *Mediated by hypothalamus, impaired under GA:*          |
+|             |                                                         |
+|             | - Peripheral vasoconstriction → ↓skin blood flow 3x     |
+|             | - Shivering → ↑metabolic rate 2-3x                      |
+|             | - Brown fat metabolism (neonates only)                  |
++-------------+---------------------------------------------------------+

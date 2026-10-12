@@ -1,0 +1,107 @@
+#### List:
+
+- Graph
+- Intro
+- Factors ↑ED~95~ = R shift = ↓potency
+- Factors ↓ED~95~ = L shift = ↑potency
+- Factors ↑duration (not relevant here)
+
+#### Graph:
+
+Population, quantal curve
+
+![](/content/exams/anzca/2013/B/13/prize-image001.jpg){fig-alt="Rocuronium log dose–response curve for 95% twitch height depression"}
+
+#### Intro:
+
++----------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| Rocuronium                                   | - Non-depolarising relaxant                                                                                                                   |
+|                                              | - Competitive inhibitor at α-subunit of nAChR at NMJ                                                                                          |
+|                                              | - Must bind 70% of receptors before significant effect due to spare receptors                                                                 |
++----------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| Measured responses                           | - Onset time (time to 95% ↓single twitch height)                                                                                              |
+|                                              | - Depth (minimum post-tetanic count?)                                                                                                         |
+|                                              | - Offset time (time to TOF ratio 0.9)                                                                                                         |
++----------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| Muscle group differences                     |  Laryngeal muscle cf. adductor pollicis:                                                                                                      |
+|                                              |                                                                                                                                               |
+|                                              | - Physiological differences:                                                                                                                  |
+|                                              |   - ↑Blood flow                                                                                                                               |
+|                                              |   - ↑ACh vesicle release                                                                                                                      |
+|                                              |   - ↑ACh receptors                                                                                                                            |
+|                                              | - Clinical implication:                                                                                                                       |
+|                                              |   - Faster onset                                                                                                                              |
+|                                              |   - Less depth                                                                                                                                |
+|                                              |   - Shorter duration                                                                                                                          |
+|                                              |                                                                                                                                               |
+|                                              | ![](/content/exams/anzca/2013/B/13/prize-image002.jpg){fig-alt="Time course of twitch response in laryngeal adductors and adductor pollicis"} |
++----------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| Implications of inter-individual differences | - ↑Potency and ↑duration: failure of reversal → distress, T2RF, aspiration                                                                    |
+|                                              | - ↓Duration: movement when dangerous e.g. neurosurgery                                                                                        |
+|                                              | - Twitch monitoring essential whenever relaxants used                                                                                         |
++----------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Factors ↑ED~95~ = R shift = ↓potency:
+
++----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Physiology           | - ↑K^+^: membrane depolarisation→ ↑ACh release → ↓drug:ACh ratio                                                                                 |
++----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Pathology            | - Critical illness myopathy, burns → proliferation of extrajunctional receptors → ↓drug:ACh ratio                                                |
+|                      | - Malignant hyperthermia→ post-junctional activation                                                                                             |
++----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Competitive reversal | - AChEi e.g. neostigmine: ↓drug:ACh ratio                                                                                                        |
+|                      |                                                                                                                                                  |
+|                      | (g-cyclodextrin chelates rocuronium in plasma, increases the gradient between effect site and plasma but does not alter the dose-response curve) |
++----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Toxins               | - Tetanus toxin: ↓inhibition of a-motor neurons → ↑NMJ activity → ↓drug:ACh ratio                                                                |
++----------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Factors ↓ED~95~ = L shift = ↑potency
+
++-----------------------+-------------------------------------------------------------------------------------------+
+| Physiology            | ↓ACh release → ↑drug:ACh ratio                                                            |
+|                       |                                                                                           |
+|                       | - Neonate: immature NMJ                                                                   |
+|                       | - Respiratory acidosis                                                                    |
+|                       | - ↑Mg^2+^: ↑competition with Ca^2+^                                                       |
+|                       | - ↓K^+^: membrane potential more negative -↓ACh release                                   |
++-----------------------+-------------------------------------------------------------------------------------------+
+| Pathology             | - Myasthaenia gravis: antibody against NMJ nAChR → ↑drug:receptor ratio                   |
+|                       | - Lambert-Eaton syndrome: antibody against pre-synaptic VDCC → ↓competition with ACh      |
++-----------------------+-------------------------------------------------------------------------------------------+
+| Pre-synaptic drugs    | ↓ACh release → ↑drug: ACh ratio                                                           |
+|                       |                                                                                           |
+|                       | - ↓α-motor neuron activity: volatile anaesthetic                                          |
+|                       | - ↓ axonal action potential: peripheral nerve local anaesthetic (↓Na^+^ flux)             |
+|                       | - ↓Choline uptake: hemicholinium                                                          |
+|                       | - ↓ACh transport into vesicles: vesamicol                                                 |
+|                       | - ↓AMP/ATP synthesis (frusemide)                                                          |
+|                       | - Block pre-synaptic nAChR (volatiles)                                                    |
+|                       | - Block L-Ca^2+^ (CCB, Mg^2+^, aminoglycosides, volatiles)                                |
++-----------------------+-------------------------------------------------------------------------------------------+
+| Post-synaptic drugs   | ↓Ion flux through nAChR                                                                   |
+|                       |                                                                                           |
+|                       | - Block post-synaptic nAChR: other non-depolarisers, volatiles, aminoglycoside, quinidine |
+|                       | - Desensitisation blockade (volatiles, barbiturates)                                      |
+|                       | - Inhibit peri-junctional action potential: local anaesthetic ↓Na^+^ flux                 |
++-----------------------+-------------------------------------------------------------------------------------------+
+| Post-junctional drugs | - Dantrolene: inhibit skeletal muscle ryanodine receptor                                  |
++-----------------------+-------------------------------------------------------------------------------------------+
+| Toxins                | - Botox: cleave SNARE protein, ↓ACh release                                               |
+|                       | - Tetrodotoxin: VDNaC inhibition                                                          |
++-----------------------+-------------------------------------------------------------------------------------------+
+
+#### Addit: factors increasing duration
+
+*\*All those causing ↑potency plus…\**
+
++-----------+------------------------------------------------------------------------------------------------------------+
+| Pathology | - ↓Temp: ↓rate of Hoffman degradation and ester hydrolysis                                                 |
+|           | - ↑pH: ↓rate of ester hydrolysis                                                                           |
+|           | - ↓pH: ↓rate of Hofmann degradation                                                                        |
+|           | - Atracurium: 60% ester hydrolysis, 30%, Hoffman elimination, 10% in urine unchanged                       |
+|           | - Cisatracurium: 80% Hoffman elimination, 15% ester hydrolysis, 5% in urine unchanged                      |
++-----------+------------------------------------------------------------------------------------------------------------+
+| Pathology | - Liver failure: accumulation of bile eliminated drug (e.g. vecuronium 70%)                                |
+|           | - Renal failure: accumulation of drug (e.g. gallamine 100% renal), metabolite (e.g. 3-OH-panc 50% potency) |
++-----------+------------------------------------------------------------------------------------------------------------+

@@ -1,0 +1,91 @@
+#### List:
+
+- Intro
+- Sensor
+- Controller incl table of modulating factors
+- Effector
+- Altered response
+
+#### Intro:
+
++-------------------+------------------------------------------------------------------------------------+
+| CO~2~ homeostasis | - CO~2~ produced by Krebs cycle in mitochondrial matrix during aerobic respiration |
+|                   | - 200mL/min, ∝ aerobic metabolic rate                                              |
+|                   | - Excreted by the lungs                                                            |
+|                   | - Tight control PaCO~2~ at 40mmHg +/-2                                             |
+|                   | - 48mL/100mL arterial, 52/100mL venous                                             |
++-------------------+------------------------------------------------------------------------------------+
+| Equation          | - PACO~2~ = VCO~2~ / V~A~   x   k                                                  |
+|                   |   - Where PACO~2~ = PaCO2 if minimal dead space                                    |
+|                   |   - And K = 0.863 (from ratio PaCO~2~:CaCO~2~ at T 37°C)                           |
+|                   | - Note minute ventilation matched to metabolic rate via control of PaCO~2~         |
+|                   | - Note negative feedback loop: ↑PaCO~2~ → ↑MV → ↓ PaCO~2~                          |
++-------------------+------------------------------------------------------------------------------------+
+
+#### Sensor:
+
++--------------------------+-----------------------------------------------------------------------+
+| Peripheral chemoreceptor | - Carotid bodies (via CNIX) \> aortic bodies (via CNX)                |
+|                          | - Direct sensitivity                                                  |
+|                          | - ↑PaCO~2~ → ↓K^+^ efflux → depolarisation - ↑afferent to resp centre |
+|                          | - Response 5x faster than central. For acute fluctuation              |
++--------------------------+-----------------------------------------------------------------------+
+| Central chemoreceptor    | - Ventral medulla                                                     |
+|                          | - Indirect sensitivity (↑PaCO~2~ → ↑pCO~2~ in CSF/brain ECF)          |
+|                          | - ↓pH → ↑afferent to resp centre                                      |
+|                          | - Response 4x more powerful than peripheral. Main controller          |
+|                          | - ↓Response with time (↑CSF \[HCO~3~^-^\] restores pH over \~6 hours) |
+|                          | - ↓Response if chronic hypercapnoea (e.g. severe OHS)                 |
++--------------------------+-----------------------------------------------------------------------+
+
+#### Controller:
+
++-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Structure | - Respiratory centre in dorsal medulla                                                                                                                    |
+|           | - Multiple cell types incl dorsal inspiratory, ventral expiratory, Pre-Botzinger complex pacemaker cells.                                                 |
++-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Function  | - ↑PaCO~2~ → ↑frequency and amplitude of output to respiratory muscle                                                                                     |
+|           | - ↑2-3L/min minute ventilation for every ↑1mmHg PaCO~2~                                                                                                   |
+|           |                                                                                                                                                           |
+|           | ![](/content/exams/anzca/2015/A/2/prize-image001.jpg){fig-alt="Alveolar ventilation against arterial carbon dioxide pressure in an awake normal subject"} |
++-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Effectors:
+
++------------------------+------------------------------------------------+
+| Primary inspiratory    | - Diaphragm via phrenic nerves                 |
+|                        | - External intercostals via intercostal nerves |
+|                        | - Scalenes via cervical spinal nerves          |
+|                        | - Pharyngeal dilators via CNIX and X           |
++------------------------+------------------------------------------------+
+| Accessory inspiratory  | - e.g. sternocleidomastoid                     |
++------------------------+------------------------------------------------+
+| Expiratory (if active) | - Internal intercostals                        |
+|                        | - Abdominals                                   |
++------------------------+------------------------------------------------+
+
+#### Altered response:
+
++--------------------+-----------------------+--------------------------------+------------------------------------------------+
+|                    | **Apnoeic threshold** | **Slope of sensitivity curve** | **Reason**                                     |
++====================+=======================+================================+================================================+
+| Sleep              | ↑ (mild)              | ↓ REM only (and mild)          |                                                |
++--------------------+-----------------------+--------------------------------+------------------------------------------------+
+| Volatile           | ↑                     | ↓                              | ? GABA ? glycine                               |
+|                    |                       |                                |                                                |
+|                    |                       |                                | ↓sensitivity of glomus cell                    |
++--------------------+-----------------------+--------------------------------+------------------------------------------------+
+| Opioid             | ↑                     | ↓                              | Mu opioid                                      |
+|                    |                       |                                |                                                |
+|                    |                       |                                | Inhibit respiratory centre                     |
++--------------------+-----------------------+--------------------------------+------------------------------------------------+
+| Propofol           | \-                    | ↓                              | ?                                              |
++--------------------+-----------------------+--------------------------------+------------------------------------------------+
+| Benzodiazepine     | \-                    | ↓                              |                                                |
++--------------------+-----------------------+--------------------------------+------------------------------------------------+
+| Exercise           | ↓                     | \-                             | ?                                              |
++--------------------+-----------------------+--------------------------------+------------------------------------------------+
+| Metabolic acidosis | ↓                     | \-                             | Synergistic effect on glomus cell with PaCO~2~ |
++--------------------+-----------------------+--------------------------------+------------------------------------------------+
+| Hypoxia            | ↓                     | ↑                              | Synergistic effect on glomus cell with PaCO~2~ |
++--------------------+-----------------------+--------------------------------+------------------------------------------------+

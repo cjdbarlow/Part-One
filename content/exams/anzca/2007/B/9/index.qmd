@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007B Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+Briefly [**explain**]{.task-verb} the cardiovascular responses to central neural blockade.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+Briefly [**explain**]{.task-verb} **Arterial and Venous Effects**, **Changes in Cardiac Output and Pressure**, and **Compensatory Responses**. Relate block height and cardioaccelerator involvement to the extent of cardiovascular change.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**42%** of candidates passed this question.
+
+To achieve a pass, candidates were expected to describe the effects of sympathetic blockade on arterial and venous vessels, how these lead to a drop in cardiac output and blood pressure, and compensatory reflexes involving the various baroreceptors and atrial naturetic peptide. Explanations should have included effects of potential α and ß blockade, and the fact that venodilation (venous side contain 75% of blood volume) and consequent decreased venous return is more significant than vasodilation. Many candidates failed to explain why hypotension is more pronounced with ascending block height, and/or effects seen with blockade of cardio-accelerator fibres (T1 – 4).
+
+Additional marks were allocated for explaining:
+
+- Effects of sympathetic blockade at different levels e.g. Sacral blockade alone – little effect as parasympathetic fibres involved only; lumbar blockade vs high thoracic blockade “high” block affecting brainstem;
+- Mid-thoracic block and renal compensatory mechanism to increase blood flow via JG cells (and not an increase in sympathetic outflow from brainstem vasomotor centre as described by a number of candidates);
+- Possible contribution of Bezold-Jarisch reflex;
+- Afferent/efferent nerves and central control response of high and low pressure baroreceptors;
+- Consequences of age, hypovolaemia.
+
+Answers describing “vasodilation” were read as meaning arterial dilatation alone.
+
+Detailed descriptions of drugs or techniques used to attain an epidural/spinal block did not attract marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neuraxial Blockade](/content/pharmacopoeia/neuro/neuraxial_blockade.qmd)
+- [Venous Return](/content/cvs/venous_return.qmd)

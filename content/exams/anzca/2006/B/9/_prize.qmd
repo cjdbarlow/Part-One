@@ -1,0 +1,86 @@
+#### List:
+
+- Intro
+- Determinants
+- SVR
+
+#### Intro:
+
++----------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| Definition     | - Sum of the factors contributing to total ventricular wall tension during LV ejection                                               |
+|                | - Not constant; peaks in mid-systole                                                                                                 |
+|                | - Normal: 9-20 Wood units                                                                                                            |
++----------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| Representation | ![](/content/exams/anzca/2006/B/9/prize-image001.jpg){fig-alt="Left ventricular pressure–volume loops showing increased afterload"}  |
++----------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| Significance   | - Determinant of cardiac output (↑AL → ↓CO)                                                                                          |
+|                | - Determinant of MVO~2~ (30-40%)                                                                                                     |
++----------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| Equations      | - Global tension = (pressure x radius)/2                                                                                             |
+|                | - Individual fibre tension ∝ (pressure x radius) / (wall thickness)                                                                  |
+|                | - SVR = (8 x length x viscosity) / π x radius^4^)                                                                                    |
++----------------+--------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Determinants:
+
++----------+------------------------------------------------------------------+
+| Cardiac  | **Inflow tract:**                                                |
+|          |                                                                  |
+|          | - Mitral regurgitation → ↓AL                                     |
+|          |                                                                  |
+|          | **Ventricle:**                                                   |
+|          |                                                                  |
+|          | - ↑Wall thickness (e.g. AS) → ↓load on individual fibres         |
+|          | - ↑Cavity radius (e.g. cardiomyopathy) → ↑AL                     |
+|          |                                                                  |
+|          | **Outflow tract:**                                               |
+|          |                                                                  |
+|          | - ↓Radius (AS, HCM) → ↑AL                                        |
++----------+------------------------------------------------------------------+
+| Vascular | - Resistance (SVR) – increased if                                |
+|          |   - ↓Radius (power 4, hence most important factor)               |
+|          |   - ↑Viscosity (↑Hct, ↑temp, ↓flow rate)                         |
+|          |   - ↑Length (rarely important)                                   |
+|          | - Compliance: e.g. atherosclerosis → ↓Windkessel effect → ↑AL    |
++----------+------------------------------------------------------------------+
+| Thoracic | - Intrathoracic pressure: e.g. IPPV → ↓transmural pressure → ↓AL |
+|          |   - Hence use in LV failure                                      |
++----------+------------------------------------------------------------------+
+
+#### SVR:
+
++-----------+---------------------------------------------------+
+| Physical  | *External compression → ↓r*                       |
+|           |                                                   |
+|           | - Intra-abdominal pressure: e.g. pneumoperitoneum |
+|           | - Cross-clamp or tourniquet                       |
++-----------+---------------------------------------------------+
+| Metabolic | *Hyperactivity → ↑r*                              |
+|           |                                                   |
+|           | - ↑Temp                                           |
+|           | - ↓O~2~                                           |
+|           | - ↑CO~2~                                          |
+|           | - ↓pH                                             |
+|           | - ↑Lactate                                        |
+|           |                                                   |
+|           | *Examples:*                                       |
+|           |                                                   |
+|           | - Exercise (muscle)                               |
+|           | - Pregnancy (uterus/placenta)                     |
+|           | - Simple obesity                                  |
+|           | - Sepsis                                          |
++-----------+---------------------------------------------------+
+| Autonomic | *Mechanisms:*                                     |
+|           |                                                   |
+|           | - Neural NAd → α~1~ →↓r                           |
+|           | - Hormonal Ad → β~2~ → ↑r                         |
+|           |                                                   |
+|           | *Examples:*                                       |
+|           |                                                   |
+|           | - Pain                                            |
+|           | - Anxiety                                         |
+|           | - Exercise (↓r in gut, skin, ↑r in muscle)        |
++-----------+---------------------------------------------------+
+| Local     | - Dilators: e.g. histamine, bradykinin, NO        |
+|           | - Constrictors: e.g. TXA~2~, 5HT                  |
++-----------+---------------------------------------------------+

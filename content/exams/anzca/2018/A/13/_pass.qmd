@@ -1,0 +1,41 @@
+Compliance is the change in volume for a given a change in pressure. 
+
+= ΔV/ΔP
+
+1/Respiratory compliance = 1/C(cw) + 1/C(l) 
+
+Normal Lung compliance is 200ml/cmH20
+
+Lung compliance can be measured by:
+
+- static compliance 
+- dynamic compliance
+
+**Static Compliance**:
+
+- Static lung compliance the lung compliance in the absence of flow, with time for alveolar equilibration.
+- Dependant on 
+  - Alveolar surface tension 
+  - Elastic recoil 
+
+Method:
+
+- Inspiration from RV  in 200 mL increments
+- Pause – gas flow stops and intrapleural pressure is measured using an oesophageal balloon catheter to measure the alveolar-intrapleural pressure gradient
+- volume/pressure curve plotted
+
+(Lung line only in lung compliance)
+
+![](/resources/lung-pressure-volume.svg){fig-alt="Pressure–volume relationships of the lung and chest wall"}
+
+**Dynamic compliance** 
+
+- The compliance measured during respiration, using continuous pressure and volume measurements
+- Includes the pressure required to generate flow by overcoming resistance forces
+- Therefore dynamic compliance is always less than static compliance, 
+- Dynamic compliance is a function of respiratory rate
+- In normal lungs at normal respiratory rates it approximates static compliance.
+- Reduced in in lung units with unequal time constants at high respiratory rates
+- Alveolar time constant is proportional to alveolar unit compliance x resistance, ↑ compliance or resistance → ↑time constant 
+- Units with long time constants may still be filling at end expiration
+- During respiratory pause units with shorter time constants with equilibrate with long time constants → pendelluft effect

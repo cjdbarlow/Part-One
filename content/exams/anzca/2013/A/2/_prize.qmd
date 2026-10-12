@@ -1,0 +1,44 @@
+#### List:
+
+- Intro
+- PC
+- PK
+- PD
+
++----+-------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+|    | **Pros**                                                                | **Cons**                                                                                 |
++====+=========================================================================+==========================================================================================+
+| PC | - No smell, non-irritant, gas induction ok                              | - Expensive                                                                              |
+|    | - Stable, non-reactive with circuit, non-combustible                    | - Not yet recyclable                                                                     |
+|    |                                                                         | - Gas at room temp; inefficient storage                                                  |
+|    |                                                                         | - High density → ↑resistance to turbulent flow                                           |
+|    |                                                                         | - High viscosity → ↑resistance to laminar flow                                           |
++----+-------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+| PK | - Low blood:gas partition coefficient (0.14): rapid onset, rapid offset | - Low potency limits FiO~2~ (MAC 71%, associated with oil-gas partition coefficient 1.9) |
+|    | - Rapid onset → ↓risk laryngeal spasm etc                               | - Very fast offset: spont vent + disconnection → rapid ↓ partial pressure                |
+|    | - Short context-insensitive decrement times                             |                                                                                          |
+|    | - Only mild diffusion hypoxia                                           |                                                                                          |
+|    | - No metabolism                                                         |                                                                                          |
++----+-------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+| PD | **CNS:**                                                                | **CNS:**                                                                                 |
+|    |                                                                         |                                                                                          |
+|    | - Analgesia (NMDA antagonist)                                           | - ↑CBF → ±↑ICP if intracranial pathology                                                 |
+|    | - Not emetogenic                                                        |                                                                                          |
+|    | - ↑CBF → luxury perfusion if normal brain                               | **CVS:**                                                                                 |
+|    |                                                                         |                                                                                          |
+|    | **CVS:**                                                                | - No ischaemic preconditioning                                                           |
+|    |                                                                         |                                                                                          |
+|    | - Minimal ↓HR, ↔contractility, ↔SVR (Ca^2+^ channel antagonist)         | **Resp**:                                                                                |
+|    | - No sensitization to catecholamines                                    |                                                                                          |
+|    | - No QTc prolongation                                                   | - Airway reflexes preserved – unsuitable for gas only induction                          |
+|    |                                                                         | - High density and viscosity                                                             |
+|    | **Resp:**                                                               |                                                                                          |
+|    |                                                                         |                                                                                          |
+|    | - (No smell, non-irritant→ gas induction ok)                            |                                                                                          |
+|    | - Minimal ↓MV (note (↑TV, ↓RR)                                          |                                                                                          |
+|    | - Airway reflexes preserved – suitable for sedation with native airway  |                                                                                          |
+|    |                                                                         |                                                                                          |
+|    | **Immune**: no suppression                                              |                                                                                          |
+|    |                                                                         |                                                                                          |
+|    | **MSK**: doesn’t trigger malignant hyperthermia                         |                                                                                          |
++----+-------------------------------------------------------------------------+------------------------------------------------------------------------------------------+

@@ -1,0 +1,118 @@
+#### List:
+
+- Intro
+- LV oxygen supply determinants
+- LV oxygen demand determinants
+
+#### Intro:
+
++---------------------+----------------------------------------------------------------------------+
+| Summary             | - High O~2~ consumption: MVO~2~ 9.8mL/min/100g at rest                     |
+|                     | - High O~2~ extraction: 75% at rest                                        |
+|                     | - Hence ↑O~2~ demand requires ↑CBF                                         |
+|                     | - LMCA flow only in diastole (systole reverses the pressure gradient)      |
++---------------------+----------------------------------------------------------------------------+
+| Supply-demand ratio | - Endocardial viability ratio = DPTI/TTI                                   |
+|                     |   - Supply: diastolic pressure-time index = diastolic time x (AoP – LVEDP) |
+|                     |   - Demand: tension time index = systolic time x SBP                       |
+|                     | - Normal EVR \>1                                                           |
+|                     | - Ischaemia \<0.7                                                          |
++---------------------+----------------------------------------------------------------------------+
+
+#### Determinants of LV oxygen supply:
+
+*Graphs: coronary blood flow*
+
+![](/content/exams/anzca/2017/B/13/prize-image001.jpg){fig-alt="Aortic root pressure and left and right coronary blood flow across the cardiac cycle"}
+
+*Relevant equations:*
+
++------------------------------+-------------------------------------------------------------+
+| Oxygen delivery              | = LMCA flow rate x CaO~2~                                   |
++------------------------------+-------------------------------------------------------------+
+| LMCA flow rate               | = % diastole x (AoP – LVEDP) / coronary vascular resistance |
+|                              |                                                             |
+|                              | - Normal AoP in diastole: \~80mmHg                          |
+|                              | - Normal LVEDP: \~6mmHg                                     |
++------------------------------+-------------------------------------------------------------+
+| Oxygen content               | = \[Hb\]g/L x SaO~2~% x 1.34 + 0.03 x PaO~2~                |
+|                              |                                                             |
+|                              | - Normal 20mL O2 per 100mL arterial blood                   |
++------------------------------+-------------------------------------------------------------+
+| Coronary vascular resistance | = (8 x length x viscosity) / (π x radius^4^)                |
+|                              |                                                             |
+|                              | (Radius is the major factor since power of four)            |
++------------------------------+-------------------------------------------------------------+
+
+*Factors decreasing LV oxygen supply:*
+
++------------------+--------------------------------------------------------------------------------+
+| ↓% Diastole      | - i.e. ↑HR                                                                     |
++------------------+--------------------------------------------------------------------------------+
+| ↓AoP             | - Hypovolaemia (e.g. blood loss, dehydration)                                  |
+|                  | - Vasodilation (e.g. sepsis)                                                   |
+|                  | - Aortic stenosis: ↑kinetic energy, ↓pressure energy (Bernoulli principle)     |
++------------------+--------------------------------------------------------------------------------+
+| ↑LVEDP           | - Diastolic heart failure                                                      |
++------------------+--------------------------------------------------------------------------------+
+| ↓Vessel radius   | - Compression of small intramyocardial vessels in systole                      |
+|                  |   - Supply to LV mainly in diastole                                            |
+|                  | - Metabolic autoregulation:                                                    |
+|                  |   - ↑MVO~2~ → ↑pCO~2~/H^+^/K^+^/adenosine/lactate → ↑NO → vasodilatation       |
+|                  |   - Most important                                                             |
+|                  |   - Couples demand with supply                                                 |
+|                  | - Myogenic autoregulation:                                                     |
+|                  |   - ↑AoP → ↑coronary artery stretch → reflex constriction                      |
+|                  |   - Effective 60mmHg ≤ AoP 180mmHg                                             |
+|                  | - Neural:                                                                      |
+|                  |   - SNS constrict (but ↑MVO~2~ → dilate)                                       |
+|                  |   - PSNS dilate (but ↓MVO~2~ → constrict)                                      |
+|                  | - Hormonal: adrenaline →                                                       |
+|                  |   - α~1~ constriction                                                          |
+|                  |   - β~2~ dilation                                                              |
+|                  | - Drugs:                                                                       |
+|                  |   - Cocaine → constrict                                                        |
+|                  |   - GTN → dilate                                                               |
+|                  | - Pathology:                                                                   |
+|                  |   - Stenosis                                                                   |
+|                  |   - Vasospasm → ↓radius                                                        |
++------------------+--------------------------------------------------------------------------------+
+| ↑Vessel length   | - Hypertrophy → ↑CVR                                                           |
++------------------+--------------------------------------------------------------------------------+
+| ↑Blood viscosity | - ↑Hct: e.g. polycythaemia                                                     |
+|                  | - ↓Temperature                                                                 |
++------------------+--------------------------------------------------------------------------------+
+| ↓\[Hb\]          | - ↓Production: haematinic deficiency, chronic disease, renal or marrow failure |
+|                  | - ↑Loss: bleeding, haemolysis                                                  |
++------------------+--------------------------------------------------------------------------------+
+| ↓PaO~2~/SaO~2~   | - ↓PiO~2~ (e.g. altitude, diffusion hypoxia)                                   |
+|                  | - ↓V~A~ (e.g. respiratory depressants)                                         |
+|                  | - ↑V/Q mismatch and shunt (e.g. atelectasis, general anaesthesia)              |
++------------------+--------------------------------------------------------------------------------+
+
+#### Determinants of LV oxygen demand:
+
++-------------------------+----------------------------------------------------------------------------------------+
+| Wall tension            | Tension = pressure x radius / 2 (LaPlace’s law)                                        |
+|                         |                                                                                        |
+| (40%)                   | - ↑Afterload → ↑MVO~2~                                                                 |
+|                         |   - LVOT obstruction: aortic stenosis, HOCM                                            |
+|                         |   - ↑SVR: e.g. α~1~-agonist                                                            |
+|                         | - ↑Preload → ↑radius → ↑MVO~2~ (less important)                                        |
+|                         |   - i.e. ↑venous return                                                                |
++-------------------------+----------------------------------------------------------------------------------------+
+| Basal consumption (25%) | - ↑Temp → ↑enzyme rate → ↑MVO~2~                                                       |
+|                         | - Hypertrophy → ↑MVO~2~                                                                |
++-------------------------+----------------------------------------------------------------------------------------+
+| Heart rate              | - ↑HR → number of contractions per unit time                                           |
+|                         |                                                                                        |
+| (15-25%)                |                                                                                        |
++-------------------------+----------------------------------------------------------------------------------------+
+| Contractility           | - Adrenaline → ↑ICF Ca^2+^ → ↑number of cross bridges → ↑ATP hydrolysis rate → ↑MVO~2~ |
+|                         |                                                                                        |
+| (10-15%)                |                                                                                        |
++-------------------------+----------------------------------------------------------------------------------------+
+| Stroke work             | - = ∆P x ∆V                                                                            |
+|                         | - Pressure work: ∝ afterload                                                           |
+| (10-15%)                | - Volume work: i.e. stroke volume                                                      |
++-------------------------+----------------------------------------------------------------------------------------+

@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008B Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} how the pharmacokinetics of morphine, bupivacaine and suxamethonium differ in the neonate compared to the adult. [**Briefly describe**]{.task-verb} the clinical implications of these differences.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} neonatal kinetic differences for each named drug and [**briefly describe**]{.task-verb} their clinical implications. Relate body water, binding, barrier permeability and enzyme maturation to dose, duration and toxicity.
+
+::: {.structure-table}
+| Feature | Morphine | Bupivacaine | Suxamethonium |
+|---|---|---|---|
+| Distribution and Binding | | | |
+| Metabolism and Clearance | | | |
+| Morphine and Metabolites | | | |
+| Bupivacaine Toxicity | | | |
+| Suxamethonium and Opposing Kinetic Changes | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**73%** of candidates passed this question.
+
+This question asked candidates for some applied pharmacology, looking at the effect of age on pharmacokinetics of three commonly used drugs.
+
+The question was generally well answered, and a pass mark could be obtained by citing the critical features of each. With regard to morphine, both clearance and glucuronidation is decreased in the neonate, leading to a prolonged half life. The more permeable blood brain barrier and relatively increased brain blood flow in neonates contributes to a greater sensitivity to the drug in the neonate. With regard to bupivacaine there is an enhanced propensity for toxicity as a result of decreased protein binding, because of decreased alpha 1 glycoprotein levels, and decreased hepatic clearance. Marks were also awarded for mention of the influence of pH on toxicity in the neonate. With regard to suxamethonium, there are opposite forces at work. An enhanced ECF volume would lead to an increased volume of distribution which would tend to reduce activity, but this could be countered for by a decrease in pseudocholinesterase levels in the neonate. The end result clinically is little change in duration of action. Extra marks were awarded where candidates were able to give approximate dosages, or dosage ranges appropriate for the different drugs.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2008/B/5/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Opioid pharmacology](/content/pharmacopoeia/analgesics/opioidspharm.qmd)
+- [Local anaesthetics](/content/pharmacopoeia/neuro/local_anaesthetics.qmd)
+- [Neuromuscular blockers](/content/msk/neuromuscular_blockers.qmd)

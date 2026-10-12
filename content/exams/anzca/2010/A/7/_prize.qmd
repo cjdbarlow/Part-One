@@ -1,0 +1,50 @@
+#### List:
+
+- Intro
+- Muscle type: pre, post, extra
+- Neuronal type: autonomic ganglia, brain
+
+#### Intro:
+
++------------+--------------------------------------------------------------------------------------+
+| Definition | - Acetylcholine receptor with affinity for nicotine                                  |
++------------+--------------------------------------------------------------------------------------+
+| Structure  | - Pentameric ligand-gated ion channel                                                |
+|            | - Non-specific central ion channel (Na^+^ = K^+^ \> Ca^2+^)                          |
+|            | - Muscle type: ααβδε adult, ααβγδ foetal or extrajunctional, α~3~β~2~ pre-junctional |
+|            | - Ganglionic type: α~3~β~4~   i.e. (α~4~)~3~(β~2~)~2~                                |
+|            | - Brain type: α~4~β~2~                                                               |
+|            | - Hence differences in drug action                                                   |
++------------+--------------------------------------------------------------------------------------+
+| Activation | - 1 x ACh bound to each a-subunit                                                    |
+|            | - Depolarisation → mini-endplate potential                                           |
+|            | - Spatial and temporal summation → action potential                                  |
++------------+--------------------------------------------------------------------------------------+
+
+#### Muscle type:
+
++------------------+---------------------------------------------------------------------------------------------------------+
+| Post-junctional  | - Depolarising: suxamethonium → fasciculation then paralysis (note plasma K ↑0.5mM)                     |
+|                  | - Non-depolarising: e.g. rocuronium (competitive antagonist) also volatiles, aminoglycosides, quinidine |
+|                  | - Desensitisation (big dose suxamethonium, volatile, barbiturate, local anaesthetic)                    |
++------------------+---------------------------------------------------------------------------------------------------------+
+| Pre-junctional   | - Antagonised by non-depolarisers (e.g. rocuronium)                                                     |
+|                  | - Hence train-of-four ratio \<0.3, fade, post-tetanic potentiation                                      |
++------------------+---------------------------------------------------------------------------------------------------------+
+| Extra-junctional | - Foetal type. Longer channel opening, ↑ion flux.                                                       |
+|                  | - Proliferates after denervation                                                                        |
+|                  | - Suxamethonium → dangerous ↑\[K^+^\]                                                                   |
++------------------+---------------------------------------------------------------------------------------------------------+
+
+#### Neuronal type:
+
++-------------------+----------------------------------------------------------------------+
+| Autonomic ganglia | - SNS, PSNS, adrenal medulla (modified SNS)                          |
+|                   | - Agonist: nicotine                                                  |
+|                   | - Antagonist: trimetaphan (BP lowering), d-tubocurarine (NM blocker) |
++-------------------+----------------------------------------------------------------------+
+| Brain             | - Important in ascending reticular activating system (ARAS)          |
+|                   | - Drugs must cross blood-brain barrier i.e. lipid soluble            |
+|                   | - Agonist: nicotine → stimulation (note addictive)                   |
+|                   | - Antagonist: volatile anaesthetic → sedation, hypnosis, ketamine    |
++-------------------+----------------------------------------------------------------------+

@@ -1,0 +1,43 @@
+One of the primary roles of the kidneys is the excrete waste products and the clearance is proportional to the glomerular filtration rate.
+
+Laboratory assessment of renal function is based of testing plasma levels of wastes to estimate glomerular clearance rate.
+
+Primarily they include creatinine and urea.
+
+**Urea:**
+
+Urea is by-product of protein metabolism / deamination of amino acids.
+
+- freely filtered at glomerulus 
+- 50% reabsorbed in PCT 
+- Same 50% secreted into thin descending limb LOH 
+- Same 50% can be reabsorbed in medullary collecting duct (influenced by ADH) 
+
+**Limitations **
+
+- Largely affected by protein and diet intake →↑protein →↑urea → under estimate of GFR
+- GFR can significantly decrease prior to ↑ urea levels 
+- Affected by hydration →↓hydration →↑urea 
+
+**Creatinine:**
+
+Creatinine is a by-product or muscle catabolism. During normal health and activity its produced at a relatively constant rate, it’s not metabolised, and is freely filtered at the glomerulus and not reabsorbed.
+
+Creatinine clearance can be measured by performing 24hr urine collection. However, for practical reasons clearance is usually estimated using the Cockcroft-Gault formula:
+
+Clearance = ((140-A)x LBW x S)/(72xCr)
+
+A: Age
+
+LBW: Lean Body Weight 
+
+S: Sex coefficient 
+
+Cr: Creatinine 
+
+**Limitations**
+
+- Creatinine is minimally secreted so clearance is primarily due to filtration, however the proportion of creatinine secreted increases as GFR falls, can be inaccurate marker at low GFR 
+- Time for creatinine accumulation is required for plasma levels to rise therefore is not accurate in very acute ↓GFR.  
+- Most laboratories are not provided with weight and Hight so estimation only 
+- Variable in person-to-person creatinine production/muscle mass and unreliable in critical illness / myopathy

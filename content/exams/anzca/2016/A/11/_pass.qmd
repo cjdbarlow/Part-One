@@ -1,0 +1,30 @@
+IPPV: Intermittent Positive Pressure Ventilation
+
+PEEP: Positive End Expiratory Pressure
+
+Purpose of adding PEEP to IPPV is to counteract the fall in FRC that occurs with anaesthesia and to prevent the alveolar and small airway collapse/atelectasis 
+
+- Particularly at dependant lung regions
+- Especially at extinction
+
+Typical Range of PEEP is 5-15cmH2O
+
+Benefits of PEEP
+
+1.  Increased Oxygenation
+
+    - Increase Lung Volume → increase alveolar surface area → increases area available for gas exchange 
+    - Prevent Collapse  —\> reduced shunt → Better V/Q Matching
+
+2.  Increased Lung Compliance 
+
+    - Lung Volume causes a shift along the compliance curve resulting and in increased static compliance due to increased alveolar radius  and  increased Dynamic Compliance
+
+3.  Decreased Airway Resistance
+
+    - Due to recruitment of dependant airways and increased radius of airways
+    - In Laminar flow Resistance = (8x length x viscosity)/pieR4 - resulting in radius of tube being biggest determinant 
+
+4.  Decreased Pulmonary Resistance 
+
+    - Pulmonary vascular resistance is optimal at FRC where the presumes on the alveolar and extra alveolar vessels are best balanced

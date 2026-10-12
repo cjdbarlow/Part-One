@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015B Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the concepts of half life and context sensitive half-time with examples from anaesthetic pharmacology.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} each concept through its definition, compartment model and determinants. Use labelled concentration–time curves and drug comparisons to explain why duration of infusion changes recovery and why plasma half-times may differ from duration of effect.
+
+::: {.structure-headings}
+### Half Life and Exponential Decay
+
+### Distribution and Elimination Phases
+
+### Context Sensitive Half-Time and Infusion Duration
+
+### Distribution, Clearance and Peripheral Stores
+
+### Anaesthetic Drug Examples and Clinical Use
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**58.3 %** of candidates achieved a pass in this question
+
+A pass mark in this question could be achieved by giving an accurate definition of both half life and context sensitive half time followed by some discussion of the concepts. With respect to half life, marks were gained for discussing it as an exponential process which is related directly to volume of distribution and inversely to clearance (t1./2 = 0.693 Vd/CL) and that it is best used when describing a single compartmental model. Those who talked about half life in a multi-compartmental model, gained points for accurately describing both distribution (ɑ) and elimination (ɞ) half lives, each with its own exponential curve. Discussion of the clinical utility of half life, in determining: time to steady state with intermittent dosing and; dosing interval, was also awarded points. Listing the half lives of drugs attracted no marks unless it was framed in a clinical context (e.g short distribution half life of propofol determines offset of effect after a bolus, rather than the longer elimination half life). When discussing context sensitive half time (CSHT), it was expected that the candidates would discuss a multi-compartmental model to help explain CSHT. Marks were given for discussing how the features of a drug’s pharmacokinetic profile e.g. volume of distribution, lipid solubility & clearance, would affect context sensitive half time. A well drawn graph used to support the discussion was often useful, but merely reproducing a graph with no explanation scored minimal points. Extra marks were given to those candidates who used CSHT to discuss which drugs are appropriate, or not, for infusions (both short and long) and how they are used in TCI modeling. Stating that both half life and CSHT did not necessarily correlate with the drugs duration of effect was rewarded. Common sources of error were poor definitions, especially for CSHT. A number of candidates provided no discussion of half life. There was significant confusion between half life and time constant. Many candidates listed a number of context sensitive half times for various drugs without discussing why the numbers occurred and this attracted minimal marks. Whilst a large number of candidates mentioned that fentanyl has a long context sensitive half time following a prolonged infusion, due to it sequestration in fat stores, very few people discussed the case for short infusions of fentanyl where the CSHT is relatively short due to distribution from the plasma in to fat.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2015/B/4/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2015/B/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Kinetic models](/content/pharmacology/kinetic_models.qmd)
+- [Intravenous kinetics](/content/pharmacology/iv_kinetics.qmd)

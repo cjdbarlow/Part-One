@@ -1,0 +1,75 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002B Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the pharmacological effects of vasopressin.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} the receptor-mediated effects, linking each receptor subtype and tissue to its clinical effects, uses and adverse effects.
+
+::: {.structure-headings}
+### Receptors and Cellular Mechanisms
+
+### Vascular Effects
+
+### Renal and Other Effects
+
+### Clinical Uses and Adverse Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The pass rate for this question was **79%**.
+
+The question asked for a description of the pharmacological uses of vasopressin. Information relating to these aspects rather than physiological characteristics of the endogenous ligand was therefore given preferential weighting. Candidates should have mentioned the peptide nature of vasopressin and hopefully comment on the implications for administration. Peptides typically have extremely low oral bioavailability due to intestinal proteases. Details relating to receptor subtypes and specific effects were frequently mentioned. Generally there was a good standard of explanation of sub-cellular events and mediators. Candidates should have discussed the different clinical effects and indications for vasopressin and DDAVP. Commonly omitted was the synergistic activity with catecholamines. Although vasopressin will afford water retention in diabetes insipidus it is preferable to use DDAVP to avoid vasoconstriction.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2002/B/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Pituitary hormones](/content/endo/pituitary.qmd)
+- [Non-adrenergic vasoactive drugs](/content/pharmacopoeia/resp/non_adrenergic_drugs.qmd)

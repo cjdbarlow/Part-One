@@ -1,0 +1,81 @@
+#### List:
+
+- Introduction: mannitol
+- Cerebral
+- Circulatory
+- Renal
+
+#### Intro:
+
++---------+------------------------------------------------------------------------------------------------+
+| Summary | - Large (182g/mol) and polar hence does not cross cell membranes including blood-brain barrier |
+|         | - Substance derived from mannose, a monosaccharide                                             |
+|         | - Uses: emergency reduction in ICP, osmotic diuresis                                           |
++---------+------------------------------------------------------------------------------------------------+
+| Numbers | - 20% mannitol → 200mg/mL –\> 1100mOsmol/L (cf. plasma 290mOsmol/L)                            |
+|         | - 20% 500mL = 550mosmoles                                                                      |
++---------+------------------------------------------------------------------------------------------------+
+| Phases  | - Volume expansion (VE): ↑500mL plasma volume, ↑plasma osmolality → contraction of ICF         |
+|         | - Volume contraction (VC): osmotic diuresis, ↓plasma volume                                    |
++---------+------------------------------------------------------------------------------------------------+
+
+#### Renal:
+
++----+----------------------------------------------------------------------------------------------------------+
+| VE | **Direct:**                                                                                              |
+|    |                                                                                                          |
+|    | - Mannitol freely filtered, not reabsorbed, not secreted                                                 |
+|    | - ↑Tonicity of glomerular filtrate → impairment of proximal tubular reabsorption (most important effect) |
+|    | - ↑Renal plasma flow rate, washout of medullary interstitium                                             |
+|    | - ↑Urine flow rate (osmotic drag)                                                                        |
+|    | - Does not protect against renal failure                                                                 |
+|    |                                                                                                          |
+|    | **Compensation:**                                                                                        |
+|    |                                                                                                          |
+|    | - ↑ Na^+^/K^+^ exchange in distal nephron → ↑Na^+^, ↓K^+^ (due to high flow rate)                        |
++----+----------------------------------------------------------------------------------------------------------+
+| VC | **Direct:**                                                                                              |
+|    |                                                                                                          |
+|    | - ↓GFR if mAP \<70                                                                                       |
+|    |                                                                                                          |
+|    | **Compensation:**                                                                                        |
+|    |                                                                                                          |
+|    | - ↑ Na^+^/K^+^ exchange in distal nephron → ↑Na^+^, ↓K^+^ (due to aldosterone)                           |
++----+----------------------------------------------------------------------------------------------------------+
+
+#### Circulatory:
+
++----+---------------------------------------------------------------------------------------------------+
+| VE | **Direct:**                                                                                       |
+|    |                                                                                                   |
+|    | - ↑Preload → risk of APO                                                                          |
+|    | - ↓Viscosity → ↑regional microcirculatory flow (incl. CNS)                                        |
+|    | - Thrombophlebitis (hence require CVC)                                                            |
+|    |                                                                                                   |
+|    | **Compensation:**                                                                                 |
+|    |                                                                                                   |
+|    | - ANP: ↑RA stretch → ↑release → diuresis, natriuresis                                             |
++----+---------------------------------------------------------------------------------------------------+
+| VC | **Direct:**                                                                                       |
+|    |                                                                                                   |
+|    | - ↓Preload → ↓CO, ↓mAP, ↓cerebral perfusion                                                       |
+|    | - ↑Viscosity → ↓regional microcirculatory flow                                                    |
+|    | - Vascular irritation                                                                             |
+|    |                                                                                                   |
+|    | **Compensation:**                                                                                 |
+|    |                                                                                                   |
+|    | - RAAS: ↓mAP → ↑renin/angiotensin 2/aldosterone → ↑Na^+^ and H~2~O reabsorption, vasoconstriction |
+|    | - ADH: ↓blood volume (if 10%) → ↑release → ↑H~2~O reabsorption                                    |
+|    | - SNS: ↓blood vol → ↑release → vasoconstriction, ↑CO                                              |
++----+---------------------------------------------------------------------------------------------------+
+
+#### Cerebral:
+
++----+--------------------------------------------------------------------------------+
+| VE | - Osmotic dehydration → ↓CNS volume -↓ICP                                      |
+|    | - Only occurs if BBB intact                                                    |
+|    | - Peak effect 30-45mins, duration 6 hours                                      |
++----+--------------------------------------------------------------------------------+
+| VC | - Production of idiogenic osmoles (glycine, glutamine, taurine, inositol etc.) |
+|    | - Hence risk of rebound cerebral oedema                                        |
++----+--------------------------------------------------------------------------------+

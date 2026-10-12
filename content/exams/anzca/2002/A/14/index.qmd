@@ -1,0 +1,74 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002A Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly outline**]{.task-verb} pharmacological methods of reducing gastric acidity. [**Indicate**]{.task-verb} the mechanisms of action and the advantages and disadvantages of each method.
+:::
+
+Also asked in: [2005A Question 6](/content/exams/anzca/2005/A/6/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly outline**]{.task-verb} the methods in a comparison table. [**Indicate**]{.task-verb} the mechanism, advantages and disadvantages of each, including their perioperative relevance.
+
+::: {.structure-table}
+| Feature | Mechanism | Advantages | Disadvantages |
+|---|---|---|---|
+| Antacids | | | |
+| Histamine-2 Antagonists | | | |
+| Proton Pump Inhibitors | | | |
+| Prostaglandin Analogues | | | |
+| Anticholinergic Agents | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+There was a **59%** pass rate for this question. Good answers included discussion of antacids (non-particulate and particulate), histamine-2 antagonists, proton pump inhibitors, prostaglandin analogues (misoprostol) and anticholinergic agents. Areas that were often inadequately discussed were antacids, perioperative reduction of acidity and advantages/disadvantages of the methods outlined.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Acid Suppression](/content/pharmacopoeia/git/acid_suppression.qmd)

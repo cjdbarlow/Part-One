@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014B Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Write brief notes**]{.task-verb} on the physiological changes associated with sleep.
+:::
+
+Also asked in: [2005A Question 10](/content/exams/anzca/2005/A/10/index.qmd#examiner-comments), [2008B Question 11](/content/exams/anzca/2008/B/11/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Write brief notes**]{.task-verb} under the following headings, comparing NREM and REM sleep and relating the changes to their physiological mechanisms.
+
+::: {.structure-headings}
+### Definition, Purpose and Sleep Architecture
+
+### Stages and EEG Changes
+
+### Respiratory Changes
+
+### Cardiovascular, Temperature, Muscle and Metabolic Changes
+
+### Neural Control and Effects of Sleep Deprivation
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**46 %** of candidates achieved a pass in this question
+
+A definition of sleep was expected, as well as an explanation of the stages of sleep: non-REM (stages 1 to 4), and REM. Candidates were frequently confused about these points – for example, stating that REM is stage 4, or that stage 1 is awake. The EEG changes occurring in each stage were required, however EEG changes were often quoted with little or no explanation (e.g. “delta waves” without defining this as high amplitude, low frequency EEG). Marks were awarded for explaining the relative times spent in each stage, how this changes as sleep progresses, and changes through the lifespan.
+
+Significant marks were available for explaining the respiratory changes in sleep. This was poorly addressed in the majority of answers. There is a reduction in tidal volume (not respiratory rate), with only very slight changes in PaO2 and PaCO2. The reduction in tidal volume is greatest during REM sleep. Although pharyngeal tone is decreased, with snoring common, it is not normal to develop sleep apnoea, become hypoxic, or have Cheyne-Stokes breathing when asleep. The respiratory changes are covered in detail in Nunn’s Applied Respiratory Physiology.
+
+Other points able to gain marks included the effects of sleep on: cardiovascular, temperature, skeletal muscle, GIT, endocrine/metabolic, and renal systems. Also the reasons for sleep, and effects of sleep deprivation. Very few candidates mentioned the CNS circuitry which produces sleep, or the neurotransmitters involved.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2005/A/10/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2005/A/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Sleep](/content/neuro/sleep.qmd)

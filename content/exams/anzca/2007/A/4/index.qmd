@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007A Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the suitability of ketamine as a total intravenous anaesthetic agent in comparison with propofol.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} suitability by comparing relevant kinetics and neurological, cardiovascular and respiratory effects in parallel columns. Connect differences to sole-agent anaesthesia and practical delivery.
+
+::: {.structure-table}
+| Feature | Ketamine | Propofol |
+|---|---|---|
+| Pharmaceutics and Practical Administration | | |
+| Onset, Offset and Infusion Kinetics | | |
+| Anaesthesia, Analgesia and Neurological Effects | | |
+| Cardiovascular and Respiratory Effects | | |
+| Suitability as a Sole Agent | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**25%** of candidates passed this question.
+
+To reach a pass standard simple, relevant information on the pharmacokinetics and the neurological, cardiovascular and respiratory pharmacodynamics of both agents was sufficient. Almost no candidates explained that ketamine is an effective, sole anaesthetic agent used widely in unsophisticated medical settings, nor the relevance of its particular pharmacodynamic properties in this situation. Many candidates understanding of total intravenous anaesthesia was limited to the use of propofol with pharmacokinetic model driven infusion pumps.
+
+Frequently the "comparison" aspect of the answer was not well organized. Answers using parallel columns for each agent's features were generally more complete in their comparisons. In contrast, poorly laid out answers were also more likely to focus predominantly on either kinetic or dynamic features, and to commonly have incomplete comparisons between the two drugs.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/A/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Ketamine](/content/pharmacopoeia/neuro/ketamine.qmd)
+- [Propofol](/content/pharmacopoeia/neuro/propofol.qmd)

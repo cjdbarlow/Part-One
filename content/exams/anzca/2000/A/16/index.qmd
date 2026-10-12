@@ -1,0 +1,63 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000A Question 16 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the factors that determine skin penetration by local anaesthetics. [**What is**]{.task-verb} an eutectic mixture? [**Briefly describe**]{.task-verb} the formulation and pharmacology of EMLA® cream.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} **Skin Penetration Factors**, define **Eutectic Mixture**, and [**describe**]{.task-verb} **EMLA Formulation and Pharmacology**. Relate the diffusion factors to local skin penetration and include the formulation’s adverse effects.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**73%** of candidates passed this question. However, a large number of answers included a list only, without further explanation, thus scoring poorly on this section. Although most candidates correctly referred to the fick equation, simply writing it down without explanation did not constitute adequate coverage. Furthermore, very few noted that a large surface area was not needed if a small area of anaesthesia was desired. In fact, some comments about uptake and blood flow suggested that many candidates felt that EMLA cream was intended to achieve therapeutic systemic concentrations (this was not a question about trans-dermal opiates; fentanyl in particular). Many candidates referred to “protein binding” without indicating which proteins were they referring to. Plasma protein binding plays little, if any role in the trans-cutaneous action of EMLA. No candidate made use of the structure-solubility relationship of local anaesthetics (2 mentioned amethocaine or benzocaine, but failed to qualify these inclusions adequately), nor did many explain non-ionised fractions well, several suggesting that ionisation increases with increasing pH. Please note that potency correlates with lipid solubility (and toxicity), but is not an independent determinant of absorption. Generally, it appeared that few candidates understood much of the chemistry of these drugs or the definition of an eutectic mixture. Local anaesthetics are not the only compounds to form eutectic mixtures. In fact only 2 candidates correctly defined the mixture as being the composition at the eutectic point. EMLA cream is a CREAM (as written in the question), not an ointment, etc. Knowledge of the constituents, the droplet formation, and the free base content were required to score highly. Most candidates mentioned metHb formation from prilocaine and the low systemic toxicity potential for this preparation. Several candidates confused basic concepts such as melting and boiling points. Details of onset and duration were also poorly covered.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Local Anaesthetic Agents](/content/pharmacopoeia/neuro/local_anaesthetics.qmd)
+- [Local Anaesthetics](/content/pharmacopoeia/neuro/local_anaesthetic_principles.qmd)

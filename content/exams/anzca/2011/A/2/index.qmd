@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011A Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Classify**]{.task-verb} non-opioid drugs used for the treatment of neuropathic pain and [**indicate**]{.task-verb} proposed mechanisms of analgesic action and potential adverse effects.
+:::
+
+Also asked in: [2007A Question 5](/content/exams/anzca/2007/A/5/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Classify**]{.task-verb} the drugs in a table, then [**indicate**]{.task-verb} the proposed analgesic mechanism and specific adverse effects for each class.
+
+::: {.structure-table}
+| Drug Class | Examples | Analgesic Mechanism | Adverse Effects |
+|---|---|---|---|
+| Simple Analgesics | | | |
+| Anticonvulsants | | | |
+| Antidepressants | | | |
+| Membrane Stabilisers | | | |
+| Other Agents | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question was passed by **35.1%** of candidates.
+
+This question was very clear in what was required. Discussion of neuropathic pain, opioids, and non-drug treatments did not attract marks.
+
+Many candidates omitted the mechanism of action, used vague statements such as, ‘affects the receptor’, or described a non-analgesic mechanism of action. When discussing adverse effects avoid statements such as, ‘many side effects’ or ‘many interactions’, without providing additional detail. Writing ‘sedation’ as the only adverse effect of tricyclics did not attract marks. Many answers contained a long detailed description of simple analgesics, and only a limited discussion of other drugs used for the treatment of neuropathic pain.
+
+Answers should have included the following main components: Antidepressants (tricyclics), Anticonvulsants (Gabapentinoids), Membrane Stabilisers (lignocaine/mexiletine), NMDA antagonists (Ketamine), and a brief discussion of simple analgesics. Additional marks were gained for discussion of other drugs, or additional detail
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Antidepressants](/content/pharmacopoeia/neuro/antidepressants.qmd)
+- [Anticonvulsants](/content/pharmacopoeia/neuro/anticonvulsants.qmd)

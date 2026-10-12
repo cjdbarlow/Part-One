@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018A Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} platelets and their role in haemostasis.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} platelet structure and function through adhesion, activation, amplification and aggregation. Link released mediators and the platelet surface to vascular responses, clotting cascade integration and clot stability.
+
+::: {.structure-headings}
+### Structure, Production, Life Span and Granules
+
+### Adhesion to the Injured Vessel
+
+### Activation and Mediator Release
+
+### Aggregation and Primary Haemostasis
+
+### Secondary Haemostasis, Contraction and Healing
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**51%** of candidates achieved a pass in this question
+
+To gain good marks candidates were required to demonstrate an understanding of the mechanism of actions of platelets in both primary and secondary haemostasis. This includes the triggers and actions in the steps of adhesion, activation, amplification and aggregation not just the words. The integration with initiation, amplification and propagation of the clotting cascade by platelet activation gained marks. Knowledge of the actions of factors released from the platelet granules, eg thromboxane A2 causing local vasoconstriction as well as facilitating aggregation and platelet derived growth factor enhancing vessel healing was required for a good mark, rather than just a list.
+
+The clotting cascade itself was not required for this question. Pharmacological agents and disease states that alter the function of platelets were not requested but were given marks if described in terms of mechanism of action.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2018/A/15/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2018/A/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Platelets](/content/haeme/platelets.qmd)

@@ -1,0 +1,55 @@
+#### List:
+
+- Intro
+- Interaction with haemoglobin
+- Clinical applications
+
+#### Intro: 2,3-DPG
+
++--------------+---------------------------------------------------------------------------------------------------------------------------------+
+| Nature       | - Three carbon metabolic intermediate                                                                                           |
+|              | - Highly negatively charged                                                                                                     |
+|              | - High concentration in RBC                                                                                                     |
++--------------+---------------------------------------------------------------------------------------------------------------------------------+
+| Pathway      | ![](/content/exams/anzca/2004/A/11/prize-image001.jpg){fig-alt="Glycolysis and the Rapoport–Luebering shunt producing 2,3-DPG"} |
++--------------+---------------------------------------------------------------------------------------------------------------------------------+
+| Increased if | - High altitude                                                                                                                 |
+|              | - Chronic lung disease                                                                                                          |
+|              | - Anaemia                                                                                                                       |
++--------------+---------------------------------------------------------------------------------------------------------------------------------+
+
+#### Interaction with haemoglobin:
+
++-----------+-------------------------------------------------------------------------------------------------------------------------------------------+
+| Adult Hb  | - Binds to the β-globin chain                                                                                                             |
+|           | - Stabilises the tense (T) low affinity conformation                                                                                      |
+|           | - Hence right shift of oxyhaemoglobin dissociation curve (OHDC) → ↑p50                                                                    |
+|           | - Aids O~2~ unloading at tissue capillaries                                                                                               |
+|           | - Reverse at the lungs → O~2~ loading                                                                                                     |
+|           | - Effect on gas exchange vivo appears less significant than predicted                                                                     |
+|           |                                                                                                                                           |
+|           | ![](/content/exams/anzca/2004/A/11/prize-image002.jpg){fig-alt="Oxyhaemoglobin dissociation curve showing factors causing a right shift"} |
++-----------+-------------------------------------------------------------------------------------------------------------------------------------------+
+| Foetal Hb | - Serine instead of histidine at position 143 on globin chain                                                                             |
+|           | - Histidine positively charged, interacts with negative charges on 2,3-DPG                                                                |
+|           | - Serine neutrally charged, does not interact                                                                                             |
+|           | - Hence very low affinity for 2,3-DPG                                                                                                     |
+|           | - Left shift of OHDC, lower p50 (19mmHg cf. 26mmHg)                                                                                       |
++-----------+-------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Clinical applications:
+
++------------+------------------------------------------------------------------------+
+| Altitude   | - ↑2,3-DPG production due to ↓PaO~2~                                   |
+|            | - Right shift OHDC → ↓O~2~ affinity → ↑tissue oxygenation → ↑EO~2~     |
+|            | - Only partly offsets L shift caused by resp alkalosis (↓PaCO~2~, ↑pH) |
++------------+------------------------------------------------------------------------+
+| Anaemia    | - ↑2,3-DPG production due to ? cellular hypoxia                        |
+|            | - ↓Affinity → ↑tissue oxygenation → ↑EO~2~                             |
++------------+------------------------------------------------------------------------+
+| Stored RBC | - 50% ↓\[2,3-DPG\] at 2/52                                             |
+|            | - 95% ↓ at 4/52                                                        |
+|            | - Due to ↓temp → ↓glycolysis and lack of substrate                     |
+|            | - Left shift OHDC → ↑O~2~ affinity → ↓EO~2~ → tissue oxygenation       |
+|            | - \[2,3-DPG\] restored after 24 hours                                  |
++------------+------------------------------------------------------------------------+

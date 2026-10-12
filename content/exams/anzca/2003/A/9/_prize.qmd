@@ -1,0 +1,63 @@
+#### List:
+
+- Intro: Hb, buffer
+- Hb buffering mechanism
+- Hb buffering efficiency
+
+#### Intro:
+
++------------------+---------------------------------------------------------------------------------------------------+
+| Haemoglobin      | - Specialised O~2~ carrying protein in RBCs                                                       |
+|                  | - 4 x Haem: protoporphyrin ring and Fe^2+^                                                        |
+|                  | - 4 x Globin polypeptide chain (2α, 2β)                                                           |
+|                  | - Important buffer in ECF                                                                         |
++------------------+---------------------------------------------------------------------------------------------------+
+| Buffer           | - Substance resisting ↓/↑ pH when acid/base added to solution                                     |
+|                  | - = weak acid and conjugate base                                                                  |
+|                  | - i.e. H^+^ + B^-^ \<-\> HB                                                                       |
++------------------+---------------------------------------------------------------------------------------------------+
+| Effective buffer | - Abundant                                                                                        |
+|                  | - Rapid                                                                                           |
+|                  | - pKa near prevailing pH (+/- 1)                                                                  |
+|                  | - Open-ended (i.e. carbonic acid system – CO~2~ excreted by lungs, HCO~3~^-^ and H^+^ by kidneys) |
++------------------+---------------------------------------------------------------------------------------------------+
+
+#### Hb buffering mechanism:
+
++---------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Diffusion           | - Gases pass down partial pressure gradients                                                                                                                            |
+|                     | - O~2~: RBC → tissue                                                                                                                                                    |
+|                     | - CO~2~: tissue → RBC                                                                                                                                                   |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| H^+^ buffering      | - ![](/content/exams/anzca/2003/A/9/prize-image001.jpg){fig-alt="Carbon dioxide hydration and dissociation to hydrogen ions and bicarbonate, with carbonic anhydrase"}  |
+|                     | - H^+^ + KHb \<-\> HHb + K^+^ (pKa 6.8)                                                                                                                                 |
+|                     | - Active component is imidazole groups of histidine residues                                                                                                            |
+|                     | - HCO~3~^-^ exchanged for Cl^-^ across the RBC membrane (=Hamburger effect)                                                                                             |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Carbamino formation | - -NH~2~ + CO^2^ \<-\> -NHCOO^-^ + H^+^                                                                                                                                 |
+|                     | - i.e. binds to terminal amino groups and amino groups on side chains of arginine and lysine                                                                            |
+|                     | - H^+^ buffered as above                                                                                                                                                |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Haldane effect      | - DeoxyHb takes up more H^+^ and CO~2~                                                                                                                                  |
+|                     | - Minimises ↓pH from arterial (7.44) to venous (7.36) despite large ↑n(H^+^)                                                                                            |
+|                     | - 70% of effect: due to 3.5x ↑formation of carbaminoHb                                                                                                                  |
+|                     | - 30% of effect: imidazole pKa 6.6 → 8.2 hence ↑buffering                                                                                                               |
+|                     | - For every mmol O~2~ unloaded, 0.7mmol H^+^ is loaded without ↓pH (= isohydric buffering)                                                                              |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+(note: reverse changes occur at the lungs, facilitating O~2~ uptake and CO~2~ excretion)
+
+#### Hb buffering efficiency:
+
++---------------+----------------------------------------------------------------------+
+| High quantity | - High \[Hb\] (140g/L) (cf. plasma proteins 70g/L)                   |
+|               | - Large number imidazole groups per Hb (39) (cf. plasma proteins 13) |
++---------------+----------------------------------------------------------------------+
+| pKa near pH   | - pKa 6.8 (oxyHb 6.6, deoxyHb 8.2)                                   |
+|               | - pH 7.34-7.45                                                       |
++---------------+----------------------------------------------------------------------+
+| Open-ended    | - Indirectly via link to carbonic acid system                        |
++---------------+----------------------------------------------------------------------+
+| Rapid         | - CO~2~ lipid soluble, rapidly enters RBC                            |
+|               | - Carbonic anhydrase very fast (10,000x / second)                    |
++---------------+----------------------------------------------------------------------+

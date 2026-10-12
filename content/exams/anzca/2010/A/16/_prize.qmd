@@ -1,0 +1,74 @@
+#### List:
+
+- Intro: membrane and particle
+- Diffusion
+- Active transport
+- Vesicular transport
+
+#### Intro:
+
++------------------------+----------------------------------------------------------------------------+
+| Cell membrane          | - A lipid bilayer                                                          |
+|                        | - Hydrophilic heads externally (e.g. phospholipids)                        |
+|                        | - Hydrophobic tails internally (fatty acids)                               |
++------------------------+----------------------------------------------------------------------------+
+| Substance permeability | - Water: diffuses freely by omosis (from low to high solute concentration) |
+|                        | - Gases: diffuse freely                                                    |
+|                        | - Small, non-polar e.g. urea: diffuses freely                              |
+|                        | - Small, charged e.g. Na^+^: active transport                              |
+|                        | - Large: receptor or carrier mediated transport                            |
++------------------------+----------------------------------------------------------------------------+
+
+#### Diffusion:
+
++-----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Fick’s law            | ![](/content/exams/anzca/2010/A/16/prize-image001.jpg){fig-alt="Fick diffusion equation showing concentration gradient and membrane and substance factors"} |
++-----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Simple diffusion      | - Down a concentration gradient                                                                                                                             |
+|                       | - Rate virtually unlimited                                                                                                                                  |
+|                       | - e.g. O~2~: alveolus → interstitium → blood                                                                                                                |
++-----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Facilitated diffusion | - Down a concentration gradient                                                                                                                             |
+|                       | - Via a channel or transporter                                                                                                                              |
+|                       | - Rate therefore limited (discrete number of transporters)                                                                                                  |
+|                       | - e.g. GLUT4 facilitates glucose passage blood→ adipose                                                                                                     |
+|                       | - e.g. aquaporin-2 facilitates water reabsorption in collecting ducts                                                                                       |
+|                       | - e.g. SGLT2: note transport maximum \~375mg/min                                                                                                            |
++-----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Active transport:
+
++------------------+------------------------------------------------------------------------------------------------------------------------------------+
+| Primary active   | - Movement up a concentration gradient                                                                                             |
+|                  | - Energy requiring (ATP)                                                                                                           |
+|                  | - e.g. H^+^ ATPase in intercalated cell of connecting tubule and collecting ducts                                                  |
++------------------+------------------------------------------------------------------------------------------------------------------------------------+
+| Secondary active | - Movement up a concentration gradient                                                                                             |
+|                  | - Facilitated by a gradient established by an energy-requiring pump                                                                |
+|                  | - e.g. Na^+^/Ca^2+^ antiporter on cardiomyocytes facilitated by Na^+^K^+^ATPase                                                    |
+|                  |   - Accounts for indirect positive intropy caused by digoxin                                                                       |
+|                  | - e.g. Na^+^/K^+^/2Cl^-^ symporter at apical membrane of thick ascending loop of Henle, facilitated by basolateral Na^+^K^+^ATPase |
++------------------+------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Vesicular transport:
+
++-------------------------------+-------------------------------------------------------+
+| Pinocytosis                   | - Piece of membrane engulfs nearby small particles    |
+|                               | - Substance enters cell within a vesicle              |
+|                               | - Requires energy (ATP)                               |
+|                               | - Non-specific                                        |
+|                               | - e.g. dendritic cell sampling lymph                  |
++-------------------------------+-------------------------------------------------------+
+| Phagocytosis                  | - Piece of membrane engulfs large substance           |
+|                               | - Requires energy (ATP)                               |
+|                               | - e.g. neutrophil and bacterium                       |
++-------------------------------+-------------------------------------------------------+
+| Receptor-mediated endocytosis | - Piece of membrane engulfs receptor and ligand       |
+|                               | - Specific                                            |
+|                               | - e.g. B cell + antibody-antigen                      |
++-------------------------------+-------------------------------------------------------+
+| Exocytosis                    | - Vesicle surrounding substances fuses with membrane  |
+|                               | - Substance expelled into ECF                         |
+|                               | - e.g. ACh release at NMJ, insulin at β-cell          |
+|                               | - Can be very large amount e.g. hundreds of thousands |
++-------------------------------+-------------------------------------------------------+

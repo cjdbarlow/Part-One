@@ -1,0 +1,67 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012B Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the pharmacology of drugs that inhibit the activity of the renin-angiotensin system. [**What particular problems**]{.task-verb} can occur in the anaesthetised patient taking these drugs?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} **Drug Groups and Mechanisms**, **Uses and Pharmacokinetics**, **Adverse Effects**, and **Problems During Anaesthesia**. [**Compare**]{.task-verb} ACE inhibitors and angiotensin receptor antagonists, linking the anaesthetic problems to their pharmacology.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**35 %** of candidates passed this question.
+
+Drugs that interact with the Renin Angiotensin System (RAS) are commonly used in medical practice. While they are not the mainstay of anaesthesia practice some level of familiarity was expected. An in depth of knowledge of their pharmacology was not required with “high light” comments of the main pharmacology scoring well. Good answers often gave a brief outline of the physiology and related this to the mechanism of action of the various agents. The core agents include both angiotensin converting enzyme inhibitors and angiotensin II receptor antagonists although credit was given for discussion of other drugs that more broadly interact with this system. A traditional structured pharmacology approach readily allowed the candidate to mention examples of each group, the specific mechanisms of action, possible uses, route of administration and some comment about general pharmacokinetics, in particular any differences of note. Additional marks were awarded for comments indicating some agents were administered as pro-drugs, the main side effect profile (cough, angioedema, renal impairment and hypotension to name a few) and the mechanism behind these. As indicated in the question it was specifically expected candidates would comment on problems that may arise with anaesthesia and in particular some comment regarding potential hypotension was expected.
+
+A common omission was that answers only included a discussion about the physiology of the RAS with no comment on pharmacology of the relevant agents.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Angiotensin Converting Enzyme Inhibitors](/content/pharmacopoeia/cvs/ace_inhibitors.qmd)
+- [Angiotensin Receptor Blockers](/content/pharmacopoeia/cvs/angiotensin_receptor_blockers.qmd)

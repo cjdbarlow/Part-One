@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010B Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the statistical methods which can be used for analysis of groups of categorical data.
+:::
+
+Also asked in: [2012A Question 8](/content/exams/anzca/2012/A/8/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} **Definition and Subtypes**, **Descriptive Methods**, and **Inferential Methods**. Separate nominal from ordinal data and [**explain**]{.task-verb} the use, assumptions and limitations of chi-squared analysis and relevant alternatives.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**15%** of candidates passed this question.
+
+Categorical data involves primarily nominal data but can include ordinal data (ranked groups). Many candidates failed to provide a clear definition.
+
+Marks were awarded for providing brief examples. Descriptive statistics were often omitted, but could involve table of counts or graphical techniques such as bar graphs or pie charts.
+
+Inferential analysis could be divided into techniques for nominal data and ordinal data. Chi-squared analysis forms the backbone of analysis for nominal data. A discussion about how the test statistic is calculated and the underlying assumptions involved was expected.
+
+Extra marks were also awarded for the appropriate discussion of Fisher’s Exact Test and Yates correction. Ratio analysis was rarely discussed, but extra marks were awarded for discussion about relative risk and odds ratio.
+
+A frequent mistake was to discuss parametric analysis for categorical data (eg. Student T test, ANOVA). Categorical data do not generally meet the assumptions required for parametric analysis.
+
+A discussion about non-parametric analysis in relation to some types of ordinal data (eg. Wilcoxon Rank Sum test and pain scores) was awarded extra marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Statistical Tests](/content/stats/statistical_tests.qmd)
+- [Data Types](/content/stats/data_types.qmd)

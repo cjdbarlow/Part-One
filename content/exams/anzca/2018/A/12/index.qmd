@@ -1,0 +1,85 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018A Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Compare and contrast**]{.task-verb} the pharmacology of neostigmine and sugammadex.
+:::
+
+Also asked in: [2015B Question 14](/content/exams/anzca/2015/B/14/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Compare and contrast**]{.task-verb} the drugs in parallel columns, linking mechanism and selectivity to reversal depth, dose and timing. Include disposition, adverse effects, interactions and uses beyond the shared indication.
+
+::: {.structure-table}
+| Feature | Neostigmine | Sugammadex |
+|---|---|---|
+| Class and Formulation | | |
+| Mechanism and Selectivity | | |
+| Dose, Timing and Reversal Depth | | |
+| Pharmacokinetics | | |
+| Adverse Effects, Interactions and Other Uses | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**73%** of candidates achieved a pass in this question
+
+This question was generally answered well. Many candidates included pharmaceutics. However there was inconsistency regarding light stability of sugammadex (manufacturer recommends use within 5 days if not protected from light). Some candidates demonstrated a lack of understanding of basic chemistry, with confusion between amides and amines, tertiary and quaternary groups and the consequences of covalent bonds.
+
+Good answers included the hydrophilic outer substitution and hydrophobic inner substitution of sugammadex, an excellent answer would have included that gamma cyclodextrin has eight sugar moieties, carboxyl outer substitution or hydroxyl inner substitution.
+
+Indications for the use of neostigmine were often limited to reversal of neuromuscular blockade. Better answers also included pseudo-obstruction, atonic bladder and myasthenia gravis.
+
+Glaucoma was seldom mentioned. Two candidates mentioned the intrathecal use for analgesia. Although bioavailability is poor, oral preparations are available, with dosing in the order of 30mg. Neostigmine dosing was highly variable (0.5 microgram per kg – 50 mg per kg). Better answers mentioned a ceiling effect at 70 microgram per kg. Metabolism was frequently believed to be hepatic, rather than hydrolysis by plasma esterases. Better answers included a description of how neostigmine interacts with acetylcholinesterase to inhibit it.
+
+Frequently, side effects of neostigmine were categorised as cholinergic, with no differentiation between muscarinic or nicotinic effects.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2015/B/14/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2015/B/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neuromuscular blockers](/content/msk/neuromuscular_blockers.qmd)
+- [Sugammadex](/content/pharmacopoeia/msk/sugammadex.qmd)

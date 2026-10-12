@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007A Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Define**]{.task-verb} “Venous Admixture”. [**Briefly explain**]{.task-verb} how venous admixture influences arterial oxygen tension and how an increase in inspired oxygen concentration may effect this.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Define**]{.task-verb} venous admixture precisely and [**briefly explain**]{.task-verb} its effect on arterial oxygen tension. Distinguish low V/Q from shunt and show why their responses to increased inspired oxygen differ.
+
+::: {.structure-headings}
+### Definition and Shunt Equation
+
+### Sources and Normal Contributions
+
+### Effect on Arterial Oxygen Tension
+
+### Low V/Q and Increased Inspired Oxygen
+
+### Shunt and Limits of Oxygen Therapy
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**43%** of candidates passed this question.
+
+Main points expected for a pass included: definition, sources of venous admixture with brief description of each, appreciation that venous admixture is a concept which may be expressed by the shunt equation, statement of effect on PaO2 of venous admixture with reference to the oxyhaemoglobin dissociation curve (demonstrating relation of oxygen tension to haemoglobin saturation), and the effect of increased inspired oxygen concentration on venous admixture.
+
+Additional marks were allocated for more detail with respect to sources of venous admixture (e.g. relative contribution, magnitude effect), demonstration that small and large amounts of venous admixture affect PaO2 differently, explanation of relative effect of high versus low V/Q units, reference to isoshunt diagram and quantifying effect of increased inspired oxygen.
+
+Mistakes commonly made included: imprecise or interchangeable use of terms (e.g. oxygen content for PaO2 and shunt or mixed venous blood for venous admixture); and use of oxyhaemoglobin dissociation curve to justify arguments regarding the effect of increased PaO2 on oxygen content. Credit was not given for vague, non-directional statements of effect, or for discussion of carbon dioxide or factors which affect mixed venous PO2.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/A/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Shunt](/content/resp/shunt.qmd)
+- [Ventilation–perfusion relationships](/content/resp/vq_basics.qmd)

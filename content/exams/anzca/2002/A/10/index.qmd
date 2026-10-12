@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002A Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the factors that determine recovery (offset of action) after ceasing a drug infusion.
+:::
+
+Also asked in: [1999B Question 16](/content/exams/anzca/1999/B/16/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} recovery by following the effect-site concentration from the end of infusion to the threshold for offset. Distinguish redistribution from elimination and explain how drug, patient and infusion factors alter each stage.
+
+::: {.structure-headings}
+### Effect-Site Concentration at the End of Infusion
+
+### Movement From the Effect Site
+
+### Distribution and Elimination
+
+### Concentration Required for Recovery
+
+### Active Metabolites and Persistent Drug Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The pass rate for this question was **43%**. This question was also asked in 1999, 1998 and 1995.
+
+The effect of most drugs is related to the drug concentration at the effect site. Thus recovery is dependent on all the factors that influence the concentration at the end of the infusion, the rate of decline in concentration, and the final concentration that no longer has an effect.
+
+The concentration at the end of the infusion will be dependent on the dosing regimen up to that time and the drug pharmacokinetics. Diffusion of drug between the blood and the effect site will be affected by the concentration gradient and the physicochemical characteristics of the drug. Although a few drugs may be metabolised at the effect site, most drugs will have to diffuse back to the blood before elimination. The decline in blood concentrations will be determined by drug clearance and distribution (and factors that alter clearance and volumes of distribution). Many answers listed potential factors without indicating whether recovery would be prolonged or shortened. Many answers elaborated on the context sensitive half time (CSHT) as an example of the balance between distribution and elimination. The CSHT does not determine recovery (although it is better than the elimination half-life as an indicator); it just predicts a defined specific decline in concentration. It is unlikely that exactly a 50% decrease in concentration is required for recovery, and the CSHT can not be simply scaled for other decrement times. Many answers were confused about the effect of volume of distribution (Vd). A larger peripheral Vd may hasten the decline in plasma concentration if the infusion is relatively short. An increase in lipid solubility does not necessarily mean an increase in Vd. A comparison of the opioid data will illustrate the inter-relationships among all the pharmacokinetic variables.
+
+The effect site drug concentration required for recovery may be affected by factors such as individual variability, tolerance and drug interactions. Other factors that may influence actual recovery include active metabolites and patient status. A few drugs bind irreversibly to receptors or inactivate them so that the effect long outlasts their measured blood concentration.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/B/16/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Intravenous drug kinetics](/content/pharmacology/iv_kinetics.qmd)
+- [Drug elimination](/content/pharmacology/elimination.qmd)

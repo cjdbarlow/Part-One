@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018B Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the maternal cardiovascular changes that occur during pregnancy.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the direction, approximate magnitude and time course of maternal cardiovascular changes. Explain the mechanisms linking circulating volume, cardiac function and vascular resistance, and include positional effects and labour.
+
+::: {.structure-headings}
+### Time Course and Hormonal Drivers
+
+### Cardiac Output, Heart Rate and Stroke Volume
+
+### Vascular Resistance and Arterial Pressure
+
+### Blood Volume and Haematological Changes
+
+### Aortocaval Compression and Labour
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**50%** of candidates achieved a pass in this question
+
+This answer required more than a list of rudimentary facts related to the cardiovascular system in a pregnant woman.
+
+Cardiovascular parameters related to at least 3 or more aspects of cardiac physiology, in areas such as cardiac output, stroke volume, heart rate, mean arterial pressure and systemic vascular resistance were required for a pass, including the correct direction and approximate magnitude of the changes. An explanation of supine hypotension/aortocaval compression syndrome was also expected.
+
+Whilst the haematopoietic system & the relevant changes were given credit, these were often the main or only focus of many answers. Viscosity, hypercoagulability, dilutional anaemia of pregnancy and changes to haemoglobin levels if mentioned were required to be correctly described.
+
+This question asked for changes that occur over the course of pregnancy, so marks were awarded for a description of the time course of pregnancy with the accompanying alteration such as the increase in cardiac output that occurs early in first trimester and then again during the third trimester as well as labour. Again, superior answers would include an explanation as to how the changes come about.
+
+Extra credit was given when the hormones (oestrogen, progesterone or relaxin) involved were described as well as the changes they produce. Also, extra credit was awarded when details were given about specific areas such as the difference in the change in systolic, diastolic and mean arterial blood pressure or other vascular beds or the utero-placental circulation were mentioned.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2018/B/5/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2018/B/5/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Cardiovascular changes of pregnancy](/content/obs/preg_cvs.qmd)

@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012B Question 16 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly outline**]{.task-verb} the differences between the pulmonary circulation and the systemic circulation.
+:::
+
+Also asked in: [2004A Question 9](/content/exams/anzca/2004/A/9/index.qmd#examiner-comments), [2015B Question 9](/content/exams/anzca/2015/B/9/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly outline**]{.task-verb} the differences using parallel columns. Give relevant numerical variables with a short physiological explanation, then compare flow distribution, resistance control and the functions of each circulation.
+
+::: {.structure-table}
+| Feature | Pulmonary Circulation | Systemic Circulation |
+|---|---|---|
+| Macroscopic and Microscopic Anatomy | | |
+| Pressures, Volume and Resistance | | |
+| Flow and Effects of Gravity | | |
+| Vascular Regulation and Gas Responses | | |
+| Predominant and Special Functions | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**69 %** of candidates passed this question.
+
+While both tabular and essay format are acceptable for this question, inadequate answers were more commonly found in the former. Better answers organized the main points into anatomical, haemodynamics, regulation and functional differences.
+
+Anatomical discussion should include an outline of the circuitries involved and the structure of the vessel walls. Haemodynamic differences should include pressures, vascular resistance, the effects of gravity, lung volume and increased pulmonary vascular pressure.
+
+Common errors included failing to appreciate that the heart is a demand pump that delivers blood into both circulations, using impreceise terms such as “right heart” or left heart” failing to consider anatomical crossovers, and that both circulations have arterial and venous compartments. Many candidates were under the impression that the lower pressures in the pulmonary circulation were dues to a weaker right ventricle or a lower hydrostatic pressure against which to pump, rather than due to a low pulmonary vascular resistance. Storage of oxygen is not a role of the pulmonary circulation.
+
+Examiners are unable to award marks to imprecise statements that fail to demonstrate understanding.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2004/A/9/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2004/A/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Pulmonary circulation](/content/cvs/pulmonary_circulation.qmd)

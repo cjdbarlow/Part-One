@@ -1,0 +1,73 @@
+#### List:
+
+- Consciousness
+- Lipid hypothesis
+- Protein hypothesis
+- Other hypotheses
+
+#### Consciousness:
+
++---------------+--------------------------------------------------------------------------------+
+| Definition    | - Awareness of one’s physical state, motivational state, emotions and thoughts |
++---------------+--------------------------------------------------------------------------------+
+| Mechanism     | - Poorly understood                                                            |
+|               | - Dependent upon precisely organized interactions between                      |
+|               |   - Ascending reticular activating system (ARAS) in brainstem                  |
+|               |   - Thalamus                                                                   |
+|               |   - Cerebral cortex                                                            |
+|               | - Disruption of these interactions causes unconsciousness                      |
++---------------+--------------------------------------------------------------------------------+
+| Key mediators | - Glutamate                                                                    |
+|               | - Noradrenaline                                                                |
+|               | - Acetylcholine                                                                |
++---------------+--------------------------------------------------------------------------------+
+
+#### Lipid hypothesis (main discredited theory):
+
++-----------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| Theory    | - Accumulation of volatile agent in CNS bilayer causes distortion of membrane function                                                         |
+|           |   - Critical volume hypothesis                                                                                                                 |
+|           |   - Lateral phase separation hypothesis                                                                                                        |
++-----------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| Rationale | - Myer-Overton correlation: between anaesthetic potency and solubility in olive oil                                                            |
+|           |                                                                                                                                                |
+|           | ![](/content/exams/anzca/2018/A/3/prize-image001.jpg){fig-alt="Anaesthetic potency against oil–gas partition coefficient on logarithmic axes"} |
++-----------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| Problem   | - Imperfect correlation                                                                                                                        |
+|           | - Exceptions: existence of inert anaesthetic-like compounds                                                                                    |
+|           | - Carbon chain length cut-off: molecules beyond a certain length lose anaesthetic effect                                                       |
+|           | - Temperature: minor changes cause membrane distortion comparable to anaesthetics                                                              |
+|           | - Structural isomeric differences: e.g. isoflurane MAC 1.2%, enflurane MAC 1.7%                                                                |
+|           | - Stereoisomeric differences: e.g. R-etomidate 10x more potent than S-etomidate                                                                |
++-----------+------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Protein hypothesis (currently accepted)
+
++-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Theory                | - Interaction with hydrophobic areas of key membrane proteins including ion channels                                                               |
++-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Rationale             | - Correlation between anaesthetic potency and solubility in amphipathic substances\                                                                |
+|                       |   (closer correlation than with lipid solubility)                                                                                                  |
+|                       | - Correlation between anaesthetic potency and inhibition of firefly luciferase\                                                                    |
+|                       |   (a protein-only structure)                                                                                                                       |
+|                       |                                                                                                                                                    |
+|                       | ![](/content/exams/anzca/2018/A/3/prize-image002.jpg){fig-alt="Anaesthetic potency against potency for luciferase inhibition on logarithmic axes"} |
++-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Subsequent validation | - Effect of volatile agents at ion channels                                                                                                        |
+|                       |   - ↑Activity of GABA, glycine, 2PK, 5-HT                                                                                                          |
+|                       |   - ↓Activity at nnAChR, NMDA, AMPA                                                                                                                |
++-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Other hypotheses:
+
++---------------------+-------------------------------------------------------------------------------------+
+| Sleep               | - Hypothesis: volatiles agents activate sleep circuitry                             |
+|                     | - Rationale: EEG signature of volatile agents is similar to slow wave sleep         |
+|                     | - Flaw: volatile agents induce unrousable unconsciousness and immobility            |
++---------------------+-------------------------------------------------------------------------------------+
+| Cellular targets    | - Hypothesis: volatile agents impair neuronal function specifically                 |
+|                     | - Rationale: relative preservation of other body functions                          |
+|                     | - Flaw: proven significant effects on many tissues, e.g. skeletal muscle relaxation |
++---------------------+-------------------------------------------------------------------------------------+
+| Subcellular targets | - E.g. ↑↓ function of second messengers                                             |
++---------------------+-------------------------------------------------------------------------------------+

@@ -1,0 +1,126 @@
+#### List:
+
+- Onset
+  - Intro
+  - Rate of passage
+  - MLAC
+- Duration
+  - Intro
+  - MLAC
+  - Rate of removal
+  - MLAC
+
+#### ONSET
+
+#### Intro:
+
++--------------------------------+------------------------------------------------------------+
+| Local anaesthetic              | - Antagonist at axonal voltage-gated Na^+^ channel (VDNaC) |
++--------------------------------+------------------------------------------------------------+
+| Drug path                      | - Interstitium → axoplasm                                  |
+|                                | - Only unionised drug diffuses readily                     |
+|                                | - Ionised \> unionised drug enters receptor                |
+|                                | - ICF \> ECF drug enters receptor                          |
++--------------------------------+------------------------------------------------------------+
+| Determinants of speed of onset | 1.  Rate of passage into axoplasm                          |
+|                                | 2.  Minimum local analgesic concentration (MLAC)           |
++--------------------------------+------------------------------------------------------------+
+
+#### 1.Rate of passage (factors accelerating it)
+
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Fick’s law       | ![](/content/exams/anzca/2019/B/9/prize-image001.jpg){fig-alt="Fick diffusion relationship governing local anaesthetic passage to the axoplasm"} |
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↑C~1~            | ↑Concentration *\*\*major factor*                                                                                                                |
+|                  |                                                                                                                                                  |
+|                  | e.g. 10% cf. 1% lignocaine                                                                                                                       |
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↓C~2~            | ↑Tissue protein binding                                                                                                                          |
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↑Area            | ↑Volume injected                                                                                                                                 |
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↓Thickness       | - ↑Size of nerve (e.g. sciatic cf. median)                                                                                                       |
+|                  | - ↑Connective tissue (e.g. sciatic cf. median)                                                                                                   |
+|                  |   - Added hyaluronidase → ↓effective thickness                                                                                                   |
+|                  | - ↓Distance from centre of bundle (i.e. proximal affected before distal)                                                                         |
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↑Diffusion coeff | - ↑% unionised: *\*\*major factor*                                                                                                               |
+|                  |   - Drug: ligno 25% cf. ropiv 15%                                                                                                                |
+|                  |   - Additive: e.g. HCO~3~^-^ → ↑% unionised                                                                                                      |
+|                  |   - Patient: e.g. abscess → acidosis → ↓↓% unionised                                                                                             |
+|                  | - ↑Lipid solubility (ropiv 300x cf. ligno 150x)                                                                                                  |
+|                  | - ↓Molecular weight (ligno 234g/mol cf. bupiv 274g/mol)                                                                                          |
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### 2.MLAC (factors decreasing it = factors increasing sensitivity):
+
++-------------------+------------------------------------------------------------------------------------+
+| Nerve sensitivity | - Myelination (3 consecutive nodes of Ranvier ≈ 1cm)                               |
+|                   | - ↑Frequency of action potential                                                   |
+|                   | - ↓Nerve diameter → ↓ratio surface area : axon unit volume                         |
+|                   |                                                                                    |
+|                   | Order of decreasing sensitivity: B \> C \> Aδ \> Aγ \> Aβ \> Aα (sensory 2x motor) |
++-------------------+------------------------------------------------------------------------------------+
+| Patient           | - ↑Tissue pH                                                                       |
+|                   | - Pregnancy                                                                        |
++-------------------+------------------------------------------------------------------------------------+
+| Drug              | - ↑Potency (ropiv 8x ligno 2x)\                                                    |
+|                   |   (correlates with ↑lipid solubility)                                              |
++-------------------+------------------------------------------------------------------------------------+
+| Additives         | - Opioid                                                                           |
+|                   | - α~2~ agonist                                                                     |
++-------------------+------------------------------------------------------------------------------------+
+
+#### DURATION:
+
+#### Intro:
+
++--------------------------------+----------------------------------------------------+
+| Drug path                      | - Axoplasm → interstitium → plasma                 |
+|                                | - Only unionised drug diffuses readily             |
++--------------------------------+----------------------------------------------------+
+| Determinants of rate of offset | 1.  Maximum concentration in axoplasm              |
+|                                | 2.  Rate of removal from axoplasm                  |
+|                                | 3.  Minimal local anaesthetic concentration (MLAC) |
++--------------------------------+----------------------------------------------------+
+
+#### 1.Maximum concentration (factors increasing it)
+
+- ↑Concentration of solution
+- ↑Volume injected
+
+#### 2.Rate of removal (factors slowing it):
+
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Fick’s law       | ![](/content/exams/anzca/2019/B/9/prize-image002.jpg){fig-alt="Fick diffusion relationship governing local anaesthetic removal from the axoplasm"} |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↓C~1~            | - ↑VDNaC affinity → ↓dwell time (ropiv \> ligno)                                                                                                   |
+|                  | - ↑Tissue protein binding (ropiv \> ligno) *\*\*major factor*                                                                                      |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↑C~2~            | Drug:                                                                                                                                              |
+|                  |                                                                                                                                                    |
+|                  | - Intrinsic vasoconstriction (ropiv constrict cf. ligno dilate)                                                                                    |
+|                  | - Added adrenaline                                                                                                                                 |
+|                  | - Slow metabolism → slow removal\                                                                                                                  |
+|                  |   (both ropiv and ligno metabolised by amidases cf. plasma cholinesterase)                                                                         |
+|                  |                                                                                                                                                    |
+|                  | Patient:                                                                                                                                           |
+|                  |                                                                                                                                                    |
+|                  | - Low intrinsic blood flow (decreasing order: tracheal / intercostal / caudal / paracervical / epidural / plexus / peripheral nerve / subcut)      |
+|                  | - Tissue hypoperfusion (↓ if heart failure, shock; ↑if pregnancy, neonate)                                                                         |
+|                  | - Slow metabolism (e.g. neonate)                                                                                                                   |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↓Area            |                                                                                                                                                    |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↑Thickness       | - ↑Size of nerve (e.g. sciatic cf. median)                                                                                                         |
+|                  | - ↑Connective tissue (e.g. sciatic cf. median)                                                                                                     |
+|                  | - ↓Distance from centre of bundle (i.e. distal cf. proximal target)                                                                                |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↓Diffusion coeff | - ↓Lipid solubility (ligno 150x cf. ropiv 300x)                                                                                                    |
+|                  | - ↑Molecular weight                                                                                                                                |
+|                  | - ↓% unionised (ropiv 15% cf. lignocaine 25%); or ↓tissue pH                                                                                       |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### 3.MLAC (factors decreasing it = factors increasing sensitivity):
+
+As above.

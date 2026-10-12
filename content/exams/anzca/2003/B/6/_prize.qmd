@@ -1,0 +1,33 @@
+#### CNS:
+
++---------------------+----------------------------------------------------------------+
+| Premedication       | - Slow onset (30 mins)                                         |
+|                     | - Long duration (3-7 hours)                                    |
+|                     | - Variable duration (CYP2D6 polymorphism)                      |
+|                     | - No amnesia                                                   |
++---------------------+----------------------------------------------------------------+
+| General anaesthesia | - Partial agonist → ceiling effect, insufficient as sole agent |
+|                     | - Prolonged hypotension                                        |
+|                     | - Delayed emergence                                            |
++---------------------+----------------------------------------------------------------+
+| Systemic analgesia  | - Sedation unwanted                                            |
+|                     | - Rebound agitation and hypertension with prolonged use        |
+|                     |   - Requires weaning                                           |
++---------------------+----------------------------------------------------------------+
+| Neuraxial analgesia | - Prolonged blockade → inability to monitor motor function     |
++---------------------+----------------------------------------------------------------+
+
+#### CVS:
+
++------------------------+----------------------------------------------------------+
+| Reflex suppressant     | - Prolonged effect may be unwanted                       |
+|                        |   - Laryngoscopy                                         |
+|                        |   - Surgery                                              |
+|                        | - Unable to titrate – bolus cf. infusion                 |
++------------------------+----------------------------------------------------------+
+| Myocardial ischaemia   | - Hypotension impairs myocardial oxygen supply           |
++------------------------+----------------------------------------------------------+
+| Opioid withdrawal      | - Does not prevent psychological craving                 |
++------------------------+----------------------------------------------------------+
+| Essential hypertension | - α~2~ adrenoceptor upregulation – not for prolonged use |
++------------------------+----------------------------------------------------------+

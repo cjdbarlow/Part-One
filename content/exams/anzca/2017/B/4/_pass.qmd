@@ -1,0 +1,60 @@
+Introduction:
+
+EEG is the summation of excitatory and inhibitory potentials of the cortical pyramidal cells. 
+
+EEG is typically small with low voltage in the order of 0-200 μV. The EEG is characterised by its frequency and amplitude of the waveform.
+
+There are 4 main bands of wave frequency that comprise EEG 
+
+**‘Donald’s 4Teenage Daughters 8All 12Burgers at 12:30’**
+
+Delta 0-4
+
+Theta 4-8
+
+Alpha 8-12
+
+Beta 12-30
+
+![](/content/exams/anzca/2017/B/4/standard-image33.png){fig-alt="Example beta, alpha, theta and delta EEG waveforms with frequency bands"}
+
+EEG in an awake individual is asynchronous, of low voltage and high frequency comprising beta and alpha waves
+
+**EEG** **Processing** 
+
+- EEG is divided into time periods known as epoches
+- Fourier analysis of the epoches separates the raw EEG into component sine waves
+
+**Spectral Edge Frequency (95):**
+
+The frequency below which 95% of the sine wave occurs - marker of highest frequencies 
+
+**BIS**: 
+
+Analysis using proprietary algorithm  of component sine waves into frequency, amplitude, phase to give dimensionless number between 0-100
+
+Algorithm derived from analysis of EEG of healthy volunteers who underwent multiple transitions between consciousness and unconsciousness 
+
+Also gives: 
+
+**Suppression Ratio (SR) **
+
+\% of time over the last 63 sec that the EEG has been isoelectric or suppressed. Should Be 0, if there is burs suppression then implies excessive Anaesthesia 
+
+**Signal Quality Index (SQI)** 
+
+dimensionless number that indicates accuracy of EEG Signal quality ideally at or near 100
+
+**Entropy**
+
+Processes raw EEG data with a proprietary algorithm bases on level of chaos ‘entropy’. As Beta and alpha waves  are asynchronous, of low voltage and high frequency while theta and delta waves are less disorganised.
+
+Gives a dimensionless number between 0-100 with 40- 60 representing adequate anaesthesia. 
+
+Entropy gives:
+
+**State Entropy (SE): **(0-91) analyses lower frequencies from the EEG
+
+**Response Entropy (RE):** (0-100) analyses EEG and higher frequency data from the frontal muscle as an attempt to measure the difference between anaesthesia and analgesia. A rise in the difference between SE/RE is believed to represent a need for analgesia.
+
+Entropy may also display Burst Suppression with target being 0

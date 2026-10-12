@@ -1,0 +1,124 @@
+#### List:
+
+- Intro
+- Status awake
+- Status with sevoflurane anaesthesia
+- Other responses
+
+#### Intro:
+
++------------------+---------------------------------------------+
+| Quantification   | - 30% blood loss (\~1500mL) = Class 3 shock |
+|                  | - Severe, life-threatening                  |
++------------------+---------------------------------------------+
+| If awake         | - Immediate neural response                 |
+|                  | - Later hormonal and rheologic responses    |
++------------------+---------------------------------------------+
+| If anaesthetised | - All responses attenuated                  |
+|                  | - High risk of decompensation and death     |
++------------------+---------------------------------------------+
+
+#### Effects of 30% blood loss:
+
++---------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Graph                           | ![](/content/exams/anzca/2017/B/3/prize-image001.jpg){fig-alt="Cardiac output and venous return curves showing blood loss and sympathetic compensation"} |
+|                                 |                                                                                                                                                          |
+|                                 | VR = (MSFP – RAP) / RVR                                                                                                                                  |
+|                                 |                                                                                                                                                          |
+|                                 |       VR: venous return                                                                                                                                  |
+|                                 |                                                                                                                                                          |
+|                                 |       MSFP: mean systemic filling pressure                                                                                                               |
+|                                 |                                                                                                                                                          |
+|                                 |       RAP: right atrial pressure                                                                                                                         |
+|                                 |                                                                                                                                                          |
+|                                 |       RVR: resistance to venous return                                                                                                                   |
++---------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Direct effect                   | - ↓↓MSFP → ↓VR                                                                                                                                           |
+|                                 | - ↓Cardiac output                                                                                                                                        |
+|                                 | - ↓mAP                                                                                                                                                   |
+|                                 | - ↓Tissue perfusion                                                                                                                                      |
++---------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Baroreceptor response           | à ↑CO, ↑SVR, ↑mAP                                                                                                                                        |
+|                                 |                                                                                                                                                          |
+|                                 | **Afferent limb:**                                                                                                                                       |
+|                                 |                                                                                                                                                          |
+|                                 | - Stretch-activated mechanoreceptors on C fibre visceral afferents                                                                                       |
+|                                 | - ↓Stretch → ↑output to medulla and hypothalamus                                                                                                         |
+|                                 | - Arterial pressure: carotid and aortic sinuses                                                                                                          |
+|                                 | - Blood volume: receptors in atria and great veins                                                                                                       |
+|                                 |                                                                                                                                                          |
+|                                 | **Efferent limb:**                                                                                                                                       |
+|                                 |                                                                                                                                                          |
+|                                 | - ↑SNS output from rostral ventrolateral medulla                                                                                                         |
+|                                 | - ↓PSNS output from vagal centres                                                                                                                        |
+|                                 | - ↑ADH release                                                                                                                                           |
+|                                 | - ↓ANP release                                                                                                                                           |
++---------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Blood reservoir mobilisation    | à ↑Blood volume \~500mL → ↑MSFP                                                                                                                          |
+|                                 |                                                                                                                                                          |
+|                                 | - Source: spleen red pulp, liver sinusoids, skin arterioles / venules / A-V anastomoses                                                                  |
+|                                 | - Mechanism: ↑SNS output → α~1~ → vasoconstriction                                                                                                       |
++---------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Interstitial fluid reabsorption | à ↑Blood volume → ↑MSFP                                                                                                                                  |
+|                                 |                                                                                                                                                          |
+|                                 | - Mechanism: ↑SNS output → constriction of pre-capillary sphincters → ↓capillary hydrostatic pressure → net fluid reabsorption                           |
++---------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Restlessness                    | à ↑MSFP, ↑venous return                                                                                                                                  |
+|                                 |                                                                                                                                                          |
+|                                 | - ↑SNS → ↑skeletal muscle pump activity                                                                                                                  |
++---------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Central ischaemic response      | à ↑CO, ↑SVR, ↑mAP                                                                                                                                        |
+|                                 |                                                                                                                                                          |
+|                                 | - CNS hypoperfusion → ↑↑SNS output                                                                                                                       |
+|                                 | - For redirection of flow to vital organs in extremis                                                                                                    |
++---------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Endocrine response              | (minutes to hours)                                                                                                                                       |
+|                                 |                                                                                                                                                          |
+|                                 | - ↑ADH → ↑H2O reabsorption from collecting duct → water preservation                                                                                     |
+|                                 | - ↑RAAS → ↑Na+/H2O reabsorption → ECF preservation                                                                                                       |
++---------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Rheologic response              | (days to weeks)                                                                                                                                          |
+|                                 |                                                                                                                                                          |
+|                                 | - ↑Epo → ↑erythropoiesis → restoration of red cell mass                                                                                                  |
++---------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### If anaesthetized with sevoflurane:
+
++-----------------------+---------------------------------------------------------------------+
+| Cellular effects      | - Inhibition of L-Ca^2+^ channels (heart and vasculature)           |
+|                       | - ↑Nitric oxide release (vasculature)                               |
+|                       | - GABA potentiation → ↓medullary SNS output (heart and vasculature) |
++-----------------------+---------------------------------------------------------------------+
+| Physiological effects | - ↓Contractility                                                    |
+|                       | - Relative preservation of baroreceptor reflex → ↑HR                |
+|                       | - Venodilatation → ↓venous return, ↓preload                         |
+|                       | - Vasodilatation → ↓SVR, ↓afterload                                 |
+|                       | - ↓Cardiac output                                                   |
+|                       | - ↓mAP                                                              |
++-----------------------+---------------------------------------------------------------------+
+| Effects on shock      | **Detrimental:**                                                    |
+|                       |                                                                     |
+|                       | - Direct effects exacerbated                                        |
+|                       | - All compensatory responses attenuated                             |
+|                       | - Effects are dose-dependent                                        |
+|                       |                                                                     |
+|                       | **Protective:**                                                     |
+|                       |                                                                     |
+|                       | - Relative preservation of baroreceptor reflex                      |
+|                       | - ↑SNS output in Guedel’s stage 2                                   |
++-----------------------+---------------------------------------------------------------------+
+
+#### Other responses:
+
++----------------------------+---------------------------------------------------------------------------+
+| Decompensation             | - ↑↑SNS                                                                   |
+|                            | - ↑Metabolic rate (↑cardiac, respiratory, skeletal muscle work)           |
+|                            | - ↑Anaerobic metabolism                                                   |
+|                            | - ↓pH                                                                     |
+|                            | - ↓inotropy, arrhythmia, death                                            |
+|                            | - Greatly increased risk under sevoflurane anaesthesia                    |
++----------------------------+---------------------------------------------------------------------------+
+| Ischaemic pre-conditioning | - Brief ischaemic episode improves tolerance of subsequent episode        |
+|                            | - Mechanism: activation of sarcolemmal and mitochondrial K^+^-ATP channel |
+|                            | - Mimicked by volatile anaesthesia (anaesthetic pre-conditioning)         |
++----------------------------+---------------------------------------------------------------------------+

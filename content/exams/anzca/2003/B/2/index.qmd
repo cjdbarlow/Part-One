@@ -1,0 +1,74 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003B Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the potential interactions of sevoflurane, desflurane and isoflurane with carbon dioxide absorbents.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Absorbent Types**, **Sevoflurane Interactions**, **Desflurane and Isoflurane Interactions**, and **Toxicity and Clinical Relevance**. Relate the factors affecting each reaction to its products rather than assuming the same conditions favour every reaction.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**60%** of candidates passed this question.
+
+The main points expected were:
+
+- Different carbon dioxide absorbents exist and they vary with respect to the potential interactions described.
+- A description of the specific interactions: sevoflurane resulting in compounds A – E, desflurane and isoflurane producing carbon monoxide.
+- Factors that accelerate or minimize these reactions.
+- The potential toxicity and clinical relevance of the products of these reactions.
+
+Several candidates stated that the same factors increased the production of compound A and carbon monoxide. This is only partially correct. Low flow and closed circuit techniques have not been implicated in increased carbon monoxide production from desflurane. Soda lime dehydration actually decreases the production of compound A from sevoflurane, this detail was known by only a very small number of candidates.
+
+Credit was also given for mentioning potential absorption and subsequent release of volatile agent by the carbon dioxide absorbents.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational Anaesthetics](/content/pharmacopoeia/neuro/inhalational_anaesthetic_agents.qmd)
+- [Circle System](/content/equipment/circle_system.qmd)

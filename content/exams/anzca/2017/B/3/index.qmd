@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2017B Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+a) [**Describe**]{.task-verb} the immediate cardiovascular responses to the sudden loss of 30% of the blood volume in a healthy awake person
+
+b) [**How are**]{.task-verb} these responses different if the patient is undergoing anaesthesia with sevoflurane?
+:::
+
+Also asked in: [2020B Question 1](/content/exams/anzca/2020/B/1/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the immediate cardiovascular effects and compensatory responses to the specified blood loss in the awake person. Explain [**how**]{.task-verb} sevoflurane modifies those responses through its cardiovascular actions and baroreceptor effects.
+
+::: {.structure-headings}
+### Immediate Effects of Thirty Per Cent Blood Loss
+
+### Baroreceptor and Autonomic Compensation
+
+### Other Circulatory Compensatory Mechanisms
+
+### Sevoflurane Effects on the Heart and Vasculature
+
+### Altered Response During Sevoflurane Anaesthesia
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**67.5%** of candidates achieved a pass in this question
+
+The two parts of the question carried the same weight. A good answer to the first part included the effects on the cardiovascular system as a result of a 30% loss of blood volume, followed by the various compensation mechanisms. Detailed anatomical descriptions of the sympathetic and parasympathetic nervous systems were not required.
+
+The focus of the second part of the question should be on the pharmacodynamics effects of sevoflurane on the cardiovascular system, and how these effects will be exacerbated in a patient with hypovolaemia. Better candidates demonstrated understanding that sevoflurane blunts the responsiveness of baroreceptors in a dose dependent manner. Discussions on the effects of intravenous anaesthesia, mechanical ventilation or the treatment of hypotension did not attract marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2017/B/3/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2017/B/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Baroreceptors](/content/cvs/baroreceptors.qmd)
+- [Inhalational anaesthetic agents](/content/pharmacopoeia/neuro/inhalational_anaesthetic_agents.qmd)

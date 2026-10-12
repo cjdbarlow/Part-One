@@ -1,0 +1,71 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002B Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the possible reasons for prolongation of paralysis induced by an intravenous dose of 1 mg.kg-1 of suxamethonium. Briefly [**indicate**]{.task-verb} the consequences of such a prolonged block.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} **Acquired Enzyme Changes**, **Inherited Enzyme Changes**, and **Pharmacodynamic Interactions**. Briefly [**indicate**]{.task-verb} **Consequences and Management**, including continued support, monitoring, investigation and implications for future anaesthesia.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The pass rate for this question was **60%**. The main points were as follows:
+
+- Suxamethonium 1 mg/kg is a routine dose. Phase 2 block from overdose therefore is unlikely
+- Suxamethonium is metabolised by pseudocholinesterase. Alterations in the concentration or activity of this enzyme can cause prolongation of suxamethonium action.
+- A discussion of acquired alterations in concentration or activity (i.e. liver disease, pregnancy, drug interactions etc). Note that these do not often result in clinically signficant prolongations in suxamethonium action.
+- A discussion of the inherited alterations in concentration or activity, including the genetics, incidence, effect on duration of action, investigation with dibucaine number and other tests
+- The duration of action of suxamethonium can also be altered by other agents or diseases with pharmacodynamic effects.
+- Consequences including the need for ventilation and sedation in a suitable environment, monitoring of neuromuscular function, possible treatments, investigation of patient and family and implications for future anaesthesia.
+
+Common mistakes included discussion of the clinical indications and other side-effects of suxamethonium and omission of information about consequences of prolonged block. Many candidates omitted to discuss one of the three main causes (i.e. inherited, acquired or pharmacodynamic interactions).
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Depolarising NMBs](/content/pharmacopoeia/msk/depolarising_nmbs.qmd)

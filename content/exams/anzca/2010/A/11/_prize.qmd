@@ -1,0 +1,54 @@
+#### List:
+
+- Intro: definitions and causes
+- Plasma: water, electrolytes, waste, other
+- Urine: volume, concentration, FENA, abnormal products
+
+#### Intro:
+
++------------+------------------------------------------------------------------+
+| Definition | - Inability to maintain normal fluid and electrolyte homeostasis |
++------------+------------------------------------------------------------------+
+| Cause      | - Hypoperfusion                                                  |
+|            | - Outflow obstruction                                            |
+|            | - Damage to glomerulus: T2DM, HTN, GN                            |
+|            | - Damage to tubule: ATN                                          |
+|            | - Damage to interstitium: drugs                                  |
++------------+------------------------------------------------------------------+
+
+#### Changes in plasma:
+
++--------------+--------------------------------------------------------------------------------------------------+
+| Water        | - Expanded ECF volume, APO if oliguric or anuric                                                 |
++--------------+--------------------------------------------------------------------------------------------------+
+| Electrolytes | - ↑\[K^+^\] (high risk esp if oliguric)                                                          |
+|              | - ↑\[H^+^\]: HAGMA (PO~4~^3-^, SO~4~^2-^) or NAGMA (RTA)                                         |
+|              | - ↓\[Ca^2+^\], ↑\[PO~4~^3-^\], ↑\[PTH\], ↓\[Vit D~3~\] – if chronic                              |
+|              | - ↑osmolality but no ↑tonicity (urea – small particle, ineffective osmole)                       |
++--------------+--------------------------------------------------------------------------------------------------+
+| Waste        | - ↑Creatinine (only after 50% loss of nephron function; curvilinear rise)                        |
+|              | - ↑Urea (too variable to estimate degree of dysfunction; ↑if dehydration or high protein intake) |
++--------------+--------------------------------------------------------------------------------------------------+
+| Other        | - ↓\[Albumin\] if nephrosis                                                                      |
+|              | - ↓\[Hb\] if ↓\[Epo\]                                                                            |
++--------------+--------------------------------------------------------------------------------------------------+
+
+#### Changes in urine:
+
++-----------------------------+------------------------------------------------------------------------+
+| Volume                      | - Polyuria: e.g. post-obstructive diuresis                             |
+|                             | - Oliguria: \<0.5mL/kg/h (most common)                                 |
+|                             | - Anuria: \<100mL/day (advanced)                                       |
++-----------------------------+------------------------------------------------------------------------+
+| Concentration               | - Inability to concentrate or dilute urine, regardless of urine volume |
+|                             | - Often isotonic in advanced renal failure                             |
+|                             | - Plasma 290mOsm, normal max 1200mOsm, normal min 50mOsm               |
++-----------------------------+------------------------------------------------------------------------+
+| Fractional sodium excretion | - n(Na^+^) excreted / n(Na^+^) passing through tubule                  |
+|                             | - \<1%: pre-renal e.g. hypotension                                     |
+|                             | - \>2-3%: intra-renal e.g. ATN                                         |
++-----------------------------+------------------------------------------------------------------------+
+| Abnormal contents           | - Protein (glomerular dysfunction)                                     |
+|                             | - Granular casts (ATN)                                                 |
+|                             | - RBC casts (GN)                                                       |
++-----------------------------+------------------------------------------------------------------------+

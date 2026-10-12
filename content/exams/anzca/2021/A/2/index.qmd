@@ -1,0 +1,91 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2021A Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the individual effects of propofol and sevoflurane on the cerebral metabolic rate of oxygen consumption (CMRO2) and cerebral blood flow (CBF).
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} each agent separately, linking neuronal activity and oxygen consumption to blood flow. Use labelled concentration–response graphs to distinguish preserved flow–metabolism coupling with propofol from the competing effects of sevoflurane.
+
+::: {.structure-table}
+| Relationship | Propofol | Sevoflurane |
+|---|---|---|
+| Oxygen Consumption and Concentration | | |
+| Flow–Metabolism Coupling | | |
+| Direct Vascular Effects | | |
+| Net Blood Flow and Concentration | | |
+| Limits of Autoregulation | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**35.9%** of candidates achieved a pass in this question
+
+The major domains assessed in this question were:
+
+- the effect of propofol on CMRO2
+- the effect of propofol on CBF
+- the effect of sevoflurane on CMRO2
+- the effect of sevoflurane on CBF
+
+Both agents decrease CMRO~2~ by inhibition neuronal activity through enhanced GABA mechanisms. The maximum reduction is 50-60% because a baseline of 40% CMRO~2~ is required for neuronal maintenance.
+
+Significant weight was given to a clear demonstration of:
+
+1. the triphasic nature of the MAC/CBF relationship for sevoflurane
+2. a clear description of the direct association of decreased CMRO~2~ caused by propofol with a proportional decrease in CBF due to flow metabolism coupling.
+
+The commonest misconception was that a decrease in CBF associated with propofol was due to its systemic circulatory effects causing hypotension. This is only relevant at the lower limit of the auto regulatory curve. A number of candidates suggested that reduction in CBF caused by propofol was “prevented” because auto regulation “was preserved”. Some candidates suggested that the CMRO~2~ is determined by CBF, reflecting a major misunderstanding of cerebral physiology.
+
+Discussions of other physiological or pathological factors affecting CBF and CMRO~2~ not relating to the effect of propofol or sevoflurane did not attract marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2021/A/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Cerebral blood flow](/content/cvs/cerebral_blood_flow.qmd)
+- [Propofol](/content/pharmacopoeia/neuro/propofol.qmd)

@@ -1,0 +1,66 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012B Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the fuel sources used during early and sustained fasting in humans.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Early Fasting** and **Sustained Fasting**, relating the available substrates to their use as fuel. Use the time course to organise changes in glycogen use, gluconeogenesis, lipolysis and ketone production.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**63 %** of candidates passed this question.
+
+This is a repeated question, and a detailed discussion in the September 2001 Examination report clearly outlines an answer.
+
+In this exam, some candidates failed to appreciate that fasting is a natural daily occurrence that is well tolerated. Water was not considered a fuel, but marks were awarded for appreciating that fasting may be prolonged by water intake.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Fasting](/content/metabolic/starvation.qmd)

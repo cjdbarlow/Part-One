@@ -1,0 +1,90 @@
+#### List:
+
+- Principles: aim, delivery, monitoring
+- Compartment modelling
+- Induction
+- Maintenance
+- Offset
+
+#### Principles:
+
++-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Aim         | - Achieve target rapidly and with minimal overshoot                                                                                                    |
+|             | - Maintain target with minimal variability                                                                                                             |
++-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Delivery    | - Manual: e.g. Bristol technique                                                                                                                       |
+|             | - TCI: Marsh (Cpt), Schnider (Cet)                                                                                                                     |
++-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Monitoring  | - EEG monitoring                                                                                                                                       |
+|             | - Vital signs                                                                                                                                          |
+|             | - No means of measuring \[propofol\] at the bed-side                                                                                                   |
++-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Summary     | - Loading dose followed by infusion                                                                                                                    |
+|             | - Infusion rate decreases as compartment equilibration occurs                                                                                          |
+|             | - Over-pressuring of central compartment accelerates rate of rise in effect site                                                                       |
++-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Graph (TCI) | ![](/content/exams/anzca/2008/B/2/prize-image001.jpg){fig-alt="Propofol plasma and effect-site concentrations with changing infusion rates over time"} |
++-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Compartment modelling:
+
++-------------+-----------------------------------------------------------------------------------------------------------------------------------------+
+| Diagramme   | ![](/content/exams/anzca/2008/B/2/prize-image002.jpg){fig-alt="Three-compartment pharmacokinetic model with effect site and clearance"} |
++-------------+-----------------------------------------------------------------------------------------------------------------------------------------+
+| Limitations | - Fundamental oversimplification of body composition                                                                                    |
+|             | - Inability to measure Ce for propofol                                                                                                  |
+|             | - Inaccuracy at induction                                                                                                               |
+|             | - Inaccurate estimates of lean weight                                                                                                   |
+|             | - Kinetic variability: e.g. blood volume                                                                                                |
+|             | - Dynamic variability: e.g. receptor polymorphism                                                                                       |
+|             | - Processor maximum rate 1200mL/h                                                                                                       |
++-------------+-----------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Induction:
+
++--------------------------------+------------------------------------------------------------------------------+
+| TCI induction kinetics         | - Poorly modelled                                                            |
+|                                | - Loading dose = Cpt x V~DC~                                                 |
+|                                | - At 70kg, V~DC~ 0.45L/kg, Cpt 4mcg/mL, dose = 126mg                         |
+|                                | - Infusion rate (Q) max 1200mL/h in most machines                            |
++--------------------------------+------------------------------------------------------------------------------+
+| Alternative induction kinetics | Time to LOC ∝ peak Cp / time to peak Cp                                      |
+|                                |                                                                              |
+|                                | \(A\) Peak Cp ∝                                                              |
+|                                |                                                                              |
+|                                | - Dose size                                                                  |
+|                                | - Speed of injection                                                         |
+|                                | - 1/Cardiac output                                                           |
+|                                | - 1/Central blood volume (Central blood volume ∝ total blood volume)         |
+|                                | - Speed and extent of recirculatory second peak (important if bolus is slow) |
+|                                |                                                                              |
+|                                | \(B\) Time to peak Cp ∝                                                      |
+|                                |                                                                              |
+|                                | - Cardiac output (note contradictory effects of cardiac output)              |
+|                                | - 1/Distance from injection site to heart                                    |
++--------------------------------+------------------------------------------------------------------------------+
+
+#### Maintenance:
+
++--------------+-----------------------------------------------------------------------------+
+|              | - Q ∝ distribution x metabolism                                             |
++--------------+-----------------------------------------------------------------------------+
+| Early        | - Early: high Q e.g. 100mL/h (distribution +++ metabolism ++)               |
++--------------+-----------------------------------------------------------------------------+
+| Later        | - Later: slow Q e.g. 50mL/h (metabolism ++ distribution +)                  |
++--------------+-----------------------------------------------------------------------------+
+| Steady state | - Steady state: C~SS~ (mg/mL) = infusion rate (mg/min) / clearance (mL/min) |
++--------------+-----------------------------------------------------------------------------+
+
+#### Offset:
+
++----------------------------+-------------------------------------------------------------------+
+| Distribution phase         | - Cpt ∝ 1/(distribution x metabolism); rapid ↓Cpt                 |
++----------------------------+-------------------------------------------------------------------+
+| Terminal elimination phase | - Cpt ∝ redistribution/metabolism; slower ↓Cpt                    |
++----------------------------+-------------------------------------------------------------------+
+| Modelling                  | - Multi-exponential decay curve (C = Ae^-at^ + Be^-bt^ + Ge^-gt^) |
++----------------------------+-------------------------------------------------------------------+
+| Emergence                  | - Estimated to occur at \~1mcg/mL                                 |
+|                            | - Highly variable                                                 |
++----------------------------+-------------------------------------------------------------------+

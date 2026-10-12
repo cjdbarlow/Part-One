@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005B Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the forces acting across the glomerular capillary membrane. [**Explain**]{.task-verb} how afferent and efferent arteriolar tone affect glomerular filtration rate.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} hydrostatic and oncotic forces with normal values. [**Explain**]{.task-verb} afferent and efferent tone separately, linking renal blood flow and capillary pressure to GFR.
+
+::: {.structure-headings}
+### Filtration Barrier and Starling Forces
+
+### Normal Glomerular Pressures
+
+### Afferent Arteriolar Tone
+
+### Moderate and Severe Efferent Constriction
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**62 %** of candidates passed this question.
+
+The question was in two parts. The first part required a description of the hydrostatic and oncotic forces favouring and opposing filtration from the glomerular capillaries. The use of normal values was helpful in showing how these forces differed from other capillary beds.
+
+Many candidates correctly wrote out the Starling Equation, but offered no description of the forces. A detailed description of the filtration and reflection coefficients was not required. The second part of the question required an understanding of how changes in afferent and efferent arteriolar tone affected glomerular capillary hydrostatic pressure and hence glomerular filtration. Better answers described the relationship between renal blood flow and glomerular filtration with these changes.
+
+Few candidates were aware that moderate efferent vasoconstriction increased glomerular filtration, but large changes in tone caused a decrease.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2005/B/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Glomerular filtration](/content/renal/glomerular_filtration.qmd)
+- [Renal blood flow](/content/renal/rbf.qmd)

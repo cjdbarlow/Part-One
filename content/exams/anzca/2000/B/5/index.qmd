@@ -1,0 +1,66 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000B Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly discuss**]{.task-verb} the relationship between structure and function in skeletal muscle.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly discuss**]{.task-verb} **Macroscopic Structure**, **Microscopic and Molecular Structure**, and **Fibre Types and Motor Units**. Relate each level of organisation to shortening, tension generation, movement or maintenance of posture.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**52%** of candidates passed this question. The main points expected were a brief description of the macroscopic, microscopic, and molecular structure of skeletal muscle and how these structures relate to the function of skeletal muscle (isometric contraction, isotonic contraction, movement, maintenance of posture). Some discussion of the molecular contractile elements was required as well as some explanation of how the structure of muscle relates to shortening or the generation of tension.
+
+Additional marks were awarded for description of different types of muscle (red/white fibres) with different functions, oxidative capacities and mitochondrial numbers; the concept of motor units with increasing size (depending on the function of the muscle); and how shortening of muscle results in movement of body structures.
+
+A common error was to describe the structure of muscle OR the function of muscle, but not to relate the two. Many candidates also concentrated on the contractile elements without covering the other aspects involved.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Skeletal Muscle](/content/msk/skeletal_muscle.qmd)

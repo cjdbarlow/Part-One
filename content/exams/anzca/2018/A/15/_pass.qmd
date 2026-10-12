@@ -1,0 +1,41 @@
+**Platelets:**
+
+Platelet = small cells fragments derived from megakaryocytes, which are important in haemostasis via forming a platelet plug
+
+They have a short 7-10 day lifespan, and a removed by the reticuloendothelial system 
+
+**Haemostasis**
+
+Haemostasis is the physiological process that occurs to stop bleeding, it involves 3 processes:
+
+1.  **Vessel Constriction** to reduce flow and shear stress on clot formation - Platelets involved in release of Thromboxane A2
+2.  **Platelet Plug Formation** or **Primary haemostasis** where platelets adhere to the damaged vessel wall and aggregate 
+3.  **Fibrin formation or Secondary Haemostasis** reinforcement and stabilisation of the platelet plug
+
+**Platelets role in Primary Haemostasis **
+
+Following vascular injury the exposure of collagen and other endothelial proteins activates platelets via:
+
+- **Adhesion**: 
+  - Exposed collagen binds to platelet receptors via GPIa receptor
+  - vWF by GPIb
+- **Activation**: Metabolic activation →↑ Phospholipase A2 and C →↑platelet Ca2+ → transformation from disk to speculated sphere. Stimulated by:
+  - Collagen 
+  - adrenaline
+  - ADP
+  - thrombin 
+
+> → Platelets release ADP and thromboxane A2 → amplifying aggregation + adhesion
+
+- **Aggregation:** Platelets aggregate through GPIIb/IIIa interaction and reinforced with fibrin mesh to form firm plug
+- **Contraction:** After some time platelets contract reacting the clot and allowing the endothelial breech to seal. 
+
+**Platelets role in Secondary Haemostasis**
+
+Platelets vital part of secondary haemostasis involved in the Initiation, Amplification, Propagation of clotting cascade 
+
+**Primary Role in Amplification**
+
+- Activation of TF → production of thrombin →   
+- Platelet activation + aggregation → creates negative charge and releases factor V 
+- Platelets bind activated clotting factors, causing high rates of thrombin formation around them

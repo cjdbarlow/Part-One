@@ -1,0 +1,109 @@
+#### List:
+
+- Intro
+- Heart
+- Blood vessels
+- Haemodynamics
+- Autonomics
+- Electrics
+
+#### Intro:
+
+- Ageing: gradual time-dependent loss of cellular function and physiological reserve, resulting in death
+- Overall: ↓ CVS reserve. CVS decline attenuated with training.
+
+#### Heart:
+
++-----------------------+------------------------------------------------------------------------------------------------------------------+
+| Structure             | - Concentric LV hypertrophy                                                                                      |
+|                       |   - (Stiff aorta = ↑LV afterload)                                                                                |
+|                       |   - ↑force of contraction                                                                                        |
+|                       |   - ↓compliance                                                                                                  |
+|                       |   - ↑LVEDP                                                                                                       |
+|                       | - Hypoplasia                                                                                                     |
+|                       |   - Apoptosis and necrosis                                                                                       |
+|                       |   - ↓Force of contraction                                                                                        |
++-----------------------+------------------------------------------------------------------------------------------------------------------+
+| Systolic dysfunction  | - Less common; LVH offsets hypoplasia                                                                            |
+|                       | - But ↑energy required due to ↑afterload                                                                         |
++-----------------------+------------------------------------------------------------------------------------------------------------------+
+| Diastolic dysfunction | - Very common                                                                                                    |
+|                       | - LVH → ↓compliance → ↑filling pressure required                                                                 |
+|                       |                                                                                                                  |
+|                       |    → Poor tolerance of hypovolaemia, PPV                                                                         |
+|                       |                                                                                                                  |
+|                       |    → More dependent upon atrial kick (note ↑risk AF also)                                                        |
++-----------------------+------------------------------------------------------------------------------------------------------------------+
+| Pre-conditioning      | - Mechanism: activation of sarcolemmal and mitochondrial K^+^-ATP channels → hyperpolarisation → ↓ICF \[Ca^2+^\] |
+|                       | - Attenuated with ageing                                                                                         |
++-----------------------+------------------------------------------------------------------------------------------------------------------+
+| Common comorbidities  | - Ischaemic heart disease                                                                                        |
+|                       |   - Poor tolerance of tachycardia e.g. laryngoscopy, extubation                                                  |
+|                       | - Cardiomyopathies:                                                                                              |
+|                       |   - Poor tolerance of neg inotropes e.g. propofol                                                                |
+|                       | - Valvular pathology                                                                                             |
+|                       |   - Poor tolerance of vasodilators e.g. propofol                                                                 |
+|                       | - Arrhythmias                                                                                                    |
++-----------------------+------------------------------------------------------------------------------------------------------------------+
+
+#### Blood vessels:
+
++----------------------+--------------------------------------------------------------------------+
+| Structure            | - Atherosclerosis                                                        |
+|                      | - Intima thickened, fibrotic                                             |
+|                      | - Media thickened, less elastin                                          |
+|                      | - Vessels dilated, elongated, tortuous                                   |
++----------------------+--------------------------------------------------------------------------+
+| Function             | - Impaired NO release                                                    |
+|                      | - Impaired relaxation / autoregulation                                   |
+|                      | - ↑SVR                                                                   |
+|                      | - ↑PVR and ↑heterogeneity of perfusion                                   |
++----------------------+--------------------------------------------------------------------------+
+| Common comorbidities | - Atherosclerosis: build-up of fat, cholesterol, calcium in vessel walls |
+|                      | - Aneurysms: due to dilatation, ↑tension (LaPlace’s law)                 |
++----------------------+--------------------------------------------------------------------------+
+
+#### Haemodynamics:
+
++----------------+---------------------------------------------------+
+| Heart rate     | - ↓Resting HR                                     |
+|                | - ↓Max HR = 220 – (age x 0.7)                     |
++----------------+---------------------------------------------------+
+| Cardiac output | - At rest: variable ↓                             |
+|                |   - Remains proportional to lean mass             |
+|                |   - Attenuated if fit                             |
+|                | - In exercise: ↓20%                               |
+|                |   - Multifactorial                                |
+|                |   - Poor tolerance of stress, SIRS, major surgery |
++----------------+---------------------------------------------------+
+| Blood pressure | - ↑Systolic BP, ↓diastolic BP, ↑pulse pressure    |
+|                |   - ↓Elastin, ↓compliance, ↓Windkessel effect     |
+|                | - ↑Pulse wave velocity                            |
+|                |   - ↓Aortic-radial delay                          |
+|                |   - May contribute to ↑afterload                  |
++----------------+---------------------------------------------------+
+
+#### Autonomics:
+
++--------------------+---------------------------------------------+
+| Cellular changes   | - ↓β~1~ adrenoceptors                       |
+|                    | - ↓Post-adrenoceptor signaling              |
+|                    | - ↓Catecholamine re-uptake                  |
+|                    | - ↑Circulating \[noradrenaline\]            |
++--------------------+---------------------------------------------+
+| Functional changes | - ↓HR, contractility reserve                |
+|                    | - ↓Ability to vasoconstrict/-dilate         |
+|                    | - ↓Baroreceptor response, and delayed       |
++--------------------+---------------------------------------------+
+| Implications       | - ↓Tolerance of Valsalva, PPV, hypovolaemia |
++--------------------+---------------------------------------------+
+
+#### Electrics:
+
++-----------+-----------------------------------------------------------------------+
+| Structure | - Fatty and fibrous infiltration of SA node, AV node, bundle branches |
+|           | - ↓Pacemaker cells in SA and AV nodes (50% age 20, 10% age 75)        |
++-----------+-----------------------------------------------------------------------+
+| Function  | - Risk of sick sinus syndrome, AV block                               |
+|           | - Risk of AF due to LA enlargement                                    |
++-----------+-----------------------------------------------------------------------+

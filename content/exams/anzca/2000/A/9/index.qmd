@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000A Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Compare and contrast**]{.task-verb} the effects of halothane and isoflurane on the heart.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Compare and contrast**]{.task-verb} the cardiac effects in a table, separating direct myocardial and conduction effects from indirect changes in autonomic activity and loading conditions.
+
+::: {.structure-table}
+| Effect | Halothane | Isoflurane |
+|---|---|---|
+| Heart Rate | | |
+| Contractility and Stroke Volume | | |
+| Cardiac Output | | |
+| Rhythm and Conduction | | |
+| Interaction With Catecholamines | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**65%** of candidates passed this question. Effects on the heart refers to changes in heart rate, stroke volume and rhythm. A good approach was to divide the effects into direct and indirect. Changes in systemic or pulmonary vascular resistance were relevant to the question provided it was indicated that these would influence stroke volume. Although halothane is not often used in adult anaesthesia practice, it provides a contrast with isoflurane, and is well covered in the standard texts.
+
+Important points required for a pass answer were that cardiac output is better maintained with isoflurane (normocapnic ventilated patient) and heart rate is lower during halothane anaesthesia. Good answers had detail of the probable mechanisms of the differences in vascular resistance changes, baroreceptor depression, SA and AV nodes and cardiac conduction, and myocardial depression. Where standard texts and current literature are still conflicting or vague, such as the degree of direct myocardial depression at various concentrations of these agents, any plausible explanation of clinical observations was accepted.
+
+Interactions with other drugs could also be included and most candidates compared the agents with reference to adrenaline-induced arrythmias. Some even mentioned malignant hyperrexia, which is a valid interaction.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2000/A/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational anaesthetic agents](/content/pharmacopoeia/neuro/inhalational_anaesthetics.qmd)

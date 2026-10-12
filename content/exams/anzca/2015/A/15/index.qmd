@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015A Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Compare and contrast**]{.task-verb} the effects of general and neuraxial anaesthesia on thermoregulation.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Compare and contrast**]{.task-verb} the modes in parallel columns. Link sensory, central and effector changes to thresholds and heat redistribution, then compare the magnitude and phases of temperature change using labelled graphs.
+
+::: {.structure-table}
+| Feature | General Anaesthesia | Neuraxial Anaesthesia |
+|---|---|---|
+| Thermal Sensors and Afferents | | |
+| Central Integration and Interthreshold Range | | |
+| Behavioural Responses | | |
+| Autonomic Heat Conservation and Production | | |
+| Heat Loss and Temperature Phases | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**41 %** of candidates achieved a pass in this question
+
+Anaesthesia impairs thermoregulation in a dose dependent manner, leading to hypothermia in the perioperative period, and marks were awarded for details of how these modes impair thermoregulation.
+
+The hypothalamus is the central integrator for thermoregulation. Interthreshold range is the core temperature range that does not induce automomic thermoregulatory reflexes to maintain temperature. Points were given for its value and how general anaesthesia affects the range.
+
+Radiation is the main source of heat loss. General anaesthesia impairs peripheral vasoconstriction, allowing redistribution of core heat to the periphery, which accounts for the relatively large initial loss of core temperature in the first hour of anaesthesia.
+
+Marks were awarded for comparison of the degree of impairment of the two modes on thermoregulation, for e.g. shivering is abolished under general anaesthesia, but only below the level of the block in neuroaxial anaesthesia. Graphs of the triphasic response garner additional marks, as did the graph of the widening of the intertheshold range with GA.
+
+Many candidates did not comment on the magnitude of the changes with different modes of anaesthesia. Many candidates were not aware that neuroaxial anaesthesia has a central effect, and of the absence of a plateau phase in combined anaesthesia.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2015/A/15/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2015/A/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Thermoregulation](/content/metabolic/temperature.qmd)
+- [Temperature measurement](/content/equipment/temperature.qmd)

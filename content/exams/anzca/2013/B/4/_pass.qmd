@@ -1,0 +1,67 @@
+The Blood brain barrier is a physiological barrier that prevents free movement of substances  between ECF of the body and the ECF of the CNS. 
+
+**The BBB is composed of**:
+
+- Capillary endothelial cells joined with tight junctions
+- Basement Membrane 
+- Astrocytes (Glial Cells) with extended foot processes that further reduce permeability
+- **Transporters **
+
+GLUT-1
+
+Ion Channels (Ca, Na, K)
+
+Enzymes (MAO, AChE) prevent circulating neurotransmitters from entering brain
+
+**Factors affecting permeability**
+
+Fick’s law of diffusion: (ΔP.A.k)/T
+
+k= Lipid Solubility/Sq MW → ↑ lipid solubility / ↓MW → ↑ permeability 
+
+Not protein bound
+
+Not ionised
+
+Non Polar 
+
+Freely permeable: 
+
+H20
+
+Very low MW: O2, COW
+
+Very Lipid Soluble: Propofol, ketones 
+
+**Circumventricular organs** 
+
+Due to sensing functions several areas exist outside the BBB, these are called the Circumventricular organs 
+
+1. **Area postrema –**  also known as the chemoreceptor trigger zone; responsible for sensing noxious substances in the peripheral circulation → rigger nausea ± vomiting when detected
+2. **Organum Vasculosum Laminae Terminalis (OVLT)** – contains osmoreceptors directly in contact with peripheral circulation sends signal to release ADH in response to ↑osmolality
+3. Subfornical Organ (SFO) – contains osmoreceptors as well as glucose sensors! senses energy state of the body
+4. **Posterior pituitary** – releases ADH and oxytocin into the circulation
+5. **Pineal gland** – responsible for regulating circadian rhythm via release of melatonin
+
+**Functions of the BBB**:
+
+- **Maintain a stable extracellular environmen**t - preventing fluctuation in electrolyte levels and pH 
+
+BBB maintains a stable pH as it is relatively impermeable to H+/OH- ions
+
+CO2 freely diffuses across BBB → dissociates to H+ and HCO3– 
+
+→ alters CSF pH ∴ medullary respiratory centre uses CSF pH as a surrogate marker for PaCO2, which is a reflection of adequacy of ventilation
+
+- **Protection of the brain from toxins and immune system**
+
+BBB protects brain from:
+
+- pathogens in blood (damaged BBB → encephalitis)
+- the body’s immune system (damaged BBB → autoimmune reaction to exposed CNS tissue; e.g. multiple sclerosis)
+
+BBB leakiness in neonate brain exposed to unconjugated bilirubin (which is neurotoxic)
+
+- **Protection of the body from CNS neurotransmitters.**
+
+The BBB contains various enzymes (e.g. MAO, AChE, etc) which degrade neurotransmitters and prevent their passage across BBB

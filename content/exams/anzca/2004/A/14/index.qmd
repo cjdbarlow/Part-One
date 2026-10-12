@@ -1,0 +1,74 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004A Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the difference between laminar and turbulent flow. [**List**]{.task-verb} the factors that increase the probability of turbulent flow.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} **Flow Patterns** and **Pressure–Flow Relationships**, then [**list**]{.task-verb} **Factors Favouring Turbulence** using Reynolds number. Relate the equations to tube geometry and the properties of the flowing substance.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**70%** of candidates passed this question.
+
+The question most naturally fell into three areas:
+
+- A description (and diagrams) of the nature of laminar and turbulent flow and the significance this might have for passage of fluid through a tube.
+- A description of the different ways that laminar and turbulent flow are related to pressure, radius and length of tubing, viscosity and density. These were usually summarized by equations (+/- graphs) with interpretation.
+- A description of how diameter, velocity, density and viscosity can be used to predict the likelihood of turbulent flow, as summarized by the Reynold’s number. This section should also include mention of the geometry of the tube potentially affecting the nature of the flow as the Reynold’s number is for parallel-sided cylindrical tubing. Concepts of critical velocity, entrance length and transitional or mixed flow types could also reasonably be included.
+
+There were two main areas which created problems with understanding.
+
+- The relationship of turbulent flow to driving pressure, tube length and density was often poorly described even when an acceptable equation was quoted. The “meaning” of the equation was often not understood and commonly misrepresented in graphical form. Most of the confusion arose from difficulties dealing with the flow tending to vary with the square root of pressure and radius to a power of 2 to 2.5 (i.e. the square root of the power 4 or 5) depending on which source was quoted. If these equations are written as “driving pressure is proportional to”: then flow will be squared and radius to the 4^th^ or 5^th^ power. The fact that turbulent flow can not be described by a simple equation and will vary with the degree of turbulence means that the study sources will have slightly differing summaries of the relationships. These were all acceptable.
+- Although the Reynold’s number can be incorporated into complex equations for predicting rate of flow, for the purposes of this question the relevant property of the Reynold’s number was its ability to predict the likelihood of turbulence. This needed to be distinguished from equations for estimating flow rates such as the Hagen Poiseuille for laminar flow or the Fanning for turbulent flow. Some candidates tried to apply the Reynold’s number equation to describe factors affecting rate of turbulent flow rather than likelihood of turbulent flow. This resulted in major errors in describing the factors affecting rate of turbulent flow.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Resistance](/content/resp/resistance.qmd)
+- [Gas Flow](/content/equipment/gas_flow.qmd)

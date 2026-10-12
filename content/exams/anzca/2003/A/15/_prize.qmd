@@ -1,0 +1,76 @@
+#### List:
+
+- Intro
+- Metabolic effects
+- Organ system effects
+
+#### Intro:
+
++----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Structure                  | - Polypeptide                                                                                                                                                  |
+|                            | - Contains iodine                                                                                                                                              |
++----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Synthesis                  | - In follicular cells                                                                                                                                          |
++----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Axis                       | ![](/content/exams/anzca/2003/A/15/prize-image001.jpg){fig-alt="Hypothalamic–pituitary–thyroid axis showing TRH, TSH, thyroid hormones and negative feedback"} |
+|                            |                                                                                                                                                                |
+|                            | ![](/content/exams/anzca/2003/A/15/prize-image002.jpg){fig-alt="Conversion of T4 to reverse T3 by deiodinase 3 and to T3 by deiodinase 2"}                     |
++----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Thyroid hormone comparison | - 93% T4, 1x activity                                                                                                                                          |
+|                            | - 7% T3, 3-5x activity                                                                                                                                         |
+|                            | - rT3 inactive                                                                                                                                                 |
++----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Mechanism of action        | - Multiple receptor subtypes                                                                                                                                   |
+|                            | - Receptors are nuclear transcription factor, binds THRE                                                                                                       |
+|                            | - ↑ or ↓ gene expression                                                                                                                                       |
++----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Time course                | - Onset of action: 6-8 hours IV, 3-5 days oral                                                                                                                 |
+|                            | - Duration of effect: T3 1 day, T4 7 days                                                                                                                      |
+|                            |   - Longer if hypothyroid                                                                                                                                      |
+|                            |   - Shorter if hyperthyroid                                                                                                                                    |
++----------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Metabolic effects:
+
++---------+----------------------------------------------------------------------+
+| Overall | - Effects are dose-dependent                                         |
+|         | - ↑Metabolic rate (max 2x)                                           |
+|         |   - ↑Na^+^K^+^ATPase activity                                        |
+|         |   - ↑Catecholamine release                                           |
+|         |   - Permissive effects                                               |
+|         | - Exempt tissues: uterus, testes, spleen, anterior pituitary         |
++---------+----------------------------------------------------------------------+
+| Liver   | - ↑Glycolysis, glycogenolysis, gluconeogenesis, lipolysis            |
+|         | - Protein: synthesis if ↔thyroid, breakdown and myopathy if ↑thyroid |
++---------+----------------------------------------------------------------------+
+| Muscle  | - ↑Glycogenolysis, glycolysis                                        |
+|         | - Protein: synthesis if ↔thyroid, breakdown if ↑thyroid (→ wasting)  |
++---------+----------------------------------------------------------------------+
+| Adipose | - ↑Lipolysis → fat loss                                              |
++---------+----------------------------------------------------------------------+
+| Bone    | - ↑Formation if ↔thyroid, ↑breakdown if ↑thyroid (→ osteoporosis)    |
++---------+----------------------------------------------------------------------+
+| GIT     | - ↑Carbohydrate absorption                                           |
++---------+----------------------------------------------------------------------+
+
+#### Organ system effects:
+
++----------------+----------------------------------------------------------------+
+| Cardiovascular | - ↑HR, CO, ↓SVR, MvO~2~, CBF (BP may be unchanged)             |
+|                |   - Metabolic autoregulation → vasodilatation → ↑venous return |
+|                |   - ↑Catecholamines                                            |
+|                |   - Permissive effect on catecholamines                        |
+|                |   - ↑Number of myocardial β~1~ adrenoceptors                   |
++----------------+----------------------------------------------------------------+
+| Respiratory    | - ↑RR and TV                                                   |
+|                |   - ↑Metabolic rate → ↑VCO~2~ (Krebs cycle)                    |
++----------------+----------------------------------------------------------------+
+| CNS            | - In utero:                                                    |
+|                |   - Necessary for normal brain growth and development          |
+|                | - In adults: ↑thyroid →                                        |
+|                |   - Anxiety, restlessness, tremor (brain)                      |
+|                |   - Hyperreflexia (↑spinal cord excitability)                  |
++----------------+----------------------------------------------------------------+
+| Other          | - ↓Thyroid → dry skin, thinning hair                           |
+|                | - ↑Thyroid → proptosis, ↑LPS activity, thyroid stare           |
++----------------+----------------------------------------------------------------+

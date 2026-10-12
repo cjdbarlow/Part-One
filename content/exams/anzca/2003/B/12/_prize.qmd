@@ -1,0 +1,75 @@
+#### List:
+
+- Equations
+- Graph
+- Perfusion limitation
+- Diffusion limitation = time limitation
+
+#### Equations:
+
++--------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Fick’s law         | ![](/content/exams/anzca/2003/B/12/prize-image001.jpg){fig-alt="Fick diffusion equation showing pressure gradient and membrane and substance factors"}                     |
++--------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Diffusion capacity |   ![](/content/exams/anzca/2003/B/12/prize-image002.jpg){fig-alt="Gas transfer as pressure gradient multiplied by diffusing capacity"}                                     |
+|                    |                                                                                                                                                                            |
+|                    |  ![](/content/exams/anzca/2003/B/12/prize-image003.jpg){fig-alt="Diffusing capacity relationship incorporating membrane conductance and pulmonary capillary blood volume"} |
+|                    |                                                                                                                                                                            |
+|                    | - Inverses are additive, since in parallel                                                                                                                                 |
+|                    | - L: lung                                                                                                                                                                  |
+|                    | - M: membrane                                                                                                                                                              |
+|                    | - Θ: rate of reaction of O~2~ with haemoglobin                                                                                                                             |
+|                    | - V~c~: volume in pulmonary capillaries, normally \~70mL                                                                                                                   |
++--------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Graph: situation in health
+
+![](/content/exams/anzca/2003/B/12/prize-image004.jpg){fig-alt="Capillary partial pressures of carbon dioxide, oxygen, nitrous oxide and carbon monoxide against transit time"}
+
+#### Complete equilibration → perfusion limited transfer:
+
++-------------------------+--------------------------------------------------------------------------+
+| High rate of transfer   | - High gradient (e.g. 70% N~2~O = 532mmHg gradient)                      |
+|                         | - Normal area 80m^2^                                                     |
+|                         | - Normal thickness 0.5μm                                                 |
+|                         | - Normal V/Q matching                                                    |
+|                         | - High lipid membrane solubility (e.g. CO~2~:O~2~ is 30:1)               |
+|                         | - Low MW (e.g. O~2~ 16g/mol \< CO~2~ 44g/mol)                            |
++-------------------------+--------------------------------------------------------------------------+
+| Low capacity for uptake | - Low blood solubility (e.g. N~2~O blood-gas partition coefficient 0.47) |
+|                         | - Low protein binding                                                    |
+|                         | - Low pulmonary capillary blood volume                                   |
++-------------------------+--------------------------------------------------------------------------+
+| Slow transit            | - At rest: 0.75 seconds (slower if heart failure)                        |
++-------------------------+--------------------------------------------------------------------------+
+| Examples                | - N~2~O                                                                  |
+|                         | - CO~2~                                                                  |
+|                         | - O~2~: If 1) resting 2) sea level 3) healthy                            |
++-------------------------+--------------------------------------------------------------------------+
+
+#### Incomplete equilibration → time limited transfer: (diffusion limited)
+
++--------------------------+-------------------------------------------------------------------------------+
+| Low rate of transfer     | - Low gradient (e.g. 5000m altitude: pO~2~ only 80mmHg)                       |
+|                          | - Low area                                                                    |
+|                          |   - Tissue loss: (e.g. lobectomy, pneumonectomy, smoking → destruction)       |
+|                          |   - Shunt (e.g. atelectasis)                                                  |
+|                          |   - Dead space (e.g. pulmonary embolus)                                       |
+|                          | - High thickness (e.g. interstitial oedema, fibrosis)                         |
+|                          | - Low lipid membrane solubility                                               |
+|                          | - High MW                                                                     |
++--------------------------+-------------------------------------------------------------------------------+
+| High capacity for uptake | - High blood solubility (e.g. isoflurane blood-gas partition coefficient 1.2) |
+|                          | - High protein binding (e.g. CO 250x higher affinity for Hb than O~2~)        |
+|                          | - High pulmonary capillary blood volume (e.g. LV failure)                     |
++--------------------------+-------------------------------------------------------------------------------+
+| Fast transit             | Peak exercise: 0.25 seconds                                                   |
++--------------------------+-------------------------------------------------------------------------------+
+| Examples                 | - CO:                                                                         |
+|                          |   - Solely diffusion-limited                                                  |
+|                          |   - High affinity for Hb ensures P~2~ near zero                               |
+|                          |   - Allows simpler calculation of diffusing capacity                          |
+|                          | - O~2~: if                                                                    |
+|                          |   - Exercise                                                                  |
+|                          |   - Altitude                                                                  |
+|                          |   - Lung disease (especially if multiple)                                     |
++--------------------------+-------------------------------------------------------------------------------+

@@ -1,0 +1,79 @@
+Nitrous Oxide (N2O) is a low MW (44) low potency (MAC 104) anaesthetic gas.
+
+It’s used as MAC additive as anaesthetic agent, for analgesia and procedural sedation. 
+
+**Physiochemical**:
+
+**Advantages**: 
+
+Odourless → does not irritate airway or precipitate bronchospasm, good for gas induction 
+
+Inert →  no reaction with rubber, plastic, sodalime
+
+**Disadvantages**:
+
+Large greenhouse gas contribution and ozone depletion 
+
+Low potency → limits usable concentration due to FiO2 Requirements
+
+Diffusion Hypoxia 
+
+Supports combustion, although not itself flammable
+
+The filling ratio (mass of N2O compared to mass of H2O cylinder can hold) reduced from 0.75 to 0.67 in warm climates
+
+**Pharmacokinetic**:
+
+**Advantages**
+
+Absorption:  Low blood:Gas Partition Coefficient (0.47) → rapid wash in and wash out, also  as a carrier gas can result in ↑wash in of inhaled anaesthetic agents vie the second gas effect 
+
+Distribution: 
+
+Low muscle:blood and fat:blood partition coefficient minimal accumulation during long case 
+
+Metabolism:
+
+Minimal metabolism 
+
+**Disadvantages**:
+
+Distribution
+
+Expansion in gas filled cavities → 
+
+↑size pneumothorax
+
+↑ Pneumocephalus (in brain surgery)
+
+↑Ocular gas
+
+Elimination:
+
+Diffusion hypoxia - reverse of concentration effect due to rapid transfer from blood→ alveolus causing dilution effect 
+
+**Pharmacodynamic:**
+
+**Advantages**:
+
+CVS - Minimal Cardiovascular depression and changes to SVR 
+
+CNS - Analgesia Properties: NMDA Antagonist, KOP agonist, ↑SNS outflow 
+
+Uterine: does not affect uterine tone 
+
+MSK Not MH triggering 
+
+MAC Sparing → lower concentration of volatile agents needed → reduced side effect profile of volatile agent 
+
+**Disadvantages**
+
+CVS: Increase pulmonary vascular resistance 
+
+CNS: ↑rate of PONV,  low potency → unable to be used as sole agent to maintain GA
+
+Long term exposure results in deletion of B12 
+
+Possible teratogen 
+
+Resp: diffusion hypoxia, ↑PVR

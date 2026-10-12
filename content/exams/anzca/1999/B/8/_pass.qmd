@@ -1,0 +1,16 @@
+![](/content/exams/anzca/1999/B/8/standard-image30.png){fig-alt="Superimposed aortic root and radial artery pressure waveforms against time"}
+
+Red line = aortic root 
+
+Blue line = radial artery
+
+**Key differences**
+
+1.  **radial has delayed peak relative to aortic**
+    Pressure wave takes time to propagate through vessels resulting in observed delay 
+
+    Stiffer vessels (e.g. with ageing or vascular disease) → faster pressure wave propagation → less delay
+2.  **radial has delayed and smoother dicrotic notch**
+    Dicrotic notch of aortic waveform is sharp and is related to the sudden closure of aortic valve
+3.  **radial has steeper, higher and narrower systolic component and lower diastolic pressures than aortic**
+    Aorta is more compliant than peripheral vasculature → Radial has less elastic tissue and reduced windkessel effect, Radial and aortic mean arterial pressures (MAP) are relatively similar radial usually slightly lower

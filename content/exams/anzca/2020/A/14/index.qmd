@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2020A Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the adverse effects of neostigmine.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} adverse effects in the context of cholinesterase inhibition and peri-operative use. Separate muscarinic from nicotinic actions, explaining dose dependence, relevant sites and measures used to counteract undesirable effects.
+
+::: {.structure-headings}
+### Classification, Mechanism and Clinical Context
+
+### Muscarinic Cardiovascular and Respiratory Effects
+
+### Other Muscarinic Effects
+
+### Nicotinic Effects and Dose Dependence
+
+### Counteracting Adverse Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+There are several parts to this question. A good answer would put the adverse effects into a context including the pharmacological classification and the mechanism of action of neostigmine; an explanation of the use of neostigmine in the peri-operative setting and the effects of neostigmine on muscarinic as well as nicotinic receptors.
+
+Most candidates were able to give a brief description as to how neostigmine works and the muscarinic effects. Better candidates were able to describe some effects on nicotinic receptors. The best candidates were able to extend the use of neostigmine in non-operative settings; describe the adverse effects of varying doses of neostigmine, and medications used to counteract the adverse effects.
+
+Common errors include the assumption that neostigmine causes central cholinergic syndrome, or that neostigmine does not cross the placenta.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2020/A/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Anticholinesterases](/content/pharmacopoeia/autonomic/anticholinesterases.qmd)

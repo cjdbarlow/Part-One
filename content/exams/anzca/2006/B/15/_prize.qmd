@@ -1,0 +1,66 @@
+#### List:
+
+- Hypovolaemic shock
+- Organ effects
+
+#### Hypovolaemic shock:
+
++----------------------+----------------------------------------------------------------------------------------------------------+
+| Definition           | - Reduction in blood volume resulting in failure of the circulation to meet tissue metabolic requirement |
+|                      | - Occurs at \~20% loss                                                                                   |
++----------------------+----------------------------------------------------------------------------------------------------------+
+| Pathophysiology      | - ↓Blood volume (BV) → ↓preload → ↓cardiac output → ↓mAP → ↓tissue perfusion → stagnant hypoxia          |
+|                      | - ↓Oxidative phosphorylation, ↓Krebs cycle activity                                                      |
+|                      | - Pyruvate converted to lactate to regenerate NAD^+^                                                     |
+|                      | - (Anaerobic) glycolysis continues                                                                       |
++----------------------+----------------------------------------------------------------------------------------------------------+
+| Exacerbating factors | - ↑Cardiac work: SNS → ↑HR, ↑contractility, ↑MvO~2~ → ↑lactic acid production                            |
+|                      | - ↑Resp work: ↓pH → ↑minute ventilation → ↑resp VO~2~ → ↑lactic production\                              |
+|                      |   ↓Liver perfusion → ↓clearance of lactic acid                                                           |
++----------------------+----------------------------------------------------------------------------------------------------------+
+
+#### Organ effects of hypovolaemic shock:
+
++----------------+--------------------------------------------------------------------------------+
+| Cardiovascular | - ↓BV:                                                                         |
+|                |   - ↓preload → ↓CO → ↓mAP and ↓DBP                                             |
+|                |   - Note coronary autoregulation fails below aortic root DBP 60mmHg            |
+|                | - ↓pH:                                                                         |
+|                |   - Inhibition of L-Ca^2+^ and SERCA → ↓ inotropy (predominates at pH \<7.2)   |
+|                |   - Risk of arrhythmia, arrest                                                 |
+|                |   - Systemic vasodilation, pulmonary vasoconstriction                          |
+|                | - ↑↑SNS:                                                                       |
+|                |   - ↑ HR, ↑inotropy, ↑MVO2 (predominates at pH \>7.2)                          |
+|                |   - Systemic and pulmonary vasoconstriction                                    |
+|                |   - Autotransfusion from capacitance vessels (skin, gut, liver, spleen, lung)\ |
+|                |     \                                                                          |
+|                | - ↑Myocardial O~2~ demand, ↓O~2~ supply → ischaemia (Type 2)                   |
++----------------+--------------------------------------------------------------------------------+
+| Respiratory    | - ↓BV:                                                                         |
+|                |   - ↑Z1 of lung → ↑dead space → ↓etCO~2~                                       |
+|                | - ↓pH                                                                          |
+|                |   - ↑Peripheral chemoreceptor activity → ↑MV (doubles for each ↓0.1 pH)        |
+|                |   - Right shift OHDC (↑ \[H^+^\], ↑ \[2,3-DPG\]                                |
+|                |   - (partly offset by left shift due to respiratory alkalosis)                 |
++----------------+--------------------------------------------------------------------------------+
+| CNS            | - ↓BV:                                                                         |
+|                |   - CNS ischaemia → 1° and 2° HIBI (failure of autoregulation at CPP \<50mmHg) |
+|                |   - Confusion, coma, apnoea, death                                             |
+|                |   - ↑↑SNS output from medulla (central ischaemic response)                     |
++----------------+--------------------------------------------------------------------------------+
+| Kidneys        | - ↓BV → ↓mAP:                                                                  |
+|                |   - Autoregulation mAP 70-175                                                  |
+|                |   - Hence ↓↓mAP → dec GFR → oliguria                                           |
+|                |   - If prolonged: ATN, renal failure                                           |
+|                | - ↓pH:                                                                         |
+|                |   - ↑ HCO3 reabsorption especially distal nephron (CNT/CCD/MCD)                |
+|                |   - ↑Phosphoric acid excretion                                                 |
+|                |   - ↑NH~4~^+^ production → ↑HCO~3~^-^ reabsorption                             |
++----------------+--------------------------------------------------------------------------------+
+| Liver          | - ↓BV → ↓mAP → ischaemia                                                       |
+|                | - ↓pH: lactic acid → glucose (Cori cycle)                                      |
++----------------+--------------------------------------------------------------------------------+
+| Metabolic      | - ↑\[K^+^\]: due to H^+^/K^+^ exchange across cells                            |
+|                |   - +0.6mmol/L K^+^ for each -0.1 in pH                                        |
+|                | - ↑\[Ca^2+^\]: due to ↑ H^+^/Ca^2+^ exchange with bone                         |
++----------------+--------------------------------------------------------------------------------+

@@ -1,0 +1,74 @@
+#### List:
+
+- Principles: infrared, Beer-Lambert
+- Diagramme
+- Sources of error
+- Comparison to mainstream analysers
+
+#### Principles:
+
++---------------------+--------------------------------------------------------------+
+| Infrared absorption | - Gases with ≥2 types of atoms can absorb infrared radiation |
+|                     | - CO~2~ max absorption at wavelength 4.28μm                  |
++---------------------+--------------------------------------------------------------+
+| Beer-Lambert law    | - I = I~0~e^-ax^                                             |
+|                     | - Absorption ∝ pCO~2~ x distance travelled                   |
++---------------------+--------------------------------------------------------------+
+
+#### Side stream analyser:
+
+![](/content/exams/anzca/2016/A/1/prize-image001.jpg){fig-alt="Sidestream infrared carbon dioxide analyser with sample and reference chambers, water trap, filter wheel and detectors"}
+
+#### Sources of error:
+
++-----------+-----------------------------------------------------------------------------+
+| Processor | Confusion with other gases:                                                 |
+|           |                                                                             |
+|           | - N~2~O 4.5μm, CO 4.7μM (causes falsely high pCO~2~)                        |
+|           | - H~2~O vapour absorbs widely (causes falsely high pCO~2~)                  |
+|           | - Bronchodilator propellant and halothane                                   |
+|           | - FIX: reference chamber AND water trap                                     |
+|           |                                                                             |
+|           | Collision broadening:                                                       |
+|           |                                                                             |
+|           | - Widening of the absorption peak for a gas when in the presence of another |
+|           | - Due to collision between molecules raising their energy level             |
+|           | - 50% N~2~O widens CO~2~’s absorption peak by 10%                           |
+|           | - FIX: presence of reference chamber                                        |
+|           |                                                                             |
+|           | Ram-gas effect:                                                             |
+|           |                                                                             |
+|           | - Pressure-drop across the sampling line                                    |
+|           | - ↓ total pressure inside sample chamber → ↓ CO~2~ partial pressure         |
+|           | - Failure of calibration                                                    |
+|           | - FIX: regular three point calibration                                      |
++-----------+-----------------------------------------------------------------------------+
+| Sampling  | Dilution by fresh gas                                                       |
+|           |                                                                             |
+|           | - Sampling of fresh gas may occur in expiration if high RR and low V~T~     |
+|           | - e.g. neonates and young children                                          |
+|           |                                                                             |
+|           | Sampling line disconnection                                                 |
+|           |                                                                             |
+|           | - Complete: no signal                                                       |
+|           | - Partial: entrainment of room air                                          |
+|           |                                                                             |
+|           | Blockage by water condensation                                              |
+|           |                                                                             |
+|           | - FIX: water trap                                                           |
++-----------+-----------------------------------------------------------------------------+
+| Patient   | - Cardiogenic oscillation (if apnoeic)                                      |
+|           | - Underreads if plateau not reached e.g .severe asthma                      |
++-----------+-----------------------------------------------------------------------------+
+
+#### Compared to mainstream analyser:
+
++------+----------------------------------------------+
+| Pros | - No increase in dead space                  |
+|      | - Lighter                                    |
+|      | - Remote monitoring easier                   |
++------+----------------------------------------------+
+| Cons | - Longer transit time → longer response time |
+|      | - Prone to obstruction                       |
+|      | - Prone to leaks                             |
++------+----------------------------------------------+

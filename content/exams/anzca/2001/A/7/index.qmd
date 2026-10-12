@@ -1,0 +1,75 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001A Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} how the body detects and responds to water deficit.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the changes in body-fluid compartments, how osmolality and volume changes are detected, and how ADH and thirst restore water balance.
+
+::: {.structure-headings}
+### Fluid Compartments and Consequences of Water Deficit
+
+### Osmoreceptors and Volume Sensors
+
+### ADH: Release and Renal Actions
+
+### Thirst and Water Intake
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The pass rate for this question was **50%**.
+
+Main points expected were the implications of a water deficit, how this is sensed (emphasising hypothalamic osmoreceptors), and the central role of ADH including its structure, synthesis, transport, release and actions. Other points that attracted additional marks included the distribution of body water (including normal values), the sensitivity of osmoreceptors vs. volume sensors, and the effects of severe water deficit sufficient to cause intravascular depletion. A common mistake was to concentrate solely on hyperosmolarity and contraction of the ECF or hyperosmolarity and hypotension. Many candidates failed to indicate that a water deficit involves contraction of both intracellular and extracellular compartments. Pure water deficit does not include Na^+^ loss, nor does pure water deficit occur in haemorrhage. Thirst is not a "backup system" in water deprivation. High pressure baroreceptors do not respond to hypovolaemia. There was little appreciation that in pure water deficit, a 10% reduction in intravascular volume would be associated with a water deficit of over 4 litres.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2001/A/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Sodium and water](/content/renal/sodium.qmd)
+- [Pituitary hormones](/content/endo/pituitary.qmd)

@@ -1,0 +1,68 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006A Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the non-ideal features of nitrous oxide.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} non-ideal features under **Pharmaceutics**, **Anaesthetic Limitations**, **Diffusion and Gas-Space Effects**, and **Other Adverse Effects**. Group related features and [**include**]{.task-verb} the vitamin B12-related effects.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**58 %** of candidates passed this question.
+
+The main points expected for a pass included: the drugs inability to be used as a single agent, diffusion hypoxia, expansion of gas-filled spaces and cobalt oxidation resulting in reduced activity of vitamin B~12~.
+
+Additional marks were obtained for a description of additional adverse effects including, but not restricted to, non-ideal pharmaceutic properties, post-operative nausea and vomiting, pulmonary hypertension, increased cerebral blood flow, mild myocardial depression, sympathetic stimulation and increased homocysteine levels. Some candidates also described the difficulties associated with interpreting depth of anaesthesia monitoring when administering N~2~O and its potential for abuse.
+
+Forty percent of candidates failed to mention diffusion hypoxia. Also, there was some confusion regarding the relative solubilities of N~2~O, O~2~ and N~2~ and how this affects expansion of gas filled spaces.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Nitrous Oxide](/content/pharmacopoeia/neuro/nitrous_oxide.qmd)

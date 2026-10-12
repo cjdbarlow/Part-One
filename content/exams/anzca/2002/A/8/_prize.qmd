@@ -1,0 +1,83 @@
+#### List:
+
+- Intro
+- Anatomy
+- Neural control
+- Physical factors
+- Hormonal factors
+
+#### Intro:
+
++------------------+-------------------------------------------------------------------------+
+| Importance       | - Prevents regurgitation and aspiration                                 |
+|                  | - Especially important supine, under anaesthesia                        |
++------------------+-------------------------------------------------------------------------+
+| Barrier pressure | - Barrier pressure = sphincteric – intragastric                         |
+|                  | - Normal pressures (cmH~2~O): barrier 26, sphincter 36, intragastric 10 |
+|                  | - Reflux occurs when barrier pressure \<13cmH~2~O                       |
++------------------+-------------------------------------------------------------------------+
+
+#### Anatomy:
+
++--------------------------+-------------------------------------------------------------------------------------------------+
+| Inner sphincter          | - Lower 2-4cm oesophagus. Not anatomically distinct, not a true sphincter.                      |
+|                          | - Tonic contraction of circular muscle                                                          |
+|                          | - Provides 90% of basal pressure                                                                |
+|                          | - Innervation: CNX, abundant                                                                    |
++--------------------------+-------------------------------------------------------------------------------------------------+
+| Outer sphincter          | - Right crus of diaphragm loops contralaterally around lower oesophagus. “Pinch cock” mechanism |
+|                          | - Intermittent contraction                                                                      |
+|                          | - Applies co-ordinated pressure during inspiration, coughing                                    |
+|                          | - Inervation: phrenic                                                                           |
++--------------------------+-------------------------------------------------------------------------------------------------+
+| Oblique entry            | - Oblique passage of oesophagus into stomach                                                    |
+|                          | - Gastric distension → closure of orifice                                                       |
+|                          | - “Flap-valve” mechanism                                                                        |
++--------------------------+-------------------------------------------------------------------------------------------------+
+| Intra-abdominal position | - Sphincter is intra-abdominal                                                                  |
+|                          | - External pressure assists closure                                                             |
++--------------------------+-------------------------------------------------------------------------------------------------+
+
+#### Neural control:
+
++-------------+--------------------------------------------------------------------------+
+| Innervation | - Meissner’s submucosal plexus                                           |
+|             | - Auerbach’s myenteric plexus (between circular and longitudinal layers) |
++-------------+--------------------------------------------------------------------------+
+| Intrinsic   | - Myenteric reflex: distension \> peristalsis (e.g. swallowing)          |
+|             | - Myogenic reflex: distension → contraction                              |
++-------------+--------------------------------------------------------------------------+
+| Extrinsic   | - PSNS: CNX via oesophageal plexus                                       |
+|             | - SNS: cervical and thoracic SNS trunk via oesophageal plexus            |
+|             | - Complex modulation of intrinsic circuits                               |
++-------------+--------------------------------------------------------------------------+
+
+#### Physical factors:
+
++------------+----------------------------------------------+
+| Gravity    | - Trendelenburg positioning → ↑regurgitation |
++------------+----------------------------------------------+
+| Pressure   | - ↑Abdo pressure → ↓barrier pressure         |
+|            |   - Obesity                                  |
+|            |   - Pregnancy                                |
+|            |   - Laparoscopy                              |
++------------+----------------------------------------------+
+| Sphincter  | - e.g. hiatus hernia → ↓LOS competence       |
++------------+----------------------------------------------+
+
+#### Hormonal factors:
+
++------------+---------------------------------------------------+
+| ↑ LOS tone | - Gastrin                                         |
+|            | - CCK                                             |
+|            | - Motilin                                         |
+|            | - Oestrogen                                       |
++------------+---------------------------------------------------+
+| ↓LOS tone  | - Progesterone (i.e. pregnancy)                   |
+|            | - VIP (causes reflex relaxation after swallowing) |
+|            | - GIP                                             |
+|            | - Secretin                                        |
+|            | - PGE2                                            |
+|            | - Glucagon                                        |
+|            | - Severe illness                                  |
++------------+---------------------------------------------------+

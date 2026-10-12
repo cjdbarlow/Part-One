@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2017A Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the factors affecting duration of action of a local anaesthetic block to a major peripheral nerve.
+:::
+
+Also asked in: [2017B Question 8](/content/exams/anzca/2017/B/8/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} duration by separating drug factors from patient and nerve factors. Explain how binding, local removal, dose, adjuvants and regional vascularity affect the time for concentration to fall below that required for blockade.
+
+::: {.structure-headings}
+### Dose, Concentration and Protein Binding
+
+### Local Removal and Intrinsic Vascular Effects
+
+### Adjuvants
+
+### Nerve Structure and Injection Site
+
+### Patient Factors and Extremes of Life
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**36.3%** of candidates achieved a pass in this question
+
+This question was similar in structure to one asked in 2016 and many candidates failed due to incorrectly reading this question and answering the one of last year, or reading it correctly but failing to modify the structure they had developed to answer the one of last year.
+
+Two key factors should have been considered with regard to a well-constructed answer to this question.
+
+1. Drug factors such as protein binding, lipid solubility, molecular size, dose and concentration, intrinsic vasoconstrictor properties and adjuvants such as adrenaline, opioids and alpha-2-agonists. Metabolism of ester agents was also relevant. Marks were not gained for detailed descriptions of Fick’s Law, the mechanism of action of local anaesthetics, the effects of hepatic dysfunction, pKa and local acidosis.
+2. Patient factors such as the site of administration, its vascularity and the structure of the nerve being blocked. Higher marks were gained for discussions on pregnancy and the extremes of life.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2017/A/7/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2017/A/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Local anaesthetic principles](/content/pharmacopoeia/neuro/local_anaesthetic_principles.qmd)

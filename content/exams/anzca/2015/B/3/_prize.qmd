@@ -1,0 +1,87 @@
+#### List:
+
+- Summary
+- Graphs
+- Awake and spont vent
+- Under GA
+- IPPV
+- Open chest
+- One lung ventilation
+
+#### Summary:
+
++---------------+------------------------------------------+
+| Awake         | - R \> L lung ventilation                |
+|               | - R \> L lung perfusion                  |
+|               | - Improved V/Q matching c.f. supine      |
++---------------+------------------------------------------+
+| Anaesthetised | - L \> R lung ventilation                |
+|               | - R \> L lung perfusion                  |
+|               | - Worse V/Q matching                     |
+|               | - Even worse with open chest             |
+|               | - Attenuated during one lung ventilation |
++---------------+------------------------------------------+
+
+#### Graphs:
+
+![](/content/exams/anzca/2015/B/3/prize-image001.jpg){fig-alt="Ventilation, perfusion and ventilation–perfusion ratio from dependent to non-dependent lung"}
+
+![](/content/exams/anzca/2015/B/3/prize-image002.jpg){fig-alt="Regional pressure–volume curves during spontaneous breathing, general anaesthesia and an open left chest"}
+
+#### Awake, spontaneously ventilating:
+
++---+------------------------------------------------------------------------------+
+| V | - Distribution:                                                              |
+|   |   - L lung traction → ↑alveolar volume → ↓ compliance → ↓ventilation 10%     |
+|   |   - R lung compression → ↓ alveolar volume → ↑ compliance → ↑ventilation 10% |
+|   | - FRC: erect \> lateral \> supine                                            |
+|   |   - R lung compression → ↓volume                                             |
+|   |   - ↓Diaphragm displacement                                                  |
+|   | - Time constants ( = resistance x compliance)                                |
+|   |   - L lung: ↑volume → ↓compliance, ↓resistance → ↓time constant              |
+|   |   - R lung: ↓volume → ↑compliance, ↑resistance → ↑time constant              |
+|   |   - Hence hypoventilation of R lung if high respiratory rate                 |
++---+------------------------------------------------------------------------------+
+| Q | - Shorter hydrostatic column. More even distribution than when supine.       |
+|   | - L lung: mostly West zone 2 (↓perfusion 10%)                                |
+|   | - R lung: mostly West zone 3 (↑perfusion 10%)                                |
++---+------------------------------------------------------------------------------+
+
+#### Under general anaesthesia:
+
++---+-------------------------------------------------------------------------------------+
+| V | - L lung: hypotonia → volume reduced to normal → restored compliance → ↑ventilation |
+|   | - R lung: hypotonia → further loss of volume → worse compliance → ↓ventilation      |
++---+-------------------------------------------------------------------------------------+
+| Q | - Inhibition of HPV → ↓PVR                                                          |
+|   | - ↓Lung volume → ↑PVR                                                               |
+|   | - ↓Venous return, ↓right heart output → ↓pulmonary arterial pressure → ↑West zone 1 |
++---+-------------------------------------------------------------------------------------+
+
+#### With intermittent positive pressure ventilation:
+
++---+-------------------------------------------------------------------+
+| V | \-                                                                |
++---+-------------------------------------------------------------------+
+| Q | - Obstruction to venous return → ↓perfusion                       |
+|   | - ↑Alveolar pressure, ↓pulmonary arterial pressure → ↑West zone 1 |
++---+-------------------------------------------------------------------+
+
+#### Open chest:
+
++---+---------------------------------------------------------------------------------------------------------------------------------------+
+| V | - L lung: ↑volume and ↑ventilation possible                                                                                           |
+|   | - R lung: loss of negative L intrapleural pressure → ↑mediastinal shift → ↑ R lung compression → ↓volume → ↓compliance → ↓ventilation |
++---+---------------------------------------------------------------------------------------------------------------------------------------+
+| Q | - L lung: loss of negative intrapleural pressure → ↓perfusion                                                                         |
+|   | - R lung: ↓volume → ↑PVR → ↓perfusion                                                                                                 |
++---+---------------------------------------------------------------------------------------------------------------------------------------+
+
+#### One lung ventilation:
+
++---+---------------------------------------------------------------------------------+
+| V | - L lung: no ventilation. Massive shunt.                                        |
+|   | - R lung: ↑ventilation, risk barotrauma and volutrauma.                         |
++---+---------------------------------------------------------------------------------+
+| Q | - L lung: collapse and ↓PAO~2~ → ↑PVR → ↓perfusion (note HPV impaired under GA) |
++---+---------------------------------------------------------------------------------+

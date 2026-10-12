@@ -1,0 +1,64 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011B Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**What is**]{.task-verb} the mechanism of action of β-adrenoreceptor antagonists? [**Outline**]{.task-verb} the therapeutic uses and side effects of these drugs.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+State what the **Mechanism of Action** is, then [**outline**]{.task-verb} **Therapeutic Uses** and **Side Effects**. Connect receptor antagonism to cardiovascular and other clinical uses and the relevant adverse effects.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**78.3%** of candidates passed this question.
+
+Generally this was a very well answered question and most candidates covered all that was asked of them. There was usually sufficient detail on the various cardiovascular uses of the drug, and many candidates added other uses of beta blockers such as treatment of glaucoma and migraine prophylaxis. With regard to the mode of action, obviously they act by blockade of the beta receptor, but extra points were gained by pointing out that this is a form of competitive antagonism and that this group of drugs have very selective action on the beta receptors alone. There were some minor areas of confusion. While beta adrenergic antagonists can be used to suppress the physical stigmata of anxiety, such as dry mouth and tremor, they have no significant anxiolytic properties per se – the patient (or candidate!) is just as anxious on the inside. In fact most of the CNS effects of these drugs are quite deleterious and include, insomnia and sleep disturbance as well as vivid dreams. The effects on the peripheral circulation are complex. Older, non selective agents cause peripheral vasoconstriction (not dilatation) and can worsen or precipitate Raynaud’s disease, because the blockade of peripheral beta 2 receptors allows the vasoconstricting alpha effects to predominate unchecked. However, newer agents that are used in the management of cardiac failure, often possess vasodilating properties, possibly mediated through nitric oxide release. Lastly confusion also reigned with regard to the effects of these drugs on the uterus, with candidates claiming that beta blocking drugs possessed both oxytocic and tocolytic effects.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Beta-Blockers](/content/pharmacopoeia/cvs/beta_blockers.qmd)

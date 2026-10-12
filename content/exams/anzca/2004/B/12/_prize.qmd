@@ -1,0 +1,112 @@
+#### List:
+
+- Intro
+- Angiotensinogen
+- Renin
+- Angiotensin 2
+- Other angiotensins
+- Aldosterone
+
+#### Intro:
+
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Pathway          | ![](/content/exams/anzca/2004/B/12/prize-image001.jpg){fig-alt="Renin–angiotensin pathway with ACE, angiotensin subtypes and aldosterone stimulation"} |
+|                  |                                                                                                                                                        |
+|                  | - Note negative feedback                                                                                                                               |
+|                  |   - Direct: AT2 binds AGTR1 on granular cell → ↑Ca^2+^ → ↓renin release                                                                                |
+|                  |   - Physiological: AT2 and aldosterone inhibit release of renin                                                                                        |
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Overall function | - Essential for fluid and electrolyte homeostasis and response to haemorrhage                                                                          |
+|                  | - Angiotensin 2: ↑ECF volume, ↑blood pressure                                                                                                          |
+|                  | - Aldosterone: ↑ECF \[Na^+^\] and osmolality, ↑ECF:ICF ratio                                                                                           |
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Angiotensinogen:
+
++----------+------------------------------------------------------------+
+| Source   | - Large protein                                            |
+|          | - Synthesised by the liver                                 |
++----------+------------------------------------------------------------+
+| Function | - Relatively inert circulating precursor for angiotensin 1 |
++----------+------------------------------------------------------------+
+
+#### Renin:
+
++-----------------+---------------------------------------------------------------------------------------------------------------------+
+| Source          | - Juxtaglomerular cell of the afferent arteriole                                                                    |
++-----------------+---------------------------------------------------------------------------------------------------------------------+
+| Release stimuli | - ↓Afferent arteriolar stretch                                                                                      |
+|                 | - β~1~ agonism at JG cell                                                                                           |
+|                 | - Low NaCl load to macula densa → ↓adenosine + ↑PGE~2~                                                              |
++-----------------+---------------------------------------------------------------------------------------------------------------------+
+| Kinetics        | - Released into circulation almost immediately upon stimulus                                                        |
+|                 | - Duration 30-60 mins                                                                                               |
+|                 | - Note it is the rate limiting factor due to constitutive presence of circulating angiotensinogen and pulmonary ACE |
++-----------------+---------------------------------------------------------------------------------------------------------------------+
+| Function        | - Enzymatic cleavage of antiotensinogen                                                                             |
+|                 | - Not itself vasoactive                                                                                             |
++-----------------+---------------------------------------------------------------------------------------------------------------------+
+
+#### Angiotensin 2:
+
++----------------------+------------------------------------------------------------------------------------------------------+
+| Kinetics             | - Produced within minutes of stimulus                                                                |
+|                      | - Duration 1-2 mins (but more produced if renin present)                                             |
+|                      | - Metabolised by peptidases                                                                          |
++----------------------+------------------------------------------------------------------------------------------------------+
+| Cellular effect      | - Peptide hormone, 8 amino acids (angiotensin 1 is 10 amino acids)                                   |
+|                      | - Binds AGTR (G~q~ protein coupled receptor)                                                         |
+|                      | - ↑IP~3~→ ↑ICF Ca~2+~; ↑DAG                                                                          |
++----------------------+------------------------------------------------------------------------------------------------------+
+| Vascular effect      | - Constriction of efferent \> afferent arteriole                                                     |
+|                      |   - ↑GFP → ↑GFR                                                                                      |
+|                      |   - ↓Peritubular capillary hydrostatic pressure → ↑reabsorption                                      |
+|                      | - Generalised vasoconstriction \>\> venoconstriction, ↑SVR, ↑mAP                                     |
++----------------------+------------------------------------------------------------------------------------------------------+
+| Renal tubular effect | - ↑Na^+^/H^+^ exchange in proximal tubule → ↑Na^+^/H~2~O/HCO~3~^-^ reabsorption → ↑ECF volume and pH |
++----------------------+------------------------------------------------------------------------------------------------------+
+| CNS effect           | - Hypothalamus: ↑ADH release                                                                         |
+|                      | - Circumventricular organs: thirst → ↑H~2~O and NaCl consumption                                     |
++----------------------+------------------------------------------------------------------------------------------------------+
+
+#### Other angiotensins:
+
++----------+------------------------------------------+
+| AT3      | - Same as AT2 on aldosterone secretion   |
+|          | - Same as AT2 at glomerulus              |
+|          | - 60% of AT2’s systemic vasoconstriction |
++----------+------------------------------------------+
+| AT1, AT4 | - Also less active than AT2              |
++----------+------------------------------------------+
+
+#### Aldosterone:
+
++------------------------+-------------------------------------------------------------------------------+
+| Source                 | - Zona glomerulosa of adrenal cortex                                          |
+|                        | - Derivative of cholesterol                                                   |
++------------------------+-------------------------------------------------------------------------------+
+| Release stimuli        | - CRH → ACTH → aldosterone (necessary for synthesis, minor effect on release) |
+|                        | - Angiotensin 2 (major)                                                       |
+|                        | - Hyperkalaemia (minor)                                                       |
++------------------------+-------------------------------------------------------------------------------+
+| Cellular effect        | - Steroid hormone                                                             |
+|                        | - Binds cytosolic mineralocorticoid receptor, a nuclear transcription factor  |
+|                        | - Increases or decreases gene expression                                      |
++------------------------+-------------------------------------------------------------------------------+
+| Renal tubular effect   | - Location: connecting tubule, collecting duct                                |
+|                        | - Principal cell:                                                             |
+|                        |   - ↑Na^+^K^+^ATPase synthesis and activity                                   |
+|                        |   - ↑Apical ANaC and ROMK activity                                            |
+|                        | - Type 1 intercalated cell:                                                   |
+|                        |   - ↑H^+^ATPase activity                                                      |
+|                        | - Direct effects:                                                             |
+|                        |   - ↑ECF \[Na^+^\] and tonicity                                               |
+|                        |   - ↑ECF pH                                                                   |
+|                        |   - ↓ECF \[K^+^\]                                                             |
+|                        | - Indirect effects:                                                           |
+|                        |   - ↑ECF:ICF volume ratio (due to osmosis)                                    |
+|                        |   - ↑ADH release (due to hypertonicity)                                       |
++------------------------+-------------------------------------------------------------------------------+
+| Colon and sweat glands | - ↑Na^+^K^+^ATPase synthesis and activity → ↑ENaC activity                    |
+|                        | - ↑ECF \[Na^+^\] and tonicity                                                 |
++------------------------+-------------------------------------------------------------------------------+

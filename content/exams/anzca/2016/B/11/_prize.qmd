@@ -1,0 +1,24 @@
++------------------------+----------------------------------------------------------------------------------------------------------+
+| Mechanism              | - Bactericidal                                                                                           |
+|                        | - Irreversibly bind 30S subunit of ribosome → mRNA mistranslation → abnormal proteins → cell dysfunction |
+|                        | - ↓Multiplication and cell death                                                                         |
++------------------------+----------------------------------------------------------------------------------------------------------+
+| Reasons for daily dose | - Killing ∝ peak concentration (cf. time above MIC)                                                      |
+|                        | - Post-antibiotic effect                                                                                 |
+|                        | - ↓Frequency → ↓risk nephrotoxicity                                                                      |
++------------------------+----------------------------------------------------------------------------------------------------------+
+| Nephrotoxicity         | - Occurs in 10-25%                                                                                       |
+|                        | - ↑Risk if ↑frequency of dose, ↑age, CKD, dehydrated, contrast load, other nephrotoxins                  |
+|                        | - May be reversible                                                                                      |
++------------------------+----------------------------------------------------------------------------------------------------------+
+| Ototoxicity            | - Vestibular dysfunction, deafness                                                                       |
+|                        | - Often irreversible                                                                                     |
+|                        | - 1 in 10,000 risk                                                                                       |
+|                        | - ↑Risk if ↑peak concentration                                                                           |
+|                        | - ↑dose                                                                                                  |
+|                        | - ↑injection rate                                                                                        |
++------------------------+----------------------------------------------------------------------------------------------------------+
+| Muscle weakness        | - Potentiates non-depolarising relaxants                                                                 |
+|                        |   - Antagonises pre-synaptic VDCC                                                                        |
+|                        |   - Blocks post-synaptic VDNaC                                                                           |
++------------------------+----------------------------------------------------------------------------------------------------------+

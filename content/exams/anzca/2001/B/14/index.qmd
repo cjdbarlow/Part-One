@@ -1,0 +1,62 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001B Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the direct effects of endogenously released histamine.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} **Cardiovascular**, **Respiratory**, **Gastric**, **Central**, and **Local Inflammatory Effects**. Identify the relevant histamine receptor actions within each system.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+All candidates attempted to answer this question; the pass rate was **49%**. The main points expected were a brief description of histamine’s usual roles, including gastric acid production, central neurotransmission, and vascular tone; and its role in inflammation and allergic reactions. A specific mention of drug allergy was rarely included. Many candidates provided an unnecessary amount of detail about the synthesis and G-protein mediated mechanism of action of histamine, but minimal information about its effects. The specific cardiovascular, respiratory and local effects (eg. skin wheal and flare response, pain), specific identification of H~1~, H~2~ (& H~3~) actions, and gastric acid secretion were the main points required.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Histamine](/content/endo/histamine.qmd)

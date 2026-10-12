@@ -1,0 +1,74 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000B Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Write brief notes**]{.task-verb} on latex allergy.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Write brief notes**]{.task-verb} under the following headings, covering perioperative exposure and risk as well as the immediate and delayed reactions.
+
+::: {.structure-headings}
+### Definition, Sources and Risk Factors
+
+### Exposure Reduction
+
+### Immediate Hypersensitivity: Features and Treatment
+
+### Delayed Hypersensitivity
+
+### Investigation
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**44%** of candidates passed this question. In a previous paper two years ago, the pass rate was 30%. The majority of candidates who failed chose to write extensively on the basic immunology of type 1 hypersensitivity reactions with specific reference to latex. Better answers included information relevant to latex allergy in the perioperative period. This included brief comments on what latex is, identifying ubiquitous sources of latex, methods to reduce exposure, consequences of exposure to latex, and the investigation of latex allergy.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2000/B/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Hypersensitivity](/content/immune/hypersensitivity.qmd)

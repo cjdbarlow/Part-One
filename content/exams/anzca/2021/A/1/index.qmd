@@ -1,0 +1,86 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2021A Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the advantages and disadvantages of using nitrous oxide as part of a general anaesthetic.
+:::
+
+Also asked in: [2011A Question 7](/content/exams/anzca/2011/A/7/index.qmd#examiner-comments), [2017A Question 5](/content/exams/anzca/2017/A/5/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} advantages and disadvantages specifically within general anaesthesia. Connect physical and pharmacological properties to wash-in, anaesthetic sparing, gas-space effects and important adverse effects.
+
+::: {.structure-headings}
+### Physical and Pharmaceutical Properties
+
+### Wash-In, Washout and Gas Effects
+
+### Anaesthetic Sparing and Analgesia
+
+### Organ Effects and Clinical Limitations
+
+### Environmental and Prolonged-Exposure Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**23.1%** of candidates achieved a pass in this question
+
+Candidates who structured their answer showing advantages and disadvantages relating to the physico-chemical, pharmacokinetic and pharmacodynamic properties of N2O generally passed. To score well, candidates needed to discuss N2O in the context of modern general anaesthesia, and show understanding of the properties of this agent to make their argument.
+
+Recurring problems in the submitted answers included:
+
+- writing down pharmacokinetic parameters without any attempt to explain their relevance
+- inaccurate descriptions of fundamental pharmacokinetic principles
+- vague statements (eg N2O has analgesic properties) with no other detail or comment regarding significance
+
+Comments regarding Entonox use in the Emergency Department or Labour Ward did not receive marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2011/A/7/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2011/A/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Nitrous oxide](/content/pharmacopoeia/neuro/nitrous_oxide.qmd)

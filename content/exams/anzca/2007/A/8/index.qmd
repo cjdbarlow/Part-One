@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007A Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the classes of drugs used clinically to treat chronic left ventricular failure. [**Outline**]{.task-verb} their mechanisms of action.
+:::
+
+Also asked in: [2004B Question 8](/content/exams/anzca/2004/B/8/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} drug classes with examples, then [**outline**]{.task-verb} mechanisms that address chronic failure. Link neurohumoral effects, remodelling and loading conditions to benefits rather than merely listing haemodynamic effects.
+
+::: {.structure-headings}
+### Beta Blockers
+
+### Renin–Angiotensin System Drugs
+
+### Diuretics and Aldosterone Antagonists
+
+### Digoxin
+
+### Other Afterload-Reducing Drugs
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**65%** of candidates passed this question.
+
+Only 32% of candidates complied with the first part of the question, to LIST the classes of drugs used. In order to satisfy the requirements of this question, candidates need to relate facts about drugs to their mechanisms of action. Many answers included a definition of heart failure then attempted to relate the benefits of classes to this, however since no mention was made of diastolic dysfunction, many responses were incomplete. It was common for candidates to outline the effects of an agent but not describe the mechanisms of those effects or their consequences. This information needs to be explicit. Thus many failed to acknowledge the influence of renin and how its levels are affected by different agents (eg. beta blockers). Most candidates gave the mechanism of action for the management of myocardial ischaemia for nitrates and beta blockers; while this is often relevant, it is not the prime therapeutic goal for these agents in heart failure. Beta blockers are not used to achieve a decrease in cardiac output. Pre- and after load were frequently confused with few candidates mentioning Starling curves. Although this question related to chronic failure, many candidates discussed drugs typically used for acute systolic dysfunction. Credit was given for a description of digoxin and its benefits in atrial fibrillation and other after-load reducing agents including prazosin and hydralazine.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2004/B/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Beta blockers](/content/pharmacopoeia/cvs/beta_blockers.qmd)
+- [ACE inhibitors](/content/pharmacopoeia/cvs/ace_inhibitors.qmd)
+- [Digoxin](/content/pharmacopoeia/cvs/digoxin.qmd)

@@ -1,0 +1,91 @@
+#### Intro:
+
+- Sevoflurane: relevant cellular effects
+- Cardiac muscle
+- Smooth muscle
+- Skeletal muscle
+
+#### Sevoflurane: relevant cellular effects
+
+- ↑activity at GABA-A and glycine receptors → Cl^-^ influx → prevent action potential
+- ↓L-Ca^2+^ activity (↓L-Ca^2+^)
+- ↑nitric oxide release (↑NO)
+- ↓medullary sympathetic outflow (↓SNS)
+- ↓nicotinic ACh receptor activity (↓nAChR)
+- Most effects are dose-dependent
+
+#### Cardiac muscle:
+
++-----------------------------+------------------------------------------------------------------------+
+| Contractility               | - Direct effect: ↓                                                     |
+|                             |   - ↑GABA/glycine → ↓SNS output from medulla                           |
+| Heart rate                  |   - ↓L-Ca^2+^ channel activity, ↓Ca2+ sensitivity                      |
+|                             | - Indirect effect: ↑                                                   |
+|                             |   - Baroreceptor reflex relatively preserved                           |
+|                             |   - Reflex tachycardia common                                          |
++-----------------------------+------------------------------------------------------------------------+
+| Anaesthetic preconditioning | - Activates ATP-sensitive K^+^ channels in mitochondria and sarcolemma |
+|                             | - Mimics ischaemic preconditioning → ↓risk myocardial ischaemia        |
+|                             | - Active at MAC \>0.25                                                 |
+|                             | - Onset in minutes, offset 3-4 days                                    |
++-----------------------------+------------------------------------------------------------------------+
+| ↑QT interval                | - ? Mechanism                                                          |
+|                             | - ↑Risk torsades de pointes (rarely significant)                       |
+|                             | - Sevoflurane, enflurane, isoflurane                                   |
++-----------------------------+------------------------------------------------------------------------+
+| Coronary steal syndrome     | - ↓ L-Ca^2+^ channel → SVR                                             |
+|                             | - Awake:                                                               |
+|                             |   - Stenotic vessel maximally dilated                                  |
+|                             |   - Other vessels mid-dilated                                          |
+|                             |   - Preserved flow through stenosis                                    |
+|                             | - Under GA:                                                            |
+|                             |   - Stenotic vessel no change                                          |
+|                             |   - Other vessels ↑dilatation                                          |
+|                             |   - ↓CO, ↓SVR → ↓aortic root diastolic pressure → ↓total coronary flow |
+|                             |   - ↓flow through stenosis                                             |
+|                             | - Unproven theoretical concern                                         |
+|                             | - Isoflurane \> others due to greater reduction in SVR                 |
++-----------------------------+------------------------------------------------------------------------+
+
+#### Smooth muscle:
+
++--------------------------+-------------------------------------------------------------------------+
+| Mechanism                | - ↓L-Ca^2+^, ↓SNS                                                       |
++--------------------------+-------------------------------------------------------------------------+
+| Systemic vasodilatation  | - Arteries: ↓SVR, ↓mAP; ↑heat loss                                      |
+|                          | - Veins: ↓preload → cardiac output; easier to cannulate                 |
++--------------------------+-------------------------------------------------------------------------+
+| Pulmonary vasodilatation | - ↓PVR, ↓HPV, ↑V/Q mismatch, ↓PaO~2~                                    |
++--------------------------+-------------------------------------------------------------------------+
+| Cerebral vasodilatation  | - Overrides ↓CMRO~2~ at \>1MAC                                          |
+|                          | - Risk of ↑ICP concomitant intracranial pathology                       |
++--------------------------+-------------------------------------------------------------------------+
+| Bronchodilatation        | - ↓Airway resistance                                                    |
+|                          | - Used in status asthmaticus                                            |
++--------------------------+-------------------------------------------------------------------------+
+| Uterine relaxation       | - ↑Bleeding during GA Caesarean (hence supplement with N~2~O, propofol) |
++--------------------------+-------------------------------------------------------------------------+
+
+#### Skeletal:
+
++------------------------+--------------------------------------------------------------------------------------------+
+| Mechanism              | - CNS and α-motor neurons: ↑GABA-A, ↑glycine                                               |
+|                        | - Pre-synaptic: ↓L-Ca^2+^ → ↓ACh release                                                   |
+|                        | - Post-synaptic: ↓nAChR                                                                    |
++------------------------+--------------------------------------------------------------------------------------------+
+| Immobility             | - Potentiates paralytics                                                                   |
+|                        | - Facilitates surgery                                                                      |
++------------------------+--------------------------------------------------------------------------------------------+
+| Hypoventilation        | - Relaxation of intercostals \> diaphragm                                                  |
+|                        | - Depression of chemoreceptors and respiratory centre                                      |
+|                        | - ↓↓Response to ↓PaO~2~                                                                    |
+|                        | - ↓Response to ↑PaCO~2~                                                                    |
++------------------------+--------------------------------------------------------------------------------------------+
+| Airway obstruction     | - ↓Pharyngeal dilator tone                                                                 |
+|                        | - Need for airway device                                                                   |
++------------------------+--------------------------------------------------------------------------------------------+
+| Malignant hyperthermia | - Rare, life-threatening hypermetabolic reaction to volatile anaesthetics or suxamethonium |
+|                        | - Mutation in RYR1 gene encoding skeletal muscle ryanodine receptor                        |
+|                        | - Continuous Ca^2+^ release from SR causing continuous contraction                         |
+|                        | - Idiosyncratic, not dose-dependent like all the above                                     |
++------------------------+--------------------------------------------------------------------------------------------+

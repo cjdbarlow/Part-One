@@ -124,7 +124,7 @@ All non-anatomical dead space volume is in the respiratory zone, and is **~30ml.
 * Gas flow in the terminal respiratory zone is slow due to the exponential increase in cross-sectional area with each airway division
     * Diffusion is the predominant mechanism of gas movement
 
-:::
+:::column-margin
 In the idealised **Weibel model**, each generation branches into two:
 
 | Structure               | Generation | Number     | Total airway cross-sectional area |

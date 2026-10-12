@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003B Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the pharmacological differences between neonates and adults with reference to sevoflurane, vecuronium and morphine.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} **Pharmacokinetic Differences** and **Pharmacodynamic Differences**, then apply them to **Sevoflurane**, **Vecuronium**, and **Morphine**. [**Define**]{.task-verb} the neonatal age group and [**compare**]{.task-verb} each relevant property with adults.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**42%** of candidates passed this question.
+
+In order to pass the candidate needed to make a number of correct statements pertaining to the question.
+
+These statements may have included, but are not limited to the following:
+
+- definition of neonate.
+- brief description of sevoflurane, vecuroniun and morphine.
+- definition of pharmacology-pharmacokinetics/dynamics.
+- kinetics: key differences between neonate and adult i.e. relativities of TBW, ECFV, comparison of protein binding, renal and hepatic clearance, different ratios of ventilation and FRC.
+- dynamics: different sensitivities to drugs, permeability of BBB, sensitivity of resp centre.
+- morphine: in neonate increased t1/2 increased respiratory depression and apnoea.
+- sevoflurane: more rapid induction in neonate, reduced blood gas solubility, MAC higher in neonate than adult.
+- Vecuronium: increased Vd reduced clearance increased t1/2 in neonate with increased sensitivity of neuromuscular junction. Net effect dose per kg similar to adult.
+
+Common omissions include widespread lack of definitions e.g. of neonate, drugs. No candidate referred to the effect of prematurity on neonatal drug effects.
+
+Common errors: Many candidates were unclear as to the relative sensitivities of neonates to non-depolarising muscle relaxants NDPMRs. Many stated MAC for sevoflurane is lower in neonates than adults. There was much confusion over the effect of an increase in Vd for a polar drug. Many candidates stated that morphine was a highly polar drug. Many stated that neonates have increased TBW and increased fat content compared to adults.
+
+Many answers appeared incomplete; suggesting that time management may have been an issue.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Alterations to Drug Response](/content/pharmacology/alterations_to_response.qmd)

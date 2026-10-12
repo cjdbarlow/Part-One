@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015B Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the physiological changes that may explain why an otherwise well patient may have a reduced urinary output intraoperatively.
+:::
+
+Also asked in: [2011B Question 15](/content/exams/anzca/2011/B/15/index.qmd#examiner-comments), [2015A Question 10](/content/exams/anzca/2015/A/10/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} physiological changes in filtration and reabsorption in an otherwise well patient. Start with determinants of urine output, then link anaesthesia, ventilation, fasting and surgical stress to renal perfusion and hormonal responses.
+
+::: {.structure-headings}
+### Urine Output and Glomerular Filtration
+
+### Renal Perfusion and Autoregulation
+
+### Reduced Filtration Intraoperatively
+
+### Antidiuretic Hormone and Water Conservation
+
+### Renin–Angiotensin–Aldosterone and Sympathetic Responses
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**63.6%** of candidates achieved a pass in this question
+
+This was a repeat question from the last exam and the pass rate trebled. The question requested a physiological outline incorporating basic sciences to explain this normal intraoperative occurrence.
+
+Answers that were based on the basics of Glomerular Filtration Rate and Tubular Reabsorption and how these are altered by the clinical situation and neuro-humoural responses scored well. This was because they tended to “outline physiological changes that may explain why an otherwise well patient may have a reduced urinary output intraoperatively”. However, answers that were based on generic pre-renal, renal and post-renal causes of oliguria often strayed into an imprecise clinical discussion ignoring the basic science physiological changes that were requested and did not score well. This was different to the responses provided by candidates in the previous examination when the examiners report stated that this was a successful answer plan in that cohort. Once again, discussions of pathology and surgical misadventure went unrewarded as the question states that the patient is otherwise well.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2011/B/15/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2011/B/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Renal blood flow](/content/renal/rbf.qmd)
+- [Glomerular filtration](/content/renal/glomerular_filtration.qmd)
+- [Renal endocrine functions](/content/renal/endocrine.qmd)

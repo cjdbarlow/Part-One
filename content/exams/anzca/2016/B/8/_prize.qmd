@@ -1,0 +1,39 @@
+#### List:
+
+- Diagramme
+- Function
+- Pros
+- Cons
+
++--------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Diagramme    | ![](/content/exams/anzca/2016/B/8/prize-image001.jpg){fig-alt="Vacuum insulated evaporator with relief valve, superheater and pressure regulator"} |
++--------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| How it works | **Storage of O~2~:**                                                                                                                               |
+|              |                                                                                                                                                    |
+|              | - Critical temp -118°C                                                                                                                             |
+|              | - Boiling point -180°C                                                                                                                             |
+|              | - Produced en masse by fractional distillation of air                                                                                              |
+|              | - Transported to VIE                                                                                                                               |
+|              | - Stored as liquid with saturated vapour                                                                                                           |
+|              | - Kept outside in gated area                                                                                                                       |
+|              |                                                                                                                                                    |
+|              | **If pressure too low:** (e.g. oxygen taken from pipeline supply)                                                                                  |
+|              |                                                                                                                                                    |
+|              | - If mild drop: vapourisation of liquid O2                                                                                                         |
+|              | - If severe drop: liquid O2 passed through pressure-raising vapouriser                                                                             |
+|              | - Vapourisation maintains low temperature                                                                                                          |
+|              | - Cold gaseous O2 passed through superheater (just coils exposed to ambient air, not actively heated)                                              |
+|              | - Alarms                                                                                                                                           |
+|              |                                                                                                                                                    |
+|              | **If pressure too high:**                                                                                                                          |
+|              |                                                                                                                                                    |
+|              | - Safety release valve 7atm                                                                                                                        |
+|              | - Pressure regulator 4atm                                                                                                                          |
+|              | - Alarms                                                                                                                                           |
++--------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Pros         | - Large capacity compared with cylinder manifold                                                                                                   |
+|              | - No active cooling required, very energy efficient                                                                                                |
++--------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Cons         | - Expensive                                                                                                                                        |
+|              | - Big                                                                                                                                              |
++--------------+----------------------------------------------------------------------------------------------------------------------------------------------------+

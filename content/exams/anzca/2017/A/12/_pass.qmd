@@ -1,0 +1,32 @@
+Lignocaine is an amide local anaesthetic agent. 
+
+Safe tissue dosage is recommended for subcutaneous dosage as 3mg/kg
+
+20ml of 2% (20mg/mL) → 400mg is a toxic dose.
+
+Administration of this dosage of intrathecal lignocaine will cause  massive CNS overdose and likely to cause systemic CVS toxicity. 
+
+Mechanism of action:
+
+Unionised Lignocaine diffuses across the nerve axon phospholipid membrane 
+
+In the axon → ionised and blocks Na channel in inactivated state 
+
+→ nerve inhibits depolarisation
+
+**CNS Effects (within minutes)**
+
+- Blockade of lumbar cord → thoracic → cervical → brainstem
+- Sensory and motor loss of spinal and cranial nerves 
+- Coma and in Medulla: paralysed resp centre, apnoea
+- Respiratory paralysis due to diaphragm and intercostal blockade
+- Airway reflexes lost due to blockade of glossopharyngeal and vagus nerve 
+
+**CVS:**
+
+- Sympathetic chain ganglion blockade → significant loss of SVR → ↓ mAP  
+- High thoracic block → ↓ HR ↓ inotropy and absent baroreceptor effect 
+
+**Possible Systemic CVS Toxicity:**
+
+Na channel blockers including ropivacaine are Class I antiarrhythmic agents and act at Phase 0 of the cardiac myocyte depolarisation → inhibits and decreases rate of depolarisation → bradycardia, AV conduction delay  → ↓HR/asystole and ↓mAP → cardiovascular collapse

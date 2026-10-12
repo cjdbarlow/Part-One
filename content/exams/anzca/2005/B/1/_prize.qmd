@@ -1,0 +1,46 @@
+#### List:
+
+- Isoflurane structure
+- Volatile structure-activity
+- Isoflurane metabolism
+
+#### Isoflurane structure:
+
+![](/content/exams/anzca/2005/B/1/prize-image001.jpg){fig-alt="Isoflurane chemical structure showing its halogenated ether backbone"}
+
+#### Volatile structure-activity:
+
++-----------------+------------------------------------------------------+
+| Physicochemical | - H: ↑flammable                                      |
+|                 | - F: ↓flammable                                      |
+|                 | - CHF~2~ + dry sodalime → carbon monoxide            |
++-----------------+------------------------------------------------------+
+| Pharmacokinetic | - C-F: resistant to oxidative metabolism → ↓toxicity |
++-----------------+------------------------------------------------------+
+| Pharmacodynamic | - H: ↑potent                                         |
+|                 | - F: ↓potent                                         |
+|                 | - Cl: ↓potent                                        |
++-----------------+------------------------------------------------------+
+
+#### Isoflurane metabolism:
+
++---------------+---------------------------------------------------------------------+
+| Proportion    | - Only 0.2%                                                         |
+|               |   - Low solubility                                                  |
+|               |   - Many C-F groups → resistance to metabolism                      |
+|               |   - Readily excreted by the lungs → less opportunity for metabolism |
++---------------+---------------------------------------------------------------------+
+| Location      | - Liver                                                             |
++---------------+---------------------------------------------------------------------+
+| Mode          | - Phase 1: mostly CYP2E1                                            |
++---------------+---------------------------------------------------------------------+
+| Metabolites   | - Trifluoroacetic acid                                              |
+|               | - Fluoride                                                          |
++---------------+---------------------------------------------------------------------+
+| Excretion     | - Lungs                                                             |
++---------------+---------------------------------------------------------------------+
+| Toxicity rare | In theory:                                                          |
+|               |                                                                     |
+|               | - Hepatotoxicity: antibody binds TFA (hapten) + hepatic proteins    |
+|               | - Nephrotoxicity: free fluoride → high output renal failure         |
++---------------+---------------------------------------------------------------------+

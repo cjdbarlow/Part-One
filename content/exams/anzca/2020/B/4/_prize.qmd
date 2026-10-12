@@ -1,0 +1,124 @@
+#### List:
+
+- Intro
+- Renal water handling
+- Iso-osmolar reabsorption
+- Countercurrent multiplication
+- Urea recycling
+- Countercurrent exchange
+- ADH
+
+#### Intro:
+
++---------+-----------------------------------------------------------------------------------+
+| Numbers | - Renal blood flow 7,200L/day                                                     |
+|         | - Glomerular filtration 180L/day                                                  |
+|         | - Urine output 1-3L/day                                                           |
++---------+-----------------------------------------------------------------------------------+
+| Summary | - Iso-osmolar absorption of the majority (cortical nephrons)                      |
+|         | - Variable concentration of the remainder (juxtamedullary nephrons)               |
+|         |   - Tonicity gradient created by countercurrent multiplication and urea recycling |
+|         |   - Tonicity gradient maintained by countercurrent exchange                       |
+|         |   - Variable water reabsorption ∝ \[ADH\]                                         |
++---------+-----------------------------------------------------------------------------------+
+
+#### Renal water handling:
+
++---------------------------------------+----------------+-----------------------------------------------------------------------+
+|                                       | **Proportion** | **Mechanism**                                                         |
++=======================================+================+=======================================================================+
+| Proximal tubule                       | 65%            | - Osmosis                                                             |
+|                                       |                | - Gradient established by basolateral Na^+^K^+^ATPase                 |
++---------------------------------------+----------------+-----------------------------------------------------------------------+
+| Thin descending limb of loop of Henle | 10%            | - Osmosis                                                             |
+|                                       |                | - Gradient established by Na^+^K^+^ATPase in thick ascending limb     |
++---------------------------------------+----------------+-----------------------------------------------------------------------+
+| Thick ascending limb of loop of Henle | \-             |                                                                       |
++---------------------------------------+----------------+-----------------------------------------------------------------------+
+| Distal convoluted tubule              | \-             |                                                                       |
++---------------------------------------+----------------+-----------------------------------------------------------------------+
+| Connecting tubule                     | \-             |                                                                       |
++---------------------------------------+----------------+-----------------------------------------------------------------------+
+| Collecting ducts                      | 5-24.7%        | - Osmosis                                                             |
+|                                       |                | - Dependent upon creation and preservation of hypertonic interstitium |
+|                                       |                | - Under control of ADH                                                |
++---------------------------------------+----------------+-----------------------------------------------------------------------+
+
+#### Iso-osmolar absorption:
+
++----------------+-------------------------------------------------------------------------------------------------------+
+| Location       | - Proximal tubule \>\> other                                                                          |
++----------------+-------------------------------------------------------------------------------------------------------+
+| Mechanism      | - Basolateral Na^+^K^+^ATPase establishes solute gradients                                            |
+|                | - Na^+^ reabsorption is paired with multiple osmolytes (K^+^, Cl^-^, HCO~3~^-^, glucose, amino acids) |
+|                | - Water follows by osmosis                                                                            |
++----------------+-------------------------------------------------------------------------------------------------------+
+| Autoregulation | i.e. glomerulotubular balance:                                                                        |
+|                |                                                                                                       |
+|                | - Fixed proportion (not amount) of glomerular filtrate is reabsorbed by the proximal tubule           |
+|                | - Prevents overwhelming of loop of Henle and distal nephron                                           |
+|                | - ? due to ↑glucose and amino acid filtration → ↑reabsorption paired with Na^+^                       |
+|                | - ? due to changes in oncotic pressure in the lateral intercellular space and peritubular capillaries |
++----------------+-------------------------------------------------------------------------------------------------------+
+
+#### Countercurrent multiplication:
+
++----------+---------------------------------------------------------------------------------------+
+| Step 1   | - Thick ascending limb is permeable to solute, not water                              |
+|          | - Filtered solute reabsorbed by 2° active transport (\~25% filtered Na^+^/Cl^-^/K^+^) |
+|          | - Passage via apical Na^+^K^+^2Cl^-^ symporter                                        |
+|          | - Basolateral Na^+^K^+^ATPase creates Na^+^ gradient                                  |
+|          | - Effects: ↓urine osmolality, ↑interstitial osmolality *to a level above normal*      |
++----------+---------------------------------------------------------------------------------------+
+| Step 2   | - Thin descending limb is permeable to H~2~O, not solute                              |
+|          | - Filtered H~2~O reabsorbed by osmosis (eventually 10% of that filtered)              |
+|          | - Effects: ↑urine osmolality, ↓interstial osmolality *but not back to starting level* |
++----------+---------------------------------------------------------------------------------------+
+| Steps 3+ | - Process is repeated hence amplified                                                 |
++----------+---------------------------------------------------------------------------------------+
+
+#### Urea recycling:
+
++---------------+--------------------------------------------------------------------------------------+
+| Urea handling | - Freely filtered                                                                    |
+|               | - 50% reabsorbed by proximal tubule                                                  |
+|               | - Same 50% secreted into thin descending loop of Henle                               |
+|               | - Same 50% reabsorbed in medullary collecting ducts via ureaporins (if ADH present)  |
++---------------+--------------------------------------------------------------------------------------+
+| Mechanism     | - Repeat transit between thin descending loop of Henle and medullary collecting duct |
+|               |   - Antegrade via the urine                                                          |
+|               |   - Retrograde via the interstitium                                                  |
+|               | - Multiple passages of each molecule before excretion → ↑interstitial osmolality\    |
+|               |   (as if several cars crowding a round-a-bout)                                       |
++---------------+--------------------------------------------------------------------------------------+
+
+#### Countercurrent exchange:
+
++-----------+-------------------------------------------------------------------------------------+
+| Principle | - Unidirectional rapid blood supply would cause dilution of interstitium by osmosis |
+|           | - Bidirectional slow flow minimizes dilution – i.e. vasa recta                      |
++-----------+-------------------------------------------------------------------------------------+
+| Mechanism | - Vasa recta exist alongside juxtamedullary nephrons                                |
+|           | - Descending limb: water lost, solute gained                                        |
+|           | - Ascending limb: water gained, solute lost                                         |
+|           | - Hence minimal change to interstitium                                              |
+|           | - (Note also some reabsorption into lymphatics)                                     |
++-----------+-------------------------------------------------------------------------------------+
+
+#### Anti-diuretic hormone (ADH):
+
++-----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Source          | - Produced by supra-optic and paraventricular nuclei of the hypothalamus                                                                                   |
+|                 | - Released by posterior pituitary                                                                                                                          |
++-----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Release stimuli | - ↑Osmolality (sensitive to ∆2%)                                                                                                                           |
+|                 | - ↓Blood volume (sensitive to ∆10% but overrides osmolality)                                                                                               |
+|                 | - ↓mAP                                                                                                                                                     |
+|                 | - Angiotensin 2                                                                                                                                            |
+|                 | - Stress response e.g. surgery                                                                                                                             |
+|                 | - Many drugs                                                                                                                                               |
++-----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Renal effects   | - Insertion of aquaporin 2 into apical membrane of collecting duct → ↑H~2~O reabsorption hence urine concentration                                         |
+|                 | - Insertion of ureaporin into apical membrane of medullary collecting duct → ↑urea recycling → ↑interstitial osmolality → ↑capacity for H~2~O reabsorption |
+|                 | - (Also ↑Na^+^ reabsorption in thick ascending loop of Henle)                                                                                              |
++-----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+

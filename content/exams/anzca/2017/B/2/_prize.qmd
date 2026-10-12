@@ -1,0 +1,53 @@
+#### List:
+
+- Variable bypass vapouriser: diagramme, how it works, why it’s needed
+- Temp compensation: what and why
+- Pressure compensation: what and why
+
+#### Variable bypass vapouriser:
+
++----------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Diagramme                  | ![](/content/exams/anzca/2017/B/2/prize-image001.jpg){fig-alt="Variable bypass vaporiser with dial-controlled splitting, bimetallic strip, liquid and wicks"} |
++----------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Vapouriser stream          | - Gas passes through volatile liquid; evaporation till SVP reached                                                                                            |
+|                            | - Ensure saturation: wicks, baffles, formerly bubbling gas through liquid                                                                                     |
+|                            | - SVP sevoflurane \~22%, lethal if not diluted                                                                                                                |
++----------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Bypass stream              | - Does not pass through volatile liquid                                                                                                                       |
++----------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Control of splitting ratio | - User-controlled dial alters resistance in vapouriser channel, corresponds to desired % or partial pressure                                                  |
+|                            | - e.g. splitting ratio 12:1 → \~2% sevoflurane                                                                                                                |
+|                            | - A bimetallic strip controls resistance to flow through the bypass channel                                                                                   |
+|                            | - Note device is less precise at very high \>15L/min or very low \<0.5L/min FGF rate                                                                          |
++----------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Need for controls          | - SVP of many drugs is deadly, e.g. sevoflurane 160mmHg = 21% = 10 MAC                                                                                        |
++----------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Temp compensation:
+
++--------------------+------------------------------------------------------------------------------------------------+
+| Why?               | - Latent heat of vapourisation → ↓ temp → ↓SVP → ↓volatile partial pressure                    |
+|                    | - (Gay-Lussac’s law: ↓temp → ↓SVP, non-linear relationship)                                    |
++--------------------+------------------------------------------------------------------------------------------------+
+| Bi-metallic strip  | - Controls resistance to flow through bypass channel                                           |
+|                    | - Two metal strips with different coefficients of thermal expansion                            |
+|                    | - ↓temp in device → ↑resistance to flow in bypass channel → restored partial pressure volatile |
++--------------------+------------------------------------------------------------------------------------------------+
+| Heat sink (copper) | - Provides latent heat of vapourisation                                                        |
+|                    | - Has high SHC: i.e. supply lots of heat → minimal ↓temp                                       |
+|                    | - Has high thermal conductivity → ↓minimal lag                                                 |
++--------------------+------------------------------------------------------------------------------------------------+
+
+#### Pressure compensation:
+
++------------+--------------------------------------------------------------------------------------------+
+| Why        | Pumping effect:                                                                            |
+|            |                                                                                            |
+|            | - ↑downstream pressure → gas forced back into vapouriser ± fresh gas supply → resaturation |
+|            | - ↑↑Volatile concentration → CVS depression, death                                         |
++------------+--------------------------------------------------------------------------------------------+
+| Prevention | - Check valve between vapouriser and circuit (↓ back flow)                                 |
+|            | - Reasonable length of tubing between vapouriser and circle                                |
+|            | - Inspiratory valve in circuit (↓ backpressure during expiration)                          |
+|            | - Pressure-limiting valves in circuit (APL valve if spont vent, APL bypass if PPV)         |
++------------+--------------------------------------------------------------------------------------------+

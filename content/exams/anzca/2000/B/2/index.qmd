@@ -1,0 +1,66 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000B Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the principles and sources of error in the measurement of arterial blood pressure using an automated oscillometric non-invasive monitor.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} **System Components**, **Measurement Sequence and Pressure Estimation**, and **Sources of Error**. Relate each error to its effect on the measurement rather than listing it alone.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**70%** of candidates passed this question. The main points expected were a description of the components of an oscillometric system (eg. cuff, tubing, device for inflating the cuff, a method to gradually deflate the cuff, a transducer for measurement of pressure and oscillations in pressure in the cuff, and a display), as well as an indication of how systolic, diastolic and mean pressures are determined using this system. Explaining that the maximum oscillation corresponded to the mean arterial pressure was considered fundamental. The main sources of error expected included inappropriate cuff size, irregular heart rhythms (particularly atrial fibrillation), patient movement including shivering, low output states, and inaccurate calibration. Some explanation of how these factors introduced error was required.
+
+Additional marks were awarded for commenting on the relative accuracy of systolic, diastolic and mean pressures, the limited accuracy in certain clinical scenarios, patient factors that affect accuracy, the use of algorithms to calculate systolic and diastolic pressures, and methods for reducing artifact. Similarly, additional marks were awarded for describing the optimal cuff size.
+
+Common mistakes were incomplete descriptions of the technique, or descriptions of different techniques such as detection of pressure changes using audible signals, ultrasonic methods, or oscillotonometry. Many candidates commented on the relative advantages and disadvantages of the technique, or the hazards of the technique. This was not required and no marks were awarded for this information.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Non-Invasive Blood Pressure](/content/equipment/nibp.qmd)

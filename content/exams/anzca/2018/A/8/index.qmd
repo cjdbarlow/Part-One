@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018A Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the pharmacology of intravenous metoprolol.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} metoprolol-specific pharmaceutics, kinetics and dynamics, keeping intravenous use central. Link receptor selectivity and organ effects to indications, adverse effects and relevant cautions.
+
+::: {.structure-headings}
+### Class, Selectivity and Intravenous Administration
+
+### Time Course, Distribution and Metabolism
+
+### Cardiovascular Actions
+
+### Other Organ Effects
+
+### Indications, Adverse Effects and Cautions
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**50%** of candidates achieved a pass in this question
+
+This question required an application of physiological and pharmacological knowledge, specific to metoprolol. The pass rate was 50% but there were few high-scoring answers.
+
+Errors were often related to confusion about the effect of specific beta receptors, or incorrect information specific to metoprolol as a beta-blocker. Most candidates had a good system for answering a question on a medication, however many candidates wrote vague information under these headings. Candidates are not expected to know detailed pharmacokinetic values for a medication such as metoprolol, but they are expected to know important pharmacokinetic points.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2018/A/8/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2018/A/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Beta-blockers](/content/pharmacopoeia/cvs/beta_blockers.qmd)

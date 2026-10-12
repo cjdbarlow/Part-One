@@ -1,0 +1,88 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007B Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the physical principles of ultrasound imaging.
+:::
+
+Also asked in: [2002B Question 14](/content/exams/anzca/2002/B/14/index.qmd#examiner-comments), [2010B Question 11](/content/exams/anzca/2010/B/11/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} the sequence from electrical signal and piezoelectric emission to tissue interaction, reception and image formation. Relate frequency, impedance, attenuation, resolution and Doppler shift to the resulting image.
+
+::: {.structure-headings}
+### Ultrasound Waves and Equations
+
+### Piezoelectric Transducer and Pulse Generation
+
+### Tissue Interactions and Echo Reception
+
+### Image Formation and Resolution
+
+### Doppler Principle and Equation
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**60%** of candidates passed this question.
+
+Main points expected:
+
+Definition of ultrasound and range of frequencies. Principle of ultrasound genesis, tissue passage and reception (piezoelectric crystal understanding) Mention of acoustic impedance (density and sound velocity), reflection (intensity related to degree of differences in tissue density, latency related to depth). Appreciation of relationship between velocity, frequency and wavelength. Ability to correctly describe relationship of wavelength (or frequency) regarding penetration versus resolution.
+
+Extra marks:
+
+for mention of Doppler mode and correct description of Doppler effect. Doppler equation was awarded points where the values were correctly explained. Ability to calculate cardiac output was only credited when the principle behind the calculation using Doppler and M Mode to calculate area of aortic valve was explained. Simple statements such as Doppler can be used to measure cardiac output scored no marks. Definition of attenuation and thus need for gel at air/tissue interface Understanding that 2D pictures require an array of crystals
+
+Common mistakes:
+
+Incorrect formulas Incorrect statements such as Doppler is used to measure flow followed by the equation which is solving for velocity. M mode is used for 2D or 3 D or 4 D! imaging. Many candidates spent wasted time listing advantages and disadvantages (not asked for and not worth any marks). Others spent too much time drawing sine waves with amplitude, wavelength and frequency and not enough time discussing the relationship between these.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2002/B/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Ultrasound](/content/equipment/ultrasound.qmd)

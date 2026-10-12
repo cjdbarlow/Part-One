@@ -1,0 +1,88 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016B Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the physiological processes that cause oliguria in response to hypovolaemic shock.
+:::
+
+Also asked in: [2009B Question 13](/content/exams/anzca/2009/B/13/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} oliguria through reduced renal perfusion and filtration, then increased sodium and water reabsorption. Link systemic haemodynamics, renal vascular responses and neuroendocrine mechanisms in a causal sequence.
+
+::: {.structure-headings}
+### Definitions and Systemic Haemodynamics
+
+### Renal Blood Flow and Filtration
+
+### Autoregulation and Sympathetic Responses
+
+### Renin–Angiotensin–Aldosterone System
+
+### ADH, Reabsorption and Possible Kidney Injury
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**33.5 %** of candidates achieved a pass in this question
+
+The question required candidates to provide definitions of oliguria and hypovolaemic shock followed by a succinct but detailed description of how hypovoalemia activated the sympathetic nervous system, with subsequent activation of the renin/angiotensin/aldosterone system (RAAS) and antidiuretic hormone (vasopressin) release, either from sympathetic stimulation, RAAS or changes in osmolarity.
+
+Ranges for oliguria varied from 0.5 mLs/Kg/Hr to 30 mLs/Kg/Hr. Most answers correctly defined shock as inadequate tissue perfusion, but some candidates still defined shock in terms of an absolute blood pressure.
+
+The commonest reason for a low scoring answer was purely inadequate detail. Most respondents were able to give a broad overview of the basic mechanisms but failed to elaborate. Simple statements such as ‘activation of RAAS’ or equations related to filtration coefficient and capillary pressures without explanations how they effected oliguria, in the setting of hypovolaemic shock, were insufficient to gain marks.
+
+Frequent mistakes included mentioning RAAS but then neglecting one or more of its components, suggesting renin converted angiotensin I to angiotensin II, only mentioning 1 or 2 actions of angiotensin II, and neglecting the actions of ADH at V1 receptors to mediate vasoconstriction.
+
+As in previous years, the range of renal autoregulation parameters, when given, was frequently incorrect. A minority of candidates gave the correct value (50-150 mmHg).
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2009/B/13/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2009/B/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Renal blood flow](/content/renal/rbf.qmd)
+- [Glomerular filtration](/content/renal/glomerular_filtration.qmd)
+- [Renal endocrine functions](/content/renal/endocrine.qmd)

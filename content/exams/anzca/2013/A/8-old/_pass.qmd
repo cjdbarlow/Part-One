@@ -1,0 +1,40 @@
+Morphine, codeine and methadone are all opioid analgesics.
+
+**Morphine**:
+
+Naturally occurring opiate.
+
+Metabolised predominantly in liver through glucuronidation by UGT2B7 to:
+
+- Morphine 3 glucuronide (70%) inactive
+- Morphine 6 glucuronide (10%), active metabolite and 13x more potent then morphine. 
+- It may also be metabolised to codeine and normorphine 
+
+**Codeine**:
+
+Codeine is an opiate with minimal intrinsic activity, its predominant analgesic effect is from it metabolism to morphine. 
+
+Its undergoes 
+
+- Glucuronidation to codeine-6­ glucuronide (70%)
+- Metabolised hepatically by CYP2D6  to active morphine (10%) → Glucuronidation M3G and M6G (active)
+- Metabolised hepatically by CYP3A4  to norcodeine (10%) not active 
+
+Importantly the CYP2D6 metabolism demonstrates significant genetic polymorphism with people being 
+
+- poor metabolisers  \~10% Caucasian population and 30% Hong Kong Chinese 
+- intermediate metabolisers \~10% Caucasian population up to 50% Asians 
+- extensive metabolisers (normal) \~80% Caucasian population
+- rapid metabolisers 1-2% Caucasian population and Asian, 20-30% of Saudi and North African 
+
+Poor metabolisers with have limited analgesic effects from codeine while rapid metabolisers may have excess effect and subsequent side effects.
+
+**Pethidine**
+
+Pethidine is a synthetic opioid.
+
+Undergoes hepatic metabolism to norpethadine
+
+Norpethidine has 50% potency of pethidine and Neuro-excitatory properties including seizures and hallucinations  
+
+may accumulate in renal failure

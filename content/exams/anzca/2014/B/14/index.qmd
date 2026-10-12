@@ -1,0 +1,74 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014B Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the effects of intravenously administering 500 ml of 20% mannitol. [**Outline**]{.task-verb} the potential problems associated with its use.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} the effects and potential problems separately, following the initial volume expansion and subsequent diuresis.
+
+::: {.structure-table}
+| System | Effects and Their Timing | Potential Problems |
+|---|---|---|
+| Plasma Osmolarity and Fluid Compartments | | |
+| Renal Tubules and Electrolytes | | |
+| Circulation | | |
+| Brain | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**67 %** of candidates achieved a pass in this question
+
+It was difficult to pass this questions without addressing both parts; specifically, effects and potential problems. Most successful candidates identified 20% mannitol as an osmotic diuretic. An outline of its effects was ideally presented under headings that included effects on plasma osmolarity and the renal tubules. Better responses identified the phasic nature of mannitol’s effects. An outline of cardiovascular effects via volume load and subsequent plasma expansion was also rewarded. However, lengthy and intricate discussions of Starling’s forces, baroceptor reflexes, and the cellular mechanisms of natriuretic peptides and anti-diuretic hormone were usually at the expense of scoring elsewhere. More detailed physiological discussions often become self-contradictory. Despite identifying mannitol as an osmotic diuretic, some argued that it works at the renal tubule via an osmoreceptor response that upregulates antiduretic hormone sectretion in the pituitary. Potential problems associated with use were best identified separately, either as a discrete section or contrasted against the effects. These problems could be outlined under headings that included: circulatory overload, dehydration and hypovolaemia, electrolyte disturbances, and rebound effects.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2014/B/14/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2014/B/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Diuretics](/content/pharmacopoeia/renal/diuretics.qmd)
+- [Intravenous fluids](/content/pharmacopoeia/renal/intravenous_fluids.qmd)

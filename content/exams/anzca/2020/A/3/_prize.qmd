@@ -1,0 +1,153 @@
+#### Intro:
+
++--------+--------------------------------------------------------+
+| Normal | - Gap in health 2-5mmHg (PaCO~2~ \> etCO~2~)           |
+|        | - Due to alveolar, anatomical and apparatus dead space |
++--------+--------------------------------------------------------+
+| Causes | 1.  Dead space                                         |
+|        | 2.  Incomplete alveolar emptying                       |
+|        | 3.  Measurement error                                  |
+|        | 4.  Sampling error                                     |
++--------+--------------------------------------------------------+
+
+#### 1.Dead space:
+
++-----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Definition      | - That portion of the tidal volume that does not undergo gas exchange                                                                                                                       |
++-----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Components      | - Apparatus dead space (distal to Y piece)                                                                                                                                                  |
+|                 | - Physiological dead space                                                                                                                                                                  |
+|                 |   - Anatomical dead space (conducting airways)                                                                                                                                              |
+|                 |   - Alveolar dead space (non-perfused alveoli)                                                                                                                                              |
++-----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Pathophysiology | - Ideal alveolus: PACO~2~ = PaCO~2~ ≈40mmHg                                                                                                                                                 |
+|                 | - Dead space: PACO~2~ ≈ 0.4mmHg                                                                                                                                                             |
+|                 | - End-tidal air is a mix of both, hence etCO~2~ \< PaCO~2~                                                                                                                                  |
++-----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Measurement     | ***Physiological:***                                                                                                                                                                        |
+|                 |                                                                                                                                                                                             |
+|                 | - Bohr equation: V~D~/V~T~ = (PACO~2~ – PECO~2~) / PACO~2~                                                                                                                                  |
+|                 |   - If PA = ideal alveolar gas → measure of anatomical dead space                                                                                                                           |
+|                 |   - If PA = end-expiratory gas → measure of physiological dead space                                                                                                                        |
+|                 | - Enghoff modification: substitute PaCO~2~ for PACO~2~                                                                                                                                      |
+|                 |   - Measure of physiological dead space                                                                                                                                                     |
+|                 |   - Assumes stable cardiac output                                                                                                                                                           |
+|                 |   - Assumes PaCO2 = (ideal) PACO~2~\                                                                                                                                                        |
+|                 |     Hence inaccurate if large shunt                                                                                                                                                         |
+|                 |                                                                                                                                                                                             |
+|                 | ***Anatomical:***                                                                                                                                                                           |
+|                 |                                                                                                                                                                                             |
+|                 | - Estimated by Fowler’s method                                                                                                                                                              |
+|                 | - Volume of gas exhaled before pCO~2~ reaches a plateau                                                                                                                                     |
+|                 | - Normal 2mL/kg                                                                                                                                                                             |
+|                 |                                                                                                                                                                                             |
+|                 | ![](/content/exams/anzca/2020/A/3/prize-image001.jpg){fig-alt="Fowler anatomical dead space measurement from carbon dioxide concentration against exhaled volume with equal areas a and b"} |
+|                 |                                                                                                                                                                                             |
+|                 | ***Alveolar:***                                                                                                                                                                             |
+|                 |                                                                                                                                                                                             |
+|                 | - V~D~ = physiological - anatomical                                                                                                                                                         |
+|                 | - Minimal if healthy and conscious                                                                                                                                                          |
+|                 |                                                                                                                                                                                             |
+|                 | ***Apparatus:***                                                                                                                                                                            |
+|                 |                                                                                                                                                                                             |
+|                 | - Estimable using product information                                                                                                                                                       |
++-----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Alveolar DS     | ***a.k.a. West Zone 1**:*                                                                                                                                                                   |
+|                 |                                                                                                                                                                                             |
+|                 | - PA \> Pa \> Pv                                                                                                                                                                            |
+|                 | - hence vascular collapse                                                                                                                                                                   |
+|                 | - Small volume near apices in health when upright                                                                                                                                           |
+|                 |                                                                                                                                                                                             |
+|                 | ***↑PA if:***                                                                                                                                                                               |
+|                 |                                                                                                                                                                                             |
+|                 | - IPPV (∝ airway pressure)                                                                                                                                                                  |
+|                 |                                                                                                                                                                                             |
+|                 | ***↓Pa if:***                                                                                                                                                                               |
+|                 |                                                                                                                                                                                             |
+|                 | - Pulmonary vasodilators (e.g. milrinone)                                                                                                                                                   |
+|                 | - Negative inotropes (e.g. propofol)                                                                                                                                                        |
+|                 | - Reduced venous return (e.g. hypovolaemia)                                                                                                                                                 |
+|                 |                                                                                                                                                                                             |
+|                 | ***Effect of GA:***                                                                                                                                                                         |
+|                 |                                                                                                                                                                                             |
+|                 | - ↔Non-ventilated alveoli                                                                                                                                                                   |
+|                 | - ↑Hypoventilated alveoli (due to maldistribution of V and Q)                                                                                                                               |
++-----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Anatomical DS   | ***Cause of absolute increase:***                                                                                                                                                           |
+|                 |                                                                                                                                                                                             |
+|                 | - ↑Tidal volume (plateau at V~T~ \~350mL)                                                                                                                                                   |
+|                 | - Bronchodilation (sevoflurane, pregnancy)                                                                                                                                                  |
+|                 |                                                                                                                                                                                             |
+|                 | ***Cause of absolute decrease:***                                                                                                                                                           |
+|                 |                                                                                                                                                                                             |
+|                 | - ↓↓Tidal volume                                                                                                                                                                            |
+|                 |   - Axial streaming                                                                                                                                                                         |
+|                 |   - Cardiac impulse → mixing                                                                                                                                                                |
+|                 |                                                                                                                                                                                             |
+|                 | (Note ↓V~T~ increases relative dead space)                                                                                                                                                  |
+|                 |                                                                                                                                                                                             |
+|                 | - LMA or ETT (bypasses upper airway)                                                                                                                                                        |
++-----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Apparatus DS    | - Device and tubing distal to Y junction                                                                                                                                                    |
+|                 | - Important in small children                                                                                                                                                               |
+|                 | - ETT/LMA: V~D~ is 1/2 of V~T~                                                                                                                                                              |
+|                 | - Face mask: V~D~ is 2/3 of V~T~                                                                                                                                                            |
++-----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### 2.Incomplete alveolar emptying:
+
++------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Causes                       | - ↑Variation in time constants (e.g. asthma, COPD)                                                                                                   |
+|                              | - ↓Expiratory time (↑RR, ↓IE ratio)                                                                                                                  |
+|                              | - (especially if both are present)                                                                                                                   |
++------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↑Variation in time constants | - Time constant (τ) = resistance x compliance                                                                                                        |
+|                              | - Slow lung units: ↑R,↑C                                                                                                                             |
+|                              |   - Slow rate of change                                                                                                                              |
+|                              |   - ↓Ventilation                                                                                                                                     |
+|                              |   - ↑pCO~2~                                                                                                                                          |
+|                              |                                                                                                                                                      |
+|                              | *              Empties late in expiration*                                                                                                           |
+|                              |                                                                                                                                                      |
+|                              | - Fast lungs units: ↓R,↓C                                                                                                                            |
+|                              |   - Fast rate of change                                                                                                                              |
+|                              |   - ↑Ventilation                                                                                                                                     |
+|                              |   - ↓pCO~2~                                                                                                                                          |
+|                              |                                                                                                                                                      |
+|                              | *Empties early in expiration*                                                                                                                        |
+|                              |                                                                                                                                                      |
+|                              | - Hence variation → ↑α angle                                                                                                                         |
+|                              |                                                                                                                                                      |
+|                              | ![](/content/exams/anzca/2020/A/3/prize-image002.jpg){fig-alt="Capnogram showing increased time constant variation and a shortened expiratory time"} |
++------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### 3.Measurement error:
+
++----------------------+--------------------------------------------------------------------------+
+| Confusion            | - N~2~O 4.5μm, CO 4.7μM (causes falsely high pCO~2~)                     |
+|                      | - H~2~O vapour absorbs widely (causes falsely high pCO~2~)               |
+|                      | - Inhaler propellant and halothane                                       |
+|                      | - FIX: reference chamber AND water trap                                  |
++----------------------+--------------------------------------------------------------------------+
+| Collision broadening | - Widening of the absorption peak for one gas in the presence of another |
+|                      | - Due to collision between molecules raising their energy level          |
+|                      | - 50% N~2~O widens CO~2~’s absorption peak by 10%                        |
+|                      | - FIX: use reference chambers                                            |
++----------------------+--------------------------------------------------------------------------+
+| Ram-gas effect       | - Pressure-drop across the sampling line                                 |
+|                      | - ↓ total pressure inside sample chamber → ↓ CO~2~ partial pressure      |
++----------------------+--------------------------------------------------------------------------+
+| Calibration failure  | - FIX: auto regular three point calibration                              |
++----------------------+--------------------------------------------------------------------------+
+
+#### 4.Sampling error:
+
++-----------------+-------------------------------------------------------------------+
+| Dilution by FGF | - Sampling of FGF may occur in expiration if high RR and low V~T~ |
+|                 | - e.g. neonates and young children                                |
++-----------------+-------------------------------------------------------------------+
+| Disconnection   | - Complete disconnection: ambient air                             |
+|                 | - Partial disconnection: entrainment of some room air             |
++-----------------+-------------------------------------------------------------------+
+| Blockage        | - By water condensation                                           |
++-----------------+-------------------------------------------------------------------+

@@ -1,0 +1,91 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004A Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the effects of liver failure on drug kinetics and dynamics.
+:::
+
+Also asked in: [2011A Question 3](/content/exams/anzca/2011/A/3/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} kinetic changes under absorption, distribution, metabolism and excretion, then address altered sensitivity. Link each change to its direction of effect and an example, distinguishing extraction ratios and associated renal dysfunction.
+
+::: {.structure-headings}
+### Absorption and Bioavailability
+
+### Distribution and Protein Binding
+
+### Metabolism and Hepatic Extraction
+
+### Biliary and Renal Excretion
+
+### Pharmacodynamic Changes
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**52%** of candidates passed this question.
+
+The effects on kinetics to outline included:
+
+- Absorption; decreased absorption eg; Vit K
+- Bioavailability; decreased first pass metabolism
+- Metabolism and decreased clearance; decreased enzymatic degradation with decreased clearance of low extraction ratio drugs, decreased hepatic blood flow and decreased clearance of high extraction ratio drugs, decreased pseudocholinesterase levels, decreased biliary excretion and potentially decreased renal clearance
+- Distribution; increased volume of distribution for water soluble drugs, decreased levels of albumin and acid glycoprotein with decreased protein binding
+
+The effects on dynamics to outline included:
+
+- Encephalopathy and potential interaction with CNS depressants
+- Coagulopathy and potential drug interactions
+- Potential for increased hepatotoxicity
+
+Candidates frequently did not outline the effects on metabolism, biliary excretion, protein binding and pharmacodynamics.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2004/A/5/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Liver function](/content/git/liver_function.qmd)

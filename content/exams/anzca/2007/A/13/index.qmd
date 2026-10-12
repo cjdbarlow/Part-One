@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007A Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the determinants of Venous Return and the effect general anaesthesia would have on these.
+:::
+
+Also asked in: [2015A Question 14](/content/exams/anzca/2015/A/14/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} venous return using its pressure–resistance relationship and a labelled curve. Explain determinants of mean systemic filling pressure, right atrial pressure and resistance, placing the effects of anaesthesia alongside each.
+
+::: {.structure-headings}
+### Equation and Venous Return Curve
+
+### Mean Systemic Filling Pressure
+
+### Right Atrial Pressure
+
+### Resistance to Venous Return
+
+### Effects of General Anaesthesia and Ventilation
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**60%** of candidates passed this question.
+
+In general candidates answered the question fairly well, reflecting an understanding of a physiological variable of major clinical relevance to anaesthetists.
+
+The most successful approach used to answer this question was to address specific physiological and anatomical factors, which influence venous return (e.g. blood volume, venous tone, posture). The inclusion of simple formulae (e.g. VR = MSFP-RAP/RVR, Guytonian model) allowed these factors to be related to an effect on VR, and readily demonstrated a good comprehension of the issues. Whilst obvious factors (such as venous tone) were usually mentioned, common omissions included intrathoracic pressures, venous valves and muscle pumps, all important factors both physiologically and in a clinical anaesthesia setting.
+
+Guyton curves were used by some candidates. They did illustrate some factors quite well, but for some candidates the time spent with these curves came at the expense of descriptions of either how some determinants actually affected VR or ommission of specific determinants such as venous valves or posture. Most candidates were able to relate the responses to the first part of the question to the second part (effects of anaesthesia). Major omissions or errors in answering the first part often carried over into effects of anaesthesia.
+
+A few candidates provided the answer in table form, with each determinant listed along with its effects on VR and changes with anaesthesia. Whilst this approach provided succinct answers, it sometimes proved difficult to describe the net effect of individual determinants using this somewhat abbreviated format.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2007/A/13/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/A/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Venous return](/content/cvs/venous_return.qmd)

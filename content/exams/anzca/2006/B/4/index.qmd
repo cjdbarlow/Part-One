@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006B Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the advantages and disadvantages of rocuronium for rapid sequence induction.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} advantages and disadvantages specifically for rapid sequence induction. Use suxamethonium as the main comparator and link rocuronium dose to onset, duration and the implications of prolonged paralysis.
+
+::: {.structure-headings}
+### Purpose of Rapid Sequence Induction
+
+### Dose and Intubating Conditions
+
+### Duration, Reversal and Failed Airway Implications
+
+### Advantages over Suxamethonium
+
+### Other Disadvantages and Practical Considerations
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**28 %** of candidates passed this question.
+
+Most candidates failed because they wrote about the pharmacology of rocuronium without addressing the advantages and disadvantages with regard to rapid sequence induction. It was noted that the better answers were more focused and usually started by stating that rapid sequence induction was a technique designed to secure the airway quickly in patients at risk of aspiration, classically using suxamethonium to cause rapid paralysis.
+
+Rocuronium was usually compared with suxamethonium, but candidates should also have noted why rocuronium is currently preferred to alternative drugs when suxamethonium is absolutely contraindicated.     Some candidates wasted pages describing all the side effects of suxamethonium that could be avoided with rocuronium. Answers should have indicated the likely doses required for rapid sequence induction because this would determine the onset and offset of neuromuscular block. There was large variation in the times given for onset and offset of block for both suxamethonium and rocuronium. Some answers did not explain why the long duration of action with rocuronium could be a disadvantage.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2006/B/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neuromuscular blockers](/content/msk/neuromuscular_blockers.qmd)

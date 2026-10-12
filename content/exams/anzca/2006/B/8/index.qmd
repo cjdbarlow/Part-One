@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006B Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the pathogenesis and management of paracetamol toxicity.
+:::
+
+Also asked in: [2011B Question 4](/content/exams/anzca/2011/B/4/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Toxic Dose and Risk Factors**, **Metabolic Pathways and Cellular Injury**, and **Clinical Toxicity**. Then [**describe**]{.task-verb} **Management**, including assessment, N-acetylcysteine, the nomogram and monitoring.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**86 %** of candidates passed this question.
+
+Most candidates exhibited a sound knowledge of the pathogenesis and toxicity of paracetamol. Many candidates wrote at length about the general pharmacokinetics of paracetamol. This did not attract marks.
+
+Marks were given for the following points:
+
+- Toxic dose, expressed ideally in mg/kg or a single toxic dose for adults.
+- Differentiation between a toxic dose and a fatal dose.
+- Normal metabolic pathway of paracetamol.
+- Overdose and relationship of minor metabolic pathway with production of toxic metabolite.
+- Conditions which may exacerbate toxicity.
+- Cellular mechanism of hepatic toxicity.
+- Other features of toxicity e.g. contribution of paracetamol to chronic renal failure.
+- General management issues of drug overdose.
+- Role of N-acetyl cysteine and use of normogram.
+- Monitoring and tests e.g. risk of hypoglycaemia.
+
+It was hard to score very highly without mentioning a toxic dose. When fatal doses were mentioned, the range given was from 7 to 30g for an adult. No candidate mentioned the importance of dose/kg reflecting ideal body weight, and precautions in obese patients or children on long-term paracetamol use. Very few candidates mentioned renal toxicity.
+
+Common errors referred to the metabolism of paracetamol to phenacetin, usefulness of dialysis and urine pH manipulation in overdose.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Paracetamol](/content/pharmacopoeia/analgesics/paracetamol.qmd)

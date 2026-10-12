@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004A Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the effects of isoflurane on intracranial metabolism, intracranial haemodynamics, intracranial pressure and the EEG.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the dose-dependent intracranial effects in four sections. Use labelled graphs to connect metabolism and cerebral blood flow to intracranial pressure, then relate EEG changes to increasing MAC.
+
+::: {.structure-headings}
+### Cerebral Metabolism
+
+### Cerebral Blood Flow and Autoregulation
+
+### Intracranial Pressure and Carbon Dioxide
+
+### EEG Changes with Increasing MAC
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**71%** of candidates passed this question.
+
+This question examined core material relating to a commonly used inhalational anaesthetic agent.
+
+The main points expected included; significant dose-dependent reduction in cerebral metabolism by isoflurane, indication of direct and indirect influences on cerebral blood flow with cerebral vasodilatation and increasing cerebral blood flow at 1 MAC, maintenance of autoregulation at low concentrations, increased intracranial pressure in parallel with increasing cerebral blood flow, influence of CO~2~ on intracranial pressure and EEG features of an initial increase in frequency followed by decreased frequency and increased amplitude then burst suppression and electrical silence with increasing MAC. Additional marks were awarded for; demonstrating points with clearly labelled graphs, correlating effects with MAC values, noting increasing supply:demand of cerebral blood flow with increasing MAC, noting possible increased reabsorption of CSF with no effect on CSF production and noting the anticonvulsant action of isoflurane.
+
+Some candidates were unclear about the final balance of the major determinants of cerebral blood flow and intracranial pressure, indicating that flow and pressure were reduced by isoflurane. Many did not indicate that the ICP rise could be attenuated by hypocarbia.
+
+No credit was given for irrelevant information about the structure and physicochemical properties of isoflurane supplied by many candidates.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2004/A/1/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Cerebral blood flow](/content/cvs/cerebral_blood_flow.qmd)
+- [Inhalational anaesthetics](/content/pharmacopoeia/neuro/inhalational_anaesthetics.qmd)

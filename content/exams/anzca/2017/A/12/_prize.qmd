@@ -1,0 +1,84 @@
+#### List:
+
+- Intro
+- Nervous
+- CVS
+- Resp
+- Other
+
+#### Intro:
+
++-------------+-------------------------------------------------------------+
+| Dose        | - 20mg/mL x 20mL = 400mg = 5.7mg/kg                         |
+|             |                                                             |
+|             | (exceeds toxic subcut dose)                                 |
++-------------+-------------------------------------------------------------+
+| Effects     | - CSF effects \>\> systemic effects                         |
+|             | - Blockade of lumbar cord → thoracic → cervical → brainstem |
++-------------+-------------------------------------------------------------+
+| Time course | - Total spinal within \~10 mins                             |
+|             | - Duration \~ 2 hours (shorter than many operations)        |
++-------------+-------------------------------------------------------------+
+
+#### Nervous system:
+
++-----------------------+------------------------------------------------------+
+| Lower body            | - Sensory and motor loss                             |
+|                       | - Muscle relaxation facilitates surgical access      |
++-----------------------+------------------------------------------------------+
+| Upper body            | - Sensory \> motor loss                              |
+|                       |                                                      |
+| Head and neck         |                                                      |
++-----------------------+------------------------------------------------------+
+| Cranial nerves        | - CNX (pharynx and larynx for intubation)            |
+|                       | - CNIII EW (mydriasis)                               |
++-----------------------+------------------------------------------------------+
+| Medulla               | - Block ascending reticular activating system → coma |
++-----------------------+------------------------------------------------------+
+| Delayed complications | - Risk of transient neurological symptoms            |
+|                       |   - Buttock and thigh pain without neuro deficit)    |
++-----------------------+------------------------------------------------------+
+
+#### Cardiovascular:
+
++----------------------------------+----------------------------------------------------------------------------------------+
+| Lumbar and low thoracic level    | - Venodilatation → ↓preload (exacerbated by hypovolaemia)                              |
+|                                  | - Vasodilatation → ↓SVR                                                                |
+|                                  | - ↓mAP                                                                                 |
+|                                  | - Reflex ↑HR may be significant (baroreceptor response)                                |
++----------------------------------+----------------------------------------------------------------------------------------+
+| High thoracic and cervical level | - ↓HR and ↓contractility (acceleromotor T1-4)                                          |
+|                                  | - ↓↓mAP                                                                                |
+|                                  | - Absent baroreceptor response                                                         |
++----------------------------------+----------------------------------------------------------------------------------------+
+| Brainstem level                  | - Zero SNS output (RVLM), zero PSNS output (dorsal motor nucleus and nucleus ambiguus) |
+|                                  | - ↓↓mAP                                                                                |
+|                                  | - HR at intrinsic SA node rate 110bpm, absent baroreceptor response                    |
+|                                  |                                                                                        |
+|                                  | (this is from first principles – I have no evidence for it)                            |
++----------------------------------+----------------------------------------------------------------------------------------+
+
+#### Respiratory:
+
++----------------------+-------------------------------------------------------------------------------+
+| Thoracic level       | - Intercostal paralysis                                                       |
++----------------------+-------------------------------------------------------------------------------+
+| Upper cervical level | - C3-5: diaphragm paralysis                                                   |
+|                      | - (Note phrenic nerve is large and resistant to blockade)                     |
++----------------------+-------------------------------------------------------------------------------+
+| Brainstem level      | - CNIX, X: ↓↓airway reflexes, glottic opening, risk aspiration if unprotected |
+|                      | - CNIII: dilated pupils                                                       |
+|                      | - Medulla: paralysed resp centre, apnoea                                      |
++----------------------+-------------------------------------------------------------------------------+
+
+#### Other:
+
++-----------------+--------------------------------------------------------------------------------+
+| Musculoskeletal | - ↓↓Muscle tone → improved surgical access                                     |
++-----------------+--------------------------------------------------------------------------------+
+| GIT             | - ↓PSNS output → ↓GIT activity                                                 |
++-----------------+--------------------------------------------------------------------------------+
+| Temp            | - Vasodilatation, venodilatation, → peripheral heat distribution → ↑↑heat loss |
++-----------------+--------------------------------------------------------------------------------+
+| Systemic effect | - Risk of CVS toxicity: conduction delay, re-entrant tachyarrhythmias, arrest  |
++-----------------+--------------------------------------------------------------------------------+

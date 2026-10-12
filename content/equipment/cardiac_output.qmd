@@ -41,7 +41,6 @@ Various different designs exist. For CO measurement, they require:
     To float it into position.
     * A distal (PA) port is required for measuring PAP and the PCWP, but is not required for CO calculation
 
-:::
 : Pressure Changes during PAC Insertion
 
 |  Position  |                                         Waveform                                         | Typical pressure (mmHg) |
@@ -50,7 +49,6 @@ Various different designs exist. For CO measurement, they require:
 | **RV**     | Sharp systolic rise with low diastolic pressure                                          | 15-25/0-8               |
 | **PA**     | Similar systolic pressure to the RV, with higher diastolic pressure and a dicrotic notch | 15-25/8-15              |
 | **Wedged** | Low-pressure atrial waveform                                                             | Mean 6-12               |
-:::
 
 ### Cardiac Output Measurement by Thermodilution {#stew}
 

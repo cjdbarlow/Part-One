@@ -1,0 +1,67 @@
+#### Intro:
+
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| Mechanism        | - Vitamin K epoxide reductase inhibitor                                                                                                     |
+|                  |                                                                                                                                             |
+|                  | ![](/content/exams/anzca/2020/A/6/prize-image001.jpg){fig-alt="Vitamin K cycle showing vitamin K epoxide reductase inhibition by warfarin"} |
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| Factors affected | - Procoagulants: II (60h), VII (6h), IX (24h), X (36h)                                                                                      |
+|                  | - Anticoagulants: protein C (8h), protein S (30h)                                                                                           |
+| (half life)      |                                                                                                                                             |
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Reversal considerations:
+
++--------------+------------------------------------------------------------------------------+
+| Determinants | - Urgency of surgery                                                         |
+|              | - Active bleeding                                                            |
+|              | - Degree of reversal required (e.g. neuraxial vs superficial)                |
++--------------+------------------------------------------------------------------------------+
+| Monitoring   | - INR is sensitive to factor VII (short t~1/2~) \>\> factor II (long t~1/2~) |
+|              | - Hence INR will normalise before coagulation is restored                    |
+|              | - Hence need INR ≤1.2 for safe neuraxial block after stopping warfarin\      |
+|              |   (source: ASRA guidelines)                                                  |
++--------------+------------------------------------------------------------------------------+
+
+#### Reversal options:
+
++-----------------+-------------------------------------------------------------------------------------------------------------------------+
+| 1.Expectant     | - i.e. drug washout → regenerate Vit K → regenerate clotting factors                                                    |
+|                 | - t~1/2β~ 40 hours → offset in 5 days                                                                                   |
+|                 | - ↑Duration if: Vit K deficient e.g. malnourished, CYP inhibitor (e.g. cimetidine), CYP competition e.g. amiodarone     |
+|                 | - ↓Duration if: CYP inducer (e.g. barbiturates)                                                                         |
+|                 | - Can operate immediately if a) low risk of bleeding b) benign consequences of bleeding c) easily compressible site     |
+|                 | - Pro: ↓risk thrombotic events, less disruptive to patient                                                              |
+|                 | - Con: slow offset, ↑risk surgical bleeding                                                                             |
++-----------------+-------------------------------------------------------------------------------------------------------------------------+
+| 2.Vitamin K     | - i.e. replenish substrate → regenerate clotting factors                                                                |
+|                 | - PO 1-2mg for effect in 12-24 hours                                                                                    |
+|                 | - IV 5-10mg for effect in 6-12 hours                                                                                    |
+|                 | - Pro: fairly rapid reversal, obviates risks of blood products                                                          |
+|                 | - Con: insufficient if very high INR or if active bleeding, difficult to restart warfarin after a big dose of Vitamin K |
++-----------------+-------------------------------------------------------------------------------------------------------------------------+
+| 2.FFP           | - Contains all clotting factors                                                                                         |
+|                 | - IV 15-30mL/kg (or 2-4mL/kg if with prothrombinex)                                                                     |
+|                 | - Also give Vit K to avoid rebound anticoagulation                                                                      |
+|                 | - Pro: immediate                                                                                                        |
+|                 | - Con: 15-30mL/kg = risk of TACO, risks of allogeneic transfusion                                                       |
++-----------------+-------------------------------------------------------------------------------------------------------------------------+
+| 3.Prothrombinex | - Contains factors 2, 9, 10                                                                                             |
+|                 | - IV 25-50 units/kg                                                                                                     |
+|                 | - Also give Vit K to avoid re-bound anticoagulation                                                                     |
+|                 | - Pro: immediate, universally compatible                                                                                |
+|                 | - Con: factor 7 absent in Australian PCC                                                                                |
++-----------------+-------------------------------------------------------------------------------------------------------------------------+
+| 4.FEIBA         | - Contains active factor 7a, inactive factors 2,9,10                                                                    |
+|                 | - IV 50-100 units/kg                                                                                                    |
+|                 | - Also give Vit K to avoid rebound anticoagulation                                                                      |
+|                 | - Pro: contains all deficient coag factors                                                                              |
+|                 | - Con: less data for warfarin reversal                                                                                  |
++-----------------+-------------------------------------------------------------------------------------------------------------------------+
+| 5.Novoseven     | - Activated Factor 7a                                                                                                   |
+|                 | - IV 50mcg/kg                                                                                                           |
+|                 | - Given in addition to FFP and/or prothrombinex                                                                         |
+|                 | - Only if persistent uncontrollable haemorrhage despite all other physiological, pharmacological and surgical efforts   |
+|                 | - Pro: immediate                                                                                                        |
+|                 | - Con: very expensive, short half life, high risk of thrombotic complications                                           |
++-----------------+-------------------------------------------------------------------------------------------------------------------------+

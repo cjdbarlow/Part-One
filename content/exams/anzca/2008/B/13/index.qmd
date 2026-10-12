@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008B Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the concept of time constants and [**relate**]{.task-verb} these to “fast” and “slow” alveoli
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} a time constant mathematically and [**relate**]{.task-verb} resistance and compliance to fast and slow lung units. Use filling curves to show the consequences of heterogeneity and changes in respiratory rate.
+
+::: {.structure-headings}
+### Definition and Equation
+
+### Fast and Slow Units
+
+### Resistance and Compliance Determinants
+
+### Heterogeneity and Dynamic Compliance
+
+### Capnogram and Airway Pressure Evidence
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**40%** of candidates passed this question. The answer should include:
+
+- An objective (mathematically-based) definition of a time constant,
+- In relation to lung units, the time constant is often defined as the product of compliance and resistance.
+- Some factors that influence time constants (physiological and pathological causes of alterations in compliance and resistance)
+- The effects of heterogeneity in time constants (static vs. dynamic compliance and respiratory rate)
+
+Additional marks were awarded for ways of measuring the effects of heterogeneity of time constants. The capnogram and the peak vs. plateau pressures. Many candidates spent a lot of time explaining various other formulas pertaining to compliance, surfactant, and alveolar collapse that were not directly relevant to the question. Many candidates thought that increased compliance causes fast time constants.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2008/B/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Time constants](/content/resp/time_constants.qmd)

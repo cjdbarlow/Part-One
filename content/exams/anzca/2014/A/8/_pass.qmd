@@ -1,0 +1,44 @@
+Diathermy is the use of electrical current to create heat to coagulate, cut or destroy tissues during surgery.
+
+**Principles**:
+
+Uses high frequency alternating current passed between 2 electrodes.
+
+The high frequency (300kHz and 2 MHz)is unlikely to cause arrhythmia 
+
+Heat energy produced is proportional to electrical power dissipated 
+
+- Current density = current / area
+- High current density at the surgical electrode gives cutting / coagulation performance 
+- Low current density at the large electrode results in no tissue damage
+
+**Diathermy Types:**
+
+**Unipolar**:
+
+- Consists of probe containing one electrode and a large plate placed on patient containing the other electrode 
+
+**Bipolar**:
+
+- Consists of a pair of electrodes in one instrument so current flows from point to point rather than through patient and is useful for electrically sensitive areas 
+
+**Surgical Uses of Diathermy** 
+
+**Cutting**:
+
+Continuous low voltage high-frequency current → rapid tissue heating with AC current → tissue vaporisation. Results in cutting action with minimal collateral damage.
+
+**Coagulation:**
+
+Intermittent pulses higher voltage electrical arc from electrode or direct contact from blunt electrode → slower heating of tissue → desiccation/coagulation → increased tissue damage 
+
+**Blended**:
+
+- Mix of cutting and coagulation with adjustable ration of cutting with variable pulses of coagulation 
+
+**Hazards**:
+
+- Burns for incorrectly applied unipolar diathermy plate
+- Electrocution damage or injury to patient, staff, or equipment 
+- Electrical interference to pacemakers or ICDs
+- Smoke production, respiratory irritant and potential carcinogen

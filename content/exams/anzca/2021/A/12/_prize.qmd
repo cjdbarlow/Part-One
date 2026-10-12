@@ -1,0 +1,59 @@
+#### List:
+
+- Tachyphylaxis: definition, cause, examples
+- Tolerance: same
+- Mechanisms of tolerance
+
+#### Tachyphylaxis:
+
++------------+-----------------------------------------------------------------------------+
+| Definition | - Decreased response to a drug with repeated short-term use                 |
+|            | - Usually over minutes to hours                                             |
+|            | - Cannot be easily overcome with increased dose                             |
++------------+-----------------------------------------------------------------------------+
+| Cause      | - Usually mediator depletion                                                |
++------------+-----------------------------------------------------------------------------+
+| Examples   | - Ephedrine: depletion of NAd at post-ganglionic SNS nerve endings          |
+|            | - GTN: depletion of intracellular sulfhydryl groups → ↓nitric oxide release |
++------------+-----------------------------------------------------------------------------+
+
+#### Tolerance:
+
++----------------+---------------------------------------------------------------------------------------------------------------------------------+
+| Definition     | - Decreased duration then decreased magnitude of effect of a given drug dose with long term use                                 |
+|                | - Usually over days to weeks                                                                                                    |
+|                | - Can be overcome with increased dose                                                                                           |
++----------------+---------------------------------------------------------------------------------------------------------------------------------+
+| Cause          | - Chronic use of drug resulting in adaptation                                                                                   |
++----------------+---------------------------------------------------------------------------------------------------------------------------------+
+| Examples       | - e.g. chronic opioid use                                                                                                       |
++----------------+---------------------------------------------------------------------------------------------------------------------------------+
+| Representation | Right shift log(dose) – response curve                                                                                          |
+|                |                                                                                                                                 |
+|                | ![](/content/exams/anzca/2021/A/12/prize-image001.jpg){fig-alt="Rightward shift of the log dose–response curve with tolerance"} |
++----------------+---------------------------------------------------------------------------------------------------------------------------------+
+
+#### Mechanisms of tolerance:
+
++---------+-----------------------------------------------------------------------------------------+
+| Kinetic | - Absorption/metabolism                                                                 |
+|         |   - e.g. alcohol → induce alcohol dehydrogenase, acetaldehyde dehydrogenase             |
+|         | - Distribution:                                                                         |
+|         |   - e.g. ↑P-glycoprotein-mediated efflux of opioids                                     |
++---------+-----------------------------------------------------------------------------------------+
+| Dynamic | - ↓Receptor number                                                                      |
+|         |   - e.g. salbutamol at β~2~ adrenoceptor                                                |
+|         |   - Phosphorylate ICF carboxyl terminal → β-arrestin binds → internalize & destroy      |
+|         | - ↓Receptor affinity                                                                    |
+|         |   - e.g. contributes to insulin resistance                                              |
+|         | - ↓ICF signal transduction                                                              |
+|         |   - e.g. morphine at mu receptor                                                        |
+|         |   - Upregulation of cAMP system → ↓effect of G~i~ G protein coupled receptor activation |
+|         | - Altered ion conductance                                                               |
+|         |   - e.g. suxamethonium phase 2 blockade                                                 |
+|         |   - Phosphorylation of tyrosine residues → conformational change                        |
+|         | - Neuroplasticity:                                                                      |
+|         |   - e.g. cocaine effect on basal ganglia                                                |
+|         |   - ↓Euphoria                                                                           |
+|         | - Upregulation of antagonistic mechanism                                                |
++---------+-----------------------------------------------------------------------------------------+

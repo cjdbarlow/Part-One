@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009B Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} classes of drugs that influence Post-Operative Nausea and Vomiting (PONV) including mechanisms where known.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} drug classes using examples, receptor targets and sites of action. Include drugs that provoke nausea and vomiting as well as antiemetics, with an agent-specific point where relevant.
+
+::: {.structure-headings}
+### 5-HT3 and Dopamine Antagonists
+
+### Antihistamines and Antimuscarinics
+
+### Corticosteroids and Other Antiemetics
+
+### Neurokinin Antagonists
+
+### Drugs That Promote Nausea and Vomiting
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**77%** of candidates passed this question.
+
+Approaches to answering this question include choosing and naming a class followed by an example of the group, acting especially at which receptor, where known, followed by designating the location of action eg agents acting at D2 receptor at the chemoreceptor trigger zone.
+
+To add a comment specific to the agent named would then complete a discussion for each agent eg droperidol and the Q-T interval lengthening.
+
+Lateral thinking would include agent groups which often induce PONV eg opioids such as morphine acting at mu receptors in the area postrema increases the likelihood of PONV in a dose related manner. Quite rightly, mention of N20, volatiles, ketamine or ergometrine is relevant, as all are agents to which some of our patients are exposed.
+
+The well known groups of 5HT3 antagonists, D2 antagonists including the benzamides to which metoclopropamide belong, formed the nucleus of agents discussed. The use of propofol, use of benzodiazepines and antihistamines all earned marks. Even the new group NK1 Antagonists received mention by quite a few candidates.
+
+The responses which explained very clinical information or extensive dosage regimes or opted to leave out naming classes of drugs deprived themselves of credit focussing on the question at hand.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2009/B/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Antiemetics](/content/pharmacopoeia/git/antiemetics.qmd)

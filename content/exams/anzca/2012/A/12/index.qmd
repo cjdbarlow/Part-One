@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012A Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the main mechanisms by which chemical neurotransmitters exert their effects, using examples from the autonomic nervous system
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} mechanisms rather than catalogue receptor subtypes. Contrast ion channels and second messenger pathways using autonomic examples, linking amplification, timing and duration to excitatory and inhibitory effects.
+
+::: {.structure-headings}
+### Brief Neurotransmitter Classification
+
+### Ligand-Gated Ion Channels
+
+### G Protein and Second Messenger Pathways
+
+### Nitric Oxide and Other Autonomic Examples
+
+### Amplification, Time Course and Direction of Effect
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**37.6 %** of candidates passed this question with few good answers.
+
+Textbooks provide a large amount of cellular and molecular detail regarding this question. The better answers distilled this information by giving a brief classification of different neurotransmitter types, an overview of the different mechanisms by which neurotransmitters exert their effects , then some comparison of the differences between the mechanisms and used appropriate examples from the autonomic nervous system (ANS) along the way. The area of G-proteins, second messengers and intracellular molecular interactions is exceedingly complex so a summary is required.
+
+Many candidates misread the question and provided anatomical details of the ANS, listed all receptor sub types (adrenergic and cholinergic) and then attempted to describe the mechanisms of each in time consuming detail. Information was often repeated but important points omitted. Examples from outside the ANS were often given but did not attract marks nor did detailed descriptions of neurotransmitter synthesis and release.
+
+Most candidates mentioned noradrenaline and acetylcholine but few included neuropeptides. Infrequently mentioned points included second messenger amplification, presysnaptic sites of action, and that the mechanisms can produce both excitatory and inhibitory effects.
+
+Areas rarely mentioned included response times and duration of G protein and ion channel effects, cytoplasmic or intra-nuclear sites of action. Some candidates confused pre and post ganglionic neurones with pre and post synaptic cell receptor locations.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2012/A/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neurotransmitters](/content/neuro/neurotransmitters.qmd)
+- [Acetylcholine receptors](/content/neuro/ach_receptor.qmd)

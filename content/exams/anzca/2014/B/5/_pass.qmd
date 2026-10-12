@@ -1,0 +1,54 @@
+Pain is an unpleasant sensory or emotional experience associated with potential or actual tissue damage. 
+
+Pain Pathways can be described in terms of:
+
+**Transduction**
+
+- Transduction occurs from noxious stimuli stimulating peripheral nociceptors (free nerve endings), stimuli may take the form of mechanical, thermal, electrical or chemical.
+- Transduction is the process of noxious stimuli → electrical impulse  
+
+**Transmission**
+
+Pain impulses are conducted by two main types of pain fibres Aδ (A delta) or C fibres to the dorsal horn where second order neutrons transmit impulses to brainstem and thalamus by the spinothalamic and spinoparabrachial tracts.
+
+- **Aδ fibres** are small myelinated fibres that conduct sharp pain rapidly @ 40m.s, they mediate the initial pain reflex to acute pain. 
+- Synapse in the laminae I in the dorsal horn and substance P is the neurotransmitter at the NK1 receptor 
+
+::: {}
+:::
+
+- **C Fibres** very small unmyelinated fibres the conduct dull pain slowly at 2m.s
+- Synapse at laminae II of the dorsal horn  Substance P is the neurotransmitter at the NK1 receptor
+
+**Perception**
+
+- Third order neurones  from the thalamus project to the higher centres including the somatosensory cortex and limbic system
+- Results in the sensory and emotional perception of pain 
+
+**Modulation** 
+
+Pain perception may be modulated either inhibited or sensitised via :
+
+- depending pathways i.e. the gate theory of pain 
+- via ascending pathways i.e. central sensitisation / wind up 
+
+**Drug Modulation**: 
+
+Drugs form an important role in management of pain through modulation at different sites/levels, some drugs act at multiple points to modulate pain. 
+
+**Transduction:**
+
+- Drugs may modulate the perception of pain from peripheral nociceptors.
+- NSAIDS inhibit COX →↓prostaglandins  →↓ sensitisation of nociceptors 
+
+**Transmission**:
+
+- Local anaesthetics inhibit sodium channels → disruption of pain impulse transmission
+- Opioids activate MOP receptors upregulating inhibitory resending pathway → inhibition of nervy impulse at spinal level 
+- TCA, SSRI and SNRI  → increase NA and 5HT in spinal cord + brainstem inhibit pain signal transmission, also act to modulate pain perception and modulation 
+- A2 adrenergic agonists (e.g. clonidine and dexmedetomidine presynaptic and postsynaptic inhibitory effects at dorsal horn and brainstem
+- Tramadol SSRI and MOP acts to decrease transmission and perception and modulation  
+
+**Perception and Modulation**
+
+- Ketamine NMDA antagonist reduces windup and central sensitisation

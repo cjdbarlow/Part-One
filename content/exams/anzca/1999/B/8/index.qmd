@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999B Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Draw**]{.task-verb} both aortic root and a radial artery pressure wave forms on the same axes. [**Explain**]{.task-verb} the differences between them.
+:::
+
+Also asked in: [2017A Question 10](/content/exams/anzca/2017/A/10/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Draw**]{.task-verb} both waveforms on labelled common axes and [**explain**]{.task-verb} differences in timing, contour, systolic and diastolic pressure. Relate propagation and reflection to compliance, resistance and changes with ageing.
+
+::: {.structure-headings}
+### Superimposed Labelled Waveforms
+
+### Propagation Delay
+
+### Systolic Contour and Pulse Pressure
+
+### Dicrotic Notch and Wave Reflection
+
+### Compliance, Resistance and Ageing
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**50%** of the candidates passed this question. There were very few good answers. Candidates were expected to draw waveforms on appropriately labelled axes. The curves should show the peak and pulse pressures of the radial artery pressure wave to be greater than the aortic root pressure wave (with correct normal values). Furthermore, the radial wave pressure should show a steeper upstroke and a shorter duration than the aortic trace, and with a delay in the time of onset of the initial pressure rise.
+
+The differences between the waves are due to the decreased compliance which gave rise to the steeper upstroke in the radial wave form. The higher systolic radial arterial pressure is due to reflection and summation, tapering and faster transmission of pressure waves. Whilst damping in the radial wave causes the loss of anacrotic and dicrotic notches; whereas reflection and resonance lead to a diastolic hump on the radial wave form.
+
+In elderly patients, pulse wave may be transmitted unchanged from the ascending aorta to the periphery because of the less compliant vessels.
+
+The common errors in the answers were unlabelled axes and a lack of normal values. 16% of the candidates drew wave forms on 2 separate sets of graphs using identical axes rather than one graph with superimposed wave forms on the same axes. They were not penalised if the above mentioned points were illustrated. Some showed a grossly exaggerated delay of the radial wave. There was a general lack of understanding of the reasons for the differences in the wave forms.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/1999/B/8/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/B/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Arterial pressure variation](/content/cvs/bp_variations.qmd)

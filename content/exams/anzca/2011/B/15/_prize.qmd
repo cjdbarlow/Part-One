@@ -1,0 +1,113 @@
+#### List:
+
+- Intro
+- Glomerular filtration physiology
+- Factors decreasing filtration
+- Factors increasing reabsorption
+
+#### Intro:
+
++---------------------------+---------------------------------------------+
+| Urine output determinants | = filtration + secretion – reabsorption     |
++---------------------------+---------------------------------------------+
+| Normal urine output       | 0.5mL/kg/h                                  |
++---------------------------+---------------------------------------------+
+| Peri-op effects           | ↓filtration: hypotension                    |
+|                           |                                             |
+|                           | ↑Reabsorption: stress response, dehydration |
+|                           |                                             |
+|                           | Hence ↓urine output                         |
++---------------------------+---------------------------------------------+
+
+#### Glomerular filtration physiology:
+
++------------------------+--------------------------------------------------------------------------------+
+| Starling equation      | GFR = \[K(P~c~ – P~B~) – σ(π~c~ – π~B~)\]                                      |
+|                        |                                                                                |
+|                        | - P~c~ (capillary hydrostatic pressure) is the major variable peri-operatively |
+|                        | - Dependent on a) renal blood flow b) afferent and efferent arteriolar tone    |
++------------------------+--------------------------------------------------------------------------------+
+| Renal blood flow       | RBF = mAP – CVP / renal vascular resistance (RVR)                              |
+|                        |                                                                                |
+|                        | - Myogenic autoregulation effective if mAP 70-170mmHg                          |
++------------------------+--------------------------------------------------------------------------------+
+| Mean arterial pressure | mAP – CVP = CO x TPR                                                           |
+|                        |                                                                                |
+|                        | - Factors ↑CO: ↑preload, ↓afterload, ↑rate, ↑contractility                     |
++------------------------+--------------------------------------------------------------------------------+
+
+#### Factors decreasing filtration:
+
++------+-------------------------------------------------------------------------------------+
+| ↓mAP | ↓Cardiac output                                                                     |
+|      |                                                                                     |
+|      | - ↓preload (general or neuraxial anaesthesia, IPPV, dehydration)                    |
+|      | - ↓inotropy (e.g. propofol)                                                         |
+|      |                                                                                     |
+|      | ↓SVR:                                                                               |
+|      |                                                                                     |
+|      | - General anaesthesia                                                               |
+|      | - Neuraxial anaesthesia                                                             |
++------+-------------------------------------------------------------------------------------+
+| ↑CVP | - IPPV                                                                              |
+|      | - Heart failure                                                                     |
+|      | - Raised intra-abdominal pressure                                                   |
++------+-------------------------------------------------------------------------------------+
+| ↑RVR | Angiotensin 2 (AGTR1) and SNS (α~1~) → efferent \> afferent arteriolar constriction |
++------+-------------------------------------------------------------------------------------+
+
+#### Factors increasing reabsorption:
+
++-------+------------------------------------------------------------------------------------------------------------------------------------------+
+| ↑ADH  | Source: hypothalamus → posterior pituitary                                                                                               |
+|       |                                                                                                                                          |
+|       | Release stimuli:                                                                                                                         |
+|       |                                                                                                                                          |
+|       | - Stress response from surgery                                                                                                           |
+|       | - Many drugs                                                                                                                             |
+|       | - ↑osmolality (sensitive to ∆2%) – dehydration from pre-op fasting                                                                       |
+|       | - ↓blood volume (sensitive to ∆10% but overrides osmolality)                                                                             |
+|       | - ↓mAP                                                                                                                                   |
+|       | - Angiotensin 2                                                                                                                          |
+|       |                                                                                                                                          |
+|       | Renal effects:                                                                                                                           |
+|       |                                                                                                                                          |
+|       | - Insertion of aquaporin 2 into apical membrane of collecting ducts → ↑H~2~O reabsorption                                                |
+|       | - Insertion of urea transporters → ↑ medullary interstitial osmolarity                                                                   |
+|       | - ↑Na^+^ reabsorption in thick ascending loop of Henle                                                                                   |
++-------+------------------------------------------------------------------------------------------------------------------------------------------+
+| ↑RAAS | ![](/content/exams/anzca/2011/B/15/prize-image001.jpg){fig-alt="Renin–angiotensin pathway through angiotensin subtypes and aldosterone"} |
+|       |                                                                                                                                          |
+|       | Source: granular cell of juxtaglomerular apparatus                                                                                       |
+|       |                                                                                                                                          |
+|       | Release stimuli:                                                                                                                         |
+|       |                                                                                                                                          |
+|       | - ↑SNS activation of granular cells (β~1~) - e.g. pain                                                                                   |
+|       | - ↓stretch of afferent arteriolar baroreceptors - i.e. hypotension                                                                       |
+|       | - ↓NaCl delivery to macula densa → ↑PGE~2~, ↓adenosine release - i.e. ↓GFR                                                               |
+|       |                                                                                                                                          |
+|       | Renal effects of angiotensin 2                                                                                                           |
+|       |                                                                                                                                          |
+|       | - ↑Na^+^/H~2~O reabsorption from PT (via Na^+^/H^+^ exchange) (AGTR1)                                                                    |
+|       | - ↑release of aldosterone                                                                                                                |
+|       | - ↑release of ADH                                                                                                                        |
+|       |                                                                                                                                          |
+|       | Actions of angiotensin-3:                                                                                                                |
+|       |                                                                                                                                          |
+|       | - 40% of pressor activity                                                                                                                |
+|       | - 100% of aldosterone induction                                                                                                          |
+|       |                                                                                                                                          |
+|       | Renal effects of aldosterone                                                                                                             |
+|       |                                                                                                                                          |
+|       | - ↑Na^+^ reabsorption from principal cells of connecting tubule and collecting ducts (MR)                                                |
+|       | - Indirectly causes H~2~O reabsorption via ↑ECF osmolality hence ↑ADH                                                                    |
++-------+------------------------------------------------------------------------------------------------------------------------------------------+
+| ↑SNS  | Stimulus: baroreceptor reflex                                                                                                            |
+|       |                                                                                                                                          |
+|       | Renal effects:                                                                                                                           |
+|       |                                                                                                                                          |
+|       | - Constrict efferent \> afferent arterioles(α~1~)                                                                                        |
+|       | - Hence ↓GFR but preserved GFP                                                                                                           |
+|       | - ↑ proximal tubular reabsorption of Na^+^/H~2~O (α~1~)                                                                                  |
+|       | - ↑ renin release (see RAAS) (β~1~)                                                                                                      |
++-------+------------------------------------------------------------------------------------------------------------------------------------------+

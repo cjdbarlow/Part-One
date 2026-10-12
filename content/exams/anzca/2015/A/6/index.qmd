@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015A Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the role of baroreceptors in the control of systemic arterial pressure.
+:::
+
+Also asked in: [2003B Question 10](/content/exams/anzca/2003/B/10/index.qmd#examiner-comments), [2012A Question 9](/content/exams/anzca/2012/A/9/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} baroreceptor control as a negative feedback pathway from stretch to afferent signalling, central integration and effectors. Distinguish high pressure from low pressure receptors and relate their response times to arterial pressure and blood volume control.
+
+::: {.structure-headings}
+### Receptors, Locations and Stimuli
+
+### Afferent Pathways and Central Integration
+
+### Autonomic Cardiac and Vascular Effects
+
+### Low Pressure Receptors and Hormonal Responses
+
+### Response Time, Adaptation and Reflex Testing
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**52.8%** of candidates achieved a pass in this question
+
+Answers that achieved a good mark contained information about high pressure baroreceptors and their locations, how mechanoreceptor firing pattern changes with arterial blood pressure, neural pathways to the CNS, a summary of how central integration occurs modulating sympathetic and parasympathetic outflow and the effect on heart rate and systemic vascular resistance. Describing the response to both an increase and then a decrease in arterial blood pressure did not earn more marks- a note that the physiological responses follow the same pathways but are opposite in these situations demonstrates understanding without consuming valuable time.
+
+Also required for a complete answer was information about low pressure baroreceptors on the venous side of the circulation which tend to have a longer term effect on blood pressure by affecting hormones controlling intravascular volume via the kidney. High pressure baroreceptors have a more immediate effect to counter acute changes such as those resulting from postural changes.
+
+Many candidates described the effect of atrial naturetic peptide but then did not cover the renin-angiotensin/aldosterone system or vasopressin. Detailed description of the effects of these hormones and their synthetic pathways was not required.
+
+Extra credit was given for describing how baroreceptor reflex arcs could be tested with a Valsalva manouevre, the role baroreceptors play in the Bainbridge and Bezold Jarish reflexes and the effect and reversibility of chronic hypertension.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2003/B/10/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2003/B/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Baroreceptors](/content/cvs/baroreceptors.qmd)

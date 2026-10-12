@@ -1,0 +1,104 @@
+#### List:
+
+- Aims
+- Anatomy
+- Haemodynamics
+- Controls
+
+#### Aims:
+
++---+-----------------------------------+-------------------------------------+
+|   | **Systemic**                      | **Pulmonary**                       |
++===+===================================+=====================================+
+|   | - Perfusion of tissues            | - Perfusion of lungs                |
+|   | - For nutrient/gas/waste exchange | - For gas exchange                  |
++---+-----------------------------------+-------------------------------------+
+|   | - ↓Pulmonary venous pressure →    | - ↓Systemic venous pressure →       |
+|   | - ↓pulmonary oedema               | - ↓peripheral oedema                |
++---+-----------------------------------+-------------------------------------+
+|   | - Blood reservoir                 | - Filtration, metabolism (e.g. ACE) |
++---+-----------------------------------+-------------------------------------+
+
+#### Anatomy:
+
++-------------+-----------------------------------------------------------------------+-------------------------------------------+
+|             | **Systemic**                                                          | **Pulmonary**                             |
++=============+=======================================================================+===========================================+
+| Pump        | - LV                                                                  | - RV                                      |
+|             | - Larger                                                              | - Smaller                                 |
+|             | - Thicker                                                             | - Thinner                                 |
+|             | - Less compliant (LVEDP 6mmHg)                                        | - More compliant (CVP 2mmHg)              |
+|             | - Higher MVO~2~ and CBF (¾ total)                                     | - Lower MVO~2~ and CBF (¼ total)          |
+|             | - Blood supply in diastole only                                       | - Blood supply throughout cycle           |
++-------------+-----------------------------------------------------------------------+-------------------------------------------+
+| Vessels     | - Arteries: elastic media\                                            | - Arteries: less elastic                  |
+|             |   (for Windkessel effect)                                             | - Arterioles: less muscular               |
+|             | - Arterioles: muscular media\                                         | - Veins and venules: less distensible     |
+|             |   (for control of flow)                                               |                                           |
+|             | - Veins and venules: highly distensible                               |                                           |
++-------------+-----------------------------------------------------------------------+-------------------------------------------+
+| Capillaries | - Thicker endothelium                                                 | - Thinner endothelium                     |
+|             | - ↑Diffusion distance (variable)                                      | - ↓Diffusion distance 0.5μm               |
+|             | - Filtration pressure +ve arteriolar end, -ve venular end (in theory) | - Filtration pressure -ve throughout (?)\ |
+|             | - Transudation 4L/day                                                 |   \                                       |
+|             |                                                                       | - Transudation minimal                    |
++-------------+-----------------------------------------------------------------------+-------------------------------------------+
+
+#### Haemodynamics:
+
++-----------------+---------------------------------------------------------------------------+----------------------------------------------------------------------+
+|                 | **Systemic**                                                              | **Pulmonary**                                                        |
++=================+===========================================================================+======================================================================+
+| Volume (supine) | - Total: 76% = 3500mL (+ LA,LV 4%)                                        | - Total: 16% = 800mL (+ RA, RV 4%)                                   |
+|                 | - Arteries: 14%                                                           | - (↓to 9% when upright)                                              |
+|                 | - Capillaries: 6%                                                         | - Arteries: 8%                                                       |
+|                 | - Veins: 56%                                                              | - Capillaries: 3%                                                    |
+|                 |                                                                           | - Veins: 5%                                                          |
++-----------------+---------------------------------------------------------------------------+----------------------------------------------------------------------+
+| Flow            | - 5L/min                                                                  | - 5L/min                                                             |
+|                 | - Continuous at capillary                                                 | - Pulsatile at capillary                                             |
+|                 | - ↑In spont vent expiration                                               | - ↑in spont vent inspiration                                         |
+|                 |                                                                           |                                                                      |
+|                 | (↑intrathoracic pressure)                                                 | (↓intrathoracic pressure)                                            |
++-----------------+---------------------------------------------------------------------------+----------------------------------------------------------------------+
+| Pressure        | - High                                                                    | - Low                                                                |
+|                 | - SBP 120mmHg, DBP 80mmHg                                                 | - PASP: 25mmHg, PADP 8mmHg                                           |
+|                 | - mAP 90mmHg → CVP 2mmHg                                                  | - mPAP 15mmHg → LVEDP 6mmHg                                          |
+|                 | - High pressure for a) uphill flow b) allocation                          | - Low pressure minimizes transudation                                |
+|                 | - Major drop at arterioles                                                | - Gradual drop across entire length                                  |
++-----------------+---------------------------------------------------------------------------+----------------------------------------------------------------------+
+| Resistance      | - High 720-1600 dyn.s.cm^-5^                                              | - Low 20-160 dyn.s.cm^-5^                                            |
+|                 | - 9-20 Wood units                                                         | - 0.25-2 Wood units                                                  |
+|                 | - Mostly at arterioles                                                    | - Distributed arteries/capillaries/veins                             |
++-----------------+---------------------------------------------------------------------------+----------------------------------------------------------------------+
+| Distribution    | - Local autoreg (metabolic myogenic)                                      | - West zones (gravity)                                               |
+|                 | - Autonomic (SNS \> PSNS)                                                 |   - Z1: PA \> Pa \> Pv (no flow)                                     |
+|                 |                                                                           |   - Z2: Pa \> PA \> Pv (flow in systole)                             |
+|                 |                                                                           |   - Z3: Pa \> Pv \> PA (flow throughout)                             |
+|                 |                                                                           | - Hypoxia → HPV → redirection                                        |
++-----------------+---------------------------------------------------------------------------+----------------------------------------------------------------------+
+| Shunt           | - L-R shunt (minimal in health)                                           | - R→L shunt (1.5%)                                                   |
+|                 |   - Bronchial arteries → pulmonary arteries via pre-capillary anastomoses |   - Thebesian veins                                                  |
+|                 |                                                                           |   - Bronchial veins → pulmonary veins via post-capillary anastomoses |
++-----------------+---------------------------------------------------------------------------+----------------------------------------------------------------------+
+
+#### Control:
+
++---------------------------+----------------------------------------------+----------------------------------------------------+
+|                           | **Systemic**                                 | **Pulmonary**                                      |
++===========================+==============================================+====================================================+
+| Most important            | - Local autoregulation (myogenic, metabolic) | - PAO~2~ (i.e. hypoxic pulmonary vasoconstriction) |
+|                           | - SNS                                        | - Gravity (West zones)                             |
++---------------------------+----------------------------------------------+----------------------------------------------------+
+| Nervous                   | - SNS dense → vasoconstriction (VC)          | - SNS sparse → VC                                  |
+|                           | - PSNS sparse → vasodilatation (VD)          | - PSNS sparse → VD                                 |
++---------------------------+----------------------------------------------+----------------------------------------------------+
+| Gaseous (note opposites!) | - ↓PaO~2~ → VD                               | - ↓PvO~2~ → VC                                     |
+|                           | - ↑PaCO~2~ → VD                              | - ↑PvCO~2~ → VC                                    |
++---------------------------+----------------------------------------------+----------------------------------------------------+
+| Acid-base                 | - ↓pH → VD                                   | - ↓pH → VC                                         |
+|                           |                                              |                                                    |
+| (note opposites)          |                                              |                                                    |
++---------------------------+----------------------------------------------+----------------------------------------------------+
+| Exercise                  | - Active vasodilatation in skeletal muscles  | - Passive vasodilatation: recruitment/distension   |
++---------------------------+----------------------------------------------+----------------------------------------------------+

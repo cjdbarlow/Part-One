@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010A Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} how the chemical structure of local anaesthetic drugs determines their efficacy and safety.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} each structural component and link it directly to efficacy or safety. Explain how chain length, bond type, chirality and ionisation alter relevant drug properties, using specific examples.
+
+::: {.structure-headings}
+### Lipophilic Aromatic Group
+
+### Intermediate Chain and Ester or Amide Link
+
+### Hydrophilic Amine
+
+### Chain Length and Structure–Activity Relationships
+
+### Chirality, Ionisation and Clinical Implications
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**36%** of candidates passed this question.
+
+This could be considered core material, although many candidates lost marks by spent a time on non-relevant information such as describing local anaesthetic toxicity, mechanisms of action, and routes of administration.
+
+Other common errors included: making imprecise statements (for example, „the structure determines what the pKa and lipid solubility will be‟, without saying how), writing lengthy introductions that don‟t make a point, repeating the same point multiple times, and stating that prilocaine is an ester local anaesthetic.
+
+The answer needed to be related to the structure of local anaesthetics and could be divided into effects on efficacy and safety. This means looking at the lipophilic, intermediate, and hydrophilic components. Increases in side chain length generally result in increased lipid solubility, potency, and protein binding up to a point. This also increases toxicity, duration of action, and slows the onset/offset. The differences between the ester and amide link in regards to metabolism, allergy, and duration of action need to be covered. Other aspects needed to gain marks included the effects of chirality and acid-base changes.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2010/A/1/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Local anaesthetic principles](/content/pharmacopoeia/neuro/local_anaesthetic_principles.qmd)
+- [Local anaesthetics](/content/pharmacopoeia/neuro/local_anaesthetics.qmd)

@@ -1,0 +1,41 @@
+***Blood group ***= genetically determined antigens present on RBC membrane 
+
+Most common antigen systems = ABO, Rhesus and Kell, Duffy
+
+Blood group O negative is often described as the universal donator as it contains RBC without A,B, and Resus surface antigens. 
+
+**Transfusion**:
+
+Blood transfusion involves administering donor RBC to recipient.
+
+Incompatibility primarily occurs when recipient plasma has antibodies to antigens on donor RBC membrane
+
+**ABO Blood Types:**
+
+ABO blood types are genetically inherited antigens on the red blood cells surface. 
+
+Individuals may be A, B, AB or O blood types and have antigens as displayed below:
+
+  **Blood Type**   **RBC Antigen**       **Plasma Antibody (IgM)**
+  ---------------- --------------------- ---------------------------
+  **A**            H, A Antigen          B Antibody
+  **B**            H, B Antigen          A Antibody
+  **AB**           H, A and B Antigens   \-
+  **O**            H only                A and B Antibody
+
+\*Bombay group - no H, Antibody to H, A, B
+
+ABO groups may be transfused with the following combinations: 
+
+  **Recipient Blood Type**   **Donor Blood Type A**   **Donor Blood Type B**   **Donor Blood Type AB**   **Donor Blood Type O**
+  -------------------------- ------------------------ ------------------------ ------------------------- ------------------------
+  **A**                      Yes                      No                       No                        Yes
+  **B**                      No                       Yes                      No                        Yes
+  **AB**                     Yes                      Yes                      Yes                       Yes
+  **O**                      No                       No                       Yes                       Yes
+
+**Rhesus System**
+
+- Set of antigens specifically displayed on surface of RBCs
+- Multiple types only D antigen has significant antigenicity ∴ individuals are classified as RhD positive or RhD negative
+- Non-self Anti-RhD only developed after exposure to RhD+ blood - IgG Ab

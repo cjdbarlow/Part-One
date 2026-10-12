@@ -1,0 +1,94 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004B Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the mechanism of action of G-proteins in the cell.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} signal transduction as a sequence from ligand binding to termination. Add examples of G-protein types and their effectors, then explain amplification and regulation.
+
+::: {.structure-headings}
+### Receptor and Heterotrimeric G-Protein
+
+### GDP–GTP Exchange and Subunit Dissociation
+
+### Effectors and Second Messengers
+
+### Intrinsic GTPase and Signal Termination
+
+### G-Protein Types, Examples and Small G-Proteins
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**60%** of candidates passed this question.
+
+To achieve a pass mark, it was expected that the answer would include:
+
+- An indication of the general concept of G-proteins acting as a kind of transducer, converting an extra-cellular event (ligand associating with a G-protein coupled receptor (GPCR)) into a series of intra-cellular events involving 2^nd^ messenger systems.
+- A summary of the sequence of events that occurs in this transduction i.e. ligand binds to receptor, brings about a conformational change such that the α-subunit of the G-protein binds GTP, then dissociates from the βγ subunits. The α-GTP then activates a 2^nd^ messenger system, or directly acts upon an ion channel, in some cases the βγ subunit can also activate ion channels. The intrinsic GTP-ase of the α-subunit acts as a self-limiting step to deactivate and allow recombination of the subunits.
+- Mention of at least a couple of different kinds of G-proteins e.g. Gs, Gi, Gq, Gt, etc and their associated 2^nd^ messenger systems e.g. adenylate cyclase/cAMP, PLC/IP~3~/DAG, cardiac K-channels, etc.
+- Preferably, examples of receptors associated with each of the mentioned G-protein types.
+
+Extra marks were obtained for a detailed description of the mechanism described above, including for mentioning and understanding such features of the system as amplification, self-regulation, uni-directionality and sustained duration; for more complete lists of G-protein types and associated 2^nd^ messengers; for accurate description of the structure as currently appreciated; and also for mention of the existence of “small G” proteins and their role in intracellular organelle function and gene expression.
+
+Common mistakes, none of which precluded passing the question as a whole, were:
+
+- describing the G-protein as either a receptor or as a 2^nd^ messenger. Often answers began by saying the G-protein was a receptor then describing the process outlined above where the GPCR is a separate entity. ,
+- stating that G-proteins are guanine nucleotides or similar comments
+- describing the role of ATP rather than GTP in activation
+- describing the structure of G-proteins as serpentine, 7-trans-membrane-spanning, or similar
+
+These errors suggest an inability to distinguish between various concepts of signal transduction, receptor function and intracellular functions. Some answers resembled a “lucky-dip” of terms and concepts.
+
+Some answers gave great detail on the roles of cAMP, DAG, IP~3~ etc which while usually correct was not relevant and so did not score marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2004/B/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Receptor types](/content/pharmacology/receptor_types.qmd)

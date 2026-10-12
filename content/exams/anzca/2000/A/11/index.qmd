@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000A Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the main biochemical events involved in noradrenergic transmission, and how these may be altered by the use of MAO (mono amine oxidase) inhibitors ?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} **Synthesis**, **Storage and Release**, **Receptor Interaction**, **Uptake and Metabolism**, and **Effects of MAO Inhibition**. Relate altered transmitter handling to the actions and interactions of MAO inhibitors.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question was passed by **57%** of candidates. The main points covered in the better answers included:-
+
+- The structure of noradrenaline.
+- A concise outline of the synthesis of noradrenaline from phenylalanine via tyrosine, dopa and dopamine, including the sites of these processes and the enzymes involved.
+- The storage function of the granulated vesicles and the calcium ion dependent mechanism(s) of noradrenaline release via exocytosis into the synaptic cleft in response to an action potential.
+- The interaction between noradrenaline and post-synaptic receptors.
+- The breakdown in the synaptic cleft (and elsewhere) or noradrenaline by catechol-o-methyl-transferase (COMT) to form normetanephrine.
+- The presynaptic and post-synaptic uptake of noradrenaline, most of the noradrenaline from the presynaptic uptake being reincorporated into the granulated vesicles.
+- Metabolism by mono-amine-oxidase(MAO) within the nerve terminal to form 3,4 dihydroxymandelic acid, which is converted by COMT to 3 methoxy-4-hydroxy-mandelic acid (vanillymandelic acid,VMA).
+- Inhibition of MAO results in reduced breakdown and increased activity of adrenaline, noradrenaline and serotonin at relevant sites throughout the nervous system.
+- The differentiation of sites and functions of MAO A and MOA B, and their specific inhibitors.
+- Reversible (eg moclobemide) and irreversible inhibition of MAO.
+- The biomechanical events underlying the various adverse reactions to MAOIs precipitated by eg. Sympathomimetics, amphetamines, tricyclics, pethidine, and tyramine rich foods.
+- The blood pressure lowering effected of a MAOI-induced false transmitter (octopamine).
+- Comments on the putative basis for the antidepressant effects of MAOIs.
+
+Several answers included extensive accounts of the physiological functions subserved by noradrenergic transmission but made little or no reference to the relevant biochemical events.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neurotransmitters](/content/neuro/neurotransmitters.qmd)
+- [Antidepressants](/content/pharmacopoeia/neuro/antidepressants.qmd)

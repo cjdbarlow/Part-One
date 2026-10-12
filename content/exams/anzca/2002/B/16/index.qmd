@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002B Question 16 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the Bohr and Haldane effects in trans-placental gas exchange.
+:::
+
+Also asked in: [1999A Question 1](/content/exams/anzca/1999/A/1/index.qmd#examiner-comments), [2014B Question 12](/content/exams/anzca/2014/B/12/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} each effect by linking the haemoglobin mechanism to changes on both sides of the placenta and the resulting direction of gas transfer.
+
+::: {.structure-headings}
+### Transplacental Oxygen and Carbon Dioxide Gradients
+
+### Bohr Effect and Double Bohr Effect
+
+### Haldane Effect and Double Haldane Effect
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**77%** of candidates passed this question.
+
+The main points expected were a definition of the Bohr and Haldane effects, a description of their molecular basis, a description of placental gas transfer, and mention of the double Bohr and Haldane effects for both the foetal and maternal placental/uterine circulations. Diagrams were useful in efficiently conveying information. Additional marks were awarded for some quantification of the size of the effects (eg. values of foetal and maternal blood gases), the relative importance of the two effects, and the effects of maternal factors (eg. hyperventilation).
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/1999/A/1/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Placental gas exchange](/content/obs/placenta.qmd)
+- [Oxygen–haemoglobin dissociation curve](/content/resp/oxygen_storage.qmd#curve)
+- [Carbon dioxide transport](/content/resp/co2_transport.qmd)

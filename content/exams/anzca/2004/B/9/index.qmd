@@ -1,0 +1,99 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004B Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} how carbon dioxide is produced in the body. [**How does**]{.task-verb} it move from the site of production to the pulmonary capillary?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} production at the mitochondrion, diffusion to blood and venous carriage to the pulmonary capillary. Include normal quantities and explain how the Haldane effect supports uptake.
+
+::: {.structure-headings}
+### Production: Site, Mechanism and Rate
+
+### Diffusion from Tissues to Blood
+
+### Bicarbonate, Carbamino and Dissolved Carriage
+
+### Haldane Effect and Changes in Production
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**60%** of candidates passed this question.
+
+The points required for a pass included
+
+- Site of production of carbon dioxide
+- Amount of carbon dioxide produced
+- A brief description of the mechanism of production
+- The transfer of carbon dioxide from its site of production to the blood down its concentration gradient
+- The mechanisms of carriage of carbon dioxide in the blood
+- The amounts carried in each form
+
+Additional credit was given for
+
+- An explanation of the Haldane effect
+- The differences in carbon dioxide with different substrates
+- Situations in which there is greater or less production of carbon dioxide
+- Normal values for the partial pressure of carbon dioxide in venous blood
+
+Common errors included
+
+- Failure to understand that carbon dioxide is produced with aerobic metabolism
+- A description of the arterial carriage of carbon dioxide rather than venous carriage
+- Describing the elimination of carbon dioxide, which was not asked for in the question
+
+Common omissions included
+
+- The transfer of carbon dioxide from the mitochondria to blood
+- The presence of a concentration gradient down which carbon dioxide moves
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2004/B/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Carbon dioxide transport](/content/resp/co2_transport.qmd)

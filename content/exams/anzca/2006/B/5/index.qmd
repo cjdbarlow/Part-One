@@ -1,0 +1,68 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006B Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+Briefly [**explain**]{.task-verb} the mechanisms responsible for non-steroidal anti- inflammatory drug (NSAID) – induced side effects. [**Outline**]{.task-verb} the advantages and disadvantages of selective cyclooxygenase (COX 2) inhibitors.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+Briefly [**explain**]{.task-verb} **Gastrointestinal**, **Renal**, **Platelet**, and **Respiratory Adverse-Effect Mechanisms**. Then [**outline**]{.task-verb} **Advantages** and **Disadvantages of Selective COX-2 Inhibitors**, connecting selectivity to benefits and retained risks.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**62 %** of candidates passed this question.
+
+This question is in two parts. The first part involves a brief explanation of mechanisms behind NSAID induced side effects. Candidates listing and briefly explaining the most commonly discussed effects of peptic ulceration, renal impairment, tendency to bleeding from platelet inhibition and bronchospasm were able to score most marks allocated from this section. The mention of specific subtypes of prostaglandins involved attracted marks. Absence of such information did not stop an answer from scoring well, as long as the discussion of mechanism was adequate.
+
+The second half of the question called for a brief discussion of advantages and disadvantages of COX 2 inhibitors. Advantages: reduced peptic ulceration rate, reduced postoperative bleeding, theoretical advantage of action in inflamed tissues, possible absence of bronchospasm etc. Disadvantages: expensive, coronary and cerebral thrombosis with chronic use with rofecoxib and possibly others, similar risk of renal impairment as with undifferentiated COX inhibitors.
+
+Extra marks were scored by those who gave a very brief overview of COX action and the role of COX 1 and COX 2, as well as discussion of other side effects such as interstitial nephritis, hypertension, fluid retention, ductus arteriosus closure and sulphur allergy.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [COX Inhibitors](/content/pharmacopoeia/analgesics/cox_inhibitors.qmd)

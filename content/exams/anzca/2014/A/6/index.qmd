@@ -1,0 +1,85 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014A Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the pharmacological management of bronchoconstriction in acute severe asthma. [**Include**]{.task-verb} mechanisms of action and potential adverse effects.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} the acute physiological problem, then organise the drugs in a table. [**Include**]{.task-verb} mechanisms of action and acute adverse effects, giving the main agents the most detail.
+
+::: {.structure-table}
+| Agent | Mechanism of Action | Adverse Effects |
+|---|---|---|
+| Salbutamol | | |
+| Adrenaline | | |
+| Corticosteroids | | |
+| Antimuscarinics | | |
+| Aminophylline | | |
+| Ketamine | | |
+| Magnesium | | |
+| Volatile Agents | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**59.2 %** of candidates achieved a pass in this question
+
+The question asks candidates to outline aspects of the pharmacology of drugs used to treat asthma. Aspects to emphasize in the interpretation of this question include the drugs must be used for acute asthma, and their mechanism of action and potential adverse effects described in detail.
+
+To obtain a good score, candidates had to mention the most important agents in more detail. These included salbutamol, adrenaline, steroids, anticholinergics, aminophyline. Additional marks were awarded for discussing other agents such as ketamine, magnesium, volatile agents, leukotriene agonists for which less detailed discussions were acceptable. Brief descriptions of the physiological implications of acute asthma also attracted marks. Mechanisms of action for each of the important agents had to include receptor subtype interaction, intermediate messengers, effect on intracytoplasmic calcium and on myosin actin interaction in smooth muscle cells lining the bronchi.
+
+Side effects should also be mentioned in detail, with discussions regarding drugs such as steroids limited to acute side effects only.
+
+Some additional marks were awarded for doses and routes of administration of the important agents.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2014/A/6/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2014/A/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Anti-asthma drugs](/content/pharmacopoeia/resp/anti_asthma_drugs.qmd)
+- [Beta agonists](/content/pharmacopoeia/resp/beta_agonists.qmd)
+- [Corticosteroids](/content/pharmacopoeia/resp/corticosteroids.qmd)

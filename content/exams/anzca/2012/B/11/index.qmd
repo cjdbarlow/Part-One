@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012B Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the important features of the lymphatic circulation.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} anatomy, composition, movement and functions in separate sections. Connect lymph formation and return to interstitial fluid balance, then include protein return, fat transport, immunity and the renal medullary role.
+
+::: {.structure-headings}
+### Anatomy, Ducts and Nodes
+
+### Lymph Composition and Formation
+
+### Intrinsic and Extrinsic Pumps
+
+### Fluid, Protein and Fat Transport
+
+### Immune and Other Physiological Roles
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**10 %** of candidates passed this question.
+
+A useful strategy for answering this question could have seen a two sentence introduction overviewing the role of the lymphatics in the body followed by paragraphs on the structure/anatomy, composition, principal functions of the lymphatics and a brief overview of factors that would see an increase in lymph formation. Such an answer would have been rewarded with very good marks. Additional marks were available to candidates who included some of the less obvious but important functions of the lymphatic system such as the return of protein to the circulation, the presentation of antigen presenting cells to the lymph nodes and the role in the formation of a concentrated urine by removing the protein rich ISF in the medulla allowing water to enter the vasa recta thus allowing maintenance of the osmotic gradient.
+
+The most common reason for not passing this question was simply not including enough material in the answer. Many candidates’ answers were far too brief and thus did not cover the topic broadly enough to gain a pass. Repetition of information was present in many answers but this was not rewarded with additional credit. The better answers demonstrated a sound underlying structure (such as above) and this resulted in those candidates able to include many of the points required for a good answer.
+
+Most candidates would have similarly been able to document these points had they had a structure for answering this type of question and thus had memory prompts for populating their answer. Despite seeming to be a somewhat peripheral topic, there is significant overlap in the physiology of the lymphatic system and other systems in the body. Recognition of this would have allowed many more candidates to structure a satisfactory answer to this question.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2012/B/11/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Starling forces](/content/cvs/starling_forces.qmd)

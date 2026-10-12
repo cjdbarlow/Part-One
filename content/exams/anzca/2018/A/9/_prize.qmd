@@ -1,0 +1,113 @@
+#### List:
+
+- Normal renal blood flow
+- Vascular anatomy
+- Flow dynamics
+- Myogenic autoregulation
+- Chemical autoregulation (TGF)
+- Hormonal autoregulation (RAAS)
+- Other systems
+
+#### Normal renal blood flow:
+
++---------+-----------------------------------------------+
+| Average | - 1100mL/min                                  |
+|         | - 420mL/min/100g                              |
++---------+-----------------------------------------------+
+| Cortex  | - 500mL/min/100g                              |
+|         | - Low EO~2~ 0.2                               |
+|         | - For fluid/electrolyte/acid-base homeostasis |
++---------+-----------------------------------------------+
+| Medulla | - 20mL/min/100g                               |
+|         | - High EO~2~ 0.8                              |
+|         | - To preserve hyperosmotic interstitium       |
+|         | - Vulnerable to ischaemia                     |
++---------+-----------------------------------------------+
+
+#### Vascular anatomy:
+
++--------------+---------------------------------------------------------------------------------------------------------------+
+| Arteries     | - Renal artery / interlobar artery / arcuate artery / interlobular artery / afferent artery / efferent artery |
++--------------+---------------------------------------------------------------------------------------------------------------+
+| Veins        | - Mirror image configuration                                                                                  |
++--------------+---------------------------------------------------------------------------------------------------------------+
+| Significance | - Many parallel pathways → low resistance → high flow rate                                                    |
+|              | - Relatively high resistance at afferent and efferent arterioles facilitates flow modulation                  |
++--------------+---------------------------------------------------------------------------------------------------------------+
+
+#### Flow dynamics:
+
++----------------+------------------------------------------------+
+| From Ohm’s law | - RBF = (mAP – CVP) / RVR                      |
+|                |   - mAP \~100mmHg                              |
+|                |   - CVP \~2mmHg                                |
++----------------+------------------------------------------------+
+| Resistance     | - R = (8 x length x viscosity) / (π x radius4) |
+|                | - Factors increasing resistance:               |
+|                |   - ↓Radius (major factor since power 4)       |
+|                |   - ↑Viscosity (e.g. ↑haematocrit)             |
+|                |   - ↑Length (not under control)                |
++----------------+------------------------------------------------+
+
+#### Myogenic autoregulation:
+
++-------------+-------------------------------------------------------------------------------------------+
+| Description | - Almost constant flow if renal perfusion pressure 70-170mmHg                             |
++-------------+-------------------------------------------------------------------------------------------+
+| Mechanism   | - ↓Pressure → ↓stretch activation of renal baroreceptors → reflex relaxation → ↑flow rate |
++-------------+-------------------------------------------------------------------------------------------+
+| Impairment  | - Shock → renal hypoperfusion → anuria                                                    |
+|             | - Severe hypertension → pressure diuresis                                                 |
++-------------+-------------------------------------------------------------------------------------------+
+
+#### Chemical autoregulation:
+
++-------------+----------------------------------------------------------------+
+| Description | - i.e. tubuloglomerular feedback                               |
+|             | - ↓Filtration results in reflex afferent arteriolar relaxation |
++-------------+----------------------------------------------------------------+
+| Mechanism   | - ↓n(NaCl) to macula densa \> ↓adenosine release               |
++-------------+----------------------------------------------------------------+
+
+#### Hormonal autoregulation:
+
++---------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Description                     | - i.e. renin-angiotensin-aldosterone system                                                                                                                          |
+|                                 | - ↓Perfusion or ↓filtration results in afferent arteriolar relaxation, generalized vasoconstriction and increased blood volume                                       |
++---------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Pathway                         | ![](/content/exams/anzca/2018/A/9/prize-image001.jpg){fig-alt="Renin–angiotensin pathway showing angiotensinogen, angiotensins, converting enzymes and aldosterone"} |
+|                                 |                                                                                                                                                                      |
+|                                 | - Note negative feedback                                                                                                                                             |
+|                                 |   - Direct: AT2 binds AGTR1 on granular cell → ↑Ca^2+^ → ↓renin release                                                                                              |
+|                                 |   - Physiological: AT2 and aldosterone inhibit release of renin                                                                                                      |
++---------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Stimuli for renin release       | - ↓Afferent arteriolar pressure → ↓renal baroreceptor stretch                                                                                                        |
+|                                 | - ↓GFR → ↓NaCl to macula densa → ↑PGE~2~ and ↓adenosine                                                                                                              |
+|                                 | - ↓mAP → baroreceptor reflex → ↑SNS output onto β~1~ adrenoceptor                                                                                                    |
++---------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Effects of angiotensin          | - ↑Na^+^/H~2~O reabsorption from proximal tubule → ↑blood volume → mAP → ↑RBF                                                                                        |
+|                                 | - Efferent \> afferent arteriolar vasoconstriction → ↑filtration fraction → ↑GFR with ±↓ RBF                                                                         |
+|                                 | - Generalised vasoconstriction → ↑mAP → ↑RBF                                                                                                                         |
++---------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Stimuli for aldosterone release | - CRH → ACTH (necessary for synthesis, minor release stimulus)                                                                                                       |
+|                                 | - Angiotensin 2 (major)                                                                                                                                              |
+|                                 | - Hyperkalaemia (minor)                                                                                                                                              |
++---------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Effects of aldosterone          | - ↑Na^+^K^+^ATPase synthesis and activity and ↑ENaC activity in connecting tubule and collecting duct                                                                |
+|                                 | - Direct effect: ↑ECF \[Na^+^\]                                                                                                                                      |
+|                                 | - Indirect effect: ↑ECF tonicity → ↑ADH release → ↑blood volume → ↑mAP → ↑RBF                                                                                        |
++---------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Other systems:
+
++----------------------------+----------------------------------------------------------------------------------------+
+| Baroreceptor response      | - Stimulus: ↓mAP → ↓stretch activation of high pressure baroreceptors                  |
+|                            | - Response: ↑SNS output, ↓PSNS output                                                  |
+|                            | - Effect: ↑mAP, ↑renal perfusion pressure and flow                                     |
++----------------------------+----------------------------------------------------------------------------------------+
+| Atrial natriuretic peptide | - Source: right atrium                                                                 |
+|                            | - Release stimulus: distension                                                         |
+|                            | - Effects:                                                                             |
+|                            |   - Afferent arteriolar vasodilatation → ↑GFR, washout of medullary interstitium       |
+|                            |   - Decreased Na^+^/H~2~O reabsorption in distal nephron → ↓blood volume → ↓mAP → ↓RBF |
++----------------------------+----------------------------------------------------------------------------------------+

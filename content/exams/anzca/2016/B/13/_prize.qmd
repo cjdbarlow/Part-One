@@ -1,0 +1,86 @@
+#### List:
+
+- Wash-in curve
+- Intro
+- Cardiovascular
+- Respiratory
+
+#### Wash-in curve
+
+![](/content/exams/anzca/2016/B/13/prize-image001.jpg){fig-alt="Alveolar-to-inspired concentration ratio rising faster during pregnancy"}
+
+#### Intro:
+
++----------------+----------------------------------------------------------------------------------------------+
+| Wash-in        | - Correlates with equilibration of inspired and alveolar (and effect site) partial pressures |
+|                | - i.e. rate at which F~A~/F~I~ approaches 100%                                               |
+|                | - ∝ delivery rate / uptake rate                                                              |
++----------------+----------------------------------------------------------------------------------------------+
+| Effects        | - *Resp:* ↑↑rate (most important)                                                            |
+|                | - *CVS:* ↓rate                                                                               |
+|                | - *CNS:* ↑rate of onset but no effect on wash-in                                             |
++----------------+----------------------------------------------------------------------------------------------+
+| Causes         | - *↑Metabolic rate*: due to foetus and placenta, cardiac work and resp work                  |
+|                | - *Mass effect*: cephalad displacement of diaphragm by gravid uterus                         |
+|                | - *Hormones:* progesterone, relaxin                                                          |
++----------------+----------------------------------------------------------------------------------------------+
+| Considerations | If GA LUSCS:                                                                                 |
+|                |                                                                                              |
+|                | - ↑Wash-in if mechanical ventilation                                                         |
+|                | - ↑Wash-in if nitrous oxide (insoluble, second gas effect)                                   |
++----------------+----------------------------------------------------------------------------------------------+
+
+#### Respiratory:
+
++--------------+------------------------------------------------------------------+
+| V~A~ : FRC   | - ↑RR 10% and ↑V~T~ 40% (progesterone at chemoreceptors + ↑BMR)  |
+|              | - ↑V~D~ ↔V~D~/V~T~ (progesterone bronchodilation)                |
+|              | - ↓FRC -20% erect, -30% supine, further under GA (mass effect)   |
+|              |                                                                  |
+|              |    -\>\> V~A~:FRC 6.1 cf. 2:1                                    |
+|              |                                                                  |
+|              |    -\>\> ↑Rate of rise F~A~/F~I~                                 |
++--------------+------------------------------------------------------------------+
+| V/Q matching | - ↑Pulmonary blood flow → recruitment and distension → ↑matching |
+|              |                                                                  |
+|              |    -\>\> ↑Rate of drug uptake                                    |
+|              |                                                                  |
+|              |    -\>\> ↑Rate of rise F~A~/F~I~ (especially insoluble agents)   |
++--------------+------------------------------------------------------------------+
+
+#### Cardiovascular:
+
++------------------------+-----------------------------------------------------+
+| Cardiac output         | **Changes:**                                        |
+|                        |                                                     |
+|                        | - ↑HR 25% (↑15% by end T1)                          |
+|                        | - ↑SV 40% (↑25% by end T1)                          |
+|                        | - ↑CO 45% (↑40% by end T1)                          |
+|                        |                                                     |
+|                        | **Causes:**                                         |
+|                        |                                                     |
+|                        | - ↑Metabolic rate → ↑preload                        |
+|                        | - Oestrogen → ↑RAAS → ↑plasma volume 40% → ↑preload |
+|                        | - Oestrogen → ↑Epo → ↑RBC volume 20% → ↑preload     |
+|                        | - Progesterone → ↓SVR, ↓afterload                   |
+|                        |                                                     |
+|                        |    -\>\> ↑Pulmonary uptake; but                     |
+|                        |                                                     |
+|                        |    -\>\> ↑Distribution                              |
+|                        |                                                     |
+|                        |    -\>\> ↓Rate of rise of Pv(Gas)                   |
+|                        |                                                     |
+|                        |    -\>\> ↓Rate of rise F~A~/F~I~                    |
++------------------------+-----------------------------------------------------+
+| Uteroplacental flow    | - Flow 750mL/min cf. 100mL/min                      |
+|                        |                                                     |
+|                        |    -\>\> ↑Tissue uptake                             |
+|                        |                                                     |
+|                        |    -\>\> ↓Rate of rise of Pv(Gas)                   |
+|                        |                                                     |
+|                        |    -\>\> ↓Rate of rise F~A~/F~I~                    |
++------------------------+-----------------------------------------------------+
+| Aortocaval compression | - ↓↓Preload → ↓cardiac output                       |
+|                        |                                                     |
+|                        | -\>\> May offset the above                          |
++------------------------+-----------------------------------------------------+

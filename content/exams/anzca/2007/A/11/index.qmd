@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007A Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} how the body handles a metabolic acidosis.
+:::
+
+Also asked in: [2005A Question 15](/content/exams/anzca/2005/A/15/index.qmd#examiner-comments), [2021A Question 14](/content/exams/anzca/2021/A/14/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} handling as linked processes with different time courses: dilution, intracellular and extracellular buffering, respiratory compensation and renal removal of fixed acid. Use balanced equations to connect bicarbonate recycling, titratable acid and ammonium excretion.
+
+::: {.structure-headings}
+### Dilution and Intracellular Buffering
+
+### Extracellular Buffering
+
+### Respiratory Compensation and Its Limits
+
+### Renal Bicarbonate Recycling
+
+### Titratable Acid and Ammonium Excretion
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**57%** of candidates passed this question.
+
+The main points to be covered were a definition of a metabolic acidosis, discussion of extracellular and intracellular buffering systems, respiratory compensation, the renal mechanisms to excrete non-volatile acids (titratable acidity, ammonium and ammonia), and resorption and regeneration of bicarbonate.
+
+Extra marks were awarded for the mechanism of respiratory compensation, explaining that respiratory compensation does not lead to acid excretion, description of buffering by long as well as short term mechanisms, specific details of ammonia and ammonium production and bicarbonate regeneration, understanding that H^+^ ions can not be excreted unbound, the amount of acid that can be excreted by different renal mechanisms, and aldosterone’s effect on H^+^ excretion.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2005/A/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Buffer systems](/content/acid_base/buffers.qmd)
+- [Acid–base compensation](/content/acid_base/compensation.qmd)
+- [Renal acid–base handling](/content/renal/acid_base.qmd)

@@ -1,0 +1,88 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006B Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the drug and non-drug treatment of ventricular fibrillation in an adult. [**Briefly describe**]{.task-verb} their mechanisms of action. (Do not discuss basic life support, airway therapies and oxygen)
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} treatment in a coherent sequence, prioritising defibrillation and relevant drugs. [**Briefly describe**]{.task-verb} each mechanism, including how epinephrine supports perfusion and antiarrhythmics assist refractory fibrillation.
+
+::: {.structure-headings}
+### Priorities and Treatment Sequence
+
+### Defibrillation
+
+### Epinephrine
+
+### Amiodarone and Lignocaine
+
+### Other Drugs in Selected Circumstances
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**44 %** of candidates passed this question.
+
+A similar question was asked in July 2005. The pass mark has improved significantly. Hopefully knowledge and understanding of this important syllabus topic will continue to improve.
+
+Candidates were expected to describe the current management of ventricular fibrillation with particular reference to defibrillation, epinephrine and antiarrhythmic therapy. Allowance was made for both old and new guidelines given their recent introduction. ILCOR published in 2005 (www.erc.edu/index.php/guidelines_download_2005/en/) and Australian guidelines in 2006 (www.resus.org.au/) The important areas to be addressed were:
+
+- Defibrillation, early intervention, effective therapy, biphasic vs. monophasic, energy settings and mechanism of action.
+- Epinephrine, dose, emphasis on activation of alpha 1 receptors resulting in vasoconstriction and improved coronary and cerebral blood flow.
+- Antiarrhythmic therapy, amiodarone and/or lignocaine with description of dose and mechanism of action.
+- Prioritisation, a description of the sequence of these therapies and how they fit into a cohesive management plan or protocol. This could be implied in description of the individual therapies.
+
+Extra marks were gained for a description of the possible role of vasopressin, magnesium, sodium bicarbonate and potassium.
+
+Common problems included; no clear sequence of therapies, the importance of defibrillation and energy settings omitted, epinephrine not mentioned or dosage and mechanisms incorrect.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2006/B/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Antiarrhythmics](/content/pharmacopoeia/cvs/antiarrhythmics.qmd)
+- [Amiodarone](/content/pharmacopoeia/cvs/amiodarone.qmd)

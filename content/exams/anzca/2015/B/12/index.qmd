@@ -1,0 +1,95 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015B Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the physiological factors that contribute to the competence and tone of the lower oesophageal sphincter.
+:::
+
+Also asked in: [2002A Question 8](/content/exams/anzca/2002/A/8/index.qmd#examiner-comments), [2006A Question 16](/content/exams/anzca/2006/A/16/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} competence through barrier pressure, the intrinsic physiological sphincter and supporting anatomy. Explain neural, hormonal and physical influences on tone and the effect of gastric pressure.
+
+::: {.structure-headings}
+### Physiological Sphincter and Barrier Pressure
+
+### Smooth Muscle and Neural Control
+
+### Diaphragm and Gastro-Oesophageal Anatomy
+
+### Hormonal and Physical Factors
+
+### Changes in Gastric Pressure and Competence
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**32.6%** of candidates achieved a pass in this question
+
+Main points expected were:
+
+Devoid of true sphincteric muscles, the terminal 4 cm of the oesophagus functions as a physiological sphincter. Anatomically, it is indistinguishable from the upper portions. This is contributed by:
+
+- Increased number of nerve cells providing tonic contraction of circular smooth muscles in the internal layer of the lower oesophagus.
+- The pinch-cock mechanism from crural fibres of the diaphragm which wraps the oesophagus and pinching it closed during muscular contraction.
+- Flap-valve mechanism at the gastro-oesophageal junction from gastric mucosal folds closing the orifice when the stomach is distended.
+- Oblique entry of the oesophagus into the stomach preventing retrograde flow.
+- Intra-abdominal position of the gastro-oesophageal junction which subjects the lower oesophagus to intra-abdominal pressure.
+
+Candidates were expected to demonstrate an understanding of the concept of barrier pressure, neural innervation and the effects of various hormones. Also expected was a discussion of physical factors such as increased gastric acidity and increased intra-abdominal pressure. Extra marks were given if candidates were able to correctly relate how changes in physiology alter the tone of the lower oesophageal sphincter tone.
+
+Most failures were due to inadequate knowledge and incorrect information. Features of some poor answers:
+
+- Confusion with factors affecting gastric emptying
+- A format based on patient, anaesthetic and surgical factors which fail to address physiological factors
+- Listing of pharmacological factors (which was not requested)
+- Regurgitation of irrelevant facts (such as the ability to measure the oesophageal tone with a manometer)
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2002/A/8/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2002/A/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Oesophagus](/content/git/oesophagus.qmd)

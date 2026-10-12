@@ -1,0 +1,37 @@
+Propofol computer controlled infusion devices use a syringe driver controlled by a microprocessor loaded with algorithms to control infusion rates to deliver and maintain targeted concentrations of Propofol.
+
+Typical targeted concentrations are typically 2-8mcg/ml depending on desired effect.
+
+These operate as an open loop model as delivered concentration is not measured.
+
+Algorithms based on multi-compartment pharmacokinetic models based on small studies in healthy volunteers.
+
+Multi compartment model:
+
+![](/content/exams/anzca/2010/B/6/standard-image24.png){fig-alt="Three compartment kinetic model with elimination and effect-site equilibration"}
+
+Algorithms deliver Propofol based on Bolus, elimination, transfer principle.
+
+- Bolus dose to deliver rapid saturation of central compartment 
+- Variable infusion to maintain concentration taking into account redistribution to compartments (k13/k12) and elimination (k10) from central compartment. 
+
+Algorithms differ according to site of target (effect site or plasma) and distribution/compartment variables:
+
+Marsh: Input Age and Weight (only weight used) 
+
+- typically plasma concentration targeted
+- Variable compartment sizes but bigger V1 → larger Bolus 
+
+Schneider: age, weight, sex, height - limits compartment sized to max BMI 
+
+- Fixed V1 (4.27L) and V3, 
+- Variable V2and Keo
+
+If set point is adjusted: 
+
+- For a higher concentration:
+  - A small bolus is given
+  - Infusion rate is increased
+- For a lower concentration:
+  - Infusion is paused until desired level is reached
+  - Infusion rate restarts at a lower rate

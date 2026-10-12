@@ -1,0 +1,74 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004B Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the difference between a single twitch and a tetanic contraction in a skeletal muscle fibre. [**Include**]{.task-verb} in your answer the physiological basis for the development of a tetanic contraction.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} **Single Twitch**, **Incomplete and Complete Tetanic Contraction**, and **Critical Frequency**. [**Include**]{.task-verb} the **Physiological Basis** connecting repeated stimulation, intracellular calcium and summation of the contractile response.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**54%** of candidates passed this question.
+
+This question required an understanding of the physiological basis of a single twitch versus a tetanic contraction. In particular, it was expected that the answers made reference to the following concepts with regards a tetanic contraction:
+
+- The requirement for repetitive stimulation
+- The importance of the frequency of the stimuli
+- The difference between incomplete tetanic contraction and complete tetanic contraction
+- The critical frequency required for tetanic contraction and its relationship to the single twitch duration for that fibre
+- That the contractile mechanism of skeletal muscle has no refractory period
+
+Candidates also earned marks for outlining the sequence of events from motor nerve action potential to muscle depolarisation and subsequent contraction. Some candidates included a comparison with cardiac muscle action potential and its important differences regarding the question of tetanic contraction.
+
+The most common errors related to confusion regarding what is summating or fusing in a tetanic response. This mainly was in relation to whether it was the action potential or the contractile response or both that were summating in tetanic type contractions.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Skeletal Muscle](/content/msk/skeletal_muscle.qmd)

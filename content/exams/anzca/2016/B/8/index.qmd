@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016B Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} how the oxygen Vacuum Insulated Evaporator works.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the system using a labelled diagram and follow oxygen from liquid storage to pipeline delivery. Explain insulation, vaporisation, pressure regulation and safety devices through their physical principles.
+
+::: {.structure-headings}
+### Labelled System Diagram
+
+### Liquid Oxygen and Insulation
+
+### Vaporisation and Heat Transfer
+
+### Pressure Regulation and Pipeline Delivery
+
+### Safety Devices and Reserve Supply
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**47%** of candidates achieved a pass in this question
+
+A description was required, aided by a diagram where necessary. The VIE is filled with cold liquid oxygen, and stored in an insulated container under pressure at a temperature above its boiling point, but below its critical temperature. In addition to the insulation, a steady demand for oxygen keeps the liquid cool, due to the effect of latent heat of vapourisation. A description of how a VIE functions with fluctuations in demand, temperature or pressure gained additional marks.
+
+Some candidates could obtain no marks, because they only described active scavenging or fractional distillation of air. Other common errors include; misunderstanding the effect of latent heat of vapourisation, stating that the critical temperature was more negative than the boiling point, and neglecting to discuss the effect of temperature on VIE function.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2016/B/8/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2016/B/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Gas supply](/content/equipment/gas_supply.qmd)

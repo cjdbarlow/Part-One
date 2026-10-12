@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015A Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+Sevoflurane and fentanyl are a common anaesthetic drug combination. [**Discuss**]{.task-verb} pharmacological reasons why it is useful to use them together.
+:::
+
+Also asked in: [2009B Question 1](/content/exams/anzca/2009/B/1/index.qmd#examiner-comments), [2013A Question 6](/content/exams/anzca/2013/A/6/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+**[Discuss]{.task-verb}** why the combination is useful under these headings. Connect each interaction to its effect on anaesthesia, dose requirements or recovery.
+
+::: {.structure-headings}
+### Pharmacodynamic Interactions
+
+### Pharmacokinetic Interactions: Onset, Offset and Elimination
+
+### Pharmaceutics and Implications of Reduced Doses
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**15.7%** of candidates achieved a pass in this question
+
+This question was previously asked in the first sitting 2013 when a higher percentage of candidates passed this question. The most common error made was to provide a table detailing often a considerable number of pharmacokinetic and pharmacodynamic properties and then failing to relate this to the question.       This was particularly the case with the pharmacokinetic properties of each drug.
+
+To pass this question candidates needed to recognize that these drugs complement each other in terms of providing balanced anaesthesia and that they have synergistic actions with regards to their CNS depressant actions. Synergism allows a reduced dose of each drug to be administered reducing the adverse effects associated with these drugs when given in isolation at a higher dose. Detail regarding these concepts as well as specific examples of how they facilitate decreased adverse effects was expected. Better candidates used correctly labelled isobolograms to enhance their answer and noted the cost savings as well as provided examples of the benefits of the combination in surgical subspecialty groups, e.g. obstetrics- fentanyl reducing the dose of sevoflurane which can cause uterine atony.
+
+Several candidates provided detail regarding situations where the drug combination was not helpful and this did not attract merit. Several candidates incorrectly asserted that the combination of drugs decreased the rate of PONV of either agent alone. A considerable number of candidates falsely stated that fentanyl did not possess any sedative or anaesthetic properties.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2009/B/1/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2009/B/1/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Drug interactions](/content/pharmacology/drug_interactions.qmd)
+- [Inhalational anaesthetics](/content/pharmacopoeia/neuro/inhalational_anaesthetics.qmd)
+- [Opioid pharmacology](/content/pharmacopoeia/analgesics/opioids.qmd)

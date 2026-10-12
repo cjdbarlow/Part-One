@@ -1,0 +1,65 @@
+#### List:
+
+- Effects of hypothermia
+- alpha-stat
+- pH-stat
+
+#### Effects of hypothermia:
+
++------------+------------------------------------------------------------------------------------------+
+| Solubility | - Henry’s law: amount dissolved = partial pressure x solubility coefficient              |
+|            | - Solubility coefficient ∝ 1/temperature (T)                                             |
+|            |                                                                                          |
+|            | **Ex vivo (assuming stable gas content):**                                               |
+|            |                                                                                          |
+|            | - ↓1°C → ↓PaO~2~ 5mmHg                                                                   |
+|            | - ↓1°C → ↓PaCO~2~ 2mmHg                                                                  |
+|            |                                                                                          |
+|            | **In vivo (assuming stable gas partial pressures):**                                     |
+|            |                                                                                          |
+|            | - ↓T → ↑CaO~2~:PaO~2~ (minor factor, since most is bound to Hb)                          |
+|            | - ↓T → ↑CaCO~2~:PaCO~2~ (minor factor, since most is bound to carbamino or as HCO~3~^-^) |
++------------+------------------------------------------------------------------------------------------+
+| Metabolism | - ↓T → ↓rate of oxidative phosphorylation → ↓VO~2~ (↓MR 7% per -1°C)                     |
+|            | - ↓T→ ↓rate of Krebs cycle → ↓VCO~2~ (→ ↓PaCO~2~ → ↑pH)                                  |
++------------+------------------------------------------------------------------------------------------+
+| pH         | - ↑pH 0.015 per ↓1°C (Rosenthal equation)                                                |
+|            |   - ↓Temp → ↓H~2~O dissociation                                                          |
+|            |   - ↓Metabolic rate → ↓VCO~2~ →↓PaCO~2~                                                  |
+|            |   - ↑CO~2~ solubility → ↓PaCO~2~ : CaCO~2~                                               |
++------------+------------------------------------------------------------------------------------------+
+
+#### Alpha stat:
+
++------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Hypothesis | - pH ICF = pN ≈ 6.8                                                                                                                                        |
+|            | - pKa imidazole groups of ICF proteins ≈ 6.8                                                                                                               |
+|            | - Alpha = ratio unpronated : protonated residues = 0.55 normally                                                                                           |
+|            | - Hypothesis: that ‘α’ is unchanged across the temperature range; i.e. as temperature decreases, pH and pKa of imidazoles should increase at the same rate |
++------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Management | - Aim: ensure ECF pH will be 7.4, PaCO~2~ will be 40mmHg once rewarmed                                                                                     |
+|            | - Hence: as ↓T, no change minute ventilation, allow ↑pH, ↓PaCO~2~                                                                                          |
+|            | - ABG machine: enter T = 37°C                                                                                                                              |
++------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Advantages | - Ensures trapping of metabolic intermediates in cytosol\                                                                                                  |
+|            |   (Davis hypothesis)                                                                                                                                       |
+|            | - Preserves enzyme and ion channel function                                                                                                                |
+|            | - Ensures optimal ICF buffering                                                                                                                            |
+|            | - Preserves CBF autoregulation, minimises ICP                                                                                                              |
+|            | - Minimise microembolisation e.g. stroke                                                                                                                   |
+|            | - Prevent ischaemic damage                                                                                                                                 |
++------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### pH stat:
+
++------------+------------------------------------------------------------------+
+| Hypothesis | - That ECF pH 7.4 and ICF pH 6.8 are optimal at any temperature  |
++------------+------------------------------------------------------------------+
+| Management | - Aim: ensure plasma pH 7.4 across temperature changes           |
+|            | - Hence: as ↓T, hypoventilate to ensure the above                |
+|            | - ABG machine: enter T = actual °C                               |
++------------+------------------------------------------------------------------+
+| Advantages | - Luxury cerebral perfusion (↑PaCO~2~ → vasodilation)            |
+|            | - Systemic vasodilation → fast and homogenous cooling (↑PaCO~2~) |
+|            | - Right shift OHDC (↑PaCO~2~) offsets left shift (↓T, ↑pH)       |
++------------+------------------------------------------------------------------+

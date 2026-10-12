@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002A Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly outline**]{.task-verb} the effects of thiopentone and ketamine not mediated via the central nervous system.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly outline**]{.task-verb} the peripheral effects in a comparison table, distinguishing direct cardiovascular and respiratory actions from changes mediated through the CNS.
+
+::: {.structure-table}
+| Peripheral Effect | Thiopentone | Ketamine |
+|---|---|---|
+| Cardiovascular Mechanisms and Effects | | |
+| Respiratory Mechanisms and Effects | | |
+| Tissue Irritation and Formulation | | |
+| Hypersensitivity and Other Effects | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**77%** of candidates passed this question.
+
+Passing required attention to both the cardiovascular and respiratory peripheral effect of thiopentone and ketamine. Mention of anaphylactic and anaphylactoid reactions; tissue irritation; enzyme induction and porphyria also gained points.
+
+Some candidates were unable to clearly differentiate the central and peripheral direct effects of the drugs. However some were very lucid and described both the peripheral effect and the alteration superadded with central system input.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2002/A/11/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Barbiturates](/content/pharmacopoeia/neuro/barbiturates.qmd)
+- [Ketamine](/content/pharmacopoeia/neuro/ketamine.qmd)

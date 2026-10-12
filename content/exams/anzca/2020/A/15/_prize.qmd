@@ -1,0 +1,101 @@
+#### List:
+
+- Summary
+- Upper airway
+- Mechanics
+- Volumes
+- Gas exchange
+- Control of breathing
+
+#### Summary:
+
++--------------+-------------------------------------------------------------+
+| Changes      | - Degeneration of tissues                                   |
+|              | - Progressive functional impairment from \~35 years         |
++--------------+-------------------------------------------------------------+
+| Implications | - Reduced reserve                                           |
+|              | - Poor tolerance of stress (e.g. exercise, post-laparotomy) |
+|              | - Susceptible to types 1 and 2 failure                      |
++--------------+-------------------------------------------------------------+
+
+#### Upper airway:
+
++-------------+------------------------------------------------------------------+
+| Musculature | - ↓Pharyngeal dilator muscle tone → ↑risk OSA                    |
++-------------+------------------------------------------------------------------+
+| Reflexes    | - ↓Airway reflexes → ↓clearance of secretions → ↑risk aspiration |
++-------------+------------------------------------------------------------------+
+
+#### Mechanics:
+
++-----------------------+--------------------------------------------------------------------------------------------------+
+| Airway resistance     | - Senile emphysema → ↓radial traction → ↑dynamic compression in forced expiration → ↓PEFR, ↓FEV1 |
++-----------------------+--------------------------------------------------------------------------------------------------+
+| Lung compliance       | - Senile emphysema → ↓elastic recoil → ↑risk of breath stacking during mechanical ventilation    |
++-----------------------+--------------------------------------------------------------------------------------------------+
+| Chest wall compliance | - ↓Compliance → ↓outward recoil → ↑work of breathing: due to                                     |
+|                       |   - Calcification of costal cartilage                                                            |
+|                       |   - Joint degeneration                                                                           |
+|                       |   - Barrel shape → flattened diaphragm → mechanical disadvantage                                 |
+|                       |   - Osteoporosis → kyphosis, ↑A-P diameter                                                       |
++-----------------------+--------------------------------------------------------------------------------------------------+
+| Musculature           | - Sarcopaenia (type II \> type I) → ↓PEFR, ↓FEV1, ↓MVV                                           |
++-----------------------+--------------------------------------------------------------------------------------------------+
+| Breathing pattern     | - Small ↑airflow resistance                                                                      |
+|                       | - Large ↓resp system compliance                                                                  |
+|                       | - Hence ↑RR, ↓TV but ↔MV for a given lean mass                                                   |
++-----------------------+--------------------------------------------------------------------------------------------------+
+
+#### Volumes:
+
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Volumes          | - Senile emphysema →                                                                                                                                                           |
+|                  |   - ↑↑RV (\~1%/year), ↑FRC (\~0.2%/year)                                                                                                                                       |
+|                  |   - ↓FVC (\~0.5%/year), ↓ERV                                                                                                                                                   |
+|                  | - Complex effect on TLC; minimal change overall                                                                                                                                |
+|                  |   - ↑Lung compliance → ↑TLC                                                                                                                                                    |
+|                  |   - ↓Chest wall compliance → ↓TLC                                                                                                                                              |
+|                  |   - Atrophy of intervertebral discs → ↓thoracic height → ↓TLC                                                                                                                  |
+|                  |   - Altered geometry → hyperinflation → ↑TLC                                                                                                                                   |
+|                  |                                                                                                                                                                                |
+|                  | ![](/content/exams/anzca/2020/A/15/prize-image001.jpg){fig-alt="Age-related changes in total lung capacity, functional residual capacity, residual volume and vital capacity"} |
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Closing capacity | - Senile emphysema → ↓airway splinting in expiration                                                                                                                           |
+|                  |   - ↑closing capacity → ↑shunt → ↓PaO~2~                                                                                                                                       |
+|                  |     - Present when standing                                                                                                                                                    |
+|                  |     - Worse when standing                                                                                                                                                      |
+|                  |                                                                                                                                                                                |
+|                  | ![](/content/exams/anzca/2020/A/15/prize-image002.jpg){fig-alt="Closing capacity and erect and supine functional residual capacity against age"}                               |
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Gas exchange:
+
++-------------+------------------------------------------------------------------------+
+| Ventilation | - Senile emphysema → ↓radial traction → small airway closure → ↓PaO~2~ |
+|             | - Sarcopaenia → ↓MVV                                                   |
++-------------+------------------------------------------------------------------------+
+| Perfusion   | - ↓Cardiac output → ↓O~2~ transfer (perfusion-limited in health)       |
++-------------+------------------------------------------------------------------------+
+| Matching    | - Widening of V&Q scatter from apex to base → impaired gas exchange    |
+|             |   - ↑Alveolar dead space (but ↔PaCO~2~)                                |
+|             |   - ↑Shunt (with ↓PaO~2~)                                              |
++-------------+------------------------------------------------------------------------+
+| Diffusion   | - ↑Alveolar thickness (fibrosis)                                       |
+|             | - ↓Alveolar surface area (senile emphysema)                            |
+|             |                                                                        |
+|             | → ↓DLCO (0.2mL/mmHg/year)\                                             |
+|             | → ↓PaO~2~ if diffusion-limited exchange                                |
++-------------+------------------------------------------------------------------------+
+| Overall     | - ↓O~2~ transfer + ↓max cardiac output + sarcopaenia→ ↓VO~2~max\       |
+|             |   (\~1% per year)                                                      |
++-------------+------------------------------------------------------------------------+
+
+#### Control of breathing:
+
++--------------------+---------------------------------------------------+
+| Chemoreceptors     | - Dysfunction of central and peripheral receptors |
++--------------------+---------------------------------------------------+
+| Respiratory centre | - ↑Periodic breathing                             |
+|                    | - ↓↓Response to ↓PaO~2~ and ↑PaCO~2~              |
+|                    | - ↑Toxicity of opioids                            |
++--------------------+---------------------------------------------------+

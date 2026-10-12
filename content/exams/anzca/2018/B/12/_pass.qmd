@@ -1,0 +1,39 @@
+Normal blood glucose range is 4-6mmol.L-1 however this will rise in the immediate period after carbohydrate consumption.
+
+Tightly regulated to provide ongoing supply to tissue, particularly BSL dependant tissue i.e. brain with minimal storage
+
+Regulation via secretion or inhibition of insulin and glucagon by pancreatic islets. 
+
+Glucose regulation is primarily from the effects of insulin and glucagon on the liver balancing rates of gluconeogenesis and glycogenesis 
+
+**↑BSL**
+
+- \> BSL \>5.6 → ↑ glucose flow through low affinity GLUT 2 transporters into pancreatic Beta cells 
+- Glucose undergo glycolysis → pyruvate → citric acid cycle → Oxidative phosphorylation → ATP → ATP inhibition of ATP Gated K channel → K+ accumulates → Ca influx 
+
+→ Rapid release of preformed Insulin from vesicles
+
+→ Increase in slow release of insulin from increased production stimulated by glutamate produced through citric acid cycle  
+
+**Insulin Effects **
+
+- Short Circulating half-life \~5min, polypeptide hormone
+- GLUT 4 expression in skeletal muscle and adipose tissue → ↑ uptake
+- ↑ Glycogenesis 100mg liver, 400mg skeletal muscle
+- ↓ Hepatic Gluconeogenesis 
+- ↑ Fatty acid synthesis 
+- ↑ Protein Synthesis 
+
+**↓ BSL**
+
+- BSL falls \<5.6 → ↓Insulin production and release 
+- Ongoing ↓ in BSL → 
+
+↑ glucagon release from Pancreatic A cells 
+
+↑ Hypothalamus SNS outflow → cortisol release + further ↑Glucagon 
+
+**Glucagon** **and** **Cortisol**
+
+- ↑ gluconeogenesis 
+- ↑ lipolysis and ketone formation, proteolysis

@@ -1,0 +1,97 @@
+#### List:
+
+- Intro
+- ↑↓VCO~2~
+- ↑↓V~A~
+- Control of V~A~
+- ↑↓K
+
+#### Intro:
+
++-----------------+-------------------------------------------------------------------------------+
+| CO2 homeostasis | - CO~2~ is produced by Krebs cycle in mitochondria during aerobic respiration |
+|                 | - PaCO~2~ tightly controlled. 40 +/- 1-2mmHg usually                          |
++-----------------+-------------------------------------------------------------------------------+
+| Equation        | - PACO~2~ = VCO~2~/V~A~ x k                                                   |
+|                 |                                                                               |
+|                 | Where PACO~2~ ≈ PaCO~2~ if minimal dead space and at equilibrium              |
+|                 |                                                                               |
+|                 | And K = 0.863, derived from ideal gas laws                                    |
+|                 |                                                                               |
+|                 | - \*Note PACO~2~ ∝ production/elimination                                     |
+|                 | - \*Note negative feedback loop: ↑PaCO~2~ → ↑V~A~ → ↓PaCO~2~                  |
+|                 | - \*Note metabolic rate matched to V~A~ via control of PaCO~2~                |
++-----------------+-------------------------------------------------------------------------------+
+
+#### CO~2~ production:
+
++----------------------+----------------------------------------------------------+
+| ↑MR → ↑VCO~2~:       | - ↑temp (7% per 1°C) e.g. sepsis, malignant hyperthermia |
+|                      | - Exercise                                               |
+|                      | - Youth: neonate 2x                                      |
+|                      | - Male sex                                               |
+|                      | - ↑size                                                  |
+|                      | - Pregnancy (1.2x)                                       |
++----------------------+----------------------------------------------------------+
+| ↓ MR \> ↓VCO~2~:     | - ↓ temp (7% per 1°C)                                    |
+|                      | - Cachexia                                               |
++----------------------+----------------------------------------------------------+
+| Histiotoxicity       | - e.g. cyanide → ↓VCO~2~ → ↓PaCO~2~                      |
++----------------------+----------------------------------------------------------+
+| Respiratory quotient | i.e. ratio VCO~2~:VO~2~                                  |
+|                      |                                                          |
+|                      | - Carbohydrate: RQ 1.0                                   |
+|                      | - Fat: RQ 0.8                                            |
+|                      | - Protein: RQ 0.7                                        |
+|                      | - Alcohol 0.7                                            |
+|                      | - Ketones 0.7                                            |
++----------------------+----------------------------------------------------------+
+
+#### Alveolar ventilation:
+
++----------------------+-----------------------------------------------------------------------------------------+
+| Equation:            | V~A~ = RR x (V~T~ – V~D~)                                                               |
++----------------------+-----------------------------------------------------------------------------------------+
+| ↑RR or V~T~          | - CNS: pain, anxiety, pregnancy (progesterone)                                          |
+|                      | - Hypoxia (synergistic with ↑PaCO~2~ at peripheral chemoreceptors)                      |
+|                      | - Metabolic acidosis: PaCO~2~ = 8 + 1.5 x HCO~3~^-^ (also synergistic)                  |
++----------------------+-----------------------------------------------------------------------------------------+
+| ↓RR or V~T~          | - Drugs: general anaesthetics, opioids                                                  |
+|                      | - CNS: e.g. stroke                                                                      |
+|                      | - Metabolic alkalosis PaCO~2~ = 40 + 0.7 x (HCO~3~^-^ - 24)                             |
+|                      | - Muscular: e.g. dystrophy                                                              |
+|                      | - Skeletal: e.g. scoliosis                                                              |
+|                      | - Pulmonary: e.g. severe COPD                                                           |
++----------------------+-----------------------------------------------------------------------------------------+
+| ↑V~D~                | - Apparatus: e.g. long tubing distal to Y piece                                         |
+|                      | - Anatomical: reasonably fixed                                                          |
+|                      | - Alveolar: (i.e. West zone 1)                                                          |
+|                      |   - ↑alveolar pressure: positive pressure ventilation, PEEP                             |
+|                      |   - ↓pulmonary arterial pressure: e.g. haemorrhage                                      |
++----------------------+-----------------------------------------------------------------------------------------+
+| Perfusion limitation | - CO~2~ 30x more soluble than O~2~                                                      |
+|                      | - Small partial pressure gradient from mixed venous blood to alveolar air (46 → 40mmHg) |
++----------------------+-----------------------------------------------------------------------------------------+
+
+#### Control of alveolar ventilation:
+
++------------+------------------------------------------------------------------------------------------------------------+
+| Afferents  | - Peripheral chemoreceptors: sense PaCO~2~ directly                                                        |
+|            | - Central chemoreceptors: sense PaCO~2~ indirectly via pH in brain ECF (CO~2~ crosses blood-brain barrier) |
++------------+------------------------------------------------------------------------------------------------------------+
+| Controller | - Respiratory centre in medulla                                                                            |
++------------+------------------------------------------------------------------------------------------------------------+
+| Efferents  | - Inspiratory +/- expiratory muscles                                                                       |
++------------+------------------------------------------------------------------------------------------------------------+
+| Circuit    | - ↑PaCO~2~ → ↑afferent stimulation → ↑discharge from resp centre → ↑RR, ↑V~T~ → ↓PaCO~2~                   |
++------------+------------------------------------------------------------------------------------------------------------+
+
+#### Factors affecting PaCO~2~:CaCO~2~
+
++----------------+----------------------------------------------------------------------+
+| Temperature    | - ↓T → ↑solubility → ↓ PaCO~2~:CaCO~2~ → i.e. ↓ K                    |
++----------------+----------------------------------------------------------------------+
+| Haldane effect | - ↓ PaO~2~/SaO~2~ → ↑Hb affinity for CO~2~ → ↓PaCO2:CaCO~2~          |
+|                | - 70% of increment due to ↑carbamino formation                       |
+|                | - 30% of increment due to ↑pKa imidazoles to 8.2 hence better buffer |
++----------------+----------------------------------------------------------------------+

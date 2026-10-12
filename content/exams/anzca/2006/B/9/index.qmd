@@ -1,0 +1,95 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006B Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the factors that oppose left ventricular ejection.
+:::
+
+Also asked in: [2011A Question 10](/content/exams/anzca/2011/A/10/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} afterload through ventricular wall tension and the factors that determine it. Apply the relevant equations to cardiac, vascular and intrathoracic influences, explaining the direction of each effect.
+
+::: {.structure-headings}
+### Afterload and Wall Tension
+
+### Ventricular Geometry and Outflow Obstruction
+
+### Systemic Vascular Resistance
+
+### Arterial Compliance
+
+### Intrathoracic Pressure
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**14 %** of candidates passed this question.
+
+A large proportion of candidates misinterpreted this question to be about determinants of left ventricular ejection fraction and wasted a lot of time on describing pre-load, contractility and heart rate for which no marks were awarded.
+
+This is essentially a question about determinants of afterload which is the sum of all forces that oppose left ventricular ejection.
+
+Important points looked for were:
+
+- Recognition that the sum of factors which oppose LV ejection is afterload.
+- Afterload can also be described as ventricular wall tension.
+
+Factors that determine afterload:
+
+- Systemic Vascular Resistance. Recognition that this is a major contributor to afterload. Definition, role of SVR in determining afterload and factors which alter SVR attracted extra marks.
+- Left ventricular outflow tract resistance and examples of conditions that change this e.g. aortic stenosis.
+- Effect of aortic compliance on afterload.
+- Ventricular wall factors such as radius and thickness. The relevance of Laplace’s law in relating ventricular wall radius and thickness to wall tension.
+- Effect of blood viscosity.
+- Effect of arterial impedance.
+- Effect of changes in intrathoracic pressure as a result of IPPV or other states. The fact that IPPV actually reduces afterload by reducing transmural pressure was rarely stated.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2006/B/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Determinants of cardiac output](/content/cvs/co_determinants.qmd)

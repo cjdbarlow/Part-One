@@ -1,0 +1,66 @@
+#### List:
+
+- Intro: cerebral circulation and flow dynamics
+- Direct effect: cerebral and systemic
+- Compensation: cerebral and systemic
+
+#### Intro:
+
++----------------------+----------------------------------------------------------------------------------+
+| Cerebral circulation | - Normal CBF 750mL/min, 58mL/min/100g                                            |
+|                      | - Supply by internal carotid and vertebral arteries                              |
+|                      | - Drainage by venous sinuses                                                     |
+|                      | - Constant CBF vital; even brief interruption causes unconscious collapse\       |
+|                      |   (risk of injury, vulnerability)                                                |
++----------------------+----------------------------------------------------------------------------------+
+| Flow dynamics        | - CBF = Cerebral perfusion pressure (CPP) / cerebral vascular resistance (CVR)   |
+|                      | - Starling resistor mechanism:                                                   |
+|                      |   - In health: CPP = cerebral arterial – cerebral venous pressure                |
+|                      |   - If raised ICP: CPP = cerebral arterial – intracranial pressure               |
+|                      | - Normal values:                                                                 |
+|                      |   - Cerebral arterial = mAP when supine= 100mmHg at right atrial level           |
+|                      |   - Cerebral venous = CVP when supine = 2mmHg at right atrial level              |
+|                      |   - ICP = 5-10mmHg supine at external acoustic meatus                            |
+|                      | - Resistance = (8 x length x viscosity) / π x radius^4^) (assuming laminar flow) |
+|                      | - Hence vasodilation → ↑flow                                                     |
++----------------------+----------------------------------------------------------------------------------+
+
+#### Direct effect: supine → standing
+
++--------------------+-----------------------------------------------------------------------+
+| Hydrostatic change | - e.g. +30cmH2O = +22mmHg                                             |
++--------------------+-----------------------------------------------------------------------+
+| CNS effect         | - 10% ↓CPP, 10% ↓CBF (instantaneous)                                  |
+|                    |   - Cerebral arterial pressure: 100→78mmHg                            |
+|                    |   - Cerebral venous pressure: 2→-20mmHg                               |
+|                    |   - ICP: 5→-10 mmHg due to a) ↓venous\>arterial volume b) ↓CSF volume |
+|                    |   - CVR: unchanged                                                    |
+|                    |   - CPP: (100 – 2) → (78 - -10): 98 → 88 (\~10% drop)                 |
++--------------------+-----------------------------------------------------------------------+
+| CVS effect         | - ↓CPP, ↓and CBF (in seconds)                                         |
+|                    |   - mAP: venous pooling → ↓preload → ↓CO → ↓mAP → ↓CPP → CBF          |
++--------------------+-----------------------------------------------------------------------+
+
+#### Compensation: supine → standing
+
++------------+------------------------------------------------------------------------------------------------------------------------------------+
+| Aim        | - Attenuate the drop in CPP                                                                                                        |
+|            | - Note: all responses impaired under GA                                                                                            |
++------------+------------------------------------------------------------------------------------------------------------------------------------+
+| CNS effect | - Myogenic autoregulation (instantaneous)                                                                                          |
+|            |   - ↓Stretch → ↓reflex vasoconstriction → ↓CVR → ↑CBF                                                                              |
+|            | - Metabolic autoregulation (in seconds)                                                                                            |
+|            |   - ↑H^+^, K^+^, lactate → vasodilatation → ↓CVR → ↑CBF                                                                            |
+|            | - Central ischaemic response (in seconds)                                                                                          |
+|            |   - ↑SNS → ↑cardiac output, vasoconstriction → ↑mAP → ↑CBF                                                                         |
+|            | - Fainting (in seconds)                                                                                                            |
+|            |   - Loss of uphill hydrostatic gradient → ↑CBF                                                                                     |
++------------+------------------------------------------------------------------------------------------------------------------------------------+
+| CVS effect | - Skeletal muscle pump and valves (in seconds)                                                                                     |
+|            |   - Activity → ↑venous return, preload → ↑cardiac output → ↑mAP → ↑CBF                                                             |
+|            | - Baroreceptor response (in 10-30 seconds)                                                                                         |
+|            |   - ↓Stretch of carotid sinus and aortic arch baroreceptors → ↑SNS, ↓PSNS output → ↑cardiac output, vasoconstriction → ↑mAP → ↑CBF |
+|            |   - Note delayed if elderly, autonomic neuropathy                                                                                  |
++------------+------------------------------------------------------------------------------------------------------------------------------------+
+
+(\*Note: the “cerebral arterial pressure” and “cerebral venous pressure” terminology is my own)

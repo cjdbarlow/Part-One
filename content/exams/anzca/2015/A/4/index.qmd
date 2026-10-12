@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015A Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+A surgeon wishes to use topical local anaesthetic in the nose before surgery in a 30 year old 70 kg man. He normally uses topical cocaine 5% plus lignocaine 2% with adrenaline 1:100,000 injection. [**What volumes**]{.task-verb} of these drugs can be used safely? [**What are**]{.task-verb} the potential toxic effects of cocaine and [**how does**]{.task-verb} lignocaine and adrenaline affect these?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+Show [**what volumes**]{.task-verb} can be used through concentration and dose calculations, then explain [**what**]{.task-verb} the toxic effects are and [**how**]{.task-verb} the combination modifies them. Separate sodium channel toxicity from monoamine effects and distinguish central from cardiovascular consequences.
+
+::: {.structure-headings}
+### Concentrations, Doses and Combined Exposure
+
+### Local Effects and Absorption
+
+### Central Nervous System Toxicity
+
+### Cardiovascular Toxicity
+
+### Interactions of Cocaine, Lignocaine and Adrenaline
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**48.9%** of candidates achieved a pass in this question
+
+This question consists of two parts: Part 1: To score marks in part 1 there had to be some possibility that the patient could survive the administered doses. Part 2: Three areas should be addressed. i) The sodium channel effects on the central nervous system. ii) The sodium channel effects on the heart. iii) The effects caused by noradrenaline/serotonin re-uptake inhibition. Current data suggest there are less serious events if cocaine is given with adrenaline than without it, however individual patients may have idiosyncratic reactions.
+
+Commonly confused issues included: A 1% solution is 10mg/ml not 1mg/ml or 0.1mg/ml. If your dose calculation is giving you a ridiculous value, you should consider the possibility you have made a mistake. The limited data suggest that CNS toxicity is additive. Cardiovascular toxicity is more complex. CNS toxicity is not confined to lignocaine, as cocaine is a local anaesthetic in its own right. The amount of adrenaline injected with local anaesthetic rarely causes serious problems. It is not safer to increase the dose of cocaine in order to give less lignocaine and adrenaline. Nasal septal necrosis is not commonly seen after a single dose of cocaine used in ENT surgery.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2015/A/4/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2015/A/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Local anaesthetic principles](/content/pharmacopoeia/neuro/local_anaesthetic_principles.qmd)
+- [Local anaesthetics](/content/pharmacopoeia/neuro/local_anaesthetics.qmd)

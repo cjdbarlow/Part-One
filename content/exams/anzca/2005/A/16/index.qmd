@@ -1,0 +1,89 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005A Question 16 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly explain**]{.task-verb} the principles of Doppler ultrasound used to measure cardiac output.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly explain**]{.task-verb} ultrasound generation and the Doppler equation, then show how velocity integrated over time and cross-sectional area produce stroke volume and cardiac output. Include angle dependence and measurement limitations.
+
+::: {.structure-headings}
+### Ultrasound and the Piezoelectric Effect
+
+### Doppler Shift, Equation and Incident Angle
+
+### Velocity–Time Integral and Cross-Sectional Area
+
+### Stroke Volume and Cardiac Output
+
+### Techniques, Advantages and Limitations
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**52 %** of candidates passed this question.
+
+Important points:
+
+- Nature of ultrasound waves and working frequencies
+- Piezoelectric effect
+- Doppler effect
+- Doppler equation relating velocity and Doppler shift in frequency
+- Components of the Doppler equation, particularly the incident angle
+- Cardiac output measurement
+  - Measurement of flow from cross sectional area and velocity
+  - Integrated flow over time to give stroke volume
+  - Heart rate
+- Advantages/disadvantages
+
+The most common mistake was to equate velocity or a single flow rate with cardiac output; not accounting for the pulsatile nature of cardiac output.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2005/A/16/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Ultrasound](/content/equipment/ultrasound.qmd)

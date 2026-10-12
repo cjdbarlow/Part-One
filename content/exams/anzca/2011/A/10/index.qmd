@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011A Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the factors that oppose left ventricular ejection.
+:::
+
+Also asked in: [2006B Question 9](/content/exams/anzca/2006/B/9/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} afterload through ventricular wall tension and the factors that determine it. Apply the relevant equations to cardiac, vascular and intrathoracic influences, explaining the direction of each effect.
+
+::: {.structure-headings}
+### Afterload and Wall Tension
+
+### Ventricular Geometry and Outflow Obstruction
+
+### Systemic Vascular Resistance
+
+### Arterial Compliance
+
+### Intrathoracic Pressure
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question was passed by **25%** of candidates.
+
+As previously, this question was misinterpreted by many candidates and answered as for determinants of left ventricular ejection fraction: descriptions of preload and contractility attracted no marks. The main points expected included: recognition that afterload opposes left ventricular ejection, definition of afterload, the contribution of SVR and factors determining SVR, and the application of the law of LaPlace and the use of the Hagen-Poiseuille equation to describe factors which contribute to afterload. Additional marks were awarded for the role of the aortic valve, aortic compliance, IPPV, and for demonstrating understanding of the relative changes in pressure and tension within the ventricle during systole.
+
+Common mistakes included repetition, vague or non-directional statements, and incorrect formulae.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2006/B/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Determinants of cardiac output](/content/cvs/co_determinants.qmd)

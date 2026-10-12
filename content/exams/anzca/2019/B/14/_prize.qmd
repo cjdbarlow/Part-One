@@ -1,0 +1,40 @@
+#### List:
+
+- Mechanism
+- Role
+- Metabolism
+- Toxicity
+
+#### Mechanism:
+
+- ↑5HT activity → ↑descending modulation (multiple receptor subtypes involved)
+- Endocannabinoid reuptake inhibition → central analgesia, tranquility (paracetamol’s active CNS metabolite AM404)
+- Central COX inhibition: unclear effect and significance
+- Other: nitric oxide, opioid pathways
+
+#### Role:
+
+- First step in the WHO analgesic ladder
+- Minimal side effects, low risk of toxicity
+- Reduces opioid use and opioid side effects
+
+#### Metabolism:
+
+- Phase 2
+  - Glucuronidation \~55%
+  - Sulfation \~35%
+- Phase 1
+  - CYP450 to NAPQI (N-acetyl P-benzquinonimine) \~10%
+
+#### Toxicity:
+
+- With normal doses
+  - NAPQI + glutathione → cysteine conjugate, mercaptopuric acid conjugate
+- With high dose
+  - Conjugation pathways saturated
+  - ↑NAPQI production
+  - Glutathione exhausted (earlier if malnourished)
+  - ↑NAPQI accumulation
+  - Damage to hepatic proteins
+  - Centrilobular necrosis
+  - Acute liver failure

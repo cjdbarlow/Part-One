@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018A Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Define and describe**]{.task-verb} LUNG compliance. [**Discuss**]{.task-verb} the difference between static and dynamic compliance.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Define and describe**]{.task-verb} lung compliance with units, normal values and determinants. [**Discuss**]{.task-verb} static and dynamic measurements, then explain how flow resistance and unequal time constants produce differences.
+
+::: {.structure-headings}
+### Definition, Units and Normal Lung Compliance
+
+### Determinants of Compliance
+
+### Static Compliance and Measurement
+
+### Dynamic Compliance and Measurement
+
+### Flow Resistance, Time Dependence and Unequal Time Constants
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**49%** of candidates achieved a pass in this question
+
+To score well on this question both halves had to be addressed. Candidates who did well generally began with an accurate definition of compliance, usual units and values, and then went on to elaborate upon lung compliance including its determinants. Accurately drawn diagrams often aided the descriptions being given, but were not a requirement to do well. In the second half of the question attention had to turn to static and dynamic compliance. Descriptions of these and how each were measured led neatly into a discussion of some of the important causes of time dependence.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2018/A/13/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2018/A/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Compliance](/content/resp/compliance.qmd)

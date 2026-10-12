@@ -1,0 +1,72 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012A Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the pharmacology of agents used in the management of pregnancy induced hypertension.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} **Agents for Chronic Hypertension** and **Agents for Acute or Severe Hypertension**. For the main drugs cover kinetics, dynamics and adverse effects, balancing maternal benefit against foetal risks.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**15.5%** of candidates passed this question.
+
+The adverse and teratogenic effects of antihypertensive medication on the foetus needed to be considered. This needed to be balanced against the benefits of treating the maternal hypertension. ACE inhibitors can cause renal damage in the foetus, and are not recommended for use during pregnancy.
+
+Methyldopa is a very safe drug in pregnancy; it has been used for a long time. The main pharmacokinetic and dynamic features should have been highlighted. It is used to treat chronic hypertension.
+
+Hydrallazine, magnesium, and to a lesser extent labetalol are the main drugs used for acute or severe hypertension. Once again a brief outline of their main features was expected. This should include more than just the mechanism of action. Extra marks were awarded for additional detail.
+
+Some candidates spent a lot of time on nitrates, calcium antagonists, and other beta-blockers. The use of volatile agents, propofol, opioids, benzodiazepines, and local anaesthetics as treatment options rarely attracted marks. Discussion of the pathophysiology of pre-eclampsia did not attract marks. Please use the generic names of drugs.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Centrally Acting Anti-Hypertensives](/content/pharmacopoeia/cvs/centrally_acting_anti_hypertensives.qmd)
+- [Direct Vasodilators](/content/pharmacopoeia/cvs/direct_vasodilators.qmd)
+- [Magnesium](/content/pharmacopoeia/cvs/magnesium.qmd)

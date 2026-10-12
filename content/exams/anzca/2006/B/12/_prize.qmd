@@ -1,0 +1,76 @@
+#### List:
+
+- Definitions
+- Relationships between viscosity/density and flow rate
+- Clinical applications
+
+#### Definitions:
+
++-------------------+--------------------------------------------------------------------------------------------------------------------+
+| Viscosity         | - Internal friction of a fluid                                                                                     |
+|                   | - Ratio shear stress (dyn/s) to shear rate (cm/s/cm) hence units dyn.s.cm^-2^                                      |
+|                   | - Shear stress: force per unit area                                                                                |
+|                   | - Shear rate: ratio of rate of motion of imaginary plate on surface of liquid, relative to the depth of the liquid |
++-------------------+--------------------------------------------------------------------------------------------------------------------+
+| Density           | - Ratio mass:volume                                                                                                |
+|                   | - Units kgm^-3^ or g/cm^-3^                                                                                        |
++-------------------+--------------------------------------------------------------------------------------------------------------------+
+| Laminar flow      | - Smooth, organized flow of fluid in concentric rings                                                              |
+|                   | - Likely in long, narrow tubes                                                                                     |
+|                   | - Parabolic flow profile: fast moving in the middle, in theory stationary at the walls                             |
+|                   | - Resistance = (8 x length x viscosity) / (π x radius^4^) (Poiseuille equation)                                    |
+|                   | - Pressure gradient ∝ velocity (i.e. linear)                                                                       |
+|                   | - Wall properties matter less due to peripheral stasis.                                                            |
++-------------------+--------------------------------------------------------------------------------------------------------------------+
+| Turbulent flow    | - Chaotic flow                                                                                                     |
+|                   | - Likely at branching points, bends etc.                                                                           |
+|                   | - Square-ish flow profile (necessary to expunging the periphery)                                                   |
+|                   | - Pressure gradient ∝ (density x length)/radius^5^                                                                 |
+|                   | - Pressure gradient ∝ velocity^2^ (i.e. exponential)                                                               |
+|                   | - Wall properties (e.g. smoothness) matter more due to rapid peripheral flow.                                      |
++-------------------+--------------------------------------------------------------------------------------------------------------------+
+| Transitional flow | Laminar + turbulent                                                                                                |
++-------------------+--------------------------------------------------------------------------------------------------------------------+
+| Reynolds number   | - Dimensionless index                                                                                              |
+|                   | - Ratio of inertial forces to viscous forces                                                                       |
+|                   | - Re = (2 x radius x density x velocity) / viscosity                                                               |
+|                   | - \< 2000 likely laminar, \>2000 likely turbulent                                                                  |
+|                   | - ↑Reynolds number → ↑likelihood of turbulence if:                                                                 |
+|                   |   - Wider tube                                                                                                     |
+|                   |   - ↑ flow rate                                                                                                    |
+|                   |   - ↑density                                                                                                       |
+|                   |   - ↓viscosity                                                                                                     |
++-------------------+--------------------------------------------------------------------------------------------------------------------+
+| Entrance length   | Length of tube before flow can become laminar                                                                      |
+|                   |                                                                                                                    |
+|                   | =0.03 x Re x diameter                                                                                              |
++-------------------+--------------------------------------------------------------------------------------------------------------------+
+
+#### Relationships:
+
+               **Laminar flow**        **Turbulent flow**
+  ------------ ----------------------- ---------------------
+  ↑Viscosity   ↑Resistance             ↑Likelihood laminar
+  ↑Density     ↑Likelihood turbulent   ↑Resistance
+
+#### Clinical application:
+
++------------+------------------------------------------------------------------------------------------------+---------------------------------------------------------------+
+|            | **Laminar**                                                                                    | **Turbulent**                                                 |
++============+================================================================================================+===============================================================+
+| Airflow:   | In small airways (from 11^th^ generation)                                                      | In large airways                                              |
+|            |                                                                                                |                                                               |
+|            | - ↓Velocity                                                                                    | - ↑Velocity                                                   |
+|            | - ↓Diameter                                                                                    | - ↑Diameter                                                   |
+|            | - Infrequent branching                                                                         | - Frequent branching                                          |
+|            |                                                                                                |                                                               |
+|            | →If inspiratory flow rate and RR are low, parabolic flow profile augments alveolar ventilation | →Heliox (low density gas) is used in upper airway obstruction |
++------------+------------------------------------------------------------------------------------------------+---------------------------------------------------------------+
+| Blood flow | Small veins:                                                                                   | Large arteries:                                               |
+|            |                                                                                                |                                                               |
+|            | - ↓Velocity                                                                                    | - ↑Velocity                                                   |
+|            | - ↓Diameter                                                                                    | - ↑Diameter                                                   |
+|            | - Entrance length reached                                                                      | - Branching before entrance length                            |
+|            |                                                                                                |                                                               |
+|            | →Risk of thrombosis                                                                            | →Important for coronary artery perfusion                      |
++------------+------------------------------------------------------------------------------------------------+---------------------------------------------------------------+

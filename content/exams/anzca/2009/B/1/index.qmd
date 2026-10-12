@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009B Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+Sevoflurane and fentanyl are a common anaesthetic drug combination. [**Discuss**]{.task-verb} pharmacological reasons why it is useful to use them together.
+:::
+
+Also asked in: [2013A Question 6](/content/exams/anzca/2013/A/6/index.qmd#examiner-comments), [2015A Question 5](/content/exams/anzca/2015/A/5/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+**[Discuss]{.task-verb}** why the combination is useful under these headings. Connect each interaction to its effect on anaesthesia, dose requirements or recovery.
+
+::: {.structure-headings}
+### Pharmacodynamic Interactions
+
+### Pharmacokinetic Interactions: Onset, Offset and Elimination
+
+### Pharmaceutics and Implications of Reduced Doses
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**30%** of candidates passed this question.
+
+This question required candidates to detail the beneficial uses and effects of combining sevoflurane and fentanyl. Most answers began with a brief description of each drug and its usual indications of use. The synergistic drug interaction was the primary focus expected. This included discussions about reductions in MAC, MAC-BAR, MAC-awake. Additional marks were awarded for specifying percentage reductions or proportionally greater reductions in MAC-BAR versus MAC-awake. Successful candidates were able to detail the beneficial consequences of this synergistic interaction, which primarily revolved around reduced drug doses of each resulting in reduced adverse effects. This included discussions about enhanced cardiovascular stability with airway instrumentation or surgical stimulation, reductions in sevoflurane adverse effects (hypotension, increased CBF/ICP, reduced uterine tone), and reductions in fentanyl side effects (prolonged sedation or respiratory depression, opioid induced nausea and vomiting). Some candidates were confused about the whether sevoflurane provided analgesia. Whilst sevoflurane in high enough doses can ablate responses to surgery via its global CNS depressant effect, it does not have a specific analgesic action. Bonus marks were awarded for discussion about the possibility of using fentanyl as a sole anaesthetic and the benefit of adding a volatile to an opioid based anaesthetic.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2009/B/1/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2009/B/1/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Drug interactions](/content/pharmacology/drug_interactions.qmd)
+- [Inhalational anaesthetics](/content/pharmacopoeia/neuro/inhalational_anaesthetics.qmd)
+- [Opioid pharmacology](/content/pharmacopoeia/analgesics/opioids.qmd)

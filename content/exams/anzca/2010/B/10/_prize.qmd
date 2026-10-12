@@ -1,0 +1,95 @@
+#### List:
+
+- Coronary arterial anatomy
+- Determinants of coronary blood flow – left and right
+
+#### Coronary arterial anatomy:
+
++-----------+----------------------------------------------------------------------------+
+| LMCA      | - Origin behind left coronary cusp                                         |
+|           | - Receives 75% of CBF (187.5mL/min) - ↑mass, ↑wall tension, ↑pressure work |
+|           | - Flow in diastole \>\> systole                                            |
+|           | - LAD → anterior wall, septum, SA node in 40%                              |
+|           | - LCx → lateral wall, AV node in 10%                                       |
++-----------+----------------------------------------------------------------------------+
+| RCA       | - Origin behind right coronary cusp                                        |
+|           | - Receives 25% of CBF (62.5mL/min)                                         |
+|           | - Flow in systole ≈ diastole                                               |
+|           | - Inferior and posterior walls, RV, SA node in 60%, AV node in 90%         |
++-----------+----------------------------------------------------------------------------+
+| Dominance | - Defined as the vessel supplying the PIVA                                 |
+|           | - 70% RCA, 20% both, 10% LMCA or other                                     |
++-----------+----------------------------------------------------------------------------+
+
+#### Determinants of coronary blood flow:
+
+*Graph:*
+
+![](/content/exams/anzca/2010/B/10/prize-image001.jpg){fig-alt="Aortic root pressure and left and right coronary blood flow during the cardiac cycle"}
+
+*Equations:*
+
++------------------------------+------------------------------------------------------+
+| LMCA flow rate               | = % diastole x \[AoP (80) – LVEDP (6)\] / resistance |
++------------------------------+------------------------------------------------------+
+| RCA flow rate                | In systole = \[AoP (120) – RVSP (25)\] / resistance  |
+|                              |                                                      |
+|                              | In diastole = \[AoP (80) – CVP (2)\] / resistance    |
++------------------------------+------------------------------------------------------+
+| Coronary vascular resistance | = (8 x length x viscosity) / (π x radius^4^)         |
+|                              |                                                      |
+|                              | (Radius is the major factor since power of four)     |
++------------------------------+------------------------------------------------------+
+
+*Factors decreasing LMCA flow rate:*
+
++------------------+-----------------------------------------------------------------------------+
+| ↓% Diastole      | - i.e. ↑HR                                                                  |
++------------------+-----------------------------------------------------------------------------+
+| ↓AoP             | - Hypovolaemia (e.g. blood loss, dehydration)                               |
+|                  | - Vasodilation (e.g. sepsis)                                                |
+|                  | - Aortic stenosis → ↑kinetic energy, ↓pressure energy (Bernoulli principle) |
++------------------+-----------------------------------------------------------------------------+
+| ↑LVEDP           | - Diastolic heart failure                                                   |
++------------------+-----------------------------------------------------------------------------+
+| ↓Vessel radius   | - Compression of small intramyocardial vessels in systole                   |
+|                  |   - Supply to LV mainly in diastole                                         |
+|                  | - Metabolic autoregulation:                                                 |
+|                  |   - ↑MVO~2~ → ↑pCO~2~/H^+^/K^+^/adenosine/lactate → ↑NO → dilate            |
+|                  |   - Most important                                                          |
+|                  |   - Couples demand with supply                                              |
+|                  | - Myogenic autoregulation:                                                  |
+|                  |   - ↑AoP → ↑coronary artery stretch → reflex constriction                   |
+|                  |   - Effective 60mmHg ≤ AoP 180mmHg                                          |
+|                  | - Neural:                                                                   |
+|                  |   - SNS constrict (but ↑MVO~2~ → dilate)                                    |
+|                  |   - PSNS dilate (but ↓MVO~2~ → constrict)                                   |
+|                  | - Hormonal: adrenaline →                                                    |
+|                  |   - α~1~ constriction                                                       |
+|                  |   - β~2~ dilation                                                           |
+|                  | - Drugs:                                                                    |
+|                  |   - Cocaine → constrict                                                     |
+|                  |   - GTN → dilate                                                            |
+|                  | - Pathology:                                                                |
+|                  |   - Stenosis                                                                |
+|                  |   - Vasospasm → ↓radius                                                     |
++------------------+-----------------------------------------------------------------------------+
+| ↑Vessel length   | - Hypertrophy → ↑CVR                                                        |
++------------------+-----------------------------------------------------------------------------+
+| ↑Blood viscosity | - ↑Hct: e.g. polycythaemia                                                  |
+|                  | - ↓Temperature                                                              |
++------------------+-----------------------------------------------------------------------------+
+
+*Factors decreasing RCA flow rate:*
+
++-------+------------------------------------------------------------------+
+| ↓AoP  | - As above                                                       |
++-------+------------------------------------------------------------------+
+| ↑CVR  | - As above                                                       |
++-------+------------------------------------------------------------------+
+| ↑RVSP | - Pulmonary hypertension (may prevent flow in systole if severe) |
++-------+------------------------------------------------------------------+
+| ↑CVP  | - e.g. RV failure                                                |
+|       | - e.g. IPPV, PEEP                                                |
+|       | - e.g. pneumoperitoneum                                          |
++-------+------------------------------------------------------------------+

@@ -1,0 +1,118 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013A Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Write brief notes**]{.task-verb} on innate and acquired immunity.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+**[Write brief notes]{.task-verb}** under these headings, showing how the innate and acquired responses interact.
+
+::: {.structure-headings}
+### Innate Immunity: Barriers, Cells and Soluble Mediators
+
+### Acquired Immunity: B Cells and T Cells
+
+### Antibody Structure and Function
+
+### Cell Subtypes and Coordination of the Response
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Old Exam: **63%** of candidates achieved a pass in this question
+
+New Exam: **67%** of candidates achieved a pass in this question
+
+Main Points expected for a pass:
+
+- A summary of the innate immunity mechanisms
+
+- An overview of acquired immunity including the roles of B-cells and T-cells
+
+- Notes on the structure and function of antibodies
+
+- Notes on the roles of B-cell and T-cell subtypes in acquired immunity
+
+Additional points could be gained for:
+
+- Extra details regarding the above points
+
+- Perspective about how the different parts work together
+
+- Details about more complicated aspects of the immune system
+
+Common problems:
+
+- This is a big topic and requires brief notes for it to be covered adequately
+
+- Only a few candidates mentioned inflammation as part of the innate system
+
+- Confusion over cell lines and classification
+
+- Few mentioned the structure or function of antibodies
+
+- Confusion over which responses were innate and which acquired
+
+- Humoral and cellular elements are present in both innate and acquired immunity
+
+- Lack of an overall understanding of the immune system
+
+- Only two candidates mentioned any effects of anaesthesia on immunefunction
+
+- Illegible handwriting
+
+- Poor layout and structure and evidence of poor time management
+
+- The main reason for failing this question was insufficient core knowledge
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/A/10/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/A/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Innate immunity](/content/immune/innate_immunity.qmd)
+- [Adaptive immunity](/content/immune/adaptive_immunity.qmd)
+- [Inflammation](/content/immune/inflammation.qmd)

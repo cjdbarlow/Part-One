@@ -1,0 +1,64 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002B Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the factors affecting the uptake of orally administered medicines.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} **Drug Factors** and **Patient Factors** using the diffusion relationship. Relate formulation, ionisation, gut conditions, surface area and mucosal blood flow to uptake.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The pass rate for this question was **67%**. Factors affecting uptake of orally administered drugs can be related either to the drug itself or to the patient. Subsequent pharmacokinetics including the first pass effect or bioavailability should not have been part of the description of uptake and were not awarded any marks.
+
+The answer should demonstrate an understanding that drug uptake is usually dependent on a lipid soluble, un-ionised compound moving down a concentration gradient. Drug factors affecting uptake include formulation, pKa and ionised state in the gut and ability to resist degradation. Patient factors include blood flow to mucosa, compliance, altered gut motility or transit times, absorptive surface area, effects of disease and chemical or microbiological contents of the bowel that may degrade the drug. Ficks Law of Diffusion relates concentration gradient, surface area and permeability coefficient for the passive flux of a drug molecule. This illustrates many of the important principles in oral drug uptake.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Absorption](/content/pharmacology/absorption.qmd)

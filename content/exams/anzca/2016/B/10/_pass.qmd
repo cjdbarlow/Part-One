@@ -1,0 +1,37 @@
+#### ‘Answered as similar question ‘Describe the adverse effects of neostigmine’
+
+Neostigmine is a quaternary amine anti cholinesterase drug 
+
+MOA - covalent bonding at Esteratic site of AChE 
+
+→ results in reduced breakdown / increased action of acetylcholine at cholinergic receptors.
+
+Commonly used in anaesthesia to reverse non-depolarising muscle relaxants. 
+
+Dose = 0.05 mg/kg IV in reversal of non-depolarising NMB
+
+**Adverse Effects:**
+
+Neostigmine has a dose related effect:
+
+- low doses of neostigmine accumulation of ACh at muscarinic ACh synapses 
+- high doses of neostigmine accumulation of ACh at nicotinic ACh synapses
+
+Inhibits plasma cholinesterase →↓metabolism of Suxamethonium and Mivacurium → prolonged block 
+
+CVS: Bradycardia: ↑ACh at M2 (GiPCR) AChR → bradycardia →↓cardiac output
+
+- Usually given with antimuscarinic drug 
+
+Respiratory:  M3 (GqPCR) → ↑Respiratory secretions and bronchoconstriction →↑WOB
+
+Additional Affects 
+
+- Salivation
+- Lacrimation
+- Urination
+- Defecation
+- ↑GI Motility and Secretions, spasm, abdominal Pain, 
+- (Emesis) Vomiting and Nausea 
+
+Muscle Weakness: high dose of neostigmine can result in excessive ACh at the NMJ and can case a deposing like blockade → weakness. High doses may also → direct

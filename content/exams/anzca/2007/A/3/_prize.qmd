@@ -1,0 +1,106 @@
+#### List:
+
+- Intro
+- Pharmacokinetics: ADME
+- Pharmacodynamics
+
+#### Intro:
+
++-------------+------------------------------------------------------------------------------------+
+| Problems    | - Variation in threshold opioid concentration for analgesia, for resp depression   |
+|             | - Variation in individual perceptions and responses to pain (psychosocial factors) |
+|             | - Relatively narrow therapeutic index (e.g. fentanyl 2-5ng/mL)                     |
++-------------+------------------------------------------------------------------------------------+
+| Implication | - Risk of underdose → pain                                                         |
+|             | - Risk of overdose → sedation, respiratory depression, airway obstruction, death   |
++-------------+------------------------------------------------------------------------------------+
+
+#### Pharmacokinetics:
+
+*Absorption:*
+
++-----------------------+-----------------------------------------------------------------------------------+
+| Oral                  | - Neonate vomiting/reflux → unreliable absorption (e.g. morphine)                 |
+|                       | - Labour → ↓gastric emptying → ↓absorption rate                                   |
++-----------------------+-----------------------------------------------------------------------------------+
+| IM / SC / transdermal | - ↓mAP, ↓temp → vasoconstriction → ↓skin and muscle blood flow → ↓absorption rate |
+|                       |   - Risk of dose stacking → toxicity                                              |
+|                       | - Pregnancy, neonate → ↑muscle and skin blood flow → ↑absorption rate             |
++-----------------------+-----------------------------------------------------------------------------------+
+| Epidural              | - Scarring → ↑thickness → ↓rate of onset and intensity e.g. fentanyl              |
++-----------------------+-----------------------------------------------------------------------------------+
+
+*Distribution:*
+
++----------------+-----------------------------------------------------------------------------------------------------------+
+| Cardiac output | - ↑CO → ↑Rate of distribution → ↑rate of offset of drugs with high V~DSS~ (e.g. fentanyl)                 |
++----------------+-----------------------------------------------------------------------------------------------------------+
+| Blood          | - ↓Blood volume → ↓V~DC~ most opioids → ↑acute toxicity                                                   |
+|                | - ↑pH → ↑unionised % basic opioids → ↑toxicity (e.g. morphine normally 23%)                               |
+|                | - ↓α~1~ acid glycoprotein → ↑% free basic drug → toxicity if high %bound and low HER (e.g. methadone)     |
+|                | - ↓Albumin → same (binds opioids with lower affinity but high amount)                                     |
++----------------+-----------------------------------------------------------------------------------------------------------+
+| Tissue         | - ↑Fat mass → ↑accumulation of lipophilic drugs (e.g. fentanyl) → ↑duration of effect after long infusion |
+|                | - ↑Muscle mass → ↑esterase activity → ↓remifentanil duration                                              |
++----------------+-----------------------------------------------------------------------------------------------------------+
+| Brain          | - Blood brain barrier deficiency → ↑penetration/toxicity if                                               |
+|                |   - Highly ionized (e.g. morphine 77%)                                                                    |
+|                |   - Hydrophilic (e.g. morphine-3-G (neurotoxicity), morphine-6-G (resp depression)                        |
+|                |                                                                                                           |
+|                | (immature in neonates, defective in elderly)                                                              |
++----------------+-----------------------------------------------------------------------------------------------------------+
+
+*Metabolism:*
+
++-----------------------------------------+------------------------------------------------------------------------------+
+| 2D6 polymorphism                        | - Ultra-rapid: 10% Arabs, North Africans                                     |
+|                                         |   - ↑Effect if activated (e.g. codeine, tramadol) → toxicity                 |
+|                                         |   - ↓Effect if inactivated                                                   |
+|                                         | - Intermediate or poor: 30% Hong Kong Chinese)                               |
+|                                         |   - ↓Effect if activated (e.g. codeine, tramadol) → minimal analgesic effect |
+|                                         |   - ↑Effect if inactivated                                                   |
++-----------------------------------------+------------------------------------------------------------------------------+
+| ↓Phase 1& 2 activity (if liver failure) | - ↓Clearance if metabolism-limited (e.g. methadone)                          |
++-----------------------------------------+------------------------------------------------------------------------------+
+| ↓Hepatic blood flow                     | - ↓Clearance if flow-limited (e.g. morphine)                                 |
+|                                         |                                                                              |
+| (if cirrhosis, shock)                   |                                                                              |
++-----------------------------------------+------------------------------------------------------------------------------+
+
+*Excretion:*
+
++---------------+------------------------------------------------------------------------------------+
+| Renal failure | - ↓Excretion of small and/or hydrophilic drugs and metabolites → toxicity          |
+|               |   - e.g. M3G (seizures, cognitive dysfunction)                                     |
+|               |   - e.g. M6G (analgesia, resp depression))                                         |
++---------------+------------------------------------------------------------------------------------+
+| Liver failure | - ↓Bile secretion → ↓excretion of large and/or lipid-soluble drugs and metabolites |
++---------------+------------------------------------------------------------------------------------+
+
+#### Pharmacodynamics:
+
++--------------------------+--------------------------------------------------------------------------------------------------------+
+| Receptors                | - Polymorphism → ↑↓affinity for drug → ↑↓effect                                                        |
+|                          | - Tolerance: beta arrestin binds to phosphorylated carboxyl terminal in ICF → downregulation → ↓effect |
++--------------------------+--------------------------------------------------------------------------------------------------------+
+| Intracellular signalling | - Polymorphism → ↑↓amplification → ↑↓effect                                                            |
+|                          | - Tolerance: chronic opioid use → upregulation of cAMP → ↓effect                                       |
+|                          | - Opioid-induced hyperalgaesia: e.g. ↑NMDA activity                                                    |
++--------------------------+--------------------------------------------------------------------------------------------------------+
+| Drug interactions        | - Additive: e.g. fentanyl + morphine                                                                   |
+|                          | - Synergistic: e.g. fentanyl + midazolam → ↑↑respiratory depression                                    |
+|                          |   - i.e. effect of drug A + B together \> drug A alone + drug B alone                                  |
+|                          | - Antagonistic: e.g. fentanyl + naloxone                                                               |
++--------------------------+--------------------------------------------------------------------------------------------------------+
+| Special physiology       | - Neonate: immature respiratory centre → ↑sensitivity                                                  |
+|                          | - Elderly: ↑sensitivity (? cause)                                                                      |
++--------------------------+--------------------------------------------------------------------------------------------------------+
+| Pathology                | - ↑Resp centre sensitivity → ↑opioid toxicity                                                          |
+|                          |   - Sleep disordered breathing                                                                         |
+|                          |   - Severe COPD                                                                                        |
++--------------------------+--------------------------------------------------------------------------------------------------------+
+| Psychosocial factors     | - Differing individual perceptions of pain                                                             |
+|                          |   - Mental illness: physical and psychological effects                                                 |
+|                          |   - Other life stressors                                                                               |
+|                          |   - Cultural differences                                                                               |
++--------------------------+--------------------------------------------------------------------------------------------------------+

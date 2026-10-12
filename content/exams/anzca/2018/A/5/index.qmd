@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018A Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the desired and adverse effects of opioids and the corresponding anatomical location of the receptors being activated.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} effects by organ system and pair each with its anatomical receptor location. Include desired analgesic effects at spinal and supraspinal sites as well as adverse central and peripheral effects.
+
+::: {.structure-table}
+| Effect | Desired or Adverse | Anatomical Receptor Location |
+|---|---|---|
+| Analgesia | | |
+| Other Central Nervous System Effects | | |
+| Cardiovascular Effects | | |
+| Respiratory Effects | | |
+| Gastrointestinal, Urinary and Other Effects | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**29%** of candidates achieved a pass in this question
+
+In order to achieve a satisfactory mark, candidates need to identify a range of desired and/or adverse effects of opioids and make some attempt at the location of the opioid receptors being activated to produce these effects. Analgesia needed be mentioned, including supraspinal and spinal location of opioid receptors. An understanding that effects such as sedation, dysphoria, euphoria, tolerance and addiction involve activation of widespread opioid receptors within the brain, should be appreciated. Also, there should be an understanding that not all opioid effects are centrally mediated. Better candidates mentioned cardiovascular effects of opioids, miosis, skeletal muscle rigidity, immunosuppressive and hormonal effects of opioids and described the mechanism by which these effects occur.
+
+Candidates who followed a systems approach did better. Common errors included: not listing effects (as stated in the question) or listing opioid receptor subtypes and describing their location without correlating receptor location to effect.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2018/A/5/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2018/A/5/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Opioids](/content/pharmacopoeia/analgesics/opioids.qmd)

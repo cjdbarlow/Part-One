@@ -1,0 +1,98 @@
+#### List:
+
+- General features
+- Main actions
+- Autonomic efferents
+- General visceral afferents
+
+#### General features:
+
++----------------------------+----------------------------------+-----------------------------------------------+
+|                            | **SNS**                          | **PSNS**                                      |
++============================+==================================+===============================================+
+| Resting tone               | ↓                                | ↑                                             |
++----------------------------+----------------------------------+-----------------------------------------------+
+| Exercise                   | ↑                                | ↓                                             |
++----------------------------+----------------------------------+-----------------------------------------------+
+| Onset speed                | ↓                                | ↑                                             |
+|                            |                                  |                                               |
+|                            | Effects via 2^nd^ messenger cAMP | ACh directly activates special K~ACh~ channel |
++----------------------------+----------------------------------+-----------------------------------------------+
+| Offset speed               | Slower (reuptake of NAd)         | ↑                                             |
+|                            |                                  |                                               |
+|                            |                                  | AChE +++ at synapse)                          |
++----------------------------+----------------------------------+-----------------------------------------------+
+| Beat-to-beat regulation    | No                               | Yes                                           |
++----------------------------+----------------------------------+-----------------------------------------------+
+| Baroreceptor reflex effect | ↓mAP → ↓stretch → disinhibited   | ↓mAP → ↓stretch → inhibited                   |
++----------------------------+----------------------------------+-----------------------------------------------+
+
+#### Main actions:
+
+                **SNS**   **PSNS**
+  ------------- --------- ----------
+  Inotropy      ↑         ↔↓
+  Chronotropy   ↑         ↓
+  Dromotropy    ↑         ↓
+  Lusitropy     ↑         ↔
+
+#### Autonomic efferents:
+
++-------------------+-----------------------------------------------+--------------------------------------------------+
+|                   | **SNS**                                       | **PSNS**                                         |
++===================+===============================================+==================================================+
+| Pre-motor         | - Rostral ventrolateral medulla               | \-                                               |
++-------------------+-----------------------------------------------+--------------------------------------------------+
+| Pre-ganglionic    | - Lateral horn                                | - Nucleus ambiguus                               |
+|                   | - C7-T6; mostly T1-4; bilateral               | - Dorsal motor nucleus of CNX                    |
+|                   | - (nicotinic)                                 | - (nicotinic)                                    |
++-------------------+-----------------------------------------------+--------------------------------------------------+
+| Post-ganglionic   | - Stellate and middle cervical ganglia        | - Epicardial ganglion                            |
+|                   |                                               |                                                  |
+|                   | (adrenergic)                                  | (muscarinic)                                     |
++-------------------+-----------------------------------------------+--------------------------------------------------+
+| Cardiac plexus    | - After synapse                               | - Before synapse                                 |
++-------------------+-----------------------------------------------+--------------------------------------------------+
+| Asymmetry         | - ? L SNS to myocardium                       | - L CNX to AV node                               |
+|                   | - ? R SNS to SA and AV nodes                  | - R CNX to SA node                               |
+|                   |                                               | - (mostly)                                       |
++-------------------+-----------------------------------------------+--------------------------------------------------+
+| Myocyte effect    | - β~1~ adrenoceptor 85%, β~2~ 15%             | - m~2~AChR                                       |
+|                   | - (G~s~ GPCR)                                 | - (G~i~ GPCR)                                    |
+|                   | - Ventricules \> atria                        | - Atria \> ventricles                            |
+|                   | - ↑cAMP                                       | - Minimal direct mAChR effect                    |
+|                   | - ↑PKA                                        | - ↓Inotropy via interneuronal effect             |
+|                   | - Phosphorylation of                          |                                                  |
+|                   | - L-Ca^2+^ channel → ↑inotropy                |                                                  |
+|                   | - Myosin → ↑rate cross-bridge cycling         |                                                  |
+|                   | - Phospholamban, TNI → ↑rate relaxation       |                                                  |
++-------------------+-----------------------------------------------+--------------------------------------------------+
+| Pacemaker cell    | - β~1~ and β~2~                               | - m~2~AChR                                       |
+|                   | - ↑cAMP                                       | - ↓cAMP                                          |
+|                   | - ↑Activity HCN channel                       | - ↑I~K~                                          |
+|                   | - ↑I~f~ = ↑I~Ca~ \> ↑I~K~                     | - ↓Slope phase 4                                 |
+|                   | - ↑Slope all phases (mostly phase 4)          | - ↑Max negative potential                        |
++-------------------+-----------------------------------------------+--------------------------------------------------+
+| Coronary arteries | - β~1~, α~1~                                  | - ? receptor                                     |
+|                   | - Direct constrict                            | - Direct dilatation                              |
+|                   | - Indirect ↑work → dilatation (autoregulation | - Indirect ↓work → constriction (autoregulation) |
++-------------------+-----------------------------------------------+--------------------------------------------------+
+| Adrenal medulla   | - \~80% adrenaline                            | - Nil                                            |
+|                   | - \~20% noradrenaline                         |                                                  |
++-------------------+-----------------------------------------------+--------------------------------------------------+
+
+#### General visceral afferents:
+
++--------------------+-------------------------------------------------------------------------------------+
+| Primary afferent   | - Unmyelinated C fibre                                                              |
+|                    | - Piggybacks onto autonomic efferents                                               |
+|                    |   - With SNS: via white ramus communicans to spinal cord T1-L12                     |
+|                    |   - With PSNS: via sacral nerves to S2-4 (also cranial)                             |
+|                    | - Direct synapse with wide dynamic range 2° afferents in deeper layers              |
+|                    | - Convergence onto somatic nociceptive-specific 2° afferents in superficial layers\ |
+|                    |   (hence referred pain)                                                             |
++--------------------+-------------------------------------------------------------------------------------+
+| Secondary afferent | - Decussation via anterior commissure                                               |
+|                    |   - Incomplete for older pathways (hence bilateral pain but L\>R)                   |
+|                    | - Ascent via multiple spinothalamic tracts                                          |
++--------------------+-------------------------------------------------------------------------------------+

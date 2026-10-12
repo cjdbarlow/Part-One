@@ -1,0 +1,85 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019A Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} how a metabolic acidosis develops in hypovolaemic shock. [**Describe**]{.task-verb} the consequences of this metabolic acidosis for the body.
+:::
+
+Also asked in: [2006B Question 15](/content/exams/anzca/2006/B/15/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} the chain from reduced perfusion and oxygen delivery to altered cellular metabolism and acid accumulation. [**Describe**]{.task-verb} consequences with their mechanisms, distinguishing direct acidaemia effects from compensation and sympathetic responses.
+
+::: {.structure-headings}
+### Hypovolaemia and Tissue Oxygen Delivery
+
+### Oxidative Phosphorylation and Glycolysis
+
+### Acid Production and Clearance
+
+### Cardiovascular and Respiratory Consequences
+
+### Buffering, Compensation and Other Organ Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**41.4%** of candidates achieved a pass in this question
+
+This question consisted of two parts, with marks being divided equally. In order to pass, candidates needed to briefly demonstrate an understanding of: the effects of hypovolaemic shock on the delivery of oxygen to tissues; the effect of hypoxia on oxidative phosphorylation; and the details of the glycolytic pathway leading to increased production of lactic acid in the presence of hypovolaemic shock.
+
+The second part of the question was commonly interpreted as either pertaining to the effects of acidaemia on various organ systems, or to the body’s response to that acidaemia (buffering/compensation/correction). It was possible to achieve a passing mark using either approach, by displaying sufficient appreciation for the relevant mechanisms and significance of each relevant area, in the time allowed. Additional credit was awarded for demonstration of higher-level comprehension
+
+No marks were awarded for discussion of: the effects of hypovolaemic shock unrelated to acidaemia; other acidoses or their classification; or the treatment of shock or acidaemia.
+
+Many candidates offered confused or partial definitions of metabolic acidosis. Other common errors included confusion over which chemoreceptors respond to acidaemia (and how), and lack of clarity over competing effects on the cardiovascular system of increased sympathetic nervous system activity and the direct effects of acidosis. Many candidates failed to specify any details of anaerobic glycolysis.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2006/B/15/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2006/B/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Anaerobic metabolism](/content/metabolic/anaerobic.qmd)
+- [Acid–base balance](/content/renal/acid_base.qmd)

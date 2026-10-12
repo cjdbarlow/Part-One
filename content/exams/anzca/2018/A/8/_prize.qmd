@@ -1,0 +1,84 @@
+#### List:
+
+- PC
+- PK
+- PD
+
+#### Physicochemical:
+
++--------------+-------------------------------------------------+
+| Enantiomers  | R-metoprolol                                    |
+|              |                                                 |
+|              | S-metoprolol                                    |
++--------------+-------------------------------------------------+
+| Presentation | IV solution                                     |
+|              |                                                 |
+|              | Tablets as tartrate (quick) or succinate (slow) |
++--------------+-------------------------------------------------+
+
+#### Pharmacokinetics:
+
++----------------+----------------------------------------------------+
+| Administration | - IV: 1-2mg q2 mins, max 10mg                      |
++----------------+----------------------------------------------------+
+| Time course    | - Onset 1-2 mins                                   |
+|                | - Duration 5-8 hours                               |
++----------------+----------------------------------------------------+
+| Absorption     | - Oral bioav 50% single dose, 70% if repeated (?)  |
++----------------+----------------------------------------------------+
+| Distribution   | - Plasma protein binding 10%                       |
+|                | - Moderate lipid solubility                        |
+|                | - Crosses blood-brain barrier                      |
++----------------+----------------------------------------------------+
+| Metabolism     | - CYP2D6 O-demethylation \> CYP3A4 α-hydroxylation |
+|                | - t~1/2~~β~ 3-7 hours                              |
++----------------+----------------------------------------------------+
+| Excretion      | - Metabolites → urine                              |
++----------------+----------------------------------------------------+
+
+#### Pharmacodynamics:
+
++-------------------------+------------------------------------------------------------------------------------+
+| Generation              | - 2^nd^                                                                            |
++-------------------------+------------------------------------------------------------------------------------+
+| Receptor activity       | - β adrenoceptor antagonist                                                        |
+|                         | - Fairly β~1~ selective                                                            |
+|                         | - No intrinsic sympathomimetic activity (ISA)                                      |
+|                         | - Weak membrane stabilizing activity (MSA)                                         |
++-------------------------+------------------------------------------------------------------------------------+
+| Receptor activation     | - G~s~ G protein coupled receptor                                                  |
+|                         | - ↓cAMP → ↓PKA activation → ↓phosphorylation of intracellular targets              |
++-------------------------+------------------------------------------------------------------------------------+
+| Cardiac pacemaker cells | - ↓HCN channel activation → ↓slope phase 4 → ↓HR                                   |
++-------------------------+------------------------------------------------------------------------------------+
+| Ventricular myocyte     | - ↓Phosphorylation of:                                                             |
+|                         |   - Membrane L-Ca^2+^ and SR Ryanodine-sensitive Ca^2+^ channel (↓Ca^2+^ influx)   |
+|                         |   - Myosin (↓rate at which cross-bridge cycling can occur)                         |
+|                         |   - Troponin I and phospholamban (↓rate of relaxation)                             |
++-------------------------+------------------------------------------------------------------------------------+
+| CVS effects             | - ↓HR, ↓atrial tachyarrhythmias, ↓AV node conduction                               |
+|                         | - ↓contractility, ↓remodelling in LV failure                                       |
+|                         | - ↓cardiac output, ↓mAP acutely (offset by ↑SVR)                                   |
+|                         | - +/- Worsen peripheral vascular disease (more a problem if non-selective)         |
+|                         | - +/- rebound effects if abrupt cessation                                          |
++-------------------------+------------------------------------------------------------------------------------+
+| Resp effects            | - Risk bronchospasm (some β~2~ antagonism)                                         |
++-------------------------+------------------------------------------------------------------------------------+
+| CNS effects             | - ↓tremor, depression, fatigue, insomnia, sexual dysfunction, migraine prophylaxis |
++-------------------------+------------------------------------------------------------------------------------+
+| Metabolic effects       | - ↑Risk diabetes, ↓autonomic response to ↓BSL, ↓symptoms of ↓BSL (tremor, ↑HR)     |
++-------------------------+------------------------------------------------------------------------------------+
+| Renal effects           | - ↓Renin release → ↓Na^+^/H~2~O retention → ↓mAP long term                         |
++-------------------------+------------------------------------------------------------------------------------+
+| Other                   | - Hair loss                                                                        |
++-------------------------+------------------------------------------------------------------------------------+
+| Caution if              | - Severe LV failure                                                                |
+|                         | - Atrioventricular conduction delay                                                |
+|                         | - Asthma, COPD                                                                     |
+|                         | - Diabetes                                                                         |
++-------------------------+------------------------------------------------------------------------------------+
+| MSA toxicity            | As for local anaesthetic systemic toxicity:                                        |
+|                         |                                                                                    |
+|                         | - CNS: excitation (seizures) then depression (coma)                                |
+|                         | - CVS: hypotension, arrhythmia, death                                              |
++-------------------------+------------------------------------------------------------------------------------+

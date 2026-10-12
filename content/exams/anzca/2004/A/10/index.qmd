@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004A Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the vasoactive substances released by the endothelium. [**Explain**]{.task-verb} the role they play in regulating blood flow through the peripheral circulation.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the principal endothelial mediators in a table, then [**explain**]{.task-verb} how their release and smooth-muscle signalling match regional blood flow to metabolic demand.
+
+::: {.structure-table}
+| Mediator | Production and Release | Receptor or Signalling Pathway | Effect on Regional Blood Flow |
+|---|---|---|---|
+| Nitric Oxide | | | |
+| Prostacyclin | | | |
+| Endothelins | | | |
+| Other Vasoactive Mediators | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**65%** of candidates passed this question.
+
+The key vasoactive substances released from the endothelium are nitric oxide, prostacyclin and the endothelins.
+
+The main points expected for a pass were to describe the formation of these substances and pathways by which they interacted with vascular smooth muscle. Also required was an understanding that these paracrine substances are vasoactive regulators, helping match regional perfusion to metabolic demand. Additional points were awarded for listing the factors which stimulated or inhibited release of these substances; hormones, local metabolites and changes in wall tension.
+
+Common errors were to describe the role of the endothelium in coagulation in fibrinolysis, and to describe the physics of blood flow.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2004/A/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Direct vasodilators](/content/pharmacopoeia/cvs/direct_vasodilators.qmd)
+- [Pulmonary vasodilators](/content/pharmacopoeia/resp/pulmonary_vasodilators.qmd)

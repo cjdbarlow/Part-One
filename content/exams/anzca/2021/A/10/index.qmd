@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2021A Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} how Non-Steroidal Anti-Inflammatory Drugs exert their therapeutic and adverse effects (70%). [**Outline**]{.task-verb} the advantages and disadvantages of using COX-2 selective agents (30%).
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} therapeutic and adverse effects by linking cyclooxygenase inhibition to altered prostanoid activity, giving this section 70% of the answer. Then [**outline**]{.task-verb} the benefits and limitations of COX-2 selectivity, including differences within the class, for the remaining 30%.
+
+::: {.structure-headings}
+### Cyclooxygenase Inhibition and Prostanoids
+
+### Therapeutic Analgesic, Antipyretic and Anti-Inflammatory Effects
+
+### Adverse Effects by Organ System
+
+### COX-2 Selectivity: Advantages
+
+### COX-2 Selectivity: Disadvantages and Limits
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**66.5%** of candidates achieved a pass in this question
+
+The first half of the question was reasonably well answered by candidates which is reflected in the high pass rate as this is where the bulk of marks where allocated. Better answers included more detail and discussed effects on a wider variety of body systems. Many candidates did not demonstrate an appreciation that the antiplatelet effects of these agents can be both a therapeutic and adverse effect depending on the clinical context. Many answers gave the impression that bronchospasm was a frequent adverse effect rather than affecting a minority of patients with asthma.
+
+The second half of the question was frequently answered with minimal detail and many errors. The major advantages of selective COX-2 agents include decreased long-term risk of gastric erosions, minimal effect on bronchial tone and reduced anti-platelet effects. This last benefit was overlooked by around half the candidates. Few candidates demonstrated an appreciation that the selectivity of COX-2 agents is not absolute nor identical within this class.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2021/A/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [NSAIDs](/content/pharmacopoeia/analgesics/cox_inhibitors.qmd)

@@ -1,0 +1,97 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015A Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the role of carbon dioxide in the maintenance of ventilation.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} the negative feedback loop linking metabolic carbon dioxide production to ventilation. Follow sensors, central integration and respiratory effectors, then use a labelled response curve to explain changes in threshold and sensitivity.
+
+::: {.structure-headings}
+### Metabolic Production and Ventilatory Feedback
+
+### Peripheral and Central Chemoreceptors
+
+### Central Integration and Respiratory Effectors
+
+### Carbon Dioxide Response Curve
+
+### Modifying Factors
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**29.2%** of candidates achieved a pass in this question
+
+This question was first asked in the 1956 (then FARACS) primary examination, and has been frequently asked over the last 60 years. It asked about the role of carbon dioxide in ventilation.
+
+Candidates were expected to point out that as a product of metabolism, carbon dioxide (CO~2~) provides a key link in the control loop that matches ventilation with metabolic rate to maintain a stable PaCO~2~ level.
+
+It was expected that the elements of this control loop and its negative feedback nature were described. In particular, the central and peripheral chemoreceptors with their relative contributions, the central controlling by the respiratory centre in the brain stem, the ultimate effect on minute ventilation via the respiratory muscles and the consequent changes to PaCO~2~.
+
+Describing factors that influence the gain and threshold of this system such as PaO~2~ (both increased and decreased), anaesthesia, sleep, and blood pH were rewarded. Discussing the blunted nature of the ventilation response at low and high PaCO~2~ also gained marks.
+
+Drawing the graph of ventilation versus PaCO~2~ gained marks only if drawn correctly.
+
+Common mistakes included:
+
+- confusing the location of the central chemoreceptors
+- reversing the rapidity of response between central and peripheral chemoreceptors
+- writing an equation showing PaCO~2~ inversely proportional to ventilation then drawing a graph that demonstrated a direct relationship between ventilation and PaCO~2~ but not explaining that these related to different parts of the control loop.
+- stating that CO~2~ could not cross the blood-brain barrier but hydrogen ions could
+
+Marks were not awarded for:
+
+- Describing how CO~2~ is carried in the blood
+- Explaining how CO~2~ influences the oxygen haemoglobin dissociation curve.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2015/A/2/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2015/A/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Control of breathing](/content/resp/breathing_control.qmd)
+- [Carbon dioxide effects](/content/resp/co2_effects.qmd)

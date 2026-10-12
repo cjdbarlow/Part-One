@@ -1,0 +1,64 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999B Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the ways in which CO2 is carried in the blood.
+:::
+
+Also asked in: [2011A Question 9](/content/exams/anzca/2011/A/9/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Dissolved Carbon Dioxide**, **Bicarbonate**, and **Carbamino Compounds**, then use **Arterial–Venous Differences and the Haldane Effect** to connect the forms of carriage. Include the chloride shift within bicarbonate transport.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**55%** of candidates passed this question. The carriage of gases in blood is an area where a good understanding is expected and indeed, some of the answers were outstanding. The relative importance of the ways in which carbon dioxide is carried in arterial and in venous blood, and an account of why the percentages differ on the venous side was expected. A good account of the factors making up the Haldane effect and their relative importance was a feature of the better answers. Many candidates gave an adequate account of carbon dioxide carriage as bicarbonate ions. Fewer discussed the chloride shift and very few went on to mention the implications on venous blood haematocrit. Carriage of carbon dioxide as carbamino compounds was generally not as well accounted for as the other forms of carbon dioxide carriage. Candidates are reminded that carboxyhaemoglobin (carbonmonoxyhaemoglobin) refers to the carriage of carbon monoxide on haemoglobin. A discussion of carboxyhaemoglobin was not requested.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Carbon Dioxide](/content/resp/co2_transport.qmd)

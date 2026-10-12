@@ -1,0 +1,88 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019A Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the metabolism and excretion of tramadol, including the implications for clinical practice
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} metabolic pathways and renal handling, linking active metabolites and variability to clinical effects. Explain the metaboliser groups and distinguish genetic differences from other factors affecting enzyme activity or excretion.
+
+::: {.structure-headings}
+### Hepatic Metabolism and Active Metabolites
+
+### CYP2D6 Polymorphism and Metaboliser Groups
+
+### Non-Genetic Influences on Metabolism
+
+### Renal Excretion
+
+### Implications for Efficacy and Toxicity
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**59.1%** of candidates achieved a pass in this question
+
+Tramadol is an interesting agent for anaesthesia and pain medicine due to its unique mechanism of action.
+
+To pass, candidates needed to describe the hepatic metabolic pathway that produces o-desmethyltramadol (ODMT) and explain its clinical importance as well as the issues associated with genetic polymorphism at the relevant enzyme and the four basic groups that patients may fall into. Additionally, an understanding of the renal handling of tramadol and its metabolites was expected. Integration of this information and how this may guide clinical practice was also required.
+
+Better answers provided a more complete picture of the various metabolic pathways involved, non-genetic factors influencing enzyme activity, and further detail on renal excretion and clinical implications.
+
+Many failing answers had the following common mistakes:
+
+- Confusing the consequences for ultrarapid vs poor metabolisers
+- Incorrect information regarding the pharmacology of tramadol and ODMT
+- No discussion of excretion
+- Vague or no discussion of clinical implications
+- Extensively discussing the pharmacodynamics of tramadol without context
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2019/A/14/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2019/A/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Tramadol](/content/pharmacopoeia/analgesics/tramadol.qmd)

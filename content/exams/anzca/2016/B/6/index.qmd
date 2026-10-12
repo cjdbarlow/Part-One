@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016B Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the determinants and control of spinal cord perfusion.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} perfusion through the pressure gradient and vascular resistance. Connect autoregulation and metabolic control to anatomical supply, drainage and regional vulnerability.
+
+::: {.structure-headings}
+### Perfusion Pressure and Resistance
+
+### Myogenic and Metabolic Autoregulation
+
+### Blood Gases and Temperature
+
+### Arterial Supply and Venous Drainage
+
+### Regional Vulnerability
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**51%** of candidates achieved a pass in this question
+
+The question is primarily a physiological oriented one. Most candidates did describe the anatomical aspects of the cord arterial and venous components. Marks were gained for naming and drawing the cord's vascular supply.
+
+Realising that the parameters of perfusion of cord tissue are akin to that of the intra - cerebral perfusion, the considerations needed for this question fall into place for candidates.
+
+Systemic physiological measurements of MAP, CVP, ICP, vascular flow dynamics as described in terms of Pousieulle's law, Monroe- Kellie doctrine all apply and could be logged into the determinants of spinal cord perfusion. Adding the effects of local factors eg ph, pC02and pa02, a complete multifactorial physiological synopsis is outlined. Autoregulation behaves as does the intra- cerebral circulation.
+
+Some mention of the peri- operative, trauma, medications and space occupying lesions indicated further applied understanding of the significance of the question and attained further credit.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2016/B/6/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2016/B/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Spinal anatomy](/content/neuro/spinal_anatomy.qmd)

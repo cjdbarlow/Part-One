@@ -1,0 +1,60 @@
+#### List:
+
+- Intro: clearance, ideal tracer
+- Tracer comparison
+
+#### Clearance:
+
++-----------------+------------------------------------------------------------------------------------------+
+| Renal clearance | - Hypothetical volume of plasma from which substance is completely removed per unit time |
+|                 | - Clearance = \[X\]~u~ / \[X\]~p~ x urine flow rate                                      |
+|                 | - Normal renal plasma flow 600mL/min                                                     |
+|                 | - Normal glomerular filtration rate 120mL/min                                            |
+|                 | - Filtration fraction 0.2                                                                |
++-----------------+------------------------------------------------------------------------------------------+
+| Ideal tracer    | *Clearance of a substance can be used to estimate GFR if:*                               |
+|                 |                                                                                          |
+|                 | - Freely filtered, not reabsorbed or secreted or metabolized                             |
+|                 | - Inert, non-toxic                                                                       |
+|                 | - Does not affect renal function                                                         |
+|                 |                                                                                          |
+|                 | Clearance of this substance = GFR                                                        |
++-----------------+------------------------------------------------------------------------------------------+
+
+#### Tracer comparison
+
++------------+-----------------------------------------------------------------------------------------------------------------------------------------+
+| Inulin     | - Fructose polymer                                                                                                                      |
+|            | - Freely filtered, not secreted, not reabsorbed                                                                                         |
+|            | - Method: insert urine catheter, IV infusion until steady state, measure concentrations and urine output                                |
+|            | - Gold standard for measurement of GFR                                                                                                  |
++------------+-----------------------------------------------------------------------------------------------------------------------------------------+
+| Creatinine | - Metabolite of sarcoplasmic creatine kinase                                                                                            |
+|            | - Freely filtered, 10% secreted in health, not reabsorbed                                                                               |
+|            | - Methods:                                                                                                                              |
+|            |   - 24 hour urine collection                                                                                                            |
+|            |   - Cockroft-Gault equation: CrCl = \[(140 – age) x LBW\] / (SCr x 72) x 0.85 if female                                                 |
+|            |   - CKD-EPI equation (for eGFR): age, sex and SCr                                                                                       |
+|            |   - MDRD equation: age, sex, race, SCr                                                                                                  |
+|            | - Problems:                                                                                                                             |
+|            |   - GFR can fall by 50% before significant ↑\[creatinine\]                                                                              |
+|            |   - Renal failure → ↑secreted fraction → overestimation of GFR                                                                          |
+|            |   - ↓Muscle mass → ↓SCr → overestimation of GFR                                                                                         |
+|            |                                                                                                                                         |
+|            | ![](/content/exams/anzca/2004/A/13/prize-image001.jpg){fig-alt="Creatinine and urea concentrations against glomerular filtration rate"} |
++------------+-----------------------------------------------------------------------------------------------------------------------------------------+
+| Urea       | - End-product of amino acid de-amination                                                                                                |
+|            | - Renal handling:                                                                                                                       |
+|            |   - Freely filtered, 50% reabsorbed                                                                                                     |
+|            |   - Same 50% secreted into thin descending limb of the loop of Henle                                                                    |
+|            |   - Same 50% reabsorbed at medullary collecting duct (i.e. urea recycling)                                                              |
+|            | - Problems:                                                                                                                             |
+|            |   - GFR can fall by 50% before significant ↑\[urea\]                                                                                    |
+|            |   - Dehydration or high protein intake → ↑\[urea\] → underestimation of GFR                                                             |
++------------+-----------------------------------------------------------------------------------------------------------------------------------------+
+| PAH        | - Para-aminohippuric acid: glycine amide of PABA                                                                                        |
+|            | - Freely filtered, secreted, not reabsorbed                                                                                             |
+|            | - i.e. used to measure renal plasma flow                                                                                                |
++------------+-----------------------------------------------------------------------------------------------------------------------------------------+
+| Glucose    | - Freely filtered, almost 100% reabsorbed (unless \>10mM)                                                                               |
++------------+-----------------------------------------------------------------------------------------------------------------------------------------+

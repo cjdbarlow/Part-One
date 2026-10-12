@@ -1,0 +1,71 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003A Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the potential problems associated with additives used to make medicines suitable for intravenous injection.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} the problems in a table connecting each additive to its purpose, relevant drug preparations and potential adverse effects. Include practical issues of formulation, cost and shelf life.
+
+::: {.structure-table}
+| Additive | Purpose | Drug Preparation | Potential Problem |
+|---|---|---|---|
+| Antioxidants and Preservatives | | | |
+| Solvents and Emulsifiers | | | |
+| Tonicity and Bulking Agents | | | |
+| pH and Formulation | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The pass rate was about **43%**. Many candidates made no mention of anaphylactic/anaphylactoid reactions, pain on injection, thrombophlebitis, physicochemical inactivation (and crystallization) and manufacturing costs. A pass required a brief description of (at least) four additives found in drug preparations used in anaesthesia, and their potential adverse effects. Good answers named the drug and additive and outlined its problems. Higher marks were obtained if consideration was given to dose-response, actual versus theoretical problems and pharmaceutics (complexity, cost, shelf-life). No marks were given for additives found in halothane, EMLA cream, spinal local anaesthetic solutions or blood. It was not accepted that the mannitol found in vecuronium leads to an osmotic diuresis. The statement "causes toxicity", was considered to be non-specific and did not gain marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2003/A/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Drug additives](/content/pharmacology/additives.qmd)

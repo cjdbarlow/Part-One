@@ -1,0 +1,71 @@
+#### List:
+
+- Principles
+- Blood groups
+- Compatibility testing
+
+#### Principles:
+
++----------------------------+------------------------------------------------------------------------------------------------+
+| Grouping                   | - RBCs have membrane protein antigens (Ag)                                                     |
+|                            | - Antibodies (Ab) are produced against non-self RBC antigen after exposed                      |
+|                            | - Aim of grouping is to determine ABO and RhD antigen presence on RBC                          |
++----------------------------+------------------------------------------------------------------------------------------------+
+| Transfusion                | - Allogeneic transfusion only safe if recipient won’t make antibodies against donor’s antigens |
+|                            | - Donor plasma removed from packed RBC hence donor antibodies rarely matter                    |
+|                            | - O- is universal RBC donor, AB+ universal recipient                                           |
+|                            | - AB+ is universal plasma donor, O- universal recipient                                        |
++----------------------------+------------------------------------------------------------------------------------------------+
+| Compatibility requirements | - Red cells: ABO, +/-RhD, other antibodies                                                     |
+|                            | - Platelets: ABO, +/-RhD preferred                                                             |
+|                            | - Plasma products: ABO                                                                         |
++----------------------------+------------------------------------------------------------------------------------------------+
+| Special considerations     | - Test valid for a few days in hospital because:                                               |
+|                            |   - Existing titres may change                                                                 |
+|                            |   - New antibodies may be formed                                                               |
+|                            | - Some antibody-antigen interactions more important than others                                |
+|                            | - RhD compatibility required if RhD- female patient of child-bearing potential                 |
++----------------------------+------------------------------------------------------------------------------------------------+
+
+#### Blood groups:
+
++-------+--------------------------------------------------------------------------------------------------+
+| ABO   | - Most important system                                                                          |
+|       | - A: A antigen                                                                                   |
+|       | - B: B antigen                                                                                   |
+|       | - O: neither antigen                                                                             |
+|       | - Incompatibility → intravascular haemolysis                                                     |
+|       | - Antigen: is carbohydrate, more antigenic                                                       |
+|       | - Antibodies: developed soon after birth due to diet exposure; more IgM, does not cross placenta |
++-------+--------------------------------------------------------------------------------------------------+
+| RhD   | - Next most important system                                                                     |
+|       | - Incompatibility → extravascular haemolysis                                                     |
+|       | - Antigen: is protein, less antigenic                                                            |
+|       | - Antibodies: developed only upon direct blood exposure; more IgG, does cross placenta           |
++-------+--------------------------------------------------------------------------------------------------+
+| Other | - Kell, Kidd, Duffy, Lewis etc.                                                                  |
++-------+--------------------------------------------------------------------------------------------------+
+
+#### Compatibility testing:
+
++-----------------+------------------------------------------------------------------------------------------------+
+| Forward typing  | - Patient’s RBCs + serum solutions known to have anti-A, anti-B or anti-RhD                    |
+|                 |   - ABO: observe for agglutination (since IgM, pentameric)                                     |
+|                 |   - RhD: wash away serum, add Coombs reagent, observe for agglutination (since IgG, monomeric) |
+|                 | - Performed for ABO and RhD                                                                    |
++-----------------+------------------------------------------------------------------------------------------------+
+| Reverse typing  | - Patient’s serum + RBC solutions known to have A Ag, B Ag or RhD A                            |
+|                 |   - ABO: as above                                                                              |
+|                 |   - RhD: as above                                                                              |
+|                 | - Performed for ABO (i.e. double check)                                                        |
++-----------------+------------------------------------------------------------------------------------------------+
+| Antibody screen | - Patient’s serum + RBC solutions known to have various RBC antigens (e.g. Kell, Kidd, Duffy)  |
+|                 | - Wash away the serum                                                                          |
+|                 | - Add Coombs reagent, observe for agglutination (since IgG, monomeric)                         |
++-----------------+------------------------------------------------------------------------------------------------+
+| Cross-match     | - Donor’s RBC + potential recipient’s serum                                                    |
+|                 | - Mostly computer matching based on group and antibody screen                                  |
+|                 | - Occasionally by in vitro transfusion                                                         |
+|                 | - Ensures almost 100% safety\                                                                  |
+|                 |   (cf. Group and antibody screen only: 98% safety)                                             |
++-----------------+------------------------------------------------------------------------------------------------+

@@ -1,0 +1,112 @@
+#### List:
+
+- Summary
+- Drug effects
+- PD
+- PK
+- PC
+- Applications
+
+#### Summary:
+
++----------------------+---------------------------------------------------------+
+| Pharmacodynamic (PD) | - Complementary and synergistic → ↓dose → ↓side effects |
++----------------------+---------------------------------------------------------+
+| Pharmacokinetic (PK) | - Ideal properties of each                              |
+|                      | - No interference                                       |
+|                      | - Synergistic → ↓dose → ↓accumulation                   |
++----------------------+---------------------------------------------------------+
+| Pharmaceutic (PC)    | - Compatible                                            |
++----------------------+---------------------------------------------------------+
+
+#### Drug effects:
+
+                      **Propofol (PPF)**                **Remifentanil (RF)**
+  ------------------- --------------------------------- --------------------------------------
+  Usual Cet           2-6mcg/mL                         2-6ng/mL
+  Amnesia             Reliable                          Unreliable
+  Hypnosis            Reliable (Cpt 2.7mcg/mL)          Unreliable
+  Immobility          Unreliable (Cp50 15mcg/mL)        Variable
+  Analgesia           No                                Yes
+  CVS side effects    ↓HR, ↓contractility, ↓SVR, ↓mAP   ↓SNS output → ↓HR/arrest, ↓SVR, ↓mAP
+  Resp side effects   ↓RR, ↓TV                          ↓RR, ↓TV, chest wall rigidity
+
+#### Pharmacodynamics:
+
++---------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Complementary             | - PPF: anaesthesia                                                                                                                                                    |
+|                           | - RF: analgesia                                                                                                                                                       |
++---------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Synergistic               | - Combined effect exceeds sum of individual effects                                                                                                                   |
+|                           | - Represented by isobologram (or response surface)                                                                                                                    |
+|                           | - Mechanism: ? RF reduces nociceptive activation of ascending reticular activating system (ARAS)                                                                      |
+|                           |                                                                                                                                                                       |
+|                           | ![](/content/exams/anzca/2017/A/3/prize-image001.jpg){fig-alt="Fractional drug concentration isobologram comparing synergistic, additive and infra-additive effects"} |
++---------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Implications of synergism | - ↓PPF Cp~50~ for hypnosis and immobility                                                                                                                             |
+|                           | - ↓Ce^γ^ → ↓PPF Cp~50~ variability (?)                                                                                                                                |
+|                           | - ↓PPF side effects                                                                                                                                                   |
+|                           | - ↓Need for paralysis                                                                                                                                                 |
++---------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Pharmacokinetics:
+
++---------------------------+----------------------------------------------------+
+| PPF ideal features        | - Rapid onset:                                     |
+|                           |   - Small                                          |
+|                           |   - High lipid solubility                          |
+|                           |   - \>99% unionized                                |
+|                           |   - t~1/2ke0~ 2.6 minutes                          |
+|                           | - Rapid offset by distribution:                    |
+|                           |   - ? due to similar factors                       |
+|                           |   - t~1/2~~α~ fast 2 mins                          |
+|                           | - Rapid metabolism:                                |
+|                           |   - Cl 30-60mL/kg/min                              |
+|                           |   - Phase 1 (CYP) and phase 2                      |
+|                           |   - No active metabolites                          |
++---------------------------+----------------------------------------------------+
+| RF ideal features         | - Rapid onset:                                     |
+|                           |   - 20x more lipid soluble than morphine           |
+|                           |   - 68% unionized cf. morphine 23%                 |
+|                           |   - t~1/2ke0~ 1.4 mins (cf. morphine 7)            |
+|                           | - Rapid offset by metabolism:                      |
+|                           |   - Cl 40mL/kg/min                                 |
+|                           |   - Non-specific esterases especially muscle       |
+|                           |   - Max context sensitive half time (CSHT) 10 mins |
+|                           |   - No active metabolites                          |
++---------------------------+----------------------------------------------------+
+| Lack of interference      | - No competition for plasma protein binding sites  |
+|                           |   - PPF albumin                                    |
+|                           |   - RF: AAG \> albumin                             |
+|                           | - No competition for metabolic pathways            |
+|                           |   - PPF liver CYP2B6/2C9/3A4                       |
+|                           |   - RF non-specific esterases                      |
+|                           | - No competition for excretion (renal for both)    |
++---------------------------+----------------------------------------------------+
+| Implications of synergism | - ↓Ce for given clinical effect                    |
+|                           | - ↓Infusion rate                                   |
+|                           | - ↓total dose                                      |
+|                           | - ↓compartmental concentrations                    |
+|                           | - ↓time to emergence                               |
++---------------------------+----------------------------------------------------+
+
+#### Pharmaceutics:
+
+  --------------- -----------------------------
+  Precipitation   No
+  Miscible        No (need separate syringes)
+  --------------- -----------------------------
+
+#### Indications for TIVA:
+
++------------+-------------------------------------------------------------------------------+
+| Medical    | - Malignant hyperthermia (absolute indication)                                |
+|            | - ↑ ICP (PPF decreases CMRO~2~ and CBF, but preserves coupling ratio)         |
+|            | - PHx PONV (PPF 5HT~3~ antagonist hence antiemetic; cf. volatiles pro-emetic) |
+|            | - Avoid paralysis (e.g. muscular dystrophy (RF → ETT tolerance)               |
+|            | - Sinus surgery (PPF ↓mAP → ↓bleeding)                                        |
++------------+-------------------------------------------------------------------------------+
+| Logistical | - Airway surgery precluding volatile use (absolute indication)                |
+|            | - Field anaesthesia                                                           |
+|            | - Transport                                                                   |
++------------+-------------------------------------------------------------------------------+

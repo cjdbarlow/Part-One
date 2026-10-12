@@ -1,0 +1,50 @@
+#### List:
+
+- RAAS flowchart
+- Hormone effects
+- Drug effects
+
+#### RAAS flow chart:
+
+![](/content/exams/anzca/2021/B/2/prize-image001.jpg){fig-alt="Renin–angiotensin–aldosterone cascade and ACE/neprilysin roles in bradykinin and natriuretic peptide metabolism"}
+
+#### Hormone effects:
+
++-------------+------------------------------------------------------------------------+
+| *Summary*   | - *Whole body response to hypotension and hypovolaemia*                |
+|             | - *Vasoconstriction → ↑SVR / afterload*                                |
+|             | - *↑Fluid and sodium retention → ↑ECF volume → ↑preload → ↑CO*         |
+|             | - *↑Blood pressure*                                                    |
++-------------+------------------------------------------------------------------------+
+| AT2         | - AGTR1 receptor agonist                                               |
+|             | - Systemic vasoconstriction                                            |
+|             | - Renal efferent \> afferent arteriolar vasoconstriction               |
+|             | - ↑Na^+^/H~2~O reabsorption from proximal tubule                       |
+|             | - ↑Release of aldosterone and ADH                                      |
+|             | - ↑Thirst                                                              |
++-------------+------------------------------------------------------------------------+
+| Aldosterone | - Mineralocorticoid receptor agonist                                   |
+|             | - ↑ENaC activity → ↑ECF \[Na^+^\] (distal nephron, colon, sweat gland) |
+|             | - ↑Release of ADH release (indirect via ↑\[Na^+^\])                    |
++-------------+------------------------------------------------------------------------+
+| Bradykinin  | - Bradykinin receptor agonist                                          |
+|             | - ↑Release of vasoactive factors (prostanoids, nitric oxide)           |
+|             | - Vasodilation, capillary leak, diuresis                               |
++-------------+------------------------------------------------------------------------+
+
+#### Drug effects:
+
++-------------+-----------------------------------------------------------------------------------------+
+| MoA         | - ACEi: prevent formation of AT2 and breakdown of bradykinin                            |
+|             | - ARB: competitive antagonist at AGTR                                                   |
++-------------+-----------------------------------------------------------------------------------------+
+| Therapeutic | - ↓Preload, ↓afterload → ↓LV wall stress → ↓remodelling → ↓progression of heart failure |
+|             | - ↓Risk of AMI                                                                          |
+|             | - ↓Risk of diabetic nephropathy                                                         |
+|             | - ↓Blood pressure                                                                       |
++-------------+-----------------------------------------------------------------------------------------+
+| Adverse     | - Vasodilation + hypovolaemia → peri-op refractory hypotension                          |
+|             | - ↓Aldosterone → hyperkalaemia (important if renal impairment)                          |
+|             | - Renal vasoconstriction → dysfunction (especially peri-op, thiazide, NSAID)            |
+|             | - Bradykinin → angioedema, cough (ACEi only)                                            |
++-------------+-----------------------------------------------------------------------------------------+

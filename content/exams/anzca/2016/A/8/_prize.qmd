@@ -1,0 +1,96 @@
+#### List:
+
+- Intro
+- Pregnancy-specific antihypertensives
+- Other drugs
+- Anaesthesia
+
+#### Intro:
+
++-------------------------------------+------------------------------------+
+| Causes of hypertension in pregnancy | - Pregnancy-induced hypertension   |
+|                                     | - Pre-eclampsia                    |
++-------------------------------------+------------------------------------+
+| Teratogenic drugs                   | - ACE inhibitors                   |
+|                                     | - Angiotensin receptor antagonists |
+|                                     | - Beta blockers                    |
++-------------------------------------+------------------------------------+
+| Other contra-indicated drugs        | - GTN → foetal methaemoglobinaemia |
++-------------------------------------+------------------------------------+
+
+#### Pregnancy-specific agents:
+
++-------------+---------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------+
+|             | **Pharmacodynamics**                                                                                                      | **Pharmacokinetics**                                              |
+|             |                                                                                                                           |                                                                   |
+|             | - *Mechanism of action (MoA)*                                                                                             | - *Absorption (A)*                                                |
+|             | - *Side effects (SE)*                                                                                                     | - *Distribution (D)*                                              |
+|             |                                                                                                                           | - *Metabolism (M)*                                                |
+|             |                                                                                                                           | - *Excretion (E)*                                                 |
++=============+===========================================================================================================================+===================================================================+
+| Labetalol   | - MoA: α~1~, β~1~, β~2~ antagonist                                                                                        | - IV 20-40mg q2 mins                                              |
+|             |   - IV α:β 1:7                                                                                                            | - PO 200-400mg bd                                                 |
+|             |   - PO α:β 1:3                                                                                                            | - Inset 2-5 min, duration 2-4h                                    |
+|             | - Isomers: SS/SR inactive, RS α, RR α and β                                                                               | - A: oral bioav 25%                                               |
+|             | - Membrane-stabilising (VdNaC blockade)                                                                                   | - D: V~D~ 10L/kg, 50% protein bound                               |
+|             | - Weak ISA                                                                                                                | - M: hepatic, t~1/2~~β~ 6-8 hours                                 |
+|             | - SE: bradycardia, bronchospasm (avoid in asthma)                                                                         | - E: urine                                                        |
++-------------+---------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------+
+| Hydralazine | - Direct acting vasodilator                                                                                               | - IV 5-10mg q15 min                                               |
+|             | - MoA unknown                                                                                                             | - Onset 5-20 min, duration 2-6 h                                  |
+|             | - SEs: tachycardia, myocardial ischaemia, headache, flushing, peripheral oedema, SLE-like syndrome, peripheral neuropathy | - A: oral bioav10-30%                                             |
+|             |                                                                                                                           | - D: V~D~ 0.5L/kg, 90% protein bound                              |
+|             |                                                                                                                           | - M: N-acetylation (subject to polymorphism; t~1/2~~β~ 3-7 hours) |
+|             |                                                                                                                           | - E: urine                                                        |
++-------------+---------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------+
+| Magnesium   | - MoA: physiological antagonist at L-Ca^2+^ channel                                                                       | - IV 10mmol slow push in severe PET                               |
+|             |                                                                                                                           | - Onset \<1 min                                                   |
+|             | ↓Risk of seizures in pre-eclampsia\                                                                                       | - D: ICF 30mM, ECF 1mM; bone ++                                   |
+|             | ↓SVR                                                                                                                      | - E: urine, faeces                                                |
+|             |                                                                                                                           |                                                                   |
+|             | - SE: sedation, resp depression                                                                                           |                                                                   |
++-------------+---------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------+
+| Nifedipine  | - Dihydropyridine peripheral L-Ca^2+^ antagonist                                                                          | - PO 10-20mg q6h                                                  |
+|             | - Vasodilatation → ↓SVR                                                                                                   | - Onset: 30-45 mins                                               |
+|             | - SE: reflex ↑HR, dizziness, oedema                                                                                       | - A: oral bioav 90%                                               |
+|             |                                                                                                                           | - D: V~D~ 0.7L/kg, 90% protein bound                              |
+|             |                                                                                                                           | - M: hepatic CYP450                                               |
+|             |                                                                                                                           | - E: urine                                                        |
++-------------+---------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------+
+| Methyldopa  | - Prodrug: DBH to α-methylnoradrenaline → central α~2~ agonist → ↓SNS outflow                                             | - 200-400mg bd only                                               |
+|             | - Also inhibits DOPA decarboxylase → ↓DA, NAd                                                                             | - Not suitable for crisis                                         |
+|             | - SE: Parkinsonism, depression                                                                                            | - A: oral bioav 25%                                               |
+|             |                                                                                                                           | - D: V~D~ 0.6L/kg, \<15% protein bound                            |
+|             |                                                                                                                           | - M: activation in CNS                                            |
++-------------+---------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------+
+
+#### Other drugs:
+
++------------+----------------------------------------------------+---------------------------------------------------+
+| Alfentanil | - ↓Pressor response to laryngoscopy                | - IV 10-20mcg/kg bolus                            |
+|            | - MoA: MOP agonist → ↓SNS output                   | - Peak 1-1.5 min, offset 5 min                    |
+|            |                                                    | - Offset by distribution                          |
+|            |                                                    | - M: CYP3A4                                       |
+|            |                                                    | - E: urine                                        |
++------------+----------------------------------------------------+---------------------------------------------------+
+| Esmolol    | - ↓Pressor response to laryngoscopy                | - Bolus 0.5mg/kg over 30 seconds                  |
+|            | - MoA: β~1~ antagonist → ↓HR, ↓contractility → ↓CO | - Infusion 0.05-2mg/kg/min                        |
+|            | - SE: difficult to titrate analgesics              | - Onset 2-10 mins, offset 10-30mins               |
+|            |                                                    | - D: V~D~ 3.5L/kg, 60% protein bound              |
+|            |                                                    | - M: RBC esterase, Cl 285mL/kg/min, t1/2b 10 mins |
+|            |                                                    | - E: urine                                        |
++------------+----------------------------------------------------+---------------------------------------------------+
+
+#### Anaesthesia:
+
++-----------+----------------------------------------------------------------------------------------+
+| Neuraxial | - e.g. epidural ropivacaine and fentanyl: blockade at spinal nerve roots → ↓SNS output |
+|           | - Usually both anaesthetic (local) and analgesic (opioid)                              |
+|           | - Highly effective                                                                     |
+|           | - T5-L2: ↓SVR, ↓mAP                                                                    |
+|           | - If T1-4: ↓HR, ↓SVR, ↓↓mAP                                                            |
++-----------+----------------------------------------------------------------------------------------+
+| General   | - e.g. propofol (only under GA)                                                        |
+|           | - MoA ↓mAP: L-Ca^2+^ inhibition, ↑NO release, ↓SNS output from medulla                 |
+|           | - SEs: maternal and foetal anaesthesia, respiratory and cardiovascular depression      |
++-----------+----------------------------------------------------------------------------------------+

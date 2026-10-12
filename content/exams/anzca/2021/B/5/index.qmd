@@ -1,0 +1,74 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2021B Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Draw, label and describe**]{.task-verb} the waveforms and pressures that are seen in each anatomical location during insertion of a pulmonary artery catheter.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Draw, label and describe**]{.task-verb} the sequential pressure traces as the catheter passes through the right atrium, right ventricle and pulmonary artery to the wedge position. Mark normal pressures, timing and the events responsible for waveform components.
+
+::: {.structure-headings}
+### Catheter Path and Sequential Pressure Trace
+
+### Right Atrial Waveform and Pressure
+
+### Right Ventricular Waveform and Pressure
+
+### Pulmonary Artery Waveform and Pressure
+
+### Wedge Waveform and Pressure
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+No examiner report was supplied for this sitting.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2021/B/5/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Cardiac output measurement](/content/equipment/cardiac_output.qmd)

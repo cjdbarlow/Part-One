@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007B Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the important pharmacological considerations concerning choice of opioid and dosage when converting from intravenous morphine to oral opioid analgesia in the post-operative period.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} conversion using recent intravenous requirements, oral bioavailability and relative potency. Relate opioid choice, dose and interval to declining pain, gut function, patient factors and co-administered drugs.
+
+::: {.structure-headings}
+### Timing and Suitability of the Oral Route
+
+### Choice, Bioavailability and Relative Potency
+
+### Dose Conversion and Dosing Interval
+
+### Patient and Surgical Factors
+
+### Adjuvants, Interactions and Safety
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**48%** of candidates passed this question.
+
+The question asked about the science behind our choice and dosage of oral opioids. The other information in the question was that the patient had been on intravenous morphine in the post-operative setting. Good answers covered the rationale of what drugs we use, how and when we use them and why. Patient factors included the fact that acute pain is usually diminishing, the importance of the oral route and gut function returning, patient illness, type of surgery, age and previous opioid use.
+
+Dosage of the drugs can be calculated from intravenous morphine requirements in the previous period, usually using a prn (as required) dosing schedule and erring on a lower conversion dose and longer dosing interval for safety. Use of adjuvant drugs such as paracetamol and NSAIDs reduces the dose of opioid and use of sedative drugs increases the risk of side effects such as respiratory depression.
+
+Many candidates answered the question using a template; Pharmaceutics / Pharmacokinetics / Pharmacodynamics. In many cases it was possible to change the word “opioid” to any other drug and still have a correct statement. However, if this did not answer the question, no marks were awarded.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/B/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Opioid pharmacology](/content/pharmacopoeia/analgesics/opioidspharm.qmd)
+- [Drug interactions](/content/pharmacology/drug_interactions.qmd)

@@ -1,0 +1,90 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009B Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the physiological processes that cause oliguria in response to hypovolaemic shock
+:::
+
+Also asked in: [2016B Question 3](/content/exams/anzca/2016/B/3/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} oliguria through reduced renal perfusion and filtration, then increased sodium and water reabsorption. Link systemic haemodynamics, renal vascular responses and neuroendocrine mechanisms in a causal sequence.
+
+::: {.structure-headings}
+### Definitions and Systemic Haemodynamics
+
+### Renal Blood Flow and Filtration
+
+### Autoregulation and Sympathetic Responses
+
+### Renin–Angiotensin–Aldosterone System
+
+### ADH, Reabsorption and Possible Kidney Injury
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**64%** of candidates passed this question.
+
+This is the fourth time that this question has been asked.
+
+The main points would be: a brief definition of oliguria and of hypovolaemic shock followed by an appreciation that oliguria occurs secondary to two main effects, namely a decreased RBF and GFR and an associated increased sodium and water retention. Subsequent explanation as to why the RBF and GFR drop and the neuro-endocrine responses occasioning the sodium and water retention would result in a good pass. The answer would include a brief discussion of the systemic influences on RBF and GFR as well as a description of the role of the sympathetic system, the Renin-Angiotensin-Aldosterone system and of ADH on salt and water homeostasis.
+
+Additional marks were rewarded for a mention of renal autoregulation, differential afferent and efferent arteriolar effects, effects of ACTH and ANF and the effects of age. Only two candidates mentioned the possibility that this situation could progress to acute renal failure.
+
+A frequent error was to state that afferent constriction was greater than efferent. Many answers gave incorrect values for the range in which renal autoregulation is seen, believing it occurs down to a MAP of 50 mmHg.
+
+Better answers demonstrated a structured and methodical approach to answering the question with minimal repetition. Some of these answers were in narrative form, others in a graphical format. Correct information, appropriately structured was rewarded regardless of the format chosen to answer the question.
+
+The main reasons for candidates not passing this question were either poor organisation, repetition of information or just not enough substance in their answer.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2009/B/13/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2009/B/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Renal blood flow](/content/renal/rbf.qmd)
+- [Glomerular filtration](/content/renal/glomerular_filtration.qmd)
+- [Renal endocrine functions](/content/renal/endocrine.qmd)

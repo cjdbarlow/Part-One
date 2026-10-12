@@ -1,0 +1,84 @@
+#### List:
+
+- Intro
+- Ageing and cardiac output
+- Ageing and oxygen content
+
+#### Intro:
+
++-------------------+--------------------------------------------------------------------------------------------------+
+| Ageing            | - Gradual time-dependent loss of cellular function and physiological reserve, resulting in death |
++-------------------+--------------------------------------------------------------------------------------------------+
+| Moderate exercise | - 3-6 METs = VO~2~ 750-1500mL/min                                                                |
+|                   | - e.g. walking up stairs                                                                         |
+|                   | - Predominantly aerobic metabolism                                                               |
+|                   | - Dependent upon oxygen delivery                                                                 |
++-------------------+--------------------------------------------------------------------------------------------------+
+| Oxygen delivery   | - DO~2~ = CO x CaO~2~                                                                            |
+|                   | - Where CaO~2~ = \[Hb\] x 1.34 x SaO~2~ + 0.03 x PaO~2~ (per L)                                  |
++-------------------+--------------------------------------------------------------------------------------------------+
+| Summary           | - ↓Cardiac output                                                                                |
+|                   |   - Resting CO: ↓1% per year with age                                                            |
+|                   |   - Max CO: more substantial decrease                                                            |
+|                   |   - Decline attenuated with training                                                             |
+|                   | - ↓Oxygen content\                                                                               |
+|                   |   \                                                                                              |
+|                   | - Hence decreased reserve                                                                        |
++-------------------+--------------------------------------------------------------------------------------------------+
+
+#### Factors decreasing cardiac output:
+
++-----------------------+----------------------------------------------------------------------------------+
+| *↓Preload (PL)*       | - ↓Blood volume (↓lean mass)                                                     |
+|                       | - ↓Skeletal muscle pump (sarcopaenia)                                            |
+|                       | - ↓LV compliance (LVH)                                                           |
++-----------------------+----------------------------------------------------------------------------------+
+| ↑*Afterload (AL)*     | - ↓Aortic compliance, ↓Windkessel effect                                         |
+|                       |   - Media thickened, less elastin                                                |
+|                       |   - Intima thickened, fibrotic                                                   |
++-----------------------+----------------------------------------------------------------------------------+
+| *↓Rate (HR)*          | - ≈ 220 – (age x 0.7)                                                            |
+|                       | - Decreased sympathetic response                                                 |
+|                       |   - ↓β1 Adrenoceptors                                                            |
+|                       |   - ↓Post-adrenoceptor signalling                                                |
+|                       |   - ↓SNS response to exercise, ↓baroreceptor reflex                              |
+|                       |   - Partly offset by ↑circulating noradrenaline and ↓noradrenaline reuptake      |
+|                       | - Impaired conduction                                                            |
+|                       |   - ↓Conduction velocity                                                         |
+|                       |   - ↓Pacemaker cells in SA and AV nodes (50% age 20, 10% age 75)                 |
+|                       |   - Fatty, fibrous infiltration of conduction system                             |
++-----------------------+----------------------------------------------------------------------------------+
+| *↓Contractility (CY)* | - ↓Myocyte number                                                                |
+|                       |   - 2° to apoptosis, necrosis                                                    |
+|                       | - Partly offset by concentric hypertrophy                                        |
+|                       |   - 2° to ↑afterload                                                             |
++-----------------------+----------------------------------------------------------------------------------+
+| Comorbidities         | - Hypertension: ↑SVR → ↑AL                                                       |
+|                       | - Coronary artery disease →↓O~2~ supply → ↓work                                  |
+|                       | - Cardiomyopathy: ↓contractility                                                 |
+|                       | - Severe valvular disease (e.g. aortic stenosis) → fixed stroke volume           |
+|                       | - Atrial fibrillation → ↓preload (especially important with poorly compliant LV) |
++-----------------------+----------------------------------------------------------------------------------+
+
+#### Factors decreasing oxygen content:
+
++-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↓Haemoglobin    | - Senile anaemia                                                                                                                                            |
+|                 |   - ↓Bone marrow function                                                                                                                                   |
+|                 | - ↓Renal function                                                                                                                                           |
+|                 |   - ↓EPO production in response to anaemia                                                                                                                  |
++-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↓V~A~ max       | - ↓Respiratory muscle strength                                                                                                                              |
+|                 |   - Respiratory muscle sarcopaenia                                                                                                                          |
+|                 | - ↑Work of breathing                                                                                                                                        |
+|                 |   - Senile emphysema → ↓radial traction → ↑dynamic compression                                                                                              |
+|                 |   - Ossification of costal cartilage → ↓chest wall compliance                                                                                               |
++-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↑V/Q mismatch   | - Emphysema → ↑lung compliance/↓radial traction → ↑alveolar collapse                                                                                        |
+|                 | - Closing capacity exceeds FRC when upright at age 66                                                                                                       |
++-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ↓Diffusion rate | ![](/content/exams/anzca/2008/B/15/prize-image001.jpg){fig-alt="Fick diffusion equation showing concentration gradient and membrane and substance factors"} |
+|                 |                                                                                                                                                             |
+|                 | - ↑Thickness (fibrosis)                                                                                                                                     |
+|                 | - ↓Area (senile emphysema)                                                                                                                                  |
++-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+

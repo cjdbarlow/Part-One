@@ -1,0 +1,92 @@
+#### List:
+
+- Lead 2 trace
+- ECG components table
+- PR interval physiology including pacemaker potentials
+- PR interval abnormalities
+
+#### Lead 2:
+
+![](/content/exams/anzca/2007/B/16/prize-image001.jpg){fig-alt="Lead II ECG showing P, QRS and T waves and PR, QRS, ST and QT intervals"}
+
+#### ECG components:
+
++---------------+----------------------------------------------+
+| **Parameter** | **Normal values**                            |
++===============+==============================================+
+| P wave        | - ≤0.12 seconds                              |
+|               | - \<2.5mm                                    |
+|               | - Positive in II and aVF, biphasic in V1     |
++---------------+----------------------------------------------+
+| PR interval   | - 0.12 – 0.2 seconds, isoelectric            |
++---------------+----------------------------------------------+
+| QRS complex   | - \<0.12 seconds                             |
++---------------+----------------------------------------------+
+| Q wave        | - ≤0.04 seconds                              |
+|               | - ≤2mm, ≤25% height of QRS complex           |
++---------------+----------------------------------------------+
+| ST segment    | - \<2mm deviation from isoelectric in V1-2-3 |
+|               | - \<1mm deviation from isoelectric elsewhere |
++---------------+----------------------------------------------+
+| T wave        | - \<5mm height                               |
++---------------+----------------------------------------------+
+| QT interval   | - Bazett formula: QTc = QT/√(RR)             |
+|               | - ≤440 in men, ≤460 in women                 |
+|               | - \> 350ms in both                           |
++---------------+----------------------------------------------+
+
+#### PR interval:
+
++--------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Significance                         | - Time between excitation of the atrium to excitation of the ventricles                                                                            |
+|                                      | - Hence atrial kick                                                                                                                                |
+|                                      | - Hence higher cardiac output                                                                                                                      |
++--------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Components                           | - Atria (0.5m/s)                                                                                                                                   |
+|                                      | - AV node (mostly this, 0.05m/s)                                                                                                                   |
+|                                      | - Bundle of His (2-4m/s)                                                                                                                           |
++--------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Pacemaker potential of AV node cells | ![](/content/exams/anzca/2007/B/16/prize-image002.jpg){fig-alt="AV nodal action potential and corresponding funny, calcium and potassium currents"}|
++--------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Short PR
+
++---------------+----------------------------------------------------------+
+| Physiological | *Usually within normal limits*                           |
+|               |                                                          |
+|               | - ↑SNS → ↑cAMP → ↑slope phase 4 (more than other phases) |
+|               | - ↑Temperature → ↑pacemaker cell metabolic rate          |
++---------------+----------------------------------------------------------+
+| Pathological  | *Accessory pathway*                                      |
+|               |                                                          |
+|               | - WPW syndrome                                           |
+|               | - LGL syndrome                                           |
++---------------+----------------------------------------------------------+
+
+#### Long PR
+
++---------------+-----------------------------------------------------------------------------------+
+| Types         | - First degree: ↑PR interval                                                      |
+|               | - Second degree Mobitz 1: ↑PR interval each beat until dropped QRS                |
+|               | - Second degree Mobitz 2: intermittent dropped QRS                                |
+|               | - Third degree: no AV conduction, escape rhythm                                   |
++---------------+-----------------------------------------------------------------------------------+
+| Physiological | *Usually within normal limits*                                                    |
+|               |                                                                                   |
+|               | - PSNS → ↓cAMP and ↑K^+^ conductance → ↓slope phase 4, ↑hyperpolarisation         |
+|               |   - E.g. fit athlete                                                              |
+|               | - ↓Temp → ↓pacemaker cell metabolic rate                                          |
+|               | - ↓pO~2~ → failure of Na^+^K^+^ATPase, unable to repolarize, HCN channel inactive |
+|               | - ↑K^+^ → ↑membrane potential → ↓excitability of conduction system                |
++---------------+-----------------------------------------------------------------------------------+
+| Pathological  | - Degeneration of conducting system                                               |
+|               | - Fibrosis                                                                        |
+|               | - Ischaemia, infarction                                                           |
+|               | - Infection: myocarditis, endocarditis                                            |
+|               | - Infiltration                                                                    |
+|               | - Connective tissue disease                                                       |
++---------------+-----------------------------------------------------------------------------------+
+| Medication    | - Beta blockers                                                                   |
+|               | - Verapamil, diltiazem                                                            |
+|               | - Digoxin                                                                         |
++---------------+-----------------------------------------------------------------------------------+

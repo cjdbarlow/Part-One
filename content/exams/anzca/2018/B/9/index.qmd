@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018B Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the autonomic innervation of the heart (60%) and the effects of autonomic stimulation on cardiac function (40%).
+:::
+
+Also asked in: [2010A Question 13](/content/exams/anzca/2010/A/13/index.qmd#examiner-comments), [2016A Question 12](/content/exams/anzca/2016/A/12/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the two systems in parallel, following anatomical pathways to receptors and intracellular events. Link these to nodal, myocardial and coronary effects, and distinguish basal tone and the time course of responses.
+
+::: {.structure-table}
+| Feature | Sympathetic | Parasympathetic |
+|---|---|---|
+| Origin, Pathways and Ganglia | | |
+| Distribution Within the Heart | | |
+| Transmitters, Receptors and Intracellular Events | | |
+| Chronotropy, Dromotropy, Inotropy and Lusitropy | | |
+| Coronary Effects, Basal Tone and Time Course | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**67%** of candidates achieved a pass in this question
+
+To pass the first part of this question (60%), a description of the anatomy of cardiac autonomic supply was required. This was best done in a systematic manner starting from the origins of the cardiac sympathetic and parasympathetic fibres to the course that these nerves traverse to the heart. Answers that included a discussion of the differential cardiac distribution of the right and left branches of both divisions scored higher marks.
+
+The second part of the question (40%) called for a discussion of the physiological effects of stimulation of these nerves on cardiac function. Better answers avoided the use of clichés such as “rest and digest” to describe the parasympathetic system since the beating heart performs neither of these functions. Although both divisions of the autonomic system function in a reciprocal manner, their actions are not merely the opposite of each other. An example is the effect of parasympathetic stimulation on contractility of the heart, which is not due to muscarinic stimulation but to interneuronal interactions at the level of nerve endings.
+
+Candidates who gave correct reasons for the brief latency and rapid decay of vagal stimulation as well as the slow onset and gradual offset of sympathetic stimulation were awarded extra marks. Those who mentioned the different effects of right and left sided stimulation of both divisions on cardiac function were given bonus marks. Many candidates spent too much time on unnecessary biochemical details on receptor function. A full discussion of the baroreceptor reflex was not required for a pass in this section.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2010/A/13/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2010/A/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Autonomic nervous system](/content/neuro/ans.qmd)

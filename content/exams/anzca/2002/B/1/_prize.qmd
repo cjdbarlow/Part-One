@@ -1,0 +1,45 @@
+#### List:
+
+- Absorption
+- Distribution
+- Metabolism
+- Excretion
+
+#### Absorption:
+
++---------+------------------------------------------------------------------------------------------------------+
+| Oral    | - ↓Gastric emptying in labour → ↑risk aspiration                                                     |
++---------+------------------------------------------------------------------------------------------------------+
+| Inhaled | - ↑VA (progesterone on respiratory centre), ↓FRC (diaphragm compression) → ↑rate of volatile wash-in |
+|         | - (partly offset by ↑cardiac output)                                                                 |
++---------+------------------------------------------------------------------------------------------------------+
+| SC/IM   | - ↑blood flow → ↑absorption rate (e.g. IM morphine in labour)                                        |
++---------+------------------------------------------------------------------------------------------------------+
+
+#### Distribution:
+
++----------------+------------------------------------------------------------------------------------+
+| Cardiac output | - ↑CO due to ↑preload, ↓afterload, ↑heart rate                                     |
+|                | - ↑Rate of onset suxamethonium                                                     |
+|                | - ↑Rate of offset by distribution of propofol → risk of awareness                  |
+|                | - Slows onset of volatile anaesthetic (but ↑V~A~:FRC ratio is more significant)    |
++----------------+------------------------------------------------------------------------------------+
+| Blood          | - ↓Albumin → ↑free acidic drug (e.g. barbiturate) (note same total amount albumin) |
+|                | - ↓AAG → ↑free basic drug (e.g. morphine)                                          |
+|                | - Respiratory alkalosis → ↑% unionized basic drugs, ↓%unionised acidic drug        |
+|                | - ↑Blood volume → ↑V~D~ plasma-confined drugs e.g. heparins                        |
++----------------+------------------------------------------------------------------------------------+
+| Tissues        | - ↑Muscle mass, ↑fat mass, oedema, ↑body water                                     |
+|                | - Hence ↑V~D~ most drugs → ↑t~1/2~~β~ most drugs                                   |
++----------------+------------------------------------------------------------------------------------+
+
+#### Metabolism and excretion:
+
++--------+-----------------------------------------------------------------------+
+| Liver  | - Unchanged hepatic blood flow and liver function                     |
+|        | - Progesterone → CYP enzyme induction                                 |
+|        | - Oestrogen → CYP enzyme competition                                  |
+|        | - ↓\[Plasma cholinesterase\] but unchanged amount                     |
++--------+-----------------------------------------------------------------------+
+| Kidney | - ↑Renal blood flow 80% → ↑GFR → ↑excretion unchanged drugs e.g. LMWH |
++--------+-----------------------------------------------------------------------+

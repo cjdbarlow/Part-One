@@ -1,0 +1,94 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2017A Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} how the large daily volume of glomerular filtrate is altered by the kidney to form a relatively low volume of concentrated urine.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} how salt and water handling become separated and a medullary concentration gradient is established and preserved. Follow the loop of Henle, vasa recta, urea recycling and ADH-dependent collecting duct water reabsorption.
+
+::: {.structure-headings}
+### Brief Overview of Filtrate and Water Handling
+
+### Countercurrent Multiplication
+
+### Vasa Recta and Gradient Preservation
+
+### Urea Recycling
+
+### ADH and Collecting Duct Water Permeability
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**29.2%** of candidates achieved a pass in this question
+
+Key understanding points were:
+
+1. Salt and water resorption must be separated for urinary concentration to occur
+2. A hyperosmotic medullary interstitium is set up to allow ADH to titrate water resorption
+
+    It is worth noting that water handling in the proximal convoluted tubule is isosmotic and does not contribute to urinary concentration. It is thus of limited relevance to this question.
+
+Key content points were:
+
+1. A (very) brief overview of renal water handling
+2. Establishment of a hyperosmotic medullary interstitium (loop of Henle, vasa recta and urea)
+3. The action of ADH
+
+The role of ADH was generally well described, even in the poorer answers.
+
+The countercurrent mechanism in the loop of Henle was variably described. Diagrams were frequently incorrect or confusing. The role of the vasa recta was better explained. Urea was frequently mentioned, but its role was rarely expanded upon. The relevant section in Vander’s Renal Physiology provides a comprehensive description of these processes.
+
+Many candidates focused on points of limited or no relevance, eg regulation of renal blood flow, formation of glomerular filtrate (assumed in the question), resorption in the proximal convoluted tubule, tubuloglomerular feedback, glomerulotubular balance, total body water balance, blood volume regulation, solute resorption (including sodium, glucose and acid), role of ANP/angiotensin/aldosterone.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2017/A/13/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Renal sodium handling](/content/renal/sodium.qmd)
+- [Antidiuretic hormone](/content/endo/pituitary.qmd#pit)

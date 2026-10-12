@@ -1,0 +1,20 @@
+**Bactericidal activity** 
+
+Bactericidal antimicrobials that prevent protein synthesis by irreversible binding to the 30S ribosomal subunit, preventing mRNA transcription.
+
+- As they are large, polar molecules, they must be actively transported into the cell
+  - This occurs with an oxygen dependent transporter\
+    Therefore they are **not effective against anaerobes**.
+- Transport is inhibited by increased Ca2+, Mg2+, low pH, and low O2
+- Aminoglycoside killing is dependent on the peak concentration over MIC\
+  Typically peak concentration must be 8-10x MIC.
+  - Exposure to aminoglycosides causes bacteria to down-regulate aminoglycoside uptake, and therefore increases MIC\
+    This effect disappears after \~24 hours, and is one justification for daily dosing of aminoglycosides. Additional justifications include:
+    - Allows larger single doses to be used, increasing bactericidal effect
+    - Aminoglycosides exhibit a post-antibiotic effect\
+      Ongoing bactericidal activity even after concentration falls.
+
+**Toxic effects of gentamicin**
+
+- Nephrotoxicity due to accumulation in the renal cortex. risk ↑due to ↑age, CKD
+- Ototoxicity due to accumulation in perilymph, and is usually permanent. Risk ↑ related to dosage/peak concentration, rate of administration

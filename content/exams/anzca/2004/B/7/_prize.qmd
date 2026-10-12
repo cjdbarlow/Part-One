@@ -1,0 +1,72 @@
+#### List:
+
+- Intro
+- Modelling
+- VDSS
+- Clearance
+
+#### Intro:
+
++-----------------------+--------------------------------------------------------------------------------------------------+
+| Definition: t~1/2~~β~ | - Time taken for plasma propofol concentration to fall by half during terminal elimination phase |
++-----------------------+--------------------------------------------------------------------------------------------------+
+| Equation              | - t~1/2~~β~ = V~DSS~/Cl x log~e~2                                                                |
++-----------------------+--------------------------------------------------------------------------------------------------+
+| Propofol’s numbers    | - Rapid clearance 30-60mL/kg/min                                                                 |
+|                       | - But very large volume of distribution 4L/kg                                                    |
+|                       | - Hence long t~1/2~~β~ 5-12 hours                                                                |
++-----------------------+--------------------------------------------------------------------------------------------------+
+| Significance          | - t~1/2~~β~ rarely affects practice for anaesthetic agents                                       |
+|                       | - Very slow equilibration with vessel poor group                                                 |
+|                       | - CSHT for propofol is only 50mins at 9 hours’ duration                                          |
++-----------------------+--------------------------------------------------------------------------------------------------+
+
+#### Modelling:
+
+  ----------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------
+  Compartment diagramme   ![](/content/exams/anzca/2004/B/7/prize-image001.jpg){fig-alt="Three-compartment pharmacokinetic model with effect site and clearance"}
+  Washout curve           ![](/content/exams/anzca/2004/B/7/prize-image002.jpg){fig-alt="Log concentration against time after a bolus, showing three exponential components"}
+  ----------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### Volume of distribution at steady state (Vdss)
+
++----------------------+-------------------------------------------------------+
+| Definition           | - Volume into which the drug appears to disperse      |
++----------------------+-------------------------------------------------------+
+| Propofol             | - High lipid solubility confers                       |
+|                      | - Rapid passage into CNS                              |
+|                      | - Large V~DSS~ 4L/kg                                  |
++----------------------+-------------------------------------------------------+
+| ↓V~DSS~ → ↓t~1/2~~β~ | - ↓Muscle mass (elderly, neonate, cachexia, anorexia) |
+|                      | - ↓Fat mass (neonate, cachexia, anorexia)             |
++----------------------+-------------------------------------------------------+
+| ↑V~DSS~ → ↑t~1/2~~β~ | - ↑Muscle mass: athlete                               |
+|                      | - ↑Fat mass (propofol lipophilic): obesity            |
++----------------------+-------------------------------------------------------+
+
+#### Clearance:
+
++------------+---------------------------------------------------------------------------------------+
+| Definition | - Volume of plasma from which drug is removed per unit time                           |
++------------+---------------------------------------------------------------------------------------+
+| Propofol   | - Cl 30-60mL/kg/min                                                                   |
+|            | - 99.7% metabolized                                                                   |
+|            | - Liver plus ?lung ? kidney ? other (since hepatic blood flow 20mL/kg/min)            |
+|            | - Phase 1 (3A4, 2B6, 2C19) and 2 (glucuronidation, sulfation)                         |
+|            | - Inactive metabolites                                                                |
+|            | - High hepatic extraction ratio 0.9                                                   |
++------------+---------------------------------------------------------------------------------------+
+| ↓Cl        | - ↓Hepatic blood flow (high hepatic extraction ratio hence flow-limited clearance)    |
+|            |   - Shock                                                                             |
+|            |   - LV failure                                                                        |
+|            |   - Critical illness                                                                  |
+|            |   - Hypothermia                                                                       |
+|            |   - Elderly                                                                           |
+|            |   - Cirrhosis                                                                         |
+|            |   - ↓Enzymatic activity (must be very severe)                                         |
+|            | - Liver failure                                                                       |
+|            |   - Enzyme inhibition                                                                 |
++------------+---------------------------------------------------------------------------------------+
+| ↑Cl        | - ↑Hepatic blood flow e.g. pregnancy                                                  |
+|            | - ↑Enzymatic activity e.g. induction (makes minimal difference, extraction ratio 0.9) |
++------------+---------------------------------------------------------------------------------------+

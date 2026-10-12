@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016A Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the cardiovascular changes that occur with ageing.
+:::
+
+Also asked in: [2019A Question 2](/content/exams/anzca/2019/A/2/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} structural changes with their functional consequences. Connect altered compliance, conduction and autonomic responses to filling, pressure, cardiac reserve and tolerance of stress, keeping normal ageing distinct from associated disease.
+
+::: {.structure-headings}
+### Myocardium and Ventricular Filling
+
+### Arterial Structure and Pressure
+
+### Conduction and Heart Rate
+
+### Autonomic Receptors and Reflexes
+
+### Cardiac Reserve and Stress Responses
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**65%** of candidates achieved a pass in this question
+
+Cardiovascular changes in ageing include effects on cardiac and vascular smooth muscle, the conduction system of the heart, the CVS reflexes, the function of the heart as a whole and its response to exercise and stress. The focus of this question was the normal consequences of aging rather than disease. Key points included a description of the loss of myocytes, elastin and collagen, and subsequent replacement with connective tissue. This results in loss of compliance or increased ‘stiffness’, which leads to a greater reliance on the Frank Starling mechanism to maintain stroke volume. To do this, higher filling pressures are required. There are also compensatory increases in the size of remaining myocytes and left ventricular hypertrophy in response to increases in afterload. Extra marks were awarded for a description of the increased importance of the atrial kick in the elderly as a proportion of ventricular filling. Descriptions of increases in systolic blood pressure and pulse pressures together with explanations and were also expected. Extra marks were also awarded for descriptions about increased conduction velocity of pulse wave down the vascular tree leading to earlier reflection of pulse wave from periphery. The contribution this may make to increased afterload was commonly omitted. Descriptions of impairment to the baroreceptor reflex, the conduction system, and the response to exercise scored marks. Bonus marks were awarded for descriptions about endothelial dysfunction, adrenergic receptor sensitivity, and changes to the pulmonary circulation. Descriptions of changes unrelated to the cardiovascular system did not score marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2016/A/10/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2016/A/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Ageing](/content/cvs/ageing_cvs.qmd)

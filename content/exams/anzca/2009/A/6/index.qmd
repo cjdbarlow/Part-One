@@ -1,0 +1,66 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2009A Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the mechanism of action and pharmacokinetics of phenytoin.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Mechanism of Action** and **Pharmacokinetics** separately. Within kinetics cover protein binding, dose-dependent elimination, metabolism, interactions and delivery, relating these to dosing and monitoring.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**20%** of candidates passed this question.
+
+A structured approach was expected addressing both the mechanism of action and pharmacokinetics. Candidates were expected to outline relevant mechanisms of action (such as sodium channel blockade) and how they relate to its use as an anticonvulsant agent. Additional credit was given for discussing other potential mechanisms and other uses such as pain management and antiarrhythmic properties. Phenytoin is a drug that has many uses in intensive care medicine and anaesthesia and an adequate knowledge of this drug, with its low therapeutic index is important for safe clinical use.
+
+Phenytoin is illustrative of several key concepts in pharmacology and mention of these was expected. Failure to address these key concepts or provide sufficient detail was a common omission. Candidates were expected to discuss that phenytoin is highly protein bound, changes from first to zero order kinetics with escalating doses and is metabolised by the cytochrome p450 enzyme system. Some discussion of the significance of these points was expected and extra credit was awarded for more detailed explanations, comments on enzyme induction and examples of drug interactions that are well known and clinically relevant. Candidates were expected to comment on the mode of delivery and compare oral and intravenous dosing. It was expected that the need for a loading dose followed by maintenance dosing would be mentioned and extra credit was given for highlighting the potential hazards of rapid intravenous administration. Additional credit was given for mentioning the importance of a narrow therapeutic index and the need for clinical monitoring. Well organized answers such as those with an ordered list of subheadings were rewarded.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Anticonvulsants](/content/pharmacopoeia/neuro/anticonvulsants.qmd)

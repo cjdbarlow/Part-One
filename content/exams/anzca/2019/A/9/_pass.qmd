@@ -1,0 +1,23 @@
+![](/content/exams/anzca/2019/A/9/standard-image41.png){fig-alt="Alveolar-to-inspired ratios during wash-in of nitrous oxide, desflurane, sevoflurane, isoflurane and halothane"}
+
+Inhalational Agent wash in curves graph the ratio of the Fraction Alveolar (as a surrogate of arterial partial pressure)  / Fraction Inspired volatile agent.
+
+The rate of uptake (FA) is primarily due to the blood:gas partition coefficient. Lower B:G PC reflects lower solubility in blood so the increased partial pressure the agent exhibits.
+
+BGPC for Desflurane is 0.42\> Nitrous Oxide 0.47 \> Sevoflurane 0.69
+
+In terms of potency N20\<Des\<Sevoflurane, ↓potency → ↑Fi safely delivered → ↑Rate of wash in 
+
+Nitrous oxide has a more rapid wash in rate as demonstrated on the graph due to its low potency requiring high concentrations to be delivered. 
+
+In addition N20 Will cause a concentration effect -  as N2O is 20x more soluble then N2 the rate of uptake of N20 is greater than N2 output causing more agent to be drawn into the Alveolus  
+
+Effect of Doubling Alveolar ventilation:
+
+Increased alveolar ventilation increases *F*i, as it replenishes agent that has been taken up into the vasculature. the rate of volatile agent delivery to the alveolus 
+
+→ ↑ rate of FA/FI ratio / wash in rise
+
+Effect of doubling CO  
+
+Increasing cardiac output increases the total drug uptake into the blood and distribution to tissues (including CNS)  but decreases the concentration/partial pressure in the blood.  This results in a slower rate of FA/FI rise.

@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005A Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the non-respiratory functions of the lung.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} functions by metabolic, vascular, defence and mechanical roles. Distinguish lung functions from processes performed mainly in the upper airway, and use examples for synthesis, activation, inactivation and drug uptake.
+
+::: {.structure-headings}
+### Metabolic and Endocrine Functions
+
+### Vascular Filtration and Blood Reservoir
+
+### Immune and Particulate Defence
+
+### Heat, Water and Mechanical Roles
+
+### Drug Uptake, Metabolism and Excretion
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**56 %** of candidates passed this question.
+
+The main points expected could be grouped under a number of headings.
+
+Metabolic functions included synthesis (e.g. surfactant), activation (e.g. angiotensin I to II) and inactivation (e.g. bradykinin). “Uptake” of substances and drugs may be passive or active and the pharmacological example of fentanyl uptake and later release and the impact on arterial blood levels could reasonably be included. Metabolic functions can also include the production and maintenance of lung structure.
+
+The lung also has a role as a vascular filter of emboli of venous origin as well as helping preventing microbiological spread to the arterial system. The biochemical fibrinolytic and immunological capacities of the lung tissue to assist this role and the problems of right to left shunt in circumventing the system could be described as well as the significance of emboli reaching the brain or heart.
+
+The lung defences against particulate and microbial contamination of the airways are important but there was often some difficulty in clarifying that larger particles are dealt with in the upper airway and generally do not reach the lung. A similar problem arose in descriptions of heat and water balance. Heat and water exchange are primarily performed in the upper airway although the increased significance of the lung’s role in extreme cold and dry conditions and high rates of ventilation could be described.
+
+The lung has some role in providing a blood reservoir. The role in acid base control overlaps with respiratory function but could be mentioned. The role as a gas reservoir which can be used for phonation and coughing could also be mentioned, as could the mechanical role of the lungs and some of the cardiovascular properties of the lung circulation.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2005/A/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Non-respiratory functions](/content/resp/non_resp_functions.qmd)

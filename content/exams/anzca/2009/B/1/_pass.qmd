@@ -1,0 +1,15 @@
+Sevoflurane is a volatile anaesthetic agent commonly used for induction and maintenance of anaesthesia 
+
+Fentanyl is a synthetic opioid commonly used for analgesia, adjuvant to induction of anaesthesia.
+
+Used together they are both complimentary and synergistic. Complementary as they produce difference results i.e. analgesia/hypnosis. Synergistic as the combined effect exceeds the sum of individual effects. 
+
+Fentanyl dose of 3mcg/kg reduces the MAC, MAC-BAR, and MAC Awake of Sevoflurane
+
+- MAC of Sevoflurane 1.8%, ↓60% with fentanyl 
+- MAC BAR 4%, ↓80% with fentanyl
+- MAC Awake 0.6% , ↓25% with fentanyl   
+
+Using Fentanyl allows dose reduction of Sevoflurane and with an associated dose related reduction of side effects including ↓SVR, ↓CO,  
+
+Sevoflurane has minimal analgesia properties - complemented by fentanyl, while fentanyl cannot reliably produce unawareness → complemented by sevoflurane

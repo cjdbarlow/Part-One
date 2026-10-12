@@ -1,0 +1,124 @@
+(a.k.a. non-ideal features)
+
+#### List:
+
+- Intro
+- Pharmaceutics
+- Pharmacokinetics
+- Pharmacodynamics: CNS, CVS, resp, other
+
+#### Pharmaceutics: adverse effects
+
++------------------+-----------+--------------------------------+--------------------------------------------------------------------+
+| **Ingredient**   | **mg/mL** | **Function**                   | **Side effect**                                                    |
++==================+===========+================================+====================================================================+
+| Soybean oil      | 100       | Solvent: oil in water emulsion | - Bacterial contamination:                                         |
+|                  |           |                                |   - Discard if open \>6 hours                                      |
+|                  |           |                                |   - Finish infusion by 12 hours                                    |
+|                  |           |                                | - Lipotoxicity                                                     |
+|                  |           |                                | - Propofol infusion syndrome                                       |
+|                  |           |                                |   - Mitochondrial dysfunction                                      |
+|                  |           |                                |   - Lactic acidosis, bradycardia arrest                            |
+|                  |           |                                |   - Rare                                                           |
+|                  |           |                                |   - Mainly in unwell children)                                     |
+|                  |           |                                |                                                                    |
+|                  |           |                                | (Alternative solvents: liposomes, medium chain TAG, cyclodextrins) |
++------------------+-----------+--------------------------------+--------------------------------------------------------------------+
+| Glycerol         | 22.5      | Tonicity                       |                                                                    |
++------------------+-----------+--------------------------------+--------------------------------------------------------------------+
+| Egg lecithin     | 12        | Emulsifier                     | - Very low risk anaphylaxis (protein deplete)                      |
++------------------+-----------+--------------------------------+--------------------------------------------------------------------+
+| Disodium edetate | 0.5       | Antimicrobial                  |                                                                    |
++------------------+-----------+--------------------------------+--------------------------------------------------------------------+
+| NaOH             | Tiny      | Adjust pH                      |                                                                    |
++------------------+-----------+--------------------------------+--------------------------------------------------------------------+
+| Unknown          |           |                                | - Pain on injection: ? cause                                       |
++------------------+-----------+--------------------------------+--------------------------------------------------------------------+
+
+#### Pharmacokinetics:
+
++------------------------+--------------------------------------------------------------+
+| Absorption             | - IV cf inhaled: risk of indefinite accumulation             |
++------------------------+--------------------------------------------------------------+
+| Distribution           | - Large V~DSS~ → slow offset after long infusion             |
+|                        | - Small, lipid soluble, unionized → rapid placental transfer |
++------------------------+--------------------------------------------------------------+
+| Metabolism / excretion | - Quinol metabolite → green hair and urine                   |
++------------------------+--------------------------------------------------------------+
+| Modelling              | - Unable to measure plasma concentration clinically          |
+|                        | - Unable to measure effect site concentration                |
++------------------------+--------------------------------------------------------------+
+
+#### Central nervous system:
+
++--------------------------+---------------------------------------------------------------------+
+| Narrow therapeutic index | i.e. sedation \<-\> general anaesthesia                             |
+|                          |                                                                     |
+|                          | - Risk of airway obstruction, apnoea                                |
+|                          | - Inappropriate for untrained staff to administer propofol sedation |
++--------------------------+---------------------------------------------------------------------+
+| Excitatory phenomena     | - Myoclonus/hiccough occurs in 10%                                  |
+|                          |   - ? Differential effect on excitatory and inhibitory neurons      |
+|                          |   - ? Loss of cortical inhibition                                   |
+|                          |   - ? Disrupted dopaminergic/cholinergic signalling in subcortex    |
+|                          | - Note: no EEG evidence of seizure                                  |
+|                          | - Note: propofol is intrinsically anticonvulsant                    |
++--------------------------+---------------------------------------------------------------------+
+| Cerebral hypoperfusion   | CPP = mAP – (CVP or ICP)                                            |
+|                          |                                                                     |
+|                          | - ↓mAP may be greater than ↓ICP or ↓CVP                             |
+|                          | - Problem partly offset by ↓CMRO~2~                                 |
++--------------------------+---------------------------------------------------------------------+
+| Euphoria                 | - ↑Dopamine discharge at subanaesthetic dose                        |
+|                          | - Risk of addiction, dependence                                     |
++--------------------------+---------------------------------------------------------------------+
+| Delirium                 | - Higher risk in the elderly                                        |
+|                          | - ? Cause                                                           |
++--------------------------+---------------------------------------------------------------------+
+| Other                    | - No antidote available                                             |
++--------------------------+---------------------------------------------------------------------+
+
+#### Cardiovascular:
+
++-------------------+-----------------------------------------------------------------+
+| Mechanisms        | - Inhibit L-Ca2+ channel (↓L-Ca^2+^)                            |
+|                   | - ↑Nitric oxide release (↑NO)                                   |
+|                   | - ↓SNS output from medulla due to ↑GABA activity (↓SNS)         |
++-------------------+-----------------------------------------------------------------+
+| Clinical effects  | - ↓Venous tone, ↓venous return, ↓preload (major effect)         |
+|                   | - ↓Heart rate, ↓contractility                                   |
+|                   | - ↓SVR, ↓afterload (most important effect)                      |
+|                   | - ↓Cardiac output                                               |
+|                   | - ↓mAP                                                          |
+|                   | - ↓Organ perfusion (e.g. oliguria)                              |
++-------------------+-----------------------------------------------------------------+
+| At risk organs:   | - Below autoregulatory threshold mAP (e.g. \<70mmHg for kidney) |
+|                   | - Pressure-passive organ (e.g. placenta)                        |
+|                   | - Poorly tolerates ischaemia (e.g. brain)                       |
++-------------------+-----------------------------------------------------------------+
+| At risk patients: | - Poor autoregulation                                           |
+|                   |   - Elderly                                                     |
+|                   |   - Atherosclerosis                                             |
+|                   | - Minimal reserve                                               |
+|                   |   - Shock                                                       |
+|                   |   - LV failure                                                  |
++-------------------+-----------------------------------------------------------------+
+
+#### Respiratory:
+
++------------------------------------------+-----------------------------------------------------------------+
+| Respiratory depression: mechanism        | - ↑GABA → suppress medulla resp centre and spinal motor neurons |
++------------------------------------------+-----------------------------------------------------------------+
+| Respiratory depression: clinical effects | - ↓RR, ↓V~T~                                                    |
+|                                          | - Risk apnoea at induction                                      |
+|                                          | - ↓Response to ↑PaCO~2~ and ↓PaO~2~                             |
+|                                          | - Synergistic resp depression with BDZ and opioids              |
++------------------------------------------+-----------------------------------------------------------------+
+| ↓Airway reflexes                         | - ↑Risk aspiration if unprotected airway                        |
++------------------------------------------+-----------------------------------------------------------------+
+| ↓Pharyngeal dilator tone                 | - ↑Risk obstruction                                             |
+|                                          | - Very common if OSA                                            |
++------------------------------------------+-----------------------------------------------------------------+
+| ↓HPV                                     | - Vasodilatation → universal ↓PVR → worse V/Q matching          |
+|                                          | - Relatively preserved cf. volatile anaesthetics                |
++------------------------------------------+-----------------------------------------------------------------+

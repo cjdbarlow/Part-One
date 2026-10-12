@@ -1,0 +1,36 @@
+#### Fade:
+
++-------------+-------------------------------------------------------------------------------------+
+| Description | - Progressive reduction in twitch height with high frequency stimulation (e.g. TOF) |
+|             | - Occurs in non-depolarising drugs only                                             |
++-------------+-------------------------------------------------------------------------------------+
+| Use         | - Degree of fade correlates with depth of blockade                                  |
+|             | - (e.g. TOF ratio 0.25 at 85% receptor occupancy)                                   |
++-------------+-------------------------------------------------------------------------------------+
+| Mechanism   | - Blockade of pre-synaptic α~3~β~2~ nAChR                                           |
+|             | - Loss of positive feedback                                                         |
+|             | - Inability to mobilise reserve pool of ACh                                         |
++-------------+-------------------------------------------------------------------------------------+
+
+#### Post-tetanic potentiation:
+
++-------------+-----------------------------------------------------------------------------------------------+
+| Description | - Temporary increase in single twitch height after tetanic stimulation (e.g. 50Hz 3 seconds)\ |
+|             |   (note may also account for TOF ratio \>1)                                                   |
+|             | - Occurs with non-depolarising drugs only                                                     |
+|             | - Lasts for \~7 minutes                                                                       |
++-------------+-----------------------------------------------------------------------------------------------+
+| Use         | - Inverse correlation of post-tetanic count with degree of blockade                           |
+|             | - Useful during deep blockade e.g. brain surgery                                              |
+|             | - PTC 9 → TOF count 1                                                                         |
+|             | - PTC 5 → TOF count 1 in 10 minutes                                                           |
+|             | - PTC 2 → TOC count 1 in 20 minutes                                                           |
++-------------+-----------------------------------------------------------------------------------------------+
+| Mechanism   | - ↑ICF \[Ca^2+^\] via L-Ca^2+^ at pre-synaptic terminal                                       |
+|             | - Repeated activation of the nerve                                                            |
+|             | - Repeated activation of the VDCC                                                             |
+|             | - Insufficient time for Ca^2+^ extrusion                                                      |
+|             | - Ca^2+^ gets farther up the cell                                                             |
+|             | - Reserve pool of ACh mobilized (larger, dispersed, tethered to cytoskeleton)                 |
+|             | - Stronger contraction                                                                        |
++-------------+-----------------------------------------------------------------------------------------------+

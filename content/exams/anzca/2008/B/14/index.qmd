@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008B Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} in physiologic terms the effect of severe aortic stenosis on myocardial supply and demand.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} severe aortic stenosis as a chronic pressure load. Link ventricular pressure, wall tension and hypertrophy to demand, and diastolic perfusion pressure, duration and filling pressure to coronary supply.
+
+::: {.structure-headings}
+### Severe Aortic Stenosis and Chronic Adaptation
+
+### Wall Tension and Oxygen Demand
+
+### Coronary Perfusion and Oxygen Supply
+
+### Hypertrophy and Diastolic Dysfunction
+
+### Heart Rate and Integrated Balance
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**45%** of candidates passed this question.
+
+This was an applied physiology question. The first part of an answer was a description of aortic stenosis, with additional marks for giving measure(s) of severity. The main part of the answer concerned the interrelated effects of a severely stenosed aortic valve that may produce both increased myocardial work (described using Laplace’s law) and compromised coronary blood flow. Additional marks were awarded for answers that discussed the varying effects of left ventricular hypertrophy on both supply and demand. Marks were also awarded for discussing how increased heart rate may both increase demand and reduce supply. Errors included: confusing the effects of altered pressure with altered flow; failing to indicate that severe aortic stenosis is a chronic condition; and including, often at length, the effects of anaesthesia or the symptoms and signs of aortic stenosis.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2008/B/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Myocardial oxygen supply and demand](/content/cvs/myocardial_oxygen.qmd)
+- [Coronary circulation](/content/cvs/coronary_circulation.qmd)

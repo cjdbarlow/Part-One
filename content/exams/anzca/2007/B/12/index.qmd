@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007B Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the mechanisms by which the kidney maintains potassium homeostasis.
+:::
+
+Also asked in: [2008B Question 16](/content/exams/anzca/2008/B/16/index.qmd#examiner-comments), [2012B Question 10](/content/exams/anzca/2012/B/10/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} potassium handling along the nephron. Distinguish filtered load and relatively fixed reabsorption from regulated secretion, linking transport mechanisms to aldosterone, potassium concentration and tubular flow.
+
+::: {.structure-headings}
+### Normal Concentrations and Filtered Load
+
+### Proximal Tubule and Loop Reabsorption
+
+### Distal Nephron Secretion
+
+### Aldosterone and Potassium Regulation
+
+### Tubular Flow and Intercalated Cell Reabsorption
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**25 %** of candidates passed this question.
+
+Main points expected for a pass included an outline of how potassium is handled as the glomerular filtrate passes along the nephron and a brief appreciation of the mechanisms of secretion and reabsorption of potassium.
+
+Additional marks were allocated for more detail on the actual cellular mechanisms for secretion and the cellular processes that are influenced by aldosterone.
+
+The most common reason for not passing this question was the lack of any structure and a paucity of relevant information. Very few candidates appreciated that reabsorption of potassium is fixed and that altering potassium secretion is the regulatory process.
+
+Credit was not given for elaborate discussions of the determinates of glomerular filtration or for detailed descriptions of the systemic control of aldosterone secretion.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/B/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Renal potassium handling](/content/renal/potassium.qmd)

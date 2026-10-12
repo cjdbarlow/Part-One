@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008A Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the pathways whereby myocardial ischaemia may be experienced as pain in the throat or arm regions.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the pathway from ischaemic stimulus and cardiac nociceptors through afferents, spinal convergence and ascending pathways to perception. Explain referral using shared segmental and embryological relationships.
+
+::: {.structure-headings}
+### Ischaemic Stimulus and Nociceptors
+
+### Cardiac Visceral Afferents and Nerve Roots
+
+### Spinal Convergence and Referral
+
+### Ascending Pathways and Pain Perception
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**21%** of candidates passed this question.
+
+This question was generally very poorly answered. A significant number of candidates didn’t answer the question at all (blank answer booklets) and a number of candidates wrote only 1 - 2 lines.
+
+A number of candidates described myocardial work or the components of cardiac output.
+
+Good candidates gave a definition, described the embryological derivation, why pain is referred and described the correct pathways involved from stimulus, pain receptors and the end point as pain.
+
+Only a very few candidates described the correct nerve roots involved. A number described the sympathetic chain.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2008/A/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Pain pathways](/content/neuro/pain.qmd)
+- [Myocardial oxygen supply and demand](/content/cvs/myocardial_oxygen.qmd)

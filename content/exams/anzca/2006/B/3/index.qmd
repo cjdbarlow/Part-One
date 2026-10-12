@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006B Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the factors which contribute to the inter-individual variability in drug response seen with intravenous anaesthetic induction agents.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} variability by pharmacokinetics and pharmacodynamics. Within each, organise physiological, pathological, drug and genetic factors and explain their relative effects on induction and offset.
+
+::: {.structure-headings}
+### Delivery and Effect-Site Equilibration
+
+### Redistribution and Clearance
+
+### Physiological and Pathological Sensitivity
+
+### Interactions and Tolerance
+
+### Pharmacogenomic and Idiosyncratic Factors
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**42 %** of candidates passed this question.
+
+Better answers classified the factors contributing to variability rather than providing a random list. Factors could be broadly classified as pharmacokinetic and pharmacodynamic in nature. Then within each class further division into physiological, pathological and pharmacological, including drug interaction and pharmacogenomic factors. Other schemes that encompassed these key areas were acceptable. Some indication of the relative importance of these factors in determining variability of intravenous anaesthetic agents was important. Key pharmacokinetic factors were those that ultimately influenced the extent or duration of effect site concentration and included factors increasing the rate of drug distribution to effect site (e.g. speed of administration, arm-brain circulation time, cardiac output, distribution of cardiac output, central compartment volume, effect site equilibration time); factors influencing redistribution, offset of initial effect and body drug stores (e.g. regional blood flow, volume of distribution, body habitus, age); factors causing variability in metabolism and clearance (e.g. pharmacogenomic factors; induction, inhibition of enzymes; duration of exposure; age-related changes in metabolism; hepatic and renal function). Key pharmacodynamic factors included drug-receptor interaction, receptor numbers and regulation, acute and chronic tolerance, idiosyncratic reactions.
+
+Higher marks were awarded for comprehensive breadth of cover of the topic including pharmacogenomic influences and where a clear understanding of the concepts mentioned was evident. Many candidates did not read the question, and did not relate answers at all to intravenous anaesthetic agents. Common errors included irrelevant emphasis on differences between drugs rather than inter-individual variability, confusion over the nomenclature and roles of the different volumes of distribution, uncertainty regarding the relative roles of redistribution and clearance in offset of drug effect and confusion over the pharmacokinetic changes in the very young and elderly patients. A clear knowledge of pharmacological principles and terminology was expected.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2006/B/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Intravenous kinetics](/content/pharmacology/iv_kinetics.qmd)
+- [Alterations to drug response](/content/pharmacology/alterations_to_response.qmd)

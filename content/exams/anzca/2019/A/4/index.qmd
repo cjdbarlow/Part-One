@@ -1,0 +1,74 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019A Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the ways in which carbon dioxide is carried in the blood.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} each form of carriage, its location and mechanism, and distinguish arterial proportions from contributions to the arteriovenous difference. Explain red cell reactions, chloride exchange and the influence of haemoglobin oxygenation.
+
+::: {.structure-table}
+| Form of Carriage | Mechanism and Location | Arterial Proportion and Arteriovenous Contribution |
+|---|---|---|
+| Dissolved Carbon Dioxide | | |
+| Bicarbonate | | |
+| Carbamino Compounds | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**65.7 %** of candidates achieved a pass in this question
+
+The candidates needed to cover the three main types of CO2 carriage, namely dissolved, bicarbonate, and as carbamino compounds. For dissolved CO2, candidates needed to outline Henry’s Law. Bicarbonate carriage required outlining the reactions inside the RBC as well as the exchange with chloride ions. Carbamino carriage involved outlining the reaction with haemoglobin, and the changes with deoxygenated haemoglobin. The relative arterial percentages and AV differences of each were also expected. More detail attracted additional marks.
+
+Discussion of CO2 production, the Fick principle, and diffusion across membranes didn’t attract marks. Common errors included referring to carboxyhaemoglobin, and stating the formation of bicarbonate occurring in the plasma rather than the RBC.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2019/A/4/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2019/A/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Carbon dioxide transport](/content/resp/co2_transport.qmd)

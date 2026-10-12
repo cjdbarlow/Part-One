@@ -1,0 +1,121 @@
+#### List:
+
+- Diagramme
+- Components
+- Function
+- Calibration
+- Sources of error
+
+#### Diagramme:
+
+![](/content/exams/anzca/2020/B/13/prize-image001.jpg){fig-alt="Arterial pressure measurement components A to G and Wheatstone bridge strain gauge circuit"}
+
+#### Components:
+
++---+------------------+----------------------------------------------------------------------------------------+
+| A | Catheter         | 20 or 22 gauge                                                                         |
+|   |                  |                                                                                        |
+|   |                  | Short, wide (20g or 22g), stiff                                                        |
+|   |                  |                                                                                        |
+|   |                  | Clot-resistant, kink resistant material e.g. FEP polymer                               |
++---+------------------+----------------------------------------------------------------------------------------+
+| B | Tubing           | Short (\<1.2m), wide (lumen \>1.5mm), stiff tubing                                     |
+|   |                  |                                                                                        |
+|   |                  | Low density fluid (saline)                                                             |
++---+------------------+----------------------------------------------------------------------------------------+
+| C | Sampling port    | Sampling port and three-way tap                                                        |
++---+------------------+----------------------------------------------------------------------------------------+
+| D | Transducer       | Infusion at 3mL/h                                                                      |
+|   |                  |                                                                                        |
+|   |                  | Rapid flush lever for a) clearing the catheter b) test for damping                     |
++---+------------------+----------------------------------------------------------------------------------------+
+| E | Reservoir        | 0.9% NaCl at 300mmHg                                                                   |
++---+------------------+----------------------------------------------------------------------------------------+
+| F | Electrical cable |                                                                                        |
++---+------------------+----------------------------------------------------------------------------------------+
+| G | Processor        | May include other functions including pulse pressure variation, pulse contour analysis |
+|   |                  |                                                                                        |
+|   | Display          |                                                                                        |
++---+------------------+----------------------------------------------------------------------------------------+
+
+#### Function:
+
++--------------+-------------------------------------------------------------------+
+| Oscillation  | - Oscillations in arterial pressure transmitted to saline column  |
+|              | - Column displaces transducer’s diaphragm and strain gauge        |
++--------------+-------------------------------------------------------------------+
+| Transduction | - Stretch of strain gauge increases electrical resistance         |
+|              | - ±Multiple strain gauges in Wheatstone bridge for accuracy       |
+|              | - Electrical signal transmitted to processing unit                |
++--------------+-------------------------------------------------------------------+
+| Processing   | - Signal filtered + amplified                                     |
+|              | - Signal broken down into component sine waves (Fourier analysis) |
+|              | - Waveform constructed using fundamental freq + several harmonics |
+|              | - Read-outs calculated                                            |
++--------------+-------------------------------------------------------------------+
+| Display      | - SBP, DBP, mAP and waveform displayed on the monitor             |
+|              | - +/- Pulse pressure variation, pulse contour analysis            |
++--------------+-------------------------------------------------------------------+
+
+#### Calibration:
+
+*i.e. static accuracy*
+
++------------+------------------------------------------+
+| Zero point | - Relative to atmospheric pressure       |
+|            | - “Off to patient, open to air”          |
++------------+------------------------------------------+
+| Height     | - Raise transducer against a standard    |
+|            | - 7.4mmHg per 10cm                       |
++------------+------------------------------------------+
+| Time       | - Observe steadiness at zero across time |
++------------+------------------------------------------+
+
+#### Sources of error:
+
++-----------------------+--------------------------------------------------------------------------------------------------------------+
+| *Static inaccuracy:*  |                                                                                                              |
++-----------------------+--------------------------------------------------------------------------------------------------------------+
+| - Zero                | **Failure to calibrate:**                                                                                    |
+|                       |                                                                                                              |
+|                       | - Unpredictable. False ↑ or ↓                                                                                |
++-----------------------+--------------------------------------------------------------------------------------------------------------+
+| - Height              | **Failure of target selection:**                                                                             |
+|                       |                                                                                                              |
+|                       | - If supine: phlebostatic axis (4th intercostal space, mid-axillary line)                                    |
+|                       | - If beach chair: brainstem (external acoustic meatus)                                                       |
+|                       |                                                                                                              |
+|                       | **Failure to adjust with patient movement:**                                                                 |
+|                       |                                                                                                              |
+|                       | - Transducer too high: BP falsely low                                                                        |
+|                       | - Transducer too low: BP falsely high                                                                        |
+|                       |                                                                                                              |
+|                       | *Risk: overtreat ↑BP or undertreat ↓BP → organ ischaemia*                                                    |
++-----------------------+--------------------------------------------------------------------------------------------------------------+
+| - Time                | - Natural drift of strain gauge. False ↑ or ↓                                                                |
+|                       | - Equipment dysfunction. False ↑ or ↓                                                                        |
++-----------------------+--------------------------------------------------------------------------------------------------------------+
+| *Dynamic inaccuracy:* |                                                                                                              |
++-----------------------+--------------------------------------------------------------------------------------------------------------+
+| - Resonance           | = exaggeration of oscillatory amplitude if system stimulated at a close multiple of natural frequency (F~N~) |
+|                       |                                                                                                              |
+|                       | -\>\>False ↑SBP, ↓DBP, ↔ mAP                                                                                 |
+|                       |                                                                                                              |
+|                       | Avoided if F~N~ \> 10x F~0~ (heart rate):                                                                    |
+|                       |                                                                                                              |
+|                       | - ↑potential energy: stiff tubing and diaphragm                                                              |
+|                       | - ↓kinetic energy: short, wide, stiff tubing and cannula; and low density fluid                              |
++-----------------------+--------------------------------------------------------------------------------------------------------------+
+| - Damping             | = minimisation of oscillatory amplitude through viscosity and friction                                       |
+|                       |                                                                                                              |
+|                       | -\>\> Overdamped: False ↓SBP, ↑DBP, ↔ mAP\                                                                   |
+|                       | -\>\> Underdamped: opposite                                                                                  |
+|                       |                                                                                                              |
+|                       | Optimised if damping coefficient 0.64                                                                        |
+|                       |                                                                                                              |
+|                       | - Intact cannula, no kink/blood/clot/bubble\                                                                 |
+|                       |   (N.B. occlusion → zero pressure)                                                                           |
+|                       | - Optimal cannula and tubing design                                                                          |
++-----------------------+--------------------------------------------------------------------------------------------------------------+
+
+*N.B. modern systems are underdamped, but natural frequency is sufficiently high to prevent resonance*

@@ -1,0 +1,96 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016B Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the physiology of blood groupings that allows O negative packed cells to be safely transfused to most patients.
+:::
+
+Also asked in: [2012A Question 11](/content/exams/anzca/2012/A/11/index.qmd#examiner-comments), [2021A Question 3](/content/exams/anzca/2021/A/3/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} antigen and antibody relationships before explaining why O negative packed cells can be used for most recipients. Distinguish packed cells from plasma and address important limitations.
+
+::: {.structure-headings}
+### ABO Antigens and Antibodies
+
+### Rhesus Antigens and Sensitisation
+
+### Packed Cells and Recipient Compatibility
+
+### Other Antigens and Compatibility Limits
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**75%** of candidates achieved a pass in this question
+
+Main points expected for a pass:
+
+- Neg status is determined by the ABO and Rhesus blood groups
+- A classification of ABO system according to antigens expressed on the RBCs
+- Recognition that antibodies (Abs) develop in the plasma against non-self ABO antigens (and to delineate these)
+- Classification of the Rhesus system based on the presence or absence of the Rhesus antigen
+- Recognition that ABO incompatibility results when donor RBCs expressing an antigen (A &/or B) which recipient does not possess are transfused. The recipient will have antibodies to the foreign antigen in their plasma, resulting in an immune reaction.
+- Recognition that O Neg blood cells express no A or B antigens and no Rhesus antigen and hence will not provoke an immune response when transfused to most.
+
+Additional credit was gained for discussion of:
+
+- the ABO system as the most antigenic
+- how the ABO Abs are formed after birth and their nature
+- the Rhesus system having multiple alleles, but the D allele as the most important
+- the need for prior exposure to the D antigen to produce anti -D antibodies (unlike ABO Abs) and the importance of avoiding this sensitization esp in women of childbearing age (hence the use of Rh – blood)
+- rare blood groups eg the Bombay blood group where O neg blood may cause an immune reaction
+- other more minor blood antigens which may cause reaction in sensitized patients
+- the importance of removing plasma from the donated RBCs (as O plasma contains both anti-A and anti-B antibodies)
+- the utility of O Neg blood in emergency situations with critical time pressures
+
+The most common error was the description of antibodies against the ABO antigens as “A Abs & B Abs” when they are actually anti-A Abs and Anti-B Abs.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2012/A/11/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2012/A/11/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Transfusion](/content/haeme/transfusion.qmd)

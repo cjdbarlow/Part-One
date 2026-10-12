@@ -1,0 +1,129 @@
+#### List:
+
+- Basics: definition, heating power etc
+- Variants: cut, coag etc
+- Risks and safety measures
+
+#### Basics:
+
++----------------------+------------------------------------------------------------------+
+| Definition           | - Very high frequency AC, 0.5-2MHz                               |
+|                      | - Note \>100kHz no electrocution, only heating                   |
++----------------------+------------------------------------------------------------------+
+| Heating determinants | Proportional to                                                  |
+|                      |                                                                  |
+|                      | - Current magnitude                                              |
+|                      | - Current density (high at the stick, low at the plate. Amp/cm2) |
+|                      | - Current duration                                               |
++----------------------+------------------------------------------------------------------+
+| Heating power        | - = current (A) x potential difference (V) per unit time         |
+|                      | - = I^2^ x R (where R is inversely proportional to area)         |
++----------------------+------------------------------------------------------------------+
+
+#### Variants:
+
++-----------+------------------------------------------------------------------------------------+
+| Cut       | - 100% duty cycle                                                                  |
+|           | - 0.5MHz                                                                           |
+|           | - 250-3000V                                                                        |
++-----------+------------------------------------------------------------------------------------+
+| Coag      | - 6% duty cycle                                                                    |
+|           | - 1-1.5MHz                                                                         |
+|           | - Up to 9000V                                                                      |
+|           | - Spray coagulation: arcing from the tip                                           |
+|           | - Contact coagulation: contact with tip, desiccation occurs                        |
++-----------+------------------------------------------------------------------------------------+
+| Blend     | - Combination of both waveforms                                                    |
++-----------+------------------------------------------------------------------------------------+
+| Monopolar | - Two connections: active electrode (high density) and neutral plate (low density) |
+|           | - More effective burning                                                           |
++-----------+------------------------------------------------------------------------------------+
+| Bipolar   | - Two sticks, high current density at each                                         |
+|           | - More precise burning                                                             |
++-----------+------------------------------------------------------------------------------------+
+
+#### Risk and safety measures:
+
++---------------------------------------------------+---------------------------------------------------+
+| **Problem**                                       | **Solution**                                      |
++===================================================+===================================================+
+| Stray capacitance:                                | - Plate and patient at earth potential            |
+|                                                   | - Machine incorporated into LIS                   |
+| - Interfere with pulse oximetry or EEG            | - Use of low pass filters in other devices        |
++---------------------------------------------------+---------------------------------------------------+
+| Interference with cardiac devices:                | - Place plate so that path avoids device          |
+|                                                   | - Use bipolar                                     |
+| - PPM: may falsely detect output                  | - Place magnet → VOO or DOO mode                  |
+| - AICD: may falsely detect ventricular arrhythmia |                                                   |
++---------------------------------------------------+---------------------------------------------------+
+| Plate burn                                        | - Put on intact skin, ensure good contact         |
++---------------------------------------------------+---------------------------------------------------+
+| Smoke → cancer                                    | - Suction                                         |
+|                                                   | - Wear a mask                                     |
++---------------------------------------------------+---------------------------------------------------+
+| Fire, explosion                                   | - Avoid use near high concentration O~2~          |
+|                                                   | - Use lower PiO~2~, avoid N~2~O in airway surgery |
+|                                                   | - Allow prep to dry                               |
++---------------------------------------------------+---------------------------------------------------+
+
+#### Addit: describe the use of laser:
+
+#### Key information:
+
++----------------+-------------------------------------------------------------------+
+| Definition     | - Light amplification by stimulated emission of radiation         |
++----------------+-------------------------------------------------------------------+
+| Features       | - Monochromatic                                                   |
+|                | - Collimated (parallel)                                           |
+|                | - In phase (some point in wavelength)                             |
++----------------+-------------------------------------------------------------------+
+| Components     | - Energy source                                                   |
+|                | - Medium (gives name – e.g. CO~2~)                                |
+|                | - Mirrors (optical resonator)                                     |
+|                | - Aperture                                                        |
++----------------+-------------------------------------------------------------------+
+| How it works   | - Source excites molecules, electrons move to higher energy level |
+|                | - Electron moves down level → photon                              |
++----------------+-------------------------------------------------------------------+
+| Classification | - According to max possible exposure (MPE)                        |
+|                | - Class 1 (harmless) to Class 4 (incl medical)                    |
+|                | - Based on ability to burn skin and retina                        |
++----------------+-------------------------------------------------------------------+
+| Hazards        | - Skin                                                            |
+|                | - Eyes – painless retinal burn, focused by cornea and lens        |
+|                | - Fire                                                            |
++----------------+-------------------------------------------------------------------+
+
+#### Common types:
+
++-------+------------+---------------+-------------------+
+|       | **Medium** | **Spectrum**  | **Use**           |
++=======+============+===============+===================+
+| CO~2~ | Gas        | Far infrared  | Cut, coag         |
+|       |            |               |                   |
+|       |            |               | Larnyx, sinus     |
++-------+------------+---------------+-------------------+
+| NdYAG | Solid      | Near infrared | Prostate, thyroid |
++-------+------------+---------------+-------------------+
+| Argon | Gas        | Blue-green    | Retina, AVM       |
+|       |            |               |                   |
+|       |            |               | Bladder           |
++-------+------------+---------------+-------------------+
+
+#### Safety measures:
+
++-------------+------------------------------------------------------------+
+| General     | - Education and training                                   |
+|             | - Dedicated person                                         |
+|             | - Signs                                                    |
+|             | - Goggles outside                                          |
+|             | - Non-reflective equipment                                 |
++-------------+------------------------------------------------------------+
+| Surgical    | - Minimise exposure and use                                |
+|             | - Non-reflective matte surfaced instruments                |
++-------------+------------------------------------------------------------+
+| Anaesthetic | - Gas: FiO~2~ \<0.3, avoid N~2~O                           |
+|             | - Tube: laser-resistant or covered or use jet vent instead |
+|             | - Cuff: saline or dye filled                               |
+|             | - Eyes: covered                                            |
++-------------+------------------------------------------------------------+

@@ -1,0 +1,81 @@
+#### List:
+
+- Corpuscular anatomy
+- Starling hypothesis
+- Starling forces at the renal corpuscle
+- Effect of renal arteriolar tone
+
+#### Corpuscular anatomy:
+
++------------+--------------------------------------------------------------------+
+| Components | - Capillary tuft with afferent and efferent arterioles either side |
+|            | - Bowman’s capsule (epithelium)                                    |
+|            | - Bowman’s space in between                                        |
++------------+--------------------------------------------------------------------+
+| Barrier    | - Layers between blood and filtrate                                |
+|            |   - Glycocalyx                                                     |
+|            |   - Endothelium                                                    |
+|            |   - Basement membrane (highly negatively charged)                  |
+|            |   - Podocyte foot processes with slit diaphragms                   |
++------------+--------------------------------------------------------------------+
+
+#### Starling hypothesis:
+
++-------------+--------------------------------------------------------------------------------------------------------+
+| Traditional | - Filtration rate governed by balance of hydrostatic and oncotic pressures either side of the membrane |
++-------------+--------------------------------------------------------------------------------------------------------+
+| Revised     | - Subglycocalyceal space (normally protein-free) replaces interstitial space                           |
+|             | - Glycocalyx is a layer of proteoglycans and glycosoaminoglycans                                       |
+|             | - Disrupted by inflammation, ↑mAP, ↑glucose, ANP                                                       |
+|             | - Protected by corticosteroids, antithrombin 3, NAC, volatile anaesthetics                             |
+|             | - (I don’t know the significance of the glycocalyx at the glomerulus)                                  |
++-------------+--------------------------------------------------------------------------------------------------------+
+
+#### Starling forces:
+
++---------------------------------------------------+------------------------------------------------------------------+
+| Starling equation                                 | - GFR = K~f~\[(P~GC~ – P~BC~) – σ(π~GC~ – π~BC~)\]               |
++---------------------------------------------------+------------------------------------------------------------------+
+| Filtration coefficient (K~f~)                     | - = GFR per mmHg filtration pressure                             |
+|                                                   | - ∝ surface area x hydraulic conductivity                        |
+|                                                   | - Very high at glomerulus                                        |
+|                                                   | - ↓ K~f~ → ↓GFR (e.g. nephrectomy → ↓surface area)               |
++---------------------------------------------------+------------------------------------------------------------------+
+| Staverman reflection coefficient (σ)              | - Corrects actual oncotic pressure difference to observed effect |
+|                                                   | - ∝ 1 / (permeability to protein)                                |
+|                                                   | - Usually \~1 at glomerulus, \~0 at liver sinusoid               |
+|                                                   | - ↓ σ → ↑↑GFR (e.g. nephrotic syndrome)                          |
++---------------------------------------------------+------------------------------------------------------------------+
+| Glomerular capillary hydrostatic pressure (P~GC~) | - ↑P~GC~ → ↑GFR (e.g. ↑↑mAP)                                     |
++---------------------------------------------------+------------------------------------------------------------------+
+| Bowman’s space hydrostatic pressure (P~BC~)       | - ↑P~BC~ → ↓GFR (e.g. ureteric obstruction)                      |
++---------------------------------------------------+------------------------------------------------------------------+
+| Plasma oncotic pressure (π~GC~)                   | - ↓ π~Gc~ → ↑GFR (e.g. ↓albumin                                  |
++---------------------------------------------------+------------------------------------------------------------------+
+| Bowman’s space oncotic pressure (π~BC~)           | - ↑π~BC~ → ↑GFR (normally zero)                                  |
++---------------------------------------------------+------------------------------------------------------------------+
+
+#### Starling forces at the renal corpuscle:
+
+          **Afferent arteriolar end**   **Efferent arteriolar end**
+  ------- ----------------------------- -----------------------------
+  P~GC~   60                            58
+  P~BC~   15                            15
+  π~GC~   21                            33
+  π~BC~   0                             0
+  Net     +24                           +10
+
+i.e. predicts net filtration across the length of the capillary
+
+#### Effect of renal arteriolar tone:
+
++------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Afferent         | ![](/content/exams/anzca/2005/B/10/prize-image001.jpg){fig-alt="Glomerular capillary pressure, renal plasma flow and GFR against relative afferent resistance"} |
++------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Efferent         | ![](/content/exams/anzca/2005/B/10/prize-image002.jpg){fig-alt="Glomerular capillary pressure, renal plasma flow and GFR against relative efferent resistance"} |
++------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Hormonal effects | - Angiotensin 2: constrict E\>A → ↑GFP ± GFR                                                                                                                    |
+|                  | - Sympathetic nervous system: constrict E\>A → ↑GFP ± GFR                                                                                                       |
+|                  | - Atrial natriuretic peptide: dilate A&E → ↑GFR                                                                                                                 |
+|                  | - Cortisol: dilate A&E → ↑GFR (?)                                                                                                                               |
++------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+

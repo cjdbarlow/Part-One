@@ -1,0 +1,89 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016A Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the autonomic innervation of the heart and the effects of autonomic stimulation on cardiac function.
+:::
+
+Also asked in: [2010A Question 13](/content/exams/anzca/2010/A/13/index.qmd#examiner-comments), [2018B Question 9](/content/exams/anzca/2018/B/9/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the two systems in parallel, following anatomical pathways to receptors and intracellular events. Link these to nodal, myocardial and coronary effects, and distinguish basal tone and the time course of responses.
+
+::: {.structure-table}
+| Feature | Sympathetic | Parasympathetic |
+|---|---|---|
+| Origin, Pathways and Ganglia | | |
+| Distribution Within the Heart | | |
+| Transmitters, Receptors and Intracellular Events | | |
+| Chronotropy, Dromotropy, Inotropy and Lusitropy | | |
+| Coronary Effects, Basal Tone and Time Course | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**60%** of candidates achieved a pass in this question
+
+Main points expected for both the sympathetic and parasympathetic systems were details of
+
+- anatomy (origin / pathways / ganglia location / distribution of innervation within heart)
+- neurotransmitters / specific receptors / intracellular events following activation
+- effects of each system upon SA node / AV node / ventricular myocardium
+- commenting correctly on chronotropy / dromotropy / inotropy / lusitropy and the effect on coronary vessels.
+
+These details could be well-documented in a table.
+
+Additional marks were gained for comments on basal autonomic tone, intrinsic heart rate, time course of onset and termination of effects, potential for arrhythmias, and for brief descriptions of mechanisms underlying changes in heart rate (discussion of pacemaker potential) and changes in contractility and lusitropy. Suitable diagrams (pacemaker potential, cardiac function curves) correctly showing effects of both systems were also rewarded.
+
+Common errors included incomplete or inaccurate anatomical descriptions, and nonspecific or incorrect discussions of transmitters and receptors. Many candidates were unsure of the meanings of inotropy and chronotropy.
+
+Descriptions of baroreceptors and reflex arcs were not required.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2010/A/13/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2010/A/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Autonomic nervous system](/content/neuro/ans.qmd)

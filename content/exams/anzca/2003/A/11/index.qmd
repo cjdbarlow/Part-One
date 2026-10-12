@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003A Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Define**]{.task-verb} the “thermoneutral zone”. Briefly [**explain**]{.task-verb} how the body regulates temperature when the ambient temperature exceeds thermoneutral zone.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Define**]{.task-verb} **Thermoneutral Zone**, then briefly [**explain**]{.task-verb} **Neural Control**, **Physical Heat Loss**, **Sweating**, and **Behavioural Responses** above that zone. Relate ambient temperature and humidity to the available heat-loss mechanisms.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**38%** of candidates passed this question.
+
+A satisfactory answer would have included the following points:
+
+- Definition of the thermoneutral zone (TNZ) including some reference to oxygen consumption at rest being minimal. Also acceptable was the recognition that body temperature is able to be maintained by changes in skin blood flow alone. Normal values for adults (22 – 28°C) and neonates (32 – 34°C) were required.
+- A brief mention of the neural mechanisms involved.
+- Mention of the means for losing heat; ie, conduction, convection and radiation with emphasis on the paramount importance of sweating in the absence of a thermal gradient.
+- A brief mention on the role of behavioural responses (seeking a cooler environment, removing clothing and increasing fluid intake).
+
+Information that was rewarded with additional marks included:
+
+- A well labelled graph.
+- Relationship of TNZ to body surface area and age.
+- Relative importance (in percentage terms) of the modalities of heat loss as the ambient temperature climbs.
+- Rates of sweating that can be achieved.
+- The effect of humidity on sweating.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Body Temperature](/content/metabolic/temperature.qmd)

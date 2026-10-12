@@ -1,0 +1,44 @@
+#### List:
+
+- Intro: excitation and contraction
+- Frank-Starling mechanism
+
+#### Intro: excitation-contraction coupling
+
++-------------+------------------------------------------------------------------------+
+| Excitation  | - Spontaneous depolarization to threshold potential in pacemaker cells |
+|             | - Action potential spreads across myocardium                           |
+|             | - Depolarisation of sarcolemma and T-tubules                           |
+|             | - Activation of T-tubular L-Ca^2+^                                     |
+|             | - Ca^2+^-triggered Ca^2+^ release from ryanodine Ca^2+^ channels       |
++-------------+------------------------------------------------------------------------+
+| Contraction | - Ca^2+^ binds TnC, causes tropomyosin to expose actin                 |
+|             | - Actin-myosin-cross-bridge cycling occurs                             |
+|             | - Actin and myosin slide past each other                               |
+|             | - Muscle shortens                                                      |
++-------------+------------------------------------------------------------------------+
+
+#### Frank-Starling mechanism:
+
++--------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Definition               | - Cellular: relationship between end-diastolic sarcomere length and force of contraction                                                                         |
+|                          | - Global: relationship between LVEDP and stroke volume                                                                                                           |
++--------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Significance             | - Allow beat-to-beat matching of venous return and cardiac output                                                                                                |
+|                          | - i.e. heterometric autoregulation                                                                                                                               |
++--------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Mechanism                | - Intrinsic property of the heart; independent of ICF \[Ca^2+^\] or \[cAMP\]                                                                                     |
+|                          | - Usual sarcomere length: 1.8 μm                                                                                                                                 |
+|                          | - Optimal sarcomere length: 2.2 μm → ideal balance between:                                                                                                      |
+|                          |   - ↓Length → ↑actin-myosin overlap                                                                                                                              |
+|                          |   - ↑Length → ↑TnC affinity for Ca^2+^ → ↑actin exposure by tropomyosin                                                                                          |
++--------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Graphical representation | - X axis: initial sarcomere length or LVEDV/LVEDP                                                                                                                |
+|                          | - Y axis: force of contraction or SV                                                                                                                             |
+|                          | - Position on curve is dependent upon venous return                                                                                                              |
+|                          | - Curve shifted upward if                                                                                                                                        |
+|                          |   - ↑contractility                                                                                                                                               |
+|                          |   - ↓afterload                                                                                                                                                   |
+|                          |                                                                                                                                                                  |
+|                          | ![](/content/exams/anzca/2009/A/13/prize-image001.jpg){fig-alt="Stroke volume against left ventricular end-diastolic pressure showing increasing venous return"} |
++--------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+

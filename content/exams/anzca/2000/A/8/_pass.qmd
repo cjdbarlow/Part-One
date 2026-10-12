@@ -1,0 +1,33 @@
+**Haemoglobin**
+
+Haemoglobin serve a primary function in the transport of O2 and CO2 and acid base balance. 
+
+They have no nucleus or mitochondria and are biconcave disc shape.  
+
+Haemoglobin comprises 4 subunits , each having one polypeptide chain and one heme group
+
+- Polypeptide chains - globin, in audits primarily 2 alpha, 2 beta
+- Haem groups with contain a porphyrin ring with central Iron (Fe2+)
+
+**Haemoglobin Metabolism:**
+
+Haemoglobin have a life span of approx. 120 days. They are broken down through:
+
+- Loss of flexibility (age related) in small capillaries of the Reticuloendothelial system where they phagocytosed in the spleen (major mechanism), liver, and bone marrow 
+- Haemolysis (approx. 10%) in circulation 
+
+Haemoglobin is broken down (lysis) into its constant parts 
+
+- Globin: Degraded by proteases → amino acids → maybe recycled into new protein production
+- Heme broken down by Haemoxygenase to Iron Fe2+ and Biliverdin 
+- Iron: Fe2+ bound with apoferritin → Ferritin → for transported for storage or formation of new Hb
+- Biliverdin:
+  - biliverdin → reduced to unconjugated bilirubin (biliverdin reductase) → transported bound to albumin to the liver 
+- Bilirubin conjugated in the liver to conjugated bilirubin → water soluble → secreted in bile to the  GIT
+  - In GIT bacteria metabolise Bilirubin to Urobilinogen which may then 
+
+> → 18% undergo enterohepatic circulation and be reabsorbed and re excreted in bile
+>
+> → 80% undergo further metabolism by GIT bacteria to stercobilinogen → excretion in faeces
+>
+> → 2% undergoes enterohepatic recirculation and urinary excretion, where it is oxidised to **urobilin**

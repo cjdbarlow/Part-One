@@ -1,0 +1,85 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006B Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Compare and contrast**]{.task-verb} the physiological effects of a six hour fast of fluids and food with a twenty four hour fast in a healthy adult.
+:::
+
+Also asked in: [2014A Question 14](/content/exams/anzca/2014/A/14/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Compare and contrast**]{.task-verb} the two durations in a table, covering both energy substrates and fluid balance in a healthy adult.
+
+::: {.structure-table}
+| Feature | Six Hours | Twenty-Four Hours |
+|---|---|---|
+| Energy Substrates | | |
+| Hormonal Profile | | |
+| Liver Metabolism | | |
+| Adipose Tissue and Skeletal Muscle | | |
+| Fluid Balance | | |
+| Renal Responses | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**33 %** of candidates passed this question.
+
+To pass this question, candidates were expected to appreciate that a six hour fast occurs daily and is thus well tolerated whilst a twenty four hour fast involves a significant mobilisation of reserves. In doing this, a comparison of the likely water and caloric requirements for each period, with some mention as to the origin of these calories, was required. An appreciation of the total fuel reserves available in a healthy adult, along with recognition of the thirst, hunger, lethargy and other physiological consequences of a twenty four hour fast would round out an acceptable answer.
+
+Additional marks were awarded to those candidates who were able to more fully quantify the use of reserves during a short and a longer fast and were able to briefly indicate the pathways the body utilises for glucose and ketone production.
+
+Few candidates appreciated that the liver is central in the adaptive process whereby the blood sugar level is maintained by the conversion of fat and amino acids to glucose.
+
+The most frequent reasons for not obtaining a pass mark were; the absence of enough information to indicate that the key principals were understood, and failing to mention the actual reserves of energy in the body. Very few candidates mentioned that a twenty four hour fast would render the patient hungry, thirsty and lethargic. Many candidates incorrectly used the words glucagon and glycogen interchangeably.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2006/B/14/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2006/B/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Starvation](/content/metabolic/starvation.qmd)
+- [Carbohydrate metabolism](/content/metabolic/carbohydrate.qmd)
+- [Sodium and water](/content/renal/sodium.qmd)

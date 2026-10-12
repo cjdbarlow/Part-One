@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016A Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the pharmacology of agents used in the acute management of hypertension in pregnancy.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} relevant agents through mechanism, dose, onset and duration, and maternal and foetal effects. Keep acute treatment distinct from chronic therapy and distinguish antihypertensive use from other roles of accompanying drugs.
+
+::: {.structure-headings}
+### Labetalol
+
+### Hydralazine
+
+### Nifedipine
+
+### Magnesium and Its Specific Role
+
+### Anaesthetic Context and Unsuitable Agents
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**22%** of candidates achieved a pass in this question
+
+This question was answered poorly. The commonest problem was devoting the bulk of discussion towards drugs used for the chronic treatment of hypertension in pregnancy. Discussion of the pharmacology of methyldopa and clonidine did not attract marks. Definitions and comments about the pathophysiology of hypertension in pregnancy also did not attract marks. Many candidates discussed agents that are not appropriate for the management of acute hypertension in pregnancy like GTN, sodium nitroprusside and diuretics. Marks were awarded, however, for details why these were unsuitable for use in pregnancy. To pass candidates needed to outline the pharmacology of labetalol, hydralazine, nifedipine and magnesium in sufficient detail. Many candidates just gave detailed descriptions of these drugs’ mechanism of action without consideration of dose, latency, duration of action or maternal and foetal adverse effects. Additional marks were awarded for comments regarding the use of appropriate agents to obtund the pressor response to intubation in the event of operative delivery under general anaesthesia. A mark was given for noting that epidural analgesia has a role in blood pressure management. Recurring errors documented by candidates included: advocating the use of oral magnesium therapy in the acute management of pre-eclampsia; asserting that labetalol doesn’t cross the placenta and that hydralazine had a central site of action. Many candidates failed to appreciate that the role of magnesium is as a prophylactic anticonvulsant for severe pre-eclampsia and not as an antihypertensive agent. Pleasingly, most candidates were aware that ACE inhibitors and angiotensin receptor antagonists are contraindicated in pregnancy.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2016/A/8/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2016/A/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Beta blockers](/content/pharmacopoeia/cvs/beta_blockers.qmd)
+- [Direct vasodilators](/content/pharmacopoeia/cvs/direct_vasodilators.qmd)
+- [Calcium channel blockers](/content/pharmacopoeia/cvs/calcium_channel_blockers.qmd)
+- [Magnesium](/content/pharmacopoeia/cvs/magnesium.qmd)

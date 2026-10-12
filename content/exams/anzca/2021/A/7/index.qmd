@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2021A Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the anatomy of the neonatal airway, and [**what implications**]{.task-verb} this has for airway management.
+:::
+
+Also asked in: [2016A Question 3](/content/exams/anzca/2016/A/3/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} each anatomical difference and show [**what**]{.task-verb} its implication for airway management is. Use paired columns, specific neonatal dimensions and relevant positioning or instrumentation consequences.
+
+::: {.structure-table}
+| Anatomical Feature | Airway Management Implication |
+|---|---|
+| Occiput and Head | |
+| Tongue and Upper Airway | |
+| Epiglottis and Laryngeal Position | |
+| Tracheal Dimensions and Tube Position | |
+| Pliability and External Manipulation | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**70.1%** of candidates achieved a pass in this question
+
+The question incorporated two parts - description of the neonatal airway and implications of the mentioned features on airway management. This was concisely and effectively communicated by a two or three column table.
+
+Important points to address were the size and shape of the occiput, the relative size of the tongue to the oral cavity, a description of the epiglottis, the position of the larynx and a description of the shape and relative size of the larynx and cricoid. With relatively few facts being required to pass the question it was important to use precise language in the description of each feature
+
+Common errors included the use of imprecise or vague descriptions of anatomical features or failing to describe the implication of each feature on airway management. Descriptions of airway features of the neonate which were self-evident (for example, the airway is small), without explanation of the implication, failed to attract marks.
+
+Many candidates provided lengthy descriptions of features of the neonatal cardiorespiratory system which were not related to the airway. No marks were awarded for this information.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2016/A/3/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2016/A/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Airway anatomy](/content/resp/airway_anatomy.qmd)
+- [Paediatric respiratory physiology](/content/resp/paeds_respiratory.qmd)

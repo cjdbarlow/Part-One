@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2020A Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the mechanisms that facilitate oxygen and carbon dioxide exchange in the placenta.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} diffusion across the placental barrier using Fick’s relationship, relevant vessel partial pressures and blood flow. Explain how maternal and fetal adaptations and the double Bohr and Haldane effects support the gradients, using labelled curves.
+
+::: {.structure-headings}
+### Placental Barrier and Diffusion
+
+### Maternal and Fetal Partial Pressure Gradients
+
+### Maternal and Fetal Adaptations
+
+### Double Bohr Effect
+
+### Double Haldane Effect and Blood Flow
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The domains covered were transfer of oxygen and carbon dioxide, diffusion, and other factors.
+
+Main points expected were: description of how gases diffuse across the placenta with relevance to Fick’s Law and in comparison to the lung, quantification of partial pressure differences for oxygen & carbon dioxide between the vessels involved, and definitions with explanations for the Bohr & Haldane effects applied to the placental barrier. Graphical demonstrations could show the effect of these mechanisms on diffusion gradients.
+
+Additional credit was awarded for explaining the mechanism & significance of the Bohr & Haldane effects, understanding other factors which alter the partial pressure gradients, maternal changes by trimester and the effects of blood flow on diffusion.
+
+Common errors included: misconception that the gradient for oxygen transfer was derived from the uterine artery PO2, attributing the Bohr effect solely to CO2 binding to Hb, and quoted values for uterine & umbilical vessel gas partial pressures were frequently inaccurate as were graphs, and there seemed to be many “typos” e.g. writing O2 when CO2 was correct or umbilical instead of uterine.
+
+A good source for this material is Nunn’s Respiratory Physiology and any of the general medical physiology recommended texts.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2020/A/5/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Placenta](/content/obs/placenta.qmd)

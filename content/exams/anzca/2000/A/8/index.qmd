@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000A Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the breakdown of haemoglobin after red cell lysis.
+:::
+
+Also asked in: [2013B Question 6](/content/exams/anzca/2013/B/6/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} the pathway from red cell lysis to recycling or excretion, separating the fates of globin, iron and haem.
+
+::: {.structure-headings}
+### Haemoglobin Structure and Sites of Breakdown
+
+### Globin and Iron Recycling
+
+### Haem to Bilirubin
+
+### Hepatic Conjugation and Biliary Excretion
+
+### Enterohepatic Circulation and Final Excretion
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Overall this question was done poorly, with only **17%** passing. Another 20% were close to passing but there were no excellent answers. The main points expected were a discussion of the structure of haemoglobin and the fate of all three of its constituents ie; iron, haem and globin. Details about haemoglobin's survival time and the mechanisms of breakdown of the constituents were required, as well as the relevant transport proteins, and enzymes involved in key reactions. Some comments about the fate of bilirubin should also have been included, such as its secretion into bile, and its enterohepatic circulation. A common misconception was that globin is directly reincorporated into haemoglobin. In addition, the enterohepatic circulation was often incorrectly described. However, the main error was failure to discuss all three of haemoglobin's constituents, or to describe the breakdown processes in sufficient detail.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2000/A/8/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2000/A/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Erythrocytes](/content/haeme/erythrocytes.qmd)
+- [Iron](/content/haeme/iron.qmd)
+- [Bile](/content/git/bile.qmd)

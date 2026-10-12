@@ -1,0 +1,81 @@
+#### List:
+
+- Receptor – ion permeability
+- Receptor – second messenger
+- Receptor – gene transcription
+- Other: physicochemical, enzyme inhibition, voltage-gated ion channel
+
+#### Receptor → ↑↓ ion permeability:
+
++-----------------------+----------------------------------------+
+| Pentameric            | e.g. sevoflurane at GABA-A receptor    |
+|                       |                                        |
+|                       | - Binds receptor beta subunit          |
+|                       | - ↑Cl^-^ conductance through ionophore |
+|                       | - Hyperpolarisation                    |
+|                       | - ↓action potential                    |
++-----------------------+----------------------------------------+
+| Ionotropic glutamate  | e.g. ketamine at NMDA receptor         |
+|                       |                                        |
+|                       | - Binds PCP site                       |
+|                       | - ↓Ca^2+^\>Na^+^=K^+^ conductance      |
+|                       | - ↓ICF \[Ca^2+^\] → ↓action potential  |
++-----------------------+----------------------------------------+
+| Ionotropic purinergic | e.g. ATP at P2X, P2Y                   |
+|                       |                                        |
+|                       | - Binds receptors                      |
+|                       | - ↑Na^+^ = K^+^ \> Ca^2+^ conductance  |
++-----------------------+----------------------------------------+
+
+#### Receptor → second messenger:
+
++----------------------------+----------------------------------------------------------------------------------+
+| G protein-coupled receptor | e.g. adrenaline agonist at β~1~ adrenoceptor, a G~s~ GPCR                        |
+|                            |                                                                                  |
+|                            | - Binds ECF domain                                                               |
+|                            | - Conformational change                                                          |
+|                            | - GTP displaces GDP; α-GTP dissociates from βγ dimer                             |
+|                            | - α-GTP activates adenylyl cyclase → ↑cAMP → ↑activity PKA → Phosphorylation of: |
+|                            |   - L-Ca^2+^: ↑Ca^2+^ influx on excitation                                       |
+|                            |   - Myosin → ↑rate of cycling                                                    |
+|                            |   - Troponin I and phospholamban→ ↑rate of relaxation                            |
+|                            |                                                                                  |
+|                            | \*Note G inhibitory (↓cAMP) and Gq (↑IP~3~, DAG), others exist                   |
++----------------------------+----------------------------------------------------------------------------------+
+| Receptor tyrosine kinase   | e.g. insulin agonist at insulin receptor                                         |
+|                            |                                                                                  |
+|                            | - Binds ECF α-subunits                                                           |
+|                            | - ICF β-subunits autophosphorylate                                               |
+|                            | - Activation of tyrosine kinase activity                                         |
+|                            | - ↑PI3K activity (e.g. ↑GLUT4 expression)                                        |
+|                            | - ↑MAPK activity (growth)                                                        |
++----------------------------+----------------------------------------------------------------------------------+
+
+#### Receptor → ↑↓Gene transcription: 
+
++----------------------+--------------------------------------------+
+| Transcription factor | e.g. thyroxine at thyroid hormone receptor |
+|                      |                                            |
+|                      | - Unbound receptor in cytosol              |
+|                      | - Bound receptor migrates to nucleus       |
+|                      | - ↑↓gene transcription                     |
++----------------------+--------------------------------------------+
+
+#### Other:
+
++--------------------------------------+-----------------------------------------------------------------------------------+
+| Voltage-gated ion channel inhibition | - e.g. lignocaine at VDNaC                                                        |
+|                                      | - ↓Action potential formation                                                     |
++--------------------------------------+-----------------------------------------------------------------------------------+
+| Enzyme inhibition                    | - Reversible: e.g. neostigmine + AChE → carbamylate ester                         |
+|                                      | - Irreversible: e.g. organophosphate + AChE → phosphorylated ester                |
++--------------------------------------+-----------------------------------------------------------------------------------+
+| Physicochemical                      | - Alter pH: e.g. sodibic for GORD                                                 |
+|                                      | - Chelation: e.g. g-cyclodextrin + rocuronium                                     |
+|                                      | - Osmosis: lactulose → stool softening                                            |
+|                                      | - ?Charge neutralization: heparin (negative) + protamine (positive) → stable salt |
++--------------------------------------+-----------------------------------------------------------------------------------+
+| Structural analogy                   | - e.g. azathioprine for purine                                                    |
++--------------------------------------+-----------------------------------------------------------------------------------+
+| Antibody-antigen                     | - e.g. imatinib for BCR-ABL in chronic myeloid leukaemia                          |
++--------------------------------------+-----------------------------------------------------------------------------------+

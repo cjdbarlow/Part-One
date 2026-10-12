@@ -1,0 +1,67 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999B Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+Using opioids as an example [**describe**]{.task-verb} and [**illustrate**]{.task-verb} with graphs what you understand by the terms "potency", "efficacy", "partial agonist", "competitive antagonist", and "therapeutic index".
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} and [**illustrate**]{.task-verb} with graphs **Potency**, **Efficacy**, **Partial Agonist**, **Competitive Antagonist**, and **Therapeutic Index**. Use an opioid example for each concept and [**label**]{.task-verb} the axes and relevant comparisons.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**77%** of candidates passed this question. This question was a challenge to provide a meticulous and systematic explanation of five basic pharmacological concepts. To gain a pass it was expected that a description would be provided for every part of the question.
+
+Attention to the phrasing of the question was neglected by candidates who performed poorly. Examples of other substances were not relevant and were ignored during the examiner’s assessment. A graphical illustration of each concept was considered essential. Each of the terms is in common use and well described in any of the standard references.
+
+This question was a straight forward memory exercise that enabled well organised candidates to achieve high marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Dose-Response Curves](/content/pharmacology/dose_response.qmd)
+- [Receptor Theory](/content/pharmacology/receptor_theory.qmd)

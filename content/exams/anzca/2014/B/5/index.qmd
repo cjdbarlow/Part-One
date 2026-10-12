@@ -1,0 +1,75 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014B Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the physiology of the pain pathways and how drugs may modulate the perception of pain.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the pathway anatomically, linking the physiology at each site to how drugs alter transmission or perception.
+
+::: {.structure-table}
+| Site | Physiology | Drug Action |
+|---|---|---|
+| Peripheral Receptors and Transduction | | |
+| Primary Afferents | | |
+| Dorsal Horn and Ascending Tracts | | |
+| Central Perception | | |
+| Descending Modulation | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**50 %** of candidates achieved a pass in this question
+
+Better answers were based upon an anatomical approach. More complete answers had a definition of pain, location and stimuli of peripheral receptors, pain fibres (A delta and C fibres), cord pathways (including dorsal horn lamina, neo and paleospinothalamic tracts), central perception, descending pathways, and the modulation by drugs at each of these points. More detail gained extra marks. Diagrams, although useful, often resulted in a lack of detail, for example labelling C and A delta fibres without providing additional information, or repeating what was already written down. When discussing modulation by drugs, a mechanism of action was expected, not just the class or name of the drug. The use of the word ‘etc’ did not attract marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2014/B/5/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2014/B/5/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Pain pathways](/content/neuro/pain.qmd)
+- [Opioid receptors and effects](/content/pharmacopoeia/analgesics/opioidspharm.qmd)

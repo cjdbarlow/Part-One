@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003B Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the difference between perfusion limitation and diffusion limitation in the transfer of gas between alveolus and pulmonary capillary. [**Outline**]{.task-verb} the factors that determine whether gas transfer is perfusion or diffusion limited.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} both terms using a graph of capillary gas partial pressure during transit. [**Outline**]{.task-verb} the factors governing equilibration, linking Fick’s law, blood uptake capacity and transit time to relevant gases.
+
+::: {.structure-headings}
+### Definitions and Capillary Equilibration
+
+### Fick’s Law and Diffusing Capacity
+
+### Blood Uptake and Transit Time
+
+### Examples in Health, Exercise, Altitude and Disease
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**45%** of candidates passed this question.
+
+The main points expected were a definition and explanation of both perfusion limitation and diffusion limitation, as well as a description of the factors included in Fick's law of diffusion. It was expected that candidates would provide some indication that diffusion limitation implies that that equilibration of gas between alveolus and pulmonary capillary is incomplete. The factors affecting whether a gas is perfusion or diffusion limited include the solubility of the gas, its partial pressure gradient, and the transit time of blood through alveoli. It was expected that examples would be given, and that carbon dioxide and oxygen transfer would be correctly categorised.
+
+Additional marks were given for explaining the significance of the binding of the gas to haemoglobin, and for discussing the effects of increased cardiac output and increased altitude on the transfer of oxygen. A graph comparing the changes in red blood cell partial pressures of carbon dioxide and oxygen during its transit through the pulmonary capillary attracted extra marks. Marks were given also for commenting on the transfer of carbon monoxide, and for explaining that this is used to measure gas transfer.
+
+Many candidates failed to provide definitions for perfusion and diffusion limitation, or provided incorrect or opposite definitions. Others incorrectly categorised carbon dioxide and oxygen. Many candidates commented on nitrous oxide or carbon monoxide transfer, without discussing carbon dioxide or oxygen. Others failed to mention the factors included in Fick's law, thereby reducing the total marks possible.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2003/B/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Gas diffusion](/content/resp/diffusion_capacity.qmd)

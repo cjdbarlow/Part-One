@@ -1,0 +1,156 @@
+#### List:
+
+- Intro and importance
+- Hyperventilation: sensor, integrator, effector
+- Hypoxic pulmonary vasoconstriction
+- Sympathetic outflow
+
+#### Intro: hypoxaemia
+
++------------------------------------+-----------------------------------------------------------------+
+| Definition                         | - PaO~2~ \< 60mmHg                                              |
++------------------------------------+-----------------------------------------------------------------+
+| Responses                          | - Increased alveolar ventilation → ↑PaO~2~                      |
+|                                    | - Hypoxic pulmonary vasoconstriction                            |
+|                                    |   - Improved V/Q matching → ↑PaO~2~                             |
+|                                    |   - ↑PVR                                                        |
+|                                    | - ↑SNS output → ↑cardiac output → DO~2~                         |
++------------------------------------+-----------------------------------------------------------------+
+| Effect of anaesthesia on responses | - Suppression of all responses                                  |
+|                                    | - Dose-dependent effects                                        |
++------------------------------------+-----------------------------------------------------------------+
+| High risk if:                      | - Alone (e.g. post-op ward at night)                            |
+|                                    | - CO~2~-insensate (e.g. severe COPD, OSA, OHS)                  |
+|                                    | - Sensitive to resp depression (e.g. elderly, neonate)          |
+|                                    | - Respiratory depressant drugs (e.g. morphine)                  |
+|                                    | - Sedated (e.g. midazolam)                                      |
+|                                    | - Synergistic respiratory depressant drugs (e.g. benzo+ opioid) |
++------------------------------------+-----------------------------------------------------------------+
+
+#### Alveolar hyperventilation:
+
+*Sensor:*
+
++-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Structure             | - Peripheral chemoreceptors                                                                                                                              |
+|                       |   - Carotid bodies (CNIX Hering’s nerve)                                                                                                                 |
+|                       |   - Aortic bodies (CNX)                                                                                                                                  |
+|                       | - Type 1 glomus cell: responsive to ↓pO~2~, ↑pCO~2~, (↓pH carotids only)                                                                                 |
+|                       | - Type 2 sustentacular cell: support                                                                                                                     |
+|                       | - Blood flow 2000mL/min/100g → supply by dissolved O~2~ only                                                                                             |
++-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Function              | - ↓ PaO~2~ → closure of K^+^ channel → depolarisation → ↑afferent to resp centre                                                                         |
+|                       | - Response is minimal until PaO~2~ \<100mmHg, profound \<50mmHg                                                                                          |
+|                       | - Response is rapid, \<1 second                                                                                                                          |
+|                       |                                                                                                                                                          |
+|                       | ![](/content/exams/anzca/2018/A/11/prize-image001.jpg){fig-alt="Ventilation against arterial oxygen tension showing the hypoxic ventilatory response"}   |
++-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Effect of anaesthesia | - Volatiles:                                                                                                                                             |
+|                       |   - ↓Chemoreceptor afferents is the most important resp effect                                                                                           |
+|                       |   - 1 MAC: ablated response                                                                                                                              |
+|                       |   - 0.1 MAC: significant depression of response                                                                                                          |
+|                       |   - Hence need for O~2~ supplementation post-op for safety                                                                                               |
+|                       |                                                                                                                                                          |
+|                       |               ![](/content/exams/anzca/2018/A/11/prize-image002.jpg){fig-alt="Depression of the hypoxic ventilatory response with volatile anaesthesia"} |
+|                       |                                                                                                                                                          |
+|                       | - Propofol:                                                                                                                                              |
+|                       |   - ↓Chemoreceptor afferents                                                                                                                             |
+|                       |   - Less potent than volatiles                                                                                                                           |
++-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+*Controller:*
+
++-----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Structure             | - Respiratory centre, medulla                                                                                                                                                   |
+|                       | - Multiple cell types: dorsal inspiratory, ventral expiratory, pre-Botzinger pacemakers                                                                                         |
+|                       | - Afferents via nucleus tractus solitarius                                                                                                                                      |
+|                       | - Efferents via nucleus ambiguus and dorsal motor nucleus of CNX                                                                                                                |
++-----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Function              | - ↑Stimulation → ↑amplitude and frequency of neuronal output to effectors                                                                                                       |
+|                       | - ↓PaO~2~ is synergistic with ↑PaCO~2~ and ↓pH                                                                                                                                  |
+|                       |                                                                                                                                                                                 |
+|                       | ![](/content/exams/anzca/2018/A/11/prize-image003.jpg){fig-alt="Minute ventilation against alveolar oxygen tension at increased, normal and decreased arterial carbon dioxide"} |
++-----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Effect of anaesthesia | - Suppression:                                                                                                                                                                  |
+|                       |   - General anaesthesia (↑GABA/glycine activity)                                                                                                                                |
+|                       |   - Opioids (μ receptor agonist in resp centre – most important opioid effect)                                                                                                  |
+|                       |   - Neuraxial: ↓input to reticular activating system → ↓conscious state, ↓resp centre output                                                                                    |
+|                       | - Stimulation:                                                                                                                                                                  |
+|                       |   - Pain → ↑input to reticular activating system → ↑resp centre output                                                                                                          |
++-----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+*Effector:*
+
++-----------------------+------------------------------------------------------------------------------+
+| Muscles               | - Primary inspiratory: diaphragm, external intercostals, pharyngeal dilators |
+|                       | - Accessory inspiratory: e.g. sternocleidomastoid                            |
+|                       | - Expiratory: e.g. internal intercostals, abdominals (normally inactive)     |
++-----------------------+------------------------------------------------------------------------------+
+| Function              | - ↑Respiratory centre output → ↑RR, V~T~ → ↑V~A~ → ↑PaO~2~                   |
+|                       | - Completion of negative feedback loop                                       |
++-----------------------+------------------------------------------------------------------------------+
+| Effect of anaesthesia | - Volatile:                                                                  |
+|                       |   - Skeletal muscle relaxation (inhibit nAChR)                               |
+|                       |   - Inhibit a-motor neuron (↑GABA/↑glycine)                                  |
+|                       |   - Affects intercostals \> diaphragm                                        |
+|                       | - Propofol:                                                                  |
+|                       |   - As for volatiles                                                         |
+|                       |   - But less potent: ↓glycine activity, ↓spinal cord effect                  |
+|                       | - Benzodiazepines:                                                           |
+|                       |   - Skeletal muscle relaxation                                               |
+|                       | - Neuraxial:                                                                 |
+|                       |   - Inhibit α-motor neuron (intercostals)                                    |
+|                       |   - No effect on diaphragm unless C-spine level                              |
+|                       | - Paralysis:                                                                 |
+|                       |   - No effector response                                                     |
+|                       | - Position:                                                                  |
+|                       |   - Supine, Trendelenburg → ↑work of breathing → impaired effector           |
+|                       | - Apparatus dead space (tubing distal to Y piece):                           |
+|                       |   - ↓V~A~ for a given MV                                                     |
++-----------------------+------------------------------------------------------------------------------+
+
+#### Hypoxic pulmonary vasoconstriction:
+
++-----------------------+-----------------------------------------------------------------------------------------------------------------------+
+| Aim                   | - Match ventilation with perfusion, ↑PaO~2~                                                                           |
++-----------------------+-----------------------------------------------------------------------------------------------------------------------+
+| Mechanism             | - Vasoconstriction ∝ 1 / (PAO~2~^0.6^ x PvO~2~^0.4^)                                                                  |
++-----------------------+-----------------------------------------------------------------------------------------------------------------------+
+| Biphasic response     | - Phase 1: onset immediate, plateau 5 mins                                                                            |
+|                       |   - ? Inhibition of K^+^ channel                                                                                      |
+|                       |   - ? ↓mitochondrial ROS                                                                                              |
+|                       |   - ? ↓ATP:ADP                                                                                                        |
+|                       | - Phase 2: onset 40 minutes, plateau 2 hours                                                                          |
+|                       |   - ? ↑↓COX, LOX production                                                                                           |
+|                       |   - ? ↑hypoxia-inducible transcription                                                                                |
+|                       |                                                                                                                       |
+|                       | ![](/content/exams/anzca/2018/A/11/prize-image004.jpg){fig-alt="Alveolar blood flow against alveolar oxygen tension"} |
++-----------------------+-----------------------------------------------------------------------------------------------------------------------+
+| Effect of anaesthesia | - Volatile:                                                                                                           |
+|                       |   - Inhibit L-Ca^2+^ channel, ↑NO release, ↓medulla SNS output                                                        |
+|                       |   - Generalised vasodilatation including pulmonary                                                                    |
+|                       | - Propofol:                                                                                                           |
+|                       |   - Similar mechanisms                                                                                                |
+|                       |   - Less potent, preferred in one lung ventilation                                                                    |
++-----------------------+-----------------------------------------------------------------------------------------------------------------------+
+
+#### Sympathetic response:
+
++-----------------------+---------------------------------------------------------------------------------+
+| Stimulus              | - ↓PaO~2~ \<50mmHg → CNS acidosis                                               |
++-----------------------+---------------------------------------------------------------------------------+
+| Response              | - ↑SNS output                                                                   |
+|                       | - ↑HR, ↑contractility, venoconstriction → ↑preload                              |
+|                       | - ↑Cardiac output → ↑O~2~ delivery                                              |
+|                       | - No change to PaO~2~                                                           |
++-----------------------+---------------------------------------------------------------------------------+
+| Effect of anaesthesia | - Volatiles, propofol:                                                          |
+|                       |   - ↓SNS output from medulla (↑GABA, glycine activity)                          |
+|                       |   - Inhibit L-Ca^2+^ on heart, blood vessels                                    |
+|                       |   - ↑Nitric oxide release                                                       |
+|                       |   - Dose-dependent suppression of baroreceptor response (propofol \> volatiles) |
+|                       | - Opioids, benzodiazepines:                                                     |
+|                       |   - ↓SNS output                                                                 |
+|                       | - Neuraxial:                                                                    |
+|                       |   - ↓SNS output below block upper limit                                         |
++-----------------------+---------------------------------------------------------------------------------+

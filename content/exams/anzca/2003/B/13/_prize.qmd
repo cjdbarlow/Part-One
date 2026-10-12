@@ -1,0 +1,93 @@
+#### List:
+
+- Intro
+- Factors ↑lower airway resistance
+- Factors ↑upper airway resistance
+
+#### Intro: 
+
++--------------------------+---------------------------------------------------------------------------------------------------------------+
+| Ohm’s law                | - Resistance (cmH~2~O/L/s) = (mouth pressure – alveolar pressure) (cmH~2~O) / air flow rate (L/s)             |
+|                          | - Air flow rate = mouth pressure – alveolar pressure / airway resistance                                      |
++--------------------------+---------------------------------------------------------------------------------------------------------------+
+| Normal airway resistance | - Adult 2cmH~2~O/L/s                                                                                          |
+|                          | - Neonate 48 hours: 25cmH~2~O/L/s                                                                             |
+|                          | - Highest at generation \~4                                                                                   |
+|                          | - Small airways: “silent zone”                                                                                |
+|                          |                                                                                                               |
+|                          | ![](/content/exams/anzca/2003/B/13/prize-image001.jpg){fig-alt="Airway resistance against airway generation"} |
++--------------------------+---------------------------------------------------------------------------------------------------------------+
+| Reynolds number          | - Re = diameter x velocity x density / viscosity                                                              |
+|                          | - Dimensionless index                                                                                         |
+|                          | - Ratio of inertial forces to viscous forces                                                                  |
+|                          | - \<2000 likely laminar flow                                                                                  |
+|                          | - \>2000 likely turbulent flow                                                                                |
+|                          | - Factors ↑likelihood of turbulent flow: ↑diameter, ↑velocity, ↑density, ↓viscosity                           |
++--------------------------+---------------------------------------------------------------------------------------------------------------+
+| Laminar flow             | - Smooth flow in concentric rings. Fast at centre, slow at periphery.                                         |
+|                          | - Likely in small airways                                                                                     |
+|                          | - R = (8 x length x viscosity) / (π x radius^4^)                                                              |
+|                          | - (P~1~-P~2~) ∝ Q                                                                                             |
++--------------------------+---------------------------------------------------------------------------------------------------------------+
+| Turbulent flow           | - Chaotic flow                                                                                                |
+|                          | - Likely in large airways                                                                                     |
+|                          | - (P~1~-P~2~) ∝ (length x density) / radius^5^                                                                |
+|                          | - (P~1~-P~2~) ∝ Q^2^ i.e. higher R for a given Q                                                              |
++--------------------------+---------------------------------------------------------------------------------------------------------------+
+| Transitional flow        | - Likely in middle sized airways                                                                              |
++--------------------------+---------------------------------------------------------------------------------------------------------------+
+
+#### Factors ↑lower airway resistance:
+
++------------+---------------------------------------------------------------------------------------------------------+
+| ↓Radius    | - ↓ Absolute lung size                                                                                  |
+|            |   - Neonate 25cmH~2~O/L/s \> Adult 2cmH~2~O/L/s                                                         |
+|            |   - Female \> male                                                                                      |
+|            |   - Shorter \> taller                                                                                   |
+|            +---------------------------------------------------------------------------------------------------------+
+|            | - ↓Relative lung volume                                                                                 |
+|            |   - Pregnant                                                                                            |
+|            |   - Obese                                                                                               |
+|            |   - Supine                                                                                              |
+|            |   - Anaesthetised                                                                                       |
+|            |                                                                                                         |
+|            | ![](/content/exams/anzca/2003/B/13/prize-image002.jpg){fig-alt="Airway resistance against lung volume"} |
+|            +---------------------------------------------------------------------------------------------------------+
+|            | - Intraluminal obstruction:                                                                             |
+|            |   - Mucus, foreign body, tumour                                                                         |
+|            +---------------------------------------------------------------------------------------------------------+
+|            | - Luminal obstruction: bronchoconstriction, swelling                                                    |
+|            |   - SNS: β~2~ → dilate                                                                                  |
+|            |   - PSNS → mAChR → constrict                                                                            |
+|            |   - NANC: VIP → NO dilation                                                                             |
+|            |   - Physical/chemical: smoke, NO~2~ etc - \>constrict                                                   |
+|            |   - Inflammatory: asthma, anaphylaxis → constrict                                                       |
+|            |   - Bronchodilators: β~2~ agonists, antimuscarinics, PDEi, sevoflurane, ketamine                        |
+|            +---------------------------------------------------------------------------------------------------------+
+|            | - Extraluminal obstruction: especially dynamic airways compression (DAC)                                |
+|            |   - Pressure drop between alveolus and mouth due to airway resistance                                   |
+|            |   - At equal pressure point (P~IP~ = P~AW~), unsupported airways collapse → ↓flow rate                  |
+|            |   - (i.e. Starling resistor effect)                                                                     |
+|            |   - Cartilage absent after generation 11                                                                |
+|            | - Causes of DAC:                                                                                        |
+|            |   - Forced expiration                                                                                   |
+|            |   - Low lung volume                                                                                     |
+|            |   - Increased airway resistance → exaggerated pressure drop                                             |
+|            |   - Decreased lung elastic recoil → ↓distending transpulmonary pressure                                 |
++------------+---------------------------------------------------------------------------------------------------------+
+| ↑Density   | - e.g. ↓ with heliox                                                                                    |
++------------+---------------------------------------------------------------------------------------------------------+
+| ↑Viscosity | - e.g. ↓ with ↓ gas temperature                                                                         |
++------------+---------------------------------------------------------------------------------------------------------+
+| ↑Length    | - Not under control                                                                                     |
++------------+---------------------------------------------------------------------------------------------------------+
+
+#### Factors ↑upper airway resistance:
+
++-----------------+--------------------------------------------------+
+| Reduced calibre | - Obesity → OSA                                  |
++-----------------+--------------------------------------------------+
+| Deformity       | - Upper airway tumour, surgery                   |
++-----------------+--------------------------------------------------+
+| Hypotonia       | - Anaesthesia, sleep (REM \> NREM) → ↑resistance |
++-----------------+--------------------------------------------------+

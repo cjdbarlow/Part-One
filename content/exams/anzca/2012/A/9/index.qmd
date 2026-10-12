@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012A Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the role of baroreceptors in the control of systemic arterial pressure
+:::
+
+Also asked in: [2003B Question 10](/content/exams/anzca/2003/B/10/index.qmd#examiner-comments), [2015A Question 6](/content/exams/anzca/2015/A/6/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} baroreceptor control as a negative feedback pathway from stretch to afferent signalling, central integration and effectors. Distinguish high pressure from low pressure receptors and relate their response times to arterial pressure and blood volume control.
+
+::: {.structure-headings}
+### Receptors, Locations and Stimuli
+
+### Afferent Pathways and Central Integration
+
+### Autonomic Cardiac and Vascular Effects
+
+### Low Pressure Receptors and Hormonal Responses
+
+### Response Time, Adaptation and Reflex Testing
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**63%** of candidates passed this question.
+
+Better answers included an accurate description of high and low pressure baroreceptors with accurate anatomical locations of the receptors, an outline of their role as stretch receptors in a negative feedback system designed to maintain systemic arterial pressure, and a concise discussion of the components of the feedback loop, with clear descriptions of the afferent and efferent pathways involved and effector mechanisms.
+
+Poor answers failed to demonstrate an understanding of the integrated nature of the feedback systems involved, omitted expected details of relevant neural pathways, and excluded descriptions of both high and low pressure baroreceptors.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2003/B/10/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2003/B/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Baroreceptors](/content/cvs/baroreceptors.qmd)

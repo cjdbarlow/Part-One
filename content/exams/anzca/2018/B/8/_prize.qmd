@@ -1,0 +1,120 @@
+#### List:
+
+- Salt and water
+- Other electrolytes
+- Metabolism
+- Excretion
+- Erythropoiesis
+
+#### Salt and water:
+
++---------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Overall function          | - Control water content                                                                                                                             |
+|                           | - Control water partitioning (ECF vs ICF)                                                                                                           |
+|                           | - Control osmolality                                                                                                                                |
++---------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Summary of renal handling | - Free glomerular filtration water (180L/day) and electrolytes                                                                                      |
+|                           | - Selective tubular reabsorption                                                                                                                    |
+|                           | - Urine output only \~2L/day and variably concentrated                                                                                              |
++---------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Autoregulation            | - Glomerular filtration rate:                                                                                                                       |
+|                           |   - Constant 125mL/min at mAP 70-170mmHg                                                                                                            |
+|                           |   - Mechanism: ↓stretch → ↓afferent arteriolar constriction                                                                                         |
+|                           | - Glomerulotubular balance:                                                                                                                         |
+|                           |   - Constant fraction of Na^+^/Cl^-^/H~2~O reabsorbed from proximal tubule                                                                          |
+|                           |   - Mechanism: ? ↑glucose and amino acid absorption → ↑osmosis                                                                                      |
+|                           | - Tubuloglomerular feedback:                                                                                                                        |
+|                           |   - ↓NaCl load to macula densa → afferent arteriolar dilation → ↑GFR                                                                                |
+|                           |   - Mechanism: ↑PGE~2~, ↓adenosine                                                                                                                  |
++---------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Hormonal control          | - RAAS:                                                                                                                                             |
+|                           |   - Renin source: granular cells of juxtaglomerular apparatus                                                                                       |
+|                           |   - Renin release stimuli: a) hypoperfusion b) SNS stimulation c) low Na^+^Cl^-^ load to distal tubule                                              |
+|                           |   - End result: ↑reabsorption of Na^+^, H~2~O → ↑ECF volume                                                                                         |
+|                           |                                                                                                                                                     |
+|                           | ![](/content/exams/anzca/2018/B/8/prize-image001.jpg){fig-alt="Renin–angiotensin pathway showing converting enzymes, angiotensins and aldosterone"} |
+|                           |                                                                                                                                                     |
+|                           | - ADH:                                                                                                                                              |
+|                           |   - Source: hypothalamus                                                                                                                            |
+|                           |   - Release stimuli: ↑osmolality (∆2%) ↓mAP, ↓blood volume (∆10%), angiotensin 2                                                                    |
+|                           |   - End result: ↑H~2~O reabsorption only → ↑total body water and ↓osmolality                                                                        |
+|                           | - ANP:                                                                                                                                              |
+|                           |   - Source: right atrium                                                                                                                            |
+|                           |   - Release stimuli: distension                                                                                                                     |
+|                           |   - End result: ↑GFR, ↓Na^+^/H~2~O reabsorption from distal nephron (natriuresis)                                                                   |
++---------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Salt and water: by location
+
+                                  **Na^+^ reabsorption**   **H~2~O reabsorption**
+  ------------------------------- ------------------------ ------------------------
+  Proximal tubule                 65%                      65%
+  Thin descending loop of Henle   \-                       10%
+  Thick ascending loop of Henle   25%                      \-
+  Distal convoluted tubule        5%                       \-
+  Collecting duct                 4-5%                     5-24.7%
+
+#### Other electrolytes:
+
++-----------+-------------------------------------------------------------------+
+| Potassium | - Free filtration: 180L/day x 4mM = 720mmol per day               |
+|           | - Fixed reabsorption 95% (proximal tubule 65%, loop of Henle 30%) |
+|           | - Compulsory excretion 5%                                         |
+|           | - Variable secretion (stimulated by aldosterone)                  |
++-----------+-------------------------------------------------------------------+
+| Calcium   | - Proximal tubule: PO~4~^3-^ reabsorption                         |
+|           |   - ↑: Vit D                                                      |
+|           |   - ↓: PTH, calcitonin                                            |
+|           | - Distal tubule: Ca^2+^ reabsorption                              |
+|           |   - ↑: Vit D, PTH                                                 |
+|           |   - ↓: Calcitonin                                                 |
++-----------+-------------------------------------------------------------------+
+
+#### Acid-base:
+
++------------------------------+-----------------------------------------------------------------------------------------------------+
+| Reabsorption of HCO~3~^-^    | - 4000-5000mmol/day                                                                                 |
+|                              | - 85% prox tubule, 10% thick ascending LOH, 5% distal tubule and collecting duct intercalated cells |
+|                              | - ↑ECF HCO~3~^-^ → shift in carbonic acid equilibrium (H~2~O + CO~2~ \<-\> H^+^ + HCO~3~^-^)        |
++------------------------------+-----------------------------------------------------------------------------------------------------+
+| Excretion of titratable acid | - Phosphoric acid 30mmol/day (up to 60mmol/day)                                                     |
+|                              | - H~2~PO~4~ \<-\> H^+^ + HPO~4~^-^ pKa 6.8                                                          |
++------------------------------+-----------------------------------------------------------------------------------------------------+
+| Excretion of ammonia         | - 70mmmol/day (up to 300)                                                                           |
+|                              | - 60% deamination of glutamine, 35% filtered by glomerulus, 5% deamination of other amino acids     |
+|                              | - Glutamine → 2NH~4~^+^ + 2HCO~3~^-^ + oxoglutarate                                                 |
+|                              | - HCO~3~^-^ reabsorbed                                                                              |
+|                              | - NH~4~^+^ secreted by Na^+^/NH~4~^+^ antiporter. 70% reabsorbed in LOH, recycled                   |
++------------------------------+-----------------------------------------------------------------------------------------------------+
+
+#### Metabolism:
+
++-----------------+-------------------------------------------------+
+| Gluconeogenesis | - Glutamine → oxaloacetate → glucose (?)        |
+|                 | - Supplies obligate glucose users (brain, RBCs) |
+|                 | - Important in starvation                       |
++-----------------+-------------------------------------------------+
+| Detoxification  | - CYP450 enzymes                                |
+|                 | - e.g. CYP2E1 metabolises 70% methoxyflurane    |
++-----------------+-------------------------------------------------+
+
+#### Excretion:
+
++------------------+--------------------------------------+
+| Exogenous waste  | - Creatinine as creatinine           |
+|                  | - Amino acids as urea                |
++------------------+--------------------------------------+
+| Drug metabolites | - Especially if large, water-soluble |
+|                  | - e.g. morphine-6-glucuronide        |
+|                  | - e.g. pancuronium                   |
+|                  |                                      |
+|                  | (accumulation in renal failure)      |
++------------------+--------------------------------------+
+
+#### Erythropoiesis:
+
++------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+| In health        | - ↓pO~2~ in interstitium → ↑EPO secretion by interstitial fibroblasts → ↑differentiation of pluripotent haem stem cells to erythroblasts |
++------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+| In renal failure | - ↓Renal metabolic rate → ↑pO~2~ in interstitium → ↓Epo → anaemia                                                                        |
++------------------+------------------------------------------------------------------------------------------------------------------------------------------+

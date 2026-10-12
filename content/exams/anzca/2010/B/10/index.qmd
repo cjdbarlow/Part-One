@@ -1,0 +1,87 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010B Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the factors that influence coronary blood flow.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} flow through perfusion pressure and vascular resistance. Use left and right coronary flow curves to explain systolic compression, diastolic perfusion and regulation that matches supply to myocardial demand.
+
+::: {.structure-headings}
+### Normal Flow, Anatomy and Oxygen Extraction
+
+### Left and Right Coronary Flow During the Cardiac Cycle
+
+### Perfusion Pressure and Extravascular Compression
+
+### Coronary Vascular Resistance and Autoregulation
+
+### Clinical Disturbances and Consequences
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question was passed by **28%** of candidates.
+
+Many candidates did not perform well in this question as a result of failing to develop a structured answer.
+
+In order to pass, candidates were required to provide normal values for coronary blood flow, a basic anatomical outline of the coronary blood supply, note the high oxygen extraction and its consequence, and demonstrate an understanding of Ohm’s law. Having demonstrated Ohm’s law, the factors affecting pressure and resistance (within both the left and right ventricles) could then be further explained.
+
+Further marks were allocated for clinical applications and the consequences of common pathophysiological disturbances, including hypo/hypertension, coronary artery disease, and severe valvular disease.
+
+Common errors included discussing oxygen flux rather than coronary blood flow, and failing to apply Ohm’s law to the coronary circulation. Many applicants spent significant time explaining all the factors of the Hagen-Poiseuille equation, which gained minimal marks.
+
+A well labelled graph of the right and left coronary blood flow with respect to the cardiac cycle often scored more highly than attempts to explain the flows in prose.
+
+The description of coronary blood flow differs between the different recommended text books, especially with respect to values and labelling of graphs. All variations were considered acceptable within the examiner’s marking scheme.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2010/B/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Coronary circulation](/content/cvs/coronary_circulation.qmd)
+- [Myocardial oxygen supply and demand](/content/cvs/myocardial_oxygen.qmd)

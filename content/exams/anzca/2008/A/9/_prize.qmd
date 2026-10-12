@@ -1,0 +1,58 @@
+#### Numbers:
+
++---------------------+----------------------+-------------+--------------------+
+|                     | **Skin**             | **Kidneys** | **Carotid bodies** |
++=====================+======================+=============+====================+
+| Absolute blood flow | 500 (can ↑30x, ↓10x) | 1100        | 0.3                |
+|                     |                      |             |                    |
+| (mL/min)            |                      |             |                    |
++---------------------+----------------------+-------------+--------------------+
+| Relative blood flow | 12.5                 | 420 average | 2000               |
+|                     |                      |             |                    |
+| (mL/min/100g)       |                      | 500 cortex  |                    |
+|                     |                      |             |                    |
+|                     |                      | 20 medulla  |                    |
++---------------------+----------------------+-------------+--------------------+
+| Absolute VO~2~      | 12                   | 18          | Minimal            |
+|                     |                      |             |                    |
+| (mL/min)            |                      |             |                    |
++---------------------+----------------------+-------------+--------------------+
+| Relative VO~2~      | 0.3                  | 6           | Minimal            |
+|                     |                      |             |                    |
+| (mL/min/100g)       |                      |             |                    |
++---------------------+----------------------+-------------+--------------------+
+| EO~2~               | 0.125                | 0.2 cortex  | Minimal            |
+|                     |                      |             |                    |
+|                     |                      | 0.8 medulla |                    |
++---------------------+----------------------+-------------+--------------------+
+
+#### Purpose and mechanism:
+
++----------------+----------------------------------------------------------------+------------------------------------------------------------+
+|                | **Why: purpose and explanation**                               | **How: mechanism**                                         |
++================+================================================================+============================================================+
+| Skin           | (1)Thermostasis: control of blood flow and sweating            | Hypothalamic cutaneous SNS output                          |
+|                |                                                                |                                                            |
+|                | - Preserves enzyme rate and function                           | Response to heat:                                          |
+|                | - ↓T: too slow, dysfunction                                    |                                                            |
+|                | - ↑T: too fast, ↑MR, denaturing                                | - ↓SNS                                                     |
+|                | - Preserves pH hence protein function                          | - Dilatation of AV anastomoses and precapillary sphincters |
+|                |                                                                | - ↓Resistance → ↑skin blood flow and volume                |
+|                | (2)Blood reservoir                                             | - ↑Radiation, convection, conduction, sweat production     |
+|                |                                                                |                                                            |
+|                |                                                                | Response to cold: opposite                                 |
++----------------+----------------------------------------------------------------+------------------------------------------------------------+
+| Renal cortex   | High flow:                                                     | Low resistance:                                            |
+|                |                                                                |                                                            |
+|                | - Ensure high GFR                                              | - Short, wide renal arteries                               |
+|                | - Fluid, electrolyte, acid-base regulation                     | - Branches ++                                              |
+|                | - Selective reabsorption of water and solute                   | - Glomerular fenestrae → filtration                        |
++----------------+----------------------------------------------------------------+------------------------------------------------------------+
+| Renal medulla  | Low flow:                                                      | - High efferent arteriolar tone                            |
+|                |                                                                |                                                            |
+|                | - Prevents washout of interstitium                             |                                                            |
++----------------+----------------------------------------------------------------+------------------------------------------------------------+
+| Carotid bodies | - O~2~ supply only by dissolved O~2~                           | - Small size, short diffusion distance                     |
+|                | - Allows PaO~2~ responsiveness                                 | - Location in large vessels (aortic and carotid)           |
+|                | - Note unaffected by Hb-bound O~2~ hence anaemia, CO poisoning |                                                            |
++----------------+----------------------------------------------------------------+------------------------------------------------------------+

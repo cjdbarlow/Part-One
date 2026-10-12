@@ -1,0 +1,31 @@
+Hypovolaemic shock is where blood flow to tissues is insufficient to meet metabolic requirements.
+
+Metabolic acidosis occurs when the bodies pH drops below 7.35 due to depletion of HCO3 or accumulation of H+/acids.
+
+Hypovolaemia → ↓O2 Delivery due to Oxygen flux equation = SpO2xHbx1.34 + (0.003xPaO2)
+
+Relative tissue hypoxia caused by shock results in aerobic respiration being unable to take place and subsequently lactate is produced from pyruvate to recycle NAH+ to produce ATP. 
+
+In type 1 lactic acidosis lactate accumulates due to hepatic hypoperfusion Where lactate is unable to be metabolised in the cori cycle. 
+
+Consequences of Metabolic acidosis:
+
+- Respiratory 
+
+  > ↓pH → Stimulation of peripheral chemoreceptors →  ↑MV (3L for each 1mmHg EtCO2)    
+  >
+  > → ↑MV → ↑respiratory metabolic requirements 
+
+- Cardiovascular 
+
+  ↓pH → (↓ inotropy, ↓ SVR, ↑PVR) → ↓mAP and CO
+
+- Right Shift of oxyhaemoglobin curve 
+
+- Enzymatic dysfunction 
+
+  > Many physiological enzymes required for Normal body function require tight balance of pH to maintain function. In deranged pH enzymatic function may be reduced or non-functional.
+
+- Metabolic
+
+  ↑H+

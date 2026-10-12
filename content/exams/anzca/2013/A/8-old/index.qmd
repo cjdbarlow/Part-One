@@ -1,0 +1,74 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013A Question 8 (old) {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the metabolism of morphine, codeine and pethidine.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} the metabolic pathways, enzymes and metabolites for each opioid. Relate active or toxic metabolites and genetic variation to clinical consequences.
+
+::: {.structure-table}
+| Feature | Morphine | Codeine | Pethidine |
+|---|---|---|---|
+| Metabolic Pathways and Enzymes | | | |
+| Active and Inactive Metabolites | | | |
+| Metabolite Elimination | | | |
+| Genetic Variation and Clinical Consequences | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Old Exam: **80%** of candidates achieved a pass in this question
+
+Most answers consisted of a series of facts written in segments relating to the three drugs, with little discussion in the majority of answers. Of the three, morphine was the most comprehensively answered, with much less known about codeine and less still about pethidine. Most good answers discussed codeine’s metabolism by CYP 2D6 and the genetic polymorphism of the enzyme and the clinical outcomes of this, and were awarded extra marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/A/8-old/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/A/8-old/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Opioid pharmacology](/content/pharmacopoeia/analgesics/opioidspharm.qmd)
+- [Opioids](/content/pharmacopoeia/analgesics/opioids.qmd)

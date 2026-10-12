@@ -1,0 +1,72 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003A Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the principles and sources of error in the measurement of systemic arterial blood pressure using an automated oscillometric non-invasive monitor.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} **Cuff and Bladder**, **Oscillation Detection**, **Pressure Estimation**, and **Sources of Error**. Relate positioning, cuff dimensions and patient or device factors to measurement accuracy.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question was passed by **81%** of candidates.
+
+Most candidates demonstrated a good understanding of the principles of the device and the strengths and weaknesses in detection of systolic, diastolic and mean pressures.
+
+Some candidates presented their answer as if this device was synonymous with a particular brand. It is very reasonable to present the specifications of a particular brand as an example of such a device but not to imply that there is only one type.
+
+Some descriptions of the equipment were problematic.
+
+The concept of the bladder within the cuff was often not clear and lead to confusion about describing the positioning and size of the bladder. Descriptions of the recommended dimensions of the cuff (and bladder) often did not specify whether length or width were being presented. There were some instances of confusion between historical two tube and two cuff equipment (particularly oscillotonometry cf oscillometry) and current single cuff and tube equipment. Occasional candidates also confused detection of oscillations with detection of Korotkoff sounds. Modern oscillometry devices have the transducer in the control box not in the cuff.
+
+Formulas presented for calculating the diastolic pressure were often presented as variations of Mean Arterial Pressure = Diastolic Arterial Pressure + 1/3 pulse pressure. These were usually technically correct but would be better presented as Diastolic Arterial Pressure = a formula related to directly measured parameters (or other algorithm related to change in percentage size of oscillations detected).
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Non-Invasive Blood Pressure](/content/equipment/nibp.qmd)

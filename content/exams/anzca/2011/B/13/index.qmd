@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011B Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the physiological role of cerebro spinal fluid, including a [**description**]{.task-verb} of its production and fate.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} the roles of cerebrospinal fluid and include a [**description**]{.task-verb} of its production, circulation and absorption. Relate composition and pressure relationships to protection and physiological homeostasis.
+
+::: {.structure-headings}
+### Volume, Distribution and Composition
+
+### Production and Circulation
+
+### Absorption and Intracranial Pressure
+
+### Mechanical Protection and Pressure Buffering
+
+### Chemical Homeostasis and Transport
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**44%** of candidates passed this question.
+
+This question had 3 distinct sections that needed to be addressed in the answer. Main points included the amount of CSF and where it is distributed, its role in protection of brain, and its role in compensation for physiological changes in intracranial pressure, acid base regulation, maintenance of stable ionic environment, role nutrition and waste removal. Also, the chemistry of CSF and how it differs from plasma, how much is produced and where; its circulation and where it is absorbed, and finally, describing the relationship between ICP and the production and absorption of CSF.
+
+Additional points were awarded for explaining CSF’s protective role, its method of production, and describing the relationship between the chemistry of CSF and its role.
+
+Common mistakes included inclusion of pathology or pharmacology, detailed descriptions of Monroe Kellie Doctrine without outlining the role of CSF, defining terms before answering the question rather than as part of the answer, incorrect anatomical understanding of production, circulation or absorption of CSF and equating ICP measurement mm of CSF to mm of Hg.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2011/B/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Cerebrospinal fluid](/content/neuro/csf.qmd)

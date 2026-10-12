@@ -1,0 +1,96 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018B Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+Using opioids as examples, [**describe and illustrate**]{.task-verb} with graphs, what you understand by the terms "potency", "efficacy", "partial agonist", "competitive antagonist" and "therapeutic index".
+:::
+
+Also asked in: [2005B Question 2](/content/exams/anzca/2005/B/2/index.qmd#examiner-comments), [2012A Question 5](/content/exams/anzca/2012/A/5/index.qmd#examiner-comments), [2020B Question 11](/content/exams/anzca/2020/B/11/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe and illustrate**]{.task-verb} each term with a precise definition, opioid example and labelled graph. Distinguish graded from quantal responses and keep dose or concentration on the horizontal axis.
+
+::: {.structure-headings}
+### Potency: Definition, Opioid Example and Graph
+
+### Efficacy: Definition, Opioid Example and Graph
+
+### Partial Agonism: Definition, Opioid Example and Graph
+
+### Competitive Antagonism: Definition, Opioid Example and Graph
+
+### Therapeutic Index: Definition, Opioid Example and Graph
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**45%** of candidates achieved a pass in this question
+
+The question asked for a definition, opioid example and illustrative graph for each of five pharmacodynamic terms. A high degree precision was expected. To pass, candidates were expected to provide definitions and examples for four of the terms, draw accurately labelled graphs, and distinguish between quantal and graded dose-response curves. Things done well:
+
+- Defining partial agonist, efficacy and competitive antagonist
+- Rating the potencies of common opioids
+- Naloxone was frequently well-cited
+
+Common errors included:
+
+- Confusion between quantal and graded response curves
+- Indicating ED50 / EC50 as other than a point on the abscissa
+- Inconsistent labelling of graph axes
+- Confusing affinity, efficacy and potency
+- Using non-opioid examples (very common)
+- Incorrect effect of a competitive antagonist
+- Descriptions of inverse agonism which was not required
+- Defining the Therapeutic Index graphically as a range
+- Not using examples for Therapeutic Index
+- Writing answers with a high level of assumed knowledge
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2005/B/2/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2005/B/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Dose–response curves](/content/pharmacology/dose_response.qmd)
+- [Opioids](/content/pharmacopoeia/analgesics/opioids.qmd)

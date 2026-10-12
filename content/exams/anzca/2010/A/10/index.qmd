@@ -1,0 +1,71 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010A Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} how white blood cells defend the body against infection.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **White Cell Types**, **Activation and Innate Defence**, and **Acquired Defence and Cell Interactions**. Organise the response by time course to show how the cell types work together against infection.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**40%** of candidates passed this question.
+
+The question required a description of the different white blood cells in the body and a discussion of their activation and interaction. Successful candidates gave a comprehensive list of white cell types and described how each defended the body. Some understanding of the roles they played in innate and acquired immunity was also necessary. Better candidates structured their answer based on the time course of activation so they could most effectively describe the interplay between white cells. Common areas of confusion were:
+
+- roles played by each cell, particularly the natural killer cell
+- the types of infective agent each cell was active against
+- the difference between acquired and innate immunity.
+
+Marks were not gained for discussing hypersensitivity reactions or non-white cell mediated defence such as physical barriers.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Innate Immunity](/content/immune/innate_immunity.qmd)
+- [Adaptive Immunity](/content/immune/adaptive_immunity.qmd)

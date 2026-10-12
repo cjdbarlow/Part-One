@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018A Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the determinants of renal blood flow.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} renal flow through perfusion pressure and vascular resistance. Explain the functional need for high flow, then connect anatomy, autoregulation, sympathetic activity and hormonal influences to arteriolar tone, blood flow and filtration.
+
+::: {.structure-headings}
+### Normal Flow and Functional Significance
+
+### Perfusion Pressure and Vascular Resistance
+
+### Myogenic Autoregulation
+
+### Tubuloglomerular Feedback
+
+### Renin–Angiotensin, Neural and Other Influences
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**32%** of candidates achieved a pass in this question.
+
+Main points expected included an appreciation that renal flow exceeds metabolic demands for the purpose of high glomerular filtration to regulate body fluid volumes and solute concentrations. Also, marks were gained for demonstrating understanding that renal blood flow follows haemodynamic principles and how this is affected by autoregulation (both myogenic and tubuloglomerular feedback). Integral to this is the renin-angiotensin-aldosterone system of which some detail was expected.
+
+Simply listing the anatomical flow path did not attract credit unless accompanied by an explanation of how the anatomy affects resistance e.g. many parallel pathways reduce vascular resistance. Tubuloglomerular feedback was frequently not well described. A common mistake was to link a given change in NaCl concentration to the incorrect change in arteriolar tone and subsequently blood flow; the effect on GFR was frequently neglected.
+
+Better candidates correctly described the effect of angiotensin II on renal arteriolar tone, renal blood flow and GFR. This group also appropriately mentioned the role of the sympathetic nervous system and other mediators.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2018/A/9/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2018/A/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Renal blood flow](/content/renal/rbf.qmd)

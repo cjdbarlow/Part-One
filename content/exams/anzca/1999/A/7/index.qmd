@@ -1,0 +1,71 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999A Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the autonomic innervation of the heart, and the direct effect of autonomic stimulation on cardiac function.
+:::
+
+Also asked in: [2005B Question 15](/content/exams/anzca/2005/B/15/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Sympathetic and Parasympathetic Pathways**, then use headings for **Sinoatrial Node**, **Atria**, **Atrioventricular Node**, **Purkinje Cells**, and **Ventricular Myocytes**. Link the neural pathway, transmitter and receptor to each direct cardiac effect.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**59%** of candidates passed this question.
+
+Anatomical knowledge was required of the neural innervation of the heart, site of ganglia, pathways to the heart and differences between the left and right sides of the body. The identity of the neurotransmitters was relevant as well as the receptors activated. Many answers were more suited to a question on the effects, on the heart, of adrenergic and cholinergic receptors without distinguishing between the effects of neural stimulation and blood borne agonists.
+
+The cardiac tissues are specialised and the effect of neural stimulation differs on sinoatrial node, atria, atrioventricular node, Purkinje cells and ventricular myocytes. Many of the better answers used this information to structure their answer and succinctly present a large amount of information on the effects of stimulation.
+
+The sequence of events following receptor activation was well handled.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Autonomic Nervous System](/content/neuro/ans.qmd)
+- [Cardiac Anatomy](/content/cvs/cardiac_anatomy.qmd)

@@ -1,0 +1,60 @@
+#### List:
+
+Tolerance: definition, mechanism, time course, implications, treatment
+
+Dependence: definition and types, associations, cause, risk factors, withdrawal, treatment
+
+#### Tolerance:
+
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Definition                  | - Reduced intensity and duration of effect of a given dose of opioid with chronic use                                                                        |
+|                             | - No change in efficacy                                                                                                                                      |
+|                             | - i.e. Right shift in log(dose) response curve                                                                                                               |
+|                             | - Occurs to variable extent                                                                                                                                  |
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Representation              | ![](/content/exams/anzca/2002/B/6/prize-image001.jpg){fig-alt="Fentanyl log-dose response curves showing the rightward shift associated with tolerance"}     |
+|                             |                                                                                                                                                              |
+|                             | (individual graded log-dose response curve)                                                                                                                  |
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Mechanisms                  | - Receptor downregulation (β-arrestin binds COOH terminal of phosphorylated activated G-protein coupled receptor, triggering downregulation and destruction) |
+|                             | - Change in receptor effect (G~i~ → quasi G~s~)                                                                                                              |
+|                             | - Upregulation of cAMP system                                                                                                                                |
+|                             | - ↑NMDA activity (↓NMDA transport → ↑synaptic \[glutamate\] → tolerance and opioid-induced hyperalgaesia)                                                    |
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Time course                 | - Onset and offset rapid for inhibitory effects (analgesia, respiratory depression)                                                                          |
+|                             | - Onset and offset slow for excitatory effects (miosis, constipation)                                                                                        |
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Implications of time course | - Use of previously effective dose after a short layoff may cause overdose and death                                                                         |
+|                             | - Patients with chronic pain on opioids require very high dose for same effect                                                                               |
+|                             |   - Hence more GIT side effects                                                                                                                              |
+|                             |   - Hence importance of use of adjuvants e.g. ketamine                                                                                                       |
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Treatment                   | - Opioid rotation                                                                                                                                            |
+|                             | - Opioid weaning, esp with ketamine infusion (‘re-sets’ opioid receptors)                                                                                    |
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Dependence:
+
++---------------------+--------------------------------------------------------------------------------------+
+| Definition          | - Reliance on drug for normal functioning                                            |
+|                     | - Physical: withdrawal symptoms on cessation                                         |
+|                     | - Psychological: craving for drug on cessation                                       |
++---------------------+--------------------------------------------------------------------------------------+
+| Associated features | - Dependent patients often tolerant; tolerant patients not always dependent          |
+|                     | - Addiction (harmful drug-seeking behavior) – especially if psychological dependence |
++---------------------+--------------------------------------------------------------------------------------+
+| Cause               | - As for tolerance                                                                   |
+|                     | - Pathological adaptation in dopaminergic reward pathways                            |
++---------------------+--------------------------------------------------------------------------------------+
+| Risk factors        | - Drug characteristics:                                                              |
+|                     |   - Rapid onset (high lipid solubility, high % unionised (e.g. alfentanil)           |
+|                     |   - Highly euphoric (e.g. diacetylmorphine)                                          |
+|                     | - Administration: prolonged use (e.g. chronic pain)                                  |
+|                     | - Patient: psychiatric history, unemployment etc.                                    |
++---------------------+--------------------------------------------------------------------------------------+
+| Withdrawal features | - Physical: nausea, sweating, cholinergic (salivation, lacrimation, GIT cramp)       |
+|                     | - Psychological: craving, dysphoria, restlessness, insomnia                          |
++---------------------+--------------------------------------------------------------------------------------+
+| Treatment           | - Opioid replacement (e.g. methadone, buprenorphine/naloxone)                        |
+|                     | - Psychosocial intervention                                                          |
++---------------------+--------------------------------------------------------------------------------------+

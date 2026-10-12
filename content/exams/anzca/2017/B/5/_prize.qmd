@@ -1,0 +1,121 @@
+#### List:
+
+- Intro
+- Circuit-alveolus
+- Alveolus-V1
+- MAC-awake↑/↓
+- MAC awake variation between drugs
+
+#### Intro:
+
++-----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Determinants of time to LOC | 1.  Rate of equilibration between circuit and lungs                                                                                                                               |
+|                             | 2.  Rate of equilibration between lungs and vessel rich group (V~1~)                                                                                                              |
+|                             | 3.  V~1~ partial pressure associated with unconsciousness (MAC-awake)                                                                                                             |
+|                             |                                                                                                                                                                                   |
+|                             | \*\*Rate of rise of alveolar partial pressure reflects rate of rise in effect site\*\*                                                                                            |
++-----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Compartment model           | ![](/content/exams/anzca/2017/B/5/prize-image001.jpg){fig-alt="Five-compartment pharmacokinetic model showing vessel-rich, lean, intermediate, vessel-poor and fat compartments"} |
++-----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Wash-in curve               | ![](/content/exams/anzca/2017/B/5/prize-image002.jpg){fig-alt="Alveolar to inspired concentration ratios during wash-in of inhalational anaesthetics"}                            |
++-----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Putative effect site        | - Ascending reticular activating system, thalamus, frontal cortex                                                                                                                 |
+|                             | - Partial pressure correlates with that in V1                                                                                                                                     |
+|                             | - Often not be included in kinetic model                                                                                                                                          |
+|                             | - Rate of equilibration between effect site and VRG ∝                                                                                                                             |
+|                             |   - Blood flow to brain per unit mass (not % cardiac output to brain)                                                                                                             |
+|                             |   - 1/(brain-blood partition coefficient)                                                                                                                                         |
++-----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### ↑Circuit \<-\>alveolus:
+
++-----------------------+-------------------------------------------------------------------------------------------+
+| ↑Inspired %           | - User-controlled                                                                         |
+|                       | - Partly MAC-dependent: N~2~O 105%, des 6.6%, sevo 2%, iso 1.2%                           |
++-----------------------+-------------------------------------------------------------------------------------------+
+| ↑FGF : circuit volume | - ↑FGF rate (user-controlled, max \~18L/min                                               |
+|                       | - ↓CV: e.g. Mapleson F circuit cf. circle circuit                                         |
++-----------------------+-------------------------------------------------------------------------------------------+
+| ↑V~A~: FRC            | - ↑V~A~ (↑neonate/crying/pregnant/shock)                                                  |
+|                       | - ↓FRC (↓supine/pregnant/obese)                                                           |
+|                       | - Affects soluble (e.g. halothane) \> soluble agents (e.g. desflurane)                    |
++-----------------------+-------------------------------------------------------------------------------------------+
+| Concentration effect  | - Seen only with high volume carrier gases                                                |
+|                       | - Switch from N~2~/O~2~ to N~2~O/O~2~                                                     |
+|                       | - Rapid uptake N~2~O from alveolus (BGPC 0.47), but very slow output of N~2~ (BGPC 0.014) |
+|                       | - Reduction in alveolar volume and pressure → rapid inflow of N~2~O-rich fresh gas        |
+|                       | - Accelerated ↑ F~A~/F~I~ N~2~O                                                           |
++-----------------------+-------------------------------------------------------------------------------------------+
+| Second gas effect     | - Rapid uptake N~2~O from alveolus, but very slow output of N~2~                          |
+|                       | - Reduction in alveolar volume → ↑concentration of remaining volatile                     |
++-----------------------+-------------------------------------------------------------------------------------------+
+
+#### ↑Alveolus \<-\> V~1~:
+
++----------------------------------+---------------------------------------------------------------------------------+
+| ↓Blood-gas partition coefficient | - ↓rate of uptake but ↑rate of equilibration                                    |
+|                                  | - Drug: iso 1.4, sevo 0.69, N~2~O 0.47, des 0.42                                |
+|                                  | - Patient: ↑if obese/lipaemic/adult, ↓if neonate/malnourished/anaemic           |
++----------------------------------+---------------------------------------------------------------------------------+
+| ↓Cardiac output                  | - Affects soluble \> insoluble agents                                           |
+|                                  | - ↓rate of uptake but ↑rate of equilibration                                    |
+|                                  | - Drug: halothane → myocardial depression                                       |
+|                                  | - Patient: ↓shock/elderly, ↑neonate/pregnant/obese                              |
++----------------------------------+---------------------------------------------------------------------------------+
+| ↑V/Q matching                    | - ↓Dilution of volatile-containing blood with shunt blood                       |
+|                                  | - Affects insoluble \> soluble agents                                           |
+|                                  | - Note volatile anaesthetics → impaired HPV → impaired V/Q matching             |
++----------------------------------+---------------------------------------------------------------------------------+
+| ↓Tissue uptake                   | (→ ↑mixed venous partial pressure → ↓rate of uptake but ↑rate of equilibration) |
+|                                  |                                                                                 |
+|                                  | - ↓Tissue volume (↑obese/pregnant) – muscle most important                      |
+|                                  | - ↓Tissue-blood partition coefficient                                           |
+|                                  |   - Muscle-blood: N~2~O 1.2, des 1.9, iso 2.9m sevo 3.1                         |
+|                                  |   - Fat-blood: N~2~O 2.3, des 27, iso 45, sevo 48                               |
+|                                  | - ↓Tissue blood flow (↑obese/pregnant/neonate, ↓shock/elderly)                  |
++----------------------------------+---------------------------------------------------------------------------------+
+
+#### ↓MAC-awake (faster induction):
+
++-------------------+---------------------------------------------------------------------------------------------------+
+| Physiology        | - Age: neonate, elderly                                                                           |
+|                   | - Pregnancy: ↓30% (progesterone)                                                                  |
+|                   | - Obesity: inflammatory cytokines                                                                 |
++-------------------+---------------------------------------------------------------------------------------------------+
+| Pathology         | - ↓mAP (\<40mmHg)                                                                                 |
+|                   | - ↓pO~2~ (\<40mmHg)                                                                               |
+|                   | - ↑pCO~2~ (\>60mmHg sedation, \>80mmHg anaesthesia)                                               |
+|                   | - ↓Temp                                                                                           |
+|                   | - ↓pH                                                                                             |
+|                   | - ↓\[Na^+^\]                                                                                      |
++-------------------+---------------------------------------------------------------------------------------------------+
+| Drug interactions | - Acute depressants: propofol, barbiturates, benzodiazepines, opioids, local anaesthetics, Mg^2+^ |
+|                   | - Chronic stimulant: (e.g. amphetamines)                                                          |
++-------------------+---------------------------------------------------------------------------------------------------+
+
+#### ↑MAC-awake (slower induction)
+
++-------------------+--------------------------------------------+
+| Physiology        | - Age: max at 6 months then ↓6% per decade |
+|                   | - Red hair                                 |
++-------------------+--------------------------------------------+
+| Pathology         | - ↑Temp                                    |
+|                   | - ↑\[Na^+^\]                               |
++-------------------+--------------------------------------------+
+| Drug interactions | - Acute stimulant                          |
+|                   | - Chronic depressant                       |
++-------------------+--------------------------------------------+
+
+#### MAC-awake variation between drugs:
+
++----------------------+------------------------------------------------------------------------------+
+| Drug values          | - Isoflurane 0.45 MAC                                                        |
+|                      | - Sevoflurane 0.36 MAC                                                       |
+|                      | - Desflurane 0.4 MAC                                                         |
+|                      | - Halothane 0.53 MAC                                                         |
+|                      | - N~2~O 0.64 MAC                                                             |
++----------------------+------------------------------------------------------------------------------+
+| Cause of differences | - ? Differential effects                                                     |
+|                      |   - Unconsciousness: reticular activating system, thalamus, (frontal) cortex |
+|                      |   - Immobility: spinal cord                                                  |
++----------------------+------------------------------------------------------------------------------+

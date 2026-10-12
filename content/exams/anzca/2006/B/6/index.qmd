@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006B Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+A new clinical test called the “intubation score” has a reported 90% sensitivity and 70% specificity when used to predict difficult intubation. [**Describe**]{.task-verb} how the accuracy, predictive value and clinical utility of this test can be evaluated. [**How will**]{.task-verb} the incidence of difficult intubation affect the performance of this test?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Accuracy**, **Predictive Values**, and **Clinical Utility** using a 2 × 2 table. Then [**explain**]{.task-verb} how the **Incidence of Difficult Intubation** affects test performance.
+
+::: {.structure-table}
+| Test Result | Difficult Intubation | No Difficult Intubation |
+|---|---|---|
+| Positive Test | | |
+| Negative Test | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**34 %** of candidates passed this question.
+
+To quote from the syllabus (Section C -Statistics [e]), candidates are expected to: "Describe the features of a diagnostic test, including the concepts of sensitivity, specificity, positive and negative predictive value and how these are affected by the prevalence of the disease in question.".
+
+Drawing a 2 x 2 table and defining the terms mentioned in the question obtained a pass mark. Unfortunately less than half the candidates accomplished this.
+
+The question as to the effect of the incidence of disease on the positive predictive value of a test is of critical importance. Changing the incidence of a disease does not alter sensitivity or specificity, as many stated, but as the incidence falls so does the PPV - a restatement of Bayes' Theorem. This is one of the reasons why all of the predictive tests for failed intubation, a relatively uncommon event, have such a low PPV.
+
+Some candidates invoked p values, alpha and beta errors, power and even "t-tests" in their answers, which failed to address the question asked. There were many blank answers.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Statistical Terms](/content/stats/statistical_terms.qmd)

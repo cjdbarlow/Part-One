@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007B Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+A new test called the “intubation score” has a reported 90% sensitivity and 70% specificity when used to predict difficult intubation. [**Describe**]{.task-verb} how this information and other statistics related to this test can be used in predicting difficult intubation. [**How will**]{.task-verb} the incidence of difficult intubation affect the performance of this test?
+:::
+
+Also asked in: [2014B Question 7](/content/exams/anzca/2014/B/7/index.qmd#examiner-comments), [2017A Question 9](/content/exams/anzca/2017/A/9/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} sensitivity, specificity and predictive values using a 2 × 2 contingency table, then explain [**how the incidence affects**]{.task-verb} interpretation of the test.
+
+::: {.structure-table}
+| Test Result | Difficult Intubation | No Difficult Intubation |
+|---|---|---|
+| Positive | | |
+| Negative | | |
+:::
+
+Then use headings for **Sensitivity and Specificity**, **Positive and Negative Predictive Values**, **Effect of Incidence**, and **Study Population and Applicability**.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**43%** of candidates passed this question.
+
+This question asks candidates to apply knowledge of statistical analysis related to screening tests. It guides the candidates to discuss “intubation score” in relation to reported sensitivity and specificity and asks how “disease incidence” effects test performance.
+
+Answers that provided definitions of sensitivity, specificity, positive and negative predictive values with reference to predicting difficult intubation and described the relationship between incidence and testing achieved a pass.
+
+This was most easily achieved through reference to a contingency table, which highlighted possible outcomes of diagnostic testing. Clarification of each cell in the table attracted marks, for example the situation of positive prediction in the presence of difficult intubation being described as a true positive. Finally a definition of incidence and its influence on positive and negative predictive value was needed.
+
+Errors that were evident included confused, incomplete answers and answers that did not make reference to the scenario of difficult intubation. Some were answered incompletely or the question was misinterpreted.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Sensitivity, specificity and predictive values](/content/stats/statistical_terms.qmd)

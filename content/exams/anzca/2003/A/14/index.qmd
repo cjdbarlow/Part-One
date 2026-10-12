@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003A Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the factors that affect lung compliance.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Definition and Normal Values**, **Surface Tension and Surfactant**, **Elastic Forces**, **Lung Size and Volume**, and **Gravity**. Use a labelled pressure–volume curve to relate these factors to compliance.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+A pass rate of **39%** was achieved for this question. Irrelevancies were uncommon on this occasion, however some basic mistakes and omissions did occur.
+
+The answer is best introduced with a definition. Marks were allocated for a value with the correct units
+
+- the compliance equation relating the total lung, to chest wall and lung compliance.
+- Surfactant and its role on surface tension.
+- Laplace’s law and its applicability.
+- The importance of elastic forces and their role in disease states.
+- Lung size.
+- Lung volume and its relationship (to FRC) on compliance.
+- Effect of gravity on the lung and hence on compliance.
+
+Mention of various compliances like dynamic, static and specific with their definitions attracted extra marks as did diagrams showing a pressure volume loop, hysteresis, or a compliance curve, with explanations.
+
+Clinical relevance is also important and mention of restrictive lung disease, obstructive lung disease: pulmonary emphysema, pleural effusions, or at least some of those was appropriate. Differentiating the effects of emphysema on dynamic vs. static compliance also attracted extra marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Compliance](/content/resp/compliance.qmd)
+- [Surfactant](/content/resp/surfactant.qmd)

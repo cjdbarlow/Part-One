@@ -1,0 +1,63 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003A Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the neuropharmacology of thiopentone, covering only its site of action, EEG changes, effects on cerebral blood flow and intracranial pressure.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} **Site of Action**, **EEG Changes**, **Cerebral Blood Flow**, and **Intracranial Pressure**. Relate the receptor action to neuronal activity, cerebral metabolic demand and haemodynamic effects.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The pass rate for this question was **80%**. The question was asked in appreciably the same format on the March 1999 paper. The marking parameters as set out in that Examiner’s Report were still appropriate for this sitting. Candidates are directed to read that Examiner’s Report. Virtually all candidates appreciated the question had four sub-sections and ensured that they answered all four sections. Despite the question specifying that only the four sections needed to be answered many candidates gave detailed, additional information on packaging, dosing and the structure of thiopentone without in any way attempting to relate these facts to the question asked. No credit was given for this. Also vague answers such as “EEG changes are dose related” or “thiopentone has an inhibitory affect on the brain via GABA receptors” were deemed inadequate to answer the question satisfactorily without more detailed explanation.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Barbiturates](/content/pharmacopoeia/neuro/barbiturates.qmd)
+- [Intracranial Pressure](/content/neuro/icp.qmd)

@@ -1,0 +1,44 @@
+Myocardial contractility is the forced which act on ventricular contraction independent of preload or Afterload or HR.
+
+The main determinant of contractility is the myocyte intracellular Ca concentration, which is regulated by the intracellular messenger cAMP
+
+→ ↑cAMP → Protein Kinase A→ ↑Ca → ↑inotropy 
+
+Myocardial excitation - contraction coupling occurs as follows:
+
+1)  Action potential reaches cardiac myocyte 
+2)  Ca2+ influx through L type calcium channels in the plasma membrane 
+3)  Ca induced calcium released from sarcoplasmic reticulum via Ryanodine receptors
+4)  Ca binds to troponin → conformation change and actin myosin interaction proceeds
+
+Drugs which increase Contractility are inotropes:
+
++----------------------------------+--------------------+--------------------------------------------+
+| **Class**                        | **Example**        | **MOA**                                    |
++==================================+====================+============================================+
+| **Direct B1 receptor agonist**   | Adrenaline         | GsPCR →↑cAMP →↑Ca2+                        |
+|                                  |                    |                                            |
+|                                  | Noradrenaline      |                                            |
+|                                  |                    |                                            |
+|                                  | Dopamine           |                                            |
++----------------------------------+--------------------+--------------------------------------------+
+| **Indirect B1 Receptor agonist** | Ephedrine          | ↑NA release at nerve terminal              |
++----------------------------------+--------------------+--------------------------------------------+
+| **Ca2+ Sensitiser**              | Levosimendan       | Binds to Troponin C →↑Ca2+ Sensitivity     |
++----------------------------------+--------------------+--------------------------------------------+
+| **Cardiac Glycosides**           | Digoxin            | Inhibits Na/K ATPase                       |
+|                                  |                    |                                            |
+|                                  |                    | →↑Intracellular Na                         |
+|                                  |                    |                                            |
+|                                  |                    | →↓Na/Ca exchange activity                  |
+|                                  |                    |                                            |
+|                                  |                    | → ↑intracellular Ca                        |
++----------------------------------+--------------------+--------------------------------------------+
+| **Phosphodiesterase inhibitors** | Milrinone  (PDE3)  | PDE3 inhibition →↓breakdown of cAMP →↑Ca2+ |
+|                                  |                    |                                            |
+|                                  | Aminophylline      |                                            |
++----------------------------------+--------------------+--------------------------------------------+
+| **Calcium**                      | Calcium            | ↑intracellular Ca                          |
++----------------------------------+--------------------+--------------------------------------------+
+| **Glucagon **                    | Glucagon           | GsPCR →↑cAMP                               |
++----------------------------------+--------------------+--------------------------------------------+

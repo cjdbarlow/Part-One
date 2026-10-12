@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004B Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly explain**]{.task-verb} how oximetry can be used to estimate the partial pressure of oxygen in a blood sample.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly explain**]{.task-verb} how sample oximetry measures haemoglobin saturation, then use the dissociation curve to estimate oxygen partial pressure. State assumptions and limits of that conversion rather than concentrating on pulse oximetry.
+
+::: {.structure-headings}
+### Sample Oximetry and Beer–Lambert Law
+
+### Saturation and the Dissociation Curve
+
+### Representative Saturation–Pressure Values
+
+### Curve Shifts and the Flat Upper Portion
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**31%** of candidates passed this question.
+
+This question required integration and application of knowledge about oximetry and the oxygen haemoglobin dissociation curve. Candidates were expected to briefly cover how an oximeter measured haemoglobin saturation in a blood sample, the Beer Lambert law either as a formula or as a written description and the link between haemoglobin saturation and partial pressure of O~2~ via the oxygen haemoglobin dissociation curve with some common values.
+
+Better candidates also described the assumptions and the inaccuracies made in the link between haemoglobin saturation and partial pressure of O~2~, eg shift of the oxygen haemoglobin curve with changes in pH, pCO~2~, temperature, 2,3 DPG, the difficulty in deducing pO~2~ when haemoglobin is fully saturated due to the flat upper portion of the oxygen haemoglobin curve.
+
+Common mistakes included writing about the Clark electrode, oxygen content of blood, discussion of pulse oximetry and its inaccuracies, applying the effects of other types of haemoglobin on pulse oximetry to co-oximetry of a blood sample and claiming that oximetry measured the oxygen in the blood directly.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2004/B/11/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Oxygen cascade](/content/resp/oxygen_cascade.qmd)

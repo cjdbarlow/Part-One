@@ -1,0 +1,115 @@
+#### List:
+
+- Intro: definition, problem, cause, priorities, ALS shockable algorithm
+- Non-drug treatment
+- Drug treatment
+
+#### Intro:
+
++--------------------------+--------------------------------------------------------------+
+| Definition               | - Chaotic ventricular depolarisation and repolarization      |
++--------------------------+--------------------------------------------------------------+
+| Problem                  | - No cardiac output                                          |
+|                          | - LOC in seconds                                             |
+|                          | - Eeath in minutes                                           |
++--------------------------+--------------------------------------------------------------+
+| Causes                   | - Hypotension, hypoxia, hypothermia, electrolyte disturbance |
+|                          | - AMI, PE, tamponade, tension pneumothorax, drug/toxin       |
++--------------------------+--------------------------------------------------------------+
+| Priorities               | - Early unbroken CPR (↑survival)                             |
+|                          | - Early defibrillation (↑survival)                           |
+|                          | - Treat causes in order of ease and likelihood               |
++--------------------------+--------------------------------------------------------------+
+| ALS algorithm: shockable | - CPR 2 mins → rhythm check → defibrillation (repeat)        |
+|                          | - Adrenaline 1mg: after 2^nd^ loop, then every 2^nd^ loop    |
+|                          | - Amiodarone 300mg: after 3 x defib                          |
++--------------------------+--------------------------------------------------------------+
+
+#### Non-drug treatment:
+
++-------------------+--------------------------------------------------------------------------------------------------------------------------+
+| Praecordial thump | - Heel of hand → sternum                                                                                                 |
+|                   | - Only if witnessed, monitored VF arrest and no ready access to defib                                                    |
+|                   | - Mechanism of action (MoA): mechanical energy → electrical energy (2-5J) → mild depolarisation → silence → sinus rhythm |
+|                   | - Side effects (SEs): sternal or rib fracture, myocardial contusion                                                      |
++-------------------+--------------------------------------------------------------------------------------------------------------------------+
+| Defibrillation    | - Electric shock of heart between two gel pads or paddles                                                                |
+|                   | - Device: 5kV step up transformer + capacitors in charging circuit; inductor in discharging circuit; switch between      |
+|                   | - Shock has specific magnitude and duration                                                                              |
+|                   | - 200J biphasic better than 360J monophasic                                                                              |
+|                   |   - ↔/↑ effectiveness                                                                                                    |
+|                   |   - ↓ energy → ↓ electrical injury                                                                                       |
+|                   | - MoA: depolarize whole myocardium → silence → sinus rhythm                                                              |
+|                   | - SEs: skin burns, internal burns, electrocution of staff, fire/explosion                                                |
++-------------------+--------------------------------------------------------------------------------------------------------------------------+
+| Non-drug measures | More helpful for non-shockable                                                                                           |
+|                   |                                                                                                                          |
+|                   | - IV fluid (restore blood volume, preload)                                                                               |
+|                   | - Pericardiocentesis for tamponade (restore preload)                                                                     |
+|                   | - Needle decompression of tension pneumothorax (restore preload)                                                         |
++-------------------+--------------------------------------------------------------------------------------------------------------------------+
+
+#### Drug treatment:
+
++-------------+--------------------------------------------------------------------------------------------+
+| Adrenaline  | - Dose: 1mg                                                                                |
+|             | - Catecholamine                                                                            |
+|             | - At high dose α~1~ \> β~1~ \> β~2~ effect                                                 |
+|             | - MoA: peripheral vasoconstriction++ →                                                     |
+|             |   - ↑coronary perfusion pressure → ↑defib success                                          |
+|             |   - ↑cerebral perfusion pressure → ↑survival                                               |
+|             | - SEs: (observed after ROSC)                                                               |
+|             |   - ↑↑HR                                                                                   |
+|             |   - ↑↑mAP                                                                                  |
+|             | - N.B. new evidence suggests adrenaline may not improve outcome                            |
++-------------+--------------------------------------------------------------------------------------------+
+| Amiodarone  | - Dose: 300mg slow push                                                                    |
+|             | - First line for refractory VF                                                             |
+|             | - MoA:                                                                                     |
+|             |   - Class 3 \> 1,2,4 antiarrhythmic                                                        |
+|             |   - Mainly K^+^ channel block                                                              |
+|             |   - Complex MoA                                                                            |
+|             |   - Stabilizes myocyte membrane → terminate tachyarrhythmias                               |
+|             | - SEs (after ROSC)                                                                         |
+|             |   - CVS: ↓HR, ↓mAP, ↑QTc → ↑risk of TdP                                                    |
+|             |   - Displace highly plasma protein bound drugs → ↑free \[drug\] (e.g. warfarin)            |
+|             |   - Tissue toxicity: pulmonary fibrosis, cirrhosis, hypothyroidism                         |
++-------------+--------------------------------------------------------------------------------------------+
+| Lignocaine  | - Dose: 1mg/kg                                                                             |
+|             | - Second line for refractory VF                                                            |
+|             | - MoA: class 1b Na^+^ channel blockade                                                     |
+|             |   - Minimal ↓slope phase 0                                                                 |
+|             |   - ↓Absolute refractory period                                                            |
+|             | - SE:                                                                                      |
+|             |   - Cardiac: AV block, ↓ inotropy, arrhythmias                                             |
+|             |   - CNS: excitation (tinnitus, perioral tingling, seizure)                                 |
++-------------+--------------------------------------------------------------------------------------------+
+| Vasopressin | - Dose: 40 IU once only                                                                    |
+|             | - Alternative to adrenaline if already running                                             |
+|             | - MoA: bind V~1~ → peripheral vasoconstriction                                             |
+|             |   - ↑Cororonary perfusion pressure → facilitate successful defib                           |
+|             |   - ↑Cerebral perfusion pressure → preserve neuronal integrity                             |
++-------------+--------------------------------------------------------------------------------------------+
+| Magnesium   | - Dose: 5mmol IV slow push                                                                 |
+|             | - Use if VF follows torsades de pointes or in the setting of hypomagnesaemia               |
+|             | - MoA: increases membrane stability, competes for calcium                                  |
+|             | - SE: vasodilatation, sedation, muscle weakness, resp failure                              |
++-------------+--------------------------------------------------------------------------------------------+
+| Potassium   | - Dose: 5mmol                                                                              |
+|             | - Indication: hypokalaemia                                                                 |
+|             | - MoA: restore resting potential                                                           |
++-------------+--------------------------------------------------------------------------------------------+
+| Calcium     | - 10mmol as CaCl~2~                                                                        |
+|             | - Use if: ↑\[K^+^\], ↓\[Ca^2+^\]                                                           |
+|             | - MoA: MSA if ↑\[K^+^\], ↑inotropy                                                         |
+|             | - SE: excitotoxicity of brain and heart; vascular irritation (gluconate safe peripherally) |
++-------------+--------------------------------------------------------------------------------------------+
+| Bicarbonate | - 1mmol/kg                                                                                 |
+|             | - Use if: metabolic acidosis, prolonged arrest                                             |
+|             | - MoA: buffer                                                                              |
+|             | - SE: worsen ICF acidosis, ↑Na^+^, ↑osmolality                                             |
++-------------+--------------------------------------------------------------------------------------------+
+| Other       | - Thrombolytics                                                                            |
+|             | - Glucose                                                                                  |
+|             | - Specific antidotes e.g. naloxone, flumazenil                                             |
++-------------+--------------------------------------------------------------------------------------------+

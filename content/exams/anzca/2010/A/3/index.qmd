@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010A Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the adverse effects that may occur with the administration of desflurane.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} adverse effects by system and distinguish dose-related effects from idiosyncratic reactions. Explain effects peculiar to desflurane, especially rapid concentration changes and airway irritation, and include absorber interactions.
+
+::: {.structure-headings}
+### Cardiovascular Effects
+
+### Respiratory Depression and Airway Effects
+
+### Central Nervous System Effects
+
+### Other System Effects and Malignant Hyperthermia
+
+### Carbon Dioxide Absorbent Interactions
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**44%** of candidates passed this question.
+
+This question was poorly answered by the majority of candidates. Better answers discussed adverse effects by system or divided their response in to those effects peculiar to desflurane and those common to many volatile agents. Even better answers compared some adverse effects to other volatile agents. No marks were awarded for details which were clearly unrelated to the answer such as chemical structure and physical characteristics.
+
+The following material needed to be covered for a clear pass.
+
+Desflurane is a volatile agent used mainly for the maintenance of general anaesthesia. An adverse effect is an unwanted side effect of a drug. Desflurane reduces systemic vascular resistance and thus mean arterial pressure in a dose dependant manner, however cardiac output is usually well-maintained by an increase in heart rate. Sudden increases in the inspired concentration can cause a marked sympathetic response with tachycardia, hypertension and activation of the renin-angiotensin system. Cerebral blood flow increases above 1.0 MAC but the rise in ICP is quite small (about 7mmHg). At higher doses there is uncoupling of oxygen supply and demand. It is not known to trigger seizure activity. There is a dose-dependent reduction in tidal volume and increase in respiratory rate (overall decrease minute ventilation) and an impaired response to hypoxia and hypercarbia. Desflurane is pungent and can cause coughing and breath-holding so it is infrequently used for inhalational induction. It can increase airways resistance (especially in smokers). It can cause a fulminant antibody-mediated hepatitis (like halothane) through neoantigen formation from metabolites, but this is very rare – probably due to the very low rate of metabolism. It reduces uterine tone (potentially worsening postpartum haemorrhage). It is a trigger for malignant hyperthermia. It can interact with carbon dioxide absorbants to produce toxic levels of carbon monoxide (especially with high temperatures and low flows over dessicated Baralyme ®).
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2010/A/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational anaesthetic agents](/content/pharmacopoeia/neuro/inhalational_anaesthetic_agents.qmd)

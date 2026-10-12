@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000B Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Write short notes**]{.task-verb} contrasting the cardiovascular effects of propofol and ketamine seen clinically.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Write short notes**]{.task-verb} contrasting the drugs in a table of clinically observed effects. [**Explain**]{.task-verb} the direction of each effect and consider dose dependence and relevant patient states.
+
+::: {.structure-table}
+| Feature | Propofol | Ketamine |
+|---|---|---|
+| Heart Rate | | |
+| Blood Pressure | | |
+| Cardiac Output | | |
+| Vascular Resistance | | |
+| Dose and Patient Factors | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**46%** of candidates achieved a pass for this question. Key words in the question were ‘contrasting’ and ‘seen clinically’.
+
+Marks were awarded for answers structured to clearly contrast the two drugs. Some candidates used tables while others used headings of the various clinically seen effects followed by a discussion of the two drugs in relation to that effect. Candidates describing all the effects of one drug in isolation, followed by the other, gained no marks for ‘contrasting.’
+
+Effects ‘seen clinically’ are those seen during anaesthesia or intensive care, i.e. heart rate, blood pressure. In patients monitored with pulmonary artery catheters, changes in cardiac output and haemodynamic variables can also be seen. A correct description of the direction of most of these clinical effects, and an explanation of why they occurred, achieved a pass in this question. Additional marks were given for noting the differences in dose dependency of effects, cerebral blood flow changes, the differences expected in a range of disease states (e.g. the elderly, hypovolaemia, ischaemic heart disease), and clearly identified in vitro findings relevant to the clinical cardiovascular effects.
+
+A number of candidates provided correct, but irrelevant, information about the chemistry and anaesthetic effects of the two drugs.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Propofol](/content/pharmacopoeia/neuro/propofol.qmd)
+- [Ketamine](/content/pharmacopoeia/neuro/ketamine.qmd)

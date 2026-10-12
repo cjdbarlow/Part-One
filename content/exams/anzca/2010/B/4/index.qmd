@@ -1,0 +1,90 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010B Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly outline**]{.task-verb} the effects of sevoflurane on skeletal, smooth and cardiac muscle tissues. [**Include**]{.task-verb} how these effects are mediated and their clinical significance.
+:::
+
+Also asked in: [2015A Question 7](/content/exams/anzca/2015/A/7/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly outline**]{.task-verb} effects under the three muscle types and [**include**]{.task-verb} the mechanism and clinical significance alongside each effect. Distinguish cardiac muscle from vascular smooth muscle and cover skeletal relaxation as well as malignant hyperthermia.
+
+::: {.structure-headings}
+### Relevant Cellular Mechanisms
+
+### Skeletal Muscle Effects
+
+### Smooth Muscle Effects
+
+### Cardiac Muscle Effects
+
+### Clinical Significance
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**38%** of candidates passed this question.
+
+On first glance the question looks intimidating, as the exact mechanisms of these actions are complex. The mechanisms, however, were only part of the question. A systematic approach addressing each key issue easily scored enough marks to pass.
+
+Areas which could have been covered included:
+
+Skeletal muscle: Direct effect, interaction with muscle relaxants, malignant hyperpyrexia, effects on muscle blood flow.
+
+Smooth muscle: Effects on vascular smooth muscle, including regional circulations, the uterus and the bronchioles. More marks were awarded for understanding the clinical significance of these effects.
+
+Cardiac: The direct effect, the overall effect on the circulation, overall effects on myocardial work, ischaemic preconditioning and arrythmogenesis.
+
+Candidates often confused the direct effect of volatiles on skeletal muscle, the interaction with muscle relaxants, and surgical immobility. Many thought that the contraction of skeletal muscle was controlled by the sympathetic nervous system. The effects of sevoflurane on the pulmonary vasculature and hypoxic pulmonary vasoconstriction was poorly understood. The risks of sevoflurane were commonly overstated, particularly in the areas of coronary steal, myocardial ischaemia, heart rate, hypotension; as well as bleeding following Caesarean Section.
+
+The structure, physicochemical properties and anaesthetic uses of sevoflurane were not part of the question and so did not attract marks. The question was not an essay on malignant hyperpyrexia, the cerebral effects of sevoflurane, or muscle relaxants. We no longer use general anaesthesia for labour, nor is sevoflurane used for treatment of premature labour. Rewriting the question at the top of the paper is unnecessary.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2010/B/4/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2010/B/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational anaesthetic agents](/content/pharmacopoeia/neuro/inhalational_anaesthetic_agents.qmd)

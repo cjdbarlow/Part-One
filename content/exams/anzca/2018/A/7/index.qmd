@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018A Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Justify**]{.task-verb} dose of propofol you would expect to use to induce anaesthesia in the following scenarios using pharmacokinetic and pharmacodynamic principles.
+
+a. 4 year old child weighing 15kg (25%)
+b. 75 year old man weighing 70kg (25%)
+c. 40 year old man weighing 70kg with severe hypovolaemic shock (50%)
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Justify**]{.task-verb} a dose for each specified patient using induction kinetics and effect-site sensitivity. Relate central blood volume, cardiac output and cerebral delivery to dose, then explain cardiovascular risk and administration strategy in each scenario.
+
+::: {.structure-headings}
+### Induction Kinetics and Pharmacodynamic Principles
+
+### Four-Year-Old Child: Dose and Rationale
+
+### Older Man: Dose and Rationale
+
+### Severe Hypovolaemic Shock: Dose and Rationale
+
+### Administration, Titration and Cardiovascular Risk
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**63%** of candidates achieved a pass in this question
+
+To pass this question required documenting appropriate dosing regimens and justifying them using pharmacological principles. The induction dose of propofol is primarily dependent on the volume of the intravascular compartment, cardiac output and the brain sensitivity to the drug. Most candidates described appropriate doses and explained the altered volumes of distribution in each scenario. The effect of cardiac output on the apparent volume of distribution was poorly understood with most discussions being exclusively devoted to the effect on the duration of onset of action. Pharmacodynamic concerns particularly with regards to adverse cardiovascular effects were generally well noted. Pleasingly most candidates noted that propofol should be used with great caution in the shocked patient and a markedly reduced dose is indicated.
+
+Many candidates provided a generic list of pharmacokinetic and pharmacodynamic data for propofol which did not attract marks. A common misconception made was that alterations in clearance and metabolism affect induction doses. They do not. Many candidates asserted that an elderly patient would have a significantly reduced cardiac output. This is not the case in an elderly patient without co-morbidities. Several candidates erroneously suggested that cardiac output in a patient with severe hypovolaemic shock would be increased. Better answers addressed scenario (c) well and noted that the shocked patient has a markedly reduced intravascular compartment volume and cardiac output with preservation of normal CBF - consequently a larger proportion of their contracted blood volume is directed to a brain which has increased sensitivity to anaesthetic agents. Again, better candidates described how they would ameliorate the adverse pharmacodynamic effects of propofol in this scenario.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2018/A/7/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2018/A/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Propofol](/content/pharmacopoeia/neuro/propofol.qmd)

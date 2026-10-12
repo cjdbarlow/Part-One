@@ -1,0 +1,46 @@
+#### List:
+
+- Intro
+- Mechanisms
+- Special additives
+
+#### Intro:
+
++------------+----------------------------------------------------------+
+| Definition | - Exchange between dialysate and blood across a membrane |
++------------+----------------------------------------------------------+
+| Purpose    | - Maintain fluid, electrolyte, acid-base homeostasis     |
+|            | - Excrete metabolic waste                                |
++------------+----------------------------------------------------------+
+
+#### Mechanisms:
+
++--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Diffusion    | ![](/content/exams/anzca/2007/A/12/prize-image001.jpg){fig-alt="Fick diffusion equation showing concentration gradient and membrane and substance factors"} |
+|              |                                                                                                                                                             |
+|              | - Movement of solute from high concentration to low concentration                                                                                           |
+|              |   - Slow process                                                                                                                                            |
+|              | - Modulated by Gibbs-Donnan effect (?)                                                                                                                      |
+|              |   - Proteins are anionic, membrane-permeable and attract small cations e.g. Na^+^                                                                           |
+|              |   - (Not sure how this is relevant)                                                                                                                         |
++--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Osmosis      | - Movement of solvent from low osmolality to high osmolality                                                                                                |
+|              |   - Dialysate 400mOsm and hypertonic (mainly due to glucose)                                                                                                |
+|              |   - Plasma 290mOsm, by definition isotonic                                                                                                                  |
+|              |   - Osmolarity: number of osmotically active particles per L                                                                                                |
+|              |     - ≈= 2 x Na^+^ + urea + glucose                                                                                                                         |
+|              |   - Tonicity: effect of a solution on cell size (hypertonic → swelling)                                                                                     |
++--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Solvent drag | - Movement of solute due to bulk flow of solvent                                                                                                            |
+|              | - May allow movement of a substance against a concentration gradient                                                                                        |
++--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Special additives:
+
++---------+---------------------------------------------------------+
+| Lactate | - Metabolized by liver to produce HCO~3~^-^             |
+|         | - i.e. buffer for H^+^                                  |
++---------+---------------------------------------------------------+
+| Glucose | - Large amount                                          |
+|         | - Can cause hyperglycaemia, obesity, insulin resistance |
++---------+---------------------------------------------------------+

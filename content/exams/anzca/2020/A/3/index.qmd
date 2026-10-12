@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2020A Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} possible causes for the PaCO2 differing from the ETCO2 in an anaesthetised, intubated patient on IPPV.
+:::
+
+Also asked in: [2021B Question 10](/content/exams/anzca/2021/B/10/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} each cause by stating the direction of the difference and explaining its mechanism. Begin with normal values and alveolar dead space during IPPV, then separate incomplete emptying from measurement and sampling problems.
+
+::: {.structure-headings}
+### Normal Values and Alveolar Dead Space
+
+### Causes of Alveolar Dead Space During IPPV
+
+### Unequal Time Constants and Incomplete Emptying
+
+### Measurement and Calibration Errors
+
+### Sampling and Entrained Gas
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question examines a fundamental concept in general anaesthesia, which trainees are faced with on a daily basis. In order to achieve a pass mark, candidates needed to explain the most common reason for a difference between PaCO2 and ETCO2, which is the creation of alveolar dead space. It was expected that one or more causes of alveolar dead space during IPPV would be noted, as well as the mechanism linking alveolar dead space to a decreased ETCO2 being mentioned.
+
+In addition, candidates should have explained one further mechanism resulting in a difference (in either direction) between PaCO2 and ETCO2. Candidates who selected a cause which allowed them to show greater depth of understanding were more likely to pass. Higher marks were awarded for additional points which were correctly discussed. Commonly selected causes included heterogeneity of alveolar time constants (and their relationship to expiratory time), very low tidal volumes, collision broadening, overlapping of absorption spectra, entrainment of atmospheric air into the sample line, calibration problems, and problems related to ABG sampling. Finally, additional credit was given for recognition of the normal values for PaCO2 and ETCO2 in a healthy individual in both the awake state and also during IPPV. A very common error was the confusing of alveolar with anatomical dead space (often in combination with conflating ETCO2 with mixed expired PCO2, generally by misremembering or misunderstanding Bohr’s law or its modification). Another frequent mistake was attempting to use Fick’s law as a basis for generating a list of causes (as the high solubility of CO2 usually completely compensates for any perturbations in all the other factors identified by this law). Equally frequent was the erroneous belief that shunt can cause a significant discrepancy between PaCO2 and ETCO2. Other common errors included claiming that an increased production rate of CO2 (through a number of mechanisms) would lead to a difference; or that increased FiCO2 does also. Marks were often lost through candidates’ use of directionless statements, and listing rather than discussing causes. A number of candidates wasted time on irrelevant material such as the transport of CO2 in the blood, while others drew multiple graphs which they did not then use to display any understanding of the topic.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2020/A/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Dead space](/content/resp/dead_space.qmd)

@@ -1,0 +1,142 @@
+#### List:
+
+- Intro
+- Anatomy
+- Lung volumes
+- Mechanics
+- Resistance and compliance
+- Ventilation and perfusion
+- Gas exchange
+- Disease: OSA, OHS
+
+#### Intro: morbid obesity
+
++-----------------+------------------------------------------------------------------------------------+
+| Definition      | - BMI \>35kg/m2                                                                    |
++-----------------+------------------------------------------------------------------------------------+
+| Overall effect  | - ↑Resp demand                                                                     |
+|                 | - ↓Resp reserve                                                                    |
++-----------------+------------------------------------------------------------------------------------+
+| Pathophysiology | (1) Mass effect (ME)                                                               |
+|                 |     - Compression of neck, chest                                                   |
+|                 |     - Displacement of diaphragm                                                    |
+|                 |     - Worse if male (↑central and visceral fat)                                    |
+|                 |     - Better if female (↑peripheral and subcut fat)                                |
+|                 | (2) ↑Metabolic rate (↑MR)                                                          |
+|                 |     - Due to ↑muscle (\~20% of extra mass) \> ↑fat (\~80% of extra mass)           |
+|                 | (3) Adipokines from visceral fat (AK)                                              |
+|                 |     - Mostly pro-inflammatory: leptin, TNFα, IL6, resistin, angiotensinogen, PAI-1 |
+|                 |     - Some anti-inflammatory: adiponectin                                          |
++-----------------+------------------------------------------------------------------------------------+
+
+#### Anatomy:
+
++--------------+------------------------------------------------------------+
+| Upper airway | - ME → ↓Radius → ↑resistance                               |
+|              | - ME → ↓ROM head and neck                                  |
+|              |                                                            |
+|              |     →↑risk OSA, OHS, obstruction when sedated              |
+|              |                                                            |
+|              |     →↑*risk difficult bag/mask ventilation and intubation* |
++--------------+------------------------------------------------------------+
+| Lower airway | - ME → ↓lung volume → ↓airway radius → ↑resistance         |
+|              | - AK → airway inflammation → ↑resistance                   |
+|              |                                                            |
+|              | *    →↑airway pressure*                                    |
+|              |                                                            |
+|              | *    →↑risk gas trapping*                                  |
++--------------+------------------------------------------------------------+
+
+#### Lung volumes:
+
++---------+------------------------------------------------------------------------------+
+| Static  | - ME → ↓chest wall compliance → ↓TLC, RV, FRC (e.g. ↓25% if erect at BMI 30) |
+|         | - Worse if supine, under GA                                                  |
+|         | - If FRC \< closing capacity: small airway closure → ↑shunt                  |
+|         |                                                                              |
+|         | *    → ± supine hypoxaemia*                                                  |
+|         |                                                                              |
+|         | *    → Rapid desaturation after induction*                                   |
++---------+------------------------------------------------------------------------------+
+| Dynamic | - ME → ↓chest wall compliance → ↓FVC                                         |
+|         | - ME → ↑resistance → ↓FEV1                                                   |
+|         | - ↑MR → ↑V~T~ 20%                                                            |
++---------+------------------------------------------------------------------------------+
+
+#### Breathing mechanics:
+
++-------------+-------------------------------------------------------+
+| Restriction | - ME → ↓chest wall compliance                         |
+|             |                                                       |
+|             | *    →↑Work of breathing (WOB)*                       |
+|             |                                                       |
+|             | *    →Severely impaired ventilation if Trendelenburg* |
++-------------+-------------------------------------------------------+
+| Obstruction | - ME → ↓airway radius                                 |
+|             | - AK → airway inflammation                            |
+|             |                                                       |
+|             | *    →↑WOB*                                           |
++-------------+-------------------------------------------------------+
+
+#### Alveolar time constants: T = R x C
+
++------------+-------------------------------------------------------------------------------------+
+| Resistance | - ↑R due to ME, AK as above                                                         |
++------------+-------------------------------------------------------------------------------------+
+| Compliance | - ↓C: due to ME → ↓lung volume → ↓alveolar radius (Tension = pressure x radius / 4) |
++------------+-------------------------------------------------------------------------------------+
+| T          | - ↑Variability                                                                      |
+|            |                                                                                     |
+|            | *    →↑slope phase 3 capnogram*                                                     |
+|            |                                                                                     |
+|            | *    →↑peak-plateau pressure difference*                                            |
++------------+-------------------------------------------------------------------------------------+
+
+#### Ventilation and perfusion:
+
++---+------------------------------------------------------------------------------------+
+| V | - ↑MR → ↑RR 40%, ↑TV 25%                                                           |
+|   | - Accessory muscle use at rest                                                     |
+|   |                                                                                    |
+|   | *    →↑WOB further*                                                                |
+|   |                                                                                    |
+|   | *    →↓reserve if unwell e.g. pneumonia, exercise*                                 |
++---+------------------------------------------------------------------------------------+
+| Q | - ↑MR → ↑cardiac output                                                            |
+|   | - ± Risk OSA/OHS → chronic ↓PaO~2~ → +/- pulmonary hypertension                    |
+|   |                                                                                    |
+|   | *    →Risk RV failure peri-op (e.g. spont vent sedation → ↑PaCO2 → ↑↑PA pressure)* |
++---+------------------------------------------------------------------------------------+
+
+#### Gas exchange:
+
++---------------+----------------------------------------+
+| ↓V/Q matching | - FRC below closing capacity → shunt   |
++---------------+----------------------------------------+
+| ABG changes   | - ↓PaO~2~ (if shunt)                   |
+|               | - ↑PaCO~2~ (if OHS)                    |
+|               | - ↑HCO~3~^-^ (can be very high if OHS) |
+|               | - pH usually normal if chronic process |
++---------------+----------------------------------------+
+
+#### Disease:
+
++-----+-----------------------------------------------------------------------------+
+| OSA | - ME + sleep → airway collapse → ↓PaO~2~ → ↑SNS activity → arousal → repeat |
+|     |                                                                             |
+|     | *    →↓Sensitivity to ↓PaO~2~*                                              |
+|     |                                                                             |
+|     | *    →↑Risk obstruction and apnoea peri-op*                                 |
+|     |                                                                             |
+|     | *    →↑↑Risk with opioids, benzodiazepines*                                 |
+|     |                                                                             |
+|     | *    →15% have pulmonary hypertension*                                      |
++-----+-----------------------------------------------------------------------------+
+| OHS | - ME → ↑WOB → ↓VA → chronic ↑PaCO~2~                                        |
+|     |                                                                             |
+|     | *    →↓Sensitivity to ↑PaCO~2~*                                             |
+|     |                                                                             |
+|     | *    →Reliant on hypoxic stimulus (ablated by volatile anaesthetics)*       |
+|     |                                                                             |
+|     | *    →50% have pulmonary hypertension*                                      |
++-----+-----------------------------------------------------------------------------+

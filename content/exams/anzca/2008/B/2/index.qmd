@@ -1,0 +1,85 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008B Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the pharmacokinetic principles of total intravenous anaesthesia using propofol.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} how loading, redistribution and metabolism determine changing infusion requirements. Use a compartment diagram and concentration–time curve to connect induction, maintenance and cessation to what the infusion pump delivers.
+
+::: {.structure-headings}
+### Target Concentration and Compartment Model
+
+### Loading Dose and Effect-Site Equilibration
+
+### Early Maintenance and Redistribution
+
+### Later Maintenance and Clearance
+
+### Cessation and Recovery
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**52%** of candidates passed this question.
+
+The essence of the question is for candidates to relate knowledge of the pharmacokinetics of propofol to what is being observed when propofol is being administered for total intravenous anaesthesia. So it is important to explain why the rates of infusion vary at differing times such as at commencement, slightly after commencement and after a long period of infusion through reference to how the body is dealing with propofol.
+
+There are many facts, diagrams and equations that attracted marks relating to propofol but the better marks were reserved for candidates who pointed out the significance of this information to what is happening with the syringe driver. It should be pointed out that candidates who chose to explain pharmacokinetic behaviour in relation to total intravenous anaesthesia(TIVA) using only prose were not penalised if their explanations were clear and indicated an appropriate depth of knowledge.
+
+The most points that attracted marks included brief definition of the goal of TIVA i.e. to reach and maintain a central compartment serum or effect site concentration of propofol at a level adequate for anaesthesia, descriptions, diagrams and equations which dealt with the importance of an initial infusion providing a loading dose given high lipid solubility and central compartment volume of distribution, then the need to allow for redistribution and metabolism and then largely metabolism alone to maintain a steady serum or effect site concentration. Also descriptions of how propofol behaves pharmakokinetically when TIVA is ceased received credit, as well as details of its clearance.
+
+Propofol is a highly important drug critical to the practice of anaesthesia so a relatively high standard was expected.
+
+It is advisable that candidates not waste valuable time drawing molecules of propofol or writing long introductions that don’t deal directly with the question that was asked.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2008/B/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Propofol](/content/pharmacopoeia/neuro/propofol.qmd)
+- [Target-controlled infusion](/content/pharmacology/tci.qmd)

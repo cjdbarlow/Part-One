@@ -1,0 +1,102 @@
+#### List:
+
+- Morbid obesity
+- Emergence modelling
+- Final end-tidal partial pressure
+- Elimination from V1
+- MAC-awake
+
+#### Morbid obesity:
+
++--------------------------------------------+--------------------------------------------------------------------+
+| Definition                                 | - BMI \>35kg/m^2^ body surface area                                |
++--------------------------------------------+--------------------------------------------------------------------+
+| Changes                                    | - ↑Lean mass (20% of excess) → ↑BMR, ↑cardiac output, ↑V~A~        |
+|                                            | - ↑Fat mass (80% of excess), cephalad diaphragm displacement, ↓FRC |
+|                                            | - Inflammatory cytokines → ↓MAC                                    |
++--------------------------------------------+--------------------------------------------------------------------+
+| Overall effects on time to emergence (TTE) | - Short case: ↑distribution rate → ↓time to emergence (TTE)        |
+|                                            | - Long case: ↑uptake → ↑TTE\                                       |
+|                                            |   \                                                                |
+|                                            | - Washout of drug is invariably slower                             |
++--------------------------------------------+--------------------------------------------------------------------+
+| Implications                               | - Prefer desflurane → ↓accumulation (mainly due to lean mass)      |
+|                                            | - Prefer adjuvants → ↓MAC → ↓accumulation                          |
++--------------------------------------------+--------------------------------------------------------------------+
+
+#### Emergence modelling:
+
++----------------------+---------------------------------------------------------------------------------------------------------------------+
+| Determinants of TTE  | 1.  Final partial pressure in effect site prior to washout                                                          |
+|                      | 2.  Rate of elimination from V~1~                                                                                   |
+|                      | 3.  Partial pressure in V~1~ associated with emergence (MAC-awake)                                                  |
++----------------------+---------------------------------------------------------------------------------------------------------------------+
+| Kinetic model        | ![](/content/exams/anzca/2015/B/5/prize-image001.jpg){fig-alt="Five-compartment inhalational anaesthetic model"}    |
+|                      |                                                                                                                     |
+|                      | Equilibration time constants:                                                                                       |
+|                      |                                                                                                                     |
+|                      | - τ= 1/k                                                                                                            |
+|                      | - τ= **(V x** **λ) / Q**                                                                                            |
+|                      | - (V = volume of tissue, λ = tissue: blood partition coefficient, Q = blood flow)                                   |
+|                      |                                                                                                                     |
+|                      | Significant effects of MO:                                                                                          |
+|                      |                                                                                                                     |
+|                      | - ↑Cardiac output but tissue blood flow per unit mass                                                               |
+|                      | - ↑V~2~, V~3~ → ↑TTE after moderate duration case                                                                   |
+|                      | - ↑↑V~5~ → ↑TTE after long duration case                                                                            |
++----------------------+---------------------------------------------------------------------------------------------------------------------+
+| Washout curve        | ![](/content/exams/anzca/2015/B/5/prize-image002.jpg){fig-alt="Washout curves comparing normal and obese patients"} |
++----------------------+---------------------------------------------------------------------------------------------------------------------+
+| Putative effect site | - Ascending reticular activating system, thalamus frontal cortex                                                    |
+|                      | - Concentration correlates with that in V~1~                                                                        |
+|                      | - May not be included in kinetic model                                                                              |
+|                      | - Rate of equilibration between effect site and VRG ∝                                                               |
+|                      |   - Blood flow to brain per unit mass (not % cardiac output to brain)                                               |
+|                      |   - 1/(brain-blood partition coefficient)                                                                           |
++----------------------+---------------------------------------------------------------------------------------------------------------------+
+
+#### 1.Final end-tidal partial pressure: (factors decreasing it)
+
++----------+-------------------------------------------------------------------+
+| Infusion | - ↓Duration (MO: difficult surgery)                               |
+|          | - ↓Inspired % (MO: ↑uptake hence ↑inspired % for given expired %) |
++----------+-------------------------------------------------------------------+
+| Drug     | - ↑Tissue:blood partition coefficients (MO ↑ as above)            |
+|          |   - ↑Muscle:blood PC (sevo 3.1, des 2.0, iso 2.9)                 |
+|          |   - ↑Fat:blood PC (sevo 48, des 27, iso 45)                       |
+|          | - ↓MAC (MO: cytokines → ↓)                                        |
+|          |   - Correlates with ↓oil:gas PC (sevo 80, des 29, iso 98)         |
+|          | - ↑Metabolism (MO: +/- liver disease → ↓)                         |
++----------+-------------------------------------------------------------------+
+| Patient  | - ↑Cardiac output (MO ↑)                                          |
+|          | - ↑Tissue volumes (MO ↑)                                          |
++----------+-------------------------------------------------------------------+
+
+#### 2.Elimination from V1: (factors accelerating it)
+
++------------+----------------------------------------------------------+
+| Short case | Offset during distribution phase:                        |
+|            |                                                          |
+|            | - ↑Cardiac output (MO ↑)                                 |
+|            | - ↑Tissue:blood PC (MO ↑)                                |
+|            | - ↑Compartment volumes (MO ↑)                            |
++------------+----------------------------------------------------------+
+| Long case  | Offset during terminal elimination phase:                |
+|            |                                                          |
+|            | - ↓Cardiac output (MO ↑)                                 |
+|            | - ↓Tissue:blood PC (MO ↑                                 |
+|            | - ↓Compartment volumes (MO ↑)                            |
+|            | - ↑Metabolism (MO: +-/ liver disease → ↓)                |
+|            | - ↑Excretion (MO: complex effect on V~A~:FRC ratio)      |
+|            |   - ↑metabolic rate → ↑VCO~2~ → ↑awake ventilation; but  |
+|            |   - ↓Chest wall compliance → ↓ventilation under GA       |
+|            |   - ↓Chest wall compliance → ↓↓FRC under GA and supine;\ |
+|            |     ↓lung volume → ↓lung compliance                      |
++------------+----------------------------------------------------------+
+
+#### 3.MAC awake: (normal \~0.33)
+
++-----------------+---------------------------------------------------------------------+
+| Patient factors | - ? Adipokines → ↓MAC-awake                                         |
+|                 | - ? Sleep-disordered breathing → ↑narcotic sensitivity → ↓MAC-awake |
++-----------------+---------------------------------------------------------------------+

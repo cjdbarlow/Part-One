@@ -1,0 +1,115 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005A Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} how the body handles a metabolic acidosis.
+:::
+
+Also asked in: [2007A Question 11](/content/exams/anzca/2007/A/11/index.qmd#examiner-comments), [2021A Question 14](/content/exams/anzca/2021/A/14/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} handling as linked processes with different time courses: dilution, intracellular and extracellular buffering, respiratory compensation and renal removal of fixed acid. Use balanced equations to connect bicarbonate recycling, titratable acid and ammonium excretion.
+
+::: {.structure-headings}
+### Dilution and Intracellular Buffering
+
+### Extracellular Buffering
+
+### Respiratory Compensation and Its Limits
+
+### Renal Bicarbonate Recycling
+
+### Titratable Acid and Ammonium Excretion
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**38 %** of candidates passed this question.
+
+Main points for a pass:
+
+- Metabolic acidosis definition and example of a cause
+- Description of rapidly acting mechanisms
+    - Dilution/respiratory compensation/extracellular and intracellular buffers
+- Process of acid excretion
+    - Renal excretion of acid load
+        - Regeneration of bicarbonate
+        - Formation of titratable acid
+        - Ammonia/ammonium secretion and excretion
+
+Extra marks were awarded for:
+
+- Recognising that respiratory compensation will not excrete a metabolic acid
+- Recognition that free unbound hydrogen ions cannot be excreted
+- Aldosterone effect on hydrogen ion excretion
+- Role of urinary ketones in removing acid
+- Route of lactate oxidation and conversion to pyruvate
+- Value of ammonium excretion in removing acid
+- Specific details of ammonia/ammonium secretion and excretion with bicarbonate generation
+
+Common omissions:
+
+- Definition of metabolic acidosis
+- Importance of bone buffering
+- Listing, without explaining, how specific buffers function
+- The limitation of respiratory compensation in dealing with fixed acids
+- Explanation of the mechanism of bicarbonate reabsorption by the kidney
+
+Common mistakes:
+
+- Use of abbreviations that were difficult to decipher
+- Repetition of the same point doesn’t gain more marks
+- Inaccurate descriptions of the renal mechanisms of bicarbonate conservation and hydrogen ion secretion
+- Details of the physiological effects of acidosis on organ systems did not attract marks
+- Additional marks were not awarded for pH or buffer definitions
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2005/A/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Buffer systems](/content/acid_base/buffers.qmd)
+- [Acid–base compensation](/content/acid_base/compensation.qmd)
+- [Renal acid–base handling](/content/renal/acid_base.qmd)

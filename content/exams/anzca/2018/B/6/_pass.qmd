@@ -1,0 +1,47 @@
+A massive transfusion (MT) is where a transfusion of:
+
+- Greater than 50% of circulating volume is received in 4 hours, or
+- Whole Circulating Volume is received in 24 hours 
+- 40ml/kg in paediatric patients
+
+Risk of complications is associated with 
+
+- number of units received
+- rate of transfusion
+- patient factors
+
+**Potential Complications / Adverse Effects include:**
+
+**Storage Lesion effects**
+
+PRB stored at 4°C for up to 35 days causes PRBC to undergo changes such as::
+
+- Loss of  2,3 DPG
+- Haemolysis
+- Acidaemia 
+- Hyperkalaemia
+- Hypo calcaemic → if stored with citrate 
+- Processed RBC are low in clotting factors since plasma removed 
+
+Effects of MT due to storage lesion: 
+
+- Dilutional coagulopathy, proportionally low in platelets and clotting factors
+- Acidaemia 
+- Electrolyte changes (particularly K+ and Ca2+)
+- Hypothermia 
+
+**Overload:**
+
+- each PRBC unit = approx. 250-350ml of fluid →↑ preload →↑risk of heart failure 
+- Haemolysis →↑ free iron →↑ risk of iron overload 
+
+**Immunological Effects:**
+
+- Anaphylaxis: Type I hypersensitivity reaction to plasma protein in transfused unit
+- TRALI: Acute onset of immune mediated non-cardiogenic pulmonary oedema within 6hrs of transfusion
+- Febrile non-haemolytic: Cytokine release from stored cells causing a mild inflammatory reaction
+- Febrile Haemolytic: Immunological destruction of transfused cells (Type II hypersensitivity).
+
+Contamination:
+
+- Risk of infection of sepsis due to contaminated collection, storage or administration of unit

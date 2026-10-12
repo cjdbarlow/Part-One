@@ -1,0 +1,66 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002B Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the functions of renin and angiotensin.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} **Renin**, **Formation of Angiotensin II**, and **Actions of Angiotensin II**. Connect the sequence to vascular, renal, thirst and hormonal effects.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**46%** of candidates passed this question.
+
+The function of renin is to convert angiotensinogen to angiotensin I. Angiotensin I is converted to the active angiotensin II by angiotensin converting enzyme (which is found principally in pulmonary endothelium, but also in many other organs). Angiotensin II has direct vasocontrictor and direct renal effects, and also stimulates thirst, as well the release of antidiuretic hormone and aldosterone. The overall effect is to retain salt and water. Additional marks were awarded for a more detailed information on the structure of renin and angiotensin I and II, where and how they are produced, and where and how they produce their effects.
+
+Some answers included a discussion of antidiuretic hormone and aldosterone physiology which was not relevant. The most common weakness in answers was the omission of basic aspects of the renin-angiotensin system.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Endocrine Functions of the Kidney](/content/renal/endocrine.qmd)

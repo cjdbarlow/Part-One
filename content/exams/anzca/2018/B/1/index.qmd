@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2018B Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the principles (50%) and sources of error (50%) in the measurement of arterial blood pressure using an automated oscillometric non-invasive monitor.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} measurement and sources of error with equal emphasis. Trace cuff inflation, pressure transmission and signal analysis, then explain how each patient or equipment factor alters the signal or prevents a reading.
+
+::: {.structure-headings}
+### Components and Pressure Transmission
+
+### Cuff Deflation and Oscillation Amplitude
+
+### Mean, Systolic and Diastolic Pressure Estimation
+
+### Patient-Related Sources of Error
+
+### Cuff, Positioning and Equipment Errors
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**42%** of candidates achieved a pass in this question
+
+Candidates should be thoroughly familiar with non-invasive blood pressure monitoring as is used in essentially all patients in their care. To pass, candidates first needed to demonstrate an understanding of the principles of oscillometric blood pressure monitoring. A surprising number of candidates conflated the workings of this monitor with the auscultatory use of a sphygmomanometer with detailed descriptions of Korotkoff sounds. This is despite the question using the term “oscillometry” to minimise confusion. Many answers that demonstrated some understanding of the basic principles of this monitor made key errors in the description of its operation. These included:
+
+- How systolic or diastolic pressures are measured or estimated
+- Where the pressure transducer is located. Although early devices placed the transducer within the cuff this is incorrect for modern machines currently in use. Absence of an electrical connection between the cuff and the blood pressure module should have given some clue to its location.
+- Confusing oscillations (i.e. pressure waves) with turbulent and laminar flow
+
+Better answers included an explanation of why mean arterial pressure is most accurately measured and why systolic and diastolic pressures less so. An accurate diagram scored well, but was not essential for a pass. The second part of the question was requesting a description of sources of errors with use of this monitor. Although most candidates could list types of error associated with this device, few actually described how they arose or provided vague explanations instead. For example, an explanation that atrial fibrillation resulted in “variable pulse pressures and therefore oscillations” is a better explanation than “makes it difficult for the machine to read.” Few candidates differentiated between errors that gave no reading such as tube disconnection from those that resulted in an inaccurate reading such as from an incorrect cuff size. Descriptions of types of error from more than one source were required for a pass. No marks were awarded for describing advantages and disadvantages or complications associated with use of this device unless it was convincingly linked to errors associated with.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2018/B/1/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2018/B/1/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Non-invasive blood pressure](/content/equipment/nibp.qmd)

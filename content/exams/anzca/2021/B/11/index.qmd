@@ -1,0 +1,74 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2021B Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the physiological effects of acute hypercapnia, caused by hypoventilation.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} how carbon dioxide retention and the resulting acidosis alter organ function. Separate direct effects from reflex or compensatory responses, and keep the discussion tied to acute hypoventilation.
+
+::: {.structure-headings}
+### Carbon Dioxide Retention and Acute Acid–Base Change
+
+### Cardiovascular Effects
+
+### Respiratory Effects and Oxygenation
+
+### Cerebral Blood Flow and Consciousness
+
+### Buffering and Compensation
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+No examiner report was supplied for this sitting.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2021/B/11/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Effects of carbon dioxide](/content/resp/co2_effects.qmd)

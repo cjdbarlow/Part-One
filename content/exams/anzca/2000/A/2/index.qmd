@@ -1,0 +1,62 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000A Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the factors that influence the partial pressure of oxygen in mixed venous blood?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} **Mixed Venous Blood and Sampling**, **Oxygen Content and Partial Pressure**, and **Determinants in the Fick Relationship**. Relate arterial oxygen content, oxygen consumption, cardiac output and the dissociation curve to mixed venous oxygen tension.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**56%** of candidates passed this question. It was apparent that candidates had difficulty in sourcing from the relevant areas of respiratory and cardiovascular physiology to present an adequate answer. The following areas were explored in the better answers. A definition of “mixed venous” including sampling site. The relationship between PO~2~ and O~2~ content in mixed venous blood. For any mixed venous O~2~ content the mixed venous PO~2~ is dependant on the shape of the haemoglobin-oxygen dissociation curve. A right shifted HbO~2~ curve increases mixed venous PO~2~. Most candidates wrongly stated the reverse. Some candidates interpreted this as a question on the HbO~2~ dissociation curve and the factors that shift it. This was only a small part of the answer. Also expected was the relationship between mixed venous O~2~ content, arterial O~2~ content, oxygen consumption and cardiac output. All are related by modification of the Fick equation:CvO~2~=CaO~2~-VO2/Q. Any factor which affects CaO~2~, VO~2~ or Q will ultimately affect mixed venous PO~2~. Of note is the reciprocal relationship between oxygen extraction and cardiac output. As cardiac output falls, O~2~ extraction increases and mixed venous PO~2~ falls. Arterial O~2~ content is also an important determinant of mixed venous PO~2~. However, some candidates produced a lengthy description of all the factors affecting PaO~2~ or even drew the oxygen cascade which was not required. A common error was to relate the factors described to the mixed venous O~2~ content or saturation rather than partial pressure. Terms such as content and concentration were often confused with each other, as were tension and saturation.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Oxygen Cascade](/content/resp/oxygen_cascade.qmd)

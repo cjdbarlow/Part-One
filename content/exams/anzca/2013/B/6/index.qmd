@@ -1,0 +1,96 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013B Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the breakdown of haemoglobin after red cell lysis.
+:::
+
+Also asked in: [2000A Question 8](/content/exams/anzca/2000/A/8/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} the pathway from red cell lysis to recycling or excretion, separating the fates of globin, iron and haem.
+
+::: {.structure-headings}
+### Haemoglobin Structure and Sites of Breakdown
+
+### Globin and Iron Recycling
+
+### Haem to Bilirubin
+
+### Hepatic Conjugation and Biliary Excretion
+
+### Enterohepatic Circulation and Final Excretion
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**40.1%** of candidates achieved a pass in this question
+
+In general, the key points that attracted the majority of marks included:
+
+- an accurate description of the structure of haemoglobin
+
+- the sites of haemoglobin breakdown
+
+- an explanation of the subsequent metabolism of iron, haem and globin
+
+- the fate of iron released during haem metabolism
+
+- the pathway of haem breakdown - into biliverdin and then bilirubin, transport of bilirubin to the liver, conjugation of bilirubin, and subsequent excretion in bile
+
+- a description and explanation of enterohepatic circulation
+
+- ultimately excretion of urobilinogen and stercobilinogen
+
+Better answers often included a well labelled diagram and explanatory notes that further demonstrated understanding of each stage of haemoglobin metabolism. Extra marks were awarded for a description of proteins and enzymes involved in the metabolic pathways, mentioning the production of carbon monoxide due to haem metabolism, demonstrating understanding of the significance of bilirubin conjugation, and the function of the breakdown products. Common errors included – poor (and often incorrect) description of haemoglobin structure, long descriptions of haemoglobin and red cell function (which did not attract marks), incorrect descriptions and a lack of understanding of the haem metabolic pathways, and not discussing iron or globin metabolism.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2000/A/8/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2000/A/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Erythrocytes](/content/haeme/erythrocytes.qmd)
+- [Iron](/content/haeme/iron.qmd)
+- [Bile](/content/git/bile.qmd)

@@ -1,0 +1,75 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001B Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the main difference between the intrinsic and extrinsic pathways of coagulation.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} the differences in a comparison table, with a labelled cascade to show initiation, amplification and interactions between the pathways.
+
+::: {.structure-table}
+| Feature | Intrinsic Pathway | Extrinsic Pathway |
+|---|---|---|
+| Initiation and Factors | | |
+| Role In Vivo | | |
+| Speed and Amplification | | |
+| Interactions and Inhibitors | | |
+| Deficiencies and Laboratory Tests | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**41%** of candidates passed this question. The main points expected in the answer included an account of the coagulation factors involved, a sketch of the pathways demonstrating the cascades of factor activation, and the co-factors involved. Also required was an account of what initiates or triggers the pathways of coagulation, the relative importance of the pathways in vivo, and how blood may coagulate in other settings, such as in a test tube. Additional marks were awarded for information regarding the relative speed of the pathways, interaction between the pathways, implications of specific factor deficiencies, the tests used to measure the activity of the pathways (including how these tests are performed), and where anticoagulants such as heparin and warfarin act. The few candidates who described how sepsis and inflammation activate coagulation received additional marks.
+
+Common errors were confusion about what the intrinsic and extrinsic pathways of coagulation are, the triggering mechanisms involved, and the relative importance of the pathways in vivo. Some candidates spent time giving accounts of other aspects of haemostasis at the expense of providing information about the intrinsic and extrinsic pathways of coagulation.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2001/B/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Coagulation](/content/haeme/clotting.qmd)
+- [Coagulation testing](/content/haeme/coag_testing.qmd)

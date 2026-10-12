@@ -1,0 +1,46 @@
+\*Note increased bleeding risk is a potential side effect of all\*
+
++------------------------+-------------------------------------------------------------------------------------+---------------------------------------------------------------------+
+|                        | **Pharmacodynamics:**                                                               | **Pharmacokinetics:**                                               |
+|                        |                                                                                     |                                                                     |
+|                        | Mechanism of action (MoA)                                                           | Metabolism (M)                                                      |
+|                        |                                                                                     |                                                                     |
+|                        | Side effects (SE)                                                                   | Excretion (E)                                                       |
+|                        |                                                                                     |                                                                     |
+|                        |                                                                                     | Duration (D)                                                        |
++========================+=====================================================================================+=====================================================================+
+| Aspirin (irreversible) | - MoA: Irreversible COX1&2 acetylation                                              | - M: 80% (liver)                                                    |
+|                        | - ↓TXA~2~ production in platelet                                                    | - E: 20% (kidney)                                                   |
+|                        | - Minimal effect on endothelial PGI~2~ at low dose                                  | - D: 7 days (new platelets)                                         |
+|                        | - SE: bleeding peptic ulcer, nausea, Reye’s syndrome, toxicity → metabolic acidosis |                                                                     |
++------------------------+-------------------------------------------------------------------------------------+---------------------------------------------------------------------+
+| Dipyridamole           | - MoA: PDE inhibition → ↑cAMP                                                       | - M: live                                                           |
+|                        | - MoA: potentiate PGI~2~                                                            | - E: bile                                                           |
+|                        | - SEs: bleeding headache, hypotension                                               | - D: t~1/2~~β~ 10 hours → BD dose                                   |
++------------------------+-------------------------------------------------------------------------------------+---------------------------------------------------------------------+
+| Clopidogrel            | - Prodrug with active thiol metabolite                                              | - M: 50% (2C19)                                                     |
+|                        | - MoA: irreversible P2Y~12~ ADP receptor antagonist (ADPRA)                         | - E: 50% (renal)                                                    |
+|                        | - SE: bleeding, risk of failure (2C19 polymorphism)                                 | - D: 7 days                                                         |
++------------------------+-------------------------------------------------------------------------------------+---------------------------------------------------------------------+
+| Ticlopidine            | - Prodrug                                                                           | - M: liver                                                          |
+|                        | - MoA: irreversible P2Y~12~ ADPRA                                                   | - E: urine \> bile                                                  |
+|                        | - SE: bleeding, TTP                                                                 | - D: 7 days                                                         |
++------------------------+-------------------------------------------------------------------------------------+---------------------------------------------------------------------+
+| Ticagrelor             | - MoA: Reversible P2Y~12~ ADPRA                                                     | - M: hepatic CYP3A4, 3A5                                            |
+|                        | - Has an equipotent metabolite                                                      | - E: bile \> urine                                                  |
+|                        | - SE: bleeding, dyspnoea (esp if asthma)                                            | - D: 2 days                                                         |
++------------------------+-------------------------------------------------------------------------------------+---------------------------------------------------------------------+
+| Abciximab              | - MoA: GPIIbIIIa mAb antagonist                                                     | - M&E: reticulo-endothelial system                                  |
+|                        | - SE: bleeding, ↓plt                                                                | - D: 2 days (prolonged binding)                                     |
++------------------------+-------------------------------------------------------------------------------------+---------------------------------------------------------------------+
+| Tirofiban              | - MoA: GPIIbIIIa inhibitor                                                          | - M: nil                                                            |
+|                        | - SE: bleeding, ↓plt                                                                | - E: 66% urine, 33% bile                                            |
+|                        |                                                                                     | - D: 8 hours                                                        |
++------------------------+-------------------------------------------------------------------------------------+---------------------------------------------------------------------+
+| Prostacyclin           | - MoA: G~s~ GPCR → ↑cAMP → inhibit activation                                       | - M: liver, kidney, lung                                            |
+|                        |                                                                                     | - D: very short (t~1/2~~β~ 6 minutes)                               |
++------------------------+-------------------------------------------------------------------------------------+---------------------------------------------------------------------+
+| Dextrans               | - MoA: ↓von Willebrand factor                                                       | - M: nil?                                                           |
+|                        | - SE: anaphylaxis, impair blood cross matching                                      | - E: renal                                                          |
+|                        |                                                                                     | - Duration: 6-8 hours for volume expansion, ? antiplatelet duration |
++------------------------+-------------------------------------------------------------------------------------+---------------------------------------------------------------------+

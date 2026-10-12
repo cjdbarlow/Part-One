@@ -1,0 +1,67 @@
+*List:*
+
+- PC
+- PK
+- PD
+
+#### Physicochemical:
+
++-------------------+---------------------------------------------------------+
+| Structure         | - Basic cationic polypeptides                           |
+|                   | - Derived from salmon sperm                             |
++-------------------+---------------------------------------------------------+
+| Presentation      | - Aqueous solution                                      |
+|                   | - 50mg in 5mL protamine sulfate                         |
++-------------------+---------------------------------------------------------+
+| Incompatibilities | - With some antibiotics: penicillins and cephalosporins |
++-------------------+---------------------------------------------------------+
+
+#### Pharmacokinetics:
+
++----------------+----------------------------------------------------------------------------+
+| Administration | - 1mL (10mg) protamine per 1mL (1,000 units) heparin                       |
++----------------+----------------------------------------------------------------------------+
+| Time course    | - Onset: within 5 minutes                                                  |
+|                | - Duration: 2-3 hours                                                      |
++----------------+----------------------------------------------------------------------------+
+| Distribution   | - V~D~ \<0.1L/kg                                                           |
++----------------+----------------------------------------------------------------------------+
+| Metabolism     | - Heparin-protamine complex broken down in the reticulo-endothelial system |
+|                | - Cl 20mL/kg/min                                                           |
+|                | - t~1/2~~β~ 60 mins (cf. heparin 90 mins)                                  |
++----------------+----------------------------------------------------------------------------+
+| Excretion      | - Urine                                                                    |
++----------------+----------------------------------------------------------------------------+
+
+#### Pharmacodynamics:
+
++--------------------------+--------------------------------------------------------------------------------+
+| Mechanism                | - Protamine (basic cationic) + heparin (acidic anionic) → stable salt complex  |
+|                          | - Neutralises high MW but not low MW heparins                                  |
+|                          |   - UFH \~100%                                                                 |
+|                          |   - LMWH \~60%                                                                 |
+|                          |   - Fondaparinux 0%                                                            |
+|                          | - Indirectly restores activity of antifactors IIa, Xa (also VIIa/TF, IXa, XIa) |
++--------------------------+--------------------------------------------------------------------------------+
+| Haemostatic side effects | - Inconsistent reversal of Xa inhibition                                       |
+|                          |   - Doesn’t neutralize low MW heparins present in UFH                          |
+|                          | - Re-heparinisation                                                            |
+|                          |   - Shorter half life than heparin                                             |
+|                          | - Anticoagulation if excessive                                                 |
+|                          |   - Interactions with platelets, fibrinogen                                    |
++--------------------------+--------------------------------------------------------------------------------+
+| Other side effects       | - Systemic hypotension                                                         |
+|                          |   - If rapid infusion                                                          |
+|                          | - Pulmonary hypertension +/- RV failure                                        |
+|                          |   - TXA~2~ release, complement activation                                      |
+|                          |   - Especially if rapid infusion                                               |
+|                          | - Non-cardiogenic pulmonary oedema                                             |
+|                          |   - Cause: ? TXA~2~ ? complement ? histamine                                   |
+|                          | - Anaphylaxis:                                                                 |
+|                          |   - IgE mediated                                                               |
+|                          |   - Sensitisation: Ag on APC → T cell → B cell → IgE → fix on mast cells       |
+|                          |   - Repeat exposure: mast cell degranulation → histamine etc                   |
+|                          |   - Vasodilatation, capillary leak, hypotension                                |
+|                          |   - Bronchospasm                                                               |
+|                          |   - Risk factors: allergy to protaphane insulin or fish; PHx vasectomy         |
++--------------------------+--------------------------------------------------------------------------------+

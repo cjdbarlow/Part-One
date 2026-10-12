@@ -1,0 +1,48 @@
+Anaphylaxis is an immediate type I hypersensitivity reaction involving multiple body systems.
+
+Its antibody mediated by IgE → Basophil and mast cell degranulation
+
+Common antigens include:
+
+- drugs
+- foods
+
+The process of sensitisation and reaction is as follows:
+
+- Initial Antigen contact 
+- Antigen presentation with helper T cell stimulation → stimulates class switching and a B cell to produce specific IgE antibody 
+- IgE binds to Fc receptors on mast cells ‘sensitising’ them to the antigen
+- Re-exposure to the antigen to the IgE results in degranulation of Mast cells (and basophils) in a systematic response ‘anaphylaxis’ 
+
+**Allergenic Mediators**
+
+**Histamine**
+
+Localised histamine release → urticaria
+
+Systemic histamine release →  effect via H1 and H2 → vasodilatation,↑vasopermeability →↓MAP
+
+**Bradykinin** 
+
+↑production prostacyclin (PGI2), NO → vasodilation, ↓MAP
+
+↑vascular permeability
+
+**Prostaglandins** 
+
+- PGD2 →  vasodilatation, ↑vasopermeability, bronchoconstriction chemotactic for neutrophils and activates eosinophils
+
+**Leukotrienes (slow reacting)**
+
+- Bronchoconstriction (spasmogenic on bronchial smooth mm)
+- Vasodilatation (↓MAP)
+- ↑vascular permeability
+- Degranulation commonly causes vasodilation, ↑capillary permeability, bronchospasm, oedema:
+
+→ Bronchospasm
+
+→ Hypotension
+
+→ Swelling including angioedema → airway swelling and obstruction 
+
+→ Rash

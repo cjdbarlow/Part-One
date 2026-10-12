@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007A Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Classify**]{.task-verb} non-opioid drugs used for the treatment of neuropathic pain and [**indicate**]{.task-verb} proposed mechanisms of analgesic action and potential adverse effects.
+:::
+
+Also asked in: [2011A Question 2](/content/exams/anzca/2011/A/2/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Classify**]{.task-verb} the drugs in a table, then [**indicate**]{.task-verb} the proposed analgesic mechanism and specific adverse effects for each class.
+
+::: {.structure-table}
+| Drug Class | Examples | Analgesic Mechanism | Adverse Effects |
+|---|---|---|---|
+| Simple Analgesics | | | |
+| Anticonvulsants | | | |
+| Antidepressants | | | |
+| Membrane Stabilisers | | | |
+| Other Agents | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**34%** of candidates passed this question.
+
+The key to successfully dealing with this question was to address each of the three components: classification, mechanisms, and adverse effects. The main points expected were a classification system that was coherent; for example: simple analgesics, anticonvulsants, antidepressant, membrane stabilizers and so on. Proposed mechanisms of action should have included how the drugs work, and (importantly) why this reduces pain. There are many drugs that can be used and there are many potential adverse effects. For this component of the question, emphasis on the more specific drugs (e.g. anticonvulsants and antidepressants), and on specific (e.g. anti-cholinergic effects with antidepressants) rather that generic (e.g. rash, gastrointestinal upset) adverse effects, were rewarded.
+
+No marks were awarded for a definition of chronic pain, a description of the pathophysiology of chronic pain, or non–pharmacological therapies as these were not asked.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Antidepressants](/content/pharmacopoeia/neuro/antidepressants.qmd)
+- [Anticonvulsants](/content/pharmacopoeia/neuro/anticonvulsants.qmd)

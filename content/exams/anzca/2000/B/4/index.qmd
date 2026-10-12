@@ -1,0 +1,94 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000B Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the principles of compatibility testing of allogeneic (homologous) blood for transfusions.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} the principles by following the sequence from patient identification and blood grouping to antibody screening, unit selection and crossmatching. Explain what each test detects and why it is needed.
+
+::: {.structure-headings}
+### Compatibility and Relevant Antigens
+
+### ABO and RhD Grouping
+
+### Antibody Screening
+
+### Donor Selection and Crossmatching
+
+### Identification and Limitations
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**27%** of candidates passed this question. Principles of compatibility testing requires:-
+
+- Blood grouping. Determination of the recipient's blood group for ABO and Rh antigens. This is achieved by adding a reagent known to contain a specific antibody and observing for agglutination
+- Screening for the presence of antibodies in the recipient to other red cell antigens. This is achieved by adding a panel of red cells of the same ABO and Rh group, which are known to express other antigens, and observing for agglutination.
+- Selection of a probably compatible unit grouped by techniques as described above.
+- Crossmatching: Mixing a sample of the potential donor red blood cells from this unit with the recipient’s serum and observing for agglutination:
+
+Additional marks were awarded for information on IgM/IgG (and the difference in techniques for detection), the importance of attention to patient and sample identification, and why some antigen:antibody reactions are more important than others.
+
+Common mistakes were to confuse or misuse the following terms:-
+
+- Haemolysis and haemagglutination
+- Autologous and homologous
+- Direct and indirect Coombs test
+- Haemolysis and anaphylaxis
+- Universal Donor
+- IgM and IgG antibodies
+- Immediate and delayed transfusion reactions
+
+A common incorrect statement was that group O red blood cells have no antigens. Several candidates stated that 98% compatibility could be achieved using an abbreviated (and cheaper) testing procedure. While this may be true, it is important to state that a 2% incompatibility rate is unacceptable. 12 candidates wrote on autologous not allogeneic transfusion.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2000/B/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Transfusion](/content/haeme/transfusion.qmd)
+- [Transfusion reactions](/content/haeme/transfusion_reactions.qmd)

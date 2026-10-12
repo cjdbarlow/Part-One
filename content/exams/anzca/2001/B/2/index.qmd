@@ -1,0 +1,93 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001B Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the determinants of work of breathing in an adult human at rest.
+:::
+
+Also asked in: [2006B Question 10](/content/exams/anzca/2006/B/10/index.qmd#examiner-comments), [2011A Question 13](/content/exams/anzca/2011/A/13/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the elastic and resistive components using a labelled pressure–volume graph. Explain surface tension, tissue properties and airflow resistance, then relate their balance to respiratory frequency at rest.
+
+::: {.structure-headings}
+### Definition and Pressure–Volume Graph
+
+### Surface Tension and Surfactant
+
+### Elastic Tissue
+
+### Airflow and Tissue Resistance
+
+### Respiratory Frequency
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The pass rate for this question was **72%**. This question was asked in similar form in March/April 2000, when the pass rate was slightly less than 50%.
+
+The main points expected were-
+
+- that the S.I. unit of work is the Joule, and an explanation of how work is derived (eg. Pressure times Volume)
+- a breakup of inspiratory work into elastic and non-elastic components
+- that elastic work consists of deforming elastic tissue, and overcoming surface tension
+- that non-elastic work consists of overcoming airway resistance and viscous forces
+- that resistance work is performed during inspiration and expiration, but that the energy for expiration is acquired during inspiration
+- the effects on work of breathing due to changes in compliance, airway resistance, and respiratory rate
+
+Additional marks were awarded for-
+
+- correctly labelled pressure-volume diagrams with percentage contributions
+- the oxygen cost and efficiency of work of breathing
+- mentioning that energy is also lost as heat
+
+Common mistakes were to write detailed answers on compliance, airway resistance, and patho-physiological conditions. A common omission was to describe expiration as passive, without stating that potential energy is acquired during inspiration and stored elastically to provide energy for expiration.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2001/B/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Work of breathing](/content/resp/work_of_breathing.qmd)

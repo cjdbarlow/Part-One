@@ -1,0 +1,75 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012A Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the factors affecting the diffusion of gas at the placenta, including the Bohr and Haldane effects
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Gases and Maternal–Foetal Gradients**, **Diffusion Factors**, **Bohr and Double Bohr Effects**, and **Haldane and Double Haldane Effects**. Relate each process to placental gas transfer.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**50.2 %** of candidates passed this question with few good answers. Main Points expected for a pass:
+
+- which gases were transferred at the placenta with normal values for the mother and foetus
+- how gases diffuse across the placenta with relevance to Fick’s law of diffusion and how the placenta differs to the lung
+- detailed descriptions of the Bohr and Haldane effects
+- explanation of the double Bohr and double Haldane effects as they occur at the placenta
+
+Additional points could be gained for:
+
+- maternal hyperventilation with mechanisms
+- placental oxygen consumption
+- quantification of the effect of Bohr and Haldane effects
+
+Many candidates had a structure to their answers, in some cases suggesting poor time management. In many answers there was confusion regarding the direction of shifts in the haemoglobin oxygen disocciation curve. Few candidates mentioned the values of CO~2~/O~2~ at the placenta, and of those that did many were incorrect. The main reason for failing this question was insufficient core knowledge
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [The Placenta](/content/obs/placenta.qmd)

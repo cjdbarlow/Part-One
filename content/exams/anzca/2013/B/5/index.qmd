@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013B Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the role of the kidneys in the regulation of body water.
+:::
+
+Also asked in: [1999B Question 4](/content/exams/anzca/1999/B/4/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} water handling along the nephron, connecting segmental permeability and solute transport to water reabsorption and final urine production.
+
+::: {.structure-headings}
+### Glomerular Filtration
+
+### Proximal Tubule
+
+### Loop of Henle and Medullary Gradient
+
+### Distal Nephron and Collecting Duct
+
+### Variable Urine Concentration and Volume
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**28.7%** of candidates achieved a pass in this question
+
+There was significant variation across candidates in interpretation of the question. The highest scoring answers were able to concentrate on water and the kidney, while not getting distracted by concepts such as baroreceptors, and the role of the autonomic nervous system. To score good marks it was necessary to describe in some detail the handling of water by the kidney at the various points along the nephron. Curiously however, even the lowest scoring answers usually clearly and correctly described the role of V2 receptors and aquaporin channels in the collecting duct. Long introductory paragraphs were frequent but almost never constructive in terms of gaining marks, and only served to waste valuable time. Similarly, there is no point in duplicating information contained in a diagram with text and vice versa. A significant number of otherwise good answers omitted to mention the production of urine as the end result of all this, and the important fact that diuresis can be osmotically variable.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/1999/B/4/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/B/4/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Sodium and water](/content/renal/sodium.qmd)
+- [Glomerular filtration](/content/renal/glomerular_filtration.qmd)
+- [Renal endocrine functions](/content/renal/endocrine.qmd)

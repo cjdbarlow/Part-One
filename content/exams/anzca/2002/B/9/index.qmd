@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002B Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Draw**]{.task-verb} a pressure volume loop for the left ventricle in a normal adult. [**Outline**]{.task-verb} the information that can be obtained from such a loop.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Draw**]{.task-verb} a normal left ventricular pressure–volume loop with labelled axes, values, phases and valve events. [**Outline**]{.task-verb} the information obtained from its dimensions, area and boundary relationships.
+
+::: {.structure-headings}
+### Normal Loop, Phases and Valve Events
+
+### Volumes, Stroke Volume and Ejection Fraction
+
+### Diastolic and End-Systolic Relationships
+
+### Stroke Work
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**67%** of candidates passed this question.
+
+The main points expected were an accurate pressure volume loop, with the phases named and the points of valve opening and closing marked. In addition, an outline of the information gained from the loop was expected, such as stroke volume, ejection fraction, left ventricular end diastolic volume (as a measure of preload), left ventricular diastolic pressure/volume relationship (as a measure of elastance), left ventricular end systolic pressure/volume line (as an indicator of contractility), and area within the pressure/volume loop (as a measure of stroke work).
+
+A common omission was not including simple information eg. naming the phases of the loop and indicating where the valves open and close. Stroke volume and ejection fraction were often forgotten in favour of complicated elastance lines. A common mistake in the loop was to mark the aortic valve opening at a higher pressure than at which it closed. Also, the diastolic curve often had correct volumes but incorrect pressures.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2002/B/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Pressure volume relationships](/content/cvs/pv_relationships.qmd)
+- [Cardiac cycle](/content/cvs/cardiac_cycle.qmd)

@@ -1,0 +1,73 @@
+#### List:
+
+- A: airway reflexes
+- B: respiratory depression
+- C: pulmonary circulation
+- D: excitation
+
+#### A: airway reflexes
+
++--------------------------+-----------------------------------------------------------------------+
+| Physicochemical          | - Non-irritant → suitable for inhalational induction                  |
++--------------------------+-----------------------------------------------------------------------+
+| Bronchodilatation        | - ↓L-Ca^2+^, ↑NO activity                                             |
+|                          | - ↓Airway resistance, ↓work of breathing; use in status asthmaticus   |
+|                          | - ↑Anatomical dead space (not clinically significant)                 |
++--------------------------+-----------------------------------------------------------------------+
+| ↓Airway reflexes         | - Tolerate LMA                                                        |
+|                          | - Risk of aspiration                                                  |
++--------------------------+-----------------------------------------------------------------------+
+| ↓Pharyngeal dilator tone | - Skeletal muscle relaxation → airway obstruction (especially if OSA) |
++--------------------------+-----------------------------------------------------------------------+
+| ↓Ciliary activity        | - ?↑Risk pneumonia                                                    |
++--------------------------+-----------------------------------------------------------------------+
+
+#### B: respiratory depression
+
++-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Summary         | - ↑RR, ↓VT                                                                                                                                                                    |
+|                 | - ↓MV, ↑PaCO~2~ (\~50mmHg at 1 MAC)                                                                                                                                           |
+|                 | - ↓Response to ↑PaCO~2~                                                                                                                                                       |
+|                 | - ↓↓Response to ↓PaO~2~                                                                                                                                                       |
+|                 | - Respiratory arrest at high concentration                                                                                                                                    |
++-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Response curves | ![](/content/exams/anzca/2018/B/3/prize-image001.jpg){fig-alt="Minute ventilation against end-tidal oxygen tension at zero, 0.1 and 1.0 MAC"}                                 |
+|                 |                                                                                                                                                                               |
+|                 | ![](/content/exams/anzca/2018/B/3/prize-image002.jpg){fig-alt="Alveolar ventilation against arterial carbon dioxide tension awake and with volatile anaesthetics or opioids"} |
++-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Mechanisms      | - Respiratory centre depression                                                                                                                                               |
+|                 |   - ↑GABA, ↑glycine in brainstem                                                                                                                                              |
+|                 | - Chemoreceptor depression                                                                                                                                                    |
+|                 |   - ? mechanism                                                                                                                                                               |
+|                 | - Skeletal muscle relaxation                                                                                                                                                  |
+|                 |   - Affects intercostals \> diaphragm                                                                                                                                         |
+|                 |   - ↑Glycine, ↑GABA: ↓spinal cord α-motor neuron output                                                                                                                       |
+|                 |   - Inhibition of L-Ca^2+^ channel: ↓force of contraction                                                                                                                     |
+|                 |   - Inhibition of post-synaptic nAChR at NMJ                                                                                                                                  |
+|                 |   - Inhibition of pre-synaptic VDCC at NMJ                                                                                                                                    |
++-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### C: pulmonary circulation
+
++-------------+-------------------------------------------------+
+| ↓HPV        | - ↓L-Ca^2+^, ↑NO activity                       |
+|             | - Pulmonary vasodilatation                      |
+|             | - ↓PVR, ↓HPV                                    |
+|             | - ↑V/Q mismatch → ↓PaO~2~                       |
++-------------+-------------------------------------------------+
+| ↑Dead space | - ↓Venous return → ↓RV output                   |
+|             | - ↓PASP → ↑West zone 1 i.e. alveolar dead space |
+|             | - ↑PaCO~2~ – etCO~2~ difference                 |
++-------------+-------------------------------------------------+
+
+#### D: excitation
+
+*i.e. Guedel’s stage 2: at concentration just above MAC-awake*
+
++-----------+------------------------------------------------------------------+
+| Airway    | - ↑Sensitivity to stimulation                                    |
+|           | - Coughing, laryngospasm, bronchospasm, regurgitation/aspiration |
++-----------+------------------------------------------------------------------+
+| Breathing | - ↑↑RR                                                           |
+|           | - Irregular breathing, breath holding                            |
++-----------+------------------------------------------------------------------+

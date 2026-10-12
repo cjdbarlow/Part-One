@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014A Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**What are**]{.task-verb} the potential side effects of propofol and its formulations?
+:::
+
+Also asked in: [2009B Question 2](/content/exams/anzca/2009/B/2/index.qmd#examiner-comments), [2013B Question 15](/content/exams/anzca/2013/B/15/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**What are**]{.task-verb} the side effects? Organise propofol’s effects by body system, then address effects related to the components of its formulations.
+
+::: {.structure-headings}
+### Cardiovascular Effects
+
+### Respiratory Effects
+
+### Central Nervous System and Other Effects
+
+### Propofol Infusion Syndrome
+
+### Formulation-Related Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**24.8%** of candidates achieved a pass in this question
+
+This repeat question was generally answered well. There was good use of classifying side effects either according to body system or the individual constituents of propofol. Propofol pharmacokinetics was not asked for. Although bacterial contamination was often mentioned, there was little understanding of how different propofol formulations are prepared to reduce this adverse effect. Extra marks were awarded for understanding the significance of certain side effects in different patient populations such as epileptics and egg allergy. Extra marks were also gained for an understanding that not all propofol formulations are prepared in the same carrier.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2009/B/2/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2009/B/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Propofol](/content/pharmacopoeia/neuro/propofol.qmd)
+- [Drug additives](/content/pharmacology/additives.qmd)

@@ -1,0 +1,89 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012A Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the statistical methods which can be used for analysis of groups of categorical data.
+:::
+
+Also asked in: [2010B Question 8](/content/exams/anzca/2010/B/8/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} **Definition and Subtypes**, **Descriptive Methods**, and **Inferential Methods**. Separate nominal from ordinal data and [**explain**]{.task-verb} the use, assumptions and limitations of chi-squared analysis and relevant alternatives.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**20.2%** of candidates passed this question.
+
+Candidates should also refer to the report for question 8 July/September 2010.
+
+Good answers demonstrated an understanding of the unique features of categorical data by way of a definition which emphasized the qualitative properties. Additional marks were awarded for a sub-classification which encompassed ordinal, binary and other subtypes.
+
+Descriptive stats were not absolutely required (and were often omitted), although points were awarded for comment on pie charts, bar graphs and tables.
+
+To score well, it was necessary to grasp that the relevant analytic techniques are defined by data distributions (generally non Gaussian), independent or paired data, number of groups, obs numbers etc., and this in turn gave a framework for an organized answer.
+
+It was essential to describe and explain Pearson Chi-square - an example table was helpful. Marks were awarded for: an explanation of observed and expected frequency, the calculation of the relevant statistic, degrees of freedom, reference tables, assumptions, limitations and the place of exact tests and corrective stats.
+
+Additional credit was given for details of quantification of strength of association, odds and risk.
+
+Whilst not required for a clear pass, better answers identified more complicated situations such as:
+
+More than 2 outcomes: Mann-Whitney U test, χ2 test for trends, Multiple chi squared + Bonferroni correction
+
+Large samples: Normal approx to binomial distribution
+
+Paired data: McNemar's chi, Cochran Q for >2 groups
+
+Multiple variables: Mantel-Haenzel χ2, logistic regression
+
+A persistent error from 2010 was lengthy discussion of parametric analysis to the exclusion of details of inferential stats more relevant to categorical data.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Statistical Tests](/content/stats/statistical_tests.qmd)
+- [Data Types](/content/stats/data_types.qmd)

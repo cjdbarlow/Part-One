@@ -1,0 +1,86 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000B Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the factors governing glomerular filtration rate.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Filtration Coefficient**, **Hydrostatic Pressures**, **Oncotic Pressures**, and **Regulation of Arteriolar Tone** using the filtration equation. State how changes in each determinant increase or decrease glomerular filtration rate.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**52%** of candidates passed this question. The main points could be covered by a description of the following equation:-
+
+GFR = Kf[(P~GC~-P~T~) - σ( Π~GC~ - Π~T~)] where
+
+- Kf = glomerular ultrafiltration coefficient
+- P~GC~ = capillary hydrostatic pressure
+- P~T~ = tubular hydrostatic pressure
+- Π~GC~ = plasma osmotic pressure
+- Π~T~ = tubular osmotic pressure
+- σ = reflection coefficient
+
+A short description of how each of these factors affected GFR was required. A description of Kf, was expected; i.e. the product of the glomerular capillary wall hydraulic conductivity (its permeability) and the effective filtration area.
+
+Additional marks were awarded for stating normal values, and for more detail on how GFR is affected by:
+
+- Changes in blood pressure; autoregulation
+- Tubuloglomerular feedback
+- Changes in the afferent and efferent arteriolar vascular tone of the glomerular capillaries
+- Factors affecting afferent and efferent arteriolar vascular tone
+- Changes in hydrostatic pressure in Bowman's capsule
+- Effects of oedema within renal capsule
+- Changes in plasma protein concentration
+- Permeability of glomerular capillaries in pathological states
+
+The major errors or omissions were to "list" rather than "describe" factors affecting GFR, and to not state the direction in which GFR was affected, i.e. an increase or a decrease.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Glomerular Filtration and Tubular Function](/content/renal/glomerular_filtration.qmd)

@@ -1,0 +1,120 @@
+#### List:
+
+- Intro
+- Aortic stenosis
+- Effect on oxygen supply
+- Effect on oxygen demand
+
+#### Intro:
+
++---------------------+------------------------------------------------------------------------------------+
+| Summary             | - High O~2~ consumption: MVO~2~ 9.8mL/min/100g at rest                             |
+|                     | - High O~2~ extraction: EO~2~ 0.75 at rest                                         |
+|                     | - Hence ↑O~2~ demand requires ↑CBF                                                 |
+|                     | - LMCA flow: diastole \>\> systole (due to systolic reversal of pressure gradient) |
+|                     | - RCA flow: systole ≈ diastole                                                     |
+|                     | - Note ↑HR causes ↑demand and ↓time for supply                                     |
++---------------------+------------------------------------------------------------------------------------+
+| Supply-demand ratio | - Supply: diastolic pressure-time index = diastolic time x (AoP – LVEDP)           |
+|                     | - Demand: tension time index = systolic time x SBP                                 |
+|                     | - Endocardial viability ratio = DPTI/TTI                                           |
+|                     | - Normal EVR \>1                                                                   |
+|                     | - EVR \<0.7 → subendocardial ischaemia                                             |
++---------------------+------------------------------------------------------------------------------------+
+
+#### Aortic stenosis:
+
++-----------------------------+-----------------------------------------------------------------------------+
+| Definition                  | - Chronic narrowing of aortic valve orifice                                 |
++-----------------------------+-----------------------------------------------------------------------------+
+| Pathophysiology             | - Cause: Degenerative \> bicuspid                                           |
+|                             | - Problems: ↓LVOT radius → ↑resistance to flow → high afterload state       |
+|                             |   - R = (8 x length x viscosity) / (π x radius^4^)\                         |
+|                             |     (Radius is the major factor since power of four)                        |
+|                             | - Complications: LAE, LVH, diastolic LV dysfunction, pulmonary hypertension |
+|                             | - Risk of ischaemia: since ↓O~2~ supply and ↑O~2~ demand                    |
++-----------------------------+-----------------------------------------------------------------------------+
+| Criteria for severe disease | - Aortic valve area \<1cm^2^                                                |
+|                             | - Mean gradient \>40mmHg                                                    |
+|                             | - Peak systolic velocity \>4m/s                                             |
++-----------------------------+-----------------------------------------------------------------------------+
+
+#### Effect of severe AS on oxygen supply:
+
+*Graph:*
+
+![](/content/exams/anzca/2008/B/14/prize-image001.jpg){fig-alt="Aortic root pressure and left and right coronary blood flow during the cardiac cycle"}
+
+*Equations:*
+
++---------------------+------------------------------------------------------+
+| Oxygen delivery     | = Vessel flow rate x CaO~2~                          |
++---------------------+------------------------------------------------------+
+| LMCA flow rate      | = % diastole x \[AoP (80) – LVEDP (6)\] / resistance |
++---------------------+------------------------------------------------------+
+| RCA flow rate       | In systole = \[AoP (120) – RVSP (25)\] / resistance  |
+|                     |                                                      |
+|                     | In diastole = \[AoP (80) – CVP (2)\] / resistance    |
++---------------------+------------------------------------------------------+
+| Vascular resistance | = (8 x length x viscosity) / (π x radius^4^)         |
+|                     |                                                      |
+|                     | (Radius is the major factor since power of four)     |
++---------------------+------------------------------------------------------+
+| Oxygen content      | = \[Hb\]g/L x SaO~2~% x 1.34 + 0.03 x PaO~2~         |
+|                     |                                                      |
+|                     | Normal 20mL O~2~ per 100mL arterial blood            |
++---------------------+------------------------------------------------------+
+
+*Effect on LV oxygen supply:*
+
++----------------+-----------------------------------------------------------------------------+
+| ↓% Diastole    | - Left atrial enlargement → risk of AF ± ↑HR                                |
+|                | - (Note also: atrial kick more important for non-compliant LV)              |
++----------------+-----------------------------------------------------------------------------+
+| ↓AoP           | - ↑Jet velocity → ↓potential energy (Bernoulli principle)                   |
+|                | - Exacerbated by hypovolaemia, vasodilatation (e.g. neuraxial block)        |
++----------------+-----------------------------------------------------------------------------+
+| ↑LVEDP         | - AS → LVH → ↑stiffness → diastolic failure with increased filling pressure |
++----------------+-----------------------------------------------------------------------------+
+| ↑Vessel length | - AS → LVH                                                                  |
++----------------+-----------------------------------------------------------------------------+
+| ↑Radius        | - Metabolic autoregulation:                                                 |
+|                | - ↑MVO~2~ → ↑H^+^/K^+^/lactate/adenosine → vasodilatation                   |
+|                | - Partly offset other changes                                               |
++----------------+-----------------------------------------------------------------------------+
+
+*Effect on RV oxygen supply:*
+
++-------+-----------------------------------------------------------------+
+| ↓AoP  | - As above                                                      |
++-------+-----------------------------------------------------------------+
+| ↑RVSP | - AS → diastolic LV failure → secondary pulmonary hypertension  |
+|       | - If severe, may prevent flow in systole                        |
++-------+-----------------------------------------------------------------+
+| ↑CVP  | - AS → PHTN → RV failure                                        |
+|       | - Exacerbated by IPPV, PEEP, pneumoperitoneum                   |
++-------+-----------------------------------------------------------------+
+
+#### Effect of severe AS on oxygen demand:
+
++--------------------+-----------------------------------------------------------------------+
+| ↑Wall tension      | Global tension = (pressure x radius)/2                                |
+|                    |                                                                       |
+| (normal 30-40%     | Individual fibre tension ∝ (pressure x radius) / thickness            |
+|                    |                                                                       |
+|                    | - AS → ↑afterload → ↑pressure → ↑WT → ↑MVO~2~                         |
+|                    | - AS → LV failure → dilation → ↑radius → ↑WT → ↑MVO~2~                |
+|                    | - (Note LVH distributes load but does not reduce global wall tension) |
++--------------------+-----------------------------------------------------------------------+
+| ↑Basal consumption | - AS → LVH i.e. ↑mass→ ↑MVO~2~                                        |
+|                    |                                                                       |
+| (normal 25%)       |                                                                       |
++--------------------+-----------------------------------------------------------------------+
+| ↑Heart rate        | - AS → risk of AF ±↑HR → ↑MVO~2~                                      |
+|                    |                                                                       |
+| (normal 15-25%)    |                                                                       |
++--------------------+-----------------------------------------------------------------------+
+| ↑Stroke work       | - AS → ↑afterload → ↑↑pressure work → ↑MVO~2~                         |
+|                    | - ↔/↓ volume work                                                     |
+| (normal 10-15%)    |                                                                       |
++--------------------+-----------------------------------------------------------------------+

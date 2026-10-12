@@ -1,0 +1,86 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006A Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the pharmacologic management of bronchoconstriction in acute severe asthma. [**Include**]{.task-verb} mechanisms of action and potential adverse effects.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} the drug classes used for acute severe bronchoconstriction. [**Include**]{.task-verb} an example, mechanism and potential adverse effects for each class in a table.
+
+::: {.structure-table}
+| Drug Class | Example | Mechanism | Adverse Effects |
+|---|---|---|---|
+| Beta-2 Agonists | | | |
+| Corticosteroids | | | |
+| Anticholinergics | | | |
+| Volatile Agents | | | |
+| Methylxanthines | | | |
+| Other Agents | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**44 %** of candidates passed this question.
+
+The main points to include were:
+
+- A list of classes of drugs used to treat acute severe asthma
+- Representative examples of drugs
+- An explanation of how these drugs work
+- Significant side effects
+
+The most important drugs that should have been included were β2 agonists, steroids, anticholinergics, volatile agents and methylxanthines. Discussion of leukotriene antagonists, ketamine, magnesium, oxygen and helium attracted additional marks.
+
+Many candidates wrote extensively about the pathophysiology of asthma which could not be credited any marks. Discussion of the mechanism of action of the drugs was often inadequately dealt with. Many answers either did not address this part of the question or stated that β2 agonism or muscarinic antagonism caused bronchodilatation without any discussion of second messengers. Those who did attempt a more detailed discussion often became confused about the change in cAMP and intracellular calcium level.
+
+Many answers were dismissive of the use of volatile agents in the treatment of asthma, despite the fact that they are convenient and readily available to treat bronchoconstriction in the setting of anaesthesia.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Anti-Asthma Drugs](/content/pharmacopoeia/resp/anti_asthma_drugs.qmd)

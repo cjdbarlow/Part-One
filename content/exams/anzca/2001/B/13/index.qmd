@@ -1,0 +1,75 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001B Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Compare and contrast**]{.task-verb} neostigmine and the organophosphorus compounds.
+:::
+
+Also asked in: [2004B Question 6](/content/exams/anzca/2004/B/6/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Compare and contrast**]{.task-verb} the agents in a table, linking binding characteristics to duration, clinical effects and uses.
+
+::: {.structure-table}
+| Feature | Neostigmine | Organophosphorus Compounds |
+|---|---|---|
+| Binding and Mechanism | | |
+| Duration of Action | | |
+| Central Effects | | |
+| Peripheral Effects | | |
+| Clinical Applications | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The pass rate for this question was **64 %**. The question asked for a comparison and contrast between two drugs and it was essential for candidates to have addressed both agents to achieve a pass mark and not discuss only one of the agents. It was imperative to define the actions of these drugs and describe the mode of binding with some explanation of their durations of action. An explanation of their actions, clinical effects and the fact that neostigmine does not cross the blood brain barrier unlike organophosphates was considered important to the answer. Candidates who were able to give detailed explanation of the binding characteristics of these agents and how that influenced their duration of action, pharmacodynamic profile and clinical applications attained higher marks. It was considered that a general comment such as neostigmine being short acting and organophosphates being long acting, without detailed explanation, was inadequate to pass
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Anticholinesterases](/content/pharmacopoeia/autonomic/anticholinesterases.qmd)
+- [Organophosphate Poisoning](/content/organophosphate_poisoning.qmd)

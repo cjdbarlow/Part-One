@@ -1,0 +1,65 @@
+#### List:
+
+- Intro
+- Two compartments: features
+- Two compartments: sources of error
+- Alternative models
+
+#### Intro:
+
+Aim of pharmacokinetic model: to predict drug concentration during induction, maintenance and offset of anaesthesia
+
+#### Two compartment model: features
+
++-------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Diagramme               | ![](/content/exams/anzca/2011/B/2/prize-image001.jpg){fig-alt="Two-compartment model showing central administration, intercompartmental transfer and clearance"} |
++-------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Graph and equation      | ![](/content/exams/anzca/2011/B/2/prize-image002.jpg){fig-alt="Log concentration against time with distribution and elimination components"}                     |
+|                         |                                                                                                                                                                  |
+|                         | - Bi-exponential decay curve: C = Ae^-at^ + Be^-bt^                                                                                                              |
++-------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Description             | - Propofol injected into V~1~                                                                                                                                    |
+|                         | - Effect correlates with \[propofol\] in V~1~                                                                                                                    |
+|                         | - Fast distribution phase (distribution+++ metabolism ++)                                                                                                        |
+|                         | - Slower terminal elimination phase (metabolism++ offset by redistribution+)                                                                                     |
++-------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Derivation              | - Experiment in healthy volunteers                                                                                                                               |
+|                         | - Propofol infusion at various rate, various duration (1min to 8h)                                                                                               |
+|                         | - Serial blood sampling                                                                                                                                          |
+|                         | - Plot Cp vs time                                                                                                                                                |
+|                         | - Non-linear regression analysis → equations, rate constants, compartment volumes                                                                                |
++-------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Suitability of propofol | - Reasonably modelled by two compartments (V~DC~ 0.3-0.6L/kg, V~DSS~ 4L/kg)                                                                                      |
+|                         | - Rapid but biphasic distribution (t~1/2~~α~ fast 2 mins, t~1/2~~α~ slow 50 mins)                                                                                |
+|                         | - Slow terminal elimination (t~1/2~~β~ 5-12 hours)                                                                                                               |
++-------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Two compartment model: sources of error:
+
++------------------------+--------------------------------------------------------------------------------------------------------------+
+| Inaccurate modelling   | - Body has billions of discrete cell compartments, not 1 or 2 or 3                                           |
+|                        | - Variation in compartment volumes (e.g. shock), clearance rate (e.g. organ failure)                         |
+|                        | - Inaccurate for induction kinetics (cardiac output and central blood volume more important)                 |
+|                        | - Small sample size of experiments                                                                           |
++------------------------+--------------------------------------------------------------------------------------------------------------+
+| Inaccurate assumptions | - No delay between reaching threshold Cp and onset of effect (e.g. lag described by k~e0~)                   |
+|                        | - \[Drug\] in V~1~ correlates immediately with effect (e.g. effect site may be in periphery e.g. rocuronium) |
+|                        | - Elimination always from V~1~ (e.g. remifentanil metabolized in periphery)                                  |
+|                        | - Elimination not always first order (e.g. thiopentone zero order in physiological range)                    |
++------------------------+--------------------------------------------------------------------------------------------------------------+
+| Consequences of error  | - Overdose → CVS toxicity                                                                                    |
+|                        | - Underdose → awareness                                                                                      |
++------------------------+--------------------------------------------------------------------------------------------------------------+
+
+#### Alternative models:
+
++---------------------------+---------------------------------------------------------------+
+| Single compartment        | - Not a good representation                                   |
+|                           | - Whole-body equilibration not immediate                      |
+|                           | - Predicted loading dose based on V~DSS~ is fatal             |
++---------------------------+---------------------------------------------------------------+
+| Three compartment         | - Better model for most drugs                                 |
+|                           | - E.g. propofol: t~1/2~~α~ fast, t~1/2~~α~ slow and t~1/2~~β~ |
++---------------------------+---------------------------------------------------------------+
+| Four or more compartments | - No significant advantage over three                         |
++---------------------------+---------------------------------------------------------------+

@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2017A Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the clinical laboratory assessment of liver function.
+:::
+
+Also asked in: [2007B Question 15](/content/exams/anzca/2007/B/15/index.qmd#examiner-comments), [2010B Question 16](/content/exams/anzca/2010/B/16/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} laboratory tests by the function or injury they reflect. Explain the physiological basis and relevant time course of each, distinguishing synthetic failure, hepatocellular injury, cholestasis and metabolic consequences.
+
+::: {.structure-headings}
+### Synthetic Function: Albumin and Coagulation
+
+### Bilirubin Handling
+
+### Hepatocellular Injury
+
+### Cholestasis
+
+### Metabolic and Other Laboratory Consequences
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**46.4%** of candidates achieved a pass in this question
+
+The crucial approach to this question is to explain the physiological basis of the laboratory tests. A simple list of test names provides marks towards a pass but to reach a pass or score well a candidate had to demonstrate an understanding of the underlying physiology. As an example of a good level of explanation when discussing coagulation disturbance many candidates mentioned INR but only a few went on to explain why it was the most sensitive test for coagulation in liver failure by relating it to the half life of the factors it tests.
+
+Common mistakes included “overviews” that could be lengthy and not relate to the question and so not add to the overall mark. Also summaries of physiological functions of the liver that were not related to tests did not accrue marks. Circular statements were another pitfall, where candidates rephrased their point as a way of explanation. Describing other forms of assessment such as imaging or signs and symptoms gained no marks. Tests of the haematological sequelae of liver failure were frequently omitted.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2007/B/15/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/B/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Liver function](/content/git/liver_function.qmd)

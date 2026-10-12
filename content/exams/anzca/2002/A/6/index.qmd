@@ -1,0 +1,67 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002A Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the physiological processes which cause oliguria in response to hypovolaemic shock
+:::
+
+Also asked in: [2006A Question 14](/content/exams/anzca/2006/A/14/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} **Detection of Hypovolaemia**, **Neuroendocrine Responses**, **Changes in Renal Perfusion and Filtration**, and **Tubular Water Conservation**. Link these processes to reduced urine output after defining oliguria and hypovolaemic shock.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**72%** of candidates passed this question. The following areas could have been included: Definition of oliguria and hypovolaemic shock; The way that hypovolaemia is detected (role of low and high pressure baroreceptors); The consequent neuro-endocrine responses which affect the kidney, such as activation of the sympathetic nervous system, the role of the renin-angiotensin system and aldosterone, and release of antidiuretic hormone; Influences on glomerular filtration such as renal blood flow, arterial blood pressure, glomerular permeability; Distribution of blood flow within the kidney, intra-renal factors effecting glomerular and tubular function, and the role of the medulla in concentrating urine; Some over-view of the physiological advantage in producing concentrated urine in response to hypovolaemia; Some indication of the relative importance of the concentration process compared to the other factors. Given that the word “shock” was included in the question it was reasonable to include comment about pathophysiology relating to shock and oliguria.
+
+The challenge of this type of question is to succinctly provide a broad overview. Difficulty in achieving high marks generally related to the problem of going into too much detail in part of the answer and omitting other major areas or explanation of concepts.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Glomerular Filtration and Tubular Function](/content/renal/glomerular_filtration.qmd)
+- [Endocrine Functions of the Kidney](/content/renal/endocrine.qmd)

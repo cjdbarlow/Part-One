@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013B Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the drugs that affect uterine tone, and [**outline**]{.task-verb} the adverse effects of these agents.
+:::
+
+Also asked in: [2018B Question 13](/content/exams/anzca/2018/B/13/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} the drugs in two groups according to their effect on uterine tone and [**outline**]{.task-verb} the adverse effects of each.
+
+::: {.structure-table}
+| Effect on Uterine Tone | Drug or Class | Adverse Effects |
+|---|---|---|
+| Increased Tone: Oxytocin Derivatives | | |
+| Increased Tone: Ergot Alkaloids | | |
+| Increased Tone: Prostaglandins | | |
+| Decreased Tone: Tocolytics | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**38.9%** of candidates achieved a pass in this question
+
+To pass the question, candidates were required to recognise that drugs could both increase and decrease uterine tone. They were also required to list at least five or six drugs which affected uterine tone and provide an accurate outline of their side effect profiles. Drugs that increase uterine tone, which earned marks, were: oxytocin derivatives; ergot alkaloids; and prostaglandins (PGE2, PGE1 and PGF2α). Tocolytic drugs which scored marks were: NSAIDS; dihydropyridine calcium channel blockers (nifedipine); nitrates; Β2 agonists; volatile anaesthetic agents; magnesium; and oxytocin receptor antagonists. Extra credit was awarded for including more drugs, with side effect profiles, from the above list. Marks were also awarded for realising that all oxytocics pose a risk of uterine rupture and foetal compromise if given prior to delivery. Similarly, credit was given for mention that tocolytics increase the risk of post partum haemorrhage. There were a few excellent answers.
+
+Common sources of error included incorrect details of the side effects of these classes of drugs, especially the haemodynamic consequences of oxytocics. Many candidates did not mention the possibility of ADH like effects with oxytocin, which although uncommon, do need to be borne in mind when delivering the drug as an infusion for induction of labour. Another common misbelief was that nifedipine causes bradycardia, rather than a reflex tachycardia. The haemodynamic effects of magnesium (which occur at high plasma concentrations) also tended to be overstated at the expense of more common side effects. This may have been because many answers classified magnesium as an “effective calcium channel blocker”. A host of drugs, having no effect on uterine tone, were also given.
+
+Many candidates gave lengthy discussions on the mechanism of action, dosing regimen and specific indications for the drugs, which would have used valuable time and did not attract any marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/B/14/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/B/14/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Oxytocics](/content/pharmacopoeia/obs/oxytocics.qmd)
+- [Tocolytics](/content/pharmacopoeia/obs/tocolytics.qmd)

@@ -1,0 +1,86 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2017B Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the factors which influence the time taken for loss of consciousness during an inhalational induction of anaesthesia.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} factors along the path from vaporiser to brain, giving the direction and mechanism of each effect. Separate circuit wash-in, alveolar kinetics, blood and tissue uptake, effect-site delivery and sensitivity to the agent.
+
+::: {.structure-headings}
+### Circuit Concentration and Fresh Gas Delivery
+
+### Alveolar Ventilation and Functional Residual Capacity
+
+### Solubility, Cardiac Output and Tissue Uptake
+
+### Delivery and Equilibration With the Brain
+
+### Pharmacodynamic Sensitivity and Other Drugs
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**50.2%** of candidates achieved a pass in this question
+
+A general statement about the effect of partial pressure of volatile anaesthetic in the brain being responsible for loss of consciousness was required. To achieve a desired partial pressure, bulk transfer of volatile anaesthetic must occur with volatile moving down concentration gradients from the circuit to the alveoli, from the alveoli to the blood and finally from the blood to the brain.
+
+Within the anaesthetic circuit, increasing the dial concentration, the fresh gas flows or reducing the circuit volume will speed the increase of volatile concentration.
+
+Increasing the concentration of volatile delivered, increasing alveolar ventilation or increasing the alveolar ventilation to functional residual capacity ratio can reduce alveolar wash in time. Adding nitrous oxide in high concentration, which will lead to concentration and second gas effects, can also augment increased alveolar concentration.
+
+Transfer of anaesthetic agent from the alveolus to blood is determined by the alveolar partial pressure, the solubility of the agent as reflected by blood gas partition coefficient and cardiac output. Any change in mixed venous concentration of agent such as by shunt or V/Q mismatch, tissue solubility or increased delivery to muscle will affect the rate of rise of partial pressure in the blood.
+
+Transfer from the blood to the brain will be dependent upon the concentration in the blood and proportion of cardiac output delivered to the brain.
+
+Finally pharmacodynamic changes will alter the time to loss of consciousness and include the effect of co-administered anaesthetic agents, sensitivity of the brain to the volatile, age related changes, tolerance and the effect of pregnancy or other drugs.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2017/B/5/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2017/B/5/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Inhalational anaesthetic kinetics](/content/pharmacopoeia/neuro/inhalational_anaesthetics.qmd)

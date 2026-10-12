@@ -1,0 +1,75 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014B Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+20mls of 0.5% bupivacaine is inadvertently administered intravenously over 15 seconds to a 60 year old, 60kg woman. [**Describe**]{.task-verb} the potential complications and mechanisms of these.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the consequences of this intravenous dose, then connect the CNS and cardiovascular signs to their mechanisms.
+
+::: {.structure-headings}
+### Dose and Expected Plasma Concentration
+
+### CNS Toxicity: Excitation and Depression
+
+### Cardiovascular Toxicity: Conduction and Contraction
+
+### CC/CNS Ratio and Its Significance
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**51%** of candidates achieved a pass in this question
+
+The wording of this question describes a situation that is a life-threatening medical emergency. An appreciation of this was lacking in many answers. The potential complications are cardiovascular and CNS toxicity. The correct CC/CNS ratio for bupivacaine with an explanation of the significance of this ratio in the situation described assisted candidates. A number of candidates miscalculated the dose of bupivacaine being administered and others confused maximum safe dosing, toxic doses and what occurs when a near maximum dose of bupivacaine is administered intravenously. The question asked for the mechanism by which bupivacaine caused toxicity as well as a description of CNS and the CVS signs and symptoms. Some answers incorrectly described the mechanism of channel blockade. Better answers included a calculation of an expected plasma level and related this to toxic plasma levels. General information about local anaesthetics, the treatment of local anaesthetic toxicity, local anaesthetic allergy and tissue toxicity were not relevant.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2014/B/6/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Local anaesthetic toxicity](/content/pharmacopoeia/neuro/local_anaesthetic_principles.qmd#toxicity)
+- [Local anaesthetic agents](/content/pharmacopoeia/neuro/local_anaesthetics.qmd)

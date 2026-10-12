@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2002B Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the influences of pregnancy on pharmacokinetics.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} the effects under pharmacokinetic headings, linking each physiological change to its consequence for drug handling.
+
+::: {.structure-headings}
+### Absorption
+
+### Distribution
+
+### Metabolism
+
+### Excretion
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The pass rate for this question was **39%**. Answers framed around the structure of absorption, distribution, metabolism and excretion performed better. It was clear from a large number of answers that candidates who structured their answers around the physiological changes of pregnancy, a more familiar topic, performed poorly. This was not because of factual errors, but rather omission of important areas of pharmacokinetics (eg absorption). The effects of pregnancy on oral absorption should have included a discussion of gastrointestinal motility, nausea and vomiting and gut blood flow.
+
+The opposing effects of the changes in ventilation and cardiac output on the uptake of volatile agents should have been presented. The effects of increased cardiac output on transdermal and intra muscular routes of administration were infrequently discussed. Volume of distribution is increased in keeping with the increase in total body water and plasma volume. Distribution of drugs is also affected by the changes in cardiac output and plasma protein binding. Hepatic blood flow is generally stable or slightly increased. The differential effects of oestrogen and progesterone on liver enzyme activity were discussed by some.
+
+Most candidates discussed the reduction in pseudocholinesterase with pregnancy but few mentioned that this has minimal effect on the dose of suxamethonium because of the increased volume of distribution. Candidates generally mentioned the effect of increased renal blood flow and renal clearance on drug elimination.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2002/B/1/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Drugs in pregnancy](/content/pharmacology/drugs_pregnancy.qmd)
+- [Maternal cardiovascular changes](/content/obs/preg_cvs.qmd)

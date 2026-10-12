@@ -1,0 +1,59 @@
+#### List:
+
+- PC
+- PK
+- PD
+
+#### Physicochemical:
+
++--------------+---------------------------------------------------+
+| Presentation | - 0.5mg in 5mL clear solution in ampoule          |
+|              |                                                   |
+|              | (note 1mL NEAT flumazenil for 1mL NEAT midazolam) |
++--------------+---------------------------------------------------+
+| Structure    | - Two benzene rings                               |
+|              | - One diazepine ring                              |
++--------------+---------------------------------------------------+
+
+#### Pharmacokinetics:
+
++----------------+------------------------------------------------------------------+
+| Administration | - IV route only                                                  |
+|                | - 0.1mg q1 min                                                   |
+|                | - Max 2mg                                                        |
++----------------+------------------------------------------------------------------+
+| Time course    | - Onset IV 2 mins                                                |
+|                | - Peak IV 10 mins                                                |
+|                | - Duration IV 1 hour                                             |
+|                | - Note risk of resedation due to longer t~1/2~~β~ of most BDZ    |
+|                | - e.g. diazepam metabolite desmethyldiazepam t~1/2~~β~ 100 hours |
++----------------+------------------------------------------------------------------+
+| Absorption     | - Oral bioav \<25%                                               |
++----------------+------------------------------------------------------------------+
+| Distribution   | - Plasma protein binding 50%                                     |
+|                | - Moderately lipid soluble                                       |
+|                | - V~DSS~ 1L/kg                                                   |
++----------------+------------------------------------------------------------------+
+| Metabolism     | - \>99% metabolized                                              |
+|                | - Liver                                                          |
+|                | - CYP3A4                                                         |
+|                | - Inactive carboxylic acid and glucuronide metabolites           |
+|                | - t~1/2~~β~ 1 hour                                               |
++----------------+------------------------------------------------------------------+
+| Excretion      | - Metabolites → urine                                            |
+|                | - 0.1% of parent → urine                                         |
++----------------+------------------------------------------------------------------+
+
+#### Dynamics:
+
++---------------------+--------------------------------------------------------------------------+
+| Mechanism of action | - Competitive antagonist (or inverse agonist) at BDZ receptor on GABA-A. |
+|                     | - ↓Cl^-^ conductance → allow depolarisation to action potential          |
++---------------------+--------------------------------------------------------------------------+
+| Use                 | - Benzodiazepine toxicity e.g. midazolam                                 |
++---------------------+--------------------------------------------------------------------------+
+| Side effects        | - Anxiety                                                                |
+|                     | - Nausea, vomiting                                                       |
+|                     | - Withdrawal symptoms if BDZ dependent                                   |
+|                     | - Seizures                                                               |
++---------------------+--------------------------------------------------------------------------+

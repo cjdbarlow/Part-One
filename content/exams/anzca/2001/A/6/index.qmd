@@ -1,0 +1,67 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001A Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the substances released by the endothelium. [**Explain**]{.task-verb} the role they play in regulating blood flow through the peripheral circulation.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **Vasoactive Substances** and **Coagulation and Fibrinolysis Factors**, then [**explain**]{.task-verb} **Regulation of Peripheral Blood Flow**. Link each relevant endothelial mediator to its vascular action.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The pass rate for this question was **72%**.
+
+The key vasoactive substances released from the endothelium are nitric oxide, prostacyclin, and endothelins. Factors affecting coagulation and fibrinolysis should have been included, although some of these substances are not so much released as expressed on the surface of the endothelium. Factors relating to tissue metabolism were accepted (adenosine, hydrogen ion, carbon dioxide and others), although the endothelium would commonly not be the primary source of these substances.
+
+The second part of the question primarily required a discussion of role of the vasoactive substances on the peripheral circulation. A discussion of substances which do not affect the peripheral circulation was not required in this part of the answer. The fact that many vasoactive substances such as thromboxane A~2~, bradykinin, histamine and serotonin do not primarily arise from endothelial cells was commonly either not understood or poorly expressed.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Determinants of Cardiac Output](/content/cvs/co_determinants.qmd)
+- [Haemostasis](/content/haeme/clotting.qmd)

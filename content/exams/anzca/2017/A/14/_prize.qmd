@@ -1,0 +1,59 @@
+#### Aldosterone:
+
++---------------------+------------------------------------------------------------------------------------------------------------+
+| Axis                | ![](/content/exams/anzca/2017/A/14/prize-image001.jpg){fig-alt="Renin-angiotensin pathway to aldosterone"} |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| Release stimuli     | - Diurnal variation: nadir 0000, peak 0800                                                                 |
+|                     | - ACTH required for synthesis in adrenal cortex (zona glomerulosa)                                         |
+|                     | - Angiotensin 2 (major)                                                                                    |
+|                     | - ↑\[K^+^\] (minor)                                                                                        |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| Cellular effect     | - Acts via mineralocorticoid receptor, a nuclear transcription factor                                      |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| Overall effect      | - ↑ECF \[Na^+^\], ↓\[K^+^\], ↑pH, ↑osmolality                                                              |
+|                     | - Indirect ↑H~2~O reabsorption via ↑osmolality → ↑ADH                                                      |
+|                     | - Negative feedback on renin secretion by physiological effect                                             |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| Renal effects       | - Active in cells of connecting tubule and collecting ducts                                                |
+|                     | - Principal cells: ↑Na^+^K^+^ATPase production and activity; ↑ENaC and ROMK activity                       |
+|                     | - Type 1 intercalated cells: ↑H^+^ ATPase activity                                                         |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| GIT effects         | - ↑Na^+^K^+^ATPase and ENaC activity → ↑Na^+^ and H~2~O reabsorption                                       |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| Sweat gland effects | - ↑Na^+^K^+^ATPase and ENaC activity → ↑Na^+^ reabsorption, lower \[Na^+^\] in sweat                       |
++---------------------+------------------------------------------------------------------------------------------------------------+
+
+#### Cortisol:
+
++---------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| Axis                            | ![](/content/exams/anzca/2017/A/14/prize-image002.jpg){fig-alt="Hypothalamic-pituitary-adrenal axis with cortisol feedback"} |
++---------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| Release stimuli                 | - ACTH required for synthesis in adrenal cortex (zona fasciculata)                                                           |
+|                                 | - Psychological stress                                                                                                       |
+|                                 | - Physical stress: injury, fracture, surgery, trauma, burns                                                                  |
+|                                 | - ↓BGL (sensed by hypothalamus)                                                                                              |
++---------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| Cellular effect                 | - Acts via glucocorticoid receptor, a nuclear transcription factor                                                           |
+|                                 | - Affects 25% of the genome                                                                                                  |
+|                                 | - Also active at mineralocorticoid receptor, but inactivated by 11β-HSD-2 in epithelia                                       |
++---------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| Metabolic effect                | - Overall: mobilise substrate for oxidation or gluconeogenesis                                                               |
+|                                 | - In excess: visceral obesity, metabolic syndrome, proximal myopathy, osteoporosis, skin thinning, moon facies, buffalo hump |
+|                                 | - Carbohydrate: ↑↑gluconeogenesis (hepatic, renal), ↓glycolysis, ↓glycogenesis                                               |
+|                                 | - Fat: ↑subcut fat lipolysis, ↑visceral fat lipogenesis                                                                      |
+|                                 | - Protein: ↑proteolysis (muscle, bone, skin, fascia)                                                                         |
++---------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| Inflammatory and immune effects | - Overall: ↓inflammation, ↓auto-immunity, ↑infection, ↓wound healing                                                         |
+|                                 | - Signalling: ↓eicosanoids (inhibits PLA2), ↓some cytokines (e.g. TNFα, IL-1), ↑other cytokines (e.g. IL-4 by TH2)           |
+|                                 | - Cells: ↓WBC chemotaxis/activation/proliferation, ↑demargination of neutrophils, lymphopaenia, ↑RCC, ↑platelets             |
++---------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| Permissive effects              | - Cardiovascular: on catecholamine vasopressors                                                                              |
+|                                 | - Respiratory: on catecholamine bronchodilators                                                                              |
+|                                 | - Metabolic: on calorigenic effects of glucagon and catecholamines in hypothermia                                            |
++---------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| Other effects                   | - CNS: insomnia, depression, psychosis, impaired learning                                                                    |
+|                                 | - Renal: dilatation of afferent arteriole, ↑GFR, diuresis and natriuresis                                                    |
+|                                 | - GIT: peptic ulceration, pancreatitis                                                                                       |
+|                                 | - Eyes: cataracts, glaucoma                                                                                                  |
+|                                 | - Foetus: lung surfactant production (given prior to premature delivery)                                                     |
++---------------------------------+------------------------------------------------------------------------------------------------------------------------------+

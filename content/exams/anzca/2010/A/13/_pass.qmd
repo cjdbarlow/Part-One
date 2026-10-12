@@ -1,0 +1,38 @@
+Heart is innervated by both SNS and PNS to control cardiac function. Stimulation may affect:
+
+- Chronotropy (Heart Rate)
+- Inotropy ((Contractability)
+- Dromotropy (Conduction rate)
+- Coronary circulation
+
+ In resting state PNS predominates, reducing HR from intrinsic \~100 to \~70 
+
++-----------------------------------+-----------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+|                                   | **SNS**                                                                           | **PNS**                                                                     |
++===================================+===================================================================================+=============================================================================+
+| **Origen**                        | Nucleus Tractus Solitarius →Rostroventral lateral medulla                         | Dorsal vagus nucleus                                                        |
++-----------------------------------+-----------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+| **Pathway**                       | Spinal                                                                            | Bilateral nerves through neck →mediastinum                                  |
++-----------------------------------+-----------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+| **Ganglia location**              | T1-T4 → Paravertebral Chain Ganglion (Short preganglionic/ long post ganglionic)  | Ganglia close to target (Long Preganglionic / short postganglionic fibres)  |
++-----------------------------------+-----------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+| **Distribution within the heart** | Right Fibres SA Node                                                              | Right Fibres SA Node                                                        |
+|                                   |                                                                                   |                                                                             |
+|                                   | Left Fibres AV Node and Ventricle                                                 | Left Fibres AV Node                                                         |
++-----------------------------------+-----------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+| **Neurotransmitters/ Receptors**  | Preganglionic ACh → Nicotinic Receptors                                           | Preganglionic ACh → Nicotinic Receptors                                     |
+|                                   |                                                                                   |                                                                             |
+|                                   | Post Ganglionic → Noradrenaline → GsPCR B1 Receptors                              | Post Ganglionic → ACh → GiPCR M2 Receptors                                  |
++-----------------------------------+-----------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+| **Intracellular Response**        | ↑cAMP → ↑PKA → ↑Ca                                                                | ↑K conductance →hyperpolarisation                                           |
++-----------------------------------+-----------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+| **Effect **                       | ↑Chronotropy/Dromotropy                                                           | ↓Chronotropy/Dromotropy (conductance)                                       |
+|                                   |                                                                                   |                                                                             |
+|                                   | ↑ slope phase 4 pacemaker AP, ↓ AV delay                                          | ↑K → Slows phase 4 and hyperpolarises → ↑ time to threshold                 |
+|                                   |                                                                                   |                                                                             |
+|                                   | ↑ Inotropy                                                                        | Minimal direct Effect on Inotropy - mostly from ↓ SNS                       |
+|                                   |                                                                                   |                                                                             |
+|                                   | ↑Myocyte Ca2+ → Ca / Troponin C binding →  ↑actin/myosin interaction              |                                                                             |
++-----------------------------------+-----------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+| **Onset/Offset**                  | Slower onset, longer lasting                                                      | Faster onset (beat to beat regulation)                                      |
++-----------------------------------+-----------------------------------------------------------------------------------+-----------------------------------------------------------------------------+

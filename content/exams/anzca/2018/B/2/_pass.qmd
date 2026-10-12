@@ -1,0 +1,99 @@
+The factors affecting oxygen transport form the alveoli to the tissues is best described by the Oxygen cascade and factors that affect it, including
+
+- The Alveolar gas equation 
+- Fick’s Law of diffusion
+- Oxygen flux equation / Oxygen delivery equation 
+- Haemoglobin oxygen dissociation curve 
+
+**Oxygen Cascade**
+
+![](/content/exams/anzca/2018/B/2/standard-image38.jpeg){fig-alt="Oxygen cascade from dry air to mitochondria showing diffusion and venous admixture"}
+
+The oxygen cascade describes the partial pressure of oxygen as progresses form from air to mitochondria. It illustrates the importance of the pressure gradient established from supply to consumption by mitochondria to facilitate this transfer.
+
+Any change in the components of the below described laws/equations can affect oxygen transport. 
+
+Important Partial Pressures of the Cascade:
+
+- Air at sea level = 160mmHg
+- Trachea = 150mmHg
+- Alveolar = 100mmhG 
+- Aorta = 90mmHg
+- Capillaries/Tissues = \~5mmHg
+- Mitochondria 1mmHg
+
+**Alveolar Gas equation**
+
+The Alveolar Gas equation describes the changes in partial pressure from Air to Alveolus:
+
+PAO2 = FiO2 x (ATM - PAH20) - (PaCO2/RQ)
+
+PAO2 =  Alveolar partial pressure of oxygen 
+
+FiO2 = Fraction of inspired oxygen in air (21%) 
+
+ATM = Atmospheric pressure at sea level 760mmHg
+
+PAH2O = Saturated vapour pressure of oxygen at 37deg = 47mmHg)
+
+PaCO2 = Alveolar partial pressure of CO2 = 40mmHg 
+
+RQ = respiratory quotient - ratio of CO2 produced for oxygen consumed, considered to be 0.8 for a mixed diet. 
+
+The change in partial pressure for the Alveolus to the arterial system , the A-a gradient is a result of diffusion across the alveolar membrane, anatomical and physiological shunt.
+
+**Fick’s Law of Diffusion **
+
+Diffusion across the alveolar membrane is best described by Fick’s law of diffusion:
+
+Q= (ΔPxAxk)/T
+
+Q = rate of diffusion
+
+ΔP = Concentration gradient across the diffusion membrane 
+
+A = Membrane diffusion area - larger the membrane area → more rapid diffusion
+
+k = diffusion constant - dependant of solubility of gas and MW 
+
+T = membrane thickness, inc thickness → decreased rate of diffusion
+
+VQ scatter from mismatches in pulmonary ventilation and perfusion, and deoxygenated blood from 2/3 of the bronchial circulation and the thespian veins from the heart is added to the oxygenated blood decreasing the PaO2.
+
+**Oxygen Flux Equation** 
+
+Delivery of blood to tissues is described by the Oxygen flux equation:
+
+DO2 = CO x (SpO2 x Hb x 1.39) = (0.003 x PaO2) 
+
+Where:
+
+CO = Cardiac output = HR x SV
+
+SpO2 = Oxygen saturation of haemoglobin
+
+Hb = Concentration of Hb 
+
+1.34 = the oxygen carrying capacity of haemoglobin, sometimes considered to be 1.39
+
+Pa 
+
+0.003 = solidity constant of oxygen in water
+
+PaO2 = Arterial partial pressure of oxygen
+
+The latter 2 components describe the amount of oxygen transported as dissolved O2 in plasma. This is affected the amount of oxygen delivered to alveolar capillary and the atmospheric pressure. 
+
+**Oxygen-Haemoglobin Dissociation Curve**
+
+The oxygen-haemoglobin disassociation curve describes the affinity of oxygen for haemoglobin in different physiological states. As haemoglobin is the primary transport medium for oxygen it’s an important factor in oxygen delivery to tissues. 
+
+The factor increasing unloading of oxygen in tissues is primarily the PaO2 in the area - ↓ PaO2 in the area - results in Hb offloading
+
+The disassociation curve can be shifted to the right increasing O2 offloading through:
+
+↑CO2
+
+↓pH 
+
+↑ 2,3 DPG

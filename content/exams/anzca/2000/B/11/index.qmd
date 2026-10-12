@@ -1,0 +1,62 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2000B Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the structure and function of G proteins.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} **G Protein Structure**, **Activation and Inactivation**, and **Effector Mechanisms**. Use receptor examples to connect the G protein to its enzyme or ion-channel effector and signalling function.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**50%** of candidates achieved a pass for this question. G proteins are so named because they are guanine nucleotide binding proteins (and thus bind GDP and GTP, not ADP and ATP as suggested by some candidates). The most common error was to confuse the structure of the G protein with that of the receptor to which the G protein is coupled. Otherwise the heterotrimeric structure of the G protein and the sequence of events from activation of the receptor to activation of the effector mechanism was well described. Some candidates mistakenly referred to the G protein itself as the second messenger. Better answers were able to give several examples of G protein linked receptors along with the corresponding enzyme systems or ion channels that were the effectors for the different G proteins (e.g. β adrenoreceptor linked to Gs to stimulate adenylyl cyclase to increase cAMP; µ opioid receptor linked to an inhibitory G protein that opens K+ channels, etc.). Many candidates gave unnecessary information on the structure of the G protein linked receptor itself or wasted time describing a long cascade of effects caused by different second messengers. Most candidates knew that G proteins are responsible for transduction and amplification of the original signal but very few mentioned how changes in G protein coupling are involved in the regulation of receptors.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Receptor Types](/content/pharmacology/receptor_types.qmd)

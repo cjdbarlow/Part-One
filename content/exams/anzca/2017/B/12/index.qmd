@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2017B Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the clinical effects of non-steroidal anti-inflammatory drugs including the mechanism(s) through which they exert these effects.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} beneficial and adverse effects through their mechanisms. Begin with the drug class and cyclo-oxygenase inhibition, then connect relevant isoenzymes and prostaglandins to each clinical effect.
+
+::: {.structure-headings}
+### Drug Class and Cyclo-Oxygenase Inhibition
+
+### Analgesic, Anti-Inflammatory and Antipyretic Effects
+
+### Platelet and Vascular Effects
+
+### Gastrointestinal and Renal Effects
+
+### Respiratory Effects and Selective Inhibition
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**83.3 %** of candidates achieved a pass in this question
+
+NSAIDs are a class of medications commonly used by both our patients and us, as anaesthetists, in the peri-operative period.
+
+In order to achieve a pass in this question, candidates were required to mention that NSAIDs act via the inhibition of cyclo-oxygenase (COX) enzymes resulting in a reduction in prostaglandin synthesis. Marks were awarded for mentioning that there are different isoforms on the COX enzyme, which have different physiological roles and that most of the therapeutic effects of NSAIDs result from blockade of the COX2 isoform. It was expected that the candidate would then discuss some of the multitude of therapeutic and side effects of NSAIDs, and indicate the mechanism for the effect. Most candidates were able to do this adequately, as indicated by the high pass mark. To pass, the drug class must have been mentioned. It was not adequate to just talk about prostaglandin function.
+
+More comprehensive answers included details regarding which isoenzyme needed to be blocked to produce the beneficial or adverse effect. Those who mentioned the specific prostaglandin involved also gained points for this. Merely stating the mechanism of the effect as “reduced prostaglandin synthesis” scored minimal points, as the mechanism by which these drugs produce their effects has been well elucidated.
+
+Many candidates did not mention the anti-inflammatory effect of NSAIDs, despite this effect being featured in the name of the drug class. Overall there was a better understanding of the mechanism of the side effects produced by NSAIDs compared with the therapeutic benefits. Many people overstated the renal effects of the drug class in normal individuals. There was confusion regarding the isoenzymes and prostaglandins involved in platelet and vasculature function and the consequent clinical effects of NSAIDs.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2010/A/5/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [COX inhibitors](/content/pharmacopoeia/analgesics/cox_inhibitors.qmd)

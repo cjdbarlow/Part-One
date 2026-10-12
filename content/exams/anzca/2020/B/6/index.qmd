@@ -1,0 +1,94 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2020B Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Draw and label**]{.task-verb} a normal capnograph to show the phases of the respiratory cycle. (30%) [**List and briefly describe**]{.task-verb} what information can be obtained from the capnograph. (70%)
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Draw and label**]{.task-verb} a realistic waveform with axes and respiratory phases, then [**list and briefly describe**]{.task-verb} the information it provides. Link each waveform feature or alteration to patient physiology, airway placement or equipment function.
+
+::: {.structure-headings}
+### Normal Waveform and Respiratory Phases
+
+### Airway Placement and Ventilation
+
+### Perfusion and Cardiac Output
+
+### Equipment and Circuit Function
+
+### Other Waveform Changes and Their Interpretation
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The main domains expected to be covered in this were
+
+a) an accurate, labelled diagram of a capnograph, showing correctly labelled axes with the phases of the cycle clearly labelled;
+b) a number of different pieces of information that can be obtained, with some description of the value of this information and
+c) evidence from this of a recognition that the capnograph is used as a monitor of both the patient and equipment.
+
+Common problems encountered were:
+
+Poor diagrams. Very few diagrams presented actually resembled a capnograph trace, with many rigid square waves being drawn. Axes were often unlabelled and many candidates took very little care to accurately demonstrate the phases. 
+
+Identification of what is happening in the cycle beyond a simple ‘inspiration/expiration’ divide was expected. Books differ in how these are labelled and latitude was allowed here. 
+
+Many candidates attempted to argue that information from a capnograph can be directly used to calculate dead space either by substituting numbers into a Bohr equation or by using Fowler’s method, neither of which is the case. 
+
+Very few candidates listed use of a capnogram to confirm ETT position, or circuit patency and/or disconnections, and many could not give more than two examples of altered capnograph traces. 
+
+The best resources for this question are: 
+
+Miller’s Anaesthesia, ninth edition, Chapter 41: Respiratory Monitoring 
+
+Nunn and Lumb’s Applied Respiratory Physiology, ninth edition, Chapter 9: Carbon Dioxide
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2020/B/6/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2020/B/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Capnography](/content/equipment/end_tidal.qmd)

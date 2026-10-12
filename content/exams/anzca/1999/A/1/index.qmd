@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999A Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the Bohr and Haldane effects in trans-placental gas exchange.
+:::
+
+Also asked in: [2002B Question 16](/content/exams/anzca/2002/B/16/index.qmd#examiner-comments), [2014B Question 12](/content/exams/anzca/2014/B/12/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} each effect by linking the haemoglobin mechanism to changes on both sides of the placenta and the resulting direction of gas transfer.
+
+::: {.structure-headings}
+### Transplacental Oxygen and Carbon Dioxide Gradients
+
+### Bohr Effect and Double Bohr Effect
+
+### Haldane Effect and Double Haldane Effect
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Approximately **42%** of candidates passed this question.
+
+The Bohr and Haldane effects were defined accurately by nearly all candidates and most confined themselves to the question including little irrelevant information. Good answers also included the PO~2~, PCO~2~ and pH values in the maternal and fetal circulation’s before and after the placenta. The best way to describe the transfer of oxygen and carbon dioxide was in a narrative form, explaining each effect eg. the Bohr effect on the maternal side then on the foetal side.
+
+This answer required precision with terms. Many candidates did not make it clear whether they were discussing maternal or foetal haemoglobin, or maternal or foetal haemoglobin oxygen dissociation curves. Uterine and umbilical vessels, when included in diagrams were often wrongly labelled or not labelled at all.
+
+The most common mistake was to try and draw the double Bohr effect diagram. This diagram is very complicated and takes a lot of time. Very few candidates drew it accurately or labelled the axes with both numbers and units. Often the diagram was drawn and no attempt made to explain it. The diagram alone is not an adequate explanation.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/1999/A/1/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Placental gas exchange](/content/obs/placenta.qmd)
+- [Oxygen–haemoglobin dissociation curve](/content/resp/oxygen_storage.qmd#curve)
+- [Carbon dioxide transport](/content/resp/co2_transport.qmd)

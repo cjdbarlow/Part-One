@@ -1,0 +1,70 @@
+#### List:
+
+- Principles: heat, temp, SHC
+- Mercury thermometer: components, how it works, pros and cons
+- Thermistor: components, how it works, pros and cons
+
+#### Principles:
+
++------------------------+----------------------------------------------------------------------------------------------------------------------+
+| Heat                   | - Form of energy                                                                                                     |
+|                        | - Transferred from higher temp object to lower temp object in thermal contact                                        |
+|                        | - Units Joule = kg.m^2^.s^-2^                                                                                        |
++------------------------+----------------------------------------------------------------------------------------------------------------------+
+| Temperature            | - Measure of the average kinetic energy of the particles within a substance per degree of freedom of those particles |
+|                        | - Unit Kelvin (where 0K = -273.15°C = absolute zero)                                                                 |
++------------------------+----------------------------------------------------------------------------------------------------------------------+
+| Specific heat capacity | - Describes relationship between heat and temperature for a substance                                                |
+|                        | - = amount of heat needing to be added to 1g substance to increase temp by 1K                                        |
+|                        | - Units J/K                                                                                                          |
++------------------------+----------------------------------------------------------------------------------------------------------------------+
+
+#### Mercury thermometer:
+
++--------------+---------------------------------------------------------------------------------------+
+| Features     | - Glass vessel                                                                        |
+|              | - Inner cavity: reservoir continuous with a capillary tube via an angled constriction |
+|              | - Cavity is evacuated except for mercury liquid and vapour                            |
+|              | - Graduations on the outside of the capillary tube, established by calibration        |
+|              | - Number on the side is the time constant                                             |
++--------------+---------------------------------------------------------------------------------------+
+| How it works | - ↑ temp → expansion of fluid → rise of fluid level up the tube                       |
+|              | - Fluid level increase ∝ temperature x (ratio size of reservoir : diameter of tube)   |
++--------------+---------------------------------------------------------------------------------------+
+| Pros         | - Cheap                                                                               |
+|              | - Simple                                                                              |
+|              | - Accurate                                                                            |
+|              | - Short time constant = fast (equilibration within 2-3 minutes)                       |
+|              | - Can be chemically sterilized                                                        |
+|              | - No repeat calibration required                                                      |
++--------------+---------------------------------------------------------------------------------------+
+| Cons         | - Mercury toxicity if breaks                                                          |
+|              | - Risk of cross-contamination                                                         |
+|              | - Unsuitable for low temperature (solidifies at -39°C)                                |
+|              | - Can’t be electronically processed                                                   |
+|              | - Not for body cavities                                                               |
+|              | - Not continuous                                                                      |
++--------------+---------------------------------------------------------------------------------------+
+
+#### Thermistor:
+
++--------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Features     | - Bead of metal oxide semi-conductor (e.g. manganese, iron, cobalt, nickel, copper)                                                                      |
+|              | - +/- incorporated into a Wheatstone bridge to improve accuracy                                                                                          |
++--------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| How it works | - ↑ temperature → ↓ resistance                                                                                                                           |
+|              | - Non-linear relationship overall                                                                                                                        |
+|              | - Near linear within physiological range                                                                                                                 |
+|              |                                                                                                                                                          |
+|              | ![](/content/exams/anzca/1999/A/5/prize-image001.jpg){fig-alt="Thermistor resistance against temperature, showing the negative temperature coefficient"} |
++--------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Pros         | - Continuous readout                                                                                                                                     |
+|              | - Rapid response                                                                                                                                         |
+|              | - Small, robust (e.g. in pulmonary artery catheter)                                                                                                      |
+|              | - Easy electronic processing                                                                                                                             |
+|              | - Requires very little current hence prevention of microshock (\<10mA)                                                                                   |
++--------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Cons         | - Non-linear relationship between rise in temp and fall in resistance                                                                                    |
+|              | - ↓accuracy with time                                                                                                                                    |
+|              | - +/-↓accuracy with sterilization                                                                                                                        |
++--------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+

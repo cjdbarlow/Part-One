@@ -1,0 +1,45 @@
+Urine production is a product of glomerular filtration and tubular reabsorption.
+
+Glomerular filtration 180L/day / 125ml/min
+
+Urine output 1-3L/day, obligatory urine production \~500ml/day 
+
+Urine can vary from 50-1200mosmkg
+
+Filtrate Reabsorption
+
+65% of filtrate is reabsorbed in the PCT with sodium and other products 
+
+reabsorption is iso-osmolar
+
+**LOH**
+
+Establishes a medullary concentration gradient through counter-current mechanism
+
+Juxtamedullary nephrons have longer LOH extending into renal medulla.
+
+Thin Descending limb permeable to water and impermeable to solutes, water reabsorbed by osmosis.
+
+Think ascending limb impermeable to water, Na/K/2Cl pumps actively into interstitium → produces hypotonic filtrate.
+
+**DCT **
+
+Reabsorption of water and Na under influence of Aldosterone acting at principal cells to increase 2Na/3K atlases pumps increases sodium and water Reabsorption 
+
+**Collecting duct**
+
+When ADH present it acts at V2 receptors in the collecting ducts, allowing water to move through osmosis due to the concentration gradient established by the counter current multiplier. 
+
+Leads to aquaporin molecule insertion and are selective for water. 
+
+This mechanism is can reabsorbed for up to 75% of collecting duct fluid
+
+**Vasa Recta - counter current exchange**
+
+Capillary network surrounds the juxtamedullary LOH
+
+Slow flow allows equalisation   of osmolarity between capillary and interstitium at top and bottom of LOH preventing concentration gradient washout. 
+
+**Urea Recycling**
+
+ADH results in Urea Reabsorption in the collecting duct by urea transporters increasing the medullary concentration gradient

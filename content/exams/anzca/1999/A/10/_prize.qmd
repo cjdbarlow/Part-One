@@ -1,0 +1,91 @@
+#### List:
+
+- PC
+- PK
+- PD
+
+#### Physicochemical:
+
++-----------------+----------------------------------------------------+
+| Structure/class | - Synthetic opioid                                 |
+|                 | - Phenylpiperidine derivative                      |
+|                 | - Ester linkage                                    |
++-----------------+----------------------------------------------------+
+| Presentation    | - Lyophillised white powder remifentanil HCl       |
+|                 | - Reconstituted with saline                        |
+|                 | - Glycine additive (hence not for intrathecal use) |
++-----------------+----------------------------------------------------+
+
+#### Pharmacokinetic:
+
++----------------+----------------------------------------------------------------------------+
+| Administration | - Bolus 0.5-1mcg/kg for induction or intubation                            |
+|                | - Infusion 0.025-0.2mcg/kg/min                                             |
+|                | - Infusion TCI Ce 2-6ng/mL (e.g. Minto model)                              |
++----------------+----------------------------------------------------------------------------+
+| Time course    | - Onset: \<1 min                                                           |
+|                | - Peak: 1.8 mins                                                           |
+|                | - Duration: 3-5mins (rapid metabolism)                                     |
++----------------+----------------------------------------------------------------------------+
+| Absorption     | - Oral bioav low                                                           |
++----------------+----------------------------------------------------------------------------+
+| Distribution   | - Rapid effect site equilibration, t~1/2ke0~ 1.5 mins                      |
+|                |   - Moderate lipid solubility 20x morphine                                 |
+|                |   - Weak base pKa 7.1, 68% unionised at pH 7.4, plasma protein binding 70% |
+|                | - Very small V~DSS~ 0.3L/kg                                                |
++----------------+----------------------------------------------------------------------------+
+| Metabolism     | - Hydrolyis by non-specific esterases in plasma and muscle                 |
+|                | - i.e. multicompartment and organ-independent                              |
+|                | - Fast Cl 40mL/kg/min                                                      |
+|                | - ↑Cl + ↓V~DSS~ = short t~1/2~~β~ 10 mins                                  |
+|                | - Carboxylic acid metabolite 1/1000 as active                              |
++----------------+----------------------------------------------------------------------------+
+| Excretion      | - Metabolites → urine                                                      |
++----------------+----------------------------------------------------------------------------+
+
+#### Dynamics:
+
++---------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Mechanism           | - Pure μ opioid receptor agonist                                                                                                                                  |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Analgesic effect    | - Supraspinal (e.g. PAG): inhibit OFF cell → disinhibit ON cell → ↑descending modulation via noradrenaline and serotonin → pre-synaptic inhibition at dorsal horn |
+|                     | - Spinal (dorsal horn): pre-synaptic inhibition of nociceptors                                                                                                    |
+|                     | - Risk of severe pain when infusion ceased                                                                                                                        |
+|                     | - Risk of hyperalgaesia and tolerance if prolonged, high dose infusion                                                                                            |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Other CNS effects   | - Sedation (M receptors in the medulla) +/- unconsciousness                                                                                                       |
+|                     | - Miosis: (M receptor in CNIII EW nucleus)                                                                                                                        |
+|                     | - Euphoria, dysphoria, hallucination                                                                                                                              |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| CVS effects         | - ↓SNS output from medulla, ↑PSNS output via CNX                                                                                                                  |
+|                     | - ↓HR, +/- arrest if bolus (Rx atropine)                                                                                                                          |
+|                     | - ↓SVR, ↓mAP                                                                                                                                                      |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Respiratory effects | - Respiratory centre depression:                                                                                                                                  |
+|                     |   - Decreased RR more than V~T~                                                                                                                                   |
+|                     |   - Apnoea if bolused                                                                                                                                             |
+|                     | - Airway reflex depression, anti-tussive                                                                                                                          |
+|                     | - Chest wall rigidity if bolused                                                                                                                                  |
+|                     |   - M receptor on GABA-ergic neurons in basal ganglia                                                                                                             |
+|                     |   - May herald unconsciousness                                                                                                                                    |
+|                     |   - Rx: paralysis                                                                                                                                                 |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Other               | - Most other opioid side effects uncommon due to                                                                                                                  |
+|                     |   - Used primarily under GA                                                                                                                                       |
+|                     |   - Rapid offset                                                                                                                                                  |
+|                     | - ↓GIT motility                                                                                                                                                   |
+|                     | - Urinary retention                                                                                                                                               |
+|                     | - ↓Immune function                                                                                                                                                |
+|                     | - ↓Hypothalamic/pituitary function → hypogonadism, osteoporosis                                                                                                   |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Indications/use     | - TIVA with propofol                                                                                                                                              |
+|                     | - Synergistic adjunct to propofol or volatile anaesthetic                                                                                                         |
+|                     |   - Reduces nociceptive activation of reticular activating system                                                                                                 |
+|                     |   - Hence ↓MAC, ↓Cp~50~ propofol                                                                                                                                  |
+|                     | - ETT tolerance:                                                                                                                                                  |
+|                     |   - Facilitate intubation without paralysis (e.g. neuromuscular disorder)                                                                                         |
+|                     |   - Cough free emergence (if high risk of secondary bleeding)                                                                                                     |
+|                     | - Reduce bleeding in sinus surgery                                                                                                                                |
+|                     | - Facilitate rapid emergence up for neurological assessment (e.g. with desflurane)                                                                                |
+|                     | - PCA for labour analgesia (rapid onset and offset, minimal effect on foetus)                                                                                     |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+

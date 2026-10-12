@@ -1,0 +1,37 @@
+Carbon Dioxide is a product of cellular respiration Produced at a rate of approx. 200ml/min in a healthy adult and is usually tightly controlled around a PaCO2 of 40mmHg. 
+
+The quantity of CO2 produced for O2 consumed is the respiratory quotient (RQ) and changes as per diet.
+
+- For a healthy adult enacting a combined diet including animal products the RQ is usually 0.8.
+- Carbohydrate Diets the RQ is 1.0
+- Lipid Diets the RQ is 0.7
+
+Ventilation is controlled by a system of sensors, regulators and effectors which operative by a negative feedback loop whereby increasing levels of CO2 stimulate increase minute ventilation by increasing tidal volume and respiratory rate.
+
+Sensors:
+
+Peripheral chemo receptors in the Carotid Body and Aortic Body detect increases in CO2 and decreases in pH (Carotid Body only). This is carried by the glossopharyngeal nerve and vagus nerve respectively to the respiratory centre in the medulla. 
+
+Peripheral receptor contribution to stimulation ventilation is a fast response however considered weaker (20% of total) then the central receptor.
+
+Central Chemoreceptors are sensitive to decreases in pH secondary to increased diffusion of CO2 through the BBB (which is impermeable to H+) and accumulation of CO2 in the CSF. This CO2 is enzymatically catalysed by carbonic anhydride to for H2CO3 that disassociated into H+ and HCO3-, resulting in ↓pH.
+
+Central Controller:
+
+The respiratory centre receives afferent supply from chemoreceptors increases RR by increasing stimulation from the dorsal respiratory group → TV and RR. 
+
+Effectors
+
+Phrenic Nerve → Diaphragm
+
+Vagus and Intercostal Nerves → respiratory muscles including the external and internal intercostal muscles and the accessory muscles including sternocleidomastoid.
+
+In healthy spontaneously breathing subjects, there is a progressive and rapid increase in MV (approx. 3L) for each 1mmHg increase in PaCO2 over 40mmHg. ↓pH has a synergistically response where CO2 with increase MV at a lower set point (\<40mmHg). 
+
+![](/content/exams/anzca/2015/A/2/standard-image11.png){fig-alt="Alveolar ventilation against arterial carbon dioxide pressure in an awake normal subject"}
+
+Influences on the ventilator response to CO2 include:
+
+- PaO2 - both increased and decreased
+- Anaesthesia and opiates decreases sensitivity to ↑PaCO2 and ↓PaO2
+- Sleep

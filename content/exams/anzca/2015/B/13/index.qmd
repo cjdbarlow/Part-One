@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2015B Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the fuel cell and the paramagnetic oxygen analyser. [**Discuss**]{.task-verb} their use in anaesthetic practice.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} each analyser with a labelled diagram, explaining how oxygen generates the measured signal. [**Discuss**]{.task-verb} clinical use through response time, sampling, calibration, power requirements and limitations.
+
+::: {.structure-headings}
+### Fuel Cell Construction and Electrochemistry
+
+### Fuel Cell Response and Limitations
+
+### Paramagnetism and Modern Analyser Design
+
+### Paramagnetic Response and Limitations
+
+### Calibration and Anaesthetic Applications
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**29.4%** of candidates achieved a pass in this question
+
+It appeared that this was a subject that many candidates had omitted to study at all; but of those that had most were able to score well.
+
+The answer required a brief description of the paramagnetic properties of oxygen, and the modern type of paramagnetic oxygen analysers using an oscillating electromagnet. High marks were awarded for those answers that included a diagram or detailed description. It should be noted that the old glass spheres type of anaylser is too slow for use in anaesthesia, and the frequent discussions on this apparatus received little if any marks.
+
+The fuel cell required an accurate description of the relevant electrochemistry. A fuel cell is not synonymous with a Clark electrode, but many candidates seemed to think it is.
+
+Discussions on response times, sampling, calibration, exhaustion, power sources and role in breath to breath analysis also received marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2015/B/13/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2015/B/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Gas analysis](/content/equipment/gas_analysis.qmd)

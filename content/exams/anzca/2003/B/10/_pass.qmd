@@ -1,0 +1,39 @@
+Systemic Arterial pressure is rightly maintained within narrow limits during normal functioning. MAP = CO x SVR (Ohms Law) 
+
+This is achieved by A system of sensors, regulator centres and effectors
+
+Sensors: Baroreceptors
+
+Control Centre: Medullary Vasomotor Centre 
+
+Effectors Heart, vessels, kidneys, endocrine (hypothalamus/pituitary)  
+
+Baroreceptors are mechanoreceptors that detect change in wall stretch Secondary to pressure and volume changes.
+
+2 types of Baroreceptors, high pressure and low-pressure Baroreceptors.
+
+**High Pressure Baroreceptors **
+
+High Pressure baroreceptors are located in the Carotid sinus and aortic arch 
+
+High pressure Baroreceptors provide a rapid response to maintain relatively constant MAP by negative feedback mechanism.
+
+MOA: ↑MAP → Stretch of Baroreceptors → ↑Firing/activation of afferent Via glossopharyngeal (CNIX) from Carotid, and Vagus (CNX) from Aortic Arch → Nucleus Tractus Solitaries) to medulla → ↓ rate of firing of efferent to heart and peripheral vessels 
+
+→ Heart: ↓HR ↓Contractility → Stroke Volume 
+
+→  Vessels: ↓SVR 
+
+**Low Pressure Baroreceptors **
+
+Low Pressure Baroreceptors detect changes in volume. In general they are a slow response feedback system 
+
+- Present in atria and great veins 
+
+↓Volume  → ↓Stretch / distension → ↓ afferent activation via vagus nerve 
+
+→ ↑SNS activity - ↑CO vie HR/SV/Contractility 
+
+→ ↓ANP Release → ↑Water reabsorption in kidney, Vasoconstriction 
+
+→ ↑ ADH / Thirst

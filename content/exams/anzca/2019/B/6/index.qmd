@@ -1,0 +1,88 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019B Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+Propofol and remifentanil target controlled infusions are often given together as a total intravenous anaesthesia technique. [**Discuss**]{.task-verb} pharmacological reasons why this is a useful combination.
+:::
+
+Also asked in: [2017A Question 3](/content/exams/anzca/2017/A/3/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} the combination through pharmaceutics, kinetics and dynamics, explaining how complementary and synergistic actions affect dose, onset, offset and adverse effects. Connect these properties to relevant clinical applications of target controlled infusions.
+
+::: {.structure-headings}
+### Pharmaceutical Compatibility
+
+### Onset, Offset and Accumulation
+
+### Pharmacodynamic Synergism
+
+### Target Controlled Infusion
+
+### Clinical Applications and Adverse Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**91.1 %** of candidates achieved a pass in this question
+
+In order to pass, an answer needed to convey an understanding of the pharmacodynamic and pharmacokinetic principles that support propofol and remifentanil as a useful combination for total intravenous anaesthesia.
+
+When discussing pharmacodynamics, some idea of clinically appropriate plasma and effect site concentrations and how remifentanil reduced that of propofol was valuable. Good answers acknowledged important side effects of each drug and discussed how the combination of these two drugs might minimise these.
+
+Pharmacokinetics can be split into two parts; the general kinetics of the drugs (with an emphasis on synergism and onset and offset profile) and the advantages that a target controlled infusion might provide. Lists of pharmacokinetic values for half life, Keo, volume of distribution, pKa, ionised fractions etc without explaining their relevance did not attract marks.
+
+With regard to pharmaceutics, the only point of note is that remifentanil and propofol are compatible and do not precipitate.
+
+Pharmacologic principles that explained application of this combination to specific indications also distinguished some answers.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2017/A/3/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2017/A/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Propofol](/content/pharmacopoeia/neuro/propofol.qmd)
+- [Opioids](/content/pharmacopoeia/analgesics/opioids.qmd)
+- [Target controlled infusion](/content/pharmacology/tci.qmd)

@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006A Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} the physiological processes which cause oliguria in response to hypovolaemic shock.
+:::
+
+Also asked in: [2002A Question 6](/content/exams/anzca/2002/A/6/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Explain**]{.task-verb} **Detection of Hypovolaemia**, **Neuroendocrine Responses**, **Changes in Renal Perfusion and Filtration**, and **Tubular Water Conservation**. Link these processes to reduced urine output after defining oliguria and hypovolaemic shock.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**38 %** of candidates passed this question.
+
+This question has been asked on two previous occasions. The Examiner Reports from then are well worth reviewing.
+
+The following points and concepts should have been included:
+
+- A simple brief definition of hypovolaemic shock and oliguria
+- The result is to reduce sodium loss and increase water retention
+- How renal blood flow is reduced and why this is beneficial
+- Mechanisms for the reduction in glomerular filtration rate (GFR), and the relationship of GFR to renal artery pressure
+- Activation of the renin-angiotensin-aldosterone (RAA) system starting with prorenin and listing the roles of angiotensin II
+- Effects of aldosterone and anti-diuretic hormone
+
+Lack of detail around mechanisms of action was common and many candidates did not mention autoregulation of renal blood flow or the relationship of renal artery pressure and GFR. Afferent and efferent glomerular arteriolar effects of angiotensin II and noradrenaline were often confused. A lengthy description of systemic blood pressure control, the factors comprising Starling’s equation, and the counter-current mechanism was not expected. Details on atrial naturetic peptide were not relevant to the mechanisms of oliguria.
+
+This question required a well organised answer so that the major points could be covered in enough detail.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Glomerular Filtration and Tubular Function](/content/renal/glomerular_filtration.qmd)
+- [Endocrine Functions of the Kidney](/content/renal/endocrine.qmd)

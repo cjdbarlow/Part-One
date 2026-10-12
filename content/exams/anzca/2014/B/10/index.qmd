@@ -1,0 +1,93 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2014B Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**How is renal blood flow regulated**]{.task-verb}? [**What are the physiological effects**]{.task-verb} of angiotensin II?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+Explain how renal blood flow is [**regulated**]{.task-verb} by connecting perfusion pressure and vascular resistance to the control mechanisms. Organise the **physiological effects of angiotensin II** by system.
+
+::: {.structure-headings}
+### Renal Blood Flow: Definition, Normal Values and Determinants
+
+### Myogenic Autoregulation and Tubuloglomerular Feedback
+
+### Neural, Local and Hormonal Control
+
+### Angiotensin II: Cardiovascular, CNS, Renal and Autonomic Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**57%** of candidates achieved a pass in this question
+
+Better answers were written with a reasonable structure that included:
+
+- A definition of renal blood flow, with normal values
+
+- Flow = renal perfusion pressure / renal vascular resistance.
+
+- The anatomy of renal blood supply (only a brief description was necessary) and recognition that the vascular tone of the afferent and efferent arterioles is the main determinant of renal vascular resistance.
+
+- Describing autoregulation between a range of mean arterial pressures (A wide range of values was accepted here).
+
+- An explanation of myogenic autoregulation. This was often overlooked or not discussed in much detail.
+
+- Notes about tubuloglomerular feedback, including the structure and function of the juxtaglomerular complex, and the activation of the renin-angiotensin-aldosterone cascade.
+
+- The role of the sympathetic nervous system.
+
+Additional points were awarded for extra detail about release and effects of local and circulating hormones (such as ANP/noradrenaline/adrenaline/adenosine/NO/prostaglandins) on afferent and efferent arteriole tone. Common errors included: confusing glomerular filtration rate and renal blood flow, vague and imprecise statements about effects of different hormones, omitting detail and listing bullet points without explanation.
+
+Effects of angiotensin II: A list of these was sufficient for a pass mark – in particular the cardiovascular, CNS, renal and autonomic effects. Further marks were awarded for an increased level of detail. For example, most candidates were able to write that angiotensin II was a potent vasoconstrictor. More marks were awarded if this was followed with a description that angiotensin acted on peripheral arteries and veins, leading to an increase in SVR and MAP. The renal effects were reasonably well described, but few candidates explained that angiotensin II has a greater effect on the efferent arteriole than the afferent arteriole. Credit was given if candidates could explain that the net effect of an increased level of angiotensin II is to increase water/salt retention and increase the effective circulating volume.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2014/B/10/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Control of renal blood flow](/content/renal/rbf.qmd)
+- [Renin–angiotensin–aldosterone system](/content/renal/endocrine.qmd#raas)

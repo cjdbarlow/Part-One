@@ -1,0 +1,104 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011B Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the effects of resonance and damping on an invasive arterial blood pressure tracing.
+:::
+
+Also asked in: [2007A Question 15](/content/exams/anzca/2007/A/15/index.qmd#examiner-comments), [2013B Question 8](/content/exams/anzca/2013/B/8/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} resonance and damping before linking each to waveform distortion and measured pressures. Use labelled tracings to show the differences.
+
+::: {.structure-headings}
+### Measurement System and Natural Frequency
+
+### Resonance
+
+### Damping Coefficient
+
+### Underdamped, Overdamped and Optimally Damped Tracings
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**42%** of candidates passed this question.
+
+Basic material required to pass:
+
+Description of the measurement system was useful only if related to the following discussion
+
+Definition of resonance and damping
+
+Explanation of their importance and their effect on the timely measurement of the components of the blood pressure (systolic pressure, diastolic pressure, mean pressure)
+
+Advanced material:
+
+Quantification of the effects
+
+Common errors/omissions/unnecessary inclusions:
+
+Equations without definition of symbols
+
+Input frequency is not 0 – 40Hz!
+
+Natural resonant frequency is a property of the measuring system
+
+Details of transduction were not required
+
+“directionless relationships”; in a connected universe, everything influences everything else. To be of use, a relationship should include a direction of the effect, and a qualitative/quantitative indicator of the importance/magnitude
+
+Organisational errors:
+
+Planning in the margins or on the back of the cover is a waste of time (headings can be used in the answer)
+
+Long lists of definitions before any factual content is a poor use of time (definitions should be embedded within the answer itself)
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2007/A/15/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/A/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Pressure transduction](/content/equipment/transducers.qmd)

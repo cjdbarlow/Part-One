@@ -1,0 +1,48 @@
+Soda lime is a product used for absorbing CO2 from a closed or semi closed anaesthetic circuit.
+
+It includes:
+
+Ca(OH)2
+
+NaOH
+
+H2O 
+
+pH indicator and silica
+
+CO2 and Soda Lime undergo the following reaction to form CaCO3 and H20:
+
+CO2 + H20 → H2CO3
+
+H2CO3 + 2NaOH → Na2CO3 + 2H2O + Heat 
+
+Na2CO3 + Ca(OH)2 → CaCO3 + 2NaOH 
+
+**General Hazards**
+
+- Failure due to depletion → CO2 accumulation 
+- ↑Resistance to gas flow 
+- ↑Heat → all reaction exothermic can cause injury, ↑risk with sodalite as high heat 
+- Risk of Spill / dust inhalation and injury to eyes/lungs/skin 
+- Risk of circuit leak
+
+**Hazard Reduction**: 
+
+- Use a well-sealed well-insulated canister. 
+- Change when depleted.
+- PPE and care with changing product 
+- Circuit test after absorber change
+
+**Specific Hazards:**
+
+**Compound A**
+
+Production of Compound A with sevoflurane, primarily with Baralyme and Soda lime. Risk ↑if low FGF rate, high Sevoflurane partial pressure. Nephrotoxic in rats but uncertain consequence in humans 
+
+Address by using FGF \>2l/min, limiting length of low flow anaesthesia
+
+**Carbon monoxide production**
+
+Production of carbon monoxide from absorbent and volatile agent. Risk increased by dry/desiccated absorbent, enflurane/desflurane \> sevoflurane 
+
+Address by ensuring gas flow turned off after each anaesthetic and particularly overnight/over weekend. Check absorbent before use.

@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2021B Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly outline**]{.task-verb} the mechanisms by which ACE inhibitors and angiotensin receptor blockers produce
+
+a) their therapeutic effects
+b) potential adverse effects.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly outline**]{.task-verb} where each drug class acts in the renin–angiotensin system, then connect these sites to therapeutic and adverse effects. Distinguish shared consequences from bradykinin-mediated effects specific to ACE inhibition.
+
+::: {.structure-headings}
+### Sites of Action in the Renin–Angiotensin System
+
+### Vascular and Cardiac Therapeutic Effects
+
+### Renal Therapeutic Effects
+
+### Hypotension, Potassium and Renal Adverse Effects
+
+### Bradykinin-Mediated Adverse Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+No examiner report was supplied for this sitting.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2021/B/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [ACE inhibitors](/content/pharmacopoeia/cvs/ace_inhibitors.qmd)
+- [Angiotensin receptor blockers](/content/pharmacopoeia/cvs/angiotensin_receptor_blockers.qmd)

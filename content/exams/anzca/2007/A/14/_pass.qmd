@@ -1,0 +1,34 @@
+The placenta connects the foetus to the uterine wall and is responsible for exchange of oxygen, nutrients and waste products between the foetal and maternal circulation.
+
+At the placenta O2 and CO2 diffuse passively down their concentration gradients. 
+
+Oxygen diffusion is governed as elsewhere by Fick’s law:
+
+Q= AkΔP/T
+
+A = diffusion area
+
+k= solubility / (square of MW)
+
+ΔP= concentration gradient 
+
+T= diffusion membrane thickness 
+
+Normal values that establish the diffusion concentration gradient are:
+
+             **Maternal**   **Foetal Umbilical Artery **   **Foetal Umbilical Vein **
+  ---------- -------------- ------------------------------ ----------------------------
+  **PO2**    \~90mmHg       \~19mmHg                       \~28mmHg
+  **PCO2**   \~40mmHg       \~55mmHg                       \~40mmHg
+
+The mechanisms which facilitate the transfer of oxygen include:
+
+**Foetal Haemoglobin** 
+
+Foetal haemoglobin has a decreased affinity to bind 2,3 BPG and so has an increased affinity for oxygen (over adult haemoglobin) this allows binding of oxygen at the diffusion interface in low partial pressures and assists in maintaining a diffusion gradient across the placenta. 
+
+**Bohr and Double Bohr Effect**
+
+The Bohr effect states that in increase in PaCO2/H+ shifts the oxygen haemoglobin curve to the right and ↑Haemoglobin offloading of oxygen.
+
+In placental exchange CO2 from the foetus diffuses across the placenta increasing offloading of oxygen while on the foetal side the relative decrease in PCO2 increases the Foetal Hb affinity for oxygen.

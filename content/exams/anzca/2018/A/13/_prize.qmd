@@ -1,0 +1,144 @@
+#### List:
+
+- Graphs x 2
+- Static compliance
+- Determinants of static compliance
+- Dynamic compliance
+- Difference between static and dynamic compliance: i.e. hysteresis
+- Causes of hysteresis: airflow resistance, time-dependence
+
+#### Graphs:
+
+![](/content/exams/anzca/2018/A/13/prize-image001.jpg){fig-alt="Static and dynamic compliance during inspiration plotted against intrapleural pressure"}
+
+![](/content/exams/anzca/2018/A/13/prize-image002.jpg){fig-alt="Peak and plateau airway pressures used to distinguish dynamic and static compliance during volume-controlled ventilation"}
+
+#### Static compliance
+
++----------------------------------------+-----------------------------------------------------------------------------------+
+| Definition                             | - ∆volume/∆transpulmonary pressure (TPP) when airflow has stopped                 |
++----------------------------------------+-----------------------------------------------------------------------------------+
+| Normal                                 | - 200mL/cmH~2~O                                                                   |
++----------------------------------------+-----------------------------------------------------------------------------------+
+| Measurement in spontaneous ventilation | - Inhale known volume from FRC, pause with open glottis                           |
+|                                        | - Distal oesophageal manometer for intrathoracic pressure ≈ intrapleural pressure |
+|                                        | - ∆P = distal oesophageal pressure – mouth pressure                               |
+|                                        | - (Pmouth ≈ Palveolus)                                                            |
++----------------------------------------+-----------------------------------------------------------------------------------+
+| Measurement in mechanical ventilation  | - Volume control ventilation (fixed inspiratory flow rate)                        |
+|                                        | - ∆P = Plateau pressure – PEEP                                                    |
++----------------------------------------+-----------------------------------------------------------------------------------+
+
+#### Determinants of static compliance:
+
++------------------------+-------------------------------------------------------------------------+
+| Intrinsic elasticity   | - Elderly/smoking → emphysema → ↓inward recoil → ↑LC                    |
+|                        | - Fibrosis → ↓LC                                                        |
+|                        | - Pulmonary oedema → ↓LC                                                |
++------------------------+-------------------------------------------------------------------------+
+| Surfactant             | - LaPlace’s law: Pressure (P) = 2 x surface tension (T) / radius (r)    |
+|                        |   - Fluid surfaces acquire least surface area due to surface tension    |
+|                        |   - Alveoli tend to collapse                                            |
+|                        | - Role of surfacant                                                     |
+|                        |   - Amphipathic molecule                                                |
+|                        |   - Reduces surface tension at air-water interface                      |
+|                        |   - Becomes more concentrated (= more effective) at low alveolar volume |
+|                        |   - → ↓alveolar collapse, ↑compliance                                   |
+|                        | - Factors increasing surface tension:                                   |
+|                        |   - Alveolar oedema → surfactant dilution                               |
+|                        | - Surfactant deficiency (e.g. prematurity, SP-B or SP-C deficiency)     |
++------------------------+-------------------------------------------------------------------------+
+| Absolute lung size     | - Reasons:                                                              |
+|                        |   - ↑Alveolar number → ↑LC                                              |
+|                        |   - ↑Alveolar size → ↑LC (↑radius → ↓pressure – LaPlace)                |
+|                        | - Examples:                                                             |
+|                        |   - Adult \> Neonate (100 cf. 1.5-6mL/cmH2O)                            |
+|                        |   - Male \> Female                                                      |
+|                        |   - Tall \> Short                                                       |
+|                        | - N.B. compliance constant if indexed to size (i.e. compliance/FRC)     |
++------------------------+-------------------------------------------------------------------------+
+| Relative lung volume   | - High: surfactant spread out → ↑ST → ↓ LC                              |
+|                        | - Low: ↓ radius → ↑ST, alveolar collapse → ↓LC                          |
+|                        |   - e.g. pregnancy, obesity                                             |
+|                        | - Max compliance at FRC                                                 |
++------------------------+-------------------------------------------------------------------------+
+| Gravity                | - Basal compression → ↓alveolar volume at FRC → ↑basal LC               |
+|                        | - Apical traction → ↑alveolar volume at FRC → ↓apical LC                |
++------------------------+-------------------------------------------------------------------------+
+| Posture                | - Supine: ↓LC                                                           |
+|                        |   - Dorsal lung compressed by ventral lung/mediastinum/abdo viscera     |
+|                        |   - Awake: compression + → dorsal LC \> ventral LC                      |
+|                        |   - Under GA: compression +++ → ventral LC \> dorsal LC                 |
+|                        | - Prone: ↑LC                                                            |
+|                        |   - Lung/mediastinum/abdo viscera supported by sternum and ribs         |
+|                        |   - ↑Uniformity of intrapleural pressure / volume / compliance          |
+|                        | - Overall ↑FRC and ↑LC (esp. if abdomen free)                           |
++------------------------+-------------------------------------------------------------------------+
+| Pulmonary blood volume | - Congestion → ↓ LC                                                     |
+|                        | - (e.g. heart failure, supine posture)                                  |
++------------------------+-------------------------------------------------------------------------+
+
+#### Dynamic compliance (DC):
+
++----------------------------------------+---------------------------------------------------+
+| Definition                             | - ∆volume/∆transpulmonary pressure during airflow |
++----------------------------------------+---------------------------------------------------+
+| Normal                                 | - 50-100mL/cmH~2~O                                |
+|                                        | - i.e. much less than static compliance           |
++----------------------------------------+---------------------------------------------------+
+| Measurement in spontaneous ventilation | - Cannot measure directly                         |
+|                                        | - Pmouth ≠ Palveolar due to airway resistance     |
++----------------------------------------+---------------------------------------------------+
+| Measurement in mechanical ventilation  | - Volume controlled ventilation                   |
+|                                        | - ∆V/(peak inspiratory pressure – PEEP)           |
++----------------------------------------+---------------------------------------------------+
+
+#### Difference between static and dynamic compliance: i.e. hysteresis
+
++----------------+--------------------------------------------------------------------------------------------+
+| Definition     | - The lag in a property of a system behind changes in the factor determining that property |
++----------------+--------------------------------------------------------------------------------------------+
+| Manifestations | - Lung volume lags behind changes in airway pressure                                       |
+|                | - For a given lung volume, TPP during inspiration \> TPP during expiration                 |
++----------------+--------------------------------------------------------------------------------------------+
+
+#### Causes of hysteresis:
+
+*Resistance to airflow:*
+
++---------------+---------------------------------------------------------------------+
+| Equations     | - Laminar: R = (8 x length x viscosity) / (π x radius^4^)           |
+|               | - Turbulent: (P~1~-P~2~) ∝ length x density / radius^5^             |
++---------------+---------------------------------------------------------------------+
+| Determinants: | *↑Resistance if:*                                                   |
+|               |                                                                     |
+|               | - ↓Airway radius\                                                   |
+|               |   (\*most important factor since raised to power of 4 or 5\*)       |
+|               |   - ↓Absolute lung size (e.g. neonate cf. adult)                    |
+|               |   - Relative lung volume (e.g. diaphragm displacement in pregnancy) |
+|               |   - Intraluminal obstruction (e.g. mucus)                           |
+|               |   - Luminal obstruction (bronchoconstriction, swelling)             |
+|               |   - Extraluminal obstruction (e.g. dynamic airways compression)     |
+|               | - ↑Viscosity: e.g. ↑temp                                            |
+|               | - ↑Length                                                           |
++---------------+---------------------------------------------------------------------+
+
+*Time-dependence:*
+
++------------------------+-------------------------------------------------------------------------------------------------+
+| 1\) Surfactant changes | - Lag in even spread → lag in equilibration of surface tension between alveoli                  |
+|                        | - For a given lung volume: surface tension in inspiration \> surface tension in expiration      |
+|                        | - \*most important factor\*                                                                     |
++------------------------+-------------------------------------------------------------------------------------------------+
+| 2\) Stress relaxation  | - Due to viscoelasticity of collagen                                                            |
++------------------------+-------------------------------------------------------------------------------------------------+
+| 3\) Pendelluft         | - Distribution of air from fast-τ to slow- τ lung units at end inspiration and early expiration |
+|                        | - τ= resistance x compliance                                                                    |
+|                        | - Fast unit: low resistance, low compliance                                                     |
+|                        | - Slow unit: high resistance, high compliance                                                   |
+|                        | - e.g. bronchoconstriction → ↑resistance → ↑τ                                                   |
++------------------------+-------------------------------------------------------------------------------------------------+
+| 4\) Recruitment        | - Recruitment of collapsed alveoli during inspiration                                           |
+|                        | - Quasi Starling resistor                                                                       |
+|                        | - e.g. collapse after thoracic surgery                                                          |
++------------------------+-------------------------------------------------------------------------------------------------+

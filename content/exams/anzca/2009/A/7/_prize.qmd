@@ -1,0 +1,55 @@
+#### List:
+
+- Intro
+- Serotonergic drugs
+- Serotonin syndrome
+
+#### Intro:
+
+- Monoamine receptor in CNS, PNS, vascular smooth muscle (dilate and constrict), platelets
+- Multiple subtypes: 1ABCD, 2ABC, 3, others
+- Mostly metabotropic GPCR, except 5HT3 ligand-gated ion channel (activity → depolarisation)
+- Both excitatory and inhibitory
+
+#### Serotonergic drugs by class:
+
++-----------------------+--------------------------------------------------------------------------+
+| Anti-depressants      | - SSRI (e.g. fluoxetine)                                                 |
+|                       | - SNRI (e.g. duloxetine)                                                 |
+|                       | - TCA (e.g. amitryptiline)                                               |
+|                       | - MAOi (e.g. moclobemide)                                                |
++-----------------------+--------------------------------------------------------------------------+
+| Anti-emetics          | - 5-HT~3~ antagonists (e.g. ondansetron)                                 |
+|                       | - Metoclopramide (central 5-HT~3~ antagonist, peripheral 5-HT~4~ agonist |
++-----------------------+--------------------------------------------------------------------------+
+| Non-opioid analgesics | - Paracetamol (5-HT~1A~)                                                 |
+|                       | - Ketamine                                                               |
++-----------------------+--------------------------------------------------------------------------+
+| Opioid analgesics     | - Tramadol                                                               |
+|                       | - Methadone                                                              |
+|                       | - Pethidine                                                              |
++-----------------------+--------------------------------------------------------------------------+
+| Anaesthetic agents    | - Halogenated ether anaesthetics                                         |
+|                       | - Propofol                                                               |
+|                       | - Ketamine                                                               |
++-----------------------+--------------------------------------------------------------------------+
+| Other                 | - 5HT~1D~: sumatriptan                                                   |
+|                       | - 5HT~2~: ketanserin, methylsergide, pizotifen                           |
+|                       | - 5HT~2A~: ergometrine, phenoxybenzamine                                 |
+|                       | - LSD: ?                                                                 |
++-----------------------+--------------------------------------------------------------------------+
+
+#### Serotonin syndrome:
+
++-----------+------------------------------------------------------------+
+| Cause     | - Multiple drugs increasing serotonergic activity          |
+|           | - Especially MAOi                                          |
++-----------+------------------------------------------------------------+
+| Features  | - Autonomic: ↑HR, ↑BP, shivering, sweating, dilated pupils |
+|           | - Somatic NS: hyperreflexia, myoclonus                     |
+|           | - CNS: agitation                                           |
+|           | - GIT: abdo pain, nausea/vomiting, diarrhoea               |
++-----------+------------------------------------------------------------+
+| Treatment | - Cyproheptadine                                           |
+|           | - Supportive                                               |
++-----------+------------------------------------------------------------+

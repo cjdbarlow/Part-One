@@ -1,0 +1,50 @@
+#### List:
+
+- Intro
+- Structure
+- Functions
+- Illustrations
+
+#### Intro:
+
+- Intracellular organelle
+- For energy production
+- Abundant in metabolically active tissue
+- Absent in few cells e.g. RBC
+- Own DNA, maternal inheritance
+
+#### Structure:
+
+![](/content/exams/anzca/2013/A/14/prize-image001.jpg){fig-alt="Mitochondrial outer and inner membranes, intermembrane space and matrix"}
+
+#### Functions:
+
++-----------+-----------------------------------------------------+
+| Metabolic | - Oxidative phosphorylation (inner membrane)        |
+|           |   - 36 mol ATP per molecule of glucose              |
+|           | - Citric acid cycle (matrix)                        |
+|           | - β-oxidation of fatty acids (matrix)               |
++-----------+-----------------------------------------------------+
+| Other     | - Thermogenesis                                     |
+|           |   - Uncoupling protein inserted into inner membrane |
+|           |   - Passage of H^+^ without ATP formation           |
+|           |   - Only in brown fat                               |
+|           |   - Activated by adrenaline at β~3~ receptor        |
+|           | - Apoptosis                                         |
+|           | - Calcium sequestration                             |
+|           | - Drug biotransformation                            |
++-----------+-----------------------------------------------------+
+
+#### Pathway illustration:
+
++---------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Oxidative phosphorylation | ![](/content/exams/anzca/2013/A/14/prize-image002.jpg){fig-alt="Electron transport chain and ATP synthase across the inner mitochondrial membrane"} |
+|                           |                                                                                                                                                     |
+|                           | Electron transport chain rap:                                                                                                                       |
+|                           |                                                                                                                                                     |
+|                           | ((<https://www.youtube.com/watch?v=VER6xW_r1vc>)                                                                                                    |
++---------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------+
+| TCA cycle                 | ![](/content/exams/anzca/2013/A/14/prize-image003.jpg){fig-alt="Citric acid cycle with substrates, products and electron carriers"}                 |
++---------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------+
+| β-oxidation               | ![](/content/exams/anzca/2013/A/14/prize-image004.jpg){fig-alt="Fatty acyl transport into mitochondria and formation of acetyl-CoA"}                |
++---------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------+

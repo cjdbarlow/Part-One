@@ -1,0 +1,63 @@
+**Sevoflurane General Effects:**
+
+- Sevoflurane acts at GABAa receptor → hyperpolarisation → ↓ medullary SNS outflow 
+- ↑NO release
+- L-type Ca2+ Blocking effect 
+
+**Skeletal Muscle**
+
+Skeletal muscle relaxation and surgical stillness.
+
+- **Direct:** 
+- Predominantly spinal mediated  L-type Ca2+ blocking
+
+→Presynaptic ↓ ACh Release at the MNJ → decreased NMJ stimulation
+
+- **Potentiation with muscle relaxants**:
+
+↓NMJ ACh →↓competition with NDMR →↑NDMR activity 
+
+Vasodilation →↑skeletal blood flow → increase drug delivery to skeletal muscle → dose dependent potentiation
+
+- **Malignant Hyperpyrexia** 
+
+Dysfunctional ryanodine receptors exposed to sevoflurane → uncontrolled Ca2+ release from sarcoplasmic reticulum → tetanic contraction and hyper metabolic state 
+
+**Smooth muscle**
+
+Sevoflurane causes smooth muscle relaxation via:
+
+- ↑ Nitric oxide production 
+- ↓ L-type Ca channel activity 
+- ↓ SNS outflow/tone
+
+Resulting in:
+
+1.  Reduction in SVR →↓mAP and ↑ venous compliance
+2.  vasodilation of pulmonary vessels → blunting HPV →↑ shunt 
+3.  reduced cerebral vascular resistance →↑ Cerebral blood flow / decoupling of CRMO2 coupling at \>1MAC 
+4.  Bronchodilation →↓ airways resistance → use in asthma 
+
+**Cardiac Muscle**
+
+- **Direct**
+
+Sevoflurane reduces cardiac isotropy due to  
+
+→ Blocking L-Type Ca2+ channels → ↓Inotropy and Chronotropy, Chronotropy offset by relatively intact baroreceptor reflex
+
+→ GABAa agonism →↓SNS Activity from medulla 
+
+→↑ NO release
+
+- **Indirect**
+
+Indirect effects → decreased venous return and decreased after load from ↓SVR and ↑ venous compliance →↓ cardiac work 
+
+- **Anaesthetic Preconditioning **
+
+Sevoflurane (and opioids) → Activates ATP-sensitive K^+^ channels in mitochondria and sarcolemma
+
+Mimics ischaemic preconditioning → ↓risk myocardial ischaemia
+
+Active at MAC \>0.25

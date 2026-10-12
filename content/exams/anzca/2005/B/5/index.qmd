@@ -1,0 +1,71 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005B Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the advanced life support management of ventricular fibrillation in an adult including the mechanisms of action and potential adverse effects of these therapies. ([**Do not discuss**]{.task-verb} basic life support, airway therapies and oxygen).
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} **Advanced Life Support Sequence**, **Defibrillation**, and **Drug Therapies**. For each therapy give its dose or energy, mechanism and potential adverse effects within the adult ventricular fibrillation scenario.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**11 %** of candidates passed this question.
+
+Candidates were expected to provide an outline of the current international guidelines for advanced life support for ventricular fibrillation in adults, followed by an outline of dosages, mechanism of action and adverse effects of defibrillation, epinephrine (adrenaline), amiodarone and vasopressin.
+
+Most candidates didn’t mention defibrillation in any detail and this was considered a major omission. Comments on energy requirements using mono or bi-phasic defibrillation and their efficacy were infrequently mentioned. Very few candidates mentioned the relationship between early defibrillation and outcome of VF. Many omitted the relationship between energy level used and subsequent myocardial damage. Many candidates failed to mention any dosages for the drugs presented or quoted incorrect doses. Many answers included drugs that are not part of the current guidelines. Others presented a detailed outline of the effects of ventricular fibrillation on neurological and cardiac function which was not pertinent.
+
+Candidates who presented greater detail on; comparisons of mono and biphasic defibrillation, vasopressin and the potential roles for magnesium and sodium bicarbonate attracted extra marks.
+
+Candidates are reminded that the international resuscitation guidelines and defibrillation therapies are included in the pharmacology syllabus.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Adrenergic Vasoactives](/content/pharmacopoeia/cvs/adrenergic_drugs.qmd)
+- [Amiodarone](/content/pharmacopoeia/cvs/amiodarone.qmd)

@@ -1,0 +1,117 @@
+#### List:
+
+- Intro
+- Flow dynamics
+- Regulation of vascular resistance
+- Regulation of arterial pressure
+- Anatomical factors
+
+#### Intro: the brain
+
++------------+-----------------------------------------------------------------------+
+| Physiology | - Highly active: CMRO2 46mL/min = 3.3mL/min/100g                      |
+|            | - Highly perfused: CBF 15% cardiac output = 750mL/min = 58mL/min/100g |
++------------+-----------------------------------------------------------------------+
+| Pathology  | - Interruption to flow → unconsciousness, head injury, ischaemia      |
++------------+-----------------------------------------------------------------------+
+
+#### Cerebral blood flow dynamics:
+
++------------------+---------------------------------------------------------------------------------+-----------------------------------------+
+| Ohm’s law        | Cerebral blood flow (CBF) = (mAP – ICP or CVP) / cerebral vascular resistance                                             |
+|                  |                                                                                                                           |
+|                  | Hence factors ↓CBF:                                                                                                       |
+|                  |                                                                                                                           |
+|                  | - ↓ mAP                                                                                                                   |
+|                  | - ↑ ICP / ↑ CVP (Starling resistor – whichever is higher)                                                                 |
+|                  | - ↑ CVR                                                                                                                   |
++------------------+---------------------------------------------------------------------------------+-----------------------------------------+
+| Poiseuille’s law | Resistance = (8 x length x viscosity) / (π x radius^4^) – assuming laminar flow |                                         |
+|                  |                                                                                 |                                         |
+|                  | Hence factors ↑resistance:                                                      |                                         |
+|                  |                                                                                 |                                         |
+|                  | - ↓Radius (note power of 4, most important)                                     |                                         |
+|                  | - ↑Length (not under control)                                                   |                                         |
+|                  | - ↑Viscosity                                                                    |                                         |
++------------------+---------------------------------------------------------------------------------+-----------------------------------------+
+
+#### Regulation of cerebral vascular resistance:
+
++-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Autoregulation          | **Myogenic:**                                                                                                                                          |
+|                         |                                                                                                                                                        |
+|                         | - Global CNS blood flow constant 58mL/min/100g                                                                                                         |
+|                         | - ↑flow → ↑stretch → reflex contraction → ↓radius → ↓flow                                                                                              |
+|                         | - Effective for perfusion pressure 50-150mmHg                                                                                                          |
+|                         |                                                                                                                                                        |
+|                         | ![](/content/exams/anzca/2019/B/2/prize-image001.jpg){fig-alt="Cerebral blood flow against mean arterial pressure showing the autoregulatory plateau"} |
+|                         |                                                                                                                                                        |
+|                         | **Metabolic:**                                                                                                                                         |
+|                         |                                                                                                                                                        |
+|                         | - Regional blood flow ∝ cerebral metabolic rate (CMR)                                                                                                  |
+|                         | - ↓MR → ↓H^+^/K^+^/adenosine/lactate/pCO~2~ and ↑pO~2~ → local vasoconstriction → ↓radius → ↓flow                                                      |
++-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Physiological variables | **Oxygen:**                                                                                                                                            |
+|                         |                                                                                                                                                        |
+|                         | - ↓PaO~2~ \<50mmHg → vasodilate → ↑radius → ↑CBF                                                                                                       |
+|                         | - Non-linear response. Doubles at 30mmHg                                                                                                               |
+|                         |                                                                                                                                                        |
+|                         | **Carbon dioxide:**                                                                                                                                    |
+|                         |                                                                                                                                                        |
+|                         | - ↑PaCO~2~ → vasodilate                                                                                                                                |
+|                         | - Linear response 20-80mmHg                                                                                                                            |
+|                         |                                                                                                                                                        |
+|                         | **Temperature:**                                                                                                                                       |
+|                         |                                                                                                                                                        |
+|                         | - ↓Temp: ↓CMR → ↓CBF via metabolic autoregulation                                                                                                      |
+|                         | - Near linear response: ↓7% per 1°C                                                                                                                    |
+|                         |                                                                                                                                                        |
+|                         | ![](/content/exams/anzca/2019/B/2/prize-image002.jpg){fig-alt="Cerebral blood flow responses to arterial oxygen and carbon dioxide tensions"}          |
+|                         |                                                                                                                                                        |
+|                         | ![](/content/exams/anzca/2019/B/2/prize-image003.jpg){fig-alt="Cerebral oxygen consumption against temperature"}                                       |
++-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Other                   | - Neural: noradrenaline at α~1~ → vasoconstriction (minor)                                                                                             |
+|                         | - Hormonal: adrenaline → mixed effects at α~1~, β~1~ (minor)                                                                                           |
+|                         | - Rheologic: ↑Hct → ↑viscosity → CVR                                                                                                                   |
++-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Regulation of arterial pressure:
+
++------------------------+----------------------------------------------------------------------------------+
+| Baroreceptor response  | - Stretch-activated mechanoreceptors in walls of aortic arch and carotid sinuses |
+|                        | - ↓mAP → ↓stretch → ↓activation → ↓inhibition of SNS →                           |
+|                        |   - Vasoconstriction → ↑SVR                                                      |
+|                        |   - Venoconstriction → ↑preload                                                  |
+|                        |   - ↑HR, ↑contractility                                                          |
+|                        |                                                                                  |
+|                        | → ↑mAP                                                                           |
+|                        |                                                                                  |
+|                        | - Important for maintaining CBF during posture change                            |
++------------------------+----------------------------------------------------------------------------------+
+| CNS ischaemic response | - ↓↓CBF → brainstem ischaemia → ↑↑SNS activity                                   |
+|                        |   - ↑BP                                                                          |
+|                        |   - ↓HR (reflex)                                                                 |
++------------------------+----------------------------------------------------------------------------------+
+
+#### Anatomical factors:
+
++-----------------+--------------------------------------------------------------------------------------------------------------------------------+
+| Arterial supply | **Circle of Willis:**                                                                                                          |
+|                 |                                                                                                                                |
+|                 | ![](/content/exams/anzca/2019/B/2/prize-image004.jpg){fig-alt="Circle of Willis and its arterial supply"}                      |
+|                 |                                                                                                                                |
+|                 | **Supply design:**                                                                                                             |
+|                 |                                                                                                                                |
+|                 | - Chicane-like arteries supply the circle of Willis                                                                            |
+|                 | - Turbulent flow → ↑pressure drop → ↓effective arteriolar pressure                                                             |
+|                 | - Prevents massive rise in cerebral perfusion pressure during SNS activation                                                   |
++-----------------+--------------------------------------------------------------------------------------------------------------------------------+
+| Venous drainage | **Dural venous sinuses:**                                                                                                      |
+|                 |                                                                                                                                |
+|                 | ![](/content/exams/anzca/2019/B/2/prize-image005.jpg){fig-alt="Cerebral venous sinuses draining to the internal jugular vein"} |
+|                 |                                                                                                                                |
+|                 | **Drainage design:**                                                                                                           |
+|                 |                                                                                                                                |
+|                 | - No valves: allows equilibration of venous pressure                                                                           |
+|                 | - Elastic and distensible: minimizes resistance to flow                                                                        |
++-----------------+--------------------------------------------------------------------------------------------------------------------------------+

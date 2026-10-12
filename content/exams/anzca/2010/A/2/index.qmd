@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010A Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the methods of determining depth of neuromuscular block and [**list**]{.task-verb} the advantages and limitations of each.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} clinical and nerve-stimulator methods, then [**list**]{.task-verb} their advantages and limitations alongside each method. Relate stimulation patterns to depth, recovery and the reliability of measurement.
+
+::: {.structure-table}
+| Method | Principle and Measurement | Advantages | Limitations |
+|---|---|---|---|
+| Clinical Assessment | | | |
+| Single Twitch | | | |
+| Train of Four | | | |
+| Double-Burst Stimulation | | | |
+| Tetany and Post-Tetanic Count | | | |
+| Quantitative Measurement and Muscle Selection | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**64%** of candidates passed this question.
+
+This question covers material asked in previous questions.
+
+The main points expected for a pass include:
+
+Neuromuscular blockade can be assessed by both clinical means and by using the nerve stimulator. Some examples of clinical means (eg head lift for 5 seconds) was expected, however clinical methods are unreliable. The characteristics of the required impulses from the nerve stimulator afforded the candidates points. Marks were awarded for the different modes of stimulation, such as single twitch, train of four count and ratio, double burst stimulation, tetany and post tetanic count. It was expected that candidates would describe their requirements, their advantages and disadvantages and how best to clinically utilise them for e.g. for reversal, in deep block. Some candidates went into great detail about the neuromuscular junction, which afforded them no marks. The concept that the strength of the muscular twitches produced is related to receptor occupancy by the neuromuscular blocker and at what levels of occupancy one could expect how many twitches. A few candidates did not appreciate that with a train of four count of 4, there was still a 70% receptor occupancy by the drug. Some thought that with a post tetanic count of 10, it was reasonable to reverse the patient with conventional reversal agents. Bonus marks were awarded if there was demonstration of how the depolarising and non-depolarising blocks differed in their responses to the nerve stimulator, the different sensitivities of different muscle groups to the neuromuscular blocker and mention of acceleromyography or more sophisticated methods. Use of diagrams implied understanding and where appropriate, garnered marks. Some candidates were confused about the TOF ratio, saying it was the ratio of the height of the first twitch compared to the fourth twitch
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2010/A/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neuromuscular monitoring](/content/equipment/neuromuscular_monitoring.qmd)
+- [Neuromuscular blockers](/content/msk/neuromuscular_blockers.qmd)

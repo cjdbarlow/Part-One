@@ -1,0 +1,27 @@
+Normal Body Temperature 36.1-37.1C 
+
+Normal body pH 7.35-7.45
+
+Body temperature changes affect blood gas solubility. As temperature falls molecules activity / kinetic energy decreases and they are less likely to move out of solution causing an increase in solubility and decrease in part pressure.
+
+Henry’s Law: amount dissolved = partial pressure x solubility coefficient
+
+The bicarbonate buffer system is influenced by temperature and partial pressure of CO2 
+
+CO2 + H20 →CA → H2CO3 → H+ + HCO3- 
+
+The forward direction of this equation is endothermic and so decrease in temperature favours the reverse or the production of H2CO3 → CO2 + H20. 
+
+Additionally the increasing solubility of CO2 with ↓ temperature results in decreased partial pressure of CO2 which also drives the equation to the left (production of CO2) as governed by Le Chatelier's principle where any change in a system at equilibrium will be offset by a new equilibrium which partially counteracts this change.  
+
+The overall effect will be a reduction of H+ and associated increase in pH of the body.
+
+Approximately pH ↑  by 0.015 for every 1C ↓ in body temp.
+
+Measurement of pH and blood gas values temperatures 
+
+As blood gas machines measure at 37deg an error will occur and a patient will have a higher pH and lower PaCO2 then measured (sample result will display acidosis and hypercapnia) 
+
+Alpha stat →  paCO2 and the pH are maintained at 40 mmHg and 7.40 when measured at 37 C (i.e. adjusted  to normothermia)
+
+pH stat → PaCO2 is maintained at 40 mmHg and the pH is maintained at 7.40 when measured at the patient’s actual temperature

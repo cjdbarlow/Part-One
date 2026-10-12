@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999A Question 16 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the effects of the alpha-2 adrenoceptor agonists relevant to anaesthesia.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the sites and mechanisms of action, then connect their effects to anaesthetic uses and limitations. Use clonidine and dexmedetomidine to illustrate relevant differences.
+
+::: {.structure-headings}
+### Receptors and Sites of Action
+
+### Sedation, Analgesia and Anaesthetic Requirements
+
+### Cardiovascular Effects
+
+### Clinical Uses and Limitations
+
+### Clonidine and Dexmedetomidine
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**63%** of candidates passed this question.
+
+Alpha-2 adrenoceptor agonists have been in use as antihypertensives, as adjuncts and investigational agents in both human and veterinary anaesthesia for over 20 years. It is therefore reasonable to expect that the candidates should have some knowledge of which agents are included, their effects (both specific to anaesthesia and in general), and the likely physiological consequences following their administration. Areas in which difficulties were encountered included identification of the relevant drugs (eg. clonidine and dexmedetomidine), the sites of significant action (central post-synaptic, peripheral pre-synaptic, spinal cord) and the assignment of anaesthesia utility to various actions and characteristics. The listing of drug effects does not constitute a description, as the effects may not be clinically useful. Similarly, while the assertion of the high oral availability of clonidine was frequently made, the significance of this to anaesthesia was seldom encountered. Better responses were typically legible, well organised with sites and mechanisms clearly stated, and the effects listed with appropriate comment. Only a few candidates mentioned the problem of prolonged hypotension after clonidine, although many mentioned the transient hypertension with intravenous (IV) bolus dosing. No one mentioned the relatively slow onset of central activity of clonidine or that any of these properties might actually be undesirable for an IV anaesthetic agent. The frequent assertion that bolus dosing with clonidine produces hypertension with tachycardia was disconcerting, as it suggested scant regard for baroreflex responses and little awareness of the effect of alpha-1 receptor stimulation in an intact subject. One further difficulty in interpreting candidates’ answers was the tendency to use personalised (or local) abbreviations, often without translation; this also was less frequent in the better responses.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/A/16/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Adrenoreceptors](/content/cvs/adrenoreceptors.qmd)
+- [Autonomic nervous system](/content/neuro/ans.qmd)

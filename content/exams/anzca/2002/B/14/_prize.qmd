@@ -1,0 +1,117 @@
+#### List:
+
+- Ultrasound waves
+- Ultrasound machine
+- Tissue interactions
+- Imaging properties
+- Doppler effect
+
+#### Ultrasound waves:
+
++------------+-----------------------------------------------------------+
+| Definition | - Wave of pressurization and rarefaction through a medium |
+|            | - Frequency is \>20kHz (but probes are 2-15MHz)           |
+|            | - Speed is \~1540m/s through tissue                       |
++------------+-----------------------------------------------------------+
+| Equations  | - Speed = distance/time                                   |
+|            | - Propagation velocity = wavelength / period\             |
+|            |   (where period = 1/frequency)                            |
++------------+-----------------------------------------------------------+
+
+#### Ultrasound machine:
+
++----------------------+--------------------------------------------------------------------------------+
+| Probe                | - Array of piezoelectric crystals (PZT = lead zirconate titanate)              |
+|                      | - Matching layer (reduces impedance gradient between probe and body)           |
+|                      | - Acoustic lens (focuses waves toward field)                                   |
+|                      | - Damping block (attenuates oscillation of crystals)                           |
+|                      | - Metal and plastic housing (protection and acoustic insulation)               |
++----------------------+--------------------------------------------------------------------------------+
+| Piezoelectric effect | - Emission: alternating current → crystal oscillation → emitted US wave        |
+|                      | - Detection: reflected US wave → crystal oscillation → alternating current     |
+|                      | - Emission and detection are repeated many times per second                    |
++----------------------+--------------------------------------------------------------------------------+
+| Regular modes        | - A (amplitude): one crystal, display graph of amplitude vs depth (rare use)   |
+|                      | - M (motion): one crystal, display ‘ice pick’ vs time (for timing, e.g. TAPSE) |
+|                      | - B (brightness): array of crystals, 2D display; still or real-time            |
+|                      | - 3D: 2D images→ volumetric dataset; still or real-time                        |
++----------------------+--------------------------------------------------------------------------------+
+| Doppler modes        | - Colour: indicate direction and velocity (not quantity) of flow (e.g. regurg) |
+|                      | - Pulse wave: measure velocity at a specified location (e.g. LVOT VTI)         |
+|                      | - Continuous wave: measure all velocities along a line (e.g. through the AV)   |
++----------------------+--------------------------------------------------------------------------------+
+
+#### Tissue interactions:
+
++----------------------+-------------------------------------------------------------------------+
+| Wave fate            | - Reflection → *detection by probe*                                     |
+|                      | - Transmission                                                          |
+|                      | - Diffraction                                                           |
+|                      | - Scattering                                                            |
+|                      | - Absorption as heat                                                    |
++----------------------+-------------------------------------------------------------------------+
+| Acoustic attenuation | - Decay in amplitude with passage through a tissue                      |
+|                      | - Occurs due to absorption, scattering etc.                             |
+|                      | - Can be overcome by ‘time gain compensation’                           |
+|                      | - Units dB/m. Water 5, Blood 20, fat 60, muscle 180.\                   |
+|                      |   (difference gives rise to posterior acoustic enhancement)             |
+|                      | - Attenuation (I) = I~0~e^-ax^                                          |
+|                      |   - x = distance travelled                                              |
+|                      |   - a = attenuation coefficient                                         |
+|                      |     - ∝ frequency                                                       |
+|                      |     - ∝ viscosity                                                       |
+|                      |     - ∝ 1/elasticity                                                    |
++----------------------+-------------------------------------------------------------------------+
+| Acoustic impedance   | - Degree of resistance to passage of US wave                            |
+|                      | - Units: Rayl (Z) = Pa.s/m                                              |
+|                      | - Impedance (Z) = velocity x density                                    |
+|                      | - Reflection coefficient = \[(Z2-Z1)/(Z2+Z1)\]^2^                       |
+|                      |                                                                         |
+|                      | (i.e. reflection ∝ Δ acoustic impedance – *e.g. air & skin, hence gel)* |
++----------------------+-------------------------------------------------------------------------+
+
+#### Image properties:
+
++------------+--------------------------------------------------------------------------------+
+| Latency    | - Time to detection ∝ distance from probe                                      |
++------------+--------------------------------------------------------------------------------+
+| Intensity  | - Intensity of signal ∝ amount reflected                                       |
+|            | - Reflection occurs if Δ acoustic impedance = Δ tissue density                 |
+|            | - Water density 1000kg/m^3^, fat 952kg/m^3^, muscle 1078kg/m^3^                |
+|            | - Reflection back to probe is greatest if object is perpendicular to USS waves |
++------------+--------------------------------------------------------------------------------+
+| Resolution | - Temporal: shallow field (↓latency), narrow field (↑pulse repetition freq)    |
+|            | - Axial: ↓depth (↑frequency → ↑tissue interactions)                            |
+|            | - Lateral: ↓sector width (↑line density\*), focal point (i.e. USS convergence) |
++------------+--------------------------------------------------------------------------------+
+| Trade off  | - Frequency ∝ tissue interactions ∝ attenuation                                |
+|            | - ↑Freq: ↑resolution but ↓depth                                                |
+|            | - ↓Freq: ↓resolution but ↑depth                                                |
++------------+--------------------------------------------------------------------------------+
+
+(\*phased array transducer only)
+
+#### Doppler effect:
+
++------------+------------------------------------------------------------------------+
+| Definition | - Apparent frequency ↑/↓if source is moving towards/away from probe    |
++------------+------------------------------------------------------------------------+
+| Use        | - Demonstrate flow and direction of flow                               |
+|            | - Calculate velocity (e.g. aortic jet)                                 |
+|            | - Calculate distance by integration (e.g. VTI)                         |
++------------+------------------------------------------------------------------------+
+| Equation   | V = ∆F x C /2F~0~cosθ                                                  |
+|            |                                                                        |
+|            | - V: velocity                                                          |
+|            | - ∆F: change in frequency between emission and detection               |
+|            | - C: speed of sound                                                    |
+|            | - 2x: ultrasound wave does a return trip                               |
+|            | - F~0~: emitted frequency                                              |
+|            | - cosθ: correction for incident angle\                                 |
+|            |   N.B. ultrasound does not correct for angle.\                         |
+|            |   Need \<20° angle for \<6% inaccuracy.                                |
++------------+------------------------------------------------------------------------+
+| Modes      | - Colour mode: recognize abnormal motion (e.g. valvular regurgitation) |
+|            | - Pulse wave: specified depth, low velocity (e.g. LVOT VTI)            |
+|            | - Continuous wave: unspecified depth, high velocity (e.g. LVOT PSV)    |
++------------+------------------------------------------------------------------------+

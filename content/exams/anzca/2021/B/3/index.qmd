@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2021B Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+a) [**Define**]{.task-verb} “volume of distribution”. [**What factors**]{.task-verb} influence the size of the volume of distribution?
+b) [**How may**]{.task-verb} it be used in the calculation of a loading dose? [**What assumptions**]{.task-verb} are made in this calculation?
+:::
+
+Also asked in: [2013A Question 5](/content/exams/anzca/2013/A/5/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+**[Discuss]{.task-verb}** the concept, then show **[how it may be used]{.task-verb}** to calculate a loading dose and identify **[what assumptions are made]{.task-verb}**.
+
+::: {.structure-headings}
+### Definition, Equation and Apparent Volume
+
+### Factors Affecting Volume of Distribution
+
+### Loading-Dose Calculation
+
+### Assumptions and Limitations
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+No examiner report was supplied for this sitting.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/A/5/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/A/5/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Pharmacological terms](/content/pharmacology/terms.qmd)
+- [Distribution](/content/pharmacology/distribution.qmd)
+- [Pharmacokinetic models](/content/pharmacology/kinetic_models.qmd)

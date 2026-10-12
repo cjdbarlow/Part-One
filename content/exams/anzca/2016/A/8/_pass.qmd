@@ -1,0 +1,14 @@
+Hypertension is one of the most common disorders in pregnancy, aetiology includes:
+
+- Chronic/primary hypertension
+- Pregnancy induced hypertension: hypertension without proteinuria developing after 20 weeks gestation
+- Preeclampsia: hypertension (blood pressure ≥ 140/90 mm Hg) and proteinuria (\> 300mg/24 hours)\
+  after 20 weeks gestation 
+
+**Drugs used to acutely manage hypertension include:**
+
+  **Drug**                               **Labetalol **                                                                                                           **Hydralazine**                                                                  **Nifedipine**
+  -------------------------------------- ------------------------------------------------------------------------------------------------------------------------ -------------------------------------------------------------------------------- -------------------------------------------------------
+  **Dose / Onset / Dosing Interval **    IV 20mg (20-40mg) over 2min, Onset over 5min repeat 10 minutely                                                          IV 5mg (5-10mg) IV bolus -onset 20min - repeat 20 minutely to maximum of 20mg.   10mg-20mg tablet onset 30-45min - repeat after 45min 
+  **MOA**                                Selective a1 and non-selective beta receptor antagonism β:α antagonism is 3:1 after PO and 7:1 after IV administration   Direct acting vasodilator                                                        L-type calcium channel antagonist 
+  **Foetal/Maternal Adverse effects **   Bronchospasm, bradycardia                                                                                                fluid retention, tachycardia, facial flushing, headache                          headache, tachycardia, peripheral oedema

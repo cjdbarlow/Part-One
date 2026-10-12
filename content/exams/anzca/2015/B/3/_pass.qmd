@@ -1,0 +1,34 @@
+\*\*\*Assumes healthy spontaneously breathing person 
+
+In the erect Lung 
+
+- the top of the lung = non dependant \~ west zone 2
+- Bottom of the lung = dependant \~west zone 3 
+
+When patient is positioned in right lateral position the gradient of intrathoracic pressure due to gravity changes so that 
+
++----------------------------------------+---------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------+
+| **Right Lateral Position**             | Left Lung                                                                                   | Right Lung                                                                      |
++========================================+=============================================================================================+=================================================================================+
+| **West Zone / VQ **                    | Is non dependant with VQ equivalent to west zone 2                                          | Becomes a dependant area behaving like west zone 3, Improved VQ matching        |
++----------------------------------------+---------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------+
+| **Ventilation **                       | Decreased Ventilation/increased alveolar volume/                                            | Increased Ventilation                                                           |
++----------------------------------------+---------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------+
+| **Perfusion**                          | Decreased Perfusion (10%), however due to shorter hydrostatic column more even distribution | Increased perfusion (10%) due to gravity                                        |
++----------------------------------------+---------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------+
+| **Compliance**                         | Decreased compliance                                                                        | Increased compliance due to sitting in more compliant part of  curve            |
++----------------------------------------+---------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------+
+| **FRC**                                | Overall effect of FRC is reduced, right lung more compressed then left. Not as significant as supine                                                                          |
++----------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Change with Anaesthetised Patient ** | Anaesthesia results in cephalopod diaphragm movement → decreased FRC / Right lung compression                                                                                 |
+|                                        |                                                                                                                                                                               |
+|                                        | R lung compliance decreases - Left Lung increases                                                                                                                             |
+|                                        |                                                                                                                                                                               |
+|                                        | Perfusion relatively unchanged                                                                                                                                                |
+|                                        |                                                                                                                                                                               |
+|                                        | Therefore Increased VQ mismatch                                                                                                                                               |
++----------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **One Lung Ventilation**               | Cessation of Left lung ventilation → R lung receives inc ventilation → Left lung hypoxic pulmonary vasoconstriction → significant improvement in VQ matching                  |
++----------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+![](/content/exams/anzca/2015/B/3/standard-image13.jpeg){fig-alt="Ventilation, perfusion and ventilation–perfusion ratio from dependent to non-dependent lung"}

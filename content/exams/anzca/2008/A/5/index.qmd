@@ -1,0 +1,65 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008A Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Classify**]{.task-verb} drugs that alter activity at serotonin receptors with examples. [**Describe**]{.task-verb} their mechanisms of action and clinical indications.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Classify**]{.task-verb} drugs under **Direct Agonists**, **Antagonists**, and **Indirect Agonists**. [**Describe**]{.task-verb} the mechanisms and clinical indications with examples, distinguishing receptor actions from changes in serotonin availability.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**39%** of candidates passed this question.
+
+The main points that needed to be made to demonstrate an understanding of this topic were an overview that receptor activity can be altered by drugs that are agonists (e.g. metoclopramide, sumatriptan), antagonists (e.g. ergotamine, ondansetron) and drugs that increase the amount of serotonin and in turn increase activity at the receptor by increasing release (tramadol), inhibiting reuptake (fluoxetine) or inhibiting breakdown of serotonin. All of the serotonin receptors are G-protein linked except 5HT-3 which is ligand gated. Many answers gave extensive detail of the vomiting pathways which was of limited relevance. There was confusion over the classification of serotonin reuptake inhibitors. They were often described as agonists (this implies a direct receptor action); others described the same drugs as antagonists because they inhibit re-uptake. The term “indirect agonist” is the best description. Most candidates focused only on the serotonin re-uptake inhibitors (SRI) and the 5HT-3 antagonists. The mechanism of action was often described as a tautology (i.e. SRI’s inhibit the re-uptake of serotonin and 5HT-3 antagonists antagonize the 5HT-3 receptor). These explanations failed to attract additional marks making a pass impossible to achieve.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Antidepressants](/content/pharmacopoeia/neuro/antidepressants.qmd)
+- [Antiemetics](/content/pharmacopoeia/git/antiemetics.qmd)

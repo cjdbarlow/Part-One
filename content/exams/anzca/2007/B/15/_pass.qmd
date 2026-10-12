@@ -1,0 +1,27 @@
+Laboratory measures of liver function include synthetic function, Metabolic Function, and Obstructive tests.
+
+**Synthetic Function**
+
+Albumin:
+
+- Albumin is the primary plasma protein, its synthesised in the liver with a half-life \~20days.
+- It’s important for maintaining plasma oncotic pressure and for binding calcium and drugs.
+- Albumin levels may be low in liver dysfunction, malnutrition and renal issues such as nephrotic syndrome.
+
+Clotting Assays:
+
+- The liver produces clotting factors and functional impairment may result in reduced production and derangement is assay levels. Clotting assays include:
+  - INR - tests the extrinsic pathway, useful as may be an early sign of acute liver failure as actor VII has very short half-life.
+  - APTT: tests the extrinsic pathway
+
+**Metabolic Function:**
+
+- Liver transaminases are released when liver parenchyma is damaged, these are used to indicate the metabolic function of the liver and include ALT and AST.
+- ALT is more specific for hepatocellular damage than AST.
+- Ammonia: Ammonia is a toxic by product of protein metabolism, the liver process ammonia and it may accumulate in over failure
+- Bilirubin: Produced from the breakdown/cycling of haemoglobin transported to the liver for conjugation and excretion. Liver dysfunction may result in increased levels of bilirubin.
+
+**Obstructive Tests:**
+
+- ALP is an enzyme found in hepatobiliary cell membrane but also in bone, intestine, kidney and neoplasms, rise in ALP may indicate biliary obstruction
+- GGT non-specific marker by itself that can be raised with acute alcohol ingestion, use correlation with ALP as a marker of hepatobiliary obstruction

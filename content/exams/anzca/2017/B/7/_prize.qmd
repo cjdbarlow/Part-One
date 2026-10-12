@@ -1,0 +1,63 @@
+#### List:
+
+- Table of ephedrine vs noradrenaline
+- Pharmacokinetics
+- Pharmacodynamics
+
+#### Physicochemical:
+
++--------------------+------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------+
+|                    | **Noradrenaline**                                                                                    | **Ephedrine**                                                                                    |
++====================+======================================================================================================+==================================================================================================+
+| Structure          | ![](/content/exams/anzca/2017/B/7/prize-image001.jpg){fig-alt="Chemical structure of noradrenaline"} | ![](/content/exams/anzca/2017/B/7/prize-image002.jpg){fig-alt="Chemical structure of ephedrine"} |
++--------------------+------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------+
+| Structure-activity | - Catecholamine: direct, potent, sensitive to COMT                                                   | - Non-catecholamine: resistant to COMT                                                           |
+|                    | - OH on β-carbon: direct, alpha                                                                      | - OH on β-carbon: direct, alpha                                                                  |
+|                    | - No substitution on α-carbon: MAO sensitive                                                         | - CH3 substitution on α-carbon: indirect, MAO resistant                                          |
+|                    | - Smaller amine: α\>β                                                                                | - Larger amine: β\>α                                                                             |
++--------------------+------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------+
+
+#### Pharmacokinetic:
+
++----------------+-----------------------------------+-------------------------+
+|                | **Noradrenaline**                 | **Ephedrine**           |
++================+===================================+=========================+
+| Administration | - IV infusion 1-30mcg/min         | - 3-6mg q2min, max 15mg |
+|                |                                   | - IV, IM, PO            |
++----------------+-----------------------------------+-------------------------+
+| Time course    | - Onset \< 1min                   | - Onset 1-2 min         |
+|                | - Duration 5 mins                 | - Duration 1 hour       |
+|                |   - Drug elimination rapid        |                         |
+|                |   - Receptor effects prolonged    |                         |
++----------------+-----------------------------------+-------------------------+
+| Absorption     | - Oral bioav nil                  | - Oral bioav 85%        |
++----------------+-----------------------------------+-------------------------+
+| Distribution   | - Does not cross BBB              | - Crosses BBB\          |
+|                |                                   |   (CNS stimulant, ↑MAC) |
++----------------+-----------------------------------+-------------------------+
+| Metabolism     | - By COMT and MAO → VMA           | - Minimal               |
+|                | - By COMT only → normetadrenaline |                         |
+|                | - t~1/2~~β~ 2 mins                |                         |
++----------------+-----------------------------------+-------------------------+
+| Excretion      | - Metabolites → urine             | - Unchanged in urine    |
+|                |                                   | - t~1/2~~β~ 3-6 hours   |
++----------------+-----------------------------------+-------------------------+
+
+#### Pharmacodynamics:
+
++-------------------+------------------------------------------------------+-------------------------------------------------------------------------+
+|                   | **Noradrenaline**                                    | **Ephedrine**                                                           |
++===================+======================================================+=========================================================================+
+| Receptor activity | - α~1~ \> β~1~ \>\> β~2~                             | - β1 ≥ α~1~                                                             |
+|                   | - Direct only (i.e. via adrenoceptors)               | - Direct and indirect                                                   |
+|                   |                                                      |   - Displaces noradrenaline from its vesicles                           |
+|                   |                                                      |   - Noradrenaline reuptake inhibitor                                    |
++-------------------+------------------------------------------------------+-------------------------------------------------------------------------+
+| Use               | - Vasodilatory shock: sepsis, anaphylaxis, post-CPB  | - Hypotension especially if also bradycardic                            |
+|                   | - Myocardial ischaemia (with GTN)                    | - Previously preferred in pregnancy, but increases neonatal \[lactate\] |
++-------------------+------------------------------------------------------+-------------------------------------------------------------------------+
+| Toxicity          | - Safer with noradrenaline reuptake inhibitors (NRI) | - Dangerous with NRI (indirect → ↑↑NAd rel.)                            |
+|                   | - Extravasation → necrosis hence CVC only            | - Peripheral IV injection safe                                          |
+|                   | - Tachyphylaxis slow: adrenoceptor downregulation    | - IM injection safe                                                     |
+|                   |                                                      | - Tachyphylaxis rapid: NAd depletion                                    |
++-------------------+------------------------------------------------------+-------------------------------------------------------------------------+

@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016A Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the physiological effects of sleep on the brain and the respiratory system.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} effects under brain and respiratory headings, distinguishing NREM and REM sleep. Use sleep architecture and EEG changes to frame changes in cerebral activity, ventilation, gas tensions and airway tone.
+
+::: {.structure-headings}
+### Sleep Definition and Architecture
+
+### NREM and REM Brain Activity
+
+### Cerebral Metabolism and Circulation
+
+### Ventilation and Gas Responses
+
+### Pharyngeal Tone and Respiratory Pattern
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**75%** of candidates achieved a pass in this question
+
+A succinct definition of sleep was expected although the most common one provided was “a reversible state of unconsciousness” which could also describe many pathological and pharmacologically induced states.
+
+Most candidates had a good grasp of the EEG changes that occur in NREM and REM sleep including the changes in frequency and amplitude. Better answers included details on sleep architecture, the duration of sleep cycles, and the frequency in which they occur and the proportion spent in NREM and REM as sleep progresses. Additional marks where awarded for knowledge regarding the centres of the brain and neurotransmitters involved in sleep, the difference in sleep architecture in infants, adults and the elderly as well as accurate information regarding changes in cerebral metabolic rate, cerebral blood flow and intracranial pressure.
+
+A few candidates unsuccessfully attempted to reproduce the EEG changes that occur with sleep diagrammatically. Another common mistake was to discuss the physiological changes that occur during general anaesthesia instead of sleep. This led to inaccurate descriptions of isoelectric EEGs, profound decreases in cerebral blood flow and decoupled metabolic autoregulation. The role of sleep in homeostasis is not fully understood; nevertheless vague descriptions of regeneration, restoring balance and renewal did not attract additional marks. The effects of sleep on the respiratory system were not as well answered. Details regarding respiratory rate and tidal volume changes during REM and NREM sleep when provided where often inaccurate or exaggerated. Most candidates where aware that pharyngeal tone decreased during sleep but where unclear which stage of sleep this was most significant. Better answers included details and values on the changes in PaO2, PaCO2 and chemosensitivity that occurs during sleep. Again, treating sleep as synonymous with general anaesthesia led some candidates to describe profound hypoxaemia and aspiration as a “normal” part of sleep.
+
+Descriptions of the effects of sleep on other organ systems did not attract additional marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2016/A/15/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Sleep](/content/neuro/sleep.qmd)

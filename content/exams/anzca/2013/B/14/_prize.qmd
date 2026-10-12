@@ -1,0 +1,60 @@
+#### List:
+
+- Oxytocics table
+- Tocolytic table
+
+#### Oxytocics: \*Note risk foetal asphyxia antepartum\*
+
++-------------+-----------------------------------------------------------------------------------------------------+
+|             | **Mechanism of action (MoA) and adverse effects (AE)**                                              |
++=============+=====================================================================================================+
+| Oxytocin    | - Bind oxytocin receptor, a G~q~ G protein coupled receptor (GPCR)                                  |
+|             | - ↑IP~3~ → ↑ICF \[Ca^2+^\] (also ↑DAG)                                                              |
+|             | - At low dose: intermittent contraction                                                             |
+|             | - At high dose: tonic contraction                                                                   |
+|             | - Receptors upregulated from from 36/40                                                             |
+|             | - AE: N&V, vasodilatation, slightly ADH effect on kidney (V~2~) → H~2~O reabsorption, hyponatraemia |
++-------------+-----------------------------------------------------------------------------------------------------+
+| Carbetocin  | - Synthetic analogue of oxytocin                                                                    |
++-------------+-----------------------------------------------------------------------------------------------------+
+| Ergometrine | - Oxytocic mechanism unclear                                                                        |
+|             | - Causes tonic contraction at any dose cf. oxytocin                                                 |
+|             | - Known receptor effects:                                                                           |
+|             |   - α~1~: ↑SVR, ↑BP, risk of APO (contra-indicated in pre-eclampsia)                                |
+|             |   - 5HT~2~ agonist: N&V                                                                             |
+|             |   - DA agonist: N&V                                                                                 |
++-------------+-----------------------------------------------------------------------------------------------------+
+| Misoprostol | - PGE**~1~** analogue                                                                               |
+|             | - Binds PGE**~2~**-R → multiple G protein-coupled receptor subtypes                                 |
+|             | - AE: diarrhoea                                                                                     |
++-------------+-----------------------------------------------------------------------------------------------------+
+| PGF~2α~     | - MoA: binds G~q~ protein-coupled receptor → ↑ICF Ca^2+^                                            |
+|             | - AE: bronchoconstriction, hypertension, nausea                                                     |
++-------------+-----------------------------------------------------------------------------------------------------+
+
+#### Tocolytics:
+
++-----------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
+|                       | **Mechanism of action and adverse effects:**                                                                                              |
++=======================+===========================================================================================================================================+
+| Terbutaline           | - β~2~ agonist / G~s~ GPCR → ↑cAMP → ↑inhibition of MLCK                                                                                  |
+|                       | - AE: ↑HR (cardiac B2) ↓K^+^ (↑Na^+^K^+^ATPase activity), lactic acidosis (β^2^ liver and skeletal muscle), tremor (β~2~ skeletal muscle) |
++-----------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
+| Nifedipine            | - Inhibit L-Ca^2+^ → ↓ICF \[Ca^2+^\]                                                                                                      |
+|                       | - AE: reflex ↑HR, peripheral oedema                                                                                                       |
++-----------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
+| GTN                   | - Prodrug                                                                                                                                 |
+|                       | - Reacts with endothelial ICF sulfhydryl groups → NO → activate GC → ↑cGMP → ↑MLCP activity, ↑Ca^2+^ reuptake, ↑K^+^ efflux               |
+|                       | - AE: ↓BP (vascular SM), reflex HR, flushing, headache, metHbaemia (bad in foetus)                                                        |
+|                       | - Note tachyphylaxis (depletion of sulfhydryl groups)                                                                                     |
++-----------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
+| Atosiban              | - Nonapeptide                                                                                                                             |
+|                       | - Competitive antagonist at oxytocin receptor                                                                                             |
+|                       | - AE: headache, nausea&vomiting                                                                                                           |
++-----------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
+| Volatile anaesthetics | - Inhibit L-Ca^2+^ → ↓ICF \[Ca^2+^\]                                                                                                      |
+|                       | - Note ↑risk sedated neonate                                                                                                              |
+|                       | - ↑Risk PPH if GA Caesarean                                                                                                               |
+|                       | - Supplement with N~2~O                                                                                                                   |
+|                       | - AE: maternal and foetal anaesthesia, respiratory and cardiovascular depression, nausea and vomiting                                     |
++-----------------------+-------------------------------------------------------------------------------------------------------------------------------------------+

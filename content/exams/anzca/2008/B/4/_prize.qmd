@@ -1,0 +1,91 @@
+#### List:
+
+- Physicochemical
+- Pharmacokinetic
+- Pharmacodynamic
+
+#### Pharmaceutics:
+
+- Stable in solution
+- No toxic additives (benzethonium chloride: theoretical risk of neurotoxicity)
+- Low risk of bacterial growth (suitable for slow infusion in single syringe)
+- No precipitation
+- Low risk anaphylaxis
+- Not painful on injection (suitable for peripheral IV)
+
+#### Pharmacokinetics:
+
++--------------------+-------------------------------------------------------------------------------+
+| Administration     | - Common routes for analgesia (not just post-op…)                             |
+|                    |   - IV bolus 0.1-0.3mg/kg (e.g. rescue in PACU, fracture manipulation in A&E) |
+|                    |   - IV infusion 0.1-0.2mg/kg/h (e.g. days 1-2 post-op)                        |
+|                    |     - Useful if NBM                                                           |
+|                    |     - Titratable                                                              |
+|                    |     - Avoids peaks/troughs hence toxicity e.g. delirium                       |
+|                    |   - Sublingual PRN: 0.3mg/kg q5min (e.g. dressing changes)                    |
+|                    |   - PO: 0.5mg/kg tds (e.g. on ward)                                           |
+|                    |   - IN 0.5-1mg/kg q15mins (e.g. procedural sedation in children)              |
++--------------------+-------------------------------------------------------------------------------+
+| Time course        | - IV: onset 30 seconds, peak 90 seconds, duration varies                      |
+|                    | - SL: onset 10-30 mins, duration 2-4 hours                                    |
+|                    | - PO: onset 30 mins, duration 2-4 hours                                       |
++--------------------+-------------------------------------------------------------------------------+
+| Absorption (bioav) | - PO: 16% (first pass ++)                                                     |
+|                    | - SL \~30%                                                                    |
+|                    | - IN 50%                                                                      |
+|                    | - PR 25%                                                                      |
++--------------------+-------------------------------------------------------------------------------+
+| Distribution       | - Rapid effect site equilibration (t~1/2ke0~ 0.5 mins)                        |
+|                    |   - Highly lipid soluble (5-10x thiopentone) – crosses placenta               |
+|                    |   - Low plasma protein binding (25%)                                          |
+|                    |   - Hence suitable for small rescue bolus in PACU                             |
+|                    | - Large V~DSS~ 3L/kg and rapid distribution                                   |
+|                    |   - Hence intra-operative loading dose recommended                            |
++--------------------+-------------------------------------------------------------------------------+
+| Metabolism         | - Hepatic phase 1, CYP3A4 N-demethylation \> other                            |
+|                    | - Active metabolite norketamine (30% as active)                               |
+|                    |   - May prolong duration                                                      |
+|                    |   - Inactivated by hydroxylation then conjugation                             |
+|                    |   - t~1/2~~β~ 4 hours                                                         |
+|                    | - Rapid Clearance 17mL/kg/min, short t1/2b 2 hours                            |
+|                    |   - Suitable for infusion                                                     |
+|                    | - Risk of hepatotoxicity if infused                                           |
+|                    |   - Check LFTs second daily                                                   |
++--------------------+-------------------------------------------------------------------------------+
+| Excretion          | - Active and inactive metabolites renally excreted                            |
++--------------------+-------------------------------------------------------------------------------+
+
+#### Analgesia:
+
++------------+-----------------------------------------------------------------+
+| Mechanisms | - Primary: non-competitive NMDA antagonist at PCP site          |
+|            |   - Post-synaptic inhibition at dorsal horn                     |
+|            |   - Short term: ↓excitability, ↓wind-up                         |
+|            |   - Long term: ↓synaptic reinforcement, ↓long-term potentiation |
+|            | - Secondary: ↓Monoamine reuptake, ↓VDNaC, ↑mu opioid            |
+|            | - S-ketamine 2-4x more potent than R-ketamine                   |
++------------+-----------------------------------------------------------------+
+| Effects    | - ↓Acute and chronic pain                                       |
+|            | - ↓Somatic and neuropathic pain                                 |
+|            | - ↓Hyperalgaesia and allodynia                                  |
+|            | - ↓*Risk* of chronic pain, phantom pain                         |
+|            | - ↓Opioid requirement                                           |
+|            | - “Re-set” opioid sensitivity in opioid-induced hyperalgaesia   |
++------------+-----------------------------------------------------------------+
+
+#### Side effects:
+
++----------------------------+----------------------------------------------------------------------------------+
+| CNS                        | - Delirium: nightmares, hallucinations                                           |
+|                            |   - Dose-dependent                                                               |
+|                            |   - May be attenuated by midazolam (e.g. 1mg with 200mg ketamine)                |
+|                            |   - High risk of psychiatric illness                                             |
+|                            |   - R-ketamine \> S-ketamine                                                     |
+|                            | - ↑CMRO~2~, ↑CBF, +/- ICP (contraindicated if CNS bleed, tumour with ↑ICP)       |
+|                            | - Dependence, addiction                                                          |
++----------------------------+----------------------------------------------------------------------------------+
+| Uncommon at analgesic dose | - CNS: dissociative anaesthesia, nausea/vomiting                                 |
+|                            | - CVS: SNS stimulation, direct negative inotropy, vasodilation (R \> S-ketamine) |
+|                            | - Resp: mild ↓minute ventilation, ↑airway secretions, bronchodilation\           |
+|                            |   (bronchodilation R \> S-ketamine)                                              |
++----------------------------+----------------------------------------------------------------------------------+

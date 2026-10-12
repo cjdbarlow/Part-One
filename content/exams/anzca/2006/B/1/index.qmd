@@ -1,0 +1,92 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006B Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the use of different sympathomimetics to treat hypotension occurring as a result of subarachnoid block. [**Outline**]{.task-verb} the advantages and disadvantages of these agents.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the cause of hypotension briefly, then compare useful agents in the clinical scenario. [**Outline**]{.task-verb} advantages and disadvantages using receptor effects, haemodynamic consequences, administration and patient factors.
+
+::: {.structure-headings}
+### Mechanisms of Hypotension
+
+### Ephedrine and Epinephrine
+
+### Other Sympathomimetics
+
+### Administration and Adverse Effects
+
+### Patient Factors and Interactions
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**73 %** of candidates passed this question.
+
+Given the clinical scenario, a brief summary of pertinent issues resulted in less subsequent repetition.
+
+The hypotension results from a change in tone of resistance vessels (reduced systemic vascular resistance). This is accompanied by a decrease in venous return to the heart and a lowering of cardiac output. There may be a lowering of direct sympathetic tone to the heart, leading to a reduction in heart rate and possibly force of contraction.
+
+Answers should have included discussion of ephedrine and adrenaline (epinephrine). Credit was also given for discussion of metaraminol, phenylephrine, methoxamine, noradrenaline, dopamine, dobutamine and vasopressin, even if disadvantages outweighed the advantages of the drug. No marks were given for naming a drug without other information. Common features of these agents include:
+
+- Pharmaceutical presentation - all require dilution before use.
+- Agents with strong vasoconstricting effects have a risk of tissue necrosis if extravasation occurs (including metaraminol).
+- All the drugs have a risk of causing hypertension.
+- Many drugs can cause tachycardia via direct effects or reflex bradycardia.
+
+Better answers included a list of relevant patient problems that contribute to the advantages/disadvantages of the drugs including:
+
+- Age/intercurrent illness, particularly cardiovascular disease and antihypertensive medications.
+- Pregnancy and childbirth (allowance was made for the differences in prescribed texts regarding ephedrine and phenylephrine).
+- Drug interactions - monoamine oxidase inhibitors.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2006/B/1/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Adrenoreceptors](/content/cvs/adrenoreceptors.qmd)
+- [Autonomic nervous system](/content/neuro/ans.qmd)

@@ -1,0 +1,94 @@
+The uterus contains smooth muscle.
+
+↑ muscle tone / contraction → labour and prevention/minimisation of PPH 
+
+↓→ slows down labour 
+
+**Agents that increase uterine tone:**
+
+- **Oxytocin (endogenous) and Syntocinon (synthetic)**
+
+MOA – Syntocinon binds oxytocin receptors → GqPCR →↑Ca2+ → myometrial contraction
+
+Dose related ↑amplitude and frequency of uterine contractions with complete
+
+relaxation in between
+
+**Adverse effects:**
+
+CVS: ↓SVR →↓MAP → reflex ↑HR →↓coronary perfusion
+
+CNS: Nausea and Vomiting, headache 
+
+MATERNAL = ↑uterine contraction (possible uterine rupture)
+
+FETAL = ↓uterine blood flow → possible foetal distress
+
+- **Ergometrine** 
+
+Mechanism of action = agonist at α1, 5HT →↑force of uterine contraction and ↑basal tone
+
+Adverse Effects:
+
+CVS: ↑SVR →↑MAP → can cause reflex ↓HR 
+
+CNS: Nausea and vomiting, headache 
+
+REASP: Bronchoconstriction → may lead to sever bronchospasm 
+
+\*Contraindicated in pre-eclampsia due to HTN
+
+- **Prostaglandins**
+
+PGE1 - Misoprostol 
+
+PGF2a - Carboprost 
+
+MOA: PG receptors promote co-ordinated uterine contractions, ↑basal tone, cervix relaxation and ripening
+
+Adverse effects:
+
+CVS: ↑SVR, ↑MAP
+
+RESP: Bronchospasm
+
+**Agents that decrease uterine tone:**
+
+- **β2-agonists**
+
+Activate GPCR, ↑ cAMP, which activates protein kinase A and leads to inhibition of myosin light chain kinase and relaxation
+
+Adverse effects: tachycardia, tremor
+
+- **Ca2+-channel antagonists**
+
+Block L-type Ca2+ channels, causing relaxation
+
+Adverse Effects:
+
+Hypotension, peripheral oedema
+
+**COX Inhibitors:**
+
+Indomethacin 
+
+Inhibits prostaglandin synthesis 
+
+- **MgSO4**
+
+Smooth muscle relaxation → used in HTN and pre-eclampsia - ↓Uterine tone and contractility
+
+Adverse Effects:
+
+CVS: ↓SVR, ↓MAP ↓HR
+
+CNS: CNS Depression
+
+**Nitrates**
+
+MOA: NO release →  smooth muscle relaxation
+
+Adverse effects:
+
+- Headache
+- Hypotension

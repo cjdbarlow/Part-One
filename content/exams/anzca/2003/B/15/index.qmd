@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003B Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the NMDA (N-methyl d-aspartate) receptor and its physiological role in the central nervous system.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} receptor structure and activation, then connect ion entry to its physiological roles, giving particular attention to pain sensitisation and synaptic plasticity.
+
+::: {.structure-headings}
+### Structure, Binding Sites and Distribution
+
+### Depolarisation and Co-Agonist Activation
+
+### Pain Sensitisation
+
+### Learning, Memory and Excitotoxicity
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**55%** of candidates passed this question.
+
+For a pass mark, candidates needed to provide a general description of the receptor e.g. one of a family of excitatory amino acid receptors, widespread throughout CNS especially in spinal cord and hippocampus, it is a ligand-gated, voltage-dependent, receptor, the naturally-occurring ligand for which is glutamate (not NMDA as several candidates suggested); it is a transmembrane multi-unit structure with a central cation ionophore. It is associated with but not part of AMPA receptor and neurokinin-1 receptor, stimulation of which causes partial depolarisation of the cell membrane which allows an Mg^2+^ plug to leave the central ionophore. Glycine is also required. Not all of this information was required to pass, but an indication of the general structure and method of activation was.
+
+Mention of the roles played by the receptor in chronic pain states, with sensitization and hyperexcitability caused by persistent input from sites of tissue or nerve injury; in the phenomenon of “wind-up”, likely due to changes in spinal cord expression of the c-fos protooncogene; and proposed in learning and memory were expected and in most cases provided. Other proposed roles such as in excitotoxicity, ischaemic cell death, and CNS plasticity attracted extra marks, but a more detailed discussion of the role in pain states scored more heavily. Mention of antagonists e.g. ketamine and phencyclidine scored but was not essential.
+
+A diagram of the receptor and its associated structures and interactions was not essential, but generally-speaking; the better answers included such a diagram, clearly labelled. Few answers mentioned the need for AMPA receptor stimulation to partially depolarize the cell membrane, thus releasing the Mg plug. Many answers gave detailed descriptions of structure and activation but scant information on role, or vice versa; and did not score as well.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2003/B/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Pain pathways](/content/neuro/pain.qmd)
+- [Ketamine](/content/pharmacopoeia/neuro/ketamine.qmd)

@@ -1,0 +1,91 @@
+#### List:
+
+- Opioid conversion table
+- Intro: PO benefits and requirements
+- Administration
+- Patient considerations
+- Surgical considerations
+
+#### Opioid conversion:
+
+  **Drug**        **Equipotent dose**
+  --------------- ---------------------
+  Morphine IV     10mg
+  Morphine PO     30mg
+  Oxycodone       20mg
+  Tramadol        100-200mg
+  Tapentadol      66.5mg
+  Codeine         200mg
+  Hydromorphone   6mg
+  Pethidine       300mg
+  Methadone       10mg
+
+#### Intro:
+
++----------------------+------------------------------------------+
+| IV → PO benefits     | - Can remove IVs                         |
+|                      | - Can discharge home                     |
++----------------------+------------------------------------------+
+| IV → PO requirements | - Adequate steady state has been reached |
+|                      | - Gut function intact                    |
+|                      | - Swallowing intact                      |
+|                      | - Co-operation                           |
++----------------------+------------------------------------------+
+
+#### Administration:
+
++--------------+-----------------------------------------------------------------+
+| Dose         | - ∝ bioavailability/potency                                     |
+|              | - (most important factors)                                      |
++--------------+-----------------------------------------------------------------+
+| Frequency    | - ≈ t~1/2~~β~                                                   |
+|              | - e.g. q3-4h for morphine, oxycodone                            |
++--------------+-----------------------------------------------------------------+
+| Adjuvants    | - Paracetamol + NSAID → ↓opioid requirement                     |
++--------------+-----------------------------------------------------------------+
+| Interactions | - Benzodiazepines: synergistic effect on respiratory depression |
++--------------+-----------------------------------------------------------------+
+
+#### Patient considerations:
+
++-------------------+-------------------------------------------------------------------------------------------+
+| Age               | - Elderly:                                                                                |
+|                   |   - Deficient blood-brain barrier (BBB), ↑pharmacodynamic (PD) sensitivity                |
+|                   |   - ↓Dose e.g. 2.5-5mg q4h oxycodone                                                      |
+|                   | - Neonate:                                                                                |
+|                   |   - Immature BBB, ↑PD sensitivity; ↑↑effect if low %unionised e.g. morphine 23%           |
+|                   |   - Dose e.g. 0.05-0.1mg/kg oxycodone                                                     |
++-------------------+-------------------------------------------------------------------------------------------+
+| Comorbidity       | - Renal failure:                                                                          |
+|                   |   - Avoid drugs with renally excreted active metabolites                                  |
+|                   |   - Hence prefer fentanyl, methadone                                                      |
+|                   | - Epilepsy: avoid tramadol, pethidine                                                     |
+|                   | - Sleep-disordered breathing: prefer                                                      |
+|                   |   - Tramadol (partial agonist, ceiling effect on resp depression)                         |
+|                   |   - Tapentadol (↓opioid effect)                                                           |
+|                   | - Chronic pain history:                                                                   |
+|                   |   - Tramadol (70% of effect via NAd and 5HT reuptake inhibition)                          |
+|                   |   - Tapentadol (NAd reuptake inhibition)                                                  |
+|                   |   - Methadone (multiple non-opioid effects)                                               |
+|                   | - Opioid abuse:                                                                           |
+|                   |   - Tramadol (partial agonist, only 30% of effect via MOP, less euphoria)                 |
+|                   |   - Tapentadol (↓opioid effect)                                                           |
+|                   |   - Methadone (often already prescribed)                                                  |
+|                   |   - Buprenorphine (partial agonist –ceiling effect, inadequate for major surgery)         |
++-------------------+-------------------------------------------------------------------------------------------+
+| 2D6 poly-morphism | - Cantonese 30% reduced metabolisers (codeine ineffective)                                |
+|                   | - North African and Arabs 10% ultra-rapid metabolisers (codeine → respiratory depression) |
++-------------------+-------------------------------------------------------------------------------------------+
+
+#### Surgery:
+
++------------------------+------------------------------------------------------------------------------------------------------------------+
+| Type of pain           | - e.g. hip pain: somatic (most opioids suitable)                                                                 |
+|                        | - e.g. thoracotomy: somatic and neuropathic (prefer tramadol, tapentadol)                                        |
++------------------------+------------------------------------------------------------------------------------------------------------------+
+| Severity of pain       | - e.g. simple abscess incision and drainage: weak opioid may be enough (e.g. codeine, but frequent polymorphism) |
+|                        | - e.g. lower limb ORIF: oral oxycodone                                                                           |
++------------------------+------------------------------------------------------------------------------------------------------------------+
+| Effect on gut function | - e.g. bowel obstruction: avoid oral analgesic until gut function established                                    |
+|                        | - e.g. sleeve gastrectomy: liquid only (oxycodone, morphine)                                                     |
++------------------------+------------------------------------------------------------------------------------------------------------------+

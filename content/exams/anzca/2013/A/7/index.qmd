@@ -1,0 +1,81 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013A Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the pharmacology of midazolam.
+:::
+
+Also asked in: [2018B Question 11](/content/exams/anzca/2018/B/11/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+**[Describe]{.task-verb}** midazolam using the report’s pharmaceutics, pharmacokinetics and pharmacodynamics framework.
+
+::: {.structure-headings}
+### Pharmaceutics and pH-Dependent Ring Structure
+
+### Pharmacokinetics: Distribution, Metabolism and Elimination
+
+### Pharmacodynamics: Mechanism and System Effects
+
+### Interactions, Altered Responses and Reversal
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Old Exam: **78%** of candidates achieved a pass in this question
+
+New Exam: **60%** of candidates achieved a pass in this question
+
+Better answers were set out with the headings of pharmaceutics, pharmacokinetics, and pharmacodynamics. A clear explanation of the pH dependent ring structure, main pharmacokinetic features, mechanism of action, and significant cardio-respiratory effects, were required in order to pass. Extra marks were awarded for points such as, the offset of action of small doses due to redistribution, interactions with other medications such as opioids, effects of organ dysfunction, sensitivity in the elderly, and use of flumazenil.
+
+Common errors included providing doses without reference to weight, inappropriate doses, vague statements such as ‘hepatically metabolised and renal eliminated’, writing a long list of uses and then repeating them later under the heading of CNS effects.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/A/7/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/A/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Benzodiazepines](/content/pharmacopoeia/neuro/benzodiazepines.qmd)
+- [Flumazenil](/content/pharmacopoeia/tox/flumazenil.qmd)

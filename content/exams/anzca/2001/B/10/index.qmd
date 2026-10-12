@@ -1,0 +1,74 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2001B Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly describe**]{.task-verb} the adverse effects of nitrous oxide.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly describe**]{.task-verb} each adverse effect by connecting its mechanism to the resulting clinical problem, giving particular attention to gas-space expansion, diffusion hypoxia and vitamin B12 effects.
+
+::: {.structure-headings}
+### Expansion of Gas-Filled Spaces
+
+### Diffusion Hypoxia
+
+### Vitamin B12 and Methionine Synthetase
+
+### Cardiorespiratory and CNS Effects
+
+### Manufacture and Storage
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**76%** candidates passed this question. To achieve a pass mark, candidates were expected to describe the adverse effects of nitrous oxide resulting from expansion of air-containing spaces, diffusion hypoxia and decreased activity of vitamin B~12~ and methionine synthetase. Additional marks were obtained for comprehensive descriptions of the aforementioned effects, and for description of additional adverse effects including but not restricted to post-operative nausea and vomiting, pulmonary hypertension, increased cerebral blood flow, mild myocardial depression and sympathetic stimulation. Many candidates also described the potential for adverse effects of impurities in manufacture.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2001/B/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Nitrous oxide](/content/pharmacopoeia/neuro/nitrous_oxide.qmd)

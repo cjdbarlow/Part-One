@@ -1,0 +1,20 @@
+Cocaine 5% = 50mg/ml typical max dosage 1.5mg/kg = \~2ml sole agent 
+
+Lignocaine 2% = 20mg/ml - typical max subcutaneous dosage 7mg/kg (with adrenaline), as sole agent a safe dose would be  490mg = \~24mL
+
+Toxicity is considered additive so a safe combined dose could be calculated as % of max dose of each agent to add to 100%, i.e. theoretical safe dose 12mL of Lignocaine 2% with adrenaline and 2mL of Cocaine 5%
+
+- given site of application and rate of absorption lower volumes would be recommended/needed i.e. 5mL of Lignocaine 2% with adrenaline and 1mL of Cocaine 5%
+
+**Cocaine Pharmacology**
+
+- Acts as typical LA agent → Blocks Na+ channels in inactivated state → inhibits depolarisation 
+- Serotonin + Dopamine + Noradrenaline reuptake inhibitor → increased concentration in synapse → 
+- CVS Effects: HTN, Tachycardia, Ventricular arrhythmias
+- CNS Effects: Euphoria, hallucinations, seizures, hyperthermia
+
+**Effect of lignocaine/adrenaline on toxic effects**
+
+- lignocaine enhances CNS toxicity
+- adrenaline increases cardiovascular toxicity
+- Vasoconstriction by cocaine/adrenaline → ↓ absorption rate → ↓peak plasma concentration

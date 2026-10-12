@@ -1,0 +1,57 @@
+NSAIDS are used to treat pain and act via inhibition of cyclo-oxygenase enzyme pathways to decrease prostaglandins. 
+
+COX enzymes function to convert arachidonic acid → Prostaglandins.
+
+**There are 2 primary COX enzymes:**
+
+**COX1**: is physiological and important for haemostatic function and in platelets, induces platelet aggregation through production of thromboxane A2. 
+
+**COX 2**: COX2 expression is induced with tissue damage 
+
+NSAIDs can be either 
+
+- Nonselective - Irreversible: e.g. Aspirin
+- Nonselective - Reversible: e.g. Ibuprofen, naproxen
+- Selective COX2: celecoxib, parecoxib
+
+Clinical effects of NSAIDS:
+
+**Analgesia and Anti-inflammatory** 
+
+Inhibition of prostaglandin production as sites of injury →↓ in stimulation of pain transduction from stimulation of prostanoid receptors, decrease in positive feedback inflammatory mediator release.  
+
+**Anti-pyrexial** effect  via inhibiting PGE2 action centrally 
+
+**Antiplatelet** effect due to inhibition of COX 1 →↓thromboxane A2 production
+
+NSAID Side Effects:
+
+CVS: ↑ risk Thrombotic events from COX2 specific agents, selective COX 2 inhibition → increased Thromboxane  A2(from COX1) : PGI2 ratio → increased risk of thrombosis
+
+Resp: Asthma/Bronchospasm,  ↓ cox mediated arachnoid acid → prostaglandin pathway →↑ leukotriene production  
+
+Haem: Inhibition
+
+GI: inhibition of PGE2, PGI2 production →↓pH/ ↑Acid production, diminished mucus secretion → dyspepsia, ↑risk of ulceration → GI Bleed
+
+Renal: Prostaglandins dilate the afferent arteriole, NSAIDs decrease renal blood flow through inhibition of PGE2, PGI2 production → decreased afferent arteriolar dilation
+
+**Advantages and Disadvantages of Selective COX2 Inhibition**
+
+ **Advantages**
+
+↓Risk of peptic ulcer disease
+
+↓Platelet dysfunction
+
+↓ alteration in renal blood flow autoregulation 
+
+↓rate of bronchospasm 
+
+**Disadvantages**
+
+ Usu. more expensive
+
+ Can also precipitate acute kidney injury
+
+ ↑Risk of thrombosis – e.g. myocardial infarct, stroke, etc through increased Thromboxane  A2(from COX1) : PGI2 ratio → increased risk of thrombosis

@@ -1,0 +1,82 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2016A Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the pharmacodynamic properties of propofol EXCLUDING its effects on the central nervous system. [**Describe**]{.task-verb} how these influence clinical use.
+:::
+
+Also asked in: [2017B Question 14](/content/exams/anzca/2017/B/14/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} peripheral pharmacodynamic effects by system and [**describe**]{.task-verb} their clinical implications alongside them. Link mechanisms to cardiovascular and respiratory consequences, then address other relevant effects and their practical significance.
+
+::: {.structure-headings}
+### Cardiovascular Mechanisms and Effects
+
+### Cardiovascular Clinical Implications
+
+### Respiratory Effects and Airway Management
+
+### Other Systemic Effects
+
+### Metabolic and Formulation-Related Implications
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**66%** of candidates achieved a pass in this question
+
+This question asked for the pharmacodynamics of propofol AND the clinical implications, excluding CNS effects. Despite this, a number of candidates still wasted time presenting pharmacokinetic information, describing its postulated mechanism of action in the CNS and its subsequent CNS effects. A few only listed pharmacodynamics with no clinical implications. Pharmaceutics were only accepted if it related to pharmacodynamic effects. For example, many candidates merely listed allergy and this was not awarded any marks. However, marks were awarded if there was mention of the constituents of propofol and how that relates to allergic reactions.
+
+Propofol clearly has many clinically significant effects on the respiratory and cardiovascular systems. Presenting a complete list of these as well as the clinical consequences would be enough to pass. The majority did well with the CVS. Almost all mentioned the negative consequences of a reduction in blood pressure but did not point out that it this can be advantageous for management of intraoperative hypertension.
+
+Many did not mention bronchodilation, effects on upper airway tone, and the maintenance of hypoxic pulmonary vasoconstriction. Better candidates considered other systems in their answer, such as the metabolic effects e.g. propofol infusion syndrome, increased risk with mitochondrial abnormalities, and caloric loading with prolonged infusions. When considering the genitourinary system, simply stating decreases renal blood flow, without any further qualification again scored no marks. Effects on uterine tone (compared to volatile) were rarely mentioned.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2016/A/7/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2016/A/7/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Propofol](/content/pharmacopoeia/neuro/propofol.qmd)

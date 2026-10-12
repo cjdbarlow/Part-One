@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012A Question 4 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} factors influencing the recovery and reversal of neuromuscular blockade induced by rocuronium.
+:::
+
+Also asked in: [2015A Question 13](/content/exams/anzca/2015/A/13/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} recovery through drug concentration at the junction, kinetic handling and pharmacodynamic sensitivity. Explain the direction and mechanism of modifying factors, then link reversal agents and doses to the depth of blockade.
+
+::: {.structure-headings}
+### Dose and Time Since Administration
+
+### Distribution and Clearance
+
+### Drug Interactions at the Junction
+
+### Physiological States and Neuromuscular Disease
+
+### Anticholinesterase and Sugammadex Reversal
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**38.9%** of candidates passed this question.
+
+The factors influencing the recovery from neuromuscular blockade are dependent not only on drug pharmacokinetics but also on the state of the neuromuscular junction. Candidates needed to show an understanding of the pharmacokinetics of rocuronium and how alteration of pharmacokinetic variables influence offset of action. Simply listing a pharmacokinetic variable without explaining how it affects duration of neuromuscular blockade did not gain marks. Marks were also awarded for discussing alterations in pharmacokinetics due to age, obesity and pregnancy. Many candidates omitted to state that giving repeat doses or drug infusions would affect recovery from rocuronium.
+
+Recovery from neuromuscular blockade also depends on pharmacodynamic factors such as changes in receptor numbers or sensitivity as occurs in myasthenia gravis and burns patients. A thorough knowledge of the drugs which interfere with rocuronium induced neuromuscular blockade was required. Successful candidates not only stated the drugs but also explained how they affected neuromuscular transmission at a pre or post synaptic level. Successful candidates also included physiological variables which affect reversal from neuromuscular blockade including hypothermia, acidosis and hypokalaemia.
+
+Although reversal agents influence the recovery of neuromuscular blockade, this question was not about reversal agents. Marks were not gained for in depth discussion about the various anticholinesterases and cyclodextrin.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2012/A/4/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neuromuscular blockers](/content/msk/neuromuscular_blockers.qmd)
+- [Neuromuscular monitoring](/content/equipment/neuromuscular_monitoring.qmd)

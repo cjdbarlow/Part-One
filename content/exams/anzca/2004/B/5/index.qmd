@@ -1,0 +1,90 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2004B Question 5 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**What are**]{.task-verb} the strengths and weaknesses of the randomised controlled trial (RCT) study design?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+Define the **Randomised Controlled Trial**, then show [**what**]{.task-verb} its strengths and weaknesses are under **Strengths** and **Weaknesses**. Relate randomisation, controlled intervention, measurement and blinding to validity, and consider practical and ethical limitations.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**49%** of candidates passed this question.
+
+Answers needed to include the following points.
+
+The RCT is a “gold standard”, level II evidence clinical trial allocating volunteers or subjects to one of two groups i.e. a control and a treatment group.
+
+Strengths lie in:
+
+- Ability to assign and administer treatment or intervention in a precise, controlled way (avoiding differing techniques)
+- Randomisation of subjects or participants aims at decreasing selection bias and minimizing confounders due to unequal distribution in a chosen population
+- Measurements, especially parametric data can be chosen precisely making it easier to make observations consistently
+- Blinding is easier in RCT improving credibility plus decreasing patient or observer bias
+- Controlling of group allocations enhance similarity of baseline features so it is easier to form basis for statistical hypothesis
+
+Weaknesses include:
+
+- The increased expense and time consumption, difficult to organize/supervise if multiple sites/locations
+- Realization that results may not always mimic real life treatment situation
+- Risk of choosing treatments or subjects whose consent is not valid or unethical treatment is involved
+
+Some other valid points were made:
+
+- If a small trial can include very stringent parameters which are somewhat of an academic nature but will decrease Type I errors as well as test efficacy. Such RCT may lack applicability and be too specific for a chosen population.
+- Can make the trial large
+    - good for detecting small but clinically relevant conclusions
+    - more expensive yet decreasing Type II errors
+- RCTs can have subgroup analysis enhancing the usefulness for clinical practice.
+- A successful RCT with conclusive or inconclusive results is eminently publishable.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Clinical Trial Design](/content/stats/clinical_trial_design.qmd)
+- [Study Types](/content/stats/study_types.qmd)

@@ -1,0 +1,56 @@
+#### List:
+
+- Intro
+- Histamine effects
+- Histamine antagonists
+
+#### Intro:
+
++-----------+--------------------------------------+
+| Structure | - Basic amine derived from histidine |
++-----------+--------------------------------------+
+| Location  | - Mostly in tissue mast cells        |
+|           | - Also circulating basophils         |
++-----------+--------------------------------------+
+
+#### Effects:
+
++-------------+----------------------------------------------------------------------+
+| Cellular    | - H~1~: G~q~ G-protein coupled receptor (GPCR) → ↑IP~3~/Ca^2+^, ↑DAG |
+|             | - H~2A~: G~s~ GPCR → ↑cAMP                                           |
++-------------+----------------------------------------------------------------------+
+| Heart       | - H~1~: ↓AV node conduction, coronary vasoconstriction               |
+|             | - H~2A~: ↑inotropy, coronary vasodilatation                          |
++-------------+----------------------------------------------------------------------+
+| Vasculature | - H~1~: vasodilatation, capillary leak, angioedema                   |
+|             | - ↓SVR, ↓mAP, cardiac arrest                                         |
++-------------+----------------------------------------------------------------------+
+| Skin        | - H~1~: urticaria                                                    |
++-------------+----------------------------------------------------------------------+
+| Respiratory | - H~1~: angioedema → airway obstruction                              |
+|             | - H~1~: bronchoconstriction                                          |
+|             | - H~2A~: bronchodilatation                                           |
++-------------+----------------------------------------------------------------------+
+| GIT         | - H~2A~: ↑gastrin and HCl secretion (?) (e.g. ranitidine)            |
++-------------+----------------------------------------------------------------------+
+| Brain       | - H~1~: ARAS wakefulness, nausea/vomiting CTZ and vestibular         |
++-------------+----------------------------------------------------------------------+
+
+#### Pharmacology of H1 receptor antagonists:
+
++-------------------+------------------------------------------------------------------------------------------+
+| First generation  | - Not H~1~ specific, crosses blood-brain barrier (BBB), often has other receptor effects |
+|                   | - e.g. promethazine anti-H and anti-DA~2~                                                |
+|                   | - Use: anti-emetic (especially vestibular), sedation or pre-med                          |
+|                   | - H~1~ side effects: drowsiness                                                          |
+|                   | - DA~2~ side effects: extra-pyramidal (e.g. Parkinsonism)                                |
++-------------------+------------------------------------------------------------------------------------------+
+| Second generation | - Peripheral H~1R~ specific, doesn’t cross BBB                                           |
+|                   | - e.g. cetirizine                                                                        |
+|                   | - Use: ↓allergy symptoms (especially allergic rhinitis)                                  |
+|                   | - Side effects: headache, anti-muscarinic e.g. dry mouth                                 |
++-------------------+------------------------------------------------------------------------------------------+
+| Third generation  | - H~1~ specific, doesn’t cross BBB, ↑potency, ↓side effects, often enantiopure           |
+|                   | - e.g. L-cetirizine                                                                      |
+|                   | - Use: hypoallergenic effect                                                             |
++-------------------+------------------------------------------------------------------------------------------+

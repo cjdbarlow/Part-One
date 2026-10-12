@@ -1,0 +1,43 @@
+**A) Heat Transfer is by the following mechanisms:**
+
+1.  **Radiation 45% under thermoneutral conditions**: loss is through electromagnetic radiation between body and surrounds, depends on heat gradient between body and environment 
+2.  **Convection 30%**: Convection is the transfer of heat from a body by motion of a fluid, i.e. from patient to air current.** Primary cause of heat loss in naked human **
+3.  **Evaporation 15%**: Heat loss due to the latent heat of vaporisation of water. proportional to skin temp and ambient humidity 
+4.  **Conduction 5%:** is the transfer of heat by direct contact from a higher temperature to lower temperature. Solids conduce better then gasses, heat loss via conduction in minimal in air 
+
+**Heat Loss in Anaesthesia **
+
+**General Anaesthesia** results in 1-3degC loss of body temperature.
+
+Inter-threshold range widened up to 4deg (from 0.4) before autonomic mechanisms intervene  
+
+Phase 1: 1-1.5 deg C - 30min
+
+Vasodilation results in increased peripheral blood flow and volume → redistribution from core → peripheries. 
+
+This may be lost to the environment through radiation convection and conduction.
+
+Phase 2: 1degC over 2-3 hours 
+
+Heat loss exceeds heat production, only non-shivering thermogenesis available to paralysed anaesthetised patient
+
+Phase 3: Plateau
+
+Increased Inter-threshold range reached, ANS thermoregulation responses activated → ↑ metabolic heat production / vasoactivity 
+
+**Neuraxial** 
+
+Hypothermia generally less extreme as thermoregulatory mechanisms only affected in areas covered by blockade
+
+→ Plateau will not occur as vasoconstriction responses inhibited
+
+**B) Heat conservation in Anaesthesia**
+
+Heat may be conserved though interrupting these processes by:
+
+- Insulating the patient by placing layers or warming blanket between theatre table and patient (Conduction)
+- Covering the patient with warm blankets / forced air warmer (preventing and reversing convection and radiant transfer) 
+- Warming theatre environment (Radiation heat loss reduction)
+- Neonatal cot ambient warming lamps (Radiation)
+- Warmed fluid or fluid warming lines (Conduction)
+- Respiratory evaporative heat losses may be limited through ventilating with heated humidified air / using HME filter

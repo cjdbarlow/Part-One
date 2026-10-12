@@ -1,0 +1,93 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 1999A Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Write a brief outline**]{.task-verb} on the pharmacology of remifentanil.
+:::
+
+Also asked in: [2011A Question 6](/content/exams/anzca/2011/A/6/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Write a brief outline**]{.task-verb} using a drug monograph structure. Explain the ester linkage, onset and rapid metabolic offset, then connect receptor action and organ effects to doses and clinical uses.
+
+::: {.structure-headings}
+### Chemistry and Presentation
+
+### Uses and Administration
+
+### Mechanism of Action
+
+### Pharmacokinetics and Metabolism
+
+### Pharmacodynamics
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**47%** of candidates obtained a pass mark in this question.
+
+This was a straightforward question that required an overview of information found in any standard text, with an emphasis on unique properties. Credit was given for information as outlined below, although it should be emphasised that this represents an exceptionally good answer that would have gained near full marks.
+
+Introduction -           Remifentanil is a relatively potent, selective mu agonist with a short duration of action.
+
+Pharmacy -               A phenyl piperidine derivative, containing two ester bonds which is a weak base with a pKa of about 7.1 Presented as a powder mixed with glycine it can be reconstituted with water.
+
+Pharmacokinetics –       Predominantly ionised at body pH, with moderately low lipid solubility (cf fentanyl) and 70-90% plasma protein bound. It has a rapid onset (about 1min.) and a modest distribution volume (about 0.5l/kg). High clearance (5l/min) rather than redistribution is responsible for its speed of offset (beta half-life about 10min.). Notable is a context sensitive half-life of about 4min, independent of the infusion time. Clearance is almost exclusively by hydrolysis of one of the ester bonds by “non specific” blood and tissue esterases (not by red cell esterase alone and not by “pseudocholinesterase”) producing an almost inactive carboxylic acid derivative
+
+Pharmacodynamics – Typical of a mu agonist. CNS – analgesia, sedation, depresses some brain stem regulatory centres (respiratory/cardiovascular), excites others (causing nausea, pupillary constriction, truncal rigidity). CVS – minimal direct effects on myocardium or vasculature, normally no histamine release (cf. morphine). Bradycardia and decreased vascular resistance secondary to effects on vagal nuclei and vasomotor centres. Resp.- decreased airway reflexes and respiratory rate possibly with increased volume leading to apnoea; decreased response to hypercapnia and hypoxia. GI/GU – increased tone (biliary tree and ureter) and/or decreased activity (stomach and bowel) probably of little clinical significance because rarely used long term post operatively.
+
+Adverse effects–   bradycardia, decrease in blood pressure, truncal rigidity with high dose/rapid administration; “neurotoxicity” due to glycine and immune mediated histamine release; nausea/vomiting and severe pain after cessation of administration in awake patients.
+
+Clinical use –     Intraoperative analgesia of rapid onset/offset (0.1- 1.0 microgm/kg/min) with optional preceding bolus of 1-2 microgm/kg. Need to make provision for postoperative analgesia before cessation of remifentanil.
+
+Relatively common mistakes included: failure to appreciate mu selectivity; lack of familiarity with presentation; confusion concerning enzymes responsible for metabolism; inability to work out degree of ionisation in vivo when agent has already been identified as a weak base and pKa has been stated; pharmacodynamics that were simply described as being “fentanyl-like” ( the examiner has no way of knowing if the candidate knows what fentanyl’s properties are); confusion concerning cause of “depressant’ cardiovascular effects.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/A/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Opioids](/content/pharmacopoeia/analgesics/opioids.qmd)
+- [Opioid pharmacology](/content/pharmacopoeia/analgesics/opioidspharm.qmd)

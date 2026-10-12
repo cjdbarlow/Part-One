@@ -1,0 +1,87 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2019B Question 13 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly outline**]{.task-verb} the roles of the hypothalamus.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly outline**]{.task-verb} the breadth of hypothalamic functions, linking each role to its principal input, control or output. Give balanced coverage to autonomic, temperature, osmotic and endocrine control before other homeostatic functions.
+
+::: {.structure-headings}
+### Autonomic Regulation
+
+### Thermoregulation
+
+### Osmolarity, Thirst and Water Balance
+
+### Anterior and Posterior Pituitary Control
+
+### Feeding, Emotion, Circadian and Reproductive Functions
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**45.1%** of candidates achieved a pass in this question
+
+The major domains assessed in this question were
+
+- Autonomic nervous system
+- Thermoregulation
+- Osmolarity
+- Anterior pituitary
+
+A pass could be attained with demonstration of understanding of at least 3 of the major domains, and credit was also given for other relevant correct material (feeding, emotion, oxytocin, circadian rhythm etc).
+
+A common problem was focussing solely on one or two of the hypothalamic functions in detail, without “briefly outlining” all or most of the major roles.
+
+This topic is covered in physiology texts including those by Kam/Power, Guyton or Ganong.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2019/B/13/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2019/B/13/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Hypothalamus](/content/endo/hypothalamus.qmd)

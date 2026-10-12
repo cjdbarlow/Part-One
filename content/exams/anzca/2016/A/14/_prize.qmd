@@ -1,0 +1,62 @@
+#### List:
+
+- Intro: prostaglandins
+- Pathway
+- Smooth muscle effects
+
+#### Intro: prostaglandins
+
++--------------------+--------------------------------------------------------------+
+| Definition         | - Lipid mediators derived from arachidonic acid              |
+|                    | - Production induced by cyclo-oxygenase                      |
+|                    |   - COX-1: constitutive, for homeostasis                     |
+|                    |   - COX-2: inducible, for inflammation etc                   |
++--------------------+--------------------------------------------------------------+
+| Actions            | - Autocrine and/or paracrine                                 |
+|                    | - Inhibitory or excitatory                                   |
+|                    | - Two PGs may have opposing effects at the same tissue       |
+|                    |   - e.g. TXA~2~ vasoconstriction, PGI~2~ vasodilation        |
+|                    | - One PG may have different effects on different tissues     |
+|                    |   - e.g. PGI~2~ vasodilation, GIT smooth muscle constriction |
++--------------------+--------------------------------------------------------------+
+| Cellular mechanism | - Bind to G protein coupled receptors                        |
+|                    |   - G~s~ : ↑cAMP                                             |
+|                    |   - G~i~ : ↓cAMP                                             |
+|                    |   - G~q~ : ↑IP~3~/DAG → ↑Ca^2+^                              |
++--------------------+--------------------------------------------------------------+
+
+#### Pathway:
+
+![](/content/exams/anzca/2016/A/14/prize-image001.jpg){fig-alt="Arachidonic acid pathway to prostaglandins, prostacyclin, thromboxane and leukotrienes with corticosteroid and NSAID inhibition"}
+
+#### Smooth muscle effects:
+
++--------------------+---------------------------------------------------------------------------------------------+
+| Systemic vascular  | - PGI~2~ vasodilatation (e.g. by vascular endothelium), promotes rapid laminar flow         |
+|                    | - TXA~2~ vasoconstriction (e.g. ↑release by platelet in tissue injury), assists haemostasis |
+|                    |                                                                                             |
+|                    | (low dose aspirin: ↓TXA~2~ but ↔PGI~2~ → ↓risk AMI)                                         |
++--------------------+---------------------------------------------------------------------------------------------+
+| Pulmonary vascular | - PGD~2~ → ↓HPV                                                                             |
+|                    | - (Leukotrienes → ↑HPV)                                                                     |
++--------------------+---------------------------------------------------------------------------------------------+
+| Renovascular       | - Contributes to hormonal autoregulation of GFR, i.e. renin-angiotensin system              |
+|                    | - ↓NaCl to macula densa → ↑PGE~2~, PGI~2~ release → ↑renin release                          |
+|                    | - (NSAID → risk of renal impairment, fluid retention)                                       |
++--------------------+---------------------------------------------------------------------------------------------+
+| Airway             | - PGD~2~, PGF~2α~ → bronchoconstriction                                                     |
+|                    | - PGE~2~ → bronchodilatation                                                                |
+|                    |                                                                                             |
+|                    | (corticosteroids → ↓airway reactivity in asthma)                                            |
++--------------------+---------------------------------------------------------------------------------------------+
+| Uterine            | - PGE~2~, PGF~2α~ → myometrial contraction                                                  |
+|                    | - Important in menstruation, labour                                                         |
+|                    | - Receptors always present cf. oxytocin receptors upregulated at 36/40                      |
+|                    |                                                                                             |
+|                    | (misoprostol and exogenous PGF~2α~ reduce risk of PPH)                                      |
++--------------------+---------------------------------------------------------------------------------------------+
+| Ureteric           | - PGE~2~ → relax                                                                            |
+|                    | - PGF~2α~ → contract                                                                        |
+|                    |                                                                                             |
+|                    | (NSAID useful in renal colic)                                                               |
++--------------------+---------------------------------------------------------------------------------------------+

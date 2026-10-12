@@ -1,0 +1,30 @@
+![](/content/exams/anzca/2007/B/16/standard-image42.jpeg){fig-alt="Labelled ECG cycle showing P, QRS and T waves and PR, QRS, ST and QT intervals"}
+
+P Wave:
+
+- \</= 0.12sec
+- PR Interval: \</= 0.12-0.2 sec
+- QRS: \< 0.12sec
+- QT Interval: QTc (corrected four HR) \<440ms men 460ms women  
+- ST Segment
+
+PR Interval:
+
+- The PR interval is the period of time between the start of depolarisation of the atria to the start of depolarisation of the ventricles.
+- The interval reflects the conduction through the AV node 
+- Normal is between 0.12-0.2sec 
+- \<0.12sec indicates pre-excitation or junctional rhythm
+
+Factors influencing PR interval:
+
+- Autonomic innervation, PNS ↑conduction time / PR interval, SNS ↓PR interval 
+- Electrolyte disturbances 
+- Hypoxia/hypothermia 
+- Cardiac abnormalities: 
+  - Conductance system degeneration
+  - Infarction/ischaemia 
+- Drugs:
+  - B Blockers
+  - Sympathomimetics 
+  - Digoxin 
+  - Ca Channel Blockers

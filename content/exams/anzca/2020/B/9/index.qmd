@@ -1,0 +1,77 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2020B Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} factors that influence the toxicity of local anaesthetics when used for topical anaesthesia of skin and mucosa.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} toxicity by separating local reactions, allergy, metabolites, agent-specific effects and systemic toxicity. Explain uptake from skin and mucosa, then follow distribution, metabolism and pharmacodynamic susceptibility, using agents actually applied topically.
+
+::: {.structure-headings}
+### Forms of Toxicity and Relevant Topical Agents
+
+### Dose, Concentration and Application Time
+
+### Skin, Mucosa and Diffusion Factors
+
+### Distribution, Metabolism and Drug Interactions
+
+### Patient Susceptibility and Agent-Specific Effects
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question had a very low pass rate as most candidates only addressed part of the question. Common mistakes included limiting the discussion to local anaesthetic systemic toxicity (LAST) and not discussing other forms of toxicity resulting from metabolites, pharmacodynamic effects, drug interactions and allergic reactions. Another common mistake was to only discuss the absorption of topical anaesthetics without acknowledging other pharmacokinetic processes.
+
+Despite having a low pass rate, candidates typically wrote long answers. The long answers included topics that did not answer the question, such as detail on the mechanism of action of local anaesthetics, or added peripheral support to the answer, such as lengthy descriptions of the symptoms of LAST. Finally, using examples of local anaesthetics that are not used for topical anaesthesia did not attract any marks. In summary candidates are encouraged to read and answer the question carefully.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2020/B/9/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2020/B/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Local anaesthetic principles](/content/pharmacopoeia/neuro/local_anaesthetic_principles.qmd)
+- [Local anaesthetics](/content/pharmacopoeia/neuro/local_anaesthetics.qmd)

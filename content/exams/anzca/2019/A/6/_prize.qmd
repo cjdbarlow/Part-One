@@ -1,0 +1,132 @@
+#### List:
+
+- Intro
+- Plasma markers
+- GFR estimation
+- GFR measurement
+
+#### Intro:
+
++----------------+-------------------------------------------------------------------------+
+| Renal function | - Kidneys excrete metabolic waste                                       |
+|                | - Rate of removal ∝ glomerular filtration rate                          |
+|                | - Substances that accumulate in renal impairment can be used as tracers |
+|                | - GFR = (urine concentration / plasma concentration)  x urine output    |
++----------------+-------------------------------------------------------------------------+
+| Ideal tracer   | - Freely filtered, not reabsorbed or secreted or metabolized            |
+|                | - Inert, non-toxic                                                      |
+|                | - Does not affect renal function                                        |
+|                | - Clearance of this substance = GFR                                     |
++----------------+-------------------------------------------------------------------------+
+
+#### Plasma markers:
+
++-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Urea              | **What is it:**                                                                                                                                         |
+|                   |                                                                                                                                                         |
+|                   | - End-product of amino acid deamination and ornithine cycle                                                                                             |
+|                   | - Accumulates in renal impairment → encephalopathy, platelet dysfunction etc.                                                                           |
+|                   |                                                                                                                                                         |
+|                   | **Renal handling:**                                                                                                                                     |
+|                   |                                                                                                                                                         |
+|                   | - Freely filtered, 50% reabsorbed at proximal tubule                                                                                                    |
+|                   | - Same 50% secreted into thin descending loop of Henle                                                                                                  |
+|                   | - Same 50% reabsorbed at medullary collecting duct (i.e. urea recycling)                                                                                |
+|                   |                                                                                                                                                         |
+|                   | **Problems:**                                                                                                                                           |
+|                   |                                                                                                                                                         |
+|                   | - ↑Protein metabolism (incl GIT bleed)→ ↑\[Urea\] → underestimate GFR                                                                                   |
+|                   | - ↓Protein metabolism → ↓\[Urea\] → overestimate GFR                                                                                                    |
+|                   | - \[Urea\] ∝ 1/ hydration                                                                                                                               |
++-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Creatinine        | **What is it:**                                                                                                                                         |
+|                   |                                                                                                                                                         |
+|                   | - Metabolite of sarcoplasmic creatine kinase                                                                                                            |
+|                   |                                                                                                                                                         |
+|                   | **Renal handling:**                                                                                                                                     |
+|                   |                                                                                                                                                         |
+|                   | - Freely filtered                                                                                                                                       |
+|                   | - 10% secreted in health                                                                                                                                |
+|                   | - Not reabsorbed                                                                                                                                        |
+|                   |                                                                                                                                                         |
+|                   | **Problems:**                                                                                                                                           |
+|                   |                                                                                                                                                         |
+|                   | - Sarcopaenia → ↓SCr → overestimate GFR                                                                                                                 |
+|                   | - Renal failure → ↑secreted fraction → overestimation of GFR                                                                                            |
++-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Urea : Creatinine | - Normal: 40-100:1                                                                                                                                      |
+|                   | - Pre-renal failure: ↑                                                                                                                                  |
+|                   | - Intra-renal failure: ↓                                                                                                                                |
+|                   | - Post-renal failure: ↔                                                                                                                                 |
++-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Graph             | ![](/content/exams/anzca/2019/A/6/prize-image001.jpg){fig-alt="Plasma creatinine and urea concentrations against declining glomerular filtration rate"} |
+|                   |                                                                                                                                                         |
+|                   | - Interpretation: \>50% decrease in GFR before significant increase in creatinine or urea                                                               |
++-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+#### GFR estimation:
+
++-------------------------+-------------------------------------------------------------------------------------+
+| Cockroft-Gault equation | - eGFR = \[(140 – age) x LBW\] / (72 x SCr)    ( x 0.85 if female)                  |
+|                         |   - Lean body weight in kg                                                          |
+|                         |   - Serum creatinine in mg/dL                                                       |
++-------------------------+-------------------------------------------------------------------------------------+
+| MDRD                    | - eGFR = 175 x SCr^-1.154^ x age^-0.203^   ( x 0.742 if female)   (x 1.21 if black) |
++-------------------------+-------------------------------------------------------------------------------------+
+| CKD-Epi                 | - eGFR = (SCr/A)^B^ x 0.993^age^ x C                                                |
+|                         |   - A: dependent upon sex                                                           |
+|                         |   - B: dependent upon sex and SCr                                                   |
+|                         |   - C: dependent upon race                                                          |
++-------------------------+-------------------------------------------------------------------------------------+
+| Problems                | - Estimations only                                                                  |
+|                         | - Multiple variables                                                                |
+|                         | - Accuracy limited if height, weight not included                                   |
+|                         | - Renal failure → ↑secreted fraction → overestimation of GFR                        |
++-------------------------+-------------------------------------------------------------------------------------+
+
+#### GFR measurement:
+
++-------------------------+-----------------------------------------------------+
+| Inulin                  | **Ideal properties** = *Gold standard*              |
+|                         |                                                     |
+|                         | - Freely filtered                                   |
+|                         | - Not secreted                                      |
+|                         | - Not reabsorbed                                    |
+|                         | - Inert                                             |
+|                         | - Non-toxic                                         |
+|                         |                                                     |
+|                         | **Method:**                                         |
+|                         |                                                     |
+|                         | - IV infusion until steady state                    |
+|                         | - Measure urine volume and \[inulin\] via IDC       |
+|                         | - Gold standard                                     |
+|                         |                                                     |
+|                         | **Problems:**                                       |
+|                         |                                                     |
+|                         | - Invasive                                          |
+|                         | - Cumbersome                                        |
++-------------------------+-----------------------------------------------------+
+| Creatinine              | **Method:**                                         |
+|                         |                                                     |
+|                         | - 24 hour urine collection                          |
+|                         | - Measure urine volume and \[creatinine\]           |
+|                         |                                                     |
+|                         | **Problems:**                                       |
+|                         |                                                     |
+|                         | - Inconvenient                                      |
+|                         | - Accuracy limited as above                         |
+|                         | - SCr may not be constant (e.g. stress, exercise)   |
++-------------------------+-----------------------------------------------------+
+| Radioisotope renography | - e.g. mercaptoacetyltriglycine (MAG3) with ^99m^Tc |
+|                         |                                                     |
+|                         | **Method:**                                         |
+|                         |                                                     |
+|                         | - Tracer injected IV                                |
+|                         | - Renal excretion observed with gamma camera        |
+|                         |                                                     |
+|                         | **Problems:**                                       |
+|                         |                                                     |
+|                         | - Ionizing radiation                                |
+|                         | - Expensive                                         |
+|                         | - Time-consuming                                    |
++-------------------------+-----------------------------------------------------+

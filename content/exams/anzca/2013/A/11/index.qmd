@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013A Question 11 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Compare and contrast**]{.task-verb} lung function in the neonate with that in an adult.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+**[Compare and contrast]{.task-verb}** neonatal and adult function side by side. Include values or the magnitude of differences and their physiological significance.
+
+::: {.structure-table}
+| Aspect of Lung Function | Neonate | Adult |
+|---|---|---|
+| Definition and Relevant Anatomy | | |
+| Compliance, Resistance and Lung Volumes | | |
+| Ventilatory Parameters | | |
+| Gas Exchange | | |
+| Control of Breathing | | |
+| Non-Respiratory Functions | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Old Exam: **5%** of candidates achieved a pass in this question
+
+New Exam: **11%** of candidates achieved a pass in this question
+
+The question required a comparison of neonatal & adult lung function to achieve full marks for any given point; this was most efficiently presented in a tabular format. The main points expected for a pass included: definition of a neonate, physiologically relevant anatomy, mechanics (compliance, lung volumes, resistance), ventilatory parameters, gas exchange & control of breathing. Marks were also awarded for demonstrating physiological relevance (e.g. obligate nasal breathers with high upper airway resistance which provides auto-PEEP). Additional marks were given for brief mention of non-respiratory functions of the lung. Common mistakes included vague statements lacking quantification or magnitude of difference (e.g. higher or lower), contradictory statements regarding compliance (e.g. lungs are stiffer so compliance is increased), & incorrect information regarding dead space difference between adult & neonate. Extensive notes on upper airway anatomy relevant to intubation & management of anaesthesia attracted no marks. Similarly, events at birth with fetal transition did not attract marks nor was HbF considered relevant to lung function unless presented in the context of the diffusion barrier.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/A/11/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/A/11/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neonates and children](/content/resp/paeds_respiratory.qmd)
+- [Respiratory compliance](/content/resp/compliance.qmd)

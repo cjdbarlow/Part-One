@@ -1,0 +1,83 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013A Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Explain**]{.task-verb} how oxygen supply of organs is maintained during isovolaemic haemodilution.
+:::
+
+Also asked in: [2002A Question 1](/content/exams/anzca/2002/A/1/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+**[Explain]{.task-verb}** the compensations by linking the fall in oxygen content to changes in flow and extraction. Distinguish the immediate responses from later adaptation.
+
+::: {.structure-headings}
+### Oxygen Content, Delivery and Extraction
+
+### Reduced Viscosity, Vascular Resistance and Venous Return
+
+### Local Autoregulation and Oxygen Unloading
+
+### Systemic Responses and Their Time Course
+
+### Organ Reserve and Limits of Compensation
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Old Exam: **30%** of candidates achieved a pass in this question
+
+New Exam: **33%** of candidates achieved a pass in this question
+
+A good answer included normal values for haemoglobin and oxygen content for arterial and venous blood, with a discussion on oxygen flux, the flux equation, the reserve of most tissues with low extraction ratios and demonstrated those that had a high extraction ratio had less tolerance for anaemia, e.g. the heart in exercise. The answer required an explanation of viscosity of blood and flow dynamics through blood vessels recognizing that decreased viscosity decreased resistance and encouraged flow through vessels and back to the heart, increasing venous return will increase cardiac output to aid oxygen flux. Good answers included local autoregulation responses (vasodilation, shift of oxygen dissociation curve to encourage offloading of oxygen) and systemic responses, activation of the sympathetic nervous system at critical levels of anaemia. Only one or two candidates mentioned some form of time frame for responses. The question specifically stated isovolaemia so that no points were scored for explanations of responses to hypovolaemic shock. A discussion of predilution of blood for surgery was not required in this question, and similarly scored no marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2002/A/1/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Oxygen storage and transport](/content/resp/oxygen_storage.qmd)
+- [Determinants of cardiac output](/content/cvs/co_determinants.qmd)
+- [Venous return](/content/cvs/venous_return.qmd)
+- [Hypoxia](/content/resp/hypoxia.qmd)

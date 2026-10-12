@@ -1,0 +1,74 @@
+#### List:
+
+- Pressure trace
+- Normal pressures
+- Waveform components
+- Factors increasing pressures
+
+#### Pressure trace:
+
+![](/content/exams/anzca/2021/B/5/prize-image001.jpg){fig-alt="Sequential right atrial, right ventricular, pulmonary arterial and wedge pressure waveforms during catheter insertion"}
+
+#### Normal pressures:
+
+  ------ -----------------------------------------------------------
+  CVP    0-5cmH~2~O
+  RVP    25/0 mmHg (pressure can be subatmospheric during filling)
+  PAP    25/8 mmHg
+  PCWP   6-12 mmHg
+  ------ -----------------------------------------------------------
+
+#### Waveform components:
+
++------------+----------------------------------------------------------------------------------------------+
+| CVP = RAP  | - a wave: atrial contraction                                                                 |
+|            | - c wave: closure of TV                                                                      |
+|            | - x descent: TV pulled downward, atrium relaxes and elongates                                |
+|            | - v wave: atrial filling during ventricular systole                                          |
+|            | - y descent: open of TV, diastolic filling                                                   |
++------------+----------------------------------------------------------------------------------------------+
+| RVP        | - Atrial systole: small upstroke beforehand                                                  |
+|            | - Systolic upstroke: isovolumic contraction, rapid ejection, reduced ejection, protodiastole |
+|            | - Diastole: isovolumic relaxation, rapid filling, diastasis, atrial systole, protosystole    |
++------------+----------------------------------------------------------------------------------------------+
+| PAP        | - Systole (as above)                                                                         |
+|            | - Diastole (above)                                                                           |
+|            | - Dicrotic notch: due to reflection and resonance                                            |
++------------+----------------------------------------------------------------------------------------------+
+| PCWP = LAP | *Wedge = balloon inflated to occlude a pulmonary artery branch*                              |
+|            |                                                                                              |
+|            | - a-c wave: atrial systole and closure of MV                                                 |
+|            | - x descent: MV pulled down, atrium relaxes and elongates                                    |
+|            | - v wave: atrial filling during ventricular systole                                          |
+|            | - y descent: opening of MV, rapid ventricular filling                                        |
++------------+----------------------------------------------------------------------------------------------+
+
+#### Factors increasing pressures:
+
++------+---------------------------------------------------+
+| CVP  | - ↑Central venous blood volume                    |
+|      |   - ↑Venous tone                                  |
+|      |   - Skeletal muscle pump                          |
+|      |   - Diaphragm pump                                |
+|      |   - Right ventricular failure                     |
+|      |   - TR, TS                                        |
+|      | - ↓Central venous compliance                      |
+|      |   - Positive pressure ventilation                 |
+|      |   - Straining                                     |
++------+---------------------------------------------------+
+| RVSP | - Pulmonary hypertension                          |
+|      | - Pulmonary stenosis                              |
++------+---------------------------------------------------+
+| mPAP | - Secondary to LV failure                         |
+|      | - Secondary to thromboembolic disease             |
+|      | - Secondary to chronic hypoxia                    |
+|      |   - V/Q mismatch: e.g. severe COPD / emphysema    |
+|      |   - Low V~A~: e.g OSA, OHS                        |
+|      |   - Low PiO~2~: high altitude                     |
+|      | - Inflammatory or connective tissue disease       |
+|      | - Idiopathic                                      |
++------+---------------------------------------------------+
+| PCWP | - ↑Venous return                                  |
+|      | - ↓LV compliance                                  |
+|      | - ↓LV emptying (↓LV contractility, ↑LV afterload) |
++------+---------------------------------------------------+

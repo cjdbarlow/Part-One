@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011B Question 6 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the relative advantages and disadvantages of using morphine and fentanyl for post-operative Patient Controlled Analgesia (PCA).
+:::
+
+Also asked in: [2015A Question 11](/content/exams/anzca/2015/A/11/index.qmd#examiner-comments), [2016A Question 5](/content/exams/anzca/2016/A/5/index.qmd#examiner-comments), [2021B Question 9](/content/exams/anzca/2021/B/9/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} relative advantages and disadvantages in terms of safe, effective patient controlled analgesia. Compare onset, peak effect, duration and metabolites, then explain how these differences interact with dose, lockout interval and continuing analgesic requirements.
+
+::: {.structure-table}
+| Feature | Morphine | Fentanyl | Clinical Implication |
+|---|---|---|---|
+| Onset and Time to Peak Effect | | | |
+| Duration and Repeated Dosing | | | |
+| Dose and Lockout Interval | | | |
+| Metabolites and Renal Function | | | |
+| Adverse Effects and Clinical Implications | | | |
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**43.5%** of candidates passed this question.
+
+This question was not well answered. A pass answer needed to demonstrate both a clear understanding of the objectives of Patient Controlled Analgesia, knowledge of the relative pharmacokinetics and pharmacodynamics of morphine and fentanyl, and translation of that knowledge to the PCA technique to indicate the relative advantages and disadvantages of the opioids. An opening statement outlining that the aims of post-operative PCA using opioids aimed for effective analgesia with rapid onset and a duration of action that could maintains analgesia, without causing sedation, was well regarded, but infrequently given.
+
+Discussion of pharmacological parameters of morphine and fentanyl, including differences, needed to be in the context of their administration by PCA, highlighting how the pharmacology determined their advantages and disadvantages. Indicating differences in lipophilicity, redistribution profile, metabolism and elimination of the opioids and their metabolites was important. These features then related to the advantages and disadvantages including relative onset and offset times, speed of redistribution, half-life, accumulation of the opioid or metabolites and safety, including in specific settings, such as PCA in the elderly, hepatic or renal impairment. Some candidates appreciated that advantages in some contexts could be disadvantages in another. Answers suffered from lack of any statement relating to objectives of PCA, inadequate consideration of pharmacokinetics, lack of translation of the relative opioid pharmacology to the PCA method of administration, errors of fact, and inclusion of imprecise comments. Statements relating to clinical experience were considered where the pharmacological principles behind these statements were provided.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2011/B/6/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2011/B/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Opioids](/content/pharmacopoeia/analgesics/opioids.qmd)
+- [Opioid pharmacology](/content/pharmacopoeia/analgesics/opioidspharm.qmd)

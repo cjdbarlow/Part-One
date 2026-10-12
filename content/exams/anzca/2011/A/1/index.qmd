@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2011A Question 1 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the factors which increase the risk of systemic toxicity with amide local anaesthetic agents.
+:::
+
+Also asked in: [2007B Question 5](/content/exams/anzca/2007/B/5/index.qmd#examiner-comments), [2009A Question 2](/content/exams/anzca/2009/A/2/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} factors that increase systemic concentration, intrinsic toxicity and patient sensitivity. Explain the direction of each effect and distinguish drug factors from patient factors.
+
+::: {.structure-headings}
+### Toxicity and Relative Safety
+
+### Drug Potency and Sodium Channel Affinity
+
+### Absorption and Administration
+
+### Distribution, Metabolism and Excretion
+
+### Central Nervous System and Cardiovascular Sensitivity
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+This question was passed by **34.6%** of candidates.
+
+This question requires an understanding that systemic toxicity is due to an excess in the plasma concentration of local anaesthetic, which is dependent on the rate of absorption into the systemic circulation, drug distribution and clearance. Successful candidates organised their answers into drug factors including pharmacodynamic and pharmacokinetic factors and patient factors. Listing factors such as pKa, lipid solubility and protein binding without a clear explanation of how these contributed to toxicity did not gain high marks. Factors which affect systemic absorption were well explained, however, drug distribution was poorly understood especially in the context of patient factors such as age and cardiac status. Repeating a concept under different headings such as pKa, degree of ionisation and ion trapping in the foetus or acidotic patient did not gain more marks. Local anaesthetics bind to many proteins which affects systemic toxicity. Binding to plasma proteins alters drug distribution, affinity for receptor proteins affects dwell time and binding to tissue proteins affects release of drug into the systemic circulation.
+
+Candidates were expected to know the relative toxicities between different amide anaesthetics. Quantifying the differences gained extra marks. An understanding of why certain amide anaesthetics are more toxic than others based on factors such as lipid solubility, chirality, intrinsic vasoconstrictive properties and sodium channel affinity were expected. Defining the CNS/CVS ratio without explaining why different amide anaesthetics have different values did not gain marks.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/B/5/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Local anaesthetic principles](/content/pharmacopoeia/neuro/local_anaesthetic_principles.qmd)

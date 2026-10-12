@@ -1,0 +1,138 @@
+#### List:
+
+- Intro: glucose and its control
+- Metabolic pathways and key enzymes
+- Each hormone
+
+#### Introduction:
+
++----------------------------+-----------------------------------------------------------------------------+
+| Glucose                    | - 6 carbon monosaccharide for energy production                             |
+|                            | - Brain, RBCs are obligate glucose users (brain can use ketones too)        |
+|                            | - Tight control of blood glucose level necessary (\~3-6mM)                  |
++----------------------------+-----------------------------------------------------------------------------+
+| Summary of glucose control | - Multiple systems                                                          |
+|                            |   - ↑BGL: glucagon, cortisol, catecholamines, growth hormone                |
+|                            |   - ↓BGL: insulin                                                           |
+|                            | - Ratio of activity determines effect (especially insulin:glucagon)         |
+|                            | - Each system is subject to negative feedback (e.g. ↑BGL → ↑insulin → ↓BGL) |
+|                            | - Liver buffers \[glucose\] – able to store and release glucose             |
+|                            | - Skeletal muscle and liver store glucose but buffer poorly                 |
++----------------------------+-----------------------------------------------------------------------------+
+
+#### Metabolic pathways and key enzymes:
+
++---------------------------+------------------------------------------------------------------------+
+| Glycolysis (GL)           | - Hexokinase                                                           |
++---------------------------+------------------------------------------------------------------------+
+| Gluconeogenesis (GNG)     | - From pyruvate, lactate, fructose, amino acids, glycerol              |
+|                           | - Note glucose 6 phosphatase mainly expressed in liver \> renal cortex |
++---------------------------+------------------------------------------------------------------------+
+| Glycogenolysis (GGL)      | - Glycogen phosphorylase                                               |
++---------------------------+------------------------------------------------------------------------+
+| Glycogenesis (GG)         | - Glycogen synthase                                                    |
++---------------------------+------------------------------------------------------------------------+
+| Lipolysis (LL)            | - Hormone-sensitive lipase                                             |
++---------------------------+------------------------------------------------------------------------+
+| De novo lipogenesis (DNL) | - Lipoprotein lipase, acetyl-CoA carboxylase, fatty acid synthase      |
++---------------------------+------------------------------------------------------------------------+
+| Ketogenesis (KG)          | - Acetyl-CoA thiolase                                                  |
++---------------------------+------------------------------------------------------------------------+
+
+#### Insulin:
+
++------------------------+----------------------------------------------------------------------------------------------+
+| Source                 | - Pancreatic islet β cells                                                                   |
++------------------------+----------------------------------------------------------------------------------------------+
+| Stimuli for release    | - Major: ↑BGL                                                                                |
+|                        | - Minor: ↑\[amino acids\], ↑\[fatty acids\])                                                 |
+|                        | - GIT secretagogues (e.g. GLP-1, GIP)                                                        |
++------------------------+----------------------------------------------------------------------------------------------+
+| Pattern of secretion   | - Mechanism: ↑BGL → ↑ATP → ↑inhibition of K channel → depolarisation → ↑Ca^2+^ \> exocytosis |
+|                        | - Constitutive: 15 milli-Units per minute                                                    |
+|                        | - 1^st^ phase inducible: preformed insulin, onset 2 mins, duration 15 mins                   |
+|                        | - 2^nd^ phase inducible: newly synthesized, onset 15 mins, duration 2-3 hours                |
++------------------------+----------------------------------------------------------------------------------------------+
+| Liver effect           | - ↑GL, ↑GG                                                                                   |
+|                        | - ↓GNG, ↑DNL                                                                                 |
++------------------------+----------------------------------------------------------------------------------------------+
+| Skeletal muscle effect | - ↑GLUT4 expression                                                                          |
+|                        | - ↑GL, ↑GG                                                                                   |
+|                        | - ↓GNG, ↑DNL                                                                                 |
++------------------------+----------------------------------------------------------------------------------------------+
+| Adipose effect         | - ↑GLUT4 expression, ↑glucose uptake → glycerol                                              |
++------------------------+----------------------------------------------------------------------------------------------+
+| Negative feedback loop | - ↑BGL → ↑insulin → ↓BGL                                                                     |
++------------------------+----------------------------------------------------------------------------------------------+
+
+#### Glucagon:
+
++-----------------------+---------------------------------------------------------------------------+
+| Source                | - Pancreatic islet α-cells                                                |
++-----------------------+---------------------------------------------------------------------------+
+| Stimulus for release  | - ↓BGL                                                                    |
+|                       | - Adrenaline (β~2~)                                                       |
+|                       | - GIT secretagogues (GIP, CCK)                                            |
++-----------------------+---------------------------------------------------------------------------+
+| Inhibition of release | - Tonic release of GABA from activated β-cells (i.e. interlock mechanism) |
++-----------------------+---------------------------------------------------------------------------+
+| Effects               | - Liver: opposite to insulin                                              |
+|                       | - Muscle: opposite (but does NOT cause GGL)                               |
+|                       | - Adipose: opposite to insulin                                            |
++-----------------------+---------------------------------------------------------------------------+
+
+#### Cortisol:
+
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Source                  | - Zona fasciculata of adrenal cortex                                                                                                  |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Stimuli for release     | - ↓BGL sensed by hypothalamus independent of pancreas                                                                                 |
+|                         | - Physical stress e.g. trauma, surgery, burns, exercise                                                                               |
+|                         | - Mental stress, anxiety etc.                                                                                                         |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| HPA axis                | ![](/content/exams/anzca/2018/B/12/prize-image001.jpg){fig-alt="Hypothalamic–pituitary–adrenal axis with cortisol negative feedback"} |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Liver effect            | - ↑GNG ++, ↑LL                                                                                                                        |
+|                         | - ↓GL, ↓GGL, ↓DNL                                                                                                                     |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Skeletal muscle effect  | - ↑proteolysis → amino acids → hepatic GNG                                                                                            |
+|                         | - ↓GG, ↓GL                                                                                                                            |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Visceral adipose effect | - ↓glucose uptake → glycerol                                                                                                          |
+|                         | - ↑LL, ↓DNL                                                                                                                           |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Subcut adipose effect   | - ↑glucose uptake → glycerol                                                                                                          |
+|                         | - ↑DNL, ↓LL                                                                                                                           |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+
+#### Catecholamines → ↑BGL:
+
++-------------------------+-------------------------------------------------------------------------------------+
+| Source                  | - Adrenal medulla                                                                   |
++-------------------------+-------------------------------------------------------------------------------------+
+| Stimuli for release     | - ↓BGL sensed by hypothalamus independent of pancreas                               |
+|                         | - Other physical and psychological stressors                                        |
++-------------------------+-------------------------------------------------------------------------------------+
+| Liver effects           | - β~2~ adrenoceptor: ↑GGL, ↑GNG                                                     |
++-------------------------+-------------------------------------------------------------------------------------+
+| Skeletal muscle effects | - β~2~: ↑GGL                                                                        |
++-------------------------+-------------------------------------------------------------------------------------+
+| Adipose effects         | - β~1~ white fat → ↓glucose uptake                                                  |
+|                         | - β~3~ brown fat → insertion of uncoupling protein → production of heat without ATP |
++-------------------------+-------------------------------------------------------------------------------------+
+
+#### Growth hormone:
+
++---------------------+----------------------------------------------------------------------+
+| Source              | - Anterior pituitary\                                                |
+|                     |   (production stimulated by corticotrophin-releasing hormone)        |
++---------------------+----------------------------------------------------------------------+
+| Stimuli for release | - ↓BGL sensed by hypothalamus independent of pancreas → ↑CRH release |
+|                     | - ↓plasma fatty acids                                                |
+|                     | - Protein deficiency                                                 |
+|                     | - (multiple other factors)                                           |
++---------------------+----------------------------------------------------------------------+
+| Metabolic effect    | - Insulin resistance → ↓GL, ↑GNG                                     |
+|                     | - ↑(LL), ↑FFA utilisation                                            |
+|                     | - ↑Protein synthesis                                                 |
++---------------------+----------------------------------------------------------------------+

@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2020A Question 15 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Discuss**]{.task-verb} the effects of ageing on the respiratory system.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Discuss**]{.task-verb} ageing through linked changes in structure, mechanics and function. Explain how altered recoil, chest wall and muscle performance affect volumes, ventilation–perfusion matching and gas exchange, then cover ventilatory control and reserve.
+
+::: {.structure-headings}
+### Thoracic Cage, Lung Parenchyma and Respiratory Muscles
+
+### Ventilation Mechanics and Volumes
+
+### Closing Capacity and Ventilation–Perfusion Matching
+
+### Gas Exchange and Reserve
+
+### Control of Ventilation
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+The major domains assessed in this question were;
+
+- Mechanics of ventilation; in particular the changes seen with ageing on the thoracic cage, lung parenchyma and respiratory muscle function
+- Ventilation and perfusion; in particular impacts on different physiological volumes and capacities, V/Q matching and gas exchange in the elderly
+- Control of ventilation
+
+Credit was given for other correct relevant material when put in context with the physiological changes
+
+Given the integrated nature of the major domains, errors and contradictions cast doubts over a cohesive understanding of the topic. Simple lists of changes also failed to demonstrate any understanding.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2020/A/15/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Lung volumes and capacities](/content/resp/volumes_capacities.qmd)
+- [Compliance](/content/resp/compliance.qmd)
+- [Control of breathing](/content/resp/breathing_control.qmd)

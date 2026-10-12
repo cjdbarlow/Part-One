@@ -1,0 +1,74 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005B Question 3 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Write brief notes**]{.task-verb} on the physico-chemical properties of lidocaine (lignocaine).
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Write brief notes**]{.task-verb} on structure and physicochemical behaviour, linking the amide, weak base, ionisation and lipid solubility to formulation and activity.
+
+::: {.structure-headings}
+### Chemical Structure
+
+### Weak Base, pKa and Ionisation
+
+### Lipid and Water Solubility
+
+### Hydrochloride Formulation and Additives
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**53 %** of candidates passed this question.
+
+This question serves to remind candidates of how information on pharmacological topics needs to be organised. In asking for physicochemical details of lignocaine, the information that the examiners were seeking included: the chemical structure, the fact that the structure is an amide and a weak base, an explanation of how the chemical structure of the lignocaine molecule relates to its activity, the pKa, degree of ionisation under physiological conditions and how this can be altered by changes in pH, molecular weight and oil:water partition co-efficient, or some mention of lipid solubility. Only a few candidates mentioned that lignocaine base is poorly soluble and that lignocaine local anaesthetic products are formulated as the hydrochloride salt to overcome this problem. Critically, many candidates spent valuable time writing pages of details of the pharmacokinetic or pharmacodynamic effects of the drug which were clearly not called for, and therefore sadly scored no marks. The candidates that scored well on this question usually needed to write little more than one page. It is content rather than amount written that is important.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2005/B/3/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Local anaesthetics](/content/pharmacopoeia/neuro/local_anaesthetics.qmd)

@@ -1,0 +1,68 @@
+#### List:
+
+- PC
+- PK
+- PD
+
+#### Pharmaceutics:
+
++--------------+-------------------------------------------+
+| Structure    | - Hydrocarbon backbone                    |
+|              |                                           |
+|              | Three nitrate groups                      |
++--------------+-------------------------------------------+
+| Presentation | - For IV injection: 50mg in 10mL          |
+|              | - For sublingual spray: 300mcg actuations |
++--------------+-------------------------------------------+
+
+#### Pharmacokinetics:
+
++----------------+-----------------------------------------+
+| Administration | - Infusion 10-200mcg/min                |
++----------------+-----------------------------------------+
+| Time course    | - Onset 1-3 mins                        |
+|                | - Peak 5 mins                           |
+|                | - Duration 30 mins                      |
++----------------+-----------------------------------------+
+| Absorption     | - Well absorbed                         |
+|                | - Metabolised in the gut wall           |
+|                | - Oral bioav \<1%                       |
++----------------+-----------------------------------------+
+| Distribution   | - Plasma protein binding 10-60%         |
++----------------+-----------------------------------------+
+| Metabolism     | - Hydrolysis in liver, RBC, endothelium |
+|                | - t~1/2~~β~ 2-6 mins                    |
++----------------+-----------------------------------------+
+| Excretion      | - Metabolites → urine                   |
++----------------+-----------------------------------------+
+
+#### Pharmacodynamics:
+
++----------------------+-----------------------------------------------------------------------------------------------------------------------+
+| Mechanism of action  | - Prodrug                                                                                                             |
+|                      | - Reacts with sulfhydryl groups in endotheliocytes → nitric oxide (NO)                                                |
+|                      | - NO diffuses into vascular smooth muscle                                                                             |
+|                      | - NO activates guanylyl cyclase → ↑cGMP → ↑MLCP, ↑Ca^2+^ reuptake, ↑K^+^ efflux → relaxation                          |
+|                      | - Venodilatation \> vasodilatation (unclear)                                                                          |
++----------------------+-----------------------------------------------------------------------------------------------------------------------+
+| Venous effects       | - ↓Venous return → ↓preload                                                                                           |
++----------------------+-----------------------------------------------------------------------------------------------------------------------+
+| Arterial effects     | - ↓SVR → ↓mAP                                                                                                         |
+|                      | - ↓PVR → ↓mPAP                                                                                                        |
+|                      | - ↓Coronary VR → ↑Coronary blood flow                                                                                 |
+|                      | - ↓CVR → ↑CBF → ↑ICP                                                                                                  |
++----------------------+-----------------------------------------------------------------------------------------------------------------------+
+| Other effects        | - Myometrial relaxation                                                                                               |
+|                      | - Bronchodilatation                                                                                                   |
+|                      | - ↓Platelet aggregation                                                                                               |
++----------------------+-----------------------------------------------------------------------------------------------------------------------+
+| Specific indications | - Acute LV failure: ↓preload, ↓afterload                                                                              |
+|                      | - Myocardial ischaemia: ↓preload, ↓afterload, ↓O~2~ consumption, ↑coronary blood flow and O~2~ supply; but reflex ↑HR |
+|                      | - Emergency ↓uterine tone at LUSCS                                                                                    |
++----------------------+-----------------------------------------------------------------------------------------------------------------------+
+| Side effects         | - Reflex ↑HR                                                                                                          |
+|                      | - Flushing, headache                                                                                                  |
++----------------------+-----------------------------------------------------------------------------------------------------------------------+
+| Special              | - Tachyphylaxis – depletion of sulfhydryl groups (fix: withhold 12 hours)                                             |
+|                      | - Methaemoglobinaemia with prolonged use                                                                              |
++----------------------+-----------------------------------------------------------------------------------------------------------------------+

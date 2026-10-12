@@ -1,0 +1,68 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007B Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Outline**]{.task-verb} the mechanisms of action and potential adverse effects of the oral hypoglycaemic agents.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Outline**]{.task-verb} **Sulphonylureas** and **Biguanides**, pairing mechanisms of action with their potential adverse effects. [**Include**]{.task-verb} other relevant classes separately and relate patient or kinetic factors to toxicity.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**47%** of candidates passed this question.
+
+A discussion of the two main groups and their side effects achieved a pass. Sulphonylureas act at potassium ATPase ion sensitive channels in the beta cells resulting in depolarisation and increased calcium concentration which causes increased insulin release. The biguanides decrease hepatic and renal gluconeogenesis, decrease glucose absorption from the gut and increase glucose uptake.
+
+Side effects were well described. The propensity for hypoglycaemia will vary amongst sulphonylureas depending on their clearance and site of metabolism along with liver or renal pathology. The basis of lactic acidosis with biguanides needed some mention of the action of the drugs at mitochondrial membranes and the increased risk in renal, hepatic impairment and states of decreased perfusion. Other points worth mentioning relate to the degree of protein binding with resultant displacement of other highly bound drugs e.g. warfarin and the potential for altered drug activity, some agents cross the placenta – causing fetal hypoglycaemia and the theoretical potential for inhibition of ischaemic and pharmacological pre-conditioning with sulphonylureas.
+
+Many candidates outlined the mode of action and side effects of the meglitinindes and thiazolidinediones. They were rewarded for their knowledge.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Oral Hypoglycaemics](/content/pharmacopoeia/endo/oral_hypoglycaemics.qmd)

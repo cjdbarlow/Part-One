@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2010A Question 8 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Classify**]{.task-verb} drugs used in the treatment of depression. [**Outline**]{.task-verb} the interactions between antidepressant drugs and drugs that are commonly used during the peri-operative period.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Classify**]{.task-verb} antidepressants by mechanism, then [**outline**]{.task-verb} kinetic and dynamic interactions with perioperative drugs. Explain the importance of MAO inhibitor interactions and distinguish indirect from direct sympathomimetics.
+
+::: {.structure-headings}
+### Reuptake Inhibitors
+
+### Monoamine Oxidase Inhibitors
+
+### Other Antidepressants
+
+### Serotonergic Interactions
+
+### Sympathomimetic and Pharmacokinetic Interactions
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**32%** of candidates passed this question.
+
+The main points expected for a pass included a classification of antidepressants according to mechanism of action, and therefore making some mention of the amine hypothesis of antidepressant effect. Then an outline of antidepressant – perioperative drug interactions was expected: including pharmacokinetic and pharmacodynamic interactions. Many relevant interactions attracted marks, however, the important MAO inhibitor interactions were especially rewarded.
+
+Although most candidates classified antidepressants according to mechanism of action, few connected this pharmacodynamically to the therapeutic antidepressant effect. Pharmacokinetic drug interactions were rarely included in answers and an explanation of what type of sympathomimetic that could be utilized perioperatively in patients taking MAO inhibitors was often omitted. Similarly, serotonin syndrome was frequently discussed as a SSRI interaction (where the severity is usually minor), but rarely so as a MAO inhibitor interaction where it can be severe.
+
+Detailed descriptions of the pathology of depression were not expected.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2010/A/8/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Antidepressants](/content/pharmacopoeia/neuro/antidepressants.qmd)

@@ -1,0 +1,62 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003A Question 7 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Classify**]{.task-verb} diuretics, briefly explaining their mode of action.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Classify**]{.task-verb} diuretics by **Site and Mechanism of Action**. Briefly [**explain**]{.task-verb} each class’s cellular action and connect the resulting electrolyte movement to diuresis.
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**88%** of candidates passed this question, and many demonstrated a high level of understanding of this group of drugs. Almost all candidates successfully classified the main groups of diuretics according to their mode of action. Better marks were achieved by candidates that not only mentioned their cellular mechanisms of action but also the net effect of this on electrolyte shifts and therefore how diuresis is actually achieved.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-unavailable}
+
+### Prize
+
+No matching answer was supplied.
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Diuretics](/content/pharmacopoeia/renal/diuretics.qmd)

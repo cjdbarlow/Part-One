@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2012B Question 14 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Detail**]{.task-verb} the protective and regulatory roles of the liver.
+:::
+
+Also asked in: [2008B Question 12](/content/exams/anzca/2008/B/12/index.qmd#examiner-comments), [2015A Question 3](/content/exams/anzca/2015/A/3/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Detail**]{.task-verb} or [**outline**]{.task-verb} protective and regulatory roles in separate sections. Explain the liver’s position between portal and systemic circulation, connecting immune and detoxifying processes to protection and metabolic control to nutrient levels and other homeostatic functions.
+
+::: {.structure-headings}
+### Portal Interface and Protective Role
+
+### Innate and Adaptive Immune Functions
+
+### Detoxification and Drug Handling
+
+### Glucose and Macronutrient Regulation
+
+### Protein, Blood Volume and Other Regulatory Functions
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**40 %** of candidates passed this question.
+
+The liver is crucially placed at the interface between the gut and the circulation to the rest of the body. This placement serves both its regulatory and especially its protective functions. Phagocytic Kupffer cells lining the hepatic sinusoids remove bacteria, an example of innate immunity. Toxins and foreign proteins are ingested as well. A crucial regulatory role is as glucostat in response to insulin, glucagon and other hormones. Glucose can be added or removed from the circulation. There are related effects on protein and lipid metabolism. What has been stated above is the core of a good answer that should be augmented with other examples of protective and regulatory functions from among the liver’s myriad of functions.
+
+Much candidate effort was wasted with the following content: rewriting the question; description of the size, anatomy and blood flow of the liver; details of drug metabolism; extensive description of metabolic functions; listing functions of the liver without reference to the specific question that was asked. It was frequently but unimpressively stated that you would die without your liver.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2008/B/12/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2008/B/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Liver function](/content/git/liver_function.qmd)

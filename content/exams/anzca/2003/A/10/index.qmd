@@ -1,0 +1,92 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2003A Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Describe**]{.task-verb} the factors influencing hepatic blood flow.
+:::
+
+Also asked in: [1999A Question 6](/content/exams/anzca/1999/A/6/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe**]{.task-verb} the dual blood supply and normal values, then use pressure gradients and vascular resistance to organise the determinants of each component. Explain the hepatic arterial buffer response.
+
+::: {.structure-headings}
+### Dual Blood Supply and Normal Values
+
+### Hepatic Arterial Flow
+
+### Portal Venous Flow
+
+### Hepatic Arterial Buffer Response
+
+### Anaesthetic, Surgical and Pathological Influences
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**55%** passed this question. Less than 9% scored well.
+
+Candidates are expected to provide anatomical information stating that hepatic blood flow has a dual blood supply: (i) the hepatic artery (25%) and (ii) the portal vein (75%). Normal values of flow and pressure are expected.
+
+One is expected to discuss the factors that affect the respective pressures and hepatic vascular resistance,
+
+$$\text{Hepatic arterial flow} = \frac{[\text{mean arterial pressure – hepatic venous pressure}]}{\text{Hepatic vascular resistance}}$$
+
+$$\text{Portal venous flow} = \frac{[\text{portal venous pressure – hepatic venous pressure}]}{\text{Hepatic vascular resistance}}$$
+
+Some better answers stated that there is an inverse relationship between the hepatic arterial and portal venous flow with autoregulation occurring in the hepatic artery and not in the portal system. A few mentioned that metabolic regulation can cause the hepatic artery to supply up to 50% of the hepatic blood flow.
+
+Many recognised that factors such as sympathetic stimulation, anaesthetic agents, surgical factors and pathological states will affect blood flow by their effects on arterial pressure or cardiac output as well as their effects on hepatic vascular resistance.
+
+However, a number of candidates answered the question only from first principle, discussing the Hagen-Poiseuille equation in some detail without making specific reference to hepatic blood flow. A large number of candidates did not give any normal values or had them wrongly stated.
+
+Measurement of hepatic blood flow and functions of the liver were not required
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/1999/A/6/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Hepatic blood flow](/content/cvs/hepatic_blood_flow.qmd)

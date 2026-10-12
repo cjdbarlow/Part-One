@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2013A Question 12 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly explain**]{.task-verb} the cardiovascular responses to central neuraxial blockade.
+:::
+
+Also asked in: [2019B Question 8](/content/exams/anzca/2019/B/8/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+**[Briefly explain]{.task-verb}** each response by connecting the level of blockade and nerves affected to the cardiovascular consequence.
+
+::: {.structure-headings}
+### Definition and Extent of Sympathetic Blockade
+
+### Venous Capacitance and Venous Return
+
+### Arterial Resistance and Blood Pressure
+
+### Heart Rate, Contractility and Cardiac Output
+
+### Compensatory Responses and Cardiac Reflexes
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+Old Exam: **56%** of candidates achieved a pass in this question
+
+New Exam: **38%** of candidates achieved a pass in this question
+
+A definition of Neuraxial block and some statement as to the important nerves blocked (α~1~ and β) followed by a structured discussion of the impacts on the venous system, arterial system, cardiac output and heart rate would receive a good pass. Additional credit was awarded to answers that recognised that the level of block is important in determining the extent of the cardiovascular responses and gave examples of the likely responses for various levels of block (Sacral, lumbar, low thoracic, high thoracic). All the better answers had an obvious structure to them that seemed to result in a more complete discussion of the question. Only one answer included a discussion of the likely magnitude of change in the SVR, heart rate and other responses.
+
+The most frequent reason for not gaining a pass mark was including only a limited subset of the likely cardiovascular responses with scant explanation of those responses. A discussion of the sympathetic nervous system and of the Renin-Angiotensin-Aldosterone system was not asked for and received no marks. Information that was repeated did not receive double credit.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2013/A/12/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2013/A/12/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Neuraxial blockade](/content/pharmacopoeia/neuro/neuraxial_blockade.qmd)
+- [Venous return](/content/cvs/venous_return.qmd)
+- [Cardiac reflexes](/content/cvs/cardiac_reflexes.qmd)

@@ -1,0 +1,59 @@
+#### List:
+
+- Waveforms
+- Aetiology
+- Difference by location
+- Difference with ageing
+
+#### Waveforms:
+
+![](/content/exams/anzca/1999/B/8/prize-image001.jpg){fig-alt="Superimposed aortic and radial pressure waveforms against time"}
+
+#### Aetiology:
+
++---------------------------+----------------------------------------------------------------------------------------------------------+
+| Aortic wave               | - Due to change in intra-aortic volume and pressure across the cardiac cycle                             |
++---------------------------+----------------------------------------------------------------------------------------------------------+
+| Radial wave               | - Due to transmission of the waveform                                                                    |
+|                           | - Not due to blood flow (but a small amount of forward flow is required for propagation of the waveform) |
++---------------------------+----------------------------------------------------------------------------------------------------------+
+| Pressure wave propagation | - Wave has fast moving (10m/s) and slow moving (0.5m/s components)                                       |
+|                           | - Role of resistance:                                                                                    |
+|                           |   - Some forward flow required to distend the vessel and propagate the wavefront                         |
+|                           |   - Pressure drop ∝ arterial resistance                                                                  |
+|                           | - Role of compliance:                                                                                    |
+|                           |   - Arterial compliance ∝ volume increment ∝ 1/speed                                                     |
++---------------------------+----------------------------------------------------------------------------------------------------------+
+
+#### Difference by location:
+
++----------------------------------------+--------------------------------------------------------------------------+
+| **Radial waveform (cf. aortic)**       | **Reason**                                                               |
++========================================+==========================================================================+
+| Delayed start 0.06 seconds             | - Time taken for wave front to travel (note much faster than blood flow) |
++----------------------------------------+--------------------------------------------------------------------------+
+| Narrower and higher systolic component | - Less elastic tissue                                                    |
+|                                        | - Relatively more muscular tissue                                        |
+| Steeper upstroke = ↑dp/dt max          | - ↓ compliance (δv/δp)                                                   |
++----------------------------------------+--------------------------------------------------------------------------+
+| Lower diastolic component              | - Less elastic tissue                                                    |
+|                                        | - Less Windkessel effect (storage and release of energy)                 |
++----------------------------------------+--------------------------------------------------------------------------+
+| Slightly lower mean                    | - Above factors                                                          |
++----------------------------------------+--------------------------------------------------------------------------+
+| Widened pulse pressure                 | - Above factors                                                          |
++----------------------------------------+--------------------------------------------------------------------------+
+| Disappearance of high freq components  | - Damping affects high \> low freq                                       |
+|                                        | - Damping ∝ frictional tissue interactions per length or time            |
++----------------------------------------+--------------------------------------------------------------------------+
+| Appearance of dicrotic notch           | - Reflection and resonance.                                              |
++----------------------------------------+--------------------------------------------------------------------------+
+
+#### Difference with ageing:
+
++--------------------------+--------------------------------------------------+
+| ↓Large artery elasticity | - ↓Compliance                                    |
+|                          | - ↓Elastic return and Windkessel effect          |
+|                          | - ↓Waveform variation (aortic similar to radial) |
+|                          | - ↑Waveform propagation velocity                 |
++--------------------------+--------------------------------------------------+

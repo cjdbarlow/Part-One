@@ -1,0 +1,92 @@
+#### List:
+
+- PC: pros and cons
+- PK: pros and cons
+- PD: pros and cons
+
+#### Pharmaceutics:
+
++------------------------------------------------------+-------------------------------------------------------------------------+
+| **Pros**                                             | **Cons**                                                                |
++======================================================+=========================================================================+
+| - Liquid form → efficient storage                    | - Impurities from manufacturing: NH~3~, N~2~, NO, NO~2~                 |
+|                                                      | - e.g. NO~2~: airway damage, headache, heart failure                    |
++------------------------------------------------------+-------------------------------------------------------------------------+
+| - Sweet smell, non irritant → good for gas induction | - Set-up and maintenance costs: wall supply, cylinder manifolds etc.    |
++------------------------------------------------------+-------------------------------------------------------------------------+
+| - Inert: no reaction with rubber, plastic, sodalime  | - Need to reduce filling ratio from 0.75 to 0.67 in hot climates        |
++------------------------------------------------------+-------------------------------------------------------------------------+
+| - Low potency (MAC 105%): use as carrier gas         | - Entonox lamination: occurs if below pseudocritical temperature (-6°C) |
+|                                                      | - Delivery of hyperoxic then hypoxic mixture                            |
++------------------------------------------------------+-------------------------------------------------------------------------+
+|                                                      | - Supports combustion, although not itself flammable                    |
+|                                                      | - Risk of fire, explosion in airway laser surgery                       |
+|                                                      | - Destructive to ozone layer                                            |
++------------------------------------------------------+-------------------------------------------------------------------------+
+
+#### Pharmacokinetics:
+
++---+-----------------------------------------------------------------------------+---------------------------------------------------+
+|   | **Pros**                                                                    | **Cons**                                          |
++===+=============================================================================+===================================================+
+|   | N2O 30x more soluble, blood-gas partition coefficient 0.47; equilibrates across membranes rapidly                               |
+|   |                                                                                                                                 |
+|   | N2 30x less soluble, BGPC 0.014; equilibrates across membranes slowly                                                           |
++---+-----------------------------------------------------------------------------+---------------------------------------------------+
+| A | Rapid onset during gas induction:                                           | \-                                                |
+|   |                                                                             |                                                   |
+|   | 1)  Concentration effect:                                                   |                                                   |
+|   |     - Seen only with high volume carrier gases                              |                                                   |
+|   |     - Switch from N~2~/O~2~ to N~2~O/O~2~                                   |                                                   |
+|   |     - Rapid uptake N~2~O from alveolus, but very slow output of N~2~        |                                                   |
+|   |     - ↓ alveolar volume and pressure → rapid inflow of N~2~O-rich fresh gas |                                                   |
+|   |     - Accelerated ↑ FA/FI N~2~O                                             |                                                   |
+|   | 2)  Second gas effect:                                                      |                                                   |
+|   |     - Rapid uptake N~2~O, very slow output of N~2~                          |                                                   |
+|   |     - Concentration of remaining alveolar gas                               |                                                   |
+|   |     - Accelerated ↑F~A~/F~I~ volatile drug                                  |                                                   |
++---+-----------------------------------------------------------------------------+---------------------------------------------------+
+| D | - Low muscle:blood PC (1.2)                                                 | Expansion of existing closed air spaces:          |
+|   | - Low fat:blood PC (2.3)                                                    |                                                   |
+|   | - Minimal accumulation in long case                                         | - ↑size pneumothorax                              |
+|   |                                                                             | - ↑Bowel gas → difficult laparoscopy              |
+|   |                                                                             | - ↑Ocular gas (if surgery using SF~6~)            |
+|   |                                                                             | - ↑Pneumocephalus (if brain surgery)              |
++---+-----------------------------------------------------------------------------+---------------------------------------------------+
+| M | - Minimal (0.004%)                                                          | \-                                                |
++---+-----------------------------------------------------------------------------+---------------------------------------------------+
+| E |                                                                             | Diffusion hypoxia:                                |
+|   |                                                                             |                                                   |
+|   |                                                                             | - Reverse of concentration effect                 |
+|   |                                                                             | - N~2~O/O~2~ off, N~2~/O~2~ on                    |
+|   |                                                                             | - N2O diffuses rapidly out of blood into alveolus |
+|   |                                                                             | - N2 slow to be taken up from alveolus            |
+|   |                                                                             | - Dilution of alveolar O~2~ → hypoxia             |
++---+-----------------------------------------------------------------------------+---------------------------------------------------+
+
+#### Pharmacodynamics:
+
++-------+----------------------------------------------------------------+-------------------------------------------------------------------------------+
+|       | **Pros**                                                       | **Cons**                                                                      |
++=======+================================================================+===============================================================================+
+| CVS   | - Stability: ↑SNS offsets ↓inotropy                            | - Direct negative inotropy may be unmasked if on exogenous intrope            |
++-------+----------------------------------------------------------------+-------------------------------------------------------------------------------+
+| Resp  | - Mild ↑RR, ↓TV, minimal ↑PaCO~2~                              | - ↑RR, ↓TV                                                                    |
+|       |                                                                | - ↑SNS output → ↑PVR → ↑RV strain                                             |
+|       |                                                                | - Carrier gas → ↓FiO~2~                                                       |
++-------+----------------------------------------------------------------+-------------------------------------------------------------------------------+
+| CNS   | - Additive with volatile anaesthetics\                         | - MAC 105%, MAC-awake 67%; inadequate alone for anaesthesia                   |
+|       |    (MAC-sparing)                                               | - Pro-emetic                                                                  |
+|       | - Analgesia (NMDA antagonist), may reduce risk of chronic pain | - ↑CBF                                                                        |
+|       |                                                                | - Minimal effect on EEG; BIS/entropy unhelpful                                |
+|       |                                                                | - Euphoria, abuse potential                                                   |
++-------+----------------------------------------------------------------+-------------------------------------------------------------------------------+
+| Other | - No vasodilation, MAC sparing → ↓bleeding                     | Mutagenesis:                                                                  |
+|       | - Does not trigger MH                                          |                                                                               |
+|       |                                                                | - Oxidises cobalt atom in Vitamin B~12~, a cofactor for methionine synthetase |
+|       |                                                                | - Impaired DNA synthesis                                                      |
+|       |                                                                | - Megaloblastic anaemia                                                       |
+|       |                                                                | - Subacute combined degeneration of the cord (chronic abuse)                  |
+|       |                                                                | - Teratogenesis                                                               |
+|       |                                                                | - ? ↑Risk abortion in PACU staff                                              |
++-------+----------------------------------------------------------------+-------------------------------------------------------------------------------+

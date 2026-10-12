@@ -1,0 +1,33 @@
+A partial pressure gradient is required to drive oxygen transport from alveoli to cells/mitochondria for cellular respiration. 
+
+Hypoxaemia is typically defined as a PaO2 \<60mmHg, while brief periods of hyperaemia are generally well tolerated by healthy people, prolonged hyperaemia will lead to metabolic derangement cellular dysfunction and cell death.   
+
+- SpO2 is a measurement of the percentage of haemoglobin saturated by oxygen using pulse oximetry
+- SaO2 is % saturation measured by blood gas analysis and usually closely correlates with SpO2.   
+
+SpO2 is a useful measurement as a surrogate of PaO2 using the oxygen-haemoglobin disassociation curve.
+
+Common reference points are:
+
+PaO2 90mmHg → SpO2 99%
+
+PaO2 60mmHg → SpO2 90%
+
+PaO2 27mmHg → SpO2 50%
+
+Oxygen delivery is dependent on multiple factors as described in the flux equation. 
+
+DO2 = CO (SpO2xHbx1.34) + (0.003xPaO2) 
+
+→ ↓ SPO2 may be compensated by ↑ CO 
+
+The considerations being cardiac output, SpO2 and haemoglobin concentration.
+
+VO2 is often reduced under anaesthesia in healthy patients undergoing elective surgery.
+
+Therefore, the lower limit of SpO2 I would accept in an ASA1 patient under general anaesthesia would be 94% for the following reasons. 
+
+- Provides adequate PaO2 (approx. 75mmHg) for normal cellular respiration, avoids hyperoxia while allowing for increased shunt under Anaesthesia. 
+- Allows safety for measurement error of pulse oximetry, patient or equipment airway/ventilation complications 
+- Provides a buffer to the steep part of the disassociation curve  for any decreases in PaO2
+- Lower SpO2 should provoke consideration of causes of desaturation in a an ASA1 young male without pre-existing cardio/respiratory disease

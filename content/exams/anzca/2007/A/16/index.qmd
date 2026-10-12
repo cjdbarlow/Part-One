@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2007A Question 16 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**Briefly outline**]{.task-verb} the components of parenteral nutrition, [**explaining**]{.task-verb} the rationale for the use of each component.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Briefly outline**]{.task-verb} components with normal requirements, [**explaining**]{.task-verb} a specific rationale for each. Include water, electrolytes and micronutrients alongside energy substrates, then consider altered requirements.
+
+::: {.structure-headings}
+### Definition and Rationale
+
+### Water and Electrolytes
+
+### Carbohydrate, Lipid and Protein
+
+### Vitamins, Minerals and Trace Elements
+
+### Physiological and Disease-Related Requirements
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**42%** of candidates passed this question.
+
+A good answer would have included a definition of parenteral nutrition and a rationale for its use. Normal daily requirements should have been described. The components of parenteral nutrition include water and electrolytes, a common omission in many papers. Most candidates covered well the caloric components of lipids, carbohydrates and proteins with a rationale for use. Many answers also included the addition of vitamins, minerals and trace elements, which was pleasing, but the rationale of “to maintain normal levels” was insufficient to score marks. Extra marks were awarded for discussing how the patients requirements alter in normal physiological circumstances, for example age, gender and pregnancy and in disease states such as sepsis and burns.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2007/A/16/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Carbohydrate metabolism](/content/metabolic/carbohydrate.qmd)
+- [Protein metabolism](/content/metabolic/protein.qmd)
+- [Fat metabolism](/content/metabolic/fat.qmd)

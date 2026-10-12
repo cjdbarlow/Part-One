@@ -1,0 +1,107 @@
+#### List:
+
+- Obesity
+- Absorption
+- Distribution
+- Metabolism
+- Excretion
+- Modelling
+
+#### Obesity:
+
++------------+---------------------------------------------------------------------------+
+| Definition | BMI \>30kg/m^2^ body surface area                                         |
++------------+---------------------------------------------------------------------------+
+| Changes    | - ↑Fat mass                                                               |
+|            |   - Accounts for 60-80% excess                                            |
+|            |   - → Chest wall compression, diaphragm displacement                      |
+|            | - ↑Fat-free mass                                                          |
+|            |   - Accounts for 20-40% excess. Rarely \>70kg in women, \>100kg in men    |
+|            |   - →↑Metabolic rate (BMR), ↑blood volume, ↑cardiac output (CO)           |
+|            | - ↑Visceral fat                                                           |
+|            |   - ↑Inflammatory cytokines (e.g. TNFα, IL-1, IL-6 in metabolic syndrome) |
+|            | - Comorbid disease                                                        |
+|            |   - Much more likely with central obesity                                 |
++------------+---------------------------------------------------------------------------+
+
+#### Absorption:
+
++---------------+------------------------------------------------------------------+
+| Oral          | - Delayed gastric emptying → slow onset                          |
+|               |   - e.g. ineffective oral pre-medication                         |
++---------------+------------------------------------------------------------------+
+| Inhalational  | - ↑V~A~:FRC → ↑rate of rise F~A~/F~I~                            |
+|               |   - ↑Metabolic rate → ↑VCO~2~ → ↑V~A~ awake                      |
+|               |                                                                  |
+|               | (but ↓V~A~ under GA due to poor compliance)                      |
+|               |                                                                  |
+|               | - Diaphragm compression → ↓↓FRC (e.g. ↓25% when erect at BMI 35) |
+|               |                                                                  |
+|               | (worse supine, even worse under GA)                              |
++---------------+------------------------------------------------------------------+
+| Intramuscular | - Risk of subcut injection → ↓onset, risk of dose stacking       |
++---------------+------------------------------------------------------------------+
+
+#### Distribution:
+
++-----------------+--------------------------------------------------------------------------------+
+| Circulation     | - ↑CO ∝ ↑lean mass                                                             |
+|                 |   - ↑Rate of drug distribution                                                 |
+|                 |   - ↓Peak plasma \[propofol\] after bolus → risk of awareness                  |
+|                 |   - ↓Rate of rise F~A~/F~I~ volatile anaesthetic (partly offsets resp changes) |
+|                 | - ↑Blood volume                                                                |
+|                 |   - ↑Central V~D~ → ↓Plasma concentration after loading dose                   |
+|                 |   - Risk of awareness post-induction                                           |
++-----------------+--------------------------------------------------------------------------------+
+| Plasma proteins | - Altered profile in metabolic syndrome                                        |
+|                 | - ↓Albumin → ↑unbound % of acidic drugs → toxicity if low HER (e.g. phenytoin) |
+|                 | - ↑AAG → ↓unbound % basic drugs (e.g. morphine)                                |
++-----------------+--------------------------------------------------------------------------------+
+| Tissues         | *\*Dosing by total body weight may cause toxicity\**                           |
+|                 |                                                                                |
+|                 | - ↑Total body water                                                            |
+|                 |   - ↑V~D~ water-soluble drug → resistance to effect of muscle relaxants        |
+|                 |   - Note overdose likely if loading dose calculated with total body weight     |
+|                 | - ↑Muscle                                                                      |
+|                 |   - ↑Time constant → slow emergence from volatile anaesthetic                  |
+|                 |   - ↑Time to emergence from volatile anaesthetic                               |
+|                 | - ↑Fat                                                                         |
+|                 |   - ↑V~D~ fat-soluble drugs → ↑t~1/2~~β~ (e.g. fentanyl)                       |
+|                 |   - ↑Time constant → slow emergence only if very long volatile anaesthetic     |
++-----------------+--------------------------------------------------------------------------------+
+
+#### Metabolism:
+
++---------+----------------------------------------------------------+
+| Hepatic | - Significant impairment only if NAFLD-induced cirrhosis |
+|         | - Phase 1: variable effect on CYP450 enzymes             |
+|         |   - ↓3A4 (most drugs)                                    |
+|         |   - ↑2E1 (volatiles)                                     |
+|         | - Phase 2: ↑activity                                     |
++---------+----------------------------------------------------------+
+| Other   | - ↑Plasma cholinesterase → ↑resistance to suxamethonium\ |
+|         |   (hence dosing according to TBW)                        |
++---------+----------------------------------------------------------+
+
+#### Excretion:
+
++-------+-------------------------------------------------------------------+
+| Urine | - ↑Renal blood flow ∝ ↑lean mass                                  |
+|       |   - ↑Excretion of small and/or hydrophilic drugs and metabolites  |
+|       |   - e.g. morphine 6 glucuronide                                   |
++-------+-------------------------------------------------------------------+
+| Bile  | - Unaffected by simple obesity                                    |
++-------+-------------------------------------------------------------------+
+| Lung  | - ↑V~A~:FRC → ↑rate of fall F~A~/F~A0~ (causes as above)          |
++-------+-------------------------------------------------------------------+
+
+#### Modelling:
+
++--------------+------------------------------------------------------------------+
+| Marsh TCI    | - Entry of total body weight inappropriate                       |
+|              |   - ↑Dose → toxicity (i.e. hypotension)                          |
++--------------+------------------------------------------------------------------+
+| Schnider TCI | - Poor estimate of lean mass (James equation)                    |
+|              |   - Paradoxical ↓infusion rate at BMI \>42 in men, \>35 in women |
+|              |   - Risk of awareness                                            |
++--------------+------------------------------------------------------------------+

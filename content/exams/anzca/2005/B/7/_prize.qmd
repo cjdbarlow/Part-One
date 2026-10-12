@@ -1,0 +1,57 @@
+#### List:
+
+- PC
+- PK
+- PD
+
+#### Physicochemical:
+
++--------------+---------------------------+
+| Class        | - Butyrophenone           |
++--------------+---------------------------+
+| Presentation | - Aqueous solution        |
+|              | - Light-protected ampoule |
++--------------+---------------------------+
+
+#### Pharmacokinetic:
+
++----------------+------------------------------------------------+
+| Administration | - IV, IM, PO                                   |
++----------------+------------------------------------------------+
+| Time course    | - Onset 5-15 mins                              |
+|                | - Duration: up to 12 hours for sedative effect |
++----------------+------------------------------------------------+
+| Absorption     | - Oral bioav 75%                               |
++----------------+------------------------------------------------+
+| Distribution   | - Plasma protein binding 85-90%                |
+|                | - V~D~ 1.5-2.5L/kg                             |
++----------------+------------------------------------------------+
+| Metabolism     | - Hepatic CYP450                               |
+|                | - Clearance 8mL/kg/min (slow)                  |
+|                | - t~1/2~~β~ 2 hours                            |
++----------------+------------------------------------------------+
+| Excretion      | - 1% unchanged in urine \> faeces              |
+|                | - Metabolites \> urine                         |
++----------------+------------------------------------------------+
+
+#### Pharmacodynamic:
+
++--------------+-----------------------------------------------------------------------------------+
+| Mechanisms   | - Central DA~2~ antagonist (Binds G~i~ GPCR → ↓cAMP)                              |
+|              | - ↓Afferents from chemoreceptor trigger zone to vomiting centre                   |
+|              | - α-adrenoceptor antagonist                                                       |
++--------------+-----------------------------------------------------------------------------------+
+| Use (dose)   | - PONV prevention or rescue (0.5-0.625mg in adults)                               |
+|              | - Anti-psychosis, chemical restraint )1.25-2.5mg slowly IV, q10 mins; max 10mg)   |
+|              | - Neuroleptanaesthesia                                                            |
++--------------+-----------------------------------------------------------------------------------+
+| Side effects | - Sedation                                                                        |
+|              | - Mild hypotension                                                                |
+|              | - EPSE:                                                                           |
+|              |   - Parkinsonism (tremor)                                                         |
+|              |   - Akathisia (restlessness)                                                      |
+|              |   - Tardive dyskinesia (rhythmic voluntary movements of the tongue, face and jaw) |
+|              |   - Acute dystonia (e.g. oculogyric crisis)                                       |
+|              | - Neuroleptic malignant syndrome                                                  |
+|              | - ↑QT~C~, ↑risk torsades de pointes                                               |
++--------------+-----------------------------------------------------------------------------------+

@@ -1,0 +1,56 @@
+#### List:
+
+- PC
+- PK
+- PD
+
+#### Physicochemical:
+
++-----------------+-------------------------------------------------------------------------------+
+| Structure/class | - Phenanthrene nucleus with substitution on amine group conferring antagonism |
+|                 | - Presented enantiopure (L-naloxone active, D-naloxone inactive) (?)          |
++-----------------+-------------------------------------------------------------------------------+
+| Presentation    | - Aqueous solution in glass ampoule                                           |
++-----------------+-------------------------------------------------------------------------------+
+
+#### Pharmacokinetic:
+
++----------------+---------------------------------------------------------+
+| Administration | - Mild narcosis: 1-4mcg/kg q2mins                       |
+|                | - Life-threatening: 1mg                                 |
+|                | - IM if prolonged effect required                       |
++----------------+---------------------------------------------------------+
+| Time course    | - Onset: \<2 mins                                       |
+|                | - Peak: 10mins                                          |
+|                | - Duration: 30mins IV, 1-2 hours IM                     |
+|                |   - Note shorter than many opioids, risk of re-sedation |
++----------------+---------------------------------------------------------+
+| Absorption     | - Oral bioav 2% (cf. naltrexone)                        |
++----------------+---------------------------------------------------------+
+| Distribution   | - Highly lipid soluble, crosses placenta                |
+|                | - Weak base, pKa 8, 23% unionised at pH 7.4             |
+|                | - Plasma protein binding 50%                            |
+|                | - V~DSS~ 2L/kg                                          |
++----------------+---------------------------------------------------------+
+| Metabolism     | - Phase 2 → naloxone-3-glucuronide                      |
+|                | - Rapid Cl 25mL/kg/min                                  |
+|                | - Short t~1/2~~β~ 60 mins                               |
++----------------+---------------------------------------------------------+
+| Excretion      | - Glucuronide metabolite → urinated                     |
++----------------+---------------------------------------------------------+
+
+#### Pharmacodynamics:
+
++-----------+-----------------------------------------------------------------------------+
+| Mechanism | - MOP:KOP:DOP = 3:2:2                                                       |
+|           | - Prevents activation of inhibitory G-protein coupled receptor              |
+|           | - ↑guanylyl cyclase activity → ↑cAMP                                        |
+|           | - ↑activity of VDCC                                                         |
+|           | - ↓K^+^ efflux → facilitate depolarisation                                  |
++-----------+-----------------------------------------------------------------------------+
+| Effects   | - Reversal of opioid toxicity i.e. sedation, respiratory depression, apnoea |
++-----------+-----------------------------------------------------------------------------+
+| Toxicity  | - Overdose → withdrawal features:                                           |
+|           | - CNS: pain, anxiety, agitation, seizure                                    |
+|           | - CVS: ↑SNS output, ↑HR, ↑mAP, arrhythmia, APO                              |
++-----------+-----------------------------------------------------------------------------+

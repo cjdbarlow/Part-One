@@ -1,0 +1,81 @@
+#### Answered as similar question ‘Discuss the determinants of renal blood flow. How is renal blood flow regulated? What are the physiological effects of angiotensin II?’
+
+Normal value for renal blood flow is 1l/min (500ml each kidney) → approx. 20% of CO 
+
+**Determinants of renal blood flow:**
+
+Renal blood flow follows ohms hydraulic law:
+
+Renal blood flow = renal perfusion pressure / renal vascular resistance.
+
+Renal bolos flow this there determined by cardiac output/MAP and subject to regulation through adjustment of renal vascular resistance.
+
+RVR determined by Hagen Poiseuille equation = 8nl/πr4
+
+R most important determinant 
+
+Renal blood flow is regulated through 3 mechanisms:
+
+**Autoregulation**
+
+- **Myogenic Autoregulation **
+
+Myogenic regulation refers to the intrinsic ability for the afferent arteriole to constrict in response to increased stretch maintaining proportional ↑vascular resistance for ↑pressure → constant flow 
+
+- **Tubuloglomerular feedback** 
+
+Tubuloglomerular feedback is mechanism of the macula densa influencing afferent and efferent arteriole dilation/constriction based on concentration of solutes reaching the macula densa at the junction ascending loop of hen lie/DCT and the junction of the afferent/efferent arteriole entering the glomerular capsule. 
+
+↑ filtrate flow →↓ reabsorption of Na → high concentration at the macula densa → release of adenosine → constriction of the afferent arteriole  
+
+↓ filtrate flow →↑ reabsorption of Na → low concentration at the macula densa → release of NO and renin  → dilation of the afferent arteriole  
+
+**Neuronal Regulation**
+
+- Kidneys are supplied by sympathetic nervous system
+
+→ NA → a1 receptors → afferent arteriolar constriction →↓ Renal Blood flow 
+
+→ NA → B1 receptors in juxtaglomerular cells → release of renin 
+
+**Hormonal Control** 
+
+- Renin released from Juxtaglomerular cells 
+
+→ Catalyses the production of angiotensin I from circulating angiotensinogen
+
+→ angiotensin I + ACE → angiotensin II
+
+Angiotensin II has the following effects (on renal blood flow) 
+
+- → release of ADH from posterior pituitary 
+
+**Effects of Angiotensin II**
+
+Angiotensin II increases blood pressure via a number of mechanisms:
+
+- Simulates aldosterone release from the adrenal cortex, increasing sodium and water retention
+- Vasoconstriction of efferent greater than the afferent arterioles
+- Results in slight decrease in GFR at a lower perfusion pressure, but increases filtration fraction.
+
+> NB: Different sources quote different changes (increase or decrease) in GFR The final effect may vary depending on the contribution of other autoregulatory processes.
+
+- Reduces Kf through constriction of glomerular mesangial cells
+- Increased SNS activity and central and peripheral vasoconstriction
+- Increases thirst via hypothalamic stimulation
+- Stimulates ADH release, reducing renal water excretion
+- Stimulates release of angiotensinogen
+
+**CVS effects**
+
+- Potent vasoconstrictor + venoconstriction →↓venous capacitance + ↑SVR →↑preload + ↑afterload →↑MAP
+
+**CNS effects**
+
+- Acts at OVLT, SFO and other periventricular organs to stimulate thirst →↑fluid intake →↑circulating volume
+- Stimulates autonomic nervous system!↑SNS tone
+
+**Renal effects**
+
+- Vasoconstriction efferent \> afferent arterioles!↓RBF and defends precipitous fall of GFR during hypovolaemia overall leads to ↑circulating volume
+- Acts on adrenal cortex (zona glomerulosa) ↑aldosterone secretion!↑Na and water retention by kidneys (DCT/CCD mechanisms) and ↑K excretion!

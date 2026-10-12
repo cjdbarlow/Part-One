@@ -1,0 +1,79 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2005B Question 2 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+Using opioids as examples [**describe**]{.task-verb} and [**illustrate with graphs**]{.task-verb} what you understand by the terms "potency", "efficacy", "partial agonist", "competitive antagonist", and "therapeutic index".
+:::
+
+Also asked in: [2012A Question 5](/content/exams/anzca/2012/A/5/index.qmd#examiner-comments), [2018B Question 7](/content/exams/anzca/2018/B/7/index.qmd#examiner-comments), [2020B Question 11](/content/exams/anzca/2020/B/11/index.qmd#examiner-comments)
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Describe and illustrate**]{.task-verb} each term with a precise definition, opioid example and labelled graph. Distinguish graded from quantal responses and keep dose or concentration on the horizontal axis.
+
+::: {.structure-headings}
+### Potency: Definition, Opioid Example and Graph
+
+### Efficacy: Definition, Opioid Example and Graph
+
+### Partial Agonism: Definition, Opioid Example and Graph
+
+### Competitive Antagonism: Definition, Opioid Example and Graph
+
+### Therapeutic Index: Definition, Opioid Example and Graph
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**83 %** of candidates passed this question.
+
+The requirements of the question are clearly set out. Therefore, it is important to use opioids as examples and to illustrate the concepts with graphs. While it is efficient to incorporate all curves into a single graph, candidates using this approach often have difficulty in marking the changes clearly. Other common mistakes included failure to highlight the key components in the graph (e.g. ED~50~, maximal effect) and to label the axes accurately. In particular, it is often unclear as to which drug is being increased in the x-axis (dose or log dose). It is also apparent that a number of candidates are confused with the difference between graded and quantal dose response curves. As a whole, this is a straight forward question and the concepts are well known to most candidates.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard}
+
+### Passing Standard
+
+{{< include /content/exams/anzca/2005/B/2/_pass.qmd >}}
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2005/B/2/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Dose–response curves](/content/pharmacology/dose_response.qmd)
+- [Opioids](/content/pharmacopoeia/analgesics/opioids.qmd)

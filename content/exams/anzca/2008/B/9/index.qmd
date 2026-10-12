@@ -1,0 +1,76 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2008B Question 9 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**What is**]{.task-verb} humidity and [**how can**]{.task-verb} it be measured?
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**Define**]{.task-verb} absolute and relative humidity with units and temperature dependence, then [**explain**]{.task-verb} at least two measurement methods. Include principles, representative saturated values and relative merits.
+
+::: {.structure-headings}
+### Definitions and Temperature Dependence
+
+### Hair Hygrometer
+
+### Wet and Dry Bulb Hygrometer
+
+### Regnault’s Hygrometer
+
+### Electrical and Other Methods
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**53%** of candidates passed this question.
+
+The minimum requirement for a pass mark was an adequate definition of humidity and a brief description of two methods of its measurement. Candidates were expected to be able to define absolute and relative humidity, extra marks were awarded for an explanation of the influence of temperature on humidity and for the provision of the humidity of fully saturated air at 20 and 37 degrees. A common error was the description of absolute humidity as a pressure, rather than as mass of water vapour /volume of air. Successful candidates could in general describe hair hygrometers, wet and dry bulb hygrometers and Regnault’s hygrometer. Extra marks were awarded for a description of the relative merits of these techniques and for descriptions of other methods for measuring absolute humidity (such as electrical transducers / mass spectrometry). However, no marks were awarded for descriptions of humidifiers, or for discussion on the environmental or clinical consequences of high or low humidity.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize}
+
+### Prize
+
+{{< include /content/exams/anzca/2008/B/9/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Humidity](/content/equipment/humidity.qmd)

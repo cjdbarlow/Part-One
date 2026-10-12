@@ -1,0 +1,78 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: /themes/exam-answers.css
+from: markdown-smart-implicit_figures
+---
+
+# 2006A Question 10 {.unnumbered}
+
+::: {.exam-question}
+## Question {.question-label}
+
+[**List**]{.task-verb} the physiological factors which increase respiratory rate and [**include a brief explanation**]{.task-verb} of the mechanism by which each achieves this increase.
+:::
+
+:::: {#answer-structure}
+
+## Suggested Structure
+
+[**List**]{.task-verb} factors by receptor or physiological pathway and [**include a brief explanation**]{.task-verb} of how each increases respiratory rate. Prioritise hypoxia, hypercapnia and acidosis and include quantitative or synergistic effects where relevant.
+
+::: {.structure-headings}
+### Chemical Stimuli and Chemoreceptors
+
+### Mechanical and Pulmonary Receptors
+
+### Exercise and Increased Metabolic Rate
+
+### Central Influences, Age and Pregnancy
+:::
+
+::::
+
+## Examiner Comments
+
+::: {.examiner-comments}
+**62 %** of candidates passed this question.
+
+Points required for a pass were: Listing and understanding of the mechanisms by which hypoxia, hypercapnia, and acidosis induce hyperpnoea plus some of the other common causes of tachypnoea (e.g. exercise, increased BMR, hypotension, activation of skeletal muscle stretch, various pulmonary conditions/receptors/work of breathing, CNS causes - voluntary control and in response to pain, age, pregnancy..
+
+Additional marks were given for: Quantitative description of various stimuli, synergistic interactions. Whilst some marks were awarded for description of the various brain-stem centres that control breathing, the descriptions were often not directly linked to tachypnoea.
+
+Some candidates wasted time describing factors that slowed respiratory rate, and the definitions of alveolar ventilation.
+:::
+
+## Answers
+
+:::::: {.exam-comparison}
+
+{{< include /content/exams/anzca/_answer-controls.qmd >}}
+
+::::: {.answer-columns}
+:::: {#standard-answer .exam-answer .answer-standard .answer-unavailable}
+
+### Passing Standard
+
+No matching answer was supplied.
+
+::::
+:::: {#prize-answer .exam-answer .answer-prize .answer-label-tables}
+
+### Prize
+
+{{< include /content/exams/anzca/2006/A/10/_prize.qmd >}}
+
+::::
+:::::
+
+::: {.answers-hidden}
+:::
+
+::::::
+
+## Further Reading
+
+- [Control of breathing](/content/resp/breathing_control.qmd)

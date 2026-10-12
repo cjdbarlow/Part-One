@@ -1,0 +1,24 @@
+Gastric emptying is a local, neural and hormonal mediated process that transfers gastric contents from the stomach to the small intestine in a controlled way. The rate of gastric emptying is primarily controlled by the duodenum.
+
+Rate of gastric emptying is a function of:
+
+- The consistency of chyme:
+  - Liquids empty faster than solids, the pyloric sprinter tone increases when solids are present in the antrum
+- Volume of chyme 
+  - Stomach /gastric distension, vagal excitation from gastric stretch causes the release of gastrin increasing peristaltic frequency.
+- Composition of chyme
+  - Protein enters the small intestine the most rapidly, followed by carbohydrate. High-fat meals are associated with the slowest gastric emptying.
+  - Protein independently stimulates gastrin release
+- The duodenum has hormonal mechanisms which have **negative feedback** on gastric emptying. The four main duodenal factors that slow the rate of gastric emptying are:
+- **Duodenal distension**. This results in a reflex inhibition of the enteric nervous system, reducing gastric emptying.
+- **pH**. In response to acid the duodenum releases **secretin** and **somatostatin**:
+  - Secretin directly inhibits gastric smooth muscle
+  - Somatostatin inhibits gastrin release
+  - **Fat**. Cholecystokinin (CCK) is secreted by the duodenal mucosa in response to the presence of duodenal lipid. CCK increases the tone of the pylorus, thereby reducing gastric emptying.
+- **Hyperosmolarity**. Hyperosmolar chyme passing into the duodenum inhibits gastric emptying through a complex enteric nervous system reflex.
+
+In addition, there are a number of other factors that inhibit gastric emptying:
+
+- **Sympathetic** input from the coeliac plexus **inhibits** gastric emptying
+- pain;
+- drugs (for example, opioids);
