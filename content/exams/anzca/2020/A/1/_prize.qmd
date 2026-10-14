@@ -13,29 +13,31 @@
 
 #### BChE abnormality (sux apnoea):
 
-+------------+---------------------------------------------------------------+
-| Genetics   | - Two copies                                                  |
-|            | - Four alleles:                                               |
-|            |   - Normal (N)                                                |
-|            |   - Dibucaine-resistance (DR)                                 |
-|            |   - Chloride-resistant (CR)                                   |
-|            |   - Absent (A)                                                |
-|            |                                                               |
-|            |   Alleles   \% population   Dibucaine number   Duration       |
-|            |   --------- --------------- ------------------ ------------   |
-|            |   N-N       96%             80                 5-10mins       |
-|            |   N-DR      \<4%            60                 15-30mins      |
-|            |   DR-DR     0.03%           20                 8-12 hours     |
-+------------+---------------------------------------------------------------+
-| Test       | - Patient’s plasma + dibucaine + 10^-5^ benzylcholine         |
-|            | - Dibucaine number = % inhibition of benzylcholine metabolism |
-|            | - Normal-normal → 80% inhibition (as above)                   |
-+------------+---------------------------------------------------------------+
-| Management | - If no reversal after 30 mins                                |
-|            | - Prolonged ventilation and sedation in ICU                   |
-|            | - Monitor with nerve stimulator                               |
-|            | - +/- FFP                                                     |
-+------------+---------------------------------------------------------------+
++------------+------------------+------------------+----------------------+------------------+
+| Genetics   | - Two copies                                                                  |
+|            | - Four alleles:                                                               |
+|            |   - Normal (N)                                                                |
+|            |   - Dibucaine-resistance (DR)                                                 |
+|            |   - Chloride-resistant (CR)                                                   |
+|            |   - Absent (A)                                                                |
+|            +------------------+------------------+----------------------+------------------+
+|            | **Alleles**      | **% population** | **Dibucaine number** | **Duration**     |
+|            +------------------+------------------+----------------------+------------------+
+|            | N-N              | 96%              | 80                   | 5-10mins         |
+|            +------------------+------------------+----------------------+------------------+
+|            | N-DR             | \<4%             | 60                   | 15-30mins        |
+|            +------------------+------------------+----------------------+------------------+
+|            | DR-DR            | 0.03%            | 20                   | 8-12 hours       |
++------------+------------------+------------------+----------------------+------------------+
+| Test       | - Patient’s plasma + dibucaine + 10^-5^ benzylcholine                         |
+|            | - Dibucaine number = % inhibition of benzylcholine metabolism                 |
+|            | - Normal-normal → 80% inhibition (as above)                                   |
++------------+-------------------------------------------------------------------------------+
+| Management | - If no reversal after 30 mins                                                |
+|            | - Prolonged ventilation and sedation in ICU                                   |
+|            | - Monitor with nerve stimulator                                               |
+|            | - +/- FFP                                                                     |
++------------+-------------------------------------------------------------------------------+
 
 #### BChE deficiency (rarely significant):
 

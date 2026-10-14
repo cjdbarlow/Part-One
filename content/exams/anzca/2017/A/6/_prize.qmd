@@ -1,84 +1,82 @@
-+-------------------------+---------------------------------------------------------------------------------------------------------------------+
-| Unsafe paralysis        | - Can’t intubate, can’t oxygenate → desaturation → death                                                            |
-|                         | - Can’t protect airway → aspiration                                                                                 |
-+-------------------------+---------------------------------------------------------------------------------------------------------------------+
-| Histamine release       | - Direct effect on mast cells. Not immune mediated.                                                                 |
-|                         | - Degranulation of mast cells                                                                                       |
-|                         | - H1 (G~q~):                                                                                                        |
-|                         |   - Vasodilatation, capillary leak, ↓mAP                                                                            |
-|                         |   - ↓AV node conduction, coronary vasoconstriction                                                                  |
-|                         |   - Bronchoconstriction                                                                                             |
-|                         | - H2 (G~s~):                                                                                                        |
-|                         |   - ↑contractility, coronary vasodilatation                                                                         |
-|                         |   - Bronchodilatation                                                                                               |
-+-------------------------+---------------------------------------------------------------------------------------------------------------------+
-| Anaphylaxis             | - 1 in 2000-2500                                                                                                    |
-|                         | - Similar to rocuronium                                                                                             |
-|                         | - Depends upon population                                                                                           |
-|                         | - 1^st^ exposure: activation of specific T cell, IgE produced by specific B cell, fixes on mast cells and basophils |
-|                         | - 2^nd^ exposure: systemic degranulation of mast cells, IgE mediated                                                |
-+-------------------------+---------------------------------------------------------------------------------------------------------------------+
-| Myalgia                 | - ? Due to depolarisation → fasciculation                                                                           |
-|                         | - Risk factors: young, muscular                                                                                     |
-|                         | - Prevention: 5% ED~95~ non-depolarising relaxant prior (not very effective)                                        |
-|                         | - Treatment: analgesia, NSAID (not very effective)                                                                  |
-+-------------------------+---------------------------------------------------------------------------------------------------------------------+
-| ↑Intra-ocular pressure  | - Depolarisation → contraction of extraocular muscle                                                                |
-|                         | - ↑10cmH~2~O                                                                                                        |
-|                         | - Avoid in open globe injury                                                                                        |
-|                         | - Coughing during laryngoscopy causes greater ↑IOP                                                                  |
-+-------------------------+---------------------------------------------------------------------------------------------------------------------+
-| ↑Intra-gastric pressure | - Depolarisation → contraction of abdo wall                                                                         |
-|                         | - ↑10cmH~2~O                                                                                                        |
-|                         | - But also ↑lower oesophageal sphincter tone                                                                        |
-|                         | - Risk of GOR +/- aspiration if barrier pressure \<13cmH~2~O                                                        |
-+-------------------------+---------------------------------------------------------------------------------------------------------------------+
-| Arrhythmia              | - Sinus bradycardia, AV block, asystole                                                                             |
-|                         | - Due to agonism at cardiac mAChR                                                                                   |
-|                         | - Risk factors: big dose \>2mg/kg, young children, AV node pathology                                                |
-|                         | - Rx: atropine                                                                                                      |
-+-------------------------+---------------------------------------------------------------------------------------------------------------------+
-| Hyperkalaemia           | - Depolarisation → open cation channel → K^+^ efflux (also Na^+^ and Ca^2+^ influx)                                 |
-|                         | - Normal: ↑K^+^ \~0.5mmol/L                                                                                         |
-|                         |   - May be significant if renal failure with existing ↑K^+^                                                         |
-|                         | - Denervation: ↑↑K^+^ → arrhythmia, cardiac arrest                                                                  |
-|                         |   - ↑ extrajunctional receptors with γ-ε substitution → ↑channel opening time                                       |
-|                         |   - e.g. burns, critical illness myopathy, muscular dystrophy                                                       |
-|                         |   - Highest risk 1 week – 3 months after onset                                                                      |
-|                         | - ECG changes (in order)                                                                                            |
-|                         |   - Repolarization abnormalities (tall T waves)                                                                     |
-|                         |   - \>Atrial paralysis (small or absent P wave)                                                                     |
-|                         |   - Conduction delay (AV block, wide QRS)                                                                           |
-|                         |   - Cardiac arrest \~8-9mM (sine wave, asystole)                                                                    |
-+-------------------------+---------------------------------------------------------------------------------------------------------------------+
-| Suxamethonium apnoea    | - Two stage metabolism by plasma cholinesterase (PChE) to inactive products                                         |
-|                         | - Two alleles for PChE. Variations: normal, dibucaine-resistant (DR), fluoride-resistant, silent                    |
-|                         | - Treatment: sedate and ventilate in ICU; consider FFP or dialysis                                                  |
-|                         | - Follow up: testing of patient and family                                                                          |
-|                         |                                                                                                                     |
-|                         | +-------------+---------------+----------------------+-----------------+                                            |
-|                         | | **Alleles** | **Frequency** | **Dibucaine number** | **Offset time** |                                            |
-|                         | +=============+===============+======================+=================+                                            |
-|                         | | 2 x normal  | 96%           | 80                   | 5min            |                                            |
-|                         | +-------------+---------------+----------------------+-----------------+                                            |
-|                         | | 1 x normal  | \<4%          | 60                   | 20-30 mins      |                                            |
-|                         | |             |               |                      |                 |                                            |
-|                         | | 1 x DR      |               |                      |                 |                                            |
-|                         | +-------------+---------------+----------------------+-----------------+                                            |
-|                         | | 2 x DR      | 0.03%         | 20                   | 8 hours         |                                            |
-|                         | |             |               |                      |                 |                                            |
-|                         | |             | 1 in 30,000   |                      | = sux apnoea    |                                            |
-|                         | +-------------+---------------+----------------------+-----------------+                                            |
-+-------------------------+---------------------------------------------------------------------------------------------------------------------+
-| Masseter spasm          | - ? forme fruste malignant hyperthermia, ? due to under-dosing                                                      |
-|                         | - Especially in children                                                                                            |
-|                         | - May impede intubation                                                                                             |
-+-------------------------+---------------------------------------------------------------------------------------------------------------------+
-| Malignant hyperthermia  | - Hypermetabolic reaction to volatile anaesthetics and suxamethonium                                                |
-|                         | - Mutation in RYR1 gene encoding skeletal muscle ryanodine receptor/channel on sarcoplasmic reticulum               |
-|                         | - Continuous Ca^2+^ release, tetany, ↑temp, rhabdo                                                                  |
-|                         | - 80% mortality if untreated                                                                                        |
-|                         | - Specific Rx: dantrolene 1mg/kg up to 10x then infuse 24 hours                                                     |
-|                         | - General Rx: stop drug, sedate, intubate, ventilation, cool                                                        |
-|                         | - Treat complications: e.g. hyperkalaemia, arrhythmia                                                               |
-+-------------------------+---------------------------------------------------------------------------------------------------------------------+
++-------------------------+---------------------------------+---------------------------------+---------------------------------+---------------------------------+
+| Unsafe paralysis        | - Can’t intubate, can’t oxygenate → desaturation → death                                                                              |
+|                         | - Can’t protect airway → aspiration                                                                                                   |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Histamine release       | - Direct effect on mast cells. Not immune mediated.                                                                                   |
+|                         | - Degranulation of mast cells                                                                                                         |
+|                         | - H1 (G~q~):                                                                                                                          |
+|                         |   - Vasodilatation, capillary leak, ↓mAP                                                                                              |
+|                         |   - ↓AV node conduction, coronary vasoconstriction                                                                                    |
+|                         |   - Bronchoconstriction                                                                                                               |
+|                         | - H2 (G~s~):                                                                                                                          |
+|                         |   - ↑contractility, coronary vasodilatation                                                                                           |
+|                         |   - Bronchodilatation                                                                                                                 |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Anaphylaxis             | - 1 in 2000-2500                                                                                                                      |
+|                         | - Similar to rocuronium                                                                                                               |
+|                         | - Depends upon population                                                                                                             |
+|                         | - 1^st^ exposure: activation of specific T cell, IgE produced by specific B cell, fixes on mast cells and basophils                   |
+|                         | - 2^nd^ exposure: systemic degranulation of mast cells, IgE mediated                                                                  |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Myalgia                 | - ? Due to depolarisation → fasciculation                                                                                             |
+|                         | - Risk factors: young, muscular                                                                                                       |
+|                         | - Prevention: 5% ED~95~ non-depolarising relaxant prior (not very effective)                                                          |
+|                         | - Treatment: analgesia, NSAID (not very effective)                                                                                    |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| ↑Intra-ocular pressure  | - Depolarisation → contraction of extraocular muscle                                                                                  |
+|                         | - ↑10cmH~2~O                                                                                                                          |
+|                         | - Avoid in open globe injury                                                                                                          |
+|                         | - Coughing during laryngoscopy causes greater ↑IOP                                                                                    |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| ↑Intra-gastric pressure | - Depolarisation → contraction of abdo wall                                                                                           |
+|                         | - ↑10cmH~2~O                                                                                                                          |
+|                         | - But also ↑lower oesophageal sphincter tone                                                                                          |
+|                         | - Risk of GOR +/- aspiration if barrier pressure \<13cmH~2~O                                                                          |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Arrhythmia              | - Sinus bradycardia, AV block, asystole                                                                                               |
+|                         | - Due to agonism at cardiac mAChR                                                                                                     |
+|                         | - Risk factors: big dose \>2mg/kg, young children, AV node pathology                                                                  |
+|                         | - Rx: atropine                                                                                                                        |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Hyperkalaemia           | - Depolarisation → open cation channel → K^+^ efflux (also Na^+^ and Ca^2+^ influx)                                                   |
+|                         | - Normal: ↑K^+^ \~0.5mmol/L                                                                                                           |
+|                         |   - May be significant if renal failure with existing ↑K^+^                                                                           |
+|                         | - Denervation: ↑↑K^+^ → arrhythmia, cardiac arrest                                                                                    |
+|                         |   - ↑ extrajunctional receptors with γ-ε substitution → ↑channel opening time                                                         |
+|                         |   - e.g. burns, critical illness myopathy, muscular dystrophy                                                                         |
+|                         |   - Highest risk 1 week – 3 months after onset                                                                                        |
+|                         | - ECG changes (in order)                                                                                                              |
+|                         |   - Repolarization abnormalities (tall T waves)                                                                                       |
+|                         |   - \>Atrial paralysis (small or absent P wave)                                                                                       |
+|                         |   - Conduction delay (AV block, wide QRS)                                                                                             |
+|                         |   - Cardiac arrest \~8-9mM (sine wave, asystole)                                                                                      |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Suxamethonium apnoea    | - Two stage metabolism by plasma cholinesterase (PChE) to inactive products                                                           |
+|                         | - Two alleles for PChE. Variations: normal, dibucaine-resistant (DR), fluoride-resistant, silent                                      |
+|                         | - Treatment: sedate and ventilate in ICU; consider FFP or dialysis                                                                    |
+|                         | - Follow up: testing of patient and family                                                                                            |
+|                         +---------------------------------+---------------------------------+---------------------------------+---------------------------------+
+|                         | **Alleles**                     | **Frequency**                   | **Dibucaine number**            | **Offset time**                 |
+|                         +---------------------------------+---------------------------------+---------------------------------+---------------------------------+
+|                         | 2 x normal                      | 96%                             | 80                              | 5min                            |
+|                         +---------------------------------+---------------------------------+---------------------------------+---------------------------------+
+|                         | 1 x normal                      | \<4%                            | 60                              | 20-30 mins                      |
+|                         |                                 |                                 |                                 |                                 |
+|                         | 1 x DR                          |                                 |                                 |                                 |
+|                         +---------------------------------+---------------------------------+---------------------------------+---------------------------------+
+|                         | 2 x DR                          | 0.03%                           | 20                              | 8 hours                         |
+|                         |                                 |                                 |                                 |                                 |
+|                         |                                 | 1 in 30,000                     |                                 | = sux apnoea                    |
++-------------------------+---------------------------------+---------------------------------+---------------------------------+---------------------------------+
+| Masseter spasm          | - ? forme fruste malignant hyperthermia, ? due to under-dosing                                                                        |
+|                         | - Especially in children                                                                                                              |
+|                         | - May impede intubation                                                                                                               |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Malignant hyperthermia  | - Hypermetabolic reaction to volatile anaesthetics and suxamethonium                                                                  |
+|                         | - Mutation in RYR1 gene encoding skeletal muscle ryanodine receptor/channel on sarcoplasmic reticulum                                 |
+|                         | - Continuous Ca^2+^ release, tetany, ↑temp, rhabdo                                                                                    |
+|                         | - 80% mortality if untreated                                                                                                          |
+|                         | - Specific Rx: dantrolene 1mg/kg up to 10x then infuse 24 hours                                                                       |
+|                         | - General Rx: stop drug, sedate, intubate, ventilation, cool                                                                          |
+|                         | - Treat complications: e.g. hyperkalaemia, arrhythmia                                                                                 |
++-------------------------+---------------------------------------------------------------------------------------------------------------------------------------+

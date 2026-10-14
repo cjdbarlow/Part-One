@@ -42,25 +42,27 @@
 
 #### Elimination from central compartment: (factors accelerating it)
 
-+-----------------+------------------------------------------------------------------------------+
-| Short infusion  | Offset during distribution phase                                             |
-|                 |                                                                              |
-|                 | - ↑Cardiac output                                                            |
-|                 | - ↑Volume of distribution (e.g. fentanyl faster than alfentanil)             |
-+-----------------+------------------------------------------------------------------------------+
-| Long infusion   | Offset during terminal elimination phase                                     |
-|                 |                                                                              |
-|                 | - ↓Cardiac output                                                            |
-|                 | - ↓Volume of distribution (e.g. alfentanil faster than fentanyl)             |
-|                 | - ↑Metabolism (e.g. remifentanil faster than all)                            |
-|                 | - ↑Excretion of drug or active metabolite                                    |
-+-----------------+------------------------------------------------------------------------------+
-| Opioid examples |                  **V~D~ (L/kg)**   **Cl (mL/kg/min)**   **t~1/2β~ (mins)**   |
-|                 |   -------------- ----------------- -------------------- -------------------- |
-|                 |   Fentanyl       3.5               13                   200                  |
-|                 |   Alfentanil     0.6               6                    100                  |
-|                 |   Remifentanil   0.3               40                   10                   |
-+-----------------+------------------------------------------------------------------------------+
++-------------------+----------------+-------------------+----------------------+----------------------+
+| Short infusion    | Offset during distribution phase                                                 |
+|                   |                                                                                  |
+|                   | - ↑Cardiac output                                                                |
+|                   | - ↑Volume of distribution (e.g. fentanyl faster than alfentanil)                 |
++-------------------+----------------+-------------------+----------------------+----------------------+
+| Long infusion     | Offset during terminal elimination phase                                         |
+|                   |                                                                                  |
+|                   | - ↓Cardiac output                                                                |
+|                   | - ↓Volume of distribution (e.g. alfentanil faster than fentanyl)                 |
+|                   | - ↑Metabolism (e.g. remifentanil faster than all)                                |
+|                   | - ↑Excretion of drug or active metabolite                                        |
++-------------------+----------------+-------------------+----------------------+----------------------+
+| Opioid examples   |                | **V~D~ (L/kg)**   | **Cl (mL/kg/min)**   | **t~1/2β~ (mins)**   |
+|                   +----------------+-------------------+----------------------+----------------------+
+|                   | Fentanyl       | 3.5               | 13                   | 200                  |
+|                   +----------------+-------------------+----------------------+----------------------+
+|                   | Alfentanil     | 0.6               | 6                    | 100                  |
+|                   +----------------+-------------------+----------------------+----------------------+
+|                   | Remifentanil   | 0.3               | 40                   | 10                   |
++-------------------+----------------+-------------------+----------------------+----------------------+
 
 #### Ce threshold for offset:
 
