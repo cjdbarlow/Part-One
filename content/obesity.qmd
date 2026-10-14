@@ -1,0 +1,43 @@
+# Obesity
+
+
+Obesity is a multisystem disorder defined by an elevated body mass index (BMI):
+
+* Normal: BMI < 25
+* Overweight: BMI 25 - 30
+* Obese: BMI > 30
+* Morbidly Obese:\
+    * Obesity related disease and a BMI > 35
+    * BMI > 40
+  \
+Characteristics of obesity include:
+
+* Complex genetic and environmental causes
+* Increased caloric intake
+* Increased metabolic rate (normal for BSA)
+
+Obesity is associated with many diseases (hypertension, ischaemic heart disease, diabetes, osteoarthritis, etc), but primary exam questions focus predominantly on physiological effects of uncomplicated obesity.
+
+## Respiratory Effects
+
+Respiratory effects predominantly due to increased fat load and its distribution:
+
+* Increased neck fat predisposes to airway collapse in negative pressure ventilation (OSA) and increases difficulty of surgical airway and IJ CVC insertion
+* Abdominal fat increases intraabdominal fat and reduces FRC, increasing shunt and causing resting hypoxia\
+    * FRC typically decreased to ~1L when BMI > 40.
+    * FRC may approach closing capacity
+    * Shunt may worsen during anaesthesia
+
+
+## GIT Effects
+
+Increased risk of:
+
+* GORD
+* Hiatus hernia
+
+---
+
+## References
+
+1. Lotia S, Bellamy MC. [Anaesthesia and morbid obesity](https://academic.oup.com/bjaed/article/8/5/151/268305/Anaesthesia-and-morbid-obesity). Contin Educ Anaesth Crit Care Pain 2008; 8 (5): 151-156. doi: 10.1093/bjaceaccp/mkn030
